@@ -5,15 +5,15 @@ birth_year: 1955
 death_year: null
 notable_games: ["Quest for Glory series", "Castle of Dr. Brain", "Hero-U: Rogue to Redemption"]
 companies: ["Sierra On-Line", "FAR Productions", "Transolar Games"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Corey Cole
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Corey Cole (born 1955) is an American game designer and programmer, best known as co-designer, with his wife [[Lori Ann Cole]], of Sierra On-Line's Quest for Glory series.[^ref-18][^ref-1] The Coles came to computer games from years of running Dungeons & Dragons campaigns, and Quest for Glory set out to bring the tabletop mix of storytelling and role-playing into Sierra's adventure-game engine.[^ref-1][^ref-9] Computer Gaming World named the first game, *Hero's Quest*, its Adventure Game of the Year in 1990, listing "Lori Ann and Corey Cole (designers)" among the nominees and praising the game for "combining the adventure game and role-playing genres."[^ref-21]
+Corey Cole (born 1955) is an American game designer and programmer, best known as co-designer, with his wife [[Lori Ann Cole]], of Sierra On-Line's [[Quest for Glory Series|Quest for Glory series]].[^ref-18][^ref-1] The Coles came to computer games from years of running Dungeons & Dragons campaigns, and Quest for Glory set out to bring the tabletop mix of storytelling and role-playing into Sierra's adventure-game engine.[^ref-1][^ref-9] Computer Gaming World named the first game, *Hero's Quest*, its Adventure Game of the Year in 1990, listing "Lori Ann and Corey Cole (designers)" among the nominees and praising the game for "combining the adventure game and role-playing genres."[^ref-21]
 
 Corey joined Sierra in 1988, and his first job there was converting Sierra's SCI game engine to the Atari ST.[^ref-7][^ref-18] Sierra's offer was "40% less than Corey had last earned in the Bay Area"; he negotiated slightly more, and the Coles later wrote, "We weren't sure we'd be able to pay our bills and keep food on the table, but we'd always wanted to make games."[^ref-2] Lori wrote most of the series' dialogue while Corey concentrated on programming on most of the games; on Quest for Glory IV he worked as designer, director and writer rather than programmer.[^ref-5][^ref-3][^ref-6]
 
@@ -25,7 +25,7 @@ Corey started out on chess and board games and found Dungeons & Dragons in the m
 
 ### Sierra Years
 
-A science fiction fan friend introduced the Coles to Ken Williams in 1988, and Sierra hired Corey because it "badly needed an engineer who understood Atari ST programming."[^ref-7][^ref-2] MobyGames credits him with the Atari ST versions of several Sierra games, and with development-system work on many SCI titles of 1989–1991.[^ref-6] As he later told PC Gamer: "I spent that first year working with the internals of the SCI system, and I said, 'We could do an Ultima game, but your system isn't really suitable for it. Why don't we try what we do at the roleplaying table? Because we don't play all-combat games, we have storytelling games and your adventure games are a lot like that.'"[^ref-9]
+A science fiction fan friend introduced the Coles to [[Ken Williams]] in 1988, and Sierra hired Corey because it "badly needed an engineer who understood Atari ST programming."[^ref-7][^ref-2] MobyGames credits him with the Atari ST versions of several Sierra games, and with development-system work on many SCI titles of 1989–1991.[^ref-6] As he later told PC Gamer: "I spent that first year working with the internals of the SCI system, and I said, 'We could do an Ultima game, but your system isn't really suitable for it. Why don't we try what we do at the roleplaying table? Because we don't play all-combat games, we have storytelling games and your adventure games are a lot like that.'"[^ref-9]
 
 Lori directed the project that became *Hero's Quest*. Corey, unhappy at staying in the same job with no pay raise, was offered the lead programmer role and stock options, and the Coles were then "officially working together on the game."[^ref-2] The game used a "practice makes perfect" approach to skills "instead of the coarser D&D level system."[^ref-2] It shipped in late October 1989, and the Coles wrote that "Sierra sold over 100,000 copies of Hero's Quest in the first month."[^ref-2] Computer Gaming World's September 1990 awards named it Adventure Game of the Year.[^ref-21]
 
@@ -33,15 +33,15 @@ Because of a trademark conflict, the series was renamed Quest for Glory from the
 
 MobyGames credits Corey with design, programming and interpreter/development-system work on Quest for Glory II: Trial by Fire (1990).[^ref-6] For Quest for Glory III: Wages of War (1992) he is credited with design, technical documentation and a voice role, not programming; the Quest for Glory fan wiki says his work on Castle of Dr. Brain and Sierra's educational group left him credited only as a co-designer.[^ref-6][^ref-3] Quest for Glory: Shadows of Darkness (1993) credits him with design, direction and writing, and the fan wiki describes it as the only game on which he worked full time as designer and writer rather than programmer.[^ref-6][^ref-13][^ref-3] He said of its narrator: "Incidentally, working with John was incredible. We handed him about three times as many lines as he thought he was going to perform, and he stepped right up to the task. I would love to work with him again."[^ref-5][^ref-19]
 
-Between the second and third games, each of the Coles designed an educational game for Sierra's Discovery Series: Lori's was Mixed-Up Fairy Tales, on which Corey was lead programmer, and Corey's was [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] (1991).[^ref-12][^ref-6] He was also put in charge of Sierra's educational games group.[^ref-3] He received a Development System credit on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] (1990).[^ref-6]
+Between the second and third games, each of the Coles designed an educational game for Sierra's Discovery Series: Lori's was Mixed-Up Fairy Tales, on which Corey was lead programmer, and Corey's was [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] (1991).[^ref-12][^ref-6] He was also put in charge of Sierra's educational games group.[^ref-3] He received a Development System credit on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] (1990).[^ref-6] Sierra's *InterAction* magazine reported in spring 1993 that Richard Aronson, a Sierra programmer and Bridge champion, "recruited fellow programmer and Bridge champ Corey Cole" to help design the Bridge strategy for the VGA revision of Hoyle 1, which became [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]].[^ref-24]
 
 ### Later Career
 
-In a 2002 interview Corey said Sierra did not think another Quest for Glory "would be profitable at the budget it would require" after the fourth game.[^ref-17] Wikipedia describes him as included in Sierra's 1994 layoff, while the Quest for Glory fan wiki says the Coles worked for Sierra as freelance contractors on royalties.[^ref-18][^ref-3] The Coles formed FAR Productions and made [[1995 - Shannara|Shannara]] (1995) for Legend Entertainment.[^ref-3][^ref-6] When Sierra revived the series, Lori was rehired as an employee; Corey spent the following year working for a company near San Francisco before returning to Sierra in 1997.[^ref-3] On [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998) he is credited as RPG System Engineer and System Software Engineer, and the fan wiki notes that he joined late in development.[^ref-6][^ref-3] His last Sierra-era credits are programming on the Game Boy Color versions of [[2000 - Hoyle Casino|Hoyle Casino]] and Barbie: Fashion Pack Games (2000).[^ref-6]
+In a 2002 interview Corey said Sierra did not think another Quest for Glory "would be profitable at the budget it would require" after the fourth game.[^ref-17] Wikipedia describes him as included in Sierra's 1994 layoff, and PC Gamer reports that "when Sierra downsized in the mid-90s, the Coles were laid off."[^ref-18][^ref-9] The Coles formed FAR Productions and made [[1995 - Shannara|Shannara]] (1995) for Legend Entertainment.[^ref-3][^ref-6] When Sierra revived the series, Lori was rehired as an employee; Corey spent the following year working for a company near San Francisco before returning to Sierra in 1997.[^ref-3] MobyGames dates Passport2Bridge, the earliest of the online games it lists for him, to 1996, and the fan wiki says that after Shannara he worked on an online card and board game site.[^ref-7][^ref-3] On [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998) he is credited as RPG System Engineer and System Software Engineer, and the fan wiki notes that he joined late in development.[^ref-6][^ref-3]
 
-After Sierra closed its Yosemite Entertainment office in 1999, Corey moved into online gaming, with projects including Passport2Bridge, Explorati and JetSetPoker.com, and worked with Lori on the online School for Heroes.[^ref-7] In May 2002 he told Adventure Gamers that he and Lori were working with Explorati, Inc. on an Internet-based system that would be "a cross between games, storytelling, and a few other things."[^ref-17]
+After Sierra closed its [[Yosemite Entertainment]] office in 1999, Corey moved into online gaming, with projects including Explorati (2001) and JetSetPoker.com (2003), and worked with Lori on the online School for Heroes.[^ref-7] MobyGames also credits him, in 2000, with programming at Pulsar Interactive on two Game Boy Color games: [[2000 - Hoyle Casino|Hoyle Casino]], published by Sierra, and Barbie: Fashion Pack Games, published by Mattel Interactive.[^ref-6][^ref-22][^ref-23] In May 2002 he told Adventure Gamers that he and Lori were working with Explorati, Inc. on an Internet-based system that would be "a cross between games, storytelling, and a few other things."[^ref-17]
 
-In 2012, prompted by fans and by Double Fine's crowdfunding success, the Coles launched a Kickstarter for [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]. Corey recalled: "Our first Kickstarter we asked for $400,000 and everybody thought we were insane."[^ref-9][^ref-18] The game was released by their company, Transolar Games, on July 9, 2018; Transolar's site describes Corey as its president, handling company administration and community management.[^ref-20] A second campaign, Summer Daze at Hero-U, raised $106,155 from 1,639 backers, and led to [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (2023).[^ref-10][^ref-7] The campaign page quotes him: "Summer Daze at Hero-U is a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-10] Transolar's site now also promotes further Hero-U interactive-fiction games.[^ref-15]
+Prompted by fans and by Double Fine's crowdfunding success, the Coles launched a Kickstarter in October 2012 for [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]. Corey recalled: "Our first Kickstarter we asked for $400,000 and everybody thought we were insane."[^ref-9][^ref-18] The game was released by their company, [[Transolar Games]], on July 9, 2018; Transolar's site describes Corey as its president, handling company administration and community management.[^ref-20] A later campaign, Summer Daze at Hero-U (October 1 to November 5, 2019), raised $106,155 from 1,639 backers, and led to [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (2023).[^ref-10][^ref-7] The campaign page quotes him: "Summer Daze at Hero-U is a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-10] Transolar's site now also promotes further Hero-U interactive-fiction games.[^ref-15]
 
 ## Notable Works
 
@@ -51,11 +51,11 @@ Corey co-designed the first four Quest for Glory games with Lori and programmed 
 
 ### Castle of Dr. Brain (1991)
 
-MobyGames credits [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] as "Designed and Directed by" Corey Cole, and he is also among its programmers; MobyGames describes him as its main designer, "with just a little help from Lori."[^ref-6][^ref-7] Wikipedia notes that the Children's Television Workshop licensed the Dr. Brain series for use in its programming on December 9, 1993.[^ref-18] According to the fan wiki, Corey had little to do with the sequels, which Sierra gave to a new writer rather than pay the Coles royalties, something he was unhappy about at the time.[^ref-3]
+MobyGames credits [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] as "Designed and Directed by" Corey Cole, and he is also among its programmers; MobyGames describes him as its main designer, "with just a little help from Lori."[^ref-6][^ref-7] Wikipedia notes that the Children's Television Workshop licensed the [[Dr. Brain Series|Dr. Brain series]] for use in its programming on December 9, 1993.[^ref-18] Corey had little to do with the sequels, according to the Quest for Glory fan wiki, which also says that Sierra gave them to a new writer rather than pay the Coles royalties.[^ref-3]
 
 ### Hero-U: Rogue to Redemption (2018)
 
-[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign; even then, PC Gamer reports, the Coles took out a home equity loan and drew on retirement money to finish it.[^ref-9] Transolar's site says the game took three years to complete and credits Corey as designer and producer.[^ref-20]
+[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign; even then, PC Gamer reports, the Coles took out a home equity loan and drew on retirement money to finish it.[^ref-9] Transolar's own site says the game took "three years to complete" and credits Corey as designer and producer;[^ref-20] the dates suggest a longer span, since the first Kickstarter launched in October 2012 and the game came out on July 9, 2018.[^ref-18][^ref-20]
 
 ## Design Philosophy
 
@@ -63,36 +63,42 @@ Corey has described the series as story-driven rather than open-ended: "I never 
 
 On the division of labour with Lori, he said: "Well, I wrote a *little* of the dialogue, but Lori did 95% of it. I did my share of the writing (mostly descriptions) on Shadows of Darkness, but on most of the other games I was too busy programming to spend much time on writing."[^ref-5] MobyGames adds that he wrote "some of the descriptions (notably many bad puns)."[^ref-7]
 
-The Coles have written that Corey "has often said that a game has little character until the music comes in," in describing their work with composer Mark Seibert on Hero's Quest.[^ref-2]
+The Coles have written that Corey "has often said that a game has little character until the music comes in," in describing their work with composer [[Mark Seibert]] on Hero's Quest.[^ref-2]
 
 Asked by PC Gamer about Sierra's move away from the text parser, he pointed to memory limits: "The PC architecture was segmented, it could only address 64k memory at a time. That got to really be a problem because there wasn't enough memory for all the stuff that was in the engine of the game, the text parser and stuff like that, as well as the graphics. Something had to go."[^ref-9]
 
 ## Legacy
 
-Computer Gaming World's 1990 Adventure Game of the Year award went to *Hero's Quest*, and Lori Ann and Corey Cole were named as its designers.[^ref-21] The series has kept a fan following: the [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] (2008) carries the Coles' original "Written & Designed by" credit, and MobyGames lists him under "Inspired by" in the credits of Heroine's Quest: The Herald of Ragnarok (2013) and among those thanked in Quest for Infamy (2014).[^ref-6] Fans who had once lobbied Sierra for Quest for Glory V later pushed the Coles toward crowdfunding, which led to Hero-U.[^ref-3][^ref-9]
+Computer Gaming World's 1990 Adventure Game of the Year award went to *Hero's Quest*, and Lori Ann and Corey Cole were named as its designers.[^ref-21] The series has kept a fan following: the [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] (2008) carries the Coles' original "Written & Designed by" credit, and MobyGames lists him under "Inspired by" in the credits of Heroine's Quest: The Herald of Ragnarok (2013) and among those thanked in [[2014 - Quest for Infamy|Quest for Infamy]] (2014).[^ref-6] Fans who had once lobbied Sierra for Quest for Glory V later pushed the Coles toward crowdfunding, which led to Hero-U.[^ref-3][^ref-9]
 
 Summing up their Sierra years in 2024, the Coles wrote: "Every game was an adventure."[^ref-2]
 
 ## Games
 
-### Sierra On-Line (1988–2000)
+### Sierra On-Line (1988–1999)
 
-- **1989–1990** — Atari ST versions of Space Quest III, Codename: Iceman, [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]], The Colonel's Bequest, Leisure Suit Larry III and Hero's Quest — Role: Atari ST conversion[^ref-6]
+- **1989–1990** — Atari ST versions of [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]], [[1990 - Codename - Iceman|Codename: Iceman]], [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]], [[1989 - The Colonel's Bequest|The Colonel's Bequest]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] and Hero's Quest — Role: Atari ST conversion[^ref-6]
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] (as Hero's Quest) — Role: Programming, Interpreter/Development System, Additional Documentation[^ref-6]; named co-designer by Computer Gaming World[^ref-21]
-- **1990–1991** — SCI development system credits on King's Quest I (SCI), Conquests of Camelot, Hoyle Official Book of Games Volume 2, Jones in the Fast Lane, Conquests of the Longbow, Space Quest IV and Mixed-Up Mother Goose[^ref-6]
+- **1990–1991** — SCI development system credits on [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I (SCI)]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games Volume 2]], [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] and [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]][^ref-6]
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Design, Programming, Interpreter/Development System
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Designer, Director, Programmer
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Lead Programmer
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Actor (Psychologist Sidney Aimes)
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Credit: Special Programming Thanks[^ref-6]
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero VGA]] — Role: Co-Designer
 - **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Co-Designer, Technical Documentation, Voice Actor
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Co-Writer
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Additional Bridge Programming
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Additional Bridge Programming[^ref-6]; helped design the Bridge strategy[^ref-24]
+- **1994** — Space Quest: Collector's Edition — Role: Video[^ref-6]
 - **1995** — [[1995 - Shannara|Shannara]] — Company: FAR Productions, Role: Co-Designer, Programmer
 - **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Photo Model
 - **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: RPG System Engineer, System Software Engineer
-- **2000** — [[2000 - Hoyle Casino|Hoyle Casino]] (Game Boy Color version) — Role: Programmer
+
+### Other Work (2000)
+
+- **2000** — [[2000 - Hoyle Casino|Hoyle Casino]] (Game Boy Color version; developed by Pulsar Interactive, published by Sierra) — Role: Programming[^ref-6][^ref-22]
+- **2000** — Barbie: Fashion Pack Games (Game Boy Color; developed by Pulsar Interactive, published by Mattel Interactive) — Role: Programmers[^ref-6][^ref-23]
 
 ### Post-Sierra (2008–Present)
 
@@ -106,7 +112,7 @@ Summing up their Sierra years in 2024, the Coles wrote: "Every game was an adven
 [^ref-1]: [Adventure Game Fan Fair - Corey Cole](https://adventuregamefanfair.com/guests/corey-cole/) — guest blurb: the Coles went from D&D to designing role-playing adventures for Sierra; Quest for Glory, Castle of Dr. Brain, Hero-U
 [^ref-2]: [Patreon - Our First Years (Corey and Lori Cole, January 27, 2024)](https://www.patreon.com/posts/our-first-years-97270318) — the Coles' own account: Atari ST hire at 40% less pay, lead programmer offer, practice-makes-perfect, 100,000 copies in first month, music remark, "Every game was an adventure"
 [^ref-3]: [Quest for Glory Fandom - Corey Cole](https://questforglory.fandom.com/wiki/Corey_Cole) — fan wiki: educational group and Dr. Brain sequels, co-designer-only credit on QFG III, QFG IV as full-time designer/writer, FAR Productions, 1997 return
-[^ref-5]: [Classic Let's Play - Interview with Lori Ann and Corey Cole (May 2008)](http://classiclp.blogspot.com/2008/05/interview-with-lori-ann-and-corey-cole.html) — Q&A: John Rhys-Davies, Hero's Quest name change, "sandbox", Lori's 95% of dialogue
+[^ref-5]: [Classic Let's Play - Interview with Lori Ann and Corey Cole (conducted by email April 2008; posted May 5, 2008)](http://classiclp.blogspot.com/2008/05/interview-with-lori-ann-and-corey-cole.html) — Q&A: John Rhys-Davies, Hero's Quest name change, "sandbox", Lori's 95% of dialogue
 [^ref-6]: [MobyGames - Corey Cole Credits](https://www.mobygames.com/person/3682/corey-cole/credits/) — credit list by role (Atari ST versions, development system, QFG design/programming credits, Hoyle Casino GBC, 1974 UCSB Blackjack)
 [^ref-7]: [MobyGames - Corey Cole Profile](https://www.mobygames.com/person/3682/corey-cole/) — biography: introduced to Ken Williams in 1988, first task converting SCI to the Atari ST, online games after 1999, Transolar Games
 [^ref-9]: [PC Gamer - From floppy disks to the crowdfunding revolution (Jody Macgregor, March 22, 2023)](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all/) — interview: SCI/Ultima "roleplaying table" quote, "two tracks" quote, 64k parser quote, Hero-U Kickstarters
@@ -116,6 +122,9 @@ Summing up their Sierra years in 2024, the Coles wrote: "Every game was an adven
 [^ref-15]: [Hero-U Games (Transolar Games)](http://www.hero-u.com/) — Transolar's current Hero-U and Summer Daze games
 [^ref-17]: [Adventure Gamers - Corey Cole interview (May 20, 2002; Wayback snapshot 2022)](https://web.archive.org/web/20220407063816/https://adventuregamers.com/articles/view/17520) — Explorati work in 2002; why Sierra cancelled the series after QFG IV
 [^ref-18]: [Wikipedia - The Coles (Corey Cole)](https://en.wikipedia.org/wiki/Corey_Cole) — birth year, began at Sierra in 1988 porting SCI to the Atari ST, 1994 layoff, Children's Television Workshop licence, 2012 Hero-U Kickstarter
-[^ref-19]: [Hardcore Gaming 101 - Interview with Corey Cole](http://www.hardcoregaming101.net/interview-with-corey-cole/) — QFG IV CD version and John Rhys-Davies as narrator
+[^ref-19]: [Hardcore Gaming 101 - Interview with Corey Cole (Kurt Kalata, July 31, 2017)](http://www.hardcoregaming101.net/interview-with-corey-cole/) — QFG IV CD version and John Rhys-Davies as narrator
 [^ref-20]: [Hero-U: Rogue to Redemption (Transolar Games)](https://www.hero-u.com/RtR/) — release date July 9, 2018; three-year development; Corey Cole as Transolar president, designer and producer
 [^ref-21]: [Computer Gaming World #74 (September 1990), "Game of the Year Awards", p. 70](https://archive.org/details/Computer_Gaming_World_Issue_74) — period scan: "Sierra for Hero's Quest— Lori Ann and Corey Cole (designers)"; "the WINNER of CGW's Adventure Game of the Year is; Sierra for Hero's Quest"
+[^ref-22]: [MobyGames - Hoyle Casino (Game Boy Color, 2000)](https://www.mobygames.com/game/43644/hoyle-casino/) — read via the MobyGames API: developed by Pulsar Interactive, published by Sierra On-Line, October 2000
+[^ref-23]: [MobyGames - Barbie: Fashion Pack Games (Game Boy Color, 2000)](https://www.mobygames.com/game/173410/barbie-fashion-pack-games/) — read via the MobyGames API: developed by Pulsar Interactive, published by Mattel Interactive
+[^ref-24]: [InterAction #17 (Spring 1993), Hoyle Classic Card Games feature by Kurt Busch](https://archive.org/details/inter-action-issue-17-spring-1993) — period scan: Richard Aronson "recruited fellow programmer and Bridge champ Corey Cole" to help design a Bridge strategy for the VGA revision of Hoyle 1

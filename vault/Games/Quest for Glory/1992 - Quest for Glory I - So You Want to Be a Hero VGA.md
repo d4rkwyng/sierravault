@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -131,7 +131,7 @@ When Ken Williams looked at the game in development, he was skeptical: "This is 
 
 ### Production
 
-The original *Hero's Quest* was developed with what Corey Cole described as "a relatively tiny budget, because everyone on the team made about 40% less than at their previous jobs." He estimated the cost at approximately $150,000 to $250,000[^ref-35]. Development took over a year, with up to four programmers and four artists, a musician, and a designer-director[^ref-38]. The final product contained 111,000 lines of source code, 535,000 bytes of background pictures, 1,560,000 bytes of animation, 1,980,000 bytes of program code, 375,000 characters of text messages, 314,000 bytes of music and sound effects, and over 200,000 bytes of compiled system code[^ref-38].
+In a 2012 RPG Codex interview, Corey Cole said the original *Hero's Quest* had "a relatively tiny budget, because everyone on the team made about 40% less than at their previous jobs," and estimated its cost at approximately $150,000 to $250,000[^ref-35]. The Coles' own 2024 account gives the 40% figure for Corey's own hiring: Sierra's offer to him was "40% less than Corey had last earned in the Bay Area," and he negotiated slightly more[^ref-53]. Development took over a year, with up to four programmers and four artists, a musician, and a designer-director[^ref-38]. The final product contained 111,000 lines of source code, 535,000 bytes of background pictures, 1,560,000 bytes of animation, 1,980,000 bytes of program code, 375,000 characters of text messages, 314,000 bytes of music and sound effects, and over 200,000 bytes of compiled system code[^ref-38].
 
 The game's humor emerged somewhat organically during development. "Rather than have the serious nature of the game fight with the art style, I adapted the game play to mesh with the art," Lori Cole explained[^ref-36]. Programmer Bob Fischbach was responsible for many of the first puns in the game, adding amusing responses for unhandled player input[^ref-37].
 
@@ -370,3 +370,4 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-49]: [Quest for Glory Wiki – Game Hints](https://questforglory.fandom.com/wiki/Game_Hints:_Quest_For_Glory_I:_So_You_Want_to_be_a_Hero) – official hints documentation
 [^ref-51]: [Quest for Glory Wiki – Quest for Glory I (VGA)](https://questforglory.fandom.com/wiki/Quest_for_Glory_I_(VGA)) – differences from the original: SCI1.1 vs SCI0, stamina death, Troll Cave treasure, ending ceremony, skill-allocation bug
 [^ref-52]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series article; lockpick "open nose" easter egg in the original and the new version
+[^ref-53]: [Patreon – Our First Years (Corey and Lori Cole, January 27, 2024)](https://www.patreon.com/posts/our-first-years-97270318) – the Coles' own account: Sierra's offer to Corey was "40% less than Corey had last earned in the Bay Area"; he signed for slightly more

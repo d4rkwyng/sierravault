@@ -113,7 +113,7 @@ GameRankings averaged 72.57% from 21 reviews for the PC version and 62.50% for t
 ## Development
 
 ### Production
-The first four games in the series were intended to indicate the four elements and four wind directions: in the first game, the player is the Hero from the East, in the second from the North, etc[^ref-1][^ref-4]. Lori Cole was predominantly responsible for Dragon Fire's design, as Corey Cole was preoccupied with programming[^ref-1]. The game originally had a voxel engine, which was later changed to a 3D engine because of hardware limitations[^ref-1].
+The first four games in the series were intended to indicate the four elements and four wind directions: in the first game, the player is the Hero from the East, in the second from the North, etc[^ref-1][^ref-4]. Lori Cole was predominantly responsible for Dragon Fire's design, as Corey Cole was preoccupied with programming[^ref-1]. MobyGames' credits list [[Corey Cole]] as the game's RPG System Engineer and as one of its System Software Engineers[^ref-38]. The game originally had a voxel engine, which was later changed to a 3D engine because of hardware limitations[^ref-1].
 
 Because of deadline issues and financial pressures, several features were dropped before release, including the ability to use a bow, the ability to play as Elsa von Spielburg or Magnum Opus, and multiplayer capability[^ref-1][^ref-4]. A demo released in late 1997 contained a multiplayer game, but Sierra decided to remove it from the final product[^ref-1]. The entire Quest for Glory programming team was laid off when Yosemite Entertainment was closed on February 22, 1999[^ref-1][^ref-4].
 
@@ -229,3 +229,4 @@ This game has been included in the following collections:
 [^ref-35]: [Engadget – The glory of Quest for Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – 2012 series retrospective by Rowan Kaiser
 [^ref-36]: [CNET Gamecenter – The Gamecenter Awards for 1998: Adventure winner (archived 2000)](https://web.archive.org/web/20001217054800/http://www.gamecenter.com/Features/Exclusives/Awards98/ss02c.html) – Grim Fandango named Adventure Game of the Year
 [^ref-37]: [The Digital Antiquarian – The End of Sierra As We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – November 20, 1998 was "eighteen days before" the release of Quest for Glory V: Dragon Fire
+[^ref-38]: [MobyGames – Quest for Glory V: Dragon Fire credits, Windows (Wayback, September 14, 2025)](https://web.archive.org/web/20250914124746/https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/credits/windows/) – "System Software Engineer: Corey Cole"; "RPG System Engineer: Corey Cole"
