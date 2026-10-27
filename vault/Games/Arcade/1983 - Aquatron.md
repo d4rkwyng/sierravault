@@ -10,16 +10,16 @@ series: None
 engine: Custom (Machine Language)
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Aquatron is a horizontally scrolling shooter developed by Justin Gray
   and published by Sierra On-Line in 1983 for Apple II and Atari 8-bit computers.
   Inspired by Defender, it lets the player fight both above and below the surface
   of an ocean-covered planet.
-tags: [1980s, none, shooter, sierra]
+tags: [1980s, shooter, sierra]
 ---
 # Aquatron
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The game arrived during what one Atarimania commenter called "the (briefest) gol
 > **Platforms:** Apple II, Atari 8-bit[^ref-5]
 > **Release Year:** 1983[^ref-19]
 > **Series:** None
-> **Protagonist:** Unnamed spacecraft pilot
+> **Protagonist:** Unnamed pilot
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -56,11 +56,11 @@ The game has no defined ending or narrative conclusion; like its arcade inspirat
 
 Aquatron supports both keyboard and joystick input.[^ref-10] On the Apple II keyboard, the game uses a cluster of keys for movement: I for up, K for down, J for left, and L for right, with D serving as the fire button.[^ref-10] Repeated presses of directional keys increase the spacecraft's speed in that direction.[^ref-10] *Softalk* found that the game "responds obediently to joystick control (two buttons, please), but it will practically scold anyone who tries to play in the keyboard mode."[^ref-22]
 
-The player's spacecraft can be turned to face either direction and moves across a horizontally scrolling playfield, in the manner of *Defender*.[^ref-5] The ability to fly over the planet's surface and then dive under the water to chase submarines is the game's most distinctive feature.[^ref-21]
+The player's spacecraft can be turned to face either direction and moves across a horizontally scrolling playfield, in the manner of *Defender*.[^ref-5] The fighter can fly over the planet's surface and then dive under the water to chase submarines;[^ref-21] *Softalk* noted that "this nifty craft can plunge into the ocean to battle submarines, too."[^ref-22]
 
 ### Structure and Progression
 
-The game follows a level-based structure where each successive stage presents increased enemy opposition.[^ref-5] Nine different enemy types are gradually introduced across ten levels.[^ref-1] Since there is no defined ending, progression is measured purely by score accumulation and survival time.[^ref-9]
+The game follows a level-based structure where each successive stage presents increased enemy opposition.[^ref-5] Enemy types are gradually introduced across ten levels; Wikipedia counts nine of them,[^ref-1] while *Computer Games* counted six.[^ref-24] Since there is no defined ending, progression is measured purely by score accumulation and survival time.[^ref-9]
 
 - **Above-Water Combat:** Players engage enemy interceptors and shuttles in aerial dogfights.[^ref-11]
 - **Underwater Combat:** Diving beneath the surface to battle submarines and U-boats, though one Atarimania commenter noted that the lack of underwater explosions "seems unfinished."[^ref-3][^ref-11]
@@ -91,7 +91,7 @@ The retro gaming blog Retro365 noted that "The game looked and played just as we
 **Aggregate Scores:**
 - **MobyGames:** 3.6/5 (5 player ratings), 67% critics (1 review)[^ref-5]
 - **Atarimania:** 8.0/10 (28 votes)[^ref-3]
-- **MyAbandonware:** 3/5[^ref-12]
+- **MyAbandonware:** 3/5 (1 vote)[^ref-12]
 
 ## Development
 
@@ -131,7 +131,7 @@ An Atarimania commenter described the game as "A very good take on Williams' 'De
 
 ### Cut Content
 
-The last-minute switch of the Atari version from cartridge to disk left some elements feeling incomplete to observant players. One commenter noted that underwater explosions appear to be missing entirely, calling it "unfinished."[^ref-3] The disk-based high score saving is disabled in the cracked version that circulates.[^ref-3]
+An Atarimania commenter reports that the Atari version "was developed as a 16K cartridge and published on disk in a last minute change."[^ref-3] In a separate observation, a commenter noted that there are no explosions underwater, which "seems unfinished."[^ref-3] Neither comment links the missing explosions to the format change. The disk-based high score saving is disabled in the cracked version that circulates.[^ref-3]
 
 ### Version History
 
@@ -142,7 +142,7 @@ The last-minute switch of the Atari version from cartridge to disk left some ele
 | Archive | 2014 | Atari 8-bit | Internet Archive preservation[^ref-9] |
 | WOZ | 2018-07-29 | Apple II | Woz-a-day preservation by 4am and san inc[^ref-8] |
 
-**Release Date Discrepancy:** Sources conflict on whether the Apple II version released in 1983 or early 1984. MobyGames lists the Atari version as 1983 and Apple II as 1984[^ref-5], while other sources list both as 1983.[^ref-1] GameFAQs shows conflicting dates of 1983 and March 1984 for the Apple II version.[^ref-14] *Softalk* reviewed the Apple II version in its February 1984 issue.[^ref-22]
+**Release Date Discrepancy:** Sources conflict on whether the Apple II version released in 1983 or early 1984. MobyGames lists the Atari version as 1983 and Apple II as 1984[^ref-5], while other sources list both as 1983.[^ref-1] GameFAQs lists the Atari 8-bit release as 1983 and the Apple II release as March 1984.[^ref-14] *Softalk* reviewed the Apple II version in its February 1984 issue.[^ref-22]
 
 ### Technical Issues
 
