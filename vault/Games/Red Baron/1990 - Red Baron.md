@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 composer: [Cayanie Music]
 description: Red Baron is a World War I flight combat simulation created and developed
   by Dynamix in 1990, placing players in the pilot's seat of actual World War I...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -115,7 +115,7 @@ The campaign system earned particular praise for its execution. As one MobyGames
 
 ### Origins
 
-Red Baron emerged from Dynamix, the studio Jeff Tunnell and Damon Slye founded in Eugene, Oregon in 1984.[^ref-21] [[Damon Slye]] created the game at Dynamix, favoring entertainment over strict realism.[^ref-4] Sierra On-Line acquired Dynamix while Red Baron was being developed, and it became the first game in Dynamix's "Great Warplanes Series" that Sierra published.[^ref-4]
+Red Baron emerged from Dynamix, the studio Jeff Tunnell and Damon Slye founded in Eugene, Oregon in 1984.[^ref-21] [[Damon Slye]] created the game at Dynamix. He later said "we weren't just building a flight simulator, but we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-32] Sierra On-Line acquired Dynamix while Red Baron was being developed, and it became the first game in Dynamix's "Great Warplanes Series" that Sierra published.[^ref-4]
 
 Rather than stringing together contrived set-pieces, Slye and his Oregon-based team opted for a career mode that was "far more low-key, far more historical."[^ref-8] The game was the first installment in Dynamix's "Great War Planes" brand.[^ref-1]
 
@@ -282,3 +282,4 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 [^ref-29]: [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt) – services, ranks, mission types, flight models, realism settings
 [^ref-30]: [MobyGames – Red Baron Patches](https://www.mobygames.com/game/1766/red-baron/patches/) – VER 1.1B3 joystick driver patch, May 1992
 [^ref-31]: [Sierra Chest – Engine: 3-Space (Wayback 2019-05-12)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg. It was used in Stellar 7, … A10 Tank Killer, Red Baron, Aces of the Pacific…"
+[^ref-32]: [Steemit – Interesting People #13: Damon Slye on the making of Red Baron (badastroza, 2017)](https://steemit.com/gaming/@badastroza/interesting-people-13-damon-slye-on-the-making-of-red-baron) – Slye interview: "we weren't just building a flight simulator, but we were building interactive history"; "realistic and authentic as much as possible"
