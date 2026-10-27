@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: DOS4GW
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 composer: [Keith Zizza]
 description: Lords of the Realm II is a 1996 medieval strategy game from Impressions
   Games and Sierra On-Line that pairs turn-based county management with real-time battles
@@ -19,7 +19,7 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Lords of the Realm II is a medieval strategy game that masterfully blends turn-b
 
 What distinguished Lords of the Realm II from many medieval strategy games of its era was its commitment to historical authenticity over fantasy elements—the game features no magic, no supernatural forces, and no technology tree.[^ref-4] Instead, players must carefully manage food, population, and happiness levels to build their power base while avoiding Malthusian population crashes.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
-The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] David Lester later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: 96% of 1,718 reviews (all languages) as of October 2026.[^ref-5]
+The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] [[David Lester]] later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: 96% of 1,718 reviews (all languages) as of October 2026.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -115,8 +115,7 @@ David Lester sold Impressions Games to Sierra in 1995,[^ref-54] and Sierra annou
 Composer Keith Zizza worked on the game's soundtrack during the spring and summer of 1996.[^ref-28] It was his second game with Sierra, following Rise & Rule of Ancient Empires.[^ref-28] The audio production faced significant technical constraints due to CD-ROM space limitations.
 
 **Development Credits:**[^ref-1][^ref-6]
-- **Lead Designer:** David Lester
-- **Designer:** [[Chris Beatrice]], Simon Bradbury, Eric Ouellette
+- **Game Designers:** [[David Lester]] (lead designer), [[Chris Beatrice]], [[Simon Bradbury]], Eric Ouellette
 - **Composer:** Keith Zizza
 - **Additional Music (Siege Pack):** Edward Saltzman
 

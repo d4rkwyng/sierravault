@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Stronghold", "Caesar III", "Lords of the Realm II", "CivCity: Rome"]
 companies: ["Firefly Studios", "Impressions Games", "Sierra On-Line", "Tynesoft"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Simon Bradbury
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Bradbury's transition to strategy games—the genre that would become his career
 
 ### Impressions Games (1991–1999)
 
-Bradbury's most significant early career work was for Impressions Games, a studio that operated under the Sierra On-Line umbrella after its 1995 acquisition.[^ref-31] He worked with Impressions on a freelance basis rather than as an employee, working daily across the Atlantic with lead producer Eric Ouellette on the Caesar series and Lords of the Realm.[^ref-5]
+Bradbury's most significant early career work was for Impressions Games, a studio that operated under the Sierra On-Line umbrella after its 1995 acquisition.[^ref-31] He worked with Impressions on a freelance basis rather than as an employee, working daily across the Atlantic with lead producer Eric Ouellette on the Caesar series and Lords of the Realm.[^ref-5] MobyGames likewise names him among the company's "partners and freelancers".[^ref-34]
 
 His work on the Caesar series began with [[1992 - Caesar|Caesar]] (1992), where he served as both programmer and design assistant.[^ref-7] He continued with [[1995 - Caesar II|Caesar II]] (1995), contributing programming and additional design, and was credited with programming on [[1998 - Caesar III|Caesar III]] (1998).[^ref-7] Bradbury has cited Caesar III as his personal favorite in the series, describing it as "the most accomplished, polished" entry that "benefitted greatly from the experience of coding and designing the previous two games."[^ref-5]
 
@@ -39,9 +39,9 @@ Bradbury links the founding of Firefly to the sale of Impressions: "The break ca
 
 The original Stronghold, released in 2001, was a critical and commercial success.[^ref-1][^ref-12] Firefly describes Bradbury as lead designer on every Stronghold title up to its 2020 documentary, a run that includes Stronghold: Crusader (2002), Stronghold 2 (2005), Stronghold: Legends (2006), Stronghold 3 (2011) and Stronghold Crusader II (2014);[^ref-13][^ref-22] he was also lead designer of Stronghold: Warlords (2021).[^ref-11] He has also served as Firefly's CEO.[^ref-4][^ref-30]
 
-Beyond the Stronghold series, Firefly developed Space Colony (2003), a real-time base builder and strategy game with a sci-fi setting.[^ref-14] CivCity: Rome (2006) was created for 2K by Firefly in collaboration with Firaxis Games.[^ref-15] Stronghold Kingdoms, Firefly's first massively multiplayer game, entered open beta in 2010 and launched on Steam in 2012;[^ref-2] it has over eight million registered players.[^ref-1] Romans: Age of Caesar, a co-operative online city builder that Bradbury described as Firefly's next online game after Stronghold Kingdoms, with former Caesar III art director Darrin Horbal creating its core art, went through open beta and launched on Steam in April 2022.[^ref-5][^ref-32]
+Beyond the Stronghold series, Firefly developed Space Colony (2003), a real-time base builder and strategy game with a sci-fi setting.[^ref-14] CivCity: Rome (2006) was created for 2K by Firefly in collaboration with Firaxis Games.[^ref-15] Stronghold Kingdoms, Firefly's first massively multiplayer game, entered open beta in 2010 and launched on Steam in 2012;[^ref-2] it has over eight million registered players.[^ref-1] Romans: Age of Caesar, a co-operative online city builder that Bradbury described as Firefly's next online game after Stronghold Kingdoms, with former Caesar III art director Darrin Horbal creating its core art, entered open beta in September 2021 and launched on Steam in April 2022.[^ref-5][^ref-33][^ref-32]
 
-Devolver Digital acquired Firefly Studios on 24 June 2021;[^ref-1] the deal was announced in November 2021 as Devolver went public.[^ref-17] Firefly says that in the following years Stronghold veterans Paul Harris and Nick Tannahill were made studio heads.[^ref-2] Recent releases have included Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition (2025).[^ref-18][^ref-7]
+Devolver Digital acquired Firefly Studios on 24 June 2021;[^ref-1] the deal was announced in November 2021 as Devolver went public.[^ref-17] Firefly says that in the following years Stronghold veterans Paul Harris and Nick Tannahill were made studio heads.[^ref-2] Recent releases have included Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition (2025).[^ref-2][^ref-7]
 
 ## Notable Works
 
@@ -59,7 +59,7 @@ Bradbury is one of the credited game designers of [[1996 - Lords of the Realm II
 
 Stronghold was Firefly's first game. The studio says it was released to critical acclaim and was a surprise hit for Take-Two in North America and Germany.[^ref-2] Bradbury is credited with its game design and programming.[^ref-7]
 
-Bradbury has identified the original Stronghold as his favorite among his works, citing the excitement of "mashing together game genres" in ways no one had done before.[^ref-5] Features that became fan favorites, including the fire and tree growth systems, were added on a whim just weeks before the gold master.[^ref-5] The game's success gave him "a real belief than game lovers valued us doing something different rather than just sticking to a formula."[^ref-5]
+Asked to pick a favourite among the city builders he worked on, Bradbury chose the original Stronghold, citing the excitement of "mashing together game genres" in ways no one had done before.[^ref-5] Features that became fan favorites, including the fire and tree growth systems, were added on a whim just weeks before the gold master.[^ref-5] The game's success gave him "a real belief than game lovers valued us doing something different rather than just sticking to a formula."[^ref-5]
 
 ### CivCity: Rome (2006)
 
@@ -81,9 +81,12 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 
 ## Games
 
+### Other Early Work
+
+- 1991 — International Championship Athletics (Golden Sector Design / Hawk) — Programmer
+
 ### Impressions Games (1991–1999)
 
-- 1991 — International Championship Athletics — Programmer
 - **1991** — Merchant Colony — Role: Programmer
 - **1992** — Discovery: In the Steps of Columbus — Role: Designer, Programmer
 - **1992** — [[1992 - Caesar|Caesar]] — Role: Design Assistant, Programmer
@@ -112,7 +115,7 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 - 2016 — Stronghold Legends: Steam Edition — Lead Designer
 - 2017 — Stronghold 2: Steam Edition — Lead Designer
 - 2021 — Stronghold: Warlords — Lead Designer
-- 2022 — Romans: Age of Caesar (open beta 2021) — Co-founder; involved in planning (no published credit list found)
+- 2022 — Romans: Age of Caesar (open beta September 2021) — Co-founder; involved in planning (no published credit list found)[^ref-33]
 - 2023 — Stronghold: Definitive Edition — Co-founder & Designer
 - 2025 — Stronghold Crusader: Definitive Edition — Designer, Programmer
 
@@ -121,19 +124,20 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 [^ref-1]: [Wikipedia - Firefly Studios](https://en.wikipedia.org/wiki/Firefly_Studios) — Company history and Simon Bradbury's role as co-founder
 [^ref-2]: [Firefly Studios - About Us](https://fireflyworlds.com/about-us/) — Studio background, Stronghold series sales figures
 [^ref-3]: [MobyGames - Simon Bradbury](https://www.mobygames.com/person/16533/simon-bradbury/) — Complete career timeline and 130 credits across 29 games
-[^ref-4]: [N4G Interview](https://n4g.com/news/948771/an-interview-with-simon-bradbury-lead-designer-and-ceo-of-firefly-studios) — Discussion of game accessibility and design approach
-[^ref-5]: [Arcade Attack - Simon Bradbury Interview](https://www.arcadeattack.co.uk/simon-bradbury-sierra/) — Comprehensive career retrospective covering Sierra years and Firefly founding
+[^ref-4]: [Trendy Gamers - An Interview With: Simon Bradbury, Lead Designer and CEO of Firefly Studios (Aidan Gibbons, February 25, 2012; Wayback copy)](http://web.archive.org/web/20130401211653/http://trendygamers.com/2012/02/25/interview-with-simon-bradbury-lead-designer-ceo-firefly-studios/) — Interview introducing Bradbury as Firefly's lead designer and CEO; Stronghold 3's difficulty and added Easy mode
+[^ref-5]: [Arcade Attack - Simon Bradbury (Sierra/Firefly) Interview (posted 28 October 2019, interview held May 2019; Wayback copy)](https://web.archive.org/web/20191113070429/https://www.arcadeattack.co.uk/simon-bradbury-sierra/) — Comprehensive career retrospective covering Sierra years and Firefly founding
 [^ref-7]: [MobyGames - Simon Bradbury Credits](https://www.mobygames.com/person/16533/simon-bradbury/credits/) — Detailed role breakdown across all credited games
 [^ref-11]: [GOG Interview](https://www.gog.com/en/news/interview_simon_bradbury_on_his_love_for_medieval_castles_and_stronghold_warlords) — Interview naming Bradbury as Stronghold: Warlords' lead designer
-[^ref-12]: [Metacritic - Stronghold](https://www.metacritic.com/game/stronghold/) — Critical reception and commercial success
+[^ref-12]: [Metacritic - Stronghold](https://www.metacritic.com/game/stronghold/) — Critical reception: Metascore 81 from 19 critic reviews (released October 21, 2001)
 [^ref-13]: [Firefly Studios YouTube - Stronghold Sessions](https://www.youtube.com/watch?v=m5CI9ch7b0U) — Extended interview (March 20, 2020); description calls Bradbury 'Lead Designer on every Stronghold title to date'
 [^ref-14]: [Space Colony - Steam](https://store.steampowered.com/app/297920/Space_Colony_Steam_Edition/) — Game information and credits
 [^ref-15]: [Take-Two Interactive - CivCity: Rome Now Available (Business Wire, July 26, 2006)](https://ir.take2games.com/static-files/900cb1e1-2cec-491d-a352-55e32d01232b) — Release text: Bradbury (Lead Designer) quote on the Firaxis 'experiment'; Christoph Hartmann (President, 2K) 'roofs off buildings' quote
 [^ref-17]: [Devolver Digital Acquisition Announcement](https://www.gematsu.com/2021/11/devolver-digital-acquires-dodge-roll-nerial-and-firefly-studios-as-it-goes-public) — November 2021 acquisition announcement
-[^ref-18]: [Firefly Studios News](https://fireflyworlds.com/) — Recent releases including Definitive Editions
 [^ref-22]: [Firefly Studios - Simon Bradbury Interview (March 25, 2020)](https://fireflyworlds.com/2020/03/25/simon-bradbury-interview/) — Stronghold Sessions post naming Bradbury 'a key architect on every Stronghold title to date'
 [^ref-23]: [Wake Up and Smell the Ashes - Simon Bradbury, CEO of Firefly Studios](https://wakeupandsmelltheashes.wordpress.com/interviews/simon-bradbury-ceo-of-firefly-studios/) — Interview (originally Strategy Informer) on Crusader 2, map-making community and Stronghold Kingdoms community feedback
-[^ref-24]: [The Game Reviews - Inside the Games: Simon Bradbury](https://www.thegamereviews.com/article-552-inside-the-games-interview-with-simon-bradbury-founder-of-firefly-studios.html) — Short interview: career path and advice on becoming a designer
+[^ref-24]: [The Game Reviews - Inside the Games: Simon Bradbury (dated 05/08/2008)](https://www.thegamereviews.com/article-552-inside-the-games-interview-with-simon-bradbury-founder-of-firefly-studios.html) — Short interview: career path and advice on becoming a designer
 [^ref-30]: [PocketGamer.biz - Simon Bradbury](https://pocketgamer.biz/people/1292/simon-bradbury) — Industry profile and career evolution
 [^ref-31]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — David Lester sold the company to Sierra On-Line in 1995
 [^ref-32]: [Pocket Gamer - Romans: Age of Caesar is now available on Steam (April 28, 2022)](https://www.pocketgamer.com/romans-age-of-caesar/released-on-pc-steam/) — Steam launch after open beta; Bradbury quoted as Firefly co-founder
+[^ref-33]: [Firefly Studios - Romans – Open Beta Now Live! (September 7, 2021)](https://fireflyworlds.com/2021/09/07/romans-open-beta/) — Open beta launch of the co-op strategy MMO from Caesar III alumni Bradbury and Ouellette
+[^ref-34]: [MobyGames - Impressions Games (Wayback, October 4, 2026)](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) — "a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"

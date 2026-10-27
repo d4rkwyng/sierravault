@@ -10,14 +10,14 @@ series: Caesar
 engine: Custom 2D isometric engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Caesar II is a city-building strategy game that transports players to
   ancient Rome, where they assume the role of a provincial governor seeking to rise...
 tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -62,7 +62,7 @@ The game utilizes a point-and-select interface where players can examine individ
 
 The campaign structure follows a progression from province to province, with players building cities, nurturing them to prosperity, and defending them from attack[^ref-15]. The game begins with a single Italian province and expands outward as players successfully complete objectives. Each province presents unique challenges based on its geographic location and available resources.
 
-Players must connect villages within their province via roads and develop industries such as stone mining and grape cultivation, creating markets in the capital city to handle these goods[^ref-5]. The promotion system requires meeting specific criteria for population, prosperity, and military success before advancing to new, more challenging territories. According to developer Simon Bradbury, "I think it helped immensely to have a structured set of increasingly difficult missions (mountains are there to be climbed kind of thing)"[^ref-6].
+Players must connect villages within their province via roads and develop industries such as stone mining and grape cultivation, creating markets in the capital city to handle these goods[^ref-5]. The promotion system requires meeting specific criteria for population, prosperity, and military success before advancing to new, more challenging territories. According to developer [[Simon Bradbury]], "I think it helped immensely to have a structured set of increasingly difficult missions (mountains are there to be climbed kind of thing)"[^ref-6].
 
 ### Puzzles and Mechanics
 
