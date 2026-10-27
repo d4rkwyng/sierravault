@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 composer: [Timothy Steven Clarke]
 description: '**Field & Stream: Trophy Bass 3D** is a fishing video game developed
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, the third
@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -93,6 +93,8 @@ Strategy Plus notes that bass, crappies and catfish all have to be coaxed into b
 | Strategy Plus | 3.5/5 | Brett Todd, August 31, 1999[^ref-6] |
 | GamePro | Graphics: 4.0, Sound: 3.0, Control: 2.0 | Michael Lafferty[^ref-12] |
 | PC Accelerator | 5/10 | October 1999[^ref-35][^ref-37] |
+| Incite Games | 3/5 | November 7, 1999[^ref-35] |
+| Games First! | 5/5 | September 6, 1999[^ref-35] |
 | GameRankings | 70% | Based on 5 reviews[^ref-35] |
 | MobyGames Critics | 84% | Based on 2 ratings[^ref-17] |
 
@@ -108,17 +110,15 @@ PC Accelerator was the harshest. It called the game "as detailed a licensed fish
 
 ### Modern Assessment
 
-Old PC Gaming's retrospective opens: "Fishing sims are usually low key, and while that’s certainly the case with Trophy Bass 3D as well, there’s still a lot to experience nonetheless," and adds that "Gameplay is nice and relaxing, considering its glacier-like pace"[^ref-7].
-
 User ratings:
-- MyAbandonware: 4.6/5 from 10 votes[^ref-26]
+- MyAbandonware: 4.64/5 from 11 votes[^ref-26]
 - GameFAQs: "Outstanding" from 12 ratings[^ref-2]
 
 ## Development
 
 ### Origins
 
-Trophy Bass 3D followed Trophy Bass and Trophy Bass 2 Deluxe[^ref-20]. Sierra billed its new features as "new camera angles and spiffier graphics"[^ref-20]. The game shipped to retail in the U.S. and Canada in early July 1999[^ref-20]. MobyGames gives a release date of June 16, 1999[^ref-17].
+Trophy Bass 3D followed Trophy Bass and Trophy Bass 2 Deluxe[^ref-20]. CDMag reported Sierra's new features as "new camera angles and spiffier graphics"[^ref-20]. The game shipped to retail in the U.S. and Canada in early July 1999[^ref-20]. MobyGames gives a release date of June 16, 1999[^ref-17].
 
 ### Production
 
@@ -134,7 +134,7 @@ Credited bass fishing pros are Denny Brauer, Larry Nixon, Kevin VanDam and Penny
 
 ### Technical Achievements
 
-The game supports Direct3D, Glide and OpenGL, and requires a 3D accelerator[^ref-36]. GamePro found motion "excellent and natural while in Glide mode", but added: "When I switched to my 3D card only, the play slowed noticeably"[^ref-12]. PC Accelerator called the motion-captured fisherman good-looking but the water and surroundings "mostly unimpressive"[^ref-37]. Multiplayer runs over Internet, LAN and modem[^ref-36]. The install was 360 MB[^ref-37].
+The game supports Direct3D, Glide and OpenGL[^ref-36]. MobyGames and Strategy Plus list a 3D accelerator as required[^ref-6][^ref-36], but PC Accelerator gave its requirement as "P166 (with 3D), P200 (without 3D), 32MB RAM"[^ref-37]. GamePro found motion "excellent and natural while in Glide mode", but added: "When I switched to my 3D card only, the play slowed noticeably"[^ref-12]. PC Accelerator called the motion-captured fisherman good-looking but the water and surroundings "mostly unimpressive"[^ref-37]. Multiplayer runs over Internet, LAN and modem[^ref-36]. The install was 360 MB[^ref-37].
 
 ### System Requirements
 
@@ -142,7 +142,7 @@ The game supports Direct3D, Glide and OpenGL, and requires a 3D accelerator[^ref
 - Operating System: Windows 95/98
 - Processor: Pentium, 166 MHz
 - RAM: 32 MB
-- Graphics: 3D accelerator (Direct3D, Glide or OpenGL), DirectX 6
+- Graphics: 3D accelerator (Direct3D, Glide or OpenGL), DirectX 6. PC Accelerator instead listed a Pentium 200 as the minimum without a 3D card[^ref-37]
 - Media: CD-ROM drive
 
 PC Accelerator's "ideal" system was a Pentium II 233 with 64 MB RAM and a 3D card[^ref-37].
@@ -164,7 +164,7 @@ Trophy Bass 4 (2000) built directly on this release, including the 15 lakes from
 
 ### Preservation
 
-The game is not sold on modern digital stores. MyAbandonware lists it as "still available and playable with some tinkering"[^ref-26], and the demo is preserved on the Internet Archive[^ref-18].
+The game is not sold on modern digital stores. MyAbandonware hosts a copy[^ref-26], and the demo is preserved on the Internet Archive[^ref-18].
 
 ## Downloads
 
@@ -189,16 +189,15 @@ The game is not sold on modern digital stores. MyAbandonware lists it as "still 
 [^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline and user ratings
 [^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Back-of-box product description
 [^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Brett Todd review, 3.5/5, modes, lakes, requirements
-[^ref-7]: Old PC Gaming (link removed: site offers game downloads) - Retrospective
 [^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Full credits (202 people), bass pros, voice cast
 [^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Michael Lafferty review, sub-scores, modes, video manual, ESRB
 [^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group
 [^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Demo description (fish AI, Denny Brauer)
 [^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - "Lands In Stores" news, July 6, 1999: lakes, species, mapping, waypoints
 [^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Eric Conley review, 7/10, viewpoints, LureCam, SideWinder support
-[^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.6/5
+[^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.64/5 (11 votes)
 [^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
-[^ref-35]: [Web Archive - GameRankings](https://web.archive.org/web/20190602182117/https://www.gamerankings.com/pc/199122-trophy-bass-3d/index.html) - 70% from 5 reviews; PC Accelerator 5/10, Gamecenter 7/10
+[^ref-35]: [Web Archive - GameRankings](https://web.archive.org/web/20190602182117/https://www.gamerankings.com/pc/199122-trophy-bass-3d/index.html) - 70% from 5 reviews; PC Accelerator 5/10, Gamecenter 7/10, Incite Games 3/5, Games First! 5/5
 [^ref-36]: [MobyGames Specs](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/specs/) - Windows 95, Pentium, 32 MB, Direct3D/Glide/OpenGL, 3D accelerator, multiplayer options, ESRB
 [^ref-37]: [Internet Archive - PC Accelerator #14 (October 1999), p. 109](https://archive.org/details/PCXL14Oct1999/page/n107/mode/2up) - Trophy Bass 3D review
 [^ref-38]: [Sierra Help - Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) - Trophy Bass 3D 1.2.0.0 update

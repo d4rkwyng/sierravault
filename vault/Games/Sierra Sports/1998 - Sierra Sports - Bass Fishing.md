@@ -11,14 +11,14 @@ series: Trophy Bass
 engine: 3DFX
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-27'
 description: 'Sierra Sports Bass Fishing, released in 1998 and also known by various
   titles including Trophy Bass and Field & Stream: Trophy Bass 4, represents Sierra''s...'
 tags: [1990s, sierra, trophy-bass]
 ---
 # Sierra Sports Bass Fishing
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ The Trophy Bass series evolved through multiple iterations:
 |-------|------|-----------|-------|
 | Trophy Bass | 1995 | DOS, Windows | Original release, B.A.S.S. sponsored[^ref-4] |
 | Trophy Bass 2 | 1997 | Windows | Improved graphics and AI[^ref-4] |
-| Trophy Bass 3D | 1998 | Windows | Full 3D engine implementation[^ref-4] |
+| Trophy Bass 3D | 1999 | Windows | Full 3D engine implementation[^ref-4] |
 | Field & Stream: Trophy Bass 4 | 2000 | Windows | Final entry, Field & Stream license[^ref-5] |
 
 ### Technical Achievements
