@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Impressions)
 protagonist: Ship Captain (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: High Seas Trader is a naval strategy and trading simulation game that
   puts players in the role of a young impoverished nobleman who must take to the high...
 tags: [1990s, sierra, standalone, strategy]
 ---
 # High Seas Trader
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -91,7 +91,7 @@ One GOG wishlist commenter wrote: "I learned so much about the spice trades, wor
 
 ### Origins
 
-High Seas Trader was developed by Impressions, a strategy publisher founded in the UK by David Lester and Edward Grabowski that later moved its headquarters to the United States[^ref-32]. *Computer Gaming World* described Lester in 1993 as "Impressions President and Managing Director"[^ref-32], and by 1995 the company was based in Cambridge, Massachusetts[^ref-29]. MobyGames describes the game as a follow-up to Impressions' earlier Merchant Colony[^ref-8].
+High Seas Trader was developed by Impressions, a strategy publisher founded in the UK by David Lester that later moved its headquarters to the United States; MobyGames lists Edward Grabowski among its "partners and freelancers", while a 1993 *Computer Gaming World* profile describes Lester and Grabowski as the two partners who established it[^ref-41][^ref-32]. *Computer Gaming World* described Lester in 1993 as "Impressions President and Managing Director"[^ref-32], and by 1995 the company was based in Cambridge, Massachusetts[^ref-29]. MobyGames describes the game as a follow-up to Impressions' earlier Merchant Colony[^ref-8].
 
 During development, under the working title High Seas Trader, the design team chose to leave slavery out of the game. *Computer Gaming World* reported in September 1994 that the team, like the designers of Sid Meier's Colonization, found the idea "to be repugnant" and resisted "rewarding" the gamer for it[^ref-31].
 
@@ -174,3 +174,4 @@ After the acquisition, Sierra sold the CD-ROM version for $24.95 in its Holiday 
 [^ref-38]: [Dragon #221 (September 1995), pp. 115–118](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23221%5Bocr%5D/page/n116) – - "Eye of the Monitor" (Jay & Dee); review by John Brunkhart, rated 2
 [^ref-39]: [High Seas Trader Game Manual (Impressions, 1995)](https://archive.org/details/high-seas-trader-manual) – - pp. 6, 9, 12, 15, 22: setting, ranks, nationality, crew, rations
 [^ref-40]: [High Seas Trader Technical Supplement and Tutorial (Impressions, 1995), p. 5](https://archive.org/details/extras_msdos_High_Seas_Trader_1995) – - Installation sizes
+[^ref-41]: [MobyGames - Impressions Games (company 102), Wayback snapshot October 2026](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) – - "founded in 1989 by David Lester"; "With a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"
