@@ -320,7 +320,7 @@ This game has been included in[^ref-20][^ref-21]:
 
 **Purchase / Digital Stores**
 - [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – KQ4, KQ5 and KQ6 bundle, ScummVM-powered
-- [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Complete classic series bundle
+- [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – KQ1–7 bundle; does not include King's Quest 8
 
 **Download / Preservation**
 

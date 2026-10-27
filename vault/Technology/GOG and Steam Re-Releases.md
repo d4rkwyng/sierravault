@@ -14,7 +14,7 @@ tags: [technology, gog, steam, re-releases, preservation, commerce]
 
 The legal commercial path to playing Sierra games on modern systems runs primarily through two digital storefronts: **GOG.com** (DRM-free) and **Steam**. GOG carries most of the classic Sierra adventure catalogue, packaged with ScummVM or DOSBox; Steam carries a smaller set of the classic collections plus most post-2014 remakes and successors.[^ref-1][^ref-2]
 
-This page is a snapshot of legal availability as checked against the live GOG and Steam store data on **October 16, 2026** (US store). The picture changes as rights holders adjust back-catalogue licensing — see [[Corporate Lineage|Corporate Lineage]] for the IP-rights context.
+This page is a snapshot of legal availability as checked against the live GOG and Steam store data on **October 16, 2026** (US store), with every store claim rechecked on **October 26, 2026**. The picture changes as rights holders adjust back-catalogue licensing — see [[Corporate Lineage|Corporate Lineage]] for the IP-rights context.
 
 **Verification protocol:** Never trust a GOG link in a citation without first checking the title is actually available. A search such as `site:gog.com "Game Title"` (Brave or Google) is the recommended verification step; GOG redirects dead product links to its catalogue page rather than showing an error.
 
@@ -47,11 +47,11 @@ Source for the table: GOG catalogue data, checked October 16, 2026.[^ref-1][^ref
 - **Sierra adventures sold individually:** [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], [[1995 - Torin's Passage|Torin's Passage]], [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]][^ref-1]
 - **Dynamix:** [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], Betrayal at Krondor Pack, MissionForce: CyberStorm, Red Baron Pack[^ref-16]
 - **Impressions:** Caesar, [[1995 - Caesar II|Caesar II]], [[1998 - Caesar III|Caesar 3]], [[1999 - Pharaoh|Pharaoh + Cleopatra]], [[2000 - Zeus - Master of Olympus|Zeus + Poseidon]], Lords of Magic: Special Edition, Lords of the Realm: Royal Edition, Lords of the Realm 3[^ref-17]
-- **Other Sierra-label titles:** [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]], [[1997 - Outpost 2 - Divided Destiny|Outpost 2]], SWAT 3: Tactical Game of the Year Edition[^ref-1]; [[1998 - Return to Krondor|Return to Krondor]] and [[2001 - Arcanum|Arcanum]] (Activision as publisher)[^ref-22]
+- **Other Sierra-label titles:** [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]], [[1997 - Outpost 2 - Divided Destiny|Outpost 2]], SWAT 3: Tactical Game of the Year Edition[^ref-1]; [[1998 - Return to Krondor|Return to Krondor]] and [[2001 - Arcanum|Arcanum]] (PyroTechnix and Troika Games respectively; Activision as publisher)[^ref-51][^ref-52]
 - [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (Gearbox Software, developer and publisher)[^ref-23]
 - [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (Pinkerton Road)[^ref-24]
 - [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] (Transolar Games)[^ref-25]
-- [[2014 - Quest for Infamy|Quest for Infamy]] and [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation]] (spiritual successors)[^ref-26]
+- [[2014 - Quest for Infamy|Quest for Infamy]] and [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation]] (spiritual successors)[^ref-53][^ref-26]
 - [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] (Triskell Interactive / Dotemu)[^ref-10]
 
 ### What's NOT on GOG
@@ -61,7 +61,7 @@ Source for the table: GOG catalogue data, checked October 16, 2026.[^ref-1][^ref
 - **[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]** — not sold on GOG.
 - **[[2010 - Gray Matter|Gray Matter]]** and **[[2022 - SpaceVenture|SpaceVenture]]** — no current GOG product; both are on Steam.[^ref-28][^ref-29]
 - **Many smaller Sierra-published and acquired-studio titles** (for example Stunt Flyer, and Coktel's A.G.E. and Bargon Attack) — not available from either storefront.
-- **Most Hoyle entries** and **most 3-D Ultra entries** — no Hoyle or 3-D Ultra title turned up in either store's search.
+- **Hoyle entries** and **most 3-D Ultra entries** — no Hoyle title turned up in either store's search. The only 3-D Ultra title sold today is [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]], listed on Steam as "3D Ultra™ Minigolf Adventures" (Wanako Games / Activision); it is not on GOG.[^ref-47]
 - **Coktel pre-Gobliiins titles** — 20,000 Leagues, Asterix, Geisha, Cougar Force, etc. (GOG does sell a Gobliiins pack.)
 - **Fan remakes** — AGDI and similar studios distribute their remakes from their own sites.
 
@@ -75,7 +75,7 @@ Steam's Sierra coverage is smaller than GOG's but includes the main classic coll
 
 ### Classic Sierra collections on Steam (Activision)
 
-- **King's Quest™ Collection** and **Space Quest™ Collection** (both released on Steam July 23, 2009)[^ref-30][^ref-31]
+- **King's Quest™ Collection** (KQ1–7; King's Quest 8 is not included) and **Space Quest™ Collection** (both released on Steam July 23, 2009)[^ref-30][^ref-31]
 - **Police Quest™ Collection**, **Quest for Glory 1-5**, **Gabriel Knight 1, 2 and 3** (sold separately), **Phantasmagoria 1 and 2** (all August 29, 2016)[^ref-32][^ref-33][^ref-34][^ref-35]
 - **Police Quest: SWAT** and **SWAT 2**[^ref-36]
 - Impressions city-builders: **Caesar 3**, **Pharaoh + Cleopatra**, **Zeus + Poseidon** (Emperor is on GOG but not Steam)[^ref-37]
@@ -89,12 +89,12 @@ Steam's Sierra coverage is smaller than GOG's but includes the main classic coll
 - **[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]** (Transolar Games)[^ref-25]
 - **[[2023 - Gobliiins 5 - The Morgloton Invasion|GOBLiiiNS5]]** (2023) and **[[2026 - Gobliins 6|GOBLiiNS6]]** (2026) — Pierre Gilhodes / Schnibble Productions. [[2009 - Gobliiins 4|Gobliiins 4]] is on neither store.[^ref-40]
 - **[[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]]** (Himalaya Studios)[^ref-26]
-- **[[2010 - Gray Matter|Gray Matter]]** (Jane Jensen) and **[[2022 - SpaceVenture|SpaceVenture]]** (Guys from Andromeda, December 23, 2025)[^ref-28][^ref-29]
-- **[[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]]** and **[[2024 - Homeworld 3|Homeworld 3]]** (Gearbox)[^ref-23]
+- **[[2010 - Gray Matter|Gray Matter]]** (Jane Jensen's adventure; WizarBox Production / Viva Media on Steam) and **[[2022 - SpaceVenture|SpaceVenture]]** (Guys from Andromeda, December 23, 2025)[^ref-28][^ref-29]
+- **[[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]]** (Gearbox)[^ref-23] and **[[2024 - Homeworld 3|Homeworld 3]]** (Blackbird Interactive; published by Gearbox Publishing)[^ref-48]
 - **[[2023 - Pharaoh - A New Era|Pharaoh: A New Era]]** (Triskell Interactive / Dotemu, February 15, 2023)[^ref-10]
 - **[[1998 - Half-Life|Half-Life]]** — Valve owns and sells it.[^ref-41]
 
-**No longer on Steam:** [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — its store page says it "is no longer available on the Steam store"; it is still sold on GOG.[^ref-42]
+**No longer on Steam:** [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — its store page says it "is no longer available on the Steam store"; it is still sold on GOG.[^ref-42] The classic Leisure Suit Larry games are gone too: in May 2025 Assemble Entertainment announced that LSL 1, 2, 3, 5, 6, 7 (Love for Sail) and Magna Cum Laude were being removed from Steam, while the GOG versions stayed on sale.[^ref-49] The Steam pages for LSL 1, 2, 5 and 7 now say they are "no longer available on the Steam store".[^ref-50]
 
 ### Steam-only vs. GOG
 
@@ -126,7 +126,7 @@ For Sierra titles NOT available on GOG or Steam:
 
 1. **Check legal status first** — An out-of-print game is still under copyright; "abandonware" is a community label, not a legal status. Check GOG and Steam before assuming a game is unavailable.
 2. **Use [[ScummVM]]** if you own original game data (CDs, floppies) — it runs AGI and SCI-engine titles on modern hardware.
-3. **Watch for licensing announcements** — The catalogue still changes: Assemble is removing its two Larry games from Steam in October 2026, and Leisure Suit Larry: Reloaded is already gone from Steam.[^ref-38][^ref-42]
+3. **Watch for licensing announcements** — The catalogue still changes: the classic Larry games left Steam after a May 2025 announcement, Leisure Suit Larry: Reloaded is gone from Steam, and Assemble removed its two Wet Dreams games from Steam and GOG on October 23, 2026.[^ref-49][^ref-42][^ref-38][^ref-45][^ref-46]
 4. **Vote on the GOG Dreamlist** — The [GOG Dreamlist](https://www.gog.com/dreamlist) lets users vote for titles to receive re-releases. Sierra entries include EcoQuest, Castle of Dr. Brain, The Black Cauldron, Manhunter: New York and Hoyle Classic Card Games.[^ref-11][^ref-27]
 
 ---
@@ -175,9 +175,9 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-25]: [Steam — Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/) — Transolar Games, July 10, 2018; GOG release 2018-07-09 (`herou_rogue_to_redemption`)
 [^ref-26]: [Steam — Mage's Initiation: Reign of the Elements](https://store.steampowered.com/app/270610/) — Developer and publisher Himalaya Studios; Quest for Infamy on Steam (264560) and GOG; Mage's Initiation also on GOG
 [^ref-27]: [GOG Dreamlist — Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) — Dreamlist entry; also Castle of Dr. Brain, The Black Cauldron, Hoyle Classic Card Games entries (checked 2026-10-16)
-[^ref-28]: [Steam — Gray Matter](https://store.steampowered.com/app/260570/) — On sale on Steam; no GOG product (slug redirects, checked 2026-10-16)
+[^ref-28]: [Steam — Gray Matter](https://store.steampowered.com/app/260570/) — WizarBox Production / Viva Media Inc; on sale on Steam (checked 2026-10-26); no GOG product (slug redirects, checked 2026-10-16)
 [^ref-29]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/) — Guys from Andromeda, December 23, 2025; not on GOG
-[^ref-30]: [Steam — King's Quest™ Collection](https://store.steampowered.com/app/10100/) — Sierra / Activision, July 23, 2009
+[^ref-30]: [Steam — King's Quest™ Collection](https://store.steampowered.com/app/10100/) — Sierra / Activision, July 23, 2009; "Seven classic games in one collection" (checked 2026-10-26)
 [^ref-31]: [Steam — Space Quest™ Collection](https://store.steampowered.com/app/10110/) — Sierra / Activision, July 23, 2009
 [^ref-32]: [Steam — Police Quest™ Collection](https://store.steampowered.com/app/494740/) — August 29, 2016
 [^ref-33]: [Steam — Quest for Glory 1-5](https://store.steampowered.com/app/502750/) — August 29, 2016
@@ -194,3 +194,10 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-44]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) — Kris Moyse, October 9, 2026; both Wet Dreams games "will be delisted later this month from Steam and GoG"
 [^ref-45]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) — update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"
 [^ref-46]: [Steam — Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) — checked October 26, 2026: "no longer available on the Steam store"
+[^ref-47]: [Steam — 3D Ultra™ Minigolf Adventures](https://store.steampowered.com/app/10140/) — Wanako Games / Activision, July 23, 2009; on sale (checked 2026-10-26)
+[^ref-48]: [Steam — Homeworld 3](https://store.steampowered.com/app/1840080/) — Developer Blackbird Interactive; publishers Gearbox Publishing, 2K; May 13, 2024
+[^ref-49]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) — Chris Scullion, May 1, 2025: "Leisure Suit Larry 1-7 (there was never a fourth game) and High Voltage Software’s Leisure Suit Larry: Magna Cum Laude are all being removed"
+[^ref-50]: [Steam — Leisure Suit Larry 1 - In the Land of the Lounge Lizards (app 763970)](https://store.steampowered.com/app/763970/) — checked October 26, 2026: "no longer available on the Steam store"; same notice on LSL 2 (765840), LSL 5 (765860) and LSL 7 (765890)
+[^ref-51]: [GOG.com — Return to Krondor](https://www.gog.com/en/game/return_to_krondor) — Developer PyroTechnix; publisher Activision (checked 2026-10-26)
+[^ref-52]: [GOG.com — Arcanum: Of Steamworks and Magick Obscura](https://www.gog.com/en/game/arcanum_of_steamworks_and_magick_obscura) — Developer Troika Games; publisher Activision (checked 2026-10-26)
+[^ref-53]: [GOG.com — Quest for Infamy](https://www.gog.com/en/game/quest_for_infamy) — Developer Infamous Quests; release July 10, 2014 (checked 2026-10-26)

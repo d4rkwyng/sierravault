@@ -190,7 +190,7 @@ Many original Sierra designers have created spiritual successors, many through c
 
 [[Al Lowe]], creator of Leisure Suit Larry:
 
-- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry - Reloaded]] — Status: Released 2013, Platform: Steam, GOG, Mobile
+- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry - Reloaded]] — Status: Released 2013, Platform: GOG, Mobile (no longer sold on Steam)
 
 ---
 
