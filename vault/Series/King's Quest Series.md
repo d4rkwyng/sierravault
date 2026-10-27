@@ -145,7 +145,7 @@ The series maintains an active fan community decades after the original games:
 ### Fan Remakes
 
 - **2001** — [[2001 - King's Quest I VGA Remake|KQ1 VGA Remake]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq1/)
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|KQ2+ Romancing the Stones]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
 - **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/kings-quest-iii-vga-remake)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|KQ3 Redux]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
 - **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: DrSlash,[^ref-18] Download: [AGS](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)

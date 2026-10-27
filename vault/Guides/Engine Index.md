@@ -425,7 +425,7 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 ## Adventure Game Studio (Fan Projects)
 
 - **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA (AGDI)]]
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+ (AGDI)]]
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones (AGDI)]]
 - **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo]]
 - **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III (Infamous)]]
 - **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA (AGDI)]]

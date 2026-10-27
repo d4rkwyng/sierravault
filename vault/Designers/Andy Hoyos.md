@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Phantasmagoria", "Quest for Glory III", "Space Quest I VGA", "The Matrix Online"]
 companies: ["NBC", "Calico Productions", "Sierra On-Line", "Monolith Productions", "Pinkerton Road", "Phoenix Online Studios"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Andy Hoyos
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -110,7 +110,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
 
 - 1999 — Ultima IX: Ascension — Art Management
 - 2005 — The Matrix Online — Monolith Productions — Art Director, 3D Artist
-- 2006 — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Redux]] — Infamous Adventures — Cast (Manannan, Mordack)
+- 2006 — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III: To Heir Is Human (Infamous Adventures Remake)]] — Infamous Adventures — Cast (Manannan, Mordack)
 - 2007 — Shadowrun — Concept Artists
 - 2009–2011 — Jewel Quest IV: Heritage, Jewel Quest Solitaire III, Jewel Quest: The Sapphire Dragon — iWin — Additional Art; Art; Art Director
 - **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: Pinkerton Road / Phoenix Online Studios, Role: Art Direction (with Michael Fortunato)[^ref-17]

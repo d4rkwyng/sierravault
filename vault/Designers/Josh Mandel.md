@@ -5,11 +5,11 @@ birth_year: 1958
 death_year: null
 notable_games: ["King's Quest V: Absence Makes the Heart Go Yonder! (CD-ROM, voice of King Graham)", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Freddy Pharkas: Frontier Pharmacist", "Callahan's Crosstime Saloon"]
 companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Josh Mandel
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ Mandel contributed writing and lore to Ember (2016), an RPG developed by N-Fusio
 
 Around 2011, Agustín Cordes asked Mandel for a cameo voice in Asylum, then cast him as the voice of its lead after hearing his samples.[^ref-7] Asylum was released in 2025. Adventure Game Hotspot's review notes that the game changed its main character's voice "a mere week before launch".[^ref-66] We have found no source confirming whether Mandel's performance is in the released game.
 
-Mandel has reprised King Graham in fan remakes, including AGD Interactive's King's Quest I VGA (2001), King's Quest II+: Romancing the Stones (2002), the Infamous Adventures King's Quest III Remake (2006), and King's Quest III Redux: To Heir is Human (2011).[^ref-5] The AGD team, he said, "wanted it just like the Graham in KQ5".[^ref-4]
+Mandel has reprised King Graham in fan remakes, including AGD Interactive's King's Quest I VGA (2001), King's Quest II: Romancing the Stones (2002), the Infamous Adventures King's Quest III Remake (2006), and King's Quest III Redux: To Heir is Human (2011).[^ref-5] The AGD team, he said, "wanted it just like the Graham in KQ5".[^ref-4]
 
 ## Notable Works
 
@@ -158,7 +158,7 @@ On 27 September 2025, Mandel opened an **"AMA About Sierra!"** thread on the Adv
 - 2000 — Jagged Alliance 2: Unfinished Business — Sir-Tech — Writer
 - **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake (AGD)]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
 - 2001 — Blue's Clues: Blue's Alphabet Book — THQ — Design
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+: Romancing the Stones]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
 - 2002 — Hungry Red Planet — Independent — Consultant
 - 2004 — Jagged Alliance 2: Wildfire — Strategy First — Writer
 - **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Company: Infamous Adventures, Role: Voice Actor (King Graham)

@@ -34,12 +34,12 @@ On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interac
 **Released Games:**
 
 - **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Original: [[1984 - King's Quest - Quest for the Crown|King's Quest - Quest for the Crown]], Download: [AGDI](https://www.agdinteractive.com/games/kq1/)
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+ - Romancing the Stones]] — Original: [[1985 - King's Quest II - Romancing the Throne|King's Quest II - Romancing the Throne]], Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Original: [[1985 - King's Quest II - Romancing the Throne|King's Quest II - Romancing the Throne]], Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
 - **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Original: [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II - Trial by Fire]], Download: [AGDI](https://www.agdinteractive.com/games/qfg2/)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux - To Heir is Human]] — Original: [[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]], Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
 
 **Notable Achievements:**
-- King's Quest II+ won the 2002 AGS Awards for Best Game Created with AGS, Best Story, Best Animation, Best Scripting, Best Music, and Best Documentation[^ref-3]
+- King's Quest II: Romancing the Stones won the 2002 AGS Awards for Best Game Created with AGS, Best Story, Best Animation, Best Scripting, Best Music, and Best Documentation[^ref-3]
 - PC World's Jim Norris called Quest for Glory II VGA "a hand-polished classic you should be embarrassed to download for free" (July 2012)[^ref-4]
 - King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001, the month KQ1 VGA came out; Just Adventure offered "a theory" that the remake's downloads had revived interest in the series[^ref-5]
 

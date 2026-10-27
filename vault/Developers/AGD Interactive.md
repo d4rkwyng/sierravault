@@ -17,7 +17,7 @@ last_updated: "2026-10-26"
 
 AGD Interactive (AGDI, "Anonymous Game Developers Interactive") is an independent, non-commercial game development group founded in 2001 that makes enhanced remakes of classic Sierra On-Line adventure games and releases them as free downloads.[^ref-8][^ref-10] It began as Tierra Entertainment and adopted the AGD Interactive name on December 10, 2003.[^ref-8][^ref-14] Wikipedia describes it as an LLC and a "non-profit company," and Adventure Classic Gaming called it "a nonprofit independent game development team."[^ref-8][^ref-23]
 
-AGDI was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-8] Its remakes, King's Quest I VGA (2001), King's Quest II+: Romancing the Stones (2002), Quest for Glory II: Trial by Fire (2008) and King's Quest III Redux: To Heir is Human (2011), are all built with Adventure Game Studio and released as freeware.[^ref-8][^ref-6] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-10]
+AGDI was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-8] Its remakes, King's Quest I VGA (2001), King's Quest II: Romancing the Stones (2002), Quest for Glory II: Trial by Fire (2008) and King's Quest III Redux: To Heir is Human (2011), are all built with Adventure Game Studio and released as freeware.[^ref-8][^ref-6] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-10]
 
 In 2004, the same founders established **[[Himalaya Studios]]**, a commercial company that makes original adventure games, while AGD Interactive continued its free remakes.[^ref-21][^ref-23] Himalaya's titles include *Al Emmo and the Lost Dutchman's Mine* (2006) and *Mage's Initiation: Reign of the Elements* (2019).[^ref-21][^ref-22]
 
@@ -33,13 +33,13 @@ On December 10, 2003, the group stopped using the name Tierra Entertainment and 
 
 AGDI's remakes were made with the knowledge of Sierra's owner. Asked in 2006 whether Sierra had contacted the team, Brimhall said: "yes—we were contacted both by past and present employees, supporting our work, and Vivendi Universal (VU) themselves. We had made it apparent from the get go that we would discontinue our project if VU decided it was inappropriate. Luckily, this never happened and we now have permission to create these games."[^ref-23]
 
-King's Quest I VGA was released free on August 8, 2001.[^ref-8] King's Quest II+: Romancing the Stones followed on December 3, 2002, and won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best Documentation.[^ref-8]
+King's Quest I VGA was released free on August 8, 2001.[^ref-8] King's Quest II: Romancing the Stones followed on December 3, 2002, and won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best Documentation.[^ref-8]
 
 ### Later Remakes
 
-Quest for Glory II was released on August 24, 2008, "after nearly 8 years in development."[^ref-8][^ref-13] Warren described it as "a one-man project in 2000" whose development resumed after King's Quest II+'s voice pack in 2003, with a refinement stage from 2005 to 2008.[^ref-13] In 2005 the team visited Oakhurst to meet Quest for Glory creators Lori Ann and Corey Cole. Through them they saw some of the original design documents, from which they pulled scrapped material for a new mini-game.[^ref-13]
+Quest for Glory II was released on August 24, 2008, "after nearly 8 years in development."[^ref-8][^ref-13] Warren described it as "a one-man project in 2000" whose development resumed after the King's Quest II: Romancing the Stones voice pack in 2003, with a refinement stage from 2005 to 2008.[^ref-13] In 2005 the team visited Oakhurst to meet Quest for Glory creators Lori Ann and Corey Cole. Through them they saw some of the original design documents, from which they pulled scrapped material for a new mini-game.[^ref-13]
 
-AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^ref-4] The studio described it as featuring "beautiful storybook artwork, an enchanting musical score, full voice acting, new scenes, quests, characters, and locations to explore."[^ref-4] Wikipedia notes that it is not a one-to-one remake and continues the non-canon story begun in King's Quest II+.[^ref-8]
+AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^ref-4] The studio described it as featuring "beautiful storybook artwork, an enchanting musical score, full voice acting, new scenes, quests, characters, and locations to explore."[^ref-4] Wikipedia notes that it is not a one-to-one remake and continues the non-canon story begun in King's Quest II: Romancing the Stones.[^ref-8]
 
 ## Notable Games
 
@@ -53,7 +53,7 @@ The Quest for Glory II remake adds content cut from the original, such as a Saur
 
 ### King's Quest III Redux: To Heir is Human (2011)
 
-King's Quest III Redux continues from AGDI's King's Quest II+ and adds new scenes, quests, characters and locations to the 1986 original, along with full voice acting.[^ref-4][^ref-8]
+King's Quest III Redux continues from AGDI's King's Quest II: Romancing the Stones and adds new scenes, quests, characters and locations to the 1986 original, along with full voice acting.[^ref-4][^ref-8]
 
 ## Key People
 
@@ -68,7 +68,7 @@ The founding of [[Himalaya Studios]] in 2004 let the team pursue original games 
 ## Games
 
 - **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Genre: Adventure
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+: Romancing the Stones]] — Genre: Adventure
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Genre: Adventure
 - **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Genre: Adventure/RPG
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Genre: Adventure
 

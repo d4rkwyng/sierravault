@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: 2026-10-19
+last_updated: 2026-10-26
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released...'
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ King's Quest III Redux received significant recognition at the 2011 AGS Awards, 
 
 ### Origins
 
-AGD Interactive (originally known as "Anonymous Game Developers") had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark tale of magic and identity that had originally pushed Sierra's technical boundaries in 1986[^ref-20].
+AGD Interactive (the Anonymous Game Developers, who released their first remakes under the name Tierra Entertainment before renaming the label AGD Interactive in December 2003[^ref-31]) had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark tale of magic and identity that had originally pushed Sierra's technical boundaries in 1986[^ref-20].
 
 The original King's Quest III represented a significant evolution for the series. Williams had found the first two games' plots limited by the memory of computers of the time, and for King's Quest III she aimed at a more "adult" story[^ref-20]. It was also the first King's Quest not to star King Graham, following the slave Gwydion instead[^ref-3].
 
@@ -286,3 +286,4 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-28]: [Wikipedia – Josh Mandel (video game designer)](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) – first voice of King Graham; reprised the role in KQ3 Redux
 [^ref-29]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series designed by Corey and Lori Ann Cole
 [^ref-30]: [AGD Interactive – King's Quest III Redux Development Team](https://www.agdinteractive.com/games/kq3/about/devteam.html) – team roles: Sean Nichols, Brandon Blume (MusicallyInspired), Tom Lewandowski
+[^ref-31]: [AGD Interactive – "Tierra Entertainment Becomes AGD Interactive" press release, December 10, 2003 (Wayback, Aug 2005)](https://web.archive.org/web/20050829223206/http://www.agdinteractive.com/press-03.php) – "The original name the Anonymous Game Developers chose, Tierra, was obviously a play on Sierra"
