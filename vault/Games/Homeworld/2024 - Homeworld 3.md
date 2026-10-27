@@ -10,14 +10,14 @@ series: Homeworld
 engine: Unreal Engine 4
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-19'
+last_updated: '2026-10-26'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
   and published by Gearbox Publishing, released on May 13, 2024 for Windows PC....
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -135,7 +135,7 @@ The crowdfunding campaign set a symbolic $1 goal, intended primarily as a commun
 
 In June 2021 the investment portion of the Fig campaign was cancelled following Embracer Group's acquisition of Gearbox earlier that year, with Fig CEO Justin Bailey confirming "no money ever changed hands" regarding the investment component.[^ref-45] Randy Pitchford, Gearbox studio boss, described the acquisition as "like a rocket booster to our ambitions."[^ref-45]
 
-In August 2022 Cunningham described the Homeworld 3 team as "40-odd" people within a studio of "330-something";[^ref-42] the full MobyGames credits list 1,115 people (1,088 professional roles).[^ref-8] Blackbird moved to a four-day work week at the beginning of 2022, midway through development.[^ref-54] Chief Creative Officer Rory McGuire told Game Rant that August: "It's been amazing. It's been really amazing... numbers-wise, it's almost identical to where we were with the five-day work week, except everyone is more refreshed."[^ref-68]
+In August 2022 Cunningham described the Homeworld 3 team as "40-odd" people within a studio of "330-something";[^ref-42] the full MobyGames credits list 1,115 people (1,088 professional roles).[^ref-8] Blackbird moved to a four-day work week during development: after a September–December 2021 pilot with two teams, it announced in February 2022 that all projects would switch from April 2022.[^ref-80][^ref-41] Chief Creative Officer Rory McGuire told Game Rant that August: "It's been amazing. It's been really amazing... numbers-wise, it's almost identical to where we were with the five-day work week, except everyone is more refreshed."[^ref-68]
 
 The game underwent multiple delays from its original Q4 2022 target.[^ref-3] In June 2022 it moved to the first half of 2023; the statement promised to deliver quality "in a healthy and sustainable way for all those involved." PC Gamer read this as avoiding crunch, while noting that "the word 'crunch' isn't used anywhere in the message."[^ref-77][^ref-47] In May 2023 the game slipped to February 2024.[^ref-78] It was later set for March 8, 2024, then on February 7, 2024 delayed to May 13 after feedback from the public War Games demo and outside playtesters.[^ref-48]
 
@@ -345,3 +345,4 @@ Blackbird ended active development with Update 1.3, about six months after launc
 [^ref-77]: [PC Gamer – Homeworld 3 delayed into 2023](https://www.pcgamer.com/homeworld-3-delayed-into-2023/) – Andy Chalk, Jun 10, 2022; "The word "crunch" isn't used anywhere in the message"
 [^ref-78]: [IGN – Homeworld 3 Has Been Delayed to 2024](https://www.ign.com/articles/homeworld-3-has-been-delayed-to-2024) – May 25, 2023; "delayed to February 2024"
 [^ref-79]: [Homeworld Universe – Kalan Raiders join War Games on August 15!](https://www.homeworlduniverse.com/kalan-raiders-join-war-games-on-august-15/) – Aug 13, 2024; "Update 1.2 ... will arrive on August 15"
+[^ref-80]: [Wikipedia – Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) – "From September to December 2021, Blackbird trialed the four-day work week with two of its teams"; all teams "beginning in April 2022"

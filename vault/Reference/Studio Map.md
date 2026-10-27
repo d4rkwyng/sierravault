@@ -88,7 +88,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Assemble Entertainment]] | 2016 (Wiesbaden, Germany) | Stefan Marcinek (Kalypso Media co-founder) | Active | LSL: Wet Dreams Don't Dry (2018), Wet Dreams Dry Twice (2020)[^ref-45][^ref-46] |
 | Société Pollene | — | — | — | Gobliiins 4 (2009)[^ref-47] |
 | [[Schnibble Productions]] | — | [[Pierre Gilhodes]] (Coktel alumnus) | Active | GOBLiiiNS5 (2023), GOBLiiNS6 (2026)[^ref-48][^ref-49] |
-| [[Blackbird Interactive]] | 2007 | Former Relic and EA Canada staff | Active | Homeworld: Deserts of Kharak (2016), Homeworld 3, Hardspace: Shipbreaker[^ref-50] |
+| [[Blackbird Interactive]] | 2007 per the studio; 2010 per MobyGames and Rob Cunningham[^ref-100][^ref-101][^ref-102] | Former Relic and EA Canada staff | Active | Homeworld: Deserts of Kharak (2016), Homeworld 3, Hardspace: Shipbreaker[^ref-50] |
 
 ## Fan / community studios (Sierra remakes and spiritual successors)
 
@@ -205,3 +205,6 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-97]: [The Adventurers Guild — Blue Force (1993): Introduction (October 2022)](https://advgamer.blogspot.com/2022/10/blue-force-1993-introduction.html) — "Tsunami Media, Inc., a game company founded in 1991"; "Former Sierra Chief Financial Officer Edmond Heinbockel started Tsunami in 1991"
 [^ref-98]: [CUC Agrees to Acquire Berkeley Systems Inc. - LA Times, 10 April 1997](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — Chris Deyo to "report to executives at Sierra Online, another game company acquired by CUC last year"
 [^ref-99]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — after Order of the Thorne "we really couldn’t go on as a full-time game development company"
+[^ref-100]: [Blackbird Interactive — About (Wayback 2015)](https://web.archive.org/web/20151122032837/http://blackbirdinteractive.com/about/) — "The company was founded in 2007"
+[^ref-101]: [MobyGames — Blackbird Interactive, Inc. (Wayback, April 2024)](https://web.archive.org/web/20240415125138/https://www.mobygames.com/company/24674/blackbird-interactive-inc/) — "The company was founded in 2010"
+[^ref-102]: [Eurogamer — The scale in Homeworld 3 is tremendous: it's a space RTS for the James Webb era (2022)](https://www.eurogamer.net/the-scale-in-homeworld-3-is-tremendous-its-a-space-rts-for-the-james-webb-era) — Rob Cunningham: "When I started Blackbird it was 2010"

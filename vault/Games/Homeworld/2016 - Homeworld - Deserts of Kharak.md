@@ -10,7 +10,7 @@ series: Homeworld
 engine: Unity 5
 protagonist: Rachel S'jet
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Homeworld: Deserts of Kharak is a real-time strategy game that serves
   as a prequel to the classic Homeworld series, taking place over a century before
   the...'
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ Professional reviewers consistently highlighted the game's production values, st
 ## Development
 
 ### Origins
-The game's development began as Hardware: Shipbreakers (originally "HARD|WARE", already in the works by late 2009), an independent project by Blackbird Interactive that was not initially connected to the Homeworld franchise[^ref-27][^ref-52]. Development started in Rob Cunningham's garage[^ref-52], with the studio later moving to a former Finning International warehouse with a gantry crane overhead[^ref-52]. The transformation into an official Homeworld title occurred through what Rob Cunningham described as "divine intervention" rather than "brilliant business strategy"—calling it "blind, fantastic luck" when Gearbox and Blackbird came together[^ref-4]. Randy Pitchford of Gearbox admitted that "We didn't have a clear long-range plan when we started" with the Homeworld IP acquisition[^ref-4].
+The game's development began as Hardware: Shipbreakers (originally "HARD|WARE"), an independent project by Blackbird Interactive that was not initially connected to the Homeworld franchise[^ref-27][^ref-52]. Yossarian King, who met Cunningham "over coffee in late 2009", recalls that the studio set up in Rob Cunningham's garage in October 2010[^ref-52], with the studio later moving to a former Finning International warehouse with a gantry crane overhead[^ref-52]. The transformation into an official Homeworld title occurred through what Rob Cunningham described as "divine intervention" rather than "brilliant business strategy"—calling it "blind, fantastic luck" when Gearbox and Blackbird came together[^ref-4]. Randy Pitchford of Gearbox admitted that "We didn't have a clear long-range plan when we started" with the Homeworld IP acquisition[^ref-4].
 
 Gearbox acquired the Homeworld intellectual property for $1.35 million during THQ's bankruptcy auction in April 2013[^ref-4][^ref-28][^ref-54]. Brian Martel, Gearbox's Chief Creative Officer, personally spearheaded the acquisition, with the first priority being "to preserve and assemble the purest form of the original acclaimed and beloved games"[^ref-54]. Blackbird was made up of former Relic members who had worked on the original Homeworld games; GamesIndustry.biz interviewed its CEO Rob Cunningham and chief creative officer Aaron Kambeitz about the deal[^ref-4].
 
