@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Sierra Published
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 composer: [Ola Strandh]
 description: Ground Control is a real-time tactics game developed by Swedish studio
   Massive Entertainment and published by Sierra Studios in 2000, set on the planet
@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -100,7 +100,7 @@ Ground Control has maintained its strong reputation in the years since release. 
 
 ### Origins
 
-Massive Entertainment was founded in 1997 in Ronneby, Sweden,[^ref-5][^ref-49] by a team of young developers with no prior professional game development experience.[^ref-6] The studio's CEO, Martin Walfisz, set out to create something new in the RTS genre. "We changed that formula for Ground Control and wanted to focus more on the tactics of the battles, instead of the resource gathering and strategizing," Walfisz explained.[^ref-6]
+Massive Entertainment was founded in 1997[^ref-5][^ref-49] by a team of young developers with no prior professional game development experience.[^ref-6] When Sierra Studios signed Ground Control in 1999, the studio was located in Ronneby, Sweden.[^ref-5] The studio's CEO, Martin Walfisz, set out to create something new in the RTS genre. "We changed that formula for Ground Control and wanted to focus more on the tactics of the battles, instead of the resource gathering and strategizing," Walfisz explained.[^ref-6]
 
 The game was originally developed under the working title "Genesis."[^ref-16] Walfisz was an avid player of Warcraft II and Command & Conquer at the time, and his vision was to make classic strategy game features work in a 3D environment.[^ref-16] The team then shifted the focus to the tactics of the battles instead of resource gathering.[^ref-6] Sierra Studios signed on to publish the game, recognizing its potential to stand out in an increasingly crowded RTS market.[^ref-5]
 
@@ -147,7 +147,7 @@ The graphics were so impressive that CNN/IDG declared Ground Control "simply one
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | May 2000 | Windows | Initial release[^ref-1] |
+| 1.0 | May 31, 2000 | Windows | Initial release[^ref-6] |
 | 1.0.0.8 | — | Windows | Configuration fixes, map description changes, improved joystick support[^ref-15] |
 | 1.0.1.0 | 2000 | Windows | Balance adjustments[^ref-35] |
 | 1.0.1.1 | 2009 | Windows | GOG release version[^ref-1][^ref-36] |

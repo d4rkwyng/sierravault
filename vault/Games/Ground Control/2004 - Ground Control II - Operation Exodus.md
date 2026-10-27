@@ -10,7 +10,7 @@ series: Ground Control
 engine: Asura / MassTech
 protagonist: Captain Jacob Angelus
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Ola Strandh]
 description: 'Ground Control II: Operation Exodus is a real-time tactics video game
   developed by Massive Entertainment and published by Vivendi Universal Games in 2004....'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control II: Operation Exodus
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -258,7 +258,7 @@ Ground Control II represents an important entry in the real-time tactics subgenr
 
 Warcry's review captured the appeal of its approach: "It leaves out what I, and many others, find annoying about the RTS genre - the base building. It lets you focus simply on the fighting and taking control of strategic points of the map...The best strategy game I've played in the past few years"[^ref-8].
 
-Massive Entertainment, now owned by Ubisoft, went on to develop World in Conflict and later Tom Clancy's The Division[^ref-27].
+Massive Entertainment went on to develop World in Conflict (2007) while still a Vivendi studio; Ubisoft bought Massive and the World in Conflict rights in November 2008, and the studio later made Tom Clancy's The Division[^ref-27][^ref-41].
 
 ## Downloads
 
@@ -314,3 +314,4 @@ Massive Entertainment, now owned by Ubisoft, went on to develop World in Conflic
 [^ref-35]: [HookedGamers Cheats](https://web.archive.org/web/20260320004538/https://www.hookedgamers.com/pc/ground_control_ii_operation_exodus/cheats.html) – cheat codes
 [^ref-36]: [GameSpot – Month in Review for June 2004, PC page (Archived)](https://web.archive.org/web/20050329023550/http://www.gamespot.com:80/features/6101893/p-2.html) – PC Game of the Month
 [^ref-40]: [MobyGames – Ground Control II: Operation Exodus Releases](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/releases/) – regional release dates and publishers, Steam release
+[^ref-41]: [GamesIndustry.biz – Ubisoft acquires Massive Entertainment (James Lee, 11 Nov 2008)](https://www.gamesindustry.biz/ubisoft-acquires-massive-entertainment) – "Publisher picks up personnel and rights to World in Conflict franchise from Activision-Blizzard"
