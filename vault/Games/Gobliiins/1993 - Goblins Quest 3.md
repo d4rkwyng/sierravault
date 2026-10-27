@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Blount
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 composer: [Charles Callet]
 description: Goblins Quest 3 is the third installment in Coktel Vision's
   beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Goblins Quest 3
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ PC Gamer, presenting it with its 1994 Best Puzzle Game award, wrote that its puz
 
 ## Story Summary
 
-The game's narrative centers on the legendary Labyrinth of Foliandre, said to harbor great secrets that might fulfill the wishes of those who discover them[^ref-7]. For thousands of years, two kingdoms ruled by Queen Xina and King Bodd have competed fiercely to be the first to conquer the labyrinth in the bowels of Mount Foliandre[^ref-8]. According to legend, the goblin who manages to overcome all the tests in the labyrinth will win eternal benefit for their people, with the fabulous "Jewel of the World" at its heart securing an eternity of pleasure for its owner[^ref-9].
+The game's narrative centers on the legendary Labyrinth of Foliandre, said to harbor great secrets that might fulfill the wishes of those who discover them[^ref-7]. For thousands of years, two kingdoms ruled by Queen Xina and King Bodd have competed fiercely to be the first to conquer the labyrinth in the bowels of Mount Foliandre[^ref-8]. According to legend, the goblin who manages to overcome all the tests in the labyrinth will win eternal benefit for their people[^ref-8], with the fabulous "Jewel of the World" at its heart securing an eternity of pleasure for its owner[^ref-9].
 
 Players take control of Blount, a talented reporter from the "Goblins News" who becomes entangled in a series of catastrophic events[^ref-9]. The game opens with Blount awakening to discover his flying ship under attack—the captain and even the rats have abandoned ship[^ref-2]. Jumping overboard, Blount crashes to earth, is surrounded by guards, becomes smitten by love, defeats the guards, and is then devoured by a werewolf, waking up dead—"and that's just a tune-up for his real adventure," according to Electronic Games[^ref-2]. Strange events have begun occurring throughout the land: the guardian of the labyrinth has died, his daughter has disappeared, and King Bodd has apparently fallen under a mysterious curse[^ref-7][^ref-29].
 
@@ -72,7 +72,7 @@ The game consists of 18 different levels, with some levels being interconnected[
 
 The puzzles in Goblins Quest 3 are designed to "test your brain power to the max," according to Gamer Walkthroughs[^ref-15]. While Blount is the primary controllable character, each level features a secondary character who assists in puzzle-solving but cannot pick up objects[^ref-8]. These sidekicks include Chump the parrot, Ooya the magician, and Fulbert the snake[^ref-11]. Players must coordinate actions between Blount and his current companion to solve the game's intricate puzzles.
 
-A unique mechanic involves Blount's werewolf transformation. When exposed to moonlight, Blount spontaneously transforms into a werewolf, and the hero undergoes several other mutations, drastically changing his size during the course of the game[^ref-16]. Players must strategically use both forms to overcome obstacles. The game also features potion-crafting mechanics, with players brewing elixirs such as Growlixir, Speedixir and Wingixir[^ref-14]. Another potion, Memorum, is given to Blount by a Knight; one puzzle requires restoring a dragon's memory with it before the dragon will help Blount[^ref-14].
+A unique mechanic involves Blount's werewolf transformation. When exposed to moonlight, Blount spontaneously transforms into a werewolf, and the hero undergoes several other mutations, drastically changing his size during the course of the game[^ref-16]. Players must strategically use both forms to overcome obstacles. The game also features potion-crafting mechanics, with players brewing elixirs such as Growlixir, Speedixir and Wingixir[^ref-14]. Another potion, Memorum, is given to Blount by a Knight; in one puzzle the dragon drinks it, its memory is restored, and from then on the dragon helps Blount[^ref-14].
 
 ## Reception
 
@@ -99,7 +99,7 @@ User reviews on various platforms have been consistently positive. MobyGames sho
 
 ### Origins
 
-Goblins Quest 3 was developed by Coktel Vision, a French game developer that had established the Gobliiins series in 1991[^ref-19]. The series was created by [[Pierre Gilhodes]] and [[Muriel Tramis]], with Gilhodes contributing the unique visual look that became the signature style of not only the Goblins games but many of Coktel Vision's other titles[^ref-19]. Gilhodes "became a graphic artist at a very early age" and began creating video games with Coktel Vision in 1990[^ref-20]. The conceptual premise of the series—where the number of "i"s in the title indicates the number of playable goblins—was cleverly carried through to its logical conclusion in this third installment[^ref-1].
+Goblins Quest 3 was developed by Coktel Vision, a French game developer that had established the Gobliiins series in 1991[^ref-19]. The series was created by [[Pierre Gilhodes]] and [[Muriel Tramis]][^ref-5][^ref-8], with Gilhodes contributing the unique visual look that became the signature style of not only the Goblins games but many of Coktel Vision's other titles[^ref-19]. Gilhodes "became a graphic artist at a very early age" and began creating video games with Coktel Vision in 1990[^ref-20]. The conceptual premise of the series—where the number of "i"s in the title indicates the number of playable goblins—was cleverly carried through to its logical conclusion in this third installment[^ref-1].
 
 ### Production
 
@@ -147,7 +147,7 @@ The game utilized Coktel Vision's proprietary Gob engine, which powered several 
 
 ### Technical Issues
 
-The game has experienced various compatibility issues on modern systems. Users on VOGONS forums reported crashes occurring "a couple seconds after" starting the game on Windows XP systems[^ref-23]. The Coktel Vision games "just seem to not like the NT version of MSCDEX, MACDEXNT," according to community member "collector"[^ref-23]. The recommended solution is to use "SAPUCDEX with VDMSound," which makes "most of the Coktel Vision games seem to work even better than with Windows 9x or DOS 7"[^ref-23]. Modern players are advised to use ScummVM or the GOG re-release for optimal compatibility[^ref-4].
+The game has experienced various compatibility issues on modern systems. A VOGONS forum user reported in 2004 that on Windows XP, "every time i start the game, it will crash a coulple [sic] of seconds after"[^ref-23]. The Coktel Vision games "just seem to not like the NT version of MSCDEX, MACDEXNT," according to community member "collector"[^ref-23]. The recommended solution is to use "SAPUCDEX with VDMSound," which makes "most of the Coktel Vision games seem to work even better than with Windows 9x or DOS 7"[^ref-23]. Modern players are advised to use ScummVM or the GOG re-release for optimal compatibility[^ref-4].
 
 ### Easter Eggs and Trivia
 
@@ -170,7 +170,7 @@ The game has been re-released digitally through various platforms. It is availab
 
 ### Fan Projects
 
-The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio, releasing it on both Steam and itch.io[^ref-24][^ref-34]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment, [[2026 - Gobliins 6|GOBLiiNS6]], was released on Steam on February 13, 2026[^ref-32]. Gobliiins 4 (2009), designed by Gilhodes with 3D graphics[^ref-36], has had a mixed reception among fans; Jefklak's Codex dismissed it as "the 3D mistake"[^ref-13].
+The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio[^ref-1][^ref-37], releasing it on both Steam and itch.io[^ref-24][^ref-34]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment, [[2026 - Gobliins 6|GOBLiiNS6]], was released on Steam on February 13, 2026[^ref-32]. Gobliiins 4 (2009), designed by Gilhodes[^ref-36] with 3D graphics[^ref-1], has had a mixed reception among fans; Jefklak's Codex dismissed it as "the 3D mistake"[^ref-13].
 
 ### Related Publications
 
@@ -240,3 +240,4 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 [^ref-34]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – Steam release date Jul 20, 2023
 [^ref-35]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – Red Art Games compilation of the first five games, May 27, 2026
 [^ref-36]: [MobyGames – Gobliiins 4 credits (Windows)](https://www.mobygames.com/game/40608/gobliiins-4/credits/windows/) – Design: Pierre Gilhodes; Muriel Tramis in thanks only
+[^ref-37]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Coktel Vision chart: Goblins Quest 3 (gob:gob3) Excellent; Schnibble Productions chart: Gobliiins5 parts 1–4 with AGS-engine IDs ags:gobliiins5-1 to -4

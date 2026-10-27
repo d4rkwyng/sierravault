@@ -3,14 +3,14 @@ title: Gobliiins
 release_year: 1991
 developer: Coktel Vision
 designer: [Pierre Gilhodes, Muriel Tramis]
-publisher: Sierra On-Line
+publisher: [Tomahawk, Coktel Vision, Sierra On-Line]
 genre: Puzzle
 platforms: [DOS, Amiga, Atari ST, Mac, iOS, Windows]
 series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (BoBo, Hooter, and Dwayne in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and Muriel Tramis, it began the Gobliiins series.
@@ -18,11 +18,11 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Gobliiins is a quirky point-and-click adventure/puzzle game developed by French studio Coktel Vision and released in 1991.[^ref-1] Created by [[Pierre Gilhodes]] and co-designed by [[Muriel Tramis]], this whimsical title became the beginning of Coktel Vision's most beloved franchise.[^ref-2] The game represents "a strange blend of genres that includes point and click adventure with more traditional puzzle-style gameplay," with the player directing a team of three goblins, each with its own special ability, through a run of comic puzzles.[^ref-3][^ref-4]
+Gobliiins is a quirky point-and-click adventure/puzzle game developed by French studio Coktel Vision and released in 1991.[^ref-1] Created by [[Pierre Gilhodes]] and co-designed by [[Muriel Tramis]], this whimsical title became the beginning of Coktel Vision's most beloved franchise.[^ref-2] The game represents "a strange blend of genres that includes point and click adventure with more traditional puzzle-style gameplay," with the player directing a team of three goblins, each with its own special ability, through a run of comic puzzles.[^ref-3][^ref-4] In Europe it was published in 1991 by [[Tomahawk]], a label Coktel Vision used for some of its own releases; [[Sierra On-Line]] published the US DOS release on September 11, 1992.[^ref-28][^ref-1][^ref-47]
 
 The game's distinctive naming convention—with three "i"s in the title—indicates the number of playable characters, a tradition that would continue throughout the series.[^ref-5] The linear game consists of 22 levels, each occupying a single screen, where players must coordinate the three goblins' distinct abilities to progress.[^ref-5][^ref-6]
 
@@ -31,7 +31,7 @@ The game combines challenging environmental puzzles with slapstick humor. GOG's 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
 > **Designer:** [[Pierre Gilhodes]], [[Muriel Tramis]][^ref-1]
-> **Publisher:** [[Sierra On-Line]] (US), Coktel Vision (Europe), [[Tomahawk]][^ref-1]
+> **Publisher:** [[Tomahawk]] (Coktel Vision's label; Europe, 1991), Coktel Vision (later European releases), [[Sierra On-Line]] (US, 1992)[^ref-1][^ref-28][^ref-47]
 > **Engine:** Gob[^ref-9]
 > **Platforms:** MS-DOS, Amiga, Atari ST, Macintosh, iOS, Windows (via ScummVM)[^ref-1]
 > **Release Year:** 1991
@@ -43,7 +43,7 @@ The game combines challenging environmental puzzles with slapstick humor. GOG's 
 
 The kingdom of King Angoulafre has fallen into chaos as the beloved monarch has gone completely mad.[^ref-10] The cause of his insanity is sinister: someone is using a voodoo doll to drive the king crazy, slowly tormenting him with dark magic.[^ref-11] As the king's sanity deteriorates, the fate of the entire realm hangs in the balance, and only three brave goblins can hope to save him.
 
-The story follows three goblins—Asgard the warrior, Ignatius the magician, and Oups the technician (known as BoBo, Hooter, and Dwayne respectively in the US release)—as they attempt to aid their afflicted king.[^ref-12] These "rather goofy elves from the Kingdom of King Angoulafre" must seek out the wizard Niak, who claims he can cure the king's madness if they bring him three magical items.[^ref-13] The goblins embark on their perilous quest, using their unique abilities to overcome the bizarre obstacles that stand in their way.
+The story follows three goblins—Asgard the warrior, Ignatius the magician, and Oups the technician (known as BoBo, Hooter, and Dwayne respectively in the US release)—as they attempt to aid their afflicted king.[^ref-12] These "rather goofy elves from the Kingdom of King Angoulafre" must seek out the wizard Niak,[^ref-13] who says he can cure the king's madness if they bring him three items.[^ref-5] (MobyGames' description instead has the goblins collecting four magic components.[^ref-1]) The goblins embark on their perilous quest, using their unique abilities to overcome the bizarre obstacles that stand in their way.
 
 However, upon obtaining the required items, the goblins discover a terrible truth: Niak himself is revealed to be the villain behind the king's insanity, having manipulated the goblins into performing his bidding all along.[^ref-6] The three heroes must now escape from Niak's lair and find a way to save their king. In the climactic finale, the goblins manage to destroy the voodoo doll used to drive King Angoulafre insane and defeat Niak while he is creating deadly potions, restoring peace to the kingdom.[^ref-6]
 
@@ -67,7 +67,7 @@ The GameFAQs walkthrough covers all 22 levels in sequence.[^ref-17]
 
 Each goblin possesses unique abilities that must be combined strategically to solve environmental puzzles.[^ref-1] In the original European version, Asgard is the warrior who can punch and climb, Ignatius is the wizard who casts unpredictable spells, and Oups is the technician who can pick up and use items.[^ref-13] Only the technician character can hold objects, and he can only carry one item at a time.[^ref-11]
 
-A distinctive feature is the shared health bar system. The three goblins share a collective life bar that decreases whenever they make mistakes or trigger traps.[^ref-5] "Every time you do something wrong, you lose energy," and "the goblins get hurt and complain to you about sending them into these traps. It's hilarious."[^ref-7][^ref-8] Some actions can kill goblins instantly, requiring careful planning.[^ref-11]
+A distinctive feature is the shared health bar system. The three goblins share a collective life bar that decreases whenever they make mistakes or trigger traps.[^ref-5] A Lemon Amiga user comment by Kodoichi notes that "everytime you do something wrong, you lose energy,"[^ref-7] and a 2010 GOG user review by Cardian says the goblins "complain to you about sending them into these traps. It's hilarious."[^ref-8] Some actions can kill goblins instantly, requiring careful planning.[^ref-11]
 
 Puzzles often demand very specific sequences of actions. One blogger's example involves needing to "physically put a diamond into [a wizard's] hand—which is subject of a puzzle—when in his own self-interest he should just stoop down and pick up the diamond when you lay it at his feet."[^ref-20]
 
@@ -75,15 +75,15 @@ Puzzles often demand very specific sequences of actions. One blogger's example i
 
 ### Contemporary Reviews
 
-Upon release, Gobliiins received generally positive reviews, with critics praising its innovative multi-character gameplay and charming visual style while noting its challenging puzzle design. Power Play magazine gave the game 69/100 in March 1992.[^ref-21] Amiga Action awarded the game 81% (Alan Bunker, issue 35, August 1992).[^ref-7] Dragon magazine gave the game a perfect 5/5 score in 1993.[^ref-5]
+Power Play magazine gave the game 69/100 in March 1992.[^ref-21] Amiga Action awarded the game 81% (Alan Bunker, issue 35, August 1992), Amiga Format also gave 81% (Andy Nuttall, issue 38, September 1992), Amiga Mania 83% (July 1992) and Amiga Joker 62% (February 1992).[^ref-7] Dragon magazine gave the game a perfect 5/5 score in 1993.[^ref-5]
 
 Computer Gaming World noted that "the game will entertain a variety of light-hearted gamers," acknowledging both its appeal and niche audience.[^ref-5] ST Format ranked Gobliiins #33 in their "50 finest Atari ST games of all time" list in January 1993.[^ref-1]
 
-Critics consistently praised the visual design and humor while acknowledging the difficulty. A 2000 MobyGames user review by Tomer Gabel called it "a landmark in computer gaming" and "a really neat game, super-original with no equal in that department."[^ref-1]
+A 2000 MobyGames user review by Tomer Gabel called it "a landmark in computer gaming" and "a really neat game, super-original with no equal in that department."[^ref-1]
 
 ### Modern Assessment
 
-Modern retrospectives have been more mixed, with reviewers appreciating the nostalgic charm while acknowledging dated mechanics. The GOG.com user community rates the Gobliiins Pack 4.4/5 stars.[^ref-8]
+The GOG.com user community rates the Gobliiins Pack 4.4/5 stars.[^ref-8]
 
 Some modern critics are less forgiving of the puzzle design. One blogger noted the game is "an interesting concept... marred by absurdly nonsensical puzzles and poor story logic."[^ref-20] Family Friendly Gaming gave the iOS port 76/100, with reviewer Paul admitting "it may have taken me months, but this point and click adventure now makes sense to me."[^ref-15]
 
@@ -104,10 +104,10 @@ Pierre Gilhodes began his career as a graphic artist at a very early age and sta
 Development took place at Coktel Vision's French studios, with the team designing 22 single-screen puzzle environments.[^ref-2] On the floppy versions, characters speak in "goblinish" rather than recorded voices.[^ref-5]
 
 **Development Credits:**[^ref-1][^ref-7]
-- **Designer:** Pierre Gilhodes
-- **Co-Designer:** Muriel Tramis
-- **Art Director:** Pierre Gilhodes
-- **Programming:** Eric Metens, M.D.O., Roland Lacoste
+- **Original Concept:** Pierre Gilhodes, Muriel Tramis
+- **Graphics / Artwork:** Pierre Gilhodes
+- **Programming:** Roland Lacoste, Eric Metens, M.D.O.
+- **Program Manager:** Roland Lacoste
 - **Music:** Charles Callet, M.D.O.
 - **Sound Effects:** Frédéric Motte, Charles Callet, M.D.O.
 - **Development Tools:** C Code
@@ -123,7 +123,7 @@ Pierre Gilhodes's angular, cartoonish art style gave the game a distinctive look
 **DOS Version:**[^ref-9]
 - **Resolution:** 320x200, 256 colors (VGA)
 - **Video Modes:** CGA, EGA, VGA supported
-- **Audio:** AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, PC Speaker
+- **Audio:** AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, PC Speaker[^ref-28]
 - **Audio Format:** MDY + TBR format, Ad Lib's MUS and SND formats[^ref-28]
 - **Storage:** 3.5 MB
 - **RAM:** 2 MB
@@ -144,7 +144,7 @@ Pierre Gilhodes's angular, cartoonish art style gave the game a distinctive look
 
 ### Cut Content
 
-Some music written by Frédéric Motte for Gobliiins was not used in the original 1991/1992 floppy releases. While the European boxes credited "Music and SFX: Moby (Frédéric Motte)," actually there was no music in the floppy versions.[^ref-1] This unused music was eventually used in Coktel Vision's "Once Upon a Time: Baba Yaga."[^ref-1]
+Some music written by Frédéric Motte for Gobliiins was not used in the original 1991/1992 floppy releases. While the European boxes credited "Music and SFX: Moby (Frédéric Motte)," actually there was no music in the floppy versions, except the Macintosh version.[^ref-1] This unused music was eventually used in Coktel Vision's "Once Upon a Time: Baba Yaga."[^ref-1]
 
 The game also contains unused title screen music that can be found in the data files.[^ref-30]
 
@@ -154,7 +154,7 @@ The game also contains unused title screen music that can be found in the data f
 |---------|------|----------|-------|
 | Original | 1991 | DOS, Mac | Initial European release[^ref-1] |
 | Original | 1992 | Amiga, Atari ST | European release[^ref-1] |
-| US release | 1992 | DOS | Sierra On-Line release with changed character names[^ref-1][^ref-12] |
+| US release | September 11, 1992 | DOS | Sierra On-Line release with changed character names[^ref-28][^ref-12] |
 | CD-ROM | 1992-1993 | DOS | Voices replace "goblinish"[^ref-5]; multilingual[^ref-29] |
 | iOS | November 8, 2010 | iPhone/iPad | Bulkypix port using ScummVM[^ref-31] |
 | Windows (ScummVM) | March 23, 2010 | Windows | DotEmu release, pre-packaged with ScummVM[^ref-9] |
@@ -175,7 +175,7 @@ Several patches were released to address compatibility issues:[^ref-32]
 | GOB1CD | 95.7 KB | CD version fixes for sound cards and CD-ROM drives |
 | GOB1CDb | 81.2 KB | Patch disk included with CD release |
 
-The Macintosh version has documented problems with music playback when running through ScummVM.[^ref-33] Modern users are advised to use ScummVM for the best compatibility experience—"Thanks to ScummVM, thousands of gamers around the world can enjoy the good old Goblins without any compatibility problems and headache."[^ref-34]
+The Macintosh version has documented problems with music playback when running through ScummVM.[^ref-33] Announcing a 2009 ScummVM-based re-release, Alexander Souslov of Snowberry Connection said: "Thanks to ScummVM, thousands of gamers around the world can enjoy the good old Goblins without any compatibility problems and headache."[^ref-34]
 
 ### Easter Eggs and Trivia
 
@@ -188,7 +188,7 @@ The Macintosh version has documented problems with music playback when running t
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not publicly available, Gobliiins was successful enough to spawn a franchise of six games released between 1991 and 2026.[^ref-5] The original trilogy was published by Sierra On-Line, helping establish Coktel Vision as a notable developer in the adventure game genre.[^ref-35]
+While specific sales figures are not publicly available, Gobliiins was successful enough to spawn a franchise of six games released between 1991 and 2026.[^ref-5] The original trilogy was published in North America by Sierra On-Line, helping establish Coktel Vision as a notable developer in the adventure game genre.[^ref-35]
 
 ### Collections
 
@@ -200,7 +200,7 @@ Gobliiins has appeared in numerous compilation releases:
 
 ### Fan Projects
 
-The ScummVM project provides extensive compatibility support for all Gobliiins games, allowing players to enjoy the series on modern systems.[^ref-34] "Playing the Gobliiins games has been fun over a decade ago, and stil is," noted ScummVM team member Max Horn.[^ref-34]
+ScummVM rates its support for the first three games as Excellent and runs Gobliiins 5 through its Adventure Game Studio engine; Gobliiins 4 is not on its compatibility list.[^ref-46][^ref-5] In 2009 Snowberry Connection and Société Pollene bundled the first three games, running in ScummVM, as a free bonus for digital buyers of Gobliiins 4.[^ref-34] "Playing the Gobliiins games has been fun over a decade ago, and stil is," noted ScummVM team member Max Horn.[^ref-34]
 
 ### Related Publications
 
@@ -240,10 +240,6 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 **Purchase / Digital Stores**
 - [GOG – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) - Includes first three games
 - **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
-
-**Download / Preservation**
-
-**Manuals & Extras**
 
 ## See Also
 
@@ -299,3 +295,5 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 [^ref-40]: [Digital Spy – Gobliiins 4 Review](https://www.digitalspy.com/videogames/a152852/gobliiins-4-pc/) – development history
 [^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – game description, technical specs
 [^ref-45]: [The Adventurers' Guild – Game 114: Gobliins 2: The Prince Buffoon (1993)](https://advgamer.blogspot.com/2019/12/game-114-gobliins-2-prince-buffoon-1993.html) – Fingus and Winkle as straight man and trickster
+[^ref-46]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Coktel Vision chart: Gobliiins (gob:gob1), Gobliins 2 (gob:gob2), Goblins Quest 3 (gob:gob3) all Excellent; Schnibble Productions chart: Gobliiins5 parts 1–4 (ags: IDs); no Gobliiins 4 entry
+[^ref-47]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Tomahawk "was only a label that Coktel Vision used to publish" some of its games
