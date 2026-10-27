@@ -95,7 +95,7 @@ Development of *Fortress of Fire* has been characterized by significant delays a
 
 By October 2025, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5]
 
-In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*, and that while he was hospitalized for spinal surgery "there have been lots of other people that have been scurrying behind the scenes to make some amazing things." The post did not mention *Fortress of Fire*.[^ref-19]
+In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*. The post did not mention *Fortress of Fire*.[^ref-19]
 
 **Development Credits:**[^ref-7]
 - **Project Lead:** Steven "Blackthorne" Alexander
@@ -215,7 +215,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – 1,656 backers pledged $63,281
 [^ref-18]: [Adventure Gamers – Fortress of Fire game details (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – Presentation: "2D or 2.5D"; Graphic Style: "Stylized art"
-[^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; notes behind-the-scenes work by others during his hospitalization; does not mention *Fortress of Fire*
+[^ref-19]: [Infamous Quests Patreon — update (April 4, 2026)](https://www.patreon.com/posts/154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; notes behind-the-scenes work by others during his hospitalization; does not mention *Fortress of Fire*
 [^ref-20]: [Infamous Quests – Order of the Thorne: Fortress of Fire (official site, archived 2019-12-12)](https://web.archive.org/web/20191212014129/http://www.infamous-quests.com/home/games/fortress-of-fire/) – Patrick and Sir Caradoc, Land of Sunlight story, features, AGS, Steam plans, anthology FAQ
 [^ref-21]: [Infamous Quests – Kickstarter update mirrored on BackerKit (Sep 28, 2019)](https://infamousquestsgames.backerkit.com/hosted_preorders/project_updates) – "most backgrounds done, and about 60% of the animations. Music is all done"; team on full-time jobs
 [^ref-22]: [Infamous Quests – official home page (archived 2019-12-23)](https://web.archive.org/web/20191223002133/http://www.infamous-quests.com/home/) – "FoF is at least a year away"

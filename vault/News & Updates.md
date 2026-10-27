@@ -85,7 +85,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to "finish recording all the lines for Mr. Roehm" in [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]]. In October 2025 he had written that once the voice work was done "it will just be editing the lines and implementing them into AGS, doing a final round of testing". He also aimed to show the team's work at **RetroGameCon in Syracuse in October 2026** (see the Q4 2026 entry: the game was still unreleased when the show took place).
 > 
-> [Infamous Quests Patreon (Apr 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) · [Earlier RtR / Fortress of Fire update (Oct 15, 2025)](https://www.patreon.com/posts/141274312)
+> [Infamous Quests Patreon (Apr 4, 2026)](https://www.patreon.com/posts/154760603) · [Earlier RtR / Fortress of Fire update (Oct 15, 2025)](https://www.patreon.com/posts/141274312)
 
 ---
 
@@ -190,7 +190,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > | Project | Team | Status |
 > |---------|------|--------|
 > | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | ❓ Unverified — only source is a [patron-only post](https://www.patreon.com/posts/small-update-147963671) (Jan 2026) |
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Last Mr. Roehm voice session [booked for May 2026](https://www.patreon.com/posts/hospital-stays-154760603); no public confirmation it was finished; developer reports [waning momentum](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) (Jul 2026); still unreleased after RetroGameCon (Oct 2026) |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Last Mr. Roehm voice session [booked for May 2026](https://www.patreon.com/posts/154760603); no public confirmation it was finished; developer reports [waning momentum](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) (Jul 2026); still unreleased after RetroGameCon (Oct 2026) |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ In limbo — [no team or budget to finish](https://www.patreon.com/posts/updates-on-rtr-141274312) (Oct 2025) |
 > | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 [~90%](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) (Jan 2026); release promised ["soon"](https://eab.abime.net/showthread.php?t=122018&page=4), still unreleased |
 
