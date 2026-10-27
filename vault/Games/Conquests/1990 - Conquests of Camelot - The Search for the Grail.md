@@ -266,7 +266,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-13]: [GameFAQs – LachieD Walkthrough](https://gamefaqs.gamespot.com/pc/564770-conquests-of-camelot-the-search-for-the-grail/faqs/44699) – parser instructions
 [^ref-14]: [Reddit r/Sierra](https://www.reddit.com/r/Sierra/comments/1nmnn1w/conquests_of_camelot_the_search_for_the_grail/) – spelling variations, parser compatibility
 [^ref-16]: [Lemon Amiga – Review](https://www.lemonamiga.com/games/reviews/view.php?id=481) – Amiga performance issues, difficulty settings, review score
-[^ref-17]: AmigaLove, Conquests of Camelot entry (amigalove.com, game_id=41; cited as text only because the page offers downloads of a game still sold) – Amiga port quality, graphics analysis, historical accuracy
+[^ref-17]: AmigaLove, Conquests of Camelot entry (amigalove.com) – Amiga port quality, graphics analysis, historical accuracy
 [^ref-18]: [Metzomagic.com – Gordon Aplin Review](https://www.metzomagic.com/showArticle.php?index=698) – retrospective analysis, legacy assessment
 [^ref-19]: My Abandonware *(download link removed: the game is sold commercially)* – HOTUD review quotes, user ratings
 [^ref-20]: [IMDB – Conquests of Camelot](https://www.imdb.com/title/tt0455402/) – user rating, Latin graffiti trivia
