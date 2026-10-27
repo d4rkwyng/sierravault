@@ -10,22 +10,22 @@ series: Standalone
 engine: Custom (assembly language)
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: '**Sammy Lightfoot** is a multi-level platform game—or "climbing game,"
   as the genre was called in the United States in 1983—developed and published by...'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-**Sammy Lightfoot** is a multi-level platform game—or "climbing game," as the genre was called in the United States in 1983—developed and published by Sierra On-Line.[^ref-1][^ref-3] Written by [[Warren Schwader]] for the Apple II, it is a game in the vein of *Donkey Kong* that follows a circus worker who jumps and climbs through perilous situations in three non-scrolling levels.[^ref-3] *The Commodore 64 Home Companion* said the game captured the cartoon spirit and graphic style of *Donkey Kong* without being a simple clone.[^ref-3]
+**Sammy Lightfoot** is a multi-level platform game—or "climbing game," as the genre was called in the United States in 1983—developed and published by Sierra On-Line.[^ref-3] Written by [[Warren Schwader]] for the Apple II, it is a game in the vein of *Donkey Kong* that follows a circus worker who jumps and climbs through perilous situations in three non-scrolling levels.[^ref-3] *The Commodore 64 Home Companion* (1984) wrote that it "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone."[^ref-21]
 
 Sierra released the game under its short-lived SierraVision label, which it created for its arcade and cartridge-based games.[^ref-12] The game was ported to the Commodore 64 (converted by Dean Creehan), the ColecoVision, and the Japanese PC-88 and FM-7 computers.[^ref-4][^ref-5] Its star is an acrobat with an exceptionally large pompadour hairdo, which spins around when he dies.[^ref-12][^ref-9]
 
-The game's promotional text, as transcribed by Sierra Chest, embraced its circus theme with carnival-barker enthusiasm: "Hurry, hurry, hurry! Step right up and see the most daring acrobat in this wide world! He jumps, he swings, he flies! Watch Sammy Lightfoot perform incredible feats high above your head."[^ref-7]
+The ColecoVision manual opens with carnival-barker enthusiasm: "Hurry, hurry, hurry! Step right up and see the most daring acrobat in this wide world. He jumps, he swings, he flies! Watch Sammy Lightfoot perform incredible feats high above your head."[^ref-22][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
@@ -40,7 +40,7 @@ The game's promotional text, as transcribed by Sierra Chest, embraced its circus
 
 ## Story Summary
 
-Sammy Lightfoot is a circus trapeze artist.[^ref-7] The manual, as transcribed by Sierra Chest, introduces him as a "death-defying daredevil" who will leap huge circus balls, fly over scorching flames, dodge lethal plungers, swing on a trick rope, "challenge the man-eating pumpkin and soar on a flying carpet."[^ref-7]
+Sammy Lightfoot is a circus trapeze artist.[^ref-22][^ref-7] The ColecoVision manual introduces him as a "death-defying daredevil" who will leap huge circus balls, fly over scorching flames, dodge lethal plungers, swing on a trick rope, "challenge the man-eating pumpkin and soar on a flying carpet."[^ref-22]
 
 C64-Wiki sums it up: "As a trapeze artist Sammy Lightfoot you jump high over the heads of the audience over balls and fire, balance over abysses, swing on ropes to a man-eating pumpkin and tame a flying carpet."[^ref-8] The story is minimal, in the tradition of early arcade games.
 
@@ -50,9 +50,9 @@ HonestGamers reviewer aschultz describes Sammy as a "tubby orange-haired fellow"
 
 ### Interface and Controls
 
-Sammy Lightfoot uses a side-view perspective with fixed, flip-screen presentation.[^ref-4] On the Commodore 64 the player uses a joystick in port 1. Sammy moves left and right, and the button makes him jump, hang on to ropes or start the elevators.[^ref-7][^ref-6] The ColecoVision version uses the controller's side button for the same actions and its keypad to restart, change options or pause.[^ref-7] Sammy makes "squip noises" when he walks and "boingy noises" when he jumps.[^ref-9]
+Sammy Lightfoot uses a side-view perspective with fixed, flip-screen presentation.[^ref-4] On the Commodore 64 the player uses a joystick in port 1. Sammy moves left and right, and the button makes him jump, hang on to ropes or start the elevators.[^ref-7][^ref-6] The ColecoVision version uses the controller's left side button for the same actions and its keypad to restart, change options or pause.[^ref-22][^ref-7] Sammy makes "squip noises" when he walks and "boingy noises" when he jumps.[^ref-9]
 
-On the Commodore 64 an options screen sets one or two players taking turns, the starting level for each player, and whether sounds and scene tunes play.[^ref-7] The ColecoVision version has a similar options screen.[^ref-11] Sierra Chest notes that the Apple II release "appears to only have single player and no options screen". MobyGames, however, lists one or two players for the Apple II, and Retro365 describes one- or two-player hot-seat play, so the sources disagree.[^ref-7][^ref-4][^ref-12]
+On the Commodore 64 an options screen sets one or two players taking turns, the starting level for each player, and whether sounds and scene tunes play.[^ref-7] The ColecoVision version has a similar options screen.[^ref-11] Sierra Chest notes that the Apple II release "appears to only have single player and no options screen". MobyGames, however, lists one or two players for the Apple II and carries an Apple II screenshot captioned "Options" (with a number-of-players setting), and Retro365 describes one- or two-player hot-seat play, so the sources disagree.[^ref-7][^ref-4][^ref-12]
 
 ### Structure and Progression
 
@@ -74,7 +74,7 @@ C64-Wiki says the controls must be "pixel exact" and that the enemies and obstac
 
 ### Contemporary Reviews
 
-According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release". It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) said the game captured the cartoon spirit and graphic style of *Donkey Kong* without being a simple clone.[^ref-3] MobyGames records a 78% critic average.[^ref-4]
+According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release". It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average.[^ref-4]
 
 ### Modern Assessment
 
@@ -95,7 +95,7 @@ C64-Wiki users rate it 5.20 out of 10 from 15 votes.[^ref-8] Reviewer H.T.W call
 
 ### Origins
 
-Retro365 recounts that after his hit *Threshold*, Warren Schwader was becoming more devoted to the Jehovah's Witnesses and had begun to question his part in creating violent games. With "certainly no violence" as a guideline, he began work on Sammy Lightfoot, a light-hearted, circus-themed, multi-screen platform game.[^ref-12] Schwader later described Sammy Lightfoot as his last published Apple II game.[^ref-20]
+Retro365 recounts that after his hit *Threshold*, Warren Schwader was becoming more devoted to the Jehovah's Witnesses and had begun to question his part in creating violent games. With "certainly no violence" as a guideline, he began work on Sammy Lightfoot, a light-hearted, circus-themed, multi-screen platform game.[^ref-12] His *Halcyon Days* interviewer called Sammy Lightfoot Schwader's "last published Apple II game".[^ref-20]
 
 ### Production
 
@@ -121,7 +121,7 @@ C64-Wiki describes the Commodore 64 version's graphics as "very low resolution" 
 ### Technical Specifications
 
 **Apple II Version:**
-- **Players:** Sources conflict. Sierra Chest says single player only; MobyGames lists 1–2.[^ref-7][^ref-4]
+- **Players:** Sources conflict. Sierra Chest says single player only; MobyGames lists 1–2 and shows an Apple II options screen.[^ref-7][^ref-4]
 - **Difficulty Levels:** 12 (0–11)[^ref-7]
 
 **Commodore 64 Version:**
@@ -133,7 +133,7 @@ C64-Wiki describes the Commodore 64 version's graphics as "very low resolution" 
 **ColecoVision Version:**
 - **ROM Size:** 16 KB[^ref-11]
 - **ROM MD5 Hash:** 78f37e95058f08c4995cf95598ee2a4f[^ref-11]
-- **Media:** ROM cartridge[^ref-7]
+- **Media:** ROM cartridge[^ref-22][^ref-7]
 - **Publisher:** Sierra On-Line[^ref-4]
 
 ### Cut Content
@@ -179,12 +179,12 @@ Andrew Schultz (aschultz) wrote a GameFAQs walkthrough (version 1.0.0, April 15,
 
 ### Related Publications
 
-- **Original Manual:** Included with retail versions; it features circus-themed text and loading and control instructions.[^ref-7]
+- **Original Manual:** Included with retail versions; it features circus-themed text and loading and control instructions.[^ref-22][^ref-7]
 - **Walkthrough (FAQ):** By aschultz, version 1.0.0, April 15, 2008, on GameFAQs.[^ref-10]
 
 ### Critical Perspective
 
-Sammy Lightfoot was Warren Schwader's last published Apple II game before he left the industry for several years.[^ref-20] Retro365 regards it as a showcase for the aging Apple II's hardware, with flicker-free page flipping, while judging the conversions less successful.[^ref-12] Schwader himself still played it years later, naming it alongside *Smash-up* and *Threshold* as Apple games he enjoys.[^ref-20]
+*Halcyon Days* calls Sammy Lightfoot Schwader's last published Apple II game; he then left the industry for several years.[^ref-20] Retro365 regards it as a showcase for the aging Apple II's hardware, with flicker-free page flipping, while judging the conversions less successful.[^ref-12] Schwader himself still played it years later, naming it alongside *Smash-up* and *Threshold* as Apple games he enjoys.[^ref-20]
 
 
 ## Downloads
@@ -192,12 +192,13 @@ Sammy Lightfoot was Warren Schwader's last published Apple II game before he lef
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/Sammy_Lightfoot)
 - [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Sammy_Lightfoot_1983_Sierra_Online)
-- [Internet Archive – ColecoVision Version](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line)
+- [Internet Archive – ColecoVision Version](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line)
 - [MyAbandonware](https://www.myabandonware.com/game/sammy-lightfoot-54f)
 - [Classic Reload – ColecoVision](https://classicreload.com/colecovision-sammy-lightfoot.html)
 
 **Manuals & Extras**
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
+- [ColecoVision Manual (Archive.org)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line)
 
 ## See Also
 
@@ -222,7 +223,7 @@ Sammy Lightfoot was Warren Schwader's last published Apple II game before he lef
 
 ## References
 
-[^ref-1]: [Internet Archive – Sammy Lightfoot (1983)(Sierra On-Line)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line) – ColecoVision ROM item; description: "climbing game" and "in the vein of Donkey Kong"
+[^ref-1]: [Internet Archive – Sammy Lightfoot (1983)(Sierra On-Line)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line) – ColecoVision ROM item, preservation
 [^ref-2]: [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Sammy_Lightfoot_1983_Sierra_Online) – C64 disk image, preservation
 [^ref-3]: [Wikipedia – Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot) – Schwader as author, Apple II original, three non-scrolling levels, Commodore 64 Home Companion assessment (paraphrased), release years
 [^ref-4]: [MobyGames – Sammy Lightfoot](https://www.mobygames.com/game/15273/sammy-lightfoot/) – release dates by platform, Comptiq (PC-88/FM-7), critic average, player counts, flip-screen view
@@ -238,4 +239,6 @@ Sammy Lightfoot was Warren Schwader's last published Apple II game before he lef
 [^ref-14]: [Internet Archive – Apple II Version](https://archive.org/details/Sammy_Lightfoot) – Apple II disk image, preservation
 [^ref-17]: [IGN – Sammy Lightfoot](https://www.ign.com/games/sammy-lightfoot) – publisher listing
 [^ref-19]: [Lemon64 – Sammy Lightfoot review by Dean Creehan](https://www.lemon64.com/review/sammy-lightfoot/641) – Creehan's account of the C64 conversion (16K limit, "Lisa", printer ports, 800 hours); 8/10
-[^ref-20]: [Halcyon Days – Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – page flipping, priority scheme, Sammy's Icehouse, later career
+[^ref-20]: [Halcyon Days – Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – page flipping, priority scheme, Sammy's Icehouse, later career; the interviewer's question calls it his "last published Apple II game"
+[^ref-21]: [The Commodore 64 Home Companion (George Beekman, DATAMOST, 1984)](https://archive.org/details/The_Commodore_64_Home_Companion) – period book scan, p. 174: "one-or-two-player game captures the cartoon spirit and graphic style of Donkey Kong"
+[^ref-22]: [Internet Archive – Sammy Lightfoot ColecoVision manual (SierraVision)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line) – period manual scan: promotional text, "death-defying daredevil", left side button, keypad restart/options/pause

@@ -3,14 +3,14 @@ title: Caesar III
 release_year: 1998
 developer: Impressions Games
 designer: [David Lester]
-publisher: Sierra Entertainment
+publisher: Sierra Studios
 genre: City-Building
 platforms: [Windows, Mac]
 series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Caesar III is a city-building strategy game that transports players to
  the Roman Empire, where they serve as a provincial governor tasked with building
  thriving settlements.
@@ -18,13 +18,13 @@ tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Caesar III is a city-building strategy game that transports players to the Roman Empire, where they serve as a provincial governor tasked with building thriving settlements. Developed by Impressions Games and published by Sierra Entertainment in 1998[^ref-19], the game has been described as "SimCity set in the Roman Empire"[^ref-30] while offering significantly more depth and complexity than that simple comparison suggests. As Ron Dulin noted in his GameSpot review, "The company line on Caesar III is that it's SimCity set in the Roman Empire. That's only partially true"[^ref-30], emphasizing the game's unique mechanics and historical setting.
+Caesar III is a city-building strategy game that transports players to the Roman Empire, where they serve as a provincial governor tasked with building thriving settlements. Developed by Impressions Games and published by Sierra Studios, Sierra On-Line's games label, in 1998[^ref-19][^ref-98], the game has been described as "SimCity set in the Roman Empire"[^ref-30] while offering significantly more depth and complexity than that simple comparison suggests. As Ron Dulin noted in his GameSpot review, "The company line on Caesar III is that it's SimCity set in the Roman Empire. That's only partially true"[^ref-30], emphasizing the game's unique mechanics and historical setting.
 
-The game is the third installment in the Caesar series, and later players have called it "the best game in the Caesar franchise".[^ref-88]
+The game is the third installment in the Caesar series, and one Metacritic user called it "the best game in the Caesar franchise".[^ref-88]
 
 According to developer Simon Bradbury, who worked on all three Caesar games, "Personally Caesar 3 remains my favourite. It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-4].
 
@@ -36,7 +36,7 @@ The game's official manual states that "Caesar III is not a war game, although y
 > **Developer:** [[Impressions Games]][^ref-19]
 > **Designer:** [[David Lester]][^ref-48]
 > **Programmer:** [[Simon Bradbury]][^ref-48]
-> **Publisher:** Sierra Entertainment[^ref-19]
+> **Publisher:** Sierra Studios (Sierra On-Line)[^ref-19][^ref-98]
 > **Engine:** 2D isometric graphics engine[^ref-19]
 > **Platforms:** Windows, Macintosh[^ref-19]
 > **Release Year:** 1998
@@ -82,16 +82,18 @@ Reviews for Caesar III were highly positive, with many critics praising it as a 
 | GameSpot | 7.9/10 | "Good" rating with praise for depth[^ref-30] |
 | PC Zone | 92/100 | High score from UK publication[^ref-19] |
 | PC Gamer (UK) | 87% | Christmas 1998 review[^ref-19] |
-| PC PowerPlay | 88% | December 1998 review[^ref-19] |
+| PC PowerPlay | 88% | December 1998 review by David Wildgoose[^ref-19][^ref-96] |
+| Hyper | 87% | December 1998 review by Eliot Fish[^ref-95] |
+| Computer and Video Games | 4/5 | January 1999 mini-review by Alex Huhtala[^ref-97] |
 | Computer Gaming World | 4.5/5 | Called it a "magnificent accomplishment"[^ref-19] |
 
-IGN's Trent Ward wrote that "the game is well thought out, expertly designed, and artistically pleasing"[^ref-37] and concluded that "Caesar III is a fantastic strategy game that offers enough different challenges and rewards that almost anyone who has the patience to learn how the game works will eventually come to enjoy"[^ref-37]. Computer Gaming World's Tim Carter praised the game as having "an elusive, difficult-to-define quality of excellent gameplay"[^ref-19].
+IGN's Trent Ward wrote that "the game is well thought out, expertly designed, and artistically pleasing"[^ref-37] and concluded that "Caesar III is a fantastic strategy game that offers enough different challenges and rewards that almost anyone who has the patience to learn how the game works will eventually come to enjoy"[^ref-37]. Computer Gaming World's Tim Carter praised the game as having "an elusive, difficult-to-define quality of excellent gameplay"[^ref-19]. In *Hyper*, Eliot Fish wrote that "Caesar III is far more complex and challenging than a straightforward city management sim"[^ref-95]. *PC PowerPlay*'s David Wildgoose praised "the variety and immense subtlety of the economic and political models"[^ref-96], and *Computer and Video Games* said it "plays like a cross between Sim City and the Settlers games", though "the only downfall is the combat, which doesn't work too well"[^ref-97].
 
 The game was nominated for Computer Strategy Game of the Year at the 1999 D.I.C.E. Awards, though it lost to Sid Meier's Alpha Centauri[^ref-41]. This nomination recognized Caesar III among the premier strategy games of its era in the official industry awards.
 
 ### Modern Assessment
 
-Caesar III has maintained strong regard among players decades after its release. On modern digital platforms, the game continues to receive positive reviews, with Steam users rating it "Very Positive" (93% of 1,238 reviews as of October 2026)[^ref-85] and GOG users rating it 4.5/5 from 436 reviews (October 2026)[^ref-33]. MobyGames lists an 83% critic average from 42 ratings and a Moby Score of 8.0 (October 2026)[^ref-45].
+Caesar III has maintained strong regard among players decades after its release. On modern digital platforms, the game continues to receive positive reviews, with Steam users rating it "Very Positive" (93% of 1,243 English-language reviews as of October 26, 2026)[^ref-85] and GOG users rating it 4.5/5 from 438 reviews (October 26, 2026)[^ref-33]. MobyGames lists an 83% critic average from 42 ratings and a Moby Score of 8.0 (October 2026)[^ref-45].
 
 Modern retrospective reviews emphasize the game's lasting appeal. One 2021 Metacritic user review stated, "The best game in the Caesar franchise. It has enough depth to be challenging and managed also not to burden the player with to much micromanaging"[^ref-88]. Another user on the same platform declared, "I feel that Caesar III can unquestionably be called the Citybuilder upon which all future Citybuilers should be measured"[^ref-88]. The game's enduring popularity is evidenced by active modding communities and open-source reimplementations like Julius and Augustus that allow modern players to experience enhanced versions of the classic gameplay[^ref-32][^ref-31].
 
@@ -105,7 +107,7 @@ According to QA Manager Jon Payne, "I think that one of the biggest complaints w
 
 ### Production
 
-The development team consisted of 31 people at Impressions Games, with key roles filled by David Lester as designer, Simon Bradbury as programmer and Eric Ouellette as producer[^ref-48]. Simon Bradbury worked on a freelance basis for Impressions/Sierra and collaborated daily across the Atlantic with lead producer Eric Ouellette[^ref-4]. The team placed particular emphasis on the walker mechanic; Bradbury explained that SimCity-style placement "was a bit static", and that walkers were "an efficient way of coding the game (and) add a sense of randomness into the city"[^ref-19].
+MobyGames credits 31 people (29 developers and 2 special thanks), with key roles filled by David Lester as designer, Simon Bradbury as programmer and Eric Ouellette as producer[^ref-48]. Simon Bradbury worked on a freelance basis for Impressions/Sierra and collaborated daily across the Atlantic with lead producer Eric Ouellette[^ref-4]. The team placed particular emphasis on the walker mechanic; Bradbury explained that SimCity-style placement "was a bit static", and that walkers were "an efficient way of coding the game (and) add a sense of randomness into the city"[^ref-19].
 
 The game's music was composed by Robert Euvino, who found creating an authentic Roman sound to be challenging. As he explained in interviews, "Caesar 3 was a much smaller target to hit. Although I knew Caesar needed a lot of horns and fanfares, I found it more challenging to make things sound 'Roman'"[^ref-78]. He noted that "Often times I would begin writing and then when I listened back I realized I had made something sound much more like an American fanfare (Copeland) as opposed to getting the cliché sound of the Coliseum made famous by Hollywood"[^ref-78].
 
@@ -125,12 +127,13 @@ Sierra's 1.0.1.0 update remains important today, as "open-source implementations
 |---------|------|-------|
 | 1.0 | September 30, 1998 | Initial release (Windows)[^ref-19] |
 | 1.0.1.0 | January 8, 1999 | North American patch; European release March 16, 1999. Required by open-source implementations[^ref-94][^ref-26] |
+| Mac | June 18, 1999 | Macintosh version; announced for June in February 1999, went gold June 3 with retail availability set for June 18[^ref-38][^ref-98] |
 
 ## Legacy
 
-Caesar III remains a reference point for the city-building genre. Its walker mechanic for distributing resources, its branching missions, and its single map merging city-building and combat were all introduced in response to critiques of Caesar II[^ref-19].
+Some players still treat Caesar III as a benchmark for the genre; one Metacritic user called it "the Citybuilder upon which all future Citybuilers should be measured"[^ref-88]. Its walker mechanic for distributing resources, its branching missions, and its single map merging city-building and combat were all introduced in response to critiques of Caesar II[^ref-19].
 
-The game's commercial success was substantial, with sell-through exceeding 250,000 units by February 1999, including just over 93,000 in the United States according to PC Data[^ref-38][^ref-83]. Sierra's Jim Veevaert stated at the time, "We are very excited about the tremendous sell-through of the game" and noted that "Clearly Caesar III has taken real-time city building and management to new heights and strategy fans around the world are thrilled"[^ref-38]. It reached #10 on PC Data's US weekly chart for October 18–24, 1998[^ref-82], and in Germany it ranked ninth in the second half of January 1999, its tenth week on the VUD charts[^ref-93].
+The game was a commercial success. Sierra Studios had shipped 150,000 units within four weeks of release[^ref-99], and in January 1999 GameSpot reported that it "has sold over 400,000 units worldwide"[^ref-100]. In February 1999 Sierra announced worldwide sell-through of "over a quarter of a million"[^ref-38][^ref-101], including just over 93,000 in the United States according to PC Data[^ref-38]. In a 2013 interview, David Lester said that "Caesar II and Caesar III both sold about 2.5 million copies around the world"; that figure is his own recollection[^ref-102]. Sierra's Jim Veevaert stated at the time, "We are very excited about the tremendous sell-through of the game" and noted that "Clearly Caesar III has taken real-time city building and management to new heights and strategy fans around the world are thrilled"[^ref-38]. It reached #10 on PC Data's US weekly chart for October 18–24, 1998[^ref-82], and in Germany it ranked ninth in the second half of January 1999, its tenth week on the VUD charts[^ref-93].
 
 The game's influence extends beyond its immediate commercial success through its active modding community and open-source preservation efforts. Projects like Julius[^ref-32] and Augustus[^ref-31] have created modern reimplementations that enhance the original gameplay while maintaining compatibility with the core experience. These projects demonstrate the game's enduring appeal and have introduced Caesar III to new generations of players on modern platforms. The speedrunning community has also embraced the game, with dedicated leaderboards including an "Any% Hard" category[^ref-87].
 
@@ -150,36 +153,43 @@ New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "I
 
 ## References
 
-[^ref-4]: [Arcade Attack - Simon Bradbury Interview](https://www.arcadeattack.co.uk/simon-bradbury-sierra/) – - Developer insights and personal assessment
-[^ref-8]: [Internet Archive - Caesar III Manual Text](https://archive.org/stream/Caesar_III_Manual/Caesar_III_Manual_djvu.txt) – - Official game design philosophy
-[^ref-9]: [Internet Archive - Caesar III Demo](https://archive.org/details/CaesarIiiDemo) – - Demo version with mechanics overview
-[^ref-12]: [Caesar3 Heaven Games - Walkthroughs](https://caesar3.heavengames.com/strategy/walkthroughs/) – - Campaign structure and level progression
-[^ref-13]: [Caesar3 Heaven Games - Itchy Interview](https://caesar3.heavengames.com/info/itchy-interview/) – - QA Manager development insights
-[^ref-19]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) – - Comprehensive development history and reviews
-[^ref-24]: [GameFAQs - Caesar III User Review](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/reviews/15325) – - Individual player perspective with scores
-[^ref-26]: [GamePressure - Caesar III Patch](https://www.gamepressure.com/download/caesar-iii-1010-patch/z012ece) – - Technical update details
-[^ref-27]: [Game Revolution - Caesar 3](https://www.gamerevolution.com/game/caesar-3) – - Game information and mechanics description
-[^ref-30]: [GameSpot - Caesar III Review](https://www.gamespot.com/reviews/caesar-iii-review/1900-2538280/) – - Professional review and gameplay analysis
-[^ref-31]: [GitHub - Augustus Project](https://github.com/Keriew/augustus) – - Open-source enhancement project
-[^ref-32]: [GitHub - Julius Wiki Patches](https://github.com/bvschaik/julius/wiki/Patches) – - Technical documentation for engine recreation
-[^ref-33]: [GOG - Caesar 3](https://www.gog.com/en/game/caesar_3) – - Store description; user rating 4.5/5 from 436 reviews (checked October 2026)
-[^ref-37]: [IGN - Caesar III Review](https://www.ign.com/articles/1998/10/09/caesar-iii) – - Contemporary review with numerical score
-[^ref-38]: [IGN - Gamers Hail Caesar](https://www.ign.com/articles/1999/02/05/gamers-hail-caesar) – - Sales figures and Macintosh port announcement
-[^ref-41]: [Interactive.org - D.I.C.E. Awards 1999](https://www.interactive.org/awards/award_category_details.asp?idAward=1999&idGameAwardType=34) – - Official award nomination documentation
-[^ref-45]: [MobyGames - Caesar III Full Entry](https://www.mobygames.com/game/1567/caesar-iii/) – - Game description; critic average 83% (42 ratings), Moby Score 8.0 (checked October 2026)
-[^ref-48]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/1567/caesar-iii/credits/windows/) – - Development team information
-[^ref-74]: [Steemit - Caesar 3 Review](https://steemit.com/gaming/@stefanonsense/caesar-3-review-or-classic-city-builder-game) – - Informal blog review; source of the "tremendous assholes" quote about the gods
-[^ref-78]: [Stronghold Heaven Games - Robert Euvino Interview](https://stronghold.heavengames.com/fair/interviews/robeuvino/) – - Composer interview discussing Caesar III music work
-[^ref-81]: [TV Tropes - Caesar Video Game](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar) – - Series overview with gameplay mechanics and historical context
-[^ref-82]: [Web Archive - IGN PC News 5568](https://web.archive.org/web/20000311011645/http://pc.ign.com/news/5568.html) – - PC Data weekly chart, October 18–24, 1998: Caesar III at #10
-[^ref-83]: [Web Archive - IGN PC News 6743](https://web.archive.org/web/20000817192549/http://pc.ign.com/news/6743.html) – - February 1999: 250,000 sell-through; just over 93,000 US per PC Data
-[^ref-85]: [Steam - Caesar 3](https://store.steampowered.com/app/517790/Caesar_3/) – - Store description and tagline; "Very Positive", 93% of 1,238 user reviews (checked October 2026)
-[^ref-86]: [Teoalida - Caesar 3](https://www.teoalida.com/games/caesar3/) – - Long-time player's guide: population limits, "Many people consider it the BEST city-building game"
-[^ref-87]: [Speedrun.com - Caesar III](https://www.speedrun.com/caesar_iii) – - Speedrun leaderboards (Any% Hard)
-[^ref-88]: [Metacritic - Caesar III User Reviews](https://www.metacritic.com/game/caesar-iii/user-reviews/) – - User reviews, including Kai82 (March 6, 2021)
-[^ref-89]: [PCGamesN - Seabed Settlers](https://www.pcgamesn.com/seabed-settlers/caesar-3-inspired-city-builder) – - "Inspired by the classic Caesar 3, new city builder is like Frostpunk underwater"
-[^ref-90]: [MobyGames - Sierra Entertainment, Inc.](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – - Company history: 1995 purchase of Impressions Games
-[^ref-91]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – - British developer founded by David Lester, sold to Sierra On-Line in 1995
-[^ref-92]: [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html) – - Caesar III Update 1.0.1.0 in US, UK, German, Spanish and French versions
-[^ref-93]: [Web Archive - VUD Charts, second half of January 1999](https://web.archive.org/web/19990209014933/http://www.vud.de/charts/chart1.html) – - German CD-ROM chart: Caesar 3 at #9, 10 weeks on the charts
-[^ref-94]: [MobyGames - Caesar III Patches](https://www.mobygames.com/game/1567/caesar-iii/patches/) – - v1.0.1.0 North American patch 1999-01-08; European 1999-03-16
+[^ref-4]: [Arcade Attack - Simon Bradbury Interview (Wayback, November 13, 2019)](https://web.archive.org/web/20191113070429/https://www.arcadeattack.co.uk/simon-bradbury-sierra/) – Developer insights and personal assessment
+[^ref-8]: [Internet Archive - Caesar III Manual Text](https://archive.org/stream/Caesar_III_Manual/Caesar_III_Manual_djvu.txt) – Official game design philosophy
+[^ref-9]: [Internet Archive - Caesar III Demo](https://archive.org/details/CaesarIiiDemo) – Demo version with mechanics overview
+[^ref-12]: [Caesar3 Heaven Games - Walkthroughs](https://caesar3.heavengames.com/strategy/walkthroughs/) – Campaign structure and level progression
+[^ref-13]: [Caesar3 Heaven Games - Itchy Interview](https://caesar3.heavengames.com/info/itchy-interview/) – QA Manager development insights
+[^ref-19]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) – Comprehensive development history and reviews
+[^ref-24]: [GameFAQs - Caesar III User Review](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/reviews/15325) – Individual player perspective with scores
+[^ref-26]: [GamePressure - Caesar III Patch](https://www.gamepressure.com/download/caesar-iii-1010-patch/z012ece) – Technical update details
+[^ref-27]: [Game Revolution - Caesar 3](https://www.gamerevolution.com/game/caesar-3) – Game information and mechanics description
+[^ref-30]: [GameSpot - Caesar III Review](https://www.gamespot.com/reviews/caesar-iii-review/1900-2538280/) – Professional review and gameplay analysis
+[^ref-31]: [GitHub - Augustus Project](https://github.com/Keriew/augustus) – Open-source enhancement project
+[^ref-32]: [GitHub - Julius Wiki Patches](https://github.com/bvschaik/julius/wiki/Patches) – Technical documentation for engine recreation
+[^ref-33]: [GOG - Caesar 3](https://www.gog.com/en/game/caesar_3) – Store description; user rating 4.5/5 from 438 reviews (checked October 26, 2026)
+[^ref-37]: [IGN - Caesar III Review](https://www.ign.com/articles/1998/10/09/caesar-iii) – Contemporary review with numerical score
+[^ref-38]: [IGN - Gamers Hail Caesar](https://www.ign.com/articles/1999/02/05/gamers-hail-caesar) – February 1999: 250,000 sell-through; just over 93,000 US per PC Data; Mac version due "this June" ([Wayback copy](https://web.archive.org/web/20000817192549/http://pc.ign.com/news/6743.html))
+[^ref-41]: [Interactive.org - D.I.C.E. Awards 1999](https://www.interactive.org/awards/award_category_details.asp?idAward=1999&idGameAwardType=34) – Official award nomination documentation
+[^ref-45]: [MobyGames - Caesar III Full Entry](https://www.mobygames.com/game/1567/caesar-iii/) – Game description; critic average 83% (42 ratings), Moby Score 8.0 (checked October 2026)
+[^ref-48]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/1567/caesar-iii/credits/windows/) – Development team information: 31 people (29 developers, 2 thanks)
+[^ref-74]: [Steemit - Caesar 3 Review](https://steemit.com/gaming/@stefanonsense/caesar-3-review-or-classic-city-builder-game) – Informal blog review; source of the "tremendous assholes" quote about the gods
+[^ref-78]: [Stronghold Heaven Games - Robert Euvino Interview](https://stronghold.heavengames.com/fair/interviews/robeuvino/) – Composer interview discussing Caesar III music work
+[^ref-81]: [TV Tropes - Caesar Video Game](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar) – Series overview with gameplay mechanics and historical context
+[^ref-82]: [Web Archive - IGN PC News 5568](https://web.archive.org/web/20000311011645/http://pc.ign.com/news/5568.html) – PC Data weekly chart, October 18–24, 1998: Caesar III at #10
+[^ref-85]: [Steam - Caesar 3](https://store.steampowered.com/app/517790/Caesar_3/) – Store description and tagline; "Very Positive", 93% of 1,243 English-language user reviews (checked October 26, 2026)
+[^ref-86]: [Teoalida - Caesar 3](https://www.teoalida.com/games/caesar3/) – Long-time player's guide: population limits, "Many people consider it the BEST city-building game"
+[^ref-87]: [Speedrun.com - Caesar III](https://www.speedrun.com/caesar_iii) – Speedrun leaderboards (Any% Hard)
+[^ref-88]: [Metacritic - Caesar III User Reviews](https://www.metacritic.com/game/caesar-iii/user-reviews/) – User reviews, including Kai82 (March 6, 2021)
+[^ref-89]: [PCGamesN - Seabed Settlers](https://www.pcgamesn.com/seabed-settlers/caesar-3-inspired-city-builder) – "Inspired by the classic Caesar 3, new city builder is like Frostpunk underwater"
+[^ref-90]: [MobyGames - Sierra Entertainment, Inc.](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Company history: 1995 purchase of Impressions Games
+[^ref-91]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – British developer founded by David Lester, sold to Sierra On-Line in 1995
+[^ref-92]: [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html) – Caesar III Update 1.0.1.0 in US, UK, German, Spanish and French versions
+[^ref-93]: [Web Archive - VUD Charts, second half of January 1999](https://web.archive.org/web/19990209014933/http://www.vud.de/charts/chart1.html) – German CD-ROM chart: Caesar 3 at #9, 10 weeks on the charts
+[^ref-94]: [MobyGames - Caesar III Patches](https://www.mobygames.com/game/1567/caesar-iii/patches/) – v1.0.1.0 North American patch 1999-01-08; European 1999-03-16
+[^ref-95]: [Hyper #62 (December 1998) - Caesar III review, p. 89 (scan)](https://archive.org/details/hyper-062) – Eliot Fish review, overall 87
+[^ref-96]: [PC PowerPlay #31 (December 1998) - Caesar III review, pp. 102–103 (scan)](https://archive.org/details/PCPowerplay-031-1998-12) – David Wildgoose review, 88%
+[^ref-97]: [Computer and Video Games #206 (January 1999) - Caesar III mini-review, p. 64 (scan)](https://archive.org/details/Computer_and_Video_Games_Issue_206_1999-01_EMAP_Images_GB) – Alex Huhtala, 4 of 5
+[^ref-98]: [Sierra Studios press release, June 3, 1999 (Wayback)](https://web.archive.org/web/20001117064500/http://www.sierrastudios.com/news/990603.shtml) – Macintosh version gone gold; "available at retail outlets nationwide on June 18th"
+[^ref-99]: [Computer Games Strategy Plus - Sierra Makes Assignment Editor Available to Caesar III Fans, November 16, 1998 (Wayback)](https://web.archive.org/web/20050428121606/http://www.cdmag.com/articles/015/120/caesar3_editor.html) – "Sierra Studios has shipped 150,000 units of the game since its release four weeks ago"
+[^ref-100]: [GameSpot - Two Sierra Titles Due, January 13, 1999 (Wayback)](https://web.archive.org/web/20000301233441/http://headline.gamespot.com/news/99_01/13_pc_twosierra/index.html) – "Caesar III title that has sold over 400,000 units worldwide"
+[^ref-101]: [Computer Games Strategy Plus - Caesar III Sales Figures, February 1999 (Wayback)](https://web.archive.org/web/20050209160855/http://www.cdmag.com/articles/017/135/caesar3_sales.html) – worldwide sell-through "over a quarter of a million to date"
+[^ref-102]: [Companies Made Simple - Real Business Case Study: David Lester (2013, Wayback)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – Lester interview: Caesar II and III "both sold about 2.5 million copies"
