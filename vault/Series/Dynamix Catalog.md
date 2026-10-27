@@ -159,7 +159,7 @@ The later Krondor games were made by other teams: *Betrayal in Antara* (Sierra O
 
 ## Pre-Sierra Catalog (1984–1989)
 
-Before 1989 Dynamix's games were published by other companies, among them Penguin Software, Electronic Arts, Activision, Gamestar and Accolade.[^ref-1][^ref-27] Arcticfox came from its first contract, with Electronic Arts.[^ref-2]
+Before 1989 Dynamix's games were published by other companies, among them Penguin Software, Electronic Arts, Activision, Gamestar and Accolade.[^ref-1][^ref-27] MobyGames says Arcticfox came from the company's first contract, with Electronic Arts.[^ref-2]
 
 | Year | Title | Publisher |
 |------|-------|-----------|

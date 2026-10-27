@@ -5,11 +5,11 @@ birth_year: 1962
 death_year: null
 notable_games: ["Red Baron", "Stellar 7", "Arcticfox", "Aces of the Pacific"]
 companies: ["Dynamix", "Mad Otter Games"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Damon Slye
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -76,7 +76,7 @@ Computer Gaming World credited Red Baron with beginning "a dynasty in combat sim
 ### Before Dynamix and Dynamix Years (1983–1994)
 
 - 1983 — Stellar 7 (Apple II; published by Software Entertainment Company, 1984 by Penguin Software) — Designer, Programmer[^ref-2][^ref-12]
-- **1984** — Sword of Kadash — Role: Additional Room Designer (uncredited, per the Dynamix fan wiki)[^ref-7]
+- **1985** — Sword of Kadash — Role: Additional Room Designer (uncredited, per the Dynamix fan wiki)[^ref-7]; released 1985 for Apple II and Commodore 64[^ref-4][^ref-24]
 - **1986** — Arcticfox — Role: Designer, Programmer
 - **1987** — Skyfox II: The Cygnus Conflict — Role: Creator
 - **1989** — Project Firestart — Role: Design
@@ -124,3 +124,4 @@ Computer Gaming World credited Red Baron with beginning "a dynasty in combat sim
 [^ref-21]: [Mad Otter Games - Damon Slye (Wayback, September 2008)](https://web.archive.org/web/20080907033139/http://www.madottergames.com/about/damon-slye/) — "After a twelve year hiatus from game development, I've returned."
 [^ref-22]: [MobyGames - Red Baron (DOS) credits (Wayback, November 2024)](https://web.archive.org/web/20241130134350/https://www.mobygames.com/game/1766/red-baron/credits/dos/?autoplatform=true) — "Directed and Designed by Damon Slye"; "Lead Programmer Paul Bowman"; "Flight model programmed by Damon Slye"
 [^ref-23]: [Villagers & Heroes - Wikipedia](https://en.wikipedia.org/wiki/Villagers_%26_Heroes) — released October 27, 2011; developer and publisher Mad Otter Games; director Damon Slye
+[^ref-24]: [MobyGames – Sword of Kadash](https://www.mobygames.com/game/70210/sword-of-kadash/) — read via the MobyGames API: Apple II 1985, Commodore 64 1985; Atari ST and Macintosh 1986

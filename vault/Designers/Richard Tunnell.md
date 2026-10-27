@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine 2", "3-D Ultra Pinball", "3-D Ultra Radio Control Racers"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "GarageGames", "Zynga"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Richard Tunnell
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -21,7 +21,7 @@ He later worked on browser and social games: he was a level designer on GarageGa
 
 ### Dynamix and Jeff Tunnell Productions (1992–2001)
 
-Dynamix was founded in Eugene in 1984 by Jeff Tunnell and Damon Slye; in 1990 Jeff Tunnell left to start Jeff Tunnell Productions, which made The Incredible Machine games for Sierra.[^ref-7][^ref-4] Richard Tunnell's first credit was as an artist on [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), followed by production art on [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993).[^ref-3]
+Dynamix was founded in Eugene in 1984 by Jeff Tunnell and Damon Slye.[^ref-7] After finishing The Adventures of Willy Beamish (1991), Jeff Tunnell left to start Jeff Tunnell Productions in early 1992; the new company made The Incredible Machine games for Sierra.[^ref-15][^ref-16][^ref-4] Richard Tunnell's first credit was as an artist on [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), followed by production art on [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993).[^ref-3]
 
 On the Incredible Machine games he was one of the "Puzzlomaniacs" and wrote the manual for The Incredible Machine (1993), [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] (1993) and [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993).[^ref-3] On [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994) MobyGames lists him among the designers, artists and testers.[^ref-3][^ref-4] The game's staff list, as transcribed on the Dynamix Wiki, also names him "Puzzle Director."[^ref-14] On [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994) he shares the Windows & Macintosh Enhanced Design credit and is credited as an artist and manual writer.[^ref-3]
 
@@ -90,10 +90,12 @@ Roles follow MobyGames.[^ref-3][^ref-2]
 [^ref-4]: [MobyGames - The Incredible Machine 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) — Game ID 1605 (verified via the MobyGames API); developers Jeff Tunnell Productions and Dynamix
 [^ref-5]: [Wikipedia - GarageGames](https://en.wikipedia.org/wiki/GarageGames) — Founded in Eugene in 2000 by Jeff Tunnell, Tim Gift, Rick Overman and Mark Frohnmayer
 [^ref-6]: [LinkedIn - Richard Tunnell](https://www.linkedin.com/in/richard-tunnell-aa86b714/) — Public profile: Zynga; projects Social City, ESPN Return Man, Disney City Girl
-[^ref-7]: [Wikipedia - Jeff Tunnell](https://en.wikipedia.org/wiki/Jeff_Tunnell) — Founded Dynamix with Damon Slye in Eugene in 1984; left in 1990 to start Jeff Tunnell Productions
+[^ref-7]: [Wikipedia - Jeff Tunnell](https://en.wikipedia.org/wiki/Jeff_Tunnell) — Founded Dynamix with Damon Slye in Eugene in 1984
 [^ref-8]: [Wikipedia - InstantAction](https://en.wikipedia.org/wiki/InstantAction) — Created by GarageGames after its 2007 acquisition by IAC
 [^ref-9]: [GameSpot - InstantAction out of action](https://www.gamespot.com/articles/instantaction-out-of-action/1100-6283937/) — November 11, 2010: the company formerly known as GarageGames shuts down InstantAction.com
 [^ref-11]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — Defunct August 14, 2001
 [^ref-12]: [GDC Online Awards Archive (Wayback)](https://web.archive.org/web/20190513070919/http://gdconlineawards.com/archive/gdcoa_1st.html) — Best Social Network Game 2010: "Social City (Playdom)"
 [^ref-13]: [MobyGames - PlayLegions](https://www.mobygames.com/game/41574/playlegions/) — Browser game, 2009 (ID 41574; API: developed and published by GarageGames, released July 7, 2009)
 [^ref-14]: [Dynamix Wiki - The Incredible Machine 2](https://dynamix.fandom.com/wiki/The_Incredible_Machine_2) — Staff list: "Puzzle Director: Richard Tunnell"
+[^ref-15]: [MobyGames – Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) — "Jeff Tunnell had left the company after finishing The Adventures of Willy Beamish (1991), to start his own company Jeff Tunnell Productions"
+[^ref-16]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) — Jimmy Maher: Tunnell founded Jeff Tunnell Productions in early 1992
