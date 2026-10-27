@@ -114,7 +114,8 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 **Development Credits:**[^ref-9]
 - **Lead Design:** [[Roberta Williams]]
 - **Writing:** Roberta Williams, [[Andy Hoyos]]
-- **Director:** Peter Maris[^ref-1][^ref-9]
+- **Director:** Peter Maris, who directed the live-action filming[^ref-1][^ref-4][^ref-33]
+- **Game Directors:** J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams (MobyGames)[^ref-33]
 - **Producers:** J. Mark Hood, Stanley Liu, [[Mark Seibert]], Roberta Williams (MobyGames; Wikipedia lists Seibert, Hood and Williams)[^ref-1][^ref-9]
 - **Art Directors:** Albert Co, Andy Hoyos
 - **Lead Programming:** [[Doug Oldfield]]
@@ -308,3 +309,4 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-30]: [Internet Archive – Phantasmagoria Manual](https://archive.org/details/Phantasmagoria_-_Manual) – original game manual; "one of the most sophisticated software packages ever produced", password protection, system requirements
 [^ref-31]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – filed July 1, 1996; Item 1: "More than 600,000 copies of this product have been sold"
 [^ref-32]: [Adventure Classic Gaming – Interview with Roberta Williams (Philip Jong, July 16, 2006; Wayback)](https://web.archive.org/web/20130310053850/http://www.adventureclassicgaming.com/index.php/site/interviews/198/) – "It sold more than a million copies in less than a year, which, in those days, was phenomenal"
+[^ref-33]: [MobyGames – Roberta Williams' Phantasmagoria credits, DOS (Wayback, January 2023)](http://web.archive.org/web/20230128225755/https://www.mobygames.com/game/dos/roberta-williams-phantasmagoria/credits) – "Director Peter Maris"; "Game Directors J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams"; Maris also credited for video editing and casting

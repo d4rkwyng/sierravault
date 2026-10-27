@@ -2,7 +2,8 @@
 title: Colossal Cave 3D Adventure
 release_year: 2023
 developer: Cygnus Entertainment
-designer: [Roberta Williams]
+designer: []
+creative_director: [Roberta Williams]
 publisher: Cygnus Entertainment
 genre: Adventure
 platforms: [Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox
@@ -34,7 +35,7 @@ Colossal Cave was released on January 19, 2023 for PC, Mac, Linux, Steam Deck, P
 
 > [!info]- Game Info
 > **Developer:** Cygnus Entertainment[^ref-6][^ref-20]
-> **Designer:** [[Roberta Williams]] (creative director)[^ref-6][^ref-15]
+> **Creative Director:** [[Roberta Williams]] (also credited as Producer and Voice Actor)[^ref-15][^ref-24]
 > **Publisher:** Cygnus Entertainment[^ref-6][^ref-20]
 > **Engine:** Unity[^ref-3][^ref-6]
 > **Platforms:** Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS[^ref-6]
@@ -289,3 +290,4 @@ This fidelity to the source material was intentional. In 2022, Ars Technica repo
 [^ref-21]: [MobyGames – Colossal Cave VR (2023)](https://www.mobygames.com/game/214139/) – separate PC VR edition
 [^ref-22]: [Colossal Cave 3D blog – Showtime! (Wayback, June 2022)](https://web.archive.org/web/20220629103356/https://www.colossalcave3d.com/2022/03/06/showtime/) – Ken Williams, March 6, 2022: "We now have 15 people working on the game!"
 [^ref-23]: [MobyGames – Ken Williams credits (Wayback, May 2024)](https://web.archive.org/web/20240505105836/https://www.mobygames.com/person/59/ken-williams/credits/) – Colossal Cave (2023, Windows): "Lead Engineers" and "Executive Producer"
+[^ref-24]: [MobyGames – Roberta Williams credits (Wayback, June 2023)](https://web.archive.org/web/20230618023150/https://www.mobygames.com/person/60/roberta-williams/credits/) – Colossal Cave (Windows, 2023): "Creative Director", "Produced by", "Voice Actor: Greeter Elfs"

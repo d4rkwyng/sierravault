@@ -88,7 +88,7 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - **1989** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: Composer
 - **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle's Official Book of Games: Volume 1]] — Role: Music Director (self-reported)
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Composer
-- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (VGA)]] — Role: Music Director (self-reported)
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI)]] — Role: Music Director (self-reported)
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Composer (with Ken Allen)
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Composer
 - **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Firehawk: Thexder The Second Contact]] — Role: Music Director (self-reported)
