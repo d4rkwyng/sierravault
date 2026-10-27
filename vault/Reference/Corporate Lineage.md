@@ -98,15 +98,15 @@ The current state of major Sierra-lineage IPs (October 2026):
 | IP | Current rights holder | Status |
 |----|-----------------------|--------|
 | King's Quest | Microsoft (via Activision Blizzard) | Last release: *King's Quest* (2015), published by Activision under the Sierra brand[^ref-52] |
-| Space Quest | Microsoft (via Activision Blizzard) | Dormant; the creators' spiritual successor *[[2022 - SpaceVenture|SpaceVenture]]* was fully released December 23, 2025[^ref-44] |
-| Quest for Glory | Microsoft (via Activision Blizzard) | Dormant; the Coles' *[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]* released July 10, 2018[^ref-45] |
+| Space Quest | Microsoft (via Activision Blizzard) | Dormant; the creators' spiritual successor *[[2022 - SpaceVenture\|SpaceVenture]]* was fully released December 23, 2025[^ref-44] |
+| Quest for Glory | Microsoft (via Activision Blizzard) | Dormant; the Coles' *[[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]]* released July 10, 2018[^ref-45] |
 | Police Quest | Microsoft (via Activision Blizzard) | Dormant; *SWAT: Urban Justice* discontinued in 2004 in favour of *SWAT 4* (2005)[^ref-46][^ref-47] |
-| Leisure Suit Larry | Codemasters (bought the IP in February 2009;[^ref-1] owned by Electronic Arts since 2021[^ref-63]) | Assemble Entertainment published *[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]]* (2018) and *[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]]* (2020);[^ref-43] both were removed from Steam and GOG on October 23, 2026[^ref-63] |
-| Gabriel Knight | Microsoft (Jane Jensen, 2024: "the licenses are with Microsoft")[^ref-42] | Dormant; Jensen's *[[TBD - Gabriel Knight 4 - Five Hearts|Five Hearts]]* short story released November 2024[^ref-55] |
-| Laura Bow | Microsoft (via Activision Blizzard) | Dormant since *[[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]]* (1992)[^ref-48] |
+| Leisure Suit Larry | Codemasters (bought the IP in February 2009;[^ref-1] owned by Electronic Arts since 2021[^ref-63]) | Assemble Entertainment published *[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]]* (2018) and *[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Wet Dreams Dry Twice]]* (2020);[^ref-43] both were removed from Steam and GOG on October 23, 2026[^ref-63] |
+| Gabriel Knight | Microsoft (Jane Jensen, 2024: "the licenses are with Microsoft")[^ref-42] | Dormant; Jensen's *[[TBD - Gabriel Knight 4 - Five Hearts\|Five Hearts]]* short story released November 2024[^ref-55] |
+| Laura Bow | Microsoft (via Activision Blizzard) | Dormant since *[[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]]* (1992)[^ref-48] |
 | Phantasmagoria | Microsoft (via Activision Blizzard) | Dormant |
 | Homeworld | Take-Two (bought Gearbox from Embracer; closed June 2024)[^ref-54] | *Homeworld 3* released May 13, 2024[^ref-50] |
-| Caesar / Pharaoh / Zeus | Microsoft (via Activision Blizzard) | Dotemu licensed *Pharaoh* from Activision for *[[2023 - Pharaoh - A New Era|Pharaoh: A New Era]]* (2023)[^ref-49] |
+| Caesar / Pharaoh / Zeus | Microsoft (via Activision Blizzard) | Dotemu licensed *Pharaoh* from Activision for *[[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]]* (2023)[^ref-49] |
 | Half-Life | Valve | Valve developed it; Sierra Studios published the original[^ref-53] |
 
 ## Cross-references
