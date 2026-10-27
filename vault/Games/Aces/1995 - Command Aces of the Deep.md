@@ -10,7 +10,7 @@ series: Aces
 engine: Unconfirmed
 protagonist: German U-boat Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: Command Aces of the Deep is an enhanced Windows version of Dynamix's
   acclaimed World War II submarine simulation, originally released as "Aces of the
   Deep"...
@@ -18,13 +18,13 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Command Aces of the Deep is an enhanced Windows version of Dynamix's acclaimed World War II submarine simulation, originally released as "Aces of the Deep" in 1994[^ref-1]. The game places players at the command of a German U-boat during World War II, tasking them with hunting down and destroying Allied convoys in "a deadly game of cat & mouse under the cold, unforgiving waves of the North Atlantic"[^ref-2]. Unlike previous entries in Dynamix's "Aces" series, which were flight simulators, this title simulates the Kriegsmarine U-boat service during the Second World War[^ref-6].
+Command Aces of the Deep is an enhanced Windows version of Dynamix's acclaimed World War II submarine simulation, originally released as "Aces of the Deep" in 1994[^ref-1]. The game places players at the command of a German U-boat during World War II, tasking them with hunting down and destroying Allied convoys in what one Amazon customer review calls "a deadly game of cat & mouse under the cold, unforgiving waves of the North Atlantic"[^ref-2]. Unlike previous entries in Dynamix's "Aces" series, which were flight simulators, this title simulates the Kriegsmarine U-boat service during the Second World War[^ref-6].
 
-The enhanced "Command" version, released for Windows 95 in 1995, added new textures, a higher SVGA resolution, English and German voice acting, manual control of the deck gun and voice-recognition commands, and folded in the Mediterranean missions from the DOS Expansion Disk[^ref-7]. Computer Gaming World's Kevin Turner gave it a perfect five stars in November 1995, praising its SVGA graphics, voice command recognition and music[^ref-22].
+The enhanced "Command" version, released for Windows 95 in 1995, added new textures, a higher SVGA resolution, English and German voice acting, manual control of the deck gun and voice-recognition commands, and folded in the Mediterranean missions from the DOS Expansion Disk[^ref-7]. Computer Gaming World's Kevin Turner gave it a perfect five stars in November 1995[^ref-22]; his review praised the voice commands, the added English and German sounds and the improved graphics, while noting there were no new missions[^ref-34].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]
@@ -59,7 +59,7 @@ Specific missions aren't required because the game engine "rolls up" convoys and
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around the tactical challenges of submarine warfare, where "He who is found first, dies first"[^ref-10]. Players must balance aggressive hunting with survival, managing limited resources while avoiding increasingly sophisticated Allied defenses. The game includes historically accurate details such as realistic torpedo failure rates and authentic Allied convoy strategies[^ref-7].
+The core gameplay revolves around the tactical challenges of submarine warfare, where "He who is found first, dies first"[^ref-10]. Players must balance aggressive hunting with survival, managing limited resources while avoiding increasingly sophisticated Allied defenses. A MobyGames player review highlights historically accurate details such as realistic torpedo failure rates and authentic Allied convoy strategies[^ref-7].
 
 The simulation demands players "confront most of the same operational dilemmas real WW2 submariners faced," though it doesn't require manual data entry into torpedo data computers or extensive chart work[^ref-20]. Single missions let players set variables such as the number of ships and weather conditions[^ref-21].
 
@@ -70,16 +70,16 @@ The simulation demands players "confront most of the same operational dilemmas r
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World | 5/5 | Kevin Turner, November 1995 (issue #136)[^ref-22] |
-| Génération 4 | 74% | October 1995 review[^ref-22] |
-| Subsim | 83% | March 1996 review[^ref-22] |
+| Génération 4 | 74% | October 1995 review (issue #81)[^ref-22][^ref-35] |
+| Subsim | 83/100 | March 1996 review as updated October 1999[^ref-18] |
 
-Génération 4 commended the upgrades but found the software recognized only half of its spoken English orders[^ref-22]. Subsim's reviewer likewise "couldn't get it to work reliably," while still calling the game "the best of all U-boat sims"[^ref-18].
+Génération 4 noted the improved SVGA graphics but questioned whether Windows 95 alone justified reissuing an already-aging game, and found that the English version tested recognized only half of the spoken orders[^ref-35][^ref-22]. Subsim's reviewer likewise "couldn't get it to work reliably," while still calling the game "the best of all U-boat sims"[^ref-18].
 
 The original 1994 DOS release, [[1994 - Aces of the Deep|Aces of the Deep]], earned its own separate accolades, including a place at #71 in Computer Gaming World's November 1996 "150 Best Games of All Time" list; those honors belong to that earlier game rather than to this Windows edition[^ref-6].
 
 ### Modern Assessment
 
-Modern retrospective reviews continue to praise the game's lasting impact on the submarine simulation genre. SUBSIM Review noted that "it is one of the few sims whose rating hasn't slipped as newer and better sims have been created," maintaining its 83/100 score years after release[^ref-18]. The game is frequently described as "still considered by many to be the best subsim to date" despite its aging graphics[^ref-13].
+Modern retrospective reviews continue to praise the game's lasting impact on the submarine simulation genre. SUBSIM Review noted that "it is one of the few sims whose rating hasn't slipped as newer and better sims have been created," maintaining its 83/100 score years after release[^ref-18]. Classic Reload, writing of the original DOS game, calls it "still considered by many to be the best subsim to date" despite its aging graphics[^ref-13].
 
 Old-Games.com's review concludes that Command Aces of the Deep "stands tall as an example of a submarine sim done right. Definitely the best U-Boat sim ever made"[^ref-1].
 
@@ -87,11 +87,11 @@ Old-Games.com's review concludes that Command Aces of the Deep "stands tall as a
 
 ### Origins
 
-Command Aces of the Deep was developed by Dynamix, a company bought by Sierra On-Line in 1990[^ref-31]. The game represented a departure from Dynamix's previous "Aces" series, which had focused on flight simulation, marking their entry into naval warfare simulation[^ref-23]. Its design is credited to Langdon Beeck, Mike Jones, Dennis A. Kilgore and Alan Roberts[^ref-7].
+Command Aces of the Deep was developed by Dynamix, a company bought by Sierra On-Line in 1990[^ref-31]. The game represented a departure from Dynamix's previous "Aces" series, which had focused on flight simulation, marking their entry into naval warfare simulation[^ref-6]. Its design is credited to Langdon Beeck, Mike Jones, Dennis A. Kilgore and Alan Roberts[^ref-7].
 
 ### Production
 
-The game was created with extensive attention to historical research and documentation; its on-line manual features interviews with former German U-boat commanders, among them Erich Topp, Otto Kretschmer and Reinhard Hardegen[^ref-22]. Video interviews with German submariners were among the additions in this CD-ROM edition[^ref-22][^ref-6].
+The game was created with extensive attention to historical research and documentation; its on-line manual features interviews with former German U-boat commanders, among them Erich Topp, Otto Kretschmer and Reinhard Hardegen[^ref-22]. Video interviews with former U-boat commanders and crew were not new to this edition: they had already appeared on the earlier Aces of the Deep CD-ROM release and were carried over[^ref-33][^ref-6].
 
 MobyGames credits 69 people on the Windows version, with music by Jan Paul Moorhead[^ref-7][^ref-22]. The new textures, higher SVGA resolution and voice recognition system distinguished it from the original DOS release[^ref-7].
 
@@ -101,7 +101,7 @@ Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS ori
 
 ### Technical Achievements
 
-Command Aces of the Deep runs on Windows 95/98 only, from CD-ROM, and requires a 486 processor (Pentium recommended) and 16MB of RAM[^ref-18]. The platform record is contradictory: the Command manual gives install steps for both Windows 95 and Windows 3.1 (installing Microsoft Win32s and WinG under 3.1, with speech recognition limited to Windows 95)[^ref-33], and the box listed Windows 3.1, but a printed insert from Sierra said the game would only run on Windows 95[^ref-7].
+Computer Gaming World's 1995 review listed the requirements as a 486-33 (486-66 recommended, Pentium recommended for voice recognition), 8 MB of RAM (12 MB recommended), 256-color SVGA, Windows 95, CD-ROM and a Sound Blaster-compatible card, and said the game "works only with that updated operating system"[^ref-34]. Subsim's 1999 update lists Windows 95/98, a 486 (Pentium recommended) and 16MB of RAM[^ref-18]. The Command manual gives install steps for both Windows 95 and Windows 3.1 (installing Microsoft Win32s and WinG under 3.1, with speech recognition limited to Windows 95)[^ref-33], and the box listed Windows 3.1, but a printed insert from Sierra said the game would only run on Windows 95[^ref-7].
 
 The voice recognition feature was meant to launch a series of "Command" games from Sierra/Dynamix using voice as a control type, but the idea was scrapped due to lackluster sales[^ref-7]. Subsim found the game's sounds prone to cutting out and sometimes lapsing entirely[^ref-18]; the original DOS Aces of the Deep is known for an incompatibility with Sound Blaster Live cards[^ref-29]. The on-line manual covers U-boat history and features historical maps, movies, photos and articles[^ref-6].
 
@@ -137,14 +137,15 @@ Command Aces of the Deep remains a reference point for the submarine simulation 
 [^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/Aces-of-the-Deep) – Allied ships and coordination improving as the game progresses
 [^ref-13]: [Classic Reload](https://classicreload.com/aces-of-the-deep.html) – "Highly randomized and replayable" Career Mode
 [^ref-14]: [Sierra Gamers](https://www.sierragamers.com/aces-of-the-deep/) – Time slots and "rolls up" mission generation
-[^ref-18]: [SUBSIM Review](https://www.subsim.com/ssr/commandaces.html) – Requirements (Win95/98, 486, 16MB), 83 rating, Type XXI, voice recognition, sound cut-outs
+[^ref-18]: [SUBSIM Review](https://www.subsim.com/ssr/commandaces.html) – Requirements (Win95/98, 486, 16MB), 83 rating (originally reviewed March 1996, updated October 1999), Type XXI, voice recognition, sound cut-outs
 [^ref-19]: [Dynamix Fandom Wiki - Expansion Disk](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – Expansion Disk content (missions, Mediterranean, Type XXI)
 [^ref-20]: [Tally Ho Corner](https://tallyhocorner.com/2024/11/review-reprise-aces-of-the-deep/) – Operational challenges simulation approach
 [^ref-21]: [Play Classic Games](https://playclassic.games/games/simulation-dos-games-online/play-aces-of-the-deep-online/) – Single-mission variables including weather
 [^ref-22]: [Dynamix Fandom Wiki - Command: Aces of the Deep](https://dynamix.fandom.com/wiki/Command:_Aces_of_the_Deep) – CGW, Génération 4 and Subsim reviews; credits (music, designers, interviewees)
-[^ref-23]: [HandWiki](https://handwiki.org/wiki/Software:Aces_of_the_Deep) – Series transition from flight to submarine simulation
 [^ref-25]: [Old-Games.com - Aces of the Deep](https://www.old-games.com/download/4140/aces-of-the-deep) – Submarine rooms, ten realism options, reputation
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – DOS Aces of the Deep incompatibility with Sound Blaster Live
 [^ref-31]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Sierra On-Line bought Dynamix in 1990
 [^ref-32]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Aces of the Deep", its Expansion Disk and "Command: Aces of the Deep" among games with an unknown or unnamed engine
 [^ref-33]: [Command: Aces of the Deep Manual (Internet Archive)](https://archive.org/stream/Command_Aces_Of_The_Deep_-_Manual/Command_Aces_Of_The_Deep_-_Manual_djvu.txt) – Install steps for Windows 95 and Windows 3.1 (Win32s/WinG); speech recognition Windows 95 only
+[^ref-34]: [Computer Gaming World #136, November 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_136) – Kevin Turner, "A Sub With Windows", p. 372: system requirements, Windows 95 only, voice commands, pros and cons
+[^ref-35]: [Génération 4 #81, October 1995 (Internet Archive)](https://archive.org/details/generation4-magazine-081) – Command: Aces of the Deep capsule review, p. 155: improved SVGA graphics, reissue questioned, half of spoken English orders recognized
