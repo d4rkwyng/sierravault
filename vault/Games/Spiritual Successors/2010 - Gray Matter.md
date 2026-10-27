@@ -10,29 +10,29 @@ series: Gray Matter
 engine: null
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Gray Matter is a supernatural point-and-click adventure game created
-  by legendary designer Jane Jensen, marking her return to adventure gaming after
-  more...
+  by designer Jane Jensen, her first adventure game in over a decade after Gabriel
+  Knight 3.
 tags: [2010s, adventure, jane-jensen, sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Gray Matter is a supernatural point-and-click adventure game created by designer Jane Jensen, her first adventure game in over a decade after Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)[^ref-1]. The game follows American street magician Samantha Everett, who takes refuge at the English manor of neurobiologist Dr. David Styles after her motorbike breaks down in a storm[^ref-2]. Gray Matter "tackles questions concerning the nature of reality and the power of the human mind in constructing the world we take for granted"[^ref-3].
 
-The game's road to release was long. Adventure Gamers described Jensen's effort to get it made as "an odyssey that has taken seven years, two major publishers, two different developers, and numerous release delays"[^ref-1]. First announced at E3 2003 as "Project Jane-J" through The Adventure Company, it was put on hold, revived by dtp entertainment's ANACONDA label in 2006, and moved from Hungarian developer Tonuzaba to French studio Wizarbox in 2008[^ref-21][^ref-4][^ref-36]. It was released in Germany on 12 November 2010 and in North America and Europe in February 2011[^ref-6]. Adventure Gamers praised Jensen's trademark storytelling but said that "an overall lack of polish keeps it from meeting the massive expectations of an instant classic"[^ref-1].
+The game's road to release was long. Adventure Gamers described Jensen's effort to get it made as "an odyssey that has taken seven years, two major publishers, two different developers, and numerous release delays"[^ref-1]. First announced at E3 2003 as "Project Jane-J" through The Adventure Company, it was officially "put on hold" in May 2004, revived by dtp entertainment's ANACONDA label in 2006, with Jensen slated to unveil it at the Games Convention in Leipzig that August, and moved from Hungarian developer Tonuzaba to French studio Wizarbox in 2008[^ref-21][^ref-47][^ref-4][^ref-36]. It was released in Germany on 12 November 2010 and in North America and Europe in February 2011[^ref-6]. Adventure Gamers praised Jensen's trademark storytelling but said that "an overall lack of polish keeps it from meeting the massive expectations of an instant classic"[^ref-1].
 
-Adventure Classic Gaming called it "a game that can easily measure up against the best of what the genre can offer"[^ref-44], while The A.V. Club praised it as "the best traditional adventure game in a decade"[^ref-6]. Metacritic aggregated the PC version to a score of 72/100 based on 27 critic reviews[^ref-7].
+Adventure Classic Gaming called it "a game that can easily measure up against the best of what the genre can offer"[^ref-44], while The A.V. Club praised it as "the best traditional adventure game in a decade"[^ref-6][^ref-48]. Metacritic aggregated the PC version to a score of 72/100 based on 27 critic reviews[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Wizarbox[^ref-8]
 > **Designer:** [[Jane Jensen]][^ref-9]
 > **Publisher:** dtp entertainment; Viva Media (North America)[^ref-3]
-> **Engine:** Not documented (Direct3D 9.0c renderer)[^ref-8]
+> **Engine:** Not documented (Direct3D 9 renderer)[^ref-8]
 > **Platforms:** Microsoft Windows, Xbox 360[^ref-6]
 > **Release Year:** 2010 (Germany); 2011 (North America, Europe)[^ref-6]
 > **Series:** Gray Matter
@@ -103,7 +103,7 @@ According to Jensen, the project "began with a Canadian publisher who approached
 
 ### The Long Road to Release
 
-The game was picked up in 2006 by dtp entertainment's publishing label ANACONDA for a slated late 2007/early 2008 release[^ref-4]. In a January 2007 GameSpot interview, Jensen described it as the start of a new series of adventures that "could go on for many, many episodes"[^ref-9]. Development was initially outsourced to Tonuzaba in Hungary[^ref-21]. In 2008 it was transferred to French studio Wizarbox, delaying release further[^ref-36][^ref-6]. Jensen later said: "with the second publisher we had a development team change which really set the project back"[^ref-15].
+The game was picked up in 2006 by dtp entertainment's publishing label ANACONDA for a slated late 2007/early 2008 release[^ref-4]. Announcing the deal on August 16, 2006, Adventure Gamers reported that the game would be "unveiled by the 'queen of adventure gaming' herself at the Games Convention in Leipzig later this month"[^ref-47]. In a January 2007 GameSpot interview, Jensen described it as the start of a new series of adventures that "could go on for many, many episodes"[^ref-9]. Development was initially outsourced to Tonuzaba in Hungary[^ref-21]. In 2008 it was transferred to French studio Wizarbox, delaying release further[^ref-36][^ref-6]. Jensen later said: "with the second publisher we had a development team change which really set the project back"[^ref-15].
 
 ### Voice Production
 
@@ -137,7 +137,7 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 
 | Specification | Details |
 |---------------|---------|
-| Graphics API | Direct3D 9.0c[^ref-8] |
+| Graphics API | Direct3D 9[^ref-8] |
 | Minimum CPU | 1.8 GHz[^ref-8][^ref-10] |
 | Minimum RAM | 1 GB[^ref-8][^ref-10] |
 | Graphics | DirectX 9.0 compatible, 256 MB VRAM, Shader 2.0[^ref-10] |
@@ -172,7 +172,7 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 
 ## References
 
-[^ref-1]: Adventure Gamers – Gray Matter review by Emily Morganti *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – 3.5/5 review: story, characters, interface, magic tricks, music, development history
+[^ref-1]: [Adventure Gamers – Gray Matter review by Emily Morganti (Archived February 2023)](https://web.archive.org/web/20230206190544/https://adventuregamers.com/articles/view/24) *(December 31, 2010; pre-sale Wayback copy; the live site was sold in 2025 and is now a casino affiliate, so it is not linked)* – 3.5/5 review: story, characters, interface, magic tricks, music, development history
 [^ref-2]: [Choicest Games](https://www.choicestgames.com/2011/05/gray-matter-review.html) – Plot setup, character introduction, and graphics assessment
 [^ref-3]: [GamesIndustry.biz](https://www.gamesindustry.biz/gray-matter-jane-jensen-s-adventure-signed-by-viva-media-for-north-american-release-next-month) – Game theme description and publisher information
 [^ref-4]: [MobyGames Trivia](https://www.mobygames.com/game/49129/gray-matter/trivia/) – Development history details
@@ -202,9 +202,11 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 [^ref-35]: [Adventure Game Hotspot](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a) – Development origins
 [^ref-36]: [IGN](https://www.ign.com/articles/2008/04/02/gray-matter-development-taken-over-by-wizarbox-for-release-in-2009) – Developer change information
 [^ref-37]: [GamesIndustry.biz](https://www.gamesindustry.biz/gray-matter-english-voice-recordings-complete-march-2010-release-now-envisaged) – Voice recording completion and cast information
-[^ref-38]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/gray-matter-original-soundtrack-2010) – Soundtrack composition details
+[^ref-38]: [VGMdb – Gray Matter Original Soundtrack](https://vgmdb.net/album/21120) – "Composer Robert Holmes Performer The Scarlet Furies Lyricist Raleigh Holmes"; "The Scarlet Furies are Raleigh Holmes, Buck Wilcox, Robert Holmes…"
 [^ref-41]: [MobyGames – Releases](https://www.mobygames.com/game/49129/gray-matter/releases/) – International releases, Noviy Disk
 [^ref-42]: [Web Archive](https://web.archive.org/web/20180603122043/https:/www.gog.com/game/gray_matter) – GOG.com archived listing
 [^ref-44]: [Adventure Classic Gaming – Gray Matter review](https://www.adventureclassicgaming.com/index.php/site/reviews/620/) – Philip Jong, 2010 review
 [^ref-45]: [Rock Paper Shotgun – Interview: Jane Jensen's Pinkerton Road Adventure](https://www.rockpapershotgun.com/interview-jane-jensens-pinkerton-road-adventure) – Richard Cobbett, April 23, 2012; Kickstarter vote, Moebius, Gray Matter 2
 [^ref-46]: [Wikipedia – Jane Jensen](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) – Pinkerton Road Studio, Kickstarter, 2014 releases
+[^ref-47]: [Adventure Gamers – Jane Jensen's Gray Matter revived (Archived June 2025)](https://web.archive.org/web/20250604223513/https://adventuregamers.com/news/view/20105) – Jack Allin, August 16, 2006: "Project Jane-J" "put on hold" in May 2004; ANACONDA to publish; unveiling at the Games Convention in Leipzig
+[^ref-48]: [The A.V. Club – Gray Matter review (Archived October 2012)](https://web.archive.org/web/20121011021221/http://www.avclub.com/articles/gray-matter,53074/) – Rowan Kaiser: "it's the best traditional adventure game in a decade"

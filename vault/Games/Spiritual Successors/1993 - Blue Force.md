@@ -33,14 +33,14 @@ Blue Force reunited several former Sierra employees who had joined Tsunami Media
 > **Publisher:** Tsunami Games[^ref-1]
 > **Engine:** TsAGE[^ref-11]
 > **Platforms:** DOS[^ref-1]
-> **Release Year:** 1993
+> **Release Year:** 1993 (June)[^ref-14]
 > **Protagonist:** Jake Ryan
 > **Sierra Lineage:** Spiritual Successor
 > **Series:** None
 
 ## Story Summary
 
-Set in 1995, Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was killed in the line of duty along with Jake's mother[^ref-1][^ref-10]. Sources differ on the year: the police file printed on the box dates the double homicide to June 14, 1983, while Wikipedia gives 1984[^ref-1][^ref-10]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
+Set in 1995, Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was murdered along with Jake's mother[^ref-1][^ref-10]. Sources differ on the year: the police file printed on the box dates the double homicide to June 14, 1983, while Wikipedia gives 1984[^ref-1][^ref-10]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
 
 Jake graduates at the top of his academy class and joins the same department where his father served[^ref-1]. His first days on the job prove eventful, as he makes several arrests connected to a National Guard armory break-in[^ref-1][^ref-4]. Just as Jake begins connecting these crimes to his father's cold case, he's seriously injured in a motorcycle accident while on patrol[^ref-1].
 
@@ -58,7 +58,7 @@ The game features digitized actors for characters, a technique that Hardcore Gam
 
 ### Structure and Progression
 
-Blue Force plays much like the early Police Quest games that established Jim Walls' reputation[^ref-3][^ref-5]. Players navigate Jake through his police duties, performing standard police work that forms the game's backbone: gathering evidence, booking suspects, filing reports, and remembering radio codes to call for backup or report incidents[^ref-3][^ref-4].
+Blue Force plays much like the early Police Quest games that established Jim Walls' reputation[^ref-3][^ref-5]. Players navigate Jake through his police duties, performing standard police work that forms the game's backbone: gathering evidence, booking suspects, and remembering radio codes to report incidents or call for backup[^ref-3].
 
 Unlike the Police Quest series, Jake patrols on a motorcycle rather than in a squad car, though players simply click on a map to travel between locations rather than driving manually[^ref-3][^ref-4]. As Bevilacqua notes: "Other than the Marina which is easy to identify, figuring out where you need to go can be frustrating and unintuitive"[^ref-4]. The game structure follows Jake through his career progression from rookie patrol officer to private investigator, with the overarching murder mystery providing narrative momentum[^ref-4].
 
@@ -80,7 +80,7 @@ Blue Force received mixed to negative reviews upon release. Computer Gaming Worl
 
 PC Format's September 1993 review complained about restrictive progression requiring trial and error and repetitive bureaucracy, concluding that "some good sequences and average graphics" were outweighed by "clicking on the mouse to keep the conversation moving, too many sudden deaths, a storyline that's way too tight, sterile unpopulated settings, characters walking at a snail's pace and no apparent logic in some situations"[^ref-1].
 
-Electronic Games offered a more positive contemporary assessment: Russ Ceccola's review scored it 85%, though the review survives only through archived Tsunami promotional materials[^ref-1].
+Electronic Games offered a more positive contemporary assessment: Russ Ceccola's review scored it 85% overall, though the review survives only through archived Tsunami promotional materials[^ref-1][^ref-25].
 
 In 1996, Computer Gaming World declared Blue Force the 37th-worst computer game ever released, summing it up as "CHiPs with worse writing than the TV series and nearly the same amount of gameplay"[^ref-1][^ref-17]. Hardcore Gaming 101 paraphrased the verdict as writing "on par with the worst episode of the TV show CHiPs"[^ref-3].
 
@@ -88,7 +88,7 @@ In 1996, Computer Gaming World declared Blue Force the 37th-worst computer game 
 |-------------|------|-------|-------|
 | Computer Gaming World | 1993 | Negative | "Simply not as strong as Walls' previous games"[^ref-1] |
 | PC Format | 1993 | Mixed | "Some good sequences" but too many issues[^ref-1] |
-| Electronic Games | — | 85% | Russ Ceccola's review[^ref-1] |
+| Electronic Games | — | 85% | Russ Ceccola's review[^ref-1][^ref-25] |
 | CGW Worst List | 1996 | #37 | Named 37th-worst computer game ever released[^ref-1][^ref-17] |
 
 ### Modern Assessment
@@ -118,7 +118,7 @@ Despite the harsh critical reception, the game shipped 20,000 units in its first
 
 Tsunami Games (also known as Tsunami Media) was founded in 1991 by former Sierra On-Line CFO Edmond Heinbockel and was headquartered in Oakhurst, California—the same small mountain town that housed Sierra's headquarters[^ref-2][^ref-10]. The company attracted numerous former Sierra employees, making it something of a Sierra diaspora. As The Adventurers Guild noted, Heinbockel "got out of Sierra while the going was good"—before the financial troubles that would later plague the company in the late 1990s[^ref-10].
 
-Jim Walls joined Tsunami in 1992 after leaving Sierra following the release of Police Quest III: The Kindred (1991)[^ref-2]. The circumstances of his departure from Sierra have never been officially documented, but Blue Force would be his only game for Tsunami before moving on to other companies[^ref-2][^ref-5].
+Jim Walls joined Tsunami in 1992 after leaving Sierra around the end of Police Quest III: The Kindred (1991)[^ref-2][^ref-23]. Accounts of the timing differ: Wikipedia says he left before the game was completed, "for reasons that have still not been publicly explained," while Walls himself says only that "after PQ3, circumstances developed causing me to decide it was time that I leave"[^ref-5][^ref-23]. Blue Force would be his only game for Tsunami before moving on to other companies[^ref-2].
 
 ### Production
 
@@ -127,11 +127,11 @@ Blue Force was built on the TsAGE (Tsunami Adventure Game Engine), developed by 
 The development team included several notable Sierra alumni[^ref-6]:
 - **[[Ken Allen]]** composed the music score and sound effects, bringing his expertise from Sierra titles like King's Quest V, Space Quest IV, and The Colonel's Bequest[^ref-6][^ref-7][^ref-15]
 - **[[Peter Ledger]]** contributed background renderings, having previously been Art Designer on Conquests of Camelot at Sierra[^ref-6][^ref-21]
-- **Robert Eric Heitman** and **Chris Hoyt** handled game programming[^ref-6]; Heitman was one of Sierra's first employees and co-developed its SCI engine, while Hoyt had programmed King's Quest V, The Colonel's Bequest, and Police Quest 3 at Sierra[^ref-19][^ref-20]
+- **Robert Eric Heitman** and **Chris Hoyt** were among the five credited game programmers, alongside James E. Spellman II, Nancy Churchill, and John Crane[^ref-6]; Heitman was one of Sierra's first employees and co-developed its SCI engine, while Hoyt had programmed King's Quest V, The Colonel's Bequest, and Police Quest 3 at Sierra[^ref-19][^ref-20]
 - **Cheryl Loyd** served as Art Director[^ref-6]
 - **Desie Hartman**, **Kim Walls**, and **Donald C. Soper** handled video capture and clean-up[^ref-6]
 
-The game was released on both floppy disk and CD-ROM[^ref-3]. Despite being a CD release, the CD version contains no voice acting—only an audio interview with Jim Walls as bonus content; Hardcore Gaming 101 describes it as "almost identical to the disk release, other than an audio interview with Walls"[^ref-3].
+Released to the public in June 1993, the game took over a year to program and was designed with the assistance of veteran federal drug enforcement agent Michael Levine[^ref-14]. It was released on both floppy disk and CD-ROM[^ref-3]. Despite being a CD release, the CD version contains no voice acting—only an audio interview with Jim Walls as bonus content; Hardcore Gaming 101 describes it as "almost identical to the disk release, other than an audio interview with Walls"[^ref-3].
 
 ### Technical Achievements
 
@@ -183,7 +183,7 @@ Despite its troubled reception, Blue Force remains historically significant as a
 
 [^ref-1]: [Wikipedia - Blue Force](https://en.wikipedia.org/wiki/Blue_Force) — Release information, plot summary, critical reception, sales figures
 [^ref-2]: [Wikipedia - Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — Designer biography, career history, Precinct crowdfunding
-[^ref-3]: [Hardcore Gaming 101 - Blue Force](http://www.hardcoregaming101.net/blue-force/) — Gameplay analysis, development context, retrospective review
+[^ref-3]: [Hardcore Gaming 101 - Blue Force](http://www.hardcoregaming101.net/blue-force/) — Gameplay analysis, development context, retrospective review (Kurt Kalata, December 1, 2008). [Archived copy (Wayback, February 2024)](https://web.archive.org/web/20240225012035/http://www.hardcoregaming101.net/blue-force/)
 [^ref-4]: [Alex Bevilacqua - Blue Force Review](https://alexbevi.com/blog/2022/03/31/blue-force/) — 2022 retrospective playthrough with scoring breakdown
 [^ref-5]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — Police Quest series history and Jim Walls' involvement
 [^ref-6]: [MobyGames - Blue Force Credits](https://www.mobygames.com/game/1478/blue-force/credits/) — Complete development credits (34 people)
@@ -194,7 +194,7 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-11]: [ScummVM Wiki - TsAGE](https://wiki.scummvm.org/index.php?title=TsAGE) — TsAGE engine documentation and compatibility
 [^ref-12]: [The Adventurers Guild - Blue Force Final Rating](https://advgamer.blogspot.com/2023/06/blue-force-final-rating.html) — PISSED rating breakdown and detailed critique
 [^ref-13]: [Reddit r/patientgamers - Blue Force Discussion](https://www.reddit.com/r/patientgamers/comments/13aljee/blue_force_1993_took_me_back_to_my_youth/) — Modern player perspectives and nostalgia
-[^ref-14]: [The Fresno Bee - "Game pulls player into action" (October 18, 1993)](https://www.newspapers.com/article/the-fresno-bee/163960315/) — Sales figures: 20,000 units in first month
+[^ref-14]: [The Fresno Bee - "Game pulls player into action" (October 18, 1993)](https://www.newspapers.com/article/the-fresno-bee/163960315/) — Sales figures: 20,000 units in first month; "Released to the public this June"; designed with "veteran federal drug enforcement agent Michael Levine"
 [^ref-15]: [Video Game Music Preservation Foundation - Ken Allen](https://vgmpf.com/Wiki/index.php?title=Ken_Allen) — Ken Allen's complete game credits including Blue Force
 [^ref-16]: [Internet Archive - Blue Force](https://archive.org/details/blue-force-eng) — Preservation and accessibility
 [^ref-17]: [CGW Museum - Computer Gaming World #148 (November 1996)](https://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148) — "150 Best (and 50 Worst) Games of All Time"; entry 37, Blue Force
@@ -205,3 +205,4 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-22]: [MobyGames - Daryl F. Gates Police Quest: Open Season DOS credits (Archived February 2025)](http://web.archive.org/web/20250228145756/https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/dos/) — "Designer \ Writer: Tammy Dargan"; "Author: Daryl F. Gates"
 [^ref-23]: [Jim Walls Reloaded - Rap Sheet](https://web.archive.org/web/20170202080931/http://www.jimwallsreloaded.com/blog/rap-sheet/) — Walls's own biography (Wayback, 2017): "I was offered a full time design position which lasted until 2003"
 [^ref-24]: [Wikipedia - Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) — bought by Electronic Arts "in 1998"; merger into EA Los Angeles announced January 2003
+[^ref-25]: [Tsunami Media - Blue Force: Electronic Games Review (Archived January 1998)](https://web.archive.org/web/19980122192403/http://www.tsunamimedia.com/eg_blue.htm) — Russ Ceccola's review as reproduced by Tsunami: "OVERALL RATING: 85%"
