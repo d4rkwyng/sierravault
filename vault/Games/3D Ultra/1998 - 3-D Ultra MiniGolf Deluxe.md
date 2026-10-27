@@ -10,21 +10,21 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-27'
 description: 3-D Ultra MiniGolf Deluxe (1998) is Dynamix's expanded edition of the 1997
   3-D Ultra MiniGolf, adding nine new holes for 27 in total plus online play.
 tags: [1990s, 3d-ultra, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-27T10:25:07-06:00
 ---
 # 3-D Ultra MiniGolf Deluxe
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 3-D Ultra MiniGolf Deluxe is "a minigolf game for the Windows PC, designed by Dynamix and published by Sierra. It was released in 1998 as a sequel to the 1997 game 3-D Ultra Minigolf, and it features 9 brand-new holes."[^ref-2] It is an expanded edition of [[1997 - 3-D Ultra MiniGolf|3-D Ultra MiniGolf]] rather than a new design: "9 new holes are added, overall 27 holes playable. No changes to gameplay were made."[^ref-7] Unlike the original, Deluxe shipped with online play built in[^ref-6].
 
-Sierra's summary pitched it this way: "Minigolf was never like this. 3-D Ultra Minigolf Deluxe takes the classic game you love to whole new level of fun! Your favorite holes are here, plus some very unique new holes that have been created with adventure in mind."[^ref-13] CNET's download listing calls it "a strange hybrid of golf, pool, and pinball"[^ref-4], and it came from the same studio behind "the critically-acclaimed Tribes series and The Incredible Machine"[^ref-12]. It was later re-released in Germany as *MaxiMiniGolf* and in France as *MiniGolf Fantasy*[^ref-10].
+Sierra's summary pitched it this way: "Minigolf was never like this. 3-D Ultra Minigolf Deluxe takes the classic game you love to whole new level of fun! Your favorite holes are here, plus some very unique new holes that have been created with adventure in mind."[^ref-13] Vivendi Universal Games' description on its CNET download listing called it "a strange hybrid of golf, pool, and pinball"[^ref-4], and it came from the same studio as "the critically-acclaimed Tribes series and the widely-known puzzle game The Incredible Machine"[^ref-12]. It was later re-released in Germany as *MaxiMiniGolf* and in France as *MiniGolf Fantasy*[^ref-10].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -43,15 +43,15 @@ Sierra's summary pitched it this way: "Minigolf was never like this. 3-D Ultra M
 
 ## Gameplay
 
-Gameplay is unchanged from the 1997 original[^ref-7]; see [[1997 - 3-D Ultra MiniGolf]] for its putting controls (EasyPutt and TruePutt) and course design. CNET's listing describes "3D graphics are pretty cool and the gameplay is simple, controlled by intuitive mouse movements"[^ref-4].
+Gameplay is unchanged from the 1997 original[^ref-7]; see [[1997 - 3-D Ultra MiniGolf]] for its putting controls (EasyPutt and TruePutt) and course design. Vivendi's description on CNET adds: "The 3D graphics are pretty cool and the gameplay is simple, controlled by intuitive mouse movements."[^ref-4] Dynamix's announcement noted that the new holes "introduce real-time 3-D animated characters that interact unpredictably with their ball each time they play"[^ref-28].
 
 ### Structure and Modes
 
-The Deluxe version contains 27 holes in total, combining the original 18 with 9 additional holes[^ref-7]. "Up to four players can play in both hotseat and online play, and the game features traditional scored, hole-by-hole and race play modes."[^ref-2] Zomb's Lair notes "there are often multiple ways to get to the hole, and usually a shortcut or two in each level - some hidden, some not," with "special animations that play when you beat a course with a hole-in-one"[^ref-27].
+The Deluxe version contains 27 holes in total, combining the original 18 with 9 additional holes[^ref-7]. "Up to four players can play in both hotseat and online play, and the game features traditional scored, hole-by-hole and race play modes."[^ref-2] Dynamix's May 1998 press release specified multiplayer "over LAN, modem or the Internet with up to four players," and billed Deluxe as "the first computer miniature golf game to offer a multiplayer option"; that is the publisher's own claim[^ref-28]. Zomb's Lair notes "there are often multiple ways to get to the hole, and usually a shortcut or two in each level - some hidden, some not," with "special animations that play when you beat a course with a hole-in-one"[^ref-27].
 
 ### New Holes
 
-The nine holes added in Deluxe are Banshee Castle, On Cloud 9, Drive In Movie, Road Repair, Future City, Tornado Alley, Mad Scientist's Lab, Deep Sea Diving and Even More Incredible Machine[^ref-10]. The credits list Susan Campbell for the "Concept for Road Repair Hole"[^ref-18].
+The nine holes added in Deluxe are Banshee Castle, On Cloud 9, Drive In Movie, Road Repair, Future City, Tornado Alley, Mad Scientist's Lab, Deep Sea Diving and Even More Incredible Machine[^ref-10]. The credits list Susan Campbell for the "Concept for Road Repair Hole"[^ref-18]. Dynamix's press release explains that her hole won the "Let Your Imagination Run Wild" contest and "was chosen from a mountain of artistic contest entries"[^ref-28].
 
 The Collection Chamber writes that the new holes have "each of which have been upped in imagination and ambition," but that "some are a little too large and complex which highlights the issues with the static-screen approach to game design moreso than the original." It singles out On Cloud 9, which "gives you few visual clues to truly understand the geography of your surroundings"[^ref-3].
 
@@ -59,14 +59,13 @@ The Collection Chamber writes that the new holes have "each of which have been u
 
 ### Contemporary Reviews
 
-MobyGames lists a critic average of 65% from 8 ratings[^ref-11]. A 2010 user review on the MMO Central forums gave it 9/10, noting "If you're looking for a fun and wacky minigolf game, this one is for you!"[^ref-16]
+MobyGames lists a critic average of 65% from 8 ratings[^ref-11]. A 2010 user review by sb1254 on the MMO Central forums gave it 9/10, calling it "a gem of a game with fun holes, great gameplay, and lots of replayability" and adding "If you're looking for a fun and wacky minigolf game, this one is for you!"[^ref-16]
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | MobyGames (critic average) | 65% | Based on 8 critic ratings[^ref-11] |
 | CNET Download | 3.2/5 | User rating on the trial-version listing[^ref-4] |
 | MyAbandonware | 4.6/5 | User rating[^ref-19] |
-| sb1254 (forum) | 9/10 | "This is a gem of a game with fun holes, great gameplay, and lots of replayability"[^ref-16] |
 
 ### Modern Assessment
 
@@ -74,7 +73,7 @@ The Collection Chamber's Deluxe update finds that "a lot of the courses are more
 
 ## Development
 
-3-D Ultra MiniGolf Deluxe was developed by Dynamix[^ref-2] and published by Sierra On-Line on July 1, 1998[^ref-7] (CNET's trial listing gives May 11, 1998[^ref-4]). It followed the May 1997 *3-D Ultra Minigolf*[^ref-6], adding content rather than changing the core mechanics[^ref-7]. The Deluxe release "featured online game play, although the original had a patch to version 1.01 available that also allowed online play"[^ref-6].
+3-D Ultra MiniGolf Deluxe was developed by Dynamix[^ref-2] and published by Sierra On-Line on July 1, 1998[^ref-7]. Dynamix announced it in a May 15, 1998 press release, which gave a July 1998 Windows 95 release at a suggested retail price of $29.95 and said it would be "the first title to ship under the Sierra Attractions Brand," a new line "appealing to the casual entertainment market"[^ref-28]. It followed the May 1997 *3-D Ultra Minigolf*[^ref-6], adding content rather than changing the core mechanics[^ref-7]. The Deluxe release "featured online game play, although the original had a patch to version 1.01 available that also allowed online play"[^ref-6].
 
 ### Credits
 
@@ -121,7 +120,7 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 
 [^ref-2]: [Internet Archive - 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) - Game description, player count and modes
 [^ref-3]: [Collection Chamber Blog - 3D Ultra Mini Golf & Deluxe](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) - Retrospective review; Deluxe covered in its "UPDATE" section
-[^ref-4]: [CNET Download - 3D Ultra Mini Golf Deluxe](https://download.cnet.com/3d-ultra-mini-golf-deluxe/3000-2117_4-10019371.html) - Trial-version listing with publisher description and user rating
+[^ref-4]: [CNET Download - 3D Ultra Mini Golf Deluxe](https://download.cnet.com/3d-ultra-mini-golf-deluxe/3000-2117_4-10019371.html) - Trial-version listing with user rating; quoted "Developer's Description By Vivendi Universal Games" from the [2022-12-10 Wayback snapshot](https://web.archive.org/web/20221210193314/https://download.cnet.com/3D-Ultra-Mini-Golf-Deluxe/3000-2117_4-10019371.html)
 [^ref-6]: [Wikipedia - 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) - Series overview; Deluxe release and online play
 [^ref-7]: [LaunchBox Games Database - 3-D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/424355-3-d-ultra-minigolf-deluxe) - Release date (July 01, 1998) and overview
 [^ref-8]: [LaunchBox Games Database - 3D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/76259-3d-ultra-minigolf-deluxe) - Entry whose overview covers Minigolf Maniacs / Adventures history
@@ -135,3 +134,4 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 [^ref-19]: [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) - Download page with user rating
 [^ref-23]: [Sierra Chest - Minigolf Adventures Deluxe](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) - Minigolf Maniacs development history
 [^ref-27]: [Zomb's Lair - 3D Ultra Minigolf Deluxe](https://www.zombs-lair.com/3d-ultra-minigolf-deluxe) - Retrospective review
+[^ref-28]: [Dynamix Press Release - 3D Ultra Mini Golf Deluxe: Twenty-Seven Holes of Wild Fun! (May 15, 1998)](https://web.archive.org/web/19980627112440/http://www.dynamix.com/pr/minigolf-pr.html) - Period announcement: July 1998 Windows 95 release, $29.95, multiplayer, Road Repair contest, Sierra Attractions brand
