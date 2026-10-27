@@ -2,7 +2,7 @@
 title: 'Red Baron: Mission Builder'
 release_year: 1992
 developer: Dynamix, Inc.
-designer: [Christopher Shen]
+designer: [Christopher Shen, Damon Slye]
 publisher: Sierra On-Line
 genre: Flight Simulation
 platforms: [DOS]
@@ -10,18 +10,18 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'Red Baron: Mission Builder is a 1992 add-on for Dynamix''s World War I
   flight simulator Red Baron that adds a custom mission editor, new planes and new aces.'
 tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Red Baron: Mission Builder is an add-on for Dynamix's World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. MobyGames summarises it in one line: it "adds a mission builder, new planes, and new aces to Red Baron"[^ref-2]. It is not a standalone game; you need the original Red Baron to play it[^ref-3]. The base game is described on MyAbandonware as "arguably the best WW1 flight sim ever made"[^ref-4].
+Red Baron: Mission Builder is an add-on for Dynamix's World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. MobyGames summarises it in one line: it "adds a mission builder, new planes, and new aces to Red Baron"[^ref-2]. It is not a standalone game: its manual calls it "an enhancement of the original Red Baron program", so you need the original Red Baron to play it[^ref-23].
 
 Red Baron itself, released in December 1990, won Computer Gaming World's Simulation of the Year award for 1991 and entered the magazine's Hall of Fame in 1993[^ref-6]. It sold more than 500,000 units worldwide[^ref-6]. Slye later said its success made Dynamix known as a developer of flight simulators[^ref-6].
 
@@ -29,8 +29,8 @@ The Mission Builder lets players build their own missions on the five Red Baron 
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-2]
-> **Producer:** [[Damon Slye]][^ref-2]
-> **Designer:** Christopher Shen[^ref-2]
+> **Designers:** Christopher Shen, [[Damon Slye]] (CGW)[^ref-26][^ref-27]
+> **Producer:** [[Damon Slye]] (MobyGames)[^ref-25]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** 3-Space[^ref-9]
 > **Platforms:** MS-DOS[^ref-2]
@@ -85,13 +85,15 @@ Red Baron: Mission Builder is a combat flight simulator, so it has no puzzles. T
 
 **Combat hazards:** Pilots in the base game face gun jams, flak, engine damage, and the risk of bleeding to death if wounded and unable to land in time[^ref-6].
 
-**Career progression:** Red Baron's career mode tracks kills and promotes the player through ranks and medals. Wounded or captured pilots spend months out of action[^ref-6]. The Mission Builder adds the option to delete pilots from the roster and to restart a mission[^ref-23].
+**Career progression:** Red Baron's career mode tracks kills and promotes the player through ranks and medals. Wounded or captured pilots spend months out of action[^ref-6]. The Mission Builder adds the option to delete pilots from the roster and to restart a mission[^ref-23]. Computer Gaming World's review found career play otherwise unchanged, except that the player "can choose one of the new aircraft as their personal steed once the rank of Captain (Hauptmann) is achieved"[^ref-26].
 
 ## Reception
 
 ### Mission Builder
 
-*Computer Gaming World* gave Red Baron: Mission Builder four stars in M. Evan Brooks's wargame surveys[^ref-6]. MobyGames lists a critics' average of 76% from 5 ratings and a Moby Score of 7.4[^ref-2].
+*Computer Gaming World*'s December 1992 holiday buyer's guide gave it "Two flaps up", calling it "just what the players wanted" and "worthy of the Pour Le Merite"[^ref-28]. In the January 1993 issue, Doug Pick reviewed it as "Red Baron Mission Builder in the Crosshairs". He noted "several new aces and five new aircraft" and found that "expanded or extended memory seemed to make no difference to the size of scenario available". His verdict: "While the program is not essential to enjoy an already excellent program, it sure does a nice job of spicing the game up for the true connoisseur"[^ref-26].
+
+M. Evan Brooks's October 1993 wargame survey in *Computer Gaming World* gave it four stars, describing it as "a scenario design kit for Red Baron that adds additional planes"[^ref-27][^ref-6]. MobyGames lists a critics' average of 76% from 5 ratings and a Moby Score of 7.4[^ref-2].
 
 ### Base Game (Red Baron, 1990)
 
@@ -99,14 +101,12 @@ The following reception is for **Red Baron (1990)**, the base game, not the add-
 
 ### Modern Assessment
 
-Today the add-on is sold as part of the Red Baron Pack on GOG.com and Steam. GOG users rate the pack 4.4 out of 5 from 39 reviews[^ref-13].
+Today the add-on is sold as part of the Red Baron Pack on GOG.com and Steam. GOG users rate the pack 4.4 out of 5 from 40 reviews (as of October 26, 2026)[^ref-13].
 
 **Aggregate Scores:**
 - **MobyGames (Red Baron, base game):** 7.5/10[^ref-14]
 - **MobyGames (Mission Builder):** 7.4 Moby Score; 76% critics' average (5 ratings)[^ref-2]
-- **MyAbandonware (Red Baron, base game):** 4.76/5[^ref-4]
-- **MyAbandonware (Mission Builder):** 4.86/5[^ref-3]
-- **GOG.com (Red Baron Pack):** 4.4/5 (39 reviews)[^ref-13]
+- **GOG.com (Red Baron Pack):** 4.4/5 (40 reviews, as of October 26, 2026)[^ref-13]
 - **Glitchwave (Mission Builder):** 2.50/5, from a single user rating[^ref-17]
 
 ## Development
@@ -119,13 +119,13 @@ The original game shipped on December 31, 1990, after the sales force had warned
 
 ### Production
 
-On the Mission Builder, Damon Slye is credited as producer and Christopher Shen as designer. The programmers were Steve VanDevender and Joseph Wingard, and Mark Peasley was art director. Historical research was by John Bruning Sr. and Dennis A. Kilgore[^ref-25]. The add-on runs on Dynamix's 3-Space engine[^ref-9].
+Computer Gaming World's period coverage credits Chris Shen and Damon Slye as the Mission Builder's designers[^ref-26][^ref-27]. MobyGames' credits list Slye as producer and Shen as designer. The programmers were Steve VanDevender and Joseph Wingard, and Mark Peasley was art director. Historical research was by John Bruning Sr. and Dennis A. Kilgore[^ref-25]. The add-on runs on Dynamix's 3-Space engine[^ref-9].
 
-It was released on September 11, 1992, for IBM PC[^ref-9]. It came on 3.5" floppy disks[^ref-24] and requires the original Red Baron to run[^ref-3]. A German release came on a 720 KB 3.5" DD floppy disk[^ref-18].
+It was released on September 11, 1992, for IBM PC[^ref-9]. It came on 3.5" floppy disks[^ref-24] and requires the original Red Baron to run[^ref-23]. A German release came on a 720 KB 3.5" DD floppy disk[^ref-18].
 
 **Development Credits:**[^ref-25]
-- **Producer:** [[Damon Slye]]
-- **Designer:** Christopher Shen
+- **Designers:** Christopher Shen, [[Damon Slye]] (per CGW[^ref-26][^ref-27]; MobyGames lists Shen as designer)
+- **Producer:** [[Damon Slye]] (per MobyGames)
 - **Programming:** Steve VanDevender, Joseph Wingard
 - **Art Director:** Mark Peasley
 - **Artist:** Jarrett Jester
@@ -175,9 +175,9 @@ The GOG.com Red Baron Pack runs on DOSBox[^ref-13].
 
 The Sierra Chest fan database lists no Easter eggs for Red Baron: Mission Builder[^ref-9]. Notes on the base game:
 
-- Red Baron features 28 aircraft from both the Allied and German sides[^ref-4]
+- Red Baron features 28 aircraft from both the Allied and German sides[^ref-14]
 - A multiplayer version was available on The Sierra Network[^ref-6]
-- Sierra released the 16-color version of Red Baron as freeware in 1997[^ref-4][^ref-6]
+- Sierra released the 16-color version of Red Baron as freeware in 1997[^ref-6]
 - Owners of the 16-color version could send away for the 256-color version[^ref-14]
 - The Mission Builder manual's tips warn against setting missions higher than 20,000 feet, "since the pilot is likely to black out"[^ref-23]
 
@@ -213,7 +213,7 @@ In 2013, Mad Otter Games, where [[Damon Slye]] was then working, launched a Kick
 
 ### Critical Perspective
 
-Mission Builder made one change to Red Baron that mattered more than any other: players could build their own missions, rather than flying only the scenarios Dynamix wrote. The manual's tips on trading mission files with friends show that sharing was expected[^ref-23]. Its own reviews were good rather than great. CGW gave it four stars, while the base game earned five[^ref-6], and MobyGames' critic average is 76%[^ref-2]. It has stayed in print because it travels with Red Baron. It was bundled in 1997 and again in the Red Baron Pack sold on GOG and Steam[^ref-10][^ref-12][^ref-13].
+Mission Builder made one change to Red Baron that mattered more than any other: players could build their own missions, rather than flying only the scenarios Dynamix wrote. The manual's tips on trading mission files with friends show that sharing was expected[^ref-23]. Its own reviews were good rather than great. CGW gave it four stars[^ref-27], while the base game earned five[^ref-6], and MobyGames' critic average is 76%[^ref-2]. It has stayed in print because it travels with Red Baron. It was bundled in 1997 and again in the Red Baron Pack sold on GOG and Steam[^ref-10][^ref-12][^ref-13].
 
 ## Downloads
 
@@ -240,8 +240,6 @@ Mission Builder made one change to Red Baron that mattered more than any other: 
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits
-[^ref-3]: MyAbandonware – Red Baron: Mission Builder *(download link removed: the game is sold commercially)* – expansion requirement, rating, regions
-[^ref-4]: MyAbandonware – Red Baron *(download link removed: the game is sold commercially)* – reviews, campaign system, freeware release
 [^ref-5]: [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual) – developer, documentation
 [^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – awards, CGW four-star Mission Builder rating, 500,000 sales, Slye paraphrase, Spector quote, physics
 [^ref-8]: [SEC.gov – Sierra On-Line Form 10-K (1996)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales data, flight simulation series details
@@ -258,3 +256,6 @@ Mission Builder made one change to Red Baron that mattered more than any other: 
 [^ref-23]: [Internet Archive – Red Baron Mission Builder manual (OCR text)](https://archive.org/download/red_baron1_manual/rb_mb_manual_djvu.txt) – new features, mission conditions, groups, orders, limits, tips
 [^ref-24]: [MobyGames – Red Baron: Mission Builder tech specs](https://www.mobygames.com/game/2722/red-baron-mission-builder/specs/) – CPU, RAM, media, video, sound, input
 [^ref-25]: [MobyGames – Red Baron: Mission Builder DOS credits](https://www.mobygames.com/game/2722/red-baron-mission-builder/credits/dos/) – full credits list
+[^ref-26]: [Computer Gaming World #102 (January 1993), pp. 134–135 – "Red Baron Mission Builder in the Crosshairs"](https://archive.org/details/Computer_Gaming_World_Issue_102) – Doug Pick review; spec box "DESIGNER: Chris Shen, Damon Slye"
+[^ref-27]: [Computer Gaming World #111 (October 1993) – M. Evan Brooks, Annotated Listing of 20th Century Wargames, Part II](https://archive.org/details/Computer_Gaming_World_Issue_111) – four stars; "Dynamix; Damon Slye & Chris Shen; 1992; $29.95"
+[^ref-28]: [Computer Gaming World #101 (December 1992) – holiday buyer's guide](https://archive.org/details/Computer_Gaming_World_Issue_101) – "Two flaps up for Red Baron Mission Builder"

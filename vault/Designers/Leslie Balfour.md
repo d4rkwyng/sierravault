@@ -81,7 +81,7 @@ Balfour was co-designer with Scott Murphy on [[CXL - Space Quest VII - Return to
 
 - **1993** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (CD-ROM version) — Role: Voice Actress (Laura Bow, Narrator, Yvette Delacroix), as Leslie Wilson[^ref-12]
 - 1993 — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Voice Talent, as Leslie Wilson[^ref-17]
-- 1994 — [[1994 - Outpost|Outpost]] — Guidebook writer (Sierra Chest only)[^ref-7]
+- 1994 — [[1994 - Outpost|Outpost]] — Guidebook writer (Sierra Chest only)[^ref-7]. Amazon lists Prima's *Outpost: The Official Strategy Guide* as by Bruce Balfour alone,[^ref-20] and the Outpost manual's credits do not name her.[^ref-21]
 - 1994 — King's Quest Collection — Writer, Documentation (as Leslie Sayes Wilson)[^ref-4][^ref-7]
 - 1994 — Space Quest: Collector's Edition — Writer, Documentation, Video ("The Making of Space Quest")[^ref-11][^ref-3]
 - **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Documentation; Popular Janitronics editor[^ref-13]; text editor and additional text (Sierra Chest only)[^ref-7]
@@ -114,3 +114,5 @@ Balfour was co-designer with Scott Murphy on [[CXL - Space Quest VII - Return to
 [^ref-17]: [MobyGames - Hoyle Classic Card Games credits (Wayback, 2013)](https://web.archive.org/web/20130626032838/http://www.mobygames.com/game/dos/hoyle-classic-card-games/credits) — Voice Talent includes Leslie Wilson, Josh Mandel and Scott Murphy
 [^ref-18]: [InterAction Magazine, Vol. VI No. 3, Holiday 1993](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) — Period scan: two articles "By Leslie Sayes Wilson"
 [^ref-19]: [Adventure Classic Gaming – Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) — "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."
+[^ref-20]: [Amazon - Outpost: The Official Strategy Guide](https://www.amazon.com/Outpost-Official-Strategy-Guide-Secrets/dp/1559585080) — "by Bruce Balfour (Author)"; Prima Games, May 9, 1994
+[^ref-21]: [Internet Archive - Outpost manual (OCR text)](https://archive.org/download/Outpost_-_Manual/Outpost_-_Manual_djvu.txt) — "Responsible Parties" credits (p. 94): Manual Writers Peter Spear, Ronald Wartow; no Leslie Wilson or Balfour
