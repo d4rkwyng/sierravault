@@ -10,7 +10,7 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: Gold Rush! is a 1988 AGI adventure game by Doug and Ken MacNeill for
   Sierra On-Line, in which Brooklyn newspaperman Jerrod Wilson travels to the California
   Gold Rush by one of three historical routes.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -116,7 +116,7 @@ In 2011 Adventure Gamers named Gold Rush! the 96th-best adventure game of all ti
 
 Starostin wrote that the MacNeills "seem to have vanished" after the game shipped and apparently left the industry[^ref-5]. In fact, the brothers' company, The Software Farm, re-released the game as *California Gold Rush!* in 1998[^ref-22]. It later issued a Collector's Edition, dated 2000 by DOSdays[^ref-3].
 
-German studio Sunlight Games later acquired the rights. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12][^ref-14], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
+According to Wikipedia, German developer Sunlight Games later "secured the rights"[^ref-1]. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12][^ref-14], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
 
 Sunlight Games released Gold Rush! 2 in April 2017 as a sequel to Gold Rush! Anniversary[^ref-1]. Sunlight says the sequel's story "came from the pen of the developers of the original game"[^ref-18]. 3rd-Strike gave it 6.1/10 and said its voice acting was "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"[^ref-16].
 
