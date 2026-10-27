@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: 3Space
 protagonist: Unnamed A-10 Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Alan McKean]
 description: A-10 Tank Killer is a combat flight simulation developed and published
   by Dynamix in December 1989 for DOS, with an Amiga port following in 1990-1991.
@@ -18,15 +18,15 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 A-10 Tank Killer is a combat flight simulation developed and published by [[Dynamix]] in December 1989 for DOS, with an Amiga port following in 1990-1991[^ref-1][^ref-2][^ref-20]. The game puts players in the cockpit of the Fairchild-Republic A-10 Thunderbolt II, an aircraft affectionately known as "the Warthog" due to its distinctive appearance[^ref-3]. Marketed as "25 Tons of Flying Mass Destruction," the simulation was among the first PC flight simulators to utilize 256-color VGA graphics for its 3D environments[^ref-1][^ref-4].
 
-The game established itself during a pivotal period in flight simulation history, arriving just as the genre was experiencing rapid growth and technological advancement[^ref-5]. Players take command of what the official description calls "the ugliest, most indestructible and devastating plane ever built," engaging in low-altitude ground attack missions against Soviet and Warsaw Pact forces in a fictional Eastern European conflict[^ref-3][^ref-6]. The simulation distinguished itself through its focus on close air support rather than air-to-air combat, and its innovative persistent battlefield where actions in one mission directly affected subsequent encounters[^ref-6].
+The game established itself during a pivotal period in flight simulation history, arriving just as the genre was experiencing rapid growth and technological advancement[^ref-5]. Players take command of what the official description calls "the ugliest, most indestructible and devastating plane ever built," engaging in low-altitude ground attack missions against Soviet and Warsaw Pact forces in a fictional Eastern European conflict[^ref-3][^ref-6]. The simulation centred on ground attack (hunting tanks and destroying roads and bridges) rather than air-to-air combat, and its battlefield carried over between missions: something the player failed to destroy in one mission could attack later[^ref-1][^ref-6].
 
-Following the success of [[1990 - Red Baron]], Dynamix released version 1.5 in 1991, which added seven new scenarios set during Operation Desert Storm in Iraq, along with improved graphics, enhanced sound support, and a a flight model that one reviewer believed was taken from Red Baron[^ref-1][^ref-7][^ref-10]. Due to its violence level, A-10 Tank Killer was placed on the "Index" in Germany, making it unavailable to the general public—German authorities specifically cited that destructible buildings could be inhabited by humans, constituting an act of cruelty against mankind under German law[^ref-1][^ref-2][^ref-18].
+Following the success of [[1990 - Red Baron]], Dynamix released version 1.5 in 1991, which added seven new scenarios set during Operation Desert Storm in Iraq, along with improved graphics, enhanced sound support, and a flight model that one reviewer believed was taken from Red Baron[^ref-1][^ref-7][^ref-10]. Due to its violence level, A-10 Tank Killer was placed on the "Index" in Germany, making it unavailable to the general public—German authorities specifically cited that destructible buildings could be inhabited by humans, constituting an act of cruelty against mankind under German law[^ref-1][^ref-2][^ref-18].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -37,37 +37,37 @@ Following the success of [[1990 - Red Baron]], Dynamix released version 1.5 in 1
 > **Release Year:** 1989
 > **Series:** A-10 Tank Killer
 > **Protagonist:** Unnamed A-10 Pilot
-> **Sierra Lineage:** Pre-acquisition Dynamix. Dynamix self-published the game before Sierra On-Line bought the studio in 1990[^ref-22]
+> **Sierra Lineage:** Dynamix (pre-acquisition title)[^ref-22]
 
 ## Story Summary
 
 A-10 Tank Killer is set during a fictional Cold War conflict in Eastern Europe, depicting a scenario where Warsaw Pact forces have attacked NATO positions[^ref-6]. Players assume the role of an American A-10 Thunderbolt II pilot assigned to provide close air support for NATO ground forces attempting to repel the Soviet invasion. The campaign structure places the player in the midst of an ongoing ground war where armored columns, supply convoys, and military installations become primary targets[^ref-3].
 
-The narrative unfolds through mission briefings and radio communications during flight, with players receiving real-time intelligence about enemy movements and changing battlefield conditions[^ref-6]. A co-pilot named Jake accompanies the player, despite the A-10 being a single-seat aircraft in reality—a design choice Dynamix made to provide in-game assistance and create a sense of camaraderie during missions[^ref-1][^ref-3]. Jake offers strategy tips and helps identify targets during combat operations[^ref-3].
+The narrative unfolds through mission briefings and radio communications during flight, with players receiving real-time intelligence about enemy movements and changing battlefield conditions[^ref-6]. A co-pilot named Jake accompanies the player, despite the A-10 being a single-seat aircraft in reality—a design choice Dynamix made "in order to add some 'interaction'" to missions[^ref-1][^ref-3]. Jake offers strategy tips and helps identify targets during combat operations[^ref-3].
 
-Version 1.5 expanded the story to include Operation Desert Storm, allowing players to fly combat missions against Iraqi forces during the Gulf War[^ref-7][^ref-9]. These additional scenarios let players experience "flying close enough to the ground to part Saddam's hair" as they engaged Iraqi armor and defensive positions[^ref-7]. The dual-campaign structure gave players the choice between Cold War hypotheticals and recent historical events, significantly expanding the game's narrative scope.
+Version 1.5 expanded the story to include Operation Desert Storm, adding seven new scenarios set in Iraq[^ref-1]. The Self Similar reviewer captioned one v1.5 screenshot "Flying close enough to the ground to part Saddam's hair"[^ref-7]. The dual-campaign structure gave players the choice between Cold War hypotheticals and recent historical events, significantly expanding the game's narrative scope.
 
 ## Gameplay
 
 ### Interface and Controls
 
-A-10 Tank Killer presents players with a first-person cockpit view featuring authentic instrumentation based on the real A-10 Thunderbolt II[^ref-4]. The game supports keyboard and joystick control; one reviewer describes mouse support for menus as part of the v1.5 update[^ref-1][^ref-7]. In a 1994 survey, *Computer Gaming World* noted the game's "very sensitive" joystick control[^ref-10]. External camera views are available for tactical awareness and observing attack results[^ref-5].
+A-10 Tank Killer presents players with a first-person cockpit view; *Computer Gaming World*'s 1989 reviewer called the digitized instrumentation panel "extremely well done"[^ref-24]. The game supports keyboard and joystick control; one reviewer describes mouse support for menus as part of the v1.5 update[^ref-1][^ref-7]. In a 1994 survey, *Computer Gaming World* noted the game's "very sensitive" joystick control[^ref-10][^ref-26]. External camera views are available for tactical awareness and observing attack results[^ref-5].
 
 The simulation includes a helpful co-pilot character who provides strategic guidance and target identification during missions[^ref-3][^ref-5]. Players can intercept radio messages to gain intelligence about enemy positions and movements[^ref-3]. An automated landing system assists pilots returning to base, while an accelerated time function helps compress transit between engagement zones[^ref-6].
 
 ### Structure and Progression
 
-The game offers both single mission and full campaign modes[^ref-6]. The stock campaign is set in a fictional Eastern European conflict following a Warsaw Pact attack on NATO, while version 1.5 added a Gulf War campaign with seven additional scenarios[^ref-6][^ref-7].
+The game offers both single mission and full campaign modes[^ref-6]. The stock campaign is set in a fictional Eastern European conflict following a Warsaw Pact attack on NATO, while version 1.5 added a Gulf War campaign with seven additional scenarios[^ref-1][^ref-6].
 
 - **Cold War Europe Campaign:** Multiple missions defending NATO positions against Soviet armored advances
-- **Gulf War Campaign (v1.5):** Seven missions set during Operation Desert Storm against Iraqi forces[^ref-7]
+- **Gulf War Campaign (v1.5):** Seven scenarios set during Operation Desert Storm in Iraq[^ref-1]
 - **Single Missions:** Standalone scenarios for quick play sessions
 
 A distinctive feature of A-10 Tank Killer is its persistent battlefield system—actions in one mission directly affect later encounters[^ref-6]. Targets not destroyed in earlier missions can reappear to threaten the player later, creating a sense of continuity and consequence across the campaign[^ref-6].
 
 ### Puzzles and Mechanics
 
-As a combat flight simulation, A-10 Tank Killer focuses on realistic aircraft handling and weapons employment rather than traditional puzzles[^ref-4]. The A-10's primary weapon is the 30mm Avenger cannon, capable of firing around 70 times a second[^ref-1].
+As a combat flight simulation, A-10 Tank Killer has no traditional puzzles; play centres on hunting tanks and destroying roads and bridges[^ref-1]. The A-10's primary weapon is the 30mm Avenger cannon, capable of firing around 70 times a second[^ref-1].
 
 Mission types include:
 - **Tank Hunting:** Direct attacks on Soviet T-80 tanks and armored columns[^ref-6]
@@ -81,9 +81,9 @@ The game's damage modeling was particularly notable for its era—players can su
 
 ### Contemporary Reviews
 
-A-10 Tank Killer received generally positive reviews upon release, with critics praising its graphics and immersion while noting some gameplay limitations. *Computer Gaming World* awarded the game 4 out of 5 stars in December 1989, with reviewer M. Evan Brooks noting that "A-10 has much going for it"[^ref-10]. The magazine recommended the game for those seeking quick fun rather than the deep realism sought by "flight grognards"[^ref-2]. In a later retrospective survey in January 1994, the same publication adjusted its rating to 3+ out of 5 stars, citing "very sensitive joystick control" as a persistent issue[^ref-10].
+A-10 Tank Killer received generally positive reviews upon release, with critics praising its graphics and immersion while noting some gameplay limitations. *Computer Gaming World* reviewed the game in December 1989. M. Evan Brooks wrote that "A-10 has much going for it. It is easy-to-use, attractive and fun. This is not a flight grognard's game", but recommended it to anyone wanting a game to "shake out of the box, boot up, and have a great deal of fun with"[^ref-24]. That review carried no star rating. The magazine's June 1992 wargame survey rated the game four stars out of five[^ref-25][^ref-10], and its January 1994 survey gave it three-plus stars, noting that "joystick control is very sensitive"[^ref-26][^ref-10].
 
-*Dragon* magazine gave the game a perfect 5 out of 5 stars in their December 1991 review by Hartley, Patricia, and Kirk Lesser, which covered the DOS version and appeared in the same year v1.5 was released[^ref-10]. European publications were similarly enthusiastic—*The Games Machine* (UK) awarded an exceptional 96 out of 100, while the Italian edition of the same magazine matched that score[^ref-4]. *DOS International* gave 8 out of 10 (80%)[^ref-4], and French publication *Génération 4* scored it 78 out of 100[^ref-4].
+*Dragon* magazine gave the game 5 out of 5 stars in its December 1991 review by Hartley, Patricia, and Kirk Lesser[^ref-10]. That review covered the updated v1.5 release ("PC/MS-DOS version (updated)"), with its Middle East campaign and "new flight models", not the original 1989 release[^ref-27]. European publications were similarly enthusiastic—*The Games Machine* (UK) awarded an exceptional 96 out of 100, while the Italian edition of the same magazine matched that score[^ref-4]. *DOS International* gave 8 out of 10 (80%)[^ref-4], and French publication *Génération 4* scored it 78 out of 100[^ref-4].
 
 The Amiga version received more mixed reception. *Amiga Power* awarded 68% in their July 1991 issue, with reviewer Mark Ramshaw offering the memorable quip: "Mummy, will I be a MicroProse flight sim when I grow up?" "No, son, I'm afraid you'll only ever be an A-10 Tank Killer game"[^ref-5].
 
@@ -99,10 +99,7 @@ Modern retrospectives acknowledge A-10 Tank Killer as an important early entry i
 
 **Aggregate Scores:**
 - **MobyGames:** 80% (15 ratings)[^ref-1]
-- **Alchetron:** 7.8/10[^ref-2]
 - **MyAbandonware:** 4.44/5 (39 votes)[^ref-12]
-- **Abandonware DOS:** 3.4/5[^ref-2]
-- **GamesNostalgia:** 4/5[^ref-2]
 - **UV List Average:** 81.6% (14 reviews, median 79.5%)[^ref-4]
 
 ## Development
@@ -111,7 +108,7 @@ Modern retrospectives acknowledge A-10 Tank Killer as an important early entry i
 
 A-10 Tank Killer emerged from Dynamix's ambitions in the flight simulation market during the late 1980s[^ref-1]. The game was originally conceived as part of a larger project that would encompass different historical eras of aerial combat, but Sierra co-founder Ken Williams suggested making several games instead, each dedicated to a single time period; that advice gave rise to Dynamix's Great War Planes series[^ref-1]. A-10 Tank Killer was not a product of that arrangement: Dynamix had already published it, with distribution through Mediagenic, and Sierra On-Line bought Dynamix in 1990 during the development of [[1990 - Red Baron]], which became the first game in the series published by Sierra[^ref-22].
 
-The choice to simulate the A-10 Thunderbolt II was distinctive for the era, as most flight simulators focused on fast, high-altitude fighters rather than slow, low-altitude ground attack aircraft[^ref-6]. The development team recognized the unique appeal of the Warthog—a rugged, heavily-armored attack plane designed specifically for destroying tanks and providing close air support[^ref-3]. As a 2008 retrospective review of v1.5 put it, the A-10 "is one of the last few military attack planes that is still flown the old fashion, by the seat of your pants way without tons of computer assistance"[^ref-7].
+*Computer Gaming World* called it "the first flight simulation to feature the Air Force's much-maligned close air support weapon", the Thunderbolt[^ref-24]. The development team recognized the unique appeal of the Warthog—a rugged, heavily-armored attack plane designed specifically for destroying tanks and providing close air support[^ref-3]. As a 2008 retrospective review of v1.5 put it, the A-10 "is one of the last few military attack planes that is still flown the old fashion, by the seat of your pants way without tons of computer assistance"[^ref-7].
 
 ### Production
 
@@ -128,7 +125,7 @@ Dynamix made several notable design decisions during production. Despite the rea
 
 ### Technical Achievements
 
-A-10 Tank Killer was among the first PC flight simulators to feature 256-color VGA graphics for its 3D environments, a significant advancement over the 16-color EGA standard of the time[^ref-1][^ref-4]. The game rendered terrain and objects using flat polygons, which, while primitive by later standards, provided smooth performance on the hardware of the era[^ref-4].
+A-10 Tank Killer was among the first PC flight simulators to feature 256-color VGA graphics for its 3D environments, a significant advancement over the 16-color EGA standard of the time[^ref-1][^ref-4].
 
 The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[^ref-4], and the game supported a wide range of display adapters including CGA, EGA, MCGA, Tandy Graphics, and VGA[^ref-4]. Audio options listed include AdLib, Roland LAPC-I, Roland MT-32, Sound Blaster, PS/1 Audio, and PC speaker[^ref-4]. These hardware listings do not separate the 1989 release from v1.5, which updated the sound[^ref-7], so some devices (the IBM PS/1 postdates the December 1989 release) likely belong to v1.5.
 
@@ -154,7 +151,7 @@ The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[
 
 ### Technical Issues
 
-The game requires a slow-down utility on modern computers[^ref-12]. Writing about v1.5, the Self Similar reviewer reported speed-related takeoff problems and on-screen text cycling too quickly to read, and slowed his 486 to 386 speeds to run it correctly[^ref-7].
+Speed problems date back to the original release. *Computer Gaming World*'s 1989 reviewer found the game "too fast" to control on a 386 at 20 MHz. Dynamix told the magazine that a revised Version 2.0 would add a slow-down toggle (Shift-1 through 9) and fix AdLib problems when playing from floppy disk, with a revised Disk 1 mailed to registered owners or downloadable from the company's BBS[^ref-24]. The game requires a slow-down utility on modern computers[^ref-12]. Writing about v1.5, the Self Similar reviewer reported speed-related takeoff problems and on-screen text cycling too quickly to read, and slowed his 486 to 386 speeds to run it correctly[^ref-7].
 
 The Amiga version was noted to have slower 3D graphics routines compared to the DOS version, making the PC port feel notably faster in comparison[^ref-5].
 
@@ -173,13 +170,13 @@ A-10 Tank Killer and its sequel Silent Thunder: A-10 Tank Killer II achieved com
 
 ### Collections
 
-A-10 Tank Killer was bundled with Red Baron in a combined CD-ROM release in 1994, making both Dynamix flight simulators available to a new generation of players[^ref-9]. The package positioned the games as complementary experiences—historical World War I combat alongside modern jet warfare.
+Several mission packs were sold separately[^ref-10]. In December 1989 *Computer Gaming World* reported that Dynamix planned a $12.95 expansion module, a substitute campaign with seven additional missions, which would also be free to download from the company's BBS without documentation updates[^ref-24]. On the Amiga, a 1995 double pack, A-10 Tank Killer + Extra Missions, combined the base game patched to version 1.5 with the Campaign Set 2 add-on[^ref-28].
 
 ### Sequel
 
 [[1996 - Silent Thunder - A-10 Tank Killer II]] was released in 1996, six years after the original[^ref-15][^ref-16]. Published by Sierra On-Line and developed by Dynamix, the sequel featured dramatically improved graphics including "astoundingly smooth, photo-realistic, texture-mapped terrain and structures which are among the finest I've seen outside of location-based flight sims" according to GameSpot's Chris Hudak[^ref-8]. The sequel received an 8.5/10 from GameSpot, with Hudak praising it as "a wicked, clean, no-B.S. combat sim with enough options and realism to hold the serious gamer's interest"[^ref-8].
 
-Silent Thunder simulated the same aircraft—the Fairchild-Republic A-10A Thunderbolt II—with improved accuracy, offering 10 weapons and 24 missions across various global campaigns[^ref-15]. The game employed Dynamix's Terrain and 3DSpace technologies for its visuals and featured a redbook audio soundtrack[^ref-8].
+Silent Thunder simulated the same aircraft—the Fairchild-Republic A-10A Thunderbolt II—with improved accuracy, offering 10 weapons and 24 missions[^ref-15], with campaigns across the world[^ref-16]. The game employed Dynamix's Terrain and 3DSpace technologies for its visuals and featured a redbook audio soundtrack[^ref-8].
 
 ### Fan Projects
 
@@ -191,9 +188,9 @@ The game remains available through abandonware preservation sites and the Intern
 
 ### Critical Perspective
 
-A-10 Tank Killer holds an important position in flight simulation history as one of the notable titles to bring 256-color VGA graphics to the genre while focusing on ground attack rather than air superiority combat. The game's emphasis on low-altitude, "dirty" combat—flying through smoke-filled battlefields and engaging tanks at close range—offered a distinctly different experience from the high-altitude dogfighting that dominated the genre[^ref-3].
+A-10 Tank Killer holds an important position in flight simulation history as one of the notable titles to bring 256-color VGA graphics to the genre while focusing on ground attack rather than air superiority combat. Its own packaging told players to "fly low and dirty through smoke-filled battlefields"[^ref-3], and *Computer Gaming World* noted that most flying is done under 400 feet[^ref-24].
 
-While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. The game's persistent battlefield mechanic, where destroyed or surviving targets carried consequences into future missions, presaged features that would become standard in later combat simulators. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-8][^ref-12].
+While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. Its battlefield also carried over between missions, so a target left standing could attack the player later[^ref-1]. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-8][^ref-12].
 
 ## Purchase
 
@@ -228,7 +225,7 @@ While the Amiga version disappointed some critics who found it technically infer
 [^ref-6]: [PlayClassic Games – A-10 Tank Killer](https://playclassic.games/games/combat-flight-simulator-dos-games-online/play-a10-tank-killer-online/) – gameplay features, mission types, enemies, campaign description
 [^ref-7]: [Self Similar – A-10 Tank Killer v1.5 Review](https://www.selfsimilar.org/2008/10/a-10-tank-killer-15-review/) – version differences, compatibility issues, Gulf War campaign details
 [^ref-8]: [GameSpot – Silent Thunder: A-10 Tank Killer II Review](https://www.gamespot.com/reviews/silent-thunder-a-10-tank-killer-ii-review/1900-2533002/) – Chris Hudak review, 8.5/10 score, technical details
-[^ref-9]: [Internet Archive – Red Baron and A-10 Tank Killer](https://archive.org/details/red-baron-and-a-10-tank-killer) – bundled release information, preservation
+[^ref-9]: [Internet Archive – Red Baron and A-10 Tank Killer](https://archive.org/details/red-baron-and-a-10-tank-killer) – 2022 user upload pairing both games for DOSBox, preservation
 [^ref-10]: [Wikipedia – A-10 Tank Killer](https://en.wikipedia.org/wiki/A-10_Tank_Killer) – review scores, sales data, designer credits
 [^ref-12]: [MyAbandonware – A-10 Tank Killer](https://www.myabandonware.com/game/a-10-tank-killer-kt) – user reviews, HOTUD commentary, file information
 [^ref-15]: [Sierra Gamers – A-10 Tank Killer 2](https://www.sierragamers.com/a10-tank-killer-2/) – sequel information, game features
@@ -238,3 +235,8 @@ While the Amiga version disappointed some critics who found it technically infer
 [^ref-20]: [Metacritic – A-10 Tank Killer](https://www.metacritic.com/game/a-10-tank-killer/) – game description, developer/publisher confirmation
 [^ref-22]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – self-published A-10 via Mediagenic; Sierra On-Line bought Dynamix in 1990 during Red Baron's development
 [^ref-23]: [Sierra On-Line Form 10-K, FY ending March 31, 1996 (Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – primary source for combined A-10 series sales over 250,000
+[^ref-24]: [Computer Gaming World #66, December 1989 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_66) – M. Evan Brooks, "Dynamix Offers Close Air Support", pp. 42–44: first close-air-support sim, speed problems, Version 2.0, expansion module, conclusions
+[^ref-25]: [Computer Gaming World #95, June 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_95) – M. Evan Brooks, "The Modern Games: 1950–2000" survey: four stars
+[^ref-26]: [Computer Gaming World #114, January 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_114) – M. Evan Brooks wargame survey: three-plus stars, "joystick control is very sensitive"
+[^ref-27]: [Dragon #176, December 1991 (Internet Archive)](https://archive.org/details/dragon-magazine-176) – Lesser, "The Role of Computers", Game conversions: "PC/MS-DOS version (updated)", Middle East campaign, "new flight models"
+[^ref-28]: [MobyGames – A-10 Tank Killer + Extra Missions](https://www.mobygames.com/game/24257/a-10-tank-killer-extra-missions/) – Amiga double pack, 1995: base game patched to v1.5 plus Campaign Set 2 (read via the MobyGames API)
