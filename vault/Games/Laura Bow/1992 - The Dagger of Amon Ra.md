@@ -225,7 +225,7 @@ As Hardcore Gaming 101 noted, "it's practically impossible to get the good endin
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Laura Bow | Leslie Wilson (later Leslie Balfour)[^ref-29][^ref-17] |
+| Laura Bow | [[Leslie Balfour\|Leslie Wilson]] (later Leslie Balfour)[^ref-29][^ref-17] |
 | Yvette Delacroix | Leslie Wilson[^ref-29] |
 | Narrator | Leslie Wilson[^ref-29] |
 | Dr. Pippin Carter | Bruce J. Balfour[^ref-29] |

@@ -87,7 +87,7 @@ Regarding the future of gaming, Balfour predicted in 1994 that "virtual reality 
 
 Balfour was one of the scenario designers of Wasteland, which one retrospective calls "the forerunner to the Fallout series".[^ref-8] At Sierra he expected Outpost, built on his NASA material, to "cross over to educational use", and its companion science book was adopted by many high school science classes.[^ref-3][^ref-7]
 
-His own website says several of his games, including Neuromancer, Wasteland, Outpost, and The Dagger of Amon Ra, "became award-winning bestsellers."[^ref-7] His work on The Dagger of Amon Ra led to an unexpected personal legacy as well—during recording sessions for the CD-ROM version, he met voice actress Leslie Wilson; in 2018 she called him "my husband of 23 years".[^ref-4]
+His own website says several of his games, including Neuromancer, Wasteland, Outpost, and The Dagger of Amon Ra, "became award-winning bestsellers."[^ref-7] His work on The Dagger of Amon Ra led to an unexpected personal legacy as well—during recording sessions for the CD-ROM version, he met voice actress [[Leslie Balfour|Leslie Wilson]]; in 2018 she called him "my husband of 23 years".[^ref-4]
 
 ## Games
 

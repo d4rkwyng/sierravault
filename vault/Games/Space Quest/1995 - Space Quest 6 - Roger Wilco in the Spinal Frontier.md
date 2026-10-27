@@ -110,7 +110,7 @@ In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the
 
 The romantic interest Stellar Santiago provides a continuity dilemma, since the woman who bore Roger a son (according to Space Quest IV's narrative) was Beatrice Wankmeister[^ref-3]. The game appears to downplay Space Quest V, with very few references made to the previous entry[^ref-3]. A notable plot inconsistency involves Roger receiving credit for the "successful return of the SCS Eureka," despite that ship being destroyed in the previous game[^ref-15].
 
-Leslie Balfour wrote the Popular Janitronics magazine included with the game[^ref-19]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-18][^ref-19].
+[[Leslie Balfour]] wrote the Popular Janitronics magazine included with the game[^ref-19]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-18][^ref-19].
 
 ### Technical Achievements
 - Ran on SCI32, the last generation of Sierra's SCI engine (interpreter 2.100.002, SCI2.1 "middle")[^ref-3][^ref-36]
