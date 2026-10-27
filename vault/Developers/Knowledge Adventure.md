@@ -14,7 +14,7 @@ last_updated: "2026-10-26"
 
 ## Overview
 
-Knowledge Adventure was an American educational software developer and publisher founded in California in 1991.[^ref-14][^ref-5] It is best known for the *JumpStart* learning series.[^ref-21] The company was based in Glendale, California, in the 1990s and later in Torrance.[^ref-22][^ref-9] It was never a Sierra studio and Sierra did not publish its own line: from 1997 it was a **sister company** to Sierra On-Line inside CUC Software, and it later developed the Dr. Brain games that Sierra had started.[^ref-21][^ref-17] The company renamed itself JumpStart Games in 2012, was acquired by NetDragon Websoft on 7 July 2017, and closed in 2023.[^ref-5][^ref-13]
+Knowledge Adventure was an American educational software developer and publisher founded in California in 1991.[^ref-14][^ref-5] It is best known for the *JumpStart* learning series.[^ref-21] The company was based in Glendale, California, in the 1990s and later in Torrance.[^ref-22][^ref-9] It was never a Sierra studio and Sierra did not publish its own line, apart from some European releases of its Dr. Brain titles: from 1997 it was a **sister company** to Sierra On-Line inside CUC Software, and it later developed the Dr. Brain games that Sierra had started.[^ref-21][^ref-17][^ref-31][^ref-32] The company renamed itself JumpStart Games in 2012, was acquired by NetDragon Websoft in July 2017, and closed in 2023.[^ref-5][^ref-13][^ref-29][^ref-30]
 
 ## History
 
@@ -24,17 +24,17 @@ MobyGames and TV Tropes both say Knowledge Adventure was co-founded in 1991 by R
 
 ### CUC Software: a sister company to Sierra (1996–1998)
 
-CUC International announced on 5 November 1996 that it would buy Knowledge Adventure.[^ref-22][^ref-5] The deal was completed on 31 January 1997. CUC issued 3,461,551 shares of its common stock, which valued the acquisition at $86.1 million.[^ref-21] Knowledge Adventure became "part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line", and it stayed in Glendale.[^ref-21] The *Los Angeles Times* reported that the idea of buying Knowledge Adventure "came from employees of Davidson & Associates and Sierra Online".[^ref-22]
+CUC International announced on 5 November 1996 that it would buy Knowledge Adventure.[^ref-22][^ref-5] The deal was completed on 31 January 1997.[^ref-5] CUC issued 3,461,551 shares of its common stock, which valued the acquisition at $86.1 million.[^ref-21] Knowledge Adventure became "part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line", and it stayed in Glendale.[^ref-21] The *Los Angeles Times* reported that the idea of buying Knowledge Adventure "came from employees of Davidson & Associates and Sierra Online".[^ref-22]
 
-That shared ownership is how Knowledge Adventure came to make Dr. Brain games. Jim Winstead Jr., lead programmer of *Dr. Brain Thinking Games: IQ Adventure*, wrote that "KA and Sierra had wound up under the same corporate umbrella". The "games group" at Knowledge Adventure built *IQ Adventure* and *Puzzle Madness* using Blizzard's networking and graphics library.[^ref-17]
+That shared ownership is how Knowledge Adventure came to make Dr. Brain games. Jim Winstead Jr., lead programmer of *Dr. Brain Thinking Games: IQ Adventure*, wrote that "KA and Sierra had wound up under the same corporate umbrella". The "games group" at Knowledge Adventure built *IQ Adventure* and *Puzzle Madness*; Winstead says *IQ Adventure* used "the networking and graphics library from Blizzard Entertainment".[^ref-17]
 
 ### Cendant, Havas and Vivendi (1997–2004)
 
-When CUC merged with HFS in December 1997 to form Cendant, CUC Software became Cendant Software. In 1998 the French media group Havas agreed to buy Cendant Software. Havas was by then a subsidiary of Vivendi, and the sale was completed on 12 January 1999.[^ref-5][^ref-14][^ref-28] Knowledge Adventure moved with each sale. MobyGames summarises: "The company was shuffled to Havas Interactive and then to Vivendi as a result of acquisitions."[^ref-14] *JumpStart Phonics Learning System* won Computer Educational Title of the Year at the Academy of Interactive Arts & Sciences' 2000 awards.[^ref-7]
+When CUC merged with HFS in December 1997 to form Cendant, CUC Software became Cendant Software. On 20 November 1998 the French media group Havas agreed to buy Cendant Software. Havas was by then a subsidiary of Vivendi, and the sale was completed on 12 January 1999.[^ref-5][^ref-14][^ref-28] Knowledge Adventure moved with each sale. MobyGames summarises: "The company was shuffled to Havas Interactive and then to Vivendi as a result of acquisitions."[^ref-14] *JumpStart Phonics Learning System* won Computer Educational Title of the Year at the Academy of Interactive Arts & Sciences' 2000 awards.[^ref-7]
 
 ### Knowledge Holdings and JumpStart Games (2004–2023)
 
-On 6 October 2004 Vivendi Universal Games announced that it had sold Knowledge Adventure to the venture capital firms Azure Capital Partners and Telesoft Partners. Knowledge Adventure became part of Knowledge Holdings Inc. Vivendi kept the sales and distribution role for its titles.[^ref-23] In October 2012 the company renamed itself JumpStart Games, after its best-known series.[^ref-5][^ref-13] JumpStart Games announced on 13 June 2023 that it would end support for its games, and it closed on 1 July 2023.[^ref-5][^ref-14]
+On 6 October 2004 Vivendi Universal Games announced that it had sold Knowledge Adventure to the venture capital firms Azure Capital Partners and Telesoft Partners. Knowledge Adventure became part of Knowledge Holdings Inc. Vivendi kept the sales and distribution role for its titles.[^ref-23] In October 2012 the company renamed itself JumpStart Games, after its best-known series.[^ref-5][^ref-13] JumpStart Games announced on 13 June 2023 that it would end support for its games, and it closed at the end of June 2023 (officially 1 July).[^ref-5][^ref-14]
 
 ## Notable Games
 
@@ -63,13 +63,13 @@ Knowledge Adventure titles covered in the vault (the full catalogue is listed on
 
 [^ref-2]: [IGN - Knowledge Adventure Producer Profile](https://www.ign.com/games/producer/knowledge-adventure) — company profile and game catalog
 [^ref-3]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/developers/games/3706-knowledge-adventure) — developer information and game database
-[^ref-5]: [Wikipedia - JumpStart Games (formerly Knowledge Adventure)](https://en.wikipedia.org/wiki/JumpStart_Games) — founded 1991; CUC announcement 5 Nov 1996; Cendant/Havas; 2012 rename; closure 1 July 2023
+[^ref-5]: [Wikipedia - JumpStart Games (formerly Knowledge Adventure)](https://en.wikipedia.org/wiki/JumpStart_Games) — founded 1991; CUC announcement 5 Nov 1996, completed 31 Jan 1997; Cendant/Havas; 2012 rename; closure 1 July 2023
 [^ref-7]: [Academy of Interactive Arts & Sciences - Knowledge Adventure](https://www.interactive.org/games/game_developer_details.asp?idAward=2000&idGameDeveloper=246) — 2000 award: Jump Start Phonics Learning System, Computer Educational Title of the Year
 [^ref-9]: [Built In LA - Knowledge Holdings](https://www.builtinla.com/company/knowledge-holdings) — company location and business information
 [^ref-13]: [TV Tropes - JumpStart Games](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JumpStartGames) — founders; renamed after the JumpStart series in 2012
-[^ref-14]: [MobyGames - JumpStart Games Inc](https://www.mobygames.com/company/521/jumpstart-games-inc/) — co-founders, CUC/Cendant/Havas/Vivendi ownership, 2004 sale, 2023 closure
+[^ref-14]: [MobyGames - JumpStart Games Inc (Wayback, 28 Oct 2025)](https://web.archive.org/web/20251028171045/https://www.mobygames.com/company/521/jumpstart-games-inc/) — co-founders, CUC/Cendant/Havas/Vivendi ownership, 2004 sale; servers shut down 30 June 2023
 [^ref-17]: [Trained Monkey - Knowledge Adventure](https://trainedmonkey.com/tag/Knowledge%20Adventure) — Jim Winstead Jr. on the KA games group and the Dr. Brain Thinking Games
-[^ref-21]: [CUC International - "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — completion 31 Jan 1997, $86.1M, CUC Software division with Sierra, Glendale, Gross brothers
+[^ref-21]: [CUC International - "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — $86.1M valued at 31 Jan 1997 close, 3,461,551 shares, CUC Software division with Sierra, Glendale
 [^ref-22]: [Los Angeles Times - "CUC Will Buy Knowledge Adventure" (Karen Kaplan, 6 Nov 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) — deal announced, Glendale, 3D Body Adventure, Spielberg stake, ~$30M sales
 [^ref-23]: [GamesIndustry.biz - "Vivendi Universal sells educational games division" (6 Oct 2004)](https://www.gamesindustry.biz/vivendi-universal-sells-educational-games-division) — sale to Azure Capital Partners and Telesoft Partners; Knowledge Holdings
 [^ref-24]: [Wikipedia - JumpStart](https://en.wikipedia.org/wiki/JumpStart) — JumpStart Kindergarten developed by Fanfare Software, published by KA; Fanfare acquired 1995; series ended 2023
@@ -77,3 +77,7 @@ Knowledge Adventure titles covered in the vault (the full catalogue is listed on
 [^ref-26]: [MobyGames - 3-D Body Adventure](https://www.mobygames.com/game/6163/3-d-body-adventure/) — DOS 1994; Windows/Macintosh 1995
 [^ref-27]: [MobyGames - JumpStart Kindergarten](https://www.mobygames.com/game/149958/jumpstart-kindergarten/) — DOS release 14 November 1994
 [^ref-28]: [Cendant Corporation - Form 10-K/A for fiscal 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) — "On January 12, 1999, we completed the sale of Software to Paris based Havas SA, a subsidiary of Vivendi SA"
+[^ref-29]: [Smith, Gambrell & Russell - "SGR Represents NetDragon Websoft Inc. in Acquisition of JumpStart Games, Inc." (11 Aug 2017)](https://www.sgrlaw.com/press-releases/smith-gambrell-russell-represents-netdragon-websoft-inc-in-acquisition-of-jumpstart-games-inc) — NetDragon's counsel: "The transaction, which closed on July 1, 2017"
+[^ref-30]: [Hercules Capital - Form 8-K Exhibit 99.1 (14 Jul 2017)](https://investor.htgc.com/sec-filings/all-sec-filings/content/0001193125-17-228350/d422873dex991.htm) — JumpStart's lender: "The acquisition was completed by NetDragon in Hong Kong on July 4, 2017"
+[^ref-31]: [MobyGames - Dr. Brain: Action Reaction](https://www.mobygames.com/game/38944/dr-brain-action-reaction/) — read via the MobyGames API: Windows 1999 releases in Germany, France and Spain published by Sierra On-Line; US release by Knowledge Adventure
+[^ref-32]: [MobyGames - Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) — read via the MobyGames API: French Windows release 1 Sep 1999 published by Sierra On-Line
