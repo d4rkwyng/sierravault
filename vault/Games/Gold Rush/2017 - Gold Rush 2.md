@@ -2,7 +2,7 @@
 title: Gold Rush! 2
 release_year: 2017
 developer: Sunlight Games
-designer: Unknown (story by the original game's developers)
+designer: 'Story: Ken & Doug MacNeill, Marco Sowa'
 publisher: Sunlight Games, Kiss Ltd
 genre: Adventure
 platforms: [Windows, macOS, Linux, iOS, Android]
@@ -10,26 +10,26 @@ series: Gold Rush!
 engine: Same engine as Gold Rush! Anniversary
 protagonist: Jerrod Wilson
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: Gold Rush! 2 is a point-and-click adventure game developed and published
   by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS,...
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Gold Rush! 2 is a point-and-click adventure game developed and published by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS, and Android versions following shortly after[^ref-1]. The game serves as a direct sequel to the 1988 Sierra On-Line classic Gold Rush!, continuing the story of the Wilson brothers twenty years after their original adventure to California's Mother Lode[^ref-2]. Notably, Sunlight Games says the sequel's story "came from the pen of the developers of the original game"[^ref-2]; Doug and Ken MacNeill designed the 1988 original[^ref-17], though no source found names them individually in the sequel's credits.
+Gold Rush! 2 is a point-and-click adventure game developed and published by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS, and Android versions following shortly after[^ref-1]. The game serves as a direct sequel to the 1988 Sierra On-Line classic Gold Rush!, continuing the story of the Wilson brothers twenty years after their original adventure to California's Mother Lode[^ref-2]. Notably, Sunlight Games says the sequel's story "came from the pen of the developers of the original game"[^ref-2]; Doug and Ken MacNeill designed the 1988 original[^ref-17], and Sunlight's FAQ states: "The story came from the MacNeill brothers and from Marco Sowa from Sunlight Games"[^ref-20].
 
 Set in 1869, the game takes place during a pivotal time in American history, featuring the newly constructed Transcontinental Railroad and incorporating real historical figures such as William "Boss" Tweed[^ref-4]. The game flew largely under the radar upon release, becoming something of a niche title within the adventure gaming community[^ref-5]. As one reviewer noted, "You know you've a niche game on your hands when after a certain amount of time there still aren't any reviews to find about it"[^ref-5].
 
-Gold Rush! 2 follows the graphical style established by Gold Rush! Anniversary, the 2014 remake of the original game also developed by Sunlight Games[^ref-6]. The game features more than 80 pre-rendered images and animated scenes in full HD resolution, though critics noted the presentation fell short of contemporary standards[^ref-2]. Despite its historical setting and educational elements, the sequel failed to achieve the critical acclaim of its Sierra predecessor, with reviewers citing overly simplistic puzzles and poor voice acting as significant drawbacks[^ref-7].
+Gold Rush! 2 follows the graphical style established by Gold Rush! Anniversary, the 2014 remake of the original game also developed by Sunlight Games[^ref-6]. The game features more than 80 pre-rendered images and animated scenes in full HD resolution[^ref-2], though Adventure Gamers judged that the "graphics are dated for a modern adventure"[^ref-7]. Despite its historical setting and educational elements, the sequel failed to achieve the critical acclaim of its Sierra predecessor, with reviewers citing overly simplistic puzzles and poor voice acting as significant drawbacks[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Sunlight Games[^ref-1]
-> **Designer:** Story by the original game's developers[^ref-2]
+> **Designer:** Story: Ken & Doug MacNeill, Marco Sowa[^ref-20][^ref-17]
 > **Publisher:** Sunlight Games (Steam)[^ref-2]; Kiss Ltd listed by Adventure Gamers and Metacritic[^ref-7][^ref-11]
 > **Engine:** Same engine as Gold Rush! Anniversary (per a Steam user review)[^ref-9]
 > **Platforms:** Windows, macOS, Linux, iOS, Android[^ref-1]
@@ -44,7 +44,7 @@ The narrative of Gold Rush! 2 picks up twenty years after the events of the orig
 
 By 1869, twenty years of hard work have made their mine extraordinarily successful[^ref-4]. Most of their mining profits were sent home to Mr. Quail, a banker and family friend, who invested them wisely[^ref-4]. The brothers have become as wealthy as Wall Street tycoons, and their return to New York would make them very influential gentlemen[^ref-4]. However, trouble brews in their home town, as a gang that Jake and Jerrod personally knew has risen to power and taken control of Brooklyn[^ref-8].
 
-The game incorporates authentic historical elements from the 1860s era, most notably featuring William "Boss" Tweed as a significant character[^ref-6]. Tweed was a real historical figure, the political boss of New York's Tammany Hall machine during this period[^ref-18]. The newly constructed Transcontinental Railroad, completed in 1869, plays a prominent role in the game's setting and transportation mechanics[^ref-2].
+The game incorporates authentic historical elements from the 1860s era, most notably featuring William "Boss" Tweed as a significant character[^ref-6]. Tweed was a real historical figure, the political boss of New York's Tammany Hall machine during this period[^ref-18]. The brothers travel home on the newly constructed Transcontinental Railroad[^ref-2], completed in 1869.
 
 The story, while praised for being historically interesting and somewhat educational, was criticized for not providing enough content to justify a full sequel, with some reviewers describing the experience as "more like an epilogue to the original story rather than a full on game itself"[^ref-9].
 
@@ -52,9 +52,9 @@ The story, while praised for being historically interesting and somewhat educati
 
 ### Interface and Controls
 
-Gold Rush! 2 utilizes a traditional point-and-click interface, continuing the adventure game conventions established by its predecessors[^ref-7]. Players interact with the environment by clicking on objects and characters, using an inventory system to collect and combine items for puzzle-solving[^ref-6]. One Steam reviewer noted that it "Uses the same game engine from the Gold Rush Anniversary remake"[^ref-9], and the graphic style follows that 2014 remake[^ref-6].
+Gold Rush! 2 utilizes a traditional point-and-click interface, continuing the adventure game conventions established by its predecessors[^ref-7]. Sunlight described it as "an optimized point-and-click control" with no parser, as in the remake[^ref-20]. One Steam reviewer noted that it "Uses the same game engine from the Gold Rush Anniversary remake"[^ref-9], and the graphic style follows that 2014 remake[^ref-6].
 
-The game presents more than 80 pre-rendered images and animated scenes displayed in full HD resolution[^ref-2]. However, players reported issues with hotspot identification, noting that it was easy to mis-click and merely examine objects rather than interact with them properly[^ref-10]. Some technical issues affected gameplay, including a bug where incorrect resolution settings caused hotspots to appear in wrong locations, preventing players from accessing certain areas of the screen[^ref-9].
+The game presents more than 80 pre-rendered images and animated scenes displayed in full HD resolution[^ref-2]. Some technical issues affected gameplay, including a bug where incorrect resolution settings caused hotspots to appear in wrong locations, preventing players from accessing certain areas of the screen[^ref-9].
 
 ### Structure and Progression
 
@@ -78,7 +78,7 @@ Gold Rush! 2 received a mixed to poor reception from critics upon release. Adven
 
 3rd-strike.com provided a more moderate assessment, awarding the game 6.1 out of 10, though user reviews on the site averaged only 4.7 out of 10 from 3 votes[^ref-5]. Reviewer "Q" offered a balanced perspective, acknowledging the game's appeal to niche audiences while criticizing its voice acting: "The voice acting is about as captivating as listening to sandpaper grinding along a wooden 2 by 4"[^ref-5].
 
-Just Adventure gave the game a "C" grade in their April 2018 review[^ref-6]. Reviewer Jeffry Houser criticized the game's value proposition, stating it "gave me 15% of the gameplay for 75% of the cost"[^ref-6]. The voice acting received particular scorn, with Houser commenting "The voice actors fall flat, and if you were to tell me they were created using a text-to-speech program, I'd believe it"[^ref-6].
+Just Adventure gave the game a "C" grade in a review first published May 8, 2017 and republished April 12, 2018[^ref-6][^ref-26]. Reviewer Jeffry Houser criticized the game's value proposition, stating it "gave me 15% of the gameplay for 75% of the cost"[^ref-6]. The voice acting received particular scorn, with Houser commenting "The voice actors fall flat, and if you were to tell me they were created using a text-to-speech program, I'd believe it"[^ref-6].
 
 ### Modern Assessment
 
@@ -109,7 +109,7 @@ The game was designed to follow the graphic style of Gold Rush! Anniversary[^ref
 A boxed PC version, DRM-free, was released in German retail on June 30, 2017[^ref-1]. Kiss Ltd is listed as publisher by Adventure Gamers and Metacritic[^ref-7][^ref-11].
 
 **Development Credits:**[^ref-1]
-- **Story:** the developers of the original Gold Rush![^ref-2]
+- **Story:** Ken and Doug MacNeill, Marco Sowa[^ref-20][^ref-17]
 - **Development:** Sunlight Games GmbH
 - **CEO:** Marco Sowa
 
@@ -131,7 +131,7 @@ The game includes full voice acting throughout, though this feature received sig
 
 **Mac Version:**[^ref-6]
 - **Minimum OS:** Mac OS X Lion
-- **Note:** Not compatible with macOS 10.15 Catalina or above[^ref-2]
+- **Note:** Steam lists it as not compatible with macOS 10.15 Catalina or above (notice shown to Mac visitors, October 2026)[^ref-2]
 
 **Mobile Version:**[^ref-4]
 - **Android:** Minimum 1 GB RAM (512 MB devices not supported)
@@ -140,9 +140,9 @@ The game includes full voice acting throughout, though this feature received sig
 
 ### Technical Issues
 
-Several technical problems affected the player experience. Some users on Windows 10 reported the game crashing or failing to start, returning to the Steam menu instead of launching[^ref-15]. A significant bug affected resolution settings, causing hotspot locations to become misaligned and preventing players from accessing the right side of the screen[^ref-9].
+Several technical problems affected the player experience. Some users reported the game failing to start and returning to the Steam menu[^ref-15]. In August 2023 Sunlight traced the crash after the splash screens to Intel Ice Lake (10th gen or newer) CPUs and "a bug in OpenSSL"[^ref-23], and said it "was fixed with the latest update on August 2025" (v1.0.5)[^ref-23]. A significant bug affected resolution settings, causing hotspot locations to become misaligned and preventing players from accessing the right side of the screen[^ref-9].
 
-The macOS version has known compatibility issues, not functioning on macOS 10.15 Catalina or later versions[^ref-2]. This represents a significant limitation for Mac users with updated operating systems.
+Steam's store page, as shown to Mac visitors in October 2026, still carries the notice "This product is not compatible with macOS 10.15 Catalina or above"[^ref-2]. Sunlight's v1.0.5 notes do not mention macOS[^ref-22].
 
 Implementation bugs affected gameplay logic, including:
 - Success messages appearing before encountering related puzzles[^ref-6]
@@ -156,11 +156,13 @@ Some reviewers attributed these issues to the developers seeming "inexperienced 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | April 28, 2017 | Windows (Steam) | Initial release[^ref-1] |
-| Update | May 11, 2017 | Windows (Steam) | Steam update[^ref-1] |
+| 1.0.3 | May 11, 2017 | Windows (Steam) | Re-recorded mispronounced lines, train-robbery text changes, fixes for dynamite/pole/officer problems on some resolutions[^ref-1][^ref-21] |
 | 1.0 | May 24, 2017 | Mac, Linux | Mac and Linux release[^ref-1] |
 | 1.0 | June 1, 2017 | iOS | iOS App Store release[^ref-1] |
 | 1.0 | June 12, 2017 | Android | Google Play and Amazon release[^ref-1] |
 | Box | June 30, 2017 | PC | German retail release[^ref-1] |
+| 1.0.5 | August 2025 | Windows (Steam) | Engine updated to latest version, save system rebuilt with converter, start crash on some processors fixed, mouse locked to game screen[^ref-22][^ref-24] |
+| Steam Cloud | October 21, 2025 | Windows (Steam) | Steam Cloud saves re-enabled[^ref-25] |
 
 ### Easter Eggs and Trivia
 
@@ -191,10 +193,11 @@ Gold Rush! 2 has not appeared in any known compilation releases as of this writi
 
 ### Companion App
 
-An official companion app was released by Sunlight Games in January 2016, providing information about the Gold Rush! series history, screenshots, and walkthroughs[^ref-14]. The app received updates through December 2022, including:
+An official companion app was released by Sunlight Games in January 2016, providing information about the Gold Rush! series history, screenshots, and walkthroughs[^ref-14]. The app received updates through February 2026, including:
 - Version 1.2 (December 2016): Added Gold Rush! 2 details and screenshots
 - Version 1.3 (June 2017): Added Gold Rush! 2 walkthrough and updated links
-- Version 1.4 (December 2022): Minor fixes[^ref-14]
+- Version 1.4 (December 2022): Minor fixes
+- Version 1.4.1 (February 2026): Fixed minor issues[^ref-14]
 
 ### Related Publications
 
@@ -202,7 +205,7 @@ The original Gold Rush! (1988) used copy protection requiring players to referen
 
 ### Critical Perspective
 
-Gold Rush! 2 occupies an unusual position in adventure gaming history. While carrying forward a beloved Sierra legacy with a story credited to the original game's developers, the game failed to recapture the magic that made the 1988 original memorable. The original Gold Rush! ranked 96th on Adventure Gamers' list of best adventure games ever released in 2011[^ref-17], demonstrating the high expectations facing any sequel.
+Gold Rush! 2 occupies an unusual position in adventure gaming history. While carrying forward a beloved Sierra legacy with a story credited to the MacNeill brothers and Marco Sowa[^ref-20], the game failed to recapture the magic that made the 1988 original memorable. The original Gold Rush! ranked 96th on Adventure Gamers' list of best adventure games ever released in 2011[^ref-17], demonstrating the high expectations facing any sequel.
 
 The game's historical setting and educational elements represent its strongest attributes, offering players a glimpse into post-Civil War America during the Reconstruction era. The inclusion of real historical figures like Boss Tweed and accurate period details about the Transcontinental Railroad demonstrate genuine research into the era[^ref-4]. However, as Adventure Gamers concluded: "Unlike its renowned predecessor by Sierra, Gold Rush! 2 fails to strike it rich"[^ref-7].
 
@@ -259,4 +262,16 @@ The game's short length (completable in under three hours) and easy puzzles posi
 [^ref-18]: [Wikipedia – William M. Tweed](https://en.wikipedia.org/wiki/William_M._Tweed) – political boss of Tammany Hall
 
 [^ref-19]: [Apple App Store – Gold Rush! 2](https://apps.apple.com/us/app/gold-rush-2/id1237605907) – iOS listing, requires iOS 12.0 or later
-[^ref-20]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
+
+[^ref-20]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"; "The story came from the MacNeill brothers and from Marco Sowa from Sunlight Games"; "optimized point-and-click control"
+[^ref-21]: [Steam Community – Update 1.0.3 changelog (Sunlight Games, May 11, 2017)](https://steamcommunity.com/app/609100/discussions/0/1333474229065503155/) – "Gold Rush! 2 update to 1.0.3 released for PC!"
+
+[^ref-22]: [Steam Community – Update 1.0.5 changelog (Sunlight Games, Oct 20, 2025)](https://steamcommunity.com/app/609100/discussions/0/598541076225174567/) – "The game engine has been updated to the latest version. The save system has been completely rebuilt."
+
+[^ref-23]: [Steam Community – Intel Ice Lake CPU => crash => FIXED! (Sunlight Games, Aug 24, 2023)](https://steamcommunity.com/app/609100/discussions/0/3816291531974499450/) – "It's a bug in OpenSSL"; developer follow-up Oct 20, 2025: "fixed with the latest update on August 2025"
+
+[^ref-24]: [Steam Community – "8 Years After Release: Gold Rush! 2 Gets an Update!" (Sunlight Games, Oct 20, 2025)](https://steamcommunity.com/app/609100/discussions/0/598541076225175026/) – "released a brand-new update for Gold Rush! 2 in August 2025. Version 1.0.5 is now available for PC via Steam"
+
+[^ref-25]: [Steam Community – Steam-Cloud is back! (Sunlight Games, Oct 21, 2025)](https://steamcommunity.com/app/609100/discussions/0/598541076225270594/) – "Today we re-enabled the Steam Cloud feature for cloud saves"
+
+[^ref-26]: [Just Adventure – Gold Rush! 2 review (Wayback, 2023-02-07)](https://web.archive.org/web/20230207013149/https://www.justadventure.com/2018/04/12/gold-rush-review/) – "This review was originally published May 8, 2017"

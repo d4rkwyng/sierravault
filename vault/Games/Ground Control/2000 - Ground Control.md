@@ -23,11 +23,11 @@ tags: [2000s, ground-control, sierra]
 
 ## Overview
 
-Ground Control is a groundbreaking real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419, the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for completely eliminating traditional RTS mechanics such as base building and resource gathering, instead focusing entirely on tactical combat.[^ref-3]
+Ground Control is a groundbreaking real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419,[^ref-10] the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for completely eliminating traditional RTS mechanics such as base building and resource gathering, instead focusing entirely on tactical combat.[^ref-3]
 
-Ground Control represented a significant departure from the conventions of the real-time strategy genre: players win with the units they have available and the tactics they use, rather than by tank-rushing with an economy behind them.[^ref-2] The game was the debut title for Massive Entertainment, developed by a team of complete newcomers to the industry in Ronneby, Sweden.[^ref-5][^ref-6] Massive itself describes it as "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6]
+Ground Control represented a significant departure from the conventions of the real-time strategy genre: players win with the units they have available and the tactics they use, rather than by tank-rushing with an economy behind them.[^ref-2] The game was the debut title for Massive Entertainment, developed by a team of complete newcomers to the industry in Ronneby, Sweden.[^ref-5][^ref-6] Ola Strandh, who has been at Massive since the Ground Control days, calls it "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6]
 
-The game received widespread critical acclaim upon release, earning a Metacritic score of 86/100 and being described as "simply one of the most beautiful games you are likely to see this year."[^ref-7] Ground Control spawned an expansion pack, Dark Conspiracy, and a sequel, Ground Control II: Operation Exodus, cementing its place as an influential entry in the real-time tactics genre.[^ref-8]
+The game received widespread critical acclaim upon release, earning a Metacritic score of 86/100[^ref-24] and being described as "simply one of the most beautiful games you are likely to see this year."[^ref-7] Ground Control was followed by an expansion pack, Dark Conspiracy,[^ref-41] and a sequel, Ground Control II: Operation Exodus.[^ref-45][^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Massive Entertainment]][^ref-1]
@@ -46,7 +46,7 @@ The game is set in the 25th century, following a devastating "Sixteen-Minute War
 
 The Order of the New Dawn has laid claim to the barren planetoid, and the Crayven Corporation wants to know why.[^ref-11] As Major Sarah Parker of the Crayven Corporation, or as Deacon Jarrod Stone of the Order, players command ground and air forces through a series of intense tactical engagements.[^ref-12] What begins as a straightforward territorial dispute gradually reveals a much deeper mystery involving ancient alien technology and a terrifying secret that both factions are racing to control.[^ref-11]
 
-The narrative unfolds across two separate 15-mission campaigns, one for each faction, allowing players to experience the conflict from both perspectives.[^ref-3] The story features espionage missions, dramatic betrayals, and the gradual uncovering of the alien artifacts' true nature and purpose.[^ref-11] The campaign is enhanced by fully voiced cutscenes featuring professional voice actors, with Jennifer Hale portraying Major Sarah Parker and Dee Bradley Baker voicing Deacon Jarrod Stone.[^ref-13]
+The narrative unfolds across a single 30-mission campaign divided in half, telling the story from the perspective of each of the two opposing factions in turn.[^ref-3] The story features espionage missions, dramatic betrayals, and the gradual uncovering of the alien artifacts' true nature and purpose.[^ref-11] The campaign is enhanced by fully voiced cutscenes featuring professional voice actors, with Jennifer Hale portraying Major Sarah Parker and Dee Bradley Baker voicing Deacon Jarrod Stone.[^ref-13]
 
 ## Gameplay
 
@@ -60,10 +60,10 @@ The game supports keyboard and mouse controls, with improved joystick support ad
 
 Unlike traditional RTS games, Ground Control does not use mechanics of resource and economic management.[^ref-2] Before each mission, players configure their dropships with up to 12 squadrons of units, with three dropships carrying four squads each.[^ref-17] All forces available during a mission are the ones players start with—there is no way to produce additional units mid-battle.[^ref-17]
 
-The game includes over 30 single-player missions split between two campaigns:[^ref-11]
+The single-player game is one 30-mission campaign, divided in half between the two factions:[^ref-3]
 
-- **Crayven Corporation Campaign:** 15 missions following Major Sarah Parker as she leads corporate forces against the Order
-- **Order of the New Dawn Campaign:** 15 missions following Deacon Jarrod Stone and the religious zealots' perspective on the conflict
+- **Crayven Corporation half:** following Major Sarah Parker as she leads corporate forces against the Order[^ref-12]
+- **Order of the New Dawn half:** following Deacon Jarrod Stone and the Order's perspective on the conflict[^ref-12]
 
 Each squad is drawn from one of four unit categories (vehicles, support, aircraft and infantry), and every deployment must include the Command APC.[^ref-2] Squads gain experience through combat and can earn medals, increasing their effectiveness in subsequent missions.[^ref-17] The dropship configuration system allows players to choose specific weapons loadouts and special equipment for their forces before deployment.[^ref-17]
 
@@ -87,14 +87,14 @@ Gaming Age awarded 91/100, calling it "currently the best real-time strategy tit
 
 ### Modern Assessment
 
-Ground Control has maintained its strong reputation in the years since release. The game was nominated for Computer Games Magazine's 2000 "Real-time Strategy Game of the Year"[^ref-1] and was also a BAFTA Games Award nominee in the Games - PC category for 2000.[^ref-25] Modern retrospectives continue to praise the game's innovative design, with one analysis noting that "as a tactical exercise, Ground Control is phenomenal, creating a sense of realism and of bonding with your units that is rare in RTS gaming."[^ref-26]
+Ground Control has maintained its strong reputation in the years since release. The game was nominated for Computer Games Magazine's 2000 "Real-time Strategy Game of the Year"[^ref-1] and was also a BAFTA Games Award nominee in the Games - PC category for 2000.[^ref-25]
 
 **Aggregate Scores:**
 - **Metacritic:** 86/100 (26 reviews)[^ref-1]
 - **MobyGames:** 85% (Critics)[^ref-27]
-- **IMDB:** 7.1/10[^ref-28]
+- **IMDB:** 7.1/10 (35 votes, January 2026)[^ref-28]
 - **GOG.com:** 4.4/5[^ref-29]
-- **Steam:** 84% Positive (193 reviews)[^ref-10]
+- **Steam:** 85% Positive (195 reviews, October 26, 2026)[^ref-10]
 
 ## Development
 
@@ -122,7 +122,7 @@ The development goal was straightforward, according to Walfisz: "Our goal with G
 
 ### Technical Achievements
 
-Ground Control was "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] The game's fully 3D engine rendered each unit with remarkable detail and realistic animations.[^ref-3] GameSpot noted realistic lighting effects that distinguished battles fought at different times of day,[^ref-3] terrain such as high ground carried real tactical weight, and the fully controllable camera let players view battles from any angle.[^ref-14]
+Ola Strandh called Ground Control "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] The game's fully 3D engine rendered each unit with remarkable detail and realistic animations.[^ref-3] GameSpot noted realistic lighting effects that distinguished battles fought at different times of day,[^ref-3] terrain such as high ground carried real tactical weight, and the fully controllable camera let players view battles from any angle.[^ref-14]
 
 The graphics were so impressive that CNN/IDG declared Ground Control "simply one of the most beautiful games you are likely to see this year."[^ref-7] The game featured support for both NVIDIA and 3dfx graphics cards, with GeForce Transform & Lighting acceleration for additional visual enhancement.[^ref-22] The engine could run in 32-bit color with hardware acceleration or fall back to software rendering for compatibility.[^ref-22]
 
@@ -138,7 +138,7 @@ The graphics were so impressive that CNN/IDG declared Ground Control "simply one
 - **OS:** Windows 95/98[^ref-11]
 
 **Graphics Features:**[^ref-22]
-- **Resolution:** Up to 1024x768
+- **Resolution:** 640x480, 800x600 and 1024x768 by default[^ref-9]
 - **Color Depth:** 32-bit
 - **Rendering:** Hardware-accelerated or software mode
 - **Camera:** Full 3D rotation and zoom
@@ -150,13 +150,13 @@ The graphics were so impressive that CNN/IDG declared Ground Control "simply one
 | 1.0 | May 31, 2000 | Windows | Initial release[^ref-6] |
 | 1.0.0.8 | — | Windows | Configuration fixes, map description changes, improved joystick support[^ref-15] |
 | 1.0.1.0 | 2000 | Windows | Balance adjustments[^ref-35] |
-| 1.0.1.1 | 2009 | Windows | GOG release version[^ref-1][^ref-36] |
+| 1.0.1.1 | — | Windows | Current GOG build (GOG release 2009)[^ref-1][^ref-36] |
 
 ### Technical Issues
 
-The AI exhibited some limitations, with units occasionally wandering into friendly fire and enemies not reacting to artillery attacks if they couldn't see the source.[^ref-7][^ref-26] Retail copies use SecuROM DRM.[^ref-9]
+The AI exhibited some limitations, with units tending to wander directly into the line of friendly fire.[^ref-7] Retail copies use SecuROM DRM.[^ref-9]
 
-Modern compatibility issues include startup crashes on Windows 10, which can be resolved with community-created patches.[^ref-37] The official WON online service, which originally provided multiplayer matchmaking, has been shut down; LAN play remains.[^ref-9]
+Modern compatibility issues include startup crashes on Windows 10, which can be resolved with community-created patches.[^ref-37] The game's online servers, hosted on the World Opponent Network (WON), were shut down on 1 November 2008;[^ref-27] the community-created NuWON master server still supports online play, alongside LAN play.[^ref-9]
 
 ### Easter Eggs and Trivia
 
@@ -204,13 +204,13 @@ The game was released in several compilation formats:
 
 **Ground Control: Dark Conspiracy (December 2000)**[^ref-41]
 
-Developed by High Voltage Software,[^ref-41] working with Massive Entertainment,[^ref-35] this expansion pack continued the story of Major Sarah Parker.[^ref-42] After defeating both the Crayven Corporation and Order of the New Dawn forces on Krig-7B, Parker must enlist a group of mercenaries—the Phoenix Mercenaries—to help her escape the deserted planet.[^ref-42] The expansion included 15 new missions across 3 planets[^ref-41] and introduced the third playable faction.[^ref-42]
+Developed by High Voltage Software[^ref-41] on Massive Entertainment's engine,[^ref-35] this expansion pack continued the story of Major Sarah Parker.[^ref-42] After defeating both the Crayven Corporation and Order of the New Dawn forces on Krig-7B, Parker must enlist a group of mercenaries—the Phoenix Mercenaries—to help her escape the deserted planet.[^ref-42] The expansion included 15 new missions across 3 planets[^ref-41] and introduced the third playable faction.[^ref-42]
 
-The expansion was released at an unusually low price point, with Sierra essentially giving it away for just shipping costs. IGN noted: "If you own the original Ground Control, and you don't send the five bucks in to get this game, you're seriously in danger of your children falling backwards on the evolutionary ladder."[^ref-43]
+The expansion was released at an unusually low price point, with Sierra offering it to owners of the original for about five dollars; GameZone wrote that "Sierra is basically giving it away free."[^ref-43] IGN noted: "If you own the original Ground Control, and you don't send the five bucks in to get this game, you're seriously in danger of your children falling backwards on the evolutionary ladder."[^ref-43]
 
 **Ground Control II: Operation Exodus (June 2004)**[^ref-44]
 
-The sequel, also developed by Massive Entertainment, takes place 320 years after the original game.[^ref-45] The Crayven Corporation and Order of the New Dawn no longer exist, replaced by a new conflict between the democratic Northern Star Alliance (NSA) and the warmongering Terran Empire.[^ref-44] The game received an 80/100 on Metacritic and was praised for maintaining the tactical focus of the original while expanding the scope.[^ref-45]
+The sequel, also developed by Massive Entertainment, takes place 320 years after the original game.[^ref-45] The Crayven Corporation and Order of the New Dawn no longer exist, replaced by a new conflict between the democratic Northern Star Alliance (NSA) and the warmongering Terran Empire.[^ref-44] The game received an 80/100 on Metacritic.[^ref-45]
 
 ### Fan Projects
 
@@ -255,10 +255,10 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-2]: [Wikipedia – Ground Control](https://en.m.wikipedia.org/wiki/Ground_Control_(video_game)) – gameplay mechanics, plot summary, setting
 [^ref-3]: [GameSpot – Ground Control Review](https://www.gamespot.com/reviews/ground-control-review/1900-2588769/) – review score, gameplay analysis, technical details
 [^ref-5]: [Cision – Sierra Studios to Publish Massive's Ground Control (Aug 1999)](https://news.cision.com/massive-entertainment/r/sierra-studios----to-publish-massive-s-ground-control-innovative-real-time-strategy-game-to-ship-worldwide-in-2000%2Cc11142) – founding year, location, development team size, Sierra partnership, Walfisz quote
-[^ref-6]: [Massive Entertainment – 20 Years of Ground Control](https://www.massive.se/blog/games-technology/20-years-of-ground-control/) – development history, Walfisz and Strandh quotes, innovation context
+[^ref-6]: [Massive Entertainment – 20 Years of Ground Control](https://www.massive.se/blog/games-technology/20-years-of-ground-control/) – development history, Walfisz and Strandh quotes ("It was one of the first games, if not the first…" says Ola Strandh), innovation context
 [^ref-7]: [CNN/IDG Review](https://www.cnn.com/2000/TECH/computing/06/21/ground.control.idg/index.html) – Brian Wright review quotes, interface praise, graphics assessment
 [^ref-8]: [Ground Control Wiki](https://groundcontrol.fandom.com/wiki/Ground_Control_Wiki) – series overview, game versions
-[^ref-9]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – technical specifications, engine, system requirements, storage, SecuROM (retail), WON shutdown
+[^ref-9]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – technical specifications, engine, system requirements, storage, SecuROM (retail), default resolutions, LAN play and the community NuWON master server
 [^ref-10]: [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/Ground_Control_Anthology/) – user reviews, game description, technical requirements
 [^ref-11]: [Amazon – Ground Control](https://www.amazon.com/Ground-Control-pc/dp/B00004KD64) – product description, story elements, platform info
 [^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Ground-Control/) – release date, character/actor information, voice director
@@ -274,9 +274,8 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-23]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/ground-control/critic-reviews/?platform=pc) – individual review scores, publication quotes
 [^ref-24]: [Metacritic – Ground Control](https://www.metacritic.com/game/ground-control/) – aggregate score, Computer Games Magazine quote
 [^ref-25]: [BAFTA Awards](https://www.bafta.org/awards/interactive/games-pc/) – BAFTA nomination
-[^ref-26]: Old PC Gaming (link removed: site offers game downloads) – tactical analysis, AI critique, technical specs
 [^ref-27]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – ratings, trivia, publishers, free release info
-[^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – user rating
+[^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – the "Ground Control – 2000 Video Game" entry (title tt0416787), "7.1 (35)" as captured January 2026; the results also list other titles named Ground Control
 [^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description
 [^ref-31]: [Massive Entertainment – Project Page](https://www.massive.se/project/ground-control/) – studio culture quote
 [^ref-35]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
