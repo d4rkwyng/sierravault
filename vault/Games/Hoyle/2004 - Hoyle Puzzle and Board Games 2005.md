@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: Hoyle Puzzle & Board Games 2005 is a Sierra compilation, released in
   September 2004, that bundled Hoyle Puzzle Games and Hoyle Board Games in one package.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle & Board Games 2005
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Metacritic and GameFAQs credit Sierra Entertainment as developer and VU Games as
 
 ### Puzzle Games
 
-Metacritic describes the puzzle half as 18 puzzle games ranging "from Mahjong Titles to Word Searches"[^ref-3]; Sierra's own product page says "from crosswords to word searches"[^ref-15]. In March 2005 the official Hoyle site described the then-current Hoyle Puzzle Games as adding "two new puzzle games—Rays and Word Searches," along with 1,000 crossword puzzles[^ref-18]. eBay's catalog entry for the bundle (same UPC) names Anagrams, Crosswords, Gravity Tiles, Hangman, The Incredible Machine, MahJonng Tiles, Slide Tiles, Edge Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Solitaire Arcade, Star Collector and Time Breaker among the puzzle games[^ref-19], though that catalog text also contains evident errors (it repeats Gravity Tiles and MahJonng Tiles in the board-game list).
+Metacritic describes the puzzle half as 18 puzzle games ranging "from Mahjong Titles to Word Searches"[^ref-3]; Sierra's own product page says "from crosswords to word searches"[^ref-15]. In March 2005 the official Hoyle site described the then-current Hoyle Puzzle Games as adding "two new puzzle games—Rays and Word Searches," along with 1,000 crossword puzzles[^ref-18]; that page carries a 2003 Sierra Entertainment copyright, so it may describe an earlier edition rather than this compilation's puzzle disc[^ref-18]. eBay's catalog entry for the bundle (same UPC) names Anagrams, Crosswords, Gravity Tiles, Hangman, The Incredible Machine, MahJonng Tiles, Slide Tiles, Edge Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Solitaire Arcade, Star Collector and Time Breaker among the puzzle games[^ref-19], though that catalog text also contains evident errors (it repeats Gravity Tiles and MahJonng Tiles in the board-game list).
 
 MobyGames documents a separate, standalone Hoyle Puzzle Games 2005 with a 21-game list (including Edge Tiles, Slide Tiles and The Incredible Machine: Even More Contraptions), but that list has no word-search game and does not match the 18-game count, so it cannot be confirmed as this compilation's puzzle disc[^ref-5].
 
@@ -77,13 +77,13 @@ Players could "play together on the same computer and challenge your friends and
 
 ### Bonus Handheld Content
 
-The package included bonus versions of Mahjongg, Backgammon and Placer Racer "for use on Palm OS and Windows CE Handhelds"[^ref-4]. Sierra's product page lists the handheld requirement as any PalmOS device running version 3.1 or later, or a Pocket PC[^ref-15].
+The package included bonus versions of Mahjongg, Backgammon and Placer Racer "for use on Palm OS and Windows CE Handhelds"[^ref-4]. Sierra's product page lists the handheld requirement as any PalmOS device running version 3.1 or later, or any color Pocket PC (including Pocket PC 2000 and 2002 devices)[^ref-15].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Puzzle & Board Games 2005 received little coverage from gaming publications. Metacritic lists no critic reviews for the PC version[^ref-7], IGN's page shows no rating and no user reviews[^ref-9], and Giant Bomb shows no user reviews[^ref-8].
+Hoyle Puzzle & Board Games 2005 received little coverage from gaming publications. Metacritic lists no critic reviews for the PC version[^ref-7], and IGN's page shows no rating and no user reviews[^ref-9].
 
 **Aggregate Scores:**
 - **IGN:** Not Rated[^ref-9]
@@ -128,7 +128,7 @@ Note: Release dates vary across sources: September 4, 2004 (Giant Bomb)[^ref-8],
 
 ### Related Hoyle Titles
 
-RAWG lists later Hoyle Puzzle & Board Games editions among similar games[^ref-13]:
+The vault covers two later editions: [[2008 - Hoyle Puzzle and Board Games]] and [[2010 - Hoyle Puzzle and Board Games 2011]]. RAWG lists later Hoyle Puzzle & Board Games editions among similar games[^ref-13]:
 - Hoyle Puzzle & Board Games (2008), released October 1, 2007
 - Hoyle Puzzle & Board Games (2009), released September 25, 2008
 - Hoyle Puzzle & Board Games (2010), released August 1, 2009
@@ -213,7 +213,7 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-5]: [MobyGames – Hoyle Puzzle Games 2005](https://www.mobygames.com/game/178235/hoyle-puzzle-games-2005/) – the separate standalone Hoyle Puzzle Games 2005: game list and credits (not this compilation)
 [^ref-6]: [Steam Community – Shisensho Solitaire Discussion](https://steamcommunity.com/app/1161360/discussions/0/1642052612840828266/) – Edge Tiles/Shisensho connection, developer reply
 [^ref-7]: [Metacritic – Hoyle Puzzle & Board Games 2005 Critic Reviews](https://www.metacritic.com/game/hoyle-puzzle-board-games-2005/critic-reviews/?platform=pc) – lack of critic reviews
-[^ref-8]: [Giant Bomb – Hoyle Puzzle & Board Games 2005](https://www.giantbomb.com/wiki/Games/Hoyle_Puzzle_And_Board_Games_2005) – release date September 4, 2004, developer Sierra, no user reviews
+[^ref-8]: [Giant Bomb – Hoyle Puzzle & Board Games 2005](https://www.giantbomb.com/wiki/Games/Hoyle_Puzzle_And_Board_Games_2005) – release date September 4, 2004, developer Sierra
 [^ref-9]: [IGN – Hoyle Puzzle Board Games 2005 User Reviews](https://www.ign.com/games/hoyle-puzzle-board-games-2005/user-reviews) – publisher, release date, rating status
 [^ref-11]: [RAWG – Hoyle Puzzle Board Games 2005](https://rawg.io/games/hoyle-puzzle-board-games-2005) – release date variant
 [^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform, model number 72201, listing status
@@ -222,5 +222,5 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-15]: [Sierra.com – Hoyle Puzzle & Board 2005 (Wayback, Dec 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004", game description, system requirements, handheld requirements, © 2004 Sierra Entertainment
 [^ref-16]: [Sierra.com – Alphabetical Index: H (Wayback, Oct 2004)](https://web.archive.org/web/20041010015611/http://www.sierra.com/alphabetical_index.do?letter=H) – "Hoyle Puzzle & Board 2005" in Sierra's fall 2004 catalog
 [^ref-17]: [GameFAQs – Hoyle Puzzle & Board Games 2005 Data](https://gamefaqs.gamespot.com/pc/924319-hoyle-puzzle-and-board-games-2005/data) – US release 09/14/04, publisher VU Games, developer Sierra Entertainment, barcode, ESRB E / Comic Mischief
-[^ref-18]: [HoyleGames.com – Hoyle Puzzle Games (Wayback, Mar 2005)](https://web.archive.org/web/20050309232119/http://www.hoylegames.com/puzzlegames.jsp) – "two new puzzle games—Rays and Word Searches", 1,000 crossword puzzles
+[^ref-18]: [HoyleGames.com – Hoyle Puzzle Games (Wayback, Mar 2005)](https://web.archive.org/web/20050309232119/http://www.hoylegames.com/puzzlegames.jsp) – "two new puzzle games—Rays and Word Searches", 1,000 crossword puzzles, © 2003 Sierra Entertainment
 [^ref-19]: [eBay catalog – Hoyle Puzzle & Board Games (ePID 30989877)](https://www.ebay.com/p/30989877) – catalog description listing puzzle and board games, UPC 0020626722018, release year 2004 (catalog text contains errors)
