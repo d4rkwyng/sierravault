@@ -170,7 +170,7 @@ The technical pioneers who built the foundations of Sierra's games.
 | Name | Achievement |
 |------|-------------|
 | [[Jeff Stephenson]] | Created SCI engine; Ken Williams called SCI "99% Jeff Stephenson's invention"[^ref-29] |
-| [[Bob Heitman]] | Co-developed AGI and SCI engines |
+| [[Bob Heitman]] | Co-developed SCI; one of AGI's designers[^ref-42][^ref-43] |
 | [[Pablo Ghenis]] | King's Quest V, Quest for Glory II, Space Quest IV |
 | [[Carlos Escobar]] | Lead programmer on Mixed-Up Mother Goose (SCI remake), Pepper's Adventures in Time, LSL6; programming on KQ V and Phantasmagoria[^ref-23] |
 | [[Doug Oldfield]] | Lead programmer on Police Quest III, Open Season, EcoQuest 2 and Phantasmagoria; Space Quest III[^ref-24] |
@@ -254,3 +254,5 @@ The project leaders who brought games from concept to completion.
 [^ref-39]: [MobyGames – Al Lowe credits](https://www.mobygames.com/person/3320/al-lowe/credits/) – design credits on LSL 1, 2, III, 5, 6 and Love for Sail! (Lead Design); Torin's Passage (Designer/Writer)
 [^ref-40]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – "Leisure Suit Larry: Love for Sail, designed by Al Lowe and Don Munsil"
 [^ref-41]: [MobyGames – Richard Tunnell credit sheet (Wayback, Dec 2020)](http://web.archive.org/web/20201209084041/https://www.mobygames.com/developer/sheet/view/developerId,16748/) – "3-D Ultra Pinball (1995) ( Additional Design Help )"; The Incredible Machine 2 (Designers)
+[^ref-42]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) – co-developed the SCI system with Jeff Stephenson
+[^ref-43]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) – names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as designers of AGI

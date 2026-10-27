@@ -10,7 +10,7 @@ series: Shannara (standalone)
 engine: Legend Entertainment's graphic adventure system
 protagonist: Jak Ohmsford
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 composer: [George Alistair Sanger]
 description: Shannara is a first-person point-and-click adventure game released by
   Legend Entertainment in late 1995, designed by Corey and Lori Ann Cole as an original
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -115,7 +115,7 @@ Legend Entertainment was founded in 1989 by Mike Verdu and Bob Bates. Its early 
 
 ### Production
 
-MobyGames credits FAR Productions and Triton Interactive as the developers, with Legend as publisher [^ref-7]. Short of in-house designers, Legend contracted the Coles, who worked with Bob Heitman's Triton Interactive in Oakhurst, California, using Legend's technology. Work began in earnest in the fall of 1994, with a one-year schedule and a budget of $362,000 [^ref-3]. *The Digital Antiquarian* describes the result as a "troubled" project, "plagued by communications problems and a mismatched set of expectations" between Legend and the Coles. Producer Bob Bates eventually brought Corey Cole and another Oakhurst programmer to Virginia to finish the game alongside Legend staff. Bates recalled: "We coded like hell until the thirteenth of November. We hand-flew the master to the duplicators and the game came out Thanksgiving week." The final cost was $528,000 [^ref-3]. Legend's own 1996 company profile dated the release to December 1995 [^ref-39].
+MobyGames credits FAR Productions and Triton Interactive as the developers, with Legend as publisher [^ref-7]. Short of in-house designers, Legend contracted the Coles, who worked with Bob Heitman's Triton Interactive, using Legend's technology; Corey Cole recalled that they "set up an office in Oakhurst" [^ref-41]. Work began in earnest in the fall of 1994, with a one-year schedule and a budget of $362,000 [^ref-3]. *The Digital Antiquarian* describes the result as a "troubled" project, "plagued by communications problems and a mismatched set of expectations" between Legend and the Coles. Producer Bob Bates eventually brought Corey Cole and another Oakhurst programmer to Virginia to finish the game alongside Legend staff. Bates recalled: "We coded like hell until the thirteenth of November. We hand-flew the master to the duplicators and the game came out Thanksgiving week." The final cost was $528,000 [^ref-3]. Legend's own 1996 company profile dated the release to December 1995 [^ref-39].
 
 Lori Ann Cole directed the voice recording [^ref-8][^ref-13]. The manual's credits list 31 voiced roles, recorded at B & J Studios in West Los Angeles [^ref-8], and almost all characters were drawn from the Shannara novels [^ref-21]. Legend's product page advertised a "FREE book enclosed, 'The Sword of Shannara,' by Terry Brooks" [^ref-40]; Aplin noted that the Australian release did not include the novel [^ref-25].
 
@@ -274,3 +274,4 @@ The game is preserved through various abandonware sites and can be played throug
 [^ref-38]: [Hyper #29 (March 1996) – Julian Schoffel, "Shannara"](https://archive.org/details/hyper-029/page/n68/mode/1up) – p. 69 (scan); review, overall score 65
 [^ref-39]: [Legend Entertainment – Company Information (Wayback Machine, Jan. 1997)](https://web.archive.org/web/19970110031944/http://www.legendent.com/compinfo/compinfo.html) – page dated September 1996; company history, Random House partnership, "Shannara (December 1995)"
 [^ref-40]: [Legend Entertainment – Shannara product page (Wayback Machine, Jan. 1997)](https://web.archive.org/web/19970110032347/http://www.legendent.com/gameinfo/shannara.html) – official description, bundled novel, requirements
+[^ref-41]: [The Adventurers' Guild – Interview with Corey Cole](https://advgamer.blogspot.com/2018/07/interview-with-corey-cole.html) – "We hired several ex-Sierra people to work with us on the game and set up an office in Oakhurst"

@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As one of the first PC games
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -165,6 +165,7 @@ King's Quest IV was uniquely released in both AGI and SCI versions simultaneousl
 - **Music:** William Goldstein
 - **Music Development System:** Stuart Goldstein
 - **Cavalry Coding:** [[Al Lowe]], Robert Eric Heitman, Chris Hoyt, David Slayback
+- **Game Development System:** Robert Eric Heitman (MobyGames)[^ref-50]
 - **Documentation:** Jerry Albright
 - **Quality Assurance:** "A cast of thousands!"
 
@@ -316,3 +317,4 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-47]: [Wikipedia - King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – 1989 Software Publishers Association award
 [^ref-48]: [King's Quest Omnipedia - Three sisters](https://kingsquest.fandom.com/wiki/Three_sisters) – Three one-eyed witches based on the Graeae
 [^ref-49]: [King's Quest Omnipedia - Edgar](https://kingsquest.fandom.com/wiki/Edgar) – Edgar's role in KQ7: Malicia changes his form to look like the Troll King
+[^ref-50]: [MobyGames - Robert Eric Heitman credit sheet (Wayback, January 2023)](https://web.archive.org/web/20230121165831/http://www.mobygames.com/developer/sheet/view/developerId,2200/) – King's Quest IV: The Perils of Rosella (1988): "Game Development System"

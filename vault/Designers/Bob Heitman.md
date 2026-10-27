@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Manhunter: New York", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra On-Line", "Tsunami Media", "Triton Interactive", "Legend Entertainment"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Bob Heitman
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -17,7 +17,7 @@ Robert Eric Heitman, known professionally as Bob Heitman, was one of Sierra On-L
 
 Heitman's career at Sierra began in 1982 as a conversion programmer, porting Sierra's early graphics adventures to the Commodore 64.[^ref-3] He later served as VP of Engineering, VP of Product Development, and acting General Manager for The Sierra Network before departing in late 1991.[^ref-3]
 
-After leaving Sierra, Heitman worked under contract to Tsunami Media, and MobyGames credits him with creating the technology behind Tsunami's games.[^ref-1][^ref-3] Tsunami's engine, TsAGE, has been described as essentially a refurnished SCI engine.[^ref-4] In 1993 he started his own company, Triton Interactive, and did contract consulting and programming for several companies including Interplay, Legend Entertainment, Legacy Software, and Microsoft.[^ref-3]
+After leaving Sierra, Heitman worked under contract to Tsunami Media, and MobyGames credits him with creating the technology behind Tsunami's games.[^ref-1][^ref-3] In 1993 he started his own company, Triton Interactive, and did contract consulting and programming for several companies including Interplay, Legend Entertainment, Legacy Software, and Microsoft.[^ref-3]
 
 ## Career
 
@@ -31,7 +31,7 @@ He is credited with the Atari ST conversion of Ultima II: The Revenge of the Enc
 
 Edenwaith's account of reverse-engineering AGI names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as the designers of AGI, the engine behind Sierra's first animated graphic adventures.[^ref-7] MobyGames credits him with the development system on King's Quest II (1985) and with programming on King's Quest III (1986).[^ref-16]
 
-Heitman programmed King's Quest III along with Al Lowe and Robert Kernaghan, then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] was the first game to use SCI.[^ref-8] Heitman later directed the group that added 256-color VGA extensions to the engine.[^ref-3]
+Heitman programmed King's Quest III along with Al Lowe and Robert Kernaghan, then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] was the first game to use SCI.[^ref-8][^ref-24] Heitman later directed the group that added 256-color VGA extensions to the engine.[^ref-3]
 
 As SCI matured, his credits are mostly for the engine itself: "Development System", "Interpreter / Development System" or "Game Development System" on games including the Hoyle series, Jones in the Fast Lane, Leisure Suit Larry 5, Mixed-Up Fairy Tales, Conquests of the Longbow and Castle of Dr. Brain.[^ref-16] He is also listed among the "Authors" of The Colonel's Bequest and among the actors of Jones in the Fast Lane.[^ref-16]
 
@@ -39,7 +39,7 @@ Rising through Sierra's ranks, Heitman eventually served as VP of Engineering an
 
 ### Tsunami Media (1991–1994)
 
-After leaving Sierra in late 1991, Heitman went to work under contract to Tsunami Media.[^ref-3] MobyGames credits him with creating the technology behind Tsunami Media's games, as well as the Passport2 online gaming network.[^ref-1] Tsunami's engine, TsAGE, was "essentially a refurnished SCI engine" according to one retrospective.[^ref-4]
+After leaving Sierra in late 1991, Heitman went to work under contract to Tsunami Media.[^ref-3] MobyGames credits him with creating the technology behind Tsunami Media's games, as well as the Passport2 online gaming network.[^ref-1]
 
 For Ringworld: Revenge of the Patriarch (1992), based on Larry Niven's Ringworld novels, MobyGames credits him with game design, game programming and the user's manual.[^ref-11][^ref-16] He is credited with game programming on Jim Walls's [[1993 - Blue Force|Blue Force]], with TsAGE system development on Wacky Funsters! The Geekwad's Guide to Gaming (1992) and The Geekwad: Games of the Galaxy (1993), and as executive producer and technical consultant on Return to Ringworld (1994).[^ref-16][^ref-18]
 
@@ -49,7 +49,7 @@ In 1993, Heitman started his own company, Triton Interactive, and did contract c
 
 For Interplay, he is credited with additional system programming on Star Trek: Judgment Rites (1993), and with additional programming on its 1995 CD-ROM edition.[^ref-13][^ref-16] He programmed Tsunami's Man Enough (1994),[^ref-16] and MobyGames credits him with programming on Dinonauts: Animated Adventures in Space (1995), a Windows title developed by Orbital Studios and published by Virgin Sound and Vision.[^ref-19][^ref-23]
 
-For [[1995 - Shannara|Shannara]], Legend Entertainment's game based on Terry Brooks's fantasy novels, Corey and Lori Ann Cole hired several ex-Sierra people.[^ref-9] Corey Cole recalled that "Bob Heitman, who had been my boss at Sierra, programmed the map and combat ('RPG lite')."[^ref-9]
+For [[1995 - Shannara|Shannara]], Legend Entertainment's game based on Terry Brooks's fantasy novels, Corey and Lori Ann Cole hired several ex-Sierra people.[^ref-9] Corey Cole recalled that "Bob Heitman, who had been my boss at Sierra, programmed the map and combat ('RPG lite')."[^ref-9] MobyGames lists Triton Interactive as the game's developer, with Legend Entertainment as publisher and game engine provider.[^ref-25]
 
 He is credited as System Software Engineer on Sierra's [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998).[^ref-16]
 
@@ -63,7 +63,7 @@ Heitman is one of four people Edenwaith names as the designers of AGI, the engin
 
 ### Sierra's Creative Interpreter (SCI)
 
-Heitman co-developed SCI with Jeff Stephenson,[^ref-3] and King's Quest IV (1988) was the first game to use it.[^ref-8] He directed the group that added the 256-color VGA extensions to SCI.[^ref-3] MobyGames' bio calls SCI "the magic behind all of their adventure games."[^ref-1]
+Heitman co-developed SCI with Jeff Stephenson,[^ref-3] and King's Quest IV (1988) was the first game to use it.[^ref-8][^ref-24] He directed the group that added the 256-color VGA extensions to SCI.[^ref-3] MobyGames' bio calls SCI "the magic behind all of their adventure games."[^ref-1]
 
 ### TsAGE (Tsunami Adventure Game Engine)
 
@@ -75,13 +75,13 @@ MobyGames credits Heitman with the game design, game programming and user's manu
 
 ### King's Quest IV: The Perils of Rosella (1988)
 
-[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] was the first game built on SCI,[^ref-8] and Heitman is credited with its game development system.[^ref-16]
+[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] was the first game built on SCI,[^ref-8][^ref-24] and Heitman is credited with its game development system.[^ref-16]
 
 ## Legacy
 
 Heitman's work sits underneath much of Sierra's catalogue rather than in its credits for story or design: MobyGames lists him on 54 games, most of them for the interpreter or development system.[^ref-23][^ref-16] He is named among AGI's designers,[^ref-7] co-developed SCI,[^ref-3] and created the technology behind Tsunami Media's games.[^ref-1]
 
-ScummVM's TsAGE engine recognizes four Tsunami titles: Ringworld: Revenge of the Patriarch, Blue Force, Return to Ringworld and Protostar: War on the Frontier (a demo), plus the TsAGE-driven intro logo of The Lost Files of Sherlock Holmes.[^ref-17]
+ScummVM's TsAGE engine recognizes four Tsunami titles: Ringworld: Revenge of the Patriarch, Blue Force, Return to Ringworld and Protostar: War on the Frontier (a demo),[^ref-26] plus the TsAGE-driven intro logo of The Lost Files of Sherlock Holmes.[^ref-17]
 
 ## Games
 
@@ -89,7 +89,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 
 ### Sierra On-Line (1982–1991)
 
-- 1983 — [[1983 - Learning with Leeper|Learning with Leeper]] (revised C64 version) — Programmer[^ref-3]
+- Year unconfirmed — [[1983 - Learning with Leeper|Learning with Leeper]] (revised C64 version) — Programmer[^ref-3]
 - Year unconfirmed — Story Maker — Programmer[^ref-3]
 - **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: Special Thanks
 - 1984 — [[1983 - Troll's Tale|Troll's Tale]] (C64) — Commodore 64 Graphics Routines
@@ -122,7 +122,8 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 - **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Development System; Actors
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Interpreter / Development System
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Development System
-- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: SCI Development System; System Development (CD-ROM)
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: SCI Development System
+- 1991 — Roberta Williams' Mixed-Up Mother Goose (CD-ROM) — System Development (CD-ROM)
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Development System
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Development System
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Development System
@@ -140,7 +141,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 - 1994 — Return to Ringworld — Executive Producer, Technical Consultant
 - 1994 — Man Enough — Programming
 
-### Triton Interactive / Freelance (1993–2002)
+### Triton Interactive / Freelance (from 1993)
 
 - 1993 — Star Trek: Judgment Rites — Interplay — Additional System Programming
 - 1995 — Star Trek: Judgment Rites (Limited CD-ROM Collector's Edition) — Interplay — Additional Programming
@@ -155,10 +156,9 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 
 [^ref-1]: [MobyGames - Robert Eric Heitman](https://www.mobygames.com/person/2200/robert-eric-heitman/) — Biography: one of Sierra's first employees, SCI co-developer, Tsunami technology, Passport2
 [^ref-3]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) — Biography, Sierra management roles, and Triton Interactive founding
-[^ref-4]: [Classic Gamer Hub - Blue Force Review](https://classicgamerhub.com/blue-force-pc-review-crime-scene-sim-meets-90s-cameo-gimmick) — TsAGE as "essentially a refurnished SCI engine"
 [^ref-5]: [LaunchBox - Robert Heitman Games](https://gamesdb.launchbox-app.com/developers/games/29876-robert-heitman) — Ultima II Atari ST port
 [^ref-7]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) — Names Heitman among the designers of AGI
-[^ref-8]: [MobyGames - SCI Engine](https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/) — SCI engine game list; King's Quest IV first
+[^ref-8]: [MobyGames - Game Engine: Sierra's Creative Interpreter (SCI), sorted by date (Wayback, October 2023)](https://web.archive.org/web/20231030174919/https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/sort:date/) — SCI "from 1988 to 1996"; date-sorted list opens with King's Quest IV (1988)
 [^ref-9]: [The Adventurers' Guild - Interview with Corey Cole](https://advgamer.blogspot.com/2018/07/interview-with-corey-cole.html) — "Bob Heitman, who had been my boss at Sierra, programmed the map and combat"
 [^ref-11]: [MobyGames - Ringworld: Revenge of the Patriarch](https://www.mobygames.com/game/2559/ringworld-revenge-of-the-patriarch/) — Game entry (ID 2559, confirmed via MobyGames API)
 [^ref-12]: [ScummVM Wiki - TsAGE (Wayback, May 2023)](https://web.archive.org/web/20230522174109/https://wiki.scummvm.org/index.php?title=TsAGE) — Nine Tsunami games built on TsAGE, 1992–1996
@@ -171,3 +171,6 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 [^ref-21]: [MobyGames - *NSYNC: Get to the Show](https://www.mobygames.com/game/142763/nsync-get-to-the-show/) — Game Boy Color, 2001; Stunt Puppy, NuvoStudios / Infogrames (via MobyGames API)
 [^ref-22]: [MobyGames - Dora the Explorer: Lost City Adventure](https://www.mobygames.com/game/30689/dora-the-explorer-lost-city-adventure/) — Windows/Macintosh, 2002; Stunt Puppy / Infogrames (via MobyGames API)
 [^ref-23]: [MobyGames - Robert Eric Heitman (Wayback, October 2025)](https://web.archive.org/web/20251012055930/https://www.mobygames.com/person/2200/robert-eric-heitman/) — "Credited on 54 games"; recent credits incl. Dinonauts and Barbie
+[^ref-24]: [Ars Technica - A truly graphic adventure: the 25-year rise and fall of a beloved genre (Richard Moss, January 2011)](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) — "Sierra replaced the AGI scripting language with SCI (Sierra's Creative Interpreter) in 1988, with King's Quest again used to demonstrate the latest technology"
+[^ref-25]: [MobyGames - Shannara](https://www.mobygames.com/game/3208/shannara/) — DOS, 1995; developed by Triton Interactive, published by Legend Entertainment, game engine by Legend (read via the MobyGames API)
+[^ref-26]: [ScummVM source - engines/tsage/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/tsage/detection_tables.h) — Protostar entries flagged "Demo" / ADGF_DEMO
