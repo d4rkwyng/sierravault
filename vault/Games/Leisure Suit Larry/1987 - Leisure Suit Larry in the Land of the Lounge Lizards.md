@@ -141,7 +141,7 @@ The 1991 VGA remake utilized Sierra's more advanced SCI1 engine[^ref-17], featur
 | Sound | PC Speaker (or Tandy 3-voice)[^ref-15] |
 
 ### Modern Compatibility
-- **ScummVM**: Fully supported (recommended)
+- **ScummVM**: rated Good on the ScummVM compatibility list[^ref-41]
 - **DOSBox**: Compatible with authentic experience
 - **Windows 10/11**: Via ScummVM or DOSBox
 
@@ -208,3 +208,4 @@ An essay in the anthology *Critical Hits* described the series as a "profoundly 
 [^ref-36]: [Metro – Super sexist Leisure Suit Larry franchise is being delisted from Steam (1 May 2025)](https://metro.co.uk/2025/05/01/super-sexist-leisure-suit-larry-franchise-delisted-steam-23007502/) – Modern delisting coverage
 [^ref-37]: [Steam store page](https://store.steampowered.com/app/763970/) – "no longer available on the Steam store"
 [^ref-40]: [Computer Gaming World #41 (November 1987) – Roy Wagner, Leisure Suit Larry review](https://archive.org/download/Computer_Gaming_World_Issue_41/Computer_Gaming_World_Issue_41_djvu.txt) – Contemporary review quote
+[^ref-41]: [ScummVM Compatibility — Leisure Suit Larry in the Land of the Lounge Lizards (agi:lsl1)](https://www.scummvm.org/compatibility/2026.4.0/agi:lsl1/) – Rated "Good" in ScummVM 2026.4.0
