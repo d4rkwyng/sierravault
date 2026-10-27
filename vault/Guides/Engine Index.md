@@ -17,17 +17,34 @@ A listing of Sierra games organized by engine, with technical specifications and
 |--------|-------|------------|--------|-----------|---------------|
 | AGI | 1984–1989 | 160×200 | 16 (EGA) | Text parser | ScummVM |
 | SCI0 | 1988–1990 | 320×200 | 16 (EGA) | Text parser + mouse | ScummVM |
-| SCI1 | 1990–1992 | 320×200 | 256 (VGA), some 16-color EGA versions | Point-and-click | ScummVM |
+| SCI1 | 1990–1992 | 320×200 | 256 (VGA), some 16-color EGA versions | Point-and-click (QfG II kept the text parser)[^ref-26] | ScummVM |
 | SCI1.1 | 1992–1993 | 320×200 | 256 (VGA) | Point-and-click | ScummVM |
-| SCI2/SCI32 | 1993–1996 | Up to 640×480 | 256 | Smart cursor | ScummVM |
-| DGDS | 1990–1993 | 320×200 | 256 (VGA) | Point-and-click | ScummVM |
-| 3-Space | 1986–1998 | Various | VGA/SVGA | Sim controls | DOSBox |
+| SCI2/SCI32 | 1993–1996 | Up to 640×480 | 256 | — | ScummVM |
+| DGDS | 1990–1993 | 320×200 | 16 (EGA) / 256 (VGA) | Point-and-click | ScummVM |
+| 3-Space | Listed games 1989–1998 | Various | Various | Sim controls | DOSBox |
 
-Engine years and colors: AGI[^ref-6], SCI[^ref-7][^ref-1], DGDS[^ref-11], 3-Space[^ref-10].
+Engine years and colors: AGI[^ref-6], SCI[^ref-7][^ref-1]; DGDS colors per ScummVM's DGDS detection table, which includes a 16-color EGA Rise of the Dragon.[^ref-4] DGDS and 3-Space years are the span of the games listed below; Sierra Chest's engine pages give no years or colors.[^ref-11][^ref-10]
 
 ---
 
 ## Sierra Adventure Engines
+
+### ADL (Adventure Development Language) — 1980–1983
+
+Created by Ken Williams for On-Line Systems' first games, the Hi-Res Adventure series. ScummVM supports all seven Hi-Res Adventures (rated "Good"); its ADL page lists Adventure in Serenia as a version of Hi-Res Adventure #2.[^ref-28][^ref-5]
+
+**Play with:** ScummVM
+
+- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure #0: Mission Asteroid]]
+- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure #1: Mystery House]]
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure #2: The Wizard and the Princess]]
+- **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure #3: Cranston Manor]]
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure #4: Ulysses and the Golden Fleece]]
+- **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] (version of Hi-Res Adventure #2)
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure #5: Time Zone]]
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure #6: The Dark Crystal]]
+
+---
 
 ### AGI (Adventure Game Interpreter) — 1984–1989
 
@@ -98,14 +115,14 @@ SCI0 assignments per the ScummVM version list (King's Quest I SCI uses the SCI01
 
 ### SCI1 — 1990–1992
 
-First VGA engine, with 256 colors and point-and-click interfaces. SCI1 games were released in both 16-color EGA and 256-color VGA versions, and Quest for Glory II used an EGA-only early SCI1.[^ref-1][^ref-7]
+First VGA engine, with 256 colors and point-and-click interfaces. SCI1 games were released in both 16-color EGA and 256-color VGA versions, and Quest for Glory II used an earlier, EGA-only SCI1 build (1.000.041).[^ref-1][^ref-7]
 
 | Spec | Details |
 |------|---------|
 | Resolution | 320×200 |
 | Colors | 256 (VGA); 16 (EGA) versions too |
-| Interface | Point-and-click icon bar |
-| Audio | AdLib, Sound Blaster, Roland MT-32, General MIDI |
+| Interface | Point-and-click icon bar (QfG II kept the text parser)[^ref-26] |
+| Audio | AdLib, Sound Blaster, Roland MT-32 |
 | CD-ROM | Mixed-Up Mother Goose CD and King's Quest V CD were SCI1 releases[^ref-1] |
 
 **Play with:** ScummVM (recommended), DOSBox
@@ -137,7 +154,7 @@ Revised SCI1 with enhanced animation and sprite scaling; many SCI1.1 games also 
 | Resolution | 320×200 |
 | Colors | 256 (VGA) |
 | Interface | Point-and-click (refined) |
-| Audio | Sound Blaster, General MIDI, CD audio |
+| Audio | Sound Blaster |
 
 **Play with:** ScummVM (recommended), DOSBox
 
@@ -172,15 +189,13 @@ SCI2, SCI2.1 and SCI3 are together called SCI32 because the original interpreter
 |------|---------|
 | Resolution | Up to 640×480 (SVGA) |
 | Colors | 256 |
-| Interface | Smart cursor, context-sensitive |
-| Audio | CD audio, FMV |
-| Platform | 32-bit DOS and Windows 3.1/95 |
+| Platform | 32-bit DOS, Windows 3.1/95 and Macintosh[^ref-1] |
 | New Features | FMV cutscenes, higher resolution |
 
 **Play with:** ScummVM (recommended), Windows compatibility mode
 
 - **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] (SCI2; only the demo was SCI1.1)
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]]
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (SCI2; only the demo was SCI1.1)
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (SCI2; only the demo was SCI1.1)
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]]
@@ -190,12 +205,14 @@ SCI2, SCI2.1 and SCI3 are together called SCI32 because the original interpreter
 - **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]]
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]]
 - **1995** — [[1995 - Torin's Passage|Torin's Passage]]
-- **1996** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Volume 5]] (SCI2.1)
+- **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] (SCI2.1)[^ref-27]
+- **1996** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Volume 5]] (SCI2.1) — note: the linked page currently describes Hoyle Solitaire; ScummVM lists Hoyle Classic Games (hoyle5) and Hoyle Solitaire (hoyle5solitaire) as separate games[^ref-27]
 - **1996** — [[1996 - Hoyle Solitaire|Hoyle Solitaire]] (SCI2.1)
 - **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]]
 - **1996** — [[1996 - Lighthouse - The Dark Being|Lighthouse]] (SCI3)
 - **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2]]
 - **1996** — [[1996 - Rama|RAMA]]
+- **1996** — [[1996 - The Realm Online|The Realm Online]] (SCI2.1)[^ref-27]
 
 SCI32 assignments per the ScummVM version list.[^ref-1]
 
@@ -238,6 +255,7 @@ Designed by Damon Slye with David McClurg; Slye lists Stellar 7, Arcticfox, Abra
 - **1989** — [[1989 - MechWarrior|MechWarrior]]
 - **1990** — [[1990 - Red Baron|Red Baron]]
 - **1990** — [[1990 - Stellar 7|Stellar 7]]
+- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]][^ref-10]
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9]]
 - **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]]
 - **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]]
@@ -245,6 +263,7 @@ Designed by Damon Slye with David McClurg; Slye lists Stellar 7, Arcticfox, Abra
 - **1993** — [[1993 - Aces Over Europe|Aces Over Europe]]
 - **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]]
 - **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]
+- **1995** — [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: Earthsiege Expansion Pack]][^ref-10]
 - **1996** — [[1996 - Earthsiege 2|Earthsiege 2]]
 - **1996** — [[1996 - Silent Thunder - A-10 Tank Killer II|Silent Thunder: A-10 Tank Killer II]]
 - **1997** — [[1997 - Red Baron II|Red Baron II]]
@@ -253,6 +272,8 @@ Designed by Damon Slye with David McClurg; Slye lists Stellar 7, Arcticfox, Abra
 ---
 
 ### 3-D Ultra Series
+
+No source names the engine: Sierra Chest lists the 3-D Ultra series under "Unknown/unnamed".[^ref-12]
 
 **Play with:** DOSBox, Windows compatibility mode
 
@@ -267,7 +288,6 @@ Designed by Damon Slye with David McClurg; Slye lists Stellar 7, Arcticfox, Abra
 - **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra RC Racers]] — Type: Racing
 - **2000** — [[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrill Ride]] — Type: Pinball
 - **2000** — [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra RC Racers Deluxe]] — Type: Racing
-- **2006** — [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] — Type: Minigolf
 
 ---
 
@@ -297,7 +317,7 @@ Papyrus used its own in-house engines; no source gives them consistent names, an
 - **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]
 - **1993** — [[1993 - IndyCar Racing|IndyCar Racing]]
 - **1994** — [[1994 - NASCAR Racing|NASCAR Racing]]
-- **1996** — [[1995 - IndyCar Racing II|IndyCar Racing II]][^ref-19]
+- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] (DOS; reviewed in *PC Games*' December 1995 issue. MobyGames gives 1996, and the Windows 95 and Mac versions followed in 1996)[^ref-25][^ref-19]
 - **1996** — [[1996 - NASCAR Racing 2|NASCAR Racing 2]]
 - **1997** — [[1997 - CART Racing|CART Racing]]
 - **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]]
@@ -325,7 +345,7 @@ Impressions' 2D city-builders; Emperor was the last to use the same 2D-sprite en
 - **2001** — [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]]
 - **2002** — [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]]
 
-**Caesar IV** is not an Impressions game: Tilted Mill Entertainment developed it on a 3D engine (Sierra Chest calls it "Titan", shared with Empire Earth).[^ref-21][^ref-13]
+**Caesar IV** is not an Impressions game: Tilted Mill Entertainment developed it on a 3D engine (Sierra Chest lists it under Titan 2.0, an update of the original Titan engine used by Empire Earth).[^ref-21][^ref-13]
 - **2006** — [[2006 - Caesar IV|Caesar IV]]
 
 ### Strategy Titles (engine unnamed)
@@ -468,6 +488,7 @@ These games were listed under an engine above in earlier versions of this index,
 - **1995** — [[1995 - The Lost Mind of Dr. Brain|Lost Mind of Dr. Brain]] — not in ScummVM's SCI version list[^ref-1]
 - **1996** — [[1996 - The Time Warp of Dr. Brain|Time Warp of Dr. Brain]] — not in ScummVM's SCI version list[^ref-1]
 - **1999** — [[1999 - Curse You! Red Baron|Curse You! Red Baron]]
+- **2006** — [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] — developed by Wanako Games, not Dynamix; Sierra Chest lists its Deluxe edition under "Unknown/unnamed"[^ref-12]
 
 ---
 
@@ -475,6 +496,7 @@ These games were listed under an engine above in earlier versions of this index,
 
 | Engine Type | Best Emulator/Runtime |
 |-------------|----------------------|
+| ADL (1980–1983) | ScummVM |
 | AGI (1984–1989) | ScummVM |
 | SCI (1988–1996) | ScummVM |
 | Dynamix Adventures (DGDS) | ScummVM |
@@ -492,15 +514,15 @@ These games were listed under an engine above in earlier versions of this index,
 [^ref-2]: [ScummVM source – engines/agi/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) – "Mickey's Space Adventure // Preagi game"; Troll's Tale and Winnie the Pooh in the Hundred Acre Wood (GAMEpre_P("winnie"…)) detected as Pre-AGI (GType_PreAGI) games
 [^ref-3]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts… classifies Shivers 2 as 'not SCI'"
 [^ref-4]: [ScummVM source – engines/dgds/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/dgds/detection_tables.h) – detection entries for Rise of the Dragon, Willy Beamish, Heart of China, Quarky & Quaysoo's Turbo Science and the Johnny Castaway screensaver
-[^ref-5]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – checked 2026-10-16: agi:mickey, agi:troll; agi:winnie (checked 2026-10-26); dgds:rise, dgds:china, dgds:beamish; Gob titles listed (no Inca, Inca II or Last Dynasty)
+[^ref-5]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – checked 2026-10-16: agi:mickey, agi:troll; agi:winnie and adl:hires0–hires6, all "Good" (checked 2026-10-26); dgds:rise, dgds:china, dgds:beamish; Gob titles listed (no Inca, Inca II or Last Dynasty)
 [^ref-6]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – developed for King's Quest (1984) for the IBM PCjr; used "in 14 of their games between 1984 and 1989"; 160×200; KQ IV "Sierra released an AGI version of the game at the same time"
 [^ref-7]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – SCI0 1988 "320 × 200, 16-color EGA", text parser; SCI1 1990 256-color VGA; SCI1.1 1992 "enhanced animation and sprite scaling"; SCI2 1993 640×480 SVGA, 256 colors; SCI3 1996 "native Windows 95 support"; latest release 1996
 [^ref-8]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) – King's Quest: Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"
 [^ref-9]: [Jane Jensen – GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) – "GK3 needed this new engine… The G-Engine is a fabulous piece of engineering"
-[^ref-10]: [Sierra Chest – Engine: 3-Space (archived May 2019)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg. It was used in Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D"; group members include Betrayal at Krondor and Red Baron: Mission Builder
+[^ref-10]: [Sierra Chest – Engine: 3-Space (archived May 2019)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg. It was used in Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D"; group members include Betrayal at Krondor, Red Baron: Mission Builder, A-10 Tank Killer Version 1.5 and Metaltech: Earthsiege: Expansion Pack
 [^ref-11]: [Sierra Chest – Engine: DGDS (archived May 2019)](https://web.archive.org/web/20190512152438/http://sierrachest.com/index.php?a=engines&id=36) – "Initially developed for Rise of the Dragon and enhanced for Heart of China and Willy Beamish"; members include Quarky and Quaysoo's Turbo Science and Turbo Learning: Mega Math
 [^ref-12]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists Front Page Sports, Trophy Bass, Lords of the Realm, Lords of Magic, Civil War Generals, NASCAR Racing, IndyCar Racing 2, Grand Prix Legends, Aces of the Deep, Metaltech: Battledrome, Curse You! Red Baron, Inca, Lost Mind and Timewarp of Dr. Brain
-[^ref-13]: [Sierra Chest – Engine: Titan (archived May 2019)](https://web.archive.org/web/20190512153239/http://sierrachest.com/index.php?a=engines&id=10) – "Caesar IV (September 2006) Tilted Mill Entertainment"; group members Caesar IV, Empire Earth
+[^ref-13]: [Sierra Chest – Engine: Titan (archived May 2019)](https://web.archive.org/web/20190512153239/http://sierrachest.com/index.php?a=engines&id=10) – "Titan 2.0, an update of the original Titan Engine"; "Games Using Titan 2.0… Caesar IV (September 2006) Tilted Mill Entertainment"; original Titan "used in… Empire Earth"; group members Caesar IV, Empire Earth
 [^ref-14]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – this game (11653) and [Space Quest: The Lost Chapter](https://www.mobygames.com/game/54958/space-quest-the-lost-chapter/) (54958) are both members of MobyGames' AGI engine group 5313 (checked via the MobyGames API, 2026-10-16)
 [^ref-15]: [PCGamingWiki – Engine: Darkstar](https://www.pcgamingwiki.com/wiki/Engine:Darkstar) – games: Starsiege (1999-03-24) and Starsiege: Tribes (1998-12-23)
 [^ref-16]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – DOS 1989, Atari ST 1989 (API)
@@ -512,4 +534,8 @@ These games were listed under an engine above in earlier versions of this index,
 [^ref-22]: [Wikipedia – Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – "the last of the series to use the same 2D-sprite game engine as seen in the earlier titles"
 [^ref-23]: [ScummVM source – engines/gob/detection](https://github.com/scummvm/scummvm/tree/master/engines/gob/detection) – detection tables include tables_inca2.h and tables_dynasty.h; none for the first Inca
 [^ref-24]: [Wikipedia – Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) – infobox "engine = Torque"; [Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)): "originally developed by Dynamix for the 2001 first-person shooter Tribes 2"
+[^ref-25]: [PC Games – IndyCar Racing 2 review by Bill Meyer, December 1995 issue (Wayback, Feb 1997)](https://web.archive.org/web/19970207065818/http://www.pcgamesmag.com/games/Dec95/indy1295.html) – filed under games/Dec95: "IndyCar Racing 2 picks up where its predecessors left off, adding a full-service garage, crisp Super VGA graphics"
+[^ref-26]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) – "The game's interface is a text parser"
+[^ref-27]: [ScummVM source – engines/sci/detection.cpp](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection.cpp) – under "SCI2.1 games": "hoyle5" "Hoyle Classic Games", "hoyle5bridge" "Hoyle Bridge", "hoyle5solitaire" "Hoyle Solitaire", "realm" "The Realm"
+[^ref-28]: [ScummVM Wiki – ADL (archived May 2024)](http://web.archive.org/web/20240505215014/https://wiki.scummvm.org/index.php/ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; "known as the Hi-Res Adventure series"; "Hi-Res Adventure #2 - Wizard and the Princess/Adventure in Serenia (1980)"
 
