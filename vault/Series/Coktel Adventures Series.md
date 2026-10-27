@@ -25,7 +25,7 @@ Coktel was unusual among Sierra-lineage studios because:
 
 ## Pre-Sierra Coktel Era (1988–1993)
 
-Coktel published its simulation and erotic games under Tomahawk, which was "presented as a subsidiary" but "was only a label that Coktel Vision used to publish simulation and erotic games to distance themselves from edutainment titles".[^ref-1] MobyGames credits Tomahawk on 14 games from 1988 to 1991, none sold outside Europe.[^ref-18] Designers for linked titles follow each game's SierraVault page. The 11 unlinked titles are pre-Sierra releases that have no page under the archive's Sierra-era inclusion rule; their designer credits follow each game's MobyGames credits.
+Coktel published its simulation and erotic games under Tomahawk, which was "presented as a subsidiary" but "was only a label that Coktel Vision used to publish simulation and erotic games to distance themselves from edutainment titles".[^ref-1] MobyGames credits Tomahawk on 14 games from 1988 to 1991.[^ref-18] *Tilt* still named it as publisher of the *Fascination* CD-ROM in June 1992,[^ref-35] and Atari ST re-releases of *Emmanuelle*, *Geisha* and *Legend of Djel* carried the label into 1993.[^ref-36] Wikipedia also says Coktel localised Sierra's games and published them through Tomahawk,[^ref-1] but 1993 French magazines credit Sierra's French releases to Sierra as publisher, with Ubi Soft as distributor.[^ref-37][^ref-38][^ref-39][^ref-40] Designers for linked titles follow each game's SierraVault page. The 11 unlinked titles are pre-Sierra releases that have no page under the archive's Sierra-era inclusion rule; their designer credits follow each game's MobyGames credits.
 
 | Year | Title | Designer | Notes |
 |------|-------|--------------------------|-------|
@@ -96,7 +96,7 @@ In 2009, [[Pierre Gilhodes]], whose last Coktel game had been *Woodruff and the 
 
 ## Legacy
 
-Coktel's productions were mostly European: MobyGames notes that none of its Tomahawk-label games were sold outside Europe.[^ref-18] The *Gobliiins* series is the part of its catalog that has continued, with three new games since 2009.[^ref-3]
+Coktel's productions were mostly European. MobyGames' Tomahawk page says none of the label's games were sold outside Europe,[^ref-18] although MobyGames' own release data lists a 1991 Tomahawk DOS release of *E.S.S. Mega* in the United States.[^ref-41] The *Gobliiins* series is the part of its catalog that has continued, with three new games since 2009.[^ref-3]
 
 ## See Also
 
@@ -109,7 +109,7 @@ Coktel's productions were mostly European: MobyGames notes that none of its Toma
 
 ## References
 
-[^ref-1]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — founded 1984 by Oskian; best known for educational and adventure games; Tomahawk "only a label … to publish simulation and erotic games"; Tomahawk publishing of Sierra games; Urban Runner failure and turn to education (1996); CUC Software; sold to Mindscape October 2005; brand retained "until closing in 2011"; Tramis and Gilhodes
+[^ref-1]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — founded 1984 by Oskian; best known for educational and adventure games; Tomahawk "only a label … to publish simulation and erotic games"; says Coktel published Sierra's games through Tomahawk (Wikipedia's claim; 1993 French magazine credits name Sierra as publisher and Ubi Soft as distributor); Urban Runner failure and turn to education (1996); CUC Software; sold to Mindscape October 2005; brand retained "until closing in 2011"; Tramis and Gilhodes
 [^ref-2]: [MobyGames — Coktel Vision (Wayback, February 2023)](https://web.archive.org/web/20230228201255/https://www.mobygames.com/company/1127/coktel-vision/) — company 1127; game credits; Sierra "used the former Tomahawk distribution structure to build its own European distribution network"
 [^ref-3]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — number of "i"s indicates the number of controllable characters; Gobliiins 4 (2009, Pollene), Gobliiins 5 (2023) and GOBLiiNS6 (2026), the last two built in Adventure Game Studio
 [^ref-4]: [The Digital Antiquarian — The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) — "On October 29, 1993, they bought the French developer and publisher Coktel Vision"; "Coktel had been around since 1985"
@@ -137,3 +137,10 @@ Coktel's productions were mostly European: MobyGames notes that none of its Toma
 [^ref-32]: [MobyGames — Geisha (Wayback)](https://web.archive.org/web/20260114125142/https://www.mobygames.com/game/3844/geisha/) — 1990; DOS credits: Authoress, Muriel Tramis
 [^ref-33]: [MobyGames — A.G.E. (Wayback)](https://web.archive.org/web/20250902063819/https://www.mobygames.com/game/4570/age/) — 1991; DOS credits: Conception, François Nédélec, Frédéric Chauvelot
 [^ref-34]: [MobyGames — E.S.S Mega (Wayback)](https://web.archive.org/web/20260117050215/https://www.mobygames.com/game/7733/ess-mega/) — 1991; DOS credits: Design, Roland Oskian, François Nédélec
+[^ref-35]: [Tilt n°103 (June 1992)](https://archive.org/details/Tilt103) — *Fascination* CD-ROM: "Tomahawk, distribué par Euro-CD"
+[^ref-36]: [Atari Mania — Tomahawk](https://www.atarimania.com/machines/atari-st?publisher=1966) — Atari ST catalogue: *Emmanuelle*, *Geisha* and *Legend of Djel* "[Re-release] Tomahawk 1993"
+[^ref-37]: [Tilt n°111 (February 1993)](https://archive.org/details/Tilt111) — *The Incredible Machine*: "Editeur : Sierra; Distributeur : Ubi Soft"
+[^ref-38]: [Tilt n°114 (May 1993)](https://archive.org/details/Tilt114) — *EcoQuest 2*: "Editeur : Sierra On-Line / Distributeur : Ubi Soft"
+[^ref-39]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) — *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft."
+[^ref-40]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) — *King's Quest VI*: "Editeur: Sierra / Distributeur: Ubi Soft"
+[^ref-41]: [MobyGames — E.S.S Mega release info (Wayback, July 2020)](https://web.archive.org/web/20200727115730/https://www.mobygames.com/game/ess-mega/release-info) — DOS: "Published by Tomahawk … Country United States Release Date 1991"

@@ -21,7 +21,7 @@ For detailed information about the studio's development history, see [[Coktel Vi
 
 ## Sierra Connection
 
-As part of the deal, Sierra published Coktel's French titles worldwide, while Coktel localised Sierra's games and published them through its own Tomahawk label.[^ref-1] Sierra On-Line also published the Gobliiins series, and when Sierra became involved with the third game, Goblins 3 was renamed Goblins Quest 3 to align it with Sierra's King's Quest, Police Quest and Space Quest series.[^ref-7][^ref-3] Sierra published Goblins Quest 3 in the United States in March 1994.[^ref-24]
+According to Wikipedia, as part of the deal Sierra published Coktel's French titles worldwide, while Coktel localised Sierra's games and published them through its own Tomahawk label.[^ref-1] French magazines of 1993 do not bear that out: *Tilt* credited Sierra's French releases to Sierra as publisher, with Ubi Soft as distributor.[^ref-25][^ref-26][^ref-27][^ref-28] Sierra On-Line also published the Gobliiins series, and when Sierra became involved with the third game, Goblins 3 was renamed Goblins Quest 3 to align it with Sierra's King's Quest, Police Quest and Space Quest series.[^ref-7][^ref-3] Sierra published Goblins Quest 3 in the United States in March 1994.[^ref-24]
 
 In February 1996 CUC International agreed to buy Sierra, and the purchase was completed on 24 July 1996; Coktel became part of CUC's software branch.[^ref-18][^ref-22][^ref-1] That branch was sold to Havas, by then a subsidiary of Vivendi, in a deal announced in November 1998 and completed on 12 January 1999.[^ref-20][^ref-21][^ref-23] After Urban Runner became a commercial failure in 1996, Coktel turned from adventure games to educational titles, focusing on the European market.[^ref-1]
 
@@ -38,7 +38,7 @@ Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 
 - **Developer Page:** [[Coktel Vision|Coktel Vision]]
 - **Parent Company:** [[Publishers/Sierra On-Line|Sierra On-Line]]
-- **Publishing Label:** [[Tomahawk|Tomahawk]], Coktel's own label for its simulation and erotic games, later also used for Sierra's localised games[^ref-1]
+- **Publishing Label:** [[Tomahawk|Tomahawk]], Coktel's own label for its simulation and erotic games; Wikipedia says it was later also used for Sierra's localised games, but 1993 French magazines credit those to Sierra as publisher and Ubi Soft as distributor[^ref-1][^ref-25][^ref-28]
 
 ## References
 
@@ -57,3 +57,7 @@ Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 [^ref-22]: [CUC International - Form 8-K, filed 5 August 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000251.txt) - Period of report 24 July 1996; CUC "consummated a merger" in which its subsidiary was merged into Sierra On-Line, Sierra surviving as a wholly owned subsidiary
 [^ref-23]: [Wikipedia - Havas](https://en.wikipedia.org/wiki/Havas) - Compagnie Générale des Eaux, renamed Vivendi in 1998, bought a third of Havas in February 1997 and the remainder in March 1998
 [^ref-24]: [MobyGames - Goblins Quest 3](https://www.mobygames.com/game/2870/goblins-quest-3/) - DOS releases (read via the MobyGames API): Sierra On-Line, Inc. publisher in the United States (18 March 1994) and UK; international title "Goblins 3"
+[^ref-25]: [Tilt n°111 (February 1993)](https://archive.org/details/Tilt111) - *The Incredible Machine* review: "Editeur : Sierra; Distributeur : Ubi Soft"; *Front Page Sports Football*: "Editeur : Sierra/Dynamix ; Distributeur : Ubi Soft"
+[^ref-26]: [Tilt n°114 (May 1993)](https://archive.org/details/Tilt114) - *EcoQuest 2* review: "Editeur : Sierra On-Line / Distributeur : Ubi Soft"
+[^ref-27]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) - *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft."
+[^ref-28]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) - *King's Quest VI* listing: "Editeur: Sierra / Distributeur: Ubi Soft"
