@@ -10,7 +10,7 @@ series: Standalone
 engine: Applesoft BASIC
 protagonist: Unnamed male protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Softporn Adventure is Chuck Benton's 1981 adult-oriented comedy text adventure,
   published by On-Line Systems as Sierra's only non-graphic game and later remade as Leisure
   Suit Larry in the Land of the Lounge Lizards.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, standalone]
 ---
 # Softporn Adventure
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ Benton self-published the game under his own company name, Blue Sky Software. He
 Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate—it temporarily doubled On-Line's sales and caused work to halt at the company office as employees became absorbed in playing it.[^ref-36] By the time of Time's October 1981 article, "about 4,000 copies" had been sold,[^ref-47] and Benton put lifetime sales "past the 50,000 mark."[^ref-5][^ref-36]
 
 **Development Credits:**[^ref-2]
-- **Designer/Programmer:** Chuck Benton
+- **Designer/Programmer:** [[Chuck Benton]]
 - **Publisher:** On-Line Systems ([[Ken Williams]])
 - **DOS Port (1991):** Gary Thompson[^ref-3]
 

@@ -10,7 +10,7 @@ series: N/A
 engine: Machine Language
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is a 1984 educational mathematics game published
   by Sierra On-Line and developed by Sydney Development Corp., starring Spook from
@@ -19,7 +19,7 @@ tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -157,7 +157,7 @@ The MobyGames reviewer complained that the game "doesn't let you advance a floor
 |---------|------|----------|-------|
 | 1.0 | 1984 | ColecoVision | Cartridge[^ref-22][^ref-4] |
 | 1.0 | 1984 | Commodore 64 | Floppy disk; ported by Sigma Development Group[^ref-22][^ref-21] |
-| 1.0 | 1984 | Apple II | 48K disk; programmed by Chuck Benton[^ref-22][^ref-23][^ref-26] |
+| 1.0 | 1984 | Apple II | 48K disk; programmed by [[Chuck Benton]][^ref-22][^ref-23][^ref-26] |
 
 Note: PriceCharting lists a release date of January 1, 1983 for the ColecoVision version. MobyGames, Sierra Chest, and IGDB all give 1984, and the packaging is copyrighted 1984.[^ref-6][^ref-2][^ref-19][^ref-16][^ref-23]
 

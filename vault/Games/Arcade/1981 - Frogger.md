@@ -126,7 +126,7 @@ Frogger was Sierra's first licensed game. Its Atari programmer John Harris loved
 
 Harris started on the Atari 400/800 version while Williams assigned Olaf Lubeck to the Apple II[^ref-32]. Two months in, with the port nearly finished, Harris took his software to a software expo in San Diego, and nearly everything he had written was stolen there, including the near-complete Frogger. He had to write the game a second time, and the Atari 8-bit disk and cassette versions finally appeared in late 1982 under Sierra's short-lived SierraVision label[^ref-32]. Frogger was the last game Harris made for Sierra before he left for Synapse Software[^ref-37].
 
-Lubeck's Apple II version followed in 1983, and he also produced the IBM PC booter version that year[^ref-32]. Chuck Benton wrote the Commodore 64 version, released on disk and tape in 1983[^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
+Lubeck's Apple II version followed in 1983, and he also produced the IBM PC booter version that year[^ref-32]. [[Chuck Benton]] wrote the Commodore 64 version, released on disk and tape in 1983[^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
 
 ### Technical Achievements
 

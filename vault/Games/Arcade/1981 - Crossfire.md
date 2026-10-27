@@ -10,7 +10,7 @@ series: N/A
 engine: Machine Language
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Crossfire is a multidirectional arcade shooter by Jay Sullivan, published
   by On-Line Systems (later Sierra On-Line) for the Apple II in 1981 and ported to
   the Atari 8-bit, VIC-20, Commodore 64, IBM PC and IBM PCjr.
@@ -18,7 +18,7 @@ tags: [1980s, n-a, shooter, sierra]
 ---
 # Crossfire
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ According to Retro365, Sullivan co-founded the Calsoft mail-order software busin
 **Development Credits:**[^ref-2][^ref-8]
 - **Designer/Programmer (Apple II):** Jay Sullivan
 - **Atari 8-bit Port:** Chris Iden
-- **Commodore 64 Port:** Chuck Benton (who also wrote *Softporn Adventure*)[^ref-2]
+- **Commodore 64 Port:** [[Chuck Benton]] (who also wrote *Softporn Adventure*)[^ref-2]
 - **IBM PC Port:** Jay Sullivan and Frank Randak[^ref-8]
 - **VIC-20 Port:** "Gordon" (full name not given)[^ref-4]
 - **Cover Artwork:** Chris Dellorco[^ref-2]

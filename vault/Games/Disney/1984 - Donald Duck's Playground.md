@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Al Lowe]
 description: Donald Duck's Playground is a 1984 educational game designed by Al Lowe and
   published by Sierra On-Line under license from Walt Disney, in which Donald works
@@ -19,7 +19,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -107,7 +107,7 @@ The FRGCB blog describes it as "the first exclusively C64-released Disney-licenc
 
 ### Production
 
-Sources disagree about who programmed the C64 original. Lemon64 lists Al Lowe as coder and FRGCB states: "Written by Al Lowe for the Commodore 64."[^ref-14][^ref-6] MobyGames' C64 credits instead list Chuck Benton for the "Commodore 64 program", with Al Lowe credited for music.[^ref-26] According to FRGCB, Lowe told Hardcore Gaming 101 that he wrote the music very quickly because there was no budget for another person to do it.[^ref-6] He transcribed the music in assembly and implemented it in his own sound driver, which drives the Commodore 64's SID chip.[^ref-20]
+Sources disagree about who programmed the C64 original. Lemon64 lists Al Lowe as coder and FRGCB states: "Written by Al Lowe for the Commodore 64."[^ref-14][^ref-6] MobyGames' C64 credits instead list [[Chuck Benton]] for the "Commodore 64 program", with Al Lowe credited for music.[^ref-26] According to FRGCB, Lowe told Hardcore Gaming 101 that he wrote the music very quickly because there was no budget for another person to do it.[^ref-6] He transcribed the music in assembly and implemented it in his own sound driver, which drives the Commodore 64's SID chip.[^ref-20]
 
 C64-Wiki notes that the game slips in small lessons, such as Donald looking left and right before crossing the rails.[^ref-2] *The Rainbow* praised the no-lose design as "an excellent way to present an educational-type game as it avoids causing a great deal of frustration in the user."[^ref-25]
 

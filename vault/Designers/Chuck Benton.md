@@ -4,16 +4,16 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Softporn Adventure", "BC's Quest for Tires", "Frogger", "Leisure Suit Larry in the Land of the Lounge Lizards"]
-companies: ["Blue Sky Software", "Sierra On-Line", "Avant-Garde Creations", "Technology Systems Inc."]
-last_updated: "2026-10-15"
+companies: ["Blue Sky Software", "Sierra On-Line", "Technology Systems Inc."]
+last_updated: "2026-10-26"
 ---
 # Chuck Benton
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Chuck Benton (credited as Charles Benton on some releases) is an American programmer from Massachusetts who wrote *Softporn Adventure* (1981), the text adventure that Sierra later remade as *Leisure Suit Larry in the Land of the Lounge Lizards*.[^ref-5][^ref-1][^ref-19] Sierra (then On-Line Systems) published the game, which the Sierra fan wiki notes is the only game Sierra published without graphics.[^ref-2] Benton said his goal was "to make every space have multiple features and ideally to make the game lean toward being an interactive story as opposed to a puzzle."[^ref-3]
+Chuck Benton (listed as Charles Benton in some databases) is an American programmer from Massachusetts who wrote *Softporn Adventure* (1981), the text adventure that Sierra later remade as *Leisure Suit Larry in the Land of the Lounge Lizards*.[^ref-5][^ref-1][^ref-19] Sierra (then On-Line Systems) published the game;[^ref-2] Benton recalled that "Online Systems was always a graphics based game company, with my game being the only text adventure ever in their line up."[^ref-3] Benton said his goal was "to make every space have multiple features and ideally to make the game lean toward being an interactive story as opposed to a puzzle."[^ref-3]
 
 He then worked as a contract programmer for Sierra in the early 1980s, porting and programming Frogger, Crossfire, BC's Quest for Tires, Donald Duck's Playground and other titles.[^ref-4][^ref-3] He was never a Sierra employee: "At the time, I was an independent contractor and worked out of Maine, and every couple of months I'd fly out and deliver the next product."[^ref-3] He later founded Technology Systems, Inc. (TSI), which worked mainly on simulation and networking projects for the military.[^ref-16][^ref-3]
 
@@ -21,7 +21,7 @@ He then worked as a contract programmer for Sierra in the early 1980s, porting a
 
 ### Early Career
 
-Benton grew up in central Massachusetts.[^ref-15][^ref-5] By his own account he left college after six weeks, then spent two years studying aviation at the University of Illinois, where he got his pilot's license.[^ref-3][^ref-15] He had done "a little bit of coding on an IBM 360 back in my failed college attempt," and later worked as a field engineer on card-reader equipment.[^ref-3] He then worked for a flight simulator company for two and a half years.[^ref-3]
+Benton grew up in central Massachusetts.[^ref-15][^ref-5] By his own account he left college after six weeks, and later spent two years studying aviation at the University of Illinois, where he got his pilot's license.[^ref-3][^ref-15] He had done "a little bit of coding on an IBM 360 back in my failed college attempt," and later worked as a field engineer on card-reader equipment.[^ref-3] He then worked for a flight simulator company for two and a half years.[^ref-3]
 
 There, he said, "I talked the company into buying me an Apple, saying I'd write software that would automate all the paperwork that I had to manage."[^ref-3][^ref-17] He wrote *Softporn Adventure* on it "as an exercise in learning how to do coding, database management and so forth," and explained the premise: "Being a single 27 year old male, I decided to make the objective to get laid three times."[^ref-3] His first text adventure had been Scott Adams's *Pirate Adventure*, and he followed "Scott's screen layout and the two word parsing."[^ref-3] The game was first called "Super Stud Adventure" and was soon renamed; he sold it under his own label, Blue Sky Software.[^ref-5]
 
@@ -36,11 +36,12 @@ Benton met Ken Williams at a trade show where he was selling *Softporn Adventure
 His contract work for Sierra included:
 
 - **Frogger** (1982–1983): MobyGames credits him on the Atari 8-bit (1982) and Commodore 64 (1983) versions.[^ref-4] Retro365 describes his Atari work as an upgrade of John Harris's version that added a two-player option, released in 1983.[^ref-18] Lemon64 credits "Charles Benton" as creator and musician of the C64 version.[^ref-20]
-- **BC's Quest for Tires** (1983–1984): Programmer of the Atari 8-bit and Commodore 64 versions; Lemon64 lists "Charles Benton" as coder of the C64 release.[^ref-4][^ref-21] He told The New Yorker, "I caught up with their programmers and so began designing the second half of the game myself, even though it wasn't part of the contract."[^ref-17] Get Lamp's notes add that it was meant to be a port of the ColecoVision version and that he ended up composing the latter part of the game himself.[^ref-5] He said it "won some magazine's 'bug of the month' award," because at one spot "your character would actually land in the code as opposed to on the screen."[^ref-3]
+- **BC's Quest for Tires** (1983–1984): Programmer of the Atari 8-bit and Commodore 64 versions; Lemon64 lists "Charles Benton" as coder of the C64 release.[^ref-4][^ref-21] He told The New Yorker, "I caught up with their programmers and so began designing the second half of the game myself, even though it wasn't part of the contract."[^ref-17] Get Lamp's notes add that it was meant to be a port of the ColecoVision version and that he ended up composing the latter part of the game himself.[^ref-5] Electronic Games' May 1984 review of the Atari version credited "Programmer Chuck Benton."[^ref-25] He said it "won some magazine's 'bug of the month' award," because at one spot "your character would actually land in the code as opposed to on the screen."[^ref-3]
 - **Crossfire** (1983): Programmer of the Commodore 64 version, for which Lemon64 also credits him with the music.[^ref-4][^ref-19] Benton recalled, "I did the Commodore 64 and Atari versions I believe," adding that the game "requires a trance-like concentration."[^ref-3]
 - **Wizard of Id's WizType and WizMath** (1984): Programmer of both Apple II titles.[^ref-4]
-- **Donald Duck's Playground** (1984): MobyGames credits him with the Commodore 64 program; Benton himself said, "I think it was for the Atari and the Apple, but I'm not sure – it's over 40 years ago."[^ref-4][^ref-3] He called it the last game he did for Sierra, recalling "a panel of seven Disney child psychologists" and "about fifteen people assigned to me in total."[^ref-3]
-- **The American Challenge: A Sailing Simulation** (1986): IBM programming.[^ref-4] Because the PC lacked a math co-processor, he "ended up having to write a floating point mathematics library from scratch."[^ref-3]
+- **Donald Duck's Playground** (1984): MobyGames credits him with the Commodore 64 program; Benton himself said, "I think it was for the Atari and the Apple, but I'm not sure – it's over 40 years ago."[^ref-4][^ref-3] Lemon64 and the FRGCB blog instead credit Al Lowe as the C64 coder.[^ref-22][^ref-23] Benton called it the last game he did for Sierra, recalling "a panel of seven Disney child psychologists" and "about fifteen people assigned to me in total."[^ref-3]
+
+Outside Sierra, MobyGames credits him with the IBM programming on **The American Challenge: A Sailing Simulation** (1986), which Mindscape published and Tom Snyder Productions developed.[^ref-4][^ref-24] He recalled working on "a sail boat simulator originally done on the Apple II"; because the PC lacked a math co-processor, he "ended up having to write a floating point mathematics library from scratch."[^ref-3]
 
 By Benton's account, *Softporn* "had run its course and was discontinued" three years after release; Wikipedia says it was withdrawn after a few months.[^ref-3][^ref-1] Ken Williams then asked to license the story to create Leisure Suit Larry, offering "a one percent royalty on it or … a check for 5000 dollars."[^ref-3] Benton took the check because of a tax bill of about $4,000, and later reflected, "there were years where it was doing like 35 million a year, so I could have been living on a boat in the Caribbean if I'd taken the one percent."[^ref-3]
 
@@ -97,17 +98,20 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 - **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Atari 8-bit, Role: Writer (designer, programmer)
 - 1982 — Jump Jet — Apple II — Author (distributed by Avant-Garde Creations)
 
-### Sierra On-Line Contract Work (1982–1986)
+### Sierra On-Line Contract Work (1982–1984)
 
-- 1982 — Frogger — Atari 8-bit — Programmer (upgrade of John Harris's version)
-- 1983 — Frogger — Commodore 64 — Programmer, Music
+- **1982–83** — [[1981 - Frogger|Frogger]] — Platform: Atari 8-bit, Role: Programmer (upgrade of John Harris's version; MobyGames dates the credit 1982, Retro365 dates the two-player upgrade 1983)
+- **1983** — [[1981 - Frogger|Frogger]] — Platform: Commodore 64, Role: Programmer, Music
 - **1983** — [[1981 - Crossfire|Crossfire]] — Platform: Commodore 64, Role: Programmer, Music
 - **1983** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Atari 8-bit, Role: Programmer
 - **1984** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Commodore 64, Role: Programmer
 - **1984** — [[1984 - Wizard of Id's WizType|Wizard of Id's WizType]] — Platform: Apple II, Role: Programmer
 - **1984** — [[1984 - Wizard of Id's WizMath|Wizard of Id's WizMath]] — Platform: Apple II, Role: Programmer
 - **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Platform: Commodore 64 (per MobyGames; Benton recalls Atari and Apple), Role: Programmer
-- 1986 — The American Challenge: A Sailing Simulation — DOS — IBM Programming
+
+### Other Contract Work
+
+- 1986 — The American Challenge: A Sailing Simulation — DOS — IBM Programming (Mindscape / Tom Snyder Productions)[^ref-24]
 
 ### Design Credits
 
@@ -134,3 +138,7 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 [^ref-19]: [Lemon64 - Crossfire (Wayback, January 2026)](http://web.archive.org/web/20260116021045/https://www.lemon64.com/game/crossfire-sierra-on-line) — C64, 1983, Sierra On-Line; Creator Charles Benton, Jay Sullivan; Musician Charles Benton
 [^ref-20]: [Lemon64 - Frogger (Wayback, January 2025)](http://web.archive.org/web/20250126195800/https://www.lemon64.com/game/frogger) — C64, 1983, Sierra On-Line; Creator and Musician Charles Benton
 [^ref-21]: [Lemon64 - B.C.'s Quest for Tires (Wayback, November 2025)](http://web.archive.org/web/20251121212014/https://www.lemon64.com/game/bcs-quest-for-tires) — C64, 1984; Coder Charles Benton
+[^ref-22]: [Lemon64 - Donald Duck's Playground](https://www.lemon64.com/game/donald-ducks-playground) — C64, Sierra On-Line (US); Coder: Al Lowe; Musician: Al Lowe
+[^ref-23]: [FRGCB - Donald Duck's Playground (US Gold/Sierra On-Line, 1984) (April 2014)](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) — "Written by Al Lowe for the Commodore 64"
+[^ref-24]: [MobyGames - The American Challenge: A Sailing Simulation](https://www.mobygames.com/game/1467/the-american-challenge-a-sailing-simulation/) — read via the MobyGames API: DOS 1986-05; published by Mindscape, developed by Tom Snyder Productions
+[^ref-25]: [Electronic Games, Vol. 2 No. 12 (May 1984), Internet Archive scan](https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-05_Reese_Communications_US) — review of B.C.'s Quest for Tires (Sierra On-Line, Atari computers): "Programmer Chuck Benton has translated all of the comic strip's considerable charm"

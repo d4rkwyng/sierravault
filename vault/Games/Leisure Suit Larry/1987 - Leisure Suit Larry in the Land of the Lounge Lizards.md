@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: AGI
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '**Leisure Suit Larry in the Land of the Lounge Lizards** stands as one
   of Sierra On-Line''s most iconic and controversial adventure games. Released in
   1987,...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ Despite initial commercial struggles, with only 4,000 copies sold in its first m
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
-> **Designer:** [[Al Lowe]], [[Mark Crowe]], Chuck Benton (Softporn Adventure, credited)[^ref-6]
+> **Designer:** [[Al Lowe]], [[Mark Crowe]], [[Chuck Benton]] (Softporn Adventure, credited)[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-8]
 > **Platforms:** MS-DOS, Apple II (1987); Atari ST, Macintosh, Amiga, Apple IIGS, TRS-80 CoCo (1988); Windows (2021 re-release)[^ref-6]
 > **Release Year:** 1987 (June 4, MS-DOS)[^ref-6]
