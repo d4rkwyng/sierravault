@@ -128,7 +128,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [ScummVM Release Notes](https://www.scummvm.org/news/20260131/) · [GamingOnLinux Coverage](https://www.gamingonlinux.com/2026/02/scummvm-v2026-1-0-is-a-huge-new-release-with-tons-of-new-supported-games/)
 
 > [!example] Infamous Adventures — KQ4 Remake Development Update
-> **January 11, 2026** — The [[Infamous Adventures]] / [[Infamous Quests]] team posted a Patreon "Small Development Update" about the [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]]. The post is patron-only, so SierraVault cannot verify its contents publicly; it reportedly said the remake had resumed active development.
+> **January 11, 2026** — A "Small Development Update" was posted on the [[Infamous Quests]] Patreon about [[Infamous Adventures]]' [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]]. The post is patron-only, so SierraVault cannot verify its contents publicly; it reportedly said the remake had resumed active development.
 > 
 > [Infamous Quests Patreon (Jan 11, 2026)](https://www.patreon.com/posts/small-update-147963671)
 
