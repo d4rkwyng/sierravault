@@ -7,10 +7,10 @@ publisher: Sierra
 genre: Vehicle Simulation
 platforms: [Windows 95]
 series: Aces
-engine: Dynamix 3Space
+engine: Unconfirmed
 protagonist: German U-boat Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Command Aces of the Deep is an enhanced Windows version of Dynamix's
   acclaimed World War II submarine simulation, originally released as "Aces of the
   Deep"...
@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The enhanced "Command" version, released for Windows 95 in 1995, added new textu
 > **Developer:** [[Dynamix]][^ref-7]
 > **Designer:** Alan Roberts, Dennis A. Kilgore, Langdon Beeck, Mike Jones[^ref-22]
 > **Publisher:** Sierra[^ref-7]
-> **Engine:** Dynamix 3Space[^ref-22]
+> **Engine:** Unconfirmed; Sierra Chest groups the game under Unknown/unnamed engines[^ref-32]
 > **Platforms:** Windows 95[^ref-7][^ref-18]
 > **Release Year:** 1995
 > **Series:** Aces
@@ -146,3 +146,4 @@ Command Aces of the Deep remains a reference point for the submarine simulation 
 [^ref-25]: [Old-Games.com - Aces of the Deep](https://www.old-games.com/download/4140/aces-of-the-deep) – Submarine rooms, ten realism options, reputation
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – DOS Aces of the Deep incompatibility with Sound Blaster Live
 [^ref-31]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Sierra On-Line bought Dynamix in 1990
+[^ref-32]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Aces of the Deep", its Expansion Disk and "Command: Aces of the Deep" among games with an unknown or unnamed engine

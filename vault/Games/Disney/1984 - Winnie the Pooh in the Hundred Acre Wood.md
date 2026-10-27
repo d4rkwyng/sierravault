@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Adventure
 platforms: [Apple II, C64, DOS, Atari ST, Amiga, TRS-80 Color Computer]
 series: Disney Edutainment Series
-engine: Troll's Tale Engine
+engine: Pre-AGI
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
   game developed by Sierra On-Line in collaboration with Walt Disney Computer Software,...'
 tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Contemporary reviewers were positive: *Apple User* wrote that, unlike licensed g
 > **Developer:** [[Sierra On-Line]] / Walt [[Disney]] Computer Software[^ref-1]
 > **Designer:** [[Al Lowe]][^ref-1]
 > **Publisher:** Sierra On-Line (NA), U.S. Gold (EU)[^ref-1]
-> **Engine:** Troll's Tale Engine[^ref-3]
+> **Engine:** Pre-AGI[^ref-31] (the engine Al Lowe built for *Troll's Tale*[^ref-3])
 > **Platforms:** Apple II, Commodore 64, MS-DOS, Atari ST, Amiga, TRS-80 Color Computer[^ref-1]
 > **Release Year:** 1984
 > **Series:** Disney Edutainment Series

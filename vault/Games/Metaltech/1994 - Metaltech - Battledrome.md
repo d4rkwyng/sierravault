@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Vehicle Simulation
 platforms: [DOS]
 series: Metaltech
-engine: 3Space
+engine: Unconfirmed
 protagonist: Player-created HERC pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: 'Metaltech: Battledrome is a mecha-style combat simulation game developed
   by Dynamix and published by Sierra On-Line in 1994 for DOS, built around one-on-one
   HERC arena duels over modem or network.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, metaltech, sierra, simulation]
 ---
 # Metaltech: Battledrome
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,13 +26,13 @@ Metaltech: Battledrome is a mecha-style combat simulation game developed by [[Dy
 
 The game was released as a companion title to Metaltech: Earthsiege, sharing the same universe and roughly similar gaming mechanics but offering a distinctly different experience focused on arena dueling rather than mission-based combat[^ref-4]. While Earthsiege provided a more traditional single-player campaign, Battledrome was designed from the outset primarily as a two-player head-to-head experience, leveraging the emerging technologies of modem and network play to deliver competitive mech combat[^ref-5]. OldGames.sk notes that it "was apparently never designed to satisfy single-player urges"[^ref-5], and Computer Gaming World's verdict box listed "a weak single player mode" among its cons[^ref-26].
 
-Featuring Dynamix's proprietary 3Space animation engine, the game offered fully three-dimensional graphics with textured in-game items and rudimentary physics[^ref-17]. Players could customize their cockpit displays, deploy controllable remote camera probes, and choose from ten customizable HERC chassis equipped with a broad weapons arsenal[^ref-8]. The game's marketing emphasized its intense robotic combat with the tagline "Thundering robotic combat for those who have the guts!"[^ref-9]
+Advertised as using Dynamix's 3Space animation engine,[^ref-8] the game offered fully three-dimensional graphics with textured in-game items and rudimentary physics[^ref-17]. Players could customize their cockpit displays, deploy controllable remote camera probes, and choose from ten customizable HERC chassis equipped with a broad weapons arsenal[^ref-8]. The game's marketing emphasized its intense robotic combat with the tagline "Thundering robotic combat for those who have the guts!"[^ref-9]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** [[David Selle]], Tim Gift[^ref-4]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** 3Space[^ref-8]
+> **Engine:** Unconfirmed: a retail listing advertises "3Space animation"[^ref-8], but Sierra Chest groups the game under Unknown/unnamed engines[^ref-27]
 > **Platforms:** DOS[^ref-1]
 > **Release Year:** 1994
 > **Series:** Metaltech
@@ -113,7 +113,7 @@ The design vision centered on gladiatorial mech combat, drawing inspiration from
 
 Development was led by designers David Selle and Tim Gift, with Tim Gift also serving as lead programmer[^ref-4]. Mark Crowe served as producer and art director[^ref-17]. The writing team included Neal Hallford, David Selle, Gregory Rucka, and Kurt Weber, who crafted the game's universe and flavor text[^ref-17].
 
-The game utilized Dynamix's 3Space engine[^ref-8], with fully three-dimensional graphics, textured in-game items and rudimentary physics[^ref-17]. Christopher Stevens and Timothy Steven Clarke composed the game's soundtrack, creating 17 MIDI tracks that accompanied the mech battles[^ref-20].
+Its retail listing advertises Dynamix's 3Space engine[^ref-8]; the game has fully three-dimensional graphics, textured in-game items and rudimentary physics[^ref-17]. Christopher Stevens and Timothy Steven Clarke composed the game's soundtrack, creating 17 MIDI tracks that accompanied the mech battles[^ref-20].
 
 One cause for criticism was the game's high hardware requirements for typical PCs of the time[^ref-17], though OldGames.sk notes it "would run respectably on a 486-33"[^ref-5].
 
@@ -128,7 +128,7 @@ One cause for criticism was the game's high hardware requirements for typical PC
 
 ### Technical Achievements
 
-The 3Space engine powering Battledrome featured textured in-game items and rudimentary physics[^ref-17]. The customizable cockpit display system allowed players to arrange their instruments for optimal visibility during combat[^ref-8].
+Battledrome's engine featured textured in-game items and rudimentary physics[^ref-17]. The customizable cockpit display system allowed players to arrange their instruments for optimal visibility during combat[^ref-8].
 
 The game supported both modem and IPX network play[^ref-13]. The Collection Chamber notes that its LAN and modem modes were "two-player only experiences due to the limited technology of the time," that it "performed quite well with a modest connection," and that it became "the precursor to Activision's NetMech"[^ref-3].
 
@@ -272,3 +272,4 @@ From a modern perspective, The Collection Chamber places it in the history of on
 [^ref-23]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Metaltech_Battledrome_1994) – preservation, recommended hardware
 [^ref-25]: [DOS Games Archive – Demo Download](https://www.dosgamesarchive.com/download/metaltech-battledrome) – demo details, executable information
 [^ref-26]: [Computer Gaming World #127 (February 1995) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_127) – Jeff James review, pp. 112–116; verdict box; multiplayer table (1–2 players, IPX)
+[^ref-27]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Metaltech: Battledrome" among games with an unknown or unnamed engine

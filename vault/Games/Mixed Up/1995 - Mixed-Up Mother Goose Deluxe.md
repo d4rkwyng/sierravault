@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Educational
 platforms: [Windows 3.x, Windows 95, Macintosh]
 series: Mixed-Up Mother Goose
-engine: SCI
+engine: SCI2.1
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: Mixed-Up Mother Goose Deluxe is Sierra On-Line's 1995 Windows and Macintosh remake of Roberta Williams' nursery-rhyme adventure for pre-school children, with new graphics and a soundtrack that sets each rhyme in a different musical style.
 composer: [Guy Whitmore]
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Sierra Chest counts it as the fourth installment of the game, following the 1990
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Design/Writing:** [[Roberta Williams]][^ref-16]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** SCI[^ref-1][^ref-23]
+> **Engine:** SCI2.1[^ref-23][^ref-24]
 > **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-4]
 > **Release Year:** 1995[^ref-1]
 > **Series:** Mixed-Up Mother Goose
@@ -103,7 +103,7 @@ New voice and singing talent is credited alongside "all the character voices fro
 
 | Feature | Specification |
 |---------|--------------|
-| Engine | SCI; ScummVM's detection notes report interpreter version 2.100.002[^ref-23] |
+| Engine | SCI2.1; ScummVM's detection notes report interpreter version 2.100.002[^ref-23], which the ScummVM wiki lists under SCI21 (middle) with a 1995-03-27 date[^ref-24] |
 | Media | CD-ROM[^ref-1] |
 | Input | Mouse[^ref-1] |
 | Languages | English and Spanish; the European release adds French and German[^ref-11][^ref-9] |
@@ -151,3 +151,4 @@ ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excell
 [^ref-19]: [Amazon - Mixed-up Mother Goose Deluxe](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – Awards listed on the product page
 [^ref-22]: [ScummVM - Compatibility: Mixed-Up Mother Goose Deluxe](https://www.scummvm.org/compatibility/DEV/sci:mothergoosehires/) – Support level and platforms
 [^ref-23]: [ScummVM - SCI detection tables](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Mixed-Up Mother Goose Deluxe entries, interpreter version
+[^ref-24]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI21 (middle) table: "Mixed-Up Mother Goose Deluxe (Windows interpreter only)", 2.100.002, 1995-03-27

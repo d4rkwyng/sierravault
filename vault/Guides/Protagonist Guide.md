@@ -1,11 +1,11 @@
 ---
 title: "Protagonist Guide"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Protagonist Guide
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 Sierra's adventure games are defined by their memorable protagonists. This guide covers the heroes and player roles of Sierra's series, including adventure, simulation and strategy games, later sequels by other studios and Sierra alumni, and fan games. Protagonist details are sourced on each linked game page; the footnotes below cover the points this guide states directly.
 
@@ -52,7 +52,7 @@ From brave knight to wise king. Graham is the hero of King's Quest I, II and V a
 
 - **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]]
 - **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]]
-- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I VGA]]
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI remake]] (SCI01, 16-colour EGA)[^ref-22]
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]
 - **2015** — [[2015 - King's Quest|King's Quest (2015)]]
 
@@ -334,3 +334,4 @@ Sierra's city-building games feature unnamed rulers managing civilizations.
 [^ref-19]: [MobyGames – Inca II: Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – "You start the game as Atahualpa, El Dorado's spunky and arrogant kid ... you'll have to return to your role as El Dorado"
 [^ref-20]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – "two story campaigns ... The Human campaign puts the player in control of a Martian rebel"; the Cybrid campaign follows the Cybrid invasion
 [^ref-21]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
+[^ref-22]: [SCI Wiki – King's Quest I SCI remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – "it is the only one of the remakes to be made in SCI01's EGA graphics with parser interface"

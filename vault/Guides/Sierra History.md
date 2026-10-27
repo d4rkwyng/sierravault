@@ -112,11 +112,11 @@ The service provided a "land-based" precursor to MMORPGs and internet chat rooms
 
 ---
 
-## 4. The SCI32 Era (1994–1998)
+## 4. The SCI32 Era (1993–1997)
 
 ### Technical Evolution
 
-Sierra transitioned to SCI32 (Windows-native, SVGA) with [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] and [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]], delivering higher-fidelity visuals and full-motion video support.
+SCI32's first interpreter shipped with [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] in November 1993, and the last dated SCI32 build in ScummVM's version list is from May 1997.[^ref-43] Sierra used it for SVGA titles such as [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] and [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]], delivering higher-fidelity visuals and full-motion video support.
 
 ### Ambitious Productions
 
@@ -257,3 +257,4 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-40]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) – "the game shipped on November 24, 1998"
 [^ref-41]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) – SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
 [^ref-42]: [GameSpot – 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) – "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"
+[^ref-43]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI2 table opens with "2.000.000 Gabriel Knight 1.0 1993-11-22"; latest SCI3 date "1997-05-27" (Phantasmagoria II, Japanese release)

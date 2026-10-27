@@ -4,12 +4,12 @@ type: guide
 topic: "Text Parser Interface"
 engines: ["AGI", "SCI0", "SCI1"]
 years_covered: "1984-1991"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # Sierra Parser Commands Guide
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -210,7 +210,7 @@ Later AGI releases also included the AGI version of King's Quest IV (1988), Manh
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] — Notable Parser Feature: Parser with SCI graphics
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I]] — Notable Parser Feature: RPG elements with parser
 
-Other SCI0 parser games with vault pages include [[1988 - Police Quest II - The Vengeance|Police Quest II]] (1988), [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] and the [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|1990 SCI remake of King's Quest I]].
+Other SCI0 parser games with vault pages include [[1988 - Police Quest II - The Vengeance|Police Quest II]] (1988), [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and the [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|1990 SCI remake of King's Quest I]]. [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] (1990) also kept the text parser, but ScummVM's version list places it under SCI1 (EGA), not SCI0.[^ext-scummvm-sgv]
 
 ### Simplified/No Parser (Children's Games)
 
@@ -291,3 +291,4 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ext-ieee-kq1]: [IEEE Spectrum – Meet Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) – King's Quest, "the first animated 3D adventure game"
 [^ext-wikipedia-mh]: [Wikipedia – Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – "Mystery House is the first graphical adventure game"
 [^ext-scummvm-agilist]: [ScummVM Wiki – AGI (Wayback, 2025-01-01)](https://web.archive.org/web/20250101192119/https://wiki.scummvm.org/index.php?title=AGI) – Sierra AGI game list incl. Gold Rush (1988), King's Quest IV (1988), Manhunter (1988), Manhunter 2 (1989)
+[^ext-scummvm-sgv]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II listed in the "SCI1 (ega)" table
