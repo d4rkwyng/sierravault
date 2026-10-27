@@ -9,8 +9,8 @@ platforms: [Windows, PS2]
 series: Adiboo
 engine: RenderWare
 protagonist: Adiboo
-sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+sierra_lineage: Sierra Label (Coktel)
+last_updated: '2026-10-27'
 description: Adiboo and the Energy Thieves is an educational action-adventure game
   released in 2004, developed by Coktel Vision and published by Vivendi Universal
   Games International S.A.
@@ -18,15 +18,15 @@ tags: [2000s, adiboo, educational, sierra]
 ---
 # Adiboo and the Energy Thieves
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Adiboo and the Energy Thieves is an educational action-adventure game released in 2004, developed by [[Coktel Vision]] and published by Vivendi Universal Games International S.A.[^ref-1][^ref-20] The game marks a significant departure for the Adiboo franchise, transitioning the beloved children's character from his traditional 2D educational software roots into a fully 3D action-adventure experience designed for children aged five and up[^ref-1]. The title was released for Windows PC and PlayStation 2[^ref-20][^ref-16].
+Adiboo and the Energy Thieves is an educational action-adventure game released in 2004, developed by [[Coktel Vision]] and published by Vivendi Universal Games International S.A.[^ref-1][^ref-20] It was the second 3D action-adventure in the series, after *Adiboo & Paziral's Secret* (2003)[^ref-21]. Designed for children aged five and up, it mixes a freely explorable 3D hub world with 2D side-scrolling platforming sections and races[^ref-1]. The title was released for Windows PC and PlayStation 2[^ref-20][^ref-16].
 
-The game casts players in the role of Adiboo, a character described by one nostalgic reviewer (writing in French) as "the famous character of our first steps on computers"[^ref-3]. Set on the planet Celesta, the adventure tasks young players with stopping a mysterious robot from stealing the planet's vital natural resources[^ref-4]. Despite being designed as edutainment to "stimulate the minds of a child while also giving them a fun time," the game received mixed reception, with some critics and retrospective reviewers questioning whether it succeeded in either goal[^ref-5].
+The game casts players in the role of Adiboo, a character described by one nostalgic reviewer (writing in French) as "the famous character of our first steps on computers"[^ref-3]. Set on the planet Celesta[^ref-8], the adventure tasks young players with stopping a mysterious robot from stealing the planet's vital natural resources[^ref-4]. Despite being designed as edutainment to "stimulate the minds of a child while also giving them a fun time," the game received mixed reception, with one retrospective writer questioning whether it succeeded in either goal[^ref-5].
 
-Some commentators felt the franchise lost much of its distinctive charm in the move to 3D. One retrospective blogger lamented that "all the creativity, inventiveness, and bizarre art have disappeared, and we're left with an uninspired, terribly modelled copy"[^ref-6]. Nevertheless, the game found its audience among younger players, with one contemporary review noting "the kids loved it"[^ref-7].
+One retrospective blogger felt the franchise lost much of its distinctive charm in the move to 3D, lamenting that "all the creativity, inventiveness, and bizarre art have disappeared, and we're left with an uninspired, terribly modelled copy"[^ref-6]. Nevertheless, the game found its audience among younger players, with one contemporary review noting "the kids loved it"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -37,7 +37,7 @@ Some commentators felt the franchise lost much of its distinctive charm in the m
 > **Release Year:** 2004
 > **Series:** Adiboo
 > **Protagonist:** Adiboo
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
@@ -55,20 +55,20 @@ Adiboo and the Energy Thieves presents a 3D adventure experience where players e
 
 ### Structure and Progression
 
-The game features 14 levels: four platform games, five races and five bosses[^ref-8]. Players progress through the adventure by completing various challenges that combine platforming, exploration, and puzzle-solving elements. The structure includes:
+The game features 14 levels: four platform games, five races and five bosses[^ref-8]. Players progress through the adventure by completing various challenges that combine platforming, racing and exploration of a central hub world[^ref-1]. The structure includes:
 
-- **Platforming Stages:** 3D platforming sequences where players traverse different worlds[^ref-3]
-- **Boss Battles:** 3D combat encounters with unique mechanics[^ref-3]
+- **Platforming Stages:** 2D side-scrolling platforming sections[^ref-1]
+- **Boss Battles:** 3D boss fights[^ref-3]
 - **Time Trial Sequences:** Timed challenges that test player skills[^ref-9]
 - **Multiplayer Mode:** Competitive options for multiple players[^ref-9]
 
-Reported play time varies widely: a GameFAQs user poll (10 votes) puts its length at 13 hours[^ref-2], while HowLongToBeat's polled main-story average is about 1½ hours[^ref-22].
+Reported play time varies widely: a GameFAQs user poll (9 votes, as of October 27, 2026) puts its length at 10 hours[^ref-2], while HowLongToBeat's polled main-story average is about 1½ hours[^ref-22].
 
 ### Puzzles and Mechanics
 
-Rather than featuring traditional combat, Adiboo and the Energy Thieves incorporates what the publisher described as "non-violent 'intelligent' duels"[^ref-8]. This design choice reflects the educational focus of the game, replacing aggressive confrontations with puzzle-based challenges that engage players' problem-solving abilities.
+Rather than featuring traditional combat, Adiboo and the Energy Thieves incorporates what the publisher described as "non-violent 'intelligent' duels"[^ref-8].
 
-The personalized gameplay system represents a key innovation, analysing the child's ability and automatically adapting the difficulty[^ref-8]. This lets both inexperienced children and more confident players enjoy the game[^ref-8].
+The personalized gameplay system analyses the child's ability and automatically adapting the difficulty[^ref-8]. This lets both inexperienced children and more confident players enjoy the game[^ref-8].
 
 ## Reception
 
@@ -84,15 +84,15 @@ TheGamer's Hilton Webster offered a more critical perspective in a retrospective
 
 **Aggregate Scores:**
 - **MobyGames:** 71% (1 critic rating)[^ref-10]
-- **Backloggd:** 2.6/5 (46 ratings)[^ref-11]
-- **GameFAQs:** "Good" (12 user ratings)[^ref-2]
+- **Backloggd:** 2.6/5 (47 ratings, as of October 27, 2026)[^ref-11]
+- **GameFAQs:** "Fair" (11 user ratings, as of October 27, 2026)[^ref-2]
 - **IGN:** Not Rated[^ref-4]
 
 ## Development
 
 ### Origins
 
-Adiboo and the Energy Thieves emerged from Coktel Vision's long-running Adiboo educational software franchise[^ref-12]. The decision to create a full 3D action-adventure represented a significant evolution for the brand, moving beyond the traditional educational software format that had defined earlier entries[^ref-6].
+Adiboo and the Energy Thieves emerged from Coktel Vision's long-running Adiboo educational software franchise[^ref-12]. Like *Adiboo & Paziral's Secret* (2003), which was already a 3D action adventure with racing and platforming[^ref-21], it was built as an action game for young children rather than a traditional educational title[^ref-1].
 
 One retrospective blogger relayed a suggestion, "pointed out to me" rather than documented, that the move to 3D "may have been Sierra, the publisher of the Adiboo series, trying to keep up with the developing world of video games, competing with more popular game titles such as Jak II, The Simpsons: Hit & Run, and Prince of Persia: Sands of Time"[^ref-6]. Release records for this 2004 game credit Vivendi Universal Games International S.A. as publisher[^ref-20].
 
@@ -101,14 +101,14 @@ One retrospective blogger relayed a suggestion, "pointed out to me" rather than 
 Development was handled by Coktel Vision, the French studio founded in 1984 that had become synonymous with educational software and adventure games[^ref-12][^ref-17][^ref-18]. The studio employed a substantial team for this project, with 182 people credited on the game—146 developers and 36 additional thanks[^ref-1].
 
 **Development Credits:**[^ref-1]
-- **Game Design:** Philippe Blanchet
+- **Lead Game Designer:** Philippe Blanchet
 - **Game Design:** Olivier Rochas
 
-The game was developed using the RenderWare engine, a popular middleware solution that powered numerous titles across PlayStation 2, GameCube, and PC platforms during this era[^ref-1]. This choice provided the team with robust 3D rendering capabilities suitable for the game's multi-platform release.
+The game was developed using the RenderWare engine[^ref-1].
 
 ### Technical Achievements
 
-The use of the RenderWare engine allowed Coktel Vision to deliver a consistent visual experience across the game's target platforms[^ref-1]. The game's adaptive difficulty system represented a notable technical achievement for children's software, implementing real-time analysis of player performance to adjust challenge levels dynamically[^ref-8].
+The game's difficulty adapts dynamically based on the player's performance[^ref-1], analysing the child's ability and automatically adapting the difficulty of play[^ref-8].
 
 ### Technical Specifications
 
@@ -137,8 +137,8 @@ The game was released in multiple European territories, distributed by Vivendi U
 ### Trivia
 
 - The game was known as "Adiboo: Die Jagd auf die Energiepiraten" in Germany[^ref-20]
-- Features unique personalized gameplay that adapts difficulty based on child's ability[^ref-9]
-- Traditional combat was replaced by non-violent "intelligent" duels to maintain the franchise's educational focus[^ref-8]
+- Features personalized gameplay that adapts difficulty based on child's ability[^ref-9]
+- Traditional combat was replaced by non-violent "intelligent" duels[^ref-8]
 - The game was released during a particularly competitive period for children's platformers, facing competition from established franchises[^ref-6]
 
 ## Legacy
@@ -151,7 +151,7 @@ Specific sales figures for Adiboo and the Energy Thieves have not been documente
 
 Adiboo and the Energy Thieves occupies an interesting position in gaming history as an example of educational software adapting to the demands of the 3D gaming era. While the Adiboo franchise had established itself as a trusted name in children's educational software, the transition to action-adventure gameplay proved challenging[^ref-6].
 
-The game's release in 2004 placed it in direct competition with vastly more polished children's titles, and critics noted the disparity[^ref-7]. The Official UK PlayStation 2 Magazine's suggestion that children "head for Jak or Ratchet instead" highlighted the fundamental challenge facing educational games attempting to compete in the mainstream console market[^ref-7].
+On release in 2004 it faced established console platformers: the Official UK PlayStation 2 Magazine suggested that even its young fans "head for Jak or Ratchet instead"[^ref-7].
 
 Retrospectively, the game serves as a nostalgic touchstone for a generation who encountered it during childhood, even among those who acknowledge its limitations[^ref-5]. The adaptive difficulty system and non-violent approach to gameplay represented thoughtful design choices for the target demographic, even if the overall execution failed to match contemporary standards[^ref-8].
 
