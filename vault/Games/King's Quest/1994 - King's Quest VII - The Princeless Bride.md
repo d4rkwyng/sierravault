@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'King''s Quest VII: The Princeless Bride represents a dramatic stylistic
   departure for Sierra''s flagship adventure series. Released on November 22, 1994,
   the...'
@@ -18,13 +18,13 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*; as Hardcore Gaming 101 puts it, a secondary goal is "to maybe find a groom for Rosella along the way, as the title implies."[^ref-34]
 
-Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon's earlier Sierra work had mainly been writing King's Quest hintbooks, plus some writing for The Dagger of Amon Ra.[^ref-5] On King's Quest VII she co-designed the game with Williams and wrote the dialogue. As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-6]
+Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] The Only Solitaire retrospective describes her earlier Sierra experience as having "mainly consisted of writing hintbooks for King's Quest," plus some writing for The Dagger of Amon Ra.[^ref-5] In her own account she joined Sierra as a writer for its in-house magazine *InterAction*, then moved to the design team, where she "started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra," before design work on Pepper's Adventures in Time.[^ref-41] On King's Quest VII she co-designed the game with Williams. The King's Quest Omnipedia fan wiki quotes her, from what it describes as a short Facebook interview: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] In a 2011 interview she described the split differently: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-41] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-6]
 
 The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-11] It shipped on CD-ROM only.[^ref-4]
 
@@ -111,7 +111,7 @@ French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, p
 
 Following the success of King's Quest VI, Roberta Williams wanted to take the series in a fresh direction while also developing her passion project Phantasmagoria.[^ref-4] Ken Williams was pushing Sierra into two completely different new directions—FMV (full-motion video) for Phantasmagoria, and Disney-style cartoon animation inspired by the success of Day of the Tentacle.[^ref-5] Williams was always inspired by Disney films and wanted the next King's Quest to capture that magic—with multimedia technology becoming standard, movie-quality animation could finally be achieved in games.[^ref-31]
 
-Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon, who had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with Jane Jensen.[^ref-4] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-31]
+Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon; according to the King's Quest Omnipedia fan wiki, Shannon had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with Jane Jensen.[^ref-4] Shannon's own account traces her path through *InterAction* and dialog writing to Pepper's, after which "Roberta approached me to work with her on King's Quest VII."[^ref-41] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-31]
 
 ### Production
 
@@ -313,3 +313,4 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-38]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Sierra's financial pressures during multimedia era, corporate changes
 [^ref-39]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7&fld=general) – 32-bit SCI-32 interpreter, 640×480 SVGA, "smart" pointer
 [^ref-40]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003, 3.5/5 stars
+[^ref-41]: [Adventure-Treff – Interview with Lorelei Shannon (2011)](https://www.adventure-treff.de/interviews/11802-lorelei-shannon) – InterAction writer, then "I started out just writing dialog"; "Roberta did more of the puzzles than I did. I wrote most of the dialog."

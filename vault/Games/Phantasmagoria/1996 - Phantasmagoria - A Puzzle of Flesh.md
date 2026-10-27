@@ -10,14 +10,14 @@ series: Phantasmagoria
 engine: SCI32
 protagonist: Curtis Craig
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: 'Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure
  game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
 tags: [1990s, adventure, phantasmagoria, sci, sierra]
 ---
 # Phantasmagoria: A Puzzle of Flesh
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -92,7 +92,7 @@ The game faced significant censorship in multiple European and Oceanic territori
 
 ### Origins
 
-The game originated when Sierra decided to continue the Phantasmagoria franchise as a horror anthology series rather than a direct sequel[^ref-47]. Roberta Williams stepped out of the project and passed development responsibilities to Lorelei Shannon, who had previously co-designed King's Quest VII: The Princeless Bride[^ref-48]. Shannon drew inspiration from authors Edgar Allan Poe, Charles Beaumont, and Shirley Jackson, as well as visual influences from photographer Joel-Peter Witkin and the film Seven[^ref-49]. She also cited fondness for the psychological horror film Jacob's Ladder and admiration for Clive Barker's work[^ref-50].
+The game originated when Sierra decided to continue the Phantasmagoria franchise as a horror anthology series rather than a direct sequel[^ref-47]. Roberta Williams stepped out of the project and passed development responsibilities to Lorelei Shannon, who had previously co-designed King's Quest VII: The Princeless Bride[^ref-48]. In Shannon's own account, Williams "wasn't particularly interested in spearheading the franchise," and "a number of different designers wrote proposals for a potential Phantasmagoria II"; hers "was more urban horror, as a counterpoint to the original," and she was given the project[^ref-80]. Shannon drew inspiration from authors Edgar Allan Poe, Charles Beaumont, and Shirley Jackson, as well as visual influences from photographer Joel-Peter Witkin and the film Seven[^ref-49]. She also cited fondness for the psychological horror film Jacob's Ladder and admiration for Clive Barker's work[^ref-50].
 
 The project was produced as the second installment of Sierra's horror anthology, at a time when game producers were increasingly hiring professional screen actors for CD-ROM titles[^ref-51]. The Sierra Chest describes the result as "Sierra's most explicit game", with blood and gore, nudity, sex and strong language[^ref-53]; its subject matter includes child abuse, mental illness, sadomasochism and bisexuality[^ref-71].
 
@@ -207,3 +207,4 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-77]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Regional censorship; banned in Singapore
 [^ref-78]: https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt - Computer Gaming World #152 (March 1997), review spec box: system requirements
 [^ref-79]: https://www.refused-classification.com/censorship/game/precensored/#phantasmagoria-a-puzzle-of-flesh - Australian classification history
+[^ref-80]: https://www.adventure-treff.de/interviews/11802-lorelei-shannon - Adventure-Treff interview with Lorelei Shannon (2011): several designers wrote Phantasmagoria II proposals; "My proposal was more urban horror"; "I was given my own project, Phantasmagoria 2"
