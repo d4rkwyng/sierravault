@@ -84,7 +84,7 @@ Coktel's educational lines were its own products, not Tomahawk's. Wikipedia cred
 
 ## Gobliiins Revivals (2009–2026)
 
-In 2009, [[Pierre Gilhodes]], whose last Coktel game had been *Woodruff and the Schnibble* (1995), returned to the series with [[2009 - Gobliiins 4|Gobliiins 4]].[^ref-3] MobyGames lists Société Pollene as developer and 1C Company and Snowball Studios (Russia) and Kalypso Media (France, Germany, UK) as publishers.[^ref-6] Its game page credits the design to Gilhodes, with Tramis credited only in the thanks.
+In 2009, [[Pierre Gilhodes]] returned to the series with [[2009 - Gobliiins 4|Gobliiins 4]].[^ref-3] MobyGames lists Société Pollene as developer and 1C Company and Snowball Studios (Russia) and Kalypso Media (France, Germany, UK) as publishers.[^ref-6] Its game page credits the design to Gilhodes, with Tramis credited only in the thanks. MobyGames' biography calls *Woodruff and the Schnibble* (1995) the last game Gilhodes worked on for Coktel, though his MobyGames credits also list graphics on Playtoons 4 and Playtoons 5 (both 1995).[^ref-9][^ref-42]
 
 [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] (2023) and [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] (2026) were developed by Gilhodes and self-published under his Schnibble Productions label; Steam lists them as released on July 20, 2023 and February 13, 2026.[^ref-7][^ref-8] *GOBLiiNS6*, a sequel to *Gobliins 2*, has two "i"s in its title.[^ref-3]
 
@@ -144,3 +144,4 @@ Coktel's productions were mostly European. MobyGames' Tomahawk page says none of
 [^ref-39]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) — *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft."
 [^ref-40]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) — *King's Quest VI*: "Editeur: Sierra / Distributeur: Ubi Soft"
 [^ref-41]: [MobyGames — E.S.S Mega release info (Wayback, July 2020)](https://web.archive.org/web/20200727115730/https://www.mobygames.com/game/ess-mega/release-info) — DOS: "Published by Tomahawk … Country United States Release Date 1991"
+[^ref-42]: [MobyGames — Pierre Gilhodes credits](https://www.mobygames.com/person/10718/pierre-gilhodes/credits/) — Playtoons 4: The Mandarine Prince (1995) Graphics; Playtoons № 5: La Pierre de Wakan (1995) Graphics (checked 2026-10-26)

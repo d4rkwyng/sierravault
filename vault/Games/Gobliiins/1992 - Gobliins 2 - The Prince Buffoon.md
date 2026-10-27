@@ -2,7 +2,7 @@
 title: 'Gobliins 2: The Prince Buffoon'
 release_year: 1992
 developer: Coktel Vision
-designer: [Pierre Gilhodes, Muriel Tramis]
+designer: [Pierre Gilhodes]
 publisher: Sierra On-Line
 genre: Puzzle
 platforms: [DOS, Amiga, Atari ST, Mac, iOS]
@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision, published by Coktel Vision in Europe in 1992 and by
@@ -19,7 +19,7 @@ tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ The Gobliiins series earned recognition for its unique visual identity, largely 
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-3]
-> **Designer:** [[Pierre Gilhodes]], [[Muriel Tramis]][^ref-3]
+> **Designer:** [[Pierre Gilhodes]] (created by); [[Muriel Tramis]] (project manager)[^ref-44]
 > **Publisher:** [[Coktel Vision]] (Europe); [[Sierra On-Line]] (US, 1993)[^ref-31][^ref-45]
 > **Engine:** Gob[^ref-7]
 > **Platforms:** MS-DOS, Amiga, Atari ST, Macintosh, iOS[^ref-3]

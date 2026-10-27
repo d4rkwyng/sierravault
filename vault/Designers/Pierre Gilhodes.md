@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion", "Gobliins 6"]
 companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Pierre Gilhodes is a French artist and game designer best known for his work on the Gobliiins series.[^ref-6] He presented his work to Coktel Vision in 1989, co-created Gobliiins with [[Muriel Tramis]], and since 2009 has continued the series himself, most recently as an independent developer with [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (2023) and [[2026 - Gobliins 6|Gobliins 6]] (2026).[^ref-6][^ref-21][^ref-26]
 
-Gilhodes studied desktop publishing (DTP) and drawing rather than programming.[^ref-6] Of his recent games he has said: "I am not a programmer and I use a tool that I cannot completely parameterize."[^ref-4]
+Gilhodes studied desktop publishing (DTP) and drawing.[^ref-6] Of his recent games he has said: "I am not a programmer and I use a tool that I cannot completely parameterize."[^ref-4]
 
 ## Career
 
@@ -25,11 +25,11 @@ Gilhodes studied DTP and drawing and presented his work to Coktel Vision in 1989
 
 ### Coktel Vision Years
 
-The original [[1991 - Gobliiins|Gobliiins]] (1991) was conceived by Gilhodes and Muriel Tramis at Coktel Vision.[^ref-21][^ref-28][^ref-27] Coktel was an independent French studio at the time; Sierra On-Line's acquisition of the company was finalised on 29 October 1993.[^ref-27] Gilhodes went on to [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993), both credited "Created by".[^ref-28][^ref-8] The French magazine Tilt introduced him in 1993 as the graphic artist and co-writer, with Muriel Tramis, of Goblins 3.[^ref-3]
+MobyGames credits the original concept of [[1991 - Gobliiins|Gobliiins]] (1991) to Gilhodes and Muriel Tramis at Coktel Vision.[^ref-30] Tramis herself has said that the game's system of cooperating characters "belongs primarily to Pierre Gilhodes".[^ref-29] Coktel was an independent French studio at the time; Sierra On-Line's acquisition of the company was finalised on 29 October 1993.[^ref-27] Gilhodes went on to [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993), both credited "Created by".[^ref-28] IMDb lists him under graphics on both.[^ref-8] The French magazine Tilt introduced him in 1993 as the graphic artist and co-writer, with Muriel Tramis, of Goblins 3.[^ref-3]
 
 In the same period he illustrated Once Upon a Time: Abracadabra and Once Upon a Time: Baba Yaga (1991).[^ref-28] The Sierra release of [[1992 - Inca|Inca]] (1992) credits it as "Created by Pierre Gilhodes", with Muriel Tramis managing the project; sources disagree on who should be credited as its designer (see the game page).[^ref-7][^ref-28]
 
-His last Coktel game was [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] (1995), which carried over the visual style of Gobliiins and on which MobyGames credits him with scenario and graphics.[^ref-6][^ref-21] In a 2017 retrospective, jeuxvideo.com called Woodruff "un ovni dans le monde vidéoludique" that marked players with its "côté atypique et décalé", and interviewed Gilhodes as "créateur du jeu".[^ref-2]
+MobyGames' biography calls [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] (1995) the last game he worked on for Coktel; it carried over the visual style of Gobliiins, and MobyGames credits him with its scenario and graphics.[^ref-6][^ref-21] His MobyGames credits also list graphics on [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4]] and [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5]] (both 1995), and a "The following also participated" credit on [[1996 - Urban Runner|Urban Runner]] (1996).[^ref-21][^ref-28] In a 2017 retrospective, jeuxvideo.com called Woodruff "un ovni dans le monde vidéoludique" that marked players with its "côté atypique et décalé", and interviewed Gilhodes as "créateur du jeu".[^ref-2]
 
 ### Later Career
 
@@ -41,9 +41,13 @@ At the French studio Wizarbox he contributed character animation and 3D art to S
 
 #### Return to Gobliiins
 
-Disappointed by the lack of effort to produce another Gobliiins game, Gilhodes assembled a team called Société Pollene and designed [[2009 - Gobliiins 4|Gobliiins 4]] (2009).[^ref-6] He released [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] in 2023 as an independent developer, credited for its scenario, programming, graphics and animations.[^ref-21]
+Disappointed by the lack of effort to produce another Gobliiins game, Gilhodes assembled a team called Société Pollene and designed [[2009 - Gobliiins 4|Gobliiins 4]] (2009).[^ref-6] He crowdfunded [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] on Ulule, where the campaign ran from February 19 to March 21, 2022 and raised €6,950 against a €3,000 goal.[^ref-33] He released the game in 2023 as an independent developer, credited for its scenario, programming, graphics and animations.[^ref-21]
 
-On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] The Kickstarter campaign for [[2026 - Gobliins 6|Gobliins 6]] ran from October 10 to November 9, 2024, against a €4,000 goal,[^ref-25] and the game was released on February 10, 2026.[^ref-26]
+On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] [[2026 - Gobliins 6|Gobliins 6]] was crowdfunded on two platforms. The Ulule campaign ran from October 9 to November 13, 2024 and raised €5,040 against a €4,000 goal.[^ref-32] The Kickstarter campaign ran from October 10 to November 9, 2024, also against a €4,000 goal; its page now shows €11,448 pledged by 470 backers.[^ref-25] The game was released on February 10, 2026.[^ref-26]
+
+#### Comics
+
+Gilhodes also keeps an illustration blog, Le Blog du Bouzouk, which MobyGames links from his profile; a post there titled "Bouzouk - MegaDreamPark" was published under his name on 4 May 2011.[^ref-6][^ref-34] When a player on itch.io asked whether the comic "Bouzouk MegaDream Park" would be translated into English, he replied: "The comic Bouzouk is well translated into English."[^ref-16] In a later itch.io reply he said that in a month or two he would launch a crowdfunding campaign "pour obtenir certains livres en vraies éditions papier, dont Bouzouk MegaDreamPark" (to get certain books into real paper editions, including Bouzouk MegaDreamPark).[^ref-4]
 
 ## Notable Works
 
@@ -57,7 +61,7 @@ For [[1993 - Goblins Quest 3|Goblins Quest 3]], Gilhodes and Tramis reworked the
 
 ### The Bizarre Adventures of Woodruff and the Schnibble (1995)
 
-[[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff]] was the last game Gilhodes made at Coktel.[^ref-6] Asked about a sequel, he replied on itch.io: "Woodruff's sequel is a complex project, especially for a single person... It's not for now. I'm starting Gobliins6 for now."[^ref-4]
+MobyGames' biography calls [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff]] the last game Gilhodes worked on for Coktel, though his credits also include graphics on Playtoons 4 and 5 (1995).[^ref-6][^ref-21] Asked about a sequel, he replied on itch.io: "Woodruff's sequel is a complex project, especially for a single person... It's not for now. I'm starting Gobliins6 for now."[^ref-16]
 
 ### Gobliiins 5: The Morgloton Invasion (2023)
 
@@ -71,7 +75,7 @@ As a player, he told Tilt in 1993: "Ma préférence va aux jeux d'action et d'av
 
 ## Legacy
 
-Gilhodes has continued the Gobliiins series for more than three decades, from the Coktel games of 1991–1993 to Gobliiins 4 (2009), Gobliiins 5 (2023) and the crowdfunded Gobliins 6 (2026).[^ref-21][^ref-25][^ref-26] In 2025 he was interviewed about his career on the New Game Old Flame podcast.[^ref-13] In an earlier itch.io reply he wrote that "The Switch and other consoles version is well planned,"[^ref-4] and he later confirmed to a player: "Oui, la compil est dispo sur Switch."[^ref-16]
+Gilhodes has continued the Gobliiins series for more than three decades, from the Coktel games of 1991–1993 to Gobliiins 4 (2009), Gobliiins 5 (2023) and the crowdfunded Gobliins 6 (2026).[^ref-21][^ref-25][^ref-26] In 2025 he was interviewed about his career on the New Game Old Flame podcast.[^ref-13] In an earlier itch.io reply he wrote that "The Switch and other consoles version is well planned,"[^ref-16] and he later confirmed to a player: "Oui, la compil est dispo sur Switch."[^ref-16]
 
 ## Games
 
@@ -80,14 +84,14 @@ Gilhodes has continued the Gobliiins series for more than three decades, from th
 - 1989 — Asterix: Operation Getafix — Graphics (as "Pierre")[^ref-21]
 - **1990** — Geisha — Role: Graphics
 - 1990 — Los Tres Cerditos Se Divierten — Graphics
-- **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Conception / Original Concept (with Muriel Tramis); Graphics
+- **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Conception / Original Concept (with Muriel Tramis); Graphics[^ref-30]
 - 1991 — Once Upon a Time: Abracadabra — Illustrator
 - 1991 — Once Upon a Time: Baba Yaga — Illustrator
 - **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Role: Created by; Graphics
 - **1992** — [[1992 - Inca|Inca]] — Role: Created by; Graphics (designer credit disputed, see game page)
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Role: Created by (with Muriel Tramis); Graphics
-- 1995 — Playtoons 4: The Mandarine Prince — Graphics
-- 1995 — Playtoons № 5: La Pierre de Wakan — Graphics
+- 1995 — [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4: The Mandarine Prince]] — Graphics
+- 1995 — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons № 5: La Pierre de Wakan]] — Graphics
 - **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Role: Scenario; Graphics / Artwork
 - **1996** — [[1996 - Urban Runner|Urban Runner]] — Role: Thanks ("The following also participated")
 
@@ -98,12 +102,12 @@ Gilhodes has continued the Gobliiins series for more than three decades, from th
 - 2008 — So Blonde — Wizarbox — Character Animator
 - 2009 — Scrabble Interactive: 2009 Edition — Wizarbox — Character Animator
 - **2009** — [[2009 - Gobliiins 4|Gobliiins 4]] — Company: Société Pollene, Role: Designed by; Developed by
-- 2010 — Gray Matter — Wizarbox — Additional Artist[^ref-22]
+- 2010 — [[2010 - Gray Matter|Gray Matter]] — Wizarbox — Additional Artist[^ref-22]
 - 2010 — So Blonde: Back to the Island — Wizarbox — 3D Artist[^ref-23]
 - 2012 — Captain Morgane and the Golden Turtle — Wizarbox — 3D Artist[^ref-24]
 - 2012 — R.A.W: Realms of Ancient War — Wizarbox — Character Animator
 - **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Company: Independent, Role: Scenario/Programming/Graphics/Animations
-- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Company: Independent, Role: Creator[^ref-25][^ref-26]
+- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Company: Independent, Role: Scenario/Graphics/Animation/Programming[^ref-31]
 
 Credits per MobyGames unless noted.[^ref-21][^ref-28]
 
@@ -127,3 +131,8 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-27]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — Sierra On-Line deal "finalised on 29 October 1993"
 [^ref-28]: [MobyGames Pierre Gilhodes (Wayback, 2025-03-24)](https://web.archive.org/web/20250324223942/https://www.mobygames.com/person/10718/pierre-gilhodes/) — Credits: Gobliiins "Conception", Gobliins 2 / Inca / Goblins Quest 3 "Created by", Abracadabra and Baba Yaga "Illustrated by", Urban Runner "The following also participated"
 [^ref-29]: [The Adventure Gamer – Interview with Muriel Tramis (2018)](https://advgamer.blogspot.com/2018/03/interview-with-muriel-tramis.html) — "This system of a game based on solidarity belongs primarily to Pierre Gilhodes"
+[^ref-30]: [MobyGames – Gobliiins credits (DOS)](https://www.mobygames.com/game/1154/gobliiins/credits/dos/) — "Original Concept: Pierre Gilhodes, Muriel Tramis"; Graphics / Artwork Pierre Gilhodes (checked 2026-10-26)
+[^ref-31]: [MobyGames – Gobliins 6 credits (Windows)](https://www.mobygames.com/game/255126/gobliins-6/credits/windows/) — Scenario, Graphics, Animation, Programming: Pierre Gilhodes (checked 2026-10-26)
+[^ref-32]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) — Campaign October 9 – November 13, 2024; €5,040 raised against a €4,000 goal (read via the Ulule API, 2026-10-26)
+[^ref-33]: [Ulule – Gobliiins5](https://www.ulule.com/gobliiins5/) — Campaign February 19 – March 21, 2022; €6,950 raised against a €3,000 goal (read via the Ulule API, 2026-10-26)
+[^ref-34]: [Le Blog du Bouzouk – "Bouzouk - MegaDreamPark"](https://bouzoukblog.blogspot.com/2011/05/bouzouk-megadreampark-1.html) — Post published by Pierre Gilhodes, 4 May 2011
