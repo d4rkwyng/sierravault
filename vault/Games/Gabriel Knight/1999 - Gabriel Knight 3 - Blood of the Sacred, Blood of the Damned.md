@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: G-Engine
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third
   and final installment in Jane Jensen''s Gabriel Knight adventure series, a 1999 3D
   adventure set in Rennes-le-Château.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ This entry marked a significant technical departure for the series, being the fi
 > **Release Date:** November 19, 1999 (NA); November 25, 1999 (EU)[^ref-15]
 > **Producer:** Steven Hill[^ref-15][^ref-96]
 > **Programmer:** Scott Honn (lead)[^ref-15][^ref-96]
-> **Composer:** David Henry; themes by Robert Holmes[^ref-15][^ref-96]
+> **Composer:** David Henry; themes by [[Robert Holmes]][^ref-15][^ref-96]
 > **Series:** Gabriel Knight
 > **Sierra Lineage:** Core Sierra
 > **Engine:** G-Engine

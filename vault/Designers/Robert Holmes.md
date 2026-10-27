@@ -5,39 +5,39 @@ birth_year: null
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "Gray Matter"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Robert Holmes
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Robert Holmes is a composer and producer best known for the music of the Gabriel Knight adventure games, the series created by Jane Jensen.[^ref-5][^ref-10] At Sierra On-Line he was producer and composer on [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (1993) and wrote the main themes for its two sequels.[^ref-5][^ref-4] He grew up in California, played in bands around Los Angeles, and studied Film Scoring and Cinema History at UCLA.[^ref-11][^ref-5]
+Robert Holmes is a composer and producer best known for the music of the Gabriel Knight adventure games, the series created by Jane Jensen.[^ref-5][^ref-10] At Sierra On-Line he was producer and composer on [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (1993) and wrote the main themes for its two sequels.[^ref-5][^ref-4] He grew up in California, played in bands around Los Angeles[^ref-11] and studied Film Scoring and Cinema History at UCLA.[^ref-5]
 
-MobyGames credits him on 22 games and lists 19 games on which both he and Jensen are credited.[^ref-3] He is married to Jensen; IMDb gives the marriage as 1996.[^ref-16][^ref-21] In 2012 the two launched the adventure studio Pinkerton Road.[^ref-21]
+MobyGames credits him on 22 games and lists 19 games on which both he and Jensen are credited.[^ref-3] He is married to Jensen.[^ref-21][^ref-25] In 2012 the two launched the adventure studio Pinkerton Road.[^ref-21]
 
 ## Career
 
 ### Early Career
 
-Holmes started out as a rock musician. Recalling his first paid gig, with a band that knew about six songs, he said: "We were paid $35 and we thought we had hit the big time."[^ref-5] When "a big record deal was not coming soon," he took day work as an ADR engineer in film post-production.[^ref-5] Among his favourite songwriters and composers he lists Harry Nilsson, Elton John, George Harrison, Dimitri Tiomkin, Max Steiner, John Barry, Tony Banks and Rick Wakeman.[^ref-5]
+Holmes started out as a rock musician. His first paid gig was as a duo, "me and a drummer," who knew about six songs:  "We were paid $35 and we thought we had hit the big time."[^ref-5] When "a big record deal was not coming soon," he took day work as an ADR engineer in film post-production.[^ref-5] Among his favourite songwriters and composers he lists Harry Nilsson, Elton John, George Harrison, Dimitri Tiomkin, Max Steiner, John Barry, Tony Banks and Rick Wakeman.[^ref-5]
 
 ### Sierra On-Line
 
-Holmes came to Sierra by way of his then-wife: "I ended up at Sierra when my then-wife was hired as a Creative Director by them." After they separated, he wanted to stay near his daughter, "so I called up Mark Seibert and asked if he could use anyone with a music/production/composing background," and Seibert gave him a slot in the music department.[^ref-5] He worked as a composer on some Space Quest and King's Quest projects under Seibert.[^ref-11]
+Holmes came to Sierra when his then-wife was hired there as a Creative Director. He stayed on after they split up, and "called up Mark Seibert and asked if he could use anyone with a music/production/composing background"; Seibert gave him a slot in the music department.[^ref-5] He worked as a composer on some Space Quest and King's Quest projects under Seibert.[^ref-11]
 
 After a couple of years he became a producer. His first producer assignment was [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (1993), on which he was credited as Producer, Director and Composer.[^ref-5][^ref-4] He was then assigned as producer on a project Jensen was designing; it was cancelled, but "by the time Gabriel Knight was being pitched as her next project we were a couple, and I was slotted as both the producer and composer."[^ref-5][^ref-11] He also voiced the Writing Man in [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], and was producer and director of the King's Quest Collector's Edition (1994) and King's Quest Collection Series (1997).[^ref-10][^ref-4]
 
-For [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995) he wrote the main themes and the opera sequences.[^ref-4] He called being asked to write "a 'lost Wagnerian Opera'" "an exciting and elevating challenge!"[^ref-11] To prepare, he took a trip to "Germany, Vienna, and Bavaria" to see as many operas as possible: "I remember going to Wagner's grave and apologizing for what I was about to do. But it worked out in the end."[^ref-5] On [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] (1999), the score was by David Henry, with Holmes as main themes composer. Reviewer Ingrid Heyn wrote that "the sense of series cohesion between the games was due at least partly to the consistent musical treatment as well as the strong narrative connection."[^ref-9][^ref-4]
+For [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995) he wrote the main themes and the opera sequences.[^ref-4] He called being asked to write "a 'lost Wagnerian Opera'" "an exciting and elevating challenge!"[^ref-11] To prepare, "we took a trip to Germany, Vienna, and Bavaria," he recalled, to see as many operas as possible: "I remember going to Wagner's grave and apologizing for what I was about to do. But it worked out in the end."[^ref-5] On [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] (1999), the music was by David Henry and Holmes, with Holmes credited for the main themes. Reviewer Ingrid Heyn wrote that "the sense of series cohesion between the games was due at least partly to the consistent musical treatment as well as the strong narrative connection."[^ref-9][^ref-4]
 
 ### After Sierra
 
 Holmes scored the casual games Inspector Parker (2003) and Inspector Parker in Betrapped! (2004), the latter with Ashif Hakik.[^ref-10][^ref-4] He wrote the song "Young Goodman Brown" for Charlaine Harris: Dying for Daylight (2011), with Raleigh Holmes, Buck Wilcox and Tom Chan.[^ref-10]
 
-He composed the music for Jensen's [[2010 - Gray Matter|Gray Matter]] (2010).[^ref-4][^ref-11] For Phoenix Online's [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] he wrote one song, "The Taking."[^ref-4][^ref-10] Through Pinkerton Road he was executive producer and composer on [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] (both 2014), and scored Lola and Lucy's Big Adventure.[^ref-4][^ref-2]
+He composed the music for Jensen's [[2010 - Gray Matter|Gray Matter]] (2010), "both as composer of the general score and as a musician with his band The Scarlet Furies."[^ref-11] MobyGames credits him for the game's music, the Scarlet Furies music and the song "To Forgive or to Forget".[^ref-4] He described the band's songs as "Gothic Folk": he, Buck Wilcox, Ian Francisco and Steve Hilstein had played together since school, and later re-formed the band around lead singer Raleigh Holmes. Its EP *Dark Clad Company* was produced by Rusty Anderson.[^ref-11][^ref-2] Raleigh Holmes said in 2012 that he "really spearheaded the core feel of all of the music in Gray Matter."[^ref-22] For Phoenix Online's [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] he wrote one song, "The Taking."[^ref-4][^ref-10] Through Pinkerton Road he was executive producer and composer on [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] (both 2014), and scored Lola and Lucy's Big Adventure.[^ref-4][^ref-2]
 
-He has since produced albums of game themes, including *A Simple Refrain*, solo-piano versions of his themes played by Roger Hooper, and *Sequel*, an album of new themes "in the style of Gabriel Knight" launched on Kickstarter in late 2021.[^ref-7][^ref-15][^ref-20][^ref-6] He has talked about his game music in video interviews with Adventure Game Hotspot and the Adventure Games Podcast.[^ref-17][^ref-18]
+He has since produced albums of game themes, including *A Simple Refrain*, solo-piano versions of his themes played by Roger Hooper, and *Sequel*, an album of new themes "in the style of Gabriel Knight" launched on Kickstarter in late 2021.[^ref-7][^ref-15][^ref-20][^ref-6] A second Kickstarter, for *Son of Sequel*, was running in April 2023;[^ref-23] the album was released in April 2024 with 20 tracks and "an incredible reunion of The Scarlet Furies."[^ref-24] Jensen wrote a new Gabriel Knight short story, "Five Hearts," as a reward for the campaign's backers.[^ref-25][^ref-26] He has talked about his game music in video interviews with Adventure Game Hotspot and the Adventure Games Podcast.[^ref-17][^ref-18]
 
 ## Notable Works
 
@@ -73,11 +73,11 @@ Roles follow MobyGames and VGMPF.[^ref-4][^ref-10]
 
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice (Writing Man)
 - **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Producer, Director, Composer, Voice Talent
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Producer, Composer
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Producer, Composer, Sound Effects
 - **1994** — King's Quest: Collector's Edition — Role: Producer and Director, Research, Video Editing, Music
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Main Themes, Opera Sequences
 - **1997** — King's Quest: Collection Series — Role: Producer and Director, Research, Video Editing, Music
-- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Role: Main Themes (score by David Henry)
+- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Role: Music, Main Themes (with David Henry)
 
 ### Later work
 
@@ -89,7 +89,7 @@ Roles follow MobyGames and VGMPF.[^ref-4][^ref-10]
 - **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: Pinkerton Road Studio, Role: Composer, Executive Producer, Founder
 - **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Company: Pinkerton Road Studio, Role: Composer, Executive Producer
 - — — Lola and Lucy's Big Adventure — Pinkerton Road Studio — Composer[^ref-2]
-- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — No announced role (the game is an unmade pitch; audio has not been announced). Jensen's "Five Hearts" short story is hosted on his website.
+- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — No announced role (the game is an unmade pitch; audio has not been announced). Jensen's "Five Hearts" short story is hosted on his website.[^ref-26]
 
 ## References
 
@@ -104,8 +104,12 @@ Roles follow MobyGames and VGMPF.[^ref-4][^ref-10]
 [^ref-10]: [VGMPF Wiki – Robert Holmes](https://www.vgmpf.com/Wiki/index.php?title=Robert_Holmes) — Credits: Dagger "Voice of Writing Man", Inspector Parker, Betrapped! with Ashif Hakik, "Young Goodman Brown", Cognition "The Taking"
 [^ref-11]: [Alternative Magazine Interview 2011](https://alternativemagazineonline.co.uk/2011/03/22/interview-in-conversation-with-robert-holmes-composer-gray-matter-soundtrack-gabriel-knight-series/) — "growing up in California", "lost Wagnerian Opera… exciting and elevating challenge", Space Quest/King's Quest under Mark Seibert, "assigned as her producer and composer", "another character in the story", "sucker for very emotional dark themes"
 [^ref-15]: [Kickstarter – Sequel: A Collection of New Game Themes By Robert Holmes](https://www.kickstarter.com/projects/robertholmesthemes/sequel-a-collection-of-new-game-themes-by-robert-holmes) — Album "in the style of Gabriel Knight"; Ilana C. Myer quote (dossier copy, January 2026)
-[^ref-16]: [IMDb Profile](https://www.imdb.com/name/nm0392026/) — "He has been married to Jane Jensen since 1996" (dossier copy, January 2026)
 [^ref-17]: [YouTube – Adventure Game Music Discussion with Robert Holmes (Gabriel Knight, SEQUEL)](https://www.youtube.com/watch?v=eL85r-Xr1L8) — Adventure Game Hotspot video interview
 [^ref-18]: [YouTube – Live Interview with Robert Holmes](https://www.youtube.com/watch?v=8iPwkRFfbLY) — Adventure Games Podcast video interview
 [^ref-20]: [Indiegogo – Sequel: New Game Themes by Robert Holmes](https://www.indiegogo.com/projects/sequel-new-game-themes-by-robert-holmes) — Continued Sequel campaign; joined Sierra "as a Producer and Composer" (dossier copy, January 2026)
 [^ref-21]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) — Mike Rose, April 5, 2012: Jensen and Holmes launch Pinkerton Road Studio; "She is married to Holmes"
+[^ref-22]: [Alternative Magazine – In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) — December 18, 2012: "He really spearheaded the core feel of all of the music in Gray Matter"; band members Ian Francisco, Buck Wilcox, Steve Hilstein
+[^ref-23]: [Robert Holmes Music – Son of SEQUEL Update](https://robertholmesmusic.com/son-of-sequel-update/) — April 7, 2023: update "on the Son of SEQUEL Kickstarter Campaign status"
+[^ref-24]: [Robert Holmes Music – New Album Release: 'Son of Sequel'](https://robertholmesmusic.com/son-of-sequel-new-album-release/) — April 25, 2024: "officially released", "20 fresh tracks, featuring an incredible reunion of The Scarlet Furies"
+[^ref-25]: [Time Extension – Jane Jensen Has Written A Story For Gabriel Knight 4](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — Jack Yarwood, July 2, 2024: Son of Sequel rewards made "with her husband, the composer Robert Holmes"; the short story goes to backers
+[^ref-26]: [Robert Holmes Music – Five Hearts](https://robertholmesmusic.com/five-hearts/) — "the exclusive new Gabriel Knight short story 'Five Hearts' by Jane Jensen along with some early concept sketches"

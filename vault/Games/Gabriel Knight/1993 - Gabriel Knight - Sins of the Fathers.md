@@ -143,10 +143,10 @@ Voice recording sessions were directed by Stuart M. Rosen, who had won numerous 
 - **Lead Programmer:** Tom DeSalvo
 - **Programmers:** Bob Andrews, Sean Mooney, Jerry Shaw, Greg Tomko-Pavia
 - **Audio Engineers:** Richard Spurgeon, Kelli Spurgeon[^ref-63]
-- **Sound Effects:** Chris Braymen, Robert Holmes, Orpheus Hanley, Richard Spurgeon, Mark Seibert[^ref-63]
+- **Sound Effects:** Chris Braymen, [[Robert Holmes]], Orpheus Hanley, Richard Spurgeon, Mark Seibert[^ref-63]
 - **Music Conversions:** Neal Grandstaff, Jay D. Usher, Chris Braymen[^ref-63][^ref-57]
 - **Voice Director:** Stuart M. Rosen
-- **Composer:** Robert Holmes
+- **Composer:** [[Robert Holmes]]
 
 ### Technical Achievements
 

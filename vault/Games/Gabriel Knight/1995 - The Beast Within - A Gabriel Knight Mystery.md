@@ -111,7 +111,7 @@ The production required three separate trips to Germany during the second half o
 
 The Beast Within represented a significant technical achievement in FMV gaming, with actors performing in front of a blue screen and chroma-keyed over the retouched photographic backgrounds[^ref-15]. The game included 763 video files[^ref-16] and was equivalent to five feature films in scope, with a 600-page script[^ref-17]. Sierra used a custom video player instead of standard Quicktime technology for the Macintosh version[^ref-12].
 
-Robert Holmes composed the main themes and wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart"); Jane Jensen wrote the libretto[^ref-12][^ref-16]. Jay D. Usher, the director of music/audio, is credited with additional orchestration and arrangement[^ref-70].
+[[Robert Holmes]] composed the main themes and wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart"); Jane Jensen wrote the libretto[^ref-12][^ref-16]. Jay D. Usher, the director of music/audio, is credited with additional orchestration and arrangement[^ref-70].
 
 Roughly 90 percent of the script was shot on the sound stage, with only a few scenes filmed on location[^ref-17]; the fictional Rittersberg was modelled on Rothenburg ob der Tauber[^ref-17].
 

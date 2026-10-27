@@ -100,7 +100,7 @@ For [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Larry 6]], Lowe also p
 
 ### [[Robert Holmes]] – Gabriel Knight Series
 
-Robert Holmes composed the score for [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], which he also produced.[^ref-17] For the sequel he created the soundtrack alongside Jay Usher, and Gabriel Knight 3's score was composed by David Henry, based on Holmes's themes.[^ref-34][^ref-35] Holmes is married to [[Jane Jensen]].[^ref-18]
+Robert Holmes composed the score for [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], which he also produced.[^ref-17] For the sequel he composed the main themes, with Jay Usher credited for "Additional Orchestration and Arrangement",[^ref-59] and Gabriel Knight 3's score was composed by David Henry, based on Holmes's themes.[^ref-34][^ref-35] Holmes is married to [[Jane Jensen]].[^ref-18]
 
 For [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]], Holmes wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart").[^ref-34]
 
@@ -240,3 +240,4 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 [^ref-56]: [MobyGames – King's Quest V (credits)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits) — "Composers Ken Allen, Mark Seibert"
 [^ref-57]: [MobyGames – Space Quest V: The Next Mutation (specs)](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993) sound: AdLib, General MIDI, MT-32, Tandy / PCjr and others (read via the MobyGames API, checked 2026-10-26)
 [^ref-58]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow (specs)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS (1992) sound: AdLib, General MIDI, MT-32 and others (read via the MobyGames API, checked 2026-10-26)
+[^ref-59]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"

@@ -85,7 +85,7 @@ Voice acting became a significant production task. In 1992 Sierra's InterAction 
 For some of its highest-profile CD-ROM titles, Sierra moved from computer-generated music toward recorded scores:
 
 - **[[1995 - Phantasmagoria|Phantasmagoria]]** (1995) — Mark Seibert and Jay Usher; unlike previous Sierra games the score was recorded live, mixing real instruments with synthesized and sampled sounds. The opening theme's neo-Gregorian chant was performed by a 135-voice choir.[^ref-17]
-- **[[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]]** (1995) — Robert Holmes with Jay Usher; Holmes also wrote the music for a scene from the game's fictional opera, "Der Fluch Des Engelhart."[^ref-29]
+- **[[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]]** (1995) — Robert Holmes (main themes), with additional orchestration and arrangement by Jay Usher; Holmes also wrote the music for a scene from the game's fictional opera, "Der Fluch Des Engelhart."[^ref-29][^ref-52]
 - **[[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]]** (1998) — Ben Houge, Kevin Manthei, Mark Seibert. Their soundtrack inspired the 12-minute *Daventry Suite* by Donald M. Wilson, premiered by the Bowling Green State University Fall Wind Ensemble.[^ref-18]
 - **[[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]]** (1998) — Chance Thomas, hired as Sierra's full-time composer in 1996; the soundtrack was released on CD.[^ref-31][^ref-42]
 
@@ -111,7 +111,7 @@ For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentl
 - **William Goldstein** — *King's Quest IV* (1988). Known for the TV series *Fame* and the Touchstone film *Hello Again*.[^ref-26]
 - **[[Mark Seibert]]** — Hired as a musician and music editor on *King's Quest IV*, promoted to music director after a few years, and to producer in 1992. Co-composed *Phantasmagoria* with Jay Usher; Mask of Eternity.[^ref-32][^ref-17]
 - **[[Ken Allen]]** — *The Colonel's Bequest*, *King's Quest V*, *Space Quest IV*, *Conquests of the Longbow*, *Jones in the Fast Lane*, among others.[^ref-36]
-- **[[Robert Holmes]]** — *Gabriel Knight: Sins of the Fathers*; *The Beast Within* with Jay Usher; his themes underpin David Henry's *Gabriel Knight 3* score. Later *Gray Matter*.[^ref-16][^ref-29][^ref-30]
+- **[[Robert Holmes]]** — *Gabriel Knight: Sins of the Fathers*; *The Beast Within* (main themes and opera sequences; Jay Usher credited for "Additional Orchestration and Arrangement"); his themes underpin David Henry's *Gabriel Knight 3* score. Later *Gray Matter*.[^ref-16][^ref-29][^ref-52][^ref-30]
 - **Aubrey Hodges** — *Quest for Glory IV* and most of the *Freddy Pharkas* score.[^ref-37][^ref-38]
 - **Ben Houge, Kevin Manthei** — *Mask of Eternity* (1998), with Seibert.[^ref-18]
 - **Chance Thomas** — *Quest for Glory V* (1998).[^ref-31]
@@ -188,3 +188,4 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-50]: [Wikipedia — Apple II](https://en.wikipedia.org/wiki/Apple_II) — "toggle circuit that could only emit a click"; multi-voice music "generated entirely by software"
 [^ref-51]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — Mixed-Up Mother Goose (CD Version) under SCI1 (early); King's Quest V (CD Version) under SCI1 (late)
 [^ref-46]: [Bandcamp — A Simple Refrain: The Game Themes of Robert Holmes](https://robertholmessoundtracks.bandcamp.com/album/a-simple-refrain-the-game-themes-of-robert-holmes) — Solo-piano versions by Roger Hooper of GK1–3, Gray Matter and Moebius themes
+[^ref-52]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"

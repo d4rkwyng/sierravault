@@ -151,7 +151,7 @@ Stuart M. Rosen was voice director on [[1993 - Gabriel Knight - Sins of the Fath
 
 ### Robert Holmes
 
-[[Robert Holmes]] produced [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] and composed its soundtrack.[^ref-1] He is married to the series' designer, [[Jane Jensen]].[^ref-8] He scored the sequel with Jay Usher, and Gabriel Knight 3's score was composed by David Henry from Holmes's themes.[^ref-18][^ref-21]
+[[Robert Holmes]] produced [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] and composed its soundtrack.[^ref-1] He is married to the series' designer, [[Jane Jensen]].[^ref-8] He composed the sequel's main themes, with Jay Usher credited for "Additional Orchestration and Arrangement", and Gabriel Knight 3's score was composed by David Henry from Holmes's themes.[^ref-34][^ref-18][^ref-21]
 
 ---
 
@@ -295,3 +295,4 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-31]: [GameSpot — 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"
 [^ref-32]: [Computer Gaming World #119 (June 1994), Premier Awards (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n24/mode/1up) — "Her performance alone makes it worthwhile to purchase the CD version of Gabriel Knight: Sins of the Fathers, so she is the inaugural recipient of the PREMIER Award for Best Voice-over Acting (Female) in a Multimedia Game"
 [^ref-33]: [MobyGames – Mixed-Up Mother Goose (1991, Moby ID 1085)](https://www.mobygames.com/game/1085/) — read via the MobyGames API: DOS 1991, FM Towns February 1991, Windows 1992; "complete digitized speech"
+[^ref-34]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
