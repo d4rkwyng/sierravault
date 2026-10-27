@@ -116,7 +116,7 @@ To ensure authenticity, developers spent considerable time with actual LAPD SWAT
 Motion capture technology was employed extensively, with most of the game's roughly 500 motion-captured animations performed by an LAPD SWAT officer.[^ref-27] Thatcher himself performed more than 500 SWAT actions at House of Moves in Venice, California.[^ref-12] Sierra advertised more than 150 dynamic motion-captured characters.[^ref-2][^ref-44] Former LAPD Chief [[Daryl Gates|Daryl F. Gates]], who joined Sierra's Police Quest series after retiring in 1992 (beginning with Police Quest: Open Season) and became lead advisor for its Police Quest and SWAT games, is credited as "Consultant" on SWAT 3.[^ref-42][^ref-12][^ref-2][^ref-50]
 
 **Development Credits:**[^ref-1][^ref-25]
-- **Lead Designer:** [[Tammy Dargan]]
+- **Game Designer:** [[Tammy Dargan]][^ref-51]
 - **Producer:** Rod Fung[^ref-3]
 - **Lead Programmer:** Jim Napier
 - **Composer:** Gary Spinrad
@@ -340,3 +340,4 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-48]: [Gamasutra – ELSPA: Wii Fit, Mario Kart Reach Diamond Status In UK (Archived)](https://web.archive.org/web/20170918063107/https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php) – "Silver Status (100,000 sold)"
 [^ref-49]: [Electronic Gaming Monthly #137 (December 2000), Internet Archive](https://archive.org/details/electronic-gaming-monthly-issue-137-december-2000) – "Coming Soon – December 2000" (p.68), Dreamcast list: "SWAT 3D – Sierra"
 [^ref-50]: [MobyGames – SWAT 3: Close Quarters Battle Credits (Archived September 2005)](http://web.archive.org/web/20050912074406/http://www.mobygames.com:80/game/swat-3-close-quarters-battle/credits) – "Consultant: Daryl F. Gates (LAPD Ret.)"; "LAPD SWAT Advisor: Kenneth A. Thatcher (LAPD)"
+[^ref-51]: [MobyGames – SWAT 3: Close Quarters Battle, Windows credits (Wayback, December 22, 2023)](https://web.archive.org/web/20231222062439/https://www.mobygames.com/game/845/swat-3-close-quarters-battle/credits/windows/) – "Producer Rod Fung; Game Designer Tammy Dargan; Writer Tammy Dargan; Director Tammy Dargan"

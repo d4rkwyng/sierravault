@@ -4,7 +4,7 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
-companies: ["Sierra On-Line", "Yosemite Entertainment", "Sierra Studios"]
+companies: ["Sierra On-Line", "Sierra Studios"]
 last_updated: '2026-10-26'
 ---
 # Tammy Dargan
@@ -13,9 +13,9 @@ last_updated: '2026-10-26'
 
 ## Overview
 
-Tammy Dargan is a game designer and producer who worked at Sierra On-Line on its law-enforcement games of the 1990s. She was hired by Sierra as a producer in 1991,[^ref-4] and her credits run from 1991 to 2001.[^ref-19] She is best known for Police Quest: Open Season (1993), which was credited to former LAPD Chief [[Daryl Gates|Daryl F. Gates]] as author but "chiefly written and designed by Tammy Dargan,"[^ref-35] and for designing Police Quest: SWAT (1995) and SWAT 3: Close Quarters Battle (1999).[^ref-19][^ref-9] Her MobyGames biography, submitted by Sierra, says she "gets to create worlds of wonder and work with the best artists, musicians, and engineers in the gaming industry."[^ref-4]
+Tammy Dargan is a game designer and producer who worked at Sierra On-Line on its law-enforcement games of the 1990s. She was hired by Sierra as a producer in 1991,[^ref-4] and her credits on new games run from 1991 to 2001, plus producer and director credits on the King's Quest compilations of 1997 and 2006.[^ref-19] She is best known for Police Quest: Open Season (1993), which was credited to former LAPD Chief [[Daryl Gates|Daryl F. Gates]] as author but "chiefly written and designed by Tammy Dargan,"[^ref-35][^ref-37] and for designing Police Quest: SWAT (1995) and SWAT 3: Close Quarters Battle (1999).[^ref-19][^ref-38][^ref-9] Her MobyGames biography, submitted by Sierra, says she "gets to create worlds of wonder and work with the best artists, musicians, and engineers in the gaming industry."[^ref-4]
 
-Before Sierra, she was an associate producer on an episode of the television show America's Most Wanted.[^ref-16][^ref-35] Her work on Open Season has been criticized for its racial caricatures.[^ref-2][^ref-35]
+Before Sierra, she worked on the television show America's Most Wanted;[^ref-35][^ref-39] IMDb lists her as associate producer on one 1990 episode,[^ref-16] and Sierra's InterAction magazine called her "a former America's Most Wanted producer."[^ref-36] Her work on Open Season has been criticized for its racial caricatures.[^ref-2][^ref-35]
 
 ## Career
 
@@ -29,7 +29,7 @@ Her America's Most Wanted background is often noted. One retrospective blogger w
 
 Her MobyGames biography marks her move from producing to design: "Today Sierra is a very different company, it's internationally owned, and Tammy has a different job - she no longer produces product, she designs it."[^ref-4]
 
-Ken Williams explained the decision to bring in Gates: he "wanted our police games to transition into tactical simulations more than just being interactive stories. Chief Gates had knowledge of police procedures and tactics that were well beyond what any one field officer could bring to the table."[^ref-3] According to filfre, Open Season "wound up in the hands of Tammy Dargan," and the work meant writing the script "essentially alone, then sending it to Gates via post for 'suggestions.'"[^ref-17]
+As quoted by the Starling Database, Ken Williams explained the decision to bring in Gates: he "wanted our police games to transition into tactical simulations more than just being interactive stories. Chief Gates had knowledge of police procedures and tactics that were well beyond what any one field officer could bring to the table."[^ref-3] According to filfre, Open Season "wound up in the hands of Tammy Dargan," and the work meant writing the script "essentially alone, then sending it to Gates via post for 'suggestions.'"[^ref-17]
 
 Through these games she built long-running contacts in the LAPD. SWAT 3 producer Rod Fung said in 1999: "Myself and designer Tammy Dargan worked with LAPD since Police Quest 4 in 1992, and so we've known a lot of these SWAT officers and police officers for a long time."[^ref-6]
 
@@ -41,13 +41,13 @@ Dargan was game designer on SWAT 3: Close Quarters Battle (1999) and its Elite E
 
 ### Police Quest: Open Season (1993)
 
-Police Quest: Open Season is Dargan's best-known and most controversial game. PC Gamer wrote: "Daryl F. Gates was presented as the author of the game, but most of it was actually designed and written by Sierra staffer Tammy Dargan."[^ref-2] VICE adds that "Gates gave her script notes."[^ref-35] MobyGames credits her with design, writing and direction, and as producer.[^ref-19]
+Police Quest: Open Season is Dargan's best-known and most controversial game. PC Gamer wrote: "Daryl F. Gates was presented as the author of the game, but most of it was actually designed and written by Sierra staffer Tammy Dargan."[^ref-2] VICE adds that "Gates gave her script notes."[^ref-35] Hardcore Gaming 101 likewise concluded that the game "actually seems to be designed by Tammy Dargan."[^ref-39] MobyGames credits her with design, writing and direction, and as producer, with Gates credited as author.[^ref-19][^ref-37]
 
-The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] According to Dargan, her main inspiration for the dialogue of characters such as "Raymond Jones The Third" and "Yo Money" was Fab Five Freddy's slang dictionary Fresh Fly Flavor: Words and Phrases of the Hip-Hop Generation.[^ref-3] Asked by Vibe magazine about the dialogue, Gates said: "I told [Sierra] that these people use the same language that you and I use."[^ref-35]
+The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] According to the Starling Database, Dargan said her main inspiration for the dialogue of characters such as "Raymond Jones The Third" and "Yo Money" was Fab Five Freddy's slang dictionary Fresh Fly Flavor: Words and Phrases of the Hip-Hop Generation.[^ref-3] Asked by Vibe magazine about the dialogue, Gates said: "I told [Sierra] that these people use the same language that you and I use."[^ref-35]
 
 ### Police Quest: SWAT (1995)
 
-Adventure Gamers wrote that "Tammy Dargan was mainly responsible for the design of Police Quest: Open Season and the first SWAT game."[^ref-8] Sierra's InterAction magazine interviewed her in Fall 1995 as SWAT's producer. Gates told the magazine: "The fact that Tammy read LAPD's SWAT manual from cover to cover, and knows it better than I do, added a lot."[^ref-36] Explaining why SWAT used video of real officers, she said: "when you video-capture actual SWAT officers, you are interacting with real SWAT guys."[^ref-36]
+Adventure Gamers wrote that "Tammy Dargan was mainly responsible for the design of Police Quest: Open Season and the first SWAT game."[^ref-8] Sierra's InterAction magazine interviewed her in Fall 1995 as SWAT's producer; MobyGames credits her as the game's designer, director and writer, and as producer with Phy Williams.[^ref-38] Gates told the magazine: "The fact that Tammy read LAPD's SWAT manual from cover to cover, and knows it better than I do, added a lot."[^ref-36] Explaining why SWAT used video of real officers, she said: "when you video-capture actual SWAT officers, you are interacting with real SWAT guys."[^ref-36]
 
 Her MobyGames biography closes with "Judging by the smile on Tammy's face, getting to hang out with the world's elite SWAT team ain't bad either," next to a photo captioned as taken "during the making of Police Quest: SWAT."[^ref-4]
 
@@ -61,7 +61,7 @@ In her 1995 InterAction interview, Dargan described SWAT as a "tactical simulati
 
 ## Legacy
 
-Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Open Season remains her most criticized game, chiefly for its depiction of race and policing.[^ref-2][^ref-35] SWAT 3's designer and producer team carried the LAPD contacts they had built since Police Quest 4 into the later games.[^ref-6][^ref-9]
+Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Open Season remains her most criticized game, chiefly for its depiction of race and policing.[^ref-2][^ref-35] SWAT 3's designer and producer team carried the LAPD contacts they had built since Police Quest 4 into SWAT 3.[^ref-6][^ref-9] Fung had been the cinematographer on Open Season.[^ref-37]
 
 ## Games
 
@@ -102,7 +102,7 @@ Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Ope
 [^ref-4]: [MobyGames - Tammy Dargan](https://www.mobygames.com/person/3083/tammy-dargan/) — Bio submitted by Sierra (hired 1991, 'mom & pop', 'worlds of wonder', SWAT photo caption); credits (48 credits on 21 games)
 [^ref-5]: [The Adventure Gamer blog - Game 149: Police Quest: Open Season (2024)](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Dargan produced, directed, designed and wrote PQ4; 'Who knows' remark
 [^ref-6]: [IGN - SWAT 3: Close Quarters Battle Interview (November 3, 1999)](https://www.ign.com/articles/1999/11/03/swat-3-close-quarters-battle-interview-2) — Rod Fung: worked with LAPD since Police Quest 4
-[^ref-8]: [Adventure Gamers (Wayback, April 20, 2023)](https://web.archive.org/web/20230420024751/https://adventuregamers.com/articles/view/34318) — Women in Sierra adventure games: Dargan 'mainly responsible for the design' of Open Season and SWAT
+[^ref-8]: [Adventure Gamers (Wayback, April 20, 2023)](https://web.archive.org/web/20230420024751/https://adventuregamers.com/articles/view/34318) — A Sierra Retrospective: Part 5 – The Shoulders of Giants: Dargan 'mainly responsible for the design' of Open Season and SWAT
 [^ref-9]: [Game Developer - Postmortem: Sierra's SWAT 3: Close Quarters Battle](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) — Jim Napier on producer Rod Fung and designer Tammy Dargan, LAPD contacts
 [^ref-14]: [IGN - SWAT 3: Close Quarters Battle Interview (June 16, 1999)](https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) — Rod Fung on the game designer Tammy Dargan and tactical teams
 [^ref-16]: [IMDb - Tammy Dargan](https://www.imdb.com/name/nm1010950/) — Associate producer, America's Most Wanted: America Fights Back (1990, 1 episode); game producer credits
@@ -111,3 +111,6 @@ Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Ope
 [^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/3083/tammy-dargan/credits/) — Complete game development credits
 [^ref-35]: [VICE - How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s (2018)](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Gates as nominal 'author', Dargan as writer/designer, Gates' Vibe remark
 [^ref-36]: [InterAction Magazine, Fall 1995 - An Interview with SWAT Producer Tammy Dargan (archive.org)](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) — Sierra magazine interview: tactical simulation, video-captured SWAT officers, Gates on Dargan reading the LAPD SWAT manual
+[^ref-37]: [MobyGames - Daryl F. Gates Police Quest: Open Season, DOS credits (Wayback, February 28, 2025)](http://web.archive.org/web/20250228145756/https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/dos/) — "Producer \\ Director Tammy Dargan; Designer \\ Writer Tammy Dargan"; Author Daryl F. Gates; Cinematographer Rod Fung
+[^ref-38]: [MobyGames - Daryl F. Gates' Police Quest: SWAT, DOS credits (Wayback, May 16, 2026)](http://web.archive.org/web/20260516224857/https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) — Designer, Director and Writer Tammy Dargan; Producers Tammy Dargan, Phy Williams
+[^ref-39]: [Hardcore Gaming 101 - Police Quest: Open Season (Wayback, December 6, 2022)](https://web.archive.org/web/20221206200735/http://www.hardcoregaming101.net/police-quest-open-season/) — Game "actually seems to be designed by Tammy Dargan, who had previously worked on the television show America's Most Wanted"

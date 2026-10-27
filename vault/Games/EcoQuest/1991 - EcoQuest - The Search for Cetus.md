@@ -10,14 +10,14 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
   designed to teach about the importance of environmental ethics and marine conservation....'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -35,6 +35,7 @@ EcoQuest launched Sierra's edutainment-oriented "Discovery Series" in 1991 as an
 > **Platforms:** DOS (floppy disk; full-speech CD-ROM version 1992)[^ref-23][^ref-1]
 > **Release Year:** 1991[^ref-3]
 > **Composer:** Chris Braymen[^ref-24]
+> **Producer:** [[Tammy Dargan]][^ref-31]
 > **Series:** EcoQuest
 > **Protagonist:** Adam Greene
 > **Sierra Lineage:** Core Sierra
@@ -112,7 +113,7 @@ One modern reviewer felt that a number of Eluria's characters seem inspired by D
 
 ### Technical Achievements
 
-The game was built on Sierra's SCI engine[^ref-8], with 256-color graphics[^ref-16], and supports MCGA, EGA, Tandy/PCjr and VGA video modes[^ref-8]; the floppy release offered VGA and EGA versions separately[^ref-29]. A full-speech CD-ROM version followed in 1992[^ref-1]. Its credited voice cast includes Dylan Skirvin as Adam, Brittany Benov as Delphineus, Walt Danneman as Cetus and Josh Mandel as Hippocrates[^ref-30]; a MobyGames review notes that Adam was voiced by William Skirvin's son[^ref-5]. William D. Skirvin is credited as the game's director and art designer[^ref-30]. The music was composed by Chris Braymen[^ref-24][^ref-30], and Mark Seibert, Aubrey Hodges, Dan Kehler and Orpheus Hanley share the sound-effects credit with him[^ref-30].
+The game was built on Sierra's SCI engine[^ref-8], with 256-color graphics[^ref-16], and supports MCGA, EGA, Tandy/PCjr and VGA video modes[^ref-8]; the floppy release offered VGA and EGA versions separately[^ref-29]. A full-speech CD-ROM version followed in 1992[^ref-1]. Its credited voice cast includes Dylan Skirvin as Adam, Brittany Benov as Delphineus, Walt Danneman as Cetus and Josh Mandel as Hippocrates[^ref-30]; a MobyGames review notes that Adam was voiced by William Skirvin's son[^ref-5]. William D. Skirvin is credited as the game's director and art designer[^ref-30], and [[Tammy Dargan]] as producer under executive producer Ken Williams[^ref-31]. The music was composed by Chris Braymen[^ref-24][^ref-30], and Mark Seibert, Aubrey Hodges, Dan Kehler and Orpheus Hanley share the sound-effects credit with him[^ref-30].
 
 The CD version removed the copy protection from the first scene[^ref-3]. Opinions differ on its graphics. One player review felt the CD release had "slightly better graphics in certain areas"[^ref-5]. The README of the EQ1-CDR fan patch disagrees, calling the CD artwork "objectivly worse compared to the original Floppy Disk version" because many graphics "were scaled-down or altered in undesirable ways"[^ref-16]. Running the CD version under DOSBox requires the game's RESOURCE.CFG to point to the correct path for speech to be heard[^ref-15].
 
@@ -201,3 +202,4 @@ The Digital Antiquarian judges that "the science behind the two games still hold
 [^ref-28]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – "rather delightful educational adventure", Jensen moving to King's Quest VI
 [^ref-29]: [Game Bytes #2 (May 1992) – EcoQuest review by Vic Witek](https://archive.org/details/game-bytes-2) – 12-year-old Adam, review verdict, VGA/EGA versions, "Coming soon for Mac and Amiga"
 [^ref-30]: [MobyGames – DOS credits](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – Creative Director Bill Davis, director William D. Skirvin, composer, sound effects, CD voice cast
+[^ref-31]: [MobyGames – DOS credits (Wayback, December 9, 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – "Executive Producer Ken Williams; Producer Tammy Dargan; Director William D. Skirvin"
