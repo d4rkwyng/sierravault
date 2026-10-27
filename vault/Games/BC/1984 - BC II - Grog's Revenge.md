@@ -2,7 +2,7 @@
 title: 'B.C. II: Grog''s Revenge'
 release_year: 1984
 developer: Sydney Development Corp.
-designer: [Rick Banks, Michael Bates]
+designer: [Rick Banks, Michael Bate]
 publisher: Sierra On-Line
 genre: Action
 platforms: [C64, ColecoVision, Coleco Adam, MSX]
@@ -10,7 +10,7 @@ series: B.C.
 engine: N/A
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Paul Butler]
 description: 'B.C. II: Grog''s Revenge is a 1984 action game developed by Sydney Development
   Corp. and published by Sierra On-Line for the Commodore 64, ColecoVision, Coleco Adam and MSX.'
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C. II: Grog's Revenge
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The game was released on multiple platforms through various international publis
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-1]
-> **Designer:** Rick Banks, Michael Bates[^ref-6]
+> **Designer:** Rick Banks, Michael Bate[^ref-6][^ref-26] (MobyGames and Lemon64 credit only Rick Banks for this game[^ref-2][^ref-11])
 > **Publisher:** [[Sierra On-Line]], U.S. Gold, Comptiq, Erbe Software, Spectravideo, Eaglesoft[^ref-1]
 > **Engine:** N/A
 > **Platforms:** Commodore 64, ColecoVision, Coleco Adam, MSX[^ref-2]
@@ -45,7 +45,7 @@ Thor has completed his Quest for Tires in the previous adventure. Now he must di
 
 The only way to reach Peter and the toll bridge that leads to enlightenment is through the "real scary caves"[^ref-7]. Each mountain is covered with clams, the currency of the prehistoric world as established in Hart's comic strip[^ref-6]. Thor needs to gather enough clams to pay the toll and advance to the next mountain[^ref-6]. Peter, a character from the original comics[^ref-10], serves as the toll collector who guards passage between mountain regions[^ref-9].
 
-The game culminates in a quest across multiple mountain sets, with Thor dodging obstacles and outwitting Grog to reach the ultimate prize. However, the meaning of life itself proves to be "unpleasant" according to player accounts[^ref-2]. When players finally reach the last mountain, a huge sign tells Thor that the Meaning of Life is to the right of him, but Grog is already waiting—forcing players into a cave to the left in search of an alternate route[^ref-10].
+The game culminates in a quest across multiple mountain sets, with Thor dodging obstacles and outwitting Grog to reach the ultimate prize. However, the meaning of life itself proves to be "unpleasant" according to player accounts[^ref-2]. When players finally reach the last mountain, a huge sign tells Thor that the Meaning of Life is to the right of him, but Grog is already waiting, so the only way on is a cave to the left; there, Thor cannot move, and the player has no choice but to end the game[^ref-10].
 
 ## Gameplay
 
@@ -93,7 +93,7 @@ The game received generally positive reviews from the gaming press of the mid-19
 
 *Commodore User* provided multiple scores: 4/5 in June 1985 from reviewer Mike Pattenden, and a later 8/10 in June 1988[^ref-11]. The original review stated: "The joy about this game is the graphics which are marvellous. It's like being in a cartoon, because the whole thing is superbly animated"[^ref-14]. The review concluded that "that would have made it a classic instead of just plain great"[^ref-14].
 
-*Commodore Format* gave the game 70% in March 1994, calling it "definitely a game of the old school" and "a fun little diversion"[^ref-6].
+*Commodore Format* gave the game 70% in March 1994 (issue 42)[^ref-11], calling it "definitely a game of the old school" and "a fun little diversion"[^ref-6].
 
 Additional reviews included:
 - *Commodore Horizons*: 6/10 (June 1985)[^ref-11]
@@ -114,9 +114,9 @@ Modern retrospectives have maintained generally favorable opinions of the game, 
 - **C64-Wiki:** 7.26/10 (27 votes)[^ref-3]
 - **C64games.de:** 9/10 (July 2014 snapshot)[^ref-3]
 - **Kultboy.com:** 6.67/10 (3 votes, July 2014 snapshot)[^ref-3]
-- **My Abandonware:** 4.9/5 (10 votes)[^ref-15]
+- **My Abandonware:** 4.92/5 (12 votes)[^ref-15]
 
-Community members continue to appreciate the game's qualities. A Lemon64 commenter called it "A real classic. Very good collect'em-up-game with funny cartoon grapics. Great fun"[^ref-11]. Another player noted: "BC II - Grog's Revenge is an easy game to pick up and play"[^ref-12], while acknowledging that modern standards may find it lacking compared to contemporary expectations[^ref-10].
+Community members continue to appreciate the game's qualities. A Lemon64 commenter called it "A real classic. Very good collect'em-up-game with funny cartoon grapics. Great fun"[^ref-11]. Another player noted: "BC II - Grog's Revenge is an easy game to pick up and play"[^ref-12].
 
 ## Development
 
@@ -128,12 +128,12 @@ The development was handled by the Canadian developer Sydney Development Corp.[^
 
 ### Production
 
-Development was led by designers Rick Banks and Michael Bates[^ref-6]. The game maintained the comic aesthetic of its predecessor but employed "more restrained colors" in its visual presentation, primarily featuring grey and blue tones rather than the brighter palette of the first game[^ref-3].
+Wikipedia names Rick Banks and Michael Bate as the designers (its Grog's Revenge article spells the name "Bates"; its Quest for Tires article, "Bate")[^ref-6][^ref-26]. MobyGames and Lemon64, however, credit only Rick Banks with the design of this game[^ref-2][^ref-11]. The game maintained the comic aesthetic of its predecessor but employed "more restrained colors" in its visual presentation, primarily featuring grey and blue tones rather than the brighter palette of the first game[^ref-3].
 
 The programming team included J. Stuart Easterbrook, P.C. Kelly, and Tris Orendorff as coders, while J. Meinert and Scott Fiander handled the graphics[^ref-11]. The result preserved the cartoon-like quality that made the original notable while adapting it to the new gameplay structure.
 
 **Development Credits:**[^ref-11]
-- **Designers:** Rick Banks, Michael Bates[^ref-6]
+- **Design:** Rick Banks; Michael Bate per Wikipedia only[^ref-6][^ref-26]
 - **Programmers:** J. Stuart Easterbrook, P.C. Kelly, Tris Orendorff
 - **Graphics:** J. Meinert, Scott Fiander
 - **Composer:** Paul Butler
@@ -205,7 +205,7 @@ The ColecoVision version suffered from the same issue, "although it was fixed fo
 After 34 years, Spanish programmer Félix Espina finally fixed the MSX version in 2019[^ref-6]. As celebrated by The MSX Channel: "34 years later, the MSX version of the game is *finally* fixed"[^ref-13]. The patch corrected the connection list errors, finally allowing MSX players to complete the game[^ref-19].
 
 **Other Issues:**
-- Controls can be "finicky with wall/fall detection" according to some players[^ref-12]
+- One Lemon64 reviewer found the controls "a little bit finicky with what constitutes a wall or not... or a fall or not"[^ref-12]
 - "There are not enough lives for the length of the game. Its easy to die, there are no continues, and there is no pause feature"[^ref-10]
 
 ### Easter Eggs and Trivia
@@ -214,7 +214,7 @@ After 34 years, Spanish programmer Félix Espina finally fixed the MSX version i
 - **Comptiq Easter Egg:** The MSX version contains a hidden easter egg message in the "Comptiq presents" screen when pressing F and H keys simultaneously[^ref-13]
 - **Headlight Anachronism:** "It always bugged me how the caveman had headlights on his unicycle, I mean really?"[^ref-5]—players have long questioned the technological inconsistency of a prehistoric character having electric lighting
 - **Comic Strip Currency:** The use of clams as currency is directly lifted from the B.C. comic strip, where clams served as the prehistoric economy's standard monetary unit[^ref-6]
-- **Regional Title Variations:** The game is also known as "BC2" and "Grog's Revenge" in various markets, and as "グロッグス・リベンジ" in Japan[^ref-15]
+- **Regional Title Variations:** The game is also known as "Grog's Revenge", and as "グロッグス・リベンジ" in Japan[^ref-15]; the advertised but unreleased ZX Spectrum version is also listed as "BC2"[^ref-17]
 
 ## Legacy
 
