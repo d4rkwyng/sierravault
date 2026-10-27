@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a 1999 tactical squad-based first-person
   shooter that moved the Police Quest / SWAT series from adventure games and isometric
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ Napier's postmortem describes the character animation system, art import tools, 
 
 To ensure authenticity, developers spent considerable time with actual LAPD SWAT officers, studying tactics and procedures.[^ref-10] Ken Thatcher, a highly decorated officer with 28 years in the LAPD, 23 of them with SWAT, and an element leader with LAPD SWAT's Metropolitan Division, was the main consultant; he reviewed the game's dialogue, tactics and equipment with designer Tammy Dargan.[^ref-12][^ref-6] Thatcher noted that "Hollywood and TV shows portray SWAT teams as rumbling, stumbling gun nuts. In Los Angeles, we're just the opposite."[^ref-6]
 
-Motion capture technology was employed extensively, with most of the game's roughly 500 motion-captured animations performed by an LAPD SWAT officer.[^ref-27] Thatcher himself performed more than 500 SWAT actions at House of Moves in Venice, California.[^ref-12] Sierra advertised more than 150 dynamic motion-captured characters.[^ref-2][^ref-44] Former LAPD Chief Daryl F. Gates, who joined Sierra's Police Quest series after retiring in 1992 (beginning with Police Quest: Open Season) and became lead advisor for its Police Quest and SWAT games, was also credited as an advisor on SWAT 3.[^ref-42][^ref-12][^ref-2]
+Motion capture technology was employed extensively, with most of the game's roughly 500 motion-captured animations performed by an LAPD SWAT officer.[^ref-27] Thatcher himself performed more than 500 SWAT actions at House of Moves in Venice, California.[^ref-12] Sierra advertised more than 150 dynamic motion-captured characters.[^ref-2][^ref-44] Former LAPD Chief [[Daryl Gates|Daryl F. Gates]], who joined Sierra's Police Quest series after retiring in 1992 (beginning with Police Quest: Open Season) and became lead advisor for its Police Quest and SWAT games, is credited as "Consultant" on SWAT 3.[^ref-42][^ref-12][^ref-2][^ref-50]
 
 **Development Credits:**[^ref-1][^ref-25]
 - **Lead Designer:** [[Tammy Dargan]]
@@ -339,3 +339,4 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-47]: [ELSPA Sales Awards: Silver (Archived)](https://web.archive.org/web/20090221154943/http://www.elspa.com/?i=3942) – lists SWAT 3: Elite Edition (PC, Vivendi) among Silver award titles
 [^ref-48]: [Gamasutra – ELSPA: Wii Fit, Mario Kart Reach Diamond Status In UK (Archived)](https://web.archive.org/web/20170918063107/https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php) – "Silver Status (100,000 sold)"
 [^ref-49]: [Electronic Gaming Monthly #137 (December 2000), Internet Archive](https://archive.org/details/electronic-gaming-monthly-issue-137-december-2000) – "Coming Soon – December 2000" (p.68), Dreamcast list: "SWAT 3D – Sierra"
+[^ref-50]: [MobyGames – SWAT 3: Close Quarters Battle Credits (Archived September 2005)](http://web.archive.org/web/20050912074406/http://www.mobygames.com:80/game/swat-3-close-quarters-battle/credits) – "Consultant: Daryl F. Gates (LAPD Ret.)"; "LAPD SWAT Advisor: Kenneth A. Thatcher (LAPD)"

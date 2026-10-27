@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Proprietary (Windows)
 protagonist: SWAT Commander / Dante (Terrorist Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: 'Police Quest: SWAT 2 is a real-time tactics game released on July 11,
   1998, developed by Yosemite Entertainment and published by Sierra FX. Representing
   a...'
@@ -18,7 +18,7 @@ tags: [1990s, police-quest-swat, sierra]
 ---
 # Police Quest: SWAT 2
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Police Quest: SWAT 2 is a real-time tactics game released on July 11, 1998, deve
 
 The game distinguished itself by offering dual campaigns—players could take command of an LAPD SWAT team or, unusually for the genre, lead a left-wing domestic terrorist organization called Five Eyes.[^ref-1] Sierra's own 1996 preview billed this as a "major first," letting players "delve deep into the criminal mind,"[^ref-30] and one GOG.com user review later called SWAT 2 "the only game I'm aware of with a full terrorist campaign."[^ref-4] The title blended strategic planning with real-time action, letting players build teams from a pool of 100 SWAT officers or 100 terrorists.[^ref-5]
 
-Created with the assistance of former Los Angeles Police Chief Daryl F. Gates—billed by Sierra's InterAction magazine as "the creator of the original SWAT team in the 1960's"—the game emphasized authentic police procedures and realistic tactical situations.[^ref-6][^ref-30] Many missions were based on actual LAPD cases, including scenarios inspired by the North Hollywood shootout of February 1997 and events paralleling the 1992 Los Angeles riots.[^ref-1] The game shipped with a 206-page manual containing an extensive database on SWAT tactics and procedures.[^ref-3]
+Created with the assistance of former Los Angeles Police Chief [[Daryl Gates|Daryl F. Gates]]—billed by Sierra's InterAction magazine as "the creator of the original SWAT team in the 1960's"—the game emphasized authentic police procedures and realistic tactical situations.[^ref-6][^ref-30] Many missions were based on actual LAPD cases, including scenarios inspired by the North Hollywood shootout of February 1997 and events paralleling the 1992 Los Angeles riots.[^ref-1] The game shipped with a 206-page manual containing an extensive database on SWAT tactics and procedures.[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]

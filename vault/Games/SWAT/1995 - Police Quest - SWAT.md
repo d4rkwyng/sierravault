@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: SCI 2.1
 protagonist: Unnamed SWAT Recruit ('SWAT-Pup')
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 composer: [Dan Kehler]
 description: 'Police Quest: SWAT (Daryl F. Gates'' Police Quest: SWAT) is the fifth
   Police Quest game and the first of the SWAT series: a 1995 full-motion-video tactical
@@ -19,18 +19,18 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
 # Police Quest: SWAT
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Police Quest: SWAT, officially titled *Daryl F. Gates' Police Quest: SWAT*, is the fifth installment in Sierra On-Line's Police Quest series and the first entry in what would become the SWAT tactical simulation franchise.[^ref-1] Released in autumn 1995 for DOS and Windows (GameSpot's original review page and Steam both give September 30, 1995, while Wikipedia's infobox says November 1995), with a Macintosh version following in December 1995, the game dropped the adventure format of its predecessors for a full-motion-video "tactical simulation" of life on the Los Angeles Police Department's Special Weapons and Tactics team.[^ref-44][^ref-22][^ref-1][^ref-6][^ref-40] The game carried the name of former LAPD Chief Daryl F. Gates, whom Sierra's own marketing called the founder of SWAT; historical accounts credit Gates with approving and building the unit around an idea first proposed by officer John Nelson.[^ref-41][^ref-46]
+Police Quest: SWAT, officially titled *Daryl F. Gates' Police Quest: SWAT*, is the fifth installment in Sierra On-Line's Police Quest series and the first entry in what would become the SWAT tactical simulation franchise.[^ref-1] Released in autumn 1995 for DOS and Windows (GameSpot's original review page and Steam both give September 30, 1995, while Wikipedia's infobox says November 1995), with a Macintosh version following in December 1995, the game dropped the adventure format of its predecessors for a full-motion-video "tactical simulation" of life on the Los Angeles Police Department's Special Weapons and Tactics team.[^ref-44][^ref-22][^ref-1][^ref-6][^ref-40] The game carried the name of former LAPD Chief [[Daryl Gates|Daryl F. Gates]], whom Sierra's own marketing called the founder of SWAT; historical accounts credit Gates with approving and building the unit around an idea first proposed by officer John Nelson.[^ref-41][^ref-46]
 
 Sierra shot the game's video with real LAPD SWAT officers at their training facilities and on location around Los Angeles County.[^ref-40][^ref-41][^ref-7] Critics were lukewarm to harsh about its interface and gameplay, but the game sold strongly: SWAT 3 developer Jim Napier later wrote that SWAT and SWAT 2 "received only marginal reviews, they sold like crazy. SWAT alone has sold over a million units to date" (March 2000).[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Tammy Dargan]] (assistant designer: Susan Frischer)[^ref-45]
-> **Consultant / namesake:** Daryl F. Gates[^ref-46][^ref-40]
+> **Namesake; Special Thanks credit:** Daryl F. Gates[^ref-45]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI 2.1 (Sierra Creative Interpreter)[^ref-25]
 > **Platforms:** DOS, Windows 3.x/95, Mac OS[^ref-1][^ref-7]
@@ -308,5 +308,5 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-42]: [Hyper #29 (March 1996), pp. 64–65, review by Julian Schoffel (Internet Archive scan)](https://archive.org/details/hyper-029/page/n63/mode/2up) – overall 80, "Slickly presented, entertaining and highly informative", "right scolding" for skipping a speech
 [^ref-43]: [Computer Gaming World #138 (January 1996), Sierra advertisement, p. 73 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_138/page/n76/mode/2up) – "major police departments… now use Police Quest CDs to train their officers" (marketing claim)
 [^ref-44]: [GameSpot – Police Quest: Swat Review (2003 capture, Wayback Machine)](https://web.archive.org/web/20030412084232/http://www.gamespot.com:80/pc/strategy/policequestswat/review.html) – release date 09/30/1995, "POSTED: 05/01/96", score 3.7, 8 MB RAM / 15 MB disk requirements
-[^ref-45]: [MobyGames – Daryl F. Gates' Police Quest: SWAT DOS credits](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) – designer/director/writer Tammy Dargan, assistant designer Susan Frischer, LAPD SWAT advisors
+[^ref-45]: [MobyGames – Daryl F. Gates' Police Quest: SWAT DOS credits](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) – designer/director/writer Tammy Dargan, assistant designer Susan Frischer, LAPD SWAT advisors; "Special Thanks: Daryl F. Gates (Chief / Ret. LAPD)" ([archived May 2026](http://web.archive.org/web/20260516224857/https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/))
 [^ref-46]: [Wikipedia – Daryl Gates](https://en.wikipedia.org/wiki/Daryl_Gates) – John Nelson's 1965 idea approved by Gates; Gates "a principal consultant for Sierra's SWAT series"

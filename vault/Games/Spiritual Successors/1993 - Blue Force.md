@@ -10,14 +10,14 @@ series: None
 engine: TsAGE
 protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 composer: [Ken Allen]
 description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only post-Sierra project at Tsunami Games.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -149,7 +149,7 @@ Walls later joined Westwood Studios in 1996, contributing to Blade Runner (1997)
 
 In 2013, Walls attempted to crowdfund **Precinct**, a spiritual successor to Police Quest, but the Kickstarter campaign failed to reach its $500,000 goal and was canceled early[^ref-2]. A subsequent open fundraising campaign also failed, never surpassing $7,000[^ref-2].
 
-Despite its troubled reception, Blue Force remains historically significant as a window into what Police Quest might have looked like had Walls continued the series rather than being replaced by Daryl Gates[^ref-3][^ref-5]. It stands alongside [[2022 - SpaceVenture|SpaceVenture]], [[2018 - Hero-U - Rogue to Redemption|Hero-U]], and [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] as evidence that Sierra's creative talent continued making Sierra-style games long after leaving the company.
+Despite its troubled reception, Blue Force remains historically significant as a window into what Police Quest might have looked like had Walls continued the series[^ref-3][^ref-5]. Instead, former LAPD Chief [[Daryl Gates]] was named to take over Police Quest; his name went on Police Quest: Open Season (1993), which [[Tammy Dargan]] designed and wrote, with Gates credited as author[^ref-5][^ref-22]. It stands alongside [[2022 - SpaceVenture|SpaceVenture]], [[2018 - Hero-U - Rogue to Redemption|Hero-U]], and [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] as evidence that Sierra's creative talent continued making Sierra-style games long after leaving the company.
 
 ## Downloads
 
@@ -202,3 +202,4 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-19]: [MobyGames - Robert Eric Heitman](https://www.mobygames.com/person/2200/robert-eric-heitman/) — Biography: early Sierra employee, SCI co-developer
 [^ref-20]: [MobyGames - Chris Hoyt](https://www.mobygames.com/person/2198/chris-hoyt/) — Sierra programming credits
 [^ref-21]: [MobyGames - Peter Ledger](https://www.mobygames.com/person/14232/peter-ledger/) — Credits incl. Conquests of Camelot art design
+[^ref-22]: [MobyGames - Daryl F. Gates Police Quest: Open Season DOS credits (Archived February 2025)](http://web.archive.org/web/20250228145756/https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/dos/) — "Designer \ Writer: Tammy Dargan"; "Author: Daryl F. Gates"

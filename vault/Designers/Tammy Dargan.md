@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Yosemite Entertainment", "Sierra Studios"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Tammy Dargan is a game designer and producer who worked at Sierra On-Line on its law-enforcement games of the 1990s. She was hired by Sierra as a producer in 1991,[^ref-4] and her credits run from 1991 to 2001.[^ref-19] She is best known for Police Quest: Open Season (1993), which was credited to former LAPD Chief Daryl F. Gates as author but "chiefly written and designed by Tammy Dargan,"[^ref-35] and for designing Police Quest: SWAT (1995) and SWAT 3: Close Quarters Battle (1999).[^ref-19][^ref-9] Her MobyGames biography, submitted by Sierra, says she "gets to create worlds of wonder and work with the best artists, musicians, and engineers in the gaming industry."[^ref-4]
+Tammy Dargan is a game designer and producer who worked at Sierra On-Line on its law-enforcement games of the 1990s. She was hired by Sierra as a producer in 1991,[^ref-4] and her credits run from 1991 to 2001.[^ref-19] She is best known for Police Quest: Open Season (1993), which was credited to former LAPD Chief [[Daryl Gates|Daryl F. Gates]] as author but "chiefly written and designed by Tammy Dargan,"[^ref-35] and for designing Police Quest: SWAT (1995) and SWAT 3: Close Quarters Battle (1999).[^ref-19][^ref-9] Her MobyGames biography, submitted by Sierra, says she "gets to create worlds of wonder and work with the best artists, musicians, and engineers in the gaming industry."[^ref-4]
 
 Before Sierra, she was an associate producer on an episode of the television show America's Most Wanted.[^ref-16][^ref-35] Her work on Open Season has been criticized for its racial caricatures.[^ref-2][^ref-35]
 

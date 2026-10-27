@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
 companies: ["Sierra On-Line", "Electronic Arts", "The ImagiNation Network", "Stunt Puppy Entertainment", "LimeLife"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Gano Haine
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Haine and Jensen worked with the Marine Mammal Center of Sausalito, California, 
 
 She also contributed "Additional Material" to the 1991 VGA remake of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], and was one of four designers of [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] (1993), with Jane Jensen, Josh Mandel and Lorelei Shannon.[^ref-17][^ref-20][^ref-1]
 
-While she was working on Lost Secret of the Rainforest, Ken Williams brought a visitor to her team and told her: "Show this man everything about how we do this!" She demonstrated Sierra's development tools; only afterwards did one of her artists tell her who it was: "The artist looks at me, and he goes, 'Gano! Daryl Gates. LA. KA-BOOM!'"[^ref-5] Her next pitch, *The Wings of Icarus*, was shelved during Sierra's company-wide layoffs.[^ref-12]
+While she was working on Lost Secret of the Rainforest, Ken Williams brought a visitor to her team and told her: "Show this man everything about how we do this!" She demonstrated Sierra's development tools; only afterwards did one of her artists tell her who it was: "The artist looks at me, and he goes, 'Gano! [[Daryl Gates]]. LA. KA-BOOM!'"[^ref-5] Her next pitch, *The Wings of Icarus*, was shelved during Sierra's company-wide layoffs.[^ref-12]
 
 ### Later Career
 
