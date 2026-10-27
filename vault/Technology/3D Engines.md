@@ -18,29 +18,32 @@ Unlike the SCI generations, which Sierra developed in-house and shipped across m
 
 ---
 
-## Dynamix 3Space (1986–1998)
+## Dynamix 3Space (1983–1998)
 
 **Developer:** [[Dynamix]] (Eugene, Oregon).
 
-3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
+3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Sierra's own *News Magazine* said in 1990 that the original *Stellar 7* "was the first game to use Damon Slye's 3Space", and that the 1990 remake used "improved 3Space technology";[^ref-35] MobyGames dates that original to 1983 on the Apple II.[^ref-36] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
 
 ### 3Space games
 
 | Year | Title | Notes |
 |------|-------|-------|
+| 1983 | *Stellar 7* (original) | Apple II; first game to use 3Space[^ref-35][^ref-36] |
 | 1986 | *Arcticfox* | Named by Slye[^ref-16] |
-| 1989 | *Abrams Battle Tank* | Named by Slye[^ref-16] |
+| 1989 | *Abrams Battle Tank* | Named by Slye;[^ref-16] MobyGames dates the DOS release to April 1989,[^ref-37] Wikipedia to 1988[^ref-38] |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight combat |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Named by Slye[^ref-16] |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | BattleTech mech combat (Activision-published) |
 | 1990 | [[1990 - Red Baron\|Red Baron]] | WWI flight sim; DOS release December 1990[^ref-17] |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank-combat remake; 3-Space 1.0 game[^ref-16] |
+| 1991 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer v1.5]] | In Sierra Chest's 3-Space group[^ref-16] |
 | 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9]] | Named by Slye[^ref-16] |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII flight |
 | 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Expansion; in Sierra Chest's 3-Space group[^ref-16] |
 | 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | In Sierra Chest's 3-Space group[^ref-16] |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | WWII flight |
 | 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech combat |
+| 1995 | [[1995 - Metaltech - Earthsiege Expansion Pack\|Metaltech: Earthsiege Expansion Pack]] | In Sierra Chest's 3-Space group;[^ref-16] DOS 1995[^ref-44] |
 | 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Mech combat sequel |
 | 1996 | [[1996 - Silent Thunder - A-10 Tank Killer II\|Silent Thunder: A-10 Tank Killer II]] | Named by Slye[^ref-16] |
 | 1997 | [[1997 - Red Baron II\|Red Baron II]] | 3-Space 2.0[^ref-16] |
@@ -66,7 +69,7 @@ Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsie
 
 **Developer:** [[Papyrus Design Group]] (Watertown, Massachusetts).
 
-Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. No source gives them consistent names: Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
+Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. Sources name them differently: PCGamingWiki files *NASCAR Racing*, *Grand Prix Legends*, *NASCAR Racing 2002 Season*, *NASCAR Racing 2003 Season* and iRacing under an engine it calls "Papy3D",[^ref-40] while Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
 
 ### Papyrus games
 
@@ -75,7 +78,7 @@ Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racin
 | 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] |
 | 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] |
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] |
-| 1996 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] (DOS, Windows and Mac, 1996)[^ref-21] |
+| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] (*PC Games* reviewed it in December 1995;[^ref-39] MobyGames dates the DOS, Windows and Mac releases to 1996[^ref-21]) |
 | 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] |
 | 1997 | [[1997 - CART Racing\|CART Racing]] |
 | 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] |
@@ -112,7 +115,7 @@ Gearbox's [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collecti
 
 ## Valve GoldSrc (1998–2004, Sierra-published)
 
-**Developer:** [[Valve Corporation]] (Bellevue, Washington).
+**Developer:** [[Valve Corporation]] (founded in Kirkland, Washington, in 1996; moved to Bellevue in 2003).[^ref-26]
 
 GoldSrc is "a heavily modified version of id Software's Quake engine", which debuted in 1998 with [[1998 - Half-Life|Half-Life]].[^ref-9] It "supports skeletal animation, which allowed for more realistic body kinematics and facial expression animations than most other engines at the time".[^ref-9] Sierra published *Half-Life* and its early spin-offs, while Valve kept the engine.
 
@@ -140,13 +143,13 @@ LithTech is a discontinued game engine "developed by Monolith Productions and co
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | LithTech 2.2; Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
+| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | LithTech 2.0 at release, updated to 2.2 by a patch; reviews called it LithTech 2.5;[^ref-10] Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
 | 2001 | Aliens versus Predator 2 | Lithtech Talon; published by Sierra On-Line and Fox Interactive[^ref-34] |
 | 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2]] | LithTech Jupiter; Vivendi Universal Games under the Sierra brand, with Fox Interactive[^ref-28] |
-| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | Monolith / Sierra |
-| 2005 | F.E.A.R. | Published by Vivendi Universal Games[^ref-29] |
+| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | LithTech Jupiter ("the core NOLF 2 engine", per GameSpy;[^ref-41] NOLF 2 ran on Jupiter[^ref-28]); Monolith / Sierra |
+| 2005 | F.E.A.R. | LithTech Jupiter EX; Vivendi Universal Games under the Sierra Entertainment brand[^ref-29] |
 
-Monolith became part of Warner Bros. Interactive in 2004.[^ref-11]
+LithTech 1.0 had debuted in 1998 with Monolith's *Shogo: Mobile Armor Division* and *Blood II: The Chosen*,[^ref-10] neither published by Sierra: Monolith (with Microïds in Europe) published *Shogo*,[^ref-45] GT Interactive *Blood II*.[^ref-46] Monolith became part of Warner Bros. Interactive in 2004.[^ref-11]
 
 ---
 
@@ -161,7 +164,9 @@ The 2015 [[2015 - King's Quest|King's Quest]] reboot by The Odd Gentlemen, publi
 ## Other engines in the Sierra catalog
 
 - **Impressions city-builders** — [[1992 - Caesar|Caesar]] (1992) and [[1995 - Caesar II|Caesar II]] were Impressions games; Sierra Chest lists the Caesar games under "Unknown/unnamed" engines.[^ref-18] [[2006 - Caesar IV|Caesar IV]] was developed by Tilted Mill Entertainment, not Impressions, and "features a three-dimensional game engine".[^ref-32]
-- **Coktel Vision adventure engine** — Coktel's own 2D engine ran the Gobliiins series, Goblins Quest 3 and Lost in Time, which ScummVM supports through its Gob engine.[^ref-33] See [[Engine History]] for which Coktel games are confirmed.
+- **Coktel Vision adventure engine** — Coktel's own 2D engine ran [[1991 - Gobliiins|Gobliiins]], [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]], [[1993 - Goblins Quest 3|Goblins Quest 3]] and [[1993 - Lost in Time|Lost in Time]], which ScummVM supports through its Gob engine.[^ref-33] See [[Engine History]] for which Coktel games are confirmed.
+
+- **Also on Sierra** — Sierra built its own 3D engine, the G-Engine, for [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3]]; Jane Jensen wrote that "GK3 needed this new engine and so did Sierra".[^ref-43] [[2005 - SWAT 4|SWAT 4]] (2005), developed by Irrational Games and published by Sierra Entertainment, was "built on Irrational Games' Vengeance Engine powered by Unreal Engine 2 technology".[^ref-42]
 
 For the 2D adventure engines (AGI, SCI), see [[Engine History]].
 
@@ -198,7 +203,7 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-7]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — fleet travels "in a fully three-dimensional space"; first game developed by Relic; "A release of the source code in 2003 sparked unofficial ports"
 [^ref-8]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — Unreal Engine 4
 [^ref-9]: [Wikipedia — GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) — "a heavily modified version of id Software's Quake engine"; debut 1998 with Half-Life; "supports skeletal animation"
-[^ref-10]: [Wikipedia — LithTech](https://en.wikipedia.org/wiki/LithTech) — "a discontinued game engine developed by Monolith Productions and comparable with the Quake and Unreal engines"
+[^ref-10]: [Wikipedia — LithTech](https://en.wikipedia.org/wiki/LithTech) — "a discontinued game engine developed by Monolith Productions and comparable with the Quake and Unreal engines"; NOLF shipped on LithTech 2.0 and "received an upgrade to LithTech 2.2 in a patch release"; cited reviews call NOLF's engine "LithTech 2.5"; version 1.0: Shogo and Blood II (1998)
 [^ref-11]: [Wikipedia — Monolith Productions](https://en.wikipedia.org/wiki/Monolith_Productions) — parent Warner Bros. Games (2004–2025)
 [^ref-12]: [Wikipedia — Unreal Engine 3](https://en.wikipedia.org/wiki/Unreal_Engine_3) — "in November 2009, Epic released a free version of UE3's SDK, called the Unreal Development Kit (UDK)"
 [^ref-13]: [HomeworldSDL (GitHub mirror)](https://github.com/HomeworldSDL/HomeworldSDL) — "PROJECT MOVED: HomeworldSDL is now Gardens of Kadesh"; "Source port of Homeworld 1… It's source code was released in 2003 by Relic Entertainment"
@@ -213,12 +218,24 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-23]: [Wikipedia — Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) — developer Barking Dog Studios, publisher Sierra Studios; "uses essentially the same game engine as Homeworld"
 [^ref-24]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — "The Remastered versions are both built on the Homeworld 2 engine"
 [^ref-25]: [Wikipedia — Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero) — "developed by Ritual Entertainment, Turtle Rock Studios, and Valve, and published by Sierra Entertainment and Valve"; engine GoldSrc
-[^ref-26]: [Wikipedia — Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) — legal dispute with Vivendi Universal Games (Sierra Entertainment); "Vivendi Universal's promise to end distribution on August 31" (2005)
+[^ref-26]: [Wikipedia — Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) — founded in Kirkland, Washington, on August 24, 1996; "In 2003, Valve moved to Bellevue, Washington"; legal dispute with Vivendi Universal Games (Sierra Entertainment); "Vivendi Universal's promise to end distribution on August 31" (2005)
 [^ref-27]: [Wikipedia — The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) — publishers: Windows Fox Interactive, PlayStation 2 Sierra Entertainment; engine LithTech 2.2
 [^ref-28]: [Wikipedia — No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.%27s_Way) — Vivendi Universal Games "Released under the Sierra Entertainment brand", Fox Interactive; engine LithTech Jupiter
-[^ref-29]: [Wikipedia — F.E.A.R. (video game)](https://en.wikipedia.org/wiki/F.E.A.R._(video_game)) — "Developed by Monolith Productions and published by Vivendi Universal Games"; 2005
+[^ref-29]: [Wikipedia — F.E.A.R. (video game)](https://en.wikipedia.org/wiki/F.E.A.R._(video_game)) — "Developed by Monolith Productions and published by Vivendi Universal Games"; "Released under the Sierra Entertainment brand name"; engine LithTech Jupiter EX; 2005
 [^ref-30]: [Wikipedia — King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — engine Unreal Engine 3; "published by Activision under the Sierra Entertainment brand name"; Windows, PS3, PS4, Xbox 360, Xbox One
 [^ref-31]: [Wikipedia — Leisure Suit Larry: Box Office Bust](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust) — engine Unreal Engine 3; 2009
 [^ref-32]: [Wikipedia — Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) — "developed by Tilted Mill Entertainment and published by Sierra Entertainment"; "features a three-dimensional game engine"
-[^ref-33]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — lists Grim Fandango (grim:grim) and Myst III: Exile (myst3:myst3); Gobliiins (gob:gob1), Goblins Quest 3 (gob:gob3), Lost in Time (gob:lit)
+[^ref-33]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — lists Grim Fandango (grim:grim) and Myst III: Exile (myst3:myst3); Gobliiins (gob:gob1), Gobliins 2 (gob:gob2), Goblins Quest 3 (gob:gob3), Lost in Time (gob:lit)
 [^ref-34]: [Wikipedia — Aliens versus Predator 2](https://en.wikipedia.org/wiki/Aliens_versus_Predator_2) — developer Monolith Productions; publishers Sierra On-Line and Fox Interactive; engine Lithtech Talon; Windows 2001
+[^ref-35]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990), Internet Archive scan](https://archive.org/details/Sierra_Vol_03_03_News_Magazine_1990_Fall) — Stellar 7 article: "it was the first game to use Damon Slye's 3Space"; the remake has "improved 3Space technology"
+[^ref-36]: [MobyGames — Stellar 7 (Moby ID 39286)](https://www.mobygames.com/game/39286/stellar-7/) — read via the MobyGames API: Apple II first release 1983, Commodore 64 1984
+[^ref-37]: [MobyGames — Abrams Battle Tank (Moby ID 2906)](https://www.mobygames.com/game/2906/abrams-battle-tank/) — read via the MobyGames API: DOS 1989-04, developed by Dynamix, published by Electronic Arts
+[^ref-38]: [Wikipedia — Abrams Battle Tank](https://en.wikipedia.org/wiki/Abrams_Battle_Tank) — "developed by Dynamix and published by Electronic Arts in 1988 for MS-DOS"; designed by Damon Slye
+[^ref-39]: [PC Games — IndyCar Racing 2 review, December 1995 (Wayback, February 7, 1997)](https://web.archive.org/web/19970207065818/http://www.pcgamesmag.com/games/Dec95/indy1295.html) — Bill Meyer's review in the Dec95 section; adds "support for Windows 95 and the Power Mac"
+[^ref-40]: [PCGamingWiki — Engine: Papy3D](https://www.pcgamingwiki.com/wiki/Engine:Papy3D) — developer Papyrus Design Group; games: Grand Prix Legends, iRacing, NASCAR Racing, NASCAR Racing 2002 Season, NASCAR Racing 2003 Season
+[^ref-41]: [GameSpy — Contract J.A.C.K. review (Wayback, October 5, 2012)](https://web.archive.org/web/20121005233646/http://pc.gamespy.com//pc//contract-jack//6344p1.html) — "Monolith takes the No One Lives Forever series in a new direction in this standalone expansion"; "The core NOLF 2 engine is solid"
+[^ref-42]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — "SWAT 4 was built on Irrational Games' Vengeance Engine powered by Unreal Engine 2 technology"
+[^ref-43]: [Jane Jensen — GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) — "GK3 is the first project I've worked on that we created a game engine from scratch"; "GK3 needed this new engine and so did Sierra. The G-Engine is a fabulous piece of engineering"
+[^ref-44]: [MobyGames — Metaltech: EarthSiege - Expansion Pack (Moby ID 24568)](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) — read via the MobyGames API: DOS 1995
+[^ref-45]: [Wikipedia — Shogo: Mobile Armor Division](https://en.wikipedia.org/wiki/Shogo:_Mobile_Armor_Division) — publisher Monolith Productions (NA), Microïds (EU); engine LithTech 1.0; 1998
+[^ref-46]: [Wikipedia — Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) — publisher GT Interactive; engine LithTech; 1998
