@@ -10,16 +10,16 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra''s
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996 for Windows and Mac OS.'
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-10-09T19:29:49-06:00
+last_modified: 2026-10-26T12:00:00-06:00
 ---
 # 3-D Ultra Pinball: Creep Night
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ Unlike traditional pinball simulations of its era, Creep Night deliberately took
 
 ## Story Summary
 
-The premise is that, after a hundred years of dormancy, a vortex to the Underworld has opened, releasing gargoyles, zombies, ghosts and other supernatural creatures into a haunted castle; after defeating them on all three tables, the player unlocks a secret table to confront the Goblin King and seal the vortex for another hundred years[^ref-22]. The game takes players through a haunted castle environment featuring three distinct areas: the Castle grounds, the Tower top, and the Dungeon depths[^ref-4]. Each table presents a mission-based concept with five tasks per table that players must complete[^ref-4]. The horror theme is reinforced through animated creatures and supernatural elements that would be impossible to achieve in a real pinball machine[^ref-2].
+The premise is that, after a hundred years of dormancy, a vortex to the Underworld has opened, releasing gargoyles, zombies, ghosts and other supernatural creatures into a haunted castle; after defeating them on all three tables, the player unlocks a secret table to confront the Goblin King and seal the vortex for another hundred years[^ref-22]. Metacritic's game summary puts it slightly differently: "Once every 100 years a vortex to the underworld opens and chaos reigns as ghosts, gremlins and gargoyles wreak havoc in a haunted castle"[^ref-24]. The game takes players through a haunted castle environment featuring three distinct areas: the Castle grounds, the Tower top, and the Dungeon depths[^ref-4]. Each table presents a mission-based concept with five tasks per table that players must complete[^ref-4]. The horror theme is reinforced through animated creatures and supernatural elements that would be impossible to achieve in a real pinball machine[^ref-2].
 
 ## Gameplay
 
@@ -68,15 +68,15 @@ Creep Night received mixed to positive reviews from gaming publications of the m
 | GameRevolution | 7/10 | Review published November 5, 1996[^ref-1] |
 | Génération 4 | 4/5 | French publication[^ref-1] |
 | Joystick | 80% (PC), 60% (Mac) | Notable platform disparity[^ref-1] |
-| Gamezilla | 88% | Reviewed by Bob Mandel[^ref-1] |
+| Gamezilla | 88% | Reviewed by Bob Mandel[^ref-1][^ref-25] |
 | PC Multimedia & Entertainment | 88% | "Right balance of excellent sights and sounds"[^ref-1] |
 | PC Games (DE) | 68% | German publication[^ref-1] |
-| PC Joker | 74% | September 20, 1996[^ref-1] |
+| PC Joker | 74% | October 1996 issue[^ref-1] |
 | MacUser | 3/5 | Roman Loyola, March 1997[^ref-1] |
 | PC Player | 4 stars | Monica Stoscheck[^ref-1] |
 | Score | 3/10 | Notably negative outlier[^ref-1] |
 
-Computer Gaming World's Charlotte Panther concluded that "Creep Night is an entertaining game with plenty of scope for replayability"[^ref-1][^ref-3]. Mac Game Gate's Robert Edvardsson called it "one of the finest pinball simulators available for the Mac," praising its sound effects, music, and graphics[^ref-1]. PC Multimedia & Entertainment awarded it 88%, stating that "Creepnight offers the right balance of excellent sights and sounds, with non-stop addictively compelling gameplay!"[^ref-1]
+Computer Gaming World's Charlotte Panther concluded that "Creep Night is an entertaining game with plenty of scope for replayability"[^ref-1][^ref-3]. Mac Game Gate's Robert Edvardsson called it "one of the finest pinball simulators available for the Mac," praising its sound effects, music, and graphics[^ref-1]. PC Multimedia & Entertainment awarded it 88%, stating that "Creepnight offers the right balance of excellent sights and sounds, with non-stop addictively compelling gameplay!"[^ref-1] Gamezilla's Bob Mandel cautioned that for "traditional pinball aficionados who want to play only classic pinball" it was "not the best choice", pointing them to Crystal Caliburn and Full Tilt Pinball instead[^ref-25].
 
 ### Modern Assessment
 
@@ -86,7 +86,7 @@ MobyGames lists a critic average of 75% from 18 ratings[^ref-19]. Hardcore Gamin
 
 ### Origins
 
-3-D Ultra Pinball: Creep Night was developed by Dynamix for Sierra On-Line as the second entry in the 3-D Ultra Pinball series[^ref-1][^ref-4]. The series built upon the success of the original 3-D Ultra Pinball, which was inspired by Sierra's 1994 title Outpost[^ref-3]. Development was handled by Jeff Tunnell Productions/Dynamix[^ref-3].
+3-D Ultra Pinball: Creep Night was developed by Dynamix for Sierra On-Line as the second entry in the 3-D Ultra Pinball series[^ref-1][^ref-4]. The series built upon the success of the original 3-D Ultra Pinball, which was inspired by Sierra's 1994 title Outpost[^ref-3]. Sources differ on the studio credit: MobyGames credits development of Creep Night to Dynamix, Inc. in every one of its release records[^ref-23], while Retro365 describes the 3-D Ultra Pinball series as a whole as "developed by Jeff Tunnell Productions/Dynamix"[^ref-3].
 
 MobyGames' credits for the Windows version list [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer, Ken Embery as producer, Kyle Miller as designer and art director, Dariusz Lukaszuk and Jon Milnes as lead programmers, and Jerry Carathers as pinball design consultant. The game is dedicated "In Memory of Dariusz Lukaszuk (1964-1996)"[^ref-20].
 
@@ -100,13 +100,13 @@ The game shipped on CD-ROM[^ref-20] and uses an isometric perspective[^ref-5]. C
 
 ## Legacy
 
-The 3-D Ultra Pinball series, including Creep Night, achieved significant commercial success, reaching 500,000 copies sold by 1998[^ref-3]. Steam community discussions still reference the Sierra pinball games fondly, with users remembering them as "3 great adventure type Pinball games" that featured "20 linked areas to play through"[^ref-8].
+The 3-D Ultra Pinball series, including Creep Night, achieved significant commercial success, reaching 500,000 copies sold by 1998[^ref-3]. A 2015 Steam community post remembers the Sierra pinball games as "3 great adventure type Pinball games" that featured "20 linked areas to play through"[^ref-8].
 
 Later write-ups stress that it put entertainment ahead of realistic physics. One retailer's description says "The wonderful animations, sound, and the focus on making a fun game and not an exact copy of a real pinball table push this one ahead of the pack of mid 90s releases"[^ref-2]. Modern users continue to appreciate this design philosophy, with one stating that "Creep Night remains one of my all time favourite pinball games"[^ref-5].
 
 ### Later Releases and Adaptability
 
-An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Dice Multi Media published a German re-release in 2005, nine years after the original[^ref-5]. Running the original release on modern Windows is still a question players ask; a 2018 Microsoft Q&A post asks how to run it on Windows 8.1[^ref-21].
+An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Dice Multi Media published a German re-release in 2005, nine years after the original[^ref-5]. Creep Night was later bundled with the first game and The Lost Continent in the 1999 compilation [[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power!]][^ref-12]. Running the original release on modern Windows is still a question players ask; a 2018 Microsoft Q&A post asks how to run it on Windows 8.1[^ref-21].
 
 ## Downloads
 
@@ -154,10 +154,11 @@ An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Di
 [^ref-12]: [3-D Ultra Pinball Wikipedia](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) - Series overview information
 [^ref-14]: [GamePressure - 3D Ultra Pinball: Creep Night](https://www.gamepressure.com/games/3d-ultra-pinball-creep-night/zf3c54) - Release date (September 23, 1996)
 [^ref-17]: [Glitch Wave - 3-D Ultra Pinball: Creep Night](https://glitchwave.com/game/3-d-ultra-pinball-creep-night/) - Table structure and user rating
-[^ref-18]: [Hardcore Gaming 101 - 3-D Ultra Pinball: Creep Night](https://www.hardcoregaming101.net/3-d-ultra-pinball-creep-night/) - Retrospective review: resolution, music, comparison with the first game
+[^ref-18]: [Hardcore Gaming 101 - 3-D Ultra Pinball: Creep Night (Wayback Machine, March 21, 2025)](https://web.archive.org/web/20250321030717/http://www.hardcoregaming101.net/3-d-ultra-pinball-creep-night/) - Retrospective review: resolution, music, comparison with the first game (live site in maintenance as of October 2026)
 [^ref-19]: [MobyGames – 3-D Ultra Pinball: Creep Night Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/) – Aggregated review scores and critical assessments
 [^ref-20]: [MobyGames – 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/) – Description, platforms, media type, and Windows credits
 [^ref-21]: [Microsoft Q&A - How do I run Sierra 3D Ultra Pinball Creep Night on 8.1 Windows](https://learn.microsoft.com/en-us/answers/questions/2843618/how-do-i-run-a-sierra-3d-ultra-pinball-creep-night) - 2018 user compatibility question
 [^ref-22]: [TV Tropes - 3-D Ultra Pinball: Creep Night](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinballCreepNight) - Game premise and Goblin King finale
 [^ref-23]: [MobyGames – 3-D Ultra Pinball: Creep Night Releases](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/releases/) – Release dates by platform and country
-
+[^ref-24]: [Metacritic - 3-D Ultra Pinball: Creep Night](https://www.metacritic.com/game/3-d-ultra-pinball-creep-night/) - Game summary (premise)
+[^ref-25]: [Gamezilla - 3D Ultra Pinball: Creep Night review by Bob Mandel (Wayback Machine, February 4, 1999)](https://web.archive.org/web/19990204025732/http://www.gamezilla.com/reviews/c/cnpinball.asp) - Contemporary review
