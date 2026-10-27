@@ -111,7 +111,7 @@ The design vision centered on gladiatorial mech combat, drawing inspiration from
 
 ### Production
 
-Development was led by designers David Selle and Tim Gift, with Tim Gift also serving as lead programmer[^ref-4]. Mark Crowe served as producer and art director[^ref-17]. The writing team included Neal Hallford, David Selle, Gregory Rucka, and Kurt Weber, who crafted the game's universe and flavor text[^ref-17].
+Development was led by designers David Selle and Tim Gift, with Tim Gift also serving as lead programmer[^ref-4]. [[Mark Crowe]] served as producer and art director[^ref-17][^ref-1]. The writing team included Neal Hallford, David Selle, Gregory Rucka, and Kurt Weber, who crafted the game's universe and flavor text[^ref-17].
 
 Its retail listing advertises Dynamix's 3Space engine[^ref-8]; the game has fully three-dimensional graphics, textured in-game items and rudimentary physics[^ref-17]. Christopher Stevens and Timothy Steven Clarke composed the game's soundtrack, creating 17 MIDI tracks that accompanied the mech battles[^ref-20].
 
@@ -121,7 +121,7 @@ One cause for criticism was the game's high hardware requirements for typical PC
 - **Producer:** [[Mark Crowe]]
 - **Designers:** David Selle, Tim Gift
 - **Lead Programmer:** Tim Gift
-- **Lead Artist:** Mark Crowe
+- **Art Direction:** Mark Crowe[^ref-1]
 - **Writers:** [[Neal Hallford]], David Selle, Gregory Rucka, Kurt Weber
 - **Composers:** Christopher Stevens, Timothy Steven Clarke
 - **Voice Actors:** Ed Raggozino, Sher Alltucker
@@ -249,7 +249,7 @@ From a modern perspective, The Collection Chamber places it in the history of on
 
 ## References
 
-[^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings (63% critics / 4.1 players as of Oct 2026), credits
+[^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings (63% critics / 4.1 players as of Oct 2026), credits (DOS credits list "Art Direction: Mark Crowe"; page copy read via ScraperAPI, October 26, 2026)
 [^ref-2]: [Internet Archive – Battledrome Demo](https://archive.org/details/bdrome) – game description, betting mechanics, release year
 [^ref-3]: [Collection Chamber – Metaltech: Battledrome](https://collectionchamber.blogspot.com/p/metaltech-battledrome.html) – "early online battle arena", two-player LAN/modem, "precursor to Activision's NetMech", control criticism
 [^ref-4]: [Wikipedia – Metaltech: Battledrome](https://en.wikipedia.org/wiki/Metaltech:_Battledrome) – designers, Earthsiege companion status, equipment purchase mechanics
