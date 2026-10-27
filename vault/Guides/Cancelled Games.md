@@ -2,21 +2,23 @@
 title: "Cancelled Games"
 type: guide
 last_updated: '2026-10-26'
+description: "Sierra's most significant cancelled projects, from Space Quest VII and King's Quest IX to the 2013 Kickstarters, with what the sources say about why each one ended and what survives."
+tags: [guide, cancelled, never-released]
 ---
 # Sierra's Cancelled Games: The Ones That Got Away
 
-Sierra Entertainment developed some of the most beloved video game franchises in history, but for every game that shipped, others died on the vine. This guide documents Sierra's most significant cancelled projects—ambitious games that never saw release, leaving fans to wonder what might have been.
+Sierra Entertainment built long-running series such as King's Quest, Space Quest and Leisure Suit Larry, but for every game that shipped, others died on the vine. This guide documents Sierra's most significant cancelled projects—ambitious games that never saw release, leaving fans to wonder what might have been.
 
 ## Overview
 
 Sierra's cancelled games represent a fascinating cross-section of gaming history. These weren't just abandoned prototypes; many were substantial projects with famous designers, completed voice recordings, and playable builds. Their cancellations reveal the corporate dysfunction, industry shifts, and creative conflicts that marked Sierra's decline in the late 1990s and early 2000s.[^ref-1]
 
-The pattern is striking: multiple beloved franchises—King's Quest, Space Quest, Leisure Suit Larry—all had planned sequels cancelled during the tumultuous period between 1997 and 2013. The corporate upheaval following CUC International's acquisition of Sierra, culminating in "Chainsaw Monday" (February 22, 1999), decimated Sierra's legendary development teams.[^ref-2]
+The pattern is striking: multiple beloved franchises—King's Quest, Space Quest, Leisure Suit Larry—all had planned sequels cancelled during the tumultuous period between 1997 and 2013. The corporate upheaval following CUC International's acquisition of Sierra, culminating in "Chainsaw Monday" (February 22, 1999), decimated Sierra's development teams.[^ref-2][^ref-1]
 
 > [!note] A Timeline of Loss
 > - **1989:** Manhunter 3: London (Evryware's partnership with Sierra ends)[^ref-28]
 > - **1997-1999:** Space Quest VII, Leisure Suit Larry 8
-> - **1998-2001:** Middle Earth Online (Sierra version)[^ref-18]
+> - **1998-2001:** Middle-earth Online (Sierra version)[^ref-18]
 > - **1999:** Babylon 5: Into the Fire[^ref-27]
 > - **c. 1999-2002:** King's Quest IX (Twins of Change)[^ref-6]
 > - **2004:** SWAT: Urban Justice (discontinued April 2004)[^ref-30]
@@ -26,9 +28,9 @@ The pattern is striking: multiple beloved franchises—King's Quest, Space Quest
 
 ### Space Quest VII: Return to Roman Numerals
 
-Perhaps the most lamented cancellation in Sierra history, Space Quest VII went through multiple development iterations between 1997 and 2002, including both an internal Sierra version and a later Escape Factory console reboot.[^ref-3]
+Space Quest VII went through multiple development iterations between 1997 and 2002, including both an internal Sierra version and a later Escape Factory console reboot.[^ref-3]
 
-**What Happened:** Development began in early 1997 under series co-creator [[Scott Murphy]]. The project was announced for late 1998 but placed on indefinite hold by December 1997. By mid-February 1998, rumours were spreading that Murphy had been fired. A brief restart attempt in early 1999 ended when Sierra closed its Oakhurst, California facility on "Chainsaw Monday," firing two-thirds of the employees there; Murphy's contract "had expired and was not renewed."[^ref-3][^ref-4]
+**What Happened:** Development began in early 1997 under series co-creator [[Scott Murphy]] and co-designer [[Leslie Balfour]].[^ref-3] The project was announced for late 1998 but placed on indefinite hold by December 1997. By mid-February 1998, rumours were spreading that Murphy had been fired. A restart was proposed in early 1999 but quickly stalled.[^ref-4] The project died when Sierra closed its Oakhurst, California facility on "Chainsaw Monday," firing two-thirds of the employees there.[^ref-3] SpaceQuest.net says Murphy's contract "had expired and was not renewed,"[^ref-3] but Murphy himself said in 2006: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-37]
 
 **Why It Was Cancelled:** Corporate pressure to add multiplayer functionality fundamentally compromised the design. Murphy later admitted: "We were being pressured to make Space Quest 7 a multiplayer game, which, by its nature, it just never should have been. Therefore, the design had to be something that I didn't want it to be and I thought it sucked for the most part."[^ref-26]
 
@@ -40,7 +42,7 @@ Perhaps the most lamented cancellation in Sierra history, Space Quest VII went t
 
 ### King's Quest IX: The Long Wait
 
-"King's Quest IX" is an umbrella term for **several failed attempts** to continue Sierra's flagship adventure game series between 1998 and 2013—four official attempts, plus a fan game that was eventually released under another name.[^ref-2] The King's Quest Omnipedia stresses that "King's Quest IX is not The Silver Lining."[^ref-2]
+"King's Quest IX" is an umbrella term for **several failed attempts** to continue Sierra's flagship adventure game series between 1998 and 2013—three official attempts (Twins of Change, Silicon Knights and Telltale), after Roberta Williams was "never able get Sierra greenlight development on a new game," plus a fan game that was eventually released under another name.[^ref-2] The King's Quest Omnipedia stresses that "King's Quest IX is not The Silver Lining."[^ref-2]
 
 | Years | Project | Developer | Status |
 |-------|---------|-----------|--------|
@@ -50,7 +52,7 @@ Perhaps the most lamented cancellation in Sierra history, Space Quest VII went t
 | c. 2007 | Silicon Knights | Silicon Knights | Prototype; code probably destroyed under court order |
 | 2011–2013 | Telltale Games | Telltale Games | Cancelled |
 
-**The Most Developed Version:** King's Quest: Twins of Change was directed by [[Mark Seibert]] and written by Cindy Vanous at Sierra Studios Seattle. It featured Alexander and Rosella transformed by wild magic, able to change into animal forms, in a Zelda-inspired action-adventure. The studio "finally died under Vivendi Games" before completion.[^ref-6]
+**Twins of Change:** King's Quest: Twins of Change was directed by [[Mark Seibert]] and written by Cindy Vanous at Sierra Studios Seattle. It featured Alexander and Rosella transformed by wild magic, able to change into animal forms, in a Zelda-inspired action-adventure. Seibert recalled that the concept "got 2 green lights" but "never got fully funded." The studio "finally died under Vivendi Games" before completion.[^ref-6]
 
 **The Strangest Fate:** Silicon Knights' c. 2007 King's Quest prototype only came to light during its lawsuit with Epic Games over the Unreal Engine. The judge ordered Silicon Knights to destroy code from games that had used Unreal Engine 3, "so if there was anything related to the prototype its probably been destroyed."[^ref-2]
 
@@ -78,7 +80,7 @@ Lowe has written that he "refused to flesh out the design until we reached an ag
 
 ### Babylon 5: Into the Fire
 
-One of the most heartbreaking cancellations in Sierra's history—a game that was **65% complete** with all live-action sequences already filmed.[^ref-11]
+A space combat game that was **65% complete** when it was cancelled, with live-action sequences filmed with four of the TV series' leads.[^ref-11][^ref-33]
 
 **What Happened:** Developed by Yosemite Entertainment, this ambitious space combat simulator featured several of the TV series' main actors—Bruce Boxleitner, Jerry Doyle, Mira Furlan and Tracy Scoggins—reprising their roles in filmed sequences.[^ref-11][^ref-33] Sierra announced its partnership with Warner Bros. in October 1997; the release slipped to spring 2000.[^ref-11]
 
@@ -88,7 +90,7 @@ One of the most heartbreaking cancellations in Sierra's history—a game that wa
 
 **What's Lost Forever:** The filmed sequences were shot over a week on the standing Babylon 5 sets, plus a three-day blue-screen shoot.[^ref-33] A 2014 fan forum post, relaying a second-hand account attributed to series creator J. Michael Straczynski, claims further cast recordings were made; that claim is unverified.[^ref-13]
 
-**What Survives:** A beta build dated September 1999 surfaced in 2014, fifteen years after cancellation. The incomplete build is notoriously difficult to run on modern systems.[^ref-11]
+**What Survives:** A beta build dated September 1999 surfaced in 2014, fifteen years after cancellation. Abandonware France identifies it as the demo shown at E3 1999 and says it is playable but rather temperamental to run.[^ref-11]
 
 ---
 
@@ -108,17 +110,17 @@ In 2013, [[Jim Walls]]—creator of the Police Quest series—attempted to reviv
 
 Sierra's planned fourth SWAT game, Urban Justice was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4|SWAT 4]] from Irrational Games.[^ref-16]
 
-**What Happened:** Set in 2006 Los Angeles during the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare. The game slipped out of 2002 and 2003, and in April 2004 Vivendi Universal said work on it had been "discontinued" in favor of SWAT 4.[^ref-16][^ref-30]
+**What Happened:** Set in 2006 Los Angeles during the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare. The game slipped out of 2002 and then 2003,[^ref-38] and in April 2004 Vivendi Universal said work on it had been "discontinued" in favor of SWAT 4.[^ref-16][^ref-30]
 
 **Technical Details:** The Takedown 3D engine supported 5,000-polygon character models with 29 differentiated impact points for realistic damage modeling.[^ref-17]
 
-**What Survives:** A 2002 trailer was included on Disc 2 of No One Lives Forever 2. An easter egg in SWAT 4's Victory Imports Auto Garage mission shows Urban Justice as an arcade cabinet—a company in-joke acknowledging the cancelled project.[^ref-16]
+**What Survives:** A 2002 trailer was included on Disc 2 of No One Lives Forever 2. An easter egg in SWAT 4's Victory Imports Auto Center mission shows Urban Justice as an arcade cabinet—a company in-joke acknowledging the cancelled project.[^ref-16]
 
 ---
 
-### Middle Earth Online
+### Middle-earth Online
 
-Sierra's Middle Earth Online was one of the earliest attempts to bring Tolkien's world into MMO gaming, with a sandbox design closer to Ultima Online than to later themepark MMOs.[^ref-18]
+Sierra's Middle-earth Online was one of the earliest attempts to bring Tolkien's world into MMO gaming, with a sandbox design closer to Ultima Online than to later themepark MMOs.[^ref-18]
 
 **Distinctive Design Ideas:**
 - **Permanent Character Death:** The team wanted characters to die permanently in certain situations[^ref-18]
@@ -141,7 +143,7 @@ The Manhunter series—Barry, Dave, and Dee Dee Murry's dark post-apocalyptic ad
 
 ### Red Baron 2013 Remake
 
-Damon Slye, creator of the legendary Red Baron flight simulator, attempted to revive the franchise through Kickstarter in 2013.[^ref-15]
+Damon Slye, creator of the Red Baron flight simulator, attempted to revive the franchise through Kickstarter in 2013.[^ref-15]
 
 **What Happened:** Mad Otter Games launched a Kickstarter on October 22, 2013, seeking $250,000. Mad Otter posted that it would cancel the campaign "for now," but it ran to its November 22 deadline and failed, with $40,493 pledged by 1,118 backers (about 16% of goal).[^ref-24]
 
@@ -161,7 +163,7 @@ The late 1990s saw traditional adventure games fall out of commercial favor. Sie
 
 ### Original Creators Departing
 
-[[Roberta Williams]] left Sierra shortly before the release of King's Quest: Mask of Eternity, bound by a non-competition agreement;[^ref-2] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998;[^ref-29] and [[Scott Murphy]]'s contract was not renewed in 1999.[^ref-3] The designers who had built Sierra's franchises were gone.
+[[Roberta Williams]] left Sierra shortly before the release of King's Quest: Mask of Eternity, bound by a non-competition agreement;[^ref-2] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998;[^ref-29] and [[Scott Murphy]], by his own account, was let go about a month and a half before Chainsaw Monday.[^ref-37] The designers who had built Sierra's franchises were gone.
 
 ### Chainsaw Monday
 
@@ -173,13 +175,13 @@ February 22, 1999 devastated Sierra's studios. Ken Williams described it: "This 
 
 ### Spiritual Successors
 
-Several original Sierra designers launched Kickstarters to create spiritual successors to their cancelled games:
+Several Sierra alumni turned to Kickstarter in 2012–13:
 
 | Designer | Original Series | Spiritual Successor |
 |----------|----------------|---------------------|
-| [[Scott Murphy]] & [[Mark Crowe]] | Space Quest | [[2022 - SpaceVenture\|SpaceVenture]] (backers 2022; full release December 23, 2025)[^ref-35] |
+| [[Scott Murphy]] & [[Mark Crowe]] | Space Quest | [[2022 - SpaceVenture\|SpaceVenture]] (backers 2022;[^ref-39] full release December 23, 2025)[^ref-35] |
 | [[Jim Walls]] | Police Quest | Precinct (cancelled) |
-| [[Damon Slye]] | Red Baron | Red Baron Remake (cancelled) |
+| [[Damon Slye]] | Red Baron | Red Baron Remake (Kickstarter failed) |
 | [[Al Lowe]] | Leisure Suit Larry | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] (2013; a crowdfunded remake of the first Larry, not a sequel)[^ref-36] |
 
 ### Fan Projects
@@ -190,7 +192,7 @@ The King's Quest community maintained hope through multiple cancelled official p
 
 Some cancelled projects eventually led to official revivals in different forms:
 
-- **Middle Earth Online** → The Lord of the Rings Online (2007) (license passed to Turbine, which built its own game)[^ref-18]
+- **Middle-earth Online** → The Lord of the Rings Online (2007) (license passed to Turbine, which built its own game)[^ref-18]
 - **King's Quest IX** → [[2015 - King's Quest|King's Quest (2015)]] (not considered KQ9)
 - **SWAT: Urban Justice** → [[2005 - SWAT 4]] (different developer)
 
@@ -227,12 +229,23 @@ Sierra's cancelled games offer cautionary tales about:
 - [[1998 - King's Quest - Mask of Eternity]] – The last released King's Quest before the reboot
 - [[2010 - The Silver Lining]] – Fan project originally titled "King's Quest IX"
 - [[2015 - King's Quest]] – The eventual series reboot
+- [[Cancelled Game Index]] – Every cancelled game in the vault, with sourced summaries; its Football Pro '99 entry covers the planned Football Pro 2000, which this guide does not
+- [[CXL - Space Quest VII - Return to Roman Numerals]]
+- [[CXL - King's Quest IX]]
+- [[CXL - Leisure Suit Larry 8]]
+- [[CXL - Babylon 5 - Into the Fire]]
+- [[CXL - Precinct (2013)]]
+- [[CXL - SWAT - Urban Justice]]
+- [[CXL - Middle-earth Online]]
+- [[CXL - Manhunter 3]]
+- [[CXL - Red Baron (2013 Remake)]]
+- [[CXL - Front Page Sports - Football Pro '99]]
 
 ---
 
 ## References
 
-[^ref-1]: [The Digital Antiquarian – King's Quest](https://www.filfre.net/tag/kings-quest/) – Sierra corporate history, Chainsaw Monday, adventure game industry decline
+[^ref-1]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 4: Chainsaw Monday (2025)](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – CUC acquisition, HFS merger, Cendant software division sold to Vivendi as Havas Interactive; "Then came February 22, 1999"
 [^ref-2]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – comprehensive history of all KQ9 attempts
 [^ref-3]: [SpaceQuest.net – SQ7 Documentation](https://spacequest.net/sq7/) – development timeline, working titles, team quotes, Chainsaw Monday details
 [^ref-4]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Escape Factory version, Vohaul revelation, December 2002 cancellation
@@ -244,7 +257,7 @@ Sierra's cancelled games offer cautionary tales about:
 [^ref-11]: [Abandonware France – Babylon 5: Into the Fire](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2287) – 65% complete, development history
 [^ref-12]: [IGN – Babylon 5: Into the Fire Preview](https://www.ign.com/articles/1999/05/15/babylon-5-into-the-fire) – technical achievements, flight mechanics praise
 [^ref-13]: [Frontier Forums – Babylon 5: Into the Fire Discussion (Wayback, Aug 2025)](http://web.archive.org/web/20250817100927/https://forums.frontier.co.uk/threads/babylon-5-into-the-fire-abandoned-1999-space-game.61329/) – 2014 fan post relaying cast claims second-hand (unverified)
-[^ref-14]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – "Funded: $85,756 of $500,000"; Jul 16–Aug 16, 2013; cancelled by creator; Lindsley on the playable pilot
+[^ref-14]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – "Funded: $85,756 of $500,000"; launched Jul 16, 2013, cancelled by its creators Aug 6 (scheduled to run to Aug 16); Lindsley on the playable pilot
 [^ref-15]: [Polygon – The Red Baron is Ready to Fly Again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) – Damon Slye interview on Kickstarter failures
 [^ref-16]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, SWAT 4 easter egg
 [^ref-17]: [UOL Start – SWAT: Urban Justice Preview](https://www.uol.com.br/start/previas/2002/02/22/swat-urban-justice.htm) – Takedown 3D engine specifications
@@ -266,3 +279,6 @@ Sierra's cancelled games offer cautionary tales about:
 [^ref-34]: [Kickstarter – Precinct (Wayback, Aug 15, 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – Officer Maxwell Jones, Fraser Canyon, CA; shootouts, high speed car chases, foot pursuits, hand-to-hand combat
 [^ref-35]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) – Early Access April 1, 2025; full release December 23, 2025
 [^ref-36]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – "an enhanced remake of Leisure Suit Larry 1"; crowdfunded; designed "with the help of some of the original creators"
+[^ref-37]: [Adventure Classic Gaming – Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) – "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."
+[^ref-38]: [GameSpot – SWAT: Urban Justice delayed (Wayback, 2003)](https://web.archive.org/web/20030402164941/http://www.gamespot.com:80/pc/action/swaturbanjustice/news_2912248.html) – March 2003: "wouldn't ship in 2002 as planned" and "will not ship this year", but "has not been canceled"
+[^ref-39]: [Time Extension – SpaceVenture Releasing To Backers Next Month (Aug 2022)](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – Windows version to backers "on Friday 16th September" 2022
