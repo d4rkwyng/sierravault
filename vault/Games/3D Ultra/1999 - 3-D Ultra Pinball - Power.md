@@ -10,16 +10,16 @@ series: 3-D Ultra Pinball
 engine: Unknown/unnamed
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: 3-D Ultra Pinball Power! is a 1999 Sierra compilation of Dynamix's 3-D
   Ultra Pinball games, released in two editions with different contents in North America
   and Europe.
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-27T10:27:44-06:00
 ---
 # 3-D Ultra Pinball Power!
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -56,10 +56,10 @@ Sierra Chest documents two editions sold under the same title[^ref-16]:
 Sources: Sierra Chest[^ref-16]; MobyGames lists the four pinball games, including "3-D Ultra Pinball: Turbo Racing", plus a three-hole 3-D Ultra Minigolf demo[^ref-5]. Wikipedia's description of Power (the first game, Creep Night and Lost Continent, with The Incredible Machine and a golf demo as a bonus) matches the US edition[^ref-2].
 
 ### 3-D Ultra Pinball: Fastest Pinball in Space (both editions)
-The original 1995 game that launched the series. Based loosely on Dynamix and Sierra's Outpost, the goal was to build a deep space colony and launch a starship by playing pinball across three interconnected areas (the Colony, the Operations Center, and the Mine), each with a primary playfield and several connected mini-playfields[^ref-7]. Wikipedia counts three tables, each holding a set of five challenges[^ref-2]. The game fully embraced its digital pinball heritage, with modes featuring wandering enemies, transforming playfield elements, and temporary physics rule changes[^ref-7].
+The original 1995 game that launched the series. Based loosely on Dynamix and Sierra's Outpost, the goal was to build a deep space colony and launch a starship by playing pinball across three interconnected areas (the Colony, the Operations Center, and the Mine), each with a primary playfield and several connected mini-playfields[^ref-7]. Wikipedia and gamepressure.com name the middle table Command Post rather than Operations Center[^ref-2][^ref-14]. Wikipedia counts three tables, each holding a set of five challenges[^ref-2]. The game fully embraced its digital pinball heritage, with modes featuring wandering enemies, transforming playfield elements, and temporary physics rule changes[^ref-7].
 
 ### 3-D Ultra Pinball: Creep Night (both editions)
-Released in September 1996, this horror-themed sequel had three tables, followed by a changed Castle table once all challenges were finished, according to Wikipedia[^ref-2][^ref-8]. Charlotte Panther of Computer Gaming World found the game offered "plenty of scope for replayability" and recommended it for both beginners and experienced players[^ref-9].
+Released in September 1996, this horror-themed sequel had three tables, followed by a changed Castle table once all challenges were finished, according to Wikipedia[^ref-2][^ref-8]. Charlotte Panther of Computer Gaming World found the game offered "plenty of scope for replayability" and recommended it for both beginners and experienced players[^ref-20][^ref-9].
 
 ### 3-D Ultra Pinball: The Lost Continent (both editions)
 The May 1997 release was set in a prehistoric jungle[^ref-8][^ref-1]. Wikipedia describes it as having no challenges but 16 tables, divided into three sectors (Jungle, Temple and Chambers)[^ref-2]. Dinosaurs were among the series' temporary targets[^ref-2].
@@ -80,7 +80,7 @@ Each included game offered its own progression system tied to its thematic conte
 
 Gamepressure counts more than 25 boards across the package, differing in table inclination, how the balls are bounced and how many bonuses are available[^ref-1]. Its listing mixes the contents of the two editions, so the total should be read with caution[^ref-16].
 
-- **Fastest Pinball in Space:** Three main areas (Colony, Operations Center, Mine) with interconnected mini-playfields[^ref-7]
+- **Fastest Pinball in Space:** Three main areas (Colony, Operations Center (Wikipedia: Command Post), Mine) with interconnected mini-playfields[^ref-7][^ref-2]
 - **Creep Night:** Three horror-themed tables, then a changed Castle table[^ref-2]
 - **The Lost Continent:** 16 tables in three sectors, with no challenges[^ref-2]
 - **Turbo Racing (EU edition):** Three fields: garage, track and pitstop[^ref-2]
@@ -91,9 +91,9 @@ The series attempted to escape from traditional arcade pinball by featuring anim
 ## Reception
 
 ### Contemporary Reviews
-No contemporary review of the Power! compilation itself has been located; the reviews below cover its component games. Charlotte Panther of Computer Gaming World praised Creep Night, noting it offered "plenty of scope for replayability" and recommending it for both beginners and experienced pinball players[^ref-9]. Retro365 reports that the Macintosh release of Creep Night was hailed as "one of the finest pinball simulators available," without naming the original publication[^ref-9].
+No contemporary review of the Power! compilation itself has been located; the reviews below cover its component games. In a four-star review in Computer Gaming World (January 1997, p. 192), Charlotte Panther called Creep Night "an entertaining game with plenty of scope for replayability" and recommended it "for both beginning and experienced pinball fans"[^ref-20][^ref-9]. Reviewing the Macintosh demo of Creep Night, Robert Edvardsson of Mac Game Gate wrote that it was "one of the finest pinball simulators avalible [sic] for the Mac"[^ref-19][^ref-9].
 
-MacUser gave 3-D Ultra Pinball: Creep Night a score of 3 out of 5 (Roman Loyola, "The Game Room," March 1997)[^ref-2].
+MacUser gave 3-D Ultra Pinball: Creep Night a score of 3 out of 5, shown as three mice (Roman Loyola, "The Game Room," March 1997)[^ref-22][^ref-2].
 
 Despite some physics engine limitations, the original 3-D Ultra Pinball proved to be a surprise hit for Sierra, leading to the extensive series that Power! would later compile[^ref-7].
 
@@ -104,12 +104,12 @@ Modern ratings for the compilation are sparse. GRY-Online.pl and its English-lan
 - **MobyGames (critics):** 80%, from 1 rating[^ref-5]
 - **GRY-Online.pl / gamepressure.com users:** 5.0/10[^ref-8][^ref-1]
 
-For context, other games in the series received varying user scores: the original 3D Ultra Pinball scored 6.2, Creep Night received 4.1, The Lost Continent got 0.6, NASCAR Pinball scored 1.0, and Thrillride achieved 6.0[^ref-8].
+For context, as of October 27, 2026, gamepressure.com's series page showed user scores of 5.3 for the original 3D Ultra Pinball, 4.1 for Creep Night and 6.0 for Thrillride, with no score shown for The Lost Continent or NASCAR Pinball[^ref-14]. The Polish GRY-Online.pl series page showed 6.2 for the original game and 6.1 for Thrillride, with no score for the other three[^ref-8].
 
 ## Development
 
 ### Origins
-The 3-D Ultra Pinball series emerged from Dynamix's earlier experimentation with digital pinball. Take a Break! Pinball was Dynamix's first foray into the pinball genre in 1993, released on floppy disks for Windows 3.1[^ref-9]. The success of this initial effort, combined with the technological advancements of mid-1990s multimedia gaming, led to the development of the more ambitious 3-D Ultra Pinball series[^ref-9].
+Take a Break! Pinball, released in 1993 on floppy disks for Windows 3.1, was Dynamix's first foray into the pinball genre[^ref-9]. The first 3-D Ultra Pinball game followed in 1995[^ref-2].
 
 Dynamix had been acquired by Sierra On-Line in 1990 for $1.5 million, becoming one of Sierra's key development studios[^ref-9]. Jeff Tunnell, a key figure at Dynamix, established Jeff Tunnell Productions as a smaller studio after feeling burned out from large-scale productions, and this studio contributed to the 3-D Ultra series development[^ref-1][^ref-9].
 
@@ -135,10 +135,9 @@ The series' willingness to embrace "impossible" pinball scenarios represented a 
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-1]
-- **Processor:** Pentium 90 MHz
-- **RAM:** 16 MB
-- **Operating System:** Windows 3.x/95
+**System Requirements:**
+- **Recommended (Gamepressure):** Pentium 90 MHz, 16 MB RAM, Windows 3.x/95[^ref-1]
+- **Minimum (MobyGames):** Windows: Intel 486 DX2, 8 MB RAM, Windows 95; Windows 16-bit: Intel 486 DX2, 12 MB RAM, Windows 3.1; Macintosh: PowerPC 601, 12 MB RAM, System 7.5; 2x CD-ROM drive[^ref-5]
 - **Resolution:** 640 x 480, 256 colors[^ref-7]
 - **Media:** CD-ROM[^ref-5]; IGN describes a four-CD set[^ref-3]
 - **Input Devices:** Keyboard, Mouse[^ref-5]
@@ -174,7 +173,7 @@ The physics engine was noted as the series' primary weakness. Precision aiming w
 ## Legacy
 
 ### Sales and Commercial Impact
-The 3-D Ultra Pinball series achieved significant commercial success. The original 3-D Ultra Pinball sold 250,000 copies by the end of March 1996[^ref-9]. The series as a whole sold more than half a million copies by 1998[^ref-2][^ref-9].
+The 3-D Ultra Pinball series achieved significant commercial success. Sierra's Form 10-K for the fiscal year ended March 31, 1996 said of the original 3-D Ultra Pinball: "Released in fiscal 1996, this title has sold more than 250,000 copies"[^ref-21][^ref-9]. The series as a whole sold more than half a million copies by 1998[^ref-2][^ref-9].
 
 ### Collections
 The US edition of 3-D Ultra Pinball Power! was very similar to the 3-D Ultra Pinball: Collector's Edition released in 1998, which contained a VHS video on the history of pinball as an additional bonus[^ref-6][^ref-16]. The various 3-D Ultra games appeared in numerous Sierra compilations throughout the late 1990s and early 2000s[^ref-10]:
@@ -194,7 +193,7 @@ The US edition of 3-D Ultra Pinball Power! was very similar to the 3-D Ultra Pin
 - **2002:** Pinball Collection
 
 ### Series Evolution
-The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thrillride in 1999/2000[^ref-10]. A planned 3-D Ultra NFL Pinball was ultimately cancelled in 2001[^ref-10]. The "3-D Ultra" brand extended beyond pinball to encompass mini golf, pool, radio control racing, and model train games[^ref-10].
+The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thrillride, which the Dynamix Fandom wiki dates to 2000[^ref-10] and GRY-Online.pl and gamepressure.com date to October 1, 1999[^ref-8][^ref-14]. A planned 3-D Ultra NFL Pinball was ultimately cancelled in 2001[^ref-10]. The "3-D Ultra" brand extended beyond pinball to encompass mini golf, pool, radio control racing, and model train games[^ref-10].
 
 ### Related Publications
 - **VHS Video:** The Collector's Edition variant included a VHS video covering the history of pinball[^ref-6]
@@ -232,14 +231,18 @@ The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thri
 [^ref-2]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series overview, sales data, temporary targets, per-game table counts, MacUser rating of Creep Night, Power (US edition) contents
 [^ref-3]: [IGN – 3-D Ultra Pinball Power](https://www.ign.com/games/3-d-ultra-pinball-power) – release date, four-CD set details, table counts per game, bonus content
 [^ref-4]: [PriceCharting – 3-D Ultra Pinball](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball) – "Impossible Pinball" description, fantasy pinball elements, ESRB rating
-[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, contents (incl. Turbo Racing and Minigolf demo), technical specifications, critic score
+[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, contents (incl. Turbo Racing and Minigolf demo), technical specifications incl. minimum requirements (read via the MobyGames API), critic score
 [^ref-6]: [Sierra Chest – 3-D Ultra Pinball: Collector's Edition](https://sierrachest.com/index.php?a=games&id=107&title=pinball-collectors-edition&fld=general) – relationship to Power!, VHS bonus content, included titles
 [^ref-7]: [TV Tropes – 3-D Ultra Pinball](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinball) – original game description, Outpost connection, physics engine limitations, technical specifications
 [^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
 [^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
 [^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball
 [^ref-13]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series listing, dates "3D Ultra Pinball Power!" to 1998
-[^ref-14]: [Gamepressure – 3D Ultra Pinball Game Series](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – series listing including 3D Ultra Pinball Power (June 30, 1999)
+[^ref-14]: [Gamepressure – 3D Ultra Pinball Game Series](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – series listing including 3D Ultra Pinball Power (June 30, 1999), Thrillride (October 1, 1999), Command Post table name, user scores (checked October 27, 2026)
 [^ref-16]: [Sierra Chest – 3-D Ultra Pinball Power](https://sierrachest.com/index.php?a=games&id=105&fld=general) – US vs EU edition contents, Jeff Tunnell Productions, Unknown/unnamed engine
 [^ref-17]: [MobyGames – 3-D Ultra Pinball: Power! Releases](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/releases/) – release dates, regions, platforms and publishers
 [^ref-18]: [MobyGames – 3-D Ultra Pinball: Power! Credits (Windows)](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/credits/windows/) – credits carried over from Creep Night and the original game, memorial dedication
+[^ref-19]: [Mac Game Gate – 3D Ultra Pinball: Creep Night review (Wayback, January 1999)](https://web.archive.org/web/19990127212621/http://www.macgate.torget.se/Games/reviews/Creepnight.html) – Robert Edvardsson's review of the Macintosh demo, "one of the finest pinball simulators" quote
+[^ref-20]: [Computer Gaming World #150, January 1997 (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_150) – Charlotte Panther, "Multiball Fright", four-star review of Creep Night, p. 192
+[^ref-21]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "3D Ultra Pinball ... has sold more than 250,000 copies"
+[^ref-22]: [MacUser, March 1997 – "The Game Room" by Roman Loyola (Wayback)](https://web.archive.org/web/20010221034057/http://macuser.zdnet.com/mu_0397/personal/gameroom.html) – Creep Night rated three mice
