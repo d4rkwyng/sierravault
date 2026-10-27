@@ -12,7 +12,7 @@ protagonist: Player-created character
 sierra_lineage: Core Sierra
 last_updated: '2026-10-26'
 description: The Shadow of Yserbius was an early graphical multi-user dungeon (MUD)
-  developed by Ybarra Productions that launched on The Sierra Network in 1991, with
+  developed by Ybarra Productions that launched on The Sierra Network in 1992, with
   an offline single-player version released by Sierra On-Line in 1993.
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
@@ -22,7 +22,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 
 ## Overview
 
-The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon (MUD) game that originally launched on The Sierra Network in 1991[^ref-1]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6]. A 2005 GameSpot user review called it "one of the first MMORPG's ever created"[^ref-14]. According to industry critics, the game "set the standard by which all future MUDs would be judged" when it opened to rave reviews[^ref-3].
+The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon (MUD) game that went online on The Sierra Network in 1992, when Sierra's Fall 1992 *InterAction* magazine introduced it as the first game in the network's newest area, MedievaLand; some sources say 1991[^ref-36][^ref-1]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6]. A 2005 GameSpot user review called it "one of the first MMORPG's ever created"[^ref-14]. According to industry critics, the game "set the standard by which all future MUDs would be judged" when it opened to rave reviews[^ref-3].
 
 The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. Sierra's *InterAction* magazine introduced it in Fall 1992 as "the first game in MedievaLand", which it called "the newest area on TSN", although some sources date the game's online debut to 1991[^ref-36][^ref-1]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. The multiplayer experience was revolutionary for its era, allowing up to 30 players (later expanded to 60) to meet in rooms and adventure together in groups of up to four[^ref-4].
 

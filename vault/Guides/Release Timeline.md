@@ -1,11 +1,11 @@
 ---
 title: "Release Timeline"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Release Timeline
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
@@ -159,7 +159,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - **[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I - Roger Wilco in the Sarien Encounter]]** — Series: Space Quest, Type: Adventure
 - **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]]** — Series: Space Quest, Type: Adventure
 - [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Type: Adventure
-- [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Series: Shadow of Yserbius, Type: Role-Playing Game[^ref-39]
+- [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Series: Shadow of Yserbius, Type: Role-Playing Game[^ref-39] (online 1992 per InterAction)[^ref-42]
 
 ### 1992
 - [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Series: Adibou, Type: Educational
@@ -646,3 +646,4 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-39]: [Massively Overpowered – The Game Archaeologist: Sierra's Fates of Twinion and Ruins of Cawdor](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Yserbius "came out in 1991 as part of The Sierra Network"
 [^ref-40]: [Indie Retro News – Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – posted Monday, January 05, 2026: SCP's Police Quest III Amiga enhancement released, with download link
 [^ref-41]: [MobyGames – Frogger](https://www.mobygames.com/game/1540/frogger/) – Sierra On-Line's Atari 8-bit release, United States 1982 (the Konami arcade original is 1981)
+[^ref-42]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"

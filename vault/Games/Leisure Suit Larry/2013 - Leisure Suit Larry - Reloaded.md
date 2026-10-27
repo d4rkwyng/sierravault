@@ -5,12 +5,12 @@ developer: N-Fusion Interactive
 designer: [Al Lowe, Josh Mandel]
 publisher: Replay Games
 genre: Adventure
-platforms: [PC, Mac, Linux, Android, iOS]
+platforms: [PC, Mac, Linux, Android, iOS, Windows Phone]
 series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-26'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s 1987 Sierra adventure game, crowdfunded on Kickstarter,
   developed by N-Fusion Interactive and published by Replay Games.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The game follows the misadventures of Larry Laffer, a "40-year-old virgin in pur
 > **Developer:** N-Fusion Interactive[^ref-18]
 > **Designer:** [[Al Lowe]], [[Josh Mandel]][^ref-18]
 > **Publisher:** Replay Games[^ref-18]
-> **Platforms:** PC, Mac, Linux, Android, iOS[^ref-18]
+> **Platforms:** PC, Mac, Linux, Android, iOS[^ref-18], Windows Phone[^ref-85]
 > **Release Year:** 2013
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
@@ -169,3 +169,4 @@ The game was delisted from Steam on November 24, 2017[^ref-15], though it remain
 [^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – Official product details
 [^ref-83]: [GameSpot – Leisure Suit Larry Reloaded out June 27](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-out-june-27/1100-6410796/) – Remake headed by Al Lowe with co-designer Josh Mandel
 [^ref-84]: [Steam Community – 100% walkthrough (maximum points, all achievements)](https://steamcommunity.com/sharedfiles/filedetails/?id=233576790) – Age-check quiz questions and answers, including Y2K
+[^ref-85]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – read via the MobyGames API (October 26, 2026): platforms include Windows Phone, first released 2015-01-20

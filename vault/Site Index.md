@@ -519,7 +519,7 @@ This archive contains **492 game pages** in 75 folders, listed below in 76 secti
 
 ## INN
 
-- **1991** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Last Updated: 2026-10-13
+- **1991** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] (online 1992 per InterAction) — Last Updated: 2026-10-13
 - **1993** — [[1993 - Fates of Twinion|Fates of Twinion]] — Last Updated: 2026-10-09
 - **1996** — [[1996 - The Realm Online|The Realm Online]] — Last Updated: 2026-10-13
 

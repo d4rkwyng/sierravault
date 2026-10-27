@@ -1,11 +1,11 @@
 ---
 title: "Platform Guide"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Platform Guide
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 Sierra games were released across dozens of platforms from 1980 to the present. This guide organizes releases by platform type, with example titles for each. Release platforms and dates below come from each game's MobyGames entry unless another source is cited.
 
@@ -38,7 +38,7 @@ The primary platforms for Sierra's catalog.
 | **PC booter / MS-DOS** | [[1984 - King's Quest - Quest for the Crown\|King's Quest I]] (PC booter, 1984)[^ref-2]; [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (DOS, 1990)[^ref-13] | AGI, SCI0–SCI1.1, Dynamix games |
 | **Windows 3.x (16-bit)** | King's Quest V (1992)[^ref-13]; [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] (1993)[^ref-14] | Early Windows ports |
 | **Windows 95 era** | [[1995 - Phantasmagoria\|Phantasmagoria]] (1995)[^ref-15]; [[1996 - Rama\|Rama]] (1996)[^ref-16] | SCI32, Dynamix sims, strategy games |
-| **Windows XP era** | [[2004 - Leisure Suit Larry - Magna Cum Laude\|LSL: Magna Cum Laude]] (2004)[^ref-17]; [[2009 - Leisure Suit Larry - Box Office Bust\|LSL: Box Office Bust]] (2009)[^ref-18] | Late Sierra, Vivendi era |
+| **Windows XP era** | [[2004 - Leisure Suit Larry - Magna Cum Laude\|LSL: Magna Cum Laude]] (2004)[^ref-17]; [[2009 - Leisure Suit Larry - Box Office Bust\|LSL: Box Office Bust]] (2009)[^ref-18] | Vivendi era (MCL, published by Vivendi Universal Games) and a later licensed release (BOB, published by Codemasters)[^ref-17][^ref-18] |
 
 **Play today:** ScummVM (adventures), DOSBox (DOS games), dgVoodoo2 (3D games)
 
@@ -61,7 +61,7 @@ The primary platforms for Sierra's catalog.
 - [[1981 - Jawbreaker|Jawbreaker]] (1982)[^ref-22] — Platform: **Atari 2600**
 - [[1983 - Oils Well|Oil's Well]][^ref-5], [[1983 - Sammy Lightfoot|Sammy Lightfoot]][^ref-6] — Platform: **ColecoVision**
 - [[1984 - King's Quest - Quest for the Crown|King's Quest I]] (1989)[^ref-2] — Platform: **Sega Master System**
-- Abrams Battle Tank (1991)[^ref-23] — Platform: **Sega Genesis**
+- Abrams Battle Tank (1991): a Dynamix tank simulation first published for DOS by Electronic Arts; the Genesis port, renamed *M-1 Abrams Battle Tank*, was made by Realtime Games Software and published by Sega[^ref-23][^ref-47] — Platform: **Sega Genesis**
 - [[1990 - Rise of the Dragon|Rise of the Dragon]] (1992)[^ref-24], [[1991 - The Adventures of Willy Beamish|Willy Beamish]] (1993)[^ref-25], [[1993 - Stellar-Fire|Stellar-Fire]] (1993)[^ref-26] — Platform: **Sega CD**
 - [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] (1996)[^ref-27], [[1995 - Phantasmagoria|Phantasmagoria]] (1997)[^ref-15] — Platform: **Sega Saturn**
 - [[1992 - Inca|Inca]] (1993)[^ref-28] — Platform: **CD-i**
@@ -85,7 +85,7 @@ The primary platforms for Sierra's catalog.
 ### Nintendo
 
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1992)[^ref-13] — Platform: **NES**
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams Don't Dry]][^ref-21], [[2023 - Colossal Cave 3D Adventure|Colossal Cave]][^ref-36], [[2018 - Hero-U - Rogue to Redemption|Hero-U]][^ref-20], [[2014 - Quest for Infamy|Quest for Infamy]][^ref-34] — Platform: **Nintendo Switch**
+- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams Don't Dry]][^ref-21], [[2023 - Colossal Cave 3D Adventure|Colossal Cave]][^ref-36], [[2018 - Hero-U - Rogue to Redemption|Hero-U]][^ref-20], [[2014 - Quest for Infamy|Quest for Infamy]][^ref-34], [[1985 - Thexder|Thexder]] (PC-8801mkIISR version, re-released by D4 Enterprise as an EGG Console title, October 26, 2023)[^ref-50] — Platform: **Nintendo Switch**
 
 ---
 
@@ -105,7 +105,7 @@ The primary platforms for Sierra's catalog.
 
 ## Online Services
 
-- [[1991 - The Shadow of Yserbius|Shadow of Yserbius]] (1991)[^ref-40][^ref-41], [[1993 - Fates of Twinion|Fates of Twinion]] (1993)[^ref-41] — Platform: **The Sierra Network / ImagiNation Network**. Both were later sold as standalone DOS releases in 1993.[^ref-42][^ref-43]
+- [[1991 - The Shadow of Yserbius|Shadow of Yserbius]] (1992)[^ref-40][^ref-48], [[1993 - Fates of Twinion|Fates of Twinion]] (1993)[^ref-41] — Platform: **The Sierra Network / ImagiNation Network**. Both were later sold as standalone DOS releases in 1993.[^ref-42][^ref-43]
 
 [[1996 - The Realm Online|The Realm Online]] was a separate Windows online game, not part of TSN/INN (MobyGames lists a Windows release in May 1997).[^ref-44]
 
@@ -138,7 +138,7 @@ Several modern alumni and fan projects support Linux natively. Classic games run
 | Windows 95/98 | Native Windows + dgVoodoo2, or VM |
 | Classic Mac | Basilisk II / SheepShaver |
 | Sega CD | Kega Fusion, Genesis Plus GX |
-| Modern (2010+) | Native on Steam/GOG |
+| Modern (2010+) | Native on current storefronts where still sold; some are no longer sold, e.g. both Wet Dreams games left Steam and GOG on October 23, 2026[^ref-49] |
 
 ---
 
@@ -160,13 +160,13 @@ Several modern alumni and fan projects support Linux natively. Classic games run
 [^ref-14]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/) – DOS and Windows 16-bit 1993, Macintosh 1994; no Saturn release
 [^ref-15]: [MobyGames – Roberta Williams' Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) – Windows 1995, Macintosh 1995-08, SEGA Saturn 1997-08-08
 [^ref-16]: [MobyGames – Rama](https://www.mobygames.com/game/1255/rama/) – Windows 1996-10, PlayStation 1998-05-07
-[^ref-17]: [MobyGames – Leisure Suit Larry: Magna Cum Laude](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – Windows, PlayStation 2 and Xbox 2004-10-05
-[^ref-18]: [MobyGames – Leisure Suit Larry: Box Office Bust](https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/) – Windows and Xbox 360 2009-03-27, PlayStation 3 2009-05-05
+[^ref-17]: [MobyGames – Leisure Suit Larry: Magna Cum Laude](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – Windows, PlayStation 2 and Xbox 2004-10-05; US Windows release published by Vivendi Universal Games, developed by High Voltage Software
+[^ref-18]: [MobyGames – Leisure Suit Larry: Box Office Bust](https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/) – Windows and Xbox 360 2009-03-27, PlayStation 3 2009-05-05; Windows release published by Codemasters, developed by Team17
 [^ref-19]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – Windows/Mac/Linux 2013-06-27, iPhone/iPad 2013-07-17, Android 2013-08-13, Windows Phone 2015-01-20
 [^ref-20]: [MobyGames – Hero-U: Rogue to Redemption](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/) – Windows/Mac/Linux 2018-07-10, Nintendo Switch 2021-02-09
 [^ref-21]: [MobyGames – Leisure Suit Larry: Wet Dreams Don't Dry](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/) – Windows/Mac 2018-11-07, PS4 and Switch 2019-06-13, Xbox One 2020-09-15
 [^ref-22]: [MobyGames – Jawbreaker (Atari 2600)](https://www.mobygames.com/game/51492/jawbreaker/) – Atari 2600 1982
-[^ref-23]: [MobyGames – Abrams Battle Tank](https://www.mobygames.com/game/2906/abrams-battle-tank/) – DOS 1989-04, Genesis 1991
+[^ref-23]: [MobyGames – Abrams Battle Tank](https://www.mobygames.com/game/2906/abrams-battle-tank/) – DOS 1989-04, Genesis 1991; Genesis release: developed by Dynamix, ported by Realtime Games Software, published by SEGA (read via the MobyGames API)
 [^ref-24]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) – SEGA CD 1992-09-25
 [^ref-25]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – SEGA CD 1993
 [^ref-26]: [MobyGames – Stellar-Fire](https://www.mobygames.com/game/27337/stellar-fire/) – SEGA CD 1993
@@ -190,3 +190,7 @@ Several modern alumni and fan projects support Linux natively. Classic games run
 [^ref-44]: [MobyGames – The Realm](https://www.mobygames.com/game/4363/the-realm/) – Windows 1997-05 (only platform)
 [^ref-45]: [MobyGames – Fire Hawk: Thexder – The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – MSX 1989, PC-88 1989-11, DOS 1990; no PC-98 release
 [^ref-46]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – FM Towns 1994-04, PC-98 1994-05-26
+[^ref-47]: [Wikipedia – Abrams Battle Tank](https://en.wikipedia.org/wiki/Abrams_Battle_Tank) – "developed by Dynamix and published by Electronic Arts in 1988 for MS-DOS ... The 1991 Sega Genesis port by Realtime Games Software was renamed to M-1 Abrams Battle Tank"
+[^ref-48]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"
+[^ref-49]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – Wet Dreams Don't Dry and Wet Dreams Dry Twice "will be leaving the platform on October 23rd"; October 23, 2026 update: "GOG has confirmed that the games will be leaving their storefront today as well"
+[^ref-50]: [Nintendo eShop – EGGCONSOLE THEXDER PC-8801mkIISR](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – Nintendo Switch, release date October 26, 2023

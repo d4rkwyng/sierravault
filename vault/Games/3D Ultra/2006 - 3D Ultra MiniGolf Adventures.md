@@ -5,12 +5,12 @@ developer: Wanako Games
 designer: [Eduardo Andres Carter Soto]
 publisher: Vivendi Games
 genre: Sports
-platforms: [Microsoft Windows, Xbox 360]
+platforms: [Microsoft Windows, Xbox 360, Xbox One]
 series: 3D Ultra Minigolf
 engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
   game developed by Wanako Games and published by Vivendi Games under the Sierra Online...
 tags: [2000s, 3d-ultra-minigolf, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports mul
 > **Designer:** Eduardo Andres Carter Soto (level design lead)[^ref-17]
 > **Publisher:** Vivendi Games / Sierra Online[^ref-1]
 > **Engine:** Unknown
-> **Platforms:** Microsoft Windows, Xbox 360[^ref-1]
+> **Platforms:** Microsoft Windows, Xbox 360[^ref-1], Xbox One[^ref-22]
 > **Release Year:** 2006 (Windows), 2007 (Xbox 360)
 > **Series:** 3D Ultra Minigolf
 > **Protagonist:** Customizable Golfer (4 characters available)
@@ -248,3 +248,4 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 [^ref-19]: [MobyGames – 3D Ultra Mini Golf Adventures screenshots](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/screenshots/) – Windows screenshots, including a scorpion colliding with the ball
 [^ref-20]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – Community hub, titled "3D Ultra Minigolf Adventures Deluxe"
 [^ref-21]: [MobyGames – 3D Ultra Mini Golf Adventures releases](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/releases/) – Windows Dec 20, 2006 (GameTap, US/Canada); Xbox 360 Apr 18, 2007; Steam Jul 23, 2009 (Activision)
+[^ref-22]: [MobyGames – 3D Ultra Mini Golf Adventures](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/) – read via the MobyGames API (October 26, 2026): platforms Windows 2006-12-20, Xbox 360 2007-04-18, Xbox One 2017-04-20

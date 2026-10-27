@@ -128,6 +128,8 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-62]
 >
 > The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-66] and Time Extension reported that both were also being withdrawn from GOG.[^ref-65] GOG's store pages for the two games now redirect to its general catalogue.
+>
+> The mobile versions are gone too: Delisted Games' October 23, 2026 update strikes through the game's Android and iOS store links as already delisted,[^ref-67] and on October 26, 2026 Apple's iTunes lookup returned no results for the iOS app.[^ref-68]
 
 **Guides and Resources**
 - [PlayStation Trophies Walkthrough](https://www.playstationtrophies.org/game/leisure-suit-larry-dreams-dont-die-twice/guide/)[^ref-39]
@@ -182,3 +184,5 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-64]: [VGMdb – Leisure Suit Larry: Wet Dreams Dry Twice soundtrack](https://vgmdb.net/album/106511) – composers Tilo Alpermann and Kai Rosenkranz
 [^ref-65]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; Assemble Entertainment removing both Wet Dreams games from Steam and GOG on October 23
 [^ref-66]: [Steam Store page (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 24, 2026: "no longer available on the Steam store"
+[^ref-67]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – October 23, 2026 update: "Versions already delisted as of this morning have been struck through"; Wet Dreams Dry Twice's Mobile (Android, iOS) links are struck through
+[^ref-68]: [Apple iTunes lookup – App Store ID 1534751079 ("Larry - Wet Dreams Dry Twice")](https://itunes.apple.com/lookup?id=1534751079&country=us) – checked October 26, 2026: "resultCount":0 (no listing in the US, German, French or UK stores)

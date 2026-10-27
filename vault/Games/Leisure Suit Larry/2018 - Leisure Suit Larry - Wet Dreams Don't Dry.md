@@ -117,12 +117,14 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 - Formerly sold on [Steam](https://store.steampowered.com/app/765870/) for PC, until October 23, 2026[^ref-37][^ref-55]
 - PlayStation 4 and Nintendo Switch versions (June 13, 2019)[^ref-1]
 - Xbox Store for Xbox One[^ref-38]
-- iOS version (August 7, 2019)[^ref-50]
+- iOS version (August 7, 2019)[^ref-50]; no longer on the App Store (see note below)[^ref-56]
 
 > [!note] Delisted from Steam and GOG (October 23, 2026)
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-49]
 >
 > The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-55] and Time Extension reported that both were also being withdrawn from GOG.[^ref-54] GOG's store pages for the two games now redirect to its general catalogue.
+>
+> The iOS version is no longer sold either: on October 26, 2026, Apple's iTunes lookup returned no results for the App Store IDs that 2019 coverage of the iOS release linked to.[^ref-56]
 
 **Preservation**
 - Technical documentation available at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry)[^ref-26]
@@ -184,3 +186,4 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-53]: [Metacritic Xbox One Critic Reviews](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/critic-reviews/?platform=xbox-one) – Xbox One Metascore 72
 [^ref-54]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; Assemble Entertainment removing both Wet Dreams games from Steam and GOG on October 23
 [^ref-55]: [Steam Store page (app 765870)](https://store.steampowered.com/app/765870/) – checked October 24, 2026: "no longer available on the Steam store"
+[^ref-56]: [Apple iTunes lookup – App Store ID 1456383070](https://itunes.apple.com/lookup?id=1456383070&country=us) – checked October 26, 2026: "resultCount":0 (no listing); ID 1441311278, also linked by 2019 iOS coverage, likewise returns no results in the US, German, French and UK stores

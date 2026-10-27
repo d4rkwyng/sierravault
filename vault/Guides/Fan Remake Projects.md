@@ -128,7 +128,7 @@ Multiple teams have created Space Quest fan games over the years:
 
 - King's Quest IV Retold was made by DrSlash and released as freeware in May 2021[^ref-28][^ref-20]
 - November 2025: Magic Quest Entertainment (with Jorge Pecador) released a VGA + Talkie version "patched with 256 colored graphics and voices", made "by courtesy of Dr Slash… and with his blessing"; Download: [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/)[^ref-20]
-- Separate from Infamous Quests' KQ4 remake project, though MQE's 2025 graphics draw on unfinished KQ4 projects, with support from Infamous Quests' Steven Alexander[^ref-20]
+- Separate from Infamous Adventures' KQ4 remake project, though MQE's 2025 graphics draw on unfinished KQ4 projects, with support from Infamous Quests' Steven Alexander[^ref-20]
 
 ---
 
@@ -156,7 +156,7 @@ A comedy adventure by the AGDI team under their commercial studio; Hardcore Game
 
 Many original Sierra designers have created spiritual successors, many through crowdfunding:
 
-### The Two Guys from Andromeda (SpaceVenture)
+### Guys from Andromeda (SpaceVenture)
 
 [[Scott Murphy]] and [[Mark Crowe]], creators of Space Quest, launched SpaceVenture via Kickstarter in 2012:
 
