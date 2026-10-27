@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 composer: [Kelly Bailey]
 description: Half-Life is a science fiction first-person shooter developed by Valve
   Corporation and published by Sierra Studios, released on November 19, 1998 for...
@@ -18,11 +18,11 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Half-Life is a science fiction first-person shooter developed by Valve Corporation and published by Sierra Studios, released on November 19, 1998 for Microsoft Windows[^ref-1]. The game fundamentally redefined what a first-person shooter could be, moving away from the pure shooting gallery approach that had dominated the genre since Doom and instead prioritizing immersive storytelling, advanced artificial intelligence, and environmental puzzle-solving[^ref-2]. Winner of more than 50 game of the year awards in 1998[^ref-5], Half-Life established Valve as one of the premier developers in the industry and spawned a franchise that would influence game design for decades[^ref-3].
+Half-Life is a science fiction first-person shooter developed by Valve Corporation and published by Sierra Studios, released on November 19, 1998 for Microsoft Windows[^ref-1]. Valve set out to make a game that would redefine the first-person shooter genre, and Half-Life gained recognition for its approach to storytelling, immersive gameplay and innovative mechanics[^ref-2]. Winner of more than 50 game of the year awards in 1998[^ref-5], it is considered one of the most influential FPS games[^ref-1], and it spawned a franchise that includes Half-Life 2 and its episodic follow-ups[^ref-2].
 
 The game was widely considered revolutionary for its time, eschewing conventional cutscenes in favor of advancing its narrative through player-perspective scripted sequences that never removed control from the player[^ref-1]. As Valve president Gabe Newell explained, "Half-Life in many ways was a reactionary response to the trivialization of the experience of the first-person genre. Many of us had fallen in love with video games because of the phenomenological possibilities of the field and felt like the industry was reducing the experiences to least common denominators rather than exploring those possibilities. Our hope was that building worlds and characters would be more compelling than building shooting galleries"[^ref-1].
 
@@ -53,7 +53,7 @@ The game concludes with Freeman defeating the Nihilanth, only to be confronted b
 
 ### Interface and Controls
 
-Half-Life utilizes a first-person perspective with intuitive controls that helped establish standards still used in the genre today. The game was one of the first mainstream titles to bind WASD to movement by default, a configuration that would become industry standard[^ref-13]. Players can configure controls via the options menu, with support for keyboard and mouse input offering precision aiming that defined PC shooter gameplay[^ref-14]. Once Freeman is in the HEV suit, its heads-up display acts as "an on-going barometer of health, available energy, and remaining ammo" and lets the player select weapons and items[^ref-17].
+Half-Life utilizes a first-person perspective with intuitive controls that helped establish standards still used in the genre today. The game was one of the first mainstream titles to bind WASD to movement by default, a configuration that would become industry standard[^ref-13]. The Configuration section of the main menu lets players set game options and "customize keyboard controls to your liking," for both keyboard-and-mouse and keyboard-only play[^ref-17]. Once Freeman is in the HEV suit, its heads-up display acts as "an on-going barometer of health, available energy, and remaining ammo" and lets the player select weapons and items[^ref-17].
 
 The HEV (Hazardous Environment) suit serves as both narrative device and gameplay mechanic, providing armor protection and environmental resistance while its female computer voice (performed by Kathy Levin) delivers status updates and warnings[^ref-16]. Freeman can interact with objects, use computers, and communicate with NPCs by approaching them, maintaining the first-person perspective throughout[^ref-3]. The Hazard Course—an optional training mode—teaches players the mechanics in-universe as a Black Mesa employee orientation program[^ref-17].
 
@@ -86,7 +86,7 @@ The chapters progress through various sections of Black Mesa (the list below fol
 
 Half-Life integrates puzzle-solving seamlessly into its action gameplay; the official manual instructs players to "use your wits as well as your weapons to outsmart opponents and navigate through tough spots"[^ref-17]. Environmental puzzles involve activating machinery, finding alternate routes through blocked passages, manipulating objects to create paths, and timing movements to avoid hazards[^ref-9].
 
-Combat draws on a progressively acquired arsenal ranging from the iconic crowbar to experimental hardware such as the Gluon Gun and Tau Cannon[^ref-4][^ref-7]. The game's enemy AI was considered a major advancement for its time; novel features included fear and pack behavior[^ref-1], and enemies would coordinate, evade and find cover[^ref-21]. As the official product description boasted, enemies do not walk blindly into player gunfire — they behave with cunning and self-preservation, wanting to live as badly as the player does[^ref-22].
+Combat draws on a progressively acquired arsenal ranging from the iconic crowbar to experimental hardware such as the Gluon Gun and Tau Cannon[^ref-4][^ref-7]. The game's enemy AI was considered a major advancement for its time; novel features included fear and pack behavior[^ref-1]. As the official product description boasted, enemies do not walk blindly into player gunfire — they behave with cunning and self-preservation, wanting to live as badly as the player does[^ref-22].
 
 The final chapters on Xen introduce platforming mechanics with reduced gravity, challenging players with three-dimensional navigation across floating islands[^ref-9]. This section proved controversial, with critic Fern Opal Drew describing "Xen is Half-Life at its most willfully obtuse" — representing a significant tonal and mechanical shift from the grounded facility sections[^ref-9].
 
@@ -96,7 +96,7 @@ The final chapters on Xen introduce platforming mechanics with reduced gravity, 
 
 Half-Life received universal acclaim upon release, with reviewers praising its significant approach to storytelling and gameplay integration. Game-Over awarded scores of 94% and 95% from two reviewers, with Cyrus declaring it "the current leader in the overly large pack of 3D shooters and it leads by far" and noting that "this game flows more like an interactive movie than a game"[^ref-24]. IGN proclaimed it "the best single player shooter I've ever played" and "a tour de force in game design, the definitive single player game in a first person shooter"[^ref-25].
 
-The game won more than 50 game of the year awards from various websites and magazines in 1998, cementing its status as a landmark release[^ref-5]. The Academy of Interactive Arts and Sciences named it "Computer Game of the Year," while the Game Critics Awards recognized it as both "Best PC Game" and "Best Action Game" at E3 1998[^ref-12]. PC Gamer eventually declared it the "Best Game of All Time," and GameSpy readers voted it the "Greatest Game of All Time"[^ref-3].
+The game won more than 50 game of the year awards from various websites and magazines in 1998, cementing its status as a landmark release[^ref-5]. The Academy of Interactive Arts and Sciences named it "Computer Game of the Year"[^ref-3], while the Game Critics Awards recognized it as both "Best PC Game" and "Best Action Game" at E3 1998[^ref-12]. PC Gamer eventually declared it the "Best Game of All Time," and GameSpy readers voted it the "Greatest Game of All Time"[^ref-3].
 
 Contemporary critics particularly praised the game's AI innovations. PC Gaming magazine's Chris Hudak highlighted the creature design and behavior, promising readers that "the deaths you may witness (or suffer) at the hands (or whatever) of The Lamps are probably the most gruesome and unpleasant ever - ever - burned into a CD-ROM"[^ref-10].
 
@@ -104,18 +104,18 @@ Contemporary critics particularly praised the game's AI innovations. PC Gaming m
 
 Retrospective analysis has largely confirmed Half-Life's status as a genre-defining masterpiece. Matthew Byrd of Den of Geek observed that "Half-Life was so ahead of its time that it actually rarely gets credit for all of the innovations it introduced to the shooter genre"[^ref-19]. Digital Spy's retrospective concluded it was "a science fiction-themed first-person shooter that broke new ground both graphically and cinematically"[^ref-27].
 
-However, some modern critics have offered more measured assessments. I. Coleman of Hey Poor Player argued in a critical retrospective that "the Half Life games are bad shooters" with gunplay that "feels like you're chucking pillows at a brick wall for all the damage you're doing," and criticized the first-person platforming as fundamentally flawed[^ref-8]. MobyGames user reviews show similarly varied opinions, with some calling it "nothing but a sophisticated Doom" while others maintain "it still holds up and I still would recommend it over Black Mesa remake"[^ref-28].
+However, some modern critics have offered more measured assessments. I. Coleman of Hey Poor Player argued in a critical retrospective that "the Half Life games are bad shooters" with gunplay that "feels like you're chucking pillows at a brick wall for all the damage you're doing," and criticized the first-person platforming as fundamentally flawed[^ref-8]. MobyGames user reviews show similarly varied opinions, with one calling it "nothing but a sophisticated Doom", while a 2023 reviewer wrote that it still holds up and recommended it over the Black Mesa remake[^ref-28].
 
 **Aggregate Scores:**
-- **Amazon UK:** 3.7/5 (customer reviews spanning 2003-2017)[^ref-22]
+- **Metacritic:** 96/100 (PC, based on 24 critic reviews); 87/100 (PlayStation 2)[^ref-71]
 
 ## Development
 
 ### Origins
 
-Valve Corporation was founded in 1996 by former Microsoft employees Gabe Newell and Mike Harrington, who had accumulated significant wealth from their stock options and sought to pursue their passion for game development[^ref-1]. As Newell recalled, "3D action games were our favorite genre. We also thought there was a lot of room for improvement"[^ref-30]. Monica Harrington (Mike's wife and Valve's eventual marketing executive) recalled that she at first "envisioned him working out of the extra space above our garage," until he told her he and Newell would be signing a five-year lease for office space in downtown Kirkland[^ref-30].
+Valve Corporation was founded in Kirkland, Washington in 1996 by former Microsoft employees Gabe Newell and Mike Harrington[^ref-1]; Forbes describes Harrington, like Newell, as a "Microsoft millionaire"[^ref-31]. As Newell recalled, "3D action games were our favorite genre. We also thought there was a lot of room for improvement"[^ref-30]. Monica Harrington (Mike's wife and Valve's eventual marketing executive) recalled that she at first "envisioned him working out of the extra space above our garage," until he told her he and Newell would be signing a five-year lease for office space in downtown Kirkland[^ref-30].
 
-The company secured a publishing deal with Sierra On-Line, which provided a $1 million advance for exclusive publishing rights in exchange for 30% revenue and 100% ownership of the Half-Life intellectual property[^ref-31]. This deal would later prove problematic for Valve, as Sierra owned the IP and held exclusive rights to publish Valve's next two games at only a 15% royalty rate[^ref-32]. Beyond the advance, Newell and Harrington needed $4 million more to launch the company, which they funded themselves[^ref-31].
+The company secured a publishing deal with Sierra On-Line, which provided a $1 million advance for exclusive publishing rights in exchange for 30% revenue and 100% ownership of the Half-Life intellectual property[^ref-31]. This deal would later prove problematic for Valve, as Sierra owned the IP and held exclusive rights to publish Valve's next two games at only a 15% royalty rate[^ref-32]. Beyond the advance, Newell and Harrington needed $4 million more to launch the company: Harrington sold Microsoft shares to pay his side, while Newell borrowed against his to put up his half[^ref-31].
 
 Newell approached id Software's John Romero, who helped connect Valve with the Quake engine source code that would form the foundation of their technology[^ref-33]. The working title was "Quiver," inspired by Stephen King's novella *The Mist*, before being renamed Half-Life for its connection to the lambda symbol (λ) used in physics to represent radioactive decay constants[^ref-12].
 
@@ -123,29 +123,27 @@ Newell approached id Software's John Romero, who helped connect Valve with the Q
 
 Development proved tumultuous. Valve assembled a team by recruiting talented modders from the Doom and Quake communities, bringing in fresh perspectives from outside traditional game industry channels[^ref-34]. Writer Marc Laidlaw joined in July 1997, originally expecting "a couple weeks of work" before transitioning to a science fantasy project called *Prospero*, but Half-Life became "an irresistible force" that absorbed the team's complete attention[^ref-35].
 
-By late 1997, the game was approaching its originally planned Christmas release date, but internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Although Half-Life had "walked away" from E3 in June 1997 with the title of "Best Action Game"[^ref-34], playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
+Valve's initial target release date was November 1997[^ref-36][^ref-1]. By late September 1997, nearing the end of that original schedule, internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Although Half-Life had "walked away" from E3 in June 1997 with the title of "Best Action Game"[^ref-34], playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
 
-Rather than ship a mediocre product, Newell made the controversial decision to scrap the existing game and start over, famously declaring "Late is just for a little while. Suck is forever"[^ref-34]. Sierra refused to invest additional funds, so Valve continued on Newell's own money[^ref-32]. This second pass utilized knowledge gained from the failed first attempt, with developer Ken Birdwell describing the original vision as Die Hard meets Evil Dead[^ref-36].
+Rather than ship a mediocre product, Newell made the controversial decision to scrap the existing game and start over, famously declaring "Late is just for a little while. Suck is forever"[^ref-34]. Sierra refused to invest additional funds, so Valve continued on Newell's own money[^ref-32]. This second pass utilized knowledge gained from the failed first attempt: a small group built a prototype level containing every element of the game, which Birdwell described as "Die Hard meets Evil Dead"; as he put it, "It was the vision. It was going to be our game"[^ref-36][^ref-1].
 
 The team developed what became known as the "Cabal process"—intensive collaborative design sessions lasting six hours per day, four days per week, for five months[^ref-36]. Over 200 play-test sessions were conducted, generating a 200+ page design document[^ref-36]. The process produced key design theories including "experiential density" (maximizing meaningful events per unit time) and "player acknowledgment" (ensuring the world responds to player actions), with Birdwell noting that "if the world ignores the player, the player won't care about the world"[^ref-36].
 
 **Development Credits:**[^ref-1]
 - **Company Founders:** Gabe Newell, Mike Harrington
-- **Lead Designer:** Ken Birdwell
+- **Senior Designer:** Ken Birdwell[^ref-36]
 - **Level Designer:** Brett Johnson
 - **Designer:** Harry Teasley
 - **Writer:** Marc Laidlaw
 - **Composer:** Kelly Bailey
-- **AI Programming:** Steve Bond
-- **HD Models (Blue Shift):** Stephen Bahl
 
 ### Technical Achievements
 
 Half-Life's engine, later named "GoldSrc," began as a licensed version of id Software's Quake engine but was so extensively modified that Newell estimated "about 75 per cent of the engine is our own code"[^ref-67]. As Valve engineers Ken Birdwell and Jay Stelly explained, "At its core, it's a Quake 1 engine. You can tell this by comparing Half-Life's map compiling tools with those shipped with Quake1. You'll find very minor differences—none of them are fundamental"[^ref-33].
 
-Key technical innovations included RGB lighting instead of 8-bit, 16-bit color rendering instead of 8-bit software rendering, a new skeletal animation system, and game logic written in C++ rather than Quake's interpreted QuakeC[^ref-33]. The engine supported Direct3D and OpenGL acceleration, enabling significantly improved visuals over contemporary shooters[^ref-27].
+Key technical innovations included RGB lighting instead of 8-bit, 16-bit color rendering instead of 8-bit software rendering, a new skeletal animation system, and game logic written in C++ rather than Quake's interpreted QuakeC[^ref-33]. The engine supported Direct3D and OpenGL acceleration, enabling significantly improved visuals over contemporary shooters[^ref-27][^ref-17].
 
-The AI system represented a major step forward, building on Finite State Machine principles to create enemies that would coordinate, evade, find cover and choose better tactics[^ref-21]. As one analysis noted, "Before Half-Life, enemy behaviors were simple. Static. Predictable. But Valve changed the rules, building a sophisticated AI system on top of Finite State Machine principles—and showing the world what was possible"[^ref-21].
+The AI system represented a major step forward; its novel features included fear and pack behavior[^ref-1]. As Birdwell and Stelly put it, "Our AI system is very very different from anything in Quake"[^ref-33].
 
 ### Technical Specifications
 
@@ -160,7 +158,6 @@ The AI system represented a major step forward, building on Finite State Machine
 
 **Multiplayer:**[^ref-22]
 - Up to 8 players in head-to-head Internet/LAN play mode
-- TCP/IP and IPX network support
 - Realistic 3D sound effects
 
 ### Cut Content
@@ -186,9 +183,9 @@ A Sega Dreamcast port was developed to near-completion before Sierra cancelled i
 | 1.0.0.5 | November 1998 | Windows | Initial retail release[^ref-40] |
 | 1.0.1.3 | August 2, 1999 | Windows | Includes Team Fortress Classic installation[^ref-41] |
 | 1.1.1.0 | — | Windows | Final retail patch[^ref-40] |
-| PS2 | November 14, 2001 | PlayStation 2 | Console port by Gearbox Software[^ref-42][^ref-44] |
-| Game of the Year Edition | 1999 | Windows | Includes Team Fortress[^ref-43] |
-| Sierra Best Sellers | November 2, 2001 | Windows | Budget re-release, DVD packaging[^ref-22] |
+| PS2 | November 2001 | PlayStation 2 | Console port by Gearbox Software; Wikipedia gives November 14, GameFAQs November 11 (US)[^ref-42][^ref-1][^ref-44] |
+| Game of the Year Edition | June 28, 1999 | Windows | Includes Team Fortress Classic[^ref-72][^ref-73] |
+| Sierra Best Sellers | November 2, 2001 | Windows | Budget re-release, DVD packaging[^ref-22][^ref-72] |
 | macOS/Linux | February 14, 2013 | macOS, Linux | Platform ports[^ref-1] |
 | 25th Anniversary Update | November 17, 2023 | Windows | Major update with new multiplayer maps and more[^ref-45] |
 | October 2024 Update | October 12, 2024 | Windows | Security fixes, mod compatibility[^ref-46] |
@@ -200,16 +197,9 @@ Official patches were released in English, French, German, Italian, Korean, and 
 
 The game's Visual SourceSafe source control system "exploded" 2-3 months before release, resulting in lost development logs[^ref-1]. This created challenges for maintaining version history and tracking changes during the critical final development phase.
 
-Known bugs and exploits included:
-- Bunny hopping movement exploit
-- Crouch clipping through geometry
-- Wall climbing glitches
-- Teleporting NPCs
-- Ladder bounce control issues
-- Fall push vector boosts
-- Platform jumping graphics engine issues[^ref-12][^ref-33]
+The engine also inherited bunny hopping, a movement exploit that Deus in Machina calls "a problem that had been around since Quake 1 and the GoldSrc days"; Valve only killed forward bunny hopping in a much later Source engine update[^ref-33].
 
-The macOS version does not function on macOS Catalina (10.15) or later due to Apple's removal of 32-bit application support[^ref-47].
+The macOS release is a 32-bit build and needs a fix to work on macOS Catalina (10.15) or later[^ref-47].
 
 For the German market, Valve created a censored version replacing human soldiers with robots, blood with oil, and having NPCs sit down with disappointed expressions instead of dying when shot. As Newell explained, "For the version of Half-Life to be released in Germany, we have hard-coded the language setting to be German, which means that all of the humans in the game are replaced with robots, that blood is replaced with oil, that body parts are replaced with mechanical components like springs and cogs, and so on. This design was done in conjunction with the Sierra product group responsible for the German market in order to comply with Germany's laws concerning violence"[^ref-48]. This censorship was lifted in 2017 after 19 years[^ref-49].
 
@@ -219,7 +209,7 @@ Half-Life contains numerous hidden references and secrets:
 
 - **Developer Names:** Locker doors throughout Black Mesa display names of Valve employees[^ref-29]
 - **Marc Laidlaw Novel:** Gordon's locker contains a copy of a novel by the game's writer[^ref-29]
-- **Hidden Valve Logos:** The Valve logo can be seen on the HEV suit in third-person view, and in an air duct in the *Uplink* demo[^ref-29]
+- **Hidden Valve Logos:** The Valve logo can be seen on the HEV suit in third-person view, and in an air duct in the *Uplink* demo[^ref-29][^ref-37]
 - **Gabe Newell Room:** A secret room filled with images of Valve co-founder Gabe Newell[^ref-29]
 - **Akira References:** Level designer Brett Johnson confirmed that elevator designs were directly copied from the *Akira* manga, with texture files named "akira_elev." As Johnson stated, "Es absolutamente de Akira. Yo lo construí" ("It's absolutely from Akira. I built it")[^ref-50]
 - **Opposing Force Secret:** A reversed sound file in the expansion contains the message "To win the game you must kill me, Randall Pitchford" — referencing the Gearbox president[^ref-37]
@@ -264,9 +254,8 @@ Sierra Entertainment presented Valve with a golden crowbar award inscribed "Cong
 ### Collections
 
 Half-Life appeared in numerous compilations:
-- **Half-Life: Game of the Year Edition** (1999) – Includes Team Fortress Classic[^ref-43]
-- **Half-Life Platinum Collection** (2002) – All five discs collection[^ref-43]
-- **The Orange Box** (2007) – Bundled with Half-Life 2 episodes, Portal, and Team Fortress 2[^ref-57]
+- **Half-Life: Game of the Year Edition** (1999) – Includes Team Fortress Classic[^ref-72][^ref-73]
+- **Half-Life: Platinum Collection** (2002) – Bundles the Game of the Year Edition with Opposing Force, Counter-Strike and Blue Shift[^ref-74]
 
 ### Fan Projects
 
@@ -294,15 +283,15 @@ Yet Half-Life's legacy extends beyond design influence to its role in establishi
 
 ## Soundtrack
 
-The Half-Life soundtrack was composed by Kelly Bailey, who would continue as Valve's primary composer through Half-Life 2 and its episodes[^ref-64]. The score combines ambient electronic textures, industrial percussion, and rock elements to match the game's shifting atmosphere from quiet laboratory corridors to intense combat sequences[^ref-65].
+The Half-Life soundtrack was composed by Kelly Bailey, who went on to score Half-Life 2 and its two episodes[^ref-70]. The score combines ambient electronic textures, industrial percussion, and rock elements to match the game's shifting atmosphere from quiet laboratory corridors to intense combat sequences[^ref-65].
 
-**Soundtrack Details:**[^ref-66]
+**Soundtrack Details:**[^ref-65]
 - **Tracks:** 27
 - **Total Duration:** 36:24
 - **Genre:** Ambient, industrial, rock
 - **Availability:** Free DLC for Half-Life owners on Steam (added September 24, 2014)
 
-Notable tracks include Nuclear Mission Jam, Hard Technology Rock, Diabolical Adrenaline Guitar and Nepal Monastery. The soundtrack heavily utilized samples from Sony's Methods of Mayhem Industrial Toolkit and libraries from Zero-G and EastWest[^ref-64]. Interestingly, the same drumbeat sample from "Hard Technology Rock" appears in the Command & Conquer: Red Alert soundtrack track "Crush"[^ref-65].
+Notable tracks include Nuclear Mission Jam, Hard Technology Rock, Diabolical Adrenaline Guitar and Nepal Monastery. Kelly Bailey used Sony's Methods of Mayhem Industrial Toolkit sample pack for most of the soundtrack[^ref-65], which also draws heavily on sample libraries from Zero-G and EastWest[^ref-64]. Interestingly, the same drumbeat sample from "Hard Technology Rock" appears in the Command & Conquer: Red Alert soundtrack track "Crush"[^ref-65].
 
 Some tracks in the game files are named "Prospero" — referencing Valve's cancelled science fantasy project that was absorbed by Half-Life's development[^ref-65]. In 2020, Valve partnered with Ipecac Recordings to release Half-Life soundtracks on streaming services[^ref-64].
 
@@ -346,11 +335,9 @@ Some tracks in the game files are named "Prospero" — referencing Valve's cance
 [^ref-11]: [Half-Life Fandom Wiki – Hazardous Environment Combat Unit](https://half-life.fandom.com/wiki/Hazardous_Environment_Combat_Unit) – HECU details, voice cast
 [^ref-12]: [Half-Life Fandom Wiki – Half-Life](https://half-life.fandom.com/wiki/Half-Life) – comprehensive game information
 [^ref-13]: [PC Gamer – How WASD became the standard PC control scheme](https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/) – Yahn Bernier confirms WASD in Half-Life's default config
-[^ref-14]: [PCGamingWiki – Half-Life](https://community.pcgamingwiki.com/files/file/2649-half-life-quality-of-life-fixes-retail-steam/) – technical specifications
 [^ref-16]: [Behind The Voice Actors – Half-Life](https://www.behindthevoiceactors.com/video-games/half-life/) – complete voice cast
 [^ref-17]: [Internet Archive – Half-Life Manual](https://archive.org/stream/Half-Life_Manual/Half-Life_Manual_djvu.txt) – system requirements, gameplay instructions
 [^ref-19]: [Den of Geek – Half-Life Changed PC Gaming](https://www.denofgeek.com/games/half-life-changed-pc-gaming/) – technical innovations, modding impact
-[^ref-21]: [Fatih Canbekli – How Half-Life's AI changed the game (LinkedIn post)](https://www.linkedin.com/posts/fatih-canbekli-275697152_gamedev-halflife-ai-activity-7344720379304628224-Ztpe) – FSM AI system breakdown
 [^ref-22]: [Amazon UK – Half-Life Sierra Best Sellers](https://www.amazon.co.uk/Sierra-Best-Sellers-Half-Life-Packaging/dp/B00005NZSL) – product description, customer reviews, technical specs
 [^ref-24]: [Game-Over.net – Half-Life Review](https://www.game-over.net/review/november/halflife/index.html) – contemporary review scores
 [^ref-25]: Jason Bates. [IGN – Half-Life Review (UK)](https://web.archive.org/web/20071126130226/http://uk.pc.ign.com/articles/153/153107p1.html) – contemporary professional review with detailed scoring
@@ -363,14 +350,13 @@ Some tracks in the game files are named "Prospero" — referencing Valve's cance
 [^ref-33]: [Deus In Machina – Evolution of Source Engine](https://www.deusinmachina.net/p/the-evolution-of-valves-source-engine) – engine technical details, developer quotes
 [^ref-34]: [Filfre.net – Half-Life](https://www.filfre.net/2024/12/half-life/) – development history, Carmack quote
 [^ref-35]: [Game Developer – Marc Laidlaw on Story and Narrative](https://www.gamedeveloper.com/design/marc-laidlaw-on-story-and-narrative) – writer interview
-[^ref-36]: [Game Developer – The Cabal: Valve's Design Process](https://www.gamedeveloper.com/design/the-cabal-valve-s-design-process-for-creating-i-half-life-i-) – Ken Birdwell postmortem
+[^ref-36]: [Game Developer – The Cabal: Valve's Design Process](https://www.gamedeveloper.com/design/the-cabal-valve-s-design-process-for-creating-i-half-life-i-) – Ken Birdwell postmortem ("senior designer"; November 1997 target date)
 [^ref-37]: [Combine Overwiki – Easter Eggs](https://combineoverwiki.net/wiki/Easter_eggs) – Opposing Force reversed sound file referencing Randy Pitchford
 [^ref-38]: [IGN – Half-Life Dreamcast Cancellation](http://www.ign.com/articles/2001/06/18/not-given-half-a-chance-the-cancellation-of-half-life) – port cancellation details
 [^ref-39]: [GameSpot – Half-Life Dreamcast Cancelled](https://www.gamespot.com/articles/half-life-for-the-dreamcast-officially-cancelled/1100-2776155/) – Sierra press release
 [^ref-40]: [Internet Archive – Half-Life Patches](https://archive.org/details/half-life-patches) – version history, language support
 [^ref-41]: [Internet Archive – Half-Life Patch 1.0.1.3](https://archive.org/details/half-lifepatchversion1.0.1.3) – patch changelog
 [^ref-42]: [Internet Archive – Half-Life PS2 Manual](https://archive.org/details/hl_ps2_pdf) – console port documentation
-[^ref-43]: [eBay – Half-Life Sierra Listings](https://www.ebay.com/b/Half-Life-Sierra-Video-Games/139973/bn_7115172498) – edition variants
 [^ref-44]: [GameFAQs – Half-Life Data](https://gamefaqs.gamespot.com/ps2/466377-half-life/data) – release dates across platforms
 [^ref-45]: [PCGamesN – Half-Life gets massive update for 25th anniversary](https://www.pcgamesn.com/half-life/update-anniversary) – November 17, 2023 anniversary update
 [^ref-46]: [Game Rant – October 2024 Update](https://gamerant.com/half-life-update-patch-notes-october-2024/) – patch notes
@@ -383,15 +369,18 @@ Some tracks in the game files are named "Prospero" — referencing Valve's cance
 [^ref-54]: [Marc Laidlaw – Writing Half-Life](https://www.marclaidlaw.com/writing-half-life/) – Gordon Freeman design philosophy
 [^ref-55]: [WIRED – Black Mesa remake review](https://www.wired.com/story/black-mesa-half-life/) – Adam Engels quote, "most compelling game"
 [^ref-56]: [TheGamer – Half-Life: Source unlisted from Steam](https://www.thegamer.com/half-life-source-unlisted-from-steam-buggy-cant-find/) – Valve calls the anniversary version "the definitive version"
-[^ref-57]: [Half-Life Fandom Wiki – Half-Life and Portal Universe](https://half-life.fandom.com/wiki/Half-Life_and_Portal_universe) – series timeline
 [^ref-58]: [Game Studies – Counter-Strike Research](https://www.gamestudies.org/0202/wright/) – multiplayer statistics
 [^ref-59]: [DSOGaming – Operation Black Mesa](https://www.dsogaming.com/videotrailer-news/new-trailer-for-operation-black-mesa-a-fan-remake-for-both-half-life-opposing-force-and-blue-shift/) – fan remake announcement
 [^ref-60]: [Ars Technica – Half-Life Community Theater](https://arstechnica.com/gaming/2020/04/from-fps-to-improv-stage-half-life-as-the-new-community-theater/) – community content
 [^ref-61]: [GameFAQs – Half-Life FAQs](https://gamefaqs.gamespot.com/pc/43362-half-life/faqs) – guide listings
 [^ref-63]: [Scent of a Gamer – Half-Life retrospective](https://scentofagamer.wordpress.com/2023/11/24/half-life-retrospective/) – retrospective analysis
 [^ref-64]: [Combine Overwiki – Half-Life Soundtrack](https://combineoverwiki.net/wiki/Half-Life_soundtrack) – composer credits, technical details
-[^ref-65]: [Half-Life Fandom Wiki – Half-Life Soundtrack](https://half-life.fandom.com/wiki/Half-Life_soundtrack) – track information, trivia
-[^ref-66]: [KHInsider – Half-Life Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-soundtrack-1998) – track listing, duration
+[^ref-65]: [Half-Life Fandom Wiki – Half-Life Soundtrack](https://half-life.fandom.com/wiki/Half-Life_soundtrack) – track information (27 tracks, 36:24, free Steam DLC from September 24, 2014), Methods of Mayhem sample pack, trivia
 [^ref-67]: [GameSpot UK – Half-Life: Interview With Gabe Newell (Wayback, 2001)](https://web.archive.org/web/20010723160349/http://extra.gamespot.co.uk/pc.gamespot/features/halflife_uk/02.html) – "about 75 per cent of the engine is our own code"
 [^ref-68]: [WIRED – Valve unveils Half-Life sales figures (2008)](https://www.wired.com/2008/12/valve-unveils-h/) – nearly 10 million retail copies of the original Half-Life
 [^ref-69]: [TheGamer – Half-Life mod Underworld: Bloodline history](https://www.thegamer.com/half-life-mod-underworld-bloodline-history-vampire-the-masquerade-bloodhunt/) – GoldSrc "one of the easiest engines for new developers"
+[^ref-70]: [Wikipedia – Kelly Bailey (composer)](https://en.wikipedia.org/wiki/Kelly_Bailey_(composer)) – discography: Half-Life, Half-Life 2, Episode One, Episode Two
+[^ref-71]: [Metacritic – Half-Life](https://www.metacritic.com/game/half-life/) – Metascore 96 (PC, 24 critic reviews), 87 (PS2)
+[^ref-72]: [GameFAQs – Half-Life Release Information for PC](https://gamefaqs.gamespot.com/pc/43362-half-life/data) – Game of the Year Edition US 06/28/99; Best Seller Series EU 11/02/01
+[^ref-73]: [MobyGames – Half-Life: Game of the Year Edition](https://www.mobygames.com/game/2728/half-life-game-of-the-year-edition/) – read via the MobyGames API; contents include Team Fortress Classic
+[^ref-74]: [MobyGames – Half-Life: Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – read via the MobyGames API; 2002, contents list
