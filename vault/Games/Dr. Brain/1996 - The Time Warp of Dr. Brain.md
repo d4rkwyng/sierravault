@@ -20,9 +20,9 @@ tags: [1990s, dr-brain, educational, sierra]
 
 ## Overview
 
-The Time Warp of Dr. Brain is an educational puzzle adventure game developed by Sierra On-Line in 1996[^ref-1]. The fourth installment in the Dr. Brain series[^ref-2], the game follows the hapless scientist Dr. Brain as he "teleports himself into last week to retrieve his car keys, only to end up floating in the space-time discontinuum"[^ref-1]. Players must rescue Dr. Brain by completing a series of puzzles[^ref-47], with over 600 brain-building puzzles across 10 different 3D worlds[^ref-3].
+The Time Warp of Dr. Brain is an educational puzzle adventure game developed by Sierra On-Line in 1996[^ref-1]. The fourth installment in the Dr. Brain series[^ref-2], the game follows the hapless scientist Dr. Brain, who, in the words of a MobyGames user review by Katakis, "teleports himself into last week to retrieve his car keys, only to end up floating in the space-time discontinuum"[^ref-1]. Players must rescue Dr. Brain by completing a series of puzzles[^ref-47], with over 600 brain-building puzzles across 10 different 3D worlds[^ref-3].
 
-As described by Sierra's original marketing materials, "Dr. Brain is trapped in the space time discontinuum. Now he needs your brain power to bring him home. Travel through the ages, solve a myriad of mind-warping puzzles and save Dr. Brain... just in time!"[^ref-4] The marketing promised the game would let players "Play over 400... no... 500... no... 600 mind-building puzzles!"[^ref-43] and offered puzzles that "rebuild themselves for unlimited game play"[^ref-43]. The game was designed by Mark Krause and Ward Makielski[^ref-2], with music composed by Jonathan Cunningham and Rodney Sherwood credited among the English voice actors[^ref-1]. It was the final game in Sierra's own run of the Dr. Brain series; three further games were later made in a revival by Knowledge Adventure[^ref-39].
+As described by Sierra's original marketing materials, "Dr. Brain is trapped in the space time discontinuum. Now he needs your brain power to bring him home. Travel through the ages, solve a myriad of mind-warping puzzles and save Dr. Brain... just in time!"[^ref-4] The marketing promised the game would let players "Play over 400... no... 500... no... 600 mind-building puzzles!"[^ref-43] and offered puzzles that "rebuild themselves for unlimited game play"[^ref-43]. The game was designed by Mark Krause and Ward Makielski[^ref-2], with music composed by Jonathan Cunningham and Rodney Sherwood credited among the English voice actors[^ref-1]. It was "the final game in Sierra's entries of the Dr. Brain series"[^ref-39]. [[Knowledge Adventure]] later took the series over; Giant Bomb counts three later games and Wikipedia four[^ref-39][^ref-49].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -36,7 +36,7 @@ As described by Sierra's original marketing materials, "Dr. Brain is trapped in 
 
 ## Story Summary
 
-The Time Warp of Dr. Brain begins with a familiar premise for the series: "Dr. Brain was trying to teleport himself back to last week to try and find his car keys, but as usual something goes wrong and he ends up lost in the space time discontinuum"[^ref-6]. The game used a "transportation device" for the time travel accident[^ref-40], landing Dr. Brain in "an alternate dimension"[^ref-40]. The game's narrative spans an ambitious timeline, with puzzles set at points from 990,000,000 BC to 100,000 AD[^ref-40] (Obscuritory gives the earliest as 999,000,000 BC[^ref-8]), covering the entire evolutionary spectrum from single-celled life to futuristic scenarios[^ref-8].
+The Time Warp of Dr. Brain begins with a familiar premise for the series: "Dr. Brain was trying to teleport himself back to last week to try and find his car keys, but as usual something goes wrong and he ends up lost in the space time discontinuum"[^ref-6]. The game used a "transportation device" for the time travel accident[^ref-40], landing Dr. Brain in "an alternate dimension"[^ref-40]. The game's narrative spans an ambitious timeline, with puzzles set at points from 990,000,000 BC to 100,000 AD[^ref-40] (Obscuritory gives the earliest as 999,000,000 BC[^ref-8]), with Dr. Brain's incarnations running from the beginning of single-celled life onward[^ref-8].
 
 As one contemporary review noted, "The hapless doctor gets up to some mischief and lands himself in trouble, and in order to get him back on track there is a whole collection of puzzles to be completed"[^ref-46]. The spoken commentary "aimed specifically at children" outlines each game's objective[^ref-46], with puzzles "loosely linked to space and time (specifically the past)"[^ref-46]. As the Dr. Brain wiki puts it, "The only way out of this strange area is to solve all the puzzles successfully"[^ref-40].
 
@@ -87,7 +87,7 @@ Collection Chamber described the visuals as looking "like you are prodding aroun
 
 **Caveman Rock (1,000,000 BC)** - "These funky fresh cats have their first gig tonight and they still haven't learned their parts!" explains Dr. Brain[^ref-39]. Players assemble melodies using sound bytes from a rock band featuring drummer, guitarist, bassist, and accordion harmonica man[^ref-39]. One player noted the section "worked great as an introduction to music composition and even editing software"[^ref-41].
 
-**Monkey See Monkey Do (10,000 BC)** - A hybrid of Scrabble and word search pitting players against an ape[^ref-39]. Notably, "The Genius and Expert levels require knowledge of American Sign Language in order to be completed"[^ref-40].
+**Monkey See Monkey Do (10,000 BC)** - A hybrid of Scrabble and word search pitting players against an ape[^ref-39]. Notably, "The Genius and Expert levels require knowledge of American Sign Language in order to be completed"[^ref-40]; Electric Playground mentions sign language only at the genius level[^ref-45].
 
 **Alchemy (1400 AD)** - Players transform chemicals by manipulating volume, color, tone, and temperature using a machine made of "the finest discarded junk"[^ref-39]. The puzzle requires "mixing various concoctions to imitate the 'blueprint' on screen"[^ref-46]. One player admitted "I was never very good at the Alchemy puzzle"[^ref-41].
 
@@ -140,7 +140,7 @@ The Time Warp of Dr. Brain was developed as the fourth entry in Sierra's educati
 
 The game was designed by Mark Krause and Ward Makielski[^ref-1], with Jonathan Cunningham composing the music[^ref-1].
 
-Voice acting was provided by Rodney Sherwood as Dr. Brain[^ref-1].
+Rodney Sherwood and Cathy Sorbo voiced the English version, with separate German and French casts[^ref-48].
 
 Sierra's store page advertised "3-D rendered characters, unique claymation style animation, and a new attitude"[^ref-33]; Obscuritory later called these "somewhat grim claymation graphics"[^ref-8].
 
@@ -150,17 +150,17 @@ Collection Chamber's review noted the opening presentation "lulled me into a fal
 
 ### Technical Achievements
 
-The Time Warp of Dr. Brain was released with comprehensive language support, available in English, German, and French[^ref-43] The Monkey See Monkey Do word game "can be played entirely with sign language letters at the genius level"[^ref-45]. As Electric Playground noted, "if you found that the puzzles weren't difficult enough at the genius level (unlikely), you might want to go back to the beginning and play them all in German or French and brush up your language skills"[^ref-45]. Under Windows 95, "network play is available"[^ref-45], and Giant Bomb notes "support for online multiplayer"[^ref-39]; MobyGames lists offline play as one player[^ref-1].
+The Time Warp of Dr. Brain was released with comprehensive language support, available in English, German, and French[^ref-43]. The Monkey See Monkey Do word game "can be played entirely with sign language letters at the genius level"[^ref-45]. As Electric Playground noted, "if you found that the puzzles weren't difficult enough at the genius level (unlikely), you might want to go back to the beginning and play them all in German or French and brush up your language skills"[^ref-45]. Under Windows 95, "network play is available"[^ref-45], and Giant Bomb notes "support for online multiplayer"[^ref-39]; MobyGames lists offline play as one player[^ref-1].
 
 Technical specifications included support for 68K and PowerPC architectures on Mac[^ref-3], with minimum requirements of a 486/DX66 processor, 8MB RAM, SVGA display at 640x480 with 256 colors, and a 2x CD-ROM drive[^ref-46]. The Windows version required Windows 3.1 or Windows 95[^ref-46]. VGChartz provides basic game metadata for the release[^ref-30].
 
 ## Legacy
 
-The Time Warp of Dr. Brain represents the end of an era for the original Dr. Brain series, as it was "the final game in Sierra's entries of the Dr. Brain series"[^ref-39]. As a direct sequel to The Lost Mind of Dr. Brain[^ref-39], it marked the conclusion of Sierra's involvement with the franchise. The series was later "revived by Knowledge Adventure with three additional games"[^ref-39]. 
+The Time Warp of Dr. Brain represents the end of an era for the original Dr. Brain series, as it was "the final game in Sierra's entries of the Dr. Brain series"[^ref-39]. As a direct sequel to The Lost Mind of Dr. Brain[^ref-39], it was the last Dr. Brain game Sierra developed itself. Giant Bomb notes that "three additional games were created in a revival by Knowledge Adventure"[^ref-39]; Wikipedia says Knowledge Adventure "later released four games based on the original series"[^ref-49], and TV Tropes also lists four[^ref-52]. Knowledge Adventure joined Sierra's corporate family through CUC International, which already owned Sierra: CUC announced in November 1996 that it would buy Knowledge Adventure[^ref-51] and completed the purchase on January 31, 1997, placing it in the CUC Software division alongside Sierra On-Line[^ref-50].
 
 Upon completing all 10 puzzles, "Dr. Brain is seen passing the starting screen in his time travelling machine, and returning home through a space-time rift"[^ref-40]. Despite mixed modern reception, the game has found preservation through various abandonware sites and continues to be remembered fondly by some players who experienced it as children[^ref-41]. One player noted "I feel like this is definitely one of the forgotten entries in this series, which is a shame"[^ref-41]. Additional documentation exists through Wikidata's structured metadata[^ref-34] and Reddit's Sierra community discussions[^ref-36]. MobyGames maintains a primary entry for the title[^ref-38].
 
-The game's educational approach, incorporating "Gardner's theory of multiple intelligences"[^ref-8], reflected Sierra's commitment to creating games that were both entertaining and pedagogically sound.
+The game's educational approach incorporated "Gardner's theory of multiple intelligences"[^ref-8].
 
 Promotional materials emphasized that players could "Pump-up verbal, logical, visual, kinesthetic, musical, inter- and intrapersonal intelligences"[^ref-43].
 
@@ -170,7 +170,7 @@ As one review noted, it was "A great one for all the kids to join in and for par
 
 In a 2015 MobyGames forum thread, a poster seeking the games' source code wrote that his customer used "at least a couple" of the Dr. Brain games "in an education setting for students with special needs", but that it was "prohibitively expensive to completely redevelop the games and graphics" for modern systems[^ref-18].
 
-Old Games Download classifies the title within the educational genre[^ref-31], while Never Die Media maintains product information[^ref-32].
+Never Die Media maintains product information[^ref-32].
 
 Original Sierra marketing materials preserved in the Wayback Machine showcase the game's promotional campaign, inviting players to experience "Dr. Brain like you've never seen him before"[^ref-33].
 
@@ -195,27 +195,31 @@ The game had 294 votes on GOG's Dreamlist as of October 2026 requesting its rele
 
 ## References
 
-[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Release date and developer information
-[^ref-2]: [Wikipedia - The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) – - Series information and installment number
-[^ref-3]: [Macintosh Repository](https://www.macintoshrepository.org/3249-the-time-warp-of-dr-brain) – - Puzzle count and world information
-[^ref-4]: [Metacritic - The Time Warp of Dr. Brain](https://www.metacritic.com/game/the-time-warp-of-dr-brain/) – - Official game description
-[^ref-6]: [A Games Room](https://www.agamesroom.com/game/twdb) – - Plot synopsis
-[^ref-8]: [Obscuritory](https://obscuritory.com/puzzle/time-warp-of-dr-brain/) – - Evolutionary timeline context
-[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Time_Warp_of_Dr._Brain) – - Input device information
-[^ref-15]: [MyAbandonware - The Time Warp of Dr. Brain](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf) – - Player review of specific puzzles
-[^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – - Critical modern assessment
-[^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – - Educational use context
-[^ref-30]: [VGChartz](https://www.vgchartz.com/game/16942/the-time-warp-of-dr-brain/) – - Basic game metadata
-[^ref-31]: Old Games Download (link removed: game-download site) – - Game classification as educational
-[^ref-32]: [Never Die Media](https://www.neverdiemedia.com/products/the-time-warp-of-dr-brain) – - Product description
-[^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – - Original marketing materials
-[^ref-34]: [Wikidata](https://www.wikidata.org/wiki/Q7769345) – - Official metadata entry
-[^ref-36]: [Reddit - Sierra Community](https://www.reddit.com/r/Sierra/comments/qwdzzq/ripping_sprites_from_the_time_warp_of_dr_brain/) – - Technical discussion forum
-[^ref-38]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – - Primary database entry
-[^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – - Comprehensive puzzle descriptions and gameplay details
-[^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – - Point system and puzzle mechanics
-[^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – - Player memories and experiences
-[^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – - Modern retrospective review
-[^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – - Contemporary review details
-[^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – - Target audience and game overview
-[^ref-47]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"
+[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Release date and developer information
+[^ref-2]: [Wikipedia - The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) – Series information and installment number
+[^ref-3]: [Macintosh Repository](https://www.macintoshrepository.org/3249-the-time-warp-of-dr-brain) – Puzzle count and world information
+[^ref-4]: [Metacritic - The Time Warp of Dr. Brain](https://www.metacritic.com/game/the-time-warp-of-dr-brain/) – Official game description
+[^ref-6]: [A Games Room](https://www.agamesroom.com/game/twdb) – Plot synopsis
+[^ref-8]: [Obscuritory](https://obscuritory.com/puzzle/time-warp-of-dr-brain/) – Evolutionary timeline context
+[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Time_Warp_of_Dr._Brain) – Input device information
+[^ref-15]: [MyAbandonware - The Time Warp of Dr. Brain](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf) – Player review of specific puzzles
+[^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – Critical modern assessment
+[^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – Educational use context
+[^ref-30]: [VGChartz](https://www.vgchartz.com/game/16942/the-time-warp-of-dr-brain/) – Basic game metadata
+[^ref-32]: [Never Die Media](https://www.neverdiemedia.com/products/the-time-warp-of-dr-brain) – Product description
+[^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – Original marketing materials
+[^ref-34]: [Wikidata](https://www.wikidata.org/wiki/Q7769345) – Official metadata entry
+[^ref-36]: [Reddit - Sierra Community](https://www.reddit.com/r/Sierra/comments/qwdzzq/ripping_sprites_from_the_time_warp_of_dr_brain/) – Technical discussion forum
+[^ref-38]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – Primary database entry
+[^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – Comprehensive puzzle descriptions and gameplay details
+[^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – Point system and puzzle mechanics
+[^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – Player memories and experiences
+[^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – Modern retrospective review
+[^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – Contemporary review details
+[^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – Target audience and game overview
+[^ref-47]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"
+[^ref-48]: [MobyGames – The Time Warp of Dr. Brain Windows credits (Wayback, July 17, 2019)](http://web.archive.org/web/20190717222642/https://www.mobygames.com/game/windows/time-warp-of-dr-brain/credits) – "Actors (English) Rodney Sherwood, Cathy Sorbo", plus German and French casts
+[^ref-49]: [Wikipedia – Dr. Brain](https://en.wikipedia.org/wiki/Dr._Brain) – "Knowledge Adventure later released four games based on the original series"
+[^ref-50]: [CUC International – "CUC International Completes Acquisition of Knowledge Adventure" (1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) – closing price "on January 31, 1997"; KA "is part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line"
+[^ref-51]: [Los Angeles Times – "CUC Will Buy Knowledge Adventure" (November 6, 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) – CUC International "plans to buy the privately held firm by year-end"
+[^ref-52]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – Knowledge Adventure "released four more games"
