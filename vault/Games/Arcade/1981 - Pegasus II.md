@@ -11,13 +11,13 @@ series: null
 engine: "Machine Language"
 protagonist: null
 sierra_lineage: "Core Sierra"
-last_updated: "2026-10-15"
+last_updated: "2026-10-27"
 description: "Pegasus II is a 1981 side-scrolling Apple II shooter in the Scramble mould, written by Olaf Lubeck and published by On-Line Systems, notable for its built-in terrain generator."
 tags: [1980s, arcade, shooter, apple-ii, on-line-systems, olaf-lubeck]
 ---
 # Pegasus II
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ Pegasus II has had little modern critical attention. MobyGames shows no Moby Sco
 
 ### Origins
 
-Olaf Lubeck got his first Apple in 1980, while he was still in the Navy, and wrote his first complete program on it in the spring of 1981.[^ref-11] He came to On-Line Systems through its advertising for programmers: his wife Pam saw one of the ads, and Ken Williams signed his maze game *Gobbler*.[^ref-11][^ref-4] Atari objected that *Gobbler* infringed its Pac-Man rights, and the game was pulled. The dispute carried on over its replacement, *[[1981 - Jawbreaker|Jawbreaker]]*, until the parties settled out of court.[^ref-11]
+Olaf Lubeck got his first Apple in 1980, while he was still in the Navy, and wrote his first complete program on it in the spring of 1981.[^ref-11] He came to On-Line Systems through its advertising for programmers: his wife saw one of the ads, and Ken Williams signed his maze game *Gobbler*.[^ref-11][^ref-4] Atari objected that *Gobbler* infringed its Pac-Man rights, and the game was pulled. The dispute carried on over its replacement, *[[1981 - Jawbreaker|Jawbreaker]]*, until the parties settled out of court.[^ref-11]
 
 According to *Softline*, Jawbreaker's royalties are what got Lubeck started on this game. "Jawbreaker did better than I ever expected," he said. "I started getting royalty checks and I got all fired up and started work on Red Alert and Pegasus II."[^ref-11] (*Red Alert* came out through Broderbund.)[^ref-13] Retro365 places the game in its arcade context. Konami's *Scramble* was a hit in 1981 but had no official home computer ports, so clones began to appear. Pegasus II was one of them, released "later that year".[^ref-4]
 
