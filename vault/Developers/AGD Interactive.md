@@ -15,9 +15,9 @@ last_updated: "2026-10-26"
 
 ## Overview
 
-AGD Interactive (AGDI, "Anonymous Game Developers Interactive") is an independent, non-commercial game development group founded in 2001 that makes enhanced remakes of classic Sierra On-Line adventure games and releases them as free downloads.[^ref-8][^ref-10] It began as Tierra Entertainment and adopted the AGD Interactive name on December 10, 2003.[^ref-8][^ref-14] Wikipedia describes it as an LLC and a "non-profit company," and Adventure Classic Gaming called it "a nonprofit independent game development team."[^ref-8][^ref-23]
+AGD Interactive (AGDI, "Anonymous Game Developers Interactive") is an independent, non-commercial game development group founded in 2001 that makes enhanced remakes of classic Sierra On-Line adventure games and releases them as free downloads.[^ref-8][^ref-10] It began as Tierra Entertainment and adopted the AGD Interactive name on December 10, 2003.[^ref-8][^ref-14][^ref-30] Wikipedia describes it as an LLC and a "non-profit company," and Adventure Classic Gaming called it "a nonprofit independent game development team."[^ref-8][^ref-23]
 
-AGDI was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-8] Its remakes, King's Quest I VGA (2001), King's Quest II: Romancing the Stones (2002), Quest for Glory II: Trial by Fire (2008) and King's Quest III Redux: To Heir is Human (2011), are all built with Adventure Game Studio and released as freeware.[^ref-8][^ref-6] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-10]
+AGDI was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-8] Its remakes, King's Quest I VGA (2001), King's Quest II: Romancing the Stones (2002), Quest for Glory II: Trial by Fire (2008) and King's Quest III Redux: To Heir is Human (2011), are all built with Adventure Game Studio and released as freeware.[^ref-8][^ref-10] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-10]
 
 In 2004, the same founders established **[[Himalaya Studios]]**, a commercial company that makes original adventure games, while AGD Interactive continued its free remakes.[^ref-21][^ref-23] Himalaya's titles include *Al Emmo and the Lost Dutchman's Mine* (2006) and *Mage's Initiation: Reign of the Elements* (2019).[^ref-21][^ref-22]
 
@@ -27,17 +27,17 @@ In 2004, the same founders established **[[Himalaya Studios]]**, a commercial co
 
 According to Brimhall, the team formed when she, an old college friend and a friend from an earlier fan Quest for Glory project set out to make a quick King's Quest I parody. "We assumed we'd be taking a sabbatical for about two weeks to finish what we felt was a really small project." Instead, "it took us nearly 9 months to complete the King's Quest I VGA remake," and about halfway through they dropped the parody idea for a one-to-one remake.[^ref-23] Warren had started a Quest for Glory II remake on his own in late 2000, before the King's Quest projects began.[^ref-13]
 
-On December 10, 2003, the group stopped using the name Tierra Entertainment and became **AGD Interactive** (AGD standing for "Anonymous Game Developer").[^ref-8] Brimhall explained that after the team cancelled its *Royal Quest* parody, "we felt that the name was sort of gimmicky, and relied too much on Sierra's name," and fans had grown used to the AGD acronym, "so we decided to make a departure from Sierra and officially go with AGD Interactive."[^ref-23] Its two leads have since been credited as "Anonymous Game Designer #1" (Brimhall) and "Anonymous Game Developer #2" (Warren).[^ref-8]
+On December 10, 2003, the group stopped using the name Tierra Entertainment and became **AGD Interactive**.[^ref-8] The announcement credited the change to "the Anonymous Game Developers," the name the team used for itself.[^ref-30] Brimhall explained that after the team cancelled its *Royal Quest* parody, "we felt that the name was sort of gimmicky, and relied too much on Sierra's name," and fans had grown used to the AGD acronym, "so we decided to make a departure from Sierra and officially go with AGD Interactive."[^ref-23] Its two leads have since been credited as "Anonymous Game Designer #1" (Brimhall) and "Anonymous Game Developer #2" (Warren).[^ref-8]
 
 ### Relationship with Sierra and Vivendi
 
 AGDI's remakes were made with the knowledge of Sierra's owner. Asked in 2006 whether Sierra had contacted the team, Brimhall said: "yes—we were contacted both by past and present employees, supporting our work, and Vivendi Universal (VU) themselves. We had made it apparent from the get go that we would discontinue our project if VU decided it was inappropriate. Luckily, this never happened and we now have permission to create these games."[^ref-23]
 
-King's Quest I VGA was released free on August 8, 2001.[^ref-8] King's Quest II: Romancing the Stones followed on December 3, 2002, and won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best Documentation.[^ref-8]
+King's Quest I VGA was released free on August 7, 2001.[^ref-25] King's Quest II: Romancing the Stones followed on December 3, 2002,[^ref-31] and won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best Documentation.[^ref-8][^ref-27]
 
 ### Later Remakes
 
-Quest for Glory II was released on August 24, 2008, "after nearly 8 years in development."[^ref-8][^ref-13] Warren described it as "a one-man project in 2000" whose development resumed after the King's Quest II: Romancing the Stones voice pack in 2003, with a refinement stage from 2005 to 2008.[^ref-13] In 2005 the team visited Oakhurst to meet Quest for Glory creators Lori Ann and Corey Cole. Through them they saw some of the original design documents, from which they pulled scrapped material for a new mini-game.[^ref-13]
+Quest for Glory II was released on August 24, 2008, "after nearly 8 years in development."[^ref-8][^ref-13] Engadget described the remake as "a labor of love in development off and on for nearly seven years."[^ref-29] The team described it as "a one-man project in 2000" whose development resumed after the King's Quest II: Romancing the Stones voice pack in 2003, with a refinement stage from 2005 to 2008.[^ref-13] AGDI's own project history dates the first set of connected Shapeir screens to 2001.[^ref-28] In 2005 the team visited Oakhurst to meet Quest for Glory creators Lori Ann and Corey Cole. Through them they saw some of the original design documents, from which they pulled scrapped material for a new mini-game.[^ref-13]
 
 AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^ref-4] The studio described it as featuring "beautiful storybook artwork, an enchanting musical score, full voice acting, new scenes, quests, characters, and locations to explore."[^ref-4] Wikipedia notes that it is not a one-to-one remake and continues the non-canon story begun in King's Quest II: Romancing the Stones.[^ref-8]
 
@@ -45,7 +45,7 @@ AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^re
 
 ### King's Quest I VGA Remake (2001)
 
-AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventure King's Quest I: Quest for the Crown as a point-and-click game.[^ref-8] Wikipedia reports that in the month of its release, sales of Sierra's King's Quest VIII: The Mask of Eternity "skyrocketed." Version 4.0, released on January 17, 2009, added enhanced backgrounds, narration and an option to remove dead-end situations.[^ref-8]
+AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventure King's Quest I: Quest for the Crown as a point-and-click game.[^ref-8] In Just Adventure's October 2001 sales column, which used PC Data figures, Randy Sluganski noted that Sierra's King's Quest VIII: The Mask of Eternity, released almost three years earlier, was "the top-selling adventure game of the month" for August 2001. He offered the remake's "over 20,000 downloads" as "a theory" to explain it.[^ref-26] Version 4.0, released on January 17, 2009, added enhanced backgrounds, narration and an option to remove dead-end situations.[^ref-8][^ref-25]
 
 ### Quest for Glory II VGA Remake (2008)
 
@@ -57,7 +57,7 @@ King's Quest III Redux continues from AGDI's King's Quest II: Romancing the Ston
 
 ## Key People
 
-**Britney K. Brimhall** ("Anonymous Game Designer #1") and **Christopher T. Warren** ("Anonymous Game Developer #2") co-founded both AGD Interactive and [[Himalaya Studios]].[^ref-8][^ref-22] Brimhall, a graduate of Arizona State University, later became chairman and CEO of Himalaya Studios.[^ref-23] She has described moving to Australia to work with her AGD Interactive co-founder on the team's first original title.[^ref-23]
+**Britney K. Brimhall** ("Anonymous Game Developer #1" in AGDI's King's Quest II credits)[^ref-32] and **Christopher T. Warren** ("Anonymous Game Developer #2") co-founded both AGD Interactive and [[Himalaya Studios]].[^ref-8][^ref-22] Brimhall, a graduate of Arizona State University, later became chairman and CEO of Himalaya Studios.[^ref-23] She has described moving to Australia to work with her AGD Interactive co-founder on the team's first original title.[^ref-23]
 
 ## Legacy
 
@@ -75,7 +75,6 @@ The founding of [[Himalaya Studios]] in 2004 let the team pursue original games 
 ## References
 
 [^ref-4]: [AGD Interactive Official Website](https://www.agdinteractive.com/) — February 24, 2011 update announcing King's Quest III Redux
-[^ref-6]: [TV Tropes - AGD Interactive Creator Page](https://tvtropes.org/pmwiki/pmwiki.php/Creator/AGDInteractive) — Creator profile; remakes released as freeware
 [^ref-8]: [Wikipedia - AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — Founding 2001, Tierra rename (Dec 10, 2003), release dates, AGS Awards, Adventure Game Studio, reception
 [^ref-10]: [AGD Interactive About Page](https://www.agdinteractive.com/about/about.html) — Official mission statement: remake Sierra classics and offer them as free downloads
 [^ref-13]: [Adventure Classic Gaming - Chris Warren and Stijn van Empel interview (September 7, 2008)](http://www.adventureclassicgaming.com/index.php/site/interviews/403/) — Quest for Glory II remake history (begun late 2000, nearly 8 years), 2005 Oakhurst visit with the Coles, team roles
@@ -84,3 +83,11 @@ The founding of [[Himalaya Studios]] in 2004 let the team pursue original games 
 [^ref-22]: [Himalaya Studios - About](https://www.himalayastudios.com/about.php) — Co-founders Chris Warren and Britney Brimhall previously co-established AGDInteractive, LLC
 [^ref-23]: [Adventure Classic Gaming - Britney Brimhall Interview (May 26, 2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — Team origins, Tierra rename, Vivendi Universal permission, Himalaya co-founded 2004
 [^ref-24]: [PC World/TechHive – Jim Norris, "Step into Newfound Adventure with Quest for Glory II: Trial by Fire" (July 20, 2012; archived)](https://web.archive.org/web/20150924121212/http://www.techhive.com/article/259400/step_into_newfound_adventure_with_quest_for_glory_ii_trial_by_fire.html) — "a hand-polished classic you should be embarrassed to download for free"; 4/5
+[^ref-25]: [AGD Interactive – King's Quest I: Release Information](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) — "released on August 7th, 2001"; Version 4.0 "released on January 17th, 2009"
+[^ref-26]: [Just Adventure – Randy Sluganski, "The State of Adventure Gaming" (October 2001; archived)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) — PC Data figures; King's Quest VIII "the top-selling adventure game of the month"; remake's "over 20,000 downloads" offered as "a theory"
+[^ref-27]: [AGS Wiki – AGS Awards 2002](https://www.adventuregamestudio.co.uk/wiki/AGS_Awards_2002) — King's Quest II+ VGA wins Best Game, Story, Animation, Music, Scripting and AGS Documentation
+[^ref-28]: [AGD Interactive – Quest for Glory II: History](https://www.agdinteractive.com/games/qfg2/about/history/about_history.html) — Project foundation "was made in 2001"; fully picked up again in 2003
+[^ref-29]: [Engadget – "Quest for Glory II VGA remake released" (August 25, 2008)](https://www.engadget.com/2008-08-25-quest-for-glory-ii-vga-remake-released.html) — "a labor of love in development off and on for nearly seven years"
+[^ref-30]: [AGD Interactive – Press release, "Tierra Entertainment Becomes AGD Interactive" (December 10, 2003; archived)](https://web.archive.org/web/20050829223206/http://www.agdinteractive.com/press-03.php) — Rename announced by "the Anonymous Game Developers"
+[^ref-31]: [AGD Interactive – King's Quest II: Release Information (archived)](https://web.archive.org/web/20110103095010/http://www.agdinteractive.com/games/kq2/about/aboutrelease.html) — "released on December 3rd, 2002"
+[^ref-32]: [AGD Interactive – King's Quest II: The Development Team](https://www.agdinteractive.com/games/kq2/about/aboutdev.html) — "Anonymous Game Developer #1 (Britney Brimhall), Anonymous Game Developer #2 (Christopher Warren)"
