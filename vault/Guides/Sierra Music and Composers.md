@@ -17,11 +17,13 @@ Sierra's music department was led by [[Mark Seibert]], who rose from musician to
 
 ## Technology Progression
 
-### PC Speaker and Tandy Era (to 1987)
+### PC Speaker and Tandy Era (1980–1993)
 
 Sierra began on the Apple II: its first game, [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (1980), was programmed for that machine.[^ref-43][^ref-44] On the IBM PC, Ken Williams wrote, the built-in "buzzer" could only "make one note at a time"; "The Tandy 1000 is slightly better with three simultaneous notes."[^ref-3] Ken Allen recalled that Sierra's music also had to play on "the Tandy 3 voice chipset" and the PC speaker, alongside the sound cards.[^ref-5]
 
 As the Sierra Help Pages put it for players of the fan game [[2003 - Space Quest 0 - Replicated|Space Quest 0]], music coming only through the PC speaker "is not a bug, this is the way the games were made"; switching to PCjr/Tandy emulation gives 3-voice music with a white noise channel.[^ref-27]
+
+Tandy/PCjr sound stayed on Sierra's DOS spec sheets into 1993: MobyGames still lists it for [[1993 - Space Quest V - The Next Mutation|Space Quest V]].[^ref-57]
 
 ### AdLib and Game Blaster (1987–1989)
 
@@ -42,9 +44,9 @@ Ken Allen explained the technical challenges: "There were really only two types 
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] – [[Ken Allen]]
 - [[1988 - Silpheed|Silpheed]] – A contemporary review found that "With the Roland, the soundtrack -- nine rock-'n'-roll music themes -- is spectacular."[^ref-29]
 
-### General MIDI and Sound Canvas (1993–1996)
+### General MIDI and Sound Canvas (1992–1996)
 
-Sierra moved on to General MIDI and the Roland Sound Canvas (SC-55). [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], for example, has an original SC-55 General MIDI soundtrack.[^ref-30] Many of these games predate cards such as the AWE32; Sierra's own re-release insert advised players that their "best bet is to select the AD-LIB option."[^ref-31]
+Sierra moved on to General MIDI and the Roland Sound Canvas (SC-55); MobyGames already lists General MIDI among the DOS sound options of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] (1992).[^ref-58] [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], for example, has an original SC-55 General MIDI soundtrack.[^ref-30] Many of these games predate cards such as the AWE32; Sierra's own re-release insert advised players that their "best bet is to select the AD-LIB option."[^ref-31]
 
 ### CD Audio Era (1991–1999)
 
@@ -236,3 +238,5 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 [^ref-54]: [Wikipedia – Where Everybody Knows Your Name](https://en.wikipedia.org/wiki/Where_Everybody_Knows_Your_Name) — Cheers theme "written by Portnoy and Judy Hart-Angelo"
 [^ref-55]: [MobyGames – Roberta Williams' Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) — music by Mark Seibert and Jay D. Usher; "Additional Music Victor Crews, Neal Grandstaff"
 [^ref-56]: [MobyGames – King's Quest V (credits)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits) — "Composers Ken Allen, Mark Seibert"
+[^ref-57]: [MobyGames – Space Quest V: The Next Mutation (specs)](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993) sound: AdLib, General MIDI, MT-32, Tandy / PCjr and others (read via the MobyGames API, checked 2026-10-26)
+[^ref-58]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow (specs)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS (1992) sound: AdLib, General MIDI, MT-32 and others (read via the MobyGames API, checked 2026-10-26)

@@ -1,18 +1,18 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "Sierra's audio and music technology evolution: PC speaker → Tandy → AdLib → Roland MT-32 → General MIDI → CD audio → recorded scores. The technical and creative arc behind Sierra's music program."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-From Apple II tones in 1980 to live-recorded CD-ROM scores in the mid-1990s, Sierra On-Line invested heavily in game audio. It secured a deal to distribute the Roland MT-32 in the US and hired professional composers to write in-game music.[^ref-9] Its staff composers and music directors (Mark Seibert, Ken Allen, Robert Holmes, Aubrey Hodges, Chance Thomas) went on to long careers in game music.[^ref-32][^ref-36][^ref-16][^ref-22][^ref-31]
+From Apple II tones in 1980 to live-recorded CD-ROM scores in the mid-1990s, Sierra On-Line invested heavily in game audio. It secured a deal to distribute the Roland MT-32 in the US and hired professional composers to write in-game music.[^ref-9] Its staff composers and music directors included Mark Seibert, Ken Allen, Robert Holmes, Aubrey Hodges and Chance Thomas;[^ref-32][^ref-36][^ref-16][^ref-37][^ref-31] Hodges and Thomas later went on to *Doom 64* and *The Lord of the Rings Online*.[^ref-22][^ref-31]
 
 This page traces the audio-tech arc from the 1980 Apple II through the late-1990s CD-ROM era. For per-game audio specifics, see the individual game pages.
 
@@ -21,27 +21,29 @@ This page traces the audio-tech arc from the 1980 Apple II through the late-1990
 ## Generation 1: PC speaker and Apple II tone (1980–1985)
 
 **Hardware:** Apple II built-in audio; IBM PC internal speaker (the IBM PC was released in 1981).[^ref-41]
-**Resolution:** Single-voice square wave, no polyphony, no envelopes.
+**Resolution:** On the PC, a single-voice square wave with no envelopes; Apple II multi-voice music had to be produced entirely in software.
 
-Sierra's earliest titles used the most primitive audio available on the host platforms. The Apple II's built-in speaker could produce single-voice tones via tight assembly-language timing loops; the IBM PC's internal speaker was similar.[^ref-3]
+Sierra's earliest titles used the most primitive audio available on the host platforms. The Apple II had only a "toggle circuit that could only emit a click through a built-in speaker"; any music, including two-, three- and eventually four-voice music, was "generated entirely by software that clicked the speaker at just the right times."[^ref-50] The IBM PC's internal speaker produced a square wave;[^ref-3] as Ken Williams put it in 1988, the PC buzzer could only "make one note at a time, which has no attack or decay."[^ref-26]
 
 Notable: the Apple IIGS (1986) had a 15-voice Ensoniq sound chip that supported much richer music.[^ref-4]
 
-## Generation 2: Tandy 3-voice + IBM PCjr (1984–1988)
+## Generation 2: Tandy 3-voice + IBM PCjr (1984–1993)
 
-**Hardware:** Tandy 1000 / IBM PCjr SN76489 chip — 3 square-wave voices plus white noise.
+**Hardware:** Tandy 1000 / IBM PCjr SN76489 chip — 3 square-wave voices plus white noise.[^ref-5] Ken Williams in 1988: "The Tandy 1000 is slightly better with three simultaneous notes."[^ref-26]
 **AGI engine support:** Native Tandy/PCjr playback.
 
-The IBM PCjr ([[Adventure Game Interpreter|AGI]]'s launch platform for [[1984 - King's Quest - Quest for the Crown|King's Quest]] in 1984) had a 3-voice TI SN76489 chip — a dramatic step up from a single PC speaker. The Tandy 1000 used the same chip.[^ref-5] AGI games such as [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] supported Tandy/PCjr sound alongside the PC speaker.[^ref-35]
+The IBM PCjr ([[Adventure Game Interpreter|AGI]]'s launch platform for [[1984 - King's Quest - Quest for the Crown|King's Quest]] in 1984) had a 3-voice TI SN76489 chip — a dramatic step up from a single PC speaker. The Tandy 1000 used the same chip.[^ref-5] AGI games such as [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] supported Tandy/PCjr sound alongside the PC speaker.[^ref-35] Support continued well into the SCI era: MobyGames' DOS specs still list Tandy/PCjr sound for [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] and [[1993 - Space Quest V - The Next Mutation|Space Quest V]] (1993).[^ref-44][^ref-45][^ref-12]
 
 ## Generation 3: AdLib (1987–1992)
 
-**Hardware:** AdLib Music Synthesizer Card (Yamaha YM3812 OPL2 chip) — 9 FM-synthesis voices.
+**Hardware:** AdLib Music Synthesizer Card (Yamaha YM3812 OPL2 chip) — 9 FM-synthesis voices.[^ref-6][^ref-48]
 **SCI0 engine support:** AdLib music playback with multi-voice composition.
 
-The AdLib card (released 1987) was the first add-on sound card for IBM compatibles to achieve widespread acceptance and became the first de facto standard for PC audio, until the Sound Blaster overshadowed it; according to Wikipedia, Sierra's *King's Quest IV* was the first game to support it. Its 9-voice FM-synthesis chip enabled actual music composition with chords, harmonies, and instrument variety.[^ref-6] The Digital Antiquarian gives its launch price as $245.[^ref-27]
+The AdLib card (released 1987) was the first add-on sound card for IBM compatibles to achieve widespread acceptance and became the first de facto standard for PC audio, until the Sound Blaster overshadowed it.[^ref-6] Sierra struck deals with both Roland and AdLib and wrote music for the AdLib and the MT-32 starting with *King's Quest IV*.[^ref-47] The card's chip offered nine melodic FM voices,[^ref-48] enough for chords, harmonies and varied instruments. The Digital Antiquarian gives its launch price as $245.[^ref-27]
 
 The AdLib was not the card [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV (SCI)]]'s score was written for — that was the MT-32 (see below) — but Sierra "duly added Ad Lib support to King's Quest IV and all the other SCI games before they shipped."[^ref-27] From then on, SCI releases routinely listed AdLib among their supported devices.[^ref-10][^ref-34][^ref-12]
+
+Creative's Sound Blaster, released in 1989, used the same YM3812 chip and "provided compatibility with the market leader AdLib sound card"; *Compute!* called the opening music of [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] on the card "extraordinary".[^ref-49]
 
 ## Generation 4: Roland MT-32 (1988–1993)
 
@@ -58,7 +60,7 @@ The vault's individual game pages frequently note "MT-32 / AdLib / General MIDI"
 
 ## Generation 5: General MIDI (1991–1995)
 
-**Hardware:** Sound Blaster Pro / 16, Roland Sound Canvas, and any GM-compliant device.
+**Hardware:** Roland Sound Canvas, a Sound Blaster 16 with the Wave Blaster wavetable daughterboard, and other GM-compliant devices. The Sound Blaster cards' own music chips were FM synthesizers (OPL2/OPL3), so MobyGames lists General MIDI separately from Sound Blaster.[^ref-11][^ref-49][^ref-24][^ref-33]
 
 General MIDI, first published in 1991, standardized instrument assignments (program 1 = Acoustic Grand Piano, etc.) across audio devices, allowing a single MIDI file to play recognizably on any GM-compliant hardware. Roland's Sound Canvas line, introduced the same year, was its first General MIDI synth module.[^ref-11]
 
@@ -67,12 +69,12 @@ General MIDI appears in Sierra's tech specs from 1992: MobyGames lists GM alongs
 ## Generation 6: CD-ROM digital speech and audio (1991–1996)
 
 **Hardware:** Sound Blaster Pro/16/AWE32 with CD-ROM drive.
-**SCI1.1 / SCI2 engine support:** Digital speech and CD audio.
+**SCI1 onward:** Digital speech and CD audio; the CD versions of Mixed-Up Mother Goose and King's Quest V were SCI1 builds.[^ref-51]
 
 The CD-ROM era unlocked two transformative capabilities:
 
 1. **Digital speech for character lines.** [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] was later released as a fully voiced "talkie" CD-ROM, voiced by members of the Sierra staff.[^ref-13]
-2. **Red Book audio for music.** Composer Ken Allen recalled: "I'm fairly sure we were the first to use redbook audio in a CD-ROM game; it was Mixed Up Mother Goose" — the CD-ROM version of the [[1990 - Mixed-Up Mother Goose (SCI Remake)|VGA remake]].[^ref-43]
+2. **Red Book audio for music.** Composer Ken Allen recalled: "I'm fairly sure we were the first to use redbook audio in a CD-ROM game; it was Mixed Up Mother Goose" — the CD-ROM edition of the game's VGA update ("Previously we'd updated the game to VGA resolution").[^ref-43]
 
 Voice acting became a significant production task. In 1992 Sierra's InterAction magazine described Mark Seibert as "Music Director and head of Sierra's professional in-house recording studio," in charge of "recruiting and recording all the vocal talent, in cooperation with the director of the specific game."[^ref-15] Professional actors followed: Robby Benson voiced Prince Alexander in King's Quest VI;[^ref-40] Tim Curry and Mark Hamill were in the CD-ROM cast of Gabriel Knight;[^ref-14] and Christopher Lloyd voiced King Graham in the 2015 reboot.[^ref-39]
 
@@ -91,16 +93,16 @@ Some of this music has since been revisited: *A Simple Refrain* presents Robert 
 
 ## Generation 8: Modern re-release audio (1998–present)
 
-**Hardware:** PCM 16-bit audio, MP3-encoded music, AAC; ScummVM digital playback.
+**Playback:** Emulated sound devices in ScummVM.[^ref-24]
 
-Modern re-releases (GOG, Steam, ScummVM) replay the original SCI music files via software synthesis. ScummVM can emulate the MT-32, provided the player supplies the original MT-32 ROMs, and offers MAME, DOSBox and Nuked OPL emulators for AdLib music.[^ref-24]
+ScummVM can emulate the MT-32, provided the player supplies the original MT-32 ROMs, and offers MAME, DOSBox and Nuked OPL emulators for AdLib music.[^ref-24]
 
 Notable preservation efforts:
 
 - **Munt** — Open-source library that emulates "(approximately)" the Roland MT-32, CM-32L and LAPC-I; the project also ships a patch for the official DOSBox 0.74 release.[^ref-20]
 - **ScummVM SCI music routing** — Plays original SCI music files through emulated or modern audio.[^ref-24]
 
-For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentlemen's score was written by composer David Stanton, who described how the original games inspired it in a 2015 behind-the-scenes video.[^ref-21][^ref-39]
+For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentlemen's score was written by Ben and David Stanton; David Stanton described how the original games inspired it in a 2015 behind-the-scenes video.[^ref-21][^ref-39]
 
 ---
 
@@ -144,12 +146,12 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-3]: [Wikipedia — PC speaker](https://en.wikipedia.org/wiki/PC_speaker) — Technical limits
 [^ref-4]: [Wikipedia — Apple IIGS](https://en.wikipedia.org/wiki/Apple_IIGS) — Ensoniq audio chip, "15-voice"
 [^ref-5]: [Wikipedia — Texas Instruments SN76489](https://en.wikipedia.org/wiki/Texas_Instruments_SN76489) — Tandy/PCjr audio chip
-[^ref-6]: [Wikipedia — Ad Lib, Inc.](https://en.wikipedia.org/wiki/Ad_Lib,_Inc.) — OPL2 chip, market adoption, "King's Quest IV became the first game to support AdLib"
+[^ref-6]: [Wikipedia — Ad Lib, Inc.](https://en.wikipedia.org/wiki/Ad_Lib,_Inc.) — "The AdLib card consisted of a YM3812 chip"; widespread acceptance; overshadowed by the Sound Blaster
 [^ref-7]: [Wikipedia — King's Quest IV: The Perils of Rosella](https://en.wikipedia.org/wiki/King%27s_Quest_IV) — William Goldstein score, 40 minutes of music
 [^ref-9]: [Wikipedia — Roland MT-32](https://en.wikipedia.org/wiki/Roland_MT-32) — $695 list price; $550 from Sierra with MPU-401; 32 partials, 8–32 notes; Sierra US distribution deal; KQ4 first Sierra MT-32 score
 [^ref-10]: [MobyGames — King's Quest IV tech specs](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/specs/) — DOS: AdLib, Game Blaster, IBM Music Feature, PC speaker, MT-32, Tandy/PCjr; no General MIDI (MobyGames API, checked 2026-10-16)
 [^ref-11]: [Wikipedia — General MIDI](https://en.wikipedia.org/wiki/General_MIDI) — "first published in 1991"; Sound Canvas as Roland's first GM module
-[^ref-12]: [MobyGames — Space Quest V tech specs](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS: AdLib, General MIDI, MT-32 and others (MobyGames API, checked 2026-10-16)
+[^ref-12]: [MobyGames — Space Quest V tech specs](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993): AdLib, General MIDI, MT-32, Tandy/PCjr and others (read via the MobyGames API, checked 2026-10-26)
 [^ref-13]: [Wikipedia — King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — "later released as a fully voiced 'talkie' CD-ROM, done by members of the Sierra staff"
 [^ref-14]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — CD-ROM voice cast (Tim Curry, Mark Hamill)
 [^ref-15]: [InterAction Magazine, Vol. V No. 2, Summer 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — Period scan: "Mark Seibert, Music Director and head of Sierra's professional in-house recording studio"
@@ -161,7 +163,7 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-22]: [Wikipedia — Doom 64](https://en.wikipedia.org/wiki/Doom_64) — "music and sound effects were composed by Aubrey Hodges"
 [^ref-24]: [ScummVM Documentation — Understanding the audio settings](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) — MT-32 emulation needs original ROMs; MAME, DOSBox and Nuked AdLib emulators
 [^ref-25]: [The Digital Antiquarian — Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — KQ4 "heralded ... full orchestral soundtracks for those with the hardware to hear them"
-[^ref-26]: [Sierra Newsletter, Winter 1988 (mocagh)](https://www.mocagh.org/sierra/sierranews-winter88.pdf) — Period source: Goldstein "known for his previous work on the TV series Fame, the Touchstone Pictures film Hello Again"; "Forty minutes of original music"
+[^ref-26]: [Sierra Newsletter, Winter 1988 (mocagh)](https://www.mocagh.org/sierra/sierranews-winter88.pdf) — Period source: PC buzzer "one note at a time"; "The Tandy 1000 is slightly better with three simultaneous notes"; Goldstein "known for his previous work on the TV series Fame, the Touchstone Pictures film Hello Again"; "Forty minutes of original music"
 [^ref-27]: [The Digital Antiquarian — Sierra Gets Creative](https://www.filfre.net/2016/08/sierra-gets-creative/) — KQ4 score "arguably the first such"; Ad Lib at $245; "added Ad Lib support to King's Quest IV and all the other SCI games"
 [^ref-29]: [Wikipedia — The Beast Within: A Gabriel Knight Mystery](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) — Soundtrack by Holmes "alongside Jay Usher"; music for the fictional opera
 [^ref-30]: [Wikipedia — Gabriel Knight 3](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned) — "score was composed by David Henry, based on themes created by ... Robert Holmes"
@@ -178,6 +180,11 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-41]: [Wikipedia — IBM Personal Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer) — Released August 12, 1981
 [^ref-42]: [Wikipedia — Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) — Soundtrack by Chance Thomas, "released on CD"
 [^ref-43]: [Guys from Andromeda Podcast — Ken Allen](https://guysfromandromeda.com/blog/podcast-episode-3-guest-host-ken-allen/) — "fairly sure we were the first to use redbook audio in a CD-ROM game; it was Mixed Up Mother Goose"
-[^ref-44]: [MobyGames — King's Quest V tech specs](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/specs/) — DOS: AdLib, MT-32, Sound Blaster and others; no General MIDI (MobyGames API, checked 2026-10-16)
-[^ref-45]: [MobyGames — Space Quest IV tech specs](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/specs/) — DOS: AdLib, MT-32, Sound Blaster and others; no General MIDI (MobyGames API, checked 2026-10-16)
+[^ref-44]: [MobyGames — King's Quest V tech specs](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI (read via the MobyGames API, checked 2026-10-26)
+[^ref-45]: [MobyGames — Space Quest IV tech specs](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI (read via the MobyGames API, checked 2026-10-26)
+[^ref-47]: [Quest Studios — The History of PC Game MIDI, by Eric Wing (Wayback, September 2014)](https://web.archive.org/web/20140904211309/http://queststudios.com/quest/midi.html) — "They would compose music for these units starting with King's Quest 4"
+[^ref-48]: [Wikipedia — Yamaha OPL](https://en.wikipedia.org/wiki/Yamaha_OPL) — YM3812 (OPL2): "Melody polyphony is limited to nine voices in melodic mode"
+[^ref-49]: [Wikipedia — Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) — Released 1989 with the YM3812; "compatibility with the market leader AdLib"; Compute! on Space Quest III: "extraordinary"; Wave Blaster wavetable daughterboard
+[^ref-50]: [Wikipedia — Apple II](https://en.wikipedia.org/wiki/Apple_II) — "toggle circuit that could only emit a click"; multi-voice music "generated entirely by software"
+[^ref-51]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — Mixed-Up Mother Goose (CD Version) under SCI1 (early); King's Quest V (CD Version) under SCI1 (late)
 [^ref-46]: [Bandcamp — A Simple Refrain: The Game Themes of Robert Holmes](https://robertholmessoundtracks.bandcamp.com/album/a-simple-refrain-the-game-themes-of-robert-holmes) — Solo-piano versions by Roger Hooper of GK1–3, Gray Matter and Moebius themes
