@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 composer: [Ken Allen]
 description: Jones in the Fast Lane is a computerized board game and life simulation
   published by Sierra On-Line in 1990, based on an outside design by the Whaley family and Kelly Walker.
@@ -18,11 +18,11 @@ tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Jones in the Fast Lane is a computerized board game and life simulation published by Sierra On-Line in 1990[^ref-18][^ref-35]. It began as an unpublished game by Meredith, Christopher and Robert Whaley and Kelly Walker, which Sierra bought and redeveloped in-house[^ref-10][^ref-15][^ref-35]. Sierra's own magazine quoted Bill Davis, the game's designer and Sierra's creative director, as saying: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-35] It was built on Sierra's SCI1 interpreter[^ref-18][^ref-41].
+Jones in the Fast Lane is a computerized board game and life simulation published by Sierra On-Line in 1990[^ref-18][^ref-35]. Sources disagree on the year: PCGamingWiki and MobyGames both date the DOS release to 1991[^ref-9][^ref-1]. It began as an unpublished game by Meredith, Christopher and Robert Whaley and Kelly Walker, which Sierra bought and redeveloped in-house[^ref-10][^ref-15][^ref-35]. Sierra's own magazine quoted Bill Davis, the game's designer and Sierra's creative director, as saying: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-35] It was built on Sierra's SCI1 interpreter[^ref-18][^ref-41].
 
 *COMPUTE!*'s Eddie Huffman placed Jones in the Fast Lane "somewhere between a conventional board game and a computer adventure game," calling it "a tricky trip through real life."[^ref-collection] One to four players, including the computer-controlled Jones, set their own goals for money, happiness, education and career, and then race to be first to reach them[^ref-1][^ref-36].
 

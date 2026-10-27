@@ -7,13 +7,13 @@ last_updated: "2026-10-26"
 
 <small style="color: gray">Last updated: October 26, 2026</small>
 
-Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
+Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Each entry is listed under its game page's release year; footnotes give sources and flag where MobyGames disagrees, Frogger (listed under Sierra's 1982 port) and Sierra Championship Boxing (release year disputed) are the footnoted exceptions. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
 ---
 
 ## 1980s: The Adventure Game Pioneers
 
-Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure with Mystery House, widely credited as the first graphical adventure game,[^ref-38] and built it into an empire with King's Quest. By decade's end, six of its flagship series had begun: King's Quest, Space Quest, Leisure Suit Larry, Police Quest, Quest for Glory and Laura Bow.
+Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure with Mystery House, widely credited as the first graphical adventure game,[^ref-38][^ref-43] and built it into an empire with King's Quest. By decade's end, six of its flagship series had begun: King's Quest, Space Quest, Leisure Suit Larry, Police Quest, Quest for Glory and Laura Bow.
 
 ### 1980
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0 - Mission Asteroid]] — Series: Hi-Res Adventure, Type: Adventure
@@ -77,7 +77,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 
 ### 1985
 - **[[1985 - King's Quest II - Romancing the Throne|King's Quest II - Romancing the Throne]]** — Series: King's Quest, Type: Adventure
-- [[1985 - Sierra Championship Boxing|Sierra Championship Boxing]] — Type: Sports Simulation
+- [[1985 - Sierra Championship Boxing|Sierra Championship Boxing]] — Type: Sports Simulation[^ref-46]
 - [[1985 - Stunt Flyer|Stunt Flyer]] — Type: Flight Simulation
 - [[1985 - The Crimson Crown|The Crimson Crown]] — Series: Transylvania, Type: Adventure
 - [[1985 - Thexder|Thexder]] — Series: Thexder, Type: Action
@@ -113,7 +113,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
 - [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
-- [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
+- [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] — Series: Manhunter, Type: Adventure
 - [[1989 - MechWarrior|MechWarrior]] — Developer: Dynamix, Type: Vehicle Simulation
 - **[[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I - So You Want to Be a Hero]]** — Series: Quest for Glory, Type: Adventure
 - **[[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III - The Pirates of Pestulon]]** — Series: Space Quest, Type: Adventure
@@ -174,7 +174,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - **[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's Software Picks - Parlor Games with Laura Bow]]** — Series: Laura Bow, Type: Board game
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]] — Type: Action
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]] — Type: Action
-- [[1992 - Front Page Sports Football 92|Front Page Sports Football 92]] — Series: Front Page Sports, Type: Sports Simulation
+- [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Series: Front Page Sports, Type: Sports Simulation
 - [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2 - The Prince Buffoon]] — Series: Gobliiins, Type: Puzzle Adventure
 - [[1992 - Inca|Inca]] — Series: Inca, Type: Adventure/Action
 - [[1992 - Johnny Castaway|Johnny Castaway]] — Developer: Dynamix, Type: Screensaver
@@ -196,14 +196,14 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - Blue Force|Blue Force]] — Developer: Tsunami Games, Type: Adventure[^ref-28]
 - [[1993 - Cohort II - Fighting for Rome|Cohort II - Fighting for Rome]] — Series: Cohort, Type: Strategy / Tactics
 - [[1983 - Early Math|Early Math]] — Series: Talking Tutor, Type: Educational[^ref-3]
-- [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest - Lost Secret of the Rainforest]] — Series: EcoQuest, Type: Adventure
+- [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Series: EcoQuest, Type: Adventure
 - [[1993 - Fates of Twinion|Fates of Twinion]] — Series: Shadow of Yserbius, Type: RPG
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas - Frontier Pharmacist]] — Series: Freddy Pharkas, Type: Adventure
 - [[1993 - Front Page Sports - Football Pro|Front Page Sports - Football Pro]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight - Sins of the Fathers]]** — Series: Gabriel Knight, Type: Adventure
 - [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins, Type: Puzzle Adventure
 - [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Series: Hoyle, Type: Card Games[^ref-7]
-- [[1993 - Inca II - Wiracocha|Inca II - Wiracocha]] — Series: Inca II, Type: Adventure
+- [[1993 - Inca II - Wiracocha|Inca II: Nations of Immortality]] — Series: Inca, Type: Adventure
 - [[1993 - IndyCar Racing|IndyCar Racing]] — Series: IndyCar Racing, Type: Racing Simulation
 - [[1993 - Kids' Typing|Kids' Typing]] — Series: Talking Tutor, Type: Educational
 - **[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6 - Shape Up or Slip Out!]]** — Series: Leisure Suit Larry, Type: Adventure
@@ -230,7 +230,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1994 - Bouncers|Bouncers]] — Type: Sports
 - [[1994 - D-Day - The Beginning of the End|D-Day - The Beginning of the End]] — Series: Micro Miniatures, Type: Turn-Based Strategy[^ref-30]
 - [[1994 - Detroit|Detroit]] — Type: Business Simulation
-- [[1994 - Front Page Sports - Baseball Pro|Front Page Sports - Baseball Pro]] — Series: Front Page Sports, Type: Sports
+- [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Series: Front Page Sports, Type: Sports
 - [[1994 - Front Page Sports - Football Pro '95|Front Page Sports - Football Pro '95]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1994 - King's Quest VII - The Princeless Bride|King's Quest VII - The Princeless Bride]]** — Series: King's Quest, Type: Adventure
 - [[1994 - Lode Runner - The Legend Returns|Lode Runner - The Legend Returns]] — Series: Lode Runner, Type: Puzzle/Platform
@@ -354,6 +354,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1998 - Half-Life|Half-Life]] — Series: Half-Life, Type: First-Person Shooter
 - [[1998 - Head Rush|Head Rush]] — Type: Trivia / Quiz
 - [[1998 - Hoyle Battling Ships and War|Hoyle Battling Ships and War]] — Series: Hoyle, Type: Strategy/Board Game
+- [[1999 - Hoyle Casino|Hoyle Casino 1999]] — Series: Hoyle Casino, Type: Casino Simulation
 - **[[1998 - King's Quest - Mask of Eternity|King's Quest - Mask of Eternity]]** — Series: King's Quest, Type: Action-Adventure
 - **[[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]]** — Series: Leisure Suit Larry, Type: Casino[^ref-31]
 - [[1998 - Lords of Magic - Special Edition|Lords of Magic - Special Edition]] — Series: Lords Series, Type: Strategy
@@ -382,7 +383,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1999 - Half-Life - Opposing Force|Half-Life - Opposing Force]] — Series: Half-Life, Type: First-Person Shooter
 - [[1999 - Homeworld|Homeworld]] — Series: Homeworld, Type: Real-time Strategy
 - [[1999 - Hoyle Backgammon and Cribbage|Hoyle Backgammon and Cribbage]] — Series: Hoyle, Type: Board/Card Game
-- [[1999 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino Simulation
 - [[1999 - Hoyle Slots and Video Poker|Hoyle Slots and Video Poker]] — Series: Hoyle Series, Type: Casino & Card Games
 - [[1999 - Hoyle Word Games|Hoyle Word Games]] — Series: Hoyle, Type: Puzzle
 - [[1999 - NASCAR Craftsman Truck Series Racing|NASCAR Craftsman Truck Series Racing]] — Series: NASCAR Racing, Type: Racing Simulation
@@ -401,7 +401,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 
 ## 2000s: Corporate Transitions
 
-Sierra had been part of Havas, later Vivendi Universal Publishing, since the 1998–99 sale of CUC's software division; after Vivendi Games merged with Activision in July 2008, the Sierra division was shut down.[^ref-37] Adventure game development ended, but Valve titles thrived and city builders continued. Fan projects began filling the void.
+Sierra had been part of Havas, later Vivendi Universal Publishing, since Cendant sold its consumer software division to Havas in 1998–99; after Vivendi Games merged with Activision in July 2008, the Sierra division was shut down.[^ref-37] Adventure game development ended, but Valve titles thrived and city builders continued. Fan projects began filling the void.
 
 ### 2000
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|3-D Ultra Lionel TrainTown Deluxe]] — Series: 3D Ultra, Type: Puzzle
@@ -415,10 +415,11 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2000 - Gunman Chronicles|Gunman Chronicles]] — Type: First-Person Shooter
 - [[2000 - Homeworld - Cataclysm|Homeworld - Cataclysm]] — Series: Homeworld, Type: Real-Time Strategy
 - [[2001 - Hoyle Board Games|Hoyle Board Games 2001]] — Series: Hoyle Board Games, Type: Board Game Compilation[^ref-16]
-- [[2000 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle, Type: Gambling
+- [[2000 - Hoyle Casino|Hoyle Casino 2001]] — Series: Hoyle, Type: Gambling
 - [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Series: Hoyle, Type: Puzzle
-- [[2000 - Hoyle Kids Games|Hoyle Kids Games]] — Series: Hoyle Series, Type: Board and Card Games
+- [[2000 - Hoyle Kids Games|Hoyle Kids Games 2000]] — Series: Hoyle Series, Type: Board and Card Games
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|Hoyle Solitaire and Mahjong Tiles]] — Series: Hoyle Series, Type: Board games
+- [[2001 - Hoyle Word Games|Hoyle Word Games 2001]] — Series: Hoyle, Type: Puzzle
 - [[2000 - Maximum Pool|Maximum Pool]] — Series: 3D Ultra, Type: Sports/Pool
 - [[2000 - No One Lives Forever|No One Lives Forever]] — Series: No One Lives Forever, Type: First-Person Shooter/Stealth
 - [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]] — Series: PGA Championship Golf, Type: Sports
@@ -432,9 +433,9 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2001 - Deathmatch Classic|Deathmatch Classic]] — Series: Half-Life, Type: First-Person Shooter
 - [[2001 - Empire Earth|Empire Earth]] — Series: Empire Earth, Type: Real-Time Strategy
 - [[2001 - Half-Life - Blue Shift|Half-Life - Blue Shift]] — Series: Half-Life, Type: First-Person Shooter
-- [[2001 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino & Card Games
-- [[2001 - Hoyle Kids Games|Hoyle Kids Games]] — Series: Hoyle Games, Type: Strategy/Puzzle
-- [[2001 - Hoyle Word Games|Hoyle Word Games]] — Series: Hoyle, Type: Puzzle
+- [[2002 - Hoyle Card Games|Hoyle Card Games 2002]] — Series: Hoyle Card Games, Type: Card Games[^ref-44]
+- [[2001 - Hoyle Casino|Hoyle Casino 2002]] — Series: Hoyle Casino, Type: Casino & Card Games
+- [[2001 - Hoyle Kids Games|Hoyle Kids Games 2001]] — Series: Hoyle Games, Type: Strategy/Puzzle
 - **[[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]]** *(Fan)* — Series: King's Quest, Type: Adventure
 - [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Series: NASCAR Racing, Type: Racing Simulation
 - [[2001 - PGA Championship Golf - Collector's Edition|PGA Championship Golf - Collector's Edition]] — Series: PGA Championship Golf, Type: Sports Simulation
@@ -446,10 +447,11 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 ### 2002
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor - Rise of the Middle Kingdom]] — Series: City Building Series, Type: City-Building Strategy
 - [[2002 - Empire Earth - The Art of Conquest|Empire Earth - The Art of Conquest]] — Series: Empire Earth, Type: Real-Time Strategy
-- [[2002 - Hoyle Card Games|Hoyle Card Games]] — Series: Hoyle Card Games, Type: Card Games
+- [[2003 - Hoyle Board Games|Hoyle Board Games 2003]] — Series: Hoyle, Type: Board Games/Compilation
+- [[2003 - Hoyle Card Games|Hoyle Card Games 2003]] — Series: Hoyle, Type: Card Games
 - [[2003 - Hoyle Casino|Hoyle Casino 2003]] — Series: Hoyle, Type: Casino Simulation[^ref-17]
 - [[2002 - Hoyle Casino Empire|Hoyle Casino Empire]] — Series: Hoyle Casino, Type: Casino Simulation
-- [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games]] — Series: Hoyle Series, Type: Puzzle
+- [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games 2002]] — Series: Hoyle Series, Type: Puzzle
 - **[[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+ - Romancing the Stones]]** *(Fan)* — Series: King's Quest, Type: Adventure
 - [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Series: NASCAR Racing, Type: Racing Simulation
 - [[2002 - No One Lives Forever 2|No One Lives Forever 2]] — Series: No One Lives Forever, Type: First-Person Shooter/Stealth
@@ -459,10 +461,9 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2003 - Adiboo - Paziral's Secret|Adiboo - Paziral's Secret]] — Series: Adibou, Type: Action
 - [[2003 - Contract J.A.C.K.|Contract J.A.C.K.]] — Series: No One Lives Forever, Type: First-Person Shooter
 - [[2003 - Homeworld 2|Homeworld 2]] — Series: Homeworld, Type: Real-Time Strategy
-- [[2003 - Hoyle Board Games|Hoyle Board Games]] — Series: Hoyle, Type: Board Games/Compilation
-- [[2003 - Hoyle Card Games|Hoyle Card Games]] — Series: Hoyle, Type: Card Games
 - [[2004 - Hoyle Casino|Hoyle Casino 2004]] — Series: Hoyle, Type: Casino/Gambling[^ref-18]
 - [[2003 - Hoyle Majestic Chess|Hoyle Majestic Chess]] — Series: Hoyle, Type: Chess / Strategy / Educational
+- [[2004 - Hoyle Puzzle Games|Hoyle Puzzle Games 2004]] — Series: Hoyle, Type: Puzzle
 - [[2004 - Hoyle Table Games|Hoyle Table Games 2004]] — Series: Hoyle, Type: Board Game[^ref-19]
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Series: NASCAR Racing, Type: Racing Simulation
 - [[2003 - SWAT - Global Strike Team|SWAT - Global Strike Team]] — Series: SWAT, Type: Tactical Shooter
@@ -473,15 +474,15 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2004 - Counter-Strike - Condition Zero|Counter-Strike - Condition Zero]] — Series: Counter-Strike, Type: First-Person Shooter
 - [[2004 - Ground Control II - Operation Exodus|Ground Control II - Operation Exodus]] — Series: Ground Control, Type: Real-time tactics
 - [[2004 - Half-Life 2|Half-Life 2]] — Series: Half-Life, Type: First-Person Shooter
-- [[2004 - Hoyle Puzzle Games|Hoyle Puzzle Games]] — Series: Hoyle, Type: Puzzle
+- [[2005 - Hoyle Card Games|Hoyle Card Games 2005]] — Series: Hoyle Card Games, Type: Card Game[^ref-45]
 - [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle and Board Games 2005]] — Series: Hoyle, Type: Compilation
 - **[[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry - Magna Cum Laude]]** — Series: Leisure Suit Larry, Type: Action-Adventure
 - [[2004 - Lords of the Realm III|Lords of the Realm III]] — Series: Lords of the Realm, Type: Real-Time Strategy
 - [[2004 - Tribes - Vengeance|Tribes - Vengeance]] — Series: Starsiege, Type: First-Person Shooter
 
 ### 2005
-- [[2005 - Hoyle Board Games|Hoyle Board Games]] — Series: Hoyle, Type: Strategy / Board Games
-- [[2005 - Hoyle Card Games|Hoyle Card Games]] — Series: Hoyle Card Games, Type: Card Game
+- [[2005 - Hoyle Board Games|Hoyle Board Games 2005]] — Series: Hoyle, Type: Strategy / Board Games
+- [[2006 - Hoyle Casino|Hoyle Casino 2006]] — Series: Hoyle Casino, Type: Casino Simulation
 - [[2005 - Hoyle Casino 3D|Hoyle Casino 3D]] — Series: Hoyle Casino, Type: Gambling/Casino Simulation
 - [[2005 - Hoyle Poker Series|Hoyle Poker Series]] — Series: Hoyle, Type: Card Game
 - [[2005 - Hoyle Texas Hold Em|Hoyle Texas Hold Em]] — Series: Hoyle, Type: Card & Board
@@ -491,30 +492,29 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] — Series: 3D Ultra Minigolf, Type: Sports
 - [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Series: Al Emmo, Type: Adventure
 - [[2006 - Caesar IV|Caesar IV]] — Series: Caesar, Type: City-building simulation
-- [[2006 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino Simulation
+- [[2007 - Hoyle Casino|Hoyle Casino 2007]] — Series: Hoyle Casino, Type: Casino Simulation
 - [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] — Series: Hoyle, Type: Card Game / Casino
 - **[[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]]** *(Fan)* — Series: King's Quest, Type: Adventure
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4 - The Stetchkov Syndicate]] — Series: SWAT, Type: Tactical Shooter
 - [[2006 - SWAT Force|SWAT Force]] — Series: Police Quest / SWAT, Type: Tactical Action
 
 ### 2007
-- [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]] — Series: 3-D Ultra Minigolf, Type: Sports
 - [[2007 - Carcassonne|Carcassonne]] — Developer: Sierra Online Seattle, Type: Turn-Based Strategy[^ref-32]
 - [[2007 - Hoyle Card Games 2008|Hoyle Card Games 2008]] — Series: Hoyle, Type: Card Game / Board Game
-- [[2007 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino Simulation
 - [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Series: Hoyle Casino, Type: Gambling/Casino
+- [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games 2008]] — Series: Hoyle, Type: Puzzle/Board Game Compilation
 - [[2007 - SWAT - Target Liberty|SWAT - Target Liberty]] — Series: Police Quest/SWAT, Type: Tactical Shooter
 - [[2007 - World in Conflict|World in Conflict]] — Series: World in Conflict, Type: Real-Time Tactics
 
 ### 2008
 - [[2008 - Ace of Aces|Ace of Aces]] — Developer: Mad Otter Games, Type: Flight Simulation
 - [[2006 - Gin Rummy|Gin Rummy]] — Developer: Sierra Online Shanghai, Type: Card Game[^ref-34]
-- [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle/Board Game Compilation
 - [[2008 - Lost Cities|Lost Cities]] — Developer: Sierra Online Shanghai, Type: Card Game[^ref-33]
 - **[[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]]** *(Fan)* — Series: Quest for Glory, Type: Adventure/RPG
 - [[2008 - Red Baron Arcade|Red Baron Arcade]] — Series: Red Baron, Type: Arcade Flight Combat Simulator
 
 ### 2009
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]] — Series: 3-D Ultra Minigolf, Type: Sports
 - [[2009 - Gobliiins 4|Gobliiins 4]] — Series: Gobliiins, Type: Adventure
 - **[[2009 - Leisure Suit Larry - Box Office Bust|Leisure Suit Larry - Box Office Bust]]** — Series: Leisure Suit Larry, Type: Action-Adventure
 - [[2009 - Thexder Neo|Thexder Neo]] — Series: Thexder, Type: Action/Shooter
@@ -561,7 +561,7 @@ Sierra as a development entity was gone, but fans kept classics alive with remak
 
 ### 2016
 - [[2016 - Homeworld - Deserts of Kharak|Homeworld - Deserts of Kharak]] — Series: Homeworld, Type: Real-time strategy
-- [[2016 - Hoyle Casino Games Collection|Hoyle Casino Games Collection]] — Series: Hoyle Casino, Type: Gambling/Casino
+- [[2016 - Hoyle Casino Games Collection|Hoyle Official Casino Games Collection]] — Series: Hoyle Casino, Type: Gambling/Casino
 - [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne - The King's Challenge]] — Series: Order of the Thorne, Type: Adventure
 
 ### 2017
@@ -612,7 +612,7 @@ For cancelled games like Space Quest VII, King's Quest IX, and Leisure Suit Larr
 
 ## References
 
-Year corrections use MobyGames' earliest listed release date (checked through the MobyGames API on 2026-10-16).
+Entries follow each linked game page's `release_year`. Most year footnotes cite MobyGames' earliest listed release (read via the MobyGames API on 2026-10-16 and 2026-10-26); where MobyGames gives a different year than the game page, the footnote says so. Frogger is a deliberate exception: it is listed under Sierra's 1982 Atari 8-bit release rather than the page's 1981 arcade year. Sierra Championship Boxing's year is disputed (see its footnote).
 
 [^ref-1]: [MobyGames – Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – Apple II 1981
 [^ref-2]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – Macintosh 1992-10-16, Windows 16-bit 1993-05-11
@@ -647,3 +647,7 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-40]: [Indie Retro News – Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – posted Monday, January 05, 2026: SCP's Police Quest III Amiga enhancement released, with download link
 [^ref-41]: [MobyGames – Frogger](https://www.mobygames.com/game/1540/frogger/) – Sierra On-Line's Atari 8-bit release, United States 1982 (the Konami arcade original is 1981)
 [^ref-42]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"
+[^ref-43]: [American Journal of Play – Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game" (2017)](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) – note 45: "Mystery House is widely regarded as the first adventure game with graphics"
+[^ref-44]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – Windows and Macintosh 2002 (read via the MobyGames API). Listed here under the game page's 2001; MobyGames' year disagrees, and which edition its entry covers is unconfirmed
+[^ref-45]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – Windows 2005, year only (read via the MobyGames API). Listed here under the game page's 2004; MobyGames' year disagrees
+[^ref-46]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – earliest dated releases 1985 (read via the MobyGames API). The game page gives 1983 from the developers' recollection, and its IBM PC reviews ran in InfoWorld (June 1984) and PC Magazine (November 1984), so 1985 is only MobyGames' earliest date; release year unresolved
