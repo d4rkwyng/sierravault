@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI 1.1
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 composer: [Christopher G. Braymen]
 description: '*The Dagger of Amon Ra* is a murder mystery adventure game developed
   and published by Sierra On-Line in 1992, serving as the second and final installment
@@ -19,7 +19,7 @@ tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -122,6 +122,7 @@ The elaborate death scenes, which featured victims meeting gruesome ends connect
 **Development Credits:**[^ref-29]
 - **Designer:** Bruce J. Balfour
 - **Creative Consultant:** Roberta Williams
+- **Production Designer:** [[Andy Hoyos]][^ref-29]
 - **Writer:** [[Josh Mandel]]
 - **Composer:** Christopher G. Braymen
 - **Music:** Mark Seibert[^ref-1]
@@ -332,7 +333,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-26]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Roberta Williams executive designer role
 [^ref-27]: [TV Tropes – The Dagger of Amon Ra](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheDaggerofAmonRa) – CD-ROM changes, third game announcement, budget constraints quote
 [^ref-28]: [AGD Interactive Forums](https://www.agdinteractive.com/forum/viewtopic.php?t=13178) – Reagan easter egg, raunchy content comparison
-[^ref-29]: [MobyGames – DOS Credits](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – complete voice cast list
+[^ref-29]: [MobyGames – DOS Credits](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – complete voice cast list; "Production Designer Andy Hoyos"
 [^ref-30]: [Sierra Help – Laura Bow 2](https://sierrahelp.com/Games/LauraBow/LauraBow2Help.html) – system requirements, bug documentation
 [^ref-31]: [VOGONS Forum – Compatibility](https://www.vogons.org/viewtopic.php?t=1020) – audio driver issues, VDMSound problems
 [^ref-32]: [MobyGames – User Review](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/user-review/2638101/) – save/restore bugs

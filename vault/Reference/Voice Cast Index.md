@@ -186,6 +186,8 @@ The *King's Quest V* talkie was voiced by members of the Sierra staff.[^ref-kq5]
 | Bill Davis | Creative director | Hermit |
 | Andy Hoyos | Art designer | Mordack |
 
+Hoyos later voiced Mordack's brother, the wizard Manannan, in [[2006 - King's Quest III Remake (Infamous Adventures)|Infamous Adventures' 2006 remake of King's Quest III]]. The studio's announcement of version 2.0 and its voice pack (August 20, 2006) says the studio had lost "Andy Hoyos' performance of about half of the Manannan files", so some parts had to be re-recorded.[^ref-ia-kq3]
+
 ---
 
 ## Voice Acting Eras at Sierra
@@ -261,3 +263,4 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-moby-moe]: [MobyGames — King's Quest: Mask of Eternity credits, Windows (Moby ID 136; Wayback, November 28, 2024)](https://web.archive.org/web/20241128162621/https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) — "Kevin Michael Richardson (Lord Azrie, Lucreto, Prophet Tree)"
 [^ref-moby-dagger]: [MobyGames — The Dagger of Amon Ra credits, DOS (Wayback, December 8, 2015)](https://web.archive.org/web/20151208012347/http://www.mobygames.com/game/dos/dagger-of-amon-ra/credits) — "Steve Dorian Josh Mandel, Crodfoller T. Rhubarb Josh Mandel, Henri Le Mort Josh Mandel, Rex the Talking Dinosaur Josh Mandel, Rocco the Taxi Driver Josh Mandel"; "Biff Barry T. Smith, Desk Sergeant Barry T. Smith"; "Blue Person Stuart Moulder"
 [^ref-fpfp-ballad]: [Al Lowe — The Ballad of Freddy Pharkas](https://allowe.com/games/fpfp/the-ballad.html) — lyrics by Josh Mandel, music by Al Lowe; "Al Lowe sings real funny! So? I ended up using me."
+[^ref-ia-kq3]: [Infamous Adventures – "King's Quest III 2.0 + Voice Pack" (August 20, 2006; Wayback, September 2, 2006)](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) — "The long awaited patch and voicepack"; "Andy Hoyos' performance of about half of the Manannan files"

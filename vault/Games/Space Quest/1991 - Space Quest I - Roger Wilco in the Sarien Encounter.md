@@ -101,7 +101,7 @@ According to SpaceQuest.net's Troels Pleimert, the remake "was created entirely 
 
 Both are nonetheless credited as Game Designers in the final product[^ref-31].
 
-The credits list Bill Davis as Creative Director, Douglas Herring and Scott Murphy as Directors, and Herring also as Art Designer[^ref-31].
+The credits list Bill Davis as Creative Director, Douglas Herring and Scott Murphy as Directors, and Herring also as Art Designer[^ref-31]. [[Andy Hoyos]] is one of nine Background Artists, alongside Jay Allan Friedmann, Herring and others[^ref-31].
 
 Scott Murphy reportedly gave management a list of things he disliked, chiefly the retro art style, and was told, "we can't change that this far along in development"[^ref-39].
 
@@ -244,7 +244,7 @@ This game has been included in the following collections:
 [^ref-28]: [DOS Days – Space Quest I VGA](https://www.dosdays.co.uk/topics/Games/game_sq1vga.php) – system requirements, original media, Kixx re-release
 [^ref-29]: [Sierra Help – Space Quest Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/SQEasterEggs.html) – Hitchhiker's Guide references, Star Trek cameos
 [^ref-30]: [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) – Smell/Taste icons, Hayao Miyazaki reference, instant replay death, Conquests of Longbow easter egg
-[^ref-31]: [MobyGames – SQ1 VGA Credits](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – Douglas Herring (Director, Art Designer), Mark Crowe & Scott Murphy (Game Designers), Jerry Shaw (Lead Programmer), Ken Allen (Composer)
+[^ref-31]: [MobyGames – SQ1 VGA Credits](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – Douglas Herring (Director, Art Designer), Mark Crowe & Scott Murphy (Game Designers), Jerry Shaw (Lead Programmer), Ken Allen (Composer); nine Background Artists including Andy Hoyos
 [^ref-32]: [VideoGames & Computer Entertainment – April 1992](https://archive.org/details/video-games-computer-entertainment-april-1992) – Arnie Katz "Electronic Gaming Comedy" feature (opens p. 82; quoted passage on p. 84): "benefited from a recent face-lift", "graphics are much better", "point-and-click interface makes play easier"
 [^ref-33]: [Retro Freak Reviews – Space Quest I Review (2017)](https://retrofreakreviews.com/2017/02/08/space-quest-i-review/) – "I also recommend the remake over the original version"; "Almost everything is improved in the remake"
 [^ref-34]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"

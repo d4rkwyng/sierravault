@@ -33,6 +33,7 @@ SpaceQuest.net describes it as "one of the first games ever with video captured 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Mark Crowe]], [[Scott Murphy]][^ref-6]
+> **Creative Director:** [[Bill Davis]][^ref-6]
 > **Publisher:** Sierra On-Line[^ref-6]
 > **Engine:** SCI (Sierra Creative Interpreter)[^ref-6][^ref-2]
 > **Platforms:** MS-DOS, Windows, Macintosh, Amiga, PC-98

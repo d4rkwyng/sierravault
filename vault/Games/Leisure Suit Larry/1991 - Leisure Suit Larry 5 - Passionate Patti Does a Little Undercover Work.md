@@ -101,7 +101,7 @@ This decision solved what Lowe called the "mind share problem" - how to grab peo
 
 ### Production
 
-The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5 uses 256-colour VGA graphics[^ref-16][^ref-7]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4].
+The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5 uses 256-colour VGA graphics[^ref-16][^ref-7]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4]. [[Andy Hoyos]] is credited under Graphics / Artwork and for Production[^ref-50].
 
 Craig Safan, an Emmy-nominated Hollywood composer whose credits include the TV series Cheers, The Last Starfighter and A Nightmare on Elm Street 4, provided the musical score[^ref-7]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
 
@@ -185,3 +185,4 @@ The game was a commercial success. On November 15, 1991, the Nashua Telegraph re
 [^ref-47]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – - Larry 4 as a multiplayer online adventure, begun January 1991; "Constant Companion became The Sierra Network"
 [^ref-48]: [Al Lowe – TSN's Larryland](https://allowe.com/games/larry/inside-stories/larryland.html) – - Lowe left the online project after six months; "The sales department was clamoring for Larry 4"
 [^ref-49]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – - "the next Leisure Suit Larry installment will require (get this) — modem support" (Johnny Magpie rumor column)
+[^ref-50]: [MobyGames – Leisure Suit Larry 5 credits (DOS)](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/credits/dos/) – - "Graphics / Artwork" includes Andy Hoyos; "Production Andy Hoyos"

@@ -133,6 +133,7 @@ According to MobyGames' trivia for the 1987 original, Larry owes his first name 
 The original was notably the first Sierra title to use beta testing through CompuServe, allowing players to provide feedback before the official release.[^ref-22]
 
 **1991 Remake Credits:**[^ref-1][^ref-5]
+- **Creative Director:** [[Bill Davis]][^ref-1]
 - **Director and Game Designer:** Al Lowe
 - **Producer:** Stuart Moulder
 - **Art Designer:** Bil Skirvin (credited as William D. Skirvin)

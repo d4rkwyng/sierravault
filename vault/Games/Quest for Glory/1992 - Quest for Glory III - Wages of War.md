@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1.1
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Rudy Helm]
 description: 'Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing
   game developed and published by Sierra On-Line for MS-DOS. Designed by Corey Cole...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -40,7 +40,7 @@ Corey Cole has said that "Lori did 90%+ of the design work"[^ref-24], which she 
 > **Director:** [[Lori Ann Cole]][^ref-1]
 > **Producer:** [[Tammy Dargan]][^ref-1]
 > **Programmer:** Oliver Brelsford[^ref-1]
-> **Artist:** [[Andy Hoyos]][^ref-1]
+> **Art Director:** [[Andy Hoyos]][^ref-30]
 > **Composer:** Rudy Helm[^ref-1]
 > **Engine:** SCI1.1 (Sierra Creative Interpreter)[^ref-3][^ref-12]
 > **Platforms:** MS-DOS[^ref-1]
@@ -189,3 +189,4 @@ This game has been included in the following collections:
 [^ref-27]: [RPG Codex Interview: Corey Cole on Quest for Glory and Hero-U](https://rpgcodex.net/content.php?id=8549) – Corey Cole: "again to $750K for games 3 and 4"
 [^ref-28]: [Computer Gaming World #102 (January 1993), full text](https://archive.org/download/computer-gaming-world-i102/computer-gaming-world-i102_djvu.txt) – Jeff James review
 [^ref-29]: [Dragon #192 (April 1993), "The Role of Computers" (archived PDF)](https://web.archive.org/web/20150319223820/http://annarchive.com/files/Drmg192.pdf) – Hartley, Patricia and Kirk Lesser, 5 stars
+[^ref-30]: [MobyGames – Quest for Glory III: Wages of War credits, DOS (Wayback, November 29, 2024)](https://web.archive.org/web/20241129101810/https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/credits/dos/?autoplatform=true) – "Art Director Andy Hoyos"

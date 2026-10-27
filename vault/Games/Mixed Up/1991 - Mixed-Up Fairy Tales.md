@@ -10,7 +10,7 @@ series: Mixed-Up
 engine: SCI1
 protagonist: Player-selected child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 composer: [Mark Seibert]
 description: Mixed-Up Fairy Tales is an educational adventure game released in 1991
   by Sierra On-Line for MS-DOS. The game serves as a follow-up to the earlier Mixed-Up...
@@ -18,7 +18,7 @@ tags: [1990s, educational, mixed-up, sci, sierra]
 ---
 # Mixed-Up Fairy Tales
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -123,6 +123,7 @@ Development took place at Sierra's Oakhurst, California offices[^ref-15]. The ga
 - **Creative Director:** [[Bill Davis]]
 - **Producer:** Stuart Moulder
 - **Lead Programmer:** [[Corey Cole]]
+- **Production Designer:** [[Andy Hoyos]] (also among the Background Artists)
 - **Art Designer:** Douglas Herring
 - **Music Arranged and Performed by:** [[Mark Seibert]], Paul Aleman, Christopher G. Braymen
 - **Executive Producer:** [[Ken Williams]]
@@ -251,6 +252,6 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 [^ref-27]: [Compute! Issue 154 (July 1993), p. 108 – Eddie Huffman, "Mixed-Up Fairy Tales"](https://archive.org/details/1993-07-compute-magazine) – Bach and Mozart soundtrack, ages 7 and up, 535K RAM, manual, story book, coloring book with crayons, 256-color VGA
 [^ref-28]: [MobyGames – Mixed-Up Fairy Tales Releases](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/releases/) – US and German 3.5" releases Nov 13 1991, US 5.25" EGA v1.00 Nov 23 1991, US 5.25" 1992
 [^ref-29]: [MobyGames – Mixed-Up Fairy Tales Specs](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/specs/) – video modes, sound devices, media, minimum CPU/OS/RAM
-[^ref-30]: [MobyGames – Mixed-Up Fairy Tales Credits (DOS)](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/credits/dos/) – Director/Game Designer Lori Ann Cole, Creative Director Bill Davis, Producer Stuart Moulder, Lead Programmer Corey Cole, music, Executive Producer Ken Williams
+[^ref-30]: [MobyGames – Mixed-Up Fairy Tales Credits (DOS)](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/credits/dos/) – Director/Game Designer Lori Ann Cole, Creative Director Bill Davis, Producer Stuart Moulder, Lead Programmer Corey Cole, music, Executive Producer Ken Williams; "Production Designer Andy Hoyos", Background Artists incl. Hoyos
 [^ref-31]: [SCI Wiki – Mixed-Up Fairy Tales](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Fairy_Tales) – SCI1 (early), game version 1.000, interpreter 1.000.145, 1991/11/13
 [^ref-32]: [ScummVM Wiki – Mixed-Up Fairy Tales](https://wiki.scummvm.org/index.php?title=Mixed-Up_Fairy_Tales) – not available for purchase, supported since ScummVM 1.2.0

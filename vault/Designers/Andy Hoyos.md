@@ -4,7 +4,7 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Phantasmagoria", "Quest for Glory III", "Space Quest I VGA", "The Matrix Online"]
-companies: ["NBC", "Calico Productions", "Sierra On-Line", "Monolith Productions", "Pinkerton Road", "Phoenix Online Studios"]
+companies: ["NBC", "Calico Productions", "Sierra On-Line", "Origin Systems", "Monolith Productions", "iWin", "Pinkerton Road", "Phoenix Online Studios"]
 last_updated: "2026-10-26"
 ---
 # Andy Hoyos
@@ -13,7 +13,7 @@ last_updated: "2026-10-26"
 
 ## Overview
 
-Andy Hoyos is an American illustrator, painter and art director who worked at Sierra On-Line from about 1989–1990 to 1996.[^ref-3][^ref-13] Hired as a 2D computer animator, he went on to art direct many games, including EcoQuest 2, King's Quest V and VII, Quest for Glory III and the Phantasmagoria series.[^ref-13] MobyGames credits him on 23 games.[^ref-2] VGA Gallery credits him with "spearheading the look" of games such as King's Quest V, Quest for Glory III and Phantasmagoria.[^ref-6]
+Andy Hoyos is an American illustrator, painter and art director who worked at Sierra On-Line from about 1989–1990 to 1996.[^ref-3][^ref-13] According to MobyGames' biography, he was hired as a 2D computer animator and went on to art direct many games, including EcoQuest 2, King's Quest V and VII, Quest for Glory III and the Phantasmagoria series; in the game credits themselves he is Art Designer on King's Quest V and Director on Phantasmagoria 2.[^ref-13] MobyGames credits him on 23 games.[^ref-2] VGA Gallery credits him with "spearheading the look" of games such as King's Quest V, Quest for Glory III and Phantasmagoria.[^ref-6]
 
 Before entering the game industry, Hoyos worked as a graphic artist and illustrator for NBC television studios in Burbank, California, and then in art and design for commercial animation studios and film advertising.[^ref-3] He directed the live-action sequences of Phantasmagoria: A Puzzle of Flesh (1996).[^ref-4]
 
@@ -39,9 +39,9 @@ On the original [[1995 - Phantasmagoria|Phantasmagoria]] (1995) he was art direc
 
 ### Post-Sierra Career
 
-After Sierra, Hoyos was "Art Director and 3D artist for The Matrix Online",[^ref-13] Monolith Productions' 2005 MMORPG.[^ref-10] MobyGames also credits him with art management on Ultima IX: Ascension (1999), concept art on Shadowrun (2007), and art on several iWin Jewel Quest games (2009–2011).[^ref-13] His 2016 website biography adds environment concept work on Shadowrun and Forza 4, and says he retired from games in 2013.[^ref-14]
+After Sierra, Hoyos was "Art Director and 3D artist for The Matrix Online",[^ref-13] Monolith Productions' 2005 MMORPG.[^ref-10] MobyGames also credits him with art management on Ultima IX: Ascension (1999), concept art on Shadowrun (2007), and art on several Jewel Quest games (2009–2011),[^ref-13] a series created and published by iWin.[^ref-21] His 2016 website biography names Origin Systems among the companies he worked with and says he art directed Ultima Online 2; it adds environment concept work on Shadowrun and Forza 4, and says he retired from games in 2013.[^ref-14]
 
-He later returned for one more adventure, sharing the art direction credit (with Michael Fortunato) on [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (2014), Jane Jensen's game developed by Pinkerton Road and Phoenix Online Studios.[^ref-13][^ref-17][^ref-18] He also voiced Manannan and Mordack in Infamous Adventures' 2006 VGA remake of King's Quest III.[^ref-13]
+He later returned for one more adventure, sharing the art direction credit (with Michael Fortunato) on [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (2014), Jane Jensen's game developed by Pinkerton Road and Phoenix Online Studios.[^ref-13][^ref-17][^ref-18] He also voiced the wizard Manannan in Infamous Adventures' 2006 VGA remake of King's Quest III; MobyGames' description of the remake calls him "the man who provided the voice of Mordack in King's Quest V, bringing life to Mordack's wicked brother Manannan."[^ref-20] (MobyGames' biography of Hoyos also lists Mordack among his roles in the remake, which no other source found confirms.)[^ref-13] His performance shipped in the voice pack released with version 2.0 on August 20, 2006, after the game's June 19, 2006 release; the studio's announcement says "about half of the Manannan files" he had recorded were lost and some parts had to be re-recorded.[^ref-19][^ref-20]
 
 His current work is digital, printed on etching paper; he describes exploring "Abstraction."[^ref-3]
 
@@ -110,7 +110,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
 
 - 1999 — Ultima IX: Ascension — Art Management
 - 2005 — The Matrix Online — Monolith Productions — Art Director, 3D Artist
-- 2006 — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III: To Heir Is Human (Infamous Adventures Remake)]] — Infamous Adventures — Cast (Manannan, Mordack)
+- 2006 — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III: To Heir Is Human (Infamous Adventures Remake)]] — Infamous Adventures — Cast (Manannan)[^ref-19][^ref-20]
 - 2007 — Shadowrun — Concept Artists
 - 2009–2011 — Jewel Quest IV: Heritage, Jewel Quest Solitaire III, Jewel Quest: The Sapphire Dragon — iWin — Additional Art; Art; Art Director
 - **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: Pinkerton Road / Phoenix Online Studios, Role: Art Direction (with Michael Fortunato)[^ref-17]
@@ -131,4 +131,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
 [^ref-15]: [Wikipedia - Denver, the Last Dinosaur](https://en.wikipedia.org/wiki/Denver,_the_Last_Dinosaur) — Production companies: World Events Productions, Calico Entertainment
 [^ref-16]: [Sierra Wiki - Leisure Suit Larry 5 Credits](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) — "Production: Andy Hoyos"; "Art Director: Jane Cardinal, Cheryl Loyd"; Hoyos under Graphics / Artwork
 [^ref-17]: [MobyGames - Moebius: Empire Rising](https://www.mobygames.com/game/67586/moebius-empire-rising/) — Developed by Phoenix Online Studios and Pinkerton Road (ID 67586, via MobyGames API)
-[^ref-18]: [Wikipedia - Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) — Developer Pinkerton Road Studio; designer Jane Jensen
+[^ref-18]: [Wikipedia - Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) — Developers Phoenix Online Studios and Pinkerton Road Studio; designer Jane Jensen
+[^ref-19]: [Infamous Adventures – "King's Quest III 2.0 + Voice Pack" (August 20, 2006; Wayback, September 2, 2006)](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) — "The long awaited patch and voicepack"; "Andy Hoyos' performance of about half of the Manannan files" lost, "re-recording was required on some parts"
+[^ref-20]: [MobyGames – King's Quest III: To Heir Is Human (Infamous Adventures, 2006; Moby ID 23393; Wayback, November 28, 2024)](https://web.archive.org/web/20241128102105/https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) — "Released June 19, 2006"; Andy Hoyos "bringing life to Mordack's wicked brother Manannan"
+[^ref-21]: [Wikipedia – Jewel Quest](https://en.wikipedia.org/wiki/Jewel_Quest) — "a tile-matching puzzle video game created and published by iWin"

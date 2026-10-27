@@ -10,14 +10,14 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road Studios and Phoenix Online Studios, and published by Phoenix Online Publishing.'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 composer: [Robert Holmes]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Wikipedia notes that the campaign was inspired by recent Kickstarter successes s
 
 ### Production
 
-The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *The Silver Lining*[^ref-13]. Jane Jensen designed and wrote the game, and Robert Holmes composed the soundtrack[^ref-22].
+The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *The Silver Lining*[^ref-13]. Jane Jensen designed and wrote the game, and Robert Holmes composed the soundtrack[^ref-22]. Art direction is credited to [[Andy Hoyos]] and Michael Fortunato[^ref-23].
 
 Eurogamer.de described Moebius as Jensen's first major game since *Gray Matter*, and the first since *Gabriel Knight 3* on which she again had full creative control[^ref-13].
 
@@ -194,7 +194,7 @@ The game remains available on Steam and GOG[^ref-21][^ref-15].
 [^ref-20]: [Metacritic – Moebius: Empire Rising critic reviews (PC)](https://www.metacritic.com/game/moebius-empire-rising/critic-reviews/?platform=pc) – Metascore 54, USgamer 90
 [^ref-21]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – user review summary (78% of 164, checked 2026-10-14), system requirements
 [^ref-22]: [Choicest Games – Moebius: Empire Rising Soundtrack Review](https://www.choicestgames.com/2014/05/moebius-empire-rising-soundtrack-review_26.html) – composer information
-[^ref-23]: [MobyGames – Moebius: Empire Rising credits (Windows)](https://www.mobygames.com/game/67586/moebius-empire-rising/credits/windows/) – voice cast roles
+[^ref-23]: [MobyGames – Moebius: Empire Rising credits (Windows)](https://www.mobygames.com/game/67586/moebius-empire-rising/credits/windows/) – voice cast roles; "Art Direction Andy Hoyos, Michael Fortunato"
 [^ref-24]: [IGN Italia – Moebius: Empire Rising Recensione](https://it.ign.com/moebius-empire-rising/72157/moebius-empire-rising-riporta-in-scena-jane-jensen) – Andrea Maderna's review, 7.9
 [^ref-25]: [Polygon – Moebius: Empire Rising review: remedial history](https://www.polygon.com/2014/4/24/5641066/moebius-empire-rising-review-remedial-history) – Danielle Riendeau's review: graphics and criticism
 [^ref-26]: [PCWorld – Moebius: Empire Rising review](https://www.pcworld.com/article/438859/moebius-empire-rising-review-those-who-dont-learn-from-my-mistakes-are-doomed-to-repeat-them.html) – technical issues
