@@ -10,26 +10,27 @@ series: Laura Bow
 engine: SCI0
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: 'The Colonel''s Bequest: A Laura Bow Mystery stands as one of Sierra
-  On-Line''s most innovative and atmospheric adventure games, released in 1989 under
-  the...'
+last_updated: '2026-10-26'
+description: 'The Colonel''s Bequest: A Laura Bow Mystery is a 1989 murder-mystery
+  adventure game from Sierra On-Line, written by Roberta Williams and set on an isolated
+  Louisiana bayou island in 1925.'
 tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The Colonel's Bequest: A Laura Bow Mystery stands as one of Sierra On-Line's most innovative and atmospheric adventure games, released in 1989, written by Roberta Williams and co-directed by her with Chris Iden[^ref-1][^ref-2]. Set in 1925, this murder mystery adventure follows Tulane student Laura Bow as she visits a remote Louisiana mansion where a family gathering turns deadly[^ref-2]. Unlike Sierra's puzzle-driven adventures, Williams described it as "very much an interactive story", and the manual calls it "an interactive play in 8 acts"[^ref-5][^ref-12].
+The Colonel's Bequest: A Laura Bow Mystery is a 1989 adventure game from Sierra On-Line, written by Roberta Williams and directed by her with Chris Iden[^ref-1][^ref-2][^ref-60]. Set in 1925, this murder mystery adventure follows Tulane student Laura Bow as she visits a remote Louisiana mansion where a family gathering turns deadly[^ref-2]. Unlike Sierra's puzzle-driven adventures, Williams described it as "very much an interactive story", and the manual calls it "an interactive play in 8 acts"[^ref-5][^ref-12].
 
 Events take place around the island "whether you are present or not"[^ref-12], although the clock is not real-time: it advances in 15-minute steps when Laura witnesses key events[^ref-4][^ref-16]. As Williams explained in a contemporary interview, "There is no real goal - you're an innocent thrust into a situation where suddenly all these people are dying and things are happening"[^ref-5]. The premise draws on Agatha Christie and the board game Clue[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design:** Jacqueline Austin[^ref-20][^ref-40]
-> **Direction/Writing:** [[Roberta Williams]][^ref-2]
+> **Written by:** [[Roberta Williams]][^ref-60]
+> **Creative Designer:** Jacqueline Austin[^ref-60][^ref-40]
+> **Directed by:** [[Roberta Williams]], Chris Iden[^ref-60]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Platforms:** DOS, Amiga, Atari ST[^ref-2][^ref-12]
 > **Release Year:** 1989
@@ -40,9 +41,9 @@ Events take place around the island "whether you are present or not"[^ref-12], a
 
 ## Story Summary
 
-The game opens on "a dark and stormy night"[^ref-9] in 1925 as young Laura Bow, a Tulane University student and aspiring journalist[^ref-2], accompanies her friend Lillian to visit Colonel Henri Dijon's isolated plantation mansion deep in the Louisiana bayous[^ref-11]. At dinner the Colonel announces that his relatives will "all inherit EQUALLY" on his death, and that the share of anyone who dies before him will be divided among the survivors[^ref-12]. Greed soon leads to murders over the course of the night[^ref-13].
+The game opens on "a dark and stormy night"[^ref-9] in 1925 as young Laura Bow, a Tulane University student and aspiring journalist[^ref-2], accompanies her friend Lillian to visit Colonel Henri Dijon's isolated plantation mansion on an island in the Louisiana bayou[^ref-12][^ref-2]. At dinner the Colonel announces that his relatives will "all inherit EQUALLY" on his death, and that the share of anyone who dies before him will be divided among the survivors[^ref-12]. Greed soon leads to murders over the course of the night[^ref-28].
 
-Laura finds herself thrust into the role of reluctant detective, armed only with her notepad and keen observational skills[^ref-14]. The mansion's inhabitants include a colorful cast of potential victims and suspects: Lillian Prune, the Colonel's flapper niece; her alcoholic mother Ethel; Gertrude "Gertie" Dijon, widow of the Colonel's brother, and her children Gloria and Rudy; the Colonel's physician Dr. Wilbur C. Feels; his lawyer Clarence Sparrow; and the butler Jeeves[^ref-2][^ref-12]. As the night progresses, Laura must carefully observe the interactions between characters, eavesdrop on conversations, and piece together clues to understand the complex web of motives driving the killings[^ref-16].
+Laura finds herself playing detective, and at the end of the night her notebook of everything she witnessed and found is reviewed[^ref-58]. The mansion's inhabitants include a colorful cast of potential victims and suspects: Lillian Prune, the Colonel's flapper niece; her alcoholic mother Ethel; Gertrude "Gertie" Dijon, widow of the Colonel's brother, and her children Gloria and Rudy; the Colonel's physician Dr. Wilbur C. Feels; his lawyer Clarence Sparrow; and the butler Jeeves[^ref-2][^ref-12]. As the night progresses, Laura must carefully observe the interactions between characters, eavesdrop on conversations, and piece together clues to understand the complex web of motives driving the killings[^ref-16].
 
 The story unfolds across eight acts, one for each hour of the night; the clock advances when Laura witnesses certain events or reaches certain places, rather than with each death[^ref-17][^ref-4]. Players can discover multiple possible endings depending on how much of the mystery they uncover and whether they successfully identify the true culprit behind the murders[^ref-18].
 
@@ -50,9 +51,9 @@ The story unfolds across eight acts, one for each hour of the night; the clock a
 
 ### Interface and Controls
 
-The Colonel's Bequest utilizes Sierra's SCI (Sierra Creative Interpreter) engine with a text parser interface where players type verb-object command combinations such as "Look Lillian" or "Look cigar"[^ref-19]. This represented an evolution from Sierra's earlier AGI engine while maintaining the company's traditional text-based interaction model[^ref-20]. The game supports various audio options, with MT-32 sound providing the most atmospheric experience, though early MT-32 modules contain bugs that cause incorrect sound effects on later devices[^ref-21].
+The Colonel's Bequest utilizes Sierra's SCI (Sierra Creative Interpreter) engine with a text parser interface where players type verb-object command combinations such as "Look Lillian" or "Look cigar"[^ref-19]. This represented an evolution from Sierra's earlier AGI engine while maintaining the company's traditional text-based interaction model, with a parser that Gaming After 40 found "very solid compared to ... the Sierra AGI generation"[^ref-22]. The game supports various audio options, with MT-32 sound providing the most atmospheric experience, though early MT-32 modules contain bugs that cause incorrect sound effects on later devices[^ref-21].
 
-The visual presentation uses 16-color EGA graphics at double the resolution of Sierra's earlier AGI engine[^ref-22]. DOS Days calls the background artwork by Douglas Herring and Gerald Moore "top notch" despite the 16-color limit[^ref-20]. The SCI0 engine did not yet handle sampled audio[^ref-22].
+The visual presentation uses 16-color EGA graphics at double the resolution of Sierra's earlier AGI engine[^ref-22]. DOS Days calls the background artwork by [[Douglas Herring]] and [[Jerry Moore]] "top notch" despite the 16-color limit[^ref-20]. The SCI0 engine did not yet handle sampled audio[^ref-22].
 
 ### Structure and Progression
 
@@ -62,7 +63,7 @@ The game abandons traditional adventure game scoring in favor of a unique "Sleut
 
 ### Puzzles and Mechanics
 
-Unlike typical Sierra adventures heavy on inventory puzzles, The Colonel's Bequest focuses primarily on observation and exploration[^ref-28]. Players must carefully examine crime scenes, eavesdrop on conversations, and piece together character motivations through careful detective work[^ref-29]. The few traditional puzzles in the game involve finding secret passages, locating hidden objects such as the monocle taken from Wilbur's body, and solving the occasional mechanical challenge[^ref-17].
+It is one of the few Sierra adventure games to focus more on the characters than on puzzles, and it can be finished without solving any puzzles at all[^ref-2]; Roberta Williams said beforehand that it was "not quite as 'puzzle-oriented'" as Sierra's earlier games[^ref-61]. The puzzles it does have are relatively easy, and Adventure Classic Gaming notes that most of them involve the many inventory items Laura picks up[^ref-28]. Players must carefully examine crime scenes, eavesdrop on conversations, and piece together character motivations through careful detective work[^ref-29]. The few traditional puzzles in the game involve finding secret passages, locating hidden objects such as the monocle taken from Wilbur's body, and solving the occasional mechanical challenge[^ref-17].
 
 Death scenarios play a significant role in the gameplay, with Laura facing numerous sudden and often unexpected demises if players make poor choices[^ref-22]. These range from environmental hazards such as an old bannister and a falling chandelier to a Psycho-inspired shower scene[^ref-31][^ref-30]. Even so, one reviewer notes that "there aren't actually many ways you can die" compared with other Sierra adventures[^ref-31].
 
@@ -88,7 +89,7 @@ Critics praised the game's atmospheric presentation and innovative storytelling 
 
 ### Modern Assessment
 
-Retrospective reviews have been consistently positive, with many critics recognizing the game's historical significance and innovative design. Adventure Gamers awarded it 4 stars out of 5 in their 2003 retrospective, with Johann Walter calling it a "rather unique game [and] excellent game" and praising Williams as showing "that she was a master game designer, writing one of the very few good detective games in this mold"[^ref-35]. On GOG.com it holds a 4.4/5 user rating from 48 reviews (as of October 2026)[^ref-36].
+Retrospective reviews have been consistently positive, with many critics recognizing the game's historical significance and innovative design. Adventure Gamers awarded it 4 stars out of 5 in their 2003 retrospective, with Johann Walter writing that Williams "succeeded in designing an excellent game" and praising Williams as showing "that she was a master game designer, writing one of the very few good detective games in this mold"[^ref-35]. On GOG.com it holds a 4.4/5 user rating from 49 reviews (as of October 26, 2026)[^ref-36].
 
 Modern gaming analysts have highlighted the game's influence on interactive storytelling. PC Gamer's retrospective noted that "Laura Bow has never been as famous as King's Quest, but these two games were genuinely groundbreaking"[^ref-26]. The game's atmospheric qualities continue to resonate with players, with one GOG reviewer noting: "Between the Spanish moss and the secret passages and the crocodiles and the flapper dresses and the stranglings, I have a visceral memory of the game"[^ref-36].
 
@@ -98,11 +99,11 @@ Modern gaming analysts have highlighted the game's influence on interactive stor
 
 While taking a break from the King's Quest games, Roberta Williams returned to the mystery genre; the game borrows themes from her 1980 Mystery House but is much more fleshed out thanks to more advanced technology[^ref-4]. Mystery House is regarded as the first graphical adventure game[^ref-59]. As she explained in a 1990 START Magazine interview, the game represented a deliberate departure from traditional adventure game design: "Colonel's Bequest is very much an interactive story. One of the directions Ken and I see Sierra going is in interactive entertainment - stories"[^ref-5].
 
-Williams wrote the game and co-directed it with Chris Iden, while Jacqueline Austin, a screenplay and novel writer, was credited as its creative designer; it was the only Sierra title she worked on[^ref-20][^ref-40]. On period detail, Williams said "we went to great pains to copy the costumes and the overall atmosphere of the times"[^ref-5]. Hardcore Gaming 101 notes that, like Mystery House, it borrows elements from Agatha Christie's stories[^ref-4].
+The manual credits the game as "Written by Roberta Williams", with "Creative Designer Jacqueline Austin" and "Directed by Roberta Williams, Chris Iden"[^ref-60]. Austin, a screenplay and novel writer, worked on no other Sierra title, according to DOS Days[^ref-20][^ref-40]. Sierra's own InterAction preview and Computer Gaming World's review nonetheless billed it as Roberta Williams' design[^ref-61][^ref-62]. On period detail, Williams said "we went to great pains to copy the costumes and the overall atmosphere of the times"[^ref-5]. Hardcore Gaming 101 notes that, like Mystery House, it borrows elements from Agatha Christie's stories[^ref-4].
 
 ### Production
 
-The game ran on Sierra's SCI0 interpreter and was one of Sierra's last EGA SCI0 games before the VGA-capable SCI1 interpreter arrived with King's Quest V[^ref-20]. Douglas Herring and Gerald Moore drew the game's 16-color backgrounds[^ref-20]. Ken Allen composed the original music, including the memorable title theme that has since been covered by independent musicians[^ref-39].
+The game ran on Sierra's SCI0 interpreter and was one of Sierra's last EGA SCI0 games before the VGA-capable SCI1 interpreter arrived with King's Quest V[^ref-20]. The manual credits "Backgrounds by Douglas Herring, Jerry Moore", with Herring also doing the animation[^ref-60]. Ken Allen composed the original music, including the memorable title theme that has since been covered by independent musicians[^ref-39].
 
 The box included a red-lined fold-out of fingerprints for the game's characters, read through a red lens "magnifying glass", which served as the game's copy protection[^ref-20]. Sierra's promotional video catalogs of the late 1980s featured The Colonel's Bequest among their adventure game lineup[^ref-41].
 
@@ -112,17 +113,16 @@ The trigger-based event system was the game's most distinctive design feature: t
 
 The game contains a rarely seen easter egg that triggers randomly, with a 1-in-200 chance, when entering the room outside the back of the mansion; fans only pinned down its trigger by decompiling the game's scripts[^ref-44]. The same analysis found that the object the egg uses, shown as a statue, contains a never-before-seen airplane animation loop[^ref-44].
 
-A 1993 reissue, released alongside the sequel, reportedly corrected some special-effects errors, such as the fireflies in the opening boat ride[^ref-2]. The game is sold on GOG[^ref-36] and documented on PCGamingWiki for modern systems[^ref-8].
+Ben Shoof, who decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG[^ref-36] and documented on PCGamingWiki for modern systems[^ref-8].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | October 1989 | DOS | Initial release, SCI0 engine[^ref-2] |
-| Ports | 1990 | Amiga, Atari ST | Computer ports[^ref-2] |
-| Reissue | 1993 | DOS | Reissued alongside The Dagger of Amon Ra; fixes some special effects[^ref-2] |
+| Original (1.000.046) | October 1989 (build dated December 1989) | DOS | Initial release, SCI0 engine[^ref-2][^ref-24] |
+| Ports (1.000.059, 1.000.062) | 1990 (June and September builds) | Amiga, Atari ST | Computer ports[^ref-2][^ref-24] |
 
-The game supports a variety of sound cards and MIDI modules[^ref-22]; its soundtrack was written by Ken Allen on a Roland MT-32[^ref-20]. Modern players can access walkthroughs and detailed Act-by-Act guides[^ref-56][^ref-57] to fully experience the game's complex narrative structure.
+The game supports a variety of sound cards and MIDI modules[^ref-22]; its soundtrack was written by Ken Allen on a Roland MT-32[^ref-20]. Modern players can access walkthroughs and detailed Act-by-Act guides[^ref-14][^ref-56][^ref-57] to fully experience the game's complex narrative structure.
 
 ## Legacy
 
@@ -136,8 +136,6 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/en/game/the_colonels_bequest)
-
-**Download / Preservation**
 
 ## See Also
 
@@ -156,9 +154,7 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – - Primary source interview with Roberta Williams from START Magazine
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel%27s_Bequest) – - Technical engine details
 [^ref-9]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=33&fld=general) – - Opening setting description
-[^ref-11]: [Archive.org Description](https://archive.org/details/CBQUEST) – - Plot setup details
 [^ref-12]: [Archive.org - The Colonel's Bequest Manual](https://archive.org/details/Laura_Bow_Colonels_Bequest_Manual) – - Original game manual (MS-DOS, Atari ST, Amiga): prologue script, character list, "interactive play in 8 acts"
-[^ref-13]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Plot setup: will divided among those present, greed leads to murders
 [^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – - Gameplay mechanics explanation
 [^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – - Detailed gameplay mechanics explanation
 [^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=355) – - Act structure explanation
@@ -170,7 +166,7 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-24]: [Ben Shoof Analysis](https://www.benshoof.org/blog/super-sleuth) – - Sleuth-O-Meter analysis; quotes Roberta Williams in Computer Gaming World #68
 [^ref-26]: [PC Gamer Retrospective](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – - Josh Mandel, who beta tested the game, on its open design
 [^ref-27]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=33&title=laura-bow-1&fld=walkthrough&pid=100) – - Sleuth-O-Meter rank list
-[^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Gameplay mechanics comparison to other Sierra games
+[^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Plot setup ("greed soon leads to murders"); puzzles "relatively easy", most "involve the use of the many inventory items"
 [^ref-29]: [Just Adventure - Walkthrough by Avi Machness](https://www.justadventure.com/walkthrough/colonels-bequest-3/) – - Detective gameplay walkthrough (originally on the-spoiler.com)
 [^ref-30]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – - Psycho shower scene reference
 [^ref-31]: [Choice Games Review](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – - Death scenes, including the Psycho tribute
@@ -194,3 +190,6 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-57]: [Sierra Help](https://sierrahelp.com/Walkthroughs/LauraBow1Walkthrough.html) – - Detailed walkthrough with Act structure
 [^ref-58]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/06/30/the-colonels-bequest-dos-review/) – - Sleuth-O-Meter ranks ("Barely Conscious" to "Super Sleuth")
 [^ref-59]: [Wikipedia - Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – - "Mystery House is the first graphical adventure game"
+[^ref-60]: [Archive.org - The Colonel's Bequest Manual (second scan, full text)](https://archive.org/stream/Colonels_Bequest_-_Manual/Colonels_Bequest_-_Manual_djvu.txt) – - Credits: "Written by Roberta Williams / Creative Designer Jacqueline Austin / Directed by Roberta Williams, Chris Iden"; "Backgrounds by Douglas Herring, Jerry Moore"
+[^ref-61]: [Sierra InterAction Issue 6 (Fall 1989) - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) – - Pre-release preview: "Designer: Roberta Williams"; "not quite as 'puzzle-oriented'"
+[^ref-62]: [Computer Gaming World #68, February 1990 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_68) – - Johnny L. Wilson's review; info box "DESIGNER: Robert[a] Williams"; Roberta: "bridge the gap"

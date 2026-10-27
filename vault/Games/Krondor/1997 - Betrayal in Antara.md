@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a follow-up to the acclaimed 1993 title Betrayal at
   Krondor.
@@ -18,13 +18,13 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Betrayal in Antara is a 1997 role-playing game developed and published by Sierra On-Line as a follow-up to the acclaimed 1993 title Betrayal at Krondor[^ref-1][^ref-6]. While utilizing an updated version of Betrayal at Krondor's game engine, the game takes place in an entirely new fantasy world called Ramar rather than Raymond E. Feist's Midkemia universe[^ref-7]. As author Raymond E. Feist himself clarified, "Betrayal in Antara by Sierra is a 'sequel' to BaK only insofar as it's using the same general game engine and is created by the company that owned Dynamix. Other than that it has nothing to do with my work"[^ref-3].
 
-The game emerged from Sierra's need to create a new RPG after losing the rights to produce another game based on Raymond Feist's The Riftwar Cycle[^ref-1]. Designer Peter Sarrett became involved with the project in an unusual way, after CEO Ken Williams discovered him playing extended sessions of Betrayal at Krondor during work hours and summoned him with the message "Come see me in my office"[^ref-5]. Sierra positioned the game as their return to role-playing games, with PC Gamer announcing in 1997 that "Sierra On-Line has begun shipping Betrayal in Antara, a follow-up to their award-winning roleplaying game Betrayal at Krondor"[^ref-6].
+The game emerged from Sierra's need to create a new RPG after losing the rights to produce another game based on Raymond Feist's The Riftwar Cycle[^ref-1]. Designer Peter Sarrett became involved with the project in an unusual way: during one of the long lunch breaks he spent playing Betrayal at Krondor, CEO Ken Williams stopped by and the two talked about the game and computer RPGs; later Sarrett wondered aloud to Williams why Sierra had not followed up on its success, and soon afterwards received an email from Ken saying simply "Come see me in my office", where he was asked to design Sierra's next role-playing game[^ref-5]. Sierra positioned the game as their return to role-playing games, with PC Gamer reporting on June 30, 1997 that "Sierra On-Line has begun shipping Betrayal in Antara, a follow-up to their award-winning roleplaying game Betrayal at Krondor"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -32,7 +32,7 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** Updated Betrayal at Krondor engine[^ref-7]
 > **Platforms:** Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups[^ref-5]
-> **Release Year:** 1997
+> **Release Year:** 1997 (shipping by June 30, 1997)[^ref-6]
 > **Series:** Krondor Series
 > **Protagonist:** Aren
 > **Sierra Lineage:** Core Sierra
@@ -72,10 +72,9 @@ Betrayal in Antara received mixed reviews from critics, with many praising the g
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 6.6/10 (Fair) | Criticized graphics quality and linearity[^ref-17] |
-| Next Generation | 3/5 stars | Compared favorably to Doom II sequel approach[^ref-32] |
+| Next Generation (Oct 1997) | 3 stars | "Antara succeeds it in the fashion of Doom II"[^ref-32] |
 | MobyGames Critics | 69% average (21 ratings) | Mixed professional reception[^ref-18] |
 | IMDb | 6.9/10 (14 ratings) | User rating[^ref-19] |
-| OldGames.sk | 68% | Community rating[^ref-20] |
 
 GameSpot's reviewer Desslock noted that "For gamers willing to tolerate substandard graphics and linear gameplay, Betrayal in Antara succeeds in providing an enjoyable role-playing experience"[^ref-17]. However, he criticized the visuals severely, stating the graphics are "frankly, as ugly as an orc" and describing the color palette as "muddy Monet"[^ref-17].
 
@@ -91,7 +90,7 @@ On the RPG Codex forum, one poster summed it up: "Game's not as good as BaK but 
 
 The development of Betrayal in Antara arose from Sierra's desire to capitalize on the success of Betrayal at Krondor while navigating licensing constraints. As gaming historian Jimmy Maher noted, the game "copied some of the interface elements and gameplay approaches of its predecessor, but moved the action to a generic fantasy world, to less satisfying effect"[^ref-4]. Sierra had lost the rights to produce another game based on Raymond Feist's Midkemia, requiring them to create the new world of Ramar[^ref-1].
 
-Peter Sarrett's involvement as designer began unconventionally when he was discovered playing Betrayal at Krondor during work hours. He recalled: "Loading it up at lunch time, I'd wind up playing well into the afternoon before I realized the time had passed. Many evenings I stayed at work past midnight hacking my way through just one more group of enemies"[^ref-5].
+Peter Sarrett's involvement as designer grew out of his own enthusiasm for Betrayal at Krondor after he joined Sierra in 1994. He recalled: "Loading it up at lunch time, I'd wind up playing well into the afternoon before I realized the time had passed. Many evenings I stayed at work past midnight hacking my way through just one more group of enemies"[^ref-5]. A conversation with Ken Williams during one of those lunch breaks, and Sarrett's later question about why Sierra had not followed up on the game, led to Williams asking him to design Sierra's next RPG[^ref-5].
 
 ### Production
 
@@ -109,7 +108,7 @@ A significant patch (version 1.10) was released to address "the problem some use
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1997 | Windows | Initial release |
+| 1.0 | June 30, 1997 | Windows | Initial release; PC Gamer reported it shipping on this date[^ref-6] |
 | 1.10 | 1997 | Windows | Chapter loading fix patch[^ref-24] |
 
 ## Legacy
@@ -118,7 +117,7 @@ Betrayal in Antara represents Sierra's attempt to create a successor without the
 
 The game is sold digitally on GOG.com and Steam in a pack bundled with Betrayal at Krondor[^ref-33][^ref-34]. Gaming wikis provide technical compatibility information for modern systems[^ref-11], and community forums continue to offer technical fixes for Windows XP and later operating systems[^ref-21].
 
-Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
+Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5].
 
 ## Downloads
 
@@ -150,7 +149,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-9]: [Sierra Gamers - Betrayal in Antara](https://www.sierragamers.com/betrayal-in-antara/) – - Game plot description
 [^ref-10]: [Amazon - Sierra Betrayal in Antara](https://www.amazon.com/Sierra-Betrayal-in-Antara/dp/B00083B6DE) – - Customer reviews and game features
 [^ref-11]: [PC Gaming Wiki - Betrayal in Antara](https://www.pcgamingwiki.com/wiki/Betrayal_in_Antara) – - System requirements and modern compatibility
-[^ref-12]: [GOG Forum - Betrayal in Antara Guide](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know) – - Gameplay mechanics information
+[^ref-12]: [GOG Forum - Betrayal in Antara Guide](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know/page1) – - Gameplay mechanics information
 [^ref-13]: [RPG Gamers - Betrayal in Antara Hints](https://rpggamers.com/walkthrough/betrayal-in-antara-hints-2) – - Gameplay tips and character development
 [^ref-14]: [Easter Eggs Database](https://eeggs.com/items/31623.html) – - Cheat codes and cultural references
 [^ref-15]: [KHInsider - Betrayal in Antara Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/betrayal-in-antara-1997-windows) – - Audio file details and soundtrack information
@@ -158,7 +157,6 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/betrayal-in-antara-review/1900-2537979/) – - Professional review and critique
 [^ref-18]: [MobyGames Reviews](https://www.mobygames.com/game/695/betrayal-in-antara/reviews/) – - Player reviews and critiques
 [^ref-19]: [IMDb - Betrayal in Antara (Video Game 1997)](https://www.imdb.com/title/tt1569924/) – - User rating information
-[^ref-20]: OldGames.sk - Betrayal in Antara *(download link removed: the game is sold commercially)* – - Community rating and game description
 [^ref-21]: [RPG Codex Forum](https://rpgcodex.net/forums/threads/betrayal-in-antara-fix-for-xp.41740/) – - Community discussion and assessment
 [^ref-23]: [MobyGames - Betrayal in Antara Credits (Windows)](https://www.mobygames.com/game/695/betrayal-in-antara/credits/windows/) – - Design and music credits
 [^ref-24]: [Archive.org - Patch ANTAR110](https://archive.org/details/ANTAR110) – - Official patch documentation
@@ -166,6 +164,6 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-26]: [Archive.org - Betrayal in Antara (Windows) Manual](https://archive.org/details/betrayal-antara-manual) – - Scanned manual
 [^ref-27]: [Sierra Chest - Betrayal in Antara Demos](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara&fld=demos) – - Official demo download (25.5 MB)
 [^ref-31]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/196753-betrayal-in-antara/faqs/2206) – - Complete gameplay guide
-[^ref-32]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review
+[^ref-32]: [Next Generation, October 1997 (Internet Archive scan)](https://archive.org/details/next-generation-1997-10/page/n180/mode/1up) – - Review of Betrayal in Antara (PC), "Rating: ★★★"; "Antara succeeds it in the fashion of Doom II"
 [^ref-33]: [GOG.com - Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) – - "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
 [^ref-34]: [Steam - Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – - "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
