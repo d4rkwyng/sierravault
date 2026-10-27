@@ -22,17 +22,17 @@ tags: [2010s, homeworld, sierra, strategy]
 
 ## Overview
 
-Homeworld Remastered Collection is a comprehensive restoration of [[Relic Entertainment]]'s groundbreaking space real-time strategy games, released on February 25, 2015 by [[Gearbox Software]][^ref-25]. The collection includes fully remastered versions of Homeworld (1999) and Homeworld 2 (2003), alongside the original "Classic" versions of both games, preserving one of the most influential RTS franchises in gaming history[^ref-2]. Publisher 2K Games described it as "THE LEGENDARY RTS—REBORN," a project "crafted with the assistance and guidance of the original creators as well as the help of a passionate fan community"[^ref-3].
+Homeworld Remastered Collection is a comprehensive restoration of [[Relic Entertainment]]'s groundbreaking space real-time strategy games, released on February 25, 2015 by [[Gearbox Software]][^ref-25]. The collection includes fully remastered versions of Homeworld (1999) and Homeworld 2 (2003), alongside the original "Classic" versions of both games, preserving one of the most influential RTS franchises in gaming history[^ref-2]. 2K's current product page describes it as "THE LEGENDARY RTS—REBORN," a project "crafted with the assistance and guidance of the original creators as well as the help of a passionate fan community"[^ref-3].
 
-The original Homeworld, released September 28, 1999, revolutionized the real-time strategy genre by introducing fully three-dimensional space combat, allowing players to command fleets that could move in all directions—up, down, backward, forward, and to either side—rather than being confined to a traditional two-dimensional plane[^ref-4]. As IGN declared at its original release, "Relic not only tackled space, but may have just changed strategy games forever"[^ref-5]. The game received universal acclaim, achieving a Metacritic score of 93 and earning numerous Game of the Year awards in 1999[^ref-6].
+The original Homeworld, released September 28, 1999[^ref-10][^ref-13], revolutionized the real-time strategy genre by introducing fully three-dimensional space combat, allowing players to command fleets that could move in all directions—up, down, backward, forward, and to either side—rather than being confined to a traditional two-dimensional plane[^ref-10][^ref-19]. As IGN declared at its original release, "Relic not only tackled space, but may have just changed strategy games forever"[^ref-5]. The game received universal acclaim, achieving a Metacritic score of 93 and earning numerous Game of the Year awards in 1999[^ref-6].
 
 Gearbox Software acquired the Homeworld intellectual property for $1.35 million at THQ's bankruptcy auction in April 2013, rescuing a franchise that had effectively disappeared from shelves after THQ bought Relic in 2004[^ref-8][^ref-7]. The remastering process took approximately two years, during which the development team worked with original artists and key members of the original development team to rebuild both games using the Homeworld 2 engine, adding support for HD, UHD, and 4K resolutions while maintaining the essence of the originals[^ref-7][^ref-3]. Brian Martel, Gearbox's Chief Creative Officer, emphasized that the studio had "great love and respect for Relic's brilliant, fun and innovative game"[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]], Aspyr (Mac)[^ref-1]
-> **Original Developer:** [[Relic Entertainment]][^ref-4]
-> **Designer:** Alex Garden, Erin Daly[^ref-10]
-> **Publisher:** Gearbox Software, 2K Games[^ref-3]
+> **Original Developer:** [[Relic Entertainment]][^ref-10]
+> **Original Designers (1999):** Alex Garden, Erin Daly[^ref-10]
+> **Publisher:** Gearbox Software (2015)[^ref-25][^ref-21]; now listed under Gearbox Publishing and 2K[^ref-68]
 > **Engine:** Homeworld 2 Engine[^ref-11]
 > **Platforms:** Windows, macOS[^ref-1]
 > **Release Year:** 2015
@@ -46,15 +46,15 @@ The Homeworld saga begins on the desert planet of Kharak, where the Kushan peopl
 
 The Kushan spend sixty years constructing the Mothership, a massive spacecraft-constructing vessel capable of carrying them across the galaxy to reclaim their ancestral home[^ref-14]. Central to this endeavor is Karan S'jet, who integrates herself into the Mothership's systems to become Fleet Command, sacrificing her physical independence to guide her people through the stars[^ref-14]. As the Mothership prepares for its maiden hyperspace jump, the Taiidan Empire discovers Kharak and destroys it utterly in retaliation for the Kushan developing forbidden hyperspace technology. The devastating moment is captured in Karan's anguished transmission: "No one's left. Everything's gone. Kharak is burning...!"[^ref-16].
 
-The survivors journey across the galaxy with their Mothership, facing pirates, mercenaries, and the forces of the Taiidan Empire as they fight to reach Hiigara[^ref-4].
+The survivors journey across the galaxy with their Mothership, facing pirates, mercenaries, and the forces of the Taiidan Empire as they fight to reach Hiigara[^ref-10].
 
 The narrative draws heavily from science fiction influences, with Alex Garden describing his vision as "a 3D game that looked like you were watching Star Wars but had a storyline like Battlestar Galactica"[^ref-10].
 
-The story was written by Arinn Dembo, an anthropologist and archaeologist who developed the basic social structure and cultural institutions of the Kushan, along with games journalist Martin Cirulis[^ref-17].
+Writer David J. Williams is credited with the original story concept[^ref-10]. Garden entrusted the in-game script and manual to games journalist Martin Cirulis and the world-building to Arinn Dembo, an anthropologist and archaeologist[^ref-17]. In Dembo's own account, Cirulis "scripted the game's story campaign, including all dialogue and speech events," while she "helped to develop the basic social structure and cultural institutions of the Kushan"; the two are credited jointly under the pseudonym "Marcus Skyler"[^ref-72].
 
 This emotional journey through 16 missions became one of gaming's most celebrated narratives, with IGN noting that "Homeworld tells a fantastic, emotional story – something very few real-time strategy games have done"[^ref-2].
 
-Homeworld 2, set years after the events of the first game, continues the saga as the Hiigaran people face a new threat from the Vaygr, a nomadic warrior race seeking control of the galaxy[^ref-18]. The sequel features significantly different ship designs and applications between the Vaygr and Hiigaran factions, expanding the tactical possibilities while maintaining the franchise's signature epic scale space battles[^ref-18].
+Homeworld 2, set years after the events of the first game, continues the saga as Hiigara responds to a new enemy, the Vaygr, whose warlord Makaan has begun a campaign of conquest[^ref-71]. Unlike the closely equivalent Kushan and Taiidan forces of the original game, Vaygr and Hiigaran ships differ significantly in design and application[^ref-71].
 
 ## Gameplay
 
@@ -66,7 +66,7 @@ Alex Garden acknowledged the interface challenges, noting "We had the basic cont
 
 ### Structure and Progression
 
-The original Homeworld campaign spans 16 missions that tell a continuous story of the Kushan exodus[^ref-20]. A defining feature of the series is the persistent fleet system: ships and resources carry over between missions, creating a genuine sense of attachment to individual units[^ref-4]. Game Informer noted players should "expect to get attached to your ships, which makes dangerous encounters even more intense"[^ref-21]. This persistence means that losses are permanent and victories have lasting impact throughout the campaign.
+The original Homeworld campaign spans 16 missions that tell a continuous story of the Kushan exodus[^ref-20]. A defining feature of the series is the persistent fleet system: ships and resources carry over between missions, creating a genuine sense of attachment to individual units[^ref-10]. Game Informer noted players should "expect to get attached to your ships, which makes dangerous encounters even more intense"[^ref-21]. This persistence means that losses are permanent and victories have lasting impact throughout the campaign.
 
 Key campaign missions include:
 - **Return to Kharak** – The devastating discovery of the homeworld's destruction, famously scored to Samuel Barber's "Adagio for Strings"[^ref-22]
@@ -93,7 +93,7 @@ Game Informer awarded 8/10, with Daniel Tack praising the collection while notin
 
 ### Original Homeworld Reception (1999)
 
-The original Homeworld achieved legendary status upon its 1999 release, becoming the highest-rated computer game of 1999 on Metacritic with a score of 93[^ref-6]. All Game Guide awarded 100/100, describing it as a title that makes you "pick your jaw up off the floor when you experience it for the first time"[^ref-6]. Adrenaline Vault also gave 100/100, calling Homeworld "the best multiplayer strategy game since" Total Annihilation[^ref-6].
+The original Homeworld achieved legendary status upon its 1999 release, becoming the highest-rated computer game of 1999 on Metacritic[^ref-10] with a score of 93[^ref-6]. All Game Guide awarded 100/100, describing it as a title that makes you "pick your jaw up off the floor when you experience it for the first time"[^ref-6]. Adrenaline Vault also gave 100/100, calling Homeworld "the best multiplayer strategy game since" Total Annihilation[^ref-6].
 
 GameSpy scored it 93/100, calling it "A truly groundbreaking RTS with no major flaws. The visuals and music are top-notch and the gameplay is on a grand scale. This is the first game I have played where I was truly inspired by the vastness of space"[^ref-6]. PC Gamer gave 93/100, praising the "Engrossing RTS play matched to a vital and visually intense story"[^ref-6]. IGN awarded 95/100, stating "We've rarely played a game with this much substance"[^ref-6].
 
@@ -105,7 +105,7 @@ Eurogamer scored the original 9/10, describing it as "a refreshing new take on t
 - **GOG User Rating:** 4.3/5[^ref-25]
 - **Steam User Rating:** 8.8/10[^ref-31]
 - **MobyGames (Original):** 8.4/10[^ref-13]
-- **MobyGames (GOTY Edition):** 7.4/10[^ref-32]
+- **MobyGames (GOTY Edition):** 7.6/10 (22 votes, as of October 26, 2026)[^ref-32]
 - **IMDB (Original):** 8.6/10[^ref-16]
 
 ### Awards
@@ -116,8 +116,8 @@ The original Homeworld won over 50 awards including multiple Game of the Year ac
 - **1999 Game Critics Awards Best Strategy** (beating Black & White)[^ref-35]
 - **Best Original Score** – Gaming Globes 2000[^ref-36]
 - **Best Original Storyline** – Gaming Globes 2000[^ref-36]
-- **Most Promising New Game (Best of Show)** – Game Critics Awards E3 1998[^ref-37]
-- **Best Real-Time Strategy Game** – Game Critics Awards E3 1998[^ref-37]
+- **Most Promising New Game** – Game Critics Awards E3 1998[^ref-73][^ref-37]
+- **Best Real-Time Strategy Game** – Game Critics Awards E3 1998[^ref-73][^ref-37]
 - **Computer Game of the Year** – D.I.C.E. Awards (nominated)[^ref-19]
 - **Computer Strategy Game of the Year** – D.I.C.E. Awards (nominated)[^ref-19]
 
@@ -125,7 +125,7 @@ The original Homeworld won over 50 awards including multiple Game of the Year ac
 
 ### Origins
 
-Relic Entertainment was founded in May 1997, specifically to create Homeworld[^ref-10][^ref-69][^ref-70]. The company was established above a nightclub in Vancouver by seven founders: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds[^ref-39][^ref-69][^ref-70]. Garden was just 22 years old when he founded the company, driven by a singular vision: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-17].
+Relic Entertainment was founded in May 1997, specifically to create Homeworld[^ref-69][^ref-70] (Wikipedia gives June 1, 1997[^ref-10]). The company was established above a nightclub in Vancouver by seven founders: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds[^ref-39][^ref-69][^ref-70]. Garden was 22 years old when he founded the company[^ref-10], driven by a singular vision: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-17].
 
 Garden secured Sierra On-Line's publishing agreement based on "two whiteboard presentations and no demo"[^ref-10], an extraordinary achievement that demonstrated the compelling nature of his vision. His design philosophy was refreshingly honest: "there's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke. The focus was making sure the space combat ruled"[^ref-10]. Garden predicted that "everyone is going to zoom right in on the first battle, just to watch"[^ref-10], recognizing the cinematic appeal of the game's visuals.
 
@@ -135,25 +135,24 @@ Development of the original Homeworld took over two years, approximately 28 mont
 
 The game was originally planned to feature non-linear campaign progression with star system navigation, but this was changed to a fixed ladder of scenarios during development[^ref-17]. Other cut features included ship customization, convoy routes, and different unit types between the Kushan and Taiidan fleets[^ref-10]. Garden told GameSpot France that Sierra did not pressure the team during the extended development, instead telling them "Prenez le temps nécessaire. Vous y êtes presque, ça serait dommage de tout abandonner si près du but" (Take the time you need. You're almost there, it would be a shame to give up so close to the goal)[^ref-40].
 
-The remastering process by Gearbox took approximately two years[^ref-7], beginning after their April 2013 acquisition[^ref-39]. The team faced significant technical challenges, as the original games were built on entirely different engines. Gearbox programmer noted, "I was a bit surprised when, earlier this year, I was told by a manager at Gearbox we were looking at bidding on the Homeworld franchise"[^ref-41]. The original source code drop from the IP purchase totaled 16.8 gigs, with an additional 39 gigs of missing source recovered from former developers[^ref-42]. Brian Burleson, lead producer, stated "The spirit of the team working on this at Gearbox is very focused on not re-inventing Homeworld"[^ref-42].
+The remastering process by Gearbox took approximately two years[^ref-7], beginning after their April 2013 acquisition[^ref-39]. The team faced significant technical challenges, as the original games were built on entirely different engines. Gearbox programmer noted, "I was a bit surprised when, earlier this year, I was told by a manager at Gearbox we were looking at bidding on the Homeworld franchise"[^ref-41]. The original source code drop from the IP purchase totaled 16.8 gigs, with an additional 39 gigs of missing source recovered from former developers[^ref-42]. Brian Burleson, the remaster's producer, stated "The spirit of the team working on this at Gearbox is very focused on not re-inventing Homeworld"[^ref-42].
 
 **Development Credits (Original Homeworld):**[^ref-32]
-- **Executive Producer/Co-Founder:** Alex Garden
-- **Co-Founder:** Luke Moloney
+- **Director:** Alex Garden
+- **Lead Programmer:** Luke Moloney
 - **Lead Designer:** Erin Daly
 - **Designers:** Adam Bullied, Quinn Duffy
 - **Art Director:** Rob Cunningham
 - **Lead Artist:** Aaron Kambeitz
-- **Composer:** Paul Ruskay
-- **Sound Designer:** Roger Savoie
-- **Writers:** Arinn Dembo, Martin Cirulis
+- **Music and Sound Effects:** Paul Ruskay, Roger Savoie
+- **Writers:** Martin Cirulis and Arinn Dembo (credited jointly as "Marcus Skyler")[^ref-72]; original story concept by David J. Williams[^ref-10]
 
-**Remaster Credits:**[^ref-1]
-- **Developer:** Gearbox Software
-- **Mac Developer:** Aspyr
-- **Producer:** Brian Burleson
-- **Chief Creative Officer:** Brian Martel
-- **Community Manager:** Chris Faylor
+**Remaster Credits:**
+- **Developer:** Gearbox Software[^ref-1]
+- **Mac Developer:** Aspyr[^ref-1]
+- **Producer:** Brian Burleson[^ref-42]
+- **Chief Creative Officer:** Brian Martel[^ref-9][^ref-42]
+- **Community Manager:** Chris Faylor[^ref-43]
 
 ### Technical Achievements
 
@@ -177,7 +176,7 @@ Brian Martel of Gearbox said the studio reassured the original developers "that 
 - **Recommended Graphics:** 12+ MB 3D Accelerated
 - **Audio:** 16-bit DirectX compatible sound card
 - **Media:** CD-ROM (4x minimum)
-- **Multiplayer:** Up to 8 players via Internet (WON.net), LAN (IPX and IP), or Modem[^ref-20]
+- **Multiplayer:** Up to 8 players via Internet (WON.net), or LAN (IPX and IP)[^ref-20]
 
 **Homeworld Remastered Collection (2015):**[^ref-3]
 - **Minimum OS:** Windows Vista
@@ -199,20 +198,20 @@ Several features were removed during development of the original game:
 - **Convoy routes**[^ref-10]
 - **Different unit types for Kushan and Taiidan fleets**[^ref-10]
 - **Non-linear campaign with star system navigation** – changed to fixed mission ladder[^ref-17]
-- **Fifth playable race** – originally planned to have 5 races, only 4 made final game[^ref-13]
+- **T-MAT race** – five races were planned (Taiidan, Kushan, Turanic Raiders, Kadeshi and T-MAT); the T-MAT were cut from the final game[^ref-13]
 
-The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), developed by Barking Dog Studios. IGN reported that Gearbox said too much of the source materials had been "lost or misplaced" to give Cataclysm the full remastering treatment[^ref-2], with the source code allegedly lost or incomplete[^ref-11]. Additionally, the **Yes song "Homeworld (The Ladder)"** that originally played during the credits was removed from digital releases due to licensing issues[^ref-17].
+The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), developed by Barking Dog Studios. IGN reported that Gearbox said too much of the source materials had been "lost or misplaced" to give Cataclysm the full remastering treatment[^ref-2], with the source code allegedly lost or incomplete[^ref-11]. Additionally, the **Yes song "Homeworld (The Ladder)"** that originally played during the credits has been removed from digital releases; the Digital Antiquarian's author suggested in a reader comment that this was "doubtless due to an expired license agreement"[^ref-17].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 28, 1999 | Windows | Original Homeworld release[^ref-4] |
-| 1.03 | September 16, 1999 | Windows | Bug fixes[^ref-45] |
+| 1.0 | September 28, 1999 | Windows | Original Homeworld release[^ref-13][^ref-10] |
+| 1.03 | 1999 | Windows | Bug fixes; the source FAQ dates this patch September 16, 1999, before the September 28 release, so the exact day is unconfirmed[^ref-45] |
 | 1.04 | October 21, 1999 | Windows | Balance changes (unit stats, build times)[^ref-45] |
 | 1.05 | March 27, 2000 | Windows | Final patch; removed "super"/"dancing" scouts, reduced repair rates[^ref-45] |
 | GOTY | 2000 | Windows | Game of the Year Edition[^ref-32] |
-| HW2 1.0 | September 16, 2003 | Windows | Homeworld 2 release[^ref-18] |
+| HW2 1.0 | September 16, 2003 | Windows | Homeworld 2 release (North America)[^ref-71] |
 | Remastered | February 25, 2015 | Windows | Homeworld Remastered Collection[^ref-25] |
 | Mac | August 6, 2015 | macOS | Mac release by Aspyr[^ref-44] |
 | Update | August 13 & 20, 2015 | Windows | Modder support and bug fixes[^ref-26] |
@@ -257,7 +256,7 @@ The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), deve
 - **DOK Badge:** Added in updates as a reference to Homeworld: Deserts of Kharak[^ref-26]
 - **Battlestar Galactica Influence:** Garden was a big fan of the 1978 *Battlestar Galactica* series[^ref-17], and Eurogamer's review called the game "Battlestar Galactica : The Game" in all but name[^ref-30]. The Eurogamer Gaming Globes piece noted the plot "bore more than a passing resemblance to cult 80s TV series Battlestar Galactica"[^ref-36]
 - **Development Location:** Relic was founded above a nightclub in Vancouver[^ref-17]
-- **Alex Garden's Age:** Garden was only 21 years old when he conceived Homeworld in spring 1997, founding the company at age 22[^ref-17]
+- **Alex Garden's Age:** Garden was only 21 years old when he conceived Homeworld in spring 1997, founding the company at age 22[^ref-10]
 - **Peter Molyneux Consultation:** Alex Garden consulted with legendary designer Peter Molyneux about game design[^ref-5]
 
 ## Voice Cast
@@ -279,7 +278,7 @@ The original voice cast was involved in the Remastered Collection[^ref-12], whic
 
 The original Homeworld sold over 500,000 copies in its first six months, and debuted in third place on Germany's computer game sales rankings for October 1999[^ref-10]. The game became one of Sierra's flagship titles, listed among the company's popular software alongside King's Quest, Grand Prix Legends, and NASCAR Racing[^ref-49].
 
-Following THQ's bankruptcy in January 2013, Gearbox acquired the Homeworld IP at auction for $1.35 million[^ref-11]. A fan group had attempted to raise funds via IndieGogo to acquire the franchise but only collected $13,000[^ref-9].
+After THQ's bankruptcy, Gearbox acquired the Homeworld IP at auction in April 2013 for $1.35 million[^ref-11][^ref-8]. A fan group had attempted to raise funds via IndieGogo to acquire the franchise but only collected $13,000[^ref-9].
 
 Homeworld 3's Fig crowdfunding campaign set a symbolic $1 goal and raised over $1.13 million, reaching "100,000,000% complete"[^ref-51]. The sequel was described as "20 years in the making"[^ref-33].
 
@@ -322,7 +321,7 @@ In September 2003, Relic publicly released the original Homeworld source code, e
 
 Homeworld's place in gaming history is secure as the progenitor of true 3D real-time strategy. PC Gamer's Fraser Brown reflected: "A fully 3D RTS set in space that looked that good didn't seem believable—surely it would end up being all eye candy and nothing else. But no, it was the real deal. From its hypnotic cosmic battles to its stirring orchestral score, it was, and still is, exceptional"[^ref-59]. The game proved that narrative could be central to the RTS experience, not merely decorative.
 
-The franchise's influence extends beyond gaming into other media, and an IMDb user review suggesting the original Homeworld "appears to have influenced" the reimagined Battlestar Galactica television series[^ref-16]. Maurice Pogue of Geeks Under Grace declared "Homeworld is the GOAT RTS franchise because it is the only RTS that has ever been able to execute true 3D z-axis movement with mastery"[^ref-60]. Screen Rant noted it "helped to shape the future of the RTS genre" and was the "highest-rated game of 1999 on the review site"[^ref-34].
+The franchise's influence extends beyond gaming into other media, and an IMDb user review suggesting the original Homeworld "appears to have influenced" the reimagined Battlestar Galactica television series[^ref-16]. Maurice Pogue of Geeks Under Grace declared "[Homeworld] is the GOAT RTS franchise because it is the only RTS that has ever been able to execute true 3D z-axis movement with mastery"[^ref-60]. Screen Rant noted it "helped to shape the future of the RTS genre" and was the "highest-rated game of 1999 on the review site"[^ref-34].
 
 The Remastered Collection demonstrated how to properly preserve gaming history. Engadget's review concluded: "Homeworld and Homeworld 2 are a pair of beautiful, clever, groundbreaking games that deserve to be played"[^ref-61]. Rob Cunningham, CEO of Blackbird Interactive and original Homeworld art director, reflected: "When we first created the original Homeworld, I never imagined that it would resonate so deeply with so many people"[^ref-33].
 
@@ -352,8 +351,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 
 [^ref-1]: [2K Games – Homeworld Remastered Collection](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs
 [^ref-2]: [IGN – Homeworld Remastered Collection Review](https://archive.today/20150225000233/http://www.ign.com/articles/2015/02/24/homeworld-remastered-collection-review) – 9.0/10 score, Dan Stapleton review, Cataclysm exclusion, technical issues
-[^ref-3]: [2K Games – Homeworld Official Site](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/) – publisher info, resolution support, marketing quotes
-[^ref-4]: Internet Archive – Homeworld ISO *(download link removed: the game is sold commercially)* – original release date, plot summary, gameplay features
+[^ref-3]: [2K Games – Homeworld Official Site](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/) – resolution support, marketing quotes (current 2K product page; names no publisher)
 [^ref-5]: [IGN – Original Homeworld Review (1999)](http://www.ign.com/articles/1999/10/01/homeworld) – Game of the Year status, Alex Garden quotes, difficulty assessment
 [^ref-6]: [Metacritic – Homeworld Critic Reviews](https://www.metacritic.com/game/homeworld/critic-reviews/?platform=pc) – 93 Metascore, individual publication scores, review excerpts
 [^ref-7]: [Engadget – Gearbox Homeworld Remastered Interview](https://www.engadget.com/2015-02-04-gearbox-homeworld-remastered-interview.html) – acquisition details, file size comparison, development timeline
@@ -366,7 +364,6 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-14]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – opening monologue, Mothership construction, Karan S'jet as Fleet Command, IGN Game of the Year
 [^ref-16]: [IMDB – Homeworld (1999)](https://www.imdb.com/title/tt0475297/) – voice cast, user rating, release date, Karan quote
 [^ref-17]: [The Digital Antiquarian – Homeworld](https://web.archive.org/web/20260324095619/https://www.filfre.net/2026/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
-[^ref-18]: Internet Archive – Homeworld 2 *(download link removed: the game is sold commercially)* – HW2 release date, Vaygr/Hiigaran details
 [^ref-19]: [D.I.C.E. Awards – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – interface description, award nominations
 [^ref-20]: [GameSpot – Original Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – 9/10 score, mission count, multiplayer details
 [^ref-21]: [Game Informer – Homeworld Remastered Review](https://www.gameinformer.com/games/homeworld_remastered/b/pc/archive/2015/03/03/reliving-the-sci-fi-past.aspx) – 8/10 score, persistent fleet, technical issues
@@ -409,6 +406,9 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-65]: [Steam Community Guide – Homeworld Remastered Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=402082412) – mission-by-mission strategy notes including Diamond Shoals difficulty assessment; user comment on adaptive-difficulty crash
 [^ref-66]: [Homeworld Universe – Homeworld Remastered Collection Is Coming to Epic Games Store](https://www.homeworlduniverse.com/homeworld-remastered-collection-is-coming-to-epic-games-store-egs/) – Epic Games Store release July 27, 2023
 [^ref-67]: [TechSpot – Homeworld Remastered Benchmarked (archived)](https://web.archive.org/web/20150309224831/http://www.techspot.com/review/970-homeworld-remastered-benchmarks/) – "winning both IGN and PC Gamer's game of the year award in 1999"
-[^ref-68]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – Steam store listing
+[^ref-68]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – Steam store listing; publishers currently listed as "Gearbox Publishing, Aspyr (Mac), 2K" (checked October 26, 2026)
 [^ref-69]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
 [^ref-70]: [MobyGames – Relic Entertainment Inc (Wayback, April 2023)](https://web.archive.org/web/20230424154622/https://www.mobygames.com/company/278/relic-entertainment-inc/) – company 278: "founded in May of 1997" with all seven founders named
+[^ref-71]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – Vaygr and Makaan story premise, Vaygr/Hiigaran ship differences, September 16, 2003 North American release
+[^ref-72]: [Arinn Dembo – Early Games (Wayback, December 2016)](https://web.archive.org/web/20161207052509/http://arinndembo.com/early-games/) – Dembo on her and Martin Cirulis's roles; joint "Marcus Skyler" credit
+[^ref-73]: [Game Critics Awards – 1998 Winners](http://www.gamecriticsawards.com/1998winners.html) – Homeworld won Most Promising New Game and Best Real-Time Strategy Game
