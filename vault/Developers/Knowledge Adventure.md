@@ -6,11 +6,11 @@ defunct: 2023
 headquarters: "Glendale, California, USA (1990s); later Torrance, California, USA"
 notable_games: ["JumpStart Series", "3-D Body Adventure", "Space Adventure"]
 parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ That shared ownership is how Knowledge Adventure came to make Dr. Brain games. J
 
 ### Cendant, Havas and Vivendi (1997–2004)
 
-When CUC merged with HFS in December 1997 to form Cendant, CUC Software became Cendant Software. In 1998 the French media group Havas agreed to buy Cendant Software. Havas was later acquired by Vivendi.[^ref-5][^ref-14] Knowledge Adventure moved with each sale. MobyGames summarises: "The company was shuffled to Havas Interactive and then to Vivendi as a result of acquisitions."[^ref-14] *JumpStart Phonics Learning System* won Computer Educational Title of the Year at the Academy of Interactive Arts & Sciences' 2000 awards.[^ref-7]
+When CUC merged with HFS in December 1997 to form Cendant, CUC Software became Cendant Software. In 1998 the French media group Havas agreed to buy Cendant Software. Havas was by then a subsidiary of Vivendi, and the sale was completed on 12 January 1999.[^ref-5][^ref-14][^ref-28] Knowledge Adventure moved with each sale. MobyGames summarises: "The company was shuffled to Havas Interactive and then to Vivendi as a result of acquisitions."[^ref-14] *JumpStart Phonics Learning System* won Computer Educational Title of the Year at the Academy of Interactive Arts & Sciences' 2000 awards.[^ref-7]
 
 ### Knowledge Holdings and JumpStart Games (2004–2023)
 
@@ -76,3 +76,4 @@ Knowledge Adventure titles covered in the vault (the full catalogue is listed on
 [^ref-25]: [MobyGames - Space Adventure](https://www.mobygames.com/game/6175/space-adventure/) — DOS 1992, Macintosh 1994, Windows 2014
 [^ref-26]: [MobyGames - 3-D Body Adventure](https://www.mobygames.com/game/6163/3-d-body-adventure/) — DOS 1994; Windows/Macintosh 1995
 [^ref-27]: [MobyGames - JumpStart Kindergarten](https://www.mobygames.com/game/149958/jumpstart-kindergarten/) — DOS release 14 November 1994
+[^ref-28]: [Cendant Corporation - Form 10-K/A for fiscal 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) — "On January 12, 1999, we completed the sale of Software to Paris based Havas SA, a subsidiary of Vivendi SA"
