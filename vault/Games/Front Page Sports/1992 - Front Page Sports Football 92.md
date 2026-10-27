@@ -118,7 +118,7 @@ Development was handled in-house at Dynamix[^ref-25]. MobyGames credits 28 peopl
 - **Programming Support:** Rhett Anderson, Stephen Cordon
 - **Tools Programming:** Piotr Lukaszuk
 - **Lead Tester:** Chris Medinger
-- **Q.A. Programming:** David Merrill, Scott Youngblood
+- **Q.A. Programming:** David Merrill, [[Scott Youngblood]]
 - **Testers:** James Domico, Christopher K. Singleton
 
 ### Technical Achievements

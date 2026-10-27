@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '*Front Page Sports: Football Pro ''96* was an American football
   simulation developed by Dynamix and published by Sierra On-Line on CD-ROM for
   DOS in late 1995.'
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Critics in 1995–96 still rated it the best football simulation available, whil
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Patrick Cook]] (original design); Scott Youngblood, [[Doug Johnson]] (additional design)[^ref-31]
+> **Designer:** [[Patrick Cook]] (original design); [[Scott Youngblood]], [[Doug Johnson]] (additional design)[^ref-31]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** High-resolution SVGA graphics engine[^ref-3]
 > **Platforms:** DOS (CD-ROM)[^ref-1]

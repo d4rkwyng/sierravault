@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Starsiege: Tribes", "Front Page Sports: Ski Racing", "Firefall"]
 companies: ["Dynamix", "Electronic Arts", "Pipeworks Software", "Sony Computer Entertainment America", "Red 5 Studios"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Scott Youngblood
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,13 @@ Scott Youngblood is a video game designer best known as the lead designer of Dyn
 
 ### Dynamix (1990–1999)
 
-By his own account, Youngblood worked at Dynamix from 1990 to 1999.[^ref-9] His earliest credits, from 1992, are in testing: Q.A. programming on Front Page Sports: Football and quality assurance on Aces of the Pacific and the Amiga version of The Adventures of Willy Beamish.[^ref-17] He then moved into design and production on the Front Page Sports line, with additional design and direction on Football Pro (1993), associate producer and additional design on Baseball '94 and Football Pro '96, and direction and design on Football Pro '97.[^ref-17] He was the credited designer of Front Page Sports: Ski Racing (1997).[^ref-17]
+By his own account, Youngblood worked at Dynamix from 1990 to 1999.[^ref-9] His earliest credits, from 1992, are in testing: Q.A. programming on Front Page Sports: Football and quality assurance on Aces of the Pacific and the Amiga version of The Adventures of Willy Beamish.[^ref-17] He then moved into design and production on the Front Page Sports line, with additional design and direction on Football Pro (1993), associate producer and additional design on Baseball '94 and Football Pro '96, and direction and design on Football Pro '97.[^ref-17][^ref-23][^ref-24][^ref-25][^ref-26] He was the credited designer of Front Page Sports: Ski Racing (1997).[^ref-17][^ref-27]
 
-He joined the Tribes team after completing Ski Racing, while the project was still codenamed "Fear," and led the game's first public demo.[^ref-21] He and lead software engineer Mark Frohnmayer had been playing competitive Quake together, and Youngblood has said: "I was trying to do something more than the other shooters that were out there."[^ref-21] Watching Dennis "Thresh" Fong win the 1997 Red Annihilation Quake tournament with rocket jumps shaped the game's jetpacks: "To be honest, that's where the jetpacks in Tribes came from. Here's a player who can do something so far outside the norms that changes the way he plays, and everyone has to change how they play too. That's cool."[^ref-5][^ref-21]
+He joined the Tribes team after completing Ski Racing, while the project was still codenamed "Fear," and led the game's first public demo.[^ref-21] He and lead software engineer Mark Frohnmayer had been playing competitive Quake together, and Youngblood has said: "I was trying to do something more than the other shooters that were out there."[^ref-21] Both took part in Red Annihilation, the Quake tournament at E3 1997, which The Ringer says drew close to 2,000 players;[^ref-21] Youngblood told PCGamesN: "Out of 3,500 people I made it to 117th, my friend Mark made it to 16th."[^ref-5] Watching Dennis "Thresh" Fong win the tournament with rocket jumps shaped the game's jetpacks: "To be honest, that's where the jetpacks in Tribes came from. Here's a player who can do something so far outside the norms that changes the way he plays, and everyone has to change how they play too. That's cool."[^ref-5][^ref-21]
 
 The "skiing" mechanic was found in-house. About halfway through development, software engineer Dave Moore, who was working on collisions and character movement, showed Youngblood a bug in which pressing jump cancelled the collision with the landscape.[^ref-21] "I looked at him and was like, 'Nope, don't fix it. This is now a feature,'" Youngblood recalls; he then designed the remaining maps with skiing in mind.[^ref-21] He has also said: "We were the guys that invented the concept of 'capture and hold,' which basically turned into all the point-defense games."[^ref-21] He has said the game could support up to 128 players under ideal conditions.[^ref-21]
 
-The Escapist reported that his plans for Tribes included a meta-game of resource gathering and territory grabbing, most of which was cut to ship the game.[^ref-15] He left Dynamix in 1999.[^ref-9] Tribes 2 (2001) credits him with Special Thanks.[^ref-17]
+The Escapist reported that his plans for Tribes included a meta-game of resource gathering and territory grabbing, most of which was cut to ship the game.[^ref-15] He left Dynamix in 1999.[^ref-9] Tribes 2 (2001) credits him with Special Thanks.[^ref-17] Accounts of his role on it differ: his self-reported history lists him as Associate Director on Tribes 2 ("Product management, design lead"),[^ref-9] Red 5's 2007 announcement called him "lead designer of StarSiege: Tribes, Tribes 2",[^ref-6] and his MobyGames biography also names him lead designer on both games,[^ref-22] but MobyGames' credits for Tribes 2 list him only under Special Thanks.[^ref-17]
 
 ### Electronic Arts and Pipeworks (1999–2001)
 
@@ -37,7 +37,7 @@ Youngblood joined Sony Computer Entertainment America's Bend studio in 2001, nea
 
 ### Red 5 Studios (2007–2014)
 
-In April 2007, Red 5 Studios announced that Youngblood had accepted a position at the studio.[^ref-6][^ref-4][^ref-1] He had been recruited through Red 5's "Golden Ticket" campaign, and he described receiving it in a 2007 interview: "I'll just describe what it was like getting one of these 'golden tickets,' as they're referred to around here. This overnight package shows up to my office at Sony--I had no idea what it is."[^ref-13][^ref-19]
+In April 2007, Red 5 Studios announced that Youngblood had accepted a position at the studio.[^ref-6][^ref-4][^ref-1][^ref-22] He had been recruited through Red 5's "Golden Ticket" campaign, and he described receiving it in a 2007 interview: "I'll just describe what it was like getting one of these 'golden tickets,' as they're referred to around here. This overnight package shows up to my office at Sony--I had no idea what it is."[^ref-13][^ref-19]
 
 Mark Kern, Red 5's president and CEO, said at the time: "Scott is exactly the caliber of team member we're looking for at Red 5. We founded this company on passion and vision, two qualities that Scott has embodied throughout his career as a top-tier game designer."[^ref-6] Youngblood said: "When Mark asked me to join Red 5, I was blown away by the vast and vibrant world they're creating and by the company they're building. It's a combination I couldn't refuse."[^ref-6]
 
@@ -51,7 +51,7 @@ Youngblood is credited with lead design on Starsiege: Tribes.[^ref-17] A team of
 
 ### Front Page Sports: Ski Racing (1997)
 
-Ski Racing was Youngblood's first credit as designer. He is also credited with its video script and game documentation.[^ref-17] The Ringer notes that he came to Tribes "just after completing an actual skiing game."[^ref-21]
+Ski Racing was the first game to credit Youngblood with the title Designer; he already had design credits on the Front Page Sports line, from additional design and direction on Football Pro (1993) to direction and design on Football Pro '97 (1996).[^ref-17][^ref-23][^ref-26] He is also credited with its video script and game documentation.[^ref-17][^ref-27] The Ringer notes that he came to Tribes "just after completing an actual skiing game."[^ref-21]
 
 ### Firefall (2014)
 
@@ -109,5 +109,11 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 [^ref-13]: [Shacknews - Red 5 Studios' Mark Kern and Scott Youngblood (April 18, 2007)](https://www.shacknews.com/article/46617/red-5-studios-mark-kern) — Interview: Golden Ticket recruitment, Majestic content work, Tribes lead designer
 [^ref-15]: [The Escapist - Lead Designer: Firefall Is the Evolution of Tribes (April 7, 2012)](https://www.escapistmagazine.com/lead-designer-firefall-is-the-evolution-of-tribes/) — Cut Tribes resource meta-game revived in Firefall
 [^ref-17]: [MobyGames Credits](https://www.mobygames.com/person/40327/scott-youngblood/credits/) — Complete game credits listing (30 credits on 20 games)
+[^ref-22]: [MobyGames - Scott Youngblood (Wayback Machine, April 6, 2024)](https://web.archive.org/web/20240406093243/https://www.mobygames.com/person/40327/scott-youngblood/) — Archived profile: biography (Tribes and Tribes 2 lead designer, Dark Mirror, Red 5 in April 2007) and credits
+[^ref-23]: [MobyGames - Front Page Sports: Football Pro (1993) DOS credits (Wayback Machine, June 11, 2022)](https://web.archive.org/web/20220611231127/https://www.mobygames.com/game/dos/front-page-sports-football-pro/credits) — Designer and Director Patrick Cook; Additional Design and Direction Scott Youngblood
+[^ref-24]: [MobyGames - Front Page Sports: Baseball '94 DOS credits (Wayback Machine, December 23, 2024)](https://web.archive.org/web/20241223134718/https://www.mobygames.com/game/4437/front-page-sports-baseball-94/credits/dos/) — Associate Producer and Additional Design: Scott Youngblood
+[^ref-25]: [MobyGames - Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) — DOS credits: Associate Producer and Additional Design, Scott Youngblood (read from a January 2026 copy; game ID confirmed via the MobyGames API)
+[^ref-26]: [MobyGames - Front Page Sports: Football Pro '97 Windows credits (Wayback Machine, June 25, 2024)](https://web.archive.org/web/20240625091314/https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/windows/?autoplatform=true) — Direction and Design: Scott Youngblood
+[^ref-27]: [MobyGames - Front Page Sports: Ski Racing Windows credits (Wayback Machine, March 9, 2024)](https://web.archive.org/web/20240309095705/https://www.mobygames.com/game/41426/front-page-sports-ski-racing/credits/windows/) — Designer, Video Production Script and Game Documentation: Scott Youngblood
 [^ref-19]: [Ten Ton Hammer - Interview with Red 5's Scott Youngblood and Rob Garrett (September 17, 2007)](https://www.tentonhammer.com/articles/an-interview-with-red-5-s-scott-youngblood-and-rob-garrett) — Golden Ticket recruiting program
 [^ref-21]: [The Ringer - Before There Was 'Fortnite,' There Was 'Starsiege: Tribes' (December 5, 2018)](https://www.theringer.com/2018/12/05/video-games/starsiege-tribes-anniversary-first-person-shooters-fortnite-influence) — Tribes history with Youngblood interviews: Ski Racing, Thresh, Dave Moore's skiing bug, 'capture and hold', 128 players, awards, sales

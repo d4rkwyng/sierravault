@@ -27,7 +27,7 @@ Computer Gaming World's December 1993 review by Wallace Poulter judged that "the
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-3]
-> **Designer:** [[Patrick Cook]], [[Scott Youngblood]][^ref-6]
+> **Designer:** [[Patrick Cook]], [[Scott Youngblood]][^ref-29]
 > **Publisher:** [[Dynamix]] (Sierra subsidiary)[^ref-3][^ref-16]
 > **Engine:** Front Page Sports engine[^ref-3]
 > **Platforms:** DOS[^ref-3][^ref-7]
@@ -178,3 +178,4 @@ Wikipedia's series article concludes that Front Page Sports Football "made it po
 [^ref-26]: [Computer Gaming World #140 (March 1996) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n245/mode/1up) – Hall of Fame: Front Page Sports Football Pro, Sierra/Dynamix 1993; project leader Patrick Cook
 [^ref-27]: [Computer Gaming World #111 (October 1993) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_111/page/n73/mode/1up) – 1993 Sports Game of the Year: Front Page Sports: Football (the 1992 original)
 [^ref-28]: [Computer Gaming World #148 (November 1996) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_148/page/n68/mode/1up) – 150 Best Games of All Time: "11. FPS Football 1995, Sierra, 1994"
+[^ref-29]: [MobyGames – Front Page Sports: Football Pro (1993) DOS credits (Wayback Machine, June 11, 2022)](https://web.archive.org/web/20220611231127/https://www.mobygames.com/game/dos/front-page-sports-football-pro/credits) – Designer and Director Patrick Cook; Additional Design and Direction Scott Youngblood
