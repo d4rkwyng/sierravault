@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Player-controlled Terrorist or Counter-Terrorist operatives
 sierra_lineage: Sierra Published
-last_updated: '2026-10-19'
+last_updated: '2026-10-26'
 description: 'Half-Life: Counter-Strike is a 2000 tactical first-person shooter developed
   by Valve Corporation and published by Sierra Studios, which began life as a free
   Half-Life modification created by Minh Le and Jess Cliffe.'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -310,7 +310,7 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-36]: [Xbox GameSpy – Counter-Strike Review](http://xbox.gamespy.com/xbox/counter-strike/6362p1.html) – Xbox release date, review
 [^ref-37]: [MobyGames – Patch History](https://www.mobygames.com/game/2726/half-life-counter-strike/patches/) – patch version dates
 [^ref-39]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – compilation contents, Spanish localization issues
-[^ref-42]: [Gearbox Software – Half-Life: Counter-Strike](https://web.archive.org/web/20170630013307/http://www.gearboxsoftware.com/game/half-life-counter-strike/) – official package description (archived 2017)
+[^ref-42]: [Gearbox Software – Half-Life: Counter-Strike](https://web.archive.org/web/20170630013307/http://www.gearboxsoftware.com/game/half-life-counter-strike/) – official package description (archived 2017); note: this 2017 page lists Gearbox Software as developer and Valve Software as publisher, but Sierra Studios published the 2000 retail release and this page credits Valve as developer (see ref-1, ref-32)
 [^ref-43]: [Escapist Magazine – Brazil Bans Counter-Strike](http://www.escapistmagazine.com/news/view/80757-Brazil-Bans-Counter-Strike-EverQuest) – legal controversy
 [^ref-44]: [Schnittberichte – Counter-Strike German Versions](https://www.schnittberichte.com/schnittbericht.php?ID=923471) – German controversy, BPjS decision, censorship
 [^ref-45]: [Polygon – Condition Zero Linux Release](https://www.polygon.com/2013/3/6/4072666/counter-strike-condition-zero-now-available-linux-steam) – sequel developers

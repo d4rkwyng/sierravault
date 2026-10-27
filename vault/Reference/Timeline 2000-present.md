@@ -226,7 +226,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] (Prophecy Games, developer and publisher; Early Access, March 12, 2024) — Hi-Rez Studios bought the Tribes IP in 2010 and spun its Tribes subsidiary off as Prophecy Games in 2020[^ref-23][^ref-24]
 - *[[TBD - Gabriel Knight 4 - Five Hearts|Five Hearts]]*: Jane Jensen releases the first chapter of a new Gabriel Knight short story (November 19, 2024)[^ref-36]
 
-**Corporate:** [[Relic Entertainment]] announces on March 28, 2024 that an external investor has helped it go independent from SEGA.[^ref-3] Take-Two agrees to buy Gearbox, and with it the *Homeworld* franchise, from Embracer (announced March 28, 2024).[^ref-35]
+**Corporate:** [[Relic Entertainment]] announces on March 28, 2024 that an external investor has helped it go independent from SEGA.[^ref-3] Take-Two agrees to buy Gearbox, and with it the *Homeworld* franchise, from Embracer (announced March 27, 2024 by Take-Two; Embracer dated its announcement March 28).[^ref-35][^ref-68]
 
 ## 2025
 
@@ -324,3 +324,4 @@ Three patterns characterize this period:
 [^ref-65]: [Steam — Gold Rush! Anniversary](https://store.steampowered.com/app/319230/) — developer and publisher Sunlight Games; "Nov 7, 2014"
 [^ref-66]: [Steam — Gold Rush! 2](https://store.steampowered.com/app/609100/) — developer and publisher Sunlight Games; "Apr 28, 2017"
 [^ref-67]: [Adventure Game Studio — King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) — "Release Date 5 May 2021"; "Release Type Freeware"
+[^ref-68]: [Take-Two Interactive - Take-Two Interactive Software, Inc. to Acquire The Gearbox Entertainment Company](https://www.take2games.com/ir/news/take-two-interactive-software-inc-acquire-gearbox-entertainment) — "NEW YORK --(BUSINESS WIRE)--Mar. 27, 2024"; $460 million
