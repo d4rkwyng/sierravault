@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-24'
+last_updated: '2026-10-26'
 description: Silpheed is a polygon-based vertical scrolling shooter by Game Arts that debuted on the Japanese NEC PC-8801 in 1986 and was published in North America by Sierra On-Line in 1988-1989.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: October 24, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -122,6 +122,7 @@ The TRS-80 CoCo port presented particular challenges. Programmer Robert Lindsley
 - **Chief Designer:** Takeshi Miyaji
 - **Assistant Designers:** Hiromi Ohba (pen name of Masakuni Mitsuhashi), Osamu Harada[^ref-32]
 - **Music \#1–\#4:** Mecano Associates (Fumihito Kasatani, Nobuyuki Aoshima)
+- **Sub programer [sic] (Music and opening):** [[Hibiki Godai]][^ref-64]
 - **Music \#5–\#12:** Game Arts music staff (Hiromi Ohba, Hibiki Godai)
 - **Voice of Xacalite:** Masakuni Mitsuhashi
 - **Voice of Wolf Control:** Satoshi Uesaka
@@ -329,3 +330,4 @@ Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it sa
 [^ref-61]: [MobyGames – Silpheed DOS Specs](https://www.mobygames.com/game/167/silpheed/specs/dos/) – video modes, sound devices, joystick, media, minimum requirements
 [^ref-62]: [MobyGames – Silpheed DOS Credits](https://www.mobygames.com/game/167/silpheed/credits/dos/) – US programming, music development and editing credits
 [^ref-63]: [MobyGames – Silpheed Releases](https://www.mobygames.com/game/167/silpheed/releases/) – release dates by platform, DOS versions 1.0/2.3/2.4, Switch release dates
+[^ref-64]: [MobyGames – Silpheed PC-88 Credits (Wayback, December 2023)](https://web.archive.org/web/20231205005818/https://www.mobygames.com/game/167/silpheed/credits/pc88/) – "Sub programer (Music and opening) Hibiki Godai"

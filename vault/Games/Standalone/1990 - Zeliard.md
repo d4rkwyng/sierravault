@@ -11,7 +11,7 @@ series: Standalone
 engine: Game Arts proprietary (PC-88 original, modified by Sierra for DOS)
 protagonist: Duke Garland
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Zeliard is a side-scrolling action role-playing game developed by Game
   Arts for the NEC PC-8801 in 1987 and published for MS-DOS in North America and
   Europe by Sierra On-Line in 1990.
@@ -20,7 +20,7 @@ composer: [Fumihito Kasatani, Nobuyuki Aoshima]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,8 @@ The localization introduced notable changes: enemies give more experience points
 - **Story:** Masaru Takeuchi
 - **System Designer:** Rocky Cave Maker
 - **English Text Translation and Documentation:** Marti McKenna
-- VGMRips' Tandy 1000 music pack also lists Hibiki Godai and Masakuni Mitsuhashi among the composers[^ref-25]
+- VGMRips' Tandy 1000 music pack also lists [[Hibiki Godai]] and Masakuni Mitsuhashi among the composers[^ref-25]
+- MobyGames' PC-88 credits list Naozumi Honma, Takeshi Miyaji and Hibiki Godai as "Sub Programmer"[^ref-39]
 
 ### Technical Achievements
 
@@ -307,3 +308,4 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 [^ref-36]: [The Games Machine (Italy) #29, March 1991, pp. 86–87 – Zeliard review by Giorgio Baldaccini](https://archive.org/details/the-games-machine-italia-29/page/n85/mode/2up) – "Globale 81%", L. 59.000, 512K RAM, CGA/EGA/VGA modes, AdLib/Roland, "orribile confezione"
 [^ref-37]: [Sierra News Magazine, Fall 1990 (Vol. 3 No. 3)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n48/mode/2up) – p. 49 "Game Arts' answer to the role playing adventure"; p. 18 preview; p. 55 price list, Zeliard NEW $34.95
 [^ref-38]: [InterAction Magazine, Winter 1992 (Vol. V No. 4)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US/page/n59/mode/2up) – Action 5 bundle: Thexder, Silpheed, Firehawk, Oil's Well and Zeliard for $39.95
+[^ref-39]: [MobyGames – Zeliard PC-88 Credits (Wayback, August 2024)](https://web.archive.org/web/20240818113020/https://www.mobygames.com/game/189/zeliard/credits/pc88/?autoplatform=true) – "Sub Programmer Naozumi Honma, Takeshi Miyaji, Hibiki Godai"

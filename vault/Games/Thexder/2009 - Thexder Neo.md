@@ -10,18 +10,18 @@ series: Thexder
 engine: null
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Thexder Neo is Zereo's 2009 remake of Game Arts' 1985 transforming-robot shooter Thexder, published by Square Enix as a PlayStation Network download for PSP (2009) and PS3 (2010). Sierra had no part in it.
 composer: [Kazumi Mitome]
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Thexder Neo is a remake of Game Arts' 1985 side-scrolling shooter Thexder, developed by Zereo and published by Square Enix[^ref-1][^ref-9]. It was released as a PlayStation Network download for the PlayStation Portable on October 1, 2009, and for the PlayStation 3 on January 28, 2010[^ref-9][^ref-29]. The game credits Game Arts as presenter and lists the original game's creators, Hibiki Godai and Satoshi Uesaka, under "Original Thexder Staff"; the remake itself was directed by Masayuki Shimada[^ref-32].
+Thexder Neo is a remake of Game Arts' 1985 side-scrolling shooter Thexder, developed by Zereo and published by Square Enix[^ref-1][^ref-9]. It was released as a PlayStation Network download for the PlayStation Portable on October 1, 2009, and for the PlayStation 3 on January 28, 2010[^ref-9][^ref-29]. The game credits Game Arts as presenter and lists the original game's creators, [[Hibiki Godai]] and Satoshi Uesaka, under "Original Thexder Staff"; the remake itself was directed by Masayuki Shimada[^ref-32].
 
 Square Enix's European press release described the original as "a side-scrolling shooter featuring slick animation, strategic transforming-mech gameplay, and spectacular homing lasers", and promised that players could "experience the excitement of the original, complete with revamped graphics, a novice mode, six-player online races, and a host of other all-new features in THEXDER NEO"[^ref-30]. In Europe it was a launch title for the PSP Go, priced at £7.99[^ref-30].
 
