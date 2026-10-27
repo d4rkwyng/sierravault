@@ -10,7 +10,7 @@ series: King's Quest (unofficial fan game)
 engine: Torque Game Engine
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: The Silver Lining (TSL) is an episodic fan-made adventure game based
   on Sierra's beloved King's Quest series, developed and released in free download
   format...
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -62,7 +62,7 @@ The game was designed as an episodic adventure divided into multiple chapters:[^
 - **Episode 1: What Is Decreed Must Be** – Released July 10, 2010; introduces the curse and Graham's initial investigation[^ref-4][^ref-21]
 - **Episode 2: Two Households** – Released September 18, 2010; adds new locations such as Chess Land and Nymph Island, plus interface improvements[^ref-4][^ref-22]
 - **Episode 3: My Only Love Sprung from My Only Hate** – Released February 17, 2011; contains more puzzles than the first two episodes[^ref-4][^ref-19]
-- **Episode 4: 'Tis in My Memory Locked, And You Yourself Shall Hold the Key of It** – Released November 6, 2011; the final released episode[^ref-4]
+- **Episode 4: 'Tis in My Memory Locked, And You Yourself Shall Keep the Key of It** – Released November 6, 2011; the final released episode[^ref-4][^ref-27]
 - **Episode 5: A Thousand Times Good Night** – Announced but never released; remains in development limbo[^ref-1][^ref-5]
 
 ### Puzzles and Mechanics
@@ -117,9 +117,9 @@ The game presents the Green Isles as a 3D world built with the Torque Game Engin
 - **Graphics:** 3D video card required (NVIDIA GeForce 5200FX+ or ATI Radeon 8500+)
 - **Software:** .NET Framework 1.1 or higher
 
-**Download Statistics (Demo, as shown on the archive page, October 2026):**[^ref-2]
-- Public Demo RC1: 69,614 downloads
-- RC1 Patch v.2.0: 22,836 downloads
+**Download Statistics (Demo, as shown on the archive page, October 26, 2026):**[^ref-2]
+- Public Demo RC1: 69,642 downloads
+- RC1 Patch v.2.0: 22,845 downloads
 - Fan Hintbook: 13,714 downloads
 
 ### Version History
@@ -130,7 +130,7 @@ The game presents the Green Isles as a 3D world built with the Torque Game Engin
 | Episode 1 | July 10, 2010 | Windows | "What Is Decreed Must Be"[^ref-4] |
 | Episode 2 | September 18, 2010 | Windows | "Two Households"[^ref-4] |
 | Episode 3 | February 17, 2011 | Windows | "My Only Love Sprung from My Only Hate"[^ref-4] |
-| Episode 4 | November 6, 2011 | Windows | "'Tis in My Memory Locked..."[^ref-4] |
+| Episode 4 | November 6, 2011 | Windows | "'Tis in My Memory Locked..."[^ref-4][^ref-27] |
 
 ### Technical Issues
 
@@ -158,7 +158,7 @@ After Episodes 3 and 4, many team members moved to paid work on the studio's sec
 
 ### Related Publications
 
-- **Fan Hintbook:** Community-created guide, adopted as the official TSL Fan Hintbook, downloaded 13,714 times[^ref-2]
+- **Fan Hintbook:** Community-created guide, adopted as the official TSL Fan Hintbook, downloaded 13,714 times as of October 26, 2026[^ref-2]
 
 ### Critical Perspective
 
@@ -211,3 +211,4 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 [^ref-24]: [IGN – King's Quest Lives Again (David Adams, December 9, 2005; archived)](https://web.archive.org/web/20051212060506/http://pc.ign.com/articles/674/674825p1.html) – VU Games approval provided the game be renamed The Silver Lining
 [^ref-25]: [GameSpy – KQIX: The Silver Lining – A Talk with Phoenix Online Studios, page 3 (December 2005; archived)](https://web.archive.org/web/20130414213037/http://pc.gamespy.com/pc/freeware-king8217s-quest-ix/677071p3.html) – Bittar and Salazar on the C&D and the fan campaign's role
 [^ref-26]: [Adventure Game Studio – King's Quest IX: The Silver Lining VGA (Demo I)](https://www.adventuregamestudio.co.uk/site/games/game/1345/) – KQIX-Team AGS remake demo, released August 23, 2010, "an upcoming remake of The Silver Lining"
+[^ref-27]: [Phoenix Online Studios blog – Episode 4 is available NOW! (Katie Hallahan, November 6, 2011; archived)](https://web.archive.org/web/20111110102700/http://www.postudios.com:80/blog/?p=1455) – Episode 4 release announcement with full episode title, 647 MB patch and 1.7 GB full build

@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
  AGD...'
@@ -19,7 +19,7 @@ composer: [Tom Lewandowski, Dianne Lewandowski]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ King's Quest II: Romancing the Stones is a fan-made remake of Sierra's 1985 clas
 
 The original premise is kept: newly crowned King Graham travels to the land of Kolyma to rescue the maiden Valanice from a quartz tower and make her his queen[^ref-5]. Around that skeleton the remake builds a much larger story, with new characters, rival factions and ties to the wider King's Quest series[^ref-26][^ref-25].
 
-The game was built with Adventure Game Studio[^ref-1][^ref-23]. It swept the 2002 AGS Awards, winning Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27], and was later updated into a 2009 Enhanced Edition (version 3.0) with redrawn backgrounds and full narration[^ref-23][^ref-24].
+The game was built with Adventure Game Studio[^ref-1][^ref-23]. It won six categories at the 2002 AGS Awards: Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27][^ref-29]. It was later updated into a 2009 Enhanced Edition (version 3.0) with redrawn backgrounds and full narration[^ref-23][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[AGD Interactive]][^ref-1]
@@ -73,7 +73,7 @@ As a free fan project, Romancing the Stones received limited commercial review c
 
 ### Modern Assessment
 
-*GamesRadar* listed the game as one of the top thirty free downloadable games[^ref-26]. Hardcore Gaming 101 concluded that "there's no doubt that the remake is a more engrossing, and ultimately much more enjoyable product," while noting that "some fans have expressed annoyance with the way the writers played with the King's Quest canon"[^ref-11]. Reviewing AGD Interactive's later *King's Quest III Redux* in 2011, the Waterloo-Cedar Falls *Courier* summarized the KQ2 remake as "adding several new puzzles and an actual plot," but criticized Redux's plot, a continuation of the KQ2 remake's, for trying to cram previously unconnected events into "a neat little box with a ribbon and a bow"[^ref-28].
+*GamesRadar* listed the game as one of the top thirty free downloadable games[^ref-26]. Hardcore Gaming 101 concluded that "there's no doubt that the remake is a more engrossing, and ultimately much more enjoyable product," while noting that "some fans have expressed annoyance with the way the writers played with the King's Quest canon"[^ref-11]. On March 3, 2011, the Waterloo-Cedar Falls *Courier* ran Alan Simmer's article "'King's Quest' fan games recall – and rewrite – the good old days"; the article body is behind a paywall and could not be checked for this page[^ref-28].
 
 By September 2010, AGD Interactive reported the remake had been downloaded over 510,400 times[^ref-23]. MobyGames and LaunchBox both catalogue the game, with MobyGames listing Windows, Linux and Macintosh releases[^ref-6][^ref-20].
 
@@ -146,7 +146,7 @@ The game remains available as a free download from AGD Interactive's official we
 
 ### Fan Projects
 
-AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot and lore established in Romancing the Stones[^ref-1][^ref-28]. The team also remade *Quest for Glory II: Trial by Fire*, released in August 2008[^ref-1].
+AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot and lore established in Romancing the Stones[^ref-1][^ref-30]. The team also remade *Quest for Glory II: Trial by Fire*, released in August 2008[^ref-1].
 
 ## Downloads
 
@@ -183,7 +183,7 @@ AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot a
 [^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – v3.1 download, save compatibility, Windows and Mac system requirements
 [^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, reasons for the remake
 [^ref-6]: [MobyGames – King's Quest II: Romancing the Stones](https://www.mobygames.com/game/8028/kings-quest-ii-romancing-the-stones/) – database entry; Windows, Linux and Macintosh releases
-[^ref-11]: [Hardcore Gaming 101 – King's Quest II: Romancing the Throne](https://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) – retrospective covering AGD Interactive's 2002 remake, story and puzzle changes
+[^ref-11]: [Hardcore Gaming 101 – King's Quest II: Romancing the Throne](https://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) – retrospective covering AGD Interactive's 2002 remake, story and puzzle changes ([archived copy, January 20, 2025](https://web.archive.org/web/20250120234213/http://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/))
 [^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — developer and distribution site for the free remakes
 [^ref-19]: [DOS Games Archive – Tierra Entertainment / AGD Interactive profile](https://www.dosgamesarchive.com/profile/tierra-entertainment---agd-interactive) — developer profile listing the KQ1 VGA (2001) and KQ2 (2002) freeware remakes
 [^ref-20]: [LaunchBox Games Database – King's Quest II: Romancing the Stones (2002)](https://gamesdb.launchbox-app.com/games/details/24731) — database entry, Windows, homebrew
@@ -192,5 +192,6 @@ AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot a
 [^ref-25]: [AGD Interactive – King's Quest II FAQ](https://www.agdinteractive.com/games/kq2/faq/faq.html) – title change, map and plot changes
 [^ref-26]: [Wikipedia – King's Quest II: Romancing the Stones](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Stones) – plot, characters, development, version history, GamesRadar listing
 [^ref-27]: [Adventure Game Studio Wiki – AGS Awards 2002](https://www.adventuregamestudio.co.uk/wiki/AGS_Awards_2002) – award results for games released in 2002
-[^ref-28]: [Waterloo-Cedar Falls Courier – 'King's Quest' fan games recall – and rewrite – the good old days](https://wcfcourier.com/entertainment/games/article_05062ecb-5bcf-5fab-8fb9-c77dddfde71c.html) – Alan Simmer, March 3, 2011
-[^ref-29]: [Adventure Game Studio – King's Quest II+ VGA](https://www.adventuregamestudio.co.uk/site/games/game/144/) – AGS games database entry: release date, 320x200 graphics, narration
+[^ref-28]: [Waterloo-Cedar Falls Courier – 'King's Quest' fan games recall – and rewrite – the good old days](https://wcfcourier.com/entertainment/games/article_05062ecb-5bcf-5fab-8fb9-c77dddfde71c.html) – Alan Simmer, March 3, 2011 (subscriber article; body not verified)
+[^ref-29]: [Adventure Game Studio – King's Quest II+ VGA](https://www.adventuregamestudio.co.uk/site/games/game/144/) – AGS games database entry: release date, 320x200 graphics, narration, six AGS Awards 2002 wins
+[^ref-30]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – KQ3 Redux "continuing ideas that first appeared in Romancing the Stones"
