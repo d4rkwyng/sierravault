@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: Pepper's Adventures in Time is a 1993 educational adventure game from
   Sierra On-Line's Discovery Series, in which Pepper Pumpernickel and her dog Lockjaw
   travel back to 1764 Philadelphia to set Benjamin Franklin's history right.
@@ -18,13 +18,13 @@ tags: [1990s, educational, sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. MobyGames and PCGamingWiki both credit Sierra On-Line as the developer[^ref-5][^ref-7]. The game teaches American colonial history through interactive play, following a young tomboy named Pepper Pumpernickel and her pit bull Lockjaw as they are sent back in time to 1764 Philadelphia, where history has gone wrong[^ref-1].
 
-Part of Sierra's Discovery Series, the game was described by *Every Family's Guide to Computers* (1995) as teaching through "learning by contrast": the player is shown a distorted historical scenario and has to correct it[^ref-1]. It was intended to be the first in a franchise that never took off[^ref-4], and Hardcore Gaming 101 called it "one of Sierra's most creative games" despite its being "largely ignored for its association" with Sierra's other educational titles[^ref-4].
+Part of Sierra's Discovery Series, the game was described by *Every Family's Guide to Computers* (1995) as teaching through "learning by contrast": the player is shown an incomplete historical scenario and has to correct it[^ref-1]. It was intended to be the first in a franchise that never took off[^ref-4], and Hardcore Gaming 101 called it "one of Sierra's most creative games" despite its being "largely ignored for its association" with Sierra's other educational titles[^ref-4].
 
 In a 2011 Dorkly list of educational games that "actually weren't that bad", Brandon Hoang wrote: "Back in the early 90s, Sierra was churning out edutainment titles faster than you can say '3-2-1 Contact'. Pepper's Adventures in Time was one of the best." He also called the character designs "hilarious" and the dialogue "pretty damn witty for a game aimed at a younger audience"[^ref-24]. MobyGames notes that the cartoonish graphics, similar in style to *Day of the Tentacle*, were chosen to appeal to younger audiences[^ref-5].
 
@@ -43,7 +43,7 @@ Evan of AdventureGamers, who ranked the game #19 in his Top 20 Adventure Games o
 
 ## Story Summary
 
-The story begins when Pepper's evil Uncle Fred builds a time machine with nefarious intentions[^ref-8]. Lockjaw is thrown into the machine, and Pepper follows him back to the year 1764[^ref-9], landing in colonial Philadelphia[^ref-8]. Fred's plan is to turn Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and so make "the American revolution all but impossible"[^ref-2].
+The story begins when Pepper's evil Uncle Fred has created a time machine[^ref-1][^ref-8]. Lockjaw is thrown into the machine, and Pepper follows him back to the year 1764[^ref-9], landing in colonial Philadelphia[^ref-1]. Fred's plan is to turn Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and so make "the American revolution all but impossible"[^ref-2].
 
 TV Tropes summarizes the scene: Pepper and Lockjaw watch Fred dump some doctored "essence of 1968" into the machine, turning the Founding Father into a "blissed-out, spineless flower child"[^ref-10]. The result is a 1764 Philadelphia mixed with the 1960s American counterculture, with Franklin recast as a hippie[^ref-1].
 
@@ -67,7 +67,7 @@ Playing as Lockjaw gives the player a different icon bar and different ways to i
 
 ### Puzzles and Mechanics
 
-Puzzles combine historical knowledge with traditional adventure game logic[^ref-14]. The Adventurer's Guild blog found a "pixel hunt" about two hours in, which it called "the first painful situation in the game", and wrote of a later sequence: "The whole sequence entails a lot of (unclued) trial and (unprovoked) error. Consider me not amused"[^ref-11].
+MobyGames describes the puzzles as "based on history and logic"[^ref-5]. The Adventurer's Guild blog found a "pixel hunt" about two hours in, which it called "the first painful situation in the game", and wrote of a later sequence: "The whole sequence entails a lot of (unclued) trial and (unprovoked) error. Consider me not amused"[^ref-11].
 
 The game encourages exploration and conversation with historical figures[^ref-1]. Dorkly's Brandon Hoang summed up the task as setting right a colonial America where "our founding fathers are now hippies and it's up to you to swap their hookah pipe for a Constitutional writing quill"[^ref-24]. One act has Pepper hand out Poor Richard's proverbs to the townspeople; the Adventurer's Guild blogger noticed that these are Benjamin Franklin's proverbs as printed in the game manual[^ref-11].
 
@@ -87,13 +87,12 @@ MobyGames records an average critic score of 82% from four ratings[^ref-23]. No 
 | MyAbandonware | 4.46/5 | User rating, 37 votes[^ref-16] |
 | OldGames.sk | 67% | User rating, 24 votes[^ref-28] |
 | IMDb | 6.7/10 | User rating, 9 votes[^ref-17] |
-| XTC Abandonware | 5.00/5 | User rating, 3 votes[^ref-27] |
 
 Adventure Gamers' 2010 review concluded that the game "is not only a great educational game for children and young adults, it is a classic adventure game for all ages"[^ref-18]. In 2011 Adventure Gamers ranked it #67 in its Top 100 All-Time Adventure Games[^ref-29]. The book *Science Fiction Video Games* thought it "gently amusing", and aimed at more adult adventure game players than Sierra's other games[^ref-1].
 
 In a 2003 MobyGames user review, Afex Tween called it "One of the best educational games ever, which is a great experience for both children and adults". The same reviewer criticized the art: "the characters have large heads, quite ugly, with some ugly animation. And all the graphics is not on a high level"[^ref-23].
 
-Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing that his final impression was "I just don't get it". He added: "None of this was fun, and advancing the plot felt like work"[^ref-14]. A poster on the Hardcore Gaming 101 forums wrote: "Woah...creepy artstyle, it kinda triggers my uncanny valley"[^ref-26].
+Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing that his final impression was "I just don't get it". He added: "None of this was fun, and advancing the plot felt like work"[^ref-14]. *Metzomagic* found the game hilarious, but felt its humour was too sophisticated for its target audience because of references to things like Monty Python and academia[^ref-1]. A poster on the Hardcore Gaming 101 forums wrote: "Woah...creepy artstyle, it kinda triggers my uncanny valley"[^ref-26].
 
 GOG users voting for the game on its wishlist page wrote: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more"[^ref-25].
 
@@ -110,8 +109,6 @@ When asked about the game in 2003, Ken Williams said he had "only vague recollec
 Mark Seibert produced the game, his first as a producer[^ref-2]. MobyGames credits the design to Gano Haine, Jane Jensen, Josh Mandel and Lorelei Shannon, and the text and dialogue to Shannon alone[^ref-21]. Mandel later gave Shannon the credit. In an email to Evan of AdventureGamers, which Evan quoted with permission, Mandel wrote: "It was generous of her to list me as a co-designer on the game, but I always felt that was greatly overstating my impact on the final product. PEPPER'S is a reflection of Lorelei's spirit and talent far moreso than that of anyone else who touched it, and I thought it was a game of surpassing quality — certainly one of the most unrestrainedly delightful games Sierra ever produced, and woefully underacknowledged"[^ref-6].
 
 The music was composed by Neal Grandstaff and Mark Seibert[^ref-5][^ref-21]. Adventure Gamers noted the huge amount of historical research Shannon did to detail colonial American history and life[^ref-18].
-
-*Metzomagic* found the game hilarious, but felt its humour was too sophisticated for its target audience because of references to things like Monty Python and academia[^ref-1].
 
 ### Technical Achievements
 
@@ -138,7 +135,7 @@ The game contains several hidden surprises for observant players:
 
 ### Modern Comparisons
 
-The game is often compared with LucasArts' *Day of the Tentacle*. Kotaku noted that both games, released the same year, have the player help Benjamin Franklin with his kite experiment[^ref-1]. A commenter on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
+Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says its cartoonish graphics were similar in style to that game's[^ref-5], and Hardcore Gaming 101 saw "some shared ground" with *Day of the Tentacle*'s colonial section[^ref-4]. In a 2015 list, Kotaku UK noted that *Day of the Tentacle* is "not the only game in which you help Benjamin Franklin with his kite/key experiment (Pepper's Adventures in Time says hi!)"[^ref-30]. A commenter ("Kelp", 14 October 2009) on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
 
 ## Downloads
 
@@ -181,7 +178,7 @@ The game is often compared with LucasArts' *Day of the Tentacle*. Kotaku noted t
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release, plot, Discovery Series, Bill Davis concept, reception summaries (Metzomagic, Kotaku, *Science Fiction Video Games*, *Every Family's Guide to Computers*)
 [^ref-2]: [Adventure Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Seibert's first production, Bill Davis, manual, Uncle Fred's plan
-[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/) – Intended franchise, "one of Sierra's most creative games", Truth icon, six chapters, "There was no CD release"
+[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/) – Intended franchise, "one of Sierra's most creative games", Truth icon, six chapters, "There was no CD release" ([archived 2025-01-26](https://web.archive.org/web/20250126141625/http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/), live site in maintenance 2026-10-26)
 [^ref-5]: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/) – Developer and publisher Sierra On-Line, alternate title Twisty History, music credits, description
 [^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – 2003 thread: Ken Williams' recollections, Evan of AdventureGamers, Josh Mandel quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Developer, SCI1.1 engine, DOS and Windows 3.x releases
@@ -204,6 +201,7 @@ The game is often compared with LucasArts' *Day of the Tentacle*. Kotaku noted t
 [^ref-24]: [Dorkly – 6 Educational Games That Actually Weren't That Bad (archived)](https://web.archive.org/web/20190407095044/http://www.dorkly.com/post/24911/the-dorklyst-6-educational-games-that-actually-werent-that-bad) – Brandon Hoang, 2011
 [^ref-25]: [GOG.com wishlist](https://www.gog.com/wishlist/games/peppers_adventure_in_time) – Community comments
 [^ref-26]: [Hardcore Gaming 101 forums (archived)](https://web.archive.org/web/20240322103311/https://hg101.proboards.com/thread/13211/peppers-adventures-time) – Forum comment on art style
-[^ref-27]: XTC Abandonware *(link removed 2026-10-11: site carries casino/poker advertising; claim needs re-sourcing)*
+[^ref-27]: XTC Abandonware, *Pepper's Adventures in Time* game page, user comment by "Kelp", posted 14 October 2009 *(no link: site carries poker/slots advertising)*
 [^ref-28]: [OldGames.sk](https://www.oldgames.sk/en/game/peppers-adventures-in-time/download/2911/) – User rating
 [^ref-29]: [Adventure Gamers – Top 100 All-Time Adventure Games (archived)](https://web.archive.org/web/20130118232940/http://www.adventuregamers.com/articles/view/18643/page8/) – #67 ranking (2011)
+[^ref-30]: [Kotaku UK – The 10 Adventure Games That Everyone Must Play (2015-03-17, archived 2016-11-04)](https://web.archive.org/web/20161104124105/http://www.kotaku.co.uk/2015/03/17/the-10-adventure-games-that-everyone-must-play) – Day of the Tentacle entry: "Pepper's Adventures in Time says hi!"

@@ -10,14 +10,15 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-10-26'
-description: '**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click
-  adventure game developed by Infamous Quests, intended as the second and likely...'
+last_updated: '2026-10-27'
+description: 'Order of the Thorne: Fortress of Fire is an unreleased point-and-click
+  adventure game by Infamous Quests, intended as the second and likely final installment
+  in the Order of the Thorne anthology series.'
 tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -25,18 +26,18 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page once listed it as "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
 
-Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade Sierra adventure games of the 1980s[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
+Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade classic Sierra adventure games[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13][^ref-6]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-7]
-> **Designer:** Steven Alexander, Shawn Mills, James Broom[^ref-7]
-> **Publisher:** Infamous Quests[^ref-1]
-> **Engine:** Adventure Game Studio[^ref-7]
+> **Designer:** Steven Alexander, Shawn Mills, James Broom (company key people; no per-game roles published)[^ref-7][^ref-5]
+> **Publisher:** Infamous Quests (planned self-release)[^ref-20]
+> **Engine:** Adventure Game Studio[^ref-20]
 > **Platforms:** PC, Mac, Linux, Android (planned)[^ref-1]
 > **Release Year:** Unreleased (development in limbo)
 > **Series:** Order of the Thorne
 > **Protagonist:** Patrick (Addy)[^ref-4]
-> **Sierra Lineage:** Fan-Made Spiritual Successor
+> **Sierra Lineage:** Fan Project
 
 ## Story Summary
 
@@ -52,11 +53,11 @@ Adventure Gamers described it as "the second (and likely) final adventure" in th
 
 ### Interface and Controls
 
-*Fortress of Fire* utilizes traditional point-and-click adventure mechanics consistent with the Sierra-inspired design philosophy that defines Infamous Quests' catalog[^ref-3]. Adventure Gamers lists a third-person perspective, stylized art and "2D or 2.5D" presentation[^ref-1][^ref-18]. The control scheme supports both mouse-based point-and-click interaction and touch controls for potential portable platforms[^ref-1].
+*Fortress of Fire* utilizes traditional point-and-click adventure mechanics consistent with the Sierra-inspired design philosophy that defines Infamous Quests' catalog[^ref-3]. Adventure Gamers lists a third-person perspective, stylized art and "2D or 2.5D" presentation[^ref-1]. The control scheme supports both mouse-based point-and-click interaction and touch controls for potential portable platforms[^ref-1].
 
 ### Structure and Progression
 
-Based on the published story setup, the game follows Patrick from the caves at the entrance to the Land of Sunlight, through the darkened valley and its old monastery, toward the fortress where Sir Caradoc is held[^ref-20][^ref-4]. No detailed level or chapter structure has been published.
+Based on the published story setup, the game follows Patrick from the caves at the entrance to the Land of Sunlight, through the darkened valley and its old monastery, toward the fortress, to rescue Sir Caradoc[^ref-20][^ref-4]. No detailed level or chapter structure has been published.
 
 ### Puzzles and Mechanics
 
@@ -97,14 +98,14 @@ By October 2025, the game remained in what the developers described as "a real s
 
 In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*. The post did not mention *Fortress of Fire*.[^ref-19]
 
-**Development Credits:**[^ref-7]
-- **Project Lead:** Steven "Blackthorne" Alexander
-- **Co-Founder:** Shawn Mills
-- **Team Member:** James "Broomie" Broom
+**Key people:** Infamous Quests lists Steven Alexander, Shawn Mills and James Broom as its key people; no per-game roles have been published[^ref-7].
+- **Steven "Blackthorne" Alexander:** co-founder[^ref-7]; named as creator of the studio's *Order of the Thorne* and *Roehm to Ruin* crowdfunding page[^ref-21]
+- **Shawn Mills:** co-founder[^ref-7]
+- **James "Broomie" Broom:** Alexander names "Shawn, James (Broomie) & I" as the three who discussed "what the game could have and should have been"[^ref-5]
 
 ### Technical Achievements
 
-The game utilizes Adventure Game Studio (AGS), the same engine that powered *Quest for Infamy* and *The King's Challenge*[^ref-7]. The official site lists "hand drawn backgrounds and animations" and "an original soundtrack with fully voiced characters" among its planned features, and planned distribution "through Steam and other online platforms"[^ref-20]. No target resolution has been published.
+The official FAQ says, "We use Adventure Game Studio", the engine the team had already used for *Quest for Infamy*[^ref-20][^ref-7]. The official site lists "hand drawn backgrounds and animations" and "an original soundtrack with fully voiced characters" among its planned features, and planned distribution "through Steam and other online platforms"[^ref-20]. No target resolution has been published.
 
 ### Technical Specifications
 
@@ -134,7 +135,7 @@ As the game remains unreleased, no technical issues have been documented. The pr
 
 ### Easter Eggs and Trivia
 
-While specific easter eggs for *Fortress of Fire* cannot be documented due to the game's unreleased status, the *Order of the Thorne* series was designed to exist within Infamous Quests' shared universe, potentially containing references to *Quest for Infamy* and the studio's earlier Sierra remakes[^ref-7][^ref-8].
+No easter eggs can be documented for an unreleased game.
 
 ## Legacy
 
@@ -158,11 +159,11 @@ No official hint books or strategy guides have been announced for *Fortress of F
 
 ### Critical Perspective
 
-*Fortress of Fire* represents both the ambitions and limitations of small independent studios attempting to revive classic adventure gaming. Infamous Quests' journey from amateur Sierra remakes to commercial development exemplifies the passion-driven nature of the adventure game revival movement of the 2010s[^ref-7][^ref-8].
+*Fortress of Fire* comes from a studio that moved from free amateur Sierra remakes to commercial development[^ref-7], and its predecessor was announced as "the first in a planned anthology series of games"[^ref-8].
 
-The game's prolonged development limbo illustrates the challenges facing nostalgic indie projects: critical acclaim and crowdfunding success do not always translate to sustainable commercial viability[^ref-6]. The developers' candid reflections on creative compromises—particularly the decision to pursue a "family friendly" approach that may have alienated their core audience of adult adventure gaming enthusiasts—offers valuable insight into the tensions between market assumptions and actual player demographics[^ref-5].
+The game's prolonged development limbo illustrates the challenges facing nostalgic indie projects: crowdfunding success and a mixed-to-favourable critical reception for *The King's Challenge* (Metascore 71)[^ref-10] did not translate into revenue that covered development costs[^ref-6]. The developers' candid reflections on creative compromises—particularly the decision to pursue a "family friendly" approach that may have alienated their core audience of adult adventure gaming enthusiasts—offers valuable insight into the tensions between market assumptions and actual player demographics[^ref-5].
 
-The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-9][^ref-14][^ref-16].
+Interest in the game has outlasted its development. Fans were already discussing *Fortress of Fire* on *The King's Challenge*'s Steam Community hub in January 2016[^ref-16], and itch.io's Sierra-style adventures collection still lists it as "The conclusion to the Order of the Thorne story!"[^ref-9] The studio, meanwhile, said that after *Fortress of Fire* and *Roehm to Ruin* it would "most likely not be producing any more games"[^ref-14].
 
 ## Downloads
 
@@ -171,7 +172,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 - [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; offers early access to Patreon supporters[^ref-3]
 
 **Purchase / Digital Stores**
-- Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]
+- Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]. The itch.io page still shows the status "In development" (checked 2026-10-27)[^ref-3]
 
 ## See Also
 
@@ -214,7 +215,6 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – 1,656 backers pledged $63,281
-[^ref-18]: [Adventure Gamers – Fortress of Fire game details (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – Presentation: "2D or 2.5D"; Graphic Style: "Stylized art"
 [^ref-19]: [Infamous Quests Patreon — update (April 4, 2026)](https://www.patreon.com/posts/154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; does not mention *Fortress of Fire*
 [^ref-20]: [Infamous Quests – Order of the Thorne: Fortress of Fire (official site, archived 2019-12-12)](https://web.archive.org/web/20191212014129/http://www.infamous-quests.com/home/games/fortress-of-fire/) – Patrick and Sir Caradoc, Land of Sunlight story, features, AGS, Steam plans, anthology FAQ
 [^ref-21]: [Infamous Quests – Kickstarter update mirrored on BackerKit (Sep 28, 2019)](https://infamousquestsgames.backerkit.com/hosted_preorders/project_updates) – "most backgrounds done, and about 60% of the animations. Music is all done"; team on full-time jobs

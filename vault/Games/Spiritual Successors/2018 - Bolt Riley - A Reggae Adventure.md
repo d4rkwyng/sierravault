@@ -5,25 +5,25 @@ developer: Adventure Mob / Corbomite Games
 designer: [Oded Sharon, Corey Cole, Lori Ann Cole]
 publisher: Adventure Mob / Corbomite Games
 genre: Point-and-click adventure
-platforms: [Windows, macOS, Linux, iOS, Android]
+platforms: [Ouya, Windows, macOS, Linux, iOS, Android]
 series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 composer: [Omri Lahav]
 description: 'Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by Quest for Glory creators Corey and Lori Cole, following a poor Jamaican boy on his pathway to reggae stardom.'
 tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by [[Corey Cole]] and [[Lori Ann Cole]], the creators of Sierra's Quest for Glory series[^ref-1]. It was created by Oded Sharon and his Tel Aviv studio Adventure Mob[^ref-26], and Steam credits both Adventure Mob and Sharon's earlier company Corbomite Games as developer and publisher[^ref-1]. Players take the role of Bolt Riley, a poor boy from Trenchtown, Jamaica, on his pathway to stardom[^ref-1]. Chapter 1 entered Early Access on April 20, 2016[^ref-26] and was released on February 8, 2018[^ref-1], after a development cycle that included two Kickstarter campaigns and significant financial challenges[^ref-28].
 
-The game brings together several strands of Sierra history. Adventure Mob was originally slated to build Replay Games' Leisure Suit Larry remake in Unity before Replay switched to N-Fusion Interactive in 2012[^ref-27]; that remake became *Leisure Suit Larry: Reloaded*[^ref-4]. Bolt Riley was Adventure Mob's own original project. As Oded Sharon explained: "I've been a fan of their work forever. I was looking for experienced designers when we began work on Bolt Riley. My friend Noah Falstien introduced me to them. They were in on the game's design from day one and they are in charge of about 1/3 of the puzzles and dialog of the full game."[^ref-6]
+The game brings together several strands of Sierra history. Adventure Mob was originally slated to build Replay Games' Leisure Suit Larry remake in Unity before Replay switched to N-Fusion Interactive in 2012[^ref-27]; that remake became *Leisure Suit Larry: Reloaded*[^ref-4]. Bolt Riley was Adventure Mob's own original project. As Oded Sharon explained: "I've been a fan of their work forever. I was looking for experienced designers when we began work on Bolt Riley. My friend Noah Falstien [sic] introduced me to them. They were in on the game's design from day one and they are in charge of about 1/3 of the puzzles and dialog of the full game."[^ref-6]
 
 The game features hand-drawn 2D background artwork and hand-drawn cel animation, combining all the elements of a classic point-and-click adventure with "funny dialog puzzles, exploration, wacky inventory items, and of course, a rope."[^ref-1] The first Kickstarter campaign, for $120,000, failed[^ref-2]; a shorter second campaign for a single chapter succeeded with 757 backers[^ref-25].
 
@@ -32,7 +32,7 @@ The game features hand-drawn 2D background artwork and hand-drawn cel animation,
 > **Designer:** Oded Sharon[^ref-26], [[Corey Cole]], [[Lori Ann Cole]][^ref-1]
 > **Publisher:** Adventure Mob / Corbomite Games[^ref-1]
 > **Engine:** Unity[^ref-6]
-> **Platforms:** Windows, macOS, Linux[^ref-1], iOS, Android[^ref-28][^ref-9]
+> **Platforms:** Ouya (2016)[^ref-9], Windows, macOS, Linux[^ref-1], iOS, Android[^ref-28][^ref-9]
 > **Release Year:** 2018 (Chapter 1)[^ref-1]
 > **Protagonist:** Bolt Riley
 > **Sierra Lineage:** Alumni Project
@@ -118,11 +118,11 @@ Bolt Riley features classic adventure game puzzle design, including:
 
 Bolt Riley: A Reggae Adventure received little critical coverage. Metacritic lists no critic reviews for the game[^ref-29]. Rock Paper Shotgun's preview called the project "an interesting team-up"[^ref-5].
 
-Chapter 1 debuted as an Early Access title on April 20, 2016, on Steam, the Humble Store, and Razer ForgeTV[^ref-26]. In February 2018 Sharon released iOS and Android versions and took the game out of Early Access on Steam[^ref-22]. In a February 2018 Patreon post, Sharon reported combined net revenue from Chapter 1 sales of $1,835, and said that, with no steady income, "every single person who worked for Adventure Mob is currently busy with other projects."[^ref-28] He estimated that $42,000 was needed to complete Chapter 2 and proposed funding it through Patreon[^ref-28][^ref-22].
+Chapter 1 debuted as an Early Access title on April 20, 2016, on Steam, the Humble Store, and Razer ForgeTV[^ref-26]. In February 2018 Sharon released iOS and Android versions and took the game out of Early Access on Steam[^ref-22]. In a February 2018 Patreon post, Sharon reported combined net revenue from Chapter 1 sales of $1,835, and said that, with no steady income, "every single person who worked for Adventure Mob is currently busy with other projects."[^ref-28] He estimated that $42,000 was needed to complete Chapter 2 and proposed funding it through Patreon[^ref-28][^ref-22]. In April 2018 Sharon told patrons that Bolt Riley had been accepted to ID@Xbox and that he was waiting for devkits[^ref-32]; a month later he wrote that getting the game onto tvOS and Xbox One was "a harder challenge than I would have expected", as obsolete Adventure Creator functions meant the project needed upgrading first[^ref-33]. MobyGames lists no tvOS or Xbox One release[^ref-9].
 
 ### Modern Assessment
 
-Steam user reviews are mixed. Players praise the art and music, but many criticize how short and incomplete Chapter 1 is[^ref-1].
+Steam user reviews are mixed[^ref-1]. Reviewers consistently criticise how short Chapter 1 is, while opinions on the art and music are split: some praise an "Excellent reggae soundtrack" and call the art style "really cool", others call the music "repetitive and boring"[^ref-30].
 
 **Aggregate Scores:**
 - **Steam User Reviews:** "Mixed": 41% of 24 user reviews positive on the store page (checked 2026-10-09)[^ref-1]
@@ -169,8 +169,8 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 - [[2023 - Colossal Cave 3D Adventure]]
 - [[2023 - Summer Daze - Tilly's Tale]]
 
-- [[Corey Cole]] — Quest for Glory co-creator, co-designer on Bolt Riley
-- [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and writer on Bolt Riley
+- [[Corey Cole]] — Quest for Glory co-creator, co-designer and co-writer on Bolt Riley[^ref-31]
+- [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and co-writer on Bolt Riley[^ref-31]
 
 ## References
 
@@ -190,3 +190,7 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 [^ref-27]: [GamesBeat – Leisure Suit Larry publisher trades up to a new developer (exclusive) (Dean Takahashi, 2012-07-15)](https://gamesbeat.com/leisure-suit-larry-publisher-trades-up-to-a-new-developer-exclusive/) — Adventure Mob replaced by N-Fusion Interactive on LSL Reloaded
 [^ref-28]: [Patreon – Oded Sharon, "The Future of Bolt Riley (OR : Where's me game chapter two, mon?)" (2018-02-08)](https://www.patreon.com/posts/16877404) — Chapter 1 revenue ($1,835 net), team status quote, iOS/Android launch, Chapter 2 plans and $42,000 estimate, Unity/Adventure Creator/Dialog System
 [^ref-29]: [Metacritic – Bolt Riley, A Reggae Adventure](https://www.metacritic.com/game/bolt-riley-a-reggae-adventure/) — "There are no critic reviews for this game yet"
+[^ref-30]: [Steam Community – Bolt Riley: A Reggae Adventure user reviews (most helpful)](https://steamcommunity.com/app/331210/reviews/?browsefilter=toprated) — "OMG SO SHORT!", "less than an hour of gameplay", "Excellent reggae soundtrack", "The art style is really cool", "The music is repetitive and boring"
+[^ref-31]: [IMDb – Bolt Riley: A Reggae Adventure (2016), full credits](https://www.imdb.com/title/tt8707024/fullcredits/) — Writers: Corey Cole (co-writer), Lori Ann Cole (co-writer), Oded Sharon (written by); user-contributed database
+[^ref-32]: [Patreon – Oded Sharon, "Bolt Riley accepted to ID@Xbox + TvOS" (2018-04-16)](https://www.patreon.com/posts/18010468) — "It got accepted! Now I am waiting for the devkits to arrive and will build and launch it."
+[^ref-33]: [Patreon – Oded Sharon, "Bolt Riley on TVoS and XBOX One" (2018-05-10)](https://www.patreon.com/posts/18639631) — "a harder challenge than I would have expected"; obsolete Adventure Creator functions require an upgrade
