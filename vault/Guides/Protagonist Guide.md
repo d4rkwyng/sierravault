@@ -14,7 +14,7 @@ Sierra's adventure games are defined by their memorable protagonists. This guide
 ## Legendary Heroes
 
 ### Roger Wilco (Space Quest)
-The galaxy's most unlikely hero—a janitor who repeatedly saves the universe through luck, persistence, and an uncanny ability to survive his own incompetence.
+The galaxy's most unlikely hero—a janitor who repeatedly saves the universe through luck, persistence, and an uncanny ability to survive his own incompetence. In November 1996 *Computer Gaming World* ranked him fifth among its 15 Most Memorable Game Heroes, "a schlemiel who accidentally accomplished heroic ends".[^ref-23]
 
 - **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]]
 - **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
@@ -38,7 +38,7 @@ The lovable loser in the white polyester suit, eternally searching for love in a
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|LSL1 VGA]]
 - **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|LSL6: Shape Up or Slip Out!]]
 - **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|LSL7: Love for Sail!]]
-- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]]
+- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]] (Larry as casino host)[^ref-25]
 - **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]]
 - **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]]
 - **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]]
@@ -74,6 +74,11 @@ The adventurous princess who saved her father's life and later escaped a troll k
 
 **Fan Games:** [[2021 - King's Quest IV Retold|KQ4 Retold]], [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (Infamous Adventures, in development)]]
 
+#### Connor
+Not a royal but a simple peasant and fighter, who picks up a fragment of the shattered Mask of Eternity and must find the other pieces to face Lucreto.[^ref-26]
+
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]]
+
 ---
 
 ### The Hero (Quest for Glory)
@@ -91,12 +96,12 @@ A customizable champion who starts as a Fighter, Magic User or Thief; from Quest
 ---
 
 ### Gabriel Knight
-New Orleans bookstore owner turned supernatural investigator, unraveling dark family secrets and ancient mysteries.
+New Orleans bookstore owner turned supernatural investigator, unraveling dark family secrets and ancient mysteries. *Computer Gaming World* ranked him second among its 15 Most Memorable Game Heroes in November 1996.[^ref-23]
 
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Also Starring: —
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Also Starring: Grace Nakimura (non-playable assistant)
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]] — Also Starring: Grace Nakimura
 - **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3]] — Also Starring: Grace Nakimura
-- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|GK1 20th Anniversary]] — Also Starring: —
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|GK1 20th Anniversary]] — Also Starring: Grace Nakimura (non-playable assistant)
 
 ---
 
@@ -111,7 +116,7 @@ Lytton PD's finest, rising from patrol officer to homicide detective while battl
 ---
 
 ### Laura Bow
-Tulane University student and aspiring journalist turned New York newspaper reporter, solving murders with wit and determination.[^ref-14][^ref-15]
+Tulane University student and aspiring journalist turned New York newspaper reporter, solving murders with wit and determination.[^ref-14][^ref-15] *Computer Gaming World* ranked her 13th among its 15 Most Memorable Game Heroes in November 1996, as "Roberta Williams's journalism-student, cub-reporter protagonist".[^ref-23]
 
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]]
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]]
@@ -150,7 +155,7 @@ Various protagonists challenge the eccentric Dr. Brain's puzzles across multiple
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Protagonist: Job applicant
 - **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Protagonist: Dr. Brain's assistant
 - **1995** — [[1995 - The Lost Mind of Dr. Brain|The Lost Mind of Dr. Brain]] — Protagonist: Player, guided by Dr. Brain's niece Elaina (an experiment mixed up the minds of Dr. Brain and his lab rat Rathbone)[^ref-16]
-- **1996** — [[1996 - The Time Warp of Dr. Brain|The Time Warp of Dr. Brain]] — Protagonist: Dr. Brain
+- **1996** — [[1996 - The Time Warp of Dr. Brain|The Time Warp of Dr. Brain]] — Protagonist: Player, rescuing Dr. Brain from the space-time discontinuum[^ref-24]
 - **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Protagonist: Player, captured by S.P.O.R.E. along with Dr. Brain (Wikipedia; MobyGames instead says the player takes the role of Dr. Brain)[^ref-17][^ref-18]
 
 ---
@@ -165,7 +170,7 @@ A Brooklyn newspaperman who heads west during the California Gold Rush to find h
 ---
 
 ### Homeworld Series — The S'jet Family
-Kushan navigators who guide their people across the galaxy.
+Kushan scientists who lead their people's fleets and expeditions. Cataclysm is the exception: it follows the fleet of Kiith Somtaaw rather than a S'jet.
 
 - **1999** — [[1999 - Homeworld|Homeworld]] — Protagonist: Karan S'jet
 - **2000** — [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] — Protagonist: Kiith Somtaaw fleet commander, aboard the mining vessel Kuun-Lan[^ref-9]
@@ -214,7 +219,7 @@ Mech pilots fighting in humanity's wars against the Cybrids and across distant w
 - **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] — Protagonist: HERCULAN Pilot
 - **1996** — [[1996 - Earthsiege 2|Earthsiege 2]] — Protagonist: HERCULAN Pilot
 - **1996** — [[1996 - MissionForce - Cyberstorm|MissionForce: Cyberstorm]] — Protagonist: Unitech corporate commander of a private military taskforce[^ref-10]
-- **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Protagonist: Tribes Warriors
+- **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Protagonist: Tribal Warriors
 - **1998** — [[1998 - Cyberstorm 2 - Corporate Wars|Cyberstorm 2: Corporate Wars]] — Protagonist: Corporate Commander
 - **1999** — [[1999 - Starsiege|Starsiege]] — Protagonist: Martian rebel (Human campaign) or the Cybrids (Cybrid campaign)[^ref-20]
 - **2001** — [[2001 - Tribes 2|Tribes 2]] — Protagonist: Tribal Warriors
@@ -225,7 +230,7 @@ Mech pilots fighting in humanity's wars against the Cybrids and across distant w
 A young protagonist helping fairy tale characters in whimsical adventures.
 
 - **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose VGA]]
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, 16-colour EGA)]]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]]
 
@@ -234,7 +239,7 @@ A young protagonist helping fairy tale characters in whimsical adventures.
 ### Outpost — Colony Leaders
 Commanders guiding humanity's last survivors to new worlds.
 
-- **1994** — [[1994 - Outpost|Outpost]] — Protagonist: Colony Administrator
+- **1994** — [[1994 - Outpost|Outpost]] — Protagonist: Colony commander
 - **1997** — [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] — Protagonist: Colony commander (Eden or Plymouth); the bundled novella follows Axen Moon of Eden and Emma Burke of Plymouth[^ref-4]
 
 ---
@@ -294,8 +299,8 @@ Yobi's strong-armed assistant, who helps the Yoda-like wizard Yobi travel uprive
 
 ---
 
-## City Builder Protagonists
-Sierra's city-building games feature unnamed rulers managing civilizations.
+## City-Building and Strategy Protagonists
+Sierra's city-building games and the Lords of the Realm strategy series feature unnamed rulers managing civilizations. Caesar (1992) and Lords of the Realm (1994) were made by Impressions Games before David Lester sold the studio to Sierra On-Line in 1995.[^ref-27]
 
 - [[1992 - Caesar|Caesar]], [[1995 - Caesar II|Caesar II]], [[1998 - Caesar III|Caesar III]], [[2006 - Caesar IV|Caesar IV]] — Series: **Caesar**
 - [[1999 - Pharaoh|Pharaoh]] — Series: **Pharaoh**
@@ -335,3 +340,8 @@ Sierra's city-building games feature unnamed rulers managing civilizations.
 [^ref-20]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – "two story campaigns ... The Human campaign puts the player in control of a Martian rebel"; the Cybrid campaign follows the Cybrid invasion
 [^ref-21]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
 [^ref-22]: [SCI Wiki – King's Quest I SCI remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – "it is the only one of the remakes to be made in SCI01's EGA graphics with parser interface"
+[^ref-23]: [Computer Gaming World #148, November 1996 (archive.org OCR text)](https://archive.org/download/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – p. 124, "The 15 Most Memorable Game Heroes" (checked against the page image): "2. Gabriel Knight"; "5. Roger Wilco ... a schlemiel who accidentally accomplished heroic ends"; "13. Laura Bow ... Roberta Williams's journalism-student, cub-reporter protagonist"
+[^ref-24]: [MobyGames – The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him"
+[^ref-25]: [MobyGames – Leisure Suit Larry's Casino](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Description (read via the MobyGames API): "Larry Laffer, the protagonist of the Leisure Suit Larry adventure series, is running a casino"
+[^ref-26]: [MobyGames – King's Quest: Mask of Eternity](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/) – Description (read via the MobyGames API): "a simple peasant and fighter named Connor"; "He must now search for the other pieces of the Mask, repair it, and face Lucreto"
+[^ref-27]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "He sold the company to Sierra On-Line in 1995"; games list includes Caesar (1992) and Lords of the Realm (1994)

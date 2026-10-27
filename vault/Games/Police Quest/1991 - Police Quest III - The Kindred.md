@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Jan Hammer]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, the third Police Quest game and
@@ -20,7 +20,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ The case takes a darker turn when Sonny learns that the killer had connections t
 > [!warning]- Major Spoilers
 > **Partner Betrayal:** Sonny's new partner, Officer Pat Morales, turns out to be the cult's mole inside the department[^ref-1].
 > 
-> **Villain Connection:** Michael Bains is the brother of the late Jesse Bains[^ref-1], a "paper-thin attempt to tie the villain's story to that of the first two games," in Adventure Gamers' view[^ref-13]. The game's manual sets the tone with the note: "There's no way officer bonds could have brought bains back alive," referencing the controversial conclusion to the previous game[^ref-10].
+> **Villain Connection:** Michael Bains is the brother of the late Jessie Bains[^ref-1][^ref-37], a "paper-thin attempt to tie the villain's story to that of the first two games," in Adventure Gamers' view[^ref-13]. The game's manual sets the tone with the note: "There's no way officer bonds could have brought bains back alive," referencing the controversial conclusion to the previous game[^ref-10].
 
 The narrative explores the tension between Sonny's desire for revenge and his professional obligation to follow proper police procedures, a theme central to the Police Quest series' identity as a realistic police simulation[^ref-5]. As the investigation progresses, Sonny must piece together clues, interview witnesses, and build a case against the cult while maintaining his composure despite the attack on his wife.
 
@@ -291,3 +291,4 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-34]: [MobyGames – Police Quest 3: The Kindred credits (DOS), Wayback Machine capture of 7 February 2009](http://web.archive.org/web/20090207170835/http://www.mobygames.com/game/dos/police-quest-3-the-kindred/credits) – full credits incl. Documentation (Jane Jensen, James Walls), cast list
 [^ref-35]: [Game Developer – "Playing Catch-Up: Gabriel Knight's Jane Jensen" (17 May 2007)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) – Jensen on her role as a writer for PQ3 and its manual
 [^ref-36]: [Episodic Content Magazine – "Hunting Shadows: The Making of Gabriel Knight – Chapter 1" (10 September 2015)](https://episodiccontentmag.com/2015/09/10/gabrielknight_ch1/) – Jensen hired for the PQ3 manual, helped write the script
+[^ref-37]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Description (read via the MobyGames API): "the drug lord Jessie Bains has been put away for good"

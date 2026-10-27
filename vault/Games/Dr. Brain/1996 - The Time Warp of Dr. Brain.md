@@ -7,20 +7,20 @@ publisher: Sierra On-Line, Inc.
 genre: Educational
 platforms: [Windows, Windows 3.x, Mac]
 series: Dr. Brain
-protagonist: Dr. Brain
+protagonist: Player (rescuing Dr. Brain)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: The Time Warp of Dr. Brain is an educational puzzle game developed by
   Sierra On-Line in 1996, the fourth installment in the Dr. Brain series.
 tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Time Warp of Dr. Brain
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The Time Warp of Dr. Brain is an educational puzzle adventure game developed by Sierra On-Line in 1996[^ref-1]. The fourth installment in the Dr. Brain series[^ref-2], the game follows the hapless scientist Dr. Brain as he "teleports himself into last week to retrieve his car keys, only to end up floating in the space-time discontinuum"[^ref-1]. Players must help Dr. Brain navigate through various time periods by solving over 600 brain-building puzzles across 10 different 3D worlds[^ref-3].
+The Time Warp of Dr. Brain is an educational puzzle adventure game developed by Sierra On-Line in 1996[^ref-1]. The fourth installment in the Dr. Brain series[^ref-2], the game follows the hapless scientist Dr. Brain as he "teleports himself into last week to retrieve his car keys, only to end up floating in the space-time discontinuum"[^ref-1]. Players must rescue Dr. Brain by completing a series of puzzles[^ref-47], with over 600 brain-building puzzles across 10 different 3D worlds[^ref-3].
 
 As described by Sierra's original marketing materials, "Dr. Brain is trapped in the space time discontinuum. Now he needs your brain power to bring him home. Travel through the ages, solve a myriad of mind-warping puzzles and save Dr. Brain... just in time!"[^ref-4] The marketing promised the game would let players "Play over 400... no... 500... no... 600 mind-building puzzles!"[^ref-43] and offered puzzles that "rebuild themselves for unlimited game play"[^ref-43]. The game was designed by Mark Krause and Ward Makielski[^ref-2], with music composed by Jonathan Cunningham and Rodney Sherwood credited among the English voice actors[^ref-1]. It was the final game in Sierra's own run of the Dr. Brain series; three further games were later made in a revival by Knowledge Adventure[^ref-39].
 
@@ -31,7 +31,7 @@ As described by Sierra's original marketing materials, "Dr. Brain is trapped in 
 > **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1]
 > **Release Year:** 1996
 > **Series:** Dr. Brain
-> **Protagonist:** Dr. Brain
+> **Protagonist:** Player, rescuing Dr. Brain[^ref-47]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -218,3 +218,4 @@ The game had 294 votes on GOG's Dreamlist as of October 2026 requesting its rele
 [^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – - Modern retrospective review
 [^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – - Contemporary review details
 [^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – - Target audience and game overview
+[^ref-47]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"

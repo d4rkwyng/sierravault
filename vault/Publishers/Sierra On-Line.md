@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008)"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -170,7 +170,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Notes: First VGA adventure
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] — Notes: QFG series
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] — Notes: Christy Marx
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose VGA]] — Notes: Remake
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Notes: Remake
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Notes: Remake
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] — Notes: CD-ROM era
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry VGA]] — Notes: Remake

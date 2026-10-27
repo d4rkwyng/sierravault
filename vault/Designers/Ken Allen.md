@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -114,7 +114,7 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Music, Sound
 - **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Music, Sound Programming
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Music (with Mark Seibert), Sound Effects
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose VGA]] — Role: Music Arrangements, Sound Effects
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Music Arrangements, Sound Effects
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Composer
 - **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI)]] — Role: Composer, Sound Effects
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music

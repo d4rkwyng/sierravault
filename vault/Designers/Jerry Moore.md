@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "King's Quest V", "Quest for Glory I VGA", "Space Quest IV", "The Colonel's Bequest"]
 companies: ["Sierra On-Line", "Westwood Studios"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Jerry Moore
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ Moore and Douglas Herring are the two artists Wikipedia names for [[1989 - The C
 
 In the VGA era he was one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990).[^ref-9] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]][^ref-13] and is credited as an artist on [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
 
-In 1991 he contributed graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]][^ref-10], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]][^ref-12], and art design to the VGA remake of [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]].[^ref-2]
+In 1991 he contributed graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]][^ref-10], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]][^ref-12], and art design to the SCI remake of [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]].[^ref-2]
 
 His final Sierra credits include "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] (1992)[^ref-14], "Additional Animation and Mondo Thanks To" on [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - EcoQuest - Lost Secret of the Rainforest|Lost Secret of the Rainforest]] (1993).[^ref-2]
 
@@ -91,9 +91,9 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Artist
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Backgrounds and Animation
 - **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]] — Role: Artist
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Art Designer
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Graphics / Artwork
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Background Art & Animation
-- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (VGA)]] — Role: Art Designer
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want To Be A Hero (VGA)]] — Role: Incredible Artwork
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Additional Animation
 - **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|Lost Secret of the Rainforest]] — Role: Graphics / Artwork

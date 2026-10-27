@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Quest for Glory II", "Space Quest IV"]
 companies: ["Sierra On-Line"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Pablo Ghenis
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -72,7 +72,7 @@ Roles as credited on MobyGames.[^ref-15][^ref-16]
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Interpreter / Development System
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] — Role: Development System
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System
-- **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose VGA]] — Role: SCI Development System
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: SCI Development System
 - **1991** — [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose (CD-ROM)]] — Role: System Development
 - **1991** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1 VGA]] — Role: System Programmer
 - **1990** — [[1984 - King's Quest - Quest for the Crown|King's Quest I VGA]] — Role: Development System
