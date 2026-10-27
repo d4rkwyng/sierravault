@@ -15,7 +15,7 @@ Sierra On-Line pioneered voice acting in adventure games, transitioning from sil
 
 ### The Silent Era (1980–1990)
 
-Early Sierra games were entirely text-based, with no audio beyond PC speaker beeps and music. Players read narration and dialogue on screen, experiencing stories through the written word.
+Early Sierra games presented all dialogue and narration as on-screen text, with no audio beyond PC speaker beeps and music. Players read narration and dialogue on screen, experiencing stories through the written word.
 
 During this era, games like [[1984 - King's Quest - Quest for the Crown|King's Quest I]] through [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] relied on:
 - Text parser input
@@ -29,8 +29,8 @@ The introduction of CD-ROM technology in the early 1990s made voice acting feasi
 
 **First Voiced Sierra Games:**
 
-- **1991** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V CD]] — Notes: One of Sierra's first talkies; voiced by members of the Sierra staff[^ref-9]
-- **1991** — Mixed-Up Mother Goose CD (VGA remake; no vault page yet) — Notes: Described as the first multimedia PC game released on CD-ROM, with full digital speech[^ref-10]
+- **1991** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V CD]] — Notes: One of Sierra's first talkies; voiced by members of Sierra's development team[^ref-9]
+- **1991** — Mixed-Up Mother Goose CD (VGA remake; no vault page yet) — Notes: Described as the first multimedia PC game released on CD-ROM, with full digital speech[^ref-10][^ref-33]
 - **1992** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV CD]] — Notes: Professional narrator Gary Owens; other voices by Sierra employees[^ref-11][^ref-12]
 - **1993** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI CD]] — Notes: Professional voice acting, Robby Benson as Alexander[^ref-2]
 - **1993** — [[1992 - The Dagger of Amon Ra|Laura Bow 2 CD]] — Notes: Voice acting added[^ref-13]
@@ -58,7 +58,7 @@ From 1993 Sierra invested heavily in professional voice talent. Games featured H
 | Malia Gedde | **Leilani Jones** | Grind (Tony Award), Monkey Island (Voodoo Lady)[^ref-15] |
 | Narrator | **Virginia Capers** | Raisin (Tony Award winner)[^ref-16] |
 
-Computer Gaming World gave Capers its Best Female Voice-Over Acting award, writing that "her performance alone makes it worthwhile to purchase the CD version".[^ref-1]
+Computer Gaming World made Capers the inaugural recipient of its Premier Award for Best Voice-over Acting (Female) in a Multimedia Game, writing that "her performance alone makes it worthwhile to purchase the CD version".[^ref-1][^ref-32]
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992; CD-ROM 1993)
 
@@ -79,7 +79,7 @@ The Space Quest series featured legendary voice actor Gary Owens:[^ref-3]
 
 Owens is credited with over 30,000 voice-over jobs and commercials.[^ref-3] When writing narrator lines, Scott Murphy always imagined Owens speaking them, and signing him was a dream come true.[^ref-3]
 
-After Owens died on February 12, 2015,[^ref-12] the Two Guys from Andromeda called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-5]
+After Owens died on February 12, 2015,[^ref-12] Mark Crowe, posting for both Two Guys from Andromeda, called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-5]
 
 ### Quest for Glory IV: Shadows of Darkness (1993)
 
@@ -123,7 +123,7 @@ Sierra distinguished between floppy disk versions (text-only) and CD-ROM "talkie
 
 | Game | Floppy Version | Talkie Version | Differences |
 |------|----------------|----------------|-------------|
-| King's Quest V | 1990 | 1991 | Voice acting added; some descriptions changed[^ref-9] |
+| King's Quest V | 1990 | 1991 | Voice acting added[^ref-9][^ref-22] |
 | King's Quest VI | October 1992 | 1993 | More detailed art, more character voices[^ref-2] |
 | Space Quest IV | 1991 | 1992 | Gary Owens narration; other voices by Sierra employees[^ref-11][^ref-12] |
 | Laura Bow 2 | 1992 | 1993 | Voice acting added[^ref-13] |
@@ -161,11 +161,11 @@ Stuart M. Rosen was voice director on [[1993 - Gabriel Knight - Sins of the Fath
 
 ### The Problem
 
-The voice acting was performed by members of the Sierra staff rather than professional actors.[^ref-9] The CD shipped in August 1991, the first of Sierra's full-fledged adventure games on CD, and featured "the talents — admittedly, sometimes the somewhat dubious talents — of more than fifty voice actors."[^ref-22]
+The voice acting was performed by members of Sierra's development team rather than professional actors.[^ref-9] The CD shipped in August 1991, the first of Sierra's full-fledged adventure games on CD, and featured "the talents — admittedly, sometimes the somewhat dubious talents — of more than fifty voice actors."[^ref-22]
 
 ### The Legacy
 
-Despite criticism, King's Quest V was certified Platinum by the Software Publishers Association (at least 250,000 audited units) by February 1993,[^ref-30] and GameSpot, citing PC Data, later put US sales of each King's Quest from the fourth game on at 300,000–400,000 copies;[^ref-31] it proved the commercial viability of voice-acted adventure games. Professional casts came in gradually: the Space Quest IV CD (1992) paired a professional narrator with staff voices, and the King's Quest VI CD (1993) used a professional cast.[^ref-11][^ref-2]
+Despite criticism, King's Quest V was certified Platinum by the Software Publishers Association (at least 250,000 audited units) by February 1993,[^ref-30] and GameSpot, citing PC Data, later put US sales of each King's Quest from the fourth game on at 300,000–400,000 copies;[^ref-31] these figures cover all versions of the game, not only the CD talkie. Professional casts came in gradually: the Space Quest IV CD (1992) paired a professional narrator with staff voices, and the King's Quest VI CD (1993) used a professional cast.[^ref-11][^ref-2]
 
 ---
 
@@ -183,7 +183,7 @@ The Welsh actor's part took more than three weeks to record.[^ref-6]
 
 ### Virginia Capers (Gabriel Knight)
 
-Tony Award-winning actress Virginia Capers narrated Gabriel Knight and won Computer Gaming World's Best Female Voice-Over Acting award for it.[^ref-16][^ref-1]
+Tony Award-winning actress Virginia Capers narrated Gabriel Knight and won Computer Gaming World's Premier Award for Best Voice-over Acting (Female) for it.[^ref-16][^ref-1][^ref-32]
 
 ### Bill Ratner (King's Quest VI)
 
@@ -270,7 +270,7 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-6]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) — Rhys-Davies' part "took more than three weeks to record"; "CD-ROM from Hell"; first QFG with voice actors
 [^ref-7]: [Wikipedia – Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — musician/music editor on KQ IV, later music director, producer from 1992; producer credits
 [^ref-8]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio (Mike Rose, April 5, 2012)](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) — "She is married to Holmes"
-[^ref-9]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — talkie CD-ROM "done by members of the Sierra staff"; CD version released 1991
+[^ref-9]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — voice acting "done by members of the development team"
 [^ref-10]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) — "the first multimedia PC game released on CD-ROM in 1991"; CD version "with full digital speech"
 [^ref-11]: [SpaceQuest.net – Space Quest 4 Game Information](https://spacequest.net/sq4/gameinfo.php) — "the voices in the game are from Sierra employees, except the narrator"
 [^ref-12]: [Wikipedia – Gary Owens](https://en.wikipedia.org/wiki/Gary_Owens) — narrator of "the 1992 voiced CD-ROM version" of SQ4 and of SQ6 (1995); died February 12, 2015
@@ -286,10 +286,12 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-22]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — KQ5 CD "shipped on CD in August of 1991"; "more than fifty voice actors"; Ken Williams coined "talkies"
 [^ref-23]: [Wikipedia – Bill Ratner](https://en.wikipedia.org/wiki/Bill_Ratner) — video games: 1992 King's Quest VI, Narrator
 [^ref-24]: [Behind The Voice Actors – King's Quest VII](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VII-The-Princeless-Bride/) — Voice Director Lorelei Shannon; 22 voice actors, 63 characters
-[^ref-25]: [MobyGames – King's Quest: Mask of Eternity credits, Windows (Wayback)](https://web.archive.org/web/2025/https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) — voice cast; Voice Recording: Hollywood Recording Services
+[^ref-25]: [MobyGames – King's Quest: Mask of Eternity credits, Windows (Wayback, November 28, 2024)](https://web.archive.org/web/20241128162621/https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) — voice cast; Voice Recording: Hollywood Recording Services
 [^ref-26]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — voice actors include Christopher Lloyd and Wallace Shawn
 [^ref-27]: [Quest for Glory Omnipedia – Quest for Glory V: Dragon Fire](https://questforglory.fandom.com/wiki/Quest_for_Glory_V:_Dragon_Fire) — Voice Cast list
 [^ref-28]: [Behind The Voice Actors – Leisure Suit Larry 6](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/) — "Larry Laffer voiced by Jan Rabson"
 [^ref-29]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) — "as well as full voice acting"
 [^ref-30]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) — SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
 [^ref-31]: [GameSpot — 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"
+[^ref-32]: [Computer Gaming World #119 (June 1994), Premier Awards (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n24/mode/1up) — "Her performance alone makes it worthwhile to purchase the CD version of Gabriel Knight: Sins of the Fathers, so she is the inaugural recipient of the PREMIER Award for Best Voice-over Acting (Female) in a Multimedia Game"
+[^ref-33]: [MobyGames – Mixed-Up Mother Goose (1991, Moby ID 1085)](https://www.mobygames.com/game/1085/) — read via the MobyGames API: DOS 1991, FM Towns February 1991, Windows 1992; "complete digitized speech"
