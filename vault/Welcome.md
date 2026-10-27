@@ -8,7 +8,7 @@ Pull up a pixelated barstool and mind the slime on the floor—this vault is the
 
 From the parser-driven adventures of the 1980s through the multimedia extravaganzas of the 1990s, this archive documents Sierra's complete legacy—flagship series, hidden gems, acquired studios like Dynamix and Impressions, fan remakes, and spiritual successors from Sierra alumni still making games today.
 
-> **492 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **median 21 citations per game page**
+> **492 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **median 22 citations per game page**
 
 ## Quick Links
 
@@ -29,7 +29,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > |--------|-------|---------|-------------|
 > | [[King's Quest Series\|King's Quest]] | 10 | Roberta Williams | Fairy tale adventures in the kingdom of Daventry |
 > | [[Space Quest Series\|Space Quest]] | 7 | Two Guys from Andromeda | Sci-fi comedy with janitor hero Roger Wilco |
-> | [[Leisure Suit Larry Series\|Leisure Suit Larry]] | 13 | Al Lowe | Adult comedy following Larry Laffer's misadventures |
+> | [[Leisure Suit Larry Series\|Leisure Suit Larry]] | 14 | Al Lowe | Adult comedy following Larry Laffer's misadventures |
 > | [[Quest for Glory Series\|Quest for Glory]] | 6 | Lori & Corey Cole | RPG-adventure hybrid with character classes |
 > | [[Police Quest Series\|Police Quest]] | 5 | Jim Walls | Realistic police procedural simulations |
 > | [[Gabriel Knight Series\|Gabriel Knight]] | 4 | Jane Jensen | Supernatural mystery and horror |
@@ -144,7 +144,7 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > 
 > **Publishing:** Obsidian vault → GitHub → [sierravault.net](https://sierravault.net) via Quartz | Mirror: [mirror.sierravault.net](https://mirror.sierravault.net)
 > 
-> Every claim is traceable to cited sources. If you spot an error, [let us know](#get-in-touch).
+> Every claim is traceable to cited sources. If you spot an error, [let us know](#get-involved).
 
 > [!abstract] What's Included
 > - **Core Sierra** (1980–1999): The golden age of adventure games
@@ -160,7 +160,7 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > This archive focuses on **Sierra as a creative entity**, not merely as a publisher or distributor. Games qualify if Sierra:
 > - **Developed the game** directly through Sierra On-Line or internal studios
 > - **Owned the studio** that created it (Dynamix, Impressions, Bright Star, etc.)
-> - **Funded development** with meaningful creative partnership (Valve's Half-Life, Relic's Homeworld, Monolith's No One Lives Forever 2)
+> - **Funded development** with meaningful creative partnership (Valve's Half-Life, Relic's Homeworld)
 > - **Continued a franchise** that originated with Sierra
 > - Was the **primary brand** on the box (not distribution-only arrangements)
 >
