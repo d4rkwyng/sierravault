@@ -25,14 +25,14 @@ tags: [1990s, nascar-racing, papyrus, racing, sierra]
 
 NASCAR Racing is a racing simulation developed by Papyrus Design Group and released for MS-DOS in late 1994.[^ref-1] Sources differ on the month: Wikipedia and The Cutting Room Floor give November 2, 1994,[^ref-1][^ref-17] while Next Generation reported in December 1995 that Papyrus had released it in October 1994.[^ref-29][^ref-15] Daily Downforce describes it as the first true simulation 3-D NASCAR video game.[^ref-2] As the third racing title from Papyrus, following Indianapolis 500: The Simulation and IndyCar Racing, the development team moved their focus from open-wheeled cars to closed-cockpit NASCAR stock cars.[^ref-3]
 
-The simulation offered an unusual level of realism that appealed to both hardcore racing enthusiasts and casual sports fans. As Next Generation magazine noted, "it's the game's astounding ability to create a realistic feeling of speed that makes it an incredible hit. Flying around the tracks at 170 mph and up will make you respect those drivers who do this for a living."[^ref-1] The game was the first stock car racing simulator to include real sponsors on their respective cars, lending authenticity to the NASCAR experience.[^ref-4]
+The simulation offered an unusual level of realism that appealed to both hardcore racing enthusiasts and casual sports fans. As Next Generation magazine noted, "it's the game's astounding ability to create a realistic feeling of speed that makes it an incredible hit. Flying around the tracks at 170 mph and up will make you respect those drivers who do this for a living."[^ref-1] Wikipedia's series article (in an unreferenced section) calls it the first stock car racing simulator to include real sponsors on their respective cars.[^ref-4]
 
-NASCAR Racing proved to be a commercial and critical success, selling over 1,000,000 units and winning numerous awards including PC Gamer's Best Sports Game of 1994 and Computer Gaming World's Simulation Game of the Year.[^ref-3] The game spawned a franchise that continued through NASCAR Racing 2003 Season, whose code Papyrus co-founder Dave Kaemmer and John Henry later used as the starting point for iRacing, a project they began in September 2004.[^ref-22][^ref-13]
+NASCAR Racing proved to be a commercial and critical success, selling over 1,000,000 units and winning numerous awards including PC Gamer's Best Sports Game of 1994 and Computer Gaming World's Simulation Game of the Year.[^ref-3] The game spawned a franchise that continued through NASCAR Racing 2003 Season, whose code Papyrus co-founder Dave Kaemmer and John Henry later used as the starting point for iRacing, a project they began in September 2004.[^ref-22][^ref-30][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** [[Dave Kaemmer]], Adam Levesque, John Wheeler[^ref-1]
-> **Publisher:** [[Virgin Games|Virgin Interactive]] (NA and Europe), [[Sierra On-Line]] (later releases)[^ref-1][^ref-3]
+> **Publisher:** [[Virgin Games|Virgin Interactive]] (NA and Europe), Papyrus Publishing (US CD-ROM v1.1 release, distributed by Virgin), [[Sierra On-Line]] (later releases)[^ref-1][^ref-3]
 > **Engine:** Papy3D[^ref-6]
 > **Platforms:** MS-DOS, Macintosh, PlayStation[^ref-1]
 > **Release Year:** 1994
@@ -54,13 +54,13 @@ In the PlayStation version, released in 1996, the player races as a rookie in th
 
 The game supported keyboard and mouse as well as racing/steering wheels,[^ref-3] and joysticks could be used once calibrated.[^ref-19] Pressing F10 during play switches between camera angles.[^ref-12]
 
-The game included various driving aids to accommodate different skill levels, including auto-shifting and auto-braking options that allowed newcomers to focus on racing lines while experienced players could take full manual control.[^ref-3] Races can be fine-tuned by setting the number of laps.[^ref-8]
+The game included various driving aids to accommodate different skill levels, including auto-shifting and auto-braking, to reach a wide audience.[^ref-3] Races can be fine-tuned by setting the number of laps.[^ref-8]
 
 ### Structure and Progression
 
 The game offered multiple racing modes that catered to different playstyles:
 
-- **Championship Season:** NASCAR Racing was the first NASCAR video game to feature a Championship season mode.[^ref-2]
+- **Championship Season:** A full championship season mode; Daily Downforce calls it the first NASCAR video game to feature one.[^ref-2]
 - **Practice/Testing:** Modes in which players test and optimize their car's setup for a particular track.[^ref-4]
 - **Race weekends:** Practice, Qualifying, Warmup and Race sessions.[^ref-10]
 - **Multiplayer:** Modem and null-modem play,[^ref-3] plus online racing through Papyrus's own service codenamed "Hawaii," reached over dial-up modems.[^ref-1][^ref-13]
@@ -86,7 +86,7 @@ GameSpot's Jeff Kitts gave the PlayStation version an 8.1 out of 10, describing 
 The game earned numerous industry accolades including:
 - **PC Gamer 1994:** Best Sports Game (winner); nominated for Best Simulation[^ref-1]
 - **Computer Gaming World 1994:** Simulation Game of the Year (tied with Aces of the Deep)[^ref-3]
-- **CODiE Awards 1995:** Best Sports Program[^ref-11]
+- **CODiE Awards 1995:** Best Sports Program[^ref-3]
 - **Computer Game Review:** Golden Triad Award[^ref-3]
 
 Computer Gaming World later ranked NASCAR Racing as the 31st best computer game ever released in their November 1996 retrospective of the 150 greatest games.[^ref-3]
@@ -100,7 +100,7 @@ Retrospective analysis from outlets like Top Gear confirms the game's lasting si
 **Aggregate Scores:**
 - **MobyGames:** 86% critics average[^ref-3]
 - **My Abandonware:** 4.51/5 (148 votes)[^ref-12]
-- **IMDB:** 7.0/10 (24 ratings)[^ref-14]
+- **IMDB:** 7.0/10 (25 ratings, October 2026)[^ref-14]
 - **Abandonware DOS:** 4.10/5 (93 votes)[^ref-11]
 
 ## Development
@@ -183,14 +183,14 @@ Known issues included:
 - Joystick calibration issues where the car would drift slightly left; this could be corrected by offsetting calibration during setup[^ref-19]
 - The game's menu could "go haywire" if all joystick axes weren't calibrated the first time the game was launched[^ref-19]
 
-A multiplayer exploit was discovered where players achieved faster lap times by deliberately hitting walls; vehicle sensitivity to crash impacts was increased in a patch to address this issue.[^ref-4]
+A multiplayer exploit was discovered where players achieved faster lap times by deliberately hitting walls; vehicle sensitivity to crash impacts was increased in a patch to address this issue.[^ref-4] The 1.2 readme explains that in 1.0 and 1.1 "it was quite easy for the player to run much faster laps by slamming into the walls instead of staying on the track."[^ref-10]
 
 ### Easter Eggs and Trivia
 
 - **CD Audio Tracks:** The game CD contains playable audio tracks including "Race Riff" by Rachel Bolan and Dave "Snake" Sabo of Skid Row (Track 2) and "The Fastest Sport" by The Fat Man and Team Fat (Track 3). The README warns: "WARNING do not play track 1 in your audio player, it contains the game."[^ref-10]
 - **Driver Easter Egg:** Rachel Bolan of Skid Row appears as the driver of a green-and-purple No. 00 car in the game.[^ref-4]
 - **Camera Views:** Pressing F10 during gameplay switches between available camera angles.[^ref-12]
-- **High Resolution Mode:** Running the game with the command "nascar -h" enables the high-quality 640x480 SVGA mode.[^ref-12]
+- **High Resolution Mode:** Running the game with the command "nascar -h" enables the high-quality 640x480 SVGA mode on the CD-ROM version.[^ref-10]
 - **Daytona Museum Exclusive:** Papyrus produced a special Daytona track exclusively for the Daytona USA museum exhibit.[^ref-1]
 
 ## Voice Cast
@@ -218,20 +218,19 @@ NASCAR Racing appeared in several compilation packages:
 
 ### Fan Projects
 
-The NASCAR Racing series developed a vibrant modding community, particularly around NASCAR Racing 2003 Season. Community members created custom tracks, car models, and paint schemes that extended the game's lifespan far beyond its commercial support period.[^ref-23] The r/NR2003 subreddit remains active with moderators stating: "We're dedicated to keeping this nearly 21-year-old sim alive and well, and our community is our best way to do this."[^ref-24]
+The NASCAR Racing series developed a vibrant modding community, particularly around NASCAR Racing 2003 Season. PCGamingWiki notes NASCAR Racing 2003 Season's extensive modding community.[^ref-23] The r/NR2003 subreddit remains active with moderators stating: "We're dedicated to keeping this nearly 21-year-old sim alive and well, and our community is our best way to do this."[^ref-24]
 
-Online leagues using NASCAR Racing games flourished throughout the late 1990s and early 2000s. The American Sim Racing community, for example, has documented championship results from 2002 through 2026 across multiple NASCAR simulation platforms.[^ref-25]
+Online leagues grew up around Papyrus's later NASCAR titles. American Sim Racing's hall of fame, for example, lists event winners from 1998 onward in N2, NR1999, N3, NR2003 and later iRacing.[^ref-25]
 
 ### Related Publications
 
 - **Game Manual:** The original 1994 NASCAR Racing included a 176-page game manual,[^ref-26] with advice from Dave Marcis and Joe Nemechek on how to race at certain tracks[^ref-3]
-- **Track Pack Documentation:** Additional documentation accompanied the NASCAR Track Pack expansion[^ref-12]
 
 ### Critical Perspective
 
 NASCAR Racing stands as a watershed moment in racing game history. As Daily Downforce observed, "There were NASCAR games, but this was the first true simulation 3-D NASCAR video game... It was the first true simulation-style NASCAR video game, and that alone deserves recognition."[^ref-2]
 
-The title's influence extended beyond its immediate successors. When Dave Kaemmer and John Henry began iRacing in September 2004, the team used NASCAR Racing 2003 Season's code as a starting point, "taking advantage of its greatest strengths, such as the net code, which allows full fields of drivers to race online in real time, and the replay system."[^ref-22]
+The title's influence extended beyond its immediate successors. When Dave Kaemmer and John Henry began iRacing in September 2004, the team used NASCAR Racing 2003 Season's code as a starting point, "taking advantage of its greatest strengths, such as the net code, which allows full fields of drivers to race online in real time, and the replay system."[^ref-30][^ref-22] Motor Sport (2021) instead names NASCAR Racing 4,[^ref-31] but iRacing's own FAQ and the May 28, 2004 sale of the NR2003 copyrights to FIRST.net point to NASCAR Racing 2003 Season.[^ref-30][^ref-32]
 
 That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a previous incarnation as Papyrus." iRacing's director of production Matt Lewis recalled playing Papyrus's NASCAR 2003 and wanting to combine "the multiplayer and the physics and the authenticity of what Papyrus did" with elements of other NASCAR games.[^ref-28]
 
@@ -265,16 +264,16 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 
 [^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster
 [^ref-2]: [Daily Downforce – 1994 NASCAR Racing: First Papyrus Game](https://dailydownforce.com/1994-nascar-racing-first-papyrus-game/) – historical significance, technical firsts, Championship season mode
-[^ref-3]: [MobyGames – NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) – credits, sales data, awards, specs (media, input, multiplayer), trivia (licensing, advertisements, manual)
+[^ref-3]: [MobyGames – NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) – credits, sales data, awards (incl. CODiE 1995), specs (media, input, multiplayer), trivia (licensing, advertisements, manual), DOS releases incl. Papyrus Publishing (read via the MobyGames API)
 [^ref-4]: [Wikipedia – NASCAR Racing (series)](https://en.wikipedia.org/wiki/NASCAR_Racing) – sponsors, car setup, tire model, Practice/Testing modes, Paintkit, easter eggs
 [^ref-5]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, development history
 [^ref-6]: [PCGamingWiki – NASCAR Racing](https://www.pcgamingwiki.com/wiki/NASCAR_Racing) – technical specifications, system requirements, engine info
 [^ref-8]: [Internet Archive – NASCAR Racing (MobyGames metadata)](https://archive.org/details/msdos_NASCAR_Racing_1994) – MobyGames description mirrored: drafting, lap count, driving aids
 [^ref-10]: [Internet Archive – NASCAR Racing PC/DOS Documentation](https://archive.org/details/NASCAR_RACING_PCDOS) – 1.2/1.21 readme: version changes, sound card setup, technical issues, music credits
-[^ref-11]: [Abandonware DOS – NASCAR Racing](https://www.abandonwaredos.com/abandonware-game.php?abandonware=NASCAR+Racing&gid=979) – awards, user ratings
+[^ref-11]: [Abandonware DOS – NASCAR Racing](https://www.abandonwaredos.com/abandonware-game.php?abandonware=NASCAR+Racing&gid=979) – user ratings
 [^ref-12]: [My Abandonware – NASCAR Racing](https://www.myabandonware.com/game/nascar-racing-28z) – user reviews, version info, technical notes
 [^ref-13]: [Top Gear – Remembering Classic Games: NASCAR Racing](https://www.topgear.com/car-news/gaming/remembering-classic-games-nascar-racing-1994) – historical retrospective, "Hawaii" online service
-[^ref-14]: [IMDB – NASCAR Racing](https://www.imdb.com/find/?q=NASCAR+Racing&s=tt) – user ratings
+[^ref-14]: [IMDb – NASCAR Racing (Video Game 1994)](https://www.imdb.com/title/tt6053476/) – user ratings
 [^ref-15]: [Lilura1 – Papyrus Design Group Racing Games](https://lilura1.blogspot.com/2022/06/Papyrus-Design-Group-Racing-Computer-Games.html) – "released ... for IBM PC MS-DOS 5.0 in October of 1994"
 [^ref-17]: [The Cutting Room Floor – NASCAR Racing](https://tcrf.net/NASCAR_Racing) – US release date, regional differences
 [^ref-18]: [Sierra Help – NASCAR Racing Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html) – patch 1.01 (Mac) and 1.21
@@ -284,7 +283,10 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 [^ref-22]: [Traxion.gg – The Papyrus Design Group Story](https://traxion.gg/how-iracing-came-to-be-the-papyrus-design-group-story/) – Sierra acquisition timeline, iRacing origins (September 2004, NR2003 code)
 [^ref-23]: [PCGamingWiki – NASCAR Racing 2003 Season](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2003_Season) – modding community, Papy3D engine
 [^ref-24]: [Reddit r/NR2003 – Getting Started Guide](https://www.reddit.com/r/Nr2003/comments/16y3ygr/read_this_first_the_rnr2003_getting_started_guide/) – community dedication
-[^ref-25]: [American Sim Racing – Hall of Fame](https://americansimracing.com/hall-of-fame/) – online league history
+[^ref-25]: [American Sim Racing – Hall of Fame](https://americansimracing.com/hall-of-fame/) – online league winners from 1998 (N2 onward)
 [^ref-26]: [Reddit r/NASCAR – Game Manual Discovery](https://www.reddit.com/r/NASCAR/comments/3uncve/they_dont_make_them_likes_this_anymore_1994/) – manual page count
 [^ref-28]: [NASCAR.com – NASCAR 25's launch provides full-circle moment for creators from a golden age](https://www.nascar.com/news-media/2025/10/14/nascar-25s-launch-provides-full-circle-moment-for-creators-from-a-golden-age/) – October 14, 2025; Matt Lewis on Papyrus's NASCAR 2003 and NASCAR 25
 [^ref-29]: [Next Generation – More Sports from Sierra (Dec 1, 1995, Wayback Machine)](https://web.archive.org/web/19970419221611/http://www.next-generation.com/news/120195e.html) – Sierra's acquisition of Papyrus, Ken Williams quote, October 1994 release, 350,000 copies sold
+[^ref-30]: [iRacing.com – FAQs (2006, Wayback Machine)](https://web.archive.org/web/20060827200259/http://www.iracing.com:80/faqs.htm) – "We used the NR2003 code as a starting point"
+[^ref-31]: [Motor Sport – The man who made iRacing: Dave Kaemmer's smash hit (October 2021)](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) – says iRacing launched on "a modified version of the source code for NASCAR Racing 4"
+[^ref-32]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – May 28, 2004 sale of NR2003 copyrights to FIRST.net, LLC
