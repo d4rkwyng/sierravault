@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
@@ -18,11 +18,11 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—after Sierra closed its doors in 1999, little was heard from them in computer game development until they pitched Hero-U on Kickstarter in 2012[^ref-17]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
+Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. It was released in July 2018 after a long development funded through two separate Kickstarter campaigns. Accounts of that development differ: Transolar's own site says the game took "three years to complete"[^ref-6], Corey Cole told RPGFan in 2022 that development "ballooned to over five years"[^ref-33], and the first Kickstarter (October 2012) came almost six years before the July 9, 2018 release[^ref-47][^ref-6]. Choicest Games wrote that after Yosemite Entertainment closed in 1999 "not much was heard from the Coles in terms of computer game development for quite some time"[^ref-17], though in those years the Coles worked on online projects such as Explorati (2001) and The School for Heroes[^ref-48][^ref-49][^ref-50]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
 
 The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-46]. Set over a 50-day in-game timeline, players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
 
@@ -104,7 +104,7 @@ RPGWatch's Corwin review summarized the consensus well: "The Coles have picked u
 
 ### Origins
 
-Hero-U's origins trace back to the Coles' earlier work on a defunct email-based web game called "The School for Heroes," which explored similar themes of heroic education[^ref-1]. After leaving Sierra On-Line following the completion of Quest for Glory V in 1998, the Coles largely stepped away from game development. Their return was inspired partly by the Kickstarter renaissance that saw other veteran designers successfully crowdfunding spiritual successors to beloved franchises[^ref-32].
+Hero-U's origins trace back to the Coles' earlier work on a defunct email-based web game called "The School for Heroes," which explored similar themes of heroic education[^ref-1]. After Quest for Glory V (1998) and the 1999 closure of Sierra's Yosemite Entertainment office, the Coles turned to online projects rather than boxed adventure games: Corey worked on Explorati (2001) and JetSetPoker.com (2003), and the couple ran The School for Heroes website[^ref-48][^ref-49]. In 2008 they were already planning a School for Heroes game[^ref-50]. Their return was inspired partly by the Kickstarter renaissance that saw other veteran designers successfully crowdfunding spiritual successors to beloved franchises[^ref-32].
 
 The game was originally conceived as a project the Coles believed they could complete in 1-2 years with a modest budget[^ref-33]. As Corey Cole explained in an October 2012 interview: "We are making a game with equally rich game play that we can develop under a much smaller budget"[^ref-9]. When the Coles began seriously considering a Kickstarter in mid-2012, a Quest for Glory VI "was on the table" alongside a Quest for Glory I reboot and unrelated projects, but they had no license to make a Quest for Glory game and chose Hero-U instead[^ref-9]. "The #1 goal is to make a great game that players will love; everything else is secondary," Cole stated[^ref-9].
 
@@ -222,7 +222,7 @@ The dedicated fan community has produced extensive documentation including detai
 
 Hero-U: Rogue to Redemption occupies a unique position in gaming history as both a nostalgia piece and a genuine attempt to evolve the adventure-RPG hybrid genre. Created by designers who helped define that genre decades earlier, the game represents both a validation of crowdfunding's potential to revive dormant franchises and a cautionary tale about the challenges of independent development.
 
-The game's six-year development cycle—transforming what was planned as a 1-2 year project—exemplifies the difficulties faced by veteran designers returning to a dramatically changed industry. Yet the final product, despite its limitations, successfully captured the spirit that made Quest for Glory beloved while adapting to modern sensibilities. As RPGFan noted, "Like the original series, Hero-U is a valiant effort to merge the good qualities of graphic adventure games, RPGs, and storytelling"[^ref-28].
+The game's long development—"over five years" by Corey Cole's count, for what was planned as a 1-2 year project[^ref-33]—exemplifies the difficulties faced by veteran designers returning to a dramatically changed industry. Yet the final product, despite its limitations, successfully captured the spirit that made Quest for Glory beloved while adapting to modern sensibilities. As RPGFan noted, "Like the original series, Hero-U is a valiant effort to merge the good qualities of graphic adventure games, RPGs, and storytelling"[^ref-28].
 
 Hero-U also represents the beginning of an intended series, with the Coles planning additional games featuring different character classes at the university. Summer Daze at Hero-U, a visual novel spinoff, was announced as a follow-up, with the Coles drawing inspiration from games like Dream Daddy and Magical Diary[^ref-33]. While the commercial reception may not have fully supported the ambitious multi-game vision, Rogue to Redemption stands as proof that the adventure-RPG hybrid still has devoted fans and creative potential in the modern era.
 
@@ -301,3 +301,7 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 [^ref-44]: [SteamSpy](https://steamspy.com/app/1011020) – ownership estimates
 [^ref-45]: [Steam Community Forum](https://steamcommunity.com/app/375440/discussions/0/3160848559774044051/) – student handbook reference
 [^ref-46]: [Hero-U Official Website](http://www.hero-u.com/) – story premise (wannabe thief caught in first burglary, sent to Hero University), PlayStation "Coming soon" note
+[^ref-47]: [Kickstarter – Hero-U: Rogue to Redemption](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption) – funding period Oct 19, 2012 – Nov 20, 2012; $409,150 pledged of $400,000 goal, 6,093 backers
+[^ref-48]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) – biography: after Sierra closed Yosemite Entertainment in 1999, online games "Explorati (2001), and JetSetPoker.com (2003)"; worked with Lori on TheSchoolForHeroes.com (dossier copy, January 2026)
+[^ref-49]: [Adventure Gamers – Corey Cole interview (Evan Dickens, May 20, 2002; Wayback 2022)](https://web.archive.org/web/20220407063816/https://adventuregamers.com/articles/view/17520) – "Lori and I are currently working with a company named 'Explorati, Inc.'"
+[^ref-50]: [Strange Horizons – Games to Life: An Interview with Lori, Corey, and Michael Cole of Transolar Games (Joseph Howse, 26 May 2008)](http://strangehorizons.com/non-fiction/articles/games-to-life-an-interview-with-lori-corey-and-michael-cole-of-transolar-games/) – "We are now creating the School for Heroes game"

@@ -23,7 +23,7 @@ Corey and Lori Ann Cole co-designed the first four Quest for Glory games at Sier
 
 Transolar's *Hero-U: Rogue to Redemption* was funded on Kickstarter between October 19 and November 20, 2012, raising $409,150 from 6,093 backers against a $400,000 goal.[^ref-2] PC Gamer summed up its road to release as "Six years, two Kickstarter campaigns, and one home equity loan later".[^ref-8] The same article reports that the Coles took out "a $150,000 home equity loan to pay their own living expenses while Hero-U was in development."[^ref-8] The game came out in July 2018.[^ref-1][^ref-3][^ref-5]
 
-A second Kickstarter, *Summer Daze at Hero-U*, ran from October 1 to November 5, 2019 and raised $106,155 from 1,639 backers against a $99,999 goal.[^ref-21] The first part, *Summer Daze: Tilly's Tale*, was released in March 2023.[^ref-7]
+The Coles' third Kickstarter, *Summer Daze at Hero-U*, ran from October 1 to November 5, 2019 and raised $106,155 from 1,639 backers against a $99,999 goal; its page refers to backers of "the previous Kickstarter campaigns" for Hero-U.[^ref-21][^ref-24][^ref-23] The first part, *Summer Daze: Tilly's Tale*, was released in March 2023.[^ref-7]
 
 ## Current Status
 
@@ -64,3 +64,5 @@ In a September 16, 2026 update to Summer Daze backers, Corey Cole recalled that 
 [^ref-20]: [TranSolar Games contact page (Wayback, September 2000)](https://web.archive.org/web/20000901091945/http://www.transolar.com:80/contact.htm) - "TranSolar Games, P. O. Box 2350, Oakhurst, CA 93644-2350"
 [^ref-21]: [Kickstarter - Summer Daze at Hero-U](https://www.kickstarter.com/projects/transolargames/summer-daze-at-hero-u) - $106,155 pledged of $99,999 goal, 1,639 backers; funding period Oct 1 – Nov 5, 2019
 [^ref-22]: [Summer Daze project updates (BackerKit)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) - Update of Sep 16, 2026: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
+[^ref-23]: [PC Gamer – From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all (Jody Macgregor, 22 March 2023)](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all/) - "Our first Kickstarter we asked for $400,000"; "Another Kickstarter followed" for Hero-U; then "another Kickstarter for a more modestly budgeted visual novel"
+[^ref-24]: [Kickstarter - Summer Daze at Hero-U, campaign description](https://www.kickstarter.com/projects/transolargames/summer-daze-at-hero-u/description) - Hero-U soundtrack "previously available only to $35 and higher backers of the previous Kickstarter campaigns"
