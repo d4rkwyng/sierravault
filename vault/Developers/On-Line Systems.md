@@ -54,7 +54,7 @@ The player is a wanderer in the land of Serenia who sets out to rescue King Geor
 
 ### Threshold (1981)
 
-*Threshold* is a fixed shooter written by [[Warren Schwader]] and Ken Williams for the Apple II, based on Sega's arcade game *Astro Blaster*. Ken wrote the Apple II animation routines during two weeks of the two-month project.[^ref-23] On-Line Systems sold about 25,000 copies. Ports followed for the Atari 8-bit, VIC-20, Commodore 64, ColecoVision and Thomson computers, and Tigervision published an Atari 2600 adaptation.[^ref-23]
+*Threshold* is a fixed shooter written by [[Warren Schwader]] and Ken Williams for the Apple II, based on Sega's arcade game *Astro Blaster*. Ken wrote the Apple II animation routines during two weeks of the project,[^ref-23] which Schwader said "took about four months to write start to finish."[^ref-42] On-Line Systems sold about 25,000 copies. Ports followed for the Atari 8-bit, VIC-20, Commodore 64, ColecoVision and Thomson computers, and Tigervision published an Atari 2600 adaptation.[^ref-23]
 
 ## Key People
 
@@ -130,3 +130,4 @@ The company itself continued as Sierra On-Line, later Sierra Entertainment, whos
 [^ref-39]: [Adventure in Serenia manual, IBM/On-Line Systems, September 1982 (Internet Archive)](https://archive.org/details/vgmuseum_sierra_serenia-manual) — IBM program license; "© Copyright IBM Corp. 1982"; "Implemented by Jeff Stephenson"
 [^ref-40]: [Softalk, January 1981 (Internet Archive)](https://archive.org/details/softalkv1n05jan1981) — Top Thirty includes "Hi-Res Football, Jay Sullivan and Ken Williams, On-Line Systems"
 [^ref-41]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) — Sources disagree on the first office. Softalk's February 1981 profile says the Williamses "opened an office and hired their first two employees" and that "their office is on the top floor of Coarsegold's tallest office building—a two-story structure." Filfre (ref-27) and HistoryLink (ref-13) place the first office in Oakhurst, with John Williams as the first employee. The difference may reflect the company's Coarsegold mailing address; it is unresolved.
+[^ref-42]: [Halcyon Days - Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — "Threshold took about four months to write start to finish. That includes the two weeks that Ken and I..."

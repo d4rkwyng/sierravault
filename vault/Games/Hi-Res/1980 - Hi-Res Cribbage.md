@@ -10,7 +10,7 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Hi-Res Cribbage is a single-player cribbage game for the Apple II, written
   by Warren Schwader and published by On-Line Systems, which hired Schwader on the
   strength of it.
@@ -18,7 +18,7 @@ tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ Modern game databases have preserved information about Hi-Res Cribbage, though r
 
 ### Origins
 
-Hi-Res Cribbage was developed by Warren Schwader during a difficult period in his life. His older brother, who had been paralyzed in a car accident, had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] After his mother died, Schwader took care of his disabled brother, and the money he received from the state for that care let him keep working on the cribbage game.[^ref-5]
+Hi-Res Cribbage was developed by Warren Schwader during a difficult period in his life. His older brother, whom Schwader calls "my older disabled brother,"[^ref-5] had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] After his mother died, Schwader took care of his disabled brother, and the money he received from the state for that care let him keep working on the cribbage game.[^ref-5]
 
 Schwader was getting into cribbage at the time, but he "often didn't have anyone to play against," which led him to write a computer opponent.[^ref-6] The game followed his earlier cassette title Smash-Up, a *Head-On* clone.[^ref-6]
 
@@ -138,7 +138,7 @@ No specific technical issues or bugs have been documented in available sources.
 - An introductory guide to the game appeared in the first *On-Line Letter* newsletter in June 1981.[^ref-6]
 - Schwader was hired by On-Line Systems after a few of his cassettes "found their way out to California where Ken Williams saw them."[^ref-5][^ref-6]
 - The game's rules follow traditional cribbage, a game attributed to Sir John Suckling in 1600s England.[^ref-6]
-- Schwader's path to On-Line Systems began when his brother bought an Apple II after his accident.[^ref-6]
+- Schwader's path to On-Line Systems began when his older brother, in Schwader's words "my older disabled brother," bought an Apple II.[^ref-5][^ref-6]
 - RetroMags hosts an advertisement scan for the game in its Apple II advertisements gallery.[^ref-11]
 
 ## Legacy

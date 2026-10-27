@@ -10,13 +10,13 @@ series: Hi-Res Adventures
 engine: ADL (Adventure Development Language)
 protagonist: Unnamed Time Traveler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 description: "Time Zone (1982), Hi-Res Adventure #5, is Roberta Williams's time-travel epic for the Apple II, with about 1,300 rooms on both sides of six disks, sold by On-Line Systems for $99.95."
 tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -112,7 +112,7 @@ Taking into account the sheer quantity of locations, On-Line priced the game at 
 
 ### Production
 
-Roberta Williams told Computer Gaming World that she spent six months on the design by herself, working three or four hours a day, and then worked with the others on and off for eight more months: "It was fourteen months before it was finally done."[^ref-16] The manual lists ten people who worked on the game: Roberta and Ken Williams, Bob Davis, Rorke Weigandt, Jeff Stephenson, Warren Schwader, Eric Griswold, Terry Pierce, Barry Blosser and Michelle Pritchard.[^ref-14] Roberta clarified that some of the ten were not full-time; Ken, for example, had written the original interpreter that Jeff Stephenson reworked for Time Zone.[^ref-16]
+Roberta Williams told Computer Gaming World that she spent six months on the design by herself, working three or four hours a day, and then worked with the others on and off for eight more months: "It was fourteen months before it was finally done."[^ref-16] The manual lists ten people who worked on the game: Roberta and Ken Williams, Bob Davis, Rorke Weigandt, Jeff Stephenson, [[Warren Schwader]], Eric Griswold, Terry Pierce, Barry Blosser and Michelle Pritchard.[^ref-14] Roberta clarified that some of the ten were not full-time; Ken, for example, had written the original interpreter that Jeff Stephenson reworked for Time Zone.[^ref-16]
 
 Maher argues that the team was probably the largest yet assembled to make a computer game, and that it marked a step toward the modern model in which designers, programmers and artists are separate specialists.[^ref-5] He describes Terry Pierce, an 18-year-old hired out of the local high school, drawing the pictures in pencil on graph paper for others to trace into the computer.[^ref-5] In Maher's account, the project "started to go off the rails pretty quickly" under coordinator Bob Davis, until [[Jeff Stephenson]] arrived as co-head; Time Zone was Stephenson's first assignment at On-Line.[^ref-5] Softalk reported that the game first filled twenty-two disks before new algorithms "crammed" it onto six double-sided disks.[^ref-20]
 
@@ -130,7 +130,7 @@ Roberta Williams later reflected on the scope of the undertaking: "Once we got i
 
 ### Technical Achievements
 
-Time Zone used On-Line's ADL (Adventure Development Language) engine, which powered the Hi-Res Adventures series.[^ref-1] According to the manual, fitting the game into memory "required a complete restructuring of our adventure programming procedures," including new graphics routines and a new way to move information from one scenario disk to another.[^ref-14] Warren Schwader's new color-fill routines put color on screen about three times faster than in On-Line's other adventures.[^ref-14] Moving to a new region triggers an "information transfer" delay of about ten seconds.[^ref-14]
+Time Zone used On-Line's ADL (Adventure Development Language) engine, which powered the Hi-Res Adventures series.[^ref-1] According to the manual, fitting the game into memory "required a complete restructuring of our adventure programming procedures," including new graphics routines and a new way to move information from one scenario disk to another.[^ref-14] The manual credits "the new color fill routines, designed by Warren Schwader, that put the color on screen approximately 3 times faster than our other adventures."[^ref-14] Moving to a new region triggers an "information transfer" delay of about ten seconds.[^ref-14]
 
 The game shipped on six double-sided floppy disks, twelve disk sides in total.[^ref-12] The disks are differentiated by volume number, and players must swap disks as they travel between regions.[^ref-12][^ref-14]
 
