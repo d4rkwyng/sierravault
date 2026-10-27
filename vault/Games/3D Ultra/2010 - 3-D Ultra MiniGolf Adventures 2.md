@@ -7,10 +7,10 @@ publisher: Konami Digital Entertainment
 genre: Sports
 platforms: [Xbox 360, Xbox Live Arcade, PlayStation 3, PlayStation Network]
 series: 3D Ultra
-engine: Wanako Engine
+engine: Unknown
 protagonist: Customizable Golfer
-sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+sierra_lineage: Post-Sierra
+last_updated: '2026-10-27'
 description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
  Games and published by Konami Digital Entertainment, released in October 2010 for Xbox
  Live...
@@ -19,15 +19,15 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Konami Digital Entertainment[^ref-5][^ref-12][^ref-21], released on October 27, 2010 for Xbox Live Arcade at 800 Microsoft Points and subsequently on PlayStation Network[^ref-12][^ref-13]. It is the sequel to 3D Ultra Minigolf Adventures in a series that began with 3-D Ultra MiniGolf in 1997[^ref-5]. Adventures 2 built upon the foundation established by 3D Ultra Minigolf Adventures (2006/2007), expanding to 54 holes across three new themed environments: Haunted Manor, Manic Museum, and Winter Wonderland[^ref-13][^ref-14].
+3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Konami Digital Entertainment[^ref-5][^ref-12][^ref-21], released on October 27, 2010 for Xbox Live Arcade at 800 Microsoft Points[^ref-12][^ref-13] and on November 16, 2010 for PlayStation 3 via PlayStation Network[^ref-12]. It is the sequel to 3D Ultra Minigolf Adventures in a series that began with 3-D Ultra MiniGolf in 1997[^ref-5]. Adventures 2 built upon the foundation established by 3D Ultra Minigolf Adventures (2006/2007), expanding to 54 holes across three new themed environments: Haunted Manor, Manic Museum, and Winter Wonderland[^ref-13][^ref-14].
 
-The franchise's history stretches back to Dynamix's original 3-D Ultra MiniGolf, which promised players "mini golf just the way you remember it... only much, much cooler" with "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3]. Following Dynamix's closure in 2001, development of the Adventures series was handled by Wanako Games (later known as Wanako Studios), who inherited design elements from the cancelled "Minigolf Maniacs" project originally planned for PC and PlayStation 2[^ref-5].
+The franchise's history stretches back to Dynamix's original 3-D Ultra MiniGolf, which promised players "mini golf just the way you remember it... only much, much cooler" with "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3]. Following Dynamix's closure in 2001, development of the Adventures series was handled by Wanako Games (renamed Behaviour Santiago in November 2010)[^ref-22], who inherited design elements from the cancelled "Minigolf Maniacs" project originally planned for PC and PlayStation 2[^ref-5].
 
-Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes total and added new themed environments while maintaining the accessible gameplay that characterized the series[^ref-13]. The game featured four-player multiplayer matches with sabotaging power-ups, and introduced character customization with accessories like diving helmets, elf ears, and Roman sandals — plus Xbox 360 players could use their Xbox Avatar[^ref-13][^ref-14].
+Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes total and added new themed environments while maintaining the accessible gameplay that characterized the series[^ref-13]. The game featured four-player multiplayer matches with sabotaging power-ups, and introduced character customization with accessories like diving helmets, elf ears, and Roman sandals[^ref-13][^ref-14] — plus Xbox 360 players could use their Xbox Avatar[^ref-12].
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-5]
@@ -36,23 +36,21 @@ Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes 
 > **Platforms:** Xbox 360, Xbox Live Arcade, PlayStation 3, PlayStation Network[^ref-5]
 > **Release Year:** 2010
 > **Series:** 3D Ultra
-> **Sierra Lineage:** Core Sierra
-> **Engine:** Wanako Engine
+> **Sierra Lineage:** Post-Sierra
+> **Engine:** Unknown
 > **Protagonist:** Customizable Golfer
 
 ## Story Summary
 
-The 3D Ultra MiniGolf series eschews traditional narrative for immersive themed environments, focusing instead on creative course design and physics-based gameplay. Adventures 2 continued this tradition with new themed courses that expanded upon the original Adventures content.
+MobyGames describes Adventures 2 as returning "with new levels and special moves while retaining the same style," across 54 themed holes "such as a haunted mansion and an icy mountain"[^ref-12].
 
 The franchise's approach to course design evolved significantly from the original 1997 game, which featured 18 holes with traditional miniature golf elements like windmills and lighthouses, plus fantasy-themed courses including moon and dinosaur settings[^ref-8]. The Adventures series expanded this concept substantially—the first Adventures offered 36 holes spanning three distinct environments: a Classic Carnival, an Old West ghost town, and outer space locations[^ref-15]. As IGN's review of that first Adventures put it, "Screw the old windmill. Sierra's wacky new XBLA title takes you to outer space"[^ref-11].
-
-Adventures 2 continued this tradition of creative themed environments, building upon the established formula while adding new courses and gameplay refinements. The game emphasized accessible fun over realistic golf simulation, making it suitable for players of all ages and skill levels.
 
 ## Gameplay
 
 ### Interface and Controls
 
-The series introduced multiple control schemes that became influential in golf game design. The original featured two primary methods: "EasyPutt" and "TruePutt," with one reviewer observing "There's a reason why the EasyPutt style is still around in golf games to this day and TruePutt is lost to time"[^ref-3]. Adventures offered three control options: a Tiger Woods-style right stick system, a three-click A button method, and a hold-and-release A button technique[^ref-1]. One GameFAQs reviewer of the 2006 game praised this variety: "Control in this game is nicely handled... I'm really surprised they offered all three options"[^ref-7].
+The series offered multiple control schemes. The original featured two primary methods: "EasyPutt" and "TruePutt," with one reviewer observing "There's a reason why the EasyPutt style is still around in golf games to this day and TruePutt is lost to time"[^ref-3]. Adventures offered three control options: a Tiger Woods-style right stick system, a three-click A button method, and a hold-and-release A button technique[^ref-1]. One GameFAQs reviewer of the 2006 game praised this variety: "Control in this game is nicely handled... I'm really surprised they offered all three options"[^ref-7].
 
 ### Structure and Progression
 
@@ -60,7 +58,7 @@ The original game provided 18 holes total across two 9-hole courses[^ref-3], whi
 
 ### Puzzles and Mechanics
 
-The series emphasized physics-based puzzle solving over traditional golf mechanics. However, this proved problematic in Adventures (2006), with GameSpot's Aaron Thomas noting "The physics are so erratic that you never know how far the ball will actually go or how it will react when it hits something"[^ref-9]. GamesRadar's review of that game was equally critical: "It's too bad the shoddy physics ruin what could have otherwise been a solid game of golf"[^ref-10]. GamesRadar also wrote that its courses avoided "standard, low-rent mini golf fare" in favor of elaborate themed environments[^ref-10].
+The series emphasized physics-based puzzle solving over traditional golf mechanics. However, this proved problematic in Adventures (2006), with GameSpot's Aaron Thomas noting "The physics are so erratic that you never know how far the ball will actually go or how it will react when it hits something"[^ref-9]. GamesRadar's review of that game was equally critical: "It's too bad the shoddy, simplistic physics ruin what could otherwise be a solid game of golf"[^ref-10]. GamesRadar also wrote that its courses avoided "standard, low-rent mini golf fare" in favor of elaborate themed environments[^ref-10].
 
 ## Reception
 
@@ -72,7 +70,7 @@ Adventures 2 received mixed critical reception with too few aggregated reviews o
 
 ### Modern Assessment
 
-The Collection Chamber called the 1997 original "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The 2006 Adventures game is still sold on Steam, where its user reviews are rated "Mixed" (94 of 135 positive, about 70%)[^ref-19].
+The Collection Chamber called the 1997 original "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The 2006 Adventures game is still sold on Steam, where its user reviews are rated "Mostly Positive" (70% of 117 reviews, as of October 2026)[^ref-19].
 
 ## Development
 
@@ -90,21 +88,21 @@ The 3D Ultra MiniGolf franchise emerged from Sierra's successful 3D Ultra series
 
 ### Production
 
-The series faced significant development challenges following Dynamix's closure in 2001. The planned sequel "Minigolf Maniacs" for PC and PlayStation 2 was left unfinished[^ref-5]. Sierra On-Line announced renewed development on September 27, 2006, with Wanako Studios (previously known for Assault Heroes) taking over the project[^ref-6]. Many level designs and mechanics from the cancelled Maniacs were retrofitted for Adventures[^ref-5].
+The series faced significant development challenges following Dynamix's closure in 2001. The planned sequel "Minigolf Maniacs" for PC and PlayStation 2 was left unfinished[^ref-5]. Sierra On-Line announced the development of 3D Ultra Minigolf Adventures on September 27, 2006[^ref-4]; it was developed by Wanako, whose previous Xbox Live Arcade game was Assault Heroes[^ref-6]. Many level designs and mechanics from the cancelled Maniacs were retrofitted for Adventures[^ref-5].
 
-Adventures 2 was again developed by Wanako Games, but was published by Konami Digital Entertainment rather than Sierra; Konami announced the sequel in March 2010 for Xbox Live Arcade and PlayStation Network, with four-player online play and a map editor[^ref-5][^ref-21].
+Adventures 2 was again developed by Wanako Games and produced by Artificial Mind and Movement, but was published by Konami Digital Entertainment rather than Sierra; Konami announced the sequel in March 2010 for Xbox Live Arcade and PlayStation Network, with four-player online play and a map editor[^ref-5][^ref-21].
 
 ### Technical Achievements
 
 The original game faced technical limitations typical of its era, with one persistent issue being that the "Preferences button on main menu crashes the game"[^ref-3]. Adventures improved technical specifications significantly, with the PC version requiring a "Direct 3D 32MB DirectX 9.0c" graphics card[^ref-19] and a 43MB download size for Xbox Live Arcade[^ref-9].
 
-Adventures 2 further enhanced the technical presentation with improved visuals and smoother gameplay compared to its predecessor. However, technical problems persisted, with a GameFAQs reviewer of the 2006 game noting "My biggest problem with the game is the load times though. Sometimes it takes forever for a hole to load"[^ref-7].
+The 2006 game had its own technical complaints; a GameFAQs reviewer wrote, "My biggest problem with the game is the load times though. Sometimes it takes forever for a hole to load"[^ref-7].
 
 ## Legacy
 
-The 3D Ultra MiniGolf series established lasting influence in casual gaming, particularly in control scheme design. The franchise's longevity is evident in its continued availability across modern platforms, from Steam digital distribution[^ref-19] to preservation sites like MyAbandonware[^ref-17]. ZTGD's Terrence Johnson summarized Adventures (2006): "All in all this is a very good game" despite technical shortcomings[^ref-20]. The series received additional content through expansions like the Lost Island pack released July 25, 2007[^ref-4], and spawned sequels through 2010[^ref-5].
+The franchise's longevity is evident in its continued availability across modern platforms, from Steam digital distribution[^ref-19] to preservation sites like MyAbandonware[^ref-17]. ZTGD's Terrence Johnson summarized Adventures (2006): "All in all this is a very good game" despite technical shortcomings[^ref-20]. The series received additional content through expansions like the Lost Island pack released July 25, 2007[^ref-4], and spawned sequels through 2010[^ref-5].
 
-Reviewers of Adventures (2006) recognized both its potential and limitations. Eurogamer noted it "falls short of the gut-busting potential presented by online crazy golf"[^ref-6], while IGN praised it as particularly enjoyable "on a Saturday night with a favorite beverage nearby"[^ref-11]. The franchise's influence on casual gaming remains evident in modern miniature golf games that continue using the control schemes pioneered in the original 1997 release.
+Reviewers of Adventures (2006) recognized both its potential and limitations. Eurogamer noted it "falls short of the gut-busting potential presented by online crazy golf"[^ref-6], while IGN praised it as particularly enjoyable "on a Saturday night with a favorite beverage nearby"[^ref-11].
 
 
 ## Purchase
@@ -113,12 +111,14 @@ Not currently sold on GOG; fans can vote for it on the [GOG Dreamlist](https://w
 
 ## Downloads
 
+The links below are for earlier games in the series, not for Adventures 2 itself.
+
 **Purchase / Digital Stores**
-- [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-19]
+- [Steam - 3D Ultra Minigolf Adventures (2006)](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-19]
 
 **Download / Preservation**
-- [MyAbandonware - 3-D Ultra MiniGolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6)[^ref-17]
-- [Collection Chamber - Enhanced compatibility version](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html)[^ref-3]
+- [MyAbandonware - 3-D Ultra MiniGolf (1997)](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6)[^ref-17]
+- [Collection Chamber - 3-D Ultra MiniGolf (1997), enhanced compatibility version](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html)[^ref-3]
 
 Adventures 2 is documented across multiple gaming databases including MobyGames[^ref-12] and XboxAchievements[^ref-14], while the original 3-D Ultra MiniGolf is preserved through MyAbandonware[^ref-17] and SierraChest[^ref-18].
 
@@ -152,7 +152,7 @@ Adventures 2 is documented across multiple gaming databases including MobyGames[
 [^ref-7]: [GameFAQs - 3D Ultra Minigolf Adventures User Review](https://gamefaqs.gamespot.com/pc/939807-3d-ultra-minigolf-adventures/reviews/118653) - User review with technical criticism and gameplay praise
 [^ref-8]: [GameFirst - 3D Mini Golf Review](https://web.archive.org/web/20110528081221/http://www.gamesfirst.com/reviews/craig/3DMini/3dmini.htm) - Archival review with course descriptions and hidden features
 [^ref-9]: [GameSpot - 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) - Professional review with physics criticism and feature breakdown
-[^ref-10]: [GamesRadar - 3D Ultra Minigolf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) - Review focusing on physics issues and course design
+[^ref-10]: [GamesRadar - 3D Ultra Minigolf Adventures Review](https://web.archive.org/web/20160304134436/http://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) - Review focusing on physics issues and course design
 [^ref-11]: [IGN - 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) - Professional review with multiplayer focus and final verdict
 [^ref-12]: [MobyGames – 3D Ultra Mini Golf Adventures 2 (2010)](https://www.mobygames.com/game/53716/3d-ultra-mini-golf-adventures-2/) – Database entry for the 2010 sequel with platform releases, credits, and metadata
 [^ref-13]: [Xbox Wire – Arcade: 3D Ultra MiniGolf Adventures 2 (October 27, 2010)](https://news.xbox.com/en-us/2010/10/27/arcade-3d-ultra-minigolf-adventures-2/) – Official Microsoft announcement with release date, price, 54-hole course count, theme names, and gameplay features
@@ -164,3 +164,4 @@ Adventures 2 is documented across multiple gaming databases including MobyGames[
 [^ref-19]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Official store page with system requirements and user reviews
 [^ref-20]: [ZTGD - 3D Ultra Minigolf Adventures Review](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) - Contemporary review with gameplay mechanics overview
 [^ref-21]: [Game Informer – 3D MiniGolf 2 (March 11, 2010)](https://gameinformer.com/b/news/archive/2010/03/11/3d-minigolf-2) – Konami's announcement of the sequel for Xbox Live Arcade and PlayStation Network, with four-player online play and a map editor
+[^ref-22]: [Wikipedia – Behaviour Santiago](https://en.wikipedia.org/wiki/Behaviour_Santiago) – Wanako Games' history: acquired by Artificial Mind and Movement in December 2008, renamed Behaviour Santiago on 8 November 2010
