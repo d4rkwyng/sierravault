@@ -59,7 +59,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Barking Dog Studios]] | May 1998 | Developed Homeworld: Cataclysm (2000) | Acquired by Take-Two August 2002 (Rockstar Vancouver; merged into Rockstar Toronto 2012) | Homeworld: Cataclysm[^ref-31] |
 | [[Stainless Steel Studios]] | October 1997 or January 1998 (sources differ) | Sierra published Empire Earth (2001) | Closed November 2005 | Empire Earth[^ref-32][^ref-91][^ref-92] |
 | [[Massive Entertainment]] | 1997 | Sierra Studios published Ground Control (2000); owned by Vivendi Universal Games 2002–2008 | Active (Ubisoft since 2008) | Ground Control series[^ref-33] |
-| [[Jeff Tunnell Productions]] | Early 1992 | Separate studio next door to Dynamix; merged back into Dynamix in 1995 | Folded into Dynamix | The Incredible Machine[^ref-34] |
+| [[Jeff Tunnell Productions]] | Early 1992 | Dynamix's first spin-off division, in its own office near Dynamix in Eugene; merged back into Dynamix in 1995 | Folded into Dynamix | The Incredible Machine[^ref-34][^ref-110] |
 
 ## Later Sierra partners (Vivendi era)
 
@@ -214,3 +214,4 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-107]: [Sierra On-Line, Inc. Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Agreement and Plan of Merger "dated as of April 12, 1996" among Sierra, Birdie Acquisition Corp., Headgate, Inc. (a Utah corporation) and its shareholders
 [^ref-108]: [Headgate Studios — Company Info (Wayback, September 2007)](https://web.archive.org/web/20070915034531/http://www.headgatestudios.com/company.html) — "Since it's creation in 1992"; Front Page Sports Golf, PGA Championship Golf '99 and 2000
 [^ref-109]: [Himalaya Studios — Press Releases (Wayback, October 2006)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) — "Al Emmo ships! Phoenix, Arizona - September 6, 2006"
+[^ref-110]: [InterAction Magazine Vol. V No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — "After Willy Beamish, Jeff began a new direction in his career by forming Dynamix's first spin-off division, entitled Jeff Tunnell Productions"
