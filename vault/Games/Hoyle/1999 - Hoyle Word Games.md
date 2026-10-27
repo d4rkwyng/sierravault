@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: Hoyle Word Games is a 1999 Sierra On-Line compilation of eight word
   games for Windows and Macintosh, part of the long-running Hoyle series.
 tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -99,7 +99,7 @@ Hoyle Word Games joined a Hoyle line that by 1999 already included numerous card
 
 The game was developed by Sierra On-Line, Inc., with production overseen by Executive Producer Stephen H. Van Horn.[^ref-2] Karen Thomas and Robert L. Jerauld are credited as producers.[^ref-2]
 
-The art direction was led by Sr. Artist Rabih AbouJaoudé, who served as Project Lead for the visual design.[^ref-2] Eric Hook and Julian Love are credited as Sr. 3D Artists on the Macintosh version.[^ref-6][^ref-16] The music was composed by Guy Whitmore, and voice actors included Pat Cashman, Jaque Blaney, Cynthia Doyer, Jeff Hoyt, Natacha LaFerrière and Rodney Sherwood.[^ref-16] The programming team was headed by Roger Key as Sr. Software Engineer and Project Lead, with Earl Malmrose serving as Sr. Staff Software Engineer.[^ref-2]
+MobyGames' Macintosh credits list [[Rabih AbouJaoudé]] as "Sr. Artist - Project Lead".[^ref-16] Eric Hook and Julian Love are credited as Sr. 3D Artists on the Macintosh version.[^ref-6][^ref-16] The music was composed by Guy Whitmore, and voice actors included Pat Cashman, Jaque Blaney, Cynthia Doyer, Jeff Hoyt, Natacha LaFerrière and Rodney Sherwood.[^ref-16] The programming team was headed by Roger Key as Sr. Software Engineer and Project Lead, with Earl Malmrose serving as Sr. Staff Software Engineer.[^ref-2]
 
 **Development Credits:**[^ref-2]
 - **Executive Producer:** Stephen H. Van Horn
@@ -108,7 +108,7 @@ The art direction was led by Sr. Artist Rabih AbouJaoudé, who served as Project
 - **Designer:** Paul Horn
 - **Sr. Software Engineer - Project Lead:** Roger Key
 - **Sr. Staff Software Engineer:** Earl Malmrose
-- **Sr. Artist - Project Lead:** Rabih AbouJaoudé
+- **Sr. Artist - Project Lead:** [[Rabih AbouJaoudé]][^ref-16]
 - **Sr. 3D Artist:** Eric Hook[^ref-6]
 - **Writer, Book Designer:** Dana Armstrong
 - **Composer:** Guy Whitmore[^ref-16]

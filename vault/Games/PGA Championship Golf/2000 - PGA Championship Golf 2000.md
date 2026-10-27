@@ -12,7 +12,7 @@ series: PGA Championship Golf
 engine: Unknown
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: >-
   PGA Championship Golf 2000 is a golf simulation developed by Headgate Studios
   for Sierra Sports, featuring the TrueSwing 3 mouse-based swing system and
@@ -26,7 +26,7 @@ tags:
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ MobyGames lists a MobyScore of 8.0 for the game[^ref-7]. A GOG community user re
 
 ### Origins
 
-PGA Championship Golf 2000 was developed by Headgate Studios and published by Sierra Sports, continuing a golf franchise that had evolved from Sierra's Front Page Sports line[^ref-1]. MobyGames credits Vance Cook as director and Mike Jacob as senior producer[^ref-26]. Brian Silvernail, one of the credited Course Architect design consultants, designed the Canaveral Dunes course[^ref-26][^ref-3]. Development focused on refining the TrueSwing interface introduced in the 1999 edition, with improved physics[^ref-8]. The game carried a $29.99 price at launch[^ref-4].
+PGA Championship Golf 2000 was developed by Headgate Studios and published by Sierra Sports, continuing a golf franchise that had evolved from Sierra's Front Page Sports line[^ref-1]. MobyGames credits Vance Cook as director and Mike Jacob as senior producer[^ref-26]. Brian Silvernail, one of the credited Course Architect design consultants, designed the Canaveral Dunes course[^ref-26][^ref-3]. The Gallery Models credits include [[Rabih AbouJaoudé|Rabih Abourjaoude]], whom MobyGames identifies as Hoyle series artist Rabih AbouJaoudé[^ref-26]. Development focused on refining the TrueSwing interface introduced in the 1999 edition, with improved physics[^ref-8]. The game carried a $29.99 price at launch[^ref-4].
 
 ### Technical Achievements
 
@@ -166,5 +166,5 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-22]: [Internet Archive – PGA Championship Golf 2000 Demo](https://archive.org/details/PGA2000D) – Archived demo with technical specifications
 [^ref-23]: [ESRB – PGA Championship Golf 2000](https://www.esrb.org/ratings/5226/pga-championship-golf-2000/) – Rated E for Everyone
 [^ref-24]: [IGN – PGA Championship Golf Collector's Edition Announcement](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – Collector's Edition announcement
-[^ref-26]: [MobyGames – PGA Championship Golf 2000 Credits (Windows)](https://www.mobygames.com/game/2991/pga-championship-golf-2000/credits/windows/) – Vance Cook (Director), Mike Jacob (Sr. Producer), Brian Silvernail among Course Architect Design Consultants
+[^ref-26]: [MobyGames – PGA Championship Golf 2000 Credits (Windows)](https://www.mobygames.com/game/2991/pga-championship-golf-2000/credits/windows/) – Vance Cook (Director), Mike Jacob (Sr. Producer), Brian Silvernail among Course Architect Design Consultants; Gallery Models include Rabih AbouJaoudé (credited as Rabih Abourjaoude)
 [^ref-27]: [MobyGames – PGA Championship Golf 2000 Trivia](https://www.mobygames.com/game/2991/pga-championship-golf-2000/trivia/) – Awards: GameSpy 2000 – Sports Game of the Year
