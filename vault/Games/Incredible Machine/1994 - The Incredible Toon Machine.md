@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics Simulator
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-26'
 composer: [Timothy Clarke (original Sid & Al's)]
 description: The Incredible Toon Machine is a puzzle game released in 1994 by Sierra
   On-Line, developed by Jeff Tunnell Productions with development work also handled
@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Toon Machine
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -32,6 +32,7 @@ What distinguished The Incredible Toon Machine from its more realistic counterpa
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions / Presage Software[^ref-1][^ref-2]
 > **Designer:** Chris Cole, Jeffrey Tunnell, [[Brian Hahn]][^ref-1]
+> **Executive Producer:** Jeffrey Tunnell[^ref-36]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Physics Simulator[^ref-11]
 > **Platforms:** Windows 3.x, Macintosh[^ref-1]
@@ -113,6 +114,7 @@ The Incredible Toon Machine was developed by Jeff Tunnell Productions with Presa
 The development team included designers Chris Cole and Brian Hahn working alongside Jeffrey Tunnell, with the game being published under the Sierra Discovery Series label.[^ref-1][^ref-28] The project represented a collaboration between Jeff Tunnell Productions and Sierra On-Line's educational gaming division.
 
 **Development Credits:**[^ref-1][^ref-17]
+- **Executive Producer:** Jeffrey Tunnell[^ref-36]
 - **Designer:** Chris Cole
 - **Designer:** Jeffrey Tunnell
 - **Designer:** Brian Hahn
@@ -265,3 +267,4 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [^ref-32]: [Sierra Help Pages – New Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – 16-bit compatibility issues, installer information
 [^ref-34]: [IMDB – The Incredible Toon Machine](https://www.imdb.com/title/tt0297967/) – Rob Paulsen voice credit
 [^ref-35]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, Contraption Maker spiritual successor
+[^ref-36]: [MobyGames – The Incredible Toon Machine credits (Windows)](https://web.archive.org/web/20090331013638/http://www.mobygames.com:80/game/windows/incredible-toon-machine/credits) – Wayback, March 2009: "Executive Producer Jeffrey Tunnell"; Original Designers Chris Cole, Jeffrey Tunnell, Brian Hahn
