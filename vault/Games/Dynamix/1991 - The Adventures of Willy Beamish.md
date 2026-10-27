@@ -2,7 +2,7 @@
 title: The Adventures of Willy Beamish
 release_year: 1991
 developer: Dynamix
-designer: [Jeff Tunnell, David Selle, Tom Brooke]
+designer: [Jeff Tunnell, Tom Brooke]
 publisher: [Dynamix, Sierra On-Line, Sega of America]
 genre: Adventure
 platforms: [DOS, Amiga, Mac, Sega CD, Windows]
@@ -29,7 +29,8 @@ The Adventures of Willy Beamish was the last adventure game created by Dynamix, 
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Jeff Tunnell]], [[David Selle]], Tom Brooke[^ref-8]
+> **Designer:** [[Jeff Tunnell]], Tom Brooke[^ref-8]
+> **Writers:** Meryl Perutz, Tony Perutz (screenplay); [[David Selle]], Tom Brooke (writers)[^ref-58]
 > **Publisher:** [[Dynamix]] (Sierra On-Line subsidiary); Sierra On-Line on some US releases; Sega of America (Sega CD)[^ref-1]
 > **Engine:** Dynamix Game Development System (DGDS)[^ref-9]
 > **Platforms:** MS-DOS, Amiga, Macintosh, Sega CD, Windows[^ref-1]
@@ -354,3 +355,4 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-55]: [GOG.com News – Release: The Adventures of Willy Beamish (Wayback Machine, March 2017)](https://web.archive.org/web/20170327151907/https://www.gog.com/news/release_the_adventures_of_willy_beamish) – "foul-smelling catastrophe" plot summary
 [^ref-56]: [ScummVM News – v2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Willy Beamish listed under Newly Supported Games
 [^ref-57]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Tunnell founded Jeff Tunnell Productions in early 1992
+[^ref-58]: [MobyGames – The Adventures of Willy Beamish DOS credits (Wayback, 2024-11-22)](https://web.archive.org/web/20241122210641/https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/credits/dos/) – Original Version Game Team: "Screenplay: Meryl Perutz, Tony Perutz"; "Writers: David Selle, Tom Brooke"

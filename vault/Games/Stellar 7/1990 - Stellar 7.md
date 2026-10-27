@@ -10,14 +10,14 @@ series: Stellar 7
 engine: 3Space
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Stellar 7 is Dynamix's 1990 remake of Damon Slye's 1983 Battlezone-inspired
   tank game, rebuilt with 256-color graphics for DOS and later ported to the Amiga and Macintosh.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -267,7 +267,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-19]: [Every Game Going – Amiga Power Review](https://www.everygamegoing.com/larticle/stellar-7-000/45315/) – Mark Ramshaw review, 67% score, 1 MB requirement
 [^ref-20]: [GameFAQs – Stellar 7](https://gamefaqs.gamespot.com/pc/565146-stellar-7) – user ratings, box art screenshot trivia
 [^ref-23]: [Dynamix Fandom – Stellar 7 (1983)](https://dynamix.fandom.com/wiki/Stellar_7_(1983_game)) – notebook coding, technical specs, living situation
-[^ref-24]: [Dynamix Fandom – David Selle](https://dynamix.fandom.com/wiki/David_Selle) – additional designer credit
+[^ref-24]: [Dynamix Fandom – David Selle](https://dynamix.fandom.com/wiki/David_Selle) – additional designer credit; also [MobyGames – David Selle (Wayback, 2025-09-12)](https://web.archive.org/web/20250912125939/https://www.mobygames.com/person/10264/david-selle/) – "Stellar 7 (1990, DOS) Design Contributors and Playtesters"
 [^ref-25]: [VGMPF Wiki – Stellar 7 DOS](https://www.vgmpf.com/Wiki/index.php?title=Stellar_7_(DOS)) – audio devices, music analysis
 [^ref-26]: [MobyGames – Dynamix Sample Pack](https://www.mobygames.com/game/203474/dynamix-sample-pack/) – compilation contents
 [^ref-27]: [Internet Archive – Stellar 7 DOS CD-ROM Dynamix](https://archive.org/details/stellar7doscdromdynamixforwindows10) – packaging notes

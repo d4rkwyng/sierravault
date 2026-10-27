@@ -9,14 +9,14 @@ platforms: [Microsoft Windows]
 series: Civil War Generals
 protagonist: Robert E. Lee
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: 'Robert E. Lee: Civil War General is a turn-based strategy wargame developed
   by Impressions Games and released by Sierra On-Line on August 24, 1996, for Windows 3.1 and Windows 95.'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,6 +27,7 @@ The game was conceived with the philosophy to "create a product that Civil War e
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-9]
 > **Designer:** Jeffrey Fiske[^ref-9]
+> **Executive Producer:** [[David Lester]][^ref-61]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
 > **Platforms:** Microsoft Windows (Windows 3.1 and Windows 95)[^ref-57]
 > **Release Year:** 1996
@@ -89,7 +90,7 @@ Next Generation's report on Sierra's 1996 schedule listed the game for June as "
 
 ### Production
 
-The game was designed by Jeffrey Fiske with music composed by Jason P. Rinaldi, Keith Zizza, and Steven Serafino[^ref-9][^ref-59]. The team researched the war through history books and, increasingly, the Internet, and worked to reproduce the historical battlefields, including the exact placement of each brigade[^ref-9]. It worked with documentary maker Jay Wertz to obtain full motion video of Civil War reenactments, and licensed artwork by Civil War painter Mort Künstler[^ref-9].
+The game was designed by Jeffrey Fiske with music composed by Jason P. Rinaldi, Keith Zizza, and Steven Serafino[^ref-9][^ref-59]. MobyGames credits Impressions founder [[David Lester]] as executive producer and Chris Beatrice as art director[^ref-61]. The team researched the war through history books and, increasingly, the Internet, and worked to reproduce the historical battlefields, including the exact placement of each brigade[^ref-9]. It worked with documentary maker Jay Wertz to obtain full motion video of Civil War reenactments, and licensed artwork by Civil War painter Mort Künstler[^ref-9].
 
 The final game ran on Windows 3.1 or Windows 95[^ref-57]. Bull Run was included despite Lee's absence from that engagement because of the battle's importance[^ref-7].
 
@@ -142,3 +143,4 @@ Impressions placed heavy emphasis on the game's multimedia content, and the ency
 [^ref-57]: [Web Archive CD Magazine Review](https://web.archive.org/web/19970101004614/http://www.cdmag.com:80/war_vault/robert_e_lee_general_review/page1.html) - Contemporary game review
 [^ref-59]: [Zophar Music Archive](https://www.zophar.net/music/windows/robert-e-lee-civil-war-general) - Game soundtrack details
 [^ref-60]: [MobyGames Tech Specs](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/specs/) - Platform specs, resolutions and multiplayer options
+[^ref-61]: [MobyGames - Robert E. Lee: Civil War General Credits, Windows 3.x (Archived December 2005)](https://web.archive.org/web/20051206013941/http://www.mobygames.com:80/game/win3x/robert-e-lee-civil-war-general/credits) - Executive Producer: David Lester; Production and Design: Jeffrey Fiske; Art Director: Chris Beatrice
