@@ -119,7 +119,7 @@ Hardcore Gaming 101's retrospective, drawing on a 2010 IGN interview, says "the 
 
 ### Origins
 
-Empire Earth's development began in 1998 when Rick Goodman founded Stainless Steel Studios after departing Ensemble Studios, where he had co-created Age of Empires alongside his brother Tony Goodman[^ref-5]. The studio was founded in January 1998 with the explicit goal of creating "the next generation of real-time strategy games"[^ref-25].
+Empire Earth's development began in 1998 when Rick Goodman founded Stainless Steel Studios, after co-founding Ensemble Studios with his brother and creating Age of Empires[^ref-5]. The studio was founded in January 1998 with the explicit goal of creating "the next generation of real-time strategy games"[^ref-25].
 
 The concept for Empire Earth emerged from Goodman's desire to expand upon the historical RTS formula he had helped pioneer. As Goodman explained in early interviews, "This is a real-time strategy game for the next millennium. It will set new standards in the genre, and offer gamers an experience that goes far beyond anything that strategy games released, thus far, have offered"[^ref-5].
 
@@ -241,7 +241,7 @@ Empire Earth was released in several compilation editions:
 
 **Empire Earth: The Art of Conquest** (September 17, 2002)[^ref-29] was developed by Mad Doc Software and added a 15th epoch (Space Age)[^ref-13], the Japanese and Korean civilizations[^ref-2], and three new campaigns set in ancient Rome, the Pacific Theater of World War II, and a futuristic Asia[^ref-7]. The expansion received mixed reviews with a Metacritic score of 63 from 13 critics[^ref-49], with GameSpot's Tom Chick giving it just 5.2/10 and concluding that it "doesn't add enough to make much of a difference"[^ref-36].
 
-**Empire Earth II** (April 26, 2005) was developed by Mad Doc Software after Stainless Steel Studios departed the project to develop Empires: Dawn of the Modern World[^ref-37]. It received a 79% Metacritic score and introduced weather effects, seasonal cycles, and a Picture-in-Picture feature[^ref-38].
+**Empire Earth II** (April 26, 2005) was developed by Mad Doc Software, the studio that had also made The Art of Conquest[^ref-52][^ref-37][^ref-7]. It received a 79% Metacritic score and introduced weather effects, seasonal cycles, and a Picture-in-Picture feature[^ref-38].
 
 **Empire Earth III** (November 6, 2007) was critically panned with a Metacritic score of just 50%[^ref-39]. The game was criticized for having "very little, if anything, from the original" Empire Earth[^ref-40]. German publication GameStar included it in their "10 Most Terrible Sequels" list[^ref-40].
 
@@ -331,3 +331,4 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-49]: [Metacritic – Empire Earth: The Art of Conquest](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/) – Metascore 63 based on 13 critic reviews
 [^ref-50]: [Retro XP – Retro spotlight: Empire Earth](https://retroxp.substack.com/p/retro-spotlight-empire-earth) – Marc Normandin retrospective, custom civs and "the 100 points"
 [^ref-51]: [PCGamingWiki – Empire Earth](https://www.pcgamingwiki.com/wiki/Empire_Earth) – Direct3D 7 API, Miles Sound System, Bink Video, system requirements
+[^ref-52]: [MobyGames – Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra Entertainment, US release April 26, 2005
