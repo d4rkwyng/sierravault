@@ -69,15 +69,15 @@ Sierra's InterAction magazine listed the procedures PQ1 covers: "how to handle f
 
 MobyGames calls SWAT "more a brand name than a series per se, as they started as interactive movies and progressed into a tactical FPS, with a squad-oriented RTS in between."[^ref-7]
 
-- [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] (1995) - Interactive movie[^ref-7]
-- [[1998 - Police Quest - SWAT 2\|SWAT 2]] (1998) - Real-time tactics, Windows[^ref-7]
-- [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3]] (1999) - First-person tactical shooter[^ref-7]
-- [[2003 - SWAT - Global Strike Team\|SWAT: Global Strike Team]] (2003) - Xbox and PlayStation 2[^ref-7]
-- [[2005 - SWAT 4\|SWAT 4]] (2005) - Developed by Irrational Games[^ref-24]
-- [[2006 - SWAT 4 - The Stetchkov Syndicate\|SWAT 4: The Stetchkov Syndicate]] (2006) - SWAT 4 add-on, released February 2006[^ref-24]
-- [[2006 - SWAT Force\|SWAT Force]] (2006) - Mobile 2D side-scroller[^ref-22]
-- [[2007 - SWAT - Target Liberty\|SWAT: Target Liberty]] (2007) - PSP[^ref-7]
-- [[CXL - SWAT - Urban Justice\|SWAT: Urban Justice]] - Cancelled
+- [[1995 - Police Quest - SWAT|Police Quest: SWAT]] (1995) - Interactive movie[^ref-7]
+- [[1998 - Police Quest - SWAT 2|SWAT 2]] (1998) - Real-time tactics, Windows[^ref-7]
+- [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] (1999) - First-person tactical shooter[^ref-7]
+- [[2003 - SWAT - Global Strike Team|SWAT: Global Strike Team]] (2003) - Xbox and PlayStation 2[^ref-7]
+- [[2005 - SWAT 4|SWAT 4]] (2005) - Developed by Irrational Games[^ref-24]
+- [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: The Stetchkov Syndicate]] (2006) - SWAT 4 add-on, released February 2006[^ref-24]
+- [[2006 - SWAT Force|SWAT Force]] (2006) - Mobile 2D side-scroller[^ref-22]
+- [[2007 - SWAT - Target Liberty|SWAT: Target Liberty]] (2007) - PSP[^ref-7]
+- [[CXL - SWAT - Urban Justice|SWAT: Urban Justice]] - Cancelled
 
 ## Technical Evolution
 

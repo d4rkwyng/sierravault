@@ -74,19 +74,19 @@ The Academy of Interactive Arts & Sciences' Interactive Achievement Awards (late
 | April 1999 (#177) | [[1998 - Half-Life\|Half-Life]] (Valve / Sierra) | Premier Game of the Year (overall)[^ref-cgw-177] |
 | March 2000 (#188) | [[1999 - Homeworld\|Homeworld]] (Relic / Sierra) | Premier Strategy Game of the Year[^ref-cgw-188] |
 
-Not every CGW list was kind: the November 1996 issue named [[1994 - Outpost\|Outpost]] #1 on its "50 Worst Games of All Time".[^ref-cgw-best]
+Not every CGW list was kind: the November 1996 issue named [[1994 - Outpost|Outpost]] #1 on its "50 Worst Games of All Time".[^ref-cgw-best]
 
 ### CGW Hall of Fame
 
 CGW's Hall of Fame (as archived by 1UP.com) includes these Sierra-family titles, plus Roberta Williams in its "People" section. Companies and years are as listed by 1UP, which sometimes differ from the release years on the linked pages:[^ref-1up-hof]
 
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (Sierra On-Line, 1990)
-- [[1995 - The Beast Within - A Gabriel Knight Mystery\|Gabriel Knight 2: The Beast Within]] (Sierra, 1996)
-- [[1990 - Red Baron\|Red Baron]] (Dynamix, 1990)
-- [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] (Dynamix, 1993)
-- [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] (Dynamix, 1993)
-- [[2000 - Counter-Strike\|Counter-Strike]] (Mod, 1999)
-- [[1998 - Half-Life\|Half-Life]] (Valve Software, 1999)
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (Sierra On-Line, 1990)
+- [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2: The Beast Within]] (Sierra, 1996)
+- [[1990 - Red Baron|Red Baron]] (Dynamix, 1990)
+- [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (Dynamix, 1993)
+- [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (Dynamix, 1993)
+- [[2000 - Counter-Strike|Counter-Strike]] (Mod, 1999)
+- [[1998 - Half-Life|Half-Life]] (Valve Software, 1999)
 - [[Roberta Williams]], Game Designer
 
 ---
