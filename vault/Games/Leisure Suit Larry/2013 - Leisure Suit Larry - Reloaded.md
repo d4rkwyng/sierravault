@@ -102,7 +102,7 @@ Austin Wintory composed a new 21-track big-band score built on Al Lowe's origina
 
 ### Technical Achievements
 
-The remake was built using the Unity engine[^ref-57] and released for Windows, macOS and Linux on June 27, 2013, followed by Android and iOS on July 17[^ref-18]. The Android version was pulled from Google Play the day after it went live to fix an unspecified error, and Replay said there was "no confirmed day" for its return[^ref-60].
+The remake was built using the Unity engine[^ref-57] and released for Windows, macOS and Linux on June 27, 2013, followed by Android and iOS on July 17[^ref-18]. The Android version was pulled from Google Play the day after it went live to fix an unspecified error, and Replay said there was "no confirmed day" for its return[^ref-60]; MobyGames dates the Android release to August 13, 2013, which fits a relaunch[^ref-85].
 
 The game was rebuilt and animated from scratch[^ref-24]. Game Informer's Jeff Cork observed "The game looks pretty darn good overall, though it lacks consistency"[^ref-24].
 

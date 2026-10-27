@@ -4,21 +4,21 @@ type: publisher
 founded: 2008
 headquarters: "Austin, Texas, United States"
 parent_company: null
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 # Replay Games
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Replay Games was an American game publisher based in Austin, Texas, founded by Paul Trowe in 2008.[^ref-16][^ref-17] GamesBeat reported that Trowe "bootstrapped his Austin, Texas-based company in 2008 to focus on the digital distribution of games".[^ref-17] Its link to Sierra came in 2011, when it licensed the *Leisure Suit Larry* series from intellectual property holder Codemasters and began remaking the games in high definition with creator [[Al Lowe|Al Lowe]].[^ref-19][^ref-6]
+Replay Games was an American game publisher based in Austin, Texas, founded by Paul Trowe in 2008.[^ref-16][^ref-17] GamesBeat reported that Trowe "bootstrapped his Austin, Texas-based company in 2008 to focus on the digital distribution of games".[^ref-17] Its link to Sierra came through the *Leisure Suit Larry* series, licensed from intellectual property holder Codemasters: Replay announced in October 2011 that it had secured the rights (GamesBeat dates the deal to 2010) and began remaking the games in high definition with creator [[Al Lowe|Al Lowe]].[^ref-19][^ref-22][^ref-23][^ref-6]
 
 ## Sierra Connection
 
 In October 2011 Replay announced that it had secured the rights to the *Leisure Suit Larry* franchise and would release HD versions of past titles, starting with the 1987 original, working with Al Lowe.[^ref-19] Trowe said: "I've been working to acquire the original Sierra properties for over 10 years."[^ref-19] GamesBeat notes that Vivendi had sold the Larry franchise to Codemasters, which published *Leisure Suit Larry: Box Office Bust* in 2009; Wikipedia describes Codemasters as the intellectual property holder that Replay worked with.[^ref-17][^ref-6]
 
-Replay funded the first remake with a single Kickstarter campaign in April–May 2012, which raised $655,182 from 14,081 backers against a $500,000 goal.[^ref-1] *Leisure Suit Larry: Reloaded*, developed by N-Fusion Interactive, was released on 27 June 2013.[^ref-4][^ref-6] Lowe had been recruited to work on HD remakes of six of the first seven Larry games, but on 11 December 2013 it was announced that he had left Replay and returned to retirement.[^ref-8]
+Replay funded the first remake with a single Kickstarter campaign in April–May 2012, which raised $655,182 from 14,081 backers against a $500,000 goal.[^ref-1] GamesBeat reported a total of $673,602 when the campaign closed, citing additional PayPal donations.[^ref-22] *Leisure Suit Larry: Reloaded*, developed by N-Fusion Interactive, was released on 27 June 2013.[^ref-4][^ref-6] Lowe had been recruited to work on HD remakes of six of the first seven Larry games, but on 11 December 2013 it was announced that he had left Replay and returned to retirement.[^ref-8]
 
 ## Games Published (Sierra Archive)
 
@@ -28,7 +28,7 @@ Replay funded the first remake with a single Kickstarter campaign in April–May
 ## Key People
 
 - **Paul Trowe**: Founder and CEO. GamesBeat reports that "Trowe was the first teenage beta tester at Sierra On-Line".[^ref-17][^ref-19]
-- **[[Josh Mandel]]**: Chief Creative Officer, hired in December 2012. He was formerly director of Sierra On-Line's design department.[^ref-18]
+- **[[Josh Mandel]]**: Chief Creative Officer, hired in December 2012. He was formerly director of Sierra On-Line's design department, and worked as a designer and writer on *Leisure Suit Larry: Reloaded* and *Fester Mudd* before leaving some time after Reloaded's release.[^ref-18][^ref-24]
 - **[[Al Lowe|Al Lowe]]**: Leisure Suit Larry creator; worked with Replay on the remakes until December 2013.[^ref-19][^ref-8]
 
 ## Later Years
@@ -57,3 +57,6 @@ No source found gives a closing date for Replay Games. *Leisure Suit Larry: Relo
 [^ref-19]: [Game Developer (Gamasutra) - "Replay Games Secures Rights To Leisure Suit Larry Franchise" (Mike Rose, 11 Oct 2011)](https://www.gamedeveloper.com/business/replay-games-secures-rights-to-i-leisure-suit-larry-i-franchise) - Rights secured; HD versions of past titles with Al Lowe; Trowe "over 10 years" quote
 [^ref-20]: [Delisted Games - Leisure Suit Larry: Reloaded](https://delistedgames.com/leisure-suit-larry-reloaded/) - Delisted from Steam November 24, 2017; "most likely due to expired licensing from Codemasters"; available on GOG.com
 [^ref-21]: [replaygamesinc.com (Wayback, 9 Jan 2019)](https://web.archive.org/web/20190109073501/http://replaygamesinc.com/) - Domain showing a mobile publishing service for "the Arabic speaking market"
+[^ref-22]: [GamesBeat - "Replay Games raises more than $600K on Kickstarter for Leisure Suit Larry game" (Dean Takahashi, 3 May 2012)](https://gamesbeat.com/replay-games-raises-more-than-600k-on-kickstarter-for-leisure-suit-larry-game/) - "In 2010, he picked up the rights to Leisure Suit Larry"; $673,602 raised including PayPal donations
+[^ref-23]: [Destructoid - "Replay acquires Leisure Suit Larry, plans rebirth" (Conrad Zimmerman, 10 Oct 2011)](https://www.destructoid.com/replay-acquires-leisure-suit-larry-plans-rebirth/) - Replay acquired the Larry property; HD remaster of the original planned; Al Lowe returning
+[^ref-24]: [Wikipedia - Josh Mandel (video game designer)](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) - Employed with Replay Games 2012-2013 as designer and writer on Reloaded and Fester Mudd; quit after Reloaded's release
