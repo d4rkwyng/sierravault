@@ -10,7 +10,7 @@ series: The Incredible Machine / Ghosts 'n Goblins
 engine: Incredible Toons engine (licensed from Dynamix)
 protagonist: Arthur
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive
   puzzle game released on August 30, 1996, for the Sony PlayStation and Sega Saturn,
   combining Dynamix''s Incredible Toons engine with Capcom''s Ghosts ''n Goblins characters.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 ---
 # Arthur to Astaroth no Nazo Makaimura: Incredible Toons
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ Unlike other games in *The Incredible Machine* series, this title has no Head-to
 
 The game was not released outside Japan, and no contemporary English-language reviews have been identified. In Japan, *Weekly Famitsu*'s Cross Review (No. 403, September 6, 1996) gave both the Saturn and PlayStation versions 29 out of 40, from scores of 8, 7, 7 and 7[^ref-24]. For the Saturn version, the reviewers praised its freedom, its novel ideas and its addictiveness. They criticised puzzles that can be solved by accident and felt the *Makaimura* re-skin was somewhat forced[^ref-24]. For the PlayStation version, the reviewers found the roles of the many characters harder to grasp than in the PC original. They called the mouse controls marginal, but valued the sense of achievement on clearing a puzzle[^ref-24]. Two of the four reviewers named it among their Best Picks of the week[^ref-24].
 
-Sega Retro's review table for the Saturn version also lists *Saturn Fan* scores of 63 and 65 and *Sega Saturn Magazine* (Japan) scores of 57 and 82, alongside a *Weekly Famitsu* score of 73[^ref-25].
+Sega Retro's review table for the Saturn version also lists *Saturn Fan* scores of 63 and 65 and *Sega Saturn Magazine* (Japan) scores of 57 and 82 (the 82 comes from the magazine's "Readers rating final data" of March 2000, a reader poll rather than a review)[^ref-25]. The same table's *Weekly Famitsu* figure of 73 cites the September 6, 1996 issue, so it is the 29/40 Cross Review above expressed as a percentage, not a separate review[^ref-25].
 
 ### Modern Assessment
 
@@ -78,7 +78,6 @@ GameFAQs users rate the Saturn version "Great" (17 ratings)[^ref-2]. The Retro G
 **Aggregate Scores:**
 - **Famitsu Cross Review:** 29/40 (Saturn and PlayStation)[^ref-24]
 - **GameFAQs:** "Great" (17 ratings)[^ref-2]
-- **MyAbandonware:** 3.5/5 (4 votes)[^ref-16]
 
 ## Development
 
@@ -110,7 +109,7 @@ The game uses visual and audio material from the *Ghosts 'n Goblins* universe, i
 
 **Sega Saturn Version:**[^ref-25]
 - **Product Code:** T-1209G; RRP ¥5,800[^ref-25]
-- **Media:** CD-ROM; sound via SCSP/CD-DA (18 tracks)[^ref-25]; ~406 MB disc image[^ref-16][^ref-18]
+- **Media:** CD-ROM; sound via SCSP/CD-DA (18 tracks)[^ref-25]; ~406 MB (405.8 MiB) disc image[^ref-18]
 - **Peripherals:** Shuttle Mouse supported[^ref-25]
 - **Players:** 1[^ref-25]
 
@@ -162,7 +161,7 @@ Arthur to Astaroth no Nazo Makaimura is an obscure spinoff of both *The Incredib
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware – Sega Saturn Version](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2)[^ref-16]
+- [MyAbandonware – Sega Saturn Version](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2)
 
 **Emulation**
 - [Vizzed – Browser Emulation](http://www.vizzed.com/play/arthur-to-astaroth-no-nazo-makaimuraincredible-toons-ss-sega-saturn-75961-game)
@@ -196,11 +195,10 @@ Arthur to Astaroth no Nazo Makaimura is an obscure spinoff of both *The Incredib
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – fan-made RetroAchievements set: 20 achievements, "Clear Puzzles 1 through 5" to "96 through 100"
 [^ref-14]: [PSXDataCenter – Arthur To Astaroth No Nazo Maikamura - Incredible Toons (SLPS-00363)](https://psxdatacenter.com/games/J/A/SLPS-00363.html) – PlayStation release data: 30 August 1996, ~500 MB disc image, 19 tracks, mouse compatible, 1 memory card block
 [^ref-15]: [Retro Gaming Daily Show – July 2019](https://retrogamingdailyshow.libsyn.com/2019/07) – episode 248 "Sega Saturn - A Japanese Voyage of Discovery" (Jul 19, 2019) lists the game
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2) – user ratings (3.5/5, 4 votes), 406 MB download
 [^ref-17]: [MobyGames – Screenshots](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/screenshots/playstation/432796/) – resolution data
-[^ref-18]: [GameFAQs – Saturn Game List](https://gamefaqs.gamespot.com/saturn/916393-sega-saturn/faqs/81877/game-list) – Saturn file size
+[^ref-18]: [GameFAQs – Saturn Game List](https://gamefaqs.gamespot.com/saturn/916393-sega-saturn/faqs/81877/game-list) – Saturn file size: "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan) 405.8 MiB"
 [^ref-21]: [GameFAQs – FAQs Page](https://gamefaqs.gamespot.com/ps/573263-arthur-to-astaroth-no-nazo-makai-mura-incredible-toons/faqs) – available guides, franchise connections
 [^ref-24]: [Wikipedia (Japanese) – アーサーとアスタロトの謎魔界村](https://ja.wikipedia.org/wiki/アーサーとアスタロトの謎魔界村) – Famitsu No.403 (6 Sep 1996) Cross Review 29/40 (8/7/7/7) for SS and PS; Best Picks; hint book (Mainichi Communications, 1996-11-01, ISBN 4-89563-754-9)
-[^ref-25]: [Sega Retro – Arthur to Astaroth no Nazomakaimura: Incredible Toons](https://segaretro.org/Arthur_to_Astaroth_no_Nazomakaimura) – Saturn: Magical Formation/Capcom, licensor Dynamix, Shuttle Mouse, SCSP/CD-DA (18 tracks), 1996-08-30, ¥5800, T-1209G; magazine scores
+[^ref-25]: [Sega Retro – Arthur to Astaroth no Nazomakaimura: Incredible Toons](https://segaretro.org/Arthur_to_Astaroth_no_Nazomakaimura) – Saturn: Magical Formation/Capcom, licensor Dynamix, Shuttle Mouse, SCSP/CD-DA (18 tracks), 1996-08-30, ¥5800, T-1209G; magazine scores (Weekly Famitsu 73 cites the 1996-09-06 issue; Sega Saturn Magazine 82 cites "Readers rating final data", 2000-03)
 [^ref-26]: [Mean Machines Sega #40 (February 1996), p. 20 – Capcom interview](https://archive.org/details/mean-machines-sega-magazine-40/page/n19) – "an upgrade version of The Incredible Machine"; items changed to Ghouls and Ghosts characters; "almost complete"
 [^ref-27]: [Wikipedia (Japanese) – 神谷英樹 (Hideki Kamiya)](https://ja.wikipedia.org/wiki/神谷英樹) – joined Capcom 1994; helped develop アーサーとアスタロトの謎魔界村 before joining Resident Evil as a planner
