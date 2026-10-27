@@ -10,14 +10,14 @@ series: Papyrus Racing Simulations
 engine: Papy3D
 protagonist: Player-controlled 1967 F1 driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-17'
+last_updated: '2026-10-26'
 description: Grand Prix Legends is a computer racing simulator developed by Papyrus
   Design Group and published by Sierra Sports on October 5, 1998. The game meticulously...
 tags: [1990s, papyrus-racing-simulations, racing, sierra]
 ---
 # Grand Prix Legends
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ The game was featured in "1001 Video Games You Must Play Before You Die"[^ref-8]
 
 ### Origins
 
-Development of Grand Prix Legends began in 1995 when lead designer [[Dave Kaemmer]] started research on the physics model[^ref-35]. The project represented Papyrus Design Group's first venture into Formula One racing after their successful Indianapolis 500: The Simulation, IndyCar Racing, and NASCAR Racing series[^ref-33]. Kaemmer was inspired to recreate the 1967 season specifically—the last year before aerodynamic wings and corporate sponsorship changed F1 forever[^ref-12].
+Development of Grand Prix Legends began in 1995 when [[Dave Kaemmer]], one of the game's designers alongside lead designer Matt Sentell, started research on the physics model[^ref-35][^ref-52]. The project represented Papyrus Design Group's first venture into Formula One racing after their successful Indianapolis 500: The Simulation, IndyCar Racing, and NASCAR Racing series[^ref-33]. Kaemmer was inspired to recreate the 1967 season specifically—the last year before aerodynamic wings and corporate sponsorship changed F1 forever[^ref-12].
 
 The choice of 1967 was both a creative decision and a practical challenge. Kaemmer later acknowledged "So we maybe blew it by choosing 1967 (for GPL). I've always felt that the driver aids are an impediment to learning, which is what a sim is all about," noting that the team "had already been branded as 'a bunch of purists'—out of step with the marketplace"[^ref-22]. The era's dangerous, powerful cars without electronic aids made for compelling simulation but also created the steep learning curve that would limit the game's commercial appeal.
 
@@ -355,3 +355,4 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-49]: [Internet Archive – Grand Prix Legends](https://archive.org/details/grand-prix-legends) – preservation, download availability
 [^ref-50]: [GPL Addons – The Fastlane](https://gpladdons.the-fastlane.co.uk/utilities_list.php?goto=9) – utility tools, mod repository
 [^ref-51]: [GPL Wiki – Main Page](https://web.archive.org/web/20251107163102/https://wiki.grandprixlegends.info/index.php?title=Main_Page) – 7 cars and 11 tracks, licensing name changes, Rouen/Le Mans, no weather or tire wear, no wings
+[^ref-52]: [MobyGames – Grand Prix Legends Credits (Archived 2020)](https://web.archive.org/web/20200728184056/https://www.mobygames.com/game/windows/grand-prix-legends/credits) – Designers: Randy Cassidy, David Kaemmer, Brian C. Mahony, Matt Sentell, Richard Yasi; thanks list names "Matt Sentell (Grand Prix Legends Lead Designer)"

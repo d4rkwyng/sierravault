@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -29,15 +29,15 @@ Looking back on Papyrus, he said: "We never spent a lot of time thinking about w
 
 ### Papyrus/Sierra Years (1987–2002)
 
-Papyrus's first project was Indianapolis 500: The Simulation (1989), developed for Electronic Arts.[^ref-2][^ref-21] Kaemmer was a software engineer rather than a race engineer; Carroll Smith's book *Tune to Win* "became his bible", with Paul Van Valkenburgh's *Race Car Engineering and Mechanics* "filling in the gaps".[^ref-2] Sierra On-Line acquired Papyrus in late 1995.[^ref-12] Papyrus followed Indy 500 with two IndyCar titles and a run of NASCAR games.[^ref-2]
+Papyrus's first project was Indianapolis 500: The Simulation (1989), developed for Electronic Arts.[^ref-2][^ref-21][^ref-22] Kaemmer was a software engineer rather than a race engineer; Carroll Smith's book *Tune to Win* "became his bible", with Paul Van Valkenburgh's *Race Car Engineering and Mechanics* "filling in the gaps".[^ref-2] Sierra On-Line acquired Papyrus in late 1995.[^ref-12] Papyrus followed Indy 500 with two IndyCar titles and a run of NASCAR games.[^ref-2]
 
 Grand Prix Legends (1998), set in the 1967 Formula One season, grew from Joe Saward's *The World Atlas of Motor Racing*, a Christmas present that made Kaemmer want to recreate the Nürburgring and other old circuits.[^ref-2][^ref-11] At the time Kaemmer said: "Driving a 1967 GP car is more difficult than driving just about anything else, and the simulation is more difficult than driving a real car...many people think that it feels like driving on ice."[^ref-14] Motor Sport calls GPL a commercial flop that keeps a cult following thanks to modders.[^ref-2]
 
-Kaemmer was technical director on NASCAR Racing 4 (2001) and NASCAR Racing 2002 Season.[^ref-23][^ref-24][^ref-22] He left Papyrus in late 2002, just before the release of NASCAR Racing 2003 Season, on which he has an "Additional Engineering" credit.[^ref-12][^ref-25]
+Kaemmer was technical director on NASCAR Racing 4 (2001) and NASCAR Racing 2002 Season.[^ref-23][^ref-24][^ref-22] According to Wikipedia he left Papyrus around the end of 2002, just before the release of NASCAR Racing 2003 Season, on which he has an "Additional Engineering" credit.[^ref-12][^ref-25]
 
 ### iRacing Era (2003–Present)
 
-Kaemmer and John Henry founded iRacing.com Motorsport Simulations; iRacing Studios dates its roots to 2003, and the service launched in 2008.[^ref-6][^ref-2] At launch it used a modified version of the source code for NASCAR Racing 4.[^ref-2] In 2021 Motor Sport described him as a 57-year-old resident of suburban Boston, Massachusetts.[^ref-2]
+Kaemmer and John Henry founded iRacing.com Motorsport Simulations. Sources differ on the founding year: iRacing Studios dates its roots to 2003, while Wikipedia says development began in 2004, when the two formed FIRST.net LLC to acquire Papyrus's code. The service launched in 2008.[^ref-6][^ref-32][^ref-2] Writing in 2004, GameSpot reported that Kaemmer "had just emerged from discussions with VU wherein he successfully recovered the rights to Papyrus' venerated racing simulation technology."[^ref-14] iRacing began from Papyrus's NASCAR code. Motor Sport says it was a modified version of the NASCAR Racing 4 source code, but the copyrights Vivendi and Papyrus sold to FIRST.net on May 28, 2004 were those of NASCAR Racing 2003 Season, and Wikipedia says iRacing kept NR2003's multi-body physics system.[^ref-2][^ref-12][^ref-32] Kaemmer lives in the Boston area[^ref-2] and is iRacing's co-founder, CEO and CTO.[^ref-6][^ref-13]
 
 At iRacing he has concentrated on the tyre model. Divina Galica, a former Formula 1 driver and Skip Barber instructor who later joined iRacing, said: "He's a genius at developing the tyre model." iRacing executive vice president Steve Myers added: "He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-2]
 
@@ -59,7 +59,7 @@ Kaemmer is credited as a designer and programmer of [[1994 - NASCAR Racing|NASCA
 
 Kaemmer has said realism comes before entertainment: "We don't care if it's fun or not. We care if it's real. We spend a lot more time trying to figure out if the numbers correlate with the real world."[^ref-2] Motor Sport notes that critics complained from the beginning that his cars were too hard to drive.[^ref-2]
 
-He has relied on technical racing literature, including Carroll Smith's *Tune to Win* and Paul Van Valkenburgh's *Race Car Engineering and Mechanics*,[^ref-2] and has credited Joe Saward's *The World Atlas of Motor Racing* with getting his "wheels turning" on circuits such as the Nürburgring.[^ref-11]
+He has relied on technical racing literature, including Carroll Smith's *Tune to Win* and Paul Van Valkenburgh's *Race Car Engineering and Mechanics*,[^ref-2] and Joe Saward's *The World Atlas of Motor Racing*; Autoweek writes that the book's chapter on the Nürburgring was the one that "really got his wheels turning".[^ref-11]
 
 ## Legacy
 
@@ -78,24 +78,26 @@ Kaemmer took the Skip Barber Racing School course at Lime Rock while working on 
 - **1997** — [[1997 - CART Racing|CART Racing]] — Role: Game Designer, Programmer (re-release of IndyCar Racing II)[^ref-14][^ref-31]
 - **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]] — Role: Designer, Lead Engineer
 - **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Role: Technical Director, Additional Game Design
-- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Technical Director, Senior Engineer
-- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Additional Engineering
+- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Technical Director, Senior Engineer[^ref-24]
+- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Additional Engineering[^ref-25]
+
+Other credits, from the BD Jogos copy of his MobyGames credit list: *J.R.R. Tolkien's Riders of Rohan* (1991, programming), *Nomad* (1993, programming) and *SODA Off-Road Racing* (1997, special thanks).[^ref-33]
 
 ### iRacing (2008–Present)
 
 | Year | Title | Role |
 |------|-------|------|
-| 2008 | iRacing | Co-founder |
+| 2008 | iRacing | Co-founder; CEO and CTO[^ref-6][^ref-13] |
 
 ## References
 
 
 [^ref-1]: [iRacing Downshift #5: The Dave Kaemmer Interview](https://www.iracing.com/iracing-downshift-5-the-dave-kaemmer-interview/) — July 17, 2019: "simracing legend", "For over 30 years, Dave has pushed simracing forward"
 [^ref-2]: [Motorsport Magazine: The man who made iRacing](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — Preston Lerner, October 2021: Oberlin 1985, Indy 500 physics, Wheatley/Galica/Myers quotes, racing career, iRacing launch
-[^ref-6]: [iRacing Studios About Page](https://iracingstudios.com/about/) — iRacing founded 2003 by Kaemmer and John Henry; Papyrus co-founded 1987; 19 Skip Barber wins
+[^ref-6]: [iRacing Studios About Page](https://iracingstudios.com/about/) — iRacing founded 2003 by Kaemmer and John Henry; Papyrus co-founded 1987; 19 Skip Barber wins; Kaemmer listed as "Co-Founder, CEO, CTO"
 [^ref-11]: [Autoweek: How a book helped take iRacing to the next level](https://www.autoweek.com/racing/more-racing/a31737380/how-a-book-about-racetracks-helped-take-iracing-to-the-next-level/) — Mike Pryson, March 18, 2020: Saward's atlas; Indy 500 "physics for the cars was basically a 2D model"
-[^ref-12]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Founded 1987 by Kaemmer and Khudari; acquired by Sierra On-Line in late 1995; Kaemmer left in late 2002
-[^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — January 7, 2022: Rich Garcia quote on Monster Games acquisition
+[^ref-12]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Founded 1987 by Kaemmer and Khudari; acquired by Sierra On-Line in late 1995; Kaemmer left in late 2002 (unsourced on Wikipedia); copyrights sold to FIRST.net May 28, 2004
+[^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — January 7, 2022: Rich Garcia quote on Monster Games acquisition; "iRacing CEO & CTO Dave Kaemmer"
 [^ref-14]: [GameSpot: History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) — Gord Goble (dated June 8, 2005 on the live site): "fun game" and "driving on ice" quotes; IndyCar Racing II renamed CART Racing
 [^ref-21]: [GameSpot: History of Papyrus Racing Games, "Born to Race" (Archived 2013)](https://web.archive.org/web/20130620135429/http://www.gamespot.com/features/6103365/p-2.html) — TRS-80 and Flight Simulator, Omar Khudari, founding of Papyrus in 1987, "Cessna" quote
 [^ref-22]: [Oberlin Alumni Magazine – More Than a Game (Winter 2002–2003)](https://www2.oberlin.edu/alummag/oamcurrent/oam_winter2003/profile_4.html) — Dave Kaemmer '85, co-founder and technical director of Papyrus
@@ -108,3 +110,5 @@ Kaemmer took the Skip Barber Racing School course at Lime Rock while working on 
 [^ref-29]: [MobyGames – Grand Prix Legends Credits (Archived 2020)](https://web.archive.org/web/20200728184056/https://www.mobygames.com/game/windows/grand-prix-legends/credits) — Designers; Lead Engineers
 [^ref-30]: [MobyGames – IndyCar Racing Credits (Archived 2016)](https://web.archive.org/web/20160920025323/http://www.mobygames.com:80/game/dos/indycar-racing/credits) — Original Concept; Lead Programming
 [^ref-31]: [MobyGames – IndyCar Racing II Credits (Archived 2021)](https://web.archive.org/web/20210510153031/https://www.mobygames.com/game/dos/indycar-racing-ii/credits) — Game Designers; Programmers
+[^ref-32]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — development began 2004 when Kaemmer and John W. Henry formed FIRST.net LLC and acquired the NASCAR Racing 2003 Season code; iRacing retains NR2003's multi-body physics; released 2008
+[^ref-33]: [BD Jogos – David Kaemmer](https://en.bdjogos.com.br/person.php?id=34556) — mirror of MobyGames credit data (not MobyGames itself): Riders of Rohan, Nomad, SODA Off-Road Racing

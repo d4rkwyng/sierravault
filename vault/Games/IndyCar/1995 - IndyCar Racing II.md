@@ -11,7 +11,7 @@ series: IndyCar Racing
 engine: Racing simulation technology
 protagonist: Racing Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: IndyCar Racing II is a racing simulation of the 1995 CART IndyCar season,
   developed by Papyrus Design Group and published by Sierra On-Line for DOS, Windows 95
   and Macintosh.
@@ -19,13 +19,13 @@ tags: [1990s, indycar-racing, racing, sierra]
 ---
 # IndyCar Racing II
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 IndyCar Racing II is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line[^ref-1]. Sources differ on its release year: DOS Days, Wikidata and GameSpot's history of Papyrus give 1995, while Wikipedia and MobyGames give 1996[^ref-4][^ref-8][^ref-5][^ref-1][^ref-22]. The game is the sequel to 1993's IndyCar Racing and uses many of the improvements introduced in Papyrus' NASCAR Racing[^ref-22][^ref-4]. Based on the 1995 CART season, it featured 15 accurate circuits and fully licensed drivers, liveries and advertisements, and DOS Days calls it "the pinnacle of the computer racing experience when it came out"[^ref-4].
 
-Papyrus founder David Kaemmer had set the studio's direction from its first game: "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar"[^ref-5]. GameSpot's Jim Varner called IndyCar Racing II "undoubtedly the most realistic racing simulation of all time", and warned that "even on the easiest of settings, driving an IndyCar is comparable to riding a wild bull"[^ref-17].
+Papyrus founder [[Dave Kaemmer|David Kaemmer]] had set the studio's direction from its first game: "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar"[^ref-5]. GameSpot's Jim Varner called IndyCar Racing II "undoubtedly the most realistic racing simulation of all time", and warned that "even on the easiest of settings, driving an IndyCar is comparable to riding a wild bull"[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]

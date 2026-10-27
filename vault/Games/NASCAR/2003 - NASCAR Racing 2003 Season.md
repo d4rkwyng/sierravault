@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-created driver
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: NASCAR Racing 2003 Season (commonly abbreviated as NR2003) is a stock
   car racing simulator developed by Papyrus Design Group and published by Sierra...
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2003 Season
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ NASCAR Racing 2003 Season (commonly abbreviated as NR2003) is a stock car racing
 
 Papyrus partnered with Goodyear and Jasper Motorsports (Winston Cup team #77) to make the game's physics modeling even more realistic than in the series' earlier entries.[^ref-3] "Many have tried, but to date no other game has delivered the same level of authenticity; the same feeling that you are indeed in control of a large and very powerful stock car," noted GameSpot's review.[^ref-4] The game supported up to 42 players online in the same race, used an adaptive AI meant to keep it challenging at all skill levels, and offered tutorials and driving aids for newcomers.[^ref-29]
 
-NR2003 was Papyrus's last game before Electronic Arts took the NASCAR license exclusively from 2004 to 2009, and the game was pulled from shelves at the end of March 2004 when EA acquired the exclusive rights.[^ref-1][^ref-6] Despite this, the game has kept a dedicated modding community for over two decades; one GOG Dreamlist commenter called it "the greatest representation of NASCAR in gaming history."[^ref-7] Its source code and assets were later bought by David Kaemmer for his company FIRST, LLC, where they became the base code for iRacing.[^ref-1]
+NR2003 was Papyrus's last game before Electronic Arts took the NASCAR license exclusively from 2004 to 2009, and the game was pulled from shelves at the end of March 2004 when EA acquired the exclusive rights.[^ref-1][^ref-6] Despite this, the game has kept a dedicated modding community for over two decades; one GOG Dreamlist commenter called it "the greatest representation of NASCAR in gaming history."[^ref-7] Its source code and assets were later bought by [[Dave Kaemmer|David Kaemmer]] for his company FIRST, LLC, where they became the base code for iRacing.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]

@@ -10,7 +10,7 @@ series: IndyCar Racing
 engine: Proprietary (Papyrus)
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: IndyCar Racing is a 1993 MS-DOS racing simulation by Papyrus Design
   Group, an officially licensed recreation of the 1993 IndyCar season and the follow-up
   to Indianapolis 500 - The Simulation.
@@ -18,7 +18,7 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ IndyCar Racing is a racing simulation video game developed by [[Papyrus Design G
 
 With an official license from CART, IndyCar Racing offered eight real track names and designs with authentic sponsors and logos, putting players behind the wheel against real IndyCar drivers on circuits including Michigan International, Nazareth PA, Laguna Seca, Portland International, Milwaukee, Loudon NH, Toronto, and Long Beach.[^ref-1][^ref-4] The game arrived "hot on the heels of Geoff Crammond's excellent Formula One Grand Prix," establishing Papyrus as one of the leading developers in sim racing—a legacy that continues to this day.[^ref-5][^ref-6]
 
-The game paired a detailed physics model with real-time, perspective-correct texture mapping.[^ref-7] Recalling why he began making racing simulations in the first place, creator David Kaemmer told GameSpot, "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-7]
+The game paired a detailed physics model with real-time, perspective-correct texture mapping.[^ref-7] Recalling why he began making racing simulations in the first place, creator [[Dave Kaemmer|David Kaemmer]] told GameSpot, "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** Papyrus Design Group[^ref-1]
