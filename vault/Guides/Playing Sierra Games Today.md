@@ -1,13 +1,13 @@
 ---
 title: "Playing Sierra Games Today"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Playing Sierra Games Today
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
-A guide to running Sierra's classic games on modern computers and handhelds. Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing. Store contents, prices and ScummVM support levels below were checked on October 16, 2026, and can change.
+A guide to running Sierra's classic games on modern computers and handhelds. Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing. Store contents, prices and ScummVM support levels below were checked on October 16, 2026 (GOG single titles on October 26, 2026), and can change.
 
 ---
 
@@ -18,12 +18,12 @@ A guide to running Sierra's classic games on modern computers and handhelds. Whe
 | AGI adventures (1984–1989) | **ScummVM** | Easy ⭐ |
 | SCI adventures (1988–1996) | **ScummVM** | Easy ⭐ |
 | Dynamix adventures (Rise of the Dragon, etc.) | **ScummVM** | Easy ⭐ |
-| Gobliiins series | **ScummVM** | Easy ⭐ |
+| Gobliiins 1–3 | **ScummVM** | Easy ⭐ |
 | Flight sims (Red Baron, Aces) | **DOSBox Staging** | Medium ⭐⭐ |
 | Strategy (Caesar, Lords of the Realm) | **DOSBox Staging** | Medium ⭐⭐ |
-| Windows 95/98 games (QFG5, KQ:MoE, GK3) | **GOG/Steam + patches** | Medium ⭐⭐ |
+| Windows 95/98 games (QFG5, KQ:MoE, GK3) | **GOG/Steam + patches** (KQ:MoE is GOG-only: it is in GOG's King's Quest 7+8, and Steam's King's Quest Collection excludes it)[^ref-26][^ref-30] | Medium ⭐⭐ |
 | Sports sims (NASCAR, Front Page Sports) | **DOSBox Staging** | Medium ⭐⭐ |
-| 3D Ultra series | **Windows + dgVoodoo2** | Hard ⭐⭐⭐ |
+| 3D Ultra series | **Windows** (official updates on SierraHelp)[^ref-39] | Medium ⭐⭐ |
 
 *Difficulty ratings are this guide's own rough estimate of setup effort.*
 
@@ -98,7 +98,7 @@ You need the original game data files. Sources include:
 - **Steam** — Usually needs file extraction
 - **Original discs** — Copy files from CD/floppy
 
-**Step 3: Add Games**
+**Step 3: Add Games**[^ref-41]
 1. Launch ScummVM
 2. Click "Add Game"
 3. Navigate to folder containing game files
@@ -136,8 +136,8 @@ Highlights from the project's own feature list:[^ref-2]
 - A-10 Tank Killer
 - Metaltech: Earthsiege (1994)
 - Front Page Sports (DOS-era entries)
-- NASCAR Racing (early entries)
-- IndyCar Racing
+- [[1996 - NASCAR Racing 2|NASCAR Racing 2]] (1996)
+- [[1995 - IndyCar Racing II|IndyCar Racing II]] (1995)
 - Caesar I–II
 - Lords of the Realm I–II
 - The Incredible Machine (DOS entries)
@@ -170,7 +170,7 @@ install
 
 - **Check SierraHelp** — [SierraHelp.com](https://sierrahelp.com/) offers game installers, patches and technical help for running Sierra games on modern PCs[^ref-4]
 - **Joystick calibration** — Flight sims need calibration; use `[joystick]` section in config
-- **CPU cycles** — Adjust `cycles=` if games run too fast or slow
+- **CPU cycles** — Adjust `cpu_cycles=` if games run too fast or slow (since DOSBox Staging 0.82.0 the legacy `cycles=` setting still works "for backward compatibility")[^ref-47]
 - **Sound configuration** — Run `INSTALL.EXE` or `SETUP.EXE` in games to configure audio
 
 ---
@@ -188,7 +188,7 @@ GOG.com sells Sierra classics DRM-free with emulators pre-configured; its Space 
 
 ### Available Sierra Collections on GOG
 
-Prices are US list prices as of October 16, 2026.
+Prices are US list prices as of October 16, 2026; the single titles from The Colonel's Bequest down were checked on October 26, 2026.
 
 | Collection | Games Included | Price |
 |------------|----------------|-------|
@@ -207,6 +207,13 @@ Prices are US list prices as of October 16, 2026.
 | [Gabriel Knight 3](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) | GK3[^ref-22] | $5.99 |
 | [Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) | Phantasmagoria[^ref-23] | $9.99 |
 | [Phantasmagoria 2: A Puzzle of Flesh](https://www.gog.com/en/game/phantasmagoria_2) | Phantasmagoria 2[^ref-24] | $5.99 |
+| [The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest) | Laura Bow 1[^ref-49] | $5.99 |
+| [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra) | Laura Bow 2[^ref-50] | $5.99 |
+| [Conquests of Camelot: The Search for the Grail](https://www.gog.com/en/game/conquests_of_camelot) | Conquests of Camelot[^ref-51] | $5.99 |
+| [Conquests of the Longbow: The Legend of Robin Hood](https://www.gog.com/en/game/conquests_of_the_longbow) | Conquests of the Longbow[^ref-52] | $5.99 |
+| [Shivers](https://www.gog.com/en/game/shivers) | Shivers[^ref-53] | $5.99 |
+| [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) | Shivers II[^ref-54] | $5.99 |
+| [Torin's Passage](https://www.gog.com/en/game/torins_passage) | Torin's Passage[^ref-55] | $5.99 |
 
 ### GOG Caveats
 
@@ -237,8 +244,7 @@ US prices as of October 16, 2026:[^ref-28]
 Steam versions can be extracted and run with ScummVM for better features:
 1. Right-click game in Steam library
 2. Select "Manage" → "Browse local files"
-3. Copy game folders to your ScummVM games directory
-4. Add to ScummVM as usual
+3. In ScummVM, click **Add Game** and select the folder that holds the game's data files[^ref-41]
 
 ---
 
@@ -264,20 +270,13 @@ Windows games from 1995–2000 often need special handling. (Gabriel Knight 2 an
 
 ### Running Windows 95/98 Games
 
-**Option 1: Compatibility Mode (Windows 10/11)**
-1. Right-click game executable
-2. Properties → Compatibility tab
-3. Check "Run this program in compatibility mode"
-4. Select Windows XP SP3 or Windows 98
-5. Check "Run as administrator" if needed
-
-**Option 2: dgVoodoo2 (for 3D games)**
+**Option 1: dgVoodoo2 (for 3D games)**
 [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) implements Glide 2.11–3.1 and DirectX 1–7 (plus Direct3D 8.1/9) on modern Direct3D:[^ref-6]
-1. Download dgVoodoo2
-2. Copy D3D*.dll and DDraw.dll to game folder
-3. Run dgCpl.exe to configure
+1. Download dgVoodoo2 (latest release as of October 2026: v2.87.6, released October 25)[^ref-46]
+2. Copy the 32-bit DLLs from the `MS\x86` folder (D3D8, D3D9, D3DImm, DDraw), or from `3Dfx\x86` for Glide games, into the game folder; the DirectX DLLs only work as a local installation in the game's folder, never in a system folder[^ref-46][^ref-45][^ref-44]
+3. Run dgVoodooCpl.exe (the dgVoodoo Control Panel) to configure[^ref-44]
 
-**Option 3: Virtual Machine**
+**Option 2: Virtual Machine**
 For stubborn titles, run Windows 98/XP in:
 - VirtualBox
 - VMware
@@ -288,10 +287,6 @@ For stubborn titles, run Windows 98/XP in:
 | Problem | Solution |
 |---------|----------|
 | 16-bit installer fails | Use [OTVDM](https://github.com/otya128/winevdm) (runs 16-bit Windows programs on 64-bit Windows)[^ref-7] or SierraHelp installers |
-| CD-ROM not detected | Copy all CDs to hard drive, edit INI files |
-| Videos don't play | Install Windows Media Player codecs |
-| Colors are wrong | Run in 256-color mode, use dgVoodoo2 |
-| Game runs too fast | Use CPU limiter or frame rate cap |
 
 ---
 
@@ -301,13 +296,13 @@ For stubborn titles, run Windows 98/XP in:
 
 **For ScummVM Games:**
 1. Install ScummVM from Flathub in Desktop Mode: `flatpak install flathub org.scummvm.ScummVM`[^ref-3]
-2. Copy game files to `/home/deck/Games/ScummVM/`
-3. Add games in ScummVM
-4. Add ScummVM as non-Steam game for controller support
+2. In ScummVM's Launcher, click **Add Game** and select the folder that holds the game's data files[^ref-41]
+3. To launch ScummVM from Gaming Mode, open the Steam client in Desktop Mode, click "add a game", then "add a Non-Steam game", and pick ScummVM from the list[^ref-40]
+4. ScummVM's **Keymaps** tab (Global Options) can assign actions to keyboard keys, mouse buttons or joystick buttons[^ref-42]
 
 **For DOSBox Games:**
 - Install DOSBox Staging via Flathub (`io.github.dosbox-staging`)[^ref-38]
-- Or use EmuDeck/RetroDECK for pre-configured setup
+- RetroDECK runs DOS games through RetroArch's DOSBox Pure core[^ref-43]
 - GOG/Steam installers work via Proton
 
 ### macOS
@@ -319,7 +314,7 @@ For stubborn titles, run Windows 98/XP in:
 - Boxer: the original Boxer DOS front end has an Apple Silicon fork by MaddTheSane, released as betas[^ref-13]
 
 **Gatekeeper Issues:**
-Since macOS Sequoia (15), Control-click → Open no longer overrides Gatekeeper for apps that aren't signed or notarized; instead go to **System Settings > Privacy & Security** and allow the app there.[^ref-11]
+Since macOS Sequoia (15), Control-click → Open no longer overrides Gatekeeper for apps that aren't signed or notarized.[^ref-11] Try to open the app first, then open **System Settings > Privacy & Security**, scroll down and click **Open Anyway**.[^ref-48]
 
 ### Linux
 
@@ -355,18 +350,17 @@ Many Sierra games use copy protection requiring the physical manual.
 ### Speed Problems
 
 **Game Too Fast:**
-- In DOSBox: Lower `cycles` value (try `cycles=10000`)
-- In ScummVM: Use built-in game speed options
+- In DOSBox Staging: Lower the `cpu_cycles` value (try `cpu_cycles=10000`)[^ref-47]
 
 **Game Too Slow:**
-- In DOSBox: Increase `cycles` value or use `cycles=max`
+- In DOSBox Staging: Increase the `cpu_cycles` value or use `cpu_cycles=max`[^ref-47]
 - Check that you're using 64-bit emulator versions
 
 ### Graphics Issues
 
 **Stretched/Wrong Aspect Ratio:**
 - Enable "Aspect ratio correction" in ScummVM
-- In DOSBox: Set `aspect=true` in config
+- DOSBox Staging already gives "Aspect ratio correct output" by default[^ref-2]
 
 **Modern Monitor Issues:**
 - Use ScummVM's built-in scalers
@@ -428,7 +422,7 @@ If you want enhanced versions of classic games:
 ## References
 
 [^ref-1]: [ScummVM Compatibility List – 2026.4.0](https://www.scummvm.org/compatibility/2026.4.0/) — Per-game support levels, e.g. "agi:kq1 Good", "sci:gk2 Excellent", "sci:phantasmagoria2 Excellent", "dgds:rise Good"
-[^ref-2]: [DOSBox Staging](https://www.dosbox-staging.org/) — Feature list: "Authentic zero-config CRT emulation", "Integrated Roland MT-32 emulation", "Built-in FluidSynth MIDI synth", "Modern 10-axis controller support", "64-bit dynamic recompilation for improved performance (ARM & x64)"
+[^ref-2]: [DOSBox Staging](https://www.dosbox-staging.org/) — Feature list: "Authentic zero-config CRT emulation", "Integrated Roland MT-32 emulation", "Built-in FluidSynth MIDI synth", "Modern 10-axis controller support", "64-bit dynamic recompilation for improved performance (ARM & x64)"; "Aspect ratio correct output & image captures by default"
 [^ref-3]: [Flathub – ScummVM](https://flathub.org/apps/org.scummvm.ScummVM) — Flatpak package org.scummvm.ScummVM
 [^ref-4]: [The Sierra Help Pages](https://sierrahelp.com/) — "a collection of tips, help, tools and patches to get your games running on newer, faster computers"; game installers section
 [^ref-5]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — "Includes the original King's Quest: Quest for the Crown, King's Quest II... and King's Quest III"; $9.99; Windows
@@ -465,3 +459,20 @@ If you want enhanced versions of classic games:
 [^ref-36]: [The Sierra Chest (Wayback, 2025-08-09)](https://web.archive.org/web/20250809090332/https://sierrachest.com/) — Menu includes "Manuals & inserts"
 [^ref-37]: [ReplacementDocs](https://www.replacementdocs.com/) — "The original web archive of game manuals"
 [^ref-38]: [Flathub – DOSBox Staging](https://flathub.org/apps/io.github.dosbox-staging) — Flatpak package io.github.dosbox-staging
+[^ref-39]: [SierraHelp – 3-D Ultra Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/3-DUltraSeriesUpdates.html) — official updates, e.g. "This file will update Cool Pool to version 1.01"; "This file updates Lionel Train Town 1.0 to 1.1"
+[^ref-40]: [Steam Support – Steam Deck and Steam Machine Desktop: FAQ](https://help.steampowered.com/en/faqs/view/671A-4453-E8D2-323C) — "click the 'add a game' button in the lower left corner, click 'add a Non-Steam game', then find the application you installed in the list"
+[^ref-41]: [ScummVM Documentation – Adding and playing a game](https://docs.scummvm.org/en/latest/use_scummvm/add_play_games.html) — "In the Launcher window, click Add Game"; "highlight the game by clicking on it, and then click Start"
+[^ref-42]: [ScummVM Documentation – Keymaps](https://docs.scummvm.org/en/latest/settings/keymaps.html) — "Use the Keymaps tab to assign actions to keyboard keys or shortcuts, or to mouse or joystick buttons"
+[^ref-43]: [RetroDECK Wiki – RetroArch general guide](https://retrodeck.readthedocs.io/en/latest/wiki_multi_emulator_guides/retroarch/retroarch-guide/) — DOS system mapped to the DOSBox Pure core
+[^ref-44]: [dgVoodoo2 – General Readme](http://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/) — "you can either use dgVoodoo Control Panel (dgVoodooCpl) or edit it manually"; "For native usage you always need the 32bit (x86) version dlls"
+[^ref-45]: [dgVoodoo2 – DirectX Readme](http://dege.freeweb.hu/dgVoodoo2/ReadmeDirectX/index.html) — "NEVER COPY DDRAW.DLL, D3D8.DLL and D3D9.DLL INTO SYSTEM FOLDERS!! ALWAYS USE A LOCAL INSTALLATION FOR A GAME!"; dgVoodoo's d3dimm.dll holds Direct3D up to version 7
+[^ref-46]: [dgVoodoo2 – Release 2.87.6 (GitHub)](https://github.com/dege-diosg/dgVoodoo2/releases/tag/2.87.6) — released 25 Oct 2026; the dgVoodoo2_87_6.zip archive holds dgVoodooCpl.exe, MS/x86 (D3D8.dll, D3D9.dll, D3DImm.dll, DDraw.dll) and 3Dfx/x86 (Glide DLLs)
+[^ref-47]: [DOSBox Staging – 0.82.0 release notes](https://www.dosbox-staging.org/download/release-notes/0.82.0/) — "cpu_cycles — Global or real mode only cycles setting"; "The legacy cycles setting is still available for backward compatibility with existing configs"
+[^ref-48]: [Apple Support – Safely open apps on your Mac](https://support.apple.com/en-us/102445) — "Open System Settings. Click Privacy & Security, scroll down, and click the Open Anyway button"
+[^ref-49]: [GOG – The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-50]: [GOG – The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-51]: [GOG – Conquests of Camelot: The Search for the Grail](https://www.gog.com/en/game/conquests_of_camelot) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-52]: [GOG – Conquests of the Longbow: The Legend of Robin Hood](https://www.gog.com/en/game/conquests_of_the_longbow) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-53]: [GOG – Shivers](https://www.gog.com/en/game/shivers) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-54]: [GOG – Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-55]: [GOG – Torin's Passage](https://www.gog.com/en/game/torins_passage) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)

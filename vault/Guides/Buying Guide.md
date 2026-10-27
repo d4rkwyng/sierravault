@@ -25,7 +25,7 @@ A strong option for classic Sierra adventures. GOG packages include extras such 
 - [Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — $9.99; PQ1–4 with manuals, map, reference cards and avatar as extras[^ref-7]. [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) is a separate pack[^ref-8]
 - Gabriel Knight — [Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers), [The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) and [Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) are sold separately ($5.99 each), plus the [20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) ($19.99)[^ref-9]
 
-**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, the Betrayal at Krondor Pack, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, the Red Baron Pack, SWAT 3, and more.[^ref-10] RAMA, The Incredible Machine and the Aces series are not currently sold on GOG.[^ref-10]
+**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, [The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest), [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra), [Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot), [Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) and [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) ($5.99 each, checked 2026-10-26)[^ref-29], the Betrayal at Krondor Pack, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, the Red Baron Pack, SWAT 3, and more.[^ref-10] RAMA, The Incredible Machine and the Aces series are not currently sold on GOG.[^ref-10]
 
 ### Steam
 
@@ -101,7 +101,7 @@ The most recent Sierra-specific bundle was **Humble Sierra the 3rd**, which ran 
 **Official Freeware:** None of the classic Sierra adventures is currently offered free by its rights holder. *Betrayal at Krondor* is sold on GOG as the Betrayal at Krondor Pack ($5.99).[^ref-10]
 
 **Fan Remakes (Free Downloads):**
-- **AGD Interactive** — King's Quest I VGA, King's Quest II+, Quest for Glory II VGA
+- **AGD Interactive** — King's Quest I VGA, King's Quest II: Romancing the Stones, King's Quest III Redux, Quest for Glory II VGA[^ref-30]
 - **Infamous Adventures** — King's Quest III, Space Quest II VGA
 - **Phoenix Online** — The Silver Lining (King's Quest fan sequel)
 
@@ -166,3 +166,5 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-26]: [Steam – Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 26, 2026: "no longer available on the Steam store"
 [^ref-27]: [Steam – "Is That a Phone in your Pocket? Wet Dreams Dry Twice available on iOS & Android!"](https://store.steampowered.com/news/app/1373430/view/4237325463688992580) – Assemble Entertainment announcement of the iOS and Android release (title and gid confirmed via the Steam news API, 2026-10-26)
 [^ref-28]: [GOG – Leisure Suit Larry: Magna Cum Laude: Uncut and Uncensored!](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – live store page; US base price $5.99 (GOG price API, checked 2026-10-26)
+[^ref-29]: [GOG – The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest) – live store page, US base price $5.99, Windows (GOG product and price API, checked 2026-10-26); the same check found [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra), [Conquests of Camelot: The Search for the Grail](https://www.gog.com/en/game/conquests_of_camelot), [Conquests of the Longbow: The Legend of Robin Hood](https://www.gog.com/en/game/conquests_of_the_longbow) and [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) live at $5.99 each
+[^ref-30]: [AGD Interactive](https://www.agdinteractive.com/) – news: "King's Quest III Redux Released" (February 24th, 2011), which "resumes where our previous remake, King's Quest II: Romancing the Stones, ended"; "Quest for Glory II v2.0 released on PC and Mac"
