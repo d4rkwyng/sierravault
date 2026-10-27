@@ -5,7 +5,7 @@ founded: 1991
 defunct: 2023
 headquarters: "Glendale, California, USA (1990s); later Torrance, California, USA"
 notable_games: ["JumpStart Series", "3-D Body Adventure", "Space Adventure"]
-parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004)"
+parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004), NetDragon Websoft (from 2017)"
 last_updated: "2026-10-26"
 ---
 # Knowledge Adventure
@@ -14,7 +14,7 @@ last_updated: "2026-10-26"
 
 ## Overview
 
-Knowledge Adventure was an American educational software developer and publisher founded in California in 1991.[^ref-14][^ref-5] It is best known for the *JumpStart* learning series.[^ref-21] The company was based in Glendale, California, in the 1990s and later in Torrance.[^ref-22][^ref-9] It was never a Sierra studio and Sierra did not publish its own line: from 1997 it was a **sister company** to Sierra On-Line inside CUC Software, and it later developed the Dr. Brain games that Sierra had started.[^ref-21][^ref-17] The company renamed itself JumpStart Games in 2012 and closed in 2023.[^ref-5][^ref-13]
+Knowledge Adventure was an American educational software developer and publisher founded in California in 1991.[^ref-14][^ref-5] It is best known for the *JumpStart* learning series.[^ref-21] The company was based in Glendale, California, in the 1990s and later in Torrance.[^ref-22][^ref-9] It was never a Sierra studio and Sierra did not publish its own line: from 1997 it was a **sister company** to Sierra On-Line inside CUC Software, and it later developed the Dr. Brain games that Sierra had started.[^ref-21][^ref-17] The company renamed itself JumpStart Games in 2012, was acquired by NetDragon Websoft on 7 July 2017, and closed in 2023.[^ref-5][^ref-13]
 
 ## History
 
