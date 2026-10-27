@@ -458,7 +458,7 @@ Sierra published or distributed these games from outside developers:
 | 1997-2000 | You Don't Know Jack series | Jellyvision | Trivia games; Berkeley Systems, under Sierra from 1997[^ref-20][^ref-1] |
 | 1988 | Silpheed | Game Arts | Japanese shooter |
 | 1990 | Zeliard | Game Arts | Action RPG |
-| 1990 | Sorcerian | Game Arts | RPG |
+| 1990 | Sorcerian | Nihon Falcom | RPG |
 | 1999 | Viper Racing | Monster Games | Racing |
 | 2001 | Throne of Darkness | Click Entertainment | Action RPG |
 
