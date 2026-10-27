@@ -10,22 +10,22 @@ series: k.a.a.
 engine: Proprietary (Windows/DirectX)
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under its k.a.a. label and published by Sierra On-Line in November 1996.
 tags: [1990s, dynamix, k.a.a., sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Hunter Hunted is a side-scrolling action computer game developed by [[Dynamix]] under its k.a.a. label and published by [[Sierra On-Line]] in November 1996[^ref-1]. The game takes players "out of reality and throws you into a side-scrolling, action-filled, gut-wrenching game" that offers a choice between playing as either a human named Jake or a beast named Garathe Den[^ref-2]. Set in a future where Earth has been conquered by brutal alien overlords, the game combines run-and-gun gameplay with platforming elements and a split-screen two-player mode[^ref-1].
 
-Its levels consist of several parallel planes, and characters move between them through doors and windows[^ref-1]. One reviewer, writing for Home of the Underdogs, called this "an intriguing novel concept: the third dimention of 2D"[^ref-17][^ref-3]. Combined with split-screen cooperative and competitive modes, it made Hunter Hunted an appealing option at a time when, as Old PC Gaming later put it, "decent arcade games on PC are still hard to come by"[^ref-4]. *Next Generation* called it "a strong showing in the world of side-scrolling platform shooters"[^ref-24], and The Collection Chamber later wrote that it "bucked the trend and proved to be very decent" in a genre that had been "more miss than hit on computers"[^ref-8].
+Its levels consist of several parallel planes, and characters move between them through doors and windows[^ref-1]. One reviewer, writing for Home of the Underdogs, called this "an intriguing novel concept: the third dimention of 2D"[^ref-17][^ref-3]. It also supports split-screen cooperative and competitive play[^ref-1]. *Next Generation* called it "a strong showing in the world of side-scrolling platform shooters"[^ref-24], and The Collection Chamber later wrote that it "bucked the trend and proved to be very decent" in a genre that had been "more miss than hit on computers"[^ref-8].
 
-Sierra's InterAction magazine presented k.a.a. as a group of rebel developers who wanted to do something other than adventure games. Lead programmer Rhett Andersen said "k.a.a. stands for knot another adventure game... Sierra makes enough of those"[^ref-23]. The game's story was tied into the Metaltech: Earthsiege universe as "a prequel of sorts"[^ref-1]. With 65 single-player missions and 35 multiplayer missions across cooperative and head-to-head modes[^ref-1], the game offered "aimless but exciting thrills that you can play in small chunks at a time"[^ref-4].
+Sierra's InterAction magazine presented k.a.a. as a group of rebel developers who wanted to do something other than adventure games. Lead programmer Rhett Andersen said "k.a.a. stands for knot another adventure game... Sierra makes enough of those"[^ref-23]. The game's story was tied into the Metaltech: Earthsiege universe as "a prequel of sorts"[^ref-1]. The game has 65 single-player missions and 35 multiplayer missions across cooperative and head-to-head modes[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -42,7 +42,7 @@ Sierra's InterAction magazine presented k.a.a. as a group of rebel developers wh
 
 The year is 2015, and Earth has fallen to a technologically superior race of brutal alien warriors known as the Masters[^ref-6]. In a matter of days, five billion humans were exterminated, leaving humankind all but obliterated[^ref-7]. The Masters have invaded many planets throughout the galaxy, systematically exterminating or enslaving their populations[^ref-6]. Among their conquered worlds is Kullrathe, home to a minotaur-like species that has also been subjugated[^ref-1].
 
-The surviving humans and the inhabitants of Kullrathe are forced to fight in the ruins of Earth's cities for the Masters' entertainment[^ref-1]. The box copy casts the player as the chosen champion: "You are the perfect specimen--the biggest, the baddest, the best of the best"[^ref-8]. The human champion is Jake, a "muscle-bound, chisel-jawed" warrior[^ref-4]. His opponent is Garathe Den, "the Minotaur-like warrior champion of the planet Kullrathe"[^ref-4].
+The surviving humans and the inhabitants of Kullrathe are forced to fight in the ruins of Earth's cities for the Masters' entertainment[^ref-1]. The box copy casts the player as the chosen champion: "You are the perfect specimen--the biggest, the baddest, the best of the best"[^ref-8]. The human champion is Jake, a muscular human; his opponent is Garathe Den, a Minotaur-like creature from the planet Kullrathe[^ref-1].
 
 The competitions take place in abandoned urban environments—dark alleys, office buildings, and even abandoned malls—that have become the Masters' gladiatorial arenas[^ref-2]. Players must navigate these hostile environments, battling not only each other but also the dangers the Masters have placed throughout the arenas. The ultimate goal is to collect all the car parts needed to build an escape vehicle called the SCURVe, which will allow the champion to escape from the Masters[^ref-9][^ref-10].
 
@@ -72,7 +72,7 @@ Each mission tasks players with navigating through the arena, defeating enemies,
 
 While primarily an action game, Hunter Hunted incorporates puzzle elements into its level design. Players must "jump and run through a great amount of levels, solving different riddles and killing your enemies"[^ref-15]. *Next Generation* noted that "the levels are well built, with plenty of puzzles and secret passages"[^ref-24].
 
-The two playable characters offer different gameplay experiences. Jake, the human champion, comes equipped with more sophisticated weaponry[^ref-12]. Garathe Den, in contrast, relies on greater strength and stamina[^ref-12]. In the two-player mode, Jake and Garathe Den work through the level simultaneously, "either helping or trying to kill each other depending on the rules of play"[^ref-4].
+The two playable characters offer different gameplay experiences. Jake, the human champion, comes equipped with more sophisticated weaponry[^ref-12]. Garathe Den, in contrast, relies on greater strength and stamina[^ref-12]. Two players can play together in 15 cooperative missions or against each other in 20 head-to-head missions[^ref-1].
 
 Players must collect parts throughout the game to ultimately build the SCURVe escape vehicle[^ref-10]. The game has been described as a "kill-em-all type game"[^ref-2].
 
@@ -85,8 +85,6 @@ Hunter Hunted received moderately positive reviews upon release[^ref-1]. GameSpo
 *Next Generation* gave it three stars out of five in its March 1997 issue, calling Hunter Hunted "a strong showing in the world of side-scrolling platform shooters"[^ref-24]. The reviewer warned that "some of the controls are a bit sticky" but concluded: "It may not be the best platform shooter for the PC, but it's definitely worth some attention"[^ref-24].
 
 ### Modern Assessment
-
-Old PC Gaming's retrospective praised its "slick presentation (particularly the sumptuous soundtrack and oodles of character animation)" and concluded that "decent arcade games on PC are still hard to come by, so if you're looking for some aimless but exciting thrills that you can play in small chunks at a time, you could do a hell of a lot worse than this"[^ref-4].
 
 MobyGames contributor Tomer Gabel called it "an innovative platform game with many twists" and "a completely underrated action game"[^ref-27]. The Home of the Underdogs review called it a "fun underdog", while warning that it "may prove too repetitive and easy in one-player mode"[^ref-17].
 
@@ -135,8 +133,6 @@ The game supports split-screen play for both cooperative and competitive modes, 
 - **Graphics:** VGA 256 colors[^ref-18]
 - **CD-ROM:** 2x speed drive[^ref-18]
 - **Operating System:** Windows 95[^ref-18]
-
-Old PC Gaming's review lists lower requirements: an 80486 66 MHz with 8 MB RAM[^ref-4].
 
 **CD-ROM Version:**[^ref-6]
 - **Media Type:** CD-ROM[^ref-6]
@@ -244,7 +240,6 @@ Critics gave the game moderately positive reviews[^ref-1], and it never achieved
 [^ref-1]: [Wikipedia – Hunter Hunted (video game)](https://en.wikipedia.org/wiki/Hunter_Hunted_(video_game)) – release date, developer label, designer, mission counts, parallel planes, Earthsiege/Starsiege connection, GameSpot review summary
 [^ref-2]: [A Games Room – Hunter Hunted](https://www.agamesroom.com/game/hh) – gameplay description, setting details
 [^ref-3]: [Internet Archive – Hunter Hunted Win EN ISO Version](https://archive.org/details/hunter-hunted-win-en-iso-version) – item description reproducing the Home of the Underdogs review ("the third dimention of 2D")
-[^ref-4]: Old PC Gaming – Hunter Hunted (link removed: site offers game downloads) – character descriptions, critical assessment, system requirements
 [^ref-5]: [MobyGames – Hunter Hunted](https://www.mobygames.com/game/656/hunter-hunted/) – publisher, developer, specs
 [^ref-6]: [Amazon – Hunter Hunted](https://www.amazon.com/Hunter-Hunted/dp/B007ON5Y2A) – story setting, ESRB rating, technical specs
 [^ref-7]: [Sierra Chest – Hunter Hunted](https://www.sierrachest.com/index.php?a=games&id=183) – first release date (1996-10-18), backstory details, mission counts, compilations

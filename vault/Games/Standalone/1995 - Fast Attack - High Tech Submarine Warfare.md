@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: USS Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-27'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
   developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS...'
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Fast Attack: High Tech Submarine Warfare is a submarine combat simulation develo
 
 The simulation was built around realism. SUBSIM's Neal Stevens wrote that players "can get closer to a realistic modern undersea combat than ever before," and Computer Gaming World's reviewer, a former submariner, said "the sonar looks exactly like the one on our old boat."[^ref-4][^ref-9] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and subs, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline read: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] Failure has a stark consequence: "your final rest will be upon the ocean floor."[^ref-2][^ref-3]
 
-The game's credits give special thanks to the officers and crew of the USS Pogy (SSN-647).[^ref-5] An old review reproduced on Old PC Gaming called its sonar screen "incredibly complex, yet easy to grasp and operate."[^ref-6]
+The game's credits give special thanks to the officers and crew of the USS Pogy (SSN-647).[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** Software Sorcery[^ref-1]
@@ -92,8 +92,6 @@ Fast Attack received a polarized reception. Critics praised its realism and crit
 **SUBSIM** awarded 79 out of 100 as released and 87 once patched.[^ref-4] Reviewer Neal Stevens wrote that among earlier nuclear sub sims, "none holds a candle to the tense action and rigorous pacing of Fast Attack," and that "the measure of realism in Fast Attack is unmatched."[^ref-4] He also called it "a troubled genius." His 1996 summary concluded: "Forty dollars is too much to pay for a simulation that won't work reliably, even if the concept and execution is superb." By his own account, the program "crashed on me one out of every three games."[^ref-4]
 
 ### Later Assessment
-
-An undated, unattributed review reproduced on Old PC Gaming said, "I can't think of another game running under DOS that so smoothly integrates so many complex elements into a working game of substantial depth." It called the sonar screen "incredibly complex, yet easy to grasp and operate."[^ref-6] The same review criticized the missing save function and the AI, saying enemy ships and subs "seem to be commanded by cooks who suddenly found themselves in charge of a ship."[^ref-6]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 71% (11 ratings)[^ref-20]
@@ -178,8 +176,7 @@ Additional limitations noted by critics included:
 - No save game option during missions[^ref-4][^ref-9]
 - No multiplayer support[^ref-4][^ref-14]
 - Mission time limits that cannot be turned off[^ref-9]
-- Inability to set torpedo running depth[^ref-6]
-- Weak AI: enemy ships and subs "seem to be commanded by cooks who suddenly found themselves in charge of a ship"[^ref-6]
+- Torpedoes that "aren't as smart or controllable as they should be"[^ref-9]
 
 A CD carrying version 1.01, with AI and Windows 95 stability fixes, had appeared by February 1998, and SUBSIM reported an upgrade patch in June 1998.[^ref-4] Player-created patches also emerged, and one of the first removed the two-hour mission time limit.[^ref-1]
 
@@ -236,7 +233,6 @@ Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in 
 [^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – box synopsis
 [^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – Neal Stevens review (1996/1998), scores, crash notes, version 1.01 file, 6/98 patch update
 [^ref-5]: [MobyGames – Fast Attack credits (DOS)](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/credits/dos/) – full credits, roles, USS Pogy special thanks
-[^ref-6]: Old PC Gaming – Fast Attack *(link not given: oldpcgaming.net is a game-download site, cited as text only)* – reproduced review text of unidentified origin; sonar, torpedo depth, AI critique
 [^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release regions, user rating, download sizes
 [^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/screenshots/dos/192694/) – 640x480 screen resolution
 [^ref-9]: [Computer Gaming World #143 (June 1996), pp. 162–164 – "Crash Dive" by Kevin Turner](https://archive.org/details/Computer_Gaming_World_Issue_143/page/n165) – review, spec box, theaters, career, difficulty levels, sonar, patch disk, rating

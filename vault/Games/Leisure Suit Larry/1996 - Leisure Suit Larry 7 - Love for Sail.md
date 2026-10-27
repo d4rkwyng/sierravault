@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-27'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -107,7 +107,6 @@ In 2011, *Adventure Gamers* ranked *Love for Sail!* as the 71st-best adventure g
 - **IMDB:** 8.1/10 (323 ratings)[^ref-22]
 - **Metacritic User Score:** 8.4/10[^ref-23]
 - **MyAbandonware:** 4.12/5 (26 votes, October 2026)[^ref-24]
-- **BestDOSGames:** 93%[^ref-25]
 
 ## Development
 
@@ -342,7 +341,6 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-22]: [IMDB – Leisure Suit Larry: Love for Sail!](https://www.imdb.com/title/tt0221340/) – user rating, voice cast, Bond reference trivia
 [^ref-23]: [Metacritic](https://www.metacritic.com/game/leisure-suit-larry-love-for-sail/) – user score, Polish voice cast
 [^ref-24]: MyAbandonware *(download link removed: the game is sold commercially)* – user rating, alternate titles, availability status
-[^ref-25]: BestDOSGames *(download link removed: the game is sold commercially)* – rating percentage
 [^ref-26]: [Rock Paper Shotgun – Gaming Made Me: Leisure Suit Larry 1](https://www.rockpapershotgun.com/2011/02/26/gaming-made-me-leisure-suit-larry-1/) – series origins, Richard Cobbett assessment
 [^ref-27]: [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html) – Easter egg descriptions, developer commentary
 [^ref-28]: [IMDB – Full Credits](https://www.imdb.com/title/tt0221340/fullcredits/) – complete voice cast, crew credits, LA West animation

@@ -11,7 +11,7 @@ series: Hoyle
 engine: WChess 2000
 protagonist: The King
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-27'
 composer: [Clockwork Productions]
 description: Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment,
   Inc. and published by Sierra Entertainment in North America in 2003. The game...
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Majestic Chess
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -178,7 +178,6 @@ The game has experienced compatibility issues with modern operating systems, pre
 - "Inadequate operating system" error messages on newer Windows versions[^ref-5]
 - CreateDevice failed errors when running through CrossOver on macOS[^ref-5]
 - Crashes after the first task on Linux without disabling DXVK and VKD3D[^ref-5]
-- Installation errors including "wrong CD found" and "binkw32.dll was not found"[^ref-10]
 
 The ValuSoft/THQ reissue reportedly works on Windows 10 but has multiplayer functionality removed.[^ref-5] Some users maintain older Windows 7 systems specifically to play this game due to compatibility issues with newer operating systems.[^ref-9]
 
@@ -297,7 +296,6 @@ Contemporary critics framed the game as a teaching tool rather than a serious an
 [^ref-6]: [Chess Programming Wiki – Majestic Chess](https://www.chessprogramming.org/Majestic_Chess) – chess engine, developer background, technical features
 [^ref-7]: [PC Gamer – Hoyle Majestic Chess review (Rob Smith, archived)](https://web.archive.org/web/20060315132519/http://www.pcgamer.com/archives/2005/07/hoyle_majestic.html) – eight chapters, Sargon, artifacts, reused art assets, 79% verdict
 [^ref-9]: [GOG.com Dreamlist – Hoyle Majestic Chess](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) – publishers, user quotes, compatibility issues
-[^ref-10]: Old Games Download – Hoyle Majestic Chess (link removed: game-download site) – file size, installation issues, user comments
 [^ref-12]: [MobyGames – Bill Forster Credits](https://www.mobygames.com/person/101460/bill-forster/credits/) – online design and programming credits
 [^ref-13]: [IMDB – Hoyle Majestic Chess](https://www.imdb.com/title/tt9782314/) – director, writers, production company, release date
 [^ref-14]: [KHInsider – Hoyle Majestic Chess Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/hoyle-majestic-chess-2003) – soundtrack track listing, durations

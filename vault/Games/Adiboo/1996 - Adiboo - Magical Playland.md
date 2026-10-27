@@ -10,7 +10,7 @@ series: Adiboo
 engine: Coktel Vision engine (supported by ScummVM's Gob engine); VMD video
 protagonist: Adiboo
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: 'Adiboo: Magical Playland (Adibou 2 in France) is a 1996 edutainment game
   for children aged 4-7, developed by Sierra subsidiary Coktel Vision for Windows and
   Macintosh and published in the US by Sierra On-Line and Knowledge Adventure.'
@@ -18,7 +18,7 @@ tags: [1990s, adiboo, educational, sierra]
 ---
 # Adiboo: Magical Playland
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -118,10 +118,10 @@ The game's video uses the VMD format; the extension "stands for Video and Music 
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-5][^ref-12]
+**CD-ROM Version:**[^ref-5]
 - **Display:** 256-colour display drivers required[^ref-14]
 - **Media:** CD-ROM (Win/Mac Hybrid)[^ref-5]
-- **File Size:** 317-361 MB[^ref-5][^ref-12]
+- **File Size:** 317-361 MB[^ref-5]
 
 **Versions (as labelled by MyAbandonware):**[^ref-5]
 - Version 2.12 (Win/Mac Hybrid)
@@ -144,14 +144,11 @@ No specific cut content has been documented in available research materials.
 
 ### Technical Issues
 
-Modern compatibility presents challenges for players attempting to run Adiboo: Magical Playland on contemporary systems. The game was designed for Windows 95/98 era computers and does not run directly on Windows 10[^ref-12]. One response notes that "The game is from 1996 so it won't run on Windows 10, you will most likely need a Windows XP virtual machine to run it"[^ref-12]. Virtual machines running older Windows generally work: the Internet Archive uploader reports "great results running it on Windows 98 SE using VirtualBox"[^ref-14], and users report it running in Windows 98 and Windows 95 virtual machines[^ref-5][^ref-12]. Adibou games are also supported by ScummVM's "Gob" engine[^ref-17], and MyAbandonware users report running this game in ScummVM[^ref-5].
+Modern compatibility presents challenges for players attempting to run Adiboo: Magical Playland on contemporary systems. Virtual machines running older Windows generally work: the Internet Archive uploader reports "great results running it on Windows 98 SE using VirtualBox"[^ref-14], and a MyAbandonware commenter says it "works like a charm in Windows 98 on Virtualbox"[^ref-5]. Adibou games are also supported by ScummVM's "Gob" engine[^ref-17], and MyAbandonware users report running this game in ScummVM[^ref-5].
 
 **Known Issues:**
 - The Spanish "Adibú 2" upload is reported not to work in VirtualBox or Wine because the CPU fails, so it needs an emulated environment such as QEMU[^ref-5]
-- Color display problems when running in VirtualBox on Windows 95, with one user reporting "the colours are completely broken, e.g. the soil in the garden is yellow, Adiboo has blue skin and green shorts!"[^ref-12]
-- Divide by zero overflow errors[^ref-12]
 - Game closes immediately after entering player name in some configurations[^ref-5]
-- Extension installation problems in Windows 95 virtual machines[^ref-12]
 
 ### Easter Eggs and Trivia
 
@@ -190,7 +187,7 @@ The game was distributed through multiple publishers across different regions:
 
 ### Fan Projects
 
-No significant fan projects have been documented. The game's preservation primarily exists through abandonware archives and download sites[^ref-5][^ref-12][^ref-14].
+No significant fan projects have been documented. The game's preservation primarily exists through abandonware archives and download sites[^ref-5][^ref-14].
 
 ### Related Publications
 
@@ -237,7 +234,6 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 [^ref-9]: [The Casual Gamer Blog – Adiboo](https://thecasualgamernet.wordpress.com/tag/adiboo/) – retrospective, character descriptions, Giant Bomb quote
 [^ref-10]: [TV Tropes – YMMV/Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/AdibooMagicalPlayland) – disturbing content, Play Toons crossover, cooking mini-game, face design
 [^ref-11]: [IGN – Adiboo Magical Playland User Reviews](https://www.ign.com/games/adiboo-magical-playland/user-reviews) – user ratings, release date
-[^ref-12]: Old Games Download – Adiboo Magical Playland (link removed: game-download site) – file size, compatibility issues, user technical support
 [^ref-13]: [Wikipédia (FR) – Adibou 2](https://fr.wikipedia.org/wiki/Adibou_2) – release, predecessor, activities in house and garden, add-on discs, PC Team rating
 [^ref-14]: [Internet Archive – Adiboo: Magical Playland](https://archive.org/details/Adiboo_201809) – preserved game media, 256-colour driver requirement, Windows 98 VirtualBox report
 [^ref-15]: [Giant Bomb – Adiboo: Magical Playland](https://giantbomb.com/wiki/Games/Adiboo_Magical_Playland) – database entry: 1996, Coktel Vision

@@ -10,14 +10,14 @@ series: After Dark
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: A 1998 Berkeley Systems collection of eleven mini-games starring characters
   from the After Dark screensaver series, released under Sierra's Attractions label.
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -135,7 +135,7 @@ After Dark Games turned screensaver characters (Flying Toasters, Bad Dog, Mowin'
 | Platform | Size | Format |
 |----------|------|--------|
 | Mac | 24.2MB | .sit[^ref-21] |
-| Windows | 32.0MB | ISO.zip[^ref-24] |
+| Windows | 32 MB | Not stated[^ref-14] |
 
 ### Version History
 
@@ -157,8 +157,6 @@ Screensaver compatibility note (this concerns the After Dark screensaver, not Af
 The Berkeley Systems founders, Joan Blades and Wes Boyd, went on to found MoveOn.org in 1998.[^ref-33] The Bad Dog screensaver character also inspired an animated TV series, first broadcast by Teletoon on March 1, 1999.[^ref-1]
 
 ### Preservation Efforts
-
-Technical preservation efforts continue through various abandonware sites and community archives[^ref-24], though users report issues with corrupted game files where "the og programming for the game isn't there."[^ref-24] Despite these challenges, the collection maintains nostalgic appeal, with players noting "This game brings back so many memories!"[^ref-24] when successful installations are achieved.
 
 GOG wishlist requests demonstrate ongoing preservation interest, with users sharing memories: "This was one of the few games that my mother had back when I was in elementary school on our windows 2000 pc; we'd play it together at times and it's just a very simple, but cozy anthology of games that would be very nice to have preserved."[^ref-25]
 
@@ -219,7 +217,6 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 [^ref-20]: [Apple Discussions - Compatibility](https://discussions.apple.com/thread/966505) - Intel Mac issues, Mushu Tiles unavailability
 [^ref-21]: [Macintosh Repository](https://www.macintoshrepository.org/3569-after-dark-games) - System requirements, file specifications
 [^ref-22]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Modern system compatibility
-[^ref-24]: Old Games Download (link removed: game-download site) - Community preservation efforts, user comments
 [^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - User preservation requests, nostalgia quotes
 [^ref-26]: [Speedrun.com - Toaster Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Specific speedrun submission
 [^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo information, bundling details

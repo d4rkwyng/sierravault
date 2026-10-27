@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
   and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
   and Casino modes, and Internet play via the Sierra Internet Gaming System.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ The flavour comes from the people at the table. MobyGames lists "the sultry Kath
 
 ### Table and Bankroll
 
-Players started with "$5,000 in chips and $5,000 in the bank", which they could draw on through an ATM in the casino[^ref-4]. MobyGames classes the game as first-person card play[^ref-6]. Old PC Gaming also notes that the game counts cards for you and keeps statistics screens[^ref-3].
+Players started with "$5,000 in chips and $5,000 in the bank", which they could draw on through an ATM in the casino[^ref-4]. MobyGames classes the game as first-person card play[^ref-6].
 
 A sample hand in that walkthrough shows the shoe at the top right of the screen. A yellow marker shows when the deck will be reshuffled[^ref-8]. Play instructions were supplied as a Windows help (.hlp) file on the CD-ROM rather than a printed manual[^ref-28].
 
@@ -74,8 +74,6 @@ The game offered a choice of casino play styles and a style customizer[^ref-4]. 
 - **Insurance and Surrender**[^ref-7]
 - **Bet limits**[^ref-6]
 - **Dealer Hits On Soft 17:** an option that the walkthrough notes "is more favorable for the casino"[^ref-8]
-
-Old PC Gaming adds that "you can select how many times you're allowed to split or whether you can buy insurance". It also notes that you can adjust how efficiently the dealer shuffles[^ref-3].
 
 An attitude adjuster for the dealer (World Village's "attitude meter") changes the table's demeanour[^ref-4][^ref-27]. MobyGames describes the same feature as adjusting "the talkativeness of the computer opponents and dealer"[^ref-6].
 
@@ -212,7 +210,6 @@ The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 20
 ## References
 
 [^ref-2]: [SierraGamers Forum – Where does "Sierra" end?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - 2010 fan discussion of which Hoyle titles count as classic Sierra
-[^ref-3]: Old PC Gaming Review (link removed: site offers game downloads) - Rule customization, card counting and statistics features
 [^ref-4]: [GameSpot – Hoyle Blackjack Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Tal Blevins, 1 August 1996, 7.8/10; bankroll, ATM, SIGS network play, attitude adjuster
 [^ref-5]: [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Preserved copy of the 1996 CD
 [^ref-6]: [MobyGames – Hoyle Blackjack (1996)](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Developer/publisher, platform, description, opponents, related games

@@ -24,7 +24,7 @@ tags: [1990s, sierra, trophy-bass]
 
 Sierra Sports Bass Fishing, released in 1998 and also known by various titles including Trophy Bass and Field & Stream: Trophy Bass 4, represents Sierra's ambitious entry into the fishing simulation genre[^ref-1]. Developed by Dynamix and designed by Kurt Weber and Randy Dersham, this series aimed to provide a realistic fishing experience that would appeal to both gaming enthusiasts and actual fishing aficionados[^ref-2]. The game was "a serious simulation, featuring hundreds of real-name manufacturers, and even some 'famous' bass fisher-people"[^ref-3].
 
-The Trophy Bass series began with the original Trophy Bass, which was fully sponsored by Bass Anglers Sportsman Society (B.A.S.S.) and became the first game in what would evolve into a successful franchise[^ref-4]. The series progressed through multiple iterations, with Field & Stream: Trophy Bass 4 serving as the fourth entry in the series, released for Microsoft Windows in 2000[^ref-5]. As one reviewer noted, "Trophy Bass 4 is a fun, challenging, and highly accurate bass fishing simulation based on real lakes, real lake conditions, and real bass behavior"[^ref-6].
+The Trophy Bass series began with the original Trophy Bass, which was fully sponsored by Bass Anglers Sportsman Society (B.A.S.S.) and became the first game in what would evolve into a successful franchise[^ref-4]. The series progressed through multiple iterations, with Field & Stream: Trophy Bass 4 serving as the fourth entry in the series, released for Microsoft Windows in 2000[^ref-1]. As one reviewer noted, "Trophy Bass 4 is a fun, challenging, and highly accurate bass fishing simulation based on real lakes, real lake conditions, and real bass behavior"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -104,7 +104,7 @@ The Trophy Bass series evolved through multiple iterations:
 | Trophy Bass | 1995 | DOS, Windows | Original release, B.A.S.S. sponsored[^ref-4] |
 | Trophy Bass 2 | 1997 | Windows | Improved graphics and AI[^ref-4] |
 | Trophy Bass 3D | 1999 | Windows | Full 3D engine implementation[^ref-4] |
-| Field & Stream: Trophy Bass 4 | 2000 | Windows | Final entry, Field & Stream license[^ref-5] |
+| Field & Stream: Trophy Bass 4 | 2000 | Windows | Fourth entry, Field & Stream license[^ref-1] |
 
 ### Technical Achievements
 
@@ -153,7 +153,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 [^ref-2]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Trophy_Bass) – - Developer and designer credits
 [^ref-3]: [Eurogamer Review](https://www.eurogamer.net/articles/tbass4) – - Game description and review
 [^ref-4]: [GameFAQs Trophy Bass Franchise](https://gamefaqs.gamespot.com/games/franchise/419-trophy-bass) – - Series history and franchise details
-[^ref-5]: Old Games Download (link removed: game-download site) – - Release information
 [^ref-6]: [Internet Archive - Field & Stream Trophy Bass 4](https://archive.org/details/FieldStreamTrophyBass4) – - Official game description
 [^ref-7]: [MobyGames Technical Specs](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/specs/windows/) – - Platform information
 [^ref-8]: [Web Archive - CD Magazine](https://web.archive.org/web/20030525154506/http://www.cdmag.com/articles/028/038/tb4.html) – - Official feature announcement
