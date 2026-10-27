@@ -29,7 +29,7 @@ The Strong museum describes Brøderbund as having risen to prominence "in compet
 
 Broderbund became a wholly owned subsidiary of The Learning Company on August 31, 1998, and The Learning Company, including Broderbund, became a division of Mattel on May 13, 1999.[^ref-3][^ref-6] Doug Carlston later called Mattel "dumb money" that "didn't know anything about software."[^ref-7] Mattel sold Broderbund to Gores Technology Group in October 2000; Gores sold the entertainment division to Ubi Soft in March 2001, and Riverdeep Interactive Learning bought The Learning Company in September 2001 and "all of Brøderbund" on August 26, 2002.[^ref-3][^ref-12]
 
-Riverdeep later licensed the Broderbund product line to Encore. A Navarre Corporation press release dated November 11 announced an expanded licence making Encore "the Exclusive North American Publisher of Broderbund Products"; the year is not visible in the archived copy, and Wikipedia dates the announcement to November 2008.[^ref-19][^ref-20] Today broderbund.com is run by Encore Software LLC.[^ref-14]
+Riverdeep later licensed the Broderbund product line to Encore. A Navarre Corporation press release dated November 11, 2008 announced an expanded licence making Encore "the Exclusive North American Publisher of Broderbund Products". The archived copy shows only "Nov. 11"; Wikipedia dates the announcement to November 2008, and Navarre's 2009 credit agreement lists the matching Encore–Riverdeep licence agreements as dated July 1, 2008.[^ref-19][^ref-20][^ref-22] Today broderbund.com is run by Encore Software LLC.[^ref-14]
 
 ## Related
 
@@ -54,3 +54,4 @@ Riverdeep later licensed the Broderbund product line to Encore. A Navarre Corpor
 [^ref-19]: [Navarre Corporation - Expanded License Agreement Between Encore and Riverdeep (Wayback)](https://web.archive.org/web/20151106090040/http://ir.navarre.com/phoenix.zhtml?c=105157&p=irol-newsArticle&ID=1225252&highlight=) - "Encore now the Exclusive North American Publisher of Broderbund Products"; dated Nov. 11
 [^ref-20]: [Wikipedia - Encore, Inc.](https://en.wikipedia.org/wiki/Encore,_Inc.) - "In November 2008, Encore announced an expanded license with Riverdeep"
 [^ref-21]: [The Digital Antiquarian - Japanese Adventuring](https://www.filfre.net/2012/07/japanese-adventuring/) - Starcraft translated "most of On-Line's Hi-Res Adventure line" for Japan
+[^ref-22]: [Navarre Corporation - Credit Agreement dated November 12, 2009, Form 8-K Exhibit 10.1 (SEC)](https://www.sec.gov/Archives/edgar/data/911650/000095012309062115/c54663exv10w1.htm) - "Channel License Agreement dated July 1, 2008" among Riverdeep, HMH Consumer Company and Encore Software; manufacturing-rights licence also dated July 1, 2008
