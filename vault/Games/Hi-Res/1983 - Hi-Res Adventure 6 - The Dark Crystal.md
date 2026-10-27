@@ -10,7 +10,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Roberta Williams'' 1983 graphic adventure adaptation of Jim Henson''s film
   The Dark Crystal, the sixth and final Hi-Res Adventure, made with art direction
   from Henson Associates.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -34,6 +34,7 @@ It was the sixth and final game in Sierra's Hi-Res Adventure series[^ref-5], fol
 > **Program development:** Ken Williams, Chris Iden[^ref-39]
 > **Graphics director:** Jim Mahon (Henson Associates)[^ref-39][^ref-42]
 > **Editor:** Christopher Cerf[^ref-39]
+> **Programming (Gelfling Adventure credits, listed on this entry by MobyGames):** [[Al Lowe]][^ref-39]
 > **Publisher:** Sierra On-Line[^ref-39]
 > **Platforms:** Apple II, Atari 8-bit, FM-7, PC-88, PC-98[^ref-7]
 > **Release Year:** 1983
@@ -170,7 +171,7 @@ The Jim Henson Company hosts a free official re-creation of the game on the Dark
 [^ref-19]: [Dark Crystal Wiki - The Dark Crystal: Age of Resistance Tactics](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal:_Age_of_Resistance_Tactics) – developer BonusXP, publisher En Masse Entertainment, released February 4, 2020
 [^ref-27]: [RetroAchievements - The Dark Crystal](https://retroachievements.org/game/18957) – Apple II achievement set
 [^ref-38]: [MobyGames – The Dark Crystal reviews](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/reviews/) – critic average 86% (3 ratings); player average 4.1/5
-[^ref-39]: [MobyGames – The Dark Crystal credits](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/credits/) – Apple II credits: Roberta Williams; Ken Williams and Chris Iden; editor Christopher Cerf; graphics director Jim Mahon
+[^ref-39]: [MobyGames – The Dark Crystal credits](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/credits/) – Apple II credits: Roberta Williams; Ken Williams and Chris Iden; editor Christopher Cerf; graphics director Jim Mahon; a separate "Gelfling Adventure credits" block lists "Programming by Al Lowe"
 [^ref-40]: [Creative Computing, Vol. 9 No. 3 (March 1983), p. 168 - "The Dark Crystal" by John Anderson](https://www.atarimagazines.com/creative/v9n3/168_The_dark_crystal.php) – "first computer adventure to be based on a feature film"; "a little over a month"; planned Apple, Atari, IBM, C64 versions
 [^ref-41]: [Hi-Res, Vol. 1 No. 3 (March 1984) - Reviews: The Dark Crystal by Mark S. Murley](https://www.atarimagazines.com/hi-res/v1n3/reviews.php) – Atari version: three double-sided disks, Side A-only copy protection, verb-noun parser, linear design
 [^ref-42]: [Softline, May–June 1983 (Internet Archive)](https://archive.org/details/Softline_1983_05_06) – review: "In a way, it's better than the movie"; Jim Mahon's graphics; "delightful"

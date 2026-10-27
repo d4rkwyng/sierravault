@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Sid & Al's Incredible Toons", "The Adventures of Willy Beamish", "Johnny Castaway"]
 companies: ["Dynamix", "Sierra On-Line", "GarageGames", "Spotkin"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Brian Hahn
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Brian Hahn is an American artist, art director and game designer, best known for his long run at Dynamix.[^ref-16] He was art director on [[1992 - The Incredible Machine|The Incredible Machine]] (the series was created by Kevin Ryan, with Jeff Tunnell producing)[^ref-16][^ref-10] and went on to co-design its follow-ups, including [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], [[1994 - The Incredible Machine 2|The Incredible Machine 2]] and the Contraptions games.[^ref-16] MobyGames credits him on 38 games.[^ref-18]
 
-At Dynamix he was also an artist on adventure games such as [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], and art director on the Trophy Bass series and the 3-D Ultra Minigolf games.[^ref-16][^ref-9] Jeff Tunnell credits him with most of the gags in the Johnny Castaway screensaver (1992).[^ref-6] In 2013 he rejoined Tunnell and Kevin Ryan to work on Contraption Maker, the spiritual successor to The Incredible Machine.[^ref-17]
+At Dynamix he was also an artist on adventure games such as [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], and art director on Trophy Bass (1995), Front Page Sports: Trophy Rivers (1997) and the 3-D Ultra Minigolf games.[^ref-16][^ref-9] Jeff Tunnell credits him with most of the gags in the Johnny Castaway screensaver (1992).[^ref-6] In 2013 he rejoined Tunnell and Kevin Ryan to work on Contraption Maker, the spiritual successor to The Incredible Machine.[^ref-17]
 
 His MobyGames biography says "His specialty is getting people excited about an idea and having a positive, upbeat attitude. He loves collaboration and encourages lots of communication and team-building."[^ref-3]
 
@@ -29,7 +29,7 @@ Hahn's first credit is as one of the team artists who "provided the computer gra
 
 According to the Dynamix Wiki, Hahn joined Dynamix in December 1987 and left in October 2001.[^ref-1] His MobyGames biography says he worked as an art director, producer, music director and SFX director, worked with marketing, PR and QA, and directed localization.[^ref-3] His early Dynamix credits include graphics and animation for *Caveman Ugh-Lympics* (1988), graphics for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989).[^ref-16]
 
-He also appears in the cast of two 1989 Dynamix games: as Dr. Johnson in David Wolf: Secret Agent and as Lieutenant Jake Styles in [[1989 - A-10 Tank Killer|A-10 Tank Killer]].[^ref-16][^ref-2] These were digitized photographic roles: David Wolf merges "digitized cinematic cutscenes" with its action sequences.[^ref-19]
+He also appears in the cast of two 1989 Dynamix games: as Dr. Johnson in David Wolf: Secret Agent and as Lieutenant Jake Styles in [[1989 - A-10 Tank Killer|A-10 Tank Killer]].[^ref-16][^ref-2][^ref-22][^ref-23] These were digitized photographic roles: David Wolf merges "digitized cinematic cutscenes" with its action sequences.[^ref-19]
 
 #### Adventure Game Era (1990–1991)
 
@@ -57,9 +57,9 @@ He art-directed [[1996 - Hunter Hunted|Hunter Hunted]] (1996) and was one of the
 
 MobyGames credits him on GarageGames' Marble Blast (2002, "The Marble Blast Team") and as an artist on Chain Reaction (2002).[^ref-16]
 
-On May 13, 2013, Jeff Tunnell announced Contraption Maker, "the spiritual successor to The Incredible Machine", adding that "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin), so we have the entire original team that worked on TIM."[^ref-17] Contraption Maker was released for Windows and Macintosh in 2013.[^ref-20]
+On May 13, 2013, Jeff Tunnell announced Contraption Maker, "the spiritual successor to The Incredible Machine", adding that "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin), so we have the entire original team that worked on TIM."[^ref-17] Contraption Maker entered Steam Early Access in August 2013[^ref-20] and reached its 1.0 release on July 7, 2014.[^ref-21]
 
-MobyGames' profile for Hahn also lists FX Artist credits on The Elder Scrolls Online expansions from 2018 onward.[^ref-16][^ref-18] It has not been confirmed that these belong to the same Brian Hahn: his own MobyGames biography does not mention ZeniMax, and other artists of the same name work in visual effects.
+MobyGames' profile for Hahn also lists FX Artist credits on The Elder Scrolls Online expansions from 2018 onward.[^ref-16][^ref-18] It has not been confirmed that these belong to the same Brian Hahn: his own MobyGames biography does not mention ZeniMax.
 
 ### Current Activities
 
@@ -77,7 +77,7 @@ For the Johnny Castaway screensaver, Tunnell says Hahn came up with most of the 
 
 ### Sid & Al's Incredible Toons (1993)
 
-On [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], Hahn is credited as one of the designers, art director, music and sound effects, and manual art.[^ref-16]
+On [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], Hahn is credited as one of the designers, art director, animation (with Sherry Wheeler), music and sound effects, and manual art.[^ref-16][^ref-24]
 
 ## Games
 
@@ -105,7 +105,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 - **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Gags[^ref-6]
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Art Director
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Art Director
-- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designers, Art Director, Music / Sound Effects, Manual Art
+- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designers, Art Director, Animation, Music / Sound Effects, Manual Art[^ref-24]
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Art Director
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Original Designers, Art Directors, Music & Sound Effects, Manual Art
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designers, Art Director, Manual Artwork
@@ -148,3 +148,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 [^ref-18]: [MobyGames - Brian Hahn (Wayback, January 2025)](https://web.archive.org/web/20250116182226/https://www.mobygames.com/person/422/brian-hahn/) — Profile snapshot with game count
 [^ref-19]: [MobyGames - David Wolf: Secret Agent](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) — "merges digitized cinematic cutscenes with bitmap and 3D animation" (ID 1610, via MobyGames API)
 [^ref-20]: [MobyGames - Contraption Maker](https://www.mobygames.com/game/83394/contraption-maker/) — Windows/Macintosh release August 28, 2013 (ID 83394, via MobyGames API)
+[^ref-21]: [Contraption Maker blog - Goodbye Early Access, Hello 1.0! (Wayback)](https://web.archive.org/web/20140727012407/http://contraptionmaker.com/goodbye-early-access-hello-1-0/) — July 7, 2014: "Today is the day that we shed the Early Access name and move to our 1.0 Release!"
+[^ref-22]: [MobyGames - David Wolf: Secret Agent credits (Wayback, July 2010)](https://web.archive.org/web/20100716191040/http://www.mobygames.com:80/game/dos/david-wolf-secret-agent/credits) — "Animation Brian Hahn"; cast "Brian Hahn (as Dr. Johnson)"
+[^ref-23]: [MobyGames - A-10 Tank Killer credits (Wayback, October 2015)](https://web.archive.org/web/20151024034846/http://www.mobygames.com/game/dos/a-10-tank-killer/credits) — Cast "Brian Hahn (as Lieutenant Jake Styles)"
+[^ref-24]: [MobyGames - Sid & Al's Incredible Toons credits (Wayback, April 2016)](https://web.archive.org/web/20160409132045/http://www.mobygames.com/game/dos/sid-als-incredible-toons/credits) — Designers, Art Director, "Animation Brian Hahn, Sherry Wheeler", Music / Sound Effects, Manual Art

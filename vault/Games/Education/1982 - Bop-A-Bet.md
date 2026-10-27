@@ -2,7 +2,7 @@
 title: Bop-A-Bet
 release_year: 1982
 developer: Sunnyside Soft
-designer: [Margaret Lowe, Rae Lynn MacChesney]
+designer: [Al Lowe, Margaret Lowe, Rae Lynn MacChesney]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [Apple II]
@@ -10,7 +10,7 @@ series: Hi-Res Learning Series
 engine: Unknown
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: Bop-A-Bet is an Apple II alphabet game for young children, created in 1982 by Al and
   Margaret Lowe and Mike and Rae Lynn MacChesney as Sunnyside Soft and republished by Sierra
   On-Line in 1983 in its Hi-Res Learning series.
@@ -18,7 +18,7 @@ tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 

@@ -5,11 +5,11 @@ birth_year: 1946
 death_year: null
 notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -21,21 +21,21 @@ Lowe has said he deliberately aimed Larry at the mainstream adventure audience r
 
 ### Early Career
 
-Lowe bought an Apple II around 1978–79, taught himself to program with no formal training, and wrote three games in three months while still teaching full-time. The first was an educational game written for his four-year-old son.[^ref-5] He published those first games himself. When Ken and Roberta Williams saw them, they suggested he leave the publishing to Sierra and concentrate on making more games.[^ref-5] According to a biography on his website, when Sierra bought the rights to his titles in 1982, "it took the man as well."[^ref-7]
+Lowe bought an Apple II around 1978–79, taught himself to program with no formal training, and wrote three games in three months while still teaching full-time. The first was an educational game written for his four-year-old son.[^ref-5] He published those first games himself. When Ken and Roberta Williams saw them, they suggested he leave the publishing to Sierra and concentrate on making more games.[^ref-5] According to a biography on his website, when Sierra bought the rights to his titles in 1982, "it took the man as well."[^ref-7] A trade newsletter dated April 10, 1983 reported the deal as news, saying Sierra "has acquired the product line originally developed by Sunnyside Soft".[^ref-30]
 
-Lowe's own credit list dates Dragon's Keep, Bop-A-Bet and Troll's Tale to 1982.[^ref-25] MobyGames lists the Apple II release of Troll's Tale as 1983.[^ref-19] He then programmed Gelfling Adventure, a simplified, multiple-choice version of Hi-Res Adventure #6: The Dark Crystal for younger players. Its manual reads "Programmed by: Al Lowe," with text and educational concepts by Michael and Rae Lynn MacChesney.[^ref-28] He also did interface design on Sierra's HomeWord Speller and HomeWord Filer.[^ref-25]
+Lowe's own credit list dates Dragon's Keep, Bop-A-Bet and Troll's Tale to 1982.[^ref-25] MobyGames lists the Apple II release of Troll's Tale as 1983.[^ref-19] He then programmed Gelfling Adventure, a children's game based on The Dark Crystal that is "controlled with the space bar and return key," so players don't need to type. Its manual reads "Programmed by: Al Lowe," with text and educational concepts by Michael and Rae Lynn MacChesney.[^ref-28] He also did interface design on Sierra's HomeWord Speller and HomeWord Filer.[^ref-25]
 
 ### Sierra Years
 
-When Sierra licensed Disney characters, Lowe worked on Winnie the Pooh in the Hundred Acre Wood, Mickey's Space Adventure and Donald Duck's Playground.[^ref-7][^ref-24] Gamasutra describes him as "the lead programmer for parts of King's Quest and Police Quest."[^ref-12] He was lead programmer on both King's Quest III and the original Police Quest, and his credit list adds King's Quest IV.[^ref-24][^ref-25] He also wrote music for King's Quest II, Mickey's Space Adventure and Space Quest II.[^ref-7][^ref-25] Sierra's tools were primitive. Art was built up in a vector drawing program, and as Lowe recalled, "When you look at those early Larry games, remember that everything you see was drawn one tiny line at a time."[^ref-12]
+Sierra bought Texas Instruments' existing Disney licence rather than paying Disney's usual upfront fee, and most of the activity under it stopped well before the licence expired.[^ref-29] Under it Lowe worked on Winnie the Pooh in the Hundred Acre Wood, Mickey's Space Adventure and Donald Duck's Playground.[^ref-7][^ref-24] Gamasutra describes him as "the lead programmer for parts of King's Quest and Police Quest."[^ref-12] He was lead programmer on both King's Quest III and the original Police Quest, and his credit list adds King's Quest IV.[^ref-24][^ref-25] He also wrote music for King's Quest II, Mickey's Space Adventure and Space Quest II.[^ref-7][^ref-25] Sierra's tools were primitive. Art was built up in a vector drawing program, and as Lowe recalled, "When you look at those early Larry games, remember that everything you see was drawn one tiny line at a time."[^ref-12]
 
 Lowe says the animation process improved once Sierra borrowed a trick Disney animators had used in the 1920s: alignment with registration marks. He hedges on whose idea that was ("well, I think it may have been me!"), but he does describe suggesting that a registration mark be placed inside each animation cel, so that the animator could tell the programmer where to align it.[^ref-12] He also wrote macros for an early Logitech three-button mouse that, he said, "floated around Sierra for years."[^ref-12] Finding artists was hard: "There was no such thing as a computer artist. In fact, we had difficulty hiring any artists to create the games, because back then art majors and those with artistic bent wanted to stay away from computers."[^ref-12]
 
 His first 3-D animated graphic adventure was The Black Cauldron, based on the 1985 Disney film.[^ref-24] He has said the game was built in the game room of Ken Williams's house during a lean period at Sierra, with Mark Crowe, Scott Murphy and Ken himself writing code around a big table.[^ref-5] Of Disney's oversight he said: "We realized quickly that they insisted on having input. But the longer we could delay them seeing the product, the less changes they could make! They never made improvements, just made things different."[^ref-12]
 
-Accounts differ on how Leisure Suit Larry began. IGN's 2014 account says Ken Williams asked Lowe whether he wanted to do a graphical remake of Chuck Benton's adult text adventure Softporn Adventure.[^ref-26] In Lowe's own telling to Adventure Classic Gaming, it was he who "remembered Softporn's success" after Sierra lost its Disney rights.[^ref-5] Both accounts agree that he found the game badly dated. In the ACG version he told Ken, "There's no way I can do this as a serious game. It's so out of it that it should be wearing a leisure suit," and added, "But if you let me mock it, I might be able to do a spoof of it."[^ref-5] Leisure Suit Larry in the Land of the Lounge Lizards followed in 1987.[^ref-25]
+Accounts differ on how Leisure Suit Larry began. IGN's 2014 account says Ken Williams asked Lowe whether he wanted to do a graphical remake of Chuck Benton's adult text adventure Softporn Adventure.[^ref-26][^ref-12] In Lowe's own telling to Adventure Classic Gaming, it was he who "remembered Softporn's success" after Sierra lost its Disney rights.[^ref-5] Both accounts agree that he found the game badly dated. In the ACG version he told Ken, "There's no way I can do this as a serious game. It's so out of it that it should be wearing a leisure suit," and added, "But if you let me mock it, I might be able to do a spoof of it."[^ref-5] Leisure Suit Larry in the Land of the Lounge Lizards followed in 1987.[^ref-25]
 
-Lowe and his family moved to the Seattle area in 1994.[^ref-24] In February 1999 Sierra laid off a group of its veteran designers, Lowe among them, as part of a mass layoff.[^ref-11][^ref-7] His own biography page dates his departure to 1998, the year Leisure Suit Larry's Casino shipped.[^ref-24]
+Lowe and his family moved to the Seattle area in 1994.[^ref-24] He was laid off in February 1999 (his own bio says 1998), one of several veteran Sierra designers let go in a mass layoff.[^ref-11][^ref-24][^ref-7]
 
 ### Later Career
 
@@ -49,11 +49,11 @@ In November 2018 Lowe showed his personal archive of Sierra floppies, boxes, man
 
 ### Leisure Suit Larry in the Land of the Lounge Lizards (1987)
 
-Lowe kept Softporn Adventure's puzzles and locations but threw out all of its text. Because the original had no central character, he invented Larry as the butt of the jokes.[^ref-5] He is not Larry, he has said, but he is in the games: "I'm the narrator. When Larry asks some dumb question and the narrator responds with some smart ass remark, that's me."[^ref-5] The game was also the first Sierra title to use beta-testers from outside the company.[^ref-5] Lowe said that, with no Radio Shack distribution and no marketing money, sales "started out really bad and grew month after month," spread entirely by word of mouth. A chart he kept from July 1988, 13 months after release, still showed the game rising.[^ref-20] He also composed the Larry theme, which is credited across the series.[^ref-17][^ref-19]
+Lowe kept Softporn Adventure's puzzles and locations but, as he told Adventure Classic Gaming, threw out "every line of text";[^ref-5] in another interview he said he kept Benton's puzzles "and one sentence of dialog."[^ref-12] Because the original had no central character, he invented Larry as the butt of the jokes.[^ref-5] He is not Larry, he has said, but he is in the games: "I'm the narrator. When Larry asks some dumb question and the narrator responds with some smart ass remark, that's me."[^ref-5] The game was also the first Sierra title to use beta-testers from outside the company.[^ref-5] Lowe said that, with no Radio Shack distribution and no marketing money, sales "started out really bad and grew month after month," spread entirely by word of mouth. A chart he kept from July 1988, 13 months after release, still showed the game rising.[^ref-20] He also composed the Larry theme, which is credited across the series.[^ref-17][^ref-19]
 
 ### The Black Cauldron (1986)
 
-Lowe designed, wrote, scored and programmed The Black Cauldron.[^ref-25] He built it without a mouse: "I did Black Cauldron entirely with the keyboard."[^ref-12] MobyGames credits him with game design and programming across the PC Booter, DOS, Apple II, Atari ST, Apple IIGS and Amiga versions.[^ref-19]
+Lowe's own credit list gives him design, writing, music and programming on The Black Cauldron.[^ref-25] Roberta Williams was co-designer: Jimmy Maher writes that it was "largely designed by Roberta and programmed, as usual, by Al Lowe."[^ref-29] He built it without a mouse: "I did Black Cauldron entirely with the keyboard."[^ref-12] MobyGames credits him with game design and programming across the PC Booter, DOS, Apple II, Atari ST, Apple IIGS and Amiga versions.[^ref-19]
 
 ### The Laffer Utilities (1991)
 
@@ -75,7 +75,7 @@ On his website he has published his design documents for Leisure Suit Larry 5, F
 
 ## Legacy
 
-Lowe's longest-lived creation is Larry Laffer. The series he started in 1987 continued with Sierra through Love for Sail! (1996) and Leisure Suit Larry's Casino (1998), and the series later went on with Reloaded (2013) and Wet Dreams Don't Dry (2018).[^ref-4][^ref-19] He has also left a record of his own working methods: published design documents,[^ref-9] interviews describing Sierra's early tools and the registration-mark and mouse-macro conventions,[^ref-12] and the 2018 video tour of his Sierra source-code archive, which he then sold on eBay rather than donated.[^ref-8][^ref-14]
+Lowe's longest-lived creation is Larry Laffer. The series he started in 1987 continued with Sierra through Love for Sail! (1996) and Leisure Suit Larry's Casino (1998), and the series later went on with Reloaded (2013) and Wet Dreams Don't Dry (2018).[^ref-4][^ref-19] He has also left a record of his own working methods: published design documents,[^ref-9] interviews describing Sierra's early tools and the registration-mark and mouse-macro conventions,[^ref-12] and the 2018 video tour of his Sierra source-code archive, which he then sold on eBay.[^ref-8][^ref-14]
 
 ## Games
 
@@ -93,7 +93,7 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 - **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Role: Designer/Programmer
 - **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Composer
 - **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Lead Programmer
-- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Designer/Writer/Programmer/Composer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Designer (with [[Roberta Williams]])/Writer/Programmer/Composer[^ref-25][^ref-29]
 
 ### Sierra Golden Age (1987–1998)
 
@@ -127,7 +127,7 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 [^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/interview/754/al-lowe-has-a-tech-talk-with-daniel-albu-in-a-leisurely-in-depth-video-interview) — January 28, 2024 post on Lowe's three-hour Tech Talk interview with Daniel Albu; notes his Adventure Game Hall of Fame nomination
 [^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) — Birth date, Chesterfield upbringing, "the world's oldest game designer", Freddy Pharkas with Josh Mandel, Replay Games departure
 [^ref-5]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) — Lowe interview: music education, early games, Black Cauldron, Softporn and the leisure-suit quote, narrator, Magna Cum Laude, Torin's Passage
-[^ref-7]: [Al Lowe's Official Bio](https://allowe.com/al/bio2.html) — Biography hosted on Lowe's site (not written by him): Sierra bought his titles in 1982, lead programmer and composer credits, February 1999 layoff
+[^ref-7]: [Al Lowe's Official Bio](https://allowe.com/al/bio2.html) — Biography hosted on Lowe's site: Sierra bought his titles in 1982, lead programmer and composer credits, February 1999 layoff
 [^ref-8]: [Ars Technica](https://arstechnica.com/gaming/2018/11/al-lowe-reveals-his-sierra-source-code-collection-then-puts-all-of-it-on-ebay/) — 2018 eBay sale of his Sierra archive; "I'm 72 years old, and none of my kids want this junk!" and "I backed everything up because I knew Sierra didn't."
 [^ref-9]: [Al Lowe's Game Designs](https://allowe.com/games/game-designs.html) — Lowe's published design documents for LSL5 through LSL's Casino; dialogue written in Sierra's Message Editor
 [^ref-11]: [Game Developer - Playing Catch Up](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) — Lowe among the designers terminated in Sierra's February 1999 layoff
@@ -136,11 +136,13 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 [^ref-17]: [Choicest Games Interview](https://www.choicestgames.com/2014/07/where-are-they-now-al-lowe.html) — "the world's oldest game designer", the Larry theme, Replay Games departure
 [^ref-18]: [YouTube - MetalJesusRocks](https://www.youtube.com/watch?v=C9DZ3LWWsRE) — "Behind the Scenes w/ SIERRA On-Line's Al Lowe" (2018), tour of his source-code archive
 [^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/3320/al-lowe/credits/) — Complete game credits and roles
-[^ref-20]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/al-lowe-interview/) — 2010 interview: LSL1 sold by word of mouth, July 1988 chart
+[^ref-20]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/al-lowe-interview/) ([Wayback copy](http://web.archive.org/web/20211119082750/http://www.hardcoregaming101.net/al-lowe-interview/)) — 2010 interview: LSL1 sold by word of mouth, July 1988 chart
 [^ref-22]: [Al Lowe's Official Site - Torin's Passage](https://allowe.com/games/torin/about-torin.html) — Written in 1994 after Mrs. Doubtfire; Boogle; score by Michel Legrand
 [^ref-23]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) — Game credits: Lowe as designer/writer, musician, voice director and voice casting
-[^ref-24]: [Al Lowe - Biography 1](https://allowe.com/al/bio1.html) — 1998 bio on Lowe's site: music teacher 15 years, joined Sierra 1982, lead programmer on KQIII and Police Quest (1986), five nested worlds in Torin, Seattle move 1994, "Since I left Sierra On-Line in 1998"
+[^ref-24]: [Al Lowe - Biography 1](https://allowe.com/al/bio1.html) — 1998 bio on Lowe's site (not written by him): music teacher 15 years, joined Sierra 1982, lead programmer on KQIII and Police Quest (1986), five nested worlds in Torin, Seattle move 1994, "Since I left Sierra On-Line in 1998"
 [^ref-25]: [Al Lowe - Disc-O-Graphy](https://allowe.com/al/disc-o-graphy.html) — Lowe's own list of his roles "During my 16 years with Sierra On-Line", 1982–1998
 [^ref-26]: [IGN - Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/2014/12/26/talking-leisure-suit-larry-with-al-lowe) — 2014: Ken Williams asked Lowe to remake Softporn Adventure
 [^ref-27]: [Wikipedia - The Laffer Utilities](https://en.wikipedia.org/wiki/The_Laffer_Utilities) — 1991 Sierra "nonproductivity" program designed by Al Lowe
-[^ref-28]: [MOCAGH - Gelfling Adventure manual (PDF)](https://mocagh.org/sierra/gelfling-manual.pdf) — Manual credits: "Programmed by: Al Lowe"
+[^ref-28]: [MOCAGH - Gelfling Adventure manual (PDF)](https://mocagh.org/sierra/gelfling-manual.pdf) — Manual credits: "Programmed by: Al Lowe"; "The entire game is controlled with the space bar and return key"
+[^ref-29]: [The Digital Antiquarian - Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) — Jimmy Maher, 2015: Sierra bought the Disney licence from Texas Instruments; Black Cauldron "largely designed by Roberta and programmed, as usual, by Al Lowe"
+[^ref-30]: [Arcade Express, Vol. 1 No. 18, April 10, 1983 (PDF scan)](https://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n18.pdf) — Page 3: "Sierra On-Line has acquired the product line originally developed by Sunnyside Soft" (Bop-A-Bet, Dragon's Keep, Troll's Tale)

@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom physics engine
 protagonist: None (player-driven)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: 'The Incredible Machine: Even More Contraptions is a 2001 Dynamix puzzle
   game for Windows and Mac that adds 250 puzzles to the engine of Return of the Incredible
   Machine: Contraptions.'
@@ -18,7 +18,7 @@ tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine: Even More Contraptions
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -190,7 +190,7 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 
 ### Spiritual Successor and Later Releases
 
-**Contraption Maker (2014):** A spiritual successor developed by Spotkin, the company Jeff Tunnell founded in 2012 with former partners including Kevin Ryan and Brian Hahn.[^ref-37] Tunnell said on the game's dev blog: "Working on Contraption Maker with modern processors and GPUs, huge memory, connectivity, and high definition monitors is like being in a dream world."[^ref-37] In a Reddit post, Kevin Ryan, who described himself as having been "designing and programming games for almost 5 decades", listed over 200 parts and critters, 196 puzzles plus 54 tutorial puzzles, and online building "with up to 7 other players."[^ref-25]
+**Contraption Maker (2014):** A spiritual successor developed by Spotkin. Jeff Tunnell wrote on the game's blog that Kevin Ryan and Brian Hahn were both working on the project at Spotkin.[^ref-39] Tunnell said on the game's dev blog: "Working on Contraption Maker with modern processors and GPUs, huge memory, connectivity, and high definition monitors is like being in a dream world."[^ref-37] In a Reddit post, Kevin Ryan, who described himself as having been "designing and programming games for almost 5 decades", listed over 200 parts and critters, 196 puzzles plus 54 tutorial puzzles, and online building "with up to 7 other players."[^ref-25]
 
 **The Incredible Machine (iOS, 2011):** Published by Disney, then quietly pulled from the iOS store within a year of release.[^ref-37]
 
@@ -275,3 +275,5 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 [^ref-37]: [Wired – Contraption Maker Article](https://www.wired.com/2013/05/contraption-maker/) – Spotkin, Jeff Tunnell quote, iOS version history
 
 [^ref-38]: [PC Zone #106 (September 2001), p. 74 – Internet Archive](https://archive.org/details/PC_Zone_Issue_106_2001-09_Dennis_Publishing_GB) – James Lyon's review: "210 levels plus a helpful 50 tutorials", "worth 47 per cent if you've already got its predecessor"
+
+[^ref-39]: [Contraption Maker blog - Old Team, Exciting New Product (Wayback)](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) – Jeff Tunnell, May 13, 2013: "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin)"

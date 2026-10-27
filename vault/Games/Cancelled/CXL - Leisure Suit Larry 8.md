@@ -122,7 +122,7 @@ No technical issues were documented, as the game never reached a playable state.
 
 - *Love for Sail!* referenced the full title of the game and its teaser in an easter egg triggered after completing the game.[^ref-1] Its ending advertised the sequel as "coming in 1998."[^ref-15]
 - The alternate title "Leisure Suit Larry Explores Uranus" continued the series' tradition of sexual innuendo in its naming conventions.[^ref-1]
-- Lowe dates the cancellation only to "the end of 1998" and does not give a date for leaving Sierra.[^ref-17][^ref-18] Unseen64's February 22, 1999 date is taken from Wikipedia, and Josh Mandel's "R.I.P. Sierra" column, written three days later, still listed Lowe among the staff in Bellevue who "still labor diligently on games."[^ref-1][^ref-19]
+- Lowe dates the cancellation only to "the end of 1998"[^ref-17][^ref-18] and his own bio dates his departure only to the year: "Since I left Sierra On-Line in 1998".[^ref-21] Game Developer says he was laid off "during a massive layoff in February, 1999."[^ref-22] Unseen64's February 22, 1999 date is taken from Wikipedia, and Josh Mandel's "R.I.P. Sierra" column, written three days later, still listed Lowe among the staff in Bellevue who "still labor diligently on games."[^ref-1][^ref-19]
 - In 2020, *Wet Dreams Dry Twice* nodded to the cancelled game with mentions of Uranus and UFO wreckage containing Larry-like aliens.[^ref-10]
 
 ## Legacy
@@ -220,3 +220,7 @@ Fan discussion has sometimes confused *Magna Cum Laude* with "Larry 8". In a 200
 [^ref-19]: [Just Adventure – R.I.P. Sierra (Josh Mandel, February 25, 1999, Wayback Machine)](https://web.archive.org/web/20001119170300/https://www.justadventure.com/articles/RIP_Sierra/RIP_Sierra.asp) – Oakhurst studio shut Monday, February 22, 1999; places Al Lowe still at Sierra in Bellevue
 
 [^ref-20]: [Digital Trends – Funny man Al Lowe on Leisure Suit Larry Reloaded and Leisure Suit Larry 8](https://www.digitaltrends.com/gaming/funny-man-al-lowe-on-leisure-suit-larry-reloaded-and-leisure-suit-larry-8/) – 2013: Lowe says LSL8 is "absolutely" still in the works
+
+[^ref-21]: [Al Lowe – Biography 1](https://allowe.com/al/bio1.html) – 1998 bio on Lowe's site, with his postscript: "Since I left Sierra On-Line in 1998"
+
+[^ref-22]: [Game Developer – Playing Catch Up: Al Lowe](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) – Lowe, Scott Murphy and Mark Crowe "terminated during a massive layoff in February, 1999"

@@ -12,14 +12,14 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Johnny Castaway is a 1992 Windows screensaver from Dynamix and Sierra that depicts a man stranded on a tiny desert island, marketed as the world''s first story-telling screen saver.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -110,7 +110,7 @@ Rather than seeking formal approval, Tunnell created a working demo of Johnny wa
 Johnny Castaway was developed at Jeff Tunnell Productions alongside *[[1992 - The Incredible Machine]]* and *Turbo Science*:[^ref-3]
 
 - **Jeff Tunnell** – Producer, concept[^ref-3][^ref-25]
-- **Brian Hahn** – Art Director, gag writer[^ref-3][^ref-25]
+- **Brian Hahn** – gags, with Tunnell[^ref-3]; credited as Art Director by the Dynamix Wiki[^ref-25]
 - **Shawn Bird** – Character design (Johnny's visual appearance)[^ref-14]
 - **Rich Rayl** – Programmer; researched how to build a screen saver and did the final coding[^ref-3][^ref-25]
 - **Sherry Wheeler** – Animator (ex-Disney)[^ref-3][^ref-25]
@@ -184,7 +184,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
 
-*Last updated: 2026-10-12*
+*Last updated: 2026-10-26*
 
 ## See Also
 
