@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom (Dynamix)
 protagonist: N/A (Player-controlled contraptions)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 composer: [Jan Paul Moorhead (LoudMouth Productions)]
 description: The Incredible Machine 3.0 (also referred to as The Incredible Machine
   Version 3.0) is a puzzle video game developed by Dynamix and published by Sierra...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 3.0
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -87,7 +87,7 @@ MobyGames' combined TIM 2/3.0 entry has 57 player ratings and a MobyScore of 8.0
 
 ### Origins
 
-Jeff Tunnell, who had co-founded Dynamix in 1984 and left in 1990 to form Jeff Tunnell Productions, was the designer and producer of the original 1992 game, although he did not program it[^ref-13]. Kevin Ryan programmed the first game[^ref-2].
+Jeff Tunnell, who had co-founded Dynamix in 1984, left in early 1992, after *The Adventures of Willy Beamish*, to form Jeff Tunnell Productions[^ref-35][^ref-36]. He was the designer and producer of the original 1992 game, although he did not program it[^ref-13]. Kevin Ryan programmed the first game[^ref-2].
 
 In November 1996, Tunnell and Christopher M. Cole were granted US patent 5,577,185, "Computerized puzzle gaming method and apparatus", filed in November 1994 and assigned to Dynamix[^ref-34]. The patent's background names The Incredible Machine "and its progeny" as an existing puzzle game, and its detailed description is written around "Toons" puzzles[^ref-34].
 
@@ -180,7 +180,7 @@ On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the
 [^ref-10]: [Internet Archive – The Incredible Machine 2 Manual](https://archive.org/details/Incredible_Machine_2_-_Manual) – manual for The Incredible Machine 2 (same levels as Version 3.0)
 [^ref-12]: [PCGamingWiki – TIM 3 CD Audio Patch](https://community.pcgamingwiki.com/files/file/924-the-incredible-machine-3-cd-audio-soundtrack-patched-for-digital-re-release/) – CD-audio soundtrack missing from digital re-release; patch
 [^ref-13]: [Choicest Games – Jeff Tunnell Interview](https://www.choicestgames.com/2015/04/where-are-they-now-jeff-tunnell.html) – Tunnell's career; "1992's The Incredible Machine"; designer and producer, did not program
-[^ref-14]: [Best Old Games – Jeff Tunnell Productions](https://www.bestoldgames.net/company/jeff-tunnell-productions) – studio background; TIM 3.0 released 1995
+[^ref-14]: [MobyGames – Jeff Tunnell Productions (Wayback Machine, January 2025)](https://web.archive.org/web/20250130044218/https://www.mobygames.com/company/1897/jeff-tunnell-productions/) – "The last titles 3-D Ultra Pinball and The Incredible Machine 3.0 were released in 1995 before Dynamix took over later that year"
 [^ref-15]: [Disney Support – TIM Mega Pack (Wayback Machine, 2023)](https://web.archive.org/web/20230529154508/https://appsupport.disney.com/hc/en-us/articles/360001041463-About-The-Incredible-Machine-Mega-Pack) – Mega Pack description and contents
 [^ref-21]: [MobyGames – The Incredible Machine 2 (aka The Incredible Machine Version 3.0)](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – Windows/Mac hybrid 3.0 release, alternate titles, description, MobyScore and player ratings (read via the MobyGames API, October 2026)
 [^ref-22]: [MobyGames – The Incredible Machine 2 credits (Windows) (Wayback Machine, 2015)](https://web.archive.org/web/20150925120805/http://www.mobygames.com/game/windows/incredible-machine-2/credits) – Windows credits; "Developed by Dynamix, Inc."; "A Jeff Tunnell Production"
@@ -196,3 +196,5 @@ On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the
 [^ref-32]: [VGMPF – The Incredible Machine 3 (W32)](https://www.vgmpf.com/Wiki/index.php?title=The_Incredible_Machine_3_(W32)) – 19 songs; CD audio with General MIDI fallback; composer LoudMouth Productions / Jan Paul Moorhead
 [^ref-33]: [PCGamingWiki – The Incredible Machine 3](https://www.pcgamingwiki.com/wiki/The_Incredible_Machine_3) – Windows re-release of TIM 2 CD-ROM version; developer Jeff Tunnell Productions; GOG.com re-release lacks CD-audio tracks
 [^ref-34]: [Google Patents – US5577185A, Computerized puzzle gaming method and apparatus](https://patents.google.com/patent/US5577185A/en) – inventors Jeffrey A. Tunnell and Christopher M. Cole; filed 1994-11-10, granted 1996-11-19; assigned to Dynamix
+[^ref-35]: [MobyGames – Dynamix, Inc. (Wayback Machine, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) – Tunnell "left the company after finishing The Adventures of Willy Beamish (1991), to start his own company Jeff Tunnell Productions"
+[^ref-36]: [The Digital Antiquarian – "The Incredible Machine" (Jimmy Maher, June 2018)](https://www.filfre.net/2018/06/the-incredible-machine/) – Jeff Tunnell Productions founded in early 1992
