@@ -4,21 +4,21 @@ type: publisher
 founded: 2014
 headquarters: "San Jose, California, USA"
 parent_company: "Phoenix Online Studios"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Phoenix Online Publishing
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Phoenix Online Publishing is the publishing label of Phoenix Online, the independent studio that grew out of the King's Quest fan game *The Silver Lining*.[^ref-1] Phoenix announced the label on 20 February 2014 in a press release datelined San Jose, California; MacTech described it as "the new independent publishing division of Phoenix Online Studios".[^ref-4][^ref-18][^ref-17] Wikipedia dates the company's name change to Phoenix Online Publishing to 19 May 2014.[^ref-16] The company's own site says the publisher "operates in parallel with Phoenix Online Studios".[^ref-3] It publishes story-driven adventure games for PC, Mac and mobile, and MobyGames credits it on 14 games from 2013 to 2025.[^ref-4][^ref-2]
+Phoenix Online Publishing is the publishing label of Phoenix Online, the independent studio that grew out of the King's Quest fan game *The Silver Lining*.[^ref-1] Phoenix announced the label on 20 February 2014 in a press release datelined San Jose, California; MacTech described it as "the new independent publishing division of Phoenix Online Studios".[^ref-4][^ref-18][^ref-17] The company's own site says the publisher "operates in parallel with Phoenix Online Studios".[^ref-3] It publishes story-driven adventure games for PC, Mac and mobile, and MobyGames credits it on 14 games from 2013 to 2025.[^ref-4][^ref-2]
 
-For the studio's full history, see [[Developers/Phoenix Online Studios|Phoenix Online Studios (Developer)]].
+For the studio's full history, see [[Phoenix Online Studios|Phoenix Online Studios (Developer)]].
 
 ## Sierra Connection
 
-Phoenix began as the volunteer team behind *The Silver Lining*, a fan-made continuation of the King's Quest series. MobyGames says the group was formed in 2004 to work on it.[^ref-1] Activision agreed on 26 June 2010 to let the game be released as long as it stayed free, and the first episode came out on 10 July 2010.[^ref-16]
+Phoenix began as the volunteer team behind *The Silver Lining*, a fan-made continuation of the King's Quest series. MobyGames says the group was formed in 2004 to work on it.[^ref-1] Activision agreed on 26 June 2010 to let the game be released as long as it stayed free,[^ref-16][^ref-25] and the first episode came out on 10 July 2010.[^ref-24][^ref-16]
 
 Phoenix also worked with Sierra designer [[Jane Jensen|Jane Jensen]]. This label published *Moebius: Empire Rising* (2014), which Phoenix Online Studios and Jensen's Pinkerton Road developed.[^ref-17][^ref-11][^ref-22] Her *Gabriel Knight: Sins of the Fathers 20th Anniversary Edition* (2014) was released by Phoenix Online Studios, with Pinkerton Road Studio as publisher on Steam, not by this label.[^ref-21][^ref-2]
 
@@ -43,7 +43,7 @@ The company's About page lists:[^ref-3]
 
 ## Related
 
-- **Developer Page:** [[Developers/Phoenix Online Studios|Phoenix Online Studios]]
+- **Developer Page:** [[Phoenix Online Studios|Phoenix Online Studios]]
 - **Designer Partner:** [[Jane Jensen|Jane Jensen]]
 - **Published Developer:** [[Publishers/Infamous Quests|Infamous Quests]]
 - **Fan Project:** [[2010 - The Silver Lining|The Silver Lining]]
@@ -57,7 +57,7 @@ The company's About page lists:[^ref-3]
 [^ref-8]: [Phoenix Online Studios - Quest for Infamy](http://www.postudios.com/company/games/questforinfamy/index.php) - Release Date: July 10th, 2014, PC/Mac/Linux
 [^ref-11]: [Engadget - Moebius: Empire Rising out April 15 from Phoenix Online Publishing](https://www.engadget.com/2014-02-25-moebius-empire-rising-out-april-15-from-phoenix-online-publishi.html) - Jane Jensen partnership; 15 April release
 [^ref-15]: [Phoenix Online Studios - Projects](http://www.postudios.com/company/projects.php) - Lists Moebius, Quest for Infamy, The Last Door: Collector's Edition, Lost Civilization
-[^ref-16]: [Wikipedia - The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) - Activision allowed a free release on June 26, 2010; Episode 1 July 10, 2010; renamed Phoenix Online Publishing on 19 May 2014
+[^ref-16]: [Wikipedia - The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) - Activision allowed a free release on June 26, 2010; Episode 1 July 10, 2010
 [^ref-17]: [MacTech - Moebius: Empire Rising coming to the Mac April 15 (20 Feb 2014)](https://www.mactech.com/2014/02/20/moebius-empire-rising-coming-to-the-mac-april-15/) - Jensen's agreement with Phoenix Online Publishing, "the new independent publishing division of Phoenix Online Studios"
 [^ref-18]: [Gaming Nexus - Phoenix Online Publishing announces 2014 lineup (21 Feb 2014)](https://www.gamingnexus.com/News/32228/Phoenix-Online-Publishing-announces-2014-lineup2c-includes-spiritual-sequel-to-Gabriel-Knight) - Press release "SAN JOSE, California (February 20, 2014)" announcing the label
 [^ref-19]: [MobyGames - Cognition: An Erica Reed Thriller - Episode 1: The Hangman](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Windows/Mac 2012-10-30; published by Reverb Publishing, developed by Phoenix Online Studios
@@ -65,3 +65,5 @@ The company's About page lists:[^ref-3]
 [^ref-21]: [MobyGames - Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition](https://www.mobygames.com/game/68982/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/) - 2014-10-15; published by Phoenix Online Studios, LLC (GOG/retail) and Pinkerton Road Studio (Steam)
 [^ref-22]: [MobyGames - Moebius: Empire Rising](https://www.mobygames.com/game/67586/moebius-empire-rising/) - 2014-04-15; developed by Phoenix Online Studios and Pinkerton Road; Steam release published by Phoenix Online Publishing, LLC
 [^ref-23]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) - Steam release 2014-07-10 published by Phoenix Online Publishing, LLC; developed by Infamous Quests
+[^ref-24]: [Kotaku - The Silver Lining Episode 1 Micro-Review (Wayback, 14 Jul 2010)](https://web.archive.org/web/20100714152101/http://kotaku.com/5584586/the-silver-lining-episode-1-micro+review-absence-makes-the-heart-grow-colder?skyline=true&s=i) - "was released on July 10 for the PC, and was developed by Phoenix Online Studios"
+[^ref-25]: [Gamasutra - Interview: Phoenix Online Studios Talks King's Quest Sequel, What's Next (Leigh Alexander, 9 Jul 2010)](https://www.gamedeveloper.com/game-platforms/interview-phoenix-online-studios-talks-i-king-s-quest-i-sequel-what-s-next) - Activision "has at last given Phoenix Online Studios the official go-ahead to release King's Quest: The Silver Lining for free"

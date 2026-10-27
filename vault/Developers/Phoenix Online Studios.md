@@ -36,7 +36,7 @@ Phoenix Online never held a commercial King's Quest license. Activision allowed 
 
 ### Publishing Label (2014)
 
-On 20 February 2014, Phoenix announced a new indie publishing label, Phoenix Online Publishing. Its first lineup was Moebius: Empire Rising, Quest for Infamy, The Last Door: Collector's Edition and Lost Civilization, alongside Cognition, Face Noir and The Silver Lining.[^ref-21][^ref-20] In January 2014, Scott Steinberg had been promoted to general manager, responsible for strategic planning and business development.[^ref-17] Wikipedia dates the company's name change to Phoenix Online Publishing to 19 May 2014.[^ref-15] The company's own site describes the publisher as operating "in parallel with Phoenix Online Studios".[^ref-2] The Phoenix Online Studios name remains on its Steam developer and publisher pages.[^ref-6][^ref-10]
+On 20 February 2014, Phoenix announced a new indie publishing label, Phoenix Online Publishing. Its first lineup was Moebius: Empire Rising, Quest for Infamy, The Last Door: Collector's Edition and Lost Civilization, alongside Cognition, Face Noir and The Silver Lining.[^ref-21][^ref-20] In January 2014, Scott Steinberg had been promoted to general manager, responsible for strategic planning and business development.[^ref-17] The company's own site describes the publisher as operating "in parallel with Phoenix Online Studios".[^ref-2] The Phoenix Online Studios name remains on its Steam developer and publisher pages.[^ref-6][^ref-10]
 
 ## Notable Games
 
