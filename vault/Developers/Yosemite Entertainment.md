@@ -4,20 +4,20 @@ type: developer
 founded: 1998
 defunct: 1999
 headquarters: "Oakhurst, California, USA"
-notable_games: ["Quest for Glory V: Dragon Fire", "The Realm Online", "Babylon 5: Into the Fire"]
+notable_games: ["Police Quest: SWAT 2", "Quest for Glory V: Dragon Fire", "The Realm Online", "Babylon 5: Into the Fire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Yosemite Entertainment
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Yosemite Entertainment was the name used from 1998 for Sierra On-Line's original Oakhurst, California, location.[^ref-1] In Sierra's 1998 reorganization it housed Sierra FX, the division for adventure games and online multiplayer games, which was based at Sierra's old headquarters in Oakhurst and publicly referred to as Yosemite Entertainment.[^ref-1] Its last completed game was Quest for Glory V: Dragon Fire.[^ref-5]
+Yosemite Entertainment was the name used from 1998 for Sierra On-Line's original Oakhurst, California, location.[^ref-1] In Sierra's 1998 reorganization it housed Sierra FX, the division for adventure games and online multiplayer games, which was based at Sierra's old headquarters in Oakhurst and publicly referred to as Yosemite Entertainment.[^ref-1] MobyGames credits it with two released games, Police Quest: SWAT 2 and Quest for Glory V: Dragon Fire (both 1998); Dragon Fire was its last.[^ref-26][^ref-5]
 
-The studio was closed on February 22, 1999, the day that became known as "Chainsaw Monday."[^ref-1][^ref-19] Of its three major projects, the *Babylon 5* space simulator and the Middle-earth MMORPG were moved to Bellevue, Washington, and cancelled about six months later; a Navy SEAL shooter was cancelled outright.[^ref-19]
+The studio was closed on February 22, 1999, the day that became known as "Chainsaw Monday."[^ref-1][^ref-19] Of its three major projects, the *Babylon 5* space simulator and the Middle-earth MMORPG were moved to Bellevue, Washington, and cancelled about six months later; a Navy SEAL shooter was cancelled outright.[^ref-19] IGN reported at the time that Sierra was folding Yosemite into its Bellevue headquarters and that its Middle Earth Online, Navy Seals and Babylon 5 projects were "being folded into the Sierra FX brand name."[^ref-27]
 
 ## History
 
@@ -29,7 +29,9 @@ Former Sierra designer Josh Mandel, in a eulogy quoted by The Digital Antiquaria
 
 ### Projects and Development
 
-Yosemite Entertainment's most significant completed project was Quest for Glory V: Dragon Fire, released on December 8, 1998.[^ref-5] Lori Ann Cole designed it; Wikipedia lists Eric Lengyel and Larry Scott as programmers and says Corey Cole was "preoccupied with programming on the game."[^ref-5] Wikipedia also calls it "one of the earliest adopters of a 3D character creation system," predating EverQuest and Asheron's Call, and says the game "would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line."[^ref-5]
+Police Quest: SWAT 2 was "the first game to ship under the new Sierra FX brand," developed by "Yosemite Entertainment game design studio in Oakhurst, California"; its gold master left the Oakhurst studio on July 4, 1998, for US release on July 11.[^ref-25]
+
+Yosemite Entertainment's most significant completed project was Quest for Glory V: Dragon Fire, released on December 8, 1998.[^ref-5] Lori Ann Cole designed it; Wikipedia lists Eric Lengyel and Larry Scott as programmers and says Corey Cole was "preoccupied with programming on the game."[^ref-5] Wikipedia notes that it was the first game in the series to use polygonal 3D for its characters, and says the game "would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line."[^ref-5]
 
 The Realm Online, which Sierra had released in December 1996, was also run from Oakhurst: after the closure, a few support personnel for The Realm were the only people left in the building, and its servers stayed there.[^ref-1][^ref-19]
 
@@ -39,7 +41,7 @@ As of February 1999 Yosemite had three major projects in development, none of th
 
 Babylon 5: Into the Fire was a space combat simulator based on the television series. According to Sierra, it was to feature more than 1,000 different ships and 200 unique locations.[^ref-14] In October 1999 lead programmer Dan Foy described the game to Wired as 65 percent complete.[^ref-20]
 
-Middle-earth Online was an early attempt to bring J.R.R. Tolkien's world to the MMORPG genre. Its team's best-remembered ideas included permanently killing characters in certain situations and keeping Elves few.[^ref-22] The Sierra project did not become The Lord of the Rings Online: Vivendi announced a separate agreement with Turbine in 2003 to produce a Middle-earth Online, and the vault's [[CXL - Middle-earth Online|Middle-earth Online]] page treats Turbine's version as a different design that reused the name.[^ref-15]
+Middle-earth Online was an early attempt to bring J.R.R. Tolkien's world to the MMORPG genre. Its team's best-remembered ideas included permanently killing characters in certain situations and keeping Elves few.[^ref-22] The Sierra project did not become The Lord of the Rings Online: Vivendi announced a separate agreement with Turbine in 2003 to produce a Middle-earth Online, and Engadget describes the license as passing to Turbine, "which took the IP and did its own thing."[^ref-15][^ref-22]
 
 ### Closure
 
@@ -47,7 +49,7 @@ On February 22, 1999, staff were called to a 10:00 all-hands meeting in the buil
 
 Two well-known designers were not among the Oakhurst layoffs that day. Scott Murphy said: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-23] Al Lowe was by then working in Bellevue; Mandel's eulogy lists him among the "Oakhurst refugees" still making games there.[^ref-19]
 
-About six months after Chainsaw Monday, Codemasters bought Sierra's old Oakhurst facility, along with The Realm, its servers and the rights to the cancelled Navy SEAL game. Most of the people who had worked on the SEAL game had already left town, and "Codemasters had trouble attracting more to such a rural location"; the game was cancelled again within about six months.[^ref-19]
+About six months after Chainsaw Monday, Codemasters bought Sierra's old Oakhurst facility, along with The Realm, its servers and the rights to the cancelled Navy SEAL game. Most of the people who had worked on the SEAL game had already left town, and "Codemasters had trouble attracting more to such a rural location"; the game was cancelled again within about six months.[^ref-19] Codemasters' own announcement, dated September 17, 1999, had said the Oakhurst studio would be managed by Craig Alexander and staffed by "a significant number of the past employees of the former Yosemite Entertainment."[^ref-26] Wikipedia adds that Codemasters obtained the rights to keep using the Yosemite Entertainment name for the studio.[^ref-1]
 
 ## Key People
 
@@ -62,6 +64,7 @@ Chance Thomas's Quest for Glory V soundtrack was released alongside a demo befor
 ## Games
 
 - **1996** — [[1996 - The Realm Online|The Realm Online]] — Genre: MMORPG (released by Sierra before the Yosemite name; run from Oakhurst)
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Genre: Real-time tactics
 - **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Genre: Action RPG
 - **1999** — [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Genre: Space Combat (Cancelled)
 - **N/A** — [[CXL - Middle-earth Online|Middle-earth Online]] — Genre: MMORPG (Cancelled)
@@ -77,6 +80,9 @@ Chance Thomas's Quest for Glory V soundtrack was released alongside a demo befor
 [^ref-19]: [The Digital Antiquarian - The End of Sierra As We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Jimmy Maher, May 23, 2025 (revised): Chainsaw Monday; three projects; B5 and Middle-earth cancelled six months later in Bellevue; Craig Alexander; Mandel's eulogy; Codemasters purchase and hiring trouble
 [^ref-20]: [Wired - B5: Back B4 U Know It (October 1999)](https://www.wired.com/1999/10/b5-back-b4-u-know-it/) — Lead programmer Dan Foy "described the game as 65 percent complete"
 [^ref-21]: [GameSpot - Visit Sierra's Middle Earth Online (April 2000)](https://www.gamespot.com/articles/visit-sierras-middle-earth-online/1100-2464907/) — "said Daniel James, writer on Middle Earth"
-[^ref-22]: [Engadget - The Game Archaeologist: Middle-earth Online (June 2011)](https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html) — Team's vision "to permanently kill your character in certain situations"; "few Elves"
+[^ref-22]: [Engadget - The Game Archaeologist: Middle-earth Online (June 2011)](https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html) — Team's vision "to permanently kill your character in certain situations"; "few Elves"; license "eventually transferred over to Turbine, which took the IP and did its own thing"
 [^ref-23]: [Adventure Classic Gaming - Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) — "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."
 [^ref-24]: [Encyclopedia.com - Sierra On-Line Inc (Gale, International Directory of Company Histories)](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) — "Sierra relocated its headquarters and moved to the Seattle area in 1993"
+[^ref-25]: [SWAT 2 news page, swat2.com (Wayback, December 1998)](https://web.archive.org/web/19981207065423/http://www.swat2.com/news/news.html) — "SWAT 2 is the first game to ship under the new Sierra FX brand. It was developed by Yosemite Entertainment game design studio in Oakhurst"; available July 11th
+[^ref-26]: [MobyGames - Yosemite Entertainment (Wayback, July 2018)](https://web.archive.org/web/20180707160837/http://www.mobygames.com/company/yosemite-entertainment) — Games: Police Quest: SWAT 2 (1998), Quest for Glory V (1998); quotes Codemasters' September 17, 1999 release ("a significant number of the past employees of the former Yosemite Entertainment")
+[^ref-27]: [IGN - Sierra Shuts Down Studios (February 23, 1999)](https://www.ign.com/articles/1999/02/23/sierra-shuts-down-studios) — "These projects are being folded into the Sierra FX brand name."

@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,12 +19,12 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
-Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh in late 1998 (GameRankings and Metacritic list November 30, 1998)[^ref-1][^ref-21][^ref-24].
+Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh on December 8, 1998[^ref-1][^ref-37]; GameRankings and Metacritic list November 30, 1998[^ref-21][^ref-24].
 
-Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
+Designed primarily by [[Lori Ann Cole]] (with Eric Lengyel and Larry Scott credited as programmers), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
 
 The game was always planned as part of the series (whereas Wages of War originally was not), but it would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line[^ref-1][^ref-4][^ref-20].
 
@@ -42,7 +42,7 @@ Chance Thomas' soundtrack was released alongside a demo before the game's launch
 > **Composer:** Chance Thomas[^ref-1]
 > **Engine:** Custom 3D engine[^ref-1]
 > **Platforms:** Windows, Macintosh[^ref-1]
-> **Release Year:** 1998 (November 30 per GameRankings and Metacritic)[^ref-1][^ref-21][^ref-24]
+> **Release Year:** 1998 (December 8 per Wikipedia and The Digital Antiquarian; November 30 per GameRankings and Metacritic)[^ref-1][^ref-37][^ref-21][^ref-24]
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
@@ -228,3 +228,4 @@ This game has been included in the following collections:
 [^ref-34]: [CNET Gamecenter – The Gamecenter Awards for 1998: Adventure nominees (archived 2000)](https://web.archive.org/web/20001209190600/http://gamecenter.com/Features/Exclusives/Awards98/ss02b.html) – Adventure Game of the Year nomination
 [^ref-35]: [Engadget – The glory of Quest for Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – 2012 series retrospective by Rowan Kaiser
 [^ref-36]: [CNET Gamecenter – The Gamecenter Awards for 1998: Adventure winner (archived 2000)](https://web.archive.org/web/20001217054800/http://www.gamecenter.com/Features/Exclusives/Awards98/ss02c.html) – Grim Fandango named Adventure Game of the Year
+[^ref-37]: [The Digital Antiquarian – The End of Sierra As We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – November 20, 1998 was "eighteen days before" the release of Quest for Glory V: Dragon Fire

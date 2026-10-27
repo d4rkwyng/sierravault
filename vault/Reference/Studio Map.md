@@ -28,7 +28,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | Sierra Attractions | 1998 (label) | Ended 2001 | — | Casual-games label[^ref-1] |
 | Sierra Studios | 1998 (label) | Ended 2001 | — | General publishing label; published Half-Life (1998) and Homeworld (1999)[^ref-1][^ref-63][^ref-64] |
 | Sierra Sports | February 1998 (label) | — | — | Sports label combining the Front Page Sports, Dynamix and Papyrus brands[^ref-71] |
-| Sierra FX | By February 1999 (label) | — | — | Brand into which Yosemite Entertainment's projects (Middle-earth Online, Navy SEALs, a Babylon 5 space combat simulator) were folded in February 1999[^ref-72] |
+| Sierra FX | By July 1998 (label; SWAT 2 was its first release)[^ref-113] | — | — | Brand into which Yosemite Entertainment's projects (Middle-earth Online, Navy SEALs, a Babylon 5 space combat simulator) were folded in February 1999[^ref-72] |
 
 ## Acquired studios
 
@@ -217,3 +217,4 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-110]: [InterAction Magazine Vol. V No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — "After Willy Beamish, Jeff began a new direction in his career by forming Dynamix's first spin-off division, entitled Jeff Tunnell Productions"
 [^ref-111]: [CUC International — "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — "Knowledge Adventure will remain based in Glendale, California"
 [^ref-112]: [Los Angeles Times — "CUC Will Buy Knowledge Adventure" (6 Nov 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) — "Glendale-based Knowledge Adventure will be purchased in a stock deal"
+[^ref-113]: [SWAT 2 news page, swat2.com (Wayback, December 1998)](https://web.archive.org/web/19981207065423/http://www.swat2.com/news/news.html) — "SWAT 2 is the first game to ship under the new Sierra FX brand"; available July 11th, 1998

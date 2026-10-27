@@ -37,7 +37,7 @@ The studio confirmed a VGA remake of *Space Quest II* on 1 April 2007.[^ref-28][
 
 ### Closure and Transition to Infamous Quests
 
-In a site post dated 27 July 2012, Steven Alexander and Shawn Mills announced that Infamous Adventures had stopped producing games and that they had started a new company, [[Infamous Quests]], to make original adventure games.[^ref-13][^ref-19] *Quest for Infamy* had been cancelled under Infamous Adventures. It was restarted at Infamous Quests in 2012 and released on 7 July 2014.[^ref-13]
+In a site post dated 27 July 2012, Steven Alexander and Shawn Mills announced that Infamous Adventures had stopped producing games and that they had started a new company, [[Infamous Quests]], to make original adventure games.[^ref-13][^ref-19] *Quest for Infamy* had been cancelled under Infamous Adventures. It was restarted at Infamous Quests in 2012[^ref-13] and released on 10 July 2014.[^ref-30][^ref-31]
 
 The Infamous Adventures name stayed in use after 2012. On 1 January 2020 it uploaded version 2.0 of its *Space Quest II* remake, with bug fixes, Sierra fonts and new Easter eggs.[^ref-24][^ref-25] A [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV remake]] is attributed to it; its only recent progress report is a patron-only January 2026 update on the Patreon of Infamous Quests, the founders' separate commercial studio, which cannot be publicly read.[^ref-26]
 
@@ -87,3 +87,5 @@ MobyGames credits the studio with the two remakes, *King's Quest III* and *Space
 [^ref-27]: [Infamous Adventures - "Space Quest For Glory is Released!" (Blackthorne, 15 Apr 2011, Wayback 19 Jul 2011)](https://web.archive.org/web/20110719185713/http://www.infamous-adventures.com/home/index.php?page=view&topic=4342) — "Infamous Adventures is proud to present 'Space Quest For Glory'!"
 [^ref-28]: [Adventure Gamers - "SQ2VGA confirmed, Project X details revealed" (Luke Jensen, 1 Apr 2007, Wayback 2011)](https://web.archive.org/web/20110707090039/http://www.adventuregamers.com/newsitem.php?id=1424) — IA "today announced the development of a VGA remake" of Space Quest II
 [^ref-29]: [GameWatcher - "Space Quest II remake released for free" (Jonah A. Falcon, 1 Jan 2012)](https://www.gamewatcher.com/2012-01-01-space-quest-ii-remake-released-for-free) — "a full voice pack containing 4000 recorded lines… completely free"
+[^ref-30]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/) — Release Date: Jul 10, 2014
+[^ref-31]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) — Windows release 2014-07-10 (read via the MobyGames API)

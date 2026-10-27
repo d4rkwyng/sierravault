@@ -27,13 +27,13 @@ Before Infamous Quests, Alexander and Mills ran [[Infamous Adventures]], an amat
 
 ### Quest for Infamy (2012–2014)
 
-The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 for it on Kickstarter.[^ref-9] Phoenix Online Publishing released the game on 10 July 2014.[^ref-19]
+The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 from 1,656 backers on Kickstarter.[^ref-9][^ref-24] It was released on 10 July 2014, and [[Phoenix Online Publishing]] published it on Steam.[^ref-19][^ref-26]
 
 ### Order of the Thorne and Roehm to Ruin (2015–present)
 
-In March 2015 Infamous Quests announced *Order of the Thorne: The King's Challenge* and a *Quest for Infamy* prequel, *Roehm to Ruin*. A Kickstarter for both succeeded on 3 May 2015, raising $30,944, and the studio then added a third game, *Order of the Thorne: Fortress of Fire*.[^ref-9] *The King's Challenge* was released on 26 January 2016.[^ref-1][^ref-22]
+In March 2015 Infamous Quests announced *Order of the Thorne: The King's Challenge* and a *Quest for Infamy* prequel, *Roehm to Ruin*. A Kickstarter for both succeeded on 3 May 2015, raising $30,943 from 836 backers,[^ref-25] and the studio then added a third game, *Order of the Thorne: Fortress of Fire*.[^ref-9] *The King's Challenge* was released on 26 January 2016.[^ref-1][^ref-22][^ref-27]
 
-In the October 2025 Patreon post, Alexander wrote that the game's "financial turnout… was, to say, way under expectations". He said that "Most folks moved on to other jobs" and that for a long time he had been the main person working on the remaining games. *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm.[^ref-21] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines.[^ref-23] *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5]
+In the October 2025 Patreon post, Alexander wrote that the game's "financial turnout… was, to say, way under expectations". He said that "Most folks moved on to other jobs" and that for a long time he had been the main person working on the remaining games. *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm.[^ref-21] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines.[^ref-23] Its itch.io page still lists *Roehm to Ruin* as "In development".[^ref-28] *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5] In September 2026 it posted on Bluesky: "RetroGameCon in Syracuse is this weekend and we have a booth!"[^ref-29]
 
 ## Notable Games
 
@@ -63,11 +63,17 @@ In *The King's Challenge*, the player guides Finn the bard "on his quest to writ
 [^ref-1]: [Game Pressure - Infamous Quests](https://www.gamepressure.com/companies/infamous-quests/z8122c) — game list and dates (Order of the Thorne Jan 26, 2016)
 [^ref-3]: [Infamous Quests on itch.io](https://infamousquests.itch.io/) — "Founded in 2012 by Steven Alexander and Shawn Mills"
 [^ref-5]: [Patreon - Infamous Quests](https://www.patreon.com/cw/InfamousQuests) — studio Patreon page
-[^ref-9]: [Wikipedia - Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — founded 2012; Syracuse; key people incl. James Broom; QfI Kickstarter $63,281; 2015 Kickstarter $30,944; OotT anthology
+[^ref-9]: [Wikipedia - Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — founded 2012; Syracuse; key people incl. James Broom; QfI Kickstarter $63,281; 2015 Kickstarter $30,944 (the Kickstarter page itself shows $30,943); OotT anthology
 [^ref-10]: [Reddit AMA - Steven Alexander and Shawn Mills](https://www.reddit.com/r/IAmA/comments/29o0ve/we_are_steven_alexander_and_shawn_mills_creators/) — founders on Infamous Adventures' KQ3 and SQ2 remakes and founding Infamous Quests
 [^ref-17]: [Quest for Infamy - About Page](https://questforinfamy.com/about-qfi) — three classes (Brigand, Rogue, Sorcerer); story setup
 [^ref-18]: [Sierra Help Forums - Quest for Infamy thread (Wayback 2014)](http://web.archive.org/web/20140908005914/http://sierrahelp.com/forums/viewtopic.php?f=24&t=3989) — "Infamous Quests is the professional reincarnation of Infamous Adventures"
 [^ref-19]: [PostuStudios - Quest for Infamy Company Page](https://www.postudios.com/company/games/questforinfamy/) — QfI "A spiritual heir to yesteryear's heroic quests", release July 10th, 2014; OotT release post (Finn the bard, Faerie Realm challenge)
-[^ref-21]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — no longer full-time; Roehm to Ruin awaiting voice sessions; Fortress of Fire "in a real state of limbo"
+[^ref-21]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/141274312) — no longer full-time; Roehm to Ruin awaiting voice sessions; Fortress of Fire "in a real state of limbo"
 [^ref-22]: [MobyGames - Order of the Thorne: The King's Challenge credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) — release 2016-01-26; team roles (Mills, Alexander, Broom)
 [^ref-23]: [Patreon - Infamous Quests, public post (4 Apr 2026)](https://www.patreon.com/posts/154760603) — "I have studio time booked in May so that I can get Mr. Steve Patrick in the studio and finish recording all the lines for Mr. Roehm"
+[^ref-24]: [Kickstarter - Quest For Infamy: An Adventure Game By Infamous Quests](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que) — "1,656 backers pledged $63,281 to help bring this project to life"
+[^ref-25]: [Kickstarter - "Order of the Thorne" & "Roehm To Ruin" by Infamous Quests](https://www.kickstarter.com/projects/1992695780/order-of-the-thorne-and-roehm-to-ruin-by-infamous) — "836 backers pledged $30,943"; campaign ended 3 May 2015
+[^ref-26]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/) — Developer: Infamous Quests; Publisher: Phoenix Online Publishing; Release Date: Jul 10, 2014
+[^ref-27]: [Steam - The Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/425600/) — Developer and publisher: Infamous Quests; Release Date: Jan 26, 2016
+[^ref-28]: [itch.io - Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) — Status: "In development"
+[^ref-29]: [Bluesky - Infamous Quests (28 Sep 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r) — "RetroGameCon in Syracuse is this weekend and we have a booth!"
