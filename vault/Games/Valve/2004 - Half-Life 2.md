@@ -2,7 +2,7 @@
 title: Half-Life 2
 release_year: 2004
 developer: Valve Corporation
-designer: [Gabe Newell, Marc Laidlaw, David Speyrer]
+designer: [David Speyrer, Marc Laidlaw]
 publisher: Valve Corporation (Steam); Sierra Entertainment (PC retail); Electronic Arts (Xbox)
 genre: FPS
 platforms: [Windows, Xbox, Xbox 360, PlayStation 3, Mac OS X, Linux, Nvidia Shield]
@@ -10,7 +10,7 @@ series: Half-Life
 engine: Source
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 composer: [Kelly Bailey]
 description: Half-Life 2 is a first-person shooter developed and published by Valve
   Corporation, released on November 16, 2004 for Windows PC. Representing one of the...
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life 2
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Half-Life 2's release marked a pivotal moment in PC gaming history as it was the
 
 > [!info]- Game Info
 > **Developer:** Valve Corporation[^ref-1]
-> **Designer:** Gabe Newell, Marc Laidlaw, David Speyrer[^ref-8]
+> **Designer:** David Speyrer (director), Marc Laidlaw (writer)[^ref-8]
 > **Publisher:** Valve Corporation (Steam)[^ref-1]; Sierra Entertainment / Vivendi Universal Games (PC retail, 2004–2005)[^ref-3][^ref-29]; Electronic Arts (Xbox)[^ref-30]
 > **Engine:** Source (with Havok physics)[^ref-3]
 > **Platforms:** Windows, Xbox, Xbox 360, PlayStation 3, Mac OS X, Linux, Nvidia Shield[^ref-3]
@@ -43,9 +43,9 @@ Half-Life 2's release marked a pivotal moment in PC gaming history as it was the
 
 Half-Life 2 opens with the enigmatic G-Man awakening Gordon Freeman from stasis with the cryptic words: "Rise and shine, Mister Freeman. Rise and shine. Not that I wish to imply you have been sleeping on the job. No one is more deserving of a rest, and all the effort in the world would have gone to waste until... well, let's just say your hour has come again. The right man in the wrong place can make all the difference in the world."[^ref-8] Gordon finds himself on a train bound for City 17, a dystopian Eastern European metropolis that serves as the seat of power for Earth's new alien overlords, the Combine[^ref-8].
 
-The Combine invaded Earth through dimensional portals created during the Black Mesa Incident from the first game, conquering humanity in just seven hours[^ref-10]. Earth is now administered by Dr. Wallace Breen, Gordon's former employer at Black Mesa, who has become humanity's puppet administrator and broadcasts propaganda encouraging acceptance of Combine rule[^ref-7]. Upon arriving in City 17, Gordon reunites with former colleagues including Dr. Isaac Kleiner, Barney Calhoun, and meets new allies such as Eli Vance and his daughter Alyx, who have formed a resistance movement against the Combine occupation[^ref-8].
+The Combine invaded Earth through dimensional portals created during the Black Mesa Incident from the first game, defeating all of Earth's armed forces in only seven hours[^ref-52]. Earth is now administered by Dr. Wallace Breen, Gordon's former employer at Black Mesa, who has become humanity's puppet administrator and broadcasts propaganda encouraging acceptance of Combine rule[^ref-7]. Upon arriving in City 17, Gordon reunites with former colleagues including Dr. Isaac Kleiner, Barney Calhoun, and meets new allies such as Eli Vance and his daughter Alyx, who have formed a resistance movement against the Combine occupation[^ref-8].
 
-After a teleportation accident at Kleiner's lab, Gordon must travel through the zombie-infested town of Ravenholm, the treacherous coastal highways, and a massive prison complex called Nova Prospekt before returning to City 17 to lead the final assault against the Combine[^ref-10]. Throughout his journey, Gordon wields an increasingly powerful arsenal, most notably the Gravity Gun—officially the Zero Point Energy Field Manipulator—which becomes supercharged with dark energy during the final confrontation at the Citadel[^ref-7].
+After Kleiner's attempt to teleport him to the Resistance base fails, Gordon travels through the zombie-infested town of Ravenholm and along the coastline to the Combine prison of Nova Prospekt, before returning to City 17, where the Resistance has launched an armed rebellion, and fighting his way to the Citadel[^ref-3]. Throughout his journey, Gordon wields an increasingly powerful arsenal, most notably the Gravity Gun—officially the Zero Point Energy Field Manipulator[^ref-10]—which is supercharged inside the Citadel when a security system vaporizes his other weapons[^ref-3].
 
 The game culminates with Gordon confronting Dr. Breen atop the Citadel as he attempts to escape through a portal. The destruction of the Citadel's reactor appears imminent when time suddenly freezes, and the G-Man appears to place Gordon back into stasis, leaving humanity's fate uncertain and setting the stage for the episodic continuations[^ref-8].
 
@@ -53,13 +53,13 @@ The game culminates with Gordon confronting Dr. Breen atop the Citadel as he att
 
 ### Interface and Controls
 
-Half-Life 2 presents the entire experience through first-person perspective without cutscenes, maintaining player control throughout the narrative[^ref-11]. The game features a minimalist HUD displaying health, suit power, ammunition, and a weapon selection interface[^ref-12]. Players can carry an extensive arsenal of weapons while managing the iconic HEV (Hazardous Environment Suit) which provides protection, environmental information, and can be recharged at suit stations[^ref-10].
+Half-Life 2 presents the entire experience through first-person perspective without cutscenes, never taking camera control away from the player[^ref-4][^ref-23]. The game features a minimalist HUD displaying health, suit power, ammunition, and a weapon selection interface[^ref-12]. Players can carry an extensive arsenal of weapons while managing the iconic HEV (Hazardous Environment Suit) which provides protection, environmental information, and can be recharged at suit stations[^ref-10].
 
 The controls utilize standard first-person shooter conventions with movement, jumping, crouching, and weapon management mapped to keyboard and mouse[^ref-3]. The game supports gamepad input on console versions and received UI updates for modern displays and the Steam Deck handheld in 2022[^ref-13].
 
 ### Structure and Progression
 
-Half-Life 2's campaign spans approximately 12-20 hours depending on playstyle and features distinct chapters that vary dramatically in setting and gameplay focus[^ref-12][^ref-14]:
+Half-Life 2's campaign spans approximately 12-20 hours depending on playstyle[^ref-12][^ref-14] and features distinct chapters that vary dramatically in setting and gameplay focus[^ref-11]:
 
 - **Point Insertion:** Gordon's arrival in City 17 and initial escape from Combine forces
 - **A Red Letter Day:** Reunion with allies at Kleiner's Lab and teleportation accident
@@ -80,7 +80,7 @@ Half-Life 2's campaign spans approximately 12-20 hours depending on playstyle an
 
 The physics engine serves as the foundation for Half-Life 2's puzzle design, with players manipulating objects to create bridges, counterweights, and barriers[^ref-15]. The Gravity Gun—described by critics as "the greatest weapon or tool in any FPS ever"—allows players to pick up and launch objects, turning environmental debris into both puzzle solutions and deadly projectiles[^ref-7].
 
-Valve's approach to player training uses what they termed "show, don't tell," introducing mechanics through gameplay rather than tutorials[^ref-5]. The game features varied gameplay types integrated seamlessly including first-person shooting, tactical combat, survival horror in Ravenholm, vehicle sections with the airboat and scout car, and platform-style environmental navigation[^ref-16]. The Antlion pheropod mechanic in the Sandtraps chapter allows players to command alien creatures in combat, demonstrating the game's willingness to experiment with different play styles[^ref-10].
+Ars Technica's reviewer summed up Valve's approach as "Show, don't tell": players learn what they need by seeing and hearing the world around them[^ref-5]. The game features varied gameplay types integrated seamlessly including first-person shooting, tactical combat, survival horror in Ravenholm, vehicle sections with the airboat and scout car, and platform-style environmental navigation[^ref-16]. Pheropods (bugbait), introduced at the end of the Sandtraps chapter, let players summon Antlions and direct them to attack targets such as Combine soldiers[^ref-53].
 
 ## Reception
 
@@ -118,7 +118,7 @@ The creative team wanted to expand beyond the original's achievements. "It sound
 
 Half-Life 2's five-year development was marked by significant challenges. The team of approximately 82 developers, or around 100 including voice actors, worked at a cost of approximately $1 million per month[^ref-3][^ref-4]. Valve employed a "cabal" design process, breaking the team into groups working on separate areas of the game[^ref-21].
 
-The development used Valve's "Club Zero" bug tracking system and maintained a tradition of breaking scanner piñatas to celebrate milestones[^ref-4]. By March 2002, the team had completed a proof of concept, though it ultimately failed to meet their standards[^ref-4]. In March 2003, ahead of E3, Gabe Newell announced: "We're going to launch the product at E3 and we're going to ship it on September 30, 2003."[^ref-4] This date would prove impossible to meet.
+In the final weeks the team tracked progress with "Club Zero," a whiteboard list of programmers whose bugs were all fixed, and Newell planned to whack a scanner piñata once the game went to duplication, just as he had a headcrab piñata when Half-Life was finished[^ref-4]. By March 2002, the team had completed a proof of concept, though it ultimately failed to meet their standards[^ref-4]. In March 2003, ahead of E3, Gabe Newell announced: "We're going to launch the product at E3 and we're going to ship it on September 30, 2003."[^ref-4] This date would prove impossible to meet.
 
 Valve had already lived by Newell's maxim from the original Half-Life's own delay: "Late is just for a little while. Suck is forever."[^ref-20] Initial prototypes explored unusual mechanics including a "glue gun," "toilet crossing" puzzles, and "skeet shooting" segments[^ref-15]. In a GDC talk, Senior Software Engineer Jay Stelly recommended turning designers into "gameplay engineers" who use engineering methods to create, test and improve their gameplay constructs[^ref-15].
 
@@ -171,7 +171,7 @@ Newell described the aftermath: "We were paralyzed. We knew we weren't going to 
 
 ### Legal Battles
 
-Valve's relationship with publisher Vivendi Universal Games (parent company of Sierra Entertainment) deteriorated during development. The dispute centered on Steam distribution rights and alleged contract violations[^ref-28]. According to court documents, "Sierra was placing copies of Valve games in Internet cafes across the globe—a practice that Valve claim was not covered by the publisher's license."[^ref-28]
+Valve's relationship with publisher Vivendi Universal Games (parent company of Sierra Entertainment) deteriorated during development. The dispute centered on Steam distribution rights and alleged contract violations[^ref-28]. Game Developer reported that the original complaint "was that Sierra was placing copies of Valve games in Internet cafes across the globe – a practice that Valve claim was not covered by the publisher's license."[^ref-28]
 
 Valve alleged that "Vivendi has refused to pay the developer royalties owed and unreasonably delayed Counter-Strike: Condition Zero so that it missed the Christmas 2003 retail period."[^ref-28] In response, "Vivendi lawyers made a counter-claim that they hoped would invalidate their publishing agreement with Valve and grant them ownership of the Half-Life intellectual property."[^ref-28]
 
@@ -181,8 +181,8 @@ Sierra's lawyers argued that "Valve was aware of its business plan for Steam lon
 
 Half-Life 2 underwent substantial revision during its long development, with entire chapters and concepts removed[^ref-10]:
 
-- **The Borealis:** An icebreaker ship that would later appear in Episode Two
-- **Jet Ski:** Originally planned vehicle replaced with the airboat
+- **The Borealis:** In an early concept, players would start by boarding the Borealis, an icebreaker bound for the city; it was cut during development[^ref-3]
+- **Jet Ski:** Originally planned vehicle replaced with the airboat[^ref-3]
 - **Darker Tone:** The game was "originally intended to be far darker with grittier artwork"
 - **Additional City 17 Levels:** Several urban chapters were cut
 - **Cremator Enemy:** A cut enemy whose helmet appears as an easter egg in Eli's Lab[^ref-31]
@@ -227,7 +227,6 @@ Half-Life 2 contains numerous hidden references and secrets discovered by the co
 - **Back to the Future Reference:** Barney dialogue in the first level
 - **Cremator Helmet:** Preserved in Eli's Lab as a reference to the cut enemy
 - **Windows NT Blue Screen:** Visible on a computer in Kleiner's lab
-- **Lost Reference (Episode 2):** Dharma Initiative logo and numbers 4 8 15 16 23 42 appear in a silo room[^ref-35]
 - **Credits Easter Egg:** After the credits, Dr. Kleiner can be heard searching for his pet headcrab Lamarr, who then jumps at the camera[^ref-8]
 
 Robin Williams was reportedly a fan of the series and was in talks to provide a voice for the games, but scheduling conflicts prevented this[^ref-8].
@@ -273,24 +272,25 @@ Half-Life 2 earned 39 Game of the Year awards[^ref-3]; IMDb's awards listing rec
 - Art Direction
 - Online Multiplayer
 
-**D.I.C.E. Interactive Achievement Awards (2005):**
+**D.I.C.E. Interactive Achievement Awards (2005):**[^ref-3]
 - Game of the Year
 - Computer Game of the Year
 - Outstanding Achievement in Animation
 - Outstanding Achievement in Art Direction
 
-**Game Critics Awards (E3 2003):**
+**Game Critics Awards (E3 2003):**[^ref-3]
 - Best of Show
 - Best PC Game
 - Best Action Game
 - Special Commendation for Graphics
 
-**Game Developers Choice Awards (2005):**
+**Game Developers Choice Awards (2005):**[^ref-3]
 - Best Game
 - Character Design
 - Best Technology
+- Writing
 
-**Spike Video Game Awards:**
+**Spike Video Game Awards:**[^ref-3]
 - Best PC Game (2004)
 - Best Graphics (2004)
 - Best Game of the Decade (2012)
@@ -300,7 +300,7 @@ Half-Life 2 earned 39 Game of the Year awards[^ref-3]; IMDb's awards listing rec
 - Best Shooter – GameSpot
 - Game of the Decade – IGN
 - Readers' Game of the Decade – The Guardian
-- VES Award for Outstanding Visuals in a Video Game (2005)
+- VES Award for Outstanding Visuals in a Video Game (2005)[^ref-54]
 
 ### The Orange Box
 
@@ -312,7 +312,7 @@ The compilation faced criticism for its PlayStation 3 port, which was outsourced
 
 On November 16, 2024, Valve released a comprehensive 20th Anniversary Update[^ref-32]. The update bundled Episodes One and Two with the base game, added developer commentary featuring original team members, implemented Steam Workshop support, and included extensive bug fixes. New graphics options included ultrawide support, 4x MSAA by default, and full HDR lighting.
 
-Valve also released a two-hour documentary covering "running out of money, getting hacked, an early version being leaked online, being sued by our publisher, trying to build Steam."[^ref-32] The update included the previously unreleased E3 2002 demo, with Valve noting: "We built this demo to bring to E3 a year earlier, and then decided at the last minute we weren't ready to show the game. 20 years later, we're okay with you seeing this stuff."[^ref-32]
+Valve also released a two-hour documentary[^ref-44], which it said covers more than the making of the game: "Running out of money. Getting hacked, and an early version being leaked online. Being sued by our publisher. Trying to build Steam."[^ref-32] The update included the previously unreleased E3 2002 demo, with Valve noting: "We built this demo to bring to E3 a year earlier, and then decided at the last minute we weren't ready to show the game. 20 years later, we're okay with you seeing this stuff."[^ref-32]
 
 The anniversary celebration drove the game to a record 64,085 concurrent players on Steam, surpassing its previous record of 16,100 from August 2021[^ref-44].
 
@@ -334,9 +334,9 @@ The Source engine's modding tools spawned an extensive community of fan creation
 
 ### Soundtrack
 
-The score was composed by Kelly Bailey and features 43 tracks mixing atmospheric synthesizer pieces with energetic techno for combat sequences[^ref-49]. Track titles often reference scientific concepts like "CP Violation," "Brane Scan," and "Calabi-Yau Model"[^ref-49]. The soundtrack was included with the limited-edition "Gold" package and later released as free DLC for the Steam Music Player on September 24, 2014[^ref-50].
+The score was composed by Kelly Bailey and features 43 tracks[^ref-49], mixing atmospheric synthesizer pieces with energetic techno for battle sequences[^ref-50]. Track titles often reference scientific concepts like "CP Violation," "Brane Scan," and "Calabi-Yau Model"[^ref-49]. The soundtrack was included with the limited-edition "Gold" package and later released as free DLC for the Steam Music Player on September 24, 2014[^ref-50].
 
-Critics praised the music's integration with gameplay, noting that "energetic techno tracks tend to back significant battles, atmospheric synthesizer pieces enhance key plot and exploration moments"[^ref-50]. Some tracks are remixes or renamed versions from the original Half-Life soundtrack[^ref-50].
+The Half-Life Wiki describes how the music is tied to gameplay: "In-game, energetic techno tracks tend to back significant battles, atmospheric synthesizer pieces enhance key plot and exploration moments"[^ref-50]. Some tracks are remixes or renamed versions from the original Half-Life soundtrack[^ref-50].
 
 ### Critical Perspective
 
@@ -344,9 +344,9 @@ Half-Life 2's influence on the gaming industry cannot be overstated. The game de
 
 The game's physics implementation proved equally influential. Stelly's GDC talk framed good game design as training the player in new mechanics efficiently and then letting them prove their skills in more creative ways[^ref-15]. The Gravity Gun became an icon of creative game design, showing how a single mechanic could transform both combat and puzzle-solving.
 
-Perhaps most significantly, Half-Life 2's role in launching Steam fundamentally changed game distribution. What began as a controversial authentication requirement became the dominant platform for PC gaming. The legal battles with Vivendi established important precedents for developer rights in the digital age, with industry observers noting the dispute "is likely to have profound implications on future developer/publisher relations throughout the industry."[^ref-28]
+Perhaps most significantly, Half-Life 2's role in launching Steam fundamentally changed game distribution. What began as a controversial authentication requirement became the dominant platform for PC gaming. While the legal battles with Vivendi were still under way, Game Developer wrote that the dispute "is likely to have profound implications on future developer/publisher relations throughout the industry."[^ref-28]
 
-The game's unresolved narrative—and Valve's subsequent retreat from traditional game development—has become part of gaming culture. Half-Life 3 remains one of the most requested sequels in history. Yet Half-Life 2's achievements stand complete: a technical marvel, a storytelling breakthrough, and a business model revolution that shaped the modern gaming landscape.
+The game's unresolved narrative has become part of gaming culture. Half-Life 3 remains one of the most requested sequels in history. Yet Half-Life 2's achievements stand complete: a technical marvel, a storytelling breakthrough, and a business model revolution that shaped the modern gaming landscape.
 
 ## Purchase
 
@@ -385,7 +385,7 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-7]: [Eurogamer – Half-Life 2: 10 Years On](https://www.eurogamer.net/articles/2014-11-16-half-life-2-10-years-on) – retrospective analysis, facial animation, storytelling
 [^ref-8]: [IMDb – Half-Life 2 Full Credits](https://www.imdb.com/title/tt0374692/) – cast, crew, designer credits, trivia
 [^ref-10]: [Half-Life Wiki – Half-Life 2](https://half-life.fandom.com/wiki/Half-Life_2) – gameplay chapters, version history, cut content
-[^ref-11]: [StrategyWiki – Half-Life 2](https://strategywiki.org/wiki/Half-Life_2) – interface description, game structure
+[^ref-11]: [StrategyWiki – Half-Life 2](https://strategywiki.org/wiki/Half-Life_2) – chapter list
 [^ref-12]: [Celjaded – Half-Life 2 Retrospective](https://www.celjaded.com/half-life-2-retrospective/) – campaign length, HUD description, physics engine
 [^ref-13]: [Eurogamer – Half-Life 2 Steam Deck Update](https://www.eurogamer.net/articles/2022-01-27-half-life-2s-ui-is-getting-steam-deck-ready) – UI updates, modern display issues
 [^ref-14]: [IGN – Half-Life 2 Review](https://www.ign.com/articles/2004/11/15/half-life-2-review) – 9.7/10 score, gameplay analysis, test system specs
@@ -408,7 +408,6 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-32]: [Half-Life.com – 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) – update features, documentary, E3 2002 demo
 [^ref-33]: [Combine OverWiki – WC Map Pack](https://combineoverwiki.net/wiki/WC_map_pack) – Laidlaw quote on surrealism, leak details
 [^ref-34]: [Half-Life Wiki – The Orange Box](https://half-life.fandom.com/wiki/The_Orange_Box) – compilation details, PS3 issues
-[^ref-35]: [Easter Egg Database – Episode 2](https://eeggs.com/tree/11573.html) – Lost reference, Episode 2 easter eggs
 [^ref-36]: [Behind The Voice Actors – Half-Life 2](https://www.behindthevoiceactors.com/video-games/half-life-2/) – complete voice cast
 [^ref-37]: [Superior Realities – Retro Review: Half-Life 2 Trilogy](https://superior-realities.com/2013/10/06/retro-review-half-life-2-trilogy/) – voice acting praise
 [^ref-38]: [GamesIndustry.biz – Half-Life 2 Sales](https://www.gamesindustry.biz/half-life-2-sells-17-million-units-through-retail) – early retail performance
@@ -422,6 +421,9 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-46]: [Polygon – Minerva: Metastasis is the best Half-Life game Valve never made](https://www.polygon.com/what-to-play/482810/minerva-metastasis-half-life-2-mod) – mod praise, Adam Foster hired by Valve
 [^ref-47]: [TechSpot – Half-Life 2 VR Mod adds Episode One support](https://www.techspot.com/news/97985-well-regarded-half-life-2-vr-mod-adds.html) – "full room-scale VR gameplay to the seminal 2004 shooter"
 [^ref-48]: [Amazon – Source SDK Game Development Essentials](https://www.amazon.com/Source-SDK-Game-Development-Essentials/dp/184969592X) – modding guide
-[^ref-49]: [KHInsider – Half-Life 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-2-official-soundtrack) – track listings, musical analysis
+[^ref-49]: [KHInsider – Half-Life 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-2-official-soundtrack) – track listings
 [^ref-50]: [Half-Life Wiki – Soundtrack](https://half-life.fandom.com/wiki/Half-Life_2_soundtrack) – soundtrack release details
 [^ref-51]: [ModDB – Missing Information](https://www.moddb.com/mods/missing-information) – "for our own admiration and interest in the old content"
+[^ref-52]: [Combine OverWiki – Seven Hour War](https://combineoverwiki.net/wiki/Seven_Hour_War) – "defeating all of its armed forces in only seven hours"
+[^ref-53]: [Combine OverWiki – Pheropod](https://combineoverwiki.net/wiki/Pheropod) – introduced in Sandtraps; summons and directs Antlions
+[^ref-54]: [Wikipedia – 3rd Visual Effects Society Awards](https://en.wikipedia.org/wiki/3rd_Visual_Effects_Society_Awards) – Outstanding Visuals in a Video Game: Half-Life 2 (winner)
