@@ -7,21 +7,22 @@ publisher: Berkeley Systems, Inc.
 genre: Screensaver
 platforms: [Mac, Windows 3.x]
 series: After Dark
-engine: After Dark Module System
+engine: After Dark (add-on modules)
 protagonist: Spacecraft pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
-description: More After Dark, released in 1991, was an expansion package for Berkeley
-  Systems' revolutionary After Dark screensaver software—"the software that kicked...
+last_updated: '2026-10-27'
+description: 'More After Dark, released in 1991, was an expansion package for Berkeley
+  Systems'' After Dark screensaver software, "the software that kicked off the screensaver
+  craze of the 1990s."'
 tags: [1990s, after-dark, shooter, sierra]
 ---
 # More After Dark
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-More After Dark, released in 1991, was an expansion package for Berkeley Systems' After Dark screensaver software—"the software that kicked off the screensaver craze of the 1990s."[^ref-1] The add-on contained 26 new modules,[^ref-2] one of which was Lunatic Fringe, a playable top-down space shooter.[^ref-5] The Macintosh Repository's description calls that module "absolutely brilliant... a fully playable game similar to Maelstrom but somewhat even cooler."[^ref-3]
+More After Dark, released in 1991, was an expansion package for Berkeley Systems' After Dark screensaver software—"the software that kicked off the screensaver craze of the 1990s."[^ref-1] The add-on contained 26 new modules, according to the Internet Archive's Windows package,[^ref-2] though a 2007 Low End Mac retrospective recalled it as adding "25 more modules to After Dark 2.0";[^ref-23] one of them was Lunatic Fringe, a playable top-down space shooter.[^ref-5] The Macintosh Repository's description calls that module "absolutely brilliant... a fully playable game similar to Maelstrom but somewhat even cooler."[^ref-3]
 
 The package required an existing installation of After Dark 2.0 or another After Dark product to function, and would refuse to install if the base software could not be found.[^ref-2] After the original, Berkeley Systems released further editions, including themed ones built around licensed properties such as Star Trek, The Simpsons, Looney Tunes, Marvel, and Disney characters.[^ref-4] The After Dark system also allowed for the development and use of third-party modules, "many hundreds of which were created at the height of its popularity."[^ref-4]
 
@@ -33,7 +34,7 @@ More After Dark was published by Berkeley Systems, not Sierra.[^ref-5] In April 
 > **Developer:** [[Berkeley Systems]], Inc.[^ref-5]
 > **Designer:** Not documented; Lunatic Fringe is credited only as "from the creator of Solarian II"[^ref-5]
 > **Publisher:** Berkeley Systems, Inc.[^ref-5]
-> **Engine:** After Dark Module System
+> **Engine:** After Dark (runs as add-on modules for After Dark 2.0)[^ref-5]
 > **Platforms:** Macintosh, Windows 3.x[^ref-7][^ref-2]
 > **Release Year:** 1991
 > **Series:** After Dark
@@ -62,7 +63,7 @@ Tointon's review of After Dark and More After Dark together warned: "If you inte
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Lunatic Fringe is a straightforward shooter.[^ref-5] Its most unusual mechanic is component damage: different parts of the ship can be damaged to varying degrees, and once a part passes a damage threshold it misbehaves in its own way, such as a disabled blaster or misbehaving thrusters.[^ref-5]
+Rather than traditional puzzles, Lunatic Fringe is a straightforward shooter.[^ref-5] One of its more novel elements is component damage: different parts of the ship can be damaged to varying degrees, and once a part passes a damage threshold it misbehaves in its own way, such as a disabled blaster or misbehaving thrusters.[^ref-5]
 
 ## Reception
 
@@ -86,7 +87,7 @@ More After Dark was an add-on for After Dark 2.0.[^ref-5] Its Lunatic Fringe mod
 
 ### Production
 
-More After Dark was built as an add-on package for the After Dark 2.0 base software and contained 26 new modules.[^ref-2] The underlying After Dark framework was written in assembly language and C.[^ref-6] On the Macintosh, the More After Dark installer decompressed and installed the new modules and also updated After Dark for System 7 compatibility.[^ref-3]
+More After Dark was built as an add-on package for the After Dark 2.0 base software and contained 26 new modules.[^ref-2] The underlying After Dark framework was written in assembly language and C.[^ref-8] On the Macintosh, the More After Dark installer decompressed and installed the new modules and also updated After Dark for System 7 compatibility.[^ref-3]
 
 Speaking about the After Dark team in general, Beard said: "I think you go through the rest of your working life looking for that kind of experience. It doesn't come along every day."[^ref-10] He left Berkeley Systems in 1992 to attend graduate school.[^ref-10]
 
@@ -103,38 +104,38 @@ Beard named the modules as After Dark's defining feature: "Clearly the modules m
 ### Technical Specifications
 
 **Macintosh Version:**
-- **Media:** 1 disk (3.5" Floppy Disk)[^ref-5]
+- **Media:** 3.5" floppy disk[^ref-5]; Tointon wrote that "Both programs come on 1 disk"[^ref-3]
 - **Requirements:** After Dark 2.0[^ref-5]
-- **File Size:** 600 KB[^ref-7]
+- **Download size (MyAbandonware):** 600 KB, the size of the preserved archive, not a 1991 specification[^ref-7]
 - **Perspective:** Top-down[^ref-5]
 - **Later edition:** The Macintosh Repository's entry for More After Dark is dated 1996. It lists the package as "26 AD modules for After Dark 3.0 or 4.0" with a 68K + PPC (FAT) architecture, so these specs describe that later edition, not the 1991 release.[^ref-3]
 
 **Windows 3.x Version:**
-- **File Size:** 1 MB[^ref-7]
+- **Download size (MyAbandonware):** 1 MB, the size of the preserved archive[^ref-7]
 - **Requirements:** Windows 3.0/3.1[^ref-2]
 - **Prerequisite:** Existing After Dark 2.0 installation[^ref-2]
 
 ### Cut Content
 
-Despite the volume numbering suggesting planned sequels, no "Volume 2" of More After Dark was ever released.[^ref-5] Later editions of After Dark added more games as screensaver modules instead.[^ref-5] Berkeley Systems continued the main After Dark line through version 4.0 in 1996.[^ref-6]
+Despite the volume numbering suggesting planned sequels, no "Volume 2" of More After Dark was ever released.[^ref-5] Later editions of After Dark added more games as screensaver modules instead.[^ref-5] Berkeley Systems continued the main After Dark line through version 4.0 in 1996.[^ref-8]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1991 | Macintosh | Initial release; add-on for After Dark 2.0[^ref-5] |
+| — | 1991 | Macintosh | Initial release; add-on for After Dark 2.0[^ref-5] |
 | — | c. 1992–1993 | Windows 3.x | Requires After Dark 2.0 for Windows, which was due to ship in February 1992; the Internet Archive's Windows package is dated 1993[^ref-2][^ref-8] |
 | — | 1996 (per repository listing) | Macintosh | Edition for After Dark 3.0 or 4.0, 68K + PPC[^ref-3] |
 
-**After Dark System Versions:**[^ref-6]
+**After Dark System Versions:**[^ref-8]
 
 | AD Version | Date | Notes |
 |------------|------|-------|
 | 1.0 | 1989 | Initial Macintosh release |
-| 2.0 | 1992 | First official Windows release (the Mac edition of More After Dark already required After Dark 2.0 in 1991[^ref-5]) |
-| 3.0 | 1994 | Major update |
-| 3.2 | 1995 | Stability improvements |
-| 4.0 | 1996 | Final major version |
+| 2.0 | 1992 (Windows) | First official release for Windows. The Mac edition of More After Dark already required After Dark 2.0 in 1991,[^ref-5] and the Internet Archive's Mac After Dark 2.0 item is dated 1990[^ref-1] |
+| 3.0 | 1994 | — |
+| 3.2 | 1995 | — |
+| 4.0 | 1996 | Last version in Wikipedia's list |
 
 ### Technical Issues
 
@@ -145,9 +146,9 @@ The Windows 3.x version required proper installation of the base After Dark soft
 The After Dark series was known for intertextual references between modules:
 - Flying toasters from the famous module would occasionally appear in the Fish screensaver[^ref-9]
 - The cat from the Boris screensaver appeared in the Bad Dog screensaver[^ref-9]
-- The Bad Dog module was later developed into an animated TV series[^ref-6]
+- The Bad Dog module was later developed into an animated TV series[^ref-8]
 
-The Flying Toasters became After Dark's best-known image. In October 1993, U.S. District Judge Eugene F. Lynch ruled that Berkeley Systems had a valid copyright on the "Flying Toaster" symbol and granted a preliminary injunction against Delrina's Opus 'n Bill Screen Saver.[^ref-22] Discussing the MultiModule meta-module, Beard recalled: "The first time I saw Boris running on top of a field of flowers, I realized I'd come up with something very special."[^ref-10]
+Flying Toasters was the most famous of After Dark's included modules.[^ref-8] In October 1993, U.S. District Judge Eugene F. Lynch ruled that Berkeley Systems had a valid copyright on the "Flying Toaster" symbol and granted a preliminary injunction against Delrina's Opus 'n Bill Screen Saver.[^ref-22] Discussing the MultiModule meta-module, Beard recalled: "The first time I saw Boris running on top of a field of flowers, I realized I'd come up with something very special."[^ref-10]
 
 ## Legacy
 
@@ -175,12 +176,12 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Not sold on GOG or Steam; searches of both stores on 27 October 2026 found no listing
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available for digital purchase; see preservation links below[^ref-7]
+- Not currently available for digital purchase; see preservation links below
 
 **Download / Preservation**
 - [Internet Archive – After Dark: More After Dark](https://archive.org/details/AfterDark_-_MoreAfterDark)[^ref-2]
@@ -201,14 +202,14 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 [^ref-2]: [Internet Archive – After Dark: More After Dark](https://archive.org/details/AfterDark_-_MoreAfterDark) – installation requirements, 26 modules, Windows 3.x compatibility; item dated 1993
 [^ref-3]: [Macintosh Repository – After Dark & More After Dark](https://www.macintoshrepository.org/67-after-dark-more-after-dark) – Lunatic Fringe description, David Tointon review (Apple 2000, Feb 1992, p. 55), later 1996 edition specs
 [^ref-4]: [Internet Archive – After Dark 4.0 Deluxe](https://archive.org/details/after-dark-4.0-deluxe) – third-party modules, licensed editions
-[^ref-5]: [MobyGames – More After Dark: Volume 1](https://mobygames.com/game/more-after-dark-volume-1) – release date, developer/publisher, Lunatic Fringe gameplay description, specs, no Volume 2 released
-[^ref-6]: [HandWiki – Software: After Dark](https://handwiki.org/wiki/Software:After_Dark) – programming languages, After Dark version history, Bad Dog TV series
-[^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, file sizes
-[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), MoveOn.org founders
+[^ref-5]: [MobyGames – More After Dark: Volume 1](https://www.mobygames.com/game/137264/more-after-dark-volume-1/) – release date, developer/publisher, Lunatic Fringe gameplay description, specs, no Volume 2 released
+[^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, download archive sizes
+[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), version history, assembly language and C, Flying Toasters as most famous module, Bad Dog TV series, MoveOn.org founders
 [^ref-9]: [Internet Archive – After Dark (Windows)](https://archive.org/details/AFTERDARK_WIN) – intertextual references between modules
 [^ref-10]: [Low End Mac – On Mighty Toaster Wings: More After Dark History](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) – Patrick Beard interview (2007) on After Dark's origins and design
-[^ref-11]: [MobyGames – After Dark Games](https://mobygames.com/game/after-dark-games) – Sierra On-Line publication of After Dark Games, 1998
+[^ref-11]: [MobyGames – After Dark Games](https://www.mobygames.com/game/4821/after-dark-games/) – Sierra On-Line publication of After Dark Games, 1998
 [^ref-13]: [MobyGames – After Dark Series](https://www.mobygames.com/game/77708/after-dark-series/) – 2003 Sierra compilation information
 [^ref-20]: [Wired – Berkeley Systems Acquired by CUC](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) – 1 April 1997; CUC confirmed the merger and had acquired Sierra On-Line the previous year
 [^ref-21]: [Low End Mac – How After Dark Came to Windows](https://lowendmac.com/2007/how-after-dark-came-to-windows/) – Lunatic Fringe "a part of More After Dark", Sealie Software project, 1992 After Dark books
 [^ref-22]: [Los Angeles Times – Berkeley Systems v. Delrina (Bloomberg, 11 Oct 1993)](https://www.latimes.com/archives/la-xpm-1993-10-11-fi-44741-story.html) – preliminary injunction over the "Flying Toaster" symbol
+[^ref-23]: [Low End Mac – Aggressively Stupid: The Story Behind After Dark](https://lowendmac.com/2007/aggressively-stupid-the-story-behind-after-dark/) – 2007-02-09; Jack Eastman interview; More After Dark "added 25 more modules to After Dark 2.0"
