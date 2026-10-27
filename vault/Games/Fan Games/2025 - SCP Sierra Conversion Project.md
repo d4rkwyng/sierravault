@@ -10,13 +10,13 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 
 The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preserving and enhancing Sierra adventure games on the Commodore Amiga platform.[^ref-1] Originally focused on translating and preserving Amiga games in Spanish, the group expanded their mission after discovering that Sierra's original Amiga ports suffered from poor graphics quality compared to their DOS counterparts.[^ref-2]
 
-Led by key members DaRaSCo and kikems (of AmigaWave), the SCP has developed techniques to extract, modify, and re-inject improved graphics back into Sierra's SCI engine games.[^ref-2][^ref-7] Their work addresses a long-standing frustration in the retro gaming community—Sierra's Amiga ports were widely considered among the worst conversions of the era, with one Lemon Amiga user, quoted by IndieRetroNews, saying they "vomited at the non-amiga-worthy graphics" and "swore at the arrogance of sierra for releasing a daft excuse for a port" after trying the original Space Quest IV Amiga version.[^ref-3]
+Key members include DaRaSCo and kikems (of AmigaWave). The SCP extracts the graphics from the Amiga versions of Sierra's SCI engine games, modifies them, and re-injects them into the games.[^ref-2][^ref-7] Sierra's Amiga ports were notorious among Amiga owners, with one Lemon Amiga user, quoted by IndieRetroNews, saying they "vomited at the non-amiga-worthy graphics" and "swore at the arrogance of sierra for releasing a daft excuse for a port" after trying the original Space Quest IV Amiga version.[^ref-3]
 
 The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-23][^ref-24][^ref-6][^ref-3]
 
@@ -63,7 +63,7 @@ As Estrayk noted: "Yes, kikems used Amiga tools to prove that Sierra didn't do b
 
 A collaborative effort between kikems/AmigaWave and DaRaSCo, this remaster brings [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] closer to the PC VGA version's visual quality.[^ref-4] The enhancement improves the graphics that Sierra's original Amiga conversion poorly translated from the DOS original.
 
-Like the other SCP enhancements, the King's Quest V remaster includes MIDI support via Roland MT-32/mt32-pi.[^ref-4]
+The King's Quest V remaster keeps the original Amiga music, with MIDI support via Roland MT-32 (an mt32-pi was used).[^ref-4]
 
 
 ### Space Quest IV OCS Enhanced (January 15, 2026)
@@ -77,25 +77,23 @@ DaRaSCo spent considerable time finding a more consistent palette that works acr
 
 ### Interface and Controls
 
-The enhanced SCP releases maintain the original SCI engine's point-and-click interface while improving the visual presentation. Users interact with the game world using traditional adventure game mouse controls, clicking on objects, characters, and environmental elements to trigger actions and advance the story.[^ref-2] No gameplay mechanics are altered—the enhancements are purely visual, preserving the authenticity of the original Sierra experience while making the Amiga versions visually comparable to their DOS counterparts.
+The enhanced SCP releases maintain the original SCI engine's point-and-click interface while improving the visual presentation. Users interact with the game world using traditional adventure game mouse controls, clicking on objects, characters, and environmental elements to trigger actions and advance the story.[^ref-2] No gameplay mechanics are altered: the releases are asset swaps that run on Sierra's original Amiga executable,[^ref-6] and the aim is to bring the Amiga versions closer to the graphics of the PC versions.[^ref-4]
 
 ### Structure and Progression
 
-Each SCP-enhanced game preserves the original game's structure and progression intact. Whether playing Police Quest III, King's Quest V, or Space Quest IV, players experience the same puzzle design, story beats, and gameplay progression as the original DOS versions.[^ref-2][^ref-3] The enhancement work centres on graphics replacement—new artwork is re-injected into games that still run on Sierra's original Amiga executable, so mechanics and level design are unchanged.[^ref-6] This ensures that fans can enjoy enhanced visual presentation while maintaining the exact gameplay experience Sierra intended.
+Each SCP-enhanced game preserves the original game's structure and progression intact. Whether playing Police Quest III, King's Quest V, or Space Quest IV, players experience the same puzzle design, story beats, and gameplay progression as in Sierra's original Amiga releases.[^ref-6] The enhancement work centres on graphics replacement—new artwork is re-injected into games that still run on Sierra's original Amiga executable, so mechanics and level design are unchanged.[^ref-6] This ensures that fans can enjoy enhanced visual presentation while maintaining the exact gameplay experience Sierra intended.
 
 ### Puzzles and Mechanics
 
-The SCP enhancements preserve the original Sierra adventure game puzzle design without modification. Police Quest III, King's Quest V, and Space Quest IV each feature traditional Sierra puzzle mechanics including object-interaction puzzles, inventory-based challenges, environmental problem-solving, and story progression gates.[^ref-2][^ref-3] The graphical enhancement does not alter puzzle solutions, item availability, or puzzle logic—players solve the same challenges using identical inventory and interaction patterns as the original DOS versions.
-
-For King's Quest V, players solve magic-based puzzles using items collected from the fantasy landscape, maintain the original game's death mechanics and resource management, and navigate the same castle and outdoor environments with unchanged geography and puzzle placement.[^ref-4] Space Quest IV's time-travel adventure maintains its comedic Sierra adventure design while benefiting from improved visual clarity that helps players identify interactive objects and understand spatial relationships within each screen.[^ref-3] The SCP approach preserves puzzle authenticity while making solutions more discoverable through enhanced artwork clarity.
+The SCP enhancements leave Sierra's puzzle design untouched. Because the releases are asset swaps running on the same executable Sierra wrote for the Amiga, puzzle solutions, item availability and puzzle logic are those of the original Amiga versions.[^ref-6]
 
 ## Development
 
 ### Origins
 
-The Sierra Conversion Project began as a Spanish fan preservation effort focused on preserving Amiga games in Spanish and translating some that had never been released in Spanish; the Sierra work began when members translating Sierra games found the Amiga graphics lacking.[^ref-2] The group's mission evolved after discovering a long-standing frustration within the retro gaming community: Sierra's original Amiga ports suffered from dramatically inferior graphics quality compared to their DOS counterparts.[^ref-2]
+The Sierra Conversion Project began as a Spanish fan preservation effort focused on preserving Amiga games in Spanish and translating some that had never been released in Spanish; the Sierra work began when members translating Sierra games found the Amiga graphics lacking.[^ref-2] The group's mission evolved after discovering a long-standing frustration within the retro gaming community: Sierra's original Amiga ports had much poorer graphics than their DOS counterparts.[^ref-2]
 
-DaRaSCo and kikems recognized that Sierra's SCI engine implementation for Amiga was limited by technical and resource constraints—most critically, the single-palette limitation that prevented per-screen color optimization.[^ref-3] Rather than accept these ports as immutable relics, the SCP team developed innovative techniques to extract, enhance, and re-inject improved graphics into the original game files.[^ref-2]
+The Amiga version of Sierra's SCI engine uses a single palette for the entire game, a limitation the SCP had to work within.[^ref-3] The team's method is to extract the graphics from the original game files, modify them by hand, and re-inject them.[^ref-2]
 
 ### Team and Workflow
 
@@ -108,7 +106,7 @@ All three Police Quest III, King's Quest V, and Space Quest IV enhancements were
 
 ### Historical Context
 
-The SCP's work documents a critical piece of Sierra history: the company's minimal investment in quality Amiga ports despite the platform's popularity in Europe. As Estrayk noted, Sierra could have achieved these enhanced results in the early 1990s using period-appropriate tools like ImageFX, PPaint, and Adpro—the same tools the SCP uses today.[^ref-2] This makes the original ports a reflection of business decisions rather than technical limitations.
+Estrayk argues that the weak original ports were Sierra's choice rather than a limit of the era's tools: kikems used period Amiga software (ImageFX, PPaint and Adpro) "to prove that Sierra didn't do better in those years because they didn't want to, not because the tools didn't exist."[^ref-2]
 
 The project gained international visibility through coverage on IndieRetroNews, English Amiga Board discussions, and GenerationAmiga.[^ref-1][^ref-3][^ref-6][^ref-15]
 
@@ -135,7 +133,7 @@ The SCP team developed a workflow to address these issues:[^ref-2]
 1. **Extraction:** Graphics are extracted from the original Amiga game files
 2. **Enhancement:** Artists manually improve colors, palettes, and details using Amiga-native tools
 3. **Re-injection:** Modified graphics are reintegrated into the SCI engine game files
-4. **Testing:** Each game is playtested to completion to ensure modifications don't cause engine errors
+4. **Testing:** Police Quest III, the first game completed, was "tested to the end to ensure that the modifications did not cause any SCI engine errors"[^ref-2]
 
 ### Tools Used
 
@@ -144,7 +142,7 @@ Notably, all graphics work is performed using period-appropriate Amiga software:
 - **PPaint** - Personal Paint for pixel art
 - **Adpro** - Art Department Professional for batch processing
 
-This proves Sierra could have achieved similar results in the early 1990s had they chosen to invest the effort.
+In Estrayk's view, this shows Sierra could have done better at the time had it wanted to.[^ref-2]
 
 ## Reception
 
@@ -170,13 +168,13 @@ The three releases arrived within two weeks of each other, from January 3 to Jan
 
 ### Technical Achievements
 
-The SCP team developed novel palette optimization techniques to address the fundamental limitations of Sierra's original Amiga ports.[^ref-2][^ref-3] Using Amiga-native tools including ImageFX, PPaint, and Adpro, the team extracts, modifies, and re-injects improved graphics directly into the original SCI game files.[^ref-2] This approach preserves compatibility with the original Amiga hardware while delivering significantly improved visual quality.[^ref-2]
+For Space Quest IV, Darasco spent a long time finding a more consistent single palette for the whole game.[^ref-3] Using Amiga-native tools including ImageFX, PPaint, and Adpro, the team extracts, modifies, and re-injects improved graphics directly into the original SCI game files.[^ref-2] The results run on original Amiga OCS hardware; IndieRetroNews's screenshots were taken from a real Amiga via RGB output.[^ref-4]
 
 ## Legacy
 
-The Sierra Conversion Project represents a unique approach to fan preservation—rather than creating VGA remakes from scratch like [[Infamous Adventures]] or [[AGD Interactive]], SCP focuses on rehabilitating Sierra's existing but flawed Amiga ports. This preserves the original game code and structure while addressing the visual shortcomings that made these versions unplayable for many fans.
+The Sierra Conversion Project represents a unique approach to fan preservation—rather than creating VGA remakes from scratch like [[Infamous Adventures]] or [[AGD Interactive]], SCP focuses on rehabilitating Sierra's existing but flawed Amiga ports. This preserves the original game code and structure while addressing the visual shortcomings of the original ports.[^ref-6]
 
-Their work also serves as historical documentation, demonstrating that the tools and techniques needed for quality Amiga ports existed in Sierra's era. The poor quality of the original conversions reflects business decisions rather than technical limitations.
+The team also presents its work as an argument about Sierra's era: in Estrayk's words, Sierra "didn't do better in those years because they didn't want to, not because the tools didn't exist."[^ref-2]
 
 ## Related Pages
 
@@ -203,13 +201,11 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 | GOG (Police Quest III) | [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) | Original DOS release[^ref-18] |
 | GOG (Space Quest IV) | [Space Quest 4+5+6 on GOG](https://www.gog.com/en/game/space_quest_4_5_6) | Original DOS release[^ref-19] |
 
-**SCP releases:** see the project's threads on the English Amiga Board, listed under External Links below.
+**SCP releases:** SierraVault does not link the SCP release threads or news posts, because they offer downloads of the full modified builds.
 
 ## External Links
 
-- [English Amiga Board Discussion](https://eab.abime.net/showthread.php?t=122018)[^ref-6]
-- [Police Quest III enhanced by SCP (EAB)](https://eab.abime.net/showthread.php?t=121940)[^ref-23]
-- [King Quest V enhanced by SCP (EAB)](https://eab.abime.net/showthread.php?t=121951)[^ref-24]
+- English Amiga Board release threads (not linked; they offer the full builds): "Space Quest IV enhanced by SCP",[^ref-6] "Police Quest III enhanced by SCP",[^ref-23] "King Quest V enhanced by SCP"[^ref-24]
 - Background on the SCI resource format and Amiga OCS hardware.[^ref-13][^ref-14]
 
 
@@ -230,27 +226,27 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 
 ## References
 
-[^ref-1]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." December 2025. [https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html)
+[^ref-1]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." December 2025 (preview; reader comments from 25 December 2025). *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." January 2026. [https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html)
+[^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." 5 January 2026. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-3]: [IndieRetroNews – Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP (full-release update, January 15, 2026)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) — palette reconstruction for Amiga OCS, original Amiga music with Roland MT-32 MIDI support, the SCI engine's single-palette limit on Amiga, found via the Sierra Gaming World Facebook group. (Replaces a dead amiga.org thread link.)
+[^ref-3]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." Full-release update, 15 January 2026 (same post as ref-1). *(link removed: the page links to downloads of full modified builds of a commercially sold game)* — palette reconstruction for Amiga OCS, original Amiga music with Roland MT-32 MIDI support, the SCI engine's single-palette limit on Amiga, found via the Sierra Gaming World Facebook group. (Replaces a dead amiga.org thread link.)
 
-[^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." January 2026. [https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html)
+[^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." 4 January 2026. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
 [^ref-5]: [Sierra Gaming World Facebook Group](https://www.facebook.com/groups/sierragamingworld/) — community group sharing announcements and discussion of SCP releases, December 2025–January 2026.
 
-[^ref-6]: English Amiga Board. "Space Quest IV enhanced by SCP." Release thread opened by Estrayk, 14 January 2026, with bug reports and discussion. [https://eab.abime.net/showthread.php?t=122018](https://eab.abime.net/showthread.php?t=122018)
+[^ref-6]: English Amiga Board. "Space Quest IV enhanced by SCP." Release thread opened by Estrayk late on 14 January 2026 (forum time; IndieRetroNews reported the release on 15 January), with bug reports and discussion. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
 [^ref-7]: Wikipedia. "Sierra Creative Interpreter (SCI Engine)." Overview of Sierra's SCI engine and the games built on it. [https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter)
 
-[^ref-8]: MobyGames. "King's Quest V (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/king-s-quest-v-absence-makes-the-heart-go-yonder/](https://www.mobygames.com/game/king-s-quest-v-absence-makes-the-heart-go-yonder/)
+[^ref-8]: MobyGames. "King's Quest V (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/)
 
-[^ref-9]: MobyGames. "Police Quest III (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/police-quest-iii-the-kindred/](https://www.mobygames.com/game/police-quest-iii-the-kindred/)
+[^ref-9]: MobyGames. "Police Quest III (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/148/police-quest-3-the-kindred/](https://www.mobygames.com/game/148/police-quest-3-the-kindred/)
 
-[^ref-10]: MobyGames. "Space Quest IV (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/space-quest-iv-roger-wilco-and-the-time-rippers/](https://www.mobygames.com/game/space-quest-iv-roger-wilco-and-the-time-rippers/)
+[^ref-10]: MobyGames. "Space Quest IV (Amiga)." Game database entry (plot and release overview). [https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/)
 
-[^ref-13]: [SCI Engine Reverse Engineering — ScummVM SCI Resource Format Documentation](https://wiki.scummvm.org/index.php?title=SCI/Specifications/Resource_files) — fan documentation of the SCI file format and graphics injection techniques used by the preservation community.
+[^ref-13]: [SCI Engine Reverse Engineering — ScummVM SCI Resource Format Documentation](https://wiki.scummvm.org/index.php?title=SCI/Specifications/Resource_files) — SCI resource-format documentation.
 
 [^ref-15]: [GenerationAmiga – Space Quest IV Amiga OCS Enhanced Edition](http://www.generationamiga.com/2026/01/17/space-quest-iv-gets-long-awaited-amiga-ocs-enhanced-edition/) – SCP project coverage, technical achievements, and community reception of the Amiga enhancements
 
@@ -259,8 +255,8 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 [^ref-18]: [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) — official commercial release of the original Police Quest series (PQ1–4) including the DOS version of Police Quest III used as the source for the SCP enhancement.
 [^ref-19]: [Space Quest 4+5+6 on GOG](https://www.gog.com/en/game/space_quest_4_5_6) — GOG bundle that includes Space Quest IV: Roger Wilco and the Time Rippers.
 
-[^ref-22]: English Amiga Board. "Space Quest IV enhanced by SCP," post #62 by Darasco, February 17, 2026. "Soon when we release Conquest of Longbow, we will also release the graphics injection tool." [https://eab.abime.net/showthread.php?t=122018&page=4](https://eab.abime.net/showthread.php?t=122018&page=4)
+[^ref-22]: English Amiga Board. "Space Quest IV enhanced by SCP," post #62 by Darasco, February 17, 2026 (page 4). "Soon when we release Conquest of Longbow, we will also release the graphics injection tool." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-23]: English Amiga Board. "Police Quest III enhanced by SCP," post #1 by Estrayk, 3 January 2026 (00:46). Announces "the first Remastered game available 100% in Spanish, German, and English." [https://eab.abime.net/showthread.php?t=121940](https://eab.abime.net/showthread.php?t=121940)
+[^ref-23]: English Amiga Board. "Police Quest III enhanced by SCP," post #1 by Estrayk, 3 January 2026 (00:46). Announces "the first Remastered game available 100% in Spanish, German, and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-24]: English Amiga Board. "King Quest V enhanced by SCP," post #1 by Estrayk, 4 January 2026 (12:49). Announces "the second Remastered game available 100% in Spanish, German, Italian and English." [https://eab.abime.net/showthread.php?t=121951](https://eab.abime.net/showthread.php?t=121951)
+[^ref-24]: English Amiga Board. "King Quest V enhanced by SCP," post #1 by Estrayk, 4 January 2026 (12:49). Announces "the second Remastered game available 100% in Spanish, German, Italian and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
