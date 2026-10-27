@@ -10,7 +10,7 @@ series: Mixed-Up Mother Goose
 engine: AGI
 protagonist: Player-created child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: Mixed-Up Mother Goose is Roberta Williams' 1987 educational adventure
   game for young children, in which the player returns lost items to 18 nursery-rhyme
   characters in Mother Goose Land.
@@ -18,7 +18,7 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -110,7 +110,7 @@ Ken Williams, Sierra's co-founder, later described his view of the company in th
 
 ### Production
 
-The original 1987 version used Sierra's AGI (Adventure Game Interpreter) engine, the same interpreter used for King's Quest I–III, Space Quest I–II and Police Quest.[^ref-21] Unlike other AGI titles, it had no text parser, to accommodate non-reading players.[^ref-10]
+The original 1987 version used Sierra's AGI (Adventure Game Interpreter) engine, the same interpreter used for King's Quest I–III, Space Quest I–II and Police Quest.[^ref-21] Like [[1986 - The Black Cauldron|The Black Cauldron]] before it,[^ref-36] it had no text parser, to accommodate non-reading players.[^ref-10]
 
 Allen McPheeters joined Sierra as a junior programmer in summer 1987 and was initially to port the game from the PC to the Apple IIe; however, the PC version was not finished until late fall, and in December, shortly before work on the port was to begin, he left Sierra for Cinemaware.[^ref-22]
 
@@ -298,3 +298,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-33]: [Compute! – "Mother Goose" (Donald B. Trivette), April 1988, p. 58](https://archive.org/details/1988-04-compute-magazine) – contemporary review: ages 4+, no reading needed, cursor keys or joystick, poster, system requirements, copy protection, price
 [^ref-34]: [Computer Gaming World #83 – "Celebrating Software", June 1991](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA award for "the multimedia version of Mixed-Up Mother Goose"
 [^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (the text Alchetron mirrors; no longer in the current article)
+[^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"

@@ -59,7 +59,7 @@ SCI0 brought composed scores to Sierra's games through Roland MT-32 support; Kin
 
 ## SCI1 (1990–1992)
 
-SCI1 arrived with King's Quest V in 1990 and "combined 256-color VGA graphics with an icon-driven interface."[^ref-1] Many SCI1 games shipped in both 16-color EGA and 256-color VGA versions.[^ref-2]
+SCI1's VGA debut was King's Quest V in 1990, which "combined 256-color VGA graphics with an icon-driven interface";[^ref-1] Quest for Glory II had already used an earlier, EGA-only SCI1 build that kept the text parser.[^ref-2] Many SCI1 games shipped in both 16-color EGA and 256-color VGA versions.[^ref-2]
 
 ### Technical Specifications
 | Specification | Details |
@@ -70,13 +70,13 @@ SCI1 arrived with King's Quest V in 1990 and "combined 256-color VGA graphics wi
 | Audio | Wider sound card support, digitized sound; CD-ROM speech in later releases |
 
 ### Point-and-Click Interface
-SCI1 introduced Sierra's icon-driven point-and-click interface, which replaced the text parser.[^ref-1]
+SCI1's VGA debut, [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990), introduced Sierra's icon-driven point-and-click interface, which replaced the text parser;[^ref-1] [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] had already used an earlier, EGA-only SCI1 build[^ref-2] and kept the text parser.[^ref-19]
 
 ### Voice Acting Debuts
 Sierra's "first foray into CD-ROM" was the [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]] CD, for which "professional actors were hired to voice every line of dialog"; ScummVM's version lists date that SCI1 CD build to July 1991.[^ref-4][^ref-2] [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]'s later CD-ROM talkie was voiced in-house: according to The Digital Antiquarian it "had apparently been voiced by whoever happened to be hanging around the office that day".[^ref-5]
 
 ### Notable SCI1 Games
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — The first SCI1 game[^ref-1]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — SCI1's VGA debut; Quest for Glory II had already used an earlier, EGA-only SCI1 build[^ref-1][^ref-2]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1991 - Police Quest III - The Kindred]]
@@ -250,3 +250,4 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 [^ref-16]: [Wikipedia — King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) — First in the series to use full 3D
 [^ref-17]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) — Period scan (OCR): KQ VII "Animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match"
 [^ref-18]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — Internal Update (23 April 2018): "replaced DOSBox with ScummVM 2.0"
+[^ref-19]: [Wikipedia — Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) — "The game's interface is a text parser"

@@ -4,18 +4,18 @@ type: technology
 developer: "Sierra On-Line"
 years_active: "1984-1989"
 total_games: 14
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Adventure Game Interpreter (AGI)
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 The Adventure Game Interpreter (AGI) was the engine Sierra On-Line built for *King's Quest* (1984), with Ken Williams and Jeff Stephenson as its authors.[^ref-1] A year before the PCjr was announced, IBM asked Sierra "to create a game that would show off the new computer's color graphics capabilities"; eighteen months later Roberta Williams and a team of six programmers and artists had finished *King's Quest*.[^ref-2] AGI was not Sierra's first engine — the Hi-Res Adventures, beginning with *Mystery House* (1980), the first graphical adventure game, ran on Ken Williams' Adventure Development Language (ADL)[^ref-3][^ref-4] — but it was the first to show an animated character moving through graphical scenes. *Electronic Games* called *King's Quest* "a major breakthrough in action-adventure games".[^ref-5] Sierra used AGI for 14 games between 1984 and 1989 before replacing it with the [[Sierra Creative Interpreter]] (SCI).[^ref-1]
 
-Most AGI games combine a 160×200 logical resolution, 16 colours, a typed text parser and a pseudo-3D perspective that lets characters walk in front of and behind background objects. Two AGI games had no parser at all: [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1988 - Manhunter - New York|Manhunter: New York]] (see their pages).
+Most AGI games combine a 160×200 logical resolution, 16 colours, a typed text parser and a pseudo-3D perspective that lets characters walk in front of and behind background objects. AGI games with no parser at all include [[1986 - The Black Cauldron|The Black Cauldron]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1988 - Manhunter - New York|Manhunter: New York]] (see their pages).
 
 ## Technical Specifications
 

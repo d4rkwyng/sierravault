@@ -15,24 +15,24 @@ last_updated: '2026-10-26'
 
 The text parser was Sierra On-Line's primary interface for adventure games from 1984 to 1991, requiring players to type commands to interact with game worlds. This system powered the [[Adventure Game Interpreter|AGI]] engine era (1984-1989) and continued into the early [[Sierra Creative Interpreter|SCI]] era (1988-1991) before being replaced by point-and-click interfaces.
 
-Understanding the parser is essential for playing classic Sierra adventures—from [[1984 - King's Quest - Quest for the Crown|King's Quest]] through [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]]—and can mean the difference between frustration and enjoyment.
+Understanding the parser is essential for playing classic Sierra adventures—from [[1984 - King's Quest - Quest for the Crown|King's Quest]] through [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]]—and can mean the difference between frustration and enjoyment.
 
 ## What is a Text Parser?
 
 A text parser is an input system that interprets typed commands and translates them into game actions. Each AGI game carried its own vocabulary file (WORDS.TOK), "the dictionary of words that the interpreter understands"; several words could share one word number, so synonyms behaved alike, and filler words such as "the" and "at" were simply ignored.[^ext-agispec] Vocabulary size varied by title: [[1986 - King's Quest III - To Heir Is Human|King's Quest III]]'s parser "was improved from the previous games to understand more words."[^ext-wikipedia-kq3]
 
-The parser worked through **verb-noun combinations**:
-- `LOOK TREE`
-- `GET SWORD`
-- `TALK MAN`
-- `OPEN DOOR`
+Sierra's 1987 MS-DOS reference card for its "3-D animated adventures" told players: "Talk to your computer in commands of one or two words, or even simple sentences." Its examples were:[^ext-kq-refcard]
+- `TALK TO THE GNOME`
+- `GET THE KEY`
+- `LOOK AT THE SHIP`
+- `GIVE THE BASKET TO THE GIRL`
 
 Players typed commands into a text input line while controlling their character with arrow keys or joystick. *Electronic Games* (December 1984) called King's Quest "a major breakthrough in action-adventure games," saying its "combination of keyboard-input and joystick-operated on-screen character movement blows everything away."[^ref-kq1][^ext-eg-1984]
 
 ### How It Worked
 
 1. Player positions character near an object or person
-2. Player types a command (e.g., `LOOK AT STATUE`)
+2. Player types a command (e.g., `LOOK AT THE SHIP`)[^ext-kq-refcard]
 3. Parser analyzes the text for recognized verbs and nouns
 4. If understood, the game executes the action
 5. If not understood, the game replies with a message saying so (wording varies by game)
@@ -43,22 +43,20 @@ Discovering the designers' witty replies to odd commands became part of the ente
 
 ### Essential Verbs
 
-Common verbs seen in Sierra parser games (exact vocabulary varied from game to game, so check each game's manual):
+Common verbs seen in Sierra parser games, with examples taken from Sierra's own reference card or from the cited game sources (exact vocabulary varied from game to game, so check each game's manual):
 
-| Verb | Function | Example |
-|------|----------|---------|
-| LOOK | Examine objects/environment | `LOOK AT PAINTING` |
-| GET/TAKE | Pick up items | `GET KEY` |
-| OPEN | Open doors, containers | `OPEN CHEST` |
-| CLOSE | Close doors, containers | `CLOSE DOOR` |
-| TALK/ASK | Speak to characters | `TALK TO MAN` |
-| GIVE | Give inventory items | `GIVE BREAD TO BEGGAR` |
-| USE | General interaction | `USE ROPE` |
-| DROP/PUT | Place items | `PUT ROCK IN HOLE` |
-| READ | Read signs, books, notes | `READ SIGN` |
-| PUSH/PULL | Move objects | `PUSH BOULDER` |
-| CLIMB | Ascend surfaces | `CLIMB LADDER` |
-| SWIM | Water navigation | `SWIM` |
+| Verb | Function | Example | Source |
+|------|----------|---------|--------|
+| TALK | Speak to characters | `TALK TO THE GNOME` | Sierra reference card[^ext-kq-refcard] |
+| GET | Pick up items | `GET THE KEY` | Sierra reference card[^ext-kq-refcard] |
+| LOOK | Examine an object closely | `LOOK AT THE SHIP` | Sierra reference card[^ext-kq-refcard] |
+| GIVE | Give inventory items | `GIVE THE BASKET TO THE GIRL` | Sierra reference card[^ext-kq-refcard] |
+| SLOW / FAST / NORMAL | Change animation speed | `FAST` | Sierra reference card[^ext-kq-refcard] |
+| SAVE / RESTORE | Save or restore the game | `SAVE GAME`, `RESTORE GAME` | Sierra reference card[^ext-kq-refcard] |
+| USE | Use an item on something | `USE KEY ON LOCK` | King's Quest III[^ext-wikipedia-kq3] |
+| PUT | Place items | `PUT THE BAG IN BOTTLE` | Leisure Suit Larry II[^ext-allowe-bug] |
+| READ | Read something aloud | `READ RIGHTS` | Police Quest I[^ext-sierrahelp-pq1] |
+| PRESS | Operate controls | `PRESS BUTTON` | Space Quest I[^ext-sierrahelp-sq1] |
 
 ### Game-Specific Commands
 
@@ -69,10 +67,10 @@ Different series required specialized vocabulary:
 - `SEARCH PRISONER` - Pat down suspects
 - `READ RIGHTS` - Read a suspect his rights
 - `WRITE TICKET` - Issue a traffic citation
-- `BOOK HIM` - Process prisoners at the jail
+- `BOOK HIM` (for `FELONY`) - Book a prisoner at the jail
 
 **[[Space Quest Series|Space Quest]]**[^ref-sq1][^ext-sierra-fandom-sq1]:
-- `PRESS BUTTON` - Operate controls (e.g. the escape pod's launch button)[^ext-sq1-points]
+- `PRESS BUTTON` - Operate controls (e.g. the escape pod's launch button)[^ext-sq1-points][^ext-sierrahelp-sq1]
 
 **[[1986 - King's Quest III - To Heir Is Human|King's Quest III]]** spell-casting[^ref-kq3][^ext-wikipedia-kq3]:
 - Spell steps are listed in the game's manual, not in the game itself
@@ -167,11 +165,11 @@ By 1990-1991, Sierra phased out the parser for several reasons:
 
 1. **Accessibility**: "People solved the game much faster because they didn't have to guess which words we wanted them to type"—Al Lowe on [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL5]][^ref-lsl5][^ext-ign-allowe]
 
-2. **Technical Progress**: SCI1 arrived with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] in 1990 and "combined 256-color VGA graphics with an icon-driven interface"[^ext-wikipedia-sci]
+2. **Technical Progress**: SCI1's VGA debut was [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] in 1990, and Wikipedia says SCI1 "combined 256-color VGA graphics with an icon-driven interface"[^ext-wikipedia-sci]; [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] had already used an earlier, EGA-only SCI1 build[^ext-scummvm-sgv] and kept the parser[^ext-wikipedia-qfg2]
 
 ### The SCI1 Icon Bar
 
-[[Sierra Creative Interpreter|SCI1]] games, starting with King's Quest V in 1990, introduced the icon interface replacing the parser[^ref-sci][^ext-wikipedia-sci]:
+SCI1's VGA debut, King's Quest V (1990), introduced the icon interface that replaced the parser[^ref-sci][^ext-wikipedia-sci]; the EGA-only [[Sierra Creative Interpreter|SCI1]] build used by Quest for Glory II still had the parser[^ext-scummvm-sgv][^ext-wikipedia-qfg2]:
 
 - **Walk** - Navigate character
 - **Look** - Examine objects
@@ -200,7 +198,7 @@ Some later games offered both options:
 - **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry I]] — Notable Parser Feature: Adult humor responses[^ext-mobygames-lsl1][^ext-hg101-lsl1]
 - **1988** — [[1988 - Gold Rush|Gold Rush!]] — Notable Parser Feature: Sierra's standard AGI parser, which (like other AGI games) does not pause while you type[^ext-starostin-gr]
 
-Later AGI releases also included the AGI version of King's Quest IV (1988), Manhunter (1988) and Manhunter 2 (1989).[^ext-scummvm-agilist]
+Later AGI parser releases also included the AGI version of King's Quest IV (1988).[^ext-scummvm-agilist] [[1988 - Manhunter - New York|Manhunter: New York]] (1988) also ran on AGI but had no text parser (see below).[^ext-wikipedia-mhny]
 
 ### SCI0 Era (Parser with Mouse Movement)
 
@@ -212,9 +210,13 @@ Later AGI releases also included the AGI version of King's Quest IV (1988), Manh
 
 Other SCI0 parser games with vault pages include [[1988 - Police Quest II - The Vengeance|Police Quest II]] (1988), [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and the [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|1990 SCI remake of King's Quest I]]. [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] (1990) also kept the text parser, but ScummVM's version list places it under SCI1 (EGA), not SCI0.[^ext-scummvm-sgv]
 
-### Simplified/No Parser (Children's Games)
+### Simplified/No Parser
 
-[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was designed for young children, and its AGI version did away with the text parser used in Sierra's other AGI games so that non-readers could play[^ref-mumg].
+In [[1986 - The Black Cauldron|The Black Cauldron]] (1986), made to be more accessible to children, "the text parser was removed in favor of the function keys."[^ext-wikipedia-bc]
+
+Like The Black Cauldron before it, [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was designed for young children, and its AGI version did away with the text parser so that non-readers could play[^ref-mumg].
+
+[[1988 - Manhunter - New York|Manhunter: New York]] (1988) used AGI too, but Wikipedia notes it "did not use a text parser" and "featured a rudimentary point-and-click interface."[^ext-wikipedia-mhny]
 
 ## Playing Parser Games Today
 
@@ -245,9 +247,9 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ref-kq3]: [[1986 - King's Quest III - To Heir Is Human]] – Spell-casting system, parser criticism
 [^ref-kq3-gfaqs]: [[1986 - King's Quest III - To Heir Is Human]] – GameFAQs review on spell-casting deaths
 [^ref-kq3-easter]: [[1986 - King's Quest III - To Heir Is Human]] – Easter egg responses (Colonel Sanders, wizard quote)
-[^ref-sq1]: [[1986 - Space Quest - The Sarien Encounter]] – Parser input, sci-fi commands
+[^ref-sq1]: [[1986 - Space Quest - The Sarien Encounter]] – Parser interface
 [^ref-sq1-tcrf]: [[1986 - Space Quest - The Sarien Encounter]] – Ken Williams easter egg, King's Quest II guard exchange
-[^ref-pq1]: [[1987 - Police Quest - In Pursuit of the Death Angel]] – Police procedure commands, protocol requirements
+[^ref-pq1]: [[1987 - Police Quest - In Pursuit of the Death Angel]] – Parser interface
 [^ref-lsl1]: [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Parser responses, humor
 [^ref-lsl2]: [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] – Parser bug ("PUT BAG")
 [^ref-lsl2-ign]: [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] – IGN on parser responses
@@ -275,7 +277,7 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ext-ign-allowe]: [IGN – Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – Al Lowe on parser vs point-and-click accessibility
 [^ext-steam-grann]: [Steam – Gold Rush! Anniversary](https://store.steampowered.com/app/319230/Gold_Rush_Anniversary/) – Dual interface system description
 [^ext-mobygames-lsl7]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – Hybrid point-and-click and typed-command interface
-[^ext-sq-historian]: [Space Quest Historian – 11 Things You Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Ken Williams easter egg programming anecdote
+[^ext-sq-historian]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Chapter "The Sarien King's Quest fan (SQ1)" at 11:20, per the video's chapter list
 [^ext-scummvm-agi]: [ScummVM Wiki – Space Quest (Wayback, 2024-08-09)](https://web.archive.org/web/20240809115745/https://wiki.scummvm.org/index.php?title=Space_Quest) – AGI support since 0.10.0, SCI since 1.2.0; Predictive Input Dialog
 [^ext-sierra-fandom-kq2]: [Sierra Fandom Wiki – King's Quest II](https://sierra.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) – 1987 re-release with pull-down menus
 [^ext-agispec]: [AGI Specifications, ch. 10 – Other game data (Lance Ewing)](https://www.agidev.com/articles/agispec/agispecs-10.html) – WORDS.TOK is "the dictionary of words that the interpreter understands"; word number 0 = "Words are ignored (e.g. the, at)"
@@ -292,3 +294,8 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ext-wikipedia-mh]: [Wikipedia – Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – "Mystery House is the first graphical adventure game"
 [^ext-scummvm-agilist]: [ScummVM Wiki – AGI (Wayback, 2025-01-01)](https://web.archive.org/web/20250101192119/https://wiki.scummvm.org/index.php?title=AGI) – Sierra AGI game list incl. Gold Rush (1988), King's Quest IV (1988), Manhunter (1988), Manhunter 2 (1989)
 [^ext-scummvm-sgv]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II listed in the "SCI1 (ega)" table
+[^ext-kq-refcard]: [Sierra 3-D Animated Adventure Game Reference Card for MS-DOS, 1987 (archive.org scan, "king's quest - ref card")](https://archive.org/details/kings_quest_-_ref_card) – "Talk to your computer in commands of one or two words, or even simple sentences"; TALK TO THE GNOME, GET THE KEY, LOOK AT THE SHIP, GIVE THE BASKET TO THE GIRL
+[^ext-sierrahelp-sq1]: [Sierra Help – Space Quest 1 AGI Walkthrough](https://sierrahelp.com/Walkthroughs/SQ1AGIWalkthrough.html) – "Press button on control panel marked open bay door", "Press autonav button"
+[^ext-wikipedia-mhny]: [Wikipedia – Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) – "did not use a text parser… featured a rudimentary point-and-click interface"
+[^ext-wikipedia-bc]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – "the text parser was removed in favor of the function keys"
+[^ext-wikipedia-qfg2]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) – "The game's interface is a text parser"
