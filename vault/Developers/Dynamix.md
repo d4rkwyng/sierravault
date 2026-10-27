@@ -24,7 +24,7 @@ Sierra On-Line bought the company in 1990.[^ref-11][^ref-14] MobyGames lists 112
 
 Tunnell and Slye, both University of Oregon graduates, first called the company Software Entertainment Company and renamed it Dynamix in 1984.[^ref-11] Kevin Ryan and Richard Hicks, also UO graduates, then joined them as co-owner partners.[^ref-11][^ref-14] Slye was working on Stellar 7 when he met Tunnell, and Stellar 7 (1983) was released before the company was founded.[^ref-9][^ref-1][^ref-18] Sword of Kadash followed in 1985 for the Apple II and Commodore 64.[^ref-1]
 
-Dynamix's first contract was with Electronic Arts, which led to Arcticfox (1986); MobyGames says the game "was a hit and took home the SPA's Gold Award".[^ref-11] Before joining Sierra, Dynamix made titles published by Penguin Software, Activision, Electronic Arts and others;[^ref-18] its 1989 releases included Project Firestart, Deathtrack and David Wolf: Secret Agent.[^ref-1]
+MobyGames says Dynamix's first contract was with Electronic Arts, which led to Arcticfox (1986), and that the game "was a hit and took home the SPA's Gold Award".[^ref-11] Before joining Sierra, Dynamix made titles published by Penguin Software, Activision, Electronic Arts and others;[^ref-18] its 1989 releases included Project Firestart, Deathtrack and David Wolf: Secret Agent.[^ref-1]
 
 ### Sierra Era
 

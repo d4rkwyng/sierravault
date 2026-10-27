@@ -4,11 +4,11 @@ type: publisher
 founded: 1982
 headquarters: "Redwood City, California, United States"
 parent_company: "Public Investment Fund (majority owner)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Electronic Arts
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -18,11 +18,11 @@ Electronic Arts Inc. (EA) is an American video game company headquartered in Red
 
 Electronic Arts published several games developed by studios that later became part of Sierra On-Line, and it later bought a studio that Sierra had once owned.
 
-**Dynamix Games:** Dynamix's first contract was with Electronic Arts, which resulted in *Arcticfox* (1986).[^ref-16] Compute! described it in October 1986 as "a strategy/action game for the Amiga from Electronic Arts."[^ref-17] EA went on to publish Dynamix's *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1988), *Abrams Battle Tank* and *Project Firestart* (1989), before Sierra bought Dynamix in 1990.[^ref-8][^ref-16]
+**Dynamix Games:** MobyGames says Dynamix's first contract was with Electronic Arts, which resulted in *Arcticfox* (1986).[^ref-16] Wikipedia's list of Dynamix games, however, places *Sword of Kadash* (1985, Penguin Software) earlier, and also credits Dynamix with EA's 1986 Atari ST and Macintosh ports of *Skyfox*.[^ref-23] Compute! described it in October 1986 as "a strategy/action game for the Amiga from Electronic Arts."[^ref-17] EA went on to publish Dynamix's *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1988), *Abrams Battle Tank* and *Project Firestart* (1989), before Sierra bought Dynamix in 1990.[^ref-8][^ref-16] *Computer Gaming World* reviewed the IBM version of *Abrams Battle Tank* in June 1989, crediting designer Damon Slye of Dynamix and publisher Electronic Arts, after a March 1989 retailer ad had listed it as coming soon.[^ref-24][^ref-25]
 
-**Papyrus Design Group:** One of the first publishers that Papyrus's David Kaemmer and his business partner Omar Khudari approached was Electronic Arts, which was looking for a team to design an Indy 500 game.[^ref-18] EA published the result, *[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]* (1989).[^ref-8][^ref-19] Sierra owned Papyrus from 1995.[^ref-21]
+**Papyrus Design Group:** One of the first publishers that Papyrus's David Kaemmer and his business partner Omar Khudari approached was Electronic Arts, which was looking for a team to design an Indy 500 game.[^ref-18] EA published the result, *[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]* (1989).[^ref-8][^ref-19] Sierra owned Papyrus from 1995.[^ref-21] MobyGames says *NASCAR Racing 2003 Season* was Papyrus's last game and that Electronic Arts "had also snapped up the exclusive NASCAR license for all platforms, taking away their core audience"; Vivendi Universal Games closed Papyrus in May 2004.[^ref-26]
 
-**Headgate Studios:** Sierra bought the Utah golf developer [[Headgate Studios]] in 1996.[^ref-22] After a six-year partnership, EA acquired Headgate on November 30, 2006, and renamed it EA Salt Lake.[^ref-10][^ref-20]
+**Headgate Studios:** Sierra bought the Utah studio [[Headgate Studios]] in 1996.[^ref-22] After a six-year partnership, EA acquired Headgate on November 30, 2006, and renamed it EA Salt Lake.[^ref-10][^ref-20]
 
 ## Games Published (Sierra Archive)
 
@@ -52,3 +52,7 @@ Electronic Arts published several games developed by studios that later became p
 [^ref-20]: [Game Developer - EA Acquires Headgate, Focuses Studio On Wii](https://www.gamedeveloper.com/game-platforms/ea-acquires-headgate-focuses-studio-on-wii) - December 1, 2006: Headgate team "has joined the company, following a six year partnership between the two firms"
 [^ref-21]: [Wikipedia - Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) - Parent: Sierra Entertainment (1995–2004)
 [^ref-22]: [Game Developer - The End Game: How Top Developers Sold Their Studios, Part One](https://www.gamedeveloper.com/business/the-end-game-how-top-developers-sold-their-studios---part-one) - "In 1996, when Headgate was purchased, Sierra was expanding its Front Page Sports line"
+[^ref-23]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) - Games table: Sword of Kadash 1985 (Apple II, C64), Penguin Software; Skyfox (ports only) 1986 (Atari ST, MacOS), Electronic Arts; Arcticfox 1986
+[^ref-24]: [Computer Gaming World Issue 60, June 1989 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_60) - M. Evan Brooks review: "TITLE: Abrams Battle Tank SYSTEM: IBM PRICE: $49.95 DESIGNERS: Damon Slye Dynamix PUBLISHER: Electronic Arts San Mateo, CA"
+[^ref-25]: [Computer Gaming World Issue 57, March 1989 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_57) - Mail-order retailer ad, "COMING SOON" list: "Abrams Battle Tank - IBM"
+[^ref-26]: [MobyGames - Papyrus Design Group, Inc. (Wayback, July 2023)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) - "the 2003 version would be the last Papyrus game. Electronic Arts had also snapped up the exclusive NASCAR license for all platforms"; closed May 2004
