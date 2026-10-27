@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -160,7 +160,7 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > This archive focuses on **Sierra as a creative entity**, not merely as a publisher or distributor. Games qualify if Sierra:
 > - **Developed the game** directly through Sierra On-Line or internal studios
 > - **Owned the studio** that created it (Dynamix, Impressions, Bright Star, etc.)
-> - **Funded development** with meaningful creative partnership (Valve's Half-Life, Relic's Homeworld, Monolith's No One Lives Forever)
+> - **Funded development** with meaningful creative partnership (Valve's Half-Life, Relic's Homeworld, Monolith's No One Lives Forever 2)
 > - **Continued a franchise** that originated with Sierra
 > - Was the **primary brand** on the box (not distribution-only arrangements)
 >

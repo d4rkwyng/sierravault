@@ -1,14 +1,14 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "The 3D engines used by Sierra-published games — Dynamix's 3Space, Darkstar and Torque, Papyrus's in-house racing engines, Relic's Homeworld engines, Valve's GoldSrc, Monolith's LithTech, and Unreal Engine 3 for the 2015 King's Quest."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -132,15 +132,16 @@ GoldSrc is "a heavily modified version of id Software's Quake engine", which deb
 
 ---
 
-## Monolith LithTech (2000–2005, Sierra-published)
+## Monolith LithTech (2000–2005)
 
 **Developer:** [[Monolith Productions]].
 
-LithTech is a discontinued game engine "developed by Monolith Productions and comparable with the Quake and Unreal engines".[^ref-10] Monolith's Sierra-published LithTech games:
+LithTech is a discontinued game engine "developed by Monolith Productions and comparable with the Quake and Unreal engines".[^ref-10] Monolith's LithTech games with a Sierra publishing role (Fox Interactive, not Sierra, published *No One Lives Forever* on Windows):
 
 | Year | Title | Notes |
 |------|-------|-------|
 | 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | LithTech 2.2; Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
+| 2001 | Aliens versus Predator 2 | Lithtech Talon; published by Sierra On-Line and Fox Interactive[^ref-34] |
 | 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2]] | LithTech Jupiter; Vivendi Universal Games under the Sierra brand, with Fox Interactive[^ref-28] |
 | 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | Monolith / Sierra |
 | 2005 | F.E.A.R. | Published by Vivendi Universal Games[^ref-29] |
@@ -220,3 +221,4 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-31]: [Wikipedia — Leisure Suit Larry: Box Office Bust](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust) — engine Unreal Engine 3; 2009
 [^ref-32]: [Wikipedia — Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) — "developed by Tilted Mill Entertainment and published by Sierra Entertainment"; "features a three-dimensional game engine"
 [^ref-33]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — lists Grim Fandango (grim:grim) and Myst III: Exile (myst3:myst3); Gobliiins (gob:gob1), Goblins Quest 3 (gob:gob3), Lost in Time (gob:lit)
+[^ref-34]: [Wikipedia — Aliens versus Predator 2](https://en.wikipedia.org/wiki/Aliens_versus_Predator_2) — developer Monolith Productions; publishers Sierra On-Line and Fox Interactive; engine Lithtech Talon; Windows 2001
