@@ -2,7 +2,7 @@
 title: 'Babylon 5: Into the Fire'
 release_year: 1999
 developer: Yosemite Entertainment
-designer: [Randy Littlejohn, Christy Marx]
+designer: [Randy Littlejohn]
 publisher: Sierra Entertainment
 genre: Space Combat
 platforms: [Windows]
@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Proprietary (patent-pending inertial flight mode)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 composer: [Christopher Franke, Victor Crews]
 description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
   by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
@@ -18,7 +18,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -26,11 +26,12 @@ Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yo
 
 Development began in 1998 with the goal of creating what Sierra described as a "self-evolving universe" that would allow players to experience the major conflicts of the Babylon 5 timeline[^ref-3]. The game utilized ships based on the television show's original digital models, created in Lightwave 3D but optimized with lower polygon counts for real-time gameplay[^ref-1]. Sierra cited figures of up to 1,000 simultaneous ships in some battles[^ref-1], with over 60 unique ship models from Earth Alliance and alien factions[^ref-3][^ref-5].
 
-Tragically, despite being approximately 65% complete with all live-action sequences filmed[^ref-1][^ref-16], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105)[^ref-16][^ref-17]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
+Tragically, despite being approximately 65% complete[^ref-1][^ref-16], with live-action footage already filmed with the primary cast[^ref-2][^ref-4], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105)[^ref-16][^ref-17]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
-> **Designer:** Randy Littlejohn, [[Christy Marx]][^ref-2]
+> **Designer:** Randy Littlejohn[^ref-2]
+> **Writers:** Randy Littlejohn, [[Christy Marx]][^ref-2]
 > **Lead Programmer:** Dan Foy[^ref-16]
 > **Publisher:** Sierra Entertainment[^ref-1]
 > **Engine:** Proprietary, with a patent-pending inertial flight mode[^ref-5]
@@ -46,7 +47,7 @@ The game was set during a pivotal moment in the Babylon 5 timeline, beginning on
 
 The main storyline placed players after the conclusion of the devastating war against the Shadows, though an in-game simulator would have allowed players to experience combat against Shadow vessels[^ref-4]. Series creator J. Michael Straczynski described the game's ambitious scope: "The game would have allowed players to go through all of the major wars of the B5 universe—the Dilgar War, the Earth/Minbari War, the Shadow War and the Earth Civil War—with a chance of affecting the outcomes and dealing with the temporal stresses caused by that"[^ref-2].
 
-A 100-page script was developed for the game's narrative sequences[^ref-2]. The story allowed players to move up through the ranks of their chosen faction while experiencing both the game's original storyline and historic missions from the television series[^ref-3][^ref-4]. The narrative featured the return of major characters from the show, including President John Sheridan, Ambassador Delenn, Michael Garibaldi, and Captain Elizabeth Lochley, all portrayed by their original actors[^ref-2].
+A 100-page script was developed for the game's narrative sequences[^ref-2]. In single-player, players would fly for the Earth Alliance and "move up through the ranks", while the Minbari, Centauri, Narn and Drazi fighters were reserved for multiplayer[^ref-4][^ref-3]. Alongside the original storyline, some space battles from the television series were to be included as optional historic missions[^ref-3]. The narrative featured the return of major characters from the show, including President John Sheridan, Ambassador Delenn, Michael Garibaldi, and Captain Elizabeth Lochley, all portrayed by their original actors[^ref-2].
 
 ## Gameplay
 
@@ -58,12 +59,12 @@ The control system featured innovative mechanics such as the ability to lock cer
 
 ### Structure and Progression
 
-Players would progress through a military career structure, advancing through the ranks of their chosen faction[^ref-4][^ref-6]. The game was designed so that players did not need to be fans of the television series to enjoy the experience[^ref-3]. The structure included:
+Players would progress through a military career structure, rising through the ranks of the Earth Alliance (alien fighters were multiplayer-only)[^ref-4][^ref-3]. The game was designed so that players did not need to be fans of the television series to enjoy the experience[^ref-3]. The structure included:
 
 - **Campaign Mode:** A story-driven experience following the post-series timeline
-- **Historical Missions:** Recreations of major battles from the TV series including the Dilgar War, Earth/Minbari War, Shadow War, and Earth Civil War[^ref-2]
+- **Historical Missions:** Optional missions recreating space battles from the TV series[^ref-3]; Straczynski later said the game would have let players go through all the major wars of the B5 universe[^ref-2]
 - **Simulator Mode:** Practice missions including the opportunity to fight against Shadow ships[^ref-4]
-- **Multiplayer Mode:** A robust online component designed "from day one" according to development documentation[^ref-4]
+- **Multiplayer Mode:** A robust online component designed "from day one", according to the official site's FAQ[^ref-4]
 
 ### Ships and Combat
 
@@ -73,15 +74,11 @@ The game featured over 60 combat ships from various factions, including Earth Al
 
 ### Contemporary Reviews
 
-As Into the Fire was cancelled before release, it never received final review scores. However, preview coverage was enthusiastic. IGN's hands-on preview praised the space flight mechanics and the project's scope, and a short E3 1999 update reported that the release had slipped to early 2000 after the team was moved to Washington[^ref-3]. The game's multiplayer mode was demonstrated at both E3 1999 and GenCon, generating significant anticipation among Babylon 5 fans[^ref-4].
+As Into the Fire was cancelled before release, it never received final review scores. However, preview coverage was enthusiastic. IGN's hands-on preview praised the space flight mechanics and the project's scope, and a short E3 1999 update reported that the release had slipped to early 2000 after the team was moved to Washington[^ref-3]. The game's multiplayer mode was demonstrated at both E3 1999 and GenCon[^ref-4].
 
 ### Modern Assessment
 
-The surviving alpha version has been evaluated by preservationists and fans who have managed to run the incomplete build. The French abandonware site noted that the beta version is "assez capricieuse à faire tourner" (quite finicky to run), requiring period-appropriate hardware or carefully configured virtual machines[^ref-1]. Users on My Abandonware have rated the available alpha version 4.2/5 based on the playable content[^ref-7].
-
-**Aggregate Scores:**
-- **My Abandonware:** 4.2/5 (user ratings of the leaked alpha)[^ref-7]
-- **Unseen64:** 3.71/5 (user ratings of the cancelled game)[^ref-4]
+The surviving alpha version has been evaluated by preservationists and fans who have managed to run the incomplete build. The French abandonware site noted that the beta version is "assez capricieuse à faire tourner, mais elle est jouable" (quite finicky to run, but playable)[^ref-1]. One reader of The Digital Antiquarian reported having to build a Windows 98 virtual machine in PCem to try it[^ref-9].
 
 ## Development
 
@@ -139,7 +136,7 @@ The entire game represents cut content, as it was cancelled before completion. A
 
 ### Technical Issues
 
-The surviving alpha version is notoriously difficult to run on modern systems. Users report that the ISO file structure can be problematic[^ref-7], and one commenter noted a requirement to create a Windows 98 virtual machine using PCem to successfully run the technical demo[^ref-9]. The incomplete state of the alpha means that many features are non-functional or unstable.[^ref-15]
+The surviving alpha can be difficult to run on modern systems. One My Abandonware user reported that the ISO file was empty[^ref-7], and one commenter noted a requirement to create a Windows 98 virtual machine using PCem to run the technical demo[^ref-9]. Abandonware France nonetheless calls the beta finicky to run but playable, and notes that other ships can be flown by editing the B5.INI file[^ref-1].
 
 ### Easter Eggs and Trivia
 
@@ -148,9 +145,9 @@ The surviving alpha version is notoriously difficult to run on modern systems. U
 - Two tracks of Christopher Franke's game music were included on a separate music disc with "The Official Guide to Babylon 5" CD-ROM, the first product of the Sierra–Warner Bros. deal, released shortly after the October 1997 announcement[^ref-1][^ref-5]
 - Actress Suanne Braun, credited as D'Bok[^ref-2], described the unusual experience of being in full Narn makeup with thick contact lenses and not recognizing herself in the mirror[^ref-10]
 
-## Voice Cast
+## Cast
 
-| Character | Voice Actor |
+| Character | Actor |
 |-----------|-------------|
 | President John Sheridan | Bruce Boxleitner |
 | Michael Garibaldi | Jerry Doyle |
@@ -169,7 +166,7 @@ Four series leads—Bruce Boxleitner, Jerry Doyle, Mira Furlan and Tracy Scoggin
 
 ### Sales and Commercial Impact
 
-Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, four unnamed publishers reportedly showed interest in acquiring the project[^ref-1][^ref-16], and negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Forum discussions from the era suggest Sierra allegedly redirected funds from the project to a WWF tie-in game[^ref-6].
+Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, four unnamed publishers reportedly showed interest in acquiring the project[^ref-1][^ref-16], and negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Giant Bomb's wiki adds that a few of the developers set up their own company, Sector 14 Studios, and almost put together a deal to rework the game as an Xbox launch title; Sierra's owner Havas was at first unwilling to sell the rights, and by the time a fan campaign changed its mind it was too late for the Xbox launch, and Sector 14 could not secure other funding[^ref-15]. A 2014 forum post claims, unverified, that Sierra cancelled the game to move funds to a WWF tie-in game[^ref-6].
 
 ### Collections
 
@@ -177,25 +174,23 @@ The game was never released in any collection. The only publicly available versi
 
 ### Fan Projects
 
-Fans have pointed to "Babylon Project," a fan-based mod for FreeSpace that was later released as a standalone free game with the FreeSpace SCP (Source Code Project), as an alternative[^ref-7]. Additionally, "Babylon 5: I've Found Her" was developed as an independent fan game released in 2003[^ref-11].
+Fans have pointed to "Babylon Project," a fan-based mod for FreeSpace that was later released as a standalone free game with the FreeSpace SCP (Source Code Project), as an alternative[^ref-7]. Abandonware DOS lists a 2003 title, "Babylon 5: I've Found Her"[^ref-11], which a 2014 forum poster recalled as a fan-made game[^ref-6].
 
 ### Related Publications
 
 - **The Official Guide to Babylon 5 (CD-ROM, released shortly after the October 1997 announcement):** Its companion music disc included two tracks of Christopher Franke's music composed for Into the Fire[^ref-1][^ref-5]
-- **Promotional Materials:** Prototype flip box, poster, 3D lenticular mouse pad, wristwatch, and magnet were produced but never widely distributed[^ref-5]
+- **Promotional Materials:** Prototype flip box, poster, 3D lenticular mouse pad, wristwatch, and magnet were produced[^ref-5]
 - **Soundtrack CD:** A full soundtrack was produced with five tracks (each approximately 11 minutes 20 seconds), but only five copies were reportedly issued[^ref-8]
 
 ### Critical Perspective
 
-Babylon 5: Into the Fire stands as one of the most regretted casualties of the late 1990s consolidation in the gaming industry. The game represented a convergence of factors that should have guaranteed success: a beloved intellectual property with a dedicated fanbase, involvement from the original television cast and creative team, innovative technology, and a space combat genre that was still commercially viable in 1999[^ref-1][^ref-3].
+Jimmy Maher of The Digital Antiquarian calls Into the Fire "the most high-profile of the cancellations" among the space sims that died as the genre faded at the end of the 1990s[^ref-9]. It had the series' creator, composer and principal cast behind it[^ref-1][^ref-2].
 
 The cancellation came at a particularly unfortunate moment—the game was demonstrably playable and impressive at E3 1999, yet fell victim to Sierra's broader corporate troubles just months later[^ref-4][^ref-17]. As one forum commenter bitterly noted: "It's an absolute travesty that this was cancelled back then—I never forgave Sierra, who, I'm extremely glad to say went bust about 2 years later"[^ref-6].
 
 ## Downloads
 
-**Download / Preservation**
-- [My Abandonware – Alpha Version](https://www.myabandonware.com/game/babylon-5-into-the-fire-cky) - 202 MB download[^ref-7]
-- [X-Bomber Archive](https://xbomber.com/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) - Alpha versions and soundtrack information[^ref-8]
+Into the Fire was never released or sold. An unfinished alpha leaked online in 2014[^ref-1], and its unreleased soundtrack has also circulated[^ref-8]; SierraVault does not link to either.
 
 **Related Fan Games**
 - Babylon Project (FreeSpace mod/standalone) - Free alternative[^ref-7]
@@ -216,12 +211,12 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 [^ref-4]: [Unseen64 – Babylon 5: Into the Fire (Cancelled)](https://www.unseen64.net/2010/11/12/babylon-5-into-the-fire-pc-cancelled/) – cancellation details, E3/GenCon demonstrations, multiplayer information
 [^ref-5]: [Springbringer – Babylon 5: Into the Fire Blog](https://www.springbringer.com/web/fantasya/blog1.html) – promotional materials, alpha release information, Christopher Franke music details
 [^ref-6]: [Frontier Forums – Babylon 5: Into the Fire Discussion](https://forums.frontier.co.uk/threads/babylon-5-into-the-fire-abandoned-1999-space-game.61329/) – fan recollections, voice recording details, cast information
-[^ref-7]: [My Abandonware – Babylon 5: Into the Fire](https://www.myabandonware.com/game/babylon-5-into-the-fire-cky) – download information, user ratings, version details
-[^ref-8]: [X-Bomber – Babylon 5: Into the Fire Archive](https://xbomber.com/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) – soundtrack information, alpha downloads
-[^ref-9]: [The Digital Antiquarian – Space Sims Comments](https://www.filfre.net/2025/11/the-space-sims-last-hurrah/) – technical requirements for running demo
+[^ref-7]: My Abandonware – Babylon 5: Into the Fire (game page, myabandonware.com; read 2026-10-27; not linked because the page hosts the leaked alpha) – user ratings and user comments ("slow and fast" fighters, empty ISO, Babylon Project recommendation)
+[^ref-8]: X-Bomber – "Games - Babylon 5 Into the Fire" (Piers Bell, xbomber.com, 2020; read 2026-10-27; not linked because the page hosts the leaked soundtrack) – modular 30-second music themes, five-track soundtrack CD, "only 5 copies"
+[^ref-9]: [The Digital Antiquarian – The Space Sim's Last Hurrah (Jimmy Maher, 7 Nov 2025)](https://www.filfre.net/2025/11/the-space-sims-last-hurrah/) – "the most high-profile of the cancellations"; reader comment on running the demo in a PCem Windows 98 VM
 [^ref-10]: [B5TV Forums – Into the Fire Discussion](https://www.b5tv.com/threads/into-the-fire-aborted-video-game.42560/) – Suanne Braun (spelled "Brown" in the thread) on the Narn makeup, completion status
 [^ref-11]: [Abandonware DOS – Babylon 5 Games Search](https://www.abandonwaredos.com/search.php?search=Babylon+5%3A+Into+the+Fire) – reference to fan-made alternative
-[^ref-15]: [Giant Bomb – Babylon 5: Into the Fire](https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/) – video game database documentation of the cancelled title with development and production details
+[^ref-15]: [Giant Bomb – Babylon 5: Into the Fire](https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/) ([Wayback copy, 23 Nov 2022](http://web.archive.org/web/20221123093848/https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/)) – wiki overview: move to Bellevue, Sector 14 Studios' Xbox revival attempt, Havas and the rights
 [^ref-16]: [Wired – 'B5': Back B4 U Know It? (Oct 20, 1999)](https://www.wired.com/1999/10/b5-back-b4-u-know-it/) – September cancellation, 105 layoffs, lead programmer Dan Foy on 65% completion
 [^ref-17]: [IGN – Sierra Cancels Four Games, Postpones Another (Sep 22, 1999)](https://www.ign.com/articles/1999/09/22/sierra-cancels-four-games-postpones-another) – Babylon 5 among four cancelled titles; more than 100 laid off
 [^ref-18]: [J. Michael Straczynski – "B5: Into the Fire Cancelled" (b5jms archive, Sep 1999)](https://lists.fsl.cs.sunysb.edu/pipermail/b5jms/1999-September/003404.html) – JMS on the cancellation, relocation cost and WB licence timing
