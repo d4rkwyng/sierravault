@@ -4,11 +4,11 @@ type: publisher
 founded: 1923
 headquarters: "Burbank, California, United States"
 parent_company: "The Walt Disney Company"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Disney
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -16,15 +16,15 @@ The Walt Disney Company was founded in 1923 and is based in Burbank, California.
 
 ## Sierra Connection
 
-Around 1982, as Sierra's fame grew, big franchises including Jim Henson Associates and Disney approached the company about licensing deals.[^ref-6] In 1984 Sierra On-Line and Disney began a line of educational games, the first being Mickey's Space Adventure.[^ref-18][^ref-9] Sierra published the games and presented them as a Disney line; its 1987 catalogue said that "Teaming up with Sierra, Disney has used expertise gained from over 30 years in the school courseware market to produce a line of educational software products for the home market."[^ref-19] The Black Cauldron's box credited the game to Sierra "and the Walt Disney personal computer software staff".[^ref-20] A period review of the Apple II versions of Winnie the Pooh and Mickey's Space Adventure described both as Sierra releases and noted that their copyright notices named Walt Disney Productions.[^ref-21]
+Around 1982, as Sierra's fame grew, big franchises including Jim Henson Associates and Disney approached the company about licensing deals.[^ref-6] Sierra "actually bought the Disney license, with Disney's tacit approval, from Texas Instruments"; taking over the existing contract let Sierra "dodge Disney's usual huge upfront licensing fee", but it "paid dearly for the license on the back end via exorbitant royalties".[^ref-28] In 1984 Sierra On-Line and Disney began a line of educational games;[^ref-16][^ref-18] Mickey's Space Adventure, Winnie the Pooh in the Hundred Acre Wood and Donald Duck's Playground followed toward the end of 1984.[^ref-16][^ref-9][^ref-3][^ref-4][^ref-23] Sierra published the games and presented them as a Disney line; its 1987 catalogue said that "Teaming up with Sierra, Disney has used expertise gained from over 30 years in the school courseware market to produce a line of educational software products for the home market."[^ref-19] The Black Cauldron's box credited the game to Sierra "and the Walt Disney personal computer software staff".[^ref-20] A period review of the Apple II versions of Winnie the Pooh and Mickey's Space Adventure described both as Sierra releases and noted that their copyright notices named Walt Disney Productions.[^ref-21]
 
-Not every planned title shipped. Goofy's Word Factory was being worked on in July 1984 for the Apple II but was never released. Sierra's contract with Disney ended at the end of 1987, and Sierra stopped selling the Disney educational titles.[^ref-16]
+Not every planned title shipped. Goofy's Word Factory was being worked on in July 1984 for the Apple II but was never released. Sierra's contract with Disney ended at the end of 1987, and Sierra stopped selling the Disney educational titles.[^ref-16] The deal "resulted in only a handful of releases ... with most activity stopping well before the license itself actually expired."[^ref-28]
 
-The Black Cauldron (1986), based on the Disney film, came about because Disney asked [[Al Lowe]] for it. In Lowe's words, "Disney had no software developers back then and had seen my very early game, 'Troll's Tale.' They asked me to do a movie spinoff".[^ref-17] [[Roberta Williams]] later named The Black Cauldron as one of the two games she created "for somebody else", and said she "felt a little constrained".[^ref-22]
+The Black Cauldron (1986), based on the Disney film, came about because Disney asked [[Al Lowe]] for it. In Lowe's words, "Disney had no software developers back then and had seen my very early game, 'Troll's Tale.' They asked me to do a movie spinoff".[^ref-17] Jimmy Maher of The Digital Antiquarian describes it as "largely designed by Roberta and programmed, as usual, by Al Lowe".[^ref-28] [[Roberta Williams]] later named The Black Cauldron as one of the two games she created "for somebody else", and said she "felt a little constrained".[^ref-22]
 
-## Games Published (Sierra Archive)
+## Sierra games under the Disney licence
 
-- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Developer: Sierra On-Line[^ref-23]
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Developer: Sierra On-Line; U.S. Gold published the 1985 UK Commodore 64 release[^ref-23][^ref-27]
 - **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Developer: Sierra On-Line[^ref-3][^ref-15]
 - **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Developer: Sierra On-Line[^ref-4]
 - **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Developer: Sierra On-Line[^ref-24]
@@ -48,13 +48,14 @@ The games did not share one engine. ScummVM's engine tables class Mickey's Space
 [^ref-15]: [Internet Archive - Mickey Mouse Space Adventure (C64)](https://archive.org/details/d64_Mickey_Mouse_Space_Adventure_1988_Sierra) - Preservation; credits Sierra On-Line and Walt Disney Computer Software
 [^ref-16]: [Games That Weren't - Goofy's Word Factory](https://www.gamesthatwerent.com/gtw64/goofys-word-factory/) - Worked on in July 1984 but never shipped; "Sierra's contract with Disney ended at the end of 1987 and stopped selling their educational titles"
 [^ref-17]: [Al Lowe - Games](http://allowe.com/downloads/games.html) - Pooh "another game using my 'Troll's Tale' engine"; Disney asked Lowe to do The Black Cauldron
-[^ref-18]: [Retro365 - Disney titles by Sierra On-Line anno 1984](https://retro365.blog/2019/06/14/bits-from-my-personal-collection-sierras-disney-titles-anno-1984/) - "In 1984 Sierra On-Line with Roberta Williams partnered up with the Walt Disney studios"; Mickey's Space Adventure the first title
+[^ref-18]: [Retro365 - Disney titles by Sierra On-Line anno 1984](https://retro365.blog/2019/06/14/bits-from-my-personal-collection-sierras-disney-titles-anno-1984/) - "In 1984 Sierra On-Line with Roberta Williams partnered up with the Walt Disney studios"
 [^ref-19]: [Sierra 1987 Catalog (MOCAGH)](https://www.mocagh.org/sierra/sierra-87catalog.pdf) - Disney and Sierra educational line: Mickey's Space Adventure, Donald Duck's Playground, Winnie the Pooh
-[^ref-20]: [Eli's Software Encyclopedia - Black Cauldron (PC, 1985 box)](https://elisoftware.org/wiki/Black_Cauldron_(PC,_3_1/2%22_Disk)_Sierra_-_1985_USA,_Canada_Release) - Packaging text: "From Sierra, makers of the bestselling King's Quest adventure series, and the Walt Disney personal computer software staff"; publisher Sierra
+[^ref-20]: [Eli's Software Encyclopedia - Black Cauldron (PC, ©1985 box)](https://elisoftware.org/wiki/Black_Cauldron_(PC,_3_1/2%22_Disk)_Sierra_-_1985_USA,_Canada_Release) - Packaging text: "From Sierra, makers of the bestselling King's Quest adventure series, and the Walt Disney personal computer software staff"; publisher Sierra
 [^ref-21]: [Every Game Going - Apple User review, Vol 5 No 8, August 1985](https://www.everygamegoing.com/larticle/Winnie-The-Pooh-In-The-Hundred-Acre-Wood-Mickeys-Space-Adventure-000/40756) - Both games from Sierra; "All the copyright notices attribute copyright to Walt Disney Productions"
 [^ref-22]: [Kotaku - Roberta Williams interview](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) - "The couple of times I had created a game for somebody else was for Disney and The Jim Henson Company"
-[^ref-23]: [MobyGames - Donald Duck's Playground](https://www.mobygames.com/game/3491/donald-ducks-playground/) - Game entry (1984)
+[^ref-23]: [MobyGames - Donald Duck's Playground](https://www.mobygames.com/game/3491/donald-ducks-playground/) - Game entry (1984); C64 releases: Sierra On-Line (US, 1984), U.S. Gold Ltd. (UK, 1985), read via the MobyGames API
 [^ref-24]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) - Game entry (1986)
 [^ref-25]: [Wikipedia - The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company) - Founded 16 October 1923; headquarters Burbank, California
 [^ref-26]: [ScummVM - AGI engine detection tables](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) - "Mickey's Space Adventure // Preagi game"; Black Cauldron booters listed as AGI 1.12
-[^ref-27]: [Wikipedia - Donald Duck's Playground](https://en.wikipedia.org/wiki/Donald_Duck%27s_Playground) - "originally written for the Commodore 64 and subsequently ported to Sierra's AGI interpreter"
+[^ref-27]: [Wikipedia - Donald Duck's Playground](https://en.wikipedia.org/wiki/Donald_Duck%27s_Playground) - "originally written for the Commodore 64 and subsequently ported to Sierra's AGI interpreter"; infobox publishers Sierra On-Line and U.S. Gold
+[^ref-28]: [The Digital Antiquarian - Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) - Sierra bought the Disney licence from Texas Instruments; "most activity stopping well before the license itself actually expired"

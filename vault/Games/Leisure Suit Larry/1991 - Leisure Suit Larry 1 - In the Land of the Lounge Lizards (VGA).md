@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Christopher Braymen, Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -120,7 +120,7 @@ Some users have criticized the VGA remake compared to the original. MobyGames us
 
 The Leisure Suit Larry series has its roots in Sierra's 1981 text adventure Softporn Adventure, created by Chuck Benton.[^ref-11] This text-only game was remarkably successful for its time—at a point when Apple had only shipped 100,000 Apple II computers, Sierra had sold 25,000 copies of Softporn.[^ref-11] Time magazine even featured the game in their first computer entertainment column.[^ref-16]
 
-By the mid-1980s, Sierra CEO Ken Williams approached [[Al Lowe]] about updating Softporn with modern graphics. The timing coincided with Sierra losing their Disney license in 1986, leaving Lowe—who had been working on Disney educational titles—seeking a new project.[^ref-5] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Esquire: "I told Ken, 'This game is so out of touch it should be wearing a leisure suit.'"[^ref-20]
+By the mid-1980s, Sierra CEO Ken Williams approached [[Al Lowe]] about updating Softporn with modern graphics. The timing coincided with the winding down of Sierra's Disney license: most activity under it stopped well before the contract expired at the end of 1987, leaving Lowe—who had been working on Disney educational titles—seeking a new project.[^ref-5][^ref-45][^ref-46] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Esquire: "I told Ken, 'This game is so out of touch it should be wearing a leisure suit.'"[^ref-20]
 
 This offhand comment sparked the entire concept. Williams loved the idea, and Lowe set about reimagining the game with a comedic twist. Rather than a straight adaptation, Lowe decided to make the protagonist a "loser who thinks he's really with it but who really is out of it, who wants to be a ladies' man but never will be, naive, a little dumb, but still likable."[^ref-11] The character was designed so that "anybody playing the game would be able to feel superior to" him.[^ref-20]
 
@@ -366,3 +366,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 [^ref-43]: [GOG.com – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) – current digital store page, publisher Codemasters
 
 [^ref-44]: [Steam – Leisure Suit Larry 1 - In the Land of the Lounge Lizards](https://store.steampowered.com/app/763970/) – "no longer available on the Steam store"; VGA version offered as a beta branch
+
+[^ref-45]: [The Digital Antiquarian – Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Disney deal produced "only a handful of releases ... with most activity stopping well before the license itself actually expired"
+
+[^ref-46]: [Games That Weren't – Goofy's Word Factory](https://www.gamesthatwerent.com/gtw64/goofys-word-factory/) – "Sierra's contract with Disney ended at the end of 1987 and stopped selling their educational titles"
