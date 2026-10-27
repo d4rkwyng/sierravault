@@ -138,7 +138,7 @@ The project began with a week in which Cutter and Hallford hashed out the game a
 **Development Credits:**[^ref-24]
 
 - **Design, Director:** John Cutter[^ref-24]
-- **Lead Writer/Designer:** Neal Hallford
+- **Level / Scenario Design; Writing / Dialogue / Story (with Feist):** [[Neal Hallford]][^ref-24]
 - **Lead Programmer:** Nels Bruckner[^ref-28]
 - **Composer:** Jan Paul Moorhead[^ref-1][^ref-31]
 - **Box Cover Painting:** Roger Smith[^ref-30]

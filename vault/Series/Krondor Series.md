@@ -79,7 +79,7 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 
 - [[Dynamix]] — Developer of *Betrayal at Krondor*
 - [[John Cutter]] — Director and co-designer of *Betrayal at Krondor*
-- [[Neal Hallford]] — Co-designer of *Betrayal at Krondor*; credited writer on *Return to Krondor*
+- [[Neal Hallford]] — Co-designer of *Betrayal at Krondor*; credited with the "Original Story Concept" on *Return to Krondor*, and named with Cutter in its Special Thanks[^ref-25]
 - Raymond E. Feist — Author of the *Riftwar Cycle* novels (no vault page yet; not a Sierra employee)[^ref-17]
 - [[1993 - Betrayal at Krondor]], [[1997 - Betrayal in Antara]], [[1998 - Return to Krondor]] — Individual game pages
 
@@ -102,3 +102,4 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 [^ref-22]: [7th Level press release — 7th Level in Pact To Sell PyroTechnix to Sierra On-Line, December 8, 1997 (Wayback Machine)](https://web.archive.org/web/19980129181814/http://www.7thlevel.com/newpages/press/1997/19971208.html) — Agreement in principle to sell Cincinnati-based PyroTechnix with the Return to Krondor rights for $1.2 million
 [^ref-23]: [GameSpot News — New Releases, November 24, 1998 (Wayback Machine)](https://web.archive.org/web/20000606102406/http://headline.gamespot.com/news/98_11/24_pc_new/index.html) — Return to Krondor from Sierra among the week's new releases
 [^ref-24]: [Next Generation #12 (December 1995), Internet Archive](https://archive.org/details/NEXT_Generation_12/page/n27/mode/2up) — Dynamix stopped work on the Krondor sequel; Feist took Midkemia to 7th Level
+[^ref-25]: [MobyGames – Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
