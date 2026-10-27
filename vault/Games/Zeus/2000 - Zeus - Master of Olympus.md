@@ -10,14 +10,14 @@ series: City Building Series
 engine: Modified Caesar III engine
 protagonist: Player as Greek city governor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'Zeus: Master of Olympus is a city-building simulation game set in the
   mythological world of ancient Greece, released by Sierra Studios in October 2000....'
 tags: [2000s, city-building-series, sierra]
 ---
 # Zeus: Master of Olympus
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -121,7 +121,7 @@ Zeus "takes that well-tested game engine" of Caesar III and sets it in ancient G
 According to TV Tropes, the developer acknowledges in the manual a debt to late-night reruns of *Xena: Warrior Princess* for inspiration, evident in the game's sillier, campier tone compared with Caesar III and Pharaoh, and the gods appear and disappear with the same visual and sound effects as in *Xena*[^ref-28]. IGN enjoyed small touches like the "little guy slipping on oil at the olive vendor's stall" adding charm[^ref-5].
 
 **Development Credits:**[^ref-29]
-- **Director of Design and Development:** Chris Beatrice
+- **Designer:** Chris Beatrice (MobyGames credit;[^ref-9] his job title at Impressions at the time was Director of Design and Development, per HeavenGames[^ref-42])
 - **Writer:** Lisa Gagnon
 - **Producer:** Ken Parker
 - **Art Director:** Darrin Horbal
@@ -327,3 +327,4 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-39]: [VGMdb – Zeus Soundtrack](https://vgmdb.net/album/16067) – soundtrack rarity, mysterious origins
 [^ref-40]: [ModDB – HD Mod](https://www.moddb.com/mods/zeus-and-poseidon-full-hd-enfr/downloads/zeus-and-poseidon-full-hd-many-resolution) – JackFuste HD patch
 [^ref-41]: [Amazon – Prima Strategy Guide](https://www.amazon.com/Zeus-Master-Olympus-Official-Strategy/dp/0761531246) – guide description and quotes
+[^ref-42]: [Zeus Heaven (HeavenGames) – Chris Beatrice Interview](https://zeus.heavengames.com/interview-chris-beatrice/) – introduces Beatrice as "Director of Design and Development" at Impressions
