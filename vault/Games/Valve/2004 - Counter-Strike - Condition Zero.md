@@ -1,8 +1,7 @@
 ---
 title: 'Counter-Strike: Condition Zero'
 release_year: 2004
-developer: Valve Corporation, Turtle Rock Studios, Ritual Entertainment, Gearbox Software,
-  Rogue Entertainment
+developer: Valve Corporation, Turtle Rock Studios, Ritual Entertainment, Gearbox Software, Rogue Entertainment
 designer: [Michael Booth, Tom Mustaine]
 publisher: Sierra Entertainment, Valve Corporation
 genre: FPS
@@ -11,14 +10,14 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Counter-Terrorist Operative
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: 'Counter-Strike: Condition Zero is a tactical first-person shooter released
   in March 2004, representing the only game in the Counter-Strike franchise to...'
 tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Counter-Strike: Condition Zero
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -38,6 +37,8 @@ Despite its troubled gestation, the game sold 2.9 million copies at retail[^ref-
 > **Series:** Counter-Strike
 > **Protagonist:** Counter-Terrorist Operative
 > **Sierra Lineage:** Sierra Published
+
+The developer list above includes every studio that worked on the game. The shipped game is credited to Valve, Ritual Entertainment and Turtle Rock Studios; Gearbox Software's 2001–2002 version never shipped.[^ref-48][^ref-50]
 
 ## Story Summary
 
@@ -370,3 +371,4 @@ Its bot AI was one of the most praised aspects of the game,[^ref-2] and its crea
 [^ref-47]: [Wikipedia – Mike Booth](https://en.wikipedia.org/wiki/Mike_Booth) – Booth programmed the official CS bot, was project lead and lead designer on Condition Zero, later created Left 4 Dead's AI Director
 [^ref-48]: [MobyGames – Counter-Strike: Condition Zero Credits](https://www.mobygames.com/game/13487/counter-strike-condition-zero/credits/) – Valve, Turtle Rock (Michael S. Booth), Ritual and Sierra staff; Deleted Scenes game design Tom Mustaine, sound and music Zak Belica
 [^ref-49]: [ModDB – Counter-Strike: Condition Zero 25th Anniversary Patch](https://www.moddb.com/games/counter-strike-condition-zero/addons/counter-strike-condition-zero-25th-anniversary-patch) – fan menu/UI update with HD background and animated logo
+[^ref-50]: [Wikipedia – Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero) – infobox developers Ritual Entertainment, Turtle Rock Studios and Valve; Gearbox ceased development in July 2002

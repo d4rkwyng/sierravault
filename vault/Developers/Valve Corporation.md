@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Bellevue, Washington, United States"
 notable_games: ["Half-Life", "Counter-Strike", "Portal"]
 parent_company: null
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Valve Corporation
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Newell and Harrington founded Valve, L.L.C. in Kirkland, Washington, on August 2
 
 ### Sierra Era
 
-After struggling to find a publisher, Valve signed with Sierra On-Line.[^ref-16] Wikipedia dates the publishing agreement to 1997.[^ref-16] Its Sierra article says Ken Williams negotiated Sierra's exclusive rights to Half-Life with Valve's founders in November 1996 and debuted the game at E3 in May 1997.[^ref-26] No primary document dating the signing was found. Under the agreement, Sierra owned the Half-Life intellectual property and held exclusive publishing rights to future Valve games.[^ref-16] Sierra Studios published Half-Life for Windows on November 19, 1998.[^ref-23] Harrington sold his stake in Valve to Newell in 2000.[^ref-16]
+After struggling to find a publisher, Valve signed with Sierra On-Line.[^ref-16] Sources differ on the date: Wikipedia's Valve article gives 1997,[^ref-16] while its Sierra article dates the negotiation to November 1996, when Ken Williams secured Sierra's exclusive rights to Half-Life from Valve's founders; the game debuted at E3 in May 1997.[^ref-26] Under the agreement, Sierra owned the Half-Life intellectual property and held exclusive publishing rights to future Valve games.[^ref-16] Sierra Studios published Half-Life for Windows on November 19, 1998.[^ref-23] Harrington sold his stake in Valve to Newell in 2000.[^ref-16]
 
 On March 29, 2001, Valve signed a new Software Publishing Agreement with Sierra and its affiliates.[^ref-18] The amended deal gave Valve the Half-Life intellectual property and online distribution rights for its games. It licensed Sierra/Vivendi to distribute Valve games in the "Retail Channel" solely as "Retail Packaged Product."[^ref-16][^ref-18] Valve built Steam to distribute its games digitally and first showed it at the Game Developers Conference in March 2002. This was before any lawsuit was filed.[^ref-16][^ref-27]
 
@@ -34,7 +34,7 @@ On March 29, 2001, Valve signed a new Software Publishing Agreement with Sierra 
 
 - **August 14, 2002:** Valve filed suit against Sierra Entertainment in the U.S. District Court for the Western District of Washington (case 2:02-cv-01683, Judge Thomas S. Zilly), as a copyright infringement case.[^ref-19]
 - **The claims:** Sierra had been distributing Valve's games to Internet cafés, which Valve said its contract did not allow. Valve also claimed that Sierra/Vivendi withheld royalties and delayed Counter-Strike: Condition Zero so that it missed the Christmas 2003 retail season.[^ref-22][^ref-16] Vivendi countersued, seeking to void the publishing agreement and take ownership of the Half-Life intellectual property.[^ref-22] Wikipedia says the countersuit argued that Valve had misrepresented its Steam plans when the 2001 contract was signed.[^ref-16]
-- **November 22, 2004:** The court denied Sierra/Vivendi's motions for partial summary judgment and granted Valve's cross-motion. A written order on the cyber-café rights followed on December 14, 2004.[^ref-19] The court held that the license covered only "Retail Packaged Product" in the "Retail Channel", so it did not cover cyber cafés.[^ref-18]
+- **November 22, 2004:** The court denied Sierra/Vivendi's motions for partial summary judgment and granted Valve's cross-motions in whole or in part. A written order on the cyber-café rights followed on December 14, 2004.[^ref-19] The court held that the license covered only "Retail Packaged Product" in the "Retail Channel", so it did not cover cyber cafés.[^ref-18]
 - **April 12, 2005:** After Valve's motion of April 11, the court entered a stipulation and order for voluntary dismissal with prejudice.[^ref-19] MobyGames records the settlement on April 29, 2005. VU Games would stop distributing retail packaged versions of Valve's games from August 31, 2005, and only Valve's cyber-café licenses would remain valid.[^ref-5] In July 2005 Electronic Arts was announced as Valve's new distribution partner.[^ref-16]
 
 ### Steam and Independent Growth
@@ -43,7 +43,7 @@ Steam came out of beta on September 12, 2003. In November 2004 Half-Life 2 becam
 
 ### Recent Developments
 
-Valve released Half-Life: Alyx in 2020 and the Steam Deck handheld in 2022.[^ref-16] On November 12, 2025, it announced three new hardware products: a next-generation Steam Machine, a next-generation Steam Controller, and the Steam Frame VR headset.[^ref-6]
+Valve released Half-Life: Alyx in 2020 and the Steam Deck handheld in 2022.[^ref-16] On November 12, 2025, it announced three new hardware products: a next-generation Steam Machine, a next-generation Steam Controller, and the Steam Frame VR headset.[^ref-6] Valve opened Steam Machine pre-orders on June 22, 2026, starting at $1,050, with launch set for June 29, 2026.[^ref-31]
 
 ## Notable Games
 
@@ -53,7 +53,7 @@ In Half-Life the player controls Gordon Freeman, a theoretical physicist who mus
 
 ### Counter-Strike (2000)
 
-Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired its developers to make a standalone game, which Sierra Studios published in November 2000.[^ref-21][^ref-16] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
+Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired the game's intellectual property and partnered with Le and Cliffe to make a standalone game, which Sierra Studios published in November 2000.[^ref-21][^ref-16] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
 
 ### Portal (2007)
 
@@ -79,7 +79,8 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 
 ### In This Archive: Valve-Published
 
-- **2001** — [[2001 - Deathmatch Classic|Deathmatch Classic]] — Genre: Multiplayer Shooter (Valve free download, June 2001; later added to Half-Life by a Sierra patch)
+- **2000** — [[2000 - Ricochet|Ricochet]] — Genre: Multiplayer Shooter (developed and published by Valve, released November 1, 2000)[^ref-35]
+- **2001** — [[2001 - Deathmatch Classic|Deathmatch Classic]] — Genre: Multiplayer Shooter (released by Valve as a 13 MB download on June 7, 2001;[^ref-32][^ref-33] added to Half-Life by Sierra's 1.1.0.7 update on July 11, 2001[^ref-34])
 
 ### In This Archive: Sierra-Published Third-Party Games (Valve's GoldSrc Engine)
 
@@ -118,3 +119,8 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 [^ref-28]: [Wikipedia - Half-Life: Opposing Force](https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force) — "developed by Gearbox Software and published by Sierra On-Line"
 [^ref-29]: [Wikipedia - Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) — "developed by Gearbox Software and published by Sierra On-Line"
 [^ref-30]: [Wikipedia - Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) — Developer Rewolf Software, publisher Sierra Studios, GoldSrc engine
+[^ref-31]: [Road to VR - Steam Machine Launches Next Week Starting at $1,050](https://roadtovr.com/steam-machine-launches-next-week-starting-at-1050-hints-at-what-to-expect-from-steam-frames-launch/) — Scott Hayden, June 22, 2026: "Valve today announced that Steam Machine is now available for pre-orders, starting at $1,050, and will officially launch on June 29th"
+[^ref-32]: [Shacknews - Half-Life DMC Released (Wayback)](https://web.archive.org/web/20010818102626/http://shacknews.com:80/onearticle.x/14405/) — June 7, 2001: "the Windows version of the Deathmatch Classic mod for Half-Life has been released by Valve. It's a 13MB download"
+[^ref-33]: [GameSpot - Valve releases Deathmatch Classic mod for Half-Life (Wayback)](https://web.archive.org/web/20161022201459/http://www.gamespot.com/articles/valve-releases-deathmatch-classic-mod-for-half-life/1100-2771202/) — Trey Walker, June 7, 2001: "Valve Software has released its Deathmatch Classic Half-Life mod"; requires retail Half-Life
+[^ref-34]: [Sierra Studios - Half-Life News (Wayback, August 1, 2001)](https://web.archive.org/web/20010801165659/http://www.sierrastudios.com:80/games/half-life/news.html) — July 11, 2001: Half-Life 1.1.0.7 and Counter-Strike 1.0.0.2 updates "including the addition of Deathmatch Classic"
+[^ref-35]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) — Developer Valve, publisher Valve, release date November 1, 2000

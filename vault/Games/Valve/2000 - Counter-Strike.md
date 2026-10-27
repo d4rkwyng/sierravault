@@ -239,7 +239,7 @@ In Germany, Counter-Strike became embroiled in the "Killerspiele" (killer games)
 The Counter-Strike franchise expanded significantly after the original:
 
 - **Counter-Strike: Condition Zero** (2004): Single-player focused sequel developed by multiple studios including Gearbox Software, Ritual Entertainment, and Turtle Rock Studios[^ref-45]
-- **Counter-Strike: Source** (2004): Complete remake using Valve's new Source engine, released after Valve's legal dispute with Vivendi[^ref-46]
+- **Counter-Strike: Source** (2004): Complete remake using Valve's new Source engine, released on Steam on October 7, 2004, while Valve's legal dispute with Vivendi was still under way[^ref-46][^ref-64]
 - Later entries, Counter-Strike: Global Offensive (2012) and Counter-Strike 2 (2023), fall outside the Sierra-published era covered here.[^ref-7]
 
 ### Fan Projects
@@ -323,3 +323,4 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-61]: [Computer Gaming World #233 (December 2003), "The Creators of Counter-Strike," p. 107](https://archive.org/details/computer-gaming-world-issue-233-december-2003) – 1.5 million boxed copies sold, Jess Cliffe interview
 [^ref-62]: [Computer Gaming World #220 (November 2002), Hall of Fame, p. 110](https://archive.org/details/Computer_Gaming_World_Issue_220) – Counter-Strike inducted into the CGW Hall of Fame
 [^ref-63]: [Amazon – Half-Life: Counter-Strike (PC)](https://www.amazon.com/Half-Life-Counter-Strike-pc/dp/B000066B42) – manufacturer's product description
+[^ref-64]: [Steam News - Half-Life 2 Steam Offers Ready Now (Wayback)](https://web.archive.org/web/20050208205808/http://www.steampowered.com/index.php?area=news&archive=yes&id=327) – Valve, October 7, 2004: "Those who purchase via Steam, will receive the final version of Counter-Strike: Source immediately"
