@@ -10,7 +10,7 @@ series: Caesar
 engine: null
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Caesar is a 1992 city-building game developed and published by Impressions,
  casting the player as a Roman provincial governor; Sierra reissued it in 1996.
 tags: [1990s, caesar, impressions, sierra]
@@ -18,13 +18,13 @@ composer: [Christopher J. Denman]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Caesar is a city-building game first released on the Amiga in October 1992, with Atari ST, DOS and Macintosh versions following in 1992 and 1993[^ref-26][^ref-43]. It was developed and published by Impressions: the contemporary review boxes list Impressions as publisher, and MobyGames records Impressions as publisher of every 1992–93 release[^ref-2][^ref-43]. Sierra On-Line's name appears only on the 1996 "Sierra Originals" re-release and later budget editions, after Impressions had become a Sierra subsidiary[^ref-43][^ref-40]. As David Lester, founder of Impressions, reflected, "we produced and published some games that you may (or may not) have heard of... Caesar 1, 2 and 3, to name a few"[^ref-3].
 
-Ars Technica's 2015 history of the city-building genre credits the game as a first: "Impressions Software was first to apply the core SimCity formula to history, and it chose the most obvious subject matter"[^ref-5]. The same article argues that "Caesar was far more than a reskinned, muddier-looking SimCity", because it added a key trapping of ancient Rome: war[^ref-5].
+Ars Technica's 2015 history of the city-building genre credits the game as a first: "Impressions Software was first to apply the core SimCity formula to history, and it chose the most obvious subject matter"[^ref-5]. The same article argues that "Caesar was far more than a reskinned, muddier-looking SimCity", but it added a key trapping of ancient Rome: war[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-43]
@@ -67,7 +67,7 @@ City planning follows a set of land-value rules: forums, temples, hospitals and 
 
 ### Contemporary Reviews
 
-Caesar was well received by the Amiga press in particular, with several British and Italian magazines scoring it above 90%[^ref-27].
+Caesar was well received by the Amiga press in particular, with three British magazines scoring it above 90% and a Swedish magazine giving the Atari ST version 98.25%[^ref-27].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -99,13 +99,13 @@ Bradbury worked for Impressions on a freelance basis. As he explained, "I always
 
 ### Production
 
-Impressions developed the Roman battle game Cohort 2 alongside Caesar, and Cohort 2 could load Caesar save files to play out its battles[^ref-26]. Sierra's 1996 annual report lists Impressions Software, Inc. as a wholly owned subsidiary and describes the series: "The player becomes the protege of the great Julius Caesar and is taken back to the days of the Roman Empire. Creativity and realism are two of the attractive characteristics of this series. The Company has sold more than 400,000 copies of this product series"[^ref-40]. That figure covers the series by March 1996, which Wikipedia reads as Caesar and Caesar II combined[^ref-26].
+Impressions developed the Roman battle game Cohort 2 alongside Caesar, and Cohort 2 could load Caesar save files to play out its battles[^ref-26]. Sierra's 1996 annual report lists Impressions Software, Inc. among its subsidiaries and describes the series: "The player becomes the protege of the great Julius Caesar and is taken back to the days of the Roman Empire. Creativity and realism are two of the attractive characteristics of this series. The Company has sold more than 400,000 copies of this product series"[^ref-40]. That figure covers the series by March 1996, which Wikipedia reads as Caesar and Caesar II combined[^ref-26].
 
 ### Technical Achievements
 
 The DOS version requires at least 590K of free conventional memory, runs in 256-colour VGA at 320x200, and supports AdLib and Sound Blaster audio[^ref-54]. It shipped on two 1.44MB or three 720kB 3.5" disks; a 1993 revision added pop-up information on icons, a mini-map and balance tweaks[^ref-54].
 
-An enhanced version, Caesar Deluxe, automatically launched a version of Cohort 2 whenever the player engaged in battle[^ref-26]. Amiga Format reviewed it in November 1993 as "only a very slight upgrade" to the original, priced at £14.99 for owners[^ref-28].
+An updated Caesar Deluxe followed in 1993; Amiga Power's October 1993 review still pointed battle-minded players to the separately sold Cohort 2[^ref-2]. Amiga Format reviewed it in November 1993 as "only a very slight upgrade" to the original, priced at £14.99 for owners[^ref-28].
 
 ## Legacy
 
@@ -124,7 +124,7 @@ The sequels carried the series further. Chris Beatrice has said that Caesar II's
 - [[1998 - Caesar III]]
 - [[2006 - Caesar IV]]
 
-Caesar is the first game in Impressions' Caesar series of city-building games. The series began with Caesar (1992) and continued with Caesar II (1995), Caesar III (1998) and Caesar IV (2006), each keeping the Roman setting.
+Caesar is the first game in the Caesar series of city-building games. The series began with Caesar (1992) and continued with Caesar II (1995), Caesar III (1998) and Caesar IV (2006), each keeping the Roman setting.
 **Previous:** None (first game in the series)
 **Next:** [[1995 - Caesar II]]
 
