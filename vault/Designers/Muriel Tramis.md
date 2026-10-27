@@ -5,23 +5,23 @@ birth_year: 1958
 death_year: null
 notable_games: ["Freedom: Rebels in the Darkness", "Méwilo", "Gobliiins", "Lost in Time"]
 companies: ["Coktel Vision", "Tomahawk", "Avantilles"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Muriel Tramis
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Muriel Tramis is recognized as the first credited Black female game designer.[^ref-4] Born in 1958 in Fort-de-France, Martinique,[^ref-2] she made adventure games that took on themes the industry usually left alone, such as colonisation and slavery.[^ref-11] She joined Coktel Vision in 1986 and quickly became the studio's leading talent, earning the informal title of "the Roberta Williams of France."[^ref-3]
+Muriel Tramis is recognized as the first credited Black female game designer.[^ref-4] Born in 1958 in Fort-de-France, Martinique,[^ref-2] she made adventure games that took on themes the industry usually left alone, such as colonisation and slavery.[^ref-11] She joined Coktel Vision in 1986 and quickly became the studio's leading talent, earning the informal title of "the Roberta Williams of France."[^ref-3] Tramis herself has said: "I've often been compared to Roberta Williams."[^ref-8]
 
-Tramis describes her approach to design simply: "I don't design a game for a particular message or meaning. I create what I think would be fun. Games are meant to be enjoyable, and if you learn something along the way, that's great."[^ref-4] Her best-known works include "Méwilo" (1987) and "Freedom: Rebels in the Darkness" (1988),[^ref-5] and she co-created the Gobliiins series with Pierre Gilhodes.[^ref-3] As USC Games put it, while her design philosophy begins with the joy of play, "her games often spark deeper conversations about real-world issues."[^ref-4]
+Tramis describes her approach to design simply: "I don't design a game for a particular message or meaning. I create what I think would be fun. Games are meant to be enjoyable, and if you learn something along the way, that's great."[^ref-4] Phil Salvador of The Obscuritory notes that although she is best known for adventure games such as The Bizarre Adventures of Woodruff and the Schnibble and the Gobliiins series, her earlier games, "Méwilo" (1987) and "Freedom: Rebels in the Darkness" (1988), are "more provocative."[^ref-5] She co-created the Gobliiins series with Pierre Gilhodes.[^ref-3] As USC Games put it, while her design philosophy begins with the joy of play, "her games often spark deeper conversations about real-world issues."[^ref-4]
 
 ## Career
 
 ### Early Career and Education
 
-Tramis was born in 1958 in Fort-de-France, Martinique, where she attended school at the convent of the Sisters of St. Joseph of Cluny and then at the Seminary College.[^ref-2] She moved to Paris to study engineering at ISEP (Institut supérieur d'électronique de Paris) from 1975 to 1981, specialising in her final year in automatic control and computer science; her final-year project was carried out at the CNET (Centre national d'études des télécommunications) in Bagneux.[^ref-7]
+Tramis was born in 1958 in Fort-de-France, Martinique,[^ref-2] and left for France after obtaining a scientific baccalaureate at the age of 16.[^ref-17] She moved to Paris to study engineering at ISEP (Institut supérieur d'électronique de Paris) from 1975 to 1981, specialising in her final year in automatic control and computer science; her final-year project was carried out at the CNET (Centre national d'études des télécommunications) in Bagneux.[^ref-7]
 
 Before entering the gaming industry, Tramis spent five years at Aérospatiale, where she was responsible for optimizing maintenance procedures for unmanned aerial vehicles (UAVs) in addition to handling remotely piloted aircraft used in missile fire tests and anti-ship missiles.[^ref-2] She then wanted "more peaceful activities": "I found that images could convey strong messages, for example, in advertising. I wanted to use them for ludic purposes."[^ref-8] It was during a marketing course that she met the Coktel Vision studio.[^ref-19][^ref-17]
 
@@ -33,15 +33,15 @@ Her debut came in 1987 with "Méwilo," created in collaboration with créolité 
 
 Tramis then directed "Freedom: Rebels in the Darkness" in 1988,[^ref-2] a game that Phil Salvador of The Obscuritory describes as still shocking today: "Freedom still shocks today, and that it debuted the same year as Super Mario Bros. 2 is almost unfathomable in the traditional framework of game history and culture."[^ref-5]
 
-Through the late 1980s and 1990s, Tramis worked on most of Coktel's adventure games, in roles ranging from conception and scenario writing to project management.[^ref-17] With Pierre Gilhodes, she co-created the Gobliiins series.[^ref-3] She also created the Adibou educational series,[^ref-19] which had sold over 1.5 million copies by 1997; by 1993 Adibou covered 65% of the French edutainment market and 35% of the European market, rising to 75% in France by 1996.[^ref-3]
+Through the late 1980s and 1990s, Tramis worked on most of Coktel's adventure games, in roles ranging from conception and scenario writing to project management.[^ref-17] With Pierre Gilhodes, she co-created the Gobliiins series.[^ref-3] La Croix calls her the creator of [[1992 - A.J.'s World of Discovery|Adibou]]; other sources credit Roland Oskian and Manuelle Mauger.[^ref-19][^ref-21] The Adibou series had sold over 1.5 million copies by 1997; by 1993 Adibou covered 65% of the French edutainment market and 35% of the European market, rising to 75% in France by 1996.[^ref-3]
 
-Sierra On-Line's acquisition of Coktel Vision, finalised in October 1993, opened the studio to international distribution.[^ref-3] As Tramis explained: "We benefited from an expanded sales and marketing environment, as our product catalog grew but it was positive because we opened up to the world."[^ref-8]
+Sierra On-Line's acquisition of Coktel Vision, finalised in October 1993, widened the studio's international distribution.[^ref-3] As Tramis explained: "We benefited from an expanded sales and marketing environment, as our product catalog grew but it was positive because we opened up to the world."[^ref-8]
 
 ### Avantilles Era (2003–Present)
 
 In 2003, following new management's decision to subcontract some of Coktel's major titles, Tramis departed and founded Avantilles, a company specializing in real-time 3D applications for the web.[^ref-2][^ref-3]
 
-Recent years have brought increasing recognition for Tramis's pioneering role in gaming history. In February 2025, she became the first recipient of the USC Games Lifetime Achievement Award.[^ref-4] In March 2025, the IGDA Foundation named her the recipient of its Gerald Lawson Award for Achievement in Game Development, to be presented at the Game Developers Conference on March 18.[^ref-13] Her current project, "Remembrance," explores the history of Martinique as a French colony through the story of several generations of a family both before and after slavery.[^ref-4]
+Recent years have brought increasing recognition for Tramis's pioneering role in gaming history. In February 2025, she became the first recipient of the USC Games Lifetime Achievement Award.[^ref-4] In March 2025, the IGDA Foundation named her the recipient of its Gerald Lawson Award for Achievement in Game Development, to be presented at the Game Developers Conference on March 18.[^ref-13][^ref-23] Her current project, "Remembrance," explores the history of Martinique as a French colony through the story of several generations of a family both before and after slavery.[^ref-4]
 
 ## Notable Works
 
@@ -51,7 +51,7 @@ Tramis's debut game drew from the legend of the golden jars in Martinique—a da
 
 ### Freedom: Rebels in the Darkness (1988)
 
-Freedom tackled slavery head-on, combining adventure and strategy elements as players lead a slave revolt against plantation owners.[^ref-1] Released the same year as Super Mario Bros. 2, the game represented a completely different vision of what video games could be.[^ref-5]
+Freedom tackled slavery head-on, combining adventure and strategy elements as players lead a slave revolt against plantation owners.[^ref-1][^ref-2] Released the same year as Super Mario Bros. 2, the game represented a completely different vision of what video games could be.[^ref-5]
 
 ### Gobliiins Series (1991–1993)
 
@@ -75,10 +75,10 @@ Tramis also advocates strongly for women in the gaming industry: "Women are 50% 
 
 ## Awards and Honors
 
-- **Chevalier de la Légion d'Honneur** (decree of July 13, 2018) — Presented at the opening of Paris Games Week on October 25, 2018. She is the first woman, and the second games-industry figure after David Cage, to receive this distinction.[^ref-2][^ref-12][^ref-19]
+- **Chevalier de la Légion d'Honneur** (decree of July 13, 2018) — Presented at the opening of Paris Games Week on October 25, 2018. She is the first woman from the games industry to receive this distinction.[^ref-7][^ref-19] La Croix and Game Developer called her the second games-industry figure after David Cage (2014),[^ref-12][^ref-19] but Yves Guillemot had been made chevalier on 14 July 2016;[^ref-22] French Wikipedia counts her as the third.[^ref-7]
 - **Pégase d'honneur** (March 7, 2024) — Prix d'honneur for her whole career at the Pégases, the French video game awards modelled on the César awards.[^ref-15]
 - **USC Games Lifetime Achievement Award** (February 2025) — First recipient of this inaugural award.[^ref-4]
-- **Gerald Lawson Award for Achievement in Game Development** (2025) — Named by the IGDA Foundation for presentation at the Game Developers Conference on March 18, 2025; the award honors "underrepresented minorities in the game development community."[^ref-13]
+- **Gerald Lawson Award for Achievement in Game Development** (2025) — Named by the IGDA Foundation for presentation at the Game Developers Conference on March 18, 2025; the award honors "underrepresented minorities in the game development community."[^ref-13][^ref-23]
 - **Silver Medal, City of Paris department of culture** (1987) — For Méwilo's exploration of French-Caribbean culture, one of the first video games to win an award for artistic merit from outside the industry.[^ref-10][^ref-17]
 
 ## Legacy
@@ -93,11 +93,12 @@ Credits per MobyGames unless noted.[^ref-17]
 
 ### Coktel Vision Era (1986–2003)
 
-- 1987 — Méwilo — Author
-- 1988 — Freedom: Rebels in the Darkness — Production (Réalisation)
+- **1987** — Méwilo — Role: Author
+- **1988** — Freedom: Rebels in the Darkness — Role: Production (Réalisation)
 - **1989** — Asterix: Operation Getafix — Role: Conception
-- **1989** — Emmanuelle — Role: Scenario
+- **1989** — Emmanuelle — Role: Scenario; Texts; Production (Réalisation)[^ref-24]
 - **1989** — Legend of Djel — Role: Design (with Joseph Kluytmans)
+- **1989** — Oliver & Compagnie — Role: Conception
 - **1990** — Cougar Force — Role: Project Manager
 - **1990** — Geisha — Role: Author
 - **1991** — [[1991 - Fascination|Fascination]] — Role: Conception
@@ -107,7 +108,7 @@ Credits per MobyGames unless noted.[^ref-17]
 - **1992** — [[1992 - Inca|Inca]] — Role: Project Manager
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Role: Created by, Project Manager
 - **1993** — [[1993 - Lost in Time|Lost in Time]] — Role: Creation/Project Manager
-- **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Role: Project Leader; Writing / Dialogue / Story
+- **1995** (Europe: December 1994) — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Role: Project Leader; Writing / Dialogue / Story
 - **1996** — [[1996 - Urban Runner|Urban Runner]] — Role: Game Play (MobyGames); director per Crystal Dynamics[^ref-9]
 
 ### Post-Coktel Era (2003–Present)
@@ -130,10 +131,14 @@ Credits per MobyGames unless noted.[^ref-17]
 [^ref-11]: [3DVF French Interview](https://3dvf.com/actualite-19520-nostalgie-rencontre-avec-muriel-tramis-pionniere-jeu-video-html/) — Themes "souvent délaissés par le secteur, comme la colonisation ou l'esclavage"
 [^ref-12]: [Game Developer](https://www.gamedeveloper.com/design/french-game-designer-muriel-tramis-awarded-legion-of-honor) — Legion of Honor award coverage, 2018; second games-industry personality after David Cage
 [^ref-13]: [Pixelkin - IGDA Foundation](https://pixelkin.org/2025/03/07/igda-foundation-to-honor-first-black-woman-game-designer-muriel-tramis/) — Gerald Lawson Award announcement, March 7, 2025
-[^ref-14]: [Intellect Discover](https://intellectdiscover.com/content/journals/10.1386/jgvw_00070_1) — Academic article on her work
+[^ref-14]: [Filip Jankowski, "Digital games and the category of auteur: The case of Muriel Tramis", Journal of Gaming & Virtual Worlds 15(1), May 2023, pp. 61–77](https://intellectdiscover.com/content/journals/10.1386/jgvw_00070_1) — Academic article on her work (Intellect)
 [^ref-15]: [CNC - Le palmarès complet des Pégases 2024](https://www.cnc.fr/jeu-video/actualites/le-palmares-complet-des-pegases-2024_2146156) — Prix d'honneur "pour l'ensemble de sa carrière", ceremony of March 7, 2024
 [^ref-16]: [Adventure Gamers Blog](https://advgamer.blogspot.com/2017/04/call-for-questions-for-muriel-tramis.html) — Background article discussing her significance as a Martinican designer
 [^ref-17]: [MobyGames - Muriel Tramis (Wayback, 2023-11-03)](https://web.archive.org/web/20231103085847/https://www.mobygames.com/person/10719/muriel-tramis/) — credits list and biography; "La médaille d'Argent de la ville de Paris" for Méwilo; studied communication after leaving Aérospatiale in 1986
-[^ref-18]: [Eurogamer - Ten unsung gaming heroes (2011)](https://www.eurogamer.net/articles/2011-11-30-ten-unsung-gaming-heroes-article) — Méwilo "won a medal from Paris' department of culture for its artistic merit"
+[^ref-18]: [Eurogamer - Ten unsung gaming heroes (2011)](https://www.eurogamer.net/ten-unsung-gaming-heroes-article) — Méwilo "won a medal from Paris' department of culture for its artistic merit"
 [^ref-19]: [La Croix - Muriel Tramis, créatrice d'Adibou, va recevoir la Légion d'honneur (Wayback, 2019)](https://web.archive.org/web/20190903145828/https://actualite-jeu-video.blogs.la-croix.com/muriel-tramis-creatrice-dadibou-va-recevoir-la-legion-dhonneur/2018/07/19/) — Adibou's creator; decree of 13 July 2018; first woman and second French personality after David Cage; met Coktel during a marketing course
 [^ref-20]: [MobyGames - Gobliiins 4 credits (Wayback, 2016-07-07)](http://web.archive.org/web/20160707233658/http://www.mobygames.com:80/game/windows/gobliiins-4/credits) — "Thank you to Muriel Tramis (co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4.)"
+[^ref-21]: [Konbini - Dix bails sur Adibou que tu n'as (peut-être) jamais entendus](https://www.konbini.com/techno/dix-bails-sur-adibou-que-tu-nas-peut-etre-jamais-entendus/) — calls Roland Oskian "le cocréateur du jeu" and Manuelle Mauger "la cocréatrice"; also calls Tramis "la conceptrice du jeu"
+[^ref-22]: [Gameblog - Yves Guillemot patron d'Ubisoft, nommé Chevalier de la Légion d'Honneur (19 August 2016)](https://www.gameblog.fr/news/61503-yves-guillemot-patron-d-ubisoft-nomme-chevalier-de-la-legion) — Guillemot "décoré par l'Ordre national de la Légion d'honneur le 14 juillet dernier"; David Cage's 2014 award "la toute première"
+[^ref-23]: [IGDA Foundation - 2025 Gerald Lawson Award Winner: Muriel Tramis](https://www.igdafoundation.org/news/a/2025-gerald-lawson-award-winner-muriel-tramis) — "The award will be presented during GDC at GamesBeat's Crossfire Lounge event taking place on Tuesday, March 18"
+[^ref-24]: [MobyGames - Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) — DOS credits: Scenario, Texts (Textes) and Production (Réalisation) Muriel Tramis

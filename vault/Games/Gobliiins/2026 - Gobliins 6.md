@@ -11,7 +11,7 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D point-and-click puzzle adventure and a direct
   sequel to *Gobliins 2: The Prince Buffoon*, reuniting the goblin duo Fingus and Winkle...'
 tags: [adventure, gobliiins, puzzle, sierra]
@@ -19,7 +19,7 @@ composer: [Butterfly Tea Music]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -166,7 +166,7 @@ Wikipedia counts six games in the series. The "Goblins" column follows the "i" c
 
 ### Pierre Gilhodes' Role
 
-Gilhodes created the visual look of the series and its characters at Coktel Vision, and his style was also used in *The Bizarre Adventures of Woodruff and the Schnibble*.[^ref-4] *Gobliiins 4* (2009) was designed by Gilhodes and Muriel Tramis and developed by Société Pollene.[^ref-4] With *Gobliiins 5* and *Gobliins 6* he has continued the series independently, self-publishing on itch.io and Steam under the Schnibble Productions name.[^ref-5][^ref-14][^ref-24]
+Gilhodes created the visual look of the series and its characters at Coktel Vision, and his style was also used in *The Bizarre Adventures of Woodruff and the Schnibble*.[^ref-4] *Gobliiins 4* (2009) was designed by Gilhodes and developed by Société Pollene; [[Muriel Tramis]] has only a thanks credit, as "co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4."[^ref-30] With *Gobliiins 5* and *Gobliins 6* he has continued the series independently, self-publishing on itch.io and Steam under the Schnibble Productions name.[^ref-5][^ref-14][^ref-24]
 
 ## Downloads
 
@@ -211,3 +211,4 @@ Gilhodes created the visual look of the series and its characters at Coktel Visi
 [^ref-27]: [itch.io – GOBLiiNS6 (Wayback Machine, February 10, 2026)](https://web.archive.org/web/20260210173355/https://pierre-gilhodes.itch.io/gobliins6) – "Buy Now $10.00", Status Released; Gilhodes comment: "The executable is too heavy, they must add more space"
 [^ref-28]: [Kickstarter – Gobliins 6 Update #4: GOBLiiNS6 Progress](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4355384) – April 6, 2025: "75% of the game is almost finished"; levels 13–15; English translation by Carole
 [^ref-29]: [Kickstarter – Gobliins 6 Update #1: Info Gobliins6](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4237007) – October 29, 2024: "Due to the funding difficulties on both platforms…"
+[^ref-30]: [MobyGames – Gobliiins 4 credits (Wayback Machine, July 7, 2016)](http://web.archive.org/web/20160707233658/http://www.mobygames.com:80/game/windows/gobliiins-4/credits) – "Designed by Pierre Gilhodes, Société Pollene"; "Thank you to Muriel Tramis (co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4.)"
