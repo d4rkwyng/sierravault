@@ -10,23 +10,25 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Christopher Stevens]
 description: 3-D Ultra Lionel TrainTown Deluxe is a stand-alone 2000 reissue of the 1999
   railroading puzzle game 3-D Ultra Lionel TrainTown, developed by Dynamix and published
   by Sierra Attractions for Windows, adding more jobs, three new worlds and a track editor.
 tags: [2000s, 3d-ultra, puzzle, sierra]
-last_modified: 2026-10-11T14:30:47-06:00
+last_modified: 2026-10-27T11:30:00-06:00
 ---
 # 3-D Ultra Lionel TrainTown Deluxe
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 3-D Ultra Lionel TrainTown Deluxe is a railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows, released on September 30, 2000[^ref-9][^ref-23][^ref-15]. It is a stand-alone reissue of [[1999 - 3-D Ultra Lionel TrainTown]]: the D.I.C.E. database describes it as enhancing "the previous game by adding 50 new missions and a new track creation system"[^ref-8]. A modern retrospective sums it up as an enhanced version "that has more levels than the standard version and a level editor"[^ref-2].
 
-The Deluxe box promises "more than 80 jobs, from building an Eiffel Tower at the North Pole, to feeding a baby T-Rex, to rescuing a crashed UFO," set across "10 fantastic worlds"[^ref-25]. Review Corner's contemporary review counted "80+ puzzles, 3 new train worlds (for a total of 10), and a newly designed track layout system"[^ref-27]. The game was designed for anyone but, in ModDB's words, "will mostly appeal to those interested in trains and/or puzzles"[^ref-17].
+The Deluxe box promises "more than 80 jobs, from building an Eiffel Tower at the North Pole, to feeding a baby T-Rex, to rescuing a crashed UFO," set across "10 fantastic worlds"[^ref-25]. Review Corner's contemporary review counted "80+ puzzles, 3 new train worlds (for a total of 10), and a newly designed track layout system"[^ref-27]. ModDB's blurb, written for the original game, says it "is designed for anyone but will mostly appeal to those interested in trains and/or puzzles"[^ref-17].
+
+The publisher's description, quoted on MyAbandonware, says: "3-D Ultra Lionel Traintown Deluxe may well be everything both a parent and a child could want. It's engaging, well designed, and informative. Best of all, playing it is a lot of fun"[^ref-13].
 
 For the original game's history, the 1999 Interactive Achievement Award and its reception, see [[1999 - 3-D Ultra Lionel TrainTown]].
 
@@ -70,7 +72,7 @@ The main new feature is the Layout Tinkerer, a new job bin for building your own
 
 ### Puzzles and Mechanics
 
-Most jobs mean picking up and delivering loads with freight and passenger cars, while dealing with switches, semaphores, broken track and oncoming trains[^ref-2]. Hazards include rockslides, avalanches and animals on the track[^ref-11][^ref-17]. Job types carried over from the original include:
+Most jobs mean picking up and delivering loads with various wagons that each carry a certain type of cargo, while dealing with switches, semaphores, broken track and oncoming trains[^ref-2]. Hazards include rockslides, avalanches and animals on the track[^ref-11][^ref-17]. Job types carried over from the original include:
 
 **School Daze:** Players line up train cars "just so" to form valid mathematical equations[^ref-27]. TV Tropes, describing the original, says the levels range up to fourth grade[^ref-12], while Wikipedia says kindergarten to fifth grade[^ref-9]. IGN's guide explains the difference: the original's fifth-grade School Daze job was "taken out of the Deluxe version and 5th Grade was relabeled 4th"[^ref-11].
 
@@ -84,11 +86,9 @@ Most jobs mean picking up and delivering loads with freight and passenger cars, 
 
 Review Corner (reviewed November 2000) scored Deluxe 9.6 out of 10 and called it "extraordinarily fun and provides an excellent workout for the brain at the same time"[^ref-27]. It added that "You don't have to be a train buff to enjoy the program's variety of puzzles, zany missions, and gorgeous graphics." The site put the game on its Best Children's Educational Software list and gave it its Award of Excellence[^ref-27].
 
-The publisher's description, quoted on MyAbandonware, says: "3-D Ultra Lionel Traintown Deluxe may well be everything both a parent and a child could want. It's engaging, well designed, and informative. Best of all, playing it is a lot of fun"[^ref-13].
-
 ### Awards
 
-Deluxe itself won no award. The award belongs to the **original** game. D.I.C.E. calls Deluxe "a stand-alone reissue of 3D Ultra Train Town, which was voted '2000 Family Game of the Year'"[^ref-8]. The original won PC Family Entertainment Title of the Year at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000 at E3[^ref-26]. See [[1999 - 3-D Ultra Lionel TrainTown]].
+Deluxe itself won no award. The award belongs to the **original** game. D.I.C.E. calls Deluxe "a stand-alone reissue of 3D Ultra Train Town, which was voted '2000 Family Game of the Year'"[^ref-8]. The original won PC Family Entertainment Title of the Year at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000 in Los Angeles during E3 2000[^ref-26]. See [[1999 - 3-D Ultra Lionel TrainTown]].
 
 ### Modern Assessment
 
@@ -96,7 +96,7 @@ Forum user sb1254 gave Deluxe 9/10, writing "This game is a recommendation from 
 
 GameFAQs reviewer spiceworm (2024) gave it 6/10, writing "The easy controls and fun puzzles were a chilled and much more relaxing way for me to spend my hours gaming." They faulted the lack of checkpoints: "I would have liked a checkpoint feature of some type, as I found that failing a mission at the half-hour point or right near the end was very frustrating"[^ref-15].
 
-Mex's Articles and Reviews (2025) praised the game's variety and voice acting. The reviewer disliked the mix of realistic towns with toy-train settings, saying "This mix breaks the immersion"[^ref-2].
+Mex's Articles and Reviews (2025) scored it 7.5 out of 10 and praised the game's variety and voice acting. The reviewer disliked the mix of realistic towns with toy-train settings, saying "This mix breaks the immersion"[^ref-2].
 
 **User Ratings:**
 - **MyAbandonware:** 4.41/5 (46 votes, as of October 2026)[^ref-13]
@@ -122,7 +122,7 @@ Much of the game's material comes from the 1999 original:
 
 Review Corner also lists Windows 95/98/2000 and DirectX 7.0, and gives a retail price of $29.95 US[^ref-27]. The box product ID is 20626-70999[^ref-25].
 
-**Archive file sizes:** MyAbandonware offers a 111 MB setup, a 169 MB full-rip and a 319 MB disc image[^ref-13]. Old Games Download lists a 273.42 MB ISO and 148 MB rips[^ref-22].
+**Archive file sizes:** MyAbandonware offers a 111 MB rip, a 169 MB full-rip, a 276 MB ISO and a 319 MB disc image[^ref-13].
 
 ### Cut Content
 
@@ -212,8 +212,7 @@ The game is not sold on major digital stores. GOG's Dreamlist entry for the orig
 [^ref-19]: [TM Books and Video Fandom Wiki](https://tm-books-and-video.fandom.com/wiki/3D_Ultra_Lionel_Traintown) – the original game; Lionel video clips
 [^ref-20]: [Sound Effects Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – the original game; sound libraries, European title
 [^ref-21]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – Best Buy availability of Deluxe, 2000
-[^ref-22]: Old Games Download – 3-D Ultra Lionel Train Town Deluxe (link removed: game-download site) – archived file sizes
 [^ref-23]: [IGDB – 3D Ultra Lionel Traintown Deluxe](https://www.igdb.com/games/3d-ultra-lionel-traintown-deluxe) – release date 9/30/2000, Dynamix, Windows, expanded game of the original
 [^ref-25]: [Eli's Software Encyclopedia – 3-D Ultra Lionel TrainTown Deluxe (PC, CD-ROM) Sierra 2000](https://elisoftware.org/wiki/3-D_Ultra_Lionel_TrainTown_Deluxe_(PC,_CD-ROM)_Sierra_-_2000_USA,_Canada_Release) – box text: 80+ jobs, 10 worlds, Phantom locomotive, Layout Tinkerer, 45+ locomotives and cars, system requirements, product ID
-[^ref-26]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony May 11, 2000 at E3; original game won PC Family Entertainment Title of the Year
+[^ref-26]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony May 11, 2000 in Los Angeles during E3 2000; original game won PC Family Entertainment Title of the Year
 [^ref-27]: [Review Corner – 3D Ultra Lionel Train Town Deluxe (archived)](https://web.archive.org/web/20060219081156/http://reviewcorner.com/software/3dultralioneldlx.html) – November 2000 review, 9.6/10; 80+ puzzles, 10 worlds, 14-job rosters, Layout Tinkerer, requirements, price
