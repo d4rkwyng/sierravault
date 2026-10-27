@@ -10,22 +10,22 @@ series: 3D Ultra
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999.
 tags: [1990s, 3d-ultra, puzzle, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-27T10:25:25-06:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows PC in 1999[^ref-1][^ref-25]. It was licensed by Lionel, LLC[^ref-1][^ref-25]. A review of the 2000 Deluxe edition describes how the developers, "inspired by the once popular Lionel toy trains," set out to make a place where trains are the main attraction[^ref-2]. Sierra announced it in September 1999 alongside Radio Control Racers and Cool Pool as part of a 3-D Ultra trio priced at around $19.95[^ref-26]. Unlike earlier entries in Sierra's 3D Ultra series that focused on quick bursts of arcade fun, Traintown was a departure into puzzle-oriented gameplay, and one retrospective calls it "a worthy entry into the 3D Ultra series"[^ref-3].
 
-The game features over 70 assignments across seven play environments, including a desert, the arctic, a living room, and the moon[^ref-1][^ref-25]. Players control locomotives to deliver cargo from one place to another, and each level has its own narrated scenario rather than aimless train movement[^ref-2]. The jobs range from simple deliveries to tasks like clearing avalanches off the tracks before a passenger train arrives[^ref-4]. The game also has an educational side, with math, word and memory puzzles built into some of its jobs[^ref-1].
+The game features over 70 assignments across seven play environments, including a desert, the arctic, a living room, and the moon[^ref-1][^ref-25]. Players control locomotives to deliver cargo from one place to another, and each level has its own narrated scenario rather than aimless train movement[^ref-2]. The jobs range from simple deliveries to tasks like clearing avalanches off the tracks before a passenger train arrives[^ref-22][^ref-4]. The game also has an educational side, with math, word and memory puzzles built into some of its jobs[^ref-1].
 
 The game won Computer Family Entertainment Title of the Year from the Academy of Interactive Arts and Sciences at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000[^ref-1][^ref-23][^ref-24].
 
@@ -47,7 +47,7 @@ The jobs take place in locations including Oak Valley, Cactus Valley, The Backya
 
 One recurring storyline is the "Tourist Project," an episodic series of jobs where Oak Valley's mayor attempts to build a Roman Colosseum to attract tourists[^ref-9]. Each episode introduces obstacles facing construction, including one-way tracks, construction workers going on strike, and hoodlums scattering cars around the map. This storyline carries across multiple difficulty levels.
 
-The game also features the "School Daze" jobs, where players form math equations using flat cars with giant numbers, progressing from addition and subtraction to multiplication and division; TV Tropes describes the series reaching fourth-grade problems[^ref-9], while Wikipedia gives the overall range of the equation jobs as kindergarten through fifth grade[^ref-1]. Another recurring mission type is the "Little Sister" scenario, where the player's sibling has scattered train cars and players must organize them by type as they come down the track[^ref-9].
+The game also features the "School Daze" jobs, where players form math equations using flat cars with giant numbers, progressing from addition and subtraction to multiplication and division[^ref-9]. The equation jobs run from kindergarten up to 5th grade; the Deluxe edition relabelled the 5th-grade job as 4th grade[^ref-8][^ref-1]. Another recurring mission type is the "Little Sister" scenario, where the player's sibling has scattered train cars and players must organize them by type as they come down the track[^ref-9].
 
 ## Gameplay
 
@@ -78,13 +78,13 @@ The core gameplay involves picking up and delivering loads via different freight
 Beyond basic railroad operations, the game incorporates various puzzle types[^ref-1]:
 
 - **Math Equations:** Moving numbered freight cars to create valid addition, subtraction, multiplication, and division equations
-- **Memory Matching:** Timed matching of cargo pairs[^ref-8]
-- **Pick-Up Sticks**
-- **Hangman**
-- **Tower of Hanoi**
+- **Memory Matching:** Matching pairs of cargo, some against the clock[^ref-8]
+- **Pick-Up Sticks**[^ref-8][^ref-9]
+- **Hangman**[^ref-8][^ref-9]
+- **Tower of Hanoi**[^ref-8][^ref-9]
 - **Anagram Scramble:** Unscrambling the letters of a word[^ref-8]
 
-The game features over 30 different Lionel model trains with animations[^ref-3][^ref-25], including models such as the Union Pacific EMD SW1500 switcher, Atchison Topeka and Santa Fe Railway F3A diesel locomotive, 2-8-0 steam locomotive, and 1950s passenger railcar[^ref-1].
+The game features over 30 different Lionel model trains with animations[^ref-3][^ref-25], including models such as the Union Pacific EMD SW1500 switcher, Atchison Topeka and Santa Fe Railway F3A diesel locomotive, a steam locomotive (sources differ: Wikipedia says 2-8-0[^ref-1]; the IGN walkthrough says a 2-8-4 Berkshire[^ref-8]), and 1950s passenger railcar[^ref-1].
 
 ## Reception
 
@@ -219,7 +219,7 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 - [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
-- **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]], [[1999 - 3-D Ultra Cool Pool]]
+- **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]]
 
 ## References
 
