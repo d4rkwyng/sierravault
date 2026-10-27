@@ -222,7 +222,7 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 
 ## References
 
-[^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – February 1982 release, two-word parser, ADL engine, Arkie Certificate of Merit, "sold poorly"
+[^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – Infobox gives a February 1982 release (citing Levy's *Hackers*), but the body says the game did not ship "until March 1982" (checked 2026-10-26); two-word parser, ADL engine, Arkie Certificate of Merit, "sold poorly"
 [^ref-2]: [MobyGames – Time Zone](https://www.mobygames.com/game/15283/time-zone/) – platforms, ~1,300 rooms and 1,400+ illustrations, historical figures, 1985 StarCraft ports, rhea trivia, player review (swear-word exit), critic average 46% from 2 ratings, Roberta Williams Anthology inclusion
 [^ref-3]: [Sierra Fandom Wiki – Time Zone](https://sierra.fandom.com/wiki/Time_Zone) – split graphics/text screen, two-word commands, games rarely exceeding one floppy side
 [^ref-4]: [IF-Legends – Sierra On-Line, Inc. (Wayback Machine, 2008)](http://web.archive.org/web/20080708193351/http://www.if-legends.org/~adventure/Sierra_On-Line,_Inc.html) – game's opening lines (terrestrial guardian), time periods list, "probably rereleased by SierraVenture in 1982", Roberta Williams Anthology contents
