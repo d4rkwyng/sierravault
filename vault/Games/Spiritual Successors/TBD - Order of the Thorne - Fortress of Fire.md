@@ -201,7 +201,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – "second (and likely) final adventure", platforms, perspective, control, media
 [^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
 [^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
-[^ref-5]: [Infamous Quests Patreon – October 2025 Update](https://www.patreon.com/posts/updates-on-rtr-141274312) – development limbo, design compromises, cut content
+[^ref-5]: [Infamous Quests Patreon – October 2025 Update](https://www.patreon.com/posts/141274312) – development limbo, design compromises, cut content
 [^ref-6]: [Adventure-Treff – Infamous Quests Announcement](https://www.adventure-treff.de/news/10259-infamous-quests-gibt-auf-legid-7742) – studio stepping back, financial challenges
 [^ref-7]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – company history, founding, key personnel, game catalog
 [^ref-8]: [HandWiki – Infamous Quests](https://handwiki.org/wiki/Company:Infamous_Quests) – company background, Quest for Infamy, game announcements
@@ -215,7 +215,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – 1,656 backers pledged $63,281
 [^ref-18]: [Adventure Gamers – Fortress of Fire game details (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – Presentation: "2D or 2.5D"; Graphic Style: "Stylized art"
-[^ref-19]: [Infamous Quests Patreon — update (April 4, 2026)](https://www.patreon.com/posts/154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; notes behind-the-scenes work by others during his hospitalization; does not mention *Fortress of Fire*
+[^ref-19]: [Infamous Quests Patreon — update (April 4, 2026)](https://www.patreon.com/posts/154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; does not mention *Fortress of Fire*
 [^ref-20]: [Infamous Quests – Order of the Thorne: Fortress of Fire (official site, archived 2019-12-12)](https://web.archive.org/web/20191212014129/http://www.infamous-quests.com/home/games/fortress-of-fire/) – Patrick and Sir Caradoc, Land of Sunlight story, features, AGS, Steam plans, anthology FAQ
 [^ref-21]: [Infamous Quests – Kickstarter update mirrored on BackerKit (Sep 28, 2019)](https://infamousquestsgames.backerkit.com/hosted_preorders/project_updates) – "most backgrounds done, and about 60% of the animations. Music is all done"; team on full-time jobs
 [^ref-22]: [Infamous Quests – official home page (archived 2019-12-23)](https://web.archive.org/web/20191223002133/http://www.infamous-quests.com/home/) – "FoF is at least a year away"
