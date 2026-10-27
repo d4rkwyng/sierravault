@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["The Colonel's Bequest", "King's Quest V", "Space Quest I VGA", "Conquests of Camelot"]
 companies: ["Sierra On-Line", "Microsoft Game Studios", "Legend Entertainment", "Tsunami Games"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Douglas Herring
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Douglas Herring is a self-taught artist who worked at Sierra On-Line from 1988 to 1991, then as a freelancer, and then for nearly nine years as an art director at Microsoft Game Studios.[^ref-1][^ref-2] At Sierra he was the animator and, with Gerald Moore, one of the two artists on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], and co-director, with Scott Murphy, of the VGA remake of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]].[^ref-11][^ref-12][^ref-13] His own résumé describes his King's Quest V role as "Team Leader - final Art Director".[^ref-2]
 
-A lifelong lover of science fiction and fantasy, Herring also worked on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]], where by his account he designed combat systems as well as art.[^ref-1][^ref-2][^ref-3] After leaving Sierra in October 1991 he freelanced on games including Shannara for Legend Entertainment, and from November 1995 to October 2004 he was an art director at Microsoft Game Studios, working with franchises including Age of Empires, Close Combat and Fable, about sixteen years in games in all.[^ref-2][^ref-3]
+A lifelong lover of science fiction and fantasy, Herring also worked on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]], where by his account he designed combat systems as well as art.[^ref-1][^ref-2][^ref-3] After leaving Sierra in October 1991 he freelanced on games including [[1995 - Shannara|Shannara]] for Legend Entertainment, and from November 1995 to October 2004 he was an art director at Microsoft Game Studios, working with franchises including Age of Empires, Close Combat and Fable, about sixteen years in games in all.[^ref-2][^ref-3]
 
 ## Career
 
@@ -31,19 +31,19 @@ Herring joined Sierra On-Line in June 1988.[^ref-2] "Sierra had just moved its o
 
 The Colonel's Bequest credits him for "Animation" and, with Gerald Moore, for "Graphics / Artwork"; his résumé describes the role as "Art Designer - lead artist and sole animator."[^ref-11][^ref-2] Sierra's own InterAction magazine listed "Graphics: Douglas Herring, Jerry Moore" in its Fall 1989 issue.[^ref-5][^ref-4]
 
-On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] he is credited among the animators and background artists; his résumé adds "In-house Art Designer - lead animator - endgame combat system."[^ref-15][^ref-2] For [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] his résumé lists art design for the desert section and the combat system, and the Adventure Game Fan Fair biography says he "designed the combat system and a few backgrounds."[^ref-2][^ref-3]
+On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] he is credited among the animators and background artists; the credits also list him for the "Camelot Combat System," and his résumé adds "In-house Art Designer - lead animator - endgame combat system."[^ref-15][^ref-2] For [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] his résumé lists art design for the desert section and the combat system, and the Adventure Game Fan Fair biography says he "designed the combat system and a few backgrounds."[^ref-2][^ref-3]
 
-On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season, MobyGames lists him among the game's artists, and the Fan Fair biography says he "led an animation team."[^ref-12][^ref-3][^ref-2] His résumé calls his role "Team Leader - final Art Director" and describes the game as "The best selling Adventure Game of all time" and the "First major VGA game published."[^ref-2] Those are his own descriptions; Wikipedia puts the game's sales at over half a million copies.[^ref-8]
+On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season, MobyGames lists him among the game's artists, and the Fan Fair biography says he "led an animation team."[^ref-12][^ref-3][^ref-2] His résumé calls his role "Team Leader - final Art Director" and describes the game as "The best selling Adventure Game of all time" and the "First major VGA game published."[^ref-2] Those are his own descriptions. Wikipedia reports, citing Sierra, that the game sold 300,000 copies by early 1992, and that the Software Publishers Association certified it for more than 250,000 sales.[^ref-8]
 
 He was co-director of the VGA remake of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter]] with Scott Murphy, and its art designer and one of its animators.[^ref-13][^ref-9] He calls it his favorite: "Mark Crow[e] and Scott Murphy had done a wonderfully fun job with the original and it was a great honor to be allowed to re-draw and add to their work."[^ref-1] His résumé also lists art design and animation on [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|The Castle of Dr. Brain]], and preliminary storyboards for [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]], before he left Sierra in October 1991.[^ref-2]
 
 ### Freelance Period (1991–1995)
 
-His first freelance project was Ringworld: Revenge of the Patriarch (1992) for Tsunami Games, based on Larry Niven's Known Space novels. He was game designer and art designer, but left the project early: "most of my design was re-worked. However, 90% of the art was done under my direction."[^ref-2]
+His first freelance project was Ringworld: Revenge of the Patriarch (1992) for Tsunami Games, based on Larry Niven's Known Space novels. He was game designer and art designer, but left the project early: "most of my design was re-worked. However, 90% of the art was done under my direction."[^ref-2][^ref-3]
 
-He was then art director on Star Trek: Deep Space Nine – The Hunt for Paramount Interactive and Tachyon, doing "total art design, animation and background key frames and layout." In his words, "Art was 95% done and I had already moved on when Paramount put the project on hold."[^ref-2] Other freelance work listed on his résumé includes the user interface screens for Spectrum Holobyte's MIG-29 module for Falcon 3.0, creature animation for Free Fall Associates' Archon Ultra, and art direction and co-design on the Sega CD version of Spider-Man vs. Kingpin.[^ref-2]
+The Adventure Game Fan Fair biography says he left Ringworld early to begin Star Trek: Deep Space Nine – The Hunt,[^ref-3] on which he was art director for Paramount Interactive and Tachyon, doing "total art design, animation and background key frames and layout." In his words, "Art was 95% done and I had already moved on when Paramount put the project on hold."[^ref-2] Other freelance work listed on his résumé includes the user interface screens for Spectrum Holobyte's MIG-29 module for Falcon 3.0, creature animation for Free Fall Associates' Archon Ultra, and art direction and co-design on the Sega CD version of Spider-Man vs. Kingpin.[^ref-2]
 
-His last adventure game was Shannara (1995) for Legend Entertainment, based on Terry Brooks's novels, on which he was art director.[^ref-2][^ref-3] His résumé calls it Legend's "best selling game."[^ref-2] "Legend Entertainment, which I did 'Shannara' for, were just a great group of people. Easily my most enjoyable experience as a freelancer, the developer was on the east coast and it all went very, very smoothly," he said.[^ref-1]
+His last adventure game was [[1995 - Shannara|Shannara]] (1995) for Legend Entertainment, based on Terry Brooks's novels, on which he was art director.[^ref-2][^ref-3] His résumé calls it Legend's "best selling game."[^ref-2] "Legend Entertainment, which I did 'Shannara' for, were just a great group of people. Easily my most enjoyable experience as a freelancer, the developer was on the east coast and it all went very, very smoothly," he said.[^ref-1]
 
 ### Microsoft Game Studios (1995–2004)
 
@@ -67,7 +67,7 @@ Herring animated the game and drew its graphics with Gerald Moore.[^ref-11][^ref
 
 ### King's Quest V (1990)
 
-MobyGames lists Herring among the game's artists; his own résumé calls him "Team Leader - final Art Director."[^ref-12][^ref-2] The game was the first King's Quest to use VGA graphics and a point-and-click interface.[^ref-8]
+MobyGames lists Herring among the game's artists; his own résumé calls him "Team Leader - final Art Director."[^ref-12][^ref-2] For this game Sierra's engine replaced the text parser of the earlier King's Quest games with an icon-based point-and-click interface, and it shipped in 256-color VGA alongside a 16-color EGA version.[^ref-8]
 
 ### Space Quest I VGA (1991)
 
@@ -75,7 +75,7 @@ Herring co-directed the 1991 remake with Scott Murphy and was its art designer a
 
 ### Conquests of Camelot (1990)
 
-MobyGames credits Herring as an animator and background artist on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]]. His résumé describes him as in-house art designer and lead animator, and says he designed the endgame combat system.[^ref-15][^ref-2]
+MobyGames credits Herring as an animator and background artist on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]]. The credits also list him for the "Camelot Combat System."[^ref-15] His résumé describes him as in-house art designer and lead animator, and says he designed the endgame combat system.[^ref-2]
 
 ## Design Philosophy
 
@@ -91,7 +91,7 @@ On his own work, he keeps a large reference collection: "you can never have enou
 
 - **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II: Looking for Love (in Several Wrong Places)]] — Role: Artist (15% of pictures/animation, per résumé)
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Animation, Graphics/Artwork (résumé: Art Designer, Lead Artist, Sole Animator)
-- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Animator, Background Artist (résumé: In-house Art Designer, Lead Animator, Endgame Combat System)
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Animator, Background Artist, Camelot Combat System (résumé: In-house Art Designer, Lead Animator, Endgame Combat System)
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Art Design (Desert Section), Combat System (per résumé)
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Artist (résumé: Team Leader, final Art Director)
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Art Designer, Animator (per résumé)
@@ -100,40 +100,43 @@ On his own work, he keeps a large reference collection: "you can never have enou
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Co-Director, Art Designer, Animator
 - **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Preliminary Storyboards (per résumé)
 
-### Post-Sierra (1991–2018)
+### Post-Sierra (1991–2019)
 
 - 1992 — Ringworld: Revenge of the Patriarch — Tsunami Games — Game Designer, Art Designer
 - Unreleased — Star Trek: Deep Space Nine – The Hunt — Paramount Interactive/Tachyon — Art Director
 - Spider-Man vs. Kingpin (Sega CD) — Monkey Business — Art Director, Co-Designer
-- 1995 — Shannara — Legend Entertainment — Art Director
+- 1995 — [[1995 - Shannara|Shannara]] — Legend Entertainment — Art Director
 - 1996 — Close Combat — Microsoft/Atomic Games — Content Lead
 - 1997 — Age of Empires — Microsoft/Ensemble Studios — Art Director, Content Lead
 - 1997 — Close Combat II: A Bridge Too Far — Microsoft/Atomic Games — Content Lead, Video Producer
-- 1999 — Close Combat III: The Russian Front — Microsoft/Atomic Games — Content Lead, Video Producer
+- 1999 — Close Combat III: The Russian Front — Microsoft/Atomic Games — Content Lead, Video Producer (per résumé; MobyGames credits him as Creative Director (Microsoft))[^ref-16]
 - 1999 — Age of Empires II: The Age of Kings — Microsoft/Ensemble Studios — Art Director
-- 1999 — Microsoft Pandora's Box — Microsoft — Art Director
-- 2000 — MechWarrior 4: Vengeance — Microsoft/FASA — Art Director
-- 2000 — Age of Empires II: The Conquerors — Microsoft/Ensemble Studios — Art Director
-- 2001 — MechCommander 2 — Microsoft/FASA — Art Director
-- 2002 — Blinx: The Time Sweeper — Microsoft — Art Director (External)
-- 2003 — Rise of Nations — Microsoft/Big Huge Games — Art Director (External)
-- 2004 — Fable — Microsoft/Lionhead Studios — Art Director (External)
+- 1999 — Microsoft Pandora's Box — Microsoft — Art Director (per résumé; MobyGames: Management)
+- 2000 — MechWarrior 4: Vengeance — Microsoft/FASA — Art Director (per résumé; MobyGames: Management)
+- 2000 — Age of Empires II: The Conquerors — Microsoft/Ensemble Studios — Art Director (per résumé; MobyGames: Management)
+- 2000 — Allegiance — Lead Artist (MobyGames)[^ref-16]
+- 2001 — MechCommander 2 — Microsoft/FASA — Art Director (per résumé; MobyGames: Management)
+- 2002 — Blinx: The Time Sweeper — Microsoft — Art Director (External, per résumé; MobyGames: thanks credit)
+- 2003 — Rise of Nations — Microsoft/Big Huge Games — Art Director (External, per résumé; MobyGames: Management)
+- 2003 — Voodoo Vince — Management (MobyGames)[^ref-16]
+- 2004 — Fable — Microsoft/Lionhead Studios — Art Director (External, per résumé; MobyGames: Special Thanks)[^ref-16]
+- 2013–2019 — Later re-releases credit him: Age of Empires II: HD Edition (2013, Art), Voodoo Vince: Remastered (2017, Art Director), Age of Empires: Definitive Edition (2018, Art Director), Age of Empires II: Definitive Edition (2019, Management) (MobyGames)[^ref-16]
 - **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Kickstarter backer (credited under "Backers")
 
 ## References
 
 [^ref-1]: [Adventure Classic Gaming - Douglas Herring Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/599/) — Chris Warren and Philip Jong, November 23, 2010; Sierra, Legend and Microsoft recollections and quotes
 [^ref-2]: [Douglas Herring Official Resume](http://www.douglasherring.com/09_resumemst.html) — His own career record and role descriptions (self-reported)
-[^ref-3]: [Adventure Game Fan Fair - Douglas Herring Bio](https://adventuregamefanfair.com/guests/douglas-herring/) — Short biography: animation lead on Camelot, QFG2 combat system, KQ5 animation team, eight years at Microsoft
+[^ref-3]: [Adventure Game Fan Fair - Douglas Herring Bio](https://adventuregamefanfair.com/guests/douglas-herring/) — Short biography: animation lead on Camelot, QFG2 combat system, KQ5 animation team; says "the next eight years" at Microsoft, where his résumé gives November 1995 to October 2004
 [^ref-4]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel%27s_Bequest) — Lists Douglas Herring as one of the game's artists alongside Gerald Moore
 [^ref-5]: [InterAction Magazine Issue 6 - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) — Transcription of Sierra's Fall 1989 magazine: "Graphics: Douglas Herring, Jerry Moore"
 [^ref-6]: [MobyGames - Douglas Herring Credits](https://www.mobygames.com/person/3318/douglas-herring/credits/) — Complete game credits listing (Hero-U listed under "Backers")
 [^ref-7]: [St. George's Games - The Colonel's Bequest](https://starlingdb.org/games/Colonel's_Bequest.pdf) — George Starostin's retrospective review praising the artists' character work
-[^ref-8]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — VGA and point-and-click; "sold over half million copies"
+[^ref-8]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — Text parser replaced by point-and-click; 256-color VGA and 16-color EGA versions; 300,000 sold by early 1992 (Sierra), SPA-certified for more than 250,000 (CGW, February 1993)
 [^ref-9]: [Wikipedia - Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) — Lists Herring among the VGA remake's directors
 [^ref-11]: [MobyGames - The Colonel's Bequest Credits](https://www.mobygames.com/game/461/the-colonels-bequest/credits/dos/) — "Animation by Douglas Herring"; "Graphics / Artwork: Douglas Herring, Gerald Moore"
 [^ref-12]: [MobyGames - King's Quest V Credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/dos/) — Herring listed among the Artists
 [^ref-13]: [MobyGames - Space Quest I VGA Credits](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) — Directors: Douglas Herring, Scott Murphy; Art Designer; Animators
 [^ref-14]: [MobyGames - Hero-U: Rogue to Redemption Credits](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/credits/) — Backer credit
-[^ref-15]: [MobyGames - Conquests of Camelot Credits](https://www.mobygames.com/game/1408/conquests-of-camelot-the-search-for-the-grail/credits/dos/) — Animators and Background Artists include Douglas Herring
-[^ref-16]: [MobyGames - Douglas Herring (Wayback, September 2026)](https://web.archive.org/web/20260919170155/https://www.mobygames.com/person/3318/douglas-herring/) — Person page: Hero-U: Rogue to Redemption (2018) credited under "Backers"
+[^ref-15]: [MobyGames - Conquests of Camelot Credits](https://www.mobygames.com/game/1408/conquests-of-camelot-the-search-for-the-grail/credits/dos/) — Animators and Background Artists include Douglas Herring; "Camelot Combat System: Douglas Herring" (also in the [Wayback copy of April 2011](https://web.archive.org/web/20110426105333/http://www.mobygames.com:80/game/dos/conquests-of-camelot-the-search-for-the-grail/credits))
+[^ref-16]: [MobyGames - Douglas Herring (Wayback, September 2026)](https://web.archive.org/web/20260919170155/https://www.mobygames.com/person/3318/douglas-herring/) — Person page: Hero-U: Rogue to Redemption (2018) credited under "Backers"; also Allegiance (Lead Artist), Close Combat III (Creative Director (Microsoft)), Voodoo Vince and later re-release credits
