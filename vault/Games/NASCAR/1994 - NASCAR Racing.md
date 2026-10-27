@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-controlled NASCAR driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 composer: [George Alistair Sanger (The Fat Man)]
 description: NASCAR Racing is Papyrus Design Group's 1994 stock car racing simulation,
   described as the first true simulation-style 3D NASCAR video game, which sold over
@@ -19,7 +19,7 @@ tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ NASCAR Racing proved to be a commercial and critical success, selling over 1,000
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** [[Dave Kaemmer]], Adam Levesque, John Wheeler[^ref-1]
-> **Publisher:** Virgin Interactive (NA), [[Sierra On-Line]] (later releases)[^ref-1]
+> **Publisher:** [[Virgin Games|Virgin Interactive]] (NA and Europe), [[Sierra On-Line]] (later releases)[^ref-1][^ref-3]
 > **Engine:** Papy3D[^ref-6]
 > **Platforms:** MS-DOS, Macintosh, PlayStation[^ref-1]
 > **Release Year:** 1994

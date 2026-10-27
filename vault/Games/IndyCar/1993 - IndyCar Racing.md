@@ -31,7 +31,7 @@ The game paired a detailed physics model with real-time, perspective-correct tex
 > [!info]- Game Info
 > **Developer:** Papyrus Design Group[^ref-1]
 > **Designer:** David Kaemmer[^ref-26]
-> **Publisher:** Papyrus Publishing (NA), Virgin Interactive (EU)[^ref-1]
+> **Publisher:** Papyrus Publishing (NA), [[Virgin Games|Virgin Interactive]] (EU)[^ref-1]
 > **Engine:** Proprietary (Papyrus)[^ref-7]
 > **Platforms:** MS-DOS[^ref-1]
 > **Release Year:** 1993

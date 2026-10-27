@@ -5,17 +5,17 @@ founded: 1983
 defunct: 2005
 headquarters: "London, United Kingdom / Irvine, California, United States"
 parent_company: "Virgin Group (historical)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Virgin Games
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Virgin Games (later Virgin Interactive Entertainment) was the video game publishing division of the Virgin Group. Nick Alexander formed it in London in 1983.[^ref-1][^ref-3] It traded as Virgin Mastertronic from 1988 to 1991 and was renamed Virgin Interactive Entertainment in 1993.[^ref-1] Its US arm, Virgin Games, Inc. (1984–1993, later Virgin Interactive Entertainment, Inc.), was based in Irvine, California.[^ref-2]
+Virgin Games (later Virgin Interactive Entertainment) began as the video game publishing division of the Virgin Group. Nick Alexander formed it in London in 1983.[^ref-1][^ref-3] It traded as Virgin Mastertronic from 1988 to 1991 and was renamed Virgin Interactive Entertainment in 1993.[^ref-1] Its US arm, Virgin Games, Inc. (1984–1993, later Virgin Interactive Entertainment, Inc.), was based in Irvine, California.[^ref-2][^ref-28] By 1998 the company was a division of Spelling Entertainment Group, with global headquarters in Irvine and international headquarters in London.[^ref-28]
 
-The US operations were sold to Electronic Arts in 1998.[^ref-1][^ref-3] Titus Interactive bought a 50.1% majority stake in the European company in 1999 and took full ownership on 16 April 2001. Titus renamed it Avalon Interactive in 2003, and the UK operations were dissolved by November 2005.[^ref-1][^ref-3]
+The US operations were sold to Electronic Arts in 1998.[^ref-1][^ref-3] Titus Interactive bought a 50.1% majority stake in the European company in 1999[^ref-1][^ref-3] and took full ownership on 16 April 2001.[^ref-1] Titus renamed it Avalon Interactive in 2003, with the change taking effect on 1 July,[^ref-1][^ref-3][^ref-27] and the UK operations were dissolved by November 2005.[^ref-1]
 
 ## Sierra Connection
 
@@ -51,3 +51,5 @@ Virgin Games published titles developed by studios that later became part of Sie
 [^ref-24]: [MobyGames - Conan: The Cimmerian](https://www.mobygames.com/game/6182/conan-the-cimmerian/) - Release data: Virgin Games, Inc. and Virgin Games, Ltd., 1991
 [^ref-25]: [Wikipedia - Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) - "Synergistic was acquired by Sierra On-Line in 1996"
 [^ref-26]: [Wikipedia - Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) - Parent: Sierra Entertainment (1995–2004)
+[^ref-27]: [GamesIndustry.biz - Virgin Interactive name buried as Titus rebrands distribution arm](https://www.gamesindustry.biz/articles/virgin-interactive-name-buried-as-titus-rebrands-distribution-arm) - Rob Fahey, July 2, 2003: Titus rebranded its distribution subsidiary as Avalon Interactive; "The change took effect on the first of July"
+[^ref-28]: [Virgin Interactive - Company Line (Wayback, June 1998)](https://web.archive.org/web/19980611185255/http://www.vie.com/about/company.html) - "a division of Spelling Entertainment Group, Inc."; global headquarters in Irvine, California, international headquarters in London

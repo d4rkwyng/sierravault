@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Watertown, Massachusetts"
 notable_games: ["Indianapolis 500: The Simulation", "NASCAR Racing", "IndyCar Racing", "Grand Prix Legends"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Papyrus Design Group
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ Papyrus made its name before Sierra. Indianapolis 500: The Simulation (1989) was
 
 Kaemmer and Khudari started the company in a Cambridge kitchen in 1987 with a "war chest" of $2000.[^ref-4] Kaemmer grew up in Indiana and graduated from Oberlin College in 1985 with a degree in mathematics.[^ref-21] He and a friend had flown to California to pitch Electronic Arts a flight simulator. Instead, EA asked whether they could make a game simulating the Indianapolis 500.[^ref-21] When Indianapolis 500: The Simulation appeared in 1989, Motor Sport writes, it "was the first legitimate racing sim to reach the market, and it sparked a revolution."[^ref-21]
 
-IndyCar Racing (1993) was an officially licensed product, published by Virgin rather than EA, according to GameSpot.[^ref-10] Wikipedia's NASCAR Racing article says the 1994 game was published by Virgin for MS-DOS, while its series article lists Papyrus as publisher.[^ref-24][^ref-27] GameSpot says it sold "in excess of 1,000,000 units".[^ref-10] In a 1995 interview, president Omar Khudari told Mac Games that Papyrus had about 80 employees and that its sales the previous year were about $6 million.[^ref-4]
+IndyCar Racing (1993) was an officially licensed product, published by Virgin rather than EA, according to GameSpot.[^ref-10] MobyGames is more specific: Papyrus Publishing published it in the US, with Virgin distributing, while Virgin Interactive published it in Europe.[^ref-29] Wikipedia's NASCAR Racing article says the 1994 game was published by Virgin for MS-DOS, while its series article lists Papyrus as publisher.[^ref-24][^ref-27] GameSpot says it sold "in excess of 1,000,000 units".[^ref-10] In a 1995 interview, president Omar Khudari told Mac Games that Papyrus had about 80 employees and that its sales the previous year were about $6 million.[^ref-4]
 
 ### Sierra Era
 
@@ -94,3 +94,4 @@ GameSpot's history of the studio said Papyrus's games were so realistic "that pr
 [^ref-26]: [iRacing – Papyrus](https://www.iracing.com/papyrus/) — iRacing "can trace its roots back to the 1980’s when Dave Kaemmer co-founded Papyrus"; GPL and NR2003 "monumental achievements in sim racing"; iRacing.com founded 2004
 [^ref-27]: [Wikipedia – NASCAR Racing (series)](https://en.wikipedia.org/wiki/NASCAR_Racing) — Series publisher table: Papyrus for NASCAR Racing (1994) and Track Pack; Sierra from NASCAR Racing 2 (1996) through NASCAR Racing 2003 Season, including NASCAR Legends and Craftsman Truck Series Racing (1999)
 [^ref-28]: [Wikipedia – IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) — Publishers: Papyrus Design Group; Sierra On-Line (re-release)
+[^ref-29]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) — Release data (read via the MobyGames API): US 1993 published by Papyrus Publishing, Inc., distributed by Virgin Interactive Entertainment, Inc.; UK/DE/FR 1993 published by Virgin Interactive Entertainment (Europe) Ltd.
