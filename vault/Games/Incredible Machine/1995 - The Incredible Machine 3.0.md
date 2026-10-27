@@ -101,7 +101,7 @@ Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed 
 - **Executive Producer:** Jeffrey Tunnell
 - **Producer (Windows):** Ken Embery
 - **Designer/Programmer (Windows):** Kevin Ryan
-- **Designers:** Kevin Ryan, Jeffrey Tunnell, Richard Rayl, Brian Hahn, Steve Letsom, Richard Tunnell
+- **Designers:** [[Kevin Ryan]], [[Jeff Tunnell|Jeffrey Tunnell]], Richard Rayl, [[Brian Hahn]], Steve Letsom, [[Richard Tunnell]]
 - **Macintosh Programmer:** Jon Milnes
 - **Art Director:** Brian Hahn
 - **Audio Director:** Jan Paul Moorhead
