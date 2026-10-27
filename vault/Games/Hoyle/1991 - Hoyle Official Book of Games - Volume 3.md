@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is Sierra On-Line's 1991 collection of six board and dice games (Checkers, Backgammon,
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ Sources disagree on who designed the game. MobyGames credits Marti McKenna and B
 - **Programmers:** Michael Brock, Tom DeSalvo, John Harrell, Charles "Chip" Kerchner, Kim Bowdish[^ref-28]
 - **Animators:** Nathan Larsen, Marc Hudgins, Terrance Falls, Michael Hutchinson, Richard Powell[^ref-28]
 - **Background Artists:** Jay Friedmann, Maurice Morgan[^ref-28]
-- **Music Director:** [[Mark Seibert]][^ref-28]
+- **Music / Sound Programming:** [[Mark Seibert]]. MobyGames lists him under "Music / Sound Programming"; the instruction booklet credits him as "Music Director"[^ref-42][^ref-28]
 - **Composer / Sound:** Robert Atesalp. MobyGames credits him as composer; the booklet credits "Sound Effects: Rob Atesalp"[^ref-32][^ref-28]
 - **Quality Assurance:** Dan Woolard[^ref-28]
 
@@ -258,3 +258,4 @@ Volume 3 has had little critical attention, but contemporary and later reviewers
 [^ref-39]: [Sierra Wiki – Hoyle Official Book of Games, Volume 3: Great Board Games](https://wiki.sierrahelp.com/index.php/Hoyle_Volume_3:_Great_Board_Games) – SCI1, designers, version 1.000 dated 1991/11/02, fan patch, not on GOG
 [^ref-40]: [MobyGames – Family Fun Pack (1992)](https://www.mobygames.com/game/21229/family-fun-pack/) – compilation with Conquests of the Longbow and Gobliiins
 [^ref-41]: [GOG Dreamlist – Hoyle Official Book of Games: Volume 3](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-3-1991) – community re-release request page
+[^ref-42]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Hoyle: Official Book of Games - Volume 3 (1991) ( Music / Sound Programming )"

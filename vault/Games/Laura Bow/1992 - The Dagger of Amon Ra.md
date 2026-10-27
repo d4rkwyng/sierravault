@@ -125,7 +125,7 @@ The elaborate death scenes, which featured victims meeting gruesome ends connect
 - **Production Designer:** [[Andy Hoyos]][^ref-29]
 - **Writer:** [[Josh Mandel]]
 - **Composer:** Christopher G. Braymen
-- **Music:** Mark Seibert[^ref-1]
+- **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
 - **Creative Director:** Bill Davis[^ref-1]
 - **Programmer:** Brian K. Hughes[^ref-1]
 - **Artist:** Cheryl Sweeney[^ref-1]

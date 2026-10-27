@@ -132,7 +132,8 @@ Jane Jensen's "first job was as a writer for Police Quest 3 and its manual," in 
 - **Producer:** [[Guruka Singh Khalsa]]
 - **Lead Programming:** [[Doug Oldfield]]
 - **Composer:** Jan Hammer
-- **Sound:** Robert Atesalp, Mark Seibert
+- **Music Director:** [[Mark Seibert]]. MobyGames' later credit sheet lists him as "Music Director"; its 2009 listing had him under "Sound" with Robert Atesalp[^ref-38]
+- **Sound:** Robert Atesalp
 - **Documentation:** [[Jane Jensen]], James Walls (Jensen also helped write the script[^ref-35][^ref-36])
 - **Sonny Bonds (actor):** Christopher Daniel Barnes
 - **Music / Sound Arrangement (1994 Amiga release):** Dan Kehler[^ref-21]
@@ -292,3 +293,4 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-35]: [Game Developer – "Playing Catch-Up: Gabriel Knight's Jane Jensen" (17 May 2007)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) – Jensen on her role as a writer for PQ3 and its manual
 [^ref-36]: [Episodic Content Magazine – "Hunting Shadows: The Making of Gabriel Knight – Chapter 1" (10 September 2015)](https://episodiccontentmag.com/2015/09/10/gabrielknight_ch1/) – Jensen hired for the PQ3 manual, helped write the script
 [^ref-37]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Description (read via the MobyGames API): "the drug lord Jessie Bains has been put away for good"
+[^ref-38]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Police Quest 3: The Kindred (1991) ( Music Director )"

@@ -5,21 +5,21 @@ birth_year: 1960
 death_year: null
 notable_games: ["King's Quest V", "King's Quest VI", "Phantasmagoria", "King's Quest: Mask of Eternity"]
 companies: ["Sierra On-Line", "Gentle Revolution Software", "Breakaway Games"]
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Mark Seibert
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Mark Seibert (born 1960 in California) is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella, and MobyGames' credit sheet (September 2022 capture) lists him on more than 50 games.[^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
+Mark Seibert is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] Wikipedia gives his birth year as 1960 and his birthplace as California.[^ref-1] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella,[^ref-1][^ref-5] and MobyGames' credit sheet (September 2022 capture) lists him on more than 50 games.[^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
 
 ## Career
 
 ### Early Career
 
-In the early 1980s Seibert toured with the Christian band Omega Sunrise. In his words: "I wrote some of their original material, played guitar and keyboards, and did some backup vocals. We did 2 album, and got some moderate airplay. My wife Debbie was the lead singer."[^ref-12] After "touring for almost 3 years non-stop," he said, "we settled in Fresno and lead music at the Vineyard for a few years."[^ref-12] He earned a Bachelor of Arts in music at California State University, Fresno, in 1983 and started a second degree in mathematics in 1986.[^ref-1][^ref-5]
+In the early 1980s Seibert toured with the Christian band Omega Sunrise. In his words: "I wrote some of their original material, played guitar and keyboards, and did some backup vocals. We did 2 album, and got some moderate airplay. My wife Debbie was the lead singer."[^ref-12] After "touring for almost 3 years non-stop," he said, "we settled in Fresno and lead music at the Vineyard for a few years."[^ref-12] According to Wikipedia, he earned a Bachelor of Arts in music at California State University, Fresno, in 1983 and started a second degree in mathematics in 1986; Choicest Games gives the same account, apparently drawn from Wikipedia.[^ref-1][^ref-5]
 
 He wrote his music on sheet music paper and then entered it into Sequencer Plus Gold, later moving to Cakewalk.[^ref-3]
 
@@ -37,11 +37,11 @@ For [[1995 - Phantasmagoria|Phantasmagoria]], Seibert and Jay Usher wrote the sc
 
 In 1997 he told Next Generation that he had never finished an adventure game: "I always get halfway through and get stuck someplace, and then I have to download the walk-through off the Internet and read the solution, and it's always like, 'Well that's a stupid puzzle!' I get so frustrated, I throw it down and never pick it back up."[^ref-11]
 
-His last Sierra credits were Arcanum (2001, executive producer) and Throne of Darkness (2001, producer and dialog direction).[^ref-2][^ref-5] Wikipedia gives his departure as 2001 and VGMPF as 2002.[^ref-1][^ref-3]
+His last Sierra credits were Arcanum (2001, executive producer) and Throne of Darkness (2001), where MobyGames credits him as producer and for dialog direction and his own list says "Executive Producer".[^ref-2][^ref-5][^ref-9] Wikipedia gives his departure as 2001 and VGMPF as 2002.[^ref-1][^ref-3]
 
 ### Post-Sierra Career (2001–2008)
 
-In 2003 he was Director of Development at Gentle Revolution Software in Maryland, which had "a Space Act Agreement with NASA for the development of a PS2/PC game centered around the International Space Station."[^ref-12] He then worked at Breakaway Games as producer and audio/video director; MobyGames credits him as audio director on The Lord of the Rings: The Battle for Middle-earth II – The Rise of the Witch-king (2006) and audio engineer on Command & Conquer 3: Kane's Wrath (2008).[^ref-5][^ref-9][^ref-2] While at Breakaway he completed a master's degree in education, and in 2008 he left the games industry.[^ref-5] As of 2015 he was teaching mathematics at Perry Hall Christian School in Maryland.[^ref-5]
+In 2003 he was Director of Development at Gentle Revolution Software in Maryland, which had "a Space Act Agreement with NASA for the development of a PS2/PC game centered around the International Space Station."[^ref-12] He then worked at Breakaway Games as producer and audio/video director; MobyGames credits him as audio director on The Lord of the Rings: The Battle for Middle-earth II – The Rise of the Witch-king (2006) and audio engineer on Command & Conquer 3: Kane's Wrath (2008).[^ref-5][^ref-9][^ref-2] Choicest Games reports that while at Breakaway he completed a master's degree in education, and that in 2008 he left the games industry.[^ref-5] He later taught mathematics in Maryland.[^ref-5]
 
 ## Notable Works
 
@@ -71,7 +71,7 @@ Seibert's work remains associated with Sierra's early-1990s scores: VGMPF's game
 
 ## Personal Life
 
-Seibert is married to Debbie Seibert, who sang lead in Omega Sunrise and later sang for Sierra games including "Girl in the Tower"; they have two daughters.[^ref-12]
+As of 2003, Seibert was married to Debbie Seibert, who sang lead in Omega Sunrise and later sang for Sierra games including "Girl in the Tower"; they had two daughters.[^ref-12][^ref-19]
 
 ## Games
 
@@ -81,7 +81,7 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Musician, Music Editor (self-reported; VGMPF: music editing)[^ref-9][^ref-3]
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Composer ("Music Composed & Performed")
-- **1989** — [[1988 - Silpheed|Silpheed]] — Role: Music Editor
+- **1989** — [[1988 - Silpheed|Silpheed]] — Role: Music Editor (MobyGames dates it 1989; VGMPF and the vault's game page give 1988)[^ref-3]
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Sound Effects; arranger of Bob Siebenberg's music (VGMPF)[^ref-3]
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Music/Sound Programming
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Composer ("Original Music by")
@@ -95,7 +95,7 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Cartoon Sound Effects (he lists himself as Music Director)[^ref-9]
 - **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle's Official Book of Games: Volume 2]] — Role: Music Director (self-reported)
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Music Director; composer (self-reported and Soundtrack Collection)[^ref-9][^ref-17]
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Music Director
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Music Director; Music / Sound Programming (with Ken Allen, Robert Atesalp)[^ref-21][^ref-3]
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Music Director
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Music/Sound Programming
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] — Role: Music Director
@@ -103,13 +103,13 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Music
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Composer
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music Arranged and Performed
-- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle's Official Book of Games: Volume 3]] — Role: Music/Sound Programming
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle's Official Book of Games: Volume 3]] — Role: Music/Sound Programming (the instruction booklet credits him as Music Director)[^ref-23]
 - **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose (VGA/CD)]] — Role: Composer
 - **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Additional Music; composer of "Girl in the Tower"[^ref-19]
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero (VGA)]] — Role: Composer
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Music Director
 - **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Additional Music (Hero's Theme)[^ref-3]
-- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow: The Dagger of Amon Ra]] — Role: Music Director
+- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow: The Dagger of Amon Ra]] — Role: Music Director, Guitar[^ref-22]
 - **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Music Director (self-reported)
 - **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane (Enhanced CD-ROM)]] — Role: Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] — Role: Music Director
@@ -117,6 +117,7 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Producer, Music
 - **1993** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] (boxed version) — Role: Producer (self-reported)
 - **1993** — [[1993 - Take a Break! Pinball|Take-a-Break! Pinball]] — Role: Music
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: "Hero's Theme" (VGMPF)[^ref-3]
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Producer, Musician
 - 1994 — King's Quest: Collector's Edition — Music
 - **1994** — [[1994 - Outpost|Outpost]] — Role: Music
@@ -126,8 +127,10 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - 1997 — King's Quest: Collection Series — Music
 - **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: "Hero's Theme" (composer; arranged by Chance Thomas)[^ref-3][^ref-16]
 - **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Producer, Design, Music, Documentation
+- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]] — Role: "Performed by" (a performance credit, not a composition, per VGMPF)[^ref-3]
+- **1999** — [[1999 - Homeworld|Homeworld]] — Role: Engineers (VGMPF: songs performed by him, not composed by him)[^ref-3]
 - **2001** — [[2001 - Arcanum|Arcanum: Of Steamworks and Magick Obscura]] — Role: Executive Producer
-- 2001 — Throne of Darkness — Producer, Dialog Direction, Manual Design and Layout
+- 2001 — Throne of Darkness — Producer, Dialog Direction, Manual Design and Layout (he lists himself as Executive Producer)[^ref-9]
 
 ### Post-Sierra (2004–2008)
 
@@ -138,13 +141,14 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 | 2006 | King's Quest Collection | Vivendi | Music (compilation) |
 | 2006 | The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king | Breakaway Games / EA | Audio Director |
 | 2008 | Command & Conquer 3: Kane's Wrath | Breakaway Games / EA | Audio Engineer |
+| — | Arabian Lords | — | Producer (self-reported; year and company not given)[^ref-9] |
 
 ## References
 
 [^ref-1]: [Wikipedia - Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — Born 1960 in California; BA in music, CSU Fresno, 1983; second degree in math from 1986; 1987 newspaper ad; music editor on KQ IV; music director; producer from 1992 (article carries a BLP-sources tag)
 [^ref-2]: [MobyGames - Mark Seibert credits (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) — Full credit sheet by role
 [^ref-3]: [VGMPF - Mark Seibert](https://vgmpf.com/Wiki/index.php?title=Mark_Seibert) — Sheet music → Sequencer Plus Gold → Cakewalk; gameography with collaborators; Hero's Theme in QFG III–V; Sierra 1987–2002
-[^ref-5]: [Choicest Games - Where are they now? Mark Seibert (2015)](https://www.choicestgames.com/2015/04/where-are-they-now-mark-seibert.html) — 1987 newspaper ad, KQ IV music editing, producer from 1992, Pepper's "cult classic", Breakaway, Masters in Education, left games in 2008, Perry Hall Christian School
+[^ref-5]: [Choicest Games - Where are they now? Mark Seibert (2015)](https://www.choicestgames.com/2015/04/where-are-they-now-mark-seibert.html) — 1987 newspaper ad, KQ IV music editing, producer from 1992, Pepper's "cult classic", Breakaway, Masters in Education, left games in 2008, later a maths teacher in Maryland
 [^ref-8]: [Wikipedia - Phantasmagoria](https://en.wikipedia.org/wiki/Phantasmagoria_%28video_game%29) — Score by Seibert and Jay Usher, additional music by Neal Grandstaff; live-recorded, real instruments with synthesized and sampled sounds
 [^ref-9]: [Mark Seibert Personal Website](http://www.markseibert.com/Sierra.htm) — His own "Credits 1987 - 2008" list
 [^ref-10]: [Adventure Classic Gaming - Mark Seibert Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/103/) — Joppe Bos, conducted a few months before Mask of Eternity's release (first posted June 30, 1999): "Back in 1988 I responded to an ad", "first and foremost an adventure game", "People love stories"
@@ -156,3 +160,6 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 [^ref-18]: [InterAction Magazine, Vol. V No. 2, Summer 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — Period scan: "Mark Seibert, Music Director and head of Sierra's professional in-house recording studio"
 [^ref-19]: [InterAction Magazine, Vol. V No. 4, Winter 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) — Period scan: "Girl in the Tower… Composed by Mark Seibert with lyrics by KQVI co-designer Jane Jensen"; Sierra Soundtrack Collection
 [^ref-20]: [InterAction Magazine, Holiday 1995](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) — Period scan: "Producer Mark Seibert… the producer's credit on King's Quest VII and Phantasmagoria"
+[^ref-21]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music Director: Mark Seibert"; "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"
+[^ref-22]: [MobyGames – The Dagger of Amon Ra credits (DOS, 1992)](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – "Music Director: Mark Seibert"; The Archaeologist Song: "Guitar: Mark Seibert"
+[^ref-23]: [Internet Archive – Hoyle Official Book of Games Volume 3 instructions](https://archive.org/details/hoyle-offical-book-of-games-v3-instructions) – Period scan, instruction booklet p. 12: "Music Director: Mark Seibert"

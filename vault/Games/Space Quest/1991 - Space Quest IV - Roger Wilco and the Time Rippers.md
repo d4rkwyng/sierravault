@@ -34,6 +34,7 @@ SpaceQuest.net describes it as "one of the first games ever with video captured 
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Mark Crowe]], [[Scott Murphy]][^ref-6]
 > **Creative Director:** [[Bill Davis]][^ref-6]
+> **Music Director:** [[Mark Seibert]][^ref-62]
 > **Music / Sound Programming:** [[Ken Allen]], Robert Atesalp, [[Mark Seibert]][^ref-62]
 > **Publisher:** Sierra On-Line[^ref-6]
 > **Engine:** SCI (Sierra Creative Interpreter)[^ref-6][^ref-2]
@@ -357,4 +358,4 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-59]: [Gaming After 40 – Adventure of the Week: Space Quest IV (2012)](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-space-quest-iv-roger.html) – bargain bin: "King's Quest XXXXVIII: Quest for Disk Space, which is 'over 12 gigabytes in length'"
 [^ref-60]: [Dragon Magazine – March 1992 (Issue 179)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23179%5Bocr%5D_djvu.txt) – Lesser family, Macintosh version review: "Space Quest IV is a guaranteed great purchase for your Mac"
 [^ref-61]: [ScummVM pull request #1547 – SCI: Fix SQ4CD Cedric easter egg, bug #10920](https://github.com/scummvm/scummvm/pull/1547) – merged March 23, 2019
-[^ref-62]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"
+[^ref-62]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music Director: Mark Seibert"; "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"
