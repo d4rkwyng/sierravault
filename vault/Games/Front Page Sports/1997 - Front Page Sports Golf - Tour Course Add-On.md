@@ -10,13 +10,13 @@ series: Front Page Sports
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: 'Three separate 18-hole course disks for Front Page Sports: Golf (Coeur d''Alene, Black Diamond Ranch and Pasatiempo), developed by Headgate Studios and published by Sierra On-Line in 1997, plus the free Sahalee download of 1998.'
 tags: [1990s, front-page-sports, sierra, golf, add-on]
 ---
 # Front Page Sports: Golf – Add-on Courses
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ No modern retrospective of the add-on disks has been located. A collector writin
 
 ### Origins
 
-Headgate Studios was founded by Vance Cook, who left Access Software in 1992 to form it, and was based in Salt Lake City. According to Sierra's own 1998 profile of the studio, Headgate developed TrueSwing for its golf engine, and Sierra acquired the company in 1996[^ref-39].
+Headgate Studios was founded by Vance Cook, who left Access Software in 1992 to form it, and was based in Bountiful, in the Salt Lake City area[^ref-40]. According to Sierra's own 1998 profile of the studio, Headgate developed TrueSwing for its golf engine, and Sierra acquired the company in 1996[^ref-39].
 
 ### Production
 
@@ -184,3 +184,4 @@ Sierra's catalogues and the Dynamix wiki list three retail add-on courses for Fr
 [^ref-37]: [Online Gaming Review – News, May 1997 (Wayback Machine)](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – News for May 16, 1997: "Sierra On-Line has released Front Page Sports: Golf."
 [^ref-38]: [Sierra Sports – PGA Golf: Championship Edition courses (Wayback Machine, 2001)](https://web.archive.org/web/20010902232455/http://www.sierrasports.com:80/golfce/courses.php) – course videos for Black Diamond Ranch, Prince Course, Couer d'Alene, Royal Birkdale, Pete Dye, Sahalee, Pasatiempo
 [^ref-39]: [InterAction Magazine, Issue 37 (Holiday 1998)](https://archive.org/details/inter-action-issue-37-holiday-1998) – designer profile of Vance Cook and Headgate Studios: left Access 1992, Salt Lake City, TrueSwing, "Sierra acquired Headgate in 1996"
+[^ref-40]: [Electronic Arts – Headgate Studios Team Joins EA (Business Wire, November 30, 2006; PDF)](https://s204.q4cdn.com/701424631/files/doc_news/2006/11/1/313912.pdf) – "Utah-based developer Headgate Studios, Inc."; "The development team will remain in Bountiful, Utah"

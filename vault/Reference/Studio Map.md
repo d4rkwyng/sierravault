@@ -40,7 +40,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Impressions Games]] | 1988 or 1989 (sources differ) | 1995 | Closed 2004 | United Kingdom; US studio in Cambridge, MA | Caesar, Pharaoh, Zeus, Emperor, Lords of the Realm[^ref-19][^ref-74][^ref-75][^ref-1] |
 | [[Papyrus Design Group]] | 1987 | 1995 | Closed by Vivendi Universal Games May 2004; NASCAR Racing 2003 Season copyrights sold to FIRST.net May 28, 2004 | Watertown, MA | NASCAR Racing series, IndyCar Racing, Grand Prix Legends[^ref-60][^ref-76][^ref-1] |
 | [[Synergistic Software]] | 1978 | 1996 | Closed February 22, 1999 | Seattle, WA (Renton offices from 1982) | Thexder 95, Birthright: The Gorgon's Alliance, Diablo: Hellfire[^ref-20][^ref-77][^ref-78][^ref-79][^ref-1] |
-| [[Headgate Studios]] | 1992 | April 1996 | Sold back to founder Vance Cook in 1999 or 2000 (sources differ); later EA Salt Lake; dissolved April 2017 | Bountiful, then Salt Lake City, UT | Front Page Sports: Golf, PGA Championship Golf series[^ref-1][^ref-30][^ref-80] |
+| [[Headgate Studios]] | 1992 | April 1996 | Sold back to founder Vance Cook, reportedly in 1999 (no period source found); later EA Salt Lake; dissolved April 2017 | Bountiful, then Salt Lake City, UT | Front Page Sports: Golf, PGA Championship Golf series[^ref-1][^ref-30][^ref-107][^ref-108] |
 | PyroTechnix | — | Agreement in principle December 8, 1997 (with the Return to Krondor rights, USD 1.2 million, from 7th Level) | Folded into Sierra's Bellevue headquarters February 1999 | Cincinnati, OH | Return to Krondor[^ref-81][^ref-72] |
 | SubLogic | October 1977 (Bruce Artwick) | All assets bought after the Papyrus deal (reported February 1996) | — | Champaign, IL | Flight Simulator series (pre-Sierra)[^ref-82][^ref-83] |
 
@@ -97,7 +97,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[AGD Interactive\|AGD Interactive]] | 2001 (as Tierra Entertainment) | Active | King's Quest I, II and III remakes (KQ3 Redux), Quest for Glory II remake[^ref-51] |
 | [[Infamous Adventures\|Infamous Adventures]] | 2004 | Stopped producing games July 2012 | King's Quest III remake (2006), Space Quest II VGA[^ref-52] |
 | [[Infamous Quests\|Infamous Quests]] | 2012 | Active, no longer full-time[^ref-99] | Quest for Infamy series, Order of the Thorne[^ref-53] |
-| [[Himalaya Studios\|Himalaya Studios]] | 2004 | Active | Al Emmo and the Lost Dutchman's Mine (2006), Mage's Initiation: Reign of the Elements (2019)[^ref-54] |
+| [[Himalaya Studios\|Himalaya Studios]] | 2004 | Active | Al Emmo and the Lost Dutchman's Mine (2006), Mage's Initiation: Reign of the Elements (2019)[^ref-54][^ref-109] |
 | SCP Sierra Conversion Project | — | Active | Amiga OCS enhanced conversions of Sierra games, beginning with Space Quest IV (2025–26)[^ref-55] |
 
 ## Licensed remake and revival studios
@@ -159,7 +159,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-51]: [Wikipedia — AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — "founded in 2001 by Britney K. Brimhall and Christopher T. Warren as Tierra Entertainment"; KQ I, KQ II, KQ III Redux and Quest for Glory II remakes
 [^ref-52]: [Wikipedia — Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) — founded 2004; King's Quest III remake June 19, 2006; Space Quest II; "July 27, 2012… no longer producing games"
 [^ref-53]: [Wikipedia — Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — "founded in 2012 by Steven Alexander and Shawn Mills"; Quest for Infamy; Order of the Thorne
-[^ref-54]: [Wikipedia — Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — founded 2004; Al Emmo "released on September 5, 2006"; Mage's Initiation: Reign of the Elements (2019)
+[^ref-54]: [Wikipedia — Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — founded 2004; Al Emmo (2006); Wikipedia gives September 5, 2006, but Himalaya's own press release is datelined September 6, 2006 (see ref-109); Mage's Initiation: Reign of the Elements (2019)
 [^ref-55]: [IndieRetroNews — Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP (December 2025, updated January 2026)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) — SCP's first Amiga OCS enhanced conversion
 [^ref-56]: [Wikipedia — The Odd Gentlemen](https://en.wikipedia.org/wiki/The_Odd_Gentlemen) — "founded by Matt Korba and Paul Bellezza in 2008"; King's Quest
 [^ref-57]: [Wikipedia — Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) — developer Triskell Interactive, publisher Dotemu; "Dotemu licensed it from Activision"; February 15, 2023
@@ -185,7 +185,6 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-77]: [Wikipedia — Thexder 95](https://en.wikipedia.org/wiki/Thexder_95) — developer Synergistic Software; publisher Sierra On-Line; 1995
 [^ref-78]: [Wikipedia — Birthright: The Gorgon's Alliance](https://en.wikipedia.org/wiki/Birthright:_The_Gorgon%27s_Alliance) — developer Synergistic Software; publisher Sierra On-Line; July 31, 1997
 [^ref-79]: [Wikipedia — Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) — developer Synergistic Software; publisher Sierra On-Line; November 1997
-[^ref-80]: [Gust — Headgate Studios, Inc. (company profile)](https://gust.com/companies/headgate-studios-inc) — "Vance Cook founded Headgate Studios in 1992. Sold it to Sierra Online in 1996. Bought it back in 2000."
 [^ref-81]: [7th Level — 7th Level in Pact To Sell PyroTechnix to Sierra On-Line (press release, December 8, 1997; Wayback, January 1998)](https://web.archive.org/web/19980129181814/http://www.7thlevel.com/newpages/press/1997/19971208.html) — "agreement in principle to sell its Cincinnati, Ohio-based PyroTechnix, Inc. games unit along with rights to… 'Return to Krondor'… for $1.2 million dollars"
 [^ref-82]: [Next Generation #14, February 1996, p. 25 — "Sierra acquires Papyrus, SubLogic" (Internet Archive scan)](https://archive.org/details/nextgen-issue-014) — Sierra "acquired Papyrus Design Group Inc.… and subsequently all the assets of flight sim developer Sub Logic"
 [^ref-83]: [Wikipedia — Sublogic](https://en.wikipedia.org/wiki/Sublogic) — founded October 1977 by Bruce Artwick; Urbana-Champaign, Illinois; Flight Simulator series
@@ -212,3 +211,6 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-104]: [MobyGames — Bright Star Technology, Inc. (Moby ID 809; Wayback, December 2024)](https://web.archive.org/web/20241207093539/https://www.mobygames.com/company/809/bright-star-technology-inc/) — "July 1992 Company acquired by Sierra On-Line, Inc."
 [^ref-105]: [Google Patents — US5689618A, Advanced tools for speech synchronized animation](https://patents.google.com/patent/US5689618A/en) — same 010461/0895 assignment and 015541/0374 merger records, effective 1999-10-29
 [^ref-106]: [InterAction Magazine, Vol. VI No. 3, Holiday 1993 (Sierra On-Line; archive.org scan)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) — "Bright Star Technology, Inc. a wholly owned subsidiary of Sierra On-Line, Inc."
+[^ref-107]: [Sierra On-Line, Inc. Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Agreement and Plan of Merger "dated as of April 12, 1996" among Sierra, Birdie Acquisition Corp., Headgate, Inc. (a Utah corporation) and its shareholders
+[^ref-108]: [Headgate Studios — Company Info (Wayback, September 2007)](https://web.archive.org/web/20070915034531/http://www.headgatestudios.com/company.html) — "Since it's creation in 1992"; Front Page Sports Golf, PGA Championship Golf '99 and 2000
+[^ref-109]: [Himalaya Studios — Press Releases (Wayback, October 2006)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) — "Al Emmo ships! Phoenix, Arizona - September 6, 2006"

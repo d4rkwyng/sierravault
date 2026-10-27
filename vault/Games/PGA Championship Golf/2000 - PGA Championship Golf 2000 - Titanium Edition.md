@@ -10,13 +10,13 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: An enhanced December 2000 re-release of PGA Championship Golf 2000 by Headgate Studios and Sierra Sports, adding seven new 18-hole courses and improved multiplayer.
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ The game is rated "Everyone" by the ESRB and "0" by the USK[^ref-33].
 
 ### Origins
 
-Headgate Studios developed the Titanium Edition, and Sierra Sports published it[^ref-11][^ref-23]. Headgate kept that name until Electronic Arts acquired it on December 1, 2006, when it "was renamed EA Salt Lake"[^ref-31]. Justin Kubiak, brand manager for Sierra Sports, said at launch: "We've published the Titanium Edition to present to the PC gaming community another opportunity to experience the award-winning PGA Championship Golf product line"[^ref-28].
+Headgate Studios developed the Titanium Edition, and Sierra Sports published it[^ref-11][^ref-23]. Headgate kept that name until Electronic Arts acquired it on November 30, 2006 (reported December 1), when it "was renamed EA Salt Lake"[^ref-40][^ref-31]. Justin Kubiak, brand manager for Sierra Sports, said at launch: "We've published the Titanium Edition to present to the PC gaming community another opportunity to experience the award-winning PGA Championship Golf product line"[^ref-28].
 
 ### Production
 
@@ -118,3 +118,4 @@ The minimum requirements are Windows 95, an Intel Pentium, 32 MB of RAM and a 4X
 [^ref-37]: [The Sierra Help Pages – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – Patch archive; 3.2.7.1 "includes seven new courses"; 3.3.4.5 covers PGA 2000 and Titanium Edition; German patch
 [^ref-38]: [SportPlanet – Planet CyberGolf: PGA 2000 Collectors Edition (archived)](https://web.archive.org/web/20011201135531/http://www.sportplanet.com/features/articles/cybergolf/113001/) – John Cauthen, November 30, 2001; quote is on [page 2 (GameSpy archive mirror)](https://gamespy-archives.quaddicted.com/sites/www.sportplanet.com/features/articles/cybergolf/113001/index2.shtml.html)
 [^ref-39]: [Gameswelt – PGA Championship Golf 2000 news](https://www.gameswelt.de/pga-championship-golf-2000/news) – "PGA Championship Golf Titanium Edition angekündigt", 11.12.00
+[^ref-40]: [Electronic Arts - Headgate Studios Team Joins EA (Business Wire, November 30, 2006; PDF)](https://s204.q4cdn.com/701424631/files/doc_news/2006/11/1/313912.pdf) – EA announced on November 30, 2006 that the Headgate Studios development team had joined EA; team remains in Bountiful, Utah
