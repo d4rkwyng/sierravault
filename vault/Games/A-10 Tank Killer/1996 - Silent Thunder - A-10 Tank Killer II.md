@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix' Terrain and 3DSpace technologies
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: '**Silent Thunder: A-10 Tank Killer II** is a flight simulation video
   game developed by Dynamix and published by Sierra On-Line in 1996 for Windows
   95 and Windows 3.1, the sequel to 1989''s A-10 Tank Killer.'
@@ -18,7 +18,7 @@ tags: [1990s, a-10-tank-killer, sierra, simulation]
 ---
 # Silent Thunder: A-10 Tank Killer II
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -48,7 +48,7 @@ Silent Thunder: A-10 Tank Killer II places players in the cockpit of the A-10 Th
 
 ### Mission Structure
 
-The game has 24 missions, with friendly and enemy aircraft and ground vehicles[^ref-9]. GameSpot noted that "the challenging continuity of campaign games can be found here as well"[^ref-6].
+The game has 24 missions, with friendly and enemy aircraft and ground vehicles[^ref-2][^ref-9]. GameSpot noted that "the challenging continuity of campaign games can be found here as well"[^ref-6].
 
 ## Gameplay
 
@@ -72,17 +72,13 @@ The retail version used DirectDraw; a special Direct3D version was made for the 
 
 The flight model includes realistic elements such as roll coupling, enhanced through post-release updates[^ref-10].
 
-The game balances accessibility for newcomers with enough complexity to satisfy serious flight simulation enthusiasts[^ref-6]. However, some reviewers noted that "this is NOT a game for the hard core flight sim enthusiast"[^ref-13], positioning it as an intermediate-level simulator rather than a hardcore simulation.
+GameSpot's Chris Hudak found "enough options and realism to hold the serious gamer's interest, minus all the mind-killing, rudder-twiddling minutiae which is the bane of so many otherwise fine combat simulations"[^ref-6]. GameSpot's "at a Glance" page for the game, as archived in 1997, was blunter: "This is NOT a game for the hard core flight sim enthusiast"[^ref-13].
 
 ### Weapons Systems
 
-The game features 10 different weapons available to players[^ref-9]. The box text says it "arms you with integrated weapons systems that fit your mission"[^ref-16].
+The game features 10 different weapons available to players[^ref-2]. The box text says it "arms you with integrated weapons systems that fit your mission"[^ref-16].
 
-A significant gameplay enhancement in version 1.01 allows players to drop weapons anywhere, regardless of whether they have a lock on the target[^ref-10]. This change gave players more tactical flexibility during attack runs.
-
-### Structure and Progression
-
-Silent Thunder features 24 missions and 10 weapons[^ref-9]. The game employs Dynamix' Terrain and 3DSpace technologies for realistic graphics[^ref-12].
+A significant gameplay enhancement in version 1.01 allows players to drop weapons anywhere, regardless of whether they have a lock on the target[^ref-10].
 
 ## Reception
 
@@ -90,7 +86,7 @@ Silent Thunder features 24 missions and 10 weapons[^ref-9]. The game employs Dyn
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| GameSpot | 8.5/10 | Chris Hudak praised graphics and accessibility[^ref-14] |
+| GameSpot | 8.5/10 | Chris Hudak praised the terrain graphics and the realism without sim minutiae[^ref-6][^ref-14] |
 | Computer Gaming World | 2/5 | Scott A. May's critical review[^ref-1] |
 | Computer Games Magazine | 4/5 | Rod White's positive assessment[^ref-1] |
 | MobyGames | 72% | Critic average of 13 ratings[^ref-15] |
@@ -102,7 +98,7 @@ The gap between GameSpot's 8.5/10 and Computer Gaming World's 2/5 shows how diff
 
 GameSpot's Chris Hudak captured the game's strengths: "A wicked, clean, no-B.S. combat sim with enough options and realism to hold the serious gamer's interest"[^ref-6]. The review praised the technical achievement of the graphics engine and the game's approach to balancing simulation depth with playability.
 
-Computer Gaming World's Scott A. May felt the game brought little new beyond its move to Windows 95: "Veteran Warthog warriors will enjoy the game's graphics overhaul and new mission selection, but they'll likely be disappointed by the inattention to improvements in other areas. If you're an absolute flight sim beginner, or if you're looking for an arcade action adrenaline release and you're extra-willing to suspend disbelief, SILENT THUNDER may be worth a look."[^ref-1]
+Computer Gaming World's Scott A. May felt the game brought little new beyond its move to Windows 95: "Veteran Warthog warriors will enjoy the game's graphic overhaul and new mission selection, but they'll likely be disappointed by the inattention to improvements in other areas. If you're an absolute flight sim beginner, or if you're looking for an arcade action adrenaline release and you're extra-willing to suspend disbelief, SILENT THUNDER may be worth a look."[^ref-1][^ref-26]
 
 ### Modern Assessment
 
@@ -120,7 +116,7 @@ One user on GOG's wishlist noted that "Silent Thunder A-10 TK2 is easily in my t
 
 ### Origins
 
-Silent Thunder was developed as a sequel to the original A-10 Tank Killer, building on the success of Dynamix's military simulation series[^ref-3]. Six years separated the two games, and the box text pitched the sequel as an introduction to flight simulation for the beginning gamer[^ref-16].
+Silent Thunder was developed as a sequel to the original A-10 Tank Killer[^ref-3]. A 1996 mail-order advertisement in Computer Gaming World billed it as "this sequel to the highly successful A-10 Tank Killer", with "3 fast paced campaigns with 24 action packed missions"[^ref-26]. Six years separated the two games, and the box text pitched the sequel as an introduction to flight simulation for the beginning gamer[^ref-16].
 
 ### Production Team
 
@@ -136,13 +132,13 @@ MobyGames credits 56 people[^ref-25]. Key roles:
 | Loudmouth | Original Music |
 | Jay Balakrishnan | Executive Producer |
 
-MobyGames notes that 21 people credited here were also credited on Dynamix's *Aces of the Deep*[^ref-25].
+MobyGames notes that 21 people credited here were also credited on Dynamix's *Aces of the Deep*[^ref-2].
 
 ### Music and Audio
 
 The game's soundtrack was composed by **Loudmouth**[^ref-1][^ref-25]. KHInsider's rip has 12 tracks running about 34 minutes[^ref-20].
 
-One notable track called "Jungle Salsa" features guitar and flute arrangements that became memorable to players[^ref-22]. The audio was delivered through redbook audio soundtrack technology[^ref-9], ensuring high-quality music playback for the era.
+One track, "Jungle Salsa", was singled out by one Reddit poster for its "Awesome guitar/flute"[^ref-22]. The music was a redbook audio soundtrack, which GameSpot said was "well worth the extra install space required"[^ref-6].
 
 A 2013 fan forum post asked where to find sheet music for the soundtrack[^ref-23].
 
@@ -175,7 +171,7 @@ The 1.01 patch addressed several issues:
 
 The game was later bundled in the "Action Pack: Earthsiege 2 + Silent Thunder" compilation alongside EarthSiege 2, released April 30, 1997[^ref-24]. On MobyGames that compilation has a single critic rating of 80%[^ref-24].
 
-### Cultural Impact
+### Opening Cinematic
 
 GameSpot's review said Silent Thunder "has one of the shortest, meanest cinematic intros you are likely to see in a Sierra title"[^ref-6].
 
@@ -190,10 +186,10 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 | Engine | Dynamix Terrain + 3DSpace[^ref-12] |
 | Graphics API | DirectDraw (retail); Direct3D (Screamin' 3D bundle)[^ref-21] |
 | Resolution | 640×480 @ 256 colors[^ref-7] |
-| Sound API | DirectSound, Redbook Audio[^ref-9] |
+| Sound API | DirectSound[^ref-10], Redbook Audio[^ref-6][^ref-9] |
 | Input Support | Keyboard, Mouse, Analog joystick[^ref-7] |
-| Missions | 24[^ref-9] |
-| Weapons | 10 types[^ref-9] |
+| Missions | 24[^ref-2] |
+| Weapons | 10 types[^ref-2] |
 | ESRB Rating | K-A (Kids to Adults), Animated Violence[^ref-7] |
 | 3D Accelerator | Rendition Vérité (bundle version only)[^ref-21] |
 
@@ -239,3 +235,4 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 [^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/silent-thunder-a-10-tank-killer-ii-where-to-get-the-sheet-music/) – Fan interest in soundtrack
 [^ref-24]: [MobyGames Action Pack](https://www.mobygames.com/game/41881/action-pack-earthsiege-2-silent-thunder/) – Compilation release details
 [^ref-25]: [MobyGames Credits (Windows)](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/credits/windows/) – Full 56-person credits list; working title
+[^ref-26]: [Computer Gaming World #143 (June 1996)](https://archive.org/details/Computer_Gaming_World_Issue_143) – Scott A. May's review text; Chips & Bits mail-order ad ("sequel to the highly successful A-10 Tank Killer")
