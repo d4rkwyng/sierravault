@@ -249,7 +249,7 @@ As Hardcore Gaming 101 noted, "it's practically impossible to get the good endin
 | Bob the Taxi Driver | Daniel Carver[^ref-29] |
 | Blue Person | Stuart Moulder[^ref-29] |
 | Drunk | J. Mark Hood[^ref-29] |
-| Flapper | Jane Jensen[^ref-29] |
+| Flapper | [[Jane Jensen]][^ref-29] |
 | Luigi | James O'Keefe[^ref-29] |
 | Writing Man | Robert Holmes[^ref-29] |
 | Stinky | Lorelei Shannon[^ref-29] |

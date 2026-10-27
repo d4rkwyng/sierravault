@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 composer: [Austin Haynes, Matthew Florianz]
 description: 'Cognition: An Erica Reed Thriller is a four-part episodic point-and-click
   adventure from Phoenix Online Studios, released 2012-2013, with Gabriel Knight creator
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -144,7 +144,7 @@ Following the campaign, the team developed the game using the Unity engine, with
 | Jason Victor | Robert Goodman |
 | Lisa Visotski | Gwen Graham |
 
-Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] Raleigh Holmes is the daughter of Robert Holmes, Jane Jensen's husband.[^ref-3][^ref-4][^ref-20]
+Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] In her own words, "My Dad, Robert Holmes, is in The Furies"; Robert Holmes is Jane Jensen's husband.[^ref-35]
 
 **Music:**
 The score is by Austin Haynes, with additional music by Matthew Florianz; the song "The Taking" was written by Robert Holmes and Raleigh Holmes and performed by Raleigh Holmes.[^ref-34][^ref-13] The Phoenix Online Store describes the soundtrack: "From tense shootouts to melancholy moments, the atmospheric music of Austin Haynes sets the mood for Cognition: An Erica Reed Thriller."[^ref-25]
@@ -253,3 +253,4 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-32]: [Steam - Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/) - Store description (Aggie Awards claim), system requirements, macOS 10.15 incompatibility
 [^ref-33]: [Game Informer - Cognition preview and game page](https://gameinformer.com/games/cognition/b/pc/archive/2012/03/06/a-supernatural-adventure-with-mystifying-visuals) - Platforms PC, iOS, Android; iOS/Android release February 8, 2018
 [^ref-34]: [MobyGames - Episode 1 Windows credits](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/credits/windows/) - Season design Bittar and Hallahan; music Austin Haynes, additional music Matthew Florianz, "The Taking" by Robert Holmes
+[^ref-35]: [Alternative Magazine Online – Interview: In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) – Marty Mulrooney, December 18, 2012; Raleigh Holmes: "My Dad, Robert Holmes, is in The Furies"; interviewer names Jane Jensen as her stepmother

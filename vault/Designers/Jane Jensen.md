@@ -5,15 +5,15 @@ birth_year: 1963
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "King's Quest VI: Heir Today, Gone Tomorrow"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio", "Oberon Media", "Hewlett-Packard"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Jane Jensen
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Jane Jensen (born Jane Elizabeth Smith, January 28, 1963, in Palmerton, Pennsylvania) is an American game designer and novelist, best known for creating Sierra On-Line's Gabriel Knight series.[^ref-1] After six years as a software engineer at Hewlett-Packard, she joined Sierra in 1991, co-designed King's Quest VI with Roberta Williams, and then wrote and designed all three Gabriel Knight games.[^ref-1][^ref-6] *Computer Gaming World* named Gabriel Knight: Sins of the Fathers co-winner of its Premier Adventure Game of the Year award, and named The Beast Within its overall Game of the Year.[^ref-20][^ref-21]
+Jane Jensen (born 1963) is an American game designer and novelist, best known for creating Sierra On-Line's [[Gabriel Knight Series|Gabriel Knight series]].[^ref-1] After six years as a software engineer at Hewlett-Packard, she joined Sierra in 1991, co-designed King's Quest VI with [[Roberta Williams]], and then wrote and designed all three Gabriel Knight games.[^ref-1][^ref-6] *Computer Gaming World* named Gabriel Knight: Sins of the Fathers co-winner of its Premier Adventure Game of the Year award, and named The Beast Within its overall Game of the Year.[^ref-20][^ref-21]
 
 Jensen "always wanted to be a writer," but chose computer science in college for a more practical career. "I love logic and logic puzzles, and programming is essential one big logic puzzle," she told Game Developer in 2007.[^ref-6] After Sierra she co-founded the casual games company Oberon, wrote novels, returned to adventure games with Gray Matter (2010) and her own studio Pinkerton Road, and since 2013 has also written romance fiction under the pen name Eli Easton.[^ref-6][^ref-5][^ref-23]
 
@@ -27,13 +27,13 @@ She sent Sierra a résumé and a short story, offering to do "programming, QA, w
 
 ### Sierra Years (1991–1999)
 
-Jensen joined Sierra On-Line in February 1991. "My first project was to do the doco and text of Police Quest 3 and then to co-design EcoQuest: Search for Cetus," she said in 1999.[^ref-4] Those were [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]].[^ref-4] She then co-designed, co-directed and co-wrote [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) with Roberta Williams, a game widely recognized as the high point of the series.[^ref-6][^ref-8][^ref-14] Jensen felt that "Roberta must have been pretty happy" with her work, because she was immediately given the chance to pitch her own series.[^ref-6]
+Jensen joined Sierra On-Line in February 1991. "My first project was to do the doco and text of Police Quest 3 and then to co-design EcoQuest: Search for Cetus," she said in a 1998 Sierra News One interview.[^ref-4] Those were [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]], which she co-designed with [[Gano Haine]].[^ref-4][^ref-31] She then co-designed, co-directed and co-wrote [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) with Roberta Williams, a game widely recognized as the high point of the series.[^ref-6][^ref-8][^ref-14] Jensen felt that "Roberta must have been pretty happy" with her work, because she was immediately given the chance to pitch her own series.[^ref-6]
 
-That pitch became Gabriel Knight. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-6] Ken Williams was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-6]
+That pitch became Gabriel Knight. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-6] [[Ken Williams]] was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-6]
 
 [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (1993), which Jensen designed, directed and wrote, received high praise from reviewers and was greenlit for a sequel.[^ref-2][^ref-14] [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995) was produced entirely in full-motion video.[^ref-2] *Computer Gaming World* named it the overall Game of the Year in its June 1996 awards issue, calling it "a clear-cut choice."[^ref-21] Jensen traveled to Germany to research the game's folklore.[^ref-1][^ref-4]
 
-Work on [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] began in 1995, by Jensen's own account. She called it the "hardest of the three Gabriel Knight games" to develop, as the adventure genre was becoming less marketable.[^ref-6] (The Strong Museum of Play's biography dates the start of her design work to the following year.)[^ref-2] On release in 1999 the mainstream press rated it little better than average, and Old Man Murray's Erik Wolpaw famously called one of its puzzles "genuinely deranged."[^ref-6]
+Work on [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] began in 1995, by Jensen's own account. She called it the "hardest of the three Gabriel Knight games" to develop, as the adventure genre was becoming less marketable.[^ref-6] (The Strong Museum of Play's biography dates the start of her design work to 1997, the year after The Beast Within's 1996 Game of the Year award.)[^ref-2] On release in 1999 the press response was mixed: adventure game focused reviewers "viewed the game in a favorable light," while much of the mainstream gaming press "rated the game as little better than average." Old Man Murray's Erik Wolpaw famously called one of its puzzles "genuinely deranged."[^ref-6]
 
 ### Oberon Media and Casual Games (2003–2011)
 
@@ -43,15 +43,15 @@ Asked by Adventure Game Hotspot in 2023 whether it was a big adjustment to tailo
 
 ### Gray Matter, Pinkerton Road and Later Work (2010–Present)
 
-[[2010 - Gray Matter|Gray Matter]] was first announced in 2003, as the secretive "Project Jane-J" at E3.[^ref-3][^ref-11] Jensen later explained the long delay: "The first publisher ended up dropping the project due to lack of funding. Then with the second publisher we had a development team change which really set the project back."[^ref-11] Publisher dtp re-announced the game at the Leipzig Games Convention in August 2006, handed development to the French studio Wizarbox in 2008, and released it in November 2010.[^ref-1][^ref-24]
+[[2010 - Gray Matter|Gray Matter]] was first announced in 2003, as the secretive "Project Jane-J" at E3.[^ref-3][^ref-11] Adventure Gamers later identified Gray Matter as the game "then known only as 'Project Jane-J'," which was officially "put on hold" in May 2004.[^ref-28] Jensen later explained the long delay: "The first publisher ended up dropping the project due to lack of funding. Then with the second publisher we had a development team change which really set the project back."[^ref-11] In August 2006 the German publisher dtp, under its Anaconda adventure label, announced it would publish the game, and Jensen unveiled it at the Leipzig Games Convention that month.[^ref-1][^ref-28][^ref-29] dtp handed development to the French studio Wizarbox in 2008,[^ref-24] and the game was released in November 2010.[^ref-1]
 
-On April 5, 2012, Jensen and her husband, composer Robert Holmes, announced their own studio, Pinkerton Road.[^ref-1][^ref-23] Launching it, she told Gamezebo: "I've always been an adventure game designer at heart, and I tried to incorporate as much of that as constraints allowed into my hidden object games." She added: "I think the casual market is ready for meatier material and I think third person adventure games will be a kind of revelation after all the first person HOGs."[^ref-19] After a Kickstarter campaign with more than 5,000 backers, Pinkerton Road released [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] in 2014.[^ref-2] She was also story consultant on Phoenix Online Studios' [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (2012–2013).[^ref-1]
+On April 5, 2012, Jensen and her husband, composer [[Robert Holmes]], announced their own studio, Pinkerton Road.[^ref-1][^ref-23] Launching it, she told Gamezebo: "I've always been an adventure game designer at heart, and I tried to incorporate as much of that as constraints allowed into my hidden object games." She added: "I think the casual market is ready for meatier material and I think third person adventure games will be a kind of revelation after all the first person HOGs."[^ref-19] After a Kickstarter campaign with more than 5,000 backers, Pinkerton Road released [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] in 2014.[^ref-2] She was also story consultant on [[Phoenix Online Studios]]' [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (2012–2013).[^ref-1]
 
-The studio did not continue. "It's a shame, because we could have done so much with Pinkerton Road. But if we do any more games, it will be with a publisher who fully finances them," Jensen told Adventure Game Hotspot in 2023.[^ref-10] In July 2024 she said she had written what was "basically like the first chapter of a new Gabriel Knight story," and that "Now that the licenses are with Microsoft, I think there's at least a chance" of it becoming a full game.[^ref-13] The first chapter, titled "Five Hearts," was released on November 19, 2024.[^ref-22]
+The studio did not continue. "It's a shame, because we could have done so much with Pinkerton Road. But if we do any more games, it will be with a publisher who fully finances them," Jensen told Adventure Game Hotspot in 2023.[^ref-10] In a mid-2024 interview she said she had written what was "basically like the first chapter of a new Gabriel Knight story," and that "Now that the licenses are with Microsoft, I think there's at least a chance" of it becoming a full game.[^ref-13] The first chapter, titled "Five Hearts," was released on November 19, 2024.[^ref-22]
 
 ### Novels and Eli Easton
 
-Jensen wrote novelizations of Gabriel Knight: Sins of the Fathers (1997) and The Beast Within (1998), and two original novels, Millennium Rising (1999, later retitled Judgment Day) and Dante's Equation (2003).[^ref-1][^ref-6][^ref-18] *Dante's Equation* received a special citation at the 2004 Philip K. Dick Award.[^ref-25] In 2016 Berkley Prime Crime published two Amish-country mysteries featuring detective Elizabeth Harris, *Kingdom Come* and *In the Land of Milk and Honey*.[^ref-26][^ref-27]
+Jensen wrote novelizations of Gabriel Knight: Sins of the Fathers (1997) and The Beast Within (1998), and two original novels, Millennium Rising (1999, issued in a variant edition as Judgment Day in 2000) and Dante's Equation (2003).[^ref-1][^ref-18][^ref-30] *Dante's Equation* received a special citation at the 2004 Philip K. Dick Award.[^ref-25] In 2016 Berkley Prime Crime published two Amish-country mysteries featuring detective Elizabeth Harris, *Kingdom Come* and *In the Land of Milk and Honey*.[^ref-26][^ref-27]
 
 Since 2013 she has also written gay romance fiction under the pen name Eli Easton, which she discussed openly with Vice in 2021: "I've come to love writing as Eli Easton."[^ref-5]
 
@@ -96,21 +96,26 @@ Credits per MobyGames:[^ref-14]
 
 - **2003** — Inspector Parker — Role: Designer
 - **2004** — Inspector Parker in Betrapped! — Role: Designer
+- **2005** — A Series of Unfortunate Events — Role: Designer
+- **2005** — Saints & Sinners Bingo — Role: Creative Director
 - **2007** — Agatha Christie: Death on the Nile — Role: Designer
 - **2007** — Agatha Christie: Peril at End House — Role: Designer
 - **2007** — James Patterson: Women's Murder Club – A Darker Shade of Grey — Role: Designer
 - **2008** — Dr. Lynch: Grave Secrets — Role: Game Designer
-- **2008** — James Patterson: Women's Murder Club – Death in Scarlet — Role: Original Design
+- **2008** — James Patterson: Women's Murder Club – Death in Scarlet — Role: Game Designer, Creative Director[^ref-32]
 - **2009** — James Patterson: Women's Murder Club – Twice in a Blue Moon — Role: Designer
+- **2009** — James Patterson: Women's Murder Club – Games of Passion — Role: Game Designer & Creative Director
 - **2009** — Agatha Christie: Dead Man's Folly — Role: Creative Director
+- **2010** — Agatha Christie: 4:50 from Paddington — Role: Creative Director
 - **2010** — Deadtime Stories — Role: Game Designer/Creative Director
+- **2010** — James Patterson: Women's Murder Club – Little Black Lies — Role: Creative Director
 - **2011** — Charlaine Harris: Dying for Daylight — Role: Game Designer
 
 ### Post-Sierra Adventures (2010–Present)
 
 - **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Designer, Writer
 - **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Role: Story Consultant
-- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Role: Designer, Creative Director
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Role: Designer, Creative Director, Executive Producer[^ref-14]
 - **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Role: Designer, Director, Writer
 
 ## References
@@ -118,7 +123,7 @@ Credits per MobyGames:[^ref-14]
 [^ref-1]: [MobyGames Profile](https://www.mobygames.com/person/2199/jane-jensen/) — Biography (birth, Anderson University, Hewlett-Packard, Germany research, King/Rice influences, Gray Matter announced Leipzig 2006, novels, Pinkerton Road April 5, 2012) and credits
 [^ref-2]: [Museum of Play](https://www.museumofplay.org/blog/building-a-mystery-spotlight-on-jane-jensen/) — "Building a Mystery: Spotlight on Jane Jensen"; staff writer, GK1 reception, FMV sequel, Kickstarter backers, 2014 releases, Jane Jensen papers
 [^ref-3]: [Adventure Classic Gaming Interview (2003, Wayback)](https://web.archive.org/web/20090909053447/http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Project Jane-J at E3 2003; "letters from women and older people"
-[^ref-4]: [Adventure Classic Gaming Interview (1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Joined Sierra "Feb. of '91"; Police Quest 3 and EcoQuest; Voodoo research; Germany trip for The Beast Within
+[^ref-4]: [Adventure Classic Gaming Interview (1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Posted 1 November 1999, "courtesy of Sierra News One © 1998"; joined Sierra "Feb. of '91"; Police Quest 3 and EcoQuest; Voodoo research; Germany trip for The Beast Within
 [^ref-5]: [Vice: Gabriel Knight Creator Jane Jensen's Successful Second Act: Erotic Novelist](https://www.vice.com/en/article/gabriel-knight-creator-jane-jensens-successful-second-act-erotic-novelist/) — Duncan Fyfe, March 31, 2021; Eli Easton pen name since 2013, in Jensen's own words
 [^ref-6]: [Game Developer: Playing Catch-Up: Gabriel Knight's Jane Jensen](https://www.gamedeveloper.com/pc/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) — Alistair Wallis, May 17, 2007; source of most early-career and Gabriel Knight quotes, GK3 work began 1995, Oberon co-founding
 [^ref-8]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Reception ("widely recognized as the high point in the series")
@@ -136,3 +141,8 @@ Credits per MobyGames:[^ref-14]
 [^ref-25]: [Science Fiction Awards Database: Philip K. Dick Award 2004](https://www.sfadb.com/Philip_K_Dick_Award_2004) — Special Citation: Dante's Equation, Jane Jensen (Del Rey)
 [^ref-26]: [Publishers Weekly: Jane Jensen author page](https://www.publishersweekly.com/pw/authorpage/jane-jensen.html) — Reviews of Kingdom Come and In the Land of Milk and Honey (Berkley Prime Crime)
 [^ref-27]: [Penguin Random House: In the Land of Milk and Honey](https://www.penguinrandomhouse.com/books/318779/in-the-land-of-milk-and-honey-by-jane-jensen) — Book 2 of the Elizabeth Harris novels; published by Berkley, August 2, 2016
+[^ref-28]: [Adventure Gamers: Jane Jensen's Gray Matter revived (Wayback, 2025-06-04)](https://web.archive.org/web/20250604223513/https://adventuregamers.com/news/view/20105) — Jack Allin, August 16, 2006; "German publisher ANACONDA announced it will be publishing Gray Matter"; "Then known only as 'Project Jane-J'"; unveiling at Leipzig
+[^ref-29]: [Wikipedia (German): dtp entertainment](https://de.wikipedia.org/wiki/Dtp_entertainment) — dtp used the "Anaconda" label for its adventure games from late 2005 until 2008
+[^ref-30]: [ISFDB: Jane Jensen summary bibliography](https://www.isfdb.org/cgi-bin/ea.cgi?Jane_Jensen) — Gabriel Knight series: Sins of the Fathers (1997), The Beast Within (1998); Millennium Rising (1999), variant Judgment Day (2000); Dante's Equation (2003)
+[^ref-31]: [MobyGames: EcoQuest: The Search for Cetus credits, DOS (Wayback, December 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) — "Design: Gano Haine, Jane Jensen"
+[^ref-32]: [MobyGames: James Patterson: Women's Murder Club – Death in Scarlet credits, Windows (Wayback, June 2024)](https://web.archive.org/web/20240604090955/https://www.mobygames.com/game/34308/james-patterson-womens-murder-club-death-in-scarlet/credits/windows/) — Windows (2008), I-Play Seattle: "Game Designer: Jane Jensen", "Creative Director: Jane Jensen"

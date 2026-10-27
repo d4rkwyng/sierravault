@@ -132,6 +132,7 @@ Jensen wrote over 6,000 messages for the game—reportedly four times the script
 - **Executive Designer:** Roberta Williams
 - **Co-Designer:** Jane Jensen
 - **Project Manager/Director:** William D. Skirvin
+- **Directors (MobyGames):** Jane Jensen, William D. Skirvin, Roberta Williams[^ref-56]
 - **Lead Programmer:** Robert W. Lindsley
 - **Programmers:** Randy MacNeill, Robert L. Mallory, Victor Sadauskas
 - **Additional Programming:** [[Doug Oldfield]], [[Carlos Escobar|Juan Carlos Escobar]][^ref-55]
@@ -393,5 +394,5 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-53]: [IMDb – King's Quest VI: Heir Today, Gone Tomorrow (1992), full cast & crew](https://www.imdb.com/title/tt0214857/fullcredits/) – complete voice cast with each actor's roles
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
 [^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
-[^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"
+[^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"; "Directed by Jane Jensen, William D. Skirvin, Roberta Williams"
 [^ref-57]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"

@@ -117,7 +117,7 @@ MobyGames player reviewers hold the game in similar regard. Ray Soderlund writes
 
 ### Origins
 
-By Jimmy Maher's account in The Digital Antiquarian, Jane Jensen "badgered them relentlessly until they finally hired her as a jack-of-all-trades writer in 1990";[^ref-5] a 2003 Adventure Classic Gaming interview instead dates her start at Sierra to 1991.[^ref-4]
+By Jimmy Maher's account in The Digital Antiquarian, Jane Jensen "badgered them relentlessly until they finally hired her as a jack-of-all-trades writer in 1990";[^ref-5] a 2003 Adventure Classic Gaming interview instead dates her start at Sierra to 1991,[^ref-4] and Jensen herself said in a 1998 Sierra News One interview: "I joined them in Feb. of '91."[^ref-64]
 
 Her background included a BA in Computer Science from Anderson University in Indiana and experience as a systems programmer at Hewlett-Packard.[^ref-4] She co-designed the first EcoQuest with Gano Haine and King's Quest VI with [[Roberta Williams]] before being given the opportunity to create her own project.[^ref-5]
 
@@ -418,3 +418,4 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-61]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) — 1994 Premier Awards: Adventure Game of the Year shared with Day of the Tentacle; Virginia Capers, Best Voice-over Acting (Female)
 [^ref-62]: [Power Unlimited Game Database (archived 2003)](https://web.archive.org/web/20030926034952/http://www.powerweb.nl/database/index.php?&query%5border%5d=datum&ending=DESC&query%5bstart%5d=460) — Entry dated 1994-04-01: Gabriel Knight, PC, 79 (Dutch)
 [^ref-63]: [MobyGames – Gabriel Knight: Sins of the Fathers credits (DOS)](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/credits/dos/) — Voice cast and roles; voice director Stuart M. Rosen; Audio Engineers (Richard and Kelli Spurgeon), Sound Effects (Braymen, Holmes, Hanley, R. Spurgeon, Seibert), Music Conversions (Grandstaff, Usher, Braymen)
+[^ref-64]: [Adventure Classic Gaming – Jane Jensen Interview (Sierra News One, 1998)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Posted 1 November 1999, "courtesy of Sierra News One © 1998": "I joined them in Feb. of '91."

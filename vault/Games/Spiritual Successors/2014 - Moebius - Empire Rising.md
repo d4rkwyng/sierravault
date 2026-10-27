@@ -82,7 +82,7 @@ The game received mixed reviews[^ref-2]. Several critics measured it against Jan
 
 ### Origins
 
-Pinkerton Road Studio was formed by Jane Jensen and her husband Robert Holmes as a way to return to game development as independents[^ref-2]. On April 10, 2012, the studio announced plans for a crowdfunded production of two graphic adventure games, *Moebius* and *Mystery Game X*[^ref-2]. The Kickstarter reached its $300,000 goal on May 7, 2012, and ended on May 19, 2012, having raised around $435,000 from backers (less fees)[^ref-2].
+Pinkerton Road Studio was formed by Jane Jensen and her husband Robert Holmes as a way to return to game development as independents[^ref-2]. On April 5, 2012, the studio announced itself and launched a Kickstarter to fund its first year of adventure games[^ref-27]; an April 7, 2012 capture of the campaign page already shows 1,119 backers and a May 19 deadline[^ref-28]. Wikipedia describes the plan as a crowdfunded production of two graphic adventure games, *Moebius* and *Mystery Game X*[^ref-2]. The Kickstarter reached its $300,000 goal on May 7, 2012, and ended on May 19, 2012, having raised around $435,000 from backers (less fees)[^ref-2].
 
 Wikipedia notes that the campaign was inspired by recent Kickstarter successes such as Double Fine's crowdfunding of *Double Fine Adventure*[^ref-2].
 
@@ -198,3 +198,5 @@ The game remains available on Steam and GOG[^ref-21][^ref-15].
 [^ref-24]: [IGN Italia – Moebius: Empire Rising Recensione](https://it.ign.com/moebius-empire-rising/72157/moebius-empire-rising-riporta-in-scena-jane-jensen) – Andrea Maderna's review, 7.9
 [^ref-25]: [Polygon – Moebius: Empire Rising review: remedial history](https://www.polygon.com/2014/4/24/5641066/moebius-empire-rising-review-remedial-history) – Danielle Riendeau's review: graphics and criticism
 [^ref-26]: [PCWorld – Moebius: Empire Rising review](https://www.pcworld.com/article/438859/moebius-empire-rising-review-those-who-dont-learn-from-my-mistakes-are-doomed-to-repeat-them.html) – technical issues
+[^ref-27]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) – Mike Rose, April 5, 2012; "it has launched a Kickstarter project to fund its first year of adventure games"
+[^ref-28]: [Kickstarter – Jane Jensen's Pinkerton Road (Wayback, April 7, 2012)](https://web.archive.org/web/20120407043807/http://www.kickstarter.com:80/projects/1005365109/jane-jensens-pinkerton-road-2012-2013-csg) – "1,119 Backers $83,834 pledged of $300,000 goal ... by Saturday May 19"
