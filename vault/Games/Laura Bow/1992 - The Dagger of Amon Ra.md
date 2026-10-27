@@ -31,7 +31,8 @@ The game showcases "gorgeous hand-painted, Art Deco-style backgrounds" and an "e
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Bruce Balfour]][^ref-1]
+> **Producer / Director:** [[Bruce Balfour]][^ref-29]
+> **Designer:** [[Bruce Balfour]][^ref-29][^ref-5]
 > **Creative Consultant:** [[Roberta Williams]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI 1.1[^ref-7]
@@ -43,9 +44,9 @@ The game showcases "gorgeous hand-painted, Art Deco-style backgrounds" and an "e
 
 ## Story Summary
 
-One year after the events of *The Colonel's Bequest*, Laura Bow has graduated from Tulane University and, with help from her father (a detective from New Orleans), landed a job at The New York Daily Register News Tribune[^ref-1]. Her first assignment is to investigate the theft of the Dagger of Amon Ra, an ancient Egyptian dagger, from the Leyendecker Museum's Egyptian exhibit[^ref-1]. The story begins with an ocean crossing[^ref-10].
+One year after the events of *The Colonel's Bequest*, Laura Bow has graduated from Tulane University and landed a job at The New York Daily Register News Tribune[^ref-1]. Her first assignment is to investigate the theft of the Dagger of Amon Ra, an ancient Egyptian dagger, from the Leyendecker Museum's Egyptian exhibit[^ref-1]. The story begins with an ocean crossing[^ref-10].
 
-After interviews around the city, Laura attends the museum's fundraising gala that evening. When the first murder occurs during the party, she is locked inside with the other suspects[^ref-1], trapped in the museum "surrounded by socialites, miscreants, thieves...and a cold, relentless murderer"[^ref-6]. As the night progresses, more bodies appear in increasingly gruesome conditions, and Laura must gather clues and interrogate suspects to unravel the mystery[^ref-11].
+After interviews around the city, Laura attends the museum's fundraising gala that evening. When the first murder occurs during the party, she is locked inside with the other suspects[^ref-1], trapped in the museum "surrounded by socialites, miscreants, thieves...and a cold, relentless murderer"[^ref-6]. As the night progresses, more bodies appear, and Laura must gather clues and interrogate suspects to unravel the mystery[^ref-11]; Hardcore Gaming 101 notes that where the deaths in *The Colonel's Bequest* were "relatively bloodless, they're quite gory here"[^ref-4].
 
 The cast of characters includes Dr. Pippin Carter, an archaeologist who compares himself to his cousin (implied to be Howard Carter, discoverer of Tutankhamun's tomb)[^ref-1]; Detective Ryan O'Riley, assigned to investigate the theft[^ref-1]; and numerous other suspects with their own secrets and motives.
 
@@ -113,22 +114,23 @@ The Egyptian setting emerged organically from the team's brainstorming. "Somethi
 
 ### Production
 
-[[Bruce Balfour]] served as lead designer, handling writing and puzzle designs, while Williams worked on concept design and character development so that the art, style, look and feel matched the first game[^ref-3]. Balfour reportedly worked on the game while watching Gulf War coverage on television in a hotel room[^ref-17]. He brought his background from *Neuromancer* and *Wasteland* to the project[^ref-4].
+[[Bruce Balfour]] served as producer, director and game designer[^ref-29], handling writing and puzzle designs, while Williams worked on concept design and character development so that the art, style, look and feel matched the first game[^ref-3]. Balfour reportedly worked on the game while watching Gulf War coverage on television in a hotel room[^ref-17]. He brought his background from *Neuromancer* and *Wasteland* to the project[^ref-4].
 
 Mandel recommended Balfour to Williams for the design role, and the two collaborated closely on the game's development[^ref-25]. Balfour pored over various art styles before finding inspiration in J.C. Leyendecker's work[^ref-25]. The game's Egyptology is heavily fictionalised; as TV Tropes notes, "Writer Josh Mandel admitted they didn't exactly have the budget to conduct extensive research"[^ref-27].
 
-The elaborate death scenes, which featured victims meeting gruesome ends connected to museum exhibits (including being devoured by Dermestid beetles), were "Bruce's (slightly perverse) imagination at work," according to Mandel[^ref-25]. The game's mature content led some fans to observe that "some of the verbal content was raunchier than the Leisure Suit Larry games"[^ref-28].
+The elaborate death scenes, in which each victim meets a gruesome end tied to a museum exhibit, were "Bruce's (slightly perverse) imagination at work," according to Mandel; he recalled that Lorelei Shannon "provided the inspiration for one of them: the Dermestid beetles"[^ref-25]. The game's mature content led some fans to observe that "some of the verbal content was raunchier than the Leisure Suit Larry games"[^ref-28].
 
 **Development Credits:**[^ref-29]
-- **Designer:** Bruce J. Balfour
+- **Producer / Director / Game Designer:** Bruce J. Balfour[^ref-29][^ref-5]
 - **Creative Consultant:** Roberta Williams
 - **Production Designer:** [[Andy Hoyos]][^ref-29]
 - **Writer:** [[Josh Mandel]]
+- **Additional Written Material:** Lorelei Shannon[^ref-29]
 - **Composer:** Christopher G. Braymen
 - **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
 - **Creative Director:** Bill Davis[^ref-1]
-- **Programmer:** Brian K. Hughes[^ref-1]
-- **Artist:** Cheryl Sweeney[^ref-1]
+- **Lead Programmer:** Brian K. Hughes[^ref-29]
+- **Art Director:** Cheryl Sweeney[^ref-29]
 
 ### Technical Achievements
 
@@ -144,7 +146,7 @@ Lisa Crabtree, Sierra's receptionist, posed as Laura Bow for the box cover[^ref-
 - **Resolution:** 320x200, 256 colors (VGA); MCGA and EGA modes also supported[^ref-7]
 - **Media:** 6 3.5" floppy disks
 - **Audio:** Sound Blaster, Pro Audio, Thunderboard; supports MT-32/CM-32 and General MIDI
-- **Copy Protection:** Document look-up/symbol identification
+- **Copy Protection:** Document look-up/symbol identification[^ref-5]
 
 **CD-ROM Version:**[^ref-30]
 - **Resolution:** 320x200, 256 colors (VGA)
@@ -155,7 +157,7 @@ Lisa Crabtree, Sierra's receptionist, posed as Laura Bow for the box cover[^ref-
 
 **System Requirements:**[^ref-30]
 - **OS:** MS-DOS 5.0 or Windows 3.0 or greater
-- **Processor:** 286 or better (runs on old 286 computer)[^ref-3]
+- **Processor:** 286 or better[^ref-5]
 - **RAM:** 640 KB RAM
 - **CD-ROM:** 2x CD-ROM (for CD version)
 - **Hard Drive:** 3 MB minimum, 15 MB recommended
@@ -203,7 +205,7 @@ The game contains numerous Sierra in-jokes and cultural references:
 - **Anonymous Bosch Painting:** Shows skeletons torturing "a dead king named Graham"[^ref-8]
 - **Buy Sierra Products:** Hieroglyphics in a passage translate to "buy Sierra products"[^ref-9]
 - **The Prisoner Reference:** When inspecting an NPC at the speakeasy, Laura's observation quotes "Questions are a burden to others; answers are a burden to oneself," paraphrasing the 1967-68 TV series[^ref-34]
-- **Ronald Reagan Joke:** The 3.5" floppy disk version contains a sign for "The Ronald Reagan Home For the Mentally Bewildered" on a building across from the newspaper office—this was removed from subsequent versions[^ref-28]
+- **Ronald Reagan Joke:** One player recalled on the AGD Interactive forums that the 3.5" floppy version described a building behind the newspaper office as "The Ronald Reagan Home For the Mentally Bewildered," and that it seemed to be gone from later versions "as far as I can tell"; no other source confirms it[^ref-28]
 - **Oakhurst Reference:** Using the magnifying glass on the glass reveals a reference to Sierra's hometown of Oakhurst, California[^ref-9]
 - **Clara Bow Tribute:** Laura Bow's name is a pun on silent film star Clara Bow[^ref-1]
 
@@ -222,6 +224,8 @@ Key variables affecting endings include:
 As Hardcore Gaming 101 noted, "it's practically impossible to get the good ending the first time through"[^ref-4].
 
 ## Voice Cast
+
+The cast below is from the 1993 CD-ROM version, which added voice acting; the original 1992 floppy release has no speech[^ref-1][^ref-8].
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -256,7 +260,7 @@ As Hardcore Gaming 101 noted, "it's practically impossible to get the good endin
 | Miscellaneous People | Scott Murphy[^ref-29] |
 | Screams and Moans | Pat Murphy[^ref-29] |
 
-Voice acting was performed by Sierra staff rather than professional actors[^ref-35]. Josh Mandel's voice for Steve Dorian was electronically lowered[^ref-17]. One GOG.com user review called the voice acting "attrotious [sic] but in an endearing way"[^ref-6]. Leslie Balfour, who voiced Laura and several other characters, later reflected: "The Dagger of Amon Ra is a great game, but for me, the prize was my husband of 23 years"—she married designer Bruce Balfour[^ref-17].
+Most of the voices were Sierra staff members, including some not involved in the game's production, such as Jane Jensen as the flapper[^ref-8][^ref-38][^ref-35]. The lead, Leslie Wilson, who voiced Laura, Yvette and the narrator, was not Sierra staff: Bruce Balfour cast her by audition after she showed she could do all three accents[^ref-17]. Josh Mandel's voice for Steve Dorian was electronically lowered[^ref-17]. One GOG.com user review called the voice acting "attrotious [sic] but in an endearing way"[^ref-6]. Leslie Balfour, who voiced Laura and several other characters, later reflected: "The Dagger of Amon Ra is a great game, but for me, the prize was my husband of 23 years"—she married designer Bruce Balfour[^ref-17].
 
 ## Legacy
 
@@ -267,8 +271,8 @@ The game retailed for $69.95[^ref-5]. Hardcore Gaming 101 writes that it "didn't
 ### Collections
 
 The game appeared in several Sierra compilations:
-- **1997 King's Quest Collection** - Included alongside *The Colonel's Bequest*[^ref-9]
-- **Roberta Williams Anthology** - Collected Williams' adventure games[^ref-9]
+- **1997 King's Quest Collection** - Included, like *The Colonel's Bequest*[^ref-38]
+- **Roberta Williams Anthology** - Collected Williams' adventure games[^ref-38]
 - **CD-ROM 2 Pak: Crime City / The Dagger of Amon Ra** (1993)[^ref-8]
 
 ### Fan Projects
@@ -306,7 +310,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - **Series:** [[Laura Bow Series]]
 - **Previous:** [[1989 - The Colonel's Bequest|← The Colonel's Bequest]] (1989)
 - **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight]] (contemporary detective adventure)
-- **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (designer/writer)
+- **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (producer, director and designer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 - **Announced Sequel:** Laura Bow and the Mechanical Codex (NineZyme, announced 2019; unreleased)
 
@@ -315,7 +319,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-1]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) – release dates, composers, trivia, contemporary reviews
 [^ref-8]: [MobyGames – The Dagger of Amon Ra](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/) – plot summary, gameplay description
 [^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/99/) – Robert Perrett review, technical specs, Lisa Crabtree trivia
-[^ref-4]: [Hardcore Gaming 101 – Laura Bow](http://www.hardcoregaming101.net/laura-bow-in-the-dagger-of-amon-ra/) – development background, Bruce Balfour career, Gabriel Knight reference
+[^ref-4]: [Hardcore Gaming 101 – Laura Bow (Wayback, January 2025)](https://web.archive.org/web/20250120213009/http://www.hardcoregaming101.net/laura-bow-in-the-dagger-of-amon-ra/) – development background, Bruce Balfour career, Gabriel Knight reference
 [^ref-5]: [Computer Gaming World Issue 99](https://archive.org/stream/Computer_Gaming_World_Issue_99/Computer_Gaming_World_Issue_99_djvu.txt) – Chuck Miller review, Art Deco description, pricing
 [^ref-6]: [GOG.com – The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra) – user ratings, system requirements, voice acting reviews
 [^ref-7]: [PCGamingWiki – The Dagger of Amon Ra](https://www.pcgamingwiki.com/wiki/The_Dagger_of_Amon_Ra) – engine info, platform releases, series listing
@@ -333,7 +337,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-26]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Roberta Williams executive designer role
 [^ref-27]: [TV Tropes – The Dagger of Amon Ra](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheDaggerofAmonRa) – CD-ROM changes, third game announcement, budget constraints quote
 [^ref-28]: [AGD Interactive Forums](https://www.agdinteractive.com/forum/viewtopic.php?t=13178) – Reagan easter egg, raunchy content comparison
-[^ref-29]: [MobyGames – DOS Credits](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – complete voice cast list; "Production Designer Andy Hoyos"
+[^ref-29]: [MobyGames – DOS Credits](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – complete voice cast list; "Producer Bruce J. Balfour / Director Bruce J. Balfour / Game Designer Bruce J. Balfour"; "Production Designer Andy Hoyos"
 [^ref-30]: [Sierra Help – Laura Bow 2](https://sierrahelp.com/Games/LauraBow/LauraBow2Help.html) – system requirements, bug documentation
 [^ref-31]: [VOGONS Forum – Compatibility](https://www.vogons.org/viewtopic.php?t=1020) – audio driver issues, VDMSound problems
 [^ref-32]: [MobyGames – User Review](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/user-review/2638101/) – save/restore bugs
@@ -341,3 +345,4 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-34]: [GameFAQs – Trivia](https://gamefaqs.gamespot.com/pc/565070-laura-bow-in-the-dagger-of-amon-ra/faqs) – The Prisoner reference
 [^ref-35]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/08/04/the-dagger-of-amon-ra-dos-review/) – voice acting by Sierra staff
 [^ref-37]: [The Adventurers' Guild – Won!](https://advgamer.blogspot.com/2017/10/the-dagger-of-amon-ra-won.html) – endgame playthrough, O'Riley as the killer, DOSBox "out of handles" error
+[^ref-38]: [Sierra Chest – Laura Bow 2](https://www.sierrachest.com/index.php?a=games&id=34&title=laura-bow-2) – "also included in the 1997 King's Quest Collection, as well as in the Roberta Williams Anthology"; CD-ROM voices by Leslie Balfour and other Sierra employees
