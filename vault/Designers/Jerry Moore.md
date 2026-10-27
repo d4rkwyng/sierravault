@@ -4,7 +4,7 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "King's Quest V", "Quest for Glory I VGA", "Space Quest IV", "The Colonel's Bequest"]
-companies: ["Sierra On-Line", "Westwood Studios"]
+companies: ["Sierra On-Line"]
 last_updated: "2026-10-26"
 ---
 # Jerry Moore
@@ -13,11 +13,11 @@ last_updated: "2026-10-26"
 
 ## Overview
 
-Gerald "Jerry" Moore is an American artist who worked on graphics and animation for numerous Sierra On-Line games between the mid-1980s and 1993.[^ref-1][^ref-2] His MobyGames biography says he trained in commercial art with a minor in computer science.[^ref-1]
+Gerald "Jerry" Moore is an artist who worked on graphics and animation for numerous Sierra On-Line games between the mid-1980s and 1993.[^ref-1][^ref-2] His MobyGames biography, user-submitted text that was on the site by early 2007, says he trained in commercial art with a minor in computer science.[^ref-1][^ref-23][^ref-24]
 
 His credits include [[1986 - The Black Cauldron|The Black Cauldron]], [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]], [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]], [[1989 - The Colonel's Bequest|The Colonel's Bequest]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-2][^ref-16] MobyGames also credits him on two of Westwood Studios' Legend of Kyrandia games.[^ref-2]
 
-According to the same biography, Moore was a founding member of the Association of Christian Entertainment (ACE) and later headed Dimensions Vertical, a small video game company he ran with his son.[^ref-1]
+According to the same biography, Moore later headed Dimensions Vertical, a small video game company.[^ref-1][^ref-24]
 
 ## Career
 
@@ -29,15 +29,15 @@ According to his MobyGames biography, Moore graduated from Point Loma College in
 
 Moore's earliest documented credits come from Sierra's mid-1980s games. He is one of four graphics artists credited on the DOS version of [[1986 - The Black Cauldron|The Black Cauldron]] (1986), alongside Mark Crowe, Karen Nugent and Terry Pierce.[^ref-16][^ref-17] With Al Lowe and Doug MacNeill he worked on the Apple II (1986) and TRS-80 CoCo (1987) conversions of [[1984 - Donald Duck's Playground|Donald Duck's Playground]], which Lowe originally wrote for the Commodore 64 in 1984.[^ref-3] MobyGames credits Moore and MacNeill with the graphics of the CoCo release.[^ref-4] MobyGames carries no credits for the C64 release.[^ref-18]
 
-By 1987, Moore had become a regular contributor to Sierra's growing catalog. He provided graphics for [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]].[^ref-2]
+MobyGames credits him with graphics on [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] (both 1987).[^ref-2] Sierra's own InterAction magazine described his Police Quest part as a small one: Greg Rowland handled much of the coding and graphic design, "with Al Lowe helping on the programming and Jerry Moore adding a few pictures".[^ref-19]
 
-As Sierra moved to its SCI engine, Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988).[^ref-8][^ref-2] On [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] (1989), the first game in what became the Quest for Glory series, he is credited with "Animation & Background Scenes".[^ref-5]
+As Sierra moved to its SCI engine, Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988).[^ref-8][^ref-2] On [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] (1989), the first game in what became the Quest for Glory series, he is credited with "Animation & Background Scenes".[^ref-5] InterAction listed him first of the game's four graphics artists, with Cindy Walker, Kenn Nishiuye and Jeff Crowe.[^ref-20]
 
-Moore and Douglas Herring are the two artists Wikipedia names for [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), Roberta Williams' murder mystery set in 1920s Louisiana.[^ref-7][^ref-11] He also provided additional artwork for [[1990 - Codename - Iceman|Code-Name: Iceman]] and is credited as a graphic artist on [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]].[^ref-2]
+Moore and Douglas Herring are the two artists Wikipedia names for [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), Roberta Williams' murder mystery set in 1920s Louisiana; InterAction's Fall 1989 issue credits the graphics to "Douglas Herring, Jerry Moore".[^ref-7][^ref-11][^ref-22] He also provided additional artwork for [[1990 - Codename - Iceman|Code-Name: Iceman]] and is credited as a graphic artist on [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]], where InterAction names him as the game's only graphics credit beside designer-programmer Warren Schwader.[^ref-2][^ref-21]
 
 In the VGA era he was one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990).[^ref-9] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]][^ref-13] and is credited as an artist on [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
 
-In 1991 he contributed graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]][^ref-10], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]][^ref-12], and art design to the SCI remake of [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]].[^ref-2]
+In 1991 he contributed graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]][^ref-10] and background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]].[^ref-12] He is also credited with art design on the SCI remake of [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]], which Sierra announced in 1990 and MobyGames dates to 1991.[^ref-2]
 
 His final Sierra credits include "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] (1992)[^ref-14], "Additional Animation and Mondo Thanks To" on [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - EcoQuest - Lost Secret of the Rainforest|Lost Secret of the Rainforest]] (1993).[^ref-2]
 
@@ -47,7 +47,7 @@ MobyGames also credits Moore on two games in Westwood Studios' Legend of Kyrandi
 
 ### Dimensions Vertical
 
-According to his MobyGames biography (undated user-submitted text), Moore was a founding member of ACE (Association of Christian Entertainment) and headed Dimensions Vertical, a small video game company he ran with his son. At the time it was written, their project was Progress 21, a 21st-century adaptation of John Bunyan's Pilgrim's Progress, for which they were seeking additional funding.[^ref-1] We have found no other source on Dimensions Vertical or Progress 21, or on whether the project continued.
+According to his MobyGames biography (user-submitted text; absent from a December 2004 snapshot of his MobyGames page and present by February 2007), Moore headed Dimensions Vertical, a small video game company. At the time it was written, its project was Progress 21, described as "a 21st century adaption of Pilgrim Progress" (presumably John Bunyan's *The Pilgrim's Progress*), for which it was seeking additional funding.[^ref-1][^ref-23][^ref-24] We have found no other source on Dimensions Vertical or Progress 21, or on whether the project continued.
 
 ## Notable Works
 
@@ -57,11 +57,11 @@ Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Ros
 
 ### Hero's Quest / Quest for Glory I (1989/1992)
 
-Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest]] (1989), Corey and Lori Cole's RPG-adventure hybrid.[^ref-5] He is later credited with "Incredible Artwork" on the [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|VGA remake]] (1992).[^ref-14]
+Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest]] (1989), Corey and Lori Cole's RPG-adventure hybrid.[^ref-5][^ref-20] He is later credited with "Incredible Artwork" on the [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|VGA remake]] (1992).[^ref-14]
 
 ### The Colonel's Bequest (1989)
 
-Moore worked alongside Douglas Herring on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], with credits for graphics and artwork.[^ref-7][^ref-11]
+Moore worked alongside Douglas Herring on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], with credits for graphics and artwork.[^ref-7][^ref-11][^ref-22]
 
 ### King's Quest V (1990)
 
@@ -81,17 +81,17 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 
 - **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Graphics (DOS)
 - **1986/1987** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: Graphics (Apple II and TRS-80 CoCo conversions)
-- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Graphics
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Graphics ("adding a few pictures", per InterAction)
 - **1987** — [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] — Role: Graphics
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Animation
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Animation & Background Scenes
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Animation & Background Scenes (InterAction: Graphics)
 - **1989** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Additional Artwork
-- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]] — Role: Graphic Artists
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]] — Role: Graphics
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Graphics / Artwork
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Artist
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Backgrounds and Animation
 - **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]] — Role: Artist
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Art Designer
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Art Designer (announced 1990; MobyGames dates it 1991)
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Graphics / Artwork
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Background Art & Animation
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want To Be A Hero (VGA)]] — Role: Incredible Artwork
@@ -103,12 +103,12 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 | Year | Title | Company | Role |
 |------|-------|---------|------|
 | 1993 | The Legend of Kyrandia: Hand of Fate (MobyGames: Fables & Fiends: Hand of Fate) | Westwood Studios | Graphics / Artwork |
-| 1994 | The Legend of Kyrandia: Malcolm's Revenge (1994) | Westwood Studios | Artist |
+| 1994 | The Legend of Kyrandia: Malcolm's Revenge | Westwood Studios | Artist |
 | 1994 | SimCity 2000: CD Collection | Maxis | Spiralopolis |
 
 ## References
 
-[^ref-1]: [MobyGames - Gerald Moore Biography](https://web.archive.org/web/20260330104950/https://www.mobygames.com/person/3851/gerald-moore/) — Profile (Wayback, March 2026): alias "Jerry Moore"; user-submitted biography (education, ACE, Dimensions Vertical); "Credited on 23 games"; frequent collaborators
+[^ref-1]: [MobyGames - Gerald Moore Biography](https://web.archive.org/web/20260330104950/https://www.mobygames.com/person/3851/gerald-moore/) — Profile (Wayback, March 2026): alias "Jerry Moore"; user-submitted biography (education, Dimensions Vertical); "Credited on 23 games"; frequent collaborators
 [^ref-2]: [MobyGames - Gerald Moore Credits](https://www.mobygames.com/person/3851/gerald-moore/credits/) — Game credits listing
 [^ref-3]: [FRGCB - Donald Duck's Playground (US Gold/Sierra On-Line, 1984)](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) — April 2014: "Converted for the Apple ][ computers in 1986 and TRS-80 CoCo in 1987 by Al Lowe, Jerry Moore and Doug MacNeill"
 [^ref-4]: [MobyGames - Donald Duck's Playground Credits (TRS-80 CoCo)](https://web.archive.org/web/20201024122615/https://www.mobygames.com/game/trs-80-coco/donald-ducks-playground/credits) — Wayback, October 2020: CoCo release (1987) "Graphics by Gerald Moore, Doug MacNeill"
@@ -125,3 +125,9 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 [^ref-16]: [MobyGames - The Black Cauldron Credits (DOS)](https://web.archive.org/web/20121221232555/http://www.mobygames.com/game/dos/black-cauldron/credits) — Wayback, December 2012: "Graphics: Mark Crowe, Gerald Moore, Karen Nugent, Terry Pierce"
 [^ref-17]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) — Game entry (MobyGames ID 194): DOS 1986
 [^ref-18]: [MobyGames - Donald Duck's Playground Credits (Commodore 64)](https://web.archive.org/web/20201028000000/https://www.mobygames.com/game/c64/donald-ducks-playground/credits) — Wayback, October 2020: "There are no credits for the Commodore 64 release of this game"
+[^ref-19]: [Sierra InterAction, Issue 2 (1987) – "Spotlight: Behind the Disk – Jim Walls, Police Quest Designer" (fan transcription)](http://sierrainteraction.wikidot.com/spotlight:behind-the-disk-jim-walls-police-quest-designer) — "Al Lowe helping on the programming and Jerry Moore adding a few pictures"
+[^ref-20]: [Sierra InterAction, Issue 6 (Fall 1989) – "Hero's Quest I: So You Want to be a Hero" (fan transcription)](http://sierrainteraction.wikidot.com/hero-s-quest-i:so-you-want-to-be-a-hero) — "Graphics: Jerry Moore, Cindy Walker, Kenn Nishiuye, Jeff Crowe"
+[^ref-21]: [Sierra InterAction, Issue 6 (Fall 1989) – "Hoyles Book of Games" by Bridget McKenna (fan transcription)](http://sierrainteraction.wikidot.com/hoyles-book-of-games) — "Designer/Programmer: Warren Schwader Graphics: Jerry Moore"
+[^ref-22]: [Sierra InterAction, Issue 6 (Fall 1989) – "The Colonel's Bequest" by Bridget McKenna (fan transcription)](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) — "Graphics: Douglas Herring, Jerry Moore"
+[^ref-23]: [MobyGames - Gerald Moore Rap Sheet (Wayback, December 2004)](https://web.archive.org/web/20041204162454/http://www.mobygames.com:80/developer/sheet/view/developerId,3851/) — alias "Jerry Moore"; no biography on file yet (Biography menu item inactive)
+[^ref-24]: [MobyGames - Gerald Moore Rap Sheet (Wayback, February 2007)](https://web.archive.org/web/20070218112716/http://www.mobygames.com:80/developer/sheet/view/developerId,3851/) — biography now present: Point Loma College 1975, Dimensions Vertical, "Progress 21, a 21st century adaption of Pilgrim Progress"

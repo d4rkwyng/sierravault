@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: None (card game collection)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a 1989 Sierra On-Line collection
   of six card games, designed by Warren Schwader, in which players face 18 computer
@@ -19,7 +19,7 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ Built with Sierra's Creative Interpreter (SCI), the engine Sierra developed for 
 
 As a card game collection, Hoyle Official Book of Games: Volume 1 has no traditional narrative. Instead, players sit down to cards against a cast of computer-controlled opponents[^ref-1].
 
-The game's charm lies in its character interactions rather than plot. Players choose from 18 opponents, divided between nine "not-so-serious" and nine "serious" players[^ref-3]. The cast mixes characters from Sierra games, Sierra staff such as Warren Schwader and Jerry Moore, their children, and others, including a card-playing dog named Bulldog[^ref-1][^ref-21].
+The game's charm lies in its character interactions rather than plot. Players choose from 18 opponents, divided between nine "not-so-serious" and nine "serious" players[^ref-3]. The cast mixes characters from Sierra games, Sierra staff such as Warren Schwader and Jerry Moore, their children, and others, including a card-playing dog named Bulldog[^ref-1][^ref-32][^ref-21].
 
 If a game is left idle, the computer players start talking amongst themselves[^ref-29]; *Computer Gaming World* noted that "Roger Wilco complains of being in the wrong game" and characters recount "their adventures in other Sierra games"[^ref-21]. The conversations can be toggled off from the Sierra menu[^ref-28].
 
@@ -113,7 +113,7 @@ The game was programmed using the SCI0 interpreter, the earliest version of Sier
 - **Producer:** Guruka Singh Khalsa
 - **Designer:** Warren Schwader
 - **Programmers:** Warren Schwader, David Slayback
-- **Graphics:** Jerry (Gerald) Moore, Warren Schwader
+- **Graphics:** Jerry (Gerald) Moore, Warren Schwader (Sierra's InterAction credits Moore alone for graphics)[^ref-31]
 - **Music and Sound:** Robert Atesalp
 - **Development System:** Jeff Stephenson, Robert E. Heitman, Pablo Ghenis, Stuart Goldstein
 - **Writers:** Ellen Guon (Beeman), David Skinner
@@ -310,3 +310,5 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 [^ref-28]: [Hoyle Official Book of Games Volume 1 manual (Museum of Computer Adventure Game History)](https://www.mocagh.org/sierra/hoyle-manual-alt.pdf) – credits, game list, menus (conversation toggle, Start a New Game, Rules)
 [^ref-29]: [MobyGames – Hoyle: Official Book of Games - Volume 1 trivia](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/trivia/) – idle conversations, Roger Wilco/King Graham moat exchange
 [^ref-30]: [MobyGames – Hoyle: Official Book of Games - Volume 1 reviews](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/reviews/) – critic and player averages
+[^ref-31]: [Sierra InterAction, Issue 6 (Fall 1989) – "Hoyles Book of Games" by Bridget McKenna (fan transcription)](http://sierrainteraction.wikidot.com/hoyles-book-of-games) – "Designer/Programmer: Warren Schwader Graphics: Jerry Moore"
+[^ref-32]: [MobyGames – Hoyle: Official Book of Games - Volume 1 (Wayback, October 2023)](http://web.archive.org/web/20231021195937/https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – description: opponents include "Sierra employees (Warren Schwader and Jerry Moore) and their children"

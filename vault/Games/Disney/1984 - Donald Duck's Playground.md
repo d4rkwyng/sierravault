@@ -116,7 +116,7 @@ C64-Wiki notes that the game slips in small lessons, such as Donald looking left
 - **Programmers:** Al Lowe, [[Jeff Stephenson]], Chris Iden[^ref-13]
 - **C64 program:** Al Lowe (per Lemon64 and FRGCB) or Chuck Benton (per MobyGames)[^ref-14][^ref-6][^ref-26]
 - **Graphics:** [[Mark Crowe]][^ref-13]
-- **C64 graphics:** Gerald Moore, Doug MacNeill (per MobyGames)[^ref-26]
+- **TRS-80 CoCo graphics:** Gerald Moore, Doug MacNeill (per MobyGames' CoCo credits)[^ref-31]
 - **Additional Design:** Walt Disney Personal Computer Software Design and Development Staff[^ref-6]
 - **Apple II / TRS-80 CoCo conversion:** Al Lowe, Jerry Moore, Doug MacNeill[^ref-6]
 - **Composer:** Al Lowe[^ref-13]
@@ -272,3 +272,4 @@ Not every modern reviewer is as warm. *Data Driven Gamer* rated its edutainment 
 [^ref-27]: [GameFAQs – PC FAQ by Forteblast](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground/faqs/70976) – AGI version controls, difficulty and game speed
 [^ref-29]: [Al Lowe – Biography](https://allowe.com/al/bio1.html) – Disney license context for Lowe's early Sierra titles
 [^ref-30]: [ScummVM – AGI detection table (detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – release builds, dates and interpreter versions for the PC booter, Atari ST, Amiga and DOS versions
+[^ref-31]: [MobyGames – Donald Duck's Playground Credits (TRS-80 CoCo)](https://web.archive.org/web/20201024122615/https://www.mobygames.com/game/trs-80-coco/donald-ducks-playground/credits) – Wayback, October 2020: "Graphics by Gerald Moore, Doug MacNeill" on the CoCo release
