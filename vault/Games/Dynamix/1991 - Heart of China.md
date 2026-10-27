@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: Heart of China is a 1991 point-and-click adventure developed by Dynamix
  and published by Sierra On-Line, in which pilot Jake "Lucky" Masters sets out to rescue
  nurse Kate Lomax from a Chinese warlord, told with digitized actors over hand-painted backgrounds.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -115,7 +115,9 @@ The actors were filmed against a white (or blue) screen and then superimposed on
 - **Designer:** [[Jeff Tunnell]]
 - **Writers:** David Atman, Tom Brooke, [[David Selle]][^ref-36]
 - **Composers:** Don Latarski, Christopher Stevens
+- **DGDS System:** [[Kevin Ryan]][^ref-37]
 - **Cast Member:** [[Damon Slye]] (British official)
+- **Cast Member:** [[Kevin Ryan]] (Airfield Immigration Official)[^ref-37][^ref-38]
 
 ### Technical Achievements
 
@@ -179,7 +181,7 @@ The game's design includes potential dead-ends where players can become stuck if
 
 ### Easter Eggs and Trivia
 
-- **Dynamix Cast Appearances:** Over eighty actors appear in the game, drawn from Dynamix employees and their families. Among them is Dynamix co-founder Damon Slye, who plays one of the British officials[^ref-6].
+- **Dynamix Cast Appearances:** Over eighty actors appear in the game, drawn from Dynamix employees and their families. Among them is Dynamix co-founder Damon Slye, who plays one of the British officials[^ref-6]. DGDS designer [[Kevin Ryan]] was pulled from his office by costume and casting lead Sher Alltucker and photographed as the Airfield Immigration Official "that you have to get past at the airport to get out of Hong Kong"[^ref-38].
 - **Film Influences:** The game draws explicit inspiration from Raiders of the Lost Ark and Romancing the Stone, with one reviewer noting it "plays out an awful lot like an Indiana Jones movie—the American protagonist, the ethnic sidekick, the love interest that isn't actually interested"[^ref-19].
 - **Alternative Title:** MobyGames lists "Shanghai Surprise" as an alternate title for the game[^ref-8].
 - **Red Baron Plug?** Lemon Amiga's reviewer wondered whether the game's "3D flight simulator" demonstration was "surreptitious advertising" for Dynamix's Red Baron[^ref-13].
@@ -274,3 +276,5 @@ Unlike Rise of the Dragon and Willy Beamish, it never received a CD-ROM release,
 [^ref-34]: [Just Adventure – Heart of China Walkthrough](https://www.justadventure.com/walkthrough/heart-of-china/) – playing as Lucky, Chi and Kate; marriage or ditch endings
 [^ref-35]: [MobyGames – Heart of China Releases](https://www.mobygames.com/game/164/heart-of-china/releases/) – per-platform publishers (Dynamix for DOS; Sierra On-Line for Amiga and Macintosh)
 [^ref-36]: [MobyGames – Heart of China credits (DOS), Wayback August 2018](https://web.archive.org/web/20180813045516/http://www.mobygames.com:80/game/dos/heart-of-china/credits) – "Original Story David Atman, Jeffrey Tunnell"; "Writers David Atman, Tom Brooke, David Selle"
+[^ref-37]: [MobyGames – Kevin Ryan credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220922013152/https://www.mobygames.com/developer/sheet/view/developerId,414/) – Heart of China (1991): "DGDS System"; Video/Cinematics: "Airfield"
+[^ref-38]: [Adventure Classic Gaming – "A short personal history of Dynamix's adventure games" by Kevin Ryan (2007)](https://www.adventureclassicgaming.com/index.php/site/features/268/) – Ryan on designing DGDS and being photographed as the Airfield Immigration Official

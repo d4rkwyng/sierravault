@@ -101,7 +101,7 @@ Players have left nostalgic comments on MyAbandonware, including "This game was 
 
 ### Origins
 
-The Incredible Machine series began in 1992 as a collaboration between designer [[Kevin Ryan]] and [[Jeff Tunnell]]'s team at Dynamix, on a budget of $36,000.[^ref-15] Inspired by Rube Goldberg's cartoons of absurdly complicated machines, the series went on to release seven more titles over nine years.[^ref-9]
+The Incredible Machine series began in 1992 at Jeff Tunnell Productions, the smaller studio [[Jeff Tunnell]] founded that year after stepping down as head of Dynamix, where designer [[Kevin Ryan]] built the first game's physics engine[^ref-40]; it was made on a budget of $36,000.[^ref-15] Inspired by Rube Goldberg's cartoons of absurdly complicated machines, the series went on to release seven more titles over nine years.[^ref-9]
 
 Even More Contraptions was a direct continuation of Return of the Incredible Machine: Contraptions, released a year earlier in 2000.[^ref-4] Kevin Ryan and Jeffrey Tunnell are both credited with additional design on Even More Contraptions.[^ref-1]
 
@@ -277,3 +277,4 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 [^ref-38]: [PC Zone #106 (September 2001), p. 74 – Internet Archive](https://archive.org/details/PC_Zone_Issue_106_2001-09_Dennis_Publishing_GB) – James Lyon's review: "210 levels plus a helpful 50 tutorials", "worth 47 per cent if you've already got its predecessor"
 
 [^ref-39]: [Contraption Maker blog - Old Team, Exciting New Product (Wayback)](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) – Jeff Tunnell, May 13, 2013: "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin)"
+[^ref-40]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher (2018): Tunnell stepped down at Dynamix to found Jeff Tunnell Productions in early 1992; Kevin Ryan's simulator experience behind the physics

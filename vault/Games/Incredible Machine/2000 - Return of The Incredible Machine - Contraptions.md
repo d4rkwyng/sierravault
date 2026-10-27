@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   game from Dynamix and Sierra, the first new Incredible Machine game in five years...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -115,7 +115,7 @@ The soundtrack was composed by Christopher Stevens, Timothy Steven Clarke and Sa
 
 An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in 2001[^ref-30][^ref-8]. Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
 
-Kevin Ryan, one of the game's designers, later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
+[[Kevin Ryan]], designer of the original Incredible Machine, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
 
 ## Purchase
 
@@ -166,3 +166,4 @@ Kevin Ryan, one of the game's designers, later made *Contraption Maker*, which h
 [^ref-44]: [KHInsider - Return of the Incredible Machine: Contraptions (Windows) (gamerip)](https://downloads.khinsider.com/game-soundtracks/album/return-of-the-incredible-machine-contraptions-windows-gamerip-2001) - 27 tracks
 [^ref-46]: [Amazon - Return of the Incredible Machine: Contraptions](https://www.amazon.com/dp/B00065FD3S) - Sierra product description
 [^ref-47]: [Absolute Games - Return of the Incredible Machine: Contraptions (archived)](https://web.archive.org/web/20071215031604/http://www.ag.ru/reviews/return_of_the_incredible_machine_contraptions) - Russian-language review, 80%
+[^ref-48]: [Steemit - Interesting People #25: Kevin Ryan on The Incredible Machine (February 2018)](https://steemit.com/gaming/@badastroza/interesting-people-25-kevin-ryan-on-the-incredible-machine) - Ryan: "I was actually involved in that one at first"; "ultimately I wasn't all that involved"
