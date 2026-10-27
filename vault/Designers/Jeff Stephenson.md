@@ -69,7 +69,7 @@ The Sierra fan wiki, which draws on his professional profile, says he went on to
 
 ### Adventure Game Interpreter (AGI)
 
-AGI was Sierra's first standardized adventure game engine, built for the animated, color adventure King's Quest that IBM commissioned for the PCjr.[^ref-8] Games built on AGI included the original entries in King's Quest, Space Quest, Police Quest and Leisure Suit Larry.[^ref-9]
+AGI was the adventure game engine Sierra developed after its earlier ADL engine, built for the animated, color adventure King's Quest that IBM commissioned for the PCjr.[^ref-8] Games built on AGI included the original entries in King's Quest, Space Quest, Police Quest and Leisure Suit Larry.[^ref-9]
 
 ### Sierra's Creative Interpreter (SCI)
 
