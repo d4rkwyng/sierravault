@@ -10,21 +10,21 @@ series: Space Quest
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel
-  to Sierra On-Line''s beloved Space Quest series, developed by a volunteer team known
+  to Sierra On-Line''s Space Quest series, developed by a volunteer team known
   as...'
 tags: [2010s, adventure, sierra, space-quest]
 ---
 # Space Quest: Vohaul Strikes Back
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel to Sierra On-Line's beloved Space Quest series, developed by a volunteer team known as Team VSB using the Adventure Game Studio engine.[^ref-1][^ref-26] Released on December 22, 2011, the game had been in development for over nine years, beginning in April 2002.[^ref-2] The game features space janitor Roger Wilco facing off against his resurrected arch-nemesis Sludge Vohaul on the treacherous ice world of Radon, where he must outwit an army of simian commandos and lead an indigenous revolution.[^ref-3]
+Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel to Sierra On-Line's Space Quest series, developed by a volunteer team known as Team VSB using the Adventure Game Studio engine.[^ref-1][^ref-26] Released on December 22, 2011, the game had been in development for over nine years, beginning in April 2002.[^ref-1] The game features space janitor Roger Wilco facing off against his resurrected arch-nemesis Sludge Vohaul on the treacherous ice world of Radon, where he must outwit an army of simian commandos and lead an indigenous revolution.[^ref-3]
 
-By the team's own estimate, the game is "larger than any installment of the original Space Quest series."[^ref-8] With approximately 90 playable rooms, 70 speaking characters, 8,000 lines of dialogue, 7,700 sprites, 50 pieces of music, 80 inventory items, and 60-70 unique ways for Roger Wilco to die, the game demonstrates the extraordinary dedication of its creators.[^ref-1] Rock, Paper, Shotgun praised it as "an excellent tribute to the series and a very enjoyable game in its own right," while GameCola's Nathaniel Hoover went so far as to call it "the best adventure game I've ever played."[^ref-5][^ref-6]
+By the team's own estimate, the game is "larger than any installment of the original Space Quest series."[^ref-8] It contains approximately 90 playable rooms, 70 speaking characters, 8,000 lines of dialogue, 7,700 sprites, 50 pieces of music, 80 inventory items, and 60-70 unique ways for Roger Wilco to die.[^ref-1] Rock, Paper, Shotgun praised it as "an excellent tribute to the series and a very enjoyable game in its own right," while GameCola's Nathaniel Hoover went so far as to call it "the best adventure game I've ever played."[^ref-5][^ref-6]
 
 The game was distributed entirely free of charge, as Team VSB never obtained official licensing rights from Activision, the current rights holder of the Space Quest property.[^ref-7] As the developers stated in their FAQ: "Vohaul Strikes Back was made by the fans for the fans. It has never been the intention of Team VSB to gain money from this project."[^ref-8]
 
@@ -33,7 +33,7 @@ The game was distributed entirely free of charge, as Team VSB never obtained off
 > **Designer:** Frederik Olsen, Patrick C. Johnston, Andres Kalle, Chris Ushko, Martin DeMontfort[^ref-26]
 > **Publisher:** Team VSB (Freeware)[^ref-8]
 > **Engine:** Adventure Game Studio[^ref-1]
-> **Platforms:** Windows; Linux installer and Mac (Wine wrapper) builds offered later[^ref-2][^ref-28]
+> **Platforms:** Windows; Linux installer and Mac (Wine wrapper) builds offered later[^ref-1][^ref-28]
 > **Release Year:** 2011
 > **Series:** Space Quest
 > **Protagonist:** Roger Wilco
@@ -41,7 +41,7 @@ The game was distributed entirely free of charge, as Team VSB never obtained off
 
 ## Story Summary
 
-The game takes place immediately after the events of Space Quest IV, finding Roger Wilco enjoying a well-deserved vacation with his girlfriend Beatrice Wankmeister on the romantic planet Romanticon VII.[^ref-11] Their peaceful getaway is interrupted when gorilla soldiers discover a floppy disk containing a backup of Sludge Vohaul's consciousness, setting in motion the villain's resurrection and return to villainy.[^ref-12] Beatrice, who is revealed to be pregnant and hoping to marry Roger, watches as her paramour is once again pulled into cosmic conflict.[^ref-13]
+Adventure Gamers' Rob Murrant places the game "immediately after Vohaul's defeat in Space Quest IV", where Vohaul's minions back him up to disk just before the destruction of the mainframe he inhabited; meanwhile, Roger Wilco is vacationing with his girlfriend Beatrice Wankmeister on the planet Romanticon VII.[^ref-11] Their peaceful getaway is interrupted when gorilla soldiers discover a floppy disk containing a backup of Sludge Vohaul's consciousness, setting in motion the villain's resurrection and return to villainy.[^ref-12] Beatrice, who is revealed to be pregnant and hoping to marry Roger, watches as her paramour is once again pulled into cosmic conflict.[^ref-13]
 
 Vohaul, having been defeated twice before by the bumbling janitor, embarks on his most ambitious revenge scheme yet.[^ref-26] Roger finds himself transported to the ice world of Radon, where Vohaul has established his new base of operations with an army of simian commandos at his disposal.[^ref-3] The robot body housing Vohaul's consciousness is humorously powered by a hamster running in a wheel, maintaining the series' tradition of absurdist comedy.[^ref-13]
 
@@ -76,7 +76,7 @@ The game spans approximately 90 playable screens across multiple distinct enviro
 
 ### Puzzles and Mechanics
 
-True to Space Quest tradition, the game features extensive inventory-based puzzles with over 80 collectible items to discover and utilize.[^ref-1] Adventure Gamers' Rob Murrant found the puzzles "challenging enough for even the most determined player but gentle enough for novices to make a reasonable amount of progress."[^ref-11] However, the game maintains the series' beloved "fun death" philosophy, offering 60-70 unique and often humorous ways for Roger to meet his demise.[^ref-1]
+True to Space Quest tradition, the game features extensive inventory-based puzzles with over 80 collectible items to discover and utilize.[^ref-1] Adventure Gamers' Rob Murrant found the puzzles "challenging enough for even the most determined player but gentle enough for novices to make a reasonable amount of progress."[^ref-11] Like the original series, the game offers many ways for Roger to die, 60-70 in all.[^ref-1]
 
 The game includes a memorable password system with security questions that feature characteristically snarky responses to incorrect answers, including a "Forgot password?" link that appears after several failed guesses.[^ref-12]
 
@@ -84,7 +84,7 @@ The game includes a memorable password system with security questions that featu
 
 ### Contemporary Reviews
 
-Space Quest: Vohaul Strikes Back received overwhelmingly positive reviews from gaming publications upon its release, with critics praising its faithful recreation of the Space Quest atmosphere and impressive scope for a fan project.
+The reviews quoted below were positive overall, while noting flaws such as a "shaky start"[^ref-5] and sprite animation that is "a bit crude".[^ref-18]
 
 Rock, Paper, Shotgun's Richard Cobbett acknowledged the game has a "shaky start" but concluded: "Give it an hour or so to get past the shaky start, and Vohaul Strikes Back becomes both an excellent tribute to the series and a very enjoyable game in its own right."[^ref-5] He called it "funny, surprisingly long, and well worth the download."[^ref-5]
 
@@ -96,11 +96,11 @@ IndieGames.com's Cassandra Khaw headlined her piece "Space Quest fans? This is w
 
 Shacknews' Jeff Mattas reported the game is "well written and funny, and seems to do an adept job at capturing the irreverent style and humor of its six official predecessors."[^ref-9]
 
-GameCola's Nathaniel Hoover provided perhaps the most enthusiastic assessment, declaring VSB the best adventure game he had ever played—including the good Monkey Islands—and the magazine rated it 9 (Excellent).[^ref-6]
+GameCola's Nathaniel Hoover declared VSB the best adventure game he had ever played—including the good Monkey Islands—and the magazine rated it 9 (Excellent).[^ref-6]
 
 ### Modern Assessment
 
-The game has maintained its positive reputation within the adventure gaming community, particularly among Space Quest enthusiasts. Community member jkohen captured the sentiment shared by many players: "An astounding remake of one of Sierra's most excellent classic ga— no, wait, this is a completely original fan game that matches the best of Sierra's productions and tops it with zannier humor and lots of passion."[^ref-3] The same comment adds: "This game is so faithful to the Sierra SQ games that I can hear the original narrator reading the lines."[^ref-3]
+On the Adventure Game Studio game page, community member jkohen wrote: "An astounding remake of one of Sierra's most excellent classic ga— no, wait, this is a completely original fan game that matches the best of Sierra's productions and tops it with zannier humor and lots of passion."[^ref-3] The same comment adds: "This game is so faithful to the Sierra SQ games that I can hear the original narrator reading the lines."[^ref-3]
 
 Even positive community reviews had reservations. GOG forum user cbingham, who rated it "a very good game. 8/10" (later raising it to 9/10 after discovering the second ending), praised the visuals—"The good about this game is that the backgrounds is beautiful. The pictures for the ice planet are just gorgeous"—while criticizing the recycled antagonist: "Vohaul's been done. Come up with new villains for crying out loud."[^ref-7] Reviewing for Adventure Gamers, Rob Murrant pointed out a clash between background and character art, while adding that, once well into the story, players would barely notice the two contrasting styles.[^ref-11]
 
@@ -113,7 +113,7 @@ Even positive community reviews had reservations. GOG forum user cbingham, who r
 
 ### Origins
 
-Development of Space Quest: Vohaul Strikes Back began on April 28, 2002, driven by passionate Space Quest fans who wanted to continue Roger Wilco's adventures after Sierra abandoned the series following Space Quest 6 in 1995.[^ref-26] The project represented the first original Space Quest game of this scale since that final official installment, making it a significant undertaking for the fan community.[^ref-21]
+Development of Space Quest: Vohaul Strikes Back began on April 28, 2002.[^ref-26] Adventure Gamers pitched the finished game at anyone who had "anxiously been awaiting a new Space Quest instalment since 1995".[^ref-11] Metacritic's summary calls it "the first original Space Quest game of this scale since 1995 when Space Quest 6 was released."[^ref-21]
 
 According to Sierra Chest, VSB "was the first full-length hi-res Space Quest fan-game ever released," positioning it as the first of the "Big Three" fan games—shortly followed by Infamous Adventures' Space Quest 2 VGA and Box of Mystery's Space Quest: Incinerations.[^ref-26] Their goal was to capture the spirit of the original Sierra games while learning from the design lessons of both Sierra and LucasArts adventures over the years.[^ref-6]
 
@@ -135,7 +135,7 @@ Adventure Gamers' Rob Murrant likened the visuals to "a combination of SQ5 and 6
 
 **Art:**
 - **Background Art:** Martin de Montfort[^ref-15]
-- **Animation:** Chris Ushko (also worked on Space Quest: Incinerations)[^ref-15][^ref-2]
+- **Animation:** Chris Ushko (also worked on Space Quest: Incinerations)[^ref-15][^ref-1]
 
 **Music & Audio:**
 - **Primary Composer:** Frederik Olsen (olzen)
@@ -148,7 +148,7 @@ Adventure Gamers' Rob Murrant likened the visuals to "a combination of SQ5 and 6
 
 Space Quest: Vohaul Strikes Back was built using Chris Jones' free Adventure Game Studio (AGS) engine.[^ref-1][^ref-8] According to Sierra Chest, in terms of puzzles, locations, dialogue and characters, VSB is "the largest Space Quest game to date."[^ref-26]
 
-The production values approached professional quality despite the fan-made nature of the project. The combination of hand-painted backgrounds with Flash animation created visuals that, while occasionally showing their amateur origins in sprite animation, presented gorgeous environmental art particularly notable in the ice planet sequences.[^ref-7][^ref-18]
+Reviewers singled out the backgrounds over the animation: Just Adventure's Greg Collins found the sprite animation "a bit crude",[^ref-18] while GOG forum user cbingham called the pictures for the ice planet "just gorgeous".[^ref-7]
 
 ### Technical Specifications
 
@@ -169,13 +169,13 @@ The production values approached professional quality despite the fan-made natur
 
 ### Cut Content
 
-The most significant planned feature that never materialized was the voice pack intended to add full speech to the game.[^ref-15] Shortly after release, a Team VSB member commenting on IndieGames.com noted they had already begun work on a voice pack for the game.[^ref-19] The talkie version was planned to include not only voice acting but also a substantial number of bugfixes.[^ref-8] However, despite these stated intentions, the voice pack was never completed and released.[^ref-2]
+The most significant planned feature that never materialized was the voice pack intended to add full speech to the game.[^ref-15] Shortly after release, a Team VSB member commenting on IndieGames.com noted they had already begun work on a voice pack for the game.[^ref-19] The talkie version was planned to include not only voice acting but also a substantial number of bugfixes.[^ref-8] However, despite these stated intentions, the voice pack was never completed and released.[^ref-1]
 
 ### Version History
 
 | Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | December 22, 2011 | Windows | Initial release[^ref-2] |
+| Original | December 22, 2011 | Windows | Initial release[^ref-1] |
 | AGS listing | December 23, 2011 | Windows | Date given on the AGS game page[^ref-3] |
 | Linux / Mac | Undated | Linux, Mac (Wine wrapper) | In January 2012 the team knew of no fully functional non-Windows AGS ports;[^ref-8] its later FAQ offers a Linux installer and a Mac Wine-wrapped version[^ref-28] |
 
@@ -226,7 +226,7 @@ The game was released without voice acting, with all dialogue presented as text.
 
 ### Sales and Commercial Impact
 
-As a free fan game, Space Quest: Vohaul Strikes Back generated no direct revenue, with the developers explicitly rejecting any commercial exploitation: "Then you got ripped off. Due to the nature of this game, it will always remain a freebie."[^ref-8] The Adventure Game Studio website lists 3,423 all-time downloads of the game (as of October 2026).[^ref-3]
+As a free fan game, Space Quest: Vohaul Strikes Back generated no direct revenue, with the developers explicitly rejecting any commercial exploitation: "Then you got ripped off. Due to the nature of this game, it will always remain a freebie."[^ref-8] The Adventure Game Studio website lists 3,426 all-time downloads of the game (as of October 26, 2026).[^ref-3]
 
 ### Awards
 
@@ -235,17 +235,17 @@ Space Quest: Vohaul Strikes Back earned recognition at the 2011 AGS Awards, the 
 - **Winner:** Best Non-Player Character (2011 AGS Awards)
 - **Nominee:** Best Gameplay (2011 AGS Awards)
 - **Nominee:** Best Background Art (2011 AGS Awards)
-- **Nominee:** Best Sound Effects (2011 AGS Awards)[^ref-27]
+- **Nominee:** Best Sound Effects (2011 AGS Awards), as listed on the AGS game page in 2013;[^ref-27] the nomination is absent from the AGS Awards 2011 wiki's Sound Effects list[^ref-22] and from the current AGS game page[^ref-3]
 - **Nominee:** Best Music (2011 AGS Awards)
 
 ### Fan Projects
 
-Space Quest: Vohaul Strikes Back was released as part of a remarkable cluster of Space Quest fan releases, with Rock, Paper, Shotgun observing that for a classic series to get one fan-made sequel was an achievement, but "to get three in one month is unprecedented":[^ref-5]
+Space Quest: Vohaul Strikes Back was released as part of a cluster of Space Quest fan releases, with Rock, Paper, Shotgun observing that for a classic series to get one fan-made sequel was an achievement, but "to get three in one month is unprecedented":[^ref-5]
 
 - **Space Quest II VGA:** "An excellent remake of a deeply awful game" by Infamous Adventures, featuring modernized graphics and interface[^ref-5]
 - **Space Quest: Incinerations:** A project that "completely re-imagines the whole Space Quest series as a sci-fi action thriller"[^ref-5]
 
-Several authors from Team VSB, most notably Chris Ushko, also contributed to Space Quest: Incinerations, creating a productive cross-pollination between fan projects.[^ref-2] Incinerations was notably designed so that "the Space Quest characters and references could be ripped out and replaced with original ones in the event of a Cease and Desist" from the rights holders.[^ref-5]
+Several authors from Team VSB, most notably Chris Ushko, also worked on Space Quest: Incinerations, which was released a few weeks later.[^ref-1] Incinerations was notably designed so that "the Space Quest characters and references could be ripped out and replaced with original ones in the event of a Cease and Desist" from the rights holders.[^ref-5]
 
 ### Related Publications
 
@@ -253,11 +253,11 @@ The game included a PDF manual accessible through the start menu folder, providi
 
 ### Critical Perspective
 
-Space Quest: Vohaul Strikes Back represents a landmark achievement in fan-made adventure gaming, demonstrating that dedicated volunteers could produce content matching or exceeding the scope of professional releases. The nine-year development cycle reflects both the challenges and possibilities of community-driven game development before crowdfunding platforms made such ambitious projects more sustainable.
+Adventure Gamers' Rob Murrant listed what it lacked ("cinematic cutscenes, voiceovers and perhaps a slightly more coherent art style") and wrote that "With these things it quite possibly could have passed for a commercial game".[^ref-11] The project was built by volunteers in their spare time over more than nine years.[^ref-1]
 
-The game's significance extends beyond its considerable length and polish. Its release alongside two other major Space Quest fan projects in the same month was, in Rock, Paper, Shotgun's words, "unprecedented" for a dormant classic series—evidence that Roger Wilco's adventures remained relevant nearly two decades after Sierra's final official entry.[^ref-5]
+Its release alongside two other major Space Quest fan projects in the same month was, in Rock, Paper, Shotgun's words, "unprecedented" for a dormant classic series—evidence that Roger Wilco's adventures remained relevant nearly two decades after Sierra's final official entry.[^ref-5]
 
-The project also showcased the maturation of the Adventure Game Studio community, with review aggregation showing the game achieved professional-level scores despite its amateur origins. Just Adventure's assessment that the game "probably took thousands of man-woman-robot hours to lovingly complete" speaks to both the labor involved and the community's capacity to sustain long-term creative endeavors.[^ref-18] For Space Quest fans, Vohaul Strikes Back stands as definitive proof that the janitor-turned-hero still has stories worth telling.
+Just Adventure's Greg Collins described it as a "professionally wrought AGS adventure that probably took thousands of man-woman-robot hours to lovingly complete."[^ref-18]
 
 ## Downloads
 
@@ -278,7 +278,7 @@ Space Quest: Vohaul Strikes Back positions itself as a direct sequel to the offi
 Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6,"[^ref-11] while the narrative tone is characterized as "Lighter and Softer" than the canonical entries.[^ref-12] The project includes numerous references and callbacks to the official series, with Space Quest 3 music appearing in the end credits.[^ref-7]
 
 **Fan Game Timeline:**
-- **Previous:** N/A (first in fan timeline)
+- **Previous:** N/A (first of the Vohaul Strikes Back / Incinerations continuity; earlier Space Quest fan games include [[2001 - Space Quest - The Lost Chapter]] and [[2003 - Space Quest 0 - Replicated]])
 - **Next:** Space Quest: Incinerations (2012)
 
 ## See Also
@@ -298,8 +298,7 @@ Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6
 
 ## References
 
-[^ref-1]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – technical specifications, development timeline, content statistics
-[^ref-2]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest%3A_Vohaul_Strikes_Back) – release date, platforms, development history, cut content
+[^ref-1]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – technical specifications, development timeline, content statistics, release date, cut voice pack, Ushko's work on Incinerations
 [^ref-3]: [Adventure Game Studio – Game #1509](https://www.adventuregamestudio.co.uk/play/game/1509/) – release date, technical specs, user reviews, download statistics
 [^ref-5]: [Rock, Paper, Shotgun – Roger Wilco Not Over And Out](http://www.rockpapershotgun.com/2012/01/19/space-quest-roger-wilco-not-over-and-out/) – Richard Cobbett review, Easter eggs, fan project coverage
 [^ref-6]: [GameCola – Space Quest: Vohaul Strikes Back Review](https://gamecola.net/2014/04/space-quest-vohaul-strikes-back/) – Nathaniel Hoover review, score, design analysis

@@ -10,23 +10,23 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
-description: 'Space Quest: Incinerations is an ambitious fan-made sequel to Sierra''s
-  beloved Space Quest series, released free on January 11, 2012 by Chris Ushko under
+last_updated: '2026-10-26'
+description: 'Space Quest: Incinerations is a fan-made sequel to Sierra''s
+  Space Quest series, released free on January 11, 2012 by Chris Ushko under
   his Box of Mystery label.'
 tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Space Quest: Incinerations is an ambitious fan-made sequel to Sierra's beloved Space Quest series, released on January 11, 2012 by Chris Ushko under his Box of Mystery studio label[^ref-1][^ref-2]. Rock, Paper, Shotgun noted its "scale that goes above and beyond the call of duty for any fan-made game"[^ref-10]; it features over 45 minutes of fully-animated cinematics, 3D-rendered sprites and backgrounds, multiple endings, an achievement system, and over an hour of original music[^ref-3][^ref-7]. Set approximately ten years after the events of Space Quest 6: Roger Wilco in the Spinal Frontier, the game follows the continuing misadventures of space janitor Roger Wilco as he battles to rescue his beloved Beatrice, recover his stolen luggage, and save the universe from destruction[^ref-5][^ref-6].
+Space Quest: Incinerations is a fan-made sequel to Sierra's Space Quest series, released on January 11, 2012 by Chris Ushko under his Box of Mystery studio label[^ref-1][^ref-2]. Rock, Paper, Shotgun noted its "scale that goes above and beyond the call of duty for any fan-made game"[^ref-10]; it features over 45 minutes of fully-animated cinematics, 3D-rendered sprites and backgrounds, multiple endings, an achievement system, and over an hour of original music[^ref-3][^ref-7]. Set approximately ten years after the events of Space Quest 6: Roger Wilco in the Spinal Frontier, the game follows the continuing misadventures of space janitor Roger Wilco as he battles to rescue his beloved Beatrice, recover his stolen luggage, and save the universe from destruction[^ref-5][^ref-6].
 
 The project was six years in development[^ref-3], originally started as a team project in 1999 before being cancelled and revived in 2006[^ref-7]. Ushko ended up working largely as a solo developer[^ref-16], and at release described himself as "still in school" with no serious commercial work yet[^ref-9]. The game re-imagines the Space Quest universe in the style of a modern sci-fi action-thriller while maintaining the comedic sensibilities and puzzle-based gameplay that defined the original series[^ref-3]. As one reviewer noted, "it packs every bit as much charm, considerably more action, and isn't afraid to poke a little fun at itself where necessary"[^ref-10].
 
-Incinerations was released alongside Space Quest: Vohaul Strikes Back and the Space Quest 2 Remake as part of what fans called "The Big Three" fan sequels[^ref-7]; Rock, Paper, Shotgun called three fan-made sequels in one month "unprecedented"[^ref-10]. The game received praise from critics and fans alike, with Adventure Gamers' Rob Murrant calling it "one of the best fan made adventure games out there" and noting that "had it been released in the late '90s, it could easily have been a commercial spiritual sequel to Space Quest 6"[^ref-11]. Rock, Paper, Shotgun described it as "a wonderful surprise" that "has no trouble impressing with the kind of action the Space Quest series never came close to, and to a scale that goes above and beyond the call of duty for any fan-made game"[^ref-10].
+Incinerations was released alongside Space Quest: Vohaul Strikes Back and the Space Quest 2 Remake as part of what fans called "The Big Three" fan sequels[^ref-7]; Rock, Paper, Shotgun called three fan-made sequels in one month "unprecedented"[^ref-10]. Adventure Gamers' Rob Murrant called it "one of the best fan made adventure games out there" and wrote that "had it been released in the late '90s, it could easily have been a commercial spiritual sequel to Space Quest 6"[^ref-11]. Rock, Paper, Shotgun described it as "a wonderful surprise" that "has no trouble impressing with the kind of action the Space Quest series never came close to, and to a scale that goes above and beyond the call of duty for any fan-made game"[^ref-10].
 
 > [!info]- Game Info
 > **Developer:** Box of Mystery[^ref-1]
@@ -77,9 +77,9 @@ True to Space Quest tradition, the game embraces "fun death" with numerous creat
 
 ### Contemporary Reviews
 
-Space Quest: Incinerations received largely positive reviews upon its release in 2012. Rock, Paper, Shotgun's Richard Cobbett called it "a wonderful surprise" and, comparing it with Vohaul Strikes Back, concluded: "Both of Roger's new adventures are worth a play, but if you only have time for one, download this"[^ref-10]. He also wrote that "it has no trouble impressing with the kind of action the Space Quest series never came close to, and to a scale that goes above and beyond the call of duty for any fan-made game"[^ref-10].
+Rock, Paper, Shotgun's Richard Cobbett called it "a wonderful surprise" and, comparing it with Vohaul Strikes Back, concluded: "Both of Roger's new adventures are worth a play, but if you only have time for one, download this"[^ref-10]. He also wrote that "it has no trouble impressing with the kind of action the Space Quest series never came close to, and to a scale that goes above and beyond the call of duty for any fan-made game"[^ref-10].
 
-Adventure Gamers featured the game in their "Following Freeware" coverage, describing it as part of "a killer quest through time and space"[^ref-4]. Reviewer Rob Murrant praised "the superb 45-plus minutes of cinematics" and concluded that "Space Quest: Incinerations is one of the best fan made adventure games out there" and that "had it been released in the late '90s, it could easily have been a commercial spiritual sequel to Space Quest 6, with its top notch visuals, clever puzzles and an intriguing storyline that keep you coming back for more"[^ref-11].
+Adventure Gamers covered the game in its January 2012 "Following Freeware" column, whose teaser read "A killer quest through time and space yielded another great batch of indie games"[^ref-4]. Reviewer Rob Murrant praised "the superb 45-plus minutes of cinematics" and concluded that "Space Quest: Incinerations is one of the best fan made adventure games out there" and that "had it been released in the late '90s, it could easily have been a commercial spiritual sequel to Space Quest 6, with its top notch visuals, clever puzzles and an intriguing storyline that keep you coming back for more"[^ref-11].
 
 GameFAQs user reviewer Menbailee awarded the game 9.2/10, declaring it "Space Quest gets the Unofficial Finale it Deserves"[^ref-2]. The reviewer went so far as to state that "Sierra needs to acquire and market commercially, and they should reward creator Chris Ushko handsomely for almost singlehandedly providing them with a sequel that rivals the studio's own best work during its glory days"[^ref-2]. The review concluded that "This game doesn't just rank among my favorite fan-produced games; it ranks among my favorite Space Quests"[^ref-2].
 
@@ -87,13 +87,13 @@ GameCola's Nathaniel Hoover was more measured in his assessment, awarding the ga
 
 ### Modern Assessment
 
-The game has maintained a strong reputation among Space Quest fans in the years since its release. GOG.com forum user cbingham gave the game a 10/10, asserting that "It is possible that the best 'Space Quest' game ever is a fan game and not an official game"[^ref-15]. The same reviewer specifically praised the soundtrack as "AMAZING! One of the top soundtracks I have ever experienced in a game, official or fan-made" and noted that "The puzzles are perfectly fair, and very well hinted-at"[^ref-15].
+GOG.com forum user cbingham gave the game a 10/10, asserting that "It is possible that the best 'Space Quest' game ever is a fan game and not an official game"[^ref-15]. The same reviewer specifically praised the soundtrack as "AMAZING! One of the top soundtracks I have ever experienced in a game, official or fan-made" and noted that "The puzzles are perfectly fair, and very well hinted-at"[^ref-15].
 
 On Telltale Games' community forum, players praised Ushko's animation work, with one user commenting: "Are you a professional animator, Datadog? I think if you ever wanted to get a job as an animator at Telltale or something, this game is the only resume you'd need"[^ref-9].
 
 **Aggregate Scores:**
 - **MobyGames:** 70% critics average (2 reviews), 4.2/5 players average (2 ratings)[^ref-5]
-- **Adventure Game Studio Page:** 100% player rating[^ref-7]
+- **Adventure Game Studio Page:** 100% player rating (per the Omnipedia, undated)[^ref-7]
 - **GameFAQs:** Fair (1 rating)[^ref-6]
 
 ## Development
@@ -106,11 +106,11 @@ Ushko, known in the fan community by his handle "Datadog," had previously been i
 
 ### Production
 
-The development of Incinerations was troubled, with the project eventually becoming "basically a solo project" for Ushko despite initial plans for team collaboration[^ref-16]. Asked on the Telltale forum whether he was a professional animator, Ushko replied that he hadn't "done any serious commercial work yet (still in school)"[^ref-9]. As he reflected upon release: "As an animator, this game has been a real thrill ride to make"[^ref-3].
+GameCola's reviewer had read that Incinerations "had a troubled development, ended up basically being a solo project"[^ref-16]. Asked on the Telltale forum whether he was a professional animator, Ushko replied that he hadn't "done any serious commercial work yet (still in school)"[^ref-9]. As he reflected upon release: "As an animator, this game has been a real thrill ride to make"[^ref-3].
 
-The game was released as part of "The Big Three"—three major Space Quest fan games released in close proximity. These included Vohaul Strikes Back and the Space Quest 2 Remake by Infamous Adventures; Ushko's release announcement described Incinerations as "following hot in the footsteps" of both[^ref-3][^ref-7]. The simultaneous releases created a notable moment in the Space Quest fan community.
+The game was released as part of "The Big Three"—three major Space Quest fan games released in close proximity. These included Vohaul Strikes Back and the Space Quest 2 Remake by Infamous Adventures; Ushko's release announcement described Incinerations as "following hot in the footsteps" of both[^ref-3][^ref-7]. Rock, Paper, Shotgun called three fan-made sequels in one month "unprecedented"[^ref-10].
 
-The game was designed with legal considerations in mind, structured so that "any relationship with Roger Wilco and Space Quest name could easily be jettisoned if anyone issued a cease-and-desist"[^ref-16]. The game was released as a free download[^ref-18][^ref-24].
+The game was designed with legal considerations in mind, structured so that "any relationship with Roger Wilco and the Space Quest name could easily be jettisoned if anyone issued a cease-and-desist"[^ref-16]. The game was released as a free download[^ref-18][^ref-24].
 
 **Development Credits:**[^ref-7]
 - **Director/Writer:** Chris Ushko
@@ -147,15 +147,17 @@ The game's 45-plus minutes of fully-animated cinematics were singled out by Adve
 
 ### Cut Content
 
-Several deaths were cut from the final game due to time constraints, including a paper shredder death and the ability to attack the general with a nail file[^ref-9].
+Ushko said the game was "lighter on deaths than is tradition" because animating 3D deaths was "more time-consuming than it sounds"; he hoped to add deaths he had "cut corners on", such as "getting sucked into a paper shredder or attacking the general with a nail file", in a future release[^ref-9].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | January 11, 2012 | Windows | Initial release[^ref-5] |
-| 1.0 | 2012 | Linux | Linux port[^ref-5] |
-| 1.0 | 2012 | Macintosh | Mac port[^ref-5] |
+| n/a | January 11, 2012 | Windows | Initial release[^ref-5] |
+| n/a | January 11, 2012 | Linux | Linux port (ported by Brian Seligman)[^ref-5][^ref-24] |
+| n/a | January 11, 2012 | Macintosh | Mac port (ported by Brian Seligman)[^ref-5][^ref-24] |
+
+No game version numbers are documented in the sources consulted.
 
 ### Technical Issues
 
@@ -171,7 +173,7 @@ The game is filled with references and hidden content typical of Space Quest tra
 - **"Fronzel Neekburm" Trophy:** Awarded for signing a guest book, described as "humorously sacrilegious"[^ref-16][^ref-19]
 - **"Let's Boogie, Girls!" Trophy:** Earned by using the BENI dance function 5 times[^ref-19]
 - **"Enough Smarm Already!" Trophy:** Awarded for shooting a vending machine[^ref-16][^ref-19]
-- **Gordon Freeman Cameo:** A reference to the Half-Life protagonist appears in the game[^ref-9][^ref-21]
+- **Gordon Freeman Cameo:** A reference to the Half-Life protagonist appears in the game[^ref-21]
 - **Larry Laffer Reference:** A nod to Sierra's Leisure Suit Larry series[^ref-21]
 - **GIR from Invader Zim:** The robot appears as a hotel registration robot[^ref-16]
 - **The Price Is Right Reference:** A game show parody is included[^ref-21]
@@ -188,7 +190,7 @@ The game has multiple endings based on the player's decisions[^ref-14]. Along wi
 
 ### Sales and Commercial Impact
 
-As a free fan game, Space Quest: Incinerations had no traditional sales figures. However, the game achieved significant visibility within the adventure gaming community. It was featured on G4TV and received coverage from major gaming sites including Rock, Paper, Shotgun and Adventure Gamers[^ref-7][^ref-10][^ref-11]. Adventure Gamers featured it in their "Following Freeware" column as part of "A killer quest through time and space yielded another great batch of indie games"[^ref-4].
+As a free fan game, Space Quest: Incinerations had no traditional sales figures. It was featured on G4TV and received coverage from gaming sites including Rock, Paper, Shotgun and Adventure Gamers[^ref-7][^ref-10][^ref-11]. Adventure Gamers covered it in its January 2012 "Following Freeware" column[^ref-4][^ref-11].
 
 The game's release alongside Vohaul Strikes Back and the SQ2 Remake gave Space Quest fans three substantial fan games within a short timeframe[^ref-7][^ref-10], arriving "over fifteen years after Sierra's last official Space Quest"[^ref-2].
 
@@ -204,16 +206,16 @@ The Space Quest Omnipedia wiki maintains documentation of these fan games while 
 
 ### Related Publications
 
-- **Trophy Guide:** Written by Flashman85 (Nathaniel Hoover), published January 20, 2015 on GameFAQs and Neoseeker[^ref-18][^ref-22]
+- **Trophy Guide:** Written by Flashman85 (Nathaniel Hoover), version 1.00 updated January 19, 2015 on GameFAQs (Neoseeker lists it under January 20, 2015)[^ref-18][^ref-22]
 - **Video Walkthrough:** Created by MrWhitman, uploaded February 15, 2018, spanning 7 chapters[^ref-8]
 
 ### Critical Perspective
 
-Space Quest: Incinerations stands among the most ambitious of the Space Quest fan sequels; Adventure Gamers called it "one of the best fan made adventure games out there"[^ref-11]. It arrived before Mark Crowe and Scott Murphy, the original Two Guys from Andromeda, announced their own spiritual successor in March 2012[^ref-20].
+Adventure Gamers called it "one of the best fan made adventure games out there"[^ref-11]. It arrived before Mark Crowe and Scott Murphy, the original Two Guys from Andromeda, announced their own spiritual successor in March 2012[^ref-20].
 
-The game's reception illustrated the enduring love for Sierra's adventure game legacy and the lengths to which fans would go to continue their favorite series. While critics acknowledged its imperfections—the unpolished interface, inconsistent graphics, and recycled music—the overwhelming sentiment was appreciation for Ushko's ambition and dedication. As one reviewer summarized, "This game doesn't just rank among my favorite fan-produced games; it ranks among my favorite Space Quests"[^ref-2].
+Rock, Paper, Shotgun said its scale "goes above and beyond the call of duty for any fan-made game"[^ref-10], while GameCola criticized its unpolished interface, "unprofessional mishmash of 2D and 3D" and recycled music[^ref-16]. GameFAQs reviewer Menbailee wrote: "This game doesn't just rank among my favorite fan-produced games; it ranks among my favorite Space Quests"[^ref-2].
 
-The game's existence also highlighted the uncertain legal territory of fan projects based on dormant commercial properties. Ushko's careful design choices—ensuring the game could be separated from the Space Quest name if necessary—reflected awareness of the risk of a cease-and-desist[^ref-16].
+According to GameCola, the game was designed so that its link to Roger Wilco and the Space Quest name could be jettisoned in the event of a cease-and-desist[^ref-16].
 
 The Two Guys' crowd-funded successor, SpaceVenture, reached Steam Early Access in April 2025 and a full release in December 2025, and received negative reviews[^ref-20].
 
@@ -234,7 +236,7 @@ The Two Guys' crowd-funded successor, SpaceVenture, reached Steam Early Access i
 
 Space Quest: Incinerations positions itself as an unofficial continuation of the Space Quest series, taking place approximately ten years after Space Quest 6 (1995)[^ref-5]. The game also follows the events of Space Quest: Vohaul Strikes Back, another fan game released shortly before Incinerations[^ref-5]. Characters from the official games return alongside original creations, and the game incorporates references to series lore while expanding the Space Quest universe in new directions[^ref-15].
 
-The game features the return of Beatrice Wankmeister, Roger's love interest from Space Quest IV onwards, as a central plot element[^ref-6]. The iconic fish from Space Quest 6 also makes an appearance as an inventory item[^ref-16]. While not considered canon to the official series timeline, Incinerations represents one possible continuation of Roger Wilco's adventures that many fans embrace as the unofficial Space Quest VII[^ref-2].
+The game features the return of Beatrice Wankmeister, Roger's love interest from Space Quest IV onwards, as a central plot element[^ref-6]. The iconic fish from Space Quest 6 also makes an appearance as an inventory item[^ref-16]. It is not canon to the official series. Box of Mystery's own FAQ places it "around 'Space Quest 9', set in a parallel fan-universe two degrees separated from the canonical timeline"[^ref-24], while GameFAQs reviewer Menbailee wrote that it "for me counts as an unofficial VII"[^ref-2].
 
 **Fan Game Timeline:**
 - **Previous:** Space Quest: Vohaul Strikes Back (2011)
