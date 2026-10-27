@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1982** — [[1982 - Jawbreaker II|Jawbreaker II]] — Notes: Atari 8-bit port
 - **1982** — [[1982 - Laf Pak|Laf Pak]] — Notes: Chuck Bueche compilation
 - **1982** — [[1982 - Creepy Corridors|Creepy Corridors]] — Notes: Maze game
-- **1982** — [[1982 - Dragon's Keep|Dragon's Keep]] — Notes: Action
+- **1982** — [[1982 - Dragon's Keep|Dragon's Keep]] — Notes: Educational
 - **1982** — [[1982 - Marauder|Marauder]] — Notes: Shooter
 - **1982** — [[1982 - Mouskattack|Mouskattack]] — Notes: Action
 - **1982** — [[1982 - Pest Patrol|Pest Patrol]] — Notes: Fixed shooter
