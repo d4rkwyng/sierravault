@@ -10,7 +10,7 @@ series: Conquests
 engine: SCI0
 protagonist: King Arthur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 composer: [Mark Seibert]
 description: '*Conquests of Camelot: The Search for the Grail* is an adventure game
   released in March 1990 by Sierra On-Line that places players in control of King
@@ -19,7 +19,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -87,7 +87,7 @@ Action sequences punctuate the adventure gameplay, including jousting tournament
 
 *Conquests of Camelot* received generally positive reviews upon release.[^ref-30] Theo Clarke of *Games International* awarded the game 9/10 for both gameplay and graphics in the July 1990 issue, noting that "Conquests of Camelot has a delicacy that is unusual in this field. There is little overt humour but a gentle wit pervades the game."[^ref-1] Clarke further described it as "a refreshing, challenging adventure game which should appeal strongly to those with a taste for medieval romance."[^ref-1]
 
-*Dragon* magazine's August 1990 review by Hartley, Patricia and Kirk Lesser gave the game 4½ out of 5 stars, calling it "a beautifully crafted animated adventure. Sierra, long recognized as a leader in the animated adventure market, continues to lead the way with offerings such as this colorful journey to the time of King Arthur."[^ref-1] The reviewers concluded emphatically: "Conquests of Camelot is yet another 'must buy' from the talented folk at Sierra."[^ref-1] Not every review was favorable: in the July–August 1990 *Computer Gaming World*, Scorpia judged the EGA graphics inferior to those of previous Sierra games and did not recommend the game to experienced adventurers because of the low difficulty of its puzzles.[^ref-1]
+*Dragon* magazine's August 1990 review by Hartley, Patricia and Kirk Lesser gave the game 4½ out of 5 stars, calling it "a beautifully crafted animated adventure. Sierra, long recognized as a leader in the animated adventure market, continues to lead the way with offerings such as this colorful journey to the time of King Arthur."[^ref-1] The reviewers concluded emphatically: "Conquests of Camelot is yet another 'must buy' from the talented folk at Sierra."[^ref-1] Not every review was favorable: in the July–August 1990 *Computer Gaming World*, Scorpia judged the EGA graphics inferior to those of previous Sierra games and did not recommend the game to experienced adventurers because of the low difficulty of its puzzles.[^ref-1] According to Christy Marx's own site, the game was named "Best Computer Adventure Game of 1990" by *VideoGames & Computer Entertainment* magazine and received an Excellence Award from *Game Player's* magazine.[^ref-33]
 
 Reviewers particularly appreciated the game's "refreshing medieval setting and its almost cinematic quality," though some felt it was "too easy when compared to previous Sierra titles."[^ref-30] The AmigaLove review noted that the game "was pretty unique in that it took the legends and tried quite hard to stick to them as 'historically accurate' as possible, without straying too far into pure fantasy."[^ref-17]
 
@@ -125,7 +125,7 @@ The game underwent significant revision between its demonstration version shown 
 
 **Development Credits:**[^ref-2]
 - **Designer:** [[Christy Marx]]
-- **Art Designer:** [[Peter Ledger]] (also animator, background artist and cover artist)[^ref-32]
+- **Art Designer:** [[Peter Ledger]] (also animator and background artist[^ref-32], and cover artist[^ref-1])
 - **Lead Programmer:** David Slayback
 - **Programmers:** Robert Fischbach, Doug Oldfield, Jerry Shaw, Eric Hart
 - **Animators:** Douglas Herring, Kenn Nishiuye, Andy Hoyos, Jennifer Shontz[^ref-31]
@@ -281,4 +281,5 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-29]: [Speedrun.com](https://www.speedrun.com/conquests_of_camelot_the_search_for_the_grail) – speedrun records
 [^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – Marx and Ledger backgrounds, reception summary, SCI/AGI context, January 1990 release date
 [^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, full credits
-[^ref-32]: [MobyGames – Conquests of Camelot credits, DOS (Wayback, 2022-07-28)](http://web.archive.org/web/20220728144548/https://www.mobygames.com/game/dos/conquests-of-camelot-the-search-for-the-grail/credits) – Game Designer Christy Marx; Art Designer, Animator, Background Artist and cover artwork Peter Ledger
+[^ref-32]: [MobyGames – Conquests of Camelot credits, DOS (Wayback, 2022-07-28)](http://web.archive.org/web/20220728144548/https://www.mobygames.com/game/dos/conquests-of-camelot-the-search-for-the-grail/credits) – Game Designer Christy Marx; Art Designer, Animator and Background Artist Peter Ledger
+[^ref-33]: [Christy Marx – Writing credits](https://christymarx.com/writing.htm) – designer's own site: "Awarded 'Best Computer Adventure Game of 1990' by VideoGames and Computer Entertainment magazine and Excellence Award from Game Player's magazine"
