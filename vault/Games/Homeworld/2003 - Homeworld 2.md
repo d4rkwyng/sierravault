@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-19'
+last_updated: '2026-10-26'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a 2003 three-dimensional real-time strategy game from
   Relic Entertainment and Sierra that continues the Hiigaran saga about a century after
@@ -19,7 +19,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Homeworld 2 is a fully three-dimensional real-time strategy game set in the dept
 
 The series has been described as unique in its integration of easy-to-navigate 3D battles[^ref-4]. Unlike traditional RTS games confined to flat battlefields, Homeworld 2 lets units move in all three axes[^ref-5], with a free camera offering full 360-degree rotation[^ref-6]. Sierra's own description of the game promoted its cinematic-quality graphics, stunning special effects and beautifully rendered ships[^ref-6].
 
-Despite receiving critical acclaim for its lavish graphics and atmospheric presentation, Homeworld 2 did not achieve the same commercial success or critical consensus as its predecessor[^ref-2]. Sierra Entertainment did not widely publicize the game, and it was not a major financial success[^ref-7]. Nevertheless, the game earned a nomination for Computer Strategy Game of the Year at the 7th Annual Interactive Achievement Awards[^ref-8], and its community went on to produce fixes such as an unofficial patch[^ref-34].
+Despite receiving critical acclaim for its lavish graphics and atmospheric presentation, Homeworld 2 did not receive the same level of acclaim as its predecessor[^ref-2], nor its commercial success[^ref-7]. Sierra Entertainment did not widely publicize the game, and it was not a major financial success[^ref-7]. Nevertheless, the game earned a nomination for Computer Strategy Game of the Year at the 7th Annual Interactive Achievement Awards[^ref-8], and its community went on to produce fixes such as an unofficial patch[^ref-34].
 
 > [!info]- Game Info
 > **Developer:** [[Relic Entertainment]][^ref-1]
@@ -43,7 +43,7 @@ Despite receiving critical acclaim for its lavish graphics and atmospheric prese
 
 ## Story Summary
 
-The story of Homeworld 2 begins in the year 9625 GSY (115 AHL), approximately one hundred years after the Kushan—now known as Hiigarans—reclaimed their ancestral homeworld at the conclusion of the original Homeworld[^ref-2]. The Hiigarans have rebuilt their civilization, but dark clouds are gathering over Hiigara as a new threat emerges from the galactic fringes[^ref-2]. Karan S'jet, the fleet commander who guided her people home, remains neurally integrated with the Mothership, ready to once again lead her people against overwhelming odds[^ref-32].
+The story of Homeworld 2 begins in the year 9625 GSY (115 AHL), approximately one hundred years after the Kushan—now known as Hiigarans—reclaimed their ancestral homeworld at the conclusion of the original Homeworld[^ref-2]. The Hiigarans have rebuilt their civilization, but dark clouds are gathering over Hiigara as a new threat emerges from the galactic fringes[^ref-2]. Karan S'jet, who became the living core of the Mothership in the original game, returns as Fleet Command aboard a new Mothership, the *Pride of Hiigara*[^ref-1].
 
 The central conflict revolves around three ancient artifacts known as the Hyperspace Cores—relics of the mysterious Progenitor race that once dominated the galaxy[^ref-1]. The Hiigarans possess the second Core, while the Vaygr warlord Makaan has obtained the third and launched a campaign of conquest[^ref-1]. Religious beings throughout the galaxy consider the discovery of the Third Core to announce the End Times, during which Sajuuk—thought to be an immensely powerful being—will return[^ref-1]. The quest for the mythical first Core and the awakening of Sajuuk drives the narrative forward across fifteen missions[^ref-48].
 
@@ -55,7 +55,7 @@ The narrative received mixed reactions from fans and critics, with some praising
 
 ### Interface and Controls
 
-Homeworld 2 presents players with a fully three-dimensional space environment that can be navigated using a revolutionary control scheme refined from the original game[^ref-14]. The interface allows commanders to manipulate fleets across all three axes, with 360-degree camera rotation enabling tactical assessment from any angle[^ref-6]. Players issue commands through an innovative point-and-click system that uses a "sensors manager" to provide tactical overlays and situational awareness across vast battlefields[^ref-17].
+Homeworld 2 presents players with a fully three-dimensional space environment that can be navigated using a control scheme refined from the original game, which IGN said Relic made "bigger, prettier, and easier to control"[^ref-14]. The interface allows commanders to manipulate fleets across all three axes, with 360-degree camera rotation enabling tactical assessment from any angle[^ref-6]. Players issue commands through an innovative point-and-click system that uses a "sensors manager" to provide tactical overlays and situational awareness across vast battlefields[^ref-17].
 
 The control scheme emphasizes accessibility while maintaining strategic depth, with interface improvements that made commanding large fleets easier than in the predecessor[^ref-14]. The game features extensive keyboard shortcuts and the ability to pause at any time—a critical feature given the complexity of managing simultaneous engagements across three-dimensional space[^ref-16]. As one strategy guide author emphasized: "USE THE PAUSE BUTTON. I cannot emphasize this enough"[^ref-16].
 
@@ -67,7 +67,7 @@ The game employs a controversial dynamic difficulty system that adjusts enemy fl
 
 ### Puzzles and Mechanics
 
-Resource management forms the economic backbone of Homeworld 2, with players deploying collector craft to harvest resources from asteroid fields and debris that fuel ship construction[^ref-6]. There is no base building in the traditional sense; instead, the Mothership and a select few other craft can be upgraded with additional subsystems[^ref-5].
+Resource management forms the economic backbone of Homeworld 2, with "Resource Units" (RUs) collected by harvester craft paying for both ship construction and technology research[^ref-1]. There is no base building in the traditional sense; instead, the Mothership and a select few other craft can be upgraded with additional subsystems[^ref-5].
 
 Ship capture mechanics, a beloved feature of previous Homeworld games, were significantly curtailed in the sequel[^ref-16]. Marine Frigates can still attempt to capture enemy vessels, but the system was made considerably more difficult and less rewarding than in Homeworld and Homeworld: Cataclysm. Captured ships count against unit caps, captured vessels can continue firing during the capture process, and marine frigates become immediate targets for enemy fire[^ref-16].
 
@@ -93,7 +93,7 @@ The Homeworld Remastered Collection, released in 2015, brought renewed attention
 
 Modern critics and fans have noted that the Remastered Collection represents "one of the best remasters ever made" according to John Bain (TotalBiscuit)[^ref-25]. The Verge praised it for putting "you in command of the most stunning space battles ever"[^ref-25]. Metro.co.uk observed that "there's never been anything else quite like Homeworld"[^ref-25].
 
-However, some retrospective analysis has been more critical. One reviewer noted: "There's basically nothing to Homeworld 2's story. It's hard to overstate how vapid and nebulous the plot is"[^ref-13]. Another observed that "your fleet is a rolling set of tools rather than the last of your people, and you never build an emotional attachment to it"[^ref-13]. The Remastered version also faced criticism for technical issues that altered gameplay mechanics from the original versions[^ref-26].
+However, some retrospective analysis has been more critical. One reviewer noted: "There's basically nothing to Homeworld 2's story. It's hard to overstate how vapid and nebulous the plot is"[^ref-13]. The same reviewer added that "your fleet is a rolling set of tools rather than the last of your people, and you never build an emotional attachment to it"[^ref-13]. The Remastered version also faced criticism for technical issues that altered gameplay mechanics from the original versions[^ref-26].
 
 **Aggregate Scores:**
 - **Metacritic (Original):** 83/100 (31 reviews)[^ref-21]
@@ -128,11 +128,11 @@ Genevieve Ostergard of Sierra addressed the delays, stating: "As for why it's ta
 
 ### Technical Achievements
 
-Homeworld 2 represented a significant technical advancement over its predecessor, featuring a new engine[^ref-9] that fans had heard described as "rewritten from the ground up"[^ref-29]. The game delivered cinematic-quality visuals with stunning special effects and brilliantly rendered ships[^ref-6]. An innovative 3D engine enabled seamless in-game cinematics and supported the series' signature free-roaming camera system with full 360-degree rotation[^ref-6].
+Homeworld 2 represented a significant technical advancement over its predecessor, featuring a new engine[^ref-9] that fans had heard described as "rewritten from the ground up"[^ref-29]. The game delivered cinematic-quality visuals with stunning special effects and beautifully rendered ships[^ref-6]. An innovative 3D engine enabled seamless in-game cinematics and supported the series' signature free-roaming camera system with full 360-degree rotation[^ref-6].
 
 The game utilized a proprietary scripting language called SCAR (SCripting At Relic), used mainly for single-player campaign events, alongside Lua 4.0 for levels, AI and game rules[^ref-1]. Reviewers also noted that the game shipped with tools to build custom ships and levels[^ref-21]. The technical foundation proved robust enough that the original Homeworld was later ported to run on Homeworld 2's engine for the Remastered Collection[^ref-26].
 
-The audio design continued the series' tradition of atmospheric excellence, with composer Paul Ruskay crafting an iconic soundtrack that drew inspiration from diverse sources including Vangelis' Blade Runner score, Brian Eno, and the world music sampling of Algerian DJ Cheb i Sabbah[^ref-31]. Ruskay moved toward rich, live recorded instruments including elegant but intense strings and traditional Indian singing and instrumentation[^ref-31].
+The audio design continued the series' tradition of atmospheric excellence, with composer Paul Ruskay, whose original Homeworld score drew on Vangelis' Blade Runner score, Brian Eno and the sampling of traditional instruments by Algerian DJ Cheb i Sabbah, moving for the later Homeworld titles toward rich, live recorded instruments, including elegant but intense strings and traditional Indian singing and instrumentation[^ref-31].
 
 ### Technical Specifications
 
@@ -149,7 +149,7 @@ The audio design continued the series' tradition of atmospheric excellence, with
 - **RAM:** 512 MB
 - **Graphics:** NVIDIA GeForce 3 series or ATI Radeon 8500, 64 MB VRAM
 
-**Mac Requirements:**[^ref-32]
+**Mac Requirements** (preliminary, as announced by Macworld in April 2004):[^ref-32]
 - **OS:** Mac OS X v10.2.6 or later
 - **Processor:** G4/800MHz or faster
 - **RAM:** 256MB
@@ -164,13 +164,13 @@ The audio design continued the series' tradition of atmospheric excellence, with
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | September 16, 2003 | Windows | Initial release[^ref-1] |
-| 1.1 | December 23, 2003 | Windows | Bug fixes and balance changes[^ref-33] |
+| 1.1 | December 23, 2003[^ref-53] | Windows | Bug fixes and balance changes[^ref-33] |
 | 1.2.12 | — | Windows | Unofficial community patch[^ref-34] |
 | Mac | September 21, 2004 | Mac OS X | Aspyr Media port by Beenox Studios[^ref-32][^ref-1] |
 | Remastered | February 25, 2015 | Windows | Gearbox Software remaster[^ref-35] |
 | Remastered | August 6, 2015 | OS X | Released by Aspyr on the Mac App Store[^ref-1] |
 
-**Patch 1.1 Changes:**[^ref-33]
+**Patch 1.1 Changes** (released December 23, 2003[^ref-53]):[^ref-33]
 - Fixed rally to object command crashes on moving ships
 - Resolved ship destruction frame timing crashes
 - Fixed rapid tactics switching crashes
@@ -203,7 +203,7 @@ The Remastered version introduced additional issues, particularly affecting Home
 
 ### Cut Content
 
-According to critical analysis, the game originally planned massive space structures that would impact gameplay more significantly than in the final release[^ref-13]. The dynamic difficulty system was controversial from the start, with critics noting the absence of traditional difficulty settings led to frustrating gameplay spikes[^ref-2].
+One Glitchwave user reviewer speculated that the skyboxes' giant derelicts might be "a remnant of when the game was to feature massive space structures that impacted gameplay"[^ref-13]. The dynamic difficulty system was controversial from the start, with critics noting the absence of traditional difficulty settings led to frustrating gameplay spikes[^ref-2].
 
 ## Voice Cast
 
@@ -257,25 +257,25 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-7]: [Homeworld Wiki – Homeworld Series](https://homeworld.fandom.com/wiki/Homeworld_%28series%29) – commercial performance, franchise history
 [^ref-8]: [Interactive.org – D.I.C.E. Awards 2004](https://www.interactive.org/awards/award_category_details.asp?idAward=2004&idGameAwardType=34) – award nomination
 [^ref-9]: [MobyGames – Homeworld 2](https://www.mobygames.com/game/10403/homeworld-2/) – credits, ratings, development info
-[^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – story continuation
+[^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – Mac port news (April 2004): Beenox, preliminary Mac system requirements
 [^ref-12]: [Polygon – Gearbox releasing remakes of Homeworld and Homeworld 2](https://www.polygon.com/2013/7/20/4540132/gearbox-releasing-remakes-of-homeworld-and-homeworld-2-for-windows-pc/) – "bought the Homeworld IP for $1.35 million in April"; Brian Martel statement
-[^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – critical analysis, art direction, ratings
+[^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – user review (story, fleet, art direction, skybox speculation), ratings
 [^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – Dan Adams review
 [^ref-16]: [GameFAQs – Homeworld 2 FAQ by Marc Novakouski](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/26295) – gameplay tips, capture mechanics, dynamic difficulty
 [^ref-17]: [GameFAQs – Homeworld 2 Guide by Orgulo](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/43499) – campaign structure, Mothership comparison
 [^ref-18]: [Neoseeker – Homeworld 2 FAQ](https://www.neoseeker.com/homeworld2/faqs/67973-homeworld-2-b.html) – dynamic difficulty explanation
-[^ref-19]: [IGN – Homeworld 2 Preview](https://www.ign.com/articles/2003/08/25/homeworld-2-goes-gold) – subsystem mechanics
+[^ref-19]: [IGN – Homeworld 2 Goes Gold](https://www.ign.com/articles/2003/08/25/homeworld-2-goes-gold) – gold announcement, retail date, Dan Irish quote
 [^ref-21]: [Metacritic – Homeworld 2 Critic Reviews](https://www.metacritic.com/game/homeworld-2/critic-reviews/?platform=pc) – aggregate scores, individual review quotes
-[^ref-22]: [Impulse Gamer – Homeworld 2 Review](https://www.impulsegamer.com/igversion01/pc/pchomeworld2.htm) – review score, development time
+[^ref-22]: [Impulse Gamer – Homeworld 2 Review](https://www.impulsegamer.com/igversion01/pc/pchomeworld2.htm) – review score (9.0/10)
 [^ref-23]: [Metacritic – Homeworld Remastered Collection](https://www.metacritic.com/game/homeworld-remastered-collection/) – remastered aggregate score
 [^ref-24]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – review scores, technical specs, user reviews
 [^ref-25]: [Gearbox Software – Homeworld Remastered Collection](https://web.archive.org/web/20210119174901/https://www.gearboxsoftware.com/game/homeworld-remastered-collection/) – review quotes (archived January 2021)
 [^ref-26]: [Geeks Under Grace – Homeworld Remastered Review](https://www.geeksundergrace.com/gaming/pc/review-homeworld-remastered/) – engine differences, bugs, critical analysis
-[^ref-27]: [IMDB – Homeworld 2](https://www.imdb.com/find/?q=Homeworld+2&s=tt) – user rating
+[^ref-27]: [IMDB – Homeworld 2](https://www.imdb.com/title/tt0387289/) – user rating
 [^ref-28]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2026/01/homeworld/) – Alex Garden quote on the original Homeworld's origin
 [^ref-29]: [Well of Souls – Homeworld 2 Info History](https://well-of-souls.com/homeworld/hw2/info.htm) – E3 absences, Ostergard and Garden statements, cancellation rumours, engine
-[^ref-31]: [Laced Records – Homeworld 2 Remastered Vinyl](https://www.lacedrecords.com/products/homeworld-2-remastered-deluxe-triple-vinyl) – composer influences, musical style
-[^ref-33]: [PCGamingWiki – Homeworld 2 Patch v1.1](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/) – patch changelog
+[^ref-31]: [Laced Records – Homeworld 2 Remastered Vinyl](https://www.lacedrecords.com/products/homeworld-2-remastered-deluxe-triple-vinyl) – Ruskay's influences for the original Homeworld; live instruments for the later titles
+[^ref-33]: [PCGamingWiki – Homeworld 2 Patch v1.1](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/) – patch changelog (file page, no release date)
 [^ref-34]: [PCGamingWiki – Homeworld 2 Unofficial Patch](https://community.pcgamingwiki.com/files/file/478-homeworld-2-unofficial-patch/) – unofficial patch version
 [^ref-35]: [Gearbox Software – Homeworld Remastered Launch Announcement](https://web.archive.org/web/20171116204357/http://www.gearboxsoftware.com/2015/01/homeworld-remastered-collection-launches-february-25/) – release date, features, pricing, Rob Cunningham quote
 [^ref-36]: [Fists of Heaven – Homeworld Retrospective](http://www.fistsofheaven.com/ships-and-trucks-a-retrospective-of-homeworld/) – art direction, ship design philosophy
@@ -287,3 +287,4 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-50]: [PCGamingWiki – Homeworld 2](https://www.pcgamingwiki.com/wiki/Homeworld_2) – Windows system requirements
 [^ref-51]: [Wikipedia – THQ](https://en.wikipedia.org/wiki/THQ) – "filed for Chapter 11 bankruptcy in December 2012"
 [^ref-52]: [Homeworld Wiki – Relic Entertainment](https://homeworld.fandom.com/wiki/Relic_Entertainment) – "the game was radically redesigned several times"
+[^ref-53]: [Shacknews – Homeworld 2 v1.1 Patch](https://www.shacknews.com/article/29830/homeworld-2-v11-patch) – Steve Gibson, December 23, 2003: v1.1 patch made available
