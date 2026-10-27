@@ -38,7 +38,7 @@ The games parody science fiction properties such as *Star Wars* and *Star Trek*,
 
 - **Space Quest I–IV** - Made together; "1991's Space Quest IV was the last game the Two Guys would make together."[^ref-4]
 - **Space Quest V** - Crowe left after *Space Quest IV* to join Dynamix, another company within the Sierra organization, and developed *Space Quest V* there; it was the first entry made outside Sierra and without Murphy.[^ref-4][^ref-2]
-- **Space Quest 6** - Murphy stayed at Sierra and made it with Josh Mandel.[^ref-4] Wikipedia describes Mandel as leading development, with Murphy serving as a consultant.[^ref-2] Mandel left Sierra while the game was still in production, and Murphy finished it.[^ref-27][^ref-28]
+- **Space Quest 6** - Murphy stayed at Sierra and made it with Josh Mandel.[^ref-4] Wikipedia describes Mandel as leading development, with Murphy serving as a consultant.[^ref-2] Mandel's own account differs: his proposal was "selected by Ken and Roberta," and "from the very beginning, I wanted Scott to be co-designer on the game."[^ref-30] Mandel left Sierra while the game was still in production, and Murphy finished it.[^ref-27][^ref-28]
 
 ## Themes and Humor
 
@@ -185,3 +185,4 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-27]: [MobyGames - Scott Murphy (Wayback, May 2023)](https://web.archive.org/web/20230517105719/https://www.mobygames.com/person/4525/scott-murphy/) – "Murphy worked as a consultant, but had to finish the game when Mandel left Sierra"
 [^ref-28]: [The Virtual Broomcloset - Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – September 2000: "You left Sierra while Space Quest 6 was still in production"; "The design was essentially finished"
 [^ref-29]: [Steam - Cluck Yegger in Escape From The Planet of The Poultroid](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) – Developer and publisher Guys From Andromeda LLC; released Nov 9, 2015
+[^ref-30]: [Adventure Gamers – Josh Mandel interview (Wayback, November 2024)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 4, 2013: SQ6 proposal "selected by Ken and Roberta"; "From the very beginning, I wanted Scott to be co-designer on the game."

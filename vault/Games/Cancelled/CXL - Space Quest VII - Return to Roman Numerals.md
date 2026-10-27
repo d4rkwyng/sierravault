@@ -10,7 +10,7 @@ series: Space Quest
 engine: 3D Engine (planned)
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Space Quest VII is the cancelled seventh Space Quest game, attempted at
   Sierra between 1997 and 1999 and again as an Escape Factory console reboot in 2002,
   with no version ever released.
@@ -18,7 +18,7 @@ tags: [adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ The unreleased status of Space Quest VII means there are no aggregate review sco
 
 ### Origins
 
-Development of Space Quest VII began in early 1997, with [[Scott Murphy]]—one of the series' original co-creators—serving as director[^ref-4]. The project was officially announced with a planned release date of late 1998[^ref-2]. This timing would have placed it approximately three years after Space Quest 6, matching the typical development cycle for Sierra adventure games of that era.
+Development of Space Quest VII began in early 1997, when Sierra began assembling a small team led by [[Scott Murphy]]—one of the series' original co-creators—and [[Leslie Balfour]] as co-designers[^ref-6]. The project was officially announced with a planned release date of late 1998[^ref-2]. This timing would have placed it approximately three years after Space Quest 6, matching the typical development cycle for Sierra adventure games of that era.
 
 The game is mentioned briefly in the Space Quest 6 Hintbook[^ref-12]. The development team also created and released a promotional trailer with The Space Quest Collection, though as Murphy later revealed, this teaser "had nothing to do with what Space Quest 7 was supposed to be" and was "merely eye candy for management"[^ref-6].
 
@@ -90,7 +90,7 @@ The original Space Quest VII development hit immediate turbulence. By December 1
 
 The official cancellation notice, co-authored by [[Leslie Balfour]] and Murphy, attempted to soften the blow for fans: "The decision has been made, after much soul-searching and agonizing, to put Space Quest 7 on hold indefinitely"[^ref-2]. They added a poignant farewell to the character: "Just think of him as weary from making us laugh for all these years, ready for a break from his adventures. He and la Wankmeister want to settle down, raise a family"[^ref-2].
 
-On February 15, 1998, the Virtual Broomcloset reported a leak from inside Sierra that Murphy had been laid off, though he would supposedly be re-hired if the project restarted[^ref-7]. [[Leslie Balfour]] departed Sierra by August 7, 1998[^ref-7]. A playable demo had been in development during June-July 1997 before the cancellation[^ref-2].
+On February 15, 1998, the Virtual Broomcloset reported a leak from inside Sierra that Murphy had been laid off, though he would supposedly be re-hired if the project restarted[^ref-7]. Murphy's own account dates his layoff later: in 2006 he said he "was dumped a month and a half previous" to Chainsaw Monday (February 22, 1999), that is, around January 1999[^ref-17]. [[Leslie Balfour]] departed Sierra by August 7, 1998[^ref-7]. A playable demo had been in development during June-July 1997 before the cancellation[^ref-2].
 
 Hopes of a revival rose in mid-1998. In an email reported on June 22, 1998, following a Sierra management meeting in Las Vegas, SQ7 project GM Craig Alexander wrote: "It went okay, although we only spent a few minutes discussing [SQ7]. In early July, I plan to have another meeting and formerly pitch restarting the project in early 1999. The tides are definitely turning, in part because of [the fans'] support. However, there is a long road ahead of us"[^ref-2][^ref-7]. In the Fall 1998 issue of Sierra's in-house magazine InterAction, he added: "I can guarantee that Space Quest 7 will be one of the titles on our agenda"[^ref-7]. A restart was proposed in early 1999 under the working title "Show Me the Buckazoids," but it quickly stalled[^ref-6].
 
@@ -223,7 +223,7 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|← Previous: Space Quest 6]] - Final released game in the series
 
 - [[Space Quest Series]] - Series overview
-- [[Scott Murphy]] - Series co-creator and SQ7 director
+- [[Scott Murphy]] - Series co-creator and SQ7 co-designer (with Leslie Balfour)
 - [[Mark Crowe]] - Series co-creator
 
 ## References
@@ -244,3 +244,4 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 [^ref-14]: [Wikipedia – List of Sierra Entertainment Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – unreleased games listing, "Return to Roman Numerals" subtitle
 [^ref-15]: [Only Solitaire – Space Quest 6 Review](https://onlysolitaire.substack.com/p/game-review-space-quest-6-roger-wilco) – SQ7 production and early 1999 cancellation, Josh Mandel involvement with SQ6
 [^ref-16]: [Wiw.org – Space Quest FAQ](https://www.wiw.org/~jess/SQFAQ20.txt) – Scott Murphy collaboration with Leslie Balfour and Jay Lee
+[^ref-17]: [Adventure Classic Gaming – Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) – "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."

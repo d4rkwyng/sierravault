@@ -10,14 +10,14 @@ series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Alumni Project
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: SpaceVenture is a science fiction comedy adventure game developed by
   the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
 tags: [2020s, adventure, sierra, spaceventure, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 
 ## Overview
@@ -72,7 +72,7 @@ The game has received mixed to negative reviews from critics[^ref-5], with many 
 ## Development
 
 ### Origins
-The reunion of Scott Murphy and Mark Crowe began in 2012 when Mark reached out to Scott after their 20-year estrangement following their work on Space Quest[^ref-8]. Murphy later reflected: "Mark had the guts to reach out to somebody who he had no reason to feel might welcome him -- me" and admitted "Looking back, I realize I was a dick"[^ref-8]. Following the success of Double Fine's Kickstarter campaign, the team decided to use Kickstarter as well[^ref-4], and Crowe said the pair realized they needed to work together again: "We knew there was no way we were going to be able to make a Space Quest-style game that was successful unless we were together"[^ref-8].
+The reunion of Scott Murphy and Mark Crowe began in 2012 when Mark reached out to Scott after a 20-year estrangement; the pair had split in 1991, after Space Quest IV, the last game they made together, when Crowe left to join Dynamix[^ref-8]. Murphy later reflected: "Mark had the guts to reach out to somebody who he had no reason to feel might welcome him -- me" and admitted "Looking back, I realize I was a dick"[^ref-8]. Following the success of Double Fine's Kickstarter campaign, the team decided to use Kickstarter as well[^ref-4], and Crowe said the pair realized they needed to work together again: "We knew there was no way we were going to be able to make a Space Quest-style game that was successful unless we were together"[^ref-8].
 
 The project's conception reflected the nostalgia wave sweeping through crowdfunded gaming. As the Two Guys themselves stated: "We aren't straying from what has been a successful formula. We're back to make more while also incorporating what we've learned from you via comments made from the days of snail-mail and moving to email and social media"[^ref-2]. They acknowledged fan feedback, noting "It's been interesting to learn what you've found fun, funny and/or annoying, and what games you've favored. Clearly, not everyone has well rated taste but we can work around that"[^ref-2].
 
@@ -183,7 +183,7 @@ The team has continued supporting the game after its full release, with patches 
 [^ref-5]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – SpaceVenture section: development hell, Early Access, reception
 [^ref-6]: [Time Extension](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – Backer release on September 16, 2022; other platforms planned later
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/192353/spaceventure/) – Developer/publisher, genre and interface, ad blurb, critic average
-[^ref-8]: [Game Developer](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda#close-modal) – Designer credits and reunion story
+[^ref-8]: [Game Developer](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Designer credits and reunion story
 [^ref-9]: [Guys from Andromeda](https://guysfromandromeda.com/) – Game features description
 [^ref-10]: [Impulse Gamer](https://www.impulsegamer.com/space-venture-pc-review/) – Chris O'Connor's 4/5 review of the Early Access build (April 2025)
 [^ref-11]: [Chordian.net](https://blog.chordian.net/2023/04/23/spaceventure/) – Interface criticism
