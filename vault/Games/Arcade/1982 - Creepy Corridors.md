@@ -10,14 +10,14 @@ series: Laf Pak
 engine: 6502 Assembly
 protagonist: Sierra Smith
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Creepy Corridors is a maze-based arcade game originally developed by
   Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation...
 tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ The corridors are infested with monsters that must either be avoided or eliminat
 
 ### Interface and Controls
 
-The Apple II version can be played with a joystick or paddle, or from the keyboard using the I, J, K and M keys to move and F to fire.[^ref-8][^ref-17] The VIC-20 version is played with a joystick ("The joystick is used for movement, and the fire button is used to shoot enemies"), and MobyGames also lists keyboard support.[^ref-5][^ref-4] The game is single-player, with a fixed-screen view of the maze.[^ref-4]
+The Apple II version is played with a joystick or the keyboard.[^ref-17] The VIC-20 version is played with a joystick ("The joystick is used for movement, and the fire button is used to shoot enemies"), and MobyGames also lists keyboard support.[^ref-5][^ref-4] The game is single-player, with a fixed-screen view of the maze.[^ref-4]
 
 ### Structure and Progression
 
@@ -71,7 +71,7 @@ In the VIC-20 version there is no "Game Over" text when the player runs out of l
 
 David H. Ahl's *Creative Computing* roundup of Apple arcade games (February 1983) described the game and concluded of the whole disk: "All in all, Laf Pak offers a lot of game playing value per dollar, and you are almost sure to find one or more of the games on this disk to your liking."[^ref-18]
 
-Ferrell Wheeler, writing in *Hardcore Computist* (issue 13), called Creepy Corridors "a maze type game that is by far the most fun, especially with the hilarious sound effects."[^ref-19]
+Ferrell Wheeler, in a *Hardcore Computist* (issue 13) copy-protection article ("Normalizing Laf Pak"), called Creepy Corridors "a maze type game that is by far the most fun, especially with the hilarious sound effects."[^ref-19]
 
 ### Modern Assessment
 
@@ -119,7 +119,7 @@ On the VIC-20, which cannot do sprites in the conventional sense, the port uses 
 - **Resolution:** 280 x 192 pixels
 - **Memory:** 48K Apple II machine required
 - **Media:** 5.25" Floppy Disk (as part of Laf Pak)
-- **Controls:** Joystick or paddle preferred; keyboard alternative (I, J, K, M keys for movement, F key to fire)
+- **Controls:** Joystick or keyboard[^ref-17]
 
 **VIC-20 Version:**[^ref-4]
 - **Media:** Cartridge
@@ -129,8 +129,7 @@ On the VIC-20, which cannot do sprites in the conventional sense, the port uses 
 
 **Disk Technical Specifications (Internet Archive compilation disk):**[^ref-13]
 - **Disk Format:** DOS 3.3
-- **File Size:** 360.1K
-- **Physical Size:** 143360 bytes
+- **Disk Image:** 140K (143,360 bytes)
 - **Sectors:** 560 total, 555 used, 5 free
 - **Tracks:** 35
 - **Sectors per Track:** 16
@@ -193,16 +192,12 @@ The Sierra Chest preservation project has documented Creepy Corridors, though th
 
 ### Critical Perspective
 
-Creepy Corridors is a reminder that Sierra released straightforward arcade games before it became known for its graphic adventures. Katakis notes it came "years before they became popular with their King's Quest series."[^ref-5] Contemporary reviewers rated it the strongest game on the Laf Pak disk,[^ref-17][^ref-19] and Pix's Origin Adventures prefers the Apple II original to the VIC-20 port: "If you really want to play Creepy Corridors, avoid this version and stick with the original."[^ref-3]
-
-## Purchase
-
-- Not currently sold; GOG lists it as not available.[^ref-7]
+Creepy Corridors is a reminder that Sierra released straightforward arcade games before it became known for its graphic adventures. Katakis notes it came "years before they became popular with their King's Quest series."[^ref-5] *Softalk* and *Hardcore Computist* both rated it the strongest game on the Laf Pak disk,[^ref-17][^ref-19] and Pix's Origin Adventures prefers the Apple II original to the VIC-20 port: "If you really want to play Creepy Corridors, avoid this version and stick with the original."[^ref-3]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital storefronts
+- Not currently sold on GOG or Steam; the Sierra Help wiki lists GOG as "Not available at this time."[^ref-7]
 
 **Download / Preservation**
 - [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak)[^ref-22]
@@ -242,14 +237,14 @@ Creepy Corridors is a reminder that Sierra released straightforward arcade games
 [^ref-5]: [MobyGames – Creepy Corridors User Review](https://www.mobygames.com/game/55566/creepy-corridors/user-review/2421826/) – Katakis (August 7, 2013): Mr. Do! comparison, colour scheme, joystick controls, F1 restart, reviewer quotes
 [^ref-6]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – 1982 Laf Pak release, sampled scream, Mark Crowe VIC-20 artwork, sales, cut scream, Mine Shaft PCjr port, Chuckles
 [^ref-7]: [Sierra Help Wiki – Creepy Corridors](http://wiki.sierrahelp.com/index.php/Creepy_Corridors) – designer credits, engine information, GOG "Not available at this time"
-[^ref-8]: [Minesweeper Game Database – Mine Sweep](https://minesweepergame.com/database/games.php?id=117) – Chuck Bueche quote on assembly language, $34.95, 48K, controls, Summer 1981 to Spring 1982 development period
+[^ref-8]: [Minesweeper Game Database – Mine Sweep](https://minesweepergame.com/database/games.php?id=117) – Chuck Bueche quote on assembly language, $34.95, 48K, Summer 1981 to Spring 1982 development period
 [^ref-9]: [The Sierra Chest – Creepy Corridors](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box) – platform list (Atari 400/800, VIC-20), VIC-20 SierraVision packaging, preservation status
 [^ref-12]: [My Abandonware – Creepy Corridors](https://www.myabandonware.com/game/creepy-corridors-74p) – user ratings, file size, release information
 [^ref-13]: [Internet Archive – Apple II Compilation Disk](https://archive.org/details/a2_cple_Apple_Zap_Bcs_Quest_For_Tires_Creepy_Corridors_Laf_Pak_Mine_Sweep_Space_Rac) – disk specifications, cheat codes, preservation data
 [^ref-14]: [Games That Weren't – Creepy Corridors](https://www.gamesthatwerent.com/gtw64/creepy-corridors/) – missing C64 version, advertisement details, mockup screenshot
 [^ref-17]: [Softalk, Vol. 3 No. 1 (September 1982) – Chuckles' Laf Pak review (Internet Archive)](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – "First and best Creepy Corridors", ten levels, "worth the price of the disk", joystick or keyboard; short-list "a real bargain"
 [^ref-18]: [Creative Computing, February 1983 (Vol. 9 No. 2) – "Apple Arcade Games" by David H. Ahl](https://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php) – Laf Pak contents, Creepy Corridors gameplay (treasures in four corners, monsters enter from left, straight-line gun), verdict quote
-[^ref-19]: [Hardcore Computist, Issue 13 (Internet Archive)](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – Ferrell Wheeler: Creepy Corridors "by far the most fun, especially with the hilarious sound effects"
+[^ref-19]: [Hardcore Computist, Issue 13 (Internet Archive)](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – Ferrell Wheeler, "Normalizing Laf Pak" (copy-protection removal article): Creepy Corridors "by far the most fun, especially with the hilarious sound effects"
 [^ref-20]: [Eli's Software Encyclopedia – Creepy Corridors (VIC-20, Cartridge) Sierra - 1983](https://elisoftware.org/wiki/Creepy_Corridors_(VIC-20,_Cartridge)_Sierra_-_1983_USA,_Canada_Release) – box copyright 1983, SierraVision label, developer Don McGlauflin, packaging text
 [^ref-21]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5¼" Disk) Sierra - 1982](https://elisoftware.org/wiki/Laf_Pak_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – copyright 1982, developer Chuck Bueche, 48K, "The History of Chuckles" packaging text
 [^ref-22]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"; 48K Apple II
