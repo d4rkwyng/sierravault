@@ -84,7 +84,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — "Playable on console for the very first time," per Red Art Games |
 > | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
 > | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | PQ3, KQ5 and SQ4 released |
-> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture]] | Two Guys from Andromeda | Full release out of Early Access (Steam, Dec 23) |
+> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture]] | Guys from Andromeda | Full release out of Early Access (Steam, Dec 23) |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
 > | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1 VGA v4.2 RC1]] | AGD Interactive | Engine upgrade, modern OS compatibility |
 > | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive | Released |

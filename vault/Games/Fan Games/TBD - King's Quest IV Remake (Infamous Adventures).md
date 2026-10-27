@@ -10,13 +10,13 @@ series: King's Quest
 engine: Unconfirmed
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'King''s Quest IV Remake is an unreleased fan remake of Sierra''s 1988 King''s Quest IV: The Perils of Rosella attributed to Infamous Adventures. Its only recent progress report is a patron-only January 2026 Patreon post, and no release date has been announced.'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -172,8 +172,8 @@ Whether the activity described in patron-only posts leads to a release is unknow
 
 ## References
 
-[^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – Post dated January 11, 2026, locked to patrons; wording quoted on this page was recorded in January 2026 and cannot be publicly verified
-[^ref-2]: [Infamous Quests Patreon – Working on stuff](https://www.patreon.com/InfamousQuests/posts/working-on-stuff-139794477) – Post dated September 26, 2025, locked to patrons; reportedly describes activity on the Infamous Adventures Discord without naming King's Quest IV
+[^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/147963671) – Post dated January 11, 2026, locked to patrons; wording quoted on this page was recorded in January 2026 and cannot be publicly verified
+[^ref-2]: [Infamous Quests Patreon – Working on stuff](https://www.patreon.com/posts/139794477) – Post dated September 26, 2025, locked to patrons; reportedly describes activity on the Infamous Adventures Discord without naming King's Quest IV
 [^ref-3]: [King's Quest III VGA Remake by Infamous Adventures – itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) – "Rated 4.9 out of 5 stars (8 total ratings)"
 [^ref-4]: [Hardcore Gaming 101 – King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – Original game analysis, whale tongue section, hidden bridle, one in-game day, fan remake status, SCI/AGI versions
 [^ref-5]: [Adventure Game Studio – King's Quest IV Retold](https://www.adventuregamestudio.co.uk/play/game/2533/) – DrSlash's 2021 remake, AGS Awards 2021 nominee for Best Game Created with AGS, Pick of the Month August 2022, 9,663 downloads (October 2026)
@@ -189,6 +189,6 @@ Whether the activity described in patron-only posts leads to a release is unknow
 [^ref-18]: [Space Quest II VGA Remake by Infamous Adventures – itch.io](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – "Rated 4.8 out of 5 stars (22 total ratings)"; version 2.0 released January 1, 2020; Universal Binary Mac build September 10, 2024
 [^ref-19]: [AGDInteractive Forums – King's Quest IV: The Perils of Rosella VGA](http://www.agdinteractive.com/forum/viewtopic.php?t=9856) – April 2005 thread: Sponge Factory's KQ4 VGA remake "is on Infamous Adventures"; project lead unsure he will find time to continue
 [^ref-20]: [Unicorn Tales – King's Quest Remakes](https://unicorntales.org/kq4-perilsofrosella-remake/category/kings-quest-remakes/) – Unicorn Tales "remaking the game in 3D graphics"; Magic Mirror "stopped dev on it and the project got killed"
-[^ref-21]: [Infamous Quests Patreon – Oh man](https://www.patreon.com/InfamousQuests/posts/oh-man-149935749) – Public post, February 4, 2026, teasing an Easter egg "in one of our games"; does not name King's Quest IV
+[^ref-21]: [Infamous Quests Patreon – Oh man](https://www.patreon.com/posts/149935749) – Public post, February 4, 2026, teasing an Easter egg "in one of our games"; does not name King's Quest IV
 [^ref-22]: [Infamous Quests Patreon – update (April 4, 2026)](https://www.patreon.com/posts/154760603) – Public post, April 4, 2026: "lots of other people that have been scurrying behind the scenes to make some amazing things"; does not name King's Quest IV
 [^ref-23]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – Founded 2012 by Steven Alexander and Shawn Mills; Quest for Infamy "an adventure RPG made with Adventure Game Studio"

@@ -310,7 +310,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-45]: [AGD Interactive Forums – AGI Version](http://www.agdinteractive.com/forum/viewtopic.php?t=11943) – fan AGI project
 [^ref-48]: [King's Quest Omnipedia – NES Manual](https://kingsquest.fandom.com/wiki/King's_Quest_V_Instruction_Booklet_(NES)) – manual author credit
 [^ref-50]: [King's Quest Omnipedia – Nintendo Power Review](https://kingsquest.fandom.com/wiki/King's_Quest_V_Nintendo_Power_Review) – strategy guide publication
-[^ref-54]: [IndieRetroNews – King's Quest V Amiga OCS Remaster](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) – SCP remaster announcement (kikems / AmigaWave and Darasco / SCP group), palette reconstruction, MT-32 MIDI
+[^ref-54]: IndieRetroNews – "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster" (4 January 2026) *(link removed: the post links to a download of a modified copy of a commercially sold game)* – SCP remaster announcement (kikems / AmigaWave and Darasco / SCP group), palette reconstruction, MT-32 MIDI
 [^ref-55]: [IMDb – King's Quest V](https://www.imdb.com/title/tt0212279/) – user rating (7.9/10, 190 ratings, as of October 2026)
 [^ref-56]: [MobyGames – King's Quest V](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/) – platform release dates
 [^ref-57]: [Computer Gaming World #83 (June 1991) – "Celebrating Software"](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA Excellence in Software Award, Best Fantasy Role-Playing/Adventure Program, and the other nominees

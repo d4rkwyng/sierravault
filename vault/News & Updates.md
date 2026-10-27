@@ -11,7 +11,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q4 2026 (Oct– )
 
-> [!note] Wet Dreams Games Leaving Steam on October 23
+> [!note] Wet Dreams Games Delisted from Steam and GOG (October 23)
 > **October 8, 2026** — Publisher Assemble Entertainment announced that [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] and [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] will be sold on Steam **only until October 23, 2026**, after which both will be removed from the store. No reason was given ("we can't share anything about his future"), and the notice mentions Steam only. The classic titles — LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude — already left Steam after Assemble's earlier **April 30, 2025** announcement; existing owners kept them.
 >
 > [Steam announcement (Oct 8, 2026)](https://store.steampowered.com/news/app/765870/view/1846018067930701) · [Earlier classic-titles notice (Apr 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791)
@@ -20,7 +20,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 > [!example] October 2026
 > - **Oct 11** — ScummVM 2026.4.0 "Never-slop" released on the project's 25th anniversary; no Sierra titles among its newly supported games — [Announcement](https://www.scummvm.org/news/20261011/)
-> - **Oct 2–4** — [[Infamous Quests]] exhibited at RetroGameCon in Syracuse ("RetroGameCon in Syracuse is this weekend and we have a booth!"); [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] remains unreleased — [Bluesky (Sep 28)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r)
+> - **Oct 2–4** — [[Infamous Quests]] had a booth at RetroGameCon in Syracuse ("RetroGameCon in Syracuse is this weekend and we have a booth!"); [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] remains unreleased — [Bluesky (Sep 28)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r)
 
 ---
 
@@ -30,6 +30,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **September 21, 2026** — Mean Hamster Software released **AGI-64** and **AGI-ANTIC**, free tools that build cartridge images for the Commodore 64 and Atari XL/XE from the original game files of Sierra's AGI-engine games. You supply the game data from your own copies; no Sierra game data is bundled. The C64 list covers 14 Sierra titles: [[1984 - King's Quest - Quest for the Crown|King's Quest I]], [[1985 - King's Quest II - Romancing the Throne|II]], [[1986 - King's Quest III - To Heir Is Human|III]] and [[1988 - King's Quest IV - The Perils of Rosella|IV]] (AGI edition), [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] and [[1987 - Space Quest II - Vohaul's Revenge|II]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1988 - Manhunter - New York|Manhunter: New York]], [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]], [[1986 - The Black Cauldron|The Black Cauldron]], [[1988 - Gold Rush|Gold Rush!]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1984 - Donald Duck's Playground|Donald Duck's Playground]]. At launch it also supported two fan games, Space Quest 0: Replicated and a King's Quest VI AGI demake. AGI-ANTIC launched with King's Quest I. As of October 16, 2026 the project page says the free Windows or Mac tool "builds seventeen native adventures for C64 and Atari XL/XE, including Space Quest: The Lost Chapter." The C64 interpreter was first announced on August 15.
 >
 > [Mean Hamster (Sep 21, 2026)](https://meanhamster.com/news/agi-64-is-now-available) · [Announcement (Aug 15, 2026)](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) · [AGI-64 project page](https://meanhamster.com/games/agi-64)
+
+> [!tip] DOSBox Staging 0.83.0 — Authentic Roland SC-55 Emulation
+> **August 27, 2026** — DOSBox Staging released **0.83.0**, adding "Authentic Roland SC-55 emulation", a General MIDI-era sound module, plus "Authentic CRT colour emulation" and "Disk noise emulation".
+>
+> [0.83.0 release notes](https://www.dosbox-staging.org/download/release-notes/0.83.0/) · [0.83.0 release (GitHub, Aug 27, 2026)](https://github.com/dosbox-staging/dosbox-staging/releases/tag/v0.83.0)
 
 > [!note] Tim Curry (1946–2026), the Voice of Gabriel Knight
 > **August 25, 2026** — Tim Curry died at his home in Toluca Lake, Los Angeles, at the age of 80. His death was announced on August 26. For Sierra fans he was the voice of Gabriel Knight himself, the title character of [[1993 - Gabriel Knight - Sins of the Fathers|Sins of the Fathers]] and [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]. The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team paid tribute to "the incomparable Tim Curry, star of stage and screen, and the voice of Gabriel Knight." See also the [[Voice Cast Index]].
@@ -53,7 +58,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - 🦀 **[Wilson Reborn](https://github.com/antigerme/wilson-reborn)** — Rust clone for Windows/Linux/macOS/browser, full-parity goal (v0.3.2, June 26)
 > - 🌐 **[Johnny Reborn HD](https://github.com/bigfnj/johnny-castaway-rebornHD)** — C engine on platform-native APIs incl. web (v1.0.0, September 14)
 > - 🍎 **[johnny-castaway-mac](https://github.com/d4rkwyng/johnny-castaway-mac)** — native Swift for macOS (June) *(by SierraVault's maintainer)*
-> - 🖥️ **[Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public)** — January 2026
+> - 🖥️ **[Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public)** — December 2025 – January 2026
 
 ---
 
@@ -71,11 +76,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **May 27, 2026** — Red Art Games shadow-released the **Gobliiins Collection** for PS5, Xbox Series, and Switch ($24.99), bundling [[1991 - Gobliiins|Gobliiins]], [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]], [[1993 - Goblins Quest 3|Goblins Quest 3]], [[2009 - Gobliiins 4|Gobliiins 4]], and [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]]. Extras include a **new Pierre Gilhodes interview**, a mini-series gallery, and a music player. A physical PS5 edition was announced for September 2026 (Limited Game News gave September 24); SierraVault has not confirmed that it shipped.
 >
 > [Gematsu](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) · [Nintendo Life](https://www.nintendolife.com/games/switch-eshop/gobliiins_collection) · [Limited Game News (physical)](https://limitedgamenews.com/2026/06/05/gobliiins-collection-playstation-5/)
-
-> [!tip] DOSBox Staging 0.83.0 — Authentic Roland SC-55 Emulation
-> **May 2026** — The 0.83.0 release candidate added "Authentic Roland SC-55 emulation via Nuked-SC55", a General MIDI-era sound module, plus CRT color emulation and disk-noise emulation. The final **0.83.0** release followed on **August 27, 2026**.
->
-> [DOSBox Staging](https://www.dosbox-staging.org/) · [0.83.0 release (GitHub, Aug 27, 2026)](https://github.com/dosbox-staging/dosbox-staging/releases/tag/v0.83.0)
 
 > [!example] SpaceVenture — Adventure Game Hotspot Review: 73%
 > **April 3, 2026** — Adventure Game Hotspot reviewed the full release of [[2022 - SpaceVenture|SpaceVenture]] at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack. The game continues to receive fixes (v2.08.11, June 10).
@@ -97,7 +97,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - ✅ **itch.io** — Available now ($10)
 > - ✅ **Steam** — Released February 13, 2026
 > 
-> [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
+> [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter update "Jeu/Game" (Feb 11)](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
 
 > [!tip] Al Lowe Interview — Spillhistorie.no
 > **February 6, 2026** — Norwegian gaming history site Spillhistorie published a new in-depth interview with [[Al Lowe|Al Lowe]], discussing topics beyond Leisure Suit Larry:
@@ -122,7 +122,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > 
 > **Sierra-relevant additions:**
 > - 🎮 Dynamix DGDS engine: [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|Willy Beamish]] newly supported, joining [[1990 - Rise of the Dragon|Rise of the Dragon]] (added in ScummVM 2.9.0, December 2024)
-> - 🔧 New quarterly release schedule for faster updates
+> - 🔧 More frequent releases, with a new version-numbering scheme
 > - 📱 SDL3 support, improved Android/iOS builds
 > 
 > [ScummVM Release Notes](https://www.scummvm.org/news/20260131/) · [GamingOnLinux Coverage](https://www.gamingonlinux.com/2026/02/scummvm-v2026-1-0-is-a-huge-new-release-with-tons-of-new-supported-games/)
@@ -130,7 +130,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!example] Infamous Adventures — KQ4 Remake Development Update
 > **January 11, 2026** — A "Small Development Update" was posted on the [[Infamous Quests]] Patreon about [[Infamous Adventures]]' [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]]. The post is patron-only, so SierraVault cannot verify its contents publicly; it reportedly said the remake had resumed active development.
 > 
-> [Infamous Quests Patreon (Jan 11, 2026)](https://www.patreon.com/posts/small-update-147963671)
+> [Infamous Quests Patreon (Jan 11, 2026)](https://www.patreon.com/posts/147963671)
 
 > [!success] SCP Amiga Enhancements
 > **January 2026** — The [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]] showed and released enhanced Amiga versions:
@@ -139,7 +139,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - ✅ **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] OCS Enhanced** — Released mid-January (EAB thread opened Jan 14; IndieRetroNews, Jan 15)
 > - 🚧 **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — 90% complete
 > 
-> [EAB release thread (KQ5)](https://eab.abime.net/showthread.php?t=121951) · [IndieRetroNews (KQ5)](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) · [IndieRetroNews (PQ3)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) · [IndieRetroNews (SQ4, Jan 15)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) · [English Amiga Board](https://eab.abime.net/showthread.php?t=122018)
+> Sources (not linked, because these posts point to full builds of Sierra games that are still sold): English Amiga Board, "King Quest V enhanced by SCP" (Jan 4, 2026) · IndieRetroNews, "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster" (Jan 4, 2026) · IndieRetroNews, "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP" (Jan 5, 2026) · IndieRetroNews, "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP" (Jan 15, 2026) · English Amiga Board, "Space Quest IV enhanced by SCP" (Jan 14, 2026)
 
 ---
 
@@ -168,7 +168,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - **May 17** — Ars Technica: ["Sierra made the games of my childhood. Are they still fun to play?"](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/) — Retrospective article
 
 > [!success] SpaceVenture Early Access
-> **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Two Guys from Andromeda
+> **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Guys from Andromeda
 > 
 > [Steam Store](https://store.steampowered.com/app/1374960/)
 
@@ -189,10 +189,10 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!abstract] Fan Projects
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | ❓ Unverified — only source is a [patron-only post](https://www.patreon.com/posts/small-update-147963671) (Jan 2026) |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | ❓ Unverified — only source is a [patron-only post](https://www.patreon.com/posts/147963671) (Jan 2026) |
 > | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Last Mr. Roehm voice session [booked for May 2026](https://www.patreon.com/posts/154760603); no public confirmation it was finished; developer reports [waning momentum](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) (Jul 2026); still unreleased after RetroGameCon (Oct 2026) |
-> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ In limbo — [no team or budget to finish](https://www.patreon.com/posts/updates-on-rtr-141274312) (Oct 2025) |
-> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 [~90%](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) (Jan 2026); release promised ["soon"](https://eab.abime.net/showthread.php?t=122018&page=4), still unreleased |
+> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ In limbo — [no team or budget to finish](https://www.patreon.com/posts/141274312) (Oct 2025) |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 ~90% (IndieRetroNews, Jan 5, 2026); release promised "soon" (English Amiga Board, Feb 17, 2026), still unreleased |
 
 ---
 

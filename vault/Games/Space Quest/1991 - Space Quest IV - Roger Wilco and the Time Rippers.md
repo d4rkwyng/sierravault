@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
@@ -339,7 +339,7 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-43]: [Kotaku – Are These The 100 Best Adventure Games of All Time? (2011)](https://kotaku.com/are-these-the-100-best-adventure-games-of-all-time-452565187) – Preserves Adventure Gamers' 2011 ranking: Space Quest IV at #48
 [^ref-44]: [Dragon Magazine – September 1991 (Issue 173)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23173%5Bocr%5D_djvu.txt) – Lesser family review: "humor in this graphic adventure is brilliant", "attention to detail is meticulous", "animation and music are... amazing", "a great addition to a great series of games"
 [^ref-45]: [SCI Wiki – Space Quest IV](http://sciwiki.sierrahelp.com/index.php?title=Space_Quest_IV:_Roger_Wilco_and_the_Time_Rippers) – SCI interpreter versions, release dates, patches
-[^ref-46]: [IndieRetroNews – Space Quest IV Amiga OCS Enhanced](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) – SCP enhancement release (January 15, 2026 update), DaRaSCo, palette reconstruction
+[^ref-46]: IndieRetroNews – "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP" (updated 15 January 2026) *(link removed: the post links to a download of a modified copy of a commercially sold game)* – SCP enhancement release (January 15, 2026 update), DaRaSCo, palette reconstruction
 [^ref-47]: [Adventure Gamers – Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) – 2002 interview: "Space Quest 4... our masterpiece," Gary Owens casting, Sequel Police puzzle regret, VGA graphics milestone
 [^ref-48]: [Rock Paper Shotgun – Have You Played Space Quest IV](https://www.rockpapershotgun.com/have-you-played-space-quest-iv-roger-wilco-and-the-time-rippers) – Retrospective: "really, really funny," "five jokes written for every detail," Gary Owens delivery
 [^ref-49]: [Eurogamer – Retrospective: Space Quest IV](https://www.eurogamer.net/retrospective-space-quest-iv) – "SQ4 is about gags everywhere," parser vs icon interface debate, development tensions
@@ -349,7 +349,7 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-53]: [Benshoof.org – Space Quest IV Easter Eggs](https://www.benshoof.org/blog/space-quest-iv-easter-eggs) – hidden QA credits in the bar staircase (floppy versions only)
 [^ref-54]: [ScummVM tracker – SQ4CD Cedric easter egg bugs (March 2019)](https://lists.scummvm.org/pipermail/scummvm-tracker/2019-March/021081.html) – script bug that prevents the Cedric easter egg from almost ever happening
 [^ref-55]: [Adventure Classic Gaming – Scott Murphy interview (November 10, 2006)](https://www.adventureclassicgaming.com/index.php/site/interviews/234/) – parser "so much more deep", "insulting them based on their input"
-[^ref-56]: [IndieRetroNews – Police Quest III Amiga enhancement (January 5, 2026)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – SCP as a group of Spanish people, Darasco as a member, Space Quest IV in progress
+[^ref-56]: IndieRetroNews – "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP" (January 5, 2026) *(link removed: the post links to a download of a modified copy of a commercially sold game)* – SCP as a group of Spanish people, Darasco as a member, Space Quest IV in progress
 [^ref-57]: [ScummVM – Compatibility (1.2.0)](https://www.scummvm.org/compatibility/1.2.0/) – Space Quest IV rated "Excellent"
 [^ref-58]: [Steam Community – Space Quest 4: Software Excess Catalog](https://steamcommunity.com/sharedfiles/filedetails/?id=1808949769) – fan transcription of the bargain-bin boxes: "King's Quest 48: Quest for Disk Space", "Roberta Williams III", "Over 12 Gigabytes in length!"
 [^ref-59]: [Gaming After 40 – Adventure of the Week: Space Quest IV (2012)](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-space-quest-iv-roger.html) – bargain bin: "King's Quest XXXXVIII: Quest for Disk Space, which is 'over 12 gigabytes in length'"
