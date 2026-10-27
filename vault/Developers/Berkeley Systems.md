@@ -6,11 +6,11 @@ defunct: 2000
 headquarters: "Berkeley, California, USA"
 notable_games: ["After Dark", "You Don't Know Jack", "Head Rush"]
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ After Dark followed in 1989.[^ref-8] The company's 1997 background page credits 
 
 ### You Don't Know Jack
 
-Jellyvision, then called Learn Television and a maker of children's educational films, developed You Don't Know Jack after Igor Gasowski of Berkeley Systems asked whether it could make an adult version of its quiz game That's a Fact, Jack!; Gasowski became the game's executive producer.[^ref-21] The game was released in 1995 and became Berkeley's best-selling product, while production stayed at Jellyvision's Chicago studios.[^ref-21][^ref-6][^ref-7] The host of the first volume was Nate Shapiro, voiced by Jellyvision's Harry Gottlieb.[^ref-22] Cookie Masterson, played by Tom Gottlieb, was the sign-in host for the first installments and became a game host from You Don't Know Jack: Movies onward.[^ref-25][^ref-24]
+Jellyvision, then called Learn Television and a maker of children's educational films, developed You Don't Know Jack after Igor Gasowski of Berkeley Systems asked whether it could make an adult version of its quiz game That's a Fact, Jack!; Gasowski became the game's executive producer.[^ref-21] Sources disagree on who approached whom: that account comes from Harry Gottlieb, while MobyGames says Jellyvision had a prototype of the game and approached Berkeley Systems with it.[^ref-21][^ref-3] The game was released in 1995 and became Berkeley's best-selling product, while production stayed at Jellyvision's Chicago studios.[^ref-21][^ref-6][^ref-7] The host of the first volume was Nate Shapiro, voiced by Jellyvision's Harry Gottlieb.[^ref-22] Cookie Masterson, played by Tom Gottlieb, was the sign-in host for the first installments and became a game host from You Don't Know Jack: Movies onward.[^ref-25][^ref-24]
 
 In October 1996 Berkeley Systems launched beZerk, an online entertainment site built around games.[^ref-18]
 
@@ -71,7 +71,7 @@ The LA Times summed up the company in 1997 as best known for its "You Don't Know
 Berkeley Systems titles with SierraVault pages; MobyGames lists the company's full credits, including the You Don't Know Jack volumes.[^ref-3]
 
 - **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver
-- **1991** — [[1991 - More After Dark|More After Dark]] — Genre: Shooter
+- **1991** — [[1991 - More After Dark|More After Dark]] — Screensaver expansion
 - **1998** — [[1998 - After Dark Games|After Dark Games]] (published by Sierra) — Genre: Puzzle
 - **1998** — [[1998 - Head Rush|Head Rush]] (with Jellyvision; published by Sierra) — Genre: Trivia
 

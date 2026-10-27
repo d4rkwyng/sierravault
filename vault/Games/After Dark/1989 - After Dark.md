@@ -10,15 +10,15 @@ series: After Dark
 engine: Assembly language and C
 protagonist: N/A
 sierra_lineage: Acquired Franchise
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: After Dark is the screensaver series Berkeley Systems introduced for
-  the Macintosh in 1989 and for Windows in 1991, home of the Flying Toasters; Sierra
-  acquired Berkeley Systems in 1997.
+  the Macintosh in 1989 and for Windows in 1991, home of the Flying Toasters; CUC International, Sierra
+  On-Line's parent, acquired Berkeley Systems in April 1997.
 tags: [1980s, after-dark, screensaver, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 

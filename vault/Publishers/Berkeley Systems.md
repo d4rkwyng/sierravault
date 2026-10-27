@@ -5,32 +5,32 @@ founded: 1987
 defunct: 2000
 headquarters: "Berkeley, California, United States"
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Berkeley Systems was a software company in Berkeley, California, founded in 1987 by Wes Boyd and Joan Blades; the company's own 1997 background page also names Lawrence Boyd.[^ref-1][^ref-2][^ref-19] It was best known for the After Dark screen saver series, with its flying toasters, and as the publisher of the trivia game You Don't Know Jack, which was developed by Jellyvision.[^ref-3][^ref-17][^ref-1] By 1997 the company said After Dark had sold over three million units since 1989.[^ref-19]
+Berkeley Systems was a software company in Berkeley, California, founded in 1987 by Wes Boyd and Joan Blades; the company's own 1997 background page also names Lawrence Boyd.[^ref-1][^ref-2][^ref-19] It was best known for the After Dark screen saver series, with its flying toasters, and as the publisher of the trivia game You Don't Know Jack, which was developed by Jellyvision.[^ref-3][^ref-17][^ref-1] Accounts of how the two companies met differ: MobyGames says Jellyvision prototyped the game in HyperCard and then sought out Berkeley as publisher, while Wikipedia quotes Learn Television founder Harry Nathan Gottlieb saying Berkeley's Igor Gasowski approached him; Gasowski became the game's executive producer.[^ref-26][^ref-25] By 1997 the company said After Dark had sold over three million units since 1989.[^ref-19]
 
 For the company's full history and people, see [[Developers/Berkeley Systems|Berkeley Systems (Developer)]].
 
 ## Sierra Connection
 
-CUC International bought Berkeley Systems in April 1997 and placed it under Sierra On-Line, which CUC had acquired the year before.[^ref-16][^ref-17][^ref-1] MobyGames lists it as the first of two acquisitions Sierra completed that April.[^ref-4] The Los Angeles Times reported that up to a third of Berkeley's 120 employees would be laid off and that the unit's new general manager, Chris Deyo, would report to executives at Sierra.[^ref-17]
+CUC International bought Berkeley Systems in April 1997 and placed it under Sierra On-Line, which CUC had acquired the year before.[^ref-16][^ref-17][^ref-1][^ref-21][^ref-24] MobyGames lists it as the first of two acquisitions Sierra completed that April.[^ref-4] The Los Angeles Times reported that up to a third of Berkeley's 120 employees would be laid off and that the unit's new general manager, Chris Deyo, would report to executives at Sierra.[^ref-17]
 
-Sierra published two 1998 titles developed with Berkeley Systems: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
+In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw "mostly from Berkeley Systems' famous brand titles", listing HeadRush and the After Dark Game Pack among its 1998 releases.[^ref-22] Both appeared that year: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
 
-By 2000 little was left. The Daily Ping noted that Berkeley's beZerk game network had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-18] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-1]
+By 2000 little was left. The Daily Ping noted that Berkeley's beZerk game network, launched in October 1996,[^ref-23] had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-18] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-1]
 
 ## Games
 
 Berkeley Systems titles with SierraVault pages:
 
 - **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver
-- **1991** — [[1991 - More After Dark|More After Dark]] — Genre: Shooter
+- **1991** — [[1991 - More After Dark|More After Dark]] — Screensaver expansion
 - **1998** — [[1998 - After Dark Games|After Dark Games]] (published by Sierra) — Genre: Puzzle
 - **1998** — [[1998 - Head Rush|Head Rush]] (with Jellyvision; published by Sierra) — Genre: Trivia
 
@@ -50,3 +50,9 @@ Berkeley Systems titles with SierraVault pages:
 [^ref-18]: [Whatever Happened to Berkeley Systems - Daily Ping (September 2000)](https://dailyping.com/archive/2000/09/04/whatever-happened-to-berkeley-systems/) - beZerk outsourced to won.net; "So what's left at Berkeley? Not much."
 [^ref-19]: [Berkeley Systems Corporate Background (Wayback, June 1997)](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) - "founded in 1987 by Wes Boyd, Joan Blades and Lawrence Boyd"; After Dark "sold over three million units since its inception in 1989"
 [^ref-20]: [Wikipedia - You Don't Know Jack (franchise)](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)) - "You Don't Know Jack HeadRush (a teen spin-off game) – August 31, 1998"
+[^ref-21]: [Sierra On-Line, Inc. History - FundingUniverse](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) - "In April 1997, the firm purchased Berkeley Systems, a publisher known for its You Don't Know Jack series, its After Dark screen saver series, and the bezerk network"
+[^ref-22]: [Sierra Plans for the Future - GameSpot (18 May 1998)](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) - Sierra Attractions "stemming mostly from Berkeley Systems' famous brand titles"; lists the After Dark Game Pack (November) and HeadRush (August)
+[^ref-23]: [Short Take: Berkeley Systems launches game-based site - CNET (17 October 1996, Wayback)](https://web.archive.org/web/20190716221736/https://www.cnet.com/news/short-take-berkeley-systems-launches-game-based-site/) - beZerk billed as the "first irreverent, online entertainment network for grown-ups"
+[^ref-24]: [Wikipedia - CUC International](https://en.wikipedia.org/wiki/CUC_International) - Subsidiaries include Sierra On-Line and "Berkeley Systems, Inc." (infobox)
+[^ref-25]: [Wikipedia - You Don't Know Jack (1995 video game)](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(1995_video_game)) - Gottlieb: "[Igor Gasowski of Berkeley Systems had] seen That's a Fact, Jack!"; "Igor Gasowski would end up serving as the executive producer"
+[^ref-26]: [MobyGames - You Don't Know Jack trivia (Wayback, June 2024)](https://web.archive.org/web/20240621020055/https://www.mobygames.com/game/1407/you-dont-know-jack/trivia/) - "originally prototyped as a Hypercard program ... at a company called Jellyvision"; "they immediately thought of Berkeley Systems"

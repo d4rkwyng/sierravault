@@ -4,20 +4,20 @@ release_year: 1991
 developer: Berkeley Systems, Inc.
 designer: []
 publisher: Berkeley Systems, Inc.
-genre: Shooter
+genre: Screensaver
 platforms: [Mac, Windows 3.x]
 series: After Dark
 engine: After Dark Module System
 protagonist: Spacecraft pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: More After Dark, released in 1991, was an expansion package for Berkeley
   Systems' revolutionary After Dark screensaver software—"the software that kicked...
 tags: [1990s, after-dark, shooter, sierra]
 ---
 # More After Dark
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
