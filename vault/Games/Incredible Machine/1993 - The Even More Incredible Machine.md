@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 composer: [Christopher Stevens]
 description: The Even More Incredible Machine is a 1993 puzzle game that repackaged
   the original Incredible Machine's 87 puzzles with 73 new ones, plus new parts and
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Even More Incredible Machine
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -117,7 +117,7 @@ Once the core engine existed, "all that remained for Tunnell and company was to 
 - **Programmer:** Kevin Ryan
 - **Art Director:** Brian Hahn
 - **Artist:** Dennis Clevenger
-- **Puzzlomaniacs:** Kevin Ryan, Richard Tunnell, Matt Uhre
+- **Puzzlomaniacs:** Kevin Ryan, [[Richard Tunnell]], Matt Uhre
 - **Music and Sound Effects:** Christopher Stevens
 
 ### Technical Achievements
