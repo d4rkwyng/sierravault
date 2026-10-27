@@ -10,19 +10,19 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows, Macintosh and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-27T11:29:43-06:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Maximum Pool is a pool simulation video game developed by Dynamix and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. The game is part of the 3D Ultra series and serves as the successor to the 1999 game Cool Pool, the tenth game in the 3D Ultra series[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
+Maximum Pool is a pool simulation video game developed by Dynamix and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. The game is part of the 3D Ultra series and serves as the successor to the 1999 game Cool Pool[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
 
 The game features an entertaining mix of classic and novel pool games, offering a total of 12 types with several table variations[^ref-4]. At the Dreamcast launch, Senior Producer Randy Thompson said: "We're extremely excited to be one of the first video games in history to support online play between Dreamcast, Windows, and Macintosh players"[^ref-5]. He added that the game "shows the flexibility of the SegaNet network and how well designed it is for multiple platforms and a variety of game types"[^ref-5].
 
@@ -82,7 +82,7 @@ GameZone called the Internet-play options "smooth and well-designed (there's alr
 
 ### Origins
 
-Maximum Pool was developed by Dynamix's 3D Ultra Group[^ref-16] as the tenth game in the 3D Ultra series and the successor to Cool Pool[^ref-1]. IGN described it as "an overall enhanced version of the undeservedly overlooked 3D Ultra Cool Pool"[^ref-7]. GameZone noted that the developers "could have settled with making a game whose only major selling point was that it allowed for online play, but they chose to add features and make every feature count"[^ref-3].
+Maximum Pool was developed by Dynamix's 3D Ultra Group[^ref-16] as the successor to Cool Pool[^ref-1]. IGN described it as "an overall enhanced version of the undeservedly overlooked 3D Ultra Cool Pool"[^ref-7]. GameZone noted that the developers "could have settled with making a game whose only major selling point was that it allowed for online play, but they chose to add features and make every feature count"[^ref-3].
 
 ### Production
 
@@ -95,7 +95,7 @@ The game credits 66 people[^ref-2]. Key roles included:
 
 ### Technical Achievements
 
-Old PC Gaming later noted that "the physics model holding the game together is highly impressive"[^ref-10].
+IGN praised its "brilliantly modeled physics"[^ref-7].
 
 The game supported Internet play between PC, Macintosh and Dreamcast players, using Sega's SegaNet network for the Dreamcast version[^ref-5].
 
@@ -136,13 +136,14 @@ The Macintosh version supports Mac OS 8.5.1 to 9.2.2; OS X compatibility was add
 | GameZone (DC) | 8.5/10 | Praised combination of challenge, skill and fun[^ref-17] |
 | GameSpot (PC) | 6.3/10 | Noted cumbersome interface but good value[^ref-16] |
 | GameSpot (DC) | 5.0/10 | Criticized simplified controls and lack of extras[^ref-24] |
+| PC Zone (UK) | 59% | "A decent alternative" to real pool, reviewed by Scott Steinberg[^ref-31] |
 | Metacritic (PC) | 71/100 | Mixed or average reviews[^ref-6] |
 | Metacritic (Dreamcast) | 59/100 | Mixed or average reviews[^ref-13] |
 | Amazon Customer Reviews | 4.0/5 | Based on 9 ratings[^ref-25] |
 
 ### Critical Analysis
 
-IGN's Scott Steinberg delivered one of the most enthusiastic reviews, writing that "Sharp graphics, brilliantly modeled physics, and a pick up and play interface come together in a wonderful package that'll evoke more oohs, ahhs, and pearly white grins than a behind the back masse shot"[^ref-7].
+IGN's Scott Steinberg was enthusiastic, writing that "Sharp graphics, brilliantly modeled physics, and a pick up and play interface come together in a wonderful package that'll evoke more oohs, ahhs, and pearly white grins than a behind the back masse shot"[^ref-7].
 
 GameZone's Gil Alexander Shif called Maximum Pool "surprisingly good," emphasizing that the developers "chose to add features and make every feature count"[^ref-3]. The review highlighted the game's appeal to both "newbie and casual gamers," and noted that the AI "runs on a variety of settings wide enough to keep most players racking 'em up game after game"[^ref-3].
 
@@ -154,7 +155,7 @@ The critic site Antagonist, which scored the Dreamcast version 87, captured the 
 
 ### Modern Assessment
 
-One DreamcastLive.net reviewer described it as "something of a hidden gem in the Dreamcast's online lineup" and "the perfect chill online multiplayer game"[^ref-26].
+DreamcastLive.net user reviewers called it "something of a hidden gem in the Dreamcast's online lineup" and "the perfect chill online multiplayer game"[^ref-26].
 
 The game holds a 4.3/5 rating on DreamcastLive.net from three reviews; the site lists its online servers as hosted by Dreamcast-Talk[^ref-26]. On Glitchwave, it holds a 2.04/5.0 rating from only three ratings[^ref-27].
 
@@ -170,7 +171,7 @@ Sierra promoted Maximum Pool as "one of the first products in the console market
 
 Sierra terminated multiplayer support for Maximum Pool on August 16, 2007, along with other legacy titles including 3D Ultra Cool Pool[^ref-29].
 
-However, the community responded by developing unofficial patches that redirected the game to privately maintained servers[^ref-29]. DreamcastLive.net lists the Dreamcast version's servers as hosted by Dreamcast-Talk[^ref-26].
+Fans set up privately run servers, and a registry patch points the game at them[^ref-29][^ref-11]. DreamcastLive.net lists the Dreamcast version's servers as hosted by Dreamcast-Talk[^ref-26].
 
 ### Platform Preservation
 
@@ -185,14 +186,13 @@ Modern players can run the Windows version, though manual cue control may cause 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for digital re-release
 - No longer available through official retail channels
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/MaximumPool_201903)
 - [MyAbandonware](https://www.myabandonware.com/game/maximum-pool-ea5)
 - [Macintosh Repository](https://www.macintoshrepository.org/4687-maximum-pool) - Mac version and v1.06 updaters
-- [Community Server Patch](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Restores online play
+- [Community Server Patch](https://web.archive.org/web/20210423141836/https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Restores online play
 
 ## See Also
 
@@ -225,7 +225,6 @@ Modern players can run the Windows version, though manual cue control may cause 
 [^ref-7]: [IGN PC Review](https://www.ign.com/articles/2000/09/29/maximum-pool-2) - Detailed review with physics and graphics praise
 [^ref-8]: [MobyGames Releases](https://www.mobygames.com/game/3046/maximum-pool/releases/) - Platform release information
 [^ref-9]: [SierraChest Walkthrough](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool&fld=walkthrough&pid=11) - Interface details and compatibility notes
-[^ref-10]: Old PC Gaming Review (link removed: site offers game downloads) - Physics engine assessment
 [^ref-11]: [SierraChest Walkthrough - Menus and Preferences](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool&fld=walkthrough&pid=10) - Classic games, difficulty levels and computer opponents
 [^ref-13]: [Metacritic Dreamcast Critic Reviews](https://www.metacritic.com/game/maximum-pool/critic-reviews/?platform=dreamcast) - Dreamcast Metascore and critic quotes
 [^ref-16]: [GameSpot PC Review](https://www.gamespot.com/reviews/maximum-pool-review/1900-2618913/) - Interface criticism and cool-game rules
@@ -236,5 +235,6 @@ Modern players can run the Windows version, though manual cue control may cause 
 [^ref-25]: [Amazon Customer Reviews](https://www.amazon.com/Sierra-Sports-Maximum-Pool-PC/dp/B00004TJCJ) - User ratings
 [^ref-26]: [DreamcastLive.net](https://dreamcastlive.net/maximum-pool/) - Community ratings and server information
 [^ref-27]: [Glitchwave](https://glitchwave.com/game/maximum-pool/) - User rating
-[^ref-29]: [LoneBullet Patch Archive](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch
+[^ref-29]: [LoneBullet Patch Archive (Wayback, 2021)](https://web.archive.org/web/20210423141836/https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch
 [^ref-30]: [Katie Cadet Tech - Installing Maximum Pool on Mac OS X PowerPC](https://katiecadettech.wordpress.com/2023/10/12/installing-maximum-pool-on-mac-os-x-powerpc/) - G5 and Leopard compatibility
+[^ref-31]: [PC Zone #95, November 2000, p. 81 (Internet Archive scan)](https://archive.org/details/PC_Zone_95_November_2000/page/n80/mode/1up) - Maximum Pool short review, 59% verdict
