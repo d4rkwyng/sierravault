@@ -5,35 +5,35 @@ developer: Knowledge Adventure
 designer: [Unknown]
 publisher: Knowledge Adventure
 genre: Educational
-platforms: [Windows, Mac]
+platforms: [Mac]
 series: Dr. Brain / JumpStart
 engine: Unknown
 protagonist: Player (Secret Society member)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: '*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational
   adventure game developed and published by Knowledge Adventure in 2011,...'
 tags: [2010s, dr-brain-jumpstart, educational, sierra]
 ---
 # JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational adventure game developed and published by [[Knowledge Adventure]] in 2011, designed for children in grades three through five[^ref-1][^ref-15]. It is a post-Sierra continuation: the title carries both Knowledge Adventure's JumpStart Advanced branding and the Dr. Brain series name[^ref-6], a series that Sierra On-Line introduced and that Knowledge Adventure continued after Sierra was acquired by CUC International in 1996[^ref-2]. The game casts players as members of the Secret Society of Dr. Brain, an organization dedicated to exploration, adventure, and learning through time travel[^ref-3].
+*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational adventure game developed and published by [[Knowledge Adventure]], whose official manual carries a "© 2011 Knowledge Adventure" notice[^ref-19][^ref-21]. It is designed for children in grades three through five[^ref-6]. It is a post-Sierra continuation: the title carries both Knowledge Adventure's JumpStart Advanced branding and the Dr. Brain series name[^ref-6], a series that Sierra On-Line introduced and that Knowledge Adventure continued after Sierra was acquired by CUC International in 1996[^ref-2]. The game casts players as members of the Secret Society of Dr. Brain, an organization dedicated to exploration, adventure, and learning through time travel[^ref-3].
 
-The title features the distinctive Dr. Brain character, a bespectacled scientist with red hair who wears a lab coat over a purple shirt and black tie[^ref-4]. With more than 140 games, missions, and adventures, the game offers substantial content for young learners[^ref-5]. Softonic's review says its vibrant graphics and immersive storyline captivate young minds, "fostering a love for learning through adventure"[^ref-1]. Players engage with educational activities covering syllables, basic arithmetic, and United States geography, all wrapped in an action-adventure framework[^ref-6]. The game provides a "full version experience, ensuring that players receive complete access to all its features"[^ref-1].
+The title features the distinctive Dr. Brain character, a bespectacled scientist with red hair who wears a lab coat over a purple shirt and black tie[^ref-4]. With more than 140 games, missions, and adventures, the game offers substantial content for young learners[^ref-5]. Players engage with educational activities covering syllables, basic arithmetic, and United States geography, all wrapped in an action-adventure framework[^ref-6].
 
-The game reflects Knowledge Adventure's approach to the Dr. Brain franchise, which the CUC division turned into a more action-oriented series than Sierra's originals[^ref-2]. The Knowledge Adventure series is "set in 2326 following a new Dr. Brain, a twenty-something genius instead of an old mad scientist"[^ref-2]. This marked a significant departure from the original Sierra series, which began as an idea by [[Corey Cole]][^ref-18], co-designer of the Quest for Glory series[^ref-7]. The Knowledge Adventure games feature "less education-oriented and more problem-solving puzzles"[^ref-2]. Database listings and archives confirm the title's 2011 release and platform availability[^ref-15][^ref-16].
+The game reflects Knowledge Adventure's approach to the Dr. Brain franchise, which the CUC division turned into a more action-oriented series than Sierra's originals[^ref-2]. The Knowledge Adventure series is "set in 2326 following a new Dr. Brain, a twenty-something genius instead of an old mad scientist"[^ref-2]. This marked a significant departure from the original Sierra series, which began as an idea by [[Corey Cole]][^ref-18], co-designer of the Quest for Glory series[^ref-7]. The Knowledge Adventure games feature "less education-oriented and more problem-solving puzzles"[^ref-2]. The year is not entirely settled: the manual's copyright line says 2011[^ref-19][^ref-21] and Stash lists 2011[^ref-16], but Amazon's retail listing gives a "Date First Available" of 19 May 2010[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Knowledge Adventure]][^ref-8]
 > **Designer:** Unknown
 > **Publisher:** Knowledge Adventure[^ref-8]
 > **Engine:** Unknown
-> **Platforms:** Windows[^ref-15], Macintosh[^ref-6][^ref-3]
-> **Release Year:** 2011[^ref-15][^ref-3]
+> **Platforms:** Macintosh[^ref-6][^ref-21][^ref-3]
+> **Release Year:** 2011[^ref-19][^ref-21] (Amazon lists the retail edition as first available 19 May 2010[^ref-5])
 > **Series:** Dr. Brain / JumpStart
 > **Protagonist:** Player (Secret Society member)
 > **Sierra Lineage:** Post-Sierra
@@ -42,7 +42,7 @@ The game reflects Knowledge Adventure's approach to the Dr. Brain franchise, whi
 
 The game's narrative centers on a top-secret mission orchestrated by Dr. Brain, who has selected the player to join his elite time-traveling team[^ref-5]. As a member of the Secret Society of Dr. Brain, the player must "save the past from the evil Goo Gords"[^ref-5]. The organization's mission encompasses exploration, adventure, and learning through time travel, providing the framework for the game's educational content[^ref-10].
 
-The primary antagonists are "The Hench and his Henchmen", and The Hench has "dispersed Goopods and Goo Gords all throughout different time eras"[^ref-2]. The player travels through time on missions to defeat them, visiting the Industrial and Ancient time eras to destroy Goopods and battle Goo Gords[^ref-17]. Players use the Super Time Slicer to reach these eras[^ref-5]. Softonic describes the time travel mechanic as allowing players to "explore various historical periods while solving puzzles and completing challenges"[^ref-1].
+The primary antagonists are "The Hench and his Henchmen", and The Hench has "dispersed Goopods and Goo Gords all throughout different time eras"[^ref-2]. The player travels through time on missions to defeat them, visiting the Industrial and Ancient time eras to destroy Goopods and battle Goo Gords[^ref-17]. Players use the Super Time Slicer to reach these eras[^ref-5].
 
 Players also race across floating platforms to defeat the meddling Henchmen[^ref-5]. The adventure starts in the underwater Sea Lab, "the secret hiding place of Dr. Brain's Time Machine"[^ref-19]. The storyline is centered on "exploration, adventure, and learning through time travel"[^ref-3].
 
@@ -51,7 +51,7 @@ Players also race across floating platforms to defeat the meddling Henchmen[^ref
 ### Interface and Controls
 
 The game presents itself as an adventure experience where players can explore Dr. Brain's time travel lab and engage in a variety of mini-games[^ref-6].
-- The game is designed for children in grades three to five[^ref-1].
+- The game is designed for children in grades three to five[^ref-6].
 - Players start the adventure from a sign-in screen and choose what they will look like in the Redresserizer[^ref-19].
 - Movement uses the arrow keys; the Spacebar jumps, and the Control key fires the SPAMr ("SPastic Anti-Matter Ray")[^ref-19].
 - An in-game Communicator gives access to the inventory, virtual stores, and Dr. Brain's Journal, which Dr. Brain can read aloud[^ref-19].
@@ -69,7 +69,7 @@ The game offers more than 140 games, missions, and adventures, providing extensi
 
 ### Puzzles and Mechanics
 
-The educational mini-games cover a range of subjects for third through fifth graders[^ref-6], including "subjects such as math, science, and critical thinking"[^ref-1]. Players encounter activities that test their ability to count syllables, demonstrate basic arithmetic skills, and answer questions about US states[^ref-6]. "JumpStart Advanced encourages children to think creatively and logically, making education enjoyable"[^ref-1].
+The educational mini-games cover a range of subjects for third through fifth graders[^ref-6]. Players encounter activities that test their ability to count syllables, demonstrate basic arithmetic skills, and answer questions about US states[^ref-6].
 
 Combat-style sequences involve avoiding projectiles from the Goo Gords, with players able to make these creatures disappear by squashing them or shooting them with an "anti-matter ray," which results in a colored burst[^ref-6]. The ESRB lists Mild Cartoon Violence as the game's content descriptor[^ref-6]. The action elements reflect Knowledge Adventure's broader turn of the Dr. Brain franchise toward action-oriented games[^ref-2].
 
@@ -83,7 +83,7 @@ No contemporary critical reviews of *JumpStart Advanced 3rd-5th Grade: Adventure
 
 ### Modern Assessment
 
-Softonic's listing shows a rating of 4.6, under a review headlined "Educational Adventure Game for Young Learners"[^ref-1]. The review says the vibrant graphics and immersive storyline captivate young minds while fostering a love for learning[^ref-1].
+Softonic's listing shows a rating of 4.6, apparently from a single vote, and its undated, unsigned review says the game's graphics and storyline captivate young minds, "fostering a love for learning through adventure"[^ref-1].
 
 The broader Dr. Brain series, of which this game is part, has been cited as "one of the few examples of Edutainment Games which are actually good games in their own right"[^ref-7]. TV Tropes makes that assessment of the series as a whole, not of this title specifically.
 
@@ -98,19 +98,17 @@ The broader Dr. Brain series, of which this game is part, has been cited as "one
 
 The Dr. Brain series began as an idea by [[Corey Cole]], who wanted to implement the elements of science and technology in an adventure game[^ref-18]. Cole is also co-designer of the Quest for Glory series[^ref-7]. *Castle of Dr. Brain* (1991) would become the first game in Sierra's Discovery series, which was established in 1992[^ref-18]. Many of Cole's inspirations came from games like Mastermind and Hangman[^ref-18]. TV Tropes notes that the series is "one of the few examples of Edutainment Games which are actually good games in their own right"[^ref-7].
 
-After the second game, The Island of Dr. Brain, was released, Sierra acquired Bright Star Technology, a company known for its educational games[^ref-2]. The series was subsequently "turned over to a Bright Star team, explaining the change in direction from the second game to the third"[^ref-2]. Sierra produced four titles in the series from 1992 to 1996[^ref-2].
+After the second game, The Island of Dr. Brain, was released, Sierra acquired Bright Star Technology, a company known for its educational games[^ref-2]. The series was subsequently "turned over to a Bright Star team, explaining the change in direction from the second game to the third"[^ref-2]. Sierra produced four titles in the series, from *Castle of Dr. Brain* (1991)[^ref-18] to *The Time Warp of Dr. Brain* (1996)[^ref-2].
 
 ### Production
 
 The rights to the Dr. Brain series passed to Knowledge Adventure "sometime after the fourth game was released"[^ref-7]; Wikipedia places this after CUC International acquired Sierra in 1996, with the series continued by CUC's Knowledge Adventure division[^ref-2]. The Knowledge Adventure games recast Dr. Brain as a twenty-something genius instead of a mad scientist in his sixties[^ref-7]. This title carries the JumpStart Advanced name alongside the Dr. Brain name[^ref-6].
 
-Knowledge Adventure released four games based on the original series[^ref-2]: Dr. Brain Thinking Games: Puzzle Madness (1998), IQ Adventure (1999), Action Reaction, and The Adventures of Dr. Brain[^ref-2]. The Mac version is listed for Mac OS X and Mac OS X Intel[^ref-5], and the ESRB lists the platform as Macintosh[^ref-6]; a 2011 Windows installer is preserved at the Internet Archive[^ref-15]. Knowledge Adventure handled both development and publishing duties for the title[^ref-8].
+Knowledge Adventure released four games based on the original series[^ref-2]: Dr. Brain Thinking Games: Puzzle Madness (1998), IQ Adventure (1998 per MobyGames[^ref-22]; Wikipedia gives 1999[^ref-2]), Action Reaction, and The Adventures of Dr. Brain[^ref-2]. The Mac version is listed for Mac OS X and Mac OS X Intel[^ref-5], and the ESRB lists the platform as Macintosh[^ref-6]. Every first-party source found for 2011 lists Mac only[^ref-21][^ref-6]; a Windows installer of unknown date was uploaded to the Internet Archive in 2023[^ref-15]. Knowledge Adventure handled both development and publishing duties for the title[^ref-8].
 
 ### Technical Achievements
 
-Softonic credits the game with "vibrant graphics" and an "immersive storyline" designed to captivate young minds[^ref-1]. Softonic describes the game as "specifically tailored for the Mac platform"[^ref-1], and it is designed for children in grades three to five[^ref-1].
-
-The official game manual lists Mac OS X 10.6 or higher and installation from the Mac App Store[^ref-19]; Softonic's listing gives macOS 10.15[^ref-1], which the manual does not support. The manual's legal notices include "Unity is a trademark of Unity Technologies"[^ref-19]. The game includes more than 140 games, missions, and adventures[^ref-5]. The game combines "fun gameplay with essential learning", enhancing "knowledge in subjects such as math, science, and critical thinking"[^ref-1].
+The official game manual lists Mac OS X 10.6 or higher and installation from the Mac App Store[^ref-19]; Softonic's listing gives macOS 10.15[^ref-1], which the manual does not support. The manual's legal notices include "Unity is a trademark of Unity Technologies"[^ref-19]. The game includes more than 140 games, missions, and adventures[^ref-5].
 
 ### Technical Specifications
 
@@ -122,18 +120,18 @@ The official game manual lists Mac OS X 10.6 or higher and installation from the
 - **Storage:** 1.4 GB available
 - **Display:** 16-bit color, 800x600
 - **Distribution:** Mac App Store download[^ref-19]; also sold at retail[^ref-5]
-- **Target Audience:** Grades 3-5[^ref-1]
+- **Target Audience:** Grades 3-5[^ref-6]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Mac | 2011 | Mac OS X | Mac release[^ref-3] |
-| Windows | 2011 | Windows | Windows installer preserved at the Internet Archive[^ref-15] |
+| Mac | 2011 | Mac OS X | Mac App Store release; manual © 2011[^ref-21][^ref-19]. Amazon gives the retail listing a "Date First Available" of 19 May 2010[^ref-5] |
+| Windows | Unknown | Windows | Installer of unknown date, uploaded to the Internet Archive in 2023[^ref-15] |
 
 ### Technical Issues
 
-The Internet Archive's preserved Windows copy notes that "in order to play, you may need to run the game as administrator"[^ref-15]. The GOG.com community has expressed interest in having the game made available through their platform[^ref-3]. The game is currently listed as unavailable on Amazon India[^ref-5], and Softonic notes its download is no longer available[^ref-1].
+The Windows installer uploaded to the Internet Archive notes that "in order to play, you may need to run the game as administrator"[^ref-15]. The GOG.com community has expressed interest in having the game made available through their platform[^ref-3]. The game is currently listed as unavailable on Amazon India[^ref-5], and Softonic notes its download is no longer available[^ref-1].
 
 ### Easter Eggs and Trivia
 
@@ -166,7 +164,7 @@ The ESRB rated the game E for Everyone[^ref-6].
 
 ### Collections
 
-The game was released under Knowledge Adventure's JumpStart Advanced name, targeting third through fifth graders[^ref-6]. Knowledge Adventure changed its name to JumpStart Games in October 2012[^ref-20], which is why later copies credit JumpStart Games[^ref-15]. JumpStart Games ceased operations and ended support for its games (other than *Neopets*) on June 30, 2023[^ref-20].
+The game was released under Knowledge Adventure's JumpStart Advanced name, targeting third through fifth graders[^ref-6]. Knowledge Adventure changed its name to JumpStart Games in October 2012[^ref-20], and the 2023 Internet Archive upload credits JumpStart Games, the company's name from October 2012 on[^ref-15][^ref-20]. JumpStart Games ceased operations and ended support for its games (other than *Neopets*) on June 30, 2023[^ref-20].
 
 ### Fan Projects
 
@@ -180,7 +178,7 @@ No publications specific to this title were detailed in the available research.
 
 ### Critical Perspective
 
-*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* sits a long way from the Sierra series it descends from. The original Dr. Brain series, created by Quest for Glory co-designer Corey Cole, centered on puzzles drawing on mathematics, logic, word games and astronomy[^ref-7]. Knowledge Adventure's interpretation turned the franchise into something more action-oriented[^ref-2] and tied this entry to a grade-level band (grades 3-5)[^ref-6].
+*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* sits a long way from the Sierra series it descends from. The original Dr. Brain series, created by Quest for Glory co-designer Corey Cole, centered on puzzles ranging from memorizing sounds and patterns to jigsaw and word puzzles and rudimentary astronomy[^ref-7]. Knowledge Adventure's interpretation turned the franchise into something more action-oriented[^ref-2] and tied this entry to a grade-level band (grades 3-5)[^ref-6].
 
 ## Downloads
 
@@ -189,7 +187,7 @@ No publications specific to this title were detailed in the available research.
 - [GOG Dreamlist entry](https://www.gog.com/dreamlist/game/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain-2011) - Community requested[^ref-3]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/world-of-js-3rd-5th) - Preserved 2011 Windows installer (no current legitimate store listing found)[^ref-15]
+- [Internet Archive](https://archive.org/details/world-of-js-3rd-5th) - Windows installer of unknown date, uploaded in 2023 (no current legitimate store listing found)[^ref-15]
 
 ## See Also
 
@@ -215,9 +213,11 @@ No publications specific to this title were detailed in the available research.
 [^ref-7]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – series analysis, trivia, Knowledge Adventure rights
 [^ref-8]: [IGN – Adventures of Dr. Brain](https://www.ign.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – developer/publisher information
 [^ref-10]: [Kotaku – Game Listing](https://kotaku.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – game description
-[^ref-15]: [Internet Archive – JumpStart Advanced 3-5: The Adventures of Dr. Brain](https://archive.org/details/world-of-js-3rd-5th) – 2011 JumpStart Games release, Windows installer, preservation copy
+[^ref-15]: [Internet Archive – JumpStart Advanced 3-5: The Adventures of Dr. Brain](https://archive.org/details/world-of-js-3rd-5th) – Windows installer; uploader metadata gives date 2011 and creator JumpStart Games (item added 2023-07-07)
 [^ref-16]: [Stash – JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain](https://stash.games/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – 31 Dec 2011 Mac release, Knowledge Adventure, Secret Society premise
 [^ref-17]: [Dr. Brain Omnipedia Wiki (Fandom) – Adventures of Dr. Brain](https://drbrain.fandom.com/wiki/Adventures_of_Dr._Brain) – plot premise, The Hench, Goopods and Goo Gords, Industrial and Ancient eras
 [^ref-18]: [Wikipedia – Castle of Dr. Brain](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain) – Corey Cole's proposal, Discovery series (established 1992), Mastermind/Hangman inspirations
 [^ref-19]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2021-10-21)](https://web.archive.org/web/20211021083859/https://www.jumpstart.com/customercare/game-manual/adventures-of-dr-brain) – official manual: Sea Lab, IQ Actionizer, Time Slicer missions, controls, Mac system requirements, © 2011 Knowledge Adventure
 [^ref-20]: [Wikipedia – JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) – Knowledge Adventure renamed JumpStart Games (October 2012); operations ceased June 2023
+[^ref-21]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2011-09-25)](http://web.archive.org/web/20110925185204/http://www.jumpstart.com:80/CustomerCare/GameManual/DrBrain.aspx) – contemporary manual: Mac OS X 10.6, Mac App Store download, © 2011 Knowledge Adventure
+[^ref-22]: [MobyGames – Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – Windows, 1998 (read via the MobyGames API)
