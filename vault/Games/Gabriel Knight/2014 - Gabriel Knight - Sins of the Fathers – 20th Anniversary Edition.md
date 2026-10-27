@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unity
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a
  comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -180,7 +180,7 @@ The Mac version faces a critical compatibility issue: as a 32-bit application, i
 - Rock Paper Shotgun noted that the remake credits Gabriel's novels to "Blake Backlash" (one copy to "Black Backlash"), which Beast Within players know is his detective rather than his pen name[^ref-27]
 - Rock Paper Shotgun welcomed the remake "making it much easier to find that bloody snake scale on Lake Pontchartrain", and said so twice[^ref-27]
 - Grace's line "Gabriel is a lout. I mean, he's out" appeared in one of the first screenshots of the 1993 original[^ref-27]
-- The original game was listed as #7 on Computer Gaming World's November 1996 "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-34][^ref-46]
+- The original game was listed as #7 on Computer Gaming World's November 1996 "The Best Ways To Die in A PC Game" for the scene where a zombie rips out the player's heart[^ref-34][^ref-46]
 
 ## Voice Cast
 
@@ -287,7 +287,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-43]: [Computer Gaming World #112 (November 1993)](https://archive.org/details/Computer_Gaming_World_Issue_112) – Johnny L. Wilson, "Between Dark and Daylight", preview of the 1993 original
 [^ref-44]: [Computer Gaming World #116 (March 1994)](https://archive.org/details/Computer_Gaming_World_Issue_116) – Charles Ardai's review of the 1993 original (floppy version)
 [^ref-45]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: Adventure Game of the Year shared with Day of the Tentacle; Virginia Capers voice-over award
-[^ref-46]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – 150 Best Games of All Time ("Jane Jensen, the interactive Ann Rice"); 15 Best Ways to Die (#7)
+[^ref-46]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – 150 Best Games of All Time ("Jane Jensen, the interactive Ann Rice"); "The Best Ways To Die in A PC Game" (p. 107, #7; title as on the contents page)
 [^ref-47]: [Sierra Studios – The Gabriel Knight Mysteries: Overview (Wayback, 2001)](https://web.archive.org/web/20010626195137/http://www.sierrastudios.com/games/gk1/cindex2.html) – Sierra's own award list: CGR and CGW 1994 Adventure Game of the Year, 1993 CES Best of Show
 [^ref-48]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) – Philip Jong, 1997 review of the 1993 original; Curry as Gedde Butler, voodoo research
 [^ref-49]: [The Sierra Chest – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition: Walkthrough](https://sierrachest.com/index.php?a=games&id=532&title=gabriel-knight-1-remake&fld=walkthrough&pid=100) – 362-point total, yellow topics, in-game dates for Days 1–10

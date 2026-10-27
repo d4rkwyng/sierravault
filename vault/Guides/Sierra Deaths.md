@@ -1,7 +1,7 @@
 ---
 title: "Sierra Deaths"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # The Art of Dying: A Celebration of Sierra's Creative Deaths
 
@@ -25,7 +25,7 @@ The Space Quest series perfected the art of the humorous death, with Roger Wilco
 **Notable Death Mechanics:**
 - [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] established the series' identity with sardonic humor where "at least if you do something wrong, it tends to garner a chuckle"[^ref-6]
 - [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] featured memorable deaths including being squished into a pancake by a floor waxer and causing a methane explosion by lighting a lighter in the bathroom[^ref-28]
-- [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] was ranked **#2** on Computer Gaming World's 1996 list of "The 15 Best Ways To Die In Computer Gaming": "After your death, you see your various body parts moving down a conveyor belt to be sold at the local butcher shop."[^ref-7]
+- [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] was ranked **#2** on Computer Gaming World's 1996 list "The Best Ways To Die in A PC Game": "After your death, you see your various body parts moving down a conveyor belt to be sold at the local butcher shop."[^ref-7]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] introduced an "instant replay death" scene where the Two Guys from Andromeda pop up to replay Roger's particularly stupid moment[^ref-6]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] included a death that parodies the "This is your brain on drugs" PSA when Roger visits the surface of Ortega[^ref-8]
 - [[1993 - Space Quest V - The Next Mutation|Space Quest V]] featured a hidden "death message viewer" accessible via an invisible button below "Space" on the death screen title bar—a feature of version 0.028 only, reputed to crash the game often[^ref-9]
@@ -47,8 +47,8 @@ Space Quest V's death messages even referenced other Sierra games: when the elev
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] still had dead ends: one reviewer called the Minotaur's Labyrinth "the mother of all dead ends in the game"[^ref-43]
 - [[2015 - King's Quest|King's Quest (2015)]] cleverly explained deaths through the framing device: Graham's narration always implies that the "deaths" never actually took place[^ref-42]
 
-**Darkest Death:**
-The [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI remake]] featured a memorable cut scene where King Edward, dying, was supposed to say "I think the Magic Mirror would look best over on that wall" before pointing and expiring. As [[Josh Mandel]] recalled, Roberta Williams "gently asked if we could change that scene, since she didn't think King Edward would be giving interior decorating tips with his dying breath."[^ref-33]
+**A Death That Was Cut:**
+The [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI remake]] was to include a scene, later cut, where King Edward, dying, was supposed to say "I think the Magic Mirror would look best over on that wall" before pointing and expiring. As [[Josh Mandel]] recalled, Roberta Williams "gently asked if we could change that scene, since she didn't think King Edward would be giving interior decorating tips with his dying breath."[^ref-33]
 
 ### Leisure Suit Larry: Dying for Love
 
@@ -56,7 +56,7 @@ The Leisure Suit Larry series had a complex relationship with death—some entri
 
 **Death Philosophy by Entry:**
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]] played death for comedy: Larry "gets taken underground to the Sierra factory, where heroes are made, and you watch your next character be assembled"[^ref-12]
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] dramatically increased deaths—a YouTube compilation of them runs roughly 40 minutes[^ref-36]—and the game punishes Larry for flirting with any woman he meets, which invariably leads to his violent death[^ref-35]
+- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] was full of deaths—a YouTube compilation of them runs roughly 40 minutes[^ref-36]—and the game punishes Larry for flirting with any woman he meets, which invariably leads to his violent death[^ref-35]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] removed death entirely: MobyGames notes that "it is impossible to 'die' in Larry 5, and the amount of 'dead ends' (unwinnable situations) is greatly reduced"[^ref-37]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] brought death back, but softened it: Larry can die, and the player may try again every time without restoring a saved game[^ref-38]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]] returned to the no-death approach: "Larry can't die in this game"[^ref-39]
@@ -66,7 +66,7 @@ The Leisure Suit Larry series had a complex relationship with death—some entri
 The hybrid adventure-RPG series featured both traditional deaths and unique mechanics.
 
 **Notable Deaths:**
-- [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] added a stamina death mechanic: unlike the original, "running out of stamina points here can kill the hero outright"[^ref-40]. Picking your nose with the lockpick is a series running joke: with enough lock-picking skill the game responds "Success! You now have an open nose", but with too little the hero pushes the pick in too far and dies[^ref-26]
+- [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] added a stamina death mechanic: unlike the original, "running out of stamina points here can kill the hero outright"[^ref-40]. Picking your nose with the lockpick is a running joke in the first game, in both the 1989 original and the VGA remake: with enough lock-picking skill the game responds "Success! You now have an open nose", but with too little the hero pushes the pick in too far and dies[^ref-26]
 - [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] maintained humor despite darker themes through "Boris Karloff and Peter Lorre parodies"[^ref-13]
 
 ### Laura Bow: Murder Most Foul
@@ -83,14 +83,14 @@ The Laura Bow mysteries featured death from both sides—investigating murders w
 - [[1996 - Rama|Rama]] followed a death with "an apology and warning from Clarke in a live-action video," then offered a forgiving retry[^ref-41]
 
 **Gabriel Knight:**
-- [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-7]
+- [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "The Best Ways To Die in A PC Game" for the scene where a zombie rips out the player's heart[^ref-7]
 
 ## The Narrator's Role
 
 The narrator became one of Sierra's most beloved features, particularly in comedy series. The voice brought death scenes to life—quite literally.
 
 **Gary Owens (Space Quest IV & VI):**
-The legendary voice actor (with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost)[^ref-5] provided sardonic commentary that made every death entertaining. When writing narrator lines, Scott Murphy "always imagined Gary speaking the lines he wrote," and signing Owens "was a dream come true."[^ref-5] When Owens died on February 12, 2015, at 80,[^ref-47] the Two Guys from Andromeda called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-17]
+The legendary voice actor (with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost)[^ref-5] provided sardonic commentary that made every death entertaining. When writing narrator lines, Scott Murphy "always imagined Gary speaking the lines he wrote," and signing Owens "was a dream come true."[^ref-5] When Owens died on February 12, 2015, at 80,[^ref-47] Mark Crowe, posting for both Two Guys from Andromeda, called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-17]
 
 **John Rhys-Davies (Quest for Glory IV):**
 According to an InterAction magazine article, his part took more than three weeks to record.[^ref-13]
@@ -106,7 +106,7 @@ Sierra death messages became an art form. Some highlights:
 
 **Quest for Glory (lockpick nose, success):** "Success! You now have an open nose"[^ref-26]
 
-## Computer Gaming World's "15 Best Ways to Die" (1996)
+## Computer Gaming World's "The Best Ways To Die in A PC Game" (1996)
 
 In November 1996, Computer Gaming World published their definitive ranking of PC gaming's most memorable death scenes.[^ref-7] Sierra placed three games on the list:
 
@@ -116,11 +116,11 @@ In November 1996, Computer Gaming World published their definitive ranking of PC
 | #7 | Gabriel Knight | Zombie rips out heart |
 | #12 | Mission Force: Cyberstorm | Flesh burning off the bioderms |
 
-The same issue ranked **Space Quest IV as #1 on the "15 Funniest Games of All Time,"** praising how "Roger Wilco and friends transformed every sci-fi time-travel cliche with Gary Owens' voice (Laugh-in, Space Ghost) providing perfect comedic counterpoint."[^ref-7]
+The same issue ranked **Space Quest IV as #1 on "The Funniest Games Of All Time,"** praising how "Roger Wilco and friends transformed every sci-fi time-travel cliche with Gary Owens' voice (Laugh-in, Space Ghost) providing perfect comedic counterpoint."[^ref-7]
 
 ## The End of an Era
 
-By the mid-1990s, the adventure game landscape was changing. LucasArts used its game manuals to take a dig at Sierra, with a line about not wanting to spoil players' fun by killing them every two minutes.[^ref-20] Sierra adapted—in [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] "it is also entirely impossible to make the game unwinnable,"[^ref-44] and in [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] the player cannot "die" or reach a point where onward play is impossible.[^ref-45]
+By the mid-1990s, the adventure game landscape was changing. LucasArts used its game manuals to take a dig at Sierra, with a line about not wanting to spoil players' fun by killing them every two minutes.[^ref-20] Some Sierra games did without deaths or dead ends: in [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] "it is also entirely impossible to make the game unwinnable,"[^ref-44] and the earlier children's game [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] was built so the player cannot "die" or reach a point where onward play is impossible.[^ref-45]
 
 As [[Al Lowe]] told GameCenter in March 1999, after cleaning out his Sierra office: "The adventure game business has died."[^ref-21]
 
@@ -146,8 +146,8 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 
 [^ref-1]: [Virtual Broomcloset – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – Scott Murphy: "What if this guy was just your average Joe"
 [^ref-5]: [Guys from Andromeda – Space Quest IV](http://guysfromandromeda.com/space-quest-iv-roger-wilco-time-rippers/) – Gary Owens biography: 30,000+ voice jobs, Roger Ramjet, Space Ghost
-[^ref-6]: [Hardcore Gaming 101 – Space Quest](http://www.hardcoregaming101.net/space-quest/) – Analysis of humorous death design philosophy
-[^ref-7]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The 15 Best Ways To Die In Computer Gaming" (p. 107: SQ3 #2, Gabriel Knight #7, Mission Force: Cyberstorm #12) and "The 15 Funniest Computer Games" (p. 113: SQ4 #1)
+[^ref-6]: [Hardcore Gaming 101 – Space Quest (Wayback, July 2026)](https://web.archive.org/web/20260702000638/https://www.hardcoregaming101.net/space-quest-i/) – Analysis of humorous death design philosophy
+[^ref-7]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Best Ways To Die in A PC Game" (p. 107: SQ3 #2, Gabriel Knight #7, Mission Force: Cyberstorm #12) and "The Funniest Games Of All Time" (p. 113: SQ4 #1), titles as printed on the issue's contents page
 [^ref-8]: [SpaceQuest.net – SQ4 Spoofs and References](https://spacequest.net/sq4/spoofref/) – Ortega death scene parodies "This is your brain on drugs" PSA
 [^ref-9]: [SpaceQuest.net – SQ5 Cheats & Debug](https://spacequest.net/sq5/cheatdebug/) – Hidden death message viewer in version 0.028, reputed to crash often
 [^ref-10]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message refers to Mixed Up Mother Goose
@@ -155,15 +155,15 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 [^ref-12]: [PC Gamer – Great moments in PC gaming: Dying in Sierra adventure games (Richard Cobbett, 2019)](https://www.pcgamer.com/au/great-moments-in-pc-gaming-dying-in-sierra-adventure-games) – Larry taken to "the Sierra factory, where heroes are made"
 [^ref-13]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – Boris Karloff and Peter Lorre parodies; Rhys-Davies' part took more than three weeks to record (per InterAction)
 [^ref-14]: [Choicest Games – The Colonel's Bequest Review (2020)](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – "there aren't actually many ways you can die"; Psycho shower tribute; bannister fall
-[^ref-17]: [NeoGAF – Gary Owens Obituary Thread (Wayback, 17 Feb 2015)](https://web.archive.org/web/20150217013051/http://www.neogaf.com:80/forum/showthread.php?t=991874) – Two Guys' memorial tribute to Gary Owens (2015)
+[^ref-17]: [NeoGAF – Gary Owens Obituary Thread (Wayback, 17 Feb 2015)](https://web.archive.org/web/20150217013051/http://www.neogaf.com:80/forum/showthread.php?t=991874) – memorial tribute to Gary Owens, posted for the Two Guys and signed "-Mark" ("Scott and I are both very saddened...")
 [^ref-20]: [Eurogamer – Retrospective: Space Quest IV, page 2 (John Walker)](https://www.eurogamer.net/retrospective-space-quest-iv?page=2) – "LucasArts used to take a dig at Sierra in every one of its game manuals"
 [^ref-21]: [GameCenter – Game Spin: R.I.P. Leisure Suit Larry (Mark Asher, March 10, 1999; Wayback)](https://web.archive.org/web/20000817175057/http://www.gamecenter.com/News/Item/0,3,0-2559,00.html) – Lowe: "The adventure game business has died."
 [^ref-22]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – quotes Scott Murphy from Sierra's *The History of Space Quest* (1997): "everything was medieval"; "fun death"
 [^ref-23]: [GameFAQs – Leisure Suit Larry 2 Walkthrough by FastaKilla](https://gamefaqs.gamespot.com/pc/565081-leisure-suit-larry-goes-looking-for-love-in-several-wrong/faqs/8143) – "Like Al Lowe says in The Official Book of Leisure Suit Larry, 'Save early and often!'"
 [^ref-24]: [King's Quest Omnipedia – King's Quest IV](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – "one of the first computer adventure games with a female protagonist"; Williams: "Having the women die bothered me more than I expected"
-[^ref-25]: [Hardcore Gaming 101 – King's Quest V](http://www.hardcoregaming101.net/kings-quest-v-absence-makes-the-heart-go-yonder/) – "filled to the brim with impossibly frustrating dead ends"
-[^ref-26]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – lockpick nose joke: "Success! You now have an open nose"; low skill kills the hero
-[^ref-27]: [The Cutting Room Floor – Space Quest II (Wayback, 2023)](https://web.archive.org/web/2023/https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – unused Logic 100 death message
+[^ref-25]: [Hardcore Gaming 101 – King's Quest V (Wayback, February 2026)](https://web.archive.org/web/20260212093447/http://www.hardcoregaming101.net/kings-quest-v-absence-makes-the-heart-go-yonder/) – "filled to the brim with impossibly frustrating dead ends"
+[^ref-26]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – lockpick nose joke in the first game and its VGA remake: "Success! You now have an open nose"; low skill kills the hero
+[^ref-27]: [The Cutting Room Floor – Space Quest II (Wayback, May 2024)](https://web.archive.org/web/20240523201206/https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – unused Logic 100 death message
 [^ref-28]: [TV Tropes – Space Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIVohaulsRevenge) – floor waxer "pancake" death; restroom lighter explosion
 [^ref-30]: [Rock Paper Shotgun – Have You Played King's Quest III](https://www.rockpapershotgun.com/have-you-played-kings-quest-iii-to-heir-is-human) – Manannan's cat "purposefully tries to trip you up"
 [^ref-31]: [Just Games Retro – King's Quest III](https://www.justgamesretro.com/dos/kings-quest-iii-to-heir-is-human) – "disastrous results in store for anyone who mistypes a single step"
@@ -171,7 +171,7 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 [^ref-33]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – Josh Mandel on the cut "Magic Mirror" line
 [^ref-34]: [PC Gamer – 30 years later, Sierra's Laura Bow mysteries are still a treasure](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – Mandel: "The death scenes were Bruce's (slightly perverse) imagination at work"; Dermestid beetles
 [^ref-35]: [Wikipedia – Leisure Suit Larry Goes Looking for Love](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – game "actively punishes Larry for flirting with any woman he meets"
-[^ref-36]: [Last Day Deaf – Leisure Suit Larry 2](https://lastdaydeaf.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-placesdev-sierra-on-line-ms-dos-1988/) – death compilation "roughly 40 minutes long"
+[^ref-36]: [Last Day Deaf – Leisure Suit Larry 2 (Wayback, February 2025)](https://web.archive.org/web/20250217043849/https://lastdaydeaf.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-placesdev-sierra-on-line-ms-dos-1988/) – death compilation "roughly 40 minutes long"
 [^ref-37]: [MobyGames – Leisure Suit Larry 5](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/) – "it is impossible to 'die' in Larry 5"
 [^ref-38]: [MobyGames – Leisure Suit Larry 6](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – "Larry can die, but the player is allowed to try again every time"
 [^ref-39]: [PC Gamer – Leisure Suit Larry: Love For Sail gave the classic version of Larry a decent send-off](https://www.pcgamer.com/reinstall-leisure-suit-larry-love-for-sail/) – "Larry can't die in this game"
@@ -179,9 +179,9 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 [^ref-41]: [Balmoral Software – Rama review (10 November 1996)](http://www.balmoralsoftware.com/rama/rama.htm) – "an apology and warning from Clarke in a live-action video"
 [^ref-42]: [Giant Bomb – King's Quest (2015)](https://www.giantbomb.com/games/3030-47353/) – "The 'deaths' are always alluded to never have actually taken place by Graham's narration"
 [^ref-43]: [George Starostin – King's Quest VI review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vi-heir-today) – Labyrinth "the mother of all dead ends in the game"
-[^ref-44]: [Hardcore Gaming 101 – King's Quest VII](https://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – "entirely impossible to make the game unwinnable"
+[^ref-44]: [Hardcore Gaming 101 – King's Quest VII (Wayback, January 2026)](https://web.archive.org/web/20260121230032/http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – "entirely impossible to make the game unwinnable"
 [^ref-45]: [Wikipedia – Mixed-Up Fairy Tales](https://en.wikipedia.org/wiki/Mixed-Up_Fairy_Tales) – player cannot "die" or reach a point where onward play is impossible
-[^ref-46]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – "60-70 unique ways for Roger Wilco to die"
+[^ref-46]: [Space Quest: Vohaul Strikes Back – official FAQ (Wayback, January 2012)](https://web.archive.org/web/20120125100055/http://www.sqvsb.com/faq) – the team's own FAQ: "60-70 unique ways for Roger Wilco to die"
 [^ref-47]: [Wikipedia – Gary Owens](https://en.wikipedia.org/wiki/Gary_Owens) – narrator of Space Quest IV CD-ROM and Space Quest 6; died February 12, 2015, aged 80
 [^ref-48]: [Wikipedia – Bill Ratner](https://en.wikipedia.org/wiki/Bill_Ratner) – video game credits: 1992 King's Quest VI, Narrator
 [^ref-49]: [TV Tropes – King's Quest I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIQuestForTheCrown) – random encounters: ogre, wolf, sorcerer, witch; the dwarf steals an item

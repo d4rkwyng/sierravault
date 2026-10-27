@@ -185,7 +185,7 @@ A "Classic's Reillustrated" (SCI EGA) version for the Atari ST was announced in 
 ### Easter Eggs and Trivia
 
 - **Box Art Cameo:** The picture of Mother Goose on the original game box is [[Roberta Williams]] herself in costume. MobyGames' trivia says the two children beside her are her own; a 2016 version of the Wikipedia article said, without a citation, that they are not.[^ref-2][^ref-35]
-- **Space Quest V Reference:** The game is humorously referenced in Space Quest V, where a death message tells the player: "Looks like you've been spreading yourself a bit thin lately. Perhaps you'd like to try one of our less challenging games like 'Mixed Up Mother Goose?'"[^ref-5]
+- **Space Quest V Reference:** The game is humorously referenced in Space Quest V: when Roger is squashed in the Goliath's elevator shaft, the death message refers to Mixed Up Mother Goose.[^ref-37]
 - **Dunce Cap:** After the player returns Mary's lamb, following Mary into the schoolhouse shows one of her classmates sitting in the corner wearing a dunce cap.[^ref-10]
 - **Debug Mode Mystery:** Mixed-Up Mother Goose's debug functionality remains unverified despite debug words being present in its words.tok file.[^ref-21]
 
@@ -299,3 +299,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-34]: [Computer Gaming World #83 – "Celebrating Software", June 1991](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA award for "the multimedia version of Mixed-Up Mother Goose"
 [^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (the text Alchetron mirrors; no longer in the current article)
 [^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"
+[^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
