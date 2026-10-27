@@ -10,18 +10,18 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
-  developed and published by Himalaya Studios, released on September 5, 2006 for...
+  developed and published by Himalaya Studios, released on September 6, 2006 for...
 tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game developed and published by [[Himalaya Studios]], released on September 5, 2006 for Windows[^ref-1]; a Linux version followed with the Steam release on May 9, 2014[^ref-8][^ref-25]. It was the studio's first original commercial release, made by the team behind the free fan remakes of King's Quest I and King's Quest II[^ref-2]. Built using Chris Jones' Adventure Game Studio (AGS) engine[^ref-3], the game pays homage to the classic point-and-click adventures popularized by Sierra and LucasArts in the 1980s and 1990s[^ref-1]. Himalaya's launch press release invoked King's Quest, Leisure Suit Larry and Monkey Island[^ref-2], and Just Adventure compared Al to Larry Laffer and Koko the pharmacist to Freddy Pharkas[^ref-4].
+Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game developed and published by [[Himalaya Studios]], released on September 6, 2006 for Windows, according to Himalaya's launch press release and MobyGames (Wikipedia gives September 5)[^ref-36][^ref-8][^ref-1]; a Linux version followed with the Steam release on May 9, 2014[^ref-8][^ref-25]. It was the studio's first original commercial release, made by the team behind the free fan remakes of King's Quest I and King's Quest II[^ref-2]. Built using Chris Jones' Adventure Game Studio (AGS) engine[^ref-3], the game pays homage to the classic point-and-click adventures popularized by Sierra and LucasArts in the 1980s and 1990s[^ref-1]. Himalaya's launch press release invoked King's Quest, Leisure Suit Larry and Monkey Island[^ref-2], and Just Adventure compared Al to Larry Laffer and Koko the pharmacist to Freddy Pharkas[^ref-4].
 
 Set in the fictional Wild West town of Anozira—Arizona spelled backwards[^ref-3]—the game follows the misadventures of Al Emmo, a forty-two-year-old virgin and unlikely hero who arrives seeking his mail-order bride, Ivanna Lottakash[^ref-4]. The story loosely incorporates actual Arizona legends, including the famous Lost Dutchman's Gold Mine, while wrapping them in layers of parody and absurdist humor[^ref-5]. Adventure Classic Gaming declared the game "undoubtedly among the funniest adventure games I have ever played," praising its witty writing and engaging story[^ref-3].
 
@@ -178,7 +178,7 @@ The Enhanced Edition replaced the original 3D pre-rendered cutscenes with new 2D
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Demo | July 3, 2006 | Windows | Initial demo release[^ref-26] |
-| 1.0 | September 5-6, 2006 | Windows | Initial commercial release[^ref-1][^ref-2] |
+| 1.0 | September 6, 2006 | Windows | Initial commercial release[^ref-36][^ref-1][^ref-2] |
 | 3.0 | 2010 | Windows | New high resolution graphics[^ref-3] |
 | 4.0 | November 26, 2013 | Windows | Enhanced Edition with new voice actors, 2D cutscenes, achievements, scoring system[^ref-7] |
 | 4.1 | Unknown | Windows | Steam version update[^ref-27] |
@@ -350,3 +350,4 @@ The Enhanced Edition's 2013 release demonstrated the studio's willingness to res
 [^ref-33]: [Wikipedia – Lost Dutchman's Gold Mine](https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine) – legend, Superstition Mountains location, Jacob Waltz
 [^ref-34]: [AGDInteractive Forum – Al Emmo & the Lost Dutchmans Mine thread, page 4](https://www.agdinteractive.com/forum/viewtopic.php?t=11122&start=75) – Indie Royale (Nov 27, 2013) and Retro Groupee 2 (Jan 22, 2014) bundle posts
 [^ref-35]: [Himalaya Studios – Al Emmo and the Lost Dutchman's Mine (archived February 17, 2013)](https://web.archive.org/web/20130217044809/http://www.himalayastudios.com/alemmo.php) – official game page, features, German and Russian localizations
+[^ref-36]: [Himalaya Studios – Press Releases (archived October 27, 2006)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) – "Al Emmo ships! Phoenix, Arizona - September 6, 2006"; "Order fulfillment commenced on Wednesday morning"

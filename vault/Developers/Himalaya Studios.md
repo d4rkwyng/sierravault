@@ -3,7 +3,7 @@ title: "Himalaya Studios"
 type: developer
 founded: 2004
 defunct: null
-headquarters: "Arizona, United States"
+headquarters: "United States"
 notable_games: ["Al Emmo and the Lost Dutchman's Mine", "Mage's Initiation: Reign of the Elements"]
 parent_company: null
 related_companies: ["AGD Interactive"]
@@ -15,7 +15,7 @@ last_updated: '2026-10-26'
 
 ## Overview
 
-Himalaya Studios is an independent developer of adventure games. It was established as a limited liability company in 2004 in Chandler, Arizona, by Britney K. Brimhall and Christopher T. Warren, and was incorporated as a C corporation in Delaware in 2011.[^ref-10][^ref-28][^ref-29] MobyGames gives the same founding year, place and founders.[^ref-2] Wikipedia describes it as making adventure games "in the spirit of classic Sierra adventure games, like King's Quest, Space Quest, and Leisure Suit Larry."[^ref-10]
+Himalaya Studios is an independent developer of adventure games. It was established as a limited liability company in 2004 in Chandler, Arizona, by Britney K. Brimhall and Christopher T. Warren, and was incorporated as a C corporation in Delaware in 2011.[^ref-10][^ref-28][^ref-29] MobyGames also dates it to 2004 in Arizona and names the same founders.[^ref-2] Wikipedia describes it as making adventure games "in the spirit of classic Sierra adventure games, like King's Quest, Space Quest, and Leisure Suit Larry."[^ref-10]
 
 Brimhall and Warren had earlier founded [[AGD Interactive]], the non-profit group known for its free remakes of Sierra adventure games.[^ref-10] Himalaya is their commercial company: in 2006 Adventure Classic Gaming described it as "a for-profit game creation company."[^ref-22] In 2019 PC Invasion called Himalaya "the commercial side of AGD Interactive".[^ref-30]
 
@@ -27,7 +27,7 @@ In a 2006 interview, Adventure Classic Gaming noted that Brimhall co-founded Him
 
 ### Al Emmo and the Lost Dutchman's Mine (2006)
 
-The studio's first game, Al Emmo and the Lost Dutchman's Mine, was released on September 5, 2006.[^ref-10] It was built with Chris Jones' Adventure Game Studio.[^ref-21] Himalaya published it itself, and Adventure Gamers called it "the first retail game from Himalaya Studios".[^ref-32][^ref-35] An enhanced version 4.0 was released on November 26, 2013, and the game reached Steam on May 9, 2014.[^ref-27][^ref-26]
+The studio's first game, Al Emmo and the Lost Dutchman's Mine, was released on September 6, 2006.[^ref-36][^ref-32] It was built with Chris Jones' Adventure Game Studio.[^ref-21] Himalaya published it itself, and Adventure Gamers called it "the first retail game from Himalaya Studios".[^ref-32][^ref-35] An enhanced version 4.0 was released on November 26, 2013, and the game reached Steam on May 9, 2014.[^ref-27][^ref-26]
 
 ### Al Emmo's Postcards from Anozira (2010)
 
@@ -50,7 +50,7 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 ## Key People
 
 - **Britney K. Brimhall**: co-founder; Chairman and CEO of Himalaya Studios in 2006.[^ref-10][^ref-22]
-- **Christopher T. Warren**: co-founder.[^ref-10][^ref-22]
+- **Christopher T. Warren**: co-founder; listed as CEO on Himalaya Studios, Inc.'s Gust investor profile (archived 2019).[^ref-10][^ref-22][^ref-37]
 
 ## Games
 
@@ -60,9 +60,9 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 
 ## References
 
-[^ref-2]: [MobyGames - Himalaya Studios LLC](https://www.mobygames.com/company/8184/himalaya-studios-llc/) — established 2004; Chandler, Arizona; Brimhall and Warren
+[^ref-2]: [MobyGames - Himalaya Studios LLC](https://www.mobygames.com/company/8184/himalaya-studios-llc/) — "established in 2004 in Arizona by co-founders Britney Brimhall and Chris Warren" ([Wayback 2025-03-20](https://web.archive.org/web/20250320193018/https://www.mobygames.com/company/8184/himalaya-studios-llc/))
 [^ref-3]: [NeoGAF - Mage's Initiation Kickstarter Discussion](https://www.neogaf.com/threads/mages-initiation-kickstarter-by-himalaya-studios-inc-ended-125k-funded.514221/) — thread title: "[Ended, $125K funded]"
-[^ref-10]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — LLC established 2004 in Chandler by Brimhall and Warren; Delaware C corporation 2011; AGD Interactive; Al Emmo September 5, 2006; Mage's Initiation 2019, Metacritic 70
+[^ref-10]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — LLC established 2004 in Chandler by Brimhall and Warren; Delaware C corporation 2011; AGD Interactive; Mage's Initiation 2019, Metacritic 70
 [^ref-18]: [Indie Retro News - Himalaya Studios Coverage](https://www.indieretronews.com/search/label/Himalaya%20Studios) — Mage's Initiation: four classes (Fire, Earth, Air, Water Mage), Quest for Glory tradition
 [^ref-21]: [Adventure Classic Gaming - Al Emmo and the Lost Dutchman's Mine review](https://adventureclassicgaming.com/index.php/site/reviews/629/) — plot set-up, Adventure Game Studio, 640x400 resolution, hand-drawn graphics, 2010 high-resolution update
 [^ref-22]: [Adventure Classic Gaming - Britney Brimhall interview (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — Chairman and CEO; co-founded Himalaya with Warren in 2004; "a for-profit game creation company"; move to Australia
@@ -79,3 +79,5 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 [^ref-33]: [Steam - Mage's Initiation](https://store.steampowered.com/app/270610/Mages_Initiation_Reign_of_the_Elements/) — developer and publisher Himalaya Studios; released Jan 30, 2019
 [^ref-34]: [MobyGames - Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) — Windows 2019-01-30, published and developed by Himalaya Studios, LLC (read via the MobyGames API)
 [^ref-35]: [Adventure Gamers - Al Emmo and the Lost Dutchman's Mine review (Wayback 2012)](https://web.archive.org/web/20121121014738/http://www.adventuregamers.com/articles/view/17815) — "Al Emmo is the first retail game from Himalaya Studios"
+[^ref-36]: [Himalaya Studios - Press Releases (Wayback 2006-10-27)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) — "Classic Adventure Gaming is back - Al Emmo ships! Phoenix, Arizona - September 6, 2006"; "Order fulfillment commenced on Wednesday morning"
+[^ref-37]: [Gust - Himalaya Studios, Inc. (Wayback 2019-12-09)](https://web.archive.org/web/20191209085305/https://gust.com/companies/himalaya_studios_inc) — "Christopher Warren CEO"; founded August 2011
