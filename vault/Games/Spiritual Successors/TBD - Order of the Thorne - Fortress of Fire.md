@@ -10,14 +10,14 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: '**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click
   adventure game developed by Infamous Quests, intended as the second and likely...'
 tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page once listed it as "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
 
-Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade Sierra adventure games of the early 1990s[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
+Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade Sierra adventure games of the 1980s[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-7]

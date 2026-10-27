@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Space Quest II: Chapter II – Vohaul''s Revenge is a graphic adventure
   game developed and published by Sierra On-Line, released on November 14, 1987 for...'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest II: Vohaul's Revenge
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6].
@@ -130,7 +130,7 @@ The original game came with: a box, two 3.5" game disks or three 5.25" disks (ve
 
 According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Space Quest II established Sludge Vohaul as Roger's "accidental arch-nemesis"[^ref-36].
 
-In 2011, [[Infamous Adventures]] released a fan remake of Space Quest II on December 31 (New Year's Eve), featuring VGA-style graphics, a full voice cast, and extended content[^ref-1][^ref-27]. The project had been announced on April 1, 2007, nearly five years earlier[^ref-1]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (a Universal Binary for Apple Silicon and Intel, released September 10, 2024), and Linux as a name-your-own-price download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
+In 2011, [[Infamous Adventures]] released a fan remake of Space Quest II on December 30, 2011,[^ref-44] featuring VGA-style graphics, a full voice cast, and extended content[^ref-1][^ref-27]. The project had been announced on April 1, 2007, nearly five years earlier[^ref-1]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (a Universal Binary for Apple Silicon and Intel, released September 10, 2024), and Linux as a name-your-own-price download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
 
 ### Collections
 
@@ -219,3 +219,4 @@ This game has been included in the following collections:
 [^ref-41]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – contents include Space Quest II
 [^ref-42]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – contents include Space Quest II
 [^ref-43]: [Antic – ST Games Gallery (July 1988)](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Rick Teverbaugh's Space Quest II review, listed at "$49.95, color or monochrome. Sierra On-line"
+[^ref-44]: [PCGamingWiki – Company: Infamous Adventures](https://www.pcgamingwiki.com/wiki/Company:Infamous_Adventures) – lists the Space Quest II remake's release date as December 30, 2011

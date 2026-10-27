@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: '*Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG
   developed by Infamous Quests serving as a prequel to their 2014 title *Quest for...'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ The original *Quest for Infamy* received mixed to positive reception, which prov
 
 *Quest for Infamy: Roehm to Ruin* was announced in March 2015 alongside *Order of the Thorne: The King's Challenge*, ahead of a dual-project Kickstarter campaign.[^ref-7] The campaign pitch says the prequel "was born out of an Adventure Game Jam in 2014" and that Infamous Quests was turning it into a deluxe version "complete with soundtrack and full voice acting".[^ref-15] The prequel concept emerged from the desire to explore the backstory hinted at in the original game, where Roehm arrives in the Valley of Krasna as a fugitive with an unexplained past.[^ref-1]
 
-Infamous Quests was founded in 2012 by Steven Alexander and Shawn Mills, who previously operated Infamous Adventures, an amateur game development company that created free remakes of classic Sierra Entertainment adventure games from the early 1990s.[^ref-7] They formed the new company specifically to separate their commercial endeavors from their fan-remake work.[^ref-7]
+Infamous Quests was founded in 2012 by Steven Alexander and Shawn Mills, who previously operated Infamous Adventures, an amateur game development company that created free remakes of classic Sierra Entertainment adventure games from the 1980s.[^ref-7] They formed the new company specifically to separate their commercial endeavors from their fan-remake work.[^ref-7]
 
 ### Production
 

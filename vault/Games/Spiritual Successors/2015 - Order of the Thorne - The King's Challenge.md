@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released on January 26, 2016, for
   Windows, Mac and Linux. Inspired by King''s Quest, it follows Finn the Bard through
@@ -19,7 +19,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,7 @@ GOG.com users rate the game 4.1 out of 5[^ref-4]. One GOG.com user wrote, "Playi
 
 ### Origins
 
-The King's Challenge was developed by Infamous Quests, which Steven Alexander and Shawn Mills founded in 2012. The two had earlier run Infamous Adventures, an amateur group that remade Sierra adventure games of the early 1990s[^ref-22]. Its free remakes included *King's Quest III* and *Space Quest 2*[^ref-3]. Infamous Quests released *Quest for Infamy* in 2014[^ref-22]. In March 2015 the studio announced The King's Challenge as the first game in a planned anthology series[^ref-22].
+The King's Challenge was developed by Infamous Quests, which Steven Alexander and Shawn Mills founded in 2012. The two had earlier run Infamous Adventures, an amateur group that remade Sierra adventure games of the 1980s[^ref-22]. Its free remakes included *King's Quest III* and *Space Quest 2*[^ref-3]. Infamous Quests released *Quest for Infamy* in 2014[^ref-22]. In March 2015 the studio announced The King's Challenge as the first game in a planned anthology series[^ref-22].
 
 ### Production and Crowdfunding
 
