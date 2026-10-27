@@ -112,7 +112,7 @@ Development utilized Sierra's new SCI engine, making this one of the earliest ti
 
 The game's copy protection system was innovative for its time. "In Larry 2 we tried something a little different from our original protection of requiring a distribution disk," Al Lowe explained. "We included the pictures of girls from Larry's 'little black book.' The game shows you one when it starts up, and you enable play by completing her phone number. The pictures, by the way, are intentionally bad in the book so that they can't be Xeroxed easily."[^ref-3]
 
-One unexpected result of the development cycle was Josh Mandel's hiring by Sierra—he won Sierra's CompuServe "Trite Phrase" competition with the entry "Do you want fries with that?" and was subsequently brought on staff.[^ref-1]
+After the game's release, Sierra ran a CompuServe contest for the funniest Trite Phrase. According to MobyGames' trivia, the winning line, "Do you want fries with that?", came from [[Josh Mandel]], who later joined Sierra.[^ref-1] Mandel's own accounts trace his hiring to beta-testing rather than the contest: he had asked producer [[Guruka Singh Khalsa]], whom he knew from CompuServe's Gamers Forum, about testing for Sierra, and after a couple of years of testing Guruka offered him a job as his junior producer in early 1990.[^ref-46][^ref-47]
 
 **Development Credits:**[^ref-1][^ref-24]
 - **Designer:** [[Al Lowe]]
@@ -281,3 +281,5 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-43]: [Compute! Issue 109 (June 1989), p. 66 – Bob Guerra review](https://archive.org/download/1989-06-compute-magazine/Compute_Issue_109_1989_Jun_djvu.txt) – contemporary review text
 [^ref-44]: [FunTrivia – "Leisure Suit Larry 2" Part 2 Quiz](https://www.funtrivia.com/trivia-quiz/VideoGames/Leisure-Suit-Larry-2-Part-2-375180.html) – "If Larry has sex with the maid, her overprotective brother will walk in the room with a gun… and kill Larry"
 [^ref-45]: [PC Gamer – Crapshoot: Leisure Suit Larry 2 and its many unavoidable deaths](https://www.pcgamer.com/saturday-crapshoot-leisure-suit-larry-2/) – the hotel maid scene ends in one of the game's deaths
+[^ref-46]: [Adventure Classic Gaming – Josh Mandel interview](http://www.adventureclassicgaming.com/index.php/site/interviews/196/) – Philip Jong, 2006: "I'd met Guruka on the Gamers Forum on CompuServe… After testing for a couple of years, he offered me a job as his junior producer"
+[^ref-47]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "I asked Guruka if I could try betatesting for Sierra… In early 1990, Guruka asked if I'd be interested in a full-time position"

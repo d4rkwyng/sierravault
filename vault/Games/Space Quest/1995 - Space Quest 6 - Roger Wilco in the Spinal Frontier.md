@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI32
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click
   adventure game developed and published by Sierra On-Line, released in 1995 for MS-DOS
   and Windows (Sierra Chest gives July 11, 1995; PCGamingWiki gives March 1995).'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Developers/Sierra On-Line|Sierra On-Line]], released in 1995 for MS-DOS and Windows, with a Macintosh version following in 1996[^ref-6]. Sources differ on the exact date: Sierra Chest gives July 11, 1995[^ref-2], PCGamingWiki gives March 1995[^ref-5], and the SCI Wiki dates the version 1.0 interpreter build June 20, 1995[^ref-36]. It was the first Space Quest released exclusively on CD-ROM[^ref-6]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-15]. Critics were split on the look: *Computer Gaming World* found the graphics "better than in any previous Space Quest, but nowhere near the level of King's Quest"[^ref-22], while *PC Gamer* saw "a couple of steps backwards as far as the graphics and voice-overs are concerned"[^ref-31]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The final portion, in which Roger is miniaturized and enters a shipmate's body, spoofs *Fantastic Voyage* and *Innerspace*; a rejected title was "Roger Wilco in Innard Space"[^ref-28][^ref-22].
@@ -98,7 +98,7 @@ The game features extensive voice acting[^ref-12][^ref-33]:
 Music was directed by Dan Kehler and composed by Dan Kehler and Neal Grandstaff[^ref-12][^ref-3].
 
 ### Origins
-Josh Mandel initially headed Space Quest 6, with Scott Murphy acting as a creative consultant[^ref-26]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-18]; his original concept, which Murphy did not like, was "a Planet of the Apes riff with a statue of Leisure Suit Larry," and the shipped ending was "a total surprise" to him[^ref-34]. When the game was nearing completion, Mandel had to leave the project because of management problems, and Murphy took over[^ref-25]; Sierra Chest notes a lack of communication and "reportedly even strife"[^ref-2]. Marketing then sold the game as a "Scott Murphy solo job," which Murphy says he knew nothing about until he got his packaged copy[^ref-25]. Murphy later wrote on a message board: "That's a game that should have been aborted when Josh left. I am about as far from proud as someone can be about their work where Space Quest 6 is concerned"[^ref-25].
+Accounts of the early arrangement differ. TV Tropes says Josh Mandel initially headed Space Quest 6, with Scott Murphy acting as a creative consultant[^ref-26]. Mandel's own 2013 account is that Murphy was meant to share the design from the start: "From the very beginning, I wanted Scott to be co-designer on the game"[^ref-39]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-18]; his original concept, which Murphy did not like, was "a Planet of the Apes riff with a statue of Leisure Suit Larry," and the shipped ending was "a total surprise" to him[^ref-34]. When the game was nearing completion, Mandel had to leave the project because of management problems, and Murphy took over[^ref-25]; Sierra Chest notes a lack of communication and "reportedly even strife"[^ref-2]. Marketing then sold the game as a "Scott Murphy solo job," which Murphy says he knew nothing about until he got his packaged copy[^ref-25]. Murphy later wrote on a message board: "That's a game that should have been aborted when Josh left. I am about as far from proud as someone can be about their work where Space Quest 6 is concerned"[^ref-25].
 
 Because of the lack of communication, several parts of the original design were cut, primarily in the latter stages of the game[^ref-2].
 
@@ -263,3 +263,4 @@ This game has been included in the following collections:
 [^ref-36]: [SCI Wiki – Space Quest 6: The Spinal Frontier](https://sciwiki.sierrahelp.com/index.php/Space_Quest_6:_The_Spinal_Frontier) – SCI2.1 (middle), interpreter 2.100.002, 1995/06/20
 [^ref-37]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Space Quest 6 rated "Good"
 [^ref-38]: [PC Gamer US Issue 15, August 1995](https://archive.org/details/pc-gamer-issue-15-august-1995) – cover CD demo of Space Quest 6, "its own little adventure, with puzzles that aren't found in the final game"; disc identified as "The CD #9"
+[^ref-39]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "From the very beginning, I wanted Scott to be co-designer on the game"

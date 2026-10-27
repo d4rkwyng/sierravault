@@ -192,7 +192,7 @@ Common compatibility issues include:
 
 | Character | Voice Actor |
 |-----------|-------------|
-| King Graham / Innkeeper's Pal | [[Josh Mandel]] |
+| King Graham / Innkeeper's Pal / Harpy | [[Josh Mandel]] |
 | Narrator | Art Lewicki |
 | Cedric the Owl | Richard Aronson |
 | Crispin / Toymaker / Innkeeper | Leonard "Ray" Bergeron |
