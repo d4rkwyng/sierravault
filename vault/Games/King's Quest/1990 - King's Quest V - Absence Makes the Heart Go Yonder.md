@@ -10,18 +10,18 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! marks a pivotal
   turning point in Sierra On-Line''s gaming philosophy, representing one of the most...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-King's Quest V: Absence Makes the Heart Go Yonder! marks a pivotal turning point in Sierra On-Line's gaming philosophy, representing one of the most significant technological leaps in adventure game history.[^ref-1] Released in November 1990, it was Sierra's first icon-based, point-and-click adventure game, abandoning the text parser that had defined the series since its inception.[^ref-1][^ref-17] It was also the first King's Quest with 256-color VGA graphics and the first adventure game on Sierra's SCI1 interpreter.[^ref-1][^ref-6] A fully voiced CD-ROM edition followed in August 1991, the first of Sierra's full-fledged adventure games to ship on CD;[^ref-15] Adventure Classic Gaming goes further and calls it the first adventure game released on CD-ROM in Multimedia PC format.[^ref-1]
+King's Quest V: Absence Makes the Heart Go Yonder! marks a pivotal turning point in Sierra On-Line's gaming philosophy, representing one of the most significant technological leaps in adventure game history.[^ref-1] Released in November 1990, it was Sierra's first icon-based, point-and-click adventure game, abandoning the text parser that had defined the series since its inception.[^ref-1][^ref-17] It was also the first King's Quest with 256-color VGA graphics,[^ref-1][^ref-6] and Adventure Classic Gaming calls it the first adventure game on Sierra's SCI1 interpreter,[^ref-1] though Quest for Glory II ran on an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058).[^ref-61] A fully voiced CD-ROM edition followed in August 1991, the first of Sierra's full-fledged adventure games to ship on CD;[^ref-15] Adventure Classic Gaming goes further and calls it the first adventure game released on CD-ROM in Multimedia PC format.[^ref-1]
 
 The Digital Antiquarian calls it "the most dramatic single visual leap forward" in Sierra's history.[^ref-15] It was made on a budget of around one million dollars,[^ref-6] and Adventure Classic Gaming describes it as the first title to cost over $1 million to produce.[^ref-1] Its backgrounds were painted by hand on paper and then digitized,[^ref-15] and Computer Gaming World's Scorpia called the game "a graphic tour-de-force."[^ref-5] Computer Gaming World noted that "Roberta Williams horrified Sierra traditionalists by getting the parser out of the way of some of the most beautiful graphics ever."[^ref-6]
 
@@ -317,3 +317,4 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-58]: [Computer Gaming World #103 (February 1993) – Letters](https://archive.org/details/Computer_Gaming_World_Issue_103) – SPA Platinum certification (250,000 audited units) for King's Quest V
 [^ref-59]: [Adventure Gamers – King's Quest V review by Emily Morganti (May 25, 2007)](https://web.archive.org/web/20120625135148/http://www.adventuregamers.com/articles/view/18040) – review verdict quotes (archived copy)
 [^ref-60]: [Computer Gaming World #105 (April 1993), Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_105) – Charles Ardai, Space Quest IV CD-ROM review, p. 34: "the somewhat wooden line readings for which Sierra has become known as a result of the CD-ROM edition King's Quest V"
+[^ref-61]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI1 (ega): Quest for Glory II, interpreter 1.000.041; SCI1 (early): King's Quest V EGA, 1.000.058, 1990-11-14

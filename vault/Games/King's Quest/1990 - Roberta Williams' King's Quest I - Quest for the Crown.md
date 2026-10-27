@@ -7,10 +7,10 @@ publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Amiga]
 series: King's Quest
-engine: SCI0
+engine: SCI01
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Released in 1990, **Roberta Williams'' King''s Quest I: Quest for
   the Crown** is Sierra On-Line''s official SCI engine remake of its landmark 1984
   adventure game.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 

@@ -120,7 +120,7 @@ Jane Jensen had come to Sierra as a writer, working on Police Quest III and EcoQ
 
 ### Production
 
-Development took fourteen months, with Williams putting the crew at more than twenty people (the hint book speaks of a "thirteen person development team" beyond the designers)[^ref-40][^ref-41]. Williams put the budget at about $700,000 (equivalent to about $1,606,000 in 2025)[^ref-40][^ref-4]; Jimmy Maher writes that Sierra was "prepared to push its development budget to $1 million and beyond"[^ref-7].
+Development took fourteen months, with Williams putting the crew at more than twenty people (the hint book speaks of a "thirteen person development team" beyond the designers)[^ref-40][^ref-41]. Williams put the budget at about $700,000[^ref-40]; Jimmy Maher writes that Sierra was "prepared to push its development budget to $1 million and beyond"[^ref-7].
 
 The design process began at Williams' home. Jensen recalled: "We sat down at her house with a huge pad of paper—that was her method of design. She already knew the game would be about King Graham's son, Alexander, and his quest to the Green Isles to meet and save Cassima. Most of the rest was brainstormed between us"[^ref-17].
 
@@ -351,7 +351,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-1]: [Adventure Gamers – King's Quest VI Review (Emily Morganti, 2008)](https://web.archive.org/web/20130901003811/http://www.adventuregamers.com/articles/view/18166/page2) – 4.5/5 rating, "one of the best games Sierra gave us" verdict
 [^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – Jane Jensen credit for quality, darker tone, character name origins, Robin Hood costume reference
 [^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
-[^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – $700K budget and 2025 inflation equivalent, 400K first-week sales, DOS chart position, GameRankings 88.75%, 6,000 messages
+[^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – 400K first-week sales, DOS chart position, GameRankings 88.75%, 6,000 messages
 [^ref-5]: [Dragon Magazine #192 (April 1993), pp. 57–58 – King's Quest VI Review](https://web.archive.org/web/20150319223820/http://annarchive.com/files/Drmg192.pdf) – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
 [^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Jimmy Maher article: $1M+ budget, Girl in the Tower radio fiasco, Bright Star acquisition, opening movie specs, Ken Williams quotes
 [^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – SCI1.1 engine, version numbers, interpreter details

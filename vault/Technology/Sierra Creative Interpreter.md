@@ -22,7 +22,7 @@ SCI evolved through several major versions. It powered nearly every major Sierra
 |---------|-------|------------|--------------|
 | SCI0 / SCI01 | 1988–1990 | 320×200 (16-color EGA) | Text parser with mouse support |
 | SCI1 | 1990–1992 | 320×200 (16-color EGA and 256-color VGA versions) | Icon-based point-and-click interface |
-| SCI1.1 | 1992–1993 | 320×200 (256 colors) | Enhanced animation, sprite scaling |
+| SCI1.1 | 1992–1993 (CD and Windows re-releases into 1994) | 320×200 (256 colors) | Enhanced animation, sprite scaling |
 | SCI2 | 1993 | 640×480 (256 colors) | 32-bit protected mode |
 | SCI2.1 | 1994–1996 | 640×480 (256 colors) | Robot and VMD video |
 | SCI3 | 1996 | 640×480 (256 colors) | Native Windows 95 support |
@@ -59,7 +59,7 @@ SCI0 brought composed scores to Sierra's games through Roland MT-32 support; Kin
 
 ## SCI1 (1990–1992)
 
-SCI1's VGA debut was King's Quest V in 1990, which "combined 256-color VGA graphics with an icon-driven interface";[^ref-1] Quest for Glory II had already used an earlier, EGA-only SCI1 build that kept the text parser.[^ref-2] Many SCI1 games shipped in both 16-color EGA and 256-color VGA versions.[^ref-2]
+SCI1's VGA debut was King's Quest V in 1990, which "combined 256-color VGA graphics with an icon-driven interface";[^ref-1] Quest for Glory II used an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058) that kept the text parser.[^ref-2][^ref-19] Many SCI1 games shipped in both 16-color EGA and 256-color VGA versions.[^ref-2]
 
 ### Technical Specifications
 | Specification | Details |
@@ -70,24 +70,26 @@ SCI1's VGA debut was King's Quest V in 1990, which "combined 256-color VGA graph
 | Audio | Wider sound card support, digitized sound; CD-ROM speech in later releases |
 
 ### Point-and-Click Interface
-SCI1's VGA debut, [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990), introduced Sierra's icon-driven point-and-click interface, which replaced the text parser;[^ref-1] [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] had already used an earlier, EGA-only SCI1 build[^ref-2] and kept the text parser.[^ref-19]
+SCI1's VGA debut, [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990), introduced Sierra's icon-driven point-and-click interface, which replaced the text parser;[^ref-1] [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] used an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058)[^ref-2] and kept the text parser.[^ref-19]
 
 ### Voice Acting Debuts
-Sierra's "first foray into CD-ROM" was the [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]] CD, for which "professional actors were hired to voice every line of dialog"; ScummVM's version lists date that SCI1 CD build to July 1991.[^ref-4][^ref-2] [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]'s later CD-ROM talkie was voiced in-house: according to The Digital Antiquarian it "had apparently been voiced by whoever happened to be hanging around the office that day".[^ref-5]
+Sierra's "first foray into CD-ROM" was the [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]] CD; The Digital Antiquarian writes that "professional actors were hired to voice every line of dialog",[^ref-4] though the credited voices include Sierra staff such as creative director Bill Davis (see [[Voice Cast Index]]).[^ref-20][^ref-21] ScummVM's version lists date that SCI1 CD build to July 1991.[^ref-2] [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]'s later CD-ROM talkie was voiced in-house: according to The Digital Antiquarian it "had apparently been voiced by whoever happened to be hanging around the office that day".[^ref-5]
 
 ### Notable SCI1 Games
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — SCI1's VGA debut; Quest for Glory II had already used an earlier, EGA-only SCI1 build[^ref-1][^ref-2]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — SCI1's VGA debut; Quest for Glory II used an earlier, EGA-only SCI1 build (interpreter 1.000.041)[^ref-1][^ref-2]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1991 - Police Quest III - The Kindred]]
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood]]
 - [[1991 - Castle of Dr. Brain]]
 - [[1991 - EcoQuest - The Search for Cetus]]
-- [[1990 - Mixed-Up Mother Goose (SCI Remake)]] — CD version 1991[^ref-2]
+- [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]] — Middle SCI1, July 1991[^ref-2]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]] — VGA remake, late SCI1[^ref-2]
+- [[1990 - Mixed-Up Mother Goose (SCI Remake)]] — floppy SCI0 (July 1990), CD version SCI1 (July 1991)[^ref-2]
 
 ## SCI1.1 (1992–1993)
 
-SCI1.1 (1992) "added enhanced animation and sprite scaling".[^ref-1]
+SCI1.1 (1992) "added enhanced animation and sprite scaling".[^ref-1] CD and Windows re-releases continued into 1994, among them the King's Quest VI Windows CD and the Freddy Pharkas CD (both September 1994).[^ref-2]
 
 ### Technical Specifications
 | Specification | Details |
@@ -100,7 +102,7 @@ SCI1.1 (1992) "added enhanced animation and sprite scaling".[^ref-1]
 
 ### Production Values Rise
 SCI1.1 powered several of Sierra's most acclaimed games:
-- King's Quest VI's budget was "about US$700,000" according to Roberta Williams; The Digital Antiquarian says Sierra was "prepared to push its development budget to $1 million and beyond".[^ref-11][^ref-5]
+- King's Quest VI cost "about $700,000" according to Roberta Williams in a 1992 New York Times interview; The Digital Antiquarian says Sierra was "prepared to push its development budget to $1 million and beyond".[^ref-11][^ref-5]
 - King's Quest VI "got a professional cast, headed by Robby Benson".[^ref-5]
 - Technology from Bright Star, acquired in July 1992, synced recorded voices to characters' mouths; "King's Quest VI became the first Sierra game to make use of it".[^ref-5]
 
@@ -135,7 +137,7 @@ SCI2 (1993) brought 640×480 SVGA graphics in 256 colors and moved the interpret
 SCI2.1 introduced Sierra's video formats: "Robot videos were firstly introduced here, in the DOS version of KQ7", and VMD video followed in later SCI2.1 builds.[^ref-2]
 
 ### Animation Quality
-King's Quest VII's hand-drawn animation drew comparisons to film: Computer Gaming World's February 1995 review praised "Animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match."[^ref-17]
+King's Quest VII's hand-drawn animation drew comparisons to film: in Computer Gaming World's February 1995 issue, the editors' box beside Charles Ardai's review praised "Animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match."[^ref-17]
 
 ### Notable SCI2.1 Games
 - [[1994 - King's Quest VII - The Princeless Bride]] — November 1994[^ref-2]
@@ -183,7 +185,7 @@ SCI supported "a variety of sound hardware, including AdLib, Sound Blaster, and 
 | Achievement | Game | Year |
 |-------------|------|------|
 | One of the first Sound Blaster games | Space Quest III | 1989[^ref-7] |
-| Sierra's first CD-ROM release, with professional voice actors | Mixed-Up Mother Goose (CD) | 1991[^ref-4][^ref-2] |
+| Sierra's first CD-ROM release, with full speech | Mixed-Up Mother Goose (CD) | 1991[^ref-4][^ref-2] |
 | Sierra's first game with lip-sync technology | King's Quest VI | 1992[^ref-5] |
 
 ### Production Scale
@@ -215,7 +217,7 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 - **GOG.com versions** — Pre-configured for modern systems; GOG's Gabriel Knight, for example, "replaced DOSBox with ScummVM 2.0" in 2018.[^ref-18]
 
 ### Audio Enhancement
-- ScummVM includes built-in MT-32 emulation (it needs the original MT-32 ROMs) and General MIDI output. See [[Audio and Music Tech]].
+- ScummVM includes built-in MT-32 emulation (it needs the original MT-32 ROMs) and General MIDI output.[^ref-22] See [[Audio and Music Tech]].
 
 ### Known Issues
 - Voice acting quality varies on early CD-ROM releases; the King's Quest V talkie is the usual example.[^ref-5]
@@ -242,12 +244,15 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 [^ref-8]: [Wikipedia — Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Budgeted at $800,000, "ultimately cost $4.5 million"; released on seven discs
 [^ref-9]: [Wikipedia — Rama (video game)](https://en.wikipedia.org/wiki/Rama_(video_game)) — Developer Dynamix (1996)
 [^ref-10]: [ScummVM Compatibility List](https://www.scummvm.org/compatibility/) — SCI game support ratings (checked 2026-10-16)
-[^ref-11]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — Williams "estimated the budget to have been about US$700,000"
+[^ref-11]: [The New York Times — Sound Bytes; The Queen of Gaming Reigns at Sierra On-Line (December 20, 1992)](https://www.nytimes.com/1992/12/20/business/sound-bytes-the-queen-of-gaming-reigns-at-sierra-on-line.html) — Roberta Williams: "Q: How much King's Quest VI cost? A: About $700,000."
 [^ref-12]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — CD-ROM voices of Tim Curry, Leah Remini and Mark Hamill
 [^ref-13]: [ScummVM News — FreeSCI merged (February 15, 2009)](https://www.scummvm.org/news/20090215/) — "FreeSCI code now lives under engines/sci"
 [^ref-14]: [ScummVM News — ScummVM 2.0 (December 17, 2017)](https://www.scummvm.org/news/20171217/) — "almost all of the 32-bit Sierra adventures"
 [^ref-15]: [Wikipedia — Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) — "originally had a voxel engine, which was later changed to a 3D engine"
 [^ref-16]: [Wikipedia — King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) — First in the series to use full 3D
-[^ref-17]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) — Period scan (OCR): KQ VII "Animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match"
+[^ref-17]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) — Period scan (OCR): KQ VII "Animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match" (editors' PROS box; review by Charles Ardai)
 [^ref-18]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — Internal Update (23 April 2018): "replaced DOSBox with ScummVM 2.0"
 [^ref-19]: [Wikipedia — Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) — "The game's interface is a text parser"
+[^ref-20]: [MobyGames — Mixed-Up Mother Goose (Moby ID 1085; Wayback, August 22, 2025)](https://web.archive.org/web/20250822201438/https://www.mobygames.com/game/1085/mixed-up-mother-goose/) — "Creative Director Bill Davis"; "Character Voices (CD-ROM)" include Bill Davis
+[^ref-21]: [InterAction Magazine, Vol. V No. 2 (Summer 1992), letters (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/page/n12/mode/1up) — Reader on Bill Davis: "They loved him as the crooked, crotchety old man in Mixed-Up Mother Goose (CD, of course)"
+[^ref-22]: [ScummVM Documentation — Understanding the audio settings](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) — "ScummVM can emulate the MT-32 device, however you must provide the original MT-32 ROMs"
