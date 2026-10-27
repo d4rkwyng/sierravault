@@ -49,7 +49,7 @@ Through the late 1980s and 1990s, Sierra established flagship adventure franchis
 - **1995**: Acquired SubLogic of Champaign, Illinois (November 1995), a 12-person maker of non-military flight simulators.[^ref-41]
 - **1996**: Signed a merger agreement with Headgate, Inc. (later [[Headgate Studios]]) on April 12, 1996.[^ref-16]
 
-Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier".[^ref-39] Its headquarters moved from California to Bellevue, Washington, in January 1994.[^ref-41] In the fiscal year ending March 31, 1996, Sierra's revenues were USD 158.2 million.[^ref-16]
+Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier".[^ref-39] Its headquarters move from California to Bellevue, Washington, began August 1993 and continued into 1994.[^ref-41][^ref-66][^ref-67][^ref-68] In the fiscal year ending March 31, 1996, Sierra's revenues were USD 158.2 million.[^ref-16]
 
 ## Era 3 — CUC International / Cendant (1996–1998)
 
@@ -172,3 +172,6 @@ The current state of major Sierra-lineage IPs (October 2026):
 [^ref-63]: [Time Extension — Leisure Suit Larry's last releases to be delisted from Steam and GOG this month (October 2026)](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) — Wet Dreams games "removed from the digital storefronts on October 23"; "Electronic Arts' 2021 purchase of Codemasters"
 [^ref-64]: [InterAction, Holiday 1996 (Internet Archive)](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996) — "Bob Clardy, president of Synergistic Software, the newest member of the Sierra family"
 [^ref-65]: [Microsoft Form 10-K, fiscal 2024 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm) — "On October 13, 2023, we completed our acquisition of Activision Blizzard for a total purchase price of $75.4 billion"
+[^ref-66]: [HistoryLink — Seattle Times reports Sierra On-Line's move to Bellevue (File 20919)](https://www.historylink.org/File/20919) — "Sierra On-Line's move to the West Lake Hills neighborhood of Bellevue begins in August 1993 and continues into 1994"
+[^ref-67]: [InterAction Magazine, Vol. VI No. 2 (Summer 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_2_Summer_1993_1993_Sierra_On-Line_US) — corporate offices "will relocate to Seattle over the next year"
+[^ref-68]: [InterAction Magazine, Vol. VI No. 4 (Spring 1994)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US) — "several units are now in the middle of relocating from California to Washington"
