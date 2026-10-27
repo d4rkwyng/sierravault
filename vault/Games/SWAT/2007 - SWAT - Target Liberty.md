@@ -10,14 +10,15 @@ series: Police Quest/SWAT
 engine: Unknown
 protagonist: Kurt Wolfe
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 description: 'SWAT: Target Liberty is a third-person tactical shooter developed by
-  3G Studios and published by Sierra Entertainment exclusively for the PlayStation...'
+  3G Studios and published by Sierra Entertainment exclusively for the PlayStation
+  Portable in October 2007.'
 tags: [2000s, police-quest-swat, shooter, sierra]
 ---
 # SWAT: Target Liberty
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -40,11 +41,11 @@ Despite its ambitious premise and pedigree, SWAT: Target Liberty received a luke
 
 ## Story Summary
 
-The story takes place in New York City, where a Korean Triad gang is terrorizing the city, attacking citizens in broad daylight and conducting bold robberies in front of hundreds of witnesses.[^ref-9] SWAT officer Kurt Wolfe is initially assigned to take down renewed Asian gang violence led by ethnic Korean-Americans, working to restore order amid a brutal conflict between rival Korean gangs known as the Jopoks and Gangpehs.[^ref-10] The early missions establish Wolfe and his team as they navigate the dangerous streets and subways of New York, attempting to contain the escalating violence.[^ref-11]
+The story takes place in New York City, where a Korean Triad gang is terrorizing the city, attacking citizens in broad daylight and conducting bold robberies in front of hundreds of witnesses.[^ref-9] SWAT officer Kurt Wolfe is initially assigned to take down renewed Asian gang violence led by ethnic Korean-Americans,[^ref-1] working to restore order amid a brutal conflict between rival Korean gangs known as the Jopoks and Gangpehs.[^ref-10] The early missions establish Wolfe and his team as they navigate the dangerous streets and subways of New York, attempting to contain the escalating violence.[^ref-11]
 
 As Wolfe and his team delve deeper into the investigation, they discover that the gang war is merely a smokescreen for something far more sinister. Terrorist forces, including a group known as the "Hammer of God," are planning to detonate a nuclear weapon on American soil and pin the blame on the North Korean government.[^ref-12] This conspiracy threatens to drive the United States to the brink of a worldwide nuclear conflict, forcing SWAT to expand their operations beyond simple law enforcement into counter-terrorism.[^ref-3]
 
-The narrative takes players through iconic New York City locations including Central Park, Grand Central Station and Coney Island as Wolfe races against time to uncover the full extent of the terrorist plot.[^ref-4][^ref-11] Along the way, players interact with various characters and make tactical decisions about how to handle suspects—whether to use lethal force or attempt to subdue and restrain them for interrogation.[^ref-4] The story culminates in Wolfe and his team working to prevent the nuclear disaster and bring those responsible to justice, though critics noted the plot often veered into implausibility.[^ref-7]
+The narrative takes players through iconic New York City locations including Central Park, Grand Central Station and Coney Island as Wolfe races against time to uncover the full extent of the terrorist plot.[^ref-4][^ref-11] Along the way, players interact with various characters and make tactical decisions about how to handle suspects—whether to use lethal force or attempt to subdue them and bring them in alive.[^ref-4] The story culminates in Wolfe and his team working to prevent the nuclear disaster and bring those responsible to justice, though critics noted the plot often veered into implausibility.[^ref-7]
 
 ## Gameplay
 
@@ -108,18 +109,18 @@ To ensure tactical authenticity, Sierra brought back Ken Thatcher, a 29-year vet
 
 The storyline was written by Scott Rosenbaum, known for his work on the acclaimed television series "The Shield."[^ref-8][^ref-13] This collaboration aimed to bring gritty, procedural crime drama sensibilities to the game's narrative, though the final product received criticism for veering into implausible territory.[^ref-7] 3G Studios' team scouted Manhattan, and some levels are based on real locations including Central Park, the Ellis Island visitors center and Grand Central Station;[^ref-4] reviewers also noted a Coney Island level.[^ref-7]
 
-**Development Credits:**[^ref-9]
-- **Lead Programmer:** Andrew Wright
-- **Art Director:** Ryan Cullins
-- **Consultant:** Ken Thatcher (29-year Los Angeles SWAT veteran)
-- **Writer:** Scott Rosenbaum (The Shield)
-- **Total Credits:** 143
+**Development Credits:**
+- **Lead Programmer:** Andrew Wright[^ref-9]
+- **Art Director:** Ryan Cullins[^ref-9]
+- **Consultant:** Ken Thatcher (29-year Los Angeles SWAT veteran)[^ref-6]
+- **Writer:** Scott Rosenbaum (The Shield)[^ref-8]
+- **Total Credits:** 143[^ref-9]
 
 ### Technical Achievements
 
-The game featured several technical innovations designed to enhance replayability on the portable platform. The randomized AI placement system meant that enemy positions would differ between playthroughs, preventing players from simply memorizing patrol routes.[^ref-5] A random killhouse generator created level geometry on the fly for every multiplayer mode,[^ref-4] and players could create their own maps.[^ref-9]
+The game featured several technical innovations designed to enhance replayability on the portable platform. The randomized AI placement system meant that enemy positions would differ between playthroughs.[^ref-5] A random killhouse generator created level geometry on the fly for every multiplayer mode,[^ref-4] and players could create their own maps.[^ref-9]
 
-The ad-hoc multiplayer supported up to four players in three modes that Pawlicki said "are all competitive in nature": escorting civilians while rivals try to steal them, killing as many terrorists as possible in a time limit, and a VIP variant in which other players are terrorists hunting the protected person.[^ref-4] GameZone named them Football, Rodeo Round-Up and The Great Escape.[^ref-10] The game also included unlockable FMV clips from actual SWAT training documentaries, providing real-world context for the tactical procedures depicted in gameplay.[^ref-20]
+The ad-hoc multiplayer supported up to four players in three modes that Pawlicki said "are all competitive in nature": escorting civilians while rivals try to steal them, killing as many terrorists as possible in a time limit, and a VIP variant in which other players are terrorists hunting the protected person.[^ref-4] GameZone named them Football, Rodeo Round-Up and The Great Escape.[^ref-10] The game also included unlockable FMV clips taken from an actual SWAT training school documentary.[^ref-20]
 
 ### Technical Specifications
 
@@ -141,9 +142,9 @@ GamesRadar found a preview build "pretty easy to get into," and was told that by
 
 | Version | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
-| 1.0 | October 16, 2007 | PSP | North America | Initial release[^ref-1] |
-| 1.0 | October 25, 2007 | PSP | Australia | PAL release[^ref-1] |
-| 1.0 | October 26, 2007 | PSP | Europe | EU release[^ref-1] |
+| — | October 16, 2007 | PSP | North America | Initial release[^ref-1] |
+| — | October 25, 2007 | PSP | Australia | PAL release[^ref-1] |
+| — | October 26, 2007 | PSP | Europe | EU release[^ref-1] |
 | PSN | Unknown | PSP/PSN | Various | Digital release[^ref-31] |
 
 ### Technical Issues
@@ -157,9 +158,9 @@ GamePro criticized targeting, noting that "targeting an enemy yourself ultimatel
 - **Cheat Codes:** The game includes numerous cheat codes accessible by pausing and holding L + R + Triangle + Left to display the entry screen. Available cheats include invincibility for officers, players, and civilians; weapon access; infinite ammunition; and character visibility modifications.[^ref-32]
 - **Remixed Credits:** A special "remixed credits" cheat is available as an easter egg.[^ref-32]
 - **Hard Mode:** Completing the game on easy or medium difficulty unlocks hard mode.[^ref-32]
-- **SWAT Training Videos:** Real SWAT training documentary footage can be unlocked by completing missions, providing educational context for the game's tactical procedures.[^ref-20]
+- **SWAT Training Videos:** Unlockable FMV clips taken from an actual SWAT training school documentary.[^ref-20]
 - **Sierra Logo Variation:** The game features a unique Sierra Entertainment logo intro with "a dark blue tinted camera static applied to the logo, to which the mountain forms far quicker than normal. The final result of the logo zooms in rather than fading in, and it begins to flicker, which soon causes the screen to flicker as well (with the fuzzy lines seen on Analog TV), and then it cuts to the opening movie."[^ref-33]
-- **Character Connection:** The main character Kurt Wolfe was previously known as "Boss" in SWAT 4, establishing continuity with the PC predecessor.[^ref-12]
+- **Character Connection:** The main character Kurt Wolfe was previously known as "Boss" in SWAT 4, establishing continuity with the PC predecessor.[^ref-12][^ref-4]
 
 ## Voice Cast
 
@@ -193,7 +194,7 @@ No significant fan remakes, modifications or homebrew projects for Target Libert
 
 ### Critical Perspective
 
-SWAT: Target Liberty represents an interesting but flawed experiment in adapting a PC-centric tactical franchise for handheld gaming. The game arrived during a period when developers were still learning how to translate complex genres to the PSP's unique constraints, and many of its shortcomings reflect the broader challenges of portable tactical gaming in that era. The decision to shift from first-person to isometric perspective was reasonable given the hardware limitations, but the execution failed to capture the tension and procedural satisfaction that defined the PC SWAT titles.
+SWAT: Target Liberty represents an interesting but flawed experiment in adapting a PC-centric tactical franchise for handheld gaming. The decision to shift from first-person to isometric perspective was reasonable given the hardware limitations, but the execution failed to capture the tension and procedural satisfaction that defined the PC SWAT titles.
 
 The game's legacy is largely one of missed potential. Critics consistently acknowledged that the foundation—tactical squad management, multiple entry techniques, less-than-lethal options—was sound, but poor ally AI, repetitive mission design, and pacing issues undermined the experience.[^ref-17] As a historical artifact, Target Liberty demonstrates both the ambition of late-era Sierra Entertainment projects and the challenges of maintaining franchise identity across dramatically different platforms. It remains a curiosity for SWAT franchise completionists and PSP collectors, though a few players still call it a hidden gem.[^ref-27]
 
@@ -209,6 +210,9 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 **Download / Preservation**
 - Physical copies available through secondary market retailers
+
+**Official Site**
+- [swatpsp.com (Wayback Machine, November 2007)](https://web.archive.org/web/20071104131508/http://www.swatpsp.com/splash/) – archived Flash splash page
 
 ## See Also
 
