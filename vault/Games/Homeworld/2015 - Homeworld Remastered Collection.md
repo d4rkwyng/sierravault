@@ -10,7 +10,7 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-10-19'
+last_updated: '2026-10-26'
 composer: [Paul Ruskay]
 description: Homeworld Remastered Collection is a comprehensive restoration of Relic
   Entertainment's groundbreaking space real-time strategy games, released on February...
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Homeworld Remastered Collection is a comprehensive restoration of [[Relic Entert
 
 The original Homeworld, released September 28, 1999, revolutionized the real-time strategy genre by introducing fully three-dimensional space combat, allowing players to command fleets that could move in all directions—up, down, backward, forward, and to either side—rather than being confined to a traditional two-dimensional plane[^ref-4]. As IGN declared at its original release, "Relic not only tackled space, but may have just changed strategy games forever"[^ref-5]. The game received universal acclaim, achieving a Metacritic score of 93 and earning numerous Game of the Year awards in 1999[^ref-6].
 
-Gearbox Software acquired the Homeworld intellectual property for $1.35 million at THQ's bankruptcy auction in April 2013, rescuing the beloved franchise from legal limbo after the games had spent twelve years in THQ's vaults[^ref-8][^ref-7]. The remastering process took approximately two years, during which the development team worked with original artists and key members of the original development team to rebuild both games using the Homeworld 2 engine, adding support for HD, UHD, and 4K resolutions while maintaining the essence of the originals[^ref-7][^ref-3]. Brian Martel, Gearbox's Chief Creative Officer, emphasized that the studio had "great love and respect for Relic's brilliant, fun and innovative game"[^ref-9].
+Gearbox Software acquired the Homeworld intellectual property for $1.35 million at THQ's bankruptcy auction in April 2013, rescuing a franchise that had effectively disappeared from shelves after THQ bought Relic in 2004[^ref-8][^ref-7]. The remastering process took approximately two years, during which the development team worked with original artists and key members of the original development team to rebuild both games using the Homeworld 2 engine, adding support for HD, UHD, and 4K resolutions while maintaining the essence of the originals[^ref-7][^ref-3]. Brian Martel, Gearbox's Chief Creative Officer, emphasized that the studio had "great love and respect for Relic's brilliant, fun and innovative game"[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]], Aspyr (Mac)[^ref-1]
@@ -125,7 +125,7 @@ The original Homeworld won over 50 awards including multiple Game of the Year ac
 
 ### Origins
 
-Relic Entertainment was founded on June 1, 1997, specifically to create Homeworld[^ref-10]. The company was established above a nightclub in Vancouver by a small team including Alex Garden, Luke Moloney, Rob Cunningham, Aaron Kambeitz, Gary Shaw, and Shane Alfreds[^ref-39]. Garden was just 22 years old when he founded the company, driven by a singular vision: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-17].
+Relic Entertainment was founded in May 1997, specifically to create Homeworld[^ref-10][^ref-69][^ref-70]. The company was established above a nightclub in Vancouver by seven founders: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds[^ref-39][^ref-69][^ref-70]. Garden was just 22 years old when he founded the company, driven by a singular vision: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-17].
 
 Garden secured Sierra On-Line's publishing agreement based on "two whiteboard presentations and no demo"[^ref-10], an extraordinary achievement that demonstrated the compelling nature of his vision. His design philosophy was refreshingly honest: "there's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke. The focus was making sure the space combat ruled"[^ref-10]. Garden predicted that "everyone is going to zoom right in on the first battle, just to watch"[^ref-10], recognizing the cinematic appeal of the game's visuals.
 
@@ -410,3 +410,5 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-66]: [Homeworld Universe – Homeworld Remastered Collection Is Coming to Epic Games Store](https://www.homeworlduniverse.com/homeworld-remastered-collection-is-coming-to-epic-games-store-egs/) – Epic Games Store release July 27, 2023
 [^ref-67]: [TechSpot – Homeworld Remastered Benchmarked (archived)](https://web.archive.org/web/20150309224831/http://www.techspot.com/review/970-homeworld-remastered-benchmarks/) – "winning both IGN and PC Gamer's game of the year award in 1999"
 [^ref-68]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – Steam store listing
+[^ref-69]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
+[^ref-70]: [MobyGames – Relic Entertainment Inc (Wayback, April 2023)](https://web.archive.org/web/20230424154622/https://www.mobygames.com/company/278/relic-entertainment-inc/) – company 278: "founded in May of 1997" with all seven founders named

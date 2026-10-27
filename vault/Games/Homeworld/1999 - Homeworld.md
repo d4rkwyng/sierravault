@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ GameSpot's Kevin VanOrd gave the remaster 8/10, praising how it "beautifully cap
 
 ### Origins
 
-Relic Entertainment was founded in Vancouver, Canada, on June 1, 1997, and began work on Homeworld as its first game.[^ref-3] The company was started by Alex Garden and Luke Moloney, with operations beginning in a small office above a nightclub in Vancouver; in April 1998 Relic moved to a 12,000 sq. ft. facility in the city's Yaletown district.[^ref-7][^ref-46] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
+Relic Entertainment was founded in Vancouver, Canada, in May 1997, and began work on Homeworld as its first game.[^ref-3][^ref-46][^ref-51] The company was started by seven founders, Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds,[^ref-46][^ref-51] with operations beginning in a small office above a nightclub in Vancouver; in April 1998 Relic moved to a 12,000 sq. ft. facility in the city's Yaletown district.[^ref-7][^ref-46] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
 
 The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Indeed, the game was originally intended to be a licensed Battlestar Galactica adaptation, but Relic failed to obtain the rights, leading them to create their own original universe.[^ref-9] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14]
 
@@ -352,3 +352,4 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-48]: [GamingBolt – Homeworld Remastered Collection to Include Original Games](https://gamingbolt.com/homeworld-remastered-collection-to-include-original-games-supports-4k-resolutions) – Gearbox blog quote on fans, mod makers and series veterans
 [^ref-49]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – user review summary
 [^ref-50]: [MobyGames – Homeworld Credits (Windows)](https://www.mobygames.com/game/296/homeworld/credits/windows/) – full development credits
+[^ref-51]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"

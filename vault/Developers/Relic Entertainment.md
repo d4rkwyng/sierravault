@@ -6,27 +6,27 @@ defunct: null
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld", "Company of Heroes", "Warhammer 40,000: Dawn of War"]
 parent_company: "Independent (2024-present; formerly SEGA 2013-2024)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Relic Entertainment
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Relic Entertainment was founded in Vancouver in May 1997 by seven people: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2] [[Sierra On-Line|Sierra Studios]] published Relic's debut, [[1999 - Homeworld|Homeworld]] (1999), a 3D space real-time strategy game that critics acclaimed.[^ref-3][^ref-1] Sierra also published [[2003 - Homeworld 2|Homeworld 2]] (2003). THQ acquired the studio in 2004.[^ref-4][^ref-14]
+Relic Entertainment was founded in Vancouver in May 1997 by seven people: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2][^ref-28] [[Sierra On-Line|Sierra Studios]] published Relic's debut, [[1999 - Homeworld|Homeworld]] (1999), a 3D space real-time strategy game that critics acclaimed.[^ref-3][^ref-1] Sierra also published [[2003 - Homeworld 2|Homeworld 2]] (2003). THQ acquired the studio in 2004.[^ref-4][^ref-14]
 
-After THQ's bankruptcy in early 2013, SEGA acquired Relic Entertainment.[^ref-6][^ref-7] The studio continued developing acclaimed strategy games including the *Company of Heroes* and *Warhammer 40,000: Dawn of War* franchises, as well as collaborating on *Age of Empires IV* with Xbox Game Studios.[^ref-8] In March 2024 SEGA sold Relic back to independent ownership, marking the studio's return to autonomy after two decades under publisher control.[^ref-9]
+After THQ's December 2012 bankruptcy filing, SEGA bought Relic at auction in January 2013.[^ref-18][^ref-6][^ref-7] The studio continued developing acclaimed strategy games including the *Company of Heroes* and *Warhammer 40,000: Dawn of War* franchises, as well as collaborating on *Age of Empires IV* with Xbox Game Studios.[^ref-8] In March 2024 SEGA sold Relic back to independent ownership, marking the studio's return to autonomy after two decades under publisher control.[^ref-9]
 
 ## History
 
 ### Founding and Sierra Era (1997–2004)
 
-- **1997** — Founded in May in Vancouver, BC, by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2]
+- **1997** — Founded in May in Vancouver, BC, by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2][^ref-28]
 - **1999** — Released [[1999 - Homeworld|Homeworld]] through Sierra Studios on September 28, 1999. The player's fleet carries over between levels and moves in fully three-dimensional space.[^ref-3][^ref-1] GameSpot's October 1999 review said it "may well reshape the entire real-time strategy genre."[^ref-10] The Wikipedia article lists Game of the Year awards from IGN and PC Gamer.[^ref-3]
 - **2000** — [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] released as a standalone spin-off developed by [[Barking Dog Studios]] and published by Sierra.[^ref-1][^ref-12] MobyGames' Relic profile notes that Sierra continued the franchise "by a different development studio."[^ref-2]
 - **2003** — [[2003 - Homeworld 2|Homeworld 2]] released by Sierra Entertainment on September 16, 2003. It had improved graphics and features, but reviews did not score it as highly as the original.[^ref-4][^ref-1]
-- **2004** — On April 27, THQ announced it was acquiring Relic for close to US$10 million in cash.[^ref-14][^ref-1] Relic's first THQ release, *Warhammer 40,000: Dawn of War*, came out on September 20, 2004.[^ref-1][^ref-15]
+- **2004** — On April 27, 2004, THQ announced a definitive agreement to acquire Relic; SEC filings later put the price at just over US$10 million ($6 million in cash up front, the rest over two years).[^ref-14][^ref-27] Relic's first THQ release, *Warhammer 40,000: Dawn of War*, came out on September 20, 2004.[^ref-1][^ref-15]
 
 ### THQ Era (2004–2013)
 
@@ -35,15 +35,17 @@ Under THQ, Relic released:
 - **Warhammer 40,000: Dawn of War** (2004) — A real-time strategy game based on Games Workshop's *Warhammer 40,000* wargame, published by THQ. The series has sold more than 7 million copies.[^ref-15]
 - **Company of Heroes** (2006) — A World War II real-time strategy game on Relic's in-house Essence engine. It "won many awards from multiple gaming magazines and websites", and by January 2013 the series had sold more than 4 million copies.[^ref-1][^ref-16]
 - **Warhammer 40,000: Dawn of War II** (2009) — Pivot toward squad-based RPG/RTS hybrid gameplay.[^ref-17]
-- **Company of Heroes 2** (2013) — Released months after THQ filed for Chapter 11 bankruptcy in December 2012; its sale was caught up in the THQ asset auction.[^ref-18][^ref-7]
 
 ### SEGA Era (2013–2024)
 
 After THQ filed for Chapter 11 bankruptcy in December 2012, Relic was sold at auction to SEGA in January 2013 for USD 26.6 million.[^ref-18][^ref-6][^ref-7] Under SEGA the studio continued the *Company of Heroes* and *Dawn of War* franchises, and partnered with Xbox Game Studios' World's Edge division on *Age of Empires IV* (2021), which received "generally favorable" reviews (Metacritic 81).[^ref-8][^ref-20]
 
+- **Company of Heroes 2** (2013) — Relic was developing it when THQ went bankrupt, and SEGA released it on June 25, 2013, after buying the studio.[^ref-29][^ref-16]
+- **2023 layoffs** — In May 2023, SEGA announced 121 redundancies at Relic as part of a restructuring to focus on the studio's core franchises.[^ref-30]
+
 ### Independent Era (2024–present)
 
-In March 2024, SEGA divested Relic to private investment via Emona Capital, returning the studio to independent ownership.[^ref-9][^ref-21] In August 2025, Relic released *Warhammer 40,000: Dawn of War — Definitive Edition*, an enhanced re-release of the original game that reportedly sold 150,000 copies within 24 hours.[^ref-22]
+In March 2024, SEGA divested Relic to private investment via Emona Capital, returning the studio to independent ownership.[^ref-9][^ref-21] About a week after the sale, in April 2024, Relic announced further layoffs; it gave no number, but external development producer Robyn Smale said 41 people were affected.[^ref-31][^ref-32] In August 2025, Relic released *Warhammer 40,000: Dawn of War — Definitive Edition*, an enhanced re-release of the original game that reportedly sold 150,000 copies within 24 hours.[^ref-22]
 
 ## Sierra-Era Games in This Archive
 
@@ -64,17 +66,17 @@ In March 2024, SEGA divested Relic to private investment via Emona Capital, retu
 
 ## Legacy
 
-Later critics kept praising *Homeworld*. Maximum PC wrote in 2003 that it "did what no game had successfully done before: create a truly three-dimensional space-combat strategy game", and HardwareMAG called it "revolutionary".[^ref-3] Gearbox Software bought the *Homeworld* rights from THQ in 2013 and released [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] in 2015.[^ref-24] [[Blackbird Interactive]], founded by ex-Relic staff, continued the series with [[2016 - Homeworld - Deserts of Kharak|Deserts of Kharak]] (2016) and [[2024 - Homeworld 3|Homeworld 3]] (2024).[^ref-25][^ref-24] Wikipedia gives 2007 as Blackbird's founding year, while MobyGames gives 2010.[^ref-25][^ref-26]
+Later critics kept praising *Homeworld*. Maximum PC wrote in 2003 that it "did what no game had successfully done before: create a truly three-dimensional space-combat strategy game", and HardwareMAG called it "revolutionary".[^ref-3] [[Gearbox Software]] bought the *Homeworld* rights from THQ in 2013 and released [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] in 2015.[^ref-24] [[Blackbird Interactive]], set up by Relic co-founder Rob Cunningham and other industry veterans, continued the series with [[2016 - Homeworld - Deserts of Kharak|Deserts of Kharak]] (2016) and [[2024 - Homeworld 3|Homeworld 3]] (2024).[^ref-25][^ref-24] Wikipedia gives 2007 as Blackbird's founding year, while MobyGames gives 2010; CTO Yossarian King's account says Cunningham founded the company in 2007 and that "five of us set up shop in Rob's garage in October 2010".[^ref-25][^ref-26][^ref-33]
 
 ## Related
 
 - **Publisher (Sierra era):** [[Sierra On-Line]]
 - **Successor studio:** [[Blackbird Interactive]]
-- **IP rights holder:** Gearbox Software (Homeworld trademark since 2013)
+- **IP rights holder:** [[Gearbox Software]] (Homeworld trademark since 2013)
 
 ## References
 
-[^ref-1]: [Wikipedia — Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) — Founded May 1997 by seven founders; Homeworld September 28, 1999; Cataclysm by Barking Dog; Homeworld 2 September 16, 2003; THQ deal April 27, 2004 (close to US$10M); Company of Heroes "won many awards"
+[^ref-1]: [Wikipedia — Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) — Founded May 1997 by seven founders; Homeworld September 28, 1999; Cataclysm by Barking Dog; Homeworld 2 September 16, 2003; THQ deal April 27, 2004; Company of Heroes "won many awards"
 [^ref-2]: [MobyGames — Relic Entertainment Inc (Wayback, April 2023)](https://web.archive.org/web/20230424154622/https://www.mobygames.com/company/278/relic-entertainment-inc/) — Company 278: founded May 1997 by Garden, Moloney, Daly, Kambeitz, Cunningham, Shaw and Alfreds; Sierra continued Homeworld "by a different development studio"
 [^ref-3]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — Sierra Studios publisher; director Alex Garden, designer Erin Daly; IGN and PC Gamer Game of the Year; Maximum PC and HardwareMAG quotes
 [^ref-4]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — Sierra Entertainment as publisher, September 16, 2003
@@ -92,6 +94,13 @@ Later critics kept praising *Homeworld*. Maximum PC wrote in 2003 that it "did w
 [^ref-20]: [Metacritic — Age of Empires IV](https://www.metacritic.com/game/pc/age-of-empires-iv) — Metascore 81, "Generally Favorable"
 [^ref-21]: [Game World Observer — Relic Entertainment going independent](https://gameworldobserver.com/2024/03/28/relic-independent-from-sega-layoffs-240-employees) — Emona Capital acquisition details
 [^ref-22]: [PC Gamer — Dawn of War: Definitive Edition sold 150,000 copies in its first day](https://www.pcgamer.com/games/strategy/dawn-of-war-definitive-edition-sold-150-000-copies-in-its-first-day/) — 150K-copy first-day sales report
-[^ref-24]: [Wikipedia — Homeworld Remastered Collection](https://en.wikipedia.org/wiki/Homeworld_Remastered_Collection) — Gearbox bought the series from THQ in 2013 and released the 2015 remaster; Deserts of Kharak by Blackbird
+[^ref-24]: [Wikipedia — Homeworld (Remaster section)](https://en.wikipedia.org/wiki/Homeworld_Remastered_Collection) — Redirects to Homeworld#Remaster; Gearbox bought the series from THQ in 2013 and released the 2015 remaster; Deserts of Kharak by Blackbird
 [^ref-25]: [Wikipedia — Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) — "founded in 2007 by former members of Relic Entertainment and EA Canada"
 [^ref-26]: [MobyGames — Blackbird Interactive, Inc. (Wayback, April 2024)](https://web.archive.org/web/20240415125138/https://www.mobygames.com/company/24674/blackbird-interactive-inc/) — Company 24674: "The company was founded in 2010"
+[^ref-27]: [GameSpot — THQ discloses Relic purchase price (Wayback, January 2013)](https://web.archive.org/web/20130128135522/http://www.gamespot.com/news/thq-discloses-relic-purchase-price-6104636) — August 11, 2004: from SEC filings, "a cash payment of $6 million" with "another $4 million and change to follow over the next two years"; total "tops $10 million"
+[^ref-28]: [GameSpy — Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) — Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
+[^ref-29]: [Joystiq — Unannounced THQ games from Vigil, Turtle Rock, more in bankruptcy filing (Wayback, February 2013)](https://web.archive.org/web/20130220004333/http://www.joystiq.com/2012/12/19/unannounced-thq-games-from-vigil-turtle-rock-more-in-bankruptc/) — December 19, 2012: Relic "is developing a project under a working title of 'Atlas'... as well as Company of Heroes 2"
+[^ref-30]: [GamesIndustry.biz — Sega announces 121 redundancies at Relic Entertainment](https://www.gamesindustry.biz/sega-announces-121-redundancies-at-relic-entertainment) — May 23, 2023: Sega "will make 121 redundancies" at Relic, restructuring to "focus on core franchises"
+[^ref-31]: [GamesIndustry.biz — Relic hit with layoffs following sale from Sega](https://www.gamesindustry.biz/relic-hit-with-layoffs-following-sale-from-sega) — April 5, 2024: studio did not give a number; producer Robyn Smale "said 41 people were affected"
+[^ref-32]: [PC Gamer — Relic Entertainment lays off employees to give itself 'the best possible chance to survive'](https://www.pcgamer.com/gaming-industry/relic-entertainment-lays-off-employees-to-give-itself-the-best-possible-chance-to-survive-in-an-increasingly-volatile-industry/) — April 4, 2024: layoffs "one week after Sega cut Relic loose"; Smale "pegged the number at 41"
+[^ref-33]: [Unity Made With — Blackbird's epic road trip (Yossarian King; Wayback, February 2016)](https://web.archive.org/web/20160207030650/http://madewith.unity.com/stories/blackbirds-epic-road-trip) — "In 2007, Rob founded Blackbird Interactive"; "five of us set up shop in Rob's garage in October 2010"
