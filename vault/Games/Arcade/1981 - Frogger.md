@@ -12,15 +12,15 @@ series: Frogger
 engine: Galaxian-derived arcade hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Frogger is Konami's 1981 arcade game, distributed by Sega/Gremlin, for
   which Sierra On-Line held the home-computer disk and tape rights and published ports
-  for the Atari 8-bit, Apple II, Commodore 64, IBM PC and Macintosh.
+  for the Atari 8-bit, Apple II, Commodore 64, IBM PC, VIC-20 and Macintosh.
 tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ Frogger is one of the most iconic and recognizable arcade games of the 1980s, or
 
 Sierra On-Line played a crucial role in bringing Frogger to home computers, holding the magnetic media licensing rights while Parker Brothers held the ROM cartridge rights[^ref-4]. This licensing arrangement meant that some platforms received two entirely different versions of the game from different publishers[^ref-5]. Sierra's first port was John Harris's Atari 8-bit version, released in late 1982[^ref-32], followed by Apple II, Commodore 64 and IBM PC versions in 1983 and a Macintosh version in 1984[^ref-9][^ref-23].
 
-Frogger has earned lasting recognition as one of the greatest video games ever made, selling over 20 million copies worldwide by 2005[^ref-1]. The game was included in TIME's "All-TIME 100 Video Games" list in 2012[^ref-39] and was named a finalist for the World Video Game Hall of Fame in 2025[^ref-28]. Its cultural impact extends beyond gaming, with memorable appearances in television shows including Seinfeld, The Simpsons, and the film Wreck-It Ralph[^ref-7].
+Frogger has earned lasting recognition as one of the greatest video games ever made, selling over 20 million copies worldwide by 2005[^ref-1]. The game was included in TIME's "All-TIME 100 Video Games" list in 2012[^ref-39] and was named a finalist for the World Video Game Hall of Fame in 2020, 2025 and 2026[^ref-40][^ref-28][^ref-41]. Its cultural impact extends beyond gaming, with memorable appearances in television shows including Seinfeld, The Simpsons, and the film Wreck-It Ralph[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Konami[^ref-1]
@@ -75,7 +75,7 @@ Frogger's gameplay revolves around pattern recognition, timing, and risk assessm
 - **Lady Frog:** Starting from certain levels, a brightly colored female frog appears on logs; escorting her home awards bonus points[^ref-1]
 - **Time Bonus:** Faster completion of each frog's journey yields higher time bonus points[^ref-10]
 
-The game is notorious for offering nine different ways to die—"the most ways to kick the bucket than any other game from the same period"[^ref-5]. These include being hit by vehicles, drowning in the river, being eaten by alligators or snakes, riding a log or turtle off-screen, jumping into an occupied home slot, jumping into an alligator's open mouth disguised as a home slot, being caught by an otter, and running out of time[^ref-1].
+The game is notorious for offering nine different ways to die; Digital Spy says it holds "the dubious distinction of offering more ways to kick the bucket than any other game from the same period"[^ref-5]. These include being hit by vehicles, drowning in the river, being eaten by alligators or snakes, riding a log or turtle off-screen, jumping into an occupied home slot, jumping into an alligator's open mouth disguised as a home slot, being caught by an otter, and running out of time[^ref-1].
 
 ## Reception
 
@@ -156,9 +156,11 @@ Technical analysis of the arcade ROMs has revealed that the full background musi
 
 ### Version History
 
+The original Japanese arcade date is disputed: sources give January 1981 (introduction) or June 1981, and Wikipedia gives Sega's Japanese release as August 1981[^ref-32][^ref-9][^ref-25][^ref-1].
+
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | June 1981 | Arcade (Japan) | Initial Konami release[^ref-25] |
+| Original | January or June 1981 (disputed) | Arcade (Japan) | Retro365 says it was introduced in Japan in January 1981 and entered mass production in June[^ref-32]; MobyGames dates the arcade release January 1981[^ref-9]; Saturday Mornings Forever gives June 1981[^ref-25] |
 | Sega Release | August 1981 | Arcade (Japan) | Sega release[^ref-1] |
 | North American | September 1981 | Arcade | Sega/Gremlin distribution[^ref-1] |
 | European | October 1981 | Arcade | Sega distribution[^ref-1] |
@@ -185,7 +187,7 @@ The original arcade game contains several documented bugs and quirks[^ref-10]:
 ### Easter Eggs and Trivia
 
 - **Attract Mode Control:** During the demo mode, the frog becomes controllable for free once it reaches the very top log[^ref-10]
-- **DIP Switch Setting:** A hidden DIP switch setting allows players to start with 256 frogs[^ref-10]
+- **DIP Switch Setting:** A DIP switch setting allows players to start with 256 frogs[^ref-10]
 - **Hidden Music:** The complete background song can only be heard by stopping the timer using emulator codes[^ref-10]
 - **Heart Animation:** When completing a level, the frog's nose turns into a heart and its eyes light up[^ref-10]
 - **Star Office Easter Egg:** The office suite Star Office 4.0 contained a hidden Frogger clone activated by typing "hello joe, please start the frogger"[^ref-27]
@@ -222,7 +224,7 @@ By 2005, various home versions of Frogger had sold over 20 million copies worldw
 - **1983 Arcade Awards (for 1982):** Best Arcade-to-Home Videogame Translation, Electronic Games (Atari VCS)[^ref-38]
 - **1984 Arcade Awards (for 1983):** Best Arcade-to-Home Computer Game Translation, Electronic Games (Atari 8-bit). The listing does not say whether this was Sierra's or Parker Brothers' Atari 8-bit version[^ref-38]
 - **2012:** Included in TIME's "All-TIME 100 Video Games"[^ref-39]
-- **2025:** World Video Game Hall of Fame finalist[^ref-28]
+- **2020, 2025, 2026:** World Video Game Hall of Fame finalist[^ref-40][^ref-28][^ref-41]
 
 ### Collections
 
@@ -312,3 +314,5 @@ The 1997 3D remake published by Hasbro Interactive and developed by Sony Compute
 [^ref-37]: [The Digital Antiquarian – The Unmaking and Remaking of Sierra On-Line](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) – Jimmy Maher on John Harris's Frogger port as Sierra's hit
 [^ref-38]: [Wikipedia – Electronic Games (Arcade Awards)](https://en.wikipedia.org/wiki/Electronic_Games) – 1983 and 1984 Arcade Awards winners lists
 [^ref-39]: [Gameranx – TIME Reveals Its List of All-TIME Top 100 Video Games](https://gameranx.com/updates/id/10804/article/time-reveals-its-list-of-all-time-top-100-video-games/) – Frogger in the 1980s section
+[^ref-40]: [KATV – World Video Game Hall of Fame announces 2020 finalists (19 March 2020, Wayback Machine)](https://web.archive.org/web/20230703002434/https://katv.com/news/entertainment/world-video-game-hall-of-fame-announces-2020-finalists) – Frogger among the 2020 finalists
+[^ref-41]: [The Strong – World Video Game Hall of Fame Reveals 12 Finalists for 2026 Induction](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists-for-2026-induction/) – "Can Frogger navigate its way to glory?"; 2026 finalist

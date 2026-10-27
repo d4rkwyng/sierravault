@@ -22,13 +22,13 @@ tags: [1980s, after-dark, screensaver, sierra]
 
 ## Overview
 
-After Dark is a series of screensaver software introduced by Berkeley Systems for the Apple Macintosh in 1989 and for Microsoft Windows in 1991[^ref-9][^ref-10]. It began as a personal project by Jack Eastman, who "actually never intended it to see the light of day"[^ref-31], and was created by Eastman together with Patrick Beard[^ref-31]. Its best-known module, Flying Toasters, came from a late-night session in which Eastman's "sleep-deprived brain put wings on" a toaster he spotted in his kitchen[^ref-31].
+After Dark is a series of screensaver software introduced by Berkeley Systems for the Apple Macintosh in 1989 and for Microsoft Windows in 1991[^ref-9][^ref-10]. It began as a personal project by Jack Eastman, who "actually never intended it to see the light of day"[^ref-31], and there are two accounts of who created it. Wikipedia and Eastman's own interview credit Eastman together with Patrick Beard[^ref-9][^ref-31]. Berkeley Systems' 1997 corporate background instead says the product was "spearheaded by Jack Eastman, Nick Rush and Igor Gasowski"[^ref-69], and Eastman himself names Rush, then VP of Marketing, and Gasowski, who later built the design department, as the other creative forces[^ref-31]. Its best-known module, Flying Toasters, came from a late-night session in which Eastman's "sleep-deprived brain put wings on" a toaster he spotted in his kitchen[^ref-31].
 
-After Dark was not a Sierra product when it was created. It was developed and published by Berkeley Systems eight years before Sierra had any stake in it. Sierra On-Line, then owned by CUC International, acquired Berkeley Systems in April 1997[^ref-58][^ref-59]. Sierra then repackaged the major versions under names such as After Dark Classic, After Dark Deluxe and After Dark Midnight Edition, and ended the line in the early 2000s[^ref-31].
+After Dark was not a Sierra product when it was created. It was developed and published by Berkeley Systems eight years before Sierra had any stake in it. CUC International, which had bought Sierra On-Line the year before and was Sierra's parent, acquired Berkeley Systems in April 1997[^ref-58]. FundingUniverse's history of Sierra lists it as a Sierra purchase of that month[^ref-59]. Sierra then repackaged the major versions under names such as After Dark Classic, After Dark Deluxe and After Dark Midnight Edition, and ended the line in the early 2000s[^ref-31].
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]][^ref-9]
-> **Designer:** Jack Eastman, Patrick Beard[^ref-31]
+> **Designer:** Jack Eastman, Patrick Beard[^ref-31] (Berkeley Systems' 1997 account: Jack Eastman, Nick Rush, Igor Gasowski[^ref-69])
 > **Publisher:** Berkeley Systems[^ref-31]
 > **Engine:** Assembly language and C[^ref-9]
 > **Platforms:** Apple Macintosh, Microsoft Windows, DOS[^ref-9]
@@ -69,7 +69,7 @@ Eastman started After Dark around 1986 as a personal project while working on hi
 
 ### Production
 
-After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, Wes Boyd's view was that the product needed more artistry, which led to the character-driven modules of 2.0, beginning with the Flying Toasters[^ref-31]. The Windows version came from a collaboration between Berkeley Systems, Eastman and Beard and Bill Stewart and Ian MacDonald of Software Dynamics[^ref-31]. Software Dynamics had been making similar Windows software under the "Magic" name[^ref-63]. The Computer History Museum holds a 1991 Berkeley Systems package, *After Dark: The Ultimate Screen Saver Collection*, shipped on 5¼-inch and 3½-inch floppy disks[^ref-67]. Berkeley Systems' founders Joan Blades and Wes Boyd later created MoveOn.org[^ref-9].
+After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, Wes Boyd's view was that the product needed more artistry, which led to the character-driven modules of 2.0, beginning with the Flying Toasters[^ref-31]. The Windows version came from a collaboration between Berkeley Systems, Eastman and Beard and Bill Stewart and Ian MacDonald of Software Dynamics[^ref-31]. Software Dynamics had been making similar Windows software under the "Magic" name[^ref-63]. The Computer History Museum holds a 1991 Berkeley Systems package, *After Dark: The Ultimate Screen Saver Collection*, shipped on 5¼-inch and 3½-inch floppy disks[^ref-67]. Berkeley Systems was founded in 1987 by Wes Boyd, Joan Blades and Lawrence Boyd on a federal grant to develop software for the visually impaired[^ref-69]. Blades and Wes Boyd later created MoveOn.org[^ref-9].
 
 ### Technical Notes
 
@@ -79,13 +79,15 @@ After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Cl
 
 - **1.0 (1989)**: Macintosh release with line-art modules[^ref-9][^ref-31]
 - **Windows (1991)**: first Windows release[^ref-9]
-- **2.0**: added the Flying Toasters and other character modules[^ref-31]
+- **2.0 (Macintosh, by August 1991)**: added the Flying Toasters and other character modules; TidBITS described an updater for "your 2.0-or-later copy" in August 1991[^ref-31][^ref-65]
+- **3.0 (1994)**[^ref-9]
+- **3.2 (1995)**[^ref-9]
 - **4.0 (1996)**: latest release in Wikipedia's infobox; it brought back Eastman's original toaster art as "ProtoToasters"[^ref-9][^ref-31]
 - **Sierra era (from 1997)**: repackaged as After Dark Classic, Deluxe, Midnight Edition and others[^ref-31]
 
 ## Legacy
 
-The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver. In that module Opus the Penguin shoots down the toasters with a shotgun[^ref-64]. A federal judge found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost because it had not trademarked the album artwork[^ref-62].
+The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver[^ref-60][^ref-64]. In that module Opus the Penguin shoots down the toasters with a shotgun[^ref-64]. A federal judge found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost the case, and the judge noted that the band had not trademarked the album artwork[^ref-62].
 
 The "Bad Dog" module inspired a *Bad Dog* TV series, first broadcast on Teletoon on 1 March 1999[^ref-9]. Infinisys of Japan released an official Mac OS X version in May 2003, and Vivendi Universal Games released an *After Dark: Flying Toaster* game for cellphones in 2006[^ref-9].
 
@@ -119,3 +121,4 @@ No legitimate store sale and no download link has been verified for the 1989 rel
 [^ref-66]: [Low End Mac - On Mighty Toaster Wings: More After Dark History (12 February 2007)](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) - Interview with Patrick Beard: per-module credits, toaster brownness setting
 [^ref-67]: [Computer History Museum - After Dark: The Ultimate Screen Saver Collection (catalog 102690864)](https://www.computerhistory.org/collections/catalog/102690864) - 1991 Berkeley Systems package on 5.25-inch and 3.5-inch floppies
 [^ref-68]: [Internet Archive - Art of Darkness (Erfert Fenton, Peachpit Press, 1992)](https://archive.org/details/artofdarkness00fent) - "The After Dark companion", with disk, for Macintosh After Dark
+[^ref-69]: [Berkeley Systems - Corporate Background (Wayback Machine, 25 June 1997)](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) - Founded 1987 by Wes Boyd, Joan Blades and Lawrence Boyd; After Dark "spearheaded by Jack Eastman, Nick Rush and Igor Gasowski"
