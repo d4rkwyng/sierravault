@@ -7,11 +7,11 @@ headquarters: "United States / Australia"
 notable_games: ["King's Quest I VGA Remake", "Quest for Glory II VGA Remake", "King's Quest III Redux"]
 parent_company: null
 related_companies: ["Himalaya Studios"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # AGD Interactive
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -49,7 +49,7 @@ AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventu
 
 ### Quest for Glory II VGA Remake (2008)
 
-The Quest for Glory II remake adds content cut from the original, such as a Saurus Repair Shop, along with a more interactive battle system, more dialogue options and an optional simplified alleyway layout.[^ref-8] Polygon counted it among the best fan remakes of a video game, and PC World's Jim Norris called it a "hand-polished classic" and the best of AGDI's remakes.[^ref-8] On the project, Warren handled direction, animation and scripting, and Brimhall drew the character portraits and some close-up art.[^ref-13]
+The Quest for Glory II remake adds content cut from the original, such as a Saurus Repair Shop, along with a more interactive battle system, more dialogue options and an optional simplified alleyway layout.[^ref-8] PC World's Jim Norris gave it 4 out of 5 and called it "a hand-polished classic you should be embarrassed to download for free" (July 2012).[^ref-24] On the project, Warren handled direction, animation and scripting, and Brimhall drew the character portraits and some close-up art.[^ref-13]
 
 ### King's Quest III Redux: To Heir is Human (2011)
 
@@ -83,3 +83,4 @@ The founding of [[Himalaya Studios]] in 2004 let the team pursue original games 
 [^ref-21]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — LLC founded 2004 in Chandler, Arizona; Delaware C corporation 2011; Al Emmo (2006), Mage's Initiation (2019)
 [^ref-22]: [Himalaya Studios - About](https://www.himalayastudios.com/about.php) — Co-founders Chris Warren and Britney Brimhall previously co-established AGDInteractive, LLC
 [^ref-23]: [Adventure Classic Gaming - Britney Brimhall Interview (May 26, 2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — Team origins, Tierra rename, Vivendi Universal permission, Himalaya co-founded 2004
+[^ref-24]: [PC World/TechHive – Jim Norris, "Step into Newfound Adventure with Quest for Glory II: Trial by Fire" (July 20, 2012; archived)](https://web.archive.org/web/20150924121212/http://www.techhive.com/article/259400/step_into_newfound_adventure_with_quest_for_glory_ii_trial_by_fire.html) — "a hand-polished classic you should be embarrassed to download for free"; 4/5

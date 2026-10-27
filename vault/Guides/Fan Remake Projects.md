@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises; the fan remakes themselves are free downloads.
 
@@ -27,7 +27,7 @@ Most fan remakes use **Adventure Game Studio (AGS)**, a free engine designed spe
 **Website:** [agdinteractive.com](https://www.agdinteractive.com/)
 **Status:** Active (commercial work via Himalaya Studios)
 
-AGD Interactive is known for its King's Quest and Quest for Glory remakes. The company was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-2][^ref-13]
+[[Developers/AGD Interactive|AGD Interactive]] is known for its King's Quest and Quest for Glory remakes. The company was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-2][^ref-13]
 
 On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interactive" (AGD stands for "Anonymous Game Developer"), with the lead designers credited as "Anonymous Game Designer #1" and "Anonymous Game Developer #2."[^ref-2]
 
@@ -44,7 +44,7 @@ On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interac
 - King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001, the month KQ1 VGA came out; Just Adventure offered "a theory" that the remake's downloads had revived interest in the series[^ref-5]
 
 **Version Updates:**
-- King's Quest I v4.0 (January 17, 2009) — Added narration vocals, removed "walking dead" situations[^ref-2]
+- King's Quest I v4.0 (January 17, 2009) — Added narration vocals and an optional feature that removes "walking dead" situations[^ref-2]
 - King's Quest II v3.0 (March 14, 2009) — Enhanced backgrounds, narrator vocals, character lip-syncing[^ref-2]
 - Quest for Glory II v2.0 (January 20, 2011) — PC and Mac versions with extensive improvements[^ref-1]
 
@@ -60,7 +60,7 @@ AGDI founded **Himalaya Studios** for original commercial games:
 **Website:** [infamousadventures.itch.io](https://infamousadventures.itch.io/) (formerly infamous-adventures.com, which now redirects there)
 **Status:** Stopped making games in July 2012 and continued as Infamous Quests; the remakes are still distributed on itch.io[^ref-17]
 
-Infamous Adventures (later Infamous Quests) creates VGA remakes and original adventure games. Known for their Space Quest II and King's Quest III remakes.
+[[Developers/Infamous Adventures|Infamous Adventures]] (later [[Developers/Infamous Quests|Infamous Quests]]) made VGA remakes and original adventure games. It was known for its Space Quest II and King's Quest III remakes.
 
 **Released Remakes:**
 
@@ -69,14 +69,14 @@ Infamous Adventures (later Infamous Quests) creates VGA remakes and original adv
 
 **In Development (Remakes):**
 
-- TBD — [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] — Unverified — only source is a patron-only post (Jan 2026); separate from the KQ4 Retold games below[^ref-8] — —
+- TBD — [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] — Unverified — only source is a patron-only post (Jan 2026); separate from the KQ4 Retold games below, though MQE's 2025 Retold graphics draw on unfinished KQ4 projects, with support from Steven Alexander[^ref-8][^ref-20]
 
 **Original Games:**
 
 - **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Status: Released, Download: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
 - **2016** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne - The King's Challenge]] — Status: Released January 26, 2016,[^ref-19] Download: [Steam](https://store.steampowered.com/app/425600/)
-- TBD — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — Voice recording unfinished; developer reports waning momentum (Jul 2026)[^ref-6] — —
-- TBD — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — In limbo — no team or budget to finish (Oct 2025)[^ref-7] — —
+- TBD — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — A prequel to Quest for Infamy;[^ref-32] voice recording still unfinished as of April 2026, and the developer reported waning momentum in July 2026[^ref-6]
+- TBD — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — In limbo — no team or budget to finish (Oct 2025)[^ref-7]
 
 **Notes:**
 - Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
@@ -89,9 +89,9 @@ Infamous Adventures (later Infamous Quests) creates VGA remakes and original adv
 
 **Founded:** 2004, as Phoenix Freeware Online;[^ref-18] The Silver Lining's production began in October 2000, and the team that became Phoenix was organized in January 2002[^ref-16]
 **Website:** [postudios.com](https://postudios.com/)
-**Status:** Commercial studio (Cognition series)
+**Status:** No new in-house game since the Cognition series; the studio site's most recent news (September 3, 2020) announces a third-party game it published[^ref-29]
 
-Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as a fan sequel to King's Quest VIII. After receiving cease-and-desist letters from Vivendi, they negotiated a fan license and released the game under a new title.
+Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as an unofficial ninth King's Quest game. After receiving a cease-and-desist from Vivendi (September 2005), they negotiated a fan license and released the game under a new title.[^ref-16]
 
 **Released Games:**
 
@@ -113,7 +113,7 @@ Multiple teams have created Space Quest fan games over the years:
 
 - **2001** — [[2001 - Space Quest - The Lost Chapter|Space Quest - The Lost Chapter]] — Creator: Vonster D. Monster (solo)[^ref-14], Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
 - **2003** — [[2003 - Space Quest 0 - Replicated|Space Quest 0 - Replicated]] — Creator: Jeff Stewart[^ref-14], Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
-- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]] — Creator: Team VSB[^ref-15], Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
 - **2012** — [[2012 - Space Quest - Incinerations|Space Quest - Incinerations]] — Creator: Chris Ushko (Box of Mystery)[^ref-14], Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
 
 **Space Quest: Vohaul Strikes Back** has "60-70 unique ways for Roger Wilco to die", according to its team's FAQ, continuing the series' tradition of creative player deaths.[^ref-15]
@@ -124,37 +124,37 @@ Multiple teams have created Space Quest fan games over the years:
 
 **Website:** AGS Forums
 
-- **2021** — [[2021 - King's Quest IV Retold|King's Quest IV Retold]] — Original: [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV - The Perils of Rosella]], Download: [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/)
+- **2021** — [[2021 - King's Quest IV Retold|King's Quest IV Retold]] — Original: [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV - The Perils of Rosella]], Game page: [AGS](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)[^ref-28]
 
-- King's Quest IV Retold was made by DrSlash[^ref-20]
-- November 2025: Magic Quest Entertainment (with Jorge Pecador) released a VGA + Talkie version "patched with 256 colored graphics and voices", made "by courtesy of Dr Slash… and with his blessing"[^ref-20]
-- Separate from Infamous Quests' KQ4 remake project
+- King's Quest IV Retold was made by DrSlash and released as freeware in May 2021[^ref-28][^ref-20]
+- November 2025: Magic Quest Entertainment (with Jorge Pecador) released a VGA + Talkie version "patched with 256 colored graphics and voices", made "by courtesy of Dr Slash… and with his blessing"; Download: [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/)[^ref-20]
+- Separate from Infamous Quests' KQ4 remake project, though MQE's 2025 graphics draw on unfinished KQ4 projects, with support from Infamous Quests' Steven Alexander[^ref-20]
 
 ---
 
-## Other Notable Fan Projects
+## Other Related Projects
 
 ### Pierre Gilhodes (Gobliiins)
 
-The original artist and designer from Coktel Vision's Gobliiins series has created fan sequels:
+The original artist and designer from Coktel Vision's Gobliiins series has made creator-made sequels (self-published under Schnibble Productions):[^ref-21]
 
 - **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5 - The Morgloton Invasion]] — Status: Released
 - **2026** — [[2026 - Gobliins 6]] — Status: Released February 2026 (Steam: February 13, 2026)[^ref-21]
 
-**Gobliins 6** is a direct sequel to Gobliins 2, bringing back Fingus and Winkle against villain Karcassio.
+**Gobliins 6** is a direct sequel to Gobliins 2, bringing back Fingus and Winkle against "the cruel conqueror Karcassio".[^ref-31]
 
 ### Al Emmo
 
-- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Creator: Himalaya Studios, Status: Released
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Creator: [[Developers/Himalaya Studios|Himalaya Studios]], Status: Released
 - **2013** — Al Emmo Enhanced Edition (version 4.0) — Himalaya Studios — Released November 26, 2013[^ref-22]
 
-A Leisure Suit Larry-inspired comedy adventure by the AGDI team under their commercial studio.
+A comedy adventure by the AGDI team under their commercial studio; Hardcore Gamer's review called Al "the Larry Laffer of the wild west".[^ref-30]
 
 ---
 
 ## Sierra Alumni Projects
 
-Many original Sierra designers have created spiritual successors through crowdfunding:
+Many original Sierra designers have created spiritual successors, many through crowdfunding:
 
 ### The Two Guys from Andromeda (SpaceVenture)
 
@@ -169,7 +169,7 @@ Many original Sierra designers have created spiritual successors through crowdfu
 
 - [[2018 - Hero-U - Rogue to Redemption|Hero-U - Rogue to Redemption]] — Status: Released 2018, Platform: Steam, GOG
 - [[2023 - Summer Daze - Tilly's Tale|Summer Daze - Tilly's Tale]] — Status: Released 2023, Platform: Steam
-- Hero-U Sequel — Shelved — Coles making Summer Daze games instead; Ifeyo's Adventure expected late spring/early summer 2027 (Sep 2026)[^ref-9] — —
+- Hero-U Sequel — Shelved — Coles making Summer Daze games instead; Ifeyo's Adventure expected late spring/early summer 2027 (Sep 2026)[^ref-9]
 
 ### Jane Jensen (Gabriel Knight)
 
@@ -177,8 +177,8 @@ Many original Sierra designers have created spiritual successors through crowdfu
 
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] — Status: Released 2014, Platform: Steam, GOG
 - [[2014 - Moebius - Empire Rising|Moebius - Empire Rising]] — Status: Released 2014, Platform: Steam, GOG
-- [[2010 - Gray Matter|Gray Matter]] — Status: Released 2010, Platform: Steam, GOG
-- [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Pitch only; Jensen discussed the unreleased GK pitch, set in Salzburg, in December 2025[^ref-10] — —
+- [[2010 - Gray Matter|Gray Matter]] — Status: Released 2010, Platform: Steam (GOG delisted)
+- [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Pitch only; Jensen discussed the unreleased GK pitch, set in Salzburg, in December 2025[^ref-10]
 
 ### Ken & Roberta Williams (Colossal Cave)
 
@@ -198,7 +198,7 @@ Many original Sierra designers have created spiritual successors through crowdfu
 
 ### Sierra Conversion Project (SCP)
 
-**Origin:** Spain; SCP has been "preserving Amiga games in Spanish for years"[^ref-11]
+**Origin:** Spain; Estrayk describes "a group of Spanish people called SCP who have been preserving Amiga games in Spanish for years"[^ref-11]
 **Key Members:** DaRaSCo, kikems (AmigaWave), Estrayk
 **Status:** Active
 
@@ -214,7 +214,7 @@ The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhan
 
 | Game | Progress |
 |------|----------|
-| Conquests of the Longbow | ~90% (Jan 2026); release promised "soon", still unreleased[^ref-11][^ref-12] |
+| [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] | ~90% (Jan 2026); release promised "soon", still unreleased as of October 2026[^ref-11][^ref-12] |
 
 **Technical Approach:**
 - Uses Amiga-native tools (ImageFX, PPaint, Adpro)
@@ -317,3 +317,8 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-25]: [IndieRetroNews – Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP (updated Jan 15, 2026)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) — "Darasco has finally released an enhanced version for the Amiga OCS"; "RELEASED!!" (Jan 15, 2026)
 [^ref-26]: [ScummVM – 2.5.0 release news (Oct 9, 2021)](https://www.scummvm.org/news/20211009/) — new engines include "AGS Games versions 2.5+"
 [^ref-27]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) — Guys from Andromeda; released Dec 23, 2025
+[^ref-28]: [Adventure Game Studio – King's Quest IV: The Perils of Rosella Retold game page](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) — "by DrSlash"; "Release Date 5 May 2021"; "Release Type Freeware"
+[^ref-29]: [Phoenix Online Studios – Company / Studio News](https://www.postudios.com/company) — latest item "09/3/20 - Bleeding Moons is available now!", the debut game from IAN Games
+[^ref-30]: [Hardcore Gamer – Review: Al Emmo and the Lost Dutchman's Mine (Dec 10, 2013)](https://hardcoregamer.com/reviews/review-al-emmo-and-the-lost-dutchmans-mine/65195/) — "Al Emmo is the Larry Laffer of the wild west"
+[^ref-31]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure (Oct 14, 2024; archived Oct 23, 2024)](https://web.archive.org/web/20241023012845/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) — "This sequel to Gobliins 2 - The Prince Buffoon brings back… Fingus, and Winkle"; "the cruel conqueror Karcassio"
+[^ref-32]: [itch.io – Quest for Infamy: Roehm to Ruin by Infamous Quests](https://infamousquests.itch.io/qfi-rtr) — "A prequel to Quest for Infamy."

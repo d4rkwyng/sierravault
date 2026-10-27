@@ -245,7 +245,7 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-28]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – released King's Quest I, King's Quest II: Romancing the Stones, King's Quest III Redux, Quest for Glory II remakes
 [^ref-29]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – "In 2006, Infamous Adventures released an unofficial remake"
 [^ref-30]: [Wikipedia – Space Quest II](https://en.wikipedia.org/wiki/Space_Quest_II) – Infamous Adventures remake "released on New Year's Eve 2011"
-[^ref-31]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – episodic King's Quest fan game by Phoenix Online Studios, from July 18, 2010
+[^ref-31]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – episodic King's Quest fan game by Phoenix Online Studios; Episode 1 July 10, 2010 (some sources, including Wikipedia's infobox, give July 18)
 [^ref-32]: [Kotaku – Sierra Founders Ken & Roberta Williams Talk About Their Past (And Future) (Luke Plunkett, 2022)](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) – Cygnus Entertainment roles; idea came "January/February of 2021"
 [^ref-33]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – 3D remake "released by Cygnus Entertainment as its first title on January 19, 2023"
 [^ref-34]: [The Virtual Broomcloset – Mark Crowe interview (2000)](https://www.wiw.org/~jess/markcrowe.html) – Crowe on joining Sierra: "Set the dial to 1982!"
