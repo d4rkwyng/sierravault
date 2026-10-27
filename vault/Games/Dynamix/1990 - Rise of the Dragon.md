@@ -265,7 +265,6 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 - [Internet Archive – Manual](https://archive.org/stream/Rise_of_the_Dragon_1993_Dynamix_US/Rise_of_the_Dragon_1993_Dynamix_US_djvu.txt)
 
 **Manuals & Extras**
-- [Lemon Amiga – Manual](https://www.lemonamiga.com/doc/rise-of-the-dragon/1350)
 
 ## See Also
 
