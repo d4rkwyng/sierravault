@@ -4,7 +4,7 @@ type: publisher
 founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
-parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008)"
+parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
 last_updated: '2026-10-26'
 ---
 # Sierra On-Line
@@ -23,9 +23,11 @@ Sierra On-Line (originally On-Line Systems, later Sierra Entertainment) was the 
 | 1982–2002 | Sierra On-Line | Renamed after moving to Oakhurst, California; MobyGames lists the name from 1982 to December 2001[^ref-1][^ref-2] |
 | 2002–2008 | Sierra Entertainment | Name change announced February 19, 2002[^ref-1] |
 
+Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "SIER".[^ref-24]
+
 On March 8, 1991, Sierra and Broderbund announced a letter of intent to merge. The combined company was to be called Sierra-Broderbund, Inc., with Ken Williams as CEO. The talks were terminated on March 27, 1991.[^ref-18][^ref-19]
 
-Sierra was independent until 1996. In February 1996 it agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion, and the deal closed on July 24, 1996.[^ref-3][^ref-16][^ref-1] Ken Williams, Sierra's president until the sale, stayed on to guide its strategic direction until November 1997.[^ref-6] In December 1997 CUC merged with HFS Incorporated to form Cendant.[^ref-1] Cendant completed the sale of its consumer software division, Sierra included, to Havas SA, a subsidiary of Vivendi, on January 12, 1999.[^ref-17][^ref-22] Havas was later renamed Vivendi Universal Publishing.[^ref-1][^ref-16]
+Sierra was independent until 1996. In February 1996 it agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion, and the deal closed on July 24, 1996.[^ref-3][^ref-16][^ref-1] Ken Williams, Sierra's founder, chairman and CEO,[^ref-25][^ref-26] stayed on to guide its strategic direction until November 1997.[^ref-6] Michael Brochu had been Sierra's president and chief operating officer since October 1995.[^ref-25] In December 1997 CUC merged with HFS Incorporated to form Cendant.[^ref-1] Cendant completed the sale of its consumer software division, Sierra included, to Havas SA, a subsidiary of Vivendi, on January 12, 1999.[^ref-17][^ref-22] Havas was later renamed Vivendi Universal Publishing.[^ref-1][^ref-16]
 
 On February 22, 1999 ("Chainsaw Monday"), Sierra closed its Oakhurst office.[^ref-22] Sierra was formally disestablished as a company and re-formed as a division in August 2004. The division continued through Vivendi Games' merger with Activision on July 9, 2008,[^ref-23] but was shut down later that year. Activision revived the Sierra brand in 2014.[^ref-1]
 
@@ -51,7 +53,7 @@ Gale's company history describes four brands instead: Sierra Attractions, Sierra
 - **[[Impressions Games|Impressions Games]]** (acquired 1995) - Strategy and city-building games[^ref-16]
 - **[[Papyrus Design Group|Papyrus Design Group]]** (acquired 1995) - Racing simulations[^ref-16]
 - **SubLogic** (acquired 1995) - Flight simulation[^ref-16]
-- **[[Synergistic Software|Synergistic Software]]** (acquired 1996; folded into Sierra in February 1999) - Sports simulations, RPGs[^ref-1][^ref-21]
+- **[[Synergistic Software|Synergistic Software]]** (acquired 1996; closed February 22, 1999) - Sports simulations, RPGs[^ref-1][^ref-21]
 - **[[Publishers/Berkeley Systems|Berkeley Systems]]** - Bought by CUC International in April 1997 and placed under Sierra[^ref-1][^ref-20]
 - **Books That Work** (April 1997) and **PyroTechnix** (December 1997)[^ref-1]
 
@@ -99,7 +101,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1982** — [[1982 - Pest Patrol|Pest Patrol]] — Notes: Fixed shooter
 
 #### Licensed/Published Titles
-- **1982** — [[1982 - Ultima II - The Revenge of the Enchantress|Ultima II]] — Notes: Richard Garriott (Origin)
+- **1982** — [[1982 - Ultima II - The Revenge of the Enchantress|Ultima II]] — Notes: Richard Garriott; before he founded Origin
 
 ### SierraVision/Early Sierra Era (1983-1984)
 
@@ -150,7 +152,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Notes: Murry & Evryware
 
 #### Other Adventures & Games
-- **1985** — [[1985 - Thexder|Thexder]] — Notes: Game Arts (Japan)
+- **1985** — [[1985 - Thexder|Thexder]] — Notes: Game Arts (Japan); 1985 is the Japanese original, Sierra's US versions followed in 1987
 - **1986** — [[1986 - Kempelen|Kempelen]] — Notes: Chess
 - **1986** — [[1986 - Wrath of Denethenor|Wrath of Denethenor]] — Notes: RPG
 - **1987** — [[1987 - 3-D Helicopter Simulator|3-D Helicopter Simulator]] — Notes: Sierra
@@ -167,7 +169,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Notes: Laura Bow series
 - **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2]] — Notes: Manhunter series
 - **1990** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Notes: Jim Walls
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Notes: First VGA adventure
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Notes: First King's Quest with 256-colour VGA; first SCI1 adventure
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] — Notes: QFG series
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] — Notes: Christy Marx
 - **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Notes: Remake
@@ -335,7 +337,7 @@ Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were publi
 - **1997** — [[1997 - Hoyle Poker|Hoyle Poker]] — Notes: Poker games
 - **1997** — [[1997 - Hoyle Classic Board Games|Hoyle Classic Board Games]] — Notes: Board games
 - **1998** — [[1998 - Hoyle Battling Ships and War|Hoyle Battling Ships]] — Notes: Strategy games
-- **1999-2008** — See [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle]] series — Game: *Multiple annual Hoyle releases*
+- **1999-2004** — See [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle]] series — Game: *Multiple annual Hoyle releases*; Encore took over the Hoyle line effective December 23, 2004[^ref-27]
 
 #### Lode Runner (Presage Software)
 - **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Notes: Remake
@@ -444,7 +446,7 @@ Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were publi
 
 #### Casual & Party Games
 - **2004** — [[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry: Magna Cum Laude]] — Notes: Comedy reboot
-- **2006** — [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] — Notes: Xbox 360
+- **2006** — [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] — Notes: Windows December 20, 2006; Xbox 360 April 18, 2007
 
 ### Third-Party Published Titles
 
@@ -453,7 +455,7 @@ Sierra published or distributed these games from outside developers:
 | Year | Game | Developer | Notes |
 |------|------|-----------|-------|
 | 1997 | Diablo: Hellfire | Synergistic | Expansion; Synergistic was a Sierra division, and Sierra published it on November 24, 1997[^ref-1] |
-| 1995-2000 | You Don't Know Jack series | Jellyvision | Trivia games |
+| 1997-2000 | You Don't Know Jack series | Jellyvision | Trivia games; Berkeley Systems, under Sierra from 1997[^ref-20][^ref-1] |
 | 1988 | Silpheed | Game Arts | Japanese shooter |
 | 1990 | Zeliard | Game Arts | Action RPG |
 | 1990 | Sorcerian | Game Arts | RPG |
@@ -480,7 +482,7 @@ After the 1998 reorganization, many releases carried sub-labels such as Sierra S
 [^ref-2]: [MobyGames - Sierra Entertainment, Inc.](https://www.mobygames.com/company/17/sierra-entertainment-inc/) - AKA "Sierra On-Line, Inc. (from 1982 to 2001-12)"; Sierra Attractions ("3-D Ultra' line") ([archived December 2024](https://web.archive.org/web/20241217195137/https://www.mobygames.com/company/17/sierra-entertainment-inc/))
 [^ref-3]: [The Digital Antiquarian - The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) - Quotes the CUC–Sierra announcement: "The transaction is valued at approximately $1.06 billion"
 [^ref-5]: [Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](https://www.amazon.com/dp/1716727367) - Ken Williams memoir (ISBN 978-1716727368)
-[^ref-6]: [Wikipedia - Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - President of Sierra until the July 1996 sale to CUC; "stayed on to guide its strategic direction until November 1997"
+[^ref-6]: [Wikipedia - Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - "stayed on to guide its strategic direction until November 1997"
 [^ref-7]: [Wikipedia - Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) - "Williams co-founded Sierra On-Line with her husband"
 [^ref-12]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) - AGI developed for King's Quest (1984)
 [^ref-13]: [Wikipedia - Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) - "Sierra introduced SCI in 1988 with King's Quest IV"
@@ -492,3 +494,7 @@ After the 1998 reorganization, many releases carried sub-labels such as Sierra S
 [^ref-21]: [Wikipedia - Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) - "Synergistic was acquired by Sierra On-Line in 1996"; closed February 22, 1999
 [^ref-22]: [The Digital Antiquarian - The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) - Havas deal announced November 20, 1998; February 22, 1999: "The Oakhurst office was closing"
 [^ref-23]: [Activision press release - Vivendi and Activision Complete Transaction to Create Activision Blizzard (Wayback)](https://web.archive.org/web/20190402162732/https://investor.activision.com/news-releases/news-release-details/vivendi-and-activision-complete-transaction-create-activision) - "approved by Activision's stockholders ... on July 8, 2008 and closed on July 9, 2008"
+[^ref-24]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990), Internet Archive](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) - p.12: "In October of 1988, one year after 'Black Monday,' Sierra did finally go public, at $9.00 a share ... NASDAQ Exchange under 'Sier'"
+[^ref-25]: [The Seattle Times - "Sierra's Game Plan" (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) - Brochu "became president and chief operating officer last October"; "Sierra founder and chairman Ken Williams"
+[^ref-26]: [SierraGamers - Ken Williams (Wayback)](http://web.archive.org/web/20260728010152/https://www.sierragamers.com/ken-williams/) - Ken Williams: "I was Sierra's Chairman and CEO throughout the 18 year period from 1979 to 1996"
+[^ref-27]: [Worthplaying - Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) - "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing activities for the Hoyle family of products"

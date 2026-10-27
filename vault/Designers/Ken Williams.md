@@ -5,11 +5,11 @@ birth_year: 1954
 death_year: null
 notable_games: ["Mystery House", "The Wizard and the Princess", "Colossal Cave 3D Adventure"]
 companies: ["On-Line Systems", "Sierra On-Line", "CUC International", "Cygnus Entertainment"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Ken Williams
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -140,7 +140,7 @@ Credits follow MobyGames unless noted.[^ref-15]
 [^ref-7]: [LA Times - Kings Quest Roberta Ken Williams Colossal Cave 3D](https://www.latimes.com/entertainment-arts/story/2022-08-25/kings-quest-roberta-ken-williams-colosssal-cave-3d) — August 25, 2022: first new game in about 25 years, noncompete, venture capital quote from his memoir
 [^ref-13]: [MobyGames Ken Williams Profile (Wayback, May 2023)](https://web.archive.org/web/20230517105719/https://www.mobygames.com/person/59/ken-williams/) — Biography: birth, Control Data Institute, NetMarket at CUC, SierraGamers (2003), Sans Souci
 [^ref-15]: [MobyGames Ken Williams Credits (Wayback, May 2024)](https://web.archive.org/web/20240505105836/https://www.mobygames.com/person/59/ken-williams/credits/) — Credits by role, 90 games
-[^ref-16]: [Wikipedia – Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) — President until July 1996, stayed until November 1997, 2014 Industry Icons award, memoir release date
+[^ref-16]: [Wikipedia – Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) — Stayed until November 1997, 2014 Industry Icons award, memoir release date
 [^ref-17]: [Sierra Gamers Ken Williams](https://www.sierragamers.com/ken-williams/) — Ken's own biography and Q&A: birth, Control Data Institute, "18 year period", Executive Producer title, technology group, "Kens Laws", Talkspot
 [^ref-18]: [Ars Technica - Roberta and Ken Williams Open Up](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) — April 2022: first video game in 25 years
 [^ref-20]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699000391/0000950136-99-000391.txt) — "On April 15, 1998, we announced that … we discovered accounting irregularities in certain CUC business units"

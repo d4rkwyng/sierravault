@@ -18,8 +18,8 @@ The lineage breaks into seven eras:
 
 1. **On-Line Systems** (1979–1982) — Founding, in the Williams' Simi Valley home, then Coarsegold and Oakhurst, CA.
 2. **Sierra On-Line, independent** (1982–1996) — IPO era, flagship-series creation, acquired-studio growth.
-3. **CUC International / Cendant** (1996–1998) — Acquisition by a consumer-services rollup that collapsed in an accounting scandal.
-4. **Havas Interactive** (1998–2001) — Sale to Vivendi's French media subsidiary Havas.
+3. **CUC International / Cendant** (1996–1999) — Acquisition by a consumer-services rollup that collapsed in an accounting scandal.
+4. **Havas Interactive** (1999–2001) — Sale to Vivendi's French media subsidiary Havas.
 5. **Vivendi Universal Games** (2001–2008) — Sierra Entertainment label inside Vivendi's games division.
 6. **Activision Blizzard / Activision** (2008–2023) — Sierra divisions passed to Activision in the 2008 merger; the brand was briefly revived as an indie label in 2014.
 7. **Microsoft Gaming** (2023–present) — Sierra IPs absorbed into Microsoft's catalog via the Activision Blizzard acquisition.
