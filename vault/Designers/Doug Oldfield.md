@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Space Quest III", "Police Quest III", "Police Quest: Open Season", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Doug Oldfield
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Doug Oldfield is an American programmer whose Sierra credits run from Manhunter: New York (1988) to Quest for Glory V: Dragon Fire (1998); MobyGames credits him on 18 games.[^ref-1] He was lead programmer on Police Quest III: The Kindred, Police Quest: Open Season, EcoQuest 2 and Phantasmagoria, and worked on the King's Quest and Space Quest series.[^ref-1][^ref-11][^ref-18][^ref-10][^ref-12]
+Doug Oldfield is a programmer whose Sierra credits run from Manhunter: New York (1988) to Quest for Glory V: Dragon Fire (1998); MobyGames credits him on 18 games.[^ref-1] He was lead programmer on Police Quest III: The Kindred, Police Quest: Open Season, EcoQuest 2 and Phantasmagoria, and worked on the King's Quest and Space Quest series.[^ref-1][^ref-11][^ref-18][^ref-10][^ref-12]
 
 Space Quest co-creator Scott Murphy calls him "the actual creator of Astro Chicken and Ms. Astro Chicken": his program "Chicken Lander" inspired the Astro Chicken arcade game in Space Quest III: The Pirates of Pestulon.[^ref-13][^ref-3]
 
@@ -25,7 +25,7 @@ According to Scott Murphy, Oldfield first "got a job at a fledgling company call
 
 His earliest MobyGames credits are the Apple II version of Manhunter: New York (1988) and "Found the trickier bugs" on King's Quest IV: The Perils of Rosella (1988).[^ref-1] On Space Quest III (1989) he was one of the core programmers; the manual reads "Programmed by Mark Crowe, Scott Murphy, Doug Oldfield, Ken Koch and Chris Smith".[^ref-14][^ref-4]
 
-In 1990 he was one of the programmers on Code-Name: Iceman, King's Quest V and Conquests of Camelot, and did the Apple II conversion of Mixed-Up Mother Goose.[^ref-1][^ref-6][^ref-15][^ref-9] He was lead programmer on Police Quest III: The Kindred (1991).[^ref-11] He had an "Additional Programming" credit on King's Quest VI (1992), alongside Carlos Escobar.[^ref-5][^ref-17]
+In 1990 he was one of the programmers on Code-Name: Iceman, King's Quest V and Conquests of Camelot, and did the Apple II conversion of Mixed-Up Mother Goose.[^ref-1][^ref-6][^ref-19][^ref-15][^ref-9] He was lead programmer on Police Quest III: The Kindred (1991).[^ref-11] He had an "Additional Programming" credit on King's Quest VI (1992), alongside Carlos Escobar.[^ref-5][^ref-17] Al Lowe recalls that Robert Lindsley wrote a batch file that showed a random Carlos Escobar quip at startup, and that it "was later turned into a program by Doug Oldfield which floated around the company for years".[^ref-20]
 
 ### Later Projects
 
@@ -41,7 +41,7 @@ On [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] Oldfield
 
 ### Code-Name: Iceman (1990)
 
-On [[1990 - Codename - Iceman|Code-Name: Iceman]] MobyGames credits Oldfield with programming.[^ref-6][^ref-1] A 1989 Sierra News Magazine feature on the game pictured him with Pablo Ghenis and Mark Hood.[^ref-1]
+On [[1990 - Codename - Iceman|Code-Name: Iceman]] MobyGames credits Oldfield with programming.[^ref-6][^ref-1] Sierra News Magazine's Autumn 1989 preview of the game pictured him with Pablo Ghenis and Mark Hood, captioned "Programmers: Pablo Ghenis, Mark Hood, and Doug Oldfield".[^ref-19][^ref-1]
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
@@ -65,7 +65,7 @@ Oldfield shared the lead programming credit on [[1993 - EcoQuest - Lost Secret o
 
 ## Legacy
 
-Murphy said of Oldfield that "I don't think he ever got enough credit."[^ref-13] His credits run from disk-copying at On-Line Systems through lead programming roles on Police Quest III, Police Quest: Open Season and Phantasmagoria.[^ref-13][^ref-1] Astro Chicken, which grew out of his "Chicken Lander" program, remains his best-known creative contribution.[^ref-3]
+Murphy said of Oldfield that "I don't think he ever got enough credit."[^ref-13] His credits run from disk-copying at On-Line Systems through lead programming roles on Police Quest III, Police Quest: Open Season and Phantasmagoria.[^ref-13][^ref-1] Murphy also called him "the actual creator of Astro Chicken and Ms. Astro Chicken"; Astro Chicken grew out of his "Chicken Lander" program.[^ref-13][^ref-3]
 
 ## Games
 
@@ -106,5 +106,7 @@ Murphy said of Oldfield that "I don't think he ever got enough credit."[^ref-13]
 [^ref-14]: [Space Quest III Manual (Internet Archive)](https://archive.org/stream/Space_Quest_3_-_Manual/Space_Quest_3_-_Manual_djvu.txt) — "Programmed by Mark Crowe, Scott Murphy, Doug Oldfield, Ken Koch and Chris Smith"
 [^ref-15]: [King's Quest V Manual (Internet Archive)](https://archive.org/stream/Kings_Quest_5_-_Manual/Kings_Quest_5_-_Manual_djvu.txt) — Programmers list including Doug Oldfield
 [^ref-16]: [King's Quest VII Manual (Internet Archive)](https://archive.org/stream/Kings_Quest_7_-_Manual/Kings_Quest_7_-_Manual_djvu.txt) — Programmers list including Doug Oldfield
-[^ref-17]: [Sierra Wiki - King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar" (matches the in-game credits transcribed by TCRF)
+[^ref-17]: [Sierra Wiki - King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
 [^ref-18]: [MobyGames - Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) — Credits: Lead Programmer Doug Oldfield
+[^ref-19]: [Sierra News Magazine, Vol. 2 No. 2, Autumn 1989 (Internet Archive)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989/page/n6/mode/2up) — Codename: Iceman preview, page 7: "Programmers: Pablo Ghenis, Mark Hood, and Doug Oldfield"
+[^ref-20]: [Al Lowe - Carlos Says](http://allowe.com/laughs/book/Carlos%20Says.htm) — Lindsley's Carlos Escobar quote batch file "was later turned into a program by Doug Oldfield which floated around the company for years"

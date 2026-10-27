@@ -110,7 +110,7 @@ The game was built on the new SCI1 interpreter.[^ref-1] [[Corey Cole]], credited
 - **Executive Producer:** [[Ken Williams]]
 - **Creative Director:** [[Bill Davis]]
 - **Lead Programmer:** Chris Iden
-- **Programmers:** Oliver Brelsford, Juan Carlos Escobar, Doug Oldfield, Chris Hoyt, Raoul Said, Robert W. Lindsley
+- **Programmers:** Chris Iden, Oliver Brelsford, Juan Carlos Escobar, [[Doug Oldfield]], Chris Hoyt, Raoul Said, Robert W. Lindsley[^ref-56]
 - **Art Designer:** [[Andy Hoyos]]
 - **Artists:** Deena Benz, Ernie Chan, Jeff Crowe, Tamra Dayton, Dana Dean, Roger Hardy, Douglas Herring, Eric Kasner, Jim Larsen
 - **Composers:** [[Mark Seibert]], [[Ken Allen]]

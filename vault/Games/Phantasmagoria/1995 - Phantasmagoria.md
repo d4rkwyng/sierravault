@@ -117,7 +117,7 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 - **Director:** Peter Maris[^ref-1][^ref-9]
 - **Producers:** J. Mark Hood, Stanley Liu, [[Mark Seibert]], Roberta Williams (MobyGames; Wikipedia lists Seibert, Hood and Williams)[^ref-1][^ref-9]
 - **Art Directors:** Albert Co, Andy Hoyos
-- **Lead Programming:** Doug Oldfield
+- **Lead Programming:** [[Doug Oldfield]]
 - **Composers:** Mark Seibert, Jay Usher
 - **Lead Actress:** Victoria Morsell (Adrienne Delaney)
 - **Lead Actor:** David Homb (Don Gordon)

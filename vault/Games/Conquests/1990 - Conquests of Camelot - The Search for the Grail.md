@@ -119,7 +119,7 @@ Marx brought her background in television writing to the project, having previou
 
 ### Production
 
-The development team structure placed Marx in charge of writing and structural design while Ledger handled visual design and illustrations.[^ref-1] The programming team was led by David Slayback, with assistance from Robert Fischbach, Doug Oldfield, Jerry Shaw, and Eric Hart.[^ref-2] Additional animators on the project included Douglas Herring, Kenn Nishiuye, Andy Hoyos, and Jennifer Shontz.[^ref-31]
+The development team structure placed Marx in charge of writing and structural design while Ledger handled visual design and illustrations.[^ref-1] The programming team was led by David Slayback, with assistance from Robert Fischbach, [[Doug Oldfield]], Jerry Shaw, and Eric Hart.[^ref-2] Additional animators on the project included Douglas Herring, Kenn Nishiuye, Andy Hoyos, and Jennifer Shontz.[^ref-31]
 
 The game underwent significant revision between its demonstration version shown in Sierra's 1989 video catalog and the final release. Early versions featured notable differences including a cyan-colored parser input text box and different graphical elements such as swastika corner symbols on the dock screen (later removed).[^ref-23] The original working title was "King Arthur and the Search for the Grail," which changed to "Conquest of Camelot" (without the 's') before settling on the final title.[^ref-23] The original era setting was 900 AD, later changed to 800 AD in the final version.[^ref-23]
 
