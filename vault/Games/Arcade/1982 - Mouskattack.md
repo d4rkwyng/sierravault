@@ -10,28 +10,30 @@ series: Standalone
 engine: Machine Language
 protagonist: Larry Bain
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Mouskattack is an action arcade game developed and published by On-Line
-  Systems (later Sierra On-Line) in 1982. The game is a Pac-Man variant that casts...
+  Systems (later Sierra On-Line) in 1982. The game is a Pac-Man variant that casts
+  players as Larry Bain, a plumber laying pipe through the rat-infested tunnels of
+  Rat Alley.
 tags: [1980s, sierra, standalone]
 ---
 # Mouskattack
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Mouskattack is an action arcade game developed and published by On-Line Systems (later Sierra On-Line) in 1982.[^ref-1][^ref-2][^ref-16] Written by John Harris (author of *Jawbreaker*) from an original idea by [[Ken Williams]], the game casts players as Larry Bain, "ace plumber" for the Rodent Rooter plumbing service, whose job is "to install pipe through the many levels of RAT ALLEY" while giant rats roam its tunnels.[^ref-16][^ref-17][^ref-18] On-Line Systems' advertising described it as "an unbeatable blend of quick thinking arcade action for one or two players."[^ref-5][^ref-16]
+Mouskattack is an action arcade game developed and published by On-Line Systems (later Sierra On-Line) in 1982.[^ref-1][^ref-2][^ref-16] Written by John Harris (author of *[[1981 - Jawbreaker|Jawbreaker]]*) from an original idea by [[Ken Williams]], the game casts players as Larry Bain, "ace plumber" for the Rodent Rooter plumbing service, whose job is "to install pipe through the many levels of RAT ALLEY" while giant rats roam its tunnels.[^ref-16][^ref-17][^ref-18] On-Line Systems' advertising described it as "an unbeatable blend of quick thinking arcade action for one or two players."[^ref-5][^ref-16]
 
-Harris began the game in November 1981 and finished it for the Atari 400/800 early in 1982; it "was promptly translated for the Apple," and an IBM PC version followed under the Sierra On-Line name.[^ref-17][^ref-22] Its maze-chase play closely resembles Namco's Pac-Man, but players lay pipe rather than eat dots and defend themselves with mouse traps and cats.[^ref-6][^ref-19][^ref-20]
+Harris began the game in November 1981 and finished it for the Atari 400/800 early in 1982; it "was promptly translated for the Apple," and an IBM PC version followed under the Sierra On-Line name.[^ref-17][^ref-22] Its maze-chase play closely resembles Pac-Man,[^ref-2][^ref-5][^ref-6] but players lay pipe rather than eat dots and defend themselves with mouse traps and cats.[^ref-19][^ref-20]
 
-Mouskattack was not a commercial hit. Softline's 1982 profile of Harris called it "not nearly as successful as Jawbreaker," a game that got "lost in the flood."[^ref-17][^ref-9] Its code descends from On-Line Systems' earlier Pac-Man-style games, which makes it a footnote in Sierra's early arcade efforts.[^ref-5][^ref-12]
+Mouskattack was not a commercial hit. Softline's 1982 profile of Harris called it "not nearly as successful as Jawbreaker," a game that got "lost in the flood."[^ref-17][^ref-9] Sierra Chest says its code was based on Harris's earlier *Jawbreaker*.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1][^ref-2]
 > **Designer:** John Harris, [[Ken Williams]], Al Nystrom[^ref-5][^ref-16]
 > **Publisher:** On-Line Systems (Atari, Apple II); Sierra On-Line (IBM PC)[^ref-16][^ref-18][^ref-22]
-> **Engine:** Machine Language[^ref-5]
+> **Engine:** Machine Language[^ref-5][^ref-23]
 > **Platforms:** Apple II, Atari 400/800, IBM PC[^ref-2][^ref-5][^ref-14][^ref-16]
 > **Release Year:** 1982[^ref-3][^ref-7][^ref-12][^ref-17][^ref-18]
 > **Series:** None
@@ -44,13 +46,13 @@ Mouskattack presents a simple premise rooted in blue-collar humor.[^ref-16] The 
 
 Players take the role of Larry Bain, "ace Plumber, of Rodent Rooter plumbing service."[^ref-16][^ref-18] His job is to pipe the whole of Rat Alley while fending off the giant rats that chase him through its tunnels, using the traps and cats his employer supplies.[^ref-19][^ref-20][^ref-22]
 
-The character of Larry Bain was based on a real person who worked at Sierra.[^ref-5] According to John Williams, as recounted by Sierra Chest, Bain disappeared shortly after the game was launched and was never seen again.[^ref-5]
+Sierra Chest says the character was named after a Sierra employee.[^ref-5]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mouskattack uses a top-down perspective typical of maze-chase games of the era.[^ref-2][^ref-4] Players steer Larry Bain with a joystick or keyboard; on the keyboard the player defines keys for up, down, left, right and "carry."[^ref-5][^ref-22] The Atari and Apple versions support one or two players, and the two-player option was "a first for John Harris games." The IBM PC version is one player only.[^ref-19][^ref-21]
+Mouskattack uses a top-down perspective typical of maze-chase games of the era.[^ref-2][^ref-4] Players steer Larry Bain with a joystick or keyboard; on the keyboard the player defines keys for up, down, left, right and "carry."[^ref-5][^ref-22] The Atari and Apple versions support one or two players, and the two-player option was "a first for John Harris games."[^ref-19] In the two-player game the manual adds a rival, Peter Pipefitter of Peters Piping Service, and each plumber's cats are trained to attack the other.[^ref-23] Sierra's catalog says the IBM PC version is one player only, although MobyGames lists its PC Booter release as supporting 1-2 players.[^ref-21][^ref-2]
 
 ### Structure and Progression
 
@@ -58,7 +60,7 @@ Pipe is laid automatically as the plumber moves through the maze, and the whole 
 
 ### Puzzles and Mechanics
 
-Larry is pursued through the corridors by giant rats.[^ref-19][^ref-20] His defenses are traps and cats: the SD-ACE review lists two mousetraps and two cats, while the IBM PC review describes starting with three plumbers, two cats and a single trap.[^ref-19][^ref-22] Trapped rats hold only briefly and can be killed by running over them.[^ref-20][^ref-22] The cats do not attack, but their presence turns ordinary rats aside, and the player can carry and place them anywhere in the maze.[^ref-20][^ref-22] Kill too many ordinary rats, or let one escape a trap, and a Super Rat appears, which ignores the cats.[^ref-20][^ref-22] The combination of maze traversal, pursuit evasion and trap and cat placement is the "quick thinking arcade action" the advertising promised.[^ref-16]
+Larry is pursued through the corridors by giant rats.[^ref-19][^ref-20] His defenses are traps and cats: the SD-ACE review lists two mousetraps and two cats, while the IBM PC review and the Apple II manual both describe starting with three plumbers, two cats and a single trap.[^ref-19][^ref-22][^ref-23] The manual says fresh cats and traps are dropped in the centre of the maze from time to time.[^ref-23] Trapped rats hold only briefly and can be killed by running over them.[^ref-20][^ref-22] The cats do not attack, but their presence turns ordinary rats aside, and the player can carry and place them anywhere in the maze.[^ref-20][^ref-22] Kill too many ordinary rats, or let one escape a trap, and a Super Rat appears.[^ref-20][^ref-22] Electronic Games says Super Rats "eat cats, traps and plumbers," and the manual warns that "Super rats eat cats, WHOLE!"; Electronic Fun's IBM PC review instead says they "totally ignore" the cats.[^ref-20][^ref-23][^ref-22] The combination of maze traversal, pursuit evasion and trap and cat placement is the "quick thinking arcade action" the advertising promised.[^ref-16]
 
 ## Reception
 
@@ -67,7 +69,7 @@ Larry is pursued through the corridors by giant rats.[^ref-19][^ref-20] His defe
 Mouskattack drew several contemporary reviews:
 
 - **SD-ACE newsletter (San Diego Atari Computer Enthusiasts), March 1982:** Perris Baxter praised its "spectacular graphics" and found the two-player game "more fun to play."[^ref-19]
-- **Electronic Games, July 1982:** The magazine noted that it "takes the now-famous Jawbreaker maze" and compared it to the arcade game *Frisky Tom*. It judged the play mechanics "tiresome," the graphics "only mediocre, at least by On-Line's incredibly high standards," and the instructions "cute but scanty."[^ref-20]
+- **Electronic Games, July 1982:** Reviewer Bill Kunkel noted that it "takes the now-famous Jawbreaker maze" and compared it to the arcade game *Frisky Tom*. It judged the play mechanics "tiresome," the graphics "only mediocre, at least by On-Line's incredibly high standards," and the instructions "cute but scanty."[^ref-20]
 - **Electronic Fun with Computers & Games, September 1983 (IBM PC):** Hartley G. Lesser called it "very challenging," though he complained that the rats looked "a good deal like a teddy bear."[^ref-22]
 
 ### Modern Assessment
@@ -85,7 +87,7 @@ Modern gaming databases carry a handful of user ratings for Mouskattack.[^ref-1]
 
 Mouskattack grew out of On-Line Systems' early Pac-Man-style arcade games. Softline reported that after *Jawbreaker*, Harris wanted to stop "taking someone else's idea and changing it," and his next assignment was "an original idea of Ken Williams's."[^ref-17] According to Sierra Chest, the game's code was based on *Jawbreaker*, which Sierra Chest describes as a modification of the earlier *Gobbler*, and it says the company was sued over *Gobbler* for resembling Pac-Man too much.[^ref-5] Softline's contemporary account instead ties the legal pressure to *Jawbreaker*. It reports that Atari lost a bid for an injunction against it and that Midway threatened On-Line with legal action.[^ref-17]
 
-The original Atari version was written by John Harris, who was John Williams' roommate at the time.[^ref-5] Softline says Harris started it in November 1981 and finished it "early this year" (1982) for the Atari.[^ref-17] John Williams later recalled that Harris "whipped it out in less than two weeks."[^ref-5] On-Line Systems advertised the game in Softline (Vol. 1 No. 3, 1982), crediting it to "John Harris and Ken Williams," and in Antic's April 1982 issue as "an original arcade game by JOHN HARRIS (author of Jawbreaker)."[^ref-16][^ref-18]
+The original Atari version was written by John Harris, who was John Williams' roommate at the time.[^ref-5] Softline says Harris started it in November 1981 and finished it "early this year" (1982) for the Atari.[^ref-17] Sierra Chest says John Williams thinks Harris "whipped it out in less than two weeks", which sits awkwardly with Softline's November-to-early-1982 timeline.[^ref-5][^ref-17] On-Line Systems advertised the game in Softline (Vol. 1 No. 3, 1982), crediting it to "John Harris and Ken Williams," and in Antic's April 1982 issue as "an original arcade game by JOHN HARRIS (author of Jawbreaker)."[^ref-16][^ref-18]
 
 ### Production
 
@@ -100,7 +102,7 @@ By John Williams' account, Mouskattack "wasn't a great seller."[^ref-5] Softline
 
 ### Technical Achievements
 
-Mouskattack was programmed in machine language.[^ref-5][^ref-20]
+Mouskattack was programmed in machine language; the manual advertises it as "100% Machine Language."[^ref-5][^ref-20][^ref-23]
 
 ### Technical Specifications
 
@@ -120,22 +122,22 @@ Mouskattack was programmed in machine language.[^ref-5][^ref-20]
 
 **IBM PC Version:**[^ref-2]
 - **Media:** 5.25" Floppy Disk
-- **Players:** 1 Player[^ref-21]
+- **Players:** 1 Player per Sierra's catalog; MobyGames lists 1-2 Players[^ref-21][^ref-2]
 - **Business Model:** Commercial[^ref-2]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | Early 1982 (begun November 1981) | Atari 400/800 | Original by John Harris[^ref-17][^ref-18] |
-| 1.0 | Early 1982 | Apple II | Remake by Ken Williams and Al Nystrom with different maze[^ref-5][^ref-17][^ref-15] |
-| 1.0 | By 1983 | IBM PC Booter | Port by Dick Taylor; Sierra On-Line, one player only[^ref-2][^ref-21][^ref-22] |
+| Original | Early 1982 (begun November 1981) | Atari 400/800 | Original by John Harris[^ref-17][^ref-18] |
+| Remake | Early 1982 (MobyGames: June 1982) | Apple II | Remake by Ken Williams and Al Nystrom with different maze[^ref-5][^ref-17][^ref-2] |
+| Port | By 1983 (MobyGames: 1982) | IBM PC Booter | Port by Dick Taylor; Sierra On-Line; one player only per Sierra's catalog (MobyGames lists 1-2)[^ref-2][^ref-21][^ref-22] |
 
 ### Easter Eggs and Trivia
 
-- **Real Person Protagonist:** Larry Bain was a real Sierra employee who, according to John Williams, disappeared shortly after the game was launched and was never seen again.[^ref-5]
+- **Real Person Protagonist:** Sierra Chest says Larry Bain was named after a Sierra employee.[^ref-5]
 - **Roommate Development:** Programmer John Harris was John Williams' roommate when he wrote the original Atari version of the game.[^ref-5]
-- **Rapid Development:** John Williams recalled that Harris "whipped it out in less than two weeks."[^ref-5]
+- **Rapid Development:** Sierra Chest says John Williams thinks Harris "whipped it out in less than two weeks."[^ref-5]
 - **Code Heritage:** Sierra Chest says the code came from *Jawbreaker*, Harris's earlier maze game, which drew legal threats over its resemblance to Pac-Man.[^ref-5][^ref-17]
 - **Platform Differences:** The Apple II version has a different maze layout from the Atari original.[^ref-5]
 - **Super Rats:** The Super Rats wear a big red "S" on their sweaters.[^ref-20]
@@ -144,7 +146,7 @@ Mouskattack was programmed in machine language.[^ref-5][^ref-20]
 
 ### Sales and Commercial Impact
 
-By John Williams' account, Mouskattack "wasn't a great seller."[^ref-5] Softline called it "not nearly as successful as Jawbreaker," and Retro365 likewise calls it "much lesser successful."[^ref-17][^ref-9] The title comes from On-Line Systems' period of arcade action games, before the company focused primarily on adventure games.[^ref-5]
+By John Williams' account, Mouskattack "wasn't a great seller."[^ref-5] Softline called it "not nearly as successful as Jawbreaker," and Retro365 likewise calls it "much less successful."[^ref-17][^ref-9]
 
 ### Collections
 
@@ -156,11 +158,11 @@ No significant fan remake or modification projects have been documented for Mous
 
 ### Related Publications
 
-- **Game Manual:** Original packaging included a physical manual describing gameplay and controls (exact specifications not documented in available research)
+- **Game Manual:** The Apple II manual, credited to "John Harris & Ken Williams," covers the story, one- and two-player play, keyboard and joystick controls, and scoring.[^ref-23]
 
 ### Critical Perspective
 
-Mouskattack is one of several arcade-style games Sierra produced before fully committing to the adventure genre that would make the company famous.[^ref-5] Its descent from the legally contested *Jawbreaker* codebase shows how freely early-1980s developers reused code and cloned gameplay, a practice that sometimes led to legal trouble.[^ref-5][^ref-17]
+Mouskattack is one of several arcade-style games On-Line Systems released in its early years.[^ref-5] Its descent from the legally contested *Jawbreaker* codebase shows how freely early-1980s developers reused code and cloned gameplay, a practice that sometimes led to legal trouble.[^ref-5][^ref-17]
 
 Today the game is best understood as a Pac-Man variant with some twists of its own: pipe-laying, mouse traps and cats.[^ref-6][^ref-20] It failed commercially, but it showed John Harris moving away from straight clones toward original designs.[^ref-17]
 
@@ -171,6 +173,9 @@ Today the game is best understood as a Pac-Man variant with some twists of its o
 
 **Download / Preservation**
 - [MyAbandonware – Mouskattack](https://www.myabandonware.com/game/mouskattack-7mk)[^ref-4]
+
+**Manuals & Extras**
+- [Mouskattack Game Manual (Apple II) – Internet Archive](https://archive.org/details/Mouskattack_Game_Manual)[^ref-23]
 
 **Wishlists / Community Interest**
 - [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist/game/mouskattack-1982)[^ref-6]
@@ -208,13 +213,11 @@ Today the game is best understood as a Pac-Man variant with some twists of its o
 
 [^ref-7]: [Internet Archive – MobyGames Mouskattack](https://web.archive.org/web/2019/https://www.mobygames.com/game/45477/mouskattack/) – archived MobyGames entry, 1982 release
 
-[^ref-9]: [Retro365 – Bits From My Personal Collection: Frogger](https://retro365.blog/2023/02/01/bits-from-my-personal-collection-frogger-finally-an-officially-licensed-game/) – "Following Jawbreaker, Harris went on the create the much lesser successful Mouskattack"
+[^ref-9]: [Retro365 – Bits From My Personal Collection: Frogger](https://retro365.blog/2023/02/01/bits-from-my-personal-collection-frogger-finally-an-officially-licensed-game/) – "Following Jawbreaker, Harris went on to create the much less successful Mouskattack" (live wording, checked 2026-10-27)
 
 [^ref-12]: [Internet Archive Atari Collection – Mouskattack](https://archive.org/details/a8b_Mouskattack_1981_Sierra_On_Line_US_t_a) – Atari 8-bit disk; metadata "Released Jan, 1982", developer On-Line Systems
 
 [^ref-14]: [The Video Games Museum – Mouskattack](https://www.video-games-museum.com/en/game/Mouskattack/37/3/12798) – Apple II entry, 1982
-
-[^ref-15]: [HexROM – Mouskattack ROM Collection](https://hexrom.com/mouskattack-1982on-line/) – Apple II image "Mouskattack (1982)(On-Line)"
 
 [^ref-16]: [Softline Vol. 1 No. 3 (1982) – Internet Archive](https://archive.org/details/Softline_Magazine_Issue_1.3) – On-Line Systems ad "by JOHN HARRIS and KEN WILLIAMS": Rodent Rooter plumbing service; $34.95; 48K Apple, 32K Atari 400/800
 [^ref-17]: [Softline Vol. 1 No. 5 (1982) – Internet Archive](https://archive.org/details/Softline_Magazine_Issue_1.5) – John Harris profile: "an original idea of Ken Williams's which Harris started in November 1981… finished early this year for Atari"
@@ -223,3 +226,4 @@ Today the game is best understood as a Pac-Man variant with some twists of its o
 [^ref-20]: [Electronic Games, July 1982 – Internet Archive](https://archive.org/details/electronic-games-1982-07) – review "Mouskattack/On-Line/Atari 400 & 800/32K disk": Jawbreaker maze, Frisky Tom comparison, traps, cats, super-rats
 [^ref-21]: [Sierra On-Line Software Catalog – Internet Archive](https://archive.org/details/Sierra_Online_Software_Catalog) – SierraVision listing: "One or two players (one player only on IBM version)"
 [^ref-22]: [Electronic Fun with Computers & Games, September 1983 – Internet Archive](https://archive.org/details/electronic-fun-with-computers-and-games-volume-1-number-11-september-1983) – "MOUSKATTACK / Sierra On-Line/IBM PC" review by Hartley G. Lesser
+[^ref-23]: [Apple Manual: Mouskattack Game Manual – Internet Archive](https://archive.org/details/Mouskattack_Game_Manual) – manual "by John Harris & Ken Williams": "Super rats eat cats, WHOLE!"; "three plumbers, two cats and a trap"; Peter Pipefitter two-player rival; "100% Machine Language"
