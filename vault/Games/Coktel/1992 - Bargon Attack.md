@@ -10,14 +10,14 @@ series: Coktel
 engine: Gob
 protagonist: Bob
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Bargon Attack is a French point-and-click adventure game released in
   1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered...
 tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -189,7 +189,7 @@ For modern players, the game runs successfully under ScummVM (supported since ve
 
 Bargon Attack remained one of Coktel Vision's lesser-known titles, overshadowed by the more successful Gobliiins series.[^ref-1] The game was released in Spain and France in 1992, with distribution expanding to other European territories including Germany, Italy, and the United Kingdom.[^ref-14] No sales figures have been publicly documented.
 
-Coktel Vision was bought by Sierra in 1992, the same year Bargon Attack was released, and later disappeared in the same mess that crushed Sierra's subsidiaries in the 2000s.[^ref-10] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
+Coktel Vision was acquired by Sierra on October 29, 1993,[^ref-26] and later disappeared in the same mess that crushed Sierra's subsidiaries in the 2000s.[^ref-10] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
 
 ### Collections
 
@@ -263,4 +263,4 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/13178/bargon-attack/specs/) – technical requirements, audio support, version differences
 [^ref-24]: [GameFAQs – Guides List](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs) – available walkthroughs, guide metadata
 [^ref-25]: [PCGamingWiki – Bargon Attack](https://www.pcgamingwiki.com/wiki/Bargon_Attack) – localizations, Russian fan translation, system requirements
-
+[^ref-26]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."

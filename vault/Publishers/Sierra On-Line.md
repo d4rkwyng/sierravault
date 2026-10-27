@@ -27,7 +27,7 @@ On March 8, 1991, Sierra and Broderbund announced a letter of intent to merge. T
 
 Sierra was independent until 1996. In February 1996 it agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion, and the deal closed on July 24, 1996.[^ref-3][^ref-16][^ref-1] Ken Williams, Sierra's president until the sale, stayed on to guide its strategic direction until November 1997.[^ref-6] In December 1997 CUC merged with HFS Incorporated to form Cendant.[^ref-1] Cendant completed the sale of its consumer software division, Sierra included, to Havas SA, a subsidiary of Vivendi, on January 12, 1999.[^ref-17][^ref-22] Havas was later renamed Vivendi Universal Publishing.[^ref-1][^ref-16]
 
-On February 22, 1999 ("Chainsaw Monday"), Sierra closed its Oakhurst office.[^ref-22] Sierra was formally disestablished as a company and re-formed as a division in August 2004. The division continued through Vivendi Games' merger with Activision on July 10, 2008, but was shut down later that year. Activision revived the Sierra brand in 2014.[^ref-1]
+On February 22, 1999 ("Chainsaw Monday"), Sierra closed its Oakhurst office.[^ref-22] Sierra was formally disestablished as a company and re-formed as a division in August 2004. The division continued through Vivendi Games' merger with Activision on July 9, 2008,[^ref-23] but was shut down later that year. Activision revived the Sierra brand in 2014.[^ref-1]
 
 ## Sub-Labels and Divisions
 
@@ -491,3 +491,4 @@ After the 1998 reorganization, many releases carried sub-labels such as Sierra S
 [^ref-20]: [Berkeley Systems Acquired by CUC - Wired (April 1997)](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) - CUC's purchase of Berkeley Systems; CUC had acquired Sierra On-Line the previous year
 [^ref-21]: [Wikipedia - Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) - "Synergistic was acquired by Sierra On-Line in 1996"; closed February 22, 1999
 [^ref-22]: [The Digital Antiquarian - The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) - Havas deal announced November 20, 1998; February 22, 1999: "The Oakhurst office was closing"
+[^ref-23]: [Activision press release - Vivendi and Activision Complete Transaction to Create Activision Blizzard (Wayback)](https://web.archive.org/web/20190402162732/https://investor.activision.com/news-releases/news-release-details/vivendi-and-activision-complete-transaction-create-activision) - "approved by Activision's stockholders ... on July 8, 2008 and closed on July 9, 2008"

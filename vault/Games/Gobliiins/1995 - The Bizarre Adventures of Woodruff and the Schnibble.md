@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -107,7 +107,7 @@ Modern retrospective reviews have been largely positive while acknowledging the 
 
 ### Origins
 
-*Woodruff and the Schnibble* came from [[Muriel Tramis]] and [[Pierre Gilhodes]], who had co-created the *Gobliiins* series at Coktel Vision, the French developer founded by Roland Oskian in 1984.[^ref-27] Sierra On-Line acquired Coktel in 1992–93 (the deal was finalised on 29 October 1993), after which Sierra published popular French titles worldwide.[^ref-27]
+*Woodruff and the Schnibble* came from [[Muriel Tramis]] and [[Pierre Gilhodes]], who had co-created the *Gobliiins* series at Coktel Vision, the French developer founded by Roland Oskian in 1984.[^ref-27] Sierra On-Line acquired Coktel on 29 October 1993,[^ref-42] after which Sierra published popular French titles worldwide.[^ref-27]
 
 Gilhodes, creator of the *Gobliiins* series, worked on the game, which shares that series' visual style, gameplay, and offbeat humor but is not officially part of its canon.[^ref-1]
 
@@ -297,3 +297,4 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 [^ref-39]: [Computer Game Review – Steve's Review (Wayback, 1996)](https://web.archive.org/web/1996/http://www.nuke.com/compent/reviews/jularc/woodsnib/shrev.htm) – overall 88, "VR/Doom joke", "most amusing and endearing titles this year"
 [^ref-40]: [Computer Game Review – Ted's Review (Wayback, 1996)](https://web.archive.org/web/1996/http://www.nuke.com/compent/reviews/jularc/woodsnib/tedrev.htm) – overall 87, complaints about unskippable animations and walking speed
 [^ref-41]: [GOG.com – Community Wishlist (old)](https://www.gog.com/wishlist/games/the_bizarre_adventures_of_woodruff_and_the_schnibble) – fan comments requesting a re-release
+[^ref-42]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."

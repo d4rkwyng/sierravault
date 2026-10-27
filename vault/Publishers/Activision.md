@@ -4,11 +4,11 @@ type: publisher
 founded: 1979
 headquarters: "Santa Monica, California, United States"
 parent_company: "Microsoft Gaming (via Activision Blizzard)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Activision
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -24,9 +24,9 @@ Activision's relationship with Sierra properties spans several decades and conte
 
 **Sierra Brand Revival (2014):** In August 2014 Activision relaunched Sierra as an indie publishing label. Sierra's website described a "focus on indie studios and innovative, graphically unique games that include new IP and reimaginings of beloved Sierra classics," with Geometry Wars³: Dimensions "planned to be the first game set to launch under the new Sierra indie label" and a King's Quest game coming in 2015.[^ref-19][^ref-20]
 
-**King's Quest Reboot (2015):** Under the revived label, Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen (see [[2015 - King's Quest|King's Quest]]). Activision still sells it as King's Quest: The Complete Collection.[^ref-19][^ref-6]
+**King's Quest Reboot (2015):** Under the revived label, Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen (see [[2015 - King's Quest|King's Quest]]).[^ref-26] Activision still sells it as King's Quest: The Complete Collection.[^ref-19][^ref-6]
 
-**Dynamix Titles (1989):** Activision published two 1989 games developed by Dynamix, *Deathtrack* and *MechWarrior*, before Sierra bought Dynamix in 1990.[^ref-21]
+**Dynamix Titles (1989):** Before Sierra bought Dynamix in 1990,[^ref-21] Activision published several Dynamix-developed games, including *Ghostbusters II*, *MechWarrior*, *Deathtrack* and *Die Hard* (all DOS, 1989).[^ref-22][^ref-25][^ref-23][^ref-24]
 
 ## History
 
@@ -36,7 +36,7 @@ Activision's founding programmers left Atari after their games had accounted for
 
 ### Video Game Crash and Recovery (1983-1991)
 
-The video game crash of 1983 hit Activision hard, forcing diversification into home computer games and the acquisition of text adventure pioneer Infocom in 1986.[^ref-8] The company renamed itself Mediagenic in 1988 and quickly fell into debt.[^ref-1]
+The video game crash of 1983 hit Activision hard, forcing diversification into home computer games and the acquisition of text adventure pioneer Infocom in 1986.[^ref-1][^ref-8] The company renamed itself Mediagenic in 1988 and quickly fell into debt.[^ref-1]
 
 ### Bobby Kotick Era (1991-2023)
 
@@ -44,15 +44,20 @@ In 1991 Bobby Kotick and partners took control of the struggling Mediagenic: acc
 
 ### Microsoft Acquisition (2023-Present)
 
-Microsoft completed its acquisition of Activision Blizzard on October 13, 2023, for a total purchase price of $75.4 billion.[^ref-17][^ref-12] Wikipedia describes it as the largest video game acquisition by value.[^ref-5]
+Microsoft completed its acquisition of Activision Blizzard on October 13, 2023,[^ref-12] for a total purchase price of $75.4 billion.[^ref-17] Wikipedia describes it as the largest video game acquisition by value.[^ref-5]
 
 ## Games in This Archive
 
+- **1989** — [[1989 - Die Hard|Die Hard]] — Notes: Developed by Dynamix
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Notes: Developed by Dynamix
 - **2015** — [[2015 - King's Quest|King's Quest]] — Notes: Episodic reboot by The Odd Gentlemen, Sierra label
 
 ### Other Activision-Published (Synergistic)
 - Laser Surgeon: The Microscopic Mission — 1987 (not in archive)
+
+### Other Activision-Published (Dynamix)
+- Ghostbusters II — 1989, DOS (not in archive)[^ref-22]
+- Deathtrack — 1989, DOS (not in archive)[^ref-23]
 
 ### Related Unreleased Projects
 
@@ -74,7 +79,7 @@ Notable studio acquisitions relevant to this archive:
 [^ref-1]: [Wikipedia - Activision](https://en.wikipedia.org/wiki/Activision) - Founded October 1, 1979; Crane, Kaplan, Miller and Whitehead; first independent third-party developer; Kaboom! and Pitfall! sales; Mediagenic; studio acquisitions and prices
 [^ref-2]: [MobyGames - Activision Publishing, Inc.](https://www.mobygames.com/company/25/activision-publishing-inc/) - Game database profile
 [^ref-3]: [Gamedeveloper - The History of Activision](https://www.gamedeveloper.com/business/the-history-of-activision) - Company history; Crane: "Jim had been working at GRT Records"
-[^ref-4]: [Wikipedia - Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) - "The merger was completed on July 9"; other Vivendi Games divisions "such as Sierra ceased operations"
+[^ref-4]: [Wikipedia - Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) - "The merger was completed on July 9"; other Vivendi Games divisions "such as Sierra ceased operation"
 [^ref-5]: [Wikipedia - Acquisition of Activision Blizzard by Microsoft](https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft) - Announced January 18, 2022 at $68.7 billion; completed October 13, 2023, total cost $75.4 billion
 [^ref-6]: [Activision Official Site](https://www.activision.com/games) - Game portfolio, including "King's Quest: The Complete Collection"
 [^ref-8]: [MIT - Down From the Top of Its Game: The Story of Infocom](https://web.archive.org/web/20151105165849/http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf) - Infocom acquisition
@@ -90,3 +95,8 @@ Notable studio acquisitions relevant to this archive:
 [^ref-19]: [Sierra official site (Wayback, August 15, 2014)](https://web.archive.org/web/20140815221701/http://www.sierra.com/) - "the new Sierra indie label"; Geometry Wars³ first; King Graham game "Coming in 2015"; © 2014 Activision Publishing
 [^ref-20]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - Closure and sale of properties (2008–2009): Leisure Suit Larry to Codemasters, titles to Rebellion, The Incredible Machine to Jeff Tunnell; Sierra brand revival from August 2014
 [^ref-21]: [Encyclopedia.com - Sierra On-Line Inc (Gale, International Directory of Company Histories)](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) - "1990: The company acquires Dynamix."
+[^ref-22]: [MobyGames - Ghostbusters II (1989)](https://www.mobygames.com/game/481/ghostbusters-ii/) - DOS, October 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
+[^ref-23]: [MobyGames - Deathtrack](https://www.mobygames.com/game/1758/deathtrack/) - DOS, December 1989: published by Activision, developed by Dynamix (read via the MobyGames API)
+[^ref-24]: [MobyGames - Die Hard (1989)](https://www.mobygames.com/game/5469/die-hard/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
+[^ref-25]: [MobyGames - MechWarrior (1989)](https://www.mobygames.com/game/105/mechwarrior/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
+[^ref-26]: [Wikipedia - King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) - Developer: The Odd Gentlemen; publisher: Activision

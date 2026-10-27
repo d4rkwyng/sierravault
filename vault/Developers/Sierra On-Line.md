@@ -6,11 +6,11 @@ defunct: 2008
 headquarters: "Oakhurst, California"
 notable_games: ["King's Quest", "Space Quest", "Leisure Suit Larry"]
 parent_company: "Activision"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,13 +30,13 @@ More Hi-Res Adventures followed. The Wizard and the Princess sold more than 60,0
 
 In 1983, IBM asked Sierra to make a game for its new PCjr and offered to fund development and marketing. For that game Sierra built the Adventure Game Interpreter (AGI), and King's Quest: Quest for the Crown came out in mid-1984.[^ref-9] Roberta Williams designed every King's Quest game until the series' 2015 reboot.[^ref-45]
 
-While finishing The Black Cauldron, programmers Mark Crowe and Scott Murphy pitched an adventure of their own. Space Quest: The Sarien Encounter followed in October 1986.[^ref-9] The pair called themselves the "Two Guys from Andromeda", and their six Space Quest games (1986–1995) follow the janitor Roger Wilco.[^ref-44] Former police officer Jim Walls designed the first three Police Quest games.[^ref-49][^ref-3]
+While finishing The Black Cauldron, art director Mark Crowe and programmer Scott Murphy pitched an adventure of their own.[^ref-53] Space Quest: The Sarien Encounter followed in October 1986.[^ref-9] The pair called themselves the "Two Guys from Andromeda", and their six Space Quest games (1986–1995) follow the janitor Roger Wilco.[^ref-44] Former police officer Jim Walls designed the first three Police Quest games.[^ref-49][^ref-3]
 
 Ken Williams asked Al Lowe to write a modern version of Chuck Benton's 1981 Softporn Adventure. The result, Leisure Suit Larry in the Land of the Lounge Lizards, won the Software Publishers Association's Best Adventure Game award for 1987.[^ref-9][^ref-47] By 1995 the Larry series had sold more than one million copies.[^ref-7] Corey and Lori Ann Cole created Quest for Glory, an adventure/role-playing hybrid first released in 1989. The series was first called Hero's Quest, but Sierra had not trademarked the name, and Milton Bradley's trademark on an electronic version of its unrelated HeroQuest board game forced a change.[^ref-48][^ref-9]
 
 ### Technological Innovation and Expansion
 
-In 1988 the Sierra Creative Interpreter (SCI) replaced AGI, starting with King's Quest IV. That game was released under both engines.[^ref-9] According to Gale, Sierra developed SCI "to allow artists and musicians to contribute without being mired in programming details."[^ref-7] Sierra went public in 1989.[^ref-9][^ref-7] King's Quest V (1990) was the first Sierra game to sell more than 500,000 copies.[^ref-9]
+In 1988 the Sierra Creative Interpreter (SCI) replaced AGI, starting with King's Quest IV. That game was released under both engines.[^ref-9] According to Gale, Sierra developed SCI "to allow artists and musicians to contribute without being mired in programming details."[^ref-7] Sierra went public in October 1988.[^ref-50] King's Quest V (1990) was the first Sierra game to sell more than 500,000 copies.[^ref-9]
 
 Sierra grew by acquisition. In 1990 it bought Dynamix of Eugene, Oregon, a flight-simulation specialist founded in 1984 by Jeff Tunnell and Damon Slye. In 1992 it added the educational developer Bright Star Technology.[^ref-7] In 1993 it moved its headquarters to the Seattle area, because Ken Williams found it hard to convince senior executives to move to rural Oakhurst. The same year it bought the Paris-based Coktel Vision.[^ref-7] In 1995 it bought Impressions Software, Papyrus Design Group and SubLogic, along with several home-productivity developers.[^ref-7]
 
@@ -46,7 +46,7 @@ Gale says CD-ROM titles made up 36 percent of Sierra's game sales in 1994 and 65
 
 ### Corporate Changes and Decline
 
-In February 1996 Sierra agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion.[^ref-7][^ref-40] The acquisition closed on July 24, 1996.[^ref-9] Ken Williams stayed on to guide Sierra's strategic direction until November 1997.[^ref-43] In December 1997 CUC merged with HFS to form Cendant. On April 15, 1998, Cendant announced that it had found accounting irregularities in former CUC business units.[^ref-9][^ref-41] Cendant then sold its software division, Sierra included, to Havas, a Vivendi subsidiary. The sale was announced on November 20, 1998, and completed on January 12, 1999. The division became Havas Interactive.[^ref-39][^ref-41][^ref-7] Roberta Williams stayed with Sierra until King's Quest: Mask of Eternity was released in December 1998.[^ref-9]
+In February 1996 Sierra agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion.[^ref-7][^ref-40] The acquisition closed on July 24, 1996.[^ref-9] Ken Williams stayed on to guide Sierra's strategic direction until November 1997.[^ref-43] In December 1997 CUC merged with HFS to form Cendant. On April 15, 1998, Cendant announced that it had found accounting irregularities in former CUC business units.[^ref-9][^ref-41] Cendant then sold its software division, Sierra included, to Havas, a Vivendi subsidiary. The sale was announced on November 20, 1998, and completed on January 12, 1999. The division became Havas Interactive.[^ref-39][^ref-41][^ref-7] Roberta Williams stayed with Sierra until King's Quest: Mask of Eternity was released on November 24, 1998.[^ref-52]
 
 ### Chainsaw Monday
 
@@ -58,7 +58,7 @@ Scott Murphy, a Space Quest designer, coined the name "Chainsaw Monday".[^ref-39
 
 Sierra kept publishing other studios' games, including Relic Entertainment's Homeworld in September 1999.[^ref-9] Havas became Vivendi Universal Publishing after the 2000 Vivendi–Seagram merger. Gale dates the rename to early 2001.[^ref-9][^ref-7] In August 2001 Sierra closed Dynamix and laid off 148 people at its Bellevue headquarters. On February 19, 2002, Sierra On-Line announced its name change to Sierra Entertainment.[^ref-9] In early 2004 Vivendi shut Impressions and Papyrus, and by June 2004 it had closed the Bellevue office. In August 2004 Sierra was formally disestablished as a company and re-formed as a division.[^ref-9]
 
-Vivendi Games merged with Activision to form Activision Blizzard on July 10, 2008. Sierra was shut down later that year.[^ref-9]
+Vivendi Games merged with Activision to form Activision Blizzard on July 9, 2008.[^ref-51] Sierra was shut down later that year.[^ref-9]
 
 ### Brand Revival
 
@@ -252,3 +252,7 @@ The Digital Antiquarian notes that after 1999, "surprisingly few of the prominen
 [^ref-47]: [Wikipedia - Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Series created by Al Lowe, inspired by Softporn Adventure
 [^ref-48]: [Wikipedia - Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) — Creators Corey and Lori Ann Cole; Hero's Quest renamed after Milton Bradley's HeroQuest trademark
 [^ref-49]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — First three games designed by former police officer Jim Walls
+[^ref-50]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990), Internet Archive](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) — "In October of 1988, one year after 'Black Monday,' Sierra did finally go public, at $9.00 a share"
+[^ref-51]: [Activision press release - Vivendi and Activision Complete Transaction to Create Activision Blizzard (Wayback)](https://web.archive.org/web/20190402162732/https://investor.activision.com/news-releases/news-release-details/vivendi-and-activision-complete-transaction-create-activision) — "approved by Activision's stockholders ... on July 8, 2008 and closed on July 9, 2008"
+[^ref-52]: [The Digital Antiquarian - The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) — "the game shipped on November 24, 1998"
+[^ref-53]: [The Virtual Broomcloset - Mark Crowe interview (2000)](https://www.wiw.org/~jess/markcrowe.html) — "Then, I moved on to Art Director for The Black Cauldron"; Scott "was an up-and-coming programmer"

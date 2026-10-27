@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line", "Cygnus Entertainment"]
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Drawing inspiration from Agatha Christie's *And Then There Were None* and the bo
 Mystery House was released on May 5, 1980, advertised in the May issue of *MICRO*.[^ref-4] Accounts of its sales differ:
 - Steven Levy's *Hackers*, as quoted by Laine Nooney, says the couple "made eleven thousand dollars that May. In June, they made twenty thousand dollars. July was thirty thousand."[^ref-28] HistoryLink likewise gives $11,000 by the end of the first month.[^ref-4]
 - AIGA Eye on Design and Williams' Wikipedia article give 10,000 copies sold.[^ref-13][^ref-25]
-- Wikipedia's Sierra Entertainment article (and the vault's [[Sierra History|Sierra On-Line History]] guide) give about 15,000 copies and US$167,000 in revenue.[^ref-29] Neither source that article cites for the passage (Nooney 2017; Jimmy Maher's *Digital Antiquarian*) contains those two figures, so treat them as unconfirmed.
+- Wikipedia's Sierra Entertainment article gives about 15,000 copies and US$167,000 in revenue.[^ref-29] Neither source that article cites for the passage (Nooney 2017; Jimmy Maher's *Digital Antiquarian*) contains those two figures, so treat them as unconfirmed.
 
 ### Sierra Years (1979–1999)
 

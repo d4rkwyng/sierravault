@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
   storybook and creativity game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ MobyGames records one critic review. The German magazine *Fun Online* (January 1
 
 ### Origins
 
-Coktel Vision was a French developer that Sierra On-Line acquired in 1992, after which Sierra published Coktel's games in the United States[^ref-20]. After Sierra was bought by Havas Interactive, Coktel moved to developing only educational games[^ref-12][^ref-20].
+Coktel Vision was a French developer that Sierra On-Line acquired on October 29, 1993,[^ref-27] after which Sierra published Coktel's games in the United States[^ref-20]. After Sierra was bought by Havas Interactive, Coktel moved to developing only educational games[^ref-12][^ref-20].
 
 The game is licensed from the Spirou animated series. Its credits read "Based on the original animated film SPIROU © Dupuis - TF1 - Ciné Groupe, 1993", and Dupuis's Léon Perahia (audiovisual direction and development) and Patrick Pinchart (multimedia development) are credited alongside Coktel's team[^ref-8].
 
@@ -222,3 +222,4 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-24]: [MobyGames – Playtoons 2 Reviews](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/reviews/) – single critic review: Fun Online (Germany), January 1996, score 2 (lowest is best), normalised 83%
 [^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – "playtoons2" detection entries: EN/FR/DE/IT Windows builds, "v1.002"
 [^ref-26]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – official supported-games list (Playtoons 2 absent)
+[^ref-27]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
