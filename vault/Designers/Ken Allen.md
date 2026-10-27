@@ -31,7 +31,7 @@ At the dawn of the MIDI era he built a home MIDI studio, which let him produce m
 
 Allen's interview process at Sierra On-Line involved meeting with key figures including Stuart Goldstein (a systems programmer devoted to music technology), Mark Seibert (who would become head of the music department), Rick Cavin (head of operations), and founder Ken Williams.[^ref-5] In salary negotiations he made what he later described as a blundered pitch. He offered to take a significant pay cut to prove himself, on the understanding that his wage would be raised after a 90-day probationary period. The agreement was never recorded, and pay became an ongoing issue.[^ref-5]
 
-Beginning his career at Sierra on April 7, 1989, Allen was able to tell friends and family that he "made a living sitting around making funny noises."[^ref-5] His work encompassed not only composition but also sound effects creation and the technical challenge of adapting music for various sound cards of varying quality.[^ref-7] As Allen explained, "There were really only two types of sound cards when I started at Sierra, those that used FM synthesis (the kind used in the Yamaha DX7) and those that used Addative synthesis from Roland." Each song had to be adapted for five different playback devices.[^ref-5]
+Beginning his career at Sierra on April 7, 1989, Allen was able to tell friends and family that he "made a living sitting around making funny noises."[^ref-5] His work encompassed not only composition but also sound effects creation and the technical challenge of adapting music for various sound cards of varying quality.[^ref-7][^ref-5] As Allen explained, "There were really only two types of sound cards when I started at Sierra, those that used FM synthesis (the kind used in the Yamaha DX7) and those that used Addative synthesis from Roland." Each song had to be adapted for five different playback devices.[^ref-5]
 
 One of Allen's significant technical contributions was creating sound banks for various sound cards, leveraging his background with synthesizer technology.[^ref-5] He had built a synthesizer from a kit in 1978, a smaller version of the Moog depicted on the cover of *Switched-On Bach*. That gave him the expertise to create "high quality instruments and sound effects using the synth technology of the day".[^ref-5] He believes Sierra was the first to use "redbook audio" in a CD-ROM game, with the CD-ROM version of Mixed-Up Mother Goose, for which he produced studio recordings of his arrangements.[^ref-5][^ref-2]
 
@@ -43,11 +43,11 @@ Allen left Sierra in October 1991 over the unresolved salary agreement.[^ref-5][
 
 After leaving Sierra, Allen worked as a freelance composer for companies including Accolade, Disney Interactive, Futurescape, Tachyon and Interplay before joining Tsunami Media.[^ref-5] Tsunami was started by several ex-Sierra employees under former Sierra CFO Ed Heinbockle, who had helped take Sierra public. Allen accepted Tsunami's offer on the condition that he could also become a game designer, and the company agreed.[^ref-5]
 
-At Tsunami, Allen earned the nickname "Tsunami Renaissance Man" for his diverse contributions including music, sound design, directing voice talent, designing, writing, writing user guides, and even IT work.[^ref-5] His initial work included composing for Ringworld: Revenge of the Patriarch (1992), based on Larry Niven's Known Space novels, as well as Blue Force (1993), the police procedural adventure designed by former Police Quest creator Jim Walls.[^ref-7][^ref-15]
+At Tsunami, Allen earned the nickname "Tsunami Renaissance Man" for his diverse contributions including music, sound design, directing voice talent, designing, writing, writing user guides, and even IT work.[^ref-5] His initial work included composing for Ringworld: Revenge of the Patriarch (1992), set in Larry Niven's "Known Space" universe,[^ref-7][^ref-23] as well as Blue Force (1993), the police procedural adventure designed by former Police Quest creator Jim Walls.[^ref-15][^ref-24][^ref-25]
 
 Allen also did level design on Protostar: War on the Frontier (1993), a game originally intended as a sequel to Star Control, and composed its music.[^ref-5][^ref-18] His biggest role at Tsunami was as lead designer and producer of Return to Ringworld (1994), the sequel to the original Ringworld. MobyGames credits him as its designer, director, story writer and composer.[^ref-5][^ref-18]
 
-During this period, Allen also worked on various freelance projects outside Tsunami. They include Les Manley in: Lost in L.A. (1992), Road & Track Presents Grand Prix Unlimited (1992), Wacky Funsters! The Geekwad's Guide to Gaming (1992), WarpSpeed for SNES and Genesis (1992–1993), and Man Enough (1994).[^ref-7][^ref-18]
+He also scored two more of Tsunami's own titles, Wacky Funsters! The Geekwad's Guide to Gaming (1992) and Man Enough (1994).[^ref-18][^ref-27][^ref-28] Outside Tsunami, his freelance work in this period included Les Manley in: Lost in L.A. (1991), Road & Track Presents Grand Prix Unlimited (1992) and WarpSpeed for SNES and Genesis (1992–1993).[^ref-7][^ref-18]
 
 A lesser-known fact from this period: Allen actually composed the complete score and sound effects for Space Quest V for Mark Crowe at Dynamix. As Allen heard it, Ken Williams learned of his involvement on returning from a vacation at the Barcelona Olympics, and ordered the music replaced with compositions by Sierra employee Chris Stevens. Allen was paid in full for his work. His SQ5 score was never used, though he believes most of his sound effects survived.[^ref-5]
 
@@ -65,9 +65,9 @@ According to VGMPF, Allen joined Midway Games as a senior producer in May 2000. 
 
 Over the following decade he worked for various studios, primarily as a producer, including IGT, Shuffle Master, Petroglyph Games and Konami.[^ref-7]
 
-In 2013, Allen launched a Kickstarter campaign for "Under the Half Dome", an album of new arrangements of his game music. It passed its $10,000 goal, raising $21,090 from 575 backers.[^ref-9][^ref-15] The album was never completed. In January 2016, about three years on, with roughly a third of it scored, Allen shelved the project. Citing family elder-care, his SpaceVenture work and other personal matters, he offered refunds to all backers starting that February.[^ref-17]
+In 2013, Allen launched a Kickstarter campaign for "Under the Half Dome", an album of new arrangements of his game music. It passed its $10,000 goal, raising $21,090 from 575 backers.[^ref-9][^ref-15] The album was never completed. In January 2016, about three years on, with roughly a third of it scored, Allen shelved the project, citing his SpaceVenture work and personal matters, and offered refunds to backers starting that February.[^ref-17] In a December 2025 update to backers he wrote that the project "ultimately didn't move forward, and refunds were provided to those who requested them."[^ref-26]
 
-In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released in September 2022, with Allen credited for composition and audio production.[^ref-20]
+In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released in September 2022, with Allen credited for composition and audio production.[^ref-20] In the same December 2025 update he said he had "recently completed and released the official SpaceVenture soundtrack", and in July 2026 he announced the SpaceVenture Original Soundtrack on digital marketplaces and Bandcamp.[^ref-26]
 
 ## Notable Works
 
@@ -91,13 +91,13 @@ Working with Parallax Software, Allen composed music for Descent, collaborating 
 
 ### Ringworld Series (1992–1994)
 
-At Tsunami Media, Allen composed the score for Ringworld: Revenge of the Patriarch (1992). He was designer, director, story writer and composer on Return to Ringworld (1994).[^ref-18][^ref-21][^ref-5] Both games are based on Larry Niven's science fiction novels.[^ref-7]
+At Tsunami Media, Allen composed the score for Ringworld: Revenge of the Patriarch (1992). He was designer, director, story writer and composer on Return to Ringworld (1994).[^ref-18][^ref-21][^ref-5] Both games are set in the Ringworld of Larry Niven's "Known Space" universe.[^ref-23]
 
 ## Design Philosophy
 
-Allen's approach to game audio was rooted in the hardware limits of early PC gaming. He developed expertise in creating "high quality instruments and sound effects using the synth technology of the day", drawing on his experience building synthesizers from kits in the 1970s.[^ref-5] That included building custom sound banks for the sound cards Sierra supported, and later a General MIDI sound bank for the non-General MIDI cards.[^ref-5]
+Allen's approach to game audio was rooted in the hardware limits of early PC gaming. He developed expertise in creating "high quality instruments and sound effects using the synth technology of the day", drawing on his experience of building a synthesizer from a kit in 1978.[^ref-5] That included building custom sound banks for the sound cards Sierra supported, and later a General MIDI sound bank for the non-General MIDI cards.[^ref-5]
 
-His favorite composer was Jerry Goldsmith, who scored Planet of the Apes, four Star Trek films, Hoosiers, Rudy, and Patton—the latter being the film score that inspired Allen to become a composer.[^ref-5] After leaving Sierra, Allen attended an all-day session at UCLA taught by Goldsmith, who signed his copy of the Rudy soundtrack album.[^ref-5]
+His favorite composer was Jerry Goldsmith, who scored Planet of the Apes, four Star Trek films, Hoosiers, Rudy, and Patton—the latter being the film score that inspired Allen to become a composer.[^ref-5] After leaving Sierra, Allen attended an all-day session at UCLA taught by Goldsmith, who signed his copy of the soundtrack album.[^ref-5]
 
 He taught himself to write in any style required for games, including "big band, rockabilly, technorock, classic rock, bluegrass, cartoon music, practically everything."[^ref-5] His favorite style is composing for orchestra.[^ref-5]
 
@@ -115,6 +115,7 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 - **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Music, Sound Programming
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Music (with Mark Seibert), Sound Effects
 - **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Music Arrangements, Sound Effects
+- 1991 — Roberta Williams' Mixed-Up Mother Goose (DOS, VGA/CD-ROM edition) — Role: Composer, Singer, Sound Effects[^ref-18]
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Composer
 - **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI)]] — Role: Composer, Sound Effects
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music
@@ -127,7 +128,7 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 
 - 1992 — Ringworld: Revenge of the Patriarch — Tsunami Media — Musical Score
 - **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (CD-ROM) — Company: Sierra On-Line, Role: Music, Sound
-- 1992 — Les Manley in: Lost in L.A. — Accolade — Music
+- 1991 — Les Manley in: Lost in L.A. — Accolade — Music (MobyGames DOS 1991; VGMPF gives 1992)
 - 1992 — Road & Track Presents Grand Prix Unlimited — Accolade — Music
 - 1992 — Wacky Funsters! The Geekwad's Guide to Gaming — Tsunami Media — Music
 - 1992 — WarpSpeed (SNES) — Accolade — Music
@@ -142,18 +143,26 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 
 ### Interplay, Parallax & Later Work (1994–2022)
 
-- 1994 — Descent — Parallax Software — Music
+- 1994 — Descent — Parallax Software — Music (release dates vary: VGMPF gives 1994; MobyGames lists the credit under the 1995 DOS release)
 - 1994 — Clay Fighter 2: Judgement Clay (SNES) — Interplay — Music
 - 1995 — Star Trek: Starfleet Academy Starship Bridge Simulator (SNES, 32X) — Interplay — Music, Sound Effects
 - 1995 — Star Trek: Judgment Rites (Limited CD-ROM Collector's Edition) — Interplay — Producer; voice of Capt. Luke Rayner
 - 1995 — Frankenstein: Through the Eyes of the Monster — Interplay — Supervising Producer
 - 1996 — Mummy: Tomb of the Pharaoh — Interplay — Producer
 - 1997 — Star Trek: Secret of Vulcan Fury — Interplay — Producer (unreleased)
+- 2000 — Destruction Derby: Raw — Publishing Producer[^ref-18]
 - 2000 — Nox — Westwood Studios — Producer
-- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] (Fan) — Company: AGD Interactive, Role: Music
+- 2001 — Arctic Thunder — Producer[^ref-18]
+- 2002 — Zapper: One Wicked Cricket! — Senior Producer[^ref-18]
+- 2003 — RollerCoaster Tycoon 2: Time Twister — Senior Producer[^ref-18]
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] (Fan) — Company: AGD Interactive, Role: Original Music (his 1990 SCI score)
 - 2004 — RollerCoaster Tycoon 3 — Atari — Senior Producer
+- 2004 — Trivial Pursuit: Unhinged — Senior Producer[^ref-18]
+- 2005 — RollerCoaster Tycoon 3: Soaked! — Producer[^ref-18]
+- 2006 — Driver: Parallel Lines — Republishing Senior Producer[^ref-18]
 - 2008 — Destroy All Humans! Big Willy Unleashed — THQ — Senior Producer
 - 2011 — Rift — Trion Worlds — Producer
+- 2012 — Rift: Storm Legion — Producer[^ref-18]
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Company: Guys From Andromeda, Role: Intro and Cluck Theme
 - **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Company: Guys From Andromeda, Role: Composer / Audio Production
 
@@ -175,3 +184,9 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 [^ref-20]: [MobyGames - SpaceVenture](https://www.mobygames.com/game/192353/spaceventure/) — Game entry (MobyGames ID 192353): Windows, September 16, 2022; Allen credited for composition and audio production
 [^ref-21]: [MobyGames - Return to Ringworld](https://www.mobygames.com/game/4552/return-to-ringworld/) — Game entry (MobyGames ID 4552): DOS 1994
 [^ref-22]: [MobyGames - Space Quest IV: Roger Wilco and the Time Rippers](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) — Game entry (MobyGames ID 143): DOS 1991
+[^ref-23]: [MobyGames - Ringworld: Revenge of the Patriarch](https://www.mobygames.com/game/2559/ringworld-revenge-of-the-patriarch/) — Game entry (MobyGames ID 2559, DOS 1992; read via the MobyGames API): "A graphical adventure set in Larry Niven's 'Known Space' universe"
+[^ref-24]: [MobyGames - Blue Force credits](https://www.mobygames.com/game/1478/blue-force/credits/) — MobyGames ID 1478: "Designer/Writer: Jim Walls"
+[^ref-25]: [Wikipedia - Blue Force](https://en.wikipedia.org/wiki/Blue_Force) — "It was designed by Jim Walls, known for creating the Police Quest series, with music composed by Ken Allen"
+[^ref-26]: [Kickstarter - Under the Half Dome: updates](https://www.kickstarter.com/projects/mrkenallen/under-the-half-dome-an-album-by-sierra-composer-ke/posts) — Allen's backer updates: #43 (December 23, 2025) on refunds and the SpaceVenture soundtrack; #44 and #45 (July 12 and 14, 2026) announcing the SpaceVenture Original Soundtrack
+[^ref-27]: [MobyGames - Wacky Funsters! The Geekwad's Guide to Gaming](https://www.mobygames.com/game/20210/wacky-funsters-the-geekwads-guide-to-gaming/) — MobyGames ID 20210, DOS 1992 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
+[^ref-28]: [MobyGames - Man Enough](https://www.mobygames.com/game/29122/man-enough/) — MobyGames ID 29122, DOS 1994 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
