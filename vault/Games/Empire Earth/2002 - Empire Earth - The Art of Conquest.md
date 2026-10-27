@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: N/A (Strategy Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published by Sierra Entertainment in 2002.'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -106,7 +106,7 @@ The expansion pack was planned before the original Empire Earth was even release
 
 Development began in early 2002, but a significant change occurred when the project was transferred from Stainless Steel Studios to Mad Doc Software.[^ref-1] Stainless Steel was occupied developing their next project, Empires: Dawn of the Modern World.[^ref-1] All designers working on the expansion had worked on the original game, ensuring continuity in design philosophy.[^ref-5]
 
-The development schedule was tight, preventing the team from showing the game at E3.[^ref-1] Beta testing began on August 5, 2002, with a single multiplayer map available for testing.[^ref-1] One IGN preview visitor to the Impressions Games studio in Cambridge noted the creative liberties taken with the Space Age, commenting: "I still find it humorous that the team was harvesting pumpkins on Mars to provide food."[^ref-5] The team specifically avoided traditional ship designs for space units and wrote new physics for spaceship movement.[^ref-5]
+The development schedule was tight, preventing the team from showing the game at E3.[^ref-1] Beta testing began on August 5, 2002, with a single multiplayer map available for testing.[^ref-1] IGN's Steve Butts, visiting the Impressions Games studio in Cambridge, noted the creative liberties taken with the Space Age, commenting: "I still find it humorous that the team was harvesting pumpkins on Mars to provide food."[^ref-5] The team specifically avoided traditional ship designs for space units and wrote new physics for spaceship movement.[^ref-5]
 
 **Development Credits:**[^ref-37]
 - **Producer:** Ken Davis
@@ -252,7 +252,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG - Empire Earth Gold Edition](https://www.gog.com/game/empire_earth_gold_edition) - $5.99, includes base game and expansion
+- [GOG - Empire Earth Gold Edition](https://www.gog.com/game/empire_earth_gold_edition) - $5.99 (as of October 2026), includes base game and expansion
 - [Steam - Empire Earth Gold Edition](https://store.steampowered.com/app/254760/) - includes base game and expansion
 
 **Preservation**

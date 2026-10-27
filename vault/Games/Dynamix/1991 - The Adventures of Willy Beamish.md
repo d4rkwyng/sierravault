@@ -3,34 +3,34 @@ title: The Adventures of Willy Beamish
 release_year: 1991
 developer: Dynamix
 designer: [Jeff Tunnell, David Selle, Tom Brooke]
-publisher: Sierra On-Line
+publisher: [Dynamix, Sierra On-Line, Sega of America]
 genre: Adventure
 platforms: [DOS, Amiga, Mac, Sega CD, Windows]
 series: Standalone
 engine: Dynamix Game Development System (DGDS)
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: The Adventures of Willy Beamish is a graphic adventure game developed
- by Dynamix and published by Sierra On-Line in 1991. The game puts players in control...
+ by Dynamix and released in 1991 under the Dynamix label, then part of Sierra On-Line. The game puts players in control...
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and published by Sierra On-Line in 1991.[^ref-1][^ref-54] The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.[^ref-2] Designer [[Jeff Tunnell]] conceived the project with the ambitious goal of transforming the personal computer into a platform for an interactive Saturday morning cartoon, complete with hand-drawn animation and colorful characters.[^ref-3]
+The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and released in 1991.[^ref-1][^ref-54] MobyGames lists Dynamix, Inc. as publisher of the first US release (September 25, 1991), with Sierra On-Line credited on another US release; Dynamix was by then owned by Sierra On-Line, which had acquired it on March 27, 1990.[^ref-1][^ref-18] The 1993 Sega CD version was published by Sega of America and ported by Infinite Laser Dog.[^ref-1][^ref-31] The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.[^ref-2] Designer [[Jeff Tunnell]] conceived the project with the ambitious goal of transforming the personal computer into a platform for an interactive Saturday morning cartoon, complete with hand-drawn animation and colorful characters.[^ref-3]
 
 The game pioneered the use of in-game graphics drawn to resemble classic hand-drawn cartoon animation, setting it apart from other adventure games of the era.[^ref-4] Despite featuring a young boy as the protagonist, much of the game's humor is distinctly adult-oriented, creating an unusual tonal blend that contributed to its cult status.[^ref-5] The development team included veteran animators, most notably Rene Garcia, who had previously worked on Disney's The Little Mermaid as well as the original Scooby-Doo and The Flintstones cartoon series in the 1960s.[^ref-6]
 
-The Adventures of Willy Beamish was the last adventure game created by Dynamix, marking the end of an era for the studio's story-driven titles before they shifted focus to simulation games.[^ref-6] The game received a CD-ROM re-release in 1992 featuring full voice acting, animated character portraits, and an extended introduction, and was later ported to Sega CD in 1993.[^ref-1] In 2017, the game was re-released digitally on GOG.com, introducing it to a new generation of players.[^ref-7]
+The Adventures of Willy Beamish was the last adventure game created by Dynamix, before the team was drafted to develop Space Quest V.[^ref-6][^ref-32] The game received a CD-ROM re-release in 1992 featuring full voice acting, animated character portraits, and an extended introduction, and was later ported to Sega CD in 1993.[^ref-1] In 2017, the game was re-released digitally on GOG.com, introducing it to a new generation of players.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Jeff Tunnell]], [[David Selle]], Tom Brooke[^ref-8]
-> **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Publisher:** [[Dynamix]] (Sierra On-Line subsidiary); Sierra On-Line on some US releases; Sega of America (Sega CD)[^ref-1]
 > **Engine:** Dynamix Game Development System (DGDS)[^ref-9]
 > **Platforms:** MS-DOS, Amiga, Macintosh, Sega CD, Windows[^ref-1]
 > **Release Year:** 1991
@@ -98,7 +98,7 @@ Jimmy Maher of The Digital Antiquarian offered a more critical perspective, writ
 Hardcore Gaming 101's retrospective praised the visual presentation: "Its bright, painted cel-style graphics and animated cutscenes put it above anything else at the time," while noting the game "aspires to be a fully interactive Saturday morning cartoon, albeit one with a more adult sense of humor."[^ref-32] Sega-16 gave the Sega CD version 8/10, stating "Dynamix had this genre down to a science" and praising the "hand-drawn animation does a great job of mimicking cartoons."[^ref-33]
 
 **Aggregate Scores:**
-- **MobyGames:** 7.2/10 (29 critic reviews, 3.7/5 from 80 players)[^ref-1]
+- **MobyGames:** 7.2/10 (29 critic reviews, 3.7/5 from 81 players)[^ref-1]
 - **IMDb:** 7.8/10[^ref-21]
 - **GOG User Reviews:** 4.2/5 (21 reviews)[^ref-7]
 - **MyAbandonware:** 4.45/5[^ref-34]
@@ -108,7 +108,7 @@ Hardcore Gaming 101's retrospective praised the visual presentation: "Its bright
 
 ### Origins
 
-The concept for The Adventures of Willy Beamish originated with [[Jeff Tunnell]], who wanted to create an interactive Saturday morning cartoon on a computer.[^ref-3] Tunnell, who had founded Dynamix and would later design puzzle classics such as The Incredible Machine, envisioned a game that would capture the spirit and visual style of animated television programming while providing meaningful player interaction.[^ref-35]
+The concept for The Adventures of Willy Beamish originated with [[Jeff Tunnell]], who wanted to create an interactive Saturday morning cartoon on a computer.[^ref-3] Tunnell, who had co-founded Dynamix with Damon Slye in 1984[^ref-6] and would later design puzzle classics such as The Incredible Machine, envisioned a game that would capture the spirit and visual style of animated television programming while providing meaningful player interaction.[^ref-35]
 
 Tunnell started the concept in 1990,[^ref-3] around the time Dynamix was purchased by Sierra On-Line.[^ref-14] The acquisition brought resources but also expectations—Sierra wanted adventure games, and Dynamix suddenly found themselves creating story-driven content alongside their simulation expertise.[^ref-14] The project represented an ambitious attempt to push the boundaries of what adventure games could look like and feel like.
 
@@ -160,7 +160,7 @@ The original floppy disk version offered MT-32 sound and music support alongside
 
 ### Cut Content
 
-A sequel was planned but ultimately canceled. The proposed follow-up would have featured Willy Beamish as a late teenager, continuing his adventures years after the original game.[^ref-4] Jeff Tunnell left Dynamix in 1991 after finishing The Adventures of Willy Beamish to start his own company, which effectively ended any sequel prospects.[^ref-42]
+A sequel was planned but ultimately canceled. The proposed follow-up would have featured Willy Beamish as a late teenager, continuing his adventures years after the original game.[^ref-4] Jeff Tunnell resigned the Dynamix presidency shortly after Willy Beamish was finished and founded Jeff Tunnell Productions in early 1992, which effectively ended any sequel prospects.[^ref-18][^ref-57][^ref-42]
 
 ### Version History
 
@@ -338,7 +338,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-38]: [VOGONS – MT-32 Discussion](https://www.vogons.org/viewtopic.php?t=44389) – CD version audio limitations
 [^ref-39]: [Pixelated Arcade – Tech Specs](https://www.pixelatedarcade.com/games/the-adventures-of-willy-beamish/techspecs) – floppy version requirements
 [^ref-40]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/willybea.htm) – 12 disk count, price
-[^ref-42]: [Sierra Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Tunnell departure
+[^ref-42]: [Sierra Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Tunnell departure (dates it to 1991; Filfre ref-57 gives early 1992)
 [^ref-43]: [GOGDB – Willy Beamish](https://www.gogdb.org/product/1405562076) – GOG release date (2017-03-02), build history
 [^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, DOS vs. Sega CD palette differences
 [^ref-45]: [TV Tropes – Willy Beamish](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheAdventuresOfWillyBeamish) – easter eggs, speed bugs, cult status
@@ -353,3 +353,4 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-54]: [Sierra Chest – Willy Beamish](https://www.sierrachest.com/index.php?a=games&id=337) – release date, Frumpton setting, mature themes, third DGDS game
 [^ref-55]: [GOG.com News – Release: The Adventures of Willy Beamish (Wayback Machine, March 2017)](https://web.archive.org/web/20170327151907/https://www.gog.com/news/release_the_adventures_of_willy_beamish) – "foul-smelling catastrophe" plot summary
 [^ref-56]: [ScummVM News – v2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Willy Beamish listed under Newly Supported Games
+[^ref-57]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Tunnell founded Jeff Tunnell Productions in early 1992
