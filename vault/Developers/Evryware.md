@@ -6,19 +6,19 @@ defunct: null
 headquarters: null
 notable_games: ["Sierra Championship Boxing", "Manhunter: New York", "Manhunter 2: San Francisco"]
 parent_company: null
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Evryware
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Evryware is the small game studio of brothers Dave and Barry Murry, who have described themselves as "creating computer games together since 1979."[^ref-21] It made three games that Sierra On-Line published: Sierra Championship Boxing (1983) and the two Manhunter adventures, Manhunter: New York (1988) and Manhunter 2: San Francisco (1989).[^ref-21][^ref-22] Between them it made The Ancient Art of War series of strategy games for Brøderbund and MicroProse.[^ref-21]
+Evryware is the small game studio of brothers Dave and Barry Murry, who have described themselves as "creating computer games together since 1979."[^ref-21] It made three games that Sierra On-Line published: Sierra Championship Boxing (contracted in 1983 by the Murrys' account, and on sale by 1984) and the two Manhunter adventures, Manhunter: New York (1988) and Manhunter 2: San Francisco (1989).[^ref-21][^ref-22] Between them it made The Ancient Art of War series of strategy games for Brøderbund and MicroProse.[^ref-21]
 
 Evryware was an independent developer, not a Sierra studio. Sierra published its games; it never owned the company. The Murrys kept the rights to The Ancient Art of War, while Sierra held Manhunter.[^ref-21] The Manhunter History page at Larry Laffer Dot Net says that "the association between Evryware and Sierra ended in 1989."[^ref-23]
 
-The studio kept making games until 1997, when it released Pyrosaurus. Its own chronology says the team then started a web design firm and later an independent record label.[^ref-22][^ref-21]
+The studio kept making games until 1997, when it released Pyrosaurus; MobyGames also credits it on The Ancient Art of War 2 (2014).[^ref-14] Its own chronology says the team then started a web design firm and later an independent record label.[^ref-22][^ref-21]
 
 ## History
 
@@ -30,7 +30,7 @@ Sources differ on who founded the company. The 1997 Games Domain interview intro
 
 ### Sierra Championship Boxing
 
-The brothers' first PC game was Championship Boxing. Microsoft planned to publish it through a new home software division but backed out at the last minute. Their contact at Microsoft was a friend of Ken Williams and told him about the game. In the brothers' words: "A few days later we had a contract with Sierra and they published Championship Boxing in 1983."[^ref-21] Retro365 dates the IBM PC release to 1984, the year it was reviewed.[^ref-16]
+The brothers' first PC game was Championship Boxing. Microsoft planned to publish it through a new home software division but backed out at the last minute. Their contact at Microsoft was a friend of Ken Williams and told him about the game. In the brothers' words: "A few days later we had a contract with Sierra and they published Championship Boxing in 1983."[^ref-21] That 1983 date is the Murrys' recollection and the year of the Sierra contract. Period sources first show the game in spring and summer 1984: Computer Gaming World's Vol. 4 No. 2 lists "Sierra Championship Boxing" among Sierra On-Line's titles,[^ref-26] a mail-order ad in the April 1984 issue of PCjr Magazine lists "Championship Boxing" at $22,[^ref-27] and Computer Entertainer's July 1984 issue announced it as "planned shortly for IBM PC/PCjr, Apple, and later for C64."[^ref-28] Retro365 also dates the IBM PC release to 1984, the year it was reviewed.[^ref-16]
 
 Players could build their own boxer or pick from historical fighters, coach from the corner between rounds, or play it arcade style.[^ref-21] InfoWorld called it "by far the most extensive sports game created for a microcomputer."[^ref-24] Retro365 says that Dave did the programming while Barry made the graphics and animation.[^ref-16] Retro365 also notes that Sierra kept porting the game and was still marketing it in 1988.[^ref-16]
 
@@ -72,15 +72,18 @@ Sierra-published games in this archive:
 - **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] — Genre: Adventure
 - **Cancelled** — [[CXL - Manhunter 3|Manhunter 3: London]] — Genre: Adventure
 
-Other Evryware games (not Sierra-published): The Ancient Art of War (Brøderbund, 1984), The Ancient Art of War at Sea (Brøderbund, 1987), The Ancient Art of War in the Skies (MicroProse, 1992), SpaceKids (1994), Space Dude (1996) and Pyrosaurus (1997).[^ref-21][^ref-22]
+Other Evryware games (not Sierra-published): The Ancient Art of War (Brøderbund, 1984), The Ancient Art of War at Sea (Brøderbund, 1987), The Ancient Art of War in the Skies (MicroProse, 1992), SpaceKids (1994), Space Dude (1996) and Pyrosaurus (1997).[^ref-21][^ref-22] MobyGames also credits Evryware on The Ancient Art of War 2 (2014; Windows, Mac, iOS, Android).[^ref-14]
 
 ## References
 
 [^ref-6]: [Evryware Official Site - Team](https://www.evryware.com/team.html) — Dave Murry "Technical Director, Co-Founder"; Dee Dee Murry lead artist "since 1984"
-[^ref-14]: [MobyGames - Evryware Inc.](https://www.mobygames.com/company/16/evryware-inc/) — company founded by brothers Dave and Barry Murry; credited game list
+[^ref-14]: [MobyGames - Evryware Inc. (Wayback Machine, 22 April 2025)](https://web.archive.org/web/20250422234802/https://www.mobygames.com/company/16/evryware-inc/) — company founded by brothers Dave and Barry Murry; credited game list, 1981–2014, incl. The Ancient Art of War 2 (2014)
 [^ref-16]: [Retro365 Blog - Sierra Championship Boxing](https://retro365.blog/2022/11/23/q-bits-from-my-personal-collection-sierra-championship-boxing-the-most-extensive-sports-game-created-for-microcomputers/) — 1980 founding by Dave Murry and Joe Gargiulo; Dave programming, Barry graphics; 1984 PC release; marketed until 1988
 [^ref-21]: [Games Domain - Interview with Evryware (Part 1), Orchun Kolcu, 1 June 1997 (Wayback Machine)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) — the Murrys on their history, Championship Boxing, The Ancient Art of War, Manhunter, Dee Dee and Joe Gargiulo joining, sales, rights
 [^ref-22]: [Evryware Official Site - Chronology](https://www.evryware.com/chronology.html) — release years 1980–1997; web design firm and record label after Pyrosaurus
 [^ref-23]: [Larry Laffer Dot Net - Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) — Evryware–Sierra association ended 1989; Manhunter 3: London never reached production
 [^ref-24]: [Wikipedia - Sierra Championship Boxing](https://en.wikipedia.org/wiki/Sierra_Championship_Boxing) — InfoWorld: "by far the most extensive sports game created for a microcomputer"
 [^ref-25]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — Manhunter 2: San Francisco as Sierra's final AGI-based title
+[^ref-26]: [Computer Gaming World, Vol. 4 No. 2 (1984) (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_4.2) — publisher list: Sierra On-Line, Coarsegold CA; titles include "Sierra Championship Boxing"
+[^ref-27]: [PCjr Magazine, Vol. 1 No. 3, April 1984 (Internet Archive)](https://archive.org/details/pcjr-magazine-1984-volume-1) — mail-order ad, PCjr recreation: "Championship Boxing ...$22"
+[^ref-28]: [Computer Entertainer, Vol. 3 No. 4, July 1984 (Internet Archive)](https://archive.org/details/computer-entertainer-3-4) — "It's planned shortly for IBM PC/PCjr, Apple, and later for C64 (retail $34.95)"; July schedule for PCjr and Apple, August for C64

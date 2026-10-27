@@ -82,7 +82,7 @@ The shrine credits the series with bizarre camera angles, picture-in-a-picture v
 
 ### Origins
 
-The Manhunter series was the brainchild of Barry Murry, Dave Murry, and Dee Dee Murry of Evryware Inc., a software company they had founded in 1979.[^ref-2] Barry and Dave had previously earned accolades for The Ancient Art of War (1984) and The Ancient Art of War at Sea (1987), both published by Brøderbund.[^ref-2][^ref-18] They had also created Sierra Championship Boxing, which Sierra published in 1983 after a Microsoft contact introduced their game to Ken Williams.[^ref-2][^ref-16]
+The Manhunter series was the brainchild of Barry Murry, Dave Murry, and Dee Dee Murry of Evryware Inc.; Barry and Dave had been creating computer games together since 1979.[^ref-2][^ref-16] Barry and Dave had previously earned accolades for The Ancient Art of War (1984) and The Ancient Art of War at Sea (1987), both published by Brøderbund.[^ref-2][^ref-18] They had also created Sierra Championship Boxing, which Sierra published in 1983 after a Microsoft contact introduced their game to Ken Williams.[^ref-2][^ref-16]
 
 While the Murrys were working on The Ancient Art of War at Sea, Sierra offered them the chance to use its game system to make whatever kind of game they wanted.[^ref-2][^ref-16] The Murrys decided that they wanted this new game to be different from any of the other adventure games for which Sierra was becoming famous.[^ref-2] Their concept went through many different changes over the course of the design process, resulting in the unique style that would define the Manhunter series.[^ref-2]
 
