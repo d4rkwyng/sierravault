@@ -88,7 +88,7 @@ Ken and Roberta Williams returned to game development at Cygnus Entertainment, w
 
 ### Jim Walls (Precinct — cancelled)
 
-[[Jim Walls]] (Police Quest creator) attempted a Kickstarter-funded Police Quest spiritual successor *Precinct* in 2013. The crowdfunding failed and the project was cancelled — see [[CXL - Precinct (2013)|the Cancelled Game Index entry]]. Walls's earlier post-Sierra game [[1993 - Blue Force|Blue Force]] (1993) at Tsunami Media is included here as the only released Walls successor.[^ref-21]
+[[Jim Walls]] (Police Quest creator) attempted a Kickstarter-funded Police Quest spiritual successor *Precinct* in 2013. Its Kickstarter campaign, which had raised $85,756 of a $500,000 goal, was called off by its creators on August 6, 2013,[^ref-27] and the game was cancelled — see [[CXL - Precinct (2013)|the Cancelled Game Index entry]]. Walls's earlier post-Sierra game [[1993 - Blue Force|Blue Force]] (1993) at Tsunami Media is included here as the only released Walls successor.[^ref-21]
 
 ## Indie tribute thread
 
@@ -147,3 +147,4 @@ Crowdfunding has been central: *Hero-U* used two Kickstarter campaigns,[^ref-12]
 [^ref-24]: [Legend Entertainment — Company Information (Wayback, January 1997)](https://web.archive.org/web/19970110031944/http://www.legendent.com/compinfo/compinfo.html) — "In the fall of 1995, Legend published both Shannara… and Mission Critical"; "Shannara (December 1995)"
 [^ref-25]: [Polygon — The Red Baron prepares to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) — September 22, 2015: "In 2013, Slye attempted to raise $250,000 on Kickstarter to fund a remake… The campaign failed."
 [^ref-26]: [Multiplayer.it — Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) — Giorgio Melani, December 7, 2025 (Italian): "Il progetto si chiama Gabriel Knight 4: Five Hearts"
+[^ref-27]: [Kickstarter — Precinct (Wayback, August 15, 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) — "$85,756 pledged of $500,000 goal"; "Funding for this project was canceled by the project creator on August 6."

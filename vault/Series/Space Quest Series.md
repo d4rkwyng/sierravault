@@ -168,7 +168,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-10]: [SpaceQuest.net - Fan games](https://spacequest.net/misc/fanfiction/fangames/) – Makers of Lost Chapter (Vonster D Monster), Replicated (Jeff Stewart), VSB (Vohaul Strikes Back Team), Incinerations (Cris Ushko), SQ2 VGA (Infamous Adventures)
 [^ref-11]: [GOG - Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – Changelog (20 February 2026): "Space Quest 1: Added VGA version of the game"
 [^ref-12]: [GOG - Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – Store page, checked 2026-10-16
-[^ref-13]: [Steam - Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – Sierra / Activision, released Sep 1, 2006; store page checked 2026-10-16
+[^ref-13]: [Steam - Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – Sierra / Activision, released Jul 23, 2009; store page checked 2026-10-16
 [^ref-14]: [MobyGames - Space Quest IV](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) – "the dark future of Space Quest XII"; first in the series to abandon the text parser
 [^ref-15]: [MobyGames - Space Quest V](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/) – Starfleet Academy parody; "plenty of opportunities for the hero to die horribly"
 [^ref-16]: [MobyGames - Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – First CD-ROM-only entry; SVGA; immediate retry after death; sci-fi movie parody

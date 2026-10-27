@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -311,7 +311,7 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 
 This game has been included in[^ref-20][^ref-21]:
 - King's Quest: Collector's Edition (1994) – Games 1-6, King's Questions trivia game, KQ7 demo
-- The Roberta Williams Anthology (1996) – 14 games spanning Williams' career
+- The Roberta Williams Anthology (1996) – 15 games spanning Williams' career plus the first chapter of *Phantasmagoria*[^ref-57]
 - King's Quest Collection (1997) – Complete classic series
 - King's Quest Collection (2006) – Seven games with DOSBox for Windows XP
 - King's Quest 4+5+6 (2010) – GOG.com digital release, ScummVM-powered
@@ -394,3 +394,4 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
 [^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
 [^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"
+[^ref-57]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"

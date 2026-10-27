@@ -1,10 +1,11 @@
 ---
 title: "Collections & Anthologies Guide"
-last_updated: "2026-10-16"
+type: guide
+last_updated: "2026-10-26"
 ---
 # Collections & Anthologies Guide
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 This guide tracks official collections, anthology boxes, and modern digital bundles that gather multiple Sierra (or Sierra-adjacent) games into one release. Contents are taken from each product's MobyGames record or store page; store listings were checked on October 16, 2026. Use it to see which packages include a full series and which versions are shipped.
 
@@ -16,13 +17,13 @@ This guide tracks official collections, anthology boxes, and modern digital bund
 
 ### Space Quest
 - **Space Quest: Collector's Edition (1994)** – SQ1 (both EGA and VGA versions), SQ2, SQ3, SQ4 (English CD-ROM version) and SQ5, plus a humorous movie clip about the history of the series.[^ref-3]
-- **Space Quest: Collection Series (1997)** – SQ1 (VGA version) through Space Quest 6, plus a preview of the never-completed Space Quest VII.[^ref-4]
+- **Space Quest: Collection Series (1997)** – SQ1 through Space Quest 6, plus a preview of the never-completed Space Quest VII. MobyGames lists SQ1 in its VGA version; the SCG version tables list both the original AGI release and the VGA remake.[^ref-4][^ref-34]
 
 ### Leisure Suit Larry
 - **Leisure Suit Larry: Triple Pack (1990)** – DOS/Amiga floppy compilation of Larry 1–3.[^ref-5]
-- **Leisure Suit Larry's Greatest Hits and Misses! (1994)** – LSL1 (original and remake), 2, 3, 5 and 6 (the original version without speech), plus *The Laffer Utilities*, *Larry's Big Score*, an early *Leisure Suit Larry's Casino* and the DOS remake of *Softporn Adventure*.[^ref-6]
+- **Leisure Suit Larry's Greatest Hits and Misses! (1994)** – LSL1 (original and remake), 2, 3, 5 and 6 (the original version without speech), plus *The Laffer Utilities*, *Larry's Big Score*, [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] (1992) and the DOS remake of *Softporn Adventure*.[^ref-6]
 - **Leisure Suit Larry: Collection Series (1997)** – Two discs: DOS versions of LSL1 (original and remake), 2, 3, 5 and 6, plus a Windows version of LSL6 with a revised interface and speech. There is no Larry 4, which was never made.[^ref-7]
-- **Leisure Suit Larry: Ultimate Pleasure Pack (1999)** – LSL1–3, 5, 6 and *Love for Sail!*, plus both *Leisure Suit Larry's Casino* games, *The Laffer Utilities* and the original 1981 *Softporn Adventure*.[^ref-8]
+- **Leisure Suit Larry: Ultimate Pleasure Pack (1999; the SCG version tables date it 2000)** – LSL1–3, 5, 6 and *Love for Sail!*, plus both *Leisure Suit Larry's Casino* games, *The Laffer Utilities* and the original 1981 *Softporn Adventure*.[^ref-8][^ref-34]
 
 ### Police Quest
 - **Daryl F. Gates' Police Quest Collection: The 4 Most Wanted (1995)** – PQ1 (both the EGA original and the VGA remake), PQ2, PQ3 and *Open Season*, with a book containing the original manuals and hint materials, an abridged LAPD manual and an interview with Daryl F. Gates.[^ref-9]
@@ -36,17 +37,18 @@ This guide tracks official collections, anthology boxes, and modern digital bund
 - **The Roberta Williams Anthology (1996 DOS / 1997 Windows)** – KQ1–KQ7, Hi-Res Adventures #0, #1, #2 and #6 (*Mission Asteroid*, *Mystery House*, *The Wizard and the Princess*, *The Dark Crystal*), *Time Zone*, both Laura Bow games, *Mixed-Up Mother Goose*, the first chapter of *Phantasmagoria*, and video interviews with Ken and Roberta Williams.[^ref-13]
 - **Gabriel Knight Mysteries: Limited Edition (1998)** – GK1 and GK2, plus the graphic novel for GK3 and the GK1 soundtrack.[^ref-14]
 - **Aces: The Complete Collector's Edition (1995)** – Dynamix's *A-10 Tank Killer*, *Aces of the Pacific*, *Aces Over Europe* and *Red Baron* on one CD-ROM, plus *The Aviation Pioneers 1903–1939* documentary program.[^ref-15]
-- **Aces: Collection Series (1997)** – Two CDs and six games: *A-10 Tank Killer* v1.5, *Aces of the Deep*, *Aces of the Pacific* with its *WWII: 1946* expansion, *Aces Over Europe*, *Red Baron* with *Mission Builder*, and *Silent Thunder*.[^ref-16]
+- **Aces: Collection Series (1997)** – Two CDs and six games: *A-10 Tank Killer* v1.5, *Command: Aces of the Deep*, *Aces of the Pacific* with its *WWII: 1946* expansion, *Aces Over Europe*, *Red Baron* with *Mission Builder*, and *Silent Thunder*.[^ref-16]
 - **Inca I & II: Collector's Edition (1995)** – *Inca* and *Inca II: Nations of Immortality*, plus a soundtrack disc.[^ref-19]
 - **Front Page Sports: All Pro Collection – Collection Series (1997)** – *FPS: Baseball Pro '96*, *FPS: Football Pro '97*, *FPS: Golf*, *Trophy Bass* and *You Don't Know Jack: Sports*.[^ref-20]
 - **3-D Ultra Pinball (Collector's Edition) (1998)** – *3-D Ultra Pinball*, *Creep Night* and *The Lost Continent*, plus a VHS copy of *The History of Pinball*.[^ref-17]
 - **3-D Ultra Pinball Pack (1999)** – *3-D Ultra Pinball* and *Creep Night*, with a demo of *The Lost Continent*.[^ref-18]
+- **[[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power!]] (1999)** – Windows/Mac compilation listed by MobyGames as *3-D Ultra Pinball*, *Creep Night*, *The Lost Continent* and *Turbo Racing* (the NASCAR Pinball game), plus a three-hole demo of *3-D Ultra Minigolf*.[^ref-35]
 
 ## Early Digital-Era Compilations
 
 - **Sierra's Classic Adventures (2001)** – *Gabriel Knight 3*, *King's Quest: Mask of Eternity* and *Leisure Suit Larry: Love for Sail!*[^ref-21]
 - **Best of Sierra: Strategy (2004)** – *Homeworld 2*, *Empire Earth* and *The Lord of the Rings: War of the Ring*.[^ref-26]
-- **Windows XP re-releases (2006)** – Four separate collections: *King's Quest Collection* (KQ1–KQ7),[^ref-22] *Space Quest Collection* (SQ1 in its EGA version through Space Quest 6),[^ref-23] *Police Quest Collection* (PQ1–PQ4)[^ref-24] and *Leisure Suit Larry Collection* (LSL1–3, 5 and 6).[^ref-25]
+- **Windows XP re-releases (2006)** – Four separate collections: *King's Quest Collection* (KQ1–KQ7),[^ref-22] *Space Quest Collection* (SQ1 through Space Quest 6; MobyGames lists SQ1's EGA version, while the SCG version tables list the VGA remake),[^ref-23][^ref-34] *Police Quest Collection* (PQ1–PQ4)[^ref-24] and *Leisure Suit Larry Collection* (LSL1–3, 5 and 6).[^ref-25]
 
 ## Modern Digital Bundles
 
@@ -62,7 +64,7 @@ No fan-made "collection" products are catalogued here. For fan remakes and commu
 
 ## Tips for Using Collections
 
-1. **Check which versions are included:** Collections differ in which edition of a game they ship. *Space Quest: Collector's Edition* has both the EGA and VGA versions of SQ1, while the 1997 *Collection Series* has only the VGA remake and the 2006 Windows XP collection only the EGA version.[^ref-3][^ref-4][^ref-23]
+1. **Check which versions are included:** Collections differ in which edition of a game they ship. *Space Quest: Collector's Edition* has both the EGA and VGA versions of SQ1.[^ref-3] For the later sets the sources disagree: MobyGames lists the VGA remake in the 1997 *Collection Series* and the EGA version in the 2006 collection, while the SCG version tables list both versions in 1997 and the VGA remake in 2006.[^ref-4][^ref-23][^ref-34] The Steam *Space Quest Collection* offers both versions, the VGA one in its legacy launcher.[^ref-36]
 2. **Mind the extras:** Some boxes include physical extras, such as *The 4 Most Wanted*'s manual book or the 3-D Ultra Pinball VHS documentary.[^ref-9][^ref-17]
 3. **Patches:** Apply community updates immediately after installing from a collection; check each game's page for known fixes.
 4. **Manuals & codes:** Keep the included manuals handy for games that still prompt for copy-protection lookups.
@@ -105,3 +107,6 @@ Use this guide alongside the [[Site Index]] and [[Platform Guide]] to decide whi
 [^ref-31]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) – Released August 29, 2016 (Police Quest Collection, app 494740, same date)
 [^ref-32]: [Game Informer – Humble Sierra Bundle Offers Up Adventure Classics](https://www.gameinformer.com/b/news/archive/2016/08/30/humble-sierra-bundle-offers-up-adventure-classics.aspx) – Matt Miller, August 30, 2016; tier contents
 [^ref-33]: [SteamGifts – Humble Sierra the 3rd Bundle](https://www.steamgifts.com/discussion/yQysW/humble-bundle-humble-sierra-the-3rd-bundle) – "3 Tiers, 17 Items 05 May 2020 - 19 May 2020"; tier contents
+[^ref-34]: [SCG Wiki – Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – "Leisure Suit Larry: The Ultimate Pleasure Pack (2000)"; Collection Series 1997 lists "Space Quest 1 (AGI) 2.2" and "Space Quest 1 (SCI) 2.000"; Space Quest Collection (2006) lists "Space Quest 1 (SCI) 2.000"
+[^ref-35]: [MobyGames – 3-D Ultra Pinball: Power!](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – read via the MobyGames API; Windows/Mac 1999; four pinball games incl. "3-D Ultra Pinball: Turbo Racing", "demo of 3-D Ultra Minigolf with three playable holes"
+[^ref-36]: [PCGamingWiki – Space Quest: Chapter I - The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter) – Steam: "Space Quest Collection. EGA and VGA versions (the latter in the legacy launcher)."

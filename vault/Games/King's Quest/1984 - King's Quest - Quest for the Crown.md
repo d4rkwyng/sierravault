@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game, credited
   with saving Sierra On-Line from the effects of the 1983 video game crash and considered
   the start of the graphic adventure genre.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -229,7 +229,7 @@ In the Companion and other sources the dragon is described as about twelve feet 
 
 This game has been included in[^ref-8][^ref-9]:
 - King's Quest: Collector's Edition (1994) – Games 1-6, King's Questions quiz, KQ7 demo, Sierra 15th Anniversary content
-- The Roberta Williams Anthology (1996) – 14 games spanning her career with Apple II emulator
+- The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator[^ref-53]
 - King's Quest: Collection Series (1997) – Budget re-release of classic series
 - King's Quest Collection (2006) – Seven games with DOSBox emulator for Windows
 - King's Quest 1+2+3 (2010) – GOG.com digital release
@@ -314,3 +314,4 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-50]: [Electronic Games – December 1984 (vol. 2 no. 17), "Passport to Adventure", p. 44](https://archive.org/details/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US) – Original King's Quest review scan
 [^ref-51]: [COMPUTE! – February 1985, "Inside King's Quest" by Donald B. Trivette (full text)](https://archive.org/stream/1985-02-compute-magazine/Compute_Issue_057_1985_Feb_djvu.txt) – Priority system (top of screen low, bottom high), example commands, wraparound kingdom, four-second room draw, several solutions per puzzle, "a year before the PCjr was announced"
 [^ref-52]: [Wikipedia – IBM PCjr](https://en.wikipedia.org/wiki/IBM_PCjr) – "IBM discontinued the PCjr on March 19, 1985"
+[^ref-53]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"; "The Apple II titles contain an Apple II emulator for Windows"
