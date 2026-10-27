@@ -104,7 +104,7 @@ Some retrospective voices are more enthusiastic. One MobyGames user declared tha
 
 ### Origins
 
-The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993 and widely considered one of the best PC RPGs ever made[^ref-28]. The original development team at Dynamix, led by designers John Cutter and Neal Hallford, had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10].
+The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993 and widely considered one of the best PC RPGs ever made[^ref-28]. The original development team at Dynamix, led by designers [[John Cutter]] and Neal Hallford, had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10]. Computer Gaming World reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter"[^ref-53].
 
 The rights to create Midkemia games had originally been secured through a licensing deal with Raymond E. Feist. Feist was protective of his intellectual property; when approached about contributing directly to game development, he stated that his time was money and noted flatly, "you couldn't afford me"[^ref-30]. By one account, it was "the most expensive literary license yet granted to a game developer"[^ref-30].
 
@@ -123,6 +123,7 @@ The game was completed by PyroTechnix under Sierra's direction and released in N
 - **Game Design and Story Consultants (PyroTechnix):** Steve Abrams, Craig Bolin, Raymond E. Feist, Brian Kraack, Jeff Mills, Erick Wujcik
 - **Writers (7th Level):** Joshua Culp, William Maxwell
 - **Original Story Concept (7th Level):** Neal Hallford[^ref-32]
+- **Special Thanks for their vision in creating Betrayal at Krondor (7th Level):** [[John Cutter]], Neal Hallford[^ref-51]
 - **Executive in Charge (PyroTechnix):** Sinjin Bain
 - **Lead Engineer and Producer (PyroTechnix):** Chuck Wiggins
 
@@ -322,3 +323,4 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-50]: [Game-Over.net Review](https://www.game-over.net/review/december/rtk/) – series intentions
 [^ref-51]: [MobyGames – Return to Krondor Windows credits](https://www.mobygames.com/game/458/return-to-krondor/credits/windows/) – full credits with role labels, voice talent
 [^ref-52]: [GameSpot – New Releases, November 24, 1998 (Archived)](https://web.archive.org/web/20000606102406/http://headline.gamespot.com/news/98_11/24_pc_new/index.html) – North American release date
+[^ref-53]: [Computer Gaming World #117 (April 1994), letter "New Riftwar In Krondor?" (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_117) – p. 142: Dynamix "elected to terminate both the project and the project's guiding force on the computer side, John Cutter"

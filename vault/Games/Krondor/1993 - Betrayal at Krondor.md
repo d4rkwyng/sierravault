@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 composer: [Jan Paul Moorhead]
 description: Betrayal at Krondor is a role-playing game developed by
   Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -137,7 +137,7 @@ The project began with a week in which Cutter and Hallford hashed out the game a
 
 **Development Credits:**[^ref-24]
 
-- **Producer/Designer:** John Cutter
+- **Design, Director:** John Cutter[^ref-24]
 - **Lead Writer/Designer:** Neal Hallford
 - **Lead Programmer:** Nels Bruckner[^ref-28]
 - **Composer:** Jan Paul Moorhead[^ref-1][^ref-31]
