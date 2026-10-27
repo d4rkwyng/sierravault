@@ -7,11 +7,11 @@ headquarters: "Syracuse, New York, United States"
 notable_games: ["Quest for Infamy", "Order of the Thorne: The King's Challenge"]
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made wit
 
 In March 2015 Infamous Quests announced *Order of the Thorne: The King's Challenge* and a *Quest for Infamy* prequel, *Roehm to Ruin*. A Kickstarter for both succeeded on 3 May 2015, raising $30,944, and the studio then added a third game, *Order of the Thorne: Fortress of Fire*.[^ref-9] *The King's Challenge* was released on 26 January 2016.[^ref-1][^ref-22]
 
-In the October 2025 Patreon post, Alexander wrote that the game's "financial turnout… was, to say, way under expectations". He said that "Most folks moved on to other jobs" and that for a long time he had been the main person working on the remaining games. *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm. *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5]
+In the October 2025 Patreon post, Alexander wrote that the game's "financial turnout… was, to say, way under expectations". He said that "Most folks moved on to other jobs" and that for a long time he had been the main person working on the remaining games. *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm.[^ref-21] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines.[^ref-23] *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5]
 
 ## Notable Games
 
@@ -70,3 +70,4 @@ In *The King's Challenge*, the player guides Finn the bard "on his quest to writ
 [^ref-19]: [PostuStudios - Quest for Infamy Company Page](https://www.postudios.com/company/games/questforinfamy/) — QfI "A spiritual heir to yesteryear's heroic quests", release July 10th, 2014; OotT release post (Finn the bard, Faerie Realm challenge)
 [^ref-21]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — no longer full-time; Roehm to Ruin awaiting voice sessions; Fortress of Fire "in a real state of limbo"
 [^ref-22]: [MobyGames - Order of the Thorne: The King's Challenge credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) — release 2016-01-26; team roles (Mills, Alexander, Broom)
+[^ref-23]: [Patreon - Infamous Quests, public post (4 Apr 2026)](https://www.patreon.com/posts/154760603) — "I have studio time booked in May so that I can get Mr. Steve Patrick in the studio and finish recording all the lines for Mr. Roehm"

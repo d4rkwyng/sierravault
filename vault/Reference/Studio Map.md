@@ -96,7 +96,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 |--------|---------|--------|---------------|
 | [[AGD Interactive\|AGD Interactive]] | 2001 (as Tierra Entertainment) | Active | King's Quest I, II and III remakes (KQ3 Redux), Quest for Glory II remake[^ref-51] |
 | [[Infamous Adventures\|Infamous Adventures]] | 2004 | Stopped producing games July 2012 | King's Quest III remake (2006), Space Quest II VGA[^ref-52] |
-| [[Infamous Quests\|Infamous Quests]] | 2012 | Active | Quest for Infamy series, Order of the Thorne[^ref-53] |
+| [[Infamous Quests\|Infamous Quests]] | 2012 | Active, no longer full-time[^ref-99] | Quest for Infamy series, Order of the Thorne[^ref-53] |
 | [[Himalaya Studios\|Himalaya Studios]] | 2004 | Active | Al Emmo and the Lost Dutchman's Mine (2006), Mage's Initiation: Reign of the Elements (2019)[^ref-54] |
 | SCP Sierra Conversion Project | — | Active | Amiga OCS enhanced conversions of Sierra games, beginning with Space Quest IV (2025–26)[^ref-55] |
 
@@ -204,3 +204,4 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-96]: [The Fresno Bee — "Software firm's products futuristic but easier to use" (Lisa Crumrine, June 12, 1992, p. 44; Newspapers.com clipping, Wayback)](https://web.archive.org/web/20250621044152/https://www.newspapers.com/article/the-fresno-bee/163959211/) — "The founder of Tsunami Media, a year-old computer… software upstart"; Heinbockel; Jim Walls among the employees
 [^ref-97]: [The Adventurers Guild — Blue Force (1993): Introduction (October 2022)](https://advgamer.blogspot.com/2022/10/blue-force-1993-introduction.html) — "Tsunami Media, Inc., a game company founded in 1991"; "Former Sierra Chief Financial Officer Edmond Heinbockel started Tsunami in 1991"
 [^ref-98]: [CUC Agrees to Acquire Berkeley Systems Inc. - LA Times, 10 April 1997](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — Chris Deyo to "report to executives at Sierra Online, another game company acquired by CUC last year"
+[^ref-99]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — after Order of the Thorne "we really couldn’t go on as a full-time game development company"
