@@ -78,6 +78,7 @@ GameFAQs users rate the Saturn version "Great" (17 ratings)[^ref-2]. The Retro G
 **Aggregate Scores:**
 - **Famitsu Cross Review:** 29/40 (Saturn and PlayStation)[^ref-24]
 - **GameFAQs:** "Great" (17 ratings)[^ref-2]
+- **MyAbandonware (Saturn):** 3.5/5 (4 votes, as of October 26, 2026)[^ref-16]
 
 ## Development
 
@@ -109,7 +110,7 @@ The game uses visual and audio material from the *Ghosts 'n Goblins* universe, i
 
 **Sega Saturn Version:**[^ref-25]
 - **Product Code:** T-1209G; RRP ¥5,800[^ref-25]
-- **Media:** CD-ROM; sound via SCSP/CD-DA (18 tracks)[^ref-25]; ~406 MB (405.8 MiB) disc image[^ref-18]
+- **Media:** CD-ROM; sound via SCSP/CD-DA (18 tracks)[^ref-25]; ~406 MB (405.8 MiB) disc image[^ref-16][^ref-18]
 - **Peripherals:** Shuttle Mouse supported[^ref-25]
 - **Players:** 1[^ref-25]
 
@@ -195,6 +196,7 @@ Arthur to Astaroth no Nazo Makaimura is an obscure spinoff of both *The Incredib
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – fan-made RetroAchievements set: 20 achievements, "Clear Puzzles 1 through 5" to "96 through 100"
 [^ref-14]: [PSXDataCenter – Arthur To Astaroth No Nazo Maikamura - Incredible Toons (SLPS-00363)](https://psxdatacenter.com/games/J/A/SLPS-00363.html) – PlayStation release data: 30 August 1996, ~500 MB disc image, 19 tracks, mouse compatible, 1 memory card block
 [^ref-15]: [Retro Gaming Daily Show – July 2019](https://retrogamingdailyshow.libsyn.com/2019/07) – episode 248 "Sega Saturn - A Japanese Voyage of Discovery" (Jul 19, 2019) lists the game
+[^ref-16]: MyAbandonware – Arthur to Astaroth no Nazo Makaimura: Incredible Toons, SEGA Saturn version (myabandonware.com) – user rating 3.5/5 from 4 votes (October 26, 2026); 406 MB download
 [^ref-17]: [MobyGames – Screenshots](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/screenshots/playstation/432796/) – resolution data
 [^ref-18]: [GameFAQs – Saturn Game List](https://gamefaqs.gamespot.com/saturn/916393-sega-saturn/faqs/81877/game-list) – Saturn file size: "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan) 405.8 MiB"
 [^ref-21]: [GameFAQs – FAQs Page](https://gamefaqs.gamespot.com/ps/573263-arthur-to-astaroth-no-nazo-makai-mura-incredible-toons/faqs) – available guides, franchise connections

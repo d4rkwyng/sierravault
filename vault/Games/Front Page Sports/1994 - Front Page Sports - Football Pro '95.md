@@ -84,12 +84,13 @@ In its 2008 feature "Ten Sports Games That Need To Be Remade", IGN included the 
 - **MobyGames:** 78% (Critics)[^ref-1]
 - **Home of the Underdogs:** 9.02[^ref-4]
 - **OldGames.sk:** 70%[^ref-5]
+- **My Abandonware:** 4.54/5 (13 votes, as of October 26, 2026)[^ref-17]
 
 ## Development
 
 ### Origins
 
-The Front Page Sports: Football series began in 1992 as [[Dynamix]]'s entry into the sports simulation market[^ref-6]. Lead designer [[Patrick Cook]] came to the series from "his earlier tenure with Cinemaware's TV Sports series of games", in Computer Gaming World's words[^ref-27]; MobyGames credits him on Cinemaware's *TV Sports: Football* as Executive Producer (DOS), Head Coach (Atari ST) and Producer (Commodore 64)[^ref-28].
+The Front Page Sports: Football series began in 1992 as [[Dynamix]]'s entry into the sports simulation market[^ref-6]. Lead designer [[Patrick Cook]] came to the series from "his earlier tenure with Cinemaware's TV Sports series of games", in Computer Gaming World's words[^ref-27]; MobyGames credits him on Cinemaware's *TV Sports: Football* as Executive Producer (DOS), Head Coach (Atari ST) and Producer (Commodore 64)[^ref-28]. Home of the Underdogs' review of the original *Front Page Sports: Football* (not Football Pro '95), reproduced on MyAbandonware, calls it "One of the best sports games ever made, period" and says Cook "pulled out a masterpiece that few football games have rivalled since"[^ref-25].
 
 The '95 edition followed *Front Page Sports: Football Pro* (1993), which had been named Computer Gaming World's Sports Game of the Year[^ref-24]. Football Pro '95 was the first version of the series to include real NFL players and teams[^ref-6].
 
@@ -142,10 +143,11 @@ A forum user describes the fully patched version as "v1.03"[^ref-15].
 - Three tutorial plays from the manual are missing in version 1.0; with the patch installed they appear as shown in the manual[^ref-11]
 - On Android DOSBox ports, the unpatched game "tends to crash at half-time", while the patched version triggers manual look-up copy protection[^ref-15]
 
-Patched versions require looking up codes in the manual[^ref-15].
+MyAbandonware lists the game as supported on DOSBox 0.61[^ref-17]. Patched versions require looking up codes in the manual[^ref-15].
 
 ### Easter Eggs and Trivia
 
+- **"Hike" Command:** A user comment on MyAbandonware notes that you type "hike" to run the game[^ref-17]
 - **2-Point Conversions:** The '95 edition implemented the major rule changes including 2-point conversions[^ref-1]
 - **30-Yard Kickoffs:** Kickoffs from the 30-yard line were included among the rule changes[^ref-1]
 - **Over 2,500 Play Situations:** The stock plays cover over 2,500 play situations[^ref-1]
@@ -188,6 +190,9 @@ The series as a whole influenced later sports games: Wikipedia credits it with f
 
 ## Downloads
 
+**Download / Preservation**
+- [My Abandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-95-season-2ru) - Full game download (not sold on GOG or Steam as of October 26, 2026)
+
 **Patches & Updates**
 - [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official updates fbp95 (1.02) and fbp95_13
 
@@ -220,11 +225,13 @@ The series as a whole influenced later sports games: Wikipedia credits it with f
 [^ref-13]: [Steam Community – Front Page Sports Football (2014, Cyanide)](https://steamcommunity.com/app/316700) – fan comment on the original series
 [^ref-14]: [IGN – Front Page Sports: Football Pro '95](https://www.ign.com/games/front-page-sports-football-pro-95) – game page linking "Ten Sports Games That Need To Be Remade"
 [^ref-15]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – tablet emulation, patched v1.03, manual look-up copy protection
+[^ref-17]: My Abandonware – Front Page Sports: Football Pro '95 Season (myabandonware.com) – user rating 4.54/5 from 13 votes (October 26, 2026); DOSBox "Supported on 0.61"; a user comment (2018-11-13) says to type "hike" to run the game
 [^ref-19]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – fbp95 (1.02) and fbp95_13 update files
 [^ref-20]: [Steam – Front Page Sports Football (Cyanide Studio, 2014)](https://store.steampowered.com/app/316700/) – unrelated 2014 game; developer Cyanide Studio, released Oct 2, 2014
 [^ref-21]: [GM Games Forum – VPNFL Mod](https://web.archive.org/web/20260131055418/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – Football Pro '98 modding community, VPNFL mod description
 [^ref-23]: [MobyGames – Front Page Sports: Football Pro '95 DOS credits](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/credits/dos/) – full credits, Sound Operating System, STATS Inc.
 [^ref-24]: [MobyGames – Front Page Sports: Football Pro (1993)](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – CGW Sports Game of the Year (June 1994) and Hall of Fame (March 1996) for the 1993 edition
+[^ref-25]: My Abandonware – Front Page Sports: Football, original game (myabandonware.com) – Home of the Underdogs review: "One of the best sports games ever made, period"; Patrick Cook "pulled out a masterpiece that few football games have rivalled since"
 [^ref-26]: [IGN – Ten Sports Games That Need To Be Remade (2008)](https://www.ign.com/articles/2008/06/12/ten-sports-games-that-need-to-be-remade) – FPS: Football Pro entry, "highlight of the series was the editions from 1995 through 1997"
 [^ref-27]: [Computer Gaming World, Issue 140 (March 1996), p. 242 – Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n245/mode/1up) – Football Pro induction; "Project leader Patrick Cook", "his earlier tenure with Cinemaware's TV Sports series of games"
 [^ref-28]: [MobyGames – Patrick Cook credits](https://www.mobygames.com/person/74/patrick-cook/credits/) – TV Sports: Football credits: Executive Producers (1989, DOS), Head Coach (1989, Atari ST), Producer (1990, Commodore 64)

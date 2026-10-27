@@ -21,7 +21,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 
 ## Overview
 
-Red Baron: Mission Builder is an add-on for Dynamix's World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. MobyGames summarises it in one line: it "adds a mission builder, new planes, and new aces to Red Baron"[^ref-2]. It is not a standalone game: its manual calls it "an enhancement of the original Red Baron program", so you need the original Red Baron to play it[^ref-23].
+Red Baron: Mission Builder is an add-on for Dynamix's World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. MobyGames summarises it in one line: it "adds a mission builder, new planes, and new aces to Red Baron"[^ref-2]. It is not a standalone game: its manual calls it "an enhancement of the original Red Baron program", so you need the original Red Baron to play it[^ref-23]. Home of the Underdogs' review of the base game, reproduced on MyAbandonware, calls Red Baron "arguably the best WW1 flight sim ever made"[^ref-4].
 
 Red Baron itself, released in December 1990, won Computer Gaming World's Simulation of the Year award for 1991 and entered the magazine's Hall of Fame in 1993[^ref-6]. It sold more than 500,000 units worldwide[^ref-6]. Slye later said its success made Dynamix known as a developer of flight simulators[^ref-6].
 
@@ -107,6 +107,7 @@ Today the add-on is sold as part of the Red Baron Pack on GOG.com and Steam. GOG
 - **MobyGames (Red Baron, base game):** 7.5/10[^ref-14]
 - **MobyGames (Mission Builder):** 7.4 Moby Score; 76% critics' average (5 ratings)[^ref-2]
 - **GOG.com (Red Baron Pack):** 4.4/5 (40 reviews, as of October 26, 2026)[^ref-13]
+- **MyAbandonware (Mission Builder):** 4.86/5 (7 votes, as of October 26, 2026)[^ref-3]
 - **Glitchwave (Mission Builder):** 2.50/5, from a single user rating[^ref-17]
 
 ## Development
@@ -177,7 +178,7 @@ The Sierra Chest fan database lists no Easter eggs for Red Baron: Mission Builde
 
 - Red Baron features 28 aircraft from both the Allied and German sides[^ref-14]
 - A multiplayer version was available on The Sierra Network[^ref-6]
-- Sierra released the 16-color version of Red Baron as freeware in 1997[^ref-6]
+- Sierra released the 16-color version of Red Baron as freeware in 1997[^ref-6]; the Home of the Underdogs review reproduced on MyAbandonware adds that this was done "to promote the sequel", and that the Mission Builder add-on was not part of the freeware release[^ref-4]
 - Owners of the 16-color version could send away for the 256-color version[^ref-14]
 - The Mission Builder manual's tips warn against setting missions higher than 20,000 feet, "since the pilot is likely to black out"[^ref-23]
 
@@ -240,6 +241,8 @@ Mission Builder made one change to Red Baron that mattered more than any other: 
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits
+[^ref-3]: MyAbandonware – Red Baron: Mission Builder (myabandonware.com; text citation only, the game is sold commercially) – user rating 4.86/5 from 7 votes (October 26, 2026); "an addon for Red Baron, you will need the original game to play"
+[^ref-4]: MyAbandonware – Red Baron (myabandonware.com; text citation only, the game is sold commercially) – Home of the Underdogs review: "Arguably the best WW1 flight sim ever made"; "Sierra released this game as freeware in 1997 to promote the sequel, but did not also release the rarer Mission Builder add-on disk"
 [^ref-5]: [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual) – developer, documentation
 [^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – awards, CGW four-star Mission Builder rating, 500,000 sales, Slye paraphrase, Spector quote, physics
 [^ref-8]: [SEC.gov – Sierra On-Line Form 10-K (1996)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales data, flight simulation series details

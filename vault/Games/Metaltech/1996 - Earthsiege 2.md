@@ -81,7 +81,7 @@ MobyGames lists a critics' average of 81%, based on 18 ratings[^ref-9]. A Collec
 
 ### Origins
 
-Earthsiege 2 was developed by Dynamix and published by Sierra On-Line as the sequel to Metaltech: Earthsiege[^ref-1]. The game was dedicated "to the memory of Dariusz Lukaszuk (1964-1995)"[^ref-1].
+Earthsiege 2 was developed by Dynamix and published by Sierra On-Line as the sequel to Metaltech: Earthsiege[^ref-1]. Home of the Underdogs' review, reproduced on MyAbandonware, describes it as Dynamix's "third entrant into the giant robots genre", after Battledrome and Earthsiege[^ref-3]. The game was dedicated "to the memory of Dariusz Lukaszuk (1964-1995)"[^ref-1].
 
 ### Production
 
@@ -128,6 +128,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/es2demo) - Demo version
+- [MyAbandonware](https://www.myabandonware.com/game/earthsiege-2-a7b) - Freeware release
 - Hi-Rez Studios - Official freeware release (2015); see [PC Gamer's report](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/)
 
 ## See Also
@@ -150,6 +151,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 
 [^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details
 [^ref-2]: [Wikipedia - Earthsiege 2](https://en.wikipedia.org/wiki/Earthsiege_2) – - Setting (2624), HERCs, 640x480, branching missions, plot, review scores
+[^ref-3]: MyAbandonware – EarthSiege 2 (myabandonware.com) – - Home of the Underdogs review: "marks the company's third entrant into the giant robots genre", naming Battledrome and Earthsiege as the earlier two; user rating 4.53/5 from 49 votes (October 26, 2026); 2015 worldwide freeware release listed
 [^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – - Story background and universe context
 [^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – - Platforms (Windows, Windows 3.x), release date, launch errors
 [^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – - Cybrid motivation description

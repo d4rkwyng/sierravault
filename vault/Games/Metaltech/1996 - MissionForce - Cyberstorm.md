@@ -99,7 +99,7 @@ The instructions and early parts of the game present BioDerms as sub-human, but 
 
 ### Modern Assessment
 
-The game has been well regarded by retrospective writers. The patch author's itch.io page calls it "the highest-rated game at Home of the Underdogs (current score: 9.23)"[^ref-18]. User reviews on GameSpot average 8.5/10, with players praising the "excellent turn based combat in the brilliant Starsiege universe"[^ref-19].
+The game has been well regarded by retrospective writers. The patch author's itch.io page calls it "the highest-rated game at Home of the Underdogs (current score: 9.23)"[^ref-18], and that site's review, reproduced on MyAbandonware, calls it "one of the best giant robot strategy games ever made, bar none"[^ref-2]. User reviews on GameSpot average 8.5/10, with players praising the "excellent turn based combat in the brilliant Starsiege universe"[^ref-19].
 
 Even GameSpot's positive review cautioned that "CyberStorm won't appeal to everyone. Its turn-based style will seem a little dry to action and real-time strategy fans"[^ref-9]. Among fans of the series, "gamers almost universally preferred this to the sequel, Cyberstorm 2: Corporate Wars"[^ref-20].
 
@@ -158,6 +158,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 ## References
 
 [^ref-1]: [Wikipedia - MissionForce: CyberStorm](https://en.wikipedia.org/wiki/MissionForce:_CyberStorm) – Developer, publisher, plot, gameplay, HERCULAN, awards, reception (incl. Arcane review), GOG release
+[^ref-2]: MyAbandonware – MissionForce: CyberStorm (myabandonware.com; text citation only, the game is sold on GOG) – Home of the Underdogs review: "One of the best giant robot strategy games ever made, bar none"
 [^ref-3]: [Amazon Strategy Guide](https://www.amazon.com/MissionForce-CyberStorm-Official-Strategy-Secrets/dp/0761508732) – Game description
 [^ref-4]: [The Obscuritory](https://obscuritory.com/strategy/missionforce-cyberstorm/) – Critical assessment
 [^ref-6]: [Internet Archive Demo](https://archive.org/details/MissionforceCyberstormDemo) – Marketing description
