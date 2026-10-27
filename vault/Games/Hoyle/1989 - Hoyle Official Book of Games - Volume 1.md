@@ -115,7 +115,7 @@ The game was programmed using the SCI0 interpreter, the earliest version of Sier
 - **Programmers:** Warren Schwader, David Slayback
 - **Graphics:** Jerry (Gerald) Moore, Warren Schwader (Sierra's InterAction credits Moore alone for graphics)[^ref-31]
 - **Music and Sound:** Robert Atesalp
-- **Development System:** Jeff Stephenson, Robert E. Heitman, Pablo Ghenis, Stuart Goldstein
+- **Development System:** Jeff Stephenson, Robert E. Heitman, [[Pablo Ghenis]], Stuart Goldstein
 - **Writers:** Ellen Guon (Beeman), David Skinner
 
 The 18 computer opponents included characters from Sierra games (Colonel Henri Dijon, Shelly LeBlanc, Officer Sonny Bonds, Larry Laffer, King Graham, Roger Wilco, and Princess Rosella), Sierra employees, and children of Sierra staff members[^ref-1][^ref-21].

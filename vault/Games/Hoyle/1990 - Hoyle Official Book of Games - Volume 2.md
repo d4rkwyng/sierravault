@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games Volume 2: Solitaire is a collection of 28
   solitaire card games designed by Warren Schwader and published by Sierra On-Line
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -128,7 +128,7 @@ Warren Schwader designed and programmed the game and also worked on its artwork.
 - **Composer:** Robert Atesalp
 - **Documentation:** Bridget McKenna
 - **Atari Version By:** John Rettig, Steve Coallier
-- **Development System By:** [[Jeff Stephenson]], Robert Eric Heitman, Pablo Ghenis, John Hartin, Dan Foy, John Rettig, Corinna Abdul, [[Corey Cole]]
+- **Development System By:** [[Jeff Stephenson]], Robert Eric Heitman, [[Pablo Ghenis]], John Hartin, Dan Foy, John Rettig, Corinna Abdul, [[Corey Cole]]
 
 ### Technical Achievements
 

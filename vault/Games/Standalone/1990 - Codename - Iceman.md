@@ -120,7 +120,8 @@ The game was built on Sierra's SCI0 engine.[^ref-6][^ref-17] *Computer Gaming Wo
 - **Game Designer:** [[Jim Walls]] (credited as James Walls)
 - **Executive Producer:** Ken Williams
 - **Producer:** [[Guruka Singh Khalsa]]
-- **Programming:** J. Mark Hood, Pablo Ghenis, [[Doug Oldfield]]
+- **Programming:** J. Mark Hood, [[Pablo Ghenis]], [[Doug Oldfield]]
+- **Development System:** [[Jeff Stephenson]], Bob Heitman, Pablo Ghenis, Stuart Goldstein (as listed in the manual)[^ref-12]
 - **Artists:** Cheryl Loyd, James Larsen
 - **Composer:** [[Mark Seibert]]
 - **Documentation:** Marti McKenna, James Walls
@@ -250,7 +251,7 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-9]: [ST Format #21 (May 1991) – Codename: Iceman review by Ed Ricketts](https://www.everygamegoing.com/larticle/codename-iceman-000/49056/) – transcription of p. 66; Atari ST review, 77% overall
 [^ref-10]: [Sierra Gamers – Codename Iceman](https://www.sierragamers.com/codename-iceman/) – manual, map and hint book scans; series intent
 [^ref-11]: [AGDInteractive Forum – "Codename: ICEMAN... Sierra's worst adventure game?"](http://www.agdinteractive.com/forum/viewtopic.php?t=14656) – 2010 community discussion; notes Walls' later Blue Force at Tsunami
-[^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual text: controls, CPR section, submarine procedures
+[^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual text: controls, CPR section, submarine procedures; credits page ("PROGRAMMING Mark Hood, Pablo Ghenis, Doug Oldfield"; "DEVELOPMENT SYSTEM Jeff Stephenson, Bob Heitman, Pablo Ghenis, Stuart Goldstein")
 [^ref-13]: [MobyGames – Code-Name: Iceman releases](https://www.mobygames.com/game/436/code-name-iceman/releases/) – release dates and version numbers by platform
 [^ref-15]: [IGDB](https://www.igdb.com/games/codename-iceman) – Internet Game Database entry (lists 1989)
 [^ref-16]: [Wikidata – Codename: ICEMAN (Q2168378)](https://www.wikidata.org/wiki/Q2168378) – structured metadata (publication date 1989, MobyGames ID 436)

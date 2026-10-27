@@ -117,7 +117,7 @@ After the game's release, Sierra ran a CompuServe contest for the funniest Trite
 **Development Credits:**[^ref-1][^ref-24]
 - **Designer:** [[Al Lowe]]
 - **Composer:** Al Lowe
-- **Programming:** Al Lowe (SCI development system: Pablo Ghenis, Stuart Goldstein, Robert E. Heitman, Jeff Stephenson)
+- **Programming:** Al Lowe (SCI development system: [[Pablo Ghenis]], Stuart Goldstein, Robert E. Heitman, Jeff Stephenson)
 - **Art:** Bonnie Borucki, Douglas Herring, William D. Skirvin
 
 ### Technical Achievements
