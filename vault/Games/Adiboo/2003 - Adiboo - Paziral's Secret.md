@@ -7,10 +7,10 @@ publisher: Vivendi Universal Games
 genre: Action Platformer
 platforms: [PlayStation, Windows]
 series: Adibou
-engine: RenderWare
+engine: RenderWare (Windows)
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC, developed by Coktel Vision and Neko
   Entertainment.
@@ -18,19 +18,19 @@ tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Adiboo & Paziral's Secret is a 3D action-adventure platform game released in 2003 for PlayStation and 2004 for Windows PC[^ref-1][^ref-2]. Developed jointly by [[Coktel Vision]] and Neko Entertainment, the game represented a departure from the Adibou franchise's educational software roots[^ref-19], instead offering a family-friendly action experience combining platforming, racing, and arcade gameplay across twelve distinct levels[^ref-1][^ref-3]. The game was published by Vivendi Universal Games International across multiple European territories[^ref-2].
+Adiboo & Paziral's Secret is a 3D action-adventure platform game released in 2003 for PlayStation and 2004 for Windows PC[^ref-1][^ref-2]. Developed jointly by [[Coktel Vision]] and Neko Entertainment, the game took the Adibou franchise, until then known for educational software, in what Jeuxvideo.com called an unexpected new direction focused on action and platforming[^ref-19][^ref-20], offering a family-friendly action experience combining platforming, racing, and arcade gameplay across twelve distinct levels[^ref-1][^ref-3]. The game was published by Vivendi Universal Games International across multiple European territories[^ref-2].
 
-Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-1][^ref-4]. PSX Data Center's description likens it to Naughty Dog's Crash Bandicoot series, with both 2D side-scrolling sections and 3D adventure gameplay, and calls it "Great for the kids"[^ref-5]. The PlayStation version was released in France, Germany, Italy and the United Kingdom, with Spanish among its five supported languages[^ref-2][^ref-5][^ref-6].
+Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-1][^ref-4]. PSX Data Center's description likens it to Naughty Dog's Crash Bandicoot series, with both 2D side-scrolling sections and 3D adventure gameplay, and calls it "Great for the kids"[^ref-5]. The PlayStation version was released in France, Germany, Italy and the United Kingdom, with Spanish among its five supported languages[^ref-2][^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Neko Entertainment[^ref-2]
 > **Designer:** Pascal Luban, Olivier Rochas[^ref-7]
 > **Publisher:** Vivendi Universal Games International[^ref-2]
-> **Engine:** RenderWare[^ref-8]
+> **Engine:** RenderWare (Windows)[^ref-8]
 > **Platforms:** PlayStation, Windows[^ref-1][^ref-14][^ref-15][^ref-16][^ref-17]
 > **Release Year:** 2003 (PlayStation), 2004 (Windows)
 > **Series:** Adibou[^ref-8]
@@ -72,20 +72,22 @@ PSX Data Center compares the game directly to Naughty Dog's Crash Bandicoot seri
 
 ### Contemporary Reviews
 
-Critical reception for Adiboo & Paziral's Secret was mixed, with the game receiving modest scores that reflected its positioning as a children's title rather than a mainstream platform release. The aggregate critic score on MobyGames stands at 49% based on two reviews, indicating below-average critical reception[^ref-3][^ref-9].
+MobyGames lists an aggregate critic score of 49% based on two reviews[^ref-3][^ref-9].
+
+The German children's-software guide Feibel.de reviewed the Windows version (for ages 5 and up), criticising the thin story framing and the push to collect every bonus item, and concluded: "Fazit: Es gibt bessere Jump-and-Run-Spiele" ("there are better jump-and-run games")[^ref-21]. Feibel's entry differs from other sources on two points: it gives the German release as January 2003 (MobyGames and PCGamingWiki give 11 June 2004 for the German Windows release), and it says the player takes the role of Adiboo's friend Tiltili, a small monkey, whereas Backloggd says players take control of Adiboo and Metacritic calls Tiltili a young Tonie villager[^ref-1][^ref-2][^ref-4][^ref-8][^ref-21].
 
 The game's PSX Data Center database entry describes it positively for its target audience: "Adiboo and Paziral's Secret is a pretty good platform game for an old console. Great for the kids"[^ref-5]. The same entry comments on the visuals: "And for a last generation PlayStation game, Adiboo looks quite respectable in the visuals department. Although pixelated, the game is reasonably smooth and for the most part, looks as good as any other PlayStation offering"[^ref-5].
 
 ### Modern Assessment
 
-Modern player assessments align with contemporary critical reception, with the game maintaining modest but not dismissive ratings across community platforms.
+Jeuxvideo.com's 2013 retrospective test of the PlayStation version scored it 13/20 (graphics 14, playability 14, lifespan 7, sound 13). It praised the accessible controls and the variety of its twelve levels, but called the length an "énorme déception": about an hour for an experienced player and roughly double that for a young child[^ref-20].
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 49% (2 reviews)[^ref-9]
 - **MobyGames Players:** 2.4/5 (4 ratings)[^ref-9]
-- **Backloggd:** 2.6/5 (40 ratings, as of October 2026)[^ref-1]
+- **Backloggd:** 2.6/5 (as of October 2026)[^ref-1]
 
-The Backloggd community shows modest engagement with the title, with 67 recorded plays and 11 backlogs as of October 2026[^ref-1]. The game carries a PEGI 3 rating[^ref-3].
+The game carries a PEGI 3 rating[^ref-3].
 
 ## Development
 
@@ -122,11 +124,11 @@ The PlayStation credits list two actors[^ref-7]:
 
 ### Technical Achievements
 
-PCGamingWiki lists RenderWare as the engine of the Windows version[^ref-8], and MobyGames groups the game under the RenderWare 3D engine[^ref-3]. PSX Data Center judged the PlayStation version's visuals "quite respectable" for the hardware[^ref-5]. The game utilized textured polygon graphics to create its colorful, stylized 3D environments[^ref-11].
+PCGamingWiki lists RenderWare as the engine of the Windows version[^ref-8]. PSX Data Center judged the PlayStation version's visuals "quite respectable" for the hardware[^ref-5]. The game utilized textured polygon graphics to create its colorful, stylized 3D environments[^ref-11].
 
 ### Technical Specifications
 
-**PlayStation Version:**[^ref-5][^ref-6]
+**PlayStation Version:**[^ref-5]
 - **Serial Number:** SLES-04108
 - **Disc Size:** 618 MB (bin/cue format), 538 MB content
 - **Memory Card:** 1 Block required
@@ -170,8 +172,6 @@ No documented cut content has been identified in available research sources.
 
 The Windows version built on RenderWare may encounter compatibility issues on modern operating systems. PCGamingWiki notes that "RenderWare games may not work on Windows 11 24H2 or later without using a DirectSound wrapper"[^ref-8]. Users seeking to play the game on contemporary systems may need to employ compatibility tools or audio wrappers to achieve functionality.
 
-A 2024 user comment on Old Games Download reports that the site's Windows download does not work[^ref-6].
-
 ### Easter Eggs and Trivia
 
 - PSX Data Center compares the gameplay to Naughty Dog's Crash Bandicoot series[^ref-5]
@@ -180,7 +180,7 @@ A 2024 user comment on Old Games Download reports that the site's Windows downlo
 
 ### Sales and Commercial Impact
 
-Specific sales figures for Adiboo & Paziral's Secret have not been documented in available sources. The game's release across multiple European territories through Vivendi Universal Games International and its German subsidiary suggests commercial ambitions, though the title appears to have had limited impact beyond its target demographic of young children[^ref-2].
+Specific sales figures for Adiboo & Paziral's Secret have not been documented in available sources. MobyGames lists PlayStation releases in France, Germany, Italy and the United Kingdom, and a German Windows release[^ref-2].
 
 ### Collections
 
@@ -196,11 +196,7 @@ The game shipped with standard documentation appropriate for its target audience
 
 ### Critical Perspective
 
-Adiboo & Paziral's Secret represents an interesting footnote in the history of European children's gaming, demonstrating how established educational software brands attempted to diversify into entertainment-focused products during the early 2000s. While the game failed to achieve significant critical acclaim or lasting recognition, it served its purpose as an age-appropriate introduction to action-adventure gaming for young players[^ref-5].
-
-The game's development by Coktel Vision, a studio with deep Sierra Entertainment connections through their shared Vivendi Universal parent company, places it within the broader context of Sierra's later years as the company transitioned away from its adventure gaming roots[^ref-2][^ref-3]. The collaboration with Neko Entertainment brought additional development expertise to a project that, while modest in scope, demonstrated competent execution of familiar platforming conventions[^ref-7].
-
-PSX Data Center's comparison to Crash Bandicoot places it among the familiar platformer formula of the era, aimed at a younger audience[^ref-5]. In an era when the PlayStation was being superseded by the PlayStation 2, Adiboo & Paziral's Secret served families still using the original console who sought appropriate content for their children.
+Jeuxvideo.com framed the game as an unexpected turn for Coktel Vision's edutainment series toward action and platforming, and summed it up as "une bonne pioche" (a good pick) that ends too quickly[^ref-20]. PSX Data Center's comparison to Crash Bandicoot places it among the familiar platformer formula of the era, aimed at a younger audience: "Great for the kids"[^ref-5].
 
 ## Purchase
 
@@ -210,7 +206,7 @@ PSX Data Center's comparison to Crash Bandicoot places it among the familiar pla
 ## Downloads
 
 **Download / Preservation**
-- [RomsFun – PlayStation ROM](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – German release[^ref-12]
+- [RomsFun – PlayStation ROM](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – European (PAL) release[^ref-12]
 
 **Secondary Market**
 - [GEX.co.uk](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – Trade-in marketplace[^ref-13]
@@ -229,7 +225,6 @@ PSX Data Center's comparison to Crash Bandicoot places it among the familiar pla
 [^ref-3]: [MobyGames – Adiboo Paziral's Secret](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/) – technical specs, credits, alternate titles, aggregate ratings
 [^ref-4]: [Metacritic – Adiboo and Paziral's Secret](https://www.metacritic.com/game/adiboo-and-pazirals-secret/details/) – plot description, developer information
 [^ref-5]: [PSX Data Center – SLES-04108](https://psxdatacenter.com/games/P/A/SLES-04108.html) – technical specifications, gameplay comparison, critical assessment
-[^ref-6]: Old Games Download – Adiboo Paziral's Secret (link removed: game-download site) – file information, platform versions, language support
 [^ref-7]: [MobyGames – PlayStation Credits](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/credits/playstation/) – complete development credits, voice cast, production acknowledgments
 [^ref-8]: [PCGamingWiki – Adiboo & Paziral's Secret](https://www.pcgamingwiki.com/wiki/Adiboo_%26_Paziral%27s_Secret) – engine information, system requirements, compatibility issues, series information
 [^ref-9]: [MobyGames – Reviews](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/reviews/) – aggregate critic and player ratings
@@ -241,3 +236,5 @@ PSX Data Center's comparison to Crash Bandicoot places it among the familiar pla
 [^ref-16]: [IGDB – Adiboo & Paziral's Secret (2003)](https://www.igdb.com/games/adiboo-and-pazirals-secret) – game database entry, release year, platforms
 [^ref-17]: [GameFAQs – Adiboo & Paziral's Secret (PlayStation)](https://gamefaqs.gamespot.com/ps/919091-adiboo-and-pazirals-secret) – PlayStation release information
 [^ref-19]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Adibou as a long-running educational series; game list includes Adiboo & Paziral's Secret (2003)
+[^ref-20]: [Jeuxvideo.com – Test du jeu Adibou et le Secret de Paziral sur PS1 (Wayback, 23 January 2025)](http://web.archive.org/web/20250123075543/https://www.jeuxvideo.com/articles/0001/00018401-adibou-et-le-secret-de-paziral-test.htm) – PS1 review published 22 February 2013, 13/20; "décide de prendre un nouveau tournant plutôt inattendu… plus axé action / plates-formes"
+[^ref-21]: Feibel.de Kindersoftware-Ratgeber – "Alle Spiele - Adiboo & das Geheimis von Paziral" (feibel.3q.de, prodId 3206; Wayback snapshot 3 September 2019; link omitted) – German Windows version, ages 5+, "Veröffentlicht 01/03"; "Fazit: Es gibt bessere Jump-and-Run-Spiele"
