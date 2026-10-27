@@ -113,7 +113,7 @@ Aronson had also been working on systems that would be useful in online RPGs, in
 - **Art Direction:** Gloria Garland
 - **Art:** Timothy Lee Ibbotson, Claudia Nolan
 - **Programming:** Richard Aronson, Victor Grippi
-- **Producers:** Christopher Donahue, Gano Haine, Bill Mortimer
+- **Producers:** Christopher Donahue, [[Gano Haine]], Bill Mortimer
 - **Developer:** Ybarra Productions; **Publisher:** Sierra On-Line
 
 ### Technical Notes

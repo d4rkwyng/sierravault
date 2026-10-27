@@ -101,7 +101,7 @@ According to SpaceQuest.net's Troels Pleimert, the remake "was created entirely 
 
 Both are nonetheless credited as Game Designers in the final product[^ref-31].
 
-The credits list Bill Davis as Creative Director, Douglas Herring and Scott Murphy as Directors, and Herring also as Art Designer[^ref-31]. [[Andy Hoyos]] is one of nine Background Artists, alongside Jay Allan Friedmann, Herring and others[^ref-31].
+The credits list Bill Davis as Creative Director, Douglas Herring and Scott Murphy as Directors, and Herring also as Art Designer[^ref-31]. [[Andy Hoyos]] is one of nine Background Artists, alongside Jay Allan Friedmann, Herring and others[^ref-31]. [[Gano Haine]] and Bridget McKenna are credited for Additional Material[^ref-43].
 
 Scott Murphy reportedly gave management a list of things he disliked, chiefly the retro art style, and was told, "we can't change that this far along in development"[^ref-39].
 
@@ -256,3 +256,4 @@ This game has been included in the following collections:
 [^ref-40]: [Indie Retro News – Space Quest I Review (Cola Powered Gamer, 2019)](https://indieretronews.com/2019/08/space-quest-i-review-classic-sci-fi.html) – cut male/female character choice and storage limits
 [^ref-41]: [MobyGames – Space Quest I VGA Releases](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/releases/) – DOS release dated Aug 27, 1991 (Canada, United States)
 [^ref-42]: [MobyGames – Space Quest I VGA DOS Specs](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/specs/dos/) – minimum 8088/8086, DOS 3.0–3.3, 640 KB; "256 color version requires 80286 processor"
+[^ref-43]: [MobyGames – SQ1 VGA DOS Credits (Wayback, July 2024)](https://web.archive.org/web/20240721144047/https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – "Additional Material: Gano Haine, Bridget McKenna"

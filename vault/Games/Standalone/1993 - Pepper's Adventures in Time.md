@@ -2,7 +2,7 @@
 title: Pepper's Adventures in Time
 release_year: 1993
 developer: Sierra On-Line
-designer: [Gano Haine, Jane Jensen, Josh Mandel, Lorelei Shannon, Bill Davis]
+designer: [Gano Haine, Jane Jensen, Josh Mandel, Lorelei Shannon]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [DOS, Windows]
@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Pepper's Adventures in Time is a 1993 educational adventure game from
   Sierra On-Line's Discovery Series, in which Pepper Pumpernickel and her dog Lockjaw
   travel back to 1764 Philadelphia to set Benjamin Franklin's history right.
@@ -18,7 +18,7 @@ tags: [1990s, educational, sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
