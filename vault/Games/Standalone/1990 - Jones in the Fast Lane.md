@@ -100,7 +100,7 @@ Sierra hired Bill Davis as creative director in July 1989, after a career as a t
 
 Schwader, the lead programmer[^ref-8], recalled that "Jones had a four-person design team"[^ref-15]. *Computer Gaming World* reported that Sierra teamed him with Bill Davis and Bill Skirvin, with Ken Williams closely involved[^ref-36]. The manual credits:[^ref-10]
 - **Creative Director:** Bill Davis
-- **Producer:** Guruka Singh Khalsa
+- **Producer:** [[Guruka Singh Khalsa]]
 - **Lead Programmer:** Warren Schwader
 - **Artists:** Jim Larsen and Andy Hoyos
 - **Composer and sound effects:** Ken Allen

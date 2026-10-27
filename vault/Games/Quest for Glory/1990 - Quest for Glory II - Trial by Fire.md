@@ -39,7 +39,7 @@ Trial by Fire is the only game in the series that Sierra never produced with any
 > **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1]
 > **Publisher:** [[Sierra On-Line]]; 1994 European budget re-release by U.S. Gold (Kixx XL label)[^ref-28]
 > **Director:** [[Bill Davis]] (creative)[^ref-1]
-> **Producer:** Guruka Singh-Khalsa[^ref-1]
+> **Producer:** [[Guruka Singh Khalsa|Guruka Singh-Khalsa]][^ref-1]
 > **Programmer:** Robert Fischbach[^ref-1]
 > **Artist:** Kenn Nishiuye[^ref-1]
 > **Composer:** Christopher Braymen, [[Mark Seibert]][^ref-1]

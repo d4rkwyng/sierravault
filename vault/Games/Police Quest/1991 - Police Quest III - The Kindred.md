@@ -129,7 +129,7 @@ Jane Jensen's "first job was as a writer for Police Quest 3 and its manual," in 
 - **Director:** [[Mark Crowe]]
 - **Creative Director:** William R. Davis Sr.
 - **Executive Producer:** Ken Williams
-- **Producer:** Guruka Singh Khalsa
+- **Producer:** [[Guruka Singh Khalsa]]
 - **Lead Programming:** [[Doug Oldfield]]
 - **Composer:** Jan Hammer
 - **Sound:** Robert Atesalp, Mark Seibert

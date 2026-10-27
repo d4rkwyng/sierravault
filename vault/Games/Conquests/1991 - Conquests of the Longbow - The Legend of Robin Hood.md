@@ -10,14 +10,14 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
   game developed and published by Sierra On-Line in 1991, representing the second...'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -124,7 +124,7 @@ Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wan
 - **Lead Design / Director:** [[Christy Marx]]
 - **Executive Producer:** Ken Williams
 - **Creative Director:** Bill Davis
-- **Producer:** Guruka Singh Khalsa
+- **Producer:** [[Guruka Singh Khalsa]]
 - **Music Director:** [[Mark Seibert]]
 - **Synthesized Score & Sounds:** [[Ken Allen]], Christopher G. Braymen, Orpheus Hanley, Aubrey Hodges
 

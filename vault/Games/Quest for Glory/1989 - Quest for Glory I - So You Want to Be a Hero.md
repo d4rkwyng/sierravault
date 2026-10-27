@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0 (EGA), SCI1.1 (VGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-18'
+last_updated: '2026-10-26'
 composer: [Mark Seibert]
 description: 'Quest for Glory: So You Want to Be a Hero (originally released as Hero''s
   Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: October 18, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -35,6 +35,7 @@ Ports for the Amiga, Atari ST, and NEC PC-9801 were released in the early 1990s[
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1][^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Producer:** [[Guruka Singh Khalsa]][^ref-40]
 > **Composer:** [[Mark Seibert]][^ref-1]
 > **Engine:** SCI0 (EGA original), SCI1.1 (VGA remake)[^ref-3][^ref-6]
 > **Platforms:** MS-DOS, Amiga, Atari ST, PC-98 (the 1992 VGA remake was also released for Mac OS)[^ref-1][^ref-6]
@@ -245,3 +246,4 @@ This game has been included in the following collections:
 [^ref-37]: [Macworld – 1994 Macintosh Game Hall of Fame, Steven Levy (archived)](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Best Role-Playing Game: Quest for Glory (Mac release of the VGA remake)
 [^ref-38]: [MobyGames – Hero's Quest tech specs](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/specs/) – DOS: 512 KB RAM; AdLib, Game Blaster, IBM Music Feature Card, PC Speaker, Roland MT-32
 [^ref-39]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – sci:qfg1 rated "Excellent" ("Game has no known issues")
+[^ref-40]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989) DOS credits (Wayback, November 24, 2017)](https://web.archive.org/web/20171124213651/http://www.mobygames.com:80/game/dos/heros-quest-so-you-want-to-be-a-hero/credits) – "Producer Guruka Singh-Khalsa"

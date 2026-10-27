@@ -103,7 +103,7 @@ Adventure Gamers' Martijn van Es gave it 3 out of 5 stars in 2007, writing: "Cer
 ## Development
 
 ### Production
-The game was created using Sierra's SCI1.1 interpreter[^ref-3][^ref-12], and was the first new (non-remake) VGA game in the series[^ref-1][^ref-26]. Development budget was about $750,000[^ref-1][^ref-27]. The game contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers[^ref-3][^ref-26].
+The game was created using Sierra's SCI1.1 interpreter[^ref-3][^ref-12], and was the first new (non-remake) VGA game in the series[^ref-1][^ref-26]. Development budget was about $750,000[^ref-1][^ref-27]. The MobyGames credits list [[Guruka Singh Khalsa]] under both Acting / Voiceovers and Special Thanks[^ref-30]. The game contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers[^ref-3][^ref-26].
 
 ### Technical Achievements
 - First new (non-remake) Quest for Glory game with VGA graphics[^ref-1][^ref-26]
@@ -189,4 +189,4 @@ This game has been included in the following collections:
 [^ref-27]: [RPG Codex Interview: Corey Cole on Quest for Glory and Hero-U](https://rpgcodex.net/content.php?id=8549) – Corey Cole: "again to $750K for games 3 and 4"
 [^ref-28]: [Computer Gaming World #102 (January 1993), full text](https://archive.org/download/computer-gaming-world-i102/computer-gaming-world-i102_djvu.txt) – Jeff James review
 [^ref-29]: [Dragon #192 (April 1993), "The Role of Computers" (archived PDF)](https://web.archive.org/web/20150319223820/http://annarchive.com/files/Drmg192.pdf) – Hartley, Patricia and Kirk Lesser, 5 stars
-[^ref-30]: [MobyGames – Quest for Glory III: Wages of War credits, DOS (Wayback, November 29, 2024)](https://web.archive.org/web/20241129101810/https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/credits/dos/?autoplatform=true) – "Art Director Andy Hoyos"
+[^ref-30]: [MobyGames – Quest for Glory III: Wages of War credits, DOS (Wayback, November 29, 2024)](https://web.archive.org/web/20241129101810/https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/credits/dos/?autoplatform=true) – "Art Director Andy Hoyos"; Guruka Singh Khalsa under Acting / Voiceovers and Special Thanks
