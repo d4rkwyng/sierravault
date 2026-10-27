@@ -111,7 +111,7 @@ The game designer [[Gano Haine]] took sole creative control for the sequel, as c
 
 ### Production
 
-Development took place at Sierra On-Line's headquarters in Oakhurst, California, where Haine was working on the game in late 1992.[^ref-21] Peter Fisher is credited as producer, with Cheryl Sweeney credited under production.[^ref-31] Robert (Bob) Fischbach and Doug Oldfield led the programming, and Andy Hoyos and Arturo Sinclair were the art directors.[^ref-31] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5]
+Development took place at Sierra On-Line's headquarters in Oakhurst, California, where Haine was working on the game in late 1992.[^ref-21] Peter Fisher is credited as producer, with Cheryl Sweeney credited under production.[^ref-31] Robert (Bob) Fischbach and [[Doug Oldfield]] led the programming, and Andy Hoyos and Arturo Sinclair were the art directors.[^ref-31] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5]
 
 Sierra's official description says the game "is based on scientifically accurate information."[^ref-3] The box also held an "EcoNews" booklet with reading material, a coloring activity and a word search; it explains how to use the Ecorder, and a question asked when Adam first meets the Grove People can only be answered from it.[^ref-30]
 
