@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'Leisure Suit Larry 6: Shape Up or Slip Out! is the fifth game in Al Lowe''s
   comedic adult adventure series, despite its number. Released by Sierra On-Line in 1993,
   it sends Larry Laffer to the La Costa Lotta health spa; a 1994 CD-ROM edition added
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 6: Shape Up or Slip Out!
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -102,7 +102,7 @@ The game's development team included several key Sierra personnel. Al Lowe serve
 
 Bil Skirvin was art director[^ref-51]. Lowe later wrote that he came up with "The Girls of Larry 6" calendar, packed in the box, "after seeing the beautiful women Bil Skirvin and his artists created" for the game[^ref-54]. Adventure Classic Gaming's review noted that "The contrast between hand-drawn background art and cartoonish characters adds a distinctive flavor to the game"[^ref-55]. Lowe's design document planned this look: the game "juxtaposes 'Toon-like' buildings set in photo-realistic backgrounds", with "Unrealistic Toon people" set against realistically drawn women, adding that "This contrast of photographs, rendered art, and Toon characters even looks like fun"[^ref-18].
 
-Dan Kehler composed and arranged the music; Al Lowe wrote the Larry theme and played alto saxophone on the opening[^ref-8][^ref-57]. Lowe and Josh Mandel wrote the words and music for "Cell Block Love", sung by the country singer Char Donay; Mandel's concept had Marie from the Police Quest games tell how she fell in love with Sonny, the star of that series[^ref-58].
+Dan Kehler composed and arranged the music; Al Lowe wrote the Larry theme and played alto saxophone on the opening[^ref-8][^ref-57]. Chris Braymen is credited for trombone solos among the game's "MIDIfied Musicians"[^ref-51]. Lowe and Josh Mandel wrote the words and music for "Cell Block Love", sung by the country singer Char Donay; Mandel's concept had Marie from the Police Quest games tell how she fell in love with Sonny, the star of that series[^ref-58].
 
 ### Technical Achievements
 
@@ -220,7 +220,7 @@ The game remains available through digital distribution platforms, included with
 [^ref-45]: https://3rdworldgeeks.com/2025/11/20/ill-review-anything-leisure-suit-larry-6-shape-up-or-slip-out/ - Praise for character graphics quality
 [^ref-46]: https://mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/reviews/ - Modern user review comparison to Larry 5
 [^ref-50]: https://advgamer.blogspot.com/2023/08/leisure-suit-larry-6-shape-up-or-slip.html - Design document quotes about returning to original formula
-[^ref-51]: [MobyGames – DOS credits](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/credits/dos/) - "Designed, written, directed and produced by Al Lowe"; art director Bil Skirvin; lead programmer Juan Carlos Escobar
+[^ref-51]: [MobyGames – DOS credits](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/credits/dos/) - "Designed, written, directed and produced by Al Lowe"; art director Bil Skirvin; lead programmer Juan Carlos Escobar; "MIDIfied Musicians: Christopher G. Braymen (trombone solos)"
 [^ref-52]: https://behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/ - Voice cast database with main character actors
 [^ref-53]: https://imdb.com/title/tt0221339/ - IMDb cast information including Mary Kay Bergman's multiple roles
 [^ref-54]: https://allowe.com/games/larry/tips-manuals/larry-manuals.html - Al Lowe on creating "The Girls of Larry 6" calendar after seeing Bil Skirvin's artwork

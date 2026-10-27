@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -142,7 +142,9 @@ Voice recording sessions were directed by Stuart M. Rosen, who had won numerous 
 - **Producer:** [[Robert Holmes]]
 - **Lead Programmer:** Tom DeSalvo
 - **Programmers:** Bob Andrews, Sean Mooney, Jerry Shaw, Greg Tomko-Pavia
-- **Music / Sound Programming:** Chris Braymen, Neal Grandstaff, Kelli Spurgeon, Richard Spurgeon, Jay D. Usher[^ref-57]
+- **Audio Engineers:** Richard Spurgeon, Kelli Spurgeon[^ref-63]
+- **Sound Effects:** Chris Braymen, Robert Holmes, Orpheus Hanley, Richard Spurgeon, Mark Seibert[^ref-63]
+- **Music Conversions:** Neal Grandstaff, Jay D. Usher, Chris Braymen[^ref-63][^ref-57]
 - **Voice Director:** Stuart M. Rosen
 - **Composer:** Robert Holmes
 
@@ -415,4 +417,4 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-60]: [Computer Gaming World #116 (March 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_116) — Charles Ardai, "A Knight in Shining Horror": "outshines any cartoon on television"
 [^ref-61]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) — 1994 Premier Awards: Adventure Game of the Year shared with Day of the Tentacle; Virginia Capers, Best Voice-over Acting (Female)
 [^ref-62]: [Power Unlimited Game Database (archived 2003)](https://web.archive.org/web/20030926034952/http://www.powerweb.nl/database/index.php?&query%5border%5d=datum&ending=DESC&query%5bstart%5d=460) — Entry dated 1994-04-01: Gabriel Knight, PC, 79 (Dutch)
-[^ref-63]: [MobyGames – Gabriel Knight: Sins of the Fathers credits (DOS)](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/credits/dos/) — Voice cast and roles; voice director Stuart M. Rosen
+[^ref-63]: [MobyGames – Gabriel Knight: Sins of the Fathers credits (DOS)](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/credits/dos/) — Voice cast and roles; voice director Stuart M. Rosen; Audio Engineers (Richard and Kelli Spurgeon), Sound Effects (Braymen, Holmes, Hanley, R. Spurgeon, Seibert), Music Conversions (Grandstaff, Usher, Braymen)
