@@ -12,7 +12,7 @@ series: Standalone
 engine: Unity
 protagonist: Unnamed Adventurer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: Colossal Cave 3D Adventure is a 3D and VR reimagining of the seminal
   1976 text adventure game created by William Crowther and Don Woods, developed by
   Cygnus Entertainment, the studio of Sierra founders Ken and Roberta Williams, with
@@ -21,12 +21,12 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 
 ## Overview
 
-Colossal Cave 3D Adventure (sold as *Colossal Cave*) is a 3D and VR reimagining of the seminal text adventure created by Will Crowther in 1976 and expanded by Don Woods in 1977[^ref-6]. Developed by Cygnus Entertainment, the company founded by Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], with Roberta as creative director and Ken as chief engineer[^ref-15], the game marked their first new game in some 25 years[^ref-2][^ref-19]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure that Ken Williams described as "intended for the whole family"[^ref-3][^ref-11].
+Colossal Cave 3D Adventure (sold as *Colossal Cave*) is a 3D and VR reimagining of the seminal text adventure created by Will Crowther in 1976 and expanded by Don Woods in 1977[^ref-6]. Developed by Cygnus Entertainment, the company founded by Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], with Roberta as creative director[^ref-15] and Ken as lead engineer (MobyGames credits him under "Lead Engineers")[^ref-23], the game marked their first new game in some 25 years[^ref-2][^ref-19]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure that Ken Williams described as "intended for the whole family"[^ref-3][^ref-11].
 
 The game challenges players to explore a vast underground cave, collecting treasures while solving puzzles and avoiding hazards including hostile dwarves and a wandering pirate[^ref-5][^ref-9]. Don Woods's 1977 version of the original, on which the remake is based, had fifteen treasures and 140 map locations[^ref-4]. As in the original, players aim for a perfect score of 350 points[^ref-2][^ref-9]. The original's famous codewords "Xyzzy" and "Plugh" are part of the game[^ref-5]; in the text original, "Xyzzy" teleports the player between the building and the Debris Room[^ref-4].
 
@@ -116,7 +116,7 @@ The project was initially referred to as "The Secret" before its official announ
 
 ### Production
 
-Cygnus Entertainment was named after the Williamses' boat, *Cygnus*[^ref-16][^ref-18]. By March 2022 the team had grown to sixteen people, who worked remotely throughout the pandemic[^ref-15][^ref-19]. The development team included professionals with experience in 3D graphics and programming, with Roberta serving as creative director and Ken as chief engineer[^ref-15]. Emily Compton, a team member, noted that "this game is the genesis of their fame and also a nostalgic property to revisit late in their careers, functioning like bookends"[^ref-16].
+Cygnus Entertainment was named after the Williamses' boat, *Cygnus*[^ref-16][^ref-18]. By March 2022 the team had grown to 15 people, Ken wrote on the studio blog ("We now have 15 people working on the game!")[^ref-22]; Engadget gave 16 later that month, and the team worked remotely throughout the pandemic[^ref-15][^ref-19]. The development team included professionals with experience in 3D graphics and programming, with Roberta serving as creative director[^ref-15] and Ken as lead engineer[^ref-23]. Emily Compton, a team member, noted that "this game is the genesis of their fame and also a nostalgic property to revisit late in their careers, functioning like bookends"[^ref-16].
 
 The team had access to the original game's source code and comments, which Roberta combed through to make design documents[^ref-16]. Development required balancing art against performance for the VR version on the Meta Quest 2, where art had to start from basic geometry with polygon counts raised slowly[^ref-16]; Ken Williams wrote that the Quest 2 required a minimum of 72 frames per second and that "Adding VR to the project doubled the cost"[^ref-18]. The team's artists used Substance 3D tools for texturing, along with Blender, Maya, and ZBrush for 3D modeling[^ref-16]. PBR (Physically Based Rendering) textures were made in Substance Painter for integration into Unity[^ref-16].
 
@@ -125,7 +125,7 @@ Marcus Maximus Mera, the first artist to work on the game, came from a backgroun
 **Development Credits:**[^ref-6][^ref-15]
 - **Executive Producer:** Ken Williams
 - **Creative Director:** Roberta Williams
-- **Chief Engineer:** Ken Williams
+- **Lead Engineer:** Ken Williams[^ref-23]
 - **Original Design:** Will Crowther, Don Woods
 - **Team Size:** 16 people (March 2022)
 
@@ -287,3 +287,5 @@ This fidelity to the source material was intentional. In 2022, Ars Technica repo
 [^ref-19]: [Ars Technica – Roberta and Ken Williams open up about their first video game in 25 years](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) – Sam Machkovech, April 8, 2022; Williams quotes, team, Marcus Mera
 [^ref-20]: [MobyGames – Colossal Cave (2023)](https://www.mobygames.com/game/198083/) – developer/publisher, release
 [^ref-21]: [MobyGames – Colossal Cave VR (2023)](https://www.mobygames.com/game/214139/) – separate PC VR edition
+[^ref-22]: [Colossal Cave 3D blog – Showtime! (Wayback, June 2022)](https://web.archive.org/web/20220629103356/https://www.colossalcave3d.com/2022/03/06/showtime/) – Ken Williams, March 6, 2022: "We now have 15 people working on the game!"
+[^ref-23]: [MobyGames – Ken Williams credits (Wayback, May 2024)](https://web.archive.org/web/20240505105836/https://www.mobygames.com/person/59/ken-williams/credits/) – Colossal Cave (2023, Windows): "Lead Engineers" and "Executive Producer"
