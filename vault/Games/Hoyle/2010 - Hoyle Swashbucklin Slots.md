@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: Hoyle Swashbucklin' Slots is a pirate-themed slot machine game published
   by Encore Software in 2010 for Windows PC and Macintosh, with iOS versions following
   in 2011, under the Hoyle brand.
@@ -18,7 +18,7 @@ tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Swashbucklin' Slots
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -96,7 +96,7 @@ GameFAQs and GamePressure credit Encore Software as developer and publisher[^ref
 ### Technical Specifications
 
 **PC Version:**
-- **Media:** DVD-ROM. Redump catalogues one dump of the US disc, a PC/Mac hybrid DVD-5 (serial 21360-DVD v1.0, made in Mexico) whose status is "Has to be confirmed"; the disc's volume label reads "HOYLE_SWASHBUCKLIN__SLOTS_2011" and its volume creation date is August 12, 2010[^ref-29]
+- **Media:** DVD-ROM. Redump catalogues one dump of the US disc, a PC/Mac hybrid DVD-5 (serial 21360-DVD v1.0, made in Mexico); its track dump is marked "Dumped from original media", while the ring-code and volume-descriptor entries are marked "Has to be confirmed"; the disc's volume label reads "HOYLE_SWASHBUCKLIN__SLOTS_2011" and its volume creation date is August 12, 2010[^ref-29]
 - **Minimum requirements (Encore):** Windows XP SP3, Vista SP1 or 7; Pentium IV 2.4 GHz; 512 MB RAM (1 GB for Vista and 7); 64 MB VRAM; 3 GB hard disk space; DVD-ROM drive[^ref-22]
 - **Requirements (GamePressure):** Pentium 4 2.4 GHz, 512 MB RAM, 64 MB VRAM graphics card, 3 GB HDD, Windows XP/Vista/7[^ref-10]
 - **Rating:** ESRB T for Teen (Simulated Gambling)[^ref-21]
@@ -161,7 +161,7 @@ With no critic reviews on record[^ref-5] and only a handful of GameFAQs user rat
 - [MacGameStore – Hoyle Swashbucklin' Slots](https://www.macgamestore.com/product/1579/Hoyle-Swashbucklin-Slots/): Mac version, $19.95, with a free demo; will not run on macOS 10.15 or newer[^ref-30]
 
 **Preservation**
-- Redump catalogues the US PC/Mac hybrid DVD (one unconfirmed dump)[^ref-29]
+- Redump catalogues the US PC/Mac hybrid DVD (a single dump from original media)[^ref-29]
 
 **Manuals & Extras**
 - No manual PDFs located
@@ -242,5 +242,5 @@ With no critic reviews on record[^ref-5] and only a handful of GameFAQs user rat
 [^ref-26]: [iTunes App Store – Hoyle Swashbucklin' Slots HD, Wayback Machine snapshot of March 2, 2011](https://web.archive.org/web/20110302044208/http://itunes.apple.com:80/app/hoyle-swashbucklin-slots-hd/id414765105) – iPad, $4.99, released Feb 26, 2011, v1.0, 12+, 10 slots, "Portions of content © Tik Games LLC"
 [^ref-27]: [iTunes App Store – Hoyle Swashbucklin' Slots HD Lite, Wayback Machine snapshot of May 7, 2011](https://web.archive.org/web/20110507165422/http://itunes.apple.com:80/app/hoyle-swashbucklin-slots-hd/id425287520) – free iPad edition with two slots, v1.1 updated May 3, 2011, Tik Games content notice
 [^ref-28]: [GameFAQs – Hoyle Swashbucklin' Slots Release Data](https://gamefaqs.gamespot.com/pc/625642-hoyle-swashbucklin-slots/data) – iOS 02/15/11, iOS HD 02/26/11 (both 12+), PC 03/29/11 (T)
-[^ref-29]: [Redump – Hoyle Swashbucklin' Slots 2011 (USA)](http://redump.org/disc/132526/) – PC/Mac hybrid DVD-5, serial 21360-DVD v1.0, volume created 2010-08-12, status "Has to be confirmed"
+[^ref-29]: [Redump – Hoyle Swashbucklin' Slots 2011 (USA)](http://redump.org/disc/132526/) – PC/Mac hybrid DVD-5, serial 21360-DVD v1.0, volume created 2010-08-12; tracks marked "Dumped from original media" (single dump), ring code and PVD marked "Has to be confirmed"
 [^ref-30]: [MacGameStore – Hoyle Swashbucklin' Slots](https://www.macgamestore.com/product/1579/Hoyle-Swashbucklin-Slots/) – still sold, $19.95, release date 10/14/2010, Intel Mac, OS 10.5.8 minimum, not compatible with macOS 10.15+

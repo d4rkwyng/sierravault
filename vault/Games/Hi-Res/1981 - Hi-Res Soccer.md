@@ -10,7 +10,7 @@ series: Hi-Res Sports
 engine: Machine Language
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-26'
 description: Hi-Res Soccer is a 1981 real-time soccer game for the Apple II by Jay
   Sullivan and Ken Williams, published by On-Line Systems, the company that became
   Sierra On-Line.
@@ -18,7 +18,7 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Soccer
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -142,12 +142,12 @@ Hi-Res Soccer is now rare. In 2013 the Retro-Treasures blog pointed to a sealed 
 [^ref-13]: [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer) – Preserved disk image
 [^ref-20]: [Softalk, Vol. 1 No. 8 (April 1981)](https://archive.org/details/softalkv1n08apr1981) – New-product announcement crediting Ken Williams and Jay Sullivan
 [^ref-21]: [Softalk, Vol. 1 No. 9 (May 1981)](https://archive.org/details/softalkv1n09may1981) – On-Line advertisement ("Available now") and review, p. 28
-[^ref-22]: [Creative Computing, Vol. 7 No. 10 (October 1981)](https://archive.org/details/sim_creative-computing_1981-10_7_10) – Dale Archibald, "Just for kicks", review and software profile, p. 34
+[^ref-22]: [Creative Computing, Vol. 7 No. 10 (October 1981)](https://archive.org/details/sim_creative-computing_1981-10_7_10) – Dale Archibald, "Just for kicks", review and software profile, p. 34 (alternate scan with fuller OCR text: [creativecomputing-1981-10](https://archive.org/details/creativecomputing-1981-10))
 [^ref-23]: [Sierra On-Line Letter, Vol. 1 No. 1 (June 1981)](https://archive.org/details/Sierra_On_Line_Letter_Volume_1_Number_1_June_1981) – Hi-Res Soccer advertisement; Ken Williams, "Making Money With Your Computer"
 [^ref-24]: [Softline, September 1981](https://archive.org/details/Softline_1981_09) – On-Line Systems Hi-Res Soccer/Football advertisement
 [^ref-25]: [Softalk, Vol. 2 No. 4 (December 1981)](https://archive.org/details/softalkv2n04dec1981) – On-Line Systems product listing; index of Softalk software reviews
 [^ref-26]: [Windfall, Vol. 2 No. 4 (October 1982)](https://archive.org/details/windfall-v2n4-1982-oct) – Back-issue index listing a September 1981 games review including Hi-res Soccer
 [^ref-27]: [Creative Computing, Vol. 7 No. 5 (May 1981)](https://archive.org/details/sim_creative-computing_1981-05_7_5) – On-Line Systems advertisement for Hi-Res Soccer and Hi-Res Football ("Available now for $29.95"; "8 players per team")
-[^ref-28]: [Softalk, Vol. 1 No. 10 (June 1981)](https://archive.org/details/softalkv1n10jun1981) – On-Line Systems Hi-Res Soccer advertisement, p. 81, "by Jay Sullivan"
+[^ref-28]: [Softalk, Vol. 1 No. 10 (June 1981)](https://archive.org/details/softalkv1n10jun1981) – On-Line Systems Hi-Res Soccer advertisement, p. 81, "by Jay Sullivan" (byline is set in the ad artwork, not in the OCR text; [page image](https://archive.org/details/softalkv1n10jun1981/page/n86/mode/1up))
 [^ref-29]: [Softalk, Vol. 2 No. 2 (October 1981)](https://archive.org/details/softalkv2n02oct1981) – The Program Store mail-order advertisement, "By Jay Sullivan from On-Line"
 [^ref-30]: [Creative Computing, Vol. 7 No. 9 (September 1981)](https://archive.org/details/sim_creative-computing_1981-09_7_9) – "Spending Bucks for Bits" game-software buyer's guide, p. 170
