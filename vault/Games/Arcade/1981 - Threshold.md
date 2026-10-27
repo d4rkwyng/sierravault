@@ -11,14 +11,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Earth Federation Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Threshold is a space-themed fixed shooter by Warren Schwader and Ken Williams,
   developed by On-Line Systems (later Sierra On-Line) and released in 1981 for the Apple II.
 tags: [1980s, arcade, shooter, sierra]
 ---
 # Threshold
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -41,17 +41,17 @@ The game places players in command of the spaceship Threshold during a dark age 
 
 The narrative of Threshold is set during a desperate period in humanity's future. "It is a dark age for the Earth Federation. Our home planet is under attack and our colonies are raided unmercifully. Space travel has become a death wish as more and more enemy ships find their way past the outer defenses and into the paths of friendly trade"[^ref-3]. This dystopian backdrop provides context for the player's mission as an exploring space attack ship commander.
 
-Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. The mission involves progressing through the galaxy to encounter up to ten different enemy forces, each presenting unique challenges and attack patterns[^ref-5].
+Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. Tigervision's Atari 2600 box copy promises "up to 10 different enemy forces"[^ref-5]; Schwader said the Apple II original has 24 levels in all[^ref-16].
 
-The game's tension comes not just from the alien threat but from the hostile environment of deep space itself. Pilots must remain alert for narrow tunnels they must navigate their ships through while engaging hostile forces[^ref-5]. The mothership only refuels the ship after every fourth wave, and running out of fuel before then ends the game[^ref-1][^ref-12].
+The 2600 box copy also warns players to "be alert for the narrow tunnels you must fly your ship through"[^ref-5]. The mothership only refuels the ship after every fourth wave, and running out of fuel before then ends the game[^ref-1][^ref-12].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Threshold employs a classic fixed shooter format where players control a spaceship positioned at the bottom of the screen[^ref-4]. The player's vessel can move horizontally across the play field while firing upward at enemy formations. Control options include keyboard input on computer versions, with paddle support available on the Apple II version and joystick control on console ports[^ref-1].
+Threshold employs a classic fixed shooter format where players control a spaceship positioned at the bottom of the screen[^ref-4]. The player's vessel can move horizontally across the play field while firing upward at enemy formations. The Apple II original is played with paddles or the keyboard[^ref-1][^ref-12]; the Atari 8-bit, Commodore 64, VIC-20 and Atari 2600 versions use a joystick[^ref-1][^ref-19].
 
-The game features two critical resource management systems that set it apart from simpler shooters of the era. The laser weapon has a temperature gauge that increases with each shot fired, and once it reaches maximum heat, the weapon becomes temporarily disabled[^ref-4]. Additionally, players must manage a fuel gauge that constantly depletes during gameplay[^ref-4].
+As in Astro Blaster, the laser overheats with sustained fire and a fuel gauge forces the pace[^ref-2][^ref-20]. The laser weapon has a temperature gauge that increases with each shot fired, and once it reaches maximum heat, the weapon becomes temporarily disabled[^ref-4]. Additionally, players must manage a fuel gauge that constantly depletes during gameplay[^ref-4].
 
 ### Structure and Progression
 
@@ -80,7 +80,7 @@ Tigervision's Atari 2600 version received a Certificate of Merit in the "Best Sc
 
 MobyGames lists a critics' average of 49% based on 8 ratings[^ref-1]. User reviews on My Abandonware rate the game at 5 out of 5 stars, though this is based on only 2 votes[^ref-7].
 
-Contemporary collectors note the game's historical significance as an early On-Line Systems title. The ColecoVision version is considered moderately collectible, with a rarity rating of 6 for loose cartridges and 7 for complete-in-box copies[^ref-8]. Some modern commentators have acknowledged its relationship to Sega's Astro Blaster, with one user noting "Great.. another Astro Blaster clone.. ready to try it.."[^ref-7]. The Commodore 64 version has a community entry on Lemon64[^ref-15].
+ColecoVision Addict rates the ColecoVision cartridge's rarity at 6 loose and 7 complete in box[^ref-8]. One My Abandonware user called it "another Astro Blaster clone"[^ref-7]. The Commodore 64 version has a community entry on Lemon64[^ref-15].
 
 **Aggregate Scores:**
 - **MobyGames:** 49/100[^ref-1]
@@ -90,7 +90,7 @@ Contemporary collectors note the game's historical significance as an early On-L
 
 ### Origins
 
-Threshold began as [[Warren Schwader]]'s attempt to bring the Astro Blaster arcade experience to home computers. Rather than creating a direct port, Schwader took a creative approach to the adaptation. "Instead of trying to duplicate the game in every detail, I set out to just take the concept and run with it"[^ref-16]. This philosophy resulted in a game that shared thematic elements with its inspiration while establishing its own mechanical identity.
+Threshold began as [[Warren Schwader]]'s attempt to bring the Astro Blaster arcade experience to home computers. Rather than creating a direct port, Schwader took a creative approach to the adaptation. "Instead of trying to duplicate the game in every detail, I set out to just take the concept and run with it"[^ref-16]. The result kept Astro Blaster's core design but with its own creatures and wave patterns; as Schwader put it, "There were always more new creatures to discover"[^ref-2][^ref-16].
 
 The project began when [[Ken Williams]], co-founder of On-Line Systems, saw an *Astro Blaster* machine at the Ahwahnee Tack and Feed store and phoned Schwader[^ref-16]. Williams then spent two weeks working with Schwader at the start of the project to write the animation engine; Schwader called them "a crucial two weeks because with his help the animation was fast enough to produce a marketable product"[^ref-16].
 
@@ -98,7 +98,7 @@ The project began when [[Ken Williams]], co-founder of On-Line Systems, saw an *
 
 Schwader said Threshold "took about four months to write start to finish," including the two weeks with Ken Williams on the animation engine[^ref-16]. The game was programmed in machine language to achieve the performance necessary for smooth action gameplay on the limited hardware of early 1980s computers[^ref-3]. Ken Williams wanted Atari 800 and Atari 2600 versions because it was his goal "to make On-Line Systems more than just an Apple company"[^ref-16].
 
-On-Line Systems, which would rename itself Sierra On-Line in 1982, was based in Coarsegold, California, at the time of the game's early reviews[^ref-12][^ref-13]. The company had been founded by Ken and [[Roberta Williams]] in 1979, and Threshold represented part of their early catalog as they built their reputation beyond their initial adventure game Mystery House[^ref-9].
+On-Line Systems, which would rename itself Sierra On-Line in 1982[^ref-9], was based in Coarsegold, California, at the time of the game's early reviews[^ref-12][^ref-13]. The company had been founded by Ken and [[Roberta Williams]] in 1979, and its early hit was the graphic adventure Mystery House (1980)[^ref-9].
 
 **Development Credits:**
 - **Designers:** Warren Schwader, Ken Williams[^ref-3]
@@ -110,9 +110,9 @@ On-Line Systems, which would rename itself Sierra On-Line in 1982, was based in 
 
 ### Technical Achievements
 
-Threshold demonstrated competent technical execution for its era, achieving smooth sprite-based gameplay on multiple platforms. The Apple II version's animation engine was written by Schwader and Ken Williams together over two weeks[^ref-16]. The game's weapon heat and fuel management systems added depth uncommon in fixed shooters of the period.
+The Apple II version's animation engine was written by Schwader and Ken Williams together over two weeks[^ref-16], and *Creative Computing* called the result "superb"[^ref-12]. The laser-heat and fuel gauges were carried over from Astro Blaster rather than invented for Threshold[^ref-2][^ref-20].
 
-The multi-platform release strategy showed On-Line Systems' ambition to reach the broadest possible audience. The game was eventually ported to eight different platforms, from the original Apple II to the Atari 2600, ColecoVision, Commodore 64, VIC-20, Atari 8-bit computers, and French Thomson computers[^ref-1].
+The game was eventually released on eight platforms, from the original Apple II to the Atari 2600, ColecoVision, Commodore 64, VIC-20, Atari 8-bit computers, and French Thomson computers[^ref-1].
 
 ### Technical Specifications
 
@@ -142,15 +142,15 @@ The multi-platform release strategy showed On-Line Systems' ambition to reach th
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1981 | Apple II | Initial release by On-Line Systems[^ref-1] |
-| 1.0 | 1981 | Atari 8-bit | Simultaneous release[^ref-1] |
-| 1.0 | 1982 | Atari 2600 | Published by Tigervision[^ref-5] |
-| 1.0 | 1983 | Commodore 64 | November 1983 release[^ref-10] |
-| 1.0 | 1981 or 1983 | VIC-20 | Home computer port; Wikipedia gives 1981, MobyGames 1983[^ref-1][^ref-2] |
-| 1.0 | 1984 | ColecoVision | May 1984, Sierra On-Line branded[^ref-10] |
-| 1.0 | 1984 | Thomson MO/TO | Published by France Image Logiciel[^ref-1] |
+| Date | Platform | Notes |
+|------|----------|-------|
+| 1981 | Apple II | Initial release by On-Line Systems[^ref-1] |
+| 1981 | Atari 8-bit | Published by On-Line Systems[^ref-1] |
+| 1982 | Atari 2600 | Published by Tigervision[^ref-5] |
+| 1983 | Commodore 64 | November 1983 release[^ref-10] |
+| 1981 or 1983 | VIC-20 | Home computer port; Wikipedia gives 1981, MobyGames 1983[^ref-1][^ref-2] |
+| 1984 | ColecoVision | May 1984, Sierra On-Line branded[^ref-10] |
+| 1984 | Thomson MO/TO | TO7: TO TEK International; MO5: France Image Logiciel[^ref-1] |
 
 ### Technical Issues
 
@@ -168,11 +168,11 @@ No significant technical issues have been widely documented for Threshold, thoug
 
 Schwader said Threshold "sold about 25,000 copies which was highly successful by my standards"[^ref-16]. Tigervision's Atari 2600 version received a Certificate of Merit for Best Science Fiction/Fantasy Videogame in the 1983 Arcade Awards[^ref-2][^ref-17].
 
-The multi-platform release strategy allowed Threshold to reach audiences across the fragmented home computer and console market of the early 1980s. The game's appearance on eight different platforms demonstrated On-Line Systems' commitment to broad market penetration, a strategy that would serve the company well as it evolved into Sierra On-Line.
+Threshold appeared on eight platforms between 1981 and 1984[^ref-1].
 
 ### Collections
 
-The game exists primarily through preservation efforts and retro gaming communities. Copies are available through abandonware sites and ROM archives, with the Internet Archive hosting playable versions for multiple platforms[^ref-4][^ref-11].
+In 1986 Sierra paired the Commodore 64 disk version with Frogger in a two-game *Frogger/Threshold* package ("Two classics in one package")[^ref-21][^ref-15]. Today the game exists primarily through preservation efforts and retro gaming communities. Copies are available through abandonware sites and ROM archives, with the Internet Archive hosting playable versions for multiple platforms[^ref-4][^ref-11].
 
 ### Fan Projects
 
@@ -185,7 +185,7 @@ No significant fan remakes or modifications of Threshold have been documented. T
 
 ### Critical Perspective
 
-Threshold occupies an interesting position in Sierra's history as a representative of the company's early, pre-adventure game focus. While On-Line Systems would become famous for the King's Quest series and other narrative adventures, their early catalog included numerous action titles like Threshold that helped establish the company financially. Warren Schwader's decision to "take the concept and run with it" rather than create a direct clone gave the game its own identity, even though it remained clearly based on Astro Blaster[^ref-2][^ref-16].
+Threshold occupies an interesting position in Sierra's history as a representative of the company's early, pre-adventure game focus. While On-Line Systems would become famous for the King's Quest series and other narrative adventures, their early catalog also included action titles such as Threshold. Warren Schwader's decision to "take the concept and run with it" rather than create a direct clone gave the game its own creatures and wave formations, even though it remained clearly based on Astro Blaster[^ref-2][^ref-16].
 
 ## Purchase
 
@@ -236,8 +236,8 @@ Threshold occupies an interesting position in Sierra's history as a representati
 [^ref-5]: [Games Database – Atari 2600](https://www.gamesdatabase.org/game/atari-2600/threshold.aspx) – official game description, enemy forces, publisher
 [^ref-6]: [RetroGames.cz](https://www.retrogames.cz/play_1492-Atari2600.php) – Atari 2600 game size
 [^ref-7]: [My Abandonware – Threshold](https://www.myabandonware.com/game/threshold-5ek) – user ratings, platform file sizes, user comments
-[^ref-8]: [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=131) – ROM size, rarity ratings, MD5 hash
-[^ref-9]: [Dynamix Fandom – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – company history, founding information
+[^ref-8]: [ColecoVision Addict](https://cvaddict.com/game/threshold/) – ROM size, rarity ratings, MD5 hash
+[^ref-9]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – founded 1979 as On-Line Systems, Mystery House (1980), renamed Sierra On-Line in 1982
 [^ref-10]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – specific platform release dates
 [^ref-11]: [Internet Archive – Apple II Version](https://archive.org/details/a2_Threshold_1981_On_Line_Systems) – preservation, file information
 [^ref-12]: [Creative Computing – David Lubar Review](https://archive.org/details/creativecomputing-1982-04-a/page/n55/mode/2up) – April 1982 review praising animation quality
@@ -248,3 +248,5 @@ Threshold occupies an interesting position in Sierra's history as a representati
 [^ref-17]: [Electronic Games – 1983 Arcade Awards (January 1983)](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US/page/n21/mode/2up) – Certificate of Merit for Tigervision's Atari 2600 version
 [^ref-18]: [JoyStik – New Games '83 (January 1983)](https://archive.org/details/joystik_magazine-1983-01/page/n59/mode/2up) – review of Tigervision's Atari 2600 version
 [^ref-19]: [Threshold Manual (Atari computer version)](https://archive.org/details/agm_Threshold) – hyper warp drive once per flight, diskette loading
+[^ref-20]: [Wikipedia – Astro Blaster](https://en.wikipedia.org/wiki/Astro_Blaster) – Sega arcade original: temperature and fuel gauges, once-per-sector warp, mother-ship docking
+[^ref-21]: [Eli's Software Encyclopedia – Frogger/Threshold (C64, 1986)](https://elisoftware.org/wiki/Frogger/Threshold_(C64,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – 1986 Sierra two-game C64 disk package, box scans
