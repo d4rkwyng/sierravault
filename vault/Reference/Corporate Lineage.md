@@ -34,11 +34,11 @@ Early titles included [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|
 
 ## Era 2 — Sierra On-Line, independent (1982–1996)
 
-In 1982 On-Line Systems was renamed **[[Developers/Sierra On-Line|Sierra On-Line, Inc.]]**, after the Sierra Nevada mountains near Oakhurst.[^ref-1][^ref-6] The video-game crash hit Sierra hard: on one day in April 1984 the company shrank "from a company of 120 employees to one of 40".[^ref-8] IBM had come to Sierra in 1983 for software for its new PCjr and funded the development of the AGI engine and the first game written with it, [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984).[^ref-8]
+In 1982 On-Line Systems was renamed **[[Sierra On-Line|Sierra On-Line, Inc.]]**, after the Sierra Nevada mountains near Oakhurst.[^ref-1][^ref-6] The video-game crash hit Sierra hard: on one day in April 1984 the company shrank "from a company of 120 employees to one of 40".[^ref-8] IBM had come to Sierra in 1983 for software for its new PCjr and funded the development of the AGI engine and the first game written with it, [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984).[^ref-8]
 
 Through the late 1980s and 1990s, Sierra established flagship adventure franchises (King's Quest, Space Quest, Police Quest, Leisure Suit Larry, Quest for Glory, Gabriel Knight, Laura Bow) and built a stable of acquired studios:
 
-- **1990**: On March 27, 1990, Sierra announced its intent to acquire [[Developers/Dynamix|Dynamix]] of Eugene, Oregon, whose 3Space technology it had already licensed.[^ref-39][^ref-10]
+- **1990**: On March 27, 1990, Sierra announced its intent to acquire [[Dynamix|Dynamix]] of Eugene, Oregon, whose 3Space technology it had already licensed.[^ref-39][^ref-10]
 - **1992**: Acquired [[Bright Star Technology]] (educational software).[^ref-11]
 - **1993**: Acquired [[Coktel Vision]], a French developer and publisher of educational and entertainment software, on October 29, 1993.[^ref-12][^ref-16]
 - **1993–1996**: Sierra sold its online service, [[Sierra Network Series|The Sierra Network]], in stages. On July 28, 1993 AT&T bought a 20% stake (General Atlantic Partners another 20%) and the service was renamed The ImagiNation Network; on November 15, 1994 AT&T bought all remaining shares from Sierra and General Atlantic for USD 40 million; on August 7, 1996 America Online bought the service from AT&T.[^ref-59]
@@ -53,7 +53,7 @@ Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier"
 
 ## Era 3 — CUC International / Cendant (1996–1998)
 
-On February 20, 1996, **CUC International** — a Connecticut-based consumer-services company best known for its Comp-U-Card discount-shopping membership business — announced that it would acquire Sierra On-Line in a transaction "valued at approximately $1.06 billion", based on CUC's share price.[^ref-19] The merger agreement was dated February 19, 1996, and the merger was completed on July 24, 1996.[^ref-18] CUC grouped Sierra with Davidson & Associates (owner of Blizzard Entertainment) and, from 1997, [[Developers/Knowledge Adventure|Knowledge Adventure]] and [[Developers/Berkeley Systems|Berkeley Systems]].[^ref-20][^ref-1] Studio changes in the CUC years:
+On February 20, 1996, **CUC International** — a Connecticut-based consumer-services company best known for its Comp-U-Card discount-shopping membership business — announced that it would acquire Sierra On-Line in a transaction "valued at approximately $1.06 billion", based on CUC's share price.[^ref-19] The merger agreement was dated February 19, 1996, and the merger was completed on July 24, 1996.[^ref-18] CUC grouped Sierra with Davidson & Associates (owner of Blizzard Entertainment) and, from 1997, [[Knowledge Adventure|Knowledge Adventure]] and [[Berkeley Systems|Berkeley Systems]].[^ref-20][^ref-1] Studio changes in the CUC years:
 
 - **1996**: Seattle's [[Synergistic Software]] (Conan, War in Middle Earth) joined Sierra later in 1996.[^ref-15][^ref-40] Sierra's fiscal-1996 annual report does not list it among the year's acquisitions,[^ref-16] and Sierra's *InterAction* magazine called it "the newest member of the Sierra family" in its Holiday 1996 issue.[^ref-64]
 - **1997**: CUC completed its purchase of Knowledge Adventure, maker of the JumpStart series, on January 31, 1997, issuing 3,461,551 shares valued at USD 86.1 million.[^ref-60] Berkeley Systems followed in April 1997.[^ref-1]
@@ -111,7 +111,7 @@ The current state of major Sierra-lineage IPs (October 2026):
 
 ## Cross-references
 
-- **Studio profiles** with their own acquisition timelines: [[Developers/Dynamix|Dynamix]], [[Coktel Vision]], [[Impressions Games]], [[Papyrus Design Group]], [[Bright Star Technology]], [[Synergistic Software]], [[Yosemite Entertainment]], [[Relic Entertainment]], [[Blackbird Interactive]]
+- **Studio profiles** with their own acquisition timelines: [[Dynamix|Dynamix]], [[Coktel Vision]], [[Impressions Games]], [[Papyrus Design Group]], [[Bright Star Technology]], [[Synergistic Software]], [[Yosemite Entertainment]], [[Relic Entertainment]], [[Blackbird Interactive]]
 - **Designer departures** in the CUC and Havas years (see each page for dates): [[Ken Williams]], [[Roberta Williams]], [[Al Lowe]], [[Jane Jensen]], [[Mark Crowe]], [[Scott Murphy]]
 - **Related reference pages:** [[Studio Map]], [[Timeline 1980-1999]], [[Timeline 2000-present]]
 - **Further reading:** Ken Williams' memoir *Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line* (Lulu.com, 2020)[^ref-2]

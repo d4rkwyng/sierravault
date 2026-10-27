@@ -41,7 +41,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2001 - Arcanum|Arcanum: Of Steamworks & Magick Obscura]] (Troika Games / Sierra; August 21, 2001)[^ref-53]
 - [[2001 - Empire Earth|Empire Earth]] (Stainless Steel Studios / Sierra; November 13, 2001 in the US)[^ref-52]
 
-**Corporate:** On May 16, 2001, Havas Interactive was renamed Vivendi Universal Interactive Publishing, and on November 13, 2001 its parts were brought together as **Vivendi Universal Games** (VUG); Sierra became one of its labels.[^ref-1] [[Developers/Dynamix|Dynamix]] was closed by Sierra on August 14, 2001, as part of that restructuring; several veterans stayed in Eugene, Oregon and founded a new studio.[^ref-2]
+**Corporate:** On May 16, 2001, Havas Interactive was renamed Vivendi Universal Interactive Publishing, and on November 13, 2001 its parts were brought together as **Vivendi Universal Games** (VUG); Sierra became one of its labels.[^ref-1] [[Dynamix|Dynamix]] was closed by Sierra on August 14, 2001, as part of that restructuring; several veterans stayed in Eugene, Oregon and founded a new studio.[^ref-2]
 
 ## 2002
 

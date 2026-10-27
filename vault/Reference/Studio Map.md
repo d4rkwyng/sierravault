@@ -34,7 +34,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 
 | Studio | Founded | Acquired by Sierra | Status | HQ | Notable Games |
 |--------|---------|----------|--------|-----|---------------|
-| [[Developers/Dynamix\|Dynamix]] | 1984 | 1990 | Closed August 14, 2001 | Eugene, OR | Stellar 7, Red Baron, Aces, 3-D Ultra, Heart of China, Willy Beamish, Tribes, Starsiege[^ref-59][^ref-1] |
+| [[Dynamix\|Dynamix]] | 1984 | 1990 | Closed August 14, 2001 | Eugene, OR | Stellar 7, Red Baron, Aces, 3-D Ultra, Heart of China, Willy Beamish, Tribes, Starsiege[^ref-59][^ref-1] |
 | [[Bright Star Technology]] | Early 1980s (Wikipedia's Sierra article says 1980) | 1992 | Folded into Sierra | Bellevue, WA | Alphabet Blocks, Talking Tutor series[^ref-61][^ref-73][^ref-1] |
 | [[Coktel Vision]] | 1984 | October 1993 | Merged into Mindscape October 2005 | Paris, France | Gobliiins, Inca, Lost in Time, Bizarre Adventures of Woodruff[^ref-18][^ref-1] |
 | [[Impressions Games]] | 1988 or 1989 (sources differ) | 1995 | Closed 2004 | United Kingdom; US studio in Cambridge, MA | Caesar, Pharaoh, Zeus, Emperor, Lords of the Realm[^ref-19][^ref-74][^ref-75][^ref-1] |
@@ -44,7 +44,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | PyroTechnix | — | Agreement in principle December 8, 1997 (with the Return to Krondor rights, USD 1.2 million, from 7th Level) | Folded into Sierra's Bellevue headquarters February 1999 | Cincinnati, OH | Return to Krondor[^ref-81][^ref-72] |
 | SubLogic | October 1977 (Bruce Artwick) | All assets bought after the Papyrus deal (reported February 1996) | — | Champaign, IL | Flight Simulator series (pre-Sierra)[^ref-82][^ref-83] |
 
-**CUC sister companies (not Sierra studios).** [[Developers/Knowledge Adventure|Knowledge Adventure]] (founded 1991, Torrance, CA) was bought by CUC International, announced November 5, 1996 and completed January 31, 1997; renamed JumpStart Games, it closed July 1, 2023.[^ref-21] [[Developers/Berkeley Systems|Berkeley Systems]] (founded 1987, Berkeley, CA; After Dark screensavers) was bought by CUC in April 1997 and run as a Sierra studio until 2000.[^ref-1][^ref-22]
+**CUC sister companies (not Sierra studios).** [[Knowledge Adventure|Knowledge Adventure]] (founded 1991, Torrance, CA) was bought by CUC International, announced November 5, 1996 and completed January 31, 1997; renamed JumpStart Games, it closed July 1, 2023.[^ref-21] [[Berkeley Systems|Berkeley Systems]] (founded 1987, Berkeley, CA; After Dark screensavers) was bought by CUC in April 1997 and run as a Sierra studio until 2000.[^ref-1][^ref-22]
 
 ## Partner studios (Sierra published, independently owned)
 
@@ -94,10 +94,10 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 
 | Studio | Founded | Status | Notable games |
 |--------|---------|--------|---------------|
-| [[Developers/AGD Interactive\|AGD Interactive]] | 2001 (as Tierra Entertainment) | Active | King's Quest I, II and III remakes (KQ3 Redux), Quest for Glory II remake[^ref-51] |
-| [[Developers/Infamous Adventures\|Infamous Adventures]] | 2004 | Stopped producing games July 2012 | King's Quest III remake (2006), Space Quest II VGA[^ref-52] |
-| [[Developers/Infamous Quests\|Infamous Quests]] | 2012 | Active | Quest for Infamy series, Order of the Thorne[^ref-53] |
-| [[Developers/Himalaya Studios\|Himalaya Studios]] | 2004 | Active | Al Emmo and the Lost Dutchman's Mine (2006), Mage's Initiation: Reign of the Elements (2019)[^ref-54] |
+| [[AGD Interactive\|AGD Interactive]] | 2001 (as Tierra Entertainment) | Active | King's Quest I, II and III remakes (KQ3 Redux), Quest for Glory II remake[^ref-51] |
+| [[Infamous Adventures\|Infamous Adventures]] | 2004 | Stopped producing games July 2012 | King's Quest III remake (2006), Space Quest II VGA[^ref-52] |
+| [[Infamous Quests\|Infamous Quests]] | 2012 | Active | Quest for Infamy series, Order of the Thorne[^ref-53] |
+| [[Himalaya Studios\|Himalaya Studios]] | 2004 | Active | Al Emmo and the Lost Dutchman's Mine (2006), Mage's Initiation: Reign of the Elements (2019)[^ref-54] |
 | SCP Sierra Conversion Project | — | Active | Amiga OCS enhanced conversions of Sierra games, beginning with Space Quest IV (2025–26)[^ref-55] |
 
 ## Licensed remake and revival studios

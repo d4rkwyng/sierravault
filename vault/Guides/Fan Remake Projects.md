@@ -27,7 +27,7 @@ Most fan remakes use **Adventure Game Studio (AGS)**, a free engine designed spe
 **Website:** [agdinteractive.com](https://www.agdinteractive.com/)
 **Status:** Active (commercial work via Himalaya Studios)
 
-[[Developers/AGD Interactive|AGD Interactive]] is known for its King's Quest and Quest for Glory remakes. The company was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-2][^ref-13]
+[[AGD Interactive|AGD Interactive]] is known for its King's Quest and Quest for Glory remakes. The company was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-2][^ref-13]
 
 On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interactive" (AGD stands for "Anonymous Game Developer"), with the lead designers credited as "Anonymous Game Designer #1" and "Anonymous Game Developer #2."[^ref-2]
 
@@ -60,7 +60,7 @@ AGDI founded **Himalaya Studios** for original commercial games:
 **Website:** [infamousadventures.itch.io](https://infamousadventures.itch.io/) (formerly infamous-adventures.com, which now redirects there)
 **Status:** Stopped making games in July 2012 and continued as Infamous Quests; the remakes are still distributed on itch.io[^ref-17]
 
-[[Developers/Infamous Adventures|Infamous Adventures]] (later [[Developers/Infamous Quests|Infamous Quests]]) made VGA remakes and original adventure games. It was known for its Space Quest II and King's Quest III remakes.
+[[Infamous Adventures|Infamous Adventures]] (later [[Infamous Quests|Infamous Quests]]) made VGA remakes and original adventure games. It was known for its Space Quest II and King's Quest III remakes.
 
 **Released Remakes:**
 
@@ -145,7 +145,7 @@ The original artist and designer from Coktel Vision's Gobliiins series has made 
 
 ### Al Emmo
 
-- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Creator: [[Developers/Himalaya Studios|Himalaya Studios]], Status: Released
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Creator: [[Himalaya Studios|Himalaya Studios]], Status: Released
 - **2013** — Al Emmo Enhanced Edition (version 4.0) — Himalaya Studios — Released November 26, 2013[^ref-22]
 
 A comedy adventure by the AGDI team under their commercial studio; Hardcore Gamer's review called Al "the Larry Laffer of the wild west".[^ref-30]
