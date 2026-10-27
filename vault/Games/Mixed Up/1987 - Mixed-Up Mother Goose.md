@@ -119,6 +119,7 @@ Allen McPheeters joined Sierra as a junior programmer in summer 1987 and was ini
 - **Programmer:** David Slayback
 - **Artist:** Gerald Moore
 - **Composer (Original):** Amenda Lombardo
+- **Producers (1991 VGA Version):** [[Stuart Moulder]] (floppy disk), [[Josh Mandel]] (CD-ROM)[^ref-38]
 - **Composers (VGA Version):** [[Ken Allen]], [[Mark Seibert]], Amenda Lombardo
 - **CD-ROM Voice Cast:** Daniel Aldante, Brittany Benov, Nancy Bickley, Darby Bree Cogburn, [[Bill Davis]], Paul De Pledge, Robert Fischbach, Chris Hoyt, Chris Iden
 
@@ -300,3 +301,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (the text Alchetron mirrors; no longer in the current article)
 [^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"
 [^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
+[^ref-38]: [MobyGames – Mixed-Up Mother Goose credits, DOS (entry 1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) – "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"

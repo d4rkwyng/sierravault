@@ -217,6 +217,7 @@ Common compatibility issues include:
 | Austin | Kevin Orcutt |
 | Tailor | D.J. Williams |
 | Elf / Harpy | Nancy Zdenek |
+| Bandit Leader (Windows) | [[Stuart Moulder]][^ref-63] |
 
 Many of the voices were provided by Sierra staff, including the game's own developers, rather than professional actors.[^ref-29][^ref-28][^ref-6]
 
@@ -319,3 +320,4 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-60]: [Computer Gaming World #105 (April 1993), Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_105) – Charles Ardai, Space Quest IV CD-ROM review, p. 34: "the somewhat wooden line readings for which Sierra has become known as a result of the CD-ROM edition King's Quest V"
 [^ref-61]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI1 (ega): Quest for Glory II, interpreter 1.000.041; SCI1 (early): King's Quest V EGA, 1.000.058, 1990-11-14
 [^ref-62]: [King's Quest V manual (Internet Archive)](https://archive.org/details/Kings_Quest_5_-_Manual) – credits page, "DEVELOPMENT SYSTEM": Jeff Stephenson, Robert E. Heitman, Pablo Ghenis, Corey Cole, Dan Foy, John Rettig, John Hartin, Larry Scott, Eric Hart, J. Mark Hood
+[^ref-63]: [MobyGames – King's Quest V credits, Windows 16-bit (1992)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) – "Bandit Leader Stuart Moulder"

@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["Mixed-Up Mother Goose", "Castle of Dr. Brain", "Age of Empires", "Age of Empires II", "Nancy Drew: Tomb of the Lost Queen"]
 companies: ["Sierra On-Line", "Microsoft Game Studios", "Gazillion Entertainment", "Her Interactive", "Boom Learning"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-26"
 ---
 # Stuart Moulder
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Stuart Moulder is a video game producer and executive whose career runs from Sierra On-Line in the early 1990s through Microsoft's game business, casual and family games, and Her Interactive, the Nancy Drew developer.[^ref-1] His official biography says that at Sierra he "delivered the first CD-ROM title, Mixed-Up Mother Goose," and that he later joined Microsoft in the mid-1990s, where he "signed and managed the Age of Empires franchise."[^ref-2][^ref-13]
+Stuart Moulder is a video game producer and executive whose career runs from Sierra On-Line in the early 1990s through Microsoft's game business, casual and family games, and Her Interactive, the Nancy Drew developer.[^ref-1] His Her Interactive company biography says that at Sierra he "delivered the first CD-ROM title, Mixed-Up Mother Goose," and that he later joined Microsoft in the mid-1990s, where he "signed and managed the Age of Empires franchise."[^ref-2][^ref-13]
 
-At Microsoft, Moulder was credited as Product Unit Manager and later as PC Games General Manager on dozens of titles across strategy, simulation and action genres.[^ref-3][^ref-9] On four Age of Empires releases, Age of Empires II: The Age of Kings, its expansion The Conquerors, and the Definitive Editions of Age of Empires and Age of Empires II, his credit carries the nickname "Yoda."[^ref-3][^ref-4]
+At Microsoft, Moulder was credited in management roles on dozens of titles across strategy, simulation and action genres, about a dozen of them under the titles Product Unit Manager or General Manager.[^ref-3][^ref-15][^ref-9] As of October 2026, MobyGames shows the nickname "Yoda" in his credit on six Age of Empires releases: Age of Empires II: The Age of Kings, its expansion The Conquerors, the 1999 Macintosh version of Age of Empires, Age of Empires II: HD Edition, and the Definitive Editions of Age of Empires and Age of Empires II.[^ref-15][^ref-4]
 
 After Microsoft he focused on casual and family games, including Scene It?, LEGO Universe and Marvel Super Hero Squad Online, and in May 2011 he became CEO of Her Interactive.[^ref-2][^ref-10] Under his leadership, the company transitioned from physical to digital distribution and delivered its largest sales month ever.[^ref-6] He held the post until September 2014.[^ref-11] In May 2018 Boom Learning named him its chief executive.[^ref-6]
 
@@ -23,15 +23,15 @@ After Microsoft he focused on casual and family games, including Scene It?, LEGO
 
 ### Sierra On-Line (early 1990s)
 
-Moulder began his game industry career at Sierra On-Line.[^ref-2] MobyGames credits him as producer of the floppy-disk version of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]; his biography credits him with delivering Sierra's first CD-ROM title, Mixed-Up Mother Goose.[^ref-3][^ref-2]
+Moulder began his game industry career at Sierra On-Line.[^ref-2] MobyGames credits him as "Producer (Floppy Disk)" of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], and credits [[Josh Mandel]] as "Producer (CD-ROM)".[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose"; the credit record gives the CD-ROM producer credit to Mandel, not to Moulder.[^ref-2][^ref-16]
 
-His Sierra production credits include the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1]] and [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I]], as well as [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-3][^ref-7] He was director and producer of [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]]; his "Director / Producer" credit on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] sits under that game's "Original Board Game Challenge Team", the Hoyle 3 team whose board games the pack reused.[^ref-3][^ref-14]
+His Sierra production credits include the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1]] (including its Amiga and Macintosh versions) and [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I]], as well as [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-3][^ref-7][^ref-15] He is also credited as producer of the Macintosh version of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-15] He was director and producer of [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]]; his "Director / Producer" credit on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] sits under that game's "Original Board Game Challenge Team", the Hoyle 3 team whose board games the pack reused.[^ref-3][^ref-14]
 
-He also provided voices for [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] (Roger Wilco, Jr.) and [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (Blue Person).[^ref-8][^ref-3] According to his biography, he was later asked to direct applications and game development for The ImagiNation Network, which it calls "the first dedicated online gaming network."[^ref-2]
+He also provided voices for [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] (Roger Wilco, Jr.) and [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (Blue Person).[^ref-8][^ref-3] MobyGames also credits him as the voice of the Bandit Leader in the 1992 Windows version of [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]].[^ref-18] According to his biography, he was later asked to direct applications and game development for The ImagiNation Network, which it calls "the first dedicated online gaming network."[^ref-2] Richard Aronson, who designed [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] for the network, wrote in 2009 that Moulder was his producer at TSN/INN "until he left for Microsoft in 1994 or so."[^ref-17]
 
-### Microsoft (mid-1990s–2004)
+### Microsoft (mid-1990s–2000s)
 
-Moulder left Sierra to join Microsoft in the mid-1990s, where, in his biography's words, "he helped Microsoft enter the core gaming business."[^ref-2] The same biography says he was "responsible for several strategic studio acquisitions as well, bringing Bungie, FASA and Ensemble Studios into the fold at Microsoft."[^ref-2][^ref-13]
+Moulder left Sierra to join Microsoft in the mid-1990s ("1994 or so", in Aronson's recollection), where, in his biography's words, "he helped Microsoft enter the core gaming business."[^ref-2][^ref-17] No source found gives the date he left Microsoft; his last Microsoft-era credits date from 2004.[^ref-15] The same biography says he was "responsible for several strategic studio acquisitions as well, bringing Bungie, FASA and Ensemble Studios into the fold at Microsoft."[^ref-2][^ref-13]
 
 On the Age of Empires series, he is credited as Product Unit Manager on the original 1997 release, and under management on The Rise of Rome (1998), Age of Empires II: The Age of Kings (1999), The Conquerors (2000) and Age of Mythology (2002).[^ref-3] The Age of Kings and Conquerors credits list him as "Management (Yoda)."[^ref-3]
 
@@ -49,7 +49,7 @@ Her Interactive announced that "Starting May 16, 2011 Stuart Moulder will join H
 
 He is credited as CEO on seven Nancy Drew games: Alibi in Ashes (2011), Tomb of the Lost Queen (2012), The Deadly Device (2012), Ghost of Thornton Hall (2013), The Silent Spy (2013), The Shattered Medallion (2014) and Labyrinth of Lies (2014).[^ref-8] He is also credited as executive producer on the first four of these.[^ref-8] Alibi in Ashes, the series' 25th game, was the first in which players control Ned, Bess and George as well as Nancy.[^ref-5] He also voiced additional characters in The Silent Spy.[^ref-8]
 
-He told Gamezebo: "I have a 10-year-old daughter that I'm working hard to raise the right way – as a gamer, of course! So I have a stake in helping make games that she and girls like her will love."[^ref-5] On September 3, 2014, Her Interactive named board member Penny Milliken CEO; the release says she "replaces Stuart Moulder who has served as CEO of Her Interactive since May 2011."[^ref-11]
+On September 3, 2014, Her Interactive named board member Penny Milliken CEO; the release says she "replaces Stuart Moulder who has served as CEO of Her Interactive since May 2011."[^ref-11]
 
 ### Boom Learning (2018)
 
@@ -57,13 +57,13 @@ On May 2, 2018, Boom Learning, a platform for teacher-created digital resources,
 
 ### Later credits
 
-Moulder continues to appear in the credits of later Microsoft re-releases, including Age of Empires II: HD Edition (2013), Age of Empires: Definitive Edition (2018, "Product Unit Manager (Yoda)"), Age of Empires II: Definitive Edition (2019, "Management (Yoda)") and Age of Mythology: Retold (2024).[^ref-1][^ref-3][^ref-4]
+Moulder continues to appear in the credits of later Microsoft re-releases, including Age of Empires II: HD Edition (2013, "Management (Yoda)"), Age of Empires: Definitive Edition (2018, "Product Unit Manager (Yoda)"), Age of Empires II: Definitive Edition (2019, "Management (Yoda)"), Age of Mythology: Retold (2024) and, under Special Thanks, Halo: Campaign Evolved (2026).[^ref-15][^ref-3][^ref-4]
 
 ## Notable Works
 
 ### Mixed-Up Mother Goose (1991 VGA remake)
 
-[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was remade with VGA graphics in 1991. MobyGames credits Moulder as producer of the floppy-disk version.[^ref-3] His biography calls it the first CD-ROM title he delivered at Sierra.[^ref-2][^ref-13]
+[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was remade with VGA graphics in 1991. MobyGames credits Moulder as producer of the floppy-disk version and Josh Mandel as producer of the CD-ROM version.[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose."[^ref-2][^ref-13]
 
 ### Age of Empires (1997)
 
@@ -91,13 +91,14 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 
 - **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose (1991 VGA remake)]] — Role: Producer (floppy disk version)
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Producer
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Voice (Roger Wilco, Jr.)
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Voice (Roger Wilco, Jr.); Producer (Macintosh version)
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Producer
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Producer
 - **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]] — Role: Director, Producer
-- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Producer
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Producer (DOS, Amiga and Macintosh versions)
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want To Be A Hero (VGA)]] — Role: Producer
 - **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Director / Producer (credited with the "Original Board Game Challenge Team" from Hoyle 3)
+- **1992** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder! (Windows version)]] — Role: Voice (Bandit Leader)
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice (Blue Person), Special Thanks
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Very Special Thanks
 - **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Special Thanks
@@ -117,6 +118,7 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 | 1998 | Microsoft Pinball Arcade | Product Unit Manager |
 | 1998 | Microsoft Revenge of Arcade | Management |
 | 1998 | Urban Assault | Product Unit Manager |
+| 1999 | Age of Empires (Macintosh) | Product Unit Manager ("Yoda") |
 | 1999 | Age of Empires II: The Age of Kings | Management (Yoda) |
 | 1999 | Asheron's Call | Management |
 | 1999 | Close Combat III: The Russian Front | Product Unit Manager, Historical Text |
@@ -145,7 +147,7 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 | 2004 | Halo 2 | Special Thanks |
 | 2004 | Rise of Nations: Gold Edition | Big Huge Thanks |
 
-### Post-Microsoft (2006–2024)
+### Post-Microsoft (2006–2026)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
@@ -158,7 +160,7 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 | 2012 | Nancy Drew: Tomb of the Lost Queen | Her Interactive | CEO, Executive Producer |
 | 2012 | Nancy Drew: The Deadly Device | Her Interactive | CEO, Executive Producer |
 | 2013 | Nancy Drew: Ghost of Thornton Hall | Her Interactive | CEO, Executive Producer |
-| 2013 | Age of Empires II: HD Edition | Microsoft/Hidden Path | Management |
+| 2013 | Age of Empires II: HD Edition | Microsoft/Hidden Path | Management (Yoda) |
 | 2013 | Nancy Drew: The Silent Spy | Her Interactive | CEO, Additional Voices |
 | 2014 | Nancy Drew: The Shattered Medallion | Her Interactive | CEO |
 | 2014 | Nancy Drew: Labyrinth of Lies | Her Interactive | CEO |
@@ -167,13 +169,14 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 | 2018 | Age of Empires: Definitive Edition | Xbox Game Studios | Product Unit Manager (Yoda) |
 | 2019 | Age of Empires II: Definitive Edition | Xbox Game Studios | Management (Yoda) |
 | 2024 | Age of Mythology: Retold | Xbox Game Studios | Microsoft Management |
+| 2026 | Halo: Campaign Evolved | — | Special Thanks |
 
 ## References
 
-[^ref-1]: [MobyGames - Stuart Moulder](https://www.mobygames.com/person/6024/stuart-moulder/) — Career profile and 85 credits across 64 games
-[^ref-2]: [MobyGames - Stuart Moulder Biography (Wayback, September 12, 2025)](https://web.archive.org/web/20250912174901/https://www.mobygames.com/person/6024/stuart-moulder/) — Self-reported bio: CEO of Her Interactive from May 16, 2011; first CD-ROM title; ImagiNation Network; Age of Empires; Bungie/FASA/Ensemble acquisitions; casual and family games
-[^ref-3]: [MobyGames - Stuart Moulder Credits (Wayback, July 30, 2023)](https://web.archive.org/web/20230730021645/https://www.mobygames.com/person/6024/stuart-moulder/credits/) — Complete production credits by role, including the "(Yoda)" credits
-[^ref-4]: [MobyGames - Age of Empires II: Definitive Edition](https://www.mobygames.com/game/137199/age-of-empires-ii-definitive-edition/) — Game entry; credits list Moulder under Management (Yoda)
+[^ref-1]: [MobyGames - Stuart Moulder](https://www.mobygames.com/person/6024/stuart-moulder/) — Career profile and biography
+[^ref-2]: [MobyGames - Stuart Moulder Biography (Wayback, September 12, 2025)](https://web.archive.org/web/20250912174901/https://www.mobygames.com/person/6024/stuart-moulder/) — Biography text identical to Her Interactive's 2011 company bio (ref-13): CEO of Her Interactive from May 16, 2011; first CD-ROM title; ImagiNation Network; Age of Empires; Bungie/FASA/Ensemble acquisitions; casual and family games
+[^ref-3]: [MobyGames - Stuart Moulder Credits (Wayback, July 30, 2023)](https://web.archive.org/web/20230730021645/https://www.mobygames.com/person/6024/stuart-moulder/credits/) — Production credits by role as of July 2023 (79 credits on 60 games), including the "(Yoda)" credits
+[^ref-4]: [MobyGames - Age of Empires II: Definitive Edition Credits (Windows)](https://www.mobygames.com/game/137199/age-of-empires-ii-definitive-edition/credits/windows/) — "Management Stuart Moulder (Yoda)"
 [^ref-5]: [Gamezebo - CEO Spotlight: Stuart Moulder](https://www.gamezebo.com/news/ceo-spotlight-her-interactives-stuart-moulder-on-the-present-and-future-of-nancy-drew/) — Career history at Sierra, Microsoft, Gazillion
 [^ref-6]: [PRWeb - Boom Learning CEO Announcement](https://www.prweb.com/releases/boom_learning_taps_game_industry_leader_stuart_moulder_as_ceo/prweb15453477.htm) — Her Interactive achievements and later career; history degree noted
 [^ref-7]: [MobyGames - Castle of Dr. Brain Credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/) — Producer credit
@@ -183,4 +186,8 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 [^ref-11]: [Her Interactive - Developer and Publisher of Nancy Drew Games Welcomes Penny Milliken as CEO (Sept. 3, 2014; Wayback)](https://web.archive.org/web/20150127033511/http://www.herinteractive.com/about-us/news/her-interactive-announces-new-executive-leadership/) — Milliken replaces Moulder, CEO since May 2011
 [^ref-12]: [MobyGames - Halo: Combat Evolved Credits](https://www.mobygames.com/game/5368/halo-combat-evolved/credits/) — Special thanks acknowledgment
 [^ref-13]: [Her Interactive - About: Stuart Moulder, CEO (Wayback, June 23, 2011)](https://web.archive.org/web/20110623151818/http://herinteractive.com/about.php) — Company bio: Sierra, first CD-ROM title, ImagiNation Network, Microsoft acquisitions
-[^ref-14]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) — Credits list Moulder as Director / Producer under the "Original Board Game Challenge Team"
+[^ref-14]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge Credits (DOS)](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/credits/dos/) — Credits list Moulder as Director / Producer under the "Original Board Game Challenge Team"
+[^ref-15]: [MobyGames - Stuart Moulder Credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) — "94 credits on 67 games" as of October 2026; "(Yoda)" on six Age of Empires releases; SQ4 Macintosh and LSL1 Amiga/Macintosh producer; Halo: Campaign Evolved (2026) Special Thanks
+[^ref-16]: [MobyGames - Mixed-Up Mother Goose Credits (DOS)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) — "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
+[^ref-17]: [Wikipedia - Talk:ImagiNation Network](https://en.wikipedia.org/wiki/Talk:ImagiNation_Network) — Richard Aronson (RFAronson), January 7, 2009: "Stuart Moulder was my producer until he left for Microsoft in 1994 or so"
+[^ref-18]: [MobyGames - King's Quest V Credits (Windows 16-bit)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) — "Bandit Leader Stuart Moulder"

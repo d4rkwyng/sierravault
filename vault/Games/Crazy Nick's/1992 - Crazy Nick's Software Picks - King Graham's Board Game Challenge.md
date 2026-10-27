@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a 1992 Sierra On-Line budget release that pairs Checkers and Backgammon, taken
   from Hoyle 3, with King Graham as the opponent.'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequen
 
 ### Production
 
-MobyGames credits a separate team for this pack. Bill Davis was director, Tammy Dargan and Tony Caudill were producers, J. Mark Hood was software supervisor and Thaddeus M. Pritchard was lead programmer.[^ref-21] The same credits list an "Original Board Game Challenge Team" from Hoyle 3, including game designers Marti and Bridget McKenna, lead programmer Warren Schwader and composer Robert Atesalp.[^ref-21]
+MobyGames credits a separate team for this pack. Bill Davis was director, Tammy Dargan and Tony Caudill were producers, J. Mark Hood was software supervisor and Thaddeus M. Pritchard was lead programmer.[^ref-21] The same credits list an "Original Board Game Challenge Team" from Hoyle 3, including director / producer [[Stuart Moulder]], game designers Marti and Bridget McKenna, lead programmer Warren Schwader and composer Robert Atesalp.[^ref-21]
 
 Each pack came on a single 3.5" floppy disk on a blister card, and the packs were released for the PC only.[^ref-6]
 

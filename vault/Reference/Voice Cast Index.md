@@ -104,6 +104,9 @@ Sierra designer and producer who also voiced characters in other designers' game
 
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Roger Wilco, Jr. (1992 CD-ROM version)[^ref-moulder][^ref-imdb-sq4]
 - [[1992 - The Dagger of Amon Ra]] — Blue Person (1993 CD-ROM version)[^ref-moulder][^ref-moby-dagger]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — Bandit Leader (1992 Windows version)[^ref-moby-kq5-win]
+
+Outside Sierra, Moulder voiced additional characters in Her Interactive's *Nancy Drew: The Silent Spy* (2013), made while he was that company's CEO.[^ref-moulder]
 
 ### Gary Owens
 
@@ -229,7 +232,7 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-rps-kq-vc]: [Game Informer — Great Scott! Christopher Lloyd And Other Famous Voices Join King's Quest Cast (May 11, 2015)](https://gameinformer.com/games/kings_quest/b/xbox360/archive/2015/05/11/great-scott-christopher-lloyd-and-other-famous-voices-join-king-s-quest-cast) — "Christopher Lloyd… plays the elderly King Graham, while Josh Keaton… plays the King in his younger years"
 [^ref-kq6-vc]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — "Actor Robby Benson provided the voice for Prince Alexander"; "A CD-ROM version of the game was released in 1993, including more character voices"
 [^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — "featuring the voices of Tim Curry, Leah Remini, and Mark Hamill in the CD-ROM version"
-[^ref-moulder]: [IMDb — Stuart Moulder (Wayback, February 17, 2017)](https://web.archive.org/web/20170217100032/http://www.imdb.com/name/nm1723305/) — Voice credits: Space Quest IV (Roger Wilco, Jr.), Laura Bow 2: The Dagger of Amon Ra (Blue Person)
+[^ref-moulder]: [IMDb — Stuart Moulder (Wayback, February 17, 2017)](https://web.archive.org/web/20170217100032/http://www.imdb.com/name/nm1723305/) — Voice credits: Space Quest IV (Roger Wilco, Jr.), Laura Bow 2: The Dagger of Amon Ra (Blue Person), Nancy Drew: The Silent Spy (Additional Voices)
 [^ref-kq5]: [Wikipedia — King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — CD-ROM "talkie… done by members of the Sierra staff"
 [^ref-imdb-kq5]: [IMDb — King's Quest V: Absence Makes the Heart Go Yonder, full cast](https://www.imdb.com/title/tt0212279/fullcredits) — Josh Mandel "King Graham / Innkeeper's Pal"; Roberta Williams "The Rat / Amanda / Woman in Town / Harpy"; Mark Seibert, Barry T. Smith, Lori Ann Cole, Bill Davis, Andy Hoyos; Sarah Long as the Witch
 [^ref-imdb-kq6]: [IMDb — King's Quest VI: Heir Today, Gone Tomorrow, full cast](https://www.imdb.com/title/tt0214857/fullcredits) — Robby Benson "Prince Alexander"; Josh Mandel "King Graham / Shamir Shamazel / Oxymoron / Druid / Guard Dog"; Bernstein, Fennoy, Gary, Ross, Taylor
@@ -264,3 +267,4 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-moby-dagger]: [MobyGames — The Dagger of Amon Ra credits, DOS (Wayback, December 8, 2015)](https://web.archive.org/web/20151208012347/http://www.mobygames.com/game/dos/dagger-of-amon-ra/credits) — "Steve Dorian Josh Mandel, Crodfoller T. Rhubarb Josh Mandel, Henri Le Mort Josh Mandel, Rex the Talking Dinosaur Josh Mandel, Rocco the Taxi Driver Josh Mandel"; "Biff Barry T. Smith, Desk Sergeant Barry T. Smith"; "Blue Person Stuart Moulder"
 [^ref-fpfp-ballad]: [Al Lowe — The Ballad of Freddy Pharkas](https://allowe.com/games/fpfp/the-ballad.html) — lyrics by Josh Mandel, music by Al Lowe; "Al Lowe sings real funny! So? I ended up using me."
 [^ref-ia-kq3]: [Infamous Adventures – "King's Quest III 2.0 + Voice Pack" (August 20, 2006; Wayback, September 2, 2006)](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) — "The long awaited patch and voicepack"; "Andy Hoyos' performance of about half of the Manannan files"
+[^ref-moby-kq5-win]: [MobyGames — King's Quest V credits, Windows 16-bit (Moby ID 130)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) — "Bandit Leader Stuart Moulder"
