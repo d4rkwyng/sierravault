@@ -30,7 +30,7 @@ Curse You! Red Baron received a poor critical reception. Contemporary reviews cr
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
-> **Designer:** Doug Johnson[^ref-17]
+> **Designer:** [[Doug Johnson]][^ref-17]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows 95, Windows 98, Windows Me, Windows 2000[^ref-5][^ref-8]

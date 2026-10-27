@@ -13,7 +13,7 @@ last_updated: "2026-10-15"
 
 ## Overview
 
-Doug Johnson is a game designer credited on Dynamix sports and flight simulations published by Sierra On-Line between 1993 and 1999.[^ref-1][^ref-2] He was lead designer on *Front Page Sports: Baseball Pro '96 Season* and *Front Page Sports: Baseball Pro '98*, one of three multiplayer designers on *Red Baron 3-D*, and the credited designer of *Curse You! Red Baron*.[^ref-25][^ref-27][^ref-28][^ref-29] Several of his credits pair design work with testing or manual writing.[^ref-1]
+Doug Johnson is a game designer credited on Dynamix sports and flight simulations published by Sierra On-Line between 1993 and 1999.[^ref-1][^ref-2][^ref-29] He was lead designer on *Front Page Sports: Baseball Pro '96 Season* and *Front Page Sports: Baseball Pro '98*, one of three multiplayer designers on *Red Baron 3-D*, and the credited designer of *Curse You! Red Baron*.[^ref-25][^ref-27][^ref-28][^ref-29] Several of his credits pair design work with testing or manual writing.[^ref-1]
 
 MobyGames lists his credits under a single profile, with no biography on file.[^ref-2][^ref-21] No interview, biography or other first-hand account of his career has been found. Other people named Doug Johnson, in education, broadcasting, software and the arts, are not the same person and are not covered here.
 
