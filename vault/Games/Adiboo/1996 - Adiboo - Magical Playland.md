@@ -9,7 +9,7 @@ platforms: [Windows, Mac]
 series: Adiboo
 engine: Coktel Vision engine (supported by ScummVM's Gob engine); VMD video
 protagonist: Adiboo
-sierra_lineage: Sierra Published
+sierra_lineage: Sierra Label (Coktel)
 last_updated: '2026-10-27'
 description: 'Adiboo: Magical Playland (Adibou 2 in France) is a 1996 edutainment game
   for children aged 4-7, developed by Sierra subsidiary Coktel Vision for Windows and
@@ -24,7 +24,7 @@ tags: [1990s, adiboo, educational, sierra]
 
 Adiboo: Magical Playland is a French edutainment game developed by [[Coktel Vision]] and released in 1996 for Windows and Macintosh platforms[^ref-1][^ref-13]. Originally titled "Adibou 2" (also "Adibou : Disque environnement") in France, it is the successor to the 1992 MS-DOS game Adibou[^ref-13]. Coktel Vision had been a subsidiary of Sierra On-Line since a deal finalised on 29 October 1993[^ref-18], and in the United States the game was published by Sierra On-Line and Knowledge Adventure[^ref-3][^ref-4]. The game stars Adiboo, described as a "wise and acclaimed extraterrestrial" who teaches children reading, counting, and various life skills through interactive mini-games set in a vibrant, animated world[^ref-5][^ref-6].
 
-The game achieved significant popularity among young children during the late 1990s, becoming what one user described as "a smash hit at my kindergarten"[^ref-1]. Its built-in lessons cover reading and counting, with "30 exercises covering 3 levels of difficulty" in versions for ages 4-5 and 6-7[^ref-5]. Players interact with Adiboo's colorful house and garden environment, engaging in activities ranging from baking cakes and gardening to a construction game, a mask game and a Breakout-style bricks game[^ref-13][^ref-8].
+The game achieved significant popularity among young children during the late 1990s, becoming what one user described as "a smash hit at my kindergarten"[^ref-1]. Separate "I can read and I can count" lesson discs (ages 4-5 and 6-7), released in 1996 alongside the main disc, offered "30 exercises covering 3 levels of difficulty"[^ref-5][^ref-13]. Players interact with Adiboo's colorful house and garden environment, engaging in activities ranging from baking cakes and gardening to a construction game, a mask game and a Breakout-style bricks game[^ref-13][^ref-8].
 
 The Adibou series was Coktel Vision's long-running commercial success, selling over 1.5 million copies by 1997[^ref-18][^ref-17]. Coktel Vision was sold to Mindscape in October 2005, and Mindscape kept the Coktel brand until it closed in 2011[^ref-18]. The game has been retrospectively described as "one of the most unusual, weird, bizarre games I've ever played," with its distinctive art style featuring faces on nearly every object and occasionally jarring content that "would surely fall into a Buzzfeed list of 'Kids' Games We Can't Believe Were For Kids'"[^ref-9][^ref-10].
 
@@ -37,7 +37,7 @@ The Adibou series was Coktel Vision's long-running commercial success, selling o
 > **Release Year:** 1996[^ref-13][^ref-15]
 > **Series:** Adiboo
 > **Protagonist:** Adiboo
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
@@ -82,11 +82,11 @@ The game also includes content from Play Toons 1: Uncle Archibald, another Cokte
 
 ### Contemporary Reviews
 
-Contemporary review data for the base game is limited. The 1996 "Lecture et Calcul" add-on disc was rated 18/20 by the French magazine PC Team, which also gave it its quality label[^ref-13]. No ESRB rating is confirmed: LaunchBox lists "E - Everyone" on an entry that dates the game to 1999[^ref-8], while Kotaku's database lists its content rating as N/A[^ref-16].
+Contemporary review data for the base game is limited. The 1996 "Lecture et Calcul" add-on disc was rated 18/20 by the French magazine PC Team, which also gave it its quality label[^ref-13]. French Wikipedia's footnote gives the source as Valérie Robert, "Découvrir : Adibou 2 - Je lis, je calcule", *PC Team* no. 16, September 1996, p. 70; this citation is taken from that footnote and the magazine scan has not yet been checked. No ESRB rating is confirmed: LaunchBox lists "E - Everyone" on an entry that dates the game to 1999[^ref-8], while Kotaku's database lists its content rating as N/A[^ref-16].
 
 ### Modern Assessment
 
-Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 186 ratings with 418 recorded plays[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.32 out of 5 based on 69 votes[^ref-5].
+Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 186 ratings with 421 recorded plays[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.32 out of 5 based on 69 votes[^ref-5].
 
 **Aggregate Scores:**
 - **Backloggd:** 3.4/5 (186 ratings)[^ref-6]
@@ -121,7 +121,7 @@ The game's video uses the VMD format; the extension "stands for Video and Music 
 **CD-ROM Version:**[^ref-5]
 - **Display:** 256-colour display drivers required[^ref-14]
 - **Media:** CD-ROM (Win/Mac Hybrid)[^ref-5]
-- **File Size:** 317-361 MB[^ref-5]
+- **File Size:** 317-484 MB depending on version[^ref-5]
 
 **Versions (as labelled by MyAbandonware):**[^ref-5]
 - Version 2.12 (Win/Mac Hybrid)
@@ -154,7 +154,7 @@ Modern compatibility presents challenges for players attempting to run Adiboo: M
 
 The Cutting Room Floor wiki documents several hidden developer messages and easter eggs within the game files:
 
-- **Hidden Developer Message:** A 256-color BMP file named BOU.KEY contains French text with development team credits encoded as flipped pixel values, including the phrase "THE TALKING GARDEN GNOME!"[^ref-3]
+- **Hidden Developer Message:** A 256-color BMP file named BOU.KEY contains French text with development team credits encoded as flipped pixel values, including the phrase "THE TALKING GARDEN GNOME!" (in TCRF's translation of the French "LE NAIN DE JARDIN QUI PARLE!")[^ref-3]
 - **Hidden Audio Easter Egg:** The file BOU1.KEY contains the Magnum P.I. TV series intro theme, hidden within the game data[^ref-3]
 - **Christmas Decorations:** If the game is played around Christmas time, decorations automatically appear on Adiboo's house[^ref-4]
 - **Interactive Swing:** Clicking on the garden swing causes it to say "Akalibada"[^ref-4]
@@ -163,11 +163,11 @@ The Cutting Room Floor wiki documents several hidden developer messages and east
 - **Cross-Game Content:** The game contains puzzle scenes reused from Play Toons 1: Uncle Archibald, another Coktel Vision title[^ref-10]
 
 **Unusual Content:**
-The game contains surprisingly dark moments for children's software. One scene features a chef who encounters a fish with "razor sharp teeth" that "bites the chef's nose causing it to swell like a balloon and pop." The chef "screams in pain and falls off like a deflated balloon into the background sky and is never seen again," with the game showing "a big dented hole on the chef's nose as he flys away"[^ref-10]. Critics note this content is "very jarring to see something like that in a children's game"[^ref-10].
+The game contains surprisingly dark moments for children's software. One scene features a chef who encounters a fish with "razor sharp teeth" that "bites the chef's nose causing it to swell like a balloon and pop." The chef "screams in pain and falls off like a deflated balloon into the background sky and is never seen again," with the game showing "a big dented hole on the chef's nose as he flys away"[^ref-10]. One TV Tropes contributor wrote that it is "very jarring to see something like that in a children's game"[^ref-10].
 
 ## Voice Cast
 
-Voice cast information is not documented in available research materials. The game features spoken dialogue from Adiboo and other characters, with the memorable theme song lyric "HOLD MY HAND" noted by players[^ref-1].
+Voice cast information is not documented in available research materials. The game features spoken dialogue from Adiboo and other characters, and one Glitchwave commenter called the theme song "Insanely catchy"[^ref-1].
 
 ## Legacy
 
