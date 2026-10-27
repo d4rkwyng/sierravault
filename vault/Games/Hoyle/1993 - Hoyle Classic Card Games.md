@@ -99,7 +99,7 @@ On abandonware sites, users rate the game 4.03/5 on Abandonware DOS (32 votes)[^
 
 ### Origins
 
-Sierra licensed the Hoyle name from the playing-card maker Brown & Bigelow[^ref-3][^ref-15]. The brand traces back to Edmond Hoyle, who "meticulously recorded and explained all games 'of skill and chance' he encountered from as early as 1672"[^ref-15]. Sierra's box copy played on the phrase: "For years, 'according to Hoyle' has meant 'by the book'; the definitive way to enjoy a great game of cards"[^ref-19][^ref-10].
+Sierra licensed the Hoyle name from the playing-card maker Brown & Bigelow[^ref-3][^ref-15]. The brand traces back to Edmond Hoyle (1672–1769), whose writings on card games, beginning with *A Short Treatise on the Game of Whist* in 1742, made "according to Hoyle" a byword for "strictly according to the rules"[^ref-30]. Sierra's box copy played on the phrase: "For years, 'according to Hoyle' has meant 'by the book'; the definitive way to enjoy a great game of cards"[^ref-19][^ref-10].
 
 The series began in 1989 with Volume 1, which Warren Schwader pitched to Ken Williams and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15].
 
@@ -240,3 +240,4 @@ The game is not sold on GOG. It appears there only as a Dreamlist entry, where u
 [^ref-27]: [Electronic Games (August 1993), Issue 11](https://archive.org/details/ElectronicGamesLC2) – - Ed Dille review, p. 81: Overall 88%, "Eighteen distinct player personalities", "worthy refinement"; bridge roundup in the same issue
 [^ref-28]: [MobyGames – Hoyle Classic Card Games critic reviews (Wayback, March 2025)](https://web.archive.org/web/20250306124241/https://www.mobygames.com/game/30264/hoyle-classic-card-games/reviews/) – - six critic scores with dates, including GameSpot 1998-02-04 and CGW 1998-03
 [^ref-29]: [GameSpot – Hoyle Classic Card Games Review (Wayback, October 2003)](https://web.archive.org/web/20031002072154/http://www.gamespot.com:80/pc/puzzle/hoyleclassiccardgames/review.html) – - 7.0 review of the 1997 CD-ROM game: release date 11/30/1997, "eleven different card games"
+[^ref-30]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – - born 1672, died 29 August 1769; *A Short Treatise on the Game of Whist* published 1742; "according to Hoyle" meaning "strictly according to the rules"

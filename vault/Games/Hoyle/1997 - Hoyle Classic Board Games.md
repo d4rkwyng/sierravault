@@ -10,13 +10,13 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Hoyle Classic Board Games is a 1997 Windows collection of ten traditional board games, plus two bonus card games, developed and published by Sierra On-Line under its Hoyle brand.
 tags: [1990s, hoyle, sierra, board-games]
 ---
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -83,14 +83,14 @@ Computer Games Strategy Plus listed the multiplayer modes as "2 player Hot Seat 
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Games Strategy Plus | 5/5 | Reviewed by Anne Royal (1997)[^ref-24][^ref-25] |
+| Computer Games Strategy Plus | 5/5 (per MobyGames)[^ref-24] | Reviewed by Anne Royal (1997)[^ref-25] |
 | SuperKids | 3.8/5 | 3.8 each for Educational Value, Kid Appeal and Ease of Use[^ref-26] |
 | GameSpot | 7.5/10 ("Good") | Reviewed by Moira Muldoon[^ref-3] |
 | MobyGames Critics | 84% | Average of 3 critic ratings[^ref-24] |
 
 ### Critical Analysis
 
-Computer Games Strategy Plus was the most enthusiastic: "Lacking any glitches to lessen its shine, Hoyle Classic Board Games remains the most enjoyable game of its kind, whether playing solo or with friends across the room (or the globe)"[^ref-25]. Old PC Gaming's later retrospective reuses much of that review's wording[^ref-2].
+Computer Games Strategy Plus was the most enthusiastic: "Lacking any glitches to lessen its shine, Hoyle Classic Board Games remains the most enjoyable game of its kind, whether playing solo or with friends across the room (or the globe)"[^ref-25].
 
 GameSpot concluded: "All in all, the games were faithful to their tangible counterparts – and often as addictive. And since you're launched into a new game each time the old one ends, you may find saying 'Just one more game' to be way too easy"[^ref-3].
 
@@ -118,17 +118,16 @@ The soundtrack includes the tracks "Intro", "Anticipation", "Battling Ships", "C
 
 A demo with playable Checkers and Zen Bones was bundled on other Sierra CDs, including After Dark Totally Twisted, Grand Casino Deluxe, Hoyle Casino 2 and Hoyle Classic Card Games[^ref-29].
 
-In May 1998 Sierra announced a "Sierra Attractions" brand to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license," including "a few Hoyle Classic games"[^ref-30].
+In 1998, ahead of that year's E3, Sierra (then a member of the Cendant Software group) announced a "Sierra Attractions" brand to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license," including "a few Hoyle Classic games"[^ref-30]. Sierra belonged to Cendant only from December 1997 until its sale to Havas was announced in November 1998[^ref-32].
 
 ### Technical Specifications
 
 - Media: CD-ROM[^ref-5]
-- OS: Windows 95 or Windows 3.1[^ref-26]; Old PC Gaming lists Win 95/98[^ref-2]
+- OS: Windows 95 or Windows 3.1[^ref-26]
 - CPU: 486/66 or faster[^ref-26][^ref-31]
 - RAM: 8 MB[^ref-26][^ref-31]
 - Display: SVGA 640x480, 256 colors[^ref-26]
 - CD-ROM: double-speed or faster[^ref-26]
-- Hard drive: 10 MB[^ref-2]
 
 ## Legacy
 
@@ -212,12 +211,11 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 
-- **Related:** [[1993 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
+- **Related:** [[1997 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 
 ## References
 
 [^ref-1]: [Wikipedia - Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Series origin (Schwader concept, SCI challenges, Atesalp for the first three games); release list including Hoyle Classic Board Games (1997) and Hoyle Board Games (1998–2002)
-[^ref-2]: Old PC Gaming (link removed: site offers game downloads) - Retrospective review (reuses much of the Strategy Plus text); system requirements Win 95/98, 486/66, 8 MB RAM, 10 MB space
 [^ref-3]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-classic-board-games-review/1900-2537738/) - Moira Muldoon, 7.5 "Good"; game list, 12 opponents, AI levels, options, rulebook
 [^ref-4]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197582-hoyle-classic-board-games) - Box text (tagline, 10 games + 2 bonus card games, 12 opponents, Internet play); Sierra On-Line; released November 30, 1997
 [^ref-5]: [Never Die Media](https://www.neverdiemedia.com/products/hoyle-classic-board-games-1997) - Retail listing: Windows, CD media, 1997
@@ -236,5 +234,6 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 [^ref-27]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1) - First release 1997-11-30; developer and publisher Sierra On-Line; IBM PC; engine Unknown/unnamed
 [^ref-28]: [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1&fld=walkthrough) - Sign-in, silhouettes, log cabin and spaceship menus, save/revert
 [^ref-29]: [Sierra Chest - Demos](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1&fld=demos) - Demo with playable Checkers and Zen Bones; CDs it was bundled on
-[^ref-30]: [GameSpot - Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) - May 18, 1998: Sierra Attractions brand covering the Hoyle license
+[^ref-30]: [GameSpot - Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) - Undated in the article (GameSpot shows a 2000 archive placeholder date); Cendant Software group, "as E3 approaches"; Sierra Attractions brand covering the Hoyle license
 [^ref-31]: [MobyGames - Specs](https://www.mobygames.com/game/45136/hoyle-classic-board-games/specs/) - Windows; minimum Intel i486 DX2, 8 MB RAM
+[^ref-32]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - CUC merged with HFS to form Cendant in December 1997; sale of the consumer software division to Havas announced November 20, 1998
