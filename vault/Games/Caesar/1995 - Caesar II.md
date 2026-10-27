@@ -156,7 +156,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 
 [^ref-1]: [Wikipedia - Caesar II](https://en.wikipedia.org/wiki/Caesar_II) – Review scores, awards, sales figures, development history
 [^ref-2]: [Amazon - Caesar II PC](https://www.amazon.com/Caesar-II-PC/dp/B0006BKIZU) – Product description comparing it to SimCity and Civilization
-[^ref-3]: [Arcade Attack - Chris Beatrice Interview](https://www.arcadeattack.co.uk/chris-beatrice-sierra/) – Developer insights on graphics and Age of Empires influence
+[^ref-3]: [Arcade Attack - Chris Beatrice Interview](https://web.archive.org/web/20191208072828/https://www.arcadeattack.co.uk/chris-beatrice-sierra/) – Developer insights on graphics and Age of Empires influence
 [^ref-4]: [Ars Technica - History of City Building Games](https://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/) – Caesar II features and improvements over original
 [^ref-5]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Technical specifications, platforms, credits, genres
 [^ref-6]: [Flash of Steel - Caesar Series Analysis](https://flashofsteel.com/index.php/2008/04/04/caesar-series-1993-2006/) – Simon Bradbury email interview on origins and development challenges

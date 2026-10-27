@@ -134,20 +134,20 @@ Caesar is the first game in Impressions' Caesar series of city-building games. T
 [^ref-3]: https://sierrachest.com/index.php?a=person&id=10&fld=general - Primary biographical source from David Lester
 [^ref-5]: https://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/ - Ars Technica (2015), history of city-building games
 [^ref-11]: https://www.lemonamiga.com/games/docs.php?id=273 - Original game manual ("Caesar: Copyright Impressions 1992")
-[^ref-19]: https://game-wisdom.com/critical/one-road-at-a-time-a-look-at-the-city-builder-genre - Josh Bycer, genre development analysis
+[^ref-19]: https://web.archive.org/web/20200217033028/http://game-wisdom.com/critical/one-road-at-a-time-a-look-at-the-city-builder-genre - Josh Bycer, genre development analysis
 [^ref-26]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Wikipedia: release date, credits, CGW and PC Gamer UK reception, Cohort 2 and Caesar Deluxe, sequels
 [^ref-27]: https://amr.abime.net/review_678 - Amiga Magazine Rack: contemporary review scores and reviewers
 [^ref-28]: https://amigareviews.leveluphost.com/caesar.htm - Full texts of Amiga Format (Neil Jackson, issue 41; Caesar Deluxe by Rob Mead, issue 52) and other reviews
 [^ref-29]: https://archive.org/details/Computer_Gaming_World_Issue_107 - Computer Gaming World #107 (June 1993), pp. 126–127: "Good Impressions of Caesar" review by Allen Greenberg
 [^ref-30]: https://amigareviews.leveluphost.com/caesar.htm - German review text ("frecher 'Sim City'-Klon")
-[^ref-32]: https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice interview (Arcade Attack)
-[^ref-36]: https://www.arcadeattack.co.uk/simon-bradbury-sierra/ - Simon Bradbury interview (Arcade Attack)
+[^ref-32]: https://web.archive.org/web/20191208072828/https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice interview (Arcade Attack)
+[^ref-36]: https://web.archive.org/web/20191113070429/https://www.arcadeattack.co.uk/simon-bradbury-sierra/ - Simon Bradbury interview (Arcade Attack)
 [^ref-38]: https://www.imdb.com/name/nm8568638/ - IMDb composer credit information
 [^ref-40]: https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt - Sierra On-Line Form 10-K (1996): Caesar series sales; Impressions Software, Inc. listed as subsidiary
 [^ref-43]: https://www.mobygames.com/game/3146/caesar/releases/ - MobyGames release list: Impressions publisher 1992–93; Sierra Originals 1996; Activision/GOG 2017
 [^ref-44]: https://www.gog.com/forum/caesar_series/widescreen - GOG forum discussion of Julius and Augustus (Caesar III)
 [^ref-45]: https://github.com/Keriew/augustus - Augustus open-source project repository
-[^ref-47]: https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice on Caesar II's graphics and Age of Empires
+[^ref-47]: https://web.archive.org/web/20191208072828/https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice on Caesar II's graphics and Age of Empires
 [^ref-50]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Sequels and spin-offs forming the City Building series
 [^ref-53]: https://www.gog.com/en/game/caesar - GOG.com store page ($5.99; "Company: Impressions Games / Activision")
 [^ref-54]: https://lilura1.blogspot.com/2022/04/Caesar-IBM-PC-MS-DOS-1992-Impressions-Games-Original-Version.html - Lilura review of the DOS version: credits, technical details, city-building rules

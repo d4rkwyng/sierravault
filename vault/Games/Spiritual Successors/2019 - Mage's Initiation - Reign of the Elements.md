@@ -277,7 +277,7 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-2]: [Adventure Gamers – Hands-on Preview](https://web.archive.org/web/20220510074415/https://adventuregamers.com/articles/view/36793) – release date, development timeline, combat system, violence optional feature
 [^ref-3]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20190603085211/https://adventuregamers.com/articles/view/37028) – development length comparison, "2019's first great delight", running animation criticism, combat and setting details
 [^ref-4]: [Kicktraq – Campaign Data](http://www.kicktraq.com/projects/2112639455/mages-initiation-a-classic-sierra-style-adventure/) – funding amount, backer count, campaign dates
-[^ref-5]: [Arcade Attack – Developer Interview](https://www.arcadeattack.co.uk/mages-initiation/) – development timeline, Harry Potter inspiration, fan poll, developer quotes, legal history
+[^ref-5]: [Arcade Attack – Developer Interview](https://web.archive.org/web/20191208081831/https://www.arcadeattack.co.uk/mages-initiation/) – development timeline, Harry Potter inspiration, fan poll, developer quotes, legal history
 [^ref-6]: [Metacritic – Mage's Initiation](https://www.metacritic.com/game/mages-initiation-reign-of-the-elements/) – aggregate scores, individual review scores, user score
 [^ref-7]: [Himalaya Studios Official Website](http://www.himalayastudios.com/games/mages/) – story details, quest items, collector's edition contents
 [^ref-8]: [Steam Store Page](https://store.steampowered.com/app/270610/Mages_Initiation_Reign_of_the_Elements/) – platforms, user reviews, speech lines count, gemstone count, macOS compatibility
