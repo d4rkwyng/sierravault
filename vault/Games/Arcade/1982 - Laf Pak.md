@@ -1,7 +1,7 @@
 ---
 title: Laf Pak
 release_year: 1982
-developer: On-Line Systems
+developer: Chuck Bueche
 designer: [Chuck Bueche]
 publisher: On-Line Systems
 genre: Arcade
@@ -9,7 +9,7 @@ platforms: [Apple II]
 series: Standalone
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-27'
 description: Laf Pak (sold as Chuckles' Laf Pak) is a compilation of four Apple II
   action games by Chuck Bueche, published by On-Line Systems, bundling Creepy Corridors,
   Apple Zap, Space Race and Mine Sweep on one disk.
@@ -17,27 +17,25 @@ tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Laf Pak, sold as *Chuckles' Laf Pak*, is a compilation of four action games written by Chuck Bueche and published by On-Line Systems for the Apple II[^ref-20][^ref-21]. The disk holds Creepy Corridors, Apple Zap, Space Race and Mine Sweep[^ref-3][^ref-21]. *Softalk* listed it at $34.95 and pointed out that it was "four games on one disk—for the price of one disk."[^ref-21]
 
-Game databases date the release to 1981 (MobyGames gives June 1981)[^ref-9][^ref-13][^ref-16]. The contemporary evidence points to 1982: *Softalk* reviewed it in its September 1982 issue, and *Creative Computing* in February 1983[^ref-21][^ref-22]. No first advertisement has been found to settle the date, so this page follows the 1982 date of the reviews and of the Internet Archive's preservation copy[^ref-20].
+Game databases date the release to 1981 (MobyGames gives June 1981)[^ref-9][^ref-13][^ref-16]. The period evidence points to 1982. The earliest *Softalk* software listing found for it is in the June 1982 issue: "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate"[^ref-24]. Eli's Software Encyclopedia records a 1982 copyright date on the packaging[^ref-25]. According to the Minesweeper Game Database, Bueche states on his website that he wrote the four games "during Summer 1981 and Spring 1982"[^ref-26]. *Softalk* reviewed the disk in September 1982 and *Creative Computing* in February 1983[^ref-21][^ref-22]. The databases' June 1981 date is therefore likely wrong, and this page uses 1982, as does the Internet Archive's preservation copy[^ref-20].
 
-Bueche later became known as "Chuckles", the court jester of the Ultima series, and co-founded Origin Systems. Laf Pak was his second published title, after Brainteaser Boulevard![^ref-6] By Bueche's own account the compilation was not a success, and "not many copies were sold."[^ref-6]
-
-Creepy Corridors was allegedly the third Apple II game to include sampled speech: a dying scream provided by Bueche himself[^ref-7].
+Bueche, already billed as "Chuckles" on this disk[^ref-24][^ref-25], went on to appear in the Ultima series as the court jester Chuckles and to co-found Origin Systems[^ref-6]. Laf Pak was his second published title, after Brainteaser Boulevard![^ref-6] Retro365 notes that the compilation "wasn't very successful and not many copies were sold."[^ref-6]
 
 > [!info]- Game Info
-> **Developer:** [[On-Line Systems]][^ref-20]
+> **Developer:** Chuck Bueche[^ref-3][^ref-25]
 > **Designer:** Chuck Bueche[^ref-21]
-> **Publisher:** On-Line Systems[^ref-20]
+> **Publisher:** [[On-Line Systems]][^ref-20]
 > **Platforms:** Apple II[^ref-20]
-> **Release Year:** 1982 (reviews); databases list 1981[^ref-9][^ref-21]
+> **Release Year:** 1982 (period listings, packaging); databases list 1981[^ref-9][^ref-24][^ref-25]
 > **Price:** $34.95[^ref-21]
-> **Series:** None
-> **Protagonist:** Varies by mini-game
+> **Series:** Standalone
+> **Protagonist:** Various (compilation)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -88,7 +86,7 @@ Modern coverage is limited.
 **Aggregate Scores:**
 - **MobyGames:** 3.3/5 (3 ratings)[^ref-9]
 - **GameFAQs:** 2.5/5 (2 users)[^ref-11]
-- **LaunchBox Games Database:** 2.50/5[^ref-4]
+- **LaunchBox Games Database:** 2.50/5 (1 vote)[^ref-4]
 
 Bueche himself later admitted that "some of the games could have been better."[^ref-6]
 
@@ -127,8 +125,7 @@ According to Pix's Origin Adventures, Creepy Corridors was "allegedly the third 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1982 (databases: 1981) | Apple II | Released by On-Line Systems as *Chuckles' Laf Pak*[^ref-9][^ref-21] |
-| SierraVision | Undated | Apple II | Creepy Corridors released on its own under the SierraVision label[^ref-6] |
-| VIC-20 | 1983 | VIC-20 | Creepy Corridors only, released as an individual game and ported by Don McGlauflin. Not part of Laf Pak[^ref-7] |
+| SierraVision | 1983 | VIC-20 (cartridge) | Creepy Corridors only, ported by Don McGlauflin and released on its own under the SierraVision label. Not part of Laf Pak[^ref-7][^ref-27] |
 
 ### Technical Issues
 
@@ -136,8 +133,6 @@ The VIC-20 port of Creepy Corridors was not part of the Laf Pak compilation. Pix
 
 ### Easter Eggs and Trivia
 
-- **Sampled Speech:** Creepy Corridors was allegedly the third Apple II game to include sampled speech[^ref-7]
-- **Bueche's Voice:** The dying scream in Creepy Corridors was provided by Chuck Bueche himself[^ref-7]
 - **Origin Connection:** Bueche became known as "Chuckles", the court jester of Richard Garriott's Ultima series, and co-founded Origin Systems[^ref-6]
 - **Homemade Disk:** TOSEC catalogues a homemade disk that pairs Laf Pak with BC's Quest for Tires. The "[h Mr. Clean]" hack tag belongs to the BC's Quest for Tires half[^ref-1][^ref-12]
 
@@ -145,7 +140,7 @@ The VIC-20 port of Creepy Corridors was not part of the Laf Pak compilation. Pix
 
 ### Sales and Commercial Impact
 
-Laf Pak was not a commercial success. Bueche himself said that "not many copies were sold."[^ref-6] He went on to make Lunar Leeper and the Atari 8-bit port of Jawbreaker for Sierra's SierraVision label, and later co-founded Origin Systems[^ref-6].
+Laf Pak was not a commercial success. Retro365 notes that the compilation "wasn't very successful and not many copies were sold"; Bueche's own verdict was that "some of the games could have been better."[^ref-6] He went on to make Lunar Leeper and the Atari 8-bit port of Jawbreaker for Sierra's SierraVision label, and later co-founded Origin Systems[^ref-6].
 
 ### Collections
 
@@ -155,11 +150,11 @@ Laf Pak was not a commercial success. Bueche himself said that "not many copies 
 
 ### Standalone Releases
 
-Creepy Corridors, which *Softalk* called the best game on the disk, later had its own release under SierraVision, Sierra's arcade label[^ref-6][^ref-21]. A VIC-20 version followed in 1983 as an individual game[^ref-7].
+[[1982 - Creepy Corridors|Creepy Corridors]], which *Softalk* called the best game on the disk[^ref-21], was the only Laf Pak game to get a release of its own: Don McGlauflin's VIC-20 cartridge port, published in 1983 under SierraVision, Sierra's arcade label[^ref-7][^ref-27].
 
 ### Critical Perspective
 
-Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as early work by Chuck Bueche, who went on to co-found Origin Systems[^ref-6]. Three reviews from 1982–84 all singled out Creepy Corridors[^ref-21][^ref-22][^ref-23].
+Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as early work by Chuck Bueche, who went on to co-found Origin Systems[^ref-6]. *Softalk*'s review and Ferrell Wheeler's *Hardcore Computist* article both singled out Creepy Corridors[^ref-21][^ref-23].
 
 ## Downloads
 
@@ -220,13 +215,20 @@ Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as ea
 
 [^ref-13]: [GameFAQs – Laf Pak Media](https://gamefaqs.gamespot.com/appleii/216570-laf-pak/media) – Apple II release data (1981)
 
-
 [^ref-16]: [IGDB](https://www.igdb.com/games/laf-pak) – Internet Game Database entry
 
 [^ref-20]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – Game preservation; "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"
 
-[^ref-21]: [Softalk, Vol. 3 No. 1 (September 1982), p. 140 – "Chuckles' Laf Pak" review](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – title, $34.95 price, game descriptions, "most with reconfigurable keyboard controls"
+[^ref-21]: [Softalk, Vol. 3 No. 1 (September 1982), pp. 140, 168 – "Chuckles' Laf Pak" review](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – title, $34.95 price, game descriptions, "most with reconfigurable keyboard controls"; "a real bargain" is from the same issue's software listing on p. 10
 
 [^ref-22]: [Creative Computing, Vol. 9 No. 2 (February 1983), p. 88 – "Apple arcade games" by David H. Ahl and Chris Vogeli](https://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php) – descriptions of all four games, "a lot of game playing value per dollar"
 
 [^ref-23]: [Hardcore Computist No. 13 (1984) – "Normalizing Laf Pak" by Ferrell Wheeler](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – "four small but very enjoyable and playable games", copy-protection details
+
+[^ref-24]: [Softalk, Vol. 2 No. 10 (June 1982), p. 10 – software listing](https://archive.org/details/softalkv2n10jun1982/page/10/mode/2up) – "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate ... $34.95"; earliest Softalk listing found
+
+[^ref-25]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5 1/4" Disk) Sierra - 1982 USA, Canada Release](https://elisoftware.org/wiki/Laf_Pak_%28Apple_II,_5_1/4%22_Disk%29_Sierra_-_1982_USA,_Canada_Release) – packaging copyright 1982, developer Chuck Bueche, 48K; packaging text "The History of Chuckles" names "Lord Chuckles"
+
+[^ref-26]: [Minesweeper Game Database – Mine Sweep (1982)](https://minesweepergame.com/database/games.php?id=117) – "Chuck Bueche states on his website that he wrote the four games ... during Summer 1981 and Spring 1982"
+
+[^ref-27]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – Creepy Corridors, "the only game from the Laf Pak compilation", ported to the VIC-20 by Don McGlauflin and released under SierraVision in 1983
