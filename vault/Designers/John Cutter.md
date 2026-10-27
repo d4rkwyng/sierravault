@@ -169,7 +169,7 @@ As Cinemaware's first employee, Cutter worked on the company's games from Defend
 [^ref-5]: [Legendary Games Interview (YouTube)](https://www.youtube.com/watch?v=0fBWh71rP9E) — March 2022 video; the English description quotes the "rock stars" line and summarizes his Cinemaware role
 [^ref-6]: [LinkedIn - John Cutter](https://www.linkedin.com/in/johnmcutter/) — Profile: "40 years as a game developer"; Honors & Awards list; current employer Wooga
 [^ref-9]: [MobyGames - John Cutter Credits](https://www.mobygames.com/person/64/john-cutter/credits/) — Game credits listing (89 credits on 34 games)
-[^ref-10]: [Matt Chat Interviews John Cutter with Transcript](https://mattbarton.net/?p=997) — Matt Barton, June 18, 2015: Employee #1 at Cinemaware; fired by Tony Reyneke over the sequel budget; Cavedog and Elysian; Dungeon Siege 2
+[^ref-10]: [Matt Chat Interviews John Cutter with Transcript](https://web.archive.org/web/20250220061636/https://mattbarton.net/?p=997) — Matt Barton, June 18, 2015: Employee #1 at Cinemaware; fired by Tony Reyneke over the sequel budget; Cavedog and Elysian; Dungeon Siege 2
 [^ref-12]: [GameFAQs - John Cutter Credits](https://gamefaqs.gamespot.com/games/credit/32044-john-cutter) — Defender of the Crown role credits
 [^ref-13]: [MobyGames - The King of Chicago](https://www.mobygames.com/game/26/the-king-of-chicago/) — Associate Producer and Associate Director credits (MobyGames ID 26)
 [^ref-14]: [MobyGames - S.D.I.](https://www.mobygames.com/game/726/sdi/) — Producer credit (MobyGames ID 726)
