@@ -100,7 +100,7 @@ Davis replaced Jason with Ulysses to avoid potential copyright problems, because
 
 **Development Credits:**
 - **Designers:** Bob Davis, Ken Williams[^ref-1][^ref-31]
-- **IBM PC version:** Jay Sullivan, Frank Randak; implemented by Jeff Stephenson[^ref-11]
+- **IBM PC version:** Jay Sullivan, Frank Randak[^ref-11]; implemented by [[Jeff Stephenson]][^ref-40]
 - **Atari 8-bit port:** Yosemite Software Products, Inc.[^ref-27]
 
 ### Technical Specifications
@@ -236,3 +236,4 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 [^ref-37]: [PC Magazine, 20 March 1984 (Internet Archive full text)](https://archive.org/download/PC-Mag-1984-03-20/PC-Mag-1984-03-20_djvu.txt) – Phil Wiswell, "PC Arcade": Jason/Columbia anecdote, Scroll-Lock, two-word commands, Fun 5.0 / Challenge 6.0 / Graphics 3.0, total 14.0
 [^ref-38]: [Videogaming Illustrated, December 1982 – Ulysses and the Golden Fleece (VideoGame Pavilion)](https://vgpavilion.com/mags/1982/12/vi/ulysses-and-the-golden-fleece) – feature and Bob Davis interview: "quite extensive" vocabulary, two-week estimate, Columbia Pictures copyright reason
 [^ref-39]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #4" among the games using this engine
+[^ref-40]: [MobyGames – Jeff Stephenson credits (Wayback, November 2022)](https://web.archive.org/web/20221109082054/https://www.mobygames.com/developer/sheet/view/developerId,52/) – "Hi-Res Adventure #4: Ulysses and the Golden Fleece (1982) ( Implemented by )"
