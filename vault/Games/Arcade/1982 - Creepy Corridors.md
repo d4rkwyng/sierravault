@@ -30,7 +30,7 @@ Originally bundled with three other games (Apple Zap, Mine Sweep, and Space Race
 > **Designer:** Chuck Bueche, Don McGlauflin[^ref-7]
 > **Publisher:** Sierra On-Line (as [[On-Line Systems]])[^ref-1]
 > **Engine:** 6502 Assembly Language[^ref-8]
-> **Platforms:** Apple II, VIC-20 (Atari 8-bit and Commodore 64 versions were advertised but not released; the IBM PCjr port was released as [[1983 - Mine Shaft|Mine Shaft]])[^ref-4][^ref-6]
+> **Platforms:** Apple II, VIC-20 (Atari 8-bit and Commodore 64 versions were advertised but not released; according to Retro365, the IBM PCjr port was released as [[1983 - Mine Shaft|Mine Shaft]])[^ref-4][^ref-6]
 > **Release Year:** 1982 (Apple II), 1983 (VIC-20)[^ref-6]
 > **Series:** Laf Pak compilation[^ref-1]
 > **Protagonist:** Sierra Smith[^ref-4]
@@ -101,7 +101,7 @@ The Apple II original's best-known feature was sampled speech. Bueche sampled hi
 **Development Credits:**
 - **Designer/Programmer:** Chuck Bueche[^ref-1][^ref-7]
 - **VIC-20 Port:** Don McGlauflin[^ref-4][^ref-20]
-- **IBM PCjr Port:** John Redekopp (released as Mine Shaft)[^ref-6]
+- **IBM PCjr Port:** John Redekopp (released as Mine Shaft, according to Retro365)[^ref-6]
 - **Laf Pak Cover Art:** Scott Ross[^ref-1]
 - **VIC-20 Cover Art:** [[Mark Crowe]][^ref-6]
 

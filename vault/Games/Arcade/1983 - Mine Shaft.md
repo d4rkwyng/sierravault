@@ -10,29 +10,29 @@ series: None
 engine: Unknown
 protagonist: None (player-controlled mine cart)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Mine Shaft is a maze action game developed by Sierra On-Line for IBM
   and released as one of the four launch cartridges for the IBM PCjr entry model.
   The player steers a mine cart collecting diamonds while shooting runaway mining robots.
-tags: [1980s, none, sierra]
+tags: [1980s, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Mine Shaft is a maze action game developed by [[Sierra On-Line]] for IBM, which sold it as a $35 ROM cartridge for the IBM PCjr[^ref-18][^ref-20][^ref-21]. It was one of the four action cartridges IBM announced for the PCjr entry model, alongside Sierra's Crossfire, Mouser and ScubaVenture[^ref-20][^ref-21]. The game carries a 1983 copyright date, but Retro365 notes that it only reached buyers when the PCjr itself became available in early 1984[^ref-24]; Sierra Chest gives its first release as 1984[^ref-3]. MobyGames credits the programming to John Redekopp[^ref-1].
+Mine Shaft is a maze action game developed by [[Sierra On-Line]] for IBM, which sold it as a $35 ROM cartridge for the IBM PCjr[^ref-18][^ref-20][^ref-21]. It was one of the four action cartridges IBM announced for the PCjr entry model, alongside Sierra's Crossfire and two non-Sierra titles, Mouser (developed by Gebelli Software) and ScubaVenture[^ref-20][^ref-21][^ref-23]. The game carries a 1983 copyright date, but it only reached buyers when the PCjr itself became available, in March 1984 (per Retro365; Sierra Chest gives 1984)[^ref-24][^ref-3]. MobyGames credits the programming to John Redekopp[^ref-1].
 
 The player steers a mining car through a network of tunnels, collecting diamonds while shooting the mine's robots, which have gone haywire[^ref-1][^ref-18][^ref-20]. *PCjr Magazine* reviewed it at launch and called it "yet another variation of Pac Man"[^ref-18]. According to Retro365, the game was John Redekopp's PCjr port of Chuck Bueche's Apple II game *[[1982 - Creepy Corridors|Creepy Corridors]]*[^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1][^ref-18]
 > **Designer:** John Redekopp (Programmer)[^ref-1]
-> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists Sierra On-Line[^ref-1])
+> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists an Apple II release published by Sierra On-Line, unconfirmed elsewhere[^ref-1])
 > **Engine:** Unknown
 > **Platforms:** PC Booter, PCjr Cartridge[^ref-1][^ref-3][^ref-15]
-> **Release Year:** 1983 (copyright); on sale early 1984[^ref-1][^ref-3][^ref-24]
+> **Release Year:** 1983 (copyright); on sale March 1984 per Retro365 (Sierra Chest gives 1984)[^ref-1][^ref-3][^ref-24]
 > **Series:** None
 > **Protagonist:** None (player-controlled mine cart)
 > **Sierra Lineage:** Core Sierra
@@ -65,7 +65,7 @@ Don Kennedy reviewed IBM's four launch cartridges in "Junior Arcade" in the firs
 
 ### Modern Assessment
 
-MobyGames users give it an average of 2.8 out of 5 (13 ratings, 3 reviews)[^ref-1]. Trixter's review is titled "Unexciting gameplay and faulty contols make this one to avoid" and ends: "Use this game as a demonstration of how cartridge games work on the PCjr, but otherwise avoid it." Gravel Robin's 2002 review suggests: "If you like Pacman, you may want to try it... with a good joystick."[^ref-1]
+MobyGames users give it an average of 2.8 out of 5 (13 ratings, 3 reviews)[^ref-1]. Trixter's review is titled "Unexciting gameplay and faulty contols [sic] make this one to avoid" and ends: "Use this game as a demonstration of how cartridge games work on the PCjr, but otherwise avoid it." Gravel Robin's 2002 review suggests: "If you like Pacman, you may want to try it... with a good joystick."[^ref-1]
 
 **Aggregate Scores:**
 - **MobyGames:** 2.8/5 (13 ratings, 3 reviews)[^ref-1]
@@ -99,13 +99,13 @@ MobyGames trivia speculates that because the game uses the PC speaker and only f
 - **Media:** PCjr ROM cartridge
 - **Business Model:** Commercial
 
-Nerdly Pleasures notes that Sierra's PCjr games "do not really support more than 4-color 320x200 graphics and PC speaker sound, although the color choices are not limited to the CGA palettes"[^ref-15]. A UVList editor's note adds that Tandy/PCjr graphics did not exist until 1984, so the PC version was patched or republished to support them[^ref-8].
+Nerdly Pleasures notes that Sierra's PCjr games "do not really support more than 4-color 320x200 graphics and PC speaker sound, although the color choices are not limited to the CGA palettes"[^ref-15].
 
 ### Easter Eggs and Trivia
 
 - *PCjr Magazine* compared the look of the game to the aftermath of Dig Dug's burrowing[^ref-18]
 - Mine Shaft is one of the two Sierra-developed cartridges, with Crossfire, that IBM released for the PCjr[^ref-15][^ref-22]
-- The Good Old Days floppy collection preserves a 160 KB self-booting disk image of the game, labelled 1983[^ref-6]
+- The Good Old Days floppy collection holds a cracked 160 KB booter disk image of the game, labelled 1983[^ref-6]; the game itself shipped as a PCjr ROM cartridge[^ref-20][^ref-21]
 
 ## Legacy
 
@@ -125,7 +125,6 @@ Critics at launch found the game competent but derivative. *PCjr Magazine* judge
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots[^ref-1]
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
-- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
 - Also catalogued by UVList, Giant Bomb and Sierra Gamers[^ref-8][^ref-9][^ref-10]
 
 ## See Also
@@ -155,8 +154,8 @@ Critics at launch found the game competent but derivative. *PCjr Magazine* judge
 [^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publishers (IBM, Sierra On-Line), description, programming credit, user ratings and reviews, trivia
 [^ref-3]: [Sierra Chest – Mine Shaft](https://www.sierrachest.com/index.php?a=games&id=635&fld=general) – first release 1984-01-01, IBM PC Jr., Arcade: Mono-screen
 [^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – playable version, game description (Sierra On-Line / IBM, 1983)
-[^ref-6]: [Internet Archive – Mine Shaft IBM PC Floppy](https://archive.org/details/000308-MineShaft) – IBM PC floppy image preservation (The Good Old Days Floppy Collection)
-[^ref-8]: [UVList – Mine Shaft](https://www.uvlist.net/game-170916-Mine+Shaft) – "developed by Sierra On-Line and published by IBM in 1983"; Tandy/PCjr graphics editor note
+[^ref-6]: Internet Archive item "Mine Shaft IBM PC Floppy Image" (000308-MineShaft) – cracked 160 KB booter image (TGOD); item notes: "Year: 1983", "1 x Booter (160kB)", "Status: Cracked"
+[^ref-8]: [UVList – Mine Shaft](https://www.uvlist.net/game-170916-Mine+Shaft) – "developed by Sierra On-Line and published by IBM in 1983"
 [^ref-9]: [Giant Bomb – Mine Shaft](https://www.giantbomb.com/mine-shaft/3030-1311/) – game database entry
 [^ref-10]: [Sierra Gamers – Mine Shaft](https://www.sierragamers.com/mine-shaft/) – Sierra fan community game listing
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Sierra's PCjr cartridges; 4-colour 320x200, PC speaker, colours not limited to CGA palettes
