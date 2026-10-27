@@ -10,16 +10,16 @@ series: 3-D Ultra
 engine: Unknown/unnamed
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
   RC racing game developed by Dynamix and published by Sierra On-Line in 2000, an expanded
   update of the 1999 original with sixteen tracks and new Soccer and Battle Ball modes.'
 tags: [2000s, 3-d-ultra, racing, sierra]
-last_modified: 2026-10-11T15:27:14-06:00
+last_modified: 2026-10-27T11:22:37-06:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The game was rated "E for Everyone" by the ESRB with no content descriptors, mak
 > **Platforms:** Windows 95, Windows 98, Windows ME[^ref-5][^ref-14]
 > **Release Year:** 2000[^ref-1][^ref-15]
 > **Series:** 3-D Ultra Series[^ref-9]
-> **Protagonist:** N/A (Player-controlled RC vehicles)
+> **Protagonist:** N/A (Player-controlled RC cars)
 > **Sierra Lineage:** Core Sierra (Sierra Attractions label)
 
 ## Story Summary
@@ -78,18 +78,18 @@ Players can customize their vehicles with upgrades to engines, shocks, and tires
 
 ### Tracks and Environments
 
-The Deluxe Traxxas Edition features sixteen total tracks: fourteen racing tracks and two arenas for RC Soccer and Battle Ball.[^ref-1][^ref-9] Environments include:[^ref-3]
+The Deluxe Traxxas Edition features sixteen total tracks: fourteen racing tracks and two arenas for RC Soccer and Battle Ball.[^ref-1][^ref-9] Environments include:
 
-- **Backyard:** Features garden gnomes and a dog as hazards
-- **Frog Pond:** Aquatic-themed obstacles
-- **Construction Site:** Industrial setting with unique challenges
-- **Pirate Cove:** Nautical theming
+- **Backyard:** Features garden gnomes and a dog as hazards[^ref-9]
+- **Frog Pond**[^ref-2]
+- **Construction Site**[^ref-2]
+- **Pirate Cove**[^ref-2]
 - **MiniGolf Course:** Complete with rocket, windmill, and waterfall features plus a sea monster[^ref-1]
-- **Haunted Graveyard:** Navigate between tombs
-- **Aztec Pyramid:** Avoid surrounding lava
+- **Haunted Graveyard:** Navigate between tombs[^ref-9]
+- **Aztec Pyramid:** Avoid surrounding lava[^ref-9]
 - **Traxxas Raceway:** One of three indoor tracks[^ref-1]
-- **Desert:** Arid environment racing
-- **3-D Ultra Thrillride:** Crossover-themed track[^ref-3]
+- **Desert:** Snakes, twisters and poisoned water[^ref-1][^ref-9]
+- **3-D Ultra Thrillride:** Amusement-park track with bumper-car action and roller-coaster-style turns[^ref-3]
 
 ### Powerups and Combat
 
@@ -98,7 +98,7 @@ Racing action is enhanced with various powerups scattered across tracks:[^ref-2]
 - **Missiles:** Projectile weapons
 - **Dynamite Sticks:** Explosive hazards
 - **Slippery Oil:** Creates slick surfaces
-- **Electric Shock:** Stuns opponents
+- **Electric Shock:** Slows nearby opponents
 - **Turbo Boosters:** Speed enhancement
 - **Firecrackers and Bottle Rockets:** Additional offensive items[^ref-9]
 
@@ -129,7 +129,7 @@ One Steam user has described the game as "the innovator of car·soccer (like Roc
 
 ### Production
 
-Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9] The game was published under the Sierra Attractions label, listed by the Children's Software directory as "Sierra Attractions (Vivendi)."[^ref-12] Traxxas branding features in the game's Traxxas Raceway track.[^ref-1]
+Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9][^ref-1] The game was published under the Sierra Attractions label, listed by the Children's Software directory as "Sierra Attractions (Vivendi)."[^ref-12] Traxxas branding features in the game's Traxxas Raceway track.[^ref-1]
 
 **Development Credits:**[^ref-16]
 - **Executive Producer:** Susan Folden
@@ -165,7 +165,7 @@ PCGamingWiki's page for the 1999 original documents a Patch 1.1 that "allows cus
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original (3-D Ultra Radio Control Racers) | September 1, 1999 | Windows | Initial release with 8 tracks[^ref-9][^ref-10] |
+| Original (3-D Ultra Radio Control Racers) | September 1, 1999 | Windows | Initial release with 8 tracks[^ref-10] |
 | Deluxe: Traxxas Edition | September 4, 2000 | Windows | Enhanced edition with 16 tracks[^ref-9] |
 | US Retail Release | November 2, 2000 | Windows | North American retail[^ref-7] |
 
@@ -173,7 +173,7 @@ PCGamingWiki's page for the 1999 original documents a Patch 1.1 that "allows cus
 
 - In Germany the RC Racers game was known as "Funk Flitzer"; one player recalls getting it as "Big Fun Funk Flitzer" on a Micky Maus-Magazin CD, though which edition is unclear.[^ref-3][^ref-8]
 - One Steam user calls it "the innovator of car·soccer (like Rocket League)"; the Deluxe edition's RC Soccer mode came nearly 15 years before Rocket League.[^ref-8]
-- The game features crossover content including a "3-D Ultra Thrillride track" referencing another title in the 3-D Ultra series.[^ref-3]
+- One of the new tracks is the "3-D Ultra Thrillride track", an amusement-park course with bumper-car action and roller-coaster-style turns.[^ref-3]
 
 ## Legacy
 
@@ -188,7 +188,7 @@ The game appeared in compilation releases:
 
 ### Fan Projects
 
-Collection Chamber offers a DOSBox-configured installer for the 1999 original, not this edition.[^ref-6] Old-Games.ru hosts the original disc image and documentation for preservation purposes.[^ref-11] Community members on Steam and GOG.com have advocated for official digital re-releases, though the game's rights situation remains unclear.[^ref-8]
+Collection Chamber offers a DOSBox-configured installer for the 1999 original, not this edition.[^ref-6] Old-Games.ru hosts the original disc image and documentation for preservation purposes.[^ref-11] A GOG.com Dreamlist entry and a 2017 Steam forum post ask for a digital re-release; the Steam poster asked who now holds the rights.[^ref-3][^ref-8]
 
 ### Related Publications
 
