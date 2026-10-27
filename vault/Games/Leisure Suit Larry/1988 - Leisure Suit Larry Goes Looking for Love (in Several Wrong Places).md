@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s landmark comedy adventure series, released by Sierra...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -171,7 +171,7 @@ Al Lowe ruefully notes that modern technical support offers no help: "Once upon 
 
 The game is packed with references to other Sierra games and inside jokes:
 
-- **Copy Protection Bypass:** Entering 0724 (Al Lowe's birthday, July 24th) skips the copy protection and activates a cheat mode in later versions[^ref-17][^ref-31]
+- **Copy Protection Bypass:** Entering the phone number 555-0724 (Al Lowe's birthday) skips the copy protection, and the intro with it; Al Lowe says it works only in version 1.002.000, not the original 1.000.011[^ref-17][^ref-31][^ref-32]
 - **Boss Key:** Pressing Ctrl-B makes Larry disappear—a "panic button" for players caught gaming at work[^ref-3]
 - **Police Quest Reference:** Looking through a fence hole at the Quikie Mart shows people playing Police Quest[^ref-15]
 - **Space Quest IV Reference:** One background is described as looking like it belongs in Space Quest IV[^ref-20]

@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake
   of the original 1986 Space Quest: The Sarien Encounter, developed and published
   by Sierra On-Line for MS-DOS, Amiga, and Macintosh.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest I: Roger Wilco in the Sarien Encounter
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4].
@@ -131,7 +131,7 @@ The game was released in both VGA and a rare EGA version based on the VGA versio
 - **King Graham cameo:** In the VGA ending sequence, King Graham from King's Quest appears to award Roger the Golden Mop—a crossover between Sierra's flagship franchises[^ref-17]
 - **ZZ Top legal issue:** The game originally featured a band resembling ZZ Top, but legal concerns from the band's lawyers forced Sierra to change it—later versions replaced the ZZ Top sprites with a generic alien band (two small aliens and an alien drummer); removing all `*.v56` files restores the original sprites[^ref-17][^ref-20]
 - **Latex Babe easter egg:** Using the TONGUE icon on the purple spiral above the doorway after obtaining the Sarien uniform triggers a glitchy Latex Babe animation[^ref-22]
-- **"Don't Press" button:** Pressing the button in the escape pod transports Roger to Nottingham Castle from Conquests of the Longbow (fatal). In the 1986 original the same button dropped him at Daventry from King's Quest I, complete with moat alligators and Ken and Roberta Williams overheard inside; the remake removed the King's Quest references[^ref-17][^ref-30]
+- **"DON'T TOUCH" button:** Pressing "DON'T TOUCH" in the escape pod cockpit transports Roger to Nottingham Castle from Conquests of the Longbow (Hardcore Gaming 101 calls the button "Do Not Press"). In the 1986 original the same button dropped him at Daventry from King's Quest I, complete with moat alligators and Ken and Roberta Williams overheard inside; the remake removed the King's Quest references[^ref-17][^ref-30]
 - **Instant replay death:** One VGA death scene features the Two Guys from Andromeda popping up to announce an instant replay of Roger's particularly stupid moment[^ref-30]
 - **Sci-fi references:** New to the remake, the music in Kerona's hologram area opens like the theme from 2001: A Space Odyssey[^ref-38]
 - **Cameos:** Robbie the Robot from "Forbidden Planet" works as the store droid; a Star Trek Warbird appears when selecting wrong coordinates; the time pod from Space Quest IV appears when leaving Ulence Flats; Blues Brothers and Madonna appear in the bar[^ref-17]

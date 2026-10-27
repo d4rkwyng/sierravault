@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS,
   in which janitor Roger Wilco must stop the Sariens from using the stolen Star Generator.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].
@@ -114,7 +114,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 - **Coding bug:** Returning to the starting room gives a 21% chance of three marching guards. The same code was copied into a neighbouring room (logic 4), where a coordinate-check bug means the guards never appear
 - **Version differences:** Multiple releases (1.0x, 1.1a, 2.2) contain different content, with some unused code and items removed in later versions
 - **Version-specific easter eggs:** In version 1.0x, typing "ken" on the Arcada made Ken Williams walk on screen and complain the game was behind schedule. It was removed from later versions. Conversely, typing "scott" brings up a personal message from Scott Murphy asking players to write him at Sierra, but only in version 2.2[^ref-5][^ref-18][^ref-23]
-- **Hidden easter eggs:** Behind Droids-B-Us in Ulence Flats, typing "take leak" rewards 5 buckazoids with a humorous message (not in version 1.0X); traveling to a specific desert location (E,E,N,N,E,E from the escape pod) and waiting causes a meteor to crash directly on Roger[^ref-26]
+- **Hidden easter eggs:** Behind Droids-B-Us in Ulence Flats, typing "take leak" gives one of three joke messages, and a few buckazoids are stashed there (5 per SpaceQuest.net, which says they are missing in version 1.0X; one per the Space Quest FAQ)[^ref-26][^ref-23]; traveling to a specific desert location (E,E,N,N,E,E from the escape pod) and waiting causes a meteor to crash directly on Roger[^ref-26]
 
 ### Version History
 
@@ -128,7 +128,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 - Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30]; the Sierra Fandom wiki's credits instead list Al Lowe for music[^ref-5]
 - One early box printing ("that second box," per Scott Murphy) had the film put in backwards, mirroring the Sierra half-dome in the background. Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 - Mark Crowe said the "Two Guys" name was borrowed from "Two Guys from Italy," which he called an east coast pizza chain (Murphy remembered it as a local Italian restaurant chain)[^ref-30][^ref-22]
-- A Sarien guard near the Deltaur's elevators will eventually ask if you own King's Quest II. Hearing the question earns 1 point and answering "yes" earns 5 more. Murphy said the King's Quest II reference was "all Ken Williams' doing"[^ref-7][^ref-23]
+- Talk to one of the Sarien guards on the Deltaur and he will eventually ask if you've played King's Quest II. Talking to the guard earns 1 point and answering "yes" earns 5 more. Murphy said the King's Quest II reference was "all Ken Williams' doing"[^ref-7][^ref-23]
 - Typing "holy shit" while playing the slot machine in version 2.2 makes beating it trivially easy[^ref-30][^ref-32]. It brings up a menu that configures the next pull; its text exists in earlier versions, suggesting a debugging tool added back in due to player complaints[^ref-18]
 - Kicking a dead crew member on the Arcada costs you one point—though "who would do such a thing?"[^ref-30]
 - The code to disable the Star Generator (6858) matches the last four digits of Sierra's phone number from 1988: (209) 683-6858[^ref-30]
