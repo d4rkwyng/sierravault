@@ -10,14 +10,14 @@ series: World in Conflict
 engine: MassTech
 protagonist: Lieutenant Parker
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 description: World in Conflict is a real-time tactics video game developed by Swedish
   studio Massive Entertainment and published by Sierra Entertainment under Vivendi...
 tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ The game is set in an alternate 1989 in which an impending economic collapse, an
 
 Players assume the role of Lieutenant Parker, a company commander in the United States Army, working alongside characters including Captain Mark Bannon, Colonel Jeremiah Sawyer, and the French liaison Commandant Sabatier.[^ref-1] As Alec Baldwin's narration establishes: "War can be fascinating to watch on TV but up close and personal it's a whole other story. Imagine your office building blown to pieces, your car thrown about like a discarded glove, and your friend lying on a street, his body torn to bloody shreds. That was the reality in Seattle on that fateful day in the fall of '89."[^ref-12]
 
-The 14-mission campaign is divided into three distinct parts: the first focuses on the fighting retreat from Seattle toward Fort Teller in the Cascade Mountains; the second is a flashback to recent combat in Europe, culminating in a Soviet attack on Manhattan; and the third chronicles the desperate effort to retake Seattle before a Chinese fleet arrives, which could force the President to authorize nuclear strikes against the invaders.[^ref-9]
+The campaign of 14 missions[^ref-63] is divided into three distinct parts: the first focuses on the fighting retreat from Seattle toward Fort Teller in the Cascade Mountains; the second is a flashback to recent combat in Europe, culminating in a Soviet attack on Manhattan; and the third chronicles the desperate effort to retake Seattle before a Chinese fleet arrives, which could force the President to authorize nuclear strikes against the invaders.[^ref-9]
 
 The expansion pack, Soviet Assault, adds six new missions in which players command Soviet forces, telling the story from the Soviet perspective.[^ref-1][^ref-36] The game concludes with a statement that Parker may be called upon to fight later on, as fighting continues in Europe and elsewhere.[^ref-15]
 
@@ -54,11 +54,11 @@ The expansion pack, Soviet Assault, adds six new missions in which players comma
 
 World in Conflict fundamentally reimagines the real-time strategy genre by removing base construction and resource harvesting entirely.[^ref-4] As lead designer Magnus Jansén explained, the game has "a strong focus on unit tactics, action, team play, and destruction" with "no resource-gathering, so every second not spent fighting the enemy over a piece of land is a second wasted."[^ref-16] Players spend a set pool of reinforcement points to purchase units, which are then airdropped onto the battlefield, creating constant tactical decisions about force composition and timing.[^ref-1]
 
-The MassTech engine provides a full 360-degree range of camera control, allowing players to zoom from strategic overview down into the heart of battle.[^ref-6] The game supports both DirectX 9 and DirectX 10 graphics APIs, with the latter enabling advanced visual effects and dual-monitor support in multiplayer mode.[^ref-4] Controls utilize standard keyboard and mouse input with an intuitive interface designed to minimize micromanagement and maximize combat engagement.[^ref-18]
+The MassTech engine provides a full 360-degree range of camera control, allowing players to zoom from strategic overview down into the heart of battle.[^ref-6] The game supports both DirectX 9 and DirectX 10 graphics APIs, with the latter enabling advanced visual effects and dual-monitor support in multiplayer mode.[^ref-4]
 
 ### Structure and Progression
 
-The single-player campaign spans 14 missions (expanded to 20 with Soviet Assault) across multiple theaters of operation.[^ref-19] Each mission places the player in command of a company-sized element while AI allies handle the broader battle, creating what Eurogamer described as "the illusion of being part of a larger, ongoing battle" that is "terrifyingly real."[^ref-5]
+The single-player campaign spans 14 missions[^ref-63], and the Soviet Assault expansion adds six more;[^ref-36] Massive's own site describes a solo campaign of 20 missions.[^ref-19] Each mission places the player in command of a company-sized element while AI allies handle the broader battle, creating what Eurogamer described as "the illusion of being part of a larger, ongoing battle" that is "terrifyingly real."[^ref-5]
 
 - **Part One - American Defense:** Fighting retreat from Seattle through the Cascade Mountains
 - **Part Two - European Flashback:** NATO operations culminating in the Soviet attack on Manhattan
@@ -100,13 +100,13 @@ PC Gamer's modern retrospective noted that "World in Conflict never quite receiv
 
 ### Origins
 
-World in Conflict emerged from Massive Entertainment's experience developing the Ground Control series, which pioneered similar tactical-focused gameplay without base building.[^ref-29] As company founder Martin Walfisz later reflected, "Ground Control didn't do that well in terms of sales... we got so many fantastic reviews and we felt like kings of the world. But then the harsh financial reality hit us."[^ref-30] Despite commercial challenges, Massive persisted with their vision of pure tactical gameplay.
+World in Conflict emerged from Massive Entertainment's experience developing the Ground Control series, which pioneered similar tactical-focused gameplay without base building.[^ref-29] Asked by Rock Paper Shotgun whether Ground Control had sold poorly, company founder Martin Walfisz replied: "No, it didn't do as well as we'd hoped. When Ground Control was released in 2000 we were still independent... we got so many fantastic reviews and we felt like kings of the world. But then the harsh financial reality hit us."[^ref-30] Despite commercial challenges, Massive persisted with their vision of pure tactical gameplay.
 
 The development team drew inspiration from the 1984 film *Red Dawn*, the Call of Duty series, and Medal of Honor games to create an immersive, character-driven single-player experience unusual for the strategy genre.[^ref-1] Designer Nicklas Cederström explained the philosophy: "Personally, I don't even call it an RTS, because it's just pure action." Asked what he would call it instead, he said: "Internally we sometimes call it RTT--real-time tactics," adding "We want it to be the Counter-Strike of RTS gaming."[^ref-31]
 
 ### Production
 
-Massive Entertainment is based in Malmö, Sweden,[^ref-59] and the team built upon its proprietary MassTech engine first developed for Ground Control.[^ref-35] Best-selling military thriller author Larry Bond was brought on to craft the single-player story, lending authenticity to the Cold War scenario.[^ref-6] The game went gold on September 5, 2007, with Sierra announcing two retail editions: a Standard Edition at $49.99 and a Collector's Edition at $59.99.[^ref-7]
+Massive Entertainment is based in Malmö, Sweden,[^ref-59] and the team built upon its proprietary MassTech engine first developed for Ground Control.[^ref-35] Best-selling military thriller author Larry Bond was brought on to craft the single-player story, lending authenticity to the Cold War scenario.[^ref-6] The game had gone gold by August 10, 2007, the date of Sierra's press release announcing two retail editions: a Standard Edition at $49.99 and a Collector's Edition at $59.99.[^ref-7]
 
 The Collector's Edition included unique bonuses: an actual piece of the Berlin Wall, a History Channel bonus DVD exploring Cold War history, and behind-the-scenes development videos.[^ref-7] Marketing positioned the game as "the next-generation of strategy titles, pitting Cold War-era superpowers against one another."[^ref-7] Cindy Cook of Vivendi Games described it as marking "a great step forward for the strategy genre, effectively blurring the lines between strategy, action and first-person-shooter."[^ref-33]
 
@@ -161,11 +161,11 @@ Console versions for Xbox 360 and PlayStation 3 were planned and announced but u
 | 1.007 | — | Windows | Patch (date not documented)[^ref-38] |
 | 1.008 | — | Windows | Patch (date not documented)[^ref-38] |
 | 1.009 | — | Windows | Patch (date not documented)[^ref-38] |
-| 1.010 | Early 2009 | Windows | **DRM removal** - SecuROM removed, disc no longer required[^ref-40] |
+| 1.010 | Mar 2009 | Windows | **DRM removal** - SecuROM removed, disc no longer required[^ref-40] |
 | 1.011 | Jun 2009 | Windows | Four new multiplayer maps[^ref-41] |
 
 **DRM Removal (Patch 1.010):**[^ref-40]
-The 1.010 patch was significant for removing SecuROM copy protection entirely, eliminating the disc check requirement for single-player. This was part of preparing for the World in Conflict Complete Edition release. The patch also added a new launcher with Massgate news, improved bot difficulty settings, high-resolution Line of Sight rendering, and enhanced admin spectator features.[^ref-40]
+Released on March 10, 2009, the tenth patch removed SecuROM copy protection, so the DVD was no longer required in the drive for single-player play. It also made the original release multiplayer-compatible with the World in Conflict Complete Edition and the stand-alone Soviet Assault expansion, both released that week. The patch added a launcher showing Massgate news, a new difficulty level for bots, high-resolution Line of Sight rendering, and chat to both teams for admin spectators.[^ref-40]
 
 ### Technical Issues
 
@@ -185,6 +185,8 @@ The German version required modifications for USK rating compliance: the atomic 
 - **Whitesnake Music:** The band Whitesnake's music plays during certain campaign moments—IGN's Dan Adams quipped, "When Whitesnake starts playing during World in Conflict's single player campaign, you'll realize that it is love that you're feeling."[^ref-22]
 
 ## Voice Cast
+
+Cast and role names as credited by Metacritic and MobyGames.[^ref-64][^ref-34]
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -220,7 +222,7 @@ The German version required modifications for USK rating compliance: the atomic 
 | Various | Emmanuel Todorov |
 | Various | Armando Valdes-Kennedy |
 
-Alec Baldwin provided extensive narration for mission briefings, establishing the somber, documentary-style tone of the campaign.[^ref-34]
+Alec Baldwin narrates the events of the campaign before each mission.[^ref-1][^ref-64]
 
 ## Legacy
 
@@ -339,7 +341,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-34]: [MobyGames – World in Conflict Credits](https://www.mobygames.com/game/30129/world-in-conflict/credits/windows/) – full development team, motion capture studios
 [^ref-37]: [Shacknews – World in Conflict Console Port Canned](https://www.shacknews.com/article/57494/world-in-conflict-console-port) – Ubisoft statement to IGN, March 2009
 [^ref-38]: [Patches-Scrolls – World in Conflict](https://www.patches-scrolls.com/world_in_conflict.php) – list of patch versions (no dates)
-[^ref-40]: FilePlanet – Patch 1.010 *(download link removed: the game is sold commercially)* – DRM removal, patch details; notes reference the "upcoming March release" of World in Conflict Complete
+[^ref-40]: [Shacknews – World in Conflict Patch 10 Arrives, Removes DRM](https://www.shacknews.com/article/57584/world-in-conflict-patch-10) – Chris Faylor, March 10, 2009; patch notes: SecuROM removed, disc no longer required, launcher, bot difficulty; Complete Edition and Soviet Assault "hit this week"
 [^ref-41]: [GamePressure – Patch 1.011](https://www.gamepressure.com/download.asp?ID=24042) – new maps, balance changes
 [^ref-42]: [ModDB – WIC Modern Warfare Mod](https://www.moddb.com/mods/wicmw) – framerate requirements, mod details
 [^ref-43]: [Steam Community – World in Conflict Reviews](https://steamcommunity.com/app/21760/reviews/?p=1&browsefilter=toprated) – Windows 10 compatibility issues (review by Qinshi)
@@ -362,3 +364,5 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-60]: [Steambase – World in Conflict Reviews](https://steambase.io/games/world-in-conflict-ad/reviews) – player score 77/100 (Steam app 21760)
 [^ref-61]: [Steambase – World in Conflict: Soviet Assault Reviews](https://steambase.io/games/world-in-conflict-soviet-assault/reviews) – player score 89/100 (Steam app 21910)
 [^ref-62]: [WorthPlaying – 'World in Conflict' - v1.005 Patches Available NOW](https://worthplaying.com/article/2007/12/17/news/47488-world-in-conflict-v1005-patches-available-now/) – v1.005 patch, December 17, 2007
+[^ref-63]: [CNET – World in Conflict review](https://www.cnet.com/reviews/world-in-conflict-review/) – David Power, October 3, 2007; "Each of the 14 missions throughout the campaign..."
+[^ref-64]: [Metacritic – World in Conflict details and credits](https://www.metacritic.com/game/world-in-conflict/details/) – cast list: "Alec Baldwin Cast: Narrator", "Philippe Bergeron Cast: Sabatier", "Brian Bloom Cast: Drill Commander", "Erik Bolin Cast: Parker - Gamer"

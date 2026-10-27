@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a 1999 tactical squad-based first-person
   shooter that moved the Police Quest / SWAT series from adventure games and isometric
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -317,7 +317,7 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, "surprise hit", SDK mention, multiplayer modes
 [^ref-24]: [CNN Review (Archived)](https://web.archive.org/web/20020602122359/http://www.cnn.com/TECH/computing/9911/22/swat3/) – D. Ian Hopper review
 [^ref-25]: [MobyGames – Elite Edition](https://www.mobygames.com/game/2651/swat-3-close-quarters-battle-elite-edition/) – composer credits, GameSpy award, user reviews, server shutdown, Elite Edition scenarios
-[^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) – aggregate score, multiplayer addition
+[^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) ([archived copy, October 2023](https://web.archive.org/web/20231012234114/https://www.metacritic.com/game/swat-3-elite-edition/)) – Metascore 81 from 9 critic reviews; multiplayer addition
 [^ref-27]: [IGN Interview (Archived)](https://web.archive.org/web/20230405054837/https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) – Rod Fung quote, about 500 motion-captured animations mostly performed by an LAPD SWAT officer
 [^ref-29]: [PCGamingWiki – SWAT 3](https://www.pcgamingwiki.com/wiki/SWAT_3:_Close_Quarters_Battle) – compatibility issues, API details
 [^ref-30]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/swat-3-close-quarters-battle-windows-gamerip-1999) – soundtrack specifications

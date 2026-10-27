@@ -10,7 +10,7 @@ series: SWAT
 engine: OKRE
 protagonist: Mathias Kincaid
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-27'
 composer: [Nick Arundel]
 description: 'SWAT: Global Strike Team is a tactical first-person shooter developed
   by Argonaut Games and published by Sierra Entertainment, released in October 2003
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT: Global Strike Team
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ SWAT: Global Strike Team received a mixed reception from critics upon release in
 
 Eurogamer took a more critical stance, scoring the game 6/10 and calling it "by some margin - the easiest first person shooter I've ever played."[^ref-18] The reviewer concluded that "with a decent graphics engine, a sterner challenge and some polished AI routines, this could've been a classic."[^ref-18] Game Informer gave the Xbox version 7.5/10; the main review, credited to Jeremy Zoss,[^ref-1] offered a memorable criticism: "Graphically, it's uglier than a backwoods beauty pageant." Matthew Kato's second opinion concluded that "SWAT will be swallowed up by obscurity because its gameplay condiments can't make up for the fact that the meat of the matter doesn't leave you coming back for more."[^ref-15]
 
-Other notable reviews included PSM Magazine at 80/100, praising the replayability: "Though the missions are somewhat short (they average fifteen minutes in length) they possess a great deal of replayability, thanks to the fact that you can solve each one in so many different ways."[^ref-41] GamePro gave 70/100 (with specific scores of Graphics: 4.0, Sound: 3.0, Control: 3.5), characterizing it as "light on realism and story, heavy on wham-bang action."[^ref-19] TweakTown called it "a decent game which could keep arcade action fans happy" but warned that "the biggest problem with SWAT: Global Strike Team is its linearity."[^ref-22]
+Other notable reviews included PSM Magazine at 80/100, praising the replayability: "Though the missions are somewhat short (they average fifteen minutes in length) they possess a great deal of replayability, thanks to the fact that you can solve each one in so many different ways."[^ref-41] GamePro gave 70/100 (with specific scores of Graphics: 4.0, Sound: 3.0, Control: 3.5), characterizing it as "light on realism and story, heavy on wham-bang action."[^ref-19] TweakTown called it "a decent game which could keep arcade action fans happy" but warned that "the biggest problem with SWAT: Global Strike Team is its linearity."[^ref-22] IGN's Aaron Boulding scored it 6.6/10, writing that "SWAT:GST was initially going to be a bit of a twist on the old squad-based tactical shooter genre, but in the time since it was announced for PS2 and Xbox and it's recent arrival on those systems, other titles like SOCOM and Rainbow Six 3 have surpassed and improved on what SWAT: GST set out to do."[^ref-43]
 
 ### Modern Assessment
 
@@ -95,6 +95,7 @@ The game has maintained a modest reputation among tactical shooter fans, though 
 - **Metacritic (PS2):** 69/100 (21 critics)[^ref-41]
 - **Metacritic (Xbox):** 69/100 (22 critics)[^ref-6]
 - **GameSpot:** 8.1/10[^ref-2]
+- **IGN:** 6.6/10[^ref-43]
 - **Famitsu:** 28/40 (7/7/7/7)[^ref-24]
 - **MobyGames:** 71%[^ref-7]
 - **IMDb:** 7.3/10 (57 votes, October 2026)[^ref-10]
@@ -124,7 +125,9 @@ The project was developed exclusively for PlayStation 2 and Xbox, with TweakTown
 - **Designer:** Alastair Halsby  
 - **Designer:** Jon Torrens
 - **Producer:** Sefton Hill[^ref-1][^ref-27]
+- **Co-op / Multiplayer Designer:** Lorne Campbell[^ref-42]
 - **Writer:** Mike Kitson[^ref-1]
+- **Original Concept (as credited):** Sefton Hill, Paul Crocker[^ref-42]
 - **Composer:** Nick Arundel
 - **Head of Music:** Justin Scharvona
 - **Kleaners co-originators:** Sefton Hill, Dave Taylor, Matt Godbolt[^ref-8]
@@ -142,7 +145,7 @@ The voice recognition technology was particularly notable, with SWAT: Global Str
 **Xbox Version:**[^ref-7][^ref-28]
 - **Graphics:** Better lighting, bump-mapping, surface highlights
 - **Resolution:** Standard definition
-- **Distribution Format:** DVD
+- **Distribution Format:** DVD[^ref-38]
 - **Input:** Gamepad, Xbox Live Communicator headset
 - **Players:** 1-4 players
 
@@ -168,8 +171,8 @@ The game underwent significant conceptual changes during development. Originally
 |---------|------|----------|--------|-----------|-------|
 | 1.0 | October 28, 2003 | PlayStation 2 | North America | Sierra Entertainment | Initial release[^ref-1] |
 | 1.0 | October 28, 2003 | Xbox | North America | Sierra Entertainment | Initial release[^ref-1] |
-| 1.0 | December 5, 2003 | PlayStation 2 | Europe | Sierra Entertainment | European release[^ref-1][^ref-38] |
-| 1.0 | December 5, 2003 | Xbox | Europe | Sierra Entertainment | European release[^ref-1] |
+| 1.0 | December 5, 2003 | PlayStation 2 | Europe | Sierra Entertainment | European release[^ref-1][^ref-37] |
+| 1.0 | December 5, 2003 | Xbox | Europe | Sierra Entertainment | European release[^ref-1][^ref-37] |
 | 1.0 | December 16, 2004 | Xbox | Japan | Microsoft Game Studios | Japanese release[^ref-1][^ref-37] |
 
 ### Easter Eggs and Trivia
@@ -267,5 +270,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-35]: [Pure Xbox – Insignia Support](https://www.purexbox.com/news/2023/11/xbox-live-1-0-replacement-insignia-now-supports-150-games) – online functionality restoration
 [^ref-36]: [Neoseeker FAQs](https://www.neoseeker.com/swat-globalstrike/faqs/) – fan documentation
 [^ref-37]: [VGMDb – SWAT: Global Strike Team](https://vgmdb.net/product/19293) – composer credits, regional releases
-[^ref-38]: [Computing History UK](https://www.computinghistory.org.uk/det/61804/SWAT-Global-Strike-Team/) – UK release information
+[^ref-38]: [Computing History UK](https://www.computinghistory.org.uk/det/61804/SWAT-Global-Strike-Team/) – museum Xbox copy: "Platform : Xbox Format : DVD Publisher : Sierra Authors : Argonaut Software"
 [^ref-41]: [Metacritic PS2 Reviews](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=playstation-2) – Metascore 69 from 21 critic reviews; PSM and Armchair Empire quotes
+[^ref-42]: [MobyGames – SWAT: Global Strike Team PS2 credits (Wayback, Jan 2024)](https://web.archive.org/web/20240112193547/https://www.mobygames.com/game/40822/swat-global-strike-team/credits/ps2/) – "Co-op / Multiplayer Design Lorne Campbell"; "Original Concept Sefton Hill Paul Crocker"
+[^ref-43]: [IGN – SWAT: Global Strike Team review](https://www.ign.com/articles/2003/10/28/swat-global-strike-team) – Aaron Boulding, 6.6/10; "a bit of a twist on the old squad-based tactical shooter genre"
