@@ -11,7 +11,7 @@ series: Caesar
 engine: Titan Engine
 protagonist: Roman Provincial Governor (player)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Caesar IV is a city-building simulation game developed by Tilted Mill
   Entertainment and published by Sierra Entertainment, released in September 2006
   after an eight-year gap since Caesar III.
@@ -19,7 +19,7 @@ tags: [2000s, caesar, sierra]
 ---
 # Caesar IV
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -102,7 +102,7 @@ However, some retrospective criticism has been more severe. One MobyGames review
 
 **Aggregate Scores:**
 - **Metacritic:** 74/100 (32 critic reviews, 56% positive, 44% mixed, 0% negative)[^ref-9]
-- **MobyGames:** 78% (51 critic ratings)[^ref-4]
+- **MobyGames:** 78% (48 critic ratings)[^ref-4]
 - **Steam User Reviews:** 71% positive (822 reviews)[^ref-28]
 - **GOG.com User Rating:** 4/5 (210 ratings)[^ref-29]
 - **IMDB:** 6.8/10 (67 ratings)[^ref-30]
@@ -173,7 +173,7 @@ The game's audio system utilized industry-standard middleware including Bink Vid
 | 1.1 | September 2006 | Windows | US version only; fixes an issue with the Caesar IV Online feature[^ref-53][^ref-43] |
 | 1.2 | January 2007 | Windows | Bug fixes, multiplayer improvements, editor fixes[^ref-53][^ref-20] |
 | GOG Release | May 27, 2016 | Windows | Version 1.2, DRM-free[^ref-44][^ref-18] |
-| Steam Release | August 29, 2016 | Windows | Version 1.2; among the first Sierra classics released on Steam[^ref-38][^ref-18] |
+| Steam Release | August 29, 2016 | Windows | Version 1.2[^ref-18]; release date per SteamDB[^ref-55]; among the first Sierra classics released on Steam[^ref-38] |
 
 ### Technical Issues
 
@@ -190,7 +190,7 @@ Retail copies used SecuROM v7 copy protection[^ref-18]. The GOG.com release is D
 - The US launch release was bundled with the History Channel documentary "Rome: Engineering an Empire," which won two Emmy Awards[^ref-4].
 - The game includes cheat codes typed after pressing Enter: "Denarii X" sets the player's money, and "win" immediately completes the current scenario[^ref-54].
 - The demo, released on FilePlanet in August 2006, was set in the province of Narbonensis and provided players with more starting cash than "Donald Trumpus"[^ref-16].
-- Official multiplayer servers were shut down on November 1, 2008 following the Activision-Blizzard merger with Sierra[^ref-4][^ref-45].
+- Official multiplayer servers were shut down on November 1, 2008 after Vivendi Games, Sierra's parent, merged with Activision in July 2008[^ref-56][^ref-4][^ref-45].
 - The ESRB rated the game E10+ for Everyone 10 and older, citing Violence and Use of Alcohol[^ref-23].
 
 ## Voice Cast
@@ -231,13 +231,13 @@ According to Beatrice, the games' core audience was men in their late 30s and ea
 
 ### Collections
 
-Caesar IV was re-released on major digital platforms a decade after its original launch. GOG.com began selling a DRM-free version on May 27, 2016, priced at $9.99 with regular sales discounting it to $5.99[^ref-44]. Steam added the game on August 29, 2016, among the first batch of Sierra classics released there[^ref-38], where it holds 71% positive reviews from 822 users[^ref-28].
+Caesar IV was re-released on major digital platforms a decade after its original launch. GOG.com began selling a DRM-free version on May 27, 2016, priced at $9.99 with regular sales discounting it to $5.99[^ref-44]. Steam added the game on August 29, 2016[^ref-55], among the first batch of Sierra classics released there[^ref-38], where it holds 71% positive reviews from 822 users[^ref-28].
 
 ### Fan Projects
 
 The Caesar IV community remained active through fan sites, particularly Caesar IV Heaven (caesar4.heavengames.com), which hosted walkthroughs, strategy guides, scenario downloads, and the official patches[^ref-11][^ref-20]. The game included a scenario editor that allowed players to create custom maps, though the editor suffered from bugs that weren't fully resolved until the 1.2 patch[^ref-20].
 
-When online servers were scheduled for shutdown following the Activision-Blizzard merger, community members expressed hope that "Tilted Mill, somehow, steps in to the breach" to maintain multiplayer functionality[^ref-45]. The servers were ultimately deactivated on November 1, 2008, leaving the game as single-player only[^ref-4].
+When online servers were scheduled for shutdown after Vivendi Games, Sierra's parent, merged with Activision in July 2008[^ref-56], community members expressed hope that "Tilted Mill, somehow, steps in to the breach" to maintain multiplayer functionality[^ref-45]. The servers were ultimately deactivated on November 1, 2008, leaving the game as single-player only[^ref-4].
 
 ### Related Publications
 
@@ -316,3 +316,5 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-52]: [GameFAQs – Caesar IV Guide and Walkthrough by warfreak](https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/49292) – immigration
 [^ref-53]: [MobyGames – Caesar IV Patches](https://www.mobygames.com/game/24324/caesar-iv/patches/) – patch 1.1 (2006-09-26) and 1.2 (2007-01-18)
 [^ref-54]: [GameFAQs – Caesar IV Cheats](https://gamefaqs.gamespot.com/pc/929476-caesar-iv/cheats) – console cheat codes
+[^ref-55]: [SteamDB – Caesar IV (app 517810) Info](https://steamdb.info/app/517810/info/) – Steam release date 29 August 2016
+[^ref-56]: [Kotaku – Activision Blizzard Merger Finalized (archived 2018)](https://web.archive.org/web/20180720195139/https://kotaku.com/5023808/activision-blizzard-merger-finalized) – merger with "Sierra parent Vivendi" official, July 10, 2008

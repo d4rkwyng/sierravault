@@ -189,7 +189,7 @@ For modern players, the game runs successfully under ScummVM (supported since ve
 
 Bargon Attack remained one of Coktel Vision's lesser-known titles, overshadowed by the more successful Gobliiins series.[^ref-1] The game was released in Spain and France in 1992, with distribution expanding to other European territories including Germany, Italy, and the United Kingdom.[^ref-14] No sales figures have been publicly documented.
 
-Coktel Vision was acquired by Sierra on October 29, 1993,[^ref-26] and later disappeared in the same mess that crushed Sierra's subsidiaries in the 2000s.[^ref-10] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
+Coktel Vision was acquired by Sierra on October 29, 1993.[^ref-26] In October 2005, Vivendi Universal Games sold Coktel and its Adibou licences to Mindscape.[^ref-27] The Adventure Gamer blogger nonetheless writes that the studio "disappeared in the same mess that crushed all the subsidiary companies of Sierra in the 2000's."[^ref-10] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
 
 ### Collections
 
@@ -244,7 +244,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-3]: [Abandonware DOS – Bargon Attack](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bargon+Attack&gid=1738) – user ratings, game description, atmosphere
 [^ref-4]: [Classic Reload / Mr Bill's Adventure Land](https://classicreload.com/bargon-attack.html) – gameplay mechanics, structure, mini-games
 [^ref-5]: [Obligement – Génération 4 Review](http://obligement.free.fr/articles/bargonattack.php) – French review, Didier Latil quotes, contemporary reception
-[^ref-6]: [Hardcore Gaming 101 – Bargon Attack](http://www.hardcoregaming101.net/bargon-attack/) – English translation quality, puzzle criticism, gameplay analysis
+[^ref-6]: [Hardcore Gaming 101 – Bargon Attack](http://www.hardcoregaming101.net/bargon-attack/) ([archived 2025-01-21](https://web.archive.org/web/20250121052629/http://www.hardcoregaming101.net/bargon-attack/)) – English translation quality, puzzle criticism, gameplay analysis
 [^ref-7]: [Atari Legend – Bargon Attack](https://www.atarilegend.com/games/bargon-attack) – development credits, designer info, composer credit
 [^ref-8]: [ScummVM Wiki – Bargon Attack](https://wiki.scummvm.org/index.php?title=Bargon_Attack) – engine info, compatibility, required files
 [^ref-9]: [Adventure Gamers – Bargon Attack](https://web.archive.org/web/20230322171548/https://adventuregamers.com/games/view/23886) – plot premise, game description
@@ -264,3 +264,4 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-24]: [GameFAQs – Guides List](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs) – available walkthroughs, guide metadata
 [^ref-25]: [PCGamingWiki – Bargon Attack](https://www.pcgamingwiki.com/wiki/Bargon_Attack) – localizations, Russian fan translation, system requirements
 [^ref-26]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
+[^ref-27]: [Gamekult – VU Games cède Coktel à Mindscape (archived 2018)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) – Mindscape acquires Coktel and its Adibou licences from VU Games, 21 October 2005
