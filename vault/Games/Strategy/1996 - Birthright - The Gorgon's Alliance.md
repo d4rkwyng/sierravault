@@ -10,14 +10,14 @@ series: Birthright
 engine: Nova engine (Synergistic Software)
 protagonist: Regent of Anuire (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: 'Birthright: The Gorgon''s Alliance is a 1997 Sierra strategy game based on TSR''s
   Birthright setting, combining turn-based realm management, real-time battles and first-person adventures.'
 tags: [1990s, birthright, rpg, sierra, strategy]
 ---
 # Birthright: The Gorgon's Alliance
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Computer Games Strategy Plus described the game as "effectively three products i
 
 > [!info]- Game Info
 > **Developer:** [[Synergistic Software]][^ref-76]
-> **Designer:** Robert C. Clardy, Kirt Lemons, Ed Stark (TSR)[^ref-76]
+> **Designer:** [[Robert Clardy|Robert C. Clardy]], Kirt Lemons, Ed Stark (TSR)[^ref-76]
 > **Publisher:** [[Sierra On-Line]][^ref-7]
 > **Engine:** Nova engine (Synergistic Software)[^ref-76]
 > **Platforms:** DOS, Windows 95[^ref-62]
