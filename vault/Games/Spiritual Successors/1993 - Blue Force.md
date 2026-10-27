@@ -12,7 +12,7 @@ protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
 last_updated: '2026-10-26'
 composer: [Ken Allen]
-description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only post-Sierra project at Tsunami Games.'
+description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only Tsunami project.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
@@ -145,7 +145,7 @@ The game was released on both floppy disk and CD-ROM[^ref-3]. Despite being a CD
 
 Blue Force was Jim Walls' only work for Tsunami Games[^ref-2]. After leaving Tsunami, Walls contracted with Tachyon Studios and Philips Interactive Media for games that were never released[^ref-2].
 
-Walls later joined Westwood Studios in 1996, contributing to Blade Runner (1997), Pirates: The Legend of Black Kat (2002), and Earth & Beyond (2002) before being let go when Electronic Arts acquired and closed the studio in 2003[^ref-2].
+Walls later joined Westwood Studios in 1996, contributing to Blade Runner (1997), Pirates: The Legend of Black Kat (2002), and Earth & Beyond (2002)[^ref-2]; his full-time position there lasted until 2003[^ref-23]. Electronic Arts had bought Westwood in 1998, and in January 2003 announced its merger into EA Los Angeles[^ref-24].
 
 In 2013, Walls attempted to crowdfund **Precinct**, a spiritual successor to Police Quest, but the Kickstarter campaign failed to reach its $500,000 goal and was canceled early[^ref-2]. A subsequent open fundraising campaign also failed, never surpassing $7,000[^ref-2].
 
@@ -203,3 +203,5 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-20]: [MobyGames - Chris Hoyt](https://www.mobygames.com/person/2198/chris-hoyt/) — Sierra programming credits
 [^ref-21]: [MobyGames - Peter Ledger](https://www.mobygames.com/person/14232/peter-ledger/) — Credits incl. Conquests of Camelot art design
 [^ref-22]: [MobyGames - Daryl F. Gates Police Quest: Open Season DOS credits (Archived February 2025)](http://web.archive.org/web/20250228145756/https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/dos/) — "Designer \ Writer: Tammy Dargan"; "Author: Daryl F. Gates"
+[^ref-23]: [Jim Walls Reloaded - Rap Sheet](https://web.archive.org/web/20170202080931/http://www.jimwallsreloaded.com/blog/rap-sheet/) — Walls's own biography (Wayback, 2017): "I was offered a full time design position which lasted until 2003"
+[^ref-24]: [Wikipedia - Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) — bought by Electronic Arts "in 1998"; merger into EA Los Angeles announced January 2003

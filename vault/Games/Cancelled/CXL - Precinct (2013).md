@@ -10,14 +10,14 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ Precinct remains a notable example of a cancelled crowdfunding project from the 
 
 ### Origins
 
-Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. He had brought an unprecedented level of authenticity to the original Police Quest series[^ref-4]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
+Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20]. He had brought an unprecedented level of authenticity to the original Police Quest series[^ref-4]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
 
 Walls first announced plans for a Police Quest successor, funded through Kickstarter, on a podcast on February 2, 2013[^ref-15]. The project was developed under the banner of Jim Walls Reloaded, Inc. of Bass Lake, California, in partnership with development studio Tiny Castle Studios[^ref-4][^ref-16].
 
@@ -209,3 +209,5 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 [^ref-18]: [Polygon – Precinct Kickstarter canceled, 'staged funding campaign' begins](https://www.polygon.com/2013/8/6/4595264/precinct-kickstarter-canceled-staged-funding-campaign-begins/) – Dave Tach, Aug 6, 2013: milestones at $25k/$90k/$250k/$400k, rewards removed
 
 [^ref-19]: [PC Gamer – Precinct's crowdfunding campaign cancelled again, backers' cash is safe](https://www.pcgamer.com/precincts-crowdfunding-campaign-cancelled-again-backers-cash-is-safe/) – Tom Sykes, 26 Aug 2013: staged scheme cancelled "after raising around $12,000 of the $400,000 goal"
+
+[^ref-20]: [Techzwn – Walking the Beat with Jim Walls](https://web.archive.org/web/20130927200823/http://techzwn.com/2013/08/walking-the-beat-with-jim-walls/) – Brendon Templin, 26 Aug 2013 (Wayback): "In 1986, California Highway Patrol officer Jim Walls left the force after 15 years of service"
