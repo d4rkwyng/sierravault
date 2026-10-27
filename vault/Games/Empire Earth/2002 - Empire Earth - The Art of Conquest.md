@@ -255,8 +255,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 - [GOG - Empire Earth Gold Edition](https://www.gog.com/game/empire_earth_gold_edition) - $5.99, includes base game and expansion
 - [Steam - Empire Earth Gold Edition](https://store.steampowered.com/app/254760/) - includes base game and expansion
 
-**Download / Preservation**
-- [Empire Earth Community](https://empireearth.eu/download/) - Community-maintained version with compatibility fixes
+**Preservation**
 - [Internet Archive - Prima Official Strategy Guide](https://archive.org/details/Empire_Earth_Empire_Earth_The_Art_of_Conquest_Prima_Official_eGuide)
 
 **Manuals & Extras**
@@ -297,9 +296,9 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-28]: [GameSpot – Version Information (Wayback Machine)](https://web.archive.org/web/20070929161557/http://www.gamespot.com/pc/strategy/empireearththeartofc/similar.html?mode=versions) – regional release dates, Capcom publishing
 [^ref-29]: [Reddit – Ed Lima Composer Thread](https://www.reddit.com/r/empireearth/comments/6ctzyx/ed_lima_the_composer_of_the_first_empire_earth/) – main theme lyrics
 [^ref-30]: [VU Games Forums (Wayback Machine)](https://web.archive.org/web/20070404214955/http://forums.vugames.com/category.jspa?categoryID=30) – anti-cheating warning, forum activity
-[^ref-31]: [Empire Earth Community – Download](https://empireearth.eu/download/) – digital availability, community versions
+[^ref-31]: [Empire Earth Community](https://empireearth.eu/) – community project maintaining compatibility fixes and multiplayer
 [^ref-32]: [Shacknews – Server Shutdown (Wayback Machine)](https://web.archive.org/web/20090531141202/http://www.shacknews.com/onearticle.x/55173) – server shutdown details, date
-[^ref-33]: [ModDB – EPO Mod](https://www.moddb.com/mods/empire-earth-aoc-by-epomod/downloads/empire-earth-the-art-of-conquest-by-epo) – mod features, download statistics
+[^ref-33]: [ModDB – EPO Mod](https://www.moddb.com/mods/empire-earth-aoc-by-epomod) – mod features
 [^ref-35]: [AbeBooks – Strategy Guide](https://www.abebooks.com/9780761539810/Empire-Earth-Art-Conquest-Primas-0761539816/plp) – guide details, ISBN, page count
 [^ref-36]: [Wildfire Games Forum – Review Discussion](https://wildfiregames.com/forum/topic/349-game-review-empire-earth-art-of-conquest/) – community reception, criticism
 [^ref-37]: [MobyGames – Empire Earth: The Art of Conquest credits](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/credits/) – Mad Doc Software credits: producer, lead designer, lead programmer, executive direction
