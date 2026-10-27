@@ -10,24 +10,25 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball game developed by Dynamix and published
-  by Sierra On-Line in 1995, built around three Outpost-themed tables...
+  by Sierra On-Line in 1995, built around three tables themed on Sierra's space game
+  Outpost.
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-27T12:00:00-06:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball is a pinball game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995[^ref-1]. NewTechReview called it "Sierra's first foray into the PC pinball party"[^ref-2]. MobyGames' description says some would call it "Impossible Pinball"—"not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-1].
+3-D Ultra Pinball is a pinball game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995[^ref-1]. NewTechReview called it "Sierra's first foray into the PC pinball party"[^ref-2]; *PC Gamer* more precisely called it Sierra's first computer pinball game since [[1993 - Take a Break! Pinball|Take a Break! Pinball]][^ref-24]. MobyGames' description says some would call it "Impossible Pinball"—"not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-1].
 
-The game was created "with the help of real pinball pros in order to capture the true arcade table feel, targetability, visual perspective and bumper and flipper friction"[^ref-2]. Its three main tables—Colony, Mine and Command Post—take their theme, graphics and sound from Sierra's 1994 space simulation game Outpost[^ref-1][^ref-17][^ref-21]. Tanks can attack the ball, and comets can fly in and create a crater in the middle of the board[^ref-1].
+The game was created "with the help of real pinball pros in order to capture the true arcade table feel, targetability, visual perspective and bumper and flipper friction"[^ref-2]. Its three main tables—Colony, Mine and Command Post—have a theme, graphics and sound inspired by Sierra's 1994 space simulation game Outpost[^ref-1][^ref-17][^ref-21]. Tanks can attack the ball, and comets can fly in and create a crater in the middle of the board[^ref-1].
 
-Sierra reported that the game sold more than 250,000 copies in its fiscal year ending March 31, 1996[^ref-22], and PC Data ranked it the 18th-best-selling computer game in the United States for 1996[^ref-21]. The series as a whole sold more than half a million copies by 1998[^ref-4][^ref-18]; Sierra's own box copy for The Lost Continent billed it as "the bestselling pinball series of all time"[^ref-5].
+Sierra reported that the game sold more than 250,000 copies in its fiscal year ending March 31, 1996[^ref-22], and PC Data ranked it the 18th-best-selling computer game in the United States for 1996[^ref-21]. The series as a whole sold more than half a million copies by 1998[^ref-4][^ref-18]; Sierra's product description for The Lost Continent billed it as "the bestselling pinball series of all time"[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -35,7 +36,7 @@ Sierra reported that the game sold more than 250,000 copies in its fiscal year e
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Not documented in available sources
 > **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1][^ref-3]
-> **Release Year:** 1995[^ref-7]
+> **Release Year:** 1995[^ref-1]
 > **Series:** 3-D Ultra Pinball
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
@@ -52,7 +53,7 @@ Like the rest of the series, it departs from traditional arcade pinball with ani
 
 The game has three main tables, which can be played individually or as a campaign[^ref-17][^ref-9]:
 
-- **Colony:** The starting table of the campaign; Sierra's description calls it "the mother of all manic-action pinball tables"[^ref-9]
+- **Colony:** The starting table of the campaign[^ref-17]; Sierra's description calls it "the mother of all manic-action pinball tables"[^ref-9]
 - **Mine:** Described by Sierra as "a cavernous SPACE mine"[^ref-9]
 - **Command Post:** Described by Sierra as "a gritty command post"[^ref-9]
 
@@ -67,6 +68,8 @@ Fantasy elements that could not exist on a physical table—attacking tanks, cra
 ### Contemporary Reviews
 
 Arinn Dembo reviewed the game in *Computer Gaming World*'s January 1996 pinball roundup "Blazing Paddles." She praised the three-in-one table formation as "something I've never seen before" and wrote that "this is the first pinball title I've seen that integrates so many strategy elements, and that can be 'won' per se"[^ref-17]. On the downside, she found the shots and combinations "extremely easy to make" and the center of each table "surprisingly sparse," concluding that it "is recommended more for newcomers than old pros, but for those who want a pinball trainer, this game is the best I've seen"[^ref-17].
+
+Todd Vaughn of *PC Gamer* (December 1995) called it "a surprisingly good one," listing "Great graphics; innovative table design" as positives but warning that its "physics model may be too forgiving for pinball purists"[^ref-24].
 
 Reviewing the Macintosh version, *Next Generation* wrote that "3-D Ultra Pinball works, and it works very well," yet gave it two out of five stars; *MacUser* rated it 3.5 out of 5, and *CNET* called it "a great twist on an old classic"[^ref-21].
 
@@ -87,7 +90,7 @@ Players on MyAbandonware still discuss running the game: one reports it "Runs fl
 
 ### Origins
 
-Dynamix based the tables' theme, graphics and sound on Sierra's 1994 game Outpost[^ref-1]. According to NewTechReview, the game was made "with the help of real pinball pros"[^ref-2]; MobyGames' credits list Jerry Carathers as pinball design consultant[^ref-1].
+The tables' theme, graphics and sound were inspired by Sierra's 1994 game Outpost[^ref-1]. According to NewTechReview, the game was made "with the help of real pinball pros"[^ref-2]; MobyGames' credits list Jerry Carathers as pinball design consultant[^ref-1].
 
 ### Production
 
@@ -120,12 +123,12 @@ Compatibility on modern systems varies by version. One MyAbandonware user writes
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1995 | Windows | Initial US release[^ref-7] |
-| 1.0 | 1995 | Macintosh | Mac platform release[^ref-1] |
-| 1.0 | 1995 | Germany | Released in Germany[^ref-6] |
-| 1.0 | 1996 | Italy | Released in Italy[^ref-6] |
+| Date | Platform / Region | Notes |
+|------|-------------------|-------|
+| 1995 | Windows, Windows 3.x | Original release[^ref-1] |
+| 1995 | Macintosh | Mac release[^ref-1] |
+| 1995 | Germany | Released in Germany[^ref-6] |
+| 1996 | Italy | Released in Italy[^ref-6] |
 
 ### Easter Eggs and Trivia
 
@@ -152,7 +155,7 @@ Sierra's annual report for the year ending March 31, 1996 said the game "has sol
 The game was followed by several sequels[^ref-18]:
 
 - **[[1996 - 3-D Ultra Pinball - Creep Night|3-D Ultra Pinball: Creep Night]]** (1996) – Horror themed[^ref-18]
-- **[[1997 - 3-D Ultra Pinball - The Lost Continent|3-D Ultra Pinball: The Lost Continent]]** (1997) – Dinosaur adventure themed; Sierra's box copy advertised "15 interlinked tables"[^ref-5][^ref-18]
+- **[[1997 - 3-D Ultra Pinball - The Lost Continent|3-D Ultra Pinball: The Lost Continent]]** (1997) – Dinosaur adventure themed; Sierra's product description advertised "15 interlinked tables"[^ref-5][^ref-18]
 - **[[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]]** (1998) – NASCAR themed[^ref-18]
 - **[[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power]]** (1999) – A compilation of the first game, Creep Night and The Lost Continent, with The Incredible Machine as a bonus[^ref-18]
 - **[[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrillride]]** (2000) – Hersheypark amusement-park themed; also released on Game Boy Color[^ref-18]
@@ -208,7 +211,7 @@ In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empir
 [^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://www.newtechreview.com/newtechreview/review.asp?ID=1) — Staff review: made "with the help of real pinball pros"; four playfields; no save game
 [^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Game page (Mac, PC; pinball)
 [^ref-4]: Mitch Gitman, "Pinball Wizardry," *Pittsburgh Post-Gazette*, February 20, 1998, p. 97 — Series sales of more than half a million copies (print source, as cited by Wikipedia; see ref-18)
-[^ref-5]: [Internet Archive – 3-D Ultra Pinball: The Lost Continent (1997)](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) — Sierra's preservation entry containing original marketing copy: "bestselling pinball series of all time," "15 interlinked tables," and the Thrustmaster Wizard / Sidewinder / Gravis Gripp controller list
+[^ref-5]: [Internet Archive – 3-D Ultra Pinball: The Lost Continent (1997)](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) — archive.org user upload reproducing a retail product description: "bestselling pinball series of all time," "15 interlinked tables," and the Thrustmaster Wizard / Sidewinder / Gravis Gripp controller list
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download; 4.79/5 (38 votes); "Released in Germany (1995) Italy (1996)"; user compatibility comments; manual
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — ISO preservation copy, Sierra On-Line S676430 (1995)
 [^ref-9]: [GameFAQs - 3-D Ultra Pinball](https://gamefaqs.gamespot.com/pc/943036-3-d-ultra-pinball) — Publisher description: "three out-of-this-world playfields: a cavernous SPACE mine, a gritty command post and The Colony"; warping between tables
@@ -222,5 +225,6 @@ In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empir
 [^ref-19]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — ElbinoBunny, September 2017; about Thrillride, compared with the reviewer's earlier Lost Continent piece
 [^ref-20]: [Fun With Bonus – Throwback Thursday: 3D Ultra Pinball](https://funwithbonus.com/throwback-thursday-3d-ultra-pinball/) — October 2014 retrospective containing the verbatim "once you learn the patterns" gameplay-predictability critique
 [^ref-21]: [Wikipedia – 3-D Ultra Pinball (video game)](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball_(video_game)) — Tables Colony, Command Post, Mine; Next Generation 2/5, MacUser 3.5/5, CNET; PC Data #18 for 1996; cancelled Saturn port
-[^ref-22]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "3D ULTRA PINBALL ... Released in fiscal 1996, this title has sold more than 250,000 copies."
+[^ref-22]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "3D ULTRA PINBALL ... Released in fiscal 1996, this title has sold more than 250,000 copies." ([Wayback Machine copy](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt))
 [^ref-23]: [Computer Gaming World Issue 150 (January 1997)](https://archive.org/details/Computer_Gaming_World_Issue_150) — Sierra advertisement: "last year's best-selling 3D Ultra Pinball"
+[^ref-24]: [PC Gamer Vol. 2 No. 12 (December 1995), Internet Archive](https://archive.org/details/UneditedPCGamer_marktrade) — Todd Vaughn review, p. 237 (file PC_Gamer_019u): "Sierra's first foray into the world of computerized pinball since Take a Break Pinball"; verdict box pros and cons
