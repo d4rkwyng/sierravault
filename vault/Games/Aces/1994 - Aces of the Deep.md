@@ -3,14 +3,14 @@ title: Aces of the Deep
 release_year: 1994
 developer: Dynamix
 designer: [Alan Roberts, Dennis A. Kilgore, Langdon Beeck, Mike Jones]
-publisher: Sierra
+publisher: Sierra On-Line
 genre: Simulation
 platforms: [DOS]
-series: Aces Series
+series: Aces
 engine: null
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 description: Aces of the Deep is a World War II U-boat simulator developed by Dynamix
   and published by Sierra On-Line for MS-DOS in 1994, set in the Battle of the Atlantic
   and the last game in Dynamix's Aces series.
@@ -18,11 +18,11 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Aces of the Deep is a World War II submarine simulator developed by Dynamix for MS-DOS and published by Sierra On-Line in 1994[^ref-1][^ref-14]. It was the last installment of Dynamix's Aces series, after the flight simulators Red Baron, Aces of the Pacific and Aces Over Europe[^ref-14]. The game puts players in command of German U-boats in the period between September 1939 and May 1945, when "Germany launched over 1,000 U-boats into combat against the Allies"[^ref-2]. Computer Gaming World said that "Aces of the Deep sets the standard for submarine simulations, perhaps even simulations in general"[^ref-2], and in 1996 ranked it the 71st best game of all time[^ref-14].
+Aces of the Deep is a World War II submarine simulator developed by Dynamix for MS-DOS and published by Sierra On-Line in 1994[^ref-1][^ref-14]. It was the last installment of Dynamix's Aces series, after the flight simulators Red Baron, Aces of the Pacific and Aces Over Europe[^ref-14]. The game puts players in command of German U-boats in the period between September 1939 and May 1945, when "Germany launched over 1,000 U-boats into combat against the Allies"[^ref-2]. Computer Gaming World said that "Aces of the Deep sets the standard for submarine simulations, perhaps even simulations in general"[^ref-2], and in 1996 ranked it the 71st best game of all time[^ref-14][^ref-29].
 
 Players take the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. As a GOG Dreamlist summary puts it, players "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys," with campaigns that can span the entire war[^ref-4]. The game is single-player only[^ref-8][^ref-14].
 
@@ -32,7 +32,7 @@ Players take the role of a U-boat commander, stalking enemy convoys in what the 
 > **Publisher:** [[Sierra On-Line]][^ref-14]
 > **Platforms:** MS-DOS[^ref-8][^ref-14]
 > **Release Year:** 1994[^ref-14]
-> **Series:** Aces Series[^ref-6]
+> **Series:** Aces[^ref-6][^ref-30]
 > **Protagonist:** U-Boat Commander
 > **Sierra Lineage:** Core Sierra
 
@@ -64,11 +64,11 @@ The game includes merchant ships, troop ships, escorts such as corvettes, frigat
 
 ### Contemporary Reviews
 
-SUBSIM Review wrote that "Aces was received with critical acclaim upon its release"[^ref-11]. Computer Gaming World ranked it 71st in its 1996 list of the best games of all time, calling it "still unrivaled for creating an authentic atmosphere"[^ref-14].
+SUBSIM Review wrote that "Aces was received with critical acclaim upon its release"[^ref-11]. Computer Gaming World ranked it 71st in its 1996 list of the best games of all time, calling it a "U-boat simulator" that "is still unrivaled for creating an authentic atmosphere"[^ref-29]. PC Gamer's William R. Trotter called it "the most ambitious U-boat simulation ever published" and summed up: "Aces of the Deep is a worthy, ambitious, and detailed submarine simulation"[^ref-28].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| PC Gamer | 82% | William Trotter, February 1995[^ref-14] |
+| PC Gamer | 82% | William R. Trotter, February 1995[^ref-28][^ref-14] |
 | MobyGames Critics | 85% | Based on 18 ratings[^ref-13] |
 | MobyGames Critics (Expansion Disk) | 75% | Based on 2 ratings[^ref-10] |
 
@@ -100,9 +100,9 @@ PCGamingWiki lists a minimum of DOS 5.0, an Intel 386DX 33 MHz and 4 MB RAM[^ref
 |---------|------|----------|-------|
 | 1.0 | 1994 | DOS | Initial release. Sierra Chest gives 1994-09-25[^ref-6]; PCGamingWiki gives October 1994[^ref-8] |
 | Expansion Disk | 1995 | DOS | Six historical missions, Mediterranean, Type XXI[^ref-10] |
-| Command: Aces of the Deep | 1995 | Windows 3.1/95 | Windows CD re-release[^ref-14] |
+| Command: Aces of the Deep | 1995 | Windows (see below) | Windows CD re-release[^ref-14]; the manual covers Windows 3.1 and 95, but a Sierra insert said Windows 95 only[^ref-5][^ref-27] |
 
-Command: Aces of the Deep updated the graphics to a higher resolution and integrated the Type XXI and Type XXIII U-boats[^ref-14]. It added voice recognition for commands through IBM VoiceType, limited to Windows 95, and needed "Microsoft Win32s and WinG extensions" under Windows 3.1[^ref-5]. See [[1995 - Command Aces of the Deep]].
+Command: Aces of the Deep updated the graphics to a higher resolution and integrated the Type XXI and Type XXIII U-boats[^ref-14]. It added voice recognition for commands through IBM VoiceType, limited to Windows 95, and needed "Microsoft Win32s and WinG extensions" under Windows 3.1[^ref-5]. The platform record is contradictory. The Command manual gives install steps for both Windows 95 and Windows 3.1[^ref-5], and the box listed Windows 3.1, but a printed correction from Sierra found inside the box said the game "is only designed for and will run on Windows 95"[^ref-27]. See [[1995 - Command Aces of the Deep]].
 
 ## Legacy
 
@@ -110,7 +110,9 @@ SUBSIM Review's 1998 introduction to its Mike Jones interview said: "In the area
 
 Jones gave the Leader Board as an example of the team's research: "So when you see your name up there with Prien or Kretschmer, know that you are tracking with their actual tonnage sunk at that moment in the war." He added that convoys sail "when and where they should be"[^ref-11]. He said there was no collaboration with Silent Hunter, though he was "flattered that Silent Hunter has some elements of the AOD interface in it"[^ref-11].
 
-The series did not continue. Wikipedia describes Aces of the Deep as "the last installment of Dynamix's Aces series"[^ref-14]. Jones said: "I would have liked to see the AOD line continue, but it didn't"[^ref-11].
+The series did not continue. Wikipedia describes Aces of the Deep as "the last installment of Dynamix's Aces series"[^ref-14]. Jones said: "I would have liked to see the AOD line continue, but it didn't"[^ref-11]. Sierra had planned more: a preliminary list of Sierra products expected to be licensed to its joint venture with Pioneer Electronic Corporation for the Japanese market, filed with Sierra's 1996 annual report, includes "Aces of the Deep II" and "Aces over Mountains", both marked Windows only[^ref-30].
+
+That same report says the Aces series (Red Baron, Aces of the Pacific, Aces Over Europe and Aces of the Deep, plus an anthology) "sold more than 1 million copies"[^ref-30]. Computer Gaming World wrote in 1996 that Aces of the Pacific, Aces Over Europe and Aces of the Deep "were all extensions of the lessons learned and technologies developed for Red Baron"[^ref-29].
 
 ## Downloads
 
@@ -161,3 +163,7 @@ The series did not continue. Wikipedia describes Aces of the Deep as "the last i
 [^ref-18]: [Sierra Help Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – DOSBox compatibility installer
 [^ref-25]: [Internet Archive Manual](https://archive.org/details/Command_Aces_Of_The_Deep_-_Manual) – Command manual
 [^ref-26]: [Internet Archive Video](https://archive.org/details/012385) – 1994 video
+[^ref-27]: [MobyGames - Command: Aces of the Deep (Wayback, March 2025)](https://web.archive.org/web/20250317060053/https://www.mobygames.com/game/4576/command-aces-of-the-deep/) – Trivia: box lists Windows 3.1; a printed Sierra correction inside said Windows 95 only
+[^ref-28]: [PC Gamer Online - Aces of the Deep review (Wayback, 1999)](https://web.archive.org/web/19990820035627/http://www.pcgamer.com:80/reviews/1340.html) – William R. Trotter, February 1995: Final Verdict 82%, "most ambitious U-boat simulation ever published"
+[^ref-29]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "150 Best Games of All Time": #71 Aces of the Deep; Aces games as extensions of Red Baron
+[^ref-30]: [Sierra On-Line Form 10-K, fiscal 1996 (Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Aces series sold more than 1 million copies; Pioneer JV list with "Aces of the Deep II*" and "Aces over Mountains*"

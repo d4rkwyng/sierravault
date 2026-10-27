@@ -101,7 +101,7 @@ Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS ori
 
 ### Technical Achievements
 
-Command Aces of the Deep runs on Windows 95/98 only, from CD-ROM, and requires a 486 processor (Pentium recommended) and 16MB of RAM[^ref-18]. The box listed Windows 3.1, but a printed insert from Sierra corrected this, stating the game would only run on Windows 95[^ref-7].
+Command Aces of the Deep runs on Windows 95/98 only, from CD-ROM, and requires a 486 processor (Pentium recommended) and 16MB of RAM[^ref-18]. The platform record is contradictory: the Command manual gives install steps for both Windows 95 and Windows 3.1 (installing Microsoft Win32s and WinG under 3.1, with speech recognition limited to Windows 95)[^ref-33], and the box listed Windows 3.1, but a printed insert from Sierra said the game would only run on Windows 95[^ref-7].
 
 The voice recognition feature was meant to launch a series of "Command" games from Sierra/Dynamix using voice as a control type, but the idea was scrapped due to lackluster sales[^ref-7]. Subsim found the game's sounds prone to cutting out and sometimes lapsing entirely[^ref-18]; the original DOS Aces of the Deep is known for an incompatibility with Sound Blaster Live cards[^ref-29]. The on-line manual covers U-boat history and features historical maps, movies, photos and articles[^ref-6].
 
@@ -147,3 +147,4 @@ Command Aces of the Deep remains a reference point for the submarine simulation 
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – DOS Aces of the Deep incompatibility with Sound Blaster Live
 [^ref-31]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Sierra On-Line bought Dynamix in 1990
 [^ref-32]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Aces of the Deep", its Expansion Disk and "Command: Aces of the Deep" among games with an unknown or unnamed engine
+[^ref-33]: [Command: Aces of the Deep Manual (Internet Archive)](https://archive.org/stream/Command_Aces_Of_The_Deep_-_Manual/Command_Aces_Of_The_Deep_-_Manual_djvu.txt) – Install steps for Windows 95 and Windows 3.1 (Win32s/WinG); speech recognition Windows 95 only
