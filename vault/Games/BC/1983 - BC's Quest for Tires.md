@@ -10,7 +10,7 @@ series: B.C.
 engine: Custom
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: B.C.'s Quest for Tires is a 1983 side-scrolling action game based on
   Johnny Hart's newspaper comic strip *B.C.*, published by Sierra On-Line and developed
   by Sydney Development Corp.
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C.'s Quest for Tires
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -54,7 +54,7 @@ Thor must also contend with club-wielding Neanderthals and dodge stones thrown a
 
 B.C.'s Quest for Tires employs a simple joystick-based control scheme, with players using a joystick in port 2 on most home computer versions.[^ref-11] The game supports one or two players taking turns.[^ref-11] Thor automatically scrolls forward at a constant speed, and players must time their inputs to navigate obstacles successfully.
 
-The primary controls allow Thor to jump over obstacles or duck under them.[^ref-2] However, the ducking mechanic has a quirk—when you duck, the character bounces up and down, so players must avoid ducking too soon.[^ref-2] The PC version notably requires a joystick to play properly, as keyboard controls were never implemented, making the game effectively unplayable without one.[^ref-12]
+The primary controls allow Thor to jump over obstacles or duck under them.[^ref-2] However, the ducking mechanic has a quirk—when you duck, the character bounces up and down, so players must avoid ducking too soon.[^ref-7] The PC version cannot be played without a joystick; the *FRGCB* blog says it "will launch an unplayable game, where Thor just keeps on jumping".[^ref-12] A MyAbandonware user comment adds that the PC booter release "never had support for Keyboard Control".[^ref-19]
 
 ### Structure and Progression
 
@@ -67,9 +67,9 @@ The obstacles Thor encounters include:
 - **Rivers:** Water hazards requiring precise jumping
 - **Lava Pits:** Dangerous gaps to leap across
 - **Cliffs:** Elevated terrain requiring careful timing
-- **Fat Broad:** A recurring character who shouts taunts at Thor[^ref-2]
+- **Fat Broad:** A character from the strip who taunts Thor with "Jump, sucker!"[^ref-12]
 
-Rather than traditional levels of increasing difficulty, the game offers new obstacles to overcome on the path to rescue.[^ref-3] The gameplay requires far more timing than strategy.[^ref-3] The game is notably short, with reviewers noting that "the average person being able to complete it in ten minutes, providing they don't lose a life."[^ref-1]
+Rather than traditional levels of increasing difficulty, the game offers new obstacles to overcome on the path to rescue.[^ref-3] The gameplay requires far more timing than strategy.[^ref-3] The game is notably short; a MobyGames player review calls it "one of the shortest games, with the average person being able to complete it in ten minutes, providing they don't lose a life."[^ref-1]
 
 ### Puzzles and Mechanics
 
@@ -100,6 +100,7 @@ The German *Rombachs C64-Spieleführer* rated the game 8 out of 10 in September 
 - **ColecoVision Game of the Year** (*Video Game Update*)[^ref-3][^ref-25]
 - **Best Use of Graphics and Sound in a Video Game** (*Billboard*)[^ref-3][^ref-25]
 - **1984 Golden Floppy Award for Excellence:** Funniest Game of the Year, Video Games Category (*Computer Games*)[^ref-3]
+- **Software Publishers Association best game award (1989):** reported by the *Ottawa Citizen* in 1997 and listed by Wikipedia[^ref-3][^ref-31]
 
 ### Modern Assessment
 
@@ -112,11 +113,11 @@ The *Data Driven Gamer* blog offered a more critical retrospective, stating the 
 The *C64-Wiki* community notes: "Spartan comical graphics with a bumpy scrolling and only a minimum of sound do not prevent that you can have some fun with this game."[^ref-11]
 
 **Aggregate Scores:**
-- **MobyGames:** 7.3 Moby Score, 73% critics average (12 reviews), 3.6/5 players (67 ratings)[^ref-1]
-- **Atarimania:** 8.4/10 (196 votes)[^ref-16]
+- **MobyGames:** 7.3 Moby Score, 73% critics average (12 reviews), 3.6/5 players (67 ratings, October 2026)[^ref-1]
+- **Atarimania:** 8.4/10 (197 votes, October 2026)[^ref-16]
 - **Lemon64:** 7.35/10 (72 votes, February 2007, as recorded by C64-Wiki)[^ref-11]
 - **C64-Wiki:** 7.57/10 (51 votes)[^ref-11]
-- **World of Spectrum:** 7.56/10 (27 votes)[^ref-12]
+- **World of Spectrum:** 7.56/10 (27 votes, November 2014, as recorded by FRGCB)[^ref-12]
 - **IMDB:** 5.3/10 (17 ratings)[^ref-20]
 - **MyAbandonware:** 4.37/5 (19 votes)[^ref-19]
 
@@ -130,7 +131,7 @@ The game's concept drew inspiration from the side-scrolling action of Irem's *Mo
 
 ### Production
 
-Development was split between multiple programmers working on different platform versions. Rick Banks and MaryLou O'Rourke of Sydney Development programmed the Apple II, ColecoVision, and IBM PC versions.[^ref-12] The ColecoVision was likely the original target platform for development.[^ref-4]
+Development was split between multiple programmers working on different platform versions. Rick Banks and MaryLou O'Rourke of Sydney Development programmed the Apple II, ColecoVision, and IBM PC versions.[^ref-12] An anonymous commenter quoted by *Data Driven Gamer* suggested that ColecoVision was likely the original target platform, since the Atari and Commodore versions are credited to Sierra's Chuck Benton.[^ref-4]
 
 Chuck Benton, who had previously designed and programmed the notorious *Softporn Adventure* for On-Line Systems (which later spawned the *Leisure Suit Larry* series), handled the Atari 8-bit and Commodore 64 conversions.[^ref-17] *The New Yorker* describes the unusual circumstances of his involvement: Sierra hired him to convert its ColecoVision titles to the Commodore 64. "I'd play the game as far as I could," Benton explained, "and then would, essentially, create a knock-off of what I'd seen."[^ref-21]
 
@@ -151,7 +152,7 @@ Wikipedia credits Rick Banks and Michael Bate as the designers and Chuck Benton 
 
 ### Technical Achievements
 
-The game's most praised technical achievement was its faithful recreation of Johnny Hart's comic strip art style. *ANTIC Magazine* specifically noted that the "programmers put so much effort into recreating the look of B.C." and created a "3-D effect by varying scrolling rates of foreground and background."[^ref-5] This parallax scrolling technique was impressive for its time and helped create depth in the side-scrolling action.
+The game's most praised technical achievement was its faithful recreation of Johnny Hart's comic strip art style. *ANTIC Magazine* specifically noted that the "programmers put so much effort into recreating the look of B.C." and that "by varying the scrolling rates of foreground and background, the programmers have created a nice 3-D effect."[^ref-5] This parallax scrolling technique was impressive for its time and helped create depth in the side-scrolling action.
 
 User comments from Lemon64 praised that "BC's graphics is OUTSTANDING for its age, very faithful to the comic strips."[^ref-17] The animation quality stood out particularly, with *ANTIC* declaring "the animation is first-rate."[^ref-5]
 
@@ -166,7 +167,7 @@ Notably, B.C.'s Quest for Tires was the only Sierra On-Line game ever converted 
 
 **Atari 8-bit Version:**[^ref-5]
 - **Memory:** 40K required
-- **Media:** 40K disk or Cartridge
+- **Media:** 40K disk[^ref-5] or cartridge[^ref-28]
 
 **Commodore 64 Version:**[^ref-17]
 - **Media:** Tape (£9.95 GBP), Disk, or Cartridge
@@ -189,7 +190,7 @@ Several platform-specific issues were documented:
 
 The Commodore 64 cartridge version had a notable bug where "switching off and back on again, about one time in three it would load an absurdly easy version of the game with a very basic repeating pattern on each level."[^ref-17]
 
-The PC version requires a joystick to play and "becomes unplayable" without one, as keyboard controls were never implemented.[^ref-12] Users reported that "BC is always jumping" when attempting to configure joystick settings incorrectly.[^ref-19]
+Without a joystick, the PC version "will launch an unplayable game, where Thor just keeps on jumping and you can't do anything about it whatsoever."[^ref-12] A MyAbandonware user comment says the game "never had support for Keyboard Control".[^ref-19] Users reported that "BC is always jumping" when attempting to configure joystick settings incorrectly.[^ref-19]
 
 The PAL Atari version experiences scrolling issues when running in emulation.[^ref-12]
 
@@ -269,12 +270,12 @@ The game also exemplifies the rapid multi-platform development practices of the 
 
 **Download / Preservation**
 - [Internet Archive – ColecoVision Version](https://archive.org/details/BCs_Quest_for_Tires_1983_Sierra_On_Line)[^ref-2]
-- [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_BCs_Quest_For_Tires_1983_Sierra_On_Line_US_a_k_file)[^ref-7]
+- [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_BCs_Quest_For_Tires_1983_Sierra_On_Line_US_a_k_file)[^ref-16]
 - [MyAbandonware – DOS Version](https://www.myabandonware.com/game/bc-s-quest-for-tires-1x)[^ref-19]
 - [World of Spectrum – ZX Spectrum Version](https://worldofspectrum.org/archive/software/games/bcs-quest-for-tires-software-projects-ltd)[^ref-22]
 
 **Manuals & Extras**
-- [ColecoVision Manual](https://cvaddict.com/profile.php?gameid=50)[^ref-7]
+- [ColecoVision Manual (PDF)](https://cvaddict.com/manuals/b-c-s-quest-for-tires.pdf)[^ref-7]
 
 ## See Also
 
@@ -289,7 +290,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-4]: [Data Driven Gamer – B.C.'s Quest for Tires Review](https://datadrivengamer.blogspot.com/2021/06/games-267-268-evolution-bcs-quest-for.html) – Sydney Development background, gameplay criticism, platform development history
 [^ref-5]: [ANTIC Magazine Vol. 2 No. 12 (March 1984)](http://www.atarimagazines.com/v2n12/productreviews.html) – Harvey Bernstein review, technical requirements, animation praise
 [^ref-6]: [ColecoVision Box Art Archive](https://colecoboxart.com/coleco_bcquest.htm) – game description, copyright information, box documentation
-[^ref-7]: [CVAddict – ColecoVision Database](https://cvaddict.com/profile.php?gameid=50) – ROM specifications, gameplay description, manual availability
+[^ref-7]: [CVAddict – ColecoVision Database](https://cvaddict.com/game/bcs-quest-for-tires/) – ROM specifications, gameplay description, manual availability
 [^ref-8]: [Lemon64 – Game Details](https://www.lemon64.com/games/details.php?ID=245) – "JUMP SUCKER" in-game text, trivia, magazine reviews
 [^ref-10]: [ZX Spectrum Games Archive](https://zxspectrumgames.com/games/bcs-quest-for-tires/) – plot description, dinosaur encounter
 [^ref-11]: [C64-Wiki – B.C.'s Quest for Tires](https://www.c64-wiki.com/wiki/B.C.%27s_Quest_for_Tires) – Rombachs C64-Spieleführer review quote (in translation), gameplay description, user ratings incl. 2007 Lemon64 snapshot
@@ -309,3 +310,4 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-28]: [Internet Archive – Compute! Issue 47 (April 1984)](https://archive.org/details/1984-04-compute-magazine) – James V. Trunzo review, pp. 99–100
 [^ref-29]: [Georgia Straight – Video game family tree](https://www.straight.com/article-198534/video-game-family-tree) – Sydney Development formed 1978 by Tarrnie Williams; publisher of Evolution
 [^ref-30]: [Intellivision Revolution – BC's Quest for Tires in Development for Intellivision](https://www.intellivisionrevolution.com/entries/intellivision-homebrew-games/bc-s-quest-for-tires-in-development-for-intellivision) – April 6, 2014 development announcement
+[^ref-31]: [Ottawa Citizen – "Cutting Edge" (March 10, 1997, p. 49), Wayback copy of the Newspapers.com clipping](https://web.archive.org/web/20230816052449/https://www.newspapers.com/article/the-ottawa-citizen/130054408/) – "won the Software Publisher's Association's 1989 best game award"; sold "a million copies"
