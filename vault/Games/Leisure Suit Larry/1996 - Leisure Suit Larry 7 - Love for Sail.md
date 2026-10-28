@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -42,9 +42,9 @@ Set aboard the cruise ship PMS Bouncy, the game follows the perpetually unlucky 
 
 ## Story Summary
 
-The game opens with Larry Laffer in a "rather sticky situation"—literally tied up by Shamara Payne, the woman who represented the ultimate goal of the previous game, *Leisure Suit Larry 6: Shape Up or Slip Out!*[^ref-9] This marks the first time since *Leisure Suit Larry III* that a sequel picked up immediately where its predecessor left off; in typical fashion, it opens with Larry getting dumped by Shamara, the woman who was the goal of *Larry 6*.[^ref-2] Not one to be tied down (or perhaps escaping from being tied down), Larry decides to forget his troubles by embarking on a cruise aboard the PMS Bouncy.[^ref-9]
+The game opens with Larry Laffer in a "rather sticky situation":[^ref-9] Shamara Payne, the woman who was the ultimate goal of *Leisure Suit Larry 6: Shape Up or Slip Out!*, handcuffs him to the bed's headboard, takes his wallet and leaves.[^ref-58][^ref-2] This marks the first time since *Leisure Suit Larry III* that a sequel picked up immediately where its predecessor left off.[^ref-2] "Not one to be tied down", Larry decides to forget his troubles by embarking on a cruise aboard the PMS Bouncy.[^ref-9]
 
-Once aboard the ship, Larry discovers that Captain Thygh, the vessel's commanding officer, is hosting a competition called the "Thygh's Man Trophy" contest. The grand prize is a week spent with the captain in her luxurious cabin—exactly the kind of motivation Larry needs.[^ref-45] The ship is populated with an array of beautiful women whose names serve as elaborate puns: Drew Baringmore, Jamie Lee Coitus, Dewmi Moore, Victorian Principles, Annette Boning, and the country music duo Wydoncha and Nailmi Jugg.[^ref-5]
+Once aboard the ship, Larry discovers that Captain Thygh, the vessel's commanding officer, is hosting a competition called the "Thygh's Man Trophy" contest. The grand prize is a week spent with the captain in her luxurious cabin—exactly the kind of motivation Larry needs.[^ref-45] The ship is populated with an array of beautiful women whose names serve as elaborate puns: Drew Baringmore, Jamie Lee Coitus, Dewmi Moore, Victorian Principles, Annette Boning, and the country music duo Wydoncha and Nailmi Jugg.[^ref-5][^ref-1]
 
 Larry must navigate the various decks of the cruise ship, solving puzzles and winning mini-games to impress the competition judges. His quest involves developing "closer relations" with the various women aboard while constantly getting into awkward situations.[^ref-11] The humor ranges from clever wordplay to deliberately crude innuendo, with character interactions filled with double entendres and sight gags. As one GameCenter reviewer noted, the ship "at its best resembles the craft in the shabby old TV series, The Love Boat. At its worst, it looks like something Salvador Dali might have drawn after a weeklong binge in Vegas."[^ref-12]
 
@@ -56,11 +56,11 @@ The game concludes with a surprising twist—after the credits roll, the ship is
 
 *Love for Sail!* combines point-and-click mechanics with a text parser, and some puzzles can only be solved by typing the correct keyword.[^ref-55][^ref-3] Next Generation felt that "combining one with point-and-click results in a game that's neither fish nor fowl", and Adventure Classic Gaming called the parser "merely a gimmick".[^ref-55][^ref-3] Players interact with the game world through a standard point-and-click system, selecting actions from a menu when clicking on objects or characters. However, the game also allows players to type custom commands, theoretically offering more nuanced interactions.[^ref-3]
 
-The text parser remembers previously used commands, allowing players to reuse actions like "fart" throughout the game.[^ref-14] However, as the *Next Generation* reviewer noted, "combining one with point-and-click results in a game that's neither fish nor fowl, adding an element of pure guesswork to a puzzle set that's already conceptually slippery."[^ref-1][^ref-55] The interface includes a dialogue system using topics and trees for character conversations, which Al Lowe later cited as influential on his future game designs.[^ref-15]
+The text parser remembers previously used commands, allowing players to reuse actions like "fart" throughout the game.[^ref-14] The *Next Generation* reviewer added that the parser brought "an element of pure guesswork to a puzzle set that's already conceptually slippery."[^ref-1][^ref-55] The interface includes a dialogue system using topics and trees for character conversations, which Al Lowe later cited as influential on his future game designs.[^ref-15]
 
 ### Structure and Progression
 
-The game takes place entirely aboard the PMS Bouncy, with Larry free to explore most areas of the ship from early in the game.[^ref-11] The ship functions as an interconnected hub, with different decks and rooms accessible via a fast-travel map system that allows quick teleportation between locations.[^ref-7] Unlike some previous Larry games, players cannot die or become trapped in an unwinnable state, encouraging experimentation without fear of consequences.[^ref-16]
+The game takes place entirely aboard the PMS Bouncy, with Larry free to roam around the ship.[^ref-16] The ship functions as an interconnected hub, with different decks and rooms accessible via a fast-travel map system that allows quick teleportation between locations.[^ref-7] Unlike some previous Larry games, players cannot die or become trapped in an unwinnable state, encouraging experimentation without fear of consequences.[^ref-16]
 
 Key locations aboard the ship include:
 
@@ -90,9 +90,9 @@ Contemporary critical reception was decidedly mixed, with scores ranging from en
 
 *Computer Games Strategy Plus* gave the game four out of five stars in their January 25, 1997 review by Andy Backer, who called it "the best Leisure Suit Larry ever."[^ref-1][^ref-57] *Next Generation* awarded three out of five stars, though their review tempered praise with criticism of the hybrid interface and the series' lack of evolution.[^ref-1][^ref-55]
 
-*GameSpot* awarded a more moderate 6.7 out of 10, with their reviewer noting "Who knew you could stick so many sexual innuendoes on one CD-ROM?" and suggesting that "Unless you're the proud owner of the Three's Company box set, this game will likely get old quick."[^ref-18] *CNET Gamecenter* gave 3 out of 5 stars, with Barry Brenesal observing that the game "is not incredibly vulgar or perverse. It is single-minded, however, in its devotion to sexual gags that were ancient when Plautus the Roman popularized the local equivalent of knock-knock jokes."[^ref-12]
+*GameSpot* awarded a more moderate 6.7 out of 10, with their reviewer noting "Who knew you could stick so many sexual innuendoes on one CD-ROM?" and suggesting that "Unless you're the proud owner of the Three's Company box set, this game will likely get old quick."[^ref-18] *CNET Gamecenter* gave 3 out of 5 stars,[^ref-1] with Barry Brenesal observing that the game "is not incredibly vulgar or perverse. It is single-minded, however, in its devotion to sexual gags that were ancient when Plautus the Roman popularized the local equivalent of knock-knock jokes."[^ref-12]
 
-The most negative review came from *PC Gamer UK*, where Danny Wallace awarded just 23%, dismissing the game as "a pointless mountain of toss."[^ref-1][^ref-54] *MacUser* gave three stars, with Roman Loyola criticizing that "The most disappointing aspect of Love for Sail is that it shows no evolution in game development."[^ref-19]
+The most negative review came from *PC Gamer UK*, where Danny Wallace awarded just 23%, dismissing the game as "a pointless mountain of toss."[^ref-1][^ref-54] *MacUser* gave three stars,[^ref-1] with Roman Loyola criticizing that "The most disappointing aspect of Love for Sail is that it shows no evolution in game development."[^ref-19]
 
 ### Modern Assessment
 
@@ -103,16 +103,16 @@ Modern retrospectives have been considerably more favorable. Richard Cobbett of 
 In 2011, *Adventure Gamers* ranked *Love for Sail!* as the 71st-best adventure game ever released.[^ref-1][^ref-56]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 77% (37 ratings)[^ref-21]
-- **IMDB:** 8.1/10 (323 ratings)[^ref-22]
-- **Metacritic User Score:** 8.4/10[^ref-23]
+- **MobyGames Critics:** 77% (38 ratings, October 2026)[^ref-21]
+- **IMDB:** 8.1/10 (over 320 ratings)[^ref-22]
+- **Metacritic User Score:** 8.3/10 (35 ratings, October 2026)[^ref-23]
 - **MyAbandonware:** 4.12/5 (26 votes, October 2026)[^ref-24]
 
 ## Development
 
 ### Origins
 
-The game was originally announced under the working title *Leisure Suit Larry 7: Yank-her's Away!* before receiving its final name.[^ref-1] Development was led by Al Lowe, who had created the original *Leisure Suit Larry in the Land of the Lounge Lizards* in 1987 as a comedic remake of the text adventure *Softporn Adventure*.[^ref-26]
+The game was originally announced under the working title *Leisure Suit Larry 7: Yank-her's Away!* before receiving its final name.[^ref-1] Development was led by Al Lowe, who had created the original *Leisure Suit Larry in the Land of the Lounge Lizards* as a comedic remake of the text adventure *Softporn Adventure*.[^ref-26]
 
 The development team initially planned to produce the game using live action full motion video, following industry trends of the mid-1990s. However, Al Lowe explained why they abandoned this approach: "what we found out was, we're writing cartoons here... if we did straight video, it becomes not only ludicrous, but obscene... what we came back to was that we liked what we'd done in the past and we want to do that even more."[^ref-1]
 
@@ -182,7 +182,7 @@ Modern digital releases run under ScummVM: the Windows build was updated to Scum
 - Windows 3.x (late 1996)
 - Windows 95 (late 1996)
 - Mac OS Classic (January 18, 1997)
-- Linux via ScummVM (May 14, 2018)
+- Linux via ScummVM (May 14, 2018, per PCGamingWiki; Wikipedia gives May 15)[^ref-1]
 
 ### Cut Content
 
@@ -206,7 +206,7 @@ The Cutting Room Floor documents several unused assets found in the game files:[
 | GOG | February 19, 2013 | Windows/Mac | GOG.com digital release[^ref-20] |
 | Steam | December 22, 2017 | Windows | Steam release by Assemble Entertainment (store listing ended May 3, 2025)[^ref-52] |
 | ScummVM | April 26, 2018 | Windows | ScummVM support added[^ref-8] |
-| ScummVM | May 14, 2018 | Linux | Linux ScummVM release[^ref-8] |
+| ScummVM | May 14, 2018 (Wikipedia: May 15) | Linux | Linux ScummVM release[^ref-8][^ref-1] |
 | 1.01 v3 | November 6, 2024 | Windows | Latest GOG build[^ref-31] |
 
 **Mobile Version:**[^ref-32]
@@ -250,7 +250,7 @@ The game contains an extensive collection of Easter eggs that Al Lowe described 
 
 **Music Easter Egg:** The music playing in the hot tub/spa area is the title theme from *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game.[^ref-47] According to LarryLaffer.net, Lowe said he needed a country song but did not want to pay royalties, so reusing a song from a Sierra game he had designed himself suited him perfectly.[^ref-35]
 
-**Secret Ending:** Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all seven Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-13]
+**Secret Ending:** Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all seven Easter eggs[^ref-27] unlock one additional second of Larry actually having sex after the credits.[^ref-13]
 
 **Psychedelic Mode:** Pressing Ctrl+P twice (or once after winning Strip Liar's Dice) enables a visual distortion effect.[^ref-17]
 
@@ -281,11 +281,9 @@ A 1997 German novelization titled *Die verrückten Abenteuer des Larry Laffer* w
 
 ### Critical Perspective
 
-*Leisure Suit Larry: Love for Sail!* represents both a culmination and an ending—the final expression of Al Lowe's vision for his signature character before Sierra's transformation and the decline of the traditional graphic adventure genre. The game arrived at a transitional moment in gaming history, when CD-ROM multimedia capabilities had expanded dramatically but before the industry's wholesale shift toward 3D graphics and action-oriented gameplay.
+*A Force For Good*'s retrospective framed the game's appeal around its humor: "You can't just go, 'but is it a good adventure game?' Because if you don't want to play as Larry and be bombarded with a certain type of humour, no clever puzzles are going to change your mind."[^ref-14] GameCenter's Barry Brenesal was less forgiving of the same humor, calling it "single-minded" in its "devotion to sexual gags that were ancient when Plautus the Roman popularized the local equivalent of knock-knock jokes."[^ref-12]
 
-The critical divide in reception reflects broader tensions in how to evaluate comedy games. As one retrospective reviewer noted: "You can't just go, 'but is it a good adventure game?' Because if you don't want to play as Larry and be bombarded with a certain type of humour, no clever puzzles are going to change your mind."[^ref-14] The game's deliberately lowbrow humor, filled with what one reviewer called "sexual gags that were ancient when Plautus the Roman popularized the local equivalent of knock-knock jokes,"[^ref-12] was either a feature or a bug depending on the player's tolerance.
-
-Al Lowe himself reflected on the end of the adventure game era when cleaning out his Sierra office in 1999: "The adventure game business has died. As I was cleaning out my office I saw Jane Jensen and told her that her Gabriel Knight game might be the last big adventure game, so go out with a bang."[^ref-6] In many ways, *Love for Sail!* did exactly that for the Larry series—going out with elaborate production values, innovative gimmicks like the scratch-and-sniff card, and the most artistically accomplished visuals the series had seen.
+Al Lowe himself reflected on the end of the adventure game era when cleaning out his Sierra office in 1999: "The adventure game business has died. As I was cleaning out my office I saw Jane Jensen and told her that her Gabriel Knight game might be the last big adventure game, so go out with a bang."[^ref-6]
 
 ## Downloads
 
@@ -321,7 +319,7 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards
 [^ref-2]: [Encyclopedia Gamia Archive Wiki](https://gamia-archive.fandom.com/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – ESRB rating, numbering explanation, features
 [^ref-3]: [Adventure Classic Gaming – Review](http://adventureclassicgaming.com/index.php/site/reviews/98) – review score, technical specs, CyberSniff details, artistic assessment
-[^ref-4]: [DOSBox Wiki – Leisure Suit Larry: Love for Sail!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry:_Love_for_Sail!) – plot summary, ScummVM compatibility, engine information
+[^ref-4]: [DOSBox Wiki – Leisure Suit Larry: Love for Sail!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry:_Love_for_Sail!) – plot summary, freeware demo
 [^ref-5]: [PC Games Magazine Review (Archived)](https://web.archive.org/web/19970525122526/http://www.pcgames.com/reviews/adventure/larry.html) – review score, system requirements, CyberStar feature, character names
 [^ref-6]: [GameCenter.com – Al Lowe Interview (Archived)](https://web.archive.org/web/20000817175057/http://www.gamecenter.com/News/Item/0,3,0-2559,00.html) – sales figures, series cancellation, Al Lowe departure
 [^ref-7]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – designers, voice cast, features
@@ -369,3 +367,4 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-55]: [Next Generation #25, January 1997 (Internet Archive)](https://archive.org/details/NextGeneration25Jan1997) – review: text parser "neither fish nor fowl"
 [^ref-56]: [Adventure Gamers – Top 100 All-Time Adventure Games, #71 (Wayback, 2014)](https://web.archive.org/web/20141230025416/http://www.adventuregamers.com/articles/view/18643/page7) – #71 ranking
 [^ref-57]: [Computer Games Strategy Plus – Review by Andy Backer (Wayback, 1997)](https://web.archive.org/web/19970614223023/http://www.cdmag.com/adventure_vault/leisure_suit_larry_7_review/article.html) – 4-star review, "the best Leisure Suit Larry ever"
+[^ref-58]: [GameFAQs – Walkthrough by Catz](https://gamefaqs.gamespot.com/pc/29100-leisure-suit-larry-love-for-sail/faqs/1826) – opening scene: Shamara handcuffs Larry to the headboard and takes his wallet
