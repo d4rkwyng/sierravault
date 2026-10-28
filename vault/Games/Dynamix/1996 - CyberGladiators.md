@@ -10,18 +10,18 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
   1996 for Windows 95, developed by Dynamix, Inc. under its short-lived k.a.a. action label and published by Sierra On-Line...
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-CyberGladiators is a one-on-one 3D fighting game for Windows 95, developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line]][^ref-1]. Online Gaming Review reported its release in its news for November 18, 1996[^ref-30]. It was one of two games in Dynamix's short-lived k.a.a. label of action games, alongside Hunter Hunted[^ref-3][^ref-17]. Set in a dark science fiction universe, the game features eight metallic robotic fighters engaged in brutal combat, with players able to rip off limbs, throw spears, and employ any means necessary to achieve victory[^ref-2].
+CyberGladiators is a one-on-one 3D fighting game for Windows 95, developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line]][^ref-1]. Online Gaming Review reported its release in its news for November 18, 1996[^ref-30]. It was one of two games in Dynamix's short-lived k.a.a. label of action games, alongside Hunter Hunted[^ref-3][^ref-17]. The game features eight metallic robotic fighters[^ref-27] in one-on-one combat where players can rip off limbs, throw spears, and do anything in their power to win[^ref-2].
 
 The premise centers on a freak cosmic storm that turned fallen heroes and imprisoned villains alike into cyborg warriors known as CyberGladiators[^ref-7]. Players can choose to fight for either the Quaaflax Alliance or the terrorist organization Gy Djin[^ref-1]. Its 3D graphics, running through Microsoft DirectX, drew the most praise; GameSpot called it "one of the best fighter games the PC has ever enjoyed, mostly due to the outstanding 3-D graphics," but added that "as for the fighting, it's standard fare"[^ref-27]. Critics were divided overall, with scores collected on MobyGames ranging from 33% to 92%[^ref-31].
 
@@ -38,7 +38,7 @@ CyberGladiators evolved from a cancelled Sierra project called CRY.SYS[^ref-3]. 
 > **Series:** K.A.A. series[^ref-7]
 > **Protagonist:** Player-selected fighter
 > **Sierra Lineage:** Core Sierra
-> **Designer:** Randy Thompson
+> **Designer:** Randy Thompson[^ref-29]
 
 ## Story Summary
 
@@ -98,20 +98,24 @@ The game supports single-player matches against the computer and two-player matc
 
 ### Contemporary Reviews
 
-Critics were split. The 13 critic scores collected by MobyGames average 62% and range from 92% (PC Multimedia & Entertainment, November 1996) down to 33% (Génération 4, December 1996)[^ref-31]. Hacker gave it 89% and the Danish PC Player 81%, while German magazines were cooler: Power Play 67%, PC Joker 66%, PC Games 54%, PC Action 50%, and PC Player 2 out of 5[^ref-31]. Computer Games Strategy Plus gave it 2 out of 5 and CNET 3 out of 5[^ref-31].
+Critics were split. The 14 critic scores collected by MobyGames average 62% and range from 92% (PC Multimedia & Entertainment, November 1996) down to 33% (Génération 4, December 1996)[^ref-31]. Hacker gave it 89% and the Danish PC Player 81%, while German magazines were cooler: Power Play 67%, PC Joker 66%, PC Games 54%, PC Action 50%, and PC Player 2 out of 5[^ref-31]. Computer Games Strategy Plus gave it 2 out of 5[^ref-31].
 
-PC Multimedia & Entertainment told owners of Rendition Vérité or 3Dfx Voodoo accelerators that it was "another MUST have game for your Christmas wish list"[^ref-31]. CNET concluded that it "has enough unique features and killer graphics to make it appealing to fans of the genre"[^ref-31].
+Gamecenter, CNET's games site, rated it 7 out of 10 in Shane Mooney's review of January 14, 1997[^ref-32]. MobyGames lists that same gamecenter.com review twice, once as Gamecenter 7/10 and once as CNET 3/5, so both entries count toward its 14 scores[^ref-31]. In Britain, Teletext's Digitiser gave it 68% overall on January 8, 1997, with 80% for visuals and 69% for gameplay[^ref-33].
+
+PC Multimedia & Entertainment told owners of Rendition Vérité or 3Dfx Voodoo accelerators that it was "another MUST have game for your Christmas wish list"[^ref-31]. Gamecenter concluded that it "has enough unique features and killer graphics to make it appealing to fans of the genre"[^ref-32].
+
+GameSpot's staff review scored it 8.3. It praised the graphics and sound: "CyberGladiators' graphics and sound alone make it worth checking out." It then added: "As for the fighting, it's standard fare"[^ref-27]. PC Zone gave the game 6.4 out of 10[^ref-4][^ref-31].
 
 ### Modern Assessment
-
-GameSpot's staff review, published May 1, 2000, scored it 8.3. It praised the graphics and sound: "CyberGladiators' graphics and sound alone make it worth checking out." It then added: "As for the fighting, it's standard fare"[^ref-27]. PC Zone gave the game 6.4 out of 10 in a review dated August 2001[^ref-4][^ref-31].
 
 User comments are sparse. On Classic Gaming Network, a 2014 comment says it "Feels like Rise of the Robots, but in 3D!"[^ref-5]. On MyAbandonware, one user called it a "VERY COOL GAME!" and the site's rating stands at 4.4 out of 5 from 5 votes[^ref-15].
 
 **Aggregate Scores:**
-- **MobyGames Critics Average:** 62% (13 ratings)[^ref-31]
-- **GameSpot:** 8.3/10 (2000)[^ref-27]
-- **PC Zone:** 6.4/10 (2001)[^ref-4]
+- **MobyGames Critics Average:** 62% (14 ratings)[^ref-31]
+- **GameSpot:** 8.3/10[^ref-27]
+- **PC Zone:** 6.4/10[^ref-4]
+- **Gamecenter:** 7/10[^ref-32]
+- **Digitiser:** 68%[^ref-33]
 - **Classic Gaming Network:** 76.3% (8 ratings)[^ref-5]
 - **MyAbandonware:** 4.4/5 (5 votes)[^ref-15]
 
@@ -158,19 +162,20 @@ CyberGladiators supports Direct3D 2 and 3dfx Glide 2.1.1 for 3D acceleration, an
 
 ### Technical Issues
 
-CyberGladiators suffers from significant compatibility problems on modern systems stemming from a fundamental timing bug in its code. The game uses QueryPerformanceCounter() for timing calculations but fails to check QueryPerformanceFrequency(), resulting in incorrect conversion of performance counter cycles to milliseconds[^ref-20]. This causes the game to run at wildly inappropriate speeds on modern hardware with high-frequency performance counters.
+CyberGladiators has a timing bug that affects play on later systems. The game uses QueryPerformanceCounter() for timing calculations but fails to check QueryPerformanceFrequency(), resulting in incorrect conversion of performance counter cycles to milliseconds[^ref-20]. Bitpatch titles its patch a "Speed Fix"[^ref-20], and Sierra Chest notes that the demo may run at "lightning fast game speed"[^ref-28].
 
-Standard compatibility fixes have proven ineffective. ACT's EmulateSlowCpu Shim does not resolve the issue, and the shim does not allow users to adjust reported speeds sufficiently[^ref-20]. The recommended solution involves hex-editing the executable to substitute GetTickCount() for the faulty timing function, as GetTickCount() returns milliseconds since Windows startup rather than requiring conversion[^ref-20].
+According to Bitpatch, ACT's EmulateSlowCpu shim "doesn't seem to work here," nor does it let the user adjust reported speeds[^ref-20]. Bitpatch calls substituting GetTickCount() for the faulty function "the easiest fix"; GetTickCount() returns milliseconds since Windows was started[^ref-20].
 
 **Hex Edit Fix for cyber.exe v1.0:**[^ref-20]
-- File offset locations require modification to patch the timing function
+- At file offset 00003116 write 0E 30 04 00
+- At file offset 00003125 write FF 2F 04 00
 
 **Demo Version Speed Fix:**[^ref-28]
 - For lightning-fast demo gameplay, hex edits at file offsets 0000305F (69 30 04 00) and 0000306E (5A 30 04 00) can resolve the issue
 
 Additional compatibility notes indicate the game likely requires a ddraw or glide wrapper for proper operation on modern computers[^ref-28]. The Sierra installer may also fail if the system test is performed during installation—users must answer "No" to bypass this check[^ref-10].
 
-Users on MyAbandonware report that the best method for playing the game on modern systems is running Windows 95 inside DOSBox or a similar virtualization environment[^ref-15]. Other reported issues include CD insertion prompts and image file corruption on some archived versions[^ref-15].
+Users on MyAbandonware report that the best method for playing the game on modern systems is running Windows 95 inside DOSBox or a similar virtualization environment[^ref-15]. One user comment there reports a persistent "insert cd" message, and another asks whether the image file is corrupted[^ref-15].
 
 ### Version History
 
@@ -182,7 +187,7 @@ Users on MyAbandonware report that the best method for playing the game on moder
 The game was released in multiple regional editions, with confirmed releases in the United States, Germany, and France[^ref-18].
 
 **Demo Distribution:**[^ref-28]
-The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra and third-party titles:[^ref-28]
+The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra titles:[^ref-28]
 - 2 Good 2 Be True
 - 3-D Ultra Pinball 2: Creep Night
 - Birthright: The Gorgon's Alliance
@@ -265,8 +270,10 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 [^ref-17]: [OGDB – K.A.A. Publisher Entry](https://ogdb.eu/index.php?section=company&companyid=24902) – K.A.A. as Dynamix label
 [^ref-18]: [MobyGames – CyberGladiators Release Info](https://www.mobygames.com/game/windows/cybergladiators/release-info) – Music credits, voice recording studio, regional releases
 [^ref-20]: [Bitpatch.com – CyberGladiators Fix](http://bitpatch.com/cybergladiators.html) – Timing bug analysis, hex edit solution, technical explanation
-[^ref-27]: [GameSpot – CyberGladiators Review](https://www.gamespot.com/reviews/cybergladiators-review/1900-2538489/) – GameSpot Staff, May 1, 2000; score 8.3; graphics praise, "As for the fighting, it's standard fare"
+[^ref-27]: [GameSpot – CyberGladiators Review](https://www.gamespot.com/reviews/cybergladiators-review/1900-2538489/) – GameSpot Staff (page dated May 1, 2000; GameSpot lists first release Nov 30, 1996); score 8.3; "eight metallic robotic fighters"; graphics praise, "As for the fighting, it's standard fare"
 [^ref-28]: [Sierra Chest – CyberGladiators Demos](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=demos) – Demo size, demo speed hex fix, wrapper note, bundled releases
 [^ref-29]: [InterAction Magazine, Fall 1996 (Vol. 9, No. 3)](https://wiki.sierrahelp.com/images/7/7c/InterActionMagazine-vol09num3-Fall1996.pdf) – Lead programmer quote on the meaning of "k.a.a." (p. ~57)
 [^ref-30]: [Online Gaming Review – News, November 1996 (Wayback Machine)](https://web.archive.org/web/19970227065708/http://www.ogr.com/news/news1196.html) – November 18, 1996: "Sierra On-Line has also released their entry into the three-dimensional fighting genre with CyberGladiators"
-[^ref-31]: [MobyGames – CyberGladiators Critic Reviews](https://www.mobygames.com/game/2858/cybergladiators/reviews/) – 13 critic scores (33%–92%), average 62%; review excerpts
+[^ref-31]: [MobyGames – CyberGladiators Critic Reviews](https://www.mobygames.com/game/2858/cybergladiators/reviews/) – 14 critic scores (33%–92%), average 62%; review excerpts (the Gamecenter and CNET entries are the same gamecenter.com review)
+[^ref-32]: [CNET Gamecenter – CyberGladiators Review (Wayback Machine)](https://web.archive.org/web/20001203193600/http://www.gamecenter.com/Reviews/Item/Textonly/0,78,0-441,00.html) – Shane Mooney, January 14, 1997; "Rating: 7"; "has enough unique features and killer graphics to make it appealing to fans of the genre"
+[^ref-33]: [Super Page 58 – Digitiser review archive: Cyber Gladiators (PC), 8/1/97](https://www.superpage58.com/digitiser-video-game-reviews-archive-cyber-gladiators-pc-1997.htm) – Teletext page 172 screen captures, January 8, 1997; Visuals 80%, Gameplay 69%, Overall 68%
