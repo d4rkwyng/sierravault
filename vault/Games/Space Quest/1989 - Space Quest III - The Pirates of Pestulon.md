@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI0
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Space Quest III: The Pirates of Pestulon is a 1989 graphic adventure
   game developed and published by Sierra On-Line, the first Space Quest game built
   on the SCI engine.'
@@ -18,14 +18,12 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5].
 
-Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the third installment in the Space Quest series and the first Space Quest game to use Sierra's SCI engine[^ref-1].
-
-The game features music composed by Supertramp drummer Bob Siebenberg and was one of the first games to support the Sound Blaster sound card[^ref-2][^ref-4].
+Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the third installment in the Space Quest series and the first Space Quest game to use Sierra's SCI engine[^ref-2][^ref-3].
 
 The game continues the misadventures of Roger Wilco as he becomes involved in rescuing a pair of computer programmers—the game's own creators—from a sinister video game company[^ref-2].
 
@@ -53,7 +51,7 @@ After beating off a squadron of ScumSoft ships, the trio find the warp drive bro
 
 ## Gameplay
 
-Space Quest III was developed using an early version of Sierra's SCI engine, representing a significant technical upgrade from the AGI engine used in the first two games[^ref-2][^ref-5]. SpaceQuest.net's writer thought the 16-colour graphics "come close to 256 color VGA in some parts"[^ref-4].
+Space Quest III was developed using an early version of Sierra's SCI engine[^ref-1], replacing the AGI engine used for the first two games[^ref-28]. SpaceQuest.net's writer thought the 16-colour graphics "come close to 256 color VGA in some parts"[^ref-4].
 
 ### Interface and Controls
 - PC versions support mouse movement and a heavily improved text parser[^ref-2][^ref-4]
@@ -63,7 +61,6 @@ Space Quest III was developed using an early version of Sierra's SCI engine, rep
 
 ### Structure and Progression
 - The game takes place across multiple locations including the garbage freighter, the desert planet Phleebhut, the orbital Monolith Burger station, the volcanic planet Ortega, and ScumSoft headquarters on Pestulon[^ref-1][^ref-38]
-- Over 30 minutes of music composed by Bob Siebenberg accompanies the gameplay[^ref-4]
 - The highest possible score is 738 points[^ref-44]
 - The game includes various science fiction allusions, including wrecks of a TIE fighter, an ACME Rocket, and the Jupiter 2 spacecraft visible in the garbage freighter[^ref-1]
 - Pestulon, the moss-covered moon where ScumSoft is headquartered, is probably a pun on Star Wars' jungle moon Yavin IV, which sat behind an uninhabitable gas giant[^ref-20]
@@ -87,37 +84,27 @@ Compute! praised the game's graphics and sound card audio, calling it "the best-
 
 Computer Gaming World's Chris Lombardi gave the game a positive review, noting the "marked improvement over its predecessors in most aspects" with "EGA graphics on the IBM are some of the best from Sierra to date"[^ref-30]. In 1989, CGW gave it a Special Award for Achievement in Sound—the first time the magazine gave an award specifically for sound in a computer game[^ref-31]. Game Player's PC Strategy Guide awarded Space Quest III their 1989 "Best PC Adventure Role-Playing Game" and "Best PC EGA Graphics" awards, with the latter presented to Mark Crowe[^ref-1].
 
-Reviewing the Amiga version, John Scott of Games International called the program "BRILLIANT! The graphics are super" and thought the musical soundtrack was "the best I have yet encountered in any computer game"[^ref-37]. He noted the streak of humor running through the game, saying "Sometimes it's warped, sometimes it's cruel, but it's always funny," awarding scores of 9/10 for both Game Play and Graphics[^ref-37].
+Reviewing the Amiga version, John Scott of Games International called the program "BRILLIANT! The graphics are super" and thought the musical soundtrack was "the best I have yet encountered in any computer game"[^ref-37]. He noted the streak of humor running through the game, saying "Sometimes it's warped, sometimes it's cruel, but it's always funny," awarding it 9 for both Game Play and Graphics[^ref-37].
 
 ### Modern Assessment
-The game holds a combined MobyScore of 7.9 on MobyGames, where critics average 81% (26 ratings) and players 4.0/5 (133 ratings)[^ref-5]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating from 578 users[^ref-6]. HowLongToBeat reports about 3 hours for the main story[^ref-8].
-
-- **MobyGames:** 7.9 MobyScore; critics 81% (26), players 4.0/5 (133)[^ref-5]
-- **GOG:** 4.3/5 (578 ratings, collection)[^ref-6]
-- **Steam:** Very Positive, 85% of 335 reviews (collection)[^ref-9]
+- **MobyGames:** 7.9 combined MobyScore; critics 81% (26), players 4.0/5 (133)[^ref-5]
+- **GOG:** 4.3/5 (577 ratings, collection)[^ref-6]
+- **Steam:** Very Positive, 85% of 337 reviews (collection)[^ref-9]
 - **GameFAQs:** rated "Great" (71 ratings)[^ref-27]
 - **HowLongToBeat:** about 3 hours main story[^ref-8]
 
 ## Development
 
 ### Origins
-Space Quest III was the first game in the series developed using Sierra's SCI engine[^ref-2][^ref-5]. Development took a little over a year—longer than the 9-11 months for the previous games—due to the team learning the new SCI system[^ref-28]. The SCI engine offered double the resolution of AGI, allowing greater detail and depth perception effects, though this meant graphics took significantly longer to create[^ref-28].
+Development took a little over a year—longer than the 9-11 months for the previous games—due to the team learning the new SCI system[^ref-28]. The SCI engine offered double the resolution of AGI, allowing greater detail and depth perception effects, though this meant graphics took significantly longer to create[^ref-28].
 
-The game features music composed by Supertramp drummer Bob Siebenberg, contributing over 30 minutes of soundtrack[^ref-2][^ref-4]. Siebenberg composed the music based on videotaped game scenes, similar to film scoring[^ref-28]. Mark Seibert created the sound effects using a Roland MT-32 synthesizer (equivalent to 8 synthesizers combined), though loading custom sounds added 45 seconds to game startup[^ref-28]. It was one of the first games to support the Sound Blaster sound card[^ref-4], though audio driver issues left digitized effects unavailable to some IBM PC users with Sound Blaster, requiring patches like SBSIERRA to fix[^ref-21].
+The game features over 30 minutes of music composed by Supertramp drummer Bob Siebenberg[^ref-2][^ref-4][^ref-28]. Siebenberg composed the music based on videotaped game scenes, similar to film scoring[^ref-28]. Mark Seibert created the sound effects using a Roland MT-32 synthesizer (equivalent to 8 synthesizers combined), though loading custom sounds added 45 seconds to game startup[^ref-28]. It was one of the first games to support the Sound Blaster sound card[^ref-1][^ref-4], though the inclusion of an incorrect audio driver left the digitized effects unavailable to IBM PC users with the Sound Blaster card[^ref-1]. Separately, the game can halt at startup with "Unable to initialize your audio hardware", a timer problem that Sierra Help fixes by running it in DOSBox or patching the old audio driver with GOSiERRA or SBSIERRA[^ref-21].
 
 Sound effects include digitized audio sampling, such as the voice of Roger saying "Where am I?" during the introduction[^ref-1]. The digitized effects can be heard in the Tandy, Amiga, and Macintosh versions[^ref-1].
-
-The game features a scene at ScumSoft where parody versions of Sierra's president Ken Williams and Rick Cavin, then Sierra's Head of Production, are depicted as overseers cracking whips over software developers in cubicles[^ref-24].
 
 The original game came with: a box, three 3.5" game disks (four for Amiga) or six 5.25" disks, manual, Andromedan snout and glasses complete with Death Ray Shield, SCI reference card, registration card, soundcard promotional brochure, letter from Ken Williams explaining the new soundcards, "please note" leaflet with technical information, Adlib coupon offering $20 rebate, optional hint book for $7.95, and Sierra games catalogue[^ref-4]. The PC/MS-DOS version was originally sold for $59.95[^ref-30][^ref-36].
 
 ### Technical Achievements
-- First Space Quest game to use Sierra's SCI engine with improved 16-color graphics[^ref-2][^ref-4]
-- One of the first games with Sound Blaster support[^ref-2][^ref-4]
-- Over 30 minutes of music composed by Supertramp drummer Bob Siebenberg[^ref-2][^ref-4]
-- Mouse support and heavily improved text parser[^ref-2][^ref-4]
-- Digitized audio sampling including voice clips[^ref-1]
-- Platform releases: March 24, 1989 MS-DOS, April 1989 Atari ST, October 1989 Amiga, 1991 Macintosh[^ref-2][^ref-5]
 - Rated "Excellent" by ScummVM, first listed in its 1.2.0 compatibility chart; 16-colour graphics at 320x200[^ref-43][^ref-12]
 
 ### Debug Modes and Cut Content
@@ -131,7 +118,7 @@ The original game came with: a box, three 3.5" game disks (four for Amiga) or si
 - **MT-32 easter egg:** The Roland MT-32 sound module displays "INSERT BUCKAZOID" after quitting the game[^ref-25]
 - **Hidden signature:** Mark Crowe's signature appears hidden somewhere in every copy of the game[^ref-25]
 - **Postcards:** The postcard rack at Fester Blatz's World o' Wonders holds several spoof postcards, including Arrakis (*Dune*) and Acheron (*Alien*)[^ref-39]
-- **"Hey Trashmouth!":** Swearing at the parser can earn the reply "Hey, trashmouth! Don't be saying that shit!"[^ref-41]
+- **"Hey Trashmouth!":** One of the parser's stock replies is "Hey, trashmouth! Don't be saying that shit!"[^ref-41]
 - **Boss button prank:** The "Boss" menu option cuts to black and shows pop-ups revealing the player's total play time, warning that their boss wouldn't be happy[^ref-26]
 - **Fourth wall break:** After their rescue, one of the Two Guys can ask, "So, how do you like the game so far? Was it worth $59.95?"[^ref-41]
 - **Vomit gag:** Eating the Big Belcher at Monolith Burger causes Roger to step behind the ship and vomit before takeoff[^ref-26]
@@ -184,7 +171,7 @@ This game has been included in the following collections:
 - [HowLongToBeat – Space Quest III](https://howlongtobeat.com/game/8865) – completion times[^ref-8]
 - [StrategyWiki – Space Quest III](https://strategywiki.org/wiki/Space_Quest_III) – game guide[^ref-12]
 - [SpaceQuest.net – Space Quest 3](https://spacequest.net/sq3/) – game information, screenshots, soundtrack[^ref-4]
-- [SpaceQuest.net – SQ3 Point List](https://spacequest.net/sq3/pointlist/) – complete scoring breakdown[^ref-4]
+- [SpaceQuest.net – SQ3 Point List](https://spacequest.net/sq3/pointlist/) – complete scoring breakdown[^ref-44]
 - [SpaceQuest.net – SQ3 Cameos](https://spacequest.net/sq3/cameos/) – Ken Williams, Rick Cavin, Enterprise[^ref-24]
 - [SpaceQuest.net – SQ3 Fun Facts](https://spacequest.net/sq3/funfacts/) – easter eggs, bugs, trivia[^ref-25]
 - [Sierra Help – Space Quest III](https://sierrahelp.com/Games/SpaceQuest/SQ3Help.html) – patches, DOSBox tips, technical help[^ref-21]
@@ -225,7 +212,7 @@ This game has been included in the following collections:
 [^ref-25]: [SpaceQuest.net – SQ3 Fun Facts](https://spacequest.net/sq3/funfacts/) – Astro Chicken origins, MT-32 easter egg, hidden signature, bugs
 [^ref-26]: [TVTropes – Space Quest III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIIThePiratesOfPestulon) – tropes, fourth wall breaks, continuity errors, gameplay mechanics
 [^ref-27]: [GameFAQs – Space Quest III](https://gamefaqs.gamespot.com/pc/565076-space-quest-iii-the-pirates-of-pestulon) – user ratings, guides
-[^ref-28]: [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – 13-month development, SCI learning curve, Bob Siebenberg film scoring approach, Mark Seibert sound effects
+[^ref-28]: [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – a little over a year of development, SCI learning curve, Bob Siebenberg film scoring approach, Mark Seibert sound effects
 [^ref-29]: [StrategyWiki – Space Quest III Appendices](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Appendices) – postcard easter egg, minigames
 [^ref-30]: [Computer Gaming World – August 1989 (Issue 62)](https://archive.org/details/Computer_Gaming_World_Issue_62) – Chris Lombardi review, pp. 36-37, PRICE: $59.95: "marked improvement over predecessors", "EGA graphics...some of the best from Sierra to date", parser improvements
 [^ref-31]: [Computer Gaming World – October 1989 (Issue 64)](https://archive.org/details/Computer_Gaming_World_Issue_64) – 1989 Awards issue: "Special Award for Achievement in Sound" (first time CGW gave this award for sound), Bob Siebenberg score "perfectly captures the silly, tongue-in-cheek nature"
@@ -234,7 +221,7 @@ This game has been included in the following collections:
 [^ref-34]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Best Ways To Die in A PC Game" list: #2 Space Quest III, "body parts moving down a conveyor belt to be sold at the local butcher shop"
 [^ref-35]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
 [^ref-36]: [Dragon Magazine – September 1989 (Issue 149)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23149%5Bocr%5D_djvu.txt) – Lesser family review, PC/MS-DOS version $59.95: "animation and graphics for this game are incredible", "This game is a lot of fun, and we recommend it to adventure game enthusiasts"
-[^ref-37]: [Games International #14 (April 1990)](https://archive.org/details/GamesInternational) – John Scott review of the Amiga version, p. 46 (file GI_14_May_1990): "This program is BRILLIANT! The graphics are super", "musical soundtrack that is the best I have yet encountered in any computer game", "Sometimes it's warped, sometimes it's cruel, but it's always funny", GAME PLAY: 9, GRAPHICS: 9
+[^ref-37]: [Games International #14 (April 1990)](https://archive.org/details/GamesInternational) – John Scott review of the Amiga version, p. 46 (issue dated April 1990, though the archive file is named GI_14_May_1990): "This program is BRILLIANT! The graphics are super", "musical soundtrack that is the best I have yet encountered in any computer game", "Sometimes it's warped, sometimes it's cruel, but it's always funny", GAME PLAY: 9, GRAPHICS: 9
 [^ref-38]: [SpaceQuest.net – SQ3 Planets](https://spacequest.net/sq3/planets/) – Ortega (volcanic), Pestulon as Ortega's small moon hidden by Ortega's force field generator
 [^ref-39]: [SpaceQuest.net – SQ3 Spoofs and References](https://spacequest.net/sq3/spoofref/) – "OU812" case number, World o' Wonders postcards
 [^ref-40]: [SpaceQuest.net – SQ3 Demo](https://spacequest.net/sq3/demo/) – Astro Chicken standalone demo (Sierra BBS), 1988 Sierra Video Catalog promo with the Two Guys
