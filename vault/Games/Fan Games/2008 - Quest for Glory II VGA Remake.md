@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Adventure Game Studio
 protagonist: The Hero
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Quest for Glory II VGA Remake is AGD Interactive''s free 2008 fan remake
   of Sierra On-Line''s 1990 adventure-RPG *Quest for Glory II: Trial by Fire*, rebuilt
   in Adventure Game Studio with VGA-style art and a point-and-click interface.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory II VGA Remake
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Engadget reported that the remake had been "a labor of love in development off a
 > [!info]- Game Info
 > **Developer:** [[AGD Interactive]][^ref-5]
 > **Designer:** Lori Ann Cole, Corey Cole; AGD Interactive Team[^ref-20]
-> **Project Lead:** Erpy[^ref-5]
+> **AGS Credits:** AGD2, Erpy, KQartist, eriq[^ref-5]
 > **Publisher:** AGD Interactive[^ref-5]
 > **Engine:** Adventure Game Studio[^ref-5]
 > **Platforms:** Windows, Mac[^ref-22]
@@ -120,13 +120,13 @@ The remake was built with the Adventure Game Studio (AGS) engine[^ref-5][^ref-11
 - **Resolution:** 320x200, 32-bit colour, as listed by AGS[^ref-5]. Engadget described the art as "256-color"[^ref-4]. PC World noted scaling options up to 1280x800[^ref-18].
 - **Engine:** Adventure Game Studio[^ref-5]
 - **Platforms:** Windows (XP through 11); Mac OS X 10.4.11–10.6, Intel only, X11 required[^ref-22]
-- **Media:** Digital download (v2.0: Windows 71 MB, Mac 142 MB)[^ref-22]
+- **Media:** Digital download (v2.0: Windows 71 MB; Mac 587 MB, though AGDI's download page labels it 142 MB)[^ref-22]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 24, 2008 | Windows | Initial release[^ref-6] |
+| — | August 24, 2008 | Windows | Initial release[^ref-6] |
 | 2.0 | January 20, 2011 | Windows/Mac | "Packed full of fixes and improvements"; first Mac version[^ref-3] |
 
 AGD Interactive notes that save-games from earlier versions are not compatible with v2.0[^ref-22].
@@ -145,7 +145,7 @@ AGD Interactive remade Quest for Glory II rather than the first game because Sie
 
 ### Distribution and Reception
 
-As a fan project, the remake was released free through AGD Interactive's website[^ref-8][^ref-22]. AGS lists it as freeware[^ref-5]. Fans in a 2008 NeoGAF release thread wrote that they had been "waiting for this for years"[^ref-7]. AGS chose it as Pick of the Month in March 2009. AGS explained that the game had won the blog poll for a game that "should really have had more […] nominations" at that year's AGS Awards[^ref-5].
+As a fan project, the remake was released free through AGD Interactive's website[^ref-8][^ref-22]. AGS lists it as freeware[^ref-5]. One fan in a 2008 NeoGAF release thread wrote that they had been "waiting for this for years"[^ref-7]. AGS chose it as Pick of the Month in March 2009. AGS explained that the game had won the blog poll for a game that "should really have had more […] nominations" at that year's AGS Awards[^ref-5].
 
 ### Collections
 
@@ -153,7 +153,7 @@ The remake is a standalone freeware release, downloadable from AGD Interactive's
 
 ### Fan Projects
 
-The remake is part of AGD Interactive's run of Sierra remakes, which also includes King's Quest I and King's Quest II. AGD Interactive reports that its King's Quest II remake has been downloaded over 451,400 times[^ref-9][^ref-5].
+The remake is part of AGD Interactive's run of Sierra remakes, which also includes King's Quest I and King's Quest II. AGD Interactive reports that its King's Quest II remake has been downloaded over 451,400 times[^ref-9].
 
 ### Critical Perspective
 
