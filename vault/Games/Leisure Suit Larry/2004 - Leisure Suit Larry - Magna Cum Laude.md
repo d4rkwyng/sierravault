@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Proprietary
 protagonist: Larry Lovage
 sierra_lineage: Late Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Leisure Suit Larry: Magna Cum Laude (2004) is the seventh main Leisure
   Suit Larry game, a minigame-driven 3D comedy by High Voltage Software starring Larry
   Laffer''s nephew Larry Lovage, made without series creator Al Lowe.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -366,7 +366,7 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 [^ref-36]: [GOG Database](https://www.gogdb.org/product/1207659225) – user rating, pricing history
 [^ref-38]: [Easter Egg Database](https://eeggs.com/items/47033.html) – Interocitor easter egg details
 [^ref-39]: [MobyGames – Trivia](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/trivia/) – first Larry game on consoles; Australian RC rating as of 9 September 2004; October 2004 Playboy feature
-[^ref-40]: [CheatCC Guide](https://www.cheatcc.com/articles/leisure-suit-larry-magna-cum-laude-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – second-floor sorority door names grouped by TV casts
+[^ref-40]: [CheatCC Guide (Wayback Machine, June 2010)](https://web.archive.org/web/20100606061437/http://www.cheatcc.com/pc/lslmcl.html) – second-floor sorority door names grouped by TV casts
 [^ref-41]: [Ringostrack Soundtrack Database](https://ringostrack.com/movie/leisure-suit-larry-magna-cum-laude/58071) – complete soundtrack listing
 [^ref-42]: [Reddit – Steam Delisting](https://www.reddit.com/r/pcgaming/comments/1kbs8sa/a_number_of_leisure_suit_larry_games_will_be/) – Steam availability
 [^ref-43]: GamePressure – Nude Patch (link removed: adult-patch download page) – patch information, download statistics

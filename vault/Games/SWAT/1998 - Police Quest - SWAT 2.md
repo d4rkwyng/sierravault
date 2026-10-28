@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Proprietary (Windows)
 protagonist: SWAT Commander / Dante (Terrorist Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Police Quest: SWAT 2 is a real-time tactics game released on July 11,
   1998, developed by Yosemite Entertainment and published by Sierra FX. Representing
   a...'
@@ -18,7 +18,7 @@ tags: [1990s, police-quest-swat, sierra]
 ---
 # Police Quest: SWAT 2
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -325,7 +325,7 @@ The game's transition from the Police Quest adventure format to real-time tactic
 [^ref-5]: [Steam Store – Police Quest: SWAT 2](https://store.steampowered.com/app/607120/Police_Quest_SWAT_2/) – system requirements, user ratings (78% of 113), game description
 [^ref-6]: [Internet Archive – AllGame Review](https://web.archive.org/web/20141116181925/http://www.allgame.com/game.php?id=13475&tab=review) – Peter Suciu review, Gates involvement, realism claims, mission settings
 [^ref-7]: [IMDb – Police Quest: SWAT 2 (Wayback snapshot, November 1, 2025)](https://web.archive.org/web/20251101104156/https://www.imdb.com/title/tt1855309/) – voice cast, plot summary, user rating
-[^ref-8]: [CheatCC – Strategy Guide](https://www.cheatcc.com/articles/police-quest-swat-2-strategy-guide-pc-sg/) – AI description, mission structure, evidence and final briefing
+[^ref-8]: [CheatCC – Strategy Guide (Wayback Machine, April 2008)](https://web.archive.org/web/20080423091554/http://www.cheatcc.com/pc/sg/police_quest_swat_2.html) – AI description, mission structure, evidence and final briefing
 [^ref-9]: [MobyGames – Police Quest: SWAT 2](https://www.mobygames.com/game/153/police-quest-swat-2/) – critic average (69%, 26 ratings), technical specs, player reviews, trivia
 [^ref-10]: [IGN – SWAT 2 Review](https://www.ign.com/articles/1998/08/12/swat-2) – Jason Bates review, score, gameplay critique
 [^ref-11]: [GameSpot – Police Quest: SWAT 2 Review](https://www.gamespot.com/reviews/police-quest-swat-2-review/1900-2533216/) – Scott Krol review, score, gameplay criticism

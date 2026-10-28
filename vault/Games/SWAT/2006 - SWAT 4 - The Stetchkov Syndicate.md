@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-28'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is the 2006 expansion pack for the tactical
   first-person shooter SWAT 4, developed by Irrational Games and published by Sierra
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -305,7 +305,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-13]: [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=75&title=swat-4-stetchkov-syndicate&fld=music) – mission location names from soundtrack
 [^ref-14]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/73270-swat-4-the-stetchkov-syndicate) – expansion features, release dates, ESRB rating
 [^ref-15]: [GameFAQs – Cheats and Tips](https://gamefaqs.gamespot.com/pc/930133-swat-4-the-stetchkov-syndicate/cheats) – optiwand tip, difficulty mechanics
-[^ref-16]: [CheatCC – SWAT 4: The Stetchkov Syndicate](https://www.cheatcc.com/articles/swat-4-the-stetchkov-syndicate-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – cheat activation instructions
+[^ref-16]: [CheatCC – SWAT 4: The Stetchkov Syndicate (Wayback Machine, April 2007)](https://web.archive.org/web/20070404173107/http://www.cheatcc.com/pc/swat4thestetchkovsyndicatecheatscodes.html) – cheat activation instructions
 [^ref-17]: [HookedGamers – Cheats](https://www.hookedgamers.com/pc/swat_4_the_stetchkov_syndicate/cheats.html) – 7 mission unlock cheat
 [^ref-18]: [PAL Gaming Network – SWAT 4 Review (base game, Archived)](https://web.archive.org/web/20100722094649/http://palgn.com.au/pc-gaming/3927/swat4-review/) – improvisation in level approach
 [^ref-19]: [GameSpot – SWAT 4 Review](https://www.gamespot.com/reviews/swat-4-review/1900-6121423/) – arrest over kill goal

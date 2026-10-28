@@ -10,14 +10,14 @@ series: Thexder
 engine: null
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Thexder Neo is Zereo's 2009 remake of Game Arts' 1985 transforming-robot shooter Thexder, published by Square Enix as a PlayStation Network download for PSP (2009) and PS3 (2010). Sierra had no part in it.
 composer: [Kazumi Mitome]
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -163,7 +163,7 @@ Critics treated Thexder Neo as a faithful but unimproved revival[^ref-8][^ref-36
 [^ref-9]: [MobyGames – Thexder Neo releases](https://www.mobygames.com/game/43121/thexder-neo/releases/) – PSP 1 Oct 2009, PS3 28 Jan 2010, Zereo
 [^ref-11]: [GameFAQs – Thexder NEO (PSP)](https://gamefaqs.gamespot.com/psp/974848-thexder-neo) – Plot description; user rating "Good" (21 ratings)
 [^ref-12]: [GameSpot – Thexder NEO cheats (Wayback, May 2022)](https://web.archive.org/web/20220522004411/https://www.gamespot.com/games/thexder-neo/cheats/) – Mech and cruiser modes; destroy the ultramagnetic field generator
-[^ref-13]: [Cheat Code Central – Thexder NEO trophies (PS3)](https://www.cheatcc.com/articles/thexder-neo-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-playstation-3-ps3-ps3/) – Trophy list: Easy and Normal modes, Level 50 and 100, 16-level Classic version, shields
+[^ref-13]: [Cheat Code Central – Thexder NEO trophies (PS3) (Wayback Machine, October 2011)](https://web.archive.org/web/20111029043635/http://www.cheatcc.com/ps3/thexderneocheatscodes.html) – Trophy list: Easy and Normal modes, Level 50 and 100, 16-level Classic version, shields
 [^ref-16]: [PlayStation Trophies – Thexder Neo Trophy Guide](https://www.playstationtrophies.org/game/thexder-neo/guide/) – 20 trophies; Easy and Normal; 10 vs 16 levels; no save function; online mode abandoned
 [^ref-17]: [Metacritic – Thexder NEO](https://www.metacritic.com/game/thexder-neo/) – Critic scores: GamesRadar+ 50, Gaming Age 33, Destructoid 30 (all PSP); Metascore tbd
 [^ref-19]: GameSpot user review by Double_Wide, "Thexder NEO" (PS3), 24 May 2013 – user score 7.5; trophy-hunting and energy comments (original URL gamespot.com/thexder-neo/user-reviews/2200-179499/ now redirects to the game page)
