@@ -10,13 +10,13 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'King''s Quest III: To Heir Is Human is a free 2006 fan remake of Sierra On-Line''s 1986 adventure, rebuilt by Infamous Adventures in Adventure Game Studio with redrawn graphics, a point-and-click interface, new music and a voice pack.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -57,7 +57,7 @@ The game follows the original's progression[^ref-22]:
 - **Llewdor:** The countryside around the wizard's mountain home, where more ingredients and items can be found. The remake adds new locations that form natural boundaries to the north and south of Llewdor[^ref-21][^ref-19].
 - **The Journey:** After defeating Manannan, Gwydion sails on a pirate ship and makes his way through Daventry to the dragon's lair. In the remake, Daventry is reimagined with new geography and layout[^ref-21].
 
-The 1986 original introduced the magic map, which allows quicker travel between previously visited screens[^ref-2][^ref-3]. Version 2.0 of the remake restored the magic map on board the pirate ship after fans pointed out it was missing[^ref-18].
+Infamous Adventures' release announcement credits the 1986 original with introducing the magic map, which allows quicker travel between previously visited screens[^ref-2][^ref-3]. Version 2.0 of the remake restored the magic map on board the pirate ship after fans pointed out it was missing[^ref-18].
 
 ### Puzzles and Mechanics
 
@@ -109,7 +109,7 @@ The team built the game in Adventure Game Studio (AGS)[^ref-17]. According to th
 - **Meerbat:** Dialogue Pictures/Animation
 - **Fizzii:** Background Art/Sprite Creation
 
-Former Sierra employee Andy Hoyos voiced Manannan[^ref-18].
+Former Sierra employee Andy Hoyos voiced Manannan[^ref-18][^ref-21].
 
 ### Technical Achievements
 
@@ -151,9 +151,9 @@ HG101 notes that the two remakes share an interface, VGA-style graphics and full
 
 **Official / Free**
 - [Infamous Adventures on itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) (free fan remake, "name your own price")
-- [Adventure Game Studio database entry](https://www.adventuregamestudio.co.uk/play/game/734/)
 
 **Preservation**
+- [Adventure Game Studio database entry](https://www.adventuregamestudio.co.uk/play/game/734/) (listing only; the AGS download is currently disabled)
 - [MobyGames](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/)
 - [Internet Archive – King's Quest III [fan remake]](https://archive.org/details/kings-quest-iii-fan-remake)
 
@@ -189,7 +189,7 @@ HG101 notes that the two remakes share an interface, VGA-style graphics and full
 [^ref-16]: [PCGamingWiki – King's Quest III: To Heir Is Human](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_Is_Human) – "There are two complete and free remakes of the game available" (AGD Interactive's Redux and Infamous Adventures')
 [^ref-17]: [Adventure Game Studio – King's Quest III (Infamous Adventures), game 734](https://www.adventuregamestudio.co.uk/play/game/734/) – AGS Awards 2006 winner Best Documentation; nominee Best Background Art, Best Use of Sound; credits; 320x200, 16-bit colour; ratings
 [^ref-18]: [Wayback Machine – Infamous Adventures Website, September 2006](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) – "King's Quest III 2.0 + Voice Pack" (August 20, 2006), fix list, Andy Hoyos as Manannan, Shawn "Klytos" Mills
-[^ref-19]: [Hardcore Gaming 101 – King's Quest III: To Heir is Human](http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/) – "a pretty faithful recreation of the original game"; comparison with AGDI's 2011 remake
+[^ref-19]: [Hardcore Gaming 101 – King's Quest III: To Heir is Human](http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/) ([archived copy](https://web.archive.org/web/20250120231435/http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/)) – "a pretty faithful recreation of the original game"; comparison with AGDI's 2011 remake
 [^ref-20]: [Adventure Classic Gaming – Steps to success in creating your own adventure game](http://www.adventureclassicgaming.com/index.php/site/features/220/) – Cris Skelton, August 5, 2006; Shawn Mills on founding IA and remaking KQ3 to hone skills
 [^ref-21]: [Wikipedia – King's Quest III (2006 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_III_(2006_video_game)) – remake features (16-bit colour, automatic spell casting, new locations, new prologue), AGS award for best documentation
 [^ref-22]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game's plot: Gwydion "the 17-year-old slave of the wizard Manannan", Manannan's rules, pirates, three-headed dragon
