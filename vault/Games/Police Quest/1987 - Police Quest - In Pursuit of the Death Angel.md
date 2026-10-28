@@ -10,20 +10,20 @@ series: Police Quest
 engine: AGI
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Police Quest: In Pursuit of the Death Angel is a 1987 police procedural
   adventure game by Jim Walls and Sierra On-Line.'
 tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Police Quest: In Pursuit of the Death Angel is a 1987 police procedural adventure game by Jim Walls and Sierra On-Line[^ref-15]. It was designed by Jim Walls, a retired California Highway Patrol officer[^ref-42], and is regarded as the most realistic of the games Sierra developed in the late 1980s[^ref-15]. The game follows Sonny Bonds, a patrol officer for the Lytton Police Department, as he investigates drug-related crimes that ultimately lead to confronting the notorious Death Angel[^ref-66].
+Police Quest: In Pursuit of the Death Angel is a 1987 police procedural adventure game by Jim Walls and Sierra On-Line[^ref-15]. It was designed by Jim Walls, a retired California Highway Patrol officer[^ref-42], and is regarded as the most realistic of the games Sierra developed in the late 1980s[^ref-15]. The game follows Sonny Bonds, a patrol officer for the Lytton Police Department, as he investigates drug-related crimes that ultimately lead to confronting the notorious Death Angel[^ref-21][^ref-66].
 
-What distinguished Police Quest from other Sierra adventures was its meticulous attention to real police procedures and protocols[^ref-22]. Unlike Sierra adventures about rescuing damsels in distress, defeating evil wizards or saving the universe[^ref-22], Police Quest's style of play depends mainly on strict adherence to standard police policy and procedure[^ref-15]. The game's authenticity was so convincing that it was reportedly used as a training tool by real police[^ref-19][^ref-22].
+What distinguished Police Quest from other Sierra adventures was its meticulous attention to real police procedures and protocols[^ref-22]. Unlike Sierra adventures about rescuing damsels in distress, defeating evil wizards or saving the universe[^ref-22], Police Quest's style of play depends mainly on strict adherence to standard police policy and procedure[^ref-15]. The game's authenticity was so convincing that it was reportedly used as a training tool by real police[^ref-22][^ref-70].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-15]
@@ -38,7 +38,7 @@ What distinguished Police Quest from other Sierra adventures was its meticulous 
 
 ## Story Summary
 
-The game places players in the role of Sonny Bonds, a patrol officer working the streets of fictional Lytton, California[^ref-27]. The narrative unfolds through realistic police scenarios, beginning with routine patrol duties including traffic stops, drunk driver arrests, and responding to various calls[^ref-15]. As Sonny progresses through his career, he becomes involved in investigating a drug trafficking operation that threatens the community.
+The game places players in the role of Sonny Bonds, a patrol officer working the streets of fictional Lytton, California[^ref-27][^ref-42]. The narrative unfolds through realistic police scenarios, beginning with routine patrol duties including traffic stops, drunk driver arrests, and responding to various calls[^ref-15]. As Sonny progresses through his career, he becomes involved in investigating a drug trafficking operation that threatens the community.
 
 The central antagonist is Jessie Bains, a drug lord nicknamed "The Death Angel"[^ref-15][^ref-20], whose criminal network Sonny must dismantle through proper investigative procedures[^ref-21]. The story draws heavily from Jim Walls' real-world police experience, with many incidents based on actual situations he encountered during his time with the California Highway Patrol[^ref-42]. Sonny Bonds himself was loosely based on Walls' son, also named Sonny[^ref-42]. This authentic foundation gives the narrative a grounded realism rarely seen in adventure games of the era.
 
@@ -60,20 +60,20 @@ The driving sequences present particular challenges, with an overhead map view r
 
 Rather than traditional adventure game puzzles, Police Quest challenges players with authentic police procedures[^ref-15]. Success requires consulting the detailed police manual for proper codes, regulations, and protocols[^ref-9][^ref-22]. For example, if Sonny does not store his sidearm in a gun locker while processing a suspect at the jail, the suspect steals it and shoots him[^ref-15].
 
-The game's difficulty stems from its strict adherence to real-world police protocol. As noted in a contemporary review, "There's a manual of department regulations you must virtually memorize in order to keep the game in motion for long. While realistic, this is frustrating for new gamers"[^ref-9]. This approach made Police Quest stand out, and the lack of "traditional" puzzles made the game stand out at the time of release[^ref-15].
+The game's difficulty stems from its strict adherence to real-world police protocol. As noted in a contemporary review, "There's a manual of department regulations you must virtually memorize in order to keep the game in motion for long. While realistic, this is frustrating for new gamers"[^ref-9]. This approach, and the lack of "traditional" puzzles, made the game stand out at the time of release[^ref-15].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Police Quest received mixed but generally positive reviews from gaming publications, with critics praising its graphics while noting the unusual gameplay approach. In Computer Gaming World (April 1988), Michael S. Chaut's review "Dusting the Death Angel" called some of the graphic sequences "the most terrific this reviewer has ever seen" and concluded that the game "comes highly recommended"[^ref-68]. The Games Machine (UK, March 1988) scored it 92% overall, writing that "Police Quest is a large adventure with more than one solution and should keep even hardened text-only-adventure-players amused and involved for quite some time"[^ref-1].
+Police Quest received mixed but generally positive reviews from gaming publications, with critics praising its graphics while noting the unusual gameplay approach[^ref-10]. In Computer Gaming World (April 1988), Michael S. Chaut's review "Dusting the Death Angel" called some of the graphic sequences "the most terrific this reviewer has ever seen" and concluded that the game "comes highly recommended"[^ref-68]. The Games Machine (UK, March 1988) scored it 92% overall, writing that "Police Quest is a large adventure with more than one solution and should keep even hardened text-only-adventure-players amused and involved for quite some time"[^ref-1].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World | Recommended | "The most terrific this reviewer has ever seen" (graphics)[^ref-68] |
 | The Games Machine UK | 92% | Atmosphere 89%, Interaction 93%; "large adventure with more than one solution"[^ref-1] |
 | Macworld | Negative | "Plays like a long version of a routine TV cop show" (Macintosh version 1.50)[^ref-69] |
-| ANTIC Magazine | Positive | "Strong sense of actually becoming the cop on the beat"[^ref-15] |
+| ANTIC Magazine | Positive | "Strong sense of actually becoming the cop on the beat"[^ref-9] |
 
 ### Modern Assessment
 
@@ -85,9 +85,9 @@ The game maintains strong user ratings on various platforms, with IMDb users rat
 
 ### Origins
 
-The game's development began when Ken Williams met California Highway Patrol officer Jim Walls in 1985, who was on administrative leave following a traumatic shooting incident[^ref-15]. Williams recognized an opportunity to create an authentic police adventure game and convinced Walls to join Sierra after his retirement from the CHP in 1986[^ref-15]. According to Wikipedia, Williams asked Walls to "write a short story" about his CHP experiences, and the story eventually developed into Police Quest's plot[^ref-15].
+The game's development began when Ken Williams met California Highway Patrol officer Jim Walls in 1985, who was on administrative leave following a traumatic shooting incident[^ref-15]. After Walls retired from the CHP, Williams befriended him and asked if he could write a short story about his experiences in the CHP; that story eventually developed into Police Quest's plot[^ref-15].
 
-Tammy Dargan, the series' later producer, said: "It was our intention to create a real life simulation, to explore the feelings that are part of the police experience"[^ref-20]. Just Games Retro observes that Sierra and others had previously built adventures around cartoonish, comedic properties, while Police Quest set out to capture the "feel" of real police work[^ref-52].
+Tammy Dargan, the series' later producer, said: "It was [our] intention to create a real life simulation, to explore the feelings that are part of the police experience"[^ref-20]. Just Games Retro observes that Sierra and others had previously built adventures around cartoonish, comedic properties, while Police Quest set out to capture the "feel" of real police work[^ref-52].
 
 ### Production
 
@@ -124,7 +124,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 - In [[1988 - Police Quest II - The Vengeance|Police Quest II]], Larry Laffer from [[Leisure Suit Larry Series|Leisure Suit Larry]] makes a cameo appearance at the airport, just past the metal detector[^ref-67]
 - In the [[1992 - Police Quest - In Pursuit of the Death Angel VGA|VGA remake]], Sonny's undercover "pimp suit" was renamed a "leisure suit", a nod to Sierra's Leisure Suit Larry[^ref-29]
 - In [[1988 - Police Quest II - The Vengeance|Police Quest II]], Jim Walls appears in the opening as a man wanted "for excessive verbosity", and at the firing range he shouts "FORGIVE ME FOR SHOUTING-" if you shoot without ear protection[^ref-67]
-- Ken Williams met Jim Walls in 1985; after Walls retired from the CHP in 1986, Williams asked him to "write a short story" about his experiences, which became Police Quest's plot[^ref-15]
+- Ken Williams met Jim Walls in 1985; after Walls retired from the CHP, Williams asked him to "write a short story" about his experiences, which became Police Quest's plot[^ref-15]
 - The game's strict procedural requirements were so authentic that failing to follow proper protocol (like securing your weapon before entering the jail) could result in immediate death when prisoners attempt to disarm you[^ref-15]
 - The driving sequences use an overhead map view and are notoriously difficult—"a crash is an instant Game Over"[^ref-3]
 - Sierra's own InterAction magazine, promoting the 1992 VGA re-release, said the game "safely demonstrates to rookies the consequences of failing to observe proper procedures"[^ref-70]
@@ -132,7 +132,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 
 ## Legacy
 
-Police Quest's impact extends far beyond entertainment, with the game reportedly being used as an actual police training tool[^ref-19]. Sierra's house magazine InterAction, in a Winter 1992 article promoting the VGA re-release (credited by Wikipedia to Rich DeBaun[^ref-15]), wrote that the game "has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures"[^ref-70]. Choicest Games reports that it was apparently used by officers at the Allegan City Police Department in Michigan[^ref-10].
+Police Quest's impact extends far beyond entertainment, with the game reportedly being used as an actual police training tool[^ref-22][^ref-70]. Sierra's house magazine InterAction, in a Winter 1992 article promoting the VGA re-release (credited by Wikipedia to Rich DeBaun[^ref-15]), wrote that the game "has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures"[^ref-70]. Choicest Games reports that it was apparently used by officers at the Allegan City Police Department in Michigan[^ref-10].
 
 As one modern reviewer observed, "Police Quest represents an interesting experiment in changing what adventure games were all about"[^ref-52]. The first four Police Quest games totaled 850,000 sales by late 1995[^ref-15]. The success led to multiple sequels and established a franchise that would continue throughout the 1990s, though later entries moved away from Walls' authentic approach when he left Sierra after Police Quest III[^ref-6][^ref-17].
 
@@ -144,7 +144,7 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 
 **Download / Preservation**
 - [Internet Archive - Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual)[^ref-8]
-- [Internet Archive - Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt)[^ref-25]
+- [Internet Archive - Police Quest 1992 VGA Remake Hint Book](https://archive.org/details/Police_Quest_1_Hint_Book)[^ref-25]
 
 ## See Also
 
@@ -159,7 +159,7 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 [^ref-3]: Nostalgia Trigger – Police Quest Retrospective (Wayback, 2025; link omitted: the page offers browser play of the still-sold game) — Driving difficulty, "a crash is an instant Game Over" (archived; live page now 404)
 [^ref-6]: [The Digital Antiquarian – Police Quest Series](https://www.filfre.net/tag/police-quest/) — Walls departure and series direction change
 [^ref-7]: [Alex Bevi – Police Quest Review](https://alexbevi.com/blog/2022/03/15/police-quest-1/) — 67% retrospective rating (played the DOS SCI remake), training tool discussion
-[^ref-8]: [Internet Archive – Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual) — Original manual documentation
+[^ref-8]: [Internet Archive – Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual) — Police Quest Collection (The 4 Most Wanted) manual (covers the 1992 VGA PQ1)
 [^ref-9]: [ANTIC Magazine Review](https://www.atarimagazines.com/v7n3/stgamesgallery.html) — Manual memorization requirement critique
 [^ref-10]: [Choicest Games – Police Quest Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) — 6/10 score, procedural focus critique, Allegan City Police Department training use
 [^ref-12]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — First Sierra DOS release without copy protection; version dates, graphics/audio support, manual title
@@ -168,24 +168,23 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 [^ref-15]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Ken Williams meeting Walls, development history, gameplay/procedure, Jessie Bains, 850,000 series sales by late 1995
 [^ref-17]: [Adventure Gamer Blog – Police Quest Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Series direction after Walls
 [^ref-18]: [GameFAQs – Police Quest Walkthrough by _BDaly_](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) — Walkthrough covering both the original typed-command game and the 1992 VGA remake
-[^ref-19]: [GameFAQs – Police Quest FAQs](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs) — Allegan Police Department training use
-[^ref-20]: [Adventure Classic Gaming – Police Quest](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) — Review of the VGA remake; Jessie Bains as the Death Angel; Tammy Dargan "real life simulation" quote
-[^ref-21]: [MobyGames – Police Quest 1987](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) — Death Angel antagonist, core plot; credits list Al Lowe under Programming
+[^ref-20]: [Adventure Classic Gaming – Police Quest](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) — Review of the VGA remake; Jessie Bains as the Death Angel; Tammy Dargan "real life simulation" quote (source reads "out intention", sic)
+[^ref-21]: [MobyGames – Police Quest 1987](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) — Death Angel antagonist, "rising tide of drugs" core plot; credits list Al Lowe under Programming
 [^ref-22]: [Sierra Chest – Police Quest I: In Pursuit of the Death Angel](https://www.sierrachest.com/index.php?a=games&id=20&fld=general) — Authentic realism, used as a police training tool, indoctrination guide with police codes and procedures
 [^ref-24]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — Digital collection availability
-[^ref-25]: [Internet Archive – Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt) — Original hint book
+[^ref-25]: [Internet Archive – Police Quest Hint Book](https://archive.org/details/Police_Quest_1_Hint_Book) — 1992 VGA remake hint book ("© 1992 … Welcome to the new version")
 [^ref-26]: [IMDb – Police Quest: In Pursuit of the Death Angel (1987)](https://www.imdb.com/title/tt0289399/) — 8.2/10 user rating (123 votes, checked 2026-10-12)
-[^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Larry Laffer cameo in PQ2
+[^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Lytton Police Department
 [^ref-28]: [IMDb – Police Quest: In Pursuit of the Death Angel (1992)](https://www.imdb.com/title/tt0289400/) — 7.7/10 user rating (48 votes, checked 2026-10-12)
 [^ref-29]: [Sierra Fandom Wiki – Police Quest VGA (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) — "Pimp suit" renamed "leisure suit" in VGA remake referencing Leisure Suit Larry
 [^ref-41]: [MobyGames – Police Quest VGA Reviews](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) — Tammy Dargan led VGA remake after Walls left Sierra; player reviews of the 1992 remake
-[^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
+[^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis, "the fictional city of Lytton, California"
 [^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Engines: AGI (original), SCI1.1 (VGA remake)
 [^ref-52]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) — In-game reference to "LPD Indoctrination Guide" and Felony Stop Procedures; overhead driving map; "interesting experiment" observation
 [^ref-56]: [MobyGames – Police Quest VGA Remake (1992)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface
 [^ref-62]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) — Digital availability (store page lists release date Sep 7, 1987)
 
-[^ref-66]: [GameFAQs – Police Quest Plot](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel) — Death Angel investigation storyline
+[^ref-66]: [GameFAQs – Police Quest Plot](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel) — Undercover infiltration of the "Death Angel" gang
 [^ref-67]: [TV Tropes – Police Quest II: The Vengeance](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest2TheVengeance) — Larry Laffer airport cameo; Jim Walls wanted "for excessive verbosity"; "FORGIVE ME FOR SHOUTING-" firing-range gag 
 [^ref-68]: [Computer Gaming World #46 (April 1988) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_46) — p. 22, "Dusting the Death Angel" by Michael S. Chaut: graphics "the most terrific"; "comes highly recommended"
 [^ref-69]: [Macworld, March 1989 – Internet Archive](https://archive.org/details/MacWorld_8903_March_1989) — p. 183, Keith McCandless, "Animated Adventure Games": "plays like a long version of a routine TV cop show"
