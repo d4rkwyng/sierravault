@@ -10,15 +10,16 @@ series: Crazy Nick's Software Picks, Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack is
   a budget-priced mini-game compilation released by Sierra On-Line in 1992 as part
-  of the...'
+  of the Crazy Nick''s Software Picks series, collecting three arcade mini-games from
+  the Space Quest series.'
 tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -49,7 +50,7 @@ The arcade games tie into the wider Space Quest universe. Ms. Astro Chicken is p
 
 ### Interface and Controls
 
-A main menu lets the player choose a game. An "About Games" button shows instructions, information on other Crazy Nick's and Sierra titles, and the credits, and "Quit Games" exits[^ref-21]. Unlike some other Crazy Nick's compilations, this pack has no menu bar or options screen[^ref-21]. All three games can be played with a mouse or with the keyboard arrow keys and Enter/Return, and the walkthrough's instructions for each game give F9 as the quit key[^ref-21].
+A main menu lets the player choose a game. An "About Games" button shows instructions, information on other Crazy Nick's and Sierra titles, and the credits, and "Quit Games" exits[^ref-21]. Unlike some other Crazy Nick's compilations, this pack has no menu bar or options screen[^ref-21]. All three games can be played with a mouse or the keyboard. Ms. Astro Chicken and Monolith Burger use the arrow keys plus Enter/Return, while Sand Skimmer uses only the left and right arrow keys; the walkthrough's instructions for each game give F9 as the quit key[^ref-21].
 
 MobyGames lists the pack's perspectives as side view, top-down and behind view[^ref-1].
 
@@ -73,11 +74,26 @@ In Sand Skimmer, the player positions the skimmer by mouse or with the left and 
 
 ### Contemporary Reviews
 
-No contemporary reviews of the pack are known. The Sierra Chest lists no reviews[^ref-26]. The only period coverage found is Sierra's own announcement in InterAction, Summer 1992 (News Notes, pages 14–15)[^ref-5][^ref-18].
+No full or scored review of this pack from 1992 has been found, but the press did cover it in short notices, one of which passed a one-line verdict.
+
+| Source | Date | Type | Notes |
+|--------|------|------|-------|
+| *Computer Gaming World* #98, "Gaming Lite" survey | September 1992 | Survey of budget software | Covers all five Crazy Nick's packs[^ref-27] |
+| *Computer Gaming World* #99, "Taking A Peek" | October 1992 | Capsule preview | "For the truly masochistic"[^ref-28] |
+| *PC Games* #17, "Software for $9.95" | October 1992 | News item | Lists all five packs[^ref-29] |
+| *Game Players PC Entertainment* Vol. 5 No. 4, news column | 1992 (cover: "Display Until September 8, 1992") | News item | Line "on shelves now"[^ref-30] |
+
+*Computer Gaming World*'s September 1992 survey of budget software gave the line's price as $9.95, "pre-printed on the packaging as 'marked down' from $14.95 — although we know of no copies released at the higher price". It said each pack had "two or three games of varying quality with VGA / EGA graphics and full sound support", and listed this one as "Roger Wilco's Spaced Out Game Pack (with Ms. Astro Chicken, Monolith Burger and Sand Skimmer)". It gave no verdict on this pack.[^ref-27]
+
+The magazine's October 1992 "Taking A Peek" column gave the pack its own entry: "If you didn't have enough quarters to play Ms. Astro Chicken in Space Quest IV, if you didn't get enough quality time with the Monolith Burger assembly machine, or if you just didn't get to see the gory death screen enough times in the sand skimmer sequence, then Sierra opens up this little space portal of opportunity to give expression to unsatisfied drives. Cut and pasted out of the Space Quest game, this package is for the truly masochistic." It listed the price as $9.95.[^ref-28]
+
+*PC Games* listed the pack in an October 1992 news item on the line: "From the galaxy of Space Quest adventures comes Skimmer Ride, Monolith Burger, and the Scumsoft exclusive Ms. Astro Chicken."[^ref-29] *Game Players PC Entertainment*'s news column reported that "on shelves now is a new line of $9.95 titles called Nick's Picks", in which "Sierra has extracted sections of games from previous titles and coupled them with some famous Sierra personas", and named this pack among the five. It was a news mention, not a review.[^ref-30]
+
+Sierra had announced the line in InterAction, Summer 1992 (News Notes, pages 14–15)[^ref-5][^ref-18]. The Sierra Chest's reviews tab reads "No reviews yet"[^ref-26].
 
 ### Modern Assessment
 
-The one known review is a 2011 guest post by mecha-neko on the Super Adventures in Gaming blog, and it was strongly negative[^ref-8]. It concluded: "If the games responded to your controls in a timely manner, they might have been entertaining for a minute or two. As they stand, they're a horrible, horrible mess and a complete waste of time"[^ref-8].
+The only full review found is a 2011 retrospective, a guest post by mecha-neko on the Super Adventures in Gaming blog, and it was strongly negative[^ref-8]. It concluded: "If the games responded to your controls in a timely manner, they might have been entertaining for a minute or two. As they stand, they're a horrible, horrible mess and a complete waste of time"[^ref-8].
 
 User comments on MyAbandonware are more fond. One commenter called it "An absolute must have for Space Quest fans," and another remembered playing it at a parent's office[^ref-4]. The page shows a 5/5 rating from 4 votes[^ref-4]. CDRomance offers all five Crazy Nick's packs as a single download, with 1,316 downloads for the whole bundle[^ref-3].
 
@@ -115,7 +131,10 @@ ScummVM's SCI engine has a detection entry for the pack (game ID `cnick-sq`)[^re
 
 **MS-DOS Version:**
 - **Engine:** SCI1.1[^ref-6]
-- **Media:** One 3.5" floppy disk in a blister card[^ref-16][^ref-25]
+- **Media:** One 3.5" low-density floppy disk in a blister card[^ref-16][^ref-25][^ref-29]
+- **Graphics:** EGA and VGA[^ref-27][^ref-29]; Sierra's announcement mentioned only VGA[^ref-18]
+- **Minimum system:** 286 processor, 640K of RAM[^ref-29]
+- **Price:** $9.95, printed on the package as marked down from $14.95[^ref-27][^ref-28]
 - **Audio:** Sierra promoted "major sound card support"[^ref-18]. The 2011 reviewer could not get the game off PC speaker music[^ref-8]. A 2025 MyAbandonware commenter said that site's download is not configured for Sound Blaster music[^ref-4]
 - **Data files (ScummVM detection):** resource.map (879 bytes), resource.001 (364,921 bytes)[^ref-17]
 - **MyAbandonware download:** 442 KB (the size of the site's download, not of the installed game)[^ref-4]
@@ -155,7 +174,7 @@ The 2011 Super Adventures in Gaming reviewer complained about very slow characte
 
 ### Sales and Commercial Impact
 
-No sales figures for Roger Wilco's Spaced Out Game Pack have been documented. Sierra said the Crazy Nick's packs would retail for around $10[^ref-18].
+No sales figures for Roger Wilco's Spaced Out Game Pack have been documented. Sierra said the Crazy Nick's packs would retail for around $10[^ref-18]; in the shops they sold for $9.95[^ref-27][^ref-29].
 
 The Space Quest series as a whole had combined sales of more than 1.2 million units by the end of March 1996[^ref-12]. That figure covers the main series, not budget compilations like this one.
 
@@ -175,10 +194,14 @@ Quest Studios has published recordings of Ken Allen's Space Quest IV and Space Q
 ### Related Publications
 
 - **InterAction Magazine Vol. 5, No. 2 (Summer 1992):** Covered the pack in the News Notes section, pages 14–15[^ref-5][^ref-18]
+- ***Computer Gaming World* #98 (September 1992):** "Gaming Lite" budget-software survey covering the line[^ref-27]
+- ***Computer Gaming World* #99 (October 1992):** "Taking A Peek" entry for this pack[^ref-28]
+- ***PC Games* #17 (October 1992):** news item "Software for $9.95"[^ref-29]
+- ***Game Players PC Entertainment* Vol. 5 No. 4 (1992):** news column item on the line's arrival in shops[^ref-30]
 
 ### Critical Perspective
 
-Sierra built the pack from "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-18]. Its only known review found that, taken out of their adventures, the games were slow and unresponsive[^ref-8]. The Space Quest series they came from has been called "beloved cult classics"[^ref-10].
+Sierra built the pack from "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-18]. *Computer Gaming World*'s 1992 capsule called the pack "for the truly masochistic"[^ref-28], and a 2011 retrospective found that, taken out of their adventures, the games were slow and unresponsive[^ref-8]. The Space Quest series they came from has been called "beloved cult classics"[^ref-10].
 
 ## Purchase
 
@@ -229,3 +252,7 @@ Sierra built the pack from "favorite arcade and strategy sequences extracted fro
 [^ref-24]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Making of](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=making) – credits
 [^ref-25]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=box) – PC, 3.5" floppy, blister card
 [^ref-26]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Reviews](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=reviews) – "No reviews yet"
+[^ref-27]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line and this pack on p. 76
+[^ref-28]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", pp. 12 and 14: Roger Wilco's Spaced Out Game Pack entry
+[^ref-29]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
+[^ref-30]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named; cover marked "Display Until September 8, 1992"
