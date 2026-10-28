@@ -10,16 +10,16 @@ series: N/A
 engine: Machine Language
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is a 1984 educational mathematics game published
   by Sierra On-Line and developed by Sydney Development Corp., starring Spook from
   the Wizard of Id comic strip.
-tags: [1980s, educational, n-a, sierra]
+tags: [1980s, educational, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -155,9 +155,9 @@ The MobyGames reviewer complained that the game "doesn't let you advance a floor
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1984 | ColecoVision | Cartridge[^ref-22][^ref-4] |
-| 1.0 | 1984 | Commodore 64 | Floppy disk; ported by Sigma Development Group[^ref-22][^ref-21] |
-| 1.0 | 1984 | Apple II | 48K disk; programmed by [[Chuck Benton]][^ref-22][^ref-23][^ref-26] |
+| — | 1984 | ColecoVision | Cartridge[^ref-22][^ref-4] |
+| — | 1984 | Commodore 64 | Floppy disk; ported by Sigma Development Group[^ref-22][^ref-21] |
+| — | 1984 | Apple II | 48K disk; programmed by [[Chuck Benton]][^ref-22][^ref-23] |
 
 Note: PriceCharting lists a release date of January 1, 1983 for the ColecoVision version. MobyGames, Sierra Chest, and IGDB all give 1984, and the packaging is copyrighted 1984.[^ref-6][^ref-2][^ref-19][^ref-16][^ref-23]
 
@@ -179,7 +179,7 @@ Mental Floss calls WizMath an "edutainment program."[^ref-25] My Abandonware cla
 
 ### Critical Perspective
 
-WizMath was part of Sierra's early-1980s educational line alongside WizType, and it was the second Sierra/Sydney game based on a Johnny Hart strip, after B.C.'s Quest for Tires.[^ref-10][^ref-20][^ref-24] Instead of having players type answers, it makes them build equations by pushing blocks. The MobyGames reviewer called this "unique" among math games.[^ref-2] Its support for up to six players on the computer versions, with a saved score graph for each player on the Apple II, made it usable for family or group play.[^ref-12][^ref-23]
+WizMath was one of two Wizard of Id educational games Sierra released in 1984, alongside WizType.[^ref-10][^ref-20] It was also one of several Sierra-published games based on Johnny Hart's strips: Sydney Development's B.C.'s Quest for Tires came out in 1983, and its 1984 sequel B.C. II: Grog's Revenge was also developed by Sydney and published by Sierra, among others.[^ref-24][^ref-28][^ref-29] Instead of having players type answers, it makes them build equations by pushing blocks. The MobyGames reviewer called this "unique" among math games.[^ref-2] Its support for up to six players on the computer versions, with a saved score graph for each player on the Apple II, made it usable for family or group play.[^ref-12][^ref-23]
 
 ## Downloads
 
@@ -194,7 +194,7 @@ WizMath was part of Sierra's early-1980s educational line alongside WizType, and
 **Manuals & Extras**
 - [ColecoVision Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – Original instruction manual[^ref-1]
 - [Apple II Manual and Packaging](https://archive.org/details/stx_Sierra_On-Line_Wizard_of_Ids_WizMath) – Box, reference card and manual scans[^ref-23]
-- [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
+- [ColecoVision Addict](https://cvaddict.com/game/wiz-math-the-wizard-of-ids/) – Game profile and ROM information[^ref-4]
 
 ## See Also
 - [[1982 - Alphabet Blocks]]
@@ -211,7 +211,7 @@ WizMath was part of Sierra's early-1980s educational line alongside WizType, and
 [^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – ColecoVision manual scan; publisher and 1984 release
 [^ref-2]: [MobyGames – Wizard of Id's WizMath](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/) – platforms, developer, official description, player score, user review by Katakis | カタキス
 [^ref-3]: [My Abandonware – Wizard of Id's WizMath](https://www.myabandonware.com/game/wizard-of-id-s-wizmath-56g) – user comments, genre and theme classification
-[^ref-4]: [ColecoVision Addict – Wizard of Id's WizMath](https://cvaddict.com/profile.php?gameid=137) – description, rarity ratings, ROM size and MD5
+[^ref-4]: [ColecoVision Addict – Wizard of Id's WizMath](https://cvaddict.com/game/wiz-math-the-wizard-of-ids/) – description, rarity ratings, ROM size and MD5
 [^ref-5]: [Lemon64 – Wizard of Id's WizMath](https://www.lemon64.com/game/wizard-of-ids-wizmath) – Commodore 64 entry, user comment by Frightmare (5/10)
 [^ref-6]: [PriceCharting – Wizard of Id's Wiz Math](https://www.pricecharting.com/game/colecovision/wizard-of-id's-wiz-math) – sales volume, listed release date
 [^ref-7]: [MobyGames – Wizard of Id's WizMath Credits](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/credits/colecovision/) – ColecoVision version development credits
@@ -224,6 +224,7 @@ WizMath was part of Sierra's early-1980s educational line alongside WizType, and
 [^ref-22]: [MobyGames – Wizard of Id's WizMath Releases](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/releases/) – 1984 releases on Apple II, ColecoVision, Commodore 64; C64 ported by Sigma Development Group
 [^ref-23]: [Internet Archive – Sierra On-Line Wizard of Id's WizMath (Apple II box, reference card and manual)](https://archive.org/details/stx_Sierra_On-Line_Wizard_of_Ids_WizMath) – Apple II requirements, Chuck Benton credit, Floor Directory, copyright lines
 [^ref-24]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.%27s_Quest_for_Tires) – 1983 Sydney Development/Sierra game designed by Rick Banks and Michael Bate
-[^ref-25]: [Mental Floss – 8 Things You Might Not Know About The Wizard of Id](https://www.mentalfloss.com/article/547589/facts-about-the-wizard-of-id) – "edutainment program" produced by Sierra in 1984
-[^ref-26]: [Internet Archive – The Wizard of Id's WizMath (Apple II preservation)](https://archive.org/details/WizMath4amCrack) – Apple II release, 1984, distributed by Sierra On-Line
+[^ref-25]: [Mental Floss – 8 Things You Might Not Know About The Wizard of Id](https://www.mentalfloss.com/entertainment/comics/facts-about-the-wizard-of-id) – "edutainment program" produced by Sierra in 1984
 [^ref-27]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – Canadian software company founded 1978, early microcomputer game publisher
+[^ref-28]: [Wikipedia – B.C. II: Grog's Revenge](https://en.wikipedia.org/wiki/B.C._II:_Grog%27s_Revenge) – 1984 Sydney Development game, sequel to B.C.'s Quest for Tires; publishers include Sierra On-Line
+[^ref-29]: [MobyGames – B.C. II: Grog's Revenge](https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/) – read via the MobyGames API; Commodore 64 US release December 1984, published by Sierra On-Line, developed by Sydney Development Corp.
