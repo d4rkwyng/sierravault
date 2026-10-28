@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
   point-and-click adventure game developed by Coktel Vision, published in Europe by Coktel
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coktel, sierra, ween]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -36,17 +36,17 @@ It was one of few games of its day to offer branching paths: at two points the p
 > **Engine:** Gob[^ref-10][^ref-23]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1992 (Europe), 1993 (North America)[^ref-6]
-> **Series:** Standalone; a sequel to *Legend of Djel*[^ref-7]
+> **Series:** Standalone
 > **Protagonist:** Ween
-> **Sierra Lineage:** Coktel Vision
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-The Kingdom of Blue Rocks faces impending doom as the Great Eclipse approaches in three days, heralding the prophesied return of the evil wizard Kraal who seeks to reign over the land once more.[^ref-7] The only hope lies with Ween, a young wizard who must fulfill an ancient prophecy to stop Kraal's return. To accomplish this seemingly impossible task, Ween must embark on three separate quests, each rewarding him with a single grain of sand that must be placed in a magical hourglass.[^ref-4]
+The Kingdom of Blue Rocks faces impending doom as the Great Eclipse approaches in three days, heralding the prophesied return of the evil wizard Kraal who seeks to reign over the land once more.[^ref-7] The only hope lies with Ween, a young wizard who must fulfill an ancient prophecy to stop Kraal's return. To accomplish this seemingly impossible task, Ween must embark on three separate quests, each rewarding him with a single grain of sand that must be placed in a magical hourglass.[^ref-6]
 
-The game is a sequel to *Legend of Djel* (1989): it uses a similar fantasy setting and the same characters, though nothing in its title signals the connection.[^ref-7] Ween is aided in his quest by several colorful companions, including a bat sidekick and his grandfather's friend Petroy, both of whom can give progressively explicit hints.[^ref-11] The kingdom is populated with fascinating and often humorous creatures, including Urm the strawberry-eating bat and the gnomes Uki and Orbi, who tend to lose Ween's items.[^ref-7]
+MobyGames user reviewers describe it as a sequel to *Legend of Djel* (1989), which Joseph Kluytmans also designed.[^ref-7][^ref-30] The gnome Petroy appears in both games,[^ref-11][^ref-31] and the final puzzle has the player spell out DJEL and AZEULISSE, names of characters from the earlier game.[^ref-21][^ref-30] Ween is aided in his quest by several colorful companions, including a bat sidekick and his grandfather's friend Petroy, both of whom can give progressively explicit hints.[^ref-11] The kingdom is populated with fascinating and often humorous creatures, including Urm the strawberry-eating bat and the gnomes Uki and Orbi, who tend to lose Ween's items.[^ref-7]
 
-As in Coktel's *Gobliiins* series, the player character cannot die, although it is possible to fail on the final screen and get a game over.[^ref-6] The climax sees Ween placing the three sacred grains of sand into the magical hourglass, which ultimately results in the destruction of the evil wizard Kraal and the salvation of the Kingdom of Blue Rocks.[^ref-4]
+As in Coktel's *Gobliiins* series, the player character cannot die, although it is possible to fail on the final screen and get a game over.[^ref-6] The climax sees Ween placing the three sacred grains of sand into the magical hourglass, which ultimately results in the destruction of the evil wizard Kraal and the salvation of the Kingdom of Blue Rocks.[^ref-6]
 
 ## Gameplay
 
@@ -58,7 +58,7 @@ Interaction is mainly done with the mouse, picking up objects, using them on oth
 
 ### Structure and Progression
 
-The game is structured around three main quests that must be completed within a three-day timeframe, with each quest rewarding the player with one of the three grains of sand needed to defeat Kraal.[^ref-4] Generally, players must solve each puzzle in sequence.[^ref-12] Movement is restricted to a few screens at a time until the puzzle blocking the way is solved, but each screen holds many objects and things to do.[^ref-27] After the grains are gathered, Kraal starts interfering and Ween must overcome the obstacles he creates.[^ref-8] The Walkthrough King guide divides the game into the First, Second and Third Grain, Travelling, Volcano Island and the Revuss.[^ref-21]
+The game is structured around three main quests that must be completed within a three-day timeframe, with each quest rewarding the player with one of the three grains of sand needed to defeat Kraal.[^ref-4][^ref-6] Generally, players must solve each puzzle in sequence.[^ref-12] Movement is restricted to a few screens at a time until the puzzle blocking the way is solved, but each screen holds many objects and things to do.[^ref-27] After the grains are gathered, Kraal starts interfering and Ween must overcome the obstacles he creates.[^ref-8] The Walkthrough King guide divides the game into the First, Second and Third Grain, Travelling, Volcano Island and the Revuss.[^ref-21]
 
 The game branches at two distinct points, allowing players to solve completely different sets of puzzles depending on their chosen path.[^ref-11] Early on, the player can get past a monster by the bridge or take the water route instead; later, Ween chooses between a left and a right door.[^ref-27] Branching paths were uncommon in adventure games of the time.[^ref-4][^ref-14]
 
@@ -91,13 +91,13 @@ On MobyGames, players rate it 3.5 out of 5 from 36 ratings.[^ref-7] Reviews on L
 - **Adventure Gamers:** 2/5 stars (40%)[^ref-3]
 - **Abandonware DOS:** 4.11/5.00[^ref-9]
 - **OldGames.sk:** 67% (site rating); 69% user average from 25 votes[^ref-17]
-- **My Abandonware (HOTUD):** 4.4/5[^ref-11]
+- **My Abandonware (user rating):** 4.4/5 from 45 votes[^ref-11]
 
 ## Development
 
 ### Origins
 
-*The Prophecy* was developed by Coktel Vision, the creators of the *Gobliiins* series.[^ref-13][^ref-21] It is a sequel to *Legend of Djel* (1989), sharing its fantasy setting and characters.[^ref-7] Joseph Kluytmans created the game with Corinne Perrot and also worked on its graphics.[^ref-1]
+*The Prophecy* was developed by Coktel Vision, the creators of the *Gobliiins* series.[^ref-13][^ref-21] MobyGames user reviewers call it a sequel to *Legend of Djel* (1989), and a 2016 *Adventurers' Guild* blog post calls it "a sequel of sorts"; no publisher source describes it that way.[^ref-7][^ref-32] Joseph Kluytmans is credited with the design of both games.[^ref-1][^ref-30] Joseph Kluytmans created the game with Corinne Perrot and also worked on its graphics.[^ref-1]
 
 The game was released by Coktel Vision in 1992, shortly before the company became a subsidiary of Sierra.[^ref-8] Sierra On-Line published the North American DOS version in 1993 under the shortened title *The Prophecy*.[^ref-6][^ref-19]
 
@@ -105,7 +105,7 @@ The game was released by Coktel Vision in 1992, shortly before the company becam
 
 The game was developed by Coktel Vision together with MDO; MobyGames credits the programming to Eric Audren, Philippe Lamarque and Eric Thommerot under the M.D.O. banner.[^ref-1] Lemon Amiga lists C code and Gob among its development tools.[^ref-10] Users commenting there note that it uses the same engine as Coktel's *Fascination*.[^ref-14]
 
-The visual style was particularly ambitious, with hand-painted backgrounds that experimented with color toning—using faux-sepia graphics for outdoor environments while employing bright, vivid colors for interior scenes.[^ref-5] The game also uses full-motion video clips for character portraits and key cutscenes, in which nearly all the characters look as if they are wearing leather masks.[^ref-7] A Lemon Amiga commenter describes these as filmed and digitized footage of real actors in heavy make-up.[^ref-14]
+The backgrounds, which a MobyGames user reviewer describes as hand-painted,[^ref-7] experiment with color toning, using faux-sepia graphics for outdoor environments and bright colors for interior scenes.[^ref-5] The game also uses full-motion video clips for character portraits and key cutscenes, in which nearly all the characters look as if they are wearing leather masks.[^ref-7] A Lemon Amiga commenter describes these as filmed and digitized footage of real actors in heavy make-up.[^ref-14]
 
 **Development Credits:**[^ref-1][^ref-10]
 - **Designer:** Joseph Kluytmans
@@ -157,19 +157,18 @@ According to Lemon Amiga commenters, the Amiga version lacks many of the DOS ver
 
 The game suffered from some technical issues common to adventure games of its era. Pixel hunting was identified as a problem, where important items could be difficult to locate on screen.[^ref-7] The puzzle logic was considered non-obvious by many players, with solutions that seemed irrational or impossible to deduce without trial and error.[^ref-14] The difficulty ramped up significantly near the ending, frustrating some players who had otherwise enjoyed the experience.[^ref-7]
 
-The Amiga version in particular suffered from color reduction and missing animations, making it an inferior experience compared to the DOS original.[^ref-14] Players running the game on modern systems may need to use DOSBox or ScummVM for proper compatibility.[^ref-20]
+The Amiga version in particular suffered from color reduction and missing animations, making it an inferior experience compared to the DOS original.[^ref-14] On modern systems the game can be run through ScummVM,[^ref-20] and My Abandonware lists it as fully supported in DOSBox 0.73.[^ref-11]
 
 ### Easter Eggs and Trivia
 
 - The game is completely unrelated to the American rock band Ween, despite sharing the name.[^ref-8]
 - The game's data contains three identical music files for the "Home" track, which is why VGMPF's rip has 13 music files in its root and 15 in its Originals directory.[^ref-18]
-- Lemon Amiga commenters note that the game uses the same engine as Coktel Vision's *Fascination*.[^ref-14]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No sales figures for *The Prophecy* have been found. The Amiga disk version retailed for £29.99 in the UK.[^ref-10] Coktel Vision became a Sierra subsidiary shortly after the game's 1992 release, and Sierra On-Line published the DOS version in North America in 1993.[^ref-6][^ref-8]
+No sales figures for *The Prophecy* have been found. The Amiga disk version retailed for £29.99 in the UK.[^ref-10] Sierra On-Line published the DOS version in North America in 1993,[^ref-6] the year it acquired [[Coktel Vision]] (on 29 October 1993).[^ref-29]
 
 ### Collections
 
@@ -177,13 +176,13 @@ No sales figures for *The Prophecy* have been found. The Amiga disk version reta
 
 The game is playable through ScummVM, the open-source project that supports numerous classic adventure games, thanks to the implementation of the Gob engine.[^ref-20] Internet Archive hosts a playable demo version for preservation purposes.[^ref-5]
 
-### Fan Projects
+### Community Interest
 
 Community members on GOG.com have asked for an official re-release. One commenter in 2015 called it "a well made adventure game from the beloved creators of Goblins series." Another in 2017 noted that "it gets rather confusing towards the end with all the potion mixing but it's still a fun game."[^ref-13] The game has been the subject of walkthrough creation, with comprehensive guides available to help modern players navigate its challenging puzzles.[^ref-21]
 
 ### Related Publications
 
-- **Game Manual:** Included with retail release, providing backstory and gameplay instructions[^ref-9]
+- **Game Manual:** A copy of the manual is linked from Abandonware DOS[^ref-9]
 - **Sierra Hint Book:** A hint book for The Prophecy was documented as being added to the Sierra Gamers fan archive[^ref-22]
 - **Walkthrough Guide:** Fan-created walkthrough by TuxedoCyan dated December 21, 2001[^ref-15]
 
@@ -245,3 +244,7 @@ Community members on GOG.com have asked for an official re-release. One commente
 [^ref-26]: [Play Classic Games – Ween: The Prophecy](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ween-the-prophecy-online/) – interface description, puzzle mechanics
 [^ref-27]: [Quandary – Ween: The Prophecy review by Gordon Aplin (1995; Wayback Machine, Jan 2008)](https://web.archive.org/web/20080126173522/http://www.quandaryland.com/jsp/dispArticle.jsp?index=68) – 4/5 stars, restricted movement, branching paths, verdict
 [^ref-28]: [Four Fat Chicks – The Prophecy review (Wayback Machine, Mar 2016)](https://web.archive.org/web/20160304211946/http://www.tap-repeatedly.com/Reviews/Prophecy/Ween.shtml) – negative verdict, system requirements
+[^ref-29]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
+[^ref-30]: [MobyGames – Legend of Djel (Wayback Machine, Apr 2025)](https://web.archive.org/web/20250415154647/https://www.mobygames.com/game/3839/legend-of-djel/) – design credited to Joseph Kluytmans and Muriel Tramis; player is the gnome Djel; character Azeulisses
+[^ref-31]: [The Sierra Help Pages – Legend of Djel Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) – "talk to Petroy"; "Petroy makes the potion"
+[^ref-32]: [The Adventurers' Guild – Missed Classic 31: Legend of Djel (1989), Dec 2016](https://advgamer.blogspot.com/2016/12/missed-classic-31-legend-of-djel-1989.html) – "the game had a sequel of sorts, Ween: The Prophecy"
