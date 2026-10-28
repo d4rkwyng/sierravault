@@ -10,18 +10,19 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: 2026-10-26
+last_updated: 2026-10-28
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
-  Williams'' 1986 classic adventure game, developed by AGD Interactive and released...'
+  Williams'' 1986 classic adventure game, developed by AGD Interactive and released
+  free for Windows and Mac on February 24, 2011.'
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on February 24, 2011[^ref-25][^ref-26]. The remake transforms the original 16-color EGA graphics into stunning hand-painted SVGA artwork, replaces the text parser with a point-and-click interface, and adds professional voice acting, an original digital musical score, and numerous gameplay refinements[^ref-2]. It was the last in a line of non-profit projects AGD Interactive had worked on between 2003 and 2010[^ref-25]; on release, the team announced it would turn to original commercial games, previewing *Mage's Initiation* from its sister company, Himalaya Studios[^ref-3].
+King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on February 24, 2011[^ref-25][^ref-26]. The remake replaces the original's "blocky 16-color EGA graphics and a frustrating text parser" with hand-painted SVGA graphics and a point-and-click interface, and adds professional voice acting and "an original digital soundtrack composed especially for the remake"[^ref-3]. It was the last in a line of non-profit projects AGD Interactive had worked on between 2003 and 2010[^ref-25]; on release, the team announced it would turn to original commercial games, previewing *Mage's Initiation* from its sister company, Himalaya Studios[^ref-3].
 
 The game follows Gwydion, a seventeen-year-old slave of the cruel wizard Manannan, as he discovers his true identity and attempts to escape servitude[^ref-4]. While not considered a "true" remake due to additional content including new side quests, puzzles, and characters, the core story remains faithful to [[Roberta Williams]]' original vision[^ref-5]. The remake eliminates some of the frustrating elements of the original, such as the walk down the mountain after escaping the house and the near-hour real-time wait on the pirate ship, while introducing new Easter eggs and story connections to AGD Interactive's previous King's Quest remakes[^ref-4].
 
@@ -52,9 +53,9 @@ The remake features some new scenes that tie into the "Myth Arc" established in 
 
 ### Interface and Controls
 
-King's Quest III Redux completely eliminates the keyboard typing-based command system of the original 1986 game in favor of an intuitive point-and-click interface[^ref-16]. The game features an illustrated control bar that allows players to easily switch between actions such as walking, looking, talking, and interacting with objects[^ref-5]. This modernization removes one of the most significant barriers to accessibility that plagued the original text parser games, where players often struggled to guess the exact phrasing the game expected[^ref-14].
+King's Quest III Redux completely eliminates the keyboard typing-based command system of the original 1986 game in favor of an intuitive point-and-click interface[^ref-16]. The game features an illustrated control bar that allows players to easily switch between actions such as walking, looking, talking, and interacting with objects[^ref-8]. This modernization removes one of the most significant barriers to accessibility that plagued the original text parser games, where players often struggled to guess the exact phrasing the game expected[^ref-14].
 
-The remake also simplifies the spellcasting system considerably. Where the original game required players to precisely type out spell incantations from the physical manual as a form of copy protection, the Redux version provides on-screen instructions that guide players through the magical procedures[^ref-13]. This change preserves the immersive ritual of preparing spells while eliminating the frustration of typos and the need for manual reference.
+The remake also simplifies the spellcasting system considerably. Where the original game required players to precisely type out spell incantations from the physical manual as a form of copy protection, the Redux version provides on-screen instructions that guide players through the magical procedures[^ref-13].
 
 ### Structure and Progression
 
@@ -70,7 +71,7 @@ The Redux version removes much of the tedious waiting that characterized the ori
 
 ### Puzzles and Mechanics
 
-Central to the gameplay is the collection of ingredients and the casting of magical spells from Manannan's spellbook; collectable items highlighted in blue are potential spell ingredients[^ref-16]. Players must search the house and surrounding lands for components like mandrake root, carefully timing their activities around the wizard's unpredictable schedule. The spellcasting sequences themselves are ritualistic procedures that add atmosphere to the game[^ref-13].
+Central to the gameplay is the collection of ingredients and the casting of magical spells from Manannan's spellbook; collectable items highlighted in blue are potential spell ingredients[^ref-16]. Players must search the house and surrounding lands for components like mandrake root, carefully timing their activities around the wizard's unpredictable schedule.
 
 The remake addresses many dead-end situations that plagued the original. For example, in the original game, using the bowl of porridge at the wrong time could make the game unwinnable, but the Redux allows players to obtain another bowl from the Three Bears' house[^ref-15]. However, some failure states remain—players can only fail to feed Manannan four times before he kills Gwydion, maintaining tension without creating unsolvable situations[^ref-15].
 
@@ -94,7 +95,7 @@ Knoji awarded the game a perfect 5 out of 5, observing that "In today's world wh
 
 **Aggregate Scores:**
 - **MobyGames:** 76% (Critics)[^ref-8]
-- **IMDb:** 7.3/10 (28 ratings, as of October 2026)[^ref-11]
+- **IMDb:** 7.3/10 (28 ratings, as of October 28, 2026)[^ref-11]
 - **Free Games Utopia:** 3.54/5.00 (13 ratings)[^ref-2]
 - **Abandonware DOS:** 3.57/5.00 (14 votes)[^ref-19]
 
@@ -113,7 +114,7 @@ King's Quest III Redux received significant recognition at the 2011 AGS Awards, 
 
 ### Origins
 
-AGD Interactive (the Anonymous Game Developers, who released their first remakes under the name Tierra Entertainment before renaming the label AGD Interactive in December 2003[^ref-31]) had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark tale of magic and identity that had originally pushed Sierra's technical boundaries in 1986[^ref-20].
+AGD Interactive (the Anonymous Game Developers, who released their first remakes under the name Tierra Entertainment before renaming the label AGD Interactive in December 2003[^ref-31]) had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark 1986 tale of magic and identity[^ref-20].
 
 The original King's Quest III represented a significant evolution for the series. Williams had found the first two games' plots limited by the memory of computers of the time, and for King's Quest III she aimed at a more "adult" story[^ref-20]. It was also the first King's Quest not to star King Graham, following the slave Gwydion instead[^ref-3].
 
@@ -123,7 +124,7 @@ Development on King's Quest III Redux was conducted "in secret" over approximate
 
 The "bittersweet" aspect Warren referenced was AGD Interactive's decision to transition away from fan remakes. "Now we plan to focus on new, original games that retain the same retro charm that made the Sierra games so enduring," Warren announced[^ref-3]. The same day, the team previewed its next game, *Mage's Initiation: Reign of the Elements*, on the website of Himalaya Studios, the sister company Warren had also co-founded[^ref-3].
 
-The game features completely redrawn background artwork in a "lush storybook style"[^ref-3], replacing the original's 16-color EGA graphics with hand-painted SVGA visuals[^ref-3]. An entirely original digital musical score was composed specifically for the remake[^ref-2], and the team recruited professional voice actors to bring the characters to life.
+The game features completely redrawn background artwork in a "lush storybook style"[^ref-3], replacing the original's 16-color EGA graphics with hand-painted SVGA visuals[^ref-3]. An original digital soundtrack was composed especially for the remake[^ref-3], and the team recruited professional voice actors to bring the characters to life.
 
 **Development Credits:**[^ref-27][^ref-30]
 - **Designer:** Daniel Stacey
@@ -138,7 +139,7 @@ King's Quest III Redux was built using the Adventure Game Studio (AGS) engine, t
 
 The remake introduced numerous quality-of-life improvements beyond the interface overhaul. One player review on the AGS database notes that the original's walk down the mountain after escaping the house is gone, as is the need to "wait nearly an hour on the pirate ship"[^ref-4].
 
-The magic teleport effect used in the game deliberately replicates the exact same visual effect and dialogue line from King's Quest VI's magic map, creating continuity across the series[^ref-13].
+The magic teleport effect uses the exact same visual effect and dialogue line as King's Quest VI's magic map[^ref-13].
 
 ### Technical Specifications
 
@@ -216,13 +217,13 @@ Some minor audio issues were noted: rogeru wrote that several lines came out slu
 
 ### Sales and Commercial Impact
 
-As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,170 all-time downloads through its platform alone as of October 2026[^ref-4]. (IGN's release announcement said AGD Interactive's titles as a whole "have been downloaded by millions of fans," a figure for the studio's whole catalogue, not this game[^ref-3].) CDRomance tracked 1,940 downloads through their site[^ref-5].
+As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,173 all-time downloads through its platform alone as of October 2026[^ref-4]. (IGN's release announcement said AGD Interactive's titles as a whole "have been downloaded by millions of fans," a figure for the studio's whole catalogue, not this game[^ref-3].) CDRomance tracked 1,938 downloads through their site as of October 2026[^ref-5].
 
 The game's release marked the end of an era for AGD Interactive's fan remake projects. IGN's announcement described AGD Interactive as "an acclaimed developer of classic adventure game remakes" and said the release brought "an end to over a decade of free game production" for the group[^ref-3].
 
 ### Collections
 
-King's Quest III Redux was released as a standalone free download and has not been included in any commercial collections. However, it exists alongside another notable fan remake: Infamous Adventures released their own VGA remake of King's Quest III in 2006, which "translated the original EGA 16-color graphics into the style of Sierra's VGA graphics of the early 1990's"[^ref-9]. That version earned an 88% critic score on MobyGames[^ref-9], and both remakes serve as complementary preservation efforts for Sierra's classic.
+King's Quest III Redux was released as a standalone free download and has not been included in any commercial collections. However, it exists alongside another notable fan remake: Infamous Adventures released their own VGA remake of King's Quest III in 2006, which MobyGames describes as "translated from its original EGA 16-color graphics into the style of Sierra's VGA graphics of the early 1990's"[^ref-9]. That version earned an 88% critic score on MobyGames[^ref-9], and both remakes serve as complementary preservation efforts for Sierra's classic.
 
 ### Fan Projects
 
@@ -232,7 +233,7 @@ AGD Interactive's remake connects to their previous work through the "Myth Arc" 
 
 ### Related Publications
 
-The original 1986 King's Quest III included extensive documentation for the spellcasting system, which served as copy protection. Players needed the physical manual to correctly prepare magical recipes[^ref-20]. The Redux version eliminates this requirement by providing on-screen instructions during spellcasting sequences[^ref-13].
+In the original 1986 King's Quest III, the spellcasting served as copy protection: players needed the manual to prepare the spells[^ref-13]. The Redux version eliminates this requirement by providing on-screen instructions during spellcasting sequences[^ref-13].
 
 ### Critical Perspective
 
@@ -262,19 +263,19 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 ## References
 
-[^ref-2]: [Free Games Utopia – King's Quest III Redux](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) – features description, ratings, platform details
+[^ref-2]: [Free Games Utopia – King's Quest III Redux](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) – ratings, platform details, AGDI's earlier KQ1/KQ2 remakes
 [^ref-3]: [IGN – Relive the Magic of King's Quest Today](https://www.ign.com/articles/2011/02/25/relive-the-magic-of-kings-quest-today-with-kings-quest-iii-redux) – developer quotes, development history, voice cast, release announcement
 [^ref-4]: [Adventure Game Studio – King's Quest III Redux](https://www.adventuregamestudio.co.uk/play/game/1413/) – game description, user reviews, AGS Awards nominations, technical specs
 [^ref-5]: [CDRomance – King's Quest III Redux](https://cdromance.org/windows/kings-quest-iii-redux-to-heir-is-human-remake/) – version info, description of new content, download statistics
 [^ref-7]: [AGD Interactive Forums – User Review](http://www.agdinteractive.com/forum/viewtopic.php?t=15085) – detailed user review, ratings breakdown, music praise
 [^ref-8]: [MobyGames – King's Quest III Redux](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – credits, ratings, technical specifications, developer info
 [^ref-9]: [MobyGames – Infamous Adventures King's Quest III](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – alternative remake information, description, ratings
-[^ref-11]: [IMDb – King's Quest III Redux](https://www.imdb.com/title/tt1847623/) – user rating
+[^ref-11]: [IMDb – King's Quest III Redux: To Heir Is Human (Video Game 2011)](https://www.imdb.com/title/tt1847623/) – user rating 7.3/10 from 28 ratings (live page, October 28, 2026; an October 2025 [archived copy](http://web.archive.org/web/20251009214638/https://www.imdb.com/title/tt1847623/) showed 7.0 from 26)
 [^ref-13]: [TV Tropes – King's Quest III Redux](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIIRedux) – Easter eggs, story connections, gameplay changes, references
 [^ref-14]: [MobyGames – Original King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – original game reviews, technical context
 [^ref-15]: [Adventure Game Studio Forums – Dead End Discussion](https://www.adventuregamestudio.co.uk/forums/hints-tips/king-s-quest-iii-redux-to-heir-is-human-dead-end/) – dead end elimination details, porridge puzzle
 [^ref-16]: [NoobFeed – King's Quest III Redux Review](https://www.noobfeed.com/reviews/kings-quest-iii-redux-to-heir-is-human) – professional review, score, gameplay analysis
-[^ref-17]: Knoji – King's Quest III Redux Review (videogames.knoji.com) – review, 5/5 rating. Link removed 2026-10-19: the address now redirects to a coupon site, and no archived copy exists; the quote could not be re-verified.
+[^ref-17]: Knoji – King's Quest III Redux Review (videogames.knoji.com) – review, 5/5 rating. Link removed 2026-10-19: the address now redirects to a coupon site, and no archived copy exists. Text verified from a January 2026 capture; review dated May 20, 2012.
 [^ref-19]: [Abandonware DOS – King's Quest III Redux](http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491) – ratings, compatibility notes, platform info
 [^ref-20]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game plot, design background, reception
 [^ref-22]: [AGD Interactive Forums – KQ3 Redux forum index](http://www.agdinteractive.com/forum/viewforum.php?f=32&start=200) – post-release bug threads, v1.1 announcement
