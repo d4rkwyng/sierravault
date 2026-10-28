@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
@@ -92,7 +92,7 @@ In April 1994, Computer Gaming World said the CD version's voices "bring Roger W
 The Amiga release was not as well received, with some reviewers citing poor quality of the conversion and some Amiga magazines grading it as low as 19%[^ref-1].
 
 ### Modern Assessment
-In 1996, Computer Gaming World ranked Space Quest IV as #1 on its "15 Funniest Games Of All Time" list, writing that it "transformed every sci-fi time-travel cliche with Gary Owens' voice (Laugh-In, Space Ghost) providing perfect comedic counterpoint"[^ref-41]. In 2011, Adventure Gamers named Space Quest IV the 48th-best adventure game ever released[^ref-43]. In a 2002 interview, Mark Crowe stated: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics"[^ref-47].
+In 1996, Computer Gaming World ranked Space Quest IV #1 of 15 in "The Funniest Games Of All Time", writing that it "transformed every sci-fi time-travel cliche with Gary Owens' voice (Laugh-In, Space Ghost) providing perfect comedic counterpoint"[^ref-41]. Adventure Gamers' Top 100 list, republished by Kotaku in January 2012, ranked Space Quest IV the 48th-best adventure game of all time[^ref-43]. In a 2002 interview, Mark Crowe stated: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics"[^ref-47].
 
 Rock Paper Shotgun's retrospective declared "Space Quest IV is really, really funny," noting that "every single detail on every single screen has had about five jokes written for it, depending upon what cursor icon you click on it"[^ref-48]. Eurogamer observed that "SQ4 is about gags, lots and lots of gags, everywhere," praising the density of humor despite acknowledging the game's structural flaws[^ref-49]. Hardcore Gaming 101 called the voice acting "far and away the best aspect," noting that "the narrator is played by Gary Owens... and it takes on a whole new life when even the most mundane lines are delivered with a sense of sarcastic gravitas"[^ref-50].
 
@@ -100,7 +100,7 @@ On MobyGames the game holds a Moby Score of 7.5, with critics averaging 70% (27 
 
 - **MobyGames:** Moby Score 7.5; critics 70% (27 ratings); players 3.8/5 (131 ratings)[^ref-6]
 - **GOG:** 4.6/5 (770 ratings, collection)[^ref-7]
-- **Steam:** Very Positive (300 of 350 English reviews positive, about 85%; 420 reviews in all languages; collection)[^ref-10]
+- **Steam:** Very Positive (85% of 337 user reviews positive, as of October 2026; collection)[^ref-10]
 - **GameFAQs:** "Great" (75 ratings), rated "Tough" difficulty[^ref-28]
 - **IMDB:** 7.9/10 (163 votes)[^ref-38]
 - **HowLongToBeat:** about 4½ hours main story[^ref-9]
@@ -126,7 +126,7 @@ Scott Murphy has said that some changes in the CD-ROM version, such as the Galax
 
 An Atari ST version was announced via Sierra News Magazine but was later canceled[^ref-1].
 
-Space Quest IV was the only game in the series to use digitally scanned artwork for its backgrounds[^ref-31]. While Roger remained a bitmap-animated character, environments were created from acrylic paintings scanned into computer memory. Roger's sprite was constructed within a 33×16-18 square grid, with animators creating hundreds of individual frames to simulate movement[^ref-31]. Developers organized rooms using 16 priority bands (horizontal grid divisions) to control object placement and character movement[^ref-31].
+Space Quest IV was the first game in the series to use digitally scanned artwork for its backgrounds; the Space Quest wiki's development article describes them as "unlike those in any previous Space Quest games"[^ref-31]. While Roger remained a bitmap-animated character, environments were created from acrylic paintings scanned into computer memory. Roger's sprite was constructed within a 33×16-18 square grid, with animators creating hundreds of individual frames to simulate movement[^ref-31]. Developers organized rooms using 16 priority bands (horizontal grid divisions) to control object placement and character movement[^ref-31].
 
 The original game came with: a box, six 3.5" game disks (seven for Macintosh), Sierra game manual, Space Piston Magazine booklet, optional hint book for $9.95, Sierra games catalogue, and several leaflets from third-party companies[^ref-3]. The game was originally sold for $59.95[^ref-3].
 
@@ -180,8 +180,8 @@ The CD-ROM version (December 1992) featured full speech support. Apart from narr
 - CD-ROM version featured full speech support with Gary Owens as narrator[^ref-4][^ref-32]
 - MIDI music and Sound Blaster sound effects[^ref-3]
 - Platform releases: March 1991 MS-DOS floppy, December 1992 CD-ROM, 1991 Macintosh, 1992 Windows 16-bit and Amiga, 1992 PC-98[^ref-6][^ref-4]
-- **System requirements:** 286 CPU, 4MB RAM, 6MB hard drive, VGA graphics, 2x CD-ROM drive; sound support for Roland MT-32, AdLib, Sound Blaster, PS/1, and Game Blaster[^ref-22]
-- **Disk vs CD-ROM differences:** Floppy version has superior color handling and Windows compatibility; bikes in SQ1 sequence are colored in floppy but monochrome in CD (later corrected to black and white bikes for consistency); Software Excess clerk waves only in floppy version; CD-ROM originally offered speech or text (not both), though ScummVM allows simultaneous display[^ref-21][^ref-24][^ref-50]
+- **System requirements (CD-ROM version):** 286 CPU, 4MB RAM, 6MB hard drive, VGA graphics, 2x CD-ROM drive; sound support for Roland MT-32, AdLib, Sound Blaster, PS/1, and Game Blaster[^ref-22]
+- **Disk vs CD-ROM differences:** Floppy version has superior color handling and Windows compatibility; bikes in the SQ1 sequence are colored in the floppy version but black and white in the CD-ROM version, matching their black-and-white riders and correcting an inconsistency in the floppy version; Software Excess clerk waves only in floppy version; CD-ROM originally offered speech or text (not both), though ScummVM allows simultaneous display[^ref-21][^ref-24][^ref-50]
 - **Legal changes:** The electronics store was originally named "Radio Shock" but was changed to "Hz. So Good" in the CD-ROM version after legal pressure from Radio Shack[^ref-50]
 - Fully supported in ScummVM since version 1.2.0; runs on SCI engine at 320x200 resolution with 256 colors[^ref-21][^ref-57]
 - **Speed bugs on modern systems:** Cyborg encounters in SQ12 era, Sequel Police at Skate-O-Rama and Xenon, transport shuttle boarding, and timepod entry all run too fast; NewRisingSun patch addresses timing and graphics issues[^ref-22]
@@ -318,7 +318,7 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-11]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
 [^ref-17]: [Virtual Broomcloset – Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – writing contributions, Sierra lawyer anecdote
 [^ref-20]: [Adventure Classic Gaming – Mark Crowe Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) – design regrets, Sequel Police criticism
-[^ref-21]: [ScummVM Wiki – Space Quest IV](https://wiki.scummvm.org/index.php?title=Space_Quest_IV) – ScummVM 1.2.0 support, SCI engine, 320x200 resolution, 256 colors, simultaneous speech+text
+[^ref-21]: [ScummVM Wiki – Space Quest IV](https://wiki.scummvm.org/index.php?title=Space_Quest_IV) ([Wayback copy, 2025-03-21](https://web.archive.org/web/20250321024016/https://wiki.scummvm.org/index.php?title=Space_Quest_IV)) – ScummVM 1.2.0 support, SCI engine, 320x200 resolution, 256 colors, simultaneous speech+text
 [^ref-22]: [Sierra Help – Space Quest IV](https://sierrahelp.com/Games/SpaceQuest/SQ4Help.html) – system requirements, speed bugs, patches
 [^ref-23]: [SpaceQuest.net – SQ4 Easter Eggs](https://spacequest.net/sq4/eastereggs/) – Ortega time code, Lunacy easter egg, Star Wars references, H.R. Giger influence
 [^ref-24]: [SpaceQuest.net – SQ4 Fun Facts](https://spacequest.net/sq4/funfacts/) – Gary Owens biography, disk vs CD differences, Energizer Bunny permission, CD typo
@@ -337,16 +337,16 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-38]: [IMDB – Space Quest IV](https://www.imdb.com/title/tt0448772/) – 7.9/10 rating, voice cast (Jeff Bender, Scott Murphy as Vohaul, Jane Jensen, Josh Mandel), point glitch bug, trivia
 [^ref-39]: [Computer Gaming World – April 1993 (Issue 105)](https://archive.org/details/Computer_Gaming_World_Issue_105) – Charles Ardai CD-ROM review, p. 34: "CD-ROM edition is even more filling than the original", "perfect multimedia game", Gary Owens performance praised
 [^ref-40]: [Computer Gaming World – April 1994 (Issue 117)](https://archive.org/details/Computer_Gaming_World_Issue_117) – "Invasion Of The Data Stashers": "bring Roger Wilco's campy world to life", "one of his finest and funniest adventures"
-[^ref-41]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "15 Funniest Games Of All Time" list: Space Quest IV ranked #1, "transformed every sci-fi time-travel cliche with Gary Owens' voice"
+[^ref-41]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Funniest Games Of All Time" (p.113), 15 entries: Space Quest IV ranked #1, "transformed every sci-fi time-travel cliche with Gary Owens' voice"
 [^ref-42]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
-[^ref-43]: [Kotaku – Are These The 100 Best Adventure Games of All Time? (2011)](https://kotaku.com/are-these-the-100-best-adventure-games-of-all-time-452565187) – Preserves Adventure Gamers' 2011 ranking: Space Quest IV at #48
+[^ref-43]: [Kotaku – Are These The 100 Best Adventure Games of All Time?](https://kotaku.com/are-these-the-100-best-adventure-games-of-all-time-452565187) – January 4, 2012 republication of Adventure Gamers' Top 100 list: Space Quest IV at #48
 [^ref-44]: [Dragon Magazine – September 1991 (Issue 173)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23173%5Bocr%5D_djvu.txt) – Lesser family review: "humor in this graphic adventure is brilliant", "attention to detail is meticulous", "animation and music are... amazing", "a great addition to a great series of games"
 [^ref-45]: [SCI Wiki – Space Quest IV](http://sciwiki.sierrahelp.com/index.php?title=Space_Quest_IV:_Roger_Wilco_and_the_Time_Rippers) – SCI interpreter versions, release dates, patches
 [^ref-46]: IndieRetroNews – "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP" (updated 15 January 2026) *(link removed: the post links to a download of a modified copy of a commercially sold game)* – SCP enhancement release (January 15, 2026 update), DaRaSCo, palette reconstruction
 [^ref-47]: [Adventure Gamers – Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) – 2002 interview: "Space Quest 4... our masterpiece," Gary Owens casting, Sequel Police puzzle regret, VGA graphics milestone
 [^ref-48]: [Rock Paper Shotgun – Have You Played Space Quest IV](https://www.rockpapershotgun.com/have-you-played-space-quest-iv-roger-wilco-and-the-time-rippers) – Retrospective: "really, really funny," "five jokes written for every detail," Gary Owens delivery
 [^ref-49]: [Eurogamer – Retrospective: Space Quest IV](https://www.eurogamer.net/retrospective-space-quest-iv) – "SQ4 is about gags everywhere," parser vs icon interface debate, development tensions
-[^ref-50]: [Hardcore Gaming 101 – Space Quest IV](http://www.hardcoregaming101.net/space-quest-iv/) – Comprehensive retrospective: Gary Owens narration, "Two Guys' favorite," CD-ROM changes, Radio Shock legal issues
+[^ref-50]: [Hardcore Gaming 101 – Space Quest IV](http://www.hardcoregaming101.net/space-quest-iv/) ([Wayback copy, 2025-01-14](https://web.archive.org/web/20250114144046/http://www.hardcoregaming101.net/space-quest-iv/)) – Comprehensive retrospective: Gary Owens narration, "Two Guys' favorite," CD-ROM changes, Radio Shock legal issues
 [^ref-51]: [Game Developer – The 20-Year Estrangement of the Two Guys from Andromeda](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Leigh Alexander's 2012 feature: partnership dissolution, Murphy's 2006 "bitter rantings," Crowe's family obligations, Kickstarter reunion, "masterpiece" only together
 [^ref-52]: [SpaceQuest.net – SQ4 Spoofs and References](https://spacequest.net/sq4/spoofref/) – "Into the sub, flyboy", bargain bin (SQ4 hint book, King's Quest 48), "This is your brain on drugs"
 [^ref-53]: [Benshoof.org – Space Quest IV Easter Eggs](https://www.benshoof.org/blog/space-quest-iv-easter-eggs) – hidden QA credits in the bar staircase (floppy versions only)
