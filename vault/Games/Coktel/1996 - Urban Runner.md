@@ -10,18 +10,19 @@ series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
-  Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs and marketed...
+  Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs, it casts the
+  player as Max Gardner, an American journalist framed for murder in Paris.
 tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Urban Runner is an interactive movie adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1996.[^ref-1] Spanning four CD-ROMs and marketed as "the first-ever, completely interactive movie," the game combined full-motion video sequences with point-and-click adventure gameplay, placing players in the role of Max Gardner, an American journalist framed for murder in Paris.[^ref-3][^ref-24] Its box copy promised "20 hours of interactive video on four heart-pounding CDs."[^ref-3] Its hardware requirements were heavy for the time.[^ref-7]
+Urban Runner is an interactive movie adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1996.[^ref-1] Spanning four CD-ROMs and described in GameFAQs' product description as "the first-ever, completely interactive movie," the game combined full-motion video sequences with point-and-click adventure gameplay, placing players in the role of Max Gardner, an American journalist framed for murder in Paris.[^ref-3][^ref-24] GameFAQs' product description promises "20 hours of interactive video on four heart-pounding CDs."[^ref-3] Its hardware requirements were heavy for the time.[^ref-7]
 
 Originally developed under the title "Lost in Town," Urban Runner was a spiritual sequel to Coktel Vision's earlier FMV adventure Lost in Time (1993), and the working title was meant to tie the games together in a "Lost in…" series that was never continued.[^ref-4] The game displays widescreen FMV footage within a 4:3 screen, and sometimes opens a second video window to show what is happening elsewhere, building tension during key sequences.[^ref-5] Its production budget reached 15 million French francs, equivalent to nearly €3.6 million by 2023.[^ref-6][^ref-24]
 
@@ -36,7 +37,7 @@ Urban Runner received mixed reviews and, according to The Cutting Room Floor, so
 > **Release Year:** 1996
 > **Series:** Lost in... (spiritual sequel)
 > **Protagonist:** Max Gardner
-> **Sierra Lineage:** Sierra Label (Coktel); developed by Coktel Vision after Sierra's acquisition of the studio was finalised on 29 October 1993, and published by Sierra On-Line[^ref-25]
+> **Sierra Lineage:** Sierra Label (Coktel); developed by Coktel Vision after Sierra's acquisition of the studio was finalised on 29 October 1993, and published by Sierra On-Line[^ref-25][^ref-27]
 
 ## Story Summary
 
@@ -50,15 +51,15 @@ The game's tagline, "Run fast, run smart, stop and you're dead," captures the ur
 
 ### Interface and Controls
 
-Urban Runner is controlled entirely via mouse, with the box copy advertising "An intuitive 'click and grab' interface."[^ref-3] The game divides its action into two distinct phases: "Clue" turns, where players investigate environments and gather information, and "Action" turns, which require quick decisions to survive dangerous situations.[^ref-14]
+Urban Runner is controlled entirely via mouse, and GameFAQs' product description promises "An intuitive 'click and grab' interface."[^ref-3] The game divides its action into two distinct phases: "Clue" turns, where players investigate environments and gather information, and "Action" turns, which require quick decisions to survive dangerous situations.[^ref-14]
 
 During exploration, players move between screens and interact with objects and characters by clicking on hotspots.[^ref-11] In a 2019 MobyGames user review, Katakis wrote that "Every scene in the game was photographed and digitally inserted into the game."[^ref-26] A built-in hint system offers only three "jokers" for the whole game, and the jokers are disabled in some areas.[^ref-13]
 
 ### Structure and Progression
 
-The game spans four CD-ROMs.[^ref-1] The narrative is largely linear. At some points players choose whether to control Max or Adda, but both characters' sections must be completed to progress.[^ref-24][^ref-13] Playing two different characters was one of the game's advertised features.[^ref-3]
+The game spans four CD-ROMs.[^ref-1] The narrative is largely linear. At some points players choose whether to control Max or Adda, but both characters' sections must be completed to progress.[^ref-24][^ref-13] GameFAQs' product description lists playing "the role of two different characters" among the game's features.[^ref-3]
 
-The game includes a replay option that allows players to review crucial scenes.[^ref-3] Walkthroughs advise saving often, since the bodyguard chasing Max early in the game can catch and kill him.[^ref-15]
+The same description lists a "Replay option" that "allows quick review of crucial scenes."[^ref-3] Walkthroughs advise saving often, since the bodyguard chasing Max early in the game can catch and kill him.[^ref-15]
 
 ### Puzzles and Mechanics
 
@@ -101,7 +102,7 @@ The Cutting Room Floor attributes the game's poor sales to "its heavy (for the t
 
 Urban Runner was developed at Coktel Vision as a spiritual sequel to Lost in Time (1993).[^ref-4] Its working title, "Lost in Town," was meant to tie the games together in a cohesive "Lost in…" series. The game was renamed Urban Runner before release, and Adventure Gamers says the series was ultimately discontinued "when Sierra was sold off."[^ref-4] "Lost in Town" remains the game's subtitle.[^ref-1]
 
-A MobyGames trivia entry says Coktel was "taken over by Sierra during the creation of the game, which changed marketing strategies."[^ref-20] The dates do not support this. Sierra's acquisition of Coktel was finalised on 29 October 1993.[^ref-25] In December 1995, Les Échos described the game as a production of the already-merged "Coktel-Sierra" that had been in development for about eighteen months.[^ref-6][^ref-24] That places the start of development after the takeover.
+A MobyGames trivia entry says Coktel was "taken over by Sierra during the creation of the game, which changed marketing strategies."[^ref-20] The dates do not support this. Sierra's acquisition of Coktel was finalised on 29 October 1993.[^ref-25][^ref-27] In December 1995, Les Échos described the game as a production of the already-merged "Coktel-Sierra" that had been in development for about eighteen months.[^ref-6][^ref-24] If the eighteen months ran up to the planned February 1996 release, work began around mid-1994, after the deal closed.[^ref-6]
 
 In its December 1995 article, Les Échos described the project as an interactive CD game in which the behaviour of characters moving through fully filmed urban settings would be handled by an artificial-intelligence module. This was the journalist's description, not a quote from the developers.[^ref-6]
 
@@ -128,12 +129,12 @@ The FMV content is presented in a widescreen format, letterboxed within the stan
 **CD-ROM Version:**[^ref-10]
 - **Resolution:** 640×480
 - **Color Depth:** 256 colors (8-bit) or 32,000 colors (high colour)[^ref-10]
-- **Media:** 4 CD-ROMs (2.0 GB total)[^ref-21]
+- **Media:** 4 CD-ROMs[^ref-1]; MyAbandonware's download is 2.0 GB[^ref-8]
 - **Minimum CPU:** Intel i486 DX2 66 MHz[^ref-10]
 - **Recommended CPU:** Intel Pentium 90 MHz[^ref-10]
 - **RAM:** 8 MB minimum[^ref-16]
 - **Hard Drive:** 20 MB[^ref-16]
-- **CD-ROM Drive:** 2x speed minimum[^ref-10]
+- **CD-ROM Drive:** 2x speed minimum, 4x recommended (PCGamingWiki); MobyGames lists 4x as the minimum[^ref-10][^ref-1]
 - **Video:** SVGA card[^ref-16]
 
 ### Cut Content
@@ -145,8 +146,8 @@ The game's data files contain several unused or alternate cinematics and unused 
 | Release | Date | Platform | Notes |
 |---------|------|----------|-------|
 | UK | July 1996 | Windows | Initial release[^ref-24] |
-| North America | July 25, 1996 | Windows 3.x / Windows | North American release[^ref-10][^ref-24] |
-| ScummVM | 2.1.2-2.9.0 | Multiple | Modern compatibility[^ref-5] |
+| North America | July 25, 1996 | Windows 3.x / Windows | North American release[^ref-10][^ref-24][^ref-28] |
+| ScummVM | — | Multiple | Supported by ScummVM's Gob engine since ScummVM 1.3.0[^ref-10][^ref-29] |
 
 MobyGames and PCGamingWiki list only Windows releases. TCRF and Wikipedia's infobox also list MS-DOS.[^ref-1][^ref-10][^ref-7][^ref-24]
 
@@ -154,7 +155,7 @@ MobyGames and PCGamingWiki list only Windows releases. TCRF and Wikipedia's info
 - English (UK and North American releases)[^ref-24]
 - French, German, Spanish[^ref-10]
 - Italian (expanded intro dialogue)[^ref-7]
-- Hebrew (as "Avudim BaIr")[^ref-1]
+- Hebrew title: "Avudim BaIr" (MobyGames records the title only, not a Hebrew release)[^ref-1][^ref-29]
 
 MyAbandonware lists releases in France, Germany and the Netherlands.[^ref-8]
 
@@ -169,7 +170,7 @@ Modern players can run Urban Runner through ScummVM. In 2025, The Collection Cha
 - **Cuddly Toy Weapon:** When a thug ambushes Max in his apartment, one option is to throw a cuddly toy at him. The plan does not work.[^ref-18] A GOG Dreamlist user singled this out: "If that doesn't sell you on the game, then I don't know what will."[^ref-23]
 - **B-Movie Aesthetic:** TV Tropes says that "the game invokes a deliberate B-movie feel, and the story gradually becomes sillier as it goes on."[^ref-18]
 - **Character Introduction:** Max's opening narration includes the line "Daylight at last. I took a deep breath of fresh air already imagining myself sprawled out on my comfy sofa with a glass of my best whiskey in my hand."[^ref-9]
-- **Setting Location:** The game is set primarily in the city of Clichy, a commune in the northern suburbs of Paris.[^ref-1]
+- **Setting Location:** MobyGames' trivia says the game is set in Clichy, France.[^ref-1]
 
 ### Multiple Endings
 
@@ -179,7 +180,7 @@ At the very end of the story, the game asks whether Adda dies or survives. TV Tr
 
 | Character | Actor |
 |-----------|-------------|
-| Max Gardner | Brandon Massey[^ref-1] |
+| Max Gardner | Brandon Massey[^ref-9][^ref-24] |
 
 Brandon Massey has two acting credits to his name, Urban Runner and Police Quest: Open Season.[^ref-11] Max narrates the game in voiceover, and apart from a few directly spoken lines the story is told through this narration.[^ref-4] IMDb lists France as the country of origin.[^ref-9]
 
@@ -249,3 +250,6 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 [^ref-24]: [Wikipedia – Urban Runner](https://en.wikipedia.org/wiki/Urban_Runner) – plot, Clue/Action sections, Brandon Massey, release dates, Les Échos summary
 [^ref-25]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Sierra acquisition finalised 29 October 1993, post-Urban Runner shift to educational titles
 [^ref-26]: [MobyGames – Urban Runner reviews](https://www.mobygames.com/game/3809/urban-runner/reviews/) – Katakis user review (2019)
+[^ref-27]: [Sierra On-Line, Inc. Form 10-K for fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
+[^ref-28]: [Online Gaming Review – News, July 1996 (Wayback, 1997)](https://web.archive.org/web/19970227065825/http://www.ogr.com/news/news0796.html) – news for July 25, 1996: Urban Runner "is now available"
+[^ref-29]: [ScummVM Wiki – Urban Runner](https://wiki.scummvm.org/index.php?title=Urban_Runner) – Gob (DEV6) engine, supported since ScummVM 1.3.0, Hebrew title "Avudim BaIr"
