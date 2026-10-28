@@ -3,14 +3,14 @@ title: 'Gobliins 2: The Prince Buffoon'
 release_year: 1992
 developer: Coktel Vision
 designer: [Pierre Gilhodes]
-publisher: Sierra On-Line
+publisher: [Coktel Vision, Sierra On-Line]
 genre: Puzzle
 platforms: [DOS, Amiga, Atari ST, Mac, iOS]
 series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision, published by Coktel Vision in Europe in 1992 and by
@@ -19,7 +19,7 @@ tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -44,17 +44,17 @@ The Gobliiins series earned recognition for its unique visual identity, largely 
 
 The kingdom faces a crisis when Prince Buffoon, the son of King Angoulafre, is kidnapped by a demon named Amoniak.[^ref-2] Amoniak holds the prince in his castle of Domenic.[^ref-9] With the royal heir in grave danger, two unlikely heroes step forward to undertake the perilous rescue mission.
 
-The protagonists are Fingus and Winkle, two goblins with dramatically contrasting personalities.[^ref-10] Fingus is described as "well-mannered, intelligent and shy," an introvert who is polite and good with machines.[^ref-11] Winkle, by contrast, is characterized as "dumb enough to not know how to push a button in the first screen, but who is almost terminally brave."[^ref-10] Despite their differences—or perhaps because of them—they are the only goblins actually crazy enough to volunteer for this dangerous adventure.[^ref-12]
+The protagonists are Fingus and Winkle, two goblins with dramatically contrasting personalities.[^ref-10] Fingus is described as "well-mannered, intelligent, and shy,"[^ref-4] an introvert who is intelligent, polite and good with machines.[^ref-11] Winkle, by contrast, is characterized as "dumb enough to not know how to push a button in the first screen, but who is almost terminally brave."[^ref-10] Despite their differences—or perhaps because of them—they are the only goblins actually crazy enough to volunteer for this dangerous adventure.[^ref-12]
 
 The journey takes Fingus and Winkle through seven different worlds, "each world stranger than the last."[^ref-12] Along the way, they encounter a wise man named Modemus, who provides guidance for their quest—though his name is only revealed in the game manual.[^ref-2] As the goblins progress through these killer kingdoms, they must combine their unique abilities and work together to overcome obstacles that neither could face alone.
 
-The story reaches its climax as Fingus and Winkle finally confront Amoniak in his domain. Near the end of the game, players even gain limited control of Prince Buffoon himself as part of the final rescue efforts.[^ref-9] The tale is told with the series' trademark cartoon-style humor, creating what promotional materials described as "an incredible adventure filled with hilarious jokes all taking place in a cartoon-type atmosphere."[^ref-13]
+The story reaches its climax as Fingus and Winkle finally confront Amoniak in his domain. Players also have limited control of Prince Buffoon himself.[^ref-9] The tale is told with the series' trademark cartoon-style humor, creating what promotional materials described as "an incredible adventure filled with hilarious jokes all taking place in a cartoon-type atmosphere."[^ref-13]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Gobliins 2 employs a point-and-click interface that allows players to control both goblin characters, switching between Fingus and Winkle as needed to solve puzzles.[^ref-14] The game uses a simple interaction system where players select a character and then click on objects or locations in the environment to perform actions.[^ref-15] A notable improvement over the original game is the ability to give orders to both characters simultaneously, enabling complex timing-based puzzles.[^ref-4]
+Gobliins 2 employs a point-and-click interface that allows players to control both goblin characters, switching between Fingus and Winkle as needed to solve puzzles.[^ref-14] The game uses a simple interaction system where players select a character and then click on objects or locations in the environment to perform actions.[^ref-2] A notable improvement over the original game is the ability to give orders to both characters simultaneously, enabling complex timing-based puzzles.[^ref-4]
 
 The interface includes a "Joker" hint system accessible via the top main menu, which provides sketchy solutions for the current location when players become stuck.[^ref-16] This feature helps mitigate the game's notorious difficulty, though hints are limited in number. The CD-ROM version includes voices throughout the entire game,[^ref-2] replacing the "goblinish" talk of the floppy disk versions with real-language voice acting.[^ref-4][^ref-40]
 
@@ -94,24 +94,22 @@ Reviews consistently highlighted both the game's strengths and its demanding puz
 
 Modern retrospectives continue to view Gobliins 2 favorably, with appreciation for its unique charm and puzzle design. Adventure Classic Gaming awarded the game 4 out of 5 stars (Very Good) in a February 2010 review, concluding that "Gobliins 2: The Prince Buffoon is a worthy successor to Gobliiins. Despite giving you control of only 2 characters instead of 3, the game still offers plenty of challenging and occasionally frustrating puzzles."[^ref-2]
 
-User reviews on preservation sites demonstrate enduring affection for the game. One enthusiastic reviewer on Downloads Khinsider proclaimed it "One Of the BEST old school adventure games ever!! Awesome GFX and play! I mean it! Totally undernoted, but really kicks major a$$."[^ref-18]
-
 **Aggregate Scores:**
-- **MobyGames:** 7.5/10 Moby Score; critics average 76% (30 reviews)[^ref-46]
+- **MobyGames:** 7.5/10 Moby Score; critics average 76% (29 reviews, as of January 2026)[^ref-46]
 
 ## Development
 
 ### Origins
 
-The Gobliiins series was created by Coktel Vision, whose visual look came from French artist Pierre Gilhodes.[^ref-4] The original Gobliiins (1991) established the core concept of controlling multiple goblin characters with complementary abilities, with the number of "i"s in the title cleverly indicating how many characters players would control.[^ref-22] The success of the first game led to the development of this sequel, which streamlined the gameplay to two characters while maintaining the series' signature charm.
+The Gobliiins series was created by Coktel Vision, whose visual look came from French artist Pierre Gilhodes.[^ref-4] The original Gobliiins (1991) established the core concept of controlling multiple goblin characters with complementary abilities, with the number of "i"s in the title cleverly indicating how many characters players would control.[^ref-22] This sequel reduced the number of playable characters to two.[^ref-4]
 
-[[Pierre Gilhodes]], who "became a graphic artist at a very early age," was instrumental in defining the visual identity of the series.[^ref-29] His distinctive cartoon aesthetic gave the Gobliiins games their immediately recognizable look and contributed significantly to their appeal. Gilhodes is credited as the game's creator, with [[Muriel Tramis]] as project manager.[^ref-44]
+[[Pierre Gilhodes]], who "became a graphic artist at a very early age," was instrumental in defining the visual identity of the series.[^ref-29] Gilhodes is credited as the game's creator, with [[Muriel Tramis]] as project manager.[^ref-44]
 
 ### Production
 
-Coktel Vision, described as a studio that "already produced quality adventure data in the mid-1980s," brought their experience to bear on Gobliins 2.[^ref-16] The development team sought to refine the formula of the original while addressing some of its limitations. The decision to reduce the character count from three to two was accompanied by the addition of new mechanics, including the ability to travel between rooms and give simultaneous orders.[^ref-4]
+Coktel Vision, described as a studio that "already produced quality adventure data in the mid-1980s," brought their experience to bear on Gobliins 2.[^ref-16] The decision to reduce the character count from three to two was accompanied by the addition of new mechanics, including the ability to travel between rooms and give simultaneous orders.[^ref-4]
 
-The game was developed for multiple platforms simultaneously, with versions created for MS-DOS, Amiga, and Atari ST.[^ref-3] The Macintosh version also released in 1992. M.D.O. is credited alongside Coktel Vision for development work on certain versions.[^ref-3] Copy protection for the game involved "a color graph with reference codes" that players needed to consult.[^ref-3]
+Versions for MS-DOS, Amiga, Atari ST and Macintosh were all released in 1992.[^ref-3] M.D.O. is credited alongside Coktel Vision for development work on certain versions.[^ref-3] Copy protection used a graph of colours: as one MobyGames user review describes it, "the goblin master would tell you a certain reference code I.E. F-12 and you would look for F-12 and click on the corresponding colour".[^ref-3]
 
 **Development Credits (DOS):**[^ref-44]
 - **Created by:** Pierre Gilhodes
@@ -136,7 +134,7 @@ The CD-ROM version represented a significant technical enhancement, adding voice
 - **Minimum RAM:** 2 MB[^ref-2]
 - **Minimum CPU:** 386/16 or better[^ref-2]
 - **Install Size:** 2.7 megs (11 files)[^ref-9]
-- **Media:** 2x 3.5" 1.44MB HD diskettes or 3x 5.25" 1.2MB HD floppy disks, or CD-ROM[^ref-9]
+- **Media:** 2x 3.5" 1.44MB HD diskettes or 3x 5.25" 1.2MB HD floppy disks[^ref-9]
 
 **CD-ROM Version (Gobliiins 1 & 2, France, 1995):**[^ref-30]
 - **Media:** 2 x CD, Enhanced
@@ -160,7 +158,7 @@ The CD-ROM version represented a significant technical enhancement, adding voice
 | Version | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
 | 1.0 | 1992 | DOS, Amiga, Atari ST | Europe | Initial release[^ref-3] |
-| CD-ROM | 1992-1993 | DOS | Multi-region | Added voice acting[^ref-2] |
+| CD-ROM | - | DOS | Multi-region | Added voice acting[^ref-2] |
 | Gobliiins 1 & 2 CD | October 20, 1995 | DOS | France | Sierra Originals reissue on 2 CDs[^ref-30] |
 | 1.03 | - | DOS | - | Reported to work in DOSBox[^ref-35] |
 | iOS | 2011 | iPhone | Worldwide | Mobile port by Bulkypix[^ref-3] |
@@ -201,7 +199,7 @@ The CD-ROM version featured voices throughout the game,[^ref-2] replacing the "g
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Gobliins 2 are not documented in available sources, the game's success is evidenced by its inclusion in various compilations and re-releases over the years. The Sierra Originals budget line released a combined Gobliiins 1 & 2 package in October 1995, demonstrating the franchise's ongoing commercial viability.[^ref-30]
+No sales figures for Gobliins 2 have been found in available sources. The Sierra Originals budget line released a combined Gobliiins 1 & 2 package in October 1995.[^ref-30]
 
 ### Collections
 
@@ -212,7 +210,7 @@ The game has appeared in several compilation releases:
 
 ### Fan Projects
 
-The Gobliiins series has maintained a dedicated fan following. The game is fully supported by ScummVM, the open-source adventure game interpreter, allowing it to run on modern systems without DOSBox.[^ref-16] Series creator Pierre Gilhodes returned to develop Gobliiins 4 (2009) and Gobliiins 5 (2023), the latter created using Adventure Game Studio and released independently through itch.io and Steam.[^ref-42]
+The game is fully supported by ScummVM, the open-source adventure game interpreter, allowing it to run on modern systems without DOSBox.[^ref-16] Series creator Pierre Gilhodes returned to develop Gobliiins 4 (2009) and Gobliiins 5 (2023), the latter created using Adventure Game Studio and released independently through itch.io and Steam.[^ref-4][^ref-42]
 
 ### Related Publications
 
@@ -221,11 +219,7 @@ The Gobliiins series has maintained a dedicated fan following. The game is fully
 
 ### Critical Perspective
 
-Gobliins 2: The Prince Buffoon represents a significant refinement of the formula established by the original Gobliiins. The decision to reduce the character count while expanding world navigation options demonstrated Coktel Vision's willingness to iterate on their design rather than simply produce more of the same. The game exemplifies the creative adventure game design that French developers brought to the genre during the early 1990s.
-
-The series occupies a unique niche in adventure gaming history—distinct from the narrative-driven Sierra and LucasArts adventures of the era, the Gobliiins games revolve around figuring out correct sequences of actions.[^ref-40] This pure puzzle approach, combined with the inability to die, made the games more accessible in some ways while their fiendish puzzle design made them formidable challenges. As one retrospective noted, the games are notable for their "comical humor, crafty puzzles, reactive scenes and well-drawn animations."[^ref-9]
-
-Pierre Gilhodes' return to the series with Gobliiins 4 (2009) and Gobliiins 5 (2023) speaks to the enduring appeal of these whimsical goblin adventures.[^ref-42]
+The Gobliiins games revolve around figuring out correct sequences of actions.[^ref-40] As one retrospective noted, the games are notable for their "comical humor, crafty puzzles, reactive scenes and well-drawn animations."[^ref-9]
 
 ## Downloads
 
@@ -263,11 +257,9 @@ Pierre Gilhodes' return to the series with Gobliiins 4 (2009) and Gobliiins 5 (2
 [^ref-12]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – walkthrough introduction quote about Fingus and Winkle
 [^ref-13]: [Internet Archive – Gobliins 2 Demo](https://archive.org/details/Gobliins2ThePrinceBuffoonDemo) – promotional description
 [^ref-14]: [Walkthrough King – Gobliins 2](https://www.walkthroughking.com/text/gobliins2.aspx) – gameplay description
-[^ref-15]: DOSGames.com – Gobliins 2 *(download link removed: the game is sold commercially)* – interface, resolution
 [^ref-16]: [Jefklak's Codex – Gobliins 2](https://jefklakscodex.com/games/pc/gobliins-2/) – Joker hint system, Coktel Vision history, ScummVM support
-[^ref-18]: [Downloads Khinsider – Gobliins 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gobliins-2-original-game-rip) – track listing, user review quote
 [^ref-19]: [Sierra Chest – Gobliins 2 Walkthrough](https://www.sierrachest.com/index.php?a=games&id=145&fld=walkthrough) – goblins cannot die quote
-[^ref-20]: [The Spoiler – Gobliins 2 Solution](https://www.justadventure.com/walkthrough/gobliins-2-the-prince-buffoon/) – difficulty description, character colors
+[^ref-20]: [Just Adventure – Gobliins 2 walkthrough (Cheal & Dettelbach)](https://www.justadventure.com/walkthrough/gobliins-2-the-prince-buffoon/) – difficulty description, character colors
 [^ref-21]: [Web Archive – MobyGames 2008](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – Amiga Action score, release information
 [^ref-22]: [Gamicus – Gobliiins](https://gamicus.fandom.com/wiki/Gobliiins) – series overview, title pun, Fingus whistling easter egg
 [^ref-23]: MyAbandonware – Gobliins 2 *(download link removed: the game is sold commercially)* – user rating, HOTUD review quotes, DOSBox support
@@ -282,8 +274,8 @@ Pierre Gilhodes' return to the series with Gobliiins 4 (2009) and Gobliiins 5 (2
 [^ref-39]: [Sierra Help – New Sierra Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – Vista/Windows 7 CD ripping issues
 [^ref-40]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – series overview, cover art discrepancy, CD voice acting replacing floppy "Goblinese"
 [^ref-41]: [Sierra Chest – Goblins 1 & 2](https://sierrachest.com/index.php?a=games&id=534&title=goblins-1-2&fld=box) – Inca trailer inclusion
-[^ref-42]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – Gobliiins 5 information, Adventure Game Studio
+[^ref-42]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – Gobliiins 5 information
 [^ref-44]: [MobyGames – Gobliins 2 DOS Credits](https://www.mobygames.com/game/2625/gobliins-2/credits/dos/) – created by Pierre Gilhodes, project manager Muriel Tramis, program manager Roland Lacoste, programming M.D.O. and Emmanuel Maguet, music Charles Callet
 [^ref-45]: [MobyGames – Gobliins 2 Releases](https://www.mobygames.com/game/2625/gobliins-2/releases/) – Coktel Vision published 1992 releases; Sierra On-Line published the US DOS release, Feb 10, 1993
-[^ref-46]: [MobyGames – Gobliins 2](https://www.mobygames.com/game/2625/gobliins-2/) – Moby Score 7.5, critics 76% (30)
+[^ref-46]: [MobyGames – Gobliins 2](https://www.mobygames.com/game/2625/gobliins-2/) – Moby Score 7.5, critics 76% (29), per a January 2026 capture
 [^ref-47]: [GOG – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – includes Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3
