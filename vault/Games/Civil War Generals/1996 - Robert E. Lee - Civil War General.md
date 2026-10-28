@@ -9,20 +9,20 @@ platforms: [Microsoft Windows]
 series: Civil War Generals
 protagonist: Robert E. Lee
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: 'Robert E. Lee: Civil War General is a turn-based strategy wargame developed
   by Impressions Games and released by Sierra On-Line on August 24, 1996, for Windows 3.1 and Windows 95.'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Robert E. Lee: Civil War General is a turn-based strategy wargame released by Sierra On-Line on August 24, 1996[^ref-9]. Developed by Impressions Games and designed by Jeffrey Fiske, the game puts players in command of the Confederate Army of Northern Virginia during the American Civil War[^ref-9]. As described in the game's official marketing, it challenges players to "Secede where others have failed!" and represents "a game which truly recreates the essence of Civil War combat!!"[^ref-53]. 
 
-The game was conceived with the philosophy to "create a product that Civil War enthusiasts could play, regardless of prior gaming experience"[^ref-9], making it accessible to newcomers while maintaining historical depth. GameSpot's review opened by noting that Robert E. Lee "was one of the most respected figures of the Civil War. Admired by both friend and foe, he demonstrated his tactical brilliance on numerous occasions"[^ref-17]. The game became the best-selling wargame of 1996[^ref-9] and spawned a sequel, Grant, Lee, Sherman: Civil War Generals 2, in 1997[^ref-9].
+The game was conceived with the philosophy to "create a product that Civil War enthusiasts could play, regardless of prior gaming experience"[^ref-9]. GameSpot's review opened by noting that Robert E. Lee "was one of the most respected figures of the Civil War. Admired by both friend and foe, he demonstrated his tactical brilliance on numerous occasions"[^ref-17]. According to Sierra's InterAction magazine, it was the best-selling wargame of 1996[^ref-9], and it spawned a sequel, Grant, Lee, Sherman: Civil War Generals 2, in 1997[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-9]
@@ -39,21 +39,21 @@ The game was conceived with the philosophy to "create a product that Civil War e
 
 The game covers Robert E. Lee's military campaigns from 1861 to 1865, putting players "in Lee's boots and Traveler's saddle as the Army of Northern Virginia takes on the Army of the Potomac"[^ref-57]. The campaign links eight major battles, featuring historical engagements such as Antietam and Gettysburg, plus a fictional assault on Washington D.C.[^ref-31]; the Washington battle is only reached if players do better than Lee himself[^ref-48].
 
-As described by GameSpot reviewer Kevin Mical, Lee was a commander who was "frequently outnumbered by the Union forces" yet "managed to confuse, confound, and frustrate the Union generals that faced him on the battlefield"[^ref-17]. The game's description notes that "even though Lee was not present during the First Battle of Bull Run, the designers included this significant battle because of it's [sic] importance"[^ref-7].
+As described by GameSpot reviewer Kevin Mical, Lee was a commander who was "frequently outnumbered by the Union forces" yet "managed to confuse, confound, and frustrate the Union generals that faced him on the battlefield"[^ref-17]. A retail listing's description notes that "even though Lee was not present during the First Battle of Bull Run, the designers included this significant battle because of it's [sic] importance"[^ref-7].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game uses a top-down perspective with hex-based tactical maps[^ref-31] and supports mouse and keyboard input[^ref-60]. Players issue commands to army factions of "infantry, cavalry, artillery and specialists"[^ref-8] across 13 different terrain types[^ref-7]. The interface was designed to be accessible to newcomers while maintaining strategic depth, following Fiske's goal of a product that Civil War enthusiasts could play "regardless of prior gaming experience"[^ref-9].
+The game uses a top-down perspective[^ref-31] with hex-based tactical maps[^ref-57] and supports mouse and keyboard input[^ref-60]. Players issue commands to army factions of "infantry, cavalry, artillery and specialists"[^ref-7][^ref-8] across 13 different terrain types[^ref-7].
 
 The game features three difficulty levels and includes a tutorial[^ref-17]. Individual battles can be fought as either North or South, and two players can play head-to-head by modem or serial link[^ref-13][^ref-57]; MobyGames lists the multiplayer options as modem and null-modem cable, with hot seat also listed for the Windows 3.1 version[^ref-60]. A human player can also be drafted to command the Union in the campaign, though only with historical setups and forces[^ref-57].
 
 ### Structure and Progression
 
-Robert E. Lee: Civil War General employs a campaign system "similar to SSI's popular Panzer General"[^ref-48], with the campaign mode only playable from the Confederate perspective[^ref-8]. As one player noted, "If you win battles you gain more resources, if you lose you run out"[^ref-18], creating a resource management element that drives strategic decision-making.
+Robert E. Lee: Civil War General employs a campaign system "similar to SSI's popular Panzer General"[^ref-48], with the campaign mode only playable from the Confederate perspective[^ref-8][^ref-48]. As one player noted, "If you win battles you gain more resources, if you lose you run out"[^ref-18], creating a resource management element that drives strategic decision-making.
 
-The game includes eight battles: seven historical and one hypothetical[^ref-57]. Players can also fight individual battles from either the Union or Confederate perspective, providing flexibility beyond the main campaign[^ref-8]. Old Games' review praised the game's "solid game play, a high degree of historical accuracy and superb background notes in the manual"[^ref-35].
+The game includes eight battles: seven historical and one hypothetical[^ref-57]. Players can also fight individual battles from either the Union or Confederate perspective, providing flexibility beyond the main campaign[^ref-8][^ref-48]. Old-Games.com's review praised the game's "solid game play, a high degree of historical accuracy and superb background notes in the manual"[^ref-35].
 
 ### Combat and Mechanics
 
@@ -71,12 +71,12 @@ The game received generally positive reviews from the gaming press. It was a fin
 |-------------|-------|-------|
 | PC Gamer | 84% | "A serious wargame, wrapped in a friendly multimedia package"[^ref-54] |
 | GameSpot | 8.2/10 | "If you like Civil War games, this one deserves a place by your computer"[^ref-17] |
-| MobyGames | 73% | Critics average, based on 14 ratings[^ref-31] |
+| MobyGames | 73% | Critics average, based on 14 ratings (as of October 2026)[^ref-31] |
 | My Abandonware | 4.29/5 | Based on 56 user votes[^ref-34] |
 
 ### Modern Assessment
 
-Modern players continue to appreciate the game's historical value and educational merit. One My Abandonware user commented that "this game is a valuable teaching tool, and full of history"[^ref-34], while a GOG user wrote that it was where they "cut my teeth learning the art of battlefield strategy"[^ref-18]. However, technical issues persist, with one player recalling that the game "always crashed halfway throught [sic] the campaign"[^ref-12] and players needing compatibility mode to run it on later Windows versions[^ref-14].
+Later player comments have praised the game's historical value. One My Abandonware user commented that "this game is a valuable teaching tool, and full of history"[^ref-34], while a GOG user wrote that it was where they "cut my teeth learning the art of battlefield strategy"[^ref-18]. However, technical issues persist, with one player recalling that the game "always crashed halfway throught [sic] the campaign"[^ref-12] and players needing compatibility mode to run it on later Windows versions[^ref-14].
 
 The same forum thread observed that "it is obvious someone at Matrix liked it also," as "Several features from that game are VERY similar to FOF," a later Matrix Games title[^ref-12].
 
@@ -92,21 +92,21 @@ Next Generation's report on Sierra's 1996 schedule listed the game for June as "
 
 The game was designed by Jeffrey Fiske with music composed by Jason P. Rinaldi, Keith Zizza, and Steven Serafino[^ref-9][^ref-59]. MobyGames credits Impressions founder [[David Lester]] as executive producer and Chris Beatrice as art director[^ref-61]. The team researched the war through history books and, increasingly, the Internet, and worked to reproduce the historical battlefields, including the exact placement of each brigade[^ref-9]. It worked with documentary maker Jay Wertz to obtain full motion video of Civil War reenactments, and licensed artwork by Civil War painter Mort Künstler[^ref-9].
 
-The final game ran on Windows 3.1 or Windows 95[^ref-57]. Bull Run was included despite Lee's absence from that engagement because of the battle's importance[^ref-7].
+The final game ran on Windows 3.1 or Windows 95[^ref-57]. Bull Run (First Manassas) was included despite Lee's absence from that engagement because of the battle's importance[^ref-7][^ref-57].
 
 ### Technical Achievements
 
-The Windows 3.1 version supports 640×480, 800×600 and 1024×768 resolutions, with 256-color graphics required[^ref-60]. PC Gamer listed the requirements as a 486DX33, 8 MB RAM, a double-speed CD-ROM drive and Windows 3.1 or higher[^ref-54]; MobyGames notes 12 MB of hard drive space[^ref-60].
+MobyGames lists 640×480, 800×600 and 1024×768 resolutions for the Windows 3.1 version, and 640×480 with 256 colors required for the Windows 95 version[^ref-60]. PC Gamer listed the requirements as a 486DX33, 8 MB RAM, a double-speed CD-ROM drive and Windows 3.1 or higher[^ref-54]; MobyGames notes 12 MB of hard drive space[^ref-60].
 
 Audio design included period music; one GOG user remembered hearing "The Bonnie Blue Flag" during play[^ref-18]. The game also features professional voice acting[^ref-7].
 
 ## Legacy
 
-Robert E. Lee: Civil War General established a successful franchise for Sierra, leading to the 1997 sequel Grant, Lee, Sherman: Civil War Generals 2[^ref-9], though a planned third game was ultimately cancelled[^ref-9]. The game's success as the best-selling wargame of 1996[^ref-9] demonstrated the market appetite for accessible historical strategy games.
+Robert E. Lee: Civil War General established a successful franchise for Sierra, leading to the 1997 sequel Grant, Lee, Sherman: Civil War Generals 2[^ref-9], though a planned third game was ultimately cancelled[^ref-9].
 
 ### Design Philosophy and Accessibility
 
-Jeffrey Fiske's design philosophy prioritized making the game accessible to Civil War enthusiasts "regardless of prior gaming experience"[^ref-9]. Fiske said his team sought to offer accessibility akin to SSI's Panzer General but with greater historical accuracy and realism[^ref-9]. Players continue to praise it as "a valuable teaching tool, and full of history"[^ref-34].
+Fiske sought to make the gameplay streamlined and intuitive without sacrificing historical realism, and said his team aimed for accessibility akin to SSI's Panzer General but with greater historical accuracy and realism[^ref-9].
 
 ### Technical and Multimedia Achievements
 
@@ -134,7 +134,7 @@ Impressions placed heavy emphasis on the game's multimedia content, and the ency
 [^ref-18]: [GOG Community Dreamlist](https://www.gog.com/dreamlist/game/robert-e-lee-civil-war-general-1996) - Player memories and experiences
 [^ref-31]: [MobyGames Main Entry](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/) - Comprehensive game database
 [^ref-34]: [My Abandonware Game Page](https://www.myabandonware.com/game/robert-e-lee-civil-war-general-9zr) - User reviews and ratings
-[^ref-35]: [Old Games Download Page](https://www.old-games.com/download/9946/robert-e-lee-civil-war) - Game review and download
+[^ref-35]: [Old-Games.com – Robert E. Lee: Civil War General review](https://www.old-games.com/download/9946/robert-e-lee-civil-war) - Review: "solid game play, a high degree of historical accuracy and superb background notes in the manual"
 [^ref-48]: [Web Archive CD Magazine Preview](https://web.archive.org/web/19970101040007/http://www.cdmag.com:80/war_vault/robert_e_lee_general/page1.html) - Early game preview
 [^ref-50]: [Web Archive Next Generation News](https://web.archive.org/web/19970606062133/http://www.next-generation.com:80/news/041096e.html) - 1996 release schedule
 [^ref-52]: [Web Archive OGR August 1996](https://web.archive.org/web/19961019035640/http://www.ogr.com:80/news/news0896.html) - Contemporary release coverage
