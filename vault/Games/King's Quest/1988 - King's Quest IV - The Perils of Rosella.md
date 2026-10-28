@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As one of the first PC games
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -56,11 +56,11 @@ Unlike the AGI version where typing did not pause the game, the SCI version paus
 
 ### Structure and Progression
 
-Like King's Quest III before it, the game runs on a real-time clock: its story covers about 24 hours (8:00 A.M. to 8:00 A.M.), played out over roughly six hours of real time, with some activities possible only during the day and others only at night.[^ref-14][^ref-15][^ref-16] Night transforms Tamir dramatically, with a haunted mansion becoming accessible and zombies emerging from a cemetery.[^ref-9]
+Like King's Quest III before it, the game runs on a real-time clock: its story covers about 24 hours (8:00 A.M. to 8:00 A.M.), played out over roughly six hours of real time, with some activities possible only during the day and others only at night.[^ref-14][^ref-15][^ref-16] The haunted mansion, Whateley Manor, can be entered by day, but its ghosts appear after night falls, when zombies also rise from the graveyards beside it.[^ref-51][^ref-52][^ref-53]
 
 The world design follows a geographic pattern where safety generally lies to the west (beaches and meadows) while danger increases to the east (forests and mountains). Lolotte's fortress crowns the eastern mountains, providing the climactic location.[^ref-17]
 
-The game features approximately 95 rooms, with roughly 30 featuring distinct night versions, effectively creating one of the largest adventure games of its era.[^ref-5][^ref-18] Players can complete the main quests in different orders, with Lolotte demanding three items in sequence: a unicorn, the magic hen that lays golden eggs, and Pandora's Box.[^ref-8]
+Roberta Williams put the game at "about 95" rooms, adding that "it actually has more" because the graphics for each room were redrawn for the night scenes.[^ref-5] The Official Book of King's Quest counts about 30 rooms with moonlight versions of their daylight art.[^ref-18] Players can complete the main quests in different orders, with Lolotte demanding three items in sequence: a unicorn, the magic hen that lays golden eggs, and Pandora's Box.[^ref-8]
 
 ### Puzzles and Mechanics
 
@@ -68,16 +68,16 @@ Puzzles draw heavily on fairy tales. Rosella kisses a frog to turn him back into
 
 The game includes several notoriously difficult sequences. The whale tongue puzzle, where Rosella must escape from inside a whale by climbing its tongue and tickling its uvula with a feather, became so infamous that Al Lowe referenced it in Leisure Suit Larry III.[^ref-11][^ref-17] The whale ride leads to a desert island holding the bridle needed to capture the unicorn, and that bridle is not even a single pixel on screen: it is entirely invisible, hidden behind a piece of wreckage.[^ref-11][^ref-19]
 
-A maximum score of 230 points rewards thorough exploration and optimal puzzle solutions.[^ref-45] The game features multiple endings depending on the player's choices and thoroughness.[^ref-21][^ref-22]
+A maximum score of 230 points rewards thorough exploration and optimal puzzle solutions.[^ref-45] The game has two endings, depending on whether Rosella brings the magic fruit home to Daventry.[^ref-15][^ref-22]
 
 > [!warning]- Spoiler - Alternate Endings
-> The game includes a tragic alternate ending where Rosella returns to Daventry without the magical fruit, watching her father die before her eyes.[^ref-21][^ref-22]
+> The game includes a tragic alternate ending if Rosella returns to Daventry without the magical fruit.[^ref-15][^ref-22]
 
 ## Reception
 
 ### Contemporary Reviews
 
-King's Quest IV received critical acclaim upon release, with Computer & Video Games (issue 91, May 1989) scoring the Atari ST, Amiga and PC versions alike at 91% overall, with 95% for graphics and 90% for playability. Reviewer Keith Campbell called it "surely the most advanced animated adventure yet from Sierra" and ranked it as Sierra's "finest game to date."[^ref-9] QuestBusters confirmed the game "went gold" with 100,000 copies sold in its first two weeks, a remarkable achievement for 1988.[^ref-23]
+King's Quest IV received critical acclaim upon release, with Computer & Video Games (issue 91, May 1989) giving it 91% overall, with 95% for graphics and 90% for playability. Keith Campbell's review text describes the Atari ST and PC disks; the Everygamegoing transcription shows the same scores for the ST, Amiga 500 and PC versions. Campbell called it "surely the most advanced animated adventure yet from Sierra" and ranked it as Sierra's "finest game to date."[^ref-9] QuestBusters confirmed the game "went gold" with 100,000 copies sold in its first two weeks, a remarkable achievement for 1988.[^ref-23]
 
 The Amiga version earned strong reviews averaging 82% across seven publications, including Datormagazin's 9/10 and CU Amiga's 85%.[^ref-24] King's Quest IV won "Best Adventure or Fantasy/Role-Playing Program" at the Software Publishers Association's 1989 awards.[^ref-46][^ref-47]
 
@@ -99,7 +99,7 @@ Roberta Williams conceived King's Quest IV specifically to feature a female prot
 
 Before release, word leaked that King Graham might die in the game, prompting fans to write letters pleading with Roberta Williams to save him.[^ref-12] Williams herself grew attached to Rosella, describing the character as "a part of me that's coming out" who is "sometimes delicate, but she's strong, knows what she wants, she's not afraid to do what she has to do."[^ref-26]
 
-The decision to animate female movement differently became an unexpected creative challenge. "And girls die differently. I discovered lots of these things, like the way she falls, which has to be different from the way a guy falls," Williams said at the time.[^ref-6] In a later recollection, printed in the King's Quest Collector's Series manual, she added, "Having the women die bothered me more than I expected."[^ref-46]
+The decision to animate female movement differently became an unexpected creative challenge. "And girls die differently. I discovered lots of these things, like the way she falls, which has to be different from the way a guy falls," Williams said at the time.[^ref-6] In a later recollection, printed in the 1997 King's Quest Collection Series manual, she added, "Having the woman die bothered me more than I expected."[^ref-54][^ref-46]
 
 ### Production
 
@@ -113,7 +113,7 @@ The game shipped in both AGI and SCI versions, because Sierra assumed that low-e
 
 The SCI engine represented a fundamental leap in Sierra's technology. Resolution doubled from 160x200 to 320x200 pixels, enabling greater facial detail and body language in character animations.[^ref-3][^ref-5] The engine used an object-oriented language similar to LISP, written in Assembler, C, and itself.[^ref-18]
 
-Animation requirements were substantial, with Princess Rosella requiring over 1,000 individual drawings to animate all her activities.[^ref-18] The game contained more than 140 rooms across day and night variations, with tens of thousands of lines of scripting instructions.[^ref-18]
+Animation requirements were substantial, with Princess Rosella requiring over 1,000 individual drawings to animate all her activities.[^ref-18] By the Official Book of King's Quest's count, the whole game contains more than 140 rooms and tens of thousands of lines of instructions.[^ref-18]
 
 Sound card support transformed PC gaming audio. In Ken Williams's own account in the Sierra Newsletter, the Roland link came from composer William Goldstein, who beta-tested Roland keyboards and suggested that Roland might make a card for the PC. Ken then phoned the company's president ("Tom [Beckman, President/CEO of Roland Corporation]"), who said "No problem" and believed he could deliver Roland's MT-32, which could play up to 32 notes at once, on a PC card.[^ref-5] The Digital Antiquarian likewise credits Goldstein's existing relationship with Roland, and names Thomas Beckmen as president of Roland's American division.[^ref-6] Roberta Williams later remembered it differently: "Ken met someone at a trade show, made a few calls to Roland."[^ref-25] Goldstein, an Emmy nominee known for the Fame television series, created over 75 pieces of original music totaling forty minutes, each of the 35 characters receiving their own theme.[^ref-5][^ref-18][^ref-28] King's Quest IV supported the AdLib, IBM Music Feature and Roland MT-32 cards, which ranged from $245 to $600.[^ref-18]
 
@@ -140,14 +140,14 @@ King's Quest IV was uniquely released in both AGI and SCI versions simultaneousl
 | 2.3 | September 27, 1988 | 3.002.086 | Easter eggs removed[^ref-27] |
 | 1.0K | November 22, 1988 | 3.002.086 | Apple IIGS, no easter eggs, improved sound[^ref-27] |
 
-**Copy Protection:** Manual-based word lookup required at startup. The Cutting Room Floor reports that the original release accepted "BOBALU" as a backdoor past the copy protection, and that later revisions removed it.[^ref-43] DOS Days, by contrast, says the SCI version has no built-in bypass.[^ref-20] Sierra offered a disk exchange program for customers whose systems couldn't run the SCI version.[^ref-20]
+**Copy Protection:** Manual-based word lookup required at startup. The Cutting Room Floor reports that the original release accepted "BOBALU" as a backdoor past the copy protection, and that later revisions removed it.[^ref-43] DOS Days, by contrast, says the SCI version has no built-in bypass.[^ref-20]
 
 **Platform Releases:**
 - MS-DOS SCI: September 1988[^ref-3]
 - MS-DOS AGI: September 1988[^ref-27]
 - Apple II: October 1989[^ref-16]
 - Apple IIGS: February 1989[^ref-16]
-- Amiga: 1990[^ref-24]
+- Amiga: 1990 (Lemon Amiga and MobyGames; the Amiga magazine reviews ran in 1990), though SCI Wiki lists Amiga build 1.023 dated 1989-08-07[^ref-24][^ref-4][^ref-3]
 - Atari ST: by 1989 (SCI Wiki lists a 1988-12-07 build converted by Corey Cole, and C&VG reviewed the ST version in May 1989; MobyGames gives 1990)[^ref-3][^ref-9][^ref-4]
 
 **Version Differences:** Only SCI version 1.006.004 has been officially re-released in compilations and digital storefronts. The original high-detail SCI versions (with separate day/night artwork) and all AGI versions remain officially unavailable.[^ref-29]
@@ -165,9 +165,9 @@ King's Quest IV was uniquely released in both AGI and SCI versions simultaneousl
 - **Music:** William Goldstein
 - **Music Development System:** Stuart Goldstein
 - **Cavalry Coding:** [[Al Lowe]], Robert Eric Heitman, Chris Hoyt, David Slayback
-- **Game Development System:** Robert Eric Heitman (MobyGames)[^ref-50]
+- **Game Development System:** Jeff Stephenson, Robert Eric Heitman, Pablo Ghenis, Chris Iden, Paul Krasno[^ref-13][^ref-50]
 - **Documentation:** Jerry Albright
-- **Quality Assurance:** "A cast of thousands!"
+- **Quality Assurance:** "A cast of thousands!"[^ref-14]
 
 ## Legacy
 
@@ -179,19 +179,19 @@ This success helped propel Sierra's October 6, 1988 initial public offering, whe
 
 ### Industry Influence
 
-As one of the first games to support sound cards, King's Quest IV helped make them a must-have for PC gamers, and the AdLib and Roland MT-32 became de facto standards for game music in the late 1980s and early 1990s.[^ref-29] Sierra's demographics revealed that fully one quarter of their players were women or girls, with King's Quest specifically reaching 40 percent female players, directly contradicting industry assumptions that women were "not a viable market."[^ref-6]
+King's Quest IV was one of the first games to support sound cards, and Sierra ran promotions encouraging players to buy them and became a reseller of AdLib and Roland cards.[^ref-47] TV Tropes goes further, saying the game made sound cards "a must-have for PC gamers" and that the AdLib and Roland MT-32 became de facto standards for game music.[^ref-29] Sierra's demographics revealed that fully one quarter of their players were women or girls, with King's Quest specifically reaching 40 percent female players, directly contradicting industry assumptions that women were "not a viable market."[^ref-6]
 
-Ron Gilbert, designer of Maniac Mansion and numerous LucasArts adventures, cited King's Quest as influential: "What dawned on me when I saw King's Quest was how simple it was... The backgrounds were very, very simple," noting how this clarity let core gameplay shine through.[^ref-39]
+Ron Gilbert, designer of numerous LucasArts adventures, told GameSpot that seeing King's Quest while he was working on Maniac Mansion showed him how simple visuals could let core gameplay shine through: "What dawned on me when I saw King's Quest was how simple it was... The backgrounds were very, very simple." GameSpot places this comment before its discussion of the fourth game, so it concerns the series' earlier, simpler look rather than King's Quest IV itself.[^ref-39]
 
 Roberta Williams later reflected: "Of all the King's Quests, I think that one is the strongest in my mind, partly because it has a female protagonist... I really think King's Quest IV with Rosella really did open up that. It really opened up everybody's eyes like 'Girls like to play computer games too.'"[^ref-38]
 
 ### Remakes
 
-**No Official Remake:** Sierra never produced an official remake of King's Quest IV. A separate fan-made VGA remake was in the works for years but released only demo footage.[^ref-11]
+**No Official Remake:** Sierra never produced an official remake of King's Quest IV. A separate fan-made VGA remake was in the works for years but released only demo footage.[^ref-11] For the unreleased remake attributed to Infamous Adventures, see [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake (Infamous Adventures)]].
 
-**King's Quest IV Retold** by DrSlash, released May 5, 2021, is a point-and-click fan remake. It keeps the original 320x200 EGA graphics, a deliberate choice to avoid the "blurry" results of many earlier EGA-to-VGA conversions[^ref-42]. The remake combines Roland MT-32 music, Apple IIGS sound effects, and Amiga environmental sounds, while optionally removing dead ends and the game's time limit (which the King's Quest Omnipedia calls "the 4 hours time limit")[^ref-42]. The frustrating troll caves received new backgrounds replacing the original pitch-black screens[^ref-42]. On 29 November 2025, Magic Quest Entertainment released *King's Quest IV Retold VGA + Talkie*, a standalone version made with DrSlash's blessing that swaps in 256-colour graphics and adds voices. Its authors acknowledge "the controversies that surrounded this experiment by its earlier release"[^ref-30].
+**[[2021 - King's Quest IV Retold|King's Quest IV Retold]]** by DrSlash, released May 5, 2021, is a point-and-click fan remake. It keeps the original 320x200 EGA graphics, a deliberate choice to avoid the "blurry" results of many earlier EGA-to-VGA conversions[^ref-42]. The remake combines Roland MT-32 music, Apple IIGS sound effects, and Amiga environmental sounds, while optionally removing dead ends and the game's time limit (which the King's Quest Omnipedia calls "the 4 hours time limit")[^ref-42]. The frustrating troll caves received new backgrounds replacing the original pitch-black screens[^ref-42]. On 29 November 2025, Magic Quest Entertainment released *King's Quest IV Retold VGA + Talkie*, a standalone version made with DrSlash's blessing that swaps in 256-colour graphics and adds voices. Its authors acknowledge "the controversies that surrounded this experiment by its earlier release"[^ref-30].
 
-**Unicorn Tales** is a 3D fan remake still in development and being completed in Karen's honor. A December 2025 update reported that all assets for the game's introduction were complete, with a possible teaser to follow.[^ref-31]
+**Unicorn Tales** is a 3D fan remake still in development. A December 2025 update reported that all assets for the game's introduction were complete, with a possible teaser to follow.[^ref-31]
 
 ### The King's Quest Companion
 
@@ -221,7 +221,6 @@ The book became an important part of King's Quest canon—facts from the Compani
 - **Frog Prince Walking:** Walking sprites for the frog prince were created but never used—he simply zips offscreen after transformation
 - **Genesta Island Night:** Nighttime backgrounds exist for Genesta's island but can't be seen without debug tools. The island can only be safely reached by day, and night never falls while Rosella is there
 - **Unseen Mummy Death:** If a player somehow enters the mummy tomb without the scarab (impossible in normal gameplay), unique death text appears: "How did you get here without the scarab? You will be the next victim of the mummy!!"
-- **BOBALU Backdoor:** The original version allowed "BOBALU" to bypass copy protection, later removed[^ref-43]
 
 **KQ4 References in Other Sierra Games:**[^ref-8]
 - **King's Quest VI** - Pawnshop items include "golden bridle finder," "tongue climbing gear," "uvula tickler," and "shovel for 100+ grave diggings"
@@ -280,7 +279,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-8]: [Sierra Chest - King's Quest IV](https://www.sierrachest.com/index.php?a=g&id=4&fld=s&gconf=1) – Story summary, technical significance, collections list
 [^ref-9]: [Computer & Video Games #91](https://www.everygamegoing.com/larticle/Kings-Quest-IV-000/43679/) – Keith Campbell review, gameplay descriptions, animation examples
 [^ref-10]: [Sierra Help - Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – KQ4 references in other Sierra games (Rosella as a Leisure Suit Larry 2 hairdresser)
-[^ref-11]: [Hardcore Gaming 101 - King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – Story elements, marketing quotes, infamous puzzles
+[^ref-11]: [Hardcore Gaming 101 - King's Quest IV (Wayback Machine, 21 January 2025)](https://web.archive.org/web/20250121020619/http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – Story elements, marketing quotes, infamous puzzles
 [^ref-12]: [IGN - Revisiting King's Quest IV](https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella-) – 2014 IGN retrospective: sound card support, last text-parser KQ, corporate concern about female protagonist, fan letters about Graham's death
 [^ref-13]: [Internet Archive - King's Quest IV Manual](https://archive.org/details/Kings_Quest_4_-_Manual) – Full credits, supported verbs, gameplay instructions
 [^ref-14]: [King's Quest Omnipedia - KQ4 AGI DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_%28AGI_DOS%29) – AGI version differences, easter eggs, developer room credits
@@ -291,7 +290,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-19]: [Choicest Games - King's Quest IV Review](https://www.choicestgames.com/2019/06/kings-quest-iv-review.html) – Modern retrospective (5/10), specific puzzle frustrations
 [^ref-20]: [DOS Days - King's Quest IV SCI](https://www.dosdays.co.uk/topics/Games/game_kq4_sci.php) – Technical reference, version differences, disk exchange program
 [^ref-21]: [HowLongToBeat - King's Quest IV](https://howlongtobeat.com/game/5031) – Completion times, release date (Aug 16, 1988), user stats
-[^ref-22]: [VGU - A History of King's Quest](https://videogamesuncovered.com/features/a-history-of-kings-quest/) – First bad ending in series, sound card innovation
+[^ref-22]: [VGU - A History of King's Quest (Wayback Machine, 14 April 2026)](https://web.archive.org/web/20260414190701/https://videogamesuncovered.com/features/a-history-of-kings-quest/) – First bad ending in series, sound card innovation
 [^ref-23]: [QuestBusters Vol. VI #4](https://mocagh.org/questbusters/qbustersVI4.pdf) – Gold status (100,000 copies) in first two weeks
 [^ref-24]: [Lemon Amiga - King's Quest IV](https://www.lemonamiga.com/game/kings-quest-4-the-perils-of-rosella) – Amiga reviews averaging 82%, WHDLoad info
 [^ref-25]: [Sierra Gamers - King's Quest 4](https://www.sierragamers.com/kings-quest-4/) – Roberta Williams Anthology quotes, SPA award, exact release date
@@ -310,7 +309,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-39]: [GameSpot - 15 Most Influential Games](https://web.archive.org/web/20050525130158/http://gamespot.com/gamespot/features/pc/most_influential/p13.html) – 300K-400K copies per game (PC Data), Ron Gilbert quote on KQ influence
 [^ref-40]: [King's Quest Omnipedia - The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – Official novelization, Chapter 8 KQ4 from Valanice perspective, Roberta Williams endorsement
 [^ref-42]: [King's Quest Omnipedia - King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – DrSlash release May 5 2021, EGA preservation, combined audio sources, troll caves improvements, optional dead-end removal
-[^ref-43]: [The Cutting Room Floor - King's Quest IV](https://tcrf.net/King%27s_Quest_IV:_The_Perils_of_Rosella) – Unused scarab sprite, test animations, Genesta night screens, unseen mummy death, BOBALU backdoor, Dennis Jonathan synonym
+[^ref-43]: [The Cutting Room Floor - King's Quest IV](https://tcrf.net/King%27s_Quest_IV:_The_Perils_of_Rosella) – Unused beetle sprite, test animations, Genesta night screens, unseen mummy death, BOBALU backdoor, Dennis Jonathan synonym
 [^ref-44]: [Sierra Planet - King's Quest 4 Curiosities (Wayback Machine, 18 May 2026)](https://web.archive.org/web/20260518122636/http://www.sierraplanet.net/kqgames/kings-quest-iv/kq4-game-goodies/kq4-curiosities/) – Box art discrepancy, zombie count, Edgar transformation ambiguity, time limit bug
 [^ref-45]: [Sierra Help Pages - King's Quest IV Point List](https://sierrahelp.com/Misc/PointLists/KQ4Points.html) – Complete point list, 230 of 230
 [^ref-46]: [King's Quest Omnipedia - King's Quest IV](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – Roberta Williams quote from the KQ Collector's Series manual (p. 25), 1989 SPA award
@@ -318,3 +317,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-48]: [King's Quest Omnipedia - Three sisters](https://kingsquest.fandom.com/wiki/Three_sisters) – Three one-eyed witches based on the Graeae
 [^ref-49]: [King's Quest Omnipedia - Edgar](https://kingsquest.fandom.com/wiki/Edgar) – Edgar's role in KQ7: Malicia changes his form to look like the Troll King
 [^ref-50]: [MobyGames - Robert Eric Heitman credit sheet (Wayback, January 2023)](https://web.archive.org/web/20230121165831/http://www.mobygames.com/developer/sheet/view/developerId,2200/) – King's Quest IV: The Perils of Rosella (1988): "Game Development System"
+[^ref-51]: [Sierra Chest - King's Quest IV Walkthrough](https://www.sierrachest.com/index.php?a=games&id=4&title=kings-quest-4&fld=walkthrough&pid=100) – Haunted house entered by day for the Shakespeare book; ghost sequence starts after "NIGHT FALLS"
+[^ref-52]: [King's Quest Omnipedia - Zombie](https://kingsquest.fandom.com/wiki/Zombie) – Zombies plague the graveyards around Whateley Manor at night; repelled by the Obsidian Scarab
+[^ref-53]: [King's Quest Omnipedia - Whateley Manor](https://kingsquest.fandom.com/wiki/Whateley_Manor) – The haunted mansion in Tamir, flanked by twin graveyards; five ghosts Rosella must pacify
+[^ref-54]: [Internet Archive - King's Quest Collection Series Manual (1997)](https://archive.org/details/Kings_Quest_-_Collection_Series_-_Manual) – Roberta Williams on KQ4 (p. 25): "Having the woman die bothered me more than I expected"

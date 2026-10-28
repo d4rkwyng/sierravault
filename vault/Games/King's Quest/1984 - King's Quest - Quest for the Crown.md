@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game, credited
   with saving Sierra On-Line from the effects of the 1983 video game crash and considered
   the start of the graphic adventure genre.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ IEEE Spectrum has called it "the first animated 3D adventure game"[^ref-6].
 
 The kingdom of Daventry faces ruin after King Edward was tricked three times by magical beings who stole its three magical treasures[^ref-2][^ref-9]. The magic mirror, which could foretell the future and help farmers plan planting, was taken by a powerful wizard who promised to bring King Edward an heir[^ref-10]. The enchanted shield, which protected its bearer from all harm, was stolen by a dwarf who promised to cure the dying queen[^ref-10]. The chest of gold, which was never empty, was stolen by Princess Dahlia of Cumberland, whom the king had rescued from wolves and taken into his castle[^ref-10]. The King's Quest Companion later expanded the tale: on the night before their wedding she stole the chest, turned back into a witch and flew off on her broom[^ref-49].
 
-The aging King Edward, without an heir and near death, summons his bravest knight, Sir Graham, and charges him with recovering these artifacts[^ref-1][^ref-4]. Success in this quest would prove Graham worthy of the crown. Graham's journey takes him past a bridge guarded by a troll[^ref-51], up to the Land of the Clouds to recover the chest of gold, underground among leprechauns to retrieve the shield, and to a dragon that he must outwit to get back the mirror[^ref-2]. Along the way, he encounters characters drawn from classic fairy tales including Rumplestiltskin, leprechauns, a fairy godmother, and creatures from folklore and legend[^ref-11].
+The aging King Edward, without an heir and near death, summons his bravest knight, Sir Graham, and charges him with recovering these artifacts[^ref-2][^ref-4]. Success in this quest would prove Graham worthy of the crown. Graham's journey takes him past a bridge guarded by a troll[^ref-51], up to the Land of the Clouds to recover the chest of gold, underground among leprechauns to retrieve the shield, and to a dragon that he must outwit to get back the mirror[^ref-2]. Along the way, he encounters characters drawn from classic fairy tales including Rumplestiltskin, leprechauns, a fairy godmother, and creatures from folklore and legend[^ref-11].
 
 ## Gameplay
 
@@ -54,13 +54,13 @@ The aging King Edward, without an heir and near death, summons his bravest knigh
 
 King's Quest employs a hybrid interface combining keyboard-controlled character movement with text parser commands for actions[^ref-4]. Players use arrow keys or joystick to guide Sir Graham around each scene in real time, positioning him near objects or characters before typing simple verb-noun commands such as "Take a carrot," "Kill the troll," or "Look at the river"[^ref-51]. This represented a significant departure from earlier text adventures and illustrated adventure games, where interaction was purely text-based.
 
-The game pioneered animated interaction between the player's avatar and the environment. Graham could walk behind trees, in front of rocks, swim across lakes, climb ladders, and enter buildings—all rendered with smooth animation. COMPUTE! magazine observed: "The three-dimensional quality makes it seem like Sir Grahame is moving through an animated cartoon"[^ref-14]. Roberta Williams recalled: "People were amazed you could walk around these detailed screens, behind trees and in front of rocks"[^ref-10].
+The game pioneered animated interaction between the player's avatar and the environment. Graham could disappear behind trees, duck behind rocks, climb trees, swim lakes and enter buildings[^ref-26][^ref-51]. COMPUTE! magazine observed: "The three-dimensional quality makes it seem like Sir Grahame is moving through an animated cartoon"[^ref-14]. Roberta Williams recalled: "People were amazed you could walk around these detailed screens, behind trees and in front of rocks"[^ref-10].
 
 ### Structure and Progression
 
 The game world comprises 80 total scenes: 48 outdoor locations arranged in a 6x8 grid, plus 32 interior scenes for caves, houses, and other enclosed spaces[^ref-14][^ref-15]. The kingdom wraps around itself, so the 48 outdoor scenes are continuous[^ref-51].
 
-Players pursue the three treasures in any order, with multiple valid paths through the game[^ref-4]. A scoring system awards up to 158 points, with higher scores achieved through discovering alternate solutions and avoiding unnecessary violence[^ref-16]. Non-lethal approaches to obstacles consistently reward more points than violent solutions—killing the dragon with a dagger works, but dousing its flame with water and sending it away embarrassed earns more points[^ref-11].
+The order in which players solve puzzles and find locations is restricted only by the items they have, and some puzzles have multiple solutions[^ref-2][^ref-4]. A scoring system awards up to 158 points[^ref-16], with more points for innovative and peaceful solutions[^ref-51]. Non-lethal approaches yield more points on a few puzzles—killing the dragon with a dagger works, but dousing its flame with water and sending it away embarrassed earns more points[^ref-11][^ref-40].
 
 ### Puzzles and Mechanics
 
@@ -74,7 +74,7 @@ Random encounters with hostile creatures—a thieving dwarf, an ogre, a witch, a
 
 ### Contemporary Reviews
 
-Contemporary reviews were generally positive[^ref-2]. Electronic Games magazine's December 1984 review declared: "Don't be fooled by the unimaginative title. King's Quest is a major breakthrough in action-adventure games... its combination of keyboard-input and joystick operated on-screen character movement blows everything away"[^ref-5][^ref-50]. The review noted that "as a pure adventure, it would hardly be worth a second glance. But in simplifying the puzzle-solving and Zork-like elements, and instead, overwhelming the player with lush graphics and joystick control over the hero, the vistas of adventure gaming suddenly open to a whole new audience"[^ref-5][^ref-50].
+Contemporary reviews were generally positive[^ref-2]. Electronic Games magazine's December 1984 review declared: "Don't be fooled by the unimaginative title. King's Quest is a major breakthrough in action-adventure games... its combination of keyboard-input and joystick-operated on-screen character movement blows everything away"[^ref-5][^ref-50]. The review noted that "as a pure adventure it would hardly be worth a second glance. But in simplifying the puzzle-solving and Zork-like elements and, instead, overwhelming the player with lush graphics and joystick control over the hero, the vistas of adventure gaming suddenly open to a whole new audience"[^ref-5][^ref-50].
 
 Family Computing (January 1985) praised the innovation: "Roberta Williams is to be applauded for making such a giant leap forward while still retaining the charming, challenging techniques that characterize her other adventures"[^ref-17]. COMPUTE! (October 1984) quoted Williams saying "There's nothing like it. It's innovative"[^ref-18].
 
@@ -82,7 +82,7 @@ Adventure Classic Gaming awarded a perfect 5/5, calling it "one of the best adve
 
 ### Modern Assessment
 
-The game earned induction into the World Video Game Hall of Fame in 2020, alongside Bejeweled, Centipede, and Minecraft[^ref-1]. The Strong Museum stated: "It is difficult to overstate King's Quest's influence on adventure games. It established or reinforced many of the conventions of the adventure games that followed it, including vivid animated graphics, a pseudo three-dimensional environment... challenging puzzles, and tongue-in-cheek humor"[^ref-1].
+The game earned induction into the World Video Game Hall of Fame in 2020, alongside Bejeweled, Centipede, and Minecraft[^ref-1][^ref-54]. The Strong Museum stated: "It is difficult to overstate King's Quest's influence on adventure games. It established or reinforced many of the conventions of the adventure games that followed it, including vivid animated graphics, a pseudo three-dimensional environment... challenging puzzles, and tongue-in-cheek humor"[^ref-1].
 
 TIME magazine included King's Quest in their All-TIME 100 Video Games list, noting "the graphics were incredibly detailed (by 1983 standards), featuring multiple colors and complex animations which were leaps and bounds ahead of traditional text-based adventure games"[^ref-20]. Adventure Gamers' 2001 "Top 20 Adventure Games of All-Time" list, by Evan Dickens, ranked it #10[^ref-47].
 
@@ -105,7 +105,7 @@ Sierra co-founder Ken Williams and programmer [[Jeff Stephenson]] pitched the co
 
 ### Production
 
-COMPUTE! and the Official Book both date IBM's request to "a year before the PCjr was announced"[^ref-51][^ref-26]; the PCjr projects as a whole were given the code-name "Project Siesta"[^ref-3]. COMPUTE! magazine reported the game cost over $700,000 and required 18 months of development with "six programmers and artists" working alongside designer Roberta Williams[^ref-14]. The Digital Antiquarian puts the cost at $850,000, noting that "much of the game's $850,000 development cost had been funded by IBM"[^ref-3]. A 27-page design document once attributed to the original game in the Strong Museum's listings turned out, on inspection, to be King's Quest VIII material[^ref-18].
+COMPUTE! and the Official Book both date IBM's request to "a year before the PCjr was announced"[^ref-51][^ref-26]; the PCjr projects as a whole were given the code-name "Project Siesta"[^ref-3]. COMPUTE! magazine reported the game cost over $700,000 and required 18 months of development with "six programmers and artists" working alongside designer Roberta Williams[^ref-14]. The Digital Antiquarian puts the cost at $850,000, noting that "much of the game's $850,000 development cost had been funded by IBM"[^ref-3]. According to the King's Quest Omnipedia, a 27-page design document attributed to the original game in the Strong Museum's listings turned out, when people looked into it, to be King's Quest VIII material[^ref-18].
 
 **Development Credits:**[^ref-8][^ref-29]
 - **Design/Writing:** [[Roberta Williams]]
@@ -148,10 +148,10 @@ Nerdly Pleasures counts "no less than eight distinct versions" of the AGI game b
 
 | Version | Date | Platform | AGI | Notes |
 |---------|------|----------|-----|-------|
-| 1.0 | May 10, 1984 | IBM PCjr | — | First release, 128KB, non-standard sector protection[^ref-39] |
-| PC 1.0 | May 30, 1984 | IBM PC | — | Composite CGA only, Formaster Copylock, "Grahame" → "Graham"[^ref-39] |
-| PC 1.1 | Aug 16, 1984 | IBM PC | — | CGA RGB support added, Chris Iden first credited[^ref-39] |
-| Tandy 1.0 | May 24, 1985 | Tandy 1000 | — | Sierra On-Line Protection #2[^ref-39] |
+| — | May 10, 1984 | IBM PCjr | — | First release, 128KB, non-standard sector protection[^ref-39] |
+| — | May 30, 1984 | IBM PC | — | Composite CGA only, Formaster Copylock, "Grahame" → "Graham"[^ref-39] |
+| — | Aug 16, 1984 | IBM PC | — | CGA RGB support added, Chris Iden first credited[^ref-39] |
+| — | May 24, 1985 | Tandy 1000 | — | Sierra On-Line Protection #2[^ref-39] |
 | Tandy/PCjr | Sep 4, 1985 | Tandy 1000, IBM PCjr | — | Identical to the May 1985 Tandy release, but copyright strings no longer reference Tandy or Radio Shack[^ref-39] |
 | 1.0U | Nov 1986 | DOS | 2.272 | Subtitle "Quest for the Crown" added, EGA support, 256KB, hard disk install[^ref-39] |
 | 2.0F | May 5, 1987 | DOS | 2.245 | Hercules support, drop-down menus, 3.5" disk support[^ref-39] |
@@ -188,7 +188,7 @@ King's Quest's success, and the reuse of its AGI engine, led to Sierra's success
 
 ### Remakes
 
-**Sierra's 1990 SCI Remake:** Produced and written by Josh Mandel with music by Ken Allen, the official remake updated the game with 16-color 320x200 EGA graphics[^ref-10], a heavily expanded introduction and conclusion, an expanded soundtrack with sound card and MT-32 support, and mouse-driven pull-down menus[^ref-33][^ref-44]. The remake simplified the gnome puzzle to accept "Nikstlitselpmur" (Rumplestiltskin spelled backwards) and relocated the hard-to-find pebbles to a more visible lakeside location[^ref-10][^ref-44].
+**Sierra's 1990 SCI Remake:** Produced and written by Josh Mandel with music by Ken Allen, the official remake updated the game with 16-color 320x200 EGA graphics[^ref-10] and kept a text parser, the only one of Sierra's remakes built with SCI's EGA graphics and parser interface[^ref-33]. It added a heavily expanded introduction and conclusion, an expanded soundtrack with sound card support, and mouse-driven pull-down menus[^ref-44]; the Roland MT-32 is among its supported sound devices[^ref-57]. The remake simplified the gnome puzzle to accept "Nikstlitselpmur" (Rumplestiltskin spelled backwards)[^ref-11] and relocated the hard-to-find pebbles to a more visible lakeside location[^ref-44].
 
 Reception was controversial—"many reviewers and gamers took offense at what they perceived as an attempt to 'destroy the classics'"[^ref-44]. The project was compared to colorizing classic black-and-white movies[^ref-22][^ref-44]. These reactions "essentially stopped work on future attempts to modernize later King's Quest installments"[^ref-44], though Sierra did go on to remake other AGI games in SCI: Space Quest (1991), Leisure Suit Larry (1991) and Police Quest (1992)[^ref-45].
 
@@ -202,7 +202,7 @@ The game's influence extended beyond Sierra's own franchises. Homestar Runner's 
 
 *The King's Quest Companion* by Peter Spear provides extended backstory for the events of King's Quest[^ref-37][^ref-40]. According to the Companion, Graham had a sweet tooth as a child and was known to snitch desserts[^ref-40]. He rose through the ranks to become "the best climber in the army"[^ref-40]. The River Fools near Castle Daventry got its name from thrill-seekers who attempted to raft its rapids on inflated pig bladders[^ref-40].
 
-In the Companion and other sources the dragon is described as about twelve feet long and always green[^ref-46]. Roberta Williams endorsed the book, calling it "an interesting blend of fiction and helpful information" that was "invaluable" for anyone wanting to understand the story behind King's Quest[^ref-41].
+The Companion describes the dragon as twelve feet long, iridescent and green-scaled[^ref-40], and it is consistently shown or described as green[^ref-46]. Roberta Williams endorsed the book, calling it "an interesting blend of fiction and helpful information" that was "invaluable" for anyone wanting to understand the story behind King's Quest[^ref-41].
 
 ### Easter Eggs and Unused Content
 
@@ -212,8 +212,8 @@ In the Companion and other sources the dragon is described as about twelve feet 
 - **Debug Mode:** Pressing Alt+D enables debug commands[^ref-29]
 
 **Trivia:**
-- **Daventry Flag:** The flag visible in the castle throne room is the flag of Sierra Leone—a pun on "Sierra On-Line"[^ref-8]
-- **Graham's Name:** Sir Graham was named after Roberta Williams' fondness for graham crackers[^ref-8]
+- **Daventry Flag:** The flag visible in the castle throne room is a vertical version of the flag of Sierra Leone—a pun on "Sierra On-Line"[^ref-1][^ref-8]
+- **Graham's Name:** MobyGames trivia says Sir Graham was named after Roberta Williams' fondness for graham crackers[^ref-8]
 - **IBM Box Error:** The original IBM packaging featured incorrect descriptions and artwork because the ad copy was written before the game was completed[^ref-8]
 
 **Unused Content (The Cutting Room Floor):**[^ref-42]
@@ -222,17 +222,18 @@ In the Companion and other sources the dragon is described as about twelve feet 
 - **Unused Graham Frame:** An unused frame of Graham looking up, specific to newer versions, was recycled from King's Quest II; in the ending, Graham looks left at the throne, not up[^ref-42].
 - **KQ2 Leftover Sound:** Sound 03 is a nightingale call from King's Quest II—the DOS versions of KQ1 were built from the KQ2 codebase, and this sound was accidentally left in[^ref-42].
 - **Uncompiled Source Code:** The first IBM PC release (CGA, May 30, 1984) contains uncompiled 8088 assembler source code in thirteen 512-byte sectors starting at cylinder 7, head 0, sector 3[^ref-42].
-- **Cut Goat/Witch Messages:** Unused text includes "The goat is suspicious of this witch's house and refuses to go in" and "With the goat now dead, you are fair game for the witch"[^ref-42].
+- **Cut Goat/Witch Messages:** Unused text includes "The goat is suspicious of this witch's house and refuses to go in" and "With the goat now dead, you are fair game for the witch"; TCRF marks both messages as present in the original PCjr version too[^ref-42].
 - **PCjr-Only Feature:** In the original PCjr version, players can bow to the dead king and receive the message: "You bow, but you are the only one who knows it"[^ref-42].
 
 ### Collections
 
 This game has been included in[^ref-8][^ref-9]:
-- King's Quest: Collector's Edition (1994) – Games 1-6, King's Questions quiz, KQ7 demo, Sierra 15th Anniversary content
-- The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator[^ref-53]
-- King's Quest: Collection Series (1997) – Budget re-release of classic series
-- King's Quest Collection (2006) – Seven games with DOSBox emulator for Windows
+- King's Quest: Collector's Edition (1994) – Games I–VI, with King's Quest I in both this original version and the 1990 SCI remake, plus a King's Quest VII preview and small extras such as a checkers game and a trivia game[^ref-55]
+- The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator; listed by SierraChest, while MobyGames lists the 1990 SCI remake as its King's Quest I[^ref-9][^ref-53]
+- King's Quest: Collection Series (1997) – The first seven King's Quest games plus a preview of *Mask of Eternity*; listed by SierraChest, while MobyGames lists the 1990 SCI remake as its King's Quest I[^ref-9][^ref-56]
 - King's Quest 1+2+3 (2010) – GOG.com digital release
+
+The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake rather than this version[^ref-2][^ref-24].
 
 ## Downloads
 
@@ -267,7 +268,7 @@ This game has been included in[^ref-8][^ref-9]:
 
 ## References
 
-[^ref-1]: [The Strong Museum – King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) – 2020 World Video Game Hall of Fame induction, genre influence quote
+[^ref-1]: [The Strong Museum – King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) – 2020 World Video Game Hall of Fame induction, genre influence quote, Daventry flag as a vertical Sierra Leone flag
 [^ref-2]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – Encyclopedia article, platform releases
 [^ref-3]: [The Digital Antiquarian – The Unmaking and Remaking of Sierra On-Line](http://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) – IBM commission, napkin pitch, AGI development, $850K cost, Project Siesta codename
 [^ref-4]: [COMPUTE! Magazine – February 1985, pg 136](https://archive.org/details/1985-02-compute-magazine/page/n137) – Donald B. Trivette "Inside King's Quest": hybrid interface, multiple solutions
@@ -276,7 +277,7 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-8]: [MobyGames – King's Quest](https://www.mobygames.com/game/122/kings-quest/) – Credits, platforms, trivia, graham crackers naming, Avis Durgan encryption, Sierra Leone flag
 [^ref-9]: [Sierra Chest – King's Quest I](https://www.sierrachest.com/index.php?a=games&id=1) – Plot (theft of the three treasures), collections
 [^ref-10]: [Adventure Classic Gaming – King's Quest](https://www.adventureclassicgaming.com/index.php/site/reviews/120/) – 5/5 review, Roberta Williams quotes on design, gnome puzzle acknowledgment, 160x200 AGI / 320x200 SCI resolution, platform-independent scripts
-[^ref-11]: [TV Tropes – King's Quest I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIQuestForTheCrown) – Fairy tales, gnome cipher, pacifist scoring, random encounters
+[^ref-11]: [TV Tropes – King's Quest I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIQuestForTheCrown) – Fairy tales, gnome cipher ("Ifnkovhgroghprm"; "Nikstlitselpmur" in the SCI version), pacifist solutions to a few problems yield more points, random encounters
 [^ref-12]: [TechnologyUK – King's Quest](https://www.technologyuk.net/computing/computer-gaming/gaming-landmarks-1960-1985/kings-quest.shtml) – Gnome puzzle hint "Sometimes it is wise to think backwards"
 [^ref-14]: [COMPUTE! Feb 1985 / KQ Omnipedia](https://kingsquest.fandom.com/wiki/Inside_King%27s_Quest) – 80 scenes (48+32), vector graphics, room data sizes, collision detection
 [^ref-15]: [Sierra Newsletter – Winter 1988](https://www.mocagh.org/sierra/sierranews-winter88.pdf) – 80 rooms in KQ1, 800,000+ series sales by 1988
@@ -296,16 +297,16 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-30]: [KQ Omnipedia – Apple IIGS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_%28Apple_IIGS%29) – Al Lowe/Escobar port, digitized audio, music changes
 [^ref-31]: [KQ Omnipedia – Apple II Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_%28Apple_II%29) – Missing alligators, white screens
 [^ref-32]: [KQ Omnipedia – Sales Data](https://kingsquest.fandom.com/wiki/Sales_data) – "Over 7 million sold" packaging claims, apparently including collections
-[^ref-33]: [SCI Wiki – KQ1 SCI Remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – 1990 remake details: SCI0, EGA graphics with parser interface
+[^ref-33]: [SCI Wiki – KQ1 SCI Remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – 1990 remake details: the only Sierra remake built with SCI01's EGA graphics and parser interface (read via headless browser)
 [^ref-34]: [AGD Interactive – King's Quest I: About](https://www.agdinteractive.com/games/kq1/about/about.html) – VGA remake, first-month and first-year download figures
 [^ref-37]: [The King's Quest Companion](https://archive.org/details/kingsquestcompan00spea) – Peter Spear hint book
 [^ref-38]: [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – Technical fixes
 [^ref-39]: [Nerdly Pleasures – The Evolution of King's Quest](http://nerdlypleasures.blogspot.com/2017/04/the-evolution-of-kings-quest.html) – Eight-version history with exact dates, AGI interpreter versions, copy protection schemes, RAM and graphics support
-[^ref-40]: [The King's Quest Companion, 4th Edition (1997)](https://antarctica.no/~solskogen/temp/King%27s%20Quest%20Companion%20%5B4E%5D%20%5B1997%5D.pdf) – Peter Spear, Graham backstory, River Fools origin, dragon description
+[^ref-40]: [The King's Quest Companion, 4th Edition (1997)](https://antarctica.no/~solskogen/temp/King%27s%20Quest%20Companion%20%5B4E%5D%20%5B1997%5D.pdf) – Peter Spear, Graham backstory, River Fools origin, dragon description (twelve feet long, green-scaled; shows "embarrassment" when its flame is doused)
 [^ref-41]: [King's Quest Omnipedia – The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – Roberta Williams endorsement quotes
 [^ref-42]: [The Cutting Room Floor – King's Quest](https://tcrf.net/King%27s_Quest:_Quest_for_the_Crown) – Flamethrower easter egg, King Edward animation, Graham frame recycled from KQ2, unused sounds, uncompiled source code
 [^ref-43]: [King's Quest Omnipedia – SMS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_%28SMS%29) – Microsmiths developer, Parker Brothers publisher, Mark Lesser programmer, reduced map
-[^ref-44]: [King's Quest Omnipedia – SCI Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28MS-DOS%29) – Josh Mandel producer/writer, Ken Allen composer, expanded intro/conclusion, MT-32, pull-down menus, pebbles moved, colorization controversy
+[^ref-44]: [King's Quest Omnipedia – SCI Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28MS-DOS%29) – Josh Mandel producer/writer, Ken Allen composer, expanded intro/conclusion, expanded soundtrack and sound card support, pull-down menus, pebbles moved, colorization controversy
 [^ref-45]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – AGI game list; SCI remakes of Space Quest (1991), Leisure Suit Larry (1991), Police Quest (1992)
 [^ref-46]: [King's Quest Omnipedia – Dragon of Daventry](https://kingsquest.fandom.com/wiki/Dragon_of_Daventry) – "said to about 12-feet long", "always shown or described to be green"
 [^ref-47]: [Adventure Gamers – Top 20 Adventure Games of All-Time (Wayback, June 2024)](https://web.archive.org/web/20240625144354/https://adventuregamers.com/articles/view/17572) – Evan Dickens list dating to 2001; KQ1 at #10
@@ -315,3 +316,7 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-51]: [COMPUTE! – February 1985, "Inside King's Quest" by Donald B. Trivette (full text)](https://archive.org/stream/1985-02-compute-magazine/Compute_Issue_057_1985_Feb_djvu.txt) – Priority system (top of screen low, bottom high), example commands, wraparound kingdom, four-second room draw, several solutions per puzzle, "a year before the PCjr was announced"
 [^ref-52]: [Wikipedia – IBM PCjr](https://en.wikipedia.org/wiki/IBM_PCjr) – "IBM discontinued the PCjr on March 19, 1985"
 [^ref-53]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"; "The Apple II titles contain an Apple II emulator for Windows"
+[^ref-54]: [Wikipedia – World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) – 2020 inductees: Bejeweled, Centipede, King's Quest, Minecraft
+[^ref-55]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; King's Quest (with the SCI remake), II–VI, King's Quest VII preview, checkers and trivia games
+[^ref-56]: [MobyGames – King's Quest: Collection Series](https://www.mobygames.com/game/1857/kings-quest-collection-series/) – read via the MobyGames API; 1997; first seven King's Quest games, lists "Roberta Williams' King's Quest I" (the SCI remake), Mask of Eternity preview
+[^ref-57]: [MobyGames – Roberta Williams' King's Quest I: Quest for the Crown](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – read via the MobyGames API; DOS tech specs list Roland MT-32 (and LAPC-I) among supported sound devices
