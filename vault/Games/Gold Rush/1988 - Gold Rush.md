@@ -10,7 +10,7 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Gold Rush! is a 1988 AGI adventure game by Doug and Ken MacNeill for
   Sierra On-Line, in which Brooklyn newspaperman Jerrod Wilson travels to the California
   Gold Rush by one of three historical routes.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -59,7 +59,7 @@ Players move Jerrod with the keyboard through Brooklyn streets, ship decks, wago
 ### Structure and Progression
 The game's most distinctive feature is its three-route structure. As MobyGames puts it, the game has an "unusual replay value" for an adventure game, "as there are three different routes you can take to get to California"[^ref-22]. Starostin notes that the three-way split came much earlier than the Team/Wits/Fists paths of *Indiana Jones and the Fate of Atlantis* and added "a ton of replay value, for the first time in Sierra history"[^ref-5].
 
-During long travel sequences the computer takes over, with messages describing the areas Jerrod passes through and the experiences of other early American travellers[^ref-23]. The Cape Horn route includes descriptions such as "The food on board is not as bad as expected... The usual fare is hard-baked biscuit, salted beef, and boiled pudding once a week"[^ref-5]. Sea voyages include random events: the ship can randomly hit an iceberg during the Cape Horn route[^ref-9], and companions may die during the journey. When a sick fellow passenger disappears, typing "find Eric" brings only the reply "Eric was buried at sea"[^ref-5].
+During long travel sequences the computer takes over, with messages describing the areas Jerrod passes through and the experiences of other early American travellers[^ref-23]. The Cape Horn route includes descriptions such as "The food on board is not as bad as expected... The usual fare is hard-baked biscuit, salted beef, and boiled pudding once a week"[^ref-5]. Sea voyages include random events: the ship can randomly hit an iceberg during the Cape Horn route[^ref-9][^ref-5][^ref-12], and companions may die during the journey. When a sick fellow passenger disappears, typing "find Eric" brings only the reply "Eric was buried at sea"[^ref-5].
 
 The overland route brings threats from Native Americans, unruly oxen, deserts, mountain passes and winter storms in the Sierra Nevada. The more expensive Panama route crosses a jungle full of snakes, quicksand, alligators and malaria[^ref-1]. According to the Sierra Chest, the MacNeill brothers did "a tremendous amount of research to keep the game as historically accurate as possible"[^ref-6].
 
@@ -108,7 +108,7 @@ On DOS, Gold Rush! supports Hercules, CGA, EGA and Tandy/PCjr graphics[^ref-7][^
 The original release came on five 5.25" or two 3.5" floppy disks. It requires an Intel 8088 processor and 256 KB of RAM[^ref-3][^ref-7]. DOSdays lists version 2.01, dated 23 December 1988, which uses AGI interpreter version 3.002.149[^ref-3]. The digital Gold Rush! Classic re-release comes pre-packaged with DOSBox[^ref-7].
 
 ### Copy Protection
-The game's copy protection uses text from the included manual: players must answer questions using information found there[^ref-22]. Before play, the game asks a question about the gold rush and points the player to a specific page and line of the book. "Fail the test, and Jerrod is lynched"[^ref-23].
+The game's copy protection uses text from the included manual: players must enter a word from the book in answer to a question that points to a specific page and line[^ref-22][^ref-23]. Before play, the game asks a question about the gold rush and points the player to a specific page and line of the book. "Fail the test, and Jerrod is lynched"[^ref-23].
 
 ## Legacy
 
@@ -116,7 +116,7 @@ In 2011 Adventure Gamers named Gold Rush! the 96th-best adventure game of all ti
 
 Starostin wrote that the MacNeills "seem to have vanished" after the game shipped and apparently left the industry[^ref-5]. In fact, the brothers' company, The Software Farm, re-released the game as *California Gold Rush!* in 1998[^ref-22]. It later issued a Collector's Edition, dated 2000 by DOSdays[^ref-3].
 
-According to Wikipedia, German developer Sunlight Games later "secured the rights"[^ref-1]. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12][^ref-14], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
+According to Wikipedia, German developer Sunlight Games later "secured the rights"[^ref-1]. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
 
 Sunlight Games released Gold Rush! 2 in April 2017 as a sequel to Gold Rush! Anniversary[^ref-1]. Sunlight says the sequel's story "came from the pen of the developers of the original game"[^ref-18]. 3rd-Strike gave it 6.1/10 and said its voice acting was "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"[^ref-16].
 
@@ -124,7 +124,7 @@ In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! f
 
 ### Easter Eggs and Trivia
 
-The game contains at least one documented Easter egg. A gravestone in the Brooklyn cemetery references the opening narration of the "Boston Blackie" radio show[^ref-9].
+The game contains at least one documented Easter egg. According to fan-documented trivia on TV Tropes, a gravestone in the Brooklyn cemetery references the opening narration of the "Boston Blackie" radio show[^ref-9].
 
 ## Downloads
 
@@ -153,7 +153,7 @@ The game contains at least one documented Easter egg. A gravestone in the Brookl
 [^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564731-gold-rush/faqs/37856) – Points system: 250/255 points, 50 gold points "entirely optional"
 [^ref-12]: [Choicest Games](https://www.choicestgames.com/2019/10/gold-rush-classic-review.html) – Gold Rush! Classic review (5/10); Dragon magazine score; Classic release date
 [^ref-13]: MyAbandonware *(download link removed: the game is sold commercially)* – Home of the Underdogs (HOTUD) review text, quoted
-[^ref-14]: [Steam Store](https://store.steampowered.com/app/308000/Gold_Rush_Classic/) – User review percentage (87% of 77); release on Steam
+[^ref-14]: [Steam Store](https://store.steampowered.com/app/308000/Gold_Rush_Classic/) – User review percentage (87% of 77)
 [^ref-16]: [3rd-Strike – Gold Rush! 2 Review](https://3rd-strike.com/gold-rush-2-review/) – Gold Rush! 2 (2017) score and voice-acting criticism
 [^ref-18]: [Sunlight Games](https://www.goldrush-game.com/) – Anniversary remake, Gold Rush! 2 story by the original developers, 2019 Amiga Special Edition
 [^ref-20]: [IGDB](https://www.igdb.com/games/gold-rush) – Game database entry (publisher Sierra On-Line, 1988)
