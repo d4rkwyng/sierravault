@@ -2,7 +2,7 @@
 title: Fascination
 release_year: 1991
 developer: Coktel Vision
-designer: [Muriel Tramis, Philippe Lamarque]
+designer: [Muriel Tramis]
 publisher: Tomahawk
 genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Doralice May
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-23'
+last_updated: '2026-10-27'
 composer: [Frédéric Motte, Alain Sery]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
  by Coktel Vision and published under its Tomahawk label in 1991 for the Amiga, Atari
@@ -19,19 +19,20 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 *Fascination* is an erotic thriller graphic adventure game developed by Coktel Vision and published under Tomahawk, the label Coktel used for its simulation and erotic games, in 1991 for the Amiga, Atari ST, and MS-DOS platforms.[^ref-10][^ref-24][^ref-32] The game places players in the role of Doralice May, described in the game's manual as "the sexiest captain on the Paris-Miami flight,"[^ref-21][^ref-29] who becomes entangled in a dangerous conspiracy involving a revolutionary chemical substance after a dying passenger entrusts her with a mysterious vial.[^ref-2] As a first-person point-and-click adventure, *Fascination* was the third and final entry in Coktel Vision's short-lived line of mature-themed adventure games that began with *Emmanuelle* (1989) and continued with *Geisha* (1990).[^ref-10][^ref-18][^ref-6]
 
-The game was designed by [[Muriel Tramis]], a Martinique-born designer whose Coktel Vision games frequently featured female protagonists and mildly erotic scenes.[^ref-4] Despite its adult themes, *Fascination* was noted by *The Adventurers' Guild* for having "sensible problems with sensible solutions, not based on minigames or external sources of information, but on the logical use of items you'll find."[^ref-5] The protagonist Doralice would later return in Coktel Vision's *Lost in Time* (1993), establishing a loose continuity between the games.[^ref-6]
+The game was designed by [[Muriel Tramis]], a designer from Martinique whose Coktel Vision games frequently featured female protagonists and mildly erotic scenes.[^ref-4][^ref-38] Despite its adult themes, *Fascination* was noted by *The Adventurers' Guild* for having "sensible problems with sensible solutions, not based on minigames or external sources of information, but on the logical use of items you'll find."[^ref-5] The protagonist Doralice would later return in Coktel Vision's *Lost in Time* (1993), establishing a loose continuity between the games.[^ref-6]
 
 Contemporary reception was mixed, with French publications rating the PC version highly (90-91%) while Amiga reviews ranged more widely from 47% to 80%.[^ref-7] The *I Heart Old Games* blog described it as "a less grotesque version of Leisure Suit Larry but with a more pronounced sensuality,"[^ref-8] while a Lemon Amiga user comment praised its "clever mix between eroticism and thriller."[^ref-9]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], MDO (programming)[^ref-24][^ref-28]
-> **Designer:** [[Muriel Tramis]], Philippe Lamarque[^ref-9]
+> **Designer:** [[Muriel Tramis]][^ref-9]
+> **Programming Manager:** Philippe Lamarque[^ref-9][^ref-24]
 > **Publisher:** [[Tomahawk]] (Coktel Vision label); Coktel Vision with Digital Integration distributing (US, 1992)[^ref-32][^ref-33]
 > **Engine:** Gob[^ref-10]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
@@ -44,7 +45,7 @@ Contemporary reception was mixed, with French publications rating the PC version
 
 The narrative opens with Jeffrey Miller, CEO of Quantum Unlimited Laboratory (Q.U.L.), who has discovered a revolutionary cerebro-chemical substance capable of neutralizing behavioral inhibitors—essentially a drug that increases the sex drive.[^ref-11][^ref-24] Miller's right-hand man,[^ref-6] Fayard Nichols, is transporting a prototype vial of this substance when he suffers a fatal heart attack aboard a Paris-to-Miami flight. In his dying moments, Nichols places the vial into the hands of Captain Doralice May, the flight's commanding officer, imploring her to deliver it into safe hands.[^ref-2]
 
-Upon landing in Miami, Doralice finds herself thrust into a dangerous conspiracy. The chemical's potential has attracted numerous interested parties, and Miller himself has been assassinated.[^ref-13] Doralice must navigate Miami's various locales—including a lingerie shop in Coconut Grove, a jazz club in Little Havana, and the historic Villa Vizcaya—to uncover the truth.[^ref-6] A recorded message from Miller tasks her with recovering a stolen vial and delivering both samples to his son Kenneth.[^ref-14] The French Wikipedia summarises her task as often having to lie, use her charms and above all her wits to carry out her investigation and solve the mystery.[^ref-6]
+Upon landing in Miami, Doralice finds herself thrust into a dangerous conspiracy. The chemical's potential has attracted numerous interested parties, and Miller himself has been assassinated.[^ref-24] Doralice must navigate Miami's various locales—including a lingerie shop in Coconut Grove, a jazz club in Little Havana, and the historic Villa Vizcaya—to uncover the truth.[^ref-6] A recorded message from Miller tasks her with recovering a stolen vial and delivering both samples to his son Kenneth.[^ref-14] The French Wikipedia summarises her task as often having to lie, use her charms and above all her wits to carry out her investigation and solve the mystery.[^ref-6]
 
 Doralice must also avoid being made out as the murderer.[^ref-24] Her fellow pilot and boyfriend Rob, having consumed the drug while she was away, is driven by the drug to commit a series of rapes, which Doralice follows through the newspapers she collects.[^ref-1][^ref-14][^ref-29] The cast includes Inspector Pedro di Helgos, a wheelchair-using policeman who is eventually revealed to be the villain Doc in disguise.[^ref-1][^ref-14] In the ending, Doralice frees the real Kenneth and finds the whole cast waiting for her: Rob explains that the adventure was a trial run of a role-playing game business he has set up.[^ref-1] PC Gamer's Richard Cobbett called it "perhaps the stupidest ending of any game in history,"[^ref-29] while Polish scholar Filip Jankowski (*Games and Culture*, 2020) disputed Cobbett's view and argued that the ending anticipated the finale of David Fincher's film *The Game* (1997)[^ref-1], a comparison Abandonware France also drew.[^ref-3]
 
@@ -86,6 +87,8 @@ The Amiga version received more varied scores across European publications. *CU 
 
 The most critical Amiga reviews came from *Amiga Action* (51%, Peter Lee), *Amiga Joker* (48%, Oskar Dzierzynski), and *Amiga Computing* (47%, Ben Styles).[^ref-7] Ben Styles of *Amiga Computing* wrote that "The French just aren't funny any more."[^ref-21]
 
+On the Atari ST, *ST Format* (Issue 39, October 1992) gave the game 78% in Andy Lowe's review, listing the software house as Coktel Vision/Digital Integration, and *Atari ST Review* (Issue 6, October 1992) gave it 80%, listing Digital Integration as the company.[^ref-39][^ref-40][^ref-22]
+
 ### Modern Assessment
 
 Modern retrospectives have been mixed. *Hardcore Gaming 101* observed that "like most purportedly 'adult' games, *Fascination* is largely fixated on cheap thrills and ridiculously juvenile humor."[^ref-2] The *Adventurers' Guild* blog gave the game a score of 42, noting that its sexuality was "mostly just there to spice things up... it's all very much like a light version of Leisure Suit Larry." Reviewer Ilmari scored its Environment and Atmosphere just 2 out of 10, objecting to the plot's attempt to draw humour from rape, and deducted a further point overall for "the careless use of rape in the plot."[^ref-5]
@@ -106,7 +109,7 @@ The *Atari Legend* retrospective was more nostalgic, with the reviewer stating "
 
 ### Production
 
-MobyGames, ScummVM, PCGamingWiki and StrategyWiki credit Coktel Vision (with programming by MDO) as developer and Tomahawk as publisher.[^ref-24][^ref-10][^ref-28][^ref-15] The English Wikipedia reverses the two roles,[^ref-1] but Tomahawk was not a separate studio: it was the label Coktel Vision used to publish its simulation and erotic games.[^ref-32] The game was built using the Gob engine, which would later power other Coktel Vision titles including the popular *Gobliiins* series.[^ref-10] The team included concept designer Muriel Tramis and manager Philippe Lamarque, with graphics created by Joseph Kluytmans, Rasheed (Rachid Chebli), and Yannick Chosse.[^ref-9][^ref-24]
+MobyGames, ScummVM, PCGamingWiki and StrategyWiki credit Coktel Vision (with programming by MDO) as developer and Tomahawk as publisher.[^ref-24][^ref-10][^ref-28][^ref-15] The English Wikipedia reverses the two roles,[^ref-1] but Tomahawk was not a separate studio: it was the label Coktel Vision used to publish its simulation and erotic games.[^ref-32] The game was built using the Gob engine, the engine Coktel Vision also used for its *Gobliiins* series.[^ref-10][^ref-37] The team included concept designer Muriel Tramis and manager Philippe Lamarque, with graphics created by Joseph Kluytmans, Rasheed (Rachid Chebli), and Yannick Chosse.[^ref-9][^ref-24]
 
 According to composer Frédéric Motte, the programmers could not play ".MOD" music files on the PC at the time, so they sampled the Amiga music and played short loops of it.[^ref-35] Separately, the DOS version supports the Intersound MDO, a sound device distributed by Coktel Vision itself.[^ref-35]
 
@@ -121,7 +124,7 @@ According to composer Frédéric Motte, the programmers could not play ".MOD" mu
 
 The game's visual presentation was notable for its creative approach to imagery. The French Wikipedia article notes that the images do not always fill the screen, being cut into silhouette shapes such as a woman's face, an outstretched body or a dripping dagger.[^ref-6] The Atari ST version utilized 16 colors effectively, earning praise for its graphics in reviews.[^ref-23]
 
-The music is usually credited to Frédéric Motte (credited as "Moby" in some versions), who later described his Coktel Vision tunes as his "first gigs in the video game industry"; his Bandcamp collection of them includes a "Fascination" track.[^ref-27] The composer, who came from the Amiga demo scene, was not the famous musician Moby but shared the nickname.[^ref-23] The credit is not consistent across sources: the English Wikipedia, Lemon Amiga and Atari Legend credit Motte,[^ref-1][^ref-9][^ref-22] MobyGames credits Motte for the floppy release but Bibapelula Productions / Alain Sery for the CD-ROM version's music (with Motte on sound effects),[^ref-24] and the French Wikipedia credits Alain Sery alone.[^ref-6]
+The music is usually credited to Frédéric Motte (credited as "Moby" in some versions), who later described his Coktel Vision tunes as his "first gigs in the video game industry"; his Bandcamp collection of them includes a "Fascination" track.[^ref-27] The composer, who came from the Amiga demo scene, was not the famous musician Moby but shared the nickname.[^ref-23] The credit is not consistent across sources: the English Wikipedia and Lemon Amiga credit Motte and Atari Legend credits "Moby",[^ref-1][^ref-9][^ref-22] MobyGames credits Motte for the floppy release but Bibapelula Productions / Alain Sery for the CD-ROM version's music (with Motte on sound effects),[^ref-24] and the French Wikipedia credits Alain Sery alone.[^ref-6]
 
 ### Technical Specifications
 
@@ -137,7 +140,7 @@ The music is usually credited to Frédéric Motte (credited as "Moby" in some ve
 **CD-ROM Version (1992):**[^ref-10]
 - **Resolution:** 320x200, 256 colors
 - **Audio:** Speech on a CD audio track[^ref-10]
-- **Notes:** First CD game created by Coktel Vision; includes censored content compared to floppy version[^ref-29][^ref-35]
+- **Notes:** First CD game created by Coktel Vision[^ref-10]; includes censored content compared to floppy version[^ref-29][^ref-35]
 
 **Amiga Version:**[^ref-9]
 - **Platforms:** Amiga OCS/ECS
@@ -153,7 +156,7 @@ The CD-ROM version released in 1992 added multiple languages and speech, but cen
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1991 | DOS, Amiga, Atari ST | Initial floppy release[^ref-1] |
+| Floppy | 1991 | DOS, Amiga, Atari ST | Initial floppy release[^ref-1] |
 | CD-ROM | 1992 | DOS | Voice acting added, some content censored[^ref-10][^ref-35] |
 
 **Regional Variants:**[^ref-18]
@@ -161,7 +164,7 @@ The CD-ROM version released in 1992 added multiple languages and speech, but cen
 - **German Version:** Credited to Coktel Vision/Bomico in *Amiga Joker*'s review[^ref-21]
 
 **Gob Engine Notes:**[^ref-10]
-The game uses the Gob engine, which was later employed for the *Gobliiins* series and other Coktel Vision titles. The CD version stores STK files hidden on the disc, and the game is supported by ScummVM for modern playback.[^ref-10]
+The game uses the Gob engine, the engine Coktel Vision also used for its *Gobliiins* series and other titles.[^ref-37] The CD version stores STK files hidden on the disc, and the game is supported by ScummVM for modern playback.[^ref-10]
 
 ### Technical Issues
 
@@ -270,8 +273,8 @@ The game was released shortly before Coktel Vision was acquired by Sierra On-Lin
 [^ref-19]: [GameFAQs – Fascination Walkthrough](https://gamefaqs.gamespot.com/pc/961783-fascination/faqs/64512) – random codes, walkthrough version info
 [^ref-20]: [Sierra Chest – Fascination Walkthrough](https://sierrachest.com/index.php?a=games&id=384&fld=walkthrough) – easter eggs, puzzle solutions, death traps
 [^ref-21]: [Amiga Reviews – Fascination](https://www.amigareviews.leveluphost.com/fascinat.htm) – review quotes, German publisher
-[^ref-22]: [Atari Legend – Fascination Game Page](https://www.atarilegend.com/games/fascination) – credits (Moby, music), magazine scores
-[^ref-23]: [Atari Legend – Fascination Review](https://www.atarilegend.com/reviews/134) – detailed scores, composer information, graphics analysis
+[^ref-22]: Atari Legend – Fascination Game Page (link removed: its screenshot gallery includes the nude shower-scene shot) – credits (Moby, music), ST Format and Atari ST Review scores
+[^ref-23]: Atari Legend – Fascination Review (link removed: page shows a nude shower-scene screenshot) – detailed scores, composer information, graphics analysis
 [^ref-24]: [MobyGames – Fascination](https://www.mobygames.com/game/9399/fascination/) – credits, technical notes, voice cast, reviewer quotes
 [^ref-25]: Abandonware DOS – Fascination (link removed: page shows unblurred adult screenshots) – user rating, platform information
 [^ref-27]: [Elmobo Bandcamp – Early Years: Coktel Vision](https://elmobo.bandcamp.com/album/early-years-coktel-vision) – composer retrospective
@@ -284,3 +287,7 @@ The game was released shortly before Coktel Vision was acquired by Sierra On-Lin
 [^ref-34]: [MobyGames – Fascination Tech Specs](https://www.mobygames.com/game/9399/fascination/specs/) – DOS minimum CPU/OS/RAM, media, video modes, sound devices
 [^ref-35]: [MobyGames – Fascination Trivia](https://www.mobygames.com/game/9399/fascination/trivia/) – CD-ROM censorship details, Intersound MDO support, Motte on sampled .MOD music
 [^ref-36]: [The Sierra Chest – The CD ROM Catalogue 1994](https://sierrachest.com/index.php?a=publications&id=5) – Sierra UK catalogue; page 15 ("E.S.S. Mega - Fascination") and back-cover title list include Fascination under "CD ROM Classics"
+[^ref-37]: [ScummVM Wiki – Category: Gob Games (Wayback, 15 August 2025)](http://web.archive.org/web/20250815053807/https://wiki.scummvm.org/index.php?title=Category%3AGob_Games) – Gob engine games include Fascination, Gobliiins, Gobliins 2 and Goblins 3
+[^ref-38]: [The Obscuritory – Muriel Tramis speaks about her career and the memory of Martinique](https://obscuritory.com/essay/muriel-tramis-interview/) – Phil Salvador, 5 March 2018; "She grew up in Martinique but left for France at age 16"
+[^ref-39]: [ST Format Issue 39, October 1992 (Internet Archive)](https://archive.org/details/stformathi05) – Fascination review by Andy Lowe, scan pages 114–115 (stf39jpg.zip); software house Coktel Vision/Digital Integration, ST Format Rating 78%
+[^ref-40]: [Atari ST Review Issue 6, October 1992 (Internet Archive)](https://archive.org/details/atari-st-review-006) – Fascination review, p. 96; company Digital Integration, overall 80%
