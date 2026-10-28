@@ -8,9 +8,9 @@ genre: Adventure
 platforms: [Apple II, Atari 8-bit, C64, FM-7, PC-88, PC-98]
 series: Hi-Res Adventure
 engine: ADL
-protagonist: Astronaut (player-named)
+protagonist: Astronaut
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Hi-Res Adventure #0: Mission Asteroid is a 1980 Apple II graphic adventure
   by Ken and Roberta Williams for On-Line Systems, an easier introduction to the Hi-Res
   Adventure series in which an astronaut must destroy an asteroid headed for Earth.'
@@ -18,13 +18,13 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hi-Res Adventure #0: Mission Asteroid (styled "Mission: Asteroid" in the manual and on the title screen) is a graphic adventure game for the Apple II written by Ken and Roberta Williams and released in 1980 by On-Line Systems[^ref-3][^ref-22]. It belongs to the Hi-Res Adventure series, the early-1980s run of graphic adventures that also includes Mystery House and The Wizard and the Princess[^ref-1][^ref-5]. Despite being numbered "#0," it was published after #1: Mystery House and #2: The Wizard and the Princess[^ref-3][^ref-4]; Wikipedia's Sierra Entertainment article instead calls it the series' second release, ahead of Wizard and the Princess[^ref-16].
+Ken and Roberta Williams wrote Mission Asteroid for the Apple II, and On-Line Systems published it in 1980 as Hi-Res Adventure #0[^ref-3][^ref-21][^ref-22]. The manual and title screen spell the name "Mission: Asteroid"[^ref-3][^ref-22]. It belongs to the Hi-Res Adventure series, the early-1980s run of graphic adventures that also includes Mystery House and The Wizard and the Princess[^ref-1][^ref-5]. Despite being numbered "#0," it was published after #1: Mystery House and #2: The Wizard and the Princess[^ref-3][^ref-4]; Wikipedia's Sierra Entertainment article instead calls it the series' second release, ahead of Wizard and the Princess[^ref-16].
 
-The zero marked its role as an entry-level game. The manual calls it "an introduction to the HI-RES ADVENTURE family of games," "slightly easier and a little shorter than our other HI-RES ADVENTURE games"[^ref-22]. On-Line Systems' December 1980 listing in Softalk already named it "Hi-Res Adventure #0, Mission: Asteroid" and described it as "Easier than our other hi-res adventure games, but far from easy"[^ref-21]. Gaming After 40 describes the number as "retro-assigned"[^ref-4], but this earliest known listing shows it carried #0 from its first appearance[^ref-21].
+The zero marked its role as an entry-level game. The manual calls it "an introduction to the HI-RES ADVENTURE family of games," "slightly easier and a little shorter than our other HI-RES ADVENTURE games"[^ref-22]. Softalk's December 1980 new-product listing already named it "Hi-Res Adventure #0, Mission: Asteroid" and described it as "Easier than our other hi-res adventure games, but far from easy"[^ref-21]. Gaming After 40 describes the number as "retro-assigned"[^ref-4], but this earliest known listing shows it carried #0 from its first appearance[^ref-21].
 
 The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K disk for $19.95[^ref-21]. Gaming After 40 notes that the game uses the improved graphics engine introduced with The Wizard and the Princess, "allowing color fills as well as vectors"[^ref-4].
 
@@ -37,7 +37,7 @@ The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K dis
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
 > **Engine:** ADL (Adventure Development Language)[^ref-24]
-> **Protagonist:** Astronaut (player-named)
+> **Protagonist:** Astronaut
 
 ## Story Summary
 
@@ -73,7 +73,7 @@ Mark Marlow reviewed Mission: Asteroid together with Mystery House and The Wizar
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| MobyGames | 7.0 | Moby Score; players average 3.6/5 from 33 ratings[^ref-6] |
+| MobyGames | 7.0 | Moby Score, 33 ratings[^ref-6] |
 | MyAbandonware | 4/5 | 10 votes[^ref-8] |
 | Glitchwave | 2.01/5 | 10 ratings[^ref-14] |
 | IGDB | 6.0/10 | 6 ratings[^ref-19] |
@@ -156,7 +156,7 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 [^ref-3]: [Wikipedia – Mission Asteroid](https://en.wikipedia.org/wiki/Mission_Asteroid) – Authorship, 1980 On-Line Systems release, title styling, release order
 [^ref-4]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-mission-asteroid-1981.html) – Release order, graphics engine, credits, Anthology, save slots, playthrough
 [^ref-5]: [Sierra Fandom Wiki – Mission Asteroid](https://sierra.fandom.com/wiki/Mission_Asteroid) – Graphic adventure released in 1980, part of the Hi-Res Adventures series
-[^ref-6]: [MobyGames – Reviews](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/reviews/) – Moby Score 7.0, player average 3.6/5 (33 ratings), player review
+[^ref-6]: [MobyGames – Reviews](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/reviews/) – Moby Score 7.0 (33 ratings), player review
 [^ref-7]: [Pixelated Arcade](https://www.pixelatedarcade.com/games/hi-res-adventure-0-mission-asteroid/) – Genre, setting, presentation, Atari credit (Chris Iden), technical specs
 [^ref-8]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl) – User rating (4/5, 10 votes)
 [^ref-9]: [MobyGames Releases](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/releases/) – Publishers, platforms, release dates, Yosemite Software Products Atari port
@@ -171,4 +171,4 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 [^ref-21]: [Softalk, December 1980 (Internet Archive)](https://archive.org/download/softalkv1n04dec1980/softalkv1n04dec1980_djvu.txt) – New-product listing: "Hi-Res Adventure #0, Mission: Asteroid", 21-color graphics, 48K, $19.95
 [^ref-22]: [Mission: Asteroid Apple II manual (Internet Archive)](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) – Premise, parser, saving, signed "Ken and Roberta Williams"
 [^ref-23]: [Computer Gaming World, Issue 2.1, Jan–Feb 1982 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow's review of the On-Line Systems Hi-Res Adventures
-[^ref-24]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #0" among the games using this engine
+[^ref-24]: [ScummVM Wiki – ADL (Wayback, 2025-01-01)](http://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #0" among the games using this engine
