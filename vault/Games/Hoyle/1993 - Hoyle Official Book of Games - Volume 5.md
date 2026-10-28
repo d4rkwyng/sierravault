@@ -5,8 +5,6 @@ developer: "Sierra On-Line, Inc."
 designer:
   - "Paul Horn"
   - "Gayle Rowbotham"
-  - "Jim Love"
-  - "Julie Pogue Barnes"
 publisher: "Sierra On-Line, Inc."
 genre: Card Game
 platforms: ["Windows 3.x", "Windows 95", "Macintosh"]
@@ -31,7 +29,7 @@ As part of Sierra's broader strategy to diversify beyond adventure games, Hoyle 
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-5]
-> **Designer:** Paul Horn, Gayle Rowbotham, Jim Love, Julie Pogue Barnes[^ref-2]
+> **Designer:** Paul Horn, Gayle Rowbotham (associate designers: Jim Love, Julie Pogue Barnes)[^ref-2]
 > **Publisher:** Sierra On-Line, Inc.[^ref-5]
 > **Engine:** SCI2.1[^ref-9]
 > **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-5]
@@ -106,7 +104,8 @@ The original Hoyle Official Book of Games: Volume 2, released in 1990, had estab
 Development was handled internally at Sierra On-Line, with the game built using the SCI2.1 engine[^ref-9]. The production team faced the challenge of faithfully recreating numerous card game variants while providing an intuitive and visually appealing interface suitable for Windows users.
 
 **Development Credits:**[^ref-2]
-- **Designers:** Paul Horn, Gayle Rowbotham, Jim Love, Julie Pogue Barnes
+- **Designers:** Paul Horn, Gayle Rowbotham
+- **Associate Designers:** Jim Love, Julie Pogue Barnes
 - **Composers:** Johnathan Cunningham, Jim Love, Evan Schiller
 
 The game used Brown & Bigelow card trademarks under license, connecting it to the established Hoyle brand of playing cards[^ref-3]. This licensing arrangement lent authenticity to the digital card collection and aligned it with physical Hoyle products familiar to card game enthusiasts.
@@ -124,7 +123,6 @@ The game offered two installation options: a CD version that ran primarily from 
 - **CPU:** Intel i486 or higher
 - **RAM:** 8 MB
 - **Storage:** 2x CD-ROM drive required
-- **Item Size:** 16.0M (CD version)[^ref-5]
 
 **Macintosh Version:**
 - Released in 1997, the year after the Windows 3.x version[^ref-2]
@@ -139,13 +137,6 @@ The game offered two installation options: a CD version that ran primarily from 
 | Rerelease | January 19, 1998 | Windows | Updated version[^ref-6] |
 | 1998 Edition | 1998 | Windows | 1998 CD release[^ref-19] |
 | 2000 Edition | 2000 | Windows 95/98 | Windows 95/98 release[^ref-20] |
-
-**SCI Interpreter Versions:**[^ref-9]
-
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| 1.0 | SCI2.1 | SCI2.1 | Initial Windows release |
-| CD-ROM | SCI2.1 | SCI2.1 | CD version |
 
 ### Technical Issues
 
@@ -164,7 +155,7 @@ The Hoyle series was known for featuring Sierra game characters as opponents in 
 - Roger Wilco from Space Quest
 - Larry Laffer from Leisure Suit Larry
 - Sonny Bonds from Police Quest
-- Princess Rosella from King's Quest IV[^ref-22]
+- Princess Rosella[^ref-22]
 
 These characters had unique dialogues and reactions during gameplay[^ref-22]. Characters would even have conversations if the game was left idle, with Roger Wilco and King Graham potentially discussing Space Quest storylines[^ref-22].
 
