@@ -10,15 +10,16 @@ series: Ground Control
 engine: Custom (DirectX 7)
 protagonist: Major Sarah Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Ola Strandh]
-description: 'Ground Control: Dark Conspiracy is an expansion pack for the critically
-  acclaimed real-time tactics game Ground Control, developed by High Voltage Software...'
+description: 'Ground Control: Dark Conspiracy is a 2000 expansion pack for the real-time
+  tactics game Ground Control, developed by High Voltage Software with Massive Entertainment
+  and published by Sierra Studios.'
 tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -47,7 +48,7 @@ The campaign begins a few months after the original, with Parker and her comrade
 
 On board, Cardinal Kila Balor explains the rescue: she wants to hire Parker to destroy the Second Dawn, a splinter faction that refuses to recognise the Order's authority and is involved in a "dark conspiracy", which official Order forces cannot attack openly for fear of civil war[^ref-1]. Parker accepts, and contact is made with the expansion's new playable faction, the Phoenix Mercenaries[^ref-1]. After a campaign across three planets, Parker and her new allies destroy the Second Dawn, learn that Stone is still alive and rescue him[^ref-1].
 
-The expansion's narrative was noted for ending abruptly on a cliffhanger, leaving several plot threads unresolved and setting up potential future installments in the Ground Control saga[^ref-1]. The cutscenes throughout the campaign were produced by Blur Studio, known for their high-quality CGI work in video games[^ref-17].
+The game ends abruptly in a cliffhanger[^ref-1]. Unlike the original game's cutscenes, which were pre-rendered in the game engine, the expansion's cutscenes were done by Blur Studio[^ref-17][^ref-9].
 
 ## Gameplay
 
@@ -59,7 +60,7 @@ The interface emphasizes tactical positioning over economic management: the orig
 
 ### Structure and Progression
 
-The expansion features 15 all-new single-player scenarios that continue the storyline from the original game[^ref-7]. These missions take place across new environments and terrain types not seen in the base game, including at least one entirely new planetary environment[^ref-11]. Players control the new Phoenix mercenary faction for most of the campaign[^ref-6], fighting both Order of the New Dawn and Crayven Corporation forces along the way[^ref-1]..
+The expansion features 15 all-new single-player scenarios that continue the storyline from the original game[^ref-7]. These missions take place across new environments and terrain types not seen in the base game, including one completely new environment[^ref-11]. Players control the new Phoenix mercenary faction for most of the campaign[^ref-6], fighting both Order of the New Dawn and Crayven Corporation forces along the way[^ref-1].
 
 Mission structure follows the tactical deployment model established in the original game—players are generally stuck with whichever units they initially deploy into battle[^ref-18]. According to GameFAQs user data, a complete playthrough takes approximately 35 hours and is considered "Tough" in difficulty[^ref-13].
 
@@ -79,7 +80,7 @@ GameZone awarded the expansion **8.5/10**, with reviewer Michael Lafferty callin
 
 IGN gave the expansion **8/10**. Dan Adams wrote that it was not one of the rare expansions to rise out of its predecessor's shadow, saying it "suffers from some incredibly slow gameplay and the same pathing problems that Ground Control did" and criticising its "mediocre mission designs"[^ref-6]. He still recommended it to fans of Ground Control "if it was the price of a regular expansion", and especially since it was free[^ref-6].
 
-GameSpot scored the game **7.9/10**, with Greg Kasavin observing that "Dark Conspiracy fundamentally remains the same great strategy game as its predecessor"[^ref-18]. The review noted that "Ground Control boasted some of the best graphics of any PC game released in 2000" and the expansion maintained that visual quality[^ref-18].
+GameSpot scored the game **7.9/10**, with Greg Kasavin observing that "Dark Conspiracy fundamentally remains the same great strategy game as its predecessor"[^ref-18]. The review noted that "Ground Control boasted some of the best graphics of any PC game released in 2000" and that the expansion "looks as good as Ground Control did, for the most part", though Kasavin found the new environments "unremarkable" because of "lower-quality textures" for the ground and sky[^ref-18].
 
 CNET Gamecenter awarded **80/100**, noting that "this game not only has everything that an add-on pack should have—fresh units, a new campaign, and new multiplayer maps and modes—but it has one thing that most don't: a goose-egg price tag"[^ref-21].
 
@@ -92,8 +93,6 @@ GamePower awarded **75/100**[^ref-21].
 Génération 4, a French gaming publication, scored the expansion **15/20 (75%)**[^ref-10].
 
 ### Modern Assessment
-
-Ground Control: Dark Conspiracy maintains a solid reputation among real-time tactics enthusiasts, though it remains overshadowed by its highly regarded predecessor.
 
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (7 critic reviews: 5 positive, 2 mixed, 0 negative)[^ref-21]
@@ -114,11 +113,11 @@ Ground Control: Dark Conspiracy was first announced in August 2000 by Sierra Stu
 
 ### Production
 
-The expansion was developed to continue the Ground Control saga with substantial new content—15 single-player missions, new environments and terrain, and the introduction of a third playable faction[^ref-7]. High Voltage Software handled primary development duties on the expansion, building upon the engine and assets created by Massive Entertainment for the original game[^ref-1].
+The expansion was developed to continue the Ground Control saga with substantial new content—15 single-player missions, new environments and terrain, and the introduction of a third playable faction[^ref-7]. GameSpot described the expansion as "Created by American studio High Voltage Software", with several new multiplayer maps "designed by the original Ground Control team" at Massive Entertainment[^ref-18]. MobyGames' credits list both a High Voltage Software team and a Massive Entertainment team, the latter including "3D Game Engine" credits[^ref-9].
 
 **Development Credits:**[^ref-9]
-- **Designers:** Tom Smith, Jeff Marks, David A. Rodriguez, Leif Lathrop, Martin Walfisz
-- **Original Game Design:** Martin Walfisz, Henrik Sebring
+- **High Voltage Software:** Tom Smith (Lead Designer); Jeff Marks, David A. Rodriguez, Leif Lathrop (Designers)
+- **Massive Entertainment:** Martin Walfisz (Director & Lead Game Designer); Martin Walfisz, Henrik Sebring (Game Design)
 - **Voice Director:** Jeff Pobst
 - **Composer:** Ola Strandh
 
@@ -126,12 +125,12 @@ The development team totaled 178 people across all contributing studios, accumul
 
 ### Animation Production
 
-- **Blur Studio** – Produced all CGI cutscenes for the expansion[^ref-17]
+- **Blur Studio** – Produced the expansion's cutscenes[^ref-17][^ref-9]
 - **Sierra Studios** – Publishing and production oversight[^ref-1]
 
 ### Technical Achievements
 
-Ground Control was recognized at release as having "some of the best graphics of any PC game released in 2000"[^ref-18]. The fully 3D engine allowed complete camera freedom, enabling players to view the battlefield from any angle and zoom level[^ref-18]. The expansion maintained these visual standards while introducing new terrain types and environmental effects[^ref-7].
+Ground Control was recognized at release as having "some of the best graphics of any PC game released in 2000"[^ref-18]. The fully 3D engine allowed complete camera freedom, enabling players to view the battlefield from any angle and zoom level[^ref-18]. The expansion added new terrain[^ref-7], and reviewers were split on how it looked: GameSpot found its new environments weaker than the original's[^ref-18], while GameZone praised its "better terrain graphics" and called the environmental graphics "outstanding"[^ref-20].
 
 The game utilized DirectX 7 technology with textured polygon graphics[^ref-10]. Gamepressure called the original game's complete lack of classic RTS raw-material management "an interesting solution" that makes the player focus on tactics[^ref-23].
 
@@ -160,7 +159,7 @@ The game utilized DirectX 7 technology with textured polygon graphics[^ref-10]. 
 
 ### Technical Issues
 
-Several technical issues carried over from the original Ground Control. Pathfinding problems with ground vehicles remained, and units would occasionally collide with each other when moving in formation, described by IGN as "playing bumper cars"[^ref-6]. The lack of an in-mission save feature was a deliberate design choice but proved frustrating for many players, requiring mission memorization to progress[^ref-6].
+Several technical issues carried over from the original Ground Control. Pathfinding problems with ground vehicles remained, and units would occasionally collide with each other when moving in formation, described by IGN as "playing bumper cars"[^ref-6]. The lack of an in-mission save feature was a frequent complaint in reviews; IGN noted it forced players to memorize where attacks come from[^ref-6], and GameSpot called the resulting retries "quite frustrating"[^ref-18].
 
 Online multiplayer servers were operated through WON.net, which was shut down on November 1, 2008, ending internet multiplayer through those servers[^ref-29]. The game also lists LAN among its multiplayer options[^ref-29].
 
@@ -174,7 +173,7 @@ Online multiplayer servers were operated through WON.net, which was shut down on
 
 ### Easter Eggs and Trivia
 
-- The original Ground Control contained a reference to David Bowie's "Space Oddity" through a character named Major Tom[^ref-8].
+- MobyGames notes that one of the original Ground Control's main characters is a Major Tom, "probably a reference to David Bowie's Space Oddity"[^ref-8].
 - The expansion was offered completely free to existing Ground Control owners who paid only $4.95 shipping and handling[^ref-4].
 - Dark Conspiracy was given away with every new purchase of Ground Control[^ref-4]; an order form was also included in specially marked boxes[^ref-5].
 - According to the game manual, as summarised by Wikipedia, the Phoenix Mercenaries are Crayven outcasts relocated to the mined-out planet Crim-12, who built a new society from scavenged parts[^ref-1].
@@ -208,22 +207,22 @@ No sales figures for Dark Conspiracy have been found. Sierra gave the expansion 
 The expansion was bundled with the original Ground Control in the **Ground Control: Anthology**, released in 2001[^ref-22]. Related releases:
 - **GOG.com:** Released July 8, 2009, by Rebellion, bundled with Ground Control[^ref-10]
 - The original Ground Control (not the expansion) was made a free download by Vivendi Universal on June 25, 2004, to promote Ground Control II[^ref-8]
-- Rebellion Developments later became distributor of the Ground Control franchise[^ref-27]
+- Rebellion Developments is listed as distributor of Dark Conspiracy on Wikidata[^ref-27] and as a publisher of Ground Control: Anthology on MobyGames[^ref-22]
 
 ### Fan Projects
 
-The Ground Control community has produced various fan resources including resolution changers to enable modern widescreen support[^ref-28].
+PCGamingWiki notes that the game supports only 640×480, 800×600 and 1024×768 by default, and documents a fan-made Resolution Changer for widescreen resolutions; Dark Conspiracy is run from the same executable with the `-mod DARKCONS` argument[^ref-32].
 
 ### Related Publications
 
-- **Game Manual:** Included with physical CD-ROM release[^ref-22]
+- **Game Manual:** The mail-in release shipped as a game CD carrying an on-disc version of the manual[^ref-18]
 - **Strategy Guides:** Various FAQ/walkthroughs created by community members, including comprehensive unit guides[^ref-12]
 
 ### Critical Perspective
 
 Ground Control: Dark Conspiracy represents an interesting case study in expansion pack development and distribution during the early 2000s. While the expansion itself offered solid content—15 new missions, a new faction, expanded unit rosters—it was the pricing strategy that made it memorable[^ref-4]. Sierra said it gave the expansion away to give consumers an added incentive to buy Ground Control[^ref-4].
 
-The expansion kept the original's focus on deployed squads rather than harvesting or tech trees[^ref-8]. Its cliffhanger ending left story threads unresolved[^ref-1], and the narrative gap between Dark Conspiracy's 2419 setting and Ground Control II's 2741 setting represents a significant timeline jump[^ref-28].
+The expansion kept the original's focus on deployed squads rather than harvesting or tech trees[^ref-8]. Its story ends abruptly in a cliffhanger[^ref-1]; the series next continued with [[2004 - Ground Control II - Operation Exodus|Ground Control II]], set in 2741, centuries after Dark Conspiracy's 2419 setting[^ref-3].
 
 The game's legacy is preserved through digital distribution on platforms like GOG.com, where Ground Control and Dark Conspiracy are sold together as the Ground Control Anthology[^ref-3].
 
@@ -266,6 +265,6 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-24]: [Gamicus Fandom – Ground Control: Dark Conspiracy](https://gamicus.fandom.com/wiki/Ground_Control:_Dark_Conspiracy) – minimum system requirements
 [^ref-26]: [Behind The Voice Actors – Ground Control: Dark Conspiracy](https://www.behindthevoiceactors.com/video-games/ground-control-dark-conspiracy/) – voice cast, voice director
 [^ref-27]: [Wikidata – Ground Control: Dark Conspiracy](https://www.wikidata.org/wiki/Q3777147) – distribution information
-[^ref-28]: [ModDB – Ground Control II](https://www.moddb.com/games/ground-control-ii/downloads/ground-control-1-resolution-changer) – Ground Control 1 resolution changer; Ground Control II setting (2741)
 [^ref-29]: [MobyGames – Ground Control: Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – critic score (79%), ESRB, multiplayer options, WON server shutdown trivia
 [^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
+[^ref-32]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – default resolutions, widescreen Resolution Changer fix, `-mod DARKCONS` launch argument for Dark Conspiracy
