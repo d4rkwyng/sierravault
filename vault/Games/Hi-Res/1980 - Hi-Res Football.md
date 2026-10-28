@@ -10,7 +10,7 @@ series: Hi-Res Sports
 engine: Machine Language
 protagonist: Football Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Hi-Res Football is a real-time American football game for the Apple II
   by Jay Sullivan and Ken Williams, released by On-Line Systems (later Sierra) in
   late 1980.
@@ -18,11 +18,11 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Football
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hi-Res Football is an American football game for the Apple II, written by Jay Sullivan and [[Ken Williams]] and published in late 1980 by On-Line Systems, the company that later became Sierra On-Line[^ref-1][^ref-2]. Its manual billed it as "the only real-time action football available for your computer"[^ref-2]. On-Line Systems advertised it as "coming soon" in Softalk's September 1980 issue, and it was on sale for $39.95 by December 1980[^ref-16][^ref-17].
+Hi-Res Football is an American football game for the Apple II, written by Jay Sullivan and [[Ken Williams]] and published in late 1980 by On-Line Systems, the company that later became Sierra On-Line[^ref-1][^ref-2]. Its box billed it as "the only real-time action football available for your computer"[^ref-2]. On-Line Systems advertised it as "coming soon" in Softalk's September 1980 issue, and it was on sale for $39.95 by December 1980[^ref-16][^ref-17].
 
 The game appeared in Softalk's Top Thirty bestseller list in each of the January through April 1981 issues[^ref-18][^ref-19][^ref-20][^ref-21]. A 2022 retrospective nonetheless judged that neither of On-Line Systems' two Hi-Res sports games came near the success of its adventure or arcade titles[^ref-3].
 
@@ -34,7 +34,7 @@ The game appeared in Softalk's Top Thirty bestseller list in each of the January
 > **Platforms:** Apple II (48K; runs on Apple II or II Plus, DOS 3.2 or 3.3)[^ref-2][^ref-19]
 > **Release Year:** 1980[^ref-2][^ref-17]
 > **Series:** Hi-Res Sports
-> **Protagonist:** N/A (Sports simulation)
+> **Protagonist:** Football team (player-controlled)
 > **Sierra Lineage:** Core Sierra (Pre-Sierra Era)
 
 ## Story Summary
@@ -49,7 +49,7 @@ Everything is controlled with the Apple II's paddles. In the huddle, each player
 
 ### Structure and Progression
 
-Each team has seven players, six of them computer-controlled, who follow the pattern of the selected play[^ref-2]. The game offers 11 offensive plays (4 passes, 5 runs and 2 kinds of kick) and 9 defensive plays, with play cards packed in to help with selection[^ref-2]. The clock runs continuously, there are no kickoffs: at the start of each half and after every touchdown or field goal, the offense takes the ball on its own 20-yard line[^ref-2]. An insert added a choice of intermediate or advanced skill level; the advanced level animates faster[^ref-2].
+Each team has seven players, six of them computer-controlled, who follow the pattern of the selected play[^ref-2]. The game offers 11 offensive plays (4 passes, 5 runs and 2 kinds of kick) and 9 defensive plays, with play cards packed in to help with selection[^ref-2]. The clock runs continuously. There are no kickoffs: at the start of each half and after every touchdown or field goal, the offense takes the ball on its own 20-yard line[^ref-2]. An insert added a choice of intermediate or advanced skill level; the advanced level animates faster[^ref-2].
 
 **Game Modes:**
 - **Two players:** Each player calls plays and controls the action with a paddle[^ref-2]
@@ -84,7 +84,7 @@ Softalk described the game as "a collaborative effort between Ken and Jay Sulliv
 - Jay Sullivan
 - Ken Williams
 
-Its companion title, Hi-Res Soccer, followed the next year according to Retro365[^ref-3].
+Its companion title, Soccer, had appeared by April 1981, when Softalk reported that "Ken Williams and Jay Sullivan have jumped from the football gridiron to the soccer field"[^ref-21][^ref-3].
 
 ### Release
 
