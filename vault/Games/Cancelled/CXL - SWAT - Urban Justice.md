@@ -10,22 +10,23 @@ series: SWAT
 engine: Takedown 3D
 protagonist: SWAT Officer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
-description: 'SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra
-  Entertainment, intended as the fourth installment in the SWAT franchise and the...'
+last_updated: '2026-10-27'
+description: 'SWAT: Urban Justice was a tactical shooter developed by Sierra Entertainment
+  as the fourth installment in the SWAT franchise; work on it was discontinued in
+  April 2004 in favor of SWAT 4.'
 tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra Entertainment, intended as the fourth installment in the SWAT franchise and the direct sequel to SWAT 3: Close Quarters Battle.[^ref-1] The game was set in Los Angeles in the year 2006, coinciding with the city's 225th anniversary celebration, during which escalating gang warfare threatened to engulf the streets.[^ref-2] Players would take on the role of an elite SWAT officer tasked with restoring order and protecting civilians from three rival gangs vying for dominance.[^ref-3]
+SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra Entertainment, intended as the fourth installment in the SWAT franchise and the direct sequel to SWAT 3: Close Quarters Battle.[^ref-1] The game was set in Los Angeles in the year 2006, coinciding with the city's 225th anniversary celebration, during which escalating gang warfare threatened to engulf the streets.[^ref-2] Players would take on the role of an elite SWAT officer tasked with restoring order and protecting civilians from three rival gangs vying for dominance.[^ref-2][^ref-3]
 
 Despite extensive pre-release promotion and detailed developer diaries published throughout 2002, SWAT: Urban Justice slipped out of 2002 and then out of 2003, and in April 2004 Vivendi Universal Games announced that work on it had been "discontinued".[^ref-4][^ref-6][^ref-17][^ref-16] French site Gamekult described it as "l'épisode le plus décalé de la série des S.W.A.T" (the most offbeat episode of the SWAT series).[^ref-4] GameSpot's game page billed the title as featuring "more weapons, more combat gear, more bad guys, and a quicker pacing than ever before."[^ref-18]
 
-The cancellation of Urban Justice led directly to the development of SWAT 4 by Irrational Games, as GameSpot reported on 28 April 2004: "According to a carefully parsed statement from a VU spokesperson, work on Urban Justice has been 'discontinued' in favor of SWAT 4's development."[^ref-16][^ref-6] Despite never being released, Urban Justice left a lasting mark on the franchise—an easter egg for the cancelled game appears in SWAT 4, where an arcade cabinet named "SWAT: Urban Justice" sits in the waiting room of the Victory Imports Auto Garage mission.[^ref-1][^ref-6][^ref-13]
+Urban Justice was discontinued in favor of SWAT 4, developed by Irrational Games, as GameSpot reported on 28 April 2004: "According to a carefully parsed statement from a VU spokesperson, work on Urban Justice has been 'discontinued' in favor of SWAT 4's development."[^ref-16][^ref-6] Despite never being released, Urban Justice left a lasting mark on the franchise—an easter egg for the cancelled game appears in SWAT 4, where an arcade cabinet named "SWAT: Urban Justice" sits in the waiting room of the Victory Imports Auto Center mission.[^ref-1][^ref-19][^ref-6][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-2][^ref-14]
@@ -40,9 +41,9 @@ The cancellation of Urban Justice led directly to the development of SWAT 4 by I
 
 ## Story Summary
 
-SWAT: Urban Justice was set in a near-future Los Angeles of 2006, where years of intense gang warfare had reached an all-time high, threatening to overwhelm law enforcement's ability to maintain order.[^ref-3] The timing was significant—the city was celebrating its 225th anniversary, and the festivities were being overshadowed by a vicious three-way battle for territorial dominance among the city's most dangerous criminal organizations.[^ref-2]
+SWAT: Urban Justice was set in a near-future Los Angeles of 2006, after "years of intense gang wars".[^ref-3] The year marked the city's 225th anniversary, gang warfare had "reached an all time high", and three gangs were "engaged in a vicious battle for dominance".[^ref-2]
 
-Three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—were engaged in open warfare for control of Los Angeles' streets.[^ref-7] The escalating violence required intervention from the city's elite SWAT unit, putting players in the boots of highly trained tactical officers tasked with taking back neighborhoods block by block through 16 planned missions.[^ref-3]
+Three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—were engaged in open warfare for control of Los Angeles' streets.[^ref-7] It fell to the player's LA SWAT team to "restore order and protect the city streets",[^ref-2] taking "back the streets of Los Angeles" across 16 planned missions.[^ref-3]
 
 In a notable creative decision, the development team chose to feature a fictional SWAT team rather than the actual LA SWAT, granting themselves what they termed "liberdade poética" (poetic license) to explore scenarios and tactics without the constraints of strict realism.[^ref-7] UOL stressed that the differences were "discretas" (subtle) and did not undo the game's realism; as examples, the team could use shields and some of its members were women.[^ref-7] IGN's coverage likewise described the unit as "the highly trained men and women of the elite Special Weapons and Tactics unit."[^ref-9]
 
@@ -154,7 +155,7 @@ In March 2003 Sierra confirmed the game would not ship that year, while stressin
 
 Despite never being released, SWAT: Urban Justice lives on through an in-game reference:
 
-- **SWAT 4 Arcade Cabinet:** In SWAT 4's Victory Imports Auto Garage mission (the Police Quest Omnipedia calls it Victory Imports Auto Center), an arcade game called "SWAT: Urban Justice" appears in the waiting room.[^ref-1][^ref-13] Unseen64, quoting IMDb trivia, notes: "This is a company in-joke; Urban Justice was supposed to be Sierra/Vivendi's follow up to SWAT 3: Close Quarter Battle (1999)."[^ref-6]
+- **SWAT 4 Arcade Cabinet:** In SWAT 4's Victory Imports Auto Center mission (IMDb trivia, as quoted by Unseen64, calls it "Victory Imports Auto Garage"), an arcade game called "SWAT: Urban Justice" appears in the waiting room.[^ref-1][^ref-19][^ref-13] Unseen64, quoting IMDb trivia, notes: "This is a company in-joke; Urban Justice was supposed to be Sierra/Vivendi's follow up to SWAT 3: Close Quarter Battle (1999)."[^ref-6]
 
 - **NOLF2 Trailer:** A 2002 promotional trailer for Urban Justice was included on Disc 2 of No One Lives Forever 2, preserving early footage of the cancelled game.[^ref-1]
 
@@ -164,7 +165,7 @@ Despite never being released, SWAT: Urban Justice lives on through an in-game re
 
 ### Sales and Commercial Impact
 
-SWAT: Urban Justice never reached market, but its cancellation had significant implications for the franchise's direction. The project's discontinuation led directly to SWAT 4's development by Irrational Games.[^ref-6] GameSpot reported that the VU spokesman "stressed that SWAT 4 is both a different game and a true sequel, so it will retain the series' gameplay elements, albeit in a refined form."[^ref-16][^ref-6]
+SWAT: Urban Justice never reached market, but its cancellation had significant implications for the franchise's direction. Urban Justice was discontinued in favor of SWAT 4, developed by Irrational Games.[^ref-16] GameSpot reported that the VU spokesman "stressed that SWAT 4 is both a different game and a true sequel, so it will retain the series' gameplay elements, albeit in a refined form."[^ref-16][^ref-6]
 
 ### Collections
 
@@ -203,9 +204,10 @@ The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 fro
 [^ref-8]: [Gamatomic – SWAT: Urban Justice](https://www.gamatomic.com/games/201/swat-urban-justice) – planned September 2002 release date
 [^ref-9]: [IGN – SWAT: Urban Justice Developer Diary #5](https://www.ign.com/articles/2002/05/01/swat-urban-justice-developer-diary-5) – Evan Buehler sound design details, weapon recording methodology
 [^ref-10]: [Wikipedia – SWAT: Global Strike Team](https://en.wikipedia.org/wiki/SWAT:_Global_Strike_Team) – "SWAT: Urban Justice cancellation and SWAT 4" section: PC-only, 2003 target, internal delays, cancellation
-[^ref-11]: [HardForum – SWAT 4 Discussion](https://hardforum.com/threads/swat-4.890377/post-1027509257) – SWAT 4 GameSpot score (8.5), link to "SWAT 4 replacing SWAT: Urban Justice"
+[^ref-11]: [GameSpot – SWAT 4 Review (Wayback, 2005)](https://web.archive.org/web/20050403060040/http://www.gamespot.com:80/pc/action/swat4/review.html) – "GameSpot Score 8.5 great", posted 31 March 2005
 [^ref-13]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – "SWAT: Urban Justice (2002—cancelled) PC/Windows"; "An easter egg for the cancelled game can be found in SWAT4"
 [^ref-14]: [Gamehope – S.W.A.T. Urban Justice](https://gamehope.com/pc/3209-s-w-a-t-urban-justice/) – developer and publisher confirmation
-[^ref-16]: [GameSpot – SWAT 4 replacing SWAT: Urban Justice](https://www.gamespot.com/articles/swat-4-replacing-swat-urban-justice/1100-6094719/) – Tor Thorsen, 28 April 2004: VU says work on Urban Justice "discontinued" in favor of SWAT 4
+[^ref-16]: [GameSpot – SWAT 4 replacing SWAT: Urban Justice](https://www.gamespot.com/articles/swat-4-replacing-swat-urban-justice/1100-6094719/) – Tor Thorsen, 28 April 2004: VU says work on Urban Justice "discontinued" in favor of SWAT 4 ([Wayback copy, June 2004](https://web.archive.org/web/20040623113844/http://www.gamespot.com:80/news/2004/04/28/news_6094719.html))
 [^ref-17]: [GameSpot – SWAT: Urban Justice delayed (Wayback, 2003)](https://web.archive.org/web/20030402164941/http://www.gamespot.com:80/pc/action/swaturbanjustice/news_2912248.html) – Sam Parker, 7 March 2003: won't ship in 2003, "has not been canceled"
 [^ref-18]: [GameSpot – SWAT: Urban Justice for PC (Wayback, 2003)](https://web.archive.org/web/20030403012149/http://www.gamespot.com:80/pc/action/swaturbanjustice/index.html) – promotional blurbs, "project lead Rod Fung"
+[^ref-19]: [Police Quest Omnipedia – Victory Imports Auto Center](https://policequest.fandom.com/wiki/Victory_Imports_Auto_Center) – SWAT 4 map; "one of the arcade games in the waiting room is SWAT: Urban Justice"
