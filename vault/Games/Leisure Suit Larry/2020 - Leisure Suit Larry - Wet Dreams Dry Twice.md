@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -78,15 +78,15 @@ Leisure Suit Larry: Wet Dreams Dry Twice received "mixed or average" reviews fro
 | OpenCritic | 67/100 | 50% Critics Recommend (Oct 2026)[^ref-36] |
 | TechRaptor | 6.5/10 | Mixed review citing gameplay strengths but humor weaknesses[^ref-47] |
 | Push Square | 6/10 | Found it "does little to make newcomers feel welcome"[^ref-41] |
-| Steam Users | Very Positive (82%) | 750 user reviews (Oct 2026)[^ref-45] |
+| Steam Users | Very Positive (85%) | 999 user reviews (store page, October 28, 2026)[^ref-66] |
 
 The game received particular praise from Ragequit.gr, which awarded it 91/100 and called it "One of the best point 'n' click adventures of recent years, a worthy continuation of Sierra's classic Leisure Suit Larry games"[^ref-27].
 
 ### Modern Assessment
 
-Player reception has been mixed by platform: Steam users rate it Very Positive (82%)[^ref-45], while Metacritic's user score is 6.9, "mixed or average", against the PC Metascore of 73[^ref-27]. Trophy-hunting communities have provided detailed analyses of the game's structure and requirements[^ref-38]. One Reddit user described it as having "surprisingly good" production values with "overall good voice acting, some nice music and nicely drawn 2d graphics"[^ref-42].
+Player reception has been mixed by platform: Steam users rate it Very Positive (85%)[^ref-66], while Metacritic's user score is 6.9, "mixed or average", against the PC Metascore of 73[^ref-27]. Trophy-hunting communities have provided detailed analyses of the game's structure and requirements[^ref-38]. One Reddit user described it as having "surprisingly good" production values with "overall good voice acting, some nice music and nicely drawn 2d graphics"[^ref-42].
 
-The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by some users[^ref-14].
+The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by one PSNProfiles user[^ref-14].
 
 ## Development
 
@@ -123,13 +123,18 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 **Purchase / Digital Stores**
 - Formerly sold on GOG.com, until it was removed in October 2026[^ref-20][^ref-65]
 - Formerly sold on [Steam](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/), until October 23, 2026[^ref-45][^ref-66]
+- Formerly sold on the Xbox Store for Xbox One and Xbox Series X|S (from May 2021)[^ref-18][^ref-63]; Delisted Games marked the Xbox Store listing as delisted on October 23, 2026[^ref-67], and on October 28, 2026 the Xbox Store page offered no purchase option[^ref-69]
+- iOS and Android versions (January 25, 2022)[^ref-40]; no longer on the App Store or Google Play (see note below)[^ref-68][^ref-70]
 
-> [!note] Delisted from Steam and GOG (October 23, 2026)
+**Other Platforms**
+- PlayStation 4 and Nintendo Switch versions released May 18, 2021[^ref-18]
+
+> [!note] Delisted (October 23, 2026)
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-62]
 >
-> The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-66] and Time Extension reported that both were also being withdrawn from GOG.[^ref-65] GOG's store pages for the two games now redirect to its general catalogue.
+> The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-66] and Time Extension reported that both were also being withdrawn from GOG.[^ref-65] On October 23, Delisted Games reported that GOG had confirmed the games would leave its storefront "today as well at 5pm EST".[^ref-67] GOG's store pages for the two games now redirect to its general catalogue.
 >
-> The mobile versions are gone too: Delisted Games' October 23, 2026 update strikes through the game's Android and iOS store links as already delisted,[^ref-67] and on October 26, 2026 Apple's iTunes lookup returned no results for the iOS app.[^ref-68]
+> The mobile and Xbox versions are gone too: Delisted Games' October 23, 2026 update strikes through the game's Android, iOS and Xbox Store links as already delisted.[^ref-67] On October 26 and again on October 28, 2026, Apple's iTunes lookup returned no results for the iOS app;[^ref-68] on October 28, 2026 the Google Play listing returned a "not found" (404) error[^ref-70] and the Xbox Store page offered no purchase option.[^ref-69]
 
 **Guides and Resources**
 - [PlayStation Trophies Walkthrough](https://www.playstationtrophies.org/game/leisure-suit-larry-dreams-dont-die-twice/guide/)[^ref-39]
@@ -183,6 +188,8 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-63]: [MobyGames – Release Info](https://www.mobygames.com/game/leisure-suit-larry-wet-dreams-dry-twice/release-info) – platforms (incl. Xbox Series), additional design, sound and voice-recording companies
 [^ref-64]: [VGMdb – Leisure Suit Larry: Wet Dreams Dry Twice soundtrack](https://vgmdb.net/album/106511) – composers Tilo Alpermann and Kai Rosenkranz
 [^ref-65]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; Assemble Entertainment removing both Wet Dreams games from Steam and GOG on October 23
-[^ref-66]: [Steam Store page (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 24, 2026: "no longer available on the Steam store"
-[^ref-67]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – October 23, 2026 update: "Versions already delisted as of this morning have been struck through"; Wet Dreams Dry Twice's Mobile (Android, iOS) links are struck through
-[^ref-68]: [Apple iTunes lookup – App Store ID 1534751079 ("Larry - Wet Dreams Dry Twice")](https://itunes.apple.com/lookup?id=1534751079&country=us) – checked October 26, 2026: "resultCount":0 (no listing in the US, German, French or UK stores)
+[^ref-66]: [Steam Store page (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 24 and October 28, 2026: "no longer available on the Steam store"; on October 28 the review summary read "Very Positive", "85% of the 999 user reviews for this game are positive"
+[^ref-67]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – October 23, 2026 update: "Versions already delisted as of this morning have been struck through"; GOG confirmed removal "today as well at 5pm EST"; Wet Dreams Dry Twice's Mobile (Android, iOS) and Xbox Store links are struck through
+[^ref-68]: [Apple iTunes lookup – App Store ID 1534751079 ("Larry - Wet Dreams Dry Twice")](https://itunes.apple.com/lookup?id=1534751079&country=us) – checked October 26, 2026: "resultCount":0 (no listing in the US, German, French or UK stores); US lookup again "resultCount":0 on October 28, 2026
+[^ref-69]: [Xbox Store – Leisure Suit Larry - Wet Dreams Dry Twice](https://www.xbox.com/en-US/games/store/leisure-suit-larry-wet-dreams-dry-twice/9P0L9HQ9TT2V) – checked October 28, 2026: no purchasable offer listed for the product (offer marked out of stock, no price)
+[^ref-70]: [Google Play – Larry - Wet Dreams Dry Twice (com.crazybunch.lslwetdreamsdrytwice)](https://play.google.com/store/apps/details?id=com.crazybunch.lslwetdreamsdrytwice) – the Android listing Delisted Games links to; checked October 28, 2026: returns HTTP 404 (not found)
