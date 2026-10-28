@@ -10,15 +10,16 @@ series: Talking Tutor
 engine: Unknown/unnamed
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Early Math is a 1993 educational game for children ages three to six,
   developed by Bright Star Technology and published by Sierra On-Line for Windows
-  3.1 and Macintosh...
+  3.1 and Macintosh, in which an animated alien named Loid guides children through
+  counting, shapes, patterns and basic arithmetic.
 tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -30,7 +31,7 @@ The game employs a point-and-click interface with drag-and-drop actions, so youn
 > **Developer:** [[Bright Star Technology]], Inc.[^ref-1]
 > **Designer:** Ward Makielski[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Unknown/unnamed[^ref-24]
+> **Engine:** Unknown/unnamed[^ref-24][^ref-5]
 > **Platforms:** Windows 3.1, Macintosh[^ref-1]
 > **Release Year:** 1993[^ref-15]
 > **Series:** Talking Tutor[^ref-5]
@@ -39,7 +40,7 @@ The game employs a point-and-click interface with drag-and-drop actions, so youn
 
 ## Story Summary
 
-Early Math takes place on a small asteroid in space, home to a cheerful alien character named Loid.[^ref-2] Rather than telling a story, the game presents a learning environment, with Loid serving as "a cheerful, animated on-screen teacher" who guides children through mathematical activities.[^ref-5]
+Early Math takes place on his asteroid in space, home to a cheerful alien character named Loid.[^ref-2] Rather than telling a story, the game presents a learning environment, with Loid serving as "a cheerful, animated on-screen teacher" who guides children through mathematical activities.[^ref-5]
 
 Loid is described as "always ready for your child, sitting on his favorite stool, riding in his convertible or hopping along in a bucket, eager to play and teach."[^ref-5] Players explore Loid's house and its surrounding area on the asteroid, discovering different mini-games that each focus on specific mathematical skills.[^ref-1] There are four rooms in Loid's underground house, each with a different game, and two more games above ground that Loid reaches by car or by bucket.[^ref-5]
 
@@ -61,7 +62,7 @@ The game is organized around six mini-games:[^ref-1][^ref-5]
 - **Picture Puzzle** (called "Complete the Picture" in the documentation): inside Loid's house; children complete pictures
 - **Magic Box:** inside Loid's house
 - **Fish Tank:** inside Loid's house; children feed the fish
-- **Tangram Bridge:** in Loid's yard; children solve tangrams to help Loid cross pits in the road
+- **Tangram Bridge:** in Loid's yard; children manipulate geometric shapes to form a bridge so Loid can drive on[^ref-5]
 - **Pattern Bridge:** in Loid's yard; children complete patterns so Loid has a smooth bridge to cross
 
 According to the documentation, all of the games "have been reviewed by an education specialist" and ordered from easiest to most difficult, in the sequence listed above.[^ref-5]
@@ -77,7 +78,7 @@ Each game is divided into several levels. Loid always begins with the easiest ex
 - **Spatial Concepts:** position and spatial relationships
 - **One-to-One Correspondence:** matching objects to quantities
 
-Sierra's own description also lists number symbols, words for numbers, place value, number groups and logic among the skills taught.[^ref-24] Loid stores each child's progress between sessions, and the Parent's Screen, which can be locked with a four-digit code, shows which games have been played most and how many levels have been completed.[^ref-5]
+Sierra's own description also lists number symbols, words for numbers, place value, number groups and logic among the skills taught.[^ref-24][^ref-5] Loid stores each child's progress between sessions, and the Parent's Screen, which can be locked with a four-digit code, shows which games have been played most and how many levels have been completed.[^ref-5]
 
 ## Reception
 
@@ -147,7 +148,7 @@ Early Math was a CD-ROM release with spoken instructions from Loid throughout, s
 | Original release | 1993 | Windows 16-bit, Macintosh | Released in the United States[^ref-15] |
 | Early Math CD Patch (mathcd) | Undated | Windows | Fixes a crash after picking an apple[^ref-26] |
 
-Sierra Help Pages' description says the original Early Math CD "would crash after you picked an apple." The patch copies a new version of the application to the hard drive and adds a program item named "Early Math CD Patch" to the Bright Star group.[^ref-26][^ref-12] Sources give different dates for the release: MobyGames lists 1993, Amazon's listing gives September 1, 1994, and Sierra Chest's release field shows 1995-01-01, which may reflect a later SKU.[^ref-15][^ref-11][^ref-24]
+Sierra Help Pages' description says the original Early Math CD "would crash after you picked an apple." The patch copies a new version of the application to the hard drive and adds a program item named "Early Math CD Patch" to the Bright Star group.[^ref-26][^ref-12] Sources give different dates for the release: MobyGames lists 1993, Amazon's listing gives September 1, 1994, and Sierra Chest's release field shows 1995-01-01, which may reflect a later SKU.[^ref-15][^ref-11][^ref-24][^ref-5]
 
 ### Easter Eggs and Trivia
 
@@ -197,20 +198,17 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 ## See Also
 
 - [[1982 - Alphabet Blocks]]
-- [[1982 - Bop-A-Bet]]
-- [[1983 - Learning with Leeper]]
-- [[1984 - Learning with FuzzyWOMP]]
-- [[1984 - Wizard of Id's WizMath]]
-- [[1984 - Wizard of Id's WizType]]
 - [[1992 - Ready, Set, Read with Bananas & Jack]]
 - [[1993 - Kids' Typing]]
+- [[1993 - Spelling Jungle]]
+- [[1994 - Spelling Blizzard]]
 
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://www.mobygames.com/game/129279/early-math/) – developer, publisher, credits, platforms, gameplay attributes, mini-games, description
 [^ref-2]: [Internet Archive – Early Math (2022 Upload)](https://archive.org/details/early-ma_202203) – date 1993, game description, mini-games, ISO and box scans
 [^ref-3]: [Encyclopedia.com – Sierra On-Line Inc. Company History](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – 1992 Bright Star acquisition, HyperAnimation/Talking Tiles/Alphabet Blocks, workforce growth
-[^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, child-tested quote, Talking Tutor series, ages 3–6, game order, Parent's Screen
+[^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, child-tested quote, Talking Tutor series, ages 3–6, game order, Parent's Screen, release/engine/series header fields, skills list (Wayback copy: http://web.archive.org/web/20241112115627/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)
 [^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fifteen development groups, Bright Star titles including Early Math
 [^ref-10]: [Internet Archive – Early Math (Original Entry)](https://archive.org/details/early-ma) – "ISO image of the Sierra Early Math for Windows 3.1", date 1993
 [^ref-11]: [Amazon – Early Math by Sierra on Line](https://www.amazon.com/Early-Math-Line-Sierra/dp/0871770156) – ISBN, item weight, September 1, 1994 publication date
@@ -221,7 +219,7 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 [^ref-20]: [MobyGames – Early Math Reviews](https://www.mobygames.com/game/129279/early-math/reviews/) – single critic score 80% (MacUser, December 1994, 4/5)
 [^ref-21]: [MacUser, December 1994 (Internet Archive full text)](https://archive.org/download/MacUser9412December1994/MacUser_9412_December_1994_djvu.txt) – children's software roundup entry for Early Math: price, ages, one-line verdict
 [^ref-22]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – founders Elon Gasper and Nedra Goedert, 1992 Sierra acquisition, Talking Tutors series, Early Math in list of games
-[^ref-23]: [The Washington Post – "Computers" (Don Oldenburg, December 13, 1993; Wayback copy)](http://web.archive.org/web/20250123075110/https://www.washingtonpost.com/archive/lifestyle/1993/12/13/computers/8771dcb5-068b-44e1-bb25-f2382731c62a/) – Early Math as recent release, Loid, Gasper's lip-sync inspiration and quote
+[^ref-23]: [The Washington Post – "Computers" (Don Oldenburg, December 12, 1993; Wayback copy)](http://web.archive.org/web/20250123075110/https://www.washingtonpost.com/archive/lifestyle/1993/12/13/computers/8771dcb5-068b-44e1-bb25-f2382731c62a/) – Early Math as recent release, Loid, Gasper's lip-sync inspiration and quote
 [^ref-24]: [Sierra Chest – Early Math](https://sierrachest.com/index.php?a=games&id=562&title=early-math) – release field 1995-01-01, engine "Unknown/unnamed", Talking Tutor series, list of skills taught
 [^ref-25]: [Sierra Chest – Early Math Publications](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=publications) – Sierra 15th anniversary catalog, Winter 94–95, page 34, shared with Mixed-Up Mother Goose
 [^ref-26]: [Sierra Help Pages – Miscellaneous Games Updates: Early Math CD Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MiscGamesUpdates.html#EarlyMath) – mathcd patch fixing crash after picking an apple
