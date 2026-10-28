@@ -10,14 +10,15 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Space Quest II: Chapter II – Vohaul''s Revenge is a graphic adventure
-  game developed and published by Sierra On-Line, released on November 14, 1987 for...'
+  game developed and published by Sierra On-Line, released on November 14, 1987 for
+  MS-DOS, with later ports to Apple II, Apple IIgs, Amiga, Atari ST and Macintosh.'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest II: Vohaul's Revenge
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6].
@@ -25,8 +26,6 @@ Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game deve
 Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the sequel to Space Quest: The Sarien Encounter and continues the misadventures of Roger Wilco as he confronts Sludge Vohaul, the villain who was behind the original Sarien attack[^ref-3][^ref-6].
 
 Space Quest II was the last game in the series to use Sierra's AGI engine before the transition to SCI for future titles[^ref-3][^ref-4].
-
-The game was listed fourth in Sierra's Top 5 Bestsellers, which Wikipedia takes to mean it sold over 100,000 copies and earned the Software Publishers Association's Gold Medal[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -50,7 +49,7 @@ Sneaking through the base to Vohaul's control room, Roger is shrunk and sealed i
 
 ## Gameplay
 
-Space Quest II uses the same AGI engine as the original game, featuring 16-color graphics at 160×200 resolution[^ref-3][^ref-5]. The game supports EGA, CGA, VGA, Hercules Monochrome, MCGA, and Tandy graphics modes[^ref-5].
+Space Quest II uses the same AGI engine as the original game, featuring 16-color graphics at 160×200 resolution[^ref-5]. The game supports EGA, CGA, VGA, Hercules Monochrome, MCGA, and Tandy graphics modes[^ref-5].
 
 ### Interface and Controls
 - The game uses a text parser interface where players type commands such as "LOOK AROUND" and "GET KEYCARD"[^ref-5]
@@ -61,13 +60,13 @@ Space Quest II uses the same AGI engine as the original game, featuring 16-color
 ### Structure and Progression
 - The game takes place across multiple locations: Xenon Orbital Station 4, the jungle planet Labion, and Vohaul's Asteroid Fortress[^ref-3][^ref-6]
 - Roger must survive the dangers of the Labion jungle, including various hostile creatures and environments[^ref-3]
-- The game continues the series tradition of numerous death scenes with sardonic humor[^ref-6]
+- The game continues the series tradition of numerous deaths; Hardcore Gaming 101 notes it has "some pretty creative death messages"[^ref-15]
 
 ### Puzzles and Mechanics
-- Like its predecessor, the game features inventory-based puzzles requiring careful item collection and usage[^ref-6]
+- Apart from a few unique actions, the puzzles are inventory-based, and missing an item needed for a later puzzle is the most common way to reach a dead end[^ref-19]
 - PC Magazine praised the challenge level but warned players "don't kid yourself by thinking you'll get by without the Hint Book"[^ref-28]
 - Computer Gaming World noted some objects' unclear descriptions were particularly problematic with CGA graphics[^ref-30]
-- The hidden location of a gem was criticized as "ridiculously illogical" since the entrance to the underwater cave is not shown on screen[^ref-30]
+- Computer Gaming World called the hidden glowing gem, needed as a light source, "ridiculously illogical": it lies in an underground tunnel in the swamp, there was "no indication of this in the room description", and the reviewer found it only by accidentally swimming over a deeper section of the swamp[^ref-30]
 - The game contains two mazes: a single-screen maze with passages only 2-3 pixels wide (touching the sides kills Roger instantly, reminiscent of the board game "Operation"), and a multi-screen maze in near-total darkness requiring mapping to navigate[^ref-19]
 - Typical of Sierra games, numerous dead ends exist where missing an item or making wrong choices renders the game unwinnable—including an alien's seemingly harmless kiss with long-term effects on Roger's health[^ref-19]
 
@@ -76,16 +75,18 @@ Space Quest II uses the same AGI engine as the original game, featuring 16-color
 ### Contemporary Reviews
 Critics praised Space Quest II's more difficult puzzles, improved parser and greater scope compared to the original[^ref-30]. PC Magazine wrote: "Lovers of challenge, come hither! Sierra On-Line has the game for you," praising the "terrific" EGA graphics while noting many details were not visible with CGA graphics[^ref-28].
 
+QuestBusters' Stephen King predicted the game was "destined to become a computer gaming classic and possibly best game of the year", concluding: "If a sequel is to be measured against the original, Vohaul's Revenge gets an A+." He warned that several puzzles "require all the brainpower an advanced player can muster"[^ref-46].
+
 Computer Gaming World stated: "Though the game is similar to the original Space Quest, the addition of more detailed animation, more difficult puzzles, an improved parser (hurrah!), and greater scope makes a good game even better"[^ref-30]. Antic warned of the difficulty, stating that the ST version "is trickier than the original and graphically superior"[^ref-29]. Macworld wrote that "as in the original game, Space Quest II succeeds with the humor of its animation and scripting"[^ref-31].
 
 Space Quest II was listed number four in Sierra's Top 5 Bestsellers, from which it is assumed that it sold over 100,000 copies and earned the SPA Gold Medal from the Software Publishers Association[^ref-1].
 
 ### Modern Assessment
-Adventure Gamers noted that while the text parser may frustrate modern gamers, "it can also yield very rewarding puzzles" and praised the game's humor, including a memorable multi-species public restroom "designed to accommodate all possibilities"[^ref-19]. The game holds a MobyScore of 7.2 from 113 player ratings, with a 72% average across 17 critic reviews[^ref-6]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating from 578 users[^ref-7]. HowLongToBeat lists the main story at about 3 hours (26 players polled; median 3h 6m)[^ref-8].
+Adventure Gamers noted that while the text parser may frustrate modern gamers, "it can also yield very rewarding puzzles" and praised the game's humor, including a memorable multi-species public restroom "designed to accommodate all possibilities"[^ref-19]. The game holds a MobyScore of 7.2 from 113 player ratings, with a 72% average across 17 critic reviews[^ref-6]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating from 577 users[^ref-7]. HowLongToBeat lists the main story at about 3 hours (26 players polled; median 3h 6m)[^ref-8].
 
 - **MobyGames:** 7.2 MobyScore; critics average 72% (17)[^ref-6]
-- **GOG:** 4.3/5 (578 ratings, collection)[^ref-7]
-- **Steam:** Very Positive, 85% of 335 reviews (collection)[^ref-9]
+- **GOG:** 4.3/5 (577 ratings, collection)[^ref-7]
+- **Steam:** Very Positive, 85% of 337 reviews (collection)[^ref-9]
 - **GameFAQs:** rated "Good" (77 ratings), difficulty "Tough"[^ref-22]
 - **HowLongToBeat:** about 3 hours main story (26 polled)[^ref-8]
 
@@ -96,15 +97,16 @@ Space Quest II was developed by the same team that created the original—Mark C
 
 Designer Scott Murphy later clarified the relationship between the Vohauls: Sludge Vohaul and Slash Vohaul (mentioned in SQ1's data cartridge) were intended to be brothers—while evil Sludge invented the Star Generator as a weapon of destruction, good-natured Slash planned to use it for the benefit of the universe, leading to their conflict[^ref-19].
 
-The original game came with: a box, two 3.5" game disks or three 5.25" disks (versions 2.0A through 2.0F), The Space Piston Magazine booklet with the game manual inserted in the middle, a reference card, an optional hint book for $7.95 (available in both adventure gaming window edition and hint pen revealer edition), registration card, and Sierra games catalogue[^ref-5]. Contemporary reviews listed its price as $49.95[^ref-43][^ref-31].
+The original game came with: a box, two 3.5" game disks or three 5.25" disks (versions 2.0A through 2.0F), The Space Piston Magazine booklet with the game manual inserted in the middle, a reference card, an optional hint book for $7.95 (available in both adventure gaming window edition and hint pen revealer edition), registration card, and Sierra games catalogue[^ref-5]. Contemporary reviews listed its price as $49.95[^ref-43][^ref-31][^ref-30][^ref-46].
 
 ### Technical Achievements
-- Used Sierra's AGI (Adventure Game Interpreter) engine with 160×200 resolution and 16 colors[^ref-3][^ref-5]
+- Used Sierra's AGI (Adventure Game Interpreter) engine with 160×200 resolution and 16 colors[^ref-5]
 - Supported multiple graphics modes: EGA, CGA, VGA, Hercules Monochrome, MCGA, and Tandy[^ref-5]
 - Improved parser over the original game[^ref-30]
 - More detailed animation compared to Space Quest I[^ref-30]
 - Last Space Quest game to use the AGI engine[^ref-3][^ref-4]
-- Platform releases: November 14, 1987 MS-DOS, 1987 Atari ST and Apple II, 1988 Amiga, Apple IIgs, and Macintosh[^ref-6]
+- Platform releases: November 14, 1987 MS-DOS[^ref-1], 1987 Atari ST and Apple II, 1988 Amiga, Apple IIgs, and Macintosh[^ref-6]
+- In 1994 U.S. Gold reissued the DOS and Amiga versions in the United Kingdom, France, Germany and Italy under its Kixx XL label[^ref-6]
 - **Enhanced audio:** Running in DOSBox with `machine=tandy` enables 3-voice PCjr/Tandy music; alternatively, the AGI-MIDI patch allows all three voices through modern sound cards[^ref-23]
 
 ### Debug Modes and Cut Content
@@ -128,13 +130,15 @@ The original game came with: a box, two 3.5" game disks or three 5.25" disks (ve
 
 ## Legacy
 
-According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Space Quest II established Sludge Vohaul as Roger's "accidental arch-nemesis"[^ref-36].
+According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Hardcore Gaming 101 calls Sludge Vohaul Roger's "accidental arch-nemesis"[^ref-36].
 
-In 2011, [[Infamous Adventures]] released a fan remake of Space Quest II on December 30, 2011,[^ref-44] featuring VGA-style graphics, a full voice cast, and extended content[^ref-1][^ref-27]. The project had been announced on April 1, 2007, nearly five years earlier[^ref-1]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (a Universal Binary for Apple Silicon and Intel, released September 10, 2024), and Linux as a name-your-own-price download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
+[[Infamous Adventures]] released a fan remake, [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]], on December 30, 2011,[^ref-44] featuring VGA-style graphics, a full voice cast, and extended content[^ref-1][^ref-27]. The project had been announced on April 1, 2007, nearly five years earlier[^ref-1]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (a Universal Binary for Apple Silicon and Intel, released September 10, 2024), and Linux as a name-your-own-price download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
 
 ### Collections
 
 This game has been included in the following collections:
+- Sierra Value Pack (1988, with Thexder and Sierra's 3-D Helicopter Simulator)[^ref-45][^ref-2]
+- Triple Adventure Pack[^ref-2]
 - Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-38]
 - Space Quest Saga (The)[^ref-39]
 - [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-42][^ref-9]
@@ -151,7 +155,7 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – free fan remake with voice acting[^ref-27]
+- [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – name-your-own-price fan remake with voice acting[^ref-27][^ref-1]
 
 **Manuals & Extras**
 
@@ -173,6 +177,7 @@ This game has been included in the following collections:
 ## See Also
 - [[1986 - Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon]]
+- [[2011 - Space Quest II VGA Remake]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1993 - Space Quest V - The Next Mutation]]
@@ -180,24 +185,24 @@ This game has been included in the following collections:
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest II](https://en.wikipedia.org/wiki/Space_Quest_II) – SPA Gold Medal, Top 5 Bestsellers ranking
-[^ref-2]: [Sierra Chest – Space Quest II](https://www.sierrachest.com/index.php?a=games&id=10&title=space-quest-2&fld=general) – Sierra history, collections, platforms
+[^ref-2]: [Sierra Chest – Space Quest II](https://www.sierrachest.com/index.php?a=games&id=10&title=space-quest-2&fld=general) ([Wayback Machine copy, January 27, 2022](https://web.archive.org/web/20220127111126/http://www.sierrachest.com/index.php?a=games&id=10&title=space-quest-2)) – Sierra history, collections (incl. Triple Adventure Pack, Sierra Value Pack 1), platforms
 [^ref-3]: [Sierra Fandom Wiki – Space Quest II](https://sierra.fandom.com/wiki/Space_Quest_II%3A_Vohaul%27s_Revenge) – plot, technical details
 [^ref-4]: [Space Quest Fandom Wiki – Space Quest II](https://spacequest.fandom.com/wiki/Space_Quest_II%3A_Vohaul%27s_Revenge_%28MS-DOS_PC%29) – engine transition, series details
 [^ref-5]: [SpaceQuest.net – Space Quest 2 Game Information](https://spacequest.net/sq2/gameinfo.php) – release details, original packaging
-[^ref-6]: [MobyGames – Space Quest II](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/) – developer, publisher, platforms, credits, ratings
+[^ref-6]: [MobyGames – Space Quest II](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/) – developer, publisher, platforms, credits, ratings, 1994 U.S. Gold/Kixx XL European releases (read via the MobyGames API)
 [^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
 [^ref-8]: [HowLongToBeat – Space Quest II](https://howlongtobeat.com/game/8864) – completion times: main story about 3 hours (26 polled)
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-11]: [PCGamingWiki – Space Quest II](https://www.pcgamingwiki.com/wiki/Space_Quest_II%3A_Chapter_II_-_Vohaul%27s_Revenge) – technical specs, fixes
 [^ref-12]: [StrategyWiki – Space Quest II](https://strategywiki.org/wiki/Space_Quest_II) – game guide
-[^ref-13]: [AGI Wiki – Space Quest II](http://agiwiki.sierrahelp.com/index.php/Space_Quest_II%3A_Vohaul%27s_Revenge) – engine details
+[^ref-13]: [AGI Wiki – Space Quest II](http://agiwiki.sierrahelp.com/index.php/Space_Quest_II%3A_Vohaul%27s_Revenge) ([Wayback Machine copy, January 16, 2025](http://web.archive.org/web/20250116091923/http://agiwiki.sierrahelp.com/index.php/Space_Quest_II%3A_Vohaul%27s_Revenge)) – engine details, version/interpreter table
 [^ref-14]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history
-[^ref-15]: [Hardcore Gaming 101 – Space Quest II](http://www.hardcoregaming101.net/space-quest-ii/) – Kurt Kalata, September 11, 2017
+[^ref-15]: [Hardcore Gaming 101 – Space Quest II](http://www.hardcoregaming101.net/space-quest-ii/) ([Wayback Machine copy, January 18, 2024](http://web.archive.org/web/20240118090159/http://www.hardcoregaming101.net/space-quest-ii/)) – Kurt Kalata, September 11, 2017: "some pretty creative death messages"
 [^ref-16]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – "Free Mating Whistle" order form, Mark Crowe's response
 [^ref-17]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books
 [^ref-19]: [Adventure Gamers – Space Quest II review (Wayback Machine)](https://web.archive.org/web/20220117064325/https://adventuregamers.com/articles/view/18120) – Dante Kleinberg, August 1, 2008: Vohaul brothers backstory, maze descriptions, dead ends, "very rewarding puzzles"
 [^ref-20]: [TVTropes – Space Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIVohaulsRevenge) – parodies, easter eggs, notable deaths, parser humor
-[^ref-21]: [The Cutting Room Floor – Space Quest II](https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – debug mode, unused graphics, cut content, source code leak
+[^ref-21]: [The Cutting Room Floor – Space Quest II](https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) ([Wayback Machine copy, May 23, 2024](https://web.archive.org/web/20240523201206/https://tcrf.net/Space_Quest_II:_Vohaul's_Revenge)) – debug mode, unused graphics, cut content, source code leak
 [^ref-22]: [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – user ratings, difficulty rating, guides
 [^ref-23]: [Sierra Help – Space Quest II](https://sierrahelp.com/Games/SpaceQuest/SQ2Help.html) – technical help, DOSBox configuration, known issues
 [^ref-25]: [SpaceQuest.net – Space Quest II Point List](https://spacequest.net/sq2/pointlist/) – complete 250-point scoring breakdown
@@ -205,13 +210,13 @@ This game has been included in the following collections:
 [^ref-27]: [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – fan remake with VGA graphics, voice acting, release history
 [^ref-28]: [PC Magazine – June 28, 1988](https://archive.org/details/PC-Mag-1988-06-28) – Stephanie K. Losee review, p.405: "Lovers of challenge, come hither!", "terrific" EGA graphics, hint book warning
 [^ref-29]: [Antic Magazine – July 1988](https://archive.org/details/1988-07-anticmagazine) – Rick Teverbaugh review: "trickier than the original and graphically superior"
-[^ref-30]: [Computer Gaming World – July 1988 (Issue 49)](https://archive.org/details/Computer_Gaming_World_Issue_49) – Douglas Seacat review: "improved parser (hurrah!)", "greater scope", CGA graphics issues, "ridiculously illogical" gem puzzle
+[^ref-30]: [Computer Gaming World – July 1988 (Issue 49)](https://archive.org/details/Computer_Gaming_World_Issue_49) – Douglas Seacat review: "improved parser (hurrah!)", "greater scope", CGA graphics issues, "ridiculously illogical" gem puzzle, price $49.95
 [^ref-31]: [Macworld – March 1989](https://archive.org/details/MacWorld_8903_March_1989) – "Animated Adventure Games" review, p.183: "succeeds with the humor of its animation and scripting", list price $49.95
 [^ref-32]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
 [^ref-33]: [Lance Ewing – "Do you own this Space Quest 2 disk?" (May 22, 2024)](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html) – AGI source code in the unused space of SQ2 2.0D/2.0F disk 1
 [^ref-34]: [GitHub – lanceewing/agi](https://github.com/lanceewing/agi) – recovered AGI interpreter source; extra files from King's Quest III v2.14 disk 1; first discovered October 2016
 [^ref-35]: Internet Archive – Space Quest II (woz-a-day collection) (download link removed: game still sold) – Apple II version 2.0A, interpreter 0.089
-[^ref-36]: [Hardcore Gaming 101 – Space Quest I](https://www.hardcoregaming101.net/space-quest-i/) – series overview: Sludge Vohaul as "Roger's accidental arch-nemesis"
+[^ref-36]: [Hardcore Gaming 101 – Space Quest I](https://www.hardcoregaming101.net/space-quest-i/) ([Wayback Machine copy, January 3, 2024](http://web.archive.org/web/20240103223201/http://www.hardcoregaming101.net/space-quest-i/)) – series overview: Sludge Vohaul as "Roger's accidental arch-nemesis"
 [^ref-37]: [MobyGames – Space Quest II user reviews](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/reviews/) – player review quoting the "look at trap" response
 [^ref-38]: [MobyGames – Space Quest: Collector's Edition](https://www.mobygames.com/game/937/space-quest-collectors-edition/) – contents include Space Quest II
 [^ref-39]: [MobyGames – The Space Quest Saga: Roger Wilco](https://www.mobygames.com/game/3815/the-space-quest-saga-roger-wilco/) – contents include Space Quest II
@@ -220,3 +225,5 @@ This game has been included in the following collections:
 [^ref-42]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – contents include Space Quest II
 [^ref-43]: [Antic – ST Games Gallery (July 1988)](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Rick Teverbaugh's Space Quest II review, listed at "$49.95, color or monochrome. Sierra On-line"
 [^ref-44]: [PCGamingWiki – Company: Infamous Adventures](https://www.pcgamingwiki.com/wiki/Company:Infamous_Adventures) – lists the Space Quest II remake's release date as December 30, 2011
+[^ref-45]: [MobyGames – Sierra Value Pack](https://www.mobygames.com/game/21656/sierra-value-pack/) – 1988 DOS compilation of Thexder, Space Quest II and Sierra's 3-D Helicopter Simulator (read via the MobyGames API)
+[^ref-46]: [QuestBusters – "Space Quest II: Vohaul's Revenge" review (March 1988)](https://wiw.org/~jess/publications/questbusters_sq2_review_march88.pdf) – Stephen King review, pp.3 and 15 (scan at Virtual Broomcloset): "destined to become a computer gaming classic", "gets an A+", price $49.95

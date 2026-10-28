@@ -197,6 +197,7 @@ The game is listed in several gaming databases.[^ref-14][^ref-16][^ref-20]
 
 ## See Also
 
+- [[1987 - Space Quest II - Vohaul's Revenge]] (original game)
 - [[2001 - King's Quest I VGA Remake]]
 - [[2001 - Space Quest - The Lost Chapter]]
 - [[2002 - King's Quest II+ - Romancing the Stones]]
