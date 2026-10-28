@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake
   of the original 1986 Space Quest: The Sarien Encounter, developed and published
   by Sierra On-Line for MS-DOS, Amiga, and Macintosh.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest I: Roger Wilco in the Sarien Encounter
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4].
@@ -34,7 +34,7 @@ According to the fan site SpaceQuest.net, the remake was "marketed very aggressi
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
 > **Designer:** [[Mark Crowe]], [[Scott Murphy]][^ref-4]
-> **Publisher:** Sierra On-Line, U.S. Gold Ltd.[^ref-4]
+> **Publisher:** Sierra On-Line (U.S. Gold Ltd. for the 1994 Kixx XL re-release in the UK, France, Germany and Italy)[^ref-4]
 > **Engine:** SCI1 (Sierra Creative Interpreter)[^ref-5][^ref-12]
 > **Platforms:** MS-DOS, Amiga, Macintosh
 > **Release Year:** 1991
@@ -80,15 +80,15 @@ The remake uses Sierra's SCI game engine with a point-and-click interface and ic
 ### Contemporary Reviews
 Dragon Magazine (January 1992) praised the redesigned VGA version, noting the upgraded 256-color graphics, improved point-and-click interface, better music, and digitized speech, concluding: "The game plays far better than before and is highly enjoyable, richly deserving its fame"[^ref-35]. Writing for VideoGames & Computer Entertainment, Arnie Katz noted that the game "benefited from a recent face-lift," adding: "The graphics are much better, and the point-and-click interface makes play easier than the parser-driven original"[^ref-32].
 
-SpaceQuest.net's history of the game says that, like Sierra's other VGA remakes of the time (Leisure Suit Larry I, King's Quest I, Police Quest I), it was "marketed very aggressively, but to no avail as all of these remakes flopped with a bang"[^ref-37]; no sales figures for the remake have been published.
+SpaceQuest.net's history of the game says that, like Sierra's other VGA remakes of the time (Leisure Suit Larry I, King's Quest I, Police Quest I), it was "marketed very aggressively, but to no avail as all of these remakes flopped with a bang"[^ref-37]. SierraVault found no published sales figures for the remake.
 
 ### Modern Assessment
-Retro Freak Reviews recommended the remake over the original, stating that the humor, art, animation, and music were improved[^ref-33]. The game holds a MobyScore of 7.4/10, with an average critic score of 70% from 15 rated reviews and 67 player ratings[^ref-4]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating[^ref-7]. HowLongToBeat reports the main story takes approximately 3 hours to complete[^ref-8].
+Retro Freak Reviews recommended the remake over the original, stating that the humor, art, animation, and music were improved[^ref-33]. The game holds a MobyScore of 7.4/10, with an average critic score of 70% from 15 rated reviews and 67 player ratings[^ref-4]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating[^ref-7]. HowLongToBeat reports the main story takes approximately 3 hours to complete, though its entry is merged with the 1986 original (listed as an alias, with the entry dated October 1986), so the figure may mix both versions[^ref-8].
 
 - **MobyGames:** 7.4/10 MobyScore; critics average 70% (15 ratings); 67 player ratings[^ref-4]
 - **GOG:** 4.3/5 (collection)[^ref-7]
 - **Steam:** Very Positive (collection; 85% positive as of October 2026)[^ref-9]
-- **HowLongToBeat:** 3 hours main story[^ref-8]
+- **HowLongToBeat:** 3 hours main story (entry merged with the 1986 original, so times may mix both versions)[^ref-8]
 
 ## Development
 
@@ -123,7 +123,7 @@ The game was released in both VGA and a rare EGA version based on the VGA versio
 - **System requirements:** Sierra Help and DOS Days list a 286 CPU, 640KB RAM, MS-DOS 5, 6MB of hard drive space and VGA/MCGA graphics, with sound support for AdLib, Sound Blaster, Roland MT-32, Pro Audio Spectrum, Game Blaster and PC Speaker, and General MIDI via a patch[^ref-20][^ref-28]. MobyGames gives a lower minimum (8088/8086 CPU, DOS 3.0) for the release as a whole, but notes that the 256-color version requires an 80286[^ref-42]
 - **Original media:** Five 5.25" or four 3.5" floppy disks; later Kixx re-release on CD-ROM[^ref-28]
 - **Localization:** A Spanish/English bilingual version was also released[^ref-12]
-- Fully supported in ScummVM since version 1.2.0; runs on SCI engine at 320x200 resolution with 256 colors[^ref-21]
+- Supported in ScummVM since version 1.2.0; runs on SCI engine at 320x200 resolution with 256 colors[^ref-21]
 - The Amiga version was a 32-color conversion[^ref-5]
 - **Speed bugs on modern systems:** The acid rain sequence in Kerona cave, desert dehydration timer, and Spider Droid arrival all run too fast; official Sierra patches fix memory and SoundBlaster initialization issues, while NewRisingSun patches address timing bugs[^ref-12][^ref-20]
 
@@ -162,11 +162,12 @@ In 1992, Adventure Comics (a division of Malibu Graphics) published a three-issu
 
 This game has been included in the following collections:
 - The Space Quest Trilogy[^ref-24]
-- Sierra Adventure Starter Kit (1992)[^ref-24]
+- Sierra Adventure Starter Kit (1992)[^ref-24][^ref-46]
 - The Space Quest Saga[^ref-24]
 - Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-24]
-- Space Quest: Collection Series[^ref-24]
-- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-9][^ref-24]
+- Space Quest: Collection Series (1997)[^ref-24][^ref-44] – contents disputed: MobyGames says it holds the VGA version but links the 1986 entry, while Sierra Chest lists the compilation under both versions[^ref-47]
+- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110) (Steam, 2006)[^ref-9][^ref-24] – PCGamingWiki says the Steam release includes both the EGA and VGA versions[^ref-11]; MobyGames lists only the EGA version[^ref-45]
+- [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) (GOG; VGA version added February 2026)[^ref-7]
 
 ## Downloads
 
@@ -223,10 +224,10 @@ This game has been included in the following collections:
 [^ref-4]: [MobyGames – Space Quest I VGA](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/) – developer, publisher, platforms, credits, ratings
 [^ref-5]: [Sierra Fandom Wiki – Space Quest I VGA](https://sierra.fandom.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_the_Sarien_Encounter_%28SCI%29) – SCI engine details, versions
 [^ref-6]: [WiW – Space Quest 1 VGA Point List](https://wiw.org/~jess/sq1vgapts.html) – complete point list for the VGA version
-[^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
+[^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews; changelog (20 February 2026): "Space Quest 1: Added VGA version of the game"
 [^ref-8]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-11]: [PCGamingWiki – Space Quest I VGA](https://www.pcgamingwiki.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_The_Sarien_Encounter) – technical specs, fixes
+[^ref-11]: [PCGamingWiki – Space Quest I VGA](https://www.pcgamingwiki.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_The_Sarien_Encounter) – technical specs, fixes; Steam Space Quest Collection and GOG Space Quest 1+2+3 both listed with "EGA and VGA versions"
 [^ref-12]: [SCI Wiki – Space Quest I SCI](https://sciwiki.sierrahelp.com/index.php/Space_Quest_I:_The_Sarien_Encounter_SCI) – release date Aug. 20, 1991; SCI1 version table (incl. Sp./Eng. release); official patches
 [^ref-14]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
 [^ref-15]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history
@@ -238,12 +239,12 @@ This game has been included in the following collections:
 [^ref-21]: [ScummVM Wiki – Space Quest](https://wiki.scummvm.org/index.php?title=Space_Quest) – ScummVM 1.2.0 support, SCI engine, 320x200 resolution, 256 colors, Amiga extended palette
 [^ref-22]: [SpaceQuest.net – SQ1 Easter Eggs](https://spacequest.net/sq1/eastereggs/) – Latex Babe easter egg
 [^ref-23]: [Space Quest Fandom Wiki – SQ1 VGA](https://spacequest.fandom.com/wiki/Space_Quest_I:_Roger_Wilco_in_the_Sarien_Encounter_VGA) – Robin Hood button, version differences
-[^ref-24]: [Sierra Chest – Space Quest 1 VGA](https://www.sierrachest.com/index.php?a=games&id=297&title=space-quest-1-vga&fld=general) – collections, packaging, credits
+[^ref-24]: [Sierra Chest – Space Quest 1 VGA](https://www.sierrachest.com/index.php?a=games&id=297&title=space-quest-1-vga&fld=general) ([archived April 28, 2025](http://web.archive.org/web/20250428181859/https://sierrachest.com/index.php?a=games&id=297&title=space-quest-1-vga&fld=general)) – collections, packaging, credits
 [^ref-26]: [GameFAQs – Space Quest I VGA](https://gamefaqs.gamespot.com/pc/581150-space-quest-i-roger-wilco-in-the-sarien-encounter-vga) – user ratings, King's Quest castle easter egg, FAQs
 [^ref-27]: [TV Tropes – Space Quest I Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/SpaceQuestITheSarienEncounter) – creator backlash, feelies, cut female Roger
 [^ref-28]: [DOS Days – Space Quest I VGA](https://www.dosdays.co.uk/topics/Games/game_sq1vga.php) – system requirements, original media, Kixx re-release
 [^ref-29]: [Sierra Help – Space Quest Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/SQEasterEggs.html) – Hitchhiker's Guide references, Star Trek cameos
-[^ref-30]: [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) – Smell/Taste icons, Hayao Miyazaki reference, instant replay death, Conquests of Longbow easter egg
+[^ref-30]: [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) ([archived January 3, 2024](https://web.archive.org/web/20240103223201/http://www.hardcoregaming101.net/space-quest-i/)) – Smell/Taste icons, Hayao Miyazaki reference, instant replay death, Conquests of Longbow easter egg
 [^ref-31]: [MobyGames – SQ1 VGA Credits](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – Douglas Herring (Director, Art Designer), Mark Crowe & Scott Murphy (Game Designers), Jerry Shaw (Lead Programmer), Ken Allen (Composer); nine Background Artists including Andy Hoyos
 [^ref-32]: [VideoGames & Computer Entertainment – April 1992](https://archive.org/details/video-games-computer-entertainment-april-1992) – Arnie Katz "Electronic Gaming Comedy" feature (opens p. 82; quoted passage on p. 84): "benefited from a recent face-lift", "graphics are much better", "point-and-click interface makes play easier"
 [^ref-33]: [Retro Freak Reviews – Space Quest I Review (2017)](https://retrofreakreviews.com/2017/02/08/space-quest-i-review/) – "I also recommend the remake over the original version"; "Almost everything is improved in the remake"
@@ -257,3 +258,7 @@ This game has been included in the following collections:
 [^ref-41]: [MobyGames – Space Quest I VGA Releases](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/releases/) – DOS release dated Aug 27, 1991 (Canada, United States)
 [^ref-42]: [MobyGames – Space Quest I VGA DOS Specs](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/specs/dos/) – minimum 8088/8086, DOS 3.0–3.3, 640 KB; "256 color version requires 80286 processor"
 [^ref-43]: [MobyGames – SQ1 VGA DOS Credits (Wayback, July 2024)](https://web.archive.org/web/20240721144047/https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – "Additional Material: Gano Haine, Bridget McKenna"
+[^ref-44]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – read via the MobyGames API: 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)", linked to the 1986 entry
+[^ref-45]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – read via the MobyGames API: 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
+[^ref-46]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – read via the MobyGames API: 1992 DOS compilation of "the SCI remakes", including Space Quest I: Roger Wilco in the Sarien Encounter
+[^ref-47]: [Sierra Chest – Space Quest I (1986 original)](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) ([archived December 5, 2024](http://web.archive.org/web/20241205160041/https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general)) – collections list for the AGI original, including Space Quest: Collection Series

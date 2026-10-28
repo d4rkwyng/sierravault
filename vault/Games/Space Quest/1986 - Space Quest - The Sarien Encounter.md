@@ -176,8 +176,11 @@ Starting around Space Quest III, the series became self-referential, featuring i
 ### Collections
 
 This game has been included in the following collections:
+- 3-D Animated Adventure Games Starter Pack (1987), with Leisure Suit Larry in the Land of the Lounge Lizards and Police Quest[^ref-36]
+- Triple Value Pack (1987), with King's Quest II and Mixed-Up Mother Goose[^ref-37]
 - Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-2]
-- Space Quest: Collection Series[^ref-2]
+- Space Quest: Collection Series (1997)[^ref-2][^ref-38] – contents disputed: Sierra Chest lists it on this game's page, while MobyGames says it holds the VGA version of Space Quest I
+- [Space Quest Collection](https://store.steampowered.com/app/10110) (Steam, 2006)[^ref-9][^ref-39] – PCGamingWiki says the Steam release includes both the EGA and VGA versions[^ref-15]
 - [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3)[^ref-8]
 
 ## Downloads
@@ -246,3 +249,7 @@ This game has been included in the following collections:
 [^ref-33]: [Computer Gaming World #45, March 1988 – Scorpia, "Scorpion's Tale: Space Quest" (pp. 9, 49, 51)](https://www.cgwmuseum.org/galleries/issues/cgw_45.pdf) – period walkthrough column with verdict: "a middle-of-the-road game"
 [^ref-34]: [Compute! #99, August 1988 – James V. Trunzo, "Space Quest—The Sarien Encounter" review (pp. 70–71)](https://archive.org/stream/1988-08-compute-magazine/Compute_Issue_099_1988_Aug#page/n71/mode/2up) – Apple IIGS review; $49.95 suggested price for Apple II, IIGS, Atari ST, Macintosh and IBM PC
 [^ref-35]: [The Digital Antiquarian – "The 14 Deadly Sins of Graphic-Adventure Design (or, Why Ron Gilbert Hated Adventure Games)" (Jimmy Maher, July 2015)](https://www.filfre.net/2015/07/the-14-deadly-sins-of-graphic-adventure-design/) – Crowe and Murphy say they were unaware of Planetfall
+[^ref-36]: [MobyGames – 3-D Animated Adventure Games Starter Pack](https://www.mobygames.com/game/1077/3-d-animated-adventure-games-starter-pack/) – read via the MobyGames API: 1987 DOS compilation of Leisure Suit Larry in the Land of the Lounge Lizards, Police Quest and Space Quest: Chapter I
+[^ref-37]: [MobyGames – Triple Value Pack](https://www.mobygames.com/game/21655/triple-value-pack/) – read via the MobyGames API: 1987 DOS compilation of Space Quest: Chapter I, King's Quest II and Mixed-Up Mother Goose
+[^ref-38]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – read via the MobyGames API: 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)"
+[^ref-39]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – read via the MobyGames API: 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
