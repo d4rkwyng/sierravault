@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The player must enter the estate of the late old man Cranston, recover the sixte
 > **Based on:** *The Cranston Manor Adventure* by Larry Ledden (Artworx)[^ref-33][^ref-34]
 > **Cover Art:** Duke Haubelt[^ref-35]
 > **Publisher:** On-Line Systems; StarCraft, Inc. (Japan)[^ref-3]
-> **Engine:** Adventure Development Language (ADL)[^ref-2]
+> **Engine:** Adventure Development Language (ADL)[^ref-2][^ref-37]
 > **Platforms:** Apple II, FM-7, PC-88, PC-98[^ref-3]
 > **Release Year:** 1981
 > **Series:** Hi-Res Adventure
@@ -83,11 +83,11 @@ A 2011 MobyGames user review places the game in context: "Before they became fam
 
 Larry Ledden wrote *The Cranston Manor Adventure* as a text adventure; the Artworx release was for the Atari 400/800[^ref-33][^ref-34]. Ledden later recalled: "Sierra On-Line purchased the rights from me to make the illustrated version. I had written the game as a data driven engine so it was quite straightforward to port it to another system"[^ref-33]. He added: "I got royalties from them for a couple years for sales of their version... I was a newbie at software contracts and didn't know enough to require a credit"[^ref-33]. *The Giant List of Classic Game Programmers* lists the On-Line version under Ledden, Harold DeWitz and Ken Williams[^ref-34].
 
-Roberta Williams was not involved, presumably because she was working on the much larger Hi-Res Adventure #5: Time Zone[^ref-2]. *Softalk* reported that she was "spending all her time now on number four — a giant multidisk adventure that will take you all over history in living color"[^ref-31].
+Roberta Williams was not involved[^ref-2]. *Softalk* reported that she was "spending all her time now on number four — a giant multidisk adventure that will take you all over history in living color"[^ref-31]. That description matches *Time Zone*, a multi-disk time-travel adventure released in 1982, which shipped as Hi-Res Adventure #5 rather than #4 (Hi-Res Adventure #4 was *Ulysses and the Golden Fleece*)[^ref-38][^ref-37][^ref-39].
 
 ### Production
 
-The game was published from On-Line Systems' base in Coarsegold, California, and was credited to Harold DeWitz and Ken Williams[^ref-32][^ref-31]. It was built with the Adventure Development Language (ADL)[^ref-2]. The box cover art is credited to Duke Haubelt[^ref-35].
+The game was published from On-Line Systems' base in Coarsegold, California, and was credited to Harold DeWitz and Ken Williams[^ref-32][^ref-31]. It was built with the Adventure Development Language (ADL), Ken Williams's engine for the Hi-Res Adventure series[^ref-2][^ref-37]. The box cover art is credited to Duke Haubelt[^ref-35].
 
 **Development Credits:**[^ref-35]
 - **Designers:** Harold DeWitz, Ken Williams
@@ -131,7 +131,7 @@ Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July
 
 ### Preservation
 
-A copy is held in the Stephen M. Cabrinety Collection in the History of Microcomputing at Stanford University[^ref-10]. An On-Line Systems Hi-Res Adventures catalog that advertises Cranston Manor is preserved at the Internet Archive[^ref-11]. The game's instruction sheet is scanned at the Museum of Computer Adventure Game History[^ref-32].
+A copy is held in the Stephen M. Cabrinety Collection in the History of Microcomputing at Stanford University[^ref-10]. A Sierra On-Line Hi-Res Adventures catalog that advertises Cranston Manor is preserved at the Internet Archive[^ref-11]. The game's instruction sheet is scanned at the Museum of Computer Adventure Game History[^ref-32].
 
 ### Modern Compatibility
 
@@ -147,7 +147,7 @@ Cranston Manor is a minor but telling entry in Sierra's history. It was the firs
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- [GOG – Cranston Manor wishlist page](https://www.gog.com/wishlist/games/hires_adventure_3_cranston_manor)
 
 ## Downloads
 
@@ -182,7 +182,7 @@ Cranston Manor is a minor but telling entry in Sierra's history. It was the firs
 [^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – sales listing: On-Line Systems, Coarsegold, 1981, DOS 3.2 or 3.3
 [^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, Hi-Res Adventure series, King's Quest in mid-1984
 [^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival copy, one 5 1/4 inch floppy, Apple DOS 3.2/3.3
-[^ref-11]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – original catalog advertising Cranston Manor
+[^ref-11]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line Inc. catalog (Sierra On-Line Bldg., Coarsegold) advertising Cranston Manor and "Old Man Cranston"'s treasures
 [^ref-12]: [ScummVM – NEWS.md](https://raw.githubusercontent.com/scummvm/scummvm/master/NEWS.md) – 2.0.0 (2017-12-17): "Added support for Hi-Res Adventure #3: Cranston Manor"
 [^ref-31]: [Softalk, September 1981 (Vol. 2 No. 1)](https://archive.org/details/softalkv2n01sep1981) – review of Cranston Manor; July 1981 bestseller report and top ten
 [^ref-32]: [MOCAGH – Hi-Res Adventure #3 instructions (PDF)](https://mocagh.org/sierra/cranston-alt3.pdf) – original manual: $34.95, 48K, DOS 3.2/3.3, parser, save slots A–O, story
@@ -190,3 +190,6 @@ Cranston Manor is a minor but telling entry in Sierra's history. It was the firs
 [^ref-34]: [The Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) – Larry Ledden: Cranston Manor Adventure (1981, A8, Artworx); Cranston Manor w/ Harold DeWitz, Ken Williams (On-Line)
 [^ref-35]: [MobyGames – Cranston Manor Apple II credits](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/credits/apple2/) – by Harold DeWitz, Ken Williams; cover artwork by Duke Haubelt
 [^ref-36]: [Sierra Fandom Wiki – Cranston Manor](https://sierra.fandom.com/wiki/Cranston_Manor) – "The game features no music"
+[^ref-37]: [ScummVM Wiki – ADL (Wayback Machine, 2025-01-01)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'", created by Ken Williams; lists Hi-Res Adventure #3 Cranston Manor (1981), #4 Ulysses (1981), #5 Time Zone (1982)
+[^ref-38]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – "a multi-disk graphical adventure game written and directed by Roberta Williams", released 1982; travel through time meeting historical figures
+[^ref-39]: [Wikipedia – List of Hi-Res Adventures video games](https://en.wikipedia.org/wiki/List_of_Hi-Res_Adventures_video_games) – "Hi-Res Adventure #4 - Ulysses and the Golden Fleece (1981)"; "Hi-Res Adventure #5 - Time Zone (1982)"
