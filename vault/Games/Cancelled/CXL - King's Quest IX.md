@@ -8,17 +8,18 @@ publisher: [Vivendi Games, Activision]
 genre: Adventure
 platforms: []
 series: King's Quest
-engine: Various (cancelled before completion)
+engine: Unknown / reportedly Unreal Engine 3 (Silicon Knights)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
-description: '"King''s Quest IX" is an umbrella term for **multiple cancelled attempts**
-  to continue Sierra''s flagship adventure game series following King''s Quest VIII:...'
+last_updated: '2026-10-27'
+description: '"King''s Quest IX" is an umbrella term for multiple cancelled attempts
+  to continue Sierra''s flagship adventure game series following King''s Quest VIII:
+  Mask of Eternity.'
 tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 
 ## Overview
@@ -92,7 +93,7 @@ The game was single-player. As Vanous explained: "It was, after all, a King's Qu
 
 ### 3. Silicon Knights Project (c. 2007)
 
-According to the Omnipedia, Canadian developer Silicon Knights (known for *Eternal Darkness* and *Too Human*) negotiated with Vivendi to develop a King's Quest game around 2007. It reportedly got as far as a prototype, apparently using Epic's Unreal Engine 3, and its exact start and end dates are unclear.[^ref-1] Wikipedia notes that the prototype's existence became public through documents from Silicon Knights' lawsuit against Epic Games.[^ref-20]
+According to the Omnipedia, Canadian developer Silicon Knights (known for *Eternal Darkness* and *Too Human*)[^ref-3] negotiated with Vivendi to develop a King's Quest game around 2007. It reportedly got as far as a prototype, apparently using Epic's Unreal Engine 3, and its exact start and end dates are unclear.[^ref-1] Wikipedia notes that the prototype's existence became public through documents from Silicon Knights' lawsuit against Epic Games.[^ref-20]
 
 **Why It Failed:** The project was cancelled. Its fate became tangled with Silicon Knights' legal battle with Epic Games. Silicon Knights sued Epic on July 19, 2007. Epic counter-sued, and on May 30, 2012 Epic won its counter-suit, with $4.45 million awarded. On November 7, 2012, the court ordered Silicon Knights to destroy all game code derived from Unreal Engine 3. The titles named in the order were *Too Human*, *X-Men Destiny*, *The Sandman*, *The Box*/*Ritualyst* and *Siren in the Maelstrom*. No King's Quest project is named.[^ref-3] The Omnipedia concludes that any material related to the KQ prototype has "probably been destroyed".[^ref-1] Silicon Knights filed for bankruptcy on May 16, 2014.[^ref-3]
 
@@ -104,7 +105,7 @@ No story, gameplay, or visual details from this version have ever surfaced publi
 
 Telltale Games announced its King's Quest project at a press event on **February 17, 2011**, as part of an agreement with Activision to make episodic games based on classic Sierra properties.[^ref-4][^ref-16]
 
-**Development Details:** Telltale approached [[Roberta Williams]] to see if she was interested in working on the new game. Williams declined, saying she had retired from games, but she offered advice that developer Dave Grossman called "very valuable."[^ref-16][^ref-20] The game was to follow Telltale's episodic format, like *Tales of Monkey Island*, and fit the series canon. Grossman said it would "preserve those elements of peril, challenge, and yes, death", while trying to address the frustration that often came with them.[^ref-16]
+**Development Details:** Telltale approached [[Roberta Williams]] to see if she was interested in working on the new game. Williams declined, saying she had retired from games, but she offered advice that developer Dave Grossman called "very valuable."[^ref-16][^ref-20] The game was to follow Telltale's episodic format, like *Tales of Monkey Island*, and fit the series canon. Grossman said it would "preserve those elements of peril, challenge, and yes, death", while trying to address the frustration that often came with them.[^ref-16][^ref-24]
 
 **Why It Failed:** On **April 3, 2013**, Telltale's Steve Allison confirmed the project had been cancelled and the rights had returned to Activision:[^ref-17][^ref-20]
 
@@ -134,7 +135,7 @@ The various projects took very different approaches. **Twins of Change** was pla
 
 **Twins of Change** was built around the twins' transformations. Alex's forms were aimed at physical puzzles and Rose's at tactical and stealth puzzles. The team had not settled whether the characters would play in alternating chapters or be switchable at will.[^ref-2]
 
-The **Telltale Games** version was to follow an episodic format. Rather than removing death, Telltale planned to keep the series' "peril, challenge, and yes, death" while reducing the frustration that came with them.[^ref-16]
+The **Telltale Games** version was to follow an episodic format. Rather than removing death, Telltale planned to keep the series' "peril, challenge, and yes, death" while reducing the frustration that came with them.[^ref-16][^ref-24]
 
 ---
 
@@ -184,11 +185,11 @@ Each official attempt took a fundamentally different approach to the series. Wil
 
 ### The 2015 Reboot
 
-In 2015, The Odd Gentlemen released [[2015 - King's Quest|King's Quest]] (also known as *Adventures of Graham*), an episodic re-imagining published by Activision under the revived Sierra label.[^ref-6][^ref-8] The developers said it would not be a point-and-click game, but clarified that it was "very much an adventure game".[^ref-10]
+In 2015, The Odd Gentlemen released [[2015 - King's Quest|King's Quest]] (also known as *Adventures of Graham*),[^ref-1] an episodic re-imagining published by Activision under the revived Sierra label.[^ref-6][^ref-8] The developers said it would not be a point-and-click game, but clarified that it was "very much an adventure game".[^ref-10]
 
 The developers explicitly said this was **not** King's Quest IX. "The game is completely reimagined; it's not King's Quest IX or anything like that," said The Odd Gentlemen's Matt Korba. As one developer put it, quoted by the Omnipedia: "It's going to be hard to make a King's Quest IX because everyone's so attached. The directive was to do a reimagining anyway."[^ref-1]
 
-The 2015 game was the next King's Quest actually published after KQ8, but neither its developers nor fans consider it the "fabled King's Quest IX".[^ref-1][^ref-8]
+The 2015 game was the next King's Quest actually published after KQ8, but its developers did not consider it a true King's Quest IX; the Omnipedia calls it "not the fabled King's Quest IX".[^ref-1]
 
 ## Legacy
 
@@ -205,16 +206,13 @@ The King's Quest community has produced numerous fan games and remakes, includin
 Much of what is known about these cancelled projects comes from fan community efforts to interview former Sierra employees. The King's Quest Omnipedia has compiled extensive documentation from developer interviews.[^ref-1][^ref-2]
 
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not available – project cancelled before release
 - No playable version exists from any of the official attempts
 - No retail or digital distribution ever occurred
+- The released classic games are sold separately: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Seven classic games in one collection (KQ1–7)[^ref-22]
 
 **Download / Preservation**
 - No prototypes or builds have been publicly released
@@ -222,7 +220,6 @@ Much of what is known about these cancelled projects comes from fan community ef
 
 **Historical Documentation**
 - [King's Quest Omnipedia – KQ9 History](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) - Comprehensive documentation of cancelled projects[^ref-1]
-- [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Seven classic games in one collection (KQ1–7)[^ref-22]
 
 ## See Also
 
@@ -261,4 +258,5 @@ Much of what is known about these cancelled projects comes from fan community ef
 [^ref-20]: [Wikipedia – King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) – "Cancelled sequels" section: Prima strategy guide p. VIII, Vivendi 2001–2002 version, Silicon Knights prototype, Telltale cancellation
 [^ref-21]: [PCGamingWiki – The Silver Lining](https://www.pcgamingwiki.com/wiki/The_Silver_Lining) – engine: Torque Game Engine
 [^ref-22]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"
-[^ref-23]: [Cendant Corporation – Form 10-K/A for fiscal 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) – "On November 20, 1998, we announced the execution of a definitive agreement to sell CDS"; sale to "Paris based Havas SA, a subsidiary of Vivendi SA" completed January 12, 1999
+[^ref-23]: [Cendant Corporation – Form 10-K/A for fiscal 1998 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20170827090435/https://www.sec.gov/Archives/edgar/data/723612/000095013699001310/0000950136-99-001310.txt) – "On November 20, 1998, we announced the execution of a definitive agreement to sell CDS"; sale to "Paris-based Havas SA, a subsidiary of Vivendi SA" completed January 12, 1999
+[^ref-24]: [Adventure Gamers – Telltale Games: Dave Grossman and Dave Felton interview (Emily Morganti, March 14, 2011; Wayback 2012)](https://web.archive.org/web/20120320054106/http://www.adventuregamers.com/article/id,1286) – design director Dave Grossman: "preserve those elements of peril, challenge, and yes, death, but also hopefully do something to address the frustration"
