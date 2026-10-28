@@ -10,23 +10,23 @@ series: Quest for Glory
 engine: SCI1 (EGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Christopher Braymen, Mark Seibert]
 description: 'Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game
-  developed and published by Sierra On-Line for MS-DOS and Amiga. Designed by Lori
-  Ann...'
+  developed and published by Sierra On-Line for MS-DOS and Amiga, designed by Lori
+  Ann Cole and Corey Cole as the sequel to Quest for Glory I.'
 tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-26].
 
 Designed by [[Lori Ann Cole]] and [[Corey Cole]], it is the sequel to Quest for Glory: So You Want to Be a Hero and continues the story of the Hero of Spielburg[^ref-1][^ref-3].
 
-The game was the last EGA game created by Sierra On-Line, following development processes intended for the graphically superior VGA games, which made its development difficult[^ref-1].
+The game was the last EGA game created by Sierra On-Line, following development processes intended for the graphically superior VGA games, which made its development difficult[^ref-1][^ref-34].
 
 The manual is illustrated by Marvel Comics artist Ernie Chan[^ref-1].
 
@@ -42,10 +42,10 @@ Trial by Fire is the only game in the series that Sierra never produced with any
 > **Producer:** [[Guruka Singh Khalsa|Guruka Singh-Khalsa]][^ref-1]
 > **Programmer:** Robert Fischbach[^ref-1]
 > **Artist:** Kenn Nishiuye[^ref-1]
-> **Composer:** Christopher Braymen, [[Mark Seibert]][^ref-1]
+> **Composer:** [[Chris Braymen|Christopher Braymen]], [[Mark Seibert]][^ref-1]
 > **Engine:** SCI1, EGA (Sierra Creative Interpreter)[^ref-33]
 > **Platforms:** MS-DOS, Amiga[^ref-1]
-> **Release Year:** 1990[^ref-1]
+> **Release Year:** 1990 (MS-DOS: November 1990)[^ref-1][^ref-13]
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
@@ -89,7 +89,7 @@ In 1991, Dragon gave the game 5 out of 5 stars[^ref-1]; its October 1991 review 
 ### Modern Assessment
 Both Michael Baker and Tyler Willis of RPGamer gave the game 4 out of 5 stars; Baker praised its "strong narrative, superb writing, and a graphical design that really works the EGA chip to the fullest"[^ref-8][^ref-32]. In 2011, Adventure Gamers named Quest for Glory II the 81st-best adventure game ever released[^ref-1][^ref-9]. IMDb users rate it 8.4/10[^ref-19]. HowLongToBeat reports the main story takes approximately 8½ hours to complete, with completionist runs taking about 17 hours (as of October 2026)[^ref-12]. On Speedrun.com, the fastest Any% run is 1m10s using glitches, and the fastest Any% No Major Skips run is about 12 minutes[^ref-20].
 
-The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced the text parser with a mouse-driven, icon-based interface and 256-colour VGA graphics[^ref-29]. PC World called it "a hand-polished classic"[^ref-25].
+The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced the parser-only interface with a mouse-driven, icon-based one while keeping the option of typing conversation topics; MobyGames describes its graphics as 256-color VGA[^ref-29]. PC World called it "a hand-polished classic"[^ref-25].
 
 - **Dragon Magazine:** 5/5 stars (October 1991)[^ref-1][^ref-30]
 - **Amiga Action:** 88% (July 1991)[^ref-18]
@@ -98,29 +98,29 @@ The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced t
 - **RPGamer:** 4/5 stars[^ref-8][^ref-32]
 - **IMDb:** 8.4/10[^ref-19]
 - **GOG:** 4.9/5 (Quest for Glory 1-5 collection)[^ref-10]
-- **Steam:** Very Positive (95% of 400 Steam-purchaser reviews, collection; as of Oct 2026)[^ref-11]
+- **Steam:** Very Positive (95% of 400 user reviews, collection; as of Oct 2026)[^ref-11]
 - **HowLongToBeat:** 8½ hours main story, 17 hours completionist[^ref-12]
 - **GameFAQs:** "Great"[^ref-7]
 
 ## Development
 
 ### Production
-According to Corey Cole, Quest for Glory II cost $450,000, almost double the first game's budget[^ref-1][^ref-4]. It was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" - both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1].
+According to Corey Cole, Quest for Glory II cost $450,000, almost double the first game's budget[^ref-1][^ref-4]. It was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1][^ref-34]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" – both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1][^ref-34].
 
 ### Technical Achievements
 - Last Quest for Glory game using EGA graphics[^ref-1][^ref-3]
-- Last EGA game developed by Sierra On-Line[^ref-1]
+- Last EGA game developed by Sierra On-Line[^ref-1][^ref-34]
 - Development budget of $450,000[^ref-1]
 - Complex 30-day time management system[^ref-1]
 - Class-specific side quests, and a variation in the ending for heroes who earn the Paladin title[^ref-1][^ref-27]
 - First game in which the Hero can earn the title of Paladin; Paladin abilities are only usable in characters imported into QFG III and later[^ref-1]
 - Manual illustrated by Marvel Comics artist Ernie Chan[^ref-1]
-- Platform releases: 1990 (MS-DOS and Amiga, United States); May 1991 (Amiga, United Kingdom); 1994 Kixx XL budget re-release by U.S. Gold in Europe[^ref-28]
+- Platform releases: 1990 (MS-DOS and Amiga, United States; PCGamingWiki dates the MS-DOS release to November 1990[^ref-13]); May 1991 (Amiga, United Kingdom); 1994 Kixx XL budget re-release by U.S. Gold in Europe[^ref-28]
 
 ### Easter Eggs and Cultural References
 
 The game is filled with pop-culture references and hidden jokes[^ref-22]:
-- Characters named as parodies: Ad Avis (Bill Davis), Raseir (anagram of Sierra)[^ref-1]
+- Names chosen as parodies: Ad Avis (Bill Davis), Raseir (anagram of Sierra)[^ref-1][^ref-34]
 - References to Casablanca, The Maltese Falcon, and Lawrence of Arabia[^ref-1][^ref-3]
 - Caricatures of the Marx Brothers, and the Starship Enterprise in the opening credits[^ref-1]
 - A Thief can steal the Maltese Falcon, a running gag; the Falcon appears in Raseir alongside Casablanca's Signor Ferrari and Ugarte[^ref-1]
@@ -131,12 +131,12 @@ The game is filled with pop-culture references and hidden jokes[^ref-22]:
 
 Quest for Glory II is the only game in the series that Sierra never produced with anything beyond EGA graphics[^ref-1]. However, AGD Interactive released a free VGA remake on August 24, 2008, using the Adventure Game Studio engine[^ref-1][^ref-29]. AGD describes it as a faithful recreation that keeps the original's dialogue, scenes, characters and Easter eggs intact[^ref-21].
 
-The game is also notable for being the only Quest for Glory title without any direct influence of the character Erana, though she is referenced in a portrait at the Wizards' Institute of Technocery[^ref-1][^ref-3]. The Paladin title introduced here becomes a playable path from Quest for Glory III onward[^ref-1].
+The game is also notable for being the only Quest for Glory title without any direct influence of the character Erana, though she is referenced in a portrait at the Wizards' Institute of Technocery[^ref-1][^ref-3]. Paladin abilities earned here can be used by characters imported into Quest for Glory III and later games[^ref-1].
 
 ### Collections
 
 This game has been included in the following collections:
-- Quest for Glory Anthology (1996)[^ref-7][^ref-26]
+- Quest for Glory Anthology (1996)[^ref-26]
 - Quest for Glory Collection Series (1997)[^ref-26]
 - Quest for Glory 1-5 (GOG, Steam)[^ref-10][^ref-11]
 
@@ -157,7 +157,7 @@ This game has been included in the following collections:
 - [PCGamingWiki – Quest for Glory II](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – technical fixes[^ref-13]
 - [Sierra Fandom Wiki – Quest for Glory II](https://sierra.fandom.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – detailed game information[^ref-3]
 - [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_II) – series wiki[^ref-14]
-- [Hardcore Gaming 101 – Quest for Glory II: Trial by Fire](https://www.hardcoregaming101.net/quest-for-glory-ii/) – retrospective[^ref-15]
+- [Hardcore Gaming 101 – Quest for Glory II: Trial by Fire (archived)](http://web.archive.org/web/20260928182953/https://www.hardcoregaming101.net/quest-for-glory-ii/) – retrospective[^ref-15]
 - [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – historical article[^ref-16]
 - [HowLongToBeat – Quest for Glory II](https://howlongtobeat.com/game/7480) – completion times[^ref-12]
 - [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – guides and FAQs[^ref-7]
@@ -170,6 +170,7 @@ This game has been included in the following collections:
 - [[1992 - Quest for Glory III - Wages of War]]
 - [[1993 - Quest for Glory IV - Shadows of Darkness]]
 - [[1998 - Quest for Glory V - Dragon Fire]]
+- [[2008 - Quest for Glory II VGA Remake]]
 
 ## References
 
@@ -185,7 +186,7 @@ This game has been included in the following collections:
 [^ref-12]: [HowLongToBeat – Quest for Glory II](https://howlongtobeat.com/game/7480) – completion times
 [^ref-13]: [PCGamingWiki – Quest for Glory II](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – technical specs
 [^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_II) – series information
-[^ref-15]: [Hardcore Gaming 101 – Quest for Glory II: Trial by Fire](https://www.hardcoregaming101.net/quest-for-glory-ii/) – Kurt Kalata retrospective
+[^ref-15]: [Hardcore Gaming 101 – Quest for Glory II: Trial by Fire (Wayback, 2026-09-28)](http://web.archive.org/web/20260928182953/https://www.hardcoregaming101.net/quest-for-glory-ii/) – Kurt Kalata retrospective; live site under maintenance in October 2026
 [^ref-16]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – historical analysis
 [^ref-17]: [StrategyWiki – Quest for Glory II](https://strategywiki.org/wiki/Quest_for_Glory_II) – walkthrough, game guide
 [^ref-18]: [Lemon Amiga – Quest for Glory II: Trial by Fire](https://www.lemonamiga.com/games/details.php?id=1463) – Amiga magazine reviews
@@ -203,3 +204,4 @@ This game has been included in the following collections:
 [^ref-31]: [Computer Gaming World #87 (October 1991) – Internet Archive](https://archive.org/details/computer-gaming-world-087-october-1991) – Scorpia's Computer Role-Playing Game Survey
 [^ref-32]: [RPGamer – Quest for Glory II: Trial by Fire Staff Review, Tyler Willis (archived)](https://web.archive.org/web/20081202133657/http://www.rpgamer.com/games/qfg/qfg2/reviews/qfg2strev1.html) – 4.0/5 review
 [^ref-33]: [ScummVM Wiki – Sierra Game Versions (Wayback, 2024-05-18)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II interpreters 1.000.041, 1.000.072 and 1.000.087 listed under "SCI1 (ega)"
+[^ref-34]: [Adventure Gamers – Corey Cole: Recruiting for Hero-U: Rogue to Redemption, Ingmar Böke, November 9, 2012 (archived 2015)](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – "Sierra's last 16-color EGA game"; Raseir anagram; Ad Avis named after Bill Davis
