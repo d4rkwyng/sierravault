@@ -10,14 +10,14 @@ series: k.a.a.
 engine: Proprietary (Windows/DirectX)
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under its k.a.a. label and published by Sierra On-Line in November 1996.
 tags: [1990s, dynamix, k.a.a., sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Hunter Hunted is a side-scrolling action computer game developed by [[Dynamix]] 
 
 Its levels consist of several parallel planes, and characters move between them through doors and windows[^ref-1]. One reviewer, writing for Home of the Underdogs, called this "an intriguing novel concept: the third dimention of 2D"[^ref-17][^ref-3]. It also supports split-screen cooperative and competitive play[^ref-1]. *Next Generation* called it "a strong showing in the world of side-scrolling platform shooters"[^ref-24], and The Collection Chamber later wrote that it "bucked the trend and proved to be very decent" in a genre that had been "more miss than hit on computers"[^ref-8].
 
-Sierra's InterAction magazine presented k.a.a. as a group of rebel developers who wanted to do something other than adventure games. Lead programmer Rhett Andersen said "k.a.a. stands for knot another adventure game... Sierra makes enough of those"[^ref-23]. The game's story was tied into the Metaltech: Earthsiege universe as "a prequel of sorts"[^ref-1]. The game has 65 single-player missions and 35 multiplayer missions across cooperative and head-to-head modes[^ref-1].
+Sierra's InterAction magazine presented k.a.a. as a group of rebel developers who wanted to do something other than adventure games. k.a.a. lead programmer Rhett Andersen said "k.a.a. stands for knot another adventure game... Sierra makes enough of those"[^ref-23]. The game's story was tied into the Metaltech: Earthsiege universe as "a prequel of sorts"[^ref-1]. The game has 65 single-player missions and 35 multiplayer missions across cooperative and head-to-head modes[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -52,7 +52,7 @@ The manual's description of cooperative play warns, "If you've never owed your l
 
 ### Interface and Controls
 
-Hunter Hunted is a side-scrolling action game that supports multiple input methods including keyboard, mouse, and gamepad/joystick[^ref-10]. It uses a side view, but most levels consist of several parallel planes, and characters can move into doors or windows to reach other rooms[^ref-1]; the Home of the Underdogs reviewer called this "the third dimention of 2D"[^ref-17]. Characters can also press against walls to avoid incoming projectiles[^ref-1].
+Hunter Hunted is a side-scrolling action game that supports multiple input methods including keyboard, mouse, and gamepad/joystick[^ref-10]. It uses a side view, but most levels consist of several parallel planes, and characters can move into doors or windows to reach other rooms[^ref-1]. Characters can also press against walls to avoid incoming projectiles[^ref-1].
 
 Each playable character has distinct capabilities: Garathe Den possesses superior strength and stamina, while Jake can take advantage of more sophisticated weaponry[^ref-12].
 
@@ -72,7 +72,7 @@ Each mission tasks players with navigating through the arena, defeating enemies,
 
 While primarily an action game, Hunter Hunted incorporates puzzle elements into its level design. Players must "jump and run through a great amount of levels, solving different riddles and killing your enemies"[^ref-15]. *Next Generation* noted that "the levels are well built, with plenty of puzzles and secret passages"[^ref-24].
 
-The two playable characters offer different gameplay experiences. Jake, the human champion, comes equipped with more sophisticated weaponry[^ref-12]. Garathe Den, in contrast, relies on greater strength and stamina[^ref-12]. Two players can play together in 15 cooperative missions or against each other in 20 head-to-head missions[^ref-1].
+The two playable characters offer different gameplay experiences. Jake, the human champion, comes equipped with more sophisticated weaponry[^ref-12]. Garathe Den, in contrast, relies on greater strength and stamina[^ref-12].
 
 Players must collect parts throughout the game to ultimately build the SCURVe escape vehicle[^ref-10]. The game has been described as a "kill-em-all type game"[^ref-2].
 
@@ -80,7 +80,7 @@ Players must collect parts throughout the game to ultimately build the SCURVe es
 
 ### Contemporary Reviews
 
-Hunter Hunted received moderately positive reviews upon release[^ref-1]. GameSpot's Chris Hudak awarded the game a 7 out of 10[^ref-1]. He praised the ability to move between multiple planes, the sound effects, and the soundtrack, and found that the game did not quite revolutionize the side-scrolling shooter genre but was "a level-hopping step in the right direction"[^ref-1].
+Hunter Hunted received moderately positive reviews upon release[^ref-1]. GameSpot's Chris Hudak, in a review posted December 17, 1996, gave the game 7.0 out of 10 (gameplay 7, graphics 8, sound 8, value 5)[^ref-28]. He praised the ability to move between multiple planes, the "terrific sound effects", and the soundtrack, and concluded that it was "a level-hopping step in the right direction...but only a small, tentative step"[^ref-28].
 
 *Next Generation* gave it three stars out of five in its March 1997 issue, calling Hunter Hunted "a strong showing in the world of side-scrolling platform shooters"[^ref-24]. The reviewer warned that "some of the controls are a bit sticky" but concluded: "It may not be the best platform shooter for the PC, but it's definitely worth some attention"[^ref-24].
 
@@ -88,10 +88,10 @@ Hunter Hunted received moderately positive reviews upon release[^ref-1]. GameSpo
 
 MobyGames contributor Tomer Gabel called it "an innovative platform game with many twists" and "a completely underrated action game"[^ref-27]. The Home of the Underdogs review called it a "fun underdog", while warning that it "may prove too repetitive and easy in one-player mode"[^ref-17].
 
-Players continue to discover and complete it decades after release. Online communities have shared their experiences finishing the game on modern hardware like the Steam Deck[^ref-9].
+One Reddit player posted in 2023 about finally finishing the game 27 years after first owning it on CD-ROM[^ref-9].
 
 **Aggregate Scores:**
-- **MobyGames:** Moby Score 7.1; critics 70% (20 reviews)[^ref-27]
+- **MobyGames:** Moby Score 7.1; critics 69% (21 ratings)[^ref-27]
 - **IMDB:** 8.2/10[^ref-14]
 - **MyAbandonware (user rating):** 4.64/5[^ref-17]
 
@@ -101,13 +101,11 @@ Players continue to discover and complete it decades after release. Online commu
 
 Hunter Hunted was developed by Sierra's Dynamix subsidiary[^ref-8], and released under the k.a.a. label[^ref-1]. Sierra's InterAction magazine described k.a.a. as "a militant group of developers" who "decided it was time to shake Sierra out of a mid-life crisis"[^ref-23]. Sierra CEO Ken Williams recalled that his first reaction was to shut them down, but that he relented: "OK, k.a.a. Give it your best shot."[^ref-23] Hunter Hunted and CyberGladiators were the first two k.a.a. titles[^ref-23].
 
-The story of Hunter Hunted was tied into the Metaltech: Earthsiege universe as a prequel of sorts[^ref-1]. While Hunter Hunted and the first two Earthsiege games make little reference to each other, the later Starsiege storyline retroactively makes Hunter Hunted a major part of the backstory, and characters in that universe reference a religious figure named "Jake Hunter" who, according to his followers, saved humanity from aliens[^ref-1].
+According to Wikipedia, whose account of this connection is marked as needing a citation, the story of Hunter Hunted was tied into the Metaltech: Earthsiege universe as a prequel of sorts[^ref-1]. While Hunter Hunted and the first two Earthsiege games make little reference to each other, the later Starsiege storyline retroactively makes Hunter Hunted a major part of the backstory, and characters in that universe reference a religious figure named "Jake Hunter" who, according to his followers, saved humanity from aliens[^ref-1].
 
 ### Production
 
 Designer Chris Cole described the approach in InterAction: "We took a no-holds-barred death match approach to game play. Hunter/Hunted is a brutal game. Its theme is kill or be killed."[^ref-23] To make the action look as real as possible, the team motion-captured the moves for Jake, the Hunter Beast, and the other enemies[^ref-23]; MobyGames credits Biovision for the motion capture[^ref-22].
-
-The Collection Chamber noted that Hunter Hunted "bucked the trend and proved to be very decent" as a PC platformer, a genre that had been "more miss than hit on computers especially when compared to any console's output"[^ref-8].
 
 **Development Credits:**[^ref-22]
 - **Executive Producer:** Jeffrey Tunnell[^ref-22]
@@ -115,13 +113,13 @@ The Collection Chamber noted that Hunter Hunted "bucked the trend and proved to 
 - **Designer/Director:** Chris Cole[^ref-22]
 - **Lead Programmer:** Richard Rayl[^ref-22]
 - **Art Director:** Brian Hahn[^ref-22]
-- **Music:** Loudmouth[^ref-22]
+- **Music:** Loudmouth; Tim Ebling (uncredited)[^ref-22]
 
 ### Technical Achievements
 
-A preview in InterAction's Summer 1996 issue, under the title "Hunter/Hunted", promoted its "Z-plane movement capabilities that let you move as many as 10 levels deep into the game"[^ref-25]. The Fall 1996 issue described a level that "might be five screens tall by seven screens wide, and 10 or 12 layers deep"[^ref-23]. According to the Home of the Underdogs review, when Jake or the Hunter reaches a door, pressing up sends the character "running headlong into the screen" into the next layer of the arena[^ref-17].
+A preview in InterAction's Summer 1996 issue, under the title "Hunter/Hunted", promoted its "Z-plane movement capabilities that let you move as many as 10 levels deep into the game"[^ref-25]. The Fall 1996 issue described a level that "might be five screens tall by seven screens wide, and 10 or 12 layers deep"[^ref-23]. GameSpot's Chris Hudak described how, when Jake or the Hunter reaches a 2-D door, the up arrow sends the character "into the screen, 'away' from the player, into the next lateral level of arena"[^ref-28].
 
-The game supports split-screen play for both cooperative and competitive modes, allowing two players on a single machine[^ref-1]. The Home of the Underdogs reviewer noted that thanks to the into-the-world ability, "you can sneak up on your opponent from behind, above or below"[^ref-17].
+The game supports split-screen play for both cooperative and competitive modes, allowing two players on a single machine[^ref-1]. Hudak noted that in split-screen play you can "delve horizontally into the world and attempt to sneak up on your opponent from behind, above or below"[^ref-28].
 
 ### Technical Specifications
 
@@ -148,6 +146,7 @@ No significant cut content has been documented in available sources.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | November 8, 1996 | Windows | US release[^ref-1]; Sierra Chest gives October 18, 1996 as the first release date[^ref-7] |
+| UK Release | 1996 | Windows | Distributed by Sierra On-Line Ltd.[^ref-26] |
 | Germany Release | January 16, 1997 | Windows | German release[^ref-26] |
 | Italy Release | 1997 | Windows | Distributed by Leader S.p.a.[^ref-26] |
 | Japan Release | 1997 | Windows | Released as "Jake Burst" (ジェイクバースト), distributed by Sierra Pioneer[^ref-26][^ref-17] |
@@ -159,14 +158,13 @@ The game was released in Japan under the title "Jake Burst" (ジェイクバー�
 
 ### Technical Issues
 
-Hunter Hunted was designed for Windows 95[^ref-18]. Players have reported finishing it on modern hardware such as the Steam Deck[^ref-9].
+Hunter Hunted was designed for Windows 95[^ref-18]. One Reddit player reported installing and finishing it on a Steam Deck[^ref-9].
 
 ### Easter Eggs and Trivia
 
 - A MobyGames user review notes a Mortal Kombat reference when the player leaves a level through the gate[^ref-27]
 - Hunter Hunted is tied into the same fictional universe as the Earthsiege series, as a prequel of sorts[^ref-1]
 - The name k.a.a. was explained in Sierra's InterAction magazine as "knot another adventure game"[^ref-23]
-- Hunter Hunted and CyberGladiators were the first two k.a.a. titles[^ref-23]
 
 ## Voice Cast
 
@@ -195,7 +193,7 @@ The game has also been preserved through archival efforts, with copies available
 
 ### Fan Projects
 
-Hunter Hunted maintains a following in retro gaming communities. Discussions on platforms like Reddit show players continuing to revisit the game decades after release, with some completing it for the first time on the Steam Deck[^ref-9]. The game has a GOG.com Dreamlist entry where users vote to see it made available on modern digital distribution platforms[^ref-12].
+PCGamingWiki lists the Collector's New Installer, "an alternative to the original 16-bit installer which works independently from the CD-ROM"; it includes the free Missions Pack and the level editor[^ref-18]. The Collection Chamber offers its own installer, which runs the game in DOSBox (Daum build) under Windows 95 with the add-ons included[^ref-8]. The game also has a GOG.com Dreamlist entry where users vote to see it made available on modern digital distribution platforms[^ref-12].
 
 ### Related Publications
 
@@ -206,7 +204,7 @@ Hunter Hunted maintains a following in retro gaming communities. Discussions on 
 
 Hunter Hunted was one of Sierra's attempts to move beyond its adventure game catalog: InterAction framed the k.a.a. label as a deliberate break from adventure games, with Rhett Andersen saying "we wanted to do something different"[^ref-23].
 
-Critics gave the game moderately positive reviews[^ref-1], and it never achieved the distinctive status of Sierra's adventure games. Tomer Gabel's MobyGames verdict that it was "a completely underrated action game" is echoed by players who have rediscovered it[^ref-27][^ref-9].
+Critics gave the game moderately positive reviews[^ref-1]; MobyGames contributor Tomer Gabel later called it "a completely underrated action game"[^ref-27].
 
 ## Downloads
 
@@ -259,4 +257,5 @@ Critics gave the game moderately positive reviews[^ref-1], and it never achieved
 [^ref-24]: [Next Generation #27 (March 1997)](https://archive.org/details/NextGeneration27Mar1997) – Hunter Hunted review, three stars
 [^ref-25]: [InterAction Magazine, Summer 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – "First Look: Hunter/Hunted" preview, Z-plane movement
 [^ref-26]: [MobyGames – Hunter Hunted releases](https://www.mobygames.com/game/656/hunter-hunted/releases/) – regional releases (US, UK, Germany, Italy, Japan via Sierra Pioneer, 2005 Dice Multi Media)
-[^ref-27]: [MobyGames – Hunter Hunted reviews](https://www.mobygames.com/game/656/hunter-hunted/reviews/) – Moby Score, critic average, user reviews (Tomer Gabel; Mortal Kombat reference; Survival Guide)
+[^ref-27]: [MobyGames – Hunter Hunted reviews](https://www.mobygames.com/game/656/hunter-hunted/reviews/) – Moby Score, critic average (69%, 21 ratings, checked 2026-10-28), user reviews (Tomer Gabel; Mortal Kombat reference; Survival Guide)
+[^ref-28]: [GameSpot – Hunter Hunted Review (Chris Hudak, 12/17/96), Wayback copy](http://web.archive.org/web/20041205053642/http://www.gamespot.com/pc/action/hunterhunted/review.html) – score 7.0 and subscores, door/layer description, split-screen sneak-up, closing verdict
