@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -45,9 +45,9 @@ With a budget of about $700,000[^ref-40], professional voice acting, and Sierra'
 
 ## Story Summary
 
-Following the events of King's Quest V, Prince Alexander cannot forget Princess Cassima, the scullery maid he helped rescue from the wizard Mordack—only to discover she was royalty herself[^ref-9]. At the end of their previous adventure, Cassima invited Alexander to visit her kingdom, but after returning to the Land of the Green Isles, she was never heard from again[^ref-9]. Gazing into the magic mirror of Daventry, Alexander sees a vision of Cassima weeping in a tower, crying for help[^ref-9]. Memorizing the star positions visible through her window, he sets sail to find her, navigating by the night sky for three months until a violent storm shipwrecks him on the very shores he sought[^ref-3][^ref-10].
+Following the events of King's Quest V, Prince Alexander cannot forget Princess Cassima, the scullery maid he helped rescue from the wizard Mordack—only to discover she was royalty herself[^ref-9]. At the end of their previous adventure, Cassima invited Alexander to visit her kingdom, but after returning to the Land of the Green Isles, she was never heard from again[^ref-9]. Gazing into the magic mirror of Daventry, Alexander sees a vision of Cassima crying for help[^ref-9]. Memorizing the night sky from the vision, he sets sail to find her, navigating by the night sky for three months until a violent storm shipwrecks him on the very shores he sought[^ref-3][^ref-10].
 
-Alexander awakens on the Isle of the Crown to find the Green Isles in turmoil. King Caliphim and Queen Allaria have died under mysterious circumstances, and the royal Vizier Abdul Alhazred has declared himself regent[^ref-4]. Claiming Cassima is in mourning and cannot be disturbed, Alhazred plans to force her into marriage to legitimize his rule[^ref-11]. The kingdom's four main islands—once united under the Crown—have fallen into bitter dispute after their sacred treasures were stolen, each island blaming the others[^ref-10].
+Alexander awakens on the Isle of the Crown to find the Green Isles in turmoil. King Caliphim and Queen Allaria have died under mysterious circumstances, and Alexander's request to see Cassima is turned away by the royal vizier, Abdul Alhazred[^ref-4]. Claiming Cassima is in mourning and cannot be disturbed, Alhazred plans to force her into marriage to legitimize his rule[^ref-11]. The kingdom's four main islands—once united under the Crown—have fallen into bitter dispute after their sacred treasures were stolen, each island blaming the others[^ref-10].
 
 Alexander's quest takes him across a chain of islands, each inspired by classic literary traditions. The Isle of the Crown evokes the Arabian Nights with its bazaars and palace intrigue[^ref-12]. The comma-shaped Isle of Wonder draws from Lewis Carroll's Alice in Wonderland, populated by living chess pieces, grammatical puns made flesh, and quarreling queens[^ref-9][^ref-13]. The Isle of the Sacred Mountain reflects ancient Greek mythology, featuring winged humanoids, a minotaur-haunted labyrinth, and an ancient oracle[^ref-13]. The Isle of the Beast reimagines Beauty and the Beast, where a cursed nobleman awaits true love's release[^ref-12]. A fifth island, the Isle of the Mists, lies hidden in perpetual fog, home to secretive druids[^ref-10].
 
@@ -63,7 +63,7 @@ George Starostin's retrospective praised the refinement: "there are now many mor
 
 ### Structure and Progression
 
-The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, usually no more than half a dozen screens[^ref-9], but puzzles interlock across locations—solving challenges on one island often requires objects gathered on another, much as in LucasArts' Monkey Island 2, released the same year[^ref-12].
+The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, usually no more than half a dozen screens[^ref-9], but puzzles interlock across locations—solving challenges on one island often requires objects gathered on another, much as in LucasArts' Monkey Island 2, released the previous December[^ref-12][^ref-58].
 
 A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-41]. This reflects the game's signature feature: roughly half of the game's puzzles are optional[^ref-41][^ref-5]. The design offers two major paths—a quicker "short path" and a "long path" that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures; only the long path reaches the full 231 points[^ref-14][^ref-41].
 
@@ -100,7 +100,7 @@ Hardcore Gaming 101 called it "a remarkable improvement in almost every possible
 George Starostin's 2021 retrospective described it as "one of the best designed digital fairy tales ever told—probably the very best one in the family-friendly category" that achieved "a level of depth and complexity that put it at least on the Princess Bride level of entertainment"[^ref-12]. He particularly praised the Land of the Dead sequence as "the single most emotionally heavy moment in King's Quest history—perhaps the only time in its history when the game taking itself seriously managed to have me impressed rather than amused"[^ref-12].
 
 **Aggregate Scores:**
-- GameRankings: 88.75% (4 reviews)[^ref-4]
+- GameRankings: 88.75% (4 reviews)[^ref-4][^ref-59]
 - MobyGames: 8.1 MobyScore, 83% critics (30 ratings)[^ref-20]
 
 **Other Ratings:**
@@ -128,7 +128,7 @@ The collaboration proved challenging but formative. Jensen reflected: "It wasn't
 
 Jensen wrote over 6,000 messages for the game—reportedly four times the script size of King's Quest V[^ref-4][^ref-9]. She also authored the Guidebook to the Land of the Green Isles, the game's copy protection manual written in-universe as the travel journal of explorer Derek Karlavaegen[^ref-13]. The character name was suggested by Peter Spear, author of The King's Quest Companion, to cement connections with his book series; Jensen's original character was named "John the Wanderer"[^ref-13].
 
-**Development Credits:**[^ref-3][^ref-20]
+**Development Credits:**[^ref-3][^ref-20][^ref-41]
 - **Executive Designer:** Roberta Williams
 - **Co-Designer:** Jane Jensen
 - **Project Manager/Director:** William D. Skirvin
@@ -166,7 +166,7 @@ The CD-ROM version marked a significant leap in Sierra's voice production, featu
 | [[Josh Mandel]] | King Graham, Shamir Shamazel, Oxymoron, Druid, Guard Dog |
 | Bill Ratner | Narrator[^ref-53][^ref-56] |
 | Stevie Louise Vallance (as Louise Vallance) | Princess Cassima |
-| Townsend Coleman | Vizier Abdul Alhazred, Shamir Shamazel, Lord Azure, Ferryman, Beast, Minotaur |
+| Townsend Coleman | Vizier Abdul Alhazred, Lord Azure, Ferryman, Beast, Minotaur |
 | Sheryl Bernstein | Queen Valanice, Princess Rosella, Lady Aeriel, White Chess Queen, Black Widow |
 | Ron Feinberg | King Caliphim, Lord of the Dead, Gruff |
 | Dave Fennoy (as David Fennoy) | Pawnshop Owner |
@@ -267,13 +267,13 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 
 ### Easter Eggs and Trivia
 
-**Pawn Shop References:** The pawn shop shelves contain humorous items referencing earlier King's Quest puzzles[^ref-9][^ref-11]:
+**Pawn Shop References:** The pawn shop shelves contain humorous items referencing earlier King's Quest puzzles[^ref-2][^ref-9][^ref-11]:
 - Hull-hole detector (King's Quest V)
 - Cat-cookie mix (King's Quest III)
 - Golden bridle finder (King's Quest IV)
 - Tongue climbing gear (King's Quest IV)
 - Bridge repair kit (King's Quest II)
-- Owl courage potion (a nod to Cedric from King's Quest V)
+- Owl courage potion
 - Stair traction pads (various AGI-era games)
 
 **Name Origins:**
@@ -282,7 +282,7 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 - **Lord of the Dead/Samhain:** Shares its name with the Gaelic festival Samhain; in-game, the Arch Druid says he was once a man who insulted the gods and was sentenced to rule the Underworld[^ref-51]
 
 **Visual References:**
-- Alexander's costume was based on Kevin Costner's wardrobe in Robin Hood: Prince of Thieves[^ref-52]
+- Alexander's costume was based on Kevin Costner's wardrobe in Robin Hood: Prince of Thieves[^ref-2]
 
 **Unused Content (TCRF):**[^ref-35]
 - Debug Script 911 was accidentally left in Spanish and Italian releases despite being cut from the final English game
@@ -292,11 +292,11 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 
 **Other Trivia:**
 - If Alexander falls from the first steps of the Cliffs of Logic three times, he tells the player to "Quit making me fall!"[^ref-50]
-- KQ6 references appear in Torin's Passage (Girl in the Tower behind theater curtain), Space Quest IV (cut room using KQ6 art), Leisure Suit Larry 6 ("Girl in the Shower" gag), and King's Quest 2015 (tapestry in Gwendolyn's room)[^ref-11][^ref-48]
+- KQ6 references appear in Torin's Passage (Girl in the Tower behind theater curtain) and Leisure Suit Larry 6 ("Girl in the Shower" gag)[^ref-48]; an unused Space Quest IV easter egg, the "Room removed for Legal Reasons", reuses graphics of the secret passages in KQ6's Castle of the Crown[^ref-60]
 
 ### Fan Games
 
-**King's Quest VI AGI Demake (2024):** Brandon Kouri released a remarkable fan project that recreates King's Quest VI using Sierra's original 1980s AGI engine and text parser interface[^ref-33]. Development spanned 18 years (2006-2024), released in August 2024 (the current build is dated August 30, 2024)[^ref-33]. Built with AGI Studio and WinAGI, it features 16-color graphics and a typing interface, and is freely available[^ref-33].
+**King's Quest VI AGI Demake (2024):** Brandon Kouri released a remarkable fan project that recreates King's Quest VI using Sierra's original 1980s AGI engine and text parser interface[^ref-33]. Development spanned 18 years (2006-2024), and the current build is dated August 30, 2024[^ref-33]. Built with AGI Studio and WinAGI, it features 16-color graphics and a typing interface, and is freely available[^ref-33].
 
 ### Related Publications
 
@@ -323,15 +323,13 @@ This game has been included in[^ref-20][^ref-21]:
 - [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – KQ4, KQ5 and KQ6 bundle, ScummVM-powered
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – KQ1–7 bundle; does not include King's Quest 8
 
-**Download / Preservation**
-
 **Fan Projects**
 - [King's Quest VI AGI Demake](https://kq6agi.com/) – Brandon Kouri's 18-year AGI recreation (2024)
 - [Two Guys Records – An Ode to the Isles](https://www.discogs.com/release/31112489) – 2024 vinyl soundtrack reorchestration
 
 **Manuals & Extras**
 - [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – Walkthrough, maps, memorabilia
-- [MOCAGH – KQ6 Hintbook](https://mocagh.org/) – Official hint book scans
+- [MOCAGH – KQ6 Hintbook](https://mocagh.org/sierra/kq6-hintbook.pdf) – Official hint book scan
 - [Sierra Help SCI Wiki – KQ6](https://sciwiki.sierrahelp.com/index.php/KQ6) – Versions, patches, new installer
 - [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – Technical fixes
 
@@ -350,13 +348,13 @@ This game has been included in[^ref-20][^ref-21]:
 ## References
 
 [^ref-1]: [Adventure Gamers – King's Quest VI Review (Emily Morganti, 2008)](https://web.archive.org/web/20130901003811/http://www.adventuregamers.com/articles/view/18166/page2) – 4.5/5 rating, "one of the best games Sierra gave us" verdict
-[^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – Jane Jensen credit for quality, darker tone, character name origins, Robin Hood costume reference
+[^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – Jane Jensen credit for quality, darker tone, character name origins, pawn shop items incl. "owl courage potion", Whole-Costume Reference (Kevin Costner's Robin Hood: Prince of Thieves wardrobe)
 [^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
 [^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – 400K first-week sales, DOS chart position, GameRankings 88.75%, 6,000 messages
 [^ref-5]: [Dragon Magazine #192 (April 1993), pp. 57–58 – King's Quest VI Review](https://web.archive.org/web/20150319223820/http://annarchive.com/files/Drmg192.pdf) – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
 [^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Jimmy Maher article: $1M+ budget, Girl in the Tower radio fiasco, Bright Star acquisition, opening movie specs, Ken Williams quotes
 [^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – SCI1.1 engine, version numbers, interpreter details
-[^ref-9]: [Hardcore Gaming 101 – King's Quest VI](http://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/) – Plot summary, Cassima backstory as Mordack's slave
+[^ref-9]: [Hardcore Gaming 101 – King's Quest VI](http://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/) – Plot summary, Cassima backstory as Mordack's slave, pawn shop items ([archived copy, 2026-06-12](http://web.archive.org/web/20260612172428/https://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/))
 [^ref-10]: [KQ Omnipedia – Land of the Green Isles](https://kingsquest.fandom.com/wiki/Land_of_the_Green_Isles) – Three months voyage, Edge of World location, star navigation
 [^ref-11]: [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – Plot summary, Alhazred's marriage plot
 [^ref-12]: [George Starostin – KQ6 Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vi-heir-today) – Island theme descriptions: Arabian Nights, Beauty and the Beast
@@ -390,9 +388,11 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-49]: [KQ Omnipedia – Heir Today, Gone Tomorrow: From the Chronicles of Daventry, Part VI](https://kingsquest.fandom.com/wiki/Heir_Today,_Gone_Tomorrow:_From_the_Chronicles_of_Daventry,_Part_VI) – eluki bes shahar novelization, Derek Karlavaegen narration
 [^ref-50]: [KQ Omnipedia – King's Quest VI](https://kingsquest.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – Logic Cliffs "Quit making me fall!" trivia
 [^ref-51]: [KQ Omnipedia – Samhain](https://kingsquest.fandom.com/wiki/Samhain) – Arch Druid's account of Samhain's curse
-[^ref-52]: [Tropedia – King's Quest VI](https://tropedia.fandom.com/wiki/King%27s_Quest_VI) – Alexander's outfit based on Kevin Costner's in Robin Hood: Prince of Thieves
-[^ref-53]: [IMDb – King's Quest VI: Heir Today, Gone Tomorrow (1992), full cast & crew](https://www.imdb.com/title/tt0214857/fullcredits/) – complete voice cast with each actor's roles
+[^ref-53]: [IMDb – King's Quest VI: Heir Today, Gone Tomorrow (1992), full cast & crew](https://www.imdb.com/title/tt0214857/fullcredits/) – complete voice cast with each actor's roles ([archived copy, 2025-11-07](https://web.archive.org/web/20251107063422/https://www.imdb.com/title/tt0214857/fullcredits/?ref_=tt_cst_sm))
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
 [^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
 [^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"; "Directed by Jane Jensen, William D. Skirvin, Roberta Williams"
 [^ref-57]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"
+[^ref-58]: [Wikipedia – Monkey Island 2: LeChuck's Revenge](https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge) – infobox: original version released December 1991
+[^ref-59]: [GameRankings – King's Quest VI (Wayback 2019-06-02)](https://web.archive.org/web/20190602232517/http://www.gamerankings.com/pc/565072-kings-quest-vi-heir-today-gone-tomorrow/index.html) – "88.75%", "Score based on 4 reviews"
+[^ref-60]: [KQ Omnipedia – Space Quest series](https://kingsquest.fandom.com/wiki/Space_Quest_series) – SQ4 unused easter egg "uses graphics from King's Quest VI's secret passages from Castle of the Crown", made into the "Room removed for Legal Reasons"
