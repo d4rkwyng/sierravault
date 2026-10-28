@@ -10,18 +10,18 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jerrod Wilson
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line
   adventure game Gold Rush!, developed and published by Sunlight Games.
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line adventure game Gold Rush!, developed and published by the German studio Sunlight Games.[^ref-2][^ref-17] The game takes players back to the California Gold Rush, which its store description calls "one of the most exciting times in American history", as Jerrod Wilson travels from New York to the goldfields of California.[^ref-2] It was released on Steam for Windows on November 7, 2014; the Mac version followed on Steam on November 15 and the Linux version on November 19, 2014, with iPad and Android versions arriving in March 2015.[^ref-3][^ref-17]
+Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line adventure game Gold Rush!, developed and published by the German studio Sunlight Games.[^ref-2][^ref-8][^ref-17] Metacritic and Just Adventure's review, however, list KISS Ltd as publisher of the 2014 PC release.[^ref-7][^ref-13] The game takes players back to the California Gold Rush, which its store description calls "one of the most exciting times in American history", as Jerrod Wilson travels from New York to the goldfields of California.[^ref-2] It was released on Steam for Windows on November 7, 2014; the Mac version followed on Steam on November 15 and the Linux version on November 19, 2014, with iPad and Android versions arriving in March 2015.[^ref-3][^ref-17]
 
 The Anniversary edition is a complete visual overhaul of the original AGI-based adventure, with more than 130 pre-rendered images and animated scenes.[^ref-4][^ref-8] The pixel art was replaced by 3D modelling, though Adventure Gamers felt the graphics looked closer to 2001 than 2014.[^ref-1][^ref-5] Players choose one of three routes to California—across the Isthmus of Panama, around Cape Horn, or overland across the Great Plains—which the developer bills as "3 adventures in one game".[^ref-2][^ref-6]
 
@@ -104,7 +104,7 @@ The iOS App Store shows a 3.0 out of 5 rating from 12 ratings.[^ref-4] Users pra
 - **Hooked Gamers:** 57/100[^ref-13]
 - **GameOver.gr:** 50/100[^ref-13]
 - **Gameboomers:** C[^ref-10]
-- **Adventure Corner:** 54/100[^ref-10]
+- **Adventure Corner:** 54/100[^ref-10][^ref-22]
 - **App Store:** 3.0/5[^ref-4]
 - **Metacritic User Score:** 3.3/10 (Generally Unfavorable, 4 ratings)[^ref-13]
 
@@ -140,12 +140,13 @@ The headline features were the dual control system, which lets players switch be
 ### Technical Specifications
 
 **PC Version (Steam minimum requirements):**[^ref-2]
-- **Resolution options:** 1280x720, 1366x768 and 1600x900 (per Adventure Corner's review)[^ref-10]
 - **Storage:** 2,400 MB available space
 - **Memory:** 1 GB RAM
 - **Processor:** Pentium 4 with 2 GHz or better
 - **Graphics:** DirectX-compatible graphics card with 512 MB RAM minimum
 - **Operating System:** Windows Vista, 7, 8, or 10
+
+Adventure Corner's review lists resolution options of 1280x720, 1366x768 and 1600x900.[^ref-10][^ref-22]
 
 **iOS Version:**[^ref-4]
 - **Download Size:** 1.1 GB
@@ -164,7 +165,7 @@ Players have noted several elements of the original game that were simplified or
 - Robbers in the woods encounters
 - The gallows scene when players attempt claim jumping[^ref-19]
 
-Adventure Corner's review also noted that a German language edition, repeatedly promised during development, was left out at launch.[^ref-10] The Steam store now lists German with full audio support.[^ref-2]
+Adventure Corner's review noted that a German voice-over, repeatedly promised during development, was dropped without comment, and that some German texts were left untranslated or mistranslated.[^ref-22] Steam still lists German for the interface and subtitles only, with full audio in English.[^ref-2]
 
 ### Version History
 
@@ -195,7 +196,7 @@ The Anniversary edition suffered from various technical problems.[^ref-7]
 - Certain puzzles impossible to complete without switching to text parser mode[^ref-1][^ref-7]
 - Dialogue carried over from the parser original "works poorly in the mouse click version"[^ref-19]
 
-**Platform-Specific Bugs:**
+**Reported Bugs:**
 - Brooklyn pier bug where Jerrod walks on the spot[^ref-20]
 - Mouse cursor disappearing in the menu[^ref-20]
 - "Digging is for on dry land" message appearing when miles from the river[^ref-19]
@@ -213,7 +214,7 @@ The Anniversary edition suffered from various technical problems.[^ref-7]
 - The original 1988 game took up only a megabyte of storage, compared to the Anniversary edition's 2,400 MB footprint.[^ref-2][^ref-5]
 - Sunlight Games announced Steam trading cards for the game.[^ref-3]
 - 3D-printed figures of Jerrod Wilson, including one of the remake version, were offered through Shapeways.[^ref-3]
-- A digital Special Edition upgrade was offered as DLC for €4.99. It adds a Making-of booklet, more than 90 unpublished original concept drawings from the 1980s, and the Gold Rush! Classic version.[^ref-2][^ref-3]
+- A digital Special Edition upgrade was offered as DLC for €4.99 at launch; Steam now sells it for $1.99. It adds a Making-of booklet, more than 90 unpublished original concept drawings from the 1980s, and the Gold Rush! Classic version.[^ref-2][^ref-3]
 - Development outtakes were released publicly on December 11, 2017.[^ref-3]
 - The original game used copy protection requiring players to look up words from an included book, "California Gold: Story of the Rush to Riches" by Lou and Phyllis Zauner. Entering an incorrect word got the character arrested and hanged.[^ref-8]
 
@@ -238,7 +239,7 @@ Gold Rush! Anniversary has been bundled with the original game:
 
 ### Fan Projects
 
-The Anniversary edition is not a fan project. It is a commercial remake by Sunlight Games, which secured the rights to Gold Rush!, and the MacNeills are credited for the original game.[^ref-8][^ref-18] It was followed by an official sequel, Gold Rush! 2, released on Steam on April 28, 2017, whose story Sunlight Games says "came from the pen of the developers of the original game".[^ref-3]
+Rather than a fan remake, the Anniversary edition is a licensed commercial production: Sunlight Games secured the rights to Gold Rush!, and the MacNeills are credited for the original game.[^ref-8][^ref-18] It was followed by an official sequel, Gold Rush! 2, released on Steam on April 28, 2017, whose story Sunlight Games says "came from the pen of the developers of the original game".[^ref-3]
 
 ### Related Publications
 
@@ -284,3 +285,4 @@ The original Gold Rush! held significant historical importance—Adventure Gamer
 [^ref-19]: [Steam Community – "A lot missing from the original version"](https://steamcommunity.com/app/319230/discussions/0/618457398965959869/) – cut content list, dialogue and digging bugs (bjkatcher, March 2015)
 [^ref-20]: [Steam Community – "Bug in Brooklyn at pier"](https://steamcommunity.com/app/319230/discussions/0/458604254438208210/) – pier walking bug, disappearing menu cursor
 [^ref-21]: [Steam Community – "is it worth it? (constructive discussion)"](https://steamcommunity.com/app/319230/discussions/0/624075036416610774/) – user comment on the $35 launch price
+[^ref-22]: [Adventure Corner – Gold Rush! Anniversary Review](https://www.adventurecorner.de/reviews/8926/gold-rush-anniversary-review) – Tobias Maack, 21 November 2014 (German): 54%, resolutions, promised German voice-over dropped, untranslated texts
