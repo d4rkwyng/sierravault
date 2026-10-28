@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'The Beast Within: A Gabriel Knight Mystery is a 1995 full-motion video
  adventure game by Sierra On-Line. Jimmy Maher wrote that "at its best and judged in
  the context of its time, it was one of the most impressive interactive narratives
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The game was a direct sequel to Gabriel Knight: Sins of the Fathers, continuing 
 
 ## Story Summary
 
-The Beast Within opens several months after the events of Sins of the Fathers[^ref-15]. Gabriel has moved to Germany to live in his ancestral castle, Schloss Ritter, and, having already turned his New Orleans case into the bestselling novel *The Voodoo Murders*, is seeking inspiration for a new manuscript[^ref-12]. When a little girl is killed in the woods near Munich, apparently by a wolf, villagers from Rittersberg call on Gabriel's expertise as a Schattenjäger[^ref-15][^ref-17].
+The Beast Within opens several months after the events of Sins of the Fathers[^ref-15]. Gabriel has moved to Germany to live in his ancestral castle, Schloss Ritter, and, having already turned his New Orleans case into the bestselling novel *The Voodoo Murders*, is seeking inspiration for a new manuscript[^ref-12]. When a little girl is killed in the woods near Munich, apparently by a wolf, villagers call on Gabriel's expertise as a Schattenjäger[^ref-15][^ref-17].
 
 The investigation leads Gabriel into the heart of Bavarian history and culture, uncovering connections between the recent murders and historical events involving King Ludwig II of Bavaria and composer Richard Wagner[^ref-15]. Meanwhile, Grace Nakimura, Gabriel's research assistant from New Orleans, flies to Rittersberg and, based at Schloss Ritter, conducts her own research into Ludwig II and Wagner[^ref-12]. The game alternates between Gabriel and Grace's perspectives across six chapters[^ref-15][^ref-12], as they uncover the secrets of an exclusive hunting club and its leader, Baron Friedrich Von Glower[^ref-17][^ref-12].
 
@@ -75,11 +75,11 @@ The Beast Within received widespread critical acclaim upon release, winning Comp
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | PC Gamer US | 96% | "Sets a new standard — within the graphic adventure genre, at any rate — for interactive entertainment"[^ref-12] |
-| GameSpot | 8.3/10 | "The best interactive, live-action video adventure game to date"[^ref-23] |
+| GameSpot | 8.3/10 | "The best interactive, live-action video adventure game to date"[^ref-59] |
 | Computer Gaming World | 5/5 stars | Called it "a graphic adventure benchmark"[^ref-12] |
 | Computer Game Review | 91/94/96 | Three reviewers[^ref-12][^ref-61] |
 
-Computer Gaming World named The Beast Within their 1995 Game of the Year, with its staff calling it "the continuation of a brilliant tradition—the graphic adventure as art"[^ref-12]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-23].
+Computer Gaming World named The Beast Within their 1995 Game of the Year, with its staff calling it "the continuation of a brilliant tradition—the graphic adventure as art"[^ref-12]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-59].
 
 ### Modern Assessment
 
@@ -101,7 +101,7 @@ GameSpot's reviewer noted that "author Jane Jensen did some serious investigatin
 
 The Beast Within was directed by Will Binder, a UCLA film-school graduate who had worked as a director's assistant on films such as *Scent of a Woman*[^ref-15][^ref-17]. The game used the same engine as Sierra's Phantasmagoria[^ref-12], but swapped its 3D-modelled backgrounds for retouched photographs of real German locations[^ref-15].
 
-Dean Erickson, who replaced Tim Curry as Gabriel Knight, recalled three and a half months on the production during the late summer and early fall of 1995, working Monday through Friday, eight to ten hours a day[^ref-3]. Jimmy Maher instead dates the shoot on Sierra's new Oakhurst sound stage from May 1995, lasting almost four months, with a few days on location at Seattle's opera house[^ref-15]. The production faced significant budget constraints, limiting actors to maximum two takes per scene and requiring all of Erickson's voice-over work to be completed in a single day[^ref-12].
+Dean Erickson, who replaced Tim Curry as Gabriel Knight, recalled three and a half months on the production during the late summer and early fall of 1995, working Monday through Friday, eight to ten hours a day[^ref-3]. Jimmy Maher instead dates the shoot on Sierra's new Oakhurst sound stage from May 1995, lasting almost four months, with a few days on location at Seattle's opera house[^ref-15]. Budget constraints meant director Will Binder rarely ran more than two takes of any scene, and all of Erickson's voice-over narration was recorded in a single day[^ref-12].
 
 The game featured professional casting from Los Angeles, with actors paid Screen Actors Guild minimum wage due to budget limitations[^ref-15][^ref-17]. Initially, Sierra attempted to use local actors to cut costs, but Jensen recalled, laughing: "we tried to cast some local people—basically cutting corners in a way that is pretty evident. But after we got going, we said, 'Screw it,' and started casting people from L.A."[^ref-17]
 
@@ -143,10 +143,10 @@ As an FMV game, The Beast Within featured a full cast of live-action performers 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | December 1995 | DOS/Windows | Initial US release, six CDs[^ref-15][^ref-10] |
-| 1.0 | July 9, 1996 | Mac OS | Macintosh release[^ref-12][^ref-57] |
+| Retail | December 1995 | DOS/Windows | Initial US release, six CDs[^ref-15][^ref-10] |
+| Retail | July 9, 1996 | Mac OS | Macintosh release[^ref-12][^ref-57] |
 | Digital | February 23, 2010 | Windows | GOG.com release[^ref-67][^ref-41] |
-| Digital | August 29, 2016 | Windows | Steam release[^ref-68][^ref-66] |
+| Digital | August 29, 2016 | Windows | Steam release[^ref-68]; store lists Activision as publisher[^ref-66][^ref-68] |
 
 ### German Version
 
@@ -157,7 +157,7 @@ When the game was first released in Germany it shipped in English, without dubbi
 - The werewolf story was originally intended to be the first Gabriel Knight game, but [[Jane Jensen]] felt she "needed to go back further in the characters' history"[^ref-15]
 - Jensen chose werewolves thematically because she wanted Gabriel to confront "those baser aspects of his personality"—his womanizing ways[^ref-17]
 - Dean Erickson replaced Tim Curry: the budget only allowed Screen Actors Guild minimum pay, which ruled out "name" stars,[^ref-15] and Jensen felt Curry did not look the part[^ref-12]
-- Due to budget constraints, actors were limited to a maximum of two takes per scene[^ref-12]
+- Due to budget constraints, director Will Binder rarely ran more than two takes of any scene[^ref-12]
 - All of Dean Erickson's voice-over work was completed in a single day[^ref-12]
 - The production required three separate trips to Germany during the second half of 1994 to photograph backgrounds[^ref-15]
 - Robert Holmes wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart," with libretto by Jane Jensen[^ref-12][^ref-16]
@@ -166,7 +166,7 @@ When the game was first released in Germany it shipped in English, without dubbi
 - Computer Gaming World's 1996 top-150 entry for the game called Jane Jensen "the interactive Ann Rice" [*sic*][^ref-71]
 - The game was the fourth-best-selling US computer game of January 1996,[^ref-56] but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-12]
 - Sierra initially tried to use local actors to cut costs before deciding to cast from Los Angeles—Jensen recalled: "We said, 'Screw it,' and started casting people from L.A."[^ref-17]
-- The Bavaria locations were photographed on overcast days deliberately—creative director Nathan Gams wanted "a soft, gloomy kind of European spring feel"[^ref-15]
+- The Bavaria photographs benefited from luck: the weather was "fairly overcast" on all three trips, which suited creative director Nathan Gams, who wanted "a soft, gloomy kind of European spring feel"[^ref-15]
 
 ## Legacy
 
@@ -199,7 +199,6 @@ The game reached fourth place among US computer-game sales in January 1996[^ref-
 [^ref-16]: [Gabriel Knight Fan Wiki](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – - Plot summary and technical specifications
 [^ref-17]: [Game Developer Magazine](https://www.gamedeveloper.com/design/the-making-of-quot-the-beast-within-a-gabriel-knight-mystery-quot-) – - Development retrospective with creator quotes
 [^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198951-the-beast-within-a-gabriel-knight-mystery/faqs/1652) – - Detailed gameplay guide
-[^ref-23]: [GameSpot Review](http://www.gamespot.com/reviews/the-beast-within-a-gabriel-knight-mystery-review/1900-2538161/) – - Contemporary professional review
 [^ref-27]: [HonestGamers Review](http://www.honestgamers.com/12415/pc/the-beast-within-a-gabriel-knight-mystery/review.html) – - Retrospective enthusiastic review
 [^ref-31]: [IMDb Game Page](https://www.imdb.com/title/tt0138459/) – - Cast information and user ratings
 [^ref-34]: [MobyGames Main Entry](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/) – - Comprehensive database entry
