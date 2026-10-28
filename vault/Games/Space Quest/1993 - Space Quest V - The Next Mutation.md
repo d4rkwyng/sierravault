@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-16'
+last_updated: '2026-10-28'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5, 1993 for MS-DOS.'
@@ -18,10 +18,10 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
-Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18].
+Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-18].
 
 Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-1][^ref-18].
 
@@ -41,7 +41,7 @@ The game was released on floppy disk only; early plans for a CD-ROM "talkie" ver
 > **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
-After the events of Space Quest IV, Roger Wilco enrolls at Starcon Academy in the hope of one day captaining his own ship[^ref-1]. There he makes an enemy of Raems T. Quirk, a toupee-wearing commander of Starcon's flagship, the SCS Goliath, and an unsubtle send-up of Captain James T. Kirk[^ref-1].
+After the events of Space Quest IV, Roger Wilco enrolls at Starcon Academy in the hope of one day captaining his own ship[^ref-1]. There he makes an enemy of Raemes T. Quirk, a toupee-wearing commander of Starcon's flagship, the SCS Goliath, and an unsubtle send-up of Captain James T. Kirk[^ref-1].
 
 While Roger cheats his way through an aptitude test, Starcon receives Ambassador Beatrice Wankmeister, the woman his future son told him about in Space Quest IV[^ref-1]. She wants an escort to look into strange incidents of toxic dumping around the galaxy, and Quirk volunteers the Goliath[^ref-1]. Roger, meanwhile, gets his wish and is given a command of his own: the garbage scow SCS Eureka, which looks and works like a giant vacuum cleaner[^ref-1].
 
@@ -53,7 +53,7 @@ An SOS arrives from Quirk, whose ship is under attack[^ref-1]. The Eureka finds 
 
 ## Gameplay
 
-Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), featuring 320x200, 256-color VGA graphics[^ref-4][^ref-21]. The game continues the point-and-click interface introduced in Space Quest IV.
+Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), featuring 320x200, 256-color VGA graphics[^ref-4][^ref-21]. It uses a refined version of Space Quest IV's icon interface[^ref-17].
 
 ### Interface and Controls
 - Uses a point-and-click icon interface like Space Quest IV's, with an added command version of the Talk icon for giving orders; CGW found the new black-and-white icons hard to see against some backgrounds[^ref-17]
@@ -63,13 +63,13 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 
 ### Structure and Progression
 - Roger commands the SCS Eureka and manages a crew of officers throughout the game[^ref-2][^ref-5]
-- The game takes place across multiple locations including Starcon Academy, various planets, the "space bar," and the genetics company facility[^ref-5]
+- The game takes place across multiple locations including Starcon Academy, various planets, the "space bar," and the genetics company facility[^ref-1]
 - Players collect garbage at various stops while uncovering the conspiracy[^ref-18]
 
 ### Puzzles and Mechanics
 - Inventory-based puzzle solving typical of Sierra adventures[^ref-5]
 - The game features extensive parody of Star Trek, including crew dynamics and ship operations[^ref-2][^ref-18]
-- Roger can interact with his pet facehugger creature found in the garbage[^ref-5]
+- On garbage runs Roger picks up a facehugger creature and takes it on as a pet[^ref-1]
 - Features product placement for Sprint, appearing in communications transmissions, on a billboard in the Spacebar, and in the ending credits[^ref-1]
 
 ## Reception
@@ -87,7 +87,7 @@ The game holds a MobyScore of 8.1 from 90 player ratings[^ref-5]. On GOG, the Sp
 - **Adventure Gamers:** "Very good" – best story/characters, improved graphics, challenging maze[^ref-31]
 - **MobyGames:** 8.1 MobyScore (90 player ratings)[^ref-5]
 - **GOG:** 4.6/5 (38 reviews, collection)[^ref-6]
-- **Steam:** Very Positive, 85% of 335 reviews (collection)[^ref-9]
+- **Steam:** Very Positive, 85% of 337 reviews (collection)[^ref-9]
 - **HowLongToBeat:** 6 hours main story[^ref-8]
 
 ## Development
@@ -115,9 +115,6 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 - First Space Quest with only one of the "Two Guys from Andromeda" (Mark Crowe)[^ref-1][^ref-18]
 - Featured product placement for Sprint telephone company[^ref-1][^ref-18]
 - Released February 5, 1993 for MS-DOS on floppy disk only[^ref-1][^ref-18]
-- **Aptitude test skip:** Instead of copying another test taker's answers, the player can simply choose the last option for every question to get through the StarCon Aptitude Test[^ref-14][^ref-39]
-- **Planet name trivia:** "Lukaszuk II" may be a mispronounced jab at LucasArts, but it may also refer to two Dynamix employees, Piotr and Derek Lukaszuk[^ref-24]
-- **End-game failsafe:** If the player hasn't completed a necessary puzzle before escaping the self-destructing ship at the very end, the game puts them back for another try instead of killing them[^ref-14][^ref-39]
 - Supports EGA or MCGA/VGA graphics[^ref-35], at 320x200 in 256 colours[^ref-21]; rated "Excellent" (no known issues) by ScummVM, first listed in the 1.2.0 compatibility chart[^ref-36][^ref-37]
 - **Floppy installation note:** SCI games have significant variation in resource file naming; for floppy versions with split files, RESOURCE.p0* files must be concatenated to RESOURCE.000 and RESOURCE.a0* to RESOURCE.AUD[^ref-21]
 
@@ -141,6 +138,9 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 - **AUDBLAST.DRV:** Resolves "Unable to Initialize Audio Hardware" error
 
 ### Easter Eggs and Trivia
+- **Aptitude test skip:** Instead of copying another test taker's answers, the player can simply choose the last option for every question to get through the StarCon Aptitude Test[^ref-14][^ref-39]
+- **Planet name trivia:** "Lukaszuk II" may be a mispronounced jab at LucasArts, but it may also refer to two Dynamix employees, Piotr and Derek Lukaszuk[^ref-24]
+- **End-game failsafe:** If the player hasn't completed a necessary puzzle before escaping the self-destructing ship at the very end, the game puts them back for another try instead of killing them[^ref-14][^ref-39]
 - **Star Wars cameo:** Wander around StarCon Academy halls and you'll see Darth Vader and Obi-Wan Kenobi dueling in a far-away corridor[^ref-22]
 - **Elvis sighting:** Walk to the far east side of the rotunda at StarCon to see Elvis walking through a security checkpoint—Roger can't follow as a lowly cadet[^ref-22]
 - **2001: A Space Odyssey homage:** When Roger retrieves Cliffy via EVA pod, the sequence homages Kubrick's film; additionally, *Thus Spoke Zarathustra* plays each time the Eureka collects space trash, with a sun rising behind a planet to reveal a garbage bag floating in space[^ref-22]
@@ -151,7 +151,7 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 - **Punny planet names:** Gingivitis (in the Halitosis star system), Klorox II (Clorox bleach), Monostadt VII (Monistat 7), Commodore LXIV, Peeyu, and Kiz Urazgubi ("kiss your ass goodbye")[^ref-22]
 - **Retraux mode:** In the maintenance tunnel, pulling a fuse reduces colors from 256 to 16—only works in that area since Roger replaces fuses when leaving[^ref-22]
 - **EGA anti-frustration:** When running in 16-color EGA mode, the game lets you skip the crest floor-cleaning sequence with full points, since limited colors make determining cleanliness difficult[^ref-22]
-- **Aptitude test foreshadowing:** Three puzzle solutions are hidden in the test's multiple choice answers, including how to defeat W-D40 (boulder temporarily, banana in tailpipe permanently) and checking air toxicity before beaming down[^ref-22]
+- **Aptitude test foreshadowing:** Three puzzle solutions are hidden in the test's multiple choice answers, including how to defeat WD40 (boulder temporarily, banana in tailpipe permanently) and checking air toxicity before beaming down[^ref-22]
 - **Series continuity error:** Roger is pursued for not paying for the Labion terror beast mating whistle from Space Quest II, despite it being marked FREE on the order form[^ref-22]
 - **Captain Quirk's full name:** Raemes Tipper Quirk (R.T. Quirk = J.T. Kirk parody)[^ref-22]
 - **Astro Chicken cameo:** Open the far left locker in the pod bay to see Astro Chicken pop out[^ref-23]
@@ -160,8 +160,8 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 - **SQ3 Skull Fighter:** One of the Skull Fighters from Space Quest 3 appears in the Academy landing bay[^ref-29]
 - **Enterprise engine:** A ship in the Academy landing bay has an engine styled after the USS Enterprise[^ref-29]
 - **Flash Gordon & Einstein:** Both appear on the gigantic grade master machine—and both fail[^ref-29]
-- **Debug hotspot viewer (v0.028):** In the same beta version, pressing Alt+C blocks out images and shows hotspot colors for click events (does not seem to work in the Space Quest Collection version)[^ref-25]
-- **Death message viewer (v0.028):** An invisible button below "Space" on the death screen title bar cycles through death messages (causes frequent crashes)[^ref-25]
+- **Death message viewer (v0.028):** In version 0.028 (a debug-enabled reviewer's copy dated October 22, 1992[^ref-40]), an invisible button below "Space" on the death screen title bar cycles through death messages (causes frequent crashes)[^ref-25]
+- **Debug hotspot viewer (v0.028):** In the same version, pressing Alt+C blocks out images and shows hotspot colors for click events (does not seem to work in the Space Quest Collection version)[^ref-25]
 
 ### Pop Culture References
 - **Star Trek "Spock's Brain":** The Teacher device, KARA, and Sigma Draconis reference this episode[^ref-24]
@@ -171,27 +171,27 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 - **Hitchhiker's Guide:** Eroticon 6 reference[^ref-24]
 - **The Three Stooges:** Moons named Larry, Moe, and Curly[^ref-24]
 - **Beverly Hills 90210:** Planet coordinates reference[^ref-24]
-- **Nova 9 (Dynamix):** Gir Draxon character from this Dynamix game appears[^ref-24]
+- **Nova 9 (Dynamix):** Gir Draxon, villain of *Nova 9*, is the byline of the Galactic Inquirer box-insert article "Gir Draxon's Predictions for 3010", which holds the Eureka's navigation codes[^ref-24]
 - **Mixed Up Mother Goose:** Sierra's game referenced in an elevator death message[^ref-24]
 - **Goliath ship:** Parodies the Super Star Destroyer Executor from Star Wars[^ref-24]
 
 ### Bugs and Compatibility
 - **EVA pod speed bug:** On fast systems, the EVA pod sequence during Cliffy's rescue depletes fuel too rapidly; fixed by NewRisingSun patch or DOSBox[^ref-26]
-- **Cloaking device bug:** Cannot restore or quit when Roger runs out of time stealing from WD-40's ship; requires SQ5PAT patch[^ref-26]
+- **Cloaking device bug:** Cannot restore or quit when Roger runs out of time stealing from WD40's ship; requires SQ5PAT patch[^ref-26]
 - **Crest polish skip bug:** Unable to skip polishing sequence on 286 EGA systems; requires SQ5PAT patch[^ref-26]
 - **Icon loss bug:** Icon disappears at river log on Kiz Urazgubi; requires SQ5PAT patch[^ref-26]
 - **Audio initialization:** "Unable to Initialize Audio Hardware" error on modern systems; use DOSBox or AUDBLAST.DRV patch[^ref-26]
 
 ### International Versions
 - **Russian localization:** Flash Gordon references changed to Boris Yeltsin, Soviet movie music replaced some themes, "buckazoid" translated to "babking," and transporter controls differed[^ref-28]
-- **32-color Amiga version:** A 32-colour Amiga version reportedly exists; it lets you skip the crest scrubbing sequence[^ref-28]
+- **32-color Amiga version:** A 32-colour Amiga version reportedly exists (not listed by MobyGames); it lets you skip the crest scrubbing sequence[^ref-28]
 
 ### Plot Inconsistencies
 - **Magazine contradiction:** The Space Piston magazine (SQ4) features an interview with Roger about his adventures, but the Galactic Inquirer (SQ5) states nobody has heard from Roger since he began working on the Arcada[^ref-30]
 - **StarCon Crest design:** The main rotunda spans two screens containing the crest, but joining them reveals the crest isn't actually triangular[^ref-30]
 - **Cliffy's spacesuit:** When Cliffy spacewalks to repair the Eureka, he wears a spacesuit—but the game established that one suit had a ripped seat and the other was too small for Roger, making it certainly too small for Cliffy[^ref-30]
-- **Shield inconsistencies:** Raising or lowering the Eureka's shields has no effect on the attacks of WD-40 and the Goliath, weapons use, or beaming down to some planets; yet if Roger tries to enter Genetix or Molly's Chug & Glug SpaceBar, or beam down to the Klorox II colony, too early, their transporter shields block him[^ref-30]
-- **Garbage collection paradox:** Players can't visit the SpaceBar until collecting garbage from Gangularis, Peeyu, and Kiz Urazgubi, but WD-40 attacks before collecting trash at the latter—yet the game considers the mission complete[^ref-30]
+- **Shield inconsistencies:** Raising or lowering the Eureka's shields has no effect on the attacks of WD40 and the Goliath, weapons use, or beaming down to some planets; yet if Roger tries to enter Genetix or Molly's Chug & Glug SpaceBar, or beam down to the Klorox II colony, too early, their transporter shields block him[^ref-30]
+- **Garbage collection paradox:** Players can't visit the SpaceBar until collecting garbage from Gangularis, Peeyu, and Kiz Urazgubi, but WD40 attacks before collecting trash at the latter—yet the game considers the mission complete[^ref-30]
 
 ## Legacy
 
@@ -234,7 +234,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – development stories, behind-the-scenes[^ref-28]
 - [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – character appearances, references[^ref-29]
 - [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – continuity notes[^ref-30]
-- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP)
+- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP, 11 MB, 2,256 screenshots)
 - [Adventure Gamers – Space Quest V review (archived)](https://web.archive.org/web/20191214083813/https://adventuregamers.com/articles/view/18398) – Dante Kleinberg review, 2010[^ref-31]
 
 ## See Also
