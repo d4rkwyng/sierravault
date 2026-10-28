@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: N/A (Strategy Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published by Sierra Entertainment in 2002.'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -145,7 +145,7 @@ One 2003 GameFAQs user review noted that "the English campaigns are gone" from t
 | 1.0 | October 4, 2002 | Windows | European release[^ref-1] |
 | 1.0 | October 21, 2002 | Windows | Australian release[^ref-27] |
 | 1.0 | February 28, 2003 | Windows | Japanese release (Capcom publisher)[^ref-28] |
-| Gold Edition | May 6, 2003 | Windows | Bundled with original Empire Earth[^ref-1] |
+| Gold Edition | 2003 (GameFAQs gives March 6; Steam and Wikipedia give May 6) | Windows | Bundled with original Empire Earth[^ref-1][^ref-38][^ref-39] |
 
 **Community Patch Versions:**[^ref-24]
 | Game Version | Type | Notes |
@@ -212,7 +212,7 @@ The original Empire Earth received significant recognition which helped promote 
 
 ### Collections
 
-- **Empire Earth Gold Edition** (May 6, 2003) - Included both the original Empire Earth and The Art of Conquest expansion[^ref-1]
+- **Empire Earth Gold Edition** – 2003 (GameFAQs gives March 6; Steam and Wikipedia give May 6) - Included both the original Empire Earth and The Art of Conquest expansion[^ref-1][^ref-38][^ref-39]
 - **Empire Earth: Platinum Edition** (Europe) - Alternative regional naming[^ref-26]
 - **Empire Earth: Complete** (Japan) - Japanese market release[^ref-26]
 
@@ -303,3 +303,4 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-36]: [Wildfire Games Forum – Review Discussion](https://wildfiregames.com/forum/topic/349-game-review-empire-earth-art-of-conquest/) – community reception, criticism
 [^ref-37]: [MobyGames – Empire Earth: The Art of Conquest credits](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/credits/) – Mad Doc Software credits: producer, lead designer, lead programmer, executive direction
 [^ref-38]: [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Gold Edition includes The Art of Conquest; publisher Rebellion
+[^ref-39]: [GameFAQs – Empire Earth: The Art of Conquest Data](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/data) – release data: "Empire Earth: Gold Edition | US | Sierra Entertainment | … | 03/06/03"

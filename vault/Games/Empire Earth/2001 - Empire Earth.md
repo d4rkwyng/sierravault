@@ -10,18 +10,19 @@ series: Empire Earth
 engine: Titan
 protagonist: Player-controlled Civilization
 sierra_lineage: Sierra Published
-last_updated: '2026-10-17'
-description: Empire Earth is an ambitious real-time strategy game that spans an unprecedented
-  500,000 years of human history, from the prehistoric age through a...
+last_updated: '2026-10-28'
+description: Empire Earth is a 2001 real-time strategy game by Stainless Steel Studios that
+  spans 500,000 years of human history across fourteen epochs, from the Prehistoric
+  Age to a speculative Nano Age.
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Empire Earth is an ambitious real-time strategy game that spans an unprecedented 500,000 years of human history, from the prehistoric age through a speculative Nano Age in the 22nd century[^ref-3]. Released on November 13, 2001 in the United States[^ref-8], the game was developed by Stainless Steel Studios under the direction of Rick Goodman, who had previously served as lead designer on the groundbreaking Age of Empires[^ref-2]. The game features fourteen historical epochs, more than 200 different kinds of units, and 21 predefined civilizations[^ref-3]; GameSpot judged it to have "by far the broadest scope and the greatest breadth of content of any real-time strategy game to date"[^ref-4].
+Empire Earth is an ambitious real-time strategy game that spans 500,000 years of human history, from the prehistoric age through a speculative Nano Age in the 22nd century[^ref-3]. Released on November 13, 2001 in the United States[^ref-8], the game was developed by Stainless Steel Studios under the direction of Rick Goodman, who had previously served as lead designer on Age of Empires[^ref-2]. The game features fourteen historical epochs, more than 200 different kinds of units, and 21 predefined civilizations[^ref-3]; GameSpot judged it to have "by far the broadest scope and the greatest breadth of content of any real-time strategy game to date"[^ref-4].
 
 The game represented Stainless Steel Studios' debut title and their ambitious goal to "become the industry's premier developer in real-time strategy games"[^ref-35]. Building upon the foundation laid by Age of Empires, Empire Earth expanded the scope dramatically while retaining the accessible interface that made its predecessor successful[^ref-5]. IGN noted that anyone familiar with Age of Empires would "hit the ground running in Empire Earth" due to the similar economic model and interface design[^ref-6].
 
@@ -58,7 +59,7 @@ The game features a fixed isometric camera with zoom functionality, though camer
 
 ### Structure and Progression
 
-The core gameplay loop involves collecting resources, constructing buildings, training units, and advancing through technological epochs[^ref-15]. Players manage five resources: Food, Wood, Stone, Gold, and Iron[^ref-3].
+The core gameplay loop requires players to collect resources to construct buildings, produce citizens and conquer opposing civilizations[^ref-2], while advancing through the game's epochs[^ref-3]. Players manage five resources: Food, Wood, Stone, Gold, and Iron[^ref-3].
 
 **The Fourteen Epochs:**
 - **Prehistoric Age (500,000–50,000 BC):** The discovery of fire and primitive tools[^ref-3]
@@ -86,7 +87,7 @@ The **Morale System** makes units tougher and harder to kill. Town Centres and C
 
 **Prophets** represent a unique unit type capable of casting devastating "Calamities" including Malaria, Fire Storm, Earthquake, Volcano, Plague, and Hurricane[^ref-3][^ref-19]. These supernatural disasters can devastate enemy forces and structures, though areas protected by Temples are immune to such attacks.
 
-The **Civilization Builder** lets players create a civilization from 100 different attributes[^ref-3]. In custom-civ games players spend 100 points on these bonuses, and each further purchase in the same area costs more[^ref-50].
+Each of the 21 predefined civilizations has its own bonuses and a specific set of epochs in which it is more powerful[^ref-15]. The **Civilization Builder** lets players create a civilization from 100 different attributes[^ref-3]. In custom-civ games players spend 100 points on these bonuses, and each further purchase in the same area costs more[^ref-50].
 
 ## Reception
 
@@ -104,16 +105,16 @@ Empire Earth received generally positive reviews upon release, with critics prai
 
 ### Modern Assessment
 
-The game holds a **Metacritic score of 81/100** based on 23 critic reviews, with a user score of **8.3/10** from 214 ratings[^ref-20].
+The game holds a **Metacritic score of 81/100** based on 23 critic reviews, with a user score of **8.3/10** from 215 ratings[^ref-20].
 
 **Aggregate Scores:**
 - **Metacritic:** 81/100 (23 reviews)[^ref-20]
 - **GameRankings:** 82%[^ref-2]
 - **MobyGames Critics:** 83%[^ref-1]
-- **IMDb:** 7.9/10 (376 ratings)[^ref-23]
-- **GOG.com Users:** 4.4/5 (1,426 reviews)[^ref-24]
+- **IMDb:** 7.9/10 (389 ratings)[^ref-23]
+- **GOG.com Users:** 4.4/5 (1,438 reviews)[^ref-24]
 
-Hardcore Gaming 101's retrospective, drawing on a 2010 IGN interview, says "the goal from the start was to combine the best of RTS gameplay (...) with that of empire-building", though it finds the visuals "have not aged well at all"[^ref-9]. One GOG.com user review states "I swear this thing has me more addicted than WoW"[^ref-24].
+Hardcore Gaming 101's retrospective, drawing on IGN's December 2000 interview with Goodman and Stefan Arnold[^ref-53] (which it misdates to 2010), says "the goal from the start was to combine the best of RTS gameplay (...) with that of empire-building", though it finds the visuals "have not aged well at all"[^ref-9]. One GOG.com user review states "I swear this thing has me more addicted than WoW"[^ref-24].
 
 ## Development
 
@@ -121,7 +122,7 @@ Hardcore Gaming 101's retrospective, drawing on a 2010 IGN interview, says "the 
 
 Empire Earth's development began in 1998 when Rick Goodman founded Stainless Steel Studios, after co-founding Ensemble Studios with his brother and creating Age of Empires[^ref-5]. The studio was founded in January 1998 with the explicit goal of creating "the next generation of real-time strategy games"[^ref-25].
 
-The concept for Empire Earth emerged from Goodman's desire to expand upon the historical RTS formula he had helped pioneer. As Goodman explained in early interviews, "This is a real-time strategy game for the next millennium. It will set new standards in the genre, and offer gamers an experience that goes far beyond anything that strategy games released, thus far, have offered"[^ref-5].
+The concept for Empire Earth emerged from Goodman's desire to expand upon the historical RTS formula he had helped pioneer. The May 1998 announcement called it "a real-time strategy game for the next millennium" that "will set new standards in the genre, and offer gamers an experience that goes far beyond anything that strategy games released, thus far, have offered"[^ref-5].
 
 The game was formally announced via press release on May 28, 1998, revealing plans for a title covering 500,000 years of history from 500,000 BC to 2500 AD with 12 unique epochs (later expanded to 14)[^ref-5].
 
@@ -182,11 +183,12 @@ A **Global Ranking System** was originally planned and even described on the box
 | 1.0 | November 23, 2001 | Windows | EU release[^ref-29] |
 | 1.0 | April 12, 2002 | Windows | Japan release[^ref-29] |
 | 2.0 | December 2002 | Windows | Update from v1.0.4.0; brings difficulty options in line with The Art of Conquest[^ref-46] |
-| Gold Edition | March 6, 2003 | Windows | Includes Art of Conquest[^ref-29] |
+| Gold Edition | 2003 (GameFAQs gives March 6; Steam and Wikipedia give May 6) | Windows | Includes Art of Conquest[^ref-29][^ref-48][^ref-54] |
 | GOG Release | July 16, 2009 | Windows | Digital distribution[^ref-30] |
+| GOG v1 (game v2.0.0) | November 29, 2018 | Windows | GOG internal update: improved compatibility with newer systems[^ref-30][^ref-31] |
+| GOG v2 | November 27, 2024 (release notes dated November 28) | Windows | Updated GOG DirectX wrapper, fixed launch crashes, verified Windows 10 and 11 compatibility[^ref-30][^ref-31] |
+| GOG v3 | December 11, 2024 | Windows | Fixed multiplayer lobby[^ref-30][^ref-31] |
 | Steam Release | May 26, 2026 | Windows | Gold Edition, published by Rebellion[^ref-29][^ref-48] |
-| GOG v2.0 | November 29, 2018 | Windows | Improved compatibility[^ref-31] |
-| GOG v3 | December 11, 2024 | Windows | Fixed multiplayer lobby[^ref-31] |
 
 ### Technical Issues
 
@@ -226,14 +228,14 @@ Voice credits are from MobyGames[^ref-27].
 
 ### Sales and Commercial Impact
 
-Empire Earth achieved remarkable commercial success for its era. The game sold over one million units worldwide by 2002[^ref-7]. In the United States alone, the game sold 390,000 copies generating $16.7 million in revenue by August 2006, ranking as the 41st best-selling computer game in the US from January 2000 to August 2006[^ref-2].
+Empire Earth was a commercial success, selling over one million units worldwide by 2002[^ref-7]. In the United States alone, the game sold 390,000 copies generating $16.7 million in revenue by August 2006, ranking as the 41st best-selling computer game in the US from January 2000 to August 2006[^ref-2].
 
 The game earned a Silver award from ELSPA for sales exceeding 100,000 copies in the United Kingdom, a Gold prize in Spain for 40,000 sales in its first year, and sold 110,000 units in France by March 2005[^ref-2].
 
 ### Collections
 
 Empire Earth was released in several compilation editions:
-- **Gold Edition** (March 2003) – Original game plus The Art of Conquest expansion[^ref-29]
+- **Gold Edition** – 2003 (GameFAQs gives March 6; Steam and Wikipedia give May 6) – Original game plus The Art of Conquest expansion[^ref-29][^ref-48][^ref-54]
 - **Platinum Edition** (March 2003) – European equivalent of Gold Edition[^ref-29]
 - **Ultimate Edition** (December 2009) – Complete collection[^ref-34]
 
@@ -243,7 +245,7 @@ Empire Earth was released in several compilation editions:
 
 **Empire Earth II** (April 26, 2005) was developed by Mad Doc Software, the studio that had also made The Art of Conquest[^ref-52][^ref-37][^ref-7]. It received a 79% Metacritic score and introduced weather effects, seasonal cycles, and a Picture-in-Picture feature[^ref-38].
 
-**Empire Earth III** (November 6, 2007) was critically panned with a Metacritic score of just 50%[^ref-39]. The game was criticized for having "very little, if anything, from the original" Empire Earth[^ref-40]. German publication GameStar included it in their "10 Most Terrible Sequels" list[^ref-40].
+**Empire Earth III** (November 6, 2007) received a Metacritic score of 50 ("Mixed or Average") from 40 critic reviews, none of them positive[^ref-39]. Lead designer Matthew Nordhaus admitted in a 2007 GameSpot feature that the game had "very little, if anything, from the original" Empire Earth[^ref-40]. German publication GameStar included it in their "10 Most Terrible Sequels" list[^ref-40].
 
 ### Fan Projects
 
@@ -291,7 +293,7 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-6]: [IGN – Empire Earth Review](https://www.ign.com/articles/2001/11/30/empire-earth) – Steve Butts review, score, interface analysis
 [^ref-7]: [Sierra Entertainment press release (Wayback Machine) – Sierra Announces Development of Empire Earth: The Art of Conquest](https://web.archive.org/web/20030212171606/http://www.sierra.com/pr/display_pr.php?prid=741) – May 16, 2002; "over one million copies sold", GameSpy.com PC Game of the Year, expansion campaigns
 [^ref-8]: [Sierra Entertainment press release (Wayback Machine) – Empire Earth Ships to Retail Stores](https://web.archive.org/web/20011201222743/http://www.sierra.com/pr/display_pr.php?prid=582) – November 13, 2001 US shipping, worldwide shipments from November 16
-[^ref-9]: [Hardcore Gaming 101 – Empire Earth](http://www.hardcoregaming101.net/empire-earth/) – engine details, developer history, technical analysis
+[^ref-9]: [Hardcore Gaming 101 – Empire Earth](http://www.hardcoregaming101.net/empire-earth/) ([Wayback Machine copy, December 2024](http://web.archive.org/web/20241213234958/http://www.hardcoregaming101.net/empire-earth/)) – engine details, developer history, technical analysis
 [^ref-10]: [Empire Earth Fandom Wiki – Empire Earth](https://empireearth.fandom.com/wiki/Empire_Earth) – campaigns, release dates, gameplay features
 [^ref-11]: [Neoseeker – Empire Earth FAQ/Walkthrough v3.1](https://www.neoseeker.com/empireearth/faqs/207537-empire-earth-b.html) – Greek campaign: Argos, Trojan War, Athens, Alexander the Great
 [^ref-12]: [Speed Demos Archive – Empire Earth](https://speeddemosarchive.com/EmpireEarth.html) – Russian campaign description
@@ -302,7 +304,7 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-19]: [Empire Earth Fandom Wiki – Prophet](https://empireearth.fandom.com/wiki/Prophet_(Empire_Earth)) – Prophet unit, calamity abilities, trivia
 [^ref-20]: [Metacritic – Empire Earth](https://www.metacritic.com/game/empire-earth/) – aggregate scores, critic reviews
 [^ref-22]: [Game Informer #105 (January 2002), p. 95 – Internet Archive scan](https://archive.org/details/game-informer-issue-105-january-2002/page/n96/mode/1up) – Kristian review 6.25, Kato second opinion 7
-[^ref-23]: [IMDb – Empire Earth](https://www.imdb.com/find/?q=Empire+Earth&s=tt) – user ratings, series ratings
+[^ref-23]: [IMDb – Empire Earth (Video Game 2001)](https://www.imdb.com/title/tt0275324/) – user rating 7.9 from 389 ratings (October 2026)
 [^ref-24]: [GOG.com – Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) – user reviews, modern system requirements
 [^ref-25]: Empire Earth Community – Overview (empireearth.eu/overview/) – archived 1998 Goodman interview: studio founding, "strike team" (link removed: offers full-game download of a still-sold game)
 [^ref-26]: [IGN – Empire Earth Preview](https://www.ign.com/articles/2001/08/23/empire-earth-3) – Jon Alenson quotes, beta information
@@ -317,18 +319,20 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-35]: [GameSpot – Empire Earth Updated Preview](https://www.gamespot.com/articles/empire-earth-updated-preview/1100-2809466/) – Goodman's goal to "become the industry's premier developer in real-time strategy games"
 [^ref-36]: [GameSpot – Empire Earth: The Art of Conquest Review (Wayback Machine)](https://web.archive.org/web/20070930065525/http://www.gamespot.com/pc/strategy/empireearththeartofc/review.html?sid=2881249) – Tom Chick review, 5.2 score
 [^ref-37]: [Empire Earth Fandom Wiki – Series](https://empireearth.fandom.com/wiki/Empire_Earth_(Series)) – sequel development, studio history
-[^ref-38]: [Hardcore Gaming 101 – Empire Earth II](http://www.hardcoregaming101.net/empire-earth-2/) – EE2 details, Metacritic score
+[^ref-38]: [Hardcore Gaming 101 – Empire Earth II](http://www.hardcoregaming101.net/empire-earth-2/) ([Wayback Machine copy, January 2025](http://web.archive.org/web/20250115025533/http://www.hardcoregaming101.net/empire-earth-2/)) – EE2 details, Metacritic score
 [^ref-39]: [Metacritic – Empire Earth III Reviews](https://www.metacritic.com/game/empire-earth-iii/critic-reviews/?platform=pc) – critic scores, review quotes
-[^ref-40]: [Hardcore Gaming 101 – Empire Earth III](http://www.hardcoregaming101.net/empire-earth-3/) – EE3 criticism, lead designer quote
+[^ref-40]: [Hardcore Gaming 101 – Empire Earth III](http://www.hardcoregaming101.net/empire-earth-3/) ([Wayback Machine copy, January 2025](http://web.archive.org/web/20250121041842/http://www.hardcoregaming101.net/empire-earth-3/)) – EE3 criticism, lead designer quote
 [^ref-41]: [NeoEE.net](https://neoee.net/) – multiplayer revival project
 [^ref-42]: [ModDB – Empire Earth Refinement Patch](https://www.moddb.com/games/empire-earth/downloads/empire-earth-refinement-patch) – community mod details
 [^ref-43]: [EE2.eu – Unofficial Patch](https://ee2.eu/patch/) – patch documentation, features
 [^ref-44]: [Internet Archive – Empire Earth Manual Metadata](https://archive.org/details/Empire_Earth_-_Manual_-_PC) – manual page count
 [^ref-45]: [Amazon – Empire Earth Gold](https://www.amazon.com/Empire-Earth-Gold-PC/dp/B000083JX6) – Gold Edition contents
-[^ref-46]: [Gamepressure – Empire Earth Game Update v.1.0.4.0 - v.2.0](https://www.gamepressure.com/download/empire-earth-v1040-v20-patch/z7869) – v2.0 patch/add-on, December 20, 2002
+[^ref-46]: Gamepressure – Empire Earth Game Update v.1.0.4.0 - v.2.0 (gamepressure.com) – v2.0 patch/add-on, December 20, 2002 (link removed: the site's sidebar carries adult-game links)
 [^ref-47]: [GameSpy – 2001 PC Game of the Year (Wayback Machine)](https://web.archive.org/web/20040906032533/http://archive.gamespy.com/goty2001/pc/pc_goty_overall.shtml) – "Empire Earth, GameSpy's choice for PC Game of the Year"
 [^ref-48]: [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Steam store page, publisher Rebellion
 [^ref-49]: [Metacritic – Empire Earth: The Art of Conquest](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/) – Metascore 63 based on 13 critic reviews
 [^ref-50]: [Retro XP – Retro spotlight: Empire Earth](https://retroxp.substack.com/p/retro-spotlight-empire-earth) – Marc Normandin retrospective, custom civs and "the 100 points"
 [^ref-51]: [PCGamingWiki – Empire Earth](https://www.pcgamingwiki.com/wiki/Empire_Earth) – Direct3D 7 API, Miles Sound System, Bink Video, system requirements
 [^ref-52]: [MobyGames – Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra Entertainment, US release April 26, 2005
+[^ref-53]: [IGN – Empire Earth Interview (Wayback Machine)](https://web.archive.org/web/20020413212423/http://pc.ign.com/articles/088/088931p1.html) – Rick Goodman and Stefan Arnold interview, dated December 12, 2000
+[^ref-54]: [Wikipedia – Empire Earth: The Art of Conquest](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) – "Gold Edition… was released on May 6, 2003"
