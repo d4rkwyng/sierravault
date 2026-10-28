@@ -10,14 +10,15 @@ series: King's Quest (Fan Remake)
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'King''s Quest IV Retold is a fan-made point-and-click remake of Sierra
-  On-Line''s classic 1988 adventure game *King''s Quest IV: The Perils of Rosella*....'
+  On-Line''s 1988 adventure game King''s Quest IV: The Perils of Rosella, made by DrSlash
+  in Adventure Game Studio and released in 2021.'
 tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -58,7 +59,7 @@ Despite the interface modernization, the remake keeps the original's 320x200 EGA
 
 ### Structure and Progression
 
-The game maintains the original's structure, taking place across the land of Tamir during a 24-hour period[^ref-6]. Retold keeps the original time limit by default, but choosing its option to remove dead ends also removes the four-hour time limit[^ref-17]. Some activities must be completed during daylight hours, while other puzzles can only be solved at night[^ref-6].
+The game maintains the original's structure, taking place across the land of Tamir during a 24-hour period[^ref-6]. Choosing Retold's option to remove dead ends also removes the four-hour time limit[^ref-17]. Some activities must be completed during daylight hours, while other puzzles can only be solved at night[^ref-6].
 
 Locations named in DrSlash's changelog include Genesta's island, Lolotte's castle, the Manor, the organ room, the crypt, the ogres' house, the dwarf mine, the troll caves, the swamp, Cupid's pool and the fisherman's shack[^ref-17].
 
@@ -80,7 +81,7 @@ The subsequent VGA Talkie version received more mixed feedback. User irvstart wr
 
 ### Modern Assessment
 
-As of October 2026, the Adventure Game Studio database lists the original Retold version at 9,663 all-time downloads[^ref-2] and the VGA Talkie version at 2,639 all-time downloads[^ref-1].
+As of October 2026, the Adventure Game Studio database lists more than 9,600 all-time downloads of the original Retold version[^ref-2] and more than 2,700 of the VGA Talkie version[^ref-1].
 
 The project was recognized in community awards, receiving an AGS Awards 2021 nomination for Best Game Created with AGS and being selected as Pick of the Month in August 2022[^ref-2].
 
@@ -96,7 +97,7 @@ The original 1988 Sierra game that this remake is based upon was generally well 
 
 DrSlash made the remake alone ("Just me, myself, and I") as a spare-time project[^ref-17]. It began in September 2018 as a one-room demo marking the 10th anniversary of his introduction to AGS; about 90% of the game was then finished over two months, and the rest came slowly over the following two years[^ref-17]. He chose King's Quest IV because it had major flaws he wanted to fix and was historically significant[^ref-17].
 
-The decision to preserve EGA graphics was "largely motivated by his dissatisfaction with the way many previous attempts at remaking 320x200 SCI games translated EGA graphics into VGA"[^ref-8]. In many cases, he felt, the resulting art looked blurry and much of the original's charm was lost[^ref-8].
+DrSlash wrote that the decision to keep the EGA graphics "was also largely motivated by my dissatisfaction with the way many previous attempts at remaking 320x200 SCI games translated EGA graphics into VGA"[^ref-17]. In many (though not all) cases, he wrote, the resulting art looked blurry and much of the original's charm was lost[^ref-17].
 
 ### Production
 
@@ -147,7 +148,7 @@ The VGA Talkie's own release notes state that, because the code was not built fo
 | 1.0 | May 5, 2021 | Windows/Linux/MacOS | Initial point-and-click remake release[^ref-2][^ref-17] |
 | 1.0.1 | May 9, 2021 | — | Quicksave, new hotkeys, bug fixes[^ref-17] |
 | 1.0.2 | May 10, 2021 | — | Further hotkeys and bug fixes[^ref-17] |
-| 1.0.3 | June 6, 2021 | — | New nighttime graphics and music tracks, bug fixes[^ref-17] |
+| 1.0.3 | June 6, 2021 | — | New nighttime graphics and a music track, bug fixes[^ref-17] |
 | 1.0.4 | July 24, 2022 | — | Unicorn roams the meadows once released, bug fixes[^ref-17] |
 | 1.0.5 | May 4, 2024 | — | Localization support, nighttime swamp backdrops[^ref-17] |
 | VGA Talkie Legacy | November 29, 2025 | Windows | With installer, launcher, without textboxes[^ref-1] |
@@ -165,9 +166,7 @@ CrossOver testing indicated that the Retold version "Installs, Will Not Run" on 
 
 ### Easter Eggs and Trivia
 
-- **AGI-only content:** A GOG forum post notes that the original's AGI version contained a developer room Easter egg and item descriptions that are absent from the SCI version[^ref-11].
-
-The 1988 original was one of the first games to support sound cards, with composer William Goldstein hired to write 40 minutes of music for it[^ref-6].
+The 1988 original was one of the first games to support sound cards, with composer William Goldstein hired to write 40 minutes of music for it[^ref-6][^ref-20].
 
 ## Legacy
 
@@ -175,7 +174,7 @@ The 1988 original was one of the first games to support sound cards, with compos
 
 The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks and 800,000 copies within a year[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
 
-The Retold fan remake, while not commercially released, demonstrated continued interest in the King's Quest franchise, with more than 9,600 downloads of the original Retold version on the AGS site alone[^ref-2].
+The Retold fan remake, while not commercially released, demonstrated continued interest in the King's Quest franchise, with more than 9,600 downloads of the original Retold version on the AGS site alone as of October 2026[^ref-2].
 
 ### Collections
 
@@ -199,19 +198,18 @@ The community has embraced speedrunning the Retold version, with leaderboards tr
 
 ### Critical Perspective
 
-King's Quest IV Retold demonstrates the enduring appeal of Sierra's classic adventure games. Rosella has been considered one of the first "major female protagonists" in a video game[^ref-6]. Designer Roberta Williams told *Computer Gaming World*: "I like the heroine, Rosella. I guess because she's a part of me that's coming out... Sometimes she's delicate, but she's strong, knows what she wants, she's not afraid to do what she has to do"[^ref-19].
+King's Quest IV Retold demonstrates the enduring appeal of Sierra's classic adventure games. Rosella has been considered one of the first "major female protagonists" in a video game[^ref-6][^ref-20]. Designer Roberta Williams told *Computer Gaming World*: "I like the heroine, Rosella. I guess because she's a part of me that's coming out... Sometimes she's delicate, but she's strong, knows what she wants, she's not afraid to do what she has to do"[^ref-19].
 
 The Retold version keeps the original narrative and puzzle design while adding point-and-click controls and an optional removal of dead ends[^ref-17]. In a 2014 IGN retrospective, Kosta Andreadis wrote that "The Perils of Rosella stands the test of time despite its shortcomings"[^ref-20].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Free download (fan remake)[^ref-2][^ref-14]
+- Free download (fan remake)[^ref-2]
 
 **Download / Preservation**
 - [Adventure Game Studio – Original Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)
 - [Adventure Game Studio – VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/)
-- [GamePressure Download](https://www.gamepressure.com/download/kings-quest-iv-the-perils-of-rosella-kings-quest-iv-the-perils-o/z114a29)
 
 **Original Game (1988)**
 - [GOG – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6)
@@ -234,23 +232,23 @@ The Retold version keeps the original narrative and puzzle design while adding p
 - [[2011 - Space Quest II VGA Remake]]
 - [[2012 - Space Quest - Incinerations]]
 - [[2025 - SCP Sierra Conversion Project]]
+- [[1988 - King's Quest IV - The Perils of Rosella]]
 
 ## References
 
 [^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, release date, version details, technical specs, user reviews, download statistics, ScummVM notes
 [^ref-2]: [Adventure Game Studio – King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – release date, story blurb, awards, download statistics, user reviews, technical specifications
-[^ref-3]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold?srsltid=AfmBOorEEm4xS6Bu3E-MnnzED5JpX6vfnLOTcyhKU5uuoS39jagHo7Ns) – game description, Mac compatibility rating
+[^ref-3]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, Mac compatibility rating
 [^ref-4]: [Reddit r/Sierra – VGA Talkie Discussion](https://www.reddit.com/r/Sierra/comments/1pckube/kings_quest_iv_retold_vga_talkie_full_game/) – Magic Quest Entertainment credits, development notes, tribute information
 [^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game plot, time limit, sales data, review scores, awards, music
 [^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – interface changes, community reception
 [^ref-8]: [King's Quest Omnipedia – King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – development motivation, EGA graphics decision, DrSlash's design philosophy
 [^ref-10]: [GamePressure – King's Quest IV Retold Download](https://www.gamepressure.com/download/kings-quest-iv-the-perils-of-rosella-kings-quest-iv-the-perils-o/z114a29) – file size
-[^ref-11]: [GOG Forums – KQ4 Copy Protection Discussion](https://www.gog.com/forum/kings_quest_series/copyright_protection_in_kq4) – copy protection details, AGI/SCI version differences, Retold suggested as alternative
+[^ref-11]: [GOG Forums – KQ4 Copy Protection Discussion](https://www.gog.com/forum/kings_quest_series/copyright_protection_in_kq4) – copy protection details, Retold suggested as alternative
 [^ref-12]: [PCGamingWiki – King's Quest IV](https://www.pcgamingwiki.com/wiki/King's_Quest_IV:_The_Perils_of_Rosella) – technical specifications, version history, system requirements
 [^ref-13]: [Speedrun.com – King's Quest IV Retold](https://www.speedrun.com/kings_quest_iv_retold) – speedrun records, player statistics
-[^ref-14]: [Reddit r/Sierra – Full Game Post](https://www.reddit.com/r/Sierra/comments/1k22b30/kings_quest_iv_the_perils_of_rosella_retold_full/) – community discussion, game description
 [^ref-17]: [Adventure Game Studio Forums – King's Quest IV: The Perils of Rosella Retold (DrSlash release thread)](https://www.adventuregamestudio.co.uk/forums/index.php?topic=59091.0) – key features, F.A.Q., changelog 1.0.1–1.0.5, time-limit option, audio sources, EGA rationale
 [^ref-18]: [ScummVM Tracker – #15235: Unknown game variant for ags - Kings Quest IV Retold Version 1.0.5](https://lists.scummvm.org/pipermail/scummvm-tracker/2024-June/045878.html) – AGS engine game ID kq4retold
 [^ref-19]: [Computer Gaming World Issue 54 (December 1988), full text](https://archive.org/download/Computer_Gaming_World_Issue_54/Computer_Gaming_World_Issue_54_djvu.txt) – Roberta Williams interview, "I like the heroine, Rosella" quote
-[^ref-20]: [IGN – Revisiting King's Quest IV: The Perils of Rosella (Kosta Andreadis, 2014)](https://web.archive.org/web/20260214005638/https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella-) – retrospective assessment, fairy-tale settings
+[^ref-20]: [IGN – Revisiting King's Quest IV: The Perils of Rosella (Kosta Andreadis, 2014)](https://web.archive.org/web/20260214005638/https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella-) – retrospective assessment, fairy-tale settings, early female protagonist and sound card support
 [^ref-21]: [Indie Retro News – King's Quest IV: The Perils of Rosella Retold](https://www.indieretronews.com/2021/06/kings-quest-iv-perils-of-rosella-retold.html) – June 1, 2021 release coverage
