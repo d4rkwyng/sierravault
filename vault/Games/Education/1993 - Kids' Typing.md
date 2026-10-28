@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown
 protagonist: Spooky the Ghost
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Gordon van Ekström]
 description: Kid's Typing is a 1993 touch-typing tutor for children, developed by
   Bright Star Technology and published by Sierra On-Line in the Talking Tutor series,
@@ -19,11 +19,11 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Kid's Typing
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1][^ref-9] It shipped as a single hybrid Macintosh / Windows 3.x CD-ROM.[^ref-25] The game teaches touch typing through Spooky, "a talkative ghost who lives in the attic of an all-American home," who "uses humor and games to teach kids how to type."[^ref-2] Sierra's own documentation describes it as designed for children between the ages of seven and ten.[^ref-21]
+Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1][^ref-9] It shipped as a single hybrid Macintosh / Windows 3.x CD-ROM.[^ref-25] The game teaches touch typing through Spooky, "a talkative ghost who lives in the attic of an all-American home," who "uses humor and games to teach kids how to type."[^ref-2] Sierra's own documentation describes it as designed for children between the ages of seven and ten.[^ref-28]
 
 Rather than presenting drills alone, Kid's Typing sets its practice in a house where Spooky tries to scare an oblivious family, and the faster the player types, the more haunted the house becomes.[^ref-9] Its lessons are generated from the player's performance: "Built-in intelligence enables him to continuously create new lessons based on your child's typing accuracy and speed."[^ref-2] Sierra re-released the game in 1996 as part of its SierraOriginals line.[^ref-25]
 
@@ -52,25 +52,25 @@ While learning to type, the player meets the family: Tammy, usually on the phone
 
 Spooky shows the player where each letter is on the keyboard and where to place their fingers.[^ref-9] In the attic, an on-screen keyboard shows correct finger placement, and if the player hesitates over a key, that key lights up.[^ref-21] Text to be typed appears on a scroll at the top of the screen, flanked by gauges: a tube of red liquid shows average words per minute, an electricity generator shows accuracy, a burning candle shows time remaining in a timed session, and a little scroll shows how much text is left.[^ref-21]
 
-The guide says the text scrolls smoothly three lines at a time rather than jumping, which it claims reduces eye strain and improves accuracy.[^ref-21] Keyboard shortcuts let the player quit, print, go to the library, or return to the attic (Command-key combinations on the Macintosh, Alt-key combinations on the PC).[^ref-21] Input is by keyboard and mouse.[^ref-26]
+The guide says the text scrolls smoothly three lines at a time rather than jumping, which it claims reduces eye strain and improves accuracy.[^ref-28] Keyboard shortcuts let the player quit, print, go to the library, or return to the attic (Command-key combinations on the Macintosh, Alt-key combinations on the PC).[^ref-21] Input is by keyboard and mouse.[^ref-26]
 
 ### Structure and Progression
 
-Play takes place in three environments: the attic, the game rooms, and the library.[^ref-21] In the attic, Spooky introduces the keys across fifteen lessons. These start with the home row (A, S, D, F, J, K, L, semicolon and space bar) and end with the question mark, exclamation point, quotation mark and colon. Each lesson teaches finger placement first, then individual keys, then practice words, some of them nonsense words built for particular keys.[^ref-21] MobyGames likewise notes that lessons "start with the asdf row and adds more and more letters with each lesson."[^ref-1]
+Play takes place in three environments: the attic, the game rooms, and the library.[^ref-28] In the attic, Spooky introduces the keys across fifteen lessons. These start with the home row (A, S, D, F, J, K, L, semicolon and space bar) and end with the question mark, exclamation point, quotation mark and colon. Each lesson teaches finger placement first, then individual keys, then practice words, some of them nonsense words built for particular keys.[^ref-28] MobyGames likewise notes that lessons "start with the asdf row and adds more and more letters with each lesson."[^ref-1]
 
-Once a lesson is mastered, Spooky takes the player into one of five game rooms meant to build speed: "the kitchen, the living room, the dining room, Tammy's bedroom and Timmy's bedroom."[^ref-21] Each room has its own haunting effect tied to typing speed:[^ref-21]
+Once a lesson is mastered, Spooky takes the player into one of five game rooms meant to build speed: "the kitchen, the living room, the dining room, Tammy's bedroom and Timmy's bedroom."[^ref-28][^ref-21] Each room has its own haunting effect tied to typing speed:[^ref-21]
 
 - **Kitchen:** Mom arranges flowers while the blender runs faster and faster.
 - **Living room:** Dad's TV floats in mid-air for as long as the player keeps typing.
 - **Dining room:** Timmy floats up from the table and spins faster as typing speeds up.
 - **Tammy's bedroom:** Tammy talks on the phone, getting more animated as speed increases.
-- **Timmy's bedroom:** His musical instruments and toys begin to play by themselves.
+- **Timmy's bedroom:** His musical instruments begin to play by themselves.
 
 The library is reached from the attic through a secret passageway behind a bookcase. It holds classic tales such as "Cinderella" and "Rumplestiltskin," plus an encyclopedia set of twenty-six books, each focused on one letter of the alphabet.[^ref-9][^ref-21]
 
 ### Puzzles and Mechanics
 
-Kid's Typing has no traditional puzzles. Its central mechanic is lesson generation: game-room text is "created specifically to improve weak areas," and "Each lesson is designed to strengthen your child's weakest keystrokes."[^ref-21] Errors are noted even after correction "and will be used to design future lesson strategy," and future lessons are frequently built around the player's slowest key.[^ref-21]
+Kid's Typing has no traditional puzzles. Its central mechanic is lesson generation: game-room text is "created specifically to improve weak areas," and "Each lesson is designed to strengthen your child's weakest keystrokes."[^ref-28] Errors are noted even after correction "and will be used to design future lesson strategy," and future lessons are frequently built around the player's slowest key.[^ref-21]
 
 At the end of each session the game shows statistics: words per minute, accuracy, time, fastest key, slowest key, total characters typed, and overall top WPM.[^ref-21] A "word" counts as five keystrokes.[^ref-21] With a printer attached, players can print a certificate showing their name, WPM, accuracy and the date.[^ref-21] GOG's Dreamlist summary likewise notes that "Printable reports allow you to track progress."[^ref-2]
 
@@ -78,7 +78,7 @@ At the end of each session the game shows statistics: words per minute, accuracy
 
 ### Contemporary Reviews
 
-*The Computer Museum Guide to the Best Software for Kids* (1995) rated Kid's Typing 2 out of 4, according to MobyGames: "A series of typing lessons with a clean, contemporary look. But kids will need your encouragement to stick with the practice."[^ref-27] Sierra listed the game on page 35 of its 15th-anniversary catalog for Winter 1994–95.[^ref-24]
+*The Computer Museum Guide to the Best Software for Kids* (1995) gave Kid's Typing two stars on its one-to-four-star scale and rated it "Best for ages 6-8."[^ref-29] The guide praised its "crisp, colorful graphics, a friendly typing tutor named Spooky the Ghost and rewarding little animations," and concluded: "A series of typing lessons with a clean, contemporary look. But kids will need your encouragement to stick with the practice."[^ref-29][^ref-27] Sierra listed the game on page 35 of its 15th-anniversary catalog for Winter 1994–95.[^ref-24]
 
 ### Modern Assessment
 
@@ -114,7 +114,7 @@ MobyGames' credit listing carries the notice "© 1993 Bright Star Technology Inc
 
 ### Technical Achievements
 
-Spooky speaks to the player,[^ref-2] and the Windows version requires a sound card supporting Windows 3.1. The game "does not support the internal speaker sound driver."[^ref-23] The documentation highlights two design features: text that scrolls smoothly three lines at a time instead of jumping, and lessons generated from the player's own weakest keys.[^ref-21]
+Spooky speaks to the player,[^ref-2] and the Windows version requires a sound card supporting Windows 3.1. The game "does not support the internal speaker sound driver."[^ref-23] The documentation highlights two design features: text that scrolls smoothly three lines at a time instead of jumping, and lessons generated from the player's own weakest keys.[^ref-28]
 
 ### Technical Specifications
 
@@ -212,10 +212,12 @@ Kid's Typing is not sold on any current digital storefront. Copies are preserved
 [^ref-7]: [Internet Archive – Dream Team Kids Typing](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) – preserved hybrid CD-ROM image
 [^ref-9]: [Sierra Chest – Kid's Typing General](https://sierrachest.com/index.php?a=games&id=429&fld=general) – story description, family, haunting, library and encyclopedia, series, engine
 [^ref-11]: [Amazon – KidsSoft Kid's Typing](https://www.amazon.com/KidsSoft-Kids-Typing/dp/B000MQ8LF8) – user reviews, ratings, compatibility reports, listing date
-[^ref-21]: [Sierra Chest – Kid's Typing Walkthrough](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) – age range, attic lessons, five game rooms, library, statistics, certificates
+[^ref-21]: [Sierra Chest – Kid's Typing Walkthrough](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) – attic keyboard and gauges, five game rooms, library, statistics, certificates
 [^ref-22]: [Sierra Chest – Kid's Typing Making Of](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=making) – full credits list
 [^ref-23]: [Sierra Chest – Kid's Typing Tech Support](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=tech) – original Mac and Windows requirements, sound card, DOSBox and Windows XP compatibility
 [^ref-24]: [Sierra Chest – Kid's Typing Publications](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=publications) – Sierra 15th anniversary catalog, Winter 94–95, page 35
 [^ref-25]: [MobyGames – Kid's Typing Releases](https://www.mobygames.com/game/200658/kids-typing/releases/) – 1993 hybrid Mac/Windows 3.x release, 1996 SierraOriginals release
 [^ref-26]: [MobyGames – Kid's Typing Specs](https://www.mobygames.com/game/200658/kids-typing/specs/) – CD-ROM media, input devices, minimum requirements
 [^ref-27]: [MobyGames – Kid's Typing Reviews](https://www.mobygames.com/game/200658/kids-typing/reviews/) – Computer Museum Guide to the Best Software for Kids (1995), 2/4
+[^ref-28]: [Sierra Chest – Kid's Typing Walkthrough: Introduction](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough) – reproduces Sierra's documentation: ages seven to ten, three environments, fifteen-lesson key order, lesson structure, weak-key lesson generation, three-line smooth scrolling ([archived copy, 2019-07-18](https://web.archive.org/web/20190718143659/http://sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough))
+[^ref-29]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p. 208 – Internet Archive scan](https://archive.org/details/computermuseumguid00mira/page/208/mode/1up) – Kid's Typing review: two stars (the guide rates "from 1 to 4 stars", per its introduction), "Best for ages 6-8", bottom-line verdict
