@@ -10,21 +10,21 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-10-19'
+last_updated: '2026-10-28'
 description: 'David Wolf: Secret Agent is a 1989 DOS spy action game from Dynamix, billed as an "interactive movie": a James Bond-style story told in digitized still photographs of real actors, broken up by six polygon-graphics action sequences.'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 David Wolf: Secret Agent is a spy action game developed and published by Dynamix for DOS in December 1989[^ref-3][^ref-19][^ref-20]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2]. Dynamix's own designer notes describe the goal as "an adult oriented story that contained interesting characters with personalities," told with real actors photographed in an in-house image production studio[^ref-6]. Players use what Dynamix called a "VCR Interface" to fast-forward, rewind, skip scenes and adjust difficulty[^ref-2][^ref-4].
 
-Dynamix's designer notes describe it as one of the first titles the company released as an affiliated publisher, and as "by far the biggest project Dynamix has ever developed"[^ref-6]. In the United States it was distributed by Activision[^ref-2]. It was Dynamix's first game to use digitized actors and electronically rotoscoped animation[^ref-4], with its action sequences drawn in polygon-filled 3D graphics[^ref-2].
+Dynamix's designer notes describe it as one of the first titles the company released as an affiliated publisher, and as "by far the biggest project Dynamix has ever developed"[^ref-6]. In the United States it was distributed by Activision[^ref-2]. According to the Dynamix wiki, it was the company's first game to use digitized actors and electronically rotoscoped animation[^ref-4]. Its action sequences were drawn in polygon-filled 3D graphics[^ref-2].
 
-The story is told almost entirely through still images and text, and there are only six places in the game where the player uses the keyboard or joystick[^ref-7][^ref-17]. Estimates of its length vary from about half an hour[^ref-5] to "an hour or so"[^ref-17] to a little over two hours[^ref-2]. Reception was divided: The Games Machine gave it 97%[^ref-4], while Computer Gaming World later named it one of the worst games of all time[^ref-6][^ref-22].
+The story is told almost entirely through still images and text, and there are only six places in the game where the player uses the keyboard or joystick[^ref-7][^ref-17]. Estimates of its length vary from about half an hour[^ref-5] to "an hour or so"[^ref-17] to a little over two hours[^ref-2]. Computer Gaming World's reviewer put the story scenes alone at "about a half-hour of 'footage'"[^ref-21]. Reception was divided: The Games Machine gave it 97%, according to the Dynamix wiki[^ref-4], while Computer Gaming World later named it one of the worst games of all time[^ref-6][^ref-22].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-3]
@@ -39,7 +39,7 @@ The story is told almost entirely through still images and text, and there are o
 
 ## Story Summary
 
-The game follows David Wolf, a secret agent serving an intelligence agency named Peregrine[^ref-8]. The main antagonist is Bruno Vasto, described as "a madman" who "has stolen the experimental SF-2 stealth fighter and threatens to blow up Washington D.C.!"[^ref-1] Vasto's criminal organization, Viper, has also kidnapped the fighter's chief designer, Dr. Kelly O'Neal[^ref-2][^ref-8]. (Some secondary sources spell her name "O'Neill"; the game's credits and contemporary reviews use "O'Neal"[^ref-2][^ref-23].)
+The game follows David Wolf, a secret agent serving an intelligence agency named Peregrine[^ref-15]. The main antagonist is Bruno Vasto, described as "a madman" who "has stolen the experimental SF-2 stealth fighter and threatens to blow up Washington D.C.!"[^ref-1] Vasto's criminal organization, Viper, has also kidnapped the fighter's chief designer, Dr. Kelly O'Neal[^ref-2][^ref-15]. (Some secondary sources spell her name "O'Neill"; the game's credits and contemporary reviews use "O'Neal"[^ref-2][^ref-23].)
 
 The story opens on the cliffs of Dover, where Wolf is testing an armed hang glider and is attacked by Viper agents[^ref-2]. The trail then leads to a Monte Carlo casino and a long car chase. Wolf learns that the stealth fighter is to be launched from Drax Island, west of Cyprus. After his plane is sabotaged, he steals a Viper agent's parachute in mid-air and lands on a truck heading to the Viper base. There he and O'Neal take the fighter and deliver it to the USS Nimitz[^ref-9].
 
@@ -64,7 +64,7 @@ MobyGames describes four 3D action simulations at the heart of the game[^ref-3]:
 3. **Fighter Simulation** - The closing stealth-fighter dogfight[^ref-2][^ref-5]
 4. **Skydiving** - Catching a freefalling Viper agent's parachute, then landing on a moving truck[^ref-21]
 
-Counting the two car chases and the two parts of the skydiving scene separately, these make up the game's six action sequences[^ref-2][^ref-21]. Computer Gaming World judged the parachute sequences the best and the car chases the least original[^ref-21]. Damon Slye is credited with the flight model[^ref-23].
+Counting the two car chases and the two parts of the skydiving scene separately, these make up the game's six action sequences[^ref-2][^ref-21]. Computer Gaming World judged the parachute sequences the best and found the car chases unoriginal[^ref-21]. Damon Slye is credited with the flight model[^ref-23].
 
 ## Reception
 
@@ -73,7 +73,7 @@ Counting the two car chases and the two parts of the skydiving scene separately,
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World #66 (Dec 1989) | Mixed (no score) | Charles Ardai: "visually stunning and executed with flair," but "games that you won't want to play or watch twice"[^ref-21] |
-| The Games Machine #27 (UK, Feb 1990) | 97%[^ref-4] | Paul Rigby: "The graphics are absolutely astounding"[^ref-25] |
+| The Games Machine #27 (UK, Feb 1990) | 97% (per the Dynamix wiki)[^ref-4] | "Star Player" award; Paul Rigby: "The graphics are absolutely astounding"[^ref-25] |
 | Compute! #117 (Feb 1990) | Mixed (no score) | Richard Sheffield: "a hint of things to come," too short for the $49.95 price[^ref-2] |
 | Dragon #154 (Feb 1990) | 3/5 stars[^ref-9] | Hartley, Patricia and Kirk Lesser: "Amazing graphics and animation cannot save this newest release from Dynamix from receiving a mediocre rating"[^ref-11] |
 
@@ -91,7 +91,7 @@ In its 15th anniversary issue (November 1996), Computer Gaming World ranked Davi
 |-------------|-------|-------|
 | MobyGames | 75% | Critic average of 5 reviews[^ref-3] |
 | MyAbandonware | 4.59/5 | User rating, 17 votes[^ref-12] |
-| Glitchwave | 2.50/5.0 | Weighted user rating[^ref-13] |
+| Glitchwave | 2.50/5.0 | Weighted user rating (1 rating)[^ref-13] |
 | PixelatedArcade | C- | Site's own rating[^ref-14] |
 | OldGames.sk | 45% | Site's own rating[^ref-15] |
 
@@ -122,7 +122,7 @@ Several Dynamix staff also appear, including Damon Slye, Kevin Ryan and Jeff Tun
 - Programming: Kevin Ryan; Flight Model: Damon Slye; 3Space: David McClurg
 - Screenplay: Kevin Ryan, Jerry Luttrell, Mike Sussman
 - Art Director: John Burton
-- Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morcello[^ref-26]
+- Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morsello, as spelled in the game's own credits[^ref-1][^ref-23] (a 2017 version of MobyGames' credits spelled it "Morcello"[^ref-26])
 
 ### Technical Specifications
 
@@ -183,27 +183,26 @@ The program disks came sealed in a manila envelope. It carried the Peregrine log
 
 ## References
 
-[^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and official description (Bruno Vasto, SF-2 stealth fighter)
+[^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and official description (Bruno Vasto, SF-2 stealth fighter); the archived game's executable (AGENT.EXE) holds the in-game credits, incl. "SOUND EFFECTS AND MUSIC EDITING Bryce Morsello"
 [^ref-2]: [COMPUTE! #117 (Feb 1990), Richard Sheffield review – Atari Magazines](https://www.atarimagazines.com/compute/issue117/pp106_reviews1_DAVID_WOLF_SECRET_AGENT.php) – James Bond comparison, six simulation sequences, VCR-style interface, automatic setup, length, $49.95 price, Activision distribution
 [^ref-3]: [MobyGames](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) – Release date (Dec 1989, DOS), official description, critic average
 [^ref-4]: [Dynamix Fandom](https://dynamix.fandom.com/wiki/David_Wolf:_Secret_Agent) – VCR Interface, 3Space engine, digitized actors, cancelled VGA version, The Games Machine 97% score
 [^ref-5]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2017/05/david-wolf-secret-agent.html) – Modern review: still-photo cut-scenes, half-hour completion, VCR fast-forward/rewind
 [^ref-6]: [MobyGames Trivia](https://www.mobygames.com/game/1610/david-wolf-secret-agent/trivia/) – Manual designer notes, VGA/MCGA placeholders, packaging, CGW Worst Games awards
 [^ref-7]: [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) – Six interactive areas, no control over dialogue
-[^ref-8]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/download/9457/) – Peregrine agency, Viper, kidnapped designer
 [^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent) – Plot (Monte Carlo, Drax Island, USS Nimitz), Dragon 3/5 rating
 [^ref-11]: [Dragon #154 (Feb 1990), "The Role of Computers" – Internet Archive](https://archive.org/details/DragonMagazine260_201801/DragonMagazine154/) – Lessers' review: mediocre rating, six player-controlled areas, action-scene weapons
 [^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/david-wolf-secret-agent-mp) – User rating (4.59/5, 17 votes)
-[^ref-13]: [Glitchwave](https://glitchwave.com/game/david-wolf-secret-agent/) – User rating
+[^ref-13]: [Glitchwave](https://glitchwave.com/game/david-wolf-secret-agent/) – Weighted user rating (2.50/5.0 from 1 rating)
 [^ref-14]: [PixelatedArcade](https://pixelatedarcade.com/games/david-wolf-secret-agent) – Site rating (C-)
-[^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – Site rating (45%)
+[^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – Site rating (45%); Peregrine agency, Viper, kidnapped designer
 [^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Jimmy Maher's critical history of Dynamix's narrative games
 [^ref-18]: [Adventure Classic Gaming – "A short personal history of Dynamix's adventure games" by Kevin Ryan](https://www.adventureclassicgaming.com/index.php/site/features/268/) – 16-color EGA game; photographed-actor technique first tried in David Wolf
 [^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, release date (12/1/1989), platform (DOS)
 [^ref-20]: [LaunchBox Games Database – David Wolf: Secret Agent](https://gamesdb.launchbox-app.com/games/details/86022-david-wolf-secret-agent) – Community-curated metadata, release year 1989, platform MS-DOS
-[^ref-21]: [Computer Gaming World #66 (Dec 1989) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_66) – Charles Ardai, "Popcorn Not Included!" review (pp. 36, 55, 85); Dynamix advertisement promising VGA/Amiga versions
+[^ref-21]: [Computer Gaming World #66 (Dec 1989) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_66) – Charles Ardai, "Popcorn Not Included!" review (pp. 36, 55, 85), incl. "about a half-hour of 'footage'"; Dynamix advertisement promising VGA/Amiga versions
 [^ref-22]: [Computer Gaming World #148 (Nov 1996) – Internet Archive](https://archive.org/details/computer-gaming-world-i148) – 50 Worst Games of All Time (#40) and Worst Back Story (#8)
 [^ref-23]: [MobyGames Credits (DOS)](https://www.mobygames.com/game/1610/david-wolf-secret-agent/credits/dos/) – Design, production, cast and technology credits
 [^ref-24]: [MobyGames Specs](https://www.mobygames.com/game/1610/david-wolf-secret-agent/specs/) – Video modes, sound devices, input, media, minimum requirements
-[^ref-25]: [The Games Machine #27 (Feb 1990) – Internet Archive](https://archive.org/details/the-games-machine-27) – Paul Rigby review (pp. 30–31): 16 actors, 400 digitised screens, Cinemaware comparison
-[^ref-26]: [MobyGames – David Wolf: Secret Agent DOS credits (Wayback Machine, 2017)](http://web.archive.org/web/20170517070016/http://www.mobygames.com:80/game/dos/david-wolf-secret-agent/credits) – "Sound Effects and Music Editing Bryce Morcello"; spelling of Morcello's surname
+[^ref-25]: [The Games Machine #27 (Feb 1990) – Internet Archive](https://archive.org/details/the-games-machine-27) – Paul Rigby review (pp. 30–31): "Star Player" badge, 16 actors, 400 digitised screens, Cinemaware comparison
+[^ref-26]: [MobyGames – David Wolf: Secret Agent DOS credits (Wayback Machine, 2017)](http://web.archive.org/web/20170517070016/http://www.mobygames.com:80/game/dos/david-wolf-secret-agent/credits) – "Sound Effects and Music Editing Bryce Morcello" (older variant spelling; the in-game credits read "Morsello")
