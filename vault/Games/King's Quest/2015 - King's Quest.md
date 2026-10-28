@@ -10,14 +10,15 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
-  and published by Activision under the revived Sierra Entertainment brand for...
+  and published by Activision under the revived Sierra Entertainment brand, in which an
+  elderly King Graham tells his granddaughter Gwendolyn stories of his youthful adventures.
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -33,19 +34,19 @@ IGN called it "a beautiful experiment in resurrecting the conventions of gaming'
 > **Designer:** Matt Korba[^ref-1]
 > **Publisher:** [[Activision]][^ref-3]
 > **Engine:** Unreal Engine 3[^ref-2]
-> **Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
-> **Release Year:** 2015
+> **Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One[^ref-1]
+> **Release Year:** 2015[^ref-1]
 > **Series:** King's Quest
 > **Protagonist:** Graham
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-The narrative of King's Quest (2015) unfolds as a series of stories told by an elderly King Graham to his granddaughter Gwendolyn, who visits Daventry every summer and spends much of the time in her grandfather's bedchamber listening to his stories[^ref-18]. When Graham dies in the game, he often rewinds the story a bit or remarks it was not what he did[^ref-3]. His narration is also heard during regular gameplay, especially for descriptions of the environment[^ref-3].
+The narrative of King's Quest (2015) unfolds as a series of stories told by an elderly King Graham to his granddaughter Gwendolyn, who visits Daventry every summer and spends much of the time in her grandfather's bedchamber listening to his stories[^ref-18]. Graham's voice runs through the whole game: he describes the scenery as the player explores, and when young Graham is killed, the old man usually backs up the tale or insists it didn't happen that way[^ref-3].
 
-The game offers entirely new stories and characters, but they often reference the earlier games[^ref-3]. The new stories are not told in chronological order and are interspersed with sections in the present that revolve around Gwendolyn[^ref-3]. The protagonist is Graham, the same protagonist who first appeared in the original King's Quest in 1984[^ref-3].
+Graham is the hero of the original 1984 King's Quest, but the tales he tells here are new, with new characters, though they often nod to the earlier games[^ref-3]. They are not told in order, and scenes set in the present, centred on Gwendolyn, come between them[^ref-3].
 
 The game consists of five chapters[^ref-3]:
-- **Chapter 1: A Knight to Remember** - A young Graham arrives in Daventry and enters a grand tournament to become a Knight of Daventry
+- **Chapter 1: A Knight to Remember** - A young Graham arrives in Daventry and enters a grand tournament to become a Knight of Daventry[^ref-1]
 - **Chapter 2: Rubble Without a Cause** - Newly crowned King Graham is kidnapped by goblins along with Daventry's townsfolk and must escape and save the kingdom[^ref-1]
 - **Chapter 3: Once Upon a Climb** - Graham climbs a tower and finds two princesses, Vee and Neese, trapped by the witch Hagatha; the story of how he met Valanice reimagines King's Quest II[^ref-1]
 - **Chapter 4: Snow Place Like Home** - After Alexander escapes Manannan, Graham takes the family on vacation, only to find the resort turned into a frozen palace of traps by an icy queen[^ref-1][^ref-11]
@@ -55,34 +56,34 @@ The Complete Collection includes an exclusive epilogue that shifts perspective t
 
 ## Gameplay
 
-The game environment is shown through different perspectives for each scene with scrolling parts, but the camera cannot be controlled[^ref-3]. Visually it has a cel-shaded graphical style[^ref-3]. The player can move Graham freely in the 3D environment[^ref-3].
+Graham walks freely through a 3D world drawn in a cel-shaded style[^ref-3]. Each scene has its own fixed framing, some of which scroll as he moves, and the player has no control over the camera[^ref-3].
 
 ### Interface and Controls
-- When Graham is close to an interesting element, this is signified through one or multiple icons in the bottom right corner of the screen[^ref-3]
-- The player can choose to examine, interact, or pick up objects[^ref-3]
-- Collected items are stored in an inventory[^ref-3]
-- In many locations it is possible to switch to a first-person perspective to examine the environment[^ref-3]
+- Icons appear in the lower-right corner of the screen when Graham is near something he can use[^ref-3]
+- From those icons the player can look at an object, interact with it, or take it[^ref-3]
+- Items Graham picks up go into an inventory[^ref-3]
+- Many locations let the player switch to a first-person view to look around more closely[^ref-3]
 
 ### Structure and Progression
-- The game largely focuses on the story and puzzle-solving, but there is also a large amount of exploration and action sequences with escapes and fighting[^ref-3]
-- Graham often needs to run and he can also push or manipulate objects in various ways[^ref-3]
-- These sections are sometimes shown from a first-person perspective[^ref-3]
-- There are many cut-scenes, on-rails sequences, and some Quick Time Events[^ref-3]
+- Story and puzzles come first, but there is plenty of exploration too, along with action scenes in which Graham flees or fights[^ref-3]
+- Running is common, and Graham can push or otherwise handle objects in the scenery[^ref-3]
+- Some of these action scenes switch to a first-person view[^ref-3]
+- Cut-scenes and on-rails sequences are frequent, with a handful of Quick Time Events[^ref-3]
 
 ### Puzzles and Mechanics
-- The game incorporates choices and consequences in various ways and they are carried across episodes[^ref-3]
-- There are many branching dialogue options that lead to different outcomes[^ref-3]
-- Puzzles often have multiple approaches without a fixed solution[^ref-3]
-- Generally there are three types of choices to make or paths to follow: bravery, wisdom, or compassion, though these are never mentioned explicitly[^ref-3]
-- This affects the story and especially the way Gwendolyn will act in the present as her grandfather's stories are the inspiration for her acts[^ref-3]
-- These choice elements hearken back to the original King's Quest games, such as the multiple ways Graham could deal with the dragon in the first game[^ref-3]
+- Choices have consequences, and they carry over from one episode to the next[^ref-3]
+- Conversations branch, and the player's picks change what happens[^ref-3]
+- Puzzles can often be solved in more than one way[^ref-3]
+- Most decisions lean towards bravery, wisdom or compassion, although the game never names these paths outright[^ref-3]
+- Graham's choices shape the story, and above all Gwendolyn's behaviour in the present, since she takes her cue from his tales[^ref-3]
+- Multiple solutions were part of early King's Quest too: in the 1984 original, Graham could get past the dragon in more than one way[^ref-3]
 
 ## Reception
 
 ### Contemporary Reviews
 Adventure Gamers scored the game 90/100 (as listed on Metacritic), stating: "A revival of a classic adventure series, the episodic King's Quest is itself an instant classic, giving each new installment its own unique focus. Wise, brave, and compassionate adventurers alike should definitely consider having a crack at it"[^ref-6].
 
-IGN's Leif Johnson awarded Chapter 1 an 8/10, praising the game as "full of humor, heart, and beauty" and calling it "an admirable revival of classic adventure games"[^ref-9]. He noted that "there's hardly an environment in the whole story that doesn't evoke some awe"[^ref-9]. ZTGD gave Chapter 1 a 9.5/10 "Excellent" rating, calling it "the surprise hit of 2015 so far" with "hilarious writing with a stellar VO cast"[^ref-10]. Not every critic agreed. Rock Paper Shotgun's John Walker panned Chapter 1, writing "I am struggling to remember a game with a worse first hour" and criticising its "astonishingly dreadful design decisions" and "monstrously slow pace"[^ref-12].
+IGN's Leif Johnson awarded Chapter 1 an 8/10, praising the game as "full of humor, heart, and beauty" and calling it "a[n] admirable revival of classic adventure games"[^ref-9]. He noted that "there's hardly an environment in the whole story that doesn't evoke some awe"[^ref-9]. ZTGD gave Chapter 1 a 9.5/10 "Excellent" rating, calling it "the surprise hit of 2015 so far" with "hilarious writing with a stellar VO cast"[^ref-10]. Not every critic agreed. Rock Paper Shotgun's John Walker panned Chapter 1, writing "I am struggling to remember a game with a worse first hour" and criticising its "astonishingly dreadful design decisions" and "monstrously slow pace"[^ref-12].
 
 Digitally Downloaded's review of the complete series praised the narrative structure, stating "Creative Director Matt Corba [sic] should be given some sort of award for his work with this game" and concluding that "King's Quest does everything right"[^ref-11]. The reviewer credited Maggie Elizabeth Jones's performance as Gwendolyn in Chapter Five's final scenes with bringing them to tears[^ref-11].
 
@@ -94,7 +95,7 @@ The Complete Collection earned recognition within the gaming industry, receiving
 According to Metacritic aggregate scores, the individual chapters received the following critical reception[^ref-1]:
 
 **Chapter 1: A Knight to Remember** received positive reviews:
-- Windows: 82/100 (23 reviews)
+- Windows: 82/100 (24 reviews, as of October 2026)[^ref-22]
 - PlayStation 4: 77/100 (22 reviews)
 - Xbox One: 80/100 (26 reviews)
 
@@ -133,14 +134,29 @@ On Steam, the game holds a "Very Positive" rating (89% of 2,286 English-language
 ## Development
 
 ### Origins
-The 2015 King's Quest reboot originated in August 2014 when Activision announced the revival of the Sierra Entertainment label and selected independent studio The Odd Gentlemen to develop a new entry in the classic adventure series[^ref-1]. Sierra offered a first look at the game at The Game Awards 2014 on December 5, 2014[^ref-20]. Creative Director Matt Korba led the project, envisioning a reimagining of King Graham's story structured around an elderly Graham recounting his adventures to granddaughter Gwendolyn[^ref-1][^ref-18].
+The 2015 King's Quest reboot was announced in August 2014, when Activision revived the Sierra brand and handed development of a new entry in the classic adventure series to independent studio The Odd Gentlemen[^ref-1][^ref-20]. Sierra offered a first look at the game at The Game Awards 2014 on December 5, 2014[^ref-20]. Creative Director Matt Korba led the project, envisioning a reimagining of King Graham's story structured around an elderly Graham recounting his adventures to granddaughter Gwendolyn[^ref-1][^ref-18].
 
 ### Production
-The game was developed as a five-part episodic adventure series, serving as both a reboot and re-imagining of the classic King's Quest franchise[^ref-3]. As Game Informer put it, the grandfather-granddaughter premise "provides a unique opportunity to tie the past and present together", with each episode carrying narrative threads in both time periods, usually linked by common themes[^ref-18]. To honor the originals without copying their look, The Odd Gentlemen hand-painted the game's art, drawing on references from the 1980s games[^ref-19]. The script for the first chapter alone was 640 pages long, including branching paths, Easter eggs, narration, object use and interaction, and dialogue trees[^ref-1]. Each chapter of the series was longer and more complex than some similar episodic series such as those made by Telltale Games[^ref-1].
+The game was developed as a five-part episodic adventure series, serving as both a reboot and re-imagining of the classic King's Quest franchise[^ref-3]. As Game Informer put it, the grandfather-granddaughter premise "provides a unique opportunity to tie the past and present together", with each episode carrying narrative threads in both time periods, usually linked by common themes[^ref-18]. To honor the originals without copying their look, The Odd Gentlemen hand-painted the game's art, drawing on references from the 1980s games[^ref-19]. At E3 2015, Korba said Chapter 1 alone had over 640 pages of script, with new pages still being added[^ref-24][^ref-1]. According to Korba, each chapter was "longer and more involved" than an episode of a Telltale Games series[^ref-23].
 
 According to Creative Director Matt Korba, the game's controls focused on "one-button context," resulting in a game without complicated interfaces or controls[^ref-1][^ref-18]. The original games are considered part of the canon of the new series, with each chapter taking place between those games; however, previous games may be reinterpreted in completely new ways[^ref-1][^ref-18]. All of Graham's choices are heroic; as The Odd Gentlemen's Lindsey Rostal put it, "We didn't want it to be 'good Graham' or 'bad Graham.' Graham is always good."[^ref-18]
 
-The voice cast features veteran actor Christopher Lloyd (Doc Brown from Back to the Future) as the elderly King Graham, with Josh Keaton (Shiro from Voltron) voicing young Graham[^ref-9][^ref-11][^ref-1]. Wallace Shawn (Rex from Toy Story, Vizzini from The Princess Bride) voices the antagonist Manannan, bringing what Digitally Downloaded described as "a quick-witted but twisted feel"[^ref-11]. Maggie Elizabeth Jones delivers a standout performance as Gwendolyn, with her "enthusiasm and childlike innocence" praised by Digitally Downloaded[^ref-11]. Additional voice talent includes Tom Kenny (SpongeBob SquarePants), Loretta Devine, Kevin Michael Richardson, and Zelda Williams (daughter of Robin Williams)[^ref-12][^ref-15][^ref-1].
+### Voice Cast
+
+Activision announced the cast in May 2015, headed by Christopher Lloyd (Doc Brown in Back to the Future) as the elderly King Graham[^ref-26][^ref-11]. Digitally Downloaded said Wallace Shawn gave Manannan "a quick-witted but twisted feel", and it singled out Maggie Elizabeth Jones's "enthusiasm and childlike innocence" as Gwendolyn[^ref-11].
+
+**Principal Cast:**[^ref-26]
+
+| Actor | Characters |
+|-------|------------|
+| Christopher Lloyd | King Graham (elderly)[^ref-26][^ref-11] |
+| Josh Keaton | Young Graham[^ref-26][^ref-11] |
+| Maggie Elizabeth Jones | Gwendolyn[^ref-26][^ref-11] |
+| Wallace Shawn | Manannan[^ref-11] |
+| Tom Kenny | The Merchant of Miracles[^ref-12] |
+| Zelda Williams | Amaya Blackstone[^ref-25] |
+
+Loretta Devine and Kevin Michael Richardson are also in the cast; Rock Paper Shotgun mentions both, but no source checked for this page names their roles[^ref-12][^ref-26]. Common Sense Media noted Zelda Williams as the daughter of Robin Williams[^ref-15].
 
 ### Technical Achievements
 - Built on Unreal Engine 3[^ref-2], with hand-painted textures[^ref-19]
@@ -187,7 +203,7 @@ This game is not available on GOG[^ref-7].
 - [[1998 - King's Quest - Mask of Eternity]]
 
 ## References
-[^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception; 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
+[^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception; 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, August 2014 Sierra revival
 [^ref-2]: [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical specs, engine information
 [^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description; MobyScore 7.5 from 15 votes (MobyGames API, checked 2026-10-12)
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
@@ -205,3 +221,8 @@ This game is not available on GOG[^ref-7].
 [^ref-19]: [Game Informer – How The Odd Gentlemen Create The Hand-Painted Look For King's Quest (Mike Futter, May 20, 2015)](https://gameinformer.com/games/kings_quest/b/pc/archive/2015/05/20/how-the-odd-gentlement-create-the-hand-painted-look-for-king-s-quest) – hand-painted art using 1980s references
 [^ref-20]: [Game Informer – The Game Awards Offers First Look At Sierra's King's Quest (Mike Futter, December 5, 2014)](https://gameinformer.com/b/news/archive/2014/12/05/the-game-awards-offers-first-look-at-sierra%E2%80%99s-king-s-quest) – first look at the game at The Game Awards 2014
 [^ref-21]: [Academy of Interactive Arts & Sciences – Adventure Game of the Year (20th D.I.C.E. Awards)](https://www.interactive.org/awards/award_category_details.asp?idAward=2017&idGameAwardType=5) – King's Quest: The Complete Collection nominated
+[^ref-22]: [Metacritic – King's Quest Chapter 1: A Knight to Remember, PC critic reviews](https://www.metacritic.com/game/kings-quest-chapter-1-a-knight-to-remember/critic-reviews/?platform=pc) – Metascore 82 from 24 critic reviews (checked 2026-10-28)
+[^ref-23]: [Polygon – King's Quest finally gets second chapter in mid-December, here's why it took so long (Samit Sarkar, December 1, 2015)](https://www.polygon.com/2015/12/1/9827700/kings-quest-chapter-2-release-date-rubble-without-a-cause-trailer) – Korba: chapters "longer and more involved" than Telltale-style episodes
+[^ref-24]: Stevivor – "E3 2015 Preview: King's Quest" (Steve Wright, July 2, 2015) – Korba said Chapter 1 had "over 640 pages of script, with new pages added regularly" (cited as text only)
+[^ref-25]: [VG247 – King's Quest cast includes Back to the Future's Christopher Lloyd, Zelda Williams (May 11, 2015)](https://www.vg247.com/2015/05/11/new-kings-quest-voice-cast-reveal-trailer/) – Lloyd as old King Graham, Zelda Williams as Amaya Blackstone, full cast list
+[^ref-26]: [Activision Blog – Meet the Cast of King's Quest (Scott Lowe, May 11, 2015; Wayback Machine, May 20, 2015)](https://web.archive.org/web/20150520134337/https://blog.activision.com/community/games-blog/more-games/blog/2015/05/11/meet-the-cast-of-kings-quest) – Lloyd as King Graham, Keaton as young Sir Graham, Jones as Gwendolyn; Shawn, Kenny, Z. Williams, Devine and Richardson in the cast
