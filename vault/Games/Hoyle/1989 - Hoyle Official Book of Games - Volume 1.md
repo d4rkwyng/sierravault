@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: None (card game collection)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a 1989 Sierra On-Line collection
   of six card games, designed by Warren Schwader, in which players face 18 computer
@@ -19,11 +19,11 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hoyle Official Book of Games: Volume 1 is a collection of six classic card games developed and published by Sierra On-Line in 1989[^ref-1][^ref-16][^ref-20]. The game is a tribute to Edmond Hoyle, the 18th-century card-game authority whose name became synonymous with official game rules[^ref-2][^ref-20]. It was the first entry in what became Sierra's long-running Hoyle series of computerized parlor games; MyAbandonware's description singles out its "excellent graphics, intuitive mouse-based user interface, and-- best of all-- the ability to choose popular Sierra game characters as your opponents"[^ref-3].
+Hoyle Official Book of Games: Volume 1 is a collection of six classic card games developed and published by Sierra On-Line in 1989[^ref-1][^ref-16][^ref-20]. The game is a tribute to Edmond Hoyle, the 18th-century card-game authority best known for his works on the rules of games[^ref-2][^ref-4][^ref-20]. It was the first entry in what became Sierra's long-running Hoyle series of computerized parlor games; MyAbandonware's description singles out its "excellent graphics, intuitive mouse-based user interface, and-- best of all-- the ability to choose popular Sierra game characters as your opponents"[^ref-3].
 
 Designer [[Warren Schwader]] had earlier written Sierra's Hi-Res Cribbage (1981)[^ref-22], and Wikipedia describes Volume 1 as a spiritual sequel to that game[^ref-4]. Players face up to three of 18 computer opponents, including characters such as Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. Sierra's own magazine reported in 1990 that Volume 1 had been "a tremendous success, selling over 250,000 copies worldwide"[^ref-22].
 
@@ -214,7 +214,7 @@ The game is supported by ScummVM, the open-source project that runs classic adve
 
 ### Critical Perspective
 
-Hoyle Official Book of Games: Volume 1 occupies an interesting position in Sierra's history as an early step beyond adventure gaming, which *The Games Machine* called "a little bit of diversification for Sierra"[^ref-23]. While *Computer Gaming World* dismissed most of the card games as "really children's games"[^ref-21], reviewers singled out the presence of Sierra's characters as the game's main draw[^ref-21][^ref-23].
+*The Games Machine* called Hoyle Official Book of Games: Volume 1 "a little bit of diversification for Sierra"[^ref-23]. While *Computer Gaming World* dismissed most of the card games as "really children's games"[^ref-21], reviewers singled out the presence of Sierra's characters as the game's main draw[^ref-21][^ref-23].
 
 Several of those characters returned in later entries: Larry Laffer and Roger Wilco appear as opponents again in Volume 3 and Hoyle Classic Card Games[^ref-15].
 
@@ -224,7 +224,7 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 
 **Purchase / Digital Stores**
 - Not currently available on Steam, GOG, or other modern digital storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-1-1989) — community Dreamlist for re-release
 
 **Download / Preservation**
 - [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) — DOS edition preservation

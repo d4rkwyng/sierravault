@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is Sierra On-Line's 1991 collection of six board and dice games (Checkers, Backgammon,
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -93,7 +93,7 @@ Compute! described Volume 3 as Sierra returning "once again to the tried-and-tru
 
 ### Production
 
-Sources disagree on who designed the game. MobyGames credits Marti McKenna and Bridget McKenna as game designers, Bridget McKenna for writing, and [[Warren Schwader]] as lead programmer[^ref-32]. The Sierra Wiki and Home of the Underdogs also name the McKennas as designers[^ref-39][^ref-38]. Wikipedia, however, says Schwader "continued as the Lead Programmer and Game Designer for the next two games in the series" after Volume 1[^ref-4]. The game's instruction booklet lists Bridget McKenna as manual writer[^ref-28].
+Sources disagree on who designed the game. MobyGames credits Marti McKenna and Bridget McKenna as game designers, Bridget McKenna for writing, and [[Warren Schwader]] as lead programmer[^ref-32]. The Sierra Wiki also names both McKennas as designers[^ref-39], and Home of the Underdogs names Bridget McKenna[^ref-38]. Wikipedia, however, says Schwader "continued as the Lead Programmer and Game Designer for the next two games in the series" after Volume 1[^ref-4]. The game's instruction booklet lists Bridget McKenna as manual writer[^ref-28].
 
 **Development Credits:**
 - **Game Designers:** Marti McKenna, Bridget McKenna (MobyGames)[^ref-32]
@@ -116,7 +116,7 @@ Compute! reported that the backgrounds, opponents and playing pieces are animate
 
 **Disk Version:**
 - **Media:** 3.5" and 5.25" floppy disks[^ref-29][^ref-31]
-- **Graphics:** 256-color VGA and 16-color EGA/Tandy[^ref-29][^ref-28]
+- **Graphics:** 256-color VGA and 16-color EGA/Tandy[^ref-29][^ref-28][^ref-31]
 - **Requirements (DOS):** 640K RAM, hard drive, mouse recommended. Supports Thunderboard, Pro Audio Spectrum, Sound Blaster, Ad Lib and Roland[^ref-29]
 - **Price at review:** $49.95[^ref-29]
 
@@ -159,7 +159,7 @@ No sales figures for Volume 3 specifically have been found. Sierra bundled it wi
 
 ### Fan Projects
 
-The game runs in ScummVM[^ref-36], and the Sierra Help Pages offer a fan-made DOSBox installer, which requires the original disks, and an animation-fix patch[^ref-39]. The Internet Archive preserves the playable demo and scans of the boxed paper materials[^ref-37][^ref-28].
+The game runs in ScummVM[^ref-36], and the Sierra Help Pages offer a fan-made DOSBox installer, which requires the original disks, and an animation-fix patch[^ref-39]. The Internet Archive preserves a self-running (non-interactive) demo and scans of the boxed paper materials[^ref-37][^ref-28].
 
 ### Related Publications
 
@@ -168,7 +168,7 @@ The game runs in ScummVM[^ref-36], and the Sierra Help Pages offer a fan-made DO
 
 ### Critical Perspective
 
-Volume 3 has had little critical attention, but contemporary and later reviewers agree on its strengths. Compute! and Home of the Underdogs both singled out the animated characters and boards, while PC Joker and Home of the Underdogs found the computer opponents less satisfying[^ref-29][^ref-34][^ref-38]. A Sierra Gamers forum member recalled "the first three in the series which I played a lot. Definitely Sierra classics"[^ref-26]. Fan-maintained Sierra release lists place "Hoyle 3" among Sierra's 1991 games[^ref-3], and GameFAQs lists it in the Hoyle franchise for PC and Amiga[^ref-2].
+Volume 3 has had little critical attention, but contemporary and later reviewers agree on its strengths. Compute! and Home of the Underdogs both singled out the animated characters and boards, while PC Joker found the computer opponents weak players and Home of the Underdogs regretted that there were fewer of them, with less frequent and less funny chatter[^ref-29][^ref-34][^ref-38]. A Sierra Gamers forum member recalled "the first three in the series which I played a lot. Definitely Sierra classics"[^ref-26]. Fan-maintained Sierra release lists place "Hoyle 3" among Sierra's 1991 games[^ref-3], and GameFAQs lists it in the Hoyle franchise for PC and Amiga[^ref-2].
 
 ## Downloads
 
@@ -177,7 +177,7 @@ Volume 3 has had little critical attention, but contemporary and later reviewers
 - [GOG Dreamlist – Hoyle Official Book of Games: Volume 3](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-3-1991)[^ref-41]
 
 **Download / Preservation**
-- [Internet Archive – Hoyle Official Book of Games: Volume 3 Demo](https://archive.org/details/HoyleOfficialBookofGamesVolume3_1020) — playable demo (six board games)[^ref-37]
+- [Internet Archive – Hoyle Official Book of Games: Volume 3 Demo](https://archive.org/details/HoyleOfficialBookofGamesVolume3_1020) — self-running (non-interactive) demo[^ref-37]
 - [Internet Archive – Hoyle Volume 3 paper instructions](https://archive.org/details/hoyle-offical-book-of-games-v3-instructions) — manual and box-insert scans[^ref-28]
 
 ## See Also
