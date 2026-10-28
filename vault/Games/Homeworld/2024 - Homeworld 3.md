@@ -10,18 +10,18 @@ series: Homeworld
 engine: Unreal Engine 4
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
-  and published by Gearbox Publishing, released on May 13, 2024 for Windows PC....
+  and published by Gearbox Publishing, released on May 13, 2024 for Windows PC.
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Homeworld 3 is a real-time strategy game developed by Blackbird Interactive and published by Gearbox Publishing, released on May 13, 2024 for Windows PC.[^ref-1] The game represents the long-awaited continuation of the legendary space-faring RTS franchise, arriving more than two decades after Homeworld 2's 2003 release.[^ref-17] Blackbird CEO Rob Cunningham called it "the realization of the vision of what we set out to create in the Homeworld series," with modern technology allowing "large-scale dynamic space combat packed with emotional sci-fi storytelling."[^ref-3]
+Homeworld 3 is a real-time strategy game developed by Blackbird Interactive and published by Gearbox Publishing, released on May 13, 2024 for Windows PC.[^ref-1] It arrived more than two decades after Homeworld 2's 2003 release.[^ref-17] Blackbird CEO Rob Cunningham called it "the realization of the vision of what we set out to create in the Homeworld series," with modern technology allowing "large-scale dynamic space combat packed with emotional sci-fi storytelling."[^ref-3]
 
 The game is set 100 years after the events of Homeworld 2,[^ref-11] when a mysterious, destructive Anomaly has begun shutting down the hyperspace gates that connected the galaxy.[^ref-4] Players command the Hiigaran Mothership Khar-Kushan, whose navigator Imogen S'Jet must find out what is causing the Anomaly,[^ref-5] while the legendary Karan S'Jet, her mentor, has disappeared and "passed into myth and religious idolatry."[^ref-3][^ref-7]
 
@@ -37,7 +37,6 @@ Blackbird Interactive bills the game as "Tactical, beautiful, and wholly unique,
 > **Series:** Homeworld
 > **Protagonist:** Imogen S'Jet
 > **Sierra Lineage:** Franchise Acquisition
-> **Designer:** Rob Cunningham, Lance Mueller, Aaron Kambeitz, Rory McGuire
 
 ## Story Summary
 
@@ -53,9 +52,9 @@ PCGamesN's reviewer "mostly enjoyed how the dramatic cutscenes seamlessly transi
 
 ### Interface and Controls
 
-Homeworld 3 maintains the series' signature fully 3D space combat, allowing players to command their fleets across all axes of movement in vast, open battlespaces.[^ref-17] The development team worked extensively to make the controls more accessible than previous entries, with Blackbird founder Rob Cunningham noting: "It's way easier to play Homeworld 3 than it was to play Homeworld 1."[^ref-17] The game offers multiple control schemes including traditional mouse-based camera control and a new WASD camera option for players who prefer that style.[^ref-18]
+Homeworld 3 keeps the series' familiar 3D RTS gameplay.[^ref-26] The development team worked extensively to make the controls more accessible than previous entries, with Blackbird founder Rob Cunningham noting: "It's way easier to play Homeworld 3 than it was to play Homeworld 1."[^ref-17] The game offers multiple control schemes including traditional mouse-based camera control and a new WASD camera option for players who prefer that style.[^ref-18]
 
-The interface builds upon the classic Homeworld control scheme while introducing modern quality-of-life improvements.[^ref-21] Players can issue commands to individual ships or grouped squadrons, with the ability to assign formations, attack patterns, and movement orders through the command interface. However, some critics found unit responsiveness inconsistent: Eurogamer wrote that when you ask a ship to back away from certain death, "they'll either ignore the call or respond so lazily that they'll lose almost all of their hitpoints in the process."[^ref-20]
+Pre-release coverage promised "considerable improvement to overall UI and UX design."[^ref-26] Players can issue commands to individual ships or grouped squadrons, with the ability to assign formations, attack patterns, and movement orders through the command interface. However, some critics found unit responsiveness inconsistent: Eurogamer wrote that when you ask a ship to back away from certain death, "they'll either ignore the call or respond so lazily that they'll lose almost all of their hitpoints in the process."[^ref-20]
 
 ### Structure and Progression
 
@@ -111,11 +110,11 @@ Critic and player scores diverged sharply.[^ref-36]
 - **Metacritic (Critic):** 75/100 (41 reviews, Generally Favorable)[^ref-36]
 - **Metacritic (User):** 3.1/10 (86 ratings, Generally Unfavorable)[^ref-36]
 - **OpenCritic:** 77 Top Critic Average (33 critic reviews), 70% of critics recommend[^ref-29]
-- **Steam:** Mixed, 41% positive of 3,175 English reviews (October 2026);[^ref-71] 38% of over 4,500 reviews in November 2024[^ref-38]
+- **Steam:** Mixed, 41% positive of 3,175 English-language reviews (October 2026);[^ref-71] in November 2024 PCGamesN counted 38% positive of the more than 4,500 user reviews posted to Steam in total[^ref-38]
 
 According to PCGamesN, the game was criticized for its story and for mechanics "which felt overly streamlined compared to other games in the series."[^ref-16] Technical issues at launch, including what Digital Trends called "egregious pathfinding problems and combat AI woes" and co-op disconnections, further dampened reception.[^ref-33]
 
-In November 2024, when Blackbird announced that Update 1.3 would be the game's "last major content update," PCGamesN reported an average concurrent Steam player base of less than 50.[^ref-38]
+In November 2024, when Blackbird announced that Update 1.3 would be the game's "last major content update," PCGamesN reported an average concurrent Steam player base of less than 50.[^ref-38] On October 28, 2026, SteamCharts showed a 30-day average of 26.8 concurrent players, with a peak of 62.[^ref-81]
 
 ## Development
 
@@ -123,7 +122,7 @@ In November 2024, when Blackbird announced that Update 1.3 would be the game's "
 
 The genesis of Homeworld 3 stretches back to the original development of Homeworld 2 in the early 2000s. As Blackbird founder Rob Cunningham put it: "In essence, Homeworld 3 was our original dream for Homeworld 2." He called the vision "utterly impossible" with the technology of the time: "We couldn't do massive environments with these megaliths, so we had to wait 20 years."[^ref-17]
 
-Blackbird Interactive was founded by former Relic Entertainment staff who had worked on the original Homeworld games. MobyGames gives 2010 as the founding year, and Cunningham told Eurogamer "When I started Blackbird it was 2010";[^ref-41][^ref-42] the Homeworld fan wiki instead dates it to 2007 and says the founders left because THQ was no longer interested in more ambitious strategy games.[^ref-39] The studio's first project was Hardware, a free-to-play strategy game inspired by Homeworld.[^ref-41]
+Blackbird Interactive was founded by former Relic Entertainment staff who had worked on the original Homeworld games. MobyGames gives 2010 as the founding year, and Cunningham told Eurogamer "When I started Blackbird it was 2010";[^ref-41][^ref-42] Wikipedia and the Homeworld fan wiki instead date it to 2007,[^ref-80][^ref-39] and the fan wiki says the founders left because THQ was no longer interested in more ambitious strategy games.[^ref-39] The studio's first project was Hardware, a free-to-play strategy game inspired by Homeworld.[^ref-41]
 
 When THQ went bankrupt in 2013, Gearbox Software emerged as the highest bidder for the Homeworld franchise, acquiring the IP with stated intentions to "preserve and assemble the purest form of the original acclaimed and beloved games."[^ref-40] A deal was subsequently signed at PAX between Gearbox and Blackbird Interactive to transform Hardware into the next official Homeworld game.[^ref-41] This became the prequel Homeworld: Deserts of Kharak, released in January 2016.[^ref-41]
 
@@ -135,7 +134,7 @@ The crowdfunding campaign set a symbolic $1 goal, intended primarily as a commun
 
 In June 2021 the investment portion of the Fig campaign was cancelled following Embracer Group's acquisition of Gearbox earlier that year, with Fig CEO Justin Bailey confirming "no money ever changed hands" regarding the investment component.[^ref-45] Randy Pitchford, Gearbox studio boss, described the acquisition as "like a rocket booster to our ambitions."[^ref-45]
 
-In August 2022 Cunningham described the Homeworld 3 team as "40-odd" people within a studio of "330-something";[^ref-42] the full MobyGames credits list 1,115 people (1,088 professional roles).[^ref-8] Blackbird moved to a four-day work week during development: after a September–December 2021 pilot with two teams, it announced in February 2022 that all projects would switch from April 2022.[^ref-80][^ref-41] Chief Creative Officer Rory McGuire told Game Rant that August: "It's been amazing. It's been really amazing... numbers-wise, it's almost identical to where we were with the five-day work week, except everyone is more refreshed."[^ref-68]
+In August 2022 Cunningham described the Homeworld 3 team as "40-odd" people within a studio of "330-something";[^ref-42] MobyGames' credits for the game listed 849 people (822 professional roles) as of July 2024.[^ref-8] Blackbird moved to a four-day work week during development: after a September–December 2021 pilot with two teams, it announced in February 2022 that all projects would switch from April 2022.[^ref-80][^ref-82] Chief Creative Officer Rory McGuire told Game Rant that August: "It's been amazing. It's been really amazing... numbers-wise, it's almost identical to where we were with the five-day work week, except everyone is more refreshed."[^ref-68]
 
 The game underwent multiple delays from its original Q4 2022 target.[^ref-3] In June 2022 it moved to the first half of 2023; the statement promised to deliver quality "in a healthy and sustainable way for all those involved." PC Gamer read this as avoiding crunch, while noting that "the word 'crunch' isn't used anywhere in the message."[^ref-77][^ref-47] In May 2023 the game slipped to February 2024.[^ref-78] It was later set for March 8, 2024, then on February 7, 2024 delayed to May 13 after feedback from the public War Games demo and outside playtesters.[^ref-48]
 
@@ -194,9 +193,10 @@ No cut content has been publicly documented. At launch, New Game Network wrote t
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | May 13, 2024 | Global release[^ref-1] |
-| 1.1 | June 11, 2024 | Over 100 bug fixes and gameplay improvements[^ref-16] |
+| 1.1 | June 10, 2024 | Over 100 bug fixes and gameplay improvements[^ref-84][^ref-16] |
 | 1.2 | August 15, 2024 | Gameplay improvements, bug fixes, free Skirmish maps, Kalan Raiders DLC support[^ref-79] |
 | 1.3 | November 21, 2024 | Last major content update: armor and weapon overhaul, 45 new War Games artifacts, new Reinforce ability[^ref-53][^ref-38] |
+| 1.31 | December 18, 2024 | Fix for crashes on boot with Intel Arc GPUs[^ref-85] |
 
 ### Technical Issues
 
@@ -249,13 +249,13 @@ On September 20, 2024, Blackbird said it would combine all remaining paid DLC an
 
 ### Fan Projects
 
-The game supports modding through mod.io, with a custom in-game browser for downloading player-made Skirmish maps. Blackbird's custom Unreal editor for modders was not ready at launch; the studio said in May 2024 that it was still finalizing it for public release.[^ref-24]
+The game supports modding through mod.io, with a custom in-game browser for downloading player-made Skirmish maps. Blackbird's custom Unreal editor for modders was not ready at launch; the studio said in May 2024 that it was still finalizing it for public release.[^ref-24] It arrived on June 13, 2024 as the free Homeworld 3 Mod Tools & Editor, downloadable from the Epic Games Store, for building Skirmish maps and publishing them to mod.io.[^ref-83]
 
 ### Critical Perspective
 
 Homeworld 3 arrived 21 years after Homeworld 2.[^ref-34] Reviewers singled out its looks, with Geek Sleep Rinse Repeat calling it "one of the best-looking games I've played this year, no doubt about it."[^ref-63] Player reception was harsher, centring on the story and on mechanics that felt "overly streamlined" next to earlier entries.[^ref-16]
 
-Blackbird ended active development with Update 1.3, about six months after launch.[^ref-38] At launch, lead producer Iain Myers-Smith had said: "We're on the cusp of a potential RTS Renaissance."[^ref-54] Back in 2022, Rory McGuire had described making the sequel as "a bit of a dream. Not quite a dream come true, but a dream brought to life."[^ref-68]
+Update 1.3, about six months after launch, was the game's last major content update;[^ref-38] a small Update 1.31 followed on December 18, 2024 to fix crashes on Intel Arc GPUs.[^ref-85] At launch, lead producer Iain Myers-Smith had said: "We're on the cusp of a potential RTS Renaissance."[^ref-54] Back in 2022, Rory McGuire had described making the sequel as "a bit of a dream. Not quite a dream come true, but a dream brought to life."[^ref-68]
 
 ## Downloads
 
@@ -282,10 +282,10 @@ Blackbird ended active development with Update 1.3, about six months after launc
 [^ref-17]: [GamesRadar+ – Homeworld 3 director says he's been waiting 20 years to make his "dream" strategy game](https://www.gamesradar.com/homeworld-3-director-says-hes-been-waiting-20-years-to-make-his-dream-strategy-game/) – Jan 15, 2024; Cunningham interview originally given to PC Gamer; development timeline, original vision
 [^ref-3]: [Gearbox Publishing – Fleet Command Online Press Release](https://web.archive.org/web/20220627153729/https://www.gearboxpublishing.com/press_release/fleet-command-online-homeworld-3-to-launch-worldwide-in-q4-2022/) (archived; original gearboxpublishing.com URL now redirects to 2k.com) – gameplay features, development philosophy
 [^ref-4]: [Gaming Bolt – Homeworld 3 Interview](https://gamingbolt.com/homeworld-3-interview-megaliths-story-war-games-and-more) – story premise, design philosophy
-[^ref-5]: [GameSpot – Units and Ships Guide](https://www.gamespot.com/gallery/homeworld-3-units-ships-campaign-guide/2900-5370/) – story context, gameplay mechanics
+[^ref-5]: [GameSpot – Units and Ships Guide](https://www.gamespot.com/gallery/homeworld-3-units-ships-campaign-guide/2900-5370/) ([archived Nov 2024](https://web.archive.org/web/20241117161940/https://www.gamespot.com/gallery/homeworld-3-units-ships-campaign-guide/2900-5370/)) – "Imogen S'jet, the navigator of the Hiigaran Khar-Kushan Mothership"; story context, gameplay mechanics
 [^ref-6]: [Blackbird Interactive – Homeworld 3](https://www.blackbirdinteractive.com/homeworld3) – official game description
 [^ref-7]: [CGMagazine – Homeworld 3 Review](https://www.cgmagonline.com/review/game/homeworld-3-pc-review/) – gameplay assessment, story summary
-[^ref-8]: [MobyGames – Homeworld 3 Credits](https://www.mobygames.com/game/223801/homeworld-3/credits/windows/) – "1,115 people (1,088 professional roles, 27 thanks)"; full credits, voice cast
+[^ref-8]: [MobyGames – Homeworld 3 Credits](https://www.mobygames.com/game/223801/homeworld-3/credits/windows/) ([archived Jul 27, 2024](https://web.archive.org/web/20240727175645/https://www.mobygames.com/game/223801/homeworld-3/credits/windows/)) – "849 people (822 professional roles, 27 thanks)" in the archived copy; full credits, voice cast, "In memory of Alex Gomersall (1981-2022)"
 [^ref-9]: [PCGamingWiki – Homeworld 3 (engine note)](https://www.pcgamingwiki.com/wiki/Homeworld_3) – "Unreal Engine 4 engine build: 4.27.2"
 [^ref-10]: [Hardcore Gamer – Homeworld 3 Preview](https://hardcoregamer.com/blackbird-interactive-looks-to-revive-a-strategy-classic-with-homeworld-3/) – franchise history, setting
 [^ref-11]: [Gamers Heroes – Launch Announcement](https://www.gamersheroes.com/gaming-news/sci-fi-epic-homeworld-3-now-available/) – story details, features
@@ -346,3 +346,8 @@ Blackbird ended active development with Update 1.3, about six months after launc
 [^ref-78]: [IGN – Homeworld 3 Has Been Delayed to 2024](https://www.ign.com/articles/homeworld-3-has-been-delayed-to-2024) – May 25, 2023; "delayed to February 2024"
 [^ref-79]: [Homeworld Universe – Kalan Raiders join War Games on August 15!](https://www.homeworlduniverse.com/kalan-raiders-join-war-games-on-august-15/) – Aug 13, 2024; "Update 1.2 ... will arrive on August 15"
 [^ref-80]: [Wikipedia – Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) – "From September to December 2021, Blackbird trialed the four-day work week with two of its teams"; all teams "beginning in April 2022"
+[^ref-81]: [SteamCharts – Homeworld 3](https://steamcharts.com/app/1840080) – "Last 30 Days 26.83" average players, peak 62 (checked Oct 28, 2026)
+[^ref-82]: [Techcouver – Blackbird Interactive To Implement Four-day Work Week](https://techcouver.com/2022/02/10/blackbird-interactive-to-implement-four-day-work-week/) – Feb 10, 2022; "implementing a studio-wide four-day work week beginning in April of 2022"
+[^ref-83]: [Steam News – Homeworld 3 Mod Tools & Editor is Now Available for Modders!](https://store.steampowered.com/news/app/1840080/view/6890025005349358153) – Jun 13, 2024; "download the Homeworld 3 Mod Tools & Editor for free on the Epic Game Store"; maps published via mod.io
+[^ref-84]: [Steam News – Homeworld 3 Update 1.1](https://store.steampowered.com/news/app/1840080/view/5746109972563963777) – Jun 10, 2024; "over 100 bug fixes and gameplay improvements"
+[^ref-85]: [Steam News – Homeworld 3 Update 1.31 Notes](https://store.steampowered.com/news/app/1840080/view/1786409468849895) – Dec 18, 2024; "Addresses an issue causing players equipped with Intel Arc GPUs to crash on boot"
