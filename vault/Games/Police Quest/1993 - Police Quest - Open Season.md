@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI2
 protagonist: Detective John Carey
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Police Quest: Open Season, released in 1993, marked a radical departure
   from the established Police Quest series. Produced by Sierra On-Line in cooperation
   with former LAPD chief Daryl F. Gates...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ As part of Ken Williams' ambitious Reality Role-Playing series, the game represe
 
 ## Story Summary
 
-The game opens at a crime scene described by the narrator: "The tortured and tormented body of Bob Hickman, LAPD, lies lifeless among the alley debris. An obvious case of felonious homicide"[^ref-6]. Detective John Carey must investigate the murder of his best friend Officer Bob Hickman and 8-year-old Bobby Washington, whose body is found in a dumpster at the start of the game[^ref-7]. As one reviewer noted, "the game's gritty realism greatly depicts the gory life of a homicide detective. This in turn made some scenarios down-right gruesome to investigate"[^ref-7].
+The game opens at a crime scene described by the narrator: "The tortured and tormented body of Bob Hickman, LAPD, lies lifeless among the alley debris. An obvious case of felonious homicide"[^ref-6]. Detective John Carey must investigate the murder of his best friend Officer Bob Hickman and 8-year-old Bobby Washington[^ref-15], whose body is found in a dumpster at the start of the game[^ref-7]. As one reviewer noted, "the game's gritty realism greatly depicts the gory life of a homicide detective. This in turn made some scenarios down-right gruesome to investigate"[^ref-7].
 
 The story involves Carey tracking down a mass murderer, which takes elements from several books, such as Silence of the Lambs[^ref-7]. According to IMDb's trivia page, the killer is believed to be based on the serial murderer Jeffrey Dahmer[^ref-8]. Throughout the investigation, players are expected to follow LAPD procedure[^ref-18].
 
@@ -54,7 +54,7 @@ Like earlier Police Quest games, Open Season emphasizes following "realistic" po
 
 ### Structure and Progression
 
-Points are awarded for finding key information and clues, and PC Gamer notes that the final score "is determined by how many clues you gathered and how closely you followed procedure"[^ref-12]. Players received feedback when they deviated from proper police protocol, with messages like "Deadly use of force was not tactically correct!" appearing when inappropriate actions were taken[^ref-12]. This realistic approach meant that "the sheer level of realism in this game is groundbreaking, if not a bit annoying at times"[^ref-13].
+Points are awarded for finding key information and clues, and PC Gamer notes that the final score "is determined by how many clues you gathered and how closely you followed procedure"[^ref-12]. Breaking protocol can end the game outright, with game-over messages like "Deadly use of force was not tactically correct!" when the player, for example, draws a gun on a grieving widow[^ref-12]. This realistic approach meant that "the sheer level of realism in this game is groundbreaking, if not a bit annoying at times"[^ref-13].
 
 The investigation took players through multiple floors of Parker Center (LAPD headquarters), which were recreated in the game[^ref-22]. Chief Gates wanted to keep the game as realistic as possible and insisted on using actual LA locations; some were only available to the police, and the designers could photograph them only thanks to Gates' connections[^ref-15]. Just Games Retro's reviewer supposed that having Gates attached "opened a lot of doors" and won cooperation from the department and the mayor's office, and lists apparently authentic locations from the county morgue, civic center and police academy[^ref-22].
 
@@ -81,12 +81,12 @@ The game carries an ESRB rating of Teen.[^ref-15]
 
 ### Modern Assessment
 
-Modern retrospective reviews have been largely critical of the game.
+Modern retrospective reviews have been largely critical of the game[^ref-18].
 
 | Aggregate | Score | Notes |
 |-----------|-------|-------|
 | MobyGames Critics | 73% | 23 ratings, Oct 2026[^ref-26] |
-| IMDb | 6.8/10 | 92 votes, Oct 2026[^ref-20] |
+| IMDb | 6.8/10 | 93 votes, Oct 2026[^ref-20] |
 
 In a 2013 review, Scott Bruner of Adventure Gamers gave it 2 stars ("There are some good elements that shine through occasionally, but generally the game is not a positive experience")[^ref-23]. The review criticized the "voice acting Ed Wood would love" and noted that "with a conclusion that borders on incomprehensible, Police Quest 4 offers impressive technological advances from previous games in the series, but loses their simpler charms"[^ref-23].
 
@@ -116,8 +116,6 @@ The game came with an abridged LAPD manual of about 50 pages[^ref-14], which con
 
 ### Cast
 
-The CD-ROM re-release added 10,000 lines of dialogue for a fully voiced version.[^ref-22] Several Sierra employees also appeared as actors in the game.[^ref-8]
-
 **Principal Cast (in-game credits):**[^ref-6][^ref-20]
 
 | Actor | Character |
@@ -132,7 +130,7 @@ The CD-ROM re-release added 10,000 lines of dialogue for a fully voiced version.
 | Dana Dean | Kristy Bilden |
 | Frank Shears | Hal Bottoms |
 | Leslie Wallace | Sherry Moore |
-| Mark Russel | Russel Marks |
+| Mark Russell | Russel Marks |
 | Barbara Shannon | Barbie Cann |
 | Liz Jacobs | Electra |
 | Keith Arthur Bolden | Ragtopp Spiff |
@@ -141,7 +139,7 @@ The CD-ROM re-release added 10,000 lines of dialogue for a fully voiced version.
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | November 27, 1993 | DOS | Original floppy release[^ref-11] |
+| Floppy | November 27, 1993 | DOS | Original floppy release[^ref-11] |
 | CD-ROM | 1994 | DOS/Windows | Recorded audio replaces on-screen text[^ref-18]; 10,000 lines of dialogue[^ref-22] |
 | — | 1993 | Mac OS | Macintosh release[^ref-15] |
 | Digital | 2011 | Windows | GOG.com release as part of Police Quest Collection[^ref-9][^ref-40] |
@@ -162,7 +160,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 **Download / Preservation**
 - [Internet Archive - Manual](https://archive.org/details/Police_Quest_4_-_Manual)[^ref-41]
-- [Internet Archive - Video Review](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
+- [Internet Archive - Video playthrough](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
 
 ## See Also
 
@@ -186,18 +184,18 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-15]: [MobyGames - Main Entry](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – - Credits (Tammy Dargan "Producer \ Director", "Designer \ Writer"; Daryl F. Gates "Author"), 1993 DOS/Windows/Mac releases, ESRB Teen, location trivia
 [^ref-16]: [The Adventurers' Guild – Game 149: Police Quest: Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – - Development background; quotes Jim Walls on leaving Sierra
 [^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – - Release, platforms, imagery from video recordings and LA photographs, contemporary reception, criticism, sales
-[^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings (6.8/10 from 92 votes, Oct 2026)
+[^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings (6.8/10 from 93 votes, Oct 2026)
 [^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review: LAPD/mayor's office cooperation, Parker Center, 10,000 lines of dialogue
 [^ref-23]: [Adventure Gamers – Police Quest: Open Season review (Scott Bruner, May 10, 2013; Wayback Machine copy)](https://web.archive.org/web/20130608013207/http://www.adventuregamers.com/articles/view/24244) – - 2 stars; archived pre-sale copy (the live site is now a casino affiliate)
 [^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – - Personal retrospective review
 [^ref-25]: [Adventure Game Hotspot](https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective) – - Critical retrospective analysis
-[^ref-26]: [MobyGames Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Critics average 73% from 23 ratings (checked Oct 2026)
+[^ref-26]: [MobyGames Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Critics average 73% from 23 ratings (checked Oct 28, 2026)
 [^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - SCI2 engine and 640×480 support, Dargan background
 [^ref-34]: [MobyGames User Review - ETJB, "Ahead of Its Time" (2010)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – - Puzzles and procedure; comparison with Grand Theft Auto
 [^ref-39]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – - Current digital availability (released Aug 29, 2016)
 [^ref-40]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – - Digital distribution platform availability
 [^ref-41]: [Internet Archive Manual](https://archive.org/details/Police_Quest_4_-_Manual) – - Game manual preservation
-[^ref-42]: [Internet Archive Video Review](https://archive.org/details/live-wire-police-quest-open-season) – - Video playthrough preservation
+[^ref-42]: [Internet Archive – Live Wire: Police Quest Open Season (Noah Antwiler)](https://archive.org/details/live-wire-police-quest-open-season) – - Video playthrough preservation
 [^ref-48]: [The Digital Antiquarian – Spycraft: The Great Game, Part 1](https://www.filfre.net/2023/03/spycraft-the-great-game-part-1-or-parallel-spies/) – "the jingoistic Gates game is a prime case in point"
 [^ref-47]: [Retro365 Blog - Police Quest History](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) – "first fully photo-realistic" Sierra game, historical context *(note: this post's MA-17 rating and 1996 CD-ROM date conflict with MobyGames' ESRB Teen and Wikipedia's 1994 CD release)*
 [^ref-49]: [Computer Gaming World Issue 116 (March 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_116) – - Dennis Owens, "Book 'em, Daryl!", p. 45: "moody and evocative" score; "Open Season tells that story magnificently"
