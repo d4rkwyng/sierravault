@@ -7,7 +7,7 @@
 import fs from "fs"
 import path from "path"
 
-const ROOT = "public"
+const ROOT = process.env.QUARTZ_OUT || "public"  // build.sh QUARTZ_OUT
 const PREF = ["developers", "publishers", "designers", "series", "games", "guides", "technology", "reference"]
 
 function walk(dir) {

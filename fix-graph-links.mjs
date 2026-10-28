@@ -6,7 +6,7 @@
 // slug so edges connect.
 import fs from "fs"
 
-const PATH = "public/static/contentIndex.json"
+const PATH = (process.env.QUARTZ_OUT || "public") + "/static/contentIndex.json"  // build.sh QUARTZ_OUT
 const ci = JSON.parse(fs.readFileSync(PATH, "utf8"))
 const keys = Object.keys(ci)
 

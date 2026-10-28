@@ -77,3 +77,9 @@ tsconfig.tsbuildinfo
 
 # Quartz v5 remote plugins (fetched by plugin install)
 .quartz/
+
+# mirror-rebuild.sh debounce timestamp
+.last-build
+# mirror-rebuild.sh releases (public is a symlink to one)
+releases/
+public.tmp
