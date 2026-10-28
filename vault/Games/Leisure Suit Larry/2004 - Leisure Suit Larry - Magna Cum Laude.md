@@ -26,7 +26,7 @@ Leisure Suit Larry: Magna Cum Laude is the seventh installment in the long-runni
 
 The game represented a significant shift in both gameplay and tone, abandoning the adventure game elements in favor of a collection of mini-games while embracing a more explicit approach to adult humor.[^ref-4] Notably, series creator Al Lowe had no involvement in the game's development despite initial promises from Sierra, leading him to publicly denounce the title.[^ref-5] The game's product description says it was inspired by the humor of films such as American Pie and There's Something About Mary.[^ref-6]
 
-The game received mixed reviews, with critics often praising its humor and dialogue while panning its shallow mini-game gameplay; GameSpot also faulted the long load times of the console versions.[^ref-1][^ref-7] In North America it shipped as an edited, M-rated release on all three platforms; an unedited, Adults Only "Uncut and Uncensored!" edition with full frontal nudity followed in late October 2004 for Windows only.[^ref-1][^ref-8] In Europe the standard release was the uncut version on all three systems, and the digital releases are also the uncut edition.[^ref-1][^ref-25]
+The game received mixed reviews, with critics often praising its humor and dialogue while panning its shallow mini-game gameplay; GameSpot also faulted the long load times of the console versions.[^ref-1][^ref-7] In North America it shipped as an edited, M-rated release on all three platforms; an unedited, Adults Only "Uncut and Uncensored!" edition with full frontal nudity followed in late 2004 for Windows only.[^ref-1][^ref-8][^ref-25] In Europe the standard release was the uncut version on all three systems, and the digital releases are also the uncut edition.[^ref-1][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** High Voltage Software[^ref-1]
@@ -43,7 +43,7 @@ The game received mixed reviews, with critics often praising its humor and dialo
 
 Larry Lovage is a seventh-year junior at Walnut Log Community College,[^ref-29] a hapless young man who has learned everything he knows from his uncle, Larry Laffer—the famous polyester-clad fellow who starred in the previous games.[^ref-2] When the reality dating show "Swingles" comes to campus, Larry sees his opportunity to finally achieve romantic success and live up to the legend of his uncle.[^ref-9][^ref-29]
 
-The game follows Larry as he attempts to woo sixteen college girls across the college campus and surrounding areas, collecting "confidence points" and tokens to unlock his path to the Swingles competition.[^ref-10] His romantic pursuits take him through over twenty locations including the girls' dormitory, fraternity houses, a nightclub, the campus library, and various other college hotspots.[^ref-11] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
+The game follows Larry as he attempts to woo sixteen college girls, winning "tokens of affection" from them to earn his place on the Swingles show.[^ref-1][^ref-10] The game's retail feature list promised 25 interactive locations, including the girls' dorm, a frat house and a nightclub;[^ref-11] Larry's pursuits also take him into the campus library.[^ref-10] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
 
 After several rounds on the Swingles show, Larry becomes a finalist and goes on a date with three girls, choosing one of them to bring back to his room.[^ref-1] The finalists are always the same three: Barbara Jo, Morgan, and Suzie; the player's pick among them determines which of the game's three endings plays.[^ref-2][^ref-12]
 
@@ -57,7 +57,7 @@ Larry Laffer himself gets a line that nods to the change: "Whatever happened to 
 
 ### Structure and Progression
 
-The game is structured around Larry's pursuit of various women across the campus, with each romantic interest requiring the completion of multiple mini-games and conversation sequences.[^ref-16] Progress is measured through a confidence meter and the collection of secret tokens scattered throughout the environment.[^ref-17]
+The game is structured around Larry's pursuit of various women across the campus; the player usually has to play a handful of mini-games before "winning" a girl and her token of affection, and collecting enough tokens opens up new areas of the campus.[^ref-4] Larry also has a confidence meter, and perfect scores in mini-games earn Secret Tokens.[^ref-22]
 
 **Key Locations:**
 - **Larry's Dorm Room** – Starting location and base of operations
@@ -74,7 +74,7 @@ The game is structured around Larry's pursuit of various women across the campus
 Rather than traditional adventure game puzzles, Magna Cum Laude relies entirely on mini-games to drive progression.[^ref-4] The core conversation mechanic involves controlling a sperm-shaped icon that must navigate through "good" and "bad" dialogue options, with successful navigation leading to favorable responses from romantic interests.[^ref-19] Consuming alcohol in-game makes this sperm icon less responsive, adding a layer of strategic consideration.[^ref-20]
 
 The mini-games include variations on classic arcade concepts:
-- **Tapper** – Bartending sequences based on the 1983 arcade game[^ref-21]
+- **Tapper** – An "updated" take on the 1983 arcade game, played to earn cash: hurling fliers at college students or throwing food at monkeys[^ref-21]
 - **Quarters** – Drinking games against various characters
 - **Whack-a-Mole variants** – Including suggestive variations
 - **Trampoline sequences** – Rhythm-based jumping challenges
@@ -99,13 +99,13 @@ Leisure Suit Larry: Magna Cum Laude received mixed reviews upon release, with cr
 
 **Negative Reviews:**
 - Electronic Gaming Monthly gave a devastating 2.5/10 for PS2 and Xbox versions[^ref-1]
-- Official Xbox Magazine (US) scored it 2.3/10[^ref-28]
+- Official Xbox Magazine (US) scored it 2.3/10[^ref-1]
 - PC Gamer (US) awarded only 39%[^ref-1]
 - GameRevolution's Joe Dodson called it "Leisure Suit Larry: Magna Cum Laude is one of the worst games we've ever seen" and "possibly the most powerful anti-sex weapon ever devised."[^ref-21]
 - GameCritics gave 3.5/10, stating "it's really just a terrible, terrible game that wouldn't be able to justify its own existence without the gleefully gratuitous content."[^ref-23]
 - GameSpy's Sal Accardo wrote: "This new Larry, sadly, oozes mediocrity in every department: the comedy falls flat, the gameplay quickly becomes boring and repetitive."[^ref-29]
 
-The game was nominated for GameSpot's annual "Funniest Game" award but lost to Grand Theft Auto: San Andreas.[^ref-28]
+The game was nominated for GameSpot's annual "Funniest Game" award but lost to Grand Theft Auto: San Andreas.[^ref-1]
 
 ### Modern Assessment
 
@@ -113,7 +113,7 @@ Modern retrospectives have generally been unkind to Magna Cum Laude, viewing it 
 
 **Aggregate Scores:**
 - **Metacritic:** 59/100 (PC, 37 critic reviews), 60/100 (PS2, 44 reviews), 62/100 (Xbox, 49 reviews)[^ref-1][^ref-49][^ref-48][^ref-24]
-- **MobyGames:** 61% critic average (50 ratings)[^ref-2]
+- **MobyGames:** 60% critic average (42 ratings, as archived May 2026)[^ref-3]
 - **IMDB:** 5.9/10[^ref-30]
 - **GOG User Reviews:** 2.6/5 (113 reviews, October 2026)[^ref-9]
 - **HowLongToBeat:** 61% user rating[^ref-32]
@@ -152,7 +152,7 @@ Writer Cary Okmin, who said he and his writing partner had been hired to write t
 
 The game marked the franchise's leap into full 3D graphics;[^ref-4] one MobyGames player review notes that the characters are motion-captured, "though the lip synching can look very off at times."[^ref-34] Performance drew criticism mainly on consoles: GameSpot found the console versions' load times "horrendous" while the PC version was "entirely devoid" of them,[^ref-7] and Eurogamer called the PS2 version's loading "horrendous" and the game "one of the least optimised pieces of coding we've seen in a good while."[^ref-26]
 
-The game featured over 90,000 words of spoken dialogue across its dozen hours of gameplay, representing a substantial voice production effort.[^ref-11]
+The game's retail feature list advertised more than 90,000 words of spoken dialogue,[^ref-11] and GameSpot put the whole game at "about a dozen hours long."[^ref-7]
 
 ### Technical Specifications
 
@@ -187,7 +187,7 @@ The game suffers from several technical problems that persist to modern day:
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 (Cut) | October 5, 2004 | Windows, PS2, Xbox | Initial North American release, M-rated[^ref-8] |
-| Uncut and Uncensored | Late October 2004 (Oct 22 per MobyGames, Oct 26 per Gamicus) | Windows | North American AO-rated version with full nudity[^ref-8][^ref-25] |
+| Uncut and Uncensored | Late 2004 (Oct 26 per Gamicus; MobyGames lists the US release as November 2004) | Windows | North American AO-rated version with full nudity[^ref-8][^ref-25] |
 | European Release | Oct/Nov 2004 | Windows, PS2, Xbox | Released unedited on all three systems[^ref-1] |
 | GOG Release | May 14, 2013 | Windows | Digital distribution of Uncut version[^ref-36] |
 
@@ -197,7 +197,7 @@ The game suffers from several technical problems that persist to modern day:
 
 The game contains numerous references to both the original Leisure Suit Larry series and broader pop culture:
 
-- **Leisure Suit Larry 4 Reference:** Larry's computer in his dorm room displays screens from "Leisure Suit Larry 4: The Missing Floppies," the legendary cancelled/nonexistent fourth game[^ref-1]
+- **Leisure Suit Larry 4 Reference:** Larry's computer in his dorm room displays screens from "Leisure Suit Larry 4: The Missing Floppies," the legendary nonexistent fourth game[^ref-1]
 - **Where's Dildo? Tokens:** Secret collectible tokens throughout the game feature the "Where's Dildo?" character from Leisure Suit Larry 7: Love for Sail[^ref-1]
 - **The Facts of Life:** Sorority house bedrooms feature names of all the girls from the classic TV sitcom[^ref-7]
 - **Road House Reference:** A talking arcade machine in the game references the Patrick Swayze film[^ref-7]
@@ -265,7 +265,7 @@ The game features a mix of licensed tracks and original compositions:[^ref-41]
 | Me So Horny | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
 | Hey There Lonely Girl | Eddie Holman | Leon Carr, Earl Shuman |
 | Girlschool | Britny Fox | Dizzy Dean Davidson |
-| I'm Too Sexy | Right Said Fred | Richard Fairbrass, Fred Fairbrass, Rob Manzoli |
+| I'm Too Sexy | Right Said Fred | Richard Fairbrass, Fred Fairbrass |
 | Pop That Coochie | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
 | Up All Night | Slaughter | Mark Slaughter, Dana Strum |
 | Yakety Sax | — | Boots Randolph, James Rich |
@@ -276,7 +276,7 @@ The game features a mix of licensed tracks and original compositions:[^ref-41]
 
 ### Sales and Commercial Impact
 
-Magna Cum Laude represented the final Leisure Suit Larry game released under the Sierra Entertainment banner before the rights were sold to Codemasters.[^ref-1] The game's controversial Adults Only rating for its uncut version meant that major retailers such as Toys R Us refused to stock it, limiting its commercial reach.[^ref-8]
+Magna Cum Laude represented the final Leisure Suit Larry game released under the Sierra Entertainment banner before the rights were sold to Codemasters.[^ref-1] The game's controversial Adults Only rating for its uncut version meant that many stores, such as Toys R Us, refused to sell it.[^ref-8]
 
 The game was effectively banned in Australia: the OFLC refused classification to both the cut and uncut versions.[^ref-1] The refusal took effect on 9 September 2004, after Vivendi Universal Australia submitted the less explicit US version; Vivendi declined to submit a further-edited version.[^ref-39]
 
@@ -302,7 +302,7 @@ An unofficial nude patch was released on October 25, 2004, allowing players to r
 
 Leisure Suit Larry: Magna Cum Laude occupies an uncomfortable position in adventure gaming history. It represents both the commercial reality of the mid-2000s gaming market—where classic adventure games had fallen out of favor—and the dangers of reviving a beloved property without its original creative vision.
 
-The game's shift from point-and-click adventure to mini-game collection reflected broader industry trends but alienated the series' core fanbase. As one MobyGames reviewer pleaded: "Al Lowe, forgive them, for they do not know what they are doing."[^ref-2] The change in humor from subtle double entendres to explicit content was seen as fundamentally misunderstanding what made the original games appealing.[^ref-1]
+The game's shift from point-and-click adventure to mini-game collection reflected broader industry trends but alienated the series' core fanbase. As one MobyGames reviewer pleaded: "Al Lowe, forgive them, for they do not know what they are doing."[^ref-2] Many critics found its sexual content and humor too direct and obvious, arguing that much of the series' charm had lain in its subtler double entendres.[^ref-1]
 
 However, some critics and players found genuine entertainment value in the game's unabashed crudeness. GameSpot's assessment that it was "not a recommendable 'game,' per se, so much as it is a recommendable experience"[^ref-7] captures the title's peculiar legacy—a game that works despite itself through sheer comedic commitment. Jeffrey McGee argued it may be "The Funniest Game Ever... and Nobody Knows It," noting that "Magna Cum Laude is one of the few games ever where it is actually fun to lose because by choosing the ill-advised dialogue choices, Larry will say some of the funniest things ever uttered by any video game character."[^ref-19]
 
@@ -330,32 +330,30 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 
 ## References
 
-[^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information
+[^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information; "Sixteen college girls"; OXM 2.3/10; GameSpot "Funniest Game" nomination; humor "too direct and obvious"
 [^ref-2]: [MobyGames – Leisure Suit Larry: Magna Cum Laude](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – developer credits, awards, trivia, user reviews
-[^ref-4]: [Hardcore Gaming 101 – Leisure Suit Larry: Magna Cum Laude](http://www.hardcoregaming101.net/leisure-suit-larry-magna-cum-laude/) – development history, gameplay analysis
+[^ref-3]: [MobyGames – Leisure Suit Larry: Magna Cum Laude (Wayback Machine, May 29, 2026)](http://web.archive.org/web/20260529013139/https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – "Critics Average score: 60% (based on 42 ratings)"
+[^ref-4]: [Hardcore Gaming 101 – Leisure Suit Larry: Magna Cum Laude (Wayback Machine, June 2026)](http://web.archive.org/web/20260606071805/https://www.hardcoregaming101.net/leisure-suit-larry-magna-cum-laude/) – development history, gameplay analysis, "play a handful of these before 'winning' the girl"
 [^ref-5]: [Al Lowe's Website – Magna Cum Laude](https://web.archive.org/web/20180504234238/http://allowe.com/games/larry/history-of-larry/magna-cum-laude.html) – creator's perspective, development exclusion, critical assessment
 [^ref-6]: [eBay Product Listings](https://www.ebay.com/p/30580734) – developer info, inspiration, platform details
 [^ref-7]: [GameSpot Review – PC Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109830/) – Alex Navarro review, score 7.2/10
 [^ref-8]: [Gamicus Wiki – Leisure Suit Larry: Magna Cum Laude](https://gamicus.fandom.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – version information, ESRB ratings, release dates
 [^ref-9]: [GOG.com Store Page](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – game description
-[^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – gameplay structure, collectibles
-[^ref-11]: [Trade Post Entertainment](https://tradepostentertainment.com/games/02062672215) – dialogue word count, location count
+[^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – walkthrough: winning each girl's token of affection, campus library
+[^ref-11]: [Trade Post Entertainment](https://tradepostentertainment.com/games/02062672215) – retail feature list: "25 interactive locations", "more than 90,000 words of spoken dialogue"
 [^ref-12]: [TV Tropes – YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryMagnaCumLaude) – final choice limited to Barbara Jo, Morgan and Suzie; Koko gag called "very, very tasteless"
 [^ref-13]: [Game Developer – "Playing Catch-Up: Al Lowe" (Frank Cifaldi, July 18, 2005)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) – Lowe's contract and "ransom video" quotes about Magna Cum Laude
 [^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0421136/movieconnections/) – references, parodies, Goldfinger line, followed by Box Office Bust (2009), Reloaded narrator jab
-[^ref-16]: [GameFAQs – PS2 FAQs](https://gamefaqs.gamespot.com/ps2/919126-leisure-suit-larry-magna-cum-laude/faqs) – gameplay information
-[^ref-17]: [Neoseeker Cheats](https://www.neoseeker.com/leisuresuitlarry-magna/cheats/pc/) – token collection, photography system
 [^ref-18]: [GameSpot Review – Xbox Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109836/) – locations, easter eggs
 [^ref-19]: [Medium – Jeffrey McGee Analysis](https://kalamarikoncepts.medium.com/leisure-suit-larry-magna-cum-laude-the-funniest-game-ever-and-nobody-knows-it-bc660ea45b17) – conversation mechanic description
 [^ref-20]: [Game Informer Review (Archived)](https://web.archive.org/web/20081203205839/http://www.gameinformer.com/NR/exeres/ED20FE12-E630-4842-A734-0287DE150FC8.htm) – gameplay mechanics, voice acting praise
-[^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism
-[^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system
+[^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism, Tapper variant
+[^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system, "Larry's confidence meter", Secret Tokens
 [^ref-23]: [GameCritics Review](http://web.archive.org/web/20190920094357/https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
 [^ref-24]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score; Metascore 62, 49 critic reviews
-[^ref-25]: [MobyGames – Leisure Suit Larry: Magna Cum Laude (Uncut and Uncensored!)](https://www.mobygames.com/game/16003/) – released October 22, 2004 on Windows; "In Europe and on digital stores, this was the default version"
+[^ref-25]: [MobyGames – Leisure Suit Larry: Magna Cum Laude (Uncut and Uncensored!)](https://www.mobygames.com/game/16003/) – Windows releases (read via the MobyGames API): Germany October 22, 2004, UK/France/Spain October 29, 2004, United States November 2004; "In Europe and on digital stores, this was the default version"
 [^ref-26]: [Eurogamer Review](https://www.eurogamer.net/articles/r_leisuresuitlarry_ps2) – Kristan Reed review, 7/10, technical issues
 [^ref-27]: [IGN Review](https://www.ign.com/articles/2004/10/04/leisure-suit-larry-magna-cum-laude-3) – Steve Butts review, 7.2/10, easter eggs
-[^ref-28]: [HandWiki – Software Entry](https://handwiki.org/wiki/Software:Leisure_Suit_Larry:_Magna_Cum_Laude) – review compilation (OXM 2.3/10), GameSpot "Funniest Game" nomination
 [^ref-29]: [GameSpy Review (PC)](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/554735p1.html) – Sal Accardo review; "7th year junior at Walnut Log Community College"; loading screen complaints
 [^ref-30]: [IMDB – Game Entry](https://www.imdb.com/title/tt0421136/) – voice cast, cancelled sequel info, user rating, Larry Laffer "pointing and clicking" quote
 [^ref-31]: [IMDB – Full Credits](https://www.imdb.com/title/tt0421136/fullcredits/) – Jan Rabson as Larry Laffer (voice); Cary Okmin, dialogue (uncredited)
