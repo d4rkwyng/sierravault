@@ -10,14 +10,15 @@ series: Front Page Sports
 engine: Proprietary Dynamix 3D engine
 protagonist: Ski Racer (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: '**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed
-  by Dynamix and published by Sierra On-Line. The game simulates the four World...'
+  by Dynamix and published by Sierra On-Line, simulating four World Cup alpine
+  skiing events.'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -69,16 +70,16 @@ The game also includes tricks such as daffies, back-scratchers, helicopters and 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 8/10 | "Great" rating, praised graphics and sound[^ref-10] |
-| Gamezilla | 75% | "Graphically one of the best sports sims available"[^ref-7] |
+| Gamezilla | 75% | "Graphically one of the best sports sims available" (if it runs on your system)[^ref-7] |
 | PC Player | 62% | German magazine[^ref-1] |
 | PC Joker | 33% | German magazine[^ref-1] |
-| GameStar | 28% | German magazine[^ref-1] |
+| GameStar | 28% | German magazine; "Kaufen Sie sich lieber einen Skipass"[^ref-1][^ref-27] |
 | Computer Gaming World | 2/5 | "Moderately fun arcade racing game"[^ref-1][^ref-23] |
 | Computer Games Magazine | 2/5 | "Mildly entertaining game"[^ref-1][^ref-13] |
 
 Critical reception was mixed. GameSpot's Tasos Kaiafas called it "the best there's ever been on the PC" but concluded that "though the graphics are impressive and the sound effects are inspiring, FrontPage Sports: Ski Racing falls a split-second short of a gold medal run"[^ref-4]. Gamezilla's reviewers gave it 75, noting that "of all the games I've played recently, this one was the hardest"[^ref-7].
 
-Computer Gaming World's Loyd Case and Computer Games Magazine's Benjamin E. Sones each gave it 2 out of 5[^ref-1]. Case praised the Picabo Street videos and the background graphics but called the controls "terrible, especially in slalom"[^ref-23]. Sones criticised the physics model, the six-trail limit and the hotseat-only multiplayer, calling it "a mildly entertaining game"[^ref-13]. The three German magazines listed above scored it lower still[^ref-1].
+Computer Gaming World's Loyd Case and Computer Games Magazine's Benjamin E. Sones each gave it 2 out of 5[^ref-1]. Case praised the Picabo Street videos and the background graphics but called the controls "terrible, especially in slalom"[^ref-23]. Sones criticised the physics model, the six-trail limit and the hotseat-only multiplayer, calling it "a mildly entertaining game"[^ref-13]. GameStar (28%) and PC Joker (33%) scored it lower still, while PC Player gave 62%[^ref-1][^ref-27].
 
 ### Modern Assessment
 
@@ -100,7 +101,7 @@ Computer Games Magazine's preview said Ski Racing was headed to shelves "just in
 
 ### Technical Achievements
 
-Gamezilla's reviewers called it "graphically one of the best sports sims available"[^ref-7], and GameSpot described the graphics as "impressive" and the sound effects as "inspiring"[^ref-4]. Critics noted weak spots too: GameSpot pointed to flat, texture-mapped trees with "some nasty clipping"[^ref-4], and Computer Gaming World found the skier figure "pretty polygon-riddled"[^ref-23].
+Gamezilla's reviewers said that, if you can get it to work on your system, it is "graphically one of the best sports sims available"[^ref-7], and GameSpot described the graphics as "impressive" and the sound effects as "inspiring"[^ref-4]. Critics noted weak spots too: GameSpot pointed to flat, texture-mapped trees with "some nasty clipping"[^ref-4], and Computer Gaming World found the skier figure "pretty polygon-riddled"[^ref-23].
 
 The game was announced with support for Rendition and 3Dfx cards[^ref-21], and Computer Gaming World's spec box listed both[^ref-23]. Gamezilla reported that the advertised Rendition and Voodoo Rush support was missing at launch. Sierra's support team said a patch was in the works but would not comment on its contents or timing[^ref-7]. According to MobyGames, two later patches stated that "Sierra Screamin' 3D (Rendition V1000) support is not included in this update," and Rendition cards were never supported[^ref-5].
 
@@ -163,3 +164,4 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 [^ref-24]: [Sierra Help Pages – Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – FPS: Ski Racing Update (skiup12); separate Ski Racing 1999 update
 [^ref-25]: [MobyGames – Front Page Sports: Ski Racing Credits](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/credits/) – designer, director, producer, Loudmouth Inc., Picabo Street as "The Star", resorts
 [^ref-26]: [MobyGames – Front Page Sports: Ski Racing Specs](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/specs/) – Windows 95 minimum OS, Pentium, 16 MB RAM, 4X CD-ROM, mouse, force feedback
+[^ref-27]: [GameStar, May 1998 (issue 8), p. 102 – DSF Ski Racing review, full text (Internet Archive)](https://archive.org/download/GameStar.N008.1998.05/GameStar.N008.1998.05-gamestar_djvu.txt) – German version reviewed as "DSF Ski Racing"; score 28; "Kaufen Sie sich lieber einen Skipass."
