@@ -10,15 +10,15 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: 'Crazy Nick''s Software Picks: Leisure Suit Larry''s Casino is a budget
-  gambling title released by Sierra On-Line on June 5, 1992 for MS-DOS. The game was
-  part...'
+  gambling title released by Sierra On-Line on June 5, 1992 for MS-DOS, one of five
+  Crazy Nick''s Software Picks packs.'
 tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 *Not to be confused with [[1998 - Leisure Suit Larry's Casino]], Sierra's separate 1998 Windows casino game.*[^ref-16][^ref-5]
 
@@ -57,7 +57,7 @@ The pack contains three games:[^ref-1][^ref-2]
 - **Blackjack** (from the LSL1 VGA remake): beat the dealer without going over 21; face cards count 10 and aces 1 or 11; the player can Hit until Standing or Busting.[^ref-2]
 - **Video Poker** (from Leisure Suit Larry 5): winning hands run from a pair of Jacks or Better up to a Straight Flush; after the deal the player chooses which cards to keep and draws replacements.[^ref-2]
 
-Players begin with 100.00 Larry Dollars, and a loan is available to a player who loses everything.[^ref-1] Money won in one game carries over to the others.[^ref-11] The game has no save feature.[^ref-5]
+Players begin with 100.00 Larry Dollars, and a loan is available to a player who loses everything.[^ref-1] *Game Players PC Entertainment*'s 1992 review described this as asking the "loan shark" for "another C-note".[^ref-26] Money won in one game carries over to the others.[^ref-11] The game has no save feature.[^ref-5]
 
 ### Puzzles and Mechanics
 
@@ -67,7 +67,22 @@ There are no puzzles. Each game is a straightforward casino game, played against
 
 ### Contemporary Reviews
 
-No period reviews of the pack have been found. The Sierra Chest lists "No reviews yet," MobyGames has no critic reviews on file, and the only 1992 publication the Sierra Chest indexes for the pack is InterAction's own announcement.[^ref-23][^ref-22][^ref-25][^ref-19]
+The pack got one short signed review and several notices in the 1992 press. No scored review has been found.
+
+| Source | Date | Type | Notes |
+|--------|------|------|-------|
+| *Game Players PC Entertainment* Vol. 5 No. 5, "Nick's Picks — Leisure Suit Larry's Casino", by Stephen Poole | 1992 (cover: "Display Until November 3, 1992") | Short review, no score | "Easy to play and fun to look at"[^ref-26] |
+| *Computer Gaming World* #98, "Gaming Lite" survey | September 1992 | Survey of budget software | Advised gamblers to "stay clear"[^ref-27] |
+| *Computer Gaming World* #99, "Taking A Peek" | October 1992 | Capsule preview | Describes the three games[^ref-28] |
+| *PC Games* #17, "Software for $9.95" | October 1992 | News item | Lists all five packs[^ref-29] |
+
+Stephen Poole's review in *Game Players PC Entertainment* gave the price as $9.95 and noted that the player enters the casino "alone — there is no two-player option" with $100. He found that "Rules for each game aren't included", which mattered most for blackjack, that "There are only four game screens in Larry's Casino", and that "the redraw time on a 386SX is just a bit slow". He concluded: "You won't learn anything about these three games by picking up Larry's Casino, but they do offer a quick dose of gambling action that's easy to play and fun to look at."[^ref-26]
+
+*Computer Gaming World*'s September 1992 survey of budget software gave the line's price as $9.95, "pre-printed on the packaging as 'marked down' from $14.95 — although we know of no copies released at the higher price", with "VGA / EGA graphics and full sound support". It was blunt about this pack: "Gambling aficionados may want to stay clear of this latter product, for Leisure Suit Larry's Casino is to gambling games what Larry himself is to a desirable date for your 15-year old daughter (the Poker game, by the way, is really Video Poker)."[^ref-27]
+
+The magazine's October 1992 "Taking A Peek" column was lighter: "It seems as if Larry Laffer has purchased the Tramp Casino in Atlantic City at a foreclosure sale." It listed "a slot machine, a Black Jack table and a video poker machine" and added, "Surprisingly (and thankfully), the package does not include a lounge act."[^ref-28] *PC Games* summed the pack up in an October 1992 news item: "Take a break from the typical Larry pastime of chasing babes, and try your hand at poker, blackjack, or slots."[^ref-29]
+
+Neither the Sierra Chest ("No reviews yet") nor MobyGames lists a review, and the only 1992 publication the Sierra Chest indexes for the pack is InterAction's own announcement.[^ref-23][^ref-22][^ref-25][^ref-19]
 
 ### Modern Assessment
 
@@ -84,6 +99,8 @@ A 2012 editor note on the Universal Videogame List says the pack "was also inclu
 ### Origins
 
 InterAction introduced Crazy Nick as "the hack 'n' slash hero of discount software buyers everywhere" and Nick's Picks as "a line of low-priced (but high-quality) VGA games" due in software stores in May or June 1992. The magazine said all five packs were "contained on a single disk for quick bursts of computer entertainment" and featured "VGA graphics and major sound card support."[^ref-19]
+
+The sources disagree on where the art came from. The Sierra Chest says the slot machine and blackjack come from the LSL1 VGA remake and the poker game from Leisure Suit Larry 5.[^ref-2] *Game Players PC Entertainment*'s review said instead that "The interface and cartoonish graphics for each game are lifted straight from the VGA versions of Space Quest I and Leisure Suit Larry I, as well as Leisure Suit Larry V."[^ref-26] No other source found names Space Quest I.
 
 ### Production
 
@@ -103,8 +120,10 @@ The music also comes from the LSL1 VGA remake: the Sierra Chest says "the songs 
 
 **DOS Version:**
 - **Engine:** SCI1.1[^ref-5]; ScummVM's detection table records interpreter "1.001.029" and a VERSION file of "1.000" for the copy from the Leisure Suit Larry Collection[^ref-24]
-- **Video Modes:** PCGamingWiki lists EGA as the minimum and VGA as recommended[^ref-5]
-- **Media:** single 3.5" floppy in a blister card[^ref-2][^ref-21]
+- **Video Modes:** PCGamingWiki lists EGA as the minimum and VGA as recommended[^ref-5]; period sources give "VGA / EGA graphics"[^ref-27] and "EGA, VGA graphics and major sound cards"[^ref-29]
+- **Minimum system:** 286 processor and 640K of RAM[^ref-29]
+- **Media:** single 3.5" low-density floppy in a blister card[^ref-2][^ref-21][^ref-29]
+- **Price:** $9.95, printed on the package as marked down from $14.95[^ref-27][^ref-28]
 - **Data files:** resource.map (783 bytes) and resource.001 (344,830 bytes)[^ref-24]
 - **Audio:** music tracks for Roland MT-32 and Sound Blaster[^ref-20]
 - **Configuration file:** RESOURCE.CFG in the game folder[^ref-5]
@@ -113,7 +132,7 @@ The music also comes from the LSL1 VGA remake: the Sierra Chest says "the songs 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.000 | June 5, 1992 | MS-DOS | Original blister-card release[^ref-1][^ref-21] |
+| Unknown | June 5, 1992 | MS-DOS | Original blister-card release; no source gives its version number[^ref-1][^ref-21] |
 | Collection | 1997 | — | Included in Leisure Suit Larry: Collection Series[^ref-1] |
 | Collection | 1999 | — | Included in Leisure Suit Larry: Ultimate Pleasure Pack[^ref-1] |
 
@@ -173,7 +192,7 @@ MobyGames places the pack in the Leisure Suit Larry series between [[1991 - Leis
 
 [^ref-5]: [PCGamingWiki – Leisure Suit Larry's Casino](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry%27s_Casino) – SCI1.1, EGA/VGA, no savegame feature, ScummVM support, retail-only availability, disambiguation from the 1998 game
 
-[^ref-6]: [MyAbandonware – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-s-casino-bo0) – 1992 listing, 3/5 from 4 votes
+[^ref-6]: [MyAbandonware – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-s-casino-bo0) – 1992 listing, 3/5 from 4 votes; a 2026-06-10 comment there reports that the download is actually Roger Wilco's Spaced Out Game Pack
 
 [^ref-11]: [Larry Laffer.net – Larry's Casino 1998](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – mostly about the 1998 game; one paragraph on this "offline" version: three games, money carries over between them
 
@@ -198,3 +217,11 @@ MobyGames places the pack in the Leisure Suit Larry series between [[1991 - Leis
 [^ref-24]: [ScummVM – SCI detection tables (source)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – "cnick-lsl" entry: interpreter 1.001.029, VERSION 1.000, resource file sizes, copy from the LSL Collection
 
 [^ref-25]: [Sierra Chest – Leisure Suit Larry's Casino: Publications](https://www.sierrachest.com/index.php?a=games&id=718&title=crazy-nick-larry&fld=publications) – only InterAction Summer 1992 News Notes indexed
+
+[^ref-26]: [Game Players PC Entertainment Vol. 5 No. 5, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No5) – GameBytes section, "Nick's Picks — Leisure Suit Larry's Casino" by Stephen Poole; cover marked "Display Until November 3, 1992"
+
+[^ref-27]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); line price on p. 76, this pack on p. 78
+
+[^ref-28]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: Leisure Suit Larry's Casino entry; price markdown in the King Graham entry on the same page
+
+[^ref-29]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum

@@ -2,7 +2,7 @@
 title: 'Crazy Nick''s Software Picks: King Graham''s Board Game Challenge'
 release_year: 1992
 developer: Sierra On-Line
-designer: [Bridget McKenna, Marti McKenna]
+designer: [Unknown]
 publisher: Sierra On-Line
 genre: Board Game
 platforms: [DOS]
@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a 1992 Sierra On-Line budget release that pairs Checkers and Backgammon, taken
   from Hoyle 3, with King Graham as the opponent.'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -62,13 +62,25 @@ The goal is to take all of the opponent's pieces or leave them with no legal mov
 
 ### Game Origins
 
-Sierra Chest records that both games came from Hoyle 3, which also counts this title among its collections.[^ref-6] The MobyGames reviewer Katakis found that the games, interface and mechanics match Hoyle 3.[^ref-1]
+Sierra Chest records that both games came from Hoyle 3.[^ref-6] The MobyGames reviewer Katakis found that the games, interface and mechanics match Hoyle 3.[^ref-1]
 
 ## Reception
 
 ### Contemporary Reviews
 
-No reviews from 1992 have been found so far.
+No scored review of the pack has been found, but the 1992 press did cover it in short notices.
+
+| Source | Date | Type | Notes |
+|--------|------|------|-------|
+| *Computer Gaming World* #98, "Gaming Lite" survey | September 1992 | Survey of budget software | Covers all five Crazy Nick's packs[^ref-23] |
+| *Computer Gaming World* #99, "Taking A Peek" | October 1992 | Capsule preview | Entry for this pack[^ref-24] |
+| *PC Games* #17, "Software for $9.95" | October 1992 | News item | Lists all five packs[^ref-25] |
+
+*Computer Gaming World*'s September 1992 survey of budget software gave the line's price as $9.95, "pre-printed on the packaging as 'marked down' from $14.95 — although we know of no copies released at the higher price". It said each pack had "two or three games of varying quality with VGA / EGA graphics and full sound support", and listed this one as "King Graham's Board Game Challenge (featuring Sierra's oft regurgitated Checkers and Backgammon)".[^ref-23]
+
+The magazine's October 1992 "Taking A Peek" column gave the pack its own short entry. It said each package came with "a single 3.5" disk and generic installation instructions", and that "Documentation beyond that (like how to play the individual games) is on-line." It noted that the packs sold for $9.95 "although the marketing people have cleverly marked out $14.95 above that price", and that the two games "look as if they are similar to those found on the Sierra Network."[^ref-24]
+
+*PC Games* listed the pack in an October 1992 news item on the line: "Take on the king of Daventry in checkers and backgammon."[^ref-25]
 
 ### Later Assessments
 
@@ -85,7 +97,7 @@ The Super Adventures in Gaming guest post from March 2011 was kinder. It doubted
 
 ### Origins
 
-Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequences and casino and board games from earlier adventure and Hoyle titles. It released them as budget compilations in blister cards.[^ref-6] Five packs came out under the Crazy Nick's Software Picks name:[^ref-4][^ref-6]
+Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequences and casino and board games from earlier adventure and Hoyle titles. It released them as budget compilations in blister cards.[^ref-6] Sierra's own InterAction magazine announced the line in its Summer 1992 issue, saying the games "will start appearing in software stores in May or June" and would "come in blister packs" and "retail for around $10". It described this pack as "Challenge the King of Daventry to Checkers or Backgammon."[^ref-26] Five packs came out under the Crazy Nick's Software Picks name:[^ref-4][^ref-6]
 
 1. **King Graham's Board Game Challenge**
 2. **Leisure Suit Larry's Casino**
@@ -104,7 +116,11 @@ Each pack came on a single 3.5" floppy disk on a blister card, and the packs wer
 | Specification | Detail |
 |---------------|--------|
 | Engine | SCI1.1[^ref-7] |
-| Media | One 3.5" floppy disk[^ref-6] |
+| Media | One 3.5" low-density floppy disk[^ref-6][^ref-25] |
+| Graphics and sound | EGA and VGA graphics, major sound cards[^ref-25] |
+| Minimum system | 286 processor, 640K of RAM[^ref-25] |
+| Price | $9.95, printed on the package as marked down from $14.95[^ref-23][^ref-24] |
+| Documentation | Generic install instructions; game rules on-line only[^ref-24] |
 | Download size (MyAbandonware) | 776 KB[^ref-11] |
 | Screenshot resolution | 320x200[^ref-8] |
 | Platform | IBM PC/DOS only[^ref-6] |
@@ -124,7 +140,7 @@ The game is no longer sold, and it survives on preservation sites:
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- Not sold digitally; PCGamingWiki lists only the original retail release[^ref-7]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-king-graham-s-board-game-challenge-1yz)[^ref-11]
@@ -151,7 +167,7 @@ The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board
 [^ref-4]: [PC Gaming Wiki - Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – List of the five series titles
 [^ref-5]: [Gamesdb LaunchBox](https://gamesdb.launchbox-app.com/games/details/85634-crazy-nicks-software-picks-king-grahams-board-game-challenge-checkers-backgammon) – Database entry (developer/publisher Sierra On-Line)
 [^ref-6]: [Sierra Chest Archive](https://www.sierrachest.com/index.php?a=games&id=716&title=crazy-nick-graham&fld=general) – Release date, series background, packaging, game rules
-[^ref-7]: [PC Gaming Wiki Game Page](https://www.pcgamingwiki.com/wiki/King_Graham%27s_Board_Game_Challenge) – SCI1.1 engine, singleplayer, DOS, ScummVM alternative
+[^ref-7]: [PC Gaming Wiki Game Page](https://www.pcgamingwiki.com/wiki/King_Graham%27s_Board_Game_Challenge) – SCI1.1 engine, singleplayer, DOS, ScummVM alternative, retail-only availability
 [^ref-8]: [MobyGames Screenshot](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/screenshots/dos/213860/) – DOS screenshot, 320x200 original
 [^ref-9]: [Super Adventures in Gaming Blog](http://superadventuresingaming.blogspot.com/2011/03/crazy-nicks-software-picks-king-grahams.html) – Guest post by mecha-neko, 21 March 2011
 [^ref-11]: [MyAbandonware Game Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-king-graham-s-board-game-challenge-1yz) – Preservation download (776 KB)
@@ -160,3 +176,7 @@ The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board
 [^ref-18]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_1993) – Playable preservation copy
 [^ref-21]: [MobyGames Credits](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/credits/) – Pack team and original Board Game Challenge (Hoyle 3) team
 [^ref-22]: [ScummVM SCI detection table](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Entry "cnick-kq": Crazy Nick's Software Picks: King Graham's Board Game Challenge
+[^ref-23]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line on pp. 76 and 78
+[^ref-24]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: King Graham's Board Game Challenge entry
+[^ref-25]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
+[^ref-26]: [InterAction Magazine Vol. V No. 2, Summer 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – News Notes, "Crazy Nick Launches Budget Software Line"

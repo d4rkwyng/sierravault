@@ -10,14 +10,15 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
-description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a budget
-  compilation title released by Sierra On-Line in 1992 as part of their Crazy Nick''s...'
+last_updated: '2026-10-27'
+description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a 1992
+  Sierra On-Line budget release that pairs Yacht and Dominoes, taken from Hoyle 3,
+  with Laura Bow as the opponent.'
 tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -25,14 +26,14 @@ Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation
 
 Both games were originally included in Hoyle Official Book of Games Volume 3: Great Board Games, and the pack's music comes from the same source[^ref-3][^ref-20]. Players can challenge Laura at three different difficulty levels[^ref-2]. Sierra's own InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games that would retail for around $10[^ref-17].
 
-No period reviews of the pack are known: The Sierra Chest lists "No reviews yet" and MobyGames has no critic reviews on file[^ref-16][^ref-19]. The only substantial review found is a 2011 retrospective guest post by "mecha-neko" on the Super Adventures in Gaming blog, which was negative[^ref-1].
+No full period review of the pack has been found, but *Computer Gaming World* and *PC Games* both noted it in 1992[^ref-22][^ref-23][^ref-24]. Neither the Sierra Chest nor MobyGames lists a review[^ref-16][^ref-19]. The only full review found is a 2011 retrospective guest post by "mecha-neko" on the Super Adventures in Gaming blog, which was negative[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-2]
 > **Director:** [[Bill Davis]][^ref-13][^ref-15]
 > **Producer:** [[Tammy Dargan]], Tony Caudill[^ref-13][^ref-15]
 > **Publisher:** Sierra On-Line, Inc.[^ref-2]
-> **Engine:** SCI1.1[^ref-5]
+> **Engine:** SCI1.1 (per PCGamingWiki)[^ref-5]
 > **Platforms:** DOS, IBM PC[^ref-2][^ref-3]
 > **Release Year:** 1992[^ref-3]
 > **Series:** Crazy Nick's Software Picks, Laura Bow
@@ -65,17 +66,25 @@ Each game can be played at three difficulty levels[^ref-2].
 
 As straightforward implementations of traditional parlor games, Parlor Games with Laura Bow does not feature adventure-style puzzles. In Yacht, players decide which dice to keep across up to three rolls, then choose a category in which to score the turn; they may also score after only one or two rolls[^ref-3].
 
-The SAiG reviewer found an option to disable the pulsing background, and wrote "I don't think you can save your progress and continue later"[^ref-1]. Competition is exclusively against Laura; there is no two-player mode[^ref-1].
+The SAiG reviewer found an option to disable the pulsing background, and wrote "I don't think you can save your progress and continue later"[^ref-1]. ScummVM's source code lists the game among "Demos/mini-games with no saving functionality"[^ref-25]. Competition is exclusively against Laura; there is no two-player mode[^ref-1].
 
 ## Reception
 
 ### Contemporary Reviews
 
-No contemporary reviews of Parlor Games with Laura Bow are known. The Sierra Chest's reviews tab reads "No reviews yet"[^ref-16], and MobyGames has no critic reviews recorded ("Be the first to add a critic review for this title!")[^ref-19]. The pack was a budget release sold in blister cards[^ref-3], which Sierra's own magazine said would retail for around $10[^ref-17].
+No full, scored review of Parlor Games with Laura Bow from 1992 has been found, but the pack did get short notices in the press.
+
+*Computer Gaming World*'s September 1992 survey of budget software covered the whole Crazy Nick's line. It gave the price as $9.95, "pre-printed on the packaging as 'marked down' from $14.95 — although we know of no copies released at the higher price", and said each pack had "two or three games of varying quality with VGA / EGA graphics and full sound support". It listed this one as "Parlor Games With Laura Bow (where it's no mystery that this package includes Dominoes and Yacht)"[^ref-22].
+
+The magazine's October 1992 "Taking A Peek" column gave the pack a short entry: "Computer Gaming's 'That Girl' takes time out from sleuthing to play a few parlor games; namely, Dominoes and Yacht — a Yhatzee [sic] derivative. These appear to be jazzed-up versions of games from Sierra's Hoyle's Book of Games series."[^ref-23]
+
+*PC Games* listed it in an October 1992 news item on the line: "The sleuth from the Laura Bow Mystery Series hosts a sampling of games from the Hoyle Series, including Yacht and Dominoes."[^ref-24]
+
+The Sierra Chest's reviews tab reads "No reviews yet"[^ref-16], and MobyGames has no critic reviews recorded ("Be the first to add a critic review for this title!")[^ref-19]. The pack was a budget release sold in blister cards[^ref-3], which Sierra's own magazine said would retail for around $10[^ref-17].
 
 ### Modern Assessment
 
-The only substantial review found is a 2011 guest post by "mecha-neko" on the Super Adventures in Gaming blog, the last entry in that writer's look at the Crazy Nick's line[^ref-1]. It was negative: "These Picks are noticeably worse than King Graham's. There's absolutely no need for the hideous Yacht game to exist, and you'd have to be some kind of hard-core dominomaniac to want to play single player dominoes versus the computer"[^ref-1]. The post closes by saying readers almost certainly have access to better versions of the games across the whole series (Nine Men's Morris, Backgammon, Checkers, Yacht and Dominoes)[^ref-1].
+The only full review found is a 2011 guest post by "mecha-neko" on the Super Adventures in Gaming blog, the last entry in that writer's look at the Crazy Nick's line[^ref-1]. It was negative: "These Picks are noticeably worse than King Graham's. There's absolutely no need for the hideous Yacht game to exist, and you'd have to be some kind of hard-core dominomaniac to want to play single player dominoes versus the computer"[^ref-1]. The post closes by saying readers almost certainly have access to better versions of the games across the whole series (Nine Men's Morris, Backgammon, Checkers, Yacht and Dominoes)[^ref-1].
 
 **User ratings:**
 - **MyAbandonware:** 5/5 from 1 vote on one entry[^ref-4], and 5/5 from 10 votes on a second entry for the same game[^ref-10]
@@ -87,13 +96,13 @@ The only substantial review found is a 2011 guest post by "mecha-neko" on the Su
 
 In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games originally included in various adventure and Hoyle games, and released them as budget compilations under the Crazy Nick's Software Picks title[^ref-3]. InterAction's Summer 1992 "News Notes" described the first five games as "favorite arcade and strategy sequences extracted from best-selling Sierra games and featuring Sierra characters as opponents", due in stores in May or June[^ref-17]. It summarised this pack as "Take on the celebrated sleuth at Dominoes and Yacht"[^ref-17].
 
-Parlor Games with Laura Bow drew its games from Hoyle Official Book of Games Volume 3: Great Board Games[^ref-3], and its six music tracks (main menu, Yacht and Dominoes, each in MT-32 and Sound Blaster versions) come from the same game[^ref-20].
+Parlor Games with Laura Bow drew its games from Hoyle Official Book of Games Volume 3: Great Board Games[^ref-3]. Period coverage agreed on the Hoyle origin: *Computer Gaming World* called the games "jazzed-up versions of games from Sierra's Hoyle's Book of Games series"[^ref-23], and *PC Games* called them "a sampling of games from the Hoyle Series"[^ref-24]. Its six music tracks (main menu, Yacht and Dominoes, each in MT-32 and Sound Blaster versions) come from the same game[^ref-20].
 
 ### Production
 
 The pack credits seven people[^ref-13][^ref-15]: Director Bill Davis, Producers Tammy Dargan and Tony Caudill, Software Supervisor J. Mark Hood, Lead Programmer Thaddeus M. Pritchard, Quality Assurance by Michael Brosius, and special thanks to Randy MacNeill. The Sierra Chest also credits the original Hoyle parlor game team separately[^ref-15].
 
-The game was built on Sierra's SCI engine, listed by PCGamingWiki as SCI1.1[^ref-5].
+The game was built on Sierra's SCI engine; PCGamingWiki lists the version as SCI1.1, a detail no primary source found so far confirms[^ref-5].
 
 **Development Credits:**[^ref-13][^ref-15]
 - **Director:** Bill Davis
@@ -112,12 +121,16 @@ The Yacht game uses prerendered dice, which the SAiG reviewer said at least dist
 
 **DOS Version:**[^ref-2][^ref-7]
 - **Resolution:** 320x200 (screenshots)[^ref-7]
-- **Engine:** SCI1.1[^ref-5]
+- **Engine:** SCI1.1 (per PCGamingWiki)[^ref-5]
+- **Graphics:** EGA and VGA[^ref-24]
+- **Minimum system:** 286 processor, 640K of RAM[^ref-24]
 - **Interface:** Point and select
 - **Perspective:** Side view, fixed/flip-screen
 - **Pacing:** Turn-based
 - **Sound:** VGA graphics and "major sound card support" per Sierra's announcement[^ref-17]; music in MT-32 and Sound Blaster versions[^ref-20]
-- **Media:** Single 3.5" floppy disk in a blister card[^ref-3][^ref-21]
+- **Media:** Single 3.5" low-density floppy disk in a blister card[^ref-3][^ref-21][^ref-24]
+- **Documentation:** Generic installation instructions; how to play the games is on-line only[^ref-23]
+- **Price:** $9.95, printed on the package as marked down from $14.95[^ref-22][^ref-23]
 - **Data files:** RESOURCE.MAP (999 bytes) and RESOURCE.001 (336,698 bytes), per ScummVM's detection entry[^ref-18]
 
 ### Cut Content
@@ -136,7 +149,7 @@ No version number has been documented for this release.
 
 No bugs specific to this release have been documented. Limitations noted by the SAiG reviewer:
 
-- **Saving:** The reviewer did not think progress could be saved and resumed later[^ref-1]
+- **Saving:** The reviewer did not think progress could be saved and resumed later[^ref-1]; ScummVM's source groups the game with "Demos/mini-games with no saving functionality"[^ref-25]
 - **No Two-Player Mode:** The game only supports single-player competition against Laura[^ref-1]
 - **Background:** The pulsating, colour-cycling background was called "hideous", though it can be disabled[^ref-1]
 
@@ -154,7 +167,7 @@ This game does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-Specific sales figures have not been documented. Sierra's announcement put the expected retail price at around $10[^ref-17].
+Specific sales figures have not been documented. Sierra's announcement put the expected retail price at around $10[^ref-17]; in the shops it sold for $9.95[^ref-22][^ref-24].
 
 ### Collections
 
@@ -166,7 +179,7 @@ Parlor Games with Laura Bow was one of five Crazy Nick's Software Picks titles, 
 - Roger Wilco's Spaced Out Game Pack
 - Robin Hood's Games of Skill and Chance
 
-The Sierra Chest also lists the game as included in Hoyle Official Book of Games: Volume 3: Great Board Games[^ref-3].
+Its games come from Hoyle Official Book of Games: Volume 3: Great Board Games[^ref-3].
 
 ### Fan Projects
 
@@ -217,3 +230,7 @@ No hint book or strategy guide for this title is known. Sierra's InterAction mag
 [^ref-19]: [MobyGames – Parlor Games with Laura Bow reviews](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/reviews/) – no critic or player reviews on file
 [^ref-20]: [The Sierra Chest – Parlor Games With Laura Bow: Music](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=music) – six tracks taken from Hoyle 3
 [^ref-21]: [The Sierra Chest – Parlor Games With Laura Bow: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=box) – PC, 3.5" floppy, blister card, UPC
+[^ref-22]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line and this pack on p. 76
+[^ref-23]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: Parlor Games with Laura Bow entry; package contents, price and on-line rules in the King Graham entry on the same page
+[^ref-24]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, $9.95 price, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
+[^ref-25]: [ScummVM – engines/sci/engine/features.cpp](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/engine/features.cpp) – GID_CNICK_LAURABOW listed under "Demos/mini-games with no saving functionality"
