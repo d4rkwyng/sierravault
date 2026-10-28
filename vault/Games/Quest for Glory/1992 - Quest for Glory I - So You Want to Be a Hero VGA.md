@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced vers
 
 According to Corey Cole, although most of Sierra's VGA remakes were unprofitable, this one was "a notable exception"[^ref-4]. Despite this success—reportedly selling more units than the original game—Sierra management had already concluded that remakes were not financially viable, making Quest for Glory I one of the last games to receive this treatment[^ref-4]. The remake cost more to produce than the original and nearly as much as developing an entirely new VGA game, contrary to Sierra's expectations that remakes would be a cheaper alternative to new productions[^ref-4].
 
-The game introduces players to the valley of Spielburg, a Germanic-inspired fantasy setting where a novice hero must break a curse, rescue the Baron's missing children, and defeat a band of brigands[^ref-1]. Advertised as "three games in one," Quest for Glory I was the first Sierra game to allow players to select from three character classes—Fighter, Magic User, or Thief—each offering substantially different solutions to the game's puzzles and challenges[^ref-5].
+The game introduces players to the valley of Spielburg, a Germanic-inspired fantasy setting where a novice hero must break a curse, rescue the Baron's missing children, and defeat a band of brigands[^ref-1]. Advertised as "three games in one," Quest for Glory I was the first Sierra game to allow players to select from three character classes—Fighter, Magic User, or Thief—each offering substantially different solutions to the game's puzzles and challenges[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -43,11 +43,11 @@ The game introduces players to the valley of Spielburg, a Germanic-inspired fant
 
 The valley of Spielburg is under a terrible curse. Baron Stefan von Spielburg angered the fearsome ogress Baba Yaga, who responded by cursing his land and family[^ref-8]. The Baron's son Barnard was transformed into a bear, and his daughter Elsa disappeared; she is later revealed to have been cursed into the leader of the brigands[^ref-1]. With the once-prosperous region falling into ruin, the desperate Baron posted an advertisement: "Wanted: Hero. No experience necessary"[^ref-10].
 
-The player character, a recent graduate of the Famous Adventurer's Correspondence School, arrives in the small town of Spielburg seeking to make a name for themselves[^ref-11]. The town is populated by a colorful cast of characters including beer-drinking humans, centaurs who work the fields, and the helpful Katta innkeepers Shameen and Shema[^ref-9]. Beyond the town gates lies a dangerous forest filled with goblins, sauruses, brigands, and other creatures from Germanic and Norse mythology[^ref-12].
+The player character, a recent graduate of the Famous Adventurer's Correspondence School, arrives in the small town of Spielburg seeking to make a name for themselves[^ref-10]. The town is populated mostly by beer-drinking humans and some centaurs who work the fields[^ref-9], and the Hero's Tale Inn is run by the Katta innkeepers Shameen and Shema[^ref-11][^ref-12]. Beyond the town gates lies a dangerous forest filled with goblins, sauruses, brigands, and other creatures from Germanic and Norse mythology[^ref-12].
 
-A prophecy guides the hero's quest: "Comes a hero from the East, Free the man from in the beast, Bring the child from out the band, Drive the curser from the land"[^ref-12]. To fulfill this prophecy, the hero must locate and free Barnard from his enchantment, infiltrate the brigand fortress to rescue Elsa, and ultimately confront Baba Yaga herself to lift her curse[^ref-9]. Along the way, the hero encounters memorable characters including the wizard Erasmus and his familiar Fenrus, the healer woman in the forest, Bruno, the shady seller of information at the town gate[^ref-11], and the jester Yorick, who delivers the famous line "Alas, poor Yorick! I know me well"[^ref-12].
+A prophecy guides the hero's quest: "Comes a hero from the East, Free the man from in the beast, Bring the child from out the band, Drive the curser from the land"[^ref-12]. In the optimal ending, the hero fulfills this prophecy by freeing the baronet Barnard from his curse, thwarting Baba Yaga's plans, and freeing Elsa from the curse that had made her the brigand leader[^ref-1]. Along the way, the hero encounters memorable characters including the wizard Erasmus and his familiar Fenrus, the healer woman in the forest, Bruno, the shady seller of information at the town gate[^ref-11], and the jester Yorick, who delivers the famous line "Alas, poor Yorick! I know me well"[^ref-12].
 
-The game's conclusion sees the hero celebrated as the savior of Spielburg; in the remake the final ceremony takes place in the Great Hall of the keep rather than the castle courtyard, and the game designers make cameo appearances among the guests[^ref-51]. Successfully completing the game allows players to export their character to Quest for Glory II: Trial by Fire, continuing the hero's journey with all skills and attributes intact[^ref-14].
+The game's conclusion sees the hero celebrated as the savior of Spielburg; in the remake the final ceremony takes place in the Great Hall of the keep rather than the castle courtyard, and the game designers make cameo appearances among the guests[^ref-51]. Successfully completing the game allows players to export their character to the next game in the series, Quest for Glory II: Trial by Fire, "maintaining all the stats, money and items you've collected so far"[^ref-26].
 
 ## Gameplay
 
@@ -57,34 +57,34 @@ The VGA remake replaces the original game's text parser with Sierra's icon-based
 
 ### Structure and Progression
 
-Quest for Glory I takes place in a relatively compact game world centered on the town of Spielburg and its surrounding wilderness[^ref-26]. The game operates on a time-sensitive system with day and night cycles affecting gameplay—shops and the town gate close at night, night monsters appear in the forest after dark, and certain events only occur at specific times[^ref-11].
+The game begins in the town of Spielburg, but the hero soon has to explore the entire valley, whose map Indie Retro News likens to King's Quest I's; the player is free to travel anywhere[^ref-26]. The game operates on a time-sensitive system with day and night cycles affecting gameplay—shops and the town gate close at night, night monsters appear in the forest after dark, and certain events only occur at specific times[^ref-11].
 
 **Key Locations:**
 
-- **Town of Spielburg:** The central hub featuring the Hero's Tale Inn, Guild Hall, Magic Shop, and various merchants[^ref-8]
-- **Spielburg Castle:** Home of the Baron, accessible after proving oneself worthy[^ref-9]
+- **Town of Spielburg:** The central hub featuring the Hero's Tale Inn, the Adventurer's Guild Hall, Zara's Magic Shop, and various merchants[^ref-11]
+- **Spielburg Castle:** Home of Baron Stefan von Spielburg; a small castle with just a main wall and a keep, where the hero can earn money cleaning the stables[^ref-11]
 - **The Forest:** A dangerous wilderness filled with monsters, treasures, and hidden locations[^ref-11]
-- **Brigand Fortress:** The stronghold of the brigand leader, requiring infiltration to rescue Elsa[^ref-9]
-- **Baba Yaga's Hut:** The chicken-legged dwelling of the ogress, scene of the final confrontation[^ref-9]
+- **Brigand Fortress:** The stronghold of the brigands, which the hero must raid to reach their leader, Elsa[^ref-1][^ref-12]
+- **Baba Yaga's Hut:** The ogress's "flying chicken hut"[^ref-11]; in the VGA remake its inside is far bigger than it appears from outside[^ref-12]
 - **Erasmus's Tower:** Home of the wizard Erasmus, accessible only by solving the Gargoyle's riddles[^ref-12]
 - **Healer's Cottage:** Where healing potions can be purchased more cheaply than at Zara's Magic Shop in town[^ref-11]
 - **Erana's Peace:** A magical garden where the hero can rest safely and restore health[^ref-11]
 
 ### Character Classes and Skills
 
-At the start of the game, players create a character by choosing from three classes—Fighter, Magic User, or Thief—and distributing a pool of 50 points among various attributes and skills[^ref-11]. The game's innovative design allows any class to potentially solve any puzzle, provided the relevant skills are set above zero at character creation[^ref-16]. This means a Fighter can learn basic magic if points are allocated to the Magic skill, or a Magic User can develop lock-picking abilities[^ref-19].
+At the start of the game, players create a character by choosing from three classes—Fighter, Magic User, or Thief—and distributing a pool of 50 points among various attributes and skills[^ref-11]. The game's innovative design allows any class to potentially solve any puzzle, provided the relevant skills are set above zero at character creation[^ref-19]. StrategyWiki notes that adding the Pick Locks skill lets a character act as a thief, and the Magic skill opens up the wizard-related quests[^ref-16].
 
 Unlike traditional RPGs, Quest for Glory uses a learn-by-doing skill system without experience levels[^ref-14]. Skills improve through practice: fighting monsters increases combat abilities, casting spells improves magic, climbing trees raises the climbing skill, and so on[^ref-18]. Stats scale from 1 to 100 in this first game, with each subsequent title in the series raising the cap by 100[^ref-14].
 
 ### Puzzles and Mechanics
 
-Each character class approaches puzzles differently, truly making the game "three games in one"[^ref-5]:
+Each character class approaches puzzles differently, which is why the game was advertised as "three games in one"[^ref-1]:
 
-- **Fighters** rely on brute force—breaking down doors, defeating enemies in direct combat, and using strength to solve problems[^ref-16]
+- **Fighters** rely on brute force, fighting their way past monsters or throwing things from a distance[^ref-16]
 - **Magic Users** employ spells like Fetch, Open, Flame Dart, and Detect Magic to bypass obstacles and defeat enemies from a distance[^ref-11]
-- **Thieves** utilize stealth, lock-picking, and climbing to find alternative routes and pilfer valuable items[^ref-16]
+- **Thieves** pick locks, sneak around, or throw or climb to reach their target[^ref-16]
 
-Combat in the VGA remake features clay models for enemies and stop-motion animation, a significant visual upgrade from the original[^ref-2]. Some fans of the original found the remake's new combat system "a bit watered down"[^ref-2]. Stamina is also a hazard: in the remake, running out of stamina points can kill the hero outright "instead of starting to do health damage"[^ref-1], and the Quest for Glory Wiki notes that depleting stamina during combat results in instant death[^ref-51].
+Combat in the VGA remake features clay models for enemies and stop-motion animation, a significant visual upgrade from the original[^ref-2]. One MobyGames user reviewer suggested that "purists of the original game might find the new combat system a bit watered down"[^ref-2]. Stamina is also a hazard: in the remake, running out of stamina points can kill the hero outright "instead of starting to do health damage"[^ref-1], and the Quest for Glory Wiki notes that depleting stamina during combat results in instant death[^ref-51].
 
 The game strives to minimize "walking dead" situations where the player can become stuck without hope of victory[^ref-21]. According to designer Corey Cole, "There should be very few, if any, 'walking dead' situations in this game"[^ref-21].
 
@@ -102,7 +102,7 @@ Sierra's own hint material quoted *Compute* as calling it "a breakthrough in adv
 
 ### Modern Assessment
 
-Modern retrospectives continue to regard Quest for Glory I highly. *RPGamer* awarded the game 4/5 stars, with reviewer Tyler Willis noting that "Quest for Glory I comes recommended to any RPGamer who enjoys exploration and a good, old-fashioned graphical adventure with RPG elements"[^ref-10]. Michael Baker's RPGamer Retroview, which gave 3.5/5 but notes that it "is based on the EGA version" (original 1989 release), called the game "a piece of RPGaming history that stands the test of time" whether played in the EGA or VGA version, and praised the balance: "There aren't that many games out there with such a good balance of puzzles, gameplay, and writing"[^ref-25].
+Modern retrospectives continue to regard Quest for Glory I highly. *RPGamer* awarded the game 4/5 stars, with reviewer Tyler Willis noting that "QFG I comes recommended to any RPGamer who enjoys exploration and a good, old-fashioned graphical adventure with RPG elements"[^ref-10]. Michael Baker's RPGamer Retroview, which gave 3.5/5 but notes that it "is based on the EGA version" (original 1989 release), called the game "a piece of RPGaming history that stands the test of time" whether played in the EGA or VGA version, and praised the balance: "There aren't that many games out there with such a good balance of puzzles, gameplay, and writing"[^ref-25].
 
 *Adventure Classic Gaming* gave the VGA remake 4 of 5 (Very Good), with reviewer Don Rayner noting that "This remake of an old classic retains all the elements that make the original a great game while improving on others to attract new fans"[^ref-15].
 
@@ -111,10 +111,10 @@ In a 2020 retrospective, Indie Retro News wrote that "Quest For Glory I's (and c
 **Aggregate Scores:**
 - **MobyGames Critics:** 79% (10 ratings)[^ref-2]
 - **MobyGames Users:** 4.1/5 (52 ratings)[^ref-2]
-- **IMDb:** 8.5/10 (VGA remake, 112 votes)[^ref-9]
+- **IMDb:** 8.6/10 (VGA remake, 110 votes)[^ref-9]
 - **IMDb:** 8.7/10 (1989 original entry, 141 votes)[^ref-8]
-- **MyAbandonware:** 4.59/5 (100 votes)[^ref-20]
-- **Abandonware DOS:** 3.98/5.00 (50 votes)[^ref-31]
+- **MyAbandonware:** 4.59/5 (101 votes)[^ref-20]
+- **Abandonware DOS:** 3.98/5.00 (1989 original entry, 50 votes)[^ref-31]
 - **GamesNostalgia:** 80/100 (6 editorial reviews)[^ref-32]
 
 ## Development
@@ -123,7 +123,7 @@ In a 2020 retrospective, Indie Retro News wrote that "Quest For Glory I's (and c
 
 The Quest for Glory series began with designers [[Lori Ann Cole]] and [[Corey Cole]], who met over a Dungeons & Dragons game at a science fiction convention[^ref-33]. Both were avid tabletop RPG enthusiasts—Corey had published "The Tower of Indomitable Circumstance" campaign book and served as Dungeon Master, while Lori was a writer, artist, and animator[^ref-34]. Corey Cole has said the first games were based on "our paper RPG experience (including our custom skill-based RPG system)"[^ref-35].
 
-Lori Cole proposed *Hero's Quest* to Sierra when her son Michael was two years old and able to stay in day care, allowing her to work in-house at the company[^ref-36]. The original concept was far more ambitious than what eventually shipped: "I originally conceived of Quest for Glory as a fairly serious Role-playing Game with Adventure Game aspects," Lori explained[^ref-33]. However, the available art resources and engine limitations pushed the game toward a more adventure-focused, humorous approach[^ref-33].
+Lori Cole proposed *Hero's Quest* to Sierra when her son was two years old and able to stay in day care, allowing her to work in-house at the company[^ref-36]. The original concept was far more ambitious than what eventually shipped: "I originally conceived of Quest for Glory as a fairly serious Role-playing Game with Adventure Game aspects," Lori explained[^ref-33]. However, the available art resources and engine limitations pushed the game toward a more adventure-focused, humorous approach[^ref-33].
 
 The initial design featured multiple character races rather than classes: players would choose from thief-like gnomes, magic-wielding elves, humans, and archer centaurs[^ref-1]. The centaur race was cut first when programmer Bob Heitman pointed out that four-legged creatures are difficult to animate[^ref-33]. Eventually, the race system was replaced entirely with three classes for a single human character, though the class abilities retained echoes of the original racial concepts[^ref-33].
 
@@ -131,7 +131,7 @@ When Ken Williams looked at the game in development, he was skeptical: "This is 
 
 ### Production
 
-In a 2012 RPG Codex interview, Corey Cole said the original *Hero's Quest* had "a relatively tiny budget, because everyone on the team made about 40% less than at their previous jobs," and estimated its cost at approximately $150,000 to $250,000[^ref-35]. The Coles' own 2024 account gives the 40% figure for Corey's own hiring: Sierra's offer to him was "40% less than Corey had last earned in the Bay Area," and he negotiated slightly more[^ref-53]. Development took over a year, with up to four programmers and four artists, a musician, and a designer-director[^ref-38]. The final product contained 111,000 lines of source code, 535,000 bytes of background pictures, 1,560,000 bytes of animation, 1,980,000 bytes of program code, 375,000 characters of text messages, 314,000 bytes of music and sound effects, and over 200,000 bytes of compiled system code[^ref-38].
+In a 2012 RPG Codex interview, Corey Cole said the original *Hero's Quest* had "a relatively tiny budget, because everyone on the team made about 40% less than at their previous jobs," and estimated its cost at approximately $150,000 to $250,000[^ref-35]. The Coles' own 2024 account gives the 40% figure for Corey's own hiring: Sierra's offer to him was "40% less than Corey had last earned in the Bay Area," and he negotiated slightly more[^ref-53]. According to MobyGames' entry for the original 1989 release, its development took over a year, with up to four programmers and four artists, a musician, and a designer-director[^ref-38]. That original game contained 111,000 lines of source code, 535,000 bytes of background pictures, 1,560,000 bytes of animation, 1,980,000 bytes of program code, 375,000 characters of text messages, 314,000 bytes of music and sound effects, and over 200,000 bytes of compiled system code[^ref-38].
 
 The game's humor emerged somewhat organically during development. "Rather than have the serious nature of the game fight with the art style, I adapted the game play to mesh with the art," Lori Cole explained[^ref-36]. Programmer Bob Fischbach was responsible for many of the first puns in the game, adding amusing responses for unhandled player input[^ref-37].
 
@@ -144,16 +144,16 @@ The remake's distinctive visual style came from an innovative technical approach
 - **Co-Designer:** Corey Cole
 - **Director:** [[Lori Ann Cole]][^ref-2]
 - **Creative Director:** Bill Davis[^ref-2]
-- **Producer:** Stuart Moulder (DOS; the QFG Fandom Mac page lists Guruka Singh-Khalsa for the 1994 Macintosh release)[^ref-2][^ref-39]
+- **Producer:** Stuart Moulder[^ref-2]
 - **Programmers:** Tom DeSalvo, Robert Fischbach, Oliver Brelsford[^ref-39]
 - **Composer:** Mark Seibert[^ref-1]
-- **Additional Music:** Aubrey Hodges, Spike Jones[^ref-2]
+- **Music:** Aubrey Hodges, Spike Jones[^ref-2]
 
 ### Technical Achievements
 
 The VGA remake utilized Sierra's SCI 1.1 interpreter[^ref-26], replacing the text-parser-based SCI0 interpreter used in the original[^ref-51]. The new engine enabled 256-color VGA graphics, replacing the original's 16-color EGA palette[^ref-15]. The point-and-click interface streamlined gameplay considerably, making actions easier to execute than with the text parser[^ref-16].
 
-The clay animation technique used for monster fights and character portraits was particularly innovative for the time. "Combat now features clay models for the enemies and stop-motion animation," MobyGames' game description notes[^ref-2]. This approach gave the characters a distinctive visual personality that distinguished the remake from both its predecessor and other Sierra titles of the era.
+"Combat now features clay models for the enemies and stop-motion animation," MobyGames' game description notes[^ref-2].
 
 ### Technical Specifications
 
@@ -184,6 +184,7 @@ The development process saw numerous features cut due to time, budget, and techn
 - **Fourth "Do It Yourself" Class Option:** Would have allowed players to freely choose any skills[^ref-33]
 - **Treasure Room in Troll Cave:** The back of the Troll Cave, with its extra treasure, is present in the original but missing from the VGA remake[^ref-51]
 - **First-Person Combat:** Early designs included a fully first-person combat perspective[^ref-33]
+- **Magic User Familiar:** Lori Cole said in 2001, "We wanted to have the Hero be able to have a familiar, like Zara in the first game. That was just too difficult to pull off in programming"[^ref-56]
 
 The designers did maintain their vision of creating "a very egalitarian world, where you have woman warriors and woman role models throughout the game," even without the female protagonist option[^ref-33].
 
@@ -198,7 +199,8 @@ The designers did maintain their vision of creating "a very egalitarian world, w
 | VGA Remake (Floppy) | July 1992 | MS-DOS | Point-and-click remake[^ref-1] |
 | VGA Remake (CD-ROM) | April 1994 | MS-DOS | CD release[^ref-1] |
 | Macintosh VGA | 1994 | Mac OS | Mac port of VGA remake[^ref-1] |
-| Quest for Glory Collection | 1997 | Windows | Compilation release[^ref-42] |
+| Quest for Glory Anthology | 1996 | MS-DOS, Windows | CD-ROM compilation with both the original and the VGA remake[^ref-1][^ref-55] |
+| Quest for Glory Collection Series | 1997 | MS-DOS, Windows 3.x | Re-release of the Anthology with a Dragon Fire demo[^ref-1][^ref-52][^ref-54] |
 
 **SCI Interpreter Versions:**[^ref-26][^ref-51]
 
@@ -214,9 +216,9 @@ Several bugs affect the VGA remake[^ref-43]:
 - **Mana Usage Bug:** A bug exists in certain rooms and when using specific spells that causes mana usage to be doubled. This bug was present in both the VGA remake and the original EGA version[^ref-43]
 - **Timer Bug:** The VGA version has a timer bug that can make the game unwinnable when restoring saves during timed sequences[^ref-12]
 - **Music Glitch:** A bug turns off music in the last few scenes of the game[^ref-22]
-- **Graphics Glitch:** An occasional graphical glitch can cause graphics to remain corrupted until the user exits the game[^ref-2]
+- **Graphics Glitch:** A MobyGames user reviewer reports an occasional graphical glitch that leaves the graphics corrupted until the user exits the game[^ref-2]
 - **Toro Continuity Error:** At the end celebration party, Toro the minotaur appears among guests even if the Fighter killed him earlier[^ref-9]
-- **DOSBox Compatibility:** Requires DOSBox cycles set to approximately 10,000; EMS must be set to false to prevent "Out of Handles" crashes[^ref-44]
+- **DOSBox Settings:** Speedrun.com's rules standardise DOSBox at 10,000 cycles for timing, and for QFG1 VGA advise disabling EMS (EMS=false) to prevent the "Out of Handles" crash[^ref-44]
 
 ### Easter Eggs and Trivia
 
@@ -258,7 +260,7 @@ The Quest for Glory series is renowned for its humor and pop culture references.
 
 ### Sales and Commercial Impact
 
-Quest for Glory I achieved remarkable commercial success. The original Hero's Quest sold 130,000 copies in its first year[^ref-1]; including the VGA version, it sold over 250,000 copies in its first few years[^ref-37]. The VGA remake reportedly sold even more units than the original[^ref-4], making it one of Sierra's best-performing titles of the era.
+Quest for Glory I achieved remarkable commercial success. The original Hero's Quest sold 130,000 copies in its first year[^ref-1]; including the VGA version, it sold over 250,000 copies in its first few years[^ref-37]. The VGA remake reportedly sold even more units than the original[^ref-4].
 
 "Interestingly, although most of Sierra's VGA remakes were unprofitable, QG1 VGA was a notable exception," Corey Cole confirmed[^ref-4]. "I believe it actually sold more units than the original game. However, by that point, Sierra management had a picture that remakes did not make money, so ours was one of the last."
 
@@ -276,34 +278,33 @@ The original *Hero's Quest* became one of Sierra's fastest-selling games on init
 
 Quest for Glory I has been included in several compilation releases:
 
-- **Quest for Glory Anthology** – Contains both EGA and VGA versions along with sequels[^ref-42]
-- **Quest for Glory Collection Series (1997)** – Includes Hero's Quest, Quest for Glory I VGA, II, III, and Shadows of Darkness, plus Quest for Glory V demo and soundtrack CD[^ref-42]
+- **Quest for Glory Anthology (1996)** – Contains both EGA and VGA versions along with sequels[^ref-1][^ref-55]
+- **Quest for Glory Collection Series (1997)** – Includes Hero's Quest, Quest for Glory I VGA, II, III, and Shadows of Darkness, plus Quest for Glory V demo and soundtrack CD[^ref-42][^ref-54]
 - **Quest for Glory 1-5 (GOG/Steam)** – Modern digital distribution compilation[^ref-27]
 
 ### Fan Projects
 
 The Quest for Glory series has inspired significant fan activity:
 
-- **[[AGD Interactive]]** has considered remaking the series, following their successful remakes of King's Quest I-III
+- **Quest for Glory II VGA remake** – AGD Interactive released a VGA fan remake of Quest for Glory II on August 24, 2008 (see [[2008 - Quest for Glory II VGA Remake]])[^ref-52]
 - **Hero-U: Rogue to Redemption** – by Corey and Lori Cole, which the Digital Antiquarian's Jimmy Maher calls "Quest for Glory VI in all but name"[^ref-47]
 - **Community Bug Fix Projects** – Fans have created patches to address long-standing bugs in the original code[^ref-43]
 - **German Localization Patch (V2.0)** – Fan-created patch for the Steam Quest for Glory Collection adding German language support[^ref-48]
 
 ### Related Publications
 
-- **In-Game Documentation:** The game includes an extensive manual explaining character creation, skills, and gameplay mechanics[^ref-11]
 - **Official Hint Line:** Sierra offered a 900 hint line, which was specifically improved for the VGA remake[^ref-49]
 - **Game Hints Documentation:** Official Sierra hints document describing the game as "really three different games in one package"[^ref-49]
 
 ### Critical Perspective
 
-"Being a genre hybrid is one of the surest ways to become a beloved game," noted one retrospective[^ref-6]. The game's influence extends far beyond the adventure genre: "Quest for Glory introduced a realism rarely found in RPGs and other adventure games even today"[^ref-5].
+"Being a genre hybrid is one of the surest ways to become a beloved game," noted one retrospective[^ref-6].
 
 "Without a leveling system in place, skills improve the more they are used. In an RPG this makes sense but feels weird and out of place in an adventure game," one analyst observed, noting how the mechanic blurred genre boundaries[^ref-34].
 
 RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking the kind of balance between adventure and RPG that no other game has since attained, and that is an important part of why it remains so memorable"[^ref-35].
 
-"Perhaps the best thing about the Quest For Glory series is that they exude an almost childlike joy about what video games can do," observed Rowan Kaiser in a retrospective for Engadget[^ref-6]. This sense of playful experimentation, combined with genuine RPG depth and adventure game puzzles, explains why the series continues to attract new fans decades after its release.
+"Perhaps the best thing about the Quest For Glory series is that they exude an almost childlike joy about what video games can do," observed Rowan Kaiser in a retrospective for Engadget[^ref-6].
 
 ## Downloads
 
@@ -312,10 +313,11 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 - [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/)
 
 **Download / Preservation**
+- The game is sold on GOG and Steam as part of Quest for Glory 1-5 (links above), so no download links are listed here.
 
 **Emulation Requirements**
-- ScummVM or DOSBox recommended for modern systems[^ref-16]
-- DOSBox cycles: 10,000 recommended; EMS=false prevents crashes[^ref-44]
+- ScummVM or DOSBox recommended for modern systems[^ref-19]
+- DOSBox: EMS=false prevents the "Out of Handles" crash; 10,000 cycles is the speedrun-standard setting[^ref-44]
 
 ## See Also
 
@@ -334,7 +336,6 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-2]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – credits, ratings, trivia, easter eggs, technical specifications
 [^ref-34]: [IGN – Revisiting Quest for Glory I & II](http://www.ign.com/articles/2014/11/03/revisiting-quest-for-glory-i-ii) – development history, genre analysis
 [^ref-4]: [Destructoid – Quest for Glory Developers Interview](http://www.destructoid.com/quest-for-glory-developers-only-approached-once-for-a-remake-135372.phtml) – VGA remake costs and sales, Corey Cole quotes
-[^ref-5]: ClassicReload – Quest for Glory I *(download link removed: the game is sold commercially)* – "three games in one" marketing, gameplay description
 [^ref-6]: [Engadget – The Glory of Quest for Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – retrospective analysis, series overview, Rowan Kaiser quotes
 [^ref-8]: [IMDB – Quest for Glory I Plot](https://www.imdb.com/title/tt0420848/) – plot description, setting details
 [^ref-9]: [IMDB – Quest for Glory I VGA](https://www.imdb.com/title/tt0445657/) – plot details, trivia
@@ -350,7 +351,7 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-20]: MyAbandonware – Quest for Glory I Reviews *(download link removed: the game is sold commercially)* – user reviews
 [^ref-21]: [The Adventurers' Guild Blog](https://advgamer.blogspot.com/2017/10/quest-for-glory-i-so-you-want-to-be.html) – Corey Cole "walking dead" quote
 [^ref-22]: [COMPUTE! Issue 149 Review](https://www.atarimagazines.com/compute/issue149/126_Quest_for_Glory_I.php) – Alfred C. Giovetti review, clay animation details, technical specs
-[^ref-23]: [Macworld 1995 Game Hall of Fame](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Steven Levy review, award
+[^ref-23]: [Macworld – 1994 Macintosh Game Hall of Fame (January 1995)](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Steven Levy review, award
 [^ref-25]: [RPGamer – Quest for Glory I Retroview](https://web.archive.org/web/20170805141031/http://rpgamer.com/games/qfg/qfg1/reviews/qfg1strev2.html) – Michael Baker review, technical details
 [^ref-27]: [MobyGames – Quest for Glory 1-5 Collection](https://www.mobygames.com/game/55944/quest-for-glory-1-5/) – compilation info, ratings
 [^ref-31]: Abandonware DOS *(download link removed: the game is sold commercially)* – ratings, basic info
@@ -371,3 +372,6 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-51]: [Quest for Glory Wiki – Quest for Glory I (VGA)](https://questforglory.fandom.com/wiki/Quest_for_Glory_I_(VGA)) – differences from the original: SCI1.1 vs SCI0, stamina death, Troll Cave treasure, ending ceremony, skill-allocation bug
 [^ref-52]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series article; lockpick "open nose" easter egg in the original and the new version
 [^ref-53]: [Patreon – Our First Years (Corey and Lori Cole, January 27, 2024)](https://www.patreon.com/posts/our-first-years-97270318) – the Coles' own account: Sierra's offer to Corey was "40% less than Corey had last earned in the Bay Area"; he signed for slightly more
+[^ref-54]: [MobyGames – Quest for Glory: Collection Series](https://www.mobygames.com/game/2818/quest-for-glory-collection-series/) – read via the MobyGames API: DOS and Windows 16-bit (1997); contents include Hero's Quest and Quest for Glory I VGA
+[^ref-55]: [MobyGames – Quest for Glory: Anthology](https://www.mobygames.com/game/2819/quest-for-glory-anthology/) – read via the MobyGames API: DOS and Windows (1996); box includes Hero's Quest and Quest for Glory I VGA
+[^ref-56]: Live chat with Lori and Corey Cole, #Hero6, March 31, 2001 (unedited transcript, Wayback Machine copy of October 27, 2009) – Lori Cole on the cut familiar
