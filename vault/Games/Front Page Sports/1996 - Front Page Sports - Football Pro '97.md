@@ -10,15 +10,16 @@ series: Front Page Sports
 engine: Updated Red Baron game engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Christopher Stevens, Timothy Steven Clarke]
 description: Front Page Sports Football Pro '97 is a professional American football
-  simulation game developed by Dynamix and published by Sierra On-Line in 1996. The...
+  simulation game developed by Dynamix and published by Sierra On-Line in 1996, the
+  first edition of the series for Windows 95.
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '97
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -132,7 +133,7 @@ The game shipped with bugs. TheComputerShow reported that gameplans imported fro
 
 ## Legacy
 
-The Front Page Sports Football series was one of the first football simulations with a career mode in which players aged and retired.[^ref-2]
+The series offered a career mode in which players aged and retired;[^ref-2] Sierra billed Football Pro '97 as the "only football sim to offer career play".[^ref-26]
 
 ### Cover Athletes
 
@@ -140,7 +141,7 @@ The '97 edition featured running back Barry Sanders on the cover, while the subs
 
 ### Series Decline
 
-The series continued with Front Page Sports Football Pro '98 and '99, but a planned 2000 version was cancelled after the 1999 version was recalled.[^ref-2] In its 2008 article "Ten Sports Games That Need To Be Remade," IGN called the 1995 through 1997 editions the highlight of the series, "undoubtedly the best-looking and best-playing football game on the marketplace."[^ref-22]
+The series continued with Football Pro '98 and the rebranded Sierra Sports NFL Football Pro '99, but a planned 2000 version was cancelled after the 1999 version was recalled.[^ref-2] In its 2008 article "Ten Sports Games That Need To Be Remade," IGN called the 1995 through 1997 editions the highlight of the series, "undoubtedly the best-looking and best-playing football game on the marketplace."[^ref-22]
 
 ## Purchase
 
@@ -183,7 +184,7 @@ The series continued with Front Page Sports Football Pro '98 and '99, but a plan
 [^ref-16]: [MyAbandonware Game Page](https://www.myabandonware.com/game/front-page-sports-football-pro-97-fz4) - User rating
 [^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/windows/) - Windows credits (106 people)
 [^ref-22]: [IGN - Ten Sports Games That Need To Be Remade](https://www.ign.com/articles/2008/06/12/ten-sports-games-that-need-to-be-remade) - 2008 retrospective on the FPS: Football Pro series
-[^ref-23]: [Computer Gaming World #152 (March 1997) - "Broken Field Runner"](https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt) - Dennis McCauley review: features, bugs, requirements, multiplayer
+[^ref-23]: [Computer Gaming World #152 (March 1997) - "Broken Field Runner" review and Hall of Fame entry for Front Page Sports Football Pro](https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt) - Dennis McCauley review: features, bugs, requirements, multiplayer
 [^ref-24]: [Next Generation #29 (May 1997) - "Finals: Front Page Sports: Football Pro '97"](https://archive.org/download/NEXT_Generation_29/NEXT_Generation_29_djvu.txt) - Review, rated ★★
 [^ref-25]: [Sierra Help Pages - Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Football Pro '97 patches
 [^ref-26]: [Sierra On-Line - Front Page Sports: Football Pro '97 (archived Dec 1996)](https://web.archive.org/web/19961220000443/http://www.sierra.com:80/games/fb97/index.html) - Official product page: features, series awards
