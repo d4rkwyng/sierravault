@@ -10,14 +10,14 @@ series: Space Quest (Fan Game)
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Space Quest: The Lost Chapter is an unofficial fan-made adventure game
   that takes place in the Space Quest universe originally created by Sierra On-Line....'
 tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest: The Lost Chapter
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Space Quest: The Lost Chapter is an unofficial fan-made adventure game that take
 
 The game faithfully recreates the look and feel of Sierra's classic AGI-era adventures, featuring cartoony 16-color graphics reminiscent of Space Quest II[^ref-1]. Like its official Sierra counterparts, The Lost Chapter features innumerable ways to die[^ref-1], a hallmark of classic Sierra design that co-creator Scott Murphy once described as "fun death," noting "if the player is gonna die or fail, they should at least get a laugh out of it"[^ref-26]. According to the Space Quest Omnipedia, the game "was a hit in the Space Quest fan community and helped to spawn several other fan game projects"[^ref-3].
 
-Despite being an amateur production, The Lost Chapter earned a generally positive reception from fans and reviewers who appreciated its faithful recreation of the Space Quest experience, though some critics found it frustrating. The game provides completely original art, story, and puzzles while paying homage to the source material[^ref-5]. Home of the Underdogs' review noted: "Amateur sequels to professional games are rarely of the same quality, and an amateur addition to the legendary Space Quest series would have a lot to live up to in the way of fan's expectations. It's actually rather good"[^ref-30].
+Despite being an amateur production, The Lost Chapter drew a mixed reception: some fans and reviewers appreciated its faithful recreation of the Space Quest experience, while others found it frustrating. The game provides completely original art, story, and puzzles while paying homage to the source material[^ref-5]. Home of the Underdogs' review noted: "Amateur sequels to professional games are rarely of the same quality, and an amateur addition to the legendary Space Quest series would have a lot to live up to in the way of fan's expectations. It's actually rather good"[^ref-30].
 
 > [!info]- Game Info
 > **Developer:** Vonster Vision[^ref-5]
@@ -78,7 +78,7 @@ Reception to Space Quest: The Lost Chapter was mixed, with opinions ranging from
 
 On SCI Programming's fan game database, reviewer Cloudee1 wrote: "All in all, a pretty good game. Freakin huge that's for sure," while noting its biggest issue was playability, with several rooms giving no clue that anything could be done there[^ref-34]. OldGames.sk lists a score of 64%[^ref-7].
 
-However, GameFAQs user Flashman85 provided a scathing review, giving the game just 2 out of 10 and titling it "Unplayable at any speed"[^ref-13]. The reviewer criticized most aspects of the game, declaring "Space Quest: The Lost Chapter isn't fun" and calling the squid maze "probably the WORST puzzle in adventure game history," though he credited its humor and story[^ref-13].
+However, GameFAQs user Flashman85 provided a scathing review in 2008, giving the game just 2 out of 10 and titling it "Unplayable at any speed"[^ref-13]. The reviewer criticized most aspects of the game, declaring "Space Quest: The Lost Chapter isn't fun" and calling the squid maze "probably the WORST puzzle in adventure game history," though he credited its humor and story[^ref-13].
 
 Another reviewer, ASchultz, offered a more balanced perspective in his GameFAQs guide, writing that "SQTLC is not an official entry in the Space Quest series but more like a tribute. It's a good one although it does share some of the overdone bits I didn't always like about Space Quest"[^ref-17]. He added: "I quite like it despite how it violates a LOT of Graham Nelson's Player's Bill of Rights"[^ref-17].
 
@@ -114,7 +114,7 @@ The AGI engine presented technical limitations: Gosine noted that "AGI allows on
 
 ### Technical Achievements
 
-The Lost Chapter replicates the look and feel of Sierra's AGI-era games, featuring cartoony 16-color graphics[^ref-1]. The game includes colorful animated wildlife that runs and swims through various environments[^ref-17], showing how much the developer could do within the AGI engine's constraints.
+The Lost Chapter replicates the look and feel of Sierra's AGI-era games, featuring cartoony 16-color graphics[^ref-1]. The game includes colorful animated wildlife that runs and swims through various environments[^ref-17].
 
 The game runs on systems with extremely modest requirements, reflecting its use of the classic AGI engine originally designed for 1980s hardware[^ref-3].
 
@@ -130,13 +130,13 @@ The game runs on systems with extremely modest requirements, reflecting its use 
 
 **File Sizes:**[^ref-5]
 - **Main Game:** 925 KB (0.90 MB)
-- **With Extras:** 1,715 KB (1.67 MB)
+- **Extras archive (patches, box art):** 1,715 KB (1.67 MB)
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Demo | November 29, 2000 | DOS | First public demo, updated with bug fixes on December 1, 2000[^ref-32] |
+| Demo | November 29, 2000 | DOS | Demo (official site launch), updated with bug fixes on December 1, 2000[^ref-32] |
 | Full release | February 1, 2001 | DOS | Finished game "with Easter Eggs, Complete Ending and Sound"[^ref-31] |
 | Update | February 8, 2001 | DOS | Fixes and one or two new Easter eggs[^ref-21] |
 | Mouse version | March 6, 2001 | DOS | Mouse movement via Brian Provinciano's AGI Mouse[^ref-21] |
@@ -189,7 +189,7 @@ The Lost Chapter has never been included in any official Sierra compilation, as 
 
 ### Fan Projects
 
-Space Quest: The Lost Chapter was instrumental in inspiring further fan development within the Space Quest community. According to the Space Quest Omnipedia, "it was a hit in the Space Quest fan community and helped to spawn several other fan game projects"[^ref-3]. The game demonstrated that dedicated fans could create quality content using Sierra's classic game engines.
+According to the Space Quest Omnipedia, "it was a hit in the Space Quest fan community and helped to spawn several other fan game projects"[^ref-3].
 
 The game exists within a broader ecosystem of Space Quest fan fiction and games, with the fan timeline documentation showing multiple parallel universes and timelines branching from the official Space Quest games[^ref-22]. The Omnipedia's fan timeline describes the game as leading to a "Future timeline" in which Space Quest XII "appears to be a much more pleasant and happy history"[^ref-22].
 
@@ -203,16 +203,14 @@ The game exists within a broader ecosystem of Space Quest fan fiction and games,
 
 ### Critical Perspective
 
-Space Quest: The Lost Chapter occupies a unique position in adventure gaming history as one of the more successful fan-made tributes to a beloved commercial series. While it could never match the polish of Sierra's professional productions, it demonstrated the depth of affection fans held for the Space Quest franchise after Sierra stopped making new entries.
-
 The game's faithful recreation of AGI-era gameplay represents both its greatest strength and weakness. For nostalgic fans, the authentic retro experience was exactly what they wanted. For others, the primitive interface and frustrating puzzle design represented the worst aspects of classic adventure gaming, the kind of sudden deaths that LucasArts' own game literature later poked fun at[^ref-16]. The game violated what one reviewer called "a LOT of Graham Nelson's Player's Bill of Rights"[^ref-17], the influential set of design principles for fair adventure game design.
 
-In the broader context of fan game development, The Lost Chapter stands as an early example of fans continuing an abandoned franchise. Its release in 2001 predated the modern era of crowdfunded revivals and official fan game licensing, making it a product of pure grassroots enthusiasm. While opinions on its quality remain divided, it is remembered as a hit in the Space Quest fan community that helped spawn later fan games[^ref-3].
+While opinions on its quality remain divided, it is remembered as a hit in the Space Quest fan community that helped spawn later fan games[^ref-3].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Freeware fan game; never sold commercially and not available on GOG or Steam[^ref-7]
+- Freeware fan game[^ref-7]; never sold commercially
 
 ## Downloads
 
@@ -221,7 +219,7 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Internet Archive (AGI Version)](https://archive.org/details/agi_space-quest-x-the-lost-chapter)
 - [MyAbandonware](https://www.myabandonware.com/game/space-quest-the-lost-chapter-c96)
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/space-quest-the-lost-chapter)
-- [OldGames.sk](https://www.oldgames.sk/en/game/space-quest-the-lost-chapter/download/6920/)
+- [OldGames.sk](https://www.oldgames.sk/en/game/space-quest-the-lost-chapter/downloads)
 
 **Patches**
 - [Stack Blown Patch (official site, via Wayback Machine)](https://web.archive.org/web/20051028070140/http://www.frostbytei.com:80/space/modified_sierra_agi_2.936.zip) – Replacement AGI interpreter for stack errors on Windows 2000/ME[^ref-21]
@@ -254,7 +252,7 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 [^ref-4]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Space Quest 7 development and cancellation
 [^ref-5]: [DOS Games Archive – Space Quest: The Lost Chapter](https://www.dosgamesarchive.com/download/space-quest-the-lost-chapter) – developer, engine, platform, file sizes, game description
 [^ref-6]: [MyAbandonware – Space Quest: The Lost Chapter](https://www.myabandonware.com/game/space-quest-the-lost-chapter-c96) – HOTUD review text, user rating (5/5, 6 votes), mouse-support version note
-[^ref-7]: [OldGames.sk – Space Quest: The Lost Chapter](https://www.oldgames.sk/en/game/space-quest-the-lost-chapter/download/6920/) – rating, freeware publisher info
+[^ref-7]: [OldGames.sk – Space Quest: The Lost Chapter](https://www.oldgames.sk/en/game/space-quest-the-lost-chapter/) – rating, freeware publisher info
 [^ref-8]: [Walkthrough King – Space Quest: The Lost Chapter](https://www.walkthroughking.com/text/spacequestlostchapter.aspx) – game description, story continuity with SQ2 and SQ3
 [^ref-11]: [Reddit r/Sierra – Tentacle Maze Video Tutorial](https://www.reddit.com/r/Sierra/comments/okc5tk/space_quest_the_lost_chapter_tentacle_maze_video/) – one user's 2021 tutorial post on the maze
 [^ref-13]: [GameFAQs – Flashman85 Review](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter/reviews/125655) – negative review quotes, parser issues, inventory count, text errors, death message quote
