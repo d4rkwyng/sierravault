@@ -10,18 +10,19 @@ series: Coktel
 engine: Gob
 protagonist: Mel Raauq
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: The Last Dynasty is a hybrid action-adventure game developed by Coktel
-  Vision and published by Sierra On-Line in 1995. The game ambitiously combines space...
+  Vision and published by Sierra On-Line in 1995, combining space combat with first-person
+  adventure segments.
 tags: [1990s, adventure, coktel, sierra]
 ---
 # The Last Dynasty
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-The Last Dynasty is a hybrid action-adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995.[^ref-6] The game ambitiously combines space combat simulation sequences reminiscent of Wing Commander with first-person puzzle-solving adventure segments in the style of Myst, creating a unique but divisive gaming experience.[^ref-2] Players assume the role of Mel Raauq, an intergalactic hero tasked with preserving the "Ultimate Knowledge" while battling the villainous Lord Iron across the galaxy.[^ref-1][^ref-9]
+The Last Dynasty is a hybrid action-adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995.[^ref-6] The game ambitiously combines space combat simulation sequences reminiscent of Wing Commander with first-person puzzle-solving adventure segments in the style of Myst.[^ref-2] Players assume the role of Mel Raauq, an intergalactic hero tasked with preserving the "Ultimate Knowledge" while battling the villainous Lord Iron across the galaxy.[^ref-1][^ref-9]
 
 Coming Soon Magazine called it "probably the largest production from Sierra On-Line to this day with a budget of over two million dollars," featuring several hours of dialogue, SVGA graphics throughout, and extensive video sequences.[^ref-4] The demo's marketing promised players could "Play the adventure and combat phases simultaneously and experience total gaming freedom," with all action in real time.[^ref-5] Reviews were split: Coming Soon Magazine scored it 91%, while Computer Gaming World gave it 40% and found its endless video clips and two-CD structure wearing.[^ref-4][^ref-1][^ref-6]
 
@@ -34,13 +35,13 @@ Coming Soon Magazine called it "probably the largest production from Sierra On-L
 > **Release Year:** 1995
 > **Series:** Coktel
 > **Protagonist:** Mel Raauq
-> **Sierra Lineage:** Coktel Vision (Sierra Subsidiary)
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-The Last Dynasty is set in a distant future where galactic peace is threatened by the forces of darkness led by the tyrannical Lord Iron.[^ref-9] Players take on the role of Mel Raauq, a skilled space pilot who receives what is described as "the mission of a lifetime"—to locate and ultimately destroy Lord Iron, whose minions have spread across space in an attempt to subjugate the inhabitants of the galaxy.[^ref-2] Mel is secretly revealed to be an alien prince with valuable data locked within his mind, making him both a key asset and a target for enemy forces.[^ref-10]
+The game opens on Earth, with Mel and his friend Dok "engaged in some sort of satellite launch, from what looks like their Hamburg apartment," as Computer Gaming World put it; Mel then receives an alien message, and an alien starship arrives on Earth.[^ref-1] The Collection Chamber describes the same opening as the pair's attempt to blast a miniature rocket ship into outer space.[^ref-10] Mel is secretly an alien prince with valuable data locked within his mind.[^ref-10] Players take on the role of Mel Raauq, a space pilot who receives what is described as "the mission of a lifetime"—to locate and ultimately destroy Lord Iron, whose minions have spread across space in an attempt to subjugate the inhabitants of the galaxy.[^ref-2] Lord Iron's dark forces threaten "peace and tranquility in the galaxy."[^ref-9]
 
-Throughout the adventure, Mel is accompanied by his companion Dok, who is revealed to be an Imperial Squire sent to protect him on Earth.[^ref-1] The Collection Chamber blog's 2017 retrospective asked of the pair, "Are they the first representation of a gay couple in videogames? It's not explicit but it looks commendably likely."[^ref-10] The narrative unfolds across multiple planetary locations and space battles as Mel pieces together clues about Lord Iron's operations while engaging the dark lord's fleet in combat.
+Throughout the adventure, Mel is accompanied by his companion Dok, who is revealed to be an Imperial Squire sent to protect him on Earth.[^ref-1] The Collection Chamber blog's 2017 retrospective asked of the pair, "Are they the first representation of a gay couple in videogames? It's not explicit but it looks commendably likely."[^ref-10] The adventure phase takes place on a large space station.[^ref-10]
 
 Other characters include Vanna, the Colonel, Lord Yannis, Malchus, Malinka, Vaid, Ike and the Hoja.[^ref-11] Coming Soon Magazine's reviewer deliberately left the scenario undescribed, noting only that the game "features several hours of dialogue" and "lots of video sequences."[^ref-4]
 
@@ -65,7 +66,7 @@ Reviewers disagreed about the switches between modes. Coming Soon Magazine wrote
 
 ### Puzzles and Mechanics
 
-The adventure portions involve collecting items and solving puzzles.[^ref-2] Computer Gaming World found the puzzles "generally straightforward," requiring "only cleverness" rather than clairvoyance, with weapons used only to solve particular situations.[^ref-1] The combination of real-time action elements with traditional adventure game puzzle-solving created what reviewers described as a "schizophrenic" experience that attempted to appeal to multiple audiences.[^ref-10]
+The adventure portions involve collecting items and solving puzzles.[^ref-2] Computer Gaming World found the puzzles "generally straightforward," requiring "only cleverness" rather than clairvoyance, with weapons used only to solve particular situations.[^ref-1] The Collection Chamber felt the mix of action and adventure "sits uneasily for both action gamers and adventurers."[^ref-10]
 
 ## Reception
 
@@ -82,7 +83,7 @@ Contemporary reviews of The Last Dynasty were sharply split.
 The Collection Chamber blog's 2017 retrospective concluded that "The Last Dynasty ultimately ends up being a rather schizophrenic game meant for everyone but caters to no-one."[^ref-10]
 
 **Aggregate Scores:**
-- **MobyGames:** Critics 63% (11 reviews)[^ref-2]
+- **MobyGames:** Critics 64% (10 reviews, as archived December 2025)[^ref-13]
 - **MyAbandonware:** 3.71/5[^ref-8]
 - **GameFAQs User Rating:** Fair (10 ratings)[^ref-14]
 - **GameFAQs Difficulty:** Just Right (6 votes)[^ref-14]
@@ -92,11 +93,11 @@ The Collection Chamber blog's 2017 retrospective concluded that "The Last Dynast
 
 ### Origins
 
-Coktel Vision, a French developer that had been acquired by Sierra On-Line in 1993, was already known for innovative adventure games including the Goblins series, the Inca series, Lost in Time, and Ween.[^ref-15]
+Coktel Vision, a French developer that had been acquired by Sierra On-Line in 1993, was already known for innovative adventure games including the Goblins series, the Inca series, Lost in Time, and Ween.[^ref-15] Sierra's 1996 annual report dates the acquisition to October 29, 1993.[^ref-21]
 
 ### Production
 
-Coming Soon Magazine reported a budget of over two million dollars, calling the game "probably the largest production from Sierra On-Line to this day."[^ref-4] MobyGames likewise records a $2 million budget.[^ref-2] Development involved a large team of specialists including programmers, graphic artists, musicians, scriptwriters, and professional cinematographers to handle the extensive FMV sequences.[^ref-4]
+Coming Soon Magazine reported a budget of over two million dollars, calling the game "probably the largest production from Sierra On-Line to this day."[^ref-4] MobyGames likewise records a $2 million budget.[^ref-2] The German magazine MAN!AC reported that Sierra hired professional actors: nearly a year of planning was followed by 30 days of filming in front of a blue screen, after which the backgrounds were replaced with rendered sets, sound was added and the dialogue was dubbed into all languages.[^ref-3]
 
 **Development Credits:**[^ref-2]
 - **Project Supervisor:** Philippe Lamarque
@@ -126,13 +127,13 @@ The Last Dynasty runs on the Gob engine, Coktel Vision's in-house engine.[^ref-7
 
 ### Cut Content
 
-A Sega Saturn version of The Last Dynasty was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
+In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's first console title, listing a German release for November.[^ref-3] The Sega Saturn version was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original release | July 1995 | Windows 3.x | Two CD-ROMs[^ref-4] |
+| Original release | 1995 (reviewed July 1995) | Windows 3.x | Two CD-ROMs[^ref-4] |
 | Retail | 1995 | Windows 3.x | Released in the US, UK and Germany[^ref-12] |
 | Limited Edition | 1995 | Windows 3.x | Germany; shipped with a baseball cap[^ref-12][^ref-2] |
 | Sierra Originals | Undated | Windows 3.x | German budget re-release[^ref-12] |
@@ -203,7 +204,7 @@ In March 2021, a preservation milestone was achieved when the previously unrelea
 
 Computer Gaming World saw the game as a product of mid-1990s multimedia excess, saying its "endless video clips leave the player feeling like flotsam carried away on the raging current of unchecked multimedia," and likened it to Coktel's Inca.[^ref-1]
 
-The game's comparison to both Wing Commander and Myst reveals its fundamental identity crisis—attempting to satisfy fans of two very different genres without fully committing to either approach.[^ref-2] The Collection Chamber called the result "a rather schizophrenic game meant for everyone but caters to no-one."[^ref-10]
+The Collection Chamber argued that the game's "'action-packed' and 'adventure' elements are mutually exclusive," leaving a game that "has something of an identity crisis."[^ref-10]
 
 ## Purchase
 
@@ -217,7 +218,6 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 
 **Technical Resources**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty)[^ref-7]
-- [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
 ## See Also
 
@@ -231,6 +231,7 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 
 [^ref-1]: [Computer Gaming World #136 (November 1995) – "Mel and Dok's Annoying Adventure" by Martin E. Cirulis](https://archive.org/details/Computer_Gaming_World_Issue_136) – review (pp. 176–178): story, 7th Guest-style movement, two-CD swapping, puzzles, price, requirements, "big hit in Europe" quote
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores
+[^ref-3]: [MAN!AC 10/96 (October 1996), "Cutthroat Dynastie", p. 12 (German)](https://archive.org/details/MANiAC.N036.1996.10/page/n11/mode/1up) – preview of the Saturn/PlayStation conversions; nearly a year of planning, 30 days of blue-screen filming with professional actors
 [^ref-2]: [MobyGames – The Last Dynasty](https://www.mobygames.com/game/1230/the-last-dynasty/) – gameplay description, credits, technical specs, ratings, version info, trivia
 [^ref-4]: [Coming Soon Magazine – The Last Dynasty Review](https://csoon.com/issue6/lastd.html) – review score, production budget, technical requirements, gameplay features
 [^ref-5]: [Internet Archive – Dynasty Demo](https://archive.org/details/dynasty_zip) – demo description, gameplay features
@@ -241,9 +242,11 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 [^ref-11]: [Behind The Voice Actors – The Last Dynasty](https://www.behindthevoiceactors.com/video-games/the-last-dynasty/) – English voice cast
 [^ref-17]: [Sega Saturn Shiro – The Last Dynasty](https://www.segasaturnshiro.com/2021/04/01/unreleased-last-dynasty-dumped-no-april-fools/) – unreleased Saturn port, cancellation, prototype dump
 [^ref-12]: [MobyGames – The Last Dynasty Releases](https://www.mobygames.com/game/1230/the-last-dynasty/releases/) – US/UK/German releases, Limited Edition with baseball cap, Sierra Originals release
+[^ref-13]: [MobyGames – The Last Dynasty (Wayback Machine, 13 December 2025)](http://web.archive.org/web/20251213210656/https://www.mobygames.com/game/1230/the-last-dynasty/) – critic average 64% based on 10 ratings
 [^ref-14]: [GameFAQs – The Last Dynasty](https://gamefaqs.gamespot.com/pc/918466-the-last-dynasty) – user ratings, difficulty, length, similar games
 [^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Coktel Vision acquisition, game catalog
 [^ref-16]: [IMDB – The Last Dynasty](https://www.imdb.com/title/tt5554828/) – live-action cast, writers, production country
-[^ref-18]: [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype)) – prototype details, dump release info
+[^ref-18]: Hidden Palace – "The Last Dynasty (Nov 12, 1996 prototype)" (prototype database entry; not linked because the page offers the leaked build) – build date Nov 12, 1996; dumped and released by olsaturndev; file release date March 31, 2021
 [^ref-19]: [The Cutting Room Floor – The Last Dynasty](https://tcrf.net/The_Last_Dynasty) – cheat codes, debug functions, hidden content
 [^ref-20]: [Wikidata – The Last Dynasty](https://www.wikidata.org/wiki/Q18201842) – metadata; software engine: Gob
+[^ref-21]: [Sierra On-Line Form 10-K for fiscal 1996, filed July 1, 1996 (Wayback Machine copy of SEC EDGAR)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
