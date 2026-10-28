@@ -2,7 +2,7 @@
 title: Bop-A-Bet
 release_year: 1982
 developer: Sunnyside Soft
-designer: [Al Lowe, Margaret Lowe, Rae Lynn MacChesney]
+designer: [Margaret Lowe, Rae Lynn MacChesney]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [Apple II]
@@ -10,7 +10,7 @@ series: Hi-Res Learning Series
 engine: Unknown
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Bop-A-Bet is an Apple II alphabet game for young children, created in 1982 by Al and
   Margaret Lowe and Mike and Rae Lynn MacChesney as Sunnyside Soft and republished by Sierra
   On-Line in 1983 in its Hi-Res Learning series.
@@ -18,11 +18,11 @@ tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Bop-A-Bet is an educational letter-recognition and alphabetization game for young children, originally released by Sunnyside Soft of Fresno, California, for the Apple II in 1982 and republished by Sierra On-Line in 1983 as part of its Hi-Res Learning series.[^ref-1][^ref-3][^ref-27] It was the second game written by [[Al Lowe]], who would later create the Leisure Suit Larry series; Lowe called it "my second game" when he auctioned his own copy in 2018.[^ref-2] Drawing from their educational backgrounds, Al Lowe and his partner Mike MacChesney decided to use the computer as a platform for education, blending arcade-style enjoyment with simple learning principles.[^ref-3]
+Bop-A-Bet is an educational letter-recognition and alphabetization game for young children, originally released by Sunnyside Soft of Fresno, California, for the Apple II in 1982 and republished by Sierra On-Line in 1983 as part of its Hi-Res Learning series.[^ref-1][^ref-3][^ref-27] It was the second game written by [[Al Lowe]], who would later create the Leisure Suit Larry series; Lowe called it "my second game" when he auctioned his own copy in 2018.[^ref-2]
 
 The game is a maze game in which the player steers a boxing glove using four keys and "bops" letters in alphabetical order.[^ref-27] Retro365 likens the maze to Pac-Man.[^ref-3] Wikipedia notes that the game's speed increases as the child becomes more proficient, and the setup screens let a parent change the time limit and the speed of the bopper.[^ref-1][^ref-27]
 
@@ -31,7 +31,7 @@ Only 200 copies of the original Sunnyside Soft version were made, and Al Lowe la
 > [!info]- Game Info
 > **Developer:** Sunnyside Soft[^ref-1]
 > **Created by:** Al Lowe, Margaret Lowe, Michael MacChesney, Rae Lynn MacChesney[^ref-26]
-> **Designer:** Margaret Lowe, Rae Lynn MacChesney[^ref-1][^ref-26]
+> **Designer:** Margaret Lowe, Rae Lynn MacChesney (per Wikipedia's infobox; MobyGames and the box credit all four as creators)[^ref-1][^ref-26]
 > **Programmer:** [[Al Lowe]][^ref-1][^ref-2]
 > **Artist:** Mike MacChesney[^ref-1]
 > **Publisher:** Sunnyside Soft (1982), [[Sierra On-Line]] (1983)[^ref-1]
@@ -44,7 +44,7 @@ Only 200 copies of the original Sunnyside Soft version were made, and Al Lowe la
 
 ## Story Summary
 
-As an educational game designed for young children, Bop-A-Bet has no narrative.[^ref-1] The player guides a boxing glove around a maze and learns alphabetical order through play rather than through a story.[^ref-27]
+As an educational game designed for young children, Bop-A-Bet has no narrative; MobyGames describes it purely as a letter-recognition game.[^ref-8] The player guides a boxing glove around a maze and learns alphabetical order through play rather than through a story.[^ref-27]
 
 Four letters appear on the screen at a time, and the player must choose them in alphabetical order. When a letter is bopped correctly it disappears and the next letter in the alphabet appears somewhere else on the screen.[^ref-8]
 
@@ -84,13 +84,13 @@ Modern coverage of Bop-A-Bet focuses on its place in Al Lowe's career rather tha
 
 ### Origins
 
-Bop-A-Bet came out of a collaboration between two families of Fresno teachers: Al and Margaret Lowe, and Mike and Rae Lynn MacChesney.[^ref-3] Al Lowe described Sunnyside Soft as "the software company that I created along with my wife and the MacChesneys."[^ref-2] Drawing from their educational backgrounds, the team decided to use the computer as a platform for education, blending arcade-style enjoyment with simple learning principles.[^ref-3] After attending the National Educational Computing Conference in summer 1982, Al Lowe was unimpressed by the educational software on offer, and the group founded Sunnyside Soft with Dragon's Keep and Bop-a-Bet as its first titles.[^ref-29]
+Bop-A-Bet came out of a collaboration between two Fresno families, all four of them educators: Al and Margaret Lowe, and their neighbours Mike and Rae Lynn MacChesney.[^ref-3][^ref-27][^ref-29] Al Lowe described Sunnyside Soft as "the software company that I created along with my wife and the MacChesneys."[^ref-2] Retro365 writes that Lowe and MacChesney set out to use the computer as a teaching tool, mixing arcade play with basic lessons.[^ref-3] After attending the National Educational Computing Conference in summer 1982, Al Lowe was unimpressed by the educational software on offer, and the group founded Sunnyside Soft with Dragon's Keep and Bop-a-Bet as its first titles.[^ref-29]
 
 Al Lowe recalled: "My second game, I wrote it in my home office, before our new daughter took it away from me for her bedroom, relegating me to code in our laundry room."[^ref-2]
 
 ### Production
 
-Lowe programmed the game.[^ref-1][^ref-2] Wikipedia credits Mike MacChesney with the art, and the box credits all four partners as creators.[^ref-1][^ref-26] Wikidata also lists Al Lowe as the developer.[^ref-15]
+Lowe programmed the game.[^ref-1][^ref-2] Wikipedia credits Margaret Lowe and Rae Lynn MacChesney with the design and Mike MacChesney with the art, and the box credits all four partners as creators.[^ref-1][^ref-26] Wikidata also lists Al Lowe as the developer.[^ref-15]
 
 The initial Sunnyside Soft release was small. Only 200 copies were made, and they were sold from the Lowes' home "for a few months in genuine zip-lock baggies," with the family's home address and telephone number on the packaging.[^ref-2]
 
@@ -128,7 +128,7 @@ The main usability issue raised in the contemporary review was the setup questio
 - The original Sunnyside Soft packaging carried the creators' home address and telephone number.[^ref-2]
 - All of the 200 Sunnyside Soft copies sold except Lowe's own.[^ref-2]
 - Unlike the other two Sunnyside Soft titles, Bop-A-Bet was only released for the Apple II.[^ref-3]
-- At the San Francisco Applefest, Softalk photographed "Sarah Olson of Salinas" playing Bop-A-Bet "under the tutelage of Margaret Lowe of Sunnyside Soft."[^ref-28]
+- At the San Francisco Applefest, Softalk photographed a young visitor playing Bop-A-Bet "under the tutelage of Margaret Lowe of Sunnyside Soft."[^ref-28]
 
 ## Legacy
 
@@ -203,7 +203,7 @@ The 2018 sale of Al Lowe's personal copy for $10,200 shows how much collectors v
 [^ref-25]: [Internet Archive – Bop-A-Bet (woz-a-day collection)](https://archive.org/details/wozaday_Bop_A_Bet) — "a 1983 educational game developed by Al Lowe and distributed by Sierra On-Line. It requires a 48K Apple ][+ or later."
 [^ref-26]: [MobyGames – Bop-A-Bet credits (Apple II)](https://www.mobygames.com/game/122928/bop-a-bet/credits/apple2/) — "Created By Al Lowe, Margaret Lowe, Michael MacChesney, Rae Lynn MacChesney"
 [^ref-27]: [Computer Gaming World Vol. 3 No. 2 (Mar–Apr 1983), "The Learning Game", pp. 36–37](https://archive.org/details/Computer_Gaming_World_Issue_3.2) – Bob Proctor's review of Bop-A-Bet and three other pre-school Apple games
-[^ref-28]: [Softalk, January 1983 – "Applefest Comes Home"](https://archive.org/details/softalkv3n05jan1983) – "Sarah Olson of Salinas got to play Bop-A-Bet under the tutelage of Margaret Lowe of Sunnyside Soft"
+[^ref-28]: [Softalk, January 1983 – "Applefest Comes Home"](https://archive.org/details/softalkv3n05jan1983) – p. 238 photo caption: a child "got to play Bop-A-Bet under the tutelage of Margaret Lowe of Sunnyside Soft"
 [^ref-29]: [Renga in Blue (Jason Dyer) – Dragon's Keep (1982)](https://bluerenga.blog/2024/07/28/dragons-keep-1982/) – founding of Sunnyside Soft with Dragon's Keep and Bop-a-Bet; "In early December, the company had a booth at Applefest in San Francisco"
 [^ref-30]: [Arcade Express Vol. 1 No. 18 (10 April 1983), p. 3](https://archive.org/details/arcade_express_v1n18) – "Sierra Goes On Line With Sunnyside Soft": acquisition of Bop-A-Bet, Dragon's Keep and Troll's Tale
 [^ref-31]: [Internet Archive – Bop-A-Bet (4am and san inc crack)](https://archive.org/details/BopABet4amCrack) — "a 1983 educational game developed by Al Lowe and distributed by Sierra On-Line. It is preserved here for the first time."
