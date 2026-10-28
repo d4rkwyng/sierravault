@@ -10,21 +10,22 @@ series: Police Quest
 engine: SCI0
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Mark Seibert]
-description: 'Police Quest II: The Vengeance is an adventure game developed and published
-  by Sierra On-Line in November 1988, serving as the direct sequel to Police...'
+description: 'Police Quest II: The Vengeance is a 1988 Sierra On-Line adventure game
+  designed by Jim Walls and the direct sequel to Police Quest: In Pursuit of the Death
+  Angel.'
 tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Police Quest II: The Vengeance is an adventure game developed and published by Sierra On-Line in November 1988, serving as the direct sequel to Police Quest: In Pursuit of the Death Angel.[^ref-1] Designed by [[Jim Walls]], a former California Highway Patrol officer,[^ref-1] the game continues the story of Detective Sonny Bonds as he pursues the escaped drug lord Jessie Bains, known as the "Death Angel."[^ref-29] The game was the third title to use Sierra's new SCI engine, following King's Quest IV and Leisure Suit Larry II, representing a significant technical advancement over its AGI-based predecessor.[^ref-3]
 
-Adventure Gamers called it "a crown jewel of its era" and "the best game of its series," a game that, "pre-Gabriel Knight, set the standard for the serious adventure game."[^ref-3] Unlike typical fantasy adventures of the era, Police Quest II focused on realistic police procedures, requiring players to follow proper protocol to effectively complete the game and achieve the highest score.[^ref-4] This attention to detail in police work—from filling out reports to performing thorough investigations—set the game apart from other adventure titles of its time.[^ref-5]
+Adventure Gamers called it "a crown jewel of its era" and "the best game of its series," a game that, "pre-Gabriel Knight, set the standard for the serious adventure game."[^ref-3] Unlike typical fantasy adventures of the era, Police Quest II focused on realistic police procedures, requiring players to follow proper protocol to effectively complete the game and achieve the highest score.[^ref-1] Computer Gaming World's reviewer explained that winning meant living through a homicide detective's everyday routine, such as dusting crime scenes for fingerprints, questioning witnesses and booking evidence, and that Bains had to be caught "by the book" while the player built a case against him.[^ref-29]
 
 The game's scenarios were based on situations that Jim Walls or his friends experienced while in the California Highway Patrol, adding an authentic layer of realism and danger.[^ref-1][^ref-29] According to Computer Gaming World's reviewer, Walls said every situation in the game had happened to him or a friend, and the real "Jessie Bains" (his name was changed) had escaped and was still on the loose.[^ref-29]
 
@@ -34,7 +35,7 @@ The game's scenarios were based on situations that Jim Walls or his friends expe
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI0 (Sierra Creative Interpreter)[^ref-3]
 > **Platforms:** MS-DOS, Amiga, Atari ST, NEC PC-9801[^ref-1]
-> **Release Year:** 1988
+> **Release Year:** 1988[^ref-1]
 > **Series:** Police Quest
 > **Protagonist:** Sonny Bonds
 > **Sierra Lineage:** Core Sierra
@@ -45,7 +46,7 @@ One year has passed since Officer Sonny Bonds brought Jessie Bains, the "Death A
 
 Bains's vendetta against Sonny becomes intensely personal when he abducts Marie Wilkans, Sonny's girlfriend.[^ref-8] The threat is made explicit through a chilling note discovered in a car trunk: "You're a DEAD man, Sonny Bonds!"[^ref-9] What follows is a tense investigation that takes Bonds across the fictional city of Lytton and beyond, as he works to track down Bains before it's too late.
 
-While the first game was largely based on street police work, this sequel shifts focus to forensics field work, emphasizing the collection of evidence that links Bains to the crimes occurring throughout the game.[^ref-10] The investigation leads Bonds through multiple crime scenes, including Cotton Cove where a brutal murder has occurred. The trail eventually takes him beyond city limits, involving airplane travel and culminating in a chase through the sewers beneath a Steelton park.[^ref-1]
+While the first game was largely based on street police work, this sequel shifts focus to forensics field work, emphasizing the collection of evidence that links Bains to the crimes occurring throughout the game.[^ref-6] The investigation leads Bonds through multiple crime scenes, including Cotton Cove, where he trades shots with Bains and later dives into the river, which yields the missing jail guard's body.[^ref-1][^ref-14] The trail eventually takes him beyond city limits, involving airplane travel and culminating in a chase through the sewers beneath a Steelton park.[^ref-1]
 
 One player review on My Abandonware called it "one of the most nerveracking endings to an adventure game."[^ref-11] In the finale Bonds rescues Marie and kills Bains in a shootout.[^ref-1] The sequel shifted toward detective and forensics work while keeping the original's realistic setting.[^ref-1]
 
@@ -53,16 +54,16 @@ One player review on My Abandonware called it "one of the most nerveracking endi
 
 ### Interface and Controls
 
-Police Quest II utilizes Sierra's text parser interface, where commands are given in verb/noun combinations such as "Unlock Door" or "Take Keys," though some keyboard shortcuts are available for common actions.[^ref-4] The game supports mouse navigation, an improvement over the purely keyboard-driven original.[^ref-3][^ref-29] Players type commands to interact with the environment, examine objects, and communicate with other characters throughout the investigation.[^ref-5]
+Police Quest II utilizes Sierra's text parser interface, where commands are given in verb/noun combinations such as "Unlock Door" or "Take Keys," though some keyboard shortcuts are available for common actions.[^ref-1] The game supports mouse navigation, an improvement over the purely keyboard-driven original.[^ref-3][^ref-29] The command line of the first game is gone: the player simply starts typing and a message input window appears.[^ref-29]
 
 Unlike its predecessor, the game removes the driving mini-game sequences that required players to manually navigate streets. Instead, players simply type "drive to [location]" for automatic travel between destinations.[^ref-14] This streamlined approach allows the game to focus on its investigation and puzzle-solving elements rather than navigation challenges.
 
 ### Structure and Progression
 
-The game follows a linear investigation structure that takes Sonny Bonds through various crime scenes and locations as he pursues Jessie Bains. The player is required to follow correct police procedures to effectively complete the game and achieve the maximum score of 300 points.[^ref-4]
+The game follows a linear investigation structure that takes Sonny Bonds through various crime scenes and locations as he pursues Jessie Bains. The player is required to follow correct police procedures to effectively complete the game and achieve the highest score,[^ref-1] out of 300 possible points.[^ref-3][^ref-15]
 
 - **Lytton Police Station:** The game begins at the police department where Bonds must check in, retrieve his equipment, and learn about Bains's escape[^ref-14]
-- **Various Crime Scenes:** Investigation takes Bonds to multiple murder scenes where evidence must be collected forensically[^ref-10]
+- **Various Crime Scenes:** Investigation takes Bonds to multiple murder scenes where evidence must be collected forensically[^ref-1][^ref-6]
 - **Cotton Cove:** A critical crime scene requiring detailed evidence gathering[^ref-14]
 - **Lytton Airport / flight to Steelton:** Bonds and his partner fly to Steelton and avert a terrorist hijacking on board[^ref-1]
 - **Underwater Sequence:** A diving section requiring proper equipment and procedure[^ref-13]
@@ -72,11 +73,11 @@ The game also runs hidden timers: per one GameFAQs guide, about 11 minutes elaps
 
 ### Puzzles and Mechanics
 
-The puzzle design emphasizes realistic police procedures over abstract adventure game logic. Players must perform tasks that actual officers would face, such as properly sighting a firearm at the shooting range before it can be used effectively, obtaining search warrants, and correctly processing crime scenes.[^ref-16] One reviewer noted: "It might be the most down-to-earth, straightforward adventure game I've played."[^ref-16]
+The puzzle design emphasizes realistic police procedures over abstract adventure game logic. Players must perform tasks that actual officers would face, such as adjusting the gun sights at the shooting range and dusting crime scenes for fingerprints,[^ref-29] or getting a search warrant when a clerk will not hand over a motel key.[^ref-16] One Reddit poster wrote: "It might be the most down-to-earth, straightforward adventure game I've played."[^ref-16]
 
 The game requires meticulous attention to proper protocol. Sonny Bonds has access to a firearm that must be sighted properly and loaded with ammunition—specifically, per one GameFAQs guide (v1.05), the player needs at least 1 bullet for the shooting range, 2 for the airplane incident and 2 to kill Bains in the finale.[^ref-15] The motel sequence causes Sonny to lose his aim, requiring the gun to be sighted again at the shooting range.[^ref-15]
 
-Evidence collection plays a central role, with players required to properly gather and document forensic evidence linking Bains to various crimes.[^ref-10] The game also features copy protection through convict ID verification at the start, requiring reference to the game manual, though a CTRL+M bypass exists.[^ref-14]
+Evidence collection plays a central role, with players required to properly gather and document forensic evidence linking Bains to various crimes.[^ref-1][^ref-6] The game also features copy protection through convict ID verification at the start, requiring reference to the game manual, though a CTRL+M bypass exists.[^ref-14]
 
 ## Reception
 
@@ -84,13 +85,13 @@ Evidence collection plays a central role, with players required to properly gath
 
 Michael Chaut reviewed the game for Computer Gaming World (#56, February 1989), concluding: "The advanced graphics, intriguing story, and flowing animation make this story come alive. The whole package leads us toward a new apex in interactive game fiction!"[^ref-1][^ref-29] The reviewer noted: "It is obvious that in this game as in its predecessor, Jim Walls' 'on the job' experiences add to the element of realism and danger that are evident throughout the game."[^ref-29]
 
-Atari ST User awarded the game 9/10 in their June 1989 review, calling it "excellent in every respect – the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-1] The game received similar positive responses across multiple platforms, establishing it as one of Sierra's premier adventure titles of the late 1980s.
+Atari ST User awarded the game 9/10 in their June 1989 review, calling it "excellent in every respect – the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-1]
 
 ### Modern Assessment
 
 Adventure Gamers provided a retrospective review scoring the game 4.5 out of 5 stars, describing it as "an entertaining and intense retro adventure that is not only the best of its series, but one of the very best of Sierra's Golden Age."[^ref-3] The site called it "a crown jewel of its era" that "stands decisively now twenty years after its release as the best game of its series."[^ref-3]
 
-Hardcore Gaming 101 offered similar retrospective praise: "if there's any one title (of the Police Quest series) that deserves attention, it's this one. It's well-paced, fairly exciting, and more interesting than any of the others, and something of an overlooked classic."[^ref-1]
+Hardcore Gaming 101 offered similar retrospective praise: "if there's any one title [of the Police Quest series] that deserves attention, it's this one. It's well-paced, fairly exciting, and more interesting than any of the others, and something of an overlooked classic."[^ref-30]
 
 However, not all retrospective reviews were uniformly positive. A Force For Good gave the game 4/10 in 2009, noting that "as a game it's certainly not terrible, and can be mildly diverting at times, but the functional story and fiddly gameplay ultimately make for a less than exciting experience."[^ref-17] The reviewer also observed that "Sierra's decision to produce a shiny VGA remake of the first game has left this one as the poor relation of the series."[^ref-17]
 
@@ -102,26 +103,29 @@ Retro Freak Reviews offered modern praise, stating the game "outshines the origi
 - **GOG User Rating:** 4.4/5 (as part of collection)[^ref-20]
 - **My Abandonware:** 4.32/5 (40 votes; as of Oct 2026)[^ref-11]
 
-In 2011, Adventure Gamers ranked Police Quest II: The Vengeance as the 24th-best adventure game ever released.[^ref-1]
+In its December 2011 Top 100 All-Time Adventure Games list, Adventure Gamers ranked Police Quest II: The Vengeance 24th.[^ref-31]
 
 ## Development
 
 ### Origins
 
-Police Quest II: The Vengeance was created by Jim Walls, a retired California Highway Patrol officer who was recovering from an injury sustained while on duty when he joined Sierra.[^ref-20] The game was conceived as a direct sequel to the successful Police Quest: In Pursuit of the Death Angel, continuing the story of Sonny Bonds while taking advantage of Sierra's newly developed SCI engine.[^ref-1]
+Police Quest II: The Vengeance was created by Jim Walls, whom GOG describes as a "retired California Highway Patrol officer... who was recovering from an injury sustained while on duty."[^ref-20] The Digital Antiquarian gives more detail: in 1985 Walls was a CHP officer "on administrative leave for post-traumatic stress" when Ken Williams, who had heard of him through his hairdresser, Walls's wife, invited him over and began asking about police work.[^ref-28] The game was conceived as a direct sequel to the successful Police Quest: In Pursuit of the Death Angel, continuing the story of Sonny Bonds while taking advantage of Sierra's newly developed SCI engine.[^ref-1]
 
-According to Computer Gaming World's reviewer, Walls said all of the situations in the game actually happened to him or a friend.[^ref-29] Most notably, the antagonist Jessie Bains was based on a real escaped convict whose name was changed for the game—according to the same review, the real "Jessie Bains" had escaped and was still on the loose.[^ref-29] Walls later defended the series' villains: "These kinds of people are actually running around out there, even if we don't want to think about it."[^ref-28]
+According to Computer Gaming World's reviewer, Walls said all of the situations in the game actually happened to him or a friend.[^ref-29] Most notably, the antagonist Jessie Bains was based on a real escaped convict whose name was changed for the game—according to the same review, the real "Jessie Bains" had escaped and was still on the loose.[^ref-29] As quoted by The Digital Antiquarian, Walls said of the series' antagonists: "These kinds of people are actually running around out there, even if we don't want to think about it."[^ref-28]
 
 ### Production
 
 Development focused on transitioning the series from the AGI engine to Sierra's new SCI0 (Sierra Creative Interpreter) engine, which offered significant technical improvements including double the resolution of its AGI predecessor,[^ref-13][^ref-29] improved EGA graphics, an enhanced text parser, and Roland MT-32 sound capabilities.[^ref-18] The game was the third title to utilize this new engine, following King's Quest IV and Leisure Suit Larry II.[^ref-3]
 
-While Jim Walls provided the authentic police procedural content and overall story direction, Adventure Gamers noted that the actual writing was "likely done by behind-the-scenes writers like Mark Crowe or Josh Mandel rather than Jim Walls himself," who admitted he could only type with two fingers.[^ref-3]
+Who wrote the game's text is unclear. Adventure Gamers argued that "Jim Walls, who once admitted he could only type with two fingers, almost certainly did not do any of the actual dialogue or description writing, which was usually left for behind-the-scenes heavyweights like Mark Crowe or Josh Mandel in this era."[^ref-3] MobyGames credits [[Mark Crowe]] as the game's Project Coordinator.[^ref-6]
 
 **Development Credits:**[^ref-6]
-- **Designer:** [[Jim Walls]]
-- **Artists:** Cheryl Loyd (credited as Cheryl Cornelius per Sierra Chest), Vu Nguyen[^ref-1][^ref-21]
-- **Composer:** Mark Seibert[^ref-1]
+- **Designer / Writer:** [[Jim Walls]]
+- **Executive Producer:** [[Ken Williams]]
+- **Programming:** Robert Fischbach, Robert Eric Heitman, Chris Hoyt, Mickie Lee, Jerry Shaw, David Slayback
+- **Artists (Animated & Background Scenes):** Cheryl Loyd, Vu Nguyen (Sierra Chest names her Cheryl Cornelius)[^ref-1][^ref-21]
+- **Composer:** [[Mark Seibert]][^ref-1]
+- **Project Coordinator:** [[Mark Crowe]]
 
 ### Technical Achievements
 
@@ -138,7 +142,7 @@ Mark Seibert composed the soundtrack, which was his first full soundtrack for Si
 - **Minimum RAM:** 512 KB
 - **Recommended RAM:** 640 KB
 - **Media:** 3.5" and 5.25" Floppy Disks[^ref-6]
-- **Audio:** AdLib, Roland MT-32[^ref-11]
+- **Audio:** Roland MT-32, AdLib and IBM PC speaker (CGW: "the Roland MT-32, the AdLib & the IBM")[^ref-29]
 
 **Modern Version (GOG Police Quest Collection):**[^ref-20]
 - **Minimum OS:** Windows 10 or 11
@@ -150,7 +154,7 @@ Mark Seibert composed the soundtrack, which was his first full soundtrack for Si
 
 ### Cut Content
 
-The driving mini-game that was a prominent feature of the first Police Quest was removed for the sequel. Where players previously had to manually navigate the streets of Lytton, driving sequences between destinations became automatic in Police Quest II.[^ref-4] This change allowed the game to focus more heavily on its investigation and forensic elements.[^ref-10]
+The driving mini-game that was a prominent feature of the first Police Quest was removed for the sequel. Where players previously had to manually navigate the streets of Lytton, driving sequences between destinations became automatic in Police Quest II.[^ref-1] This change allowed the game to focus more heavily on its investigation and forensic elements.[^ref-6]
 
 ### Version History
 
@@ -177,7 +181,7 @@ Police Quest II contains several hidden references and Easter eggs typical of Si
 
 - **Larry Laffer Cameo:** In the Lytton Airport, after passing through the metal detector, players can talk to Larry Laffer from Leisure Suit Larry 2, accompanied by a quick rendition of "For Your Thighs Only."[^ref-6][^ref-14]
 
-- **Sierra Product Placement:** Players who "hack" into the office computers can discover an option to review Sierra's current adventure lineup.[^ref-3]
+- **Sierra Product Placement:** The department computer has an option to review a catalog of Sierra's current adventure lineup.[^ref-3]
 
 - **The Gremlin Revealed:** The game reveals that Laura Watts, Sonny's narcotics partner from the first game, was "the Gremlin" that antagonized Dooley—a payoff for fans of the original.[^ref-6]
 
@@ -228,7 +232,7 @@ The game is playable through ScummVM, providing modern compatibility for preserv
 
 Adventure Gamers credited Police Quest II with having, "pre-Gabriel Knight, set the standard for the serious adventure game."[^ref-3] While Sierra's other major series dealt with fantasy kingdoms, comedic situations, or space exploration, Police Quest offered a grounded experience that asked players to think like actual law enforcement officers.
 
-The game represents the Police Quest series at its creative peak, balancing Jim Walls' authentic police procedural knowledge with improved technology and tighter storytelling. However, its reliance on the text parser interface and lack of a VGA remake (unlike the first game) has left it somewhat overlooked by modern audiences, making it what one reviewer called "the poor relation of the series."[^ref-17]
+Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore Gaming 101 found it "more interesting than any of the others."[^ref-30] Because Sierra gave the first game a VGA remake but never this one, A Force For Good called it "the poor relation of the series."[^ref-17]
 
 ## Downloads
 
@@ -240,7 +244,7 @@ The game represents the Police Quest series at its creative peak, balancing Jim 
 
 **Manuals & Extras**
 - [MOCAGH – Police Quest 2 Manual](https://www.mocagh.org/sierra/pq2-manual.pdf)
-- [Quest Studios – Digital Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/pq2/)
+- [Quest Studios – Digital Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/pq2/) ([Wayback copy](http://web.archive.org/web/20260828061620/https://www.midimusicadventures.com/queststudios/digital-soundtracks/pq2/))
 
 ## See Also
 
@@ -253,28 +257,27 @@ The game represents the Police Quest series at its creative peak, balancing Jim 
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, artists, composer, sales data, reviews (incl. CGW #56 Chaut quote), plot finale, development history, Japanese version details
 [^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://web.archive.org/web/20250609145841/https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
-[^ref-4]: ClassicReload – Police Quest 2 *(download link removed: the game is sold commercially)* – interface description, police procedures requirement
-[^ref-5]: Best DOS Games – Police Quest 2 *(download link removed: the game is sold commercially)* – realism quotes, gameplay description
 [^ref-6]: [MobyGames – Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) – credits, ratings, platforms, Easter eggs, official description
 [^ref-8]: [IGN – Police Quest 2: The Vengeance](https://www.ign.com/games/police-quest-2-the-vengeance) – user rating, game description
 [^ref-9]: [TV Tropes – Police Quest 2: The Vengeance](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest2TheVengeance) – Easter eggs, Japanese version details, in-game quotes
-[^ref-10]: PlayClassic Games – Police Quest 2 *(download link removed: the game is sold commercially)* – forensics focus, SCI engine improvements
 [^ref-11]: My Abandonware – Police Quest 2 *(download link removed: the game is sold commercially)* – user reviews, technical details, release versions
 [^ref-12]: [WalkthroughKing – Police Quest 2](https://www.walkthroughking.com/text/policequest2.aspx) – plot summary, game description
 [^ref-13]: [MobyGames Reviews – Police Quest 2 DOS](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/reviews/dos/) – player reviews, technical issues, gameplay features
 [^ref-14]: [GameFAQs – Police Quest 2 Walkthrough](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/37121) – gameplay mechanics, Easter eggs, "Let's Roll" trivia
 [^ref-15]: [GameFAQs – Police Quest 2 Minimum Points Guide](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/72547) – minimum completion details, bullet requirements, bugs
-[^ref-16]: [Reddit – Police Quest II Discussion](https://www.reddit.com/r/Sierra/comments/1gzb1u1/police_quest_ii_is_a_very_grounded_game/) – player experience, Al Lowe note, puzzle design philosophy
+[^ref-16]: [Reddit – Police Quest II Discussion](https://www.reddit.com/r/Sierra/comments/1gzb1u1/police_quest_ii_is_a_very_grounded_game/) – player experience, search-warrant example, puzzle design philosophy
 [^ref-17]: [A Force For Good – Police Quest 2 Review](https://forceforgood.co.uk/adventure/police-quest-2-the-vengeance/) – retrospective review, VGA remake comparison
 [^ref-18]: [Retro Freak Reviews – Police Quest 2](https://retrofreakreviews.com/2025/05/19/police-quest-2-dos-review/) – technical achievements, soft-lock issues, PC-98 details
 [^ref-19]: [IMDb – Police Quest II: The Vengeance](https://www.imdb.com/title/tt0289397/) – user rating (7.5/10, 73 ratings in a January 2026 capture)
-[^ref-20]: [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – user reviews, product details, training tool mentions
+[^ref-20]: [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – user reviews, product details, Jim Walls background, system requirements, ScummVM changelog
 [^ref-21]: [Sierra Chest – Police Quest 2](https://www.sierrachest.com/index.php?a=games&id=21&fld=general) – development credits, collections, Mark Seibert soundtrack note
 [^ref-22]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – soundtrack information
 [^ref-23]: [PCGamingWiki – Police Quest II](https://www.pcgamingwiki.com/wiki/Police_Quest_II:_The_Vengeance) – technical specifications, system requirements, DOSBox/ScummVM support
 [^ref-24]: [VGMdb – Police Quest 2 PC-98](https://vgmdb.net/release/29214) – Japanese release date
-[^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales figures
+[^ref-25]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales figures: Police Quest "five titles and sold more than 1.2 million copies"
 [^ref-26]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook/page/140/) – strategy guide publication details
 [^ref-27]: [Internet Archive – Police Quest 2 Hint Book](https://archive.org/stream/Police_Quest_2_Hint_Book/Police_Quest_2_Hint_Book_djvu.txt) – official hint book
-[^ref-28]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Jim Walls on the series' antagonists: "These kinds of people are actually running around out there"
-[^ref-29]: [Computer Gaming World #56 (February 1989) – "Curse of the Fallen Angel" by Michael Chaut](https://archive.org/details/Computer_Gaming_World_Issue_56) – contemporary review (pp. 42–43): doubled graphic resolution, mouse support, Walls' real-life basis, "Jessie Bains" still on the loose
+[^ref-28]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Walls in 1985 "on administrative leave for post-traumatic stress"; Walls on the series' antagonists: "These kinds of people are actually running around out there"
+[^ref-29]: [Computer Gaming World #56 (February 1989) – "Curse of the Fallen Angel" by Michael Chaut](https://archive.org/details/Computer_Gaming_World_Issue_56) – contemporary review (pp. 42–43): doubled graphic resolution, mouse and music-card support (Roland MT-32, AdLib, IBM), new typing interface, detective duties done "by the book", gun sights, Walls' real-life basis, "Jessie Bains" still on the loose
+[^ref-30]: [Hardcore Gaming 101 – Police Quest 2: The Vengeance (Wayback, 5 Dec 2022)](http://web.archive.org/web/20221205091351/http://www.hardcoregaming101.net/police-quest-2-the-vengeance/) – retrospective by Kurt Kalata: "something of an overlooked classic"
+[^ref-31]: [Adventure Gamers – Top 100 All-Time Adventure Games, page 17 (Wayback, 18 Jan 2013)](https://web.archive.org/web/20130118232706/http://www.adventuregamers.com/articles/view/18643/page17) – December 2011 list: "#24 – Police Quest 2: The Vengeance"
