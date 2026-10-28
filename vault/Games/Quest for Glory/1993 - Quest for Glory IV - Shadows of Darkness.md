@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure/role-playing
   hybrid by Lori Ann Cole and Corey Cole, the fourth Quest for Glory game, set in the
@@ -19,14 +19,14 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
-Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1][^ref-2].
+Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1].
 
 Designed by [[Lori Ann Cole]] and [[Corey Cole]], it was the first and only game in the series to drop the roman numerals from the title[^ref-27].
 
-Set in Mordavia, a world described as "a mix of Slavic folklore and Lovecraftian horror," the game features darker themes while maintaining the series' trademark humor[^ref-1][^ref-3][^ref-7].
+Set in Mordavia, a world described as "a mix of Slavic folklore and Lovecraftian horror," the game features darker themes while maintaining the series' trademark humor[^ref-1][^ref-7].
 
 Released in December 1993 on floppy discs and re-released on CD-ROM in September 1994, the CD version featured full voice acting including John Rhys-Davies as the Narrator[^ref-1][^ref-4].
 
@@ -50,7 +50,7 @@ The floppy disc version was released with inadequate testing and is considered "
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-Shadows of Darkness follows directly from the events of Quest for Glory III: Wages of War[^ref-1]. Drawn without warning from victory in Fricana, the Hero arrives without equipment or explanation in the middle of the hazardous Dark One Caves in the distant land of Mordavia, a world full of undead that is "a mix of Slavic folklore and Lovecraftian horror"[^ref-1][^ref-3].
+Shadows of Darkness follows directly from the events of Quest for Glory III: Wages of War[^ref-1]. Drawn without warning from victory in Fricana, the Hero arrives without equipment or explanation in the middle of the hazardous Dark One Caves in the distant land of Mordavia, a world full of undead that is "a mix of Slavic folklore and Lovecraftian horror"[^ref-1][^ref-7].
 
 Upon escaping from the closing cave mouth, the Hero meets a mysterious young woman named Katrina who assists him several times in his journey[^ref-1]. The Hero helps the townspeople with their problems and encounters several old foes, including the not-quite-dead Ad Avis and the ogress Baba Yaga, while making several bizarre new allies[^ref-1].
 
@@ -61,17 +61,17 @@ The Hero is ultimately coerced into assisting Ad Avis' Dark Master in collecting
 
 ## Gameplay
 
-The gameplay continued with Quest for Glory III's graphical, point-and-click interface[^ref-1]. The game introduced a new combat system with a sideways perspective of fights and allowed players to check an option to let the computer fight the battles automatically[^ref-1][^ref-3].
+The gameplay continued with Quest for Glory III's graphical, point-and-click interface[^ref-1]. The game introduced a new combat system with a sideways perspective of fights and allowed players to check an option to let the computer fight the battles automatically[^ref-1].
 
 ### Interface and Controls
 - Point-and-click interface continuing from QFG III[^ref-1]
-- New side-scrolling combat perspective[^ref-1][^ref-3]
+- New side-scrolling combat perspective[^ref-1]
 - Option for automatic computer-controlled combat[^ref-1]
 - Graphics: Wikipedia says the game "was developed with SVGA graphics"; PCGamingWiki and Sierra Fandom describe it as VGA[^ref-1][^ref-3][^ref-5]
 
 ### Structure and Progression
 - Set in the distant land of Mordavia, plagued with undead, "a mix of Slavic folklore and Lovecraftian horror"[^ref-1][^ref-7]
-- Day-night cycle with time-sensitive events[^ref-3]
+- Day-night cycle[^ref-3]
 - The Hero can be a fighter, a thief, a magic user or a paladin[^ref-19]
 - Character import from previous Quest for Glory games[^ref-19]
 
@@ -88,11 +88,11 @@ A short product blurb in Computer Gaming World's "Taking A Peek" section (March 
 James V. Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
 
 ### Modern Assessment
-Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series; Kaiser called it "the clear best of the bunch"[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
+Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series; Kaiser called it "the clear best of the bunch"[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV wrote that Shadows of Darkness "was probably the most elaborate and well-designed" entry in the series, though Trial by Fire remained his own favourite[^ref-39]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
 
-In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDb users rate it 8.6/10 (233 votes, as of October 2026)[^ref-4]. MobyGames critics average 76% (16 reviews)[^ref-19]. The CRPG Addict gave it a final rating of 47, ranking it in the top 8% of the games he had rated at the time[^ref-20]. HowLongToBeat reports the main story takes approximately 13½ hours to complete, with completionist runs taking about 22½ hours (as of October 2026)[^ref-10]. On Speedrun.com the fastest Any% run is about 15 minutes, and Any% No Major Skips about 22 minutes[^ref-21].
+In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released, calling it "arguably the best chapter in the Quest for Glory series"[^ref-1][^ref-38]. IMDb users rate it 8.6/10 (233 votes, as of October 2026)[^ref-4]. MobyGames critics average 76% (16 reviews)[^ref-19]. The CRPG Addict gave it a final rating of 47, ranking it in the top 8% of the games he had rated at the time[^ref-20]. HowLongToBeat reports the main story takes approximately 13½ hours to complete, with completionist runs taking about 22½ hours (as of October 2026)[^ref-10]. On Speedrun.com the fastest run in the standard Any% category is about 15 minutes, and Any% No Major Skips about 22 minutes[^ref-21].
 
-- **Adventure Gamers:** #23 best adventure game of all time[^ref-1]
+- **Adventure Gamers:** #23 best adventure game of all time[^ref-1][^ref-38]
 - **White Wolf Magazine:** "Very Good" (May 1994)[^ref-1]
 - **RPGamer:** 4/5 stars[^ref-8]
 - **Engadget/GameTrailers:** Best entry in series[^ref-1][^ref-7]
@@ -112,7 +112,7 @@ The CD-ROM version was the first game in the series to feature voice actors, inc
 
 ### Voice Cast
 
-The CD-ROM version featured an impressive voice cast including several notable voice actors[^ref-4][^ref-28].
+The CD-ROM version featured a voice cast including several notable voice actors[^ref-4][^ref-28].
 
 **Principal Cast:**[^ref-4][^ref-28]
 
@@ -154,7 +154,7 @@ The CD-ROM version featured an impressive voice cast including several notable v
 The game draws heavily from Eastern European mythology and cosmic horror[^ref-23]:
 - Mordavia is inspired by Slavic folklore, Gothic fiction, and "old horror movies and books about vampires and werewolves"[^ref-1]
 - The Dark One Avoozl is described as a Cthulhu pastiche, likely referencing the Slavic deity Chernobog[^ref-1][^ref-3]
-- Baba Yaga, a recurring series villain, is based on the Slavic witch from folklore[^ref-1]
+- Baba Yaga, a villain from earlier games in the series, returns as an ogress[^ref-1]
 - The game incorporates Boris Karloff and Peter Lorre parodies while maintaining humor[^ref-1]
 - Tarot card sequences use imagery from the Russian tarot of St. Petersburg[^ref-1][^ref-3]
 - Vampiric rabbits reminiscent of Monty Python and the Holy Grail appear[^ref-1]
@@ -174,7 +174,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 - CD-ROM version significantly improved stability
 
 **Fan Enhancements:**[^ref-5]
-- NewRisingSun script fixes (included in GOG/Steam versions)
+- NewRisingSun script fixes (included in the GOG version)
 - QFG4 Enhanced mod adds bugfixes and restored content
 
 ## Trivia
@@ -197,7 +197,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 
 ## Legacy
 
-Several modern critics, including Engadget's Rowan Kaiser and GameTrailers' Ryan Stevens, consider Shadows of Darkness the best entry in the series[^ref-1][^ref-7], and Adventure Gamers ranked it the 23rd-best adventure game of all time in 2011[^ref-1]. The game's blend of Slavic folklore and Lovecraftian horror gave it a much darker tone than earlier entries in the series[^ref-1][^ref-7]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-27].
+Several modern critics, including Engadget's Rowan Kaiser and GameTrailers' Ryan Stevens, consider Shadows of Darkness the best entry in the series[^ref-1][^ref-7], and Adventure Gamers ranked it the 23rd-best adventure game of all time in 2011[^ref-1][^ref-38]. The game's blend of Slavic folklore and Lovecraftian horror gave it a much darker tone than earlier entries in the series[^ref-1][^ref-7]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-27].
 
 The troubled floppy release, which Scorpia called perhaps "the sloppiest product ever released by Sierra", was followed a year later by a much-improved CD version[^ref-1][^ref-33].
 
@@ -221,7 +221,7 @@ This game has been included in the following collections:
 - [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – technical fixes
 - [Sierra Fandom Wiki – Quest for Glory IV](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – detailed game information
 - [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_IV%3A_Shadows_of_Darkness) – series wiki
-- [Hardcore Gaming 101 – Quest for Glory: Shadows of Darkness](https://www.hardcoregaming101.net/quest-for-glory-shadows-of-darkness/) – retrospective
+- [Hardcore Gaming 101 – Quest for Glory: Shadows of Darkness](https://www.hardcoregaming101.net/quest-for-glory-shadows-of-darkness/) ([archived copy](https://web.archive.org/web/20260728152129/https://www.hardcoregaming101.net/quest-for-glory-shadows-of-darkness/)) – retrospective by Kurt Kalata
 - [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – historical article
 - [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – completion times
 - [StrategyWiki – Quest for Glory IV](https://strategywiki.org/wiki/Quest_for_Glory_IV) – game guide
@@ -237,7 +237,6 @@ This game has been included in the following collections:
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – history, plot, gameplay, development, reception
-[^ref-2]: Archive.org – Quest for Glory: Shadows of Darkness *(download link removed: the game is sold commercially)* – preservation
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory IV](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – detailed game information
 [^ref-4]: [IMDb – Quest for Glory IV: Shadows of Darkness](https://www.imdb.com/title/tt0210246/) – voice cast credits, user rating (8.6/10 from 233 votes, October 2026)
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – technical specs
@@ -263,3 +262,5 @@ This game has been included in the following collections:
 [^ref-35]: [Wikipedia – Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) – Commander Shepard in Mass Effect
 [^ref-36]: [Wikipedia – Bill Farmer](https://en.wikipedia.org/wiki/Bill_Farmer) – voice of Goofy since 1987
 [^ref-37]: [Wikipedia – Jim Cummings](https://en.wikipedia.org/wiki/Jim_Cummings) – Winnie the Pooh, Darkwing Duck
+[^ref-38]: [Adventure Gamers – Top 100 All-Time Adventure Games, #30–21 (archived 2013)](https://web.archive.org/web/20130118232706/http://www.adventuregamers.com/articles/view/18643/page17/) – "#23 – Quest for Glory IV: Shadows of Darkness … Arguably the best chapter"; AG Staff, December 30, 2011
+[^ref-39]: [G4TV – Quest For Glory Creators Turn To Kickstarter For Hero-U (archived)](https://web.archive.org/web/20150924063300/http://www.g4tv.com/thefeed/blog/post/728034/quest-for-glory-creators-turn-to-kickstarter-for-hero-u/) – Adam Rosenberg, 2012: "probably the most elaborate and well-designed"
