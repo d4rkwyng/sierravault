@@ -10,13 +10,13 @@ series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra On-Line in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ The chat areas include three restaurants (The Food Trough, Planet Larry, and Mol
 
 ### Characters
 
-Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] Jan Rabson voices Larry Laffer, as in the adventure games.[^ref-2]
+Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] Jan Rabson voices Larry Laffer.[^ref-1]
 
 ## Voice Cast
 
@@ -123,7 +123,7 @@ Lowe then built a standalone retail product on Sierra's Hoyle casino software. H
 
 ### Production
 
-Al Lowe designed, wrote and directed the game, and also served as voice casting director.[^ref-2] It is the last Sierra On-Line title in Wikipedia's list of his game credits.[^ref-10] Funding for *Leisure Suit Larry 8* was cut, Sierra's adventure game department was disbanded, and Lowe left Sierra on February 22, 1999.[^ref-16] The credits list Cheryl Sweeney as producer, Steve Conrad as programming lead, Tracy Boyd as art lead, and Gary Spinrad for music and sound effects.[^ref-2]
+Al Lowe designed, wrote and directed the game, and also served as voice casting director.[^ref-2] It is the last Sierra On-Line title in Wikipedia's list of his game credits.[^ref-10] Funding for *Leisure Suit Larry 8* was cut, Sierra's adventure game department was disbanded, and Lowe left Sierra on February 22, 1999.[^ref-16][^ref-21] The credits list Cheryl Sweeney as producer, Steve Conrad as programming lead, Tracy Boyd as art lead, and Gary Spinrad for music and sound effects.[^ref-2]
 
 Development took place while Sierra was owned by CUC International, whose acquisition of Sierra closed in July 1996. CUC merged with HFS in December 1997 to become Cendant, which announced the sale of its consumer software division to Havas in November 1998.[^ref-19]
 
@@ -154,7 +154,7 @@ The game has connections to Sierra's earlier Larry-themed casino software:
 
 ### Online Service Shutdown
 
-The WON service is no longer available, so the game's online features no longer work.[^ref-13] Activision closed the remaining WON servers on November 1, 2008.[^ref-19] Players today can only play the casino games off-line against computer opponents.[^ref-3]
+The WON service is no longer available, so the game's online features no longer work.[^ref-13] Activision closed the remaining WON servers on November 1, 2008.[^ref-19] The casino games themselves still play off-line.[^ref-13][^ref-14]
 
 ### Promotional Materials
 
@@ -214,7 +214,7 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 
 [^ref-13]: [PCGamingWiki – Leisure Suit Larry's Casino (1998)](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry's_Casino_(1998)) – System requirements, 640x480 window, DirectDraw 5, CRI audio, WON no longer available, retail-only availability
 
-[^ref-14]: [Hardcore Gaming 101 – Leisure Suit Larry (Assorted)](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Casino overview and verdict
+[^ref-14]: [Hardcore Gaming 101 – Leisure Suit Larry (Assorted)](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) ([archived copy](http://web.archive.org/web/20250209031049/http://www.hardcoregaming101.net/leisure-suit-larry-assorted/)) – Casino overview and verdict
 
 [^ref-15]: [The Spoiler – Leisure Suit Larry's Casino Walkthrough](https://www.justadventure.com/walkthrough/leisure-suit-larrys-casino-cheats-2/) – Walkthrough: Wheel of Fortune not working, LCASINO.INI settings
 
@@ -224,3 +224,4 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-18]: [Leisure Suit Larry's Casino Design Document (Al Lowe, 1997) – Larry Laffer Dot Net](http://www.larrylaffer.net/images/Larry's%20Casino%20Design.PDF) – LarryLand history, Hoyle's Casino code base, planned party games, SIGS integration
 [^ref-19]: [Sierra Entertainment – Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – CUC acquisition (1996), Cendant merger (1997), Havas sale (1998), WON launch (1998) and server shutdown (2008)
 [^ref-20]: [Crazy Nick's Software Picks: Leisure Suit Larry's Casino – MobyGames](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – Released June 5, 1992 on DOS; three mini-games (slot machine, blackjack, poker)
+[^ref-21]: [Is Larry Dead? – Al Lowe](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – Lowe: "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8"
