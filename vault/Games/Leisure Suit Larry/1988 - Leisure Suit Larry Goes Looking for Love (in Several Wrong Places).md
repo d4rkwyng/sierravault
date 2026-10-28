@@ -10,15 +10,18 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
-  is the second game in Al Lowe''s landmark comedy adventure series, released by Sierra...'
+  is the second game in Al Lowe''s comedy adventure series, released by Sierra On-Line
+  in October 1988. Built on the new SCI engine, it sends Larry from Los Angeles to a
+  cruise ship and a tropical island while the KGB and Dr. Nonookee chase the microfilm
+  he unknowingly carries.'
 tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -66,13 +69,13 @@ Unlike the original's more open-ended design, the sequel follows a linear story 
 - **Tropical Resort:** Features a vegetation maze containing a peacock from King's Quest IV's Genesta's island[^ref-15]
 - **Airport:** Where Princess Rosella from King's Quest IV appears as a barbershop attendant in a cross-promotional cameo[^ref-15]
 - **Airplane:** A fellow passenger recognises Larry from Lefty's Bar[^ref-20]; a chatterer barber parodies Sierra CEO Ken Williams[^ref-19]
-- **Nontoonyt Island:** Dr. Nonookee's secret volcanic base and the game's climax[^ref-13]
+- **Nontoonyt Island:** Dr. Nonookee's base of operations, inside a volcano, and the game's climax[^ref-6][^ref-15]
 
 ### Puzzles and Mechanics
 
 There are fewer puzzles in this installment than in the previous game; however, the number of ways to die has increased, with danger awaiting Larry in most places he visits.[^ref-1] A YouTube compilation of death scenes reportedly runs approximately 40 minutes.[^ref-7] The game's inventory system is accessed via Ctrl+I, and points are awarded for completing puzzles and discovering secrets, with rank changes occurring at score milestones.[^ref-20]
 
-The game features numerous dead-end situations where players can become stuck without notification if they forget to perform certain actions before proceeding to the next location.[^ref-1] "Having unintuitive puzzles, dead ends and repeated game overs are just staples of these early Sierra Online games," observed one modern reviewer.[^ref-2] Al Lowe's own advice, printed in the official book, was simply: "Save early and often!"[^ref-22]
+The game features numerous dead-end situations where players can become stuck if they forget to perform certain actions before proceeding to the next location.[^ref-1] "Having unintuitive puzzles, dead ends and repeated game overs are just staples of these early Sierra Online games," observed one modern reviewer.[^ref-2] Al Lowe's own advice, printed in the official book, was simply: "Save early and often!"[^ref-22]
 
 The text parser carries over the first game's tradition of humorous responses to typed commands. IGN observes that the series' parser responses, "as seen in the first game and especially the second," are "quite wordy and not afraid to stretch the humour to its absolute limit."[^ref-5]
 
@@ -82,7 +85,7 @@ The text parser carries over the first game's tradition of humorous responses to
 
 The game received strong reviews upon release, with critics praising its expanded scope and improved technology. Bob Guerra of *Compute!* called it a "terrific sequel to one of the best adventure games ever written" and found it "thoroughly entertaining from beginning to end. The story is as interesting as anything you're likely to find on network television, and less predictable to boot."[^ref-6][^ref-43]
 
-*Commodore User* awarded the game 9 out of 10, describing it as "Not only an adventure, but a complete entertainment package."[^ref-24] *Computer and Video Games* gave it 90%, calling it "A superb piece of all-round entertainment, particularly, but not exclusively, suited to adventure players."[^ref-24] *PC Format* noted that "The three Larry games so far plumb new depths in computer entertainment — they're crude, suggestive, full of innuendo and double entendres and designed to appeal to the worst aspects of human nature — you'll love 'em."[^ref-6]
+*Commodore User* awarded the game 9 out of 10, describing it as "Not only an adventure, but a complete entertainment package."[^ref-24][^ref-6] *Computer and Video Games* gave it 90%, calling it "A superb piece of all-round entertainment, particularly, but not exclusively, suited to adventure players."[^ref-24][^ref-6] *PC Format* noted that "The three Larry games so far plumb new depths in computer entertainment — they're crude, suggestive, full of innuendo and double entendres and designed to appeal to the worst aspects of human nature — you'll love 'em."[^ref-6]
 
 *Amiga Action* awarded 74%, while *CU Amiga Magazine* gave the 1994 budget re-release 84%.[^ref-6]
 
@@ -110,7 +113,7 @@ Al Lowe faced pressure to clean up Larry's act for the sequel. "After the origin
 
 Development utilized Sierra's new SCI engine, making this one of the earliest titles to showcase its capabilities.[^ref-7] The game shipped on six 5.25" 360 KB or three 3.5" 720 KB disks;[^ref-41] according to Just Games Retro, Lowe knew he would need six floppies' worth of space and built six distinct areas visited one after another, with no way back.[^ref-29] Al Lowe served as designer, programmer, and composer, writing a score for the Roland MT-32.[^ref-18]
 
-The game's copy protection system was innovative for its time. "In Larry 2 we tried something a little different from our original protection of requiring a distribution disk," Al Lowe explained. "We included the pictures of girls from Larry's 'little black book.' The game shows you one when it starts up, and you enable play by completing her phone number. The pictures, by the way, are intentionally bad in the book so that they can't be Xeroxed easily."[^ref-3]
+"In Larry 2 we tried something a little different from our original protection of requiring a distribution disk," Al Lowe explained. "We included the pictures of girls from Larry's 'little black book.' The game shows you one when it starts up, and you enable play by completing her phone number. The pictures, by the way, are intentionally bad in the book so that they can't be Xeroxed easily."[^ref-3]
 
 After the game's release, Sierra ran a CompuServe contest for the funniest Trite Phrase. According to MobyGames' trivia, the winning line, "Do you want fries with that?", came from [[Josh Mandel]], who later joined Sierra.[^ref-1] Mandel's own accounts trace his hiring to beta-testing rather than the contest: he had asked producer [[Guruka Singh Khalsa]], whom he knew from CompuServe's Gamers Forum, about testing for Sierra, and after a couple of years of testing Guruka offered him a job as his junior producer in early 1990.[^ref-46][^ref-47]
 
@@ -154,13 +157,13 @@ The game's ending was originally planned to give players more control during the
 | — | 1989 | Amiga/Atari ST | Platform ports[^ref-1] |
 | Collection | 1994 | PC | Included in Greatest Hits and Misses[^ref-33] |
 | Collection | 1997 | DOS/Windows | Leisure Suit Larry Collection Series[^ref-34] |
-| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment (removed from sale 2025)[^ref-27] |
+| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment (since delisted)[^ref-27] |
 
-**SCI Interpreter Versions:** Later copies (version 1.002.000, also in the Larry collections) accept Al Lowe's 0724 phone-number cheat; the original disk version 1.000.011 does not.[^ref-32]
+**Version Differences:** Version 1.000.011 shipped with SCI0 interpreter 0.000.343 and version 1.002.000 with 0.000.409.[^ref-41] Later copies (version 1.002.000, also in the Larry collections) accept Al Lowe's 0724 phone-number cheat; the original disk version 1.000.011 does not.[^ref-32]
 
 ### Technical Issues
 
-The game shipped with a notorious parser bug that still generates support emails decades later. "The day before the game shipped, the system programmer in charge of 'the parser' fixed a bug that I'd been complaining about for days. He assured me he changed nothing else. I foolishly added the new code to the game," Al Lowe explained. The bug causes commands like "PUT BAG BOTTLE" to fail because the parser incorrectly treats "bag" as a verb rather than a noun—players must type "PUT THE BAG IN BOTTLE" instead.[^ref-32] "16 years later, I'm still answering emails about a bug I swear I didn't create!"[^ref-32]
+The game shipped with a notorious parser bug that was still generating support emails years later. "The day before the game shipped, the system programmer in charge of 'the parser' fixed a bug that I'd been complaining about for days. He assured me he changed nothing else. I foolishly added the new code to the game," Al Lowe explained. The bug causes commands like "PUT BAG BOTTLE" to fail because the parser incorrectly treats "bag" as a verb rather than a noun—players must type "PUT THE BAG IN BOTTLE" instead.[^ref-32] "16 years later, I'm still answering emails about a bug I swear I didn't create!"[^ref-32]
 
 Other documented issues include:
 - **Dead-end situations:** Player can become permanently stuck if they forget certain items before proceeding[^ref-1]
@@ -172,12 +175,12 @@ Al Lowe ruefully notes that modern technical support offers no help: "Once upon 
 The game is packed with references to other Sierra games and inside jokes:
 
 - **Copy Protection Bypass:** Entering the phone number 555-0724 (Al Lowe's birthday) skips the copy protection, and the intro with it; Al Lowe says it works only in version 1.002.000, not the original 1.000.011[^ref-17][^ref-31][^ref-32]
-- **Boss Key:** Pressing Ctrl-B makes Larry disappear—a "panic button" for players caught gaming at work[^ref-3]
+- **Boss Key:** Pressing Ctrl-B, the game's boss key, makes Larry disappear[^ref-3]
 - **Police Quest Reference:** Looking through a fence hole at the Quikie Mart shows people playing Police Quest[^ref-15]
 - **Space Quest IV Reference:** One background is described as looking like it belongs in Space Quest IV[^ref-20]
 - **King's Quest IV Cameos:** Princess Rosella appears as a barbershop attendant at the airport; a peacock from Genesta's island appears in the resort maze[^ref-15]
 - **Ken Williams Parodies:** The chatterer barber on the airplane and Chief Keneewauwau of Nontoonyt Island are both parodies of Sierra's CEO[^ref-19]
-- **The Maid's Brother:** If Larry tries to have sex with the hotel maid, her overprotective brother walks in with a gun and kills him[^ref-44][^ref-45]
+- **The Maid's Brother:** If Larry tries to have sex with the hotel maid, her overprotective brother walks in with a gun and kills him[^ref-44][^ref-45][^ref-40]
 - **"Hairy Reams" Salon:** A reference to adult film star Harry Reems[^ref-40]
 - **Recurring Barbershop:** The same barbershop appears in every area as a running gag[^ref-29]
 - **Goldfinger Homage:** If Larry follows Dr. Nonookee's henchwomen, he ends up tied to a table and cut in half by a laser beam[^ref-15]
@@ -197,7 +200,7 @@ The game has been included in numerous compilation releases:
 - **Leisure Suit Larry's Greatest Hits and Misses** (1994): Included alongside *Softporn Adventure*, Larry 1 (original and VGA), Larry 3, 5 and 6, and *The Laffer Utilities*[^ref-33]
 - **Leisure Suit Larry Collection Series** (1997): Five-game compilation with Larry 1 VGA remake[^ref-34]
 - **Leisure Suit Larry Collection** (2006): Windows compilation released by Sierra Entertainment[^ref-36]
-- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment (removed from sale 2025)[^ref-27]
+- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment (since delisted)[^ref-27]
 
 ### Fan Projects
 
@@ -211,11 +214,9 @@ The game maintains an active speedrunning community, with the current Any% recor
 
 ### Critical Perspective
 
-*Leisure Suit Larry Goes Looking for Love* represents a fascinating inflection point in Sierra's history and the adventure game genre. It showcased the company's technical ambitions with the new SCI engine while attempting to navigate the commercial realities of retail distribution in the late 1980s. The deliberate toning down of sexual content demonstrates the difficult balance developers faced when creating mature-themed content for a market still finding its identity.
+Sierra deliberately toned down Larry's sexual escapades for the sequel in favour of a more elaborate plot,[^ref-6][^ref-9] and the lack of the series' trademark humor became an oft-cited criticism; later games returned to the original formula.[^ref-9] "While the first game in the series was full of adult humour and jokes, Leisure Suit Larry 2 features less of an adult theme and more of an excellent plot," observed one walkthrough author.[^ref-12]
 
-The game's emphasis on linear storytelling and elaborate plot over the original's more open-ended structure anticipated trends that would come to define narrative adventure games. However, the departure from the series' core appeal—Larry's hapless romantic pursuits—created a tonal mismatch that subsequent games would correct. "While the first game in the series was full of adult humour and jokes, Leisure Suit Larry 2 features less of an adult theme and more of an excellent plot," observed one walkthrough author, capturing both the game's strength and the source of fan criticism.[^ref-12]
-
-"This commitment to the 'you can never have enough jokes' school of comedy is one of the hallmarks of the Leisure Suit Larry series," noted IGN's retrospective, and while this entry may have fewer of Larry's trademark risqué gags, the game's parser responses and environmental humor maintain the series' comedic sensibility.[^ref-5] For historians of adventure gaming, the game serves as a crucial document of Sierra's technical evolution and the industry's ongoing negotiation between creative ambition and commercial viability.
+"This commitment to the 'you can never have enough jokes' school of comedy is one of the hallmarks of the Leisure Suit Larry series," noted IGN's retrospective, which singles out the parser's wordy responses "as seen in the first game and especially the second."[^ref-5]
 
 ## Downloads
 
@@ -224,6 +225,7 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 - ~~[Steam](https://store.steampowered.com/app/765840/)~~ – No longer available in Steam store[^ref-27]
 
 **Download / Preservation**
+- None listed: the game is still sold on GOG.
 
 **Manuals & Extras**
 - [Manual PDF](https://archive.org/details/Leisure_Suit_Larry_2_Manual) – Original game manual (8 pages)[^ref-39]
@@ -251,11 +253,10 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/144/) – copy protection details, ratings, Al Lowe quotes
 [^ref-5]: [IGN – Revisiting Leisure Suit Larry](https://www.ign.com/articles/2014/11/28/revisiting-leisure-suit-larry) – sales history, development origins, parser analysis
 [^ref-6]: [Wikipedia – Leisure Suit Larry Goes Looking for Love](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – contemporary reviews, sales data, ratings
-[^ref-7]: [Last Day Deaf – Retrospective](https://lastdaydeaf.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-placesdev-sierra-on-line-ms-dos-1988/) – location count, death compilation, commercial success
+[^ref-7]: [Last Day Deaf – Retrospective](https://lastdaydeaf.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-placesdev-sierra-on-line-ms-dos-1988/) – location count, death compilation
 [^ref-9]: [Sierra Chest – General Information](https://www.sierrachest.com/index.php?a=games&id=25&fld=general) – criticism of toned-down humor, Patti character details
 [^ref-10]: [LarryLaffer.net – LSL2 General](http://larrylaffer.net/lslgames/lsl2-general) – opening plot summary
 [^ref-12]: [IGN – Walkthrough](https://www.ign.com/articles/2003/11/14/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places-walkthrough-436544) – plot summary, Easter egg descriptions
-[^ref-13]: [SierraGamers – LSL2 Page](https://www.sierragamers.com/leisure-suit-larry-2/) – KGB plot, Dr. Nonookee storyline
 [^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0273733/movieconnections/) – Easter eggs, cameos, parody references
 [^ref-17]: [GameFAQs – Syrain Walkthrough](https://gamefaqs.gamespot.com/pc/565081-leisure-suit-larry-goes-looking-for-love-in-several-wrong/faqs/14025) – user review, cheat codes, graphics humor
 [^ref-18]: [Quest Studios – Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl2/) – Roland MT-32 music details
