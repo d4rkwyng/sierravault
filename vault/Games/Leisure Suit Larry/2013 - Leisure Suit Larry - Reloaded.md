@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s 1987 Sierra adventure game, crowdfunded on Kickstarter,
   developed by N-Fusion Interactive and published by Replay Games.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ Mash Those Buttons singled out the interaction system: in this remake, "the writ
 
 A returning fan finished it in about two and a half hours[^ref-1]; another reviewer logged six hours[^ref-12]. The same returning fan noted that the developers "did add a few more puzzles" and a new girl[^ref-1]. Larry gets around Lost Wages by taxi; a GameFAQs board thread notes "You can get through using the taxi just seven times"[^ref-23] for efficient completion.
 
-The Steam release has 40 achievements, and collecting them all takes two playthroughs[^ref-74]; Steam Community guides walk through the requirements[^ref-67]. Easter eggs include a payphone that can dial the original Sierra hint line[^ref-74].
+The Steam release has 40 achievements, and collecting them all takes two playthroughs[^ref-74]; a Steam Community guide walks through both runs[^ref-84]. Easter eggs include a payphone that can dial the original Sierra hint line[^ref-74].
 
 ### Puzzles and Mechanics
 
@@ -73,14 +73,14 @@ The 2013 remake received "mixed or average" reviews, with a Metacritic score of 
 |-------------|-------|-------|
 | GameSpot | 4/10 | "The problem is that even with improvements, Larry is a relic"[^ref-31] |
 | Game Informer | 6/10 | Criticized inconsistent visual quality[^ref-24] |
-| Gaming Nexus | 6.5/10 | Called it a "Betty White on Botox clone"[^ref-35] |
+| Gaming Nexus | 6.5/10 | Called the remake a "Betty White on Botox" clone[^ref-35] |
 | GodisaGeek | 4/10 | "The comedy does feel dated and it all comes across as a little lifeless"[^ref-36] |
 | PCMag | 3/5 | "The result is something more rickety than raunchy"[^ref-58] |
-| Adventure Gamers | 4/5 | More positive, calling it "an almost perfect remake"[^ref-45] |
+| Adventure Gamers | 4/5[^ref-18] | More positive, calling it "an almost perfect remake"[^ref-45] |
 
 ### Modern Assessment
 
-User reception among GOG customers was more positive, with 66 reviews averaging 4/5 stars (October 2026)[^ref-37]. On the GameFAQs boards, some Kickstarter backers were enthusiastic, with one stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another backer claimed "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
+User reception among GOG customers was more positive, with 68 reviews averaging 4/5 stars (October 2026)[^ref-37]. On the GameFAQs boards, some Kickstarter backers were enthusiastic, with one stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another backer claimed "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
 
 JayIsGames reviewer Tricky wrote that "these guys get Larry... the obliviousness, the dorkiness, and all those other attributes that ensure this loser stays just that much more loveable than pathetic"[^ref-41]. GamesRadar was less taken, judging that its "gameplay doesn't translate nearly as well to the modern gaming era"[^ref-33].
 
@@ -90,7 +90,7 @@ JayIsGames reviewer Tricky wrote that "these guys get Larry... the obliviousness
 
 The remake project began when Replay Games, founded by Paul Trowe[^ref-55], reached a licensing agreement with IP holder Codemasters[^ref-18]. However, traditional publishers showed no interest in funding development[^ref-34]. As Al Lowe explained, "Replay Games had the rights to Leisure Suit Larry for months and was unable to find a publisher interested in funding development. Had Paul Trowe and I not stumbled into Tim Shaffer at a conference, we might still be hunting for funding"[^ref-34].
 
-The Kickstarter campaign, titled "Make Leisure Suit Larry come again!"[^ref-42], launched in April 2012[^ref-83]. The campaign successfully raised $655,182 from 14,081 backers, exceeding the $500,000 goal[^ref-42]. This funding model proved crucial, as Al Lowe noted that Kickstarter made the project possible when traditional funding had failed[^ref-34].
+The Kickstarter campaign, titled "Make Leisure Suit Larry come again!", ran from April 2 to May 2, 2012[^ref-42]. The campaign successfully raised $655,182 from 14,081 backers, exceeding the $500,000 goal[^ref-42]. This funding model proved crucial, as Al Lowe noted that Kickstarter made the project possible when traditional funding had failed[^ref-34].
 
 ### Production
 
@@ -102,7 +102,7 @@ Austin Wintory composed a new 21-track big-band score built on Al Lowe's origina
 
 ### Technical Achievements
 
-The remake was built using the Unity engine[^ref-57] and released for Windows, macOS and Linux on June 27, 2013, followed by Android and iOS on July 17[^ref-18]. The Android version was pulled from Google Play the day after it went live to fix an unspecified error, and Replay said there was "no confirmed day" for its return[^ref-60]; MobyGames dates the Android release to August 13, 2013, which fits a relaunch[^ref-85].
+The remake was built using the Unity engine[^ref-57] and released for Windows, macOS and Linux on June 27, 2013, followed by Android and iOS on July 17[^ref-18]. The Android version was pulled from Google Play the day after it went live to fix an unspecified error, and Replay said there was "no confirmed day" for its return[^ref-60]; MobyGames lists an Android release on August 13, 2013[^ref-85].
 
 The game was rebuilt and animated from scratch[^ref-24]. Game Informer's Jeff Cork observed "The game looks pretty darn good overall, though it lacks consistency"[^ref-24].
 
@@ -112,7 +112,7 @@ Replay Games billed Reloaded as "the first major game to be released with fundin
 
 Some backers were delighted with the result[^ref-22], while GamesRadar concluded that it "only really works as a pure nostalgia play"[^ref-33].
 
-The game was delisted from Steam on November 24, 2017[^ref-15], though it remains available on GOG for Windows[^ref-37]. Delisted Games attributes the removal most likely to an expired license from Codemasters, rather than to the contemporaneous controversy around Replay's president[^ref-15].
+The game was delisted from Steam on November 24, 2017[^ref-15], though it remains available on GOG for Windows[^ref-37]. Delisted Games attributes the removal most likely to an expired license from Codemasters, rather than to the 2013 controversy around Replay's president[^ref-15].
 
 ## Downloads
 
@@ -151,7 +151,7 @@ The game was delisted from Steam on November 24, 2017[^ref-15], though it remain
 [^ref-33]: [GamesRadar Review](http://www.gamesradar.com/leisure-suit-larry-reloaded-review/) – Modern era gameplay assessment
 [^ref-34]: [GamingBolt Interview](http://gamingbolt.com/leisure-suit-larry-reloaded-interview-nsa-interference-unprintable-thoughts-kickstarter-benefits-and-more) – Al Lowe development insights
 [^ref-35]: [Gaming Nexus Review](https://www.gamingnexus.com/Article/Leisure-Suit-Larry-Reloaded/Item4070.aspx) – Critical assessment with harsh scoring
-[^ref-36]: [God is a Geek Review](https://web.archive.org/web/2014/https://www.godisageek.com/2013/08/leisure-suit-larry-reloaded-review/) – Dated humor criticism
+[^ref-36]: [God is a Geek Review](https://web.archive.org/web/20130825085613/http://www.godisageek.com/2013/08/leisure-suit-larry-reloaded-review/) – Dated humor criticism
 [^ref-37]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_reloaded) – Current availability and user reviews
 [^ref-40]: [IMDb Database Entry](https://www.imdb.com/title/tt2446570/) – Cast information and plot description
 [^ref-41]: [JayIsGames Review](https://web.archive.org/web/20150316123439/http://jayisgames.com/review/leisure-suit-larry-reloaded.php) – Character understanding praise
@@ -163,10 +163,9 @@ The game was delisted from Steam on November 24, 2017[^ref-15], though it remain
 [^ref-58]: [PCMag Review](https://www.pcmag.com/reviews/leisure-suit-larry-reloaded) – Professional review with scoring
 [^ref-59]: [Polygon Soundtrack Interview](http://www.polygon.com/2013/6/5/4399684/austin-wintorys-leisure-suit-larry-reloaded-soundtrack-released) – Composer interview about soundtrack
 [^ref-60]: [Polygon Android Issue Report](https://www.polygon.com/2013/7/19/4538278/leisure-suit-larry-reloaded-android-version-pulled-to-fix-error) – Technical problems with mobile version
-[^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – User-generated gameplay guide
 [^ref-74]: [Walkthrough King Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – Achievement requirements and Sierra easter eggs
 [^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – Al Lowe and Paul Trowe interview about Kickstarter
 [^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – Official product details
 [^ref-83]: [GameSpot – Leisure Suit Larry Reloaded out June 27](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-out-june-27/1100-6410796/) – Remake headed by Al Lowe with co-designer Josh Mandel
 [^ref-84]: [Steam Community – 100% walkthrough (maximum points, all achievements)](https://steamcommunity.com/sharedfiles/filedetails/?id=233576790) – Age-check quiz questions and answers, including Y2K
-[^ref-85]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – read via the MobyGames API (October 26, 2026): platforms include Windows Phone, first released 2015-01-20
+[^ref-85]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – read via the MobyGames API (October 26, 2026): Android first released 2013-08-13; Windows Phone first released 2015-01-20
