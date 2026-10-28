@@ -10,7 +10,7 @@ series: Standalone (Doralice duology)
 engine: Gob
 protagonist: Doralice Prunelier
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 composer: [Charles Callet]
 description: Lost in Time is a 1993 first-person point-and-click adventure game developed
   by French studio Coktel Vision and published in North America by Sierra...
@@ -18,13 +18,13 @@ tags: [1990s, adventure, coktel, sierra, standalone-doralice-duology]
 ---
 # Lost in Time
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Lost in Time is a 1993 first-person point-and-click adventure game developed by French studio Coktel Vision and published in North America by Sierra On-Line[^ref-1]. The game follows Doralice Prunelier, a young woman who finds herself mysteriously transported through time while investigating a shipwreck, ultimately becoming embroiled in a complex plot involving the Space Time Patrol and a dangerous criminal named Jarlath Equs[^ref-3].
+Lost in Time is a 1993 first-person point-and-click adventure game developed by French studio Coktel Vision and published in North America by Sierra On-Line[^ref-1]. The game follows Doralice Prunelier, a young woman who finds herself mysteriously transported through time while investigating a shipwreck, ultimately becoming embroiled in a complex plot involving the Space-Time Police and a dangerous criminal named Jarlath Equs[^ref-3][^ref-27].
 
-Coktel Vision, known for their Gobliiins series, was in Hardcore Gaming 101's words "on the forefront of the multimedia revolution," and Lost in Time makes extensive use of 3D computer rendering and digitized actors[^ref-5]. Computer Gaming World noted that "game play is interesting and movement through the 3D world is fluid," though "some puzzles border on the obtuse"[^ref-29]; Electronic Entertainment likewise found the puzzles "very hard and often obscure"[^ref-30].
+Coktel Vision, known for their Gobliiins series[^ref-13], was in Hardcore Gaming 101's words "on the forefront of the multimedia revolution," and Lost in Time makes extensive use of 3D computer rendering and digitized actors[^ref-5]. Computer Gaming World noted that "game play is interesting and movement through the 3D world is fluid," though "some puzzles border on the obtuse"[^ref-29]; Electronic Entertainment likewise found the puzzles "very hard and often obscure"[^ref-30].
 
 Lost in Time has been described as "sort of like a bizarro French version of Back to the Future" due to its time-travel narrative and the ways in which protagonist Doralice must navigate both past and present to resolve the central conflict[^ref-5]. Despite its dramatic science fiction premise, the game maintains a silly, often absurdist tone that became characteristic of Coktel Vision's adventure titles[^ref-5].
 
@@ -37,13 +37,13 @@ Lost in Time has been described as "sort of like a bizarro French version of Bac
 > **Release Year:** 1993
 > **Series:** Standalone (Doralice duology)
 > **Protagonist:** Doralice Prunelier
-> **Sierra Lineage:** Coktel Vision
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-In 1992, a young woman named Doralice Prunelier is investigating a shipwreck when suddenly the vessel begins to move[^ref-3]. Disoriented and unable to understand what is happening, Doralice explores the ship and eventually discovers that she has been chosen—unknowingly—by the Central Computer of the Space-Time Patrol (STP) in the year 2092 to assist in a critical mission[^ref-8]. Her task is to search for and eventually arrest a thief named Jarlath Equs, who has stolen a rare radioactive element called Americium 1492 and hidden it somewhere in the past[^ref-8].
+In 1992, a young woman named Doralice Prunelier is investigating a shipwreck when suddenly the vessel begins to move[^ref-3]. Disoriented and unable to understand what is happening, Doralice explores the ship and eventually discovers that she has been chosen—unknowingly—by the Central Computer of the Space-Time Police in the year 2092 to assist in a critical mission[^ref-27] (MobyGames' description calls it the "Space Time Patrol"[^ref-3]). Her task is to search for and eventually arrest a thief named Jarlath Equs, who has stolen a rare radioactive element called Americium 1492 and hidden it somewhere in the past[^ref-27][^ref-8].
 
-Doralice is selected because of her unique "historical-temporal ties" to Equs—she is actually a descendant of his wife[^ref-8]. Transported back to the year 1840 when the ship was still intact, Doralice has no choice but to explore her surroundings and unravel the mystery[^ref-9]. The manual lists three locations across two time periods: the Manor de la Pruneliere on the Atlantic coast of Europe in 1992, the ship Briscarde in the Caribbean Sea in 1840, and the island of St. Cristobald in 1840[^ref-27]. Electronic Entertainment summarized it as "the present-day coast of France as well as two locations in the past — a Caribbean island and an ill-fated cargo galleon"[^ref-30].
+Doralice is selected because of her "historical-temporal ties" to Equs[^ref-27]—she is a direct descendant of the child that Jarlath's wife Velvet had with Yoruba, a slave Jarlath brought to the island[^ref-27][^ref-3]. Transported back to the year 1840 when the ship was still intact, Doralice has no choice but to explore her surroundings and unravel the mystery[^ref-9]. The manual lists three locations across two time periods: the Manor de la Pruneliere on the Atlantic coast of Europe in 1992, the ship Briscarde in the Caribbean Sea in 1840, and the island of St. Cristobald in 1840[^ref-27]. Electronic Entertainment summarized it as "the present-day coast of France as well as two locations in the past — a Caribbean island and an ill-fated cargo galleon"[^ref-30].
 
 The game's narrative involves Doralice uncovering revelations about her own past while pursuing the dangerous criminal across time[^ref-9]. Along the way, she encounters numerous characters including Melkior, Yoruba, Velvet, Philibert, Oswald, Makandal, Delia, Celeucie, Amilcar, and Serapion[^ref-11]. The plot weaves together elements of science fiction, historical adventure, and personal discovery, as Doralice must stop a man who "plotted your doom centuries before you were born"[^ref-1].
 
@@ -53,7 +53,7 @@ The narrative is advanced primarily through cutscenes, with minimal dialogue and
 
 ### Interface and Controls
 
-Lost in Time is a completely mouse-driven first-person adventure game[^ref-12]. The interface features six icons at the top of the screen: a control panel, hints, notebook, inventory, map, and options[^ref-12]. Players interact with the environment by clicking on objects and areas of interest, with Doralice's actions shown through small picture-in-picture videos that display the results of each interaction—a feature that was "mighty impressive for something back in 1992"[^ref-5].
+Lost in Time is a completely mouse-driven[^ref-12] first-person adventure game[^ref-13]. The interface features six icons at the top of the screen: a control panel, hints, notebook, inventory, map, and options[^ref-12]. Players interact with the environment by clicking on objects and areas of interest, with Doralice's actions shown through small picture-in-picture videos that display the results of each interaction—a feature that was "mighty impressive for something back in 1992"[^ref-5].
 
 The game uses a modified version of the Gobliiins engine, previously seen in Inca II, with graphics that mix hand-painted and digitized backgrounds and video clips of the actors[^ref-13]. The three major locations in the game are rendered in completely different art styles, giving each area a distinct visual identity[^ref-5].
 
@@ -69,11 +69,11 @@ Players must thoroughly explore each location, collecting items and solving puzz
 
 ### Puzzles and Mechanics
 
-Lost in Time is notorious for its inventory-intensive puzzle design[^ref-14]. Players will face "literally hundreds of puzzles that require MacGuyver-like logic of combining household items into useful tools"[^ref-14]. The protagonist has been described as "the original MacGyver" due to the ingenious and logical nature of the puzzles[^ref-12]—reviewers noted that "the developers at Coktel must have watched too many episodes of 'MacGyver'"[^ref-13].
+Lost in Time is notorious for its inventory-intensive puzzle design[^ref-14]. Players will face "literally hundreds of puzzles that require MacGuyver-like logic of combining household items into useful tools"[^ref-14]. The protagonist has been described as "the original MacGyver" due to the ingenious and logical nature of the puzzles[^ref-12]—MobyGames reviewer Katakis noted that "the developers at Coktel must have watched too many episodes of 'MacGyver'"[^ref-13].
 
 Typical puzzle solutions involve creative item combinations, such as using battery acid to rust locks, or combining seemingly unrelated objects to create functional tools[^ref-13]. The manual's profile of Doralice says "She touches everything but does not take time to examine things more closely"[^ref-27], suggesting that players must be proactive in experimenting with inventory items.
 
-The game includes a hint system called "Jokers," found in various places throughout the game; the manual states "You are only allowed to use three"[^ref-27][^ref-7]. Electronic Entertainment warned that once all three were used, players had to call Sierra's paid 900-number hint line or BBS for further help[^ref-30]. This design choice contributes significantly to the game's reputation as "one of the most fiendishly difficult and intricate puzzle games you'll ever come across"[^ref-14].
+The game includes a hint system called "Jokers," found in various places throughout the game; the manual states "You are only allowed to use three"[^ref-27][^ref-7]. Electronic Entertainment warned that once all three were used, players had to call Sierra's paid 900-number hint line or BBS for further help[^ref-30]. Home of the Underdogs called it "one of the most fiendishly difficult and intricate puzzle games you'll ever come across"[^ref-14].
 
 ## Reception
 
@@ -85,12 +85,12 @@ Lost in Time received mixed to positive reviews upon release. PC Zone awarded th
 
 Later assessments remain mixed. Home of the Underdogs described it as "arguably Coktel Vision's best game"[^ref-14]. MobyGames user MAT wrote that it is "probably the earliest 1st-person adventure game that I can think of as calling it a good one"[^ref-17], giving the game a positive assessment while admitting it's "Great, but I can't quite figure out why"[^ref-17]. Blogger Alex Bevilacqua (2023) was far harsher: "The voice acting in this game is atrocious," he wrote, concluding that "Lost in Time is not fun"[^ref-7]. Hardcore Gaming 101 found it "laudably cheesy" but "all too haphazard to be taken at face value"[^ref-5].
 
-The game has developed a cult following among adventure game enthusiasts. One player on GOG's wishlist noted: "This is the first game I played on the PC many years ago. Very underrated. Or possibly just my nostalgia talking"[^ref-18]. Another fan wrote: "Honestly, Lost In Time is one of my favorite games... the storyline is gripping and the puzzles are tastefully challenging"[^ref-16], and noted that "even those that don't like the game love the storyline"[^ref-16].
+Some players remember it fondly. One player on GOG's wishlist noted: "This is the first game I played on the PC many years ago. Very underrated. Or possibly just my nostalgia talking"[^ref-18]. Another fan wrote: "Honestly, Lost In Time is one of my favorite games... the storyline is gripping and the puzzles are tastefully challenging"[^ref-16], and noted that "even those that don't like the game love the storyline"[^ref-16].
 
 **Aggregate Scores:**
 - **MobyGames:** 73% critic average (24 ratings); player average 3.2/5 (32 ratings); Moby Score 7.0[^ref-1]
 - **Abandonware DOS:** 3.90/5.00 (72 votes)[^ref-19]
-- **MyAbandonware:** 4.4/5[^ref-14]
+- **MyAbandonware:** 4.36/5 (61 votes)[^ref-14]
 - **Amazon:** 3.2/5 stars[^ref-20]
 
 ## Development
@@ -156,7 +156,7 @@ Audio analysis of the game files has revealed three unused audio tracks: dora1.a
 | Floppy (Parts 1 & 2) | 1993 | DOS | European release, divided into two parts[^ref-6] |
 | CD-ROM | 1993 | DOS | Single disc with both parts, longer video and digitized speech[^ref-6] |
 | US Floppy | 1993 | DOS | Single combined release via Sierra[^ref-15][^ref-5] |
-| CD-ROM (NA) | 1993–94 | DOS | Sierra's Holiday 1993 InterAction listed it on diskettes and CD-ROM, but said the limited Christmas 1993 CD stock went almost entirely to Canada[^ref-31]; Sierra issued a CD-ROM update dated 1/28/94[^ref-29] |
+| CD-ROM (NA) | 1993–94 | DOS | Sierra's Holiday 1993 InterAction listed it on diskettes and CD-ROM, but said the limited Christmas 1993 CD stock went almost entirely to Canada[^ref-31]; Sierra issued a CD-ROM update, dated 2/09/94, that fixed problems with Mitsumi and Orchid CD drives and some Sound Blaster-compatible sound cards[^ref-29] |
 | Windows | Unknown | Windows 3.1 | Listed by the ScummVM wiki alongside DOS[^ref-9] |
 
 **Gob Engine Information:**[^ref-7]
@@ -176,7 +176,7 @@ Reviewer Katakis wrote that some CD-ROM cinematics "suffer from poor lip-synchin
 - The protagonist Doralice Prunelier previously appeared in Coktel Vision's adult-oriented adventure game Fascination, where she appeared nude[^ref-13]
 - The game's box and documentation did not indicate that Lost in Time was a sequel to Fascination[^ref-18]
 - Lost in Time has been compared to Back to the Future due to its time-travel narrative structure[^ref-5]
-- The game features 3D prerendered rooms, which was cutting-edge technology for 1993[^ref-22]
+- Most of the game's rooms are 3D prerendered[^ref-22]
 - One fan called it "one of the hardest games I've ever played"[^ref-25]
 
 ## Cast
@@ -217,7 +217,7 @@ Lost in Time is supported by ScummVM since version 0.12.0, allowing the game to 
 ### Related Publications
 
 - **Game Manual:** Included with original release, contains character background and gameplay instructions[^ref-15]
-- **Walkthrough Guides:** Multiple fan-created walkthroughs exist, including comprehensive guides on GameFAQs, GameBoomers, and The Spoiler[^ref-16][^ref-12][^ref-25]
+- **Walkthrough Guides:** Multiple fan-created walkthroughs exist, including comprehensive guides on GameFAQs, GameBoomers, and Just Adventure[^ref-16][^ref-12][^ref-25]
 
 ### Critical Perspective
 
@@ -252,13 +252,13 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 
 [^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information
 [^ref-3]: [Internet Archive – Lost in Time (DOS)](https://archive.org/details/msdos_Lost_in_Time_1993) – game description, story summary, preservation status
-[^ref-5]: [Hardcore Gaming 101 – Lost in Time](http://www.hardcoregaming101.net/lost-in-time/) – Back to the Future comparison, visual style analysis, development context
+[^ref-5]: [Hardcore Gaming 101 – Lost in Time](http://www.hardcoregaming101.net/lost-in-time/) ([Wayback copy, 29 Feb 2024](http://web.archive.org/web/20240229050033/http://www.hardcoregaming101.net/lost-in-time/)) – Back to the Future comparison, visual style analysis, development context
 [^ref-6]: [Wikipedia – Lost in Time (video game)](https://en.wikipedia.org/wiki/Lost_in_Time_(video_game)) – release dates, publisher information, review scores, version details
 [^ref-7]: [Alex Bevilacqua Blog – Lost in Time](https://alexbevi.com/blog/2023/10/26/lost-in-time/) – Gob engine, Joker hint system, voice acting criticism, contemporary context
-[^ref-8]: [eBay – Lost in Time Product Page](https://www.ebay.com/p/54828537) – Space Time Patrol details, Americium 1492 plot element, character backstory
+[^ref-8]: [eBay – Lost in Time Product Page](https://www.ebay.com/p/54828537) – Americium 1492 plot element
 [^ref-9]: [ScummVM Wiki – Lost in Time](https://wiki.scummvm.org/index.php?title=Lost_in_Time) – ScummVM support, resolution, plot summary, Hebrew title
 [^ref-10]: [Sierra Help – Lost in Time Walkthrough](https://sierrahelp.com/Walkthroughs/LostInTimeWalkthrough.html) – game locations, puzzle structure
-[^ref-11]: [Sierra Chest – Lost in Time](https://www.sierrachest.com/index.php?a=games&id=150&title=lost-in-time) – complete voice cast listing
+[^ref-11]: [Sierra Chest – Lost in Time](https://www.sierrachest.com/index.php?a=games&id=150&title=lost-in-time&fld=walkthrough&pid=120) – cast listing (under the Walkthrough tab's "Game characters")
 [^ref-12]: [GameBoomers – Lost in Time Walkthrough](https://www.gameboomers.com/wtcheats/pcLl/LostinTime/lostintime.htm) – interface description, gameplay mechanics, timed puzzles
 [^ref-13]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/6098/lost-in-time/user-review/2590056/) – MacGyver comparisons, engine details, lip-synch issues, Fascination connection
 [^ref-14]: [MyAbandonware – Lost in Time](https://www.myabandonware.com/game/lost-in-time-1zq) – HOTUD review quotes, difficulty description, ratings
@@ -272,10 +272,10 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 [^ref-22]: [VGMPF – Lost in Time (DOS)](https://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)) – audio specifications, unused tracks, composer credit
 [^ref-23]: [PCGamingWiki – Lost in Time](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – minimum and recommended requirements, Gob engine
 [^ref-24]: [VOGONS Forum – Lost in Time](http://www.vogons.org/viewtopic.php?t=9728) – DOSBox compatibility issues, CVS fix information
-[^ref-25]: [The Spoiler – Lost in Time Walkthrough](https://www.justadventure.com/walkthrough/lost-in-time-2/) – difficulty testimonial
+[^ref-25]: [Just Adventure – Lost in Time Walkthrough (StarLite docs)](https://www.justadventure.com/walkthrough/lost-in-time-2/) – difficulty testimonial
 [^ref-26]: [Internet Archive – Lost in Time (Alternative)](https://archive.org/details/lost-in-time) – ESRB rating, language support
-[^ref-27]: [Internet Archive – Lost in Time Manual](https://archive.org/details/lost-time-manual) – original manual: locations and time periods, Doralice profile, three jokers
+[^ref-27]: [Internet Archive – Lost in Time Manual](https://archive.org/details/lost-time-manual) – original manual: Space-Time Police report and story background, locations and time periods, Doralice profile, three jokers
 [^ref-28]: [Sierra On-Line Form 10-K, fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925id_/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
-[^ref-29]: [Computer Gaming World #117, April 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_117) – CD-ROM round-up capsule review; "Sierra On-Line, DOS, $39.95"; Lost in Time CD-ROM Update dated 1/28/94
+[^ref-29]: [Computer Gaming World #117, April 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_117) – CD-ROM round-up capsule review; "Sierra On-Line, DOS, $39.95"; "Lost In Time CD-ROM Update" dated 2/09/94: fixes problems with Mitsumi and Orchid CD drives and certain Sound Blaster-compatible audio cards
 [^ref-30]: [Electronic Entertainment #3, March 1994, p. 104 (Internet Archive)](https://archive.org/details/ElectronicEntertainment03Mar1994) – Al Giovetti review: locations, jokers, Ségur drawings, 14 actors, 45 minutes of video on CD, prices
 [^ref-31]: [InterAction Magazine, Holiday 1993 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Sierra's feature on the game, blue-screen production, CD supply sent mostly to Canada
