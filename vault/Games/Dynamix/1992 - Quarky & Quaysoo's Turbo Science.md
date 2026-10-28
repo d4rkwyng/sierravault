@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Dynamix Game Development System (DGDS)
 protagonist: Quarky O'Ghandi / Quaysoo O'Ghandi
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Quarky & Quaysoo's Turbo Science is an educational science quiz-race game
   developed by Jeff Tunnell Productions and published by Sierra On-Line for DOS in 1992
   as part of the Sierra Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, dgds, educational, sierra, sierra-discovery-series]
 ---
 # Quarky & Quaysoo's Turbo Science
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Quarky & Quaysoo's Turbo Science is an educational puzzle game developed by [[Je
 
 The game features two space "elfs" named Quarky (green) and Quaysoo (yellow) O'Ghandi, who, according to *Compute!*, "hail from New Delhi, India."[^ref-2][^ref-24] As members of the team Los Turbos, players compete against rival teams in a science race run against the clock: the opponents keep moving while the player researches and answers questions.[^ref-7][^ref-24] The objective is to win a series of races and climb the ranks, progressing from "Squid" to "Turbo Science Champ" by correctly answering science questions to earn money and advance through checkpoints.[^ref-6]
 
-Old-Games.com called it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] The game included over 2,300 questions and experiments, along with a printed Research Guide that the box describes as a 150-page reference book.[^ref-3] *Compute!* called it "a delightful game in Sierra On-Line's Discovery series."[^ref-24]
+A capsule review on Old-Games.com's page, printed after the site's main review, calls it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] The game included over 2,300 questions and experiments, along with a printed Research Guide that the box describes as a 150-page reference book.[^ref-3] *Compute!* called it "a delightful game in Sierra On-Line's Discovery series."[^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell Productions]][^ref-1]
@@ -41,9 +41,9 @@ Old-Games.com called it "a pleasant surprise by master puzzler Jeff Tunnell" and
 
 ## Story Summary
 
-In the world of Quarky & Quaysoo's Turbo Science, the title characters are space elves: MobyGames describes "the indian-originated space elf Quarky O'Ghandi and his sister Quaysoo," depicted in green and yellow respectively.[^ref-2][^ref-6] The siblings have organized a racing team called Los Turbos to compete in the Turbo Science Championship, an intergalactic competition that will once and for all resolve the dispute over the title of the best scientist in the universe.[^ref-8]
+In the world of Quarky & Quaysoo's Turbo Science, the title characters are space elves: MobyGames describes "the indian-originated space elf Quarky O'Ghandi and his sister Quaysoo," depicted in green and yellow respectively.[^ref-2][^ref-6] The siblings have organized a racing team called Los Turbos to compete in the Turbo Science Championship, an intergalactic race that, in GamePressure's words, will settle the title of "the best scientist in the universe."[^ref-8]
 
-Los Turbos faces three rival teams: Das Liquidators, Cool City Maulers, and Valiant Cubed (spelled "Valiant Cube" in some descriptions).[^ref-5][^ref-12] Valiant Cubed is the reigning champion Odessa King.[^ref-10][^ref-24] Each race winds across a map of themed stops, such as a construction site for simple machines and a Clown College for chemistry, where players answer questions about what they see.[^ref-2][^ref-10]
+Los Turbos faces three rival teams: Das Liquidators, Cool City Maulers, and Valiant Cubed (spelled "Valiant Cube" in some descriptions).[^ref-5][^ref-12] Valiant Cubed is a one-member team: the reigning champion, Odessa King.[^ref-6][^ref-10][^ref-24] Each race winds across a map of themed stops, such as a construction site for simple machines and a Clown College for chemistry, where players answer questions about what they see.[^ref-2][^ref-10]
 
 At the end of each race, the television newscaster Paco de Suave interviews the winners or the losers.[^ref-10][^ref-24] (*Compute!* calls him "Paco Suave, a Turbonet newscaster".) The Research Guide uses comic characters to teach its topics, among them Sheik Oil Slick for energy and Hector Skullface for electromagnetism and static electricity.[^ref-2][^ref-25] Old-Games.com's reviewer felt the game's "really funny setting and story" made up "for the rather dry questioning style."[^ref-7]
 
@@ -53,7 +53,7 @@ As players progress through the championship, they earn money to buy faster tran
 
 ### Interface and Controls
 
-Quarky & Quaysoo's Turbo Science uses a mouse-driven point-and-click interface, aimed at children ages 9-14.[^ref-3][^ref-6] It runs on the Dynamix Game Development System (DGDS) engine, with the "Dynamix bottom bar" icon interface also seen in later Sierra adventures.[^ref-7][^ref-11] An Eye icon gives pop-up information on objects, and a Tools icon opens a toolbox with a voltage meter, sound meter, tape measure, beaker and scale for measuring things on screen.[^ref-24]
+Quarky & Quaysoo's Turbo Science uses a mouse-driven point-and-click interface, aimed at children ages 9-14.[^ref-3][^ref-6] It runs on the Dynamix Game Development System (DGDS) engine, with the "Dynamix bottom bar" icon interface also seen in later Sierra adventures.[^ref-7][^ref-11] An Eye icon gives pop-up information on objects, and a Tools icon opens a toolbox with a voltage meter, sound meter, tape measure, beaker and scale for measuring things on screen.[^ref-24] *PC Magazine*'s list of the toolkit's devices also includes a light meter.[^ref-25]
 
 Some questions are multiple choice, while others ask the player to click one of several objects that the game highlights in the scene.[^ref-6][^ref-3] For harder questions, the Research icon tells players which page of the printed Research Guide to read.[^ref-13][^ref-24] Sources give the guide's length differently: the box says 150 pages, *Compute!* says 145 and *PC Magazine* says 152.[^ref-3][^ref-24][^ref-25] *PC Magazine* noted that there is no penalty for using the guide and that the clock stops while kids measure and weigh objects.[^ref-25]
 
@@ -89,7 +89,7 @@ In *PC Magazine*'s June 15, 1993 roundup of science software, Peter Scisco descr
 
 The Oppenheim Toy Portfolio Guide Book, by Joanne and Stephanie Oppenheim (1993), described the game as a set of "fun science problems" focused on energy, chemistry, magnetism, and air and water pressure, and judged it best suited to children aged 9 and older.[^ref-2]
 
-Old-Games.com's review called it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] It also noted that "Quarky & Quaysoo's Turbo Science has a really funny setting and story which make up for the rather dry questioning style."[^ref-7]
+A capsule review on Old-Games.com's page called it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] The site's main review, which gave the game 4/5, noted that "Quarky & Quaysoo's Turbo Science has a really funny setting and story which make up for the rather dry questioning style."[^ref-7]
 
 A MobyGames user review is titled "Who knew that science could be so much fun?"[^ref-6]
 
@@ -169,7 +169,7 @@ The game features several notable design choices and quirky elements:
 - **Character Origins:** MobyGames describes Quarky and Quaysoo O'Ghandi as "indian-originated" space elves.[^ref-6] *Compute!* says they "hail from New Delhi, India."[^ref-24]
 - **Team Names:** The rival teams are Das Liquidators, Cool City Maulers, and Valiant Cubed.[^ref-12]
 - **Character Selection:** Players can choose to race as either Quarky or Quaysoo.[^ref-12]
-- **Educational Characters:** The Research Guide's Sheik Oil Slick teaches energy-related concepts, in keeping with the game's pun-based character names.[^ref-2]
+- **Educational Characters:** The Research Guide's Sheik Oil Slick teaches energy-related concepts.[^ref-2]
 - **Post-Race Interviews:** Paco de Suave, a TV newscaster, interviews the winners or losers after each race.[^ref-10][^ref-24]
 
 ## Legacy
@@ -201,7 +201,7 @@ Speedrun.com tracks the game and hosts a beginner's guide with route and strateg
 
 Quarky & Quaysoo's Turbo Science dates from the early 1990s, when Sierra was publishing a whole line of educational software. It combines quiz-based learning with a racing framework and comic characters, the "edutainment" idea of making learning feel like play.[^ref-7][^ref-17]
 
-Old-Games.com's reviewer said it "shows off Jeff's versatility as an astute game designer."[^ref-7] Tunnell remains best known for The Incredible Machine series.[^ref-8][^ref-16]
+The capsule review on Old-Games.com's page said it "shows off Jeff's versatility as an astute game designer."[^ref-7] Tunnell remains best known for The Incredible Machine series.[^ref-8][^ref-16]
 
 Period reviewers praised the game and especially its Research Guide.[^ref-24][^ref-25] *PC Magazine* did criticise the guide's all-male list of famous scientists, along with the game's frantic pace.[^ref-25] The game is still hosted on abandonware sites and has a speedrunning community.[^ref-1][^ref-12]
 
