@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -73,11 +73,11 @@ The Syllables of the seven Wisemen are combined into Formulas, each giving Woodr
 
 ### Puzzles and Mechanics
 
-A MobyGames player review calls most of the puzzles "insanely hard," warning that newcomers to adventure games will get completely stuck.[^ref-7] The game reinvents the concept of "moon logic," turns it on its head, and then burns whatever rules it decided to follow a minute ago.[^ref-19] Adventure Classic Gaming, though, judged that none of the puzzles "can be considered truly unfair."[^ref-3]
+A MobyGames player review calls most of the puzzles "insanely hard," warning that newcomers to adventure games will get completely stuck.[^ref-7] MyAbandonware's reviewer, HOTUD, writes that Woodruff "reinvents the concept of moon logic" and then "burns whatever rules it decided to follow a minute ago."[^ref-19] Adventure Classic Gaming, though, judged that none of the puzzles "can be considered truly unfair."[^ref-3]
 
 The inventory system allows players to collect numerous items, with some items containing sub-inventories of their own.[^ref-15] Players can collect objects such as nuts, boots, bottle-openers, and the essential Meteozon watch.[^ref-20] A notable mechanic involves Woodruff gaining plant-growing powers, which must be used at specific moments to solve environmental puzzles.[^ref-21]
 
-The game makes liberal use of made-up words and absurdist humor throughout its puzzle design, contributing to the difficulty as players must often decipher the logic behind bizarre terminology and interactions.[^ref-15] Separately from the Syllables, a Chinese-stereotype "guru" periodically grants Woodruff minor powers, such as controlling his hair growth; asked what use they are, he answers: "Individually, they are useless. But once you have mastered them all, you will gain the ability to levitate!" Levitation is needed to finish the game.[^ref-16]
+Hardcore Gaming 101 notes the game's "curious tendency to use made-up words without ever explaining what they actually mean."[^ref-15] Separately from the Syllables, a Chinese-stereotype "guru" periodically grants Woodruff minor powers, such as controlling his hair growth; asked what use they are, he answers: "Individually, they are useless. But once you have mastered them all, you will gain the ability to levitate!" Levitation is needed to finish the game.[^ref-16]
 
 ## Reception
 
@@ -98,10 +98,10 @@ Modern retrospective reviews have been largely positive while acknowledging the 
 **Aggregate Scores:**
 - **MobyGames:** 79% (based on 21 critic reviews)[^ref-7]
 - **IMDB:** 8.4/10[^ref-25]
-- **OldGames.sk:** 83-90%[^ref-6]
+- **OldGames.sk:** 83% (28 votes)[^ref-6]
 - **GameFAQs:** 9/10 (user review by Fragnarok)[^ref-21]
-- **MyAbandonware:** 4.33/5[^ref-19]
-- **Glitchwave:** 3.06/5.0[^ref-26]
+- **MyAbandonware:** 4.25/5 (24 votes)[^ref-19]
+- **Glitchwave:** 3.19/5.0 (15 ratings)[^ref-26]
 
 ## Development
 
@@ -152,13 +152,13 @@ That review also observes that there is almost no background music, only ambient
 
 ### Cut Content
 
-Some dummied-out content from the game can be found documented on The Cutting Room Floor wiki, indicating that certain features or sequences were removed during development.[^ref-31] The specific nature of this cut content has been preserved for archival purposes by the game preservation community.
+TV Tropes notes that some dummied-out content from the game can be found on The Cutting Room Floor wiki.[^ref-31]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | December 1994 | Windows 3.1 | Initial release as *Woodruff and the Schnibble of Azimuth*[^ref-5] |
+| 1.0 | December 1994 | Windows 3.1 | Initial release; Wikipedia dates it from the French *Électre multimédia* catalogue[^ref-5] |
 | 1.0 (US) | April 7, 1995 | Windows 3.x | North American release as *The Bizarre Adventures of Woodruff and the Schnibble*[^ref-9] |
 | Update | April 24, 1995 | Windows 3.x | Fixes all known issues with the game[^ref-32] |
 | Germany / UK | 1995 | Windows 3.x | Sierra On-Line releases in Germany and the United Kingdom[^ref-36] |
@@ -182,6 +182,7 @@ An update dated 24 April 1995 was issued that "fixes all known issues with the g
 - **Ernst Blintz Dialogue Bug:** Ernst Blintz yells at the player for meddling with his sandalwood chest although nothing has been done with it yet.[^ref-3]
 - **Repetition Glitch:** Cases occur where a character starts repeating dialogue they just finished saying.[^ref-3]
 - **Teleport Sequence Skip:** If players teleport to the prison tower before reaching the first prisoner's window, they appear right at that window, enabling them to skip a puzzle entirely.[^ref-3]
+
 The game was originally a 16-bit Windows program, meaning it does not run natively on 64-bit Windows versions without emulation or compatibility layers.[^ref-30] ScummVM support has since resolved all these compatibility issues, enabling cross-platform play on modern systems including Windows, Linux, and Mac OSX.[^ref-30]
 
 ### Easter Eggs and Trivia
@@ -198,7 +199,7 @@ The game was originally a 16-bit Windows program, meaning it does not run native
 
 ## Voice Cast
 
-The game features a fully voiced cast. The English voice actors have never been identified, but the French version features well-known actors:[^ref-5]
+The game features a fully voiced cast. The English voice actors have never been identified; for the French version, Wikipedia names Edgar Givry and Claude Piéplu, and IMDb also lists Patrick Préjean and Micheline Dax:[^ref-5][^ref-25]
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -211,7 +212,7 @@ The game features a fully voiced cast. The English voice actors have never been 
 
 ### Sales and Commercial Impact
 
-Although the game was praised by many critics, it never became particularly popular or financially successful.[^ref-6] The game has maintained collectible status among adventure gaming enthusiasts, with sealed copies commanding premium prices up to $250.[^ref-33]
+Although the game was praised by many critics, it never became particularly popular or financially successful.[^ref-6] PriceCharting records a sealed big-box copy selling for $250 on eBay in October 2023, though other sealed copies have sold for less, such as $85.30 in November 2025.[^ref-33]
 
 Wikipedia describes it as slipping into obscurity behind Sierra's better-known titles while retaining a small, devoted cult following.[^ref-1] Fans continue to request a digital re-release on GOG.[^ref-4][^ref-41]
 
@@ -219,21 +220,21 @@ Wikipedia describes it as slipping into obscurity behind Sierra's better-known t
 
 MobyGames lists the game as included in two compilations: *Best of Sierra Nr. 5* (1998) and *Woodruff and The Schnibble of Azimuth + Freddy Pharkas: Cowboy Apotheker* (2001).[^ref-7] It was also reissued on its own as budget editions (see Version History), and a Windows version was released in Poland in 2001.[^ref-12][^ref-36] It is not sold on modern digital storefronts.[^ref-4]
 
-### Fan Projects
+### Preservation
 
-The game preservation community has maintained strong interest in *Woodruff and the Schnibble*. GOG.com's old community wishlist page shows demand for a re-release, with fans leaving comments such as "This game is a cult classic; I keep looking for it on GOG!" and "The World is waiting for this Game :-)"[^ref-41] Another user simply stated: "I would buy it."[^ref-41] The request continues on GOG's Dreamlist.[^ref-4]
+GOG.com's old community wishlist page shows demand for a re-release, with fans leaving comments such as "This game is a cult classic; I keep looking for it on GOG!" and "The World is waiting for this Game :-)"[^ref-41] Another user simply stated: "I would buy it."[^ref-41] The request continues on GOG's Dreamlist.[^ref-4]
 
-ScummVM support has been crucial for preservation efforts, allowing the game to run on modern operating systems without the compatibility issues that plagued the original Windows 3.x release.[^ref-30] The Collection Chamber blog has provided detailed instructions for running the game on Windows 10 systems using ScummVM.[^ref-24]
+ScummVM support lets the game run on modern operating systems without the 16-bit compatibility problems of the original Windows 3.x release.[^ref-30] The Collection Chamber blog offers its own custom installer that uses ScummVM to run the game on modern PCs, "Tested on Windows 10."[^ref-24]
 
 ### Related Publications
 
-- **Official Walkthrough:** Originally published by Sierra, revised by Luca Smeriglio in 1995[^ref-35]
+- **Walkthrough:** Sierra's original text, "revised & corrected" by Luca Smeriglio (29 May 1995)[^ref-35]
 - **Sierra Help Pages:** Technical documentation and compatibility guides[^ref-30]
 - **StrategyWiki Walkthrough:** Comprehensive community-created guide[^ref-20]
 
 ### Critical Perspective
 
-The game pairs absurdist comedy with a study of racism and cultural interaction,[^ref-17] while its puzzles remain its most divisive feature.[^ref-15][^ref-7] The French retrospective site Histoire du jeu vidéo sees Woodruff, with his endearing naivety and unwavering courage, as embodying the quest for lost innocence.[^ref-29] While certainly not for everyone, the game remains recommended to puzzle experts willing to embrace its particular brand of moon logic, though they should be prepared to take some Advil while playing.[^ref-19]
+The game pairs absurdist comedy with a study of racism and cultural interaction,[^ref-17] while its puzzles remain its most divisive feature.[^ref-15][^ref-7] MyAbandonware's reviewer HOTUD recommended it "only to puzzle experts. And even then, be prepared to take some Advil while you're at it."[^ref-19]
 
 ## Downloads
 
@@ -272,7 +273,7 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 [^ref-8]: [PCGamingWiki – Woodruff and the Schnibble](https://www.pcgamingwiki.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – engine info, system requirements
 [^ref-9]: [Internet Archive – Woodruff and the Schnibble](https://archive.org/details/woodruff-and-the-schnibble) – release date, plot summary
 [^ref-12]: [Abandonware France – Woodruff](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=641) – French retrospective, themes, Easter eggs, locations
-[^ref-15]: [Hardcore Gaming 101 – Woodruff Review](http://www.hardcoregaming101.net/the-bizarre-adventures-of-woodruff-and-the-schnibble-woodruff-and-the-schnibble-of-azimuth-windows-1995/) – locations, inventory system, Easter eggs
+[^ref-15]: [Hardcore Gaming 101 – Woodruff Review (Wayback, 2025-02-09)](http://web.archive.org/web/20250209234914/http://www.hardcoregaming101.net/the-bizarre-adventures-of-woodruff-and-the-schnibble-woodruff-and-the-schnibble-of-azimuth-windows-1995/) – locations, inventory system, made-up words, Easter eggs
 [^ref-16]: [TV Tropes – Woodruff and the Schnibble](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheBizarreAdventuresOfWoodruffAndTheSchnibble) – gameplay quotes, syllable mechanics, Easter eggs
 [^ref-17]: [Tropedia – Woodruff and the Schnibble](https://tropedia.fandom.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – narrative themes, puzzle difficulty, fourth wall breaks
 [^ref-18]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble (Gameplay)](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble#Gameplay) – King's Quest VII-style interface, right-click inventory, Woodruff mocking the player
@@ -281,16 +282,15 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 [^ref-21]: [GameFAQs – User Review](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/reviews/26053) – gameplay mechanics, rating
 [^ref-22]: [MobyGames – Trivia](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/trivia/) – awards, German bug, Gobliiins 4 reference
 [^ref-23]: [Electronic Entertainment – Donald St. John review, August 1995 (Wayback copy of pcgamesmag.com)](https://web.archive.org/web/19961018112511/http://www.pcgamesmag.com/games/Aug95/wood895.html) – review summary and quotes; magazine/issue attribution per Wikipedia
-[^ref-24]: [The Collection Chamber – Woodruff](https://collectionchamber.blogspot.com/2015/09/woodruff-and-the-schnibble.html) – modern playthrough, trivia, ScummVM compatibility
+[^ref-24]: [The Collection Chamber – Woodruff](https://collectionchamber.blogspot.com/2015/09/woodruff-and-the-schnibble.html) – modern playthrough, trivia, custom ScummVM installer ("Tested on Windows 10")
 [^ref-25]: [IMDB – Woodruff and the Schnibble](https://www.imdb.com/title/tt0831844/) – voice cast, rating
 [^ref-26]: [Glitchwave – Woodruff](https://glitchwave.com/game/woodruff-and-the-schnibble-of-azimuth/) – user rating
 [^ref-27]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – founding by Roland Oskian (1984), Tramis/Gilhodes Gobliiins, Sierra acquisition 1992 (finalised 29 October 1993), Urban Runner and shift to educational titles
-[^ref-29]: [Histoire du Jeu Vidéo – Woodruff Retrospective](https://www.histoiredujeuvideo.fr/woodruff-schnibble-azimuth-voyage-au-coeur-dun-chef-doeuvre-de-lhistoire-du-jeu-video/) – legacy analysis
 [^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/WoodruffandtheSchnibbleHelp.html) – technical requirements, ScummVM support
 [^ref-31]: [TV Tropes – Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/TheBizarreAdventuresOfWoodruffAndTheSchnibble) – cut content reference
 [^ref-32]: [Internet Archive – Woodruff Update](https://archive.org/details/swizzle_demu_WOOD) – April 1995 patch information
 [^ref-33]: [PriceCharting – Woodruff](https://www.pricecharting.com/game/pc-games/woodruff-and-the-schnibble) – market pricing data
-[^ref-35]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/faqs/2170) – walkthrough attribution
+[^ref-35]: [GameFAQs – Walkthrough (Sierra's text, revised by Luca Smeriglio, May 1995)](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/faqs/2170) – walkthrough attribution
 [^ref-36]: [MobyGames – Releases](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/releases/) – 1995 US/UK/Germany releases, 1996 Sierra Originals, 1998 Editions Atlas, 2001 Polish Komputer Świat GRY release
 [^ref-37]: [MobyGames – Credits](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/credits/) – project leader, writing, scenario, art, programming (M.D.O.), music and sound credits
 [^ref-38]: [Computer Game Review – Tasos' Review (Wayback, 1996)](https://web.archive.org/web/1996/http://www.nuke.com/compent/reviews/jularc/woodsnib/tkrev.htm) – overall 85, non-linear structure
