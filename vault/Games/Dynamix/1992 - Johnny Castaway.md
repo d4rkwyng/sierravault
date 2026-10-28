@@ -12,22 +12,22 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Johnny Castaway is a 1992 Windows screensaver from Dynamix and Sierra that depicts a man stranded on a tiny desert island, marketed as the world''s first story-telling screen saver.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-4][^ref-25][^ref-30] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, passing the time with an endless variety of activities and repeatedly coming close to rescue.[^ref-1][^ref-4]
+**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-4][^ref-25][^ref-30][^ref-40] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, passing the time with an endless variety of activities and repeatedly coming close to rescue.[^ref-1][^ref-4]
 
 Unlike the screensavers that came before it, such as the flying toasters of the *After Dark* series, Johnny Castaway tells a story.[^ref-1] *PC Magazine*'s March 1993 review estimated that it takes "about 120 days" to complete the tale,[^ref-4] although fans who later examined the program files found that the special story scenes run on a cycle of about ten to eleven days.[^ref-31] Johnny spends most of his time fishing, reading, running and drinking from coconuts, interspersed with rarer comic events and the overarching escape story.[^ref-1][^ref-31]
 
-Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes close to being rescued, but remains on the island as a result of various unfortunate accidents.[^ref-4] The screensaver reads the computer's clock, showing day and night and celebrating major U.S. holidays.[^ref-1][^ref-3]
+Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes close to being rescued, but remains on the island as a result of various unfortunate accidents.[^ref-4][^ref-40] The screensaver reads the computer's clock, showing day and night and celebrating major U.S. holidays.[^ref-1][^ref-3]
 
 The product was distributed on a 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-4][^ref-25] A letter in a bottle that accompanied the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me — kill some time to save an old salt!"*[^ref-1]
 
@@ -99,7 +99,7 @@ Johnny thinks about getting off the island and going home, but usually fails; on
 
 ### Origins
 
-Johnny Castaway got the green light in January 1992, one of the first three products of Jeff Tunnell Productions (JTP), the spin-off group [[Jeff Tunnell]] formed within [[Dynamix]] alongside *[[1992 - The Incredible Machine]]* and *Turbo Science*.[^ref-3][^ref-25] The idea had percolated for years. Tunnell recalled its genesis during an after-work brainstorming session:
+Johnny Castaway got the green light in January 1992, one of the first three products of Jeff Tunnell Productions (JTP), the spin-off group [[Jeff Tunnell]] formed within [[Dynamix]] alongside *[[1992 - The Incredible Machine]]* and a third title that Tunnell calls *Turbo Science*;[^ref-3] the Dynamix Wiki names that third project *Turbo Learning: Mega Math*.[^ref-25] The idea had percolated for years. Tunnell recalled its genesis during an after-work brainstorming session:
 
 > "A bunch of us were drinking beers after work and I said I thought I could make a game out of anything... Somebody else in the group said, 'Along those lines, how about a little guy stranded on an island?' Well, I carried that idea around for a bunch of years, and wrote down notes about what it could be. Then, the flying toasters screen saver came along, and I just knew it had to be a screen saver."[^ref-3]
 
@@ -135,13 +135,13 @@ The screensaver shipped in November 1992,[^ref-3][^ref-25] and its latest releas
 
 ### Screen Antics Brand
 
-Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line. However, the brand began and ended with Johnny. Though the ROI was very high, the budget was so low that another one was not worth doing. Sierra also later acquired the company behind *After Dark*, which took over the screensaver category within the company.[^ref-3]
+Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line, and *Computer Gaming World* called it "a great launch (and subsequent shipwreck) for Dynamix' Screen Antics series."[^ref-3][^ref-40] No second Screen Antics title followed. Tunnell said that although the ROI was very high, the budget was so low that another one was not worth doing, and that Sierra later acquired the company behind *After Dark*, which took over the screensaver category within the company.[^ref-3] The Dynamix Wiki describes Screen Antics as a brand "that never took off".[^ref-25]
 
 ## Reception
 
 ### Contemporary Reviews
 
-*Computer Gaming World* called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-4][^ref-25]
+In *Computer Gaming World*'s January 1993 review, Alan Emrich and Johnny L. Wilson called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-40]
 
 *COMPUTE!* was more mixed in its October 1993 roundup of three screen savers. Reviewer Charles Idol found the graphics and animation "quite well done," but wrote that the cartoon is "mildly amusing for a while— children might enjoy it—but it gets pretty boring rather quickly." He also questioned the screen-saving feature, since much of the screen stays unchanged for long periods. The list price was $34.95.[^ref-33]
 
@@ -151,7 +151,7 @@ In an interview, [[Ken Williams]] named Johnny Castaway among a string of cheap-
 
 **Aggregate Scores:**
 - **Screensavers Planet (users):** 4.5 stars from 444 votes (as of October 2026)[^ref-1]
-- **Computer Gaming World:** Positive recommendation — "great launch" for Screen Antics line (no numeric score in original review)[^ref-4]
+- **Computer Gaming World:** Positive recommendation — "great launch" for Screen Antics line (no numeric score in original review)[^ref-40]
 - **COMPUTE!:** Mixed — "mildly amusing" but "pretty boring rather quickly" (no numeric score)[^ref-33]
 
 ## Legacy
@@ -167,7 +167,7 @@ As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on mode
 Several more open-source recreations appeared from late 2025 through 2026, many of them building on jc_reborn:
 
 - **[Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public)** (repository created December 2025) — a Go/Raylib port of jc_reborn for desktop[^ref-36]
-- **[johnny-castaway-mac](https://github.com/d4rkwyng/johnny-castaway-mac)** (June 2026) — native Swift recreation for modern macOS rebuilding the real-time story arcs, gags, and holiday events
+- **[johnny-castaway-mac](https://github.com/d4rkwyng/johnny-castaway-mac)** (repository created June 2026) — a native Swift recreation for macOS Sonoma and later, ported from jc_reborn, with the 11-day story arc and holiday previews, packaged as a screensaver bundle and a standalone app (bring-your-own data files)[^ref-41]
 - **[Johnny Reborn HD](https://github.com/bigfnj/johnny-castaway-rebornHD)** (repository created June 2026; v1.0.0 released September 2026) — a C engine refactored from jc_reborn to platform-native APIs, targeting Windows, macOS (Cocoa), Linux (X11), and the browser via Emscripten[^ref-37]
 - **[Wilson Reborn](https://github.com/antigerme/wilson-reborn)** (v0.3.2, June 2026) — a Rust clone for Windows/Linux/macOS/browser aiming at full parity with every gag, easter egg, and holiday of the original, at modern resolutions (bring-your-own data files)[^ref-38]
 - **[Johnny Castaway PS1](https://github.com/huntergdavis/johnny-castaway-ps1)** (v1.0.0, July 5, 2026) — a PlayStation 1 port by Hunter Davis with all 63 scenes validated pixel-perfect against the original Sierra engine, using a hybrid pipeline where a desktop host captures scenes from the real engine into packs the PS1 replays natively[^ref-39]
@@ -184,7 +184,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-28*
 
 ## See Also
 
@@ -214,3 +214,5 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-37]: [Johnny Reborn HD – GitHub (bigfnj)](https://github.com/bigfnj/johnny-castaway-rebornHD) – Cross-platform C engine (Win32/Cocoa/X11/Web); repository created June 2026, v1.0.0 released September 2026
 [^ref-38]: [Wilson Reborn – GitHub (antigerme)](https://github.com/antigerme/wilson-reborn) – Rust clone aiming at full parity with the original; v0.3.2 released June 2026
 [^ref-39]: [Johnny Castaway PS1 – GitHub (huntergdavis)](https://github.com/huntergdavis/johnny-castaway-ps1) – PlayStation 1 port with all 63 scenes validated; v1.0.0 released July 5, 2026
+[^ref-40]: [Computer Gaming World Issue 102 (January 1993) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_102) – Scan of "Islands In A Screen: The Misadventures of Johnny Castaway" by Alan Emrich and Johnny L. Wilson, page 16: "great launch… for Dynamix' Screen Antics series", *Gilligan's Island*, missed rescues
+[^ref-41]: [johnny-castaway-mac – GitHub (d4rkwyng)](https://github.com/d4rkwyng/johnny-castaway-mac) – Project README: native Swift recreation for macOS Sonoma and later, ported from jc_reborn, 11-day story arc, .saver bundle and app; repository created June 9, 2026
