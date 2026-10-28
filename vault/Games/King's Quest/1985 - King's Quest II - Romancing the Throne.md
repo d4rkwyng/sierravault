@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
   the King''s Quest series, released in 1985 (May per Wikipedia, June per MobyGames) for IBM PC and PCjr. Designed by
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ King's Quest II: Romancing the Throne is the second installment in the King's Qu
 
 One year after recovering the three stolen treasures and becoming King of Daventry, Graham is urged by the vision of his predecessor, King Edward, to marry and provide an heir[^ref-2][^ref-40]. Looking into the magic mirror, he sees Valanice, a maiden from the kingdom of Kolyma, whom the jealous crone Hagatha has whisked away to an enchanted land and imprisoned in a quartz tower[^ref-40]. The mirror sends Graham to Kolyma, where he must find the three golden keys that unlock the three doors to the enchanted land where Valanice is held[^ref-22][^ref-40].
 
-The land of Kolyma draws from folklore, mythology, and classic literature[^ref-4]. Graham encounters King Neptune in an underwater kingdom, Little Red Riding Hood and her grandmother, and Count Dracula in a haunted castle[^ref-1][^ref-4]. A genie's lamp grants three predetermined wishes: a bridle, a sword, and a magic carpet[^ref-4]. After overcoming these challenges, Graham rescues Valanice and they marry[^ref-2].
+The land of Kolyma draws from folklore, mythology, and classic literature[^ref-4]. Graham encounters King Neptune in an underwater kingdom, Little Red Riding Hood and her ailing grandmother, and Count Dracula in a haunted castle[^ref-1][^ref-4][^ref-35][^ref-45]. A genie's lamp grants three predetermined wishes: a bridle, a sword, and a magic carpet[^ref-4][^ref-35]. After overcoming these challenges, Graham rescues Valanice and they marry[^ref-2].
 
 ## Gameplay
 
@@ -52,7 +52,7 @@ Players move Graham using keyboard arrow keys and perform actions by typing verb
 
 ### Structure and Progression
 
-The game features goal-sensitive events where the world changes as the story progresses[^ref-10]. The antique shop remains closed until a specific action is performed, and characters appear only when the story is ready[^ref-10]. This evolution from King's Quest I's open-ended treasure hunt established "the more linear, story-driven model still widely used in adventure games today"[^ref-10].
+The game features goal-sensitive events where the world changes as the story progresses[^ref-10]. The antique shop remains closed until a specific action is performed, and characters appear only when the story is ready[^ref-10]. Adventure Gamers saw these triggered events as showing "an evolution from KQI's open-ended treasure hunt to the more linear, story-driven model still widely used in adventure games today"[^ref-10].
 
 ### Puzzles and Mechanics
 
@@ -74,7 +74,7 @@ King's Quest II received enthusiastic reviews upon release. Computer Entertainer
 
 **Contemporary Scores:**
 - **ST Magazine (Atari ST, issue 3):** 4/5 (Intérêt ****; Graphisme ***, Bruitage **)[^ref-47][^ref-39]
-- **Computer + Video Games (Atari ST, Aug 1986):** 6/10[^ref-14]
+- **Computer + Video Games (Atari ST, Aug 1986):** 6/10 (average of four category scores: Vocab 7, Atmosphere 7, Personal 5, Value 5)[^ref-45][^ref-14]
 - **ASM (Atari ST, Jul 1986):** 9.75/10 (average of four category scores)[^ref-42][^ref-39]
 - **Tilt (Atari ST, Jun 1987):** 16/20[^ref-39]
 - **CU Amiga (Amiga, Apr 1994):** 84%[^ref-39]
@@ -117,7 +117,7 @@ The manual, credited "Story by Annette Childs", contains a prologue in which a v
 - **CPU:** 8088 or 8086 compatible[^ref-3][^ref-7]
 - **RAM:** 256KB (DOS version); 128KB (booter version)[^ref-3][^ref-11]
 - **DOS:** Version 2.11 or later[^ref-3]
-- **Graphics:** Hercules, CGA, EGA, VGA, Tandy supported[^ref-3]
+- **Graphics:** Hercules, CGA, EGA, Tandy supported[^ref-3]; Sierra Help also lists VGA[^ref-30]
 - **Resolution:** 320×200 pixels in up to 16 colors (EGA mode)[^ref-3]
 - **Audio:** PC speaker or Tandy 3-voice sound[^ref-3]
 - **Installed Size:** 588 KB[^ref-3]
@@ -128,11 +128,11 @@ The booter version plays music at a slower tempo and louder volume compared to t
 
 - **Opening cutscene:** The minimal story is told mostly through the manual and an introductory cutscene[^ref-2]
 - **Goal-sensitive events:** The game world dynamically changes as players advance—new characters appear, areas open and close based on story progression[^ref-10]
-- **Linear story structure:** Introduced the "more linear, story-driven model still widely used in adventure games today"[^ref-10]
+- **Linear story structure:** Showed an evolution toward "the more linear, story-driven model still widely used in adventure games today"[^ref-10]
 
 ### Music and Audio
 
-Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, several of them arrangements of public-domain works such as Tchaikovsky's love theme (the "Kiss" cue), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
+Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, several of them arrangements of public-domain works such as a Tchaikovsky piece (the "Kiss" cue, which VGMPF links to *Romeo and Juliet*), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
 
 ### Version History
 
@@ -143,7 +143,7 @@ Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, seve
 | 2.1 | April 10, 1987 | DOS | Key disk protection; AGI2 2.411[^ref-3] |
 | 2.2 | May 7, 1987 | DOS | Key disk protection[^ref-3] |
 | 2.2 | December 1, 1987 | DOS | AGIMIDI support added[^ref-3] |
-| Mac | 1987 | Macintosh | Mac port with 4givmeken backdoor[^ref-22] |
+| Mac | June 1987 | Macintosh | Mac port[^ref-1] with 4givmeken backdoor[^ref-22] |
 
 **AGI Interpreter Versions:**[^ref-3]
 
@@ -163,15 +163,15 @@ In February 1987, Computer Entertainer reported that the first two King's Quest 
 
 ### Remakes
 
-**Cancelled Sierra VGA Remake:** Sierra planned to remake King's Quest II in VGA following the 1990 King's Quest I remake. However, due to the disappointing sales of that remake, the plan was scrapped[^ref-19].
+**Unmade Sierra Remake:** Accounts differ on whether Sierra ever planned to remake King's Quest II after its 1990 SCI remake of King's Quest I. Sierra Chest states that in 1990 Sierra planned to redevelop the game, but scrapped the plan because of the "rather disappointing sales" of the King's Quest I remake[^ref-19]. AGD Interactive's history of its own remake says instead that, "due to the commercial failure of Sierra On-Line's official SCI remake of King's Quest I, no plans were ever made to upgrade King's Quest II"[^ref-23]. The King's Quest Omnipedia cites Donald B. Trivette's 1993 *Official Book of King's Quest* (third edition) as saying plans were made to re-do II and III, "but at this writing that has not been done"[^ref-48].
 
-**AGD Interactive VGA Remake (2002):** AGD Interactive (formerly Tierra Entertainment) released "King's Quest II: Romancing the Stones," an unofficial VGA remake that AGDI reported had been downloaded over 451,400 times[^ref-23]. Features include point-and-click interface, full voice acting with Josh Mandel reprising King Graham, Adventure Game Studio engine, substantially rewritten plot with new characters, and the infamous bridge no longer collapsing[^ref-2][^ref-4][^ref-23]. Hardcore Gaming 101 declared the remake "far exceeds any of the work Sierra themselves put into any of their VGA remakes"[^ref-4].
+**AGD Interactive VGA Remake (2002):** AGD Interactive (formerly Tierra Entertainment) released "King's Quest II: Romancing the Stones," an unofficial VGA remake that AGDI reported had been downloaded over 451,400 times[^ref-23]. Features include a point-and-click interface, full voice acting with Josh Mandel reprising King Graham[^ref-2][^ref-49], the Adventure Game Studio engine[^ref-50], a substantially rewritten plot with new characters, and the infamous bridge no longer collapsing[^ref-2][^ref-4][^ref-23]. Hardcore Gaming 101 declared the remake "far exceeds any of the work Sierra themselves put into any of their VGA remakes"[^ref-4].
 
-**2015 Reboot:** The third chapter of the 2015 King's Quest reboot, titled "Once Upon a Climb" (April 2016), reimagines the rescue of Valanice[^ref-25][^ref-2].
+**2015 Reboot:** The third chapter of the 2015 King's Quest reboot, titled "Once Upon a Climb" (April 2016), incorporates elements of the original game[^ref-25][^ref-2].
 
 ### The King's Quest Companion
 
-*The King's Quest Companion* by Peter Spear presents King's Quest II through the fictional narrator Derek Karlavaegen, who sends his accounts to our world through a device called the "Eye Between the Worlds"[^ref-12][^ref-37]. Its first two editions included item and point lists in a chapter called "The Final Score"[^ref-37]. Roberta Williams endorsed the book, calling it "an interesting blend of fiction and helpful information" that anyone wanting the story behind King's Quest "will find ... invaluable"[^ref-37].
+*The King's Quest Companion* by Peter Spear retells the games as narrative accounts framed as being sent from Daventry through a device called the "Eye Between the Worlds", chiefly by the scribe Derek Karlavaegen[^ref-12][^ref-37]. Its first two editions included item and point lists in a chapter called "The Final Score"[^ref-37]. Roberta Williams endorsed the book, calling it "an interesting blend of fiction and helpful information" that anyone wanting the story behind King's Quest "will find ... invaluable"[^ref-37].
 
 ### Easter Eggs and Unused Content
 
@@ -235,22 +235,22 @@ This game has been included in[^ref-1]:
 [^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information
 [^ref-2]: [Wikipedia – King's Quest II: Romancing the Throne](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Detailed article with development history and release information
 [^ref-3]: [DOS Days – King's Quest II](https://www.dosdays.co.uk/topics/Games/game_kq2.php) — Technical specifications, AGI interpreter versions, and development credits
-[^ref-4]: [Hardcore Gaming 101 – King's Quest Series](https://www.hardcoregaming101.net/kings-quest/) — Comprehensive series retrospective with detailed analysis of each game
+[^ref-4]: [Hardcore Gaming 101 – King's Quest II (archived January 2025)](https://web.archive.org/web/20250120234213/http://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) — Retrospective of the game and the AGDI remake; Romancing the Stone subtitle, genie's lamp, bridge
 [^ref-5]: [IMDB – Romancing the Stone (1984)](https://www.imdb.com/title/tt0088011/) — Robert Zemeckis film that inspired the game's subtitle
 [^ref-6]: [The Adventure Gamer – Game 3: King's Quest II – Final Rating](https://advgamer.blogspot.com/2011/12/game-3-kings-quest-ii-final-rating.html) — PISSED rating of 53; quotes Computer Gaming World, June 1985
 [^ref-7]: [Eli's Software Encyclopedia – King's Quest II packaging (1987 PC release)](https://elisoftware.org/wiki/King%27s_Quest_II_Romancing_The_Throne_%28PC,_3_1/2%22_Disk%29_Sierra_%28020626752626%29_-_1987_USA,_Canada_Release) — Box text quoting Compute!, Consumer Software News, Computer Entertainment and QuestBusters
 [^ref-10]: [Adventure Gamers – King's Quest II: Romancing the Throne review by Emily Morganti, October 28, 2005 (archived)](https://web.archive.org/web/20240424193214/https://adventuregamers.com/articles/view/17892) — Modern retrospective rating 3/5 "Decent"
 [^ref-11]: [Nerdly Pleasures – Playing King's Quest and King's Quest II Booters](https://nerdlypleasures.blogspot.com/2013/11/playing-kings-quest-and-kings-quest-ii.html) — Booters need 128KB of RAM (DOS conversions 256KB); KQ2 booter music louder and slower in tempo
 [^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Internet Archive record of the book (1993 edition, borrow-only)
-[^ref-14]: [Atarimania – King's Quest II (Atari ST)](https://www.atarimania.com/games/atari-st-games-king-s-quest-ii-romancing-the-throne-9748) — Computer + Video Games review, August 1986, 6/10
-[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.2/10 and trivia including Thriller sample and Batmobile easter egg
+[^ref-14]: Atarimania – King's Quest II (Atari ST) database entry — records the Computer + Video Games review, August 1986, as 6/10 (cited as text only; the page offers a disk-image download)
+[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.2/10 and trivia including the Batmobile easter egg
 [^ref-17]: [Choicest Games – King's Quest II Review](https://www.choicestgames.com/2016/06/kings-quest-ii-review.html) — Modern retrospective rating 4/10
 [^ref-18]: [Sierra Gamers – King's Quest 2 History](https://www.sierragamers.com/kings-quest-2/) — Williams discussing ideas carried over from King's Quest I
-[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Game history including the cancelled 1990 VGA remake, walkthroughs, and maps
+[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Game history including the planned 1990 remake scrapped after the KQ1 remake's sales, walkthroughs, and maps ([archived June 2024](http://web.archive.org/web/20240615035330/https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2))
 [^ref-20]: [Video Game Music Preservation Foundation – King's Quest II](https://www.vgmpf.com/Wiki/index.php/King%27s_Quest_II:_Romancing_the_Throne_%28DOS%29) — Soundtrack track list, public-domain sources, unlicensed Thriller and Batman arrangements
 [^ref-21]: [IGN – King's Quest II Walkthrough](https://www.ign.com/articles/2003/11/14/kings-quest-ii-romancing-the-throne-walkthrough-371055) — Easter eggs including Batmobile appearance
 [^ref-22]: [The Cutting Room Floor – King's Quest II](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) — Unused content, debug commands, and Mac "4givmeken" backdoor
-[^ref-23]: [AGD Interactive – King's Quest II: About](https://www.agdinteractive.com/games/kq2/about/about.html) — Free VGA remake; AGDI-reported 451,400+ downloads
+[^ref-23]: [AGD Interactive – King's Quest II: About](https://www.agdinteractive.com/games/kq2/about/about.html) — Free VGA remake; AGDI-reported 451,400+ downloads; "no plans were ever made to upgrade King's Quest II"
 [^ref-25]: [CGM – King's Quest Chapter 3 Releases April 26](https://www.cgmagonline.com/news/kings-quest-chapter-3-releases-april-26) — "Once Upon a Climb" release date
 [^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — Digital release with 4.1/5 rating (42 reviews)
 [^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 87% Very Positive rating (331 reviews)
@@ -267,6 +267,9 @@ This game has been included in[^ref-1]:
 [^ref-42]: [Aktueller Software Markt, July 1986 – Internet Archive](https://archive.org/details/asm_magazine-1986-07) — Atari ST review by Stefan Swiergiel (S.S.), p. 89: Grafik 10, Vokabular 10, Story 9, Atmosphäre 10
 [^ref-43]: [Computer Entertainer Vol. 4 No. 9 (December 1985) – Internet Archive](https://archive.org/details/computer-entertainer-4-9) — Review: "all the magic of a favorite fairy tale ... it's not to be missed"
 [^ref-44]: [Antic Vol. 5 No. 1 (May 1986) – Internet Archive](https://archive.org/details/1986-05-anticmagazine) — Review by Brad Kershaw
-[^ref-45]: [Computer and Video Games Issue 58 (August 1986) – Internet Archive](https://archive.org/details/ComputerAndVideoGamesIssue058Aug86) — Atari ST review by Keith Campbell: "a totally new approach to computer adventuring ... Well, almost"
+[^ref-45]: [Computer and Video Games Issue 58 (August 1986) – Internet Archive](https://archive.org/details/ComputerAndVideoGamesIssue058Aug86) — Atari ST review by Keith Campbell, p. 74: "a totally new approach to computer adventuring ... Well, almost"; Vocab 7, Atmosphere 7, Personal 5, Value 5; "Grandma's house"
 [^ref-46]: [Computer Entertainer Vol. 5 No. 11 (February 1987) – Internet Archive](https://archive.org/details/computer-entertainer-5-11) — "Adventures and More from Sierra": SPA gold medals, "certified sales of over 100,000 units each"
-[^ref-47]: [ST Magazine No. 3, pp. 44–45 (scan via Abandonware Magazines)](https://download.abandonware.org/magazines/ST%20Magazine/stmagazine_numero003/st%20magazine%20-%20N003%20-%20decembre%201985%20-%20page052%20et%20053.jpg) — "King Quest II" review: Intérêt ****, Graphisme ***, Bruitage **
+[^ref-47]: [ST Magazine No. 3, p. 44 (scan via Abandonware Magazines)](https://download.abandonware.org/magazines/ST%20Magazine/stmagazine_numero003/st%20magazine%20-%20N003%20-%20decembre%201985%20-%20page052%20et%20053.jpg) — "King Quest II" review: Intérêt ****, Graphisme ***, Bruitage **
+[^ref-48]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) — Cancelled remake; quotes Trivette, Official Book of King's Quest (3rd ed., 1993), p. 9: "but at this writing that has not been done"
+[^ref-49]: [AGD Interactive – King's Quest II: About the Developers](https://www.agdinteractive.com/games/kq2/about/aboutdev.html) — "Josh Mandel once again lending his voice to the role of King Graham"
+[^ref-50]: [Wikipedia – King's Quest II: Romancing the Stones](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Stones) — AGDI remake; engine: Adventure Game Studio
