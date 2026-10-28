@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS,
   in which janitor Roger Wilco must stop the Sariens from using the stolen Star Generator.'
@@ -18,14 +18,14 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].
 
 Designed by [[Mark Crowe]] and [[Scott Murphy]]—who became known as "The Two Guys from Andromeda"—the game casts players as Roger Wilco, a lowly janitor aboard a research spaceship who must stop an alien race from using a stolen superweapon for evil purposes[^ref-3][^ref-5].
 
-Space Quest was an instant hit, selling in excess of 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4][^ref-5].
+Space Quest was a big hit, selling in excess of 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4][^ref-5].
 
 The game's combination of science fiction setting, sardonic humor, and frequent humorous death scenes established a distinct identity that set it apart from Sierra's fantasy-themed adventures[^ref-6].
 
@@ -54,7 +54,7 @@ Roger boards the Deltaur and secures a Sarien disguise[^ref-1][^ref-5]. He progr
 Space Quest was created using Sierra's AGI engine and featured a pseudo-3D environment, allowing the character to move in front of and behind background objects[^ref-5][^ref-17]. The game uses 16-color graphics at 160×200 resolution[^ref-4][^ref-5].
 
 ### Interface and Controls
-- The primary means of input is through a text parser for entering commands and arrow keys for moving Roger around the screen[^ref-5]
+- The primary means of input is through a text parser for entering commands and the keypad or arrow keys for moving Roger around the screen[^ref-1][^ref-5]
 - The Amiga, Apple IIgs, Atari ST, and Mac versions offer basic mouse support for movement[^ref-1]
 - The original 1986 version lacks pull-down menus; all options must be typed manually or accessed through function keys[^ref-5]
 - The 1987 rerelease added pull-down menus implemented in later AGI games[^ref-5]
@@ -72,7 +72,9 @@ Space Quest was created using Sierra's AGI engine and featured a pseudo-3D envir
 ## Reception
 
 ### Contemporary Reviews
-Space Quest was a significant commercial success upon release, selling in excess of 100,000 copies—believed to be around 200,000 copies total not including compilations[^ref-4][^ref-5]. The game earned the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4]. The original game retailed for $49.99[^ref-4].
+Space Quest was a significant commercial success upon release, selling in excess of 100,000 copies—believed to be around 200,000 copies total not including compilations[^ref-4][^ref-5]. The game earned the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4]. SpaceQuest.net gives the original retail price as $49.99[^ref-4]; Compute!'s August 1988 review listed a suggested price of $49.95 for each of its five listed formats (Apple II, Apple IIGS, Atari ST, Macintosh and IBM PC)[^ref-34].
+
+Computer Gaming World's Scorpia, whose March 1988 "Scorpion's Tale" column walked readers through the game, called it "a middle-of-the-road game. While it's not likely to stump veteran adventurers for long, novice and intermediate players will probably find it challenging enough, as long as they don't mind having arcade sequences in the adventure"[^ref-33]. Reviewing the Apple IIGS version for Compute!, James V. Trunzo wrote that "Apple IIGS users may think they're watching a cartoon, not playing a computer game," and concluded that the game "manages to maintain its equilibrium" between challenge and frustration, making it "one of the better new adventure games to arrive on the software scene"[^ref-34].
 
 ### Modern Assessment
 Adventure Gamers called the game "undeniably flawed, yet undeniably fun" and "perfect for classic adventure lovers and sci-fi fans," praising its humor, charm, and the way dying becomes part of the fun, while noting the game is very short with multiple dead-end opportunities (the review covers both versions but was played mainly on the VGA remake from the 2006 Space Quest Collection)[^ref-19]. Retro Freak Reviews recommended the remake over the original, citing improved humor, art, animation, and music[^ref-27]. Hardcore Gaming 101's retrospective praised the series' off-kilter sense of humor and sardonic death scenes, noting that "at least if you do something wrong, it tends to garner a chuckle"[^ref-6].
@@ -88,7 +90,7 @@ Adventure Gamers called the game "undeniably flawed, yet undeniably fun" and "pe
 ### Origins
 Mark Crowe and Scott Murphy teamed up while working on The Black Cauldron project at Sierra[^ref-3][^ref-11]. During that project, they found they were both "really into science fiction and space" and decided to develop a space adventure[^ref-11][^ref-31]. Crowe had joined Sierra's Art Department around 1983, designing packaging and documentation, before moving into computer graphics; Murphy had come up through Sierra's returns and customer-support desks and, wanting to be more creative, talked Ken Williams into letting him learn programming on The Black Cauldron[^ref-3][^ref-11][^ref-31].
 
-Other adventure games at Sierra featured noble heroes, but Crowe and Murphy wanted something different: "What if this guy was just your average Joe, forced into the hero role? He gets lucky sometimes, and does the right thing, but he's nobody special"[^ref-11]. The premise may have been inspired by Infocom's Planetfall, whose player-character is also a lowly crew member performing menial labor aboard a spaceship[^ref-6].
+Other adventure games at Sierra featured noble heroes, but Crowe and Murphy wanted something different: "What if this guy was just your average Joe, forced into the hero role? He gets lucky sometimes, and does the right thing, but he's nobody special"[^ref-11]. The premise may have been inspired by Infocom's Planetfall, whose player-character is also a lowly crew member performing menial labor aboard a spaceship[^ref-6]. The Digital Antiquarian notes, however, that "Crowe and Murphy have always maintained that they weren't even aware of Steve Meretzky's game at the time that they wrote Space Quest"[^ref-35].
 
 Crowe created four rooms of graphics and Murphy wrote the code to run them, essentially the first four rooms of Space Quest, and they showed the demo to Ken Williams, who said, "That looks like fun"[^ref-11]. Crowe recalled that the pair worked as "kind of a covert op" until they had visuals to show Ken[^ref-21]. The game was originally developed under the working title "Star Quest," but the name was already in use by another company and was changed before release[^ref-4].
 
@@ -128,7 +130,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 - Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30]; the Sierra Fandom wiki's credits instead list Al Lowe for music[^ref-5]
 - One early box printing ("that second box," per Scott Murphy) had the film put in backwards, mirroring the Sierra half-dome in the background. Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 - Mark Crowe said the "Two Guys" name was borrowed from "Two Guys from Italy," which he called an east coast pizza chain (Murphy remembered it as a local Italian restaurant chain)[^ref-30][^ref-22]
-- Talk to one of the Sarien guards on the Deltaur and he will eventually ask if you've played King's Quest II. Talking to the guard earns 1 point and answering "yes" earns 5 more. Murphy said the King's Quest II reference was "all Ken Williams' doing"[^ref-7][^ref-23]
+- Talk to one of the Sarien guards on the Deltaur and he will eventually ask if you've played King's Quest II. Talking to the guard earns 1 point and answering "yes" earns 5 more. Murphy, in the Space Quest FAQ: "Kissing the Sarien was all Ken Williams' doing, as was the KQ2 reference(s)."[^ref-7][^ref-23]
 - Typing "holy shit" while playing the slot machine in version 2.2 makes beating it trivially easy[^ref-30][^ref-32]. It brings up a menu that configures the next pull; its text exists in earlier versions, suggesting a debugging tool added back in due to player complaints[^ref-18]
 - Kicking a dead crew member on the Arcada costs you one point—though "who would do such a thing?"[^ref-30]
 - The code to disable the Star Generator (6858) matches the last four digits of Sierra's phone number from 1988: (209) 683-6858[^ref-30]
@@ -144,7 +146,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 |--------------|---------|
 | Engine | AGI (Adventure Game Interpreter) v2[^ref-1] |
 | Resolution | 160×200 (displayed at 320×200)[^ref-4][^ref-17] |
-| Colors | 16 (EGA palette)[^ref-4] |
+| Colors | 16[^ref-4] |
 | Interface | Text parser with keyboard movement[^ref-5] |
 | Sound | PC Speaker; Tandy/PCjr 3-voice; Apple IIgs 15-voice[^ref-1][^ref-28] |
 | RAM Required | 256KB[^ref-15] |
@@ -163,7 +165,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 
 ### Modern Compatibility
 - **ScummVM**: Supported since v0.10.0 (recommended)[^ref-17]
-- **DOSBox**: Compatible with authentic experience
+- **DOSBox**: the Steam Space Quest Collection runs pre-configured in DOSBox, and GOG offers a DOSBox version through GOG Galaxy alongside its default ScummVM setup[^ref-15]
 
 ## Legacy
 
@@ -215,17 +217,17 @@ This game has been included in the following collections:
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)
-[^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) – Sierra history, collections, platforms
+[^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) ([archived December 5, 2024](http://web.archive.org/web/20241205160041/https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general)) – Sierra history, collections, platforms
 [^ref-3]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography, development history
 [^ref-4]: [SpaceQuest.net – Space Quest 1 Game Information](https://spacequest.net/sq1/gameinfo.php) – sales figures, original packaging, release details
 [^ref-5]: [Sierra Fandom Wiki – Space Quest: The Sarien Encounter (AGI)](https://sierra.fandom.com/wiki/Space_Quest%3A_The_Sarien_Encounter_%28AGI%29) – plot, technical details, versions
-[^ref-6]: [Hardcore Gaming 101 – Space Quest](https://www.hardcoregaming101.net/space-quest-i/) – retrospective analysis
+[^ref-6]: [Hardcore Gaming 101 – Space Quest](https://www.hardcoregaming101.net/space-quest-i/) ([archived November 25, 2024](http://web.archive.org/web/20241125153450/http://www.hardcoregaming101.net/space-quest-i/)) – retrospective analysis
 [^ref-7]: [WiW – Space Quest Point List](https://wiw.org/~jess/sq1pts.html) – complete point list
 [^ref-8]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-10]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times (entry titled "Space Quest I: Roger Wilco in The Sarien Encounter", the VGA remake)
 [^ref-11]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history, design philosophy
-[^ref-14]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Oct 1986; 69% critics; DOS/Amiga 1986, Atari ST/Mac/Apple II 1987; Sierra On-Line developer/publisher
+[^ref-14]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Oct 1986; 69% critics; DOS Oct 1986, Amiga/Atari ST Dec 1986, Mac/Apple II/IIgs 1987; Sierra On-Line developer/publisher
 [^ref-15]: [PCGamingWiki – Space Quest: The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest%3A_The_Sarien_Encounter) – technical specs, fixes, copy protection (AGI uses CPC Copy Protection DRM, floppy disk check, manual lookup)
 [^ref-16]: [Sierra Help – Space Quest 1 AGI](https://sierrahelp.com/Games/SpaceQuest/SQ1AGIHelp.html) – patches, technical help
 [^ref-17]: [ScummVM Wiki – Space Quest (archived August 9, 2024)](https://web.archive.org/web/20240809115745/https://wiki.scummvm.org/index.php?title=Space_Quest) – platforms include MS-DOS, Tandy 1000, PCjr, Apple II, Apple IIgs, Amiga, Atari ST, Mac; AGI support since ScummVM 0.10.0; Amiga used extended palette
@@ -241,3 +243,6 @@ This game has been included in the following collections:
 [^ref-30]: [SpaceQuest.net – Space Quest 1 Fun Facts](https://spacequest.net/sq1/funfacts/) – Two Guys name origin, theme song, Star Generator code, ZZ Top and Blues Brothers songs, point bugs
 [^ref-31]: [The Sierra Newsletter, Spring 1989 – "The Men Who Designed Space Quest 3" (Virtual Broomcloset transcription)](http://wiw.org/~jess/2guys_sq3.html) – Crowe and Murphy career backgrounds at Sierra
 [^ref-32]: [SpaceQuest.net – Space Quest 1 Cheats](https://spacequest.net/sq1/cheats/) – slot machine "holy shit" cheat (version 2.2 only)
+[^ref-33]: [Computer Gaming World #45, March 1988 – Scorpia, "Scorpion's Tale: Space Quest" (pp. 9, 49, 51)](https://www.cgwmuseum.org/galleries/issues/cgw_45.pdf) – period walkthrough column with verdict: "a middle-of-the-road game"
+[^ref-34]: [Compute! #99, August 1988 – James V. Trunzo, "Space Quest—The Sarien Encounter" review (pp. 70–71)](https://archive.org/stream/1988-08-compute-magazine/Compute_Issue_099_1988_Aug#page/n71/mode/2up) – Apple IIGS review; $49.95 suggested price for Apple II, IIGS, Atari ST, Macintosh and IBM PC
+[^ref-35]: [The Digital Antiquarian – "The 14 Deadly Sins of Graphic-Adventure Design (or, Why Ron Gilbert Hated Adventure Games)" (Jimmy Maher, July 2015)](https://www.filfre.net/2015/07/the-14-deadly-sins-of-graphic-adventure-design/) – Crowe and Murphy say they were unaware of Planetfall
