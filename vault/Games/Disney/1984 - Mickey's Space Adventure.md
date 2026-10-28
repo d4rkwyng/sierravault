@@ -6,7 +6,7 @@ designer: [Roberta Williams]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [Apple II, C64, DOS, TRS-80 Color Computer]
-series: Disney Educational Series
+series: Disney
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
@@ -15,7 +15,7 @@ composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
   by Sierra On-Line in collaboration with Walt Disney Computer Software, released
   in December 1984.
-tags: [1980s, al-lowe, disney-educational-series, educational, roberta-williams,
+tags: [1980s, al-lowe, disney, educational, roberta-williams,
   sierra]
 ---
 # Mickey's Space Adventure
@@ -38,7 +38,7 @@ Mickey's Space Adventure exemplified Sierra's approach to children's educational
 > **Engine:** Pre-AGI[^ref-10]
 > **Platforms:** Apple II, Commodore 64, MS-DOS, TRS-80 Color Computer[^ref-9]
 > **Release Year:** 1984
-> **Series:** Disney Educational Series
+> **Series:** Disney
 > **Protagonist:** Mickey Mouse
 > **Sierra Lineage:** Core Sierra
 
