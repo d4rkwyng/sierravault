@@ -13,7 +13,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Player (child)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: '**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning
   Reading**) is an educational software title developed by Bright Star Technology
   and...'
@@ -21,7 +21,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -84,13 +84,11 @@ Parents had the ability to customize the game's environment to best suit the nee
 
 ### Contemporary Reviews
 
-L. R. Shannon reviewed the game for *The New York Times* on October 5, 1993, as the sequel to Bright Star's "successful *Alphabet Blocks*". He found the screens "colorful and well drawn" and said the sounds from Bananas and Jack "are startlingly real if the equipment is good enough", with lip-sync technology that "makes the characters look as if they are actually saying the words"[^ref-28]. In his trial rhyming lesson, a wrong guess drew the word spoken back to him, "letting me know I was wrong without actually saying so", while the right answer brought "a cheerful 'That's right.'"[^ref-28]. MobyGames records one critic rating, averaging 25%[^ref-29].
+L. R. Shannon reviewed the game for *The New York Times* on October 5, 1993, as the sequel to Bright Star's "successful *Alphabet Blocks*". He found the screens "colorful and well drawn" and said the sounds from Bananas and Jack "are startlingly real if the equipment is good enough", with lip-sync technology that "makes the characters look as if they are actually saying the words"[^ref-28]. In his trial rhyming lesson, a wrong guess drew the word spoken back to him, "letting me know I was wrong without actually saying so", while the right answer brought "a cheerful 'That's right.'"[^ref-28]. MobyGames records one scored critic rating, 25% from *The Computer Museum Guide to the Best Software for Kids*, plus an unscored *Computer Gaming World* entry[^ref-29].
 
 ### Modern Assessment
 
-Modern preservation and retro gaming communities have shown continued interest in Sierra's educational catalog, with users requesting digital re-releases of titles like *Ready, Set, Read* on platforms such as GOG.com[^ref-6]. The game has been collected by 3 players according to MobyGames tracking[^ref-1].
-
-GameFAQs lists a single user rating of "Unplayable"[^ref-4].
+Modern preservation and retro gaming communities have shown continued interest in Sierra's educational catalog, with users requesting digital re-releases of titles like *Ready, Set, Read* on platforms such as GOG.com[^ref-6]. GameFAQs lists a single user rating of "Unplayable"[^ref-4].
 
 **Aggregate Scores:**
 - **MobyGames:** Critics 25% (1 rating); no Moby Score or player reviews[^ref-1][^ref-29]
@@ -101,13 +99,13 @@ GameFAQs lists a single user rating of "Unplayable"[^ref-4].
 
 ### Origins
 
-*Ready, Set, Read with Bananas & Jack* was developed by Bright Star Technology of Bellevue, Washington, a company that specialized in educational software[^ref-1][^ref-2][^ref-28]. The title was conceived as a sequel to *Alphabet Blocks*, designed to provide the next step in reading education for children who had mastered basic letter recognition[^ref-1].
+*Ready, Set, Read with Bananas & Jack* was developed by Bright Star Technology of Bellevue, Washington[^ref-28], a company that specialized in educational software[^ref-1][^ref-2]. The title was conceived as a sequel to *Alphabet Blocks*, designed to provide the next step in reading education for children who had mastered basic letter recognition[^ref-1].
 
 Sierra On-Line published the title as part of their Sierra Discovery Series, which represented the company's expansion into the educational software market[^ref-2][^ref-3]. This initiative aligned with the broader industry trend of the early 1990s, when personal computers were increasingly marketed to families as educational tools for children.
 
 ### Production
 
-The development team at Bright Star Technology created the Bananas and Jack characters to serve as engaging virtual tutors[^ref-1][^ref-4]. The design emphasized positive reinforcement: there is no negative reinforcement for wrong answers, and missed questions come back later[^ref-1][^ref-28].
+The development team at Bright Star Technology created the Bananas and Jack characters to serve as engaging virtual tutors[^ref-1]. The design emphasized positive reinforcement: there is no negative reinforcement for wrong answers, and missed questions come back later[^ref-1][^ref-28].
 
 **Development Credits (Windows 16-bit version):**[^ref-22]
 - **Producer:** Lynn Luukinen
@@ -150,7 +148,7 @@ The game was also rebranded and sold as *Beginning Reading* in some markets[^ref
 
 As 16-bit Windows software, *Ready, Set, Read* does not run natively on modern 64-bit Windows operating systems[^ref-7]. Users seeking to play the software must use Windows 3.x emulation through DOSBox or similar virtualization solutions[^ref-2][^ref-3][^ref-7].
 
-The Sierra Help Pages note that many of Sierra's educational demos from this era are "digital antiques" that require special configuration to run on modern systems[^ref-7].
+The Sierra Help Pages note that many of Sierra's demos from this era are "digital antiques" that require special configuration to run on modern systems[^ref-7].
 
 ### Easter Eggs and Trivia
 
@@ -215,14 +213,14 @@ The game's reliance on Windows 3.x makes it hard to run today, as 16-bit softwar
 ## References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – gameplay description, developer, publisher, platforms, genre, perspective, interface, credits count, series information, educational mechanics
-[^ref-2]: [The Sierra Chest – Ready, Set, Read with Bananas and Jack](https://sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos) – first release date (1992-01-01), developer, publisher, series affiliations, platform, demo information
+[^ref-2]: [The Sierra Chest – Ready, Set, Read with Bananas and Jack](https://sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos) – first release date (1992-01-01), developer, publisher, series affiliations, platform, demo information (interactive demo, ID 682: "you can access all puzzle rooms but only solve a limited number of puzzles")
 [^ref-3]: [The Sierra Chest – Ready, Set, Read Demo Page](https://www.sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos&pid=713) – developer, publisher, series groups, genres, platforms
 [^ref-4]: [GameFAQs – Ready, Set, Read with Bananas & Jack](https://gamefaqs.gamespot.com/pc/348854-ready-set-read-with-bananas-and-jack) – 1993 release date, developer (Bright Star Technology), publisher (Sierra On-Line), genre classification, user rating
 [^ref-6]: [GOG.com Dreamlist – Ready, Set, Read with Bananas & Jack (1993)](https://www.gog.com/dreamlist/game/ready-set-read-with-bananas-jack-1993) – 1993 release date, community request for a digital release
 [^ref-7]: [Sierra Help Pages – Sierra Game Demos](https://sierrahelp.com/Misc/Demos.html) – compatibility information for 16-bit Windows software, DOSBox requirements, modern system limitations
 [^ref-8]: [Sierra Wiki – Bright Star Technology](https://wiki.sierrahelp.com/index.php/Bright_Star_Technology) – company history, founding by Elon Gasper, acquisition by Sierra in 1992
 [^ref-9]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – company background and educational software catalog
-[^ref-11]: [Funding Universe – Sierra On-Line History](http://www.fundinguniverse.com/company-histories/Sierra-OnLine-Inc-Company-History.html) – Sierra's acquisition of educational software companies
+[^ref-11]: [Funding Universe – Sierra On-Line History](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) – Sierra's acquisition of educational software companies
 [^ref-13]: [Sierra Wiki – Sierra Discovery Series](https://wiki.sierrahelp.com/index.php/Sierra_Discovery_Series) – series overview and catalog
 [^ref-14]: [MobyGames – Bright Star Technology, Inc.](https://www.mobygames.com/company/809/) – game catalog (Ready, Set, Read 1993 on Windows 16-bit and Macintosh); acquired by Sierra On-Line July 1992
 [^ref-22]: [MobyGames – Ready, Set, Read with Bananas & Jack credits](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/credits/) – Windows 16-bit credits: producer, designer, engineers, artist, audio, composer, dedication, related-game collaborations
@@ -232,4 +230,4 @@ The game's reliance on Windows 3.x makes it hard to run today, as 16-bit softwar
 [^ref-26]: [Sierra Wiki – Ready, Set, Read with Bananas & Jack](https://wiki.sierrahelp.com/index.php/Ready,_Set,_Read_with_Bananas_%26_Jack) – release date 1993, designer Mark Swardstrom, Windows 3.x
 [^ref-27]: [MobyGames – Ready, Set, Read with Bananas & Jack promos](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/promo/) – ad blurb from Sierra's Sneak Peeks (1993), self-running display screen
 [^ref-28]: [The New York Times – "Peripherals; Ways to Make Learning Feel More Like a Game" (L. R. Shannon, October 5, 1993)](https://www.nytimes.com/1993/10/05/science/peripherals-ways-to-make-learning-feel-more-like-a-game.html) – review: sequel to Alphabet Blocks, Bright Star of Bellevue, chimpanzee Bananas, lip-sync, system requirements, ages 4–7, $49.95
-[^ref-29]: [MobyGames – Ready, Set, Read with Bananas & Jack reviews](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/reviews/) – critic average 25% (1 rating); no player reviews
+[^ref-29]: [MobyGames – Ready, Set, Read with Bananas & Jack reviews](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/reviews/) – "Average score: 25% (based on 1 ratings)": The Computer Museum Guide to the Best Software for Kids 25% (Windows 16-bit and Macintosh); Computer Gaming World unscored; no player reviews
