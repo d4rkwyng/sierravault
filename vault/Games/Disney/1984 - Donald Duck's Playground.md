@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Al Lowe]
 description: Donald Duck's Playground is a 1984 educational game designed by Al Lowe and
   published by Sierra On-Line under license from Walt Disney, in which Donald works
@@ -19,7 +19,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ The game is structured around four work mini-games and a playground construction
 - **McDuck Airlines (Airport):** Pick packages off a conveyor belt and throw each one into the tram car marked with the matching three-letter airport code.[^ref-9]
 - **Amquack Railroad:** Operate the junction switches to route the Amquack Special between towns for pickups and deliveries.[^ref-9]
 
-Each job shift lasts from one to eight minutes, as the player chooses, during which time Donald must earn as much money as possible.[^ref-12] *The Rainbow* noted that "this is not a win/lose type game"; play continues until the player decides to quit.[^ref-25] Job wages are doubled on Intermediate difficulty and tripled on Advanced.[^ref-5]
+Each job shift lasts from one to eight minutes, as the player chooses (up to nine minutes in the AGI version), during which time Donald must earn as much money as possible.[^ref-12][^ref-6][^ref-27] *The Rainbow* noted that "this is not a win/lose type game"; play continues until the player decides to quit.[^ref-25] Job wages are doubled on Intermediate difficulty and tripled on Advanced.[^ref-5]
 
 After earning money, players visit the stores to buy equipment for the playground. The playground in the AGI version is much more elaborate, with a treehouse, a fort and a huge rocket, while the Commodore 64 version's playground is a single screen.[^ref-9] Each of Donald's money stacks holds up to ten of any coin or bill, and an overflowing stack is automatically changed into the next highest denomination.[^ref-9]
 
@@ -85,15 +85,15 @@ Sierra Chest calls the McDuck Airlines job "by far the fastest money-maker of th
 
 ### Modern Assessment
 
-Modern retrospectives have been mixed. The *Data Driven Gamer* blog gave the C64 version a GAB rating of "Average, but only regarding edutainment value to small children," adding that "anyone older than the target demographic is certain to find this too easy, unsubstantial, and boring."[^ref-15] The same post places the game among Disney's first licensed computer games, noting that Sierra produced three Disney titles in 1984.[^ref-15]
+Modern retrospectives have been mixed. The *Data Driven Gamer* blog gave the C64 version a GAB rating of "Average, but only regarding edutainment value to small children," adding that "anyone older than the target demographic is certain to find this too easy, unsubstantial, and boring."[^ref-15] The same post notes that Sierra produced three licensed Disney computer games in 1984.[^ref-15]
 
-Lemon64 users rate the Commodore 64 version 7.78/10 from 154 votes.[^ref-14] One user comment there reads: "This kind of game just has no business being as good as it is."[^ref-10] Lemon64 reviewer Northlander scored it 8/10 overall, with 7/10 for graphics, 7/10 for sound and 8/10 for playability.[^ref-10]
+Lemon64 users rate the Commodore 64 version 7.77/10 from 155 votes (as of October 28, 2026).[^ref-14] One user comment there reads: "This kind of game just has no business being as good as it is."[^ref-10] Lemon64 reviewer Northlander scored it 8/10 overall, with 7/10 for graphics, 7/10 for sound and 8/10 for playability.[^ref-10]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 63% (4 ratings)[^ref-26]
-- **Lemon64 Users:** 7.78/10 (154 votes)[^ref-14]
-- **Lemon Amiga Users:** 6.45/10 (29 votes)[^ref-23]
-- **MyAbandonware Users:** 4.47/5 (34 votes)[^ref-16]
+- **Lemon64 Users:** 7.77/10 (155 votes, as of October 28, 2026)[^ref-14]
+- **Lemon Amiga Users:** 6.57/10 (30 votes, as of October 28, 2026)[^ref-23]
+- **MyAbandonware Users:** 4.49/5 (35 votes, as of October 28, 2026)[^ref-16]
 - **GameFAQs Users:** "Great" (17 ratings for C64; 15 ratings for PC)[^ref-8][^ref-17]
 - **Atarimania Users:** 6.0/10 (2 votes)[^ref-18]
 
@@ -123,7 +123,7 @@ C64-Wiki notes that the game slips in small lessons, such as Donald looking left
 
 ### Technical Achievements
 
-AGI was originally developed for *King's Quest*.[^ref-21] Data Driven Gamer notes that the AGI engine always needed 128KB, twice what the Commodore 64 had, so the C64 original "isn't AGI at all"; the AGI versions were remakes for later platforms.[^ref-15]
+According to C64-Wiki, AGI debuted in the original 1984 release of *King's Quest*.[^ref-2] Data Driven Gamer notes that the AGI engine always needed 128KB, twice what the Commodore 64 had, so the C64 original "isn't AGI at all"; the AGI versions were remakes for later platforms.[^ref-15]
 
 The Commodore 64 cassette release used the Novaload tape loader, and the C64 version used Al Lowe's own C64 sound driver.[^ref-14][^ref-20] MobyGames' trivia describes the AGI version as v2.001, "really a hybrid of AGI v1 and v2". It is "not a true AGI v2 system."[^ref-26] ScummVM's detection table gives interpreter v2.001 only for the PC booter release. The Atari ST, Amiga and 1987 DOS releases use 2.272.[^ref-30]
 
@@ -182,7 +182,7 @@ The Commodore 64 cassette release used the Novaload tape loader, and the C64 ver
 
 According to a Lemon64 user comment, the Commodore 64 version can soft-lock if players collect enough money, as the game converts between 10 and 20 dollar bills forever. The same commenter says Al Lowe didn't expect anyone to play the game that long.[^ref-10]
 
-FRGCB reported that in the AGI version the train moves too fast compared to Donald's walking speed, which makes the Amquack Railroad job frustrating. This happened on the Amiga and Atari ST as well as under DOSBox.[^ref-6] The Tandy/Apple version's toy store curtain is "ridiculously slow, taking 7 seconds in each direction". That version is the non-AGI release for the Apple II and TRS-80 CoCo.[^ref-6] In the greengrocer job, both the AGI and Apple/Tandy versions suffer from badly responding controls and framerate problems.[^ref-6]
+FRGCB reported that in the AGI version the train moves too fast compared to Donald's walking speed, which makes the Amquack Railroad job frustrating. This happened on the Amiga and Atari ST as well as under DOSBox.[^ref-6] The Tandy/Apple version's toy store curtain is "ridiculously slow, taking 7 seconds in each direction". FRGCB describes that version as a separate non-AGI release for the Apple II and TRS-80 CoCo,[^ref-6] although ScummVM's detection table classes the CoCo build as an early AGI game.[^ref-30] In the greengrocer job, both the AGI and Apple/Tandy versions suffer from badly responding controls and framerate problems.[^ref-6]
 
 One MyAbandonware user reported that the DOS version ran too fast, with keys acting as if held down, and fixed the speed with Ctrl+F11 in DOSBox.[^ref-16]
 
@@ -263,13 +263,12 @@ Not every modern reviewer is as warm. *Data Driven Gamer* rated its edutainment 
 [^ref-17]: [GameFAQs – PC Database Entry](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground) – user ratings, platform list
 [^ref-18]: [Atarimania – Donald Duck's Playground Atari ST](https://www.atarimania.com/game-atari-st-donald-duck-s-playground_9147.html) – technical specifications, Disney license, user rating, version number
 [^ref-20]: [VGMPF Wiki – Donald Duck's Playground (C64)](https://vgmpf.com/Wiki/index.php?title=Donald_Duck's_Playground_(C64)) – audio technical details, SID chip, Al Lowe's sound driver
-[^ref-21]: [Steemit – 80s Kid Video Game: Donald Duck's Playground](https://steemit.com/gaming/@zulman/80s-kid-video-game-donald-duck-s-playground) – AGI engine background
 [^ref-22]: [PCGamingWiki – Donald Duck's Playground](https://www.pcgamingwiki.com/wiki/Donald_Duck%27s_Playground) – PC booter resolution, CPU requirements
 [^ref-23]: [Lemon Amiga – Donald Duck's Playground](https://www.lemonamiga.com/games/details.php?id=1423) – Amiga specifications, user rating, AGI engine
 [^ref-24]: [Speedrun.com – Donald Duck's Playground](https://www.speedrun.com/donald_ducks_playground) – speedrun categories and records
-[^ref-25]: [The Rainbow, September 1987 – Kerry Armstrong, "Donald Duck's Playground — Teaches the Value of Money" (pp. 128–129)](https://archive.org/details/rainbowmagazine-1987-09) – TRS-80 CoCo version review, OS-9, price, "not a win/lose type game"
+[^ref-25]: [The Rainbow, September 1987 – Kerry Armstrong, "Donald Duck's Playground — Teaches the Value of Money" (pp. 129–130)](https://archive.org/details/rainbowmagazine-1987-09) – TRS-80 CoCo version review, OS-9, price, "not a win/lose type game"
 [^ref-26]: [MobyGames – Donald Duck's Playground](https://www.mobygames.com/game/3491/donald-ducks-playground/) – critic aggregate score, release dates, C64 credits, PC booter specs, AGI version trivia, user review
 [^ref-27]: [GameFAQs – PC FAQ by Forteblast](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground/faqs/70976) – AGI version controls, difficulty and game speed
 [^ref-29]: [Al Lowe – Biography](https://allowe.com/al/bio1.html) – Disney license context for Lowe's early Sierra titles
-[^ref-30]: [ScummVM – AGI detection table (detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – release builds, dates and interpreter versions for the PC booter, Atari ST, Amiga and DOS versions
+[^ref-30]: [ScummVM – AGI detection table (detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – release builds, dates and interpreter versions for the PC booter, Atari ST, Amiga and DOS versions; CoCo build listed as an early AGI game
 [^ref-31]: [MobyGames – Donald Duck's Playground Credits (TRS-80 CoCo)](https://web.archive.org/web/20201024122615/https://www.mobygames.com/game/trs-80-coco/donald-ducks-playground/credits) – Wayback, October 2020: "Graphics by Gerald Moore, Doug MacNeill" on the CoCo release
