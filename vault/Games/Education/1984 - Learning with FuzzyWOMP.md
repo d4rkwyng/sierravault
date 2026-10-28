@@ -10,7 +10,7 @@ series: Sierra Educational
 engine: Machine language
 protagonist: Fuzzywomp
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Learning With Fuzzywomp is an educational software package developed
   and published by Sierra On-Line in 1984 for the Apple II computer. It collects four
   wordless, joystick-driven learning games for pre-readers aged three to six.
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, sierra-educational]
 ---
 # Learning With Fuzzywomp
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The game sold for $29.95 and required a joystick.[^ref-16][^ref-18][^ref-19] Its
 > **Developer:** [[Sierra On-Line]][^ref-1][^ref-6]
 > **Designer:** Michael Mckee, Martin Shen[^ref-1][^ref-18]
 > **Publisher:** Sierra On-Line[^ref-1][^ref-6]
-> **Engine:** Machine language[^ref-26]
+> **Engine:** Machine language (per the Sierra Chest)[^ref-26]
 > **Platforms:** Apple II[^ref-1][^ref-2][^ref-6]
 > **Release Year:** 1984[^ref-1][^ref-8][^ref-10]
 > **Series:** Sierra Educational
@@ -61,7 +61,7 @@ The packaging names the four games Domino Match, Juggling Clown, Bubble Up and M
 
 - **Bubble Up:** Numbered bubbles from one to ten float up, and Fuzzywomp, armed with a blow dryer, must shoot them in numerical order. The number needed next is shown at the side of the screen.[^ref-18] According to the Sierra Chest, a successful round repeats in reverse order, from 10 down to 1.[^ref-26] *Softalk* has the bubbles rising from a cauldron, while MobyGames and the Sierra Chest describe them coming out of a pipe.[^ref-18][^ref-2][^ref-26]
 
-- **Make-A-Monster:** The child builds a creature from a selection of heads, bodies and feet. The monster then comes to life and blasts Fuzzywomp four times with a blow dryer, and he turns into a different shape after each blast.[^ref-18][^ref-26] This game returns to the menu automatically after one play.[^ref-18]
+- **Make-A-Monster:** The child builds a creature from a selection of heads, bodies and feet. The monster then comes to life and blasts Fuzzywomp four times with a blow dryer, and he turns into a different shape after each blast.[^ref-18] The Sierra Chest instead says the creature "will pull a gun".[^ref-26] This game returns to the menu automatically after one play.[^ref-18]
 
 ### Puzzles and Mechanics
 
@@ -194,4 +194,4 @@ No hint books or strategy guides are known.
 [^ref-23]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – 1983 Sierra title "Similar to Learning with FuzzyWOMP (1984)", four-choice menu
 [^ref-24]: [Computer Entertainer issue 2-10 (January 1984)](https://archive.org/details/computer-entertainer-2-10) – Sierra's planned education line: "FUZZYWOMP, four games in one for the Apple"
 [^ref-25]: [MobyGames – Learning with FuzzyWOMP credits (Apple II)](https://www.mobygames.com/game/9294/learning-with-fuzzywomp/credits/apple2/) – Program and Graphics: Michael Mckee, Martin Shen
-[^ref-26]: [The Sierra Chest – Learning with Fuzzywomp](https://sierrachest.com/index.php?a=games&id=361&fld=general) – engine "Machine Language", similar to Learning With Leeper, detailed descriptions of the four games
+[^ref-26]: [The Sierra Chest – Learning with Fuzzywomp](https://sierrachest.com/index.php?a=games&id=361&fld=general) ([archived copy](http://web.archive.org/web/20250505031021/https://www.sierrachest.com/index.php?a=games&id=361&title=learning-with-fuzzywomp&fld=general)) – engine "Machine Language", similar to Learning With Leeper, detailed descriptions of the four games
