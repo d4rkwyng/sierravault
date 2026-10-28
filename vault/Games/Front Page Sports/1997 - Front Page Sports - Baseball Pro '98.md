@@ -10,7 +10,7 @@ series: Front Page Sports Baseball
 engine: Physics-based simulation engine
 protagonist: N/A (Player-controlled teams)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 composer: [Charles Barth]
 description: 'Front Page Sports: Baseball Pro ''98 is a physics-based baseball simulation
   developed by Dynamix and published by Sierra On-Line for Windows 95 in May 1997,
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports-baseball, sierra]
 ---
 # Front Page Sports: Baseball Pro '98
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Front Page Sports: Baseball Pro '98 is a baseball sports simulation video game d
 
 Contemporary reviewers found its depth overwhelming. GameSpot's Stephen Poole wrote that "if you can think it up, there's a 99 percent chance that there's a way to do it"[^ref-14]. PC Gamer noted that, unlike EA's Triple Play, the series aimed for "a more mature, contemplative, 'expert' audience by offering many gameplay features and reams of in-depth statistics"[^ref-5].
 
-The game was licensed by the Major League Baseball Players Association, with players from the 1996 and 1997 MLBPA rosters[^ref-3]. Its feature list promised all 28 major league ballparks in 3D and player statistics in over 2,000 categories[^ref-7], although Poole noted that the Braves' new Turner Field was not included[^ref-14]. Randy Johnson appeared on the cover, as he had on the '96 edition[^ref-2]. The series remains popular as a simulation engine for online leagues[^ref-9].
+The game was licensed by the Major League Baseball Players Association, with players from the 1996 and 1997 MLBPA rosters[^ref-3]. Its feature list promised all 28 major league ballparks in 3D and player statistics in over 2,000 categories[^ref-7]. Randy Johnson appeared on the cover, as he had on the '96 edition[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-3]
@@ -60,7 +60,7 @@ Sierra's CAMS (Camera Angle Management System) sets up viewing perspectives once
 
 The game offers several modes of play[^ref-7]:
 
-- **Arcade Mode:** Quick games with simplified control
+- **Arcade Mode:** Quick games; Sierra's blurb promised a "bigger, better Arcade mode"
 - **Batting Practice:** Match up any batter against any pitcher from the 1997 MLBPA rosters
 - **Exhibition:** Single games between any two teams
 - **Season:** A full season's schedule including the playoffs
@@ -89,7 +89,7 @@ GameCenter's Lance Elko gave the game 8 out of 10, noting that "arcade play is p
 
 Steve Bauman of Computer Games Strategy Plus gave a mixed but largely positive verdict[^ref-1]: "While it's true this is really the game Baseball Pro 96 should have been, any hardcore baseball grognard can't deny this is still the game they'd design"[^ref-10]. He added that "with more features than any game on the market, it's as close to baseball perfection as anything out there, but remains enough of a mess to make it unlikely to convert its past critics"[^ref-10].
 
-Wikipedia's review table also lists Computer Gaming World at 2.5/5, Game Informer at 7.25/10 and Computer Games Strategy Plus at 4/5[^ref-1].
+Computer Gaming World's Robert Coffey gave the game 2.5 out of 5 in a review titled "Minor Leaguer" (issue #159, October 1997), and Game Informer's Erik Reppen gave it 7.25 out of 10 (issue #52, August 1997)[^ref-1]. Wikipedia's review table also lists Computer Games Strategy Plus at 4/5 and AllGame at 4.5/5[^ref-1].
 
 ### Modern Assessment
 
@@ -103,6 +103,9 @@ AllGame reviewer Brad Cook called it "a baseball lover's dream come true." He ad
 - **GameSpot:** 8/10[^ref-14]
 - **PC Gamer:** 60%[^ref-5]
 - **GameCenter:** 8/10[^ref-13]
+- **Computer Gaming World:** 2.5/5[^ref-1]
+- **Game Informer:** 7.25/10[^ref-1]
+- **AllGame:** 4.5/5[^ref-1]
 - **MyAbandonware:** 5/5 (user rating)[^ref-17]
 
 ## Development
@@ -138,7 +141,7 @@ MobyGames credits the music to Charles Barth, with Tim Pierce, Mike Miller, Bill
 
 ### Technical Achievements
 
-The game's physics engine set it apart from games driven by predetermined statistics. Each play's outcome was calculated from physics, including weather, altitude and ball spin[^ref-7]. Sierra's product description invited players to "hit one over the Green Monster in Boston or bounce one into the ivy along the outfield walls at Wrigley Field"[^ref-27].
+The game's physics engine set it apart from games driven by predetermined statistics. Each play's outcome was calculated from physics, including weather, altitude and ball spin[^ref-7]. A retail product description invited players to "hit one over the Green Monster in Boston or bounce one into the ivy along the outfield walls at Wrigley Field"[^ref-27].
 
 The CAMS camera system offered multiple viewing perspectives, and a VCR feature allowed play review from any angle in the ballpark[^ref-7]. The feature list promised all 28 major league ballparks rendered in 3D[^ref-7]. GameSpot, however, noted that the Braves' Turner Field was missing[^ref-14].
 
@@ -173,7 +176,7 @@ No specific cut content has been documented in available research materials.
 
 GameRankings' archived page lists a patch entry from GameSpot dated September 21, 1997[^ref-21]. A playable demo was released in 1997[^ref-23][^ref-20].
 
-The game was released in the United States, United Kingdom and Germany[^ref-17]. CUC Software distributed it in the UK and Germany, and alternate titles include "DSF Baseball Pro '98" (Germany) and "Sierra Sports: Baseball Pro '98" (UK)[^ref-3].
+The game was released in the United States, United Kingdom and Germany[^ref-17]. CUC Software International distributed it in the UK and Germany[^ref-31], and alternate titles include "DSF Baseball Pro '98" (Germany) and "Sierra Sports: Baseball Pro '98" (UK)[^ref-3].
 
 ### Technical Issues
 
@@ -184,9 +187,7 @@ The 1996 edition had suffered from significant bugs, which the '98 release was d
 ### Easter Eggs and Trivia
 
 - Randy Johnson appeared on the covers of both the '96 and '98 editions[^ref-2]
-- The PB.INI configuration file allows extensive customization of gameplay variables[^ref-14]. Web sites quickly filled with alternate configurations[^ref-10]
 - The game was priced as an update ($29.95) rather than a full-price standalone, with Sierra offering a $10 rebate for owners of the 1996 version[^ref-23][^ref-13]
-- The series remains popular as a simulation engine for online leagues[^ref-9]
 - Wikipedia's series article notes that team colors can be adjusted but there are no logos on player uniforms[^ref-9]
 
 ## Voice Cast
@@ -217,8 +218,6 @@ The series remains popular as a simulation engine for online leagues[^ref-9]. Sh
 ### Critical Perspective
 
 Front Page Sports: Baseball Pro '98 shows the split in 1990s sports gaming between simulation depth and arcade accessibility. PC Gamer contrasted EA's Triple Play, which "goes for the throat with audio visual sizzle, slick presentation, and arcade action," with this game's "expert" audience[^ref-5]. Reviewers broadly agreed that its strength was management rather than on-field play[^ref-13][^ref-14][^ref-16].
-
-The game's continued use in online simulation leagues shows that this approach still has an audience[^ref-9].
 
 ## Purchase
 
@@ -254,7 +253,7 @@ The game's continued use in online simulation leagues shows that this approach s
 
 ## References
 
-[^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – NA release May 29, 1997, publisher, platform, review table (GR 80%, CGSP 4/5, CGW 2.5/5, GI 7.25/10)
+[^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – NA release May 29, 1997, publisher, platform, review table (GR 80%, AllGame 4.5/5, CGSP 4/5, CGW 2.5/5 by Robert Coffey in issue #159, GI 7.25/10 by Erik Reppen in issue #52)
 [^ref-2]: [Baseball Is My Life – Front Page Sports Series](https://baseballismy.life/baseball-video-games/front-page-sports-baseball-pro/) – series history, Randy Johnson cover appearances
 [^ref-3]: [MobyGames – Front Page Sports: Baseball Pro '98](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – developer Dynamix, credits summary (94 developers, 20 thanks), MobyScore, specs, official description, releases
 [^ref-5]: [PC Gamer Online Review (Archive.org)](https://web.archive.org/web/20000301165056/http://www.pcgamer.com/reviews/454.html) – Gary Whitta review, 60% score, system requirements, critical assessment
@@ -277,3 +276,4 @@ The game's continued use in online simulation leagues shows that this approach s
 [^ref-28]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – large demo, May 30, 1997 release date, DirectX requirement, download count
 [^ref-29]: [MobyGames – Front Page Sports: Baseball Pro '98 Credits (Windows)](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/credits/windows/) – full credits: musicians, voice talent Bill Barrett, sound effects LOUDMOUTH/Ken Rogers
 [^ref-30]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series began 1992 as Dynamix's first sports sim; final 1999 version recalled
+[^ref-31]: [MobyGames – Front Page Sports: Baseball Pro '98 Releases](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/releases/) – Windows releases for US, UK and Germany; CUC Software International distributed the UK and German releases (read via the MobyGames API)
