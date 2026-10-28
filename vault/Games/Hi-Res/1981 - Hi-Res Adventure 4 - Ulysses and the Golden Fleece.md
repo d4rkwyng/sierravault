@@ -10,20 +10,20 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
   game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure game released in 1981 for the Apple II by On-Line Systems, the company renamed Sierra On-Line in 1982[^ref-1][^ref-4]. Written by newcomer Bob Davis with [[Ken Williams]], it is the fourth numbered entry in the Hi-Res Adventure series[^ref-2][^ref-31]. Players take the role of Ulysses, whom the king sends to find the Golden Fleece, a legendary treasure protected by the gods[^ref-10].
 
-Softalk reviewed it in December 1981 as "the best from On-Line since Wizard and the Princess", and it went on to top the magazine's Adventure 5 bestseller list in March and April 1982[^ref-31][^ref-33][^ref-34]. Like the rest of the series, it pairs a full-screen color picture with a two-word verb-noun parser[^ref-6][^ref-10].
+Softalk reviewed it in December 1981 as "the best from On-Line since Wizard and the Princess", and it went on to top the magazine's Adventure 5 bestseller list in March and April 1982[^ref-31][^ref-33][^ref-34]. Like the rest of the series, it pairs a color picture covering most of the screen with a two-word verb-noun parser[^ref-6][^ref-10].
 
 ScummVM added support for the game in version 2.0.0, released on 17 December 2017[^ref-7].
 
@@ -159,7 +159,7 @@ The game was later published by StarCraft, Inc. in Japan and by All American Adv
 
 ### Collections
 
-On-Line's Hi-Res Adventures catalog, which advertised versions for Apple, IBM and Atari, featured the game alongside Mystery House, Cranston Manor, Mission Asteroid and The Wizard and the Princess[^ref-13].
+Sierra On-Line's Hi-Res Adventures catalog, which advertised versions for Apple, IBM and Atari, featured the game alongside Mystery House, Cranston Manor, Mission Asteroid and The Wizard and the Princess, among others[^ref-13].
 
 ### Fan Projects
 
