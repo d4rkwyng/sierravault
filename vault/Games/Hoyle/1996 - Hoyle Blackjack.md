@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
   and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
   and Casino modes, and Internet play via the Sierra Internet Gaming System.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ GameSpot notes that "with the Windows 95 network option", up to three other huma
 |-------------|-------|-------|
 | GameSpot (Tal Blevins, 1 Aug 1996) | 7.8/10 | "Sierra has once again released an addictive, economical card game"[^ref-4] |
 | World Village – Gamer's Zone (Robert Coffey) | 4/5 | "All this for just $15? It's a real bargain."[^ref-25][^ref-27] |
-| Game Revolution | B (75/100) | Joint review of Hoyle Blackjack & Solitaire, as listed on MobyGames[^ref-25] |
+| Game Revolution | 75/100 | Joint review of two Hoyle games ("offering two well-planned games"), as listed on MobyGames[^ref-25] |
 | MobyGames critic average | 78% | Based on 3 ratings[^ref-25] |
 
 ### Critical Analysis
@@ -114,7 +114,7 @@ Hoyle Blackjack was produced in-house at Sierra On-Line[^ref-6]. MobyGames credi
 - **Sound Effects & Editing:** James Ackley, Keith Bowers, Kevin Cannon
 - **Voice Actors:** Pat Cashman, Rodney Sherwood, Kate Myre, Natacha LaFerrière, James Parker
 
-The voices were recorded at Clatter & Din Studios in Seattle[^ref-24]. The Internet play layer was built by a separate SIGS team: producer Jack Staeher, system architects John Fawcett and Robert W. Jepson, and Windows programmers Max Coburn and Mike Forkey[^ref-24].
+The voices were recorded at Clatter & Din Studios[^ref-24]. The Internet play layer was built by a separate SIGS team[^ref-24].
 
 The CD also carried the "Larry Pops Up" mini program, in which Larry appears after a period of inactivity and says a funny line. It also included a Hoyle 5: Classic Games trailer and demos of Indy Car Racing 2 and The Lost Mind of Dr. Brain[^ref-28].
 
@@ -136,16 +136,16 @@ Sierra fans have debated how far the later Hoyle line belongs to "classic" Sierr
 
 ### Corporate Changes
 
-In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. GameSpot's archived copy of that report carries a 2006 date stamp. However, Dynamix was closed on 14 August 2001[^ref-32].
+In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. GameSpot's archived copy carries a 2006 date stamp, but the reorganization was announced when Dynamix closed on 14 August 2001[^ref-32].
 
 ### Preservation and Availability
 
-The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 2005 Hoyle Blackjack Series as a separate, later game[^ref-6]. Encore's later download of that title is not this 1996 release.
+A community upload of the 1996 game (an installer archive) is held at the Internet Archive[^ref-5]. MobyGames lists the 2005 Hoyle Blackjack Series as a separate, later game[^ref-6].
 
 ## Downloads
 
 **Download / Preservation**
-- [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Copy of the 1996 CD
+- [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Community upload of the 1996 game (installer archive)
 - [Internet Archive – Hoyle Classic Blackjack (1996), second upload](https://archive.org/details/blackjack_202001/) - Second upload of the same 1996 release
 
 ## See Also
@@ -211,7 +211,7 @@ The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 20
 
 [^ref-2]: [SierraGamers Forum – Where does "Sierra" end?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - 2010 fan discussion of which Hoyle titles count as classic Sierra
 [^ref-4]: [GameSpot – Hoyle Blackjack Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Tal Blevins, 1 August 1996, 7.8/10; bankroll, ATM, SIGS network play, attitude adjuster
-[^ref-5]: [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Preserved copy of the 1996 CD
+[^ref-5]: [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Community upload of the 1996 game (installer archive)
 [^ref-6]: [MobyGames – Hoyle Blackjack (1996)](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Developer/publisher, platform, description, opponents, related games
 [^ref-7]: [GameFAQs – Hoyle Blackjack (PC)](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack) - Box description: tagline, Tutorial/Tournament/Casino modes, play options, Internet play
 [^ref-8]: [Sierra Chest – Hoyle BlackJack: Walkthrough](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=walkthrough) - In-game rules text and sample hand
@@ -219,7 +219,7 @@ The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 20
 [^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listing (PC Windows), publisher Sierra On-Line
 [^ref-22]: [LaunchBox Games Database – Hoyle Blackjack](https://gamesdb.launchbox-app.com/games/details/430427-hoyle-blackjack) — 1996, Windows, Sierra On-Line developer and publisher
 [^ref-24]: [MobyGames – Hoyle Blackjack credits (Windows)](https://www.mobygames.com/game/45133/hoyle-blackjack/credits/windows/) - 37 people; voices recorded at Clatter & Din Studios; SIGS team
-[^ref-25]: [MobyGames – Hoyle Blackjack reviews](https://www.mobygames.com/game/45133/hoyle-blackjack/reviews/windows/) - Critic average 78% from 3 ratings: GameSpot, World Village, Game Revolution
+[^ref-25]: [MobyGames – Hoyle Blackjack reviews](https://www.mobygames.com/game/45133/hoyle-blackjack/reviews/windows/) - Critic average 78% from 3 ratings: GameSpot, World Village, Game Revolution ([archived MobyRank, 2013](http://web.archive.org/web/20130927141005/http://www.mobygames.com/game/windows/hoyle-blackjack/mobyrank))
 [^ref-26]: [MobyGames – Hoyle Blackjack specs](https://www.mobygames.com/game/45133/hoyle-blackjack/specs/) - Intel i486, Windows 95, 4 MB RAM, CD-ROM
 [^ref-27]: [World Village Gamer's Zone – Aces High! A Review of Hoyle Blackjack (Wayback, 2010 capture)](http://web.archive.org/web/20100430011546/http://worldvillage.com:80/hoyle-blackjack) - Robert Coffey review; $14.95 price; system requirements scorecard
 [^ref-28]: [Sierra Chest – Hoyle BlackJack: Packaging & content](https://sierrachest.com/index.php?a=games&fld=box&id=516&pid=2&title=hoyle-blackjack) - .hlp instructions, "Larry Pops Up", trailers and demos on the CD
