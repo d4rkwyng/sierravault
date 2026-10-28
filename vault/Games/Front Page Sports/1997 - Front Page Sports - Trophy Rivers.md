@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-controlled angler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Front Page Sports: Trophy Rivers is a river fishing simulation developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997 for Windows 95 and
   Windows 3.1, covering salmon, trout and steelhead on five North American rivers.'
@@ -18,7 +18,7 @@ tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -131,7 +131,7 @@ The game's music is credited to Loudmouth, which shares the sound-effects credit
 - **Processor:** Pentium 60
 - **RAM:** 16 MB
 - **Operating System:** Windows 95
-- **DirectX:** Version 3.0 (DirectX drivers)
+- **DirectX:** Version 3.0 per a FilePlanet listing; MobyGames lists DirectX 2 as the minimum[^ref-2][^ref-1]
 
 **Windows 3.1:** The game also installs on Windows 3.1. Setup adds Microsoft Win32s and Video for Windows if they are not already present[^ref-23].
 
@@ -233,11 +233,11 @@ Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. T
 [^ref-3]: [MyAbandonware – Front Page Sports: Trophy Rivers](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t) – user rating (4.6/5, 5 votes), 66 MB download, Windows/Windows 3.x
 [^ref-4]: [GameSpot – Front Page Sports: Trophy Rivers Review](https://www.gamespot.com/reviews/front-page-sports-trophy-rivers-review/1900-2535350/) – Hugo Foster review, 6.7/10 "Fair", gameplay and presentation criticism
 [^ref-5]: CNET Download – Front Page Sports: Trophy Rivers (link removed: gambling-app sidebar) – demo/trial listing: 2/5 user rating (4 votes), 41,006 downloads, Windows 95 and DirectX drivers requirement
-[^ref-6]: [SoftPaz – Front Page Sports: Trophy Rivers](https://www.softpaz.com/games/download-front-page-sports-trophy-rivers-game-8729.htm) – demo description, 2.2/5 rating from 63 user ratings
+[^ref-6]: SoftPaz – Front Page Sports: Trophy Rivers (demo download listing; link removed because the site's sidebar promotes casino and gambling categories) – demo description, 2.2/5 rating from 63 user ratings
 [^ref-8]: [GameFAQs – Front Page Sports: Trophy Rivers](https://gamefaqs.gamespot.com/pc/55425-front-page-sports-trophy-rivers) – November 30, 1997 release date, "Outstanding" user rating (2 ratings)
 [^ref-9]: [Internet Archive – Trophy Rivers Demo](https://archive.org/details/trdemo10_exe) – demo description, Dynamix credit, 1997
-[^ref-10]: [The Junkyard Forums – SS Soundtrack thread](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth company background and game list including Trophy Rivers (thread returned HTTP 500 when rechecked 2026-10-12)
-[^ref-12]: [WowROMs – Front Page Sports: Trophy Rivers](https://wowroms.com/en/roms/windows-3.x/front-page-sports-trophy-rivers/153180.html) – Windows 3.x archive, 500.67 MB
+[^ref-10]: The Junkyard Forums – "SS Soundtrack" thread, post by BDUAres, 12 February 2010 (thread returns HTTP 500 and has no archived copy; text-only citation) – Loudmouth company background and game list including Trophy Rivers (thread returned HTTP 500 when rechecked 2026-10-12)
+[^ref-12]: WowROMs – Front Page Sports: Trophy Rivers (ROM download listing; text-only citation) – Windows 3.x archive, 500.67 MB
 [^ref-13]: [Old-Games.com – Front Page Sports: Trophy Rivers](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers) – 387 MB installer, modern Windows compatibility
 [^ref-14]: [GameSpy – Front Page Sports: Trophy Rivers](http://pc.gamespy.com/pc/front-page-sports-trophy-rivers/) – listed regional release dates (May 5, 1998 US; December 31, 1998 UK/Japan), ESRB E for Everyone
 [^ref-16]: [eBay Listing #265405754067](https://www.ebay.com/itm/265405754067) – physical copy, "manual is included"
