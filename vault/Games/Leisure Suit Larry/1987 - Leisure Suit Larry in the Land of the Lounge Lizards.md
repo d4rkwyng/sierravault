@@ -86,7 +86,7 @@ Time magazine included it on their 2012 list of the 100 greatest video games, no
 
 ### Origins
 
-The game's creation story begins with Sierra's 1981 text adventure **Softporn Adventure**, created by Chuck Benton[^ref-1]. Al Lowe had joined Sierra in 1982. He made Disney-licensed titles such as The Black Cauldron and Donald Duck's Playground, and in 1986 he was lead programmer on King's Quest III and the original Police Quest[^ref-5]. By the mid-1980s he was tasked with updating the aging text adventure for modern audiences. Upon playing the original, Lowe's immediate reaction was that "this game is so out of touch it should be wearing a leisure suit!"[^ref-25]
+The game's creation story begins with Sierra's 1981 text adventure **Softporn Adventure**, created by Chuck Benton[^ref-1]. Al Lowe had joined Sierra in 1982. He made Disney-licensed titles such as The Black Cauldron and Donald Duck's Playground, and in 1986 he was lead programmer on King's Quest III and the original Police Quest[^ref-5]. Accounts differ on how the remake began. The Digital Antiquarian describes Ken Williams, encouraged in late 1986 by the success of Infocom's *Leather Goddesses of Phobos*, deciding to revisit Softporn and choosing Lowe for the job[^ref-25]; Wikipedia says instead that in 1986, after Sierra lost a Disney license, Lowe suggested remaking Softporn and Williams agreed[^ref-8]. Upon playing the original, Lowe's immediate reaction was that "this game is so out of touch it should be wearing a leisure suit!"[^ref-25]
 
 Recognizing that a straight adaptation wouldn't work, Lowe proposed a radical reimagining to Ken Williams. As Lowe recalled, he told Ken Williams there was "no way I could bring this game into the 80's unless he let me make fun of that life style," adding, "it's so behind the times it might as well be wearing a leisure suit!"[^ref-1] Williams approved the concept, and Lowe spent approximately three months developing what would become his most famous creation[^ref-25].
 
@@ -157,7 +157,7 @@ An essay in the anthology *Critical Hits* described the series as a "profoundly 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Sold on GOG.com in the *Leisure Suit Larry's Greatest Hits and Misses* bundle (4.4/5 user rating)[^ref-13]
+- Sold on GOG.com in the *Leisure Suit Larry* bundle (4.4/5 user rating), whose store blurb still calls it *Leisure Suit Larry's Greatest Hits and Misses*[^ref-13]; PCGamingWiki says the bundle includes both this EGA original and the 1991 VGA remake[^ref-17]
 - Previously available on Steam (now delisted)[^ref-37]
 
 ## See Also
@@ -183,13 +183,13 @@ An essay in the anthology *Critical Hits* described the series as a "profoundly 
 [^ref-4]: [Guinness World Records](https://www.guinnessworldrecords.com/world-records/88873-best-selling-videogame-sleeper-hit) – Official sleeper hit record
 [^ref-5]: [Al Lowe Biography](https://allowe.com/al/bio1.html) – Career context and series impact
 [^ref-6]: [MobyGames Database](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Complete development credits
-[^ref-8]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – Publisher information
+[^ref-8]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – Publisher information; "after Sierra lost a Disney license, Al Lowe suggested that Sierra should remake Softporn Adventure"
 [^ref-10]: [AGI Specifications](http://www.agidev.com/articles/agispec/agispecs-2.html) – Technical engine documentation
 [^ref-12]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2022/12/19/leisure-suit-larry/) – Game objective description
 [^ref-13]: [GOG.com Page](https://www.gog.com/en/game/leisure_suit_larry) – Lost Wages description
 [^ref-14]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/264/) – Location descriptions
 [^ref-15]: [DOS Days](https://dosdays.co.uk/topics/Games/game_lsl.php) – Character analysis
-[^ref-17]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – Technical specifications
+[^ref-17]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – Technical specifications; GOG release "Both EGA and VGA release are included"
 [^ref-19]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Text parser examples ([Wayback copy, 14 Dec 2024](https://web.archive.org/web/20241214013955/http://www.hardcoregaming101.net/leisure-suit-larry-in-the-land-of-the-lounge-lizards/), while the live site is down for a server move)
 [^ref-20]: [DOS Days VGA](https://www.dosdays.co.uk/topics/Games/game_lsl_vga.php) – VGA remake improvements
 [^ref-22]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/faqs/36583/walkthrough) – Age quiz difficulty commentary
