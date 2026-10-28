@@ -10,20 +10,21 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
-  game developed and published by Sierra On-Line in 1991, representing the second...'
+  game developed and published by Sierra On-Line in 1991, the second and final installment
+  in the Conquests series.'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure game developed and published by Sierra On-Line in 1991, representing the second and final installment in the Conquests series following *Conquests of Camelot: The Search for the Grail*.[^ref-1] Designed by [[Christy Marx]], the game transforms the legendary English outlaw into "less of a carefree swashbuckler and more of a medieval problem solver with a never-ending to-do list," where "charm and brains often matter more than your bow."[^ref-2] The game is notable for the considerable amount of historical and cultural research incorporated into its setting and puzzles, with the manual listing twenty-eight volumes in its bibliography.[^ref-1]
+*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure game developed and published by Sierra On-Line in 1991, representing the second and final installment in the Conquests series following *Conquests of Camelot: The Search for the Grail*.[^ref-1] Designed by [[Christy Marx]], the game casts the player as the legendary English outlaw, whom Adventure Gamers' 2009 review called "one of the most appealing characters to ever appear in an adventure game."[^ref-8] The game is notable for the considerable amount of historical and cultural research incorporated into its setting and puzzles, with the manual listing twenty-eight volumes in its bibliography.[^ref-1]
 
-The game represents "Sierra's richest, most complex game yet" according to contemporary marketing materials, featuring a design philosophy that dramatically differs from most other adventure games of the era.[^ref-3] Unlike typical Sierra adventures where losing paths are rare, *Conquests of the Longbow* embraces multiple winning and losing paths, with "the possibilities for tragedy, callousness and folly" being "integral to the interactive story told by the game."[^ref-4] Depending on player choices throughout the adventure, the game offers four possible endings, "ranging from Robin getting hanged to a happy conclusion of his love life."[^ref-5]
+GOG's product description calls it "Sierra's richest, most complex game yet."[^ref-3] Adventure Classic Gaming describes its design philosophy as "dramatically different" from "most other adventure games, in which losing paths (especially long and detailed losing paths) are rare."[^ref-4] By contrast, *Conquests of the Longbow* embraces multiple winning and losing paths, with "the possibilities for tragedy, callousness and folly" being "integral to the interactive story told by the game."[^ref-4] Depending on player choices throughout the adventure, the game offers four possible endings, "ranging from Robin getting hanged to a happy conclusion of his love life."[^ref-5]
 
 Despite being released during Sierra's golden age of adventure gaming, the title remains "one of their lesser known games," often overshadowed by flagship series like *King's Quest* and *Space Quest*.[^ref-6] Adventure Gamers' 2009 retrospective called it "a true classic that deserves to be in every adventurer's collection,"[^ref-8] and one Glitchwave user comment calls it "Probably Sierra's most underrated title."[^ref-7]
 
@@ -44,7 +45,7 @@ The year is 1193, and the Third Crusade has just ended. Richard the Lionheart, K
 
 Robin Hood's quest involves far more than simply robbing the rich to give to the poor. He must raise money for the king's ransom while protecting Maid Marian from the machinations of the Sheriff of Nottingham, fooling the Sheriff at every turn, and even contacting forest spirits for aid.[^ref-11]
 
-The narrative unfolds with Robin solving everyday problems while working toward his greater goals. As one reviewer noted, players will spend "plenty of time figuring out which villager needs rescuing today and which monk is about to betray you."[^ref-2] The romance between Robin and Marian serves as a central motivation throughout the adventure, with one modern commentator observing that Robin's "only motivation to do anything is to find a way to sleep with Maid Marian."[^ref-9] The theme of the game is described as simple—"love and honor may conquer all"—but "en route, the twists and turns make this conquest all the more poignant."[^ref-4]
+Each day brings a series of problems to overcome, and in solving them Robin uncovers a plot against King Richard.[^ref-6] The romance between Robin and Marian serves as a central motivation throughout the adventure, with one modern commentator observing that Robin's "only motivation to do anything is to find a way to sleep with Maid Marian."[^ref-9] The theme of the game is described as simple—"love and honor may conquer all"—but "en route, the twists and turns make this conquest all the more poignant."[^ref-4]
 
 ## Gameplay
 
@@ -54,7 +55,7 @@ The narrative unfolds with Robin solving everyday problems while working toward 
 
 ### Structure and Progression
 
-The game is divided into thirteen days; each day is completed when certain tasks have been fulfilled.[^ref-5] This day-based structure creates a sense of urgency and progression while allowing players to explore the game world systematically. The design notably avoids stalemate situations—"the player's actions can always lead to an ending, even if it's an unhappy ending"—yet "particularly reckless actions can quickly close off the possibility of an ideal ending."[^ref-4]
+The game takes place over thirteen days; each day is completed when certain tasks have been fulfilled.[^ref-6][^ref-24] This day-based structure creates a sense of urgency and progression while allowing players to explore the game world systematically. The design notably avoids stalemate situations—"the player's actions can always lead to an ending, even if it's an unhappy ending"—yet "particularly reckless actions can quickly close off the possibility of an ideal ending."[^ref-4]
 
 The game structure includes:
 
@@ -93,7 +94,7 @@ The Amiga version received notably lower scores due to technical issues with the
 Retrospective reviews have been overwhelmingly positive. Adventure Gamers awarded the game 4.5 out of 5 stars in a January 2, 2009 review by Andrea Morstabilini, who wrote: "Too often forgotten in the midst of more famous Sierra series, with its captivating plot and appealing characters, this game is a true classic that deserves to be in every adventurer's collection."[^ref-8] The review praised Christy Marx's writing as "top-notch" and called Robin "one of the most appealing characters to ever appear in an adventure game."[^ref-8]
 
 **Aggregate Scores:**
-- **MobyGames Critics Average:** 82% (based on 20 ratings)[^ref-12]
+- **MobyGames Critics Average:** 82% (based on 20 ratings, as of October 28, 2026)[^ref-12]
 - **GOG.com User Reviews:** 4.6/5 (47 reviews)[^ref-3]
 - **IMDB:** 7.9/10 (40 votes)[^ref-11]
 - **MyAbandonware:** 4.57/5 (92 votes)[^ref-6]
@@ -110,7 +111,7 @@ Retrospective reviews have been overwhelmingly positive. Adventure Gamers awarde
 
 ### Origins
 
-When the idea of doing a Robin Hood game was suggested to designer Christy Marx, she was "delighted," as "Robin Hood has always been one of my favorite heroes, not to mention how much I love the Medieval time period."[^ref-18] Marx and Ken Williams decided to focus on Robin Hood instead of King Arthur for broader popular appeal, a decision influenced by the success of the *Prince of Thieves* film which was released around the same time.[^ref-8] Lemon Amiga's reviewer describes 1991 as a year with "an omnipresent 'Robin Hood' hype," with two Robin Hood films in cinemas.[^ref-18] The Digital Antiquarian likewise notes that the game's sales were helped by *Robin Hood: Prince of Thieves* being "the second biggest cinematic blockbuster of 1991."[^ref-25]
+In Marx's own account, she "was beginning work on something different involving Greek mythology" when, with "about three Robin Hood movie projects in development at the time," Roberta Williams "dropped a couple of heavy hints about wanting a Robin Hood game." Marx agreed, and was then "left entirely alone to create the game."[^ref-15] When the idea was suggested to her, she was "delighted," as "Robin Hood has always been one of my favorite heroes, not to mention how much I love the Medieval time period."[^ref-18] Adventure Gamers' retrospective frames the switch as a commercial decision: after *Conquests of Camelot* sold less well than Sierra's main "Quest" series, Marx and Ken Williams "decided to let King Arthur go" for a hero "better suited for popular appeal at the time" thanks to the film *Prince of Thieves*.[^ref-8] Lemon Amiga's reviewer describes 1991 as a year with "an omnipresent 'Robin Hood' hype," with two Robin Hood films in cinemas.[^ref-18] The Digital Antiquarian likewise notes that the game's sales were helped by *Robin Hood: Prince of Thieves* being "the second biggest cinematic blockbuster of 1991."[^ref-25]
 
 ### Production
 
@@ -118,13 +119,14 @@ Development at Sierra in this era was described by Marx as "like being on the fr
 
 Marx had learned about player behavior while making her first game, *Conquests of Camelot*, watching playtesters who "would do anything in any order with no rhyme or reason." She said: "By the time I was working on Longbow, I had a more solid sense of designing and writing a non-linear story while maintaining a strong storyline."[^ref-15] For *Longbow* she wanted something "more complex and nuanced" than *Camelot*'s three win-or-lose decision points, and worked with the programmers on "a weighted point system" in which the player's choices added up to one of several endings.[^ref-15]
 
-Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wanted was beyond the technical capabilities of the time," with battle scenes ending up more simplistic than intended due to hardware limitations.[^ref-15] The game's art was "created with the brilliant palette of an illuminated medieval manuscript," resulting in what marketing materials called "a festival of light and color."[^ref-3]
+Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wanted was beyond the technical capabilities of the time," with battle scenes ending up more simplistic than intended due to hardware limitations.[^ref-15] The game's art was "created with the brilliant palette of an illuminated medieval manuscript," resulting in what GOG's product description calls "a festival of light and color."[^ref-3]
 
 **Development Credits:**[^ref-29]
 - **Lead Design / Director:** [[Christy Marx]]
 - **Executive Producer:** Ken Williams
 - **Creative Director:** Bill Davis
 - **Producer:** [[Guruka Singh Khalsa]]
+- **Art Designer:** Kenn Nishiuye
 - **Music Director:** [[Mark Seibert]]
 - **Synthesized Score & Sounds:** [[Ken Allen]], Christopher G. Braymen, Orpheus Hanley, Aubrey Hodges
 
@@ -202,11 +204,12 @@ The game contains numerous references to other Sierra titles and in-jokes:[^ref-
 - **Police Quest reference:** One rug features the shield of Lytton, the city from *Police Quest* 1-3
 - **Larry & Patti cameo:** Characters from *Leisure Suit Larry* appear in an old Norman monastery[^ref-17]
 - **Christy Marx cameo:** The game designer appears as an NPC in the Nottingham market[^ref-15]
-- **Space Quest reference:** Referenced in the *Space Quest 1* VGA remake escape pod button[^ref-15]
 - **Control panel secret:** Opening the control panel and hitting the Sierra button shows credits, then informs players that "no guys from Andromeda" partook in the creation[^ref-12]
 - **Talking rats:** Hidden dialogue with rats in the torture chamber[^ref-4]
 
-Designer Christy Marx included a bibliography of research sources in the game's manual, with twenty-eight volumes listed including works by J.C. Holt, Maurice Keen, and Robert Graves.[^ref-1] The manual also includes essays by Marx outlining the history of the legend and approximate dates at which different characters were incorporated into the Robin Hood legend, such as Friar Tuck and Marian in the 15th century.[^ref-2]
+The game is also referenced in another Sierra title: in the VGA remake of *Space Quest 1*, the "Don't Touch" button in the escape pod sends the player to Nottingham Castle (in the original EGA version it sent them to Daventry).[^ref-15]
+
+Designer Christy Marx included a bibliography of research sources in the game's manual, with twenty-eight volumes listed including works by J.C. Holt, Maurice Keen, and Robert Graves.[^ref-1] The manual also includes essays by Marx outlining the history of the legend and approximate dates at which different characters were incorporated into the Robin Hood legend, such as Friar Tuck and Marian in the 15th century.[^ref-1]
 
 ### Multiple Endings
 
@@ -237,9 +240,9 @@ The game is still sold digitally:
 
 ### Fan Projects
 
-The game maintains an active speedrunning community with 172 total runs by 13 players listed on its Speedrun.com page.[^ref-23] Categories include Any%, Low%, 100%, Best Ending, and a unique "13 Deaths in 13 Days" challenge.[^ref-23] The current Any% world record is 10 minutes 50 seconds, held by speedrunner SnowyP on MS-DOS.[^ref-23]
+The game has an active speedrunning community, with 180 runs by 13 players listed on its Speedrun.com page as of October 28, 2026.[^ref-23] Categories include Any%, Low%, 100%, Best Ending, and a unique "13 Deaths in 13 Days" challenge.[^ref-23] As of the same date, the Any% world record is 10 minutes 50 seconds, held by speedrunner SnowyP on MS-DOS.[^ref-23]
 
-In January 2023, the speedrunning community discovered "Snowy Skips," new glitches that further optimized completion times.[^ref-26] Fan projects have also included 4K upscaled renderings of the game's graphics.[^ref-27]
+In January 2023, the speedrunning community discovered "Snowy Skips," new glitches that further optimized completion times.[^ref-26] Fan projects have also included a rendering of the game in "4K simulated VGA", posted to Reddit's r/Sierra in September 2023.[^ref-27]
 
 ### Related Publications
 
@@ -267,7 +270,7 @@ The game's focus on historical accuracy and cultural research also distinguishes
 
 ## See Also
 
-- **Series:** Conquests Series
+- **Series:** [[Conquests Series]]
 - **Previous:** [[1990 - Conquests of Camelot - The Search for the Grail|← Conquests of Camelot]] (1990)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
@@ -276,11 +279,11 @@ The game's focus on historical accuracy and cultural research also distinguishes
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) – release dates, platforms, awards, design details, bibliography, British English usage
-[^ref-2]: Abandonware DOS – Conquests of the Longbow *(download link removed: the game is sold commercially)* – gameplay description, user ratings, manual trivia
+[^ref-2]: Abandonware DOS – Conquests of the Longbow *(download link removed: the game is sold commercially)* – user rating
 [^ref-3]: [GOG.com – Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) – product description, user reviews, technical requirements
 [^ref-4]: [Adventure Classic Gaming – Cheats/Walkthrough](http://www.adventureclassicgaming.com/index.php/site/cheats/492/) – design philosophy quotes, easter eggs, bugs
 [^ref-5]: PlayClassic.games – Conquests of the Longbow *(download link removed: the game is sold commercially)* – game structure, mechanics, endings
-[^ref-6]: MyAbandonware – Conquests of the Longbow *(download link removed: the game is sold commercially)* – release dates, user ratings, trivia
+[^ref-6]: MyAbandonware – Conquests of the Longbow *(download link removed: the game is sold commercially)* – release dates, user ratings, thirteen-day structure, trivia
 [^ref-7]: [Glitchwave – Conquests of the Longbow](https://glitchwave.com/game/conquests-of-the-longbow-the-legend-of-robin-hood/) – user ratings, user review quotes
 [^ref-8]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20230115122019/https://adventuregamers.com/articles/view/18204) – retrospective review, score, analysis
 [^ref-9]: [Choicest Games – Review](https://www.choicestgames.com/2022/01/conquests-of-longbow-legend-of-robin.html) – engine details, composer credits, gameplay analysis
