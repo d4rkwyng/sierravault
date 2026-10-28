@@ -10,20 +10,20 @@ series: Homeworld
 engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Homeworld is a groundbreaking real-time strategy game released on September 28, 1999, that revolutionized the RTS genre by introducing fully three-dimensional space combat.[^ref-1] Developed by Relic Entertainment and published by Sierra Studios, the game follows the Kushan exiles of the planet Kharak as they embark on an epic journey across the galaxy to reclaim their ancient homeworld after their planet is destroyed by the Taiidan Empire.[^ref-1] The game earned universal critical acclaim, achieving a Metacritic score of 93/100—the highest-rated computer game of 1999—and sold over 500,000 copies in its first six months.[^ref-3]
 
-"This groundbreaking RTS franchise redefined what was possible and pushed the boundaries of technology, gameplay, and storytelling," as 2K Games later described it.[^ref-4] Unlike traditional RTS games set on flat battlefields, Homeworld allowed players to move fleets in all three spatial dimensions, creating unprecedented tactical possibilities.[^ref-5] The game's innovative design, combined with its emotionally compelling narrative and atmospheric soundtrack by Paul Ruskay, established it as one of the most influential strategy games ever created, sitting "cheek-by-jowl alongside Doom, Goldeneye N64, Red Alert and Half-Life as generational touchstones."[^ref-6]
+"This groundbreaking RTS franchise redefined what was possible and pushed the boundaries of technology, gameplay, and storytelling," as 2K Games later described it.[^ref-4] Unlike traditional RTS games set on flat battlefields, Homeworld allowed players to move fleets in all three spatial dimensions, creating unprecedented tactical possibilities.[^ref-5] The game's innovative design, combined with its emotionally compelling narrative and atmospheric soundtrack by Paul Ruskay, established it as one of the most influential strategy games ever created; reviewing the 2015 remaster, *Engadget* wrote that Homeworld and Homeworld 2 "sit cheek-by-jowel [sic] alongside Doom, Goldeneye N64, Red Alert and Half-Life as generational touchstones."[^ref-6]
 
 The game was Relic Entertainment's first title, begun by a small team in an office above a nightclub in Vancouver; the studio moved to a larger facility in Vancouver's Yaletown district in April 1998.[^ref-7][^ref-46] Its success spawned an enduring franchise including Homeworld: Cataclysm (2000), Homeworld 2 (2003), and eventually Homeworld 3 (2024), with the original games receiving a comprehensive remaster in 2015 by Gearbox Software after they acquired the IP from THQ's bankruptcy auction for $1.35 million.[^ref-8][^ref-47]
 
@@ -44,7 +44,7 @@ The story of Homeworld begins with a civilization-altering discovery: "100 years
 
 The Mothership's construction demands new technologies, new industries, and tremendous sacrifices from the Kushan people.[^ref-9] Central to the ship's function is the neuroscientist Karan S'jet, who volunteers to be permanently integrated into the Mothership's systems as Fleet Command, serving as the living brain that coordinates all fleet operations.[^ref-9] As the fleet prepares for its maiden voyage, disaster strikes during testing of the hyperdrive. The Kushan's jump triggers an ancient treaty violation, and the Taiidan Empire responds with devastating force, destroying Kharak and its entire population in a planet-wide firestorm.[^ref-1]
 
-The harrowing "Return to Kharak" mission, accompanied by Samuel Barber's "Adagio for Strings," remains one of gaming's most powerful moments.[^ref-11] As Fleet Intelligence reports: "Kharak is being consumed by a firestorm. The Scaffold has been destroyed. All orbital facilities... destroyed. Significant debris ring in low Kharak orbit. Receiving no signals from anywhere in the system... not even beacons."[^ref-12] Karan S'jet's anguished cry—"No one's left. Everything's gone. Kharak is burning...!"—crystallizes the fleet's desperate situation.[^ref-12]
+The "Return to Kharak" mission is accompanied by Samuel Barber's "Adagio for Strings".[^ref-11] As Fleet Intelligence reports: "Kharak is being consumed by a firestorm. The Scaffold has been destroyed. All orbital facilities... destroyed. Significant debris ring in low Kharak orbit. Receiving no signals from anywhere in the system... not even beacons."[^ref-12] Karan S'jet's anguished cry—"No one's left. Everything's gone. Kharak is burning...!"—crystallizes the fleet's desperate situation.[^ref-12]
 
 With only 600,000 survivors in cryogenic storage aboard the Mothership, the Kushan fleet must fight its way across the galaxy, battling the Taiidan Empire while discovering the truth about their exile and their ancient connection to Hiigara.[^ref-13] The plot, which bore "more than a passing resemblance to cult 80s TV series Battlestar Galactica," kept players "guessing as to what you would discover next" throughout the 16-mission campaign, as *Eurogamer* put it when awarding the game its Best Original Storyline Gaming Globe.[^ref-43][^ref-15]
 
@@ -71,7 +71,7 @@ The single-player campaign spans 16 missions following the Kushan fleet's journe
 
 Combat in Homeworld involved managing diverse ship classes from tiny scout fighters to massive heavy cruisers.[^ref-15] Resource gathering required harvesting asteroids and debris fields using Collector ships, with resources used to construct new vessels and research new technologies.[^ref-10] The research system allowed players to unlock increasingly powerful ships and capabilities throughout the campaign.
 
-The game featured two playable factions—Kushan and Taiidan—each with distinct ship designs but equivalent capabilities.[^ref-18] Battles could involve up to 200 ships, requiring careful management of formations, tactics settings, and strike group coordination.[^ref-18] Ship capture using Salvage Corvettes added a unique tactical dimension, allowing players to steal enemy vessels and turn them against their former owners.
+The game featured two playable factions—Kushan and Taiidan—each with distinct ship designs.[^ref-18] Battles could involve up to 200 ships, requiring careful management of formations, tactics settings, and strike group coordination.[^ref-18] Ship capture using Salvage Corvettes added a unique tactical dimension, allowing players to steal enemy vessels and turn them against their former owners.
 
 ## Reception
 
@@ -97,15 +97,15 @@ GameSpot's Kevin VanOrd gave the remaster 8/10, praising how it "beautifully cap
 - **MobyGames:** 8.4/10[^ref-10]
 - **IMDB:** 8.6/10 (344 ratings)[^ref-12]
 - **GOG Users (Remastered Collection):** 4.3/5[^ref-21]
-- **Steam (Remastered Collection):** 87% positive of 7,822 English-language user reviews ("Very Positive")[^ref-49]
+- **Steam (Remastered Collection):** 87% positive of 7,829 English-language user reviews ("Very Positive")[^ref-49]
 
 ## Development
 
 ### Origins
 
-Relic Entertainment was founded in Vancouver, Canada, in May 1997, and began work on Homeworld as its first game.[^ref-3][^ref-46][^ref-51] The company was started by seven founders, Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds,[^ref-46][^ref-51] with operations beginning in a small office above a nightclub in Vancouver; in April 1998 Relic moved to a 12,000 sq. ft. facility in the city's Yaletown district.[^ref-7][^ref-46] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
+Relic Entertainment was founded in Vancouver, Canada, in May 1997, according to co-founder Alex Garden in a GameSpy interview and to MobyGames' company profile.[^ref-51][^ref-46] Wikipedia instead gives June 1, 1997,[^ref-3] though the THQ press release it cites, issued on June 1, 2012 for Relic's 15th anniversary, says only that the studio was "Founded in 1997".[^ref-52] Homeworld was the studio's first game.[^ref-3] The company was started by seven founders, Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds,[^ref-46][^ref-51] with operations beginning in a small office above a nightclub in Vancouver; in April 1998 Relic moved to a 12,000 sq. ft. facility in the city's Yaletown district.[^ref-7][^ref-46] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
 
-The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Indeed, the game was originally intended to be a licensed Battlestar Galactica adaptation, but Relic failed to obtain the rights, leading them to create their own original universe.[^ref-9] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14]
+The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Garden, a big fan of the 1978 series, recalled that the idea grew out of a conversation with friends about how much they loved Battlestar Galactica, "and wouldn't it be great if it was back on TV"; as Jimmy Maher put it, Garden would appropriate "less its surface trappings and more its deeper theme of ragtag refugees searching for a home."[^ref-7] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14]
 
 Surprisingly, the genre itself wasn't initially planned. "There's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke," Garden later admitted.[^ref-1] Garden also drew on what he saw as the limitations of the cockpit-view space game Star Wars: X-Wing vs. TIE Fighter, choosing instead to have the player command a whole fleet from an external view.[^ref-3]
 
@@ -189,14 +189,14 @@ A significant bug in Level 7 "Gardens of Kadesh" could make the mission impossib
 - **Musical Choice:** The "Return to Kharak" mission features Samuel Barber's "Adagio for Strings," which Garden proposed after hearing it on the radio; because the license fees for that recording were too high, Ruskay had a new recording made by a University of California choir.[^ref-3][^ref-11]
 - **Yes Song:** Rock band Yes created a song called "The Ladder" specifically for the game, which played during the credits.[^ref-10] This was removed from the Remastered version due to licensing issues.[^ref-6]
 - **Artist Tribute:** Captain Elson is named after Peter Elson, a cover artist for the Terran Trade Authority books whose art helped inspire Homeworld's ship designs and art style.[^ref-9]
-- **Voice Actor Connection:** Campbell Lane, who voiced the Narrator and Bentusi, was later cast on the 2003 Battlestar Galactica reboot, playing the First Hybrid in the TV movie Razor.[^ref-9]
+- **Voice Actor Connection:** Campbell Lane, who voiced the Narrator and Bentusi, was later cast on the 2003 Battlestar Galactica reboot, playing the Hybrid in the 2007 TV movie *Battlestar Galactica: Razor*.[^ref-9][^ref-54]
 - **Sequel Plans:** The original story for Homeworld 2 was already outlined in 1999 during the first game's development.[^ref-9]
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Karan S'jet (Fleet Command) | Heidi Ernest[^ref-9] |
+| Karan S'jet (Fleet Command) | Heidi Ernest[^ref-9][^ref-38] (see note) |
 | The Narrator / Bentusi Traders | Campbell Lane[^ref-9] |
 | Fleet Intelligence | Michael Sunczyk[^ref-9] |
 | Captain Elson / Kadeshi Ambassador | David Sobolov[^ref-9] |
@@ -204,6 +204,8 @@ A significant bug in Level 7 "Gardens of Kadesh" could make the mission impossib
 | Pilot #2 | Ian James Corlett[^ref-12] |
 | Pilot #3 | Jason Wingham[^ref-12] |
 | Additional Voices | Brian Arnold, Tina Savoie, Lucas Wolf[^ref-12] |
+
+*Note on the Fleet Command credit:* MobyGames' transcription of the in-game credits lists the "Voice of Fleet Command" as Heidi Eaves,[^ref-50] while Paul Ruskay's 2015 Kotaku piece names her as Heidi Ernest,[^ref-38] and IMDb lists the role under Heidi Eaves, credited as Heidi Ernest.[^ref-12]
 
 ## Legacy
 
@@ -225,8 +227,6 @@ Homeworld won numerous awards before and after its release:
 - **2000 Eurogamer Gaming Globes:** Best Original Score (Paul Ruskay and Roger Savoie) and Best Original Storyline[^ref-43]
 - **AIAS:** Nominated for Computer Game of the Year and Computer Strategy Game of the Year[^ref-5]
 
-PC Gamer's original review declared: "So rarely does a computer game take such great strides to forward innovation while maintaining stellar standards of playability... Congratulations to Relic Entertainment and Sierra Studios for resetting the bar for others to follow."[^ref-9]
-
 ### Collections
 
 **Game of the Year Edition (2000):**[^ref-29]
@@ -241,7 +241,7 @@ PC Gamer's original review declared: "So rarely does a computer game take such g
 - Homeworld 2 Remastered Edition
 - Original Classic versions of both games
 - Unified multiplayer mode
-- Steam Workshop support for mods
+- Steam Workshop support for mods[^ref-49]
 
 ### Franchise Continuation
 
@@ -250,7 +250,7 @@ The success of Homeworld spawned a lasting franchise:[^ref-31]
 - **Homeworld 2** (September 2003) – Full sequel by Relic Entertainment
 - **Homeworld Remastered Collection** (February 2015) – HD remaster by [[Gearbox Software]]
 - **Homeworld: Deserts of Kharak** (January 2016) – Ground-based prequel by [[Blackbird Interactive]]
-- **Homeworld Mobile** (October 2022) – Free-to-play mobile MMO by Stratosphere Games
+- **Homeworld Mobile** (October 2022) – Free-to-play mobile MMO by Stratosphere Games[^ref-53]
 - **Homeworld 3** (May 2024) – Long-awaited sequel by Blackbird Interactive
 
 ### Source Code Release
@@ -282,7 +282,7 @@ In a January 2, 2026 retrospective for *The Digital Antiquarian*, gaming histori
 
 Series composer Paul Ruskay created the atmospheric score with minimal resources. "Homeworld's score was born of limitations thanks to Ruskay's 'primitive setup'" of synthesizer, sampler, and sequencer.[^ref-36] He drew inspiration from Vangelis's Blade Runner score, Brian Eno, and Algerian DJ Cheb i Sabbah.[^ref-37] The original DAT tapes of the recording sessions were stored in a shoe box for over a decade before being rediscovered for the remaster.[^ref-36]
 
-"The real challenge with Homeworld Remastered's audio production was recapturing that intangible 'magic' that the audience remembered and expected to re-experience," Ruskay explained.[^ref-38] The remastering process utilized the original 14-year-old DAT tapes, with the complete audio assets ultimately comprising 7,679 files across 1,156 folders totaling 1.63 GB.[^ref-38]
+"The real challenge with Homeworld Remastered's audio production was recapturing that intangible 'magic' that the audience remembered and expected to re-experience," Ruskay explained.[^ref-38] The remastering process utilized the original soundtrack mixes from a DAT tape that had sat in storage for 14 years, and the finished audio assets for both Homeworld and Homeworld 2 comprised 7,679 files across 1,156 folders totaling 1.63 GB.[^ref-38]
 
 ## Downloads
 
@@ -307,10 +307,10 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld](https://en.wikipedia.org/wiki/Homeworld) – release date, developer, platforms, Alex Garden quote about genre
-[^ref-3]: [Wikipedia – Homeworld (Development, Reception)](https://en.wikipedia.org/wiki/Homeworld#Reception) – Metacritic 93 / highest-rated PC game of 1999, 500,000 sold in six months, founding date, credits, inspirations, awards, ELSPA Silver
+[^ref-3]: [Wikipedia – Homeworld (Development, Reception)](https://en.wikipedia.org/wiki/Homeworld#Reception) – Metacritic 93 / highest-rated PC game of 1999, 500,000 sold in six months, June 1, 1997 founding date, credits, inspirations, awards, ELSPA Silver
 [^ref-4]: [2K Games – Homeworld Franchise](https://2k.com/games/homeworld/) – franchise description quote
 [^ref-5]: [Interactive.org – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – AIAS nominations, gameplay features
-[^ref-6]: [Engadget – Homeworld Remastered Review](https://www.engadget.com/2015/02/24/homeworld-remastered-review/) – historical significance quote, Yes song removal
+[^ref-6]: [Engadget – Homeworld Remastered Review](https://www.engadget.com/2015/02/24/homeworld-remastered-review/) – historical significance quote (on Homeworld and Homeworld 2), Yes song removal
 [^ref-7]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2026/01/homeworld/) – Jimmy Maher's Jan 2, 2026 essay; development history, Alex Garden quotes, office location, "seemingly immaculate conception" reappraisal
 [^ref-8]: [Engadget – Gearbox Interview](https://www.engadget.com/2015-02-04-gearbox-homeworld-remastered-interview.html) – Gearbox remaster, Brian Martel quotes
 [^ref-9]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – voice cast, plot details, awards, trivia, patch history
@@ -324,12 +324,12 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-18]: [Game-Over.net – Homeworld Review](https://www.game-over.net/review/oct99/homeworld/) – score, system requirements, ship counts
 [^ref-19]: [IGN – Homeworld Review](http://www.ign.com/articles/1999/10/01/homeworld) – score, Vincent Lopez quotes
 [^ref-20]: [Metacritic – Homeworld Critic Reviews](https://www.metacritic.com/game/homeworld/critic-reviews/?platform=pc) – aggregate score, All Game Guide and GameSpy quotes
-[^ref-21]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – PC Gamer score, technical specs, user reviews
+[^ref-21]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – PC Gamer score, collection contents, user reviews
 [^ref-22]: [IGN – Homeworld Remastered Review](https://archive.today/20150225000233/http://www.ign.com/articles/2015/02/24/homeworld-remastered-collection-review) – Dan Stapleton quotes, score
 [^ref-23]: [GameSpot – Homeworld Remastered Review](https://archive.today/20170306173625/http://www.gamespot.com/reviews/homeworld-remastered-collection-review/1900-6416056/) – Kevin VanOrd quotes, score
 [^ref-24]: [Sierra Studios – Homeworld Is Gold! (archived)](https://web.archive.org/web/20010119103700/http://www.sierrastudios.com/news/990916.shtml) – Sept 16, 1999 press release: gone gold, shipping September 28
 [^ref-25]: [Metacritic – Homeworld Remastered Collection](https://www.metacritic.com/game/homeworld-remastered-collection/critic-reviews/?platform=pc) – aggregate score
-[^ref-27]: [Gearbox Software – Inside the Box](http://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/) – source code size, development tools
+[^ref-27]: [Gearbox Software – Inside the Box](http://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/) ([archived](https://web.archive.org/web/20260312082607/https://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/)) – source code size, development tools
 [^ref-28]: [GameFAQs – Homeworld In-Depth FAQ](https://gamefaqs.gamespot.com/pc/141615-homeworld/faqs/20042) – patch version dates and changes, system requirements quoted from the readme
 [^ref-29]: [MobyGames – Homeworld GOTY Edition](https://www.mobygames.com/game/2579/homeworld-game-of-the-year-edition/) – GOTY contents, pricing
 [^ref-30]: [PCGamingWiki Community – Homeworld Patch](https://community.pcgamingwiki.com/files/file/65-homeworld-patch/) – v1.05 patch notes
@@ -339,7 +339,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-35]: [Gearbox Publishing – Homeworld 3 Announcement (archived)](https://web.archive.org/web/20260211005626/https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – Rob Cunningham quote
 [^ref-36]: [Black Screen Records – Homeworld Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-remastered) – Paul Ruskay background, DAT tapes
 [^ref-37]: [Black Screen Records – Homeworld 2 Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-2-remastered) – musical influences
-[^ref-38]: [Kotaku – Homeworld Soundtrack Overhaul](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Paul Ruskay quotes, audio asset statistics
+[^ref-38]: [Kotaku – Homeworld Soundtrack Overhaul](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Paul Ruskay quotes, audio asset statistics (HW and HW2 combined), Heidi Ernest as Fleet Command
 [^ref-39]: [ComputerAndVideoGames.com – Games That Changed the World: Homeworld (archived)](https://web.archive.org/web/20070630222243/http://www.computerandvideogames.com/article.php?id=103091) – PC Zone feature: sales passed 250,000 within a few weeks
 [^ref-40]: [ELSPA – Sales Awards: Silver (archived)](https://web.archive.org/web/20090221154943/http://www.elspa.com/?i=3942) – Homeworld (PC) listed among Silver award titles
 [^ref-41]: [Game Critics Awards – 1998 Winners](http://www.gamecriticsawards.com/1998winners.html) – Most Promising New Game and Best Real-Time Strategy Game
@@ -350,6 +350,9 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-46]: [MobyGames – Relic Entertainment](https://www.mobygames.com/company/278/) – nightclub office, April 1998 move to Yaletown
 [^ref-47]: [Engadget – THQ Auction Results](https://www.engadget.com/2013/04/22/thq-auction-darksiders-red-faction-homeworld/) – Gearbox's $1.35M winning bid for Homeworld
 [^ref-48]: [GamingBolt – Homeworld Remastered Collection to Include Original Games](https://gamingbolt.com/homeworld-remastered-collection-to-include-original-games-supports-4k-resolutions) – Gearbox blog quote on fans, mod makers and series veterans
-[^ref-49]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – user review summary
+[^ref-49]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – user review summary, Steam Workshop feature
 [^ref-50]: [MobyGames – Homeworld Credits (Windows)](https://www.mobygames.com/game/296/homeworld/credits/windows/) – full development credits
 [^ref-51]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
+[^ref-52]: [Gamasutra – Relic Entertainment Celebrates 15th Anniversary (archived)](https://web.archive.org/web/20161010173251/http://www.gamasutra.com/view/pressreleases/171655/RELIC_ENTERTAINMENTreg_CELEBRATES_15TH_ANNIVERSARY.php) – THQ press release dated June 1, 2012: "Founded in 1997 on a personal credit card and based out of a 1,600 sq. ft. office above a night club"
+[^ref-53]: [Gearbox Publishing – Homeworld Mobile Launches Globally on iOS and Android (archived)](https://web.archive.org/web/20221209233229/https://www.gearboxpublishing.com/press_release/homeworld-mobile-launches-globally-on-ios-and-android/) – October 11, 2022 global launch; free-to-play MMO developed by Stratosphere Games
+[^ref-54]: [IMDb – Battlestar Galactica: Razor (2007), Full Cast & Crew](https://www.imdb.com/title/tt0991178/fullcredits/) – Campbell Lane as the Hybrid
