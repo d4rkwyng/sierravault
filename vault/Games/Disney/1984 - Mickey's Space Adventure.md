@@ -10,28 +10,28 @@ series: Disney Educational Series
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
   by Sierra On-Line in collaboration with Walt Disney Computer Software, released
-  in...
+  in December 1984.
 tags: [1980s, al-lowe, disney-educational-series, educational, roberta-williams,
   sierra]
 ---
 # Mickey's Space Adventure
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Mickey's Space Adventure is a graphic adventure computer game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984.[^ref-1] It was one of the first computer games to star Mickey Mouse; the Disney Fandom wiki calls it the very first,[^ref-2] but Atari's *Sorcerer's Apprentice* for the Atari 2600 had already cast the player as Mickey in December 1983.[^ref-36] Designed by [[Roberta Williams]] with music composed by [[Al Lowe]],[^ref-8][^ref-32] the game was an early product of Sierra's Disney contract, which later produced titles such as Donald Duck's Playground and The Black Cauldron.[^ref-3]
+Mickey's Space Adventure is a graphic adventure computer game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984.[^ref-1] It was one of the first computer games to star Mickey Mouse; the Disney Fandom wiki calls it the first Mickey computer game,[^ref-2] while Atari's *Sorcerer's Apprentice* (Atari 2600, December 1983) had already starred him in a console game.[^ref-36] Designed by [[Roberta Williams]] with music composed by [[Al Lowe]],[^ref-8][^ref-32] the game was an early product of Sierra's Disney contract, which also produced Donald Duck's Playground and, later, The Black Cauldron.[^ref-3][^ref-1]
 
 The game features Mickey Mouse and his faithful companion Pluto embarking on an interplanetary quest across the solar system, collecting nine pieces of a fragmented memory crystal for an alien race from the planet Oron.[^ref-4] As an educational title aimed at children, the game combines adventure gameplay with lessons about astronomy, planetary science, and problem-solving skills, exploring the solar system through approximately 150 captivating scenes.[^ref-5] The game was marketed under the Walt Disney Personal Computer Software banner with the motto "Playing for fun/learning for life," with its publisher's description promising to capture "your child's imagination while developing skills and knowledge."[^ref-7][^ref-5]
 
 Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified, typing-free interface aimed at young players of reading age.[^ref-6] Reviewing it alongside Winnie the Pooh in the Hundred Acre Wood, Apple User noted that software houses often build games around famous characters in the hope that the character sells the game, but concluded of both titles that "they deserve to succeed on merit alone."[^ref-7]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Walt [[Disney]] Computer Software[^ref-4]
+> **Developer:** [[Sierra On-Line]], Walt Disney Computer Software[^ref-4]
 > **Design/Writing:** [[Roberta Williams]], The Walt Disney Personal Computer Software Staff[^ref-32]
 > **Music:** [[Al Lowe]][^ref-8]
 > **Publisher:** Sierra On-Line, U.S. Gold Ltd., Tandy Corporation[^ref-9]
@@ -94,7 +94,7 @@ A MobyGames user review called it "the Disney-licensed game that teaches childre
 
 ### Modern Assessment
 
-Modern retrospectives have generally viewed Mickey's Space Adventure favorably as a nostalgic piece of early educational gaming. Lemon64 users rate it 8/10 (3 votes), one commenter calling it "My first adventure game!"[^ref-17] A Grouvee user review wrote that "every screen is absolutely gorgeous, from the colors to the flashing crystals to the varied facial expressions and happy kid-friendly vibe."[^ref-20]
+Modern user scores are mixed, from 1.54/5 on Glitchwave (3 ratings)[^ref-23] to 8/10 on Lemon64 (3 votes), where one commenter called it "My first adventure game!"[^ref-17] A Grouvee user review wrote that "every screen is absolutely gorgeous, from the colors to the flashing crystals to the varied facial expressions and happy kid-friendly vibe."[^ref-20]
 
 Another Grouvee user review judged it "a more complex adventure" than Sierra's two previous educational adventures, one that "requires you to explore them, manage an inventory and solve simple puzzles."[^ref-20]
 
@@ -109,11 +109,11 @@ Another Grouvee user review judged it "a more complex adventure" than Sierra's t
 
 ### Origins
 
-Mickey's Space Adventure originated as a joint project between Sierra On-Line and Disney prior to their later collaboration on The Black Cauldron.[^ref-1] The game was intended specifically for children, representing Sierra's push into the educational market using Disney's beloved characters.[^ref-1] The collaboration gave Sierra access to Mickey Mouse and Pluto for one of the earliest computer games to feature them.[^ref-2][^ref-36]
+Mickey's Space Adventure originated as a joint project between Sierra On-Line and Disney prior to their later collaboration on The Black Cauldron.[^ref-1] The game was intended for children.[^ref-1] The collaboration gave Sierra access to Mickey Mouse and Pluto for one of the earliest computer games to feature them.[^ref-2][^ref-36]
 
 ### Production
 
-The game was designed by [[Roberta Williams]], already known for the King's Quest series, together with the Walt Disney Personal Computer Software staff; Peter A. Oliphant wrote the Apple and Commodore programs.[^ref-32][^ref-30][^ref-28] [[Al Lowe]], later the creator of Leisure Suit Larry, composed the music.[^ref-35] Some sites, such as DOSGames.com, credit the whole game to Lowe,[^ref-6] but Lowe himself writes: "'Mickey's Space Adventure' was designed by Roberta Williams, but I did create the music for it."[^ref-8]
+The game was designed by [[Roberta Williams]], together with the Walt Disney Personal Computer Software staff; Peter A. Oliphant wrote the Apple and Commodore programs.[^ref-32][^ref-30][^ref-28] [[Al Lowe]], later the creator of Leisure Suit Larry, composed the music.[^ref-35] Some sites, such as DOSGames.com, credit the whole game to Lowe,[^ref-6] but Lowe himself writes: "'Mickey's Space Adventure' was designed by Roberta Williams, but I did create the music for it."[^ref-8]
 
 **Development Credits (Apple II / Commodore 64):**[^ref-32]
 - **Designed by:** [[Roberta Williams]], The Walt Disney Personal Computer Software Staff
@@ -178,9 +178,9 @@ A known compatibility issue exists with the PCjr version: the game does not work
 
 ### Easter Eggs and Trivia
 
-- **Early Mickey Mouse Computer Game:** The Disney Fandom wiki calls it the first computer game to feature Mickey Mouse,[^ref-2] though Atari's *Sorcerer's Apprentice* (Atari 2600, December 1983) had already starred him.[^ref-36]
+- **Early Mickey Mouse Computer Game:** The Disney Fandom wiki calls it the first computer game to feature Mickey Mouse;[^ref-2] Atari's *Sorcerer's Apprentice* (Atari 2600, December 1983) had already starred him in a console game.[^ref-36]
 - **Alternate Ending:** Players who choose to write a letter to Minnie Mouse during the game receive an alternate ending where Minnie appears to celebrate Mickey's return.[^ref-11][^ref-16]
-- **Educational Manual:** The manual is full of astronomical trivia that also serves as copy protection, since it is needed to operate the navigation system.[^ref-20]
+- **Educational Manual:** A Grouvee user review says the manual's astronomical trivia also serves as copy protection, since it is needed to operate the navigation system.[^ref-20] Walkthroughs, however, have the player read the planet coordinates from a chart aboard the ship,[^ref-16][^ref-14] and Pixelated Arcade tags the game's copy protection as "Key Disk/Tape".[^ref-19]
 - **Planet Count:** The game features all nine planets of the solar system, including Pluto which was still classified as a planet at the time.[^ref-16]
 - **Weight Mechanic:** Mickey weighs 100 lb on Earth; his bathroom scale shows how his weight changes under each planet's gravity.[^ref-7][^ref-16]
 
@@ -197,15 +197,19 @@ The alternate ending depends only on whether the player writes the optional lett
 
 ### Sales and Commercial Impact
 
-Mickey's Space Adventure was part of Sierra's profitable contract with Disney that produced several successful educational titles.[^ref-3] No sales figures have been found. Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
+Mickey's Space Adventure was an early product of Sierra's profitable contract with Disney.[^ref-3] No sales figures have been found. Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
 
 ### Collections
 
 A very rare school version of the game was released directly to educational institutions, independent of Sierra's retail distribution.[^ref-26] This version included a Teacher's Guide and Activity Sheets, enhancing its educational utility in classroom settings.[^ref-26] This educational variant appears to have been produced by Walt Disney Personal Computer Software separately from Sierra, despite the game content being identical.[^ref-26]
 
+### Freeware Release
+
+Al Lowe offers the DOS version as a free download on his personal website, writing that these games "are no longer of any interest to my friends at Disney or Sierra, so feel free to copy them and share them with your friends."[^ref-8]
+
 ### Fan Projects
 
-Al Lowe has made the game available as freeware through his personal website, ensuring continued access to this piece of gaming history.[^ref-8] The game can be run through modern emulation solutions including ScummVM recreation possibilities.[^ref-27]
+The DOS Games Archive notes that the game can be played on Windows through ScummVM's engine recreation.[^ref-27]
 
 ### Related Publications
 
@@ -217,7 +221,7 @@ Al Lowe has made the game available as freeware through his personal website, en
 
 Mickey's Space Adventure was one of the earliest computer games to star Mickey Mouse,[^ref-2][^ref-36] and it set out to teach children about the solar system, gravity and science through an adventure game.[^ref-7][^ref-19]
 
-Apple User's reviewers reported that their seven-year-old "has enjoyed learning about the planets, a topic which she had previously described as boring."[^ref-7] The game kept adventure mechanics such as exploration and puzzle-solving while dropping the typed parser,[^ref-19][^ref-20] and the Sierra-Disney contract behind it went on to produce Donald Duck's Playground and The Black Cauldron.[^ref-3]
+Apple User's reviewers reported that their seven-year-old "has enjoyed learning about the planets, a topic which she had previously described as boring."[^ref-7] The game kept adventure mechanics such as exploration and puzzle-solving while dropping the typed parser,[^ref-19][^ref-20] and the Sierra-Disney contract behind it also produced Donald Duck's Playground and, later, The Black Cauldron.[^ref-3][^ref-1]
 
 ## Purchase
 
@@ -243,7 +247,7 @@ Apple User's reviewers reported that their seven-year-old "has enjoyed learning 
 ## References
 
 [^ref-1]: [Wikipedia – Mickey's Space Adventure](https://en.wikipedia.org/wiki/Mickey's_Space_Adventure) – release date, platforms, development history, plot summary
-[^ref-2]: [Disney Fandom Wiki – Mickey's Space Adventure](https://disney.fandom.com/wiki/Mickey's_Space_Adventure) – first Mickey computer game, XL30 dialogue, technical specifications
+[^ref-2]: [Disney Fandom Wiki – Mickey's Space Adventure](https://disney.fandom.com/wiki/Mickey's_Space_Adventure) – "first computer game to feature Mickey Mouse" claim, XL30 dialogue, crystal locations, planet order
 [^ref-3]: [My Abandonware – Mickey's Space Adventure](https://www.myabandonware.com/game/mickey-s-space-adventure-8k) – HOTUD review, Sierra-Disney contract history
 [^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Mickeys_Space_Adventure_1986) – game description, release dates, developers
 [^ref-5]: [GameFAQs – PC Version](https://gamefaqs.gamespot.com/pc/582546-mickeys-space-adventure) – scene count, educational focus, user ratings
@@ -256,7 +260,7 @@ Apple User's reviewers reported that their seven-year-old "has enjoyed learning 
 [^ref-12]: [MobyGames User Review](https://www.mobygames.com/game/7273/mickeys-space-adventure/user-review/2282656/) – educational value, space teaching
 [^ref-13]: [Internet Archive – Commodore 64 Version](https://archive.org/details/mickey_c64) – XL30 quest, cursor interface description
 [^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/582546-mickeys-space-adventure/faqs/18363) – gameplay guide, planet progression, endings
-[^ref-20]: [Grouvee User Review – giopep](https://www.grouvee.com/games/13157-mickeys-space-adventure/) – complexity assessment, inventory management
+[^ref-20]: [Grouvee – user reviews](https://www.grouvee.com/games/13157-mickeys-space-adventure/) – user rating, complexity assessment, inventory management, graphics praise, copy-protection remark
 [^ref-16]: [Sierra Chest Walkthrough](https://www.sierrachest.com/index.php?a=games&id=263&title=mickeys-space-adventure&fld=walkthrough&pid=100) – nine crystals, randomized order, letter mechanic
 [^ref-17]: [Lemon64 – Mickey's Space Adventure](https://www.lemon64.com/game/mickeys-space-adventure) – C64 details, user review, Peter Oliphant credit, joystick support
 [^ref-19]: [Pixelated Arcade – Mickey's Space Adventure](https://pixelatedarcade.com/games/mickey-s-space-adventure) – age recommendation, manual contents, designers
