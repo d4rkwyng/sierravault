@@ -10,19 +10,20 @@ series: Dr. Brain
 engine: Unconfirmed (not SCI)
 protagonist: Player (guided by Elaina)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 composer: [Jonathan Cunningham]
 description: The Lost Mind of Dr. Brain is an educational puzzle game released in
-  August 1995 by Sierra On-Line, developed by Bright Star Technology. The third...
+  August 1995 by Sierra On-Line, developed by Bright Star Technology. The third game
+  in the Dr. Brain series, it focuses on puzzles about the human brain.
 tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Lost Mind of Dr. Brain
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-The Lost Mind of Dr. Brain is an educational puzzle game released in August 1995 by Sierra On-Line, developed by Bright Star Technology.[^ref-1] The third installment in the popular Dr. Brain series, the game focuses specifically on the human brain, featuring puzzles related to spatial orientation, memorization, and symbolic association.[^ref-2] Unlike the previous games which featured explorable environments, this entry restricts players to a single area—Dr. Brain's laboratory—with puzzles accessed from a central "map" screen.[^ref-1]
+The Lost Mind of Dr. Brain is an educational puzzle game released in August 1995 by Sierra On-Line, developed by Bright Star Technology.[^ref-1] The third installment in the popular Dr. Brain series,[^ref-15] the game focuses specifically on the human brain, featuring puzzles related to spatial orientation, memorization, and symbolic association.[^ref-1][^ref-2] Unlike the previous games which featured explorable environments, this entry restricts players to a single area—Dr. Brain's laboratory—with puzzles accessed from a central "map" screen.[^ref-1]
 
 The box promises more than 1,000 puzzles "developed in accordance with the results of specific research,"[^ref-3] and a product description ties the puzzles to Dr. Howard Gardner's Theory of Multiple Intelligences.[^ref-20] In a departure from the series norm, Dr. Brain himself is incapacitated, and his niece Elaina (voiced by Kayce Glasse) serves as the player's guide through Dr. Brain's mental pathways.[^ref-2] It won the Software Publishers Association (SPA) award for Best Home Learning Game for Adolescents in 1995.[^ref-4][^ref-1]
 
@@ -43,7 +44,7 @@ The game opens with Dr. Thaddeus P. Brain, the Third—who proudly proclaims tha
 
 The experiment goes wrong: Dr. Brain transfers his mind to the rat "and leaves himself a vegetable."[^ref-6] Elaina had warned him against it; Obscuritory's account blames "a technical snafu involving a large block of cheese."[^ref-17] The results are, as the game's marketing describes, "mind-boggling."[^ref-7]
 
-Dr. Brain's niece Elaina guides the player through the recovery. In the game's dialogue, the plan is to "reverse-engineer every brain puzzle Dr. Brain has ever solved and reconstruct Dr. Brain's brains, section by section."[^ref-30] Rathbone comments on each puzzle type and changes his accent "from cowboy to Scotsman and more."[^ref-8]
+Dr. Brain's niece Elaina guides the player through the recovery. In the game's dialogue, the plan is to "reverse-engineer every brain puzzle Dr. Brain has ever solved and reconstruct Dr. Brain's brains, section by section."[^ref-30] Rathbone comments on each puzzle type and changes his accent "from cowboy to Scotsman and more."[^ref-8][^ref-13]
 
 ## Gameplay
 
@@ -68,7 +69,7 @@ The game contains 10 different brain puzzle sections, with 9 initially available
 
 ### Puzzles and Mechanics
 
-Each puzzle is intended to improve memory, spatial orientation, and logic.[^ref-14] Players can switch between three difficulty levels (Novice, Expert, and Genius) at any time.[^ref-15][^ref-29] Each solved puzzle restores 5%, 10% or 15% of its brain region, depending on difficulty.[^ref-6][^ref-20]
+The puzzles centre on spatial orientation, memorization, and symbolic association.[^ref-1] Players can switch between three difficulty levels (Novice, Expert, and Genius) at any time.[^ref-15][^ref-29] Each solved puzzle restores 5%, 10% or 15% of its brain region, depending on difficulty.[^ref-6][^ref-20]
 
 Giant Bomb sums up the topics as "memorization, programming, and musical reading."[^ref-10] Phil Salvador observed that because the games "test brain function and talent rather than drilling facts," they "still hold up years later."[^ref-17]
 
@@ -98,7 +99,7 @@ Players who grew up with it remember it fondly. One user on GOG's wishlist descr
 
 ### Origins
 
-The Dr. Brain series, designed by [[Corey Cole]], began with Castle of Dr. Brain (1991), which was made by an in-house Sierra team.[^ref-21] After the second game, Sierra acquired Bright Star Technology, and the series was turned over to a Bright Star team.[^ref-21][^ref-10] Where the earlier games' puzzles ranged across art, science, memory and words, this entry focuses solely on the human brain.[^ref-1]
+The Dr. Brain series began with Castle of Dr. Brain (1991), designed by [[Corey Cole]] and made by an in-house Sierra team.[^ref-21][^ref-31] After the second game, Sierra acquired Bright Star Technology, and the series was turned over to a Bright Star team.[^ref-21][^ref-10] Where the earlier games' puzzles ranged across art, science, memory and words, this entry focuses solely on the human brain.[^ref-1]
 
 The game was originally titled "Dr. Brain 3: Brain Damage".[^ref-22][^ref-17]
 
@@ -147,8 +148,8 @@ According to The Cutting Room Floor, two incomplete puzzle games called "Hydra" 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 1995 | Windows 3.x, Macintosh | Initial release[^ref-1] |
-| 1.0 | 1995 | Windows 95 | Updated Windows release[^ref-10] |
+| — | August 1995 | Windows 3.x, Macintosh | Initial release[^ref-1] |
+| — | 1995 | Windows 95 | Updated Windows release[^ref-10] |
 | Retail listing | May 10, 2002 | Windows 95/98, Mac OS 9 | Amazon "Date First Available" for a Vivendi Universal-manufactured listing. Not confirmed as a distinct re-release.[^ref-7] |
 
 **Shareware Version:**[^ref-6]
@@ -172,13 +173,13 @@ A Sierra Gamers forum user wrote that the game "was designed to work under Windo
 | Elaina (Dr. Brain's niece) | Kayce Glasse[^ref-2][^ref-25] |
 | Rathbone (Lab rat) | Not separately credited. MobyGames lists only Sherwood and Glasse as voice talent.[^ref-13] |
 
-Elaina is the player's guide,[^ref-2] while Rathbone comments on the puzzles in a range of accents.[^ref-8]
+Elaina is the player's guide,[^ref-2] while Rathbone comments on the puzzles in a range of accents and personas.[^ref-8][^ref-13]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No sales figure for this game alone has been found. According to Sierra, combined sales of the whole Dr. Brain series passed 350,000 units by the end of March 1996.[^ref-21] The Lost Mind of Dr. Brain won the SPA award for Best Home Learning Game for Adolescents in 1995.[^ref-4][^ref-1]
+No sales figure for this game alone has been found. According to Sierra, combined sales of the whole Dr. Brain series passed 350,000 units by the end of March 1996.[^ref-21][^ref-32] The Lost Mind of Dr. Brain won the SPA award for Best Home Learning Game for Adolescents in 1995.[^ref-4][^ref-1]
 
 ### Collections
 
@@ -235,7 +236,6 @@ Both contemporary and later reviewers held that the game works as entertainment,
 [^ref-11]: [GameFAQs – The Lost Mind of Dr. Brain Guide](https://gamefaqs.gamespot.com/pc/575683-the-lost-mind-of-dr-brain/faqs/44688) – technical requirements, auto-save feature, puzzle count
 [^ref-12]: [UHS Hints – The Lost Mind of Dr. Brain](https://www.uhs-hints.com/uhsweb/drbrain3.php) – puzzle region names and descriptions
 [^ref-13]: [MobyGames – The Lost Mind of Dr. Brain](https://www.mobygames.com/game/2605/the-lost-mind-of-dr-brain/) – critic score, Adam Baratz review, lip-sync technology, Easter egg
-[^ref-14]: [ClassicReload – The Lost Mind of Dr. Brain](https://classicreload.com/win3x-the-lost-mind-of-dr-brain.html) – cognitive skills focus, educational design
 [^ref-15]: [NeverDieMedia – The Lost Mind of Dr. Brain](https://www.neverdiemedia.com/products/the-lost-mind-of-dr-brain) – difficulty levels, platform details
 [^ref-17]: [The Obscuritory – Lost Mind of Dr. Brain](https://obscuritory.com/puzzle/lost-mind-of-dr-brain/) – Phil Salvador review quotes, original title
 [^ref-18]: [GOG Wishlist – The Lost Mind of Dr. Brain](https://www.gog.com/wishlist/games/the_lost_mind_of_dr_brain) – user nostalgia quotes
@@ -250,3 +250,5 @@ Both contemporary and later reviewers held that the game works as entertainment,
 [^ref-28]: [Next Generation #9, September 1995 (Internet Archive full text)](https://archive.org/download/nextgen-issue-009/Next_Generation_Issue_009_September_1995_djvu.txt) – "Finals" Macintosh review, 3 stars
 [^ref-29]: [Macworld, October 1995 (Internet Archive full text)](https://archive.org/download/MacWorld_9510_October_1995/MacWorld_9510_October_1995_djvu.txt) – Deke McClelland review, p. 93
 [^ref-30]: [IMDb – The Lost Mind of Dr. Brain: Dr. Brain quotes](https://www.imdb.com/title/tt0455148/characters/nm1022189/) – Brain Drain, honeybee test, reconstruction plan
+[^ref-31]: [Computer Gaming World #94, May 1992 (Internet Archive full text)](https://archive.org/download/Computer_Gaming_World_Issue_94/Computer_Gaming_World_Issue_94_djvu.txt) – Castle of Dr. Brain review box, "DESIGNER: Corey Cole"
+[^ref-32]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (Wayback copy of SEC filing)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "The Company has sold more than 350,000 copies in this series"
