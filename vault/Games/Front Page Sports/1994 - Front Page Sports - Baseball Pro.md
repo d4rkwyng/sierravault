@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Sports
 platforms: [DOS]
 series: Front Page Sports
-engine: 'Not documented (audio: HMI Sound Operating System)'
+engine: 'Not documented (sound engine by Human Machine Interfaces)'
 protagonist: Team Manager (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Front Page Sports: Baseball ''94 is a 1994 DOS baseball simulation developed
   by Dynamix and published by Sierra On-Line, the first baseball game in the Front Page
   Sports line, combining career-league management with physics-based on-field play.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball '94
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The game followed Dynamix's Front Page Sports football games. Computer Gaming Wo
 > **Developer:** [[Dynamix]][^ref-19]
 > **Designer:** L. Allen McPheeters (lead); [[Scott Youngblood]], [[Doug Johnson]] (additional design)[^ref-20]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-19][^ref-22]
-> **Engine:** Not documented; audio by HMI's Sound Operating System[^ref-19][^ref-22]
+> **Engine:** Not documented; sound engine by Human Machine Interfaces (HMI)[^ref-19][^ref-22]
 > **Platforms:** DOS[^ref-19]
 > **Release Year:** 1994[^ref-19]
 > **Series:** Front Page Sports
@@ -94,7 +94,7 @@ The game includes twelve ballparks: The Ballpark at Arlington, the Astrodome, At
 | PC Joker (Nov 1994) | 72 | German magazine[^ref-24] |
 | Next Generation (Apr 1995) | 4/5 stars | Issue 4[^ref-9][^ref-25] |
 
-MobyGames records a critic average of 77% from nine ratings[^ref-19]. George Jones wrote in CGW that the game "will be the baseball sim once a few glitches are ironed out", adding: "I'm a die-hard Tony LaRussa II fan, but I'll be switching to this game."[^ref-26] The review's cons noted that a full season took 36 hours on a Pentium, and that there were "some bugs to fix"[^ref-26]. He also flagged fielder AI that skips easy force-outs, too many hit batsmen, and sound-card detection problems[^ref-26]. PC Gamer wrote that "The career play, physics-based action, and unmatched graphics and sound set a new standard for baseball simulations," but that "Weak stats and a few annoying bugs" kept it from an Editor's Choice Award[^ref-24]. Next Generation called it "the best diamond sim"[^ref-25].
+MobyGames recorded a critic average of 78% from eight ratings as of August 2025[^ref-19]. George Jones wrote in CGW that the game "will be the baseball sim once a few glitches are ironed out", adding: "I'm a die-hard Tony LaRussa II fan, but I'll be switching to this game."[^ref-26] The review's cons noted that a full season took 36 hours on a Pentium, and that there were "some bugs to fix"[^ref-26]. He also flagged fielder AI that skips easy force-outs, too many hit batsmen, and sound-card detection problems[^ref-26]. PC Gamer wrote that "The career play, physics-based action, and unmatched graphics and sound set a new standard for baseball simulations," but that "Weak stats and a few annoying bugs" kept it from an Editor's Choice Award[^ref-24]. Next Generation called it "the best diamond sim"[^ref-25].
 
 Not every critic was won over. A May 1995 CGW roundup of baseball games called the game "statistically suspect": player ratings barely changed from year to year, and the on-field fielding display was too basic. It also complained that the game "takes days to simulate a full season"[^ref-30].
 
@@ -131,7 +131,7 @@ MobyGames lists 63 people in the credits (48 developers, 15 thanks)[^ref-19]. Ke
 | Sound Effects | Christopher Stevens |
 | Manual Writer | Randy Chase |
 
-Bill James is among those listed under special thanks[^ref-20]. The sound engine was HMI's Sound Operating System, and STATS, Inc. contributed to the release[^ref-19][^ref-22]. At launch CGW listed the price as $54.95, while Computer Game Review gave a retail price of $59.95[^ref-26][^ref-32].
+Bill James is among those listed under special thanks[^ref-20]. The sound engine was by Human Machine Interfaces (HMI), and STATS, Inc. contributed to the release[^ref-19][^ref-22]. At launch CGW listed the price as $54.95, while Computer Game Review gave a retail price of $59.95[^ref-26][^ref-32].
 
 ### Version History
 
@@ -141,7 +141,7 @@ Bill James is among those listed under special thanks[^ref-20]. The sound engine
 | 1.01 | 12/2/94 (listed in CGW, February 1995) | "fixes many reported problems, including crash bugs and General Manager AI"[^ref-28] |
 | 1.02 | 2/3/95 (listed in CGW, April 1995) | Also fixes "roster handling bugs"[^ref-29] |
 
-An official add-on, *Front Page Sports: Baseball '94 – Legends & Stadiums* (1994), added rosters and stats for 48 of the greatest teams in baseball history and 16 more big-league ballparks[^ref-35]. CGW's May 1995 roundup described it as "much delayed"[^ref-30].
+An official add-on, *Front Page Sports: Baseball '94 – Legends & Stadiums*, added rosters and stats for 48 of the greatest teams in baseball history and 16 more big-league ballparks[^ref-35]. CGW's May 1995 roundup described it as "much delayed" and still on its way[^ref-30].
 
 ## Legacy
 
@@ -178,7 +178,7 @@ CGW reported in May 1995 that a *Front Page Sports: Baseball '95* had been in th
 [^ref-4]: [Baseball is My Life – Front Page Sports: Baseball Pro](https://baseballismy.life/baseball-video-games/front-page-sports-baseball-pro/) – first-edition description: 1994 MLB players, career mode, player editor
 [^ref-9]: [Wikipedia – Front Page Sports Baseball](https://en.wikipedia.org/wiki/Front_Page_Sports_Baseball) – Next Generation #4 four-of-five-star rating; '96 and '98 release dates
 [^ref-18]: [Old-Games.com – Front Page Sports Baseball Pro (1994)](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – league options, roster tiers, player ratings, 12 ballparks, CAMS, retrospective assessment
-[^ref-19]: [MobyGames – Front Page Sports: Baseball '94](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/) – DOS 1994, Dynamix/Sierra On-Line, description, 63 credits, 77% critic average, player ratings
+[^ref-19]: [MobyGames – Front Page Sports: Baseball '94](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/) – DOS 1994, Dynamix/Sierra On-Line, description, 63 credits, 78% critic average from 8 ratings per the [August 2025 archived copy](https://web.archive.org/web/20250808112057/https://www.mobygames.com/game/4437/front-page-sports-baseball-94/), player ratings
 [^ref-20]: [MobyGames – Front Page Sports: Baseball '94 credits (DOS)](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/credits/dos/) – design, programming, art, audio and special-thanks credits
 [^ref-21]: [MobyGames – Front Page Sports: Baseball '94 tech specs](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/specs/) – i386, DOS 4.0–6.22, 4 MB RAM, 15 MB disk, VGA, sound cards, input devices
 [^ref-22]: [MobyGames – Front Page Sports: Baseball '94 releases](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/releases/) – US/UK 1994 releases, HMI sound engine, STATS, Inc. contribution
