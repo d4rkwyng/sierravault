@@ -10,20 +10,20 @@ series: Civil War Generals
 engine: null
 protagonist: Army Commander (Union or Confederate)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: 'Turn-based hex wargame from Impressions Games and Sierra On-Line (1997), the sequel to Robert E. Lee: Civil War General, letting players fight the American Civil War from either side in both theaters.'
 tags: [1990s, civil-war-generals, impressions-games, sierra, strategy, wargame]
 composer: [Keith Zizza]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Civil War Generals 2: Grant, Lee, Sherman is a turn-based wargame of the American Civil War, developed by Impressions Games and published by Sierra On-Line for Windows in October 1997[^ref-62]. It is the sequel to Robert E. Lee: Civil War General (1996)[^ref-62], and it was designed by Douglas Gonya and produced by Stephen Grammont, building on Jeffrey Fiske's design for the first game[^ref-63]. Where its predecessor covered only Lee's Confederate war in the East, the sequel lets the player take either side in the Eastern or Western theater[^ref-13].
+Civil War Generals 2: Grant, Lee, Sherman is a turn-based wargame of the American Civil War, developed by Impressions Games and published by Sierra On-Line for Windows in October 1997[^ref-62]. It is the sequel to Robert E. Lee: Civil War General (1996)[^ref-62], and it was designed by Douglas Gonya and produced by Stephen Grammont, building on Jeffrey Fiske's design for the first game[^ref-63]. Where its predecessor covered only Lee's Confederate war in the East[^ref-40], the sequel lets the player take either side in the Eastern or Western theater[^ref-13].
 
-Battles are fought on a hex map[^ref-62]. The game offers single battles, mini-campaigns and the whole war, plus a terrain editor and Internet, modem and network play[^ref-62]. GameSpot counted 17 campaigns and over 200 predesigned scenarios[^ref-14]. Its producer later said it "wound up selling a lot. A lot more than they thought it would"[^ref-56]. Critics were split: PC Gamer gave it 86%[^ref-66], while Computer Gaming World called its combat system "completely broken"[^ref-67]. One fan's later verdict was that "Civil War Generals 2 has been the best Civil War game I could fine as most focus on WWII or other wars"[^ref-4].
+Battles are fought on a hex map[^ref-62]. The game offers single battles, mini-campaigns and the whole war, plus a terrain editor and Internet, modem and network play[^ref-62]. GameSpot counted 17 campaigns and over 200 predesigned scenarios[^ref-14]. Its producer later said it "wound up selling a lot. A lot more than they thought it would"[^ref-56]. Critics were split: PC Gamer gave it 86%[^ref-66], while Computer Gaming World called its combat system "completely broken"[^ref-67]. One fan's later verdict was that "Civil War Generals 2 has been the best Civil War game I could fine [sic] as most focus on WWII or other wars"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-62]
@@ -78,7 +78,7 @@ A scenario editor lets players change existing battles or build a battlefield fr
 |-------------|-------|-------|
 | PC Gamer US (Feb 1998) | 86% | Keith Sullivan: "a good, competent offering" for casual war and strategy gamers[^ref-66] |
 | GameSpot | 6.7/10 | Michael E.: "a good game, but not a great one"[^ref-30] |
-| Computer Gaming World (Dec 1997) | 2/5 | Jim Cobb: "anything but an improvement"[^ref-67] |
+| Computer Gaming World (via GameSpot, Dec 19, 1997) | 2/5 | Jim Cobb: "anything but an improvement"[^ref-67] |
 | Computer Games Strategy Plus | — | Jim Pedicord: "the game the original should have been"[^ref-68] |
 
 Keith Sullivan of PC Gamer praised a "historical scope that is simply breathtaking", the morale system and the historical module. He found the graphics "merely adequate", the AI "barely adequate", and the music repetitive. He concluded the game was "not the be all and end all of Civil War games for the hard-core wargamer" but "a good, competent offering" for casual players[^ref-66]. GameSpot called it "a solid, enjoyable, and challenging turn-based wargame" without true innovations. Its reviewer noted that "the initial release of CWG2 was plagued by bugs and crashes" but that the 1.0.1 patch fixed them[^ref-13]. He concluded: "If you're a wargame or Civil War enthusiast looking for an extensive list of scenarios to keep you occupied for a while, this is definitely the game for you"[^ref-34].
@@ -87,13 +87,13 @@ Jim Cobb of Computer Gaming World liked the branching campaigns and the scenario
 
 ### Modern Assessment
 
-MobyGames lists a critic average of 69% from 15 ratings and a player average of 3.5 out of 5[^ref-62]. On MyAbandonware, user John B Gordon recalled online play: "Was very good at it; nickname was Gordo; very seldom lost." He also wrote: "The AI was terrible. When I wasn't playing online I would play against myself," and remembered building fictional battles with the editor for "quite an online community"[^ref-36]. A fan guide on HubPages documents getting the game running on Windows XP and later. It notes that Sierra's original 1.04 patch was 16-bit, and that a repackaged version exists for 64-bit Windows 7 and 8[^ref-3].
+As of October 2025, MobyGames listed a critic average of 68% from 13 ratings and a player average of 3.5 out of 5 from 12 ratings[^ref-81]. A MyAbandonware commenter recalled online play: "Was very good at it; … very seldom lost." He also wrote: "The AI was terrible. When I wasn't playing online I would play against myself," and remembered building fictional battles with the editor for "quite an online community"[^ref-36]. A fan guide on HubPages documents getting the game running on Windows XP and later. It notes that Sierra's original 1.04 patch was 16-bit, and that a repackaged version exists for 64-bit Windows 7 and 8[^ref-3].
 
 ## Development
 
 ### Origins
 
-The predecessor, Robert E. Lee: Civil War General, was developed by Impressions Games and published by Sierra On-Line[^ref-40]. It was the best-selling wargame of 1996[^ref-39]. NPD data for September 1996 placed it at #8 on the reference software chart[^ref-58]. Its designer, Jeffrey Fiske, had aimed to "create a product that Civil War enthusiasts could play, regardless of prior gaming experience"[^ref-41], and Panzer General was a reference point for that game's design and title[^ref-47].
+The predecessor, Robert E. Lee: Civil War General, was developed by Impressions Games and published by Sierra On-Line[^ref-40]. Sierra's announcement of the sequel called it "the best selling Civil War game of 1996"[^ref-70]. According to Wikipedia, Sierra's in-house *InterAction* magazine went further and called it the best-selling wargame of 1996[^ref-39]. NPD data for September 1996 placed it at #8 on the reference software chart[^ref-58]. Its designer, Jeffrey Fiske, had aimed to "create a product that Civil War enthusiasts could play, regardless of prior gaming experience"[^ref-41], and Panzer General was a reference point for that game's design and title[^ref-47].
 
 In 1997, Computer Games Strategy Plus reported the sequel under the working title "Civil War Generals". The team under Steve Grammont was "taking the wishes and complaints gamers had with R.E. Lee and Impressions' own internal ideas" and working them into "a vastly expanded product". Plans then included Eastern and Western campaigns playable from either side, around 40 scenarios, new units such as mortars and gunboats, two zoom levels, and an integrated scenario editor, with a fall release[^ref-69]. The report added that all of Impressions' 1997 titles would stress multiplayer play on the Sierra Internet Gaming System (SIGS), and Impressions general manager Peter Haffenreffer promised that single-player gaming would not suffer[^ref-69]. In Computer Games Strategy Plus's E3 coverage that year, the follow-up was described as focusing "on multiple campaigns covering the entire war," with an editor included[^ref-80].
 
@@ -113,7 +113,7 @@ Computer Gaming World listed the requirements as a 486-66 (Pentium recommended),
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 6, 1997 | Windows / Windows 16-bit | US release by Sierra On-Line[^ref-64] |
+| 1.0 | October 6, 1997 | Windows / Windows 16-bit | US release by Sierra On-Line[^ref-64]. Sierra's press index dates its release announcement October 20, 1997[^ref-82] |
 | 1.0.1 patch | After launch (date not documented) | Windows | Fixed the launch bugs and crashes, per GameSpot[^ref-13] |
 | 1.04 patch | 1998 | Windows | "official 1998 patch to update CWG2 to ver 1.04"[^ref-3] |
 | German release | June 1, 1998 | Windows | Distributed by HAVAS Interactive Deutschland[^ref-64] |
@@ -162,9 +162,9 @@ Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam'
 [^ref-23]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - GameSpot review: multiplayer options (modem, serial, IPX, SIGS, hot-seat, PBEM)
 [^ref-30]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - GameSpot review: score 6.7
 [^ref-34]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - GameSpot review conclusion by Michael E.
-[^ref-36]: https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq - MyAbandonware user comment by John B Gordon
-[^ref-39]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: predecessor was the best-selling wargame of 1996
-[^ref-40]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: predecessor developed by Impressions Games, published by Sierra On-Line
+[^ref-36]: https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq - MyAbandonware: comment by a MyAbandonware commenter
+[^ref-39]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: predecessor was the best-selling wargame of 1996, per Sierra's InterAction magazine
+[^ref-40]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: predecessor developed by Impressions Games, published by Sierra On-Line; covered Eastern Theater battles, Confederate side only
 [^ref-41]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: Jeffrey Fiske's design goal for the predecessor
 [^ref-47]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Wikipedia: Panzer General as a reference point for the predecessor
 [^ref-56]: https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - Charlie Hall, "Turn by Turn: The Story of Battlefront", Polygon (2013): Grammont producing CWG2, the RTS dispute, sales, Battlefront.com
@@ -178,7 +178,7 @@ Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam'
 [^ref-67]: https://web.archive.org/web/20000816004906/http://www.gamespot.com/strategy/civgen2/review_cgw.html - Jim Cobb, Computer Gaming World review of Civil War Generals 2, posted December 19, 1997 (via GameSpot)
 [^ref-68]: https://web.archive.org/web/20050428043056/http://www.cdmag.com/articles/007/040/cwg2_review.html - Jim Pedicord, "Civil War Generals 2" review, Computer Games Strategy Plus
 [^ref-69]: https://web.archive.org/web/19970605212624/http://www.cdmag.com/strategy_vault/impressions_preview/text.html - Scott Udell, "Fewer, better games", Computer Games Strategy Plus (1997)
-[^ref-70]: https://web.archive.org/web/19980214050439/http://sierra.com/info/press/0067.html - Sierra press release, "Impressions Announces Civil War Generals II"
+[^ref-70]: https://web.archive.org/web/19980214050439/http://sierra.com/info/press/0067.html - Sierra press release, "Impressions Announces Civil War Generals II" (October 20, 1997)
 [^ref-71]: https://web.archive.org/web/20000423152935/http://pc.ign.com/news/5279.html - IGN, "Best-Selling PC Games", week of September 27–October 3, 1998
 [^ref-72]: https://web.archive.org/web/20000311011645/http://pc.ign.com/news/5568.html - IGN, "Best Selling PC Games", week of October 18–24, 1998
 [^ref-73]: https://web.archive.org/web/19991117071955/http://pc.ign.com/news/5675.html - IGN, "Best Selling PC Games", week of October 25–31, 1998
@@ -189,3 +189,5 @@ Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam'
 [^ref-78]: https://web.archive.org/web/20050428043052/http://www.cdmag.com/articles/027/088/cwg3.html - James Fudge, "Civil War Generals 3 Cancelled", Computer Games Strategy Plus (April 16, 2000)
 [^ref-79]: https://web.archive.org/web/19990125094225/http://www.civilwar3.com/ - Civil War Generals III official site (archived January 1999)
 [^ref-80]: https://web.archive.org/web/20050209071839/http://www.cdmag.com/articles/002/101/e3_day2_part3.html - Computer Games Strategy Plus, E3 coverage, Day 2 morning report part III (1997)
+[^ref-81]: https://web.archive.org/web/20251031174044/https://www.mobygames.com/game/3197/grant-lee-sherman-civil-war-2-generals/ - MobyGames game page (archived October 31, 2025): critic and player averages
+[^ref-82]: https://web.archive.org/web/19980214123917/http://sierra.com/info/press.html - Sierra On-Line press release index (archived February 1998): "Impressions Announces: Civil War Generals II. (20-October-1997)"
