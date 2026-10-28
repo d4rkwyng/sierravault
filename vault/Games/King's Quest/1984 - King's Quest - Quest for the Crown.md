@@ -228,12 +228,13 @@ The Companion describes the dragon as twelve feet long, iridescent and green-sca
 ### Collections
 
 This game has been included in[^ref-8][^ref-9]:
-- King's Quest: Collector's Edition (1994) – Games I–VI, with King's Quest I in both this original version and the 1990 SCI remake, plus a King's Quest VII preview and small extras such as a checkers game and a trivia game[^ref-55]
-- The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator; listed by SierraChest, while MobyGames lists the 1990 SCI remake as its King's Quest I[^ref-9][^ref-53]
-- King's Quest: Collection Series (1997) – The first seven King's Quest games plus a preview of *Mask of Eternity*; listed by SierraChest, while MobyGames lists the 1990 SCI remake as its King's Quest I[^ref-9][^ref-56]
+- King's Quest: Collector's Edition (1994) – Games I–VI, with King's Quest I in both this original version and the 1990 SCI remake, plus a King's Quest VII preview and small extras such as a checkers game and a trivia game[^ref-55][^ref-58]
+- King's Quest Collection: Collector's Series (1995) – Games I–VI, with King's Quest I in both this original version and the 1990 SCI remake[^ref-58]
+- The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator; King's Quest I appears in both this original version and the 1990 SCI remake[^ref-9][^ref-53][^ref-58]
+- King's Quest: Collection Series (1997) – The first seven King's Quest games plus a preview of *Mask of Eternity*; King's Quest I appears in both this original version and the 1990 SCI remake[^ref-9][^ref-56][^ref-58]
 - King's Quest 1+2+3 (2010) – GOG.com digital release
 
-The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake rather than this version[^ref-2][^ref-24].
+The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake rather than this version[^ref-2][^ref-24][^ref-58].
 
 ## Downloads
 
@@ -317,6 +318,7 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-52]: [Wikipedia – IBM PCjr](https://en.wikipedia.org/wiki/IBM_PCjr) – "IBM discontinued the PCjr on March 19, 1985"
 [^ref-53]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"; "The Apple II titles contain an Apple II emulator for Windows"
 [^ref-54]: [Wikipedia – World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) – 2020 inductees: Bejeweled, Centipede, King's Quest, Minecraft
-[^ref-55]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; King's Quest (with the SCI remake), II–VI, King's Quest VII preview, checkers and trivia games
+[^ref-55]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; "King's Quest (with the VGA version)", II–VI, King's Quest VII preview, checkers and trivia games
 [^ref-56]: [MobyGames – King's Quest: Collection Series](https://www.mobygames.com/game/1857/kings-quest-collection-series/) – read via the MobyGames API; 1997; first seven King's Quest games, lists "Roberta Williams' King's Quest I" (the SCI remake), Mask of Eternity preview
 [^ref-57]: [MobyGames – Roberta Williams' King's Quest I: Quest for the Crown](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – read via the MobyGames API; DOS tech specs list Roland MT-32 (and LAPC-I) among supported sound devices
+[^ref-58]: [King's Quest Omnipedia – King's Quest Collections](https://kingsquest.fandom.com/wiki/King%27s_Quest_Collections) – Collector's Edition (1994), Collector's Series (1995) and Collection Series (1997) contain "1 (AGI & SCI versions)"; Anthology (1996) lists "King's Quest 1 AGI, King's Quest 1 SCI"; the 2006 collection "lacks… the original AGI King's Quest"

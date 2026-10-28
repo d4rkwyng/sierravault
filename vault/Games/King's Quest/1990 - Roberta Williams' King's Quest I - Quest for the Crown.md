@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI01
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Released in 1990, **Roberta Williams'' King''s Quest I: Quest for
   the Crown** is Sierra On-Line''s official SCI engine remake of its landmark 1984
   adventure game.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -58,7 +58,7 @@ Players explore the open world of Daventry, collecting items and solving puzzles
 
 Several puzzles received modifications in response to long-standing player complaints. Most famously, the gnome's name puzzle was simplified. In the original, players had to spell "Rumpelstiltskin" using a backwards alphabet cipher—what Williams herself later admitted was "an awfully nasty puzzle" typical of early adventure games.[^ref-9] The remake requires players simply to spell the name backward.[^ref-9]
 
-Other puzzle changes included alterations to point values and alternate solutions. The SCI version uniquely allows multiple correct answers to the gnome's riddle, delays the condor's appearance until later in the game, and moves the pebbles from the river to a more visible location by a lake.[^ref-10]
+Other puzzle changes included alterations to point values and alternate solutions.[^ref-4] The King's Quest Companion (3rd edition), as excerpted by the King's Quest Omnipedia, notes that in the SCI version only, the gnome's name puzzle "can be answered in more than one way", the condor does not appear until late in the game, and the pebbles by the river move to "a more visible home by a lake."[^ref-4][^ref-10]
 
 ## Reception
 
@@ -89,7 +89,7 @@ MobyGames files these under the SCI remake; Amiga Magazine Rack lists them as re
 | The One Amiga | Feb 1994 | 57% | Simon Byron[^ref-11] |
 | CU Amiga | Mar 1994 | 45% | Hayleigh Rodgers[^ref-11] |
 
-MobyGames lists a Moby Score of 6.7 and a critics average of 59% from 11 ratings (as of 2026).[^ref-2]
+MobyGames lists a Moby Score of 6.7 and a critics average of 59% from 11 ratings (as of September 2026).[^ref-2][^ref-29]
 
 All Game Guide's Chris Couper was the harshest, calling the remake "a game that never should have been made."[^ref-26]
 
@@ -99,9 +99,9 @@ Adventure Classic Gaming's Joppe Bos offered a defense of the remake, writing: "
 
 Later accounts are unkind. AGD Interactive calls the remake "a total market failure."[^ref-13] Planned SCI remakes of King's Quest II and III never materialized; the King's Quest Omnipedia records that the KQII remake was scrapped, "perhaps due to fan criticism, while others claim disappointing sales."[^ref-15]
 
-The comparison to film colorization proved particularly damaging. As documented across multiple sources, "many reviewers and gamers took offense at what they perceived as an attempt to 'destroy the classics.'"[^ref-4] This reaction "essentially stopped work on future attempts to modernize later King's Quest installments."[^ref-4]
+The comparison to film colorization proved particularly damaging. Sierra's King's Quest Collection manual, as quoted by the King's Quest Omnipedia, says "many reviewers and gamers took offense at what they perceived as an attempt to 'destroy the classics.'"[^ref-4] This reaction "essentially stopped work on future attempts to modernize later King's Quest installments."[^ref-4]
 
-MobyGames players rate it 3.5 out of 5 from 48 ratings (as of 2026).[^ref-2]
+MobyGames players rate it 3.5 out of 5 from 48 ratings (as of September 2026).[^ref-2][^ref-29]
 
 ## Development
 
@@ -183,7 +183,7 @@ The remake occupies an ambiguous position in King's Quest continuity. The King's
 
 ### Fan Remakes
 
-The SCI remake directly inspired fan developers. In August 2001, Tierra Entertainment (later AGD Interactive) released an unofficial VGA remake with a point-and-click interface, aiming for "the same level of quality as seen in Sierra's King's Quest V"; a voice pack followed in version 2.0 on September 1, 2001.[^ref-13][^ref-17][^ref-18] Josh Mandel himself reprised the role of King Graham, "the first person to play the voice of King Graham" having done so for Sierra's CD-ROM versions of King's Quest V and VI.[^ref-20]
+The SCI remake directly inspired fan developers. In August 2001, Tierra Entertainment (later AGD Interactive) released an unofficial VGA remake with a point-and-click interface, aiming for "the same level of quality as seen in Sierra's King's Quest V"; a voice pack followed in version 2.0 on September 1, 2001.[^ref-13][^ref-17][^ref-18] Josh Mandel himself reprised the role of King Graham, "the first person to play the voice of King Graham" having done so for Sierra's CD-ROM versions of King's Quest V and VI.[^ref-17][^ref-20]
 
 The fan remake proved enormously successful: "During the first month of AGDI releasing our King's Quest I remake in August, 2001, over 5,000 copies were downloaded! In the first year, that number jumped to nearly half a million."[^ref-13] AGDI received a fan license from Activision (or earlier owners of the King's Quest IP) to release its remakes for free, later releasing King's Quest II: Romancing the Stones and King's Quest III Redux.[^ref-19]
 
@@ -193,11 +193,14 @@ The SCI remake is still sold. Steam's King's Quest Collection ($19.99), a seven-
 
 ### Collections
 
-The SCI remake was included in several Sierra compilations:[^ref-2]
-- King's Quest: Collector's Edition (1994)
-- The Roberta Williams Anthology (1996)
-- King's Quest: Collection Series (1997)
-- Sierra Adventure Starter Kit (1992)
+The SCI remake was included in several Sierra compilations. The 1994, 1995, 1996 and 1997 sets carried it alongside the 1984 AGI original; the 1992 Starter Kit and the 2006 collection had the SCI remake only.[^ref-2][^ref-28]
+
+- Sierra Adventure Starter Kit (1992) – SCI remake only, with the SCI remakes of Space Quest I and Leisure Suit Larry 1[^ref-30]
+- King's Quest: Collector's Edition (1994) – both the AGI original and the SCI remake[^ref-28][^ref-31]
+- King's Quest Collection: Collector's Series (1995) – both the AGI original and the SCI remake[^ref-28]
+- The Roberta Williams Anthology (1996) – both the AGI original and the SCI remake[^ref-2][^ref-28]
+- King's Quest: Collection Series (1997) – both the AGI original and the SCI remake[^ref-2][^ref-28]
+- King's Quest Collection (2006) – SCI remake only; it lacks the original AGI King's Quest[^ref-17][^ref-28]
 
 ## Downloads
 
@@ -233,15 +236,15 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 [^ref-7]: [Adventure Gamers – King's Quest: Quest for the Crown review (Wayback, Oct 2005)](https://web.archive.org/web/20051023090350/http://www.adventuregamers.com/article/id,562) – Emily Morganti's review (mainly of the original), SCI remake improvements, interface, tenth anniversary, three-star verdict
 [^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – Josh Mandel quotes, cut content
 [^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – 5/5 review, Roberta Williams quotes
-[^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI%29) – Puzzle changes
+[^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI%29) – A word-for-word copy of ref-4 (King's Quest Companion excerpt, Amiga sounds); not an independent source
 [^ref-11]: [Amiga Magazine Rack – KQ1 Reviews](https://amr.abime.net/review_4342) – Five Amiga magazine reviews
 [^ref-13]: [AGD Interactive – KQ1 History](https://www.agdinteractive.com/games/kq1/about/about.html) – Market failure, fan remake motivation, download stats
 [^ref-15]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) – Josh Mandel correspondence, cancellation reasons
 [^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – System requirements, patches, bugs
-[^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – Technical details
+[^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – Technical details; Steam collection has the SCI version; Josh Mandel as "the voice actor for King Graham in King's Quest V and VI"
 [^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – AGDI version history
 [^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – Fan remake details, Josh Mandel voice
-[^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_%28video_game_designer%29) – Career, voice acting
+[^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_%28video_game_designer%29) – Career, voice acting; "the first person to play the voice of King Graham"; credits table lists King's Quest V (CD-ROM) and King's Quest VI (CD-ROM) as voice actor
 [^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Price, seven-game collection
 [^ref-22]: [Amiga Magazine Rack – Kings Quest 1 (Amiga Computing 71)](https://amr.abime.net/review_8374) – Amiga Computing review (Mar 1994), Kixx XL re-release, 67%, £14.99, Tina Hackett
 [^ref-23]: [MobyGames – Roberta Williams' King's Quest I reviews](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/reviews/) – Critic review list: Joker 55% (1993), PC Soluces 20%, All Game Guide 2/5, GameZebo 3/5, Amiga re-release reviews
@@ -249,3 +252,7 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 [^ref-25]: [MobyGames – Roberta Williams' King's Quest I releases](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/releases/) – US 1990/1991 releases, 1993 Kixx XL re-releases by U.S. Gold Ltd.
 [^ref-26]: [AllGame – King's Quest I: Quest for the Crown (EGA) review (Wayback, Nov 2014)](https://web.archive.org/web/20141115124351/http://www.allgame.com/game.php?id=9407&tab=review) – Chris Couper's review of the remake
 [^ref-27]: [GameZebo – King's Quest I: Quest for the Crown review (Wayback, Nov 2013)](http://web.archive.org/web/20131113034647/http://www.gamezebo.com:80/games/kings-quest-i-quest-crown/review) – Erin Bell, Aug 6, 2009: Steam collection contains "an updated version from 1990"
+[^ref-28]: [King's Quest Omnipedia – King's Quest Collections](https://kingsquest.fandom.com/wiki/King%27s_Quest_Collections) – Collector's Edition (1994), Collector's Series (1995) and Collection Series (1997) contain "1 (AGI & SCI versions)"; Anthology (1996) lists "King's Quest 1 AGI, King's Quest 1 SCI"; the 2006 collection "lacks… the original AGI King's Quest"
+[^ref-29]: [MobyGames – Roberta Williams' King's Quest I (Wayback, Sep 26, 2026)](https://web.archive.org/web/20260926155936/https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – Moby Score 6.7; critics average 59% (based on 11 ratings); players 3.5 out of 5 (based on 48 ratings)
+[^ref-30]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – read via the MobyGames API; DOS 1992; "contains the SCI remakes" of King's Quest I, Space Quest I and Leisure Suit Larry 1
+[^ref-31]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; contains "King's Quest (with the VGA version)", II–VI and a King's Quest VII preview
