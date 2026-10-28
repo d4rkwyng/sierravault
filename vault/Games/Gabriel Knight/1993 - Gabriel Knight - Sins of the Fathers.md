@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ MobyGames player reviewer Zovni similarly described it as "probably the finest S
 
 The CD-ROM version's voice cast includes Tim Curry as the protagonist Gabriel Knight, Mark Hamill as Detective Mosely, Leah Remini as Grace Nakimura, and Michael Dorn as Dr. John.[^ref-2][^ref-3] Critics praised its story, voice cast and graphics,[^ref-2] and Computer Gaming World named it Adventure Game of the Year in its June 1994 issue (shared with Day of the Tentacle).[^ref-61] Despite not being a commercial success upon release,[^ref-2] the game spawned a beloved trilogy and has been consistently ranked among the greatest adventure games of all time.[^ref-5]
 
-Adventure Classic Gaming's retrospective concluded that Sierra On-Line "makes a splash in the history of adventure gaming" with this release, which "sets a standard for all other developers on how an adventure game should be made."[^ref-3] In the same review, the site argues that the game's "detailed blend of fiction with history has not been previously seen in adventure games"—establishing Gabriel Knight as a landmark achievement in the medium.[^ref-3]
+Adventure Classic Gaming's retrospective concluded that Sierra On-Line "makes a splash in the history of adventure gaming" with this release, which "sets a standard for all other developers on how an adventure game should be made."[^ref-3] In the same review, the site argues that the game's "detailed blend of fiction with history has not been previously seen in adventure games".[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-2]
@@ -45,7 +45,7 @@ Adventure Classic Gaming's retrospective concluded that Sierra On-Line "makes a 
 
 ## Story Summary
 
-The game introduces Gabriel Knight, a struggling horror novelist who owns St. George's, a book store in New Orleans.[^ref-2][^ref-14] Gabriel is following a spate of killings dubbed "the Voodoo Murders", hoping they will provide material for a new novel; the police investigation is led by his childhood friend Detective Frank Mosely.[^ref-2] However, as he delves deeper into the case, Gabriel discovers disturbing connections between the murders and his own family's mysterious past.
+The game introduces Gabriel Knight, a struggling horror novelist who owns St. George's, a book store in New Orleans.[^ref-2][^ref-14] Gabriel is following a spate of killings dubbed "the Voodoo Murders", hoping they will provide material for a new novel; the police investigation is led by his childhood friend Detective Frank Mosely.[^ref-2] His investigation leads him into a world of voodoo magic and to the truth about his family's past as supernatural fighters.[^ref-2]
 
 Gabriel is troubled by a recurring nightmare.[^ref-3][^ref-58] With the help of his assistant Grace Nakimura, he researches voodoo, and his investigation leads him to Malia Gedde, a mysterious socialite with whom he becomes infatuated, unaware of her connection to the voodoo cult behind the killings.[^ref-2]
 
@@ -67,7 +67,7 @@ Jensen explained her reasoning: "The really good thing about a mystery is there 
 
 ### Structure and Progression
 
-The game spans ten days, each a chapter in the investigation;[^ref-26] within each day the plot advances step by step through cut scenes as the player completes key actions.[^ref-5] The story awards points for completing both essential plot actions and optional puzzles. The original release has a maximum score of 342.[^ref-26]
+The game spans ten days, each a chapter in the investigation;[^ref-26] within each day the plot advances step by step through cut scenes as the player completes key actions.[^ref-5] A running score tracks the actions the player completes, both required and optional.[^ref-2] The original release has a maximum score of 342.[^ref-26]
 
 The 2014 20th Anniversary Edition remake raises the maximum to 362 points (achieved via the "Master Schattenjager" path).[^ref-41][^ref-10]
 
@@ -107,8 +107,8 @@ MobyGames player reviewers hold the game in similar regard. Ray Soderlund writes
 
 **Aggregate Scores:**
 - **MobyGames:** 87% critics average (39 ratings)[^ref-35]
-- **IMDB:** 9.0 / 10 (813 user ratings, as of January 2026)[^ref-50]
-- **GameRankings:** 93%[^ref-2]
+- **IMDB:** 8.9 / 10 (827 user ratings, as of September 2026)[^ref-66]
+- **GameRankings:** 93% (based on 5 media outlets)[^ref-67][^ref-2]
 - **Adventure Gamers:** 5/5[^ref-46]
 - **Adventure Classic Gaming:** 5/5[^ref-3]
 - **OldGames.sk:** 95%[^ref-51]
@@ -157,7 +157,7 @@ The game included a 20-minute behind-the-scenes AVI file on the CD version.[^ref
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-2]
-- **Resolution:** 640x480 SVGA (320x240 DOS)[^ref-13]
+- **Resolution:** 640x480 (Windows); 320x240 (DOS)[^ref-13]
 - **Colors:** 256
 - **Audio:** Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1]
 - **Media:** 1 CD-ROM
@@ -183,7 +183,7 @@ No significant cut content has been documented in available research.
 | France Release | 1994 | MS-DOS | French localization[^ref-45] |
 | Budget Re-release | 1996 | MS-DOS | SierraOriginals budget re-release[^ref-45] |
 | Brazil Release | July 1997 | MS-DOS | Brazilian release[^ref-45] |
-| GOG Release | January 28, 2010 | Windows | Digital re-release via GOG.com[^ref-20] |
+| GOG Release | January 28, 2010 | Windows | Digital re-release via GOG.com[^ref-52] |
 | 1.1 | April 23, 2018 | Windows | Current GOG version[^ref-52] |
 
 Jimmy Maher's history gives a ship date of November 24, 1993;[^ref-5] MobyGames, PCGamingWiki and Wikipedia give December 17, 1993.[^ref-45][^ref-13][^ref-2]
@@ -201,7 +201,7 @@ Jimmy Maher's history gives a ship date of November 24, 1993;[^ref-5] MobyGames,
 The original release suffered from significant bugs. As MobyGames reviewer Ray Soderlund recalled in 2000, "In its original form, the game was buggy, to the point where it could not be completed. Fixed in patches, it was still an annoyance that you would have to start all over again."[^ref-35] Known issues include:
 
 - **Day 5 Phone Call Lockup:** Grace may give you the Rada Drum Book twice, and when the phone rings Gabriel says he'll get it but he never moves[^ref-13]
-- **Day 6 Police Station Timing Issue:** Might be impossible to get into Mosley's office because the solution is timer-based and the distraction might not last long enough[^ref-13]
+- **Day 6 Police Station Timing Issue:** Might be impossible to get into Mosely's office because the solution is timer-based and the distraction might not last long enough[^ref-13]
 - **Day 6 Sergeant Issue:** Sergeant returning too early; patch provides 30 seconds[^ref-47]
 - **African Snake Mound:** Mummies 'float' instead of walk if you leave the room too quickly[^ref-47]
 - **German CD-ROM Version:** Has major bug causing crashes at three points due to corrupted soundfile[^ref-1]
@@ -234,7 +234,7 @@ The game has two endings, decided by the player's choice in the final confrontat
 | Specification | Details |
 |--------------|---------|
 | Engine | SCI2 (Sierra Creative Interpreter)[^ref-13] |
-| Resolution | 640×480 (SVGA) / 320×240 (DOS)[^ref-13] |
+| Resolution | 640×480 (Windows) / 320×240 (DOS)[^ref-13] |
 | Colors | 256 (VGA/SVGA) |
 | Interface | Point-and-click with expanded verbs[^ref-2] |
 | Sound | Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1] |
@@ -308,7 +308,7 @@ Voice direction by Stuart M. Rosen, who had won numerous Emmy awards;[^ref-3] Ro
 
 ### Sales and Commercial Impact
 
-Wikipedia summarises it as "not a commercial success", and PC Gamer's Todd Vaughn wrote that "Jensen's hope for a King's Quest-sized success fell a little short of the mark";[^ref-2] Jimmy Maher, by contrast, calls it "a hit in its day".[^ref-5] Combined sales of the first two Gabriel Knight games reached approximately 300,000 copies by December 1998.[^ref-2] The game nonetheless spawned a trilogy, establishing the Gabriel Knight series as one of Sierra's most respected franchises. The game developed a cult following, with fans still visiting the real New Orleans locations featured in it.[^ref-56]
+Wikipedia summarises it as "not a commercial success", and PC Gamer's Todd Vaughn wrote that "Jensen's hope for a King's Quest-sized success fell a little short of the mark";[^ref-2] Jimmy Maher, by contrast, calls it "a hit in its day".[^ref-5] Combined sales of the first two Gabriel Knight games reached approximately 300,000 copies by December 1998.[^ref-2] The game nonetheless spawned a trilogy. The game developed a cult following, with fans still visiting the real New Orleans locations featured in it.[^ref-56]
 
 ### Awards
 
@@ -321,7 +321,7 @@ Wikipedia summarises it as "not a commercial success", and PC Gamer's Todd Vaugh
 
 ### Collections
 
-The game was later published by Activision after Sierra's acquisition, appearing in value collections and being re-released digitally on GOG.com in January 2010 and later on Steam.[^ref-20]
+The current digital releases carry Activision's name: GOG's store page lists the company as "Sierra / Activision" with an Activision copyright,[^ref-20] and Steam lists Activision as publisher.[^ref-65] The game went on sale at GOG.com on January 28, 2010,[^ref-52] and is also sold on Steam.[^ref-65]
 
 ### Fan Projects
 
@@ -349,7 +349,7 @@ Gabriel Knight: Sins of the Fathers is often cited as evidence that adventure ga
 
 Reviewers singled out its blend of real voodoo history with supernatural fiction.[^ref-3] The character of Grace Nakimura has been particularly praised as a groundbreaking female character: "Grace was acerbic, loyal, modest, courageous, and easily the most intelligent character, without any of the usual trappings of exaggerated nerdiness or arrogance... You don't get the feeling that she's a guaranteed prize to be handed to Gabriel when he becomes good enough at hero-ing."[^ref-48]
 
-The game attracted an unusual demographic for its time. Jensen observed in 2003: "I get a lot of letters from women and older people who want a great story, a beautiful environment to explore, and who hate shooters and 'twitch' games".[^ref-4] Gabriel Knight remains one of Sierra's finest achievements, offering a mature, atmospheric adventure that respects both its subject matter and its players' intelligence.
+The game attracted an unusual demographic for its time. Jensen observed in 2003: "I get a lot of letters from women and older people who want a great story, a beautiful environment to explore, and who hate shooters and 'twitch' games".[^ref-4]
 
 ## Downloads
 
@@ -386,7 +386,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-17]: [Episodic Content Magazine – Gabriel Knight Chapter 2 (Jane Jensen interview)](https://episodiccontentmag.com/2015/10/13/gabrielknight_ch2/) — Jensen's design process, "more extensive interface," sleeping bag anecdote, 100-150/300-400 page design docs
 [^ref-18]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers/) — 20AE store listing: developers/publisher, Oct 15, 2014 release, "all-new puzzles, scenes, and HD graphics," remastered Robert Holmes soundtrack, award claims
 [^ref-19]: [Enrico Rolfi's Gaming Tools – Gabriel Knight Installers and Patches](https://erolfi.wordpress.com/gabriel-knight-installers-and-patches/) — Gabriel Knight XP Installer 1.03, an unofficial replacement installer for the English CD-ROM version
-[^ref-20]: [GOG Manual Documentation](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — 36-page manual PDF
+[^ref-20]: [GOG Manual Documentation](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — 36-page manual PDF; company listed as "Sierra / Activision", © 1993 Activision Publishing
 [^ref-21]: [Eurogamer – Gabriel Knight: Sins of the Fathers remake now on iOS and Android](https://www.eurogamer.net/articles/2015-07-23-gabriel-knight-sins-of-the-fathers-remake-now-on-ios-and-android) — July 23, 2015 mobile release of the 20th Anniversary Edition
 [^ref-22]: [AllTinker – GK Speech Fix (itch.io)](https://alltinker.itch.io/gk-speech-fix) — DPCM audio fix community patch and technical explanation
 [^ref-24]: [GameFAQs – Gabriel Knight: Sins of the Fathers Trivia](https://gamefaqs.gamespot.com/pc/562666-gabriel-knight-sins-of-the-fathers/trivia) — User-contributed trivia, including the "I Only Have Eyes for You" reference
@@ -404,9 +404,9 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-47]: [Sierra Help Wiki – Gabriel Knight: Sins of the Fathers Technical](https://wiki.sierrahelp.com/index.php/Gabriel_Knight:_Sins_of_the_Fathers_Technical) — NewRisingSun patch notes (Day 6 sergeant timer, African snake mound mummies)
 [^ref-48]: [Rock Paper Shotgun – Have You Played… Gabriel Knight: Sins of the Fathers?](https://www.rockpapershotgun.com/have-you-played-gabriel-knight-sins-of-fathers) — Snake-scale soft-lock; Grace Nakimura "acerbic, loyal, modest" passage
 [^ref-49]: [GK Pages – Gabriel Knight 1 Gameplay Secrets](https://gkpages.altervista.org/Gameplay/GK1_08.html) — Schloss Ritter car-accident Easter egg
-[^ref-50]: [IMDb – Gabriel Knight: Sins of the Fathers (1993)](https://www.imdb.com/title/tt0109865/) — User rating 9.0/10 from 813 ratings (as read January 2026); user-submitted Goofs entry on the tape-recorder logic error
+[^ref-50]: [IMDb – Gabriel Knight: Sins of the Fathers (1993)](https://www.imdb.com/title/tt0109865/) — User-submitted Goofs entry on the tape-recorder logic error
 [^ref-51]: OldGames.sk – Gabriel Knight: Sins of the Fathers (link removed: site offers in-browser play of the still-sold game) — Site rating 95%
-[^ref-52]: [GOG Database – Gabriel Knight: Sins of the Fathers](https://www.gogdb.org/product/1207658828) — GOG build history (version 1.1, 2018-04-23)
+[^ref-52]: [GOG Database – Gabriel Knight: Sins of the Fathers](https://www.gogdb.org/product/1207658828) — GOG release date 2010-01-28; build history (version 1.1, 2018-04-23)
 [^ref-53]: [PCGamingWiki – Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_-_20th_Anniversary_Edition) — Developers, publisher, Unity 5 engine
 [^ref-54]: [GameCritics – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition Review (Nick Kummert)](https://gamecritics.com/nick-kummert/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition-review/) — 2015 review of the remake (7/10); calls the original "the pinnacle of Sierra's golden age"; 3D models on 2D hand-drawn backdrops; "executed unevenly," "Janky animations" passages
 [^ref-55]: [Metacritic – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.metacritic.com/game/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/) — Metascore 74, "Mixed or Average" (38 critic reviews); user score 8.1 (107 ratings)
@@ -419,3 +419,6 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-62]: [Power Unlimited Game Database (archived 2003)](https://web.archive.org/web/20030926034952/http://www.powerweb.nl/database/index.php?&query%5border%5d=datum&ending=DESC&query%5bstart%5d=460) — Entry dated 1994-04-01: Gabriel Knight, PC, 79 (Dutch)
 [^ref-63]: [MobyGames – Gabriel Knight: Sins of the Fathers credits (DOS)](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/credits/dos/) — Voice cast and roles; voice director Stuart M. Rosen; Audio Engineers (Richard and Kelli Spurgeon), Sound Effects (Braymen, Holmes, Hanley, R. Spurgeon, Seibert), Music Conversions (Grandstaff, Usher, Braymen)
 [^ref-64]: [Adventure Classic Gaming – Jane Jensen Interview (Sierra News One, 1998)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Posted 1 November 1999, "courtesy of Sierra News One © 1998": "I joined them in Feb. of '91."
+[^ref-65]: [Steam – Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/495700/) — Original game's store listing: developer Sierra On-Line, publisher Activision, release date Dec 17, 1993
+[^ref-66]: [IMDb – Gabriel Knight: Sins of the Fathers (archived September 2026)](https://web.archive.org/web/20260925014345/https://www.imdb.com/title/tt0109865/) — IMDb rating 8.9/10 from 827 ratings
+[^ref-67]: [GameRankings – Gabriel Knight: Sins of the Fathers (archived 2009)](https://web.archive.org/web/20090207143808/http://www.gamerankings.com/htmlpages2/562666.asp?q=gabriel%20knight) — "Avg Ratio: 93% Based On 5 Media Outlets"
