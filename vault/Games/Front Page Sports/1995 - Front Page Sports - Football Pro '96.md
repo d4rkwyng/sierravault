@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: '*Front Page Sports: Football Pro ''96* was an American football
   simulation developed by Dynamix and published by Sierra On-Line on CD-ROM for
   DOS in late 1995.'
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ tags: [1990s, front-page-sports, sierra]
 
 MobyGames describes the changes as "mostly cosmetic": new high-resolution SVGA graphics, made of rotoscoped sprites over polygonal stadiums, plus the yearly stats update, which added the expansion Carolina Panthers and Jacksonville Jaguars.[^ref-1] IGN credits it with "crisp new SVGA graphics, extensive play calling options, and perhaps a deeper career mode than any other football game before."[^ref-2]
 
-Critics in 1995–96 still rated it the best football simulation available, while many noted how little had changed from '95.[^ref-34][^ref-35][^ref-36] *Computer Gaming World*'s November 1996 readers' poll ranked it the #2 sports game, with a 7.78 rating.[^ref-33]
+Critics in 1995–96 still rated it the best football simulation available, while many noted how little had changed from '95.[^ref-34][^ref-35][^ref-41] *Computer Gaming World*'s November 1996 readers' poll ranked it the #2 sports game, with a 7.78 rating.[^ref-33]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -81,11 +81,10 @@ Two players can play on the same machine.[^ref-1][^ref-34] *Computer Gaming Worl
 | *Computer Gaming World* (Mar 1996) | 4/5 | "Winner And Still Champion," by Dennis McCauley[^ref-34][^ref-39] |
 | GameSpot (May 1996) | 8.1/10 | By Hugo Foster[^ref-35] |
 | *Digitiser* (Feb 1996) | 83% | "Without question the best US footer around"[^ref-37] |
-| *PC Player* (Denmark) | 85% | Per MobyGames[^ref-39] |
-| *High Score* (Sweden) | 4/5 | Per MobyGames[^ref-39] |
-| *Génération 4* (Feb 1996) | 4/6 | Per MobyGames[^ref-39] |
+| *PC Player* (Denmark) | 85% | Per MobyGames[^ref-39][^ref-41] |
+| *High Score* (Sweden) | 4/5 | Per MobyGames[^ref-39][^ref-41] |
 | *Online Gaming Review* (Nov 1995) | 5/10 | First-look preliminary rating[^ref-36] |
-| MobyGames critic average | 74% | From 9 ratings; Moby Score 7.1[^ref-1][^ref-39] |
+| MobyGames critic average | 73% | From 7 ratings, as of September 2025;[^ref-40] Moby Score 7.1[^ref-1] |
 | MyAbandonware | 4.6/5 | User rating, 5 votes[^ref-8] |
 
 *Computer Gaming World*'s Dennis McCauley wrote that the game had "run circles around its competition every fall since its release in 1992." He found it hard to recommend to '95 owners: "First time buyers or owners of older editions, however, should look no further than Football Pro '96. Warts and all, its still the best of the bunch, by far."[^ref-34] He also reported sound problems, mouse problems and a crash to DOS after a simulated Super Bowl, which lost that game's results and statistics. Sierra "quickly released a patch."[^ref-34]
@@ -206,13 +205,13 @@ The game is preserved on the Internet Archive, and the v1.01 patch is archived s
 
 ## References
 
-[^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – DOS 1995, Dynamix/Sierra, game description, Moby Score 7.1, critics 74% (9), 37 credited people, 1–2 offline players
+[^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – DOS 1995, Dynamix/Sierra, game description, Moby Score 7.1, 37 credited people, 1–2 offline players
 [^ref-2]: [IGN – Front Page Sports: Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – "perhaps a deeper career mode than any other football game before"; initial release listed Dec 30, 1995
 [^ref-3]: [En-Academic – Front Page Sports Football Pro](https://en-academic.com/dic.nsf/enwiki/4856623) – Series history: '96 the fourth version and first with the new high-resolution engine, its problems, the '99 recall
 [^ref-5]: [The Digital Antiquarian – Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) – Dynamix as "the most consistent of Sierra's subsidiary studios" (1994, Football Pro '95)
 [^ref-8]: [MyAbandonware – Front Page Sports: Football Pro '96 Season](https://www.myabandonware.com/game/front-page-sports-football-pro-96-season-bqh) – User rating 4.6/5 (5 votes), preservation
 [^ref-11]: [Internet Archive – Front Page Sports: Football Pro '96 v1.01 Patch (FBP9611)](https://archive.org/details/FBP9611) – Bugs fixed in version 1.01
-[^ref-19]: [Vogons Forum – Front Page Sports Football 96](http://www.vogons.org/viewtopic.php?t=870) – 2002 user testimonial
+[^ref-19]: [Vogons Forum – Front Page Sports Football 96](http://www.vogons.org/viewtopic.php?t=870) – 2002 user testimonial ([archived copy, May 2024](http://web.archive.org/web/20240516225851/http://www.vogons.org/viewtopic.php?t=870))
 [^ref-26]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – Lists the fbp9611 (1.01) patch and the lgeupdat league update for Football Pro '96
 [^ref-29]: [Internet Archive – Front Page Sports Football Pro '96 Season](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – DOS version archive
 [^ref-31]: [MobyGames – Football Pro '96 Season credits (DOS)](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/credits/dos/) – Original Design Patrick Cook; Additional Design Scott Youngblood, Doug Johnson; music Christopher Stevens, Timothy Steven Clarke; motion data by Biovision
@@ -223,4 +222,6 @@ The game is preserved on the Internet Archive, and the v1.01 patch is archived s
 [^ref-36]: [Online Gaming Review – Front Page Sports Football Pro '96 Season first-look review (archived)](https://web.archive.org/web/19980208080007/http://ogr.com/reviews/fpsf.shtml) – Drew Hess, 11/30/95, preliminary 5/10; new features, 640×480, CAMS angles, Win95 support
 [^ref-37]: [Digitiser – Front Page Sports Football Pro '96 (12/2/96)](https://www.superpage58.com/digitiser-video-game-reviews-archive-front-page-sports-football-pro-96-pc-1996.htm) – Teletext review, 83%, "10,000 plays and all 30 NFL teams"
 [^ref-38]: [Computer Gaming World #138 (January 1996), full text](https://archive.org/download/Computer_Gaming_World_Issue_138/Computer_Gaming_World_Issue_138_djvu.txt) – Sierra advertisement for Football Pro '96: 10,000-combination playbook, CompuServe league play, motion-capture animation
-[^ref-39]: [MobyGames – Football Pro '96 Season critic reviews (DOS)](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/reviews/dos/) – Nine critic ratings incl. CGW 4/5, PC Player (DK) 85, High Score 4/5, Génération 4 4/6
+[^ref-39]: [MobyGames – Football Pro '96 Season critic reviews (DOS)](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/reviews/dos/) – Critic ratings incl. CGW 4/5, PC Player (DK) 85, High Score 4/5
+[^ref-40]: [MobyGames – Football Pro '96 Season critic reviews (archived September 2025)](http://web.archive.org/web/20250914143258/https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/reviews/) – "Average score: 73% (based on 7 ratings)"
+[^ref-41]: [MobyGames – Football Pro '96 Season MobyRank (DOS, archived June 2021)](http://web.archive.org/web/20210618114000/https://www.mobygames.com/game/dos/front-page-sports-football-pro-96-season/mobyrank) – Review excerpts: PC Player (Denmark) 85, "uden tvivl det bedste spil i genren lige nu"; High Score 80 (Jun 1996), "den mest heltäckande och kompletta simulatorn av amerikansk fotboll"
