@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: Castle of Dr. Brain is a 1991 educational puzzle game designed by Corey
   Cole and published by Sierra On-Line, the first Dr. Brain game and the best-selling
   title of Sierra's Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ The game begins with the player responding to a classified advertisement placed 
 
 Upon arriving at the castle's foyer, the player discovers that every room presents a new series of brain-twisting puzzles that must be solved before progressing deeper into the structure.[^ref-7] The castle's architecture itself reflects Dr. Brain's unusual personality, with each chamber serving as a dreamlike riddle testing different aspects of intelligence—from mathematical reasoning and logical deduction to programming concepts and astronomical knowledge.[^ref-8]
 
-As players advance through the castle's multiple floors and wings, they encounter increasingly complex challenges that build upon earlier puzzles.[^ref-9] The journey takes them through clock rooms with time-based puzzles, computer halls with programming challenges, robot laboratories requiring spatial reasoning, language halls testing linguistic abilities, and a planetarium examining astronomical knowledge.[^ref-10]
+Each room has a general theme, ranging from mathematics and astronomy to logic and programming.[^ref-9] The journey takes them through clock rooms with time-based puzzles, computer halls with programming challenges, robot laboratories requiring spatial reasoning, language halls testing linguistic abilities, and a planetarium examining astronomical knowledge.[^ref-10]
 
 The ultimate goal is to reach Dr. Brain's inner office and prove oneself capable enough to earn the coveted assistant position.[^ref-11] Along the way, a cryptogram in the Code Room decodes to "The elevators of the mind only operate for those who keep their minds open to new possibilities," which opens the castle's third elevator.[^ref-28] On completion, Dr. Brain congratulates the player, introduces the people who made the game, and promises more challenges in The Island of Dr. Brain.[^ref-12] The Adventurers' Guild noted that "there isn't even closure at the end because Dr. Brain runs away to go construct another set of puzzles for the next game."[^ref-13]
 
@@ -57,18 +57,21 @@ Castle of Dr. Brain utilizes Sierra's standard point-and-click interface from th
 
 ### Structure and Progression
 
-The game is structured as a linear progression through Dr. Brain's castle, with players moving from room to room after successfully completing each puzzle.[^ref-9] The castle contains 24 multifarious puzzles spread across several distinct areas:[^ref-4]
+The game is structured as a linear progression through Dr. Brain's castle, with players moving from room to room after successfully completing each puzzle.[^ref-9] Maher counts "24 multifarious puzzles in all," clustered by subject into rooms: "First came three math problems, then three puzzles dealing with time."[^ref-4] StrategyWiki's walkthrough follows the castle in this order:[^ref-9]
 
-- **The Foyer:** Entry puzzles including the front door lock mechanism
-- **The First Hall:** Mirror examination and navigation puzzles
-- **The Clock Room:** Time-based challenges and temporal puzzles
-- **The Computer Hall:** Logic gates and binary conversion challenges
-- **The Robot Laboratory:** Programming puzzles and maze navigation
-- **The Third Hall:** Word searches and language puzzles
-- **The Puzzle Room:** Tangram, jigsaw, and spatial reasoning challenges
-- **The Code Room:** Cryptograms and cipher puzzles
-- **The Planetarium:** Astronomy and constellation identification
-- **Dr. Brain's Office:** Final skill-matching puzzle and conclusion
+- **Outside:** Ringing the doorbell starts a memory game; repeating the growing sequence of lit stones opens the front door.[^ref-38]
+- **Front Hall:** An equation puzzle (pick numbers and an operator that make a true statement), a magic square and a sliding-tile puzzle in a desk drawer each give a code for the locked door at the end of the hall.[^ref-7]
+- **Clock Room:** Silence a room full of noise with a four-button panel, measure 40 seconds with two hourglasses, then punch three time cards at the next time in each card's sequence.[^ref-39]
+- **First Maze:** The first of three elevator mazes, steered through several stories; the map draws itself on Novice, shows only your position on Standard and stays dark on Expert.[^ref-40]
+- **Logic Hall:** Build an electrical circuit, convert numbers to binary, route a robot around a maze to collect letters, and match robot jokes to their punchlines to open the door.[^ref-41]
+- **Robotics Room:** Program a robot, fitted with one of three heads that obey, disobey or alternate, to fetch objects from a glass case.[^ref-42][^ref-17]
+- **Second Maze:** Another elevator maze with a new layout.[^ref-47]
+- **Word Hall:** A word search of sports and games words (with some developers' names hidden in it), an acrostic that spells "Parlor Games", and a tangram that spells the door's password.[^ref-43]
+- **Puzzle Room:** The room is blank until the player rebuilds it from jigsaw pieces.[^ref-44]
+- **Dungeon** (The Adventurers' Guild's "Code Room"): Hangman to free a dummy, a cryptoquote on a pay-TV screen, and an optional Mastermind-style safe behind Dr. Brain's portrait.[^ref-45][^ref-28]
+- **Third Maze:** A last elevator maze, decorated with stars and planets.[^ref-48]
+- **Planetarium:** Pick out constellations, match aliens to their home planets, and identify the planets of the solar system.[^ref-46]
+- **Job Skills:** In Dr. Brain's empty office, match pictures to puzzle categories on the "Job Skills" chart, then follow decoded instructions to rearrange books on the bookshelf.[^ref-11]
 
 ### Puzzles and Mechanics
 
@@ -103,7 +106,7 @@ The Adventurers' Guild blog gave the game a 46/100 in their systematic playthrou
 **Aggregate Scores:**
 - **MobyGames Critics:** 70%[^ref-1]
 - **IMDB:** 6.6/10 (12 ratings)[^ref-19]
-- **MyAbandonware:** 4.51/5 (43 votes)[^ref-16]
+- **MyAbandonware:** 4.52/5 (44 votes)[^ref-16]
 - **Lemon Amiga:** 7.18/10[^ref-20]
 
 ## Development
@@ -183,7 +186,7 @@ The soundtrack release reveals several unused music tracks that were composed bu
 | Floppy | 1992 | Amiga | Published by Sierra On-Line (US)[^ref-37] |
 | Floppy | 1992 | Macintosh | Published by Sierra On-Line (US)[^ref-37] |
 | Floppy | October 9, 1992 | PC-98 | Japanese release by Sierra On-Line Japan[^ref-37] |
-| CD-ROM | 1996 | DOS | CD-ROM edition[^ref-25][^ref-30] |
+| CD-ROM | 1996 (per Internet Archive listing) | DOS | CD-ROM edition[^ref-25][^ref-30] |
 
 The game runs on Sierra's SCI1 engine.[^ref-22]
 
@@ -202,7 +205,7 @@ Castle of Dr. Brain contains numerous hidden references to other Sierra games an
 - **Mirror Reference:** Looking in the mirror in the first hallway provides a reference to Mixed-Up Fairy Tales.[^ref-15]
 - **Developer Names:** The word search puzzle hides names such as BRETT, COREY, DENNIS, and JOHN; Cole confirmed they are team credits (including himself, Steve Conrad, Jack Magné, Brett Miller, John Wentworth, and Dennis Lewis).[^ref-28]
 - **Quest for Glory References:** The completed jigsaw puzzle shows a room decorated with props from other Sierra games, including Aziza's table from the Quest for Glory series.[^ref-28]
-- **Conquest of the Longbow:** An arrow quiver in the jigsaw puzzle references the Robin Hood game.[^ref-15]
+- **Conquests of the Longbow:** An arrow quiver in the jigsaw puzzle references the Robin Hood game.[^ref-15]
 - **2001: A Space Odyssey:** The game includes the quote "Oh my God! – It's full of puzzles!" referencing the famous film.[^ref-15]
 - **The Terminator:** Exiting the game produces the message "I'll be Back!"[^ref-15]
 - **Crossbar Names:** In the crossbar game, selecting certain names triggers humorous instructions.[^ref-27]
@@ -210,7 +213,7 @@ Castle of Dr. Brain contains numerous hidden references to other Sierra games an
 - **TSN Reference:** Dr. Brain's office notes board contains a reference to TSN (The Sierra Network).[^ref-24]
 - **Metallica:** In the Star Room, one alien planet is described as "Metallica exports heavy metal bands."[^ref-24]
 - **Pepper's Adventures Reference:** An office note reading "Help little girl find lost dog" may reference Pepper's Adventures in Time.[^ref-24]
-- **Trinity Reference:** Clicking the gnomon in the control panel room produces a message about the Trinity sundial, referencing Infocom's Trinity.[^ref-4]
+- **Trinity Reference:** A reader comment on The Digital Antiquarian notes that clicking the hand on the sundial's gnomon in the room with the noise-silencing control panel gives a message pointing to the sundial in Infocom's Trinity.[^ref-4]
 - **Solomon's Key:** The game text mentions keeping "Solomon's Key" book around.[^ref-28]
 
 The hint coins used in the game visually resemble the "buckazoids" currency from Space Quest IV.[^ref-8] The end credits include videos of the developers displayed on tiny monitors.[^ref-8]
@@ -233,19 +236,19 @@ The game has been preserved through various abandonware sites and digital archiv
 
 ### Related Publications
 
-- **Game Manual:** Included copy protection information and basic game instructions[^ref-29]
+- **Game Manual:** The game used document look-up copy protection;[^ref-33] the Sierra Help Pages host the manual, the "Ultra Top Secret Decoder Grid" and the copy protection codes.[^ref-30] A Spanish edition of the manual (*El Castillo del Dr. Brain*) is also online.[^ref-29]
 - **Free Puzzle Book:** Bundled with retail copies providing additional puzzles[^ref-14]
 - **Sierra Discovery Series Materials:** Educational content highlighting academic value[^ref-4]
 
 ### Critical Perspective
 
-Castle of Dr. Brain represents a significant moment in the evolution of educational gaming, demonstrating that learning-focused software could be genuinely entertaining without sacrificing educational value. The game arrived during Sierra's early 1990s expansion into the education market, reflecting the company's ambition to leverage its adventure game expertise for broader audiences.[^ref-8]
+The game was one of the first titles in the educational line Sierra branded as the Discovery Series in 1992.[^ref-4]
 
-The Discovery Series brand manager explained the philosophy: "While they aren't intended to be hardcore educational products, they're more than just games. They have legitimate academic content."[^ref-4] This balanced approach—avoiding both pure entertainment and dry educational software—established a template that influenced subsequent edutainment titles.
+The Discovery Series brand manager explained the philosophy: "While they aren't intended to be hardcore educational products, they're more than just games. They have legitimate academic content."[^ref-4] Maher adds that Cole consulted no education professionals while making it, apart from his wife, a former schoolteacher.[^ref-4]
 
-The game's first-person perspective represented a departure from Sierra's traditional third-person adventure game format, creating a more immersive puzzle-solving experience where players felt they were personally navigating Dr. Brain's challenges.[^ref-4] The three-tiered difficulty system with its puzzle coin economy demonstrated sophisticated understanding of player engagement and accessibility.
+In place of the third-person view and visible onscreen avatar of the typical Sierra adventure, the game uses a first-person viewpoint, and its unnamed protagonist is meant to be the player.[^ref-4]
 
-Corey Cole's design legacy extended beyond the Dr. Brain series itself. Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows of Darkness, was deliberately "a variation of Dr. Brain," creating a narrative connection between Sierra's educational and adventure game lines.[^ref-2] This cross-pollination demonstrates how Castle of Dr. Brain influenced Sierra's broader creative output.
+Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows of Darkness, was deliberately "a variation of Dr. Brain."[^ref-2]
 
 ## Downloads
 
@@ -268,7 +271,6 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. Cole has
 ## See Also
 
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
-
 - [[1995 - The Lost Mind of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain]]
 - [[1998 - Dr. Brain Thinking Games - IQ Adventure]]
@@ -312,3 +314,14 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. Cole has
 [^ref-35]: [MobyGames – Castle of Dr. Brain Amiga credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/amiga/) – Amiga credit list (Douglas Herring, Art Designer)
 [^ref-36]: [MobyGames – Castle of Dr. Brain Macintosh credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/macintosh/) – Mac port programmers
 [^ref-37]: [MobyGames – Castle of Dr. Brain releases](https://www.mobygames.com/game/1523/castle-of-dr-brain/releases/) – Amiga, Mac and PC-98 release details
+[^ref-38]: [StrategyWiki – The Castle of Dr. Brain/Outside](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Outside) – doorbell memory game
+[^ref-39]: [StrategyWiki – The Castle of Dr. Brain/Clock room](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Clock_room) – noise panel, hourglass and time clock puzzles
+[^ref-40]: [StrategyWiki – The Castle of Dr. Brain/First maze](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/First_maze) – elevator maze, map by difficulty
+[^ref-41]: [StrategyWiki – The Castle of Dr. Brain/Logic hall](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Logic_hall) – circuit, binary, robot maze and joke puzzles
+[^ref-42]: [StrategyWiki – The Castle of Dr. Brain/Robotics room](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Robotics_room) – robot programming puzzle, three heads
+[^ref-43]: [StrategyWiki – The Castle of Dr. Brain/Word hall](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Word_hall) – word search, acrostic, tangram
+[^ref-44]: [StrategyWiki – The Castle of Dr. Brain/Puzzle room](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Puzzle_room) – jigsaw room
+[^ref-45]: [StrategyWiki – The Castle of Dr. Brain/Dungeon](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Dungeon) – hangman, cryptoquote, Mastermind-style safe
+[^ref-46]: [StrategyWiki – The Castle of Dr. Brain/Planetarium](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Planetarium) – constellations, alien homeworlds, solar system
+[^ref-47]: [StrategyWiki – The Castle of Dr. Brain/Second maze](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Second_maze) – second elevator maze
+[^ref-48]: [StrategyWiki – The Castle of Dr. Brain/Third maze](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Third_maze) – third elevator maze
