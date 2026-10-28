@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games Volume 2: Solitaire is a collection of 28
   solitaire card games designed by Warren Schwader and published by Sierra On-Line
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Hoyle Official Book of Games Volume 2: Solitaire is a card game collection devel
 
 Unlike its predecessor, which let players choose opponents drawn partly from Sierra's adventure games, Volume 2 was purely single-player: because every game was a solitaire variant, there were no opponents to choose and no Sierra characters at the table.[^ref-2][^ref-20] The game was built on Sierra's Creative Interpreter, in its SCI0 form.[^ref-4][^ref-19]
 
-The Amiga, Atari ST and DOS versions appeared in 1990 and the Macintosh version in 1991.[^ref-21][^ref-12] MobyGames classifies the presentation as top-down with fixed/flip-screen visuals.[^ref-1]
+The Amiga, Atari ST and DOS versions appeared in 1990 and the Macintosh version in 1991.[^ref-21] MobyGames classifies the presentation as top-down with fixed/flip-screen visuals.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -52,7 +52,7 @@ The absence of Sierra characters as opponents, a notable feature of Volume 1, me
 
 The player picks a game and a difficulty level with the mouse or the arrow keys, and plays with the keyboard, a joystick or the mouse. *Video Games & Computer Entertainment* judged the mouse's "point-and-click methodology" the most natural fit.[^ref-18] Each of the 28 games has two difficulty levels.[^ref-17] After a round, the player can quit, replay the same game, or pick a new one.[^ref-18]
 
-The rules for every game appear in the printed manual and on screen, through a pull-down menu that breaks each rule set into short sections.[^ref-16][^ref-18] The rules were written by Bridget McKenna.[^ref-18][^ref-1] A pull-down menu can also mute the sound and music.[^ref-18]
+The rules for every game appear in the printed manual and on screen, through a pull-down menu that breaks each rule set into short sections.[^ref-16][^ref-18] The rules were written by Bridget McKenna.[^ref-18] A pull-down menu can also mute the sound and music.[^ref-18]
 
 ### Structure and Progression
 
@@ -115,7 +115,7 @@ MobyGames also lists Raze (78%), Génération 4 (68%) and PC-Spiele '92 (60%) am
 
 ### Origins
 
-Volume 2 followed Sierra's first Hoyle volume from 1989.[^ref-2][^ref-15] Warren Schwader, Sierra's first hired programmer and author of *Hi-Res Cribbage* (1980), designed both volumes.[^ref-15] Focusing on solitaire dropped the first volume's computer opponents.[^ref-2]
+Volume 2 followed Sierra's first Hoyle volume from 1989.[^ref-2][^ref-15] Warren Schwader, one of Sierra's earliest programmers and author of *Hi-Res Cribbage*, designed both volumes.[^ref-15] Focusing on solitaire dropped the first volume's computer opponents.[^ref-2]
 
 ### Production
 
@@ -126,7 +126,7 @@ Warren Schwader designed and programmed the game and also worked on its artwork.
 - **Designer/Programmer:** Warren Schwader
 - **Artists:** Warren Schwader, James Larsen, Gerald Moore
 - **Composer:** Robert Atesalp
-- **Documentation:** Bridget McKenna
+- **Rules text:** Bridget McKenna (credited by VG&CE, not MobyGames)[^ref-18]
 - **Atari Version By:** John Rettig, Steve Coallier
 - **Development System By:** [[Jeff Stephenson]], Robert Eric Heitman, [[Pablo Ghenis]], John Hartin, Dan Foy, John Rettig, Corinna Abdul, [[Corey Cole]]
 
@@ -183,10 +183,6 @@ Volume 2 was part of Sierra's Hoyle line, which began in 1989 with the first vol
 ### Fan Projects
 
 The game is playable through ScummVM.[^ref-20] ClassicReload hosts the DOS version for browser-based play.[^ref-6]
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-2)
 
 ## Downloads
 
@@ -266,7 +262,6 @@ The game is playable through ScummVM.[^ref-20] ClassicReload hosts the DOS versi
 [^ref-9]: [Internet Archive – Hoyle Official Book of Games Volume 2](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) – preservation copy, DOS version
 [^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-solitaire-1vr) – DOS version
 [^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series list with title and year
-[^ref-12]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – series list: Volume 2 (1990) for DOS, MacOS, Amiga, Atari ST
 [^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – Volume 2 designed by Warren Schwader, 1990, 28 solitaire varieties; Schwader's Hi-Res Cribbage
 [^ref-16]: [Computer Gaming World No. 75 (October 1990), "Taking a Peek"](https://archive.org/download/Computer_Gaming_World_Issue_75/Computer_Gaming_World_Issue_75_djvu.txt) – "Twenty-eight (count 'em) solitaire card games… still a fairly solid product"; rules on-screen; IBM $34.95
 [^ref-17]: [Power Play (October 1990), "Es ist zum Hoylen"](https://archive.org/details/powerplay_1990-10) – German review: 28 variants, two difficulty levels each, no high-score list, 512 KB, EGA palette, two disks
