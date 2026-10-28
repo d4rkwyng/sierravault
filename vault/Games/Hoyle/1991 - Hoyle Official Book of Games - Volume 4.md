@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Hoyle Official Book of Games Volume 4 is another name for Hoyle Classic
   Card Games (1993), Sierra On-Line's VGA remake of Hoyle Volume 1 with eight card
   games, digitized speech and Sierra characters as opponents.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 > [!note] Duplicate entry
 > "Hoyle Official Book of Games Volume 4" is the same game as **[[1993 - Hoyle Classic Card Games]]**, which is the main entry for it. There was no separate 1991 release: the fourth Hoyle volume came out in 1993 as Hoyle Classic Card Games[^ref-1][^ref-4]. This page has been corrected to describe that 1993 game.
@@ -121,7 +121,7 @@ Members of the team dressed up and went before a video camera to play the Classi
 
 Robert Holmes composed the soundtrack. InterAction reported that "Each game features its own theme, based on the musical styles of the period in which the card game is set," and that the music can be set to change at random during play[^ref-27]. The magazine also said that "A full two disks in the game are reserved for digitized speech"[^ref-27]. Electronic Games noted "a significant effort to synchronize the lip movements of the animated characters with the sound files"[^ref-29].
 
-Even the floppy releases include speech. ScummVM notes for both its DOS/Windows and Macintosh entries: "Although this is a floppy game, it does have speech"[^ref-30]. All of the speech is stored in one file, RESOURCE.AUD[^ref-19]. In a 2007 VOGONS thread, a player using an abandonware copy found that the Classic Characters did not speak. A reply suggested that ripped copies often had their speech removed, and the same poster recalled that the original "actually performed better on her 486 at the time if speech was disabled"[^ref-19].
+Although the game shipped on floppy disks, it includes speech. ScummVM notes for both its DOS/Windows and Macintosh entries: "Although this is a floppy game, it does have speech"[^ref-30]. All of the speech is stored in one file, RESOURCE.AUD[^ref-19]. In a 2007 VOGONS thread, a player using an abandonware copy found that the Classic Characters did not speak. A reply suggested the copy was a rip with the speech removed, and the same poster recalled that his wife's original copy "actually performed better on her 486 at the time if speech was disabled"[^ref-19].
 
 ### Technical Specifications
 
