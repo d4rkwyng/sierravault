@@ -10,7 +10,7 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: Hi-Res Cribbage is a single-player cribbage game for the Apple II, written
   by Warren Schwader and published by On-Line Systems, which hired Schwader on the
   strength of it.
@@ -18,13 +18,13 @@ tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Hi-Res Cribbage is a single-player card game written by [[Warren Schwader]] and published by On-Line Systems for the Apple II computer.[^ref-1][^ref-15][^ref-21] Schwader first sold the game himself on cassette in 1980; the On-Line Systems disk release is dated 1980 by most databases and by a 1986 *Computist* article, while Retro365 places it in early 1981.[^ref-2][^ref-6][^ref-17] The game lets one player compete against a challenging computer opponent in the classic card game of cribbage, using the Apple II's high-resolution graphics for the cards and the cribbage board.[^ref-1][^ref-4] Schwader later recalled that, at the time, programming in hi-res graphics and assembler "was like magic to people and very few knew how to do it."[^ref-5]
+Hi-Res Cribbage is a single-player card game written by [[Warren Schwader]] and published by On-Line Systems for the Apple II computer.[^ref-1][^ref-15][^ref-21] Schwader first sold the game himself on cassette in 1980; the On-Line Systems disk release is dated 1980 by most databases and by a 1986 *Computist* article, while Retro365 places it in early 1981 and Sierra's own *Sierra News Magazine* (Fall 1990) gives 1981.[^ref-2][^ref-6][^ref-17][^ref-22] The game lets one player compete against a challenging computer opponent in the classic card game of cribbage, using the Apple II's high-resolution graphics for the cards and the cribbage board.[^ref-1][^ref-4] Schwader later recalled that, at the time, programming in hi-res graphics and assembler "was like magic to people and very few knew how to do it."[^ref-5]
 
-The game was among the earliest titles in On-Line Systems' catalog. Ken Williams told journalists in 1981 that he had moved to diversify the company's line beyond adventures, "first with games such as Hi-Res Football and Cribbage."[^ref-18] Hi-Res Cribbage sold about two thousand copies, which Schwader himself described as a result that "wasn't awful but not a hit."[^ref-5] The game featured cards that look as if they are being turned over "by an invisible hand," automatic scoring, and a visual cribbage board with audible pegging.[^ref-1][^ref-4]
+The game was among the earliest titles in On-Line Systems' catalog. *Softalk* reported in 1981 that Ken Williams had moved to diversify the company's line beyond adventures, "first with games such as Hi-Res Football and Cribbage."[^ref-18] Hi-Res Cribbage sold about two thousand copies, which Schwader himself described as a result that "wasn't awful but not a hit."[^ref-5] The game featured cards that look as if they are being turned over "by an invisible hand," automatic scoring, and a visual cribbage board with audible pegging.[^ref-1][^ref-4]
 
 Schwader's work on Hi-Res Cribbage led to his hiring as one of On-Line Systems' first programmers, an early moment in the history of what would become Sierra On-Line.[^ref-5][^ref-6]
 
@@ -84,7 +84,7 @@ Modern game databases have preserved information about Hi-Res Cribbage, though r
 
 ### Origins
 
-Hi-Res Cribbage was developed by Warren Schwader during a difficult period in his life. His older brother, whom Schwader calls "my older disabled brother,"[^ref-5] had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] After his mother died, Schwader took care of his disabled brother, and the money he received from the state for that care let him keep working on the cribbage game.[^ref-5]
+Hi-Res Cribbage was developed by Warren Schwader during a difficult period in his life. His older brother, whom Schwader calls "my older disabled brother,"[^ref-5] had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] After his mother died, Schwader took care of his brother, and the money he received from the state for that care let him keep working on the cribbage game.[^ref-5]
 
 Schwader was getting into cribbage at the time, but he "often didn't have anyone to play against," which led him to write a computer opponent.[^ref-6] The game followed his earlier cassette title Smash-Up, a *Head-On* clone.[^ref-6]
 
@@ -96,7 +96,7 @@ Over a few months, Schwader built an algorithm capable of evaluating hands by 12
 
 **Development Credits:**[^ref-5][^ref-21]
 - **Author/Designer:** Warren Schwader
-- **Publisher:** On-Line Systems (Ken and [[Roberta Williams]])
+- **Publisher:** On-Line Systems (Ken and [[Roberta Williams]])[^ref-6]
 
 ### Technical Achievements
 
@@ -125,7 +125,7 @@ No information about cut content has been documented in available sources.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Cassette | 1980 | Apple II | Original self-published version by Warren Schwader[^ref-6] |
-| Floppy Disk | 1980 (Computist, databases) / early 1981 (Retro365) | Apple II | On-Line Systems published release[^ref-6][^ref-17] |
+| Floppy Disk | 1980 (Computist, databases) / early 1981 (Retro365) / 1981 (*Sierra News Magazine*, 1990) | Apple II | On-Line Systems published release[^ref-6][^ref-17][^ref-22] |
 
 The game moved from cassette to disk. Schwader first marketed his games on cassette and later said he "missed the boat by not immediately getting a disk drive and marketing them on disk."[^ref-5] He recalled selling "a couple hundred total" on cassette, while the On-Line Systems disk release sold about two thousand copies.[^ref-5][^ref-6]
 
@@ -138,7 +138,6 @@ No specific technical issues or bugs have been documented in available sources.
 - An introductory guide to the game appeared in the first *On-Line Letter* newsletter in June 1981.[^ref-6]
 - Schwader was hired by On-Line Systems after a few of his cassettes "found their way out to California where Ken Williams saw them."[^ref-5][^ref-6]
 - The game's rules follow traditional cribbage, a game attributed to Sir John Suckling in 1600s England.[^ref-6]
-- Schwader's path to On-Line Systems began when his older brother, in Schwader's words "my older disabled brother," bought an Apple II.[^ref-5][^ref-6]
 - RetroMags hosts an advertisement scan for the game in its Apple II advertisements gallery.[^ref-11]
 
 ## Legacy
@@ -165,9 +164,9 @@ No significant fan projects, remakes, or modifications of Hi-Res Cribbage have b
 
 ### Critical Perspective
 
-Hi-Res Cribbage occupies a small but real place in Sierra On-Line's history. The game was a modest seller, but it brought Schwader into the company.[^ref-5][^ref-6] Ken Williams also cited it, alongside Hi-Res Football, as one of the games that began diversifying On-Line's line beyond adventures.[^ref-18]
+Hi-Res Cribbage occupies a small but real place in Sierra On-Line's history. The game was a modest seller, but it brought Schwader into the company.[^ref-5][^ref-6] A 1981 *Softalk* profile also named it, alongside Hi-Res Football, among the games with which Ken Williams began diversifying On-Line's line beyond adventures.[^ref-18]
 
-The game is also an example of how early personal computer software was made. It was written by one programmer caring for a disabled family member, partly funded by the state money he received for that care, and first self-published on cassette tape.[^ref-5][^ref-6]
+The game is also an example of how early personal computer software was made. It was written by a single programmer and first self-published on cassette tape.[^ref-5][^ref-6]
 
 Schwader later returned to computer card games at Sierra. He proposed and led *Hoyle's Official Book of Games* at Sierra, which Wikipedia describes as "a spiritual sequel to Sierra's Hi-Res Cribbage."[^ref-19] He went on to work on all three volumes of the Hoyle series.[^ref-6][^ref-19]
 
@@ -221,7 +220,8 @@ Not commercially available. Hi-Res Cribbage is not currently sold on any digital
 
 [^ref-15]: [IGDB – Hi-Res Cribbage](https://www.igdb.com/games/hi-res-cribbage) — Apple II, On-Line Systems, 1980
 [^ref-17]: [Hardcore Computist #35 – Softkey for Hi-Res Cribbage (Internet Archive)](https://archive.org/details/computist-scan-35) – William Hinger softkey: "This game was released in 1980"; 13-sector disk with DOS 3.3 boot sector; file structure
-[^ref-18]: [Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game," American Journal of Play (Fall 2017)](https://files.eric.ed.gov/fulltext/EJ1166784.pdf) – Ken Williams in 1981 on diversifying "first with games such as Hi-Res Football and Cribbage"
+[^ref-18]: [Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game," American Journal of Play (Fall 2017)](https://files.eric.ed.gov/fulltext/EJ1166784.pdf) – quotes Allan Tommervik's *Softalk* profile (Feb. 1981, note 62): Ken Williams had moved to diversify "first with games such as Hi-Res Football and Cribbage"
 [^ref-19]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – "a spiritual sequel to Sierra's Hi-Res Cribbage"; Schwader as lead programmer and game designer
 [^ref-20]: [The Digital Antiquarian – Time Zone](https://www.filfre.net/2012/06/time-zone/) – Schwader sped up Time Zone's graphics rendering
 [^ref-21]: [MobyGames – Hi-Res Cribbage Credits (Apple II)](https://www.mobygames.com/game/45146/hi-res-cribbage/credits/apple2/) – "Written by Warren Schwader"
+[^ref-22]: [The Sierra News Magazine, Vol. 3 No. 3 (Fall 1990), p. 12 (Internet Archive)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – "Warren Schwader has always enjoyed playing cards, which led to his original hit, Sierra's Hi-Res Cribbage (1981)"
