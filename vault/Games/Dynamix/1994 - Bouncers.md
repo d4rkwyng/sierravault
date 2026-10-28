@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Bouncers is an unconventional arcade basketball game developed by Dynamix
   and published by Sega of America exclusively for the Sega CD in December 1994. The...
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -92,7 +92,7 @@ Hardcore Gaming 101 noted that many stages "have a hand-drawn quality to them si
 
 ### Contemporary Reviews
 
-Contemporary magazine scores ranged from 50 to 85 on Sega Retro's 100-point conversion, averaging 71 across seven reviews.[^ref-21]
+Contemporary magazine scores ranged from 50 to 85 on Sega Retro's 100-point conversion, averaging 71 across seven reviews.[^ref-21] Sega Retro's floor of 50 is its conversion of Next Generation's rating; the magazine itself gave three stars out of five.[^ref-26]
 
 **Magazine Scores:**[^ref-2][^ref-21]
 | Publication | Score | Reviewer | Date |
@@ -129,7 +129,7 @@ Used copies still trade on the collector market.[^ref-20] One reader commenting 
 
 ### Origins
 
-Bouncers was developed by Dynamix, a Sierra subsidiary known for titles like The Incredible Machine and Betrayal at Krondor.[^ref-1][^ref-2] The game's conceptual origins can be traced back to earlier work by designers Rhett Anderson and Dave Hensley, who had previously created Basketball Sam & Ed, a one-on-one sports game, as a type-in program for Compute!'s Gazette magazine in July 1987.[^ref-2]
+Bouncers was developed by Dynamix, a Sierra subsidiary known for titles like The Incredible Machine and Betrayal at Krondor.[^ref-15] The game's conceptual origins can be traced back to earlier work by designers Rhett Anderson and Dave Hensley, who had previously created Basketball Sam & Ed, a one-on-one sports game, as a type-in program for Compute!'s Gazette magazine in July 1987.[^ref-2]
 
 In 1988, Anderson and Hensley wrote the similar Arcade Volleyball for the Commodore 64, which Randy Thompson and Tim Midkiff subsequently ported to the Amiga.[^ref-2]
 
@@ -137,7 +137,7 @@ John Garvin, who created the game's art and cartoon cutscenes, described his car
 
 ### Production
 
-The development team was led by executive producer [[Jeff Tunnell]], Dynamix's founder, with Randy Thompson serving as producer.[^ref-1][^ref-22] The original design was by Rhett Anderson and Dave Hensley; the Sega design credit went to Anderson, John Garvin, Randy Thompson and Tim Midkiff, and Anderson was credited as lead designer.[^ref-22] Thompson, Anderson and Midkiff programmed the game, and Thompson also wrote the manual.[^ref-22] Garvin was art director, handled art and animation, and wrote and animated the character cartoons.[^ref-22] Writing in 2012, he described his Dynamix experience as "art directing games like Sega CD's Bouncers."[^ref-24]
+The development team was led by executive producer [[Jeff Tunnell]], a Dynamix co-founder,[^ref-15] with Randy Thompson serving as producer.[^ref-1][^ref-22] The original design was by Rhett Anderson and Dave Hensley; the Sega design credit went to Anderson, John Garvin, Randy Thompson and Tim Midkiff, and Anderson was credited as lead designer.[^ref-22] Thompson, Anderson and Midkiff programmed the game, and Thompson also wrote the manual.[^ref-22] Garvin was art director, handled art and animation, and wrote and animated the character cartoons.[^ref-22] Writing in 2012, he described his Dynamix experience as "art directing games like Sega CD's Bouncers."[^ref-24]
 
 **Voice Cast:**[^ref-6][^ref-22]
 | Actor | Characters |
@@ -246,7 +246,7 @@ Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Review
 [^ref-4]: [Sega promotional text for Bouncers (textfiles.com)](http://www.textfiles.com/games/CONSOLES/bouncers.txt) - 1990s marketing description: "Slam-Dunk Your Head"
 [^ref-5]: [IGDB - Bouncers](https://www.igdb.com/games/bouncers) - Genre classification, Internet Games Database entry
 [^ref-6]: [Behind the Voice Actors - Bouncers](https://www.behindthevoiceactors.com/video-games/Bouncers/) - Complete voice cast with character roles
-[^ref-7]: [Hardcore Gaming 101 - Bouncers](http://www.hardcoregaming101.net/bouncers/) - Retrospective by Adrian Sandoval (2014): physics critique, comparison to other Dynamix adventure games
+[^ref-7]: [Hardcore Gaming 101 - Bouncers](http://www.hardcoregaming101.net/bouncers/) ([archived copy](https://web.archive.org/web/20240224203704/http://www.hardcoregaming101.net/bouncers/)) - Retrospective by Adrian Sandoval (2014): physics critique, comparison to other Dynamix adventure games
 [^ref-9]: [Comics Beat - Crowdfunding Alert: Inside John Garvin's Trace War](https://www.comicsbeat.com/crowdfunding-alert-inside-john-garvins-trace-war/) - Heidi MacDonald, August 9, 2023; Garvin on Dynamix, Bouncers, Syphon Filter and Days Gone
 [^ref-10]: [IMDb - Bouncers](https://www.imdb.com/title/tt0402072/) - Game classification, user ratings
 [^ref-11]: [GameFAQs - Bouncers Review by vgc2000](https://gamefaqs.gamespot.com/segacd/587927-bouncers/reviews/159092) - User review (2014), same text as the Sega-16 review
