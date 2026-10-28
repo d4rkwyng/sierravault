@@ -10,14 +10,14 @@ series: Police Quest
 engine: SCI1.1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced
   remake of Sierra On-Line''s 1987 police procedural adventure game....'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ Germany's *PC Games* (February 1993, 77%) praised a solid background story, witt
 
 ### Retrospective Reviews
 
-Adventure Classic Gaming (1998, 4/5) wrote that "The VGA remake boasts better graphics and enhances the player's immersion into the daily danger of police work". It also found control of the patrol car "very sluggish" and felt that constant hints about forgotten procedures "may have ruined the atmosphere."[^ref-6][^ref-7] AllGame's Alec Norands (2/5) called the remake "unarguably superior in the level of graphics, sound, and control", but also "considerably less fun to play on almost every level."[^ref-48][^ref-7]
+Adventure Classic Gaming (1998, 4/5) wrote that "The VGA remake boasts better graphics and enhances the player's immersion into the daily danger of police work". It also found control of the patrol car "very sluggish" and felt that constant hints about forgotten procedures "may have ruined the atmosphere."[^ref-6][^ref-7] AllGame's Alec Norands (2/5, two of five stars) called the remake "unarguably superior in the level of graphics, sound, and control", but also "considerably less fun to play on almost every level."[^ref-48][^ref-7]
 
 Just Games Retro (2006, 4.5/5) praised the remake's "Amazingly improved presentation, with vastly enhanced graphics, music, and writing". Its criticism was that "it becomes more of a story about police officers instead of a simulation of being one."[^ref-46] Other retrospective scores include Adventure Gamers (2007, 3.5/5), Aventura y Cía (3/5) and A Force for Good (2.5/5).[^ref-7]
 
@@ -194,7 +194,7 @@ The game contains numerous hidden interactions and easter eggs that reward curio
 - Entering programmers' names (Al Lowe, Ken Williams, Jim Walls) in the crime computer produces amusing results[^ref-17]
 - A newspaper in the briefing room contains an article about Daventry (from King's Quest) being under siege by a three-headed dragon[^ref-17]
 - When chicken feathers fall on the ground, typing "pick up feather" results in the reply "Do that in King's Quest III"[^ref-17]
-- Typing "HAVE SEX" during a traffic stop with a female driver gives you a phone number (which turns out to be the police chief's wife) and results in game over[^ref-34]
+- If Sonny trades his integrity for sex with Helen Hots, a driver he pulls over, she gives him a phone number; calling it may reach the Police Commissioner's wife, and "It doesn't end well for his career"[^ref-17][^ref-34]
 
 In the remake, the stolen Cadillac became a Mercedes-Benz. The undercover "pimp suit" from the original was renamed a "leisure suit", a nod to Leisure Suit Larry.[^ref-43]
 
@@ -212,16 +212,16 @@ Police Quest was reported to have been used as a training tool for police office
 
 The Police Quest wiki's page on the 1987 original quotes *Law and Order* magazine calling the game "a serious training tool... The simulation is based on skill and knowledge... The depth of training is enormous."[^ref-11] The original was also apparently used for officer training at the Allegan City Police Department in Michigan.[^ref-25]
 
-One MobyGames user who became a police officer wrote of the 1987 original: "As the game that made me interested in law enforcement, and eventually led me to a career in the field, this game holds a very special place for me. The attention to actual police procedure, while not perfect down to the details, is very accurate and to my knowledge, the most accurate to be presented in a computer game to date."[^ref-37]
+One MobyGames user who became a police officer wrote of the 1987 original: "As the game that made me interested in law enforcement, and event[u]ally led me to a career in the field, this game holds a very special place for me. [...] The attention to actual police procedure, while not perfect down to the details, is very accur[at]e and to my knowledge, the most accur[at]e to be presented in a computer game to date."[^ref-37]
 
 ### Collections
 
 The VGA remake has been included in several compilations:
 
-- **Daryl F. Gates' Police Quest Collection: The 4 Most Wanted** (1995), with PQ1 to PQ4[^ref-1][^ref-29]
-- **SWAT Career Pack** (2000)[^ref-1]
-- **Police Quest Collection** (Vivendi, 2006), whose Windows menu lists it as "Police Quest 1 VGA"[^ref-29][^ref-43]
-- **GOG.com Police Quest Collection**, which includes PQ1's enhanced remake with an option to play the EGA version[^ref-16]
+- **Daryl F. Gates' Police Quest Collection: The 4 Most Wanted** (1995), with both versions of PQ1 (the original and the VGA remake) plus PQ2 to PQ4[^ref-1][^ref-29]
+- **SWAT Career Pack** (2000), which also carries both versions of PQ1, alongside PQ2 to PQ4 and the first two SWAT games[^ref-1][^ref-50]
+- **Police Quest Collection** (Vivendi, 2006), whose Windows menu lists it as "Police Quest 1 VGA"[^ref-29][^ref-43]. Sierra's wiki adds that owners of the AGI original can copy its files in and set it up with the collection through a later DOSBox update, which suggests the 2006 collection shipped only the remake.[^ref-43] MobyGames, by contrast, links this collection only to its entry for the 1987 original.[^ref-51]
+- **Police Quest Collection** on GOG.com and Steam, which includes both the original EGA release and the 1992 VGA remake[^ref-9][^ref-16]
 
 ### Preservation
 
@@ -231,7 +231,7 @@ Archivist Jason Scott uploaded the source code of Police Quest to GitHub between
 
 - **The Lytton Police Gazette:** The remake's newspaper-style manual, merging the original's map and manual and needed during play[^ref-45][^ref-7]
 - **LPD Indoctrination Guide (1987 original):** The original's manual, the "Lytton Police Department Policeman's Indoctrination Guide"[^ref-29]
-- **The Police Quest Casebook** (Peter Scisco, Osborne McGraw-Hill, 1993): Sierra-authorized guide to the first three games, covering both the new and classic editions of Police Quest 1[^ref-44][^ref-45]
+- **The Police Quest Casebook** (Peter Scisco, Osborne McGraw-Hill; advertised by Sierra as "Available 10/92", copyright page dated 1993): Sierra-authorized guide to the first three games, covering both the new and classic editions of Police Quest 1[^ref-44][^ref-45]
 - **Novels:** *Police Quest: In Pursuit of the Death Angel* and *Death Angel, Sweet Angel*[^ref-40]
 
 ### Critical Perspective
@@ -245,7 +245,8 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Includes both AGI original and VGA remake
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Includes both AGI original and VGA remake[^ref-9]
+- [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – the same four-game collection, pre-packaged with DOSBox[^ref-9]
 
 **Download / Preservation**
 
@@ -267,14 +268,14 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 [^ref-4]: [Gamer Walkthroughs – Police Quest](https://gamerwalkthroughs.com/police-quest-pursuit-of-the-death-angel/) – plot summary, real-world procedures
 [^ref-5]: [Alex Bevilacqua Blog – Police Quest 1](https://alexbevi.com/blog/2022/03/15/police-quest-1/) – 2022 review of the SCI remake (played via ScummVM), 67%
 [^ref-6]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) – Betty Moffett, 1998, 4/5; Dargan quote, plot, AGI vs. SCI comparison, video-captured actors
-[^ref-7]: [MobyGames – Reviews (VGA remake)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – critics average 72% from 11 ratings (October 2026) and the critic list (Pelit, PC Format, PC Games, Play Time, Secret Service, ACG, JGR, AllGame, etc.); Katakis user review (remake assessment, Gazette, copy protection, ending, non-canonical)
+[^ref-7]: [MobyGames – Reviews (VGA remake)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – critics average 72% from 11 ratings (October 2026) and the critic list with MobyGames' excerpts (Pelit, PC Format, PC Games, Play Time, Secret Service, ACG, JGR, AllGame, etc.; excerpts checked in the [Wayback copy of 19 July 2026](https://web.archive.org/web/20260719223557/https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/)); Katakis user review (remake assessment, Gazette, copy protection, ending, non-canonical)
 [^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – 1987 original: box text ("15 years on the police force"), Law and Order quote, "Crap", typing shortcuts
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – Death Angel "with ties to the underworld"
 [^ref-13]: [Nerds That Geek – Game Review: Police Quest: In Pursuit of the Death Angel](https://web.archive.org/web/20260507090029/https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – John Edward Betancourt, 2018 (archived copy); "stepping behind the badge" quote
 [^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
-[^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – commercial availability; PQ1's enhanced remake with EGA version option
-[^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs, driving view, original credits
+[^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – commercial availability; mentions "PQ1's enhanced remake" (the page's EGA-version option applies to Police Quest 3, not PQ1)
+[^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs (incl. the Helen Hots phone number and "Police Commissioner's wife"), driving view, original credits
 [^ref-18]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1243) – driving difficulty quotes, parsing problems
 [^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – review of the 1987 original: manual detail, Sonny Bonds named after Jim Walls' son
 [^ref-22]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – development history, original credits, plot, sales data, reviews of the original, source code preservation
@@ -286,13 +287,15 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 [^ref-30]: [Sierra Chest – Police Quest](https://www.sierrachest.com/index.php?a=games&id=20) – game based on Jim Walls' personal experiences as a patrol officer
 [^ref-31]: [Adventure Gamer Blog – PQ4 Analysis](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – Jim Walls departure quote
 [^ref-33]: [GOG Database – Police Quest](https://www.gogdb.org/product/1207661263) – GOG version info, Galaxy builds
-[^ref-34]: [Easter Egg Database – Police Quest](https://eeggs.com/items/46877.html) – Get Naked easter egg, traffic stop easter egg
-[^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – review of the 1987 original: career influence quote, accuracy assessment
+[^ref-34]: [Easter Egg Database – Police Quest](https://eeggs.com/items/46877.html) – Get Naked easter egg; user comment on the traffic-stop phone-number egg (it calls the result "the police chief's wife")
+[^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – review of the 1987 original: career influence quote, accuracy assessment (source spellings "eventally" and "accure" bracket-corrected)
 [^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
 [^ref-43]: [Sierra Fandom – Police Quest: In Pursuit of the Death Angel (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) – list of remake changes (procedures, Mercedes, "leisure suit", manual codes as copy protection), 2006 release, CD patch
-[^ref-44]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook) – Peter Scisco, Osborne McGraw-Hill, 1993; Sierra-authorized edition for the first three games
+[^ref-44]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook) – Peter Scisco, Osborne McGraw-Hill; copyright page "Copyright © 1993", ISBN 0-07-881823-0; Sierra-authorized edition for the first three games
 [^ref-45]: [InterAction Magazine Vol. V No. 4 (Winter 1992) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – Sierra's feature on the remake, pp. 34–35: summer 1992 release, VGA and video-captured actors, Lytton Police Gazette, training-tool passage; Casebook notice
 [^ref-46]: [Just Games Retro – Police Quest (VGA Remake)](https://www.justgamesretro.com/dos/police-quest-vga-remake) – The J Man, 2006, 4.5/5; procedures, booking codes, driving, music, crashes, verdict
 [^ref-47]: [MobyGames – Police Quest (VGA) DOS credits](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/credits/dos/) – full 1992 remake credits
-[^ref-48]: [AllGame – Police Quest: In Pursuit of the Death Angel [VGA] review (archived)](https://web.archive.org/web/20141115131203/http://www.allgame.com/game.php?id=23897&tab=review) – Alec Norands review of the remake
+[^ref-48]: [AllGame – Police Quest: In Pursuit of the Death Angel [VGA] review (archived)](https://web.archive.org/web/20141115131203/http://www.allgame.com/game.php?id=23897&tab=review) – Alec Norands review of the remake; AllGame Rating image st_r3.gif shows two of five stars (MobyGames also lists 2/5)
 [^ref-49]: [GOG Database – Police Quest release notes](https://www.gogdb.org/product/1207661263/releasenotes) – 20 February 2026: switched emulation from DOSBox to ScummVM, cloud saves
+[^ref-50]: [MobyGames – SWAT Career Pack](https://www.mobygames.com/game/31963/swat-career-pack/) – 2000 compilation "including the Police Quest 1 VGA remake"; lists both the 1987 entry and the VGA remake (read via the MobyGames API and the Wayback copy of 27 October 2025)
+[^ref-51]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows XP compilation of the first four games; links only to the 1987 entry for PQ1 (read via the MobyGames API)

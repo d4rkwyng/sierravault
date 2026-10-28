@@ -97,7 +97,7 @@ The 1992 remake was produced after Jim Walls left Sierra, with Tammy Dargan and 
 
 ### Technical Achievements
 
-Police Quest was notable as one of Sierra's first releases without copy protection on the DOS platform, serving "as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported Tandy/PCjr, Hercules, CGA and EGA graphics, with audio for the PC speaker and Tandy/PCjr only[^ref-12], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-12].
+Police Quest was notable as the first game Sierra released on the DOS platform without copy protection, serving "as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported Tandy/PCjr, Hercules, CGA and EGA graphics, with audio for the PC speaker and Tandy/PCjr only[^ref-12], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-12].
 
 The 1992 remake showcased significant technical improvements, featuring 256-color VGA graphics and a point-and-click interface[^ref-56], built on the SCI1.1 engine[^ref-43]. This version demonstrated Sierra's evolution in adventure game technology while maintaining the core gameplay that made the original distinctive.
 
@@ -119,7 +119,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 
 - Designer [[Jim Walls]] was a retired California Highway Patrol officer who joined Sierra after a traumatic shooting incident forced him onto administrative leave[^ref-15]
 - The game was apparently used as a training tool by officers at the Allegan City Police Department in Michigan[^ref-10]
-- Police Quest was one of Sierra's first DOS releases without copy protection, serving "as a test for future Sierra releases"[^ref-12]
+- Police Quest was the first game Sierra released on the DOS platform without copy protection, serving "as a test for future Sierra releases"[^ref-12]
 - Many incidents in the game are based on real situations Jim Walls encountered during his 15-year law enforcement career[^ref-42]
 - In [[1988 - Police Quest II - The Vengeance|Police Quest II]], Larry Laffer from [[Leisure Suit Larry Series|Leisure Suit Larry]] makes a cameo appearance at the airport, just past the metal detector[^ref-67]
 - In the [[1992 - Police Quest - In Pursuit of the Death Angel VGA|VGA remake]], Sonny's undercover "pimp suit" was renamed a "leisure suit", a nod to Sierra's Leisure Suit Larry[^ref-29]
@@ -135,6 +135,18 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 Police Quest's impact extends far beyond entertainment, with the game reportedly being used as an actual police training tool[^ref-22][^ref-70]. Sierra's house magazine InterAction, in a Winter 1992 article promoting the VGA re-release (credited by Wikipedia to Rich DeBaun[^ref-15]), wrote that the game "has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures"[^ref-70]. Choicest Games reports that it was apparently used by officers at the Allegan City Police Department in Michigan[^ref-10].
 
 As one modern reviewer observed, "Police Quest represents an interesting experiment in changing what adventure games were all about"[^ref-52]. The first four Police Quest games totaled 850,000 sales by late 1995[^ref-15]. The success led to multiple sequels and established a franchise that would continue throughout the 1990s, though later entries moved away from Walls' authentic approach when he left Sierra after Police Quest III[^ref-6][^ref-17].
+
+### Collections
+
+The game has been included in several compilations, some of which also carry the 1992 VGA remake:
+
+- **3-D Animated Adventure Games Starter Pack** (1987), with Leisure Suit Larry in the Land of the Lounge Lizards and Space Quest: Chapter I[^ref-71]
+- **Daryl F. Gates' Police Quest Collection: The 4 Most Wanted** (1995), with "both the original EGA version and the VGA remake" of Police Quest 1, plus Police Quest 2 to 4[^ref-72][^ref-12]
+- **Police Quest: Collection Series** (1997), with all four Police Quest games plus the first SWAT title[^ref-73][^ref-12]. Neither source says which version of Police Quest 1 it holds.
+- **SWAT Career Pack** (2000), with both the original and the VGA remake, the other three Police Quest games and the first two SWAT games[^ref-74]
+- **Police Quest Collection** (Vivendi, 2006), for Windows XP[^ref-75]. MobyGames links it to this entry,[^ref-75] but Sierra's wiki says the game is listed as "Police Quest 1 VGA" in the collection's Windows menu. The wiki adds that owners of the AGI original can copy its files in through a later DOSBox update, which suggests the collection shipped only the remake.[^ref-29]
+- **Police Quest Collection** on GOG.com and Steam, which contains "both the original EGA release and the 1992 VGA remake"[^ref-43][^ref-24][^ref-62]
+- **Retro Classics** (Antstream Arcade's streaming collection for Xbox Game Pass), which included Police Quest 1 in its launch line-up on May 21, 2025;[^ref-76] Wikipedia's list of the collection's games gives it as the Amiga version[^ref-77]
 
 ## Downloads
 
@@ -176,10 +188,10 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 [^ref-26]: [IMDb – Police Quest: In Pursuit of the Death Angel (1987)](https://www.imdb.com/title/tt0289399/) — 8.2/10 user rating (123 votes, checked 2026-10-12)
 [^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Lytton Police Department
 [^ref-28]: [IMDb – Police Quest: In Pursuit of the Death Angel (1992)](https://www.imdb.com/title/tt0289400/) — 7.7/10 user rating (48 votes, checked 2026-10-12)
-[^ref-29]: [Sierra Fandom Wiki – Police Quest VGA (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) — "Pimp suit" renamed "leisure suit" in VGA remake referencing Leisure Suit Larry
+[^ref-29]: [Sierra Fandom Wiki – Police Quest VGA (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) — "Pimp suit" renamed "leisure suit" in VGA remake referencing Leisure Suit Larry; listed as "Police Quest 1 VGA" in the 2006 collection's Windows menu; 2006 DOSBox update lets owners of the AGI original add it
 [^ref-41]: [MobyGames – Police Quest VGA Reviews](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) — Tammy Dargan led VGA remake after Walls left Sierra; player reviews of the 1992 remake
 [^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis, "the fictional city of Lytton, California"
-[^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Engines: AGI (original), SCI1.1 (VGA remake)
+[^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Engines: AGI (original), SCI1.1 (VGA remake); the digital Police Quest Collection contains "both the original EGA release and the 1992 VGA remake"
 [^ref-52]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) — In-game reference to "LPD Indoctrination Guide" and Felony Stop Procedures; overhead driving map; "interesting experiment" observation
 [^ref-56]: [MobyGames – Police Quest VGA Remake (1992)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface
 [^ref-62]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) — Digital availability (store page lists release date Sep 7, 1987)
@@ -189,3 +201,10 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 [^ref-68]: [Computer Gaming World #46 (April 1988) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_46) — p. 22, "Dusting the Death Angel" by Michael S. Chaut: graphics "the most terrific"; "comes highly recommended"
 [^ref-69]: [Macworld, March 1989 – Internet Archive](https://archive.org/details/MacWorld_8903_March_1989) — p. 183, Keith McCandless, "Animated Adventure Games": "plays like a long version of a routine TV cop show"
 [^ref-70]: [InterAction, Vol. V No. 4, Winter 1992 – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) — Sierra's house magazine promoting the VGA re-release; "practical, effective training tool"
+[^ref-71]: [MobyGames – 3-D Animated Adventure Games Starter Pack](https://www.mobygames.com/game/1077/3-d-animated-adventure-games-starter-pack/) — 1987 compilation of Leisure Suit Larry, Police Quest and Space Quest I (read via the MobyGames API)
+[^ref-72]: [MobyGames – Daryl F. Gates' Police Quest Collection: The 4 Most Wanted](https://www.mobygames.com/game/40486/daryl-f-gates-police-quest-collection-the-4-most-wanted/) — 1995; Police Quest 1 in "both the original EGA version and the VGA remake" (read via the MobyGames API)
+[^ref-73]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) — 1997; Police Quest 1 to 4 and Police Quest: SWAT (read via the MobyGames API)
+[^ref-74]: [MobyGames – SWAT Career Pack](https://www.mobygames.com/game/31963/swat-career-pack/) — 2000; first four Police Quest games "including the Police Quest 1 VGA remake", plus the first two SWAT games (read via the MobyGames API)
+[^ref-75]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) — Windows XP compilation of the first four games, linked to this 1987 entry (read via the MobyGames API)
+[^ref-76]: [IGN – Microsoft Announces Retro Classics With Game Pass](https://www.ign.com/articles/microsoft-announces-retro-classics-with-game-pass-kicks-things-off-with-over-50-activision-games-from-the-80s-and-90s) — Wesley Yin-Poole, May 21, 2025; launch list includes "Police Quest 1"
+[^ref-77]: [Wikipedia – Retro Classics](https://en.wikipedia.org/wiki/Retro_Classics) — games table lists Police Quest: In Pursuit of the Death Angel as the Amiga version, added May 21, 2025
