@@ -10,13 +10,13 @@ series: Hi-Res Adventures
 engine: ADL (Adventure Development Language)
 protagonist: Unnamed Time Traveler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: "Time Zone (1982), Hi-Res Adventure #5, is Roberta Williams's time-travel epic for the Apple II, with about 1,300 rooms on both sides of six disks, sold by On-Line Systems for $99.95."
 tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ At $99.95, Time Zone was the most expensive game on the market; Softline noted i
 > **Developer:** [[On-Line Systems]][^ref-1]
 > **Design/Writing:** [[Roberta Williams]][^ref-2]
 > **Publisher:** On-Line Systems[^ref-1]
-> **Engine:** ADL (Adventure Development Language)[^ref-1]
+> **Engine:** ADL (Adventure Development Language)[^ref-1][^ref-28]
 > **Platforms:** Apple II, FM-7, PC-88, PC-98[^ref-2]
 > **Release Year:** 1982
 > **Series:** Hi-Res Adventures (#5)
@@ -49,7 +49,7 @@ The player visits seven continents in nine time periods,[^ref-14] from the Prehi
 
 ### Interface and Controls
 
-Time Zone uses a two-word parser typical of early 1980s illustrated adventures.[^ref-1] The screen is split between a hi-res picture and four lines of text, and players type commands of the form verb-noun, such as "GET KEY".[^ref-3] Players can switch between graphic and text modes.[^ref-8] According to Roberta Williams, Time Zone's pictures draw about three times faster than those in On-Line's earlier games, and the inventory is kept in memory, so it no longer requires a disk access.[^ref-16][^ref-14]
+Time Zone uses a two-word parser typical of early 1980s illustrated adventures.[^ref-1] The screen is split between a hi-res picture and four lines of text, and players type commands of the form verb-noun, such as "GET KEY".[^ref-3] Players can switch between graphic and text modes.[^ref-8][^ref-2] According to Roberta Williams, Time Zone's pictures draw about three times faster than those in On-Line's earlier games, and the inventory is kept in memory, so it no longer requires a disk access.[^ref-16][^ref-14]
 
 ### Structure and Progression
 
@@ -95,7 +95,7 @@ During the industry downturn reported in the July 1982 issue, Softalk observed t
 
 ### Retrospective Assessment
 
-Later accounts are harsher. Maher writes that Time Zone "became a notorious, high-profile flop, the first such that On-Line had ever released," and quotes John Williams, Roberta's brother-in-law and an On-Line employee: "It frankly wasn't that good."[^ref-5] Wikipedia states that the game sold poorly.[^ref-1] Neither source gives a sales figure, and the Softalk charts above show it near the top of its genre for much of 1982.
+Later accounts are harsher. Maher writes that Time Zone "became a notorious, high-profile flop, the first such that On-Line had ever released," and quotes John Williams, Roberta's brother-in-law and an On-Line employee: "It frankly wasn't that good."[^ref-5][^ref-1] Wikipedia states that the game sold poorly.[^ref-1] Neither source gives a sales figure, and the Softalk charts above show it near the top of its genre for much of 1982.
 
 Blogger Jason Dyer, who finished the game in 24 hours of play, found it easy next to some contemporaries but full of red herrings. He wrote that the game asked, "what if you really could go anywhere at any time?" and tried to answer it.[^ref-6]
 
@@ -106,7 +106,7 @@ Blogger Jason Dyer, who finished the game in 24 hours of play, found it easy nex
 
 ### Origins
 
-According to Maher, Roberta Williams began planning the game in early 1981. She wanted a treasure hunt through time and space, ending on an alien planet in the far future.[^ref-5] By the time she gave Ken the complete design that summer, it had grown from an estimated five or six disk sides to twelve.[^ref-5] Most games of the period rarely took up more than one side of a floppy disk.[^ref-3]
+According to Maher, Roberta Williams began planning the game in early 1981. She wanted a treasure hunt through time and space, ending on an alien planet in the far future.[^ref-5] By the time she gave Ken the complete design that summer, it had grown from an estimated five or six disk sides to twelve.[^ref-5] Most games of the period rarely took up more than one side of a floppy disk.[^ref-3][^ref-1]
 
 Taking into account the sheer quantity of locations, On-Line priced the game at $99.95. Maher writes that this was "about twice what anyone had dared to charge for even the most ambitious of computer games before," and that, adjusted for inflation, Time Zone is "still quite possibly the most expensive videogame ever released."[^ref-5]
 
@@ -130,7 +130,7 @@ Roberta Williams later reflected on the scope of the undertaking: "Once we got i
 
 ### Technical Achievements
 
-Time Zone used On-Line's ADL (Adventure Development Language) engine, which powered the Hi-Res Adventures series.[^ref-1] According to the manual, fitting the game into memory "required a complete restructuring of our adventure programming procedures," including new graphics routines and a new way to move information from one scenario disk to another.[^ref-14] The manual credits "the new color fill routines, designed by Warren Schwader, that put the color on screen approximately 3 times faster than our other adventures."[^ref-14] Moving to a new region triggers an "information transfer" delay of about ten seconds.[^ref-14]
+Time Zone used On-Line's ADL (Adventure Development Language) engine, which powered the Hi-Res Adventures series.[^ref-1][^ref-28] Maher expands the acronym differently, as "Adventure Design Language."[^ref-5] According to the manual, fitting the game into memory "required a complete restructuring of our adventure programming procedures," including new graphics routines and a new way to move information from one scenario disk to another.[^ref-14] The manual credits "the new color fill routines, designed by Warren Schwader, that put the color on screen approximately 3 times faster than our other adventures."[^ref-14] Moving to a new region triggers an "information transfer" delay of about ten seconds.[^ref-14]
 
 The game shipped on six double-sided floppy disks, twelve disk sides in total.[^ref-12] The disks are differentiated by volume number, and players must swap disks as they travel between regions.[^ref-12][^ref-14]
 
@@ -158,7 +158,7 @@ In April 1982, Roberta Williams said Atari 400/800 and IBM PC versions might fol
 
 ### Technical Issues
 
-Players running Time Zone in emulators have reported trouble with the save function. The game needs a specially initialized save disk, and one forum user reported difficulty getting the virtual save game to work.[^ref-13] The .dsk container format requires substantial modification to work, though .woz files work.[^ref-12]
+The game needs a specially initialized save disk,[^ref-14] and one player running it in an emulator reported difficulty getting the virtual save game to work.[^ref-13] Because the disks are told apart by volume number, the Internet Archive notes that they cannot be played as .dsk images without substantial modification; the .woz images work.[^ref-12]
 
 ### Easter Eggs and Trivia
 
@@ -175,7 +175,7 @@ Time Zone's commercial record is disputed. Contemporary charts show it selling s
 
 ### Collections
 
-The IF-Legends archive says Time Zone was "probably rereleased by SierraVenture in 1982."[^ref-4] Softalk's December 1982 catalog still listed it at $99.95.[^ref-22] The game was later included as an Apple II disk image in *The Roberta Williams Anthology* (1996).[^ref-2][^ref-4]
+The IF-Legends archive says Time Zone was "probably rereleased by SierraVenture in 1982."[^ref-4] Softalk's December 1982 holiday gift guide still listed it at $99.95.[^ref-22] The game was later included as an Apple II disk image in *The Roberta Williams Anthology* (1996).[^ref-2][^ref-4]
 
 ### Fan Projects
 
@@ -196,7 +196,7 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- No current digital store listing found.
 
 **Download / Preservation**
 - [Internet Archive – Time Zone v1.1](https://archive.org/details/wozaday_Time_Zone_v11)[^ref-11]
@@ -243,9 +243,10 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 [^ref-19]: [Softalk, May 1982](https://archive.org/details/softalkv2n09may1982) – Adventure chart #1; Howard Luthy named official hint-giver
 [^ref-20]: [Softalk, June 1982](https://archive.org/details/softalkv2n10jun1982) – review ("microepic"), thirty-nine scenarios, 400 million B.C. to 4082 A.D., fourteen months, twenty-two disks compressed to six, Adventure chart #3
 [^ref-21]: [Softalk, July 1982](https://archive.org/details/softalkv2n11jul1982) – Adventure chart #2 for May sales; "willing to shell out the $100"
-[^ref-22]: [Softalk, December 1982](https://archive.org/details/softalkv3n04dec1982) – Sierra On-Line catalog listing at $99.95
+[^ref-22]: [Softalk, December 1982](https://archive.org/details/softalkv3n04dec1982) – Softalk buyer's guide listing (Third Annual Holiday Gift Guide, "By the Companies" section, under Sierra On-Line): "Both sides of six disks. $99.95."
 [^ref-23]: [Softalk, April 1983](https://archive.org/details/softalkv3n08apr1983) – 1982 poll: Top Thirty #20, Adventure Ten #1
 [^ref-24]: [Softline, March 1982](https://archive.org/details/Softline_1982_03) – "Time Zone just surpassed Wizardry ... as the most expensive game at $99"
 [^ref-25]: [Softline, May 1982](https://archive.org/details/Softline_1982_05) – forty scenarios, more than fourteen months, Vault of Ages mapping project on The Source
 [^ref-26]: [BYTE, December 1982](https://archive.org/details/byte-magazine-1982-12) – "Without a doubt, it is the longest adventure to date with more than 1400 color graphic pictures"
 [^ref-27]: [Electronic Games, January 1983 – 1983 Arcade Awards](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – Deadline Best Computer Adventure; Time Zone Certificate of Merit
+[^ref-28]: [ScummVM Wiki – ADL (Wayback Machine, 2025)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'", created by Ken Williams; lists Time Zone among the games using the engine
