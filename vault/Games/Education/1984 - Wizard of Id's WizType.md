@@ -10,7 +10,7 @@ series: Wizard of Id
 engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing...
@@ -18,13 +18,13 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Wizard of Id's WizType is an educational typing game released in 1984 by Sierra On-Line, designed to give keyboard novices lessons on improving their typing accuracy and speed.[^ref-1][^ref-2] The game was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] It is based on the comic strip "The Wizard of Id," created by artist Brant Parker and writer Johnny Hart.[^ref-2][^ref-19]
 
-WizType came out for the Apple II, Commodore 64, Atari 8-bit and DOS.[^ref-2][^ref-14] COMPUTE!'s review covered the Atari, Commodore 64 and Apple II versions, each needing at least 32K of RAM and a disk drive, at a price of $34.95.[^ref-17] Reviewing the Atari version in November 1984, COMPUTE! said that among the many typing programs on dealers' shelves, "it just might be the best one yet."[^ref-17] The game offers six modes, each with multiple skill levels, and the challenge rises as players progress.[^ref-10][^ref-18]
+WizType came out for the Apple II, Commodore 64, Atari 8-bit and DOS.[^ref-2][^ref-14] COMPUTE!'s review covered the Atari, Commodore 64 and Apple II versions, each needing at least 32K of RAM and a disk drive, at a price of $34.95.[^ref-17] Reviewing the Atari version in November 1984, COMPUTE! said that among the many typing programs on dealers' shelves, "it just might be the best one yet."[^ref-17] The game offers six modes, four of which have 20 levels each, and the challenge rises as players progress.[^ref-10][^ref-18]
 
 WizType was one of two 1984 edutainment titles built on the Wizard of Id license; the other was WizMath.[^ref-6][^ref-19] Apple II Bits notes that "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6] The comic strip itself was first syndicated on November 9, 1964, two decades before the game.[^ref-19]
 
@@ -132,7 +132,7 @@ No sales figures for WizType have been found.
 
 ### Collections
 
-No compilation release of WizType has been found in the sources consulted. The original releases are preserved on the Internet Archive.[^ref-1][^ref-9][^ref-10]
+No compilation release of WizType has been found in the sources consulted. The original releases are preserved on the Internet Archive.[^ref-1][^ref-9]
 
 ### Related Publications
 
@@ -190,7 +190,7 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 
 [^ref-17]: [COMPUTE! Issue 54 (November 1984), p. 131 – Reviews: WizType](https://www.atarimagazines.com/compute/issue54/147_3_REVIEWS_WizType.php) – review by James V. Trunzo: platforms, 32K, $34.95, six options, eight literary works, 10–60 WPM, Wizard's jokes
 
-[^ref-18]: [Computer Gaming World, June 1984 – "Taking a Peek" (WizType product news, PDF via Sierra Gamers)](https://www.sierragamers.com/wp-content/uploads/2019/12/Wiztype_Product_NewsCGWJun84.pdf) – "There are six modes and twenty levels of play"
+[^ref-18]: [Computer Gaming World, June 1984 – "Taking a Peek" (WizType product news, PDF via Sierra Gamers)](https://www.sierragamers.com/wp-content/uploads/2019/12/Wiztype_Product_NewsCGWJun84.pdf) (searchable scan: [archive.org](https://archive.org/details/Computer_Gaming_World_Issue_4.3)) – "There are six modes and twenty levels of play"
 
 [^ref-19]: [Wikipedia – The Wizard of Id](https://en.wikipedia.org/wiki/The_Wizard_of_Id) – strip by Brant Parker and Johnny Hart, first syndicated November 9, 1964; WizMath and WizType released 1984
 
