@@ -10,7 +10,7 @@ series: Leeper
 engine: Machine Language
 protagonist: Leeper
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Learning with Leeper is a 1983 educational game developed and published
   by Sierra On-Line for children aged three to six, offering four wordless activities
   (counting, shape matching, a maze and screen painting) and winning the 1984 Arkie
@@ -19,7 +19,7 @@ tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -75,13 +75,13 @@ The manual describes the matching game as building reading readiness, since chil
 
 Learning with Leeper won "1984 Best Educational Video Game/Computer Game" at the 5th annual Arkie Awards[^ref-1]. Bill Kunkel and Arnie Katz announced the award in *Video* magazine (February 1984). They called it "a painless way for youngsters to learn such tricky concepts as counting and shape recognition", and added that "children too young to read will have a fine time with this entertaining and educational game"[^ref-4].
 
-Betsy Staples of the Gifted Children Newsletter wrote that "all in all, we think [it] is an excellent package", as quoted on Wikipedia[^ref-1]. According to UVList, the French magazine Tilt rated the game 4 out of 6 in issue 17 (December 1984)[^ref-9].
+Betsy Staples of the Gifted Children Newsletter wrote that "all in all, we think [it] is an excellent package", as quoted on Wikipedia[^ref-1]. The French magazine *Tilt* listed the ColecoVision cartridge as entry 235 in the annual buyers' guide of its December 1984 issue (no. 17), at 380 F. On the magazine's six-star scale it received four stars for graphics and five for animation, and the verdict read: "Jeux très bien conçus et agrémentés d'un excellent graphisme (de 3 à 6 ans)" (very well designed games with excellent graphics, ages 3 to 6)[^ref-19]. UVList records Tilt's score as 4/6[^ref-9].
 
 ### Modern Assessment
 
 Modern retrospectives are less kind. Lazy Game Reviews (LGR) covered the ZX Spectrum version, and the video's description reads: "Sierra On-Line made this back in 1983... and it sucks. Yet this won Best Educational Game?!"[^ref-10]
 
-Wikipedia also summarises later books that mention the game. *Reaching Students Through Computers* called it a "very simple program", and *Ready: A Commodore 64 Retrospective* gave it a rarity score of 3[^ref-1].
+Wikipedia also summarises later books and articles that mention the game. A 1985 journal article, "Reaching Students Through Computers: A New Therapy for Learning and Playing", called it a "very simple program", and *Ready: A Commodore 64 Retrospective* gave it a rarity score of 3[^ref-1].
 
 **Aggregate Scores:**
 - **MobyGames:** 3.5/5 (8 player ratings)[^ref-5]
@@ -123,7 +123,7 @@ Sierra Chest lists the game's engine as "Machine Language"[^ref-3]. Sierra publi
 - **Manual Pages:** 6[^ref-18]
 
 **ZX Spectrum Version:**[^ref-14]
-- **Machine Type:** 48K minimum
+- **Machine Type:** 48K
 - **Format:** Cassette
 - **Protection:** Padlock Protection
 - **Original Price:** £9.95 (UK)
@@ -152,6 +152,8 @@ Some sources list the ColecoVision release as 1984 rather than 1983[^ref-2][^ref
 ### Copy Protection
 
 The ZX Spectrum version used Padlock Protection, and World of Spectrum archives its code sheet[^ref-14]. A resale listing describes copies as containing the tape, case and an "instruction sheet/copy protection sheet"[^ref-16].
+
+The Apple II disk was a normal DOS 3.3 disk guarded by a nibble count on track 0, which *Hardcore Computist* called "standard Sierra". Marco Hunter's softkey for the game in issue 13 (1984) lists it at $34.95 for a 48K Apple, and opens: "The three things you can count on in this life are death, taxes, and Sierra On-Line's nibble counts."[^ref-20]
 
 ### Trivia
 
@@ -182,7 +184,7 @@ The game is documented in several retro gaming databases, including MobyGames, G
 
 ### Critical Perspective
 
-Opinions of the game have changed over time. In 1984 the Arkie judges singled it out as the year's best educational game, and expected its painting segment to "be a spur to youthful creativity"[^ref-4]. Later views were more reserved: *Reaching Students Through Computers* called it a "very simple program"[^ref-1], and LGR's retrospective dismissed it outright[^ref-10]. *Math and Science for Young Children* argues the game can give children one-to-one kinesthetic and perceptual-motor experiences, as summarised on Wikipedia[^ref-1].
+Opinions of the game have changed over time. In 1984 the Arkie judges singled it out as the year's best educational game, and expected its painting segment to "be a spur to youthful creativity"[^ref-4]. Later views were more reserved: the 1985 article "Reaching Students Through Computers" called it a "very simple program"[^ref-1], and LGR's retrospective dismissed it outright[^ref-10]. *Math and Science for Young Children* argues the game can give children one-to-one kinesthetic and perceptual-motor experiences, as summarised on Wikipedia[^ref-1].
 
 ## Purchase
 
@@ -229,3 +231,5 @@ Learning with Leeper is not currently sold on any digital storefront.
 [^ref-16]: [SellMyRetro Listing](https://www.sellmyretro.com/offer/details/learning-with-leeper-57712) – rarity assessment, ZX Spectrum format, copy protection sheet
 [^ref-17]: [Game Value Now – Learning with Leeper](https://gamevaluenow.com/colecovision/learning-with-leeper?gameid=58) – last recorded sale date
 [^ref-18]: [Internet Archive – Commodore 64 Manual](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line) – minigame names and aims, "no words are used", hidden levels, Port 2, "Program and graphics by Bobbit", 6 scanned pages
+[^ref-19]: [Tilt no. 17, December 1984, "500 cartouches, cassettes et disquettes" buyers' guide, pp. 76–77 – Internet Archive](https://archive.org/details/Tilt017) – entry 235: Sierra On-Line, C.B.S. Colecovision, Educatif, 1 player, Cartouche, star ratings, 380 F, "Notre avis" verdict; six-star scale defined in the editorial
+[^ref-20]: [Hardcore Computist No. 13 (1984), Marco Hunter, "Softkey For Learning With Leeper", p. 8 – Internet Archive](https://archive.org/stream/computist-scan-13/issue13) – Apple II price $34.95, 48K Apple and DOS 3.3, nibble count on track 0
