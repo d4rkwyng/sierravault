@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-27'
 description: The Black Cauldron is a 1986 Sierra On-Line adventure game based on
   Disney's 1985 animated film, designed by Al Lowe and Roberta Williams and controlled
   with function keys instead of a text parser.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, al-lowe, disney, roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -47,9 +47,9 @@ The game follows the basic plot structure of the Disney film but allows for sign
 
 ### Interface and Controls
 
-The Black Cauldron used an innovative interface that, according to Wikipedia, would not reappear in the genre for about ten years[^ref-3]. To make the game more accessible to children, Sierra removed the text parser and used function keys instead[^ref-3]. Players moved Taran with the arrow keys and interacted with the world through specific function keys: F3 to choose inventory items, F4 to use inventory items, F6 to use items near the character's location, and F8 to look at objects[^ref-8].
+The Black Cauldron used an innovative interface that, according to Wikipedia, would not reappear in the genre for about ten years[^ref-3]. To make the game more accessible to children, Sierra removed the text parser and used function keys instead[^ref-3]. Players moved Taran with the arrow keys and interacted with the world through specific function keys: F3 to choose inventory items, F4 to use inventory items, F6 to use items near the character's location, and F8 to look at objects[^ref-3][^ref-6].
 
-Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 2/10, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11].
+Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 1/5, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11].
 
 ### Structure and Progression
 
@@ -59,7 +59,7 @@ Players could explore the world of Prydain, collecting items, solving puzzles, a
 
 ### Puzzles and Mechanics
 
-The puzzles were designed to be more straightforward than typical Sierra adventures of the era, reflecting the game's target audience of children[^ref-12]. The game included both inventory-based puzzles and simple arcade sequences, though "even the arcade segments are pretty simple"[^ref-13]. Players could save their progress using 12 save slots[^ref-8]. Antic's reviewer noted that on the Atari ST, "although not mentioned in the documentation, the game speed may be adjusted by typing 'slow,' 'fast' or 'normal'"[^ref-11].
+Sierra aimed the game at children[^ref-3], and Hardcore Gaming 101 notes its "generally lowered difficulty" compared with most other games of the time[^ref-13]. The game included both inventory-based puzzles and simple arcade sequences, though "even the arcade segments are pretty simple"[^ref-13]. Players could save their progress in 12 save slots[^ref-6]. Antic's reviewer noted that on the Atari ST, "although not mentioned in the documentation, the game speed may be adjusted by typing 'slow,' 'fast' or 'normal'"[^ref-11].
 
 ## Reception
 
@@ -74,7 +74,7 @@ The puzzles were designed to be more straightforward than typical Sierra adventu
 
 ### Modern Assessment
 
-Modern retrospective reviews have been mixed. Adventure Classic Gaming's Davide Tomei gave the original game 3/5 (Good) in 2008, concluding that "even for today, The Black Cauldron is a decent adventure game. The dated graphics and the clumsy interface can make for some frustrating gameplay, but they are endurable flaws"[^ref-18]. Alex Bevilacqua was less kind, giving it just 23% in 2023[^ref-19].
+Modern retrospective reviews have been mixed. Adventure Classic Gaming's Davide Tomei gave the original game 3/5 (Good) in 2008, concluding that "even for today, The Black Cauldron is a decent adventure game. The dated graphics and the clumsy interface can make for some frustrating gameplay, but they are endurable flaws"[^ref-18]. Alex Bevilacqua was less kind, giving it just 23% under the revised scoring criteria he adopted in August 2024; his original November 2023 score was 34%[^ref-19].
 
 User reviews on aggregate sites show more positive reception, with MyAbandonware users rating it 4.27/5[^ref-20] and DOSGames.com giving it 4/5[^ref-2]. MobyGames shows a critic aggregate score of 67% with players rating it 3.5/5[^ref-21]. Hardcore Gaming 101 argues that "the simpler interface, slightly more structured approach, and generally lowered difficulty actually make it more approachable for the modern gamer than most other games of the time"[^ref-13].
 
@@ -86,19 +86,21 @@ Disney had no in-house software developers at the time[^ref-4]. Al Lowe has give
 
 ### Production
 
-Disney provided Sierra with unusual access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4] This collaboration allowed the game to maintain visual and audio consistency with the Disney film.
+Disney provided Sierra with unusual access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4]
 
-MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, Scott Murphy, Jeff Stephenson and Ken Williams, and the graphics credits to Mark Crowe, Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23]. The game was built using Sierra's AGI engine[^ref-24].
+MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, Scott Murphy, Jeff Stephenson and Ken Williams, and the graphics credits to Mark Crowe, Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23].
 
 ### Technical Achievements
 
-Reviewing the Atari ST version, Antic's Matthew Loveless found that, although the pictures were "in a chunky low-resolution mode", "the images are slickly drawn with accurate perspective and subtle shading", with Taran "a lifelike animated character"[^ref-11]. The DOS version supported CGA, MCGA, EGA, Hercules, Tandy/PCjr and VGA video modes[^ref-8]. The Apple IIgs version featured enhanced audio capabilities using the ES5503 sound chip[^ref-25].
+Reviewing the Atari ST version, Antic's Matthew Loveless found that, although the pictures were "in a chunky low-resolution mode", "the images are slickly drawn with accurate perspective and subtle shading", with Taran "a lifelike animated character"[^ref-11]. The DOS version supported CGA, MCGA, EGA, Hercules, Tandy/PCjr and VGA video modes[^ref-8]. The Apple IIgs version's soundtrack, credited to Elmer Bernstein, plays through the IIgs's ES5503 sound chip[^ref-25].
 
 The game required only 256K of memory and ran on systems as basic as the Intel 8088[^ref-8]. There were performance issues, though. On the Atari ST, Antic noted that "the adjacent screen is loaded in slowly" whenever Taran walked off the edge of a screen[^ref-11].
 
-## Legacy
+### Release
 
-The Black Cauldron's function-key interface, which replaced typed commands, was an approach Wikipedia says did not reappear in the genre for about ten years[^ref-3].
+Contemporary records date the IBM PC version to late 1985, earlier than the 1986 date MobyGames gives. A Standard & Poor's stock report on Sierra, dated April 14, 1989, lists "The Black Cauldron (10/85)" among the company's products with their introduction dates[^ref-32]. Sierra's advertisement in the December 1985 issue of Creative Computing already carried the game under a "NEW!" banner: "The Black Cauldron: 'the closest thing yet to a living game'—Roe Adams, Computer Gaming World Magazine. Developed with Walt Disney Personal Computer Software Staff. For IBM PC/PCjr, $39.95"[^ref-33]. Wikipedia gives an October–December 1985 release[^ref-3]. MobyGames dates the DOS and PC booter releases to 1986, the Apple II and Atari ST versions to April 1986, and the Amiga and Apple IIgs versions to 1987[^ref-1].
+
+## Legacy
 
 ### Preservation and Fan Community
 
@@ -128,19 +130,18 @@ Disney's original backgrounds and animation cells were used to model the game's 
 
 ## References
 
-[^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – Developer and publisher information
+[^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – Developer and publisher information; platform release dates (read via the MobyGames API)
 [^ref-2]: [DOSGames.com - The Black Cauldron](https://dosgames.com/game/black-cauldron-the/) – Al Lowe attribution; site rating
-[^ref-3]: [Wikipedia - The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_%28video_game%29) – Function-key interface replacing the parser
+[^ref-3]: [Wikipedia - The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_%28video_game%29) – Function-key interface replacing the parser; October–December 1985 release
 [^ref-4]: [Al Lowe's Website - Games](https://allowe.com/downloads/games.html) – First-hand development account; official freeware download
 [^ref-5]: [Archive.org - Black Cauldron MS-DOS](https://archive.org/details/msdos_Black_Cauldron_The_1986) – Plot description
-[^ref-6]: [Color Computer Archive - Walkthrough](https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra).txt) – Plot summary
+[^ref-6]: [Color Computer Archive - Walkthrough](https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra).txt) – Plot summary; function-key controls and 12 save slots
 [^ref-7]: [DOS Games Archive - The Black Cauldron](https://www.dosgamesarchive.com/download/the-black-cauldron/) – Al Lowe quote and freeware status
 [^ref-8]: [PCGamingWiki - The Black Cauldron](https://www.pcgamingwiki.com/wiki/The_Black_Cauldron) – Technical specifications
-[^ref-9]: [HonestGamers - The Black Cauldron Review](http://www.honestgamers.com/13367/pc/the-black-cauldron/review.html) – Community review by Nightfire (April 2, 2017), 2/10
+[^ref-9]: [HonestGamers - The Black Cauldron Review](http://www.honestgamers.com/13367/pc/the-black-cauldron/review.html) – Community review by Nightfire (April 2, 2017), 1/5
 [^ref-10]: [GOG.com - The Black Cauldron Wishlist](https://www.gog.com/dreamlist/game/the-black-cauldron-1986) – Product description
 [^ref-11]: [Antic Vol. 5 No. 12 (April 1987) - ST Product News: Black Cauldron review](https://www.atarimagazines.com/v5n12/STProductNews.html) – Matthew Loveless's Atari ST review: graphics, controls, speed command, verdict
-[^ref-12]: [Gamer Walkthroughs - The Black Cauldron](https://gamerwalkthroughs.com/the-black-cauldron/) – Design philosophy
-[^ref-13]: [Hardcore Gaming 101 - The Black Cauldron](http://www.hardcoregaming101.net/the-black-cauldron/) – Modern assessment
+[^ref-13]: [Hardcore Gaming 101 - The Black Cauldron (Wayback copy)](http://web.archive.org/web/20250113031736/http://www.hardcoregaming101.net/the-black-cauldron/) – Kurt Kalata's modern assessment (September 11, 2017)
 [^ref-15]: [Atarimania - The Black Cauldron](https://www.atarimania.com/game-atari-st-black-cauldron-_35670.html) – Lists C+VG (August 1986) rating as 8/10
 [^ref-16]: [Every Game Going - The Black Cauldron (Computer & Video Games #58)](https://www.everygamegoing.com/larticle/The-Black-Cauldron-000/41649) – C&VG #58, August 1986, Atari ST review, page 74
 [^ref-17]: [Lemon Amiga - The Black Cauldron](https://www.lemonamiga.com/games/details.php?id=164) – Amiga magazine review scores (Info, Datormagazin)
@@ -150,9 +151,10 @@ Disney's original backgrounds and animation cells were used to model the game's 
 [^ref-21]: [MobyGames - The Black Cauldron Reviews](https://www.mobygames.com/game/194/the-black-cauldron/reviews/) – Aggregate scores
 [^ref-22]: [Game Developer - In-Depth: Al Lowe Talks Early-Days Adventure Genre Challenges In New Book](https://www.gamedeveloper.com/game-platforms/in-depth-al-lowe-talks-early-days-adventure-genre-challenges-in-new-book) – Interview excerpt by Philipp Lenssen (July 30, 2010)
 [^ref-23]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Crowe and Murphy planned Space Quest while finishing The Black Cauldron
-[^ref-24]: [Sierra Fandom - The Black Cauldron](https://sierra.fandom.com/wiki/The_Black_Cauldron) – Technical details
 [^ref-25]: [VGMRips - The Black Cauldron Apple IIgs](https://vgmrips.net/packs/pack/the-black-cauldron-apple-iigs) – Audio specifications
 [^ref-28]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – AGI vector graphics; The Black Cauldron listed among AGI games
 [^ref-29]: [Adventure Game Studio - Black Cauldron Remake by DreamMaster](https://www.adventuregamestudio.co.uk/play/game/451-black-cauldron-remake/) – 2004 freeware fan remake; AGS Panel rating (2015)
 [^ref-30]: [The Men Who Designed Space Quest 3 (The Sierra Newsletter, Spring 1989)](http://wiw.org/~jess/2guys_sq3.html) – Mark Crowe and Scott Murphy interview by Nancy Grimsley
 [^ref-31]: [MobyGames - The Black Cauldron credits (DOS)](https://www.mobygames.com/game/194/the-black-cauldron/credits/dos/) – Design, programming and graphics credits; platform list
+[^ref-32]: [Standard & Poor's Standard OTC Stock Report: Sierra On-Line (April 14, 1989), Wayback copy](http://web.archive.org/web/20260928224151/https://www.sierragamers.com/wp-content/uploads/2019/12/1989_xx_Sierra_On-Line_Standard_OTC_Stock_Report.pdf) – Product sales table with introduction dates: "The Black Cauldron (10/85)"
+[^ref-33]: [Creative Computing Vol. 11 No. 12 (December 1985) - Sierra advertisement](https://archive.org/details/creativecomputing-1985-12/page/n12/mode/1up) – "NEW!" listing for The Black Cauldron, IBM PC/PCjr, $39.95
