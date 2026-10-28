@@ -10,20 +10,20 @@ series: The Lord of the Rings
 engine: The Realm Online server code (planned)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: Middle-earth Online (also known as MEO) was Sierra On-Line's cancelled massively multiplayer
   online role-playing game based on J.R.R. Tolkien's Middle-earth, begun in 1998 and later...
 tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle-earth Online
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
-Middle-earth Online (also known as MEO) was an ambitious massively multiplayer online role-playing game based on J.R.R. Tolkien's Middle-earth that was licensed by Sierra On-Line in 1998 and initially developed by Yosemite Entertainment.[^ref-1] The project represented one of the earliest attempts to bring Tolkien's legendary fantasy world into the online gaming space, predating what would eventually become The Lord of the Rings Online by nearly a decade.[^ref-2] Sierra wasn't the first MMO studio to take a crack at Tolkien's license—the company had a brief but memorable run designing what Engadget's retrospective called "What if LotRO had permadeath?"[^ref-3]
+Middle-earth Online (also known as MEO) was an ambitious massively multiplayer online role-playing game based on J.R.R. Tolkien's Middle-earth that was licensed by Sierra On-Line in 1998 and initially developed by Yosemite Entertainment.[^ref-1] The project was an early attempt to build a graphical massively multiplayer game set in Middle-earth, predating what would eventually become The Lord of the Rings Online by nearly a decade.[^ref-2][^ref-19] Sierra wasn't the first MMO studio to take a crack at Tolkien's license—the company had a brief but memorable run designing what Engadget's retrospective called "What if LotRO had permadeath?"[^ref-3]
 
-The game was distinguished by design ideas rarely seen in the genre, including permanent character death, a limit on the Elven population, and severe limits on magic.[^ref-4] The Elf limit was meant to keep player numbers in line with the diminished Elven population seen in the books.[^ref-3] However, Sierra hit financial trouble in 1999 and replaced the staff working on the game,[^ref-2] and by the end of the Sierra era the entire development team had been dismissed.[^ref-4] Years later fans were still asking why the game never shipped.[^ref-6]
+The game was distinguished by design ideas rarely seen in the genre, including permanent character death, a limit on the Elven population, and severe limits on magic.[^ref-4] The Elf limit was meant to keep player numbers in line with the diminished Elven population seen in the books.[^ref-3] However, Sierra hit financial trouble in 1999 and replaced the staff working on the game,[^ref-2] and a fan site later reported that "the entire Dev. Team was axed".[^ref-4] As late as August 2005, a fan on a Sierra forum was still asking why the game never shipped.[^ref-6]
 
 This page covers Sierra's project. The name Middle-earth Online was later reused for a separate design by Turbine under Vivendi Universal Games (announced 2003), which became The Lord of the Rings Online; that later version is summarised separately below.[^ref-2][^ref-8]
 
@@ -41,7 +41,7 @@ This page covers Sierra's project. The name Middle-earth Online was later reused
 
 ## Story Summary
 
-Sierra's Middle-earth Online was to take place after the events of the books, "a couple generations into the Fourth Age," trying to answer the question of "what happened next?"[^ref-3] It was designed as a sandbox experience in the style of Ultima Online rather than a themepark, letting players live as inhabitants of Middle-earth, build and destroy structures, and take on randomly generated adventures.[^ref-3]
+Sierra's Middle-earth Online was to take place after the events of the books, "a couple generations into the Fourth Age," trying to answer the question of "what happened next?"[^ref-3][^ref-19] It was designed as a sandbox experience in the style of Ultima Online rather than a themepark, letting players live as inhabitants of Middle-earth, build and destroy structures, and take on randomly generated adventures.[^ref-3]
 
 The original Sierra vision placed players in a world where the consequences of their actions could be permanent.[^ref-4] Permadeath was to apply only in certain situations: according to Daniel James, only players who chose to become branded "murderers" would be fair game for it.[^ref-3]
 
@@ -87,15 +87,14 @@ The project is primarily remembered as a fascinating "what if" in MMORPG history
 
 When The Lord of the Rings Online finally launched in 2007 under Turbine's development, Eurogamer gave it 9/10, saying it was "thrilled, delighted and in no small measure surprised" to be asking "How did it all go so right?"[^ref-11]
 
-**Aggregate Scores (for The Lord of the Rings Online, the game's successor, as of October 11, 2026):**
-- **Steam:** Very Positive - 81% of 23,328 user reviews (all languages) positive[^ref-12]
-- **Recent Steam Reviews:** 82% of 129 reviews in the last 30 days positive[^ref-12]
+**Aggregate Scores (for The Lord of the Rings Online, the game's successor, as of October 27, 2026):**
+- **Steam:** Very Positive - 81% of English-language user reviews positive[^ref-12]
 
 ## Development
 
 ### Origins
 
-In 1997, Sierra's Craig Alexander looked at the moderate success of The Realm Online and wondered how a similar game might do with a powerhouse license behind it; the idea of licensing Tolkien's works followed.[^ref-3] Sierra On-Line obtained the license in 1998, and development was assigned to Yosemite Entertainment.[^ref-1] Doing it right was expected to cost over $5 million, a massive sum for an unproven genre at the time.[^ref-3]
+In 1997, Sierra's Craig Alexander looked at the moderate success of The Realm Online and wondered how a similar game might do with a powerhouse license behind it; the idea of licensing Tolkien's works followed.[^ref-3] Sierra On-Line obtained the license in 1998, and development was assigned to Yosemite Entertainment.[^ref-1] Yosemite, part of Sierra, announced in the first half of 1998 that it had acquired the rights to make a massively multiplayer version of Tolkien's world; Humans, Elves, Hobbits and Dwarves were to be playable races, with a character system based on skills and levels.[^ref-19] Doing it right was expected to cost over $5 million, a massive sum for an unproven genre at the time.[^ref-3]
 
 Sierra FX launched an introductory website for Middle-earth Online on what they described as the shared birthday of Bilbo and Frodo Baggins.[^ref-7] The website was designed as a "living atlas" providing story background and geographical information from Middle-earth, rather than a typical game site focused on features and screenshots.[^ref-7] Daniel James, writer on the project, stated that "in time, the site will feature extensively the game's art—which is presently under wraps—and material direct from the world and its players."[^ref-7]
 
@@ -120,11 +119,11 @@ Turbine's later, separate version was based on the engine Turbine had used for A
 
 ### Technical Specifications
 
-No contemporary source confirms target platforms or system requirements for the Sierra-era project. GameSpot's 2003 announcement of Turbine's version lists PC and Macintosh in its product metadata,[^ref-8] and Wikipedia's list of Middle-earth video games records the 2000 Sierra/Yosemite entry under Windows and macOS.[^ref-16]
+No contemporary source confirms target platforms or system requirements for the Sierra-era project. Wikipedia's list of Middle-earth video games records the 2000 Sierra/Yosemite entry under Windows and macOS.[^ref-16]
 
 ### Cut Content
 
-The design features that defined the original Sierra vision did not carry forward into The Lord of the Rings Online, which Turbine built as its own design:[^ref-3]
+Several defining features of the Sierra design did not carry forward into The Lord of the Rings Online, though programmer Joe Ludwig said some of the team's ideas did survive into Turbine's game:[^ref-3]
 
 - **Permanent Death:** Not part of The Lord of the Rings Online[^ref-3]
 - **Limited Elven Population:** Part of the Sierra design only[^ref-3]
@@ -206,7 +205,7 @@ Middle-earth Online was never released and is not available for purchase.
 
 [^ref-7]: [GameSpot – Visit Sierra's Middle Earth Online (April 2000)](https://www.gamespot.com/articles/visit-sierras-middle-earth-online/1100-2464907/) – website launch, Daniel James quote, development philosophy
 
-[^ref-8]: [GameSpot – VU Announces Middle-Earth Online (May 2003)](https://www.gamespot.com/articles/vu-announces-middle-earth-online/1100-6026587/) – VU Games/Turbine announcement, 2004 release target; product metadata lists PC and Macintosh
+[^ref-8]: [GameSpot – VU Announces Middle-Earth Online (May 2003)](https://www.gamespot.com/articles/vu-announces-middle-earth-online/1100-6026587/) – VU Games/Turbine announcement, 2004 release target
 
 [^ref-9]: [IGN – Middle-Earth Online (December 2003)](https://www.ign.com/articles/2003/12/18/middle-earth-online) – Turbine-era (2003) preview: Third Age setting, Farmer Maggot, early 2005 target
 
@@ -214,7 +213,7 @@ Middle-earth Online was never released and is not available for purchase.
 
 [^ref-11]: [RPGWatch – Lord of the Rings Online Review @ Eurogamer](https://rpgwatch.com/news/lord-of-the-rings-online--review-eurogamer-4732.html) – Eurogamer review, permadeath controversy
 
-[^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – free to play; user review summary (checked 2026-10-11)
+[^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – free to play; user review summary (checked 2026-10-27)
 
 [^ref-14]: [The Tolkien Forum – Middle Earth Online Thread](https://thetolkien.forum/threads/middle-earth-online.14921/) – February 2004 fan thread about Turbine's then-new version
 
@@ -224,3 +223,5 @@ Middle-earth Online was never released and is not available for purchase.
 
 
 [^ref-18]: [MMORPG.com – Middle-Earth Online Impressions](https://www.mmorpg.com/news/middle-earth-online-impressions-2000055532) – E3 preview of Turbine's version; Asheron's Call 2 engine, graphics
+
+[^ref-19]: [RPG Vault – Middle-earth Online Memories, Part 1 (June 2007, Wayback)](http://web.archive.org/web/20090220025338/http://rpgvault.ign.com:80/articles/795/795002p1.html) – interview with five core team members; 1998 Yosemite announcement, Fourth Age setting, playable races
