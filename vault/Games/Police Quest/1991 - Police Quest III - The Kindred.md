@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Jan Hammer]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, the third Police Quest game and
@@ -20,11 +20,11 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Police Quest III: The Kindred is a 1991 police procedural adventure game developed and published by Sierra On-Line, marking the third installment in the Police Quest series and the final entry designed by former California Highway Patrol officer [[Jim Walls]][^ref-1]. The game continues the story of Detective Sergeant Sonny Bonds in the fictional town of Lytton[^ref-4][^ref-13]. Unlike its text-parser predecessors, Police Quest III is completely mouse-driven, with a point-and-click interface[^ref-1]; Computer Gaming World suggested that even players who disliked earlier Sierra releases "may want to try the new generation"[^ref-6].
+Police Quest III: The Kindred is a 1991 police procedural adventure game developed and published by Sierra On-Line, marking the third installment in the Police Quest series and the final entry designed by former California Highway Patrol officer [[Jim Walls]][^ref-1][^ref-30]. The game continues the story of Detective Sergeant Sonny Bonds in the fictional town of Lytton[^ref-4][^ref-13]. Unlike its text-parser predecessors, Police Quest III is completely mouse-driven, with a point-and-click interface[^ref-1]; Computer Gaming World suggested that even players who disliked earlier Sierra releases "may want to try the new generation"[^ref-6].
 
 Adventure Gamers praised its "excellent use of digitized characters," calling it "the first Sierra game to really make use of this technology in the VGA era"[^ref-13]. Sierra's box copy promoted "a searing music-card compatible stereo soundtrack by Jan Hammer, of Miami Vice soundtrack fame"[^ref-5]. Sierra marketed the Police Quest series as "the most accurate simulation of police action you can get," claiming it was "so realistic it's used by police departments across the country as a training tool"[^ref-5].
 
@@ -69,13 +69,13 @@ The interface features video-captured human actors with "life-like action sequen
 
 The game follows Sonny Bonds through multiple days of investigation, with the narrative progressing as players complete required objectives and gather evidence. Police Quest III emphasizes realistic police procedures throughout, and Computer Gaming World warned players to be careful with early decisions "as they significantly affect results further on in the game"[^ref-6]. The game manual establishes the tone with the observation that "being a cop is ninety-five percent boredom," though the gameplay focuses primarily on the exciting five percent[^ref-10].
 
-Key locations and investigation phases include:
+Key locations include[^ref-12]:
 
-- **Lytton Police Station:** Central hub where Sonny reports for duty, accesses computer systems, and coordinates with fellow officers
-- **Oak Tree Mall:** Crime scene where Marie was attacked, requiring careful evidence collection
-- **Hospital:** Where Marie remains in a coma, providing emotional stakes throughout the investigation
-- **Various Crime Scenes:** Locations tied to the cult's murders requiring forensic examination
-- **City Streets:** Patrol areas requiring navigation via the game's driving system
+- **Lytton PD:** The police station where Sonny reports for duty
+- **Oak Tree Mall:** Where Marie was attacked[^ref-1]
+- **Lytton General:** The hospital where Marie lies in a coma[^ref-1]
+- **Lytton Coroner** and **Lytton Court**
+- **City streets and freeway:** Patrol areas navigated with the game's driving system
 
 ### Puzzles and Mechanics
 
@@ -108,15 +108,15 @@ However, fan reception has remained warmer. User reviews on MobyGames include pr
 **Aggregate Scores:**
 - **MobyGames Critics:** 75% (24 ratings; as of Jan 2026)[^ref-8]
 - **MobyGames Players:** 3.7/5[^ref-8]
-- **IMDb:** 7.6/10 (82 votes; as of Jan 2026)[^ref-16]
+- **IMDb:** 7.7/10 (84 votes; as of Oct 2026)[^ref-16]
 
 ## Development
 
 ### Origins
 
-Police Quest III was built on Sierra's SCI1 engine and is completely mouse-driven[^ref-1]. The series' encounters were "fictionalized" versions of actual arrests and situations experienced by Walls or his colleagues, and Computer Gaming World said Police Quest III "continues the tradition"[^ref-6][^ref-18]. As Walls noted in promotional materials: "I managed to survive them. Let's see if YOU can do as well under pressure"[^ref-19].
+Police Quest III was built on Sierra's SCI1 engine and is completely mouse-driven[^ref-1]. The series' encounters were "fictionalized" versions of actual arrests and situations experienced by Walls or his colleagues, and Computer Gaming World said Police Quest III "continues the tradition"[^ref-6][^ref-18]. As Walls says in the game's introduction: "I managed to survive them. Let's see if YOU can do as well under pressure"[^ref-19].
 
-The score was composed by Jan Hammer, whom Sierra's box copy billed as "of Miami Vice soundtrack fame"[^ref-5]; Computer Gaming World said the soundtrack was "composed for maximum adrenalin effect by Jan Hammer of Miami Vice fame"[^ref-6].
+Jan Hammer composed the main theme; Sierra's own Mark Seibert and Rob Atesalp "created additional sound effects and themes," according to the official hint book[^ref-27]. Sierra's box copy billed Hammer as "of Miami Vice soundtrack fame"[^ref-5]; Computer Gaming World said the soundtrack was "composed for maximum adrenalin effect by Jan Hammer of Miami Vice fame"[^ref-6].
 
 ### Production
 
@@ -150,7 +150,7 @@ The game supported multiple sound cards including AdLib, Roland MT-32/LAPC-1/CM-
 
 **DOS Version:**[^ref-22]
 - **Operating System:** MS-DOS 3.3 or greater
-- **Processor:** 8088/8086 or better (286 or better recommended)
+- **Processor:** 8088/8086 or better (286 or better recommended[^ref-4])
 - **Memory:** 640K RAM
 - **Storage:** 5.5 MB hard drive space
 - **Graphics:** EGA, VGA (16 and 256 color versions available)
@@ -159,15 +159,15 @@ The game supported multiple sound cards including AdLib, Roland MT-32/LAPC-1/CM-
 
 **Media Formats:**[^ref-4][^ref-8]
 - 4 × 5.25" high-density floppy disks
-- 5 × 3.5" floppy disks (720KB DD or HD versions available)
+- 5 × 3.5" floppy disks
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | October 1991 | DOS | Initial release[^ref-8] |
-| - | 1992 | Amiga | European release via U.S. Gold[^ref-8] |
-| - | 1994 | Amiga | European budget re-release via Kixx XL[^ref-14] |
+| - | 1992 | Amiga | Published by Sierra On-Line[^ref-8] |
+| - | 1994 | Amiga | Kixx XL budget re-release (France, Germany, Italy, UK), published by U.S. Gold[^ref-8][^ref-21] |
 | 1.00 | March 14, 2019 | Windows | GOG Galaxy build (GOG v1)[^ref-24] |
 | 1.00 GOG v2 | February 19, 2026 | Windows | GOG Galaxy build (GOG v2)[^ref-24] |
 
@@ -196,8 +196,7 @@ The driving system also functioned as a form of copy protection, requiring playe
 - Several Sierra employees portrayed characters, including Josh Mandel (Leon the Coroner) and Corey Cole (psychologist Sidney Aimes)[^ref-34]
 - Dr. Sidney Aimes delivers the memorable line: "Would you mind not playing with my balls, please?"[^ref-19]
 - A jail guard quips: "You mean to tell me you fished that outta this guy's shorts? You've got some guts, Bonds"[^ref-19]
-- The game takes place in 1991, three years after Police Quest II[^ref-19]
-- This marked Mark Crowe's final game at Sierra before he transferred to Dynamix[^ref-19]
+- This marked Mark Crowe's final game at Sierra before he transferred to Dynamix[^ref-19]; Crowe recalled that he "was directing Police Quest 3 after Space Quest 4 was released" before moving to Dynamix in Eugene, Oregon[^ref-39]
 - The front cover states that PQ3 has "mature adult subject matter"[^ref-8]
 - A Sega CD port was announced but never released[^ref-1]
 
@@ -228,7 +227,7 @@ A German language patch was created by fan "BumbleBee" specifically for the Stea
 
 ### Amiga Port & SCP Enhancement
 
-Sierra's Amiga port of Police Quest III was released in 1992 via U.S. Gold and re-released in 1994 on the Kixx budget label.[^ref-8][^ref-14]
+Sierra's Amiga port of Police Quest III was published by Sierra On-Line in 1992, and re-released in 1994 on U.S. Gold's Kixx XL budget label in France, Germany, Italy and the UK.[^ref-8][^ref-21]
 
 In January 2026, IndieRetroNews reported that [[2025 - SCP Sierra Conversion Project|SCP]], a group of Spanish Amiga fans, had released a graphically enhanced version of the Amiga port, which Estrayk described as "the first game to be completed with all the graphics improved and tested to the end."[^ref-31] Per the same statement, the graphics were modified "by kikems with the help of Darasco using ImageFX, PPaint and Adpro."[^ref-31]
 
@@ -236,13 +235,13 @@ In January 2026, IndieRetroNews reported that [[2025 - SCP Sierra Conversion Pro
 
 - **Police Quest 3 Hint Book** – Official Sierra hint book with clued solutions[^ref-27]
 - **Police Quest Collection Manual** – Compilation manual covering the series[^ref-28]
-- **Game Manual** – 14-page manual covering police procedures, radio codes, and gameplay instructions[^ref-29]
+- **Game Manual** – Lytton Police Department manual covering radio codes, vehicle and penal codes, operating procedures and a walkthrough of the first day; its contents list runs to page 19[^ref-29][^ref-40]
 
 ### Critical Perspective
 
 Police Quest III occupies a complicated position in Sierra's adventure game history. On one hand, it represented significant technical advancement with its VGA graphics, digitized characters, and streamlined point-and-click interface[^ref-4]. Computer Gaming World's assessment that it was "the best of the series to date" reflected genuine appreciation for these improvements[^ref-6]. Contemporary verdicts on the original release ranged from Dragon's 2 out of 5 stars[^ref-1] to a perfect 5/5 from Games-X[^ref-14].
 
-However, the troubled development left lasting scars. The departure of Jim Walls, whose real-world police experience had been central to the series' identity, and a completion that Adventure Gamers says was done "in hurried fashion, by all accounts"[^ref-13], resulted in a game that many retrospective critics view as fundamentally incomplete[^ref-15]. Adventure Classic Gaming's assessment—technically polished but creatively bankrupt—encapsulates the modern critical consensus[^ref-4]. The game marked the effective end of an era: Walls never returned to Sierra, and the subsequent Police Quest: Open Season under Daryl Gates' guidance represented a dramatic departure in tone and approach that proved even more controversial[^ref-30].
+However, the troubled development left lasting scars. The departure of Jim Walls, whose real-world police experience had been central to the series' identity, and a completion that Adventure Gamers says was done "in hurried fashion, by all accounts"[^ref-13], resulted in a game that many retrospective critics view as fundamentally incomplete[^ref-15]. Adventure Classic Gaming's assessment—technically polished but creatively bankrupt—encapsulates the modern critical consensus[^ref-4]. The game marked the effective end of an era: Walls left Sierra for Tsunami Media, and the subsequent Police Quest: Open Season was built around former Los Angeles police chief Daryl Gates, a choice whose controversy centred on Gates himself; the Digital Antiquarian notes the game "generated decidedly less controversy than Ken Williams had hoped for"[^ref-30].
 
 ## Downloads
 
@@ -274,13 +273,13 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-13]: [Adventure Gamers – Review](http://web.archive.org/web/20211119232837/https://adventuregamers.com/articles/view/18524) – retrospective analysis, development troubles, interface critique
 [^ref-14]: [Amiga Magazine Rack Reviews](http://amr.abime.net/review_39769) – compilation of contemporary magazine scores across platforms
 [^ref-15]: [Adventure Game Hotspot – Space Quest Historian Retrospective](https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective) – harsh modern critique, rushed development assessment
-[^ref-16]: [IMDb – Police Quest III: The Kindred](https://www.imdb.com/title/tt0289398/) – user rating (7.6/10, 82 votes in a January 2026 capture)
+[^ref-16]: [IMDb – Police Quest III: The Kindred](https://www.imdb.com/title/tt0289398/) – user rating (7.7/10, 84 votes as of 28 October 2026)
 [^ref-18]: [Steam Community – Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=832973270) – Jim Walls background, Sonny Bonds final appearance
 [^ref-19]: [TV Tropes – Police Quest 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest3TheKindred) – easter eggs, memorable quotes, bugs, trivia
 [^ref-21]: [VGMdb – Audio Credits](https://vgmdb.net/release/29272) – 1994 Amiga (U.S. Gold) release: composer and sound credits, fan arrangement album
 [^ref-22]: [SierraHelp – PQ3 Help](https://sierrahelp.com/Games/PoliceQuest/PQ3Help.html) – system requirements, known bugs, troubleshooting
 [^ref-24]: [GOG Database](https://www.gogdb.org/product/1207661293) – Galaxy builds 1.00 GOG v1 (2019-03-14) and 1.00 GOG v2 (2026-02-19)
-[^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – official sales figures
+[^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing (Wayback Machine copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – official sales figures
 [^ref-26]: [Compiware Forum – German Patch](https://www.compiware-forum.de/forum/thread/45577-police-quest-collection-german-patch/) – fan localization information
 [^ref-27]: [Internet Archive – Hint Book](https://archive.org/stream/Police_Quest_3_Hint_Book/Police_Quest_3_Hint_Book_djvu.txt) – official hint book
 [^ref-28]: [Internet Archive – Collection Manual](https://archive.org/stream/Police_Quest_Collection_-_Manual/Police_Quest_Collection_-_Manual_djvu.txt) – compilation manual
@@ -294,3 +293,5 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-36]: [Episodic Content Magazine – "Hunting Shadows: The Making of Gabriel Knight – Chapter 1" (10 September 2015)](https://episodiccontentmag.com/2015/09/10/gabrielknight_ch1/) – Jensen hired for the PQ3 manual, helped write the script
 [^ref-37]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Description (read via the MobyGames API): "the drug lord Jessie Bains has been put away for good"
 [^ref-38]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Police Quest 3: The Kindred (1991) ( Music Director )"
+[^ref-39]: [SpaceQuest.net – The Designers](https://spacequest.net/misc/designers/) – Mark Crowe: "I was directing Police Quest 3 after Space Quest 4 was released… so I came on board there in Eugene, Oregon"
+[^ref-40]: [Internet Archive – Manual (full text)](https://archive.org/stream/Police_Quest_3_-_Manual/Police_Quest_3_-_Manual_djvu.txt) – contents list: radio codes, vehicle/penal codes, "OPERATING YOUR DEPARTMENTAL VEHICLE 18", "NOTES 19"
