@@ -10,14 +10,15 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
- 1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
+ 1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge", released free
+ by Infamous Adventures in December 2011.'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -45,7 +46,7 @@ Infamous Adventures distributes the game for free on a "name your own price" bas
 
 The remake follows the story of the 1987 original. Several months after saving his home world of Xenon from the Sariens, Roger Wilco has taken a position as Head Janitor aboard Xenon Orbital Station 4 as his fame fades into obscurity. Called to clean up a mess on a recently arrived shuttle, he is ambushed, knocked out and abducted, and wakes up a prisoner on an asteroid base orbiting the jungle planet Labion, run by Sludge Vohaul, a former Xenon scientist.[^ref-15]
 
-Vohaul reveals that he created the Star Generator and had tried to use the Sariens to steal it, and that he is now building an army of cloned insurance salesmen to help him eradicate life on Xenon. Roger is sent to Vohaul's mines on Labion as a slave, but the transport crashes in the jungle, and Roger must make his way through Labion and back to Vohaul's asteroid base to stop the plan.[^ref-15]
+Vohaul reveals that he created the Star Generator and had tried to use the Sariens to steal it, and that he is now building an army of cloned insurance salesmen to help him eradicate life on Xenon. Roger is sent to Vohaul's mines on Labion as a slave, but the transport crashes in the jungle, and Roger makes his way through the jungle and steals a shuttle, but Vohaul hijacks its controls and brings him back to the asteroid base, where Roger must stop the plan.[^ref-15]
 
 The remake adds some new material along the way. A 2019 review on the Cola Powered Gamer blog notes a new intro scene in which Roger is interviewed by "David Letterdroid" (voiced, according to the reviewer, by Space Quest writer/designer Josh Mandel), the generic Hunter replaced by the Predator, and a Monolith Burger shop and other cameo appearances on Vohaul's asteroid in place of the original's series of hallways.[^ref-22]
 
@@ -215,7 +216,7 @@ The game is listed in several gaming databases.[^ref-14][^ref-16][^ref-20]
 [^ref-3]: [Infamous Adventures itch.io – Purchase Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake/purchase) – Platform availability, file sizes, pricing model
 [^ref-4]: [Infamous Adventures itch.io – Main Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – Game description, Version 2.0 release date, ratings (4.8/5 from 22 as of Oct 2026), Universal Binary release
 [^ref-6]: [Indie Retro News – Space Quest II VGA Remake](https://www.indieretronews.com/2020/01/space-quest-ii-vga-remake-by-infamous.html) – Version 2.0 announcement (Jan 5, 2020)
-[^ref-7]: [VOGONS Forums – Space Quest II VGA Remake - by Infamous Adventures](https://www.vogons.org/viewtopic.php?t=22863) – Post by Malik (Sept 16, 2009) quoting Broomie's March 2009 update and comparing IA and AGDI remakes
+[^ref-7]: [VOGONS Forums – Space Quest II VGA Remake - by Infamous Adventures](https://www.vogons.org/viewtopic.php?t=22863) ([archived copy](https://web.archive.org/web/20240527034425/http://www.vogons.org/viewtopic.php?t=22863)) – Post by Malik (Sept 16, 2009) quoting Broomie's March 2009 update and comparing IA and AGDI remakes
 [^ref-8]: [Sierra Gamers Forums – Space Quest II VGA Remake Topic](https://www.sierragamers.com/forums/topic/space-quest-ii-vga-remake/) – March 2006 discussion of AGDI's cancelled remake and Kippesoep
 [^ref-9]: [PCGamingWiki – Space Quest II: Roger Wilco in Vohaul's Revenge](https://www.pcgamingwiki.com/wiki/Space_Quest_II:_Roger_Wilco_in_Vohaul%27s_Revenge) – Engine, release dates by platform, system requirements
 [^ref-10]: [MobyGames – Space Quest II: Roger Wilco in Vohaul's Revenge – Windows Credits](https://www.mobygames.com/game/60817/space-quest-ii-roger-wilco-in-vohauls-revenge/credits/windows/) – Remake team credits, original game designers
