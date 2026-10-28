@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Mystery House is the 1980 Apple II murder-mystery adventure designed and
   illustrated by Roberta Williams and programmed by Ken Williams, released by On-Line
   Systems in May 1980 and widely regarded as the first graphical adventure game.
@@ -19,11 +19,11 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Mystery House is an adventure game for the Apple II, released by On-Line Systems in May 1980[^ref-6]. HistoryLink gives the exact date as May 5, 1980[^ref-27]. It was designed, written and illustrated by [[Roberta Williams]] and programmed by [[Ken Williams]][^ref-2]. It was the couple's first game, and its success launched their business, On-Line Systems, which was later renamed [[Sierra On-Line]][^ref-27]. Mystery House is widely regarded as the first adventure game with graphics[^ref-6][^ref-24]. Some period and retrospective sources state this as plain fact[^ref-16][^ref-17][^ref-18][^ref-27]. Others qualify it: Wikipedia notes that graphical dungeon-crawl role-playing games such as *pedit5* (1975) used graphics earlier, though no earlier story-based adventure game did[^ref-1]. The game is also counted among the earliest horror video games[^ref-4].
+Mystery House is an adventure game for the Apple II, released by On-Line Systems in May 1980[^ref-6]. HistoryLink gives the exact date as May 5, 1980[^ref-27]. It was designed, written and illustrated by [[Roberta Williams]] and programmed by [[Ken Williams]][^ref-2]. It was the couple's first game, and its success launched their business, On-Line Systems, which was later renamed [[Sierra On-Line]][^ref-27]. Mystery House is widely regarded as the first adventure game with graphics[^ref-6][^ref-24]. Sierra's own 1987 public-domain notice called it "THE FIRST GRAPHIC ADVENTURE"[^ref-13], and later sources state this as plain fact[^ref-16][^ref-17][^ref-18][^ref-27]. Others qualify it: Wikipedia notes that graphical dungeon-crawl role-playing games such as *pedit5* (1975) used graphics earlier, though no earlier story-based adventure game did[^ref-1]. The game is also counted among the earliest horror video games[^ref-4].
 
 The player is locked inside an abandoned Victorian mansion with seven other people[^ref-1]. A note found in the entry hall points to a treasure hunt for hidden jewels, but the other guests soon turn up dead around the house[^ref-24]. Accounts of the period link the setting and story to Agatha Christie's *And Then There Were None* and the board game *Clue*[^ref-6].
 
@@ -114,6 +114,7 @@ Storing that many pictures as bitmaps would not have fit on one floppy disk. Ken
 
 Sources also disagree on how long development took:
 - **HistoryLink:** the game "surfaced" "after three weeks"[^ref-27].
+- **Maher:** "In just one month during which Ken continued to hold down a day job, the couple implemented Mystery House in its entirety"[^ref-26].
 - **Ken Williams:** Roberta designed, wrote and illustrated it while he programmed it in the evenings, and "in all, it took about three months"[^ref-2].
 
 ### Distribution
@@ -122,12 +123,12 @@ The Williamses could not reach an acceptable distribution deal. They decided to 
 ## Legacy
 
 ### Industry Impact
-Mystery House was first sold as "Hi-Res Adventure" and soon became known by its own name[^ref-27]. It was the first of six Hi-Res Adventures that On-Line Systems published between 1980 and 1983[^ref-27]. Around the time of those first months of sales, Ken quit his day job[^ref-26]. Ken said the company had moved near Yosemite by August 1980[^ref-28]. On-Line Systems changed its name to Sierra On-Line in 1982[^ref-6].
+Mystery House was first sold as "Hi-Res Adventure" and soon became known by its own name[^ref-27]. It was the first of six Hi-Res Adventures that On-Line Systems published between 1980 and 1983[^ref-27]. Around the time of those first months of sales, Ken quit his day job[^ref-26]. Ken said the company had moved near Yosemite by August 1980[^ref-28]; HistoryLink instead dates the family's move to Coarsegold, near Yosemite, to October 1980[^ref-27]. On-Line Systems changed its name to Sierra On-Line in 1982[^ref-6].
 
 Baf's Guide notes that the game "has a lot in common with The Colonel's Bequest", Sierra's 1989 murder mystery[^ref-14]. *The New York Times* traces the "mystery house" theme in games, exploring a sprawling residence in search of its secrets, back to Mystery House in 1980. It names Resident Evil, Gone Home, Castlevania and What Remains of Edith Finch as later standouts[^ref-18].
 
 ### Re-releases and Japanese Versions
-Mystery House was re-released in 1982 under the SierraVenture label[^ref-12]. In Japan, MicroCabin released an unrelated game, inspired by the original, also titled *Mystery House*, and later a sequel to its own game for the MSX[^ref-19]. A year after MicroCabin's game, the Japanese company Starcraft released a faithful remake of the On-Line Systems game for Japanese computers. The remake had improved artwork and showed blood where the original drew a cartoonish lump[^ref-19]. MobyGames lists the Starcraft releases for FM-7, PC-88 and PC-98 as 1983[^ref-13].
+Mystery House was re-released in 1982 under the SierraVenture label[^ref-12][^ref-13]. In Japan, MicroCabin released an unrelated game, inspired by the original, also titled *Mystery House*, and later a sequel to its own game for the MSX[^ref-19]. A year after MicroCabin's game, the Japanese company Starcraft released a faithful remake of the On-Line Systems game for Japanese computers. The remake had improved artwork and showed blood where the original drew a cartoonish lump[^ref-19]. MobyGames lists the Starcraft releases for FM-7, PC-88 and PC-98 as 1983[^ref-13].
 
 ### Public Domain Release
 In 1987, Mystery House was released into the public domain to celebrate Sierra's seventh anniversary[^ref-21][^ref-22]. The notice added to the re-released game told players: "We encourage you to copy this game for yourself or to share"[^ref-13].
@@ -140,7 +141,6 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist
 - Game is in the public domain as of 1987[^ref-21]
 
 ## Downloads
@@ -168,12 +168,12 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House
 [^ref-2]: [Sierra Help Pages (Wayback, Dec 2025)](https://web.archive.org/web/20251214145523/https://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
-[^ref-4]: Google Books – Horror in Video Games *(link removed: it led to a different game's page)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
+[^ref-4]: Horror Video Games *(no online copy linked)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864-5479-2
 [^ref-5]: [Computer Gaming World, Jan–Feb 1982 (Internet Archive, "Issue 2.1")](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow, "On-Line Adventure Games" review, p. 31
 [^ref-6]: [American Journal of Play](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
 [^ref-8]: [Internet Archive – High Score!](https://archive.org/details/highscoreillustr0000dema) – DeMaria, Rusel; Wilson, Johnny L. (2002). High Score!: The Illustrated History of Electronic Games. McGraw-Hill/Osborne (searchable lending copy)
 [^ref-9]: [The Digital Antiquarian](https://www.filfre.net/2011/10/mystery-house-part-1/) – Jimmy Maher's "Mystery House, Part 1"
-[^ref-10]: [Chicago Tribune](https://www.newspapers.com/clip/90910838/chicago-tribune/) – Dennis Lynch (May 26, 1989). "Sierra disks offer epic adventures"
+[^ref-10]: [Chicago Tribune](https://www.chicagotribune.com/1989/05/26/sierra-disks-offer-epic-adventures/) – Chicago Tribune (May 26, 1989). "Sierra disks offer epic adventures"
 [^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-1-mystery-house-7nl) – Game information and user ratings
 [^ref-13]: [MobyGames](https://www.mobygames.com/game/9312/hi-res-adventure-1-mystery-house/) – Releases, public-domain notice transcript and community score
 [^ref-14]: [Baf's Guide / IFDB](https://ifdb.org/viewgame?id=clc9a8hnvx79pabw) – Carl Muckenhoupt's review via Interactive Fiction Database
@@ -189,4 +189,4 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 [^ref-26]: [The Digital Antiquarian](https://www.filfre.net/2011/10/on-line-systems-is-born/) – Jimmy Maher's "On-Line Systems is Born"
 [^ref-27]: [HistoryLink.org](https://historylink.org/File/20912) – Essay on Roberta Williams (Mystery House release, MICRO ad, Hi-Res Adventures)
 [^ref-28]: [PC Multimedia & Entertainment (Wayback)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – Michael Bendner, "An Interview with Ken Williams" (1995)
-[^ref-29]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #1" among the games using this engine
+[^ref-29]: [ScummVM Wiki – ADL (Wayback, Jan 2025)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #1" among the games using this engine
