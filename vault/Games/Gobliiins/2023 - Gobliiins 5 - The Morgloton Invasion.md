@@ -10,15 +10,15 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-16'
+last_updated: '2026-10-28'
 description: 'Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS 5) is a 2D
-  point-and-click adventure game released in 2023, marking the long-awaited return
-  of...'
+  point-and-click adventure game by Pierre Gilhodes, released in 2023 as the first
+  new Gobliiins game since 2009.'
 tags: [2020s, adventure, coktel, gobliiins, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -78,7 +78,7 @@ One Steam reviewer found the puzzles "logical and not to difficult" [sic][^ref-1
 
 Gobliiins 5 was received warmly by long-time fans of the series. Riot Pixels (Oleg Zaitsev, November 11, 2023) gave it 65%. The review summed it up as, in translation, "a curiosity from a half-forgotten era. Even if its puzzles aren't always logical, a seasoned adventurer will hardly regret a few evenings spent in its company"[^ref-25]. It criticised the abrupt story, the lack of saving within levels, the sparse animation and the rough English translation[^ref-25].
 
-Steam user reviews praised the game's faithfulness to the original trilogy. One reviewer wrote: "What an amazing game. It has the exact feel like the first three Gobliiins (haven't played 4 yet). It's funny, the puzzles are logical and not to difficult and the story is nice"[^ref-17]. Another wrote that it "feels unpolished on first glance but its a truly fun game and harks back to my childhood with GOBLIINS 3"[^ref-24]. On Steam, 92% of 70 user reviews are positive, and on itch.io the game is rated 4.9 out of 5 from 40 ratings[^ref-10][^ref-20].
+Steam user reviews praised the game's faithfulness to the original trilogy. One reviewer wrote: "What an amazing game. It has the exact feel like the first three Gobliiins (haven't played 4 yet). It's funny, the puzzles are logical and not to difficult and the story is nice"[^ref-17]. Another wrote that it "feels unpolished on first glance but its a truly fun game and harks back to my childhood with GOBLIINS 3"[^ref-24]. On Steam, 92% of 71 user reviews are positive (October 2026), and on itch.io the game is rated 4.9 out of 5 from 40 ratings[^ref-10][^ref-20].
 
 ### Modern Assessment
 
@@ -88,7 +88,7 @@ A comment on Gobliiins 5's GOG.com wishlist page read: "This is a perfect match 
 
 **Scores:**
 - **Riot Pixels:** 65%[^ref-25]
-- **Steam:** 92% positive of 70 user reviews[^ref-20]
+- **Steam:** 92% positive of 71 user reviews (October 2026)[^ref-20]
 - **itch.io:** 4.9/5 from 40 user ratings[^ref-10]
 
 ## Development
@@ -131,7 +131,7 @@ The game runs at a fixed 640×480 resolution with 2D hand-drawn art[^ref-2][^ref
 
 ### Technical Issues
 
-Because the game is split into four executables, finishing Part 1 does not lead straight into Part 2. The Steam store page warns that once the King's Chamber is finished, players must exit and restart the game in Steam to launch the next part[^ref-20]. Players who missed this saw an "unresolved import 'ShellExecute'" error message at that point[^ref-20].
+Because the game is split into four executables, finishing Part 1 does not lead straight into Part 2. The Steam store page warns that once the King's Chamber is finished, players must exit and restart the game in Steam to launch the next part[^ref-20]. Players who missed this saw an "unresolved import 'ShellExecute'" error message at that point[^ref-10].
 
 Screen flickering in full-screen mode was reported by a player using an adaptive-sync (G-Sync) display. It went away when adaptive sync was turned off[^ref-7]. Saving is only possible between levels[^ref-5][^ref-25]. An F5 quick-save worked in an early build but was removed in a later version[^ref-7]. Gilhodes has since said he plans a new single-part version with quick saving[^ref-10]. Players also noted that some interactive elements were hard to tell apart from the background[^ref-16].
 
