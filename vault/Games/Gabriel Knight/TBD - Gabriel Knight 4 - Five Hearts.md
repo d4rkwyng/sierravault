@@ -10,24 +10,25 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-12'
-description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
-  developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
+last_updated: '2026-10-28'
+description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game pitched
+  by series creator Jane Jensen. It shares its name and Salzburg setting with the free
+  short story she published in November 2024.'
 tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-9][^ref-13] Rather than a completed video game, Five Hearts exists as both a pitch for a potential fourth installment in the supernatural mystery franchise and as a published short story that Jensen has called "basically like the first chapter of a new Gabriel Knight story".[^ref-2][^ref-18] Jensen has talked about a fourth game since at least 2003, when she told GameSpy that "there was never a GK4 in development", but that its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21] According to Wikipedia, in a 2022 interview she instead described a possible fourth game about witches, set in Scotland.[^ref-1]
 
-According to a ResetEra summary of Jensen's December 2025 Matt Chat interview, the pitch was made in cooperation with an indie team from Israel that reached out to Jensen and her husband, composer [[Robert Holmes]].[^ref-4] The Gabriel Knight intellectual property is now owned by Microsoft as part of the Activision Blizzard catalogue.[^ref-20] In July 2024 Jensen said she "would like to make it a full game", adding: "Now that the licenses are with Microsoft, I think there's at least a chance of that. Who knows."[^ref-18] By December 2025 she had submitted the idea to Microsoft several times, but the company had so far shown no interest, according to Multiplayer.it's report on the interview.[^ref-4][^ref-20]
+According to a ResetEra summary of Jensen's December 2025 Matt Chat interview, the pitch was made in cooperation with an indie team from Israel that reached out to Jensen and her husband, composer [[Robert Holmes]].[^ref-4] The Gabriel Knight intellectual property is now owned by Microsoft as part of the Activision Blizzard catalogue.[^ref-20] In a June 2024 interview with Daniel Albu, reported by Time Extension in July 2024, Jensen said she "would like to make it a full game", adding: "Now that the licenses are with Microsoft, I think there's at least a chance of that. Who knows."[^ref-18][^ref-25] By December 2025 she had submitted the idea to Microsoft several times, but the company had so far shown no interest, according to Multiplayer.it's report on the interview.[^ref-4][^ref-20]
 
 **Working title:** "Five Hearts" is both the working title of the game pitch[^ref-4][^ref-20] and the title of an illustrated short story Jensen published in November 2024 on her husband Robert Holmes's website. It was first announced as a reward for backers of his "Son of Sequel" Kickstarter and is now a free download.[^ref-2][^ref-18][^ref-19]
 
-The proposed game would continue the series' blend of supernatural horror and detective fiction. It takes Gabriel to Salzburg, Austria, where serial killings involving removed hearts are both a literal mystery and a metaphor for Gabriel's own heart.[^ref-4][^ref-20] In 1996 Computer Gaming World called Jensen "the interactive Ann Rice".[^ref-22]
+The proposed game would continue the series' blend of supernatural horror and detective fiction. It takes Gabriel to Salzburg, Austria, to investigate serial killings whose victims' hearts are removed; a metaphorical layer of the plot deals with Gabriel's own heart.[^ref-4][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** Unreleased (pitch by Jane Jensen)[^ref-4][^ref-20]
@@ -112,7 +113,7 @@ The game is expected to be 2D.[^ref-4][^ref-20] No technical details have been a
 
 ### Cut Content
 
-The project itself has not moved beyond the pitch stage. Microsoft, which holds the rights, has so far shown no interest.[^ref-20] An earlier idea for a fourth game never went into development. In 2003 Jensen said that "there was never a GK4 in development". Its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21]
+As of December 2025 (the latest report), the project had not moved beyond the pitch stage and was not yet in development, and Microsoft, which holds the rights, had shown no interest.[^ref-20] An earlier idea for a fourth game never went into development. In 2003 Jensen said that "there was never a GK4 in development". Its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21]
 
 ### Version History
 
@@ -162,14 +163,14 @@ Fan sites such as gkpages.altervista.org preserve historical interviews and arti
 
 ### Critical Perspective
 
-In 1996 Computer Gaming World called Gabriel Knight 2 "a haunting tale from Jane Jensen, the interactive Ann Rice".[^ref-22]
+In 1996 Computer Gaming World called Gabriel Knight 2 "a haunting tale from Jane Jensen, the interactive Ann [sic] Rice".[^ref-22]
 
 In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the best, most realistic female characters in game history".[^ref-24] GameSpot wrote that she was "simply a more likeable character" than Gabriel, and "intelligent and resourceful".[^ref-23] Her disappearance is the central mystery of the Five Hearts short story.[^ref-2]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available (unreleased project)[^ref-4]
+- Not available: as of December 2025 (the latest report), the game was unreleased and not yet in development[^ref-4][^ref-20]
 - IP rights held by Microsoft via Activision Blizzard[^ref-20]
 
 **Short Story**
@@ -203,3 +204,4 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 [^ref-22]: [Computer Gaming World #148 (November 1996), "150 Best (and 50 Worst) Games of All Time" (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_148) – #17 Gabriel Knight 2: "A haunting tale from Jane Jensen, the interactive Ann Rice"
 [^ref-23]: [GameSpot – The Ten Best Sidekicks, page 3 (Wayback Machine, September 2005)](https://web.archive.org/web/20050910024937/http://www.gamespot.com/features/tenspot_sidekicks/page3.html) – Grace Nakimura: "simply a more likeable character than the series' namesake… Grace is intelligent and resourceful"
 [^ref-24]: [USgamer – Pete Davison, "Happy Birthday, Gabriel Knight" (October 2013, Wayback Machine)](https://web.archive.org/web/20131110043347/http://www.usgamer.net/articles/happy-birthday-gabriel-knight) – "Grace Nakimura remains one of the best, most realistic female characters in game history"
+[^ref-25]: [Tech Talk with Daniel Albu – "Jane Jensen on Gabriel Knight, Gray Matter, King's Quest VI and the New Gabriel Knight Short Story!" (YouTube, June 30, 2024)](https://www.youtube.com/watch?v=gPkSH5umZoA) – Primary interview that Time Extension (ref-18) embeds and quotes; per Time Extension, the "full game"/Microsoft remarks come around 58 minutes in (no transcript checked)
