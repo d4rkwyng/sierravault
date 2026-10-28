@@ -10,7 +10,7 @@ series: Manhunter
 engine: Unknown (never entered production)
 protagonist: The Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-27'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game, planned
   as the third installment in the Manhunter series. Teased in Manhunter 2: San Francisco,
   it never went beyond the concept stage after Evryware and Sierra parted ways in 1989.'
@@ -18,13 +18,13 @@ tags: [adventure, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
 Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased in 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
 
-The cancellation of Manhunter 3: London represents one of Sierra's more notable unrealized projects, as the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only reported revival effort is an unverified 2008 forum claim (see Revival Attempts).[^ref-10][^ref-3]
+Manhunter 3: London was never made, although the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only reported revival effort is an unverified 2008 forum claim (see Revival Attempts).[^ref-10][^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Evryware]][^ref-1]
@@ -67,7 +67,7 @@ The previous Manhunter games combined tracking sequences using the MAD device, f
 
 As Manhunter 3: London was never released, no contemporary reviews exist for the title itself. However, the context for its anticipated reception can be understood through the success of its predecessors.
 
-According to the Larry Laffer Dot Net shrine, Manhunter: New York was released in 1988 to overwhelmingly positive reviews and was voted "Adventure Game of the Year" by several computer gaming magazines.[^ref-2] The developers reported that each Manhunter game sold more than 100,000 copies.[^ref-16] Manhunter 2: San Francisco followed in 1989 with sales roughly equaling those of the first game, and the shrine considers it the better game of the two.[^ref-2][^ref-9]
+According to the Larry Laffer Dot Net shrine, Manhunter: New York was released in 1988 to overwhelmingly positive reviews and was voted "Adventure Game of the Year" by several computer gaming magazines.[^ref-2] The developers reported that each Manhunter game sold more than 100,000 copies.[^ref-16] Manhunter 2: San Francisco followed in 1989 with sales roughly equaling those of the first game, and the shrine considers it the better game of the two.[^ref-2]
 
 ### Modern Assessment
 
@@ -151,9 +151,9 @@ The Manhunter Omnipedia, a dedicated fan wiki, documents the series' lore and th
 
 ### Critical Perspective
 
-The Manhunter series diverged from Sierra's parser-based adventures with a point-and-click interface that, in one retrospective's words, "foreshadowed later games like Myst."[^ref-5] The developers themselves said many of the games' presentation techniques "became standard soon after."[^ref-16] The games' gritty, sometimes gory tone stood in contrast to Sierra's other, more family-oriented adventure series.[^ref-5]
+The Manhunter series diverged from Sierra's parser-based adventures with a point-and-click interface that, in ClassicReload's game description, "foreshadowed later games like Myst."[^ref-5] The developers themselves said many of the games' presentation techniques "became standard soon after."[^ref-16] The games' gritty, sometimes gory tone stood in contrast to Sierra's other, more family-oriented adventure series.[^ref-5]
 
-The series was meant to be a trilogy with the third game set in London, but only two games were created.[^ref-7] The story of Manhunter 3: London remains a notable "what if" among Sierra's unfinished series.
+The series was meant to be a trilogy with the third game set in London, but only two games were created.[^ref-7]
 
 ## Purchase
 
