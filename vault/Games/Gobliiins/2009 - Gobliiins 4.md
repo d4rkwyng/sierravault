@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Custom 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after more than fifteen years...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Gobliiins 4 is the fourth installment in the beloved puzzle-adventure series tha
 
 Released in March 2009[^ref-36], the game features 3D graphics while maintaining the classic gameplay mechanics that defined the series[^ref-2]. Players take on the roles of Detective Tchoup and his companions Stucco and Perluis, who are hired by King Balderon VIII to locate his missing pet aardvark named Riri[^ref-4]. For many gamers, the Gobliiins series represents "the gaming equivalent of marmite: either you love it or you hate it," with its challenging puzzles and distinctive humor dividing audiences[^ref-5].
 
-The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. Despite its divisive reception, Gobliiins 4 successfully revived the franchise and demonstrated continued interest in the series, eventually leading to Gobliiins 5 in 2023[^ref-7].
+The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. A further sequel, Gobliiins 5, followed in 2023[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Société Pollene[^ref-1]
@@ -76,9 +76,9 @@ Unlike earlier entries, the game no longer counts mistakes: the characters may m
 
 ### Contemporary Reviews
 
-Gobliiins 4 received highly polarized reviews upon release, with scores ranging dramatically across publications. Adventure specialty sites generally offered more favorable assessments, while mainstream gaming outlets were considerably harsher.
+Gobliiins 4 received highly polarized reviews upon release, with Metacritic-listed scores ranging from 91 (Just Adventure) to 11 (PC Gamer UK)[^ref-6].
 
-Just Adventure awarded the game a remarkable 91/100, declaring it "a cleverly designed and entertaining game"[^ref-6]. Adventure Gamers gave it 80/100, with reviewer Austin Boosinger calling it "one of the most likeable titles this year"[^ref-39] and noting that "unless you play adventures only for their stories, I can safely say that this game is worth the time of any point-and-click adventurer"[^ref-6]. GameStar provided a mixed 68/100, observing "The series continues after 15 years and it's true to its predecessors. That's good and bad at the same time. It's a colorful slapstick adventure, but today a game like this needs a real story, characters and some more functions"[^ref-6].
+Just Adventure awarded the game a remarkable 91/100, declaring it "a cleverly designed and entertaining game"[^ref-6]. Adventure Gamers gave it 4 out of 5 stars (80 on Metacritic), with reviewer Austin Boosinger calling it "one of the most likeable titles this year"[^ref-39][^ref-6] and noting that "unless you play adventures only for their stories, I can safely say that this game is worth the time of any point-and-click adventurer"[^ref-6]. GameStar provided a mixed 68/100, observing "The series continues after 15 years and it's true to its predecessors. That's good and bad at the same time. It's a colorful slapstick adventure, but today a game like this needs a real story, characters and some more functions"[^ref-6].
 
 Adventure Classic Gaming rated the game 2/5 (Fair), with reviewer Martin Mulrooney concluding "Sadly, for other adventure game fans, a recommendation cannot be offered with a clear conscience"[^ref-5]. GameGrin awarded 5/10, criticizing the disconnect between the child-friendly presentation and adult-level puzzle difficulty[^ref-15]. LEVEL (Czech Republic) gave 50/100, describing it as a "sequel to the famous trilogy changed into a kid's entertainment game with uncomplicated logical puzzles. The sound and graphics departments should be fired anyways"[^ref-6].
 
@@ -92,11 +92,10 @@ The game maintains a contested legacy among adventure gaming enthusiasts. Some f
 - **GameRankings:** 56.5% (based on multiple reviews)[^ref-2]
 - **Metacritic:** 54 (based on 13 critic reviews)[^ref-6]
 - **IMDB:** 5.5/10[^ref-20]
-- **MobyGames:** 6.3/10[^ref-21]
-- **Software Informer:** 4/5[^ref-12]
+- **MobyGames:** 6.3/10[^ref-45]
 - **GameBoomers:** B-[^ref-14]
 
-The Metacritic breakdown reveals significant division: 23% positive (3 reviews), 46% mixed (6 reviews), and 31% negative (4 reviews)[^ref-6]. User scores remained largely unavailable, reflecting the game's niche audience. The game's availability became increasingly limited over time, leading fans to note on GOG's wishlist page: "It's sad that a not so old game (2009) is not available anywhere in the world"[^ref-22].
+The Metacritic breakdown reveals significant division: 23% positive (3 reviews), 46% mixed (6 reviews), and 31% negative (4 reviews)[^ref-6]. User scores remained largely unavailable, reflecting the game's niche audience. In 2014–2015, fans requesting the game on GOG's wishlist page noted: "It's sad that a not so old game (2009) is not available anywhere in the world"[^ref-22][^ref-43].
 
 ## Development
 
@@ -110,7 +109,7 @@ Gilhodes continued working as a graphic artist and author of animations for vari
 
 To bring Gobliiins 4 to life, Gilhodes teamed up with Société Pollene, a small studio from the south of France[^ref-13]. Financial backing came from Snowberry Connection, an independent production fund based in Moscow[^ref-13]. This international collaboration between French creative talent and Russian production resources enabled the project to move forward despite the franchise's long dormancy.
 
-The development embraced 3D graphics technology while consciously maintaining the gameplay mechanics that had defined the series[^ref-2]. The decision to preserve the classic formula was deliberate, though it would later draw criticism for feeling outdated. The game was designed to be playable by all ages, with a "kidults style" aesthetic that Gilhodes personally championed[^ref-13].
+The development embraced 3D graphics technology while consciously maintaining the gameplay mechanics that had defined the series[^ref-2]. The decision to preserve the classic formula was deliberate, though it would later draw criticism for feeling outdated. Société Pollene described the game as "for all ages"[^ref-15], while Gilhodes described its colourful, somewhat childish art design as "the kidults style"[^ref-13].
 
 **Development Credits:**[^ref-38]
 - **Design, Graphics and Animations:** Pierre Gilhodes
@@ -177,21 +176,22 @@ The limited save system proved particularly frustrating, offering only a single 
 
 ### Sales and Commercial Impact
 
-Gobliiins 4 launched at a retail price of £19.99 in the UK and was available for digital download through GamersGate[^ref-8]. The game's commercial performance was modest, reflecting its niche appeal to fans of classic adventure gaming. One reviewer suggested that "this is a full price retail game, yet I think it would have worked far more effectively as a cheaper, digital download"[^ref-18].
+Gobliiins 4 launched at a retail price of £19.99 in the UK[^ref-8] and was available for digital download through GamersGate[^ref-35]. One reviewer suggested that "this is a full price retail game, yet I think it would have worked far more effectively as a cheaper, digital download"[^ref-18].
 
-The game's distribution became increasingly limited over time, with the title becoming notably difficult to acquire. Community members on GOG.com's wishlist page lamented that "a lot of people do not even know this game exists"[^ref-22], highlighting the franchise's fading visibility in the broader gaming market.
+In 2014–2015 the game was not sold on GOG.com, and a commenter on its wishlist page wrote in August 2014 that "a lot of people do not even know this game exists"[^ref-22][^ref-43].
 
 ### Collections
 
-The game was also released in a "Platinová Edice" (Czech for "Platinum Edition"), a compilation of all four Gobliiins games on a single DVD, with the earlier games modified to run on newer Windows systems[^ref-41]. The original trilogy remained available through various digital storefronts including GOG.com and Steam, often bundled together, though Gobliiins 4 itself proved harder to obtain.
+The game was also released in a "Platinová Edice" (Czech for "Platinum Edition"), a compilation of all four Gobliiins games on a single DVD, with the earlier games modified to run on newer Windows systems[^ref-41]. The original trilogy remained available through various digital storefronts including GOG.com and Steam, often bundled together, though Gobliiins 4 itself was not among them[^ref-43].
 
-### Fan Projects
+In May 2026 Gobliiins 4 returned in Red Art Games' Gobliiins Collection for PlayStation 5, Xbox Series and Switch, which bundles the first five games and describes it as the series' "first 3D instalment"[^ref-44].
 
-The series creator, Pierre Gilhodes, continued developing the franchise independently, releasing Gobliiins 5 (titled "GOBLiiiNS5 - The Invasion of the Morglotons") in July 2023 on Steam[^ref-7]. The sequel received "Very Positive" user reviews on Steam (92% of 70 reviews)[^ref-7]. The game was also made available on itch.io for $11 USD[^ref-31].
+### Sequels
+
+Series creator Pierre Gilhodes developed Gobliiins 5 (titled "GOBLiiiNS5 - The Invasion of the Morglotons"), published by Schnibble Productions and released on Steam in July 2023[^ref-7]. The sequel received "Very Positive" user reviews on Steam (92% of 71 reviews)[^ref-7]. The game was also made available on itch.io for $11 USD[^ref-31].
 
 ### Related Publications
 
-- **In-game hints:** Players relied heavily on community-created walkthroughs due to the absence of an official hint system[^ref-11]
 - **Online Walkthrough:** Comprehensive text walkthroughs available on GameFAQs, Neoseeker, and other community sites[^ref-11]
 
 ### Critical Perspective
@@ -200,7 +200,7 @@ Gobliiins 4 represents both a nostalgic revival and a cautionary tale about pres
 
 The game's reception illustrates the tension between preservation and evolution in adventure gaming. While publications like Adventure Gamers praised its puzzle design and charm, mainstream outlets found its archaic design choices inexcusable in 2009. The stark range of review scores—from 91/100 to 11/100—demonstrates how deeply personal the Gobliiins experience remained. As one reviewer aptly noted, "The characters and situations seem tailored to a child's demographic, whilst the game requires the iron will and stubbornness of an adult to solve"[^ref-15].
 
-Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise persisted, paving the way for Gilhodes to continue the series independently. Its mixed reception served as valuable market research, suggesting that future installments would need to balance nostalgia with accessibility to reach broader audiences.
+Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Productions label[^ref-7].
 
 ## Downloads
 
@@ -231,11 +231,10 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-4]: [TV Tropes – Gobliiins 4](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins4) – story summary, character names
 [^ref-5]: [Adventure Classic Gaming – Gobliiins 4 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/499/) – review score, criticism, technical specifications
 [^ref-6]: [Metacritic – Gobliiins 4](https://www.metacritic.com/game/gobliiins-4/) – aggregated review scores, critic quotes
-[^ref-7]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – sequel information, user reviews
+[^ref-7]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – sequel information, developer Pierre Gilhodes, publisher Schnibble Productions, user reviews
 [^ref-8]: [GamesIndustry.biz – Perluis Character Introduction](https://www.gamesindustry.biz/gobliiins-4-your-introduction-to-perluis-the-magic-gobliiin) – publisher, composer, character descriptions, UK price
 [^ref-10]: [IGN – Gobliiins 4 Walkthroughs](https://www.ign.com/games/gobliiins-4/walkthroughs) – plot details
 [^ref-11]: [GameFAQs – Gobliiins 4 Walkthrough](https://gamefaqs.gamespot.com/pc/958639-gobliiins-4/faqs/56390) – gameplay details, story, puzzle philosophy
-[^ref-12]: [Software Informer – Gobliiins 4](https://gobliiins-4.software.informer.com/) – character abilities, technical specs, review score
 [^ref-13]: [Rarewaves – Gobliiins 4 Product Page](https://web.archive.org/web/20250317012548/https://www.rarewaves.com/products/4260089411920-gobliiins-4) – development background, level count, Snowberry Connection
 [^ref-14]: [GameBoomers – Gobliiins 4 Review](https://www.gameboomers.com/reviews/Gg/Gobliiins4/Gobliiins4byBecky.htm) – gameplay mechanics, save system, golden teeth, grade
 [^ref-15]: [GameGrin – Gobliiins 4 Review](https://www.gamegrin.com/reviews/gobliiins-4/) – criticism of save system, demographic mismatch
@@ -243,7 +242,6 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-17]: [SuperCheats – Gobliiins 4 Walkthrough](https://www.supercheats.com/pc/walkthroughs/gobliiins4-walkthrough01.txt) – gameplay tips, level codes
 [^ref-18]: [Alternative Magazine Online – Gobliiins 4 Review](https://alternativemagazineonline.co.uk/2009/08/08/gobliiins-4-review-acg/) – pricing criticism, puzzle design
 [^ref-20]: [IMDB – Gobliiins 4](https://www.imdb.com/title/tt1537775/) – user rating, release date
-[^ref-21]: [MobyGames – Gobliiins Series](http://www.mobygames.com/game-group/gobliiins-series) – MobyScore, Platinum Edition
 [^ref-22]: [GOG Dreamlist – Gobliiins 4](https://www.gog.com/dreamlist/game/gobliiins-4) – availability concerns, community comments
 [^ref-23]: [Neoseeker – Gobliiins 4](https://www.neoseeker.com/gobliiins-4/) – Gilhodes return, development background
 [^ref-24]: [MobyGames – Gobliiins (Original)](http://www.mobygames.com/game/atari-st/gobliiins) – original game credits, series history
@@ -260,3 +258,6 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-40]: [IT Reviews – Gobliiins 4 Review (Wayback)](https://web.archive.org/web/20140714202731/http://www.itreviews.com/kalypso-gobliiins-4/) – "strait-jacketed" puzzle criticism
 [^ref-41]: [MobyGames – Gobliiins 4 (Platinová Edice)](https://www.mobygames.com/game/235627/gobliiins-4-platinova-edice/) – compilation contents
 [^ref-42]: [The Patches Scrolls – Gobliiins 4](https://www.patches-scrolls.com/gobliiins4.php) – Russian 1.01, Czech/Hungarian/Polish patches
+[^ref-43]: [GOG Wishlist – Gobliiins 4 (Wayback, 2018)](https://web.archive.org/web/20180716170227/https://www.gog.com/wishlist/games/gobliiins_4) – fan comments dated Aug. 22, 2014 and Jun. 25, 2015
+[^ref-44]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026 collection, "first 3D instalment"
+[^ref-45]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – MobyScore 6.3 (14 votes), read via the MobyGames API
