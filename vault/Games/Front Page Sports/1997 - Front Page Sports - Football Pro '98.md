@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: Unnamed 3D engine (unchanged from previous edition)
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-27'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
   simulation game that puts players in both the coach''s headset and the quarterback''s...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -44,13 +44,11 @@ Despite the box tagline "Don't play with imitations. This is real football,"[^re
 
 As a sports simulation game, Front Page Sports: Football Pro '98 does not feature a traditional narrative storyline. Instead, it retains the series' simulation features, letting players guide a team across seasons through drafts, trades, and free agency[^ref-8]. Players can take the role of commissioner, general manager, coach, or player[^ref-6].
 
-The career mode follows a complete NFL-style season structure, with players managing rosters, executing trades, conducting drafts, and building dynasties over multiple seasons. The game's long-term appeal came from watching player development, making strategic personnel decisions, and adapting game plans to maximize team potential.
-
 ## Gameplay
 
 ### Interface and Controls
 
-The biggest enhancement in the '98 version was a completely revamped interface. GameSpot noted that "The interface has been totally revamped, and the good news is that it's much easier to use than before"[^ref-16][^ref-11].
+The biggest enhancement in the '98 version was a completely revamped interface. GameSpot noted that "The interface has been totally revamped, and the good news is that it's much easier to use than before"[^ref-16].
 
 The game supported joystick, gamepad, and keyboard input[^ref-6], though GameSpot complained that it "still supports only two gamepad/joystick buttons," where Madden NFL '98 supported four[^ref-16]. A new option let players view the action from 16 different angles, and the game included artwork for all 30 NFL stadiums[^ref-16]. Sierra also added a default camera management system meant to simulate NFL television coverage[^ref-9].
 
@@ -59,10 +57,9 @@ The game supported joystick, gamepad, and keyboard input[^ref-6], though GameSpo
 Front Page Sports: Football Pro '98 featured two main playing modes[^ref-2]:
 
 **Simulation Mode**: The player takes the seat of the team manager and deals with drafting, match lineups, and tactics[^ref-2]. This mode emphasized the front-office aspects of football, including:
-- Player scouting and evaluation
-- Contract negotiations and salary cap management
-- Trade proposals and roster construction
-- Practice priorities and player development
+- Training camps, drafts, trades and front-office features[^ref-6]
+- An "industry-leading play editor"[^ref-6]
+- Game plans and practice-camp priorities[^ref-16]
 
 **Action Mode**: Direct control of on-field gameplay with motion-captured animations. Sierra's press release billed an "Enhanced Arcade Mode" for the release[^ref-9].
 
@@ -75,8 +72,8 @@ The box promised a "Physics-based 3-D environment and ball dynamics" and "Motion
 Key gameplay features included:
 - Full motion-captured 3D player animations
 - Individual AI for each player on the field
-- Comprehensive playbook customization
-- Realistic injury and fatigue systems
+- Industry-leading play editor; every NFL team's playbook designed by the NFL's Will Furrer[^ref-6]
+- Injuries, so players must regulate how long and hard they play their veterans[^ref-9]
 
 Sierra said the release would "address both the hardcore player who owns a previous version of the game and the brand new sports customer"[^ref-9].
 
@@ -92,13 +89,15 @@ The game supported modem, network, and Internet play[^ref-6]. Computer Games Mag
 |-------------|-------|-------|
 | Computer Gaming World | 3/5 | Review by Terry Coleman, March 1998[^ref-8] |
 | Computer Games Magazine | 1.5/5 | Review by Jonah Falcon, February 1998[^ref-8] |
-| GameSpot | 6.3/10 | Review by Stephen Poole[^ref-8] |
+| GameSpot | 6.3/10 | Review by Stephen Poole[^ref-8][^ref-5] |
 | PC Player | 63/100 | Review by Alex Brante, January 1998[^ref-8] |
 | PC Games | 46% | September 1998[^ref-8] |
 
+In sales, a Hartford Courant chart of the top-selling football games from January to October 1997 ranked Front Page Sports: Football '98 eighth, behind the series' '97 (third) and '96 (seventh) editions[^ref-32].
+
 ### Critical Analysis
 
-GameSpot's Stephen Poole delivered the definitive critical assessment: "For gamers who revel in the challenges of play design, draft and trade decisions, game plans, and even practice-camp priorities, FPS: FP '98 is still the only game in town. Whether or not a slightly improved version of 'the only game in town' is worth $25 or $30, though, is up to you"[^ref-8].
+GameSpot's Stephen Poole concluded: "For gamers who revel in the challenges of play design, draft and trade decisions, game plans, and even practice-camp priorities, FPS: FP '98 is still the only game in town. Whether or not a slightly improved version of 'the only game in town' is worth $25 or $30, though, is up to you"[^ref-8].
 
 This analysis captured the game's core appeal while acknowledging its limitations. Computer Games Magazine was harsher, noting that "The in-game 3D engine itself is unchanged" and calling it a "massively buggy game"[^ref-13].
 
@@ -148,7 +147,7 @@ MobyGames classifies the game's perspective as 3rd-person[^ref-2].
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | November 1997 | Initial release[^ref-9] |
-| 1.04f | Late 1997 | One of three patches released within weeks of launch; version used for GameSpot's review[^ref-16] |
+| 1.04f | By January 1998 | One of three patches released within weeks of launch; version used for GameSpot's review[^ref-16] |
 | 1.08 | Unknown | Update 2 (fb98108); "There are many issues corrected"[^ref-22] |
 
 ## Legacy
@@ -166,8 +165,6 @@ The game continues to be supported by dedicated fan communities who have created
 These community efforts:
 - Corrected player ratings
 - Fixed problematic stock plays
-- Added roster updates
-- Improved game balance
 
 ## Downloads
 
@@ -196,6 +193,7 @@ These community efforts:
 - [[1997 - Front Page Sports - Trophy Rivers]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 - [[1999 - Front Page Sports - Ski Racing 99]]
+- [[CXL - Front Page Sports - Football Pro '99]]
 
 ## References
 
@@ -207,7 +205,6 @@ These community efforts:
 [^ref-7]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) - Marino comparison quote
 [^ref-8]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2798) - Developer, gameplay, review scores compilation
 [^ref-9]: [Web Archive - Press Release](https://web.archive.org/web/19990901152908/http://www.idle.com/~mpogpr/viewpr.cgi?item=68) - Sierra launch announcement, Nov. 3, 1997
-[^ref-11]: [NeverDieMedia](https://web.archive.org/web/20260218023219/https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Reproduces GameSpot's interface comment
 [^ref-13]: [Web Archive - CDMag Review](https://web.archive.org/web/20030704202248/http://www.cdmag.com/articles/010/104/fps_football_98_review.html) - Computer Games Magazine review: career mode, engine, requirements, multiplayer
 [^ref-15]: [GMGames](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Enthusiast community rating
 [^ref-16]: [Web Archive - GameSpot Review (1998)](https://web.archive.org/web/19980121164911/http://www.gamespot.com/sports/fpsfbp98/review.html) - Patches, interface, joystick, camera angles, Marino/Sanders comment
@@ -219,3 +216,4 @@ These community efforts:
 [^ref-27]: [Wikipedia - NFL Football Pro '99](https://en.wikipedia.org/wiki/NFL_Football_Pro_%2799) - Release on December 22, 1998
 [^ref-28]: [Wikipedia - Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) - Series history, final version, cancelled 2000 edition
 [^ref-31]: [CNNfn – "Sierra recalls popular game" (January 21, 1999, Wayback)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) – Sierra Sports recalls Football Pro 99
+[^ref-32]: [Hartford Courant – "Top-selling football games" (January 16, 1998, p. 161; Newspapers.com clipping, Wayback)](https://web.archive.org/web/20220731154056/https://www.newspapers.com/clip/106667165/hartford-courant/) - January to October 1997 chart; Front Page Sports: Football '98 ranked 8th
