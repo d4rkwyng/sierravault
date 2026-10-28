@@ -10,14 +10,15 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Bananas and Jack (coaches)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-12'
+last_updated: '2026-10-28'
 description: Alphabet Blocks is an interactive multimedia educational program designed
- to teach young children the letters and sounds of the English alphabet. Originally...
+ to teach young children the letters and sounds of the English alphabet, developed by
+ Bright Star Technology and published by Sierra On-Line in its Sierra Discovery Series.
 tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -77,9 +78,9 @@ The program also includes a "Grown-Ups choices" screen that allows parents to "m
 
 ### Contemporary Reviews
 
-The only critic review MobyGames records is from *The Computer Museum Guide to the Best Software for Kids*, which scored the game 25% on both Windows and Macintosh[^ref-17]. The MacUser line "Even a very young child needs a little or no guidance in it's use..." survives only as a box blurb, not as a full review[^ref-4].
+The only critic review MobyGames records is from *The Computer Museum Guide to the Best Software for Kids*, which MobyGames lists at 25%[^ref-1][^ref-17]. The guide (1995) gave the game one star, covering both the Macintosh and Windows versions, and summed it up as "A simple, no-frills approach to practicing alphabet skills. Nice to look at, not particularly exciting to use." It rated it "Best for ages 3-4", praised the "exceptionally clear auditory cues", but noted that once the reward animations wear off, "because there is nothing else to do, they lose interest"[^ref-21]. The MacUser line "Even a very young child needs a little or no guidance in it's use..." survives only as a box blurb, not as a full review[^ref-4].
 
-The packaging described it as "a revolutionary educational program that teaches your child all the letters and sounds of the alphabet using proven learning methods and the latest computer technology"[^ref-3].
+The packaging described it as "a revolutionary educational program that teaches your child all the letters and sounds of the alphabet using proven learning methods and the latest computer technology"[^ref-3][^ref-4].
 
 ### Modern Assessment
 
@@ -87,7 +88,6 @@ Modern retrospective coverage of Alphabet Blocks is limited.
 
 **Aggregate Scores:**
 - **MobyGames:** Critics 25% (1 rating); players 4.3 out of 5 (1 rating, 0 reviews)[^ref-1]
-- **Giant Bomb:** No user reviews (0.00/5 from 0 reviews)[^ref-6]
 - **Metacritic:** No critic reviews available; user scores require four ratings to display[^ref-3]
 
 Bright Star's other MobyGames-credited titles include Early Math, Kid's Typing, Ready, Set, Read with Bananas & Jack and Spelling Jungle (1993), and Spelling Blizzard and Math and Spelling with Monker (1994)[^ref-16]. A Sierra Gamers forum poster later wrote of Bright Star Technology that it "Looked to be a big contribution in the early 90s with not much after that"[^ref-7].
@@ -128,14 +128,14 @@ The box claimed it was "the only program on the subject to use accurate, synchro
 - **Operating System:** Windows 3.1
 - **Input:** Mouse (required)
 - **Audio:** Sound card (required)
-- **Media:** 1.44MB 3.5" Floppy Disk
+- **Media:** 1.44MB 3.5" Floppy Disk; a CD-ROM version was also sold[^ref-9][^ref-21]
 
 **Macintosh Version:**[^ref-20]
 - **CPU Required:** Motorola 68020
 - **Operating System:** System 6.0.7
 - **RAM:** 3 MB
 - **Color:** 8-bit (256 colors)
-- **Media:** 3.5" Floppy Disk
+- **Media:** 3.5" Floppy Disk; a CD-ROM version was also sold[^ref-21]
 - **Release:** October 16, 1992[^ref-19]
 
 **Product Identifiers:**
@@ -195,7 +195,7 @@ The Sierra Gamers fan community maintains downloadable resources for Alphabet Bl
 ### Related Publications
 
 - **User's Manual:** Credited to The Write Stuff (Nathan Gams), included with retail release[^ref-1]
-- **Retail Packaging:** Promoted the game as a "revolutionary educational program"[^ref-3]
+- **Retail Packaging:** Promoted the game as a "revolutionary educational program"[^ref-4]
 
 ### Critical Perspective
 
@@ -225,7 +225,7 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 ## See Also
 
 - [[1982 - Bop-A-Bet|Bop-A-Bet]] (1982) - Letter matching educational game
-- [[1983 - Early Math|Early Math]] (1983) - Mathematics fundamentals for young learners
+- [[1983 - Early Math|Early Math]] (1993) - Mathematics fundamentals for young learners
 - [[1983 - Learning with Leeper|Learning with Leeper]] (1983) - Multi-subject educational activities
 - [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]] (1984) - Interactive learning companion
 - [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] (1993) - Sequel featuring the same coach characters
@@ -240,7 +240,6 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 [^ref-3]: [Metacritic – Alphabet Blocks](https://www.metacritic.com/game/alphabet-blocks/) – game description, developer attribution, release date
 [^ref-4]: [EliSoftware.org – Alphabet Blocks Technical Specifications](https://elisoftware.org/w/index.php/Alphabet_Blocks_(PC,_1.44MB_3_1/2%22_Disk)_Sierra_-_1992_USA,_Canada_Release) – system requirements, packaging text, MacUser box blurb, product ID and UPC
 [^ref-5]: [Sierra Chest – Alphabet Blocks](https://sierrachest.com/index.php?a=g&id=432) – detailed game description, series information, sequel details, animated surprises count, engine listed as unknown
-[^ref-6]: [Giant Bomb – Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/3030-31583/) – basic game information; 0 user reviews
 [^ref-7]: [Sierra Gamers Forums – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion of Bright Star Technology contributions
 [^ref-8]: [MobyGames – Sierra Entertainment Company Profile](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Elon Gasper as principal author
 [^ref-9]: [Sierra Help – Alphabet Blocks Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/AlphabetBlocksUpdates.html) – abrave and abcompaq Compaq sound-driver patches
@@ -253,3 +252,4 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 [^ref-18]: [Sierra Chest – Alphabet Blocks Walkthrough](https://sierrachest.com/index.php?a=games&id=432&title=alphabet-blocks&fld=walkthrough) – playroom, four games, coaching, rewards, Grown-Ups options
 [^ref-19]: [MobyGames – Alphabet Blocks Releases](https://www.mobygames.com/game/113498/alphabet-blocks/releases/) – Macintosh Oct 16, 1992 and Windows 16-bit May 11, 1993, both version 2.1
 [^ref-20]: [MobyGames – Alphabet Blocks Specs](https://www.mobygames.com/game/113498/alphabet-blocks/specs/) – Macintosh and Windows minimum requirements
+[^ref-21]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p.89 – Alphabet Blocks](https://archive.org/details/computermuseumguid00mira/page/89/mode/1up) – period review scan: one star, "Best for ages 3-4", Macintosh and Windows on CD-ROM or floppy, about $35
