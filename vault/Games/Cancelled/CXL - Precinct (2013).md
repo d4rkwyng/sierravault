@@ -10,14 +10,14 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-10-27'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 27, 2026</small>
 
 ## Overview
 
@@ -28,9 +28,9 @@ Set in the fictional corrupt town of Fraser Canyon, California, Precinct would h
 Both crowdfunding attempts failed, and with them the project ended[^ref-19].
 
 > [!info]- Game Info
-> **Developer:** Jim Walls Reloaded / Tiny Castle Studios[^ref-1][^ref-4]
+> **Developer:** Jim Walls Reloaded[^ref-16] (Tiny Castle Studios' team helped create the Kickstarter campaign[^ref-8])
 > **Designer:** [[Jim Walls]][^ref-1]
-> **Publisher:** Self-funded (Crowdfunding)[^ref-3]
+> **Publisher:** Self-funded (Crowdfunding)[^ref-8][^ref-18]
 > **Engine:** Unity3D[^ref-4]
 > **Platforms:** PC, Mac (planned); Linux, iOS, Android, XBLA and PSN only as stretch goals[^ref-8]
 > **Release Year:** 2013 (Cancelled)
@@ -40,7 +40,7 @@ Both crowdfunding attempts failed, and with them the project ended[^ref-19].
 
 ## Story Summary
 
-Precinct was set in the fictional town of Fraser Canyon, California, a corrupt municipality plagued by crime and institutional decay[^ref-3]. Players would assume the role of Officer Maxwell Jones, a young police officer beginning his career in law enforcement and navigating the treacherous waters of a town where the line between law and lawlessness had become dangerously blurred[^ref-4].
+Precinct was set in the fictional town of Fraser Canyon, California, which the campaign called "the corrupt town of Fraser Canyon, CA"[^ref-3][^ref-8]. Players would assume the role of officer Maxwell Jones, "starting out as a rookie and then moving up the ranks"[^ref-8].
 
 The narrative was designed to follow Jones from his days as a rookie patrol officer through his advancement in the department[^ref-3]. The campaign described "a gripping crime story based on true accounts of real police cases," with "corrupt cops, greedy public officials, and a deadly struggle for control of Fraser Canyon's criminal underground"[^ref-8].
 
@@ -87,7 +87,7 @@ Publications covered the campaign's launch, its cancellation, the move to staged
 
 ### Modern Assessment
 
-Precinct remains a notable example of a cancelled crowdfunding project from the adventure game revival era. The game is documented on **Sierra Classic Gaming** as an unreleased title from a legendary designer[^ref-3]. The project's failure to secure funding demonstrated the challenges of reviving classic franchises even with original creators attached.
+Precinct remains a notable example of a cancelled crowdfunding project from the adventure game revival era. The game is listed on **Sierra Classic Gaming** with the tag "Cancelled"[^ref-3].
 
 **Wikipedia** now documents "The Precinct" (2025), an unrelated game by Fallen Tree Games. Metacritic scores it 66/100 on PC and PS5 and 75/100 on Xbox Series X/S, per Wikipedia; it is a completely separate project[^ref-5].
 
@@ -104,7 +104,7 @@ Precinct remains a notable example of a cancelled crowdfunding project from the 
 
 ### Origins
 
-Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20]. He had brought an unprecedented level of authenticity to the original Police Quest series[^ref-4]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
+Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
 
 Walls first announced plans for a Police Quest successor, funded through Kickstarter, on a podcast on February 2, 2013[^ref-15]. The project was developed under the banner of Jim Walls Reloaded, Inc. of Bass Lake, California, in partnership with development studio Tiny Castle Studios[^ref-4][^ref-16].
 
@@ -129,7 +129,7 @@ Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted t
 
 ### Technical Achievements
 
-The game was designed to leverage the Unity3D engine to create real-time 3D environments representing the fictional town of Fraser Canyon[^ref-4]. The first-person perspective represented a significant technical evolution from the earlier Police Quest games, allowing for more immersive investigation sequences and action gameplay.
+The game was designed to leverage the Unity3D engine to create real-time 3D environments representing the fictional town of Fraser Canyon[^ref-4]. The first-person perspective was a departure from the earlier Police Quest games[^ref-2].
 
 The planned distribution model included digital download via Steam, representing the shift in game distribution that had occurred since the original Police Quest era[^ref-4].
 
@@ -156,7 +156,7 @@ As the game was never completed, the entire project effectively represents cut c
 
 ### Technical Issues
 
-The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter campaign failing to generate sufficient momentum before being cancelled[^ref-1].
+The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter cancelled by its creators at $85,756 of its $500,000 goal and the follow-up staged campaign cancelled at around $12,000 of $400,000[^ref-8][^ref-19].
 
 ## Legacy
 
@@ -164,9 +164,9 @@ The project never reached a state where technical issues in gameplay could be do
 
 The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The staged funding campaign that replaced it launched the same day and failed as well, cancelled around August 26, 2013, at roughly $12,000 of its $400,000 goal[^ref-18][^ref-19]. Precinct was never made.
 
-### Posthumous Echoes
+### Unrelated Namesake
 
-In May 2025, a separate (and unrelated) game titled **The Precinct** released from a different developer; despite the title overlap, that 2025 product has no connection to the 2013 Jim Walls / Sierra Classic Gaming project documented here[^ref-5][^ref-6][^ref-7]. The Sierra-lineage *Precinct* concept therefore exists primarily as a "what if" — a near-miss for a Jim Walls / Police Quest spiritual successor that the post-Kickstarter market never funded[^ref-2][^ref-4].
+In May 2025, a separate (and unrelated) game titled **The Precinct** released from a different developer; despite the title overlap, that 2025 product has no connection to the 2013 Jim Walls Reloaded project documented here[^ref-16][^ref-5][^ref-6][^ref-7]. The Sierra-lineage *Precinct* concept therefore exists primarily as a "what if" — a Jim Walls / Police Quest spiritual successor whose two crowdfunding campaigns both failed[^ref-8][^ref-19].
 
 ## See Also
 
@@ -192,7 +192,7 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 [^ref-4]: [Larry Laffer Net – Precinct Kickstarter](http://larrylaffer.net/archives/1693) – Unity3D engine, Al Lowe quote, Jim Walls biography, development team, launch-day "episodic series" wording
 [^ref-5]: [Wikipedia – The Precinct (video game)](https://en.wikipedia.org/wiki/The_Precinct_(video_game)) – 2025 game details, developer, publisher, platforms, reviews
 [^ref-6]: [Steam – The Precinct](https://store.steampowered.com/app/490110/The_Precinct/) – 2025 game description, user reviews, release date
-[^ref-7]: [Niche Gamer – The Precinct Launches](https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher
+[^ref-7]: [Niche Gamer – The Precinct Launches (Wayback, 4 Apr 2025)](https://web.archive.org/web/20250404200806/https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher
 
 [^ref-8]: [Kickstarter – Precinct (Archived Campaign, 15 Aug 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – Primary source: $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)
 
