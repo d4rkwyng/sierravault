@@ -10,8 +10,8 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
-composer: [Brandon Blume]
+last_updated: '2026-10-29'
+composer: [Brandon Blume, Paul Korman, Ryan Grogan]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel set at Hero University,
   designed by Lori Ann Cole and Corey Cole and released by Transolar Games on March
   28, 2023 for PC, with a Nintendo Switch version following on June 15, 2023.'
@@ -19,7 +19,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 
 ## Overview
@@ -28,13 +28,13 @@ tags: [2020s, coles, hero-u, sierra]
 
 The game is set before the events of *Hero-U: Rogue to Redemption*[^ref-12] and has been called an "airy spiritual sequel" to it[^ref-6]. It takes place at Hero University, "a school where famous adventurers teach young people how to be heroes"[^ref-1]. Players take on the role of Tilly Appleberry, a mischievous Rogue student who values people and fun above rules and authority[^ref-1][^ref-2]. The Coles deliberately chose the visual novel format to create a more accessible, lower-budget project after losing money on their previous large-scale RPG[^ref-3].
 
-Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The project took four years to complete, a delay that Choicest Games' reviewer noted came at a time when many studios struggled with development during COVID-19[^ref-8]. As [[Corey Cole]] explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3].
+Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The project took four years to complete, a delay that Choicest Games' reviewer noted came at a time when many studios struggled with development during COVID-19[^ref-8]. As the Coles explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
 > **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1]
 > **Publisher:** Transolar Games (PC), Silesia Games (Nintendo Switch)[^ref-1][^ref-2]
-> **Engine:** Unity and Ink[^ref-5]
+> **Engine:** Unity and Ink[^ref-1]
 > **Platforms:** Windows, macOS, Linux, Nintendo Switch[^ref-1][^ref-2]
 > **Release Year:** 2023
 > **Series:** Hero-U
@@ -45,7 +45,7 @@ Billed by its store description as "a funny and charming visual novel adventure"
 
 *Summer Daze: Tilly's Tale* follows Tilly Appleberry, the adopted daughter of the Healer of Spielburg—a location fans will recognize from the original *Quest for Glory* games[^ref-3]. Tilly is a Rogue student at Hero University, a school where famous adventurers teach young people how to be heroes[^ref-1]. Unlike the typical hero-in-training, Tilly values having fun and connecting with people over following rules and respecting authority figures[^ref-1].
 
-Facing expulsion after a prank, Tilly has two weeks to organize a successful Harvest Festival at Hero-U[^ref-3][^ref-8]. Players must help Tilly navigate her relationships with various quirky characters while using her wit, charm, and rogueish skills to make the upcoming festival a success[^ref-1]. The focus is squarely on the story and the fantasy characters she meets, among them Mooella, a self-conscious minotaur paladin, and Sitari, a shy katta bard[^ref-3], as well as a "Doggie Chef" and other potential friends and love interests[^ref-1][^ref-11].
+Facing expulsion after a prank, Tilly has two weeks to organize a successful Harvest Festival at Hero-U[^ref-3][^ref-8]. Players must help Tilly navigate her relationships with various quirky characters while using her wit, charm, and rogueish skills to make the upcoming festival a success[^ref-2][^ref-11]. The focus is squarely on the story and the fantasy characters she meets, among them Mooella, a self-conscious minotaur paladin, and Sitari, a shy katta bard[^ref-3], as well as a "Doggie Chef" and other potential friends and love interests[^ref-1][^ref-11].
 
 As a visual novel, the narrative is shaped by player choices, with multiple endings and "hundreds of paths through the game"[^ref-1]. Before release, the project was described as featuring 23 characters and 25 locations at Hero-U[^ref-7]. [[Corey Cole]] called it "the opposite of a high stakes, stressful game"[^ref-6], and the store description bills it as suitable for all ages[^ref-1].
 
@@ -55,7 +55,7 @@ As a visual novel, the narrative is shaped by player choices, with multiple endi
 
 *Summer Daze: Tilly's Tale* operates as a visual novel, presenting the story through static backgrounds and character art that is "not animated but rather a series of still images – a handful for each character, depending on their current emotion"[^ref-3]. In [[Corey Cole]]'s words, "think of it as just like a Sierra adventure game without having to walk everywhere"[^ref-12]. Players progress through the narrative by clicking to advance text and making choices when presented with dialogue options[^ref-1].
 
-The game is fully voiced; according to Adventure Game Hotspot, "each character and every line is voiced by a professional actor"[^ref-3]. Players can use a Fast Forward button to skip through previously read text, though early versions had bugs associated with this feature[^ref-13].
+The game is fully voiced; according to Adventure Game Hotspot, "each character and every line is voiced by a professional actor"[^ref-3]. Players can use a Fast Forward button to skip through previously read text, though players reported crashes tied to it as late as 2024[^ref-13].
 
 ### Structure and Progression
 
@@ -163,7 +163,7 @@ The game suffered from several technical problems at launch that affected player
 
 - **Transition Freezing:** The original release tended to freeze when moving to a new location, though this issue was reportedly fixed in patches[^ref-3]
 - **Text Advancement Bug:** Some players reported clicking would not transition to the next text bubble, requiring saves and restarts to progress[^ref-8]
-- **Fast Forward Crashes:** One Steam user reported that clicking the Fast Forward button while stuck on a line of dialogue crashed the game[^ref-13]
+- **Fast Forward Crashes:** Several Steam users reported that clicking the Fast Forward button while stuck on a line of dialogue crashed the game[^ref-13]
 - **Linux Steam License Issue:** An itch.io user reported that the Linux build launched Steam and complained about a missing license; the developer suspected a stray "SteamSettings.ini" file that "should not be in the itch.io build" and later uploaded updated builds[^ref-10]
 
 One Steam user reported: "But in every other dialogue between Tilly & another character, I get stuck on one line of text. If I then click on the Fast Forward button at top right, the game crashes. How can I play a game if it constantly crashes?"[^ref-13]
@@ -271,7 +271,7 @@ Jimmy Maher of The Digital Antiquarian, writing about the Coles' return to game-
 [^ref-10]: [itch.io – Tilly's Tale](https://transolar-games.itch.io/tillys-tale) – file sizes and build version 20260602, $20 price, devlog, Linux bug report thread
 [^ref-11]: [Silesia Games – Summer Daze: Tilly's Tale](https://silesiagames.com/gry/summer-daze-tillys-tale/) – character descriptions, publisher information
 [^ref-12]: [Roundtable Co-op – Launch Announcement](https://roundtablecoop.com/news/summer-daze-tillys-tale-set-for-launch/) – Corey Cole quote comparing to Sierra games, Kickstarter history
-[^ref-13]: [Steam Community – Summer Daze: Tilly's Tale](https://steamcommunity.com/app/1139490) – user bug reports, crash issues
+[^ref-13]: [Steam Community – "Game crashes constantly"](https://steamcommunity.com/app/1139490/discussions/0/3803901366003291982/) – user bug reports, crash issues; opening post June 26, 2023, replies through March 22, 2024 (checked October 29, 2026)
 [^ref-15]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/summer-daze-tillys-tale/critic-reviews/) – Adventure Gamers review quote, Adventure Game Hotspot score
 [^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – Player Score 62/100 from 21 reviews (checked October 14, 2026)
 [^ref-17]: [RPGFan – Cole Interview](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-1/) – five-game Hero-U series plan, development approach quote
