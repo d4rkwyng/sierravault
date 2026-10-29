@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Modified NASCAR 2 engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: NASCAR Racing 3 is a stock car racing simulation developed by Papyrus
   Design Group and published by Sierra Sports for Windows in September 1999, covering
   the Winston Cup and Busch Grand National circuits on a modified NASCAR 2 engine.
@@ -18,11 +18,11 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-NASCAR Racing 3 is a racing simulation developed by Papyrus Design Group and published by Sierra Sports for Microsoft Windows, released in North America on September 16, 1999[^ref-22]. It is the third numbered installment in Papyrus's NASCAR Racing series, which Wikipedia describes as universally praised for its accuracy in terms of physics and track feel[^ref-2]. Built on a modified version of the NASCAR 2 engine rather than the Grand Prix Legends physics Papyrus had originally promised[^ref-7], it covers the 1999 NASCAR Winston Cup and Busch Series[^ref-22].
+NASCAR Racing 3 is a racing simulation developed by Papyrus Design Group and published by Sierra Sports for Microsoft Windows, released in North America on September 16, 1999[^ref-22][^ref-27]. It is the third numbered installment in Papyrus's NASCAR Racing series, which Wikipedia describes as universally praised for its accuracy in terms of physics and track feel[^ref-2]. Built on a modified version of the NASCAR 2 engine rather than the Grand Prix Legends physics Papyrus had originally promised[^ref-7], it covers the 1999 NASCAR Winston Cup and Busch Series[^ref-22].
 
 The game was part of Sierra Sports' portfolio, a label formed in February 1998 by Sierra On-Line as part of a company restructuring[^ref-3]. Reviewers counted 28 real-world Winston Cup and Busch tracks[^ref-8][^ref-17], though licensing issues kept Daytona and Pocono out of the game[^ref-7]. Online play ran through Sierra's WON.net matchmaking service built into the game[^ref-11]; IGN described support for up to 20 players over the Internet[^ref-8], while PC Gamer reported that 32 players could race for free on WON.NET[^ref-15].
 
@@ -32,14 +32,14 @@ The game was part of Sierra Sports' portfolio, a label formed in February 1998 b
 > **Publisher:** Sierra Sports[^ref-22]
 > **Engine:** Modified NASCAR 2 engine[^ref-7]
 > **Platforms:** Windows (Windows 95 or later)[^ref-4]
-> **Release Year:** 1999 (North America: September 16, 1999)[^ref-22]
+> **Release Year:** 1999 (North America: September 16, 1999)[^ref-22][^ref-27]
 > **Series:** NASCAR Racing
 > **Protagonist:** NASCAR Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-NASCAR Racing 3 is a pure racing simulation without a narrative storyline. Players compete in the 1999 NASCAR Winston Cup and Busch Series[^ref-22], either in single races or in a Championship Mode whose schedule includes all of the races from the real-life Winston Cup and Busch series[^ref-13]. Players can create custom paint jobs with the bundled paint kit[^ref-6].
+NASCAR Racing 3 is a pure racing simulation without a narrative storyline. Players compete in the 1999 NASCAR Winston Cup and Busch Series[^ref-22], either in single races or in a Championship Mode whose schedule includes all of the races from the real-life Winston Cup and Busch series[^ref-13]. Players can create custom paint jobs with the bundled paint kit[^ref-6][^ref-8][^ref-27].
 
 ## Gameplay
 
@@ -72,7 +72,7 @@ Rather than traditional puzzles, NASCAR Racing 3 challenges players with car set
 | CDMag | 4/5 | "A solid step forward for one of the most respected racing simulations ever"[^ref-14] |
 | PC Gamer | 81% | "A satisfying sim that's only missing the Grand Prix Legends engine"[^ref-15] |
 
-Not every licence was in place. GameSpot noted that the game lacked the full lineup of NASCAR drivers and the licences to use the names "Winston Cup" and "Busch Grand Nationals"[^ref-11], and Christian Spotlight observed that no cars carried alcohol or tobacco sponsorship[^ref-9]. PC Gamer's lows included the aging physics engine, "20 percent fewer tracks than before", and an AI bug in which drivers queue up behind a car stopped on the racing line[^ref-15].
+Not every licence was in place. GameSpot noted that the game lacked the full lineup of NASCAR drivers and the licences to use the names "Winston Cup" and "Busch Grand Nationals"[^ref-11], and Christian Spotlight observed that no cars carried alcohol or tobacco sponsorship[^ref-9]. PC Gamer's lows included the aging physics engine, "20 percent fewer tracks than before", and an AI bug in which drivers queue up behind a car stopped on the racing line[^ref-15]; GameCenter also listed AI drivers that "can't handle stopped cars on the racing line" among its lows[^ref-7].
 
 ### Awards and Sales
 
@@ -86,7 +86,7 @@ On MobyGames the game holds a Moby Score of 7.3, with a player average of 4.1 ou
 
 ### Origins
 
-NASCAR Racing 3 was originally to feature the physics that debuted in Grand Prix Legends and to ship in the fourth quarter of 1998, according to a teaser in the Busch Series expansion pack for NASCAR Racing 2. That version was cancelled in favour of one closer to its predecessor, and the Grand Prix Legends-style physics was pushed back to NASCAR Racing 4[^ref-22]. Project director Dave Matson told GameCenter, "It was a combination of factors, including the high system requirements, the hardware-only graphics engine, and, to some degree, the difficulty of the sim. We didn't want to leave the majority of our fans behind."[^ref-7]
+NASCAR Racing 3 was originally to feature the physics that debuted in Grand Prix Legends and to ship in the fourth quarter of 1998, according to a teaser in the Busch Series expansion pack for NASCAR Racing 2. That version was cancelled in favour of one closer to its predecessor, and the Grand Prix Legends-style physics was pushed back to NASCAR Racing 4[^ref-22][^ref-28]. Project director Dave Matson told GameCenter, "It was a combination of factors, including the high system requirements, the hardware-only graphics engine, and, to some degree, the difficulty of the sim. We didn't want to leave the majority of our fans behind."[^ref-7]
 
 ### Production
 
@@ -151,3 +151,5 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 [^ref-22]: [Wikipedia – NASCAR Racing 3](https://en.wikipedia.org/wiki/NASCAR_Racing_3) – release date, credits, cancelled GPL-physics version, expansion, Edge sales figure, awards
 [^ref-25]: [MyAbandonware – NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) – expansion pack release year (2000)
 [^ref-26]: [PCGamingWiki – NASCAR Racing 3](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – final patch versions, minimum system requirements
+[^ref-27]: [CDMag – NASCAR 3 Ships (Wayback Machine)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) – shipped to North American retail, posted 09/16/1999; paintkit, Direct3D/Glide, Busch Grand National content
+[^ref-28]: [Race Sim Central – NASCAR Racing 3: The Sim That Never Was](https://racesimcentral.net/nascar-racing-3-the-sim-that-never-was/) – original GPL-physics NR3 due Q4 1998 per NR2 Busch expansion teaser, cancelled; GPL physics arrived in NASCAR Racing 4
