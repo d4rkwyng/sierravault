@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Charles (Chuck) Barth]
 description: Red Baron II is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in December 1997, later patched into Red Baron 3D.
@@ -18,13 +18,13 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron II
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Red Baron II is a World War I combat flight simulation developed by [[Dynamix]] and published by [[Sierra On-Line]] in December 1997[^ref-1]. The game arrived seven years after the critically acclaimed original Red Baron, which had won Computer Gaming World's Simulation of the Year award in 1991 and was ranked #4 in the magazine's "150 Best Games of All Time" list in November 1996[^ref-2]. As the much-anticipated sequel, Red Baron II allowed players to take to the European skies in authentic WWI aircraft, engaging in spectacular aerial dogfights across the battlefields of Flanders, Marne, Verdun, and Alsace[^ref-3].
 
-The game offered quick-combat dogfights, single missions with a mission generator, and a dynamic campaign covering the Western Front from 1916 through 1918[^ref-1]. Players could enlist in any of four air services—British, French, German, or American[^ref-6]—flying a wide variety of fighter craft ("scouts, as they were called") from both sides[^ref-5]. The game modeled 40 aircraft, 22 of them flyable[^ref-6], and featured pseudo-realistic flight mechanics including weapon malfunction, flak, engine damage, and pilot injury[^ref-1].
+The game offered quick-combat dogfights, single missions with a mission generator, and a dynamic campaign on the Western Front in which "the entire course of the war is covered"[^ref-6]. Players could enlist in any of four air services—British, French, German, or American[^ref-6]—flying a wide variety of fighter craft ("scouts, as they were called") from both sides[^ref-5]. The game modeled 40 aircraft, 22 of them flyable[^ref-6], and featured pseudo-realistic flight mechanics including weapon malfunction, flak, engine damage, and pilot injury[^ref-1].
 
 Despite the long development period and tremendous anticipation, Red Baron II's release was marred by significant technical issues that drew heavy criticism from players and reviewers alike[^ref-6]. Sierra was heavily criticized for releasing the game in what many considered an unfinished state, lacking 3D acceleration support and containing numerous bugs[^ref-7]. However, Dynamix spent the following year working on patches that would eventually transform the troubled release into Red Baron 3D, which GameSpot's Denny Atkin called "the best World War I simulation yet"[^ref-8].
 
@@ -41,9 +41,9 @@ Despite the long development period and tremendous anticipation, Red Baron II's 
 
 ## Story Summary
 
-Red Baron II places players in the role of a young pilot entering the deadly aerial war over the Western Front during World War I. The game's campaign mode follows the player's career from enlistment through to the war's end, with the dynamic war front changing based on the actions of both the player and their squadron[^ref-5]. Unlike modern jet combat simulations with their complex avionics, the game offered what reviewers described as "a realistic and romantic return to the era of biplanes and unadulterated dogfighting"[^ref-10].
+Red Baron II places players in the role of a young pilot entering the deadly aerial war over the Western Front during World War I. The game's campaign mode follows the player's career from enlistment through to the war's end; the manual notes that "the later you start in the war, the fewer missions your pilot can go on before the war ends"[^ref-38]. The dynamic war front changes based on the actions of both the player and their squadron[^ref-5]. Unlike modern jet combat simulations with their complex avionics, the game offered what reviewers described as "a realistic and romantic return to the era of biplanes and unadulterated dogfighting"[^ref-10].
 
-The narrative unfolds through the dynamic campaign system, which GameSpot's review of the patched Red Baron 3D praised for having "more atmosphere and less repetition than the dynamic campaigns found in recent jet sims"[^ref-8]. The campaign covers the Western Front from 1916 through 1918[^ref-1], with squadrons flying the proper planes from the correct airfields over the course of the war[^ref-6] and new aircraft appearing at the appropriate moments—for example, the Fokker Dr.I triplane does not appear "until the historically appropriate moment"[^ref-11].
+The narrative unfolds through the dynamic campaign system, which GameSpot's review of the patched Red Baron 3D praised for having "more atmosphere and less repetition than the dynamic campaigns found in recent jet sims"[^ref-8]. GameSpot noted that "the entire course of the war is covered," with squadrons flying the proper planes from the correct airfields over the course of the war[^ref-6] and new aircraft appearing at the appropriate moments—for example, the Fokker Dr.I triplane does not appear "until the historically appropriate moment"[^ref-11].
 
 The career carried personal stakes. A pilot started "at the bottom of the ladder" and could rise to Squadron Commander, directing other pilots and altering mission flight plans, while "insubordinate pilots could be imprisoned and even executed"[^ref-10]. Pilot injury was modeled[^ref-1], and players could earn medals from four countries—British, French, German, and American—as their career progressed[^ref-3].
 
@@ -60,7 +60,7 @@ The game featured four distinct play modes[^ref-1]:
 - **Fly Now:** Instant action dogfighting for immediate combat
 - **Single Mission:** Individual combat scenarios with specific objectives
 - **Campaign Mode:** Full career progression through the war years
-- **Multiplayer:** Peer-to-peer online play[^ref-1] for 2–8 players at launch[^ref-28]; the later Red Baron 3D update replaced it with a server-based mode supporting up to 100 players[^ref-8]
+- **Multiplayer:** Peer-to-peer online play[^ref-1] for 2–8 players at launch according to CD Mag[^ref-28] (Computer Gaming World's review box listed 2–16[^ref-40]); the later Red Baron 3D update replaced it with a server-based mode supporting up to 100 players[^ref-8]
 
 The campaign system tracked player progress through the entire World War I air combat period, with the ability to enlist in any of four air services[^ref-6]. Players could earn custom paint jobs for their aircraft upon reaching appropriate ranks[^ref-11]. The dynamic mission generator directed activity within a 100-mile radius of the player's squadron, producing encounters such as "dogfights already in progress, aircraft landing at their aerodrome, enemy planes bombing a target, or a friendly spotter plane being attacked"[^ref-14]. Single missions also came with an editor for creating new ones[^ref-6].
 
@@ -76,9 +76,9 @@ At launch the game shipped with two flight models, easy and authentic[^ref-6]; A
 
 Red Baron II received mixed reviews upon release, with critics acknowledging its ambitious scope while criticizing its rushed, bug-ridden state. GameSpot awarded the game 7.1/10, with reviewer Denny Atkin noting that "Red Baron II has a lot to offer, but its rushed shipment makes for a game that's appealing only to those sim fans willing to deal with quirks and inconsistencies while awaiting patches"[^ref-6]. PC Gamer gave the game 59%. Dan Bennett recalled that "when Sierra announced Red Baron II, lots of flight sim nuts were understandably excited," but concluded that "lots of little problems—and a few big ones—drag the sim down"[^ref-15].
 
-GameCenter awarded 7/10, with Hugh Falk summarizing the situation as "The Baron is back...but buggy" while acknowledging that "visually, RBII is a huge improvement on the original; as would be expected after seven years"[^ref-16]. PC Zone UK was less impressed, giving only 60/100[^ref-17]. Computer Games Magazine gave a harsh 2/5 stars[^ref-17].
+GameCenter awarded 7/10, with Hugh Falk summarizing the situation as "The Baron is back...but buggy" while acknowledging that "visually, RBII is a huge improvement on the original; as would be expected after seven years"[^ref-16]. PC Zone UK was less impressed, giving only 60/100[^ref-17]. Computer Games Strategy Plus, whose CD Mag site carried Tom Chick's review[^ref-28], gave a harsh 2/5[^ref-17]. Computer Gaming World's Robin G. Kim gave 3 out of 5 stars, calling the game "a diamond in the rough" that could follow the original "as a true giant among flight sims, but only if Dynamix comes through with its promised flight model, multiplayer, and 3D-accelerated graphics patches"[^ref-40].
 
-In stark contrast, GameRevolution gave an enthusiastic A− rating[^ref-1], declaring "Red Baron II is the most immersive flight simulator I have ever laid my hands on" and suggesting it "just may be the crossover title to introduce the casual gamer to the wonderful world of simulations"[^ref-11]. PC Gamer UK was highly critical, scoring it only 53% with Dean Evans stating that "Red Baron 2 hasn't lived up to the exciting idea that Sierra have been spinning us" and noting that "in a straight fight with the superb Flying Corps, the Rowan game rattles holes in Sierra's unstable fuselage"[^ref-19].
+In stark contrast, GameRevolution gave an enthusiastic A− rating[^ref-1], declaring "Red Baron II is the most immersive flight simulator I have ever laid my hands on" and suggesting it "just may be the crossover title to introduce the casual gamer to the wonderful world of simulations"[^ref-11]. PC Gamer UK was highly critical, scoring it only 53% with Dean Evans stating that "Red Baron 2 hasn't lived up to the exciting idea that Sierra have been spinning us" and noting that "in a straight fight with the superb Flying Corps, the Rowan game rattles holes in Sierra's unstable fuselage"[^ref-19]. Australia's PC PowerPlay was far warmer, awarding 92% and its Gold badge; George Argy concluded that "Red Baron II hits the mark"[^ref-41]. Next Generation rated it four stars out of five[^ref-39].
 
 ### Modern Assessment
 
@@ -103,17 +103,22 @@ The sequel was part of Sierra's ACES series of historical wartime simulation pro
 
 ### Production
 
-The development team was directed by Tucker Hatfield with Graeme Bayless serving as producer[^ref-1]. Doug Johnson, Brian Apgar, and Eric Lanz led the design work, with Brian Apgar also serving as primary programmer[^ref-1]. Douglas Brashear was the primary artist[^ref-1]. Steven Hill served as director and Neil Haldar as producer according to MobyGames credits[^ref-21].
+The development team was directed by Tucker Hatfield with Graeme Bayless serving as producer[^ref-1]. Doug Johnson, Brian Apgar, and Eric Lanz led the design work, with Brian Apgar also serving as primary programmer[^ref-1]. Douglas Brashear was the primary artist[^ref-1]. The manual carried its own credits: Neil Haldar produced it and Steven Hill directed it, with John R. Bruning writing the historical and tactical sections[^ref-38]. MobyGames' credit list for the game reproduces that manual team, plus the German localisation staff, and lists no development team[^ref-21].
 
-According to GameRevolution, the designers reportedly consulted plane specification sheets, pilot testimony, and WWI flight films in an attempt at accuracy, though the reviewer still found the shipped flight models "just off"[^ref-11]. The game's terrain was based on historical cartographic information of the northern French countryside[^ref-14]. The comprehensive manual reflected this dedication, containing over 100 pages of historical content covering WWI aviation history, flight tactics and maneuvers, military awards, and more[^ref-25].
+According to GameRevolution, the designers reportedly consulted plane specification sheets, pilot testimony, and WWI flight films in an attempt at accuracy, though the reviewer still found the shipped flight models "just off"[^ref-11]. The game's terrain was based on historical cartographic information of the northern French countryside[^ref-14]. The comprehensive manual reflected this dedication: its historical overview runs from page 5 to page 64, followed by sections on flight, maneuvers, tactics, formations, mission types, the aircraft of the war and medals, with game play instructions starting only at page 157[^ref-38][^ref-25].
 
-**Development Credits:**[^ref-1][^ref-21]
-- **Director:** Tucker Hatfield; Steven Hill (per MobyGames)
-- **Producer:** Graeme Bayless; Neil Haldar (per MobyGames)
+**Development Credits:**[^ref-1]
+- **Director:** Tucker Hatfield
+- **Producer:** Graeme Bayless
 - **Designers:** Doug Johnson, Brian Apgar, Eric Lanz
 - **Primary Programmer:** Brian Apgar
 - **Primary Artist:** Douglas Brashear
 - **Music:** Charles (Chuck) Barth[^ref-26]
+
+**Manual Credits:**[^ref-38][^ref-21]
+- **Producer:** Neil Haldar
+- **Director:** Steven Hill
+- **Historical and Tactical Sections:** John R. Bruning
 
 ### Technical Achievements
 
@@ -139,7 +144,7 @@ However, the initial release lacked 3D acceleration support, a significant omiss
 - **CD-ROM:** 8X speed
 - **Additional:** Joystick, 28.8Kbps modem or network for multiplayer
 
-**Multiplayer Support:** 2–8 players[^ref-3][^ref-28]
+**Multiplayer Support:** 2–8 players per CD Mag[^ref-28]; 2–16 per Computer Gaming World[^ref-40]
 - LAN
 - Internet (via World Opponent Network)
 - Modem
@@ -182,7 +187,7 @@ An early patch, already out when GameRevolution reviewed the game in December 19
 - Some copies of Red Baron II included a coupon for 75 cents off a 12-inch Red Baron frozen pizza, with no expiration date. In 2014, YouTuber Clint Basinger (the Lazy Game Reviewer) found the coupon in a copy a viewer had given him, took it to a grocery store, and successfully used it to buy a pizza[^ref-1][^ref-31].
 - Dramatic pilot animations included catching fire and jumping from the cockpit screaming, as well as Red Cross trucks rescuing crashed pilots[^ref-11].
 - The game allowed custom paint jobs upon reaching appropriate rank[^ref-11].
-- The extensive game manual contained 156 pages of WWI aviation history with diagrams, photos, color illustrations of Allied and German planes, medals, and maps[^ref-32].
+- The extensive game manual devoted its first 156 pages to WWI aviation history, flight, tactics, aircraft and medals before game play instructions began on page 157[^ref-38], with diagrams, photos, color illustrations of Allied and German planes, medals, and maps[^ref-32].
 
 ## Legacy
 
@@ -205,7 +210,7 @@ In 2013, Dynamix veteran Damon Slye, by then running Mad Otter, tried to raise $
 ### Related Publications
 
 - **Red Baron II: The Official Strategy Guide:** Written by Chris Jensen for Prima Games, published February 1, 1998. 240 pages. Received criticism from reviewer M. Fazekas who called it "simply a repeat of the manual that comes with the game"[^ref-34]
-- **Game Manual:** 228 pages indexed, including 156 pages of WWI aviation history with diagrams, photographs, color illustrations of Allied and German planes, medals, and maps[^ref-32]
+- **Game Manual:** 228 numbered pages, ending with an index from page 225; the historical overview covers pages 5–64, the reference, tactics, aircraft and medals sections run through page 156, and game play begins on page 157[^ref-38]. A seller listing describes its diagrams, photographs, color illustrations of Allied and German planes, medals, and maps[^ref-32]
 
 ### Critical Perspective
 
@@ -213,7 +218,7 @@ Red Baron II represents a fascinating case study in game development and post-re
 
 GameSpot judged that the game, "already a year late," had been "rushed to make it onto the holiday plate"[^ref-6]. As CD Mag's Tom Chick lamented, "Sierra has come so maddeningly, frustratingly, agonizingly close to putting out a worthy successor to what may very well have been the best flight simulation ever"[^ref-28]. However, the story of Red Baron II is ultimately one of redemption. AllGame's Michael L. House noted that "Red Baron 3-D is a direct result of what can be accomplished when the developing company asks for and receives user feedback in a genuine effort to improve the product"[^ref-13].
 
-Even at launch, the game's appeal was clear to some critics. Next Generation called Red Baron II "a fine addition to the series, and despite small, technical shortcomings, it establishes itself as one of the most entertaining flight experiences on the market today"[^ref-1], and Gamecenter praised its "realistic and romantic return to the era of biplanes and unadulterated dogfighting"[^ref-10].
+Even at launch, the game's appeal was clear to some critics. Next Generation called Red Baron II "a fine addition to the series, and despite some small, technical shortcomings, it establishes itself as one of the most entertaining flight experiences on the market today"[^ref-39], and Gamecenter praised its "realistic and romantic return to the era of biplanes and unadulterated dogfighting"[^ref-10].
 
 ## Downloads
 
@@ -222,7 +227,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 - [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/)
 
 **Manuals & Extras**
-- [Sierra Help – Red Baron II Manual (PDF, 3.60 MB)](http://sierrahelp.com/Documents/Manuals.html)
+- [Sierra Help – Red Baron II Manual (PDF, 3.60 MB)](http://sierrahelp.com/Documents/Manuals/Red_Baron_2_-_Manual.pdf)
 
 **Patches**
 - [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html)
@@ -231,6 +236,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 - [[1990 - Red Baron]]
+- [[1998 - Red Baron 3D]]
 - [[1999 - Curse You! Red Baron]]
 - [[2008 - Red Baron Arcade]]
 
@@ -270,3 +276,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-34]: [Amazon – Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – strategy guide details
 [^ref-36]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/) – digital collection with Red Baron, Red Baron 3D, and Mission Builder
 [^ref-37]: [Amazon – Red Baron 3-D](https://www.amazon.com/Red-Baron-3-D-PC/dp/B00001LCDF) – customer rating 3.3/5
+[^ref-38]: [Sierra Help – Red Baron II Manual (PDF)](http://sierrahelp.com/Documents/Manuals/Red_Baron_2_-_Manual.pdf) – contents (pp. i–vi), campaign enlistment (p. 163), Manual Credits (p. 223)
+[^ref-39]: [Next Generation #40, April 1998 (Archive.org)](https://archive.org/details/NEXT_Generation_40/page/n109/mode/2up) – Red Baron II review, p. 108; rated four stars
+[^ref-40]: [Computer Gaming World #165, April 1998 (CGW Museum PDF)](https://www.cgwmuseum.org/galleries/issues/cgw_165.pdf) – "The Baron Flies Again" by Robin G. Kim, pp. 162–163; 3/5 stars, multiplayer 2–16
+[^ref-41]: [PC PowerPlay #23, April 1998 (Archive.org)](https://archive.org/details/PCPowerplay-023-1998-04/page/n63/mode/2up) – Red Baron II review by George Argy, p. 64; 92%, Gold award
