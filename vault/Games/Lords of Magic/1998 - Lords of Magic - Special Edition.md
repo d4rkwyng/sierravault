@@ -10,20 +10,20 @@ series: Lords Series
 engine: GameScript (PostScript-based)
 protagonist: Player-created Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Keith Zizza]
 description: 'Lords of Magic: Special Edition is a 1998 fantasy strategy game from Impressions
   Games that combines turn-based exploration with real-time combat and resource management,
-  set in the war-torn world of Urak.'
+  set in the world of Urak.'
 tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Lords of Magic: Special Edition is a fantasy strategy game that combines turn-based exploration with real-time combat and resource management, set in the war-torn world of Urak.[^ref-1] Released in September 1998 as an enhanced version of the original Lords of Magic (December 1997), the Special Edition addresses numerous bugs and shortcomings while adding substantial new content including the Legends of Urak Quest Pack, a lord editor, map editor, 8 new buildings, 17 new monsters, and 5 new storylines based on legendary characters.[^ref-2] The game was developed by Impressions Games and published by Sierra On-Line, and GOG's store page describes it as "a fine mix of the best qualities from Heroes of Might and Magic and Lords of the Realm."[^ref-3]
+Lords of Magic: Special Edition is a fantasy strategy game that combines turn-based exploration with real-time combat and resource management,[^ref-1] set in the world of Urak.[^ref-3] Released in September 1998 as an enhanced version of the original Lords of Magic (December 1997), the Special Edition addresses numerous bugs and shortcomings while adding substantial new content including the Legends of Urak Quest Pack, a lord editor, a map editor,[^ref-6] 8 new buildings, 17 new monsters, and 5 new storylines based on legendary characters.[^ref-2] The game was developed by Impressions Games and published by Sierra On-Line, and GOG's store page describes it as "a fine mix of the best qualities from Heroes of Might and Magic and Lords of the Realm."[^ref-3]
 
 The game tasks players with defeating Balkoth, Lord of Death, who has unleashed a nightmare of war and terrorism across Urak after a thousand years of peace.[^ref-3] Players can choose from eight different faiths—Life, Death, Order, Chaos, Air, Earth, Fire, and Water—each with distinct strengths, weaknesses, and over 160 different spells and 90 artifacts to discover.[^ref-5] Chris Beatrice, general manager of Impressions, declared that "Lords of Magic Special Edition is the game we always wanted to make. The game ties together all of the rich diverse elements that make up classic high fantasy and weaves from them a wonderful, different story every time you play."[^ref-6]
 
@@ -52,7 +52,7 @@ After completing the game once by defeating Balkoth, players unlock a new campai
 
 Lords of Magic: Special Edition is described as a "hybrid RPG/Strategy game" that combines multiple gameplay systems.[^ref-10] The game operates on two distinct levels: a turn-based strategic map where players maneuver armies and manage resources, and real-time tactical combat when forces engage the enemy.[^ref-1] The interface requires significant learning investment—as one review noted, "Lords of Magic is complex, and attempting to play without reading the 100 pages of instructions will result in a big headache."[^ref-11]
 
-The game controls primarily via mouse and keyboard, with the strategic layer featuring a bird's-eye and isometric perspective.[^ref-12] Combat transitions to real-time battles where players can control individual units, though the interface received criticism for being "awkward" and making it difficult to target enemy units in close quarters.[^ref-13] One notable technical limitation is that the game cannot run in any resolution other than 640x480, nor can it be windowed.[^ref-7]
+The game controls primarily via mouse and keyboard, with the strategic layer featuring a bird's-eye and isometric perspective.[^ref-12] Combat transitions to real-time battles where players can control individual units, though PC Gamer's review of the original called the combat system "awkward",[^ref-18] and GameSpot's Special Edition review found it still "extremely difficult to target the enemy units" at close quarters.[^ref-13] One notable technical limitation is that the game cannot run in any resolution other than 640x480, nor can it be windowed.[^ref-7]
 
 ### Structure and Progression
 
@@ -65,7 +65,7 @@ The game features extensive character progression with different maximum experie
 - **Lords:** Maximum level 12
 - **Magical Creatures:** Maximum level 15
 
-Armies consist of three groups, with each group limited to one Champion and three Units.[^ref-10] Legendary Creatures represent the most powerful summons but can only be called forth once per game, adding strategic weight to their deployment.[^ref-10]
+Armies consist of three groups, with each group limited to one Champion and three Units.[^ref-10] Legendary Creatures represent the most powerful summons but can only be called forth once per game (except Water's Giant Spiders, which can be summoned in any number and come in groups of two), adding strategic weight to their deployment.[^ref-10]
 
 ### The Legends of Urak Quests
 
@@ -105,14 +105,14 @@ For the Special Edition, GameRankings lists Computer Games Magazine at 4/5, Elec
 
 The Home of the Underdogs write-up reproduced on My Abandonware calls it "one of the best strategy games ever made" and argues that it, "much more so than G.O.D.'s overhyped Age of Wonder, deserves to be considered the true spiritual sequel to SimTex's acclaimed Master of Magic."[^ref-24] The same write-up quotes Games Domain's review of the Special Edition, which praised its atmosphere: "LOM:SE is lush with atmosphere. The strategic component, where you will maneuver all your armies and characters in a turn-based environment, is beautiful." That review concluded the game was "the best computer implementation I've yet seen of pencil-and-paper fantasy campaigning for one, with all the trimmings."[^ref-24]
 
-Steam user reviews are "Very Positive" at 92% approval.[^ref-9] GOG.com users rate it 4.2/5 based on 117 reviews.[^ref-3] However, some modern players find it dated—one Steam reviewer noted: "It might be a great game in 1997 but it is at best mediocre in 2025."[^ref-25] Another defended it: "OG Sierra development at it's finest. Just remember the game is almost 30 yrs old, so it's not a modern interface, and there is no hand-holding."[^ref-25]
+Steam user reviews are "Very Positive" at 92% approval.[^ref-9] GOG.com users rate it 4.2/5 based on 118 reviews.[^ref-3] However, some modern players find it dated—one Steam reviewer noted: "It might be a great game in 1997 but it is at best mediocre in 2025."[^ref-25] Another defended it: "OG Sierra development at it's finest. Just remember the game is almost 30 yrs old, so it's not a modern interface, and there is no hand-holding."[^ref-25]
 
 **Aggregate Scores:**
 - **GameRankings (Original):** 76.50% (4 reviews)[^ref-26]
 - **GameRankings (Special Edition):** 73.75% (4 reviews)[^ref-23]
 - **MobyGames:** 77% critics aggregate[^ref-27]
 - **Steam:** Very Positive (92%)[^ref-9]
-- **GOG.com:** 4.2/5 (117 reviews)[^ref-3]
+- **GOG.com:** 4.2/5 (118 reviews)[^ref-3]
 - **My Abandonware:** 4.43/5 (7 votes)[^ref-24]
 
 ## Development
@@ -137,9 +137,9 @@ Sierra responded with multiple patches, culminating in the Special Edition relea
 
 ### Technical Achievements
 
-The game engine, called GameScript, is based upon PostScript language level 3—"the language used by Adobe Inc. for their .ps files. It is a stack-oriented language."[^ref-7] Community investigation revealed the engine contains 1802 hard-coded procedures and, intriguingly, uses Blizzard's dynamic link libraries (DLLs), with references to battle.net despite the game having no TCP/IP multiplayer support.[^ref-7]
+The game engine, called GameScript, is based upon PostScript language level 3—"the language used by Adobe Inc. for their .ps files. It is a stack-oriented language."[^ref-7] Community investigation revealed the engine contains 1802 hard-coded procedures, and patch author ascension64 noted that it uses Blizzard's dynamic link libraries (DLLs), with references to battle.net.[^ref-7] Computer Games Strategy Plus's review of the original lists multiplayer for "2-8 players, Internet, LAN, modem, serial",[^ref-22] and PCGamingWiki notes that "The official WON multiplayer service has been shut down."[^ref-12]
 
-The modding community discovered "there is enough customization out there to make total conversions out of Lords of Magic," though special building effects remain hard-coded in the executable and are not modifiable through scripts.[^ref-7] A hidden script window/console is accessible with the tilde (~) key, revealing the technical foundation of the game's systems.[^ref-7]
+The modding community discovered "there is enough customization out there to make total conversions out of Lords of Magic," though special building effects remain hard-coded in the executable and are not modifiable through scripts.[^ref-7] ascension64's unofficial 3.02 patch adds a script console, opened with the tilde (~) key, that exposes the game's underlying script commands.[^ref-7]
 
 ### Technical Specifications
 
@@ -177,7 +177,7 @@ No specific cut content has been documented in available sources.
 | 1.03 | Undated | Windows | Update (lomv103b)[^ref-28] |
 | 2.0 | Undated | Windows | Patch with enhancements and bug fixes[^ref-28] |
 | 2.0a | Undated | Windows | Last official patch for the original release[^ref-12][^ref-28] |
-| Special Edition | September 15, 1998 (NA) | Windows | Retail release[^ref-5][^ref-6] |
+| Special Edition | September 1998 (NA; announced for Sept. 15, GameRankings lists Sept. 30) | Windows | Retail release[^ref-5][^ref-6][^ref-23] |
 | 3.01 | Undated | Windows | Special Edition update; last official patch[^ref-12][^ref-28] |
 | 3.02 | March 11, 2007 | Windows | Unofficial community patch by ascension64, first released[^ref-7] |
 | 3.02 Build 0014.3 | December 11, 2007 | Windows | Latest build of the unofficial patch[^ref-7] |
@@ -216,15 +216,15 @@ Press Ctrl+C before entering codes:
 - `go far` – 1000 movement
 - `all spells` – All spells and mana
 
-**Hidden Content:**[^ref-7]
-- Hidden script window/console accessible with tilde (~) key
-- `cheatbalkoth` command allows playing as Death without killing Balkoth
+**Unofficial 3.02 Patch Console (not in the retail game):**[^ref-7]
+- The unofficial 3.02 patch adds a script console opened with the tilde (~) key
+- Its `cheatbalkoth` command adds one to the count of Balkoth kills, allowing play as Death without killing Balkoth
 
 **Secret Character:**[^ref-30]
 Select Legends of Urak from the starting screen. Click the very center dot in the middle of the circle of life to unlock a new playable character.
 
 **Development Trivia:**
-- The game uses Blizzard's DLLs with references to battle.net despite no TCP/IP support[^ref-7]
+- According to patch author ascension64, the game uses Blizzard's DLLs and contains references to battle.net[^ref-7]
 - WANDERING_MONSTER_PLAYER is defined as player 15 in the game's code[^ref-7]
 - The GameScript engine contains 1802 hard-coded procedures[^ref-7]
 
@@ -254,7 +254,7 @@ Specific sales figures are not available in the research data. The game was rele
 
 ### Collections
 
-The Special Edition itself functions as a compilation, bundling:[^ref-8]
+The Special Edition itself functions as a compilation, bundling:[^ref-2][^ref-6]
 - The original Lords of Magic game
 - The Legends of Urak Quest Pack expansion
 - Lord Editor
@@ -275,7 +275,7 @@ A dedicated subreddit (r/LoMSE) maintains an active community with discussions o
 
 - **Game Manual:** 100+ pages of instructions, essential for learning the game's complex mechanics[^ref-11]
 - **Quick Reference Card:** Included with retail copies[^ref-35]
-- **Poster:** Listed as included content (often missing from used copies)[^ref-35]
+- **Poster:** Listed as included content[^ref-35]
 
 ### Critical Perspective
 
@@ -320,7 +320,7 @@ The game remains on sale through modern digital platforms, and its modding commu
 [^ref-25]: [Steam Community Hub](https://steamcommunity.com/app/404040) – user reviews
 [^ref-17]: [Game Revolution Review (Wayback Machine)](https://web.archive.org/web/20040220205438/http://www.game-revolution.com/games/pc/strategy/lords.htm) – diplomacy quote, technical specs
 [^ref-18]: [PC Gamer Online Review (Wayback Machine)](https://web.archive.org/web/19991210163929/http://www.pcgamer.com/reviews/638.html) – score, reviewer quotes, system requirements
-[^ref-19]: [GameSpot – Lords of Magic Original Review](https://www.gamespot.com/reviews/lords-of-magic-review/1900-2535765/) – original score, critique
+[^ref-19]: [GameSpot – Lords of Magic Original Review (Wayback Machine)](https://web.archive.org/web/20120106185229/http://www.gamespot.com/lords-of-magic/reviews/lords-of-magic-review-2535765/) – original score, critique
 [^ref-20]: [PC Gamer UK Review (Wayback Machine)](https://web.archive.org/web/20010527000453/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=675) – score, reviewer quotes, design notes
 [^ref-21]: [GameCenter Review (Wayback Machine)](https://web.archive.org/web/20000816095951/http://www.gamecenter.com/Reviews/Item/0,6,0-1502,00.html) – score, bugs quote
 [^ref-22]: [Computer Games Strategy Plus Review (Wayback Machine)](https://web.archive.org/web/20030704201910/http://www.cdmag.com/articles/009/154/lords_magic_review.html) – bugs list, reviewer quote
