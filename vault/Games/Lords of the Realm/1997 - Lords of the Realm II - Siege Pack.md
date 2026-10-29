@@ -10,14 +10,16 @@ series: Lords of the Realm
 engine: Unknown
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Lords of the Realm II: Siege Pack is the official expansion pack to
-  Lords of the Realm II, released in June 1997 by Sierra On-Line. Developed by Impressions...'
+  Lords of the Realm II, developed by Impressions Games and released in June 1997
+  by Sierra On-Line, adding a Skirmish mode, new castles and battle maps, Internet
+  play and a map editor.'
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II: Siege Pack
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -67,14 +69,18 @@ The included editor is for battle maps. Home of the Underdogs says players "can 
 | CD-ROM | 2X drive[^ref-17] |
 | Graphics | Local bus video; map editor needs 1 MB video and 16-bit colour[^ref-17] |
 | Input | Mouse[^ref-17] |
-| Multiplayer | Internet, LAN, modem; Internet play needs a Pentium 75 and 28.8 kbps modem[^ref-8] |
-| Other | Registered copy of Lords of the Realm II[^ref-8] |
+| Multiplayer | Internet, LAN, modem[^ref-8] |
+| Other | Registered copy of Lords of the Realm II[^ref-20][^ref-5] |
 
 ## Reception
 
 ### Contemporary Reviews
 
-MobyGames records a critics' average of 69% from five ratings for the Siege Pack[^ref-1]. The individual contemporary reviews behind that average have not yet been sourced for this page.
+MobyGames records a critics' average of 69% from five ratings for the Siege Pack[^ref-1].
+
+Robert Mayer reviewed the pack for *Computer Game Entertainment* in October 1997, scoring it 81 overall[^ref-25]. He wrote that its new maps, enhanced AI and other improvements "make the Siege Pack a good value for its approximately $25 street price," though he found the computer "merely adequate as a medieval general" and reported editor palette problems on his machine, probably from an incompatibility with its ATI Rage II video system[^ref-25]. His verdict: "Fans of Lords of the Realm II will want this add-on; it's priced right and it delivers the goods"[^ref-25].
+
+*Ultimate PC* (issue 2, October 1997) listed the pack at £9.99 and rated its value for money ££[^ref-26]. It found the real-time battles "still dogged by a computer AI that displays complete incompetence," but said: "These new multi-player features on the Siege Pack give the game a whole new lease of life"[^ref-26]. Its advice to players without a modem who wanted a better single-player game was blunt: "forget it!"[^ref-26]
 
 ### Modern Assessment
 
@@ -101,7 +107,7 @@ The Siege Pack remains available today as part of digital re-releases: the Steam
 - [GOG - Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) - includes Lords of the Realm II and the Siege Pack
 
 **Download / Preservation**
-- [Internet Archive - Lords of the Realm II: Siege Pack](https://archive.org/details/LordsoftheRealmIISiegePack_1020)
+- [Internet Archive - Lords of the Realm II: Siege Pack Demo](https://archive.org/details/LordsoftheRealmIISiegePack_1020) - Siege Pack demo (`l2seigdm.zip`), not the full game
 
 ## See Also
 
@@ -113,11 +119,11 @@ The Siege Pack remains available today as part of digital re-releases: the Steam
 ## References
 
 [^ref-1]: [MobyGames - Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – description, publisher, developer, critics' average 69% (5 ratings)
-[^ref-2]: [Internet Archive - Lords of the Realm II: Siege Pack](https://archive.org/details/LordsoftheRealmIISiegePack_1020) – marketing description
+[^ref-2]: [Internet Archive - Lords of the Realm II: Siege Pack Demo](https://archive.org/details/LordsoftheRealmIISiegePack_1020) – Siege Pack demo item; marketing description
 [^ref-4]: [Sierra Chest - Lords of the Realm II: Siege Pack Maps](https://sierrachest.com/index.php?a=games&id=163&title=lords-of-the-realm-2-siege-pack&fld=maps) – 20 new maps added to the base game's 24
 [^ref-5]: [Amazon - Lords of the Realm II: Siege Pack](https://www.amazon.com/Lords-Realm-II-Siege-Pack-Pc/dp/B00062QYYS) – requires registered Lords of the Realm II; customer rating
 [^ref-6]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – Siege Pack section (June 1997 release); Royal Collection; Lords of the Realm III
-[^ref-8]: [MobyGames - Lords of the Realm II: Siege Pack Specs](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/specs/) – Windows 95, multiplayer options, Internet play requirements
+[^ref-8]: [MobyGames - Lords of the Realm II: Siege Pack Specs](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/specs/) – Windows 95, multiplayer options
 [^ref-9]: [GameFAQs - Lords of the Realm II: Siege Pack](https://gamefaqs.gamespot.com/pc/961708-lords-of-the-realm-ii-siege-pack) – game description
 [^ref-12]: [GameFAQs - Lords of the Realm II: Siege Pack Cheats](https://gamefaqs.gamespot.com/pc/961708-lords-of-the-realm-ii-siege-pack/cheats) – integer rollover glitch
 [^ref-13]: [Home of the Underdogs - Lords of the Realm II: Siege Pack](https://www.homeoftheunderdogs.net/game.php?id=4600) – review, feature list, map editor limits, user rating
@@ -128,3 +134,5 @@ The Siege Pack remains available today as part of digital re-releases: the Steam
 [^ref-22]: [MobyGames - Lords of the Realm II: Siege Pack Credits](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/credits/windows/) – design, production and audio credits
 [^ref-23]: [Steam - Lords of the Realm II](https://store.steampowered.com/app/397350/) – store edition includes the Siege Pack expansion
 [^ref-24]: [GOG - Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – includes Lords of the Realm II and the Siege Pack
+[^ref-25]: [Computer Game Entertainment, October 1997, p. 102 - Lords of the Realm II Siege Pack review by Robert Mayer (Internet Archive)](https://archive.org/details/cge-03/page/102) – period review; overall rating 81; $25 street price
+[^ref-26]: [Ultimate PC, Issue 2, October 1997, p. 122 - Lords of the Realm II Siege Pack review (Internet Archive)](https://archive.org/details/ultimate-pc-02/page/122) – period review; £9.99, VFM ££; multiplayer verdict
