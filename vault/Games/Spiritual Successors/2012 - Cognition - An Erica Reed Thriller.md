@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 composer: [Austin Haynes, Matthew Florianz]
 description: 'Cognition: An Erica Reed Thriller is a four-part episodic point-and-click
   adventure from Phoenix Online Studios, released 2012-2013, with Gabriel Knight creator
@@ -19,13 +19,13 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 **Cognition: An Erica Reed Thriller** is a four-part episodic point-and-click adventure game developed by [[Phoenix Online Studios]] and released beginning in 2012.[^ref-1] The game follows FBI agent Erica Reed, who possesses supernatural psychic abilities that allow her to see into the past by touching objects.[^ref-2] Alternative Magazine Online called the first episode "a good old-fashioned adventure game like they used to make"[^ref-3], and the game was created with story consultation from renowned adventure game designer [[Jane Jensen]], known for her work on the [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] series.[^ref-4]
 
-The game was Phoenix Online Studios' first commercial project[^ref-4] and was funded through a 2011 Kickstarter campaign that raised $34,247 from 634 backers against a $25,000 goal.[^ref-1][^ref-27] Adventure Classic Gaming called it "among the earliest adventure game projects to be successfully funded on Kickstarter."[^ref-4] Each episode functions as a self-contained investigation into a serial killer while advancing the larger story of who killed Erica's brother.[^ref-7] One Metacritic user review called it "a gorgeous adventure in the spirit of genre classics like Gabriel Knight, Blade Runner and Gray Matter."[^ref-8]
+The game was Phoenix Online Studios' first commercial project[^ref-4] and was funded through a 2011 Kickstarter campaign that raised $34,247 from 634 backers against a $25,000 goal.[^ref-1][^ref-27] Adventure Classic Gaming called it "among the earliest adventure game projects to be successfully funded on Kickstarter."[^ref-4] Each episode functions as a self-contained investigation into a serial killer while advancing the larger story of who killed Erica's brother.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Phoenix Online Studios]][^ref-1]
@@ -43,7 +43,7 @@ The game was Phoenix Online Studios' first commercial project[^ref-4] and was fu
 
 ## Story Summary
 
-The game centers on Erica Reed, an FBI agent working in Boston who specializes in serial murder cases.[^ref-4] Erica possesses a rare psychic gift that allows her to see certain past events when she touches or focuses on objects.[^ref-2][^ref-12] As the game's description states: "FBI agent Erica Reed has an ability to see certain past events. A man with dark secrets has been murdered by hanging. A hidden message at the crime scene leads Erica to believe that the serial killer who killed her brother isn't dead."[^ref-13]
+The game centers on Erica Reed, an FBI agent working in Boston who specializes in serial murder cases.[^ref-4] Erica possesses a rare psychic gift that allows her to see certain past events when she touches or focuses on objects.[^ref-2][^ref-12] IMDb's plot summary reads: "FBI agent Erica Reed has an ability to see certain past events. A man with dark secrets has been murdered by hanging. A hidden message at the crime scene leads Erica to believe that the serial killer who killed her brother isn't dead."[^ref-13]
 
 Throughout the episodic series, Erica learns to control three distinct psychic powers: cognition, projection, and regression.[^ref-4] God is a Geek described "an uncomfortably dark narrative"[^ref-14] centered on her investigations and her personal trauma. Each episode presents a different serial killer case while building toward the resolution of the central mystery surrounding her brother's death.[^ref-1][^ref-7]
 
@@ -60,7 +60,7 @@ Throughout the episodic series, Erica learns to control three distinct psychic p
 
 ### Interface and Controls
 
-Cognition is a point-and-click adventure played mostly in third person, with certain sequences in first person.[^ref-1][^ref-5] It can be played with the mouse or the keyboard.[^ref-18] Players control Erica as she investigates crime scenes and interacts with various characters throughout Boston.[^ref-5]
+Cognition is a point-and-click adventure played mostly in third person, with certain sequences in first person.[^ref-1][^ref-5] It can be played with the mouse or the keyboard.[^ref-18][^ref-21] Players control Erica as she investigates crime scenes and interacts with various characters throughout Boston.[^ref-5]
 
 Cutscenes are presented in a graphic-novel style; Hardcore Gaming 101 wrote that "it feels like you're flipping through a comic book and playing what's on the page."[^ref-5]
 
@@ -93,7 +93,7 @@ Adventure Gamers noted the game's built-in hint system, presented as a text-mess
 | Adventure Gamers | 3.5/5 | Evan Dickens | "Sets up a series that could become a major achievement"[^ref-19] |
 | Arcade Sushi (iOS) | 6.5/10 | Ben Worcester | Criticized technical glitches in the iOS port[^ref-7] |
 | Metacritic Critics (Episode 1, PC) | 72/100 | Aggregate of 19 reviews | "Mixed or Average"[^ref-8] |
-| Metacritic Users (Episode 1, PC) | 6.9/10 | Aggregate of 52 ratings | "Mixed or Average"[^ref-8] |
+| Metacritic Users (Episode 1, PC) | 6.9/10 | Aggregate of 53 ratings (as of October 29, 2026) | "Mixed or Average"[^ref-8] |
 | God is a Geek | — | Benjamin Maltbie | "A testament to storytelling"[^ref-14] |
 
 ### Episode Ratings (IMDb)
@@ -151,7 +151,7 @@ The score is by Austin Haynes, with additional music by Matthew Florianz; the so
 
 ### Technical Notes
 
-Cognition was developed using the Unity engine.[^ref-1] All four episodes were released for Windows and OS X, and the first two were also released for the iPad.[^ref-1] A Game of the Year Edition for PC followed in September 2013[^ref-21], and an iOS and Android release came in February 2018.[^ref-33][^ref-5]
+Cognition was developed using the Unity engine.[^ref-1] All four episodes were released for Windows and OS X, and the first two were also released for the iPad.[^ref-1] A Game of the Year Edition for Windows and Mac followed in September 2013[^ref-21], and an iOS and Android release came in February 2018.[^ref-33][^ref-5]
 
 ### Technical Specifications
 
@@ -176,7 +176,7 @@ The current Steam release lists 7 GB of storage and notes that it is not compati
 | Episode 1: The Hangman | February 27, 2013 | iPad | iOS port[^ref-1][^ref-7] |
 | Episode 3: The Oracle | May 16, 2013 | PC/Mac | Third episode[^ref-30] |
 | Episode 2: The Wise Monkey | August 15, 2013 | iPad | iOS port[^ref-1] |
-| Game of the Year Edition | September 12, 2013 | Windows | Adds bonus development material[^ref-21] |
+| Game of the Year Edition | September 12, 2013 | Windows/Mac | Adds bonus development material[^ref-21] |
 | Episode 4: The Cain Killer | September 19, 2013 | PC/Mac | Series finale; full season also released on Steam and GOG[^ref-31] |
 | iOS / Android release | February 8, 2018 | iOS/Android | Game of the Year Edition on mobile[^ref-33][^ref-5] |
 
@@ -190,7 +190,7 @@ The Steam store description states that the game won six 2013 Reader's Choice Ag
 
 ### Sierra Connection
 
-Cognition represents an important spiritual successor to Sierra's classic adventure games, particularly the [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] series. With Jane Jensen as story consultant and themes echoing Gabriel Knight's supernatural investigations, the game carries forward Sierra's legacy of narrative-driven adventure gaming. Phoenix Online Studios was previously known for *The Silver Lining*, a freeware fan game based on Sierra's King's Quest series, further cementing the Sierra connection.[^ref-4]
+The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] series for Sierra On-Line, and Hardcore Gaming 101 wrote that the game "is in a similar style to the remake of Gabriel Knight: Sins of the Fathers," noting that both use graphic novel-like cutscenes.[^ref-5] Reviewing Episode 1, CD-Action wrote that "Cognition feels like some old game by Sierra and this is its biggest strength."[^ref-36] Phoenix Online Studios was previously known for *The Silver Lining*, a freeware fan game based on Sierra's King's Quest series, further cementing the Sierra connection.[^ref-4]
 
 ## Purchase
 
@@ -232,18 +232,18 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-2]: [MobyGames - Cognition Episode 1](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Gameplay mechanics description
 [^ref-3]: [Alternative Magazine Online](https://alternativemagazineonline.co.uk/tag/cognition-an-erica-reed-thriller/) - Episode reviews, Raleigh Holmes praise and parentage
 [^ref-4]: [Adventure Classic Gaming - Episode 1 review](http://www.adventureclassicgaming.com/index.php/site/reviews/769) - Gustavo Calvo-Simmons, 4/5; first commercial project, early Kickstarter success, three powers, Raleigh Holmes, system requirements
-[^ref-5]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/cognition-an-erica-reed-thriller/) - Gameplay overview, player choices, comic-style cutscenes, 2018 iOS/Android Game of the Year Edition
+[^ref-5]: [Hardcore Gaming 101 (Wayback, 2023)](https://web.archive.org/web/20231129113049/http://www.hardcoregaming101.net/cognition-an-erica-reed-thriller/) - Victoria Grace Howell, July 26, 2020; gameplay overview, player choices, comic-style cutscenes, 2018 iOS/Android Game of the Year Edition, comparison with the Gabriel Knight remake
 [^ref-7]: [Arcade Sushi - Cognition Episode 1 Review](https://arcadesushi.com/cognition-episode-1-review/) - Ben Worcester, March 4, 2013, iOS review, 6.5/10; episode structure, iPad port glitches
 [^ref-8]: [Metacritic - Episode 1: The Hangman (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/) - Metascore 72 and user score 6.9 (both "Mixed or Average"), critic and user review quotes
 [^ref-9]: [IMDb Credits](https://www.imdb.com/title/tt2481284/fullcredits) - Full development credits, art director, voice cast
 [^ref-10]: [MobyGames Publisher Info](https://www.mobygames.com/game/59439/) - Reverb Publishing involvement
-[^ref-12]: [Skich - Episode 1 iOS listing](https://skich.app/games/cognition-an-erica-reed-thriller-episode-1-the-hangman) - Reproduces the iOS store description ("indie dream team", psychic powers)
+[^ref-12]: [App Store - Cognition Episode 1](https://apps.apple.com/us/app/cognition-episode-1/id598738593) - Phoenix Online Publishing, released February 28, 2013; store description: "Developed by a true 'indie dream team'", Erica Reed has "the power to see the past"
 [^ref-13]: [IMDb - Episode 1](https://www.imdb.com/title/tt2481284/) - Plot summary; "The Taking" written by Robert and Raleigh Holmes
 [^ref-14]: [God is a Geek - Episode 1 review](https://web.archive.org/web/20130107124146/https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Benjamin Maltbie; dark narrative, around 5 hours of gameplay
 [^ref-18]: [1000 Guías - Episode 1 walkthrough](http://1000guias.blogspot.com/2013/05/cognition-erica-reed-thriller-episode-1.html) - Spanish walkthrough; mouse or keyboard controls, description of Erica's abilities
 [^ref-19]: [Adventure Gamers - Episode 1 review](https://web.archive.org/web/20240612200145/https://adventuregamers.com/articles/view/23196) - Evan Dickens, October 31, 2012, 3.5/5; hint system, closing verdict
 [^ref-20]: [IMDb - Raleigh Holmes](https://m.imdb.com/name/nm4817490/?ref_=m_tt_mv) - Episode ratings; daughter of Robert Holmes, stepdaughter of Jane Jensen
-[^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Released September 12, 2013 (Windows); critic average 90% from one rating; bonus content
+[^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Released September 12, 2013 (Windows and Macintosh); keyboard and mouse input; critic average 90% from one rating; bonus content
 [^ref-25]: [Phoenix Online Store - Cognition Soundtrack Vol. 1](https://store.postudios.com/products/sound-track-cognition-an-erica-reed-thriller) - Austin Haynes score description, "The Taking"
 [^ref-27]: [Kickstarter - Cognition: An Erica Reed Thriller (Wayback, 2014)](https://web.archive.org/web/20141214163344/https://www.kickstarter.com/projects/postudios/cognition-an-erica-reed-thriller) - "634 backers $34,247 pledged of $25,000 goal"
 [^ref-28]: [Phoenix Online Studios blog - Episode 1 Available NOW (Wayback)](https://web.archive.org/web/20151211225746/http://www.postudios.com/blog/?p=2139) - Posted Oct. 30, 2012
@@ -254,3 +254,4 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-33]: [Game Informer - Cognition preview and game page](https://gameinformer.com/games/cognition/b/pc/archive/2012/03/06/a-supernatural-adventure-with-mystifying-visuals) - Platforms PC, iOS, Android; iOS/Android release February 8, 2018
 [^ref-34]: [MobyGames - Episode 1 Windows credits](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/credits/windows/) - Season design Bittar and Hallahan; music Austin Haynes, additional music Matthew Florianz, "The Taking" by Robert Holmes
 [^ref-35]: [Alternative Magazine Online – Interview: In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) – Marty Mulrooney, December 18, 2012; Raleigh Holmes: "My Dad, Robert Holmes, is in The Furies"; interviewer names Jane Jensen as her stepmother
+[^ref-36]: [Metacritic - Episode 1 critic reviews (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/critic-reviews/?platform=pc) - CD-Action, January 6, 2013, 75: "Cognition feels like some old game by Sierra and this is its biggest strength." [1/2013, p.72]
