@@ -10,27 +10,27 @@ series: Mixed-Up Mother Goose
 engine: SCI2.1
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Mixed-Up Mother Goose Deluxe is Sierra On-Line's 1995 Windows and Macintosh remake of Roberta Williams' nursery-rhyme adventure for pre-school children, with new graphics and a soundtrack that sets each rhyme in a different musical style.
 composer: [Guy Whitmore]
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Mixed-Up Mother Goose Deluxe is a 1995 remake of Roberta Williams' children's adventure Mixed-Up Mother Goose, developed and published by Sierra On-Line for Windows and Macintosh[^ref-1]. MobyGames describes it as "another updated version" of the game with "a new set of graphics" and "a redone soundtrack that has all of the nursery rhymes played in different musical styles"[^ref-1]. Sierra pitched it at children aged 3 to 6, teaching "logic, organization and memory skills"[^ref-4].
 
-Sierra Chest counts it as the fourth installment of the game, following the 1990 SCI re-release, and describes it as "updated for multimedia computers" with high-resolution graphics and digitized music and voice[^ref-4]. The box also included a music CD of the game's songs[^ref-4][^ref-12].
+Sierra Chest counts it as the fourth installment of the game and describes it as "updated for multimedia computers" with high-resolution graphics and digitized music and voice[^ref-4]. The version before it was the 1991 VGA/Multimedia CD remake[^ref-12]. The box also included a music CD of the game's songs, which Sierra's advertising called "a free bonus audio CD of the 18 songs in the game"[^ref-4][^ref-25].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Design/Writing:** [[Roberta Williams]][^ref-16]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI2.1[^ref-23][^ref-24]
-> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-4]
+> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-4][^ref-25]
 > **Release Year:** 1995[^ref-1]
 > **Series:** Mixed-Up Mother Goose
 > **Protagonist:** Child Player Character
@@ -62,7 +62,7 @@ The items, and at least one of the nursery rhyme characters, are placed randomly
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Metzomagic (Rosemary Young, Feb 1996) | No numeric score | "This is the perfect title to buy as a starting out computer game"[^ref-11] |
+| Metzomagic (Rosemary Young, Feb 1996) | 4 out of 5 stars | "This is the perfect title to buy as a starting out computer game"[^ref-11] |
 | MobyGames critic average | 80% | Based on 1 critic rating[^ref-1] |
 
 ### Modern Assessment
@@ -80,13 +80,13 @@ MyAbandonware calls it "still a popular pre-school / toddler title amongst retro
 
 ### Origins
 
-Deluxe followed the 1990 SCI re-release of Mixed-Up Mother Goose[^ref-4]. Wikipedia calls it the final remake, with "further improved SVGA graphics and a bonus audio CD, as well as the introduction of different melodies and styles of music"[^ref-12]. A MobyGames user review says it reuses most of the previous version's assets[^ref-1].
+Sierra had remade Mixed-Up Mother Goose twice before Deluxe: an SCI version in 1990, and a VGA/Multimedia CD version in 1991 in which the rhymes were given voices and sung[^ref-12]. MobyGames describes that 1991 version as featuring "VGA graphics, complete digitized speech along with improved animations"[^ref-26]. Wikipedia calls Deluxe the final remake, with "further improved SVGA graphics and a bonus audio CD, as well as the introduction of different melodies and styles of music"[^ref-12]. A MobyGames user review compares Deluxe with the earlier "CD/Disk version" and calls it "similar to the last version released, with most of the assets from that game reused here"[^ref-1].
 
 ### Production
 
 MobyGames credits 37 people (32 professional roles and 5 thanks)[^ref-16]. Roberta Williams is credited as designer, Wendy Albee as producer, Marcia Bales as lead artist, and Ellen Ratajak, Robert W. Lindsley and Oliver Brelsford as lead programmers[^ref-16]. Guy Whitmore composed the music[^ref-16][^ref-7]. Rhonda Matson is credited as Spanish expert[^ref-16].
 
-The nursery rhymes are set in many popular music styles, "from Reggae to Blues to Country and Western," according to Metzomagic[^ref-11].
+The nursery rhymes are set in many popular music styles, "from Reggae to Blues to Country and Western," according to Metzomagic[^ref-11]. Sierra's own advertisement told readers: "Imagine 'Little Jack Horner' done in reggae"[^ref-25].
 
 ### Voice Cast
 
@@ -106,13 +106,13 @@ New voice and singing talent is credited alongside "all the character voices fro
 | Engine | SCI2.1; ScummVM's detection notes report interpreter version 2.100.002[^ref-23], which the ScummVM wiki lists under SCI21 (middle) with a 1995-03-27 date[^ref-24] |
 | Media | CD-ROM[^ref-1] |
 | Input | Mouse[^ref-1] |
-| Languages | English and Spanish; the European release adds French and German[^ref-11][^ref-9] |
+| Languages | English and Spanish[^ref-11][^ref-25]; the European release adds French and German[^ref-9] |
 
 Most of the game's resources stay on the CD. The Windows executable must be launched with the path to its RESOURCE.CFG file, or it fails with a "Title not found" error[^ref-18].
 
 ## Legacy
 
-The Amazon product listing for Deluxe names the Parent's Choice Classic Software Award and Parenting Magazine's Children's Software Award for Preschoolers[^ref-19]. According to Sierra's advertisement for Deluxe, Mixed-Up Mother Goose had sold over 500,000 copies by 1995[^ref-12].
+The Amazon product listing for Deluxe says it is the "Winner of the Parent's Choice Classic Software Award" and lists the "Children's Software Award for Preschoolers - Parenting Magazine"[^ref-19]. Sierra's December 1995 advertisement for Deluxe in *PC Gamer* did not name individual awards, saying only that the list of awards Mixed-Up Mother Goose had won "could fill up the rest of this page", and claimed the game had "introduced more than 500,000 little ones to the computer"[^ref-25].
 
 Coktel Vision released the game in Europe with English, Latin American Spanish, French and German options. The French and German versions are fully dubbed, including the songs[^ref-9]. The localized titles were *Ballades au pays de Mère l'Oie* (French), *Gänseliesel Musikalisches Suchspiel* (German) and *Baladas en el País de la Madre Ganso* (Spanish)[^ref-1]. The game was also included in *King's Quest: Collection Series* (1997)[^ref-1].
 
@@ -144,11 +144,13 @@ ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excell
 [^ref-9]: [Archive.org - Mixed-Up Mother Goose Deluxe (EU Multi4)](https://archive.org/details/mother_go) – European Coktel Vision release and languages
 [^ref-10]: [GameFAQs - Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – User rating
 [^ref-11]: [Metzomagic - Mixed-up Mother Goose Deluxe Review](https://www.metzomagic.com/showArticle.php?index=118) – Rosemary Young, February 1996
-[^ref-12]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – Deluxe remake and sales figure
-[^ref-13]: [OldGames.sk - Mixed-Up Mother Goose Deluxe](https://www.oldgames.sk/en/game/mixed-up-mother-goose-deluxe/reviews/) – Site and user scores
+[^ref-12]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – Deluxe remake and the earlier 1990 and 1991 remakes
+[^ref-13]: [OldGames.sk - Mixed-Up Mother Goose Deluxe](https://www.oldgames.sk/en/game/mixed-up-mother-goose-deluxe/) – Site and user scores
 [^ref-16]: [MobyGames - Credits](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/credits/windows/) – Windows credits
 [^ref-18]: [Vogons - Mixed-Up Mother Goose Deluxe thread](https://www.vogons.org/viewtopic.php?t=49581) – Launch requirements
 [^ref-19]: [Amazon - Mixed-up Mother Goose Deluxe](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – Awards listed on the product page
 [^ref-22]: [ScummVM - Compatibility: Mixed-Up Mother Goose Deluxe](https://www.scummvm.org/compatibility/DEV/sci:mothergoosehires/) – Support level and platforms
 [^ref-23]: [ScummVM - SCI detection tables](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Mixed-Up Mother Goose Deluxe entries, interpreter version
 [^ref-24]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI21 (middle) table: "Mixed-Up Mother Goose Deluxe (Windows interpreter only)", 2.100.002, 1995-03-27
+[^ref-25]: [PC Gamer US #19 (December 1995) – Sierra advertisement for Mixed-Up Mother Goose Deluxe, p. 62](https://archive.org/details/pc-gamer-usa-019-december-1995) – Period ad scan: awards, "500,000 little ones", reggae "Little Jack Horner", English or Spanish, bonus audio CD, WIN'95/WIN/MAC badges
+[^ref-26]: [MobyGames - Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – 1991 VGA rewrite with digitized speech (read via the MobyGames API)
