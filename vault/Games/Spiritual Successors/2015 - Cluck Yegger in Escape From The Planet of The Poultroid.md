@@ -10,22 +10,22 @@ series: SpaceVenture
 engine: Unity 4
 protagonist: Cluck Yegger
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 composer: [Ken Allen]
-description: '*Cluck Yegger in Escape from the Planet of the Poultroid* is a comedic
-  horror strategy game developed and published by Guys From Andromeda LLC, released
+description: '*Cluck Yegger in Escape from the Planet of the Poultroid* is a survival
+  horror point-and-click game developed and published by Guys From Andromeda LLC, released
   publicly on November 9, 2015.'
 tags: [2010s, sierra, spaceventure, two-guys]
 ---
 # Cluck Yegger in Escape from the Planet of the Poultroid
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-*Cluck Yegger in Escape from the Planet of the Poultroid* is a comedic horror strategy game developed and published by Guys From Andromeda LLC, released on November 9, 2015[^ref-1]. Its store page calls it "a Five Nights at Freddy's style parody game," featuring similar survival horror mechanics with a humorous science fiction twist involving mutant chickens[^ref-3]. Created by [[Mark Crowe]] and Chris Pope[^ref-1]—with Crowe being one half of the "Two Guys from Andromeda" who created the *Space Quest* series at Sierra On-Line—the game draws on characters from the duo's then-upcoming adventure *SpaceVenture*[^ref-3].
+*Cluck Yegger in Escape from the Planet of the Poultroid* is a survival horror point-and-click game developed and published by Guys From Andromeda LLC, released on November 9, 2015[^ref-1]. Its store page calls it "a Five Nights at Freddy's style parody game," featuring similar survival horror mechanics with a humorous science fiction twist involving mutant chickens[^ref-3]. Created by [[Mark Crowe]] and Chris Pope[^ref-1]—with Crowe being one half of the "Two Guys from Andromeda" who created the *Space Quest* series at Sierra On-Line—the game draws on characters from the duo's then-upcoming adventure *SpaceVenture*[^ref-3].
 
-The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in 2012 with $539,767 from 10,809 backers[^ref-4]. With Scott Murphy needing time away from *SpaceVenture* for personal reasons, Crowe and Pope built the Cluck Yegger sequence as a playable game and decided to sell it publicly to raise additional funding for the main project[^ref-1]. The mini-game was released privately to Kickstarter backers on October 29, 2015—"just in time for Halloween," as Rock Paper Shotgun put it[^ref-6]—and then, after being Greenlit, was released publicly on Steam on November 9, 2015[^ref-1].
+The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in June 2012[^ref-6] with $539,767 from 10,809 backers[^ref-4]. With Scott Murphy needing time away from *SpaceVenture* for personal reasons, Crowe and Pope built the Cluck Yegger sequence as a playable game and decided to sell it publicly to raise additional funding for the main project[^ref-1]. The mini-game was released privately to Kickstarter backers on October 29, 2015—"just in time for Halloween," as Rock Paper Shotgun put it[^ref-6]—and then, after being Greenlit, was released publicly on Steam on November 9, 2015[^ref-1].
 
 Despite its origins as a small side project, *Cluck Yegger* drew a mostly positive response from players. The game features voice acting, original music, and a "Tame Mode" option that replaces the jump scares with a picture of a cat dressed in a chicken costume[^ref-1]; the store listing describes the game as "kid-friendly(playtest with ages 10 and up)"[^ref-3]. One Steam reviewer called it "one of those parodies that's better than the original product," and another summed it up as "Cheaper than FNAF, Better than FNAF"[^ref-7].
 
@@ -66,7 +66,7 @@ After surviving the seventh night, Yegger escapes Planet Poultroid[^ref-10].
 
 ### Puzzles and Mechanics
 
-Unlike traditional adventure games, *Cluck Yegger* focuses on real-time resource management and threat assessment rather than inventory puzzles[^ref-1]. The core challenge involves balancing the use of the ship's defensive systems against its limited battery power[^ref-1].
+Alongside the cameras, lights, doors and shield, the player must manage the ship's battery power to avoid running out of energy[^ref-1][^ref-3].
 
 The game includes a "Tame Mode" option that replaces all of the jump scares with a picture of a cat dressed in a chicken costume, accompanied by happy music[^ref-1]. The store listing describes the game's genre as "Survival horror with a funny, kid-friendly(playtest with ages 10 and up), sci-fi theme"[^ref-3].
 
@@ -74,7 +74,9 @@ The game includes a "Tame Mode" option that replaces all of the jump scares with
 
 ### Contemporary Reviews
 
-*Cluck Yegger in Escape from the Planet of the Poultroid* received generally positive reviews from players, though it garnered limited attention from major gaming publications due to its nature as a small indie side project. Rock Paper Shotgun covered the game's release, noting that "Cluck Yegger is, bizarrely, a game about mutant chickens, and promises (optional) jump scares"[^ref-6]. The gaming news site Cliqist, as aggregated on N4G, ran headlines announcing that the "Five Nights at Freddy's Parody Cluck Yegger Gets Release Date" and that the game "Will Make You Scream and Shout"[^ref-14].
+*Cluck Yegger in Escape from the Planet of the Poultroid* received generally positive reviews from players; Metacritic lists no professional critic reviews[^ref-17]. Rock Paper Shotgun covered the game's release, noting that "Cluck Yegger is, bizarrely, a game about mutant chickens, and promises (optional) jump scares"[^ref-6]. The crowdfunding news site Cliqist followed it closely through writer Serena Nelson, who described herself as "one of the beta testers"[^ref-27]. Her October 22, 2015 story opened "Just in time for Halloween" and announced the backer release date[^ref-27]; a week later she reported that backers at $15 or more "should have received download links to get their preferred DRM-free copy"[^ref-28].
+
+Nelson's November 23, 2015 piece called the game "a Five Nights at Freddy's clone in the classic way that these two sultans of satire are known for," cast the hero as "the obvious homage to Astro Chicken," and singled out "a giant baby chick known as Chickzilla"[^ref-29]. It is not an independent review: she wrote that she "was asked to help test the game" before the public release, and MobyGames lists her among the game's testers[^ref-18][^ref-29].
 
 Steam user reviews were mostly enthusiastic, with players praising the game's humor and production values. One reviewer stated: "As parodies go... it's one of those parodies that's better than the original product"[^ref-7]. Another user simply declared: "Cheaper than FNAF, Better than FNAF"[^ref-7]. An itch.io commenter praised the production quality: "Funny stuff! The voice acting is absolute gold"[^ref-15]. However, not all reviews were positive—one Spanish-language reviewer wrote "Una pena de juego. 0-10. evitenlo aún en bundles" (A shame of a game. 0-10. Avoid it even in bundles)[^ref-7].
 
@@ -82,7 +84,7 @@ Some reviewers appreciated the atmospheric tension despite the comedic setting: 
 
 ### Modern Assessment
 
-The game has maintained a respectable reputation among fans of both the *Space Quest* legacy and the *Five Nights at Freddy's* genre. On Steam, 80% of the game's 46 user reviews are positive[^ref-3]. The itch.io page shows a 3.0 out of 5 stars rating, based on a single rating[^ref-15].
+On Steam, 80% of the game's 46 user reviews are positive[^ref-3]. The itch.io page shows a 3.0 out of 5 stars rating, based on a single rating[^ref-15].
 
 **Aggregate Scores:**
 - **Steam:** 80% positive (46 reviews)[^ref-3]
@@ -114,7 +116,7 @@ The game was released first to Kickstarter backers on October 29, 2015, "just in
 
 ### Technical Achievements
 
-The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS, Linux and iOS[^ref-1]. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1].
+The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS and Linux[^ref-18]; Wikipedia also lists an iOS version[^ref-1], but no Cluck Yegger app turned up in a US App Store search on October 29, 2026. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1].
 
 The intro and Cluck theme were provided by Ken Allen[^ref-18], one of the composers of Sierra's *King's Quest V*[^ref-25]. The voice acting was highlighted by reviewers, with one describing the lead as "Patrick Warburton styled voice acting"[^ref-7]. The game included radio segments with a singer and newscaster[^ref-18].
 
@@ -132,7 +134,7 @@ No cut content has been documented for this release. Rock Paper Shotgun reported
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | October 29, 2015 | Backers (DRM-free) | Private release to *SpaceVenture* Kickstarter backers[^ref-1] |
+| — | October 29, 2015 | Backers (DRM-free) | Private release to *SpaceVenture* Kickstarter backers[^ref-1][^ref-28] |
 | — | October 31, 2015 | Linux | Developer forum post: "The Linux build got an update"[^ref-19] |
 | — | November 9, 2015 | Steam | Public release[^ref-3] |
 | 1.1 | — | Windows, macOS | Build currently sold on itch.io (Linux file labelled v1)[^ref-15] |
@@ -147,7 +149,7 @@ Several technical issues have been documented by the community:
 - **Voice-Over Button:** The "Turn off VO" button reported as non-functional[^ref-19]
 - **Audio Glitches:** Minor audio glitches reported[^ref-19]
 - **Game Crashes:** Crash reports posted by users[^ref-19]
-- **German Availability:** The game was removed from the German Steam store due to lacking a Steam Age Rating[^ref-12]
+- **German Availability:** A Steam forum user reported in February 2025 that the game was no longer available in Germany because it had no Steam age rating; after the developer asked him to check again in April 2025, he replied "Available again"[^ref-30]
 - **Missing Executable:** Some users reported missing game executable after download[^ref-12]
 
 ### Easter Eggs and Trivia
@@ -171,9 +173,9 @@ The voice acting drew praise from players[^ref-7][^ref-15]. Mike Schiff's perfor
 
 ### Sales and Commercial Impact
 
-No sales figures for *Cluck Yegger* have been published. The game is sold for $2.99 on Steam[^ref-3] and itch.io[^ref-15]. It was released publicly to raise additional funding for *SpaceVenture*[^ref-1].
+No sales figures for *Cluck Yegger* have been published. The game is sold for $2.99 on Steam[^ref-3] and itch.io[^ref-15]. It was released publicly to raise additional funding for *SpaceVenture*[^ref-1]; Cliqist noted it was cheap, "with all sales going straight into developing the main game"[^ref-29].
 
-The game achieved Steam Greenlight approval before its public release[^ref-1]. It remains available on Steam and itch.io, though it was removed from the German Steam store because it lacked a Steam age rating[^ref-12].
+The game achieved Steam Greenlight approval before its public release[^ref-1]. It remains available on Steam[^ref-3] and itch.io[^ref-15]. In 2025 a Steam forum user reported that it had dropped out of the German Steam store for lack of a Steam age rating, then confirmed two months later that it was available again[^ref-30].
 
 ### Collections
 
@@ -181,19 +183,17 @@ The game achieved Steam Greenlight approval before its public release[^ref-1]. I
 
 ### Fan Projects
 
-The character of Cluck Yegger has been adopted by the fan community in unexpected ways. A fan-created wiki documents Cluck Yegger as a playable character in the *Universe of Smash Bros. Lawl* fan game, complete with a moveset based on the original game[^ref-13]. The fan moveset gives him taunts such as turning into a cat and the line "Great! I hate prime numbers," a victory line "I survived the night. Because of course I did.", a "Zoner" playtype, a cowardice rating of "0/10", and the note that he takes no damage from an ion storm because he "is THAT awesome"[^ref-13]. These lines belong to the fan project, not the original game.
+The character of Cluck Yegger has been adopted by the fan community in unexpected ways. A fan wiki for the *Universe of Smash Bros. Lawl* crossover gives him a fan-written moveset based on the original game[^ref-13]. The fan moveset gives him taunts such as turning into a cat and the line "Great! I hate prime numbers," a victory line "I survived the night. Because of course I did.", a "Zoner" playtype, a cowardice rating of "0/10", and the note that he takes no damage from an ion storm because he "is THAT awesome"[^ref-13]. These lines belong to the fan project, not the original game.
 
 ### Related Publications
 
-No official hint books or strategy guides were published for *Cluck Yegger*. As a relatively straightforward survival horror parody with a seven-night structure, the game did not require extensive documentation beyond the basic controls explained in-game.
+No official hint book or strategy guide for *Cluck Yegger* is known.
 
 ### Critical Perspective
 
-*Cluck Yegger in Escape from the Planet of the Poultroid* represents an interesting footnote in the history of adventure gaming—a project created by Sierra veterans during the development of a larger spiritual successor to their classic work. While the game itself is a modest parody of the *Five Nights at Freddy's* phenomenon rather than a traditional adventure game, it demonstrates how the creators of *Space Quest* adapted their comedic sensibilities to contemporary gaming trends.
+*Cluck Yegger* is a side project from a Sierra veteran: [[Mark Crowe]], co-creator of *Space Quest*, made it with Chris Pope while *SpaceVenture* was still in development[^ref-1]. Rock Paper Shotgun framed it as a spoof of *Five Nights at Freddy's*[^ref-6], while Cliqist saw *Space Quest* roots in its hero, "the obvious homage to Astro Chicken," and in "all of the chicken and egg puns"[^ref-29].
 
-The game's significance lies primarily in its connection to the Two Guys from Andromeda and their ongoing efforts to continue their legacy outside of Sierra. It showcases their characteristic humor, with chicken-themed puns and science fiction parody elements reminiscent of *Space Quest*'s irreverent tone. The inclusion of [[Josh Mandel]], who had worked on classic Sierra titles[^ref-26], further reinforces the connection to adventure gaming's golden age.
-
-As a standalone product, *Cluck Yegger* provided an entertaining diversion for fans while generating support for the larger *SpaceVenture* project. Its positive reception, particularly among those familiar with the developers' pedigree, suggests that the Two Guys' comedic voice remained appealing to audiences decades after *Space Quest* first launched.
+The cast and crew carry further Sierra links. [[Josh Mandel]], the first voice of King Graham[^ref-26], sang the radio segments, and [[Ken Allen]], one of the composers of *King's Quest V*[^ref-25], wrote the intro and Cluck theme[^ref-18]. Its sales went toward *SpaceVenture*[^ref-1], and on Steam 80% of its 46 user reviews are positive[^ref-3].
 
 ## Downloads
 
@@ -228,13 +228,12 @@ Linux users have reported technical issues with camera displays and movement con
 [^ref-3]: [Steam Store – Official Page](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) – release date, price, storage requirement, user ratings, game description
 [^ref-4]: [Kickstarter – Two Guys SpaceVenture Campaign](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1367531) – funding information, developer background
 [^ref-6]: [Rock Paper Shotgun – Much Delayed Two Guys SpaceVenture Project Offers Five Nights Spoofing Cluck Yegger Minigame To Backers](https://www.rockpapershotgun.com/much-delayed-two-guys-spaceventure-project-offers-cluck-yegger-minigame-to-backers) – John Walker, Oct. 29, 2015; backer release, Halloween timing, Greenlight
-[^ref-7]: [Steam Community – User Reviews](https://steamcommunity.com/app/416800/reviews/?browsefilter=toprated) – player quotes, Linux issues, FNAF comparison
+[^ref-7]: [Steam Community – User Reviews](https://steamcommunity.com/app/416800/reviews/?browsefilter=toprated&l=spanish) – player quotes (the Spanish-language review shows only with the Spanish filter), Linux issues, FNAF comparison
 [^ref-8]: [PCGamingWiki – Technical Information](https://www.pcgamingwiki.com/wiki/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid) – Unity version, storage requirements
 [^ref-10]: [Hero Fandom Wiki – Cluck Yegger Character](https://hero.fandom.com/wiki/Cluck_Yegger) – character details, occupation, quotes, Warburton/Joe Swanson trivia
 [^ref-11]: [Villains Fandom Wiki – Colonel Zanderz](https://villains.fandom.com/wiki/Colonel_Zanderz) – antagonist details, KFC parody, villain dialogue
-[^ref-12]: [Steam Community – Discussions](https://steamcommunity.com/app/416800) – controls, German availability, bug reports
-[^ref-13]: [Universe of Smash Bros. Lawl Fandom Wiki](https://universe-of-smash-bros-lawl.fandom.com/wiki/Cluck_Yegger) – fan-game moveset and lines (fan project, not the original game)
-[^ref-14]: [N4G – News Coverage](http://n4g.com/channel/cluck-yegger-in-escape-from-the-planet-of-the-poultroid) – Cliqist headlines
+[^ref-12]: [Steam Community – Discussions](https://steamcommunity.com/app/416800) – controls, missing-executable report
+[^ref-13]: [Universe of Smash Bros. Lawl Fandom Wiki](https://universe-of-smash-bros-lawl.fandom.com/wiki/Cluck_Yegger) – fan-written moveset and lines (fan project, not the original game)
 [^ref-15]: [itch.io – Official Game Page](https://guysfromandromeda.itch.io/cluckyegger) – user rating, voice acting comment, platforms, build files
 [^ref-17]: [Metacritic – Game Page](https://www.metacritic.com/game/cluck-yegger-in-escape-from-the-planet-of-the/) – release date confirmation, no reviews status
 [^ref-18]: [MobyGames – Cluck Yegger Credits](https://www.mobygames.com/game/92413/cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – voice cast, credits, platforms, release dates
@@ -244,3 +243,7 @@ Linux users have reported technical issues with camera displays and movement con
 [^ref-24]: [MobyGames – Space Quest: Vohaul Strikes Back Credits](https://www.mobygames.com/game/97968/space-quest-vohaul-strikes-back/credits/windows/) – Patrick Johnston (same MobyGames person record) as producer, director, programmer
 [^ref-25]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – composers Ken Allen and Mark Seibert
 [^ref-26]: [Wikipedia – Josh Mandel (video game designer)](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) – first voice of King Graham; Shamir Shamazel in King's Quest VI
+[^ref-27]: [Cliqist – SpaceVenture's Five Nights at Freddy's Parody Cluck Yegger Gets Release Date](http://cliqist.com/2015/10/22/spaceventure-mini-game-cluck-yegger-gets-release-date-greenlight-campaign/) – Serena Nelson, Oct. 22, 2015; backer release date, Greenlight campaign; author was a beta tester
+[^ref-28]: [Cliqist – Five Nights at Freddy's Parody Cluck Yegger Released to Backers](http://cliqist.com/2015/10/30/spaceventures-cluck-yegger-released-backers/) – Serena Nelson, Oct. 30, 2015; DRM-free copies for backers at $15 or more
+[^ref-29]: [Cliqist – Five Nights at Freddy's Clone Cluck Yegger Will Make You Scream and Shout](http://cliqist.com/2015/11/23/five-nights-at-freddys-clone-cluck-yegger-will-make-you-scream-and-shout/) – Serena Nelson, Nov. 23, 2015; impressions by a credited tester (not independent); Astro Chicken homage, Chickzilla, sales fund SpaceVenture
+[^ref-30]: [Steam Community – "The game ist not available in Germany anymore"](https://steamcommunity.com/app/416800/discussions/0/596267508946729641/) – user report, Feb. 21, 2025; developer reply and "Available again", Apr. 2025
