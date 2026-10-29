@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-28'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a 1998 Sierra On-Line compilation for Windows
   pairing Battling Ships, a Battleship variant, with the card game War.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ Running the game today takes legacy Windows or emulation. In DOSBox Staging's tr
 
 ### Origins
 
-Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and by the mid-1990s new Hoyle titles appeared yearly, some focused on particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1].
+Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and later Hoyle titles saw yearly releases or specialized in particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1].
 
 ### Production
 
