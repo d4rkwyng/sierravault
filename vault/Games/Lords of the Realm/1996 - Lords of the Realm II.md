@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: DOS4GW
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 composer: [Keith Zizza]
 description: Lords of the Realm II is a 1996 medieval strategy game from Impressions
   Games and Sierra On-Line that pairs turn-based county management with real-time battles
@@ -19,15 +19,15 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Lords of the Realm II is a medieval strategy game that masterfully blends turn-based resource management with real-time combat, set against a rich historical backdrop of 13th-century England.[^ref-1] Released in North America on November 20, 1996 (Steam's store page lists October 31),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-3]
+Lords of the Realm II is a medieval strategy game that masterfully blends turn-based resource management with real-time combat, set against a rich historical backdrop of 13th-century England.[^ref-1] Released in North America on November 20, 1996 (Steam's store page lists October 31),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-1][^ref-10]
 
 What distinguished Lords of the Realm II from many medieval strategy games of its era was its commitment to historical authenticity over fantasy elements—the game features no magic, no supernatural forces, and no technology tree.[^ref-4] Instead, players must carefully manage food, population, and happiness levels to build their power base while avoiding Malthusian population crashes.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
-The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] [[David Lester]] later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: 96% of 1,718 reviews (all languages) as of October 2026.[^ref-5]
+The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] [[David Lester]] later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: the store page showed 96% of 1,644 reviews as positive in October 2026.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -42,37 +42,35 @@ The game sold well. Sierra reported more than 350,000 copies sold worldwide by N
 
 ## Story Summary
 
-The year is 1268 A.D., and the King of England has died without an heir to succeed him.[^ref-3] While the news spreads sadness across the land among the common folk, for the nobility it signals an opportunity—the crown is now within reach for any lord bold enough to seize it.[^ref-10] The lands of England and Wales are ruled by powerful feudal nobles who cruelly oppress the people, and all have their eyes on the English throne, willing to do anything to claim it.[^ref-11]
+The year is 1268 A.D., and the King of England has died without an heir to succeed him.[^ref-6][^ref-10] While the news spreads sadness across the land among the common folk, for the nobility it signals an opportunity—the crown is now within reach for any lord bold enough to seize it.[^ref-10] The lands of England and Wales are ruled by powerful feudal nobles who cruelly oppress the people, and all have their eyes on the English throne, willing to do anything to claim it.[^ref-11]
 
 Five nobles, the player included, compete for the crown. MobyGames describes the four computer rivals as "the noble Baron, the headstrong Knight, the ice princess The Countess, and the backstabbing Bishop".[^ref-1] AllGame noted that any of them can be the player's ally for a while, but will attack once they feel more powerful.[^ref-12]
 
 The path to the throne is inevitably a bloody one. Those who would dare deny the player's right to rule must face their wrath on the battlefield.[^ref-14] Victory requires not just military might but also economic prowess—a well-managed realm provides the resources necessary for conquest. Players must balance the needs of their subjects against the demands of war, for unhappy populations will revolt if happiness drops below 25 and stays there for more than four seasons.[^ref-14]
 
-The game's narrative is straightforward yet compelling in its simplicity: "Because in the end, you're either King, or you're dead."[^ref-15] This stark premise drives all gameplay decisions, from the allocation of peasants between farming and military service to the design of castle fortifications.
-
 ## Gameplay
 
 ### Interface and Controls
 
-Lords of the Realm II features a simple interface that is easy to pick up, making it an excellent starting point for those new to the strategy genre.[^ref-16] Slider bars were added to automate parts of the economy so that players interested in battles could focus on real-time combat.[^ref-6] The game combines mouse-driven county management screens with keyboard controls for real-time battles.[^ref-1]
+Lords of the Realm II features a simple interface that is easy to pick up, making it an excellent starting point for those new to the strategy genre.[^ref-16] Slider bars were added to automate parts of the economy so that players interested in battles could focus on real-time combat.[^ref-6] In battle, players use point-and-click controls to select units and issue simple commands, such as moving, fleeing or targeting enemy units.[^ref-6]
 
 The interface allows players to be as hands-on or hands-off as they prefer—a steward AI can help manage the kingdom for those who want to focus on military conquest rather than economic micromanagement.[^ref-11] However, experienced players recommend micromanaging everything rather than trusting the work sliders and auto-calculating battles.[^ref-18]
 
 ### Structure and Progression
 
-The game operates on a seasonal turn-based system for county and economic management, switching to real-time control during battles and sieges.[^ref-9] Each turn represents one season, during which players allocate their population between various tasks: farming, cattle herding, weapons manufacturing, and castle construction.[^ref-1]
+The game operates on a seasonal turn-based system for county and economic management, switching to real-time control during battles and sieges.[^ref-9] Each turn represents one season, four to a year, and peasants can be assigned to cattle herding, farming, wood chopping, blacksmithing, castle building, tilling or mining.[^ref-4]
 
 - **County Management:** Players control individual counties, managing population distribution, food production, and resource gathering on a turn-by-turn basis.[^ref-4]
-- **Army Management:** Troops must be recruited, equipped, and organized into armies that can be moved across the strategic map.[^ref-3]
+- **Army Management:** Troops are conscripted from a county's peasants, upgraded to other classes with the matching weaponry, and guided across the strategic map to intercept enemy armies, towns or castles.[^ref-6]
 - **Castle Building:** Defensive fortifications can be constructed in any county, with multiple castle designs available from simple wooden stockades to massive royal castles.[^ref-11]
-- **Diplomacy:** Players can negotiate with rival lords, though contemporary reviewers noted that diplomacy was largely meaningless in practice.[^ref-19]
-- **Real-Time Battles:** When armies clash, control switches to a Warcraft-style isometric battlefield where players command their troops directly.[^ref-20]
+- **Diplomacy:** Players can send gifts to rivals and form alliances,[^ref-6] though one 2014 Metacritic user review called diplomacy "meaningless".[^ref-19]
+- **Real-Time Battles:** When armies clash, control switches to a real-time battlefield seen from a top-down perspective,[^ref-6] which Sierra Gamers likened to a "Warcraft-type view", and players command their troops directly.[^ref-20]
 
 Single-player games use one of 24 maps.[^ref-6] AllGame listed real maps such as England, Scotland, Ireland and Australia alongside imaginary ones such as Yin-Yang, Rose, Pretzelland and Rubix World.[^ref-12]
 
 ### Puzzles and Mechanics
 
-The fundamental theorem of Lords of the Realm II is that the player's power is directly proportional to the skill with which they run their economy.[^ref-22] Players grow crops, accumulate resources, manufacture weapons, manage armies, build and lay siege to castles, capture provinces, and ultimately attempt to conquer their enemies.[^ref-3]
+The fundamental theorem of Lords of the Realm II is that the player's power is directly proportional to the skill with which they run their economy.[^ref-22] Players grow crops, accumulate resources, manufacture weapons, manage armies, build and lay siege to castles, capture provinces, and ultimately attempt to conquer their enemies.[^ref-4]
 
 Armies are drawn from seven troop types: peasants, archers, macemen, swordsmen, crossbowmen, pikemen and knights. Home of the Underdogs notes that each has its own strengths and weaknesses, "although an army of knights usually is practically invincible."[^ref-51] If players shield their archers with a wall of pikemen, they can defeat enemy forces relatively cheaply.[^ref-23]
 
@@ -90,14 +88,14 @@ The Adrenaline Vault gave a score of 70%, noting that "The AI in this game faile
 
 ### Modern Assessment
 
-Modern retrospectives have been increasingly favorable, with many considering the game ahead of its time. One user review on Metacritic declared it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, featuring more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam user reviews show an overwhelming 96% positive rating from about 1,700 reviews.[^ref-5]
+One 2012 Metacritic user review called it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, feature more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam's store page shows 96% of about 1,600 user reviews as positive.[^ref-5]
 
 Home of the Underdogs called it "one of the most underrated strategy games of all time" and "the best game designed by David Lester, prolific designer and founder of Impressions."[^ref-51] Modern players appreciate that despite dated mechanics, they remain "rock solid, and the art style is timeless."[^ref-27]
 
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (6 critic reviews)[^ref-19]
 - **MobyGames:** 80% (Critics)[^ref-1]
-- **Steam:** 96% positive (1,718 reviews, all languages, October 2026)[^ref-5]
+- **Steam:** 96% positive (1,644 reviews, October 2026)[^ref-5]
 - **GOG:** 4.5/5 (94 reviews)[^ref-15]
 
 ## Development
@@ -117,13 +115,13 @@ Composer Keith Zizza worked on the game's soundtrack during the spring and summe
 **Development Credits:**[^ref-1][^ref-6]
 - **Game Designers:** [[David Lester]] (lead designer), [[Chris Beatrice]], [[Simon Bradbury]], Eric Ouellette
 - **Composer:** Keith Zizza
-- **Additional Music (Siege Pack):** Edward Saltzman
+- **Music & Sound Effects (Siege Pack):** Edward Saltzman, Keith Zizza[^ref-56]
 
 ### Technical Achievements
 
 The game utilized the DOS4GW extender to overcome conventional memory limitations on DOS systems.[^ref-9] It combined a turn-based strategic layer with real-time tactical battles.[^ref-6]
 
-The visual presentation featured 256-color square-pixel SVGA graphics at 640x480 resolution.[^ref-50] The real-time battles provided a Warcraft-style isometric view of the battlefield.[^ref-20]
+The visual presentation featured 256-color square-pixel SVGA graphics at 640x480 resolution.[^ref-50] The turn-based map is drawn in an isometric perspective, while real-time battles use a top-down perspective.[^ref-6]
 
 ### Technical Specifications
 
@@ -159,8 +157,8 @@ A file called "Pumkin.wav" appeared on the game disc as a composite file used on
 |---------|------|----------|-------|
 | 1.0 | November 20, 1996 | DOS/Windows | Initial North American release[^ref-6] |
 | 1.03 | — | PC | Patch (lotr2103): fixes battle crashes with music off, missing "Play Now" maps and Europe map crashes[^ref-31] |
-| Siege Pack | June 10, 1997 | Windows | Expansion pack[^ref-6] |
-| Royal Edition | November 30, 1997 | DOS/Windows | Compilation with original game[^ref-32] |
+| Siege Pack | June 10, 1997 | DOS/Windows/Mac | Expansion pack[^ref-6] |
+| Lords Royal Collection | Announced November 3, 1997 | Windows 95/Mac | Compilation with Lords of the Realm and the Siege Pack; scheduled for late October, in stores November[^ref-53][^ref-6] |
 | Mac OS X | April 23, 2013 | macOS | Digital re-release[^ref-33] |
 
 ### Technical Issues
@@ -278,8 +276,7 @@ Modern players often compare it to the Total War series: one retrospective says 
 ## References
 
 [^ref-1]: [MobyGames – Lords of the Realm II](https://www.mobygames.com/game/998/lords-of-the-realm-ii/) – developer, publisher, platforms, ratings, technical specifications
-[^ref-3]: Internet Archive – Lords of the Realm II *(download link removed: the game is sold commercially)* – game description, core gameplay elements
-[^ref-4]: [Gamicus Wiki – Lords of the Realm II](https://gamicus.fandom.com/wiki/Lords_of_the_Realm_II) – gameplay features, no fantasy elements, population management, bugs, Hamas trivia
+[^ref-4]: [Gamicus Wiki – Lords of the Realm II](https://gamicus.fandom.com/wiki/Lords_of_the_Realm_II) – gameplay features, no fantasy elements, population management, turns and seasons, peasant labour areas, bugs
 [^ref-5]: [Steam Store – Lords of the Realm II](https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/) – user reviews, PC Gamer quote, system requirements
 [^ref-6]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – release dates, designers, sales data, development quotes
 [^ref-7]: [GameCenter Archive – January 1997 Best Sellers](https://web.archive.org/web/19970331224133/http://www.gamecenter.com/News/Item/0,3,661,00.html) – chart position
@@ -324,3 +321,4 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-53]: [Sierra press release – Impressions Announces: The Lords Royal Collection (Wayback, 1998)](https://web.archive.org/web/19980214045908/http://sierra.com/info/press/0066.html) – "Lords of the Realm II which has sold more than 350,000 units worldwide"
 [^ref-54]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Lester sold the company to Sierra On-Line in 1995
 [^ref-55]: [Online Gaming Review – November 1996 news (Wayback)](https://web.archive.org/web/19970227065708/http://www.ogr.com/news/news1196.html) – "Lords of the Realm 2, from Sierra is now available" (November 21, 1996 entry)
+[^ref-56]: [MobyGames – Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – credits: Music & Sound Effects, Edward Saltzman and Keith Zizza
