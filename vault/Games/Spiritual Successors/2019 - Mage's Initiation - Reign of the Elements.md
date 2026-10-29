@@ -10,7 +10,7 @@ series: Mage's Initiation
 engine: Adventure Game Studio
 protagonist: D'arc
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 composer: [Brandon Blume]
 description: 'Mage''s Initiation: Reign of the Elements is an adventure/RPG hybrid
   developed and published by Himalaya Studios, released on January 30, 2019 for Windows,...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 ---
 # Mage's Initiation: Reign of the Elements
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Mage's Initiation: Reign of the Elements is an adventure/RPG hybrid developed an
 
 The game was successfully crowdfunded through Kickstarter in early 2013, raising $125,174 from 3,157 backers—nearly double its initial $65,000 goal[^ref-4]. Himalaya Studios' team was best known for its free VGA remakes of the first three King's Quest games and Quest for Glory II[^ref-2], which began with a King's Quest I remake in 2000[^ref-5]. Mage's Initiation was the studio's second commercial game, following Al Emmo and the Lost Dutchman's Mine in 2006[^ref-5][^ref-37]. The result is what Adventure Gamers described as "a modern-day Sierra On-Line gem, an extraordinarily polished adventure game"[^ref-6].
 
-Set in the medieval-styled land of Iginor, players assume the role of D'arc, a sixteen-year-old mage initiate who must complete three dangerous quests to prove himself worthy of joining the ranks of the Mage Masters[^ref-7]. With its beautiful hand-painted pixel art graphics, over 9,000 voiced and lip-synced speech lines, and four distinct playable mage classes, the game offers substantial replay value while evoking the nostalgic charm of classic Sierra adventures[^ref-8].
+Set in the medieval-styled land of Iginor, players assume the role of D'arc, a sixteen-year-old mage initiate who must complete three quests to prove himself worthy of joining the ranks of the Mage Masters[^ref-7]. With its beautiful hand-painted pixel art graphics, over 9,000 voiced and lip-synced speech lines, and four distinct playable mage classes, the game offers substantial replay value while evoking the nostalgic charm of classic Sierra adventures[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Himalaya Studios]][^ref-1]
@@ -45,9 +45,9 @@ The game takes place in the lands of East Ele'Wold, centered on the Mage's Tower
 
 D'arc is sixteen years old and has trained extensively in the elemental arts for the past decade of his young life, under the discerning eyes of the Mage Masters of Iginor[^ref-7]. Taken from his parents at the age of six on account of having rare magical gifts, he has known no other life than that of magical study[^ref-5]. Players choose D'arc's elemental affinity at the game's beginning—Water, Air, Fire, or Earth—which determines his magical abilities and approach to solving puzzles throughout the adventure[^ref-8].
 
-To complete his initiation and take his place among his fellow Mages, D'arc must complete three dangerous quests: retrieve a lock of hair from a priestess, obtain an unspoiled shell of a griffon's egg, and acquire the horn of a tricorn[^ref-7]. His journey takes him through the perilous Bloodbark Forest where Redcap goblins stalk, across a barren desert wasteland rife with lawless Bandits and fierce Burrowers, over a vast lake where evil masquerades as beauty, and beyond the lofty mountain peaks where the mysterious and hostile Flyterians dwell[^ref-14]. A sinister plot threatens not only D'arc's initiation but risks plunging the entire land of Iginor into conflict and chaos[^ref-8].
+To complete his initiation and take his place among his fellow Mages, D'arc must complete three quests: retrieve a lock of hair from a priestess, obtain an unspoiled shell of a griffon's egg, and acquire the horn of a tricorn[^ref-7]. His journey takes him through the perilous Bloodbark Forest where Redcap goblins stalk, across a barren desert wasteland rife with lawless Bandits and fierce Burrowers, over a vast lake where evil masquerades as beauty, and beyond the lofty mountain peaks where the mysterious and hostile Flyterians dwell[^ref-8][^ref-14]. A sinister plot threatens not only D'arc's initiation but risks plunging the entire land of Iginor into conflict and chaos[^ref-8].
 
-The narrative ultimately builds to a confrontation between D'arc and the antagonist Fend, featuring choice-based dialogue that emphasizes the game's philosophical themes—including the idea that "lashing anger against other people will not undo the pain a person has already suffered"[^ref-12]. Remarkably, the entire game takes place within the span of a single day[^ref-12].
+The story includes a choice-based confrontation between D'arc and Fend[^ref-12], half of what Adventure Gamers called "the odd bandit duo of Fend & Pug"[^ref-2]. One MobyGames reviewer wrote that D'arc "rises above his age" in that scene when he says that "lashing anger against other people will not undo the pain a person has already suffered"[^ref-12]. Remarkably, the entire game takes place within the span of a single day[^ref-12].
 
 ## Gameplay
 
@@ -61,10 +61,12 @@ The control scheme employs the traditional point-and-click adventure format, wit
 
 Players begin by choosing one of four elemental mage classes, each offering unique spells and approaches to problem-solving[^ref-8]:
 
-- **Fire Mage:** Offensive-focused with fire-based attack spells; features a unique sidequest with three exclusive enemies and a unique book, making it the only class that can earn certain achievements in a single playthrough[^ref-17]
+- **Fire Mage:** Has a unique sidequest with three exclusive enemies and a unique book, making it the only class that can earn certain achievements in a single playthrough[^ref-17]
 - **Water Mage:** The only class capable of earning the "who put da lights out" achievement but cannot earn "card shark"[^ref-17]
-- **Earth Mage:** Defensive capabilities with earth-manipulation magic
-- **Air Mage:** Mobility and wind-based abilities
+- **Earth Mage:** Starts with a spell that creates and launches rocks at opponents "Street Fighter fireball-style", and has a passive ability to communicate with earth creatures[^ref-2]
+- **Air Mage:** Can talk to birds; Adventure Gamers' hands-on preview noted that "that type of silliness is best left to the Air Mages"[^ref-2]
+
+Each mage class starts with one combat spell and a passive skill, and a character learns a total of six spells over the game[^ref-2].
 
 The game requires at least four complete playthroughs—one as each class—to achieve 100% completion[^ref-17]. Each playthrough involves retrieving three items to complete D'arc's training[^ref-18], and each class has its own spells, puzzles, and solutions[^ref-8].
 
@@ -72,11 +74,11 @@ A fast travel system becomes unlockable during gameplay, helping mitigate the sl
 
 ### Puzzles and Mechanics
 
-The puzzle design emphasizes class-specific solutions, meaning different elemental mages may approach the same obstacles in entirely different ways[^ref-8]. Over 50 magical gemstones can be collected and equipped to enhance D'arc's magical power[^ref-8], and eleven class-based spells are available depending on the chosen element[^ref-7].
+The puzzle design emphasizes class-specific solutions, meaning different elemental mages may approach the same obstacles in entirely different ways[^ref-8]. Over 50 magical gemstones can be collected and equipped to enhance D'arc's magical power[^ref-8], and the official site lists eleven class-based spells in total across the four classes[^ref-7].
 
 When an enemy enters the screen, the game switches into a real-time battle mode in which D'arc fights only with long-range spells[^ref-3]. In 2012 the developers described the combat as "closer in style to Diablo (free-roaming) than the battle systems seen in any the Quest for Glory games"[^ref-27]. Enemies drop loot, including most of the gems that can be equipped in D'arc's Conductor for stat bonuses[^ref-3]. The game includes a combat difficulty slider with "easy" and "no combat" options, allowing players to treat violence as fully optional and experience it as a pure adventure game[^ref-2][^ref-17].
 
-A mini-game called "Demon's Deal"—described as a heavily luck-based gambling game—is available in the tavern[^ref-17]. In a standard playthrough, players typically kill approximately 200 enemies during combat encounters[^ref-17].
+A mini-game called "Demon's Deal"—described as a heavily luck-based gambling game—is available in the tavern[^ref-17]. The achievement guide's author found himself "killing about 200 enemies" in a standard playthrough[^ref-17].
 
 ## Reception
 
@@ -94,12 +96,12 @@ The Gaming Outsider awarded 8.0/10 after 22 hours of play, declaring "Himalaya S
 
 ### Modern Assessment
 
-The game has maintained a modest but dedicated following among fans of classic adventure games. User reviews on Steam show 88% positive ratings from 109 reviews (as of October 2026)[^ref-8], while GOG.com users have praised its "Quest-like charm" despite acknowledging combat issues[^ref-24].
+The game has maintained a modest but dedicated following among fans of classic adventure games. User reviews on Steam show 89% positive ratings from 110 reviews (as of October 2026)[^ref-8], while GOG.com users have praised its "Quest-like charm" despite acknowledging combat issues[^ref-24].
 
 **Aggregate Scores:**
 - **Metacritic:** 70/100 (based on 8 critic reviews)[^ref-6]
 - **OpenCritic:** 62/100[^ref-24]
-- **Steam User Reviews:** 88% positive (109 reviews, October 2026)[^ref-8]
+- **Steam User Reviews:** 89% positive (110 reviews, October 2026)[^ref-8]
 - **Metacritic User Score:** 7.8/10 (14 ratings)[^ref-6]
 - **MobyGames Critics Average:** 72%[^ref-1]
 
@@ -135,11 +137,11 @@ In August 2017, the developers reported that the game was "about 95% complete, w
 
 ### Technical Achievements
 
-Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10], the same open-source engine Himalaya Studios had utilized for their previous Sierra remakes. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, a 16:10 image that can be shown at a static aspect ratio, stretched, or pixel-perfect depending on settings[^ref-10].
+Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10]. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, a 16:10 image that can be shown at a static aspect ratio, stretched, or pixel-perfect depending on settings[^ref-10].
 
 The art direction received widespread praise, with Adventure Gamers noting "the background pixel art is simply extraordinary, across the board and in every scene"[^ref-20]. One MobyGames reviewer declared the game has "some of the most beautiful graphics ever"[^ref-12]. The visual style was designed to be reminiscent of classic Sierra, LucasArts, and Revolution games[^ref-15].
 
-The soundtrack, composed entirely by Brandon Blume, spans over 2 hours and 20 minutes across 80 tracks plus 12 bonus tracks of ambient, alternate, and unused themes[^ref-29]. All music was "composed, recorded, produced, mixed, and mastered" by Blume at his home studio in Manitoba, Canada[^ref-30]. The soundtrack was released separately on February 10, 2019[^ref-29].
+The soundtrack, composed entirely by Brandon Blume, spans over 2 hours and 20 minutes across 80 tracks plus 12 bonus tracks of ambient, alternate, and unused themes[^ref-29]. All music was "composed, recorded, produced, mixed, and mastered" by Blume[^ref-29], who is based in Manitoba, Canada, and produces music in his home studio[^ref-30]. The soundtrack was released separately on February 10, 2019[^ref-29].
 
 ### Technical Specifications
 
@@ -168,13 +170,13 @@ The soundtrack release includes 12 bonus tracks of "ambient, alternate, and even
 | 1.3 Beta | 2018 | Steam (backer beta) | Beta version with all character voices[^ref-15] |
 
 **AGS Engine Version:**[^ref-10][^ref-31]
-- **Engine:** Adventure Game Studio v.3.4.3.1
+- **Engine:** Adventure Game Studio v.3.4.3.1 (PCGamingWiki); the v1.1 patch notes say it updated the game to AGS v.3.4.3
 
 ### Technical Issues
 
 The version 1.1 patch addressed numerous issues identified after launch[^ref-31]:
 
-- Steam/GOG plugin crashes resolved
+- Steam/GOG plugin crashes on start-up potentially fixed
 - Combat freeze bugs fixed
 - Inventory GUI issues corrected
 - Soft-lock problems addressed
@@ -186,12 +188,21 @@ User reports also noted issues with losing loot when changing screens and diffic
 
 - The game features hints suggesting it takes place in a post-technology future world where the Elements destroyed civilization and magic has returned[^ref-22]
 - A post-credits sting sets up potential sequels[^ref-23]
-- In August 2012 the developers said the price would "probably" be "$15-$20 USD for the digital download version," with the boxed collector's edition costing more[^ref-27]; the game launched at $14.99[^ref-6][^ref-32]
-- Four alternative soundtrack album covers feature each of the four playable elemental mage classes wearing different colored robes[^ref-29]
+- In August 2012 the developers said the price would "probably" be "$15-$20 USD for the digital download version," with the boxed collector's edition costing more[^ref-27]; the game launched at $14.99[^ref-16][^ref-23]
+- The soundtrack comes with four high-resolution variations of the album artwork, featuring D'arc as a Fire, Water, Earth and Air Mage[^ref-29]
 
 ## Voice Cast
 
 The game features full voice acting with over 9,000 voiced and lip-synced speech lines[^ref-8]. Protagonist D'arc alone has more than 5,000 lines of dialogue[^ref-28], with 3,247 additional NPC voice lines[^ref-15].
+
+**Principal cast:**[^ref-34]
+- **D'arc:** Kenny K
+- **Varner / Masked Mage:** Adam McLaughlin
+- **Shareen:** Sara Blane
+- **Fend:** Stewart Crowcombe
+- **Pug:** Malcolm Ryker
+- **Priestess Amun-Cul:** Kira Buckland
+- **Blacksmith:** Christopher T. Warren
 
 Critical reception to the voice acting was mixed, with some reviewers praising the performances while others found fault. Sprites and Dice noted that "D'arc, while voiced in what I can agree is a rendition of a teenager set in a fantasy world of yore, is downright painful to listen to"[^ref-16]. One RPG Codex user more bluntly stated "The protagonist's VO is the worst i have heard in my life"[^ref-20].
 
@@ -199,17 +210,17 @@ Critical reception to the voice acting was mixed, with some reviewers praising t
 
 ### Sales and Commercial Impact
 
-Post-release sales data suggests the game struggled to find a wide audience despite positive reviews from adventure game enthusiasts. Forum discussions indicated the game "hasn't broken 10 simultaneous players in a week" shortly after launch, with "only seven reviews posted in the past 30 days"[^ref-31]. Community members suggested the long development cycle "killed a lot of excitement and buzz. People were way more excited for this stuff 5-6 years ago. The goodwill wore out"[^ref-31].
+Forum observers worried that the game was struggling to find an audience. After the version 1.1 patch, one RPG Codex user wrote that it "hasn't broken 10 simultaneous players in a week", and that only seven Steam reviews had been posted in the previous 30 days[^ref-31]. Community members suggested the long development cycle "killed a lot of excitement and buzz. People were way more excited for this stuff 5-6 years ago. The goodwill wore out"[^ref-31].
 
-The game was available for purchase on Steam, GOG.com, and Humble Store at launch, priced at $14.99[^ref-6][^ref-32]. Suggestions were made for the developers to pursue inclusion in Humble Bundle, Fanatical, or Groupees bundles to boost visibility[^ref-31].
+The game was available for purchase on Steam, GOG.com, and Humble Store at launch[^ref-32], priced at $14.99[^ref-16][^ref-23]. Suggestions were made for the developers to pursue inclusion in Humble Bundle, Fanatical, or Groupees bundles to boost visibility[^ref-31].
 
 ### Collections
 
-Mage's Initiation has not appeared in any major compilation releases as of the last update.
+No compilation or bundle release is recorded in the sources cited on this page.
 
 ### Fan Projects
 
-The developers included a character export feature designed to allow players to carry their D'arc character into potential sequels[^ref-23], similar to the Quest for Glory series' character import system. However, sequels remain contingent on finding "a publisher/sponsor for financial security"[^ref-12].
+The developers included a character export feature designed to allow players to carry their D'arc character into potential sequels[^ref-23], similar to the Quest for Glory series' character import system. One MobyGames reviewer wrote that sequels would depend on Himalaya Studios finding "a publisher or sponsor who could give them more financial security"[^ref-12].
 
 ### Related Publications
 
@@ -234,11 +245,11 @@ The developers included a character export feature designed to allow players to 
 
 ### Critical Perspective
 
-Mage's Initiation represents both a labor of love and a cautionary tale about extended development cycles. As one of the few modern games to authentically recreate the Quest for Glory hybrid adventure/RPG formula, it occupies a unique niche in contemporary gaming. The game succeeds admirably at evoking nostalgia for Sierra's golden age—PC Invasion's description of it as "like discovering a lost Sierra title from the VGA generation" captures both its greatest strength and its limitation[^ref-35].
+Mage's Initiation was "more than a full decade in the making", by Adventure Gamers' count[^ref-3]. PC Invasion summed up both sides of the result: at its best "it's like discovering a lost Sierra title from the VGA generation," and at its worst "a bit of an uninteresting slog"[^ref-35].
 
-The project demonstrates the viability of Kickstarter-funded adventure game revivals while highlighting the challenges of managing scope and community expectations over extended development periods. Developer Chris Warren's philosophical observation that "anything 'retro' sells because, in effect, you're selling nostalgia and a taste of one's childhood back to them" proved accurate for core fans, though the game's commercial performance suggests this audience may be smaller than hoped[^ref-5].
+Developer Chris Warren observed that "anything 'retro' sells because, in effect, you're selling nostalgia and a taste of one's childhood back to them"[^ref-5]. After launch, RPG Codex users pointed to low player counts and argued that the long development cycle had worn out early goodwill[^ref-31].
 
-Critically, the game's insistence on maintaining combat mechanics that many found "clumsy and simplistic"[^ref-20] rather than focusing purely on adventure elements proved divisive. The addition of a "no combat" mode in version 1.1 acknowledged this feedback, allowing the game to be enjoyed as a pure point-and-click adventure[^ref-31]. For fans of the Quest for Glory series, Mage's Initiation remains "exactly what fans of traditional adventure games deserve in a spiritual successor"[^ref-20]—imperfect but earnest, and crafted with genuine affection for its inspirations.
+Critically, the game's insistence on maintaining combat mechanics that many found "clumsy and simplistic"[^ref-20] drew criticism. Version 1.1 added a "no combat" mode, so the game can be played as a pure point-and-click adventure[^ref-31]. VGU called it "exactly what fans of traditional adventure games deserve in a spiritual successor"[^ref-20].
 
 ## Downloads
 
@@ -284,14 +295,14 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-9]: [Wikipedia – Mage's Initiation](https://en.wikipedia.org/wiki/Mage's_Initiation:_Reign_of_the_Elements) – designer credits, Kickstarter goal
 [^ref-10]: [PCGamingWiki – Mage's Initiation](https://www.pcgamingwiki.com/wiki/Mage's_Initiation:_Reign_of_the_Elements) – engine version, resolution, framerate caps, technical specs
 [^ref-11]: [Brandon Blume Official Website](http://brandonblume.com/mages.htm) – setting name, location list, soundtrack details
-[^ref-12]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/user-review/2631839/) – story takes place in one day, post-technology world, sequel plans
+[^ref-12]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/user-review/2631839/) – story takes place in one day, post-technology world, D'arc–Fend confrontation, sequels dependent on a publisher or sponsor
 [^ref-13]: [GameCritics Review](https://gamecritics.com/jeff-ortloff/mages-initiation-reign-of-the-elements-review/) – Jedi comparison, character analysis, self-damage bug, playtime
-[^ref-14]: [Reddit – Quest for Glory Community](https://www.reddit.com/r/questforglory/comments/1mjdnxo/mages-initiation-reign-of-the-elementslfire_mage/) – location descriptions, journey details
+[^ref-14]: [Reddit – Quest for Glory Community](https://www.reddit.com/r/questforglory/comments/1mjdnxo/mages-initiation-reign-of-the-elementslfire_mage/) – reproduces the Steam store description (locations, journey); secondary to ref-8
 [^ref-15]: [RPG Codex Forum – Page 7](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-7) – voice line counts, interface options, development timeline, cover art changes
 [^ref-16]: [Sprites and Dice Review](https://spritesanddice.com/reviews/review-mages-initiation-reign-elements/) – voice acting criticism, combat description, fast travel, death mechanics
 [^ref-17]: [Steam Community – Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1701542384) – playthrough requirements, class differences, stat system, enemy kill count
 [^ref-18]: [Walkthrough King](https://www.walkthroughking.com/text/magesinitiation.aspx) – game structure, three item quest
-[^ref-19]: [AGDI Forum – Early Development](http://www.agdinteractive.com/forum/viewtopic.php?f=18&t=15317&view=next) – late 2012 release target (Feb 2011 post), animator loss, pre-order success
+[^ref-19]: [AGDI Forum – "Mages Initiation" thread](http://www.agdinteractive.com/forum/viewtopic.php?t=14907) – Feb 26, 2011 post: late 2012 release target, loss of several animators, pre-orders "selling exceptionally well"
 [^ref-20]: [RPG Codex Forum – Page 9](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-9) – review compilation, pixel art praise, voice acting criticism
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/mages-initiation-reign-of-the-elements-review-vga-/1900-6417078/) – score, reviewer name, RPG diversity criticism
 [^ref-22]: [Linux Journal Review](https://www.linuxjournal.com/content/game-review-mages-initiation-reign-elements) – post-technology world hints, nostalgia appeal, recommendation
@@ -300,12 +311,12 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-26]: [Reddit – r/questforglory: Anyone else played Mage's Initiation?](https://www.reddit.com/r/questforglory/comments/tkgqpd/anyone_else_played_mages_initiation/) – player experience, combat feedback, pixel hunting issue
 [^ref-27]: [AGDI Forum – Mage's Initiation thread, page 4](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – Aug 2012 posts: missed 2012 release, Diablo-style combat, loot drops, $15–$20 price estimate, stat grinding, Akril cutscenes
 [^ref-28]: [AGDI Forum – Development Timeline](https://www.agdinteractive.com/forum/viewtopic.php?t=14906&start=100) – Steam Greenlight (Feb 5, 2014), "about 95% complete" (Aug 11, 2017), voice acting scope, D'arc's 5,000+ lines
-[^ref-29]: [Bandcamp – Soundtrack Release](https://brandonblume.bandcamp.com/album/mages-initiation-original-game-soundtrack) – track count, runtime, bonus content, release date
-[^ref-30]: [Bandcamp – Composer Bio](https://brandonblume.bandcamp.com/track/fire-mage-sidequest-untethered-spirit) – composer location, production credits
-[^ref-31]: [RPG Codex Forum – Page 11](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-11) – sales data, patch notes, development cycle criticism
+[^ref-29]: [Bandcamp – Soundtrack Release](https://brandonblume.bandcamp.com/album/mages-initiation-original-game-soundtrack) – track count, runtime, bonus content, release date, "composed, recorded, produced, mixed, and mastered" credit, four album-art variations
+[^ref-30]: [Bandcamp – Composer Bio](https://brandonblume.bandcamp.com/track/fire-mage-sidequest-untethered-spirit) – composer location (Manitoba), home studio
+[^ref-31]: [RPG Codex Forum – Page 11](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-11) – v1.1 patch notes, forum comments on player counts and the development cycle
 [^ref-32]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=65041) – launch platforms, development time, composer identity
-[^ref-33]: [Speedrun.com](https://www.speedrun.com/mages_initiation_reign_of_the_elements/run/z05ow5om) – speedrun records, runner quotes
-[^ref-34]: [MobyGames – Credits (Windows)](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/credits/windows/) – writer, game design, producers, lead artist, cutscene and soundtrack credits
+[^ref-33]: [Speedrun.com – Water Any% run](https://www.speedrun.com/mages_initiation_reign_of_the_elements/run/z05ow5om) – 41:17 Water record by davidtki, runner quote; [Earth Any% run](https://www.speedrun.com/mages_initiation_reign_of_the_elements/runs/yon7q75z) – 54:49 by legostevey (2023-06-11)
+[^ref-34]: [MobyGames – Credits (Windows)](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/credits/windows/) – writer, game design, producers, lead artist, cutscene and soundtrack credits, voice cast
 [^ref-35]: [PC Invasion – Mage's Initiation: Reign Of The Elements Review – A Sparkle Of Magic (now hosted at Prima Games)](https://primagames.com/featured/mages-initiation-reign-elements-review) – Tim McDonald review, Jan 31, 2019; "lost Sierra title" and "uninteresting slog" quotes
 [^ref-36]: [PC Gamer – Mage's Initiation is an adventure-RPG inspired by Quest for Glory](https://www.pcgamer.com/mages-initiation-is-an-adventure-rpg-inspired-by-quest-for-glory/) – Fraser Brown, Nov 30, 2018; three switchable interfaces, no parser
 [^ref-37]: [Adventure Gamers – The Silver Aggies (Archived)](https://web.archive.org/web/20211117161135/https://adventuregamers.com/aggie-awards/view/the-silver-aggies) – 2019 Best Retro-Styled Adventures tied winner with Feria d'Arles; "Himalaya Studios' second commercial endeavour"; no Readers' Choice award
