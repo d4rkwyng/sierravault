@@ -10,18 +10,18 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-29'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in 1995, a Myst-style puzzle adventure set in a haunted museum...
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Shivers is a first-person horror adventure game released by Sierra On-Line on September 30, 1995 (some sources give November 1995)[^ref-6][^ref-28][^ref-1]. A Myst-style puzzle adventure, it was "a surprising change from the typical Sierra blueprint"[^ref-19]. Set within the mysterious Professor Windlenot's Museum of the Strange and Unusual, players must survive a night trapped inside while capturing ten malevolent spirits called Ixupi using special ceremonial pots and talismans[^ref-2][^ref-3]. The game was Sierra's second attempt at the horror genre following Phantasmagoria, which had "met with mixed feelings by game critics", though Shivers took a distinctly different approach with its puzzle-focused, nonlinear gameplay[^ref-3].
+Shivers is a first-person horror adventure game released by Sierra On-Line on September 30, 1995 (some sources give November 1995)[^ref-6][^ref-28][^ref-19][^ref-1]. A Myst-style puzzle adventure, it was "a surprising change from the typical Sierra blueprint"[^ref-19]. Set within the mysterious Professor Windlenot's Museum of the Strange and Unusual, players must survive a night trapped inside while capturing ten malevolent spirits called Ixupi using special ceremonial pots and talismans[^ref-2][^ref-3]. The game was Sierra's second attempt at the horror genre following Phantasmagoria, which had "met with mixed feelings by game critics", though Shivers took a distinctly different approach with its puzzle-focused, nonlinear gameplay[^ref-3].
 
 "The superb production value in Shivers is testimonial to the talent of the artists involved," noted Philip Jong of Adventure Classic Gaming, highlighting the game's exceptional visual design[^ref-3]. The development team created over 2,500 hand-painted background shots using watercolors and gouache, which were then scanned into the game[^ref-3]. Despite receiving mixed critical reception upon release, Shivers achieved cult status and became one of the sleeper hits of 1995, praised particularly for its atmospheric presentation and original logic puzzles[^ref-3].
 
@@ -33,14 +33,14 @@ What distinguished Shivers from contemporaries like Myst and The 7th Guest was i
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI-32[^ref-3]
 > **Platforms:** Windows, Windows 3.x, Mac OS[^ref-1]
-> **Release Year:** 1995 (Windows: September 30, 1995; some sources give November 1995)[^ref-6][^ref-28][^ref-1]
+> **Release Year:** 1995 (Windows: September 30, 1995; some sources give November 1995)[^ref-6][^ref-28][^ref-19][^ref-1]
 > **Series:** Shivers
 > **Protagonist:** Unnamed teenager
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The narrative begins with a group of teenagers daring the protagonist to spend the night inside Professor Windlenot's abandoned Museum of the Strange and Unusual, located in Mt. Pleasant, Ohio[^ref-7]. The museum was constructed by the eccentric archaeologist Professor Hubert Windlenot, who filled it with strange artifacts and elaborate puzzles before mysteriously dying before its planned 1980 opening[^ref-8]. "Was this place a failed dream or was it the waking nightmare of an eccentric old man?" asks the game's promotional material[^ref-9].
+The narrative begins with a group of teenagers daring the protagonist to spend the night inside Professor Windlenot's abandoned Museum of the Strange and Unusual, located in Mt. Pleasant, Ohio[^ref-7][^ref-3]. The museum was constructed by the eccentric archaeologist Professor Hubert Windlenot, who filled it with strange artifacts and elaborate puzzles before mysteriously dying before its planned 1980 opening[^ref-8]. "Was this place a failed dream or was it the waking nightmare of an eccentric old man?" asks the game's promotional material[^ref-9].
 
 Fifteen years prior to the game's events, two teenagers named Beth Ann Nelson and Merrick Campbell broke into the museum and accidentally released evil spirits called Ixupi from an exhibited set of ancient ceramic vessels[^ref-1]. These malevolent entities from South American legend—their culture based partially on Egyptian mythology—drain the life essence from humans, and they killed both teenagers and Professor Windlenot himself[^ref-3][^ref-1]. Thirteen Ixupi had originally been sealed in their own vessels[^ref-8]; three of the thirteen escaped into the world, leaving ten in the museum[^ref-1]. The ghosts of Beth and Merrick now wander the museum, warning visitors with desperate pleas: "Get out—get out—They are evil!"[^ref-2]
 
@@ -54,7 +54,7 @@ The only hope for survival lies in reassembling the ceremonial vessels and captu
 
 Shivers employs a first-person slideshow-style presentation similar to Myst, where players navigate through pre-rendered still images by clicking on movement hotspots[^ref-2]. The interface uses node-based movement with forward, left, and right directional options controlled via mouse cursor positioning[^ref-5]. Unlike many contemporary Sierra adventures, "Shivers is a Myst-like game" that eschews the traditional parser or icon-based interfaces for a purely point-and-click exploration system[^ref-12].
 
-A unique feature for its time was the inclusion of closed captions for all video sequences, a suggestion by Lead Game Developer Willie Eide who came from a deaf family: "Having deaf individuals or hard-of-hearing individuals play our game is very important to me. So we really tried to make sure that the hard-of-hearing person, although he will miss the cool stereo ambient sounds that we have in each of the rooms, will at least be able to play the game and all the puzzles"[^ref-7]. Captioned dialogue was unusual at the time; Wikipedia describes it as "somewhat of a deviation from other FMV-based games of the era"[^ref-1].
+Unusually for FMV games of the era, Shivers provides closed captions for its dialogue[^ref-1], a suggestion by Lead Game Developer Willie Eide who came from a deaf family: "Having deaf individuals or hard-of-hearing individuals play our game is very important to me. So we really tried to make sure that the hard-of-hearing person, although he will miss the cool stereo ambient sounds that we have in each of the rooms, will at least be able to play the game and all the puzzles"[^ref-7]. Wikipedia describes the captions as "somewhat of a deviation from other FMV-based games of the era"[^ref-1].
 
 ### Structure and Progression
 
@@ -77,7 +77,7 @@ The museum's rooms are divided into sections, each with a completely different l
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around a scavenger hunt mechanic where players must locate ten ceramic pots and their corresponding lids (talismans) scattered throughout the museum[^ref-11]. A critical limitation forces players to carry only one inventory item at a time, requiring careful note-taking of item locations[^ref-25]. "You need to keep track of where you find items in the game, so that you can go back and collect them when needed"[^ref-15].
+The core gameplay revolves around a scavenger hunt mechanic where players must locate ten ceramic pots and their corresponding lids (talismans) scattered throughout the museum[^ref-11]. A critical limitation forces players to carry only one inventory item at a time, requiring careful note-taking of item locations[^ref-5]. "You need to keep track of where you find items in the game, so that you can go back and collect them when needed"[^ref-15].
 
 The game contains 27 logic puzzles of varying types[^ref-3]. According to Balmoral Software's walkthrough, about half of the puzzles have fixed solutions while the rest have randomized beginning or ending states[^ref-5]. Puzzle varieties include sliding tile puzzles, music-based challenges, pattern recognition, and mechanical contraptions. As one walkthrough notes: "Shivers isn't another Doom where you can sit down and play it with no brains whatsoever. Playing this game fully takes a lot of preperation and proactive thinking"[^ref-8].
 
@@ -93,9 +93,9 @@ PC Games Magazine's Hermann Peterscheck similarly praised the atmosphere in a Fe
 
 GameSpot gave the game 6.6/10, with Ron Dulin describing it as "a surprising change from the typical Sierra blueprint" and "more like Myst or The 7th Guest than Mystery House or King's Quest VII"[^ref-19]. However, he concluded it was "a game that has a look and feel guaranteed to get your attention, but may lack the depth of play to keep it for the long run"[^ref-19].
 
-Next Generation was more critical, awarding 3/5 stars and citing "the long load times, grating music, and overreaching puzzles keep it mediocre at best"[^ref-1]. MacUser's Roman Loyola gave a negative assessment: "With a name like Shivers, you'd think I'd get really scared while playing this game—or at least get really cold. Actually, I got really bored"[^ref-12].
+Next Generation was more critical, awarding 3/5 stars and citing "the long load times, grating music, and overreaching puzzles keep it mediocre at best"[^ref-41][^ref-1]. MacUser's Roman Loyola gave a negative assessment: "With a name like Shivers, you'd think I'd get really scared while playing this game—or at least get really cold. Actually, I got really bored"[^ref-12].
 
-Quandary's Rosemary Young enthusiastically wrote: "Fun. Fun. Fun. I'm waiting for the next in the series. Shivers was truly a very pleasant surprise"[^ref-21]. Coming Soon Magazine (issue 12) gave an 89% rating, praising the graphics as "truly exceptional with a plethora of details that make the rooms stunningly realistic"[^ref-22].
+Quandary's Rosemary Young found that "Shivers was truly a very pleasant surprise," and her verdict opened: "Fun. Fun. Fun. I'm waiting for the next in the series."[^ref-21] Coming Soon Magazine (issue 12) gave an 89% rating, praising the graphics as "truly exceptional with a plethora of details that make the rooms stunningly realistic"[^ref-22].
 
 ### Modern Assessment
 
@@ -104,7 +104,7 @@ Adventure Gamers awarded 3.5 out of 5 stars in a 2002 review by Tom Arbour, noti
 Just Adventure's Ray Ivey gave a mixed C grade, acknowledging "This game has a lot going for it. Nice atmosphere, smooth gameplay, and I experienced no technical glitches at all" but ultimately finding "By the time I finished Shivers, I was ready to let an evil spirit get me just to put me out of my misery"[^ref-23].
 
 **Aggregate Scores:**
-- **MobyGames:** 71% (24 critic ratings)[^ref-6]
+- **MobyGames:** 70% (23 critic ratings)[^ref-6]
 - **IMDB:** 8.4/10 (user ratings)[^ref-24]
 - **GOG.com:** 4.7/5 (93 user reviews)[^ref-25]
 - **My Abandonware:** 4.43/5 (56 votes)[^ref-26]
@@ -137,11 +137,11 @@ Sound designer and composer Guy Whitmore handled multiple audio roles that would
 - **Movie Sequences Director/Photography:** Tony Ober
 - **User Guide Writer:** Vanessa Raymond
 
-The full voice cast is listed in the Voice Cast section below.
+The full cast is listed in the Voice Cast section below.
 
 ### Technical Achievements
 
-Shivers was developed using SCI-32, Sierra's fully 32-bit operating system language developed in-house[^ref-3]. The engine, also known as SCI2.1, represented a significant technical advancement for Sierra's adventure game lineup[^ref-28]. The game ran at 640x480 SVGA resolution with 256 colors[^ref-3].
+Shivers was developed using SCI-32, Sierra's fully 32-bit operating system language developed in-house[^ref-3]. PCGamingWiki lists the engine as SCI2.1[^ref-28]. The game ran at 640x480 SVGA resolution with 256 colors[^ref-3].
 
 The randomization system changes item locations and some puzzle states between games[^ref-5]; if the player dies, all the pots and talismans are randomly redistributed and the puzzles reset themselves[^ref-3]. Balmoral Software notes that as a result there is no fixed path through the game, "as you might have in a walkthrough of a more typical adventure game"[^ref-5].
 
@@ -173,8 +173,8 @@ Additionally, Just Adventure's review noted that "Several extremely interesting 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 30, 1995 | Windows 3.x | Initial release (some sources give November 1995)[^ref-28][^ref-6][^ref-1] |
-| Mac | May 30, 1996 | Mac OS | Macintosh port[^ref-1] |
+| 1.0 | September 30, 1995 | Windows 3.x | Initial release (some sources give November 1995)[^ref-28][^ref-6][^ref-19][^ref-1] |
+| Mac | May 30, 1996 | Mac OS | Macintosh port[^ref-1][^ref-42] |
 | GOG | June 21, 2018 | Windows | Digital re-release via ScummVM; GOG offline installer labelled version 1.02[^ref-30] |
 
 **SCI Interpreter Versions:**[^ref-28]
@@ -209,9 +209,9 @@ Shivers contains numerous hidden interactions and Easter eggs documented by the 
 Cross-Sierra references include elevator music that later appeared in Phantasmagoria: A Puzzle of Flesh, and the jukebox containing songs from Mixed-Up Mother Goose deluxe version[^ref-34]. One user noted: "This game is so full of Easter Eggs, I was surprised not to find it here. The only way to find out about them is to either find them by accident, or ask someone at the Mystery Games forum at Sierra.com"[^ref-33].
 ## Voice Cast
 
-Voice cast per MobyGames' credits[^ref-27]:
+Cast per MobyGames' credits, which list these performers as "Actors" for the game's live-action video, shot on blue screen[^ref-27][^ref-3]:
 
-| Character | Voice Actor |
+| Character | Actor |
 |-----------|-------------|
 | Professor Hubert Windlenot | Kaefan Shaw |
 | Beth Ann Nelson | Chandra Cogburn |
@@ -222,7 +222,7 @@ Voice cast per MobyGames' credits[^ref-27]:
 | Girl #2 | Kim Witherbee |
 | Narrator & Human Voices | Rodney Sherwood |
 
-Voice direction and movie sequences directed by Tony Ober[^ref-27].
+Movie sequences directed and photographed by Tony Ober[^ref-27].
 
 ## Legacy
 
@@ -259,6 +259,7 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 
 **Purchase / Digital Stores**
 - [GOG.com – Shivers](https://www.gog.com/en/game/shivers) — official digital re-release, runs on modern Windows[^ref-25][^ref-30]
+
 **Download / Preservation**
 - [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — modern-OS install guides and patch documentation[^ref-28]
 
@@ -282,7 +283,7 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-2]: [Web Archive – Adventure Gamers: Shivers Review (Tom Arbour, 2002)](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) – 3.5/5 score, gameplay description, game quotes, plot summary
 [^ref-3]: [Adventure Classic Gaming – Shivers Review](https://www.adventureclassicgaming.com/index.php/site/reviews/26/) – technical specifications, production details, development history, random play, 10 Ixupi, 27 puzzles
 [^ref-5]: [Balmoral Software – Shivers](http://www.balmoralsoftware.com/shivers/shivers.htm) – randomization system, gameplay mechanics
-[^ref-6]: [MobyGames – Shivers](https://www.mobygames.com/game/663/shivers/) – aggregate score (71%, 24 critics), Windows 16-bit release date 1995-09-30, ESRB Teen rating, platform information
+[^ref-6]: [MobyGames – Shivers](https://www.mobygames.com/game/663/shivers/) – critic average 70% (23 ratings; the separate Moby Score is 7.1), Windows 16-bit release date 1995-09-30, ESRB Teen rating, platform information
 [^ref-7]: [Old School Gamer Magazine – Shivers](https://www.oldschoolgamermagazine.com/shivers-exploring-dr-windlenots-mysterious-museum/) – Willie Eide interview, accessibility features, development history
 [^ref-8]: [IGN – Shivers Walkthrough/FAQ](https://www.ign.com/articles/2002/11/22/shivers-walkthroughfaq-378428) – plot details, gameplay analysis
 [^ref-9]: [Amazon – Shivers](https://www.amazon.com/Sierra-Shivers/dp/0871771160) – product description, compatibility issues
@@ -293,10 +294,10 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-16]: [The Spoiler – Shivers Walkthrough](https://www.justadventure.com/walkthrough/shivers/) – point system, Easter eggs, version differences
 [^ref-17]: [Web Archive – PC Gamer Review](https://web.archive.org/web/20000226082838/http://www.pcgamer.com/reviews/940.html) – 84% score, Steve Poole review
 [^ref-18]: [Web Archive – PC Games Magazine Review](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) – Hermann Peterscheck review, sound design praise
-[^ref-19]: [GameSpot – Shivers Review (archived 2003)](https://web.archive.org/web/20030626065940/http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review
+[^ref-19]: [GameSpot – Shivers Review (archived 2003)](https://web.archive.org/web/20030626065940/http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review, "Release Date: 09/30/1995"
 [^ref-20]: [Jeuxvideo.com – Shivers Test](http://www.jeuxvideo.com/articles/0001/00011964-shivers-test.htm) – 17/20 score, French review
 [^ref-21]: [Web Archive – Quandary Review](https://web.archive.org/web/20080611181726/http://www.quandaryland.com/jsp/dispArticle.jsp?index=127) – Rosemary Young review, system requirements
-[^ref-22]: [Coming Soon Magazine – Shivers Review](http://www.csoon.com/issue12/shivers.htm) – 89% score, graphics praise
+[^ref-22]: [Web Archive – Coming Soon Magazine: Shivers Review](http://web.archive.org/web/20060228125834/http://www.csoon.com:80/issue12/shivers.htm) – 89% overall score, graphics praise (archived 2006; the live domain now serves a mismatched TLS certificate)
 [^ref-23]: [Web Archive – Just Adventure Review](https://web.archive.org/web/20111031132518/http://www.justadventure.com/reviews/Shivers/Shivers_Review2.shtm) – C grade, Ray Ivey review, cut content
 [^ref-24]: [IMDB – Shivers](https://www.imdb.com/title/tt0192604/) – 8.4/10 rating, cast information
 [^ref-25]: [GOG.com – Shivers User Reviews](https://www.gog.com/en/game/shivers) – gameplay mechanics, user testimonials
@@ -315,3 +316,5 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-38]: [Speedrun.com – Shivers](https://www.speedrun.com/shivers) – speedrun categories, records
 [^ref-39]: [MobyGames – Shivers Two](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – sequel information, trivia
 [^ref-40]: [Web Archive – PC Gamer Shivers II Preview](https://web.archive.org/web/19980218070943/http://www.pcgamer.com/news/news-1996-11-04.html) – sequel features
+[^ref-41]: [Internet Archive – Next Generation #17 (May 1996), p. 101](https://archive.org/details/NEXT_Generation_17/page/n106/) – Shivers review scan: "the long load times, grating music, and overreaching puzzles keep it mediocre at best"; rated three stars
+[^ref-42]: [Web Archive – Online Gaming Review News, May 1996](https://web.archive.org/web/19970227065909/http://www.ogr.com/news/news0596.html) – May 30, 1996 entry: "Mac gamers should also note that Shivers was released as well"
