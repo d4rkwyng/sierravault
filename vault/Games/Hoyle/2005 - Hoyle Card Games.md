@@ -10,7 +10,7 @@ series: Hoyle Card Games
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 composer: [Mike Caviezel]
 description: Hoyle Card Games 2005 is a Windows card game collection from Sierra Entertainment,
   published in the US by VU Games on September 14, 2004.
@@ -18,11 +18,11 @@ tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2005
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hoyle Card Games 2005 is a Windows card game collection published in the United States by VU Games on September 14, 2004[^ref-15][^ref-22][^ref-4]. MobyGames credits Sierra Entertainment, Inc. as developer and publisher, with a later slipcase re-release from Encore, Inc.[^ref-7][^ref-23]; GameFAQs and Metacritic list the developer as Encore Software[^ref-15][^ref-4]. The ESRB rating for the title covers Windows PC, Pocket PC and Palm Pilot versions[^ref-19], and IGN lists Pocket PC and Palm Organizer editions published by Vivendi Games and Encore with a January 1, 2005 date[^ref-2]. It is one of the later entries in the Hoyle line, which began with [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] in 1989[^ref-16].
+Hoyle Card Games 2005 is a Windows card game collection published in the United States by VU Games on September 14, 2004[^ref-15][^ref-22][^ref-4]. MobyGames credits Sierra Entertainment, Inc. as developer and publisher, with a slipcase re-release from Encore, Inc.[^ref-7][^ref-23]; GameFAQs, Metacritic and GameSpot list the developer as Encore Software[^ref-15][^ref-4][^ref-24]. The ESRB rating for the title covers Windows PC, Pocket PC and Palm Pilot versions[^ref-19], and IGN lists Pocket PC and Palm Organizer editions published by Vivendi Games and Encore with a January 1, 2005 date[^ref-2]. It is one of the later entries in the Hoyle line, which began with [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] in 1989[^ref-16].
 
 The retail blurb promises "over 30 classic card games, including everything from solitaire to seven-card stud", along with in-game tutorials[^ref-2][^ref-4]. Other sources count differently: the Amazon product description says "18 great games in all"[^ref-6], while MobyGames lists 20 card games plus 50 Solitaire variations[^ref-7]. The game includes a Facemaker feature for customizing a player character, adjustable skill levels "so you can start as amateur and play like a pro", and computer opponents (10 per the product listing, 12 per MobyGames)[^ref-6][^ref-7]. Points earned in play, called Hoyle Bucks, buy cosmetic customizations[^ref-6][^ref-8].
 
@@ -54,7 +54,7 @@ MobyGames lists these card games: Bridge, Canasta, Crazy Eights, Cribbage, Euchr
 - **Tutorials:** The product listing advertises a "Tutorial Mode and In-Game Strategy and rule book"[^ref-6]; a GameSpot user reviewer noted that "Some games do come with a tutorial"[^ref-8].
 - **Skill levels:** Adjustable opponent skill, from amateur to pro[^ref-6].
 - **Facemaker:** Avatar customization with preset eyes, hair and accessories[^ref-6][^ref-8].
-- **Hoyle Bucks:** Certain plays or wins earn Hoyle Bucks, which buy new faces, backgrounds, cards and items displayed around the player[^ref-6][^ref-8]. MobyGames describes this as a "Hoyle Bucks achievement system"[^ref-7]. A Backloggd user review describes a further "Spacemaker" feature for decorating the area around the player's avatar plaque, unlockable with Hoyle Bucks[^ref-3].
+- **Hoyle Bucks:** Certain plays or wins earn Hoyle Bucks, which buy new faces, backgrounds, cards and items displayed around the player[^ref-6][^ref-8]. MobyGames describes this as a "Hoyle Bucks achievement system"[^ref-7]. A September 2005 Amazon customer review lists unlocks including monsters and pets, new music, decks and backgrounds, play-space objects "such as disco balls and a cold beverage" and new boards for cribbage, and adds "Kudos for adding Spite and Malice!!"[^ref-6]. A Backloggd user review describes a further "Spacemaker" feature for decorating the area around the player's avatar plaque, unlockable with Hoyle Bucks[^ref-3].
 - **Opponent interaction:** Players can hit computer opponents with a boxing glove or a pie in the face[^ref-8].
 
 The GameSpot user review notes there is no multiplayer[^ref-8].
@@ -63,19 +63,19 @@ The GameSpot user review notes there is no multiplayer[^ref-8].
 
 ### Contemporary Reviews
 
-No professional critic reviews are recorded: Metacritic lists no critic or user reviews[^ref-4], GameSpot shows the game as "Not Reviewed"[^ref-8], and IGN shows no rating[^ref-2].
+No professional critic reviews are recorded: Metacritic lists no critic or user reviews[^ref-4], GameSpot showed the game as "Not Reviewed", with a user average of 8.7 from 31 ratings, in a 2019 archived copy[^ref-24], and IGN shows no rating[^ref-2].
 
 GameSpot user cykosis27 gave it 8.8 in February 2006, calling it "a card playing game for the whole family" and calling the gameplay "terrific", but said "The reason why this is not rated higher than what I put it is because there is no multiplayer"[^ref-8].
 
-The Amazon listing shows 3.6 out of 5 stars from 55 ratings[^ref-6]. In an October 2004 review, an Amazon customer wrote: "One thing I like about this is that it is 20 bucks instead of 30 like the previous versions were."[^ref-6] Another Amazon customer reported in 2005 that "The proper number of cards is not always dealt correctly to the players," mainly in Spades, so "the game being played cannot be completed," adding that the repair function had not solved the problem[^ref-6].
+As of October 2026 the Amazon listing shows 3.3 out of 5 stars from 53 ratings[^ref-6]. In an October 2004 review, an Amazon customer wrote: "One thing I like about this is that it is 20 bucks instead of 30 like the previous versions were."[^ref-6] Another Amazon customer reported in 2005 that "The proper number of cards is not always dealt correctly to the players," mainly in Spades, so "the game being played cannot be completed," adding that the repair function had not solved the problem[^ref-6].
 
 ### Later Assessment
 
 A May 2024 Backloggd user review called it "handily the best of their card game offerings, hands down", while conceding that "If we were rating strictly on objectives, this'd probably be a 3.5/5 at most"[^ref-3]. The reviewer praised the Hoyle Bucks system as arriving "before achievements were even really 'a thing' in video games", joking that "Someone out there was programming this game in 2034"[^ref-3].
 
 **Ratings:**
-- **Amazon:** 3.6/5 (55 ratings)[^ref-6]
-- **My Abandonware:** 3.37/5 (19 votes)[^ref-11]
+- **Amazon:** 3.3/5 (53 ratings, as of October 2026)[^ref-6]
+- **My Abandonware:** 3.38/5 (21 votes)[^ref-11]
 - **GameSpot user:** 8.8 (one review)[^ref-8]
 - **Metacritic:** No critic or user scores[^ref-4]
 - **IGN:** Not rated[^ref-2]
@@ -120,7 +120,7 @@ The game was released during Vivendi's 2004 cutbacks at Sierra; Wikipedia notes 
 
 ## Legacy
 
-No sales figures for Hoyle Card Games 2005 have been published. The game is not sold on digital storefronts and is listed on the GOG Dreamlist. It is catalogued on GameFAQs[^ref-15], Squakenet (which lists it as a 2004 Windows title)[^ref-21] and My Abandonware[^ref-11].
+No sales figures for Hoyle Card Games 2005 have been published. The game is not sold on digital storefronts and is listed on the GOG Dreamlist. It is catalogued on GameFAQs[^ref-15] and My Abandonware[^ref-11].
 
 ## Purchase
 
@@ -199,13 +199,13 @@ No sales figures for Hoyle Card Games 2005 have been published. The game is not 
 [^ref-4]: [Metacritic – Hoyle Card Games 2005](https://www.metacritic.com/game/hoyle-card-games-2005/) – Sep 14, 2004 release, VU Games, no reviews
 [^ref-6]: [Amazon Singapore – Hoyle Card Games 2005](https://www.amazon.sg/Hoyle-Card-Games-2005-PC/dp/B0001BR9Q6) – product listing, customer reviews and ratings
 [^ref-7]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – credits, games list, description
-[^ref-8]: [GameSpot User Review – cykosis27](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-232693/) – user score, features, no multiplayer
-[^ref-9]: [GameSpot – Hoyle Card Games 2005](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-3671554/) – first released Sep 14, 2004
+[^ref-8]: [GameSpot User Review – cykosis27](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-232693/) – user score, features, no multiplayer; live page no longer shows the review text, score and Feb 27, 2006 date confirmed by a [2012 archived user-review list](https://web.archive.org/web/20120114161200/http://www.gamespot.com/hoyle-card-games-2005/user-reviews/platform/pc/)
+[^ref-9]: [GameSpot – Hoyle Card Games 2005](https://www.gamespot.com/hoyle-card-games-2005/) – first released Sep 14, 2004
 [^ref-11]: [My Abandonware – Hoyle Card Games 2005](https://www.myabandonware.com/game/hoyle-card-games-2005-hzi) – user rating, file size, comments
 [^ref-15]: [GameFAQs – Hoyle Card Games 2005](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005) – database entry, release date, developer/publisher
 [^ref-16]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise list starting with 1989 Volume 1
 [^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 2004 restructuring, Hoyle franchise sale
 [^ref-19]: [ESRB – Hoyle Card Games 2005](https://www.esrb.org/ratings/10148/hoyle-card-games-2005/) – rating, descriptors, platforms
-[^ref-21]: [Squakenet – Hoyle Card Games 2005](https://www.squakenet.com/game/hoyle-card-games-2005/) – 2004 Windows listing
 [^ref-22]: [GameFAQs – Hoyle Card Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – US release 09/14/04, VU Games, UPC, ESRB descriptors
 [^ref-23]: [MobyGames – Hoyle Card Games 2005 Releases](https://www.mobygames.com/game/178234/hoyle-card-games-2005/releases/) – Sierra retail release and Encore slipcase release
+[^ref-24]: [GameSpot – Hoyle Card Games 2005 (archived May 2019)](https://web.archive.org/web/20190509195650/https://www.gamespot.com/hoyle-card-games-2005/) – Not Reviewed, user average 8.7 from 31 ratings, developer Encore Software, publisher VU Games
