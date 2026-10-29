@@ -11,14 +11,14 @@ series: Trophy Bass
 engine: 3DFX
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-10-29'
 description: 'Sierra Sports Bass Fishing, released in 1998 and also known by various
   titles including Trophy Bass and Field & Stream: Trophy Bass 4, represents Sierra''s...'
 tags: [1990s, sierra, trophy-bass]
 ---
 # Sierra Sports Bass Fishing
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -168,7 +168,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 [^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/trophy-bass-4-review/1900-2589993/) – - Professional review
 [^ref-19]: [Amazon Product Page](https://www.amazon.com/-/es/Field-Stream-Trophy-Bass-4-PC/dp/B00001LDC5) – - Customer reviews
 [^ref-20]: [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – - Awards information
-[^ref-21]: [Game Fabrique](https://gamefabrique.com/games/field-and-stream-trophy-bass-4/) – - Modern review
+[^ref-21]: Game Fabrique, field-and-stream-trophy-bass-4 page, gamefabrique.com (link removed: the site pushes a bundled .exe "download launcher") – Modern review
 [^ref-22]: [RAWG.io](https://rawg.io/games/field-stream-trophy-bass-4) – - User compatibility notes
 [^ref-23]: [Wikidata](https://www.wikidata.org/wiki/Q105975048) – - Engine information
 [^ref-24]: [Web Archive - GameZone Review](https://web.archive.org/web/20050216130239/http://pc.gamezone.com/gzreviews/r14108.htm) – - Installation options

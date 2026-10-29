@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Power Chess 2.0 is a chess game published by Sierra On-Line for Windows,
   dated 1999 by MobyGames and 1998 by Sierra UK's 1998/99 catalog. Players
   call it a light update of Power Chess 98, using David Kittinger's WChess engine.
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 2.0
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -180,7 +180,7 @@ The series is perhaps best remembered for its teaching features rather than its 
 
 
 [^ref-1]: [MobyGames – Power Chess 2.0](https://www.mobygames.com/game/38741/power-chess-20/) – release year, developer, publisher, German release, AI personalities, viewpoints, system requirements, multiplayer options, critic average
-[^ref-2]: [GameFabrique – Sierra Games (page 2)](https://gamefabrique.com/developers/sierra/2/) – capsule description of the original Power Chess (1996)
+[^ref-2]: GameFabrique – Sierra Games (page 2), gamefabrique.com (link removed: the site pushes a bundled .exe "download launcher") – capsule description of the original Power Chess (1996)
 [^ref-3]: [Abandonware France – Power Chess](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832) – page on the original 1996 game: reviewer's verdict, Joystick Mégastar, WChess history, PGN support, technical cause of incompatibility, note that 2.0 is Power Chess 98 under another name
 [^ref-4]: [Chess.com Forum – A Search for Older Chess Software (page 2)](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882?page=2) – user reports on Power Chess 98: VirtualBox setup, Windows 10/11 problems, praise for the Queen's voice, leecher1337 patch announcement
 [^ref-5]: [Wikipedia – Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – 1996 release date, later revisions (Power Chess 2.0 dated 1998 citing Sierra UK Catalog 98/99), Complete Chess, WChess, adaptive difficulty, Queen analysis, voice cast, awards
