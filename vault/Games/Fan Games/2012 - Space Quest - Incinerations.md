@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Space Quest: Incinerations is a fan-made sequel to Sierra''s
   Space Quest series, released free on January 11, 2012 by Chris Ushko under
   his Box of Mystery label.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -266,7 +266,7 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 [^ref-5]: [MobyGames – Space Quest: Incinerations](https://www.mobygames.com/game/146101/space-quest-incinerations/) – platforms, engine, ratings, technical specs, timeline placement
 [^ref-6]: [GameFAQs – Game Page](https://gamefaqs.gamespot.com/pc/660661-space-quest-incinerations) – plot description, Doomtron character, government storyline
 [^ref-7]: [Space Quest Omnipedia – Incinerations](https://spacequest.fandom.com/wiki/Space_Quest:_Incinerations) – composers, development history, Maya/Premiere/After Effects, G4TV feature, multiple endings, AGS page rating
-[^ref-8]: [ChapterCheats – Video Walkthrough](https://www.chaptercheats.com/cheat/pc/287003/space-quest-incinerations/video-walkthrough/198608) – MrWhitman video walkthrough (7 chapters, February 15, 2018)
+[^ref-8]: ChapterCheats – "Space Quest: Incinerations" video walkthrough page (cited as text only; the site's sidebar promotes adult games) – MrWhitman video walkthrough (7 chapters, February 15, 2018)
 [^ref-9]: [Telltale Games Community Forum – Release Thread](https://community.telltalegames.com/discussion/28243/space-quest-incinerations-new-fan-game-released) – development details, cut content, death room, animation praise, student status
 [^ref-10]: [Rock, Paper, Shotgun – Space Quest: Roger Wilco Not Over And Out](https://www.rockpapershotgun.com/space-quest-roger-wilco-not-over-and-out) – Richard Cobbett, January 19, 2012; "wonderful surprise", "if you only have time for one, download this"
 [^ref-11]: [Adventure Gamers – Following Freeware: January 2012 releases](https://web.archive.org/web/20210104022535/https://adventuregamers.com/articles/view/18666) – Rob Murrant, February 2012 (Wayback Machine copy, 2021); "one of the best fan made adventure games" quote, commercial sequel comparison, 45-plus minutes of cinematics

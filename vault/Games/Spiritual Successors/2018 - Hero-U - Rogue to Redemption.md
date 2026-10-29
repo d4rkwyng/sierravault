@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -266,7 +266,7 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 [^ref-9]: [New York Post Interview (Archive.org)](https://web.archive.org/web/20130207163851/http://www.nypost.com/p/blogs/gamereport/interview_with_cori_cole_creator_fo3JcablCc214MdZhtEh1M) – Oct 16, 2012 interview: design philosophy, story setup, QfG VI/licensing, 2D tile-map plan, "save your decisions" plan
 [^ref-10]: [GameFAQs Board Discussion](https://gamefaqs.gamespot.com/boards/240793-hero-u-rogue-to-redemption/76800773) – puzzle hints, game motto
 [^ref-11]: [RPGamer Review](https://rpgamer.com/review/hero-u-rogue-to-redemption-review/) – skill system, class details, review summary
-[^ref-12]: [ChapterCheats Hint Guide](https://www.chaptercheats.com/cheat/pc/416731/herou-rogue-to-redemption/hint/146411) – ghost communication mechanics
+[^ref-12]: ChapterCheats – "Hero-U: Rogue to Redemption" hint page (cited as text only; the site's sidebar promotes adult games) – ghost communication mechanics
 [^ref-13]: [Forbes Kickstarter Coverage](https://www.forbes.com/sites/erikkain/2012/11/19/hero-u-rogue-to-redemption-approaches-the-kickstarter-finish-line/) – Kickstarter page quote on commercial challenges; goal met with four hours left
 [^ref-14]: [Steam Community Discussion](https://steamcommunity.com/app/375440/discussions/0/1743355067136229554/?ctp=2) – Corey Cole on the abandoned Action Point combat design; player notes on story events and lack of voice acting
 [^ref-15]: [MobyGames – Hero-U: Rogue to Redemption](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/) – credits, platforms, ratings, technical details

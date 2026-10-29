@@ -10,14 +10,14 @@ series: City Building Series
 engine: Caesar III/Pharaoh engine
 protagonist: Player as Greek city governor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 description: 'Zeus: Master of Olympus is a city-building simulation game set in the
   mythological world of ancient Greece, released by Sierra Studios in October 2000.'
 tags: [2000s, city-building-series, sierra]
 ---
 # Zeus: Master of Olympus
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -320,7 +320,7 @@ Among modern retrospectives, Rock Paper Shotgun ranks Zeus in its list of the be
 [^ref-34]: [Neoseeker Forums](https://www.neoseeker.com/forums/483/t634197-zeus-master-of-olympus-enhancement-patch-problem/) – regional patch compatibility issues
 [^ref-35]: [EEggs.com – Hidden Music](https://eeggs.com/items/19737.html) – Ekplixi.mp3 easter egg, Greek translation
 [^ref-36]: [EEggs.com – Cheat Codes](https://eeggs.com/items/28220.html) – cheat code list and effects
-[^ref-37]: [ChapterCheats.com](https://www.chaptercheats.com/cheat/pc/2104/zeus-master-of-olympus/hint/21175) – save/load combat exploit
+[^ref-37]: ChapterCheats – "Zeus: Master of Olympus" hint page (cited as text only; the site's sidebar promotes adult games) – save/load combat exploit
 [^ref-38]: [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=81&title=master-of-olympus&fld=music) – complete track listing
 [^ref-39]: [VGMdb – Zeus Soundtrack](https://vgmdb.net/album/16067) – soundtrack rarity, mysterious origins
 [^ref-40]: ModDB – "Zeus and Poseidon - Full HD+ (EN/FR)" mod, file "Zeus and Poseidon - HD+ (many resolutions)" (uploaded by Gazatus, Aug 3, 2016) – JackFuste HD patch mirror; link removed because ModDB files the 385.6 MB Zeus.zip under "Category: Full Version" and the game is still sold
