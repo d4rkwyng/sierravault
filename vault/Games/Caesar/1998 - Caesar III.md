@@ -10,7 +10,7 @@ series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Caesar III is a city-building strategy game that transports players to
  the Roman Empire, where they serve as a provincial governor tasked with building
  thriving settlements.
@@ -18,7 +18,7 @@ tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -160,7 +160,7 @@ New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "I
 [^ref-13]: [Caesar3 Heaven Games - Itchy Interview](https://caesar3.heavengames.com/info/itchy-interview/) – QA Manager development insights
 [^ref-19]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) – Comprehensive development history and reviews
 [^ref-24]: [GameFAQs - Caesar III User Review](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/reviews/15325) – Individual player perspective with scores
-[^ref-26]: [GamePressure - Caesar III Patch](https://www.gamepressure.com/download/caesar-iii-1010-patch/z012ece) – Technical update details
+[^ref-26]: GamePressure - Caesar III Patch, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – Technical update details
 [^ref-27]: [Game Revolution - Caesar 3](https://www.gamerevolution.com/game/caesar-3) – Game information and mechanics description
 [^ref-30]: [GameSpot - Caesar III Review](https://www.gamespot.com/reviews/caesar-iii-review/1900-2538280/) – Professional review and gameplay analysis
 [^ref-31]: [GitHub - Augustus Project](https://github.com/Keriew/augustus) – Open-source enhancement project

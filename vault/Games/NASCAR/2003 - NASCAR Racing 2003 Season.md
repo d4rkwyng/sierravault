@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-created driver
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: NASCAR Racing 2003 Season (commonly abbreviated as NR2003) is a stock
   car racing simulator developed by Papyrus Design Group and published by Sierra...
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2003 Season
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -342,7 +342,7 @@ Its net code and replay system were among the strengths iRacing built on when it
 [^ref-32]: [Macintosh Repository](https://www.macintoshrepository.org/19651-nascar-racing-2003-season) – Mac specifications, version info, compatibility
 [^ref-33]: [The Cutting Room Floor – NR2003](https://tcrf.net/NASCAR_Racing_2003_Season) – cut content, unused audio, easter eggs
 [^ref-34]: [Wayback Machine – GameSpot Archive](https://web.archive.org/web/20041213035309/http://www.gamespot.com/pc/driving/nascarracing2003season/review.html) – cut features, review details
-[^ref-35]: [GamePressure – Patch Download](https://www.gamepressure.com/download.asp?ID=3536) – patch version, improvements
+[^ref-35]: GamePressure – Patch Download, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – patch version, improvements
 [^ref-36]: [Dr. Noise Paints – Installation Guide](https://drnoisepaints.com/index.php/how-tos/installing-nr2003-in-2022/) – modern installation, patches needed
 [^ref-38]: [GameSpot – History of Papyrus](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – company history, closure
 [^ref-39]: [Wayback Machine – MobyGames Papyrus](https://web.archive.org/web/20230531012142/https://www.mobygames.com/company/6/papyrus-design-group-inc/) – company closure context

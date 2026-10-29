@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: GPL physics engine (derived)
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: NASCAR Racing 4 is a 2001 stock car racing simulation for Windows, developed
   by Papyrus Design Group and published by Sierra, covering all 21 tracks of the 2000
   NASCAR Winston Cup season.
@@ -18,7 +18,7 @@ tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 4
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -183,7 +183,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 [^ref-21]: [MobyGames Credits](https://www.mobygames.com/game/3378/nascar-racing-4/credits/windows/) – - Full credits (135 people)
 [^ref-22]: [Computer Games Strategy Plus (archived)](https://web.archive.org/web/20030627053539/http://www.cdmag.com/articles/032/007/nascar-04.html) – - David J. Long review, March 5, 2001; requirements, multiplayer
 [^ref-23]: [Metacritic (archived 2022)](https://web.archive.org/web/20220219232911/https://www.metacritic.com/game/pc/nascar-racing-4) – - "#6 Best PC Game of 2001" ranking
-[^ref-24]: [Gamepressure](https://www.gamepressure.com/download/nascar-racing-4-v1110-patch/z81c4) – - Patch v1.1.1.0, April 27, 2001
+[^ref-24]: Gamepressure, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – - Patch v1.1.1.0, April 27, 2001
 [^ref-25]: [PC Games](https://www.pcgames.de/Nascar-Racing-4-Spiel-24469/Downloads/Nascar-Racing-4-Patch-v1316-13062/) – - Patch v1.3.1.6 contents
 [^ref-26]: [Wikipedia: Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – - 2004 copyright sale to FIRST.net, iRacing
 [^ref-27]: [MobyGames Specs](https://www.mobygames.com/game/3378/nascar-racing-4/specs/) – - Minimum OS, CPU, RAM, video memory

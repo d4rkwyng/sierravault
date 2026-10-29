@@ -10,7 +10,7 @@ series: City Building Series
 engine: 2D-sprite game engine
 protagonist: Player as Emperor/City Administrator
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 composer: [Jeff van Dyck]
 description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy game
   set in ancient China, developed by BreakAway Games in collaboration with Impressions
@@ -19,7 +19,7 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
 # Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -304,7 +304,7 @@ The game also holds significance as the last entry in the series to use the 2D-s
 [^ref-34]: [Sierra Chest Archive](https://sierrachest.com/index.php?a=games&id=88&title=emperor&fld=box) – packaging variants, included materials
 [^ref-35]: [ModDB – EmperorLimitPatch](https://www.moddb.com/mods/emperorlimitpatch) – building limit removal mod
 [^ref-36]: [Jeff van Dyck Bandcamp](https://jeffvandyck.bandcamp.com/album/emperor-rise-of-the-middle-kingdom) – soundtrack release, track listing
-[^ref-37]: [GamePressure – Widescreen Patch](https://www.gamepressure.com/download.asp?ID=58680) – mod information, native resolution limitations
+[^ref-37]: GamePressure – Widescreen Patch, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – mod information, native resolution limitations
 [^ref-38]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Lords of the Realm III as final game (March 2004), studio closure April 2004
 [^ref-39]: [Computer Gaming World #220 (November 2002), pp. 126–127 – Emperor review by Tom Chick](https://archive.org/details/Computer_Gaming_World_Issue_220) – review verdict; requirements box (Pentium II 400, 64MB RAM, 900MB hard drive space; recommended Pentium III 800, 128MB RAM), checked against the p.126 page image
 [^ref-40]: [Emperor Heaven – Patches](https://emperor.heavengames.com/downloads/lister.php?category=patches) – patch 1.0.1.0 dated August 6, 2003

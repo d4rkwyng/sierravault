@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI resources / native DLL logic
 protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -173,7 +173,7 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-19]: [GameSpot – Shivers II: Harvest of Souls Review (Kevin Hunsanger, May 1, 2000)](https://www.gamespot.com/reviews/shivers-ii-harvest-of-souls-review/1900-2532986/) – 8.7/10, "hauntingly intelligent" plot
 [^ref-21]: [MobyGames – Shivers Two: Harvest of Souls](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – Additional review aggregation data
 [^ref-22]: [Metacritic](https://www.metacritic.com/game/shivers-two-harvest-of-souls/) – User review scores and detailed player feedback
-[^ref-23]: [Game Pressure Mod](https://www.gamepressure.com/download.asp?ID=75909) – Technical compatibility issues and community solutions
+[^ref-23]: Game Pressure Mod, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – Technical compatibility issues and community solutions
 [^ref-28]: [VGMdb Soundtrack](https://vgmdb.net/album/65584) – Music composition credits
 [^ref-29]: [GOG.com – Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) – Digital release (GOG release date 2020-05-29), US$5.99
 [^ref-35]: [SierraChest – Shivers 2: Harvest of Souls](https://www.sierrachest.com/index.php?a=games&id=187&fld=general) – Engine (SCI), developer, platform

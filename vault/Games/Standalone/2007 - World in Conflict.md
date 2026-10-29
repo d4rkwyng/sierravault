@@ -10,14 +10,14 @@ series: World in Conflict
 engine: MassTech
 protagonist: Lieutenant Parker
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-10-29'
 description: World in Conflict is a real-time tactics video game developed by Swedish
   studio Massive Entertainment and published by Sierra Entertainment under Vivendi...
 tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -342,7 +342,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-37]: [Shacknews – World in Conflict Console Port Canned](https://www.shacknews.com/article/57494/world-in-conflict-console-port) – Ubisoft statement to IGN, March 2009
 [^ref-38]: [Patches-Scrolls – World in Conflict](https://www.patches-scrolls.com/world_in_conflict.php) – list of patch versions (no dates)
 [^ref-40]: [Shacknews – World in Conflict Patch 10 Arrives, Removes DRM](https://www.shacknews.com/article/57584/world-in-conflict-patch-10) – Chris Faylor, March 10, 2009; patch notes: SecuROM removed, disc no longer required, launcher, bot difficulty; Complete Edition and Soviet Assault "hit this week"
-[^ref-41]: [GamePressure – Patch 1.011](https://www.gamepressure.com/download.asp?ID=24042) – new maps, balance changes
+[^ref-41]: GamePressure – Patch 1.011, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – new maps, balance changes
 [^ref-42]: [ModDB – WIC Modern Warfare Mod](https://www.moddb.com/mods/wicmw) – framerate requirements, mod details
 [^ref-43]: [Steam Community – World in Conflict Reviews](https://steamcommunity.com/app/21760/reviews/?p=1&browsefilter=toprated) – Windows 10 compatibility issues (review by Qinshi)
 [^ref-44]: [PCGamingWiki Community – Custom Patch](https://community.pcgamingwiki.com/files/file/2997-world-in-conflict-custom-patch/) – LAA flag, startup fixes

@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is the 2006 expansion pack for the tactical
   first-person shooter SWAT 4, developed by Irrational Games and published by Sierra
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -317,7 +317,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-27]: [IMDb – SWAT 4: The Stetchkov Syndicate (2006)](https://www.imdb.com/title/tt0808452/) – 7.6/10 from 142 ratings, checked October 14, 2026
 [^ref-28]: [Glitchwave – Game Page](https://glitchwave.com/game/swat-4-the-stetchkov-syndicate/) – weighted rating 4.02/5 from 28 ratings, checked October 14, 2026
 [^ref-30]: [MobyGames – Technical Specs](https://www.mobygames.com/game/21450/swat-4-the-stetchkov-syndicate/specs/) – system requirements, supported resolutions
-[^ref-32]: [GamePressure – SEF Community Mod](https://www.gamepressure.com/download.asp?ID=76834) – mod description, bug mentions, cut content restoration
+[^ref-32]: GamePressure – SEF Community Mod, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – mod description, bug mentions, cut content restoration
 [^ref-34]: [IGN – SWAT 4 Review](https://www.ign.com/articles/2005/03/31/swat-4) – AI inconsistency quote, sound glitch, 9/10 score
 [^ref-35]: [MobyGames – SWAT 4: Gold Edition](https://www.mobygames.com/game/25772/swat-4-gold-edition/) – media types, compilation info
 [^ref-36]: GamePressure – "SWAT 4: The Stetchkov Syndicate – SAS Mod v1.1" mod page (cited as text only; the page's sidebar promotes adult mods) – mod features and description
