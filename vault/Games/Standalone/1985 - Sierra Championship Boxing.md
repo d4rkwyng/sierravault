@@ -10,18 +10,18 @@ series: None
 engine: Machine Language
 protagonist: Player-created Boxer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Sierra Championship Boxing is a boxing simulation developed by Evryware's Dave and Barry Murry and published by Sierra On-Line for the IBM PC, later ported to the Commodore 64, Macintosh and Apple II.
 tags: [1980s, sports, boxing, evryware, sierra]
 ---
 # Sierra Championship Boxing
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 
 ## Overview
 
-Sierra Championship Boxing is a boxing simulation developed by Evryware and published by Sierra On-Line. It was Evryware's first PC game, and the Murry brothers later recalled that Sierra published it in 1983.[^ref-20] Contemporary reviews of the IBM PC version appeared in 1984, and ports for the Commodore 64, Macintosh and Apple II followed in 1985–1986.[^ref-2][^ref-23][^ref-25][^ref-26] InfoWorld called it "by far the most extensive sports game created for a microcomputer" and suggested it "could usher in a new era of sports simulation games."[^ref-2][^ref-6] Guinness World Records lists it as the "First boxing videogame with real-world boxers."[^ref-24]
+Sierra Championship Boxing is a boxing simulation developed by Evryware and published by Sierra On-Line. It was Evryware's first PC game, and the Murry brothers later recalled that Sierra published it in 1983.[^ref-20] Contemporary reviews of the IBM PC version appeared in 1984, and ports for the Commodore 64, Macintosh and Apple II followed in 1985–1986.[^ref-2][^ref-23][^ref-25][^ref-26] InfoWorld called it "by far the most extensive sports game created for a microcomputer" and suggested it "could usher in a new era of sports simulation games."[^ref-2][^ref-6] Guinness World Records lists it as the "First boxing videogame with real-world boxers,"[^ref-24] although SSI's 1983 boxing simulation *Ringside Seat* also included "over 45 great fighters past and present."[^ref-28]
 
 Players could pick from a roster of real fighters from boxing history or build their own boxer with customized abilities.[^ref-24][^ref-23] The roster also included a few novelty fighters, among them a boxing kangaroo.[^ref-20][^ref-23]
 
@@ -48,7 +48,7 @@ The appeal lies in fantasy matchups across eras. The Murrys described it this wa
 
 ### Interface and Controls
 
-Sierra Championship Boxing is played with the keyboard.[^ref-7] In arcade mode on the PC, the player can tell the fighter to step back, move forward, jab, throw an uppercut, punch to the body or head, or cover up. In a two-player game, one boxer is controlled with the function keys and the other with the cursor keys.[^ref-23] The IBM PC version was released as a self-booting disk.[^ref-2]
+Sierra Championship Boxing is played mainly with the keyboard. MobyGames also lists analog joystick support for the IBM PC and Apple II versions and a digital joystick for the Commodore 64.[^ref-7] In arcade mode on the PC, the player can tell the fighter to step back, move forward, jab, throw an uppercut, punch to the body or head, or cover up. In a two-player game, one boxer is controlled with the function keys and the other with the cursor keys.[^ref-23] Data Driven Gamer, playing the 1985 booter disk, found it differently: "Arcade mode can be played with two players, but the second player uses the strategy mode and watches the AI control their boxer." This may be a version difference.[^ref-12] The IBM PC version was released as a self-booting disk.[^ref-2]
 
 ### Structure and Modes
 
@@ -59,7 +59,7 @@ The game is built around individual bouts rather than a campaign.[^ref-12] A typ
 - **Match Setup:** Choose the match parameters, such as the time per round, the number of rounds and the scoring system.[^ref-18]
 - **The Bout:** Fight the match in one of the three play modes.
 
-Between rounds, players can issue strategic instructions to their boxer.[^ref-1]
+Between rounds, players can issue strategic instructions to their boxer.[^ref-23][^ref-20]
 
 ### Puzzles and Mechanics
 
@@ -93,9 +93,9 @@ A HOTUD review on MyAbandonware called it "A great first game by any standard." 
 **Aggregate Scores:**
 - **MobyGames:** 81% (critics, 1 rating)[^ref-7]
 - **Abandonware DOS:** 3.88/5.00[^ref-1]
-- **MyAbandonware:** 4.71/5[^ref-10]
+- **MyAbandonware:** 4.75/5 (8 votes, checked October 29, 2026)[^ref-10]
 - **Vizzed.com:** 7.5/10[^ref-13]
-- **IMDB:** 5.0/10 (9 ratings)[^ref-14]
+- **IMDB:** 5.0/10 (10 ratings, checked October 29, 2026)[^ref-14]
 
 ## Development
 
@@ -103,7 +103,7 @@ A HOTUD review on MyAbandonware called it "A great first game by any standard." 
 
 Dave and Barry Murry began making computer games together in 1979. Around 1980 they started writing arcade-style games for Heathkit's H89 computer, and they made about a dozen before switching to the IBM PC.[^ref-20] In their words, "Our first game for the PC was called Championship Boxing."[^ref-20] Retro365 says the brothers, as fans of the sport, wanted to create "the most elaborate boxing game to date."[^ref-6] Data Driven Gamer described Evryware as "A literal Mom & Pop shop."[^ref-12]
 
-The release date is reported inconsistently. The Murrys date Sierra's release to 1983, and Sierra Chest gives a first release of 1984.[^ref-20][^ref-9] Most surviving copies carry in-game copyrights from 1985, and MobyGames dates its releases from 1985 on.[^ref-12][^ref-26]
+The release date is reported inconsistently. The Murrys date Sierra's release to 1983, and Sierra Chest gives a first release of 1984.[^ref-20][^ref-9] A Computer Outlet mail-order advertisement in PCjr Magazine's April 1984 issue already listed "Championship Boxing" at $22 among its PCjr recreation titles, so the game was on sale by early 1984.[^ref-29] Most surviving copies carry in-game copyrights from 1985, and MobyGames dates its releases from 1985 on.[^ref-12][^ref-26]
 
 ### Production
 
@@ -138,7 +138,7 @@ The Macintosh version was praised for animation and screen refresh rates that we
 **General:**[^ref-7]
 - **Players:** 1-2
 - **Perspective:** Side view
-- **Input:** Keyboard
+- **Input:** Keyboard; analog joystick (IBM PC, Apple II); digital joystick (Commodore 64)
 
 ### Technical Issues
 
@@ -150,7 +150,7 @@ Data Driven Gamer notes that the game looks much better in composite mode than i
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| PC | 1983–1984 | IBM PC/PCjr | Sierra release dated 1983 by the developers[^ref-20]; reviewed by InfoWorld (June 1984) and PC Magazine (November 1984)[^ref-2][^ref-23] |
+| PC | 1983–1984 | IBM PC/PCjr | Sierra release dated 1983 by the developers[^ref-20]; advertised for $22 in PCjr Magazine (April 1984)[^ref-29]; reviewed by InfoWorld (June 1984) and PC Magazine (November 1984)[^ref-2][^ref-23] |
 | Mac | 1985 | Macintosh | MobyGames lists September 1985; reviewed in Computer Entertainer's October 1985 issue[^ref-26][^ref-25] |
 | C64 | 1985 | Commodore 64 | Reviewed in Computer Entertainer's December 1985 issue[^ref-25] |
 | Apple II | 1986 | Apple II | Listed as due January 1986 by Computer Entertainer; MobyGames lists February 1986[^ref-25][^ref-26] |
@@ -165,7 +165,7 @@ Data Driven Gamer notes that the game looks much better in composite mode than i
 - **Era-Spanning Matchups:** Players could simulate fantasy fights between boxers from different eras, such as Jack Dempsey against Muhammad Ali.[^ref-20]
 - **Collectible Packaging:** Original copies came with a Sierra Championship Boxing ticket.[^ref-6]
 - **Comprehensive Manuals:** The package included instructions, a booklet on the theory of boxing, and a history of the sport with biographies of most of the boxers.[^ref-23][^ref-18]
-- **Guinness Record:** Guinness World Records recognizes it as the "First boxing videogame with real-world boxers."[^ref-24]
+- **Guinness Record:** Guinness World Records recognizes it as the "First boxing videogame with real-world boxers."[^ref-24] The claim is open to question: SSI's *Ringside Seat*, which MobyGames dates to 1983 on the Apple II and Commodore 64, already included data for "over 45 great fighters past and present."[^ref-28]
 
 ## Legacy
 
@@ -189,7 +189,7 @@ Critics split along a clear line. Reviewers who valued options and simulation de
 Sierra Championship Boxing is not sold on GOG or Steam. The following preservation sites host it:
 
 **Download / Preservation**
-- [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sierra_Championship_Boxing_1985)
+- [Internet Archive – MS-DOS conversion](https://archive.org/details/msdos_Sierra_Championship_Boxing_1985)
 - [MyAbandonware](https://www.myabandonware.com/game/sierra-championship-boxing-cx)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=196)
 - [Macintosh Repository – Mac Version](https://www.macintoshrepository.org/3494-sierra-championship-boxing)
@@ -204,11 +204,11 @@ Sierra Championship Boxing is not sold on GOG or Steam. The following preservati
 
 ## References
 
-[^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – instructions between rounds, user rating
+[^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – user rating
 [^ref-2]: [Wikipedia – Sierra Championship Boxing](https://en.wikipedia.org/wiki/Sierra_Championship_Boxing) – InfoWorld quotes (Mace, June 25, 1984), self-booting disk
 [^ref-5]: [Macintosh Repository – Sierra Championship Boxing](https://www.macintoshrepository.org/3494-sierra-championship-boxing) – transcript of the Washington Apple Pi review, Mac compatibility of archived copies
 [^ref-6]: [Retro365 Blog – Sierra Championship Boxing](https://retro365.blog/2022/11/23/q-bits-from-my-personal-collection-sierra-championship-boxing-the-most-extensive-sports-game-created-for-microcomputers/) – InfoWorld summary, 50-boxer roster, Microsoft Home Software Division, CGA/composite, ticket, marketed to 1988
-[^ref-7]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – credits (Program: Dave Murry; Animation: Barry Murry), play modes, specs, critic score
+[^ref-7]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – credits (Program: Dave Murry; Animation: Barry Murry), play modes, specs and input devices by platform (read via the MobyGames API), critic score
 [^ref-8]: [LaunchBox Games Database – Sierra Championship Boxing](https://gamesdb.launchbox-app.com/games/details/97786-sierra-championship-boxing) – three play modes
 [^ref-9]: [Sierra Chest – Championship Boxing](https://sierrachest.com/index.php?a=games&id=362&title=championship-boxing&fld=box) – engine, platforms, first release 1984
 [^ref-10]: [MyAbandonware – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx) – HOTUD review, user rating
@@ -226,3 +226,5 @@ Sierra Championship Boxing is not sold on GOG or Steam. The following preservati
 [^ref-25]: [Computer Entertainer, January 1986 – "1985 Index" (p. 6) and "Availability Update" (p. 14) (PDF scan)](https://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf) – review months for Mac and C64 versions, Apple II scheduling
 [^ref-26]: [MobyGames – Sierra Championship Boxing releases](https://www.mobygames.com/game/4172/sierra-championship-boxing/releases/) – release dates by platform, Aackosoft Netherlands release
 [^ref-27]: [MobyGames – Sierra Championship Boxing screenshots](https://www.mobygames.com/game/4172/sierra-championship-boxing/screenshots/) – gym screen trainer line
+[^ref-28]: [MobyGames – Ringside Seat](https://www.mobygames.com/game/51276/ringside-seat/) – SSI boxing simulation, Apple II and Commodore 64, 1983; "over 45 great fighters past and present" (read via the MobyGames API)
+[^ref-29]: [PCjr Magazine, April 1984 (Vol. 1 No. 3) – Computer Outlet advertisement (Internet Archive scan)](https://archive.org/details/pcjr-magazine-1984-volume-1) – "Championship Boxing ...$22" in the P.C. JR. recreation list (file "198404 - Volume 1 Number 3")
