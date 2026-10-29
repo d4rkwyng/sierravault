@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Silpheed is a polygon-based vertical scrolling shooter by Game Arts that debuted on the Japanese NEC PC-8801 in 1986 and was published in North America by Sierra On-Line in 1988-1989.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ AllGame reviewer Kyle Knight called the DOS version "a decent enough PC shooter"
 **Aggregate Scores:**
 - **MobyGames:** 7.7/10[^ref-14]
 - **GameFAQs:** 8/10 (single user review)[^ref-21]
-- **IMDB:** 7.4/10[^ref-31]
+- **IMDB:** 7.7/10 (17 votes, checked October 29, 2026)[^ref-31]
 
 ## Development
 
@@ -307,7 +307,7 @@ Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it sa
 [^ref-27]: [The Spoiler – Silpheed FAQ](https://web.archive.org/web/20190912035220/http://www.the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
 [^ref-29]: [Amiga Magazine Rack – ACE Review](https://amr.abime.net/review_6922) – ACE issue 24 (September 1989) score 905
 [^ref-30]: [IGN – Silpheed Review (2008)](https://www.ign.com/articles/2008/07/24/silpheed-review) – Travis Fahs's review of the 1993 Sega CD version; comments on the 1986 original
-[^ref-31]: [IMDB – Silpheed](https://www.imdb.com/find/?q=Silpheed&s=tt) – user rating
+[^ref-31]: [IMDB – Silpheed (1986 Video Game)](https://www.imdb.com/title/tt0400824/) – Game Arts' original, IMDb's only entry under this title; 7.7/10 from 17 votes (checked October 29, 2026)
 [^ref-32]: [Game Developer – History of Japanese Computer Games](https://www.gamedeveloper.com/business/history-of-japanese-computer-games) – John Szczepaniak; Game Arts origins, Hiromi Ohba pen name, Major Havoc influence
 [^ref-33]: [PC Gamer – Game Preservation Society Interview](https://www.pcgamer.com/game-preservation-society-japanese-pc-games-square-enix-game-arts/) – Joseph Redon quotes, era context
 [^ref-35]: [Sierra Chest – Silpheed](https://www.sierrachest.com/index.php?a=games&id=45&title=silpheed&fld=box&pid=4) – versions 1.0, 2.3 and 2.4, media formats

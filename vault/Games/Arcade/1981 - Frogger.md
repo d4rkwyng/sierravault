@@ -12,7 +12,7 @@ series: Frogger
 engine: Galaxian-derived arcade hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Frogger is Konami's 1981 arcade game, distributed by Sega/Gremlin, for
   which Sierra On-Line held the home-computer disk and tape rights and published ports
   for the Atari 8-bit, Apple II, Commodore 64, IBM PC, VIC-20 and Macintosh.
@@ -20,7 +20,7 @@ tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ Modern critics continue to hold Frogger in high regard as a foundational arcade 
 
 **Aggregate Scores:**
 - **MobyGames:** 7.5/10 Moby Score, 75% Critics Average (39 critic reviews, 272 player ratings)[^ref-9]
-- **IMDB:** 7.2/10 (about 1,000 ratings) for original 1981 game[^ref-18]
+- **IMDB:** 7.2/10 (1,027 ratings) for original 1981 game (checked October 29, 2026)[^ref-18]
 - **KLOV/IAM:** 3.84/5 (26 votes)[^ref-10]
 - **C64-Wiki:** 7.79/10 (24 votes) for Sierra C64 version[^ref-14]
 
@@ -297,7 +297,7 @@ The 1997 3D remake published by Hasbro Interactive and developed by Sony Compute
 [^ref-15]: [PrimeTime Amusements – Getting Good at Frogger](https://primetimeamusements.com/getting-good-frogger/) – gameplay mechanics, hazards
 [^ref-16]: [Atari Magazines – VG Update](http://www.atarimagazines.com/cva/v1n1/vgupdate.php) – Parker Brothers review, wraparound feature
 [^ref-17]: [Nintendo – Arcade Archives Frogger](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) – Switch release details
-[^ref-18]: [IMDB – Frogger Search Results](https://www.imdb.com/find/?q=Frogger&s=tt) – user ratings across versions
+[^ref-18]: [IMDB – Frogger (1981 Video Game)](https://www.imdb.com/title/tt0294586/) – Konami's original 1981 arcade game; 7.2/10 from 1,027 ratings (checked October 29, 2026)
 [^ref-19]: [Lemon64 – Frogger](https://www.lemon64.com/game/frogger) – Sierra C64 version, 1983, creator Charles Benton
 [^ref-21]: [Medium – Frogger History](https://lbhuston.medium.com/frogger-the-funky-funny-history-of-an-arcade-classic-d3c88dfdfee0) – executive rejection, Elizabeth Falconer
 [^ref-22]: [Computer Archeology – Frogger Sound](https://computerarcheology.com/Arcade/Frogger/) – music analysis, hidden content, bugs

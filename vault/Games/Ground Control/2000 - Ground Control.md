@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 composer: [Ola Strandh]
 description: Ground Control is a real-time tactics game developed by Swedish studio
   Massive Entertainment and published by Sierra Studios in 2000, set on the planet
@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -92,7 +92,7 @@ Ground Control has maintained its strong reputation in the years since release. 
 **Aggregate Scores:**
 - **Metacritic:** 86/100 (26 reviews)[^ref-1]
 - **MobyGames:** 85% (Critics)[^ref-27]
-- **IMDB:** 7.1/10 (35 votes, January 2026)[^ref-28]
+- **IMDB:** 6.9/10 (38 votes, checked October 29, 2026)[^ref-28]
 - **GOG.com:** 4.4/5[^ref-29]
 - **Steam:** 85% Positive (195 reviews, October 26, 2026)[^ref-10]
 
@@ -275,7 +275,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-24]: [Metacritic – Ground Control](https://www.metacritic.com/game/ground-control/) – aggregate score, Computer Games Magazine quote
 [^ref-25]: [BAFTA Awards](https://www.bafta.org/awards/interactive/games-pc/) – BAFTA nomination
 [^ref-27]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – ratings, trivia, publishers, free release info
-[^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – the "Ground Control – 2000 Video Game" entry (title tt0416787), "7.1 (35)" as captured January 2026; the results also list other titles named Ground Control
+[^ref-28]: [IMDB – Ground Control (2000 Video Game)](https://www.imdb.com/title/tt0416787/) – 6.9/10 from 38 votes (checked October 29, 2026)
 [^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description
 [^ref-31]: [Massive Entertainment – Project Page](https://www.massive.se/project/ground-control/) – studio culture quote
 [^ref-35]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
