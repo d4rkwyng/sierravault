@@ -10,7 +10,7 @@ series: Phantasmagoria
 engine: SCI2.1
 protagonist: Adrienne Delaney
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Phantasmagoria is a 1995 live-action horror adventure game designed by
   Roberta Williams and published by Sierra On-Line on seven CD-ROMs, a sharp departure
   from her family-friendly King's Quest series.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -84,14 +84,14 @@ However, *GameSpot*'s Jeff Sengstack gave the game a 6.0/10, calling it "general
 
 Modern retrospectives have been equally polarized. Some reviewers praise the game's atmospheric qualities, with one stating it remains "still the most atmospheric, best looking, and coolest setting I've ever seen in a game from the genre"[^ref-18]. Others have been less charitable, with one MobyGames reviewer declaring: "stripped of its shiny appearance, Phantasmagoria turns out to be an impoverished, rudimentary adventure game, weak and pitiful like a fasting vegetarian cat"[^ref-17].
 
-The game has achieved cult status among retro gaming enthusiasts, though original copies remain difficult to find[^ref-19]. Modern digital releases on Steam show "Very Positive" reviews with 89% of 311 users recommending it[^ref-20]. The game's historical significance is acknowledged even by critics: "The historical value of this game is indisputable, since it opened the way for a lengthy succession of games that borrowed heavily from its style, its graphical presentation, its storytelling gimmicks and more"[^ref-6].
+The game has achieved cult status among retro gaming enthusiasts, though original copies remain difficult to find[^ref-19]. Modern digital releases on Steam show "Very Positive" reviews, with 89% of 349 user reviews positive as of October 29, 2026[^ref-20]. One GameSpot user review argues for the game's historical significance: "The historical value of this game is indisputable, since it opened the way for a lengthy succession of games that borrowed heavily from its style, its graphical presentation, its storytelling gimmicks and more"[^ref-6].
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 66%[^ref-9]
 - **IMDB:** 8.2/10 (854 ratings)[^ref-2]
-- **Steam:** 89% positive (311 reviews)[^ref-20]
+- **Steam:** 89% positive (349 reviews, checked October 29, 2026)[^ref-20]
 - **GameSpot:** 6/10 (official), 7.7/10 (469 user ratings)[^ref-14]
-- **Metacritic User Score:** 7.7/10[^ref-21]
+- **Metacritic User Score:** 7.4/10 (16 ratings, checked October 29, 2026)[^ref-21]
 
 ## Development
 
@@ -103,9 +103,9 @@ Williams explained her motivation: "I felt I had more to offer than fairy storie
 
 ### Production
 
-Originally budgeted at $800,000, Phantasmagoria ultimately cost $4.5 million to develop, and it was filmed in a $1.5 million studio that Sierra built specifically for the game[^ref-1][^ref-18]. More than 200 people worked on it[^ref-1][^ref-23]. Wikipedia gives the development time as more than two years[^ref-1]; Sierra Chest says nearly three[^ref-23].
+Originally budgeted at $800,000, Phantasmagoria ultimately cost $4.5 million to develop, and it was filmed in a $1.5 million studio that Sierra built specifically for the game[^ref-1][^ref-18]. The Digital Antiquarian gives the widely reported budget as $4 million, noting that much of it went into the Oakhurst sound stage[^ref-4]. More than 200 people worked on it[^ref-1][^ref-23]. Wikipedia gives the development time as more than two years[^ref-1]; Sierra Chest says nearly three[^ref-23].
 
-Sierra constructed a brand new video studio in Oakhurst featuring a 16×16 meter blue screen, the latest in digital recording equipment, and the best Silicon Graphics computers available at the time[^ref-13]. The game was made from blue-screen recordings combined with high-resolution computer-generated backgrounds[^ref-23]. Filming was directed by Peter Maris[^ref-1][^ref-9] and took about four months (Sierra's newsletter, as quoted by The Digital Antiquarian, counts "fifteen weeks"), with 25 actors performing against the blue screen[^ref-1][^ref-4].
+Sierra built a new video studio in Oakhurst for the game, overseen by studio manager Bill Crow; all filming was done in front of a blue screen, and the footage was loaded into Silicon Graphics computers to be synchronized with the computer-generated backgrounds[^ref-1]. The game was made from blue-screen recordings combined with high-resolution computer-generated backgrounds[^ref-23]. Filming was directed by Peter Maris[^ref-1][^ref-9] and took about four months (Sierra's newsletter, as quoted by The Digital Antiquarian, counts "fifteen weeks"), with 25 actors performing against the blue screen[^ref-1][^ref-4].
 
 A professional Hollywood special effects house worked on the game's gore sequences[^ref-1]. Props were built by local Oakhurst craftsmen[^ref-4]. The game featured more than 1,000 different background views compared to the typical 80-100 for adventure games of the era[^ref-1]. The 550-page script was four times the length of an average Hollywood screenplay[^ref-1].
 
@@ -116,7 +116,7 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 - **Writing:** Roberta Williams, [[Andy Hoyos]]
 - **Director:** Peter Maris, who directed the live-action filming[^ref-1][^ref-4][^ref-33]
 - **Game Directors:** J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams (MobyGames)[^ref-33]
-- **Producers:** J. Mark Hood, Stanley Liu, [[Mark Seibert]], Roberta Williams (MobyGames; Wikipedia lists Seibert, Hood and Williams)[^ref-1][^ref-9]
+- **Producers:** [[Mark Seibert]], J. Mark Hood, Roberta Williams (game manual; Wikipedia agrees)[^ref-1][^ref-30]. MobyGames also lists Stanley Liu among the producers[^ref-9]; the manual credits him separately, as "Producer" under Kronos, the firm it also credits for modeling and SGI animations, renderings and effects[^ref-30]
 - **Art Directors:** Albert Co, Andy Hoyos
 - **Lead Programming:** [[Doug Oldfield]]
 - **Composers:** Mark Seibert, Jay Usher
@@ -190,7 +190,7 @@ Players and reference sites report several technical problems, including:
 - **Absinthe Bottle:** In the bar on the first floor, a bottle of absinthe gradually empties as the game progresses[^ref-9]
 - **Chapter 7 Recording:** The game records all player actions in Chapter 7, allowing playback viewing[^ref-17]
 - **Real Relationship:** Victoria Morsell (Adrienne) and David Homb (Don) began dating a week after they started filming together[^ref-9]
-- **Costume Trivia:** Victoria Morsell's street clothes that she wore to set on the first day of filming were deemed more appropriate for her character than the planned outfit, so she wore that same outfit for the entire 15 weeks of filming. By the end of shooting, the jeans were held together with duct tape and patches[^ref-2]
+- **Costume Trivia:** Sierra's *InterAction* magazine reported that the producer liked the jeans and top Victoria Morsell wore to her first day of filming better than her planned costume, so she kept wearing the same jeans to the set every day of the 15 weeks of filming; by the end, "duct tape, patches and prayers" held them together[^ref-2][^ref-34]
 
 ## Cast
 
@@ -206,7 +206,7 @@ Players and reference sites report several technical problems, including:
 | Ethel | Lilyan Chauvin |
 | Lou Ann (Antiquarian) | Stella Stevens |
 | Bob (Real Estate Agent) | Geof Prysirr (IMDb); Geoff Pryser (Wikipedia) |
-| Marie | Disputed: Taylor Bernard (MobyGames, IMDb); Traci Clauson (Wikipedia, citing Sierra's *InterAction*) |
+| Marie | Taylor Bernard (game manual, MobyGames, IMDb)[^ref-30][^ref-33]; before release, Sierra's *InterAction* (Holiday 1994) named Traci Clauson as Marie[^ref-35], as does Wikipedia[^ref-1] |
 | Harv | Hoke Howell |
 | Hortencia | Christine Armond |
 | Victoria | Holley Chant |
@@ -222,7 +222,7 @@ Players and reference sites report several technical problems, including:
 
 ### Sales and Commercial Impact
 
-Phantasmagoria was a major commercial success for Sierra, grossing $12 million and selling 300,000 units during its first weekend of release[^ref-1]. Sierra's 10-K annual report, filed July 1, 1996, said "More than 600,000 copies of this product have been sold"[^ref-31]; Roberta Williams recalled in 2006 that it "sold more than a million copies in less than a year"[^ref-32], a higher figure than the filing reported; The Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra"[^ref-4]. A later *PC Gamer US* feature cited NPD Techworld figures of 301,138 units sold by December 2002[^ref-1].
+Phantasmagoria was a major commercial success for Sierra, grossing $12 million and selling 300,000 units during its first weekend of release[^ref-1]. Sierra's 10-K annual report, filed July 1, 1996, said "More than 600,000 copies of this product have been sold"[^ref-31]; Roberta Williams recalled in 2006 that it "sold more than a million copies in less than a year"[^ref-32], a higher figure than the filing reported, and both Wikipedia and The Digital Antiquarian say sales passed one million units[^ref-1][^ref-4]; The Digital Antiquarian also calls it "the best-selling game ever released by an independent Sierra"[^ref-4]. A later *PC Gamer US* feature cited NPD Techworld figures of 301,138 units sold by December 2002[^ref-1].
 
 A GameSpot user retrospective argues that the game put PC gaming on popular magazine covers and TV newscasts, and that Williams was the first to appeal to the casual market with it[^ref-6]. It was described as "one of the best-selling CD-ROM games of the 1990s"[^ref-5]. Looking back from the development of *King's Quest: Mask of Eternity*, The Digital Antiquarian notes that the lack of later point-and-click adventures selling in similar numbers "was sufficient to raise concerns about the genre's health in any thoughtful observer of the state of the industry"[^ref-28].
 
@@ -306,7 +306,9 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-26]: [MobyGames – Deluxe Limited Edition](https://www.mobygames.com/game/27838/roberta-williams-phantasmagoria-deluxe-limited-edition/) – special edition packaging details
 [^ref-27]: [GameFAQs FAQ – RedDemon/ParanoidXE](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – easter eggs, technical requirements, censorship context
 [^ref-28]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) – Jimmy Maher, 2025; adventure-genre health after Phantasmagoria
-[^ref-30]: [Internet Archive – Phantasmagoria Manual](https://archive.org/details/Phantasmagoria_-_Manual) – original game manual; "one of the most sophisticated software packages ever produced", password protection, system requirements
+[^ref-30]: [Internet Archive – Phantasmagoria Manual](https://archive.org/details/Phantasmagoria_-_Manual) – original game manual; "one of the most sophisticated software packages ever produced", password protection, system requirements; credits pp. 19–22 (scan pages checked): "Producers Mark Seibert, J.Mark Hood, Roberta Williams", "Kronos Producer - Stanley Liu", "Taylor Bernard as Marie"
 [^ref-31]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – filed July 1, 1996; Item 1: "More than 600,000 copies of this product have been sold"
 [^ref-32]: [Adventure Classic Gaming – Interview with Roberta Williams (Philip Jong, July 16, 2006; Wayback)](https://web.archive.org/web/20130310053850/http://www.adventureclassicgaming.com/index.php/site/interviews/198/) – "It sold more than a million copies in less than a year, which, in those days, was phenomenal"
 [^ref-33]: [MobyGames – Roberta Williams' Phantasmagoria credits, DOS (Wayback, January 2023)](http://web.archive.org/web/20230128225755/https://www.mobygames.com/game/dos/roberta-williams-phantasmagoria/credits) – "Director Peter Maris"; "Game Directors J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams"; Maris also credited for video editing and casting
+[^ref-34]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 1, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra On-Line; p. 81, "The Story of Tori's Jeans" (scan page checked): "She had worn them to the set every single day of the 15 weeks of filming"
+[^ref-35]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 2, Holiday 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_2_Holiday_1994_1994_Sierra_On-Line_US_partial) – Sierra On-Line; p. 26, "The Cast" (scan page checked): "Marie is played by film and TV star Traci Clauson"
