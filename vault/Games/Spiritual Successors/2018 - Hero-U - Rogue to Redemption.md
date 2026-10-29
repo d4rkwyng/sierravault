@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
@@ -18,15 +18,15 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. It was released in July 2018 after a long development funded through two separate Kickstarter campaigns. Accounts of that development differ: Transolar's own site says the game took "three years to complete"[^ref-6], Corey Cole told RPGFan in 2022 that development "ballooned to over five years"[^ref-33], and the first Kickstarter (October 2012) came almost six years before the July 9, 2018 release[^ref-47][^ref-6]. Choicest Games wrote that after Yosemite Entertainment closed in 1999 "not much was heard from the Coles in terms of computer game development for quite some time"[^ref-17], though in those years the Coles worked on online projects such as Explorati (2001) and The School for Heroes[^ref-48][^ref-49][^ref-50]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
+Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. It was released in July 2018 after a long development funded through two separate Kickstarter campaigns. Accounts of that development differ: Transolar's own site says the game took "three years to complete"[^ref-6], Corey Cole told RPGFan in 2022 that development "ballooned to over five years"[^ref-33], and the first Kickstarter (October 2012) came almost six years before the July 10, 2018 release on Steam[^ref-47][^ref-37] (Transolar's own site gives July 9, 2018[^ref-6]). Choicest Games wrote that after Yosemite Entertainment closed in 1999 "not much was heard from the Coles in terms of computer game development for quite some time"[^ref-17], though in those years the Coles worked on online projects such as Explorati (2001) and The School for Heroes[^ref-48][^ref-49][^ref-50]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
 
-The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-46]. Set over a 50-day in-game timeline, players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
+The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-46]. Set over 50 in-game days[^ref-27], players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5][^ref-3]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
 
-"Simply put, there's nothing on the market that's quite like Hero-U," wrote programmer Cidney Hamilton in the team's official postmortem[^ref-7]. Games historian Jimmy Maher has called it "Quest for Glory VI in all but name"; writing in 2025, he reported that Corey Cole told him the couple "are pushing 70, and spending more time on ourselves"[^ref-2]. The project embodies a labor of love from veterans who refused to compromise their vision despite significant budget constraints and development challenges.
+"Simply put, there's nothing on the market that's quite like Hero-U," wrote programmer Cidney Hamilton in the team's official postmortem[^ref-7]. Games historian Jimmy Maher has called it "Quest for Glory VI in all but name"; writing in 2025, he reported that Corey Cole told him the couple "are pushing 70, and spending more time on ourselves"[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
@@ -42,11 +42,11 @@ The game places players in the role of Shawn O'Conner, a young wannabe thief who
 
 ## Story Summary
 
-The story begins with Shawn O'Conner, a young man from humble origins who dreams of becoming a master thief. When his very first burglary attempt goes disastrously wrong and he gets caught, rather than facing imprisonment, he receives an unusual sentence: attendance at Hero University, ostensibly to become a better citizen[^ref-9]. However, beneath this surface story lies a deeper mystery that Shawn must unravel over the course of his education. The school operates under the Latin motto "Per Lucem Tenabras Frangimus"—Through Light We Shatter the Darkness[^ref-10].
+The story begins with Shawn O'Conner, a would-be thief whose very first burglary attempt goes wrong[^ref-46]. When he is caught, rather than facing imprisonment, he receives an unusual sentence: attendance at Hero University, ostensibly to become a better citizen[^ref-9]. However, beneath this surface story lies a deeper mystery that Shawn must unravel over the course of his education. The school operates under the Latin motto "Per Lucem Tenabras Frangimus"—Through Light We Shatter the Darkness[^ref-10].
 
 Hero University is no ordinary academy. It houses multiple schools training different types of heroes, though Shawn specifically enters the Rogues class—which operates undercover as Bard students to conceal their true nature[^ref-11]. The castle itself sits atop a labyrinth of abandoned wine cellars, stunning sea caves, creepy catacombs, and deadly dungeons, all of which Shawn must explore during his nighttime adventures[^ref-5]. As he navigates both the social hierarchy of the university and the physical dangers beneath it, Shawn encounters supernatural threats including ghosts who require his help—though communicating with them first requires crafting a special gris-gris charm with the cook's assistance[^ref-12].
 
-Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-3]. The story changes based on how the player chooses to play; as Eurogamer described the 2012 pitch, players "must decide if you want to work towards becoming a rogue hero or a thief"[^ref-32]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken, and ultimately confronting the Wraith King in the final dungeon[^ref-14]. The choices players make throughout shape not only the immediate story but were planned to carry forward into later games set at the university through a "save your decisions" system[^ref-9].
+Over the game's 50 days[^ref-24], Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-3]. The story changes based on how the player chooses to play; as Eurogamer described the 2012 pitch, players "must decide if you want to work towards becoming a rogue hero or a thief"[^ref-32]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken[^ref-14], and confronting the Wraith King, whom the game lets players face by combat or by a "pacifist" route[^ref-39]. The choices players make throughout shape not only the immediate story but were planned to carry forward into later games set at the university through a "save your decisions" system[^ref-9].
 
 ## Gameplay
 
@@ -54,7 +54,7 @@ Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Ye
 
 Hero-U employs an isometric perspective with point-and-click controls, presenting players with a hybrid adventure/role-playing experience that distinguishes itself from pure examples of either genre[^ref-15][^ref-18]. The interface was designed to accommodate both mouse-driven interaction on PC and touchscreen functionality on the Nintendo Switch, with the latter version making what one reviewer called "the best use of the platform's criminally underused touchscreen functionality out of any third party game I've played"[^ref-16]. Players navigate Shawn through the castle, interact with objects and characters, manage inventory, and engage in turn-based combat through intuitive click-based controls.
 
-The game functions partially as a visual novel, with extensive dialogue sequences and character interactions driving much of the experience[^ref-17]. Unlike traditional adventure games, Hero-U prominently features RPG elements including character statistics, skill progression, and a combat system reminiscent of the original Fallout games[^ref-16]. The combat is entirely turn-based, departing from the Quest for Glory series' real-time action-oriented duels in favor of tactical encounters on a grid[^ref-18].
+The game functions partially as a visual novel, with extensive dialogue sequences and character interactions driving much of the experience[^ref-17]. Unlike traditional adventure games, Hero-U prominently features RPG elements including character statistics, skill progression, and a combat system reminiscent of the original Fallout games[^ref-16]. The combat is entirely turn-based, departing from the Quest for Glory series' real-time action-oriented duels for what Rock Paper Shotgun called "a turn-based, more traditionally RPG-like setup"[^ref-18].
 
 ### Structure and Progression
 
@@ -79,25 +79,23 @@ The game also includes a card game called Poobah that provides both entertainmen
 
 ### Contemporary Reviews
 
-Hero-U received generally positive reviews upon release, with critics praising its writing, characters, and faithful continuation of the Quest for Glory spirit while noting budget constraints and some technical issues. GamingTrend awarded the game 90/100, calling it "fantastic" and "a highly immersive experience with great writing that will have you fall in love with some characters and hate others"[^ref-26]. The same review noted it "feels like a D&D adventure, and the best kind too"[^ref-26].
+The original PC release in July 2018 drew a small set of critic reviews; Metacritic's PC page lists four, from Ragequit.gr, Adventure Gamers, RPGamer and CD-Action, each scoring 80[^ref-29]. Ragequit.gr (July 2018) noted the game was "Made unapologetically for the die-hard Quest For Glory fans" and called it "part journey through time, part heartfelt tribute to an innocence you believed long lost and a damn addictive game in its own right"[^ref-29]. Adventure Gamers (July 2018) wrote: "The founding family of Quest for Glory has returned with an all-new unofficial entry that proves worthy of its predecessors' legacy yet still manages to distinguish itself entirely on its own"[^ref-29].
 
-KeenGamer gave the game 9/10, declaring it "the perfect continuation of a genre" and stating "I honestly did not expect to fall so hard for this game"[^ref-27]. RPGFan scored it 88/100, with reviewer Hilary Andreff advising "If you're a fan of Quest for Glory, school-based adventures, or rogues, you want to sign up at Hero-U right now"[^ref-28]. TechRaptor's Dylan Wilby awarded 8.5/10, describing the experience as "like curling up in front of a fire with a good book: you give yourself to the story"[^ref-16].
-
-Adventure Gamers gave 80/100, stating "The founding family of Quest for Glory has returned with an all-new unofficial entry that proves worthy of its predecessors' legacy yet still manages to distinguish itself entirely on its own"[^ref-29]. Ragequit.gr similarly scored 80/100, noting the game was "Made unapologetically for the die-hard Quest For Glory fans" and calling it "part journey through time, part heartfelt tribute to an innocence you believed long lost and a damn addictive game in its own right"[^ref-29].
-
-Not all reviews were positive. GameGrin gave only 50/100, finding it "too slow for my liking" with "sedate pace and minimalist mechanics"[^ref-30]. GameCritics awarded 6/10, describing it as "a love letter to fans of this genre and of these developers" while acknowledging its limitations[^ref-25].
+RPGWatch's Corwin (September 2018) wrote: "The Coles have picked up right where they left off twenty years ago with a game I thoroughly enjoyed from start to finish", though he called it "A very good game that is just short of being excellent, because of one or more minor issues that reduce the level of enjoyment a little bit"[^ref-24]. RPGamer's Michael Baker (September 2018) observed that "Hero-U: Rogue to Redemption couldn't get everything absolutely perfect, but no game ever really does. Instead, it got a whole lot of things just right, which was enough to counterbalance most issues"[^ref-11].
 
 ### Modern Assessment
 
-The game has maintained its positive reputation in the years since release, particularly on the Nintendo Switch where it found a new audience. Nintendo Life gave the Switch version 8/10, calling it "a successful return to the Quest for Glory universe as well as a clever, addictive and highly replayable adventure game in its own right"[^ref-31]. TouchArcade's 80/100 review noted "You can feel the passion for the classic games dripping from every pore, but you can also feel the budget crunch as the team tried to stay within their means"[^ref-30].
+The Nintendo Switch port of February 2021 brought a second, larger round of reviews; Metacritic lists 14 for that version[^ref-30]. GamingTrend awarded the Switch version 90/100, calling it "fantastic" and "a highly immersive experience with great writing that will have you fall in love with some characters and hate others"[^ref-26][^ref-31], and wrote that it "feels like a D&D adventure, and the best kind too"[^ref-26]. KeenGamer gave it 9/10, declaring it "the perfect continuation of a genre" and stating "I honestly did not expect to fall so hard for this game"[^ref-27][^ref-30]. Nintendo Life gave it 8/10, calling it "a successful return to the Quest for Glory universe as well as a clever, addictive and highly replayable adventure game in its own right"[^ref-31]. TechRaptor's Dylan Wilby (February 15, 2021) awarded 8.5/10, describing the experience as "like curling up in front of a fire with a good book: you give yourself to the story"[^ref-16]. TouchArcade's 80/100 review (February 2021) noted "You can feel the passion for the classic games dripping from every pore, but you can also feel the budget crunch as the team tried to stay within their means"[^ref-30].
 
-RPGWatch's Corwin review summarized the consensus well: "The Coles have picked up right where they left off twenty years ago with a game I thoroughly enjoyed from start to finish"—though noting it was "A very good game that is just short of being excellent, because of one or more minor issues that reduce the level of enjoyment a little bit"[^ref-24]. RPGamer's Michael Baker observed that "Hero-U: Rogue to Redemption couldn't get everything absolutely perfect, but no game ever really does. Instead, it got a whole lot of things just right, which was enough to counterbalance most issues"[^ref-11].
+Not all Switch reviews were positive. GameCritics (February 2021) awarded 6/10, describing it as "a love letter to fans of this genre and of these developers" while acknowledging its limitations[^ref-25][^ref-30]. GameGrin (July 2021) gave only 50/100, finding it "too slow for my liking" with "sedate pace and minimalist mechanics"[^ref-30].
+
+The latest major review came from RPGFan in September 2022, when Hilary Andreff scored the Switch version 88/100 and advised "If you're a fan of Quest for Glory, school-based adventures, or rogues, you want to sign up at Hero-U right now"[^ref-28].
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 80/100 (4 critic reviews)[^ref-29]
 - **Metacritic (Switch):** 76/100 (14 critic reviews)[^ref-30]
 - **OpenCritic:** 76 average, 53% critics recommend[^ref-31]
-- **MobyGames:** 7.3/10[^ref-15]
+- **MobyGames:** 7.3/10, from a single user vote (read via the MobyGames API)[^ref-15]
 - **GOG User Reviews:** 4.4/5[^ref-3]
 
 ## Development
@@ -121,10 +119,11 @@ Cidney Hamilton, the game's programmer, provided detailed insight into the produ
 **Development Credits:**[^ref-15]
 - **Lead Designers:** Lori Ann Cole, Corey Cole
 - **Composer:** Ryan Grogan
-- **Development Partner:** Brawsome (MacGuffin's Curse developer)[^ref-32]
 - **Studio:** Transolar Games, the Coles' own studio (their earlier FAR Studio was by then used for art and web development)[^ref-34]
 - **Additional Writer:** Josh Mandel[^ref-7]
 - **Authorized Guide Author:** Meghann O'Neill[^ref-35]
+
+The 2012 Kickstarter coverage also named the Australian studio Brawsome (MacGuffin's Curse, Jolly Rover) as co-developer at that stage[^ref-32][^ref-34]; Brawsome is not listed in the shipped game's MobyGames credits[^ref-15].
 
 ### Technical Achievements
 
@@ -149,11 +148,11 @@ Character interaction and dialogue received particular attention. "To Lori, inte
 - **File Size:** 4.3 GB
 - **Supported Modes:** TV mode, Tabletop mode, Handheld mode
 - **Languages:** French, American English
-- **Touch Controls:** Full touchscreen support
+- **Touch Controls:** Touchscreen supported; TechRaptor praised the port's touchscreen use[^ref-16]
 
 ### Cut Content
 
-The extended development period and budget constraints inevitably resulted in some features being scaled back or removed from the original vision. The combat system underwent significant changes from early designs—the original Quest for Glory-style action-oriented 1v1 duels were replaced with the final turn-based tactical system[^ref-18]. Corey Cole later wrote on the Steam forums, "I originally designed the combat to use an Action Point system, but the programmer had a lot of problems implementing it"[^ref-14]. The postmortem adds that stretch goals "such as voice acting, some boss fights, and a companion NPC" had to be scrapped after the second Kickstarter met its goal without vastly exceeding it[^ref-7].
+The extended development period and budget constraints inevitably resulted in some features being scaled back or removed from the original vision. The combat system underwent significant changes from early designs—the original Quest for Glory-style action-oriented 1v1 duels were replaced with a turn-based system[^ref-18]. Corey Cole later wrote on the Steam forums, "I originally designed the combat to use an Action Point system, but the programmer had a lot of problems implementing it"[^ref-14]. The postmortem adds that stretch goals "such as voice acting, some boss fights, and a companion NPC" had to be scrapped after the second Kickstarter met its goal without vastly exceeding it[^ref-7].
 
 ### Version History
 
@@ -189,7 +188,7 @@ The game features multiple endings based on player choices throughout the 50-day
 - **Rogue of the Year status:** Whether Shawn achieves the prestigious recognition
 - **Relationship outcomes:** Which romantic path was pursued, if any
 - **Moral alignment:** Whether Shawn developed into a heroic rogue or traditional thief
-- **Wraith King resolution:** The game includes both combat and "pacifist" routes against the final boss[^ref-39]
+- **Wraith King resolution:** The game includes both combat and "pacifist" routes against the Wraith King[^ref-39]
 - **Character survival:** Various NPCs' fates depend on player actions
 
 ## Voice Cast
@@ -200,9 +199,9 @@ Hero-U has no voice acting; all dialogue is presented as text[^ref-17][^ref-14].
 
 ### Sales and Commercial Impact
 
-Hero-U's commercial performance was modest but sufficient to sustain the development team. According to Cidney Hamilton's postmortem, reaching $100,000 in first-month sales was critical for premium placement during Steam promotions, and at the initial $35 price "We did not come close to hitting that level"; the price was cut to $20 in early 2019[^ref-7]. Steam owner estimates from SteamSpy suggest between 0-20,000 owners for the soundtrack DLC, indicating similarly modest numbers for the base game[^ref-44].
+Hero-U's commercial performance was modest. According to Cidney Hamilton's postmortem, reaching $100,000 in first-month sales was critical for premium placement during Steam promotions, and at the initial $35 price "We did not come close to hitting that level"; the price was cut to $20 in early 2019, and sales since then "have been modest, but are a steady trickle"[^ref-7]. SteamSpy estimates the Steam version at 50,000 to 100,000 owners (checked October 29, 2026; SteamSpy's figures are estimates, not sales data)[^ref-44].
 
-The game earned award nominations including "Best Writing - Comedy" and "Best Non-Traditional Adventure"[^ref-37]. While not a commercial blockbuster, the game found its audience among Quest for Glory devotees and fans of story-driven RPGs.
+The game earned award nominations including "Best Writing - Comedy" and "Best Non-Traditional Adventure"[^ref-37].
 
 ### Collections
 
@@ -215,16 +214,14 @@ The dedicated fan community has produced extensive documentation including detai
 ### Related Publications
 
 - **Hero-U: Rogue to Redemption Hint Guide:** Written by journalist Meghann O'Neill under the direction of Corey and Lori Cole; described as "the only authorized guide." Created with Twine and works in any browser. Available on itch.io[^ref-35]
-- **Hero-U Student Handbook:** PDF documentation included with the game providing in-universe lore and gameplay guidance[^ref-45]
+- **Hero-U Student Handbook:** A PDF linked as the "Quick Reference" on the Steam store page; according to a July 2018 forum reply, Kickstarter backers received their reward copy separately by e-mail[^ref-45][^ref-37]
 - **Hero-U Yearbook:** Planned as a Kickstarter reward item[^ref-9]
 
 ### Critical Perspective
 
-Hero-U: Rogue to Redemption occupies a unique position in gaming history as both a nostalgia piece and a genuine attempt to evolve the adventure-RPG hybrid genre. Created by designers who helped define that genre decades earlier, the game represents both a validation of crowdfunding's potential to revive dormant franchises and a cautionary tale about the challenges of independent development.
+Hero-U was crowdfunded by the designers of Quest for Glory[^ref-1][^ref-47], and Jimmy Maher has called it "Quest for Glory VI in all but name"[^ref-2]. Its development ran "over five years" by Corey Cole's count, for what was planned as a 1-2 year project[^ref-33], and its first-month sales fell well short of the level the team had considered critical[^ref-7]. As RPGFan noted, "Like the original series, Hero-U is a valiant effort to merge the good qualities of graphic adventure games, RPGs, and storytelling"[^ref-28].
 
-The game's long development—"over five years" by Corey Cole's count, for what was planned as a 1-2 year project[^ref-33]—exemplifies the difficulties faced by veteran designers returning to a dramatically changed industry. Yet the final product, despite its limitations, successfully captured the spirit that made Quest for Glory beloved while adapting to modern sensibilities. As RPGFan noted, "Like the original series, Hero-U is a valiant effort to merge the good qualities of graphic adventure games, RPGs, and storytelling"[^ref-28].
-
-Hero-U also represents the beginning of an intended series, with the Coles planning additional games featuring different character classes at the university. Summer Daze at Hero-U, a visual novel spinoff, was announced as a follow-up, with the Coles drawing inspiration from games like Dream Daddy and Magical Diary[^ref-33]. While the commercial reception may not have fully supported the ambitious multi-game vision, Rogue to Redemption stands as proof that the adventure-RPG hybrid still has devoted fans and creative potential in the modern era.
+Hero-U was planned as the beginning of a series, with the Coles planning additional games featuring different character classes at the university. Summer Daze at Hero-U, a visual novel spinoff, was announced as a follow-up, with the Coles drawing inspiration from games like Dream Daddy and Magical Diary[^ref-33].
 
 ## Downloads
 
@@ -298,8 +295,8 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 [^ref-41]: [Transolar Games itch.io Devlog](https://transolar-games.itch.io/hero-u-rogue-to-redemption/devlog/164920/hero-u-22-patch-available) – version 2.2 patch notes
 [^ref-42]: [GOGDB](https://www.gogdb.org/product/1677919510) – latest version number
 [^ref-43]: [Siderite Blog Review](https://siderite.dev/blog/hero-u-rogue-to-redemption.html) – puns and humor
-[^ref-44]: [SteamSpy](https://steamspy.com/app/1011020) – ownership estimates
-[^ref-45]: [Steam Community Forum](https://steamcommunity.com/app/375440/discussions/0/3160848559774044051/) – student handbook reference
+[^ref-44]: [SteamSpy – Hero-U: Rogue to Redemption](https://steamspy.com/app/375440) – base-game owner estimate "50,000 .. 100,000" (checked October 29, 2026)
+[^ref-45]: [Steam Community Forum – "Student hanbook with map"](https://steamcommunity.com/app/375440/discussions/0/3160848559774044051/) – July 2018 thread: the handbook "is labelled 'Quick Reference' on the store page"; a reply notes the backer-reward copy "has been sent in a separate e-mail"
 [^ref-46]: [Hero-U Official Website](http://www.hero-u.com/) – story premise (wannabe thief caught in first burglary, sent to Hero University), PlayStation "Coming soon" note
 [^ref-47]: [Kickstarter – Hero-U: Rogue to Redemption](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption) – funding period Oct 19, 2012 – Nov 20, 2012; $409,150 pledged of $400,000 goal, 6,093 backers
 [^ref-48]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) – biography: after Sierra closed Yosemite Entertainment in 1999, online games "Explorati (2001), and JetSetPoker.com (2003)"; worked with Lori on TheSchoolForHeroes.com (dossier copy, January 2026)
