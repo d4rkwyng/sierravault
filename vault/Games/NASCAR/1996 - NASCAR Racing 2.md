@@ -10,20 +10,20 @@ series: NASCAR Racing
 engine: Papyrus Racing Engine (New)
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: NASCAR Racing 2 is a racing simulation developed by Papyrus Design Group
   and published by Sierra On-Line, released on December 9, 1996 for MS-DOS and Windows.
 tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing 2
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-NASCAR Racing 2 is a racing simulation video game developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]], released on December 9, 1996 for MS-DOS and Windows platforms[^ref-1]. The game represented a significant technological leap for the NASCAR Racing series, introducing a completely new game engine that improved graphics, physics, sound, and multiplayer capabilities while adding the official cars, tracks, and drivers of the 1996 NASCAR Winston Cup Series season[^ref-2]. As the sequel to Sierra's award-winning NASCAR Racing, the game was praised by reviewers as "a completely professional game, both in its execution and in its dedication to the NASCAR tradition"[^ref-3].
+NASCAR Racing 2 is a racing simulation video game developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]], released on December 9, 1996 for MS-DOS and Windows platforms[^ref-1]. Its MobyGames description credits a new game engine with improved graphics, physics, sound and multiplayer, and notes the addition of the official cars, tracks and drivers of the 1996 NASCAR Winston Cup Series season[^ref-2]; GameSpot's 2004 history of Papyrus, by contrast, says the core of the physics engine was carried over largely unchanged[^ref-39]. As the sequel to Papyrus' award-winning NASCAR Racing[^ref-1], the game was praised by reviewers as "a completely professional game, both in its execution and in its dedication to the NASCAR tradition"[^ref-3].
 
-The game was notable for being the first NASCAR title to feature 3D hardware acceleration, supporting both 3Dfx Acceleration through DOS and Rendition through Windows[^ref-1], although the 3Dfx DOS executable arrived after launch as a beta update dated 1998[^ref-24]. NASCAR Racing 2 introduced several innovative features including an arcade mode for casual players, a mouse-driven interface, and an innovative radio spotter system that provided real-time audio alerts about track conditions[^ref-2]. Contemporary reviews emphasized the game's uncompromising dedication to realism, with GameSpot's Tim Soete declaring "NASCAR 2 is not a toy. ... This is a game where every track must be considered individually when tweaking the design of your car" and noting that "Simply put, this is as close as most of us are going to come to participating in an actual televised race"[^ref-38].[^ref-35][^ref-36][^ref-37]
+The game was notable for being the first NASCAR title to feature 3D hardware acceleration, supporting both 3Dfx Acceleration through DOS and Rendition through Windows[^ref-1]; Computer Gaming World's review confirms Rendition support at launch[^ref-44]. The 3Dfx DOS executable arrived after launch as a beta update, which the archive.org item lists under 1998[^ref-24]. NASCAR Racing 2 introduced several innovative features including an arcade mode for casual players, a mouse-driven interface, and a radio spotter system that provided real-time audio alerts about track conditions[^ref-2]. Contemporary reviews emphasized the game's uncompromising dedication to realism, with GameSpot's Tim Soete declaring "NASCAR 2 is not a toy. ... This is a game where every track must be considered individually when tweaking the design of your car" and noting that "Simply put, this is as close as most of us are going to come to participating in an actual televised race"[^ref-38].
 
 > [!info]- Game Info
 > **Developer:** Papyrus Design Group[^ref-1]
@@ -40,13 +40,13 @@ The game was notable for being the first NASCAR title to feature 3D hardware acc
 
 ### Interface and Controls
 
-NASCAR Racing 2 featured a comprehensive control system designed to accommodate both casual racers and hardcore simulation enthusiasts. The game supported multiple input devices including keyboard, mouse, joystick, and dedicated racing/steering wheel peripherals[^ref-1]. GameFabrique's reviewer found keyboard and joystick control "very touchy" and wrote that Sierra's own InterAction magazine had admitted "the only satisfying way to play is with the $130 steering wheel module"[^ref-5]. The new mouse-driven interface made navigation through menus and setup options significantly more intuitive than its predecessor[^ref-2].
+NASCAR Racing 2 featured a comprehensive control system designed to accommodate both casual racers and hardcore simulation enthusiasts. The game supported multiple input devices including keyboard, mouse, joystick, and dedicated racing/steering wheel peripherals[^ref-1]. Gamezilla's Dave Shepherd found keyboard and joystick control "very touchy" and wrote that Sierra's own InterAction magazine had admitted "the only satisfying way to play is with the $130 steering wheel module"[^ref-46]. The new mouse-driven interface made navigation through menus and setup options significantly more intuitive than its predecessor[^ref-2].
 
-The game offered two distinct gameplay modes: an arcade mode for players seeking immediate action, and a full simulation mode for those wanting the authentic NASCAR experience[^ref-32]. One reviewer praised that "Sierra made EVERYTHING optional," allowing players to customize the difficulty and realism settings to their preference[^ref-5]. The instruction manual was notably more comprehensive than typical video game documentation, including detailed advice on car setup adjustments and preferred racing lines for each track[^ref-7].
+The game offered two distinct gameplay modes: an arcade mode for players seeking immediate action, and a full simulation mode for those wanting the authentic NASCAR experience[^ref-32]. Gamezilla's reviewer praised that "Sierra made EVERYTHING optional," allowing players to customize the difficulty and realism settings to their preference[^ref-46]. The instruction manual was notably more comprehensive than typical video game documentation, including detailed advice on car setup adjustments and preferred racing lines for each track[^ref-7].
 
 ### Structure and Progression
 
-NASCAR Racing 2 featured 16 tracks from the 1996 NASCAR Winston Cup Circuit, many redone to reflect recent real-world changes[^ref-8]; every 1996 venue was included except Daytona and Indianapolis[^ref-7]. The tracks were presented in race-by-race order rather than simply alphabetically, mirroring the actual NASCAR season schedule[^ref-7]. Races supported a maximum field of 39 cars, with more drivers included than could fit in a single field[^ref-7], and featured the official cars and drivers of the 1996 season[^ref-2].
+NASCAR Racing 2 featured 16 tracks from the 1996 NASCAR Winston Cup Circuit, many redone to reflect recent real-world changes[^ref-8][^ref-44]; every 1996 venue was included except Daytona and Indianapolis[^ref-7]. Computer Gaming World put Daytona's absence down to licensing issues[^ref-44]. The tracks were presented in race-by-race order rather than simply alphabetically, mirroring the actual NASCAR season schedule[^ref-7]. Races supported a maximum field of 39 cars, with more drivers included than could fit in a single field[^ref-7], and featured the official cars and drivers of the 1996 season[^ref-2].
 
 The game's structure allowed for:
 
@@ -54,9 +54,9 @@ The game's structure allowed for:
 - **Full Season Mode:** Complete the entire 1996 NASCAR Winston Cup schedule
 - **Practice Sessions:** Unlimited practice with full garage access
 - **Qualifying:** Time trials to determine grid position
-- **Multiplayer:** Up to 8 players via IPX network or head-to-head via modem[^ref-5]
+- **Multiplayer:** Up to 8 players via IPX network, or head-to-head via modem or direct connection[^ref-45]
 
-Night racing was available at all tracks, and weather conditions were set to match the normal conditions for each race's typical time of year[^ref-7].
+In a championship season, the night races at Bristol, Charlotte and Richmond appear in their actual order on the circuit[^ref-32], and weather conditions were set to match the normal conditions for each race's typical time of year[^ref-7].
 
 ### Garage and Car Customization
 
@@ -66,27 +66,27 @@ The integrated paint shop allowed players to customize their car's appearance wi
 
 ### Audio Features
 
-NASCAR Racing 2 introduced the revolutionary Crew Chief and Spotter audio system, which provided real-time voice alerts about track conditions, competitor positions, and potential hazards[^ref-8]. The spotter would communicate warnings during races, including colorful commentary such as "What kind of bone-headed move was that!" when witnessing aggressive driving[^ref-38]. Ronald Gaines provided the voice for the Spotter character[^ref-11].
+NASCAR Racing 2 introduced a Crew Chief and Spotter audio system, which provided real-time voice alerts about track conditions, competitor positions, and potential hazards[^ref-8]. The spotter would communicate warnings during races, including colorful commentary such as "What kind of bone-headed move was that!" when witnessing aggressive driving[^ref-38]. Ronald Gaines provided the voice for both the Spotter and the Crew Chief[^ref-11][^ref-32].
 
 ## Reception
 
 ### Contemporary Reviews
 
-NASCAR Racing 2 received widespread critical acclaim upon release, with reviewers praising its unusual realism and comprehensive feature set. GameSpot awarded the game a 9.2 out of 10, with reviewer Tim Soete declaring "NASCAR 2 is so realistic, it's scary"[^ref-38]. Computer Gaming World gave the game a perfect 100% score, noting that it "continues down that near legendary road of glory"[^ref-3].
+NASCAR Racing 2 received widespread critical acclaim upon release, with reviewers praising its unusual realism and comprehensive feature set. GameSpot awarded the game a 9.2 out of 10, with reviewer Tim Soete declaring "NASCAR 2 is so realistic, it's scary"[^ref-38]. In Computer Gaming World's March 1997 issue, Gordon Goble gave it five stars and a CG Choice award, writing that "Papyrus/Sierra's NASCAR Racing 2 continues down that near legendary road of glory"[^ref-44]; MobyGames and Wikipedia render the five stars as 100%[^ref-1][^ref-3].
 
-GameFabrique rated the game 8 out of 10, with reviewer "reggie" stating "It's fab. It really is. If realistic saloon car-type racing is your bag, there is nothing else that comes close"[^ref-5]. The review further praised that "NASCAR 2 truly takes you beyond just a driving simulation. It's a virtual representation of the entire NASCAR culture"[^ref-5]. However, the review noted several criticisms including the lack of rolling or flying cars during crashes, a clipping plane that was too close in external view, and difficulty reading the small rev counter and position text[^ref-5].
+In the UK, PC Zone's Tim Ponting scored it 92 with a PC Zone Classic award in the January 1997 issue: "It's fab. It really is. ... If realistic saloon car-type racing is your bag, there is nothing else that comes close"[^ref-45]. His niggles included the lack of rolling or flying cars, a clipping plane that was too close in the external view, and the hard-to-read rev counter and position text[^ref-45]. Gamezilla's Dave Shepherd gave it 88, writing that "Nascar 2 truly takes you beyond just a driving simulation. It's a virtual representation of the entire Nascar culture"[^ref-46]. Both reviews are reprinted, uncredited, on GameFabrique[^ref-5].
 
-The game won the "Racing Simulation" category at the Computer Games Strategy Plus 1996 Awards, defeating Grand Prix II from MicroProse and Monster Truck Madness from Microsoft[^ref-12]. It was a finalist for Computer Gaming World's 1996 "Sports Game of the Year" award, which went to NBA Live 97, but won the magazine's Readers' Choice award in that category[^ref-3] (MobyGames lists it as "Racing Game of the Year (Readers' Choice)"[^ref-1]), and it was was named "Best Racing Game in 1997" by PC Player (Germany)[^ref-1].
+The game won the "Racing Simulation" category at the Computer Games Strategy Plus 1996 Awards, defeating Grand Prix II from MicroProse and Monster Truck Madness from Microsoft[^ref-12]. It was a finalist for Computer Gaming World's 1996 "Sports Game of the Year" award, which went to NBA Live 97, but won the magazine's Readers' Choice award in that category[^ref-3] (MobyGames lists it as "Racing Game of the Year (Readers' Choice)"[^ref-1]), and it was named "Best Racing Game in 1997" by PC Player (Germany)[^ref-1].
 
 ### Modern Assessment
 
-Modern retrospectives continue to regard NASCAR Racing 2 as a landmark title in racing simulation history. As of October 2026 it holds a Moby Score of 7.8 on MobyGames, with a critic average of 82% from 17 ratings and a player average of 3.8 out of 5 from 9 ratings[^ref-1]. MyAbandonware users rate it 4.56 out of 5[^ref-9]. GamesNostalgia assigns an editorial score of 86/100, noting that "NASCAR Racing 2 created incredibly realistic experiences"[^ref-13].
+Modern retrospectives continue to regard NASCAR Racing 2 as a landmark title in racing simulation history. As of October 2026 it holds a Moby Score of 7.8 on MobyGames[^ref-1]. MyAbandonware users rate it 4.58 out of 5 from 81 votes[^ref-9]. GamesNostalgia assigns an editorial score of 86/100, noting that "NASCAR Racing 2 created incredibly realistic experiences"[^ref-13].
 
 The only player review on MobyGames, posted in 2000, called it "A very good game which handled multiplayer races excellently!" and "An excellent racing sim. Papyrus was well ahead of the others when it developed this simulation engine"[^ref-14]. Dale Earnhardt Jr. himself praised the Papyrus NASCAR series, saying "It was ahead of its time, just so ahead of its time"[^ref-15].
 
 **Aggregate Scores:**
-- **MobyGames:** Moby Score 7.8 (Critics: 82%; Players: 3.8/5)[^ref-1]
-- **MyAbandonware:** 4.56/5[^ref-9]
+- **MobyGames:** Moby Score 7.8[^ref-1]
+- **MyAbandonware:** 4.58/5 (81 votes)[^ref-9]
 - **GamesNostalgia:** 86/100[^ref-13]
 - **IMDB:** 5.8/10[^ref-11]
 - **Amazon:** 2.6/5 (customer reviews)[^ref-4]
@@ -95,18 +95,18 @@ The only player review on MobyGames, posted in 2000, called it "A very good game
 
 ### Origins
 
-Papyrus Design Group had established itself as the premier developer of racing simulations with their IndyCar Racing series before partnering with Sierra On-Line for the NASCAR Racing franchise[^ref-16]. David Kaemmer, one of Papyrus's founders, recalled the competitive pressure during development: "I remember when we were working on IndyCar, and we were all proud of ourselves because we had real-time, perspective-correct texture mapping, and we saw a demo of World Circuit, Geoff Crammond's original F1 game, and got very worried"[^ref-16].
+Papyrus Design Group arrived at the sequel with a track record that included Indianapolis 500: The Simulation, IndyCar Racing and NASCAR Racing[^ref-44]. Papyrus' IndyCar Racing was published by Virgin[^ref-42], and the original DOS NASCAR Racing (1994) was also published by Virgin, with a US CD-ROM release under Papyrus' own Papyrus Publishing label, distributed by Virgin[^ref-43]. David Kaemmer, one of Papyrus's founders, recalled the competitive pressure during development: "I remember when we were working on IndyCar, and we were all proud of ourselves because we had real-time, perspective-correct texture mapping, and we saw a demo of World Circuit, Geoff Crammond's original F1 game, and got very worried"[^ref-16].
 
-Sierra acquired Papyrus in late 1995[^ref-40], and the studio became closely identified with Sierra despite maintaining its independent development culture[^ref-17]. The success of the original NASCAR Racing, which had sold more than 700,000 copies by the sequel's December 1996 launch, provided the foundation for an ambitious sequel[^ref-18]. NASCAR Racing 2 was developed with the goal of expanding upon every aspect of its predecessor while introducing cutting-edge 3D acceleration technology[^ref-2].
+Sierra acquired Papyrus in late 1995[^ref-40]. The success of the original NASCAR Racing, which had sold more than 700,000 copies by the sequel's December 1996 launch, provided the foundation for an ambitious sequel[^ref-18]. The sequel built on its predecessor and added support for 3D acceleration hardware[^ref-2].
 
 ### Production
 
-Development of NASCAR Racing 2 focused on creating an entirely new game engine that would address the limitations of the original while pushing technical boundaries[^ref-2]. The manual credits NASCAR driver Bobby Labonte for technical racing advice and thanks NASCAR staff including Mike Helton[^ref-32].
+How new the engine really was depends on the source. Computer Gaming World called the sequel "a nearly wholly revised exercise"[^ref-44], and PC Zone wrote that "the physics model is totally different"[^ref-45]. GameSpot's 2004 retrospective disagreed on the physics, calling NASCAR 2 "an upgraded sequel in every aspect but its physics engine" whose physics nucleus "remained essentially unchanged"[^ref-39]. The manual credits NASCAR driver Bobby Labonte for technical racing advice and thanks NASCAR staff including Mike Helton[^ref-32].
 
 **Development Credits:**[^ref-1]
 - **Designers:** David D. Flamburis, Adam Levesque, Matt Marsala, John Wheeler
 - **Writer (manual and driver bios):** Steve Vandergriff[^ref-11][^ref-32]
-- **Voice Actor (Spotter):** Ronald Gaines[^ref-11]
+- **Voice Actor (Spotter/Crew Chief):** Ronald Gaines[^ref-11][^ref-32]
 
 The game's realism extended to consulting with actual NASCAR professionals. The expansion pack later featured racing advisors Elton Sawyer and Patty Moise, a husband-and-wife racing team who provided expertise on the Busch Grand National Series[^ref-19].
 
@@ -114,19 +114,19 @@ The game's realism extended to consulting with actual NASCAR professionals. The 
 
 NASCAR Racing 2 represented a significant technological advancement as the first NASCAR game to support 3D hardware acceleration[^ref-1]. The game offered 3Dfx Acceleration through DOS and Rendition acceleration through the Windows version[^ref-2]. The game offered faster SVGA graphics while maintaining the detailed physics simulation that defined the series[^ref-8].
 
-The new game engine delivered improved graphics, physics, sound, and multiplayer capabilities compared to its predecessor[^ref-2]. One GameSpot retrospective noted that "Rarely in this flighty, roller coaster industry has a single developer so mightily impacted its chosen genre" when discussing Papyrus's technical contributions to racing simulation[^ref-20].
+MobyGames' description credits the new engine with improved graphics, physics, sound and multiplayer[^ref-2], while GameSpot's 2004 history credits the redesigned interface, upgraded garage and talking crew chief rather than the physics core[^ref-39]. One GameSpot retrospective noted that "Rarely in this flighty, roller coaster industry has a single developer so mightily impacted its chosen genre" when discussing Papyrus's technical contributions to racing simulation[^ref-20].
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-21]
+**DOS Version:**[^ref-21][^ref-44]
 - **Minimum CPU:** Intel 486 66 MHz
 - **Recommended CPU:** Intel Pentium 75 MHz
 - **RAM:** 16 MB minimum
-- **Graphics:** SVGA 256 Color
+- **Graphics:** 320x200 VGA minimum; 256-color SVGA recommended
 - **Operating System:** MS-DOS 5.0
-- **Media:** CD-ROM
+- **Media:** CD-ROM (2x)
 
-**Windows Version:**[^ref-21]
+**Windows Version:**[^ref-21][^ref-44]
 - **Minimum CPU:** Intel 486 66 MHz
 - **Recommended CPU:** Intel Pentium 75 MHz
 - **RAM:** 16 MB
@@ -146,7 +146,7 @@ The new game engine delivered improved graphics, physics, sound, and multiplayer
 | 1.01 | 1997 | DOS/Windows | Later retail pressing (CD version 3.2.2.1)[^ref-23] |
 | 1.02 | 1997 | DOS/Windows | Patch for 1.00 and 1.01[^ref-23] |
 | 1.03 | 1997 | DOS/Windows | Patch for 1.00, 1.01 or 1.02[^ref-22] |
-| 3Dfx Beta | 1998 | DOS | Beta graphics update[^ref-24] |
+| 3Dfx Beta | c. 1998 | DOS | Beta graphics update (date from archive.org item metadata)[^ref-24] |
 | TEN 1.3 | Nov 1997 | Windows | TEN client release that launched NROS[^ref-25] |
 
 The 1.03 patches addressed AI, multiplayer and joystick issues, and the 1.02-to-1.03 patch also fixed Charlotte night racing, date format and standings problems[^ref-22].
@@ -167,20 +167,20 @@ Running the 3Dfx version required specific configuration. Forum user biessea doc
 
 ### Cut Content
 
-Preview coverage mentioned fantasy tracks that were not completed in time for the initial release. These tracks were planned to be released as freeware after Christmas 1996[^ref-5]. The fantasy tracks Bull Run Raceway and Red Rock International Raceway were eventually included in the Grand National Series Expansion Pack[^ref-19].
+PC Zone's review said the fantasy tracks mentioned in its preview were not finished in time for release and would be released as freeware after Christmas[^ref-45]. The fantasy tracks Bull Run Raceway and Red Rock International Raceway were eventually included in the Grand National Series Expansion Pack[^ref-19].
 
 ### Easter Eggs and Trivia
 
-- **Reverse Racing:** Players could race backwards around tracks, though this would provoke spotter comments[^ref-5]
+- **Reverse Racing:** Players could race backwards around tracks, though the spotter would lay into them for going the wrong way[^ref-46]
 - **Spotter Dialogue:** The spotter character would react to poor driving with colorful commentary like "What did you do that for! What a bonehead move!"[^ref-11]
-- **Invisible Tow Truck:** When a car was damaged, it would appear to drive itself back to the pits rather than being towed[^ref-5]
-- **Static Pit Crew:** The pit crew did not animate during pit stops[^ref-5]
+- **Invisible Tow Truck:** When a car was damaged, it would appear to drive itself back to the pits rather than being towed[^ref-46]
+- **Static Pit Crew:** The pit crew did not animate during pit stops[^ref-46]
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Spotter | Ronald Gaines[^ref-11] |
+| Spotter / Crew Chief | Ronald Gaines[^ref-11][^ref-32] |
 
 ## Legacy
 
@@ -216,18 +216,18 @@ NASCAR Racing 2 was included in several compilation releases:
 - **Le Meilleur de Sierra** (1997)[^ref-1]
 - **USA Racing Power** (1997)[^ref-1]
 - **NASCAR Racing 2 + Track Pack** (1998, Europe)[^ref-30]
-- **NASCAR Racing 2 50th Anniversary Special Edition** (announced in May 1998 for a July 1998 release)[^ref-31]
+- **NASCAR Racing 2 50th Anniversary Special Edition** (announced in spring 1998, ahead of that year's E3, for a July release)[^ref-31]
 
 ### Related Publications
 
-- **NASCAR Racing 2 Manual:** 98-page comprehensive instruction manual included with game, containing advanced setup advice and preferred racing lines for each track[^ref-32]
+- **NASCAR Racing 2 Manual:** Comprehensive instruction manual included with the game, containing advanced setup advice and preferred racing lines for each track[^ref-32]
 - **Demo Versions:** A 7MB demo featuring Atlanta and Watkins Glen tracks was distributed, requiring a Pentium system with 16 MB RAM[^ref-23]
 
 ### Critical Perspective
 
-NASCAR Racing 2 represents a pivotal moment in racing simulation history, arriving at the intersection of DOS-era gaming and the emerging 3D acceleration revolution. Papyrus Design Group's commitment to authenticity set a standard that influenced all subsequent NASCAR games and racing simulations broadly. The game's comprehensive garage system, realistic physics model, and attention to NASCAR culture elevated it beyond mere racing into what one reviewer called "a virtual representation of the entire NASCAR culture"[^ref-5].
+NASCAR Racing 2 represents a pivotal moment in racing simulation history, arriving at the intersection of DOS-era gaming and the emerging 3D acceleration revolution. Papyrus Design Group's commitment to authenticity set a standard that influenced all subsequent NASCAR games and racing simulations broadly. The game's comprehensive garage system, realistic physics model, and attention to NASCAR culture elevated it beyond mere racing into what Gamezilla's reviewer called "a virtual representation of the entire Nascar culture"[^ref-46].
 
-The Papyrus legacy continued to influence racing games long after Vivendi Universal shut the studio down in 2004[^ref-20][^ref-40]. By mid-2004 founder David Kaemmer had recovered the rights to Papyrus' racing simulation technology from Vivendi[^ref-20], and on May 28, 2004 Vivendi and Papyrus sold the NASCAR Racing 2003 Season copyrights to FIRST.net, which went on to develop iRacing using its engine[^ref-40]. The NASCAR Racing 2003 Season, the final game in the series, developed such a dedicated modding community that it remained actively played decades after release, with developer Steve Myers noting "Having seen the writing on the wall that this was going to be the end, we did release Sandbox, so that the community could build their own tracks"[^ref-15].
+The Papyrus legacy continued to influence racing games long after Vivendi Universal shut the studio down in 2004[^ref-20][^ref-40]. By mid-2004 founder David Kaemmer had recovered the rights to Papyrus' racing simulation technology from Vivendi[^ref-20], and on May 28, 2004 Vivendi and Papyrus sold the NASCAR Racing 2003 Season copyrights to FIRST.net, which went on to develop iRacing using its engine[^ref-40]. The NASCAR Racing 2003 Season, the final game in the series, developed such a dedicated modding community that it was still being played nearly two decades after release, with developer Steve Myers noting "Having seen the writing on the wall that this was going to be the end, we did release Sandbox, so that the community could build their own tracks"[^ref-15].
 
 ## Downloads
 
@@ -259,7 +259,7 @@ The Papyrus legacy continued to influence racing games long after Vivendi Univer
 [^ref-2]: [Internet Archive – NASCAR Racing 2 (MS-DOS)](https://archive.org/details/msdos_NASCAR_Racing_2_1996) – game description, engine details, 3D acceleration info
 [^ref-3]: [Wikipedia – NASCAR Racing 2](https://en.wikipedia.org/wiki/NASCAR_Racing_2) – review scores, release date, technical details
 [^ref-4]: [Amazon – NASCAR Racing 2](https://www.amazon.com/NASCAR-Racing-2-PC/dp/B00001LCDI) – GameSpot review quotes, customer reviews, product details
-[^ref-5]: [GameFabrique – NASCAR Racing 2](https://gamefabrique.com/games/nascar-racing-2/) – detailed review, bugs, technical criticisms
+[^ref-5]: GameFabrique – NASCAR Racing 2 (gamefabrique.com; cited as text only, not linked, because the site pushes a bundled download-launcher installer) – reprints the PC Zone (ref-45) and Gamezilla (ref-46) reviews without credit; its 8/10 is the site's own editor rating
 [^ref-7]: [ClassicReload – NASCAR Racing 2](https://classicreload.com/dosx-nascar-2.html) – manual details, track listing, game features
 [^ref-8]: [DOS Games Archive – NASCAR Racing 2](https://www.dosgamesarchive.com/download/nascar-racing-2) – promotional description, track count
 [^ref-9]: [MyAbandonware – NASCAR Racing 2](https://www.myabandonware.com/game/nascar-racing-2-c6r) – user ratings, game overview
@@ -270,7 +270,6 @@ The Papyrus legacy continued to influence racing games long after Vivendi Univer
 [^ref-14]: [MobyGames – NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – user reviews
 [^ref-15]: [The Athletic – NASCAR Racing Video Game History](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Dale Earnhardt Jr. quote, Steve Myers quote
 [^ref-16]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, development history
-[^ref-17]: [Sierra Gamers Forum – Sierra Company Structure](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Papyrus acquisition context
 [^ref-18]: [TEN Press Release – NASCAR Racing Online Series](http://ten.net/199706/html/12-3-96.html) – NROS announcement, official quotes, pricing
 [^ref-19]: [MobyGames – NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – expansion details, racing advisors
 [^ref-20]: [Web Archive – GameSpot Papyrus Retrospective](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – studio history, closure details
@@ -286,10 +285,12 @@ The Papyrus legacy continued to influence racing games long after Vivendi Univer
 [^ref-30]: [GameFAQs – NASCAR Racing Franchise](https://gamefaqs.gamespot.com/games/franchise/16-nascar-racing) – version history
 [^ref-31]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 50th Anniversary Edition
 [^ref-32]: [Internet Archive – NASCAR Racing 2 Manual](https://archive.org/details/NASCAR_Racing_2_-_Manual) – manual metadata
-[^ref-35]: [Sierra Gamers – NASCAR Racing 2](https://www.sierragamers.com/nascar-racing-2/) – game overview
-[^ref-36]: [The Daily Downforce – NASCAR Gaming History](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – series context
-[^ref-37]: [Avid Wiki – Sierra Sports](https://www.avid.wiki/Sierra_Sports) – publisher history
 [^ref-38]: [GameSpot – NASCAR Racing 2 Review](https://www.gamespot.com/reviews/nascar-racing-2-review/1900-2543742/) – Tim Soete review, 9.2/10
 [^ref-39]: [Web Archive – GameSpot, History of Papyrus Racing Games (page 5)](https://web.archive.org/web/20040805135144/http://www.gamespot.com:80/features/6103365/p-5.html) – 800,000 units, second-best-selling Papyrus game (2004)
 [^ref-40]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – Sierra acquisition (late 1995), 2004 closure, sale to FIRST.net, iRacing
 [^ref-41]: [MobyGames – Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) – user-written company history: "NASCAR Racing 2 was released, and 800,000 units were sold worldwide"
+[^ref-42]: [Web Archive – GameSpot, History of Papyrus Racing Games (page 3)](https://web.archive.org/web/20040805134100/http://www.gamespot.com:80/features/6103365/p-3.html) – "In IndyCar, published by Virgin rather than EA" (2004)
+[^ref-43]: [MobyGames – NASCAR Racing (1994)](https://www.mobygames.com/game/1571/nascar-racing/) – releases: Virgin Interactive as publisher; US CD-ROM v1.1 published by Papyrus Publishing, Inc., distributed by Virgin (read via the MobyGames API, 2026-10-09)
+[^ref-44]: [Computer Gaming World #152 (March 1997), pp. 156–157 – Gordon Goble, "The Great Race"](https://archive.org/details/Computer_Gaming_World_Issue_152/page/n159/mode/2up) – five stars, CG Choice; sixteen circuits, Daytona blocked by licensing; Rendition support; system requirements; $54.95
+[^ref-45]: [PC Zone #46 (January 1997), pp. 126–127 – Tim Ponting, NASCAR Racing 2 review](https://archive.org/details/PC_Zone_46_January_1997/page/n124/mode/2up) – score 92, PC Zone Classic; physics, multiplayer, niggles, fantasy tracks
+[^ref-46]: [Web Archive – Gamezilla, Nascar 2 review by Dave Shepherd (1997)](https://web.archive.org/web/19970605192639/http://www.gamezilla.com:80/reviews2/nascar2.htm) – score 88; controls, InterAction $130 wheel, options, tow truck, pit crew
