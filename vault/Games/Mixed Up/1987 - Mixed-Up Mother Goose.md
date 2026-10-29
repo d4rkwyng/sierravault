@@ -82,7 +82,7 @@ TV Tropes sums up the game's place in Sierra's catalog as "Sierra goes Lighter a
 
 Compute! reviewed the game in its April 1988 issue. Donald B. Trivette wrote that it was "great for small children and even better for nostalgic adults," praised the documentation, and concluded: "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
 
-According to Sierra On-Line, Mixed-Up Mother Goose sold over 500,000 copies by 1995.[^ref-1]
+Sierra's December 1995 *PC Gamer* advertisement for the Deluxe edition said the game had "introduced more than 500,000 little ones to the computer" (Wikipedia renders this as over 500,000 copies sold).[^ref-1][^ref-39]
 
 ### Modern Assessment
 
@@ -216,7 +216,7 @@ The CD-ROM version featured complete digitized speech, with each nursery rhyme s
 
 ### Sales and Commercial Impact
 
-Mixed-Up Mother Goose sold over 500,000 copies by 1995.[^ref-1] At the 1991 Software Publishers Association awards, Roberta Williams was honored for Best Early Education Program "for the multimedia version of Mixed-Up Mother Goose."[^ref-34]
+Sierra's December 1995 *PC Gamer* advertisement for the Deluxe edition said the game had "introduced more than 500,000 little ones to the computer" (Wikipedia renders this as over 500,000 copies sold).[^ref-1][^ref-39] At the 1991 Software Publishers Association awards, Roberta Williams was honored for Best Early Education Program "for the multimedia version of Mixed-Up Mother Goose."[^ref-34]
 
 MobyGames groups the 1991 VGA remake into the Sierra Discovery Series, alongside EcoQuest: The Search for Cetus.[^ref-2] That short-lived (1991–93) educational line also included Pepper's Adventures in Time.[^ref-25]
 
@@ -301,3 +301,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"
 [^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
 [^ref-38]: [MobyGames – Mixed-Up Mother Goose credits, DOS (entry 1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) – "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
+[^ref-39]: [PC Gamer US #19, December 1995 (archive.org scan)](https://archive.org/details/pc-gamer-usa-019-december-1995) – Sierra ad, p.62: Mixed-Up Mother Goose Deluxe "has introduced more than 500,000 little ones to the computer"
