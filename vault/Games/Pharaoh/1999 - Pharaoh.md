@@ -8,16 +8,16 @@ genre: City-Building
 platforms: [Windows]
 series: Pharaoh
 engine: Caesar III engine
-protagonist: Egyptian Governor (player-named)
+protagonist: Player's family lineage (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Pharaoh is an isometric city-building game set in ancient Egypt, developed
   by Impressions Games and published by Sierra Studios for Windows in November 1999.
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Eurogamer reported that after Caesar III, "Impressions decided it was time for a
 > **Platforms:** Windows[^ref-1][^ref-13]
 > **Release Year:** 1999 (NA 2 November 1999)[^ref-1]
 > **Series:** Pharaoh
-> **Protagonist:** Egyptian Governor (player-named)
+> **Protagonist:** Player's family lineage (player-named)[^ref-11][^ref-25]
 > **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
@@ -58,7 +58,7 @@ The game offers two modes, campaign and free-build; free-build provides around a
 
 ### Puzzles and Mechanics
 
-Pharaoh introduces several mechanics specific to its Egyptian setting, including the annual flooding of the Nile, monument construction and a religious system tied to festivals and temples[^ref-14]. Raw materials such as clay, reeds and stone are processed into goods and traded with other cities[^ref-1]. Players on the Heaven Games forums have documented walker limits: most service walkers can walk a maximum of 326.4 tiles, while bazaar buyers only purchase goods within a 40-tile range[^ref-15]. Eurogamer warned that "many of those missions can take you days to complete"[^ref-12].
+Pharaoh introduces several mechanics specific to its Egyptian setting, including the annual flooding of the Nile, monument construction[^ref-14] and a religious system tied to festivals and temples[^ref-1][^ref-10]. Raw materials such as clay, reeds and stone are processed into goods and traded with other cities[^ref-1]. Players on the Heaven Games forums have documented walker limits: most service walkers can walk a maximum of 326.4 tiles, while bazaar buyers only purchase goods within a 40-tile range[^ref-15]. Eurogamer noted, approvingly, that "many of those missions can take you days to complete"[^ref-12].
 
 Floodplain farms built near the Nile are a new feature, and irrigation ditches can increase the fertility of farmland[^ref-1]. GameSpot noted that the regular flooding demands players produce or import enough food to last through the flood season, and that a poor inundation can lead to bad irrigation and food shortages[^ref-14].
 
@@ -78,7 +78,7 @@ The game has five gods to appease: Ra (the kingdom), Bast (the home), Osiris (ag
 
 ## Monument Construction
 
-Monuments are new to the series: they can be built on a variety of missions, require worker facilities and building materials, and, unlike most other buildings, take time to be built[^ref-1]. GameSpot noted that most missions require monuments, which "get larger and more costly as you progress"[^ref-14]. Because the game avoids slavery, the labour has to come from work camps whose workers are housed and paid each month[^ref-17].
+Monuments are new to the series: they can be built on a variety of missions, require worker facilities and building materials, and, unlike most other buildings, take time to be built[^ref-1]. GameSpot noted that most missions require monuments, which "get larger and more costly as you progress"[^ref-14].
 
 ## Reception
 
@@ -92,11 +92,11 @@ Monuments are new to the series: they can be built on a variety of missions, req
 | PC Gamer (US) | 83% | Reviewed by Andrew S. Bub[^ref-1] |
 | Eurogamer | 7/10 | Reviewed by John "Gestalt" Bye[^ref-1] |
 | GameRankings | 82.45% | Aggregate based on 29 reviews[^ref-18] |
-| jeuxvideo.com | 17/20 | Praised the clarity of the city management[^ref-19] |
+| jeuxvideo.com | 17/20 | Praised its clear, precise controls and exemplary ergonomics[^ref-19] |
 
 ### Modern Assessment
 
-GameSpot's Ron Dulin concluded that "Pharaoh is slow-paced but addictive and is immensely complex but incredibly easy to play"[^ref-14]. IGN gave the game its Editors' Choice award[^ref-17], and the Academy of Interactive Arts & Sciences named it a finalist for Outstanding Achievement in Art Direction at the 3rd Annual Interactive Achievement Awards[^ref-1]. Modern retrospectives have been more critical: Jimmy Maher wrote that he "desperately wanted to love Pharaoh" but cited "the excruciating worker-recruitment system" and "the drawn-out, repetitive campaign"[^ref-20]. As of October 2026 the GOG.com Pharaoh + Cleopatra release holds a 4.7/5 rating from 332 user reviews[^ref-7].
+GameSpot's Ron Dulin concluded that "Pharaoh is slow-paced but addictive and is immensely complex but incredibly easy to play"[^ref-14]. The Academy of Interactive Arts & Sciences named it a finalist for Outstanding Achievement in Art Direction at the 3rd Annual Interactive Achievement Awards[^ref-1]. Jimmy Maher's 2025 retrospective was more critical: he wrote that he "desperately wanted to love Pharaoh" but cited "the excruciating worker-recruitment system" and "the drawn-out, repetitive campaign"[^ref-20]. As of October 2026 the GOG.com Pharaoh + Cleopatra release holds a 4.7/5 rating from 334 user reviews[^ref-7].
 
 ### Sales
 
@@ -118,7 +118,7 @@ Pharaoh was released in North America on 2 November 1999 and in the UK on 19 Nov
 
 ## Legacy
 
-Pharaoh was followed by the Cleopatra: Queen of the Nile expansion in 2000, developed by BreakAway Games[^ref-23]. GameSpot found that the expansion "adds more of just about everything, from imports to monuments"[^ref-23], and Wikipedia notes it extended the campaign into the Hellenistic period; the two were bundled as Pharaoh Gold in 2001[^ref-1]. The next City Building game, Zeus: Master of Olympus, is considered in most respects very similar to Pharaoh[^ref-1], and Jimmy Maher wrote that it "fixed all of these problems and more"[^ref-20].
+Pharaoh was followed by the Cleopatra: Queen of the Nile expansion in 2000, developed by BreakAway Games[^ref-23]. GameSpot found that the expansion "adds more of just about everything, from imports to monuments"[^ref-23], and Wikipedia notes it extended the campaign into the Hellenistic period; the two were bundled as Pharaoh Gold in 2001[^ref-1]. The next City Building game, Zeus: Master of Olympus, is considered in most respects very similar to Pharaoh[^ref-1], and Jimmy Maher wrote that it looks like Zeus "fixed all of these problems and more"[^ref-20].
 
 A remake, Pharaoh: A New Era, was released by Triskell Interactive and Dotemu on 15 February 2023[^ref-1].
 
@@ -130,6 +130,8 @@ A remake, Pharaoh: A New Era, was released by Triskell Interactive and Dotemu on
 
 **Download / Preservation**
 - [Pharaoh Demo (Internet Archive)](https://archive.org/details/PharaohDemo) – official three-mission demo
+
+**Manuals & Extras**
 - [Pharaoh manual (PDF, Wayback Machine)](https://web.archive.org/web/20200827112813/http://sierrahelp.com/Documents/Manuals/Pharaoh_-_Manual.pdf)
 
 ## See Also
@@ -158,5 +160,5 @@ A remake, Pharaoh: A New Era, was released by Triskell Interactive and Dotemu on
 [^ref-19]: [Jeuxvideo.com – Test: Pharaon](https://www.jeuxvideo.com/articles/0000/00000335_test.htm) – French review score, mission count, documentary research
 [^ref-20]: [The Digital Antiquarian – It's 1999 and I Feel Fine](https://www.filfre.net/2025/06/its-1999-and-i-feel-fine/) – Jimmy Maher's assessment of Pharaoh and Zeus
 [^ref-23]: [GameSpot – Cleopatra Review](https://www.gamespot.com/reviews/cleopatra-review/1900-2610569/) – expansion developed by BreakAway Games
-[^ref-25]: [Pharaoh manual (Sierra Studios, archived PDF)](https://web.archive.org/web/20200827112813/http://sierrahelp.com/Documents/Manuals/Pharaoh_-_Manual.pdf) – credits and installation options
+[^ref-25]: [Pharaoh manual (Sierra Studios, archived PDF)](https://web.archive.org/web/20200827112813/http://sierrahelp.com/Documents/Manuals/Pharaoh_-_Manual.pdf) – credits, installation options and player-named family registry
 [^ref-26]: [Steam – Pharaoh + Cleopatra](https://store.steampowered.com/app/564530/) – original game currently sold as Pharaoh + Cleopatra
