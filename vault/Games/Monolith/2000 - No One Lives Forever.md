@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech 2.5
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: 'The Operative: No One Lives Forever is a story-driven 1960s spy first-person
   shooter developed by Monolith Productions and published by Fox Interactive in November
   2000, starring UNITY agent Cate Archer.'
@@ -18,7 +18,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # The Operative: No One Lives Forever
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ No One Lives Forever combines a fantastic sense of style with great animation an
 
 The game opens in 1967, with Cate Archer working as a low-level operative for UNITY, an international espionage organization dedicated to world peace.[^ref-10] As Craig Hubbard described her, Archer is "a young woman from a challenging background—a privileged child who then got put out on the streets," a former thief recruited into UNITY who "has to prove herself" because nobody thinks she is up to the task.[^ref-40] Because of her gender, she must deal not only with the villains but also "with the prejudices and constant second-guessing of her own agency."[^ref-32]
 
-Cate finally gets her break when UNITY's field agents begin being systematically assassinated by the terrorist organization H.A.R.M. With experienced operatives in short supply, UNITY's leadership pulls Archer off the bench and assigns her to investigate the murders of her colleagues.[^ref-13] Her mission takes her across exotic international locales including Morocco, Germany, the Alps, and even a secret underwater facility, as she uncovers H.A.R.M.'s apocalyptic plot for global domination.[^ref-2] Throughout her missions, she must skydive from a burning jetliner, fight feisty sharks, and protect a near-deaf world leader from assassination.[^ref-14]
+Cate gets her chance when UNITY discovers that over half of its elite agents have been killed by Dmitrij Volkov, a Russian assassin working for the terrorist organization H.A.R.M.; UNITY's leaders, Jones and Smith, bring up Cate and her mentor Bruno Lawrie to investigate H.A.R.M.[^ref-1] Her missions take her across exotic locales including Morocco, the Alps, East Berlin and a space station, as she uncovers H.A.R.M.'s plot.[^ref-2] Throughout her missions, she must skydive from a burning jetliner, fight feisty sharks, and protect a near-deaf world leader from assassination.[^ref-14]
 
 The narrative is populated by memorable villains and colorful characters including the Scottish demolitions expert Magnus Armstrong,[^ref-5] the sinister Russian operative Dmitrij Volkov, and the eccentric Baron Archibald Dumas and his wife.[^ref-15] What sets the story apart from typical shooter fare is its sharp writing and strong characterization—the acting is so good and the dialogue often so sharp that it casts a pall over memories of previous action games.[^ref-4] The game maintains a tongue-in-cheek tone while still presenting genuinely compelling stakes; as lead designer Craig Hubbard noted, "The primary difference is that Austin Powers is a spoof. NOLF isn't. Sure, it's campy and silly, but the underlying premise borders on apocalyptic."[^ref-16]
 
@@ -53,7 +53,7 @@ The story concludes with Archer confronting the leadership of H.A.R.M. and provi
 
 ### Interface and Controls
 
-No One Lives Forever is a first-person shooter that enables players to use a healthy combination of stealth and all-out gunning, with multiple choices to solve mission objectives unlike any game before it.[^ref-18] The game takes the enemy artificial intelligence of Half-Life, the stealth features of Thief: The Dark Project, and the gadgetry of GoldenEye 007 and combines them with a colorful 1960s setting and a sense of humor.[^ref-4] Players navigate environments from Cate's perspective, utilizing both traditional firearms and an arsenal of spy gadgets disguised as feminine fashion items including lipstick grenades, perfume that doubles as a sleeping gas, and a lockpicking barrette.[^ref-19][^ref-2]
+Vivendi Universal and Fox Interactive's 2001 publishing announcement described No One Lives Forever as a first-person shooter that "enables players to use a healthy combination of stealth and all-out gunning with multiple choices to solve mission objectives unlike any game before it."[^ref-18] The game takes the enemy artificial intelligence of Half-Life, the stealth features of Thief: The Dark Project, and the gadgetry of GoldenEye 007 and combines them with a colorful 1960s setting and a sense of humor.[^ref-4] Players navigate environments from Cate's perspective, utilizing both traditional firearms and an arsenal of spy gadgets disguised as feminine fashion items including lipstick grenades, perfume that doubles as a sleeping gas, and a lockpicking barrette.[^ref-19][^ref-2]
 
 The control scheme supports keyboard, mouse, gamepad, and joystick inputs.[^ref-8] The Game of the Year Edition readme documents a Hardware Cursor option under the display settings and notes that, because of the huge number of weapons and gadgets, some players rebind their keys every few missions.[^ref-20] The game features both quicksave and regular save functionality on PC, though notably the PlayStation 2 port lacked the quicksave feature, drawing criticism from reviewers.[^ref-1]
 
@@ -114,8 +114,9 @@ A Eurogamer retrospective offered a bittersweet assessment: "You simply couldn't
 **Aggregate Scores:**
 - **Metacritic (PC):** 91/100 (32 critics)[^ref-52]
 - **Metacritic (PS2):** 67/100 (23 critics)[^ref-26]
-- **MobyGames (PC):** 7.9/10[^ref-8]
-- **MobyGames (PS2):** 70%[^ref-22]
+- **MobyGames (PC):** 8.4/10 (153 votes, as of October 2026)[^ref-56]
+- **MobyGames (Game of the Year Edition):** 8.1/10 (as of October 2026)[^ref-8]
+- **MobyGames (PS2):** 6.5/10 (as of October 2026)[^ref-22]
 - **IMDB:** 8.7/10 (740 ratings)[^ref-15]
 - **MyAbandonware:** 4.6/5 (243 votes)[^ref-14]
 - **OldGames.sk:** 85%[^ref-9]
@@ -182,7 +183,7 @@ The AI system received particular praise, with enemies exhibiting believable pat
 
 ### Cut Content
 
-The original male protagonist Adam Church was cut during pre-production when the game's direction changed.[^ref-1][^ref-5] PC Gamer notes there "may have been legal reasons" for the full title,[^ref-21] and Samantha Ryan has mentioned "conflicts with the Bond license over the title";[^ref-54] Eurogamer describes "No One Lives Forever" as intended to be a James Bond-style episode title.[^ref-31] The PlayStation 2 version removed the multiplayer mode and did not include the Game of the Year Edition's bonus mission "Rest and Relaxation," though it compensated with the exclusive prequel episode.[^ref-22]
+The original male protagonist Adam Church was cut during pre-production when the game's direction changed.[^ref-1][^ref-5] PC Gamer notes there "may have been legal reasons" for the full title,[^ref-21] and Game Developer's report on a talk by producer Samantha Ryan lists conflicts with the Bond license over the title among the challenges of the game's development;[^ref-54] Eurogamer describes "No One Lives Forever" as intended to be a James Bond-style episode title.[^ref-31] The PlayStation 2 version removed the multiplayer mode and did not include the Game of the Year Edition's bonus mission "Rest and Relaxation," though it compensated with the exclusive prequel episode.[^ref-22]
 
 ### Version History
 
@@ -221,7 +222,7 @@ Save games from version 1.0 are incompatible with updated versions.[^ref-24] The
 
 ### Easter Eggs and Trivia
 
-- **Jenny's Number:** In a cutscene in the mission "The Dive," a submarine bears the designation "5675-309"—likely a nod to Tommy Tutone's 1980s hit "867-5309/Jenny"[^ref-43]
+- **Jenny's Number:** In a cutscene in the mission "The Dive," a submarine's designation echoes "867-5309" from the 1980s song "867-5309/Jenny"; the Easter Egg Database entry gives it as "5675 - 309", but its submitter later commented that the extra "5" was his typo[^ref-43]
 - **Unacceptable Simian Casualties:** Killing the monkey in Morocco triggers a unique "Mission Failed" screen stating "unacceptable simian casualties"[^ref-17]
 - **The Prisoner Reference:** Overheard conversation mentioning The Prisoner TV series starting "next week" establishes the game takes place in 1967[^ref-15]
 - **Goat Romance:** Players can stumble upon a lackey romancing his favorite goat[^ref-15]
@@ -255,7 +256,7 @@ The voice work received exceptional praise, with critics noting that "the acting
 
 ### Sales and Commercial Impact
 
-The game sold 36,501 copies by the end of 2000, generating $1.32 million in revenue.[^ref-1] Sales grew substantially through word of mouth and critical acclaim, reaching 350,000 copies by January 2002.[^ref-1] The Game of the Year Edition, published by Sierra Entertainment, helped extend the game's commercial lifespan. One MyAbandonware reviewer recalled buying a copy from a bargain bin for $10.[^ref-14]
+The game sold 36,501 copies by the end of 2000, generating $1.32 million in revenue.[^ref-1] By January 2002, total sales had reached 350,000 copies.[^ref-1] The Game of the Year Edition was published by Sierra Entertainment.[^ref-8] One MyAbandonware reviewer recalled buying a copy from a bargain bin for $10.[^ref-14]
 
 ### Awards
 
@@ -276,7 +277,7 @@ The Game of the Year Edition (2001) included:[^ref-8]
 - Complete source code and map editor
 - Additional multiplayer maps
 
-The game was also bundled with various PC gaming packages through Sierra and appeared in value compilations during the early 2000s.
+The Game of the Year Edition later appeared in budget compilations: *Action Pack* (2002, UK; Sierra Entertainment and Fox Interactive), alongside Aliens Versus Predator: Gold Edition and Die Hard: Nakatomi Plaza,[^ref-57] and the US *Action Pack - 4 Killer Action Games!* (2003, Sierra), which added Gunman Chronicles.[^ref-58]
 
 ### Fan Projects
 
@@ -290,13 +291,13 @@ The game has maintained an active modding community despite its commercial unava
 
 Rock Paper Shotgun's John Walker reported playing community-patched versions at resolutions like 3440x1440.[^ref-42]
 
-Source code was officially released on May 15, 2001 alongside modding tools, enabling extensive community modifications.[^ref-39] After GameSpy multiplayer support was discontinued in May 2014, the community developed alternative solutions to maintain online play.[^ref-45]
+Monolith released the NOLF Tools (including the DEdit world editor and ModelEdit) on January 12, 2001, and the source code for version 1.003 on June 20, 2001.[^ref-24] After GameSpy multiplayer support was discontinued in May 2014, the community developed alternative solutions to maintain online play.[^ref-45]
 
 Night Dive Studios attempted to secure rights for an official re-release, managing to obtain the source code for both the first and second games.[^ref-47] However, the complex ownership situation—split between Fox Interactive's former holdings, Activision's acquisitions, and Warner Bros.' ownership of Monolith—prevented any official release. As Night Dive's Larry Kuperman described it: "The image I get is the end of Indiana Jones... somewhere in a box, maybe in the bowels of Activision."[^ref-47] Despite setbacks, Night Dive CEO Stephen Kick maintains hope: "Never give up. We don't give up."[^ref-48]
 
 ### Related Publications
 
-- **No One Lives Forever Prima's Official Strategy Guide:** Written by Steve Honewell, 205 pages, ISBN: 7615-2814-8. Provides comprehensive breakdown of characters, equipment, and intelligence items.[^ref-49]
+- **No One Lives Forever Prima's Official Strategy Guide:** Written by Steve Honeywell, published by Prima Games in 2000, 205 pages, ISBN 0-7615-2814-8.[^ref-55] Provides comprehensive breakdown of characters, equipment, and intelligence items.[^ref-49]
 - **In The Lounge with No One Lives Forever:** The game's second disc, featuring 8 exclusive tracks inspired by the 1960s plus 2 tracks from the Fox Interactive & Indiespace.com music search.[^ref-50][^ref-41]
 
 ### Critical Perspective
@@ -336,10 +337,9 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-5]: [Hardcore Gaming 101 – No One Lives Forever](http://www.hardcoregaming101.net/the-operative-no-one-lives-forever/) – historical analysis, development context
 [^ref-6]: [Eurogamer Review](http://www.eurogamer.net/articles/r_nolf) – 8/10 score, Bond film comparisons
 [^ref-7]: [PCGamingWiki – The Operative: No One Lives Forever](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – licensing issues, technical information
-[^ref-8]: [MobyGames – Game of the Year Edition](https://www.mobygames.com/game/5110/the-operative-no-one-lives-forever-game-of-the-year-edition/) – publisher information, technical specs
+[^ref-8]: [MobyGames – Game of the Year Edition](https://www.mobygames.com/game/5110/the-operative-no-one-lives-forever-game-of-the-year-edition/) – publisher information, technical specs; 8.1/10 score read via the MobyGames API, October 2026
 [^ref-9]: [OldGames.sk – No One Lives Forever](https://www.oldgames.sk/en/game/no-one-lives-forever/download/9706/) – engine details, rating
 [^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/913839-the-operative-no-one-lives-forever/faqs/26950) – gameplay details
-[^ref-13]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Operative:+No+One+Lives+Forever&gid=3318) – story summary
 [^ref-14]: [MyAbandonware – No One Lives Forever](https://www.myabandonware.com/game/the-operative-no-one-lives-forever-7q4) – user reviews, known issues
 [^ref-15]: [IMDB – The Operative: No One Lives Forever](https://www.imdb.com/title/tt0267786/) – voice cast, trivia, rating
 [^ref-16]: [GameSpot NOLF2 Preview Q&A](https://www.gamespot.com/articles/no-one-lives-forever-2-a-spy-in-harms-way-qanda/1100-2866853/) – Craig Hubbard quotes
@@ -348,9 +348,9 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-19]: [Kakuchopurei Retrospective](https://www.kakuchopurei.com/2025/03/the-operative-no-one-lives-forever-retrospective/) – gadget analysis
 [^ref-20]: [Abandonware DOS Readme](https://www.abandonwaredos.com/docawd.php?sf=nlf1readme.txt&st=other&sg=The+Operative:+No+One+Lives+Forever&idg=3318) – technical specifications
 [^ref-21]: [PC Gamer Review](https://www.pcgamer.com/no-one-lives-forever-review/) – Daniel Morris review, 84/100
-[^ref-22]: [MobyGames – PS2 Version](https://www.mobygames.com/game/101095/the-operative-no-one-lives-forever/) – PS2 exclusive content
+[^ref-22]: [MobyGames – PS2 Version](https://www.mobygames.com/game/101095/the-operative-no-one-lives-forever/) – PS2 exclusive content; 6.5/10 score read via the MobyGames API, October 2026
 [^ref-23]: [The Spoiler Walkthrough](https://coregamers.com/walkthrough/the-operative-no-one-lives-forever) – randomized items
-[^ref-24]: [Blue's News .plan Files](http://www.bluesnews.com/cgi-bin/finger.pl?id=388&time=20010620190651) – patch notes, bug fixes
+[^ref-24]: [Blue's News .plan Files](http://www.bluesnews.com/cgi-bin/finger.pl?id=388&time=20010620190651) – Monolith's NOLF team .plan: patch notes, bug fixes, tools (1/12/2001) and v1.003 source code (6/20/2001) releases
 [^ref-25]: [Glitchwave Review](https://glitchwave.com/game/the-operative-no-one-lives-forever/) – feminist analysis
 [^ref-26]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
 [^ref-27]: [IGN PS2 Review (Archived, 2002)](https://web.archive.org/web/20020603175227/http://ps2.ign.com:80/articles/357/357880p1.html) – Douglass C. Perry review, 6.9/10
@@ -368,7 +368,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-40]: [3D Action Planet Interview (Archived)](https://web.archive.org/web/20000831053552/http://www.3dactionplanet.com/features/interviews/hubbard/) – Craig Hubbard on Cate Archer's backstory and multiplayer, June 2000
 [^ref-41]: [Blue's News – Music CD Press Release](http://www.bluesnews.com/a/88) – music search winners, Best Buy remix CD, November 10 release date
 [^ref-42]: [Rock Paper Shotgun](https://www.rockpapershotgun.com/no-one-will-sell-no-one-lives-forever-so-lets-download-it) – technical issues
-[^ref-43]: [Easter Egg Database](https://eeggs.com/items/19762.html) – submarine "5675 - 309" easter egg
+[^ref-43]: [Easter Egg Database](https://eeggs.com/items/19762.html) – submarine "5675 - 309" easter egg; submitter's comment: "You're right 867 5309 was Jenny's number… That "5" is my typo error"
 [^ref-44]: [Interactive Achievement Awards 2001](http://www.interactive.org/awards/2001_4th_awards.asp) – award nominations
 [^ref-45]: [Unity HQ Forums](https://nolfgirl.net/Unityhq/forums/files/category/13-mods/) – modding community
 [^ref-46]: GamePressure – "The Operative: No One Lives Forever – Widescreen Patch v2.0" mod page (cited as text only; the page's sidebar promotes adult mods) – mod information
@@ -378,4 +378,8 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-50]: [Discogs – Soundtrack](https://www.discogs.com/release/3173191-Various-The-Operative-No-One-Lives-Forever) – album information
 [^ref-52]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
 [^ref-53]: [Armchair Empire – No One Lives Forever 2 Interview (Archived, 2002)](https://web.archive.org/web/20020623131413/http://www.armchairempire.com:80/Interviews/no-one-lives-forever-2-interview.htm) – Craig Hubbard "sillier" quote
-[^ref-54]: [Game Developer – IGDA Forum: WB's Ryan On What It Takes](https://www.gamedeveloper.com/game-platforms/igda-forum-wb-s-ryan-on-what-it-takes) – Samantha Ryan on Monolith being "two weeks from death" and the title's Bond conflict
+[^ref-54]: [Game Developer – IGDA Forum: WB's Ryan On What It Takes](https://www.gamedeveloper.com/game-platforms/igda-forum-wb-s-ryan-on-what-it-takes) – Samantha Ryan on Monolith being "two weeks from death"; the article's own summary mentions the title's Bond-license conflicts
+[^ref-55]: [Open Library – No One Lives Forever: Prima's Official Strategy Guide](https://openlibrary.org/books/OL24941928M) – Steve Honeywell, Prima Games, 2000, 205 pages, ISBN 0761528148 (read via the Open Library ISBN API)
+[^ref-56]: [MobyGames – The Operative: No One Lives Forever](https://www.mobygames.com/game/2617/the-operative-no-one-lives-forever/) – Windows original, 8.4/10 from 153 votes (read via the MobyGames API, October 2026)
+[^ref-57]: [MobyGames – Action Pack (2002)](https://www.mobygames.com/game/27426/action-pack/) – budget FPS compilation with NOLF GOTY Edition; UK release by Sierra Entertainment and Fox Interactive (read via the MobyGames API)
+[^ref-58]: [MobyGames – Action Pack - 4 Killer Action Games!](https://www.mobygames.com/game/21974/action-pack-4-killer-action-games/) – 2003 US compilation including NOLF GOTY Edition and Gunman Chronicles (read via the MobyGames API)
