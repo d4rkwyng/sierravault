@@ -10,15 +10,15 @@ series: The Incredible Machine
 engine: Custom physics engine
 protagonist: None (player-driven)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'The Incredible Machine: Even More Contraptions is a 2001 Dynamix puzzle
-  game for Windows and Mac that adds 250 puzzles to the engine of Return of the Incredible
-  Machine: Contraptions.'
+  game for Windows, Mac and Palm OS with 250 puzzles, 200 of them new, built on the engine
+  of Return of the Incredible Machine: Contraptions.'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine: Even More Contraptions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ The scenarios use household objects, animals and outlandish devices. GameSpot li
 
 ### Interface and Controls
 
-The Incredible Machine: Even More Contraptions is controlled with keyboard and mouse.[^ref-1] Players place the limited set of parts each puzzle provides into a partially assembled contraption, then press the start button to see whether the chain reaction works; there are no penalties for failed attempts.[^ref-7] GameSpot called the point-and-click interface intuitive.[^ref-7] PC Zone found part selection fiddly, noting that the cursor "won't always be the piece you want", a problem it said also affected the previous game.[^ref-38]
+The Incredible Machine: Even More Contraptions is controlled with keyboard and mouse.[^ref-1] Players place the limited set of parts each puzzle provides into a partially assembled contraption, then press the start button to see whether the chain reaction works; there are no penalties for failed attempts.[^ref-7] GameSpot called the point-and-click interface intuitive.[^ref-7] PC Zone found part selection fiddly, noting that the cursor "won't always be the piece you want", a problem it said "plagues the original too".[^ref-38]
 
 Hardcore Gaming 101 notes that the Contraptions games split the parts into categories in freeform mode and give every part a help button that shows a close-up and explains how it works.[^ref-11]
 
@@ -94,14 +94,14 @@ Players have left nostalgic comments on MyAbandonware, including "This game was 
 - **MobyGames:** 7.9/10[^ref-1]
 - **GameSpot:** 7.6/10[^ref-7]
 - **GameRankings:** 76.00%[^ref-3]
-- **Glitchwave:** 3.56/5.0[^ref-23]
-- **MyAbandonware:** 4.59/5 (61 votes)[^ref-22]
+- **Glitchwave:** 3.50/5.0 (18 ratings, as of October 2026)[^ref-23]
+- **MyAbandonware:** 4.6/5 (62 votes, as of October 2026)[^ref-22]
 
 ## Development
 
 ### Origins
 
-The Incredible Machine series began in 1992 at Jeff Tunnell Productions, the smaller studio [[Jeff Tunnell]] founded that year after stepping down as head of Dynamix, where designer [[Kevin Ryan]] built the first game's physics engine[^ref-40]; it was made on a budget of $36,000.[^ref-15] Inspired by Rube Goldberg's cartoons of absurdly complicated machines, the series went on to release seven more titles over nine years.[^ref-9]
+The Incredible Machine series began in 1992 at Jeff Tunnell Productions, the smaller studio [[Jeff Tunnell]] founded that year after stepping down as head of Dynamix. He recruited longtime Dynamix programmer [[Kevin Ryan]], who built the first game's physics engine at the new studio, drawing on his years of writing vehicle simulators.[^ref-40] According to Wikipedia, citing Tunnell's Matt Chat interview, Ryan programmed the first game in nine months on a budget of about $36,000.[^ref-3] Inspired by Rube Goldberg's cartoons of absurdly complicated machines, the series went on to release seven more titles over nine years.[^ref-9]
 
 Even More Contraptions was a direct continuation of Return of the Incredible Machine: Contraptions, released a year earlier in 2000.[^ref-4] Kevin Ryan and Jeffrey Tunnell are both credited with additional design on Even More Contraptions.[^ref-1]
 
@@ -113,7 +113,7 @@ The game was developed by Dynamix, Inc. and published by Sierra.[^ref-1] Its gam
 - **Designer/Art Director:** Brian Hahn
 - **Contraption Design:** Neil Witkin, Jared W. Eden, Richard Tunnell, Garrett Turner
 - **Additional Design:** includes Kevin Ryan and Jeffrey Tunnell
-- **Original Series Designer:** Kevin Ryan[^ref-15]
+- **Original Series Design:** MobyGames credits Kevin Ryan and Jeffrey Tunnell as designers of the 1992 original.[^ref-36] In a 2019 comment on The Digital Antiquarian, Ryan wrote that Tunnell "presented the concept to me, but he didn't do the design except for feedback as dev went along."[^ref-40]
 
 ### Technical Achievements
 
@@ -149,7 +149,7 @@ The game introduced the WonSwap service, allowing players to share homemade puzz
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 28, 2001 or September 14, 2001 | Windows | Sources disagree: GameSpot and Gamepressure give August 28;[^ref-7][^ref-4] Metacritic and GameFAQs give September 14[^ref-5][^ref-30] |
+| 1.0 | August 28, 2001 or September 14, 2001 | Windows | Sources disagree: GameSpot and Gamepressure give August 28;[^ref-41][^ref-4] Metacritic and GameFAQs give September 14[^ref-5][^ref-30] |
 | 1.0 | 2001 | Mac OS | Macintosh release[^ref-1] |
 | 1.0 | 2001 | Palm OS | Palm Pilot version with its own parts and puzzles[^ref-3] |
 | Mega Pack | October 1, 2009 | Windows | Included in digital compilation from PushButton Labs/Disney Interactive[^ref-31] |
@@ -234,7 +234,7 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 
 [^ref-5]: [Metacritic – The Incredible Machine: Even More Contraptions](https://www.metacritic.com/game/the-incredible-machine-even-more-contraptions/) – release date, All Game Guide review, GameZone review
 
-[^ref-7]: [GameSpot – The Incredible Machine: Even More Contraptions Review](https://www.gamespot.com/reviews/the-incredible-machine-even-more-contraptions-revi/1900-2816397/) – Trey Walker, October 4, 2001, 7.6; puzzles, parts, hints, head-to-head puzzles; first released Aug 28, 2001
+[^ref-7]: [GameSpot – The Incredible Machine: Even More Contraptions Review](https://www.gamespot.com/reviews/the-incredible-machine-even-more-contraptions-revi/1900-2816397/) – Trey Walker, October 4, 2001, 7.6; puzzles, parts, hints, head-to-head puzzles
 
 [^ref-9]: [TV Tropes – The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) – series overview, Doctorate of Contrapology, mouse-and-alligator puzzle, physics oddities
 
@@ -243,8 +243,6 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 [^ref-13]: [GameFAQs – Even More Contraptions FAQ](https://gamefaqs.gamespot.com/pc/536228-the-incredible-machine-even-more-contraptions/faqs/36199) – Lord_Seth walkthrough, difficulty comparison
 
 [^ref-14]: [Speedrun.com – The Incredible Machine: Even More Contraptions](https://www.speedrun.com/timemc) – speedrun records, categories
-
-[^ref-15]: [ClassicReload – The Incredible Machine](https://classicreload.com/dosx-the-incredible-machine.html) – development budget, Kevin Ryan, Dynamix collaboration
 
 [^ref-16]: [Old-Games.com – The Incredible Machine: Even More Contraptions](https://www.old-games.com/download/6699/incredible-machine-the-even-more) – parts description
 
@@ -270,11 +268,13 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 
 [^ref-35]: [SuperCheats – Cheats](https://www.supercheats.com/pc/theincrediblemachineevenmorecontraptions.htm) – cheat codes, passwords
 
-[^ref-36]: [MobyGames – The Incredible Machine (Original)](https://www.mobygames.com/game/2473/the-incredible-machine/) – awards, hall of fame, 1001 Games list
+[^ref-36]: [MobyGames – The Incredible Machine (Original)](https://www.mobygames.com/game/2473/the-incredible-machine/) – awards, hall of fame, 1001 Games list; designer credits Kevin Ryan, Jeffrey Tunnell
 
 [^ref-37]: [Wired – Contraption Maker Article](https://www.wired.com/2013/05/contraption-maker/) – Spotkin, Jeff Tunnell quote, iOS version history
 
 [^ref-38]: [PC Zone #106 (September 2001), p. 74 – Internet Archive](https://archive.org/details/PC_Zone_Issue_106_2001-09_Dennis_Publishing_GB) – James Lyon's review: "210 levels plus a helpful 50 tutorials", "worth 47 per cent if you've already got its predecessor"
 
 [^ref-39]: [Contraption Maker blog - Old Team, Exciting New Product (Wayback)](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) – Jeff Tunnell, May 13, 2013: "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin)"
-[^ref-40]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher (2018): Tunnell stepped down at Dynamix to found Jeff Tunnell Productions in early 1992; Kevin Ryan's simulator experience behind the physics
+[^ref-40]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher (2018): Tunnell stepped down at Dynamix to found Jeff Tunnell Productions in early 1992; Kevin Ryan's simulator experience behind the physics; Ryan's own comment (February 25, 2019) on the design credit
+
+[^ref-41]: [GameSpot – The Incredible Machine: Even More Contraptions](https://www.gamespot.com/games/the-incredible-machine-even-more-contraptions/) – game page: "First Release August 28, 2001", PC, Mac
