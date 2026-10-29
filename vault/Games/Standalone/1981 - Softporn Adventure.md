@@ -10,7 +10,7 @@ series: Standalone
 engine: Applesoft BASIC
 protagonist: Unnamed male protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Softporn Adventure is Chuck Benton's 1981 adult-oriented comedy text adventure,
   published by On-Line Systems as Sierra's only non-graphic game and later remade as Leisure
   Suit Larry in the Land of the Lounge Lizards.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, standalone]
 ---
 # Softporn Adventure
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ The game is set in the year 2020 A.D., presenting a satirical dystopian future w
 
 The player takes on the role of an unnamed male protagonist whose singular objective is to "score" with three different women before the night is over.[^ref-13][^ref-14] Gary Thompson's manual for his later DOS version states bluntly: "Your objective is to 'score' three times. You must hunt down your female prey and do your thing."[^ref-14] Each woman has a distinct personality and requires different approaches and items to win her affections. The three main locations—a bar, a casino, and a disco—serve as hunting grounds where the player must gather items and solve puzzles to progress.[^ref-19]
 
-Chuck Benton has said parts of the game were semi-autobiographical; his company biography says he wrote an adventure game "that parodied the dilemmas of the young single male," and he has never said which parts were drawn from his own experience.[^ref-5][^ref-6] The game's narrative, while crude by modern standards, represented an attempt at adult humor in interactive fiction. The descriptions of the women encountered include passages describing physical attributes in explicit terms, establishing a tone that contemporary critics found both entertaining and problematic.[^ref-16]
+Chuck Benton has said parts of the game were semi-autobiographical; his company biography says he wrote an adventure game "that parodied the dilemmas of the young single male."[^ref-5] Jimmy Maher wrote in 2012 that parts of the game "were drawn straight from his own experiences, although he's not telling exactly which parts."[^ref-26] The game's narrative, while crude by modern standards, represented an attempt at adult humor in interactive fiction. The descriptions of the women encountered include passages describing physical attributes in explicit terms, establishing a tone that contemporary critics found both entertaining and problematic: Softline's 1982 review credited its "sense of humor, and sexual weirdness" with "many hours of entertainment" but named its sexism as its most noticeable flaw.[^ref-16][^ref-48]
 
 The plot, while simple, proved influential enough that Leisure Suit Larry in the Land of the Lounge Lizards (1987) is described as "a nearly direct graphical adaptation" of Softporn Adventure.[^ref-7][^ref-3] The game concludes when the player successfully seduces all three women, though the journey involves various hazards; Time noted the danger of "getting killed by a bouncer in a disco."[^ref-47][^ref-6]
 
@@ -96,21 +96,20 @@ However, some modern critics have found merit in the game. The Digital Antiquari
 - **IMDB:** 6.7/10 (30 ratings)[^ref-30]
 - **GameFAQs:** 2/5 (13 users), ranked #1 lowest rated Atari 800 adventure game[^ref-31]
 - **IFDB:** 12 ratings, most of them 2 or 3 stars[^ref-21]
-- **Adventure Gamers:** Poor (community rating)[^ref-33]
 
 ## Development
 
 ### Origins
 
-Softporn Adventure began as a programming exercise when Chuck Benton, a Massachusetts native, purchased an Apple II computer and decided to teach himself Applesoft BASIC by creating a game.[^ref-2] According to Gary Thompson, who later ported the game to DOS, "Chuck thought that a perfect test of database programming would be to write a little adventure game.... thus Softporn was born."[^ref-14] Benton believed databases were the future of computing and designed the game around multiple database concepts.[^ref-4]
+Softporn Adventure began as a programming exercise when Chuck Benton, a Massachusetts native,[^ref-5][^ref-6] purchased an Apple II computer and decided to teach himself Applesoft BASIC by creating a game.[^ref-2] According to Gary Thompson, who later ported the game to DOS, "Chuck thought that a perfect test of database programming would be to write a little adventure game.... thus Softporn was born."[^ref-14] Benton believed databases were the future of computing and designed the game around multiple database concepts.[^ref-4]
 
 The game was originally titled "Super Stud Adventure" during development.[^ref-5] Benton created it partly to entertain himself and his friends, conducting weekend playtesting sessions to gather feedback and refine the gameplay.[^ref-26] He never initially intended for commercial release, making the game primarily as a personal project and learning exercise.[^ref-7][^ref-3]
 
 ### Production
 
-Benton self-published the game under his own company name, Blue Sky Software. He told the Get Lamp interviewer, "I made 1000 and sold 100";[^ref-5] Sierra Chest puts the Blue Sky sales at "only a few dozen copies."[^ref-3] He had difficulty selling it himself because computer magazines turned down his advertisements.[^ref-6][^ref-36] The breakthrough came in 1981, when Benton was selling the game at a trade show and encountered Ken Williams, who eventually decided to release it through On-Line Systems;[^ref-7] Sierra Chest places the meeting at Applefest in June 1981.[^ref-3]
+Benton self-published the game under his own company name, Blue Sky Software. He told the Get Lamp interviewer, "I made 1000 and sold 100";[^ref-5] Sierra Chest puts the Blue Sky sales at "only a few dozen copies."[^ref-3] He had difficulty selling it himself because computer magazines turned down his advertisements.[^ref-6][^ref-36] The breakthrough came in 1981, when Benton was selling the game at a trade show and encountered Ken Williams, who eventually decided to release it through On-Line Systems;[^ref-7] Sierra Chest places the meeting at Applefest in June 1981.[^ref-3] Retro365 writes that a few of the Blue Sky copies were sold to Williams's employees at the trade show, who brought them back to the office and "caused work to grind to a halt" before Williams offered to publish the game.[^ref-36]
 
-Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate—it temporarily doubled On-Line's sales and caused work to halt at the company office as employees became absorbed in playing it.[^ref-36] By the time of Time's October 1981 article, "about 4,000 copies" had been sold,[^ref-47] and Benton put lifetime sales "past the 50,000 mark."[^ref-5][^ref-36]
+Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate: Ken Williams estimated that Softporn and the software sales it drove doubled On-Line's sales for a time.[^ref-26] By the time of Time's October 1981 article, "about 4,000 copies" had been sold,[^ref-47] and Benton put lifetime sales "past the 50,000 mark."[^ref-5][^ref-36]
 
 **Development Credits:**[^ref-2]
 - **Designer/Programmer:** [[Chuck Benton]]
@@ -119,7 +118,7 @@ Upon acquisition by On-Line Systems, Benton rewrote portions of the game for pub
 
 ### Technical Achievements
 
-Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles, the game demonstrated that adult-themed content could be commercially viable in the nascent computer game market.
+Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content[^ref-26][^ref-14] and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles, the game demonstrated that adult-themed content could be commercially viable in the nascent computer game market.
 
 The game's structure—featuring multiple locations, inventory management, casino minigames, and three seductions—carried straight into Leisure Suit Larry; Al Lowe wrote that "Softporn's puzzles, characters, and locations were all solid. I kept them all."[^ref-46]
 
@@ -148,7 +147,7 @@ Chuck Benton had plans for additional content that never materialized. A female 
 | Original | 1981 (before June) | Apple II | Blue Sky Software self-published release[^ref-3] |
 | On-Line Systems | 1981 | Apple II | Commercial release after Ken Williams acquisition[^ref-2] |
 | Atari 8-bit | 1981 | Atari 400/800 | Port by Chris Iden, reviewed by Softline in January 1982[^ref-2][^ref-48] |
-| PC Port 1.1 | Late 1980s–1991 (sources differ) | MS-DOS | Gary Thompson shareware version with 43/50 line support[^ref-14][^ref-7][^ref-3] |
+| PC Port 1.1 | 1991 (rewritten in the late 1980s) | MS-DOS | Gary Thompson shareware version with 43/50 line support[^ref-14][^ref-7][^ref-3] |
 | PC Port 2.1 | 1994 | MS-DOS | Major rewrite for the CD-ROM release, bug fixes, casino games redesigned[^ref-14] |
 | PC Port 2.2 | 1994 | MS-DOS | CD-ROM release in LSL Greatest Hits[^ref-14] |
 | PC Port 2.3 | 1994 | MS-DOS | Added file-missing error trap[^ref-14] |
@@ -175,7 +174,7 @@ The MS-DOS port by Gary Thompson contained several bugs in early versions. Most 
 
 ### Sales and Commercial Impact
 
-Softporn Adventure achieved remarkable commercial success for its era. Ken Williams claimed that Sierra sold 25,000 copies at a time when Apple had only sold 100,000 Apple II computers total, and Al Lowe concluded that Softporn "was probably played by the highest percentage of computer owners of any game in history."[^ref-46][^ref-4] With copies selling at $29.95,[^ref-48] Methodshop estimates that 50,000 full-price sales would have grossed around $1.4 million.[^ref-41]
+Softporn Adventure achieved remarkable commercial success for its era. Ken Williams claimed that Sierra sold 25,000 copies at a time when Apple had only sold 100,000 Apple II computers total, and Al Lowe concluded that Softporn "was probably played by the highest percentage of computer owners of any game in history."[^ref-46][^ref-4]
 
 The game's success had immediate impact on On-Line Systems, temporarily doubling the company's sales.[^ref-7] For Chuck Benton personally, "After a while, the royalty checks outstripped his salary and Chuck quit to go to developing software full time."[^ref-5] The game was also widely pirated and bootlegged, particularly among high school students, further expanding its cultural reach.[^ref-40]
 
@@ -253,12 +252,10 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-30]: [IMDB – Softporn Adventure](https://www.imdb.com/title/tt0442702/) – user rating, credits
 [^ref-31]: [GameFAQs – Softporn Adventure Stats](https://gamefaqs.gamespot.com/atari8bit/952715-softporn-adventure/stats) – user ratings, rankings
 [^ref-32]: Home of the Underdogs review of Softporn Adventure (DOS), as reproduced on MyAbandonware's Softporn Adventure entry *(text-only citation)* – parser criticism vs Infocom
-[^ref-33]: Adventure Gamers – Softporn Adventure *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – community rating, publication details
 [^ref-36]: [Retro365 Blog – Softporn](https://retro365.blog/2018/06/24/a-bit-from-my-personal-collection-softporn/) – sales timeline, company impact, advertising difficulties
 [^ref-38]: [IFWiki – Softporn Adventure](https://www.ifwiki.org/Softporn_Adventure) – Z-code port by Patrick Kellum
 [^ref-39]: [MobyGames – Softporn Adventure (Browser)](https://www.mobygames.com/game/138981/softporn-adventure/) – 2002 browser version details
 [^ref-40]: [Sierra Fandom Wiki – Softporn Adventure](https://sierra.fandom.com/wiki/Softporn_Adventure) – cover photo details, bootlegging, Time magazine
-[^ref-41]: [Methodshop – Softporn Adventure](https://methodshop.com/softporn-adventure/) – revenue calculations, market penetration
 [^ref-42]: [Internet Archive – Softporn Adventure (Atari 8-bit)](https://archive.org/details/a8b_Softporn_Adventure_1981_On_Line_Systems_US_BASIC) – Atari 8-bit disk image, file details
 [^ref-43]: [IF Archive – Softporn Source](https://ifarchive.org/if-archive/games/source/softporp.zip) – source code availability
 [^ref-44]: [Choicest Games – Where Are They Now: Al Lowe](https://www.choicestgames.com/2014/07/where-are-they-now-al-lowe.html) – Al Lowe quotes on rewriting, one retained line
