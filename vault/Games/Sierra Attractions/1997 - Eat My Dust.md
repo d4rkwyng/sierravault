@@ -1,7 +1,7 @@
 ---
 title: Eat My Dust
 release_year: 1997
-developer: Funnybone Interactive
+developer: [Davidson & Associates, Funnybone Interactive, Van Duyne Engineering]
 designer: [Susan Swanson-Decker, Ray Cooper]
 publisher: Sierra On-Line
 genre: Racing
@@ -10,19 +10,20 @@ series: Sierra Attractions
 engine: Catalina 3D
 protagonist: Player-selected driver
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: '**Eat My Dust** is a 3D kart racing game developed by Davidson &
-  Associates'' Funnybone Interactive with Van Duyne Engineering, published by Sierra
-  On-Line for Windows 95...'
+  Associates, its Funnybone Interactive studio, and Van Duyne Engineering, and published
+  by Sierra On-Line for Windows 95. It was aimed at players aged eight and up, and
+  received mixed reviews.'
 tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-**Eat My Dust** is a 3D kart racing game developed by Davidson & Associates, its Funnybone Interactive studio, and Van Duyne Engineering, and published by Sierra On-Line for Windows 95[^ref-1][^ref-16][^ref-13]. Contemporary reviewers compared it to Nintendo's Mario Kart: players race to checkpoints against the clock and computer opponents while flinging rubber chickens, golf balls and bees at their rivals[^ref-2][^ref-15][^ref-13]. It was aimed at players aged eight and up[^ref-15][^ref-11], and received mixed reviews[^ref-9].
+**Eat My Dust** is a 3D kart racing game developed by Davidson & Associates, its Funnybone Interactive studio, and Van Duyne Engineering, and published by Sierra On-Line for Windows 95[^ref-1][^ref-13]. The contemporary Games Domain review compared it to Nintendo's Mario Kart: players race to checkpoints against the clock and computer opponents while flinging chickens, golf balls and swarms of bees at their rivals[^ref-15]. It was aimed at players aged eight and up[^ref-15][^ref-11], and received mixed reviews[^ref-9].
 
 Funnybone Interactive was a children's entertainment and educational software developer in Canton, Connecticut, which Davidson & Associates acquired in February 1995[^ref-22]. The game's credits list "Eat My Dust" and "FUNNYBONE Interactive" as trademarks of Davidson & Associates, with the Catalina 3D system supplied by Van Duyne Engineering[^ref-23]. The game offers four racing environments (Alien Asteroid, Bleach Bone Gulch, Super Speedway and Backroad Rally), each with three levels of difficulty[^ref-8][^ref-13][^ref-17].
 
@@ -30,7 +31,7 @@ Funnybone Interactive was a children's entertainment and educational software de
 > Sources disagree on the release year. Sierra Chest gives a first release of 1996-11-16, Wikipedia gives 1996, and the credits' copyright line reads © 1996[^ref-4][^ref-9][^ref-23]. MobyGames, PCGamingWiki and Home of the Underdogs list 1997[^ref-1][^ref-6][^ref-3]. Games Domain dates the release to February 1997, and Electric Playground's review is dated February 25, 1997[^ref-15][^ref-13].
 
 > [!info]- Game Info
-> **Developer:** Davidson & Associates / Funnybone Interactive / Van Duyne Engineering[^ref-1][^ref-16]
+> **Developer:** Davidson & Associates / Funnybone Interactive / Van Duyne Engineering[^ref-1]
 > **Designer:** Susan Swanson-Decker (creative director, Funnybone), Ray Cooper (race world designer)[^ref-23]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Catalina 3D[^ref-23]
@@ -63,10 +64,10 @@ Each car carries unusual weapons that hinder opponents, and more ammunition can 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Games Domain | — | No numeric score; "Seen it done better before"[^ref-15] |
-| Gamer's Zone | 3/5 | "A nice little offering"[^ref-11][^ref-9] |
+| Gamer's Zone | 3 globes | "A nice little offering"; overall score shown as three globe images, which Wikipedia gives as 3 out of 5[^ref-11][^ref-9] |
 | Electric Playground | 3/10 | "Just not very much fun"[^ref-13] |
 | Home of the Underdogs | 6.71 | User rating (7 votes)[^ref-3] |
-| MyAbandonware | 4.4/5 | User rating (10 votes)[^ref-14] |
+| MyAbandonware | 4.45/5 | User rating (11 votes, checked October 29, 2026)[^ref-14] |
 
 ### Critical Analysis
 
@@ -78,7 +79,7 @@ Gamer's Zone was kinder. Its reviewer noted "quite a bit of herky-jerkiness" on 
 
 ### Later Assessment
 
-Home of the Underdogs described the game as "a decent racing game for kids that in many ways merits its obscurity". After quoting the 1997 Games Domain review, the site added that "even that younger audience is well advised to stick with Mario Kart on the console systems rather than play this inferior copy-cat"[^ref-3]. MyAbandonware republishes the same write-up, and its users rate the game 4.4/5 from 10 votes[^ref-14].
+Home of the Underdogs described the game as "a decent racing game for kids that in many ways merits its obscurity". After quoting the 1997 Games Domain review, the site added that "even that younger audience is well advised to stick with Mario Kart on the console systems rather than play this inferior copy-cat"[^ref-3]. MyAbandonware republishes the same write-up, and its users rate the game 4.45/5 from 11 votes (checked October 29, 2026)[^ref-14].
 
 ## Development
 
@@ -97,11 +98,12 @@ Funnybone Interactive handled character and interface design, with Joel Fried as
 
 ### Technical Specifications
 
-**Minimum Requirements:**[^ref-11][^ref-6]
+**Minimum Requirements:**[^ref-11][^ref-6][^ref-10]
 - **Operating System:** Windows 95
 - **Processor:** Intel Pentium 90
 - **RAM:** 8 MB (16 MB recommended)
 - **Graphics:** 256-color graphics card (local bus or PCI video)
+- **Sound:** Windows 95-compatible sound card
 - **Media:** Double-speed CD-ROM drive
 - **Optional:** Joystick or steering wheel
 
@@ -136,19 +138,18 @@ The Funnybone Interactive Wiki notes compatibility issues when running the game 
 
 ## References
 
-[^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Basic game information and release details
+[^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Basic game information; developer credits (Davidson & Associates, Funnybone Interactive, Van Duyne Engineering), 1997 release date
 [^ref-2]: [Internet Archive - Eat My Dust](https://archive.org/details/eat-my-dust) – Game description and mechanics
 [^ref-3]: [Home of the Underdogs - Eat My Dust](https://www.homeoftheunderdogs.net/game.php?id=4579) – Write-up, user rating (6.71, 7 votes), 1997 release year
 [^ref-4]: [Sierra Chest - Eat My Dust](https://sierrachest.com/index.php?a=games&id=509&title=eat-my-dust&fld=walkthrough) – First release date (1996-11-16), modes, drivers, vehicles, terrains, Road Hog, track editor
 [^ref-6]: [PCGamingWiki - Eat My Dust](https://www.pcgamingwiki.com/wiki/Eat_My_Dust) – Platform, system requirements, installer workaround, demos
 [^ref-8]: [NeverDie Media Product Listing](https://www.neverdiemedia.com/products/eat-my-dust) – Box copy: environments, vehicles, drivers, weapons
 [^ref-9]: [Wikipedia - Eat My Dust](https://en.wikipedia.org/wiki/Eat_My_Dust) – 1996 release in infobox; critical reception summary (Gamer's Zone 3/5)
-[^ref-10]: [Internet Archive Manual](https://archive.org/details/eat-my-dust-manual) – Vehicle selection details
+[^ref-10]: [Internet Archive Manual](https://archive.org/details/eat-my-dust-manual) – Vehicle selection details; system requirements (Windows 95-compatible sound card)
 [^ref-11]: [Gamer's Zone Review](https://web.archive.org/web/20060822002930/http://www.worldvillage.com/wv/gamezone/html/reviews/eatdust.htm) – Review, system requirements, multiplayer features
 [^ref-13]: [Electric Playground Archive](https://web.archive.org/web/19970804201644/http://www.elecplay.com/pc/eatmydust.html) – Contemporary review (3/10), dated February 25, 1997
-[^ref-14]: [MyAbandonware - Eat My Dust](https://www.myabandonware.com/game/eat-my-dust-dl6) – User rating (4.4/5, 10 votes)
+[^ref-14]: [MyAbandonware - Eat My Dust](https://www.myabandonware.com/game/eat-my-dust-dl6) – User rating (4.45/5, 11 votes, checked October 29, 2026)
 [^ref-15]: [Games Domain Archive](https://web.archive.org/web/20040203121028/http://www.gamesdomain.com/gdreview/zones/reviews/pc/feb97/eatdust.html) – Contemporary review; released Feb 1997, £29.99
-[^ref-16]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Developer credits (Davidson & Associates, Funnybone Interactive, Van Duyne Engineering), 1997 release date
 [^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Environments, Stay Tooned! character, track editor and compatibility trivia
 [^ref-22]: [Wikipedia - Davidson & Associates](https://en.wikipedia.org/wiki/Davidson_%26_Associates) – Funnybone acquisition (Feb 1995); CUC acquisition of Davidson and Sierra (1996)
 [^ref-23]: [MobyGames - Eat My Dust Credits (Windows)](https://www.mobygames.com/game/42140/eat-my-dust/credits/windows/) – Full credits, Catalina 3D engine, trademark and copyright lines
