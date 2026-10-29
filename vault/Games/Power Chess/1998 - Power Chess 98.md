@@ -13,7 +13,7 @@ sierra_lineage: Core Sierra
 last_updated: '2026-10-29'
 composer: [Guy Whitmore]
 description: Power Chess 98 is an updated version of the original Power Chess, released
-  by Sierra On-Line in November 1997 for Windows 95 and Windows 98 platforms. The...
+  by Sierra On-Line in November 1997 for Windows 95 and Windows 98, with a humanlike adaptive King and a commentating Queen.
 tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 98
@@ -26,7 +26,7 @@ Power Chess 98 is an updated version of the original Power Chess, released by [[
 
 Abandonware France describes the series as a serious competitor to Chessmaster, built around opponents of different strengths and personalities rather than a single engine designed to crush the player[^ref-7]. The box copy promised that the Power Chess King "always plays just a bit better than you- enough to make you stretch," and that "as you improve, so does he"[^ref-3]. International Grandmaster Larry Christiansen is quoted on the box calling it "the first innovation in chess programs in more than a decade"[^ref-3]. The Power Chess Queen "watches your games with the King and explains it all to you immediately afterward" in spoken commentary[^ref-3].
 
-Power Chess 98 was designed to welcome both novices and expert players[^ref-7]; one GOG forum user later called it "chess with a 'human' side to it, not just the typical crunch-positions chess program"[^ref-6]. Sierra offered owners of the original Power Chess an upgrade to the new version for $14.95 plus shipping[^ref-26]. The original release had been named Traditional Game of the Year for 1996 by Computer Games Strategy Plus[^ref-2][^ref-15], and the line continued with Power Chess 2.0 in 1998–1999[^ref-2][^ref-7].
+Abandonware France says the original Power Chess was designed to welcome both novices and expert players[^ref-7]; one GOG forum user later called it "chess with a 'human' side to it, not just the typical crunch-positions chess program"[^ref-6]. Sierra offered owners of the original Power Chess an upgrade to the new version for $14.95 plus shipping[^ref-26]. The original release had been named Traditional Game of the Year for 1996 by Computer Games Strategy Plus[^ref-2][^ref-15], and the line continued with Power Chess 2.0 in 1998–1999[^ref-2][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -76,7 +76,7 @@ The core mechanics revolve around standard chess rules with several educational 
 - **Classic Games:** Seven classic games narrated by the Queen, plus 50 illustrative games in the bundled text of Nimzowitsch's *My System*[^ref-11]
 - **PGN Support:** Import and export of games in Portable Game Notation format[^ref-7]
 
-Sierra's announcement listed new features for this version: a window showing what the chess engine is thinking, an option to force the computer to move sooner, and analysis of all games, including those played over the Internet[^ref-26]. The box adds move list printing, square highlighting in 3D mode, written WChess game analysis, and resignations and draw offers from the King[^ref-3].
+Sierra's announcement listed new features for this version: a window showing what the chess engine is thinking, an option to force the computer to move sooner, and analysis of all games, including those played over the Internet[^ref-26]. GameSpot's reviewer nonetheless listed "the absence of a 'force move' command to hurry up a dawdling computer opponent" among the game's annoyances[^ref-11]. The box adds move list printing, square highlighting in 3D mode, written WChess game analysis, and resignations and draw offers from the King[^ref-3].
 
 One player's retrospective recalls that Power Chess commended players for finding good moves, which he contrasted with Chessmaster's habit of only pointing out mistakes[^ref-12].
 
@@ -90,7 +90,7 @@ Ron Dulin reviewed the original Power Chess for GameSpot, awarding 6.8 out of 10
 
 The German publication PC Joker rated the original Power Chess the highest in a comparison of four chess programs in March 1997[^ref-2]. According to Abandonware France, French magazine Joystick gave the original Power Chess its "Mégastar" award[^ref-7].
 
-The original Power Chess won the Traditional Game of the Year award from Computer Games Strategy Plus for 1996[^ref-2][^ref-15].
+The original Power Chess won the Traditional Game of the Year award from Computer Games Strategy Plus for 1996[^ref-2][^ref-15]. Sierra's InterAction magazine reported that the same magazine had given the original four out of five stars, quoting it as saying "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"[^ref-26].
 
 ### Modern Assessment
 
@@ -108,7 +108,7 @@ A French retrospective of the original Power Chess from Abandonware France decla
 
 ### Chess Engine
 
-The WChess engine by David Kittinger had drawn attention after winning 5 of 6 games against American grandmasters at the Intel Harvard Cup in October 1994[^ref-7]. The engine also competed in the 1995 World Computer Championship against IBM's Deep Blue[^ref-2].
+The WChess engine by David Kittinger had drawn attention at the Fifth Harvard Cup in October 1994, where it scored an undefeated 5–1 against six American grandmasters, with four wins and two draws[^ref-27]. The engine also competed in the 1995 World Computer Championship against IBM's Deep Blue[^ref-2].
 
 ### Production
 
@@ -159,15 +159,15 @@ The original Power Chess (rather than Power Chess 98) was included as the "inter
 
 ### Technical Issues
 
-Power Chess 98 has significant compatibility problems with modern Windows versions because of its mixed DOS/Win32 design[^ref-7][^ref-19]. Its Windows program PCHESS.EXE calls DOS programs (KING.EXE, QUEEN.EXE, RUN386.EXE) in the background, managed by HITMAN.EXE[^ref-7][^ref-19]. One technical forum user described it as "the craziest win32 + dos connection" he had seen[^ref-19].
+Power Chess 98 has significant compatibility problems with modern Windows versions because of its mixed DOS/Win32 design[^ref-7][^ref-19]. Its Windows program PCHESS.EXE calls DOS programs (KING.EXE, QUEEN.EXE, RUN386.EXE) in the background, managed by HITMAN.EXE[^ref-7][^ref-19]. One technical forum user described it as "the craziest win32 + dos connection" they had seen[^ref-19].
 
-One user reported error 216 when trying to start the game on a modern 64-bit system, and players on GOG and Amazon reported that it would not run on Windows XP or Vista[^ref-4][^ref-6][^ref-19]. Users have reported that even on Windows 98 itself the game can have difficulties[^ref-19].
+In a DxWnd forum thread, one user reported error 216 when trying to start what was evidently the original Power Chess on a modern system, and said the Power Chess 98 version "does not work either"[^ref-19]; players on GOG and Amazon reported that Power Chess 98 would not run on Windows XP or Vista[^ref-4][^ref-6]. One user in the same thread reported that the game had difficulties even on Windows 98 itself[^ref-19].
 
-Two routes are now documented. Emulation works: Abandonware France recommends PCem, and a TalkChess user reported running the game in a Windows 95 environment under PCem[^ref-7][^ref-20]. A native route also exists: install the game, apply Sierra's official 1.6.0.1 patch, then apply the unofficial pchess v1.0.1 patch[^ref-20]. The pchess patcher has been tested on 32-bit Windows XP, and on 64-bit Windows 7 and Windows 11 with NTVDMx64[^ref-25].
+Two routes are now documented. Emulation works: Abandonware France recommends PCem, and a TalkChess user reported running the original 1996 Power Chess in a Windows 95 environment under PCem[^ref-7][^ref-20]. A native route also exists: install the game, apply Sierra's official 1.6.0.1 patch, then apply the unofficial pchess v1.0.1 patch[^ref-20]. The pchess patcher has been tested on 32-bit Windows XP, and on 64-bit Windows 7 and Windows 11 with NTVDMx64[^ref-25].
 
 ### Easter Eggs and Trivia
 
-- The WChess engine won 5 of 6 games against American chess grandmasters in 1994[^ref-7]
+- The WChess engine went undefeated against American chess grandmasters at the 1994 Harvard Cup, scoring 5 of 6 points (four wins, two draws)[^ref-27]
 - Seven of the twenty Commoner opponents are based on famous real-world chess players[^ref-11]
 - A GOG forum user described the game as featuring "a Queen who was a pro (based on the WChess engine)"[^ref-6]
 - Online multiplayer servers included with the game are now defunct[^ref-7]
@@ -196,7 +196,7 @@ The original Power Chess was included in Sierra's Complete Chess compilation rel
 
 ### Fan Projects
 
-Community efforts have focused primarily on compatibility solutions rather than modifications or remakes. The unofficial pchess patcher on GitHub patches the game's process launching and engine pipes so it can run on newer Windows versions[^ref-25]. Users have also documented running it under PCem emulation with Windows 95[^ref-20].
+Community efforts have focused primarily on compatibility solutions rather than modifications or remakes. The unofficial pchess patcher on GitHub patches the game's process launching and engine pipes so it can run on newer Windows versions[^ref-25]. A TalkChess user has also documented running the original 1996 Power Chess under PCem emulation with Windows 95[^ref-20].
 
 Forum discussions on Chess.com and TalkChess continue to feature nostalgic recollections and technical assistance for users attempting to run the software on modern systems[^ref-5][^ref-9][^ref-20].
 
@@ -247,10 +247,11 @@ Power Chess 98 tried to address a long-standing problem with computer chess: opp
 [^ref-17]: [MobyGames – Power Chess 98 Tech Specs](https://www.mobygames.com/game/38740/power-chess-98/specs/windows/) – system requirements, multiplayer options
 [^ref-18]: [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – patch versions, file sizes
 [^ref-19]: [SourceForge – DXWnd Power Chess Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/98dd46dfc6/) – technical architecture, compatibility issues
-[^ref-20]: [TalkChess Forum – Power Chess Compatibility](https://talkchess.com/viewtopic.php?t=80784) – PCem emulation, official and unofficial patch route
+[^ref-20]: [TalkChess Forum – Power Chess Compatibility](https://talkchess.com/viewtopic.php?t=80784) – official and unofficial patch route for Power Chess 98; PCem emulation report for the original 1996 Power Chess
 [^ref-21]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on platform
 [^ref-22]: [Sierra Chest – Power Chess 98](https://sierrachest.com/index.php?a=games&id=411&title=power-chess-98&fld=general) – release date confirmation
 [^ref-23]: [IMDB – Power Chess 98](https://www.imdb.com/title/tt0292197/) – lists a November 30, 1998 release date
 [^ref-24]: [Metacritic – Power Chess 98](https://www.metacritic.com/game/power-chess-98/) – lists a November 30, 1998 release date
 [^ref-25]: [GitHub – leecher1337/pchess](https://github.com/leecher1337/pchess) – unofficial patch; DOS engine/pipe architecture; tested Windows versions
-[^ref-26]: [InterAction Magazine – Holiday 1997 (Internet Archive)](https://archive.org/details/inter-action-issue-33-holiday-1997) – "Power Chess '98: Smarter & Stronger", p. 10: upgrade price, two CDs, new features, Crack the King contest
+[^ref-26]: [InterAction Magazine – Holiday 1997 (Internet Archive)](https://archive.org/details/inter-action-issue-33-holiday-1997) – "Power Chess '98: Smarter & Stronger", p. 10: upgrade price, two CDs, new features, Crack the King contest, Computer Games Strategy Plus four-star rating of the original
+[^ref-27]: [Danny Kopec – The Fifth Harvard Cup Human Versus Computer Intel Chess Challenge (1994 report, Wayback copy)](https://web.archive.org/web/20240712170637/http://spider.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_6_C.pdf) – WChess's "undefeated 5-1 score (four wins, two draws)", Boston, October 1-2, 1994
