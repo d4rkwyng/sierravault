@@ -68,24 +68,23 @@ The physics engine is "derived from the GPL physics engine," with an aerodynamic
 | IGN | 9.2/10 | Editors' Choice; said the game "deserves to be a best seller, but only if they patch the AI!"[^ref-13] |
 | GameSpot | 9.1/10 | "Easily the finest stock car sim available"[^ref-2] |
 | Gaming Age | 91% | "Easily the best-looking racing title on the PC this year"[^ref-14][^ref-15] |
-| GMR Magazine | 90/100 | "Amazingly realistic physics matched by a sublime 3D engine"[^ref-14] |
-| Computer Games Magazine | 80/100 | Score as listed on Metacritic[^ref-16] |
+| GMR Magazine | 90/100 | "amazingly realistic physics matched by a sublime 3D engine"[^ref-14] |
 | Computer Gaming World | 4.5/5 | [^ref-6] |
 | The Cincinnati Enquirer | 4.5/5 | [^ref-6] |
-| Computer Games Strategy Plus | 4/5 | Called it "the definitive NASCAR simulation" despite weak AI[^ref-6][^ref-22] |
+| Computer Games Strategy Plus | 4/5 | Called it "the definitive NASCAR simulation" despite weak AI. Metacritic lists the same cdmag.com review under Computer Games Magazine as 80/100[^ref-6][^ref-22][^ref-16] |
 | Game Informer | 8/10 | [^ref-6] |
 | Jeuxvideo.com | 14/20 | [^ref-6] |
 | Gamekult | 5/10 | Found the gameplay repetitive: "tourner à gauche régulièrement pendant des heures, forcément, ce n'est pas très amusant"[^ref-6][^ref-17] |
 
 ### Modern Assessment
 
-On Metacritic the game has a score of 89/100 from 14 critic reviews, all of them positive. The highest is Yahoo!'s 100.[^ref-14] Metacritic's archived page ranked it the #6 best PC game of 2001.[^ref-23] On MobyGames, critics average 80% across 19 ratings.[^ref-4] The game sold 260,000 units in the US and earned $10.4 million by August 2006, making it the country's 76th best-selling computer game between January 2000 and August 2006.[^ref-6] Amazon's product description calls it "the best NASCAR simulation ever created,"[^ref-18] and GameRant ranks it third among the best NASCAR games.[^ref-5]
+On Metacritic the game has a score of 89/100 from 14 critic reviews, all of them positive. The highest is Yahoo!'s 100.[^ref-14] Metacritic's archived page ranked it the #6 best PC game of 2001.[^ref-23] On MobyGames, critics average 80% across 19 ratings.[^ref-4] Next Generation's August 2006 ranking of PC games released since January 2000, published by Edge, placed it 76th by unit sales, with estimated sales of 260,000 units and revenues of $10.4 million.[^ref-30] Wikipedia describes these as US figures.[^ref-6] An Amazon.com review by T. Byrl Baker calls it "the best NASCAR simulation ever created,"[^ref-18] and GameRant ranks it third among the best NASCAR games.[^ref-5]
 
 ## Development
 
 ### Origins
 
-The game was published under Sierra Sports, the label Sierra On-Line formed in February 1998 as part of a company restructuring, which included Papyrus.[^ref-8] According to Wikipedia, it "addressed many requested features" from earlier games in the series.[^ref-6] Hasbro and Monster Games' NASCAR Heat had come out shortly before, and IGN's review weighed the two games against each other throughout.[^ref-13]
+The game was published under Sierra Sports, the label Sierra On-Line formed in February 1998 as part of a company restructuring, which included Papyrus.[^ref-8] According to Wikipedia, it "addressed many requested features" from earlier games in the series.[^ref-6] IGN's review weighed it throughout against Hasbro and Monster Games' NASCAR Heat.[^ref-13]
 
 The game reached stores days before Dale Earnhardt died in a crash at Daytona International Speedway on February 18, 2001.[^ref-6][^ref-28] Computer Games Strategy Plus's reviewer wrote his review "one day after the tragedy that claimed the life of NASCAR's greatest driver, Dale Earnhardt."[^ref-22]
 
@@ -95,9 +94,9 @@ MobyGames credits Scott Stutsman as senior producer, David Kaemmer as technical 
 
 ### Technical Achievements
 
-Computer Games Strategy Plus wrote that "for the first time since the original NASCAR Racing, the developers have implemented a much more realistic physics model—the same one that was previously used to power the seminal Grand Prix Legends."[^ref-22] Cars could now leave the ground. As that review put it, "previously the cars were unable to leave the ground, resulting in collisions that didn't always seem realistic."[^ref-22] It was the first game in the series to let cars flip.[^ref-5] GameSpot described "tried-and-true Papyrus damage modeling with new vertical physics."[^ref-2] The game moved to full 24-bit color, where earlier entries allowed only 256 colors.[^ref-6]
+Computer Games Strategy Plus wrote that "for the first time since the original NASCAR Racing, the developers have implemented a much more realistic physics model—the same one that was previously used to power the seminal Grand Prix Legends."[^ref-22] Cars could now leave the ground. As that review put it, "previously the cars were unable to leave the ground, resulting in collisions that didn't always seem realistic."[^ref-22] It was the first game in the series to let cars flip.[^ref-5] GameSpot described "tried-and-true Papyrus damage modeling with new vertical physics."[^ref-2] The same review said "Papyrus really aimed high with NASCAR Racing 4 and enabled 32-bit color and resolutions as high as the fastest video cards will support,"[^ref-2] and IGN's release-day news brief cited "a monster 1600x1200 resolution."[^ref-29]
 
-IGN noted that "NASCAR 4 is a Direct3D game, complete with TnL support,"[^ref-13] and Computer Hope lists DirectX 7 as a requirement.[^ref-7] Amazon's product description says that with the right hardware the game "can generate visuals that are difficult to distinguish from TV broadcasts,"[^ref-18] and Computer Games Strategy Plus wrote that its "graphics are so good you might think it's TV."[^ref-22]
+IGN noted that "NASCAR 4 is a Direct3D game, complete with TnL support,"[^ref-13] and Computer Hope lists DirectX 7 as a requirement.[^ref-7] Baker's Amazon.com review says that with the right hardware the game "can generate visuals that are difficult to distinguish from TV broadcasts,"[^ref-18] and Computer Games Strategy Plus wrote that its "graphics are so good you might think it's TV."[^ref-22]
 
 **System Requirements (minimum):**
 
@@ -122,13 +121,13 @@ IGN noted that "NASCAR 4 is a Direct3D game, complete with TnL support,"[^ref-13
 
 ## Legacy
 
-NASCAR Racing 4 won Best Driving Game at GameSpot's Best and Worst of 2001 Awards. Computer Games Magazine named it the best racing game of 2001 at its 11th Annual Computer Games Awards and called it "the crown King of racing games."[^ref-6] It was also nominated for Best Simulation Game at Computer Gaming World's 2001 Premier Awards, which went to IL-2 Sturmovik.[^ref-6]
+NASCAR Racing 4 won Best Driving Game at GameSpot's Best and Worst of 2001 Awards, where GameSpot called it "clearly the best driving game of 2001."[^ref-31] Computer Games Magazine named it the best racing game of 2001 at its 11th Annual Computer Games Awards and called it "the crown King of racing games."[^ref-6] It was also nominated for Best Simulation Game at Computer Gaming World's 2001 Premier Awards, which went to IL-2 Sturmovik.[^ref-6]
 
 ### Awards
 
 | Award | Year | Organization |
 |-------|------|--------------|
-| Best Driving Game | 2001 | GameSpot Best and Worst Awards[^ref-6] |
+| Best Driving Game | 2001 | GameSpot Best and Worst Awards[^ref-6][^ref-31] |
 | Best Racing Game | 2001 | Computer Games Magazine, 11th Annual Computer Games Awards[^ref-6] |
 | Best Simulation Game (nominee) | 2001 | Computer Gaming World Premier Awards[^ref-6] |
 | Editors' Choice | 2001 | IGN[^ref-13] |
@@ -141,8 +140,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Not currently available on modern digital platforms
+- Not currently available on modern digital platforms (checked 2026-10-29)
 
 **Download / Preservation**
 - [Internet Archive - Demo Version](https://archive.org/details/n4demo)[^ref-1]
@@ -162,30 +160,32 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 
 ## References
 
-[^ref-1]: [Internet Archive](https://archive.org/details/n4demo) – - Sierra product description (demo upload)
-[^ref-2]: [GameSpot Review](https://www.gamespot.com/reviews/nascar-racing-4-review/1900-2687981/) – - Gord Goble's 9.1 review; content, Nash quote, no career mode
-[^ref-3]: [Daily Downforce](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – - Historical context, box quote
-[^ref-4]: [MobyGames](https://www.mobygames.com/game/3378/nascar-racing-4/) – - Official description, critic average
-[^ref-5]: [GameRant](https://gamerant.com/best-nascar-games/) – - Technical innovation description
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/NASCAR_Racing_4) – - Release dates, review scores, sales, awards
-[^ref-7]: [Computer Hope](https://www.computerhope.com/games/games/nascar4.htm) – - Tracks, controls, minimum system requirements
-[^ref-8]: [Sierra Sports Wiki](https://www.avid.wiki/Sierra_Sports) – - Publisher information
-[^ref-9]: [Jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00001365_test.htm) – - Controls and wheel support praise
-[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_4) – - Latest official patches (1.3.0.6 US, 1.3.1.6 international)
-[^ref-12]: [MobyGames Reviews](https://www.mobygames.com/game/3378/nascar-racing-4/reviews/) – - Player review praising physics
-[^ref-13]: [IGN Review](https://www.ign.com/articles/2001/03/10/nascar-racing-4-2) – - Randy Magruder's 9.2 review, Editors' Choice; physics, AI, Direct3D/TnL
-[^ref-14]: [Metacritic](https://www.metacritic.com/game/pc/nascar-racing-4/critic-reviews) – - Critic review quotes and scores
-[^ref-15]: [Gaming Age](https://www.everygamegoing.com/larticle/nascar-racing-4-pc/72075/) – - Review listing (Brian Peterson, March 13, 2001)
-[^ref-16]: [Metacritic](https://www.metacritic.com/game/nascar-racing-4/) – - Release date, Computer Games Magazine score
-[^ref-17]: [Gamekult](https://www.gamekult.com/jeux/nascar-racing-4-4875/test.html) – - French review; setup/strategy, repetitive gameplay
-[^ref-18]: [Amazon](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – - Amazon.com product description
-[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos) – - Game preservation site
-[^ref-21]: [MobyGames Credits](https://www.mobygames.com/game/3378/nascar-racing-4/credits/windows/) – - Full credits (135 people)
-[^ref-22]: [Computer Games Strategy Plus (archived)](https://web.archive.org/web/20030627053539/http://www.cdmag.com/articles/032/007/nascar-04.html) – - David J. Long review, March 5, 2001; requirements, multiplayer
-[^ref-23]: [Metacritic (archived 2022)](https://web.archive.org/web/20220219232911/https://www.metacritic.com/game/pc/nascar-racing-4) – - "#6 Best PC Game of 2001" ranking
-[^ref-24]: Gamepressure, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – - Patch v1.1.1.0, April 27, 2001
-[^ref-25]: [PC Games](https://www.pcgames.de/Nascar-Racing-4-Spiel-24469/Downloads/Nascar-Racing-4-Patch-v1316-13062/) – - Patch v1.3.1.6 contents
-[^ref-26]: [Wikipedia: Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – - 2004 copyright sale to FIRST.net, iRacing
-[^ref-27]: [MobyGames Specs](https://www.mobygames.com/game/3378/nascar-racing-4/specs/) – - Minimum OS, CPU, RAM, video memory
-[^ref-28]: [Wikipedia: Death of Dale Earnhardt](https://en.wikipedia.org/wiki/Death_of_Dale_Earnhardt) – - Date and venue of the crash
-[^ref-29]: [IGN News Briefs](https://www.ign.com/articles/2001/02/08/news-briefs-190) – - Retail release announcement, up to 43 online players
+[^ref-1]: [Internet Archive](https://archive.org/details/n4demo) – Sierra product description (demo upload)
+[^ref-2]: [GameSpot Review](https://www.gamespot.com/reviews/nascar-racing-4-review/1900-2687981/) – Gord Goble's 9.1 review; content, Nash quote, no career mode
+[^ref-3]: [Daily Downforce](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – Historical context, box quote
+[^ref-4]: [MobyGames](https://www.mobygames.com/game/3378/nascar-racing-4/) – Official description, critic average
+[^ref-5]: [GameRant](https://gamerant.com/best-nascar-games/) – Technical innovation description
+[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/NASCAR_Racing_4) – Release dates, review scores, sales, awards
+[^ref-7]: [Computer Hope](https://www.computerhope.com/games/games/nascar4.htm) – Tracks, controls, minimum system requirements
+[^ref-8]: [Sierra Sports Wiki](https://www.avid.wiki/Sierra_Sports) – Publisher information
+[^ref-9]: [Jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00001365_test.htm) – Controls and wheel support praise
+[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_4) – Latest official patches (1.3.0.6 US, 1.3.1.6 international)
+[^ref-12]: [MobyGames Reviews](https://www.mobygames.com/game/3378/nascar-racing-4/reviews/) – Player review praising physics
+[^ref-13]: [IGN Review](https://www.ign.com/articles/2001/03/10/nascar-racing-4-2) – Randy Magruder's 9.2 review, Editors' Choice; physics, AI, Direct3D/TnL
+[^ref-14]: [Metacritic](https://www.metacritic.com/game/pc/nascar-racing-4/critic-reviews) – Critic review quotes and scores
+[^ref-15]: [Gaming Age](https://www.everygamegoing.com/larticle/nascar-racing-4-pc/72075/) – Review listing (Brian Peterson, March 13, 2001)
+[^ref-16]: [Metacritic](https://www.metacritic.com/game/nascar-racing-4/) – Release date; lists the cdmag.com review as Computer Games Magazine 80/100
+[^ref-17]: [Gamekult](https://www.gamekult.com/jeux/nascar-racing-4-4875/test.html) – French review; setup/strategy, repetitive gameplay
+[^ref-18]: [Amazon](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – Amazon.com review by T. Byrl Baker
+[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos) – Game preservation site
+[^ref-21]: [MobyGames Credits](https://www.mobygames.com/game/3378/nascar-racing-4/credits/windows/) – Full credits (135 people)
+[^ref-22]: [Computer Games Strategy Plus (archived)](https://web.archive.org/web/20030627053539/http://www.cdmag.com/articles/032/007/nascar-04.html) – David J. Long review, March 5, 2001; requirements, multiplayer
+[^ref-23]: [Metacritic (archived 2022)](https://web.archive.org/web/20220219232911/https://www.metacritic.com/game/pc/nascar-racing-4) – "#6 Best PC Game of 2001" ranking
+[^ref-24]: Gamepressure, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – Patch v1.1.1.0, April 27, 2001
+[^ref-25]: [PC Games](https://www.pcgames.de/Nascar-Racing-4-Spiel-24469/Downloads/Nascar-Racing-4-Patch-v1316-13062/) – Patch v1.3.1.6 contents
+[^ref-26]: [Wikipedia: Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – 2004 copyright sale to FIRST.net, iRacing
+[^ref-27]: [MobyGames Specs](https://www.mobygames.com/game/3378/nascar-racing-4/specs/) – Minimum OS, CPU, RAM, video memory
+[^ref-28]: [Wikipedia: Death of Dale Earnhardt](https://en.wikipedia.org/wiki/Death_of_Dale_Earnhardt) – Date and venue of the crash
+[^ref-29]: [IGN News Briefs](https://www.ign.com/articles/2001/02/08/news-briefs-190) – Retail release announcement, up to 43 online players
+[^ref-30]: [Edge Online (archived 2012)](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – Next Generation's Top 100 PC Games of the 21st Century, August 25, 2006: #76, estimated sales 260,000, revenues $10.4 million
+[^ref-31]: [GameSpot Best and Worst of 2001 (archived 2002)](https://web.archive.org/web/20020206073549/http://gamespot.com/gamespot/features/pc/bestof_2001/p3_08.html) – Best Driving Game award page
