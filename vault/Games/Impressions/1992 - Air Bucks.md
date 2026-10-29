@@ -7,10 +7,10 @@ publisher: Impressions Games
 genre: Business Simulation
 platforms: [DOS, Amiga, Atari ST]
 series: Bucks
-engine: Impressions Engine
+engine: null
 protagonist: Airline CEO (Player Character)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 composer: [Christopher J. Denman (credited as Chris Denman on Atari ST version)]
 description: Air Bucks is a business simulation game developed and published by Impressions
   Games in 1992 that tasks players with building a successful airline empire, starting
@@ -19,19 +19,19 @@ tags: [1990s, bucks, sierra, simulation]
 ---
 # Air Bucks
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Air Bucks is a business simulation game developed and published by [[Impressions Games]] in 1992 that tasks players with building a successful airline empire starting in the post-World War II era[^ref-10][^ref-28]. The game begins in October 1946 with players assuming the role of a 25-year-old entrepreneur who has invested their last hard-earned dollar to found a fledgling airline company, starting with only $100,000 and one small DC-3 Dakota aircraft[^ref-2]. The goal is to expand this modest operation into a globe-spanning empire over the course of 40 years until the player's retirement in 1985[^ref-3].
+Air Bucks is a business simulation game developed and published by [[Impressions Games]] in 1992 that tasks players with building a successful airline empire starting in the post-World War II era[^ref-10][^ref-28]. The game begins in October 1946 with players assuming the role of a 25-year-old entrepreneur who has invested their last hard-earned dollar to found a fledgling airline company, starting with only $100,000 and one small DC-3 Dakota aircraft[^ref-2][^ref-3]. The goal is to expand this modest operation into a globe-spanning empire over the course of 40 years until the player's retirement in 1985[^ref-3].
 
 MobyGames describes it as a simulation that "tries to capture the ins and outs of the airline industry without bogging the player down with details"[^ref-4], and MyAbandonware calls it "one of the first airline company simulation game[s]"[^ref-18]. Players manage various aspects of airline operations including purchasing landing rights at airports, arranging seat configurations for first and economy class passengers, determining in-flight food quality and entertainment, designing global routes, and setting ticket fares for each leg of travel[^ref-5]. The game also features special events similar to those found in Sid Meier's Railroad Tycoon, which require quick adjustments to plane operations to accommodate them[^ref-6].
 
-Air Bucks was part of Impressions Games' early catalog of strategy and business simulations, released when the company was still a fledgling studio before its acquisition by Sierra On-Line in 1995[^ref-2]. The game received mixed contemporary reviews[^ref-28][^ref-29] and was followed by an enhanced version 1.2, which COMPUTE! said reflected "a host of user-suggested changes"[^ref-8]; Impressions advertised the upgrade as offering better VGA graphics, interface, computer AI and economic model[^ref-10]. A spiritual successor, Space Bucks, was later released in 1996, applying similar business simulation mechanics to an interstellar trading context[^ref-9].
+Air Bucks was part of Impressions Games' early catalog of strategy and business simulations, released when the company was still a fledgling studio before its acquisition by Sierra On-Line in 1995[^ref-2]. The game received mixed contemporary reviews[^ref-28][^ref-29] and was followed by an enhanced version 1.2, which COMPUTE! said reflected "a host of user-suggested changes"[^ref-8]; Impressions advertised the upgrade as offering better VGA graphics, interface, computer AI and economic model[^ref-10]. A spiritual successor, [[1996 - Space Bucks|Space Bucks]], was later released in 1996, applying similar business simulation mechanics to an interstellar trading context[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-10]
-> **Designer:** Edward Grabowski[^ref-10]
+> **Designer:** Edward Grabowski[^ref-29]
 > **Publisher:** Impressions Games (later [[Sierra On-Line]])[^ref-11]
 > **Engine:** Unknown
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-10]
@@ -42,11 +42,11 @@ Air Bucks was part of Impressions Games' early catalog of strategy and business 
 
 ## Story Summary
 
-Air Bucks is set against the backdrop of post-World War II commercial aviation history, beginning immediately after the end of the conflict in 1946[^ref-2]. The game's narrative premise places the player as an ambitious young entrepreneur at age 25 who has scraped together every last dollar to launch their own airline company in Miami, the only airport initially available to all carriers[^ref-12]. With just $100,000 in starting capital and a single Douglas DC-3 Dakota aircraft with a 1,000-mile range, the player must make strategic decisions that will determine whether their airline grows into a dominant force or withers into failure[^ref-2].
+Air Bucks is set against the backdrop of post-World War II commercial aviation history, beginning immediately after the end of the conflict in 1946[^ref-2]. The game's narrative premise places the player as an ambitious young entrepreneur at age 25 who has scraped together every last dollar to launch their own airline company in Miami, the only airport initially available to all carriers[^ref-12][^ref-3]. With just $100,000 in starting capital and a single Douglas DC-3 Dakota aircraft with a 1,000-mile range[^ref-3], the player must make strategic decisions that will determine whether their airline grows into a dominant force or withers into failure[^ref-2].
 
 The game's historical setting provides an authentic framework for the simulation, as players witness the evolution of commercial aviation technology throughout the decades[^ref-3]. Starting with propeller-driven aircraft like the DC-3, players eventually gain access to newer and more capable planes as technology progresses, including the revolutionary jet aircraft that transform the industry[^ref-13]. Historical tech-stop destinations like Wake Island feature in the game, reflecting the real-world limitations and routing requirements of early commercial aviation[^ref-10].
 
-The world map is randomly generated with every new game, featuring 128 airport sites worldwide, though with a limitation of only two airlines per airport[^ref-10]. This creates a strategic competition where up to four players—human or AI-controlled—vie for control of lucrative routes and markets[^ref-14]. As the game progresses through the decades, real-world events, new competitors, worker strikes, and seat pricing wars present ongoing challenges that test the player's management abilities[^ref-15].
+The world map features 128 airport sites worldwide, with a limitation of only two airlines per airport[^ref-10]. MobyGames describes the world map as randomly generated with every new game[^ref-5]; the manual describes an optional "Randomize" city setting that resets each airport city to small, medium or large[^ref-3]. Up to four players—human or AI-controlled—vie for control of lucrative routes and markets[^ref-12][^ref-3]. As the game progresses through the decades, real-world events, new competitors, worker strikes, and seat pricing wars present ongoing challenges that test the player's management abilities[^ref-15].
 
 ## Gameplay
 
@@ -60,11 +60,13 @@ The DOS version supports various display modes including EGA and VGA graphics, w
 
 The game spans 40 years of simulated time, beginning in October 1946 and continuing until the player's character retires[^ref-12]. Time progresses with each turn, and PC users receive newspaper updates at the end of each game year to inform them of significant events and industry developments[^ref-3]. The structure allows for both short-term tactical decisions and long-term strategic planning as the airline industry evolves over decades.
 
-**Key Progression Elements:**
-- **Early Era (1946-1950s):** Limited to propeller aircraft like the DC-3 with restricted range
-- **Growth Phase (1950s-1960s):** Access to larger propeller aircraft and early jets
-- **Jet Age (1960s-1980s):** Transition to jet aircraft fundamentally changes route possibilities
-- **Late Game (1970s-1985):** Competition intensifies with established networks and mature markets
+**Aircraft introduction dates (from the manual's plane table, which lists year, cost, range, capacity and speed for 22 planes):**[^ref-3]
+- **Douglas DC-3 (1936):** the starting plane, 1,000-mile range, 21 seats
+- **Douglas DC-6 (1947) and Vickers Viscount (1950):** the first types introduced after the game's 1946 start
+- **Boeing 707 (1958) and Douglas DC-8 (1960):** 4,000- and 3,500-mile ranges at about 600 mph
+- **Boeing 747 (1970) and Douglas DC-10 (1971):** 370 and 380 seats
+- **Aerospatiale/BAC Concorde (1976):** listed at 1,350 mph and $80,000,000
+- **Boeing 767 (1982), Boeing 757 (1983) and British Aerospace BA146 (1984):** the last planes in the table
 
 ### Puzzles and Mechanics
 
@@ -132,9 +134,9 @@ The Atari ST version featured six distinct music tracks composed by Chris Denman
 
 ### Technical Achievements
 
-Air Bucks featured a randomly generated world map system that created unique gameplay experiences with each new game[^ref-5]. This procedural generation ensured that the 128 airport sites worldwide would be positioned differently, requiring players to adapt their strategies to new geographic realities. Computer Gaming World criticized version 1.0's computer AI[^ref-10].
+MobyGames describes the world map as randomly generated with every new game[^ref-5]. The manual itself describes an optional "Randomize" city setting that resets each airport city to small, medium or large, which "demands different strategies from the players"[^ref-3]. Computer Gaming World criticized version 1.0's computer AI[^ref-10].
 
-The inclusion of special events similar to Railroad Tycoon added dynamic elements to gameplay, requiring players to respond to changing circumstances such as labor strikes, technological breakthroughs, and shifting market conditions[^ref-6]. The newspaper system provided narrative context and information about these events at the end of each game year[^ref-3].
+The inclusion of special events similar to Railroad Tycoon added dynamic elements to gameplay, requiring players to respond to changing circumstances such as real-world events, new competitors, new plane stock, worker strikes and seat pricing wars[^ref-15]. The newspaper system provided narrative context and information about these events at the end of each game year[^ref-3].
 
 ### Technical Specifications
 
@@ -157,14 +159,14 @@ The inclusion of special events similar to Railroad Tycoon added dynamic element
 - **Minimum System:** Amiga 500/2000
 - **Minimum OS:** Kickstart 1.3
 - **Minimum RAM:** 1 MB
-- **Video Modes:** OCS/ECS (version 1.0), AGA (version 1.2 with enhanced graphics)
+- **Video Modes:** OCS/ECS, AGA[^ref-17] (Lemon Amiga lists OCS/ECS for version 1.0[^ref-28] and AGA for version 1.2[^ref-16])
 - **Media:** 2x 3.5" Floppy Disks
-- **Players:** 1-4 Players
+- **Players:** 1-4 Players per MobyGames[^ref-17]; Lemon Amiga lists "1 Only" for both Amiga versions[^ref-28][^ref-16]
 - **Language:** English
 
 ### Cut Content
 
-No specific cut content has been documented in the available research materials.
+Computer Gaming World reported that the game initially showed a plane traversing its routes, but the animation was deleted from the final product after Johnny Wilson and Alan Emrich called it "too juvenile"[^ref-29].
 
 ### Version History
 
@@ -173,8 +175,8 @@ No specific cut content has been documented in the available research materials.
 | 1.0 | 1992 | DOS, Amiga, Atari ST | Initial release with known AI and economic model issues[^ref-10] |
 | 1.0 | 1992 | Amiga | OCS/ECS chipset version[^ref-4] |
 | 1.01 | 1992 | DOS | Available to registered users; CGW said it "ostensibly" ran about two-and-a-half times faster, fixed (R)eplicate fare command and spelling errors[^ref-29] |
-| 1.2 | 1993 | DOS | Substantially improved version with better VGA graphics, interface, AI, and economic model[^ref-8] |
-| 1.2 | 1993 | Amiga | OCS/ECS and AGA variants, AGA version had enhanced graphics[^ref-16] |
+| 1.2 | 1993 | DOS | "Substantially improved version"[^ref-8]; advertised with better VGA graphics, interface, computer AI and economic model[^ref-10] |
+| 1.2 | 1993 | Amiga | Listed by Lemon Amiga as an AGA release; one user comment says the AGA version had enhanced graphics[^ref-16] |
 | Sierra Originals | Later | CD-ROM | Re-release version[^ref-11] |
 
 The version 1.2 update was made available as a free upgrade for registered owners of the original game, and Impressions also offered upgrades through its CompuServe support area[^ref-8]. COMPUTE! said "There have been a host of user-suggested changes, so basically it's smarter, prettier, and better stocked with info"[^ref-8].
@@ -195,11 +197,12 @@ The COMPUTE! review noted interface issues such as the ability to assign a plane
 
 ### Easter Eggs and Trivia
 
+No easter eggs have been documented for Air Bucks. The items below are trivia.
+
 - The game's music was noted by COMPUTE! reviewer Peter Olafson as seeming "to take off from Ultima VI"[^ref-8]
 - Players start with the ability to create their own airline slogan[^ref-8]
 - The default starting base of operations is Miami[^ref-8]
 - Historical tech-stop destinations like Wake Island are included in the game world[^ref-10]
-- The game title was sometimes stylized as "Air Buck$" or "AirBucks" in various promotional materials[^ref-14]
 
 ## Legacy
 
@@ -207,11 +210,11 @@ The COMPUTE! review noted interface issues such as the ability to assign a plane
 
 No sales figures for Air Bucks have been found. Impressions followed it with the free version 1.2 upgrade[^ref-8] and later returned to the formula with Space Bucks (1996)[^ref-9]. Impressions itself was acquired by Sierra On-Line in 1995[^ref-2].
 
-The game later received a re-release as part of Sierra's "Sierra Originals" budget line on CD-ROM[^ref-11], indicating continued market interest years after its initial release.
+The game later received a re-release as part of Sierra's "Sierra Originals" budget line on CD-ROM[^ref-11].
 
 ### Collections
 
-Air Bucks was included in Sierra's CD-ROM compilations and the Sierra Originals budget series[^ref-11]. The game remains available through various abandonware archives and retro gaming preservation sites[^ref-18].
+Air Bucks was re-released in Sierra's Sierra Originals budget series on CD-ROM[^ref-11]. The game remains available through various abandonware archives and retro gaming preservation sites[^ref-18].
 
 ### Fan Projects
 
@@ -238,7 +241,6 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 **Download / Preservation**
 - [Internet Archive – Air Bucks MS-DOS](https://archive.org/details/msdos_Air_Bucks_1992)[^ref-5]
 - [MyAbandonware](https://www.myabandonware.com/game/air-bucks-1bv)[^ref-18]
-- [ClassicReload](https://classicreload.com/air-bucks.html)[^ref-14]
 
 **Manuals & Extras**
 - [Internet Archive – Manual and Strategy Guide](https://archive.org/details/air-bucks-manual-and-strategy-guide)[^ref-27]
@@ -273,7 +275,6 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 [^ref-11]: [Sierra Chest – Air Bucks](https://sierrachest.com/index.php?a=games&id=405&title=213air-bucks&fld=box&pid=30) – publisher variants, version information
 [^ref-12]: [Gamepressure.com – Air Bucks](https://www.gamepressure.com/games/air-bucks/z418c8) – release date, gameplay details, user rating
 [^ref-13]: [MobyGames – Air Bucks MobyRank](https://www.mobygames.com/game/air-bucks/mobyrank) – player ratings, bug reports
-[^ref-14]: [ClassicReload – Air Bucks](https://classicreload.com/air-bucks.html) – alternate titles, gameplay features
 [^ref-15]: [PlayClassic Games – Air Bucks](https://playclassic.games/games/business-simulation-dos-games-online/play-air-bucks-online/) – gameplay challenges, world events
 [^ref-16]: [Lemon Amiga – Air Bucks v1.2](https://www.lemonamiga.com/games/details.php?id=221) – AGA version, stock market mechanics
 [^ref-17]: [MobyGames – Air Bucks Tech Info](https://www.mobygames.com/game/air-bucks/techinfo) – system requirements, platform specifications
