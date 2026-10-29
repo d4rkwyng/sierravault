@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom
 protagonist: Drill Bit/Robotic Arm
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Oil's Well is an arcade-style maze game written by Thomas J. Mitchell and published by Sierra On-Line in 1983 for the Atari 8-bit, then ported to the Commodore 64, Apple II, ColecoVision, IBM PC, MSX and Sharp X1.
 tags: [1980s, sierra, standalone]
 ---
 # Oil's Well
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ The Apple II version requires a joystick; *Apple User*'s reviewer noted that the
 
 ### Structure and Progression
 
-There are eight oil fields (mazes), each filled with oil pellets that must all be collected to advance.[^ref-1][^ref-2] *Electronic Fun* described each board as six horizontal tunnels connected by vertical tunnels.[^ref-3] On the Commodore 64 the game returns to the first level after the eighth, with faster monsters and slower land mines.[^ref-12]
+There are eight oil fields (mazes), each filled with oil pellets that must all be collected to advance.[^ref-1][^ref-2] *Electronic Fun* described each board as six horizontal tunnels connected by vertical tunnels.[^ref-3] One Lemon64 user reports that on the Commodore 64 the game starts again from the first level after the eighth, with the monsters moving faster and the bomb moving slower.[^ref-12]
 
 The player chooses one or two players and one of three playing speeds: Regular, Unleaded or Premium.[^ref-14] The player starts with three drill bits, earns another every 10,000 points, and each bit lasts at most 990 timer ticks.[^ref-2][^ref-14]
 
@@ -67,7 +67,7 @@ The strategic element comes from deciding how far to extend the drill and when t
 
 ### Contemporary Reviews
 
-*ANALOG Computing* called the Atari 8-bit version a "truly different and challenging" variant on the "'gobble the dots' theme", with good gameplay and graphics.[^ref-1] Dave Stone in *Computer Gaming World* wrote that "The action's well-paced, the difficulty progressive. While getting to a higher level is somewhat dependent on getting the right breaks — good eye-hand coordination, timing, and strategy are essential".[^ref-1] *Ahoy!* found the Commodore version's graphics and sound only "serviceable" but called the gameplay "unique ... Recommended". *InfoWorld* called the IBM PCjr version "a clever, basic game".[^ref-1]
+*ANALOG Computing* called the Atari 8-bit version a "truly different and challenging" variant on the "'gobble the dots' theme", with good gameplay and graphics.[^ref-1] Dave Stone in *Computer Gaming World* wrote that "The action's well-paced, the difficulty progressive. While getting to a higher level is somewhat dependent on getting the right breaks — good eye-hand coordination, timing, and strategy are essential".[^ref-1] *Ahoy!* found the Commodore version's graphics and sound only "serviceable" but called the gameplay "unique ... Recommended".[^ref-1][^ref-24] *InfoWorld* called the IBM PCjr version "a clever, basic game".[^ref-1]
 
 *Electronic Fun* (March 1984, Phil Wiswell) rated the Atari version 4/4 and called it "one of the most original arcade-style titles published this year for the home computer."[^ref-3] *Electronic Games* (May 1984, Tracie Forman) called the retractable pipeline "the best - and most innovative - part of the game".[^ref-3]
 
@@ -120,13 +120,13 @@ One Lemon64 user reported that on the Commodore 64 the enemies freeze completely
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 1983 | Atari 8-bit | Original release, by Thomas J. Mitchell[^ref-2] |
-| 1.0 | December 1983 | Commodore 64 | Port by R.B. Stuart[^ref-2][^ref-4] |
-| 1.0 | March 1984 | Apple II | Port by Ivan Strand. MobyGames gives 1984; Wikipedia and FRGCB give 1983.[^ref-1][^ref-2][^ref-4] |
-| 1.0 | March 1984 | ColecoVision | Cartridge, by Don McGlauflin[^ref-2][^ref-14] |
-| 1.0 | 1984 | IBM PC Booter | Port by John Rinck[^ref-2][^ref-4] |
-| 1.0 | 1985 | MSX | Ported and published in Japan by Comptiq. FRGCB's screenshot caption says 1984.[^ref-2][^ref-4] |
-| 1.0 | August 1985 | Sharp X1 | Japanese release by Comptiq[^ref-2] |
+| — | October 1983 | Atari 8-bit | Original release, by Thomas J. Mitchell[^ref-2] |
+| — | December 1983 | Commodore 64 | Port by R.B. Stuart[^ref-2][^ref-4] |
+| — | March 1984 | Apple II | Port by Ivan Strand. MobyGames and Wikipedia give 1984; FRGCB gives 1983.[^ref-1][^ref-2][^ref-4] |
+| — | March 1984 | ColecoVision | Cartridge, by Don McGlauflin[^ref-2][^ref-14] |
+| — | 1984 | IBM PC Booter | Port by John Rinck[^ref-2][^ref-4] |
+| — | 1985 | MSX | Ported and published in Japan by Comptiq. FRGCB gives 1984.[^ref-2][^ref-4] |
+| — | August 1985 | Sharp X1 | Japanese release by Comptiq[^ref-2] |
 | Fan Port | 2013 | Commodore PET/CBM | Unofficial conversion by NOP Software[^ref-2][^ref-4] |
 
 ### Easter Eggs and Trivia
@@ -134,13 +134,13 @@ One Lemon64 user reported that on the Commodore 64 the enemies freeze completely
 - The title is a pun on "all's well". FRGCB notes that "Oil's Well" is also the title of a 1929 Oswald the Lucky Rabbit short.[^ref-1][^ref-4]
 - The Japanese title is オイルズ・ウェル, and the MSX in-game credits misspell the title as "Oil's Wall".[^ref-2]
 - Clones that borrowed the oil theme include *Pipeline Run* for the Commodore 64 (1990) and *Oilmania* for the Atari ST (1991).[^ref-1]
-- Atarimania credits *Oilmania* for the Atari ST to programmers Michael Buetepage and Michael Leonhardt, with game design by Marcer Wolter.[^ref-21]
+- Atarimania credits *Oilmania* for the Atari ST to programmers Michael Buetepage and Michael Leonhardt, with game design by "Marcer" Wolter; FRGCB gives the designer as Marcel Wolter.[^ref-21][^ref-4]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-*Computer Games* magazine gave Oil's Well its 1984 Golden Floppy Award for Excellence in the "Maze Game of the Year" category.[^ref-1] The game was ported to most major home systems of the period, from the Apple II, Atari 8-bit and Commodore 64 to the Japanese MSX and Sharp X1.[^ref-2] No sales figures have been found.
+*Computer Games* magazine gave Oil's Well its 1984 Golden Floppy Award for Excellence in the "Maze Game of the Year" category.[^ref-1] Its December 1984 issue called the Apple II version "the dot-gobbler that won our Golden Floppy Award for Best Maze Game of the Year" and "best mazer since Pac-Man".[^ref-25] The game was ported to most major home systems of the period, from the Apple II, Atari 8-bit and Commodore 64 to the Japanese MSX and Sharp X1.[^ref-2] No sales figures have been found.
 
 ### 1990 Remake
 
@@ -183,11 +183,11 @@ In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/
 
 [^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – programmer, ports, Anteater, reviews (ANALOG, CGW, Ahoy!, InfoWorld), Golden Floppy award, clones
 [^ref-2]: [MobyGames – Oil's Well (1983)](https://www.mobygames.com/game/1427/oils-well/) – release dates, platforms, credits, specs, scoring and timer, critic average
-[^ref-3]: [Atarimania – Oil's Well](https://www.atarimania.com/game-atari-400-800-xl-xe-oil-s-well_3772.html) – Electronic Fun and Electronic Games reviews, machine language, rating 7.7
+[^ref-3]: [Atarimania – Oil's Well](https://www.atarimania.com/games/atari-400-800-xl-xe-games-oil-s-well-3772) – Electronic Fun and Electronic Games reviews, machine language, rating 7.7
 [^ref-4]: [FRGCB Blog – Anteater/Oil's Well Origins](http://frgcb.blogspot.com/2021/09/anteater-oils-well-origins-and.html) – port credits, development history, version comparison
 [^ref-5]: [Internet Archive – MS-DOS Version (1990)](https://archive.org/details/msdos_Oils_Well_1990) – 1990 remake developed by Banana Development, Inc.
 [^ref-6]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – 1990 remake developer and critic average
-[^ref-8]: [Sierra Chest – Oil's Well (VGA)](https://sierrachest.com/index.php?a=games&id=367) – 1990 remake, Slater the petrosaur, eight levels
+[^ref-8]: [Sierra Chest – Oil's Well (VGA)](https://web.archive.org/web/20230420064823/https://sierrachest.com/index.php?a=g&fld=s&id=367) – 1990 remake, Slater the petrosaur, eight levels
 [^ref-10]: [PixelatedArcade – Oil's Well](https://pixelatedarcade.com/games/oil-s-well) – gameplay description, 1990 enhanced remake
 [^ref-11]: [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line) – control scheme, eight levels
 [^ref-12]: [Lemon64 – Oil's Well](https://www.lemon64.com/game/oils-well) – user comments, C64 controls, compilation
@@ -196,6 +196,8 @@ In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/
 [^ref-15]: [Every Game Going – Apple User Review](https://www.everygamegoing.com/larticle/Oils-Well-000/40739/) – Cliff McKnight review, October 1984
 [^ref-16]: [UVList – Oil's Well](https://www.uvlist.net/game-36324-Oils+Well) – French publication review scores
 [^ref-17]: [MyAbandonware – Oil's Well](https://www.myabandonware.com/game/oil-s-well-2jg) – Home of the Underdogs review, user rating
-[^ref-20]: [ColecoVision Addict – Oil's Well](https://cvaddict.com/profile.php?gameid=111) – ROM specifications
-[^ref-21]: [Atarimania – Oilmania](http://www.atarimania.com/game-atari-st-oilmania_10119.html) – clone credits
+[^ref-20]: [ColecoVision Addict – Oil's Well](https://cvaddict.com/game/oils-well/) – ROM specifications
+[^ref-21]: [Atarimania – Oilmania](http://www.atarimania.com/games/atari-st-games-oilmania-10119) – clone credits
 [^ref-23]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file) – Atari 8-bit release
+[^ref-24]: [Ahoy! – Issue 4, April 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-04/page/n56/mode/2up) – Randy Palmer's C-64 review, pp. 57–58: "Graphics and sound are serviceable; gameplay is, in my experience, unique"
+[^ref-25]: [Computer Games – Vol. 3 No. 4, December 1984 (Internet Archive)](https://archive.org/details/Computer_Games_Vol_3_No_4_1984-12_Carnegie_Publications_US/page/n62/mode/1up) – Apple II capsule review, p. 63: Golden Floppy Award for Best Maze Game of the Year
