@@ -10,7 +10,7 @@ series: Oil's Well
 engine: Unknown/unnamed
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Ken Allen]
 description: Oil's Well (1990) is an arcade-style action game published by Sierra
   On-Line and developed by Banana Development, Inc. The game serves as an enhanced
@@ -19,13 +19,13 @@ tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc. [^ref-1][^ref-2][^ref-17][^ref-18][^ref-20] The game serves as an enhanced remake of the original 1983 Oil's Well, which was written by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
+Oil's Well (1990) is an arcade-style action game published by Sierra On-Line[^ref-20] and developed by Banana Development, Inc.[^ref-1][^ref-2][^ref-17][^ref-18] The game serves as an enhanced remake of the original 1983 Oil's Well, which was written by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
 
-The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] Retro365 described Oil's Well as "a fine cocktail of Dig-Dug, Snake, and Pac-Man," a phrase it also applied to Anteater itself.[^ref-6]
+The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] Retro365 described Anteater as "a fine cocktail of Dig-Dug, Snake, and Pac-Man elements stirred into a unique but fun and challenging game"; only the article's title applies that mix to Oil's Well ("Oil's Well, a fine cocktail of Dig-Dug, Snake, and Pac-Man").[^ref-6]
 
 The original 1983 version became a solid hit and won Computer Games Magazine's 1984 Golden Floppy Award for Excellence as Maze Game of the Year.[^ref-3][^ref-6] Looking back on the remake in 2021, the Retro365 blog observed that "while the simple yet unique gameplay was plentiful for a commercial game in 1983, customers' expectations had changed significantly by 1990."[^ref-6]
 
@@ -55,7 +55,7 @@ Slater went on to star in his own game, Slater & Charlie Go Camping.[^ref-5]
 
 Oil's Well utilizes a simple yet challenging control scheme appropriate for its arcade-style gameplay.[^ref-7] Players use four directional controls to maneuver the drill head through the underground maze while a dedicated button allows for quick retraction of the drilling apparatus.[^ref-7] The 1990 DOS version supports keyboard, mouse and joystick (or gamepad) control, chosen during installation; by default the arrow keys steer the drill bit and the space bar retracts it.[^ref-5][^ref-21]
 
-The player controls a drilling bit that leaves behind a pipeline as it moves through the underground tunnels.[^ref-3] This trailing pipe creates the core strategic challenge – the entire length of the drilling apparatus is vulnerable to enemy contact, not just the drill head itself.[^ref-3][^ref-7] One touch from the underground creatures to any part of the robotic arm results in losing a life.[^ref-7][^ref-8]
+The player controls a drilling bit that leaves behind a pipeline as it moves through the underground tunnels.[^ref-3] This trailing pipe creates the core strategic challenge: the drill bit destroys any critter it touches (earning bonus points), but a critter that touches the pipe destroys both the pipe and the bit, costing a life.[^ref-3][^ref-12][^ref-21] Land mines work the other way round: they pass through the pipe harmlessly but destroy the drill bit if it touches one.[^ref-12][^ref-21] Players can retract the pipe quickly to escape an approaching critter.[^ref-12][^ref-21]
 
 ### Structure and Progression
 
@@ -109,7 +109,7 @@ On MyAbandonware, one 2010 commenter called the 1990 game "frustrating, annoying
 
 ### Origins
 
-Oil's Well was written by programmer Thomas J. Mitchell for Atari 8-bit computers in 1983.[^ref-3] The game concept was similar to Chris Oberth's Anteater/Ardy the Aardvark arcade games from 1982, but Mitchell swapped the anthill setting for an oil-drilling operation theme.[^ref-3][^ref-6] This re-theming gave the game its own identity while maintaining the core gameplay mechanic of controlling an extending appendage through a maze-like environment.[^ref-6]
+Oil's Well was written by programmer Thomas J. Mitchell for Atari 8-bit computers in 1983.[^ref-3] The game concept was similar to Chris Oberth's arcade game Anteater (1982, Stern Electronics) and its home version, Ardy the Aardvark (published by Datamost in 1983), but Mitchell swapped the anthill setting for an oil-drilling operation theme.[^ref-3][^ref-6] This re-theming gave the game its own identity while maintaining the core gameplay mechanic of controlling an extending appendage through a maze-like environment.[^ref-6]
 
 The original game was released under Sierra's short-lived "SierraVision" label before being re-released in 1984 under the generic Sierra label.[^ref-6] The game proved successful enough to warrant ports to multiple platforms including Apple II (programmed by Ivan Strand), Commodore 64, ColecoVision (programmed by Don McGlauflin), IBM PC, MSX, and Sharp X1.[^ref-3][^ref-6][^ref-8]
 
@@ -133,7 +133,7 @@ The enhanced graphics were created by Nancy Hoffelmeyer (Art Director) and Andy 
 
 ### Technical Achievements
 
-The 1990 remake featured significant technical improvements over the original versions.[^ref-6] The game showcased 256-color VGA graphics, a substantial upgrade from the limited color palettes of the 1983 releases.[^ref-6][^ref-12] Ken Allen composed an original soundtrack that reviewers praised as "brilliantly composed" and well-suited to the game's theme.[^ref-5]
+The 1990 remake featured significant technical improvements over the original versions.[^ref-6] The game showcased 256-color VGA graphics, a substantial upgrade from the limited color palettes of the 1983 releases.[^ref-6][^ref-12] Ken Allen composed an original soundtrack, which Retro365 called "an excellent soundtrack";[^ref-6] one MobyGames user review praised it as "brilliantly composed" and said it "blends in with the game's overall theme."[^ref-5]
 
 One of the most notable additions was the inclusion of animated cartoon sequences between levels.[^ref-5][^ref-6] These featured Slater the Petrosaur in various comedic situations involving drillbits, providing entertainment incentives for level completion beyond simple score advancement.[^ref-1][^ref-5]
 
@@ -147,8 +147,8 @@ One of the most notable additions was the inclusion of animated cartoon sequence
 - **File Size:** Approximately 1 MB
 - **Players:** 1-2
 
-**Emulation Compatibility:**[^ref-9]
-- **DOSBox:** Supported
+**Emulation Compatibility:**
+- **DOSBox:** Runs in DOSBox via the Internet Archive's in-browser emulator[^ref-1]
 - **Archive.org Item Size:** 18.3 MB (full archive)[^ref-1]
 
 ### Cut Content
@@ -159,8 +159,8 @@ No documented cut content has been identified in research for the 1990 remake.
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.14 | 1990 | DOS | VGA Remake - initial release[^ref-12] |
-| 1.15 | 1990 | DOS | VGA Remake - minor update[^ref-12] |
+| 1.14 | 1990 | DOS | VGA Remake - instruction manual for this version listed; release order not documented[^ref-12] |
+| 1.15 | 1990 | DOS | VGA Remake - instruction manual for this version listed; changes not documented[^ref-12] |
 
 For versions of the original 1983 game, see [[1983 - Oils Well|Oil's Well (1983)]].
 
@@ -169,7 +169,7 @@ For versions of the original 1983 game, see [[1983 - Oils Well|Oil's Well (1983)
 Users have reported several compatibility issues with the 1990 DOS version:[^ref-9][^ref-13]
 
 - **Control Mapping Issues:** Some DOSBox configurations result in mouse controls instead of the expected arrow keys and spacebar, significantly altering gameplay[^ref-9]
-- **Version Confusion:** Download sites have occasionally provided the 1984 CGA version instead of the 1990 VGA remake[^ref-9]
+- **Version Confusion:** One MyAbandonware user reported downloading the 1990 version and getting the 1984 version instead[^ref-9]
 - **Vintage Hardware Compatibility:** Testing on NEC Mobile Gear MC-MK12 showed the 1990 version runs but lacks keyboard input functionality[^ref-13]
 
 ### Easter Eggs and Trivia
@@ -204,7 +204,7 @@ An unofficial conversion of Oil's Well for the Commodore PET/CBM appeared in 201
 
 ### Critical Perspective
 
-Oil's Well occupies an interesting position in Sierra's catalog as one of their purely arcade-style offerings during an era when the company was primarily known for adventure games. The original 1983 version demonstrated that Sierra could successfully compete in the action game market, offering what critics called "truly different and challenging" gameplay that combined familiar elements in novel ways.[^ref-3]
+ANALOG Computing called the 1983 original "truly different and challenging."[^ref-3]
 
 The 1990 remake illustrates the challenges of updating classic arcade games for modern audiences. While the technical improvements – VGA graphics, Ken Allen's soundtrack, and animated interludes – were substantial, the fundamental gameplay remained rooted in early 1980s design sensibilities.[^ref-6] At least one MobyGames reviewer questioned why Sierra chose to remake it at all, while the Slater character went on to star in his own game.[^ref-5][^ref-6]
 
