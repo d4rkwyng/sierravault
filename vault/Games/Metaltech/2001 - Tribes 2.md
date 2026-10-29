@@ -10,7 +10,7 @@ series: Starsiege
 engine: Torque Game Engine
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Tribes 2 is a sci-fi first-person shooter multiplayer video game developed
   by Dynamix and published by Sierra On-Line in 2001 as the sequel to Starsiege: Tribes,
   featuring large-scale team-based combat with jetpack-powered movement.'
@@ -18,13 +18,13 @@ tags: [2000s, shooter, sierra, starsiege]
 ---
 # Tribes 2
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Tribes 2 is a sci-fi first-person shooter multiplayer video game developed by Dynamix and published by Sierra On-Line in 2001 as the sequel to Starsiege: Tribes[^ref-1][^ref-7]. Set in the 40th century on the frontier "wilderzone" of human space, hardy neo-barbarian tribes compete for possession of new worlds[^ref-2]. The game's packaging promised fast-paced team play online across vast worlds[^ref-3], with the Tribes of Man facing a new threat: "The BioDerm Horde. Genetically engineered as a slave race, The Horde is driving toward the heart of the Empire in an explosive frenzy of rage and violence"[^ref-3].
 
-DailyRadar's review of the game said of the original *Tribes*: "Unlike anything before it, the multiplayer, 360 degree, team play-based game set new standards for what a multiplayer game could and possibly should be"[^ref-4]. Tribes 2 gameplay makes extensive use of jet pack-powered flight, which adds a notable vertical element to combat, and players move across expansive maps on foot, by jet pack, or in ground and airborne vehicles[^ref-7]. Players are free to choose their own role and loadout[^ref-7], and the game supports large online or LAN matches: PCGamingWiki lists 64 players[^ref-5], while Wikipedia gives up to 128 (64 vs 64)[^ref-7].
+DailyRadar's review of the game said of the original *Tribes*: "Unlike anything before it, the multiplayer, 360 degree, team play-based game set new standards for what a multiplayer game could and possibly should be"[^ref-4]. Jet pack flight is central to play and gives fights a strong vertical dimension, and players move across expansive maps on foot, by jet pack, or in ground and airborne vehicles[^ref-7]. No role is assigned; each player picks one[^ref-7], and the game supports large online or LAN matches: PCGamingWiki lists 64 players[^ref-5], while Wikipedia gives up to 128 (64 vs 64)[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]
@@ -74,13 +74,13 @@ Central to gameplay is the jet pack, together with a "skiing" action for sliding
 
 ### Modern Assessment
 
-On MyAbandonware, users rate it 4.65/5 from 20 votes[^ref-23], and the game has kept an active community through projects like TribesNext[^ref-24]. Critics noted that "Tribes 2 isn't easy to master, and it won't play well on every gaming PC, but when you're up and running it's a tremendous amount of fun"[^ref-16]. GameSurge called it "the best example of a team based multiplayer game to date"[^ref-25]. GameRevolution listed a steep learning curve among its drawbacks[^ref-15], and Eurogamer called the system requirements "simply over the top"[^ref-19].
+On MyAbandonware, users rate it 4.67/5 from 21 votes[^ref-23], and the game has kept an active community through projects like TribesNext[^ref-24]. Critics noted that "Tribes 2 isn't easy to master, and it won't play well on every gaming PC, but when you're up and running it's a tremendous amount of fun"[^ref-16]. GameSurge called it "the best example of a team based multiplayer game to date"[^ref-25]. GameRevolution listed a steep learning curve among its drawbacks[^ref-15], and Eurogamer called the system requirements "simply over the top"[^ref-19].
 
 ## Development
 
 ### Origins
 
-Development began as a sequel to Starsiege: Tribes, which came out at the very end of 1998 as the first retail first-person shooter designed specifically for multiplayer competition[^ref-16]. In August 2000, Dynamix took beta applications and planned to choose approximately 1,000 applicants[^ref-27]. The game was then scheduled for a Fall 2000 release[^ref-27]; it launched in North America on March 29, 2001[^ref-7].
+Development began as a sequel to Starsiege: Tribes, which came out at the very end of 1998 and which GameSpot called the first retail first-person shooter designed specifically for multiplayer competition[^ref-16]. In August 2000, Dynamix took beta applications and planned to choose approximately 1,000 applicants[^ref-27]. The game was then scheduled for a Fall 2000 release[^ref-27]; it launched in North America on March 29, 2001[^ref-7].
 
 ### Production
 
@@ -94,7 +94,7 @@ Tribes 2 ran on an early version of the Torque Game Engine[^ref-7][^ref-34]. It 
 
 ## Legacy
 
-The game's engine technology evolved into the Torque Game Engine, which was later released as open source and became Torque 3D[^ref-38]. Shortly after launch in 2001, DailyRadar counted "over 300 servers hosting games around the world"[^ref-4].
+The game's engine became the Torque Game Engine[^ref-7][^ref-44], which was later superseded by Torque 3D[^ref-44]. On September 10, 2012, GarageGames announced that it would release Torque 3D as open source under the MIT license[^ref-38]. Shortly after launch in 2001, DailyRadar counted "over 300 servers hosting games around the world"[^ref-4].
 
 The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. In October 2015, Hi-Rez Studios made every Tribes game available to download for free[^ref-42].
 
@@ -128,7 +128,7 @@ The community created extensive modifications and content, including approximate
 [^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship
 [^ref-2]: [Internet Archive - Tribes 2 Manual](https://archive.org/stream/Tribes_2_Manual/Tribes_2_Manual_djvu.txt) - Game setting and story background
 [^ref-3]: [GameFAQs - Tribes 2](https://gamefaqs.gamespot.com/pc/914210-tribes-2/data) - Official marketing copy and story setup
-[^ref-4]: [Amazon UK - Sierra Best Sellers: Tribes 2 (Wayback, 2007)](http://web.archive.org/web/20071007173250/http://www.amazon.co.uk:80/Sierra-Best-Sellers-Tribes-2/dp/B00005Y3R5) - Reprints T. Byrl Baker's DailyRadar.com review (2001)
+[^ref-4]: [Amazon UK - Sierra Best Sellers: Tribes 2 (Wayback, 2007)](http://web.archive.org/web/20071007173250/http://www.amazon.co.uk:80/Sierra-Best-Sellers-Tribes-2/dp/B00005Y3R5) - Amazon.co.uk listing (Wayback, 2007), which reprints a DailyRadar.com review (2001)
 [^ref-5]: [PCGamingWiki - Tribes 2](https://www.pcgamingwiki.com/wiki/Tribes_2) - Technical specifications and gameplay mechanics
 [^ref-7]: [Wikipedia - Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) - Developer and publisher information
 [^ref-11]: [GameFAQs - Tribes 2 Beginner's Guide](https://gamefaqs.gamespot.com/pc/914210-tribes-2/faqs/14072) - Guide author's perspective and gameplay description
@@ -144,8 +144,9 @@ The community created extensive modifications and content, including approximate
 [^ref-27]: [BetaNews - Beta Test Tribes 2](https://betanews.com/2000/08/30/beta-test-tribes-2/) - Beta testing announcement details
 [^ref-29]: [Dynamix Wiki - Tribes 2](https://dynamix.fandom.com/wiki/Tribes_2) - Staff roll and voice talent credits
 [^ref-34]: [TV Tropes - Dynamix](https://tvtropes.org/pmwiki/pmwiki.php/Creator/Dynamix) - Engine evolution details
-[^ref-38]: [Web Archive - GarageGames blog](https://web.archive.org/web/20121225214405/http://www.garagegames.com/community/blogs/view/21876) - Torque 3D open source release
+[^ref-38]: [Web Archive - GarageGames blog](https://web.archive.org/web/20121225214405/http://www.garagegames.com/community/blogs/view/21876) - Eric Preisz, "GarageGames to Release T3D as Open Source" (September 10, 2012)
 [^ref-40]: [TribesNext - Tribes 2 Ultimate Pack](https://www.tribesnext.com/forum/discussion/2364/tribes-2-ultimate-pack) - Community content statistics
 [^ref-41]: [Shacknews - Sierra shutting down 21 old games](https://www.shacknews.com/article/55173/sierra-shutting-down-21-old) - Server shutdown coverage
 [^ref-42]: [GameSpot - Get every Tribes game for free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) - Freeware announcement coverage (October 30, 2015)
 [^ref-43]: [Slashdot - Dynamix Closed Down?](https://games.slashdot.org/story/01/08/10/1157223/dynamix-closed-down) - August 10, 2001 report of Dynamix's shutdown
+[^ref-44]: [Wikipedia - Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)) - Engine developed by Dynamix for Tribes 2; superseded by Torque 3D
