@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 composer: [Cayanie Music]
 description: Red Baron is a World War I flight combat simulation created and developed
   by Dynamix in 1990, placing players in the pilot's seat of actual World War I...
@@ -18,32 +18,32 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Red Baron is a World War I flight combat simulation created and developed by [[Dynamix]] in 1990, placing players in the pilot's seat of actual World War I fighter aircraft during the aerial battles over the Western Front.[^ref-1] The game was created by [[Damon Slye]] and was mainly intended as an entertainment game rather than a strict flight simulator, though it modeled distinctive handling traits such as the gyroscopic effect of the Sopwith Camel's rotary engine.[^ref-4] Players could choose to fly for either the Royal Flying Corps or the German Air Service, in single missions or in a career running from December 1915 to just before the Armistice.[^ref-4]
 
-The game's success was significant for its studio: Slye later said that Red Baron's success made Dynamix become known as a developer of flight simulators.[^ref-4] Warren Spector, producer of Origin Systems' World War I simulation Wings of Glory, was a fan, calling it "an astonishing accomplishment."[^ref-4] Red Baron sold over 500,000 copies and won Computer Gaming World's 1991 Simulation of the Year award, and the magazine inducted it into its Hall of Fame in 1993.[^ref-4]
+The game's success was significant for its studio: Slye later said that Red Baron's success made Dynamix become known as a developer of flight simulators.[^ref-4] Warren Spector, producer of Origin Systems' World War I simulation Wings of Glory, was a fan, calling it "an astonishing accomplishment."[^ref-4][^ref-34] Red Baron sold over 500,000 copies and won Computer Gaming World's 1991 Simulation of the Year award, and the magazine inducted it into its Hall of Fame in 1993.[^ref-4]
 
 The game featured 28 different aircraft and offered both single missions and a full career mode where pilots could rise through the ranks and potentially encounter legendary aces, including Manfred von Richthofen—the Red Baron himself.[^ref-5] It was followed by the Red Baron: Mission Builder expansion, Red Baron II (1997) and Red Baron 3-D (1998).[^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Damon Slye]][^ref-4]
-> **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Publisher:** [[Sierra On-Line]][^ref-13]
 > **Engine:** 3-Space (Dynamix); designer Damon Slye names Red Baron among its games[^ref-31]; flight model programmed by Damon Slye[^ref-13]
-> **Platforms:** MS-DOS, Amiga, Macintosh[^ref-1]
+> **Platforms:** MS-DOS, Amiga, Macintosh[^ref-13]
 > **Release Year:** 1990
-> **Series:** Red Baron / Great War Planes
+> **Series:** Red Baron
 > **Protagonist:** Player-created WWI pilot
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
 Red Baron does not feature a traditional narrative storyline but instead presents a historically grounded simulation of World War I aerial combat on the Western Front. Players create a pilot and enlist as a fighter pilot in either the Royal Flying Corps or the German Air Service.[^ref-29] The "story" emerges organically through the player's career, as their pilot rises through the ranks, accumulates victories, and witnesses the progression of the war.
 
-The career begins with the selection of a side and an entry date (early, middle or late war).[^ref-8] Early in the war players may fly aircraft like the Fokker E.I Eindecker, while other playable machines include the Fokker Dr.I Triplane, the Sopwith Camel and the SPAD XIII.[^ref-9] More advanced aircraft are introduced in their proper time periods, and the Front shifts as it did during the war.[^ref-4] Pilots who are wounded spend months recuperating, or months in a prisoner-of-war camp if they come down in enemy territory, and the war moves on while they are away.[^ref-4]
+The career begins with the selection of a side and an entry date (early, middle or late war).[^ref-8] Early in the war players may fly aircraft like the Fokker E.I Eindecker, while other playable machines include the Fokker Dr.I Triplane, the Sopwith Camel and the SPAD XIII.[^ref-4] More advanced aircraft are introduced in their proper time periods, and the Front shifts as it did during the war.[^ref-4] Pilots who are wounded spend months recuperating, or months in a prisoner-of-war camp if they come down in enemy territory, and the war moves on while they are away.[^ref-4]
 
 Players can measure themselves against historical aces such as Albert Ball, Oswald Boelcke and Erich Löwenhardt.[^ref-8] These encounters are not scripted: depending on the time period and the location of their aerodrome, players can fly alongside a famous ace or meet the enemy aces who were active in that area, and may end up flying in the Red Baron's own Jasta 11 or facing him as an enemy.[^ref-4] The Steam store page for the Red Baron Pack features a quote attributed to a World War I pilot: "I can't say how much it hit me to be sitting up there, a couple of miles high, looking down on the battlefield, in fact, on four or five battlefields, and sweeping them all in one glorious bird's-eye view."[^ref-10]
 
@@ -63,7 +63,7 @@ The game offers multiple play modes to accommodate different player preferences:
 
 - **Single Mission Mode:** Quick access to individual combat scenarios for immediate action
 - **Full Career Mode:** A comprehensive campaign following a pilot from enlistment through the war years
-- **Historical Missions:** Recreations of famous aerial battles and encounters[^ref-9]
+- **Historical Missions:** Recreations of famous aerial battles and encounters[^ref-4]
 
 In career mode, players start as junior pilots and progress through the ranks based on their accumulated victories and survival. The campaign system tracks individual progress, including:
 
@@ -97,7 +97,7 @@ Computer Gaming World approved of Red Baron's accurate history, realistic flight
 
 In a 1991 survey of World War I flight simulations, Computer Gaming World described Red Baron as less realistic than MicroProse's Knights of the Sky, but with excellent graphics and gameplay.[^ref-4] GameSpot's Denny Atkin would later describe the original as "a true classic, with one of the longest lives of any computer game," noting that a discounted version was still on store shelves seven years after its release.[^ref-7]
 
-PC Gamer US ranked Red Baron as the #17 Best Computer Game in their 1994 rankings, while Computer Gaming World placed it #4 on their list of 150 Best Games of All Time in 1996.[^ref-4] GameStar later recognized it as #92 among the Most Important PC Games of the Nineties.[^ref-13]
+PC Gamer US ranked Red Baron as the #17 Best Computer Game in their 1994 rankings, while Computer Gaming World placed it #4 on their list of 150 Best Games of All Time in 1996.[^ref-4][^ref-13] GameStar later recognized it as #92 among the Most Important PC Games of the Nineties.[^ref-13]
 
 ### Modern Assessment
 
@@ -106,9 +106,9 @@ Modern retrospectives continue to recognize Red Baron's significance in gaming h
 The campaign system earned particular praise for its execution. As one MobyGames review quoted by MyAbandonware noted, "The campaign system is flawlessly executed and follows you through the war."[^ref-6] MobyGames user Rick Jones declared in a player review: "Red Baron is the best dogfighting game the PC has ever seen, bar none."[^ref-13]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 74% (17 ratings)[^ref-13]
+- **MobyGames Critics:** 74% (16 ratings, April 2026)[^ref-35]
 - **MyAbandonware:** 4.76/5[^ref-6]
-- **IMDB:** 7.5/10 (60 votes)[^ref-15]
+- **IMDB:** 7.5/10 (user rating, January 2026)[^ref-15]
 - **Games Nostalgia:** 83/100[^ref-3]
 
 ## Development
@@ -230,7 +230,7 @@ Mad Otter Games also offered a $1,500 reward for the delivery of the original C/
 
 ### Critical Perspective
 
-Red Baron arrived during a period of competition with MicroProse's Knights of the Sky, another World War I flight simulation.[^ref-4] Its success helped establish Dynamix as a flight simulator developer: by 1994 Slye agreed with a Computer Gaming World statement that "Now when someone hears 'Dynamix' they immediately think 'flight simulator'."[^ref-21]
+Red Baron arrived during a period of competition with MicroProse's Knights of the Sky, another World War I flight simulation.[^ref-4] Its success helped establish Dynamix as a flight simulator developer: by 1994 Slye agreed with a Computer Gaming World statement that "Now when someone hears 'Dynamix' they immediately think 'flight simulator'."[^ref-21][^ref-33]
 
 Sierra considered it the first in its Aces line of simulations, whose combined sales passed one million units by the end of March 1996.[^ref-4]
 
@@ -241,6 +241,7 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 - [GOG – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack)
 
 **Download / Preservation**
+- No download links: the game is sold commercially on GOG and Steam (see above).
 
 **Manuals & Extras**
 - [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt)
@@ -264,7 +265,6 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 [^ref-6]: MyAbandonware – Red Baron *(download link removed: the game is sold commercially)* – user ratings, description, quoted MobyGames review
 [^ref-7]: [GameSpot – Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – Denny Atkin's comments on the original Red Baron's longevity
 [^ref-8]: [Eurogamer – Retrospective: Red Baron](https://www.eurogamer.net/retrospective-red-baron-article) – gameplay details, career mode, sortie types, Captain rank
-[^ref-9]: Retrogames.cz – Red Baron *(download link removed: the game is sold commercially)* – mission types, aircraft list
 [^ref-10]: [Steam Store – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – WWI pilot quote, ratings
 [^ref-11]: [Sierra Help – Red Baron Help](https://sierrahelp.com/Games/RedBaron/RedBaronHelp.html) – CD-release requirements, speed bug, DOSBox, sound support
 [^ref-13]: [MobyGames – Red Baron](https://www.mobygames.com/game/1766/red-baron/) – release date, aggregate scores, reviews, credits, specs, awards, 256-color upgrade
@@ -283,3 +283,6 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 [^ref-30]: [MobyGames – Red Baron Patches](https://www.mobygames.com/game/1766/red-baron/patches/) – VER 1.1B3 joystick driver patch, May 1992
 [^ref-31]: [Sierra Chest – Engine: 3-Space (Wayback 2019-05-12)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg. It was used in Stellar 7, … A10 Tank Killer, Red Baron, Aces of the Pacific…"
 [^ref-32]: [Steemit – Interesting People #13: Damon Slye on the making of Red Baron (badastroza, 2017)](https://steemit.com/gaming/@badastroza/interesting-people-13-damon-slye-on-the-making-of-red-baron) – Slye interview: "we weren't just building a flight simulator, but we were building interactive history"; "realistic and authentic as much as possible"
+[^ref-33]: [Computer Gaming World #118 (May 1994), p. 72 – "Ace Over The PC: Dynamix's Damon Slye Speaks", interview by Tom "KC" Basham](https://archive.org/details/Computer_Gaming_World_Issue_118/page/n71/mode/1up) – CGW: "Now when someone hears 'Dynamix' they immediately think 'flight simulator.'" DS: "Yeah…"
+[^ref-34]: [Computer Gaming World #119 (June 1994), pp. 18–19 – Wings of Glory "Sneak Preview"](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n18/mode/1up) – Spector "had put many hours behind the stick of Dynamix's Red Baron (which he believes to be an excellent game and 'an astonishing accomplishment')"
+[^ref-35]: [MobyGames – Red Baron (Wayback 2026-04-16)](https://web.archive.org/web/20260416015507/https://www.mobygames.com/game/1766/red-baron/) – "Critics Average score: 74% (based on 16 ratings)"
