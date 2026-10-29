@@ -163,7 +163,7 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG.com search](https://www.gog.com/en/games?query=Hoyle+Table+Games)
+- GOG: No GOG listing found (GOG store search, checked October 29, 2026)
 - Steam: No Steam listing found (Steam store search, checked October 29, 2026)
 
 **Download / Preservation**

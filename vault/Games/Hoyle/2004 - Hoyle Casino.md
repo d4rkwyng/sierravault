@@ -145,7 +145,7 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG.com search](https://www.gog.com/en/games?query=Hoyle+Casino)
+- GOG: No GOG listing found (GOG store search, checked October 29, 2026)
 - Steam: No Steam listing found (Steam store search, checked October 29, 2026)
 
 **Download / Preservation**

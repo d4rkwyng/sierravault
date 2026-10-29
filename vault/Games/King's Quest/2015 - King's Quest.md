@@ -10,7 +10,7 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand, in which an
   elderly King Graham tells his granddaughter Gwendolyn stories of his youthful adventures.
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -208,7 +208,7 @@ This game is not available on GOG[^ref-7].
 [^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description; MobyScore 7.5 from 15 votes (MobyGames API, checked 2026-10-12)
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
 [^ref-6]: [Metacritic – King's Quest critic reviews](https://www.metacritic.com/game/kings-quest/critic-reviews/) – Adventure Gamers 90/100 (Nov 18, 2016) with review excerpt
-[^ref-7]: [GOG catalog search – King's Quest](https://www.gog.com/en/games?query=king%27s%20quest) – checked 2026-10-09: only King's Quest 1+2+3, 4+5+6, 7+8 and Order of the Thorne listed; the 2015 game is not sold on GOG
+[^ref-7]: No GOG listing found (GOG store search, checked October 29, 2026) – only King's Quest 1+2+3, 4+5+6, 7+8 and Order of the Thorne listed; the 2015 game is not sold on GOG
 [^ref-9]: [IGN – King's Quest: A Knight to Remember Review](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) – 8/10 review by Leif Johnson, Christopher Lloyd voice acting praise
 [^ref-10]: [ZTGD – King's Quest Chapter 1 Review](https://ztgd.com/kings-quest-chapter-1-a-knight-to-remember-xb1-review/) – 9.5/10 review, gameplay length, puzzle design
 [^ref-11]: [Digitally Downloaded – King's Quest Complete Series Review](https://www.digitallydownloaded.net/2017/01/review-kings-quest-sony-playstation-4.html) – full series review, voice cast details, Matt Korba creative direction

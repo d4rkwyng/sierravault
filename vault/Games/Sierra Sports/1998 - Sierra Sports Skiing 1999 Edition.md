@@ -225,7 +225,7 @@ Sierra closed Dynamix in August 2001, as part of restructuring under Vivendi Uni
 [^ref-7]: [The Sierra Chest – Dynamix](https://sierrachest.com/index.php?a=devs&id=3&title=dynamix&fld=general) – Dynamix company information, Sierra acquisition, 2001 closure
 [^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports unveiled at the 1998 Daytona 500, NASCAR Racing 2 sales ranking, Sean Gleason quote
 [^ref-9]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam
-[^ref-10]: [GOG.com Search Results](https://www.gog.com/en/games?query=Sierra+Sports+Skiing+1999+Edition) – game not available on GOG
+[^ref-10]: No GOG listing found (GOG store search, checked October 29, 2026) – game not available on GOG
 
 [^ref-11]: [Wikipedia – Sierra Sports Skiing 1999 Edition](https://en.wikipedia.org/wiki/Sierra_Sports:_Skiing_1999_Edition) – alternate and European titles, release information, review scores table (GameRankings, Gamecenter, CGSP, IGN, PC Accelerator, PC Gamer)
 
