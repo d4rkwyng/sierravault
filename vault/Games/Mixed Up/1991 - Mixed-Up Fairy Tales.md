@@ -10,14 +10,14 @@ series: Mixed-Up
 engine: SCI1
 protagonist: Player-selected child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Mixed-Up Fairy Tales is an educational adventure game released in 1991
   by Sierra On-Line for MS-DOS. The game serves as a follow-up to the earlier Mixed-Up...
 tags: [1990s, educational, mixed-up, sci, sierra]
 ---
 # Mixed-Up Fairy Tales
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -41,19 +41,19 @@ The game's hand-drawn graphics have been compared to the level of detail in Sier
 
 ## Story Summary
 
-In the magical world of fairy tales, Bookwyrm serves as the keeper of all classic stories, maintaining them within a special book[^ref-10]. However, Bookend, a troublesome character, has created chaos by mixing up the contents of five beloved fairy tales: Cinderella, Jack and the Beanstalk, Beauty and the Beast, Bremen Town Musicians, and Snow White[^ref-2]. Characters and objects from different stories have become scattered across the land, requiring intervention to restore narrative order[^ref-5].
+In the magical world of fairy tales, Bookwyrm serves as the keeper of all classic stories, maintaining them within a special book[^ref-10]. However, Bookend, a troublesome character, has created chaos by mixing up the contents of five beloved fairy tales: Cinderella, Jack and the Beanstalk, Beauty and the Beast, Bremen Town Musicians, and Snow White[^ref-2]. Bookend has hidden pieces of the five stories throughout an enchanted landscape, and the player must return them to restore each tale[^ref-23].
 
 The player takes on the role of a child who must help Bookwyrm unscramble these classic tales[^ref-3]. As the protagonist explores the enchanted landscape, they encounter various fairy tale characters—both human and animal—who are displaced from their proper stories[^ref-11]. By correctly identifying which fairy tale each character belongs to using a special fairy tale book, the player initiates the process of restoration[^ref-11].
 
 The gameplay involves acquiring specific objects and delivering them to the appropriate characters to help them complete their stories[^ref-12]. Bookwyrm remains available throughout the adventure to provide guidance, offering directions to the player's next objective whenever they become stuck[^ref-5]. Most of the actual story events happen off-screen, with players facilitating rather than directly participating in the fairy tale conclusions[^ref-5].
 
-Each tale has something missing or out of place. The prince cannot find Cinderella because her glass slipper was stolen, Jack's axe is missing so he cannot chop down the beanstalk, and Snow White is lost and needs help finding the seven dwarves' house[^ref-2]. MobyGames' official description gives Jack's magic beans as an example of an object the player must find and return to him[^ref-4].
+Each tale has something missing or out of place. In PC Games' 1992 review, the pieces Bookend has stolen include "Jack's bag of beans and Cinderella's pumpkin", and Snow White explains that she is lost and needs help finding the Seven Dwarves' house[^ref-33]. Wikipedia's summary gives other examples: the prince cannot find Cinderella because her glass slipper was stolen, and Jack's axe is missing so he cannot chop down the beanstalk[^ref-2]. MobyGames' official description gives Jack's magic beans as an example of an object the player must find and return to him[^ref-4].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mixed-Up Fairy Tales features a dramatically simplified interface compared to other Sierra adventure games of the period[^ref-4]. Rather than using the full hidden icon bar found in other Sierra titles, the game provides only two primary actions: "Do" and "See"[^ref-4]. This streamlined approach was specifically designed for younger players[^ref-13].
+Mixed-Up Fairy Tales uses the standard Sierra icon interface, which PC Games described as "appropriately redesigned for young readers"[^ref-33]. Rather than using the full hidden icon bar found in other Sierra titles, the game provides only two primary actions: "Do" and "See"[^ref-4]. This streamlined approach was specifically designed for younger players[^ref-13].
 
 The simplified VGA interface allows children to explore the game world through basic point-and-click interactions[^ref-4]. The "See" action lets players examine objects and characters in the environment, while "Do" handles picking up items, talking and moving[^ref-11]. Nearly everything in the game is based around the "Do" command[^ref-8].
 
@@ -61,17 +61,17 @@ The simplified VGA interface allows children to explore the game world through b
 
 The game is structured around five distinct fairy tales that must be restored to their proper order[^ref-2]. The stories can be completed in any order[^ref-3] [^ref-8]:
 
-- **Cinderella:** The prince cannot find Cinderella because her glass slipper has been stolen[^ref-2]
-- **Jack and the Beanstalk:** Jack needs his missing axe to chop down the beanstalk[^ref-2]
+- **Cinderella:** Cinderella's pumpkin is among the pieces Bookend has stolen[^ref-33]; Wikipedia's account names her stolen glass slipper[^ref-2]
+- **Jack and the Beanstalk:** Jack's bag of beans is among the stolen pieces[^ref-33]; Wikipedia's account says his axe is missing, so he cannot chop down the beanstalk[^ref-2]
 - **Beauty and the Beast:** One of the five tales to be restored[^ref-2]
 - **Bremen Town Musicians:** The four animal musicians (a rooster, a cat, a dog and a donkey) must be found and gathered together[^ref-7] [^ref-21]
-- **Snow White:** Snow White is lost and needs help finding the seven dwarves' house[^ref-2]
+- **Snow White:** Snow White is lost and needs help finding the Seven Dwarves' house[^ref-2] [^ref-33]
 
 A notable feature of the game design is its randomization system[^ref-8]. Objects and characters are placed in different positions each time the game is played, giving the game some replayability[^ref-8] [^ref-23] [^ref-26].
 
 ### Puzzles and Mechanics
 
-The puzzle design in Mixed-Up Fairy Tales focuses on object collection and delivery rather than complex logical challenges[^ref-12]. Players must identify objects in the game world, collect them into their inventory, and determine which fairy tale character needs each item[^ref-11]. The challenge comes from correctly associating displaced characters with their proper stories and understanding what each character requires to continue their tale.
+The puzzle design in Mixed-Up Fairy Tales focuses on object collection and delivery[^ref-12]. Players must identify objects in the game world, collect them into their inventory, and determine which fairy tale character needs each item[^ref-11]. When the player meets a fairy-tale character, they choose that character's story from the Fairy Tales menu; a correct guess starts the tale, with music and a "Once Upon a Time" scroll[^ref-33].
 
 The game was designed so that players cannot die or reach a point where onward play is impossible for lack of an item or piece of information[^ref-2] [^ref-5]. Saving was simplified as well: each game is saved automatically when the player quits and is labeled by the character's name[^ref-2] [^ref-5].
 
@@ -81,9 +81,9 @@ Players select one of six child avatars at the game's start and can name the cha
 
 ### Contemporary Reviews
 
-PC Zone awarded Mixed-Up Fairy Tales a score of 8 out of 10 in its third issue (1993)[^ref-2] [^ref-24]. Wikipedia credits the review to Phil South and dates it May 1993; that month has not been independently confirmed.
+PC Zone awarded Mixed-Up Fairy Tales 8 out of 10 in Issue 3 (June 1993), in Phil South's educational-software round-up "That's Edutainment!"[^ref-34] [^ref-2] [^ref-24]. The review box gives an age range of 7 to adult, 9 for fun, 9 for educational value and 8 for value for money[^ref-34]. Wikipedia dates the issue May 1993, but the scanned cover reads June 1993[^ref-34].
 
-In PC Games (August–September 1992), Cynthia E. Field called the game an engaging, nonviolent, challenging game that appeals to both genders[^ref-2].
+In PC Games (August/September 1992), Cynthia E. Field called it "an engaging, nonviolent, challenging game that appeals to both genders"[^ref-33] [^ref-2]. She described it as "a reading-enrichment tool for kids aged 7 and up" and an "ideal interactive 'lapware' program" for parents of children who cannot yet read, and noted that it could save games for up to 20 players[^ref-33].
 
 Eddie Huffman's review in Compute! (July 1993) found that the "well-designed, mouse-oriented interface" made restoring the tales "an entertaining, educational challenge loaded with enough difficulties to be interesting but not enough to become frustrating"[^ref-27]. He was less taken with the music, calling it "at best ... a synthesized approximation" of the classical pieces, and reported needing about 535K of free RAM to run the game[^ref-27].
 
@@ -98,14 +98,14 @@ User reviews on MobyGames present a mixed picture. One reviewer noted that the g
 The Adventure Gamer blog's retrospective analysis characterized the game as "very much a First Steps to Adventure-styled title, not something that really offers much for an older audience"[^ref-7]. The reviewer suggested that, when playing alongside a young child, having no voice acting may have actually helped[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames:** 83% (critic reviews)[^ref-4]
+- **MobyGames:** 83% (critic average, based on a single critic rating)[^ref-4]
 - **MyAbandonware:** 4.22/5 (user rating, as of October 2026)[^ref-3]
 
 ## Development
 
 ### Origins
 
-Mixed-Up Fairy Tales was a follow-up to Sierra's Mixed-Up Mother Goose[^ref-2]. The "Mixed Up" concept followed a simple formula: take well-known stories and make small alterations that "ruin" them, leaving players to restore proper order[^ref-6]. This approach allowed children to engage with familiar material while developing problem-solving skills.
+Mixed-Up Fairy Tales was a follow-up to Sierra's Mixed-Up Mother Goose[^ref-2]. The "Mixed Up" concept followed a simple formula: take well-known stories and make small alterations that "ruin" them, leaving players to restore proper order[^ref-6].
 
 Notably, Mixed-Up Fairy Tales was not created by the same designer as its predecessor[^ref-8]. [[Lori Ann Cole]], "of Quest for Glory fame"[^ref-3], directed and designed the game, with [[Corey Cole]] as lead programmer[^ref-30]. [[Bill Davis]] is credited as Creative Director[^ref-30].
 
@@ -113,9 +113,9 @@ The game was specifically designed with classroom use in mind, so that it could 
 
 ### Production
 
-Development took place at Sierra's Oakhurst, California offices[^ref-15]. The game utilized Sierra's Creative Interpreter (SCI) engine, the same technology powering their more sophisticated adventure titles[^ref-4].
+Development took place at Sierra's Oakhurst, California offices[^ref-15]. The game ran on Sierra's Creative Interpreter (SCI) engine[^ref-4] [^ref-31].
 
-[[Ken Williams]], Sierra's co-founder, is credited as Executive Producer[^ref-30]. Reflecting on this era of Sierra's history, Williams said: "I felt we were running a 'club' where our job was to build cool product for people who had bought from us before"[^ref-16].
+[[Ken Williams]], Sierra's co-founder, is credited as Executive Producer[^ref-30]. Speaking generally about Sierra's approach to its customers, Williams said: "I felt we were running a 'club' where our job was to build cool product for people who had bought from us before"[^ref-16].
 
 **Development Credits:**[^ref-30]
 - **Director / Game Designer:** [[Lori Ann Cole]]
@@ -192,7 +192,7 @@ The game has not been officially re-released on modern digital platforms. It rem
 
 ### Fan Projects
 
-A speedrunning community has developed around the game, with guides and strategies available for completing the game as quickly as possible[^ref-21]. One speedrunner documented alternative routing strategies, noting specific choices in the donkey rescue sequence that affect completion time[^ref-21].
+Speedrun.com hosts a small Mixed-Up Fairy Tales board with a few runner guides[^ref-21]. In one, runner LinuxMint links a commentated video explaining why he skips the faster route to rescue the donkey in the Bremen Town Musicians story[^ref-21].
 
 ### Related Publications
 
@@ -241,7 +241,7 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 [^ref-16]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – "club" philosophy quote
 [^ref-17]: [GOG.com Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/wishlist/games/mixedup_fairy_tales) – user requests for release, soundtrack request, nostalgia comments
 [^ref-18]: [Sierra Help Pages – Sound Drivers](https://sierrahelp.com/Patches-Updates/Patches-Updates-Misc/UpdatedSoundCardDrivers.html) – after-market General MIDI driver and TALEGM.PAT patch, installation instructions
-[^ref-20]: [Steam Store Search](https://store.steampowered.com/search/?term=Mixed+Up+Fairy+Tales) – game not available on Steam
+[^ref-20]: Steam Store – No Steam listing found (search checked October 29, 2026) – game not available on Steam
 [^ref-21]: [Speedrun.com – Mixed-Up Fairy Tales Guide](https://www.speedrun.com/mixed_up/guides/k9g12) – speedrun strategies, donkey rescue routing
 [^ref-22]: [Internet Archive – Mixed-Up Fairy Tales](https://archive.org/details/mixedupfairytalespc) – Kryoflux preservation, 3.5" floppy disk format
 [^ref-23]: [A Games Room – Mixed-Up Fairy Tales](https://www.agamesroom.com/game/muft) – file size, random object placement, reading/logic/problem-solving skills
@@ -254,3 +254,5 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 [^ref-30]: [MobyGames – Mixed-Up Fairy Tales Credits (DOS)](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/credits/dos/) – Director/Game Designer Lori Ann Cole, Creative Director Bill Davis, Producer Stuart Moulder, Lead Programmer Corey Cole, music, Executive Producer Ken Williams; "Production Designer Andy Hoyos", Background Artists incl. Hoyos
 [^ref-31]: [SCI Wiki – Mixed-Up Fairy Tales](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Fairy_Tales) – SCI1 (early), game version 1.000, interpreter 1.000.145, 1991/11/13
 [^ref-32]: [ScummVM Wiki – Mixed-Up Fairy Tales](https://wiki.scummvm.org/index.php?title=Mixed-Up_Fairy_Tales) – not available for purchase, supported since ScummVM 1.2.0
+[^ref-33]: [PC Games, August/September 1992, pp. 77–78 – Cynthia E. Field, "Mixed Up Fairy Tales"](https://archive.org/details/pc-games-1992-08) – period scan, checked against page images; Bookend's stolen pieces (Jack's beans, Cinderella's pumpkin), Snow White's dwarves' house, icon interface, Fairy Tales menu, ages 7 and up, lapware, 20 save slots, verdict quote
+[^ref-34]: [PC Zone Issue 3 (June 1993), pp. 80–82 – Phil South, "That's Edutainment!"](https://archive.org/details/pczone-magazine-complete-collection) – period scan (file PC_Zone_Issue_3__June_1993), checked against page images; 8/10, age range 7–adult, sub-scores, June 1993 cover date
