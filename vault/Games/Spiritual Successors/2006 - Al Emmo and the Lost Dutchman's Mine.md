@@ -10,20 +10,21 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
-  developed and published by Himalaya Studios, released on September 6, 2006 for...
+  developed and published by Himalaya Studios, released on September 6, 2006 for
+  Windows, with later Linux and iOS versions.
 tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game developed and published by [[Himalaya Studios]], released on September 6, 2006 for Windows, according to Himalaya's launch press release and MobyGames (Wikipedia gives September 5)[^ref-36][^ref-8][^ref-1]; a Linux version followed with the Steam release on May 9, 2014[^ref-8][^ref-25]. It was the studio's first original commercial release, made by the team behind the free fan remakes of King's Quest I and King's Quest II[^ref-2]. Built using Chris Jones' Adventure Game Studio (AGS) engine[^ref-3], the game pays homage to the classic point-and-click adventures popularized by Sierra and LucasArts in the 1980s and 1990s[^ref-1]. Himalaya's launch press release invoked King's Quest, Leisure Suit Larry and Monkey Island[^ref-2], and Just Adventure compared Al to Larry Laffer and Koko the pharmacist to Freddy Pharkas[^ref-4].
 
-Set in the fictional Wild West town of Anozira—Arizona spelled backwards[^ref-3]—the game follows the misadventures of Al Emmo, a forty-two-year-old virgin and unlikely hero who arrives seeking his mail-order bride, Ivanna Lottakash[^ref-4]. The story loosely incorporates actual Arizona legends, including the famous Lost Dutchman's Gold Mine, while wrapping them in layers of parody and absurdist humor[^ref-5]. Adventure Classic Gaming declared the game "undoubtedly among the funniest adventure games I have ever played," praising its witty writing and engaging story[^ref-3].
+Set in the fictional Wild West town of Anozira—Arizona spelled backwards[^ref-3]—the game follows the misadventures of Al Emmo, a forty-two-year-old virgin and unlikely hero who arrives seeking his mail-order bride, Ivanna Lottakash[^ref-4]. The story is loosely based on actual events and locations in Arizona[^ref-5], including the legend of the Lost Dutchman's Gold Mine[^ref-1], and is wrapped in parody and absurdist humor. Adventure Classic Gaming declared the game "undoubtedly among the funniest adventure games I have ever played," praising its witty writing and engaging story[^ref-3].
 
 The game features over 120 high-resolution, hand-painted background scenes, more than 15,000 frames of pre-rendered character animation, and detailed speech portraits for all characters, fully voiced and lip-synced[^ref-6]. An Enhanced Edition (version 4.0) was released on November 26, 2013, featuring a new voice actor for the protagonist, improved 2D cutscenes, a 500-point scoring system, and 20 achievements[^ref-7]. The Enhanced Edition was subsequently released on Steam in May 2014[^ref-1], with MobyGames dating the Steam release May 9, 2014[^ref-8].
 
@@ -42,11 +43,11 @@ The game features over 120 high-resolution, hand-painted background scenes, more
 
 Al Emmo, a feeble, middle-aged Easterner[^ref-6], travels west by train from "New Yawk" to the Wild West town of Anozira to meet Ivanna Lottakash, the mail-order bride he has arranged through a magazine[^ref-3]. Over the previous two years Al has been married 37 times, all ending badly[^ref-3]. At Kevin's Saloon, Ivanna drops him as soon as she learns he cannot even afford to buy her a drink, and Al discovers the next train home will not arrive for another week, leaving him stranded in town[^ref-3].
 
-Rita Peralto, the saloon's singer, immediately becomes Al's new object of desire[^ref-4]. His rival for her affections is Antonio Bandana (a parody of Antonio Banderas[^ref-3]), a suave member of the Spanish royal family who happens to be passing through[^ref-10]. Rita's father was murdered during an expedition to find a legendary Aztec fortune[^ref-5], and a thousand-year-old Aztec curse looms over the proceedings[^ref-6]. Al's desperate quest for love becomes intertwined with the search for the legendary treasure mine, said to contain inconceivable wealth[^ref-6].
+Rita Peralto, the saloon's singer, immediately becomes Al's new object of desire[^ref-4]. His rival for her affections is Antonio Bandana (a parody of Antonio Banderas[^ref-3]), a Spanish royal who is only in town briefly[^ref-10]. As the story progresses, Al is drawn into the mystery of how Rita's father was killed on an expedition in search of a fabled Aztec treasure[^ref-5], and a thousand-year-old Aztec curse looms over the proceedings[^ref-6]. Al's desperate quest for love becomes intertwined with the search for the legendary treasure mine, said to contain inconceivable wealth[^ref-6].
 
 The game unfolds across nine distinct acts, taking players through various locations in and around Anozira[^ref-4]. Al encounters a colorful cast of characters including Lou Heifer (a parody of Hugh Hefner), Pammy Sanderson (a parody of Pamela Anderson), Mayor Herbie Trinkwasser, Koko the Pharmacist, Kevin the Bartender, and various Native American characters[^ref-3][^ref-32]. The narrative blends Western adventure tropes with romantic comedy elements, though some critics noted that the titular mine doesn't become central to the plot until the seventh act[^ref-10].
 
-The game's humor relies heavily on pop culture references, puns, and absurdist situations, with unique Look, Interact, and Talk narrator messages for every location, item, and character[^ref-6]. The store description poses the central questions: "Does redemption lie within the haunted depths of the Lost Dutchman's Mine? Is Al brave enough to enter? And will his parents even miss him?"[^ref-6]
+Hardcore Gamer singled out its "new-age pop-culture references"[^ref-15], and the store page promises unique Look, Interact, and Talk narrator messages for every location, item, and character[^ref-6]. The store description poses the central questions: "Does redemption lie within the haunted depths of the Lost Dutchman's Mine? Is Al brave enough to enter? And will his parents even miss him?"[^ref-6]
 
 ## Gameplay
 
@@ -58,11 +59,7 @@ The game features fully lip-synced dialogue portraits[^ref-1] for over 24 intera
 
 ### Structure and Progression
 
-The game is divided into nine acts, following Al's journey from his arrival in Anozira through his ultimate confrontation with the mysteries of the Lost Dutchman's Mine[^ref-4]:
-
-- **Act 1-3:** Al arrives in Anozira, discovers his mail-order bride has absconded, and begins exploring the town
-- **Act 4-6:** Al attempts to win Rita's affection while becoming entangled in local affairs and the legend of the mine
-- **Act 7-9:** The story finally focuses on the Lost Dutchman's Mine itself and the resolution of Al's romantic and treasure-hunting quests[^ref-10]
+The game is divided into nine acts[^ref-4]. According to Adventure Gamers' preview, the first several acts follow Al's attempts to win Rita's heart while Antonio Bandana keeps foiling him, before the romance gives way to the mystery of her father's death[^ref-5]. Capsule Computers notes that the Lost Dutchman's Mine only comes into play around act seven, and the mine itself does not appear until the endgame[^ref-10].
 
 The game spans over 100 screens of explorable environments, including the town of Anozira, surrounding desert locations, an oasis, a cemetery, and various indoor locations like Lou Heifer's establishment and the Hospitality House[^ref-5][^ref-3][^ref-14].
 
@@ -84,13 +81,13 @@ Just Adventure gave the game a final grade of A, calling it "solid gold" and not
 
 Adventure Gamers gave the game 3.5 out of 5 stars, describing it as "a charming old school comic adventure that's definitely worth a play through if you can get past the graphic weaknesses and the main character's voice"[^ref-17]. Reviewer Rob Michaud praised the "inventive puzzles, great characters, loads of interaction, and an engaging story" but criticized the "horrible character animation and opening cinematics, plus an annoying main character voice"[^ref-17].
 
-Adventure Classic Gaming awarded the game 5 out of 5 (Excellent), with reviewer Mervyn Graham declaring it "undoubtedly among the funniest adventure games I have ever played" and "a breath of fresh air" that he could "unreservedly recommend to all adventure game fans who enjoy a witty, humorous, and engaging story"[^ref-3].
-
 GameZone scored the game 75 out of 100[^ref-18], while Quandary gave it 80 out of 100[^ref-18]. The New York Times provided a score of 65 out of 100[^ref-18], and PC Zone UK scored it 63 out of 100 in its May 2007 issue (p.75), advising readers: "Best advice is to pretend Al Emmo is a lo[s]t gem from the '80s that you've just discovered. It'll feel far more precious that way"[^ref-18].
 
 ### Modern Assessment
 
 The Enhanced Edition released in 2013 addressed many of the original's criticisms, particularly regarding the protagonist's voice. Hardcore Gamer praised the updated version as "a game that was crafted with such love for the genre that it stands beside the best of Sierra and Lucasarts," comparing Al to "the Larry Laffer of the wild west"[^ref-15]. The review highlighted that "the writing is reminiscent of Sierra's best releases, chock-full of absurd and memorable characters, witty dialog, and an endearing story with a ridiculous premise that somehow works flawlessly"[^ref-15].
+
+Adventure Classic Gaming's review, first posted on 21 February 2012, last updated on 7 December 2013 and covering version 3.0 and the 2013 Enhanced Edition, awarded the game 5 out of 5 (Excellent), with reviewer Mervyn Graham declaring it "undoubtedly among the funniest adventure games I have ever played" and "a breath of fresh air" that he could "unreservedly recommend to all adventure game fans who enjoy a witty, humorous, and engaging story"[^ref-3].
 
 RPGFan gave the 2013 version 75 out of 100, with individual scores of 80 for Graphics, 70 for Sound, 80 for Gameplay, 90 for Control, but only 50 for Story. Reviewer Stephen Meyerink found "the game's utterly failed attempt at humor drove me away almost completely," describing it as "Freddy Pharkas without the charm"[^ref-19].
 
@@ -178,15 +175,15 @@ The Enhanced Edition replaced the original 3D pre-rendered cutscenes with new 2D
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Demo | July 3, 2006 | Windows | Initial demo release[^ref-26] |
-| 1.0 | September 6, 2006 | Windows | Initial commercial release[^ref-36][^ref-1][^ref-2] |
+| 1.0 | September 6, 2006 | Windows | Initial commercial release[^ref-36][^ref-2] |
 | 3.0 | 2010 | Windows | New high resolution graphics[^ref-3] |
 | 4.0 | November 26, 2013 | Windows | Enhanced Edition with new voice actors, 2D cutscenes, achievements, scoring system[^ref-7] |
-| 4.1 | Unknown | Windows | Steam version update[^ref-27] |
+| 4.1 | Unknown | Windows | Version number confirmed by a Steam community guide; release date and changes undocumented[^ref-27] |
 | Steam | May 9, 2014 | Windows, Linux | Steam release of Enhanced Edition[^ref-1][^ref-8] |
 | iOS | July 9, 2015 | iPhone, iPad | Mobile port[^ref-8] |
 
-**AGS Engine Version:**[^ref-9]
-The game was built using Adventure Game Studio, the same engine used for Himalaya's previous King's Quest remakes. The engine supported 32-bit color graphics, lip-synced dialogue, and complex scripting capabilities.
+**Engine:**[^ref-9]
+The game was built using Adventure Game Studio, the same engine used for Himalaya's previous King's Quest remakes. The AGS game database lists its graphics as 640x400 in 32-bit colour, with lip-synced character voices.
 
 ### Technical Issues
 
@@ -273,7 +270,7 @@ The game was released in multiple editions:
 
 ### Fan Projects
 
-Given Himalaya Studios' origins in fan game development, Al Emmo exists within a broader ecosystem of Sierra-style adventures created by passionate fans. The game includes a Spanish fan translation available for download[^ref-25]. Community members created walkthrough guides and achievement guides to help players unlock all content[^ref-27].
+Given Himalaya Studios' origins in fan game development, Al Emmo exists within a broader ecosystem of Sierra-style adventures created by passionate fans. The game includes a Spanish fan translation available for download[^ref-25]. Community members wrote walkthroughs[^ref-24][^ref-28] and a Steam guide listing every collectible item for the "Hoarder" achievement[^ref-27].
 
 ### Related Publications
 
