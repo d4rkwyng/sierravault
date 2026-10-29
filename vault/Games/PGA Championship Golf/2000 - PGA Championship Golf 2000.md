@@ -3,7 +3,7 @@ title: PGA Championship Golf 2000
 release_year: 2000
 developer: Headgate Studios
 designer:
-  - "Vance Cook"
+  - "Nathan B. Hall"
 publisher: Sierra Sports
 genre: Sports
 platforms:
@@ -30,13 +30,13 @@ tags:
 
 ## Overview
 
-PGA Championship Golf 2000 is a Windows golf simulation from Sierra Sports, the latest in a line of Sierra golf games that began with the Front Page Sports label[^ref-1]. Developed by Headgate Studios and released in North America on June 6, 2000[^ref-3][^ref-4], it was called by the Hartford Courant "by far the most developed and satisfying of what has become a long line of golf games from Sierra"[^ref-1]. The game holds an 88% aggregate score on GameRankings[^ref-3] and received GameSpy's 2000 Sports Game of the Year award[^ref-27].
+PGA Championship Golf 2000 is a Windows golf simulation from Sierra Sports, the latest in a line of Sierra golf games that began with the Front Page Sports label[^ref-1]. Developed by Headgate Studios and released in North America on June 6, 2000[^ref-3][^ref-4], it was called by the Hartford Courant "by far the most developed and satisfying of what has become a long line of golf games from Sierra"[^ref-1]. The game holds an 88% aggregate score on GameRankings (87.77%)[^ref-3][^ref-28], and MobyGames credits it with GameSpy's 2000 Sports Game of the Year award[^ref-27].
 
 Its headline feature was TrueSwing 3, a mouse-based swing system in which pulling the mouse back and pushing it forward swings the club in real time; a conventional three-click swing remained available as an option[^ref-8][^ref-5]. Eurogamer wrote, "Quite frankly this is the best golfing simulation on the market," and awarded it 9/10[^ref-6], while GameSpot's Stephen Poole called it "currently the unrivaled king of golf sims" with a score of 8.9/10[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-7]
-> **Designer:** Vance Cook (Director)[^ref-26]
+> **Designer:** Nathan B. Hall; Director: Vance Cook[^ref-26]
 > **Publisher:** Sierra Sports[^ref-3]
 > **Engine:** Unknown (swing systems: TrueSwing 3 and three-click)[^ref-5]
 > **Platforms:** Windows[^ref-7]
@@ -75,7 +75,7 @@ PGA Championship Golf 2000 was well received by critics on release.
 | GameVortex | 95% | Impressed by extensive customization options[^ref-5] |
 | GameSpot | 8.9/10 | "Currently the unrivaled king of golf sims"[^ref-4] |
 | Game Over | 88% | "Arguably one of the best golf simulations ever to be released for the PC"[^ref-2] |
-| GameRankings | 88% | Aggregate score[^ref-3] |
+| GameRankings | 88% | Aggregate score (87.77%)[^ref-3][^ref-28] |
 | CNET Gamecenter | 8/10 | Highlighted innovative TrueSwing technology[^ref-8] |
 
 Stephen Poole's GameSpot review singled out the new season mode as one of the biggest improvements over the 1999 edition, while criticising the lack of a mid-round save in season play[^ref-4]. Game Over's Cody Nicholson declared it "arguably one of the best golf simulations ever to be released for the PC," noting it was one of the few Sierra Sports franchises kept alive after the NFL Football Pro 99 failure[^ref-2]. The Hartford Courant provided a comprehensive analysis praising the depth of play styles and course variety[^ref-1].
@@ -90,7 +90,7 @@ MobyGames lists a MobyScore of 8.0 for the game[^ref-7]. A GOG community user re
 
 ### Origins
 
-PGA Championship Golf 2000 was developed by Headgate Studios and published by Sierra Sports, continuing a golf franchise that had evolved from Sierra's Front Page Sports line[^ref-1]. MobyGames credits Vance Cook as director and Mike Jacob as senior producer[^ref-26]. Brian Silvernail, one of the credited Course Architect design consultants, designed the Canaveral Dunes course[^ref-26][^ref-3]. The Gallery Models credits include [[Rabih AbouJaoudé|Rabih Abourjaoude]], whom MobyGames identifies as Hoyle series artist Rabih AbouJaoudé[^ref-26]. Development focused on refining the TrueSwing interface introduced in the 1999 edition, with improved physics[^ref-8]. The game carried a $29.99 price at launch[^ref-4].
+PGA Championship Golf 2000 was developed by Headgate Studios and published by Sierra Sports, continuing a golf franchise that had evolved from Sierra's Front Page Sports line[^ref-1]. MobyGames credits Vance Cook as director and Mike Jacob as senior producer[^ref-26]. Brian Silvernail, one of the credited Course Architect design consultants, designed the Canaveral Dunes course[^ref-26][^ref-3]. The Gallery Models credits include [[Rabih AbouJaoudé]], who also worked on Sierra's Hoyle games[^ref-26]. Development focused on refining the TrueSwing interface introduced in the 1999 edition, with improved physics[^ref-8]. The game carried a $29.99 price at launch[^ref-4].
 
 ### Technical Achievements
 
@@ -119,7 +119,7 @@ TrueSwing 3 ran in real time, so the golfer's backswing followed the player's mo
 
 ## Legacy
 
-PGA Championship Golf 2000 received GameSpy's 2000 Sports Game of the Year award[^ref-27].
+MobyGames lists GameSpy's 2000 Sports Game of the Year among its awards[^ref-27].
 
 Sierra released patches after launch. CD Magazine reported that "the new patch goes a long way in both stomping bugs and improving the overall mechanics of the game"[^ref-19]. An upgraded version, [[2000 - PGA Championship Golf 2000 - Titanium Edition|PGA Championship Golf 2000 Titanium Edition]], followed in December 2000[^ref-3]. A Collector's Edition was announced in June 2001, adding 12 new 18-hole courses for a total of 32[^ref-18][^ref-24]. The game was rated E for Everyone by the ESRB[^ref-23].
 
@@ -166,5 +166,6 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-22]: [Internet Archive – PGA Championship Golf 2000 Demo](https://archive.org/details/PGA2000D) – Archived demo with technical specifications
 [^ref-23]: [ESRB – PGA Championship Golf 2000](https://www.esrb.org/ratings/5226/pga-championship-golf-2000/) – Rated E for Everyone
 [^ref-24]: [IGN – PGA Championship Golf Collector's Edition Announcement](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – Collector's Edition announcement
-[^ref-26]: [MobyGames – PGA Championship Golf 2000 Credits (Windows)](https://www.mobygames.com/game/2991/pga-championship-golf-2000/credits/windows/) – Vance Cook (Director), Mike Jacob (Sr. Producer), Brian Silvernail among Course Architect Design Consultants; Gallery Models include Rabih AbouJaoudé (credited as Rabih Abourjaoude)
+[^ref-26]: [MobyGames – PGA Championship Golf 2000 Credits (Windows)](https://www.mobygames.com/game/2991/pga-championship-golf-2000/credits/windows/) – Vance Cook (Director), Nathan B. Hall (Designer), Mike Jacob (Sr. Producer), Brian Silvernail among Course Architect Design Consultants; Gallery Models include Rabih AbouJaoudé (credited as Rabih Abourjaoude)
 [^ref-27]: [MobyGames – PGA Championship Golf 2000 Trivia](https://www.mobygames.com/game/2991/pga-championship-golf-2000/trivia/) – Awards: GameSpy 2000 – Sports Game of the Year
+[^ref-28]: [GameRankings – PGA Championship Golf 2000 (Wayback, 2019)](https://web.archive.org/web/20191209014447/https://www.gamerankings.com/pc/256377-pga-championship-golf-2000/index.html) – 87.77% aggregate
