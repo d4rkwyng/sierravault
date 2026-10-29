@@ -79,7 +79,7 @@ The Card Flick mini-game provides an arcade-style diversion, offering a differen
 
 ### Contemporary Reviews
 
-GameSpot Staff awarded Hoyle Solitaire a score of 7.8/10 in their May 2000 review, praising the game's addictive qualities[^ref-11]. The reviewer noted that "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game," highlighting the compelling nature of the collection[^ref-11]. They encouraged players to "Take a break from the shoot-em-ups and God games – play a little solitaire!"[^ref-11]
+GameSpot Staff awarded Hoyle Solitaire a score of 7.8/10 in their review (first published August 7, 1996; updated May 1, 2000), praising the game's addictive qualities[^ref-11]. The reviewer noted that "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game," highlighting the compelling nature of the collection[^ref-11]. They encouraged players to "Take a break from the shoot-em-ups and God games – play a little solitaire!"[^ref-11]
 
 ### Modern Assessment
 
@@ -279,7 +279,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 [^ref-7]: [GameSpot – Sierra Plans for the Future (Wayback Machine copy)](https://web.archive.org/web/20180901113118/https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 1998 announcement of Sierra's new brand structure (page later stamped "updated April 28, 2000"); Sierra Attractions division with Berkeley Systems and Hoyle
 [^ref-8]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – tutorial features, glossary information
 [^ref-9]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – SCI2.1 engine, technical specifications, system requirements
-[^ref-11]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, reviewer quotes, customization features
+[^ref-11]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, reviewer quotes, customization features; page data: published 1996-08-07, modified 2000-05-01
 [^ref-13]: [Sierra Gamers Forum – Where Does Sierra End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion on Hoyle series classification
 [^ref-14]: [MyAbandonware – Hoyle Solitaire (1998)](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – download sizes, platform versions, user rating
 [^ref-16]: [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – later Encore version: release date 3/6/2013, 3.5/5 rating, game variations, system requirements
