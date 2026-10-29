@@ -10,20 +10,20 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: Hoyle Table Games 2004 is an 18-game collection of classic table games
   in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
 Hoyle Table Games 2004 is part of Sierra's long-running Hoyle series, which began in 1989 and is named after the 18th-century playing card expert Edmond Hoyle[^ref-1]. It was released in the United States on September 2, 2003 for Windows PC[^ref-6][^ref-18][^ref-20], with a UK release following in 2004[^ref-20]. The box copy carried the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment[^ref-11][^ref-20]; Amazon.ca lists the manufacturer as Vivendi Universal[^ref-3].
 
-The collection contains 18 table games[^ref-3][^ref-6]. MyGamer's listing summed it up: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
+The collection contains 18 table games[^ref-3][^ref-6]. MyGamer's September 2, 2003 listing described it this way: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
 
 The game is rated E for Everyone by the ESRB[^ref-5][^ref-9].
 
@@ -55,7 +55,7 @@ The collection comprises[^ref-3][^ref-10][^ref-11]:
 - **Dominoes** – Standard dominoes starting from a double
 - **DoubleCross** – Four-player word game in which part-words can be placed and later completed
 - **Gravity Tiles** – Remove groups of same-coloured tiles to clear the screen
-- **Mahjong Tiles** – Tile-matching solitaire with 62 layouts and a level editor
+- **Mahjong Tiles** – For one or two players, with 62 layouts and a level editor
 - **Master Match** – Two-player Mastermind-style code-breaking game
 - **Pachisi** – Four-player dice race game very similar to Ludo
 - **Maximum Pool** – Billiards with seven variants, including Snooker and Cutthroat
