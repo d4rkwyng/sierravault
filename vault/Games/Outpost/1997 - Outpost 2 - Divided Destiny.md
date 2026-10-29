@@ -10,7 +10,7 @@ series: Outpost
 engine: Proprietary (DirectX 3)
 protagonist: Colony Commander (Plymouth or Eden)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Outpost 2: Divided Destiny is a 1997 Windows real-time strategy game
   developed by Dynamix and published by Sierra On-Line, in which two rival colonies
   on New Terra race to escape a spreading terraforming microbe called the Blight.'
@@ -18,7 +18,7 @@ tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ The ultimate goal is to build a spaceship and escape from New Terra, a planet th
 
 Morale is a critical factor for the colony, and because it can fluctuate rapidly, much of the player's attention is spent on ensuring that it remains at optimal levels[^ref-2]. Low morale reduces efficiency and causes worker shortages, while food shortages, disasters, and overcrowding lower it[^ref-2]. GOG's description sums up the balance as "resources, construction research, defense, morale and combat"[^ref-8].
 
-GOG lists 140 different vehicles and buildings and 60,000 frames of animation[^ref-8], and MobyGames cites over 2,000 types of terrain[^ref-12]. Combat is secondary to survival, and one review republished on GameFabrique complained that "Everything shoots lasers" and "Everything moves slower than a sloth in a tar pit!"[^ref-18]. The factions play differently: Eden's research is more advanced and its military relies on brute force, while Plymouth's morale is more stable and its military relies on speed and trickery[^ref-2]. Each side has some units and buildings of its own[^ref-2].
+GOG lists 140 different vehicles and buildings and 60,000 frames of animation[^ref-8], and MobyGames cites over 2,000 types of terrain[^ref-12]. Combat is secondary to survival, and one review on GameFabrique complained that "Everything shoots lasers" and "Everything moves slower than a sloth in a tar pit!"[^ref-18]. The factions play differently: Eden's research is more advanced and its military relies on brute force, while Plymouth's morale is more stable and its military relies on speed and trickery[^ref-2]. Each side has some units and buildings of its own[^ref-2].
 
 Campaign missions are timed. The player must reach population, resource, construction, and research targets before the Blight or lava flows engulf the colony, so the colony keeps relocating from mission to mission[^ref-2]. Mineable ore seams on New Terra are much rarer than on Earth[^ref-2].
 
@@ -101,13 +101,13 @@ Combat units are built to order. There are three chassis, the Lynx, Panther and 
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| The Adrenaline Vault | 3.5/5 | Praised structured campaign play and colony survival challenge[^ref-1] |
+| The Adrenaline Vault | 3.5/5[^ref-1] | Reviewed by Pete Hines, September 14, 1997[^ref-26]; praised structured campaign play and colony survival challenge[^ref-1] |
 | GameSpot | 5/10 (Mediocre) | Criticized as "The Hurry Up and Wait game" due to slow pacing[^ref-19] |
-| Computer Gaming World | 3.5/5 | Martin E. Cirulis called it "an excellent attempt to resurrect this franchise" but said "limited vision has damaged another promising Sierra product"[^ref-1] |
+| Computer Gaming World | 3.5/5[^ref-25] | Martin E. Cirulis (December 1997) called it "an excellent attempt to resurrect this franchise" but said "limited vision has damaged another promising Sierra product"[^ref-1][^ref-25] |
 
 ### Modern Assessment
 
-Modern user reviews have been more favorable than contemporary professional reviews. GOG.com's store page shows a 4.4/5 user rating from 58 reviews (as of October 2026)[^ref-8]. Metacritic users rate the game 8.3/10[^ref-20], while MyAbandonware gives it 4.75/5[^ref-5]. GameFAQs users rate it as "Great" based on 24 ratings[^ref-14]. 
+Modern user reviews have been more favorable than contemporary professional reviews. GOG.com's store page shows a 4.4/5 user rating from 58 reviews (as of October 2026)[^ref-8]. Metacritic users rate the game 8.3/10 from 4 user ratings[^ref-20], while MyAbandonware gives it 4.75/5[^ref-5]. GameFAQs users rate it as "Great" based on 24 ratings[^ref-14].
 
 User reviews often praise the game's unique approach to the RTS genre. One reviewer noted it's "an RTS not centered around combat" where "the conflict here is not against some enemy force, but against nature itself"[^ref-8]. Another user called it "a classic but underrated game that expertly mixed city building with RTS elements"[^ref-20].
 
@@ -123,7 +123,7 @@ The game was designed by Allen McPheeters and Patrick Cook, with Cook as directo
 
 ### Technical Achievements
 
-GOG's store description lists 140 different vehicles and buildings and 60,000 frames of animation[^ref-8], along with over 2,000 types of terrain and 16-bit color graphics[^ref-12]. The game ran at 640 x 480 in 16-bit color and needed DirectX 3[^ref-15]. PCGamingWiki lists it as 4:3 only, with no widescreen support[^ref-17].
+GOG's store description lists 140 different vehicles and buildings and 60,000 frames of animation[^ref-8], and MobyGames' description adds over 2,000 types of terrain and 16-bit color graphics[^ref-12]. The game ran at 640 x 480 in 16-bit color and needed DirectX 3[^ref-15]. PCGamingWiki lists it as 4:3 only, with no widescreen support[^ref-17].
 
 ### Version History
 
@@ -138,7 +138,7 @@ GOG's store description lists 140 different vehicles and buildings and 60,000 fr
 
 Despite mixed contemporary reviews, Outpost 2 has maintained an active community of players and developers who continue to support and develop content for the game[^ref-21]. The Sierra Internet Gaming System (SIGS) that originally supported online play has been discontinued, but the game is now commonly played through virtual networks like Hamachi[^ref-2]. This dedicated community has kept multiplayer alive long after official support ended.
 
-The game is sold on GOG.com, which released it in 2020 with build version 1.2[^ref-22]. Official post-release support came in 1997 with Sierra's Scenario Pack 1. It added three multiplayer maps (Peacekeeper, La Corrida and Pie Chart), let the Eden campaign's twelfth mission run longer without exhausting internal resources, and improved the program's handling of more than 256 buildings[^ref-23]. Fan work continues at the Outpost Universe (outpost2.net). Its users have developed "tools, patches and new content", and as of October 2026 its forums still carry add-on mission and mission-SDK development threads[^ref-21].
+The game is sold on GOG.com, which released it in 2020 with build version 1.2[^ref-22]. Official post-release support came in 1997 with Sierra's Scenario Pack 1. It added three multiplayer maps (Peacekeeper, La Corrida and Pie Chart), let the Eden campaign's twelfth mission run longer without exhausting internal resources, and improved the program's handling of more than 256 buildings[^ref-23]. Fan work continues at the Outpost Universe (outpost2.net). Its users have developed "tools, patches and new content", and in October 2026 its forums' Add On Missions and Programming & Development boards still had new posts[^ref-24].
 
 Outpost 2 stands out as an RTS built around survival and colony management rather than conquest[^ref-2].
 
@@ -171,12 +171,15 @@ Outpost 2 stands out as an RTS built around survival and colony management rathe
 [^ref-11]: [Nerd Bacon Magazine](https://nerdbacon.com/outpost-2-divided-destiny-pc/) – Game tagline
 [^ref-12]: [MobyGames](https://www.mobygames.com/game/1609/outpost-2-divided-destiny/) – Game description (escape goal, 2,000 terrain types, 16-bit color), perspective and input devices
 [^ref-13]: [IGN Cheats](https://www.ign.com/wikis/pc-cheats/Outpost_2:_Divided_Destiny_Cheats) – "Bolster Production" tip
-[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny) – Game modes description
+[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny) – User rating ("Great", 24 ratings)
 [^ref-15]: [Archive.org Manual](https://archive.org/stream/Outpost_2_Manual/Outpost_2_Manual_djvu.txt) – System requirements, game modes, campaign structure, multiplayer connection methods, novella STORY option
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Outpost_2:_Divided_Destiny) – Retail version 1.01, latest official patch 1.3.0.8, 4:3-only video, series chronology
-[^ref-18]: GameFabrique *(download link removed: the game is sold commercially)* – Republished review text criticising combat
+[^ref-18]: GameFabrique *(download link removed: the game is sold commercially)* – Review text criticising combat
 [^ref-19]: [GameSpot Review](https://www.gamespot.com/reviews/outpost-2-divided-destiny-review/1900-2543568/) – Professional review and criticism
 [^ref-20]: [Metacritic](https://www.metacritic.com/game/outpost-2-divided-destiny/) – User score aggregate
 [^ref-21]: [Outpost2.net](https://www.outpost2.net/) – Outpost Universe fan community; ongoing tools, patches and add-on mission development
 [^ref-22]: [GOG Database](https://www.gogdb.org/product/1494370738) – Version history and digital distribution
 [^ref-23]: [Archive.org Update](https://archive.org/details/update_20161023) – Official 1997 Scenario Pack 1 and Update (three multiplayer scenarios plus program fixes)
+[^ref-24]: [Outpost Universe Forums](https://forum.outpost2.net/) – Board index (checked 2026-10-29): Add On Missions last post October 4, 2026; Programming & Development last post October 20, 2026
+[^ref-25]: [Computer Gaming World #161, December 1997 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_161/page/n417/mode/2up) – Martin E. Cirulis, "Redemption" review, pp. 414–415: 3.5-star rating and verdict quote
+[^ref-26]: [The Adrenaline Vault (Wayback Machine)](https://web.archive.org/web/20100512030802/http://www.avault.com/reviews/pc/outpost-2-pc-review/) – Review by Pete Hines, published September 14, 1997 (page 1 only archived)
