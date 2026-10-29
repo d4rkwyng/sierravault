@@ -10,15 +10,17 @@ series: Manhunter
 engine: Adventure Game Interpreter (AGI)
 protagonist: Unnamed Manhunter
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Barry Murry]
 description: 'Manhunter 2: San Francisco is a 1989 science fiction adventure game
-  developed by Evryware and published by Sierra On-Line. Picking up immediately where...'
+  developed by Evryware and published by Sierra On-Line. Picking up immediately where
+  Manhunter: New York left off, it has the player crash-land a stolen Orb ship in San
+  Francisco and continue the covert fight against the alien occupation.'
 tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -41,11 +43,11 @@ Many of the things the Manhunter games did would later become popular in adventu
 
 ## Story Summary
 
-The game opens with a dramatic continuation from the first game's cliffhanger: the player character, having stolen an Orb ship at the end of Manhunter: New York, crash-lands in San Francisco while pursuing the serial killer Phil.[^ref-2] Another Manhunter on the ground is killed in the crash, and the player assumes his identity.[^ref-15] The Earth has been invaded by the Orb Alliance, and a tightly restricted regime has been instituted for the humans that remain.[^ref-8] Two years after the invasion, humanity lives enslaved by the Orbs, forbidden from communicating or showing any individual identity.[^ref-9]
+The game opens with a dramatic continuation from the first game's cliffhanger: the player character, having stolen an Orb ship at the end of Manhunter: New York, crash-lands in San Francisco while pursuing the serial killer Phil.[^ref-2] Another Manhunter on the ground is killed in the crash, and the player assumes his identity.[^ref-15] The Earth has been invaded by the Orb Alliance, and a tightly restricted regime has been instituted for the humans that remain.[^ref-8] Two years after the invasion, humanity lives enslaved by the Orbs, forbidden from communicating with one another.[^ref-9]
 
 The Orbs, who look like giant floating eyeballs, have implanted all humans with global tracking devices, forced them to wear nondescript robes, and forbidden them from speaking or communicating.[^ref-10] Speaking is forbidden, brown robes must be worn at all times, and human activity is monitored through the MAD (Manhunter Assignment Device).[^ref-11] In San Francisco the Orbs' rule is the same: speaking to another human is punishable by death.[^ref-28]
 
-Manhunters are individuals equipped with a tracking device by the Orbs and selected to track down humans who have broken the Orbs' laws.[^ref-28] The player solves more crimes for the Orbs while searching for Phil and working for the local human resistance.[^ref-2] The game is split into three days, following the same structure as the first game.[^ref-2]
+Manhunters are individuals equipped with a tracking device by the Orbs and selected to track down humans who have broken the Orbs' laws.[^ref-28] The player solves more crimes for the Orbs while searching for Phil and working for the local human resistance.[^ref-2]
 
 The game reaches its climax when the player is on the verge of catching Phil Cook. Phil narrowly escapes in an Orb ship with the player hanging on to the outside, flying off towards London.[^ref-15] A third game set in London was planned but never produced.[^ref-14]
 
@@ -53,13 +55,13 @@ The game reaches its climax when the player is on the verge of catching Phil Coo
 
 ### Interface and Controls
 
-Playing the game involves no text input at all; everything is controlled by cursor keys, joystick, or mouse, with options accessed from pull-down menus.[^ref-28] The first game, Manhunter: New York, had been the first Sierra game to abandon text input entirely.[^ref-8] The game uses a very Myst-like first-person perspective, at a time when all other Sierra games were third-person.[^ref-16]
+Computer and Video Games described the game as controlled by cursor keys, joystick, or mouse, with options accessed from pull-down menus.[^ref-28] Text input is not entirely gone, though: Scorpia noted in Computer Gaming World that "Aside from the few occasions where names have to be typed in, the keyboard is hardly used at all."[^ref-29] The Murrys have said the first game made them "the first at Sierra to not use the annoying parser", and that "Manhunter was the first Sierra title with that interface."[^ref-30] The game uses a very Myst-like first-person perspective, at a time when all other Sierra games were third-person.[^ref-16]
 
 The interface again centres on the MAD tracking device, which lets players tag and follow other characters' movements throughout the day and unlock additional locations to investigate.[^ref-17][^ref-2] As in the first game, there is no dialogue at all, and the story is conveyed through the visuals.[^ref-16]
 
 ### Structure and Progression
 
-The game is divided into three days, maintaining the same structure as Manhunter: New York.[^ref-2] Each day begins by tracking as many humans as possible to reveal new locations; the rest of the day is spent on adventuring and getting through arcade sequences.[^ref-2]
+MobyGames player reviews describe the game as split into three days, each structured as in Manhunter: New York;[^ref-2] the first game had four days.[^ref-17][^ref-9] Each day begins by tracking as many humans as possible to reveal new locations; the rest of the day is spent on adventuring and getting through arcade sequences.[^ref-2]
 
 ### Puzzles and Mechanics
 
@@ -75,18 +77,18 @@ Scorpia reviewed the game in Computer Gaming World issue 64 (October 1989). She 
 
 Keith Campbell reviewed the Atari ST version for Computer and Video Games issue 100, scoring it 61% overall (graphics 61%, sound 49%, value 60%, playability 64%) and noting the PC and Amiga versions were identical. He felt that the arcade sequences too often brought progress "to a grinding halt", and wrote: "Personally, I prefer the more orthodox Sierra adventures."[^ref-28]
 
-The first game had fared well with critics: Power Play Issue 01/1990 named Manhunter: New York the #2 Best Adventure of 1989,[^ref-8] and Computer Gaming World's December 1988 review of it said that "In spite of the arcade sequences, this is a clever game that requires you to really look at the screen and remember what you see."[^ref-19]
+The first game had fared well with critics: Power Play Issue 01/1990 named Manhunter: New York the #2 Best Adventure of 1989,[^ref-8] and Scorpia's review of it in Computer Gaming World's December 1988 issue said that "In spite of the arcade sequences, this is a clever game that requires you to really look at the screen and remember what you see."[^ref-19]
 
 ### Modern Assessment
 
-Modern retrospectives acknowledge the series as an important but flawed experiment. PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Jeremiah Kauffman of Adventure Classic Gaming wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
+PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Jeremiah Kauffman of Adventure Classic Gaming wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
 
-The games are considered solid underdogs, but not for the faint of heart or anyone who is reflex-impaired due to the arcade sequences.[^ref-6] Fan communities continue to express appreciation, with one player calling the two Manhunter games "great atmospheric games, with a superb story line and universe."[^ref-21]
+The games are considered solid underdogs, but not for the faint of heart or anyone who is reflex-impaired due to the arcade sequences.[^ref-6] On GOG's old community wishlist page for the series, one player wrote in 2013 that the two Manhunter games were "great atmospheric games, with a superb story line and universe."[^ref-21]
 
 **Aggregate Scores:**
 - **MobyGames:** 60% (13 critic ratings)[^ref-2]
 - **Abandonware DOS:** 4.00/5.00[^ref-5]
-- **MyAbandonware:** 3.99/5[^ref-6]
+- **MyAbandonware:** 3.94/5 (42 votes)[^ref-6]
 
 ## Development
 
@@ -98,9 +100,9 @@ The Adventure Gamer blog describes Blade Runner as an obvious inspiration for Ma
 
 ### Production
 
-The developers actually visited San Francisco to accurately represent city locations, bringing the same attention to real-world detail that characterized the first game's depiction of New York.[^ref-2] For the original game, the Murrys had spent two days photographing New York locations.[^ref-12] The Murrys said that using real locations (New York and San Francisco) added realism to the game.[^ref-30]
+According to a MobyGames player review, Evryware visited San Francisco and based the game on the city's layout and real locations.[^ref-2] For the original game, the Murrys had spent two days photographing New York locations.[^ref-12] The Murrys said that using real locations (New York and San Francisco) added realism to the game.[^ref-30]
 
-Development used Sierra's Adventure Game Interpreter (AGI), despite the newer SCI system being available by the time of Manhunter 2's development.[^ref-7] It was among the last AGI games: Alex Bevilacqua notes that only King's Quest IV and Manhunter 2 came out as AGI games after Manhunter: New York.[^ref-17] The technical accomplishments with the AGI engine were impressive given that the engine wasn't designed for the type of game Evryware was creating.[^ref-3]
+Development used Sierra's Adventure Game Interpreter (AGI), despite the newer SCI system being available by the time of Manhunter 2's development.[^ref-7] It was among the last AGI games: Alex Bevilacqua notes that only King's Quest IV and Manhunter 2 came out as AGI games after Manhunter: New York.[^ref-17] The fan modder Banjo calls Evryware's technical accomplishments with AGI "quite impressive, making a kind of game it was definitely not designed for".[^ref-3]
 
 **Development Credits (DOS version):**[^ref-2]
 - **Lead Design:** Barry Murry, Dave Murry
@@ -115,7 +117,7 @@ Barry Murry handled design, programming, artwork and music for the game.[^ref-2]
 
 ### Technical Achievements
 
-The Murrys have said Manhunter used "unusual camera angles, extreme close-ups, first person views, long pans, aerial views, picture in a picture and many other things that hadn't been used before but became standard soon after."[^ref-30] The first-person perspective set the games apart from other Sierra titles of the era, all of which used third-person views.[^ref-16] Manhunter: New York was the first Sierra game to break entirely from text input.[^ref-8]
+The Murrys have said Manhunter used "unusual camera angles, extreme close-ups, first person views, long pans, aerial views, picture in a picture and many other things that hadn't been used before but became standard soon after."[^ref-30] The first-person perspective set the games apart from other Sierra titles of the era, all of which used third-person views.[^ref-16] According to the Murrys, Manhunter: New York was the first Sierra game without a text parser.[^ref-30]
 
 The MAD tracking device was the series' signature mechanic, allowing players to observe suspect movements throughout the day and unlock new investigation areas.[^ref-17] The Adventure Gamer blog lists the first game's "first person perspective, bizarre camera angles, picture-in-a-picture, long pans, extreme close-ups, overhead shots and a faux 3-D sequence" as making it unique in the Sierra canon.[^ref-12]
 
@@ -163,23 +165,24 @@ Manhunter 2: San Francisco sold more than 100,000 copies,[^ref-15] matching its 
 
 ### Collections
 
-Unlike many Sierra titles, the Manhunter games were never released in CD-ROM collections and remain available only in their original retail floppy versions.[^ref-3] The series has not appeared on digital distribution platforms like GOG or Steam, despite fan requests for a Manhunter Bundle containing both games.[^ref-21] This absence from modern storefronts has contributed to the series' obscurity among contemporary adventure game enthusiasts.
+Unlike many Sierra titles, the Manhunter games were never released in CD-ROM collections and remain available only in their original retail floppy versions.[^ref-3] The series has not appeared on digital distribution platforms like GOG or Steam, despite fan requests for a Manhunter Bundle containing both games.[^ref-21]
 
 ### Fan Projects
 
-Unofficial fix patches have been created to address minor glitches and graphical issues in both Manhunter games.[^ref-3] These patches correct various visual bugs that were present in the original releases. The fan community has worked to preserve and document the games despite their lack of official digital releases.
+Unofficial fix patches have been created to address minor glitches and graphical issues in both Manhunter games.[^ref-3]
 
-Fan sites like the Manhunter Shrine continue to host documentation, patches, and preservation resources for both games.[^ref-27] The series maintains a small but dedicated fanbase who appreciate its unique contributions to the adventure game genre.
+Fan sites like the Manhunter Shrine continue to host documentation, patches, and preservation resources for both games.[^ref-27]
 
 ### Related Publications
 
-- **Manhunter's Field Guide:** Included documentation establishing the game's dystopian setting, opening with "It's been two long, tedious years since the invasion. They came suddenly, like a thief in the night... it was all over by dawn's first light."[^ref-23]
+- **Official Manhunter's Field Guide:** The manual of the first game, Manhunter: New York,[^ref-12] which sets up the series' dystopian setting through the protagonist's journal, opening with "It's been two long, tedious years since the invasion. They came suddenly, like a thief in the night... it was all over by dawn's first light."[^ref-23]
+- **Manhunter 2 manual:** Scorpia found this game's own manual "on the skimpy side, telling you just the bare essentials necessary to get started", with a short walkthrough of the opening in the back.[^ref-29]
 
 ### Critical Perspective
 
-The Manhunter series occupies a unique place in adventure gaming history as a bold experiment that pointed toward the genre's future while remaining anchored in technical limitations of its era. The games were recognized for their "real-world" settings and distinctive gameplay, differentiating them from the fantasy and comedy titles that dominated Sierra's catalog.[^ref-24] Though not commercially dominant, the series demonstrated that adventure games could explore darker themes and alternative interface paradigms.
+The Manhunter Fandom wiki says the games were recognized for their "real-world" settings and distinctive gameplay;[^ref-24] the Murrys themselves said that using real locations (New York and San Francisco) added realism.[^ref-30]
 
-Modern critics acknowledge the Manhunter games as important historical artifacts despite their flaws. Many of the things the series did later became popular, from first-person adventures and graphic horror to puzzles of the kind seen in Ripper and Black Dahlia.[^ref-3] While not Sierra's best work, the games represent a fascinating creative risk—a dystopian horror series with no dialogue, first-person perspective, and mature themes that stood apart from everything else the company produced.[^ref-4]
+Many of the things the series did later became popular, from first-person adventures and graphic horror to puzzles of the kind seen in Ripper and Black Dahlia.[^ref-3] PC Gamer's Cobbett calls the first game "not one of its best, honestly" among Sierra's titles, but says it keeps a cult following "mostly because there's nothing else quite like it."[^ref-4]
 
 ## Downloads
 
@@ -215,9 +218,9 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 [^ref-15]: [Wikipedia – Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) – developer, publisher, designers, platforms, plot, sales, rights
 [^ref-16]: [Banjo's Mods – DOS Games/Manhunter](https://banjosmods.wordpress.com/category/dos-games/manhunter/) – first-person perspective, no dialogue, gore
 [^ref-17]: [Alex Bevilacqua Blog – Manhunter: New York](https://alexbevi.com/blog/2023/02/18/manhunter-new-york/) – MAD tracking mechanic, AGI history
-[^ref-19]: [Manhunter Fandom – Manhunter: New York](https://manhunter.fandom.com/wiki/Manhunter:_New_York) – quotes Computer Gaming World's December 1988 review of the first game
+[^ref-19]: [Computer Gaming World Issue 54, December 1988 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_54) – Scorpia's review of Manhunter: New York, pp. 24–26
 [^ref-20]: [Lemon Amiga – Manhunter: New York Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1045) – OOPS feature in the first game
-[^ref-21]: [GOG Dreamlist – Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) – fan requests, copyright holder, community appreciation
+[^ref-21]: [GOG Community Wishlist – Manhunter: New York (Wayback Machine, 2025)](http://web.archive.org/web/20250821100207/https://www.gog.com/wishlist/games/manhunter_new_york) – fan comments 2013–2018: Manhunter Bundle request, Activision copyright, community appreciation
 [^ref-23]: [TV Tropes – Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – developer history, creator cameos, limerick, Manhunter's Field Guide quote
 [^ref-24]: [Manhunter Fandom – Evryware](https://manhunter.fandom.com/wiki/Evryware) – real-world settings
 [^ref-25]: [Sierra Gamers Forum – Why Was There Never a Third Game](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – posts by Ken Williams (2003–04) and Mike Murry (2008) on Manhunter 3
