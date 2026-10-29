@@ -10,23 +10,22 @@ series: Casino Deluxe
 engine: Unknown
 protagonist: N/A (Player)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-13'
-composer: ['Jeremy A. Bell, Jay Rinaldi']
+last_updated: '2026-10-28'
 description: Casino De Luxe is a casino gambling simulation game developed and published
   by Impressions Games in 1995 for Windows 3.x platforms. Conceived by Impressions...
 tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Casino De Luxe is a casino gambling simulation game developed and published by [[Impressions Games]] in 1995 for Windows 3.x[^ref-1][^ref-2]. Conceived by Impressions founder [[David Lester]], it collects seven casino games in a single SVGA virtual casino[^ref-3][^ref-14]. The game was marketed as "the best-looking gaming collection on the market," promising to combine "the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6].
+Casino De Luxe is a casino gambling simulation game developed and published by [[Impressions Games]] in 1995 for Windows 3.x[^ref-1][^ref-2]. Conceived by Impressions founder [[David Lester]], it collects seven casino games in a single SVGA virtual casino[^ref-3][^ref-14]. The game was marketed as "the best-looking gaming collection on the market," promising to combine "the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6][^ref-22].
 
 Impressions was sold to Sierra On-Line shortly after the game's release, and domestic re-releases and international distribution were published under the Sierra brand[^ref-3]. The original US release, first released in July 1995 according to Sierra Chest, carried Impressions as publisher[^ref-7][^ref-14]; by November 1995 the French magazine Joystick already listed Sierra as its publisher, and the game appeared in Sierra's own Spring 1996 catalog[^ref-17][^ref-16]. The game shipped on CD-ROM[^ref-1][^ref-2].
 
-The box copy promised "you-are-there-graphics, sound effects, speech AND special on-line gambling strategies"[^ref-5][^ref-6]. A sequel, Casino Deluxe 2, was released in 1996 with Sierra On-Line as publisher[^ref-8].
+The publisher's description promised "you-are-there-graphics, sound effects, speech AND special on-line gambling strategies"[^ref-5][^ref-6]. A sequel, Casino Deluxe 2, was released in 1996 with Sierra On-Line as publisher[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -65,7 +64,7 @@ All seven games appear in every account, but sources disagree on one poker varia
 - **Craps** — PC Gamer noted that the game handles double odds correctly, a common weak spot in gambling games[^ref-18]
 - **Roulette**[^ref-14][^ref-18]
 
-The 1995 reviews in Computer Game Review, PC Gamer and Next Generation all list Caribbean Stud (or "Caribbean Poker")[^ref-14][^ref-18][^ref-10]. Sierra's Spring 1996 Buyer's Guide instead lists "Blackjack, Pai Gow Poker, Red Dog Poker, Video Poker, Slots, Craps and Roulette"[^ref-16], and the CD-ROM image preserved at the Internet Archive, filed under a "(Sierra)" filename, is described with the same Red Dog lineup[^ref-1]. No source found explains the difference. A swap between the original Impressions release and the later Sierra edition is a possibility, not a confirmed fact.
+The 1995 reviews in Computer Game Review, PC Gamer and Next Generation all list Caribbean Stud (or "Caribbean Poker")[^ref-14][^ref-18][^ref-10]. Sierra's Spring 1996 Buyer's Guide instead lists "Blackjack, Pai Gow Poker, Red Dog Poker, Video Poker, Slots, Craps and Roulette"[^ref-16], and the CD-ROM image preserved at the Internet Archive, filed under a "(Sierra)" filename, is described with the same Red Dog lineup[^ref-1]; the back cover of that Sierra box also lists "Red Dog Poker"[^ref-22]. Two Spanish reviews of the Sierra edition, distributed there by Coktel, name Red Dog Poker too: Computer Gaming World Spain in March 1996 and PC Top Player in its issue 11[^ref-20][^ref-21]. Every Sierra-branded source found lists Red Dog; every 1995 US review lists Caribbean Stud. No source found explains the difference. A swap between the original Impressions release and the later Sierra edition is a possibility, not a confirmed fact.
 
 ### Strategy Help
 
@@ -81,7 +80,7 @@ Computer Game Review gave the game 85/100 in its September 1995 issue, with revi
 
 Next Generation gave the game 3 out of 5 stars in its November 1995 issue: "Still, if you're into these games, this is one of the best around"[^ref-10].
 
-European publications were cooler. In Joystick's November 1995 issue, reviewer Moulinex dismissed casino games of this kind as hopelessly dated[^ref-17]. Génération 4 gave 59% in November 1995[^ref-3]. German magazine PC Joker, reviewing it in April 1996, called the graphics more functional than glamorous and found the croupiers' comments quickly repetitive[^ref-19]; Wikipedia records PC Joker's score as 43% and PC Top Player's as 61/100[^ref-3].
+European publications were cooler. In Joystick's November 1995 issue, reviewer Moulinex dismissed casino games of this kind as hopelessly dated, giving it 50 for interest and 50 for technique[^ref-17]. Génération 4 gave 59% in November 1995[^ref-3]. German magazine PC Joker, reviewing it in April 1996, called the graphics more functional than glamorous and found the croupiers' comments quickly repetitive[^ref-19]; Wikipedia records PC Joker's score as 43%[^ref-3]. The Spanish magazine PC Top Player gave 61, summing up: "La banca te ha robado la diversión" ("The bank has robbed you of the fun")[^ref-21][^ref-3].
 
 ### Modern Assessment
 
@@ -170,11 +169,11 @@ No information about cut content or removed features has been documented in avai
 
 ### Technical Issues
 
-No significant bugs or technical issues have been documented in available sources. The game was designed for Windows 3.x and may require compatibility layers or period-appropriate operating systems to run on modern hardware[^ref-1][^ref-11].
+No significant bugs or technical issues have been documented in available sources.
 
 ### Easter Eggs and Trivia
 
-- The box copy described it as "the only collection to combine the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6]
+- The back cover of the Sierra-branded box described it as "the only collection to combine the elegance of Monte Carlo and the fun of Las Vegas to bring you 7 classic games"[^ref-22]
 - The elevator has a working alarm button[^ref-14]
 - Giant Bomb tags the game with the concept "Real Photos on Cover Art"[^ref-12]
 - The game was released only for Windows[^ref-2][^ref-12]
@@ -199,6 +198,7 @@ No sales figures for Casino De Luxe have been documented. GamesNostalgia's profi
 Casino De Luxe was included in the following compilation releases:
 
 - **Best of Sierra Nr. 7** (July/August 1998) – bundled alongside 3-D Ultra Pinball[^ref-2][^ref-13]
+- **Grand Casino Deluxe** – listed by Sierra Chest among the compilations that include the game[^ref-7]
 
 ### Fan Projects
 
@@ -212,17 +212,13 @@ No standalone hint books or strategy guides have been documented for this title.
 
 ### Critical Perspective
 
-Casino De Luxe was a departure for Impressions, a studio better known for strategy and simulation games, and PC Gamer credited that background for the accurate way it reproduced each game[^ref-18]. Next Generation's verdict was qualified praise: playing casino games "isn't that fun on the PC," but "if you're into these games, this is one of the best around"[^ref-10]. It remained a minor title in Sierra's catalog, though a sequel, Casino Deluxe 2, followed in 1996 under Sierra On-Line[^ref-8].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Casino De Luxe was a departure for Impressions, a studio better known for strategy and simulation games, and PC Gamer credited that background for the accurate way it reproduced each game[^ref-18]. Next Generation's verdict was qualified praise: playing casino games "isn't that fun on the PC," but "if you're into these games, this is one of the best around"[^ref-10]. A sequel, Casino Deluxe 2, followed in 1996 under Sierra On-Line[^ref-8].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- Not available for purchase; 1995 release is abandonware[^ref-11]
+- Not available for purchase; listed as abandonware by My Abandonware[^ref-11]
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/casino-de-luxe) – CD-ROM preservation[^ref-1]
@@ -252,7 +248,7 @@ Casino De Luxe was a departure for Impressions, a studio better known for strate
 [^ref-3]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_De_Luxe) – Review scores, David Lester concept, sale of Impressions to Sierra, Sierra-branded re-releases and international distribution
 [^ref-5]: [GameFAQs – Casino De Luxe](https://gamefaqs.gamespot.com/pc/227504-casino-de-luxe) – Game description, marketing copy, user ratings
 [^ref-6]: [Metacritic – Casino De Luxe](https://www.metacritic.com/game/casino-de-luxe/) – Promotional description, publisher/developer information
-[^ref-7]: [Sierra Chest – Casino Deluxe](https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe) – First release 1995-07-01, publisher Impressions Games, engine unknown/unnamed
+[^ref-7]: [Sierra Chest – Casino Deluxe](https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe) ([Wayback, September 2024](http://web.archive.org/web/20240918012057/https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe)) – First release 1995-07-01, publisher Impressions Games, engine unknown/unnamed; also included in Grand Casino Deluxe and Best of Sierra Nr.7
 [^ref-8]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – Sequel released 1996, published by Sierra On-Line
 [^ref-9]: [LaunchBox Games Database – Casino De Luxe](https://gamesdb.launchbox-app.com/games/details/102688-casino-de-luxe) – Game description, genre classification
 [^ref-10]: [Next Generation Magazine – November 1995 (Issue 11)](https://archive.org/details/NEXT_Generation_11/mode/1up) – Review, 3/5 stars: "Still, if you're into these games, this is one of the best around" (p. 179)
@@ -265,3 +261,6 @@ Casino De Luxe was a departure for Impressions, a studio better known for strate
 [^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex, p. 90; publisher listed as Sierra
 [^ref-18]: [PC Gamer – Casino Deluxe review, October 1995 (Wayback Machine)](https://web.archive.org/web/20000302085220/http://www.pcgamer.com/reviews/232.html) – Todd Vaughn review, 80%; seven games incl. Caribbean Poker; weak strategy guides
 [^ref-19]: [PC Joker – April 1996](https://archive.org/details/pcjokerapril1996images/page/n43/mode/1up) – review (Markus Ziegler per Wikipedia), p. 44; lobby of a seven-floor casino, $5,000 starting bankroll, three poker variants, "Zockerei von Sierra"
+[^ref-20]: [Computer Gaming World Spain – March 1996 (Issue 4)](https://archive.org/details/computergamingworldspain4/page/n85/mode/2up) – Spanish review, pp. 86–87; "Editor: Sierra / Distribuidor: Cocktel"; lists "el Red Dog Poker" among seven games
+[^ref-21]: [PC Top Player – Issue 11 (Spanish magazine)](https://archive.org/details/pcplayerspain011/page/n39/mode/1up) – Review by V. Sánchez, p. 40; "Sierra / Coktel Ed."; names "Red dog Poker y Pai Gow Poker"; score 61, "La banca te ha robado la diversión"
+[^ref-22]: [Internet Archive – Casino De Luxe back cover scan](https://archive.org/download/casino-de-luxe/scan2-back.jpg) – Sierra-branded box (© 1995 Sierra On-Line): "the best-looking gaming collection on the market"; game list includes Red Dog Poker
