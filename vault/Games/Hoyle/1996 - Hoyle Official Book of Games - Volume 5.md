@@ -79,7 +79,7 @@ The Card Flick mini-game provides an arcade-style diversion, offering a differen
 
 ### Contemporary Reviews
 
-GameSpot Staff awarded Hoyle Solitaire a score of 7.8/10 in their review (first published August 7, 1996; updated May 1, 2000), praising the game's addictive qualities[^ref-11]. The reviewer noted that "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game," highlighting the compelling nature of the collection[^ref-11]. They encouraged players to "Take a break from the shoot-em-ups and God games – play a little solitaire!"[^ref-11]
+GameSpot Staff awarded Hoyle Solitaire a score of 7.8/10 in their review (first published August 7, 1996; updated May 1, 2000), praising the game's addictive qualities[^ref-11]. The reviewer noted that "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game," highlighting the compelling nature of the collection[^ref-11]. They encouraged players to "Take a break from the shoot-'em-ups and God games – play a little solitaire!"[^ref-11]
 
 ### Modern Assessment
 
