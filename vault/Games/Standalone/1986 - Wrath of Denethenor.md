@@ -10,18 +10,18 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
   Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64 platforms.[^ref-1] Set in the war-torn world of Deledain, the game tasks players with defeating the evil Lord Denethenor, who has embraced dark mysticism and plunged the realm into chaos.[^ref-2][^ref-9] It was developed independently and published by Sierra,[^ref-4] and a review in Sierra's own newsletter noted that Crim "wrote the program specifically for novice gamers".[^ref-3]
+Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64 platforms.[^ref-1] Set in the war-torn world of Deledain, the game tasks players with defeating the evil Lord Denethenor, who has embraced dark mysticism and plunged the realm into chaos.[^ref-2][^ref-9] It was developed independently and published by Sierra,[^ref-4] and a review in Sierra's own newsletter noted that Crim "wrote the program specifically for novice gamers".[^ref-3][^ref-23]
 
 The CRPG Addict called it "the most competent Ultima clone that we've seen," and it draws heavily on Richard Garriott's Ultima II and III, using a similar top-down graphic tile perspective while adding its own complexities and expanded scope.[^ref-4][^ref-16] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Its box copy promoted a role-playing system that "doesn't limit you to a set character class" and "10 different magic spells with unique visual effects",[^ref-8] and dimension doors carry the player between lands.[^ref-6][^ref-9]
 
@@ -54,7 +54,7 @@ The journey spans five continents of Deledain, requiring the player to traverse 
 
 Commands are entered as single keystrokes, and Scorpia noted that "No joystick is needed."[^ref-21] Lemon64's database nonetheless lists joystick (Port 2) as the main control for the Commodore 64 version.[^ref-11] The game presents the world from a top-down perspective, using graphic tiles similar to the Ultima series to represent terrain, buildings, and characters.[^ref-5]
 
-The combat system has been described as particularly challenging to master. As one walkthrough author noted, "The combat system is horrendous, forcing you to use control-(direction) and then to decide where to strike."[^ref-12] Attacks ask whether to strike high, medium or low.[^ref-1][^ref-13] Another player wrote: "Took awhile to figure out the attack commands, but now that I got it, man. Its great."[^ref-13]
+Opinions of the combat controls differ. One walkthrough author wrote, "The combat system is horrendous, forcing you to use control-(direction) and then to decide where to strike."[^ref-12] Scorpia, by contrast, found that "Combat, once you get the hang of it, is fairly simple."[^ref-21] Attacks ask whether to strike high, medium or low.[^ref-1][^ref-13][^ref-21] Another player wrote: "Took awhile to figure out the attack commands, but now that I got it, man. Its great."[^ref-13]
 
 ### Structure and Progression
 
@@ -66,7 +66,7 @@ Sierra's newsletter gave the order in which to visit the five continents:[^ref-2
 2. **Cestiona:** Ruled by Lord Mirrih.[^ref-9]
 3. **Arveduin:** Ruled by Lord Estrine, whose lands lay nearest Mystenor.[^ref-9]
 4. **Isles of Bregalad:** Scene of the "few border skirmishes" in the manual's backstory.[^ref-9]
-5. **Mystenor:** Denethenor's own land. Its Castle Denethna holds a fake Denethenor whom the player must kill.[^ref-9][^ref-22]
+5. **Mystenor:** Denethenor's own land.[^ref-9] The newsletter's hints place a Castle Denethna there, holding a fake Denethenor whom the player must kill.[^ref-22]
 
 The box promised "Over 300K of game maps".[^ref-8] There is a day and night cycle, and the CRPG Addict counted 3,600 actions to a 12-hour cycle.[^ref-4]
 
@@ -74,16 +74,18 @@ The box promised "Over 300K of game maps".[^ref-8] There is a day and night cycl
 
 The game has no character classes. As one Lemon64 commenter put it, "You didn't roll for attributes or choose a class, just name the character."[^ref-11] Designer Christopher Crim explained his philosophy: "I wasn't much interested in creating a stats-heavy RPG or rolling characters with predefined roles. It was my intention that your character started out generic and you played it as you wished."[^ref-5]
 
-Players commented positively on this approach: "Best part was you didn't have to pick between fighter, magic user, thief, main character had components of all character classes."[^ref-14] Characters begin with standardized stats: Strength 5, Intelligence 5, Hit Points 1000, Stamina 600, and Gold 300.[^ref-1]
+Players commented positively on this approach: "Best part was you didn't have to pick between fighter, magic user, thief, main character had components of all character classes."[^ref-14] Characters begin with standardized stats: Strength 5, Intelligence 5, Hit Points 1000, Stamina 600, and Gold 300.[^ref-4]
 
 The magic system includes ten different spells, each with unique visual effects.[^ref-6][^ref-8] Some spells require components to cast, adding a resource management element to gameplay.[^ref-11] Players can interact with townsfolk for information, though attacking them triggers law enforcement responses.[^ref-11]
 
-Equipment progression includes eight weapon grades and four armor grades, allowing for character advancement through gear acquisition.[^ref-1] The game writes character and world state to all four of its disk sides, so NPC deaths are permanent.[^ref-4][^ref-21]
+The CRPG Addict counted "maybe 8 weapons, ranging in quality from whip to rapier", and four types of armor, from cloaks to plate.[^ref-4] The game writes character and world state to all four of its disk sides, so NPC deaths are permanent.[^ref-4][^ref-21]
 
-**Enemy Types:**[^ref-8]
+**Enemy Types (as described on the box):**[^ref-8]
 - **Orcs:** Savage but stupid creatures who attack any wandering adventurer
 - **Dragons:** Multiple varieties exist, including winged dragons that can fly over mountains and multi-headed dungeon dwellers
 - **Crachen:** Denethenor's front-line soldiers, imp-like creatures that can blind players with their breath and fight to the death
+
+Crim later said the box used "the common names of things" that Sierra had asked him to strip out of the game, so that in the game itself he "had to make up new names for many of the creatures: worgrecs instead of orcs, crachens instead of dragons, klinkens instead of skeletons".[^ref-5]
 
 ## Reception
 
@@ -91,13 +93,13 @@ Equipment progression includes eight weapon grades and four armor grades, allowi
 
 Scorpia reviewed the game in the May 1987 issue of Computer Gaming World. She called it "well-crafted", but said "it offers nothing fresh (except perhaps in the way it handles hit points) to the RPG genre."[^ref-21] Her bottom line was "An easy-playing game of moderate accomplishments, best suited to those who haven't played too many games of the RPG type."[^ref-21]
 
-A review in InterAction, Sierra's own newsletter (Issue 2, 1987), called it "a quality program" despite its low price.[^ref-3] The reviewer said that at the going rate of about $50 "I'd give it an 8 out of 10", but because it cost half that and was not copy-protected, "it easily earns a 10 out of 10."[^ref-3] The CRPG Addict later pointed out that "this glowing review came from Sierra's own magazine."[^ref-4]
+A review in InterAction, Sierra's own newsletter (Issue 2, 1987), called it "a quality program" despite its low price.[^ref-3][^ref-23] The reviewer said that at the going rate of about $50 "I'd give it an 8 out of 10", but because it cost half that and was not copy-protected, "it easily earns a 10 out of 10."[^ref-3][^ref-23] The CRPG Addict later pointed out that "this glowing review came from Sierra's own magazine."[^ref-4]
 
 Saul Cohen reviewed the game in Info No. 23 (Nov/Dec 1988, p. 66), and Lemon64 records his rating as 2/5.[^ref-11][^ref-24] He found character creation's disk swaps "confusing and time-consuming" and concluded that "there are other role-playing games I would much rather play than this one."[^ref-24]
 
 ### Modern Assessment
 
-Chester Bolingbroke of the CRPG Addict blog revisited the game in March 2017, calling it "the most competent Ultima clone that we've seen, perhaps excepting, if we're extending that term to it, Questron."[^ref-4] He rated it 31/100 on his GIMLET scale, writing that "Difficult and complicated, it at times exceeds Ultima I-II, although that might be faint praise for 1986."[^ref-4]
+Chester Bolingbroke of the CRPG Addict blog played the game in March 2017, calling it "the most competent Ultima clone that we've seen, perhaps excepting, if we're extending that term to it, Questron."[^ref-4] He rated it 31/100 on his GIMLET scale, writing that "Difficult and complicated, it at times exceeds Ultima I-II, although that might be faint praise for 1986."[^ref-4]
 
 GameFAQs contributor ASchultz provided a walkthrough in 2007, noting that "Wrath of Denethenor is a fun retro 1-player RPG despite its faults."[^ref-12] In a 2008 Lemon64 forum thread, one user called it a "Real solid Ultima clone. Its a bit better than the first few actually..."[^ref-13]
 
@@ -113,13 +115,13 @@ Christopher Crim began writing Wrath of Denethenor during his last year of high 
 
 In hindsight, Crim reflected that he "probably should've avoided many of the tropes that Richard Garriott used in Ultima so that Denethenor wouldn't seem so similar."[^ref-5]
 
-The designer's philosophy emphasized accessibility: "I wasn't much interested in creating a stats-heavy RPG or rolling characters with predefined roles."[^ref-5] The InterAction reviewer said Crim aimed to give novices "an alternative to dealing with the complicated combat and magic systems and multiple character parties of most of the recent role-playing games."[^ref-3]
+The designer's philosophy emphasized accessibility: "I wasn't much interested in creating a stats-heavy RPG or rolling characters with predefined roles."[^ref-5] The InterAction reviewer said Crim aimed to give novices "an alternative to dealing with the complicated combat and magic systems and multiple character parties of most of the recent role-playing games."[^ref-3][^ref-23]
 
 ### Production
 
 Crim wrote the game for the Apple II in 1984–85. At Sierra's request, he then spent a few more months porting it to the Commodore 64, rewriting all of the graphics routines. Crim says the C64 disks were "distributed by Sierra back in 1986".[^ref-5] He described it as "more of a hack-and-slash adventure game", saying it was Sierra that insisted on calling it an RPG.[^ref-5]
 
-Crim and Kevin Christiansen asked Sierra up front to "charge half the usual price (like $25 instead of $50-60) and skip the copy protection", because they felt as teenagers that most games were pirated for being so expensive.[^ref-5] A press release sent to GameSIG quoted Crim as saying: "I honestly think Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3]
+Crim and Kevin Christiansen asked Sierra up front to "charge half the usual price (like $25 instead of $50-60) and skip the copy protection", because they felt as teenagers that most games were pirated for being so expensive.[^ref-5] A press release sent to GameSIG quoted Crim as saying: "I honestly think Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3][^ref-23]
 
 **Development Credits:**[^ref-9]
 - **Designer/Programmer:** Christopher Crim
@@ -154,7 +156,7 @@ One Lemon64 commenter, who admitted never having played the game, wrote: "This g
 
 Some players reported crashes on the Commodore 64 version. One Lemon64 forum user wrote: "I think I got to the final stronghold and then the game just crashed."[^ref-13] Crim later found three corrupt files on disk 3 and one on disk 4 of his original C64 masters. Sierra had apparently reproduced and distributed those files, and he says this "may explain a random crashing bug on the C64 version".[^ref-5] The original source code is no longer available.[^ref-5][^ref-13]
 
-The combat control scheme proved particularly challenging for many players to master, requiring the control key combined with directional inputs followed by target selection.[^ref-12]
+One walkthrough author found the combat controls hard to master: they require the control key plus a direction, followed by choosing where to strike.[^ref-12] Scorpia thought combat "fairly simple" once learned.[^ref-21]
 
 ### Version History
 
@@ -169,7 +171,7 @@ MobyGames lists a January 1987 release date for both platforms.[^ref-15] Compute
 
 - The CRPG Addict calls the name "Denethenor" a likely play on Denethor from The Lord of the Rings. Crim says the name was invented and any resemblance may have been subconscious.[^ref-4][^ref-5]
 - The CRPG Addict found the message "UrenDuirEsex" in the ruins left after defeating the fake Denethenor.[^ref-4]
-- The game hints at a potential sequel after the credits,[^ref-3] though none was ever produced. Crim told a fan "It's not likely that there will be a sequel".[^ref-5]
+- The game hints at a potential sequel after the credits,[^ref-3][^ref-23] though none was ever produced. Crim told a fan "It's not likely that there will be a sequel".[^ref-5]
 
 ## Legacy
 
@@ -185,7 +187,7 @@ The game is preserved through disk images on the Internet Archive, and Crim offe
 
 ### Fan Projects
 
-The original source code is no longer available.[^ref-5][^ref-13] The game is primarily preserved through disk images on the Internet Archive and other retro gaming repositories.[^ref-2][^ref-14]
+No fan remakes, ports or mods turned up in the sources consulted for this page. With the original source code lost, the game survives only as the original disk images described under Collections.[^ref-5]
 
 ### Related Publications
 
@@ -236,6 +238,6 @@ The original source code is no longer available.[^ref-5][^ref-13] The game is pr
 [^ref-18]: [IGDB – Wrath of Denethenor](https://www.igdb.com/games/wrath-of-denethenor) — Internet Games Database entry, Apple II / C64 platform confirmation, release-year metadata
 [^ref-21]: [Computer Gaming World #37 (May 1987)](https://archive.org/details/Computer_Gaming_World_Issue_37) – Scorpia's review (from p. 30, continued later in the issue): prices ($24.95 Apple, $19.95 C-64), "two double-sided diskettes", verdict
 [^ref-22]: [Sierra Newsletter Vol. 1 No. 3 (Spring 1988)](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) – outcome of the no-copy-protection experiment, five-continent order, Apple II order-form price $14.95
-[^ref-23]: [Sierra Newsletter Vol. 1 No. 2 (1987)](https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US) – original scan of the issue carrying the "Wrath of Denethenor: A Fantasy Role-Playing Game" feature (box-copy story text)
+[^ref-23]: [Sierra Newsletter Vol. 1 No. 2 (1987)](https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US) – original scan of the issue carrying the "Wrath of Denethenor: A Fantasy Role-Playing Game" feature (box-copy story text) and "Wrath of Denethenor: A Review" (the InterAction review transcribed at ref-3; OCR is noisy, wording per the page images)
 [^ref-24]: [Info No. 23 (Nov/Dec 1988)](https://archive.org/details/Info_Issue_23_1988-11_Info_Publications_US) – Saul Cohen's review, p. 66
 [^ref-25]: [Crimdom.net – Developer Website (Wayback Machine, July 2025)](https://web.archive.org/web/20250717070811/https://crimdom.net/wrath-of-denethenor/) – earlier wording: "written in 6502 assembly instructions, compiled with Merlin and hand-linked"
