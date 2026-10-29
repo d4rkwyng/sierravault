@@ -2,7 +2,7 @@
 title: Colossal Cave 3D Adventure
 release_year: 2023
 developer: Cygnus Entertainment
-designer: []
+designer: [Roberta Williams]
 creative_director: [Roberta Williams]
 publisher: Cygnus Entertainment
 genre: Adventure
@@ -13,7 +13,7 @@ series: Standalone
 engine: Unity
 protagonist: Unnamed Adventurer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Colossal Cave 3D Adventure is a 3D and VR reimagining of the seminal
   1976 text adventure game created by William Crowther and Don Woods, developed by
   Cygnus Entertainment, the studio of Sierra founders Ken and Roberta Williams, with
@@ -22,16 +22,16 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 
 ## Overview
 
-Colossal Cave 3D Adventure (sold as *Colossal Cave*) is a 3D and VR reimagining of the seminal text adventure created by Will Crowther in 1976 and expanded by Don Woods in 1977[^ref-6]. Developed by Cygnus Entertainment, the company founded by Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], with Roberta as creative director[^ref-15] and Ken as lead engineer (MobyGames credits him under "Lead Engineers")[^ref-23], the game marked their first new game in some 25 years[^ref-2][^ref-19]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure that Ken Williams described as "intended for the whole family"[^ref-3][^ref-11].
+Colossal Cave 3D Adventure (sold as *Colossal Cave*) is a 3D and VR reimagining of the seminal text adventure created by Will Crowther in 1976 and expanded by Don Woods in 1977[^ref-6]. Developed by Cygnus Entertainment, the company founded by Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], with Roberta as creative director[^ref-15] and Ken as lead engineer (MobyGames credits him under "Lead Engineers")[^ref-23], the game marked their first new game in some 25 years[^ref-2][^ref-19]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure that Ken Williams described as "intended for the whole family"[^ref-3].
 
 The game challenges players to explore a vast underground cave, collecting treasures while solving puzzles and avoiding hazards including hostile dwarves and a wandering pirate[^ref-5][^ref-9]. Don Woods's 1977 version of the original, on which the remake is based, had fifteen treasures and 140 map locations[^ref-4]. As in the original, players aim for a perfect score of 350 points[^ref-2][^ref-9]. The original's famous codewords "Xyzzy" and "Plugh" are part of the game[^ref-5]; in the text original, "Xyzzy" teleports the player between the building and the Debris Room[^ref-4].
 
-Colossal Cave was released on January 19, 2023 for PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2, with further console and VR versions following later in 2023[^ref-6]. The original Colossal Cave Adventure established conventions that became standard in the adventure game genre and inspired Roberta Williams to create Mystery House in 1980, the game that launched Sierra On-Line[^ref-7].
+Colossal Cave was released on January 19, 2023 for PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2, with further console and VR versions following later in 2023[^ref-6]. The original Colossal Cave Adventure established conventions that became standard in the adventure game genre and inspired Roberta Williams to create Mystery House in 1980, the game that launched Sierra On-Line[^ref-7][^ref-15].
 
 > [!info]- Game Info
 > **Developer:** Cygnus Entertainment[^ref-6][^ref-20]
@@ -64,14 +64,14 @@ Players cycle through collected objects in the inventory to use them on puzzles[
 
 ### Structure and Progression
 
-The game faithfully recreates the original's structure of interconnected cave chambers and passages[^ref-2], which the official fact sheet describes as 14 distinct regions[^ref-6]. Players are free to explore in any direction, though certain areas require specific items or puzzle solutions to access. Areas include:
+The game faithfully recreates the original's structure of interconnected cave chambers and passages[^ref-2], which the official fact sheet describes as 14 distinct regions[^ref-6]. Adventure Gamers found the map "basically open-ended", with required items not necessarily found near where they are needed[^ref-2]. Areas include:
 
 - **Surface Area:** The cabin by the stream, where treasures are returned for points[^ref-9]
 - **Upper Cave:** Early passages such as the Debris Room and the bird and snake puzzle[^ref-4][^ref-9]
 - **The Maze:** Multiple sections of confusingly similar passages that challenge players' mapping skills[^ref-4]
 - **Named rooms from the original:** Including the Hall of the Mountain King, the Orient loop and Witt's End[^ref-9]
 
-Progress is tracked through a scoring system that awards points for collecting treasures, discovering locations, and solving puzzles[^ref-2]. Original maps from the 1970s and 1980s remain compatible with the 3D remake, allowing veteran players to use their old notes[^ref-7].
+Progress is tracked through a scoring system that awards points for depositing treasures and for certain encounters or events[^ref-2]. Original maps from the 1970s and 1980s remain compatible with the 3D remake, allowing veteran players to use their old notes[^ref-7].
 
 ### Puzzles and Mechanics
 
@@ -90,7 +90,7 @@ The game does not hold the player's hand, requiring careful observation and expe
 
 Colossal Cave 3D Adventure received mixed reviews upon release, with critics divided between appreciation for its historical preservation and criticism of its dated design. Worth Playing awarded the game 80/100, stating "Colossal Cave is a good adventure game that will appeal more to those with some nostalgia for classics and classic sensibilities"[^ref-12]. GamingTrend also scored it 80/100, praising how "this modern remake brings the wonder of a text adventure to life in full 3D"[^ref-12].
 
-God is a Geek gave a more measured 60/100, noting "Colossal Cave is a love letter to the 1976 original which fans will enjoy, but newcomers will likely be confused, intimidated, and frustrated by its design"[^ref-12]. Adventure Gamers awarded 50/100 (2.5/5 stars), characterizing the game as "a near-equal balance of good and bad" and observing that "despite a lovingly crafted 3D reimagining, Colossal Cave recreates the original too closely to appeal to much more than game history buffs and nostalgia seekers – or very patient players who don't mind repetitive, arduous gameplay"[^ref-2].
+God is a Geek gave a more measured 60/100, noting "Colossal Cave is a love letter to the 1976 original which fans will enjoy, but newcomers will likely be confused, intimidated, and frustrated by its design"[^ref-12]. Adventure Gamers' Sarah Kipling awarded 2.5/5 ("Uneven", which the site's scale defines as "a near-equal balance of good and bad"), observing that "despite a lovingly crafted 3D reimagining, Colossal Cave recreates the original too closely to appeal to much more than game history buffs and nostalgia seekers – or very patient players who don't mind repetitive, arduous gameplay"[^ref-2].
 
 More critical assessments came from Metro GameCentral (40/100), calling it "a misguided attempt to recreate one of gaming's oldest and most influential classics, that's let down by outdated visuals and prehistoric gameplay elements"[^ref-12]. Slant Magazine (40/100) noted the game "can hardly be called a modernization, because it would have felt antiquated even if it came out 20 years ago"[^ref-12]. Movies Games and Tech also awarded 40/100[^ref-12].
 
@@ -111,7 +111,7 @@ Mega Visions summarized the divide in a review rating the game as "GOOD," explai
 
 The project originated during the COVID-19 pandemic lockdown when Ken Williams, after decades away from game development, began experimenting with the Unity game engine[^ref-10]. During this period, he had written a book about the old Sierra days, whose success surprised him and brought back memories of their time making games[^ref-10]. When Ken started coding for fun, Roberta Williams suggested adapting Colossal Cave to 3D[^ref-3].
 
-Roberta Williams explained the significance of the choice: "Colossal Cave is the game that started Sierra On-Line. It started my career"[^ref-15]. The original Colossal Cave Adventure had directly inspired her to create Mystery House in 1980, which became the first graphical adventure game and launched what would become Sierra On-Line[^ref-7]. Ken Williams noted: "As we dug deeper and deeper into the game we discovered layers of complexity that explain why the game became such an industry phenomena. It has action elements, humor, a scoring system, adventure elements, interesting characters, a huge world to explore and more"[^ref-3].
+Roberta Williams explained the significance of the choice: "Colossal Cave is the game that started Sierra On-Line. It started my career"[^ref-15]. The original Colossal Cave Adventure had directly inspired her to create Mystery House in 1980, which became the first graphical adventure game and launched what would become Sierra On-Line[^ref-7][^ref-15]. Ken Williams noted: "As we dug deeper and deeper into the game we discovered layers of complexity that explain why the game became such an industry phenomena. It has action elements, humor, a scoring system, adventure elements, interesting characters, a huge world to explore and more"[^ref-3].
 
 The project was initially referred to as "The Secret" before its official announcement[^ref-3]. Roberta Williams reflected on her return to game development: "I hadn't really wanted to get back in the industry, but I just suddenly felt this urge, almost kind of like when I sat down and did Mystery House"[^ref-15]. The Williams approached the project with low stakes; Ken told Ars Technica, "For us, it's not really about the money. If the game sinks or swims, it ain't gonna change our life at all"[^ref-19].
 
@@ -165,7 +165,7 @@ No cut content has been documented. Ken Williams wrote that the team released th
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | January 19, 2023 | PC, Mac, Linux, Steam Deck, PS5, Switch, Meta Quest 2 | Initial multi-platform release[^ref-6] |
-| SteamVR | June 20, 2023 | PC VR | SteamVR release[^ref-6][^ref-21] |
+| SteamVR | June 20, 2023 | PC VR | SteamVR release[^ref-6]; MobyGames dates the separate Colossal Cave VR edition June 21, 2023[^ref-21] |
 | Xbox | July 25, 2023 | Xbox One, Xbox Series X/S | Xbox platform release[^ref-6] |
 | September 2023 wave | September 20, 2023 | PS4, PlayStation VR2, Pico VR, iOS, SideQuest VR | Released alongside the Boxed Collector's Edition[^ref-6] |
 | Announced | "Coming Soon" (December 2024) | Apple Vision Pro, Meta Quest 3 | Listed as coming soon on the official fact sheet[^ref-6] |
@@ -269,7 +269,7 @@ This fidelity to the source material was intentional. In 2022, Ars Technica repo
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive (Wayback Machine, January 2024)](https://web.archive.org/web/20240109064404/https://www.colossalcave3d.com/news/) – index of reposted press coverage, including the Marcus Mera interview excerpt (its "January 30, 2023" entry is a repost date, not a Quest 2 release date)
-[^ref-2]: Adventure Gamers – Colossal Cave 3D Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review score, gameplay analysis, platforms
+[^ref-2]: [Adventure Gamers – Colossal Cave review (Wayback Machine, February 2023)](https://web.archive.org/web/20230204054849/https://adventuregamers.com/articles/view/colossal-cave) – Sarah Kipling, January 24, 2023; pre-sale archived copy (the live site was sold in 2025 and is now a casino affiliate); review score, gameplay analysis, scoring
 [^ref-3]: [80 Level – Sierra Founders Remaking Colossal Cave](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) – development origins, Unity engine, Ken Williams quotes
 [^ref-4]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – original game history, technical specifications, cultural impact
 [^ref-5]: [Colossal Cave 3D – Official Website (Wayback Machine, March 2024)](https://web.archive.org/web/20240302070502/https://colossalcave3d.com/) – user testimonials, characters, language support
