@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Peter and Ben
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
   by Coktel Vision and published by Sierra On-Line for Windows 3.x and Macintosh;
   sources disagree on its release year (1994, 1995 in Europe, 1996 in the US).'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,7 @@ Later, while working on a formula (a "chemistry project" in Sierra Chest's wordi
 
 According to Wikipedia, the boys call Uncle Archibald for help. When the lights come back on, the monsters are all in the living room laughing at them, and a large brown monster called Fatso grabs them just as Archibald storms in. Archibald threatens to send the monsters into a "soppy love story" unless they go back to his stories, and the ashamed monsters vanish. He then explains that the little green bottle held a spell that materializes whatever people imagine.[^ref-2]
 
-The interactive story unfolds across multiple pages, with players able to jump to any page in the narrative.[^ref-2] Some pages lead to unlisted pages, creating a branching structure that encourages exploration and replay. Each game in the Playtoons series includes an introductory cartoon that introduces the characters and establishes the situation before players dive into the interactive experience.[^ref-2]
+The interactive story unfolds across multiple pages, with players able to jump to any page in the narrative.[^ref-2] Some pages lead to unlisted pages.[^ref-2] Each game in the Playtoons series includes an introductory cartoon that introduces the characters and establishes the situation before players dive into the interactive experience.[^ref-2]
 
 ## Gameplay
 
@@ -75,7 +75,7 @@ The construction game allows players to create up to 20 scenes.[^ref-18] Althoug
 
 ### Contemporary Reviews
 
-No contemporary critic reviews of Playtoons 1: Featuring Uncle Archibald are listed on MobyGames or Metacritic.[^ref-22][^ref-10] The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs, reflecting its educational focus rather than traditional gaming appeal.[^ref-9]
+No contemporary critic reviews of Playtoons 1: Featuring Uncle Archibald are listed on MobyGames or Metacritic.[^ref-22][^ref-10] The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs.[^ref-9]
 
 ### Modern Assessment
 
@@ -126,7 +126,7 @@ The game was built on Coktel Vision's Gob engine.[^ref-18] If several Playtoons 
 |------|----------|--------|-------|
 | 1995 | Windows 3.x | France | French release[^ref-6][^ref-9] |
 | 1995 | Windows 3.x | Germany | German localization[^ref-6][^ref-9] |
-| 1995 | Macintosh | Not specified | MobyGames lists a 1995 Mac release without a region[^ref-1] |
+| 1995 | Macintosh | France, Germany | MobyGames release data lists 1995 Mac releases in France and Germany, and a 1996 US release[^ref-1] |
 | 1996 | Windows 3.x | United States | US release, rated K-A[^ref-6][^ref-9] |
 
 Wikipedia and IGDB instead give 1994 as the release year.[^ref-2][^ref-19]
@@ -154,7 +154,7 @@ The game was released under different titles for localized markets:
 
 ### Sales and Commercial Impact
 
-Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, and released in the US in 1996.[^ref-9] Under the acquisition deal, Sierra published Coktel's French titles worldwide.[^ref-23]
+Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, and released in the US in 1996.[^ref-9] Under the acquisition deal, Sierra published popular French titles worldwide.[^ref-23]
 
 ### Fan Projects
 
@@ -206,7 +206,7 @@ The series continued with at least four more installments: Playtoons 2: The Case
 [^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
-[^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – story (Peter, Ben, Uncle Archibald), Gob engine, 20-scene construction game, camera with voice overs, Monsters add-on, first release 1995
-[^ref-19]: [IGDB – Playtoons Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-featuring-uncle-archibald) – release date 6/1/1994, Mac and PC (Windows), developer Coktel Vision
+[^ref-18]: [Sierra Chest – Playtoons 1](https://web.archive.org/web/20250803115553/https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – story (Peter, Ben, Uncle Archibald), Gob engine, 20-scene construction game, camera with voice overs, Monsters add-on, first release 1995
+[^ref-19]: [IGDB – Playtoons Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-featuring-uncle-archibald) – release date 6/1/1994, PC (Windows), developer Coktel Vision
 [^ref-22]: [MobyGames – Playtoons 1: Featuring Uncle Archibald reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/) – no critic reviews listed ("Be the first to add a critic review for this title!")
-[^ref-23]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – acquired by Sierra On-Line (deal finalised 29 October 1993); Sierra published Coktel's French titles worldwide
+[^ref-23]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – acquired by Sierra On-Line (deal finalised 29 October 1993); Sierra published popular French titles worldwide

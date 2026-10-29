@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
   storybook and creativity game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ Sierra Chest notes that Playtoons 3: The Secret of the Castle was the first Play
 **CD-ROM Version:**[^ref-7]
 - **Resolution:** 640x480[^ref-2]
 - **Media:** CD-ROM
-- **File Size:** Approximately 419.4 MB (French disc image)[^ref-7]
+- **File Size:** About 438.7 MB (418.4 MiB; French disc image)[^ref-7]
 - **Platforms:** Windows 3.1, Windows 95, Macintosh
 
 **System Requirements:**
@@ -216,7 +216,7 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-17]: [Internet Archive – Playtoons 4](https://archive.org/details/playtoons-4) – fourth game in series
 [^ref-18]: [GameFAQs – Playtoons 2](https://gamefaqs.gamespot.com/pc/591381-playtoons-2-the-case-of-the-counterfeit-collaborator) – developer, publisher, 1995 release, PC/Mac listings
 [^ref-19]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – Playtoons 3 developer and publisher
-[^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – 1992 Sierra acquisition, US publishing, later educational-only focus
+[^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – Sierra acquisition (MobyGames gives 1992; the body uses the 10-K's October 29, 1993), US publishing, later educational-only focus
 [^ref-22]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
 [^ref-23]: [Wikipédia (FR) – Spirou (série télévisée d'animation)](https://fr.wikipedia.org/wiki/Spirou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation)) – "Micmac à Champignac" listed in the first season (1993)
 [^ref-24]: [MobyGames – Playtoons 2 Reviews](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/reviews/) – single critic review: Fun Online (Germany), January 1996, score 2 (lowest is best), normalised 83%
