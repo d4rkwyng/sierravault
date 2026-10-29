@@ -60,8 +60,8 @@ A "simple select-and-click" Flight Planning Wizard lets players choose a departu
 
 There are six aircraft in Pro Pilot USA, "each one selected to assist in the understanding of basic aviation to advanced piloting"[^ref-17]:
 
-- **Cessna 172R Skyhawk (1997):** New in this title[^ref-17]
-- **Cessna 172P Skyhawk:** The classic trainer[^ref-17]
+- **Cessna 172R Skyhawk (1997):** Billed by Sierra as new in this title[^ref-17] (MobyGames' Pro Pilot '98 entry also lists a 172R[^ref-4])
+- **Cessna 172P Skyhawk:** "The classic Cessna 172P Skyhawk"[^ref-17]
 - **Beechcraft Bonanza V35**[^ref-17]
 - **Beechcraft Baron B58**[^ref-17]
 - **Beechcraft King Air B200**[^ref-17]
@@ -144,7 +144,7 @@ No information regarding cut content or removed features has been documented in 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 1, 1998 | Windows 95 | Initial release[^ref-17] |
+| — | October 1, 1998 (MobyGames: October 2) | Windows 95 | Initial release[^ref-17][^ref-24] |
 
 ### Technical Issues
 
@@ -214,7 +214,7 @@ Pro Pilot USA was Sierra's attempt to widen that niche: rather than overhaul the
 [^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – "Pro Pilot USA: Need Help!" thread, September–October 2001: full-screen image quality, purchase price
 [^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](https://web.archive.org/web/20260615183649/http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog row for "Sierra Pro Pilot (USA)"
 [^ref-8]: No Steam listing found (Steam store search, checked October 29, 2026) – digital availability status
-[^ref-9]: [GOG.com Search](https://www.gog.com/en/games?query=Sierra+Pro+Pilot+USA) – digital availability status
+[^ref-9]: No GOG listing found (GOG store search, checked October 29, 2026) – digital availability status
 [^ref-10]: [Dynamix Press Release (Archived)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – December 5, 1997 announcement of the original Pro Pilot
 [^ref-11]: [GameSpot – Pro Pilot Review (Archived)](https://web.archive.org/web/20161108022053/https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – Denny Atkin review of Pro Pilot '98, February 9, 1998
 [^ref-12]: [GameSpot – Pro Pilot '99 Review (Archived)](https://web.archive.org/web/20241204001616/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – Denny Atkin; retrospective comments on Pro Pilot '98's state at release
