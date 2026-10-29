@@ -10,13 +10,13 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: None (player acts in the historical role set by each mission briefing)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Cleopatra: Queen of the Nile is the 2000 expansion pack for Pharaoh, developed by BreakAway Games with Impressions Games and published by Sierra, adding four campaigns of 15 missions set from 1490 BC to 35 BC.'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The expansion requires the base game Pharaoh to be present on the system[^ref-6]
 > **Designer:** Charles Kibler[^ref-28]
 > **Producer:** Ed Beach[^ref-28]
 > **Publisher:** Sierra Entertainment[^ref-5]
-> **Engine:** Pharaoh Engine (expansion to Pharaoh)[^ref-6]
+> **Engine:** Pharaoh Engine (expansion to Pharaoh)
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 2000[^ref-1]
 > **Series:** Pharaoh
@@ -67,12 +67,12 @@ Some missions let troops and monuments carry over from a previous mission. Only 
 
 ### New Features
 
-- **New industries:** lamp making (pottery and imported oil) and paint making (henna), both needed for the new royal tombs[^ref-31]
+- **New industries:** lamp making (pottery and imported oil) and paint making (henna), both needed for the new royal tombs[^ref-31][^ref-37]
 - **Royal tombs:** built into the cliffs, decorated with paint, lit with lamps and stocked with luxury burial goods[^ref-31]
 - **Tomb robbers:** they appear in any mission where burial goods must be dispatched to a monument, and they lower the kingdom rating if not stopped[^ref-6]
 - **Zoo:** a new entertainment building, which the Impressions Games Wiki says is "only available in missions where the Culture rating is above 70"[^ref-6]
-- **Plagues:** angry gods can now send rivers of blood, locusts, frogs and hailstorms[^ref-31][^ref-6]
-- **Optional pyramid speed-up blessing:** gods' blessings can build part of a monument for free; this is toggled in the options menu[^ref-6]
+- **Plagues:** angry gods can now send rivers of blood, locusts, frogs and hailstorms[^ref-31][^ref-6][^ref-37]
+- **Optional pyramid speed-up blessing:** gods' blessings can build part of a monument for free; this is toggled in the options menu[^ref-6][^ref-38]
 - **Hostile creatures:** scorpions attack residents in early missions where no military can be recruited[^ref-31]
 
 GameSpot also reported a bug in version 1.0. If burial goods were dispatched to a tomb before it was finished, construction stopped and saved games for that mission were affected[^ref-31].
@@ -84,16 +84,20 @@ GameSpot also reported a bug in version 1.0. If burial goods were dispatched to 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Gamer's Pulse | 88/100 | "A must-have expansion for any serious monument builder"[^ref-18] |
+| IGN | 8.6/10 | Trent C. Ward: "if I had to describe it in one word, that word would be difficult"[^ref-37] |
 | Game Over Online | 81/100 | Faulted the unchanged random-walker service system[^ref-18] |
+| Computer Games Magazine | 4/5 | Dave Markell, posted October 23, 2000: "though it's a bit uneven, Cleopatra is a worthwhile add-on to a great game"[^ref-38] |
 | GamePro | 80/100 | "The gameplay gets a little repetitive"[^ref-18] |
 | ActionTrip | 80/100 | "It's a beautiful game that attracts with its looks and dynamics rather than originality"[^ref-18] |
 | GameSpot | 7.5/10 | Ron Dulin, updated August 1, 2000[^ref-31] |
 | CNET Gamecenter | 70/100 | Called it "a must-have for Pharaoh freaks"[^ref-18] |
 | Quandary | 60/100 | "it doesn't reach any great heights"[^ref-18] |
 | Metacritic | 77/100 | Aggregate of 13 critic reviews[^ref-18] |
-| MobyGames | 78% | Critic average from 23 ratings; players 3.9/5 from 18 ratings[^ref-1] |
+| MobyGames | 78% | Critic average from 22 ratings; players 3.8/5 from 17 ratings, as archived February 4, 2026[^ref-36] |
 
 GameSpot's Ron Dulin praised BreakAway for not taking the "easy route" of expansion packs. He found the new missions both "extend the game" and "enhance it", but noted that the wandering-worker problem inherited from Pharaoh "has still not been addressed"[^ref-31].
+
+IGN's Trent C. Ward found the new missions "so hard that I was very worried about meeting my deadline". He noted that the pack ships without any manual and reuses the original soundtrack, and that goods sometimes failed to reach the tombs[^ref-37]. Dave Markell of Computer Games Magazine called the Ramses II campaign "a delight" and the Ancient Conquerors campaign "the weakest of the bunch". He also regretted that the Karnak temple of Amon, which had been meant for the expansion, was cut[^ref-38].
 
 ### Modern Assessment
 
@@ -103,7 +107,7 @@ Metacritic's user score stands at 7.6 from 14 ratings[^ref-18]. The bundled Phar
 
 ### Origins
 
-Computer Games Strategy Plus reported on July 6, 2000 that the expansion had gone gold and would reach retail around July 14. It noted that the pack was developed by BreakAway Games, the studio behind *Sid Meier's Antietam!*[^ref-32]. MobyGames dates the US release to July 12, 2000[^ref-1], while GameFAQs and Metacritic give July 11, 2000[^ref-5][^ref-18].
+Computer Games Magazine's website (cdmag.com) reported on July 6, 2000, citing Impressions Games, that the expansion had gone gold and would reach retail around July 14. It noted that the pack was developed by BreakAway Games, the studio behind *Sid Meier's Antietam!*[^ref-32]. MobyGames dates the US release to July 12, 2000[^ref-1], while GameFAQs and Metacritic give July 11, 2000[^ref-5][^ref-18].
 
 ### Production Team
 
@@ -185,7 +189,10 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 [^ref-29]: [MobyGames – Cleopatra: Queen of the Nile patches](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/patches/) – v2.1 patch, 2000-11-17, fix list
 [^ref-30]: [MobyGames – Cleopatra: Queen of the Nile specs](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/specs/) – System requirements, input devices, resolutions
 [^ref-31]: [GameSpot – Cleopatra Review by Ron Dulin (archived)](http://web.archive.org/web/20010331083239/http://www.zdnet.com:80/gamespot/stories/reviews/0,10867,2610569,00.html) – 7.5 score, new industries, tombs, plagues, difficulty, v1.0 bug, requirements
-[^ref-32]: [Computer Games Strategy Plus – Cleopatra Goes Gold (archived)](https://web.archive.org/web/20030525155946/http://www.cdmag.com/articles/028/152/cleo.html) – Gold announcement, July 6, 2000; BreakAway as developer
+[^ref-32]: [Computer Games Magazine (cdmag.com) – Cleopatra Goes Gold, news by James Fudge (archived)](https://web.archive.org/web/20030525155946/http://www.cdmag.com/articles/028/152/cleo.html) – Gold announcement, July 6, 2000; BreakAway as developer
 [^ref-33]: [GOG.com – Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) – Current digital storefront
 [^ref-34]: [Steam – Pharaoh + Cleopatra](https://store.steampowered.com/app/564530/) – Current digital storefront
 [^ref-35]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/) – Remake of Pharaoh and Cleopatra; Triskell Interactive / Dotemu; Feb 15, 2023
+[^ref-36]: [MobyGames – Cleopatra: Queen of the Nile (archived February 4, 2026)](https://web.archive.org/web/20260204172038/https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Critics 78% (22 ratings); players 3.8/5 (17 ratings)
+[^ref-37]: [IGN – Pharaoh: Cleopatra review by Trent C. Ward (archived)](http://web.archive.org/web/20260813201709/https://www.ign.com/articles/2000/07/27/pharaoh-cleopatra) – 2000 review, score 8.6; difficulty, plagues, lamp and paint industries, no manual, same soundtrack
+[^ref-38]: [Computer Games Magazine – Cleopatra review by Dave Markell (archived)](http://web.archive.org/web/20050324020235/http://cdmag.com:80/articles/030/066/cleopatra_review.html) – Posted 10/23/2000; overall rating 4 of 5; campaigns, zoos, divine blessings, cut Karnak temple
