@@ -10,7 +10,7 @@ series: PGA Championship Golf
 engine: Custom (TrueSwing and TriClick swing models)
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: PGA Championship Golf 1999 Edition is a 1999 Windows golf simulation
   developed by Headgate Studios and published by Sierra Sports, the sequel to Front
   Page Sports Golf, with eight courses, the TrueSwing mouse swing, ReadyPlay and a
@@ -20,7 +20,7 @@ composer: [Chuck Barth]
 ---
 # PGA Championship Golf 1999 Edition
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -94,7 +94,7 @@ The Course Architect lets players build their own courses. A course wizard guide
 | GameRankings (aggregate) | 79.81% (16 reviews)[^ref-16] |
 | MobyGames critics (aggregate) | 78% (12 ratings)[^ref-1] |
 
-Most of the praise went to TrueSwing. William Abner of *Computer Games Strategy Plus* wrote that "PGA Championship Golf is an enigma. It has the best swing method in the industry, a powerful course designer, addictive gameplay, and yet it feels unfinished."[^ref-5] Paul Rosano of the *Hartford Courant* wrote that "the feel of the mouse swing is truly incredible, way ahead of the competition."[^ref-14] AllGame's Michael L. House said the game "achieves what I had begun to think of as the unattainable Holy Grail of golf simulation."[^ref-7] Stephen Poole of GameSpot called it "the best implementation of this swing method I've tried."[^ref-9]
+Most of the praise went to TrueSwing. William Abner of *Computer Games Strategy Plus* wrote that "PGA Championship Golf is an enigma. It has the best swing method in the industry, a powerful course designer, addictive gameplay, and yet it feels unfinished."[^ref-5] Rosano of the *Hartford Courant* wrote that "the feel of the mouse swing is truly incredible, way ahead of the competition."[^ref-14] AllGame's Michael L. House said the game "achieves what I had begun to think of as the unattainable Holy Grail of golf simulation."[^ref-7] Stephen Poole of GameSpot called it "the best implementation of this swing method I've tried."[^ref-9]
 
 ReadyPlay was also well received. House called it an "enormous innovation."[^ref-7] Gordon Goble of CNET Gamecenter said "it's the latter innovation that really gets things cooking."[^ref-8] Abner was more mixed, calling ReadyPlay "both a blessing and a curse" because opponents sometimes stood in the line of a shot.[^ref-5]
 
@@ -106,7 +106,7 @@ Other reviewers were warmer. Rob Smolka of *PC Gamer* (US) wrote that the game "
 
 ### Modern Assessment
 
-MobyGames gives the game a Moby Score of 7.5 and a critics average of 78% from 12 ratings.[^ref-1]
+MobyGames gave the game a Moby Score of 7.5 and a critics average of 78% from 12 ratings as of April 2026 (the score has since drifted to 7.4).[^ref-1]
 
 ## Development
 
@@ -193,7 +193,7 @@ The game was followed in 2000 by [[2000 - PGA Championship Golf 2000|PGA Champio
 [^ref-11]: [PC Gamer (UK) – PGA Championship Golf 99 review, Chris Buxton (Issue 73, September 1999)](https://web.archive.org/web/20010924221538/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=868) – 73%; spectators and animation criticism
 [^ref-12]: [GamePro – PGA Championship Golf 1999 Edition review](https://web.archive.org/web/20050213224440/http://gamepro.com/computer/pc/games/reviews/630.shtml) – 20,000-polygon golfer; horizontal TrueSwing; $29.95 price
 [^ref-13]: [IGN – PGA Championship Golf 1999 Edition review, Steve Butts (July 15, 1999)](https://www.ign.com/articles/1999/07/15/pga-championship-golf-1999-edition) – 7.6; TrueSwing description; play formats; "no season mode"; Course Architect lock-ups; spectators
-[^ref-14]: [Hartford Courant – 'PGA 99' Still Not Up to Par, Paul Rosano (September 26, 1999)](https://www.courant.com/1999/09/26/pga-99-still-not-up-to-par/) – 8.2/10; $29.95; mouse swing "way ahead of the competition"; architect crashes after patch
+[^ref-14]: [Hartford Courant – 'PGA 99' Still Not Up to Par (September 26, 1999)](https://www.courant.com/1999/09/26/pga-99-still-not-up-to-par/) – byline blank online; the page shows "Rosano's rating" (Wikipedia's citation gives the first name as Paul); 8.2/10; $29.95; mouse swing "way ahead of the competition"; architect crashes after patch
 [^ref-15]: [Eurogamer – PGA Championship Golf 1999 review, nach0king (August 3, 2000)](https://www.eurogamer.net/pga1999) – 8/10; Sierra Originals budget re-release; "top selling" quote; commentary "commendable"; lacks a tournament mode
 [^ref-16]: [GameRankings – PGA Championship Golf 1999 Edition (archived)](https://web.archive.org/web/20190526032744/https://www.gamerankings.com/pc/185317-pga-championship-golf-1999-edition/index.html) – 79.81% from 16 reviews; release date May 31, 1999
 [^ref-17]: [Computer Games Strategy Plus – PGA Championship Golf 1999 Edition on WON.net (June 2, 1999)](https://web.archive.org/web/20030806060120/http://www.cdmag.com/articles/020/076/pga_won.html) – WON.net support; WONswap course sharing; Sierra Sports Golf Association
