@@ -10,21 +10,21 @@ series: Starsiege
 engine: Darkstar
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Starsiege: Tribes was a pioneering multiplayer-focused first-person
-  shooter developed by Dynamix and published by Sierra On-Line in 1998, widely credited
-  as the first retail FPS designed specifically for multiplayer competition.'
+  shooter developed by Dynamix and published by Sierra On-Line in 1998, which GameSpot
+  later called the first retail FPS designed specifically for multiplayer competition.'
 tags: [1990s, shooter, sierra, starsiege]
 ---
 # Starsiege: Tribes
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Starsiege: Tribes was a pioneering multiplayer-focused first-person shooter developed by Dynamix and published by Sierra On-Line in 1998[^ref-5]. The game was notable as "the first of its kind: a retail first-person shooter designed specifically for multiplayer competition"[^ref-2], and it took the market risk of being essentially a multiplayer-only game with only training missions for single-player content[^ref-3][^ref-28]. Set in the 40th century within the Starsiege universe, the game featured multiple human tribes fighting for territory[^ref-5].
+Starsiege: Tribes was a pioneering multiplayer-focused first-person shooter developed by Dynamix and published by Sierra On-Line in 1998[^ref-5]. GameSpot's review of Tribes 2 later called it "the first of its kind: a retail first-person shooter designed specifically for multiplayer competition"[^ref-2], and it took the market risk of being essentially a multiplayer-only game with only training missions for single-player content[^ref-3][^ref-28]. Set in the 40th century within the Starsiege universe, the game featured multiple human tribes fighting for territory[^ref-5].
 
-The game was built around jetpack movement, large outdoor maps and team objectives[^ref-5]. A later retrospective in SuperJump Magazine argued that "Starsiege: Tribes was, arguably, the birth of the team-based, objective-focused multiplayer shooter as a subgenre in its own right"[^ref-6]. The game's most famous feature was its "skiing" movement technique, which began as an unintended physics bug that the designers chose to keep[^ref-7][^ref-28].
+The game was built around jetpack movement, large outdoor maps and team objectives[^ref-5]. A later retrospective in SuperJump Magazine argued that "Starsiege: Tribes was, arguably, the birth of the team-based, objective-focused multiplayer shooter as a subgenre in its own right"[^ref-6]. Its "skiing" movement technique, which The Ringer says "became a core part of competitive Tribes", began as an unintended physics bug that the designers chose to keep[^ref-7][^ref-28].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -41,7 +41,7 @@ The game was built around jetpack movement, large outdoor maps and team objectiv
 
 ## Story Summary
 
-Starsiege: Tribes is set in the 40th century[^ref-5]; one retail description frames it as a universe "that has been infested with a deadly virus that almost wiped out an entire race of people"[^ref-9].
+Starsiege: Tribes is set in the 40th century[^ref-5].
 
 Conflict has broken out between several factions of humans, with innumerable splinter tribes constantly fighting for territory[^ref-5].
 
@@ -55,17 +55,17 @@ The four largest tribes are the Children of the Phoenix, Blood Eagle, Diamond Sw
 
 ### Interface and Controls
 
-Starsiege: Tribes is played with keyboard and mouse[^ref-4]. Players wear light, medium, or heavy armor; heavier armors supply more armor, energy and ammunition, and each armor type supports different weapons and equipment[^ref-5]. Every player has a jetpack that draws on the armor's energy cell[^ref-5], and players could equip various "packs" that altered their abilities[^ref-13].
+Starsiege: Tribes is played with keyboard and mouse[^ref-4]. Players wear light, medium, or heavy armor; heavier armors supply more armor, energy and ammunition, and each armor type supports different weapons and equipment[^ref-5]. Every player has a jetpack that draws on the armor's energy cell[^ref-5], and players could equip various "packs" that altered their abilities[^ref-5].
 
 ### Structure and Progression
 
-The game supported 2 to 32 players over the Internet or LAN[^ref-20] and shipped with 40 levels[^ref-5]. The five default game types are Capture the Flag (which ran on 75 percent of servers), Deathmatch, Capture and Hold, Defend and Destroy, and Find and Retrieve[^ref-5]. The game's structure emphasized team-based objectives, with bases featuring generators, turrets, stations, and sensors[^ref-13].
+The game supported 2 to 32 players over the Internet or LAN[^ref-20] and shipped with 40 levels[^ref-5]. The five default game types are Capture the Flag (which ran on 75 percent of servers), Deathmatch, Capture and Hold, Defend and Destroy, and Find and Retrieve[^ref-5]. The game's structure emphasized team-based objectives, with bases featuring generators, turrets, stations, and sensors[^ref-5].
 
 ### Puzzles and Mechanics
 
 The core gameplay revolved around mastering the physics-based movement system, particularly "skiing", which relies on an exploitation of the game's physics engine to build speed down hills[^ref-7]. As one player review described it: "Tribes has a huge skill curve created through the complex use of 'skiing' up and down hills and valleys in order to gain speed. Add to that precision aiming at moving targets while flying through the air at the equivalent of hundreds of miles per hour"[^ref-15]. The game featured eight weapons: heavy mortar, sniper rifle, explosive disc launcher, short-range gatling gun, grenade launcher, blaster, plasma rifle, and laser rifle[^ref-5].
 
-Armor choice shaped each player's role. A contemporary strategy guide called heavy armor the choice "for the destruction-lovers and defenders" and recommended light armor with an energy pack for capture-the-flag runs[^ref-12].
+Armor choice shaped each player's role. A player's guide on Computer and Video Games' cheats pages called heavy armor the choice "for the destruction-lovers and defenders" and recommended light armor with an energy pack for capture-the-flag runs[^ref-12].
 
 Base management added strategic depth beyond direct combat. Generators power a base; destroying them can disable a team's defenses by deactivating its turrets and stations[^ref-5], and the same guide warned that without power a team loses its inventory stations, vehicle purchases and built-in base defenses[^ref-12].
 
@@ -103,7 +103,7 @@ Ladder competition was fierce, and the community later developed individual play
 
 ### Modern Assessment
 
-Modern retrospective reviews have maintained the game's reputation as a classic. Metacritic shows an 8.7/10 user score based on 28 user ratings[^ref-15], while MobyGames shows a Moby Score of 8.1 and a critic average of 86% from 22 reviews[^ref-4]. ModDB's community rates it 8.9/10[^ref-10]. Long-term players continue to praise the game, with one 2021 review calling it "Still the best online multiplayer game, 23 years later..."[^ref-9].
+Modern retrospective reviews have maintained the game's reputation as a classic. Metacritic shows an 8.7/10 user score based on 28 user ratings[^ref-15], while MobyGames shows a Moby Score of 8.1 and a critic average of 86% from 22 reviews[^ref-4]. As of October 2026, ModDB's community rates it 9.2/10 from 29 votes[^ref-10]. Long-term players continue to praise the game, with one 2021 review calling it "Still the best online multiplayer game, 23 years later..."[^ref-9].
 
 ## Development
 
@@ -160,15 +160,14 @@ Tribes offered several team-based, non-deathmatch modes that, as The Ringer note
 [^ref-2]: [GameSpot Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) – description of original Starsiege: Tribes as first multiplayer-focused retail FPS; Tribes 2 additions
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/285280305214) – game's multiplayer focus and training missions only for single-player
 [^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – Moby Score 8.1, critics 86% (22), input devices
-[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) – setting, game types, armor, weapons, awards, sales, Next Generation review, freeware release
+[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) – setting, game types, armor, packs, base systems, weapons, awards, sales, Next Generation review, freeware release
 [^ref-6]: [Super Jump Magazine](https://www.superjumpmagazine.com/tribes-the-great-fps-underdog-part-1/) – retrospective on historical significance as birth of team-based objective shooters
 [^ref-7]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Starsiege:_Tribes) – skiing as an exploitation of the physics engine
 [^ref-8]: [Strategy Wiki](https://strategywiki.org/wiki/Starsiege:_Tribes) – platform information (Windows)
-[^ref-9]: [eBay Product Description](https://www.ebay.com/p/6488472) – product description and 2021 user review
-[^ref-10]: [ModDB](https://www.moddb.com/games/tribes) – community rating
+[^ref-9]: [eBay Product Description](https://www.ebay.com/p/6488472) – 2021 user review
+[^ref-10]: [ModDB](https://www.moddb.com/games/tribes) – community rating: average 9.2 from 29 votes (checked October 29, 2026)
 [^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Starsiege:_Tribes) – minimum system requirements
-[^ref-12]: [Archived Computer and Video Games Guide](https://web.archive.org/web/20070121083557/http://www.computerandvideogames.com/article.php?id=69365) – armor roles, generators and base tips
-[^ref-13]: [Laberinto Gris](https://laberintogris.com/en/luis-royo-80s-90s/321-luis-royo-laberinto-gris-videogame-manual-illustration-starsiege-tribes.html) – equipment, packs and base systems
+[^ref-12]: [Archived Computer and Video Games Guide](https://web.archive.org/web/20070121083557/http://www.computerandvideogames.com/article.php?id=69365) – undated CVG "PC Cheats" player's guide (archived 2007): armor roles, generators and base tips
 [^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/starsiege-tribes-bhx) – reprinted Games Domain review
 [^ref-15]: [Metacritic User Review](https://www.metacritic.com/game/starsiege-tribes/) – user score and daydull user review describing skill curve and skiing mechanics
 [^ref-16]: [GameSpot Review](https://www.gamespot.com/reviews/starsiege-tribes-review/1900-2533218/) – Michael E. Ryan review score and quote
