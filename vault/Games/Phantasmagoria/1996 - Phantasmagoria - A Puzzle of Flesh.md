@@ -10,26 +10,26 @@ series: Phantasmagoria
 engine: SCI32
 protagonist: Curtis Craig
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: 'Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure
- game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
+ game from Sierra On-Line, released in 1996. It shares only its name with Roberta...'
 tags: [1990s, adventure, phantasmagoria, sci, sierra]
 ---
 # Phantasmagoria: A Puzzle of Flesh
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure game released by Sierra On-Line, which reached North American stores on November 26, 1996[^ref-1][^ref-66]. Though technically a sequel to Roberta Williams' 1995 game Phantasmagoria, A Puzzle of Flesh shares no connections with its predecessor in plot or characters, as Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment featuring a different story and style[^ref-2]. The game follows Curtis Craig, a young technical writer[^ref-39] who begins experiencing disturbing hallucinations and supernatural events while struggling to maintain his sanity and uncover the truth about his identity[^ref-3].
+Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure game from Sierra On-Line, on sale in North American stores from November 26, 1996[^ref-1][^ref-66]. It carries the name of Roberta Williams' 1995 game Phantasmagoria, but the Sierra Chest notes that it "has no connection whatsoever" with that game[^ref-13]; the Los Angeles Times called it "the second installment in Sierra On-Line's horror anthology"[^ref-51]. Its hero is Curtis Craig, a young technical writer[^ref-39] who starts to fear for his own sanity as terrifying, unexplained events and then murders gather around him[^ref-3].
 
-Developed on a budget of $4.5 million with a cast of more than 30 professional actors[^ref-4], A Puzzle of Flesh was one of Sierra's full-motion video productions. The game was filmed over about six months, with actors performing on movie sets built in and around Seattle, Washington, specifically for the production rather than on blue screen[^ref-5]; the alien world, however, was computer-rendered, with the live video overlaid by chromakey[^ref-63]. While not a commercial success, the game is remembered for its controversial violent and sexual content, which led to heavy censorship or outright bans in several European and Oceanic countries[^ref-6].
+Developed on a budget of $4.5 million with a cast of more than 30 professional actors[^ref-4], A Puzzle of Flesh was one of Sierra's full-motion video productions. The game was filmed over about six months, with actors performing on movie sets built in and around Seattle, Washington, specifically for the production rather than on blue screen[^ref-5]; the alien world, however, was computer-rendered, with the live video overlaid by chromakey[^ref-63]. It sold less well than the first game: the Sierra Chest cites the sequel's "lower sales"[^ref-73], and Wikipedia calls it a "commercial disappointment"[^ref-74]. Its graphic violence and sex drew censorship abroad, and designer Lorelei Shannon later recalled: "Some governments banned the game altogether, believe it or not."[^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
 > **Designer:** [[Lorelei Shannon]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-7]
-> **Engine:** SCI32[^ref-65]
+> **Engine:** SCI32, rewritten (Sierra Chest); PCGamingWiki lists it as SCI3[^ref-65][^ref-62]
 > **Platforms:** DOS, Windows 95[^ref-9]
 > **Release Year:** 1996 (North America: November 26, 1996)[^ref-66]
 > **Series:** Phantasmagoria
@@ -38,21 +38,21 @@ Developed on a budget of $4.5 million with a cast of more than 30 professional a
 
 ## Story Summary
 
-Curtis Craig is a quiet young man working as a technical writer for the Wyntech Corporation who has been out of a mental hospital for exactly one year[^ref-10]. Despite having a steady job and a lovely girlfriend named Jocilyn, Curtis begins experiencing strange and terrifying events around him - photographs bleed, rats speak, and his computer develops a vicious mind of its own[^ref-11]. As Curtis begins to doubt his own sanity and the very fabric of reality, a series of brutal murders begins to occur[^ref-12].
+Sierra's 1996 synopsis introduces Curtis Craig as a reserved young man who works for the Wyntech Corporation, has a girlfriend named Jocilyn, and left a mental hospital exactly a year earlier[^ref-10]. His ordinary life comes apart as inexplicable things happen around him; in Sierra's words, "Photographs bleed. Rats speak. His computer develops a vicious mind of its own."[^ref-11] Curtis comes to question whether he is sane at all, and then the killings start[^ref-12].
 
-Following a trail of hallucinations, blood, sex and murder victims, Curtis discovers he is not who he always thought he was[^ref-13]. The title "Puzzle of Flesh" refers to the puzzle of who Curtis really is, and the fact that his flesh is not his own[^ref-14]. Throughout his journey, Curtis encounters various characters including his therapist Dr. Harburg, his co-worker Trevor Barnes, and the mysterious entity known as the Hecatomb[^ref-15]. The game explores themes of identity, mental illness, sexuality, and supernatural horror as Curtis unravels the truth about his past and confronts the forces seeking to control him[^ref-16].
+In the Sierra Chest's summary, Curtis follows "a trail of hallucinations, blood, sex and murder victims" and learns that "he is not who he always thought he was"[^ref-13]. The title "Puzzle of Flesh" refers to the puzzle of who Curtis really is, and the fact that his flesh is not his own[^ref-14]. Throughout his journey, Curtis encounters various characters including his therapist Dr. Harburg, his co-worker Trevor Barnes, and the mysterious entity known as the Hecatomb[^ref-15]. The game explores themes of identity, mental illness, sexuality, and supernatural horror as Curtis unravels the truth about his past and confronts the forces seeking to control him[^ref-16].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Phantasmagoria: A Puzzle of Flesh uses Sierra's traditional point-and-click adventure interface with a cursor that changes over hot spots[^ref-17]. When the cursor is passed over an object or area that can be manipulated, it highlights, and clicking it starts a live-action clip that moves the game along[^ref-18]. The game alternates between two modes: interactive sequences with video sprites on filmed backgrounds, and non-interactive full-motion video sequences that advance the narrative[^ref-19].
+Phantasmagoria: A Puzzle of Flesh uses Sierra's traditional point-and-click adventure interface with a cursor that changes over hot spots[^ref-17]. Anything Curtis can interact with lights up under the cursor, and a click on it plays a live-action clip that advances the story[^ref-18]. The game alternates between two modes: interactive sequences with video sprites on filmed backgrounds, and non-interactive full-motion video sequences that advance the narrative[^ref-19].
 
-The game follows Sierra's traditional chapter-by-chapter structure, divided into five chapters[^ref-20]. Estimates of its length vary widely: Adventure Gamers said a seasoned player could finish it in "less than six or seven hours"[^ref-26], Game Revolution put it at 10-15 hours[^ref-39], and Adventure Classic Gaming at 15-20 hours[^ref-20]. Players explore a limited number of locations including Curtis's apartment, the Wyntech office, a therapist's office, various bars and clubs, and supernatural environments[^ref-21]. The interface emphasizes cinematic storytelling over complex puzzle-solving, with the game functioning more like an interactive movie than a traditional adventure game[^ref-22].
+The game follows Sierra's traditional chapter-by-chapter structure, divided into five chapters[^ref-20]. Estimates of its length vary widely: Adventure Gamers said a seasoned player could finish it in "less than six or seven hours"[^ref-26], Game Revolution put it at 10-15 hours[^ref-39], and Adventure Classic Gaming at 15-20 hours[^ref-20]. Locations Curtis visits include his apartment, the WynTech offices, Dr. Harburg's office, the Dreaming Tree Restaurant and the Borderline[^ref-21]. The interface emphasizes cinematic storytelling over complex puzzle-solving, with the game functioning more like an interactive movie than a traditional adventure game[^ref-22].
 
 ### Structure and Progression
 
-The game spans five chapters, each focusing on different aspects of Curtis's deteriorating mental state and the supernatural events surrounding him[^ref-23]. Players progress through the story by triggering specific plot events and completing relatively simple puzzles, though reviewers noted that many puzzles felt arbitrary or illogical[^ref-24]. The therapy sessions with Dr. Harburg serve as a unique gameplay element where inventory objects are used to bring up discussion topics, providing backstory and character development[^ref-25].
+The game spans five chapters[^ref-23]. Players progress through the story by triggering specific plot events and completing mostly simple puzzles[^ref-33], though Adventure Classic Gaming found some of them, such as the alien circuit board puzzle, "simply illogical"[^ref-24]. The therapy sessions with Dr. Harburg serve as a unique gameplay element where inventory objects are used to bring up discussion topics, providing backstory and character development[^ref-25].
 
 Much of the game's running time is spent watching video rather than playing; Adventure Gamers noted that "a good share" of its length "will be spent watching the videos rather than actually playing"[^ref-26]. The game includes multiple possible endings based on player choices, though the overall story arc remains largely fixed[^ref-27]. Easter eggs are scattered throughout the game, with a total of 480 possible Easter Egg points that can be discovered through exploration[^ref-28].
 
@@ -72,7 +72,7 @@ Phantasmagoria: A Puzzle of Flesh received largely negative reviews from critics
 |-------------|-------|-------|
 | GameSpot | 3.7/10 | Harsh criticism of story and characters[^ref-35] |
 | GameRankings | 55.88% | Aggregate score[^ref-37] |
-| Computer Gaming World | 1.5/5 | Petra Schlunk, March 1997[^ref-37] |
+| Computer Gaming World | 1.5/5 | Petra Schlunk, March 1997[^ref-37][^ref-78] |
 | PC Games | C+ | Peter Olafson[^ref-38] |
 | Game Revolution | C- | Described as "short and meaningless"[^ref-39] |
 | Adventure Classic Gaming | 2/5 | Called it a "failed effort"[^ref-40] |
@@ -92,19 +92,19 @@ The game faced significant censorship in multiple European and Oceanic territori
 
 ### Origins
 
-The game originated when Sierra decided to continue the Phantasmagoria franchise as a horror anthology series rather than a direct sequel[^ref-47]. Roberta Williams stepped out of the project and passed development responsibilities to Lorelei Shannon, who had previously co-designed King's Quest VII: The Princeless Bride[^ref-48]. In Shannon's own account, Williams "wasn't particularly interested in spearheading the franchise," and "a number of different designers wrote proposals for a potential Phantasmagoria II"; hers "was more urban horror, as a counterpoint to the original," and she was given the project[^ref-80]. Shannon drew inspiration from authors Edgar Allan Poe, Charles Beaumont, and Shirley Jackson, as well as visual influences from photographer Joel-Peter Witkin and the film Seven[^ref-49]. She also cited fondness for the psychological horror film Jacob's Ladder and admiration for Clive Barker's work[^ref-50].
+The sequel was not a continuation of the first game's story[^ref-13]. Roberta Williams stepped out of the project and passed development responsibilities to Lorelei Shannon, who had previously co-designed King's Quest VII: The Princeless Bride[^ref-48]. In Shannon's own account, Williams "wasn't particularly interested in spearheading the franchise," and "a number of different designers wrote proposals for a potential Phantasmagoria II"; hers "was more urban horror, as a counterpoint to the original," and she was given the project[^ref-80]. Shannon drew inspiration from authors Edgar Allan Poe, Charles Beaumont, and Shirley Jackson, as well as visual influences from photographer Joel-Peter Witkin and the film Seven[^ref-49]. She also cited fondness for the psychological horror film Jacob's Ladder and admiration for Clive Barker's work[^ref-50].
 
 The project was produced as the second installment of Sierra's horror anthology, at a time when game producers were increasingly hiring professional screen actors for CD-ROM titles[^ref-51]. The Sierra Chest describes the result as "Sierra's most explicit game", with blood and gore, nudity, sex and strong language[^ref-53]; its subject matter includes child abuse, mental illness, sadomasochism and bisexuality[^ref-71].
 
 ### Production
 
-Development took place at Sierra On-Line's headquarters in Bellevue, Washington, with filming occurring in and around Seattle from February to September 1996[^ref-54]. The production was directed by Andy Hoyos, working with a crew of young USC film school graduates[^ref-55]; [[Tammy Dargan]] is credited as project manager[^ref-81]. The game was shot on Digital Betacam, producing nearly four and a half hours of video from a script over 200 pages long[^ref-56]. Unlike the first Phantasmagoria, A Puzzle of Flesh was filmed with actors on high-quality movie sets built for the production rather than against blue screen[^ref-57], although the alien-world scenes were still computer-rendered with video overlaid by chromakey[^ref-63].
+The game's own map is a map of Bellevue, Washington; according to the Sierra Chest, a hidden Easter egg sits on the spot "where Sierra On-Line had its headquarters and where the Phantasmagoria development team was located"[^ref-28]. Filming took place in and around Seattle[^ref-5]. Wikipedia dates it from February to September 1996[^ref-54], while the Los Angeles Times reported "about six months in filming"[^ref-5] and Shannon recalled that "the shoot was going to last six months"[^ref-8]. The production was directed by Andy Hoyos, working with a crew of young USC film school graduates[^ref-55]; [[Tammy Dargan]] is credited as project manager[^ref-81]. The game was shot on Digital Betacam, producing nearly four and a half hours of video from a script over 200 pages long[^ref-56]. Unlike the first Phantasmagoria, A Puzzle of Flesh was filmed with actors on high-quality movie sets built for the production rather than against blue screen[^ref-57], although the alien-world scenes were still computer-rendered with video overlaid by chromakey[^ref-63].
 
-The casting process proved challenging, with the main actor Paul Morgan Stetler being cast very late after the original Los Angeles-based actor dropped out over a contract dispute[^ref-58]. The production employed Screen Actors Guild talent, with actors receiving a minimum of $522 per day for interactive media projects[^ref-59]. The game featured a cast of more than 30 professional actors, including Ragna Sigrunardottir as Therese, Monique Parent as Jocilyn, and Paul Mitri as Trevor[^ref-60]. Composer Gary Spinrad created what reviewers described as a "haunting score" for the game[^ref-61].
+The casting process proved challenging, with the main actor Paul Morgan Stetler being cast very late after the original Los Angeles-based actor dropped out over a contract dispute[^ref-58]. The production employed Screen Actors Guild talent, with actors receiving a minimum of $522 per day for interactive media projects[^ref-59]. The game featured a cast of more than 30 professional actors[^ref-4], including Ragna Sigrunardottir as Therese, Monique Parent as Jocilyn, and Paul Mitri as Trevor[^ref-60]. The music was composed by Gary Spinrad, whose "haunting score" GameSpot's reviewer felt was wasted on the story[^ref-61].
 
 ### Technical Achievements
 
-A Puzzle of Flesh was built using Sierra's Creative Interpreter version 3 (SCI3) engine, a rewritten version of the SCI32 engine that added support for the Duck video format[^ref-62][^ref-65]. The game utilized TrueMotion video compression to provide near 30 frames per second video playback[^ref-63]. Rather than blurring violent or sexual content, the developers shot alternate clips for the password-protected parental lockout setting[^ref-64]. Separate retail versions were still produced: Sam's and Wal-Mart carried only a PG-13 version, and a special version for Best Buy in Texas removed the phrase "pig in puke" from the box[^ref-64].
+The sources label the engine differently. The Sierra Chest says the game uses "a rewritten version of Sierra's SCI32 game engine" to support the Duck movie format[^ref-65], while PCGamingWiki lists the engine as SCI3[^ref-62]. The game utilized TrueMotion video compression to provide near 30 frames per second video playback[^ref-63]. Rather than blurring violent or sexual content, the developers shot alternate clips for the password-protected parental lockout setting[^ref-64]. Separate retail versions were still produced: Sam's and Wal-Mart carried only a PG-13 version, and a special version for Best Buy in Texas removed the phrase "pig in puke" from the box[^ref-64].
 
 The video files were stored as DUK (Duck) movies, played in 16-bit color under Windows; under DOS, CLU files converted them to 8-bit color[^ref-65]. The extensive full-motion video meant the game shipped on five CD-ROMs[^ref-66]. Published system requirements differ between sources: Computer Gaming World's review listed a 486DX-66, 8MB RAM and a 2x CD-ROM drive[^ref-78], while MobyGames lists a Pentium, 12MB RAM and a 4x CD-ROM drive[^ref-67]. The Windows 95 version included enhanced features but proved problematic for modern compatibility, leading GOG to release only the DOS version despite fan requests for the Windows Enhanced edition[^ref-68]. Sierra's website in December 1996 listed a Macintosh CD as "available mid-February 1997"[^ref-69], but MobyGames records only DOS and Windows releases[^ref-9].
 
@@ -131,18 +131,16 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 ## References
 
 [^ref-1]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Developer, release and North American release date
-[^ref-2]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Plot summary and relationship to predecessor
 [^ref-3]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Sierra's official 1996 plot synopsis
 [^ref-4]: https://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production budget and cast size details
 [^ref-5]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production location and filming details
-[^ref-6]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Commercial performance and censorship information
 [^ref-7]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Developer and publisher information
-[^ref-8]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Designer interview and development details
+[^ref-8]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Designer interview and development details; "Some governments banned the game altogether"; "the shoot was going to last six months"
 [^ref-9]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/specs/ - Platform and technical specifications
 [^ref-10]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Curtis works for the Wyntech Corporation, out of the mental hospital for exactly one year
 [^ref-11]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Official promotional description of supernatural events
 [^ref-12]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Doubts about his sanity, then the murders begin
-[^ref-13]: https://www.sierrachest.com/index.php?a=games&id=41&fld=general - Detailed plot summary
+[^ref-13]: https://www.sierrachest.com/index.php?a=games&id=41&fld=general - Detailed plot summary; "it has no connection whatsoever with Roberta Williams' Phantasmagoria"
 [^ref-14]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Title meaning explanation from creator
 [^ref-15]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Characters, including Dr. Harburg, Trevor Barnes and the Hecatomb
 [^ref-16]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Thematic analysis and character information
@@ -150,10 +148,10 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-18]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Cursor highlights over objects; clicking starts a live-action clip
 [^ref-19]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Interactive and non-interactive modes of play
 [^ref-20]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Five chapters; 15-20 hour length estimate
-[^ref-21]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Location and exploration details
+[^ref-21]: https://www.justadventure.com/walkthrough/phantasmagoria2/ - Just Adventure walkthrough: locations (apartment, WynTech, Dr. Harburg's office, Dreaming Tree Restaurant, Borderline)
 [^ref-22]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Gameplay criticism and movie comparison
 [^ref-23]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/faqs/2194 - Chapter structure from complete walkthrough
-[^ref-24]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Puzzle design criticism
+[^ref-24]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - "Some puzzles, such as the alien circuit board puzzle, are simply illogical"
 [^ref-25]: https://www.justadventure.com/walkthrough/phantasmagoria2/ - Therapy session mechanics description
 [^ref-26]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Adventure Gamers review (2008, archived): length and time spent watching video
 [^ref-27]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Multiple endings information
@@ -176,13 +174,12 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-44]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Adventure Gamers review by Andrea Morstabilini, August 15, 2008 (archived): 2.5 stars and verdict
 [^ref-45]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - 20-year retrospective analysis
 [^ref-46]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/reviews/ - User review compilation
-[^ref-47]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Anthology series concept
 [^ref-48]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Roberta Williams passed the project to Lorelei Shannon, KQ7 co-designer
 [^ref-49]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Creative influences documentation
 [^ref-50]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Shannon's fondness for Jacob's Ladder and admiration for Clive Barker
 [^ref-51]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Second installment of the horror anthology; actors in CD-ROM productions
 [^ref-53]: https://www.sierrachest.com/index.php?a=games&id=41&fld=general - "Sierra's most explicit game"
-[^ref-54]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Development location and filming timeline
+[^ref-54]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Filming in and around Seattle, February to September 1996
 [^ref-55]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Director and crew information
 [^ref-56]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Technical filming details
 [^ref-57]: https://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Set construction vs blue screen
@@ -205,7 +202,7 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-74]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Phantasmagoria 3 plans and cancellation
 [^ref-75]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - Renewed popularity and cult following
 [^ref-77]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Regional censorship; banned in Singapore
-[^ref-78]: https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt - Computer Gaming World #152 (March 1997), review spec box: system requirements
+[^ref-78]: https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt - Computer Gaming World #152 (March 1997), p. 86, review by Petra Schlunk: 1.5-star rating (checked on the page image) and spec-box system requirements
 [^ref-79]: https://www.refused-classification.com/censorship/game/precensored/#phantasmagoria-a-puzzle-of-flesh - Australian classification history
 [^ref-80]: https://www.adventure-treff.de/interviews/11802-lorelei-shannon - Adventure-Treff interview with Lorelei Shannon (2011): several designers wrote Phantasmagoria II proposals; "My proposal was more urban horror"; "I was given my own project, Phantasmagoria 2"
 [^ref-81]: https://web.archive.org/web/20231012171315/https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/credits/dos/ - MobyGames DOS credits (Wayback, October 12, 2023): "Project Manager Tammy Dargan"
