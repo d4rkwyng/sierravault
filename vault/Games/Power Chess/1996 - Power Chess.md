@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess by David Kittinger
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Guy Whitmore]
 description: Power Chess is a 1996 Windows 95 chess program from Sierra On-Line, built
   on David Kittinger's WChess engine, pairing an adaptive King opponent with a talking
@@ -19,11 +19,11 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Power Chess is a chess program released by Sierra On-Line on September 30, 1996, for Windows 95[^ref-1][^ref-6]. Its engine is WChess by David Kittinger, which had played against Deep Blue at the 1995 World Computer Chess Championship[^ref-1][^ref-19]. Wikipedia credits it with two main innovations: the program adjusts its level to match the player's, and after each game a female voice, the Queen, walks the player through the game and explains where they could have played better[^ref-1].
+Power Chess is a chess program released by Sierra On-Line on September 30, 1996, for Windows 95[^ref-1][^ref-6]. Its engine is WChess by David Kittinger, which had played against Deep Blue at the 1995 World Computer Chess Championship[^ref-1]. Wikipedia credits it with two main innovations: the program adjusts its level to match the player's, and after each game a female voice, the Queen, walks the player through the game and explains where they could have played better[^ref-1].
 
 The program was designed and directed by Elon Gasper[^ref-22], whom Sierra CEO Ken Williams later called the "genius" behind it: "Power Chess was Elon's baby"[^ref-16]. It won Computer Games Strategy Plus's 1996 award for Traditional Game of the Year[^ref-17], and in March 1997 the German magazine PC Joker rated it highest of four new chess programs[^ref-20].
 
@@ -60,7 +60,7 @@ The Queen is the strongest player in the program[^ref-13]. Dulin found her coach
 
 A "Great Games" collection lets the player replay famous games, each narrated move by move by the Queen. The seven games run from Anderssen–Dufresne's "Evergreen Game" (1852) and Morphy's "Opera Game" (1858) to Smyslov–Fischer (1970), WChess–Deep Blue (1995) and Game 1 of Deep Blue–Kasparov (1996)[^ref-1]. PC Joker thought a database of only seven annotated master games was thin[^ref-20]. The program also includes 419 instructional diagrams and Aron Nimzowitsch's classic *My System*[^ref-20], and Dulin noted a Chess Lab for trying variations on the player's own games[^ref-13].
 
-One chess.com forum user, recalling the program in 2019, wrote: "Twin game engines running in parallel, you would play against the King while the Queen watched the game."[^ref-3].
+One chess.com forum user, recalling the program in 2019, wrote: "Twin game engines running in parallel, you would play against the King while the Queen watched the game."[^ref-3]
 
 ## Reception
 
@@ -75,7 +75,7 @@ One chess.com forum user, recalling the program in 2019, wrote: "Twin game engin
 
 PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls, 80% for options and 86% for playing strength, for an overall 80%. That put it ahead of Mephisto Genius 3.5 (78%), Chessmaster 5000 (76%) and Grandmaster Chess Ultra (69%)[^ref-20]. The magazine noted that, unthrottled, the program had even drawn against Deep Blue[^ref-20].
 
-Sierra's own InterAction magazine later quoted Computer Games Strategy Plus as calling it "a fresh, addictive, and innovative way for the rest of us to improve our play". It also quoted *Wired*: "one of the best things to happen to on-screen chess since there was such a thing"[^ref-21].
+Sierra's own InterAction magazine later quoted Computer Games Strategy Plus as calling it "a fresh, addictive, and innovative way for the rest of us to improve our play"; the line comes from Chuck Klimushyn's 1996 review.[^ref-24] It also quoted *Wired*: "one of the best things to happen to on-screen chess since there was such a thing"[^ref-21].
 
 Dulin was more reserved. He concluded that "Good chess players looking to become great will probably find Power Chess helpful," but that bad players looking to improve "probably won't find much help"[^ref-13].
 
@@ -132,3 +132,4 @@ Ken Williams counted it a success: "We launched the product, to critical aclaim 
 [^ref-21]: [InterAction Magazine, Holiday 1997 (Internet Archive)](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) – "Power Chess '98: Smarter & Stronger" news note quoting the Computer Games Strategy Plus 4/5 review and Wired on the original
 [^ref-22]: [MobyGames – Power Chess credits (Windows)](https://www.mobygames.com/game/1922/power-chess/credits/windows/) – designer/director, producer, team, Queen voice, music
 [^ref-23]: [PC PowerPlay No. 33, February 1999 (Internet Archive)](https://archive.org/details/PCPowerplay-033-1999-02) – p. 113, Sierra's Complete Chess review: Power Chess as the intermediate level
+[^ref-24]: [Computer Games Strategy Plus – "Power tutelage for the masses", Chuck Klimushyn (1996, Wayback)](https://web.archive.org/web/1997/http://www.cdmag.com:80/traditional_vault/power_chess_review/page1.html) – original review: "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"
