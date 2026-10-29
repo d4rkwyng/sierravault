@@ -10,13 +10,13 @@ series: IndyCar Racing
 engine: Papyrus physics engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: CART Racing is Sierra's 1997 re-release of Papyrus Design Group's IndyCar Racing II, renamed after CART lost the IndyCar name and bundled with Rendition 3D acceleration support and patches.
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # CART Racing
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -72,7 +72,7 @@ Computer Games Strategy Plus named IndyCar Racing II the best computer racing si
 
 ### Modern Assessment
 
-MobyGames user Twilightseer titled a review "One of the greatest racing games of all time!!", adding that "no game has come this close to the real thing"[^ref-11]. Another user, fomo, noted that "when this first came out, it had some of the best graphics for a racing game for its time. The 3D polygons still look pretty decent now, decades later actually"[^ref-12].
+MobyGames user Twilightseer titled a review "One of the greatest racing games of all time!!", adding that "no game has come this close to the real thing"[^ref-11]. On MyAbandonware, user fomo wrote that "when this first came out, it had some of hte [sic] best graphics for a racing game for it's [sic] time. The 3d polygons still look pretty decent now, decades later actually"[^ref-12].
 
 The game still has an active fan community at CART Racing Headquarters (icr2.net), which continues to release car sets, tracks and tools[^ref-2].
 
@@ -88,7 +88,7 @@ The game still has an active fan community at CART Racing Headquarters (icr2.net
 
 CART Racing's origins trace back to the founding of Papyrus Design Group. David Kaemmer's favourite program on his TRS-80 was subLOGIC's Flight Simulator, and he set out to make the racing equivalent: "Just as Flight Simulator let you climb into a Cessna and see what it was like to be a private pilot, I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar"[^ref-4].
 
-Papyrus had already released Indianapolis 500: The Simulation (1989), "considered by many to be the first ever simulation"[^ref-15]. It followed that with IndyCar Racing (1993), which sold about 300,000 units worldwide[^ref-16]. As Kaemmer put it, "My partner Omar humored me by letting me write racing sims"[^ref-4].
+Papyrus had already released Indianapolis 500: The Simulation, which GameSpot says "is generally and justifiably regarded as the PC's first true auto racing simulation"[^ref-4]. It followed that with IndyCar Racing (1993), which sold about 300,000 units worldwide[^ref-16]. As Kaemmer put it, "My partner Omar humored me by letting me write racing sims"[^ref-4].
 
 ### Production
 
@@ -110,7 +110,7 @@ The change from IndyCar Racing II to CART Racing came out of the open-wheel spli
 
 ### Technical Achievements
 
-IndyCar Racing II can run in SVGA at 640×480[^ref-5]. The base game had no 3D acceleration; Papyrus later added it through a patch, supporting Sierra's short-lived Rendition 3D standard[^ref-11]. The Rendition version produces the "preferred, more visually appealing versions of the CART circuits"[^ref-18]. CART Racing shipped with Windows 95 Rendition 3D acceleration support and some patches slipstreamed in[^ref-3].
+IndyCar Racing II can run in SVGA at 640×480[^ref-5]. The base game had no 3D acceleration[^ref-11]. In 1996 Papyrus developed a separate Rendition version, with enhanced graphics and its own executable, which was bundled with Rendition 1000 cards such as Sierra's Screamin' 3D[^ref-18]. Alison Hine notes that when CART tracks are converted for Grand Prix Legends, only the Rendition Ready versions "produce the preferred, more visually appealing versions of the CART circuits"[^ref-18]. CART Racing shipped with Windows 95 Rendition 3D acceleration support and some patches slipstreamed in[^ref-3].
 
 ### Technical Specifications
 
@@ -139,7 +139,7 @@ The game has 15 circuits; the Miami road course and Indianapolis are missing[^re
 | ICR2 Rendition | 1996 | DOS | Bundled with Rendition 1000 cards such as Sierra's Screamin' 3D[^ref-18] |
 | Sierra/Papyrus CART Racing | November 4, 1997 | Windows/DOS | Renamed, with Rendition 3D support and patches[^ref-3]; CD includes DOS, Rendition and Windy versions[^ref-18] |
 | Sierra Sports CART Racing | 1997 | Windows/DOS | Repackaged under the Sierra Sports label; CD unchanged[^ref-18] |
-| AllAmerican Sports CART Racing | 1998 | Windows | Windy version only; no Rendition version despite "Rendition Ready" packaging[^ref-18]. Forum users report it as already patched[^ref-20] |
+| AllAmerican Sports CART Racing | 1998 | Windows | Windy version only; no Rendition version despite "Rendition Ready" packaging[^ref-18]. One forum user had read that it was already fully patched[^ref-20] |
 
 The CART Racing game manual covers the "Macintosh/Windows 95 Version" and the DOS version[^ref-6]. MobyGames, however, lists CART Racing for DOS and Windows only[^ref-3].
 
@@ -164,7 +164,7 @@ The game can be run with the command "INDYCAR.EXE -h" for better graphics in the
 
 ### Sales and Commercial Impact
 
-IndyCar Racing II sold about 180,000 units. This was a setback for Papyrus, since its previous game, NASCAR Racing, had sold over 1,000,000[^ref-11]. The original IndyCar Racing (1993) had sold about 300,000 units worldwide[^ref-16]. According to Wikipedia, IndyCar Racing II together with Papyrus's other games under the CART name achieved combined sales above 800,000 units by January 1998[^ref-5].
+IndyCar Racing II sold about 180,000 units. This was a setback for Papyrus, since its previous game, NASCAR Racing, had sold over 1,000,000[^ref-11]. The original IndyCar Racing (1993) had sold about 300,000 units worldwide[^ref-16]. In January 1998, when the CART licence was extended through 2003, PC Gamer reported that "the company says it has sold more than 800,000 games on the CART license to date, including IndyCar Racing II, CART Racing and CART World Series Championship"[^ref-27].
 
 MobyGames notes that the CART Racing re-release struggled to find buyers. Its Rendition version had already been bundled with the Screamin' 3D, Intense 3D, Total 3D and Magic Video 3D cards, and most racing fans already had the original game[^ref-3].
 
@@ -180,18 +180,18 @@ MobyGames notes that the CART Racing re-release struggled to find buyers. Its Re
 CART Racing appeared in several compilation releases:
 - PC Gamer Editors' Choice Collection[^ref-22]
 - Best of Sierra Nr.12[^ref-22]
-- German release compilation[^ref-22]
+- An entry Sierra Chest lists only as "German release"[^ref-22]
 
 ### Fan Projects
 
-The CART Racing Headquarters (icr2.net) maintains an active community supporting the game nearly three decades after release[^ref-2]. Fan contributions include:
+The CART Racing Headquarters (icr2.net) maintains an active community supporting the game nearly three decades after release[^ref-2]. MyAbandonware's fan-built "full RIP" of IndyCar Racing II, credited to Glory Days Sim Racing, contains[^ref-12]:
 - IndyCar 2006 Carset
 - WoO Sprint Cars 2001 Carset
 - GDSR Indy Lights Carset
 - USAC Sprints
 - CART PPG '97 cars
 - Patched Paintkit
-- Additional tracks including Indianapolis, Bristol, Charlotte, Talladega, and various local short tracks[^ref-12]
+- Two versions of Indianapolis, plus Bristol, Charlotte, Talladega and some local short tracks[^ref-12]
 
 David Noonan's track converter can turn CART Racing tracks into tracks for Grand Prix Legends[^ref-18].
 
@@ -219,7 +219,7 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 
 **Download / Preservation**
 - [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q): abandonware preservation download[^ref-13]
-- [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom): disk-image preservation[^ref-1]
+- [Internet Archive – Super Games 2000 nº 1: CART Racing](https://archive.org/details/cart-racing-cdrom): disk image of the "Super Games 2000" edition[^ref-1]
 - [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/): active fan community and mod hub[^ref-2]
 
 ## See Also
@@ -234,7 +234,7 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 
 ## References
 
-[^ref-1]: [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom) – publication date 1997-11-04, "1997 re-release of IndyCar Racing II"
+[^ref-1]: [Internet Archive – Super Games 2000 nº 1: CART Racing](https://archive.org/details/cart-racing-cdrom) – "Super Games 2000" edition of the CD; description "1997 re-release of IndyCar Racing II"; the 1997-11-04 date was entered by the uploader
 [^ref-2]: [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – game description, platform information, fan community, Second Wind patch
 [^ref-3]: [MobyGames – CART Racing](https://www.mobygames.com/game/4534/cart-racing/) – description, credits, awards, title-change and OEM-bundle trivia, specs
 [^ref-4]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, company history, development philosophy
@@ -244,10 +244,10 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 [^ref-9]: [Race Sim Central – IndyCar Racing II](https://racesimcentral.net/indycar-racing-ii/) – track count, chassis and engines
 [^ref-10]: [Amazon Mexico – Sierra Cart Racing](https://www.amazon.com.mx/Sierra-Cart-Racing/dp/B0007LVUBK) – AI features, compatibility issues
 [^ref-11]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – critic scores, sales data, version history, user reviews
-[^ref-12]: [MyAbandonware – IndyCar Racing II](https://www.myabandonware.com/game/indycar-racing-ii-29x) – user comments, technical issues, fan modifications
+[^ref-12]: [MyAbandonware – IndyCar Racing II](https://www.myabandonware.com/game/indycar-racing-ii-29x) – user comments, technical issues, "full RIP" contents credited to Glory Days Sim Racing
 [^ref-13]: [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q) – user rating, download information
 [^ref-14]: [Amazon – Sierra Sports CART Racing](https://www.amazon.com/Cart-Racing/dp/B000MQJE7C) – customer rating
-[^ref-15]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – company history, "father of the modern racing simulation", Indianapolis 500 significance
+[^ref-15]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – company history, "father of the modern racing simulation"
 [^ref-16]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) – sales data, development trivia for the 1993 game
 [^ref-18]: [Alison Hine – CART Racing Versions (Wayback Machine)](http://web.archive.org/web/20251113203329/http://alison.hine.net/gpl/cart/cart.htm) – version history, Rendition support, licensing dispute
 [^ref-19]: [Internet Archive – Sierra IndyCar](https://archive.org/details/sierra-indycar) – DirectX requirements, compatibility notes
@@ -257,3 +257,4 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 [^ref-24]: [Wikipedia – Flag to Flag](https://en.wikipedia.org/wiki/Flag_to_Flag) – Dreamcast game by ZOOM Inc., published by Sega, 1999
 [^ref-25]: [Wikipedia – CART Fury Championship Racing](https://en.wikipedia.org/wiki/CART_Fury_Championship_Racing) – Midway arcade racer, arcade 2000, PlayStation 2 2001
 [^ref-26]: [Wikipedia – 1995 PPG Indy Car World Series](https://en.wikipedia.org/wiki/1995_PPG_Indy_Car_World_Series) – 1995 season name, 17 races, Miami opener, Indianapolis 500
+[^ref-27]: [PC Gamer News, January 5, 1998 (Wayback Machine)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – CART licence extension through 2003; company claim of 800,000+ games sold on the CART license
