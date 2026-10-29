@@ -10,7 +10,7 @@ series: IndyCar Racing
 engine: Proprietary (Papyrus)
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: IndyCar Racing is a 1993 MS-DOS racing simulation by Papyrus Design
   Group, an officially licensed recreation of the 1993 IndyCar season and the follow-up
   to Indianapolis 500 - The Simulation.
@@ -18,11 +18,11 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] It was Papyrus's follow-up to [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989).[^ref-1] Reviewing it in February 1994, *Computer Gaming World* called it "the only current driving sim where 180 mph feels like 180 mph,"[^ref-24] and the magazine's June 1994 awards issue named it the Premier Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] The game was intended as a realistic simulation of CART IndyCar Racing, featuring contemporary drivers, chassis, and engines from the 1993 racing season.[^ref-3]
+IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] It was Papyrus's follow-up to [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989).[^ref-1] Reviewing it in February 1994, *Computer Gaming World* called it "the only current driving sim where 180 mph feels like 180 mph,"[^ref-24] and the magazine's June 1994 awards issue named it the Premier Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] The game was intended as a realistic simulation of the 1993 PPG Indy Car World Series, featuring most of that season's drivers and teams and a selection of contemporary chassis and engines.[^ref-2]
 
 With an official license from CART, IndyCar Racing offered eight real track names and designs with authentic sponsors and logos, putting players behind the wheel against real IndyCar drivers on circuits including Michigan International, Nazareth PA, Laguna Seca, Portland International, Milwaukee, Loudon NH, Toronto, and Long Beach.[^ref-1][^ref-4] The game arrived "hot on the heels of Geoff Crammond's excellent Formula One Grand Prix," establishing Papyrus as one of the leading developers in sim racing—a legacy that continues to this day.[^ref-5][^ref-6]
 
@@ -47,7 +47,7 @@ IndyCar Racing simulates realistic car handling, with breakaway parts when cars 
 
 ### Structure and Progression
 
-Players can engage in single races or a full championship season mode, experiencing the complete IndyCar racing experience.[^ref-3] The game features a comprehensive garage and setup routine that allows detailed car customization, simulating the real decisions that professional racing teams must make.[^ref-10]
+Players can engage in single races or a full championship season mode, experiencing the complete IndyCar racing experience.[^ref-3] The game features a comprehensive garage and setup routine that allows detailed car customization,[^ref-10] and the box copy promised players could "Make the same tough decisions they face every race."[^ref-4]
 
 - **Single Race:** Quick race on any available track
 - **Championship Season:** Full season competition against AI opponents
@@ -77,7 +77,7 @@ The IndyCar Circuits expansion pack later added seven more tracks, for 15 in all
 
 ### Contemporary Reviews
 
-IndyCar Racing was well received on release. In *Computer Gaming World*'s February 1994 review, Gordon Goble called it "the only current driving sim where 180 mph feels like 180 mph" and concluded that it "is the purest driving game ever let loose on the gaming public."[^ref-24] The magazine's June 1994 Premier Awards named it Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] *Electronic Entertainment* made it a finalist for its 1993 Best Game award and wrote that it "is so realistic, A.J. Foyt could use it to practice."[^ref-2]
+IndyCar Racing was well received on release. In *Computer Gaming World*'s February 1994 review, Gordon Goble called it "the only current driving sim where 180 mph feels like 180 mph" and concluded that it "is the purest driving game ever let loose on the gaming public."[^ref-24] The magazine's June 1994 Premier Awards named it Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] *Electronic Entertainment* gave it an Honorable Mention for Best Game in its March 1994 Editors' Choice Awards (Wikipedia describes it as a finalist), writing that it "is so realistic, A.J. Foyt could use it to practice—without burning any gas."[^ref-2][^ref-27]
 
 - **Hyper Magazine:** 92% (February 1994)[^ref-2]
 - **Electronic Entertainment:** 9/10 (March 1994)[^ref-2]
@@ -105,7 +105,7 @@ The original Indianapolis 500 was made on a budget of about $90,000, and Kaemmer
 
 ### Production
 
-Development was led by David Kaemmer. The team secured an official license, ensuring authentic track names, designs, sponsors, and logos.[^ref-1] However, not all drivers could be included—notable absences included Nigel Mansell and Al Unser Jr., while Mario Andretti and Danny Sullivan appeared in generic liveries.[^ref-2][^ref-5]
+Development was led by David Kaemmer. The team secured an official license, ensuring authentic track names, designs, sponsors, and logos.[^ref-1] However, not all drivers could be included—notable absences included Nigel Mansell and Al Unser Jr., while Mario Andretti and Danny Sullivan appeared in generic liveries.[^ref-2][^ref-5] Mansell's #6 car was instead driven by a fictional stand-in.[^ref-6]
 
 **Development Credits:**[^ref-26]
 - **Original Concept / Lead Programming:** David Kaemmer
@@ -126,7 +126,7 @@ Kaemmer recalled that the team had not planned to texture the road, for frame-ra
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-18]
+**System Requirements:**[^ref-18][^ref-5][^ref-11]
 - **Minimum CPU:** Intel 80386DX-25 MHz (486 recommended)
 - **RAM:** 4 MB (conventional and extended XMS memory, not expanded EMS)
 - **Graphics:** VGA only; VLB or PCI graphics card recommended
@@ -157,9 +157,9 @@ Kaemmer recalled that the team had not planned to texture the road, for frame-ra
 |---------|------|----------|-------|
 | Demo | Early 1993 | DOS | A replay of a few laps around Laguna Seca[^ref-5] |
 | 1.0 | October 26, 1993 | DOS | Initial public release with 8 tracks[^ref-5] |
-| 1.01e | Unknown | DOS | Patch release[^ref-5] |
+| 1.01e | Unknown | DOS | No details recorded[^ref-5] |
 | 1.04 | Unknown | DOS | Improves modem play and adds time acceleration[^ref-5] |
-| 1.05 | December 24, 1996 | DOS | 4 more tracks added; changed fictional driver names to make them less obvious representations of real drivers[^ref-5][^ref-6] |
+| 1.05 | By October 1994 (readme dated 10/26/94) | DOS | Changed fictional driver names to make them less obvious representations of real drivers[^ref-6][^ref-11] |
 
 ### Technical Issues
 
@@ -175,7 +175,7 @@ The game manual documented several known issues:[^ref-11]
 
 ### Easter Eggs and Trivia
 
-- **Missing Drivers:** The game notably lacked Nigel Mansell, while Mario Andretti and Danny Sullivan appeared with generic liveries rather than their real-world sponsors.[^ref-2][^ref-5]
+- **Missing Drivers:** The game notably lacked Nigel Mansell, while Mario Andretti and Danny Sullivan appeared with generic liveries rather than their real-world sponsors.[^ref-2][^ref-5] Mansell's #6 car carried a fictional stand-in, "Nick Montel" (nickname "NIGEL"), renamed "Mick Richards" in version 1.05.[^ref-6]
 - **Mario Andretti's Livery:** In earlier versions/patches, Mario Andretti had a different, orange livery that was later changed.[^ref-6]
 - **Paul Page Announcement:** Real-life IndyCar announcer Paul Page provided voice work for the game, introducing it with: "I am Paul Page. From Papyrus, this is IndyCar Racing."[^ref-6][^ref-26]
 - **Version 1.05 Changes:** Changed fictional driver names to make them less obvious representations of real drivers not officially licensed.[^ref-6]
@@ -198,9 +198,10 @@ Sierra On-Line acquired Papyrus in late 1995.[^ref-20] GameSpot's retrospective 
 
 - **SPA Codie Awards 1994:** Best Sports Program[^ref-2][^ref-12]
 - **Computer Gaming World 1994:** Premier Simulation of the Year[^ref-2][^ref-25]
-- **Electronic Entertainment 1994:** Editors' Choice Awards – Best Game (finalist / Honorable Mention)[^ref-1][^ref-2]
+- **Electronic Entertainment 1994:** Editors' Choice Awards – Best Game (finalist / Honorable Mention)[^ref-1][^ref-2][^ref-27]
 - **PC Gamer US 1994:** #20 best computer game ever[^ref-2]
 - **PC Gamer UK 1994:** #9 best computer game of all time[^ref-2]
+- **GameStar (Germany) 1999:** #85 in "100 Most Important PC Games of the Nineties" (issue 12/1999)[^ref-1]
 
 ### Expansion Packs
 
@@ -209,7 +210,7 @@ Two expansion packs were released for IndyCar Racing:[^ref-22]
 - **Indianapolis Motor Speedway Expansion Pack** (1994) – Added the iconic Indianapolis oval track[^ref-1]
 - **IndyCar Circuits** (1994) – Additional tracks from the CART circuit[^ref-1]
 
-IndyCar Circuits took the track count from 8 to 15, and the Indianapolis pack added the Speedway that was absent from the original release, for 16 in all.[^ref-1][^ref-5]
+IndyCar Circuits took the track count from 8 to 15, and the Indianapolis pack added the Speedway that was absent from the original release, for 16 in all.[^ref-1][^ref-7]
 
 ### Platform Availability
 
@@ -219,7 +220,7 @@ The game has been preserved and is available through various abandonware and arc
 
 Kaemmer later told GameSpot that IndyCar Racing "was the natural follow-on to Indy 500" and that it "sold pretty well, even overseas," but that its successor NASCAR Racing "sold several times as many units."[^ref-7]
 
-Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies, and eventually Grand Prix Legends (1998), which "is still considered to be one of the finest racing games of all time."[^ref-21] After Vivendi Universal shut the studio down in May 2004, David Kaemmer recovered the rights to Papyrus's racing simulation technology.[^ref-21] With John W. Henry he formed a company that acquired the NASCAR Racing 2003 Season code, which Kaemmer developed into iRacing, released in 2008.[^ref-23]
+Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies,[^ref-7] and eventually Grand Prix Legends (1998), which "is still considered to be one of the finest racing games of all time."[^ref-21] After Vivendi Universal shut the studio down in May 2004, David Kaemmer recovered the rights to Papyrus's racing simulation technology.[^ref-21] With John W. Henry he formed a company that acquired the NASCAR Racing 2003 Season code, which Kaemmer developed into iRacing, released in 2008.[^ref-23]
 
 ## Purchase
 
@@ -267,4 +268,5 @@ Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies
 [^ref-23]: [Wikipedia – iRacing](https://en.wikipedia.org/wiki/IRacing) – Kaemmer and John W. Henry's FIRST.net acquired the NR2003 code; iRacing released 2008
 [^ref-24]: [Computer Gaming World #115 (February 1994)](https://archive.org/details/Computer_Gaming_World_Issue_115) – Gordon Goble's IndyCar Racing review
 [^ref-25]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: Simulation of the Year
-[^ref-26]: [MobyGames – IndyCar Racing Credits](https://www.mobygames.com/game/983/indycar-racing/credits/dos/) – full DOS credits and roles
+[^ref-26]: [Wayback Machine – MobyGames IndyCar Racing Credits (2016)](https://web.archive.org/web/20160920025323/http://www.mobygames.com:80/game/dos/indycar-racing/credits) – full DOS credits and roles
+[^ref-27]: [Electronic Entertainment, March 1994](https://archive.org/details/ElectronicEntertainment03Mar1994) – Editors' Choice Awards Honorable Mention (Best Game), A.J. Foyt quote; Wayne Kawamoto review
