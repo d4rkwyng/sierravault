@@ -11,7 +11,7 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Quest for Infamy is a hybrid point-and-click adventure game and RPG developed
   by Infamous Quests and published by Phoenix Online Publishing in 2014, inspired by
   Sierra's Quest for Glory series and played from the perspective of an anti-hero.
@@ -19,18 +19,18 @@ tags: [2010s, adventure, rpg, sierra]
 ---
 # Quest for Infamy
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Quest for Infamy is a hybrid point-and-click adventure game and RPG developed by Infamous Quests[^ref-1] and published on PC by Phoenix Online Publishing on July 10, 2014[^ref-18]. Inspired by Sierra's Quest for Glory series, it casts the player as one of three anti-heroes rather than a traditional hero[^ref-2]. Built using Adventure Game Studio (AGS)[^ref-3], it features a hand-drawn world[^ref-13] and a voice cast[^ref-22].
+Quest for Infamy is a hybrid point-and-click adventure game and RPG developed by Infamous Quests[^ref-1] and published on Steam by Phoenix Online Publishing on July 10, 2014 (self-published by Infamous Quests on GOG and itch.io)[^ref-18][^ref-25]. Inspired by Sierra's Quest for Glory series, it casts the player as one of three anti-heroes rather than a traditional hero[^ref-2]. Built using Adventure Game Studio (AGS)[^ref-3], it features a hand-drawn world[^ref-13] and a voice cast[^ref-22].
 
 The game follows Mr. Roehm, a scoundrel on the run from his latest scrape who is stuck in the Valley of Krasna for a while and takes on some work to pass the time[^ref-4]. Originally conceived to take place in Spielburg Valley as the villain's perspective on Quest for Glory, the final released version takes place in an original setting but maintains the inspiration from Sierra's classic adventure games and RPGs of the 1990s[^ref-5]. The project was funded through a Kickstarter campaign that ran from June 6 to July 6, 2012, marking the transition of the team from fan remake creators to commercial game developers[^ref-24][^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-2]
 > **Designer:** Steven Alexander, Shawn Mills[^ref-7]
-> **Publisher:** Phoenix Online Publishing (PC, 2014)[^ref-18]; Ratalaika Games (consoles, 2022)[^ref-25]
+> **Publisher:** Phoenix Online Publishing (Steam, 2014)[^ref-18]; Infamous Quests (GOG, itch.io)[^ref-25]; Ratalaika Games (consoles, 2022)[^ref-25]
 > **Engine:** Adventure Game Studio[^ref-2]
 > **Platforms:** PC, Mac, Linux, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S[^ref-25][^ref-8]
 > **Release Year:** 2014
@@ -75,7 +75,7 @@ Quest for Infamy combines traditional point-and-click adventure puzzles with RPG
 
 ### Modern Assessment
 
-Quest for Infamy received a Metacritic score of 63 on PC[^ref-18], indicating mixed to average reviews; RPGFan's 80/100 was among the higher scores[^ref-12]. User reviews have been more positive, with GOG.com showing a 3.9/5 rating from 43 reviews[^ref-4] and itch.io a 4.8/5 rating from 12 ratings[^ref-11]. The 2022 console ports drew mixed reviews, with TheXboxHub giving it 2.5/5 and criticizing the voice acting[^ref-20].
+Quest for Infamy received a Metacritic score of 63 on PC[^ref-18], indicating mixed to average reviews; RPGFan's 80/100 was among the higher scores[^ref-12]. User reviews have been more positive, with GOG.com showing a 3.9/5 rating from 43 reviews[^ref-4] and itch.io a 4.8/5 rating from 13 ratings as of October 29, 2026[^ref-11]. The 2022 console ports drew mixed reviews, with TheXboxHub giving it 2.5/5 and criticizing the voice acting[^ref-20].
 
 ## Development
 
@@ -99,11 +99,13 @@ Quest for Infamy won four Adventure Game Studio awards in 2014, including Best C
 
 ### Sales and Community Reception
 
-Despite these accolades, Hardcore Gaming 101 reports that sales "didn't quite make up for the huge amount of work required to create the game", leaving a sequel's future uncertain[^ref-7]. User ratings on GOG (3.9/5 from 43 reviews) and itch.io (4.8/5 from 12 ratings) are higher than the mixed professional reviews[^ref-4][^ref-11]. Developer Shawn Mills expressed enthusiasm for returning to the series, stating "Quest for Infamy is one of the greatest things I've done in my life, so I'd love to go back to that well again!"[^ref-7]
+Despite these accolades, Hardcore Gaming 101 reports that sales "didn't quite make up for the huge amount of work required to create the game", leaving a sequel's future uncertain[^ref-7]. Developer Shawn Mills expressed enthusiasm for returning to the series, stating "Quest for Infamy is one of the greatest things I've done in my life, so I'd love to go back to that well again!"[^ref-7]
+
+In March 2015 Infamous Quests announced a prequel, *Quest for Infamy: Roehm to Ruin*, alongside *Order of the Thorne: The King's Challenge*, and both were funded through a Kickstarter campaign that succeeded on May 3, 2015[^ref-2]. Hardcore Gaming 101 describes it as a short prequel telling of "Roehm's ill-fated affair with a baron's daughter that led him to the valley of Krasna"[^ref-7].
 
 ### Console Ports
 
-The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Series X/S, published by Ratalaika Games on March 4, 2022[^ref-25][^ref-8]. Console reviews were mixed, with TheXboxHub criticizing the voice acting[^ref-20].
+The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Series X/S, published by Ratalaika Games on March 4, 2022[^ref-25][^ref-8].
 
 ## Downloads
 
@@ -128,6 +130,7 @@ The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Serie
 - [[2015 - Order of the Thorne - The King's Challenge]]
 - [[2018 - Bolt Riley - A Reggae Adventure]]
 - [[2018 - Hero-U - Rogue to Redemption]]
+- [[TBD - Quest for Infamy - Roehm to Ruin]]
 - [[2019 - Mage's Initiation - Reign of the Elements]]
 - [[2022 - SpaceVenture]]
 - [[2023 - Colossal Cave 3D Adventure]]
@@ -136,14 +139,14 @@ The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Serie
 ## References
 
 [^ref-1]: [Adventure Game Database](https://www.adventuregamedb.com/g/quest_for_infamy) – game description, premise, screenshot captions (Killington family)
-[^ref-2]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – developer history, anti-hero classes, awards and nominations
+[^ref-2]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – developer history, anti-hero classes, awards and nominations, Roehm to Ruin announcement and 2015 Kickstarter
 [^ref-3]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Quest_for_Infamy) – engine (Adventure Game Studio), publisher, release dates
 [^ref-4]: [GOG.com](https://www.gog.com/en/game/quest_for_infamy) – official description, character classes, user rating (3.9/5 from 43 reviews)
 [^ref-5]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – fan remakes, original Spielburg concept vs. final release
 [^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=news&pid=170) – June 21, 2012 news: $25,000 target exceeded, campaign running until July 6
-[^ref-7]: [Hardcore Gaming 101](https://www.hardcoregaming101.net/quest-for-infamy/) – developer interviews, design credits, two years of production, sales
+[^ref-7]: [Hardcore Gaming 101](https://www.hardcoregaming101.net/quest-for-infamy/) – developer interviews, design credits, two years of production, sales, Roehm to Ruin prequel ([Wayback copy, October 18, 2026](https://web.archive.org/web/20261018214647/https://www.hardcoregaming101.net/quest-for-infamy/))
 [^ref-8]: [Quest for Infamy Official Website](https://questforinfamy.com/) – console availability (Switch, Xbox, PS4/PS5)
-[^ref-11]: [itch.io – Quest for Infamy](https://infamousquests.itch.io/quest-for-infamy) – official feature list, inputs, user rating (4.8/5 from 12 ratings)
+[^ref-11]: [itch.io – Quest for Infamy](https://infamousquests.itch.io/quest-for-infamy) – official feature list, inputs, user rating (4.8/5 from 13 ratings, checked October 29, 2026)
 [^ref-12]: [RPGFan Review](https://www.rpgfan.com/review/quest-for-infamy/) – 80/100 review by Stephen Meyerink
 [^ref-13]: [Quest for Infamy – About](https://questforinfamy.com/about-qfi) – premise, classes, feature list (50 NPCs, 200 rooms)
 [^ref-15]: [OpenCritic – Reviews](https://opencritic.com/game/642/quest-for-infamy/reviews) – critic review excerpts and scores
@@ -154,5 +157,5 @@ The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Serie
 [^ref-21]: [VGMdb – Quest for Infamy Official Soundtrack](https://vgmdb.net/album/71371) – composer James Mulvale, 98-track listing
 [^ref-22]: [Quest for Glory Fandom](https://questforglory.fandom.com/wiki/Quest_for_Infamy) – voice cast
 [^ref-24]: [Kickstarter – Quest For Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que) – $63,281 from 1,656 backers, $25,000 goal, Jun 6 – Jul 6, 2012
-[^ref-25]: [MobyGames – Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) – platforms, publishers (Phoenix Online Publishing; Ratalaika Games for 2022 console releases)
+[^ref-25]: [MobyGames – Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) – platforms, publishers by release (Phoenix Online Publishing for Steam; Infamous Quests for GOG and itch.io; Ratalaika Games for 2022 console releases), read via the MobyGames API
 [^ref-26]: [TV Tropes – Quest for Infamy](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestforInfamy) – story details: Markus's execution, Sheriff Rayford, Morroi cult
