@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created Knight
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 composer: [David Milner]
 description: 'Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing,
   and action game released in 1995, developed by Software Sorcery and published by
@@ -19,7 +19,7 @@ tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -42,11 +42,11 @@ The game distinguished itself through its multi-genre approach, combining strate
 
 ## Story Summary
 
-The game is set in 1086, twenty years after William the Conqueror captured England in 1066[^ref-8]. Players assume the role of a young Norman, the son of a soldier of William the Conqueror, who inherits a castle and a small territory[^ref-8]; *Computer Gaming World* describes play opening in March 1086 with the player as a young lord assigned to a modest castle[^ref-23]. The narrative framework allows for significant player agency in determining their character's path through the turbulent political landscape of Norman England.
+The game is set in 1086, twenty years after William the Conqueror captured England in 1066[^ref-8]. *Computer Gaming World* describes play opening in March 1086 with the player as "a young lord assigned to a piddling castle"[^ref-23]. The narrative framework allows for significant player agency in determining their character's path through the turbulent political landscape of Norman England.
 
 Players face the fundamental choice of how to rise to power within this medieval world[^ref-9]. One path involves forming a powerful army, conquering neighboring fiefs, and eventually marching on London to challenge and overthrow William the Conqueror himself, seizing the crown of England[^ref-4][^ref-26]. This path requires building up the fief's economy and army to a force capable of defeating the established monarch[^ref-26].
 
-The alternative path is more heroic and fantastical: players train in tournament combat and seek to become the King's champion by dispatching a great dragon[^ref-23]: in MobyGames' words, the enormous dragon "that has been scorching the lands for years"[^ref-1]. Defeating the dragon requires gear gathered from the noble ladies the player courts[^ref-3]; players recall having to strike the dragon's eye with a lance[^ref-6]. Both paths represent the romantic ideals of medieval knighthood—conquest through martial prowess or glory through heroic deeds.
+The alternative path is more heroic and fantastical: players train in tournament combat and seek to become the King's champion by dispatching a great dragon[^ref-23]: in MobyGames' words, the enormous dragon "that has been scorching the lands for years"[^ref-1]. Defeating the dragon requires gear gathered from the noble ladies the player courts[^ref-3]; one player recalled trying to strike the dragon's eye with a lance[^ref-6]. Both paths represent the romantic ideals of medieval knighthood—conquest through martial prowess or glory through heroic deeds.
 
 The game's world is populated by various characters including noble ladies suitable for courtship, each with different preferences[^ref-3][^ref-6]; money lenders who provide loans at a steep 50% interest rate[^ref-2][^ref-23]; and rival knights who compete in tournaments. Traveling the medieval roads presents realistic challenges, as journeys can take months to traverse from one end of England to the other[^ref-2]. If the player fails to achieve either victory condition by their 30th birthday, the game ends in failure[^ref-2].
 
@@ -54,7 +54,7 @@ The game's world is populated by various characters including noble ladies suita
 
 ### Interface and Controls
 
-Conqueror: A.D. 1086 presents gameplay from multiple perspectives depending on the current activity[^ref-12]. The overworld and territory management segments use an isometric perspective, where players navigate using point-and-click controls with keyboard and mouse input[^ref-1][^ref-7]. The strategic portions of the game allow players to manage their fiefdom, make economic decisions, and plan military campaigns.
+Conqueror: A.D. 1086 presents gameplay from multiple perspectives depending on the current activity[^ref-1]. The overworld and territory management segments use an isometric perspective, where players navigate using point-and-click controls with keyboard and mouse input[^ref-1][^ref-7]. The strategic portions of the game allow players to manage their fiefdom, make economic decisions, and plan military campaigns.
 
 Combat and tournament sequences shift to first-person perspective, providing an immersive experience during jousting events and castle invasions[^ref-4]. *Computer Gaming World* described the castle raids as "in the first-person Doom vein"[^ref-23]. During castle siege sequences, described by one player as "sort of castlewolfenstein, but with swords," players can also issue orders to their men while fighting in first-person[^ref-3][^ref-6].
 
@@ -87,13 +87,13 @@ Peter Olafson reviewed the game for *Computer Gaming World* (issue #139, Februar
 
 *Computer Game Review* (February 1996) was harsher: "It's a game with high ambitions. It doesn't meet any of them. The scope of this project was more than either its budget or its talent could handle."[^ref-25] Wikipedia records the magazine's three critics as scoring it 60, 58 and 79 (66/100 overall).[^ref-2]
 
-In Australia, Julian Schoffel of *Hyper* (issue #29, March 1996) gave the game 60, summarising: "1086 looks promising but ultimately fails to deliver. It tries to do too many things at once"[^ref-26]. He found the field battles lacking the depth of *Command & Conquer* or *Warcraft II* and called the jousting "fairly boring after a couple of attempts"[^ref-26].
+In Australia, Julian Schoffel of *Hyper* (issue #29, March 1996) gave the game 60[^ref-2], summarising: "1086 looks promising but ultimately fails to deliver. It tries to do too many things at once"[^ref-26]. He found the field battles lacking the depth of *Command & Conquer* or *Warcraft II* and called the jousting "fairly boring after a couple of attempts"[^ref-26].
 
 ### Modern Assessment
 
 Benito Moretti of 336GameReviews gave the game 3/5 in 2019, calling it "an extremely ambitious title, especially for 1995" and writing that "The developers Software Sorcery really pulled off some magic with this title"[^ref-3]. Moretti suggested that "If any game ever needed a remake/remaster, it is this one right here as fixing its issues would truly make it into something unforgettable"[^ref-3].
 
-Fan assessments from the GameFAQs community have been enthusiastic, with one contributor noting that "Despite the various flaws of the game, it provided hours and months and years of entertainment"[^ref-12]. The game was described as having been "certainly expensive, priced at $55, but ended up being a great investment"[^ref-12].
+One GameFAQs guide author wrote that "Despite the various flaws of the game, it provided hours and months and years of entertainment"[^ref-12]. The game was described as having been "certainly expensive, priced at $55, but ended up being a great investment"[^ref-12].
 
 **Aggregate Scores:**
 - **MobyGames:** 59% critic average (17 ratings); players 2.5/5 (6 ratings)[^ref-1]
@@ -104,17 +104,17 @@ Fan assessments from the GameFAQs community have been enthusiastic, with one con
 
 ### Origins
 
-Conqueror: A.D. 1086 started life as a Time Warner Interactive title. *Computer Gaming World*'s February 1995 issue (#127) ran a sneak preview of it as "Time-Warner's new strategy game", one that evoked memories of *Defender of the Crown*[^ref-24]. MobyGames' credits still list the voice cast under Time Warner Interactive and thank "the TWI Marketing Department"[^ref-27]. By its release the game was published by Sierra On-Line, with *Hyper* describing developer Software Sorcery as "one of Sierra's new strategy recruits"[^ref-26]. The studio also made *Jutland* and *Fast Attack* for Sierra[^ref-6].
+Conqueror: A.D. 1086 started life as a Time Warner Interactive title. *Computer Gaming World*'s February 1995 issue (#127) ran a sneak preview of it as "Time-Warner's new strategy game", one that evoked memories of *Defender of the Crown*[^ref-24]. MobyGames' credits still list the voice cast under Time Warner Interactive and thank "the TWI Marketing Department"[^ref-27]. By its release the game was published by Sierra On-Line, with *Hyper* describing developer Software Sorcery as "one of Sierra's new strategy recruits"[^ref-26]. The studio had earlier self-published the World War I naval game *Jutland* (1993)[^ref-29], and also made *Fast Attack* for Sierra[^ref-6].
 
 The design emphasized player freedom in a historically-grounded setting: as one retro site puts it, "you can marry and peacefully develop your lands, you can start a war with Wilhelm himself and become the ruler of all of England, or you can even delve into fantasy adventures"[^ref-8].
 
 ### Production
 
-Sierra On-Line served as the publisher for the North American and European releases, with the game distributed in box format across multiple regions including the United States, Canada, United Kingdom, Germany, and France[^ref-16]. The German retail version was released on CD-ROM with localized documentation including a manual, booklet, and registration card[^ref-17]. MobyGames credits Kai Brinkmann and Antje Hink with the German localisation and Mireille Wheeldon with the French[^ref-27].
+Sierra On-Line served as the publisher for the North American and European releases, with the game distributed in box format across multiple regions including the United States, Canada, United Kingdom, Germany, and France[^ref-16]. The German retail version was released on CD-ROM with localized documentation including a manual, Sierra catalogue and registration card, whose scans are on MobyGames[^ref-16]; the German manual is also preserved on the Internet Archive[^ref-30]. MobyGames credits Kai Brinkmann and Antje Hink with the German localisation and Mireille Wheeldon with the French[^ref-27][^ref-28].
 
 The development team faced the significant challenge of implementing multiple gameplay systems—strategy, RPG, and action—within a single product[^ref-4]; *Hyper* concluded that it "tries to do too many things at once"[^ref-26]. The retail price was $54.95[^ref-23][^ref-25].
 
-**Development Credits:**[^ref-27]
+**Development Credits:**[^ref-27][^ref-28]
 - **Developer:** Software Sorcery & Havokware
 - **Technical Director:** Joe Pasquarello
 - **Executive Producers:** Catherine R. Jones, James R. Jones III
@@ -158,7 +158,7 @@ Modern systems require emulation through DOSBox to play the game properly, with 
 - **Life After Death Exploit:** When dying and returning to the main screen, players can save the game, exit, and reload to resume play at a point just before their death occurred[^ref-14]
 - **Perfect Jousting:** Keeping the lance exactly where it appears when entering the joust combat screen will result in winning all jousts automatically[^ref-14]
 - **Mount & Blade Comparison:** 336GameReviews notes the game "is often called the grandfather to Mount and Blade", while seeing only some similarities itself[^ref-3]
-- **ESRB Rating:** The game is listed with a Teen rating from the ESRB[^ref-1][^ref-20][^ref-21]
+- **ESRB Rating:** The game is listed with a Teen rating from the ESRB[^ref-1][^ref-20]
 
 ### Multiple Endings
 
@@ -195,7 +195,7 @@ Failure to achieve either victory by the player character's 30th birthday result
 | The King | Christopher Neame |
 | Old Knight | Von Schauer |
 
-Names and spellings as credited on MobyGames, where the cast is listed under Time Warner Interactive; Lena Marie Pousette was Director of Dialog, Geoffrey Forward dialect coach, and Brooks Wachtel writer[^ref-27]. The cast is also listed on IMDb[^ref-18].
+Names and spellings as credited on MobyGames, where the cast is listed under Time Warner Interactive; Lena Marie Pousette was Director of Dialog, Geoffrey Forward dialect coach, and Brooks Wachtel writer[^ref-27][^ref-28]. The cast is also listed on IMDb, which spells three names differently (Nancy Hammill, Eliott Howard, Jeffrey Paul Whitman)[^ref-18].
 
 ## Legacy
 
@@ -205,17 +205,17 @@ Specific sales figures are not available. The game was distributed across multip
 
 ### Collections
 
-The game was made available digitally through GOG.com on November 8, 2017, packaged with DOSBox for Windows compatibility[^ref-6][^ref-7]. This re-release was published by Activision, who had acquired rights to the Sierra catalog[^ref-1]. No other known compilation appearances have been documented.
+The game was made available digitally through GOG.com on November 8, 2017, packaged with DOSBox for Windows compatibility[^ref-6][^ref-7]. MobyGames lists Activision as publisher of this re-release[^ref-1]. No other known compilation appearances have been documented.
 
 ### Fan Projects
 
-A comprehensive fan-created guide was contributed to GameFAQs in 2014 by user "mikel123456," providing detailed gameplay strategies, character builds, and walkthrough information[^ref-12]. The guide includes technical setup instructions for running the game on modern systems through DOSBox emulation. User communities on GOG.com forums have shared memories and gameplay tips since the 2017 re-release[^ref-6].
+A comprehensive fan-created guide by user "mikel123456" was on GameFAQs by 2015 (version 2.00, updated 29 April 2015; since revised)[^ref-31], providing detailed gameplay strategies, character builds, and walkthrough information[^ref-12]. The guide includes technical setup instructions for running the game on modern systems through DOSBox emulation. User communities on GOG.com forums have shared memories and gameplay tips since the 2017 re-release[^ref-6].
 
 ### Related Publications
 
-- **Game Manual:** Included with retail CD versions in multiple languages[^ref-17]
-- **Sierra Catalogue:** Bundled with German retail release[^ref-17]
-- **Registration Card:** Standard Sierra registration materials included[^ref-17]
+- **Game Manual:** German manual scanned on MobyGames and preserved on the Internet Archive[^ref-16][^ref-30]
+- **Sierra Catalogue:** Bundled with German retail release[^ref-16]
+- **Registration Card:** Included with the German retail release[^ref-16]
 
 ### Critical Perspective
 
@@ -229,9 +229,10 @@ Conqueror has maintained a fan following. The 2017 digital re-release drew long-
 - [GOG.com](https://www.gog.com/game/conqueror_ad_1086) - Digital release with DOSBox
 
 **Download / Preservation**
+- No download link is given, since the game is sold on GOG.com.
 
 **Manuals & Extras**
-- German manual and booklet available through Internet Archive preservation[^ref-17]
+- [German manual (Internet Archive)](https://archive.org/details/conqueror-ad-1086-1995-manual-de) - 600 dpi scans and PDF[^ref-30]
 
 ## See Also
 
@@ -254,19 +255,21 @@ Conqueror has maintained a fan following. The 2017 digital re-release drew long-
 [^ref-4]: [GameFAQs – Conqueror 1086 AD](https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad) – user ratings, gameplay features, genre
 [^ref-6]: [GOG.com Forum – Release Thread](https://www.gog.com/forum/general/release_conqueror_ad_1086_71dd0) – 2017 release date, developer history, gameplay details, user memories
 [^ref-7]: [PCGamingWiki – Conqueror: A.D. 1086](https://www.pcgamingwiki.com/wiki/Conqueror:_A.D._1086) – middleware, availability, genre classifications
-[^ref-8]: Retrogames.onl – Conqueror 1086 *(download link removed: the game is sold commercially)* – historical setting, player backstory, genre description
+[^ref-8]: Retrogames.onl – Conqueror 1086 *(download link removed: the game is sold commercially)* – historical setting, genre description
 [^ref-9]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/conqueror-a-d-1086-w-manual) – gameplay sections, combat descriptions
 [^ref-12]: [GameFAQs – Fan Guide by mikel123456](https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad/faqs/66730) – character attributes, DOSBox settings, pricing, gameplay length, fan assessment
 [^ref-14]: [IGN – Conqueror 1086 A.D. Cheats](https://www.ign.com/wikis/pc-cheats/Conqueror_1086_A.D._Cheats) – jousting exploit, life after death exploit
 [^ref-15]: [Giant Bomb – Conqueror: A.D. 1086](https://www.giantbomb.com/conqueror-ad-1086/3030-7086/) – user ratings, victory conditions, basic game description
 [^ref-16]: [MobyGames – Covers/Releases](https://www.mobygames.com/game/4658/conqueror-ad-1086/covers/) – regional releases, packaging formats
-[^ref-17]: Internet Archive – German Retail CD *(download link removed: the game is sold commercially)* – documentation contents, media format, preservation
 [^ref-18]: [IMDB – Conqueror: A.D. 1086](https://www.imdb.com/title/tt0427090/) – voice cast listing
 [^ref-20]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/85600-conqueror-ad-1086) – ESRB rating, gameplay description, genre
-[^ref-21]: [ChapterCheats – Conqueror 1086 AD](https://www.chaptercheats.com/cheats/pc/1137/conqueror-1086-ad-cheat-codes) – ESRB rating, genre, hint contribution
 [^ref-22]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/conqueror-ad-1086-msdos-gamerip-1995) – soundtrack gamerip, file count
 [^ref-23]: [Computer Gaming World #139 (February 1996) – "The Road To Camelot" by Peter Olafson](https://archive.org/details/Computer_Gaming_World_Issue_139) – review, price, system requirements, designer credit, verdict
 [^ref-24]: [Computer Gaming World #127 (February 1995) – Sneak Preview: Conqueror: AD 1086](https://archive.org/details/Computer_Gaming_World_Issue_127) – preview of "Time-Warner's new strategy game", Defender of the Crown comparison
 [^ref-25]: [Computer Game Review (February 1996) – Conqueror A.D. 1086 (Wayback Machine)](https://web.archive.org/web/19961221184224/http://www.nuke.com/cgr/reviews/9602/conquer/conquer.htm) – editors' verdict, developer, requirements, street price
 [^ref-26]: [Hyper #29 (March 1996) – Conqueror 1086 A.D. review by Julian Schoffel](https://archive.org/details/hyper-029/page/52/mode/2up) – review, score, modes of play, resolution
 [^ref-27]: [MobyGames – Conqueror: A.D. 1086 credits (DOS)](https://www.mobygames.com/game/4658/conqueror-ad-1086/credits/dos/) – full credits incl. Time Warner Interactive voice cast, Director of Dialog, writer, localisation
+[^ref-28]: [MobyGames – Conqueror: A.D. 1086 credits (DOS), Wayback Machine capture of 7 December 2015](https://web.archive.org/web/20151207231116/http://www.mobygames.com/game/dos/conqueror-ad-1086/credits) – Software Sorcery & Havokware credits, Time Warner Interactive voice cast with spellings, localisation
+[^ref-29]: [MobyGames – Jutland](https://www.mobygames.com/game/5248/jutland/) – 1993 DOS release, published and developed by Software Sorcery (read via the MobyGames API)
+[^ref-30]: [Internet Archive – Conqueror AD 1086 (1995) German manual](https://archive.org/details/conqueror-ad-1086-1995-manual-de) – German manual scans (gamemanuals collection)
+[^ref-31]: [GameFAQs – Fan Guide by mikel123456 (Wayback Machine, 29 May 2019)](https://web.archive.org/web/20190529185940/https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad/faqs/66730) – "Version: 2.00 | Updated: 04/29/15"
