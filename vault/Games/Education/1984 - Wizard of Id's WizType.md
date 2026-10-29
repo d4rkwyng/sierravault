@@ -10,7 +10,7 @@ series: Wizard of Id
 engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing...
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -176,7 +176,7 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 [^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release year, game description, DOS version preservation
 [^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators
 [^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – user rating, preservation download
-[^ref-5]: [megalextoria – The Wizard of Id's WizType](http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/) – 2017 retrospective: "one of the better such products out there"; Own Lesson and Paragraphs features
+[^ref-5]: [megalextoria – The Wizard of Id's WizType](http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/) ([archived copy, June 2017](https://web.archive.org/web/20170630184128/http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/)) – 2017 retrospective: "one of the better such products out there"; Own Lesson and Paragraphs features
 [^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – the two 1984 Wizard of Id edutainment titles, Apple II education context
 [^ref-7]: [Sierra Gamers – Wizard of Id WizType](https://www.sierragamers.com/wizard-of-id-wiztype/) – designer credits; manual, Quick Reference and box spine downloads; CGW June 1984 product news
 [^ref-8]: [Apple II History – 1984](https://www.apple2history.org/appendix/aha/aha84/) – lists "Wiztype by Sierra OnLine; educational, typing tutor" among 1984 Apple II software

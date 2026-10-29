@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry is the ninth installment in
   the Leisure Suit Larry series, a 2018 point-and-click adventure by CrazyBunch that
   sends Larry Laffer from the late 1980s into the age of smartphones and dating apps.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ After fan backlash to the new voice heard in the first trailer, the producers re
 
 ### Technical Achievements
 
-The game was released for Windows, macOS, PlayStation 4, Nintendo Switch and Xbox One[^ref-1], plus iOS[^ref-50]. PCGamingWiki lists Windows Vista as the minimum PC operating system[^ref-26], while GOG lists Windows 7/8/10[^ref-36]. Post-release support included patches rolled out differently between Steam and GOG.com platforms, with Steam typically receiving updates first[^ref-31].
+The game was released for Windows, macOS, PlayStation 4, Nintendo Switch and Xbox One[^ref-1], plus iOS[^ref-50]. PCGamingWiki lists Windows Vista as the minimum PC operating system[^ref-26], while GOG's listing (before the game left the store) gave Windows 7/8/10[^ref-36]. Post-release support included patches rolled out differently between Steam and GOG.com platforms, with Steam typically receiving updates first[^ref-31].
 
 After fan comments that the original ending seemed abrupt[^ref-7], a free "Happy Ending Update" was released on Steam on November 7, 2019 and on GOG.com on November 14, 2019[^ref-31]; it reached the Switch version by January 2020[^ref-32]. This content served as an epilogue expanding upon Larry's misadventures and providing closure to the Faith storyline[^ref-32].
 

@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -192,4 +192,4 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-67]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – October 23, 2026 update: "Versions already delisted as of this morning have been struck through"; GOG confirmed removal "today as well at 5pm EST"; Wet Dreams Dry Twice's Mobile (Android, iOS) and Xbox Store links are struck through
 [^ref-68]: [Apple iTunes lookup – App Store ID 1534751079 ("Larry - Wet Dreams Dry Twice")](https://itunes.apple.com/lookup?id=1534751079&country=us) – checked October 26, 2026: "resultCount":0 (no listing in the US, German, French or UK stores); US lookup again "resultCount":0 on October 28, 2026
 [^ref-69]: [Xbox Store – Leisure Suit Larry - Wet Dreams Dry Twice](https://www.xbox.com/en-US/games/store/leisure-suit-larry-wet-dreams-dry-twice/9P0L9HQ9TT2V) – checked October 28, 2026: no purchasable offer listed for the product (offer marked out of stock, no price)
-[^ref-70]: [Google Play – Larry - Wet Dreams Dry Twice (com.crazybunch.lslwetdreamsdrytwice)](https://play.google.com/store/apps/details?id=com.crazybunch.lslwetdreamsdrytwice) – the Android listing Delisted Games links to; checked October 28, 2026: returns HTTP 404 (not found)
+[^ref-70]: [Google Play – Larry - Wet Dreams Dry Twice (com.crazybunch.lslwetdreamsdrytwice)](https://play.google.com/store/apps/details?id=com.crazybunch.lslwetdreamsdrytwice) ([archived copy, September 10, 2026](https://web.archive.org/web/20260910130629/https://play.google.com/store/apps/details?id=com.crazybunch.lslwetdreamsdrytwice)) – the Android listing Delisted Games links to; the archived copy shows it live from Assemble Entertainment GmbH ("Updated on Jan 24, 2022"); checked October 28 and 29, 2026: returns HTTP 404 (not found)
