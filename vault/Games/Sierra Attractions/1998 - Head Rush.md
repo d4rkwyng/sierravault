@@ -10,7 +10,7 @@ series: You Don't Know Jack
 engine: Proprietary (Jellyvision)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Head Rush, also known as You Don't Know Jack HeadRush, is a 1998 teen-oriented
   trivia spin-off of the You Don't Know Jack series, developed by Berkeley Systems and
   Jellyvision and published by Sierra On-Line under its Sierra Attractions label.
@@ -18,15 +18,15 @@ tags: [1990s, sierra, you-don-t-know-jack]
 ---
 # Head Rush
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Head Rush, also known as *You Don't Know Jack HeadRush*, is a trivia video game released on August 31, 1998 as a teen-oriented spin-off of the *You Don't Know Jack* series[^ref-1][^ref-14]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under its Sierra Attractions label[^ref-2][^ref-4]. The game targeted a younger audience than its predecessors, and its box copy billed it as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
+Head Rush, also known as *You Don't Know Jack HeadRush*, is a trivia video game released on August 31, 1998 as a teen-oriented spin-off of the *You Don't Know Jack* series[^ref-1][^ref-14]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under its Sierra Attractions label[^ref-2][^ref-4]. The game targeted a younger audience than its predecessors, and promotional copy quoted on Metacritic billed it as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
 
 The game keeps the basic format of the *You Don't Know Jack* series, the major difference being a shift from sexual humor to toilet humor and a change in art style to cartoons[^ref-4]. Head Rush came with a set of three stickers for players to place on their Q, P, and B keys, the keys used to buzz in and answer a question. What was on the stickers was simply the letters Q, P, and B[^ref-22].
 
-The game features entirely new graphics and new questions while greatly resembling its predecessor, *You Don't Know Jack: The Ride*[^ref-6]. One to three players compete on the same screen[^ref-4]. The box warned that the product "contains immature content, loud body noises, a smattering of mildly saucy language and references to music, tv shows and movies that will definitely not be suitable for most geezers"[^ref-7].
+The game features entirely new graphics and new questions while greatly resembling its contemporary *You Don't Know Jack: The Ride*[^ref-6], which followed in November 1998[^ref-14][^ref-23]. One to three players compete on the same screen[^ref-4]. The box warned that the product "contains immature content, loud body noises, a smattering of mildly saucy language and references to music, tv shows and movies that will definitely not be suitable for most geezers"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]], Jellyvision[^ref-4]
@@ -45,7 +45,7 @@ Head Rush does not have a traditional story, as it is structured as a trivia gam
 
 The game's personality comes through its presentation rather than a plot. The WAP Journal's reviewer described the pace as "frantic enough" with "enough stupid jokes and wisecracking that it is entertaining"[^ref-7].
 
-The box copy made clear that the content was aimed at teens and was not meant for older players[^ref-7]. Many questions dealt with the TV and movie culture of the 1990s[^ref-7], and the 2013 Steam release describes its content as "trivia about the teen-y topics of the day"[^ref-10].
+The box copy made clear that the content was aimed at teens and was not meant for older players[^ref-7]. The WAP Journal's reviewer found the questions fairly simple except those on 1990s TV and movie culture[^ref-7], and the 2013 Steam release describes its content as "trivia about the teen-y topics of the day"[^ref-10].
 
 ## Gameplay
 
@@ -107,7 +107,7 @@ Jellyvision was a Chicago-based studio[^ref-18]. MobyGames' credits list Michell
 - **Director:** Michelle Gorchow
 - **Co-Director / Host:** Andy Poland
 - **Producers:** Christopher York, Michelle Gorchow
-- **Executive Producer:** Terry Hackett
+- **Executive Producers:** Igor Gasowski, Christopher York (Berkeley Systems); Terry Hackett (Jellyvision)
 - **Technical Director:** Nathan Bamberger
 - **Lead Writers:** Lena Chern and others
 - **Contributing Writers:** Michelle Gorchow, Terry Hackett, Steve Heinrich, Shannon Miller, Andy Poland, Phil Ridarelli
@@ -117,7 +117,7 @@ IMDb lists Gorchow and Poland as directors and Lina Chern (spelled "Lena" in the
 
 The CD also contains three audio tracks that can be played in any audio CD player: "Lose Your Mind" by Motorbaby, "Don't Shake My World" by Swirl 360, and "The Whammy" by 2 Skinnee J's. These tracks cannot be played from within the game[^ref-7].
 
-Sierra On-Line published the game under its Sierra Attractions label[^ref-2].
+Sierra On-Line published the game under its Sierra Attractions label[^ref-2]. In May 1998 Sierra announced Sierra Attractions as a new brand for family and board-style games, "stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license", and listed HeadRush as an August release[^ref-23].
 
 ### Technical Achievements
 
@@ -149,7 +149,7 @@ Compared to the main *You Don't Know Jack* games, Head Rush changed its art styl
 
 | Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | August 31, 1998 | Windows | Release date per Wikipedia and Metacritic[^ref-14][^ref-3]; PCGamingWiki lists April 20, 1998[^ref-11] |
+| Original | August 31, 1998 | Windows | Release date per Wikipedia and Metacritic[^ref-14][^ref-3]; Sierra's May 1998 lineup listed it for August[^ref-23]; PCGamingWiki lists April 20, 1998[^ref-11] |
 | Original | 1998 | Macintosh | Mac release[^ref-4] |
 | Steam | November 5, 2013 | Windows | Digital re-release by Jackbox Games[^ref-10] |
 
@@ -231,5 +231,6 @@ The Steam store pitches the game to players who were teens in the late 1990s, as
 [^ref-18]: [Wikipedia – Jackbox Games](https://en.wikipedia.org/wiki/Jackbox_Games) – formerly Jellyvision Games, based in Chicago, rebranded in 2013
 [^ref-19]: [Wikipedia – Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) – After Dark and the flying toasters, YDKJ developed by Jellyvision, acquisition by Sierra On-Line/CUC in 1997
 [^ref-20]: [The Sierra Chest – Head Rush: Demos](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=demos) – demo description, products that included the demo
-[^ref-21]: [MobyGames – Head Rush Credits (Windows)](https://www.mobygames.com/game/3639/head-rush/credits/windows/) – director, co-director/host, producers, writers, executive producer, music
+[^ref-21]: [MobyGames – Head Rush Credits (Windows)](https://www.mobygames.com/game/3639/head-rush/credits/windows/) – director, co-director/host, producers, writers, executive producers, music
 [^ref-22]: [MobyGames – Head Rush Trivia](https://www.mobygames.com/game/3639/head-rush/trivia/) – Q, P and B key stickers
+[^ref-23]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – May 1998 Sierra lineup: Sierra Attractions brand, HeadRush (August), You Don't Know Jack volume 4 (November); published 1998-05-18 per page metadata, the visible April 28, 2000 byline date is a CMS artifact
