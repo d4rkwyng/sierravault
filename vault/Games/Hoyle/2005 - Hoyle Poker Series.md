@@ -10,14 +10,14 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: Hoyle Poker Series is a comprehensive poker simulation video game released
   in 2005 for Windows, developed by Sierra Entertainment and published by Encore...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Poker Series
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -42,7 +42,7 @@ The series is named after the 18th-century playing-card expert Edmond Hoyle, and
 
 As a poker simulation, Hoyle Poker Series has no narrative storyline. In Hoyle Friday Night Poker the player creates an identity and plays against seven of the ten possible computer opponents; Hoyle On-Line Poker connects to game servers to play against other players worldwide[^ref-1]. The packaging also promoted "Hoyle's exclusive online tournaments"[^ref-6].
 
-Each player name carries a running bank balance, which the game saves automatically along with the last selected game and settings[^ref-3]. The computer opponents each have different playing styles, such as tight or loose play, and they talk at the table; character speech can be switched off[^ref-3].
+Each player name carries a running bank balance, which the game saves automatically along with the last selected game and settings[^ref-3]. The computer opponents each have different playing styles, such as tight or loose play, and they talk at the table; character speech can be switched off[^ref-3]. The table setting can be changed from the traditional green card table to red felt, a kitchen table or a warehouse[^ref-26].
 
 ## Gameplay
 
@@ -56,7 +56,7 @@ The game includes in-game tutorials and a help function that teach the official 
 
 All of the variants can be played in "Friday Night" mode with a standard ante. Seven of them can also be played in "Casino" mode with structured betting (big and small blinds), and nine as tournaments[^ref-3]. Tournaments run for a set number of deals rather than as knockouts[^ref-3].
 
-Between games the player can visit a virtual ATM to withdraw or deposit money. Large enough winnings earn a place in the "Hall Of Fame", while a player who borrows too often from loan sharks can end up in the "Hall Of Shame"[^ref-3].
+Between games the player can visit a virtual ATM to withdraw or deposit money. GameArena's review describes a virtual bankroll of $10,000, of which $1,000 is the initial betting amount and the remaining $9,000 sits in the bank until the player taps it at the ATM[^ref-26]. Large enough winnings earn a place in the "Hall Of Fame", while a player who borrows too often from loan sharks can end up in the "Hall Of Shame"[^ref-3].
 
 ### Poker Variants Included
 
@@ -81,7 +81,7 @@ The game has no puzzles. Its challenge comes from poker strategy against compute
 
 ### Contemporary Reviews
 
-No contemporary critic reviews of Hoyle Poker Series were found. IGN lists the game without a review ("NR")[^ref-4], and Metacritic has no critic reviews for it[^ref-7]. MobyGames records a score of 60/100[^ref-1].
+The only critic review found is from GameArena, Telstra BigPond's Australian games site, where a reviewer credited as Dan rated it 6 on 17 December 2007[^ref-26]; MobyGames lists that review as its sole critic score, 60/100[^ref-25]. GameArena concluded that the game "isn't going to win any awards for visuals, however it is an accessible poker option that will appeal to anyone keen on the card game", and that "its ease of play and character go a long way to making it one of the better options available"[^ref-26]. Among its good points the review listed 14 variations of poker, a colourful cast of characters and a great tutorial; among its bad ones, that it "was difficult for me to get online" and was "not even close to being a visual treat"[^ref-26]. IGN lists the game without a review ("NR")[^ref-4], and Metacritic has no critic reviews for it[^ref-7].
 
 Later Amazon customer reviews (2010–2016) are mixed. One 2010 reviewer called it "an excellent Poker simulation that's easy and intuitive to use"[^ref-3]. Another 2010 reviewer found that the online features no longer worked[^ref-3], and a 2015 reviewer found it too complicated for a non-computer-savvy relative[^ref-6].
 
@@ -90,7 +90,7 @@ Later Amazon customer reviews (2010–2016) are mixed. One 2010 reviewer called 
 Modern coverage of Hoyle Poker Series is very limited.
 
 **Aggregate Scores:**
-- **MobyGames:** 60/100[^ref-1]
+- **MobyGames critic average:** 60% (1 review, GameArena); MobyGames' own score is n/a[^ref-25]
 - **Amazon UK (Encore version):** 3.5/5 stars (3 ratings)[^ref-6]
 - **Amazon UK (Greenstreet version):** 3.2/5 stars (6 ratings)[^ref-3]
 
@@ -114,7 +114,7 @@ MobyGames credits 68 people on the Windows release, including an Encore Software
 - **Producer:** Karen Thomas
 - **Associate Producer:** Robert L. Jerauld
 - **Designers:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld
-- **Lead Engineers:** Earl Malmrose, Michael Katz[^ref-20]
+- **Lead Engineers:** Earl Malmrose, Michael Katz[^ref-24]
 - **Software Engineers:** Paul Horn, John Tighe, Tim Weiss, Eric Tangborn[^ref-13]
 - **Lead Artist / 3D Illustrator:** Rabih AbouJaoudé
 - **Senior 3D Artists:** Julian Love, Eric Hook[^ref-12]
@@ -129,7 +129,7 @@ MobyGames lists Stephen H. Van Horn with credits from 1995 to 2009[^ref-11]. Mic
 
 **System Requirements:**[^ref-1]
 
-- **Operating System:** Windows 98SE or later (box lists Windows 98, Me, 2000, XP[^ref-3])
+- **Operating System:** Windows 98SE or later (Amazon listings give Windows 98, Me, 2000, XP[^ref-3])
 - **CPU:** Intel Pentium II
 - **RAM:** 32 MB
 - **Media:** CD-ROM, 4X drive
@@ -184,6 +184,7 @@ Hoyle Poker Series was sold as a standalone title. Known retail releases include
 
 - Standard retail release by Encore Software (March 2005)[^ref-4]
 - UK release by Greenstreet Software (June 2006)[^ref-3]
+- Australian release by Encore (11 May 2005), classified G8+[^ref-26]
 - Secondhand multi-game bundles from resellers[^ref-21]
 
 ### Related Publications
@@ -192,9 +193,9 @@ Hoyle Poker Series was sold as a standalone title. Known retail releases include
 
 ### Critical Perspective
 
-Hoyle Poker Series was a budget poker title from the mid-2000s. It drew no notice from major review outlets[^ref-4][^ref-7]. The customer reviews that do exist praise its variety and ease of use[^ref-3], but the shutdown of its online features left only the single-player game working[^ref-3].
+Hoyle Poker Series was a budget poker title from the mid-2000s. It drew no notice from major review outlets[^ref-4][^ref-7]; the one critic review found, from Australia's GameArena, judged it an accessible poker game held back by plain visuals[^ref-26]. The customer reviews that do exist praise its variety and ease of use[^ref-3], but the shutdown of its online features left only the single-player game working[^ref-3].
 
-The Hoyle series' use of Sierra adventure game characters as opponents in its early volumes gave it a crossover appeal with Sierra's other franchises[^ref-2].
+The early Hoyle volumes used Sierra adventure game characters as opponents; Computer Gaming World found them fun in Volume 1, but annoying for players who preferred cards to humor[^ref-2].
 
 ## Downloads
 
@@ -286,4 +287,6 @@ The Hoyle series' use of Sierra adventure game characters as opponents in its ea
 [^ref-21]: [eBay Canada – Hoyle Poker Series Bundle](https://www.ebay.ca/itm/155299243567) – publisher, platform, ESRB rating, compatibility warnings
 [^ref-22]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – developer/publisher history, sales data, version history, bugs
 [^ref-23]: [Amazon Singapore – Hoyle Products](https://www.amazon.sg/Video-Games-Hoyle/s?rh=n%3A6315182051%2Cp_4%3AHoyle) – publisher information, platform compatibility
-[^ref-24]: [MobyGames – Hoyle Poker Series credits (Windows)](https://www.mobygames.com/game/56707/hoyle-poker-series/credits/windows/) – full credits: 68 people, designers, engineers, voice cast, Clatter and Din, WON.NET team
+[^ref-24]: [MobyGames – Hoyle Poker Series credits (Windows)](https://www.mobygames.com/game/56707/hoyle-poker-series/credits/windows/) – full credits: 68 people, designers, engineers, voice cast, Clatter and Din, WON.NET team ([archived copy, July 2015](https://web.archive.org/web/20150711174751/http://www.mobygames.com:80/game/windows/hoyle-poker-series/credits))
+[^ref-25]: [MobyGames – Hoyle Poker Series MobyRank (archived July 2015)](https://web.archive.org/web/20150711173605/http://www.mobygames.com:80/game/windows/hoyle-poker-series/mobyrank) – critic reviews: GameArena 60; one critic review listed
+[^ref-26]: [GameArena – Hoyle Poker Series review (archived October 2009)](https://web.archive.org/web/20091025011319/http://www.gamearena.com.au/pc/games/title/hoyle-poker-series/reviews.php) – review by Dan, 17/12/07, score 6; 14 variations, $10,000 bankroll, table settings, G8+, Australian release 11 May 2005
