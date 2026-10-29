@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Rise of the Dragon", "The Adventures of Willy Beamish", "3-D Ultra Pinball", "Starsiege: Tribes"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "Monster Studios", "GarageGames", "PushButton Labs", "Playdom", "Spotkin", "Monster Ideas"]
-last_updated: "2026-10-26"
+last_updated: '2026-10-29'
 ---
 # Jeff Tunnell
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -156,7 +156,7 @@ Special Thanks only (not production roles): Take a Break! Crosswords (1992), [[1
 - **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Role: Executive Producer
 - **1997** — [[1997 - 3-D Ultra MiniGolf|3-D Ultra MiniGolf]] — Role: Co-Designer, Executive Producer
 - **1997** — [[1997 - 3-D Ultra Pinball - The Lost Continent|3-D Ultra Pinball: The Lost Continent]] — Role: Executive Producer[^ref-26]
-- **1997** — [[1997 - Driver's Education '98|Driver's Education '98]] — Role: Executive Producer (vault page)
+- **1998** — [[1997 - Driver's Education '98|Driver's Education '98]] — Role: Executive Producer (vault page)
 - **1998** — [[1998 - 3-D Ultra MiniGolf Deluxe|3-D Ultra MiniGolf Deluxe]] — Role: Co-Designer, Executive Director (vault page, citing MobyGames)
 - **1998** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Executive Producer
 - **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Role: Executive Producer
