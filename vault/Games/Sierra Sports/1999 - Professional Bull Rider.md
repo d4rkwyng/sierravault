@@ -10,7 +10,7 @@ series: Professional Bull Rider
 engine: Proprietary (Windows)
 protagonist: Player-created bull rider
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 composer: [Craig Utterback]
 description: Professional Bull Rider is a 1999 bull-riding sports simulation for Windows
   published by Sierra On-Line under its Sierra Sports label, letting players ride as
@@ -19,11 +19,11 @@ tags: [1990s, professional-bull-rider, sierra]
 ---
 # Professional Bull Rider
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Professional Bull Rider is a sports simulation video game developed and published by [[Sierra On-Line|Sierra On-Line, Inc.]] under its Sierra Sports label, released for Windows in late 1999[^ref-1][^ref-2]. Built in partnership with Professional Bull Riders, Inc. (PBR), it features over 40 of the top bull riders on the PBR circuit[^ref-3]; GameSpot later described it as an officially sanctioned computer-game re-creation of the sport[^ref-11]. Marketed with the tagline "Play as the bull or pray as the cowboy," the game offered a unique twist on the sports genre by allowing players to control either the cowboy attempting to stay mounted for eight seconds or the bull trying to dislodge its rider[^ref-5][^ref-6].
+Professional Bull Rider is a sports simulation video game developed and published by [[Sierra On-Line|Sierra On-Line, Inc.]] under its Sierra Sports label, released for Windows in late 1999[^ref-1][^ref-2]. Built in partnership with Professional Bull Riders, Inc. (PBR), it features over 40 of the top bull riders on the PBR circuit[^ref-3]; GameSpot later described it as an officially sanctioned computer-game re-creation of the sport[^ref-11]. Marketed with the tagline "Play as the bull or pray as the cowboy," the game offered a unique twist on the sports genre by allowing players to control either the cowboy attempting to stay mounted for eight seconds or the bull trying to dislodge its rider[^ref-5].
 
 The game distinguished itself through its use of motion-captured riding sequences to create lifelike arcade play, combined with authentic running color commentary[^ref-7]. GameSpot framed it as an offbeat sports game that treads the line between simulation and arcade action, a line Metacritic reuses as its game summary[^ref-4][^ref-8]. Sierra's own press release billed Sierra Sports as "the first software company to sponsor cowboys in the Professional Bull Riders, Inc. 1999 Bud Light Cup Tour season"[^ref-3].
 
@@ -46,7 +46,7 @@ Sierra announced an October release at a retail price of $19.95[^ref-3]; IGN lis
 
 Professional Bull Rider features a straightforward control scheme that belies the depth of technique required for successful gameplay. As PCMag UK noted, "We assumed that the secret to successful bull riding was simple: Hang on and try not to die. But in Sierra Sports' Professional Bull Rider, there's a lot more technique involved."[^ref-9] MobyGames lists keyboard, mouse and analog joystick input[^ref-1], and Amazon's product description advertises support for force-feedback joysticks[^ref-7].
 
-The entire bull riding run lasts only eight seconds, mirroring the real sport, which creates an intense and focused gameplay experience[^ref-6]. Players must carefully manage their rider's balance and position while the bull performs increasingly violent bucking maneuvers. The fixed camera angle, while providing a consistent viewing perspective, can sometimes make it difficult to distinguish left from right during rides[^ref-4].
+The entire bull riding run lasts only eight seconds, mirroring the real sport, which creates an intense and focused gameplay experience[^ref-6]. Players must carefully manage their rider's balance and position, leaning into each buck[^ref-4]. The fixed camera angle, while providing a consistent viewing perspective, can sometimes make it difficult to distinguish left from right during rides[^ref-4].
 
 ### Structure and Progression
 
@@ -56,7 +56,7 @@ The career mode allows players to progress through the PBR circuit, competing ag
 
 ### Mechanics and Features
 
-- **Cowboy Mode:** Control a rider attempting to stay mounted for eight seconds while scoring points for style and technique[^ref-6]
+- **Cowboy Mode:** Control a rider attempting to stay mounted for eight seconds[^ref-6]; GameSpot notes the spur button "earns more points from the judges" but is risky unless the rider is centered and upright[^ref-4]
 - **Bull Mode:** Control the bull with the goal of dislodging the rider, then attempting to gore them after they fall[^ref-6]
 - **Tutorial Mode:** Learn the basics from bull-riding greats Ty Murray and Tuff Hedeman[^ref-4][^ref-7]
 - **Two-Player Mode:** Competitive mode where one player controls the cowboy and another controls the bull[^ref-9]
@@ -83,7 +83,7 @@ PCMag UK was more reserved, awarding an average score of 3.0 and commenting that
 ### Modern Assessment
 
 **Aggregate Scores:**
-- **MobyGames:** 60% (based on 4 ratings)[^ref-1]
+- **MobyGames:** 60% critic average (based on 4 critic ratings)[^ref-1]
 - **GameFAQs:** "Great" (based on 5 ratings)[^ref-2]
 - **My Abandonware:** 3/5[^ref-10]
 - **Amazon Customer Reviews:** 2.5/5 (5 ratings)[^ref-7]
@@ -92,13 +92,13 @@ PCMag UK was more reserved, awarding an average score of 3.0 and commenting that
 
 ### Origins
 
-Professional Bull Rider emerged from Sierra Sports' strategic expansion into niche sports markets during the late 1990s. As Sean Gleason, Director of Marketing, stated in the official press release: "Sierra Sports has made a significant commitment to the category of rodeo and our first PC game release, Professional Bull Rider, will show fans just how committed we are to delivering quality games to a large and growing audience."[^ref-3]
+In the official press release, Sean Gleason, Director of Marketing, stated: "Sierra Sports has made a significant commitment to the category of rodeo and our first PC game release, Professional Bull Rider, will show fans just how committed we are to delivering quality games to a large and growing audience."[^ref-3]
 
 The game was built on Sierra Sports' relationship with Professional Bull Riders, Inc., Ty Murray, Tuff Hedeman and more than 40 other top riders on the tour[^ref-3]. The marketing campaign included rider sponsorship: Sierra's press release claimed it was the first software company to sponsor cowboys in the 1999 Bud Light Cup Tour, putting the Sierra Sports colors on Casey Gates and Donnie Ray Howard[^ref-3].
 
 ### Production
 
-The development utilized motion capture technology to create realistic bull and rider animations, which reviewers noted contributed significantly to the game's visual appeal[^ref-4][^ref-7]. The team incorporated FMV sequences and worked to balance simulation depth with arcade accessibility[^ref-4].
+The development utilized motion capture technology to create realistic bull and rider animations, which reviewers noted contributed significantly to the game's visual appeal[^ref-4][^ref-7]. The game includes FMV sequences, and GameSpot judged that it treads the line between simulation and arcade action[^ref-4].
 
 Sierra Sports set up interactive booths at PBR events featuring virtual bull riding experiences, allowing fans to take a spin on a 2,000-pound virtual bull to see if they could make the eight seconds[^ref-3].
 
@@ -111,7 +111,7 @@ Sierra Sports set up interactive booths at PBR events featuring virtual bull rid
 
 ### Technical Achievements
 
-The game's motion-captured riding sequences represented a significant technical achievement for a budget-priced sports title, creating what reviewers described as "astonishing realism" in the bull's movements[^ref-4]. GameSpot noted that "There's no banjo-pluckin', yee-hawin', or tobacco-spittin', and the only bull in the game is a big mean critter that moves with astonishing realism and bucks like hell."[^ref-4]
+GameSpot singled out the bull's animation, describing "astonishing realism" in its movements[^ref-4]. GameSpot noted that "There's no banjo-pluckin', yee-hawin', or tobacco-spittin', and the only bull in the game is a big mean critter that moves with astonishing realism and bucks like hell."[^ref-4]
 
 ### Technical Specifications
 
@@ -142,7 +142,7 @@ Modern compatibility issues have been reported, with some users noting the game 
 ### Easter Eggs and Trivia
 
 - The game featured real PBR riders and bulls from the 1999 circuit, providing authentic roster representation[^ref-4][^ref-7]
-- Players could control either the cowboy or the bull, as the company tagline put it: "Play as the bull or pray as the cowboy"[^ref-5][^ref-6]
+- Players could control either the cowboy or the bull, as the company tagline put it: "Play as the bull or pray as the cowboy"[^ref-5]
 - Sierra's press release claimed Sierra Sports was the first software company to sponsor cowboys in the PBR's 1999 Bud Light Cup Tour[^ref-3]
 - The entire riding event lasts only eight seconds, faithfully recreating the real sport's timeframe[^ref-6]
 
@@ -175,7 +175,7 @@ The sequel included a new track by Lynyrd Skynyrd and contained a trailer for an
 The Professional Bull Riders license continued in gaming beyond Sierra's involvement:
 
 **PBR: Raging Bulls (Mobile, 2014)**
-Developed by RED Games Co., LLC for iOS devices, this mobile game featured legendary bull Bushwacker and 13 PBR and fantasy bulls[^ref-14]. The app received a 4.0/5 rating on the App Store but has since become incompatible with current iOS versions[^ref-14].
+Developed by RED Games Co., LLC for iOS devices, this mobile game featured legendary bull Bushwacker and 13 PBR and fantasy bulls[^ref-14]. The app received a 4.0/5 rating from a single review on the App Store but has since become incompatible with current iOS versions[^ref-14].
 
 **8 To Glory (2018)**
 Developed by Three Gates AB and published by Jumpgate AB, this title was released for PlayStation 4 on July 31, 2018[^ref-15][^ref-16]. Marketed as "The only officially licensed video game of the PBR," it featured the 2018 PBR circuit and received a 4.04/5 rating from 95 ratings on the US PlayStation Store[^ref-15][^ref-16]. The game was also available on console and mobile platforms[^ref-17].
