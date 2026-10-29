@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 2 simulation engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: NASCAR Racing 2 Grand National Series Expansion was a 1997 DOS add-on
   for Sierra's NASCAR Racing 2, developed by Papyrus Design Group, adding Busch Grand
   National drivers, 10 official tracks and two fantasy tracks.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2 Grand National Series Expansion
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The base game NASCAR Racing 2 had used a new game engine that improved graphics,
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** Tom Faiano, David D. Flamburis, Matt Marsala, Ryan Smart[^ref-23]
-> **Publisher:** [[Sierra On-Line]][^ref-6]
+> **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** NASCAR Racing 2 simulation engine[^ref-1]
 > **Platforms:** MS-DOS (CD-ROM)[^ref-1]
 > **Release Date:** November 3, 1997[^ref-1]
@@ -86,37 +86,36 @@ The expansion added 10 official Grand National tracks plus two fantasy tracks, B
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Electric Games (1997) | 91% | "A great extention to the king of NASCAR sims"[^ref-21] |
-| Computer Gaming World (April 1998) | 3.5/5 | "the 12 new tracks (10 real tracks, 2 fantasy tracks) and new seasons breathe life into this aging game"[^ref-21] |
+| Computer Gaming World (April 1998) | 3.5/5 | "the 12 new tracks (10 real tracks, 2 fantasy tracks) and new seasons breathe life into this aging game"[^ref-27] |
 
-Computer Gaming World also faulted the pack for not giving players a distinct Grand National car, for leaving AI problems unfixed and for "somewhat slow frame rates" in 3D.[^ref-21]
+Gordon Goble's Computer Gaming World review, "Back on Track", credited the pack with addressing "unrecognized control devices, unsavable races, and bizarre pitting rituals" in the base game.[^ref-27] He also faulted it for not giving players a distinct Grand National car, for leaving AI problems unfixed and for "somewhat slow frame rates" in 3D.[^ref-27]
 
 **Base game reception** (NASCAR Racing 2, 1996):
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| MobyGames | 86% | Critical average, per Wikipedia[^ref-12] |
+| MobyGames | 81% | Critic average (Wikipedia gives an older 86%)[^ref-10][^ref-12] |
 | GameSpot | 9.2/10 | Praised as "completely professional"[^ref-12] |
 | Computer Gaming World | 100% | "continues down that near legendary road of glory"[^ref-12] |
 | Next Generation | 3/5 | Mixed reception[^ref-12] |
+| PC Zone (January 1997) | 92 | PC Zone Classic; "Better, more playable"[^ref-26] |
 | GameFabrique | 8/10 | Editor rating[^ref-9] |
 
 ### Critical Assessment
 
-Tim Soete's GameSpot review of the base game emphasized the simulation's depth: "NASCAR 2 is not a toy."[^ref-4] A UK review of the base game reprinted on GameFabrique was more effusive: "It's fab. It really is."[^ref-9]
+Tim Soete's GameSpot review of the base game emphasized the simulation's depth: "NASCAR 2 is not a toy."[^ref-4] Tim Ponting's PC Zone review of the base game was more effusive: "It's fab. It really is."[^ref-26] He concluded that "If realistic saloon car-type racing is your bag, there is nothing else that comes close."[^ref-26]
 
 Computer Gaming World gave the base game a perfect score, writing that it "continues down that near legendary road of glory."[^ref-12]
 
 ### Modern Assessment
 
-The base game holds an 81% critic average on MobyGames,[^ref-10] and MyAbandonware users rate it 4.58/5 from 81 votes.[^ref-14] On MobyGames, players give the expansion itself an average of 2.8 out of 5 from two ratings.[^ref-21]
-
-The UK review of the base game reprinted on GameFabrique concluded that "If realistic saloon car-type racing is your bag, there is nothing else that comes close."[^ref-9]
+The base game holds an 81% critic average on MobyGames,[^ref-10] and MyAbandonware users rate it 4.58/5 from 81 votes.[^ref-14] On MobyGames, the expansion itself has only two player ratings.[^ref-1]
 
 ## Development
 
 ### Origins and Context
 
-The expansion was developed following the success of NASCAR Racing 2, which was released in December 1996 as a follow-up to the award-winning original NASCAR Racing from 1994.[^ref-6][^ref-7] Papyrus was founded by [[Dave Kaemmer]].[^ref-17] NASCAR Racing 2 went on to sell 800,000 units worldwide, which GameSpot called the second-highest total of any Papyrus game.[^ref-17]
+The expansion was developed following the success of NASCAR Racing 2, which was released in December 1996 as a follow-up to the award-winning original NASCAR Racing from 1994.[^ref-6][^ref-7] Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari.[^ref-17][^ref-25] NASCAR Racing 2 went on to sell 800,000 units worldwide, which GameSpot called the second-highest total of any Papyrus game.[^ref-17]
 
 ### Production
 
@@ -126,7 +125,7 @@ Elton Sawyer and Patty Moise provided the advice for the new Grand National trac
 
 ### Technical Achievements
 
-NASCAR Racing 2 was the first NASCAR game with 3D acceleration: 3Dfx under DOS and Rendition under Windows.[^ref-3] Sierra's 3Dfx executable for the base game had graphics options set at the command prompt or in AUTOEXEC.BAT.[^ref-16] MobyGames lists 3Dfx support for the expansion,[^ref-22] although Computer Gaming World found it "doesn't seem fully optimized for 3D."[^ref-21]
+MobyGames describes NASCAR Racing 2 as the first NASCAR game to have 3D acceleration, with 3Dfx under DOS and Rendition under Windows.[^ref-3] Sierra's 3Dfx executable for the base game came later, as a 1998 "3Dfx Beta Update" whose graphics options were set at the command prompt or in AUTOEXEC.BAT.[^ref-16] MobyGames lists 3Dfx support for the expansion,[^ref-22] while Computer Gaming World's review box listed Rendition as its 3D support and found that the pack "doesn't seem fully optimized for 3D."[^ref-27]
 
 **Technical Specifications (expansion, per MobyGames):**[^ref-22]
 - Platform: DOS, CD-ROM (2X drive minimum)
@@ -184,14 +183,14 @@ The base game is no longer commercially available and is considered abandonware;
 
 ## References
 
-[^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description and credits
+[^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description, publisher (Sierra On-Line), release date, player-vote count; read via the MobyGames API 2026-10-29
 [^ref-2]: [Internet Archive - Nascar Grand National Series Expansion Pack 1997 Sierra CD](https://archive.org/details/nascar-grand-national-series-expansion-pack-1997-sierra-cd) – Preserved original CD
 [^ref-3]: [Internet Archive - NASCAR Racing 2 MS-DOS](https://archive.org/details/msdos_NASCAR_Racing_2_1996) – Technical improvements
 [^ref-4]: [GameSpot - NASCAR Racing 2 Review](https://www.gamespot.com/reviews/nascar-racing-2-review/1900-2543742/) – Tim Soete review
 [^ref-6]: [Sierra Gamers - NASCAR Racing 2](https://www.sierragamers.com/nascar-racing-2/) – Publisher information
 [^ref-7]: [PCGamingWiki - NASCAR Racing 2](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2) – Base game release date (December 9, 1996)
 [^ref-8]: [Internet Archive - NASCAR Racing 2 Manual](https://archive.org/stream/NASCAR_Racing_2_-_Manual/NASCAR_Racing_2_-_Manual_djvu.txt) – Control configuration
-[^ref-9]: [GameFabrique - NASCAR Racing 2](https://gamefabrique.com/games/nascar-racing-2/) – Reprinted reviews of the base game; editor rating 8/10
+[^ref-9]: GameFabrique, nascar-racing-2 page (link removed: the site pushes a bundled .exe download launcher) – Reprinted reviews of the base game; editor rating 8/10
 [^ref-10]: [MobyGames - NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – User review by Spectre
 [^ref-11]: [IMDb - NASCAR Racing 2](https://www.imdb.com/title/tt6068798/) – Voice cast credits
 [^ref-12]: [Wikipedia - NASCAR Racing 2](https://en.wikipedia.org/wiki/NASCAR_Racing_2) – Review scores
@@ -206,3 +205,5 @@ The base game is no longer commercially available and is considered abandonware;
 [^ref-23]: [MobyGames - NASCAR Grand National Series Expansion Pack Credits](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/credits/dos/) – DOS credits
 [^ref-24]: [MobyGames - NASCAR Grand National Series Expansion Pack Trivia](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/trivia/) – Sawyer/Moise advice; fantasy track names
 [^ref-25]: [Wikipedia - Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – Later games; NR2003 code sale and iRacing
+[^ref-26]: [Internet Archive - PC Zone 46 (January 1997)](https://archive.org/details/PC_Zone_46_January_1997/page/n124/mode/2up) – Tim Ponting, "NASCAR Racing 2" review, pp. 126–127; score 92, PC Zone Classic (checked against page images)
+[^ref-27]: [Internet Archive - Computer Gaming World Issue 165 (April 1998)](https://archive.org/details/Computer_Gaming_World_Issue_165/page/n185/mode/1up) – Gordon Goble, "Back on Track", p. 182; 3.5 of 5 stars (checked against page image)
