@@ -69,11 +69,8 @@ Players can change the weather, number of laps and number of competitors for eac
 
 The game includes all 23 venues of the 2003 NASCAR Winston Cup Series schedule, plus one fantasy track:[^ref-4][^ref-44]
 
-- **Superspeedways:** Daytona International Speedway, Talladega Superspeedway
-- **Intermediate Ovals:** Atlanta Motor Speedway, California Speedway, Chicagoland Speedway, Homestead-Miami Speedway, Kansas Speedway, Las Vegas Motor Speedway, Lowe's Motor Speedway, Michigan International Speedway, Texas Motor Speedway
-- **Short Tracks:** Bristol Motor Speedway, Martinsville Speedway, New Hampshire International Speedway, North Carolina Speedway, Phoenix International Raceway, Richmond International Raceway
+- **Ovals:** Atlanta Motor Speedway, Bristol Motor Speedway, California Speedway, Chicagoland Speedway, Darlington Raceway, Daytona International Speedway, Dover International Speedway, Homestead-Miami Speedway, Indianapolis Motor Speedway, Kansas Speedway, Las Vegas Motor Speedway, Lowe's Motor Speedway, Martinsville Speedway, Michigan International Speedway, New Hampshire International Speedway, North Carolina Speedway, Phoenix International Raceway, Pocono Raceway, Richmond International Raceway, Talladega Superspeedway, Texas Motor Speedway
 - **Road Courses:** Infineon Raceway, Watkins Glen International
-- **Unique Ovals:** Darlington Raceway, Dover International Speedway, Indianapolis Motor Speedway, Pocono Raceway
 - **Fantasy Track:** Coca-Cola Superspeedway[^ref-4]
 
 As in real life, night driving is available at several tracks, including Bristol and Daytona.[^ref-4]
@@ -90,7 +87,7 @@ The AI rating system uses separate parameters for driver skill (qualifying abili
 
 ### Contemporary Reviews
 
-NASCAR Racing 2003 Season received critical acclaim upon release, earning what Metacritic described as "generally favorable reviews" with an aggregate score of 89/100 based on 18 reviews.[^ref-1]
+NASCAR Racing 2003 Season received critical acclaim upon release, earning what Metacritic described as "generally favorable reviews" with an aggregate score of 89/100 based on 18 critic reviews.[^ref-1][^ref-17]
 
 *PC Gamer US* awarded the game 95%, with reviewer Andy Mahood declaring it "established a daunting new standard for PC racing simulations that may take years to eclipse."[^ref-1] *IGN* scored it 9.3/10, with Randy Magruder stating "NASCAR Racing 2003 will be the reference work for NASCAR sims for the forseeable future."[^ref-16] He added: "It's almost time to stop thinking of this as a game and just as a flat out simulation."[^ref-16]
 
@@ -111,7 +108,7 @@ Community sentiment remains overwhelmingly positive. "22 years and this title st
 The game maintains an active speedrunning community with 253 total runs submitted by 45 players across 35 different track categories.[^ref-21]
 
 **Aggregate Scores:**
-- **Metacritic:** 89/100 (18 critic reviews)[^ref-1]
+- **Metacritic:** 89/100 (18 critic reviews)[^ref-1][^ref-17]
 - **MobyGames:** 8.0 Moby Score, 84% critics average (15 ratings), 3.9/5 players (20 ratings)[^ref-2]
 - **MyAbandonware:** 4.52/5[^ref-22]
 
@@ -141,7 +138,7 @@ The game credits list 150 people (99 developers, 51 thanks).[^ref-2]
 
 ### Mac OS X Port
 
-The Macintosh version was developed by Westlake Interactive and co-published by Aspyr Media.[^ref-26] Announced in April 2003 and entering duplication by May 2003, the Mac version launched at $49.95 US.[^ref-27] The port received positive coverage, with *Macworld* calling it "the swan song of a terrific game franchise that carefully simulates what it's like to muscle a roaring NASCAR racing vehicle around real-world tracks."[^ref-28]
+The Macintosh version was developed by Westlake Interactive and co-published by Aspyr Media.[^ref-26] Announced in April 2003 and entering duplication by May 2003, the Mac version launched at $49.95 US.[^ref-27] MobyGames dates the Mac release to June 17, 2003.[^ref-2] The port received positive coverage, with *Macworld* calling it "the swan song of a terrific game franchise that carefully simulates what it's like to muscle a roaring NASCAR racing vehicle around real-world tracks."[^ref-28]
 
 ### Technical Achievements
 
@@ -185,13 +182,13 @@ Darrell Waltrip's track tours, a feature from the previous version, were elimina
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0.0.0 | February 11, 2003 (NA) | Windows | Retail release; its readme is dated January 17, 2003[^ref-1][^ref-13] |
-| 1.0 | April 2, 2003 (NA) | Mac OS X | Retail release (Aspyr)[^ref-1] |
+| 1.0 | Announced April 2, 2003; shipped c. June 2003 | Mac OS X | Retail release (Aspyr); "in duplication" on May 8, 2003; MobyGames lists June 17, 2003[^ref-26][^ref-27][^ref-2] |
 | 1.1.0.3 | Unknown | Windows | Update patch[^ref-31] |
-| 1.2.0.1 | September 16, 2003 | Windows | Major update with AI, physics improvements[^ref-35] |
+| 1.2.0.1 | c. September 16, 2003 | Windows | Update with changes to AI, physics and race control[^ref-6][^ref-31][^ref-35] |
 | 1.2.7 | Unknown | Mac OS X | Patcher[^ref-32] |
 | 1.2.8 | Unknown | Mac OS X | Update[^ref-31][^ref-32] |
 
-The 1.2.0.1 patch introduced significant modifications including improved computer AI, enhanced physical model, better car control, improved trail building, graphics improvements, and user interface updates.[^ref-35] This version is not multiplayer compatible with previous versions, and telemetry gathering programs from earlier versions are incompatible.[^ref-31]
+Sierra describes the 1.2.0.1 patch as adding "many small updates including changes to AI, physics, and race control."[^ref-31] GameSpot reported on September 26, 2003 that Papyrus had released a patch "10 days ago";[^ref-6] GamePressure's patch listing gives the date as September 16, 2003 and also mentions graphics and user-interface improvements.[^ref-35] This version is not multiplayer compatible with previous versions, and telemetry gathering programs from earlier versions are incompatible.[^ref-31]
 
 ### Technical Issues
 
@@ -266,8 +263,7 @@ Original physical copies remain collectible, with complete copies commanding pri
 
 ### Related Publications
 
-- **Official Game Manual:** Included with retail release, documenting controls, game modes, and setup options[^ref-13]
-- The game did not receive official hint book publication due to its nature as a racing simulation rather than puzzle-based game
+- **Game Manual:** Sierra's retail manual (scan on the Internet Archive) covers installation, controller configuration, race setup, multiplayer, the garage and car tuning[^ref-48]
 
 ### Critical Perspective
 
@@ -354,3 +350,4 @@ Its net code and replay system were among the strengths iRacing built on when it
 [^ref-45]: [Reddit r/Nr2003 – NR2003 Getting Started Guide (2020 Update)](https://www.reddit.com/r/Nr2003/comments/fcv5fo/nr2003_getting_started_guide_2020_update/) – setup difficulty quote
 [^ref-46]: [Metacritic – NASCAR Racing 2003 Season Critic Reviews](https://www.metacritic.com/game/nascar-racing-2003-season/critic-reviews/?platform=pc) – Game Chronicles quote (97)
 [^ref-47]: [Traxion.gg – How NASCAR Racing 2003 Season Is Still Pioneering 19 Years Later](https://traxion.gg/how-nascar-racing-2003-season-is-still-pioneering-19-years-later/) – "last great independent NASCAR simulator", GNS/CTS/PTA physics models
+[^ref-48]: [Internet Archive – NASCAR Racing 2003 Season Manual](https://archive.org/details/nascar-racing-2003-season-manual) – scanned retail manual (©2003 Sierra Entertainment), table of contents
