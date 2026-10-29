@@ -10,19 +10,19 @@ series: Standalone
 engine: null
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Kempelen (marketed as Kempelen Chess) is a Hungarian-made chess program from Andromeda Software, published by Sierra On-Line for the Commodore 64 in 1986 and also sold by Sierra for the Atari ST, with a 1988 MSX2 version from Pony Canyon in Japan.
 tags: [1980s, sierra, standalone, strategy]
 ---
 # Kempelen
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Kempelen is a chess program developed by Andromeda Software and published by Sierra On-Line for the Commodore 64 in 1986[^ref-16][^ref-2][^ref-3]. Sierra's own price list and the period press called it *Kempelen Chess*[^ref-21][^ref-24]. It is named after Wolfgang von Kempelen, the Hungarian inventor who built "The Turk", an 18th-century chess-playing automaton later shown to be a hoax[^ref-1][^ref-10]. The Commodore 64 title screen credits Attila Kovács, István Bilek and Tamás Révbíró[^ref-17][^ref-16].
 
-Sierra also sold an Atari ST version, which magazines previewed in 1986 and reviewed in 1989[^ref-23][^ref-24][^ref-26][^ref-27]. An MSX2 version followed in Japan in December 1988, ported by Pony Canyon under the title ケンペレンチェス[^ref-5][^ref-7]. Under the Kempelen name, the program played in the World Microcomputer Chess Championships of the 1980s, but it finished at or near the bottom each time[^ref-1][^ref-12][^ref-18][^ref-20].
+Sierra also sold an Atari ST version, which magazines previewed in 1986 and reviewed in 1989[^ref-23][^ref-24][^ref-26][^ref-27]. An MSX2 version followed in Japan in December 1988, ported by Pony Canyon under the title ケンペレンチェス[^ref-5][^ref-7]. Under the Kempelen name, the program played in the World Microcomputer Chess Championships of the 1980s, but it finished at or near the bottom in each recorded result[^ref-1][^ref-12][^ref-18][^ref-20].
 
 The Spacious Mind, a retro computer-chess site, puts the Commodore 64 version's strength at roughly 1150–1250 Elo. The site calls the program "suitable for beginners and casual players"[^ref-6].
 
@@ -49,7 +49,7 @@ The name refers to Wolfgang von Kempelen (1734–1804), whose chess "automaton",
 
 The Commodore 64 version shows the board from above and draws the pieces as graphics, while moves are typed at a text prompt. It accepts only legal moves[^ref-16]. The Spacious Mind lists the keyboard for both move entry and option selection[^ref-6]. Lemon64 gives the main control as a joystick in port 2[^ref-2].
 
-The Spacious Mind ran the game through a PC link and describes its commands as PC keystrokes. In that setup, the player holds TAB and presses a number key to change level. TAB + P makes the program play its move at once, and TAB + N starts a new game[^ref-6]. Pressing the space bar shows the move list and chess clocks[^ref-6].
+The Spacious Mind's page is headed "Commodore 64 Emulator" and gives its commands as PC keystrokes, as used under an emulator: holding the TAB key "on your PC" and pressing a number key changes the level, TAB + P makes the program play its move at once, and TAB + N starts a new game[^ref-6]. In the VICE emulator manual's example of a typical C64 keymap, the PC's TAB key is mapped to the C64's Commodore (CBM) key[^ref-30]. Pressing the space bar shows the move list and chess clocks[^ref-6].
 
 The Atari ST version, by contrast, was built around a manipulable 3-D board. ST-Log reported that "the board can be rotated or tilted, in order to be seen from another perspective (including 3-D), and colors can be set to your preference"[^ref-23]. Atari 1ST Magazine found that the board's position, orientation and tilt, the piece set and the colours could all be reconfigured. Moving pieces, however, meant dragging a white square around the board with a jerky mouse[^ref-27]. Micro News likewise found mouse movement so awkward that it was better to type moves at the keyboard[^ref-26].
 
@@ -111,7 +111,7 @@ The Chess Programming Wiki describes Kempelen as "a chess program written by Att
 
 **Commodore 64.** The C64 title screen credits Attila Kovács, István Bilek and Tamás Révbíró, under Andromeda Software and Sierra branding with a 1986 copyright[^ref-17]. MobyGames credits the same three people[^ref-16]. Lemon64 lists all three as coders[^ref-2]. No source located gives Bilek a separate role, such as chess consultant.
 
-**Spelling conflict.** The third name is spelled differently across sources. MobyGames credits "Tamás Révbíró"[^ref-16]. The title screen's small pixel font reads with a "b" (not a "k") and ends in "-ró"[^ref-17]. Lemon64 and the Chess Programming Wiki give "Tamás Révkirá"[^ref-2][^ref-1]. This page follows the in-game title screen and MobyGames.
+**Spelling conflict.** The third name is spelled differently across sources. MobyGames credits "Tamás Révbíró"[^ref-16]. On the title screen, viewed at the pixel level, the letter after "Rév" is a tall solid glyph unlike the "k" in "Bilek" on the same screen, so it reads as "b", and the name ends in an accented "-ró". The mark over the "i" is too small to tell an acute accent from a plain dot[^ref-17]. Lemon64 and the Chess Programming Wiki give "Tamás Révkirá"[^ref-2][^ref-1]. This page follows the in-game title screen and MobyGames.
 
 **Atari ST.** A first-hand account complicates the Kovács-only credit for the 68000 version. In *Mikroszámítógép Magazin* (July 1987), Gyula Horváth wrote about the 1986 Dallas championship and called the Atari Kempelen "my program". The magazine's game score likewise credits "Atari Kempelen (Készítette: Horváth Gyula)", meaning "made by Gyula Horváth"[^ref-25].
 
@@ -253,9 +253,9 @@ Sierra's own price list advertised Kempelen Chess as "State-of-the-art in chess 
 [^ref-11]: [Wikipedia – Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk) – First displayed 1770; hidden chess master; games against Napoleon and Franklin; exhibited 84 years; destroyed by fire 1854
 [^ref-12]: [Chess Programming Wiki – WMCCC 1985](https://www.chessprogramming.org/WMCCC_1985) – Amateurs standings: Kempelen (HU, Commodore 128) 4th of 5 with 1½/7
 [^ref-14]: [Chesstroid – Commodore 64 Revisited](https://chesstroid.blogspot.com/2014/05/commodore-64-revisited-retro-chess.html) – Kempelen 16th of 22 C64 programs at 1156; ratings "collected on internet"
-[^ref-15]: [Lemon64 Forum – What's the best chess game on the C64](https://www.lemon64.com/forum/viewtopic.php?t=5559) – Forum member recommends Kempelen, "made by fellow hungarian guys"
+[^ref-15]: [Lemon64 Forum – What's the best chess game on the C64](https://www.lemon64.com/forum/viewtopic.php?t=5559) – Forum member recommends Kempelen, "made by fellow hungarian guys"; [Wayback copy (2023-04-29)](http://web.archive.org/web/20230429171616/https://www.lemon64.com/forum/viewtopic.php?t=5559)
 [^ref-16]: [MobyGames – Kempelen (C64)](https://www.mobygames.com/game/122952/kempelen/) – 1986 Commodore 64; Sierra On-Line publisher, Andromeda Software developer; 1-player vs computer; 10 levels; text-prompt moves; credits Kovács, Bilek, Révbíró
-[^ref-17]: [MobyGames – Kempelen C64 title screen](https://www.mobygames.com/game/122952/kempelen/screenshots/c64/963425/) – In-game title screen: Sierra logo, © 1986, credits Attila Kovács, István Bilek, Tamás Révbíró, Andromeda Software logo
+[^ref-17]: [MobyGames – Kempelen C64 title screen](https://www.mobygames.com/game/122952/kempelen/screenshots/c64/963425/) – In-game title screen: Sierra logo, © 1986, credits Attila Kovács, István Bilek, Tamás Révbíró (the "b" and final "ó" are legible; the "i" accent is not), Andromeda Software logo; [Wayback copy of the image](http://web.archive.org/web/20230531141413im_/https://cdn.mobygames.com/screenshots/7951016-kempelen-commodore-64-title-screen.png) (viewed 2026-10-29)
 [^ref-18]: [Chess Programming Wiki – WMCCC 1986](https://www.chessprogramming.org/WMCCC_1986) – Kempelen (HU, 68000) 14th of 14 with 0/7; programmer listed as Attila Kovács
 [^ref-19]: [Chess Programming Wiki – WMCCC 1988](https://www.chessprogramming.org/WMCCC_1988) – Standings do not include Kempelen; Hungarian entry Pandix (Gyula Horváth, Zsuzsa Horváth)
 [^ref-20]: [Chess Programming Wiki – WMCCC 1989](https://www.chessprogramming.org/WMCCC_1989) – Software Group: "Kempelen Atari" (HU, 68000) 7th of 9 with 1 point
@@ -268,3 +268,4 @@ Sierra's own price list advertised Kempelen Chess as "State-of-the-art in chess 
 [^ref-27]: [Atari 1ST Magazine, No. 17 (February 1989), chess dossier, "Kempelen Chess – Un essai raté", pp. 48–49](https://archive.org/details/atart1st-magazine-17/page/n24/mode/1up) – Four-way ST chess comparison; Kempelen last with 0 points; reviewer criticises play and move entry (checked against page scan)
 [^ref-28]: [C64-Wiki – Andromeda Software](https://www.c64-wiki.com/wiki/Andromeda_Software) – British distributor brokering Eastern Bloc (mainly Hungarian) programmers to Western publishers; founded 1982 by Robert Stein; backed by Novotrade; lists Kempelen
 [^ref-29]: [MobyGames – Kempelen Chess MSX credits](https://www.mobygames.com/game/20119/kempelen-chess/credits/msx/) – Logic by Attila Kovács; Made by SCH, Kadocsa Tassonyi (Kadocsa)
+[^ref-30]: [VICE Manual – 3. System files (keymap files)](https://vice-emu.sourceforge.io/vice_3.html) – "a typical GTK C64 symbolic mapping" includes "Tab … /* TAB -> CBM (can be combined with SHIFT) */"
