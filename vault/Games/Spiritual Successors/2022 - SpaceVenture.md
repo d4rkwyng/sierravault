@@ -10,21 +10,21 @@ series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Alumni Project
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: SpaceVenture is a science fiction comedy adventure game developed by
   the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
 tags: [2020s, adventure, sierra, spaceventure, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 
 ## Overview
 
-SpaceVenture is a science fiction comedy adventure game developed by the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest series[^ref-1]. Announcing their return, Mark Crowe and Scott Murphy joked that "after a brief 25+ year hiatus" they had "joined forces once again" to make a new space adventure, a spiritual successor to their beloved franchise[^ref-2]. The game follows Ace Hardway, a "Life Support Systems technician" (essentially a space plumber), and his robotic dog Rooter on an epic intergalactic misadventure[^ref-3].
+SpaceVenture is a science fiction comedy adventure game developed by the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest series[^ref-1]. Announcing their return, Mark Crowe and Scott Murphy joked that "after a brief 25+ year hiatus" they had "joined forces once again" to make a new space adventure[^ref-2], intended as a spiritual successor to the Space Quest series[^ref-5]. The game follows Ace Hardway, a "Life Support Systems technician" (essentially a space plumber), and his robotic dog Rooter on an epic intergalactic misadventure[^ref-3].
 
-Originally announced on March 25, 2012[^ref-2] and funded through a Kickstarter campaign that ran from May 8 to June 12, 2012, raising $539,767[^ref-4], SpaceVenture experienced a tumultuous decade-long development cycle marked by numerous delays, technical challenges, and personal setbacks for the developers[^ref-5]. The game finally released to Kickstarter backers on September 16, 2022[^ref-6]. Its first public release came on April 1, 2025, through Steam Early Access[^ref-3][^ref-5], after the team moved the game to the latest version of Unity and ran several rounds of QA and backer beta testing[^ref-18]. The full release, v2.08.01, followed on Steam on December 23, 2025[^ref-3][^ref-21].
+Originally announced on March 25, 2012[^ref-2] and funded through a Kickstarter campaign that ran from May 8 to June 12, 2012, raising $539,767[^ref-4][^ref-23], SpaceVenture experienced a tumultuous decade-long development cycle marked by numerous delays, technical challenges, and personal setbacks for the developers[^ref-5]. The game finally released to Kickstarter backers on September 16, 2022[^ref-6]. Its first public release came on April 1, 2025, through Steam Early Access[^ref-3][^ref-5], after the team moved the game to the latest version of Unity and ran several rounds of QA and backer beta testing[^ref-18]. The full release, v2.08.01, followed on Steam on December 23, 2025[^ref-3][^ref-21].
 
 > [!info]- Game Info
 > **Developer:** Guys from Andromeda[^ref-7]
@@ -39,7 +39,7 @@ Originally announced on March 25, 2012[^ref-2] and funded through a Kickstarter 
 
 ## Story Summary
 
-SpaceVenture takes players on a sci-fi comedy adventure that combines interplanetary exploration, puzzle-solving, and space travel, featuring "pant loads" of pop culture satire and clean "potty" humor characteristic of the Space Quest series[^ref-7]. The game follows protagonist Ace Hardway, described as a space plumber or "Life Support Systems technician," accompanied by his robotic companion Rooter[^ref-3]. The narrative maintains the irreverent tone that made the original Space Quest games memorable, and reviewers singled out its pop culture references and easter eggs[^ref-10].
+SpaceVenture takes players on a sci-fi comedy adventure that combines interplanetary exploration, puzzle-solving, and space travel, featuring "pant loads" of pop culture satire and clean "potty" humor characteristic of the Space Quest series[^ref-7]. The game follows protagonist Ace Hardway, described as a space plumber or "Life Support Systems technician," accompanied by his robotic companion Rooter[^ref-3]. The narrative maintains the irreverent tone that made the original Space Quest games memorable, and one reviewer singled out its pop culture references and easter eggs[^ref-10].
 
 ## Gameplay
 
@@ -47,7 +47,7 @@ SpaceVenture takes players on a sci-fi comedy adventure that combines interplane
 SpaceVenture utilizes a traditional point-and-click adventure game interface reminiscent of classic Sierra titles, built around a Sierra-style icon wheel[^ref-1][^ref-10]. The game features a "point and select" control scheme with a third-person perspective[^ref-7]. However, reviewers have noted significant issues with the user interface, with one critic describing it as "a daft user interface" that detracts from the overall experience[^ref-11].
 
 ### Structure and Progression
-The game is described as offering "a cohesive adventure game experience and story that is playable from start to finish"[^ref-12]. Players navigate through various sci-fi environments solving puzzles in the traditional adventure game style. The developers have maintained their philosophy that "this is a Two Guys From Andromeda game, and that means one thing for sure, you're going to need a keycard if you want to get through a closed door at some point!"[^ref-13]
+The developers described the Early Access version as offering "a cohesive adventure game experience and story that is playable from start to finish"[^ref-18]. Players navigate through various sci-fi environments solving puzzles in the traditional adventure game style. The developers have maintained their philosophy that "this is a Two Guys From Andromeda game, and that means one thing for sure, you're going to need a keycard if you want to get through a closed door at some point!"[^ref-13]
 
 ### Puzzles and Mechanics
 SpaceVenture incorporates the quirky puzzles and offbeat humor that characterized the original Space Quest series[^ref-9]. The game includes memorable death sequences, a retro adventure gaming interface, and hand-crafted artwork designed to make players "feel right at home"[^ref-9]. However, technical implementation has been problematic, with one reviewer noting that "the biggest flaw with the interface, however, is the save system. What a hot mess."[^ref-1]
@@ -63,11 +63,11 @@ SpaceVenture incorporates the quirky puzzles and offbeat humor that characterize
 | Chordian.net | 6/10 | Called it "a buggy mess with a daft user interface"[^ref-11] |
 | Impulse Gamer | 4/5 | Reviewed the Early Access build; liked the pop culture references and easter eggs but found the controls and UI clunky[^ref-10] |
 | Steam User Reviews | 87% Very Positive | 87% of 81 user reviews positive (as of October 2026)[^ref-3] |
-| MobyGames (critic average) | 68% | Average of 3 critic ratings (as of October 2026)[^ref-7] |
+| MobyGames (critic average) | 72% | Average of 2 critic ratings (as of February 2026)[^ref-7] |
 
 ### Modern Assessment
 
-The game has received mixed to negative reviews from critics[^ref-5], with many praising the nostalgic elements and humor while criticizing the technical execution. Adventure Game Hotspot's reviewer noted: "It's a shame that the lack of polish really lets it down in its current state, as at its core SpaceVenture is a funny, good-looking game with an interesting story that will surely be enough to satisfy Space Quest fans"[^ref-1]. John Walker of Kotaku, reviewing the April 2025 Early Access release, was harsher, calling it "a colossal disaster"[^ref-14]. Despite critical issues, Steam users rate the game "Very Positive", with 87% of 81 reviews positive[^ref-3].
+Wikipedia summarizes the game's reception as negative, with reviewers noting it still felt buggy and unfinished[^ref-5], though the published scores above run from 6/10 to 4/5[^ref-10][^ref-11], with many praising the nostalgic elements and humor while criticizing the technical execution. Adventure Game Hotspot's reviewer noted: "It's a shame that the lack of polish really lets it down in its current state, as at its core SpaceVenture is a funny, good-looking game with an interesting story that will surely be enough to satisfy Space Quest fans"[^ref-1]. John Walker of Kotaku, reviewing the April 2025 Early Access release, was harsher, calling it "a colossal disaster"[^ref-14]. Despite critical issues, Steam users rate the game "Very Positive", with 87% of 81 reviews positive[^ref-3].
 
 ## Development
 
@@ -77,7 +77,7 @@ The reunion of Scott Murphy and Mark Crowe began in 2012 when Mark reached out t
 The project's conception reflected the nostalgia wave sweeping through crowdfunded gaming. As the Two Guys themselves stated: "We aren't straying from what has been a successful formula. We're back to make more while also incorporating what we've learned from you via comments made from the days of snail-mail and moving to email and social media"[^ref-2]. They acknowledged fan feedback, noting "It's been interesting to learn what you've found fun, funny and/or annoying, and what games you've favored. Clearly, not everyone has well rated taste but we can work around that"[^ref-2].
 
 ### Production
-Development began after a Kickstarter campaign that ran from May 8 to June 12, 2012, which exceeded its $500,000 goal and raised $539,767[^ref-4]. The initial delivery was estimated for February 2013[^ref-4], but the project experienced numerous delays; critics pointed to the developers being out of their depth with the Unity engine, lacking expertise and resources, and to personal problems unrelated to development[^ref-5]. The team faced significant setbacks when "Mark and Chris both lost their mothers during a span of time in the last few months," contributing to development delays[^ref-15].
+Development began after a Kickstarter campaign that ran from May 8 to June 12, 2012, which exceeded its $500,000 goal and raised $539,767 from 10,809 backers[^ref-4][^ref-23]. The initial delivery was estimated for February 2013[^ref-4], but the project experienced numerous delays; critics pointed to the developers being out of their depth with the Unity engine, lacking expertise and resources, and to personal problems unrelated to development[^ref-5]. The team faced significant setbacks when "Mark and Chris both lost their mothers during a span of time in the last few months," contributing to development delays[^ref-15].
 
 ### Voice Cast
 
@@ -114,6 +114,8 @@ As one reviewer summarized: "It feels like the producers just pushed it out the 
 | Version | Date | Notes |
 |---------|------|-------|
 | v2 (Early Access) | April 1, 2025 | Steam Early Access release[^ref-3] |
+| Sewer Plant Patch | April 2, 2025 | Fixed soft locks caused by repeated attempts at the sewer plant blender puzzle[^ref-21] |
+| v2.07.03 | April 8, 2025 | Early Access fixes for Rooter interactions and Garage/Weldon soft locks[^ref-21] |
 | v2.08.01 | December 23, 2025 | Full release: improved save/load system, 22 Steam achievements, full version of Cluck Yegger included, bug fixes[^ref-21] |
 | v2.08.02 | December 26, 2025 | Patch fixing Pipes scene bug[^ref-21] |
 | v2.08.03 | December 26, 2025 | Small bug fix[^ref-21] |
@@ -153,7 +155,7 @@ The team has continued supporting the game after its full release, with patches 
 
 **Purchase / Digital Stores**
 - [Steam - $14.99](https://store.steampowered.com/app/1374960/SpaceVenture/)[^ref-3]
-- [itch.io - $14.99 (DRM-free, includes a Steam key)](https://guysfromandromeda.itch.io/spaceventure)[^ref-19]
+- [itch.io - $14.99 (DRM-free, includes a Steam key)](https://guysfromandromeda.itch.io/spaceventure)[^ref-19][^ref-9]
 
 ## See Also
 
@@ -184,17 +186,17 @@ The team has continued supporting the game after its full release, with patches 
 [^ref-6]: [Time Extension](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – Backer release on September 16, 2022; other platforms planned later
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/192353/spaceventure/) – Developer/publisher, genre and interface, ad blurb, critic average
 [^ref-8]: [Game Developer](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Designer credits and reunion story
-[^ref-9]: [Guys from Andromeda](https://guysfromandromeda.com/) – Game features description
+[^ref-9]: [Guys from Andromeda](https://guysfromandromeda.com/) – Game features description; DRM-free version sold on itch.io
 [^ref-10]: [Impulse Gamer](https://www.impulsegamer.com/space-venture-pc-review/) – Chris O'Connor's 4/5 review of the Early Access build (April 2025)
 [^ref-11]: [Chordian.net](https://blog.chordian.net/2023/04/23/spaceventure/) – Interface criticism
-[^ref-12]: [Larry Laffer](http://larrylaffer.net/archives/5199) – Mirror of Kickstarter update on the Early Access version
 [^ref-13]: [Guys from Andromeda Hint Guide](https://guysfromandromeda.com/spaceventure-hint-guide/) – Design philosophy quote
 [^ref-14]: [Kotaku](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) – John Walker on the April 2025 Early Access release
 [^ref-15]: [SierraChest](https://www.sierrachest.com/index.php?a=news&pid=464) – Development delays explanation
 [^ref-16]: [Time Extension](https://www.timeextension.com/news/2022/09/10-years-later-space-quest-successor-spaceventure-emerges-from-development-hell) – Frank Cifaldi's comments on the 2022 backer release
 [^ref-17]: [IGN](https://www.ign.com/articles/2014/09/15/spaceventure-the-new-game-from-the-creators-of-space-quest) – 2014 interview: 2.5D design goals, Activision contact
-[^ref-18]: [Kickstarter Update – SpaceVenture v2 about to go into early release on Steam!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4278390) – v2 development phases and planned April 1 Early Access launch
-[^ref-19]: [itch.io – SpaceVenture](https://guysfromandromeda.itch.io/spaceventure) – DRM-free Windows version, $14.99, comes with a Steam key
+[^ref-18]: [Kickstarter Update – SpaceVenture v2 about to go into early release on Steam!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4278390) – Update #133 (March 28, 2025): v2 development phases, planned April 1 Early Access launch, description of the Early Access version
+[^ref-19]: [itch.io – SpaceVenture](https://guysfromandromeda.itch.io/spaceventure) – Windows version, $14.99, comes with a Steam key
 [^ref-20]: [Adventure Game Hotspot – SpaceVenture Review (2026)](https://adventuregamehotspot.com/review/6234/spaceventure) – Sam Amiotte-Beaulieu's 73% review of the post-Early Access full release
-[^ref-21]: [Steam – SpaceVenture Announcements](https://steamcommunity.com/app/1374960/announcements/) – Official patch notes, v2.08.01 full release (Dec 23, 2025) through v2.08.11 (2026)
+[^ref-21]: [Steam – SpaceVenture Announcements](https://steamcommunity.com/app/1374960/announcements/) – Official patch notes, Early Access patches (Apr 2025) and v2.08.01 full release (Dec 23, 2025) through v2.08.11 (2026)
 [^ref-22]: [MobyGames – SpaceVenture credits (Windows)](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Voice actor roles and music credits
+[^ref-23]: [Kickstarter – Two Guys SpaceVenture - by the creators of Space Quest](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) – Campaign page: $539,767 pledged of a $500,000 goal by 10,809 backers; funding period May 8 – Jun 12, 2012
