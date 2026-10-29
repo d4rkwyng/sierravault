@@ -10,7 +10,7 @@ series: Cohort
 engine: Unknown
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: 'Cohort II: Fighting for Rome is a 1993 real-time tactics game by Impressions
   Games for DOS, Amiga and Atari ST, a VGA upgrade of Cohort that can resolve the battles
   of Impressions'' Caesar.'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -53,9 +53,9 @@ The harshest verdict on control came from the Old-Games.com review, which stated
 
 ### Structure and Progression
 
-According to the publisher's description, "over two dozen scenarios are provided (with the separate Scenario Cards)"[^ref-2]. Players can command either Roman or barbarian forces[^ref-5]. Reviewers gave differing counts: ST Format said the game "contains up to nineteen different scenarios" and that players can also create their own[^ref-5]; Amiga Joker counted eight preset armies and twenty battle scenarios in total (translated from German)[^ref-4]; and Amiga Format noted that "ten new arenas of combat are unveiled by the sequel"[^ref-4]. Both ST Format and Amiga Power cite eight terrain types, which ST Format lists as open field, bridge, cliff, hill, marsh, downs, undergrowth and forest[^ref-4][^ref-5].
+According to the publisher's description, "over two dozen scenarios are provided (with the separate Scenario Cards)"[^ref-2]. Players can command either Roman or barbarian forces[^ref-5]. Reviewers gave differing counts: ST Format said the game "contains up to nineteen different scenarios" and that players can also create their own[^ref-5]; Amiga Joker counted eight preset armies and twenty battle scenarios in total (translated from German)[^ref-4]; CU Amiga wrote that "There are 16 preset scenarios"[^ref-4]; and Amiga Format noted that "ten new arenas of combat are unveiled by the sequel"[^ref-4]. Both ST Format and Amiga Power cite eight terrain types, which ST Format lists as open field, bridge, cliff, hill, marsh, downs, undergrowth and forest[^ref-4][^ref-5].
 
-Computer Gaming World's June 1993 listing coded the game "Int/Land/Tac/1-2" (one to two players) and gave its price as $29.95[^ref-22]. Amiga Power, reviewing the Amiga version, complained that "there's no two-player option"[^ref-4].
+Computer Gaming World's June 1993 listing coded the game "Int/Land/Tac/1-2" (one to two players) and gave its price as $29.95[^ref-22]. Amiga Power, reviewing the Amiga version, complained that "there's no two-player option"[^ref-4], and the Old-Games.com review likewise found that "Lack of a multi-player mode is surprising in a war game"[^ref-7].
 
 ### Puzzles and Mechanics
 
@@ -69,7 +69,7 @@ The Old-Games.com review found the scenario editor/builder "difficult to operate
 
 Cohort II received mostly negative to mediocre reviews, particularly in the Amiga press, which covered the title in May–July 1993[^ref-10].
 
-**Amiga Format** awarded the game 55% in its June 1993 issue (#47), reviewed by Paul Tyrrell[^ref-10]. The review concluded that "all the enhanced graphics and sound in the world won't save a flawed formula" and that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. **Amiga Power** gave a score of 52% in its June 1993 issue (#26), reviewed by Mark Winstanley (styled "Cam" Winstanley in the review)[^ref-10][^ref-4]; it judged the game "Only worth considering if you want it as an expansion for Caesar"[^ref-4].
+**Amiga Format** awarded the game 55% in its June 1993 issue (#47), reviewed by Paul Tyrrell[^ref-10]. The review argued that "all the enhanced graphics and sound in the world won't save a flawed formula" and that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. **Amiga Power** gave a score of 52% in its June 1993 issue (#26), reviewed by Mark Winstanley (styled "Cam" Winstanley in the review)[^ref-10][^ref-4]; it judged the game "Only worth considering if you want it as an expansion for Caesar"[^ref-4].
 
 **The One** provided the highest Amiga score at 63% in its May 1993 issue (#56), reviewed by David Upchurch[^ref-10]. **Amiga Action** awarded 59% in its June 1993 issue (#45), reviewed by Nick Merritt and Steve McNally[^ref-10]. **CU Amiga** gave only 35% in June 1993 (reviewer Mark Patterson)[^ref-10], calling it "an extremely shoddy package which looks as though it was chucked together on a wet weekend"[^ref-4]. **Amiga Force** gave 39% in its July 1993 issue (#7), reviewed by Ian Osborne[^ref-10].
 
@@ -79,7 +79,7 @@ The lowest score came from the German magazine **Amiga Joker**, which awarded 28
 
 ### Modern Assessment
 
-MobyGames aggregates a critic score of 43% based on 11 ratings, with a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.2[^ref-1][^ref-12]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
+As of October 2026, MobyGames aggregates a critic score of 43% based on 11 ratings, with a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.2[^ref-1][^ref-12]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
 
 **Aggregate Scores:**
 - **MobyGames:** 43% critic average (11 ratings), 2.9/5 player average (6 ratings)[^ref-12]
@@ -170,14 +170,10 @@ No official hint books, strategy guides, or novelizations have been documented f
 
 Cohort II was a modest sequel whose reception was largely negative. While the game simulates ancient Roman warfare, Home of the Underdogs judged that its tactical implementation "bears no relation to history"[^ref-3]. Its main distinguishing feature was its link with Caesar, which let Caesar owners resolve city battles within Cohort II[^ref-1], and several reviews framed it chiefly as a Caesar companion rather than a standalone game[^ref-3][^ref-4].
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-ii-fighting-for-rome-1993)
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available for digital purchase
+- Not currently available for digital purchase; GOG lists it only as a [Dreamlist](https://www.gog.com/dreamlist/game/cohort-ii-fighting-for-rome-1993) wishlist entry
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Cohort_2_1993) - Browser playable version[^ref-2]
