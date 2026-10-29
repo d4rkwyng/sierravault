@@ -10,20 +10,20 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: Hoyle Casino 2004 is a casino simulation game developed and published
   by Sierra Entertainment, released on September 2, 2003 for Windows PC...
 tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2004 is a casino simulation game developed and published by Sierra Entertainment, released on September 2, 2003 for Windows PC.[^ref-1][^ref-2][^ref-21] Retail listings carried the manufacturer's blurb describing Hoyle Casino Games as "the best-selling casino game of all time."[^ref-3] Set in a realistic Las Vegas environment, the game offered players the opportunity to experience the sights and sounds of Vegas gambling from the comfort of their homes.[^ref-4]
+Hoyle Casino 2004 is a casino simulation game developed and published by Sierra Entertainment, released on September 2, 2003 for Windows PC.[^ref-1][^ref-2][^ref-21] Retail listings carried the manufacturer's blurb describing Hoyle Casino Games as "the best-selling casino game of all time."[^ref-3] Its description promised that "all the sights and sounds of Vegas are back, with more twists than before."[^ref-4]
 
-The edition continued the annual Hoyle Casino line that Sierra had been releasing since the late 1990s, and Sierra followed it a year later with Hoyle Casino [2005], released December 1, 2004.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
+The edition continued the annual Hoyle Casino line that Sierra had been releasing since 1996, and Sierra followed it a year later with Hoyle Casino [2005], released December 1, 2004.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
 
 Hoyle Casino 2004 drew mixed reactions from Amazon customers, some of whom felt it added little value compared to the previous 2003 edition.[^ref-3] The ESRB rated it T (Teen) for Gambling,[^ref-7] and the retail product was eventually discontinued by the manufacturer.[^ref-3][^ref-16]
 
@@ -50,7 +50,7 @@ The game utilized a status progression system represented by different colored p
 
 Players began their casino journey with $5,000 in starting money and could create their own accounts and character appearances before entering the virtual casino.[^ref-6] The game tracked player progress and allowed them to work toward accumulating larger bankrolls, with the ultimate goal of "striking it rich" in the Las Vegas-style environment.[^ref-6]
 
-The experience was enhanced by interactive characters that "speak their minds" as players challenged opponents, and a reward system that allowed players to upgrade their virtual drinks from "a simple soda to a big-time beverage" as they raised their bets.[^ref-1] Up to four players could play offline on one machine.[^ref-23]
+The experience was enhanced by interactive characters that "speak their minds" as players challenged opponents, and a reward system that allowed players to upgrade their virtual drinks from "a simple soda to a big-time beverage" as they raised their bets.[^ref-1] MobyGames singles out the drinks system and the ability to talk back to the other characters at the table as new in this release.[^ref-23] Up to four players could play offline on one machine.[^ref-23]
 
 ### Games Included
 
@@ -74,11 +74,9 @@ Some players reported issues with what they perceived as a "skewed random number
 
 ### Modern Assessment
 
-The game maintains a modest reputation among casino simulation enthusiasts, though it lacks substantial critical documentation on major review aggregation sites.
-
 **Aggregate Scores:**
 - **MobyGames:** 74% critic average (1 review), 4.0/5 player average (1 rating)[^ref-11]
-- **Amazon Customer Reviews:** 3.6/5 stars (28-35 global ratings)[^ref-3][^ref-8]
+- **Amazon Customer Reviews (as of October 28, 2026):** 3.9/5 from 36 global ratings on Amazon.ca; 4.0/5 from 30 global ratings on Amazon.es and Amazon.in[^ref-3][^ref-8][^ref-16]
 - **GameFAQs:** Outstanding rating (1 user rating)[^ref-1]
 
 The game received limited coverage from mainstream gaming publications, with Metacritic showing no aggregated critic scores available for the title.[^ref-2]
@@ -91,7 +89,7 @@ Hoyle Casino 2004 was developed as part of Sierra Entertainment's Hoyle Casino s
 
 ### Production
 
-Sierra Entertainment served as both developer and publisher for Hoyle Casino 2004.[^ref-1][^ref-2] Retail listings show the game branded under Sierra, with Vivendi Universal named as manufacturer; RAWG credits Vivendi Universal Games as developer and publisher.[^ref-3][^ref-18] The release kept the core casino simulation experience while offering character customization and support for up to four players on a single computer.[^ref-1]
+Sierra Entertainment served as both developer and publisher for Hoyle Casino 2004.[^ref-1][^ref-2][^ref-10] Retail listings show the game branded under Sierra, with Vivendi Universal named as manufacturer; RAWG credits Vivendi Universal Games as developer and publisher.[^ref-3][^ref-18] The release kept the core casino simulation experience while offering character customization and support for up to four players on a single computer.[^ref-1]
 
 The ESRB's ratings entry lists both Windows PC and Pocket PC as platforms.[^ref-7] No other source consulted (MobyGames, IGDB, GameSpy, Metacritic, retail listings) documents a Pocket PC release; all list Windows only.[^ref-2][^ref-3][^ref-10][^ref-21][^ref-23]
 
@@ -152,7 +150,7 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
-- [Internet Archive search](https://archive.org/search?query=Hoyle+Casino)
+- [Internet Archive – Hoyle Casino 2004 (USA), Redump disc image](https://archive.org/details/Nova_Hoyle-Casino-2004_USA)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/Hoyle+Casino)
 
 ## See Also
@@ -223,7 +221,7 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 [^ref-7]: [ESRB – Hoyle Casino 2004](https://www.esrb.org/ratings/8960/hoyle-casino-2004/) – platforms, rating, content descriptors, publisher
 [^ref-8]: [Amazon Spain – Hoyle Casino 2004](https://www.amazon.es/-/en/020626720090-Hoyle-Casino-2004/dp/B000083JXU) – platforms, games included, customer ratings, features
 [^ref-9]: [GameFAQs – Hoyle Casino 2004 User Review](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004/reviews/72620) – detailed user review, scores, gameplay commentary
-[^ref-10]: [GameSpy – Hoyle Casino 2004](http://pc.gamespy.com/pc/hoyle-casino-2004/) – games list, release date, ESRB rating
+[^ref-10]: [GameSpy – Hoyle Casino 2004](http://pc.gamespy.com/pc/hoyle-casino-2004/) – games list, release date, ESRB rating; [archived 2004 copy](https://web.archive.org/web/20040922214804/http://pc.gamespy.com:80/pc/hoyle-casino-2004/) – developer and publisher Sierra, release date September 2, 2003
 [^ref-11]: [MobyGames – Hoyle Casino 2004 Reviews](https://www.mobygames.com/game/11804/hoyle-casino-2004/reviews/) – aggregate scores
 [^ref-12]: [LaunchBox – Hoyle Casino 2004 Images](https://gamesdb.launchbox-app.com/games/images/122499-hoyle-casino-2004) – release date confirmation
 [^ref-13]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch version 1.1
@@ -233,4 +231,4 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 [^ref-18]: [RAWG – Hoyle Casino 2004](https://rawg.io/games/hoyle-casino-2004) – alternate release date listing, developer attribution
 [^ref-21]: [IGDB – Hoyle Casino 2004](https://www.igdb.com/games/hoyle-casino-2004) — Internet Games Database entry; platform PC (Microsoft Windows), release 9/2/2003
 [^ref-22]: [GameSpy – Hoyle Casino (2005)](http://pc.gamespy.com/pc/hoyle-casino-2005/) – Sierra developer/publisher, US release December 1, 2004
-[^ref-23]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows release September 2, 2003, ESRB Teen, CD-ROM, 1-4 offline players, no credits listed
+[^ref-23]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows release September 2, 2003, ESRB Teen, CD-ROM, 1-4 offline players, drinks system and talk-back new in this release, no credits listed (read via the MobyGames API)
