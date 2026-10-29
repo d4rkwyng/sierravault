@@ -10,7 +10,7 @@ series: Metaltech
 engine: 3-Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'The *Metaltech Earthsiege Expansion Pack* is a 1995 add-on for *Metaltech:
   Earthsiege*, developed by Dynamix and published by Sierra On-Line, adding three new
   campaigns, new landscapes, the Apocalypse HERC and new Cybrid weapons.'
@@ -18,11 +18,11 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995.[^ref-1][^ref-24][^ref-49][^ref-51] The expansion continued the struggle between humanity and the Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] It adds three new campaigns, several new landscapes, a new HERC (the Apocalypse) and several new Cybrid weapons, and it requires the original game to play.[^ref-1][^ref-24]
+The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995.[^ref-1][^ref-24][^ref-49] The expansion continued the struggle between humanity and the Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] It adds three new campaigns, several new landscapes, a new HERC (the Apocalypse) and several new Cybrid weapons, and it requires the original game to play.[^ref-1][^ref-24]
 
 The setting is the 25th or 26th century,[^ref-27] and the expansion keeps the game's core premise of piloting HERCs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) against automated Cybrid enemies.[^ref-3] The game's official description sets it up this way: "The attack on Earth by the Cybrids has been repelled and humanity is starting to rebuild. But a second wave is already incoming, and the battle starts again."[^ref-1]
 
@@ -31,10 +31,6 @@ Dynamix created the Metaltech universe as its own setting after losing the Battl
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-17]
 > **Designer:** [[David Selle]][^ref-17]
-> **Producer:** [[Mark Crowe]][^ref-17]
-> **Executive Producer:** Jay Balakrishnan[^ref-17]
-> **Lead Programmer:** Paul Bowman[^ref-17]
-> **Art Director:** Robert Caracol[^ref-17]
 > **Publisher:** [[Sierra On-Line]][^ref-1][^ref-17]
 > **Engine:** 3-Space[^ref-51]
 > **Platforms:** DOS[^ref-1]
@@ -42,6 +38,10 @@ Dynamix created the Metaltech universe as its own setting after losing the Battl
 > **Series:** Metaltech
 > **Protagonist:** HERC Pilot (player-named)
 > **Sierra Lineage:** Sierra Label (Dynamix)
+> **Producer:** [[Mark Crowe]][^ref-17]
+> **Executive Producer:** Jay Balakrishnan[^ref-17]
+> **Lead Programmer:** Paul Bowman[^ref-17]
+> **Art Director:** Robert Caracol[^ref-17]
 
 ## Story Summary
 
@@ -55,7 +55,7 @@ The original *Metaltech: Earthsiege* contains 45 missions across 8 campaigns.[^r
 
 ### The Second Wave
 
-The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1]
+The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1] *The Encyclopedia of Science Fiction* describes the expansion as one that "largely repeats the structure of the first game, centred on an attack on Earth by Cybrids who have been rebuilding their strength in space colonies," and notes that *Earthsiege 2* continues the story from the expansion pack.[^ref-52]
 
 ## Gameplay
 
@@ -117,22 +117,22 @@ MobyGames lists a 76% critic average for the expansion, based on three ratings.[
 
 | Publication | Game reviewed | Score | Notes |
 |-------------|---------------|-------|-------|
-| PC Games (Germany), July 1995 | Expansion Pack | 87% | Praised the new content and its localization[^ref-17] |
-| Computer Gaming World, January 1995 | Base game (1994) | 2.5/5 | "The best attempt yet at creating a futuristic simulation of giant armored combat"[^ref-7][^ref-27] |
-| Next Generation, February 1995 | Base game (1994) | 4/5 | "Without a doubt, the finest mech simulator available"[^ref-27] |
+| PC Games (Germany), July 1995 | Expansion Pack | 87% | Praised the new content and its localization (per the Dynamix Wiki)[^ref-17] |
+| Computer Gaming World, January 1995 | Base game (1994) | 2.5/5 | "The best attempt yet at creating a futuristic simulation of giant armored combat"[^ref-56][^ref-7][^ref-27] |
+| Next Generation, February 1995 | Base game (1994) | 4/5 | "Without a doubt, the finest mech simulator available"[^ref-57][^ref-27] |
 
-*Computer Gaming World*'s Jeff James praised the base game's visuals and animation, but criticized its very hard missions, the lack of consequences for failing a mission, and a slew of "tiny, but irritating, glitches and questionable design decisions."[^ref-7]
+*Computer Gaming World*'s Jeff James praised the base game's visuals and animation, but criticized its very hard missions, the lack of consequences for failing a mission, and a host of "tiny, but irritating, glitches and questionable design decisions."[^ref-56][^ref-7]
 
 ### German Localization
 
-*PC Games* praised the expansion's German localization: "All screen texts are available in the German version, and even the voice output has been properly synchronized."[^ref-17]
+*PC Games* praised the expansion's German localization: "All screen texts are available in the German version, and even the voice output has been properly synchronized." (translated from German, via the Dynamix Wiki)[^ref-17]
 
 ### Modern Assessment
 
 | Source | Score |
 |--------|-------|
 | MobyGames (expansion) | 76% critic average, 3 ratings[^ref-1] |
-| MobyGames (base game) | 74% critic average, 14 ratings[^ref-6] |
+| MobyGames (base game) | 74% critic average, 13 ratings[^ref-6] |
 | MyAbandonware (expansion) | 4.56/5 from 18 votes[^ref-24] |
 
 Collection Chamber's retrospective of the base game declared that "EarthSiege is one of the most technically impressive games released in 1994 and is still very playable today."[^ref-3] Its chief complaint is the amount of walking: travelling to the next checkpoint "is a lesson in tedium."[^ref-3]
@@ -173,7 +173,19 @@ The expansion was out by mid-1995: *PC Games* reviewed it in July 1995.[^ref-17]
 
 ### System Requirements
 
-The expansion requires the base game.[^ref-24] Sierra Help lists the following requirements for the base *Metaltech: Earthsiege*:[^ref-15]
+The expansion requires the base game.[^ref-24] MobyGames lists these specifications for the expansion's own DOS release:[^ref-1]
+
+**Expansion Pack (per MobyGames):**
+| Component | Requirement |
+|-----------|-------------|
+| CPU | Intel i386 DX |
+| RAM | 4 MB |
+| Operating System | PC/MS-DOS 5.0 |
+| Media | CD-ROM (1× drive) |
+| Video | VGA |
+| Sound | General MIDI, Pro Audio Spectrum, Sound Blaster |
+
+Sierra Help lists the following requirements for the base *Metaltech: Earthsiege*:[^ref-15]
 
 **Minimum Requirements (base game):**
 | Component | Requirement |
@@ -209,7 +221,7 @@ The base game supports the following sound hardware:[^ref-15]
 | Speech Pack | 1994 | Added digitized speech to the base game[^ref-27] |
 | Expansion Pack | 1995 | New campaigns, HERC, weapons[^ref-1] |
 | Expansion patch | — | Fixes the Campaign 4, Mission 8 crash[^ref-3] |
-| Freeware Release | 2015 | Released free by Hi-Rez Studios[^ref-27][^ref-53] |
+| Base-game freeware release | 2015 | Hi-Rez Studios made the base *Earthsiege* free; no source found names the expansion[^ref-55][^ref-27] |
 
 ## Legacy
 
@@ -219,17 +231,15 @@ The Metaltech universe that *Earthsiege* began went on to include *[[1996 - Eart
 
 ### Preservation Status
 
-MyAbandonware lists the expansion as abandonware.[^ref-24] On October 23, 2010, Hi-Rez Studios announced that it had bought the *Tribes* IP from InstantAction.[^ref-53] In 2015, for the franchise's 21st anniversary, Hi-Rez made every game in the franchise free to download, starting with 1994's *Metaltech: Earthsiege*.[^ref-53][^ref-27]
+MyAbandonware lists the expansion as abandonware.[^ref-24] On October 23, 2010, Hi-Rez Studios announced that it had bought the *Tribes* IP from InstantAction.[^ref-53] In 2015, for the franchise's 21st anniversary, Hi-Rez made every game in the franchise free to download, starting with 1994's *Metaltech: Earthsiege*.[^ref-53][^ref-27] *PC Gamer*'s list of the newly free games names *Earthsiege* and *Earthsiege 2* but not the expansion pack.[^ref-55]
 
 The Collection Chamber maintains a pre-configured DOSBox package that includes the Expansion Pack and the Campaign 4, Mission 8 fix.[^ref-3]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/metaltech-earthsiege-expansion-pack) – Community Dreamlist (not officially available)
-- Released as freeware by Hi-Rez Studios (2015)[^ref-27][^ref-53]
-
-## Downloads
+- Hi-Rez Studios made the base *Earthsiege* free in 2015; no source found says the expansion was included[^ref-55]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/metaltech-earthsiege-expansion-pack-2wb) – DOS version download[^ref-24]
@@ -255,7 +265,7 @@ The Collection Chamber maintains a pre-configured DOSBox package that includes t
 
 ## References
 
-[^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Publisher, release year, official description, 25 credits, 76% critic average
+[^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Publisher, release year, official description, 25 credits, 76% critic average; DOS tech specs (read via the MobyGames API)
 [^ref-3]: [The Collection Chamber – Metaltech: Earthsiege](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Retrospective, gameplay analysis, expansion toggle, Campaign 4 Mission 8 fix
 [^ref-6]: [MobyGames – Metaltech: EarthSiege (base game)](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Official description, 74% critic average, player review
 [^ref-7]: [Dynamix Wiki – Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) – Base-game Computer Gaming World review by Jeff James
@@ -268,6 +278,9 @@ The Collection Chamber maintains a pre-configured DOSBox package that includes t
 [^ref-46]: [MyAbandonware – Metaltech: Earthsiege](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) – Base-game user comments
 [^ref-49]: [IGDB – Metaltech: Earthsiege Expansion Pack](https://www.igdb.com/games/metaltech-earthsiege-expansion-pack) – Internet Games Database entry
 [^ref-51]: [Sierra Chest – Metaltech: Earthsiege: Expansion Pack](https://sierrachest.com/index.php?a=games&id=218&title=earthsiege-1-expansion&fld=general) – Developer, publisher, 3-Space engine
-[^ref-52]: [The Encyclopedia of Science Fiction – Metaltech](https://sf-encyclopedia.com/entry/metaltech) – Dynamix lost the Battletech licence to Activision and created the Metaltech continuity
+[^ref-52]: [The Encyclopedia of Science Fiction – Metaltech](https://sf-encyclopedia.com/entry/metaltech) – Dynamix lost the Battletech licence to Activision and created the Metaltech continuity; the expansion's space-colony premise; *Earthsiege 2* continues from the expansion
 [^ref-53]: [Wikipedia – Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) – Tribes as a Metaltech spin-off; Hi-Rez's 2010 IP purchase from InstantAction; 2015 free release
 [^ref-54]: [Wikipedia – MechWarrior 2: 31st Century Combat](https://en.wikipedia.org/wiki/MechWarrior_2:_31st_Century_Combat) – MS-DOS release date, July 24, 1995
+[^ref-55]: [PC Gamer – Hi-Rez makes previous Tribes games free (Wayback, 2015)](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Full list of newly free games: Earthsiege, Earthsiege 2 and the Tribes titles; no expansion listed
+[^ref-56]: [Computer Gaming World #126 (January 1995) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_126) – Jeff James, "Rock 'Em, Sock 'Em, Robots", pp. 152–156; rating 2½ stars (page image checked)
+[^ref-57]: [Next Generation #2 (February 1995) – Internet Archive](https://archive.org/details/nextgen-issue-002) – "Explosive" review, p. 95: "Without a doubt, the finest mech simulator available." Rating: 4 stars (page image checked)
