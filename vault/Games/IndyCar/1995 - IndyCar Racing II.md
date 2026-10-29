@@ -11,7 +11,7 @@ series: IndyCar Racing
 engine: Racing simulation technology
 protagonist: Racing Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: IndyCar Racing II is a racing simulation of the 1995 CART IndyCar season,
   developed by Papyrus Design Group and published by Sierra On-Line for DOS, Windows 95
   and Macintosh.
@@ -19,18 +19,18 @@ tags: [1990s, indycar-racing, racing, sierra]
 ---
 # IndyCar Racing II
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-IndyCar Racing II is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line[^ref-1]. Sources differ on its release year: DOS Days, Wikidata and GameSpot's history of Papyrus give 1995, while Wikipedia and MobyGames give 1996[^ref-4][^ref-8][^ref-5][^ref-1][^ref-22]. The game is the sequel to 1993's IndyCar Racing and uses many of the improvements introduced in Papyrus' NASCAR Racing[^ref-22][^ref-4]. Based on the 1995 CART season, it featured 15 accurate circuits and fully licensed drivers, liveries and advertisements, and DOS Days calls it "the pinnacle of the computer racing experience when it came out"[^ref-4].
+IndyCar Racing II is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line[^ref-17][^ref-32]. Sources differ on its release year: DOS Days, Wikidata and GameSpot's history of Papyrus give 1995, while Wikipedia and MobyGames give 1996[^ref-4][^ref-8][^ref-5][^ref-1][^ref-22]. GameSpot's archived review page lists a release date of 05/31/1996[^ref-17]. The game is the sequel to 1993's IndyCar Racing and uses many of the improvements introduced in Papyrus' NASCAR Racing[^ref-22][^ref-4]. Based on the 1995 CART season, it featured 15 accurate circuits and fully licensed drivers, liveries and advertisements, and DOS Days calls it "the pinnacle of the computer racing experience when it came out"[^ref-4].
 
 Papyrus founder [[Dave Kaemmer|David Kaemmer]] had set the studio's direction from its first game: "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar"[^ref-5]. GameSpot's Jim Varner called IndyCar Racing II "undoubtedly the most realistic racing simulation of all time", and warned that "even on the easiest of settings, driving an IndyCar is comparable to riding a wild bull"[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** Adam Levesque, Brian C. Mahony, Matt Sentell, Randy Cassidy, David Kaemmer, John Wheeler[^ref-7]
-> **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Publisher:** [[Sierra On-Line]][^ref-17][^ref-32]
 > **Engine:** Racing simulation technology[^ref-5]
 > **Platforms:** DOS, Windows 95, Macintosh (PowerPC)[^ref-8][^ref-10]
 > **Release Year:** 1995 (some sources give 1996)[^ref-4][^ref-1]
@@ -51,11 +51,11 @@ IndyCar Racing II is driven from the cockpit by default, and pressing F10 switch
 
 ### Structure and Progression
 
-The game offers Single Race, Championship Season and Preseason Testing modes, along with head-to-head play between two computers[^ref-12]. Players can customize almost every aspect of their vehicle through a garage system with thirteen different customizable characteristics[^ref-1]. GameRevolution wrote that "You could spend an entire week inside the garage just fiddling with the many ways to improve your car's performance"[^ref-1].
+The game offers Single Race, Championship Season and Preseason Testing modes, along with head-to-head play between two computers[^ref-12]. Players can customize almost every aspect of their vehicle through a garage system with thirteen different customizable characteristics, from brake bias to tire compounds and camber[^ref-32][^ref-1]. GameRevolution wrote that "You could spend an entire week inside the garage just fiddling with the many ways to improve your car's performance"[^ref-32][^ref-1].
 
 ### Puzzles and Mechanics
 
-The core challenge lies in mastering the realistic physics simulation that governs IndyCar handling. The manual gives a maximum turbo boost of 45 in/Hg (22 psi) and a maximum fuel capacity of 40 U.S. gallons, and recommends shifting somewhere between 11,000 and 12,500 rpm[^ref-12]. Players must develop skills in areas such as setup optimization, fuel strategy, and tire management while navigating the demanding physics model that makes the cars extremely sensitive to driver input.
+The core challenge lies in mastering the realistic physics simulation that governs IndyCar handling. The manual gives a maximum turbo boost of 45 in/Hg (22 psi) and a maximum fuel capacity of 40 U.S. gallons, and recommends shifting somewhere between 11,000 and 12,500 rpm[^ref-12].
 
 ## Reception
 
@@ -64,7 +64,7 @@ The core challenge lies in mastering the realistic physics simulation that gover
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 7.8/10 | Jim Varner praised the realism but warned most casual gamers would find it too difficult[^ref-17] |
-| Computer Games Magazine | 4/5 | [^ref-1] |
+| Computer Games Magazine | 4/5 | Score as reported by Wikipedia; no period review located[^ref-1] |
 
 ### Modern Assessment
 
@@ -74,7 +74,7 @@ MobyGames lists a critic average of 83%[^ref-22]. Its players give the DOS versi
 
 ### Origins
 
-IndyCar Racing II was developed as the sequel to Papyrus Design Group's 1993 IndyCar Racing, which built in turn on their 1989 Indianapolis 500: The Simulation[^ref-1]. The team carried over improvements from their 1994 NASCAR Racing[^ref-4]. Because the game is based on the 1995 CART season, Papyrus could not get licence agreements with every team and driver, so some drivers are missing[^ref-16]. Some tracks also changed for 1996, and Papyrus had no licence agreement with the Indianapolis Motor Speedway, so the Homestead (Miami), Rio de Janeiro and Indianapolis tracks are not included[^ref-16][^ref-1].
+IndyCar Racing II was developed as the sequel to Papyrus Design Group's 1993 IndyCar Racing, which built in turn on their 1989 Indianapolis 500: The Simulation[^ref-1]. The team carried over improvements from their 1994 NASCAR Racing[^ref-4]. Because the game is based on the 1995 CART season, Papyrus could not get licence agreements with every team and driver, so some drivers are missing[^ref-16]. Kazart's FAQ explains that some tracks changed for the 1996 season and that Papyrus had no licence agreement with the Indianapolis Motor Speedway, so the Homestead, Rio de Janeiro and Indianapolis tracks are not included[^ref-16]. Wikipedia separately lists the Miami road course and Indianapolis as missing[^ref-1].
 
 Papyrus survived for 17 years in all, which GameSpot called "an incredible stretch for a comparatively small design studio"[^ref-5]. Founder David Kaemmer's aim of showing players "what it was like to drive a racecar" shaped its games from the start[^ref-5].
 
@@ -110,7 +110,7 @@ The DOS version supported Sound Blaster/Pro/16, Pro Audio Spectrum, Ad Lib Gold,
 | 1.0.2 | DOS/Win95 | Bug fix patch[^ref-4][^ref-29] |
 | DOS 1.0.2 → Win95 1.0.1 | DOS/Win95 | Windows 95 upgrade patch, September 1996[^ref-30] |
 | Rendition | Windows | Special GPU-bundled version[^ref-26] |
-| CART Racing | All | Re-release after IndyCar name license expired[^ref-1] |
+| CART Racing | All | Re-release, renamed after CART lost the rights to the IndyCar name[^ref-1] |
 
 Sierra posted a Windows 95 upgrade on September 4, 1996, which let owners of the DOS v1.0.2 release also run the Windows version[^ref-30]. Following the Indianapolis Motor Speedway and IRL lockout in 1996, Sierra re-released the game in 1997 under the title "CART Racing" with a few minor upgrades[^ref-1].
 
@@ -130,7 +130,7 @@ TV Tropes calls IndyCar Racing II "likely the most realistic indycar simulation 
 
 By January 1998 Papyrus said it had sold more than 800,000 games on the CART license, including IndyCar Racing II, CART Racing and CART World Series Championship[^ref-31]. IndyCar Racing II on its own sold about 180,000 copies, which GameSpot called "less than fantastic sales figures"[^ref-5].
 
-The game fostered an active modding community that created additional content and utilities, extending its lifespan well beyond the typical commercial lifecycle[^ref-25]. A special Rendition graphics card version was released, bundled exclusively with compatible GPUs, making it "actually pretty hard to find because it only ever appears to have been sold bundled with the GPU"[^ref-26]. Recent preservation efforts have made the game playable in HD resolution, ensuring its continued availability for modern players[^ref-27].
+The game fostered an active modding community that created additional content and utilities, extending its lifespan well beyond the typical commercial lifecycle[^ref-25]. A special Rendition graphics card version was released, bundled exclusively with compatible GPUs, making it "actually pretty hard to find because it only ever appears to have been sold bundled with the GPU"[^ref-26]. A post on Reddit's r/INDYCAR reports that the game is now playable in HD[^ref-27].
 
 Vivendi Universal shut Papyrus down in May 2004, and David Kaemmer then recovered the rights to Papyrus' racing simulation technology[^ref-5].
 
@@ -151,26 +151,27 @@ Vivendi Universal shut Papyrus down in May 2004, and David Kaemmer then recovere
 
 ## References
 
-[^ref-1]: [Wikipedia - IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) – - Basic game information, reception, awards, CART Racing re-release
-[^ref-4]: [DOS Days](https://dosdays.co.uk/topics/Games/game_indycar2.php) – - Game description, system requirements, sound cards, version history
-[^ref-5]: [GameSpot - History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – - Gord Goble, 2004; Kaemmer quote, 180,000 sales, closure
-[^ref-7]: [Archive.org - Game Manual](https://archive.org/details/indycar-racing-2-manual) – - Development team credits
-[^ref-8]: [Wikidata](https://www.wikidata.org/wiki/Q6028244) – - Platform information, 1995 publication date
-[^ref-9]: [Race Sim Central](https://racesimcentral.net/indycar-racing-ii/) – - 1995 IndyCar Series simulation details
-[^ref-10]: [Archive.org - Game Documentation](https://archive.org/details/indycarracingii00sier) – - Game description and system requirements from disc label
-[^ref-12]: [Archive.org - Manual Text](https://archive.org/stream/indycar-racing-2-manual/indycar-racing-2-manual_djvu.txt) – - Game modes, views, multiplayer, voice recognition, car specifications
-[^ref-13]: [Archive.org - Install Guide](https://archive.org/stream/indycar-racing-2-install-guide/indycar-racing-2-install-guide_djvu.txt) – - System requirements and controller setup
-[^ref-14]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/indycar-racing-ii-1995) – - Technical features description
-[^ref-16]: [Kazart FAQ](http://www.kazart.com/autosim/icr2faq.htm) – - Missing tracks and drivers, announcer
-[^ref-17]: [GameSpot Review (archived)](http://web.archive.org/web/20050105150215/http://www.gamespot.com:80/pc/driving/indycarracing2/review.html) – - Jim Varner, 08/01/96; 7.8 score
-[^ref-19]: [MobyGames Reviews](https://www.mobygames.com/game/4082/indycar-racing-ii/reviews/dos/) – - Player reviews
-[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/indycar-racing-ii-29x) – - User ratings and comments
-[^ref-22]: [MobyGames - IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – - Credits, critic average, sound engine, game description
-[^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/IndyCarRacingII) – - Simulation realism assessment
-[^ref-25]: [SimCyberWorld](http://simcyberworld.com/icr2/utilities.htm) – - Modding community resources
-[^ref-26]: [Race Sim Central - Rendition](https://racesimcentral.net/indycar-racing-ii-the-rendition-experience/) – - Special graphics card version
-[^ref-27]: [Reddit INDYCAR](https://www.reddit.com/r/INDYCAR/comments/1hxk886/indycar_racing_ii_is_now_playable_in_hd/) – - Modern HD compatibility
-[^ref-28]: [Web Archive - Macworld 1997 Macintosh Game Hall of Fame](https://web.archive.org/web/20030108183053/http://www.macworld.com/1997/01/features/3158.html) – - Steven Levy; Best Sports Game, Mac-only voice feature
-[^ref-29]: [Patches-Scrolls](https://www.patches-scrolls.de/patch/2198/7/26484) – - Patch 1.0.1 to 1.0.2
-[^ref-30]: [Race Sim Central - Windows 95 Upgrade](https://racesimcentral.net/windows-95-upgrade-available-for-indycar-racing-ii-dos/) – - Windows 95 upgrade patch, September 4, 1996
-[^ref-31]: [PC Gamer News, January 5, 1998 (archived)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – - Over 800,000 games sold on the CART license
+[^ref-1]: [Wikipedia - IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) – Basic game information, reception, awards, CART Racing re-release
+[^ref-4]: [DOS Days](https://dosdays.co.uk/topics/Games/game_indycar2.php) – Game description, system requirements, sound cards, version history
+[^ref-5]: [GameSpot - History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – Gord Goble, 2004; Kaemmer quote, 180,000 sales, closure
+[^ref-7]: [Archive.org - Game Manual](https://archive.org/details/indycar-racing-2-manual) – Development team credits
+[^ref-8]: [Wikidata](https://www.wikidata.org/wiki/Q6028244) – Platform information, 1995 publication date
+[^ref-9]: [Race Sim Central](https://racesimcentral.net/indycar-racing-ii/) – 1995 IndyCar Series simulation details
+[^ref-10]: [Archive.org - Game Documentation](https://archive.org/details/indycarracingii00sier) – Game description and system requirements from disc label
+[^ref-12]: [Archive.org - Manual Text](https://archive.org/stream/indycar-racing-2-manual/indycar-racing-2-manual_djvu.txt) – Game modes, views, multiplayer, voice recognition, car specifications
+[^ref-13]: [Archive.org - Install Guide](https://archive.org/stream/indycar-racing-2-install-guide/indycar-racing-2-install-guide_djvu.txt) – System requirements and controller setup
+[^ref-14]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/indycar-racing-ii-1995) – Technical features description
+[^ref-16]: [Kazart FAQ](http://www.kazart.com/autosim/icr2faq.htm) – Missing tracks and drivers, announcer
+[^ref-17]: [GameSpot Review (archived)](http://web.archive.org/web/20050105150215/http://www.gamespot.com:80/pc/driving/indycarracing2/review.html) – Jim Varner, 08/01/96; 7.8 score
+[^ref-19]: [MobyGames Reviews](https://www.mobygames.com/game/4082/indycar-racing-ii/reviews/dos/) – Player reviews
+[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/indycar-racing-ii-29x) – User ratings and comments
+[^ref-22]: [MobyGames - IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – Credits, critic average, sound engine, game description
+[^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/IndyCarRacingII) – Simulation realism assessment
+[^ref-25]: [SimCyberWorld](http://simcyberworld.com/icr2/utilities.htm) – Modding community resources
+[^ref-26]: [Race Sim Central - Rendition](https://racesimcentral.net/indycar-racing-ii-the-rendition-experience/) – Special graphics card version
+[^ref-27]: [Reddit INDYCAR](https://www.reddit.com/r/INDYCAR/comments/1hxk886/indycar_racing_ii_is_now_playable_in_hd/) – Modern HD compatibility
+[^ref-28]: [Web Archive - Macworld 1997 Macintosh Game Hall of Fame](https://web.archive.org/web/20030108183053/http://www.macworld.com/1997/01/features/3158.html) – Steven Levy; Best Sports Game, Mac-only voice feature
+[^ref-29]: [Patches-Scrolls](https://www.patches-scrolls.de/patch/2198/7/26484) – Patch 1.0.1 to 1.0.2
+[^ref-30]: [Race Sim Central - Windows 95 Upgrade](https://racesimcentral.net/windows-95-upgrade-available-for-indycar-racing-ii-dos/) – Windows 95 upgrade patch, September 4, 1996
+[^ref-31]: [PC Gamer News, January 5, 1998 (archived)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – Over 800,000 games sold on the CART license
+[^ref-32]: [GameRevolution – IndyCar Racing II review (Mac, archived)](https://web.archive.org/web/20110807152916/http://www.gamerevolution.com/review/mac/indycar-racing-i) – Publisher Sierra Online; "thirteen different customizable characteristics" and garage quote
