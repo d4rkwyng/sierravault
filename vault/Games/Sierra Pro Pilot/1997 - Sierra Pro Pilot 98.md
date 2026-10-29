@@ -10,7 +10,7 @@ series: Pro Pilot
 engine: null
 protagonist: Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: 'Sierra Pro Pilot 98: The Complete Flight Simulator is a 1997 civilian
   flight simulator for Windows 95, developed by Dynamix with former Sub-Logic staff
   and published by Sierra as a challenger to Microsoft Flight Simulator.'
@@ -18,7 +18,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot 98
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 
 It was the first edition in the Pro Pilot civilian flight simulation series[^ref-12]. Dynamix's launch press release billed it as "The Most Authentic and Accurate Flight Simulator for Home PCs" and promised that it "combines visual beauty with instruction for a fabulous flight experience all in one box!"[^ref-4]
 
-Reviewers were less impressed. GameSpot's Denny Atkin wrote that "Sierra touts Pro Pilot as the best program of its kind, a lofty claim for any program to make," and that the program "has an unfinished feel"[^ref-5]. Reviewing the sequel two years later, Atkin summed up the first release as "far from the Microsoft Flight Simulator killer it was touted as"[^ref-7]. Even so, Sierra reported in October 1998 that Pro Pilot '98 had "sold over 275,000 units"[^ref-19][^ref-6].
+Reviewers were less impressed. GameSpot's Denny Atkin wrote that "Sierra touts Pro Pilot as the best program of its kind, a lofty claim for any program to make," and that the program "has an unfinished feel"[^ref-5]. Reviewing the sequel, Atkin summed up the first release as "far from the Microsoft Flight Simulator killer it was touted as"[^ref-7]. Even so, Sierra reported in October 1998 that Pro Pilot '98 had "sold over 275,000 units"[^ref-19][^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Sub-Logic[^ref-12][^ref-2]
@@ -85,7 +85,7 @@ MobyGames' description lists both the 172P and 172R Skyhawks[^ref-12]. However, 
 - **29 major metropolitan areas**, plus mountains, lakes, major rivers and cities[^ref-4]. Landmarks include the Statue of Liberty, the Grand Canyon and Toronto's CN Tower[^ref-23][^ref-25].
 - **VOR and NDB beacons** across the continental United States[^ref-5].
 
-During development, Dynamix used 3D Studio for the urban landmarks and PhotoShop for the overlays[^ref-2]. GameSpot said the height-modelled terrain looked "much better than the giant pyramids of Flight Simulator." However, the airports lacked taxiways and runway numbers[^ref-5]. MobyGames' entry describes separate US and European map installation CDs. Because they share registry keys, the two cannot be installed at the same time[^ref-12][^ref-22].
+During development, Dynamix used 3D Studio for the urban landmarks and PhotoShop for the overlays[^ref-2]. GameSpot said the height-modelled terrain looked "much better than the giant pyramids of Flight Simulator." However, the airports lacked taxiways and runway numbers[^ref-5]. MobyGames' entry describes separate US and European map installation CDs. Because they share registry keys, the two cannot be installed at the same time[^ref-12][^ref-22]. That entry, which also lists six aircraft, describes a later edition with a European map, not the December 1997 launch version: Dynamix's launch release lists five aircraft and scenery for the continental U.S. and parts of Canada[^ref-4]. PC Joker's September 1998 review of the German release counted six aircraft, from the Cessna 172 Skyhawk to the Citation Jet, plus "ein riesiges Euro-Szenario" (a huge European scenario) and 39 cities "von Berlin bis New York". It noted that the game reached German shops half a year late, for about 99 DM[^ref-29].
 
 ### Navigation
 
@@ -97,11 +97,11 @@ GameSpot called the game "the first consumer sim with the now-popular navigation
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Games Magazine | 3/5 | Review by Jim Pedicord[^ref-1][^ref-23] |
+| Computer Games Magazine | 3/5 | Review by Jim Pedicord[^ref-23][^ref-1] |
 | Computer Gaming World | 2.5/5 | April 1998 issue, review by John Nolan[^ref-1][^ref-24] |
 | GameSpot | 6.1/10 | Review by Denny Atkin, February 9, 1998[^ref-5][^ref-1] |
 | PC Gamer | 53% | Review by Marc Saltzman, May 1998[^ref-25] |
-| PC Joker | 58% | German review, September 1998[^ref-1] |
+| PC Joker | 58% | German review, September 1998: "Altbackener Zivilflugi für schnelle Rechner" (translated: a stale civil flight sim for fast computers)[^ref-29][^ref-1] |
 
 ### Critical Analysis
 
@@ -202,9 +202,10 @@ Computer Gaming World noted that the "Typical" install was 52MB and that install
 [^ref-20]: [Internet Archive](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) - Digital preservation
 [^ref-21]: [IGDB – Sierra Pro Pilot 98](https://www.igdb.com/games/sierra-pro-pilot-98-the-complete-flight-simulator) — Internet Games Database entry, platform listing, release-year confirmation, developer attribution
 [^ref-22]: [LaunchBox Games Database – Sierra Pro Pilot 98](https://gamesdb.launchbox-app.com/games/details/169222-sierra-pro-pilot-98-the-complete-flight-simulator) — Release date December 5, 1997; Windows; map installation CDs
-[^ref-23]: [Computer Games Magazine – Pro Pilot Review (Archive)](https://web.archive.org/web/20030704220145/http://www.cdmag.com/articles/009/178/pro_pilot_review.html) - Jim Pedicord; nearly 300-page manual, controls, bugs, requirements
+[^ref-23]: [Computer Games Magazine – Pro Pilot Review (Archive)](https://web.archive.org/web/20030704220145/http://www.cdmag.com/articles/009/178/pro_pilot_review.html) - Jim Pedicord; 3-of-5-star rating graphic; nearly 300-page manual, controls, bugs, requirements
 [^ref-24]: [Computer Gaming World #165, April 1998 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_165) - John Nolan, "Pro Pilot Took Off Before the Flight-Testing Was Completed"; flight model, no 3D support, 34-bug patch
 [^ref-25]: [PC Gamer – Sierra Pro Pilot Review (Archive)](https://web.archive.org/web/20000226143907/http://www.pcgamer.com/reviews/945.html) - Marc Saltzman, May 1998; 53%; requirements, bug count
 [^ref-26]: [Marketing Computers – February Best Sellers (Archive)](https://web.archive.org/web/19980623060252/http://www.marketingcomputers.com/news/9803/19_03.asp) - PC Data top-selling games, February 1998: Sierra Pro Pilot at #17
 [^ref-27]: [IGN – News Briefs, October 3, 1998 (Archive)](https://web.archive.org/web/20220723203447/https://www.ign.com/articles/1998/10/03/news-briefs-301) - Pro Pilot USA released for $20
 [^ref-28]: [MobyGames – Credits (Windows)](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/credits/windows/) - Director, Assistant Game Designer, Producer, Sub-Logic thanks
+[^ref-29]: [PC Joker, September 1998, p. 92 (Internet Archive)](https://archive.org/details/PCJoker199809/page/n89/mode/2up) - "Kurztest" of the German release: 58%, six aircraft, Euro scenario, 39 cities, half a year late, ca. 99 DM
