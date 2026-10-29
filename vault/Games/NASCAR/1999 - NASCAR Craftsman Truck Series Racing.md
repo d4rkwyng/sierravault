@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 1999 Edition engine
 protagonist: N/A (racing simulation)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: NASCAR Craftsman Truck Series Racing is a 1999 Windows racing simulation
   by Papyrus Design Group, published by Sierra, that sold the truck-racing portion of
   NASCAR Racing 1999 Edition as a standalone game.
@@ -18,11 +18,11 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Craftsman Truck Series Racing
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-NASCAR Craftsman Truck Series Racing is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line for Windows, released in the United States on April 1, 1999.[^ref-1][^ref-11][^ref-20] MobyGames describes it as "essentially one piece of NASCAR Racing 1999 Edition sold as standalone": players drive 700 hp trucks against the series' top truck racers, with full 3Dfx accelerator support and an included paint kit.[^ref-3]
+NASCAR Craftsman Truck Series Racing is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line for Windows, released in the United States in April 1999: database listings give April 1, and Sierra announced the release on April 5, 1999.[^ref-11][^ref-20][^ref-25] MobyGames describes it as "essentially one piece of NASCAR Racing 1999 Edition sold as standalone": players drive 700 hp trucks against the series' top truck racers, with full 3Dfx accelerator support and an included paint kit.[^ref-3]
 
 The parent game, NASCAR Racing 1999 Edition, combined the Winston Cup, Busch Grand National and Craftsman Truck series in one box, and Sierra's announcement called its truck content "a first for any racing simulation".[^ref-4] Squakenet describes that collection as "all themed around the NASCAR 1998 season".[^ref-7]
 
@@ -87,7 +87,7 @@ In a modern retrospective, Squakenet says "this game is kind of a cheat", becaus
 
 ### Origins
 
-The game is the truck-racing portion of NASCAR Racing 1999 Edition, released on its own.[^ref-3][^ref-7] The Daily Downforce calls it "the first and thus far only NASCAR game to be centered around only a lower tier touring series."[^ref-10]
+The game is the truck-racing portion of NASCAR Racing 1999 Edition, released on its own.[^ref-3][^ref-7] Sierra's April 1999 release called it "the first stand alone truck title available to consumers", sold on CD-ROM for Windows 95 at a suggested $19.99.[^ref-25] The Daily Downforce calls it "the first and thus far only NASCAR game to be centered around only a lower tier touring series."[^ref-10]
 
 ### Production
 
@@ -189,3 +189,4 @@ The game is not sold on GOG or Steam. It is preserved on the Internet Archive an
 [^ref-22]: [GameSpot - History of Papyrus Racing Games, by Gord Goble (Wayback, Aug 2004)](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) - Papyrus "officially shut down by publisher Vivendi Universal in May of this year"
 [^ref-23]: [MobyGames - NASCAR Craftsman Truck Series Racing credits (Windows)](https://www.mobygames.com/game/3225/nascar-craftsman-truck-series-racing/credits/windows/) - Project Director David Matson; Game Design Flamburis, Heath, Matson; Lead Engineer Heath; track and driver licences; © 1998
 [^ref-24]: [MobyGames - NASCAR Craftsman Truck Series Racing specs](https://www.mobygames.com/game/3225/nascar-craftsman-truck-series-racing/specs/) - Pentium, Windows 95, 24 MB RAM, DirectX 5, Glide, 2× CD-ROM, 640×480, ESRB Everyone
+[^ref-25]: [Race Sim Central - Papyrus Announce Standalone NASCAR Truck Racing Title](https://racesimcentral.net/papyrus-announce-standalone-nascar-truck-racing-title/) - repost of Sierra's April 5, 1999 press release: "today announced the release"; "the first stand alone truck title available to consumers"; Windows 95 CD-ROM, $19.99
