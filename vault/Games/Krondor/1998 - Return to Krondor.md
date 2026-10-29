@@ -10,18 +10,18 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
-description: Return to Krondor is a fantasy role-playing game released in November
-  1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor...
+last_updated: '2026-10-28'
+description: Return to Krondor is a 1998 fantasy role-playing game by PyroTechnix and
+  7th Level, published by Sierra Studios as the sequel to Betrayal at Krondor.
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Return to Krondor is a fantasy role-playing game released in November 1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor (1993)[^ref-1]. Set in Raymond E. Feist's fictional world of Midkemia, the game follows Squire James—formerly known as Jimmy the Hand—as he leads a party of heroes on a quest to recover the Tear of the Gods, a sacred artifact of the Ishapian Church that has been lost to the depths of the Bitter Sea[^ref-2]. The game features pre-rendered backgrounds with changing camera angles, 3D character models, and a turn-based tactical combat system that critics praised as featuring "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
+Return to Krondor is a fantasy role-playing game released in November 1998, serving as the direct sequel to Betrayal at Krondor (1993)[^ref-1]. Set in Raymond E. Feist's fictional world of Midkemia, the game follows Squire James—formerly known as Jimmy the Hand—as he leads a party of heroes on a quest to recover the Tear of the Gods, a sacred artifact of the Ishapian Church that has been lost to the depths of the Bitter Sea[^ref-2]. The game features pre-rendered backgrounds with changing camera angles, 3D character models, and a turn-based tactical combat system that critics praised as featuring "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
 
 Developed by PyroTechnix using their proprietary True3D engine, Return to Krondor went through a troubled development history that saw the project pass between multiple companies before finally reaching completion[^ref-1]. The game also marked Sierra's return to the Krondor license: Dynamix, then a Sierra division, cancelled its planned sequel in 1994, 7th Level licensed the project in 1995, and Sierra regained it when it bought PyroTechnix, "and with PyroTechnix goes the rights to Return to Krondor"[^ref-1][^ref-34]. While the game was designed to be "Book 1: Harbinger of Shadows"—the first in a planned series—Sierra ultimately discontinued the franchise, leaving the storyline uncontinued in game form[^ref-5].
 
@@ -42,7 +42,7 @@ Return to Krondor received above-average reviews according to GameRankings (72%)
 
 The story revolves around the disappearance of the Ishapian Church's most sacred relic, the Tear of the Gods[^ref-2]. A band of ruthless pirates—in the employ of Sidi, a shadowy, half-mad sorcerer—attempt to seize the Tear from the Ishapian treasure ship. In the process, they accidentally sink the vessel, sending the powerful artifact to the bottom of the Bitter Sea[^ref-7]. The Tear possesses unimaginable holy power, and its loss threatens catastrophic consequences for the realm of Midkemia.
 
-Squire James of Krondor, a reformed thief who has risen to become one of Prince Arutha's most trusted agents, is tasked with investigating the disappearance[^ref-8]. He is joined by Jazhara, a Keshian sorceress making her first appearance in the Krondor universe; William ConDoin, a Krondorian guardsman; Brother Solon, an Ishapian warrior priest; and Kendaric, a mage from the Wrecker's Guild[^ref-9]. Together, this unlikely band must track down Bear, a madman seeking the relic for his own sinister purposes, while contending with the machinations of the necromancer Sidi who serves a mysterious "Dark One"[^ref-10].
+Squire James of Krondor, a reformed thief[^ref-8] who has risen to become one of Prince Arutha's most trusted servants[^ref-29], is tasked with investigating the disappearance. He is joined by Jazhara, a Keshian mage[^ref-22] making her first appearance in the Krondor universe[^ref-10]; William ConDoin, a warrior in the city guard; Brother Solon, a priest of the Ishapian order; and Kendaric, a mage of the Wrecker's Guild[^ref-22][^ref-9]. Together, this unlikely band must track down Bear, a madman seeking the relic for his own sinister purposes, while contending with the machinations of the necromancer Sidi who serves a mysterious "Dark One"[^ref-10].
 
 The quest takes the party from the streets and sewers of Krondor through various dangerous locations as they work to raise the sunken ship and retrieve the Tear before it falls into the wrong hands[^ref-11]. The narrative unfolds across eleven chapters[^ref-17]. Enemies include Izmali assassins, zombies, ghouls, vampires, goblins, and demons[^ref-10]. Feist was credited as one of the game's design and story consultants, while [[Neal Hallford]] is credited with the original story concept and Joshua Culp and William Maxwell as writers[^ref-51]; Feist later adapted the story into the novel "Krondor: Tear of the Gods"[^ref-1].
 
@@ -50,11 +50,11 @@ The quest takes the party from the streets and sewers of Krondor through various
 
 ### Interface and Controls
 
-Return to Krondor is primarily a point-and-click game, representing a significant departure from the first-person exploration of its predecessor[^ref-13]. The game uses a third-person perspective with pre-rendered backgrounds and changing camera angles for exploration, similar to the approach used in Alone in the Dark[^ref-14]. Navigation can be somewhat tricky as the view changes to different perspectives when reaching certain points[^ref-15]. Players can change camera perspectives using the bracket keys on English keyboards or ß and ´ on German keyboards[^ref-16].
+Return to Krondor is primarily a point-and-click game[^ref-13]. Where Betrayal at Krondor was explored in the first person, its sequel is traveled in the third person[^ref-15]. The game uses a third-person perspective with pre-rendered backgrounds and changing camera angles for exploration, similar to the approach used in Alone in the Dark[^ref-14]. Navigation can be somewhat tricky as the view changes to different perspectives when reaching certain points[^ref-15]. Players can change camera perspectives using the bracket keys on English keyboards or ß and ´ on German keyboards[^ref-16].
 
 ### Structure and Progression
 
-The game is divided into eleven plot-twisting chapters that unfold in a linear, book-like fashion[^ref-17]. Compared to Betrayal at Krondor, the game is less heavy on exploration, featuring smaller and more confined areas[^ref-18]. Much of the game takes place within the city of Krondor, which is divided into distinct districts[^ref-18]. Unlike its predecessor, players cannot physically explore an overworld map[^ref-18].
+The game is divided into eleven plot-twisting chapters that unfold in a linear, book-like fashion[^ref-17]. Compared to Betrayal at Krondor, the game is less heavy on exploration, featuring smaller and more confined areas[^ref-5]. Much of the game takes place within the city of Krondor, which is divided into distinct districts[^ref-5]. Unlike its predecessor, players cannot physically explore an overworld map[^ref-5].
 
 - **Prologue:** Introduction and initial investigation
 - **Chapters 1-2:** Time does not pass at all; William the knight is present[^ref-19]
@@ -67,11 +67,11 @@ The game offers three difficulty levels (Easy, Medium, Hard) and three game focu
 
 ### Puzzles and Mechanics
 
-The game features several distinctive gameplay systems. Combat is turn-based and tactical, with manual character movement on a combat grid[^ref-18]. The system includes a "fate" mechanic, in which a random bonus is generated each turn for either the heroes or the villains[^ref-20], and supports six different paths of magic with a total of 60 adaptable spells[^ref-17][^ref-20].
+The game features several distinctive gameplay systems. Combat is turn-based and tactical, with manual character movement on the battlefield[^ref-5]. The system includes a "fate" mechanic, in which a random bonus is generated each turn for either the heroes or the villains[^ref-20], and supports six different paths of magic with a total of 60 adaptable spells[^ref-17][^ref-20].
 
-The alchemy system allows players to brew potions, though only mages can participate in this activity[^ref-15]. One walkthrough author noted that they "found alchemy a worthless skill to pursue"[^ref-19]. The lockpicking minigame is detailed, featuring tool selection and careful manipulation[^ref-18].
+The alchemy system allows players to brew potions, though only mages can participate in this activity[^ref-15]. One walkthrough author noted that they "found alchemy a worthless skill to pursue"[^ref-19]. The lockpicking minigame is detailed, in which the player chooses among several tools and applies them to the lock[^ref-5].
 
-Character development uses a leveling system with manual skill point allocation[^ref-18]. Skills improve through use and direct point investment, and characters have specific skill development recommendations. The game features over 30 locks, traps, and puzzles to overcome[^ref-17].
+Character development uses a leveling system with manual skill point allocation[^ref-5]. Skills improve through use and direct point investment, and characters have specific skill development recommendations. The game features over 30 locks, traps, and puzzles to overcome[^ref-17].
 
 ## Reception
 
@@ -79,7 +79,7 @@ Character development uses a leveling system with manual skill point allocation[
 
 Return to Krondor received above-average reviews according to GameRankings (72%)[^ref-1], with critics generally praising its story and combat system while criticizing its short length and linear structure.
 
-GameSpot awarded the game 7.9/10, with reviewer Desslock noting that "Return to Krondor may not be an epic sequel to Betrayal at Krondor, but its excellent graphics and immersive plot make it an enjoyable story-driven game"[^ref-21]. PC Gamer US gave it 80%, calling it "a fun, quick RPG with a good story"[^ref-1]. Computer Games Strategy Plus was highly enthusiastic, with John Altman calling it "very engaging and a stunning return to form for the Krondor series" featuring "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
+GameSpot awarded the game 7.9/10, with reviewer Desslock noting that "Return to Krondor may not be an epic sequel to Betrayal at Krondor, but its excellent graphics and immersive plot make it an enjoyable story-driven game"[^ref-21]. PC Gamer US gave it 80%, calling it "a fun, quick RPG with a good story"[^ref-1]. Computer Games Strategy Plus was highly enthusiastic, with John Altman calling it "very engaging" and concluding that it "is a stunning return to form for the Krondor series"; he also praised "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
 
 IGN scored the game 7.4/10, with Steve Butts stating that "Return to Krondor really delivers"[^ref-20]. Game Informer awarded 8.25/10[^ref-1]. CNET Gamecenter gave it 8/10, with Arinn Dembo describing it as "one of the most complex role-playing games of the year"[^ref-22].
 
@@ -91,7 +91,7 @@ AllGame's Joshua Roberts praised the visuals, stating "It's easily one of the mo
 
 Modern assessments of Return to Krondor remain divided. The game holds a 71.67% aggregate score on GameRankings based on 21 reviews[^ref-25]. MobyGames lists a critics average of 74%[^ref-5]. GOG.com users rate it 3.9/5[^ref-2], while Steam reviews show a "Mixed" rating with 65% positive from 103 reviews[^ref-7].
 
-Some retrospective voices are more enthusiastic. One MobyGames user declared that "1998 was quite a year for the CRPG... Baldur's Gate as well as Return To Krondor were released. These two epic CRPGs would usher in a new age of CRPG goodness. Of those two aforementioned games, RTK was by far the better"[^ref-5]. Another simply called it "One of the best CRPGs ever made"[^ref-5].
+Some retrospective voices are more enthusiastic. One MobyGames user declared that "1998 was quite a year for the CRPG... Baldur's Gate as well as Return To Krondor were released. These two epic CRPGS would usher in a new age of CRPG goodness. Of those two aforementioned games, RTK was by far the better"[^ref-5]. Another simply called it "One of the best CRPGs ever made"[^ref-5].
 
 **Aggregate Scores:**
 - **GameRankings:** 71.67% (21 reviews)[^ref-25]
@@ -104,17 +104,17 @@ Some retrospective voices are more enthusiastic. One MobyGames user declared tha
 
 ### Origins
 
-The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993 and widely considered one of the best PC RPGs ever made[^ref-28]. The original development team at Dynamix, led by designers [[John Cutter]] and Neal Hallford, had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10]. Computer Gaming World reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter"[^ref-53].
+The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993; one GameFAQs reviewer describes it as "widely considered one of the best PC RPGs ever made"[^ref-28]. The original development team at Dynamix, led by designers [[John Cutter]] and Neal Hallford, had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10]. Computer Gaming World reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter"[^ref-53].
 
 The rights to create Midkemia games had originally been secured through a licensing deal with Raymond E. Feist. Feist was protective of his intellectual property; when approached about contributing directly to game development, he stated that his time was money and noted flatly, "you couldn't afford me"[^ref-30]. By one account, it was "the most expensive literary license yet granted to a game developer"[^ref-30].
 
-After Dynamix abandoned the sequel, 7th Level acquired the rights and began production in 1995[^ref-31]. Neal Hallford, one of the original Betrayal at Krondor designers, began consulting for 7th Level on the design and story of Return to Krondor[^ref-32].
+After Dynamix abandoned the sequel, 7th Level purchased the license in 1995[^ref-1]. Neal Hallford, one of the original Betrayal at Krondor designers, began consulting for 7th Level on the design and story of Return to Krondor[^ref-32].
 
 ### Production
 
 Development of Return to Krondor proved troubled and prolonged. 7th Level developed the game basics, produced screen backgrounds, and added character voices, but turned to their Cincinnati-based subsidiary PyroTechnix for the technical aspects[^ref-1]. PyroTechnix brought their True3D engine to the project, the same technology that Sony had licensed for EverQuest[^ref-33].
 
-As 7th Level faced financial difficulties and worked to exit the game publishing business, they sold PyroTechnix to Sierra On-Line on December 8, 1997, for $1.2 million[^ref-34]. This sale brought Return to Krondor back to Sierra—the original publishers of Betrayal at Krondor. Scott Lynch, Senior Vice President of Sierra, stated: "PyroTechnix is an innovative and talented team that complements Sierra's roster of industry-leading game developers and 'Return to Krondor' will be a key product in our 1998 line-up"[^ref-36]. He added, "As the original developers of 'Betrayal at Krondor' we're thrilled to welcome Raymond Feist and the 'Krondor' series back to the Sierra family"[^ref-36].
+As 7th Level faced financial difficulties and worked to exit the game publishing business, they agreed on December 8, 1997, to sell PyroTechnix to Sierra On-Line for $1.2 million[^ref-34][^ref-36]. The deal brought Return to Krondor back to Sierra—the original publishers of Betrayal at Krondor. Scott Lynch, Senior Vice President of Sierra, stated: "PyroTechnix is an innovative and talented team that complements Sierra's roster of industry-leading game developers and 'Return to Krondor' will be a key product in our 1998 line-up"[^ref-36]. He added, "As the original developers of 'Betrayal at Krondor' we're thrilled to welcome Raymond Feist and the 'Krondor' series back to the Sierra family"[^ref-36].
 
 The game was completed by PyroTechnix under Sierra's direction and released in November 1998[^ref-1]. GamePro's review opened by recalling that Betrayal at Krondor had been a hit five years earlier, and that "its announced successor, Return to Krondor, took a long detour"[^ref-35].
 
@@ -129,7 +129,7 @@ The game was completed by PyroTechnix under Sierra's direction and released in N
 
 ### Technical Achievements
 
-Return to Krondor utilized PyroTechnix's proprietary True3D engine, which supported both Direct3D and software rendering modes[^ref-21]. The game featured over 180 motion-captured 3D characters, more than 200 rendered locations, and real-time lighting and special effects that were new to RPGs at the time[^ref-17][^ref-8].
+Return to Krondor utilized PyroTechnix's proprietary True3D engine, which supported both Direct3D and software rendering modes[^ref-21]. The game featured over 180 motion-captured 3D characters, more than 200 rendered locations, and real-time lighting and special effects advertised as "new to role-playing games"[^ref-17][^ref-8].
 
 The graphics employed pre-rendered 2D backgrounds—over 2,500 attractive backdrops edited in Adobe Photoshop—combined with 3D character models[^ref-35][^ref-15]. Colin E. Sweeney noted that the backgrounds were "pre-rendered and edited in Adobe PhotoShop"[^ref-15]. The 16-bit color graphics were considered "pretty stunning" for the time[^ref-28].
 
@@ -182,7 +182,7 @@ The game has experienced various technical issues, particularly on modern system
 - Intermittent crashes to Windows[^ref-38]
 - Access Violation errors on modern Windows[^ref-40]
 - Missing character textures[^ref-40]
-- Blurry text rendering due to Windows font scaling in GOG version[^ref-16]
+- Oversized in-game text, mainly in the combat interface, caused by Windows font scaling (reported only in the GOG version)[^ref-16]
 - Heavy graphical errors on Intel integrated GPUs[^ref-16]
 - Game crashes when conversation starts if install path contains a full stop[^ref-16]
 - Compatibility challenges with Windows 10/11[^ref-40]
@@ -209,7 +209,7 @@ Players troubleshooting the game on Windows 11 have tried Direct3D wrappers such
 | Role not listed | Tom Kane[^ref-27] |
 | Role not listed | Edita Brychta[^ref-27] |
 
-Opinions on the voice acting varied dramatically. Colin E. Sweeney stated "Incredibly, the voice acting is top notch and very well done"[^ref-15], while Joshua Roberts of AllGame countered "You'll never find less inspired voice acting"[^ref-24]. The Abandonware DOS review humorously noted players would "face off against assassins, undead, and the greatest enemy of all: bad voice acting"[^ref-12].
+Opinions on the voice acting varied dramatically. Colin E. Sweeney stated "Incredibly, the voice acting is top notch and very well done"[^ref-15], while Joshua Roberts of AllGame countered "You'll never find less inspired voice acting"[^ref-24].
 
 ## Legacy
 
@@ -247,7 +247,7 @@ One devoted fan reported playing their "favourite cRPG 'Return to Krondor' for f
 
 ### Critical Perspective
 
-Return to Krondor occupies an unusual position in RPG history. Released the same year as Baldur's Gate, it represented a different approach to the genre—more focused on story-driven, linear narrative than open-world exploration[^ref-5]. GamePro's Barry Brenesal captured this distinction perfectly: "Betrayal felt like a universe. Return feels like a beautifully visualized pencil-and-paper RPG"[^ref-35].
+Return to Krondor occupies an unusual position in RPG history. Released the same year as Baldur's Gate, it represented a different approach to the genre—more focused on story-driven, linear narrative than open-world exploration[^ref-5]. GamePro's Barry Brenesal put the difference this way: "Betrayal felt like a universe. Return feels like a beautifully visualized pencil-and-paper RPG"[^ref-35].
 
 The game's troubled development history and abbreviated scope prevented it from reaching the heights of its predecessor. Computer Gaming World's review noted that "Return to Krondor has tremendous potential, a good combat system, a fair story (for what there is of one), and a definite fun factor. However, it is completely underdeveloped"[^ref-23]. Yet this criticism exists alongside genuine appreciation for what the game achieved—an engrossing story set in a beloved fantasy world with memorable characters and tactical combat.
 
@@ -260,6 +260,8 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 - [Steam](https://store.steampowered.com/app/564960/Return_to_Krondor/)
 
 **Download / Preservation**
+
+No download is listed: the game is sold on GOG.com and Steam.
 
 **Manuals & Extras**
 - [Game Manual (Internet Archive)](https://archive.org/details/returntokrondormanual)
@@ -277,32 +279,29 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-2]: [GOG.com – Return to Krondor](https://www.gog.com/en/game/return_to_krondor) – plot summary, user ratings, system requirements
 [^ref-3]: [Computer Games Strategy Plus Review (Archived)](https://web.archive.org/web/20050208084731/http://www.cdmag.com/articles/016/083/return_krondor_review.html) – John Altman review quotes
 [^ref-4]: [GOG.com Forum – New Release Announcement](https://www.gog.com/forum/general_archive/new_release_return_to_krondor/page1) – GOG.com release, March 4, 2010
-[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score
+[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score, gameplay description
 [^ref-6]: [ModDB – Return to Krondor](https://www.moddb.com/games/return-to-krondor) – feature highlights
 [^ref-7]: [Steam Store Page](https://store.steampowered.com/app/564960/Return_to_Krondor/) – plot description, user ratings, system requirements
 [^ref-8]: [Amazon UK Product Page](https://www.amazon.co.uk/Sierra-UK-Return-To-Krondor/dp/B00004UA0N) – game features, character descriptions
 [^ref-9]: [Prima Strategy Guide (Amazon)](https://www.amazon.com/Return-Krondor-Primas-Official-Strategy/dp/0761507094) – character names, chapter count
 [^ref-10]: [TV Tropes – Return to Krondor](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ReturntoKrondor) – trivia, character dialogue, development notes
 [^ref-11]: [Pyramid Magazine Review](http://www.sjgames.com/pyramid/sample.html?id=545) – character descriptions, plot elements
-[^ref-12]: Abandonware DOS *(download link removed: the game is sold commercially)* – game description, user rating
 [^ref-13]: [Internet Archive – Game Manual](https://archive.org/stream/Return_to_Krondor/Return_to_Krondor_djvu.txt) – gameplay description, difficulty settings
 [^ref-14]: [GameIndustry.com Review](https://www.gameindustry.com/reviews/game-review/return-to-krondor-lives-up-to-its-reputation/) – camera system comparison
 [^ref-15]: [UESP Review](http://en.uesp.net/reviews/retkrondrev.shtml) – technical details, voice acting assessment
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Return_to_Krondor) – technical issues, controls, compatibility
 [^ref-17]: [Crydee.com – Return to Krondor](https://www.crydee.com/raymond-feist/games/computer-based/return-to-krondor) – features, system requirements
-[^ref-18]: Internet Archive – USA Release *(download link removed: the game is sold commercially)* – gameplay mechanics, exploration description
 [^ref-19]: [Angelfire Walkthrough](https://web.archive.org/web/20250904022449/https://www.angelfire.com/hero/tjekanefir/rkrondor.htm) – gameplay details, chapter structure
 [^ref-20]: [IGN Review](https://www.ign.com/articles/1999/01/29/return-to-krondor) – score, gameplay features
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/return-to-krondor-review/1900-2532792/) – score, technical assessment
-[^ref-22]: [CNET Gamecenter Review (Archived)](https://web.archive.org/web/20000823093208/http://gamecenter.com/Reviews/Item/0,6,0-2367,00.html) – Arinn Dembo review
+[^ref-22]: [CNET Gamecenter Review (Archived)](https://web.archive.org/web/20000823093208/http://gamecenter.com/Reviews/Item/0,6,0-2367,00.html) – Arinn Dembo review; Jazhara, William, Kendaric and Solon described
 [^ref-23]: [Computer Gaming World Review (Archived)](https://web.archive.org/web/20000816011313/http://www.gamespot.com/rpg/returnto/review_cgw.html) – Petra Schlunk review, system requirements
 [^ref-24]: [AllGame Review (Archived)](https://web.archive.org/web/20141116000457/http://www.allgame.com/game.php?id=18641&tab=review) – Joshua Roberts review
 [^ref-25]: [GameRankings (Archived)](https://web.archive.org/web/20190430110727/https://www.gamerankings.com/pc/90603-return-to-krondor/index.html) – aggregate scores, review compilation
 [^ref-27]: [IMDB – Return to Krondor](https://www.imdb.com/title/tt0415240/) – voice cast, user rating
 [^ref-28]: [GameFAQs User Review](https://gamefaqs.gamespot.com/pc/90603-return-to-krondor/reviews/72687) – comparison to predecessor, graphics assessment
-[^ref-29]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Betrayal_at_Krondor) – development history
+[^ref-29]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Betrayal_at_Krondor) – development history, James as one of Arutha's most trusted servants
 [^ref-30]: [Filfre.net – Betrayal at Krondor](https://www.filfre.net/2019/10/betrayal-at-krondor/) – licensing negotiations, Feist quotes
-[^ref-31]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/Return_to_Krondor) – development timeline
 [^ref-32]: [MobyGames – Neal Hallford](https://www.mobygames.com/person/4269/neal-hallford/) – consulting role
 [^ref-33]: [Crydee.com – PlayStation News](http://www.crydee.com/raymond-feist/whats-happening/latest-news/1999/1325/return-to-krondor-on-playstation) – Raymond Feist quote on ports
 [^ref-34]: [GameSpot News 1997 (Archived)](https://web.archive.org/web/19980119060411/http://headline.gamespot.com/news/97_12/08_kronder/index.html) – acquisition details
