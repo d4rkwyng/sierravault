@@ -7,10 +7,10 @@ publisher: Impressions Games
 genre: Strategy
 platforms: [DOS, Amiga, Windows, macOS, Linux]
 series: Lords of the Realm
-engine: AIL / Miles Sound System
+engine: 'Unknown (sound: AIL / Miles Sound System)'
 protagonist: Player-controlled Lord
 sierra_lineage: Acquired Franchise
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Lords of the Realm is a 1994 medieval strategy game by Impressions Games
   in which six lords compete for the empty English throne through farming, castle-building
   and real-time battles.
@@ -18,21 +18,21 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Lords of the Realm is a medieval turn-based strategy game developed by [[Impressions Games]] and released in 1994. Set in 1268 A.D., when the English throne lies empty, it casts the player as one of six lords vying for the crown through a combination of economic management, military strategy, and castle warfare.[^ref-6][^ref-11] Games Nostalgia describes it as "the ancestor to titles like the 'Total War' series" and "a piece of strategy history."[^ref-2]
 
-The game distinguished itself from contemporaries by placing equal emphasis on governing as on warfare, requiring players to manage their serfs, balance food production through seasonal farming cycles, and carefully develop their territories while pursuing military conquest.[^ref-3] Players could design their own castles or use historical blueprints, build and siege fortifications, and command armies in battles that could be either player-controlled or computer-determined.[^ref-4] The HOTUD review on MyAbandonware calls it "David Lester's masterpiece", "THE game that finally brought Impressions into the spotlight", and "a labor of love".[^ref-5]
+The game places as much emphasis on governing as on warfare, requiring players to manage their serfs, balance food production through seasonal farming cycles, and carefully develop their territories while pursuing military conquest.[^ref-3] Players could design their own castles or use historical blueprints,[^ref-6] build and siege fortifications, and command armies in battles that could be either player-controlled or computer-determined.[^ref-4] The HOTUD review on MyAbandonware calls it "David Lester's masterpiece", "THE game that finally brought Impressions into the spotlight", and "a labor of love".[^ref-5]
 
-Lords of the Realm was praised for offering an interesting portrayal of thirteenth-century politics and military maneuver, covering what wargame critic M. Evan Brooks called the "3-Cs" of medievalism: "castle construction, crop rotation, and combat."[^ref-5] The game won PC Gamer's Best Historical Simulation award in 1994 and was nominated for Computer Gaming World's Strategy Game of the Year.[^ref-4]
+Lords of the Realm was praised for offering an interesting portrayal of thirteenth-century politics and military maneuver, covering what wargame critic M. Evan Brooks called the "3-Cs" of medievalism: "castle construction, crop rotation, and combat."[^ref-5] The game won PC Gamer's Best Historical Simulation award in 1994 and was nominated for Computer Gaming World's Strategy Game of the Year.[^ref-4][^ref-41]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-6]
 > **Designer:** [[David Lester]], Christopher J. Foster[^ref-4]
 > **Publisher:** Impressions Games[^ref-6]
-> **Engine:** AIL / Miles Sound System[^ref-6]
+> **Engine:** Unknown (sound: AIL / Miles Sound System)[^ref-6]
 > **Platforms:** DOS, Amiga, Windows, macOS, Linux[^ref-7]
 > **Release Year:** 1994
 > **Series:** Lords of the Realm
@@ -53,7 +53,7 @@ As players progress, they must navigate the harsh realities of medieval governan
 
 Lords of the Realm features a top-down strategic map view where players manage their counties and plan their campaigns.[^ref-5] The game utilizes a mouse-driven interface with keyboard support for various functions.[^ref-12] Players interact with their realm through a series of menus and screens that allow management of population, resources, military forces, and diplomatic relations with rival lords.
 
-The interface presents information about each county's population, food stores, resource production, and military garrison, and orders for construction, farming, and military deployment are issued with point-and-select controls.[^ref-7]
+Statistics screens show each county's grain produced, eaten and stored, livestock gained and lost, and population changes and their causes,[^ref-6] and the game uses point-and-select controls.[^ref-7]
 
 ### Structure and Progression
 
@@ -79,15 +79,15 @@ Rather than traditional puzzles, Lords of the Realm challenges players with comp
 
 ### Contemporary Reviews
 
-Lords of the Realm received widespread critical acclaim upon release in 1994. The One Amiga awarded the game 84%, with reviewer Matt Broughton praising its strategic depth.[^ref-16] AUI magazine gave an even higher score of 91%, reflecting the game's strong reception in the Amiga community.[^ref-16] CU Amiga's Alan Dykes awarded 87%, while Amiga Dream's Grégory Halliday scored it 86%.[^ref-16]
+Lords of the Realm received positive reviews upon release in 1994. The One Amiga awarded the game 84%, with reviewer Matt Broughton praising its strategic depth.[^ref-16] AUI magazine gave an even higher score of 91%, reflecting the game's strong reception in the Amiga community.[^ref-16] CU Amiga's Alan Dykes awarded 87%, while Amiga Dream's Grégory Halliday scored it 86%.[^ref-16]
 
 Amiga Power's Rich Pelley gave the game 82%, and even the more critical Amiga Joker awarded 65% from reviewer Manfred Duy.[^ref-16] Amiga Format's Steve McGill gave it 80% in issue 66 (December 1994).[^ref-23] Next Generation rated it four stars out of five and concluded: "Strategy fans must own this title."[^ref-40] Michael House of Allgame wrote that "whatever faults can be attributed to the game's mechanics or contents are almost uniformly minor" and noted that "the detail, background and presentation of the game is so professional and well done that the obvious care and dedication of the designers and their staffs shines through from every aspect."[^ref-12]
 
-PC Gamer honored the game with its Best Historical Simulation award for 1994, and it received a nomination from Computer Gaming World for Strategy Game of the Year.[^ref-4] Computer Game Review bestowed the Golden Triad Award upon the title.[^ref-18]
+PC Gamer honored the game with its Best Historical Simulation award for 1994, and it received a nomination from Computer Gaming World for Strategy Game of the Year.[^ref-4] CGW's May 1995 awards feature, which gave the prize to X-COM, called it "a medieval combat fest that is so fresh in its approach, it even makes animal husbandry fun."[^ref-41] Computer Game Review bestowed the Golden Triad Award upon the title.[^ref-18]
 
 ### Modern Assessment
 
-Modern retrospectives continue to regard Lords of the Realm highly. The Escapist called it "a fantastic experience that fans of the genre would be remiss to skip over" and stated that "Lords of the Realm could very well be one of the most entertaining games set in the medieval world."[^ref-3] Rock Paper Shotgun noted that the game "favours economic management of a modest, decentralised land and its workforce," distinguishing it from pure military simulations.[^ref-19]
+Modern retrospectives continue to regard Lords of the Realm highly. The Escapist called it "a fantastic experience that fans of the genre would be remiss to skip over" and stated that "Lords of the Realm could very well be one of the most entertaining games set in the medieval world that I've ever played."[^ref-3] Rock Paper Shotgun noted that the game "favours economic management of a modest, decentralised land and its workforce," distinguishing it from pure military simulations.[^ref-19]
 
 Games Nostalgia designated it as a "must-play for any strategy fan" and "a good starter title for anyone interested in breaking into the genre," while recognizing it as "the ancestor to titles like the 'Total War' series" and "a piece of strategy history."[^ref-2] One reviewer characterized it as "what Defender of the Crown should have been: lavish in game mechanics, not just graphics."[^ref-20]
 
@@ -114,8 +114,7 @@ Development took place at Impressions Games, with programming by [[Simon Bradbur
 The game shipped on four 3.5" 1.44MB high-density diskettes, with an install size of approximately 9.5 megabytes comprising 283 files.[^ref-20] The DOS version required 585K of free conventional memory along with XMS memory for expanded functionality.[^ref-20]
 
 **Development Credits:**[^ref-6][^ref-23]
-- **Designer:** [[David Lester]]
-- **Co-Designer:** Christopher J. Foster
+- **Designers:** Christopher J. Foster, [[David Lester]]
 - **Primary Programmer:** Simon Bradbury
 - **Art Direction:** [[Chris Beatrice]]
 - **Music/Sound:** Jason P. Rinaldi
@@ -174,7 +173,7 @@ Modern compatibility solutions include using DOSBox for emulation or running the
 
 - The Crucial Entertainment CD release included a 34-page PDF book, "England Under Edward 1" by Jennifer Hawthorne, covering English history from the Norman Conquest to Edward I.[^ref-4][^ref-6]
 - Players could send customized messages to rival Lords with humorous content, adding a personal touch to diplomatic interactions.[^ref-19]
-- The original CD release contains an additional scenario titled "Conquest of the Holy Roman Empire" that is absent from GOG and Steam releases.[^ref-25]
+- The Windows CD version adds a Germany campaign as an alternative to England and Wales,[^ref-11] which one VOGONS user describes as a conquest of the Holy Roman Empire.[^ref-25] GOG includes the CD version, while Steam sells only the floppy version.[^ref-7][^ref-11]
 
 ## Legacy
 
@@ -187,7 +186,7 @@ David Lester sold Impressions Games to Sierra On-Line in 1995.[^ref-13]
 ### Awards
 
 - **PC Gamer Best Historical Simulation** (1994)[^ref-4]
-- **Computer Gaming World Strategy Game Nominee** (1994)[^ref-4]
+- **Computer Gaming World Strategy Game Nominee** (1994)[^ref-4][^ref-41]
 - **Editor's Choice Award – PC Gamer**[^ref-18]
 - **Golden Triad Award – Computer Game Review**[^ref-18]
 - **Amiga Joker #3 Best Strategical Game** (1995, Readers' Vote)[^ref-6]
@@ -203,7 +202,7 @@ Lords of the Realm has appeared in several compilation releases:
 ### Related Publications
 
 - **Game Manual:** 49 pages in the GOG release,[^ref-11] with a 12-page Castle Siege and Battle Manual and a 44-page Technical Supplement and tutorial;[^ref-20] a 29-page scan is on the Internet Archive[^ref-37]
-- **Historical Background Document:** 34-page PDF, "England Under Edward 1", included only with the Crucial Entertainment CD release[^ref-4][^ref-6]
+- **Historical Background Document:** 34-page PDF, "England Under Edward 1", included with the Crucial Entertainment CD release[^ref-4][^ref-6]
 
 ### Critical Perspective
 
@@ -252,3 +251,4 @@ Games Nostalgia sees it as "the ancestor to titles like the 'Total War' series."
 [^ref-37]: [Internet Archive – Lords of the Realm Manual](https://archive.org/details/Lords_of_the_Realm_-_Manual) – 29-page manual scan
 [^ref-39]: [VOGONS Forums – Lords of the Realm (1994) CD Version](https://www.vogons.org/viewtopic.php?t=65888) – Windows CD extras, LORDSDDR.EXE sound issue, LORDS.INF
 [^ref-40]: [Internet Archive – Next Generation Issue #3 (March 1995)](https://archive.org/details/nextgen-issue-003) – p. 93 review, four stars, "Strategy fans must own this title."
+[^ref-41]: [Internet Archive – Computer Gaming World Issue #130 (May 1995)](https://archive.org/details/Computer_Gaming_World_Issue_130/page/n41/mode/1up) – p. 40, Strategy Game of the Year feature (X-COM won), Lords of the Realm "animal husbandry" quote
