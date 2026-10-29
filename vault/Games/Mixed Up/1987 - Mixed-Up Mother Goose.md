@@ -10,7 +10,7 @@ series: Mixed-Up Mother Goose
 engine: AGI
 protagonist: Player-created child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: Mixed-Up Mother Goose is Roberta Williams' 1987 educational adventure
   game for young children, in which the player returns lost items to 18 nursery-rhyme
   characters in Mother Goose Land.
@@ -18,13 +18,13 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Mixed-Up Mother Goose is an educational adventure game designed by [[Roberta Williams]] and developed by Sierra On-Line, originally released in November 1987.[^ref-1] Sierra's own product description called it Williams' "first adventure game for kids," combining her adventure game design with classic nursery rhymes for young players.[^ref-4] It sold over 500,000 copies by 1995, and its 1991 multimedia version won the Software Publishers Association's Excellence in Software Award for Best Early Education Program.[^ref-1][^ref-34]
 
-The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3][^ref-7] Unlike Sierra's other adventure titles of the era, which used text parsers, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4][^ref-10] Sierra remade the game three times, in 1990, 1991 and 1995.[^ref-1]
+The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3][^ref-7] Unlike most of Sierra's other adventure titles of the era, which used text parsers, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4][^ref-10] Sierra remade the game three times, in 1990, 1991 and 1995.[^ref-1]
 
 The picture of Mother Goose on the original game box is Roberta Williams herself in costume. Sources disagree about the two children pictured beside her: MobyGames' trivia says they are hers, while a 2016 version of the Wikipedia article said, without a citation, that they are not.[^ref-2][^ref-35] Contemporary reviews praised the game, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
 
@@ -41,19 +41,19 @@ The picture of Mother Goose on the original game box is Roberta Williams herself
 
 ## Story Summary
 
-One night, while preparing for bed, a child (the player's avatar) is sent into the dreamlike world of Mother Goose, who needs help: all the nursery rhymes in the land have gotten mixed up, and none of the inhabitants have the items their rhymes need.[^ref-1] Humpty Dumpty needs a ladder to climb onto his wall, Mary needs her little lamb, Jack and Jill need a pail, Bo Peep has lost her sheep, and Old King Cole is missing his pipe, his bowl and his fiddlers three.[^ref-1][^ref-5][^ref-33]
+One night, while preparing for bed, a child (the player's avatar) is sent into the dreamlike world of Mother Goose, who needs help: all the nursery rhymes in the land have gotten mixed up, and none of the inhabitants have the items their rhymes need.[^ref-1] Humpty Dumpty needs a ladder to climb onto his wall, Mary needs her little lamb and Jack and Jill need a pail;[^ref-1] Bo Peep has lost her sheep,[^ref-33] and Old King Cole is missing his pipe, his bowl and his fiddlers three.[^ref-12]
 
 Players take on the role of a child character chosen at the start of the game; Compute! noted that the player can pick an icon of his or her own race and sex.[^ref-1][^ref-33] The player's mission is to "fix mixed up rhymes" by finding scattered objects throughout the land and returning them to the appropriate characters.[^ref-8]
 
 As players explore the various locations of Mother Goose Land—including houses, a school, a castle and other storybook settings—they encounter characters like Old King Cole, Little Miss Muffet, Jack and Jill, and many others.[^ref-3][^ref-8] Each character is missing something vital to their nursery rhyme, and the player must match the correct items with the correct characters. The game features 18 classic nursery rhymes to restore.[^ref-9][^ref-33]
 
-When a player successfully returns an item to its rightful owner, the complete nursery rhyme plays with the lyrics appearing on screen.[^ref-9] The game concludes when all 18 rhymes have been restored.[^ref-3][^ref-30]
+MobyGames' description of the SCI0 remake (entry 22295) says that when an item is returned to its rightful owner, "the complete nursery rhyme will play with the lyrics appearing on screen."[^ref-9] The game concludes when all 18 rhymes have been restored.[^ref-3][^ref-30]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mixed-Up Mother Goose was designed for children ages four and up, and Compute! noted that "It's not necessary for the child to read": when the player approaches a character such as Bo Peep, a cartoon balloon appears over her head with a picture of what she needs.[^ref-33] Unlike Sierra's other adventure games of the era, which relied on typed commands, the original 1987 AGI version lacked the text parser entirely; talking to someone was as simple as walking up to them, and picking something up meant walking over it.[^ref-10]
+Mixed-Up Mother Goose was designed for children ages four and up, and Compute! noted that "It's not necessary for the child to read": when the player approaches a character such as Bo Peep, a cartoon balloon appears over her head with a picture of what she needs.[^ref-33] Unlike most of Sierra's other adventure games of the era, which relied on typed commands, the original 1987 AGI version lacked the text parser entirely; talking to someone was as simple as walking up to them, and picking something up meant walking over it.[^ref-10]
 
 Players steer their character with the cursor keys or a joystick; according to Compute!, when tests showed that small children had a heavy finger on the cursor keys, Sierra changed the program to accommodate them.[^ref-33] Any missing object the player finds automatically attaches to the character until it is delivered to its owner, and only one item can be carried at a time.[^ref-1][^ref-33] The 1991 VGA remake later introduced a point-and-click interface.[^ref-10]
 
@@ -66,7 +66,7 @@ Mother Goose Land is open to explore from the beginning, and there are no restri
 - **Character Matching:** Players must determine which item belongs to which character; a character in need shows the item in a "thought bubble" when approached.[^ref-1]
 - **Rhyme Completion:** Successfully matching an item to a character triggers the nursery rhyme sequence, and a point is awarded for each fixed rhyme.[^ref-1][^ref-9]
 
-Players can only carry one item at a time, so they may need to remember where they spotted or dropped other items.[^ref-6] The original game came with a colorfully illustrated wall poster containing the text of all 18 rhymes;[^ref-33] the 1991 remake added a map of the land,[^ref-1] and the Deluxe edition included a free color map of Mother Goose Land.[^ref-4]
+Players can only carry one item at a time, so they may need to remember where they spotted or dropped other items.[^ref-6] The original game came with a colorfully illustrated wall poster containing the text of all 18 rhymes;[^ref-33] the 1991 remake added a map of the land.[^ref-1] GameFAQs' Deluxe listing carries Sierra product copy promising "a free color map of Mother Goose Land," but the listing does not say which edition that copy was written for.[^ref-4]
 
 ### Puzzles and Mechanics
 
@@ -86,17 +86,17 @@ According to Sierra On-Line, Mixed-Up Mother Goose sold over 500,000 copies by 1
 
 ### Modern Assessment
 
-On MyAbandonware, the original 1987 version holds a user rating of 4.41/5,[^ref-13] the 1991 VGA version 4.94/5,[^ref-11] and the Deluxe version 4.26/5 from 34 votes.[^ref-14] One commenter called it "one of my two favorite games as a small child (the other was 'Big Bird's Funhouse')."[^ref-13]
+On MyAbandonware, the original 1987 version holds a user rating of 4.41/5,[^ref-13] the 1991 VGA version 4.94/5,[^ref-11] and the Deluxe version 4.29/5 from 35 votes.[^ref-14] One commenter called it "one of my two favorite games as a small child (the other was 'Big Bird's Funhouse')."[^ref-13]
 
 GOG.com wishlist commenters describe it as "a true hidden gem, and a great game for kids," with users sharing memories of playing it on school library computers.[^ref-15] A user review of the indie game The Spirit and the Mouse said it "hearkened back to the simplicity of a 90s educational adventure game from my childhood 'Mixed Up Mother Goose' where you need to help each member of a storybook town."[^ref-16]
 
 **Aggregate Scores:**
-- **MobyGames (1987 original, Moby Score):** 7.2/10[^ref-3]
+- **MobyGames (1987 original, Moby Score):** 7.1/10 (35 player ratings)[^ref-3]
 - **MobyGames (1991 release, entry 22295, player average):** 4.2/5 (7 ratings)[^ref-9]
-- **MobyGames (1991 VGA/CD release, entry 1085, player average):** 4.3/5 (9 ratings)[^ref-2]
+- **MobyGames (1991 VGA/CD release, entry 1085):** Moby Score 7.5/10; player average 4.0/5 (10 ratings)[^ref-2]
 - **MyAbandonware (1987):** 4.41/5[^ref-13]
 - **MyAbandonware (1991):** 4.94/5[^ref-11]
-- **MyAbandonware (Deluxe):** 4.26/5 (34 votes)[^ref-14]
+- **MyAbandonware (Deluxe):** 4.29/5 (35 votes)[^ref-14]
 - **IMDb (1987):** 6.4/10 (11 ratings)[^ref-17]
 - **GameFAQs (Deluxe):** "Great" rating (8 ratings)[^ref-4]
 
@@ -106,7 +106,7 @@ GOG.com wishlist commenters describe it as "a true hidden gem, and a great game 
 
 Mixed-Up Mother Goose came out of the same period as Roberta Williams' King's Quest games and Sierra's Black Cauldron adaptation; The Strong's Sierra On-Line archive lists it as "a children's game called Mixed-Up Mother Goose (1987)."[^ref-19] HistoryLink's history of Sierra likewise counts it among Roberta Williams' pioneering games.[^ref-18]
 
-Ken Williams, Sierra's co-founder, later described his view of the company in this era: "I felt we were running a 'club' where our job was to build cool product for people who had bought from us before."[^ref-20]
+Ken Williams, Sierra's co-founder, has described how he saw the company: "I felt we were running a 'club' where our job was to build cool product for people who had bought from us before."[^ref-20]
 
 ### Production
 
@@ -114,14 +114,14 @@ The original 1987 version used Sierra's AGI (Adventure Game Interpreter) engine,
 
 Allen McPheeters joined Sierra as a junior programmer in summer 1987 and was initially to port the game from the PC to the Apple IIe; however, the PC version was not finished until late fall, and in December, shortly before work on the port was to begin, he left Sierra for Cinemaware.[^ref-22]
 
-**Development Credits:**[^ref-2]
-- **Design/Writing:** [[Roberta Williams]]
-- **Programmer:** David Slayback
-- **Artist:** Gerald Moore
-- **Composer (Original):** Amenda Lombardo
+**Development Credits:**
+- **Design/Writing:** [[Roberta Williams]][^ref-3]
+- **Programmer:** David Slayback (original; MobyGames lists the Atari ST version's credits)[^ref-3]
+- **Artist:** Gerald Moore (original)[^ref-3]
+- **Composer (Original):** Amenda Lombardo[^ref-3]
 - **Producers (1991 VGA Version):** [[Stuart Moulder]] (floppy disk), [[Josh Mandel]] (CD-ROM)[^ref-38]
-- **Composers (VGA Version):** [[Ken Allen]], [[Mark Seibert]], Amenda Lombardo
-- **CD-ROM Voice Cast:** Daniel Aldante, Brittany Benov, Nancy Bickley, Darby Bree Cogburn, [[Bill Davis]], Paul De Pledge, Robert Fischbach, Chris Hoyt, Chris Iden
+- **Composers (VGA Version):** [[Ken Allen]], [[Mark Seibert]], Amenda Lombardo[^ref-2]
+- **CD-ROM Voice Cast:** Daniel Aldante, Brittany Benov, Nancy Bickley, Darby Bree Cogburn, [[Bill Davis]], Paul De Pledge, Robert Fischbach, Chris Hoyt, Chris Iden[^ref-2]
 
 ### Technical Achievements
 
@@ -234,7 +234,7 @@ The game has been preserved through emulation and abandonware communities. The S
 
 - **Game Manual:** Included with the original release; a user's manual with help and tips for adults, explaining things like how to save sessions[^ref-28][^ref-33]
 - **Rhyme Poster:** A colorfully illustrated wall poster with the text of all 18 rhymes, included with the original release[^ref-33]
-- **Color Map of Mother Goose Land:** Included free with the Deluxe version to help players navigate the game world[^ref-4]
+- **Color Map of Mother Goose Land:** Promised as a free extra in the Sierra product copy on GameFAQs' Deluxe listing; the edition that copy describes is not stated[^ref-4]
 
 ### Critical Perspective
 
@@ -270,14 +270,13 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 ## References
 
 [^ref-1]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – release date, platforms, story, gameplay, remakes, Atari ST upgrade offer, sales figures, first multimedia PC game on CD-ROM
-[^ref-2]: [MobyGames – Mixed-Up Mother Goose (VGA)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – credits, voice cast, technical specifications, official description, box-art and first-CD-ROM trivia
-[^ref-3]: [MobyGames – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – platform releases, user ratings, gameplay description, watering can placement
-[^ref-4]: [GameFAQs – Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – product description, features, user ratings
-[^ref-5]: [Alchetron – Mixed-Up Mother Goose](https://alchetron.com/Mixed-Up-Mother-Goose) – rhyme and item list, box-art trivia, Space Quest V reference
+[^ref-2]: [MobyGames – Mixed-Up Mother Goose (VGA)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – VGA/CD credits, voice cast, technical specifications, official description, box-art and first-CD-ROM trivia, Moby Score 7.5 and player average 4.0/5 from 10 ratings
+[^ref-3]: [MobyGames – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – platform releases, original credits (Atari ST version), Moby Score 7.1 from 35 player ratings, gameplay description, watering can placement
+[^ref-4]: [GameFAQs – Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – Sierra product description (edition not stated), features incl. "free color map", user ratings
 [^ref-6]: [Play Classic Games – Mixed-Up Mother Goose](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) – gameplay mechanics, randomization
 [^ref-7]: [Sierra Gamers – Mixed-Up Mother Goose](https://www.sierragamers.com/mixed-up-mother-goose/) – game description, nursery rhyme premise
 [^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/screenshots/) – visual documentation, locations
-[^ref-9]: [MobyGames – Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) – gameplay description, rhyme completion mechanics, player ratings
+[^ref-9]: [MobyGames – Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) – SCI0 remake: gameplay description, lyrics on screen when a rhyme is completed, player ratings
 [^ref-10]: [TV Tropes – Mixed-Up Mother Goose](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MixedUpMotherGoose) – simplified interface, remakes, dunce cap, Fiddlers Three bug
 [^ref-11]: [MyAbandonware – Roberta Williams' Mixed-Up Mother Goose (VGA)](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) – user ratings, age appropriateness quote
 [^ref-12]: [GameFAQs – Walkthrough by ASchultz](https://gamefaqs.gamespot.com/pc/562688-roberta-williams-mixed-up-mother-goose/faqs/11350) – gameplay tips, item placement observations, King Cole order
@@ -296,9 +295,9 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-27]: [Internet Archive – CD-ROM Version](https://archive.org/details/cdrom_Mixed_Up_Mother_Goose) – preservation download
 [^ref-28]: [Sierra Gamers – Manual PDF](https://www.sierragamers.com/wp-content/uploads/2019/12/Mixed_Up_Mother_Goose_Manual.pdf) – game manual
 [^ref-30]: [Sierra Fandom Wiki – Mixed-Up Mother Goose](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – gameplay, 18 rhymes, version history
-[^ref-33]: [Compute! – "Mother Goose" (Donald B. Trivette), April 1988, p. 58](https://archive.org/details/1988-04-compute-magazine) – contemporary review: ages 4+, no reading needed, cursor keys or joystick, poster, system requirements, copy protection, price
+[^ref-33]: [Compute! – "Mother Goose" (Donald B. Trivette), April 1988, p. 59](https://archive.org/details/1988-04-compute-magazine) – contemporary review: ages 4+, no reading needed, cursor keys or joystick, poster, system requirements, copy protection, price
 [^ref-34]: [Computer Gaming World #83 – "Celebrating Software", June 1991](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA award for "the multimedia version of Mixed-Up Mother Goose"
-[^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (the text Alchetron mirrors; no longer in the current article)
+[^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (no longer in the current article)
 [^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"
 [^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
 [^ref-38]: [MobyGames – Mixed-Up Mother Goose credits, DOS (entry 1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) – "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
