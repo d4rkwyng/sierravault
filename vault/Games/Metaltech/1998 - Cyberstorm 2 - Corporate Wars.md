@@ -10,15 +10,15 @@ series: Cyberstorm
 engine: Turn-based tactical combat engine with optional real-time mode
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: 'Cyberstorm 2: Corporate Wars is a strategy game developed by Dynamix
-  and published by Sierra On-Line that went gold on April 28, 1998. The game serves
-  as a...'
+last_updated: '2026-10-29'
+description: 'Cyberstorm 2: Corporate Wars is a 1998 tactical strategy game developed
+  by Dynamix and published by Sierra On-Line, in which rival corporations fight with
+  customizable HERCs.'
 tags: [1990s, cyberstorm, sierra, strategy]
 ---
 # Cyberstorm 2: Corporate Wars
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -59,7 +59,7 @@ Customization is the game's strongest suit; Dan Hutchings of Games Domain, as qu
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around tactical combat with HERCs and other vehicles, which the player can extensively modify and customize[^ref-7]. Players manage resources and campaign across multiple planets[^ref-5]. Up to eight players can fight via Internet, network, or modem play[^ref-1], with multiplayer mission types including Free For All, Race, Recovery Mission, Destroy Base, Tag, and Capture the Flag[^ref-8].
+The core gameplay revolves around tactical combat with HERCs and other vehicles, which the player can extensively modify and customize[^ref-7]. Players campaign across multiple planets as rival corporations, with base management[^ref-5] and competition for "territorial rights and resources"[^ref-8]. Up to eight players can fight via Internet, network, or modem play[^ref-1], with multiplayer mission types including Free For All, Race, Recovery Mission, Destroy Base, Tag, and Capture the Flag[^ref-8].
 
 ## Reception
 
@@ -68,7 +68,7 @@ The core gameplay revolves around tactical combat with HERCs and other vehicles,
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 6.8/10 | Mixed reception with technical criticisms[^ref-17] |
-| MobyGames | 59% | Critic average from 14 reviews; players average 2.5/5 from 5 ratings[^ref-7] |
+| MobyGames | 59% | Critic average from 12 ratings; players average 2.5/5 from 5 ratings[^ref-7] |
 | GameRevolution | C+ | Reviewed by Calvin Hubble, 8/98: "There's nothing extremely horrid about Cyberstorm 2, but there's nothing extremely good either"[^ref-27] |
 | MyAbandonware | 4.13/5 | Community rating[^ref-15] |
 | GameFAQs | Great | Based on 4 user ratings[^ref-16] |
@@ -116,11 +116,11 @@ Multiplayer supported up to eight players via Internet, network, or modem[^ref-1
 
 ### Historical Significance
 
-Cyberstorm 2: Corporate Wars is generally remembered as a disappointing sequel. One retrospective review stated that "it is also worth noting that the game is much superior to the very disappointing sequel, Cyberstorm 2: Corporate Wars"[^ref-24]. Old Games blamed "the hard gameplay and not so great graphics"[^ref-18].
+Some retrospectives rate it below its predecessor. One review stated that "it is also worth noting that the game is much superior to the very disappointing sequel, Cyberstorm 2: Corporate Wars"[^ref-24]. Old Games blamed "the hard gameplay and not so great graphics"[^ref-18].
 
 ### Preservation and Community
 
-The game is not sold on any digital store; its GOG Dreamlist entry collects player votes and stories recalling its customization depth[^ref-14]. Modern players can access the game through abandonware sites, though it needs a 32-bit version of the 1.01 patch to update on modern Windows[^ref-25]. ModDB hosts both Sierra's patch and the 32-bit redo[^ref-21].
+The game is not sold on any digital store; its GOG Dreamlist entry collects player votes and stories recalling its customization depth[^ref-14]. On modern Windows it needs a 32-bit version of the 1.01 patch to update[^ref-25]. ModDB hosts both Sierra's patch and the 32-bit redo[^ref-21].
 
 ### Impact on the Franchise
 
@@ -153,29 +153,29 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 
 ## References
 
-[^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - "CyberStorm 2 Goes Gold" (04/28/98): gold master, eight corporations, up to eight players, US$39.95
-[^ref-2]: [ModDB Game Page](https://www.moddb.com/games/cyberstorm-2-corporate-wars) – - Story background and series context
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/CyberStorm_2:_Corporate_Wars) – - Plot summary, HERC name, grid/facing changes
-[^ref-4]: [GamePressure](https://www.gamepressure.com/games/cyberstorm-2-corporate-wars/z5186f) – - Unit and component counts
-[^ref-5]: [AbeBooks Strategy Guide](https://www.abebooks.com/9780761515746/Cyberstorm-Corporate-Wars-Primas-Official-0761515747/plp) – - Prima guide by Shane Mooney; game premise
-[^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/cyberstorm-2-corporate-wars-review/1900-2538492/) – - Greg Kasavin's review
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – - Credits, description, critic (59%, 14 reviews) and player (2.5/5) scores, series listing
-[^ref-8]: [Archive.org Manual](https://archive.org/stream/CyberStorm_2-_Corporate_Wars_-_Manual/CyberStorm_2-_Corporate_Wars_-_Manual_djvu.txt) – - Prologue, system requirements, multiplayer modes
-[^ref-10]: [KHInsider Downloads](https://downloads.khinsider.com/game-soundtracks/album/cyberstorm-2-corporate-wars-1998-windows) – - Visual perspective description
-[^ref-11]: [MobyGames Reviews](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/reviews/) – - Battlefield system changes
-[^ref-12]: [GameRevolution](https://www.gamerevolution.com/review/33208-cyberstorm-2-corporate-wars-review) – - Review text (current site repost)
-[^ref-13]: [GamesDB LaunchBox](https://gamesdb.launchbox-app.com/games/details/129606-cyberstorm-2-corporate-wars) – - Corporation mechanics
-[^ref-14]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/cyberstorm-2-corporate-wars) – - User stories (2025)
-[^ref-15]: [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r) – - Community rating; quotes Dan Hutchings (Games Domain)
-[^ref-16]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197023-cyberstorm-2-corporate-wars) – - User rating (4 ratings)
-[^ref-17]: [GameSpot](https://www.gamespot.com/games/cyberstorm-2-corporate-wars/cheats/) – - Review score
-[^ref-18]: [Old Games](https://www.old-games.com/download/6222/cyberstorm-2-corporate-wars) – - Review and rating breakdown
-[^ref-19]: [Sierra Gamers](https://www.sierragamers.com/cyberstorm-2/) – - Series context
-[^ref-20]: [Thomas Van Velkinburgh Portfolio](http://www.tvanv.com/cyberstorm-2-corporate-wars/) – - Individual developer contributions
-[^ref-21]: [ModDB Patch](https://www.moddb.com/downloads/cyberstorm2-corporate-wars-patch-v101) – - Patch 1.01 and its July 2, 1998 readme
-[^ref-22]: [GitHub Wiki](https://github.com/juanitogan/rbxit/wiki/CyberStorm-2) – - Installation requirements
-[^ref-23]: [NameThatTech Blog](https://namethattech.wordpress.com/2016/01/18/fixing-up-old-computer-games/) – - 32-bit redo of Sierra's 1.01 patch
-[^ref-24]: [MyAbandonware Original Review](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q) – - Series comparison
-[^ref-25]: [GitHub Repository](https://github.com/juanitogan/rbxit) – - Preservation patches
-[^ref-26]: [Web Archive GameSpot News – New Releases](https://web.archive.org/web/20000612113807/http://headline.gamespot.com/news/98_06/04_release/index.html) – - 06/04/98: "Cyberstorm 2: Corporate Wars from Sierra On-Line has made it to retailers"
-[^ref-27]: [Web Archive GameRevolution Review (1998)](https://web.archive.org/web/19990221065521/http://www.game-revolution.com:80/games/pc/strategy/cyberstorm.htm) – - Original review by Calvin Hubble, 8/98, grade C+
+[^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – "CyberStorm 2 Goes Gold" (04/28/98): gold master, eight corporations, up to eight players, US$39.95
+[^ref-2]: [ModDB Game Page](https://www.moddb.com/games/cyberstorm-2-corporate-wars) – Story background and series context
+[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/CyberStorm_2:_Corporate_Wars) – Plot summary, HERC name, grid/facing changes
+[^ref-4]: [GamePressure](https://www.gamepressure.com/games/cyberstorm-2-corporate-wars/z5186f) – Unit and component counts
+[^ref-5]: [AbeBooks Strategy Guide](https://www.abebooks.com/9780761515746/Cyberstorm-Corporate-Wars-Primas-Official-0761515747/plp) – Prima guide by Shane Mooney; game premise
+[^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/cyberstorm-2-corporate-wars-review/1900-2538492/) – Greg Kasavin's review
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – Credits, description, critic (59%, 12 ratings) and player (2.5/5) scores, series listing
+[^ref-8]: [Archive.org Manual](https://archive.org/stream/CyberStorm_2-_Corporate_Wars_-_Manual/CyberStorm_2-_Corporate_Wars_-_Manual_djvu.txt) – Prologue, system requirements, multiplayer modes
+[^ref-10]: [KHInsider Downloads](https://downloads.khinsider.com/game-soundtracks/album/cyberstorm-2-corporate-wars-1998-windows) – Visual perspective description
+[^ref-11]: [MobyGames Reviews](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/reviews/) – Battlefield system changes
+[^ref-12]: [GameRevolution](https://www.gamerevolution.com/review/33208-cyberstorm-2-corporate-wars-review) – Review text (current site repost)
+[^ref-13]: [GamesDB LaunchBox](https://gamesdb.launchbox-app.com/games/details/129606-cyberstorm-2-corporate-wars) – Corporation mechanics
+[^ref-14]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/cyberstorm-2-corporate-wars) – User stories (2025)
+[^ref-15]: [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r) – Community rating; quotes Dan Hutchings (Games Domain)
+[^ref-16]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197023-cyberstorm-2-corporate-wars) – User rating (4 ratings)
+[^ref-17]: [GameSpot](https://www.gamespot.com/games/cyberstorm-2-corporate-wars/cheats/) – Review score
+[^ref-18]: [Old Games](https://www.old-games.com/download/6222/cyberstorm-2-corporate-wars) – Review and rating breakdown
+[^ref-19]: [Sierra Gamers](https://www.sierragamers.com/cyberstorm-2/) – Series context
+[^ref-20]: [Thomas Van Velkinburgh Portfolio](http://www.tvanv.com/cyberstorm-2-corporate-wars/) – Individual developer contributions
+[^ref-21]: [ModDB Patch](https://www.moddb.com/downloads/cyberstorm2-corporate-wars-patch-v101) – Patch 1.01 and its July 2, 1998 readme
+[^ref-22]: [GitHub Wiki](https://github.com/juanitogan/rbxit/wiki/CyberStorm-2) – Installation requirements
+[^ref-23]: [NameThatTech Blog](https://namethattech.wordpress.com/2016/01/18/fixing-up-old-computer-games/) – 32-bit redo of Sierra's 1.01 patch
+[^ref-24]: [MyAbandonware Original Review](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q) – Series comparison
+[^ref-25]: [GitHub Repository](https://github.com/juanitogan/rbxit) – Preservation patches
+[^ref-26]: [Web Archive GameSpot News – New Releases](https://web.archive.org/web/20000612113807/http://headline.gamespot.com/news/98_06/04_release/index.html) – 06/04/98: "Cyberstorm 2: Corporate Wars from Sierra On-Line has made it to retailers"
+[^ref-27]: [Web Archive GameRevolution Review (1998)](https://web.archive.org/web/19990221065521/http://www.game-revolution.com:80/games/pc/strategy/cyberstorm.htm) – Original review by Calvin Hubble, 8/98, grade C+
