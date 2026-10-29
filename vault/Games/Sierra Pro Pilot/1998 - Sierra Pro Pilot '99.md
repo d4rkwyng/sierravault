@@ -10,14 +10,14 @@ series: Pro Pilot
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: 'Pro Pilot ''99: The Complete Flight Simulator was Dynamix''s 1998 follow-up to Pro Pilot 98,
   adding 3Dfx graphics, a pop-up Operator''s Handbook, NAFI-developed tutorials, the Cessna 172R and Western European scenery.'
 tags: [1990s, pro-pilot, sierra, dynamix, simulation]
 ---
 # Sierra Pro Pilot '99
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,7 @@ Each of the six aircraft has its own detailed cockpit panel. GameSpot found them
 
 The headline interface addition was the Pop-Up Operator's Handbook, which can be viewed on screen while flying, even in 3D-accelerated mode[^ref-6]. It holds checklists, performance data, flight tutorials, scenic flights, challenge flights, custom tabs and personal notes[^ref-17]. GameSpot noted its "step-by-step checklists for procedures such as starting the aircraft, takeoff, climb, descent, and landing"[^ref-10].
 
-Navigation aids include VORs, NDBs and ILS. A Global Positioning System display is tied to the autopilot[^ref-10][^ref-17]. Air traffic control is audio[^ref-17]. Players can choose to hear "themselves" read back instructions, or let a talking copilot handle radio calls[^ref-12][^ref-14]. In the Cessna, an instructor is also available to give advice[^ref-14].
+Navigation aids include VORs, NDBs and ILS. A Global Positioning System display is tied to the autopilot[^ref-10][^ref-17]. Air traffic control is audio[^ref-17]. Players can choose to hear "yourself" reading back the instructions, in Games Domain's words, or let a talking copilot handle radio calls[^ref-12][^ref-14]. In the Cessna, an instructor is also available to give advice[^ref-14].
 
 The game runs only at 640×480, in both 2D and 3D modes[^ref-10]. Games Domain noted that the Windows interface screens were also fixed at 640×480, which left the flight-planning maps "way too small"[^ref-14].
 
@@ -170,7 +170,7 @@ Other specifications:
 | 1.0 | October 15, 1998 | Windows 95/98 | Release date per IGN[^ref-9] |
 | 1.01 | By February 1999 | Windows 95/98 | Version reviewed by Games Domain (review filed under February 1999)[^ref-14] |
 | Patch | By February 1999 | Windows 95/98 | Readme lists 21 flight-related fixes, including the "rocket" Cessna takeoff[^ref-14] |
-| France | May 1999 | Windows | English-language version[^ref-15] |
+| — | May 1999 | Windows | Jeuxvideo.com review listing (English version)[^ref-15] |
 | Japan | April 23, 1999 | Windows | Published by Imagineer[^ref-4] |
 | Taiwan | July 28, 1999 | Windows | Published by Acer TWP[^ref-4] |
 | Germany | 1999 | Windows | Sierra Originals budget release[^ref-4] |
