@@ -276,7 +276,6 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 
 **Modifications**
 - [ModDB – SWAT 4: The Stetchkov Syndicate Mods](https://www.moddb.com/games/swat-4-the-stetchkov-syndicate)
-- [GamePressure – SAS Mod v1.1](https://www.gamepressure.com/download/swat-4-the-stetchkov-syndicate-sas-mod-v11/z0c3f4)
 
 ## See Also
 
@@ -321,7 +320,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-32]: [GamePressure – SEF Community Mod](https://www.gamepressure.com/download.asp?ID=76834) – mod description, bug mentions, cut content restoration
 [^ref-34]: [IGN – SWAT 4 Review](https://www.ign.com/articles/2005/03/31/swat-4) – AI inconsistency quote, sound glitch, 9/10 score
 [^ref-35]: [MobyGames – SWAT 4: Gold Edition](https://www.mobygames.com/game/25772/swat-4-gold-edition/) – media types, compilation info
-[^ref-36]: [GamePressure – SAS Mod](https://www.gamepressure.com/download/swat-4-the-stetchkov-syndicate-sas-mod-v11/z0c3f4) – mod features and description
+[^ref-36]: GamePressure – "SWAT 4: The Stetchkov Syndicate – SAS Mod v1.1" mod page (cited as text only; the page's sidebar promotes adult mods) – mod features and description
 [^ref-37]: [ModDB – This is the Police OST Mod](https://www.moddb.com/mods/this-is-the-police-franchise-music/downloads/swat-4-with-this-is-the-police-franchises-ost) – soundtrack replacement mod
 [^ref-38]: [Neoseeker – FAQs](https://www.neoseeker.com/swat-4-the-stetchkov-syndicate/faqs/) – strategy guide information
 [^ref-39]: [Sydney Morning Herald – SWAT 4 Review (base game, Archived)](https://web.archive.org/web/20230405054848/https://www.smh.com.au/lifestyle/swat-the-rot-20050507-gdl9sr.html) – "brain over brawn" quote, 3.5/5 score

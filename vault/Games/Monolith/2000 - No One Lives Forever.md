@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech 2.5
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-17'
+last_updated: '2026-10-28'
 description: 'The Operative: No One Lives Forever is a story-driven 1960s spy first-person
   shooter developed by Monolith Productions and published by Fox Interactive in November
   2000, starring UNITY agent Cate Archer.'
@@ -18,7 +18,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # The Operative: No One Lives Forever
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -371,7 +371,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-43]: [Easter Egg Database](https://eeggs.com/items/19762.html) – submarine "5675 - 309" easter egg
 [^ref-44]: [Interactive Achievement Awards 2001](http://www.interactive.org/awards/2001_4th_awards.asp) – award nominations
 [^ref-45]: [Unity HQ Forums](https://nolfgirl.net/Unityhq/forums/files/category/13-mods/) – modding community
-[^ref-46]: [GamePressure – Widescreen Patch](https://www.gamepressure.com/download/the-operative-no-one-lives-forever-widescreen-patch-v20-mod/z3e545) – mod information
+[^ref-46]: GamePressure – "The Operative: No One Lives Forever – Widescreen Patch v2.0" mod page (cited as text only; the page's sidebar promotes adult mods) – mod information
 [^ref-47]: [Kotaku – Rights Investigation](https://kotaku.com/the-sad-story-behind-a-dead-pc-game-that-cant-come-back-1688358811) – Night Dive attempts, ownership issues
 [^ref-48]: [Video Games Chronicle – Night Dive Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Stephen Kick quote
 [^ref-49]: [NOLF Fandom Wiki – Strategy Guide](https://nolf.fandom.com/wiki/No_One_Lives_Forever_Prima's_Official_Strategy_Guide) – guide details

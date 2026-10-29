@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI resources / native DLL logic
 protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -180,7 +180,7 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-43]: [UVList](https://www.uvlist.net/game-154424-Shivers+Two+Harvest+of+Souls) – Génération 4 review score from June 1997
 [^ref-44]: [Glitchwave](https://glitchwave.com/game/shivers-two-harvest-of-souls/) – User aggregate rating and gameplay analysis
 [^ref-45]: [IMDb](https://www.imdb.com/find/?q=Shivers+Two%3A+Harvest+of+Souls&s=tt) – User rating of 8.2/10
-[^ref-50]: [Game Pressure Alternative Installer](https://www.gamepressure.com/download/shivers-two-harvest-of-souls-alternative-installer-mod/z812885) – Squirtthecat's community patch history
+[^ref-50]: GamePressure – "Shivers Two: Harvest of Souls – Alternative Installer" mod page (cited as text only; the page's sidebar promotes adult mods) – Squirtthecat's community patch history
 [^ref-51]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Shivers_Two:_Harvest_of_Souls) – Technical compatibility issues documentation
 [^ref-57]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Shivers sweater, Al Lowe photo, four endings, five songs, live-action cut-scenes
 [^ref-65]: Old-Games.com Review *(download link removed: the game is sold commercially)* – Overall gameplay assessment
