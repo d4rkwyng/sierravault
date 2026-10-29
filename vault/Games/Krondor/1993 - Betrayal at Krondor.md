@@ -10,24 +10,25 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 composer: [Jan Paul Moorhead]
-description: Betrayal at Krondor is a role-playing game developed by
-  Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set
-  in...
+description: 'Betrayal at Krondor is a role-playing game developed by Dynamix and
+  published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set in Raymond
+  E. Feist''s Midkemia, its original story was later novelized by Feist as Krondor: The
+  Betrayal.'
 tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Betrayal at Krondor is a role-playing game developed by Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS,[^ref-1][^ref-30] although The Digital Antiquarian dates its shipment to June 15, 1993.[^ref-20] Set in the fantasy world of Midkemia from Raymond E. Feist's Riftwar novels, the game featured an original story that Feist later novelized as *Krondor: The Betrayal*, and the game is considered canon in his universe.[^ref-1] When Computer Gaming World inducted it into its Hall of Fame in 2001, the magazine credited it with offering a 3D environment and called it "one of the first games to use digitized images effectively in the context of a role-playing game."[^ref-1]
+Betrayal at Krondor is a role-playing game developed by Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS,[^ref-1][^ref-30] although The Digital Antiquarian dates its shipment to June 15, 1993.[^ref-20] Set in the fantasy world of Midkemia from Raymond E. Feist's Riftwar novels, the game featured an original story that Feist later novelized as *Krondor: The Betrayal*, and the game is considered canon in his universe.[^ref-1] When Computer Gaming World inducted it into its Hall of Fame in February 1996, the magazine called it "the first role-playing game to offer a 3-D environment" and "one of the first games to use digitized images effectively in the context of a role-playing game."[^ref-2]
 
 Designed to resemble an interactive novel, Betrayal at Krondor divided its narrative into nine distinct chapters, each with specific goals while allowing players considerable freedom in how those objectives were achieved.[^ref-4][^ref-24] The game employed Dynamix's 3Space engine, the same technology used in their acclaimed flight simulators Red Baron and Aces over Europe, adapted to create an immersive fantasy world spanning 224 million square feet of explorable terrain.[^ref-5] Computer Gaming World called it "a fantasy role-playing game unlike any other ... a new high-watermark in RPG design."[^ref-1]
 
-The game achieved critical and commercial success, winning Computer Gaming World's Role-Playing Game of the Year award and sitting atop Entertainment Weekly's CD game best-seller list for six months.[^ref-6] Though initial sales on floppy disk were slow, the game became a hit when it was re-released on CD-ROM in 1994.[^ref-1][^ref-24]
+The game achieved critical and commercial success, winning Computer Gaming World's Premier Role-Playing Game of the Year award;[^ref-40] by Feist's own account, it also sat atop Entertainment Weekly's CD game best-seller list for six months.[^ref-6] Though initial sales on floppy disk were slow, the game became a hit when it was re-released on CD-ROM in 1994.[^ref-1][^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -42,7 +43,7 @@ The game achieved critical and commercial success, winning Computer Gaming World
 
 ## Story Summary
 
-The story begins as Gorath, a moredhel (dark elf) renegade, is attacked by an assassin while attempting to warn the people of Krondor of an upcoming moredhel invasion led by the warlord Delekhan.[^ref-2] Gorath is rescued by Seigneur Locklear, a young knight serving Prince Arutha of Krondor, and the two are joined by Owyn Beleforte, a young magician and the youngest son of the Count of Tiburn.[^ref-1] Together, the unlikely trio must journey to Krondor to deliver Gorath's warning about the impending threat to the Kingdom of the Isles.
+The story begins as Gorath, a moredhel (dark elf) renegade, is attacked by an assassin while attempting to warn the people of Krondor of an upcoming moredhel invasion led by the warlord Delekhan.[^ref-24] Gorath is rescued by Seigneur Locklear, a young knight serving Prince Arutha of Krondor, and the two are joined by Owyn Beleforte, a young magician and the youngest son of the Count of Tiburn.[^ref-1] Together, the unlikely trio must journey to Krondor to deliver Gorath's warning about the impending threat to the Kingdom of the Isles.
 
 The narrative unfolds across nine chapters that explore political intrigue, ancient magic, and the complex relationship between humans and the moredhel, who have been enemies for generations.[^ref-7] As players progress, they uncover a conspiracy involving the Nighthawks, an ancient guild of assassins who have plagued Midkemia for centuries and were purged from Krondor ten years prior by Prince Arutha after their involvement in the poisoning of Princess Anita.[^ref-8] The characters also encounter Lysle Rigger, Jimmy the Hand's long-lost twin brother, a character first introduced in this game who would later appear in Feist's novels.[^ref-1]
 
@@ -52,7 +53,7 @@ The story takes players across the realm of Midkemia, from the northern province
 
 ### Interface and Controls
 
-Betrayal at Krondor employs what contemporary reviewers called "one of the easiest and most intuitive interfaces encountered, one that conveniently handles all aspects of the game, from trading to casting magic spells to combat."[^ref-1] The game presents exploration through a first-person 3D perspective while combat switches to an isometric tactical view with characters positioned on a grid system.[^ref-11] Players can control navigation using either keyboard or mouse, with the interface designed to feel like reading and interacting with a book.[^ref-12]
+Betrayal at Krondor employs what contemporary reviewers called "one of the easiest and most intuitive interfaces encountered, one that conveniently handles all aspects of the game, from trading to casting magic spells to combat."[^ref-1] The game presents exploration through a first-person 3D perspective while combat switches to separate turn-based, grid-based screens.[^ref-11][^ref-24] Players can control navigation using either keyboard or mouse, with the interface designed to feel like reading and interacting with a book.[^ref-12]
 
 The game's book-like presentation extends throughout its design philosophy, with text windows styled to look like paper pages, chapter transitions marked with page numbers, and even the quick-save option labeled as a "bookmark."[^ref-13] This thematic consistency earned praise for its thoroughness: "This is the way you do a game with stylisation – you pull no punches and dedicate it completely to the theme."[^ref-13]
 
@@ -70,7 +71,7 @@ The game is divided into nine chapters, each functioning like a section of a nov
 - **Chapter 8:** Journey to Timirianya and encounter with Pug[^ref-1][^ref-9]
 - **Chapter 9:** Final confrontation and resolution
 
-Each chapter establishes boundaries on where players can travel, with new areas opening as the story progresses.[^ref-17] The design philosophy prioritized player agency within the narrative framework: "From a quick glance at the MAP it should be obvious that the most direct path towards Krondor is the one leading South from the starting point. It is quite possible to finish the game by choosing this route. However, you should bear in mind that you have access to many other areas in this Chapter."[^ref-18]
+Each chapter establishes boundaries on where players can travel, with new areas opening as the story progresses.[^ref-1][^ref-17] The design philosophy prioritized player agency within the narrative framework: "From a quick glance at the MAP it should be obvious that the most direct path towards Krondor is the one leading South from the starting point. It is quite possible to finish the game by choosing this route. However, you should bear in mind that you have access to many other areas in this Chapter."[^ref-18]
 
 ### Puzzles and Mechanics
 
@@ -102,7 +103,7 @@ Betrayal at Krondor received widespread critical acclaim upon release, with revi
 
 ### Modern Assessment
 
-Betrayal at Krondor has maintained its reputation as a landmark RPG, frequently appearing on best-of lists decades after release. Modern critics continue to praise its narrative sophistication and innovative design choices.
+Betrayal at Krondor has kept appearing on best-of lists decades after release, among them IGN's Top 100 RPGs.[^ref-22]
 
 The game has been described as "thoroughly unique, a welcome breath of bold originality in a genre usually content to rely on the tried and true."[^ref-20] One modern analysis noted: "Talent truly triumphs over everything else...No other RPG I know dedicated so much care and effort to balancing those two extremes - the freedom to go wherever you want and the dominance of a tight plot."[^ref-21]
 
@@ -115,7 +116,7 @@ The game earned particular praise for its immersive qualities. One MobyGames rev
 - **IMDB:** 8.5/10 (90 ratings)[^ref-25]
 - **GOG.com:** 4.6/5 (90 reviews)[^ref-26]
 - **Steam:** Very Positive (90% of 131 reviews)[^ref-27]
-- **Game Rankings:** 88%[^ref-3]
+- **GameRankings:** 87.5% (2 reviews)[^ref-41]
 
 ## Development
 
@@ -138,7 +139,7 @@ The project began with a week in which Cutter and Hallford hashed out the game a
 **Development Credits:**[^ref-24]
 
 - **Design, Director:** John Cutter[^ref-24]
-- **Level / Scenario Design; Writing / Dialogue / Story (with Feist):** [[Neal Hallford]][^ref-24]
+- **Level / Scenario Design; Writing / Dialogue / Story:** [[Neal Hallford]][^ref-24] (MobyGames also lists Raymond E. Feist under Writing / Dialogue / Story; see Production for Feist's actual role)[^ref-1]
 - **Lead Programmer:** Nels Bruckner[^ref-28]
 - **Composer:** Jan Paul Moorhead[^ref-1][^ref-31]
 - **Box Cover Painting:** Roger Smith[^ref-30]
@@ -154,7 +155,7 @@ The game featured more than 2,500 frames of rotoscoped animation and created a w
 ### Technical Specifications
 
 **Original Floppy Version:**[^ref-34]
-- **Media:** Seven 3½" floppy disks[^ref-4]
+- **Media:** Seven 3½" floppy disks[^ref-4][^ref-22]
 - **Resolution:** 320×200, 256-color VGA mode[^ref-1]
 - **Hard Drive Space:** 15 MB minimum
 - **RAM:** 2 MB (1 MB available EMS)
@@ -231,11 +232,10 @@ According to Raymond E. Feist himself: "Betrayal at Krondor won awards, sat atop
 
 The game accumulated numerous accolades:[^ref-1][^ref-6][^ref-24]
 
-- **Computer Gaming World Role-Playing Game of the Year** (June 1994)
-- **Computer Gaming World Game of the Year** (1993)
+- **Computer Gaming World Premier Role-Playing Game of the Year** (June 1994, issue #119)[^ref-40]
 - **Computer Games Strategy Plus Best RPG and Game of the Year** (1993)
 - **Compute Magazine Best Fantasy Role-playing/Adventure Game of the Year**
-- **Computer Gaming World Hall of Fame** (inducted 2001)
+- **Computer Gaming World Hall of Fame** (inducted February 1996, issue #139)[^ref-2]
 - **Computer Gaming World #43 on 150 Best Games of All Time** (November 1996)
 - **GameStar (Germany) #76 in 100 Most Important PC Games of the Nineties** (December 1999)
 - **PC Gamer #31 Best Computer Game Ever** (1994)
@@ -261,17 +261,17 @@ A complete text compilation of all game dialogue and narrative was compiled by E
 
 ### Critical Perspective
 
-Betrayal at Krondor occupies a unique position in RPG history as a game that successfully bridged literary fiction and interactive entertainment. One MobyGames reviewer recalled, hedging "if my memory serves me right," that BioWare named it as a direct influence on Baldur's Gate.[^ref-21] Its approach to narrative—treating the game as an interactive novel with meaningful player agency within a crafted story—influenced how developers approached story-driven RPGs for decades afterward.
+One MobyGames reviewer recalled, hedging "if my memory serves me right," that BioWare named it as a direct influence on Baldur's Gate.[^ref-21]
 
-The game was remarkable for being Dynamix's first CRPG, and the company never made a second.[^ref-20] A company known for flight simulators created what many consider one of the finest RPGs ever made, prompting one reviewer to note: "Talent truly triumphs over everything else."[^ref-21] The designers' willingness to break established RPG conventions—no random encounters, use-based skill improvement, chapter-based storytelling—created something distinctive that stood apart from both Western and Japanese RPG traditions of the era.
+The game was remarkable for being Dynamix's first CRPG, and the company never made a second.[^ref-20] A company known for flight simulators created what many consider one of the finest RPGs ever made, prompting one reviewer to note: "Talent truly triumphs over everything else."[^ref-21] The designers broke with several RPG conventions of the day: there are no random encounters, skills improve through use, and the story is told in chapters.[^ref-19][^ref-20]
 
-Perhaps most significantly, Betrayal at Krondor demonstrated that licensed games could exceed their source material rather than merely capitalize on it. When Feist first saw the finished product at the Consumer Electronics Show in 1993, he reflected: "It was a revelation. It was my world, but it wasn't. These were my characters, but they weren't."[^ref-6] His decision to novelize the game's story, making it canonical to his literary universe, remains one of the most notable examples of a game influencing its source franchise rather than the reverse.
+When Feist first saw the finished product at the Consumer Electronics Show in 1993, he reflected: "It was a revelation. It was my world, but it wasn't. These were my characters, but they weren't."[^ref-6] He later novelized the game's story as *Krondor: The Betrayal*, and the game is considered canon in his universe.[^ref-1]
 
 ## Related Games
 
 Betrayal at Krondor spawned both official and unofficial successors:
 
-- **Betrayal in Antara** (1997) – Developed by Sierra without the Feist license, using original characters in a new setting[^ref-26]
+- **Betrayal in Antara** (1997) – A spiritual successor developed by Sierra on an updated version of Krondor's engine, without ties to Feist's universe[^ref-30]
 - **Return to Krondor** (1998) – Official sequel developed by PyroTechnix/7th Level and published by Sierra Studios, later novelized by Feist as Krondor: Tear of the Gods[^ref-32]
 
 ## Downloads
@@ -296,7 +296,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 ## References
 
 [^ref-1]: [Wikipedia – Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) – release date, developers, publishers, awards, version history, technical specifications, trivia
-[^ref-2]: Internet Archive – Betrayal at Krondor (1993) *(download link removed: the game is sold commercially)* – plot summary, Feist involvement
+[^ref-2]: [Computer Gaming World #139 (February 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_139) – Hall of Fame "Induction Ceremony": "We do hereby induct Betrayal at Krondor (BAK) into this august collection of classics"
 [^ref-3]: [Betrayal Fandom Wiki](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor) – contemporary reviews from Pelit, Dragon, Quandary, Computer Gaming World
 [^ref-4]: [Official Raymond E. Feist Website](https://www.crydee.com/raymond-feist/games/computer-based/betrayal-at-krondor) – chapter structure, gameplay features
 [^ref-5]: [COMPUTE! Magazine Issue 159](https://www.atarimagazines.com/compute/issue159/110_Betrayal_at_Krondor.php) – 3Space engine, technical details, Scott A. May review
@@ -334,3 +334,5 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-37]: [The Cutting Room Floor – Betrayal at Krondor](https://tcrf.net/Betrayal_at_Krondor) – cheat menu dialogue
 [^ref-38]: [GameFAQs Story Text Guide](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/28141) – text compilation credits, Michael Dorn quote
 [^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
+[^ref-40]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; DOOM is named PREMIER Game of the Year
+[^ref-41]: [GameRankings – Betrayal at Krondor (archived 2019)](https://web.archive.org/web/20191209012808/https://www.gamerankings.com/pc/564546-betrayal-at-krondor/) – "87.50%", "Score based on 2 reviews"

@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 1998
 total_games: 3
 genre: "Role-Playing"
-last_updated: "2026-10-26"
+last_updated: '2026-10-28'
 ---
 
 # Krondor Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -71,7 +71,7 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 
 *Betrayal at Krondor* (1993) is the most-cited entry in the series and the one that defines its reputation:
 
-- ***Computer Gaming World*** ranked it #43 on its list of the 150 best games of all time (November 1996) and added it to its Hall of Fame in 2001.[^ref-1]
+- ***Computer Gaming World*** ranked it #43 on its list of the 150 best games of all time (November 1996) and had inducted it into its Hall of Fame in February 1996 (issue #139).[^ref-1][^ref-26]
 - ***PC Gamer US*** named it the 31st best computer game ever in 1994, included it in its 1997 "Best 50 Games of All-Time" list, and ranked it 44th in 1998.[^ref-1]
 - **IGN** placed it at #92 on its Top 100 RPGs of All Time.[^ref-18]
 
@@ -103,3 +103,4 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 [^ref-23]: [GameSpot News — New Releases, November 24, 1998 (Wayback Machine)](https://web.archive.org/web/20000606102406/http://headline.gamespot.com/news/98_11/24_pc_new/index.html) — Return to Krondor from Sierra among the week's new releases
 [^ref-24]: [Next Generation #12 (December 1995), Internet Archive](https://archive.org/details/NEXT_Generation_12/page/n27/mode/2up) — Dynamix stopped work on the Krondor sequel; Feist took Midkemia to 7th Level
 [^ref-25]: [MobyGames – Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
+[^ref-26]: [Computer Gaming World #139 (February 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_139) – Hall of Fame "Induction Ceremony": "We do hereby induct Betrayal at Krondor (BAK) into this august collection of classics"
