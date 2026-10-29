@@ -10,18 +10,18 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road Studios and Phoenix Online Studios, and published by Phoenix Online Publishing.'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 composer: [Robert Holmes]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road Studios and Phoenix Online Studios and published by Phoenix Online Publishing on April 15, 2014[^ref-7][^ref-2]. It was designed by Jane Jensen, the designer behind Sierra's Gabriel Knight series, and was funded by a Kickstarter campaign that raised around $435,000 (less fees)[^ref-2]. The game follows Malachi Rector, "a globe-trotting antiques dealer"[^ref-3], as he becomes entangled in a government conspiracy built around a theory that history repeats itself[^ref-6].
+Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road Studios and [[Phoenix Online Studios]] and published by Phoenix Online Publishing on April 15, 2014[^ref-7][^ref-2]. It was designed by Jane Jensen, the designer behind Sierra's Gabriel Knight series, and was funded by a Kickstarter campaign that raised around $435,000 (less fees)[^ref-2]. The game follows Malachi Rector, "a globe-trotting antiques dealer"[^ref-2], as he becomes entangled in a government conspiracy built around a theory that history repeats itself[^ref-6].
 
 The store page describes it as "a contemporary adventure that merges classic point-and-click puzzle solving with Jane Jensen’s sophisticated storytelling"[^ref-4]. Cult of Mac called it "the first installment in a planned series revolving around Malachi Rector"[^ref-10]. Alongside standard inventory and dialogue puzzles, the game sets challenges built around analysing people and matching them with historical figures[^ref-5], a profiling skill one reviewer likened to Sherlock Holmes[^ref-16]. Built in the Unity engine[^ref-7], the game blends 2D and 3D graphics[^ref-15]. The publisher tagged it "A Metaphysical Thriller"[^ref-5], and GameCritics' reviewer described it as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games"[^ref-6].
 
@@ -76,7 +76,7 @@ The game's signature feature is its character analysis. GOG's store page introdu
 
 ### Modern Assessment
 
-The game received mixed reviews[^ref-2]. Several critics measured it against Jane Jensen's reputation. PCGamesN wrote, "Had I not known that this was the work of Jane Jensen, I honestly wouldn't have believed it"[^ref-19]. GameCritics concluded that "The lack of meaningful puzzles and memorable characters make it pale in comparison to her Sierra adventures"[^ref-6]. On Steam, 78% of the game's 164 user reviews are positive as of October 2026[^ref-21], and GOG users rate it 3.4/5 stars[^ref-15].
+The game received mixed reviews[^ref-2]. Several critics measured it against Jane Jensen's reputation. PCGamesN wrote, "Had I not known that this was the work of Jane Jensen, I honestly wouldn't have believed it"[^ref-19]. GameCritics concluded that "The lack of meaningful puzzles and memorable characters make it pale in comparison to her Sierra adventures"[^ref-6]. On Steam, 78% of the game's 164 user reviews are positive as of October 2026[^ref-4], and GOG users rate it 3.4/5 stars[^ref-15].
 
 ## Development
 
@@ -88,7 +88,7 @@ Wikipedia notes that the campaign was inspired by recent Kickstarter successes s
 
 ### Production
 
-The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *The Silver Lining*[^ref-13]. Jane Jensen designed and wrote the game, and Robert Holmes composed the soundtrack[^ref-22]. Art direction is credited to [[Andy Hoyos]] and Michael Fortunato[^ref-23].
+The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *[[2010 - The Silver Lining|The Silver Lining]]*, and was at the time working with Jensen on a remake of the first Gabriel Knight game[^ref-13]. Jane Jensen designed and wrote the game[^ref-22][^ref-23], and [[Robert Holmes]] composed the soundtrack[^ref-22]. Art direction is credited to [[Andy Hoyos]] and Michael Fortunato[^ref-23].
 
 Eurogamer.de described Moebius as Jensen's first major game since *Gray Matter*, and the first since *Gabriel Knight 3* on which she again had full creative control[^ref-13].
 
@@ -109,9 +109,9 @@ Colin Benoit as David Walker and Erik Braa as Douglas Carter are also listed on 
 
 ### Technical Achievements
 
-The game was built with Unity engine build 4.7.1f1 and ships as a 32-bit executable[^ref-7]. On Windows it uses Direct3D 9, and on OS X and Linux it uses OpenGL 2.0[^ref-7]. It combines 2D backgrounds with 3D character models, and PCGamingWiki notes that some backgrounds are visibly pixelated even at Full HD[^ref-7]. Polygon criticised its "low-res textures and janky 3D animation that meshes poorly"[^ref-25].
+The game was built with Unity engine build 4.7.1f1 and ships as a 32-bit executable on Windows and macOS, while Linux also has a 64-bit build[^ref-7]. On Windows it uses Direct3D 9, and on OS X and Linux it uses OpenGL 2.0[^ref-7]. It combines 2D backgrounds with 3D character models, and PCGamingWiki notes that some backgrounds are visibly pixelated even at Full HD[^ref-7]. Polygon criticised its "low-res textures and janky 3D animation that meshes poorly"[^ref-25].
 
-**System Requirements (Windows, per the Steam store page):**[^ref-21]
+**System Requirements (Windows, per the Steam store page):**[^ref-4]
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
@@ -121,19 +121,19 @@ The game was built with Unity engine build 4.7.1f1 and ships as a 32-bit executa
 | Graphics | ATI or NVidia with 512 MB RAM | ATI or NVidia with 1 GB RAM |
 | Storage | 4 GB available space | 4 GB available space |
 
-Steam notes that the game is not recommended for Intel systems with integrated or shared video memory[^ref-21]. PCGamingWiki gives different figures for Windows: XP, 2 GHz single-core or 1.8 GHz dual-core, 1.5 GB RAM minimum and 2 GB recommended, 5 GB of storage, and an OpenGL 2.0-compatible video card[^ref-7].
+Steam notes that the game is not recommended for Intel systems with integrated or shared video memory[^ref-4]. PCGamingWiki gives different figures for Windows: XP, 2 GHz single-core or 1.8 GHz dual-core, 1.5 GB RAM minimum and 2 GB recommended, 5 GB of storage, and an OpenGL 2.0-compatible video card[^ref-7].
 
 PCWorld's review reported "Cursor disappearances, sluggish animations, stuttering, unresponsive character or environment triggers"[^ref-26]. Choicest Games' reviewer was a Kickstarter backer and acknowledged the small $435,316 budget. Even so, he called the graphics "abysmal", mainly the animation and character models[^ref-16].
 
 ## Legacy
 
-No sequel followed. In 2016 Jane Jensen announced that Pinkerton had no games in development and that its website was closing. She wrote that *Moebius* and *Gabriel Knight: 20th Anniversary Edition* had not sold well enough to justify continued development[^ref-2]. The game had been described as "the first installment in a planned series"[^ref-10].
+No sequel followed. In 2016 Jane Jensen announced that Pinkerton had no games in development and that its website was closing. She wrote that *Moebius* and *[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: 20th Anniversary Edition]]* had not sold well enough to justify continued development[^ref-2]. Cliqist reported in May 2016 that Pinkerton Road was shutting down its forums and other web resources after lackluster sales and reviews of both games, and quoted Holmes: "We will retain the Pinkerton Road brand as a platform for other potential creative activities in the future"[^ref-29].
 
 ### Critical Perspective
 
 Eurogamer.de's reviewer was harsher still: "Moebius wirkt wie ein typisches Symptom des Kickstarter-Virus: Alte Helden, deren Stern längst untergegangen ist, dürfen sich noch ein letztes Mal im Glanze ihres Lichtes sonnen" (Moebius seems like a typical symptom of the Kickstarter virus: Old heroes whose star has long since set are allowed to bask in their glory one last time)[^ref-13].
 
-Player ratings ran warmer than the critics. GameSpot, Polygon and PCGamesN each gave the game 4/10[^ref-18][^ref-2][^ref-19], while Steam and GOG user ratings are mostly positive (see Modern Assessment above)[^ref-21][^ref-15].
+Player ratings ran warmer than the critics. GameSpot, Polygon and PCGamesN each gave the game 4/10[^ref-18][^ref-2][^ref-19], while Steam users rate it Mostly Positive (78%)[^ref-4] and GOG users 3.4/5[^ref-15].
 
 ### Hidden Content
 
@@ -141,7 +141,7 @@ The game hides four pink cows. The first three are in David's hostel room, on a 
 
 ### Availability
 
-The game remains available on Steam and GOG[^ref-21][^ref-15].
+The game remains available on Steam and GOG[^ref-4][^ref-15].
 
 ## Downloads
 
@@ -173,9 +173,8 @@ The game remains available on Steam and GOG[^ref-21][^ref-15].
 ## References
 
 [^ref-1]: [IMDb – Moebius: Empire Rising](https://www.imdb.com/title/tt4054536/) – voice cast (Colin Benoit, Erik Braa)
-[^ref-2]: [Wikipedia – Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – developers, designer, Kickstarter history, review scores, 2016 closure note
-[^ref-3]: [Wikipedia – Moebius: Empire Rising (Plot)](https://en.wikipedia.org/wiki/Moebius%3A_Empire_Rising) – character description
-[^ref-4]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – store description
+[^ref-2]: [Wikipedia – Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – developers, designer, character description, Kickstarter history, review scores, 2016 closure note
+[^ref-4]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – store description, user review summary (Mostly Positive, 78% of 164, checked 2026-10-29), system requirements
 [^ref-5]: [MobyGames – Moebius: Empire Rising](https://www.mobygames.com/game/67586/moebius-empire-rising/) – gameplay description, perspective, publisher tagline
 [^ref-6]: [GameCritics – Moebius: Empire Rising Review](https://gamecritics.com/tayo-stalnaker/moebius-empire-rising-review/) – Tayo Stalnaker's review: genre description, Moebius Theory, historical-match puzzles
 [^ref-7]: [PCGamingWiki – Moebius: Empire Rising](https://www.pcgamingwiki.com/wiki/Moebius:_Empire_Rising) – developers, publisher, release date, platforms, engine, APIs, system requirements
@@ -192,11 +191,11 @@ The game remains available on Steam and GOG[^ref-21][^ref-15].
 [^ref-18]: [GameSpot – Moebius: Empire Rising Review](http://www.gamespot.com/reviews/moebius-empire-rising-review/1900-6415730/) – review quote and 4/10 score
 [^ref-19]: [PCGamesN – Moebius: Empire Rising Review](https://www.pcgamesn.com/moebius-empire-rising-review) – review criticism and 4/10 score
 [^ref-20]: [Metacritic – Moebius: Empire Rising critic reviews (PC)](https://www.metacritic.com/game/moebius-empire-rising/critic-reviews/?platform=pc) – Metascore 54, USgamer 90
-[^ref-21]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – user review summary (78% of 164, checked 2026-10-14), system requirements
 [^ref-22]: [Choicest Games – Moebius: Empire Rising Soundtrack Review](https://www.choicestgames.com/2014/05/moebius-empire-rising-soundtrack-review_26.html) – composer information
-[^ref-23]: [MobyGames – Moebius: Empire Rising credits (Windows)](https://www.mobygames.com/game/67586/moebius-empire-rising/credits/windows/) – voice cast roles; "Art Direction Andy Hoyos, Michael Fortunato"
+[^ref-23]: [MobyGames – Moebius: Empire Rising credits (Windows)](https://www.mobygames.com/game/67586/moebius-empire-rising/credits/windows/) – voice cast roles; "Written by Jane Jensen"; "Art Direction Andy Hoyos, Michael Fortunato"
 [^ref-24]: [IGN Italia – Moebius: Empire Rising Recensione](https://it.ign.com/moebius-empire-rising/72157/moebius-empire-rising-riporta-in-scena-jane-jensen) – Andrea Maderna's review, 7.9
 [^ref-25]: [Polygon – Moebius: Empire Rising review: remedial history](https://www.polygon.com/2014/4/24/5641066/moebius-empire-rising-review-remedial-history) – Danielle Riendeau's review: graphics and criticism
 [^ref-26]: [PCWorld – Moebius: Empire Rising review](https://www.pcworld.com/article/438859/moebius-empire-rising-review-those-who-dont-learn-from-my-mistakes-are-doomed-to-repeat-them.html) – technical issues
 [^ref-27]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) – Mike Rose, April 5, 2012; "it has launched a Kickstarter project to fund its first year of adventure games"
 [^ref-28]: [Kickstarter – Jane Jensen's Pinkerton Road (Wayback, April 7, 2012)](https://web.archive.org/web/20120407043807/http://www.kickstarter.com:80/projects/1005365109/jane-jensens-pinkerton-road-2012-2013-csg) – "1,119 Backers $83,834 pledged of $300,000 goal ... by Saturday May 19"
+[^ref-29]: [Cliqist – Pinkerton Road Closing Forums & Other Site Features](https://cliqist.com/2016/05/02/pinkerton-road-announces-closing-forums-site-features/) – Serena Nelson, May 2, 2016; forums closing after "lackluster sales and reviews"; Robert Holmes quote
