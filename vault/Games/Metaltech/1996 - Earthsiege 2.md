@@ -149,25 +149,25 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 
 ## References
 
-[^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details
-[^ref-2]: [Wikipedia - Earthsiege 2](https://en.wikipedia.org/wiki/Earthsiege_2) – - Setting (2624), HERCs, 640x480, branching missions, plot, review scores
-[^ref-3]: MyAbandonware – EarthSiege 2 (myabandonware.com) – - Home of the Underdogs review: "marks the company's third entrant into the giant robots genre", naming Battledrome and Earthsiege as the earlier two; user rating 4.53/5 from 49 votes (October 26, 2026); 2015 worldwide freeware release listed
-[^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – - Story background and universe context
-[^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – - Platforms (Windows, Windows 3.x), release date, launch errors
-[^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – - Cybrid motivation description
-[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – - Critics average (81%), player review quotes
-[^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – - Control system critique
-[^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – - Mission structure analysis
-[^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – - Graphics quality comparison
-[^ref-18]: [GameSpot - Earthsiege 2 Review](https://www.gamespot.com/reviews/earthsiege-2-review/1900-2535791/) – - GameSpot review score and recommendation
-[^ref-19]: [Web Archive - Computer Games Review](https://web.archive.org/web/19961221184619/http://www.nuke.com/cgr/reviews/9607/earths/earths.htm) – - 1996 review score
-[^ref-20]: [GameFAQs - Earthsiege 2 Review](https://gamefaqs.gamespot.com/pc/197196-earthsiege-2/reviews/98526) – - Technical stability critique
-[^ref-21]: [Sierra Fandom - Dynamix](https://sierra.fandom.com/wiki/Dynamix) – - MetalTech series history
-[^ref-24]: [GitHub - RBX IT Wiki](https://github.com/juanitogan/rbxit/wiki/Metaltech-Series) – - Video codec details, no official Sierra updates
-[^ref-25]: [Tribes Fandom - EarthSiege 2](https://tribes.fandom.com/wiki/EarthSiege_2) – - Precursor to Starsiege
-[^ref-26]: [PC Gamer](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – - Freeware release announcement
-[^ref-27]: [Computer Gaming World #144 (July 1996) – "Graphic Facelift Aside, This Is Your Father's EarthSiege", Martin Cirulis](https://archive.org/stream/Computer_Gaming_World_Issue_144/Computer_Gaming_World_Issue_144_djvu.txt) – - Contemporary review: "PROS: Best-looking giant robot game", "nothing that will leave a lasting impression", salvage logistics "a welcome strategic facet"
-[^ref-28]: [Next Generation #20 (August 1996) – "Siege the Day"](https://archive.org/details/nextgen-issue-020) – - Contemporary four-star review, "shines in all the right places"
-[^ref-29]: [Gaming Stack Exchange – How do I play Earthsiege 2 on a modern PC?](https://gaming.stackexchange.com/questions/243206/how-do-i-play-earthsiege-2-on-a-modern-pc-windows-7-8-10) – - dgVoodoo 2 / DXwnd workarounds
+[^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – Development and publication details
+[^ref-2]: [Wikipedia - Earthsiege 2](https://en.wikipedia.org/wiki/Earthsiege_2) – Setting (2624), HERCs, 640x480, branching missions, plot, review scores
+[^ref-3]: MyAbandonware – EarthSiege 2 (myabandonware.com) – Home of the Underdogs review: "marks the company's third entrant into the giant robots genre", naming Battledrome and Earthsiege as the earlier two; user rating 4.53/5 from 49 votes (October 26, 2026); 2015 worldwide freeware release listed
+[^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – Story background and universe context
+[^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – Platforms (Windows, Windows 3.x), release date, launch errors
+[^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – Cybrid motivation description
+[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – Critics average (81%), player review quotes
+[^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – Control system critique
+[^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – Mission structure analysis
+[^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – Graphics quality comparison
+[^ref-18]: [GameSpot - Earthsiege 2 Review](https://www.gamespot.com/reviews/earthsiege-2-review/1900-2535791/) – GameSpot review score and recommendation
+[^ref-19]: [Web Archive - Computer Games Review](https://web.archive.org/web/19961221184619/http://www.nuke.com/cgr/reviews/9607/earths/earths.htm) – 1996 review score
+[^ref-20]: [GameFAQs - Earthsiege 2 Review](https://gamefaqs.gamespot.com/pc/197196-earthsiege-2/reviews/98526) – Technical stability critique
+[^ref-21]: [Sierra Fandom - Dynamix](https://sierra.fandom.com/wiki/Dynamix) – MetalTech series history
+[^ref-24]: [GitHub - RBX IT Wiki](https://github.com/juanitogan/rbxit/wiki/Metaltech-Series) – Video codec details, no official Sierra updates
+[^ref-25]: [Tribes Fandom - EarthSiege 2](https://tribes.fandom.com/wiki/EarthSiege_2) – Precursor to Starsiege
+[^ref-26]: [PC Gamer](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Freeware release announcement
+[^ref-27]: [Computer Gaming World #144 (July 1996) – "Graphic Facelift Aside, This Is Your Father's EarthSiege", Martin Cirulis](https://archive.org/stream/Computer_Gaming_World_Issue_144/Computer_Gaming_World_Issue_144_djvu.txt) – Contemporary review: "PROS: Best-looking giant robot game", "nothing that will leave a lasting impression", salvage logistics "a welcome strategic facet"
+[^ref-28]: [Next Generation #20 (August 1996) – "Siege the Day"](https://archive.org/details/nextgen-issue-020) – Contemporary four-star review, "shines in all the right places"
+[^ref-29]: [Gaming Stack Exchange – How do I play Earthsiege 2 on a modern PC?](https://gaming.stackexchange.com/questions/243206/how-do-i-play-earthsiege-2-on-a-modern-pc-windows-7-8-10) – dgVoodoo 2 / DXwnd workarounds
 [^ref-30]: [MobyGames – EarthSiege 2 credits (Windows), Wayback September 2019](https://web.archive.org/web/20190918014143/https://www.mobygames.com/game/windows/earthsiege-2/credits) – "Director Mark Crowe Producer Frank Evers Designer David Selle"
-[^ref-31]: [Computer Player, June 1996, p. 57 (archive.org scan)](https://archive.org/details/ComputerPlayerJune1996/page/n56) – - EarthSiege 2 review: Overall 7; HITS "excellent score, decent sound effects, variety of missions"; MISSES "average graphics, slow and unoriginal gameplay"
+[^ref-31]: [Computer Player, June 1996, p. 57 (archive.org scan)](https://archive.org/details/ComputerPlayerJune1996/page/n56) – EarthSiege 2 review: Overall 7; HITS "excellent score, decent sound effects, variety of missions"; MISSES "average graphics, slow and unoriginal gameplay"

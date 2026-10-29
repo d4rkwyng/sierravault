@@ -192,28 +192,28 @@ The game reached fourth place among US computer-game sales in January 1996[^ref-
 
 ## References
 
-[^ref-3]: [Adventure Classic Gaming Interview with Dean Erickson](http://www.adventureclassicgaming.com/index.php/site/interviews/206/) – - Behind-the-scenes production information
-[^ref-10]: [DOS Days Technical Documentation](https://dosdays.co.uk/topics/Games/game_gknight2.php) – - System requirements and version history
-[^ref-12]: [Wikipedia Article](https://en.wikipedia.org/wiki/The_Beast_Within%3A_A_Gabriel_Knight_Mystery) – - Comprehensive development and reception data
-[^ref-15]: [The Digital Antiquarian Article](https://www.filfre.net/2021/08/the-beast-within-a-gabriel-knight-mystery/) – - Detailed production retrospective
-[^ref-16]: [Gabriel Knight Fan Wiki](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – - Plot summary and technical specifications
-[^ref-17]: [Game Developer Magazine](https://www.gamedeveloper.com/design/the-making-of-quot-the-beast-within-a-gabriel-knight-mystery-quot-) – - Development retrospective with creator quotes
-[^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198951-the-beast-within-a-gabriel-knight-mystery/faqs/1652) – - Detailed gameplay guide
-[^ref-27]: [HonestGamers Review](http://www.honestgamers.com/12415/pc/the-beast-within-a-gabriel-knight-mystery/review.html) – - Retrospective enthusiastic review
-[^ref-31]: [IMDb Game Page](https://www.imdb.com/title/tt0138459/) – - Cast information and user ratings
-[^ref-34]: [MobyGames Main Entry](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/) – - Comprehensive database entry
-[^ref-37]: [MobyGames Reviews](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/reviews/) – - Player review collection
-[^ref-41]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – - Technical reference and compatibility
-[^ref-55]: [VICE Retrospective](https://www.vice.com/en/article/werewolves-of-bavaria-gabriel-knight-2-then-and-now/) – - Modern critical analysis
-[^ref-56]: [Wayback Machine Courant](https://web.archive.org/web/20180402042226/http://articles.courant.com/1996-04-01/news/9604010023_1_computer-game-game-phenomenon-francisco-based-game-developer/3) – - Contemporary sales data
-[^ref-57]: [Wayback Machine GamePen](https://web.archive.org/web/19970331195814/http://www.gamepen.com/shipping/june-july.html) – - Mac release documentation
-[^ref-58]: [Wayback Machine GameRankings](https://web.archive.org/web/20160304033812/http://www.gamerankings.com/pc/198951-the-beast-within-a-gabriel-knight-mystery/) – - Review aggregation archive
-[^ref-59]: [Wayback Machine GameSpot Review](https://web.archive.org/web/20150105145633/http://www.gamespot.com/reviews/the-beast-within-a-gabriel-knight-mystery-review/1900-2538161/) – - Archived contemporary review
-[^ref-60]: [Wayback Machine AdventureGamers](https://web.archive.org/web/20140701232136/http://www.adventuregamers.com/articles/view/17674) – - Archived detailed review
-[^ref-61]: [Wayback Machine CGR Review](https://web.archive.org/web/19961221185026/http://www.nuke.com/cgr/reviews/9603/beast/beast.htm) – - 1996 contemporary review
-[^ref-66]: [Steam – The Beast Within: A Gabriel Knight Mystery](https://store.steampowered.com/app/496760/) – - Steam store page (publisher Activision)
-[^ref-67]: [GOG – Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) – - GOG release date February 23, 2010 (gogReleaseDate)
-[^ref-68]: [SteamDB – The Beast Within: A Gabriel Knight Mystery](https://steamdb.info/app/496760/) – - Steam release date 29 August 2016
-[^ref-69]: [PC Games – Gabriel Knight 2: FMV, Schauspiel & deutsche Fassung](https://www.pcgames.de/Gabriel-Knight-2-The-Beast-Within-Spiel-2918/Specials/Retro-Adventure-Legende-1483735/4/) – - German retro feature on the localization: main characters in standard German, locals in Bavarian dialect
-[^ref-70]: [MobyGames – The Beast Within credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) – - "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
-[^ref-71]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – - "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)
+[^ref-3]: [Adventure Classic Gaming Interview with Dean Erickson](http://www.adventureclassicgaming.com/index.php/site/interviews/206/) – Behind-the-scenes production information
+[^ref-10]: [DOS Days Technical Documentation](https://dosdays.co.uk/topics/Games/game_gknight2.php) – System requirements and version history
+[^ref-12]: [Wikipedia Article](https://en.wikipedia.org/wiki/The_Beast_Within%3A_A_Gabriel_Knight_Mystery) – Comprehensive development and reception data
+[^ref-15]: [The Digital Antiquarian Article](https://www.filfre.net/2021/08/the-beast-within-a-gabriel-knight-mystery/) – Detailed production retrospective
+[^ref-16]: [Gabriel Knight Fan Wiki](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – Plot summary and technical specifications
+[^ref-17]: [Game Developer Magazine](https://www.gamedeveloper.com/design/the-making-of-quot-the-beast-within-a-gabriel-knight-mystery-quot-) – Development retrospective with creator quotes
+[^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198951-the-beast-within-a-gabriel-knight-mystery/faqs/1652) – Detailed gameplay guide
+[^ref-27]: [HonestGamers Review](http://www.honestgamers.com/12415/pc/the-beast-within-a-gabriel-knight-mystery/review.html) – Retrospective enthusiastic review
+[^ref-31]: [IMDb Game Page](https://www.imdb.com/title/tt0138459/) – Cast information and user ratings
+[^ref-34]: [MobyGames Main Entry](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/) – Comprehensive database entry
+[^ref-37]: [MobyGames Reviews](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/reviews/) – Player review collection
+[^ref-41]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – Technical reference and compatibility
+[^ref-55]: [VICE Retrospective](https://www.vice.com/en/article/werewolves-of-bavaria-gabriel-knight-2-then-and-now/) – Modern critical analysis
+[^ref-56]: [Wayback Machine Courant](https://web.archive.org/web/20180402042226/http://articles.courant.com/1996-04-01/news/9604010023_1_computer-game-game-phenomenon-francisco-based-game-developer/3) – Contemporary sales data
+[^ref-57]: [Wayback Machine GamePen](https://web.archive.org/web/19970331195814/http://www.gamepen.com/shipping/june-july.html) – Mac release documentation
+[^ref-58]: [Wayback Machine GameRankings](https://web.archive.org/web/20160304033812/http://www.gamerankings.com/pc/198951-the-beast-within-a-gabriel-knight-mystery/) – Review aggregation archive
+[^ref-59]: [Wayback Machine GameSpot Review](https://web.archive.org/web/20150105145633/http://www.gamespot.com/reviews/the-beast-within-a-gabriel-knight-mystery-review/1900-2538161/) – Archived contemporary review
+[^ref-60]: [Wayback Machine AdventureGamers](https://web.archive.org/web/20140701232136/http://www.adventuregamers.com/articles/view/17674) – Archived detailed review
+[^ref-61]: [Wayback Machine CGR Review](https://web.archive.org/web/19961221185026/http://www.nuke.com/cgr/reviews/9603/beast/beast.htm) – 1996 contemporary review
+[^ref-66]: [Steam – The Beast Within: A Gabriel Knight Mystery](https://store.steampowered.com/app/496760/) – Steam store page (publisher Activision)
+[^ref-67]: [GOG – Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) – GOG release date February 23, 2010 (gogReleaseDate)
+[^ref-68]: [SteamDB – The Beast Within: A Gabriel Knight Mystery](https://steamdb.info/app/496760/) – Steam release date 29 August 2016
+[^ref-69]: [PC Games – Gabriel Knight 2: FMV, Schauspiel & deutsche Fassung](https://www.pcgames.de/Gabriel-Knight-2-The-Beast-Within-Spiel-2918/Specials/Retro-Adventure-Legende-1483735/4/) – German retro feature on the localization: main characters in standard German, locals in Bavarian dialect
+[^ref-70]: [MobyGames – The Beast Within credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) – "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
+[^ref-71]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)

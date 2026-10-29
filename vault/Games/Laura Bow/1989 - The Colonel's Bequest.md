@@ -147,49 +147,49 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 
 ## References
 
-[^ref-1]: [MobyGames - The Colonel's Bequest](https://www.mobygames.com/game/461/the-colonels-bequest/) – - Game database with comprehensive technical specifications and credits
-[^ref-2]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel's_Bequest) – - Plot summary and historical context
-[^ref-3]: [Adventure Gamers](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – - Analysis of innovative gameplay approach
-[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-colonels-bequest/) – - Christie/Clue influences; clock advances on triggers, not in real time
-[^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – - Primary source interview with Roberta Williams from START Magazine
-[^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel%27s_Bequest) – - Technical engine details
-[^ref-9]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=33&fld=general) – - Opening setting description
-[^ref-12]: [Archive.org - The Colonel's Bequest Manual](https://archive.org/details/Laura_Bow_Colonels_Bequest_Manual) – - Original game manual (MS-DOS, Atari ST, Amiga): prologue script, character list, "interactive play in 8 acts"
-[^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – - Gameplay mechanics explanation
-[^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – - Detailed gameplay mechanics explanation
-[^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=355) – - Act structure explanation
-[^ref-18]: [Adventure Gaming Blog](https://advgamer.blogspot.com/2013/09/game-34-colonels-bequest-won.html) – - Multiple endings documentation
-[^ref-19]: [StrategyWiki – The Colonel's Bequest/Walkthrough](https://strategywiki.org/wiki/The_Colonel%27s_Bequest/Walkthrough) – - Typed verb-object commands used in play
-[^ref-20]: [DOS Days](https://dosdays.co.uk/topics/Games/game_colonel.php) – - Technical engine comparison
-[^ref-21]: [ScummVM Documentation](https://docs.scummvm.org/en/v2.6.1/advanced_topics/understand_audio.html) – - MT-32 audio bug information
-[^ref-22]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – - Graphics quality assessment
-[^ref-24]: [Ben Shoof Analysis](https://www.benshoof.org/blog/super-sleuth) – - Sleuth-O-Meter analysis; quotes Roberta Williams in Computer Gaming World #68
-[^ref-26]: [PC Gamer Retrospective](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – - Josh Mandel, who beta tested the game, on its open design
-[^ref-27]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=33&title=laura-bow-1&fld=walkthrough&pid=100) – - Sleuth-O-Meter rank list
-[^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Plot setup ("greed soon leads to murders"); puzzles "relatively easy", most "involve the use of the many inventory items"
-[^ref-29]: [Just Adventure - Walkthrough by Avi Machness](https://www.justadventure.com/walkthrough/colonels-bequest-3/) – - Detective gameplay walkthrough (originally on the-spoiler.com)
-[^ref-30]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – - Psycho shower scene reference
-[^ref-31]: [Choice Games Review](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – - Death scenes, including the Psycho tribute
-[^ref-32]: [AMR Archive Reviews](https://amr.abime.net/review_30401) – - Génération 4 score and date
-[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – - AUI magazine score
-[^ref-34]: [Web Archive Amiga Reviews](https://web.archive.org/web/20071223012716/http://amigareviews.classicgaming.gamespy.com/colonels.htm) – - CU Amiga detailed score breakdown
-[^ref-35]: [Web Archive Adventure Gamers](https://web.archive.org/web/20131004232247/http://www.adventuregamers.com/articles/view/17513) – - Johann Walter retrospective review
-[^ref-36]: [GOG.com](https://www.gog.com/en/game/the_colonels_bequest) – - User review scores and store page
-[^ref-39]: [Bandcamp Music](https://richdouglasmusic.bandcamp.com/album/the-colonels-bequest-single) – - Ken Allen composer confirmation
-[^ref-40]: [MobyGames Credits](https://www.mobygames.com/game/461/the-colonels-bequest/credits/dos/) – - Full DOS credits (Design: Jacqueline Austin)
-[^ref-41]: [Sierra Gamers](https://www.sierragamers.com/video-catalogs/) – - Promotional video catalog mention
-[^ref-43]: [Adventure Game Hotspot](https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure) – - Mechanical Codex licensing status (on hold)
-[^ref-44]: [SCI Programming Community](https://sciprogramming.com/community/index.php?topic=1556.0) – - Easter egg discovery documentation
-[^ref-48]: [Virtual Moose Blog](https://virtualmoose.org/2023/01/) – - Influence on modern games like The Crimson Diamond
-[^ref-49]: [MobyGames Dagger](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/) – - Sequel credits (Bruce J. Balfour designer/director; Roberta Williams creative consultant)
-[^ref-50]: [Steam - Laura Bow and the Mechanical Codex](https://store.steampowered.com/app/2549910/Laura_Bow_and_the_Mechanical_Codex/) – - Upcoming sequel announcement
-[^ref-51]: [NineZyme Website](http://ninezyme.com/) – - Modern sequel development approach
-[^ref-53]: [Speedrun.com](https://www.speedrun.com/colonelsbequest) – - Active speedrunning community and leaderboards
-[^ref-54]: [Ars Technica](https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) – - 2025 retrospective; inspiration for The Crimson Diamond
-[^ref-56]: [Walkthrough King](https://www.walkthroughking.com/text/colonelsbequest.aspx) – - Complete gameplay guide
-[^ref-57]: [Sierra Help](https://sierrahelp.com/Walkthroughs/LauraBow1Walkthrough.html) – - Detailed walkthrough with Act structure
-[^ref-58]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/06/30/the-colonels-bequest-dos-review/) – - Sleuth-O-Meter ranks ("Barely Conscious" to "Super Sleuth")
-[^ref-59]: [Wikipedia - Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – - "Mystery House is the first graphical adventure game"
-[^ref-60]: [Archive.org - The Colonel's Bequest Manual (second scan, full text)](https://archive.org/stream/Colonels_Bequest_-_Manual/Colonels_Bequest_-_Manual_djvu.txt) – - Credits: "Written by Roberta Williams / Creative Designer Jacqueline Austin / Directed by Roberta Williams, Chris Iden"; "Backgrounds by Douglas Herring, Jerry Moore"
-[^ref-61]: [Sierra InterAction Issue 6 (Fall 1989) - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) – - Pre-release preview: "Designer: Roberta Williams"; "not quite as 'puzzle-oriented'"
-[^ref-62]: [Computer Gaming World #68, February 1990 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_68) – - Johnny L. Wilson's review; info box "DESIGNER: Robert[a] Williams"; Roberta: "bridge the gap"
+[^ref-1]: [MobyGames - The Colonel's Bequest](https://www.mobygames.com/game/461/the-colonels-bequest/) – Game database with comprehensive technical specifications and credits
+[^ref-2]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel's_Bequest) – Plot summary and historical context
+[^ref-3]: [Adventure Gamers](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – Analysis of innovative gameplay approach
+[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-colonels-bequest/) – Christie/Clue influences; clock advances on triggers, not in real time
+[^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – Primary source interview with Roberta Williams from START Magazine
+[^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel%27s_Bequest) – Technical engine details
+[^ref-9]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=33&fld=general) – Opening setting description
+[^ref-12]: [Archive.org - The Colonel's Bequest Manual](https://archive.org/details/Laura_Bow_Colonels_Bequest_Manual) – Original game manual (MS-DOS, Atari ST, Amiga): prologue script, character list, "interactive play in 8 acts"
+[^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – Gameplay mechanics explanation
+[^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – Detailed gameplay mechanics explanation
+[^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=355) – Act structure explanation
+[^ref-18]: [Adventure Gaming Blog](https://advgamer.blogspot.com/2013/09/game-34-colonels-bequest-won.html) – Multiple endings documentation
+[^ref-19]: [StrategyWiki – The Colonel's Bequest/Walkthrough](https://strategywiki.org/wiki/The_Colonel%27s_Bequest/Walkthrough) – Typed verb-object commands used in play
+[^ref-20]: [DOS Days](https://dosdays.co.uk/topics/Games/game_colonel.php) – Technical engine comparison
+[^ref-21]: [ScummVM Documentation](https://docs.scummvm.org/en/v2.6.1/advanced_topics/understand_audio.html) – MT-32 audio bug information
+[^ref-22]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – Graphics quality assessment
+[^ref-24]: [Ben Shoof Analysis](https://www.benshoof.org/blog/super-sleuth) – Sleuth-O-Meter analysis; quotes Roberta Williams in Computer Gaming World #68
+[^ref-26]: [PC Gamer Retrospective](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – Josh Mandel, who beta tested the game, on its open design
+[^ref-27]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=33&title=laura-bow-1&fld=walkthrough&pid=100) – Sleuth-O-Meter rank list
+[^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – Plot setup ("greed soon leads to murders"); puzzles "relatively easy", most "involve the use of the many inventory items"
+[^ref-29]: [Just Adventure - Walkthrough by Avi Machness](https://www.justadventure.com/walkthrough/colonels-bequest-3/) – Detective gameplay walkthrough (originally on the-spoiler.com)
+[^ref-30]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – Psycho shower scene reference
+[^ref-31]: [Choice Games Review](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – Death scenes, including the Psycho tribute
+[^ref-32]: [AMR Archive Reviews](https://amr.abime.net/review_30401) – Génération 4 score and date
+[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – AUI magazine score
+[^ref-34]: [Web Archive Amiga Reviews](https://web.archive.org/web/20071223012716/http://amigareviews.classicgaming.gamespy.com/colonels.htm) – CU Amiga detailed score breakdown
+[^ref-35]: [Web Archive Adventure Gamers](https://web.archive.org/web/20131004232247/http://www.adventuregamers.com/articles/view/17513) – Johann Walter retrospective review
+[^ref-36]: [GOG.com](https://www.gog.com/en/game/the_colonels_bequest) – User review scores and store page
+[^ref-39]: [Bandcamp Music](https://richdouglasmusic.bandcamp.com/album/the-colonels-bequest-single) – Ken Allen composer confirmation
+[^ref-40]: [MobyGames Credits](https://www.mobygames.com/game/461/the-colonels-bequest/credits/dos/) – Full DOS credits (Design: Jacqueline Austin)
+[^ref-41]: [Sierra Gamers](https://www.sierragamers.com/video-catalogs/) – Promotional video catalog mention
+[^ref-43]: [Adventure Game Hotspot](https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure) – Mechanical Codex licensing status (on hold)
+[^ref-44]: [SCI Programming Community](https://sciprogramming.com/community/index.php?topic=1556.0) – Easter egg discovery documentation
+[^ref-48]: [Virtual Moose Blog](https://virtualmoose.org/2023/01/) – Influence on modern games like The Crimson Diamond
+[^ref-49]: [MobyGames Dagger](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/) – Sequel credits (Bruce J. Balfour designer/director; Roberta Williams creative consultant)
+[^ref-50]: [Steam - Laura Bow and the Mechanical Codex](https://store.steampowered.com/app/2549910/Laura_Bow_and_the_Mechanical_Codex/) – Upcoming sequel announcement
+[^ref-51]: [NineZyme Website](http://ninezyme.com/) – Modern sequel development approach
+[^ref-53]: [Speedrun.com](https://www.speedrun.com/colonelsbequest) – Active speedrunning community and leaderboards
+[^ref-54]: [Ars Technica](https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) – 2025 retrospective; inspiration for The Crimson Diamond
+[^ref-56]: [Walkthrough King](https://www.walkthroughking.com/text/colonelsbequest.aspx) – Complete gameplay guide
+[^ref-57]: [Sierra Help](https://sierrahelp.com/Walkthroughs/LauraBow1Walkthrough.html) – Detailed walkthrough with Act structure
+[^ref-58]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/06/30/the-colonels-bequest-dos-review/) – Sleuth-O-Meter ranks ("Barely Conscious" to "Super Sleuth")
+[^ref-59]: [Wikipedia - Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – "Mystery House is the first graphical adventure game"
+[^ref-60]: [Archive.org - The Colonel's Bequest Manual (second scan, full text)](https://archive.org/stream/Colonels_Bequest_-_Manual/Colonels_Bequest_-_Manual_djvu.txt) – Credits: "Written by Roberta Williams / Creative Designer Jacqueline Austin / Directed by Roberta Williams, Chris Iden"; "Backgrounds by Douglas Herring, Jerry Moore"
+[^ref-61]: [Sierra InterAction Issue 6 (Fall 1989) - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) – Pre-release preview: "Designer: Roberta Williams"; "not quite as 'puzzle-oriented'"
+[^ref-62]: [Computer Gaming World #68, February 1990 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_68) – Johnny L. Wilson's review; info box "DESIGNER: Robert[a] Williams"; Roberta: "bridge the gap"

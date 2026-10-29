@@ -139,39 +139,39 @@ After the acquisition, Sierra sold the CD-ROM version for $24.95 in its Holiday 
 
 ## References
 
-[^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – - Game description and premise
-[^ref-2]: [Abandonware DOS](https://www.abandonwaredos.com/docawd.php?sf=highseastmanual.txt&st=manual&sg=High+Seas+Trader&idg=2184) – - Keyboard equivalents (a cracker's "MERLIN" doc file, not the official manual)
-[^ref-3]: [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p) – - User rating and HOTUD review
-[^ref-4]: [Metacritic](https://www.metacritic.com/game/high-seas-trader/) – - Publisher's summary text ("you are there 3-D perspective")
-[^ref-5]: [GOG Wishlist – High Seas Trader](https://www.gog.com/wishlist/games/high_seas_trader) – - User comments
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – - Developer, platforms, gameplay summary
-[^ref-7]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=High+Seas+Trader&gid=2184) – - Designer credits
-[^ref-8]: [MobyGames](https://www.mobygames.com/game/4256/high-seas-trader/) – - Publisher, platforms, credits, critic average, sound engine
-[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/High_Seas_Trader) – - Resolution, minimum requirements, sound workaround
-[^ref-10]: [Abby Mullen](https://abbymullen.org/high-seas-trader-games-and-maritime-history/) – - Nationality options, starting year, what the game teaches
-[^ref-11]: [Cheatbook](https://www.cheatbook.de/wfiles/highseastrader.htm) – - Primary game objective
-[^ref-13]: [OldGames.sk](https://www.oldgames.sk/en/game/high-seas-trader/download/8239/) – - Progression system, 70% rating
-[^ref-15]: [Games Nostalgia](https://gamesnostalgia.net/game/high-seas-trader) – - Business expansion objective
-[^ref-16]: [Jeuxvideo.com](https://www.jeuxvideo.com/wikis-soluce-astuces/patch-sur-sauvegarde-pour-modifier-l-equipage/202673) – - Save-file crew editing
-[^ref-18]: [Squakenet](https://www.squakenet.com/game/high-seas-trader/) – - Retrospective review
-[^ref-19]: [ProJared Wiki](https://projared.fandom.com/wiki/High_Seas_Trader) – - Mona Lisa treasure
-[^ref-20]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1573) – - Amiga magazine review scores; user comments
-[^ref-21]: [MobyGames Company Page](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – - Sierra's 1995 purchase of Impressions
-[^ref-22]: [Sierra Gamers](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – - Fans on Impressions as part of the "Sierra Family"
-[^ref-23]: [Vogons](http://www.vogons.org/viewtopic.php?t=4363) – - CD-ROM technical details
-[^ref-24]: [Vogons](https://www.vogons.org/viewtopic.php?f=33&t=55942) – - Sound card limitations
-[^ref-25]: [Cheatbook](https://www.cheatbook.de/files/highsea.htm) – - Save game hex edits (money, ship and cargo capacity)
-[^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – - Modern gaming community discussion
-[^ref-29]: [Computer Gaming World #130 (May 1995), pp. 154–156](https://archive.org/details/Computer_Gaming_World_Issue_130/page/n155) – - Johnny L. Wilson, "Trade-R-Us Ventures: Sail The Seas For Blood And Profit In Impressions' High Seas Trader"
-[^ref-30]: [Computer Gaming World #126 (January 1995), p. 26](https://archive.org/details/Computer_Gaming_World_Issue_126/page/n27) – - "Beta Bits" preview: "first foray into first-person perspective games"
-[^ref-31]: [Computer Gaming World #122 (September 1994), p. 6](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n7) – - Johnny L. Wilson, "Revisionist Computer Games" (slavery excluded)
-[^ref-32]: [Computer Gaming World #103 (February 1993), p. 98](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n97) – - Company Report: "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester"
-[^ref-33]: [Next Generation #7 (July 1995), pp. 74–75](https://archive.org/details/nextgen-issue-007/page/n77) – - "Rating PC" review, 3 stars; publisher Impressions
-[^ref-34]: [PC Gamer #16 (September 1995), p. 40](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n41) – - "High Seas Merger: Sierra acquires Impressions Software"
-[^ref-35]: [InterAction, Holiday 1995 (Sierra On-Line), scan page 52](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n51) – - "Current Sierra Products" list: High Seas Trader, DOS CD, $24.95
-[^ref-36]: [InterAction, Spring 1996 (Sierra On-Line), p. 31](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n34) – - "Swashbuckling Strategy" feature
-[^ref-37]: [PC Games (UK) #11 (June 1995), scan page 52](https://archive.org/details/pc-games-issue-11-june-1995/page/n51) – - Alex Simmons review, 73%
-[^ref-38]: [Dragon #221 (September 1995), pp. 115–118](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23221%5Bocr%5D/page/n116) – - "Eye of the Monitor" (Jay & Dee); review by John Brunkhart, rated 2
-[^ref-39]: [High Seas Trader Game Manual (Impressions, 1995)](https://archive.org/details/high-seas-trader-manual) – - pp. 6, 9, 12, 15, 22: setting, ranks, nationality, crew, rations
-[^ref-40]: [High Seas Trader Technical Supplement and Tutorial (Impressions, 1995), p. 5](https://archive.org/details/extras_msdos_High_Seas_Trader_1995) – - Installation sizes
-[^ref-41]: [MobyGames - Impressions Games (company 102), Wayback snapshot October 2026](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) – - "founded in 1989 by David Lester"; "With a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"
+[^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – Game description and premise
+[^ref-2]: [Abandonware DOS](https://www.abandonwaredos.com/docawd.php?sf=highseastmanual.txt&st=manual&sg=High+Seas+Trader&idg=2184) – Keyboard equivalents (a cracker's "MERLIN" doc file, not the official manual)
+[^ref-3]: [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p) – User rating and HOTUD review
+[^ref-4]: [Metacritic](https://www.metacritic.com/game/high-seas-trader/) – Publisher's summary text ("you are there 3-D perspective")
+[^ref-5]: [GOG Wishlist – High Seas Trader](https://www.gog.com/wishlist/games/high_seas_trader) – User comments
+[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – Developer, platforms, gameplay summary
+[^ref-7]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=High+Seas+Trader&gid=2184) – Designer credits
+[^ref-8]: [MobyGames](https://www.mobygames.com/game/4256/high-seas-trader/) – Publisher, platforms, credits, critic average, sound engine
+[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/High_Seas_Trader) – Resolution, minimum requirements, sound workaround
+[^ref-10]: [Abby Mullen](https://abbymullen.org/high-seas-trader-games-and-maritime-history/) – Nationality options, starting year, what the game teaches
+[^ref-11]: [Cheatbook](https://www.cheatbook.de/wfiles/highseastrader.htm) – Primary game objective
+[^ref-13]: [OldGames.sk](https://www.oldgames.sk/en/game/high-seas-trader/download/8239/) – Progression system, 70% rating
+[^ref-15]: [Games Nostalgia](https://gamesnostalgia.net/game/high-seas-trader) – Business expansion objective
+[^ref-16]: [Jeuxvideo.com](https://www.jeuxvideo.com/wikis-soluce-astuces/patch-sur-sauvegarde-pour-modifier-l-equipage/202673) – Save-file crew editing
+[^ref-18]: [Squakenet](https://www.squakenet.com/game/high-seas-trader/) – Retrospective review
+[^ref-19]: [ProJared Wiki](https://projared.fandom.com/wiki/High_Seas_Trader) – Mona Lisa treasure
+[^ref-20]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1573) – Amiga magazine review scores; user comments
+[^ref-21]: [MobyGames Company Page](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Sierra's 1995 purchase of Impressions
+[^ref-22]: [Sierra Gamers](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Fans on Impressions as part of the "Sierra Family"
+[^ref-23]: [Vogons](http://www.vogons.org/viewtopic.php?t=4363) – CD-ROM technical details
+[^ref-24]: [Vogons](https://www.vogons.org/viewtopic.php?f=33&t=55942) – Sound card limitations
+[^ref-25]: [Cheatbook](https://www.cheatbook.de/files/highsea.htm) – Save game hex edits (money, ship and cargo capacity)
+[^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – Modern gaming community discussion
+[^ref-29]: [Computer Gaming World #130 (May 1995), pp. 154–156](https://archive.org/details/Computer_Gaming_World_Issue_130/page/n155) – Johnny L. Wilson, "Trade-R-Us Ventures: Sail The Seas For Blood And Profit In Impressions' High Seas Trader"
+[^ref-30]: [Computer Gaming World #126 (January 1995), p. 26](https://archive.org/details/Computer_Gaming_World_Issue_126/page/n27) – "Beta Bits" preview: "first foray into first-person perspective games"
+[^ref-31]: [Computer Gaming World #122 (September 1994), p. 6](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n7) – Johnny L. Wilson, "Revisionist Computer Games" (slavery excluded)
+[^ref-32]: [Computer Gaming World #103 (February 1993), p. 98](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n97) – Company Report: "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester"
+[^ref-33]: [Next Generation #7 (July 1995), pp. 74–75](https://archive.org/details/nextgen-issue-007/page/n77) – "Rating PC" review, 3 stars; publisher Impressions
+[^ref-34]: [PC Gamer #16 (September 1995), p. 40](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n41) – "High Seas Merger: Sierra acquires Impressions Software"
+[^ref-35]: [InterAction, Holiday 1995 (Sierra On-Line), scan page 52](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n51) – "Current Sierra Products" list: High Seas Trader, DOS CD, $24.95
+[^ref-36]: [InterAction, Spring 1996 (Sierra On-Line), p. 31](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n34) – "Swashbuckling Strategy" feature
+[^ref-37]: [PC Games (UK) #11 (June 1995), scan page 52](https://archive.org/details/pc-games-issue-11-june-1995/page/n51) – Alex Simmons review, 73%
+[^ref-38]: [Dragon #221 (September 1995), pp. 115–118](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23221%5Bocr%5D/page/n116) – "Eye of the Monitor" (Jay & Dee); review by John Brunkhart, rated 2
+[^ref-39]: [High Seas Trader Game Manual (Impressions, 1995)](https://archive.org/details/high-seas-trader-manual) – pp. 6, 9, 12, 15, 22: setting, ranks, nationality, crew, rations
+[^ref-40]: [High Seas Trader Technical Supplement and Tutorial (Impressions, 1995), p. 5](https://archive.org/details/extras_msdos_High_Seas_Trader_1995) – Installation sizes
+[^ref-41]: [MobyGames - Impressions Games (company 102), Wayback snapshot October 2026](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) – "founded in 1989 by David Lester"; "With a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"

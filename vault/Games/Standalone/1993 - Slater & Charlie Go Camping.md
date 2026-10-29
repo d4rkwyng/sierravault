@@ -131,28 +131,28 @@ The game is not sold on Steam or GOG[^ref-20][^ref-21]. Its GOG wishlist entry h
 
 ## References
 
-[^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Summary of the CGW and PC Magazine reviews (secondary; primary scans are refs 22–23)
-[^ref-3]: [Internet Archive - Slater and Charlie Go Camping PC](https://archive.org/details/slater-and-charlie-go-camping-pc) – - CD-ROM ISO for Windows 3.1/MS-DOS, item dated 1995 (description copied from MobyGames)
-[^ref-5]: [MobyGames - Slater & Charlie Go Camping](https://www.mobygames.com/game/22337/slater-charlie-go-camping/) – - Official description, release date, developer/publisher, SCI engine group
-[^ref-6]: [Internet Archive - Sierra On-Line PC Floppy Disk Image Collection](https://archive.org/details/20220303_20220303_0527) – - Disk image "Slater & Charlie Go Camping (1993) (v1.0, Int. 5.19.93) (1.44M)"
-[^ref-7]: [Internet Archive - Slater and Charlie Go Camping Manual](https://archive.org/details/slater-and-charlie-go-camping-manual) – - SierraOriginals edition manual scan: modes, twelve pages, teleporter page, controls, "Sierra's first interactive children's book"
-[^ref-8]: [PCGamingWiki - Slater & Charlie Go Camping](https://www.pcgamingwiki.com/wiki/Slater_&_Charlie_Go_Camping) – - SCI1.1 engine; DOS May 19, 1993; Mac OS August 1993
-[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_%26_Charlie_Go_Camping_%28PC,_1.44MB_3_1/2%22_Disk%29_Sierra_-_1993_USA,_Canada_Release) – - Box text transcription, narrator, system requirements, ages 3–8
-[^ref-10]: [Internet Archive - MS-DOS Slater Charlie Go Camping](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993) – - Browser-playable DOS version
-[^ref-12]: [DOS Zone - Slater Charlie Go Camping](https://dos.zone/slater-charlie-go-camping-may-19-1993/) – - Browser-playable version
-[^ref-13]: [MyAbandonware - Slater Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax) – - User rating 4.67/5 (9 votes) and description
-[^ref-14]: [Play Classic Games - Slater Charlie Go Camping](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/) – - Browser-playable version
-[^ref-15]: [Xeen Music - Slater & Charlie Go Camping Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55) – - 2020 licensed soundtrack, SC-55 arrangement, track list incl. unused cues
-[^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – - Release date 19/05/1993; download listing
-[^ref-19]: [GOG Wishlist - Slater & Charlie Go Camping](https://www.gog.com/wishlist/games/slater_charlie_go_camping) – - Community wishlist entry, +102 votes
-[^ref-20]: No Steam listing found (Steam store search, checked October 29, 2026) – - "0 results match your search"
-[^ref-21]: No GOG listing found (GOG store search, checked October 29, 2026) – - Digital store availability
-[^ref-22]: [Computer Gaming World #113 (December 1993), p.152 – Virginia Soper, "Slater and Charlie Go Camping"](https://archive.org/details/Computer_Gaming_World_Issue_113/page/n151/) – - Review, price $49.95, ages 3 to 8, requirements, compass and picture book in box
-[^ref-23]: [PC Magazine, December 7, 1993, p.588 – Donald B. Trivette & Julie Cohen, "After Hours: Holiday Gift Guide"](https://books.google.com/books?id=7k7q-wS0t00C&pg=RA1-PA588) – - Capsule review, DOS, $49.95, comparison to Living Books
-[^ref-24]: [InterAction Magazine, Fall 1992, p.9 – "Sierra Discovery Series"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n8/) – - Red Dog Software entry and upcoming products; Sierra's educational titles on market
-[^ref-25]: [InterAction Magazine, Fall 1992, p.19 – "Coming up from Sierra and Dynamix"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n18/) – - Preview: preschool to third grade, story and play modes, due late spring/early summer 1993
-[^ref-26]: [InterAction Magazine, Winter 1992, p.16 – "New Games Update"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US/page/n16/) – - Layout about 85% complete; pencil-sketch animation cel
-[^ref-27]: [MobyGames - Slater & Charlie Go Camping DOS credits](https://www.mobygames.com/game/22337/slater-charlie-go-camping/credits/dos/) – - Full credits, 48 people (41 professional roles, 7 thanks)
-[^ref-28]: [MobyGames - Slater & Charlie Go Camping releases](https://www.mobygames.com/game/22337/slater-charlie-go-camping/releases/) – - DOS May 19, 1993; Macintosh Aug 1993
-[^ref-29]: [MobyGames - Slater & Charlie Go Camping reviews](https://www.mobygames.com/game/22337/slater-charlie-go-camping/reviews/) – - Critic average 42% (1 rating); players 3.7/5 (6 ratings); Katakis player review (2016)
-[^ref-30]: [ScummVM - Compatibility: Slater & Charlie Go Camping](https://www.scummvm.org/compatibility/DEV/sci:slater/) – - Support level "Excellent"; DOS and Macintosh
+[^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – Summary of the CGW and PC Magazine reviews (secondary; primary scans are refs 22–23)
+[^ref-3]: [Internet Archive - Slater and Charlie Go Camping PC](https://archive.org/details/slater-and-charlie-go-camping-pc) – CD-ROM ISO for Windows 3.1/MS-DOS, item dated 1995 (description copied from MobyGames)
+[^ref-5]: [MobyGames - Slater & Charlie Go Camping](https://www.mobygames.com/game/22337/slater-charlie-go-camping/) – Official description, release date, developer/publisher, SCI engine group
+[^ref-6]: [Internet Archive - Sierra On-Line PC Floppy Disk Image Collection](https://archive.org/details/20220303_20220303_0527) – Disk image "Slater & Charlie Go Camping (1993) (v1.0, Int. 5.19.93) (1.44M)"
+[^ref-7]: [Internet Archive - Slater and Charlie Go Camping Manual](https://archive.org/details/slater-and-charlie-go-camping-manual) – SierraOriginals edition manual scan: modes, twelve pages, teleporter page, controls, "Sierra's first interactive children's book"
+[^ref-8]: [PCGamingWiki - Slater & Charlie Go Camping](https://www.pcgamingwiki.com/wiki/Slater_&_Charlie_Go_Camping) – SCI1.1 engine; DOS May 19, 1993; Mac OS August 1993
+[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_%26_Charlie_Go_Camping_%28PC,_1.44MB_3_1/2%22_Disk%29_Sierra_-_1993_USA,_Canada_Release) – Box text transcription, narrator, system requirements, ages 3–8
+[^ref-10]: [Internet Archive - MS-DOS Slater Charlie Go Camping](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993) – Browser-playable DOS version
+[^ref-12]: [DOS Zone - Slater Charlie Go Camping](https://dos.zone/slater-charlie-go-camping-may-19-1993/) – Browser-playable version
+[^ref-13]: [MyAbandonware - Slater Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax) – User rating 4.67/5 (9 votes) and description
+[^ref-14]: [Play Classic Games - Slater Charlie Go Camping](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/) – Browser-playable version
+[^ref-15]: [Xeen Music - Slater & Charlie Go Camping Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55) – 2020 licensed soundtrack, SC-55 arrangement, track list incl. unused cues
+[^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – Release date 19/05/1993; download listing
+[^ref-19]: [GOG Wishlist - Slater & Charlie Go Camping](https://www.gog.com/wishlist/games/slater_charlie_go_camping) – Community wishlist entry, +102 votes
+[^ref-20]: No Steam listing found (Steam store search, checked October 29, 2026) – "0 results match your search"
+[^ref-21]: No GOG listing found (GOG store search, checked October 29, 2026) – Digital store availability
+[^ref-22]: [Computer Gaming World #113 (December 1993), p.152 – Virginia Soper, "Slater and Charlie Go Camping"](https://archive.org/details/Computer_Gaming_World_Issue_113/page/n151/) – Review, price $49.95, ages 3 to 8, requirements, compass and picture book in box
+[^ref-23]: [PC Magazine, December 7, 1993, p.588 – Donald B. Trivette & Julie Cohen, "After Hours: Holiday Gift Guide"](https://books.google.com/books?id=7k7q-wS0t00C&pg=RA1-PA588) – Capsule review, DOS, $49.95, comparison to Living Books
+[^ref-24]: [InterAction Magazine, Fall 1992, p.9 – "Sierra Discovery Series"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n8/) – Red Dog Software entry and upcoming products; Sierra's educational titles on market
+[^ref-25]: [InterAction Magazine, Fall 1992, p.19 – "Coming up from Sierra and Dynamix"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n18/) – Preview: preschool to third grade, story and play modes, due late spring/early summer 1993
+[^ref-26]: [InterAction Magazine, Winter 1992, p.16 – "New Games Update"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US/page/n16/) – Layout about 85% complete; pencil-sketch animation cel
+[^ref-27]: [MobyGames - Slater & Charlie Go Camping DOS credits](https://www.mobygames.com/game/22337/slater-charlie-go-camping/credits/dos/) – Full credits, 48 people (41 professional roles, 7 thanks)
+[^ref-28]: [MobyGames - Slater & Charlie Go Camping releases](https://www.mobygames.com/game/22337/slater-charlie-go-camping/releases/) – DOS May 19, 1993; Macintosh Aug 1993
+[^ref-29]: [MobyGames - Slater & Charlie Go Camping reviews](https://www.mobygames.com/game/22337/slater-charlie-go-camping/reviews/) – Critic average 42% (1 rating); players 3.7/5 (6 ratings); Katakis player review (2016)
+[^ref-30]: [ScummVM - Compatibility: Slater & Charlie Go Camping](https://www.scummvm.org/compatibility/DEV/sci:slater/) – Support level "Excellent"; DOS and Macintosh

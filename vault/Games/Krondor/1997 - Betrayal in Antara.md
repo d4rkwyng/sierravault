@@ -139,31 +139,31 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 
 ## References
 
-[^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – - Basic game information and development details
-[^ref-3]: [Crydee.com - Raymond E. Feist FAQ](https://www.crydee.com/raymond-feist/faq/2589/is-betrayal-at-antara-by-dynamix-based-in-midkemia) – - Author's clarification on game relationship
-[^ref-4]: [The Digital Antiquarian - Betrayal at Krondor](https://www.filfre.net/2019/10/betrayal-at-krondor/) – - Jimmy Maher's assessment of the follow-up
-[^ref-5]: [Archive.org - Game Manual](https://archive.org/stream/vgmuseum_sierra_antara-manual/antara-manual_djvu.txt) – - Designer introduction and development story
-[^ref-6]: [Web Archive - PC Gamer News 1997](https://web.archive.org/web/19980218070614/http://www.pcgamer.com/news/news-1997-06-30.html) – - Contemporary shipping announcement
-[^ref-7]: [MobyGames - Betrayal in Antara](https://www.mobygames.com/game/695/betrayal-in-antara/) – - Game description: updated engine, Ramar setting, explorable towns, full-screen view
-[^ref-8]: [TV Tropes - Betrayal in Antara](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BetrayalinAntara) – - Story details and character dialogue
-[^ref-9]: [Sierra Gamers - Betrayal in Antara](https://www.sierragamers.com/betrayal-in-antara/) – - Game plot description
-[^ref-10]: [Amazon - Sierra Betrayal in Antara](https://www.amazon.com/Sierra-Betrayal-in-Antara/dp/B00083B6DE) – - Customer reviews and game features
-[^ref-11]: [PC Gaming Wiki - Betrayal in Antara](https://www.pcgamingwiki.com/wiki/Betrayal_in_Antara) – - System requirements and modern compatibility
-[^ref-12]: [GOG Forum - Betrayal in Antara Guide](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know/page1) – - Gameplay mechanics information
-[^ref-13]: [RPG Gamers - Betrayal in Antara Hints](https://rpggamers.com/walkthrough/betrayal-in-antara-hints-2) – - Gameplay tips and character development
-[^ref-14]: [Easter Eggs Database](https://eeggs.com/items/31623.html) – - Cheat codes and cultural references
-[^ref-15]: [KHInsider - Betrayal in Antara Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/betrayal-in-antara-1997-windows) – - Audio file details and soundtrack information
-[^ref-16]: [Metacritic - Betrayal in Antara](https://www.metacritic.com/game/betrayal-in-antara/) – - User review aggregation
-[^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/betrayal-in-antara-review/1900-2537979/) – - Professional review and critique
-[^ref-18]: [MobyGames Reviews](https://www.mobygames.com/game/695/betrayal-in-antara/reviews/) – - Player reviews and critiques
-[^ref-19]: [IMDb - Betrayal in Antara (Video Game 1997)](https://www.imdb.com/title/tt1569924/) – - User rating information
-[^ref-21]: [RPG Codex Forum](https://rpgcodex.net/forums/threads/betrayal-in-antara-fix-for-xp.41740/) – - Community discussion and assessment
-[^ref-23]: [MobyGames - Betrayal in Antara Credits (Windows)](https://www.mobygames.com/game/695/betrayal-in-antara/credits/windows/) – - Design and music credits
-[^ref-24]: [Archive.org - Patch ANTAR110](https://archive.org/details/ANTAR110) – - Official patch documentation
-[^ref-25]: [Patches Scrolls](https://www.patches-scrolls.com/betrayal_in_antara.php) – - Patch archive information
-[^ref-26]: [Archive.org - Betrayal in Antara (Windows) Manual](https://archive.org/details/betrayal-antara-manual) – - Scanned manual
-[^ref-27]: [Sierra Chest - Betrayal in Antara Demos](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara&fld=demos) – - Official demo download (25.5 MB)
-[^ref-31]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/196753-betrayal-in-antara/faqs/2206) – - Complete gameplay guide
-[^ref-32]: [Next Generation, October 1997 (Internet Archive scan)](https://archive.org/details/next-generation-1997-10/page/n180/mode/1up) – - Review of Betrayal in Antara (PC), "Rating: ★★★"; "Antara succeeds it in the fashion of Doom II"
-[^ref-33]: [GOG.com - Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) – - "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
-[^ref-34]: [Steam - Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – - "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
+[^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – Basic game information and development details
+[^ref-3]: [Crydee.com - Raymond E. Feist FAQ](https://www.crydee.com/raymond-feist/faq/2589/is-betrayal-at-antara-by-dynamix-based-in-midkemia) – Author's clarification on game relationship
+[^ref-4]: [The Digital Antiquarian - Betrayal at Krondor](https://www.filfre.net/2019/10/betrayal-at-krondor/) – Jimmy Maher's assessment of the follow-up
+[^ref-5]: [Archive.org - Game Manual](https://archive.org/stream/vgmuseum_sierra_antara-manual/antara-manual_djvu.txt) – Designer introduction and development story
+[^ref-6]: [Web Archive - PC Gamer News 1997](https://web.archive.org/web/19980218070614/http://www.pcgamer.com/news/news-1997-06-30.html) – Contemporary shipping announcement
+[^ref-7]: [MobyGames - Betrayal in Antara](https://www.mobygames.com/game/695/betrayal-in-antara/) – Game description: updated engine, Ramar setting, explorable towns, full-screen view
+[^ref-8]: [TV Tropes - Betrayal in Antara](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BetrayalinAntara) – Story details and character dialogue
+[^ref-9]: [Sierra Gamers - Betrayal in Antara](https://www.sierragamers.com/betrayal-in-antara/) – Game plot description
+[^ref-10]: [Amazon - Sierra Betrayal in Antara](https://www.amazon.com/Sierra-Betrayal-in-Antara/dp/B00083B6DE) – Customer reviews and game features
+[^ref-11]: [PC Gaming Wiki - Betrayal in Antara](https://www.pcgamingwiki.com/wiki/Betrayal_in_Antara) – System requirements and modern compatibility
+[^ref-12]: [GOG Forum - Betrayal in Antara Guide](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know/page1) – Gameplay mechanics information
+[^ref-13]: [RPG Gamers - Betrayal in Antara Hints](https://rpggamers.com/walkthrough/betrayal-in-antara-hints-2) – Gameplay tips and character development
+[^ref-14]: [Easter Eggs Database](https://eeggs.com/items/31623.html) – Cheat codes and cultural references
+[^ref-15]: [KHInsider - Betrayal in Antara Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/betrayal-in-antara-1997-windows) – Audio file details and soundtrack information
+[^ref-16]: [Metacritic - Betrayal in Antara](https://www.metacritic.com/game/betrayal-in-antara/) – User review aggregation
+[^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/betrayal-in-antara-review/1900-2537979/) – Professional review and critique
+[^ref-18]: [MobyGames Reviews](https://www.mobygames.com/game/695/betrayal-in-antara/reviews/) – Player reviews and critiques
+[^ref-19]: [IMDb - Betrayal in Antara (Video Game 1997)](https://www.imdb.com/title/tt1569924/) – User rating information
+[^ref-21]: [RPG Codex Forum](https://rpgcodex.net/forums/threads/betrayal-in-antara-fix-for-xp.41740/) – Community discussion and assessment
+[^ref-23]: [MobyGames - Betrayal in Antara Credits (Windows)](https://www.mobygames.com/game/695/betrayal-in-antara/credits/windows/) – Design and music credits
+[^ref-24]: [Archive.org - Patch ANTAR110](https://archive.org/details/ANTAR110) – Official patch documentation
+[^ref-25]: [Patches Scrolls](https://www.patches-scrolls.com/betrayal_in_antara.php) – Patch archive information
+[^ref-26]: [Archive.org - Betrayal in Antara (Windows) Manual](https://archive.org/details/betrayal-antara-manual) – Scanned manual
+[^ref-27]: [Sierra Chest - Betrayal in Antara Demos](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara&fld=demos) – Official demo download (25.5 MB)
+[^ref-31]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/196753-betrayal-in-antara/faqs/2206) – Complete gameplay guide
+[^ref-32]: [Next Generation, October 1997 (Internet Archive scan)](https://archive.org/details/next-generation-1997-10/page/n180/mode/1up) – Review of Betrayal in Antara (PC), "Rating: ★★★"; "Antara succeeds it in the fashion of Doom II"
+[^ref-33]: [GOG.com - Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) – "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
+[^ref-34]: [Steam - Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."

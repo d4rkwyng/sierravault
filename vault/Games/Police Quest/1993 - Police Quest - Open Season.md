@@ -172,32 +172,32 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 ## References
 
-[^ref-4]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – - Ken Williams' Reality Role-Playing vision and quote
-[^ref-6]: [Police Quest Fandom - Transcript](https://policequest.fandom.com/wiki/PQ4CD_transcript) – - Game script and crime scene descriptions
-[^ref-7]: [The Toybox Blog](http://thetoybox1138.blogspot.com/2013/02/sierra-adventure-games-sierra.html) – - Plot summary and content descriptions
-[^ref-8]: [IMDb - Police Quest: Open Season Trivia](https://www.imdb.com/title/tt0289401/trivia) – - Development details and cast information
-[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Police_Quest:_Open_Season) – - Technical specifications and compatibility information
-[^ref-11]: [Sierra Chest - General Info](https://www.sierrachest.com/index.php?a=games&id=23&fld=general) – - First release 1993-11-27; Dargan as designer/writer/director/producer; Gates brought in "as author of the game" "to show gamers the true face of police work"; SWAT follow-up
-[^ref-12]: [PC Gamer - Police Quest: Open Season](https://www.pcgamer.com/police-quest-open-season/) – - Andy Kelly retrospective: scoring, stereotyped dialogue, Gates' 1994 Vibe quote, verdict
-[^ref-13]: [MobyGames User Review - ETJB](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2556724/) – - User review on realism and gameplay
-[^ref-14]: [Only Solitaire Substack](https://onlysolitaire.substack.com/p/game-review-police-quest-open-season) – - Detailed technical and design analysis
-[^ref-15]: [MobyGames - Main Entry](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – - Credits (Tammy Dargan "Producer \ Director", "Designer \ Writer"; Daryl F. Gates "Author"), 1993 DOS/Windows/Mac releases, ESRB Teen, location trivia
-[^ref-16]: [The Adventurers' Guild – Game 149: Police Quest: Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – - Development background; quotes Jim Walls on leaving Sierra
-[^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – - Release, platforms, imagery from video recordings and LA photographs, contemporary reception, criticism, sales
-[^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings (6.8/10 from 93 votes, Oct 2026)
-[^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review: LAPD/mayor's office cooperation, Parker Center, 10,000 lines of dialogue
-[^ref-23]: [Adventure Gamers – Police Quest: Open Season review (Scott Bruner, May 10, 2013; Wayback Machine copy)](https://web.archive.org/web/20130608013207/http://www.adventuregamers.com/articles/view/24244) – - 2 stars; archived pre-sale copy (the live site is now a casino affiliate)
-[^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – - Personal retrospective review
-[^ref-25]: [Adventure Game Hotspot](https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective) – - Critical retrospective analysis
-[^ref-26]: [MobyGames Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Critics average 73% from 23 ratings (checked Oct 28, 2026)
-[^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - SCI2 engine and 640×480 support, Dargan background
-[^ref-34]: [MobyGames User Review - ETJB, "Ahead of Its Time" (2010)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – - Puzzles and procedure; comparison with Grand Theft Auto
-[^ref-39]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – - Current digital availability (released Aug 29, 2016)
-[^ref-40]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – - Digital distribution platform availability
-[^ref-41]: [Internet Archive Manual](https://archive.org/details/Police_Quest_4_-_Manual) – - Game manual preservation
-[^ref-42]: [Internet Archive – Live Wire: Police Quest Open Season (Noah Antwiler)](https://archive.org/details/live-wire-police-quest-open-season) – - Video playthrough preservation
+[^ref-4]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Ken Williams' Reality Role-Playing vision and quote
+[^ref-6]: [Police Quest Fandom - Transcript](https://policequest.fandom.com/wiki/PQ4CD_transcript) – Game script and crime scene descriptions
+[^ref-7]: [The Toybox Blog](http://thetoybox1138.blogspot.com/2013/02/sierra-adventure-games-sierra.html) – Plot summary and content descriptions
+[^ref-8]: [IMDb - Police Quest: Open Season Trivia](https://www.imdb.com/title/tt0289401/trivia) – Development details and cast information
+[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Police_Quest:_Open_Season) – Technical specifications and compatibility information
+[^ref-11]: [Sierra Chest - General Info](https://www.sierrachest.com/index.php?a=games&id=23&fld=general) – First release 1993-11-27; Dargan as designer/writer/director/producer; Gates brought in "as author of the game" "to show gamers the true face of police work"; SWAT follow-up
+[^ref-12]: [PC Gamer - Police Quest: Open Season](https://www.pcgamer.com/police-quest-open-season/) – Andy Kelly retrospective: scoring, stereotyped dialogue, Gates' 1994 Vibe quote, verdict
+[^ref-13]: [MobyGames User Review - ETJB](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2556724/) – User review on realism and gameplay
+[^ref-14]: [Only Solitaire Substack](https://onlysolitaire.substack.com/p/game-review-police-quest-open-season) – Detailed technical and design analysis
+[^ref-15]: [MobyGames - Main Entry](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – Credits (Tammy Dargan "Producer \ Director", "Designer \ Writer"; Daryl F. Gates "Author"), 1993 DOS/Windows/Mac releases, ESRB Teen, location trivia
+[^ref-16]: [The Adventurers' Guild – Game 149: Police Quest: Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – Development background; quotes Jim Walls on leaving Sierra
+[^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – Release, platforms, imagery from video recordings and LA photographs, contemporary reception, criticism, sales
+[^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – Cast, crew, and user ratings (6.8/10 from 93 votes, Oct 2026)
+[^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – Retrospective review: LAPD/mayor's office cooperation, Parker Center, 10,000 lines of dialogue
+[^ref-23]: [Adventure Gamers – Police Quest: Open Season review (Scott Bruner, May 10, 2013; Wayback Machine copy)](https://web.archive.org/web/20130608013207/http://www.adventuregamers.com/articles/view/24244) – 2 stars; archived pre-sale copy (the live site is now a casino affiliate)
+[^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – Personal retrospective review
+[^ref-25]: [Adventure Game Hotspot](https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective) – Critical retrospective analysis
+[^ref-26]: [MobyGames Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – Critics average 73% from 23 ratings (checked Oct 28, 2026)
+[^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – SCI2 engine and 640×480 support, Dargan background
+[^ref-34]: [MobyGames User Review - ETJB, "Ahead of Its Time" (2010)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – Puzzles and procedure; comparison with Grand Theft Auto
+[^ref-39]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Current digital availability (released Aug 29, 2016)
+[^ref-40]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Digital distribution platform availability
+[^ref-41]: [Internet Archive Manual](https://archive.org/details/Police_Quest_4_-_Manual) – Game manual preservation
+[^ref-42]: [Internet Archive – Live Wire: Police Quest Open Season (Noah Antwiler)](https://archive.org/details/live-wire-police-quest-open-season) – Video playthrough preservation
 [^ref-48]: [The Digital Antiquarian – Spycraft: The Great Game, Part 1](https://www.filfre.net/2023/03/spycraft-the-great-game-part-1-or-parallel-spies/) – "the jingoistic Gates game is a prime case in point"
 [^ref-47]: [Retro365 Blog - Police Quest History](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) – "first fully photo-realistic" Sierra game, historical context *(note: this post's MA-17 rating and 1996 CD-ROM date conflict with MobyGames' ESRB Teen and Wikipedia's 1994 CD release)*
-[^ref-49]: [Computer Gaming World Issue 116 (March 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_116) – - Dennis Owens, "Book 'em, Daryl!", p. 45: "moody and evocative" score; "Open Season tells that story magnificently"
-[^ref-50]: [Electronic Games, October 1994, Internet Archive](https://archive.org/details/electronic-games-1994-10z) – - Clayton Walnum review, B+: "a rewarding and eye-opening experience"
-[^ref-51]: [Next Generation Issue #9 (September 1995), Internet Archive](https://archive.org/details/nextgen-issue-009) – - Macintosh review, two stars: "the ultimate Sierra police-based game is still a fond dream to look forward to"
+[^ref-49]: [Computer Gaming World Issue 116 (March 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_116) – Dennis Owens, "Book 'em, Daryl!", p. 45: "moody and evocative" score; "Open Season tells that story magnificently"
+[^ref-50]: [Electronic Games, October 1994, Internet Archive](https://archive.org/details/electronic-games-1994-10z) – Clayton Walnum review, B+: "a rewarding and eye-opening experience"
+[^ref-51]: [Next Generation Issue #9 (September 1995), Internet Archive](https://archive.org/details/nextgen-issue-009) – Macintosh review, two stars: "the ultimate Sierra police-based game is still a fond dream to look forward to"
