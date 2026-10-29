@@ -10,7 +10,7 @@ series: Transylvania
 engine: COMPREHEND
 protagonist: The Hero of Transylvania
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: 'The Crimson Crown (Transylvania II), Antonio Antiochia''s 1985 illustrated
   text adventure for Polarware and the sequel to Transylvania, with an IBM PC port
   by Dynamix.'
@@ -18,11 +18,11 @@ tags: [1980s, adventure, sierra, transylvania]
 ---
 # The Crimson Crown
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is an illustrated text adventure published by Polarware and written by Antonio Antiochia.[^ref-1] The Lysator adventure archive credits the game to Antiochia, with animations by Dallas Snell, and describes it as the first release built with Polarware's COMPREHEND system.[^ref-7] It was released in October 1985 for the Apple II and Commodore 64, followed by ports to other platforms through 1986.[^ref-1][^ref-18] It is the sequel to *Transylvania*, which Penguin Software first published for the Apple II in 1982.[^ref-5] The game was marketed as "a spine-tingling illustrated interactive novel".[^ref-3]
+The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is an illustrated text adventure published by Polarware and written by Antonio Antiochia.[^ref-1] The Lysator adventure archive credits the game to Antiochia, with animations by Dallas Snell. It calls the game the first COMPREHEND release, though its entry for the 1985 COMPREHEND rewrite of *Transylvania* makes the same claim for that game.[^ref-7] It was released in October 1985 for the Apple II and Commodore 64, followed by ports to other platforms through 1986.[^ref-1][^ref-18] It is the sequel to *Transylvania*, which Penguin Software first published for the Apple II in 1982.[^ref-5] The game was marketed as "a spine-tingling illustrated interactive novel".[^ref-3]
 
 The game renders the current location as a picture, which Giant Bomb says gives the player "a sense of presence" that the more common text adventures of the era lacked.[^ref-4] The player sets out to defeat a magical vampire with the help of Princess Sabrina, now a fledgling magician, and Prince Erik, the heir to the throne.[^ref-5] Giant Bomb calls the game "unique among graphical text adventures of the era, in that companions interact with, and accompany the player."[^ref-4]
 
@@ -80,7 +80,7 @@ This page has not yet located a contemporary magazine review. Period scans do sh
 
 ### Modern Assessment
 
-Modern retrospectives are mixed. Alex Bevilacqua gave the game 40%. He criticized its heavy reliance on item collection and backtracking, but called it "an upgrade from the first title."[^ref-16] The Home of the Underdogs review called the plot predictable, but judged the game "a marked improvement over the first game."[^ref-12]
+Modern retrospectives are mixed. Alex Bevilacqua gave the game 40%. He criticized its heavy reliance on item collection and backtracking, found its loop of gathering items, trying them on each screen and moving on "a bit tedious", and noted that the parser requires precise input, but called it "an upgrade from the first title."[^ref-16] The Home of the Underdogs review called the plot predictable, but judged the game "a marked improvement over the first game" and recommended it to players who like the other games in the series.[^ref-12]
 
 DOSGames.com gives the game a site rating of 3.5 out of 5.[^ref-13] GameFAQs users rate it "Great" from 12 ratings.[^ref-3]
 
@@ -94,9 +94,9 @@ DOSGames.com gives the game a site rating of 3.5 out of 5.[^ref-13] GameFAQs use
 
 ### Origins
 
-The Crimson Crown is the sequel to *Transylvania* (1982).[^ref-5] Antonio Antiochia wrote that game, and it was one of the first two games Penguin Software published.[^ref-24] MobyGames credits Antiochia with both writing and illustrating The Crimson Crown.[^ref-1] Bevilacqua described the game as essentially a one-man show.[^ref-16] The Lysator archive, however, also credits Dallas Snell with the game's animations.[^ref-7]
+The Crimson Crown is the sequel to *Transylvania* (1982).[^ref-5] Antonio Antiochia wrote that game, and it was one of the first two games Penguin Software published.[^ref-24] MobyGames credits Antiochia with both writing and illustrating The Crimson Crown.[^ref-1] Bevilacqua described the game as essentially a one-man show.[^ref-16] The Lysator archive, however, also credits Dallas Snell with the game's animations,[^ref-7] and the Dynamix Fandom wiki lists him for "Parser and Animation".[^ref-6]
 
-The company behind the game began as Penguin Software. Penguin Books challenged it over the name, and founder Mark Pelczarski phased in the new name "Polarware".[^ref-24] Lysator says the company was called Penguin Software "until late 1985". It adds that the COMPREHEND system was finished at about the same time as the name change, and that The Crimson Crown "was never released by Penguin, but was the first Comprehend release."[^ref-7] Polarware's 1986 advertising still credited "Polarware/Penguin Software, Inc." and called the illustrations "Penguin Software's longtime specialty."[^ref-25]
+The company behind the game began as Penguin Software. Penguin Books challenged it over the name, and founder Mark Pelczarski phased in the new name "Polarware".[^ref-24] Lysator says the company was called Penguin Software "until late 1985". It adds that the COMPREHEND system was finished at about the same time as the name change, and that The Crimson Crown "was never released by Penguin, but was the first Comprehend release." Its entry for the 1985 COMPREHEND rewrite of *Transylvania*, however, says "This was the first Comprehend game released", so the order of the two is unclear.[^ref-7] Polarware's 1986 advertising still credited "Polarware/Penguin Software, Inc." and called the illustrations "Penguin Software's longtime specialty."[^ref-25]
 
 ### Production
 
@@ -112,13 +112,11 @@ The game was built with COMPREHEND, Polarware's adventure development system, an
 - **Other versions of COMPREHEND and The Graphics Magician:** Robert Hardy, Peter Schmitt, Eagle Berns
 - **Cover and documentation art and design:** Stephen F. Wedemeyer
 
-Lysator also credits Dallas Snell with animations.[^ref-7]
-
 ### Technical Achievements
 
 The COMPREHEND parser accepted full-sentence commands rather than simple verb-noun input, and the game was advertised as having a vocabulary of over 1,000 words.[^ref-3][^ref-4] MobyGames notes that the IBM PC version "is one of the few PC titles that supports 16 colors exclusively in PCjr computers."[^ref-1]
 
-Players can direct either Princess Sabrina or Prince Erik to act by naming them at the start of a command, for example SABRINA, CAST SPELL or ERIK, TAKE SWORD.[^ref-16] Sabrina understands magic, and Erik can use items that belong to the heir to the throne.[^ref-1]
+Players can direct either Princess Sabrina or Prince Erik to act by naming them at the start of a command, for example SABRINA, CAST SPELL or ERIK, TAKE SWORD.[^ref-16]
 
 ### Technical Specifications
 
@@ -149,14 +147,13 @@ Players can direct either Princess Sabrina or Prince Erik to act by naming them 
 
 The GameFAQs walkthrough lists many differences between the original release and the version that circulates as abandonware. The abandonware version has missing graphics, a game that ends after Part 1, and changed puzzle timing.[^ref-10] The frog transformation, for example, triggers after two moves instead of four.[^ref-10] The abandonware version also shows a picture of a floppy disk with "OH SHIT!" on it instead of the real title screen.[^ref-10]
 
-In the original release, a "Please put in side 2 of your disk" prompt appears when Part 1 ends.[^ref-10] Because the riddles come from the parchment in the original packaging, the game "can't readily be finished without it."[^ref-11]
+In the original release, a "Please put in side 2 of your disk" prompt appears when Part 1 ends.[^ref-10]
 
 ### Easter Eggs and Trivia
 
 - The Crimson Crown of the title is the crown that signifies rulership of Transylvania.[^ref-12]
 - The text uses mixed case, which Gaming After 40 calls unusual for an Apple II adventure.[^ref-11]
 - A sword in the crypt bears the name "KADASH", which Gaming After 40 identifies as a reference to the earlier Polarware title *The Sword of Kadash*.[^ref-11]
-- Lysator's description of the Apple II package lists a 12-page parchment Journal "as chronicled by His Majesty's Loyal Chamberlain Mikhail" and a 15" x 11" fold-out parchment map.[^ref-7]
 
 ## Legacy
 
@@ -166,7 +163,7 @@ No sales figures for the game have been found. It was released on nine platforms
 
 ### Collections
 
-The Internet Archive hosts a playable copy of the Commodore 64 version.[^ref-2] MyAbandonware offers the DOS version to play in a browser.[^ref-22] The game is now freeware,[^ref-13] after the rights to the old Polarware titles were bought back and many of them were released free.[^ref-24]
+The Internet Archive hosts a playable copy of the Commodore 64 version.[^ref-2] MyAbandonware offers the DOS version to play in a browser.[^ref-22]
 
 ### Dynamix PC Port
 
@@ -178,16 +175,11 @@ After official support ended, an enthusiast reconstructed a source-code variant 
 
 ### Related Publications
 
-- **Parchment Journal and map:** Lysator's description of the Apple II package lists a 12-page parchment Journal and a fold-out parchment map.[^ref-7]
-- **Riddle parchment:** the riddles needed for the Gryphon puzzle come from a parchment in the original packaging.[^ref-11]
-
-### Critical Perspective
-
-Bevilacqua found the game tedious by modern standards. He described its loop as gathering items, trying them on each screen and moving on, and noted that the parser requires precise input. He still called it an upgrade from the first title.[^ref-16] The Home of the Underdogs review judged it "a marked improvement over the first game" and recommended it to fans of the series.[^ref-12]
+- **Parchment Journal and map:** Lysator's description of the Apple II package lists a 12-page parchment Journal "as chronicled by His Majesty's Loyal Chamberlain Mikhail" and a 15" x 11" fold-out parchment map.[^ref-7]
 
 ## Purchase
 
-No current digital storefront listing was found. The game has been released as freeware.[^ref-13]
+No current digital storefront listing was found. GOG does not sell the game; it has only a community [GOG Dreamlist entry](https://www.gog.com/wishlist/games/the_crimson_crown_transylvania_ii) asking for it to be added (checked October 29, 2026).
 
 ## Downloads
 
@@ -201,7 +193,6 @@ No current digital storefront listing was found. The game has been released as f
 
 - [[Dynamix]]
 - [[1989 - MechWarrior]]
-- [[1983 - Troll's Tale]]
 
 ## References
 
@@ -210,8 +201,8 @@ No current digital storefront listing was found. The game has been released as f
 [^ref-3]: [GameFAQs – The Crimson Crown](https://gamefaqs.gamespot.com/pc/976714-the-crimson-crown) – marketing blurb (vocabulary, sentence parser, 100 graphics), user ratings
 [^ref-4]: [Giant Bomb – The Crimson Crown](https://www.giantbomb.com/the-crimson-crown/3030-5131/) – rendered locations, companions, Comprehend full-sentence parser, plot
 [^ref-5]: [Wikipedia – Transylvania (series)](https://en.wikipedia.org/wiki/Transylvania_(series)) – series overview, 1982 original, companions, Transylvania III, engine reconstruction
-[^ref-6]: [Dynamix Fandom Wiki – The Crimson Crown](https://dynamix.fandom.com/wiki/The_Crimson_Crown) – release dates, Dynamix DOS port
-[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) – credits (Antiochia; Dallas Snell, animations), first Comprehend release, Penguin-to-PolarWare name change, packaging
+[^ref-6]: [Dynamix Fandom Wiki – The Crimson Crown](https://dynamix.fandom.com/wiki/The_Crimson_Crown) – release dates, Dynamix DOS port, credits (Dallas Snell, "Parser and Animation")
+[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) – credits (Antiochia; Dallas Snell, animations), "first Comprehend release" (a claim it also makes for the 1985 Transylvania rewrite), Penguin-to-PolarWare name change, packaging
 [^ref-8]: [Gamepressure – The Crimson Crown](https://www.gamepressure.com/games/the-crimson-crown/zd2a6d) – user rating (4.8/10, 5 ratings)
 [^ref-10]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/976646-the-crimson-crown/faqs/59450) – version differences, frog transformation, story quotes, Part 2 disk prompt
 [^ref-11]: [Gaming After 40 – Adventure of the Week](http://gamingafter40.blogspot.com/2014/01/adventure-of-week-crimson-crown-1985.html) – copy-protection parchment, vector-and-fill graphics, mixed-case text, Erik quote, Kadash sword
@@ -227,5 +218,5 @@ No current digital storefront listing was found. The game has been released as f
 [^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/the-crimson-crown-9b/play-9b) – browser-playable DOS version
 [^ref-23]: [Wikidata – Q57164149](https://www.wikidata.org/wiki/Q57164149) – series ordinal, platform list
 [^ref-24]: [Wikipedia – Penguin Software](https://en.wikipedia.org/wiki/Penguin_Software) – name change to Polarware, Comprehend and Graphics Magician, Merit acquisition, freeware re-release, engine reconstruction
-[^ref-25]: [Antic Magazine Vol. 5 No. 1 (May 1986)](https://archive.org/details/1986-05-anticmagazine) – Polarware COMPREHEND advertisement (p. 53); Software Discounters of America listing "Crimson Crown 520ST . . $25" (p. 117)
+[^ref-25]: [Antic Magazine Vol. 5 No. 1 (May 1986)](https://archive.org/details/1986-05-anticmagazine) – Polarware advertisement "COMPREHEND Interactive Novels with graphics" (p. 50, unnumbered, facing p. 51); Software Discounters of America listing "Crimson Crown 520ST . . $25" (p. 114, unnumbered, facing p. 115)
 [^ref-26]: [MechWarrior manual (Activision/Dynamix, 1989)](https://archive.org/details/Mechwarrior) – "The Developers of MECHWARRIOR": Paul Bowman's previous Dynamix projects include "Crimson Crown"
