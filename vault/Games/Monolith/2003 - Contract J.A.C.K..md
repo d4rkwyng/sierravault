@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: John Jack
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Contract J.A.C.K. (where J.A.C.K. stands for "Just Another Contract Killer")
   is a 2003 first-person shooter developed by Monolith Productions and published by
   Sierra Entertainment, a prequel to No One Lives Forever 2.
@@ -18,13 +18,13 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
 Contract J.A.C.K. (where J.A.C.K. stands for "Just Another Contract Killer") is a first-person shooter developed by [[Monolith Productions]] and published by [[Sierra On-Line|Sierra Entertainment]] in November 2003.[^ref-1] Serving as a prequel to *No One Lives Forever 2: A Spy in H.A.R.M.'s Way*, the game shifts perspective from series protagonist Cate Archer to John Jack, a ruthless contract killer working for the villainous organization H.A.R.M.[^ref-2] Unlike its predecessors, which balanced stealth gameplay with action and humor, Contract J.A.C.K. strips away virtually all espionage elements to focus purely on run-and-gun shooting.[^ref-3]
 
-The game was sold at what PC Gamer called a "budget-skewed $30 price" and was billed as a "standalone expansion" rather than a full sequel.[^ref-13] Set between the events of the original *No One Lives Forever* and its sequel, the story follows Jack as he battles a rival Italian criminal organization, Danger Danger, which plans to take H.A.R.M. down.[^ref-5][^ref-2] Despite using the same LithTech Jupiter engine as the critically acclaimed *NOLF 2*, the game was poorly received by critics, earning a Metacritic score of 56 out of 100.[^ref-1]
+The game was sold at what PC Gamer called a "budget-skewed $30 price" and was billed as a "standalone expansion" rather than a full sequel.[^ref-13] Set between the events of the original *No One Lives Forever* and its sequel, the story follows Jack as he battles a rival Italian criminal organization, Danger Danger, which plans to take H.A.R.M. down.[^ref-1][^ref-5][^ref-2] Despite using the same LithTech Jupiter engine as the critically acclaimed *NOLF 2*, the game was poorly received by critics, earning a Metacritic score of 56 out of 100.[^ref-1]
 
 Contract J.A.C.K. represents Monolith's attempt to create a pure action experience within the *No One Lives Forever* universe. Hardcore Gaming 101 later wrote that it "leaves a bitter taste in the fans of the series," who had valued the earlier games' stealth, gadgets and humor.[^ref-6] The game remains unavailable for legal purchase today due to licensing issues between Activision Blizzard and WB Games over the rights to Monolith's back catalog.[^ref-7]
 
@@ -43,9 +43,9 @@ Contract J.A.C.K. represents Monolith's attempt to create a pure action experien
 
 The game opens with John Jack, described as the world's busiest professional killer, being drawn into the service of H.A.R.M. by Dmitrij Volkov, its Director of Executive Action.[^ref-8][^ref-27] After surviving a "job interview" against waves of H.A.R.M. troopers among Roman ruins on Malta, Jack is sent after Danger Danger, an Italian criminal organization led by Il Pazzo that has plans to take H.A.R.M. down.[^ref-1][^ref-27][^ref-2] Jack's mission takes him to Italy, Czechoslovakia, and even outer space.[^ref-10]
 
-The narrative unfolds across seven chapters as Jack carries out H.A.R.M.'s orders, battling waves of Danger Danger thugs and Czechoslovakian soldiers along the way.[^ref-4][^ref-27] Unlike Cate Archer, who was characterized by witty dialogue and moral complexity, Jack is presented as a nearly silent protagonist with only two lines of dialogue throughout the entire game.[^ref-12] The tone has been compared to *Pulp Fiction*, with lead designer Craig Hubbard noting that "there's still plenty of humor, but the style isn't as campy."[^ref-10]
+The narrative unfolds across seven chapters[^ref-22][^ref-27][^ref-48] as Jack carries out H.A.R.M.'s orders, battling waves of Danger Danger thugs and Czechoslovakian soldiers along the way.[^ref-4] Jack is presented as a nearly silent protagonist with only two lines of dialogue throughout the entire game.[^ref-12] The tone has been compared to *Pulp Fiction*, with lead designer Craig Hubbard noting that "there's still plenty of humor, but the style isn't as campy."[^ref-10]
 
-The story serves primarily as a vehicle for action set pieces, including a memorable sequence where Jack pilots a machine gun-equipped Vespa through the Italian countryside.[^ref-13] The game's ending is believed to explain why Volkov appears confined to a wheelchair and covered in a full body cast during the events of *No One Lives Forever 2*.[^ref-5] Jack's characterization as a "rugged antihero" stands in stark contrast to the glamorous spy thriller aesthetic of the main series.[^ref-2]
+The story serves primarily as a vehicle for action set pieces, including a memorable sequence where Jack pilots a machine gun-equipped Vespa through the Italian countryside.[^ref-13] The game's ending is believed to explain why Volkov appears confined to a wheelchair and covered in a full body cast during the events of *No One Lives Forever 2*.[^ref-1][^ref-5] Jack's characterization as a "rugged antihero" stands in stark contrast to the glamorous spy thriller aesthetic of the main series.[^ref-2]
 
 Hubbard explained the protagonist's distinctive name in a developer interview: "The protagonist's real name is John Jack (instead of just one cliché action hero name, he has two!), but people call him Contract Jack because he's sort of a freelance 'problem solver' of questionable moral standing."[^ref-10]
 
@@ -119,7 +119,7 @@ Gaming Pastime's retrospective noted that "Contract J.A.C.K. tells the weakest a
 - **Metacritic:** 56/100 (20 critic reviews: 10% positive, 60% mixed, 30% negative)[^ref-24]
 - **Metacritic User Score:** 5.8/10 (24 ratings)[^ref-24]
 - **MobyGames Critics Average:** 60%[^ref-18]
-- **MobyGames:** 6.2/10[^ref-18]
+- **MobyGames:** 6.3/10 (33 player ratings, as of October 2026)[^ref-18]
 - **IMDB:** 5.7/10 (94 ratings)[^ref-12]
 - **Amazon Customer Reviews:** 2.6/5 stars (45 reviews)[^ref-29]
 - **MyAbandonware User Rating:** 4.47/5[^ref-30]
@@ -130,7 +130,7 @@ Gaming Pastime's retrospective noted that "Contract J.A.C.K. tells the weakest a
 
 Contract J.A.C.K. was revealed in July 2003; a GameSpot Q&A dated July 9, 2003 introduced the "soon-to-be-announced next game in the series" as a stand-alone prequel.[^ref-10] In that interview Hubbard said most of the *NOLF 2* team had been involved in the game, which "began production at the beginning of the year," and that it was slated for release by the end of 2003.[^ref-10] Official promotional copy invited players to "explore the dark side of the No One Lives Forever universe."[^ref-2][^ref-18]
 
-The decision to create a pure action game appears to have been influenced by the commercial underperformance of the previous *NOLF* titles. As one German publication noted, despite critical acclaim, "both NOLF parts remained commercially unsuccessful."[^ref-32] Monolith's response was to redesign gameplay mechanics entirely, shifting from stealth-based gameplay to "pure action."[^ref-32]
+German magazine 4Players suggested that the switch to pure action was a response to the earlier games' sales. Its reviewer, Paul Kautz, wrote that both *NOLF* games had won praise from testers, yet commercial success eluded both, and that Monolith must have taken this as the occasion to thoroughly rework the gameplay (translated from the German: "Dennoch blieb beiden der kommerzielle Erfolg verwehrt").[^ref-32] Where Cate Archer's adventures had been packed with stealth sections, document collecting, a crazy arsenal and, in the sequel, a skill system, Jack "relies on pure sustained fire" (translated; original: "setzt aber auf Dauerfeuer pur").[^ref-32]
 
 ### Production
 
@@ -148,7 +148,7 @@ The game went gold on October 31, 2003, more than a week before its November 11 
 
 ### Technical Achievements
 
-Contract J.A.C.K. runs on the LithTech Jupiter engine, the same technology powering *No One Lives Forever 2*.[^ref-1] The engine supports both single-player and multiplayer modes, with online play for 2-16 players.[^ref-14] However, unlike *NOLF 2* which featured skill progression systems, Contract J.A.C.K. removed all upgrade paths, limiting the engine's RPG-lite elements.[^ref-5]
+Contract J.A.C.K. runs on the LithTech Jupiter engine, the same technology powering *No One Lives Forever 2*.[^ref-1] The engine supports both single-player and multiplayer modes, with online play for 2-16 players.[^ref-14] However, unlike *NOLF 2*, which had added a skill system, Contract J.A.C.K. has no upgrade system.[^ref-32][^ref-17][^ref-5]
 
 The game shipped with level-building tools allowing players to create and share mods online.[^ref-29] Several community-created patches have since been developed to address compatibility issues with modern systems.[^ref-7]
 
@@ -266,7 +266,7 @@ Night Dive Studios, known for republishing classic PC games like *System Shock 2
 
 Kuperman also recalled: "We weren't meeting with a lot of enthusiasm" when approaching rights holders about potential re-releases.[^ref-42] Night Dive filed trademarks for the series' games, Contract J.A.C.K. included,[^ref-49] but did not plan to re-release it, with Kick explaining: "We had filed for Contract J.A.C.K., but we don't really consider that to be part of the franchise. So we were going to just leave that by the wayside."[^ref-42] After Warner Bros. Games closed Monolith Productions in 2025, Kick told VGC that Nightdive still hoped to remaster *No One Lives Forever*: "Never give up. We don't give up."[^ref-41]
 
-The game is currently available through abandonware sites and Internet Archive preservation projects, with community-created mods enabling play on modern Windows 10 and 11 systems with widescreen support.[^ref-43]
+The game is available on abandonware sites[^ref-30] and in Internet Archive uploads.[^ref-36] Techdirt, which considers the series abandonware, noted that downloadable copies come with mods that let the games run on Windows 10 and 11 in widescreen.[^ref-43]
 
 ### Related Publications
 
@@ -288,7 +288,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [MyAbandonware](https://www.myabandonware.com/game/contract-j-a-c-k-dvt)[^ref-30]
 
 **Patches & Fixes:**
-- [PCGamingWiki Community – official v1.1 patch mirror](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,421 downloads[^ref-46]
+- [PCGamingWiki Community – official v1.1 patch mirror](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,433 downloads (October 2026)[^ref-46]
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
 ## See Also
@@ -301,7 +301,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-1]: [Wikipedia – Contract J.A.C.K.](https://en.wikipedia.org/wiki/Contract_J.A.C.K.) – developer, publisher, designer, engine, release dates, Malta recruitment, review scores
 [^ref-2]: [GameFAQs – Contract J.A.C.K. Data](https://gamefaqs.gamespot.com/pc/917875-contract-jack/data) – official game description ("dark side", "rugged antihero"), release information
 [^ref-3]: [IGN – Contract Jack Review](https://www.ign.com/articles/2003/11/20/contract-jack-review) – review score 6.1/10, gameplay criticism, bargain-bin comparison
-[^ref-4]: [GameSpot – Contract Jack Review](https://www.gamespot.com/reviews/contract-jack-review/1900-6083661/) – review score 5.9/10, four-hour length, seven missions, Czechoslovakian soldiers, multiplayer modes previously free for NOLF 2
+[^ref-4]: [GameSpot – Contract Jack Review](https://www.gamespot.com/reviews/contract-jack-review/1900-6083661/) – review score 5.9/10, four-hour length, seven multipart missions, Czechoslovakian soldiers, multiplayer modes previously free for NOLF 2
 [^ref-5]: [Gamicus – Contract J.A.C.K.](https://gamicus.fandom.com/wiki/Contract_J.A.C.K.) – plot details, Volkov connection, Metacritic score, engine info
 [^ref-6]: [Hardcore Gaming 101 – Contract J.A.C.K.](http://www.hardcoregaming101.net/contract-j-a-c-k/) – stealth removal, game length, critical reception, soundtrack recycling
 [^ref-7]: [PCGamingWiki – Contract J.A.C.K](https://www.pcgamingwiki.com/wiki/Contract_J.A.C.K) – technical specifications, SecuROM 4, bugs, widescreen fix, licensing issues, community fixes
@@ -314,7 +314,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-15]: [Sierra Chest – Contract J.A.C.K. Easter Eggs](https://sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=eggs) – easter eggs and references
 [^ref-16]: [Neoseeker – Contract J.A.C.K. Cheats](https://www.neoseeker.com/nolf-contractjack/cheats/pc/) – cheat codes and activation method
 [^ref-17]: [NOLF Wiki – Contract J.A.C.K.](https://nolf.fandom.com/wiki/Contract_J.A.C.K.) – gameplay differences, location details, Man-Handler weapon
-[^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – official description, Moby score, censorship, trivia, awards, Special Edition
+[^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – official description, Moby score (6.3 from 33 player ratings, read via the MobyGames API on 2026-10-29), censorship, trivia, awards, Special Edition
 [^ref-19]: [Cheatbook – Contract J.A.C.K. Walkthrough](https://www.cheatbook.de/wfiles/contractjack.htm) – gameplay description
 [^ref-21]: [IMFDB – Contract J.A.C.K.](https://www.imfdb.org/wiki/Contract_J.A.C.K.) – weapon identifications (Desert Eagle Mark XIX, Contender as "Bakalov Corrector"), anachronism notes
 [^ref-22]: [GameSpy – Contract J.A.C.K. Review](http://pc.gamespy.com/pc/contract-jack/6344p1.html) – "Average" rating, 15 missions over 7 chapters, asset recycling
@@ -325,7 +325,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-27]: [Sierra Chest – Contract J.A.C.K. Overview](https://www.sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=general) – story setup (Malta test, Il Pazzo), seven chapters, critical assessment, last entry in the series
 [^ref-29]: [Amazon.com – Contract J.A.C.K.](https://www.amazon.com/Contract-J-C-K-PC/dp/B0000A4F0R) – customer reviews, product features ("ten new single-player levels", level-building tools)
 [^ref-30]: [MyAbandonware – Contract J.A.C.K.](https://www.myabandonware.com/game/contract-j-a-c-k-dvt) – user rating, compatibility issues
-[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German bundle, commercial failure context, Serious Sam-level enemy numbers
+[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German review by Paul Kautz (21.12.2003): German bundle, commercial failure context, no upgrade system, Serious Sam-level enemy numbers
 [^ref-33]: [GameSpy – Contract J.A.C.K. Review Page 2](http://pc.gamespy.com/pc/contract-jack/6344p2.html) – cut content, original narrative concept, vehicle criticism
 [^ref-34]: [IGN – Contract Jack Gold](https://www.ign.com/articles/2003/10/31/contract-jack-gold) – gold status announcement, November 6 training mission
 [^ref-35]: [Eurogamer – Contract JACK demo](https://www.eurogamer.net/news271003contractjack) – October 27, 2003 FilePlanet multiplayer demo, Beta Protection System
@@ -334,7 +334,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-40]: [ModDB – Contract J.A.C.K.](https://www.moddb.com/games/contract-jack) – modding information, regional v1.1 patch mirrors
 [^ref-41]: [Video Games Chronicle – Nightdive NOLF Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Monolith closure, Kick's "Never give up" (March 2025)
 [^ref-42]: [Kotaku – Dead PC Game Story](https://kotaku.com/the-sad-story-behind-a-dead-pc-game-that-cant-come-back-1688358811) – Kuperman and Kick on rights records, trademark filings and leaving Contract J.A.C.K. aside
-[^ref-43]: [Techdirt – No One Lives Forever 25th Anniversary](https://techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/) – modern compatibility, rights disputes
+[^ref-43]: [Techdirt – No One Lives Forever 25th Anniversary](https://techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/) – abandonware status, modded downloads for Windows 10/11 and widescreen, rights disputes
 [^ref-44]: [GameFAQs – Contract J.A.C.K. User Review](https://gamefaqs.gamespot.com/pc/917875-contract-jack/reviews/177463) – user review, contractual obligation speculation
 [^ref-46]: [PCGamingWiki Community – Contract Jack Patch](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – official v1.1 patch mirror, download count
 [^ref-47]: [Sierra Chest – Contract J.A.C.K. Walkthrough: Game Menus](https://sierrachest.com/index.php?a=games&id=124&fld=walkthrough) – save system, difficulty settings, multiplayer modes
