@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Nathan Grigg]
 description: 'No One Lives Forever 2: A Spy in H.A.R.M.''s Way (NOLF 2) is a 2002
   first-person shooter developed by Monolith Productions and published under the Sierra
@@ -19,7 +19,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -44,9 +44,9 @@ Set against the backdrop of escalating Cold War tensions between the United Stat
 
 A year has passed since Cate Archer foiled the plans of the terrorist organization known as H.A.R.M.[^ref-6]. The tension between the USA and the Soviet Union has increased dramatically, with the two superpowers quarreling over a tiny but strategically important island called Khios[^ref-6]. UNITY, the international intelligence agency for which Cate works, discovers that H.A.R.M. has become involved in a top-secret Soviet project codenamed "Project Omega" that could bring about a third world war[^ref-10][^ref-2].
 
-Cate Archer, described by UNITY Director Bruno Lawrie as "one of UNITY's top undercover operatives," is once again called upon to battle the H.A.R.M. organization[^ref-8]. Project: Omega turns out to be a scheme to turn soldiers into "Super-Soldiers", indestructible cyborg-like fighting machines, for a H.A.R.M.-Soviet invasion of Khios[^ref-1]. Her investigation takes her through 15 chapters spanning locations from Japan and Siberia to a trailer park in Akron, Ohio during a tornado, India, Antarctica and an underwater H.A.R.M. base[^ref-1][^ref-10].
+Cate Archer, introduced by UNITY's Temporary Director Bruno Lawrie as "one of our top undercover operatives," is once again called upon to battle the H.A.R.M. organization[^ref-8][^ref-1]. Project: Omega turns out to be a scheme to turn soldiers into "Super-Soldiers", indestructible cyborg-like fighting machines, for a H.A.R.M.-Soviet invasion of Khios[^ref-1]. Her investigation takes her through 15 chapters spanning locations from Japan and Siberia to a trailer park in Akron, Ohio during a tornado, India, Antarctica and an underwater H.A.R.M. base[^ref-1][^ref-10].
 
-Throughout her mission, Cate encounters a colorful cast of characters including her burly Scottish ally Magnus Armstrong, the deadly ninja assassin Isako, and the villainous Dimitri Volkov[^ref-11]. The game's narrative maintains the series' trademark blend of serious spy thriller and absurdist comedy, with players fighting enemies ranging from genetically enhanced Super Soldiers to an army of French mimes led by the villainous "Pierre, the Mime King"[^ref-12]. One memorable sequence has players riding on the back of a tricycle piloted by Magnus Armstrong through the streets of Calcutta while gunning down attacking mimes—a scenario that one reviewer noted "whoever doesn't think that... is the coolest thing ever should check himself into a clinic"[^ref-13].
+Throughout her mission, Cate encounters a colorful cast of characters including her burly Scottish ally Magnus Armstrong, the deadly ninja assassin Isako, and the villainous Dimitri Volkov[^ref-11]. The game's narrative maintains the series' trademark blend of serious spy thriller and absurdist comedy, with players fighting enemies ranging from genetically enhanced Super Soldiers to an army of French mimes led by the villainous "Pierre, the Mime King"[^ref-11]. One memorable sequence has players riding on the back of a tricycle piloted by Magnus Armstrong through the streets of Calcutta while gunning down attacking mimes—a scenario that one reviewer noted "whoever doesn't think that... is the coolest thing ever should check himself into a clinic"[^ref-13].
 
 The narrative builds to a climax on Khios itself, where Cate uses a specially devised Anti Super-Soldier Serum against the Super-Soldiers and repels the H.A.R.M.-Soviet invasion[^ref-1].
 
@@ -54,11 +54,11 @@ The narrative builds to a climax on Khios itself, where Cate uses a specially de
 
 ### Interface and Controls
 
-No One Lives Forever 2 plays as a first-person shooter with significant stealth elements, controlled via keyboard and mouse with optional gamepad support[^ref-14]. The game features a robust interface that includes standard FPS conventions alongside specialized spy gadgets and tools. Players can lean around corners and hide in shadowed "hiding places", where an on-screen eye indicator shows when Cate is concealed[^ref-25]. The game supports multiple input devices including keyboard, mouse, and gamepad, with EAX audio enhancement available for compatible sound cards[^ref-16].
+No One Lives Forever 2 plays as a first-person shooter with significant stealth elements, controlled via keyboard and mouse with optional gamepad support[^ref-34]. The game features a robust interface that includes standard FPS conventions alongside specialized spy gadgets and tools. Players can lean around corners and hide in shadowed "hiding places", where an on-screen eye indicator shows when Cate is concealed[^ref-25]. The game supports multiple input devices including keyboard, mouse, and gamepad, with EAX audio enhancement available for compatible sound cards[^ref-34][^ref-16].
 
 ### Structure and Progression
 
-The game spans 40 single-player missions across 15 chapters, taking approximately 12-15 hours to complete for the main story[^ref-16]. Each chapter is divided into titled scenes[^ref-48]; the settings follow the plot[^ref-1]:
+The game spans 40 single-player missions across 15 chapters[^ref-14][^ref-22]. HowLongToBeat figures shown on IGN's game page put the main story at about 12 hours, or 15 with side content[^ref-16]; GameRevolution put it at about half the original's 25-30 hours[^ref-19]. Each chapter is divided into titled scenes[^ref-48]; the settings follow the plot[^ref-1]:
 
 - **Chapters 1–2** ("Cate Archer Must Die", "Goodbye, Spy"): Japan, at the village of Inotakimura
 - **Chapters 3–5** ("Project: Omega", "A Spy in H.A.R.M.'s Way", "Night Flight"): Siberia, where Soviet soldiers can spot and follow footprints in the snow[^ref-17]
@@ -77,7 +77,7 @@ The game introduces an RPG-style skill progression system, a significant departu
 
 The stealth system underwent a "total overhaul" from the original game, addressing what had been "the source of much frustration"[^ref-20]. Virtually every one of the game's 40 missions can be accomplished using guile instead of brute force[^ref-20]. GameRevolution wrote that "the enemy AI exhibits the same deft awareness and unpredictability as the original": rather than following scripted positions, enemies are given abilities and an area to traverse, and a guard who finds a fallen comrade may rush to raise the alarm[^ref-19]. GameSpot noted that guards "will become alerted by sounds, footprints in the snow, cries from other guards, and the bodies of their fallen comrades"[^ref-22].
 
-Players have access to over 30 weapons, gadgets, and traps[^ref-14]. Signature items include the Angry Kitty Proximity Device (an exploding robotic cat), banana peels that cause enemies to slip, glue guns, bear traps, and tranquilizer darts[^ref-21]. Spy gadgets include a blowtorch disguised as hair spray, a lipstick spy camera, and camera-disabling ammunition[^ref-18]. Players can now move and search bodies—a feature borrowed from immersive sims like Deus Ex—and health kits were added where the original had none[^ref-18].
+Players have access to over 30 weapons, gadgets, and traps[^ref-14]. Signature items include the Angry Kitty Proximity Device (an exploding robotic cat), banana peels that cause enemies to slip, glue bombs, bear traps, and tranquilizer darts[^ref-21]. Spy gadgets include a blowtorch disguised as hair spray[^ref-1], a lipstick spy camera[^ref-46][^ref-21], and camera-disabling ammunition[^ref-18]. Players can now move and search bodies, which one retrospective blog counted among the game's "Deus Ex-style features", and health kits were added where the original had none[^ref-18].
 
 The game also features cooperative multiplayer supporting up to four players online via GameSpy integration, though servers were shut down on November 1, 2008[^ref-12].
 
@@ -87,17 +87,17 @@ The game also features cooperative multiplayer supporting up to four players onl
 
 No One Lives Forever 2 received universal critical acclaim upon release. GameSpot awarded it 9.3/10, with reviewer Erik Wolpaw declaring it "a rousing success on every level" and praising it as featuring "the most seamless and satisfying integration of first-person stealth to date" with "the possible exception of the Thief series"[^ref-22]. Wolpaw noted that "in an era when grim, humorless realism appears to be the sensibility of choice among shooters, a game as genuinely funny and good-natured as No One Lives Forever 2 is a welcome relief"[^ref-22].
 
-IGN gave the game 9/10, with Steve Butts stating "In a year of fantastic shooters, No One Lives Forever 2 stands with the best"[^ref-23]. The review earned the IGN Editors' Choice award[^ref-16]. Entertainment Weekly awarded an "A" grade, with Erik Wolpaw praising it as "relentlessly good-natured, brightly colored, and funny" and observing that "perhaps the best thing we can say about NOLF 2 is that it plays as if it were created by actual adults rather than sullen 14-year-old boys"[^ref-24].
+IGN gave the game 9/10, with Steve Butts stating "In a year of fantastic shooters, No One Lives Forever 2 stands with the best"[^ref-23]. The review earned the IGN Editors' Choice award[^ref-23]. Entertainment Weekly awarded an "A" grade, with Erik Wolpaw praising it as "relentlessly good-natured, brightly colored, and funny" and observing that "perhaps the best thing we can say about NOLF 2 is that it plays as if it were created by actual adults rather than sullen 14-year-old boys"[^ref-24].
 
 Eurogamer scored it 8/10, calling it "a bloody good game" and "a technical poster-child"[^ref-25]. The reviewer wrote that the sequel "has preserved everything that we loved about No One Lives Forever" and "cuts out all the junk that made it annoying"[^ref-25]. GameZone awarded 9.5/10[^ref-1], while PC Gamer US gave 90%[^ref-1]. GameRevolution scored it 8/10, playfully suggesting "perhaps H.A.R.M. really stands for Humorous Adventure, Resplendently Made"[^ref-19].
 
-Multiple publications named it Game of the Year. FiringSquad declared "Game of the Year... Like 'Deus Ex' two years ago, there is simply nothing on the same level"[^ref-3]. Gamer's Pulse called it "Game of the year material. It's rare these days to play a game that excels in every area—but this one does so"[^ref-3]. GameNow praised the writing as "sharp enough to make sense of the fact that, at one point, you find yourself fighting ninjas in the middle of a tornado in Akron, Ohio"[^ref-3].
+Multiple publications named it Game of the Year. FiringSquad declared "Game of the Year... Like 'Deus Ex' two years ago, there is simply nothing on the same level"[^ref-50]. Gamer's Pulse called it "Game of the year material. It's rare these days to play a game that excels in every area-but this one does so"[^ref-50]. GameNow praised the writing as "sharp enough to make sense of the fact that, at one point, you find yourself fighting ninjas in the middle of a tornado in Akron, Ohio"[^ref-50].
 
 AllGame's Mark Hoogland noted that "most shooter fans will be shocked with the fun and hilarity of No One Lives Forever 2" and praised how "NOLF 2 never takes itself too seriously," though he criticized that "the snowmobile control is abysmal"[^ref-26].
 
 ### Modern Assessment
 
-The game has maintained its strong reputation over two decades. A 2022 GameFAQs retrospective rated it 9.6/10, stating "No One Lives Forever 2 does everything a good sequel should do, preserving what was good about the original and then simply go from there" and noting that "even after nearly two decades, No One Lives Forever 2 is most certainly worth the trouble"[^ref-27]. Reddit users in 2025 continue to praise it, with one calling it "a masterpiece of a game" whose "graphics are still pretty after nearly 23 years"[^ref-28].
+The game has maintained its strong reputation over two decades. A 2022 GameFAQs user review rated it 9.6/10, stating "No One Lives Forever 2 does everything a good sequel should do, preserving what was good about the original and then simply go from there" and noting that "even after nearly two decades, No One Lives Forever 2 is most certainly worth the trouble"[^ref-27]. Reddit users in 2025 continue to praise it, with one calling it "a masterpiece of a game" whose "graphics are still pretty after nearly 23 years"[^ref-28].
 
 Gaming Pastime's modern review acknowledged that "I had a great time with No One Lives Forever 2. It doesn't feel quite as polished as the first game and the story isn't as good but I do feel the gameplay is an overall improvement"[^ref-29]. A 2014 PC Gamer guide to running the game on modern Windows counted both NOLF games among "some of the best shooters of all time: smart AI, inventive weaponry, and an endlessly witty script," adding that they "were also some of the best-looking games of the early 2000s, which means they hold up remarkably well today"[^ref-49].
 
@@ -140,7 +140,7 @@ The game credits 188 people total—100 developers and 88 in the thanks section[
 
 ### Technical Achievements
 
-The game utilized the LithTech Jupiter engine, an upgraded version of Monolith's proprietary technology[^ref-1]. This engine introduced significant graphical improvements including higher quality character models, advanced facial animation using motion capture, pixel-shaded water effects, and rudimentary ragdoll physics[^ref-11]. Eurogamer noted "NOLF2 looks stunning"[^ref-25] and called it "a technical poster-child"[^ref-25].
+The game utilized the LithTech Jupiter engine, an upgraded version of Monolith's proprietary technology[^ref-1]. This engine introduced graphical improvements including higher quality graphics, facial animation, pixel-shaded water, and rudimentary ragdoll physics[^ref-11]. For the cutscenes, Hubbard wrote that the team "scheduled motion capture and placeholder voice sessions", and character artist Scott Albaugh added "detailed facial animations and hair and finger movement"[^ref-32]. Eurogamer noted "NOLF2 looks stunning"[^ref-25] and called it "a technical poster-child"[^ref-25].
 
 Wikipedia describes the game's AI as designed with a Goal-Oriented Action Planning architecture "where the enemies themselves have more control over the actions they perform"[^ref-1]. In Hubbard's account, AI engineer Jeff Orkin and lead level designer John Mulkey designed "a goal system that would give non-player characters a sense of purpose, as well as a Smart Object system that would provide them with cues on how to interact with the environment"[^ref-32]. In the Siberian levels, Soviet soldiers can spot footprints in the snow and follow them[^ref-17].
 
@@ -148,7 +148,7 @@ The new renderer's occlusion system, completed only after production had begun, 
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-34]
+**Windows Version:**[^ref-30][^ref-34]
 - **Minimum CPU:** Intel Pentium III 500 MHz
 - **Recommended CPU:** Intel Pentium III 1 GHz
 - **Minimum RAM:** 128 MB (Windows 9X/2000) / 256 MB (Windows XP)
@@ -176,12 +176,12 @@ Development constraints forced significant content cuts from the final release. 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | October 1, 2002 | Windows | Initial North American release[^ref-1] |
-| 1.1 | October 3, 2002 | Windows | Sound issue resolution[^ref-35] |
-| 1.2 | November 25, 2002 | Windows | Added Multiplayer Deathmatch mode[^ref-35] |
-| 1.3 | March 12, 2003 | Windows | Final version; Team Deathmatch support, 33-50% improved quickload times[^ref-35] |
+| 1.1 | October 3, 2002 | Windows | Sound issue resolution[^ref-35][^ref-21] |
+| 1.2 | November 25, 2002 | Windows | Added Multiplayer Deathmatch mode[^ref-35][^ref-21] |
+| 1.3 | March 12, 2003 | Windows | Final version; Team Deathmatch support, 33-50% improved quickload times[^ref-35][^ref-21][^ref-37] |
 | Mac 1.0 | October 8, 2003 | Mac OS X | Initial Mac release[^ref-36] |
 
-**Regional Release Dates:**[^ref-12]
+**Regional Release Dates:**[^ref-1][^ref-12]
 - **North America (Windows):** October 1, 2002
 - **Australia (Windows):** October 10, 2002
 - **Europe (Windows):** October 18, 2002
@@ -224,7 +224,7 @@ The game runs on frame-dependent mechanics and can break at higher than 60 FPS; 
 - **Robotic Bird Easter Egg:** In the first level, shooting the robotic bird multiple times "won't help but is funny"[^ref-24].
 - **Secret Intelligence Items:** Entering random numbers at the Central Archives yields bonus intelligence items worth character points[^ref-17].
 - **Anachronistic Weapons:** The IMFDB notes several weapons are anachronistic for the 1960s setting, including the Beretta 81FS (first available 1976) and Steyr SSG 69 PII[^ref-40].
-- **Walking Kitty Bomb:** The Angry Kitty appears as a "glittering metallic cat" that meows before exploding[^ref-26].
+- **Walking Kitty Bomb:** AllGame described the "walking kitty" bomb as "a glittering metallic cat" that supposedly fools enemies until "it's too late"[^ref-26].
 - **Forensic Files Reference:** A copy of the game appeared in an episode of the TV show "Forensic Files"[^ref-39].
 - **Archer Surname Connection:** Cate Archer shares her surname with Sterling Archer from the animated sitcom "Archer"[^ref-8].
 - **Character Origin:** The original character concept was a male operative named "Adam Church" before being changed to Cate Archer; an early proposed name was "Holly"[^ref-8].
@@ -258,13 +258,13 @@ Cast per Gamicus and IMDb[^ref-11][^ref-9]:
 | Evil Alliance Guards | Todd Licea |
 | Additional Voices | Terrance Sloggins |
 
-Notably, Jen Taylor replaced Kit Harris as the voice of Cate Archer from the first game[^ref-8]. Cate's design was based on model Mitzi Martin, who provided motion capture for the original game[^ref-8]. MacPlay Director of Sales Henry Price praised the voice work: "I'd say this is the funniest game I've played in a long time. I encourage players to stop and listen to the bad guys' conversations before doing away with them. Some of the dialogue is hysterical"[^ref-36].
+Notably, Jen Taylor replaced Kit Harris as the voice of Cate Archer from the first game[^ref-8]. Cate's design was based on model Mitzi Martin, who provided motion capture for the original game[^ref-8]. MacPlay Director of Sales and Marketing Henry Price praised the voice work: "I'd say this is the funniest game I've played in a long time. I encourage players to stop and listen to the bad guys' conversations before doing away with them. Some of the dialogue is hysterical"[^ref-36].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The original No One Lives Forever sold approximately 35,000 copies by the end of 2000 before eventually moving over 350,000 units[^ref-41]. While specific sales figures for NOLF 2 are not publicly available, GameFAQs retrospectives note the series "were never big sellers despite critical acclaim"[^ref-27]. The game won numerous accolades that elevated Monolith's reputation:
+The original No One Lives Forever sold approximately 35,000 copies by the end of 2000 before eventually moving over 350,000 units[^ref-41]. While specific sales figures for NOLF 2 are not publicly available, a 2022 GameFAQs user review noted that, though the games were a hit with critics, "they really where never big sellers"[^ref-27]. The game won numerous accolades that elevated Monolith's reputation:
 
 **Awards:**[^ref-1][^ref-12]
 - **GameSpy:** PC Game of the Year 2002
@@ -377,3 +377,4 @@ The game's legal limbo also makes it a case study in game preservation: with no 
 [^ref-47]: [Internet Archive – NOLF2 Disc Images](https://archive.org/details/no-one-lives-forever-2-a-spy-in-h.a.r.m.s-way) – preservation materials
 [^ref-48]: [NOLF Fandom Wiki – Missions](https://nolf.fandom.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way_Missions) – chapter and scene titles
 [^ref-49]: [PC Gamer – How to run No One Lives Forever 2 on Windows 7/8](https://www.pcgamer.com/how-to-run-no-one-lives-forever-2-on-windows-78/) – Wes Fenlon, 2014; praise quotes, widescreen patch, 1440p crash, 4:3 damage flash
+[^ref-50]: [Metacritic – NOLF 2 PC critic reviews](https://www.metacritic.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/critic-reviews/?platform=pc) – FiringSquad, Gamer's Pulse and GameNow quotes
