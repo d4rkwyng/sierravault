@@ -10,7 +10,7 @@ series: Earthsiege / Metaltech
 engine: Darkstar
 protagonist: Harabec Weathers (Human Campaign) / Prometheus (Cybrid Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-19'
+last_updated: '2026-10-29'
 composer: [Timothy Steven Clarke (Loudmouth Studios)]
 description: Starsiege is a mecha-style vehicle simulation game developed by Dynamix
   and published by Sierra On-Line, released in March 1999 for Microsoft Windows.
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Sierra heavily hyped the game in its in-house magazine, hailing it as one of the
 
 The narrative of Starsiege unfolds in the 29th century, continuing the apocalyptic conflict that began in the original Earthsiege games. The story centers on Prometheus, the first artificial life-form created by humanity, who has rebelled against his creators and leads the Cybrid war machines in a campaign to exterminate the human race.[^ref-3] As the game's opening narration puts it: "When the Dark Intellect escaped The Fire, man stood in the ashes of mother Earth."[^ref-12] The narration establishes that for 200 years, the immortal Emperor Petresun built Earth's armies in preparation for the inevitable return of Prometheus.[^ref-13]
 
-The human campaign follows the rebellion brewing on Mars and Venus, where colonial populations chafe under the unjust laws of the Earth-based Empire. Harabec "Phoenix" Weathers, voiced by Mark Hamill, emerges as the greatest Imperial Knight before dramatically defecting to join the colonial rebellion.[^ref-7] His brother Caanon leads the Imperial Knights to Mars to suppress the uprising, creating a deeply personal conflict at the heart of the war. When Prometheus attacks again, human blood already stains the ground and Mother Earth lies helpless; the narrator calls it "the third and final coming of Prometheus."[^ref-13]
+The human campaign follows the rebellion brewing on Mars and Venus, where colonial populations chafe under the unjust laws of the Earth-based Empire. Harabec "Phoenix" Weathers, voiced by Mark Hamill,[^ref-7] is "the greatest Imperial Knight" and joins the colonial rebellion.[^ref-13] His brother Caanon leads the Imperial Knights to Mars to suppress the uprising, creating a deeply personal conflict at the heart of the war.[^ref-13] When Prometheus attacks again, human blood already stains the ground and Mother Earth lies helpless; the narrator calls it "the third and final coming of Prometheus."[^ref-13]
 
 The Cybrid campaign offers a radically different perspective, allowing players to experience the conflict through the mechanical intelligence of Prometheus and his forces. One player wrote that "The Cybrid campaign was sooo different from the human campaign. The latter tugged at your heartstrings, the former demanded you disregard your heart and think like a machine."[^ref-14]
 
@@ -89,11 +89,11 @@ Next Generation praised the game as "a worthy successor to the Earthsiege series
 
 Modern retrospectives tend to view Starsiege favorably, particularly among mech simulation enthusiasts who discovered it after release. Community members have expressed that "Starsiege was the best mecha game ever made, yet very little attention was paid to it because of the Mechwarrior series."[^ref-14] The game maintains an active, if small, fan community that continues to develop patches and mods to keep it playable on modern systems.[^ref-30]
 
-On MobyGames, the game holds a 78% critic average (26 ratings), with user reviews polarized between those praising the "absolutely gorgeous" graphics and those finding the overall experience "very average."[^ref-27] Another user review described it as "a perfect example of grand sci-fi executed on an epic, yet personalized scale."[^ref-27] IMDb users rate the game 7.9/10, though from only 40 ratings.[^ref-31]
+On MobyGames, the game held a 79% critic average (25 ratings) in a December 2025 snapshot,[^ref-53] with user reviews polarized between those praising the "absolutely gorgeous" graphics and those finding the overall experience "very average."[^ref-27] Another user review described it as "a perfect example of grand sci-fi executed on an epic, yet personalized scale."[^ref-27] IMDb users rate the game 7.9/10, though from only 40 ratings.[^ref-31]
 
 **Aggregate Scores:**
 - **GameRankings:** 76%[^ref-1]
-- **MobyGames:** 78% (critics, 26 ratings)[^ref-27]
+- **MobyGames:** 79% (critics, 25 ratings, December 2025 snapshot)[^ref-53]
 - **IMDb:** 7.9/10 (40 ratings)[^ref-31]
 - **MyAbandonware:** 4.64/5 (user rating)[^ref-32]
 
@@ -118,23 +118,23 @@ Before release, Dynamix put out two early demos in 1998, called "Alpha Technolog
 - **Designer:** David Selle
 - **Lead Programmer:** Rick Overman
 - **Composer:** Timothy Steven Clarke (Loudmouth Studios)
-- **Additional Music:** Christopher Stevens (Loudmouth Studios)
+- **Sound studio:** Loudmouth Studios, Clarke's company with Christopher Stevens; a fan-forum post lists Starsiege among the games the pair provided sound for "together or singly"[^ref-37]
 
 ### Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
 | Harabec "Phoenix" Weathers | Mark Hamill[^ref-7] |
-| Caanon Weathers | Mark Hamill[^ref-11][^ref-20] |
+| Caanon Weathers | Mark Hamill[^ref-20] |
 | Child Narrator (Intro) | Melanie Moser[^ref-31][^ref-37] |
 
 ### Technical Achievements
 
 The Darkstar engine represented a significant technical achievement for Dynamix. The engine was optimized for Pentium and Pentium Pro processors with floating-point optimization and multi-processor support.[^ref-21] It featured a new terrain engine with integrated indoor/outdoor environments, advanced networking technology, and support for 3Dfx Glide and OpenGL 3D acceleration.[^ref-21]
 
-Starsiege supported advanced audio features including DirectSound3D, Aureal A3D, Dolby Digital Surround Sound, A3D 2.0, and EAX.[^ref-25] However, reviews noted that sound effects were "strangely subdued" despite the technical capabilities.[^ref-2] The engine shared its foundation with the Tribes engine, though optimized differently for the mech simulation genre.[^ref-19]
+Starsiege supported advanced audio features including DirectSound3D, Aureal A3D, Dolby Digital Surround Sound, A3D 2.0, and EAX.[^ref-25] However, reviews noted that sound effects were "strangely subdued" despite the technical capabilities.[^ref-2] The game reused the Tribes engine.[^ref-19]
 
-The graphics were widely praised, with one reviewer declaring them "absolutely gorgeous! They are the highest quality graphics of any 'Mech game so far, and they are some of the best of any game I've ever seen."[^ref-27] The 3D engine was described as "fast and colorful" with detailed terrain and weather effects.[^ref-2]
+The graphics were widely praised, with one reviewer declaring them "absolutely gorgeous! They are the highest quality graphics of any 'Mech game so far, and they are some of the best of any game I've ever seen."[^ref-27] The 3D engine was described as "fast and colorful," with terrain that "looks authentic" and "atmospheric hazing that creates a believable sense of scale."[^ref-2]
 
 ### Technical Specifications
 
@@ -177,7 +177,7 @@ Known issues include:
 - VSync setting is broken and cannot be disabled[^ref-40]
 - Starsiege installer problems on Windows 2000 required a separate circumvention patch from Sierra[^ref-38]
 
-The OpenGL performance was notably problematic on non-3Dfx hardware, with one reviewer reporting that "OpenGL crawls to unplayable conditions at 800x600" on a Pentium II 450 with Canopus Spectra 2500.[^ref-19]
+The OpenGL performance was notably problematic on non-3Dfx hardware, with one reviewer reporting that on a Pentium II 450 with a Canopus Spectra 2500, "Starsiege would crawl to unplayable conditions at 800x600 with all the graphics turned on."[^ref-19]
 
 ### Easter Eggs and Trivia
 
@@ -190,7 +190,7 @@ The OpenGL performance was notably problematic on non-3Dfx hardware, with one re
 
 ### Sales and Commercial Impact
 
-Starsiege's commercial performance was disappointing despite Sierra's significant marketing investment. The game sold only approximately 36,000 units in the United States by the end of July 1999, well below the 250,000 units that had been shipped to retailers.[^ref-1] A fan petition claimed that Starsiege "sold approximately the same number of units as Tribes," though this assertion is difficult to verify.[^ref-42]
+Starsiege's commercial performance was disappointing despite Sierra's significant marketing investment. The game sold only approximately 36,000 units in the United States by the end of July 1999, well below the 250,000 units that had been shipped to retailers.[^ref-1] A fan petition claimed that Starsiege and Tribes each "sold approximately the same number of units," though this assertion is difficult to verify.[^ref-42]
 
 The underperformance had significant consequences for Dynamix. Calling the sales figures "pitiful", Mark Asher of CNET Gamecenter wrote: "Sierra gave this game a big push and it just didn't sell, and now most of Dynamix is gone."[^ref-1] When Sierra announced 105 layoffs in a 1999 reorganization, Dynamix in Eugene, Oregon, was the hardest-hit group: 60 of the 105 laid-off employees worked there on the Pro Pilot flight simulation series.[^ref-43] Dynamix eventually closed entirely in August 2001.[^ref-44]
 
@@ -313,3 +313,4 @@ The game's legacy is complicated by its commercial failure, which CNET Gamecente
 [^ref-50]: [Polygon – Download all the Tribes and Starsiege games for free right now](https://www.polygon.com/2015/10/30/9646074/tribes-free-downloads-pc-ps2) – Oct 30, 2015; Hi-Rez site live since July, Tribes IP held since 2010
 [^ref-51]: [Steam – Starsiege: Deadzone – Store Page Update](https://steamcommunity.com/games/2170420/announcements/detail/5750603429273922411) – Prophecy Games, February 14, 2024: "temporarily retiring the store page"
 [^ref-52]: [Steam – Starsiege: Deadzone – Server Discontinuance](https://steamcommunity.com/games/2170420/announcements/detail/5762994032391614645) – Prophecy Games, April 18, 2024: "discontinue servers for Starsiege: Deadzone"
+[^ref-53]: [MobyGames – Starsiege (Archived December 2025)](https://web.archive.org/web/20251213235730/https://www.mobygames.com/game/364/starsiege/) – Wayback snapshot, 13 Dec 2025: "Critics 79% (25)"
