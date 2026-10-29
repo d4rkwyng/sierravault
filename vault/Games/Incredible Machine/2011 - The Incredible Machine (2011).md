@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: null
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 composer: null
 description: The Incredible Machine (2011) is an iOS remake of the classic physics puzzle series, developed by Playdom and published by Disney Mobile for iPad and iPhone, with Jeff Tunnell involved.
 tags: [2010s, puzzle, ios, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ The game holds a Metascore of 71 on Metacritic, based on five critic reviews[^re
 |-------------|-------|------|
 | Gamezebo | 80/100[^ref-53] | June 13, 2011 |
 | Slide to Play | 75[^ref-42] | June 14, 2011 |
-| TouchGen | 70[^ref-42] | June 12, 2011 |
+| TouchGen | 70[^ref-42] | June 12, 2011[^ref-56] |
 | 148Apps | 70[^ref-42] | July 11, 2011 |
 | Pocket Gamer | 60[^ref-42] | June 16, 2011 |
 
@@ -139,7 +139,7 @@ The game is not available for purchase or download; it has been removed from the
 [^ref-49]: [Engadget (TUAW) – TUAW's Daily iOS App: The Incredible Machine](https://www.engadget.com/2011-06-10-tuaws-daily-iphone-app-the-incredible-machine.html) – Mike Schramm, June 10, 2011; Tunnell at Playdom, Disney publishing, E3 booth, 60 levels
 [^ref-50]: [TouchArcade – 'The Incredible Machine' Gets A Heavy Dose of Retro](https://toucharcade.com/2011/07/05/the-incredible-machine-gets-a-heavy-dose-of-retro/) – Brad Nicholson, July 5, 2011; 1993 version added, 15 expert missions, ~75 puzzles, Tunnell joined Playdom 2010
 [^ref-51]: [IGN – E3 2011: Best of E3 Awards Nominations (archived)](https://web.archive.org/web/20110609223824/http://games.ign.com/articles/116/1165247p1.html) – nominated for Best iPhone/iPad Game and Best Puzzle Game
-[^ref-52]: [Hardcore Gaming 101 – Contraption Maker](https://www.hardcoregaming101.net/contraption-maker/) – Disney Mobile release "quickly ended up forgotten," removed from storefronts
+[^ref-52]: [Hardcore Gaming 101 – Contraption Maker](https://www.hardcoregaming101.net/contraption-maker/) ([archived](https://web.archive.org/web/20241105195157/http://www.hardcoregaming101.net/contraption-maker/)) – Disney Mobile release "quickly ended up forgotten," removed from storefronts
 [^ref-53]: [Gamezebo – The Incredible Machine Review](https://www.gamezebo.com/reviews/the-incredible-machine-review/) – Dan Zuccarelli, June 13, 2011; 80/100
 [^ref-54]: [Slide to Play – The Incredible Machine iPad Review (archived)](https://web.archive.org/web/20120630212119/http://www.slidetoplay.com/story/the-incredible-machine-ipad-review) – Jason D'Aprile, June 14, 2011; 60 levels plus four tutorials, three 99-cent packs, no sandbox mode
 [^ref-55]: [148Apps – The Incredible Machine Review](https://www.148apps.com/reviews/incredible-machine-review/) – Lisa Caplan, July 11, 2011; controls, universal update, comparison with Casey's Contraptions
