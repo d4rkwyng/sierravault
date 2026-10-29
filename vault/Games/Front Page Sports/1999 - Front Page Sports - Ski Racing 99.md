@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-created skier
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-29'
 description: 'Front Page Sports: Ski Racing ''99 is the MobyGames listing for DSF
   Ski ''99: Extreme Edition, the 1999 German Windows release of Sierra Sports: Skiing
   1999 Edition...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing '99
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 > [!note] German-edition stub
 > This page covers the German release, **DSF Ski '99: Extreme Edition**. The game itself is documented in full at **[[1998 - Sierra Sports Skiing 1999 Edition|Sierra Sports: Skiing 1999 Edition]]**. Facts on this page are limited to what sources say about this edition and its parent game.
@@ -113,7 +113,7 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – "FPS: Ski Racing 1999 – Ski Racing 1999 (skiup) (ZIP file) [1.9 MB]"
 
-[^ref-12]: [Steam Store – Search Results](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Ski+Racing+%2799) – game not available on Steam platform
+[^ref-12]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam platform
 
 [^ref-18]: [PC Joker 2/99 (archive.org full text)](https://archive.org/download/PCJoker0299/PCJoker0299_djvu.txt) – p. 105 review "DSF Ski '99 Extreme Edition (Sierra)": Picabo Street, 5 races, up to 8 players in turn, graphics, controls, score 60% (checked against the page scan), USK, price, system requirements
 

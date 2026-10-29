@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown/unnamed
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 composer: [Charles Barth]
 description: 'Front Page Sports: Golf is a 1997 golf simulation for Windows 95, developed
   by Headgate Studios and published by Sierra On-Line, best known for its mouse-driven
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Golf
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -306,7 +306,7 @@ Headgate went on to develop golf games for Sierra, starting with Front Page Spor
 [^ref-17]: [Sierra Help – Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – FPS: Golf Update (golfpt15) details
 [^ref-18]: [ESRB – Front Page Sports: Golf Rating](https://www.esrb.org/ratings/2418/front-page-sports-golf/) – E for Everyone rating
 [^ref-20]: [AllGame Archive](https://web.archive.org/web/20141114185413/http://www.allgame.com/game.php?id=6474) – first golf title under Sierra's sports label, controls, motion capture, manual, game types
-[^ref-21]: [Steam Store Search](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Golf) – game not available on Steam
+[^ref-21]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam
 [^ref-22]: [Sierra Official Site Archive](https://web.archive.org/web/19970216055215/http://www.sierra.com/entertainment/golf/) – $54.95 price, ball dynamics, 3D stereo sound, free Coeur d'Alene add-on
 [^ref-23]: [Metacritic – Front Page Sports: Golf](https://www.metacritic.com/game/front-page-sports-golf/) – release date Apr 30, 1997, developer, publisher
 [^ref-24]: [Amazon – Product Page](https://www.amazon.com/Front-Page-Sports-GOLF/dp/B0009H75IE) – Windows 95 platform, rated Everyone

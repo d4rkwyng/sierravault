@@ -334,7 +334,7 @@ The game remains on sale through modern digital platforms, and its modding commu
 [^ref-31]: [Discogs – Keith Zizza Lords of Magic Special Edition OST](https://www.discogs.com/release/5728094-Keith-Zizza-Lords-Of-Magic-Special-Edition) – track listing, audio specifications
 [^ref-32]: [Impressions Forums – Lords of Magic OST Thread](https://impz.proboards.com/thread/59/lords-magic-ost) – composer appreciation, audio format
 [^ref-33]: [Reddit r/LoMSE – Keith Zizza New Music](https://www.reddit.com/r/LoMSE/comments/1ge5c5p/keith_zizza_released_some_new_lords_of_magicesque/) – ongoing composer involvement
-[^ref-34]: [Steam Store Search](https://store.steampowered.com/search/?term=Lords+of+Magic%3A+Special+Edition) – current pricing, Steam release date
+[^ref-34]: [Lords of Magic: Special Edition on Steam](https://store.steampowered.com/app/404040/) – current pricing, Steam release date
 [^ref-35]: [Sierra Chest – Box Contents](https://sierrachest.com/index.php?a=games&id=170&title=lords-of-magic-special-edition&fld=box) – packaging info, included items
 [^ref-36]: [ModDB – LoMSE Update Mod](https://www.moddb.com/mods/lords-of-magic-special-edition-update-mod) – mod description, creator quote
 [^ref-37]: [Reddit r/LoMSE Subreddit](https://www.reddit.com/r/LoMSE/) – community activity, gameplay discussions

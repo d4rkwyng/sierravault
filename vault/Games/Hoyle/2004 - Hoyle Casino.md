@@ -10,14 +10,14 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: Hoyle Casino 2004 is a casino simulation game developed and published
   by Sierra Entertainment, released on September 2, 2003 for Windows PC...
 tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -146,7 +146,7 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 
 **Purchase / Digital Stores**
 - [GOG.com search](https://www.gog.com/en/games?query=Hoyle+Casino)
-- [Steam search](https://store.steampowered.com/search/?term=Hoyle+Casino)
+- Steam: No Steam listing found (Steam store search, checked October 29, 2026)
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/11804/hoyle-casino-2004/)

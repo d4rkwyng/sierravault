@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-controlled skier
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: 'Sierra Sports Skiing 1999 Edition is a 1998 alpine skiing simulation
   for Windows, developed by Dynamix as a lightly updated follow-up to Front Page Sports:
   Ski Racing.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Sierra Sports Skiing 1999 Edition
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -224,7 +224,7 @@ Sierra closed Dynamix in August 2001, as part of restructuring under Vivendi Uni
 [^ref-6]: [Higher Intellect Vintage Wiki – Dynamix](https://wiki.preterhuman.net/Dynamix) – Dynamix studio description, Eugene Oregon location, mention of an upcoming Front Page Sports skiing title (the 1997 original)
 [^ref-7]: [The Sierra Chest – Dynamix](https://sierrachest.com/index.php?a=devs&id=3&title=dynamix&fld=general) – Dynamix company information, Sierra acquisition, 2001 closure
 [^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports unveiled at the 1998 Daytona 500, NASCAR Racing 2 sales ranking, Sean Gleason quote
-[^ref-9]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Sports+Skiing+1999+Edition) – game not available on Steam
+[^ref-9]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam
 [^ref-10]: [GOG.com Search Results](https://www.gog.com/en/games?query=Sierra+Sports+Skiing+1999+Edition) – game not available on GOG
 
 [^ref-11]: [Wikipedia – Sierra Sports Skiing 1999 Edition](https://en.wikipedia.org/wiki/Sierra_Sports:_Skiing_1999_Edition) – alternate and European titles, release information, review scores table (GameRankings, Gamecenter, CGSP, IGN, PC Accelerator, PC Gamer)

@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-10-29'
 composer: [Johnathan Cunningham]
 description: Hoyle Bridge is a 1996 contract bridge game for Windows 3.x and Windows
   95 from Sierra On-Line, a Sierra Originals release derived from Hoyle Classic Games
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -248,7 +248,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 [^ref-12]: [eBay – Hoyle Bridge: Sierra Originals](https://www.ebay.com/p/128176800) – product page with single 1-star user review (64-bit incompatibility)
 [^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origin (1989), credits, 18 opponents
 [^ref-15]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – TSN testing (Oct 1990) and launch (May 1991), Ken Williams's bridge-playing mother
-[^ref-23]: [Steam Search](https://store.steampowered.com/search/?term=Hoyle+Bridge) – no results for Hoyle Bridge
+[^ref-23]: No Steam listing found (Steam store search, checked October 29, 2026) – no results for Hoyle Bridge
 [^ref-24]: [LaunchBox Games Database – Hoyle Bridge](https://gamesdb.launchbox-app.com/games/details/105629-hoyle-bridge) – 1996 Windows 3.x entry, character details
 [^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – sealed 1996 box with Sierra Originals branding
 [^ref-28]: [ScummVM – SCI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "hoyle5bridge" Windows entry and its resource files

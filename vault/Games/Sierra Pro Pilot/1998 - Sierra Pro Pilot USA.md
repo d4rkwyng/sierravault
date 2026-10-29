@@ -10,7 +10,7 @@ series: Pro Pilot
 engine: Dynamix proprietary 3D tool set
 protagonist: Player Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Sierra Pro Pilot USA is the second title in Sierra's Pro Pilot series
   of civilian flight simulators, released by Dynamix on October 1, 1998 for Windows
   95 at $19.95 as a beginner-friendly, US-only version of Pro Pilot '98 with a Pilot
@@ -19,7 +19,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot USA
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -213,7 +213,7 @@ Pro Pilot USA was Sierra's attempt to widen that niche: rather than overhaul the
 [^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist/game/sierra-pro-pilot-98-the-complete-flight-simulator-1997) – Pro Pilot '98 wishlist, 71 votes as of October 14, 2026
 [^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – "Pro Pilot USA: Need Help!" thread, September–October 2001: full-screen image quality, purchase price
 [^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](https://web.archive.org/web/20260615183649/http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog row for "Sierra Pro Pilot (USA)"
-[^ref-8]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Pro+Pilot+USA) – digital availability status
+[^ref-8]: No Steam listing found (Steam store search, checked October 29, 2026) – digital availability status
 [^ref-9]: [GOG.com Search](https://www.gog.com/en/games?query=Sierra+Pro+Pilot+USA) – digital availability status
 [^ref-10]: [Dynamix Press Release (Archived)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – December 5, 1997 announcement of the original Pro Pilot
 [^ref-11]: [GameSpot – Pro Pilot Review (Archived)](https://web.archive.org/web/20161108022053/https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – Denny Atkin review of Pro Pilot '98, February 9, 1998

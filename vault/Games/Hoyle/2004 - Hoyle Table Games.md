@@ -10,14 +10,14 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: Hoyle Table Games 2004 is an 18-game collection of classic table games
   in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -164,7 +164,7 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 
 **Purchase / Digital Stores**
 - [GOG.com search](https://www.gog.com/en/games?query=Hoyle+Table+Games)
-- [Steam search](https://store.steampowered.com/search/?term=Hoyle+Table+Games)
+- Steam: No Steam listing found (Steam store search, checked October 29, 2026)
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/13166/hoyle-table-games-2004/)

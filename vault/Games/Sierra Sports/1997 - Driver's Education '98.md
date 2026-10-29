@@ -10,7 +10,7 @@ series: Sierra's Driver's Education
 engine: Proprietary (Dynamix)
 protagonist: Student Driver
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Driver's Education '98 is an educational driving simulator developed
   by Dynamix and published by Sierra On-Line in 1998, pairing a test-prep Driving
   Academy with a 3D Virtual City and a virtual driving instructor.
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
 # Driver's Education '98
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -281,7 +281,7 @@ Driver's Education '98 is an example of educational software built by a studio b
 [^ref-16]: [Internet Archive – DRIVERED](https://archive.org/details/DRIVERED) – preservation upload, Windows 10 note
 [^ref-17]: [IGCD – Vehicle Database](https://www.igcd.net/game.php?id=100003078) – vehicle list, no damage modeling
 [^ref-18]: [Reddit r/retrogaming](https://www.reddit.com/r/retrogaming/comments/1286hjr/anyone_ever_play_the_pc_game_drivers_education/) – middle school library recollection
-[^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=Driver%27s+Education+%2798) – game not available on Steam
+[^ref-19]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam
 [^ref-23]: [MobyGames – Driver's Education '98 Credits](https://www.mobygames.com/game/21374/drivers-education-98/credits/) – full credits incl. Driver Ed Voice (Jim Waid), Classroom Instructor Voice (Jane Chase), special thanks
 [^ref-24]: [Sierra.com – Drivers Education '98 System Requirements (Wayback, Feb 1998)](http://web.archive.org/web/19980214125954/http://sierra.com:80/titles/driversed/showroomsystemreq.html) – minimum/recommended specs, 256-color SVGA, controller and 3Dfx support
 [^ref-25]: [Internet Archive – Sierra E3 1997 Screen Shot CD (1997-06-10)](https://archive.org/details/SierraE31997ScreenShotCD19970610) – Driver's Education 98 among the titles on Sierra's E3 1997 press disc

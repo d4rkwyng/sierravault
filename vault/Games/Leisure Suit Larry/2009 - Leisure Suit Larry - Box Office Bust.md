@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unreal Engine 3
 protagonist: Larry Lovage
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: 'Leisure Suit Larry: Box Office Bust is a 2009 open-world action-adventure
   by Team17, published by Codemasters after Sierra''s demise, and one of the most critically
   panned games of its era.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Box Office Bust
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -165,7 +165,7 @@ Trophy hunters still take it on; one PlayStation player who earned its platinum 
 [^ref-55]: https://www.reddit.com/r/gog/comments/1kg2yo4/i_spent_the_last_2_weeks_playing_every_leisure/ - Reddit comprehensive franchise review
 [^ref-56]: https://www.reddit.com/r/Trophies/comments/1kop8mz/leisure_suit_larry_box_office_bust_platinum_69/ - Reddit trophy hunting post
 [^ref-57]: https://sierra.fandom.com/wiki/Leisure_Suit_Larry - Sierra wiki with series overview
-[^ref-58]: https://store.steampowered.com/search/?term=Leisure+Suit+Larry%3A+Box+Office+Bust - Steam search showing no results
+[^ref-58]: No Steam listing found (Steam store search, checked October 29, 2026) - Steam search showing no results
 [^ref-59]: https://www.trueachievements.com/game/Leisure-Suit-Larry/walkthrough/1 - TrueAchievements achievement guide
 [^ref-60]: https://www.trueachievements.com/game/Leisure-Suit-Larry/walkthrough/3 - TrueAchievements detailed walkthrough with completion data
 [^ref-66]: https://web.archive.org/web/20121011094547/http://uk.gamespot.com/news/brutal-legend-ghostbusters-more-dropped-by-activision-6195113 - Archived article about Activision dropping games

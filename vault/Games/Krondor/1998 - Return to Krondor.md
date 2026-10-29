@@ -10,14 +10,14 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-10-29'
 description: Return to Krondor is a 1998 fantasy role-playing game by PyroTechnix and
   7th Level, published by Sierra Studios as the sequel to Betrayal at Krondor.
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -309,7 +309,7 @@ No download is listed: the game is sold on GOG.com and Steam.
 [^ref-36]: [7th Level press release – 7th Level in Pact To Sell PyroTechnix to Sierra On-Line (Archived)](https://web.archive.org/web/19980129181814/http://www.7thlevel.com/newpages/press/1997/19971208.html) – December 8, 1997; Scott Lynch quotes
 [^ref-37]: [WSGF Forum](https://www.wsgf.org/phpBB3/viewtopic.php?t=16772) – resolution limitations
 [^ref-38]: [Internet Archive – Patch 1.0.0.6](https://archive.org/details/RTK106) – patch notes
-[^ref-39]: [Steam Search](https://store.steampowered.com/search/?term=Return+to+Krondor) – Steam release date
+[^ref-39]: [Return to Krondor on Steam](https://store.steampowered.com/app/564960/) – Steam release date
 [^ref-40]: [Steam Community Discussions](https://steamcommunity.com/app/564960/discussions/0/7607215340153461349/) – compatibility issues
 [^ref-41]: [IGN Cheats](https://www.ign.com/wikis/pc-cheats/Return_to_Krondor_Cheats) – cheat codes
 [^ref-42]: [Crydee.com – Origins of Midkemia](https://www.crydee.com/raymond-feist/origins-of-midkemia) – world creation trivia

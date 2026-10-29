@@ -10,12 +10,12 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "Player"
 sierra_lineage: "Core Sierra"
-last_updated: "2026-10-28"
+last_updated: "2026-10-29"
 ---
 
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -261,7 +261,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 [^ref-20]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – bylined April 28, 2000, but content is 1998 news ([Wayback](http://web.archive.org/web/20251211023638/https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/)): Sierra Attractions division, Hoyle license, McCleod quote
 [^ref-21]: [GameSpot – Sierra Reorganizes Its Operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – bylined May 17, 2006, but describes the Vivendi Universal Publishing-era restructuring and Dynamix closure ([Wayback](http://web.archive.org/web/20260522153005/https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/)): Bellevue Studio, Hoyle franchise, Ryder quote
 [^ref-22]: [Computing History UK – Hoyle Bridge](https://www.computinghistory.org.uk/det/46588/Hoyle-Bridge/) – museum record: "Card game published in 2000"
-[^ref-23]: [Steam Search](https://store.steampowered.com/search/?term=Hoyle+Bridge) – no results for Hoyle Bridge
+[^ref-23]: No Steam listing found (Steam store search, checked October 29, 2026) – no results for Hoyle Bridge
 [^ref-24]: [LaunchBox Games Database – Hoyle Bridge](https://gamesdb.launchbox-app.com/games/details/105629-hoyle-bridge) – 1996 Windows 3.x entry, ESRB E, character details
 [^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – sealed 1996 box with Sierra Originals branding
 [^ref-28]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On October 31, 1990, Sierra quietly announced that they had begun testing"; "On May 6, 1991, Sierra announced that The Sierra Network was officially a go"; Ken Williams's bridge-playing mother; Williams press-release quote

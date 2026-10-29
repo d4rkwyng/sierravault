@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Guy Whitmore]
 description: Power Chess 98 is an updated version of the original Power Chess, released
   by Sierra On-Line in November 1997 for Windows 95 and Windows 98 platforms. The...
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 98
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -248,7 +248,7 @@ Power Chess 98 tried to address a long-standing problem with computer chess: opp
 [^ref-18]: [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – patch versions, file sizes
 [^ref-19]: [SourceForge – DXWnd Power Chess Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/98dd46dfc6/) – technical architecture, compatibility issues
 [^ref-20]: [TalkChess Forum – Power Chess Compatibility](https://talkchess.com/viewtopic.php?t=80784) – PCem emulation, official and unofficial patch route
-[^ref-21]: [Steam Store Search](https://store.steampowered.com/search/?term=Power+Chess+98) – game not available on platform
+[^ref-21]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on platform
 [^ref-22]: [Sierra Chest – Power Chess 98](https://sierrachest.com/index.php?a=games&id=411&title=power-chess-98&fld=general) – release date confirmation
 [^ref-23]: [IMDB – Power Chess 98](https://www.imdb.com/title/tt0292197/) – lists a November 30, 1998 release date
 [^ref-24]: [Metacritic – Power Chess 98](https://www.metacritic.com/game/power-chess-98/) – lists a November 30, 1998 release date

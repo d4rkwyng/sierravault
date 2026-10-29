@@ -12,7 +12,7 @@ series: PGA Championship Golf
 engine: Unknown
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: >-
   PGA Championship Golf 2000 is a golf simulation developed by Headgate Studios
   for Sierra Sports, featuring the TrueSwing 3 mouse-based swing system and
@@ -26,7 +26,7 @@ tags:
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -161,7 +161,7 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-16]: [GOG Community – PGA Championship Golf 2000](https://www.gog.com/dreamlist/game/pga-championship-golf-2000-2000) – User memories and feedback
 [^ref-18]: [GameSpot – Sierra announces PGA Golf Collector's Edition](https://www.gamespot.com/articles/sierra-announces-pga-golf-collectors-edition/1100-2775868/) – 12 new 18-hole courses, total 32 courses
 [^ref-19]: [CD Magazine – PGA Championship Golf 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – Patch coverage and mechanics improvements
-[^ref-20]: [Steam Search – PGA Championship Golf 2000](https://store.steampowered.com/search/?term=PGA+Championship+Golf+2000) – Not available on Steam
+[^ref-20]: No Steam listing found (Steam store search, checked October 29, 2026) – Not available on Steam
 [^ref-21]: [SierraChest – PGA Championship Golf 2000](https://sierrachest.com/index.php?a=games&id=584&title=golf-2000&fld=demos) – Box art, demos, game catalog entry
 [^ref-22]: [Internet Archive – PGA Championship Golf 2000 Demo](https://archive.org/details/PGA2000D) – Archived demo with technical specifications
 [^ref-23]: [ESRB – PGA Championship Golf 2000](https://www.esrb.org/ratings/5226/pga-championship-golf-2000/) – Rated E for Everyone
