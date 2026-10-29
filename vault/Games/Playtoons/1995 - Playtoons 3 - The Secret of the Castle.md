@@ -10,14 +10,14 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 composer: [Big Wheels, Charles Callet]
 description: 'Playtoons 3: Secret of the Castle is a 1995 Coktel Vision interactive storybook and animation construction kit for Windows and Mac, set in medieval Pendragon Castle and published by Sierra On-Line.'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ MobyGames summarizes the plot as a secret kept by the castle's knights which has
 
 Wikipedia classes the Playtoons series as point-and-click adventure and interactive storybook games.[^ref-5] Each story page starts with narrated text, and clicking items or people when the cursor changes starts an animation.[^ref-1] Abandonware France describes the story as built like a cartoon, with animated transition screens and still pictures whose animations appear when clicked; the text can be shown or hidden, and clicking a word has the narrator read it.[^ref-11] The packaging lists "a permanent voice aid to help younger users."[^ref-3]
 
-Language options varied by release. The North American packaging advertises an "introduction to Spanish with fun bilingual," while Abandonware France notes that in the French release clicking the flag switches the text and voice to English.[^ref-3][^ref-11] Wikipedia notes that, in addition to playing the story straight through, players can jump to any page, with some pages leading to unlisted pages.[^ref-5]
+Language options varied by release. The North American packaging advertises an "introduction to Spanish with fun bilingual," while Abandonware France notes that in the French release clicking the flag switches the text and voice to English.[^ref-3][^ref-11] Fun Online's review of the German releases says each scene's text can be read "auf deutsch oder englisch" (in German or English).[^ref-26] Wikipedia notes that, in addition to playing the story straight through, players can jump to any page, with some pages leading to unlisted pages.[^ref-5]
 
 ### Structure and Progression
 
@@ -77,7 +77,7 @@ Rather than traditional adventure game puzzles, Playtoons 3 centres on its story
 
 ### Contemporary Reviews
 
-MobyGames records one contemporary critic review. The German magazine Fun Online reviewed the Windows version in January 1996 and gave it a grade of 2 on a scale where lower is better, which MobyGames normalizes to 83%.[^ref-23] The review praised the "prächtigen Bildern und tollen Soundeffekten" (splendid pictures and great sound effects) and called the comic construction kit "prima ausgestattet" (well equipped).[^ref-23]
+MobyGames records one contemporary critic review, from the German magazine Fun Online's January 1996 issue, and normalizes its score to 83%.[^ref-23] The magazine's two-page feature (pp. 56–57) covered the German release, *Das Geheimnis des Schlosses*, alongside Playtoons 2. Its shared rating box gives no numeric grade, only verbal ratings: "super gut" for graphics and sound and "sehr gut" for the fun factor.[^ref-26] The review praised the "prächtigen Bildern und tollen Soundeffekten" (splendid pictures and great sound effects) and said "Der Comic-Baukasten dazu ist prima ausgestattet" (the comic construction kit is well equipped).[^ref-26][^ref-23]
 
 ### Modern Assessment
 
@@ -108,12 +108,12 @@ Wikipedia's infobox for the Playtoons series names Paco Salamander as the series
 
 ### Voice Cast
 
-| Character/Role | Voice Actor |
-|----------------|-------------|
-| German Version | Brigitta Scholtz |
-| German Version | Peter Semmler |
+MobyGames credits two voice actors for the German version.[^ref-22]
 
-[^ref-22]
+| Release | Voice Actor |
+|---------|-------------|
+| German | Brigitta Scholtz |
+| German | Peter Semmler |
 
 ### Technical Achievements
 
@@ -225,6 +225,7 @@ Not currently sold on modern digital storefronts. GOG lists it only as a fan-req
 [^ref-17]: [LaunchBox Games Database – Playtoons 3 - The Secret of the Castle](https://gamesdb.launchbox-app.com/games/details/93206-playtoons-3-secret-of-the-castle) – developer Coktel Vision; publishers Coktel Vision, Sierra On-Line
 [^ref-21]: [MobyGames – Playtoons 3 releases](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/releases/) – 1995 Germany and France, 1996 United States, for Windows 16-bit and Macintosh
 [^ref-22]: [MobyGames – Playtoons 3 credits](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/credits/) – Jeff Rey (story writer, artistic director), sound track, German voices, programming and project credits
-[^ref-23]: [MobyGames – Playtoons 3 reviews](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/reviews/) – Fun Online (Germany), January 1996, grade 2 (83%); no player reviews
+[^ref-23]: [MobyGames – Playtoons 3 reviews](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/reviews/) – Fun Online (Germany), January 1996, normalized to 83%; no player reviews
 [^ref-24]: [ScummVM source – engines/gob/detection/tables.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables.h) – Gob engine game list including Gobliiins, ADI titles and Playtoons 3
 [^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – Playtoons 3 detection entries, including v1.002 French and English Windows variants
+[^ref-26]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01) – German-language review of Playtoons 2 and 3; quotes, German/English text, verbal rating box

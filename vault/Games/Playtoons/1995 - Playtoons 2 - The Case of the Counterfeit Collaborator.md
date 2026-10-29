@@ -72,7 +72,7 @@ Wikipedia describes the series as focused on teaching children school topics in 
 
 ### Contemporary Reviews
 
-MobyGames records one critic review. The German magazine *Fun Online* (January 1996) gave the Windows version a 2 on a numeric scale where the lowest score is best, which MobyGames normalises to 83%[^ref-24]. The review notes that every character, room and object from the story is available in the comic construction kit[^ref-24].
+MobyGames records one critic review. It is from the German magazine *Fun Online* (January 1996), which MobyGames normalises to 83%[^ref-24]. The magazine reviewed Playtoons 2 and 3 together. Their shared rating box gives words, not a number: graphics and sound "super gut", fun factor "sehr gut"[^ref-28]. The review notes that every character, room and object from the story is available in the comic construction kit[^ref-24].
 
 **Aggregate Scores:**
 - **MobyGames:** 83%, based on one review (*Fun Online*)[^ref-24]
@@ -219,7 +219,8 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – Sierra acquisition (MobyGames gives 1992; the body uses the 10-K's October 29, 1993), US publishing, later educational-only focus
 [^ref-22]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
 [^ref-23]: [Wikipédia (FR) – Spirou (série télévisée d'animation)](https://fr.wikipedia.org/wiki/Spirou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation)) – "Micmac à Champignac" listed in the first season (1993)
-[^ref-24]: [MobyGames – Playtoons 2 Reviews](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/reviews/) – single critic review: Fun Online (Germany), January 1996, score 2 (lowest is best), normalised 83%
+[^ref-24]: [MobyGames – Playtoons 2 Reviews](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/reviews/) – single critic review: Fun Online (Germany), January 1996, normalised 83%
 [^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – "playtoons2" detection entries: EN/FR/DE/IT Windows builds, "v1.002"
 [^ref-26]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – official supported-games list (Playtoons 2 absent)
 [^ref-27]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
+[^ref-28]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01) – joint German-language review of Playtoons 2 and 3; rating box is verbal (graphics/sound "super gut", fun "sehr gut")
