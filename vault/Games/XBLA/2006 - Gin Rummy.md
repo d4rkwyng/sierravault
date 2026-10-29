@@ -10,12 +10,12 @@ series: "Standalone"
 engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -164,4 +164,4 @@ Sierra Online published Gin Rummy during its Xbox Live Arcade run under Vivendi 
 [^ref-23]: [Gin Rummy (2008) - MobyGames](https://www.mobygames.com/game/47669/gin-rummy/) - Released September 3, 2008; publishers Sierra Online and Activision; 2017 Xbox One release; 1 offline and 4 online players; critics 63%; Theme Deck add-on
 [^ref-24]: [Gin Rummy Announced - Screens - WorthPlaying](https://worthplaying.com/article/2008/4/29/news/50859-gin-rummy-announced-screens/) - April 29, 2008 announcement with feature list: six modes, auto-scoring, themes, multiplayer, Live Vision
 [^ref-25]: [Report: Ticket to Ride, Gin Rummy Coming to XBLA - Shacknews](https://www.shacknews.com/article/51882/report-ticket-to-ride-gin) - Aaron Linde, March 21, 2008: Gin Rummy found in ratings-board listings
-[^ref-26]: [WorthPlaying: Gin Rummy Review - N4G](https://n4g.com/news/209282/worthplaying-gin-rummy-review) - 2008 excerpt from WorthPlaying's review
+[^ref-26]: [Xbox Live Arcade Review - 'Gin Rummy' - WorthPlaying](https://worthplaying.com/article/2008/10/3/reviews/55417-xbox-live-arcade-review-gin-rummy/) - October 3, 2008 review; source of the quote
