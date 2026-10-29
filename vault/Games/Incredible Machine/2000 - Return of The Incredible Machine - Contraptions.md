@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   game from Dynamix and Sierra, the first new Incredible Machine game in five years...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ The game has more than 100 different parts[^ref-6][^ref-15]. Some of them have p
 
 ### Structure and Progression
 
-The 250 contraptions are divided into five sets of 50. The first 50 form an in-depth tutorial, and the remaining sets increase in difficulty from easy to expert[^ref-15][^ref-27]. A GameFAQs walkthrough labels the sets Tutorial, Easy, Medium, Difficult and Expert[^ref-19]. GameSpot counted "more than 40 puzzles for each difficulty level"[^ref-6]. Unlike the original Incredible Machine, players can jump ahead and pick any contraption[^ref-15].
+The 250 contraptions are divided into five sets of 50. The first 50 form an in-depth tutorial, and the remaining sets increase in difficulty from easy to expert[^ref-15][^ref-27]. A GameFAQs walkthrough labels the sets Tutorial, Easy, Medium, Difficult and Expert[^ref-19]. GameSpot counted "more than 40 puzzles for each difficulty level"[^ref-6]. Unlike the original Incredible Machine, players can jump ahead and pick any contraption[^ref-15]. Not all of the puzzles are new: Hardcore Gaming 101 noted "a few new puzzles in each of the difficulties, but a majority of them come from TIM2"[^ref-51][^ref-30].
 
 The easier puzzles offer hints. Game Over Online described "helping hands" scattered through each puzzle that give spoken hints and become less helpful as the game goes on. GameSpot noted that the more difficult puzzles have no hints[^ref-6][^ref-15]. Many puzzles have more than one solution. Once players have solved a puzzle their own way, they can view the professor's intended solution[^ref-6][^ref-15].
 
@@ -105,17 +105,17 @@ GamePressure's database entry presents the game as Sierra's attempt to win back 
 
 ### Production
 
-[[Dynamix]] developed the game[^ref-8][^ref-17]. MobyGames credits [[Brian Hahn]] as designer and art director, Richard Rayl as lead programmer, Kyle Miller with the story concept, and Jeffrey Tunnell with the original concept. [[Kevin Ryan]] contributed contraption design, additional design and parts programming. Jon Milnes handled Mac programming[^ref-8]. Wikipedia lists Randy Thompson as producer[^ref-30]. GameSpot found that the game improved on the previous Incredible Machine game "in almost every aspect", with updated graphics and animations and an improved physics model[^ref-6].
+[[Dynamix]] developed the game[^ref-8][^ref-17]. MobyGames credits [[Brian Hahn]] as designer and art director, Richard Rayl as lead programmer, Kyle Miller with the story concept, and Jeffrey Tunnell with the original concept. [[Kevin Ryan]] contributed contraption design, additional design and parts programming. Jon Milnes handled Mac programming[^ref-8]. Randy Thompson is credited as senior producer[^ref-49][^ref-30]. GameSpot found that the game improved on the previous Incredible Machine game "in almost every aspect", with updated graphics and animations and an improved physics model[^ref-6].
 
 ### Music
 
-The soundtrack was composed by Christopher Stevens, Timothy Steven Clarke and Sage Freeman[^ref-30]. A game rip of the soundtrack contains 27 tracks[^ref-44]. Players can choose digital or MIDI background music in the preferences menu[^ref-6].
+Christopher Stevens, Timothy Steven Clarke and Sage Freeman are credited with the music and voice work[^ref-49][^ref-30]. A game rip of the soundtrack contains 27 tracks[^ref-44]. Players can choose digital or MIDI background music in the preferences menu[^ref-6].
 
 ## Legacy
 
 An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in 2001[^ref-30][^ref-8]. Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
 
-[[Kevin Ryan]], designer of the original Incredible Machine, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
+[[Kevin Ryan]], co-creator of the original Incredible Machine with Jeff Tunnell, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. (Ryan has said that Tunnell "presented the concept" for the original game and that he did the design himself[^ref-50].) He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
 
 ## Purchase
 
@@ -167,3 +167,6 @@ An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in
 [^ref-46]: [Amazon - Return of the Incredible Machine: Contraptions](https://www.amazon.com/dp/B00065FD3S) - Sierra product description
 [^ref-47]: [Absolute Games - Return of the Incredible Machine: Contraptions (archived)](https://web.archive.org/web/20071215031604/http://www.ag.ru/reviews/return_of_the_incredible_machine_contraptions) - Russian-language review, 80%
 [^ref-48]: [Steemit - Interesting People #25: Kevin Ryan on The Incredible Machine (February 2018)](https://steemit.com/gaming/@badastroza/interesting-people-25-kevin-ryan-on-the-incredible-machine) - Ryan: "I was actually involved in that one at first"; "ultimately I wasn't all that involved"
+[^ref-49]: [MobyGames - Return of the Incredible Machine: Contraptions credits (Windows, archived 2015)](https://web.archive.org/web/20151003094810/http://www.mobygames.com/game/windows/return-of-the-incredible-machine-contraptions/credits) - "Music and Voice: Christopher Stevens, Timothy Steven Clarke, Sage Freeman"; "Senior Producer: Randy Thompson"
+[^ref-50]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) - Kevin Ryan comment, February 25, 2019: "Jeff presented the concept to me, but he didn't do the design except for feedback as dev went along."
+[^ref-51]: [Hardcore Gaming 101 - The Incredible Machine (archived 2013)](https://web.archive.org/web/20131125152904/http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) - "a few new puzzles in each of the difficulties, but a majority of them come from TIM2"
