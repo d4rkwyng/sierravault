@@ -10,14 +10,14 @@ series: Red Baron
 engine: 3-Space 2.0
 protagonist: WWI Fighter Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: Red Baron 3D is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in 1998. The game is essentially a heavily...
 tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron 3D
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -89,13 +89,13 @@ AllGame's Michael L. House wrote, "Red Baron 3-D is a direct result of what can 
 
 ### Technical Achievements
 
-Red Baron 3D runs on the 3-Space 2.0 engine[^ref-14]. Its 3D acceleration supports only 3Dfx cards through the Glide API; there is no Direct3D support, so other cards run the game in 2D DirectDraw mode[^ref-16][^ref-23]. The manual says it "is designed to run with a smooth frame-rate on both older and slower computer systems as well as those that are on the bleeding edge of technology"[^ref-10]. PCGamingWiki lists minimum requirements of Windows 95/98, a Pentium 133, 32 MB of RAM and 130 MB of storage[^ref-23]; Computer Gaming World's review listed 200MB of hard-drive space[^ref-26].
+Red Baron 3D runs on Dynamix's 3-Space engine; the Wings of Honour fan site calls it version 2.0[^ref-14][^ref-1]. Its 3D acceleration supports only 3Dfx cards through the Glide API; there is no Direct3D support, so other cards run the game in 2D DirectDraw mode[^ref-16][^ref-23]. The manual says it "is designed to run with a smooth frame-rate on both older and slower computer systems as well as those that are on the bleeding edge of technology"[^ref-10]. PCGamingWiki lists minimum requirements of Windows 95/98, a Pentium 133, 32 MB of RAM and 130 MB of storage[^ref-23]; Computer Gaming World's review listed 200MB of hard-drive space[^ref-26].
 
 The patch added trees and shrubs, layered cloud effects, smoke, fog and other visual extras[^ref-21]. The game supports resolutions up to 1024×768[^ref-16].
 
 ## Legacy
 
-Red Baron 3D continued a series that began with the 1990 Red Baron, which Computer Gaming World named the Top Simulation of 1991 and later listed among the best games of all time[^ref-24]. Red Baron 3D was nominated for "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards, which went to European Air War[^ref-17][^ref-1]. Red Baron 3D and the 1990 original are still sold together as the Red Baron Pack on Steam and GOG[^ref-28][^ref-29].
+Red Baron 3D continued a series that began with the 1990 Red Baron, which Computer Gaming World named its 1991 Simulation of the Year, inducted into its Hall of Fame in 1993 and ranked #4 on its 1996 list of the best games of all time[^ref-32][^ref-24]. Red Baron 3D was nominated for "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards, which went to European Air War[^ref-17][^ref-1]. Red Baron 3D and the 1990 original are still sold together as the Red Baron Pack on Steam and GOG[^ref-28][^ref-29].
 
 ### Community and Modding
 
@@ -105,7 +105,7 @@ The game's community remained active for years, with the Full Canvas Jacket mod 
 
 Red Baron II gained an unusual piece of trivia: some copies included a coupon for 75 cents off a 12-inch Red Baron pizza[^ref-5]. In 2014 the Lazy Game Reviewer found one of these coupons in a copy of Red Baron 2 and redeemed it, since it carried no expiration date[^ref-25].
 
-The game's manual pairs gameplay instructions with a historical section; its credits list a historical manual team led by Steven Hill, with production by Neil Haldar[^ref-1]. The Steam re-release describes the scanned manual as "filled with game tips, strategies and World War I history"[^ref-28].
+The game's manual pairs gameplay instructions with a historical section[^ref-28][^ref-15]; its credits list a historical manual team led by Steven Hill, with production by Neil Haldar[^ref-1]. The Steam re-release describes the scanned manual as "filled with game tips, strategies and World War I history"[^ref-28].
 
 ## Downloads
 
@@ -155,3 +155,4 @@ The game's manual pairs gameplay instructions with a historical section; its cre
 [^ref-29]: [GOG - Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – Current digital release including Red Baron 3D
 [^ref-30]: [Computer Games Strategy Plus - "Red Baron 3D Lands In Retail Stores" (Web Archive)](https://web.archive.org/web/20030710225317/http://www.cdmag.com/articles/015/054/rb2.html) – Dynamix retail announcement, October 29, 1998
 [^ref-31]: [Dynamix press release - "The Red Baron Flies Again for the PC" (Web Archive)](https://web.archive.org/web/19980627112357/http://www.dynamix.com/pr/rb2-pr.html) – Red Baron II launch press release, ACE AI
+[^ref-32]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – CGW 1991 Simulation of the Year (CGW #88, November 1991), CGW Hall of Fame 1993, #4 on CGW's 1996 best-of-all-time list
