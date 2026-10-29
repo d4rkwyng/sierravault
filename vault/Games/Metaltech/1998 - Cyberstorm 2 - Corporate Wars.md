@@ -10,7 +10,7 @@ series: Cyberstorm
 engine: Turn-based tactical combat engine with optional real-time mode
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-28'
 description: 'Cyberstorm 2: Corporate Wars is a strategy game developed by Dynamix
   and published by Sierra On-Line that went gold on April 28, 1998. The game serves
   as a...'
@@ -18,7 +18,7 @@ tags: [1990s, cyberstorm, sierra, strategy]
 ---
 # Cyberstorm 2: Corporate Wars
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -134,7 +134,6 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r)
-- [Internet Archive](https://archive.org/search?query=cyberstorm+2+corporate+wars) – Preservation archives
 
 ## See Also
 

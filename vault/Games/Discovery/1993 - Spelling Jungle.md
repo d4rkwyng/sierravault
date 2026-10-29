@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: null
 protagonist: Wali
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 composer: [Gordon van Ekström]
 description: Spelling Jungle is an educational spelling game developed by Bright
   Star Technology and published by Sierra On-Line in 1993 for Windows 3.x and Macintosh,
@@ -20,7 +20,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Jungle
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -183,7 +183,6 @@ Spelling Jungle was one of the Bright Star titles Sierra gained when it acquired
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/662/spelling-jungle/)
-- [Internet Archive search](https://archive.org/search?query=Spelling+Jungle)
 
 ## See Also
 

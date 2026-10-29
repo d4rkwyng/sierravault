@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball engine (improved; up to 800x600, 256 colors)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-10-28'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released
   in December 1998 by Dynamix and Sierra Attractions, it is the fourth game in the 3-D
@@ -20,7 +20,7 @@ last_modified: 2026-10-27T10:45:00-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
@@ -171,7 +171,6 @@ The game was included in several compilations[^ref-13][^ref-19]:
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/4085/3-d-ultra-nascar-pinball/)
-- [Internet Archive search](https://archive.org/search?query=3-D+Ultra+NASCAR+Pinball)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/3-D+Ultra+NASCAR+Pinball)
 - Database entries: Giant Bomb[^ref-14], IGDB[^ref-15]
 
