@@ -10,17 +10,17 @@ series: Standalone
 engine: null
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-29'
 description: Stunt Flyer is a precision-aerobatics flight simulator for the Commodore 64, developed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line in 1985.
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
-Stunt Flyer is a stunt-flying simulation for the Commodore 64, which MobyGames dates to September 1985[^ref-1][^ref-2]. Sierra advertised it in October 1985 as a "professionally designed" simulator "for precision aerobatics"[^ref-19], and its box billed it as "The Precision Aerobatics Flight Simulator"[^ref-22]. The player flies a small prop-plane at an airshow and tries to perform a set of airplane stunts[^ref-1]. The game was programmed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line[^ref-20][^ref-1]. According to the retro blog Retro365, which draws on a Gamotek interview with programmer Patrick Aubry, it was Sierra's first published game developed in Europe[^ref-3].
+Stunt Flyer is a stunt-flying simulation for the Commodore 64, which MobyGames dates to September 1985[^ref-1]. Sierra advertised it in October 1985 as a "professionally designed" simulator "for precision aerobatics"[^ref-19], and its box billed it as "The Precision Aerobatics Flight Simulator"[^ref-22]. The player flies a small prop-plane at an airshow and tries to perform a set of airplane stunts[^ref-1]. The game was programmed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line[^ref-20][^ref-1]. According to the retro blog Retro365, which draws on a Gamotek interview with programmer Patrick Aubry, it was Sierra's first published game developed in Europe[^ref-3].
 
 The plane is a Pitts Special biplane, which *Compute!'s Gazette* called "the most maneuverable of all stunt planes"[^ref-16][^ref-12]. The manual's note from the designers says, "Professional stunt pilots have evaluated it to ensure that it realistically simulates a real-life stunt plane"[^ref-20]. The player flies from a first-person cockpit view, and a side-scrolling 2D view replays the stunts afterwards[^ref-1][^ref-13].
 
@@ -28,7 +28,7 @@ The game is best remembered inside Sierra for its Competition Mode. Crashing the
 
 > [!info]- Game Info
 > **Developer:** Nice Ideas[^ref-1][^ref-20]
-> **Designer:** Patrick Aubry[^ref-2][^ref-3]
+> **Designer:** Patrick Aubry (programmer; built the flight model and scoring routine, per Retro365)[^ref-2][^ref-3]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Unknown[^ref-10]
 > **Platforms:** Commodore 64[^ref-1][^ref-2]
@@ -53,7 +53,7 @@ The designers made two simplifications to the real aircraft. The torque effect o
 
 ### Structure and Progression
 
-MobyGames lists 20 stunts in total[^ref-1][^ref-11]. Each attempt is scored on how closely it follows the ideal stunt, and the player can also watch an expert fly the stunts or fly a freestyle routine[^ref-1]. The *Gazette* listed slow rolls, hammerheads, half-loops, Immelmans "and even the outside-inside Cuban 8" among the maneuvers. In its words, "The stunts are not easy to master, but that's the challenge"[^ref-16].
+MobyGames lists 20 stunts in total[^ref-1][^ref-11], and the manual likewise lets the player "choose from among 20 maneuvers" (p. 21)[^ref-20]. The reference card speaks of "the 20 specific stunts which make up the training sequence"[^ref-22]. Each attempt is scored on how closely it follows the ideal stunt, and the player can also watch an expert fly the stunts or fly a freestyle routine[^ref-1]. The *Gazette* listed slow rolls, hammerheads, half-loops, Immelmans "and even the outside-inside Cuban 8" among the maneuvers. In its words, "The stunts are not easy to master, but that's the challenge"[^ref-16].
 
 Completing at least 15 maneuvers with a score of 50% or better unlocks the competition[^ref-20]. In the competition the player flies a 14-maneuver compulsory sequence within five minutes, then a freestyle sequence of no more than 60 seconds[^ref-20]. Both scores are saved to a separate blank disk[^ref-20]. The *Gazette* explained that this "competition" disk was then mailed to Sierra[^ref-16].
 
@@ -95,6 +95,10 @@ Retro365 reports that Aubry made a 4,000-mile trip from France to California lat
 - **Aerobatic Consultant:** Alan Gerringer
 - **Instructional Manual:** Annette Gerth Childs
 
+### Voice Cast
+
+The game has no voice acting.
+
 ### Technical Achievements
 
 According to Retro365, the most significant technical feature was the scoring routine, which compared each flown figure with an ideal flight curve[^ref-3]. The game pairs the first-person 3D flying view with a side-scrolling 2D replay of the same flight[^ref-1].
@@ -118,7 +122,7 @@ No cut content has been documented for the Commodore 64 release.
 |---------|------|----------|-------|
 | Original release | 1985 | Commodore 64 | MobyGames gives September 1985[^ref-1]; advertised in *RUN*, October 1985[^ref-19] |
 
-Sources disagree on the release year. *InterAction* (1994), Sierra Gamers and The Sierra Chest give 1983[^ref-17][^ref-7][^ref-10]. The October 1985 advertisement, the January 1986 *Gazette* review (which calls it "Sierra's new action software") and MobyGames all point to 1985[^ref-19][^ref-16][^ref-1].
+Sources disagree on the release year. *InterAction* (1994), Sierra Gamers and The Sierra Chest give 1983[^ref-17][^ref-7][^ref-10]. The October 1985 advertisement, the January 1986 *Gazette* review (which calls it "Sierra's new action software") and MobyGames all point to 1985[^ref-19][^ref-16][^ref-1]. The manual itself carries the line "© 1985 Sierra On-Line, Inc." (p. 47)[^ref-20].
 
 ### Technical Issues
 
@@ -131,10 +135,6 @@ The best-known "issue" was deliberate. In Competition Mode, crashing the plane a
 - The flight model is based on the Pitts Special aerobatic biplane[^ref-16][^ref-12]
 - Sierra offered a $1,000 prize to the best Stunt Flyer pilot[^ref-16]. Retro365 adds that entries had to be postmarked by March 31, 1986, and that the winner would also get the title "Most Skilled Stunt Pilot"[^ref-3]
 - *Space Quest IV* contains an unused "Bargain Bin" item for Stunt Flyer at the Software Excess store, which fans found in the game's data[^ref-21][^ref-5]. The Space Quest Omnipedia transcribes its box text as a joke about the original game's crashing ("Still looking for a sim that really crashes?") and gives it a fake former title, "Hero's Flyer"[^ref-5]
-
-## Voice Cast
-
-The game has no voice acting.
 
 ## Legacy
 
@@ -156,12 +156,15 @@ The Space Quest Omnipedia reports that NewRisingSun's Space Quest 4 CD Version U
 
 ### Critical Perspective
 
-Sierra later regretted the game. Writing in 1994, *InterAction* used it as a cautionary "then" example in a feature on how Sierra's flight simulations had changed[^ref-17]. The game was also an early example of Sierra publishing a European-developed title, of the stunt-flying niche that *Computer Gaming World* later traced, and of a contest run around a product[^ref-3][^ref-18][^ref-16].
+Sierra later regretted the game. Writing in 1994, *InterAction* used it as a cautionary "then" example in a feature on how Sierra's flight simulations had changed[^ref-17]. Retro365 describes it as Sierra's first published game developed in Europe[^ref-3], and in 1990 *Computer Gaming World* still named it among the stunt-capable flight products that followed Sublogic's *Flight Simulator*[^ref-18].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on modern digital storefronts
+
+**Download / Preservation**
+- None listed
 
 **Manuals & Extras**
 - [Instruction manual (PDF scan, PixelatedArcade)](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/Stunt-Flyer-Commodore-64-Instruction-Manual.pdf)[^ref-20]
@@ -174,30 +177,9 @@ Sierra later regretted the game. Writing in 1994, *InterAction* used it as a cau
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
 - [[1985 - Sierra Championship Boxing]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
 - [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 
 ## References
 
