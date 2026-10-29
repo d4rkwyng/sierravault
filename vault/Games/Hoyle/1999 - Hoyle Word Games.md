@@ -7,31 +7,31 @@ publisher: Sierra Attractions
 genre: Puzzle
 platforms: [Windows, Mac]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Not documented
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-10-28'
 description: Hoyle Word Games is a 1999 Sierra On-Line compilation of eight word
   games for Windows and Macintosh, part of the long-running Hoyle series.
 tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 28, 2026</small>
 
 ## Overview
 
-Hoyle Word Games is a word puzzle compilation released in 1999 by [[Sierra On-Line]] as part of its long-running Hoyle series of computer card, board and parlor game collections.[^ref-1][^ref-19] The game brought Sierra's familiar Hoyle format to eight different word games.[^ref-2] Sources disagree on the release date: The Sierra Chest gives a first release of October 13, 1999, for IBM PC and Macintosh,[^ref-3] while MobyGames, Metacritic and GameFAQs list the Windows release as November 30, 1999.[^ref-17][^ref-15][^ref-20]
+Hoyle Word Games is a word puzzle compilation released in 1999 by [[Sierra On-Line]] as part of its long-running Hoyle series, which focused on playing cards but also included board games, puzzles, dice and dominoes.[^ref-1][^ref-19] The game brought Sierra's familiar Hoyle format to eight different word games.[^ref-2] Sources disagree on the release date: The Sierra Chest gives a first release of October 13, 1999, for IBM PC and Macintosh,[^ref-3] while MobyGames, Metacritic and GameFAQs list the Windows release as November 30, 1999.[^ref-17][^ref-15][^ref-20]
 
 Sources also differ on the game count. MobyGames, a GameSpot news item and a Neverdie Media product listing all describe eight games, with Neverdie noting that many have more than one variation, "making the actual number of games much higher."[^ref-2][^ref-9][^ref-4] The product description reproduced on Metacritic and GameFAQs instead says the game "provides 9 fun and ingenious word games with hundreds of variations"; the source of the discrepancy is not documented.[^ref-15][^ref-20] Players could enjoy classic word puzzles including anagrams, crosswords, hangman, and word searches, alongside more unique offerings like Speedy Racer typing tests, Enigma letter-substitution code-breaking challenges, Word Yacht (a Boggle-like game), and DoubleCross (a Scrabble-like word building game).[^ref-2] The game featured computer opponents that would make commentary about the player's gameplay, as well as online play against other people through the Won.net servers.[^ref-2]
 
-Published under the Sierra Attractions label,[^ref-3] Hoyle Word Games was rated E for Everyone by the ESRB.[^ref-5][^ref-20] The title included several special features such as the Facemaker tool for creating custom player icons and a complete Webster's New World College Dictionary for word verification and reference.[^ref-2] MobyGames records a critic average of 70% based on six ratings.[^ref-2]
+Published under the Sierra Attractions label,[^ref-3] Hoyle Word Games was rated E for Everyone by the ESRB.[^ref-20][^ref-15] The title included several special features such as the Facemaker tool for creating custom player icons and a complete Webster's New World College Dictionary for word verification and reference.[^ref-2] MobyGames records a critic average of 70% based on six ratings.[^ref-2]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line, Inc.[^ref-2]
 > **Designer:** Paul Horn[^ref-2]
 > **Publisher:** Sierra Attractions[^ref-3]
-> **Engine:** Proprietary (Windows)
+> **Engine:** Not documented
 > **Platforms:** Windows, Macintosh[^ref-2][^ref-11]
 > **Release Year:** 1999[^ref-3][^ref-17]
 > **Series:** Hoyle[^ref-3]
@@ -42,7 +42,7 @@ Published under the Sierra Attractions label,[^ref-3] Hoyle Word Games was rated
 
 As a compilation of word puzzle games, Hoyle Word Games does not feature a narrative story structure. Instead, the game presents players with various word-based challenges across eight different game types.[^ref-2] Players can create custom avatars using the Facemaker feature to represent themselves in the various games, competing either against computer opponents or other players online.[^ref-2]
 
-The game environment focuses on presenting classic word puzzles in an accessible digital format, with computer opponents providing personality through their commentary on gameplay.[^ref-2] This follows the format of the wider Hoyle series, whose titles included humorous computer opponents with their own personalities and manner of play.[^ref-1]
+The game environment focuses on presenting classic word puzzles in an accessible digital format, with computer opponents providing personality through their commentary on gameplay.[^ref-2] Early Hoyle titles had likewise included humorous computer opponents, drawn from other Sierra video game series.[^ref-1]
 
 ## Gameplay
 
@@ -75,7 +75,7 @@ A browsable version of the complete Webster's New World College Dictionary is in
 
 ### Contemporary Reviews
 
-MobyGames lists six critic ratings for the game, averaging 70%.[^ref-2] Contemporary review text for this 1999 edition could not be verified for this page; a GameSpot review previously cited here covers the 2001 edition and is documented on that page instead.
+MobyGames lists six critic ratings for the game, averaging 70%.[^ref-2] Contemporary review text could not be verified.
 
 GameSpot announced the game's release in April 2000, noting the retail price of $29.99 for Windows and Mac platforms, emphasizing the inclusion of eight games including "Crossword Puzzles, Word Searches, Word Yacht, Hangman, and more."[^ref-9]
 
@@ -122,7 +122,7 @@ The game supported online play against other people through Sierra's Won.net ser
 **CD-ROM Version:**[^ref-3]
 - **Media:** PC/Mac CD-ROM[^ref-3][^ref-18]
 - **Business Model:** Commercial release[^ref-2]
-- **ESRB Rating:** E for Everyone[^ref-5]
+- **ESRB Rating:** E for Everyone[^ref-20][^ref-15]
 - **Retail Price:** $29.99 USD[^ref-9]
 
 **Macintosh System Requirements:**[^ref-11][^ref-18]
@@ -144,7 +144,7 @@ The game supported online play against other people through Sierra's Won.net ser
 
 ### Technical Issues
 
-The game's online play through the Won.net servers is no longer available, as the WON service no longer operates.[^ref-2][^ref-10] Play against computer opponents is unaffected.[^ref-2]
+The game's online play through the Won.net servers is no longer available, as the WON service no longer operates.[^ref-2][^ref-10]
 
 ### Easter Eggs and Trivia
 
@@ -171,10 +171,6 @@ The game was part of the larger Hoyle series, which encompassed card games, boar
 
 Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, alongside the separate Hoyle Crosswords line.[^ref-1][^ref-19] Its online play depended on the WON service, which no longer operates.[^ref-2][^ref-10]
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -184,8 +180,7 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 **Download / Preservation**
 - [SierraChest – Hoyle Word Games](https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games) – Packaging information and archive[^ref-3]
 - [Macintosh Repository – Hoyle Word Games](https://www.macintoshrepository.org/4509-hoyle-word-games) – Mac version preservation[^ref-11]
-- [Internet Archive – Hoyle Word Games (2001)](https://archive.org/details/HoyleWordGamesSierra2001) – 2001 re-release archive[^ref-13]
-- [My Abandonware – Hoyle Word Games](https://www.myabandonware.com/game/hoyle-word-games-hzn) – Abandonware download[^ref-14]
+- [Internet Archive – Hoyle Word Games (2001)](https://archive.org/details/HoyleWordGamesSierra2001) – Uploader describes it as a 2001 re-release; edition unverified[^ref-13]
 
 **Retailers / Resellers**
 - [Neverdie Media](https://www.neverdiemedia.com/products/hoyle-word-games-1999) – Retail CD copies[^ref-4]
@@ -254,11 +249,9 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 
 [^ref-2]: [MobyGames – Hoyle Word Games](https://www.mobygames.com/game/45137/hoyle-word-games/) – Development credits, gameplay features, ratings, technical specifications, online features
 
-[^ref-3]: [SierraChest – Hoyle Word Games](https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games&fld=box) – Release date, publisher, packaging details, included demos, series information
+[^ref-3]: [SierraChest – Hoyle Word Games](https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games&fld=box) – Release date, publisher, packaging details, included demos, series information ([archived June 17, 2024](http://web.archive.org/web/20240617091709/https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games&fld=box))
 
 [^ref-4]: [Neverdie Media – Hoyle Word Games 1999](https://www.neverdiemedia.com/products/hoyle-word-games-1999) – Game variations, product description
-
-[^ref-5]: [Mercari – Hoyle Word Games 1999 Listing](https://www.mercari.com/us/item/m95999459426/) – ESRB rating, platform, promotional description
 
 [^ref-6]: [MobyGames – Eric Hook Credits](https://www.mobygames.com/person/6797/eric-hook/) – Sr. 3D Artist credit for Macintosh version
 
@@ -268,11 +261,9 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 
 [^ref-11]: [Macintosh Repository – Hoyle Word Games](https://www.macintoshrepository.org/4509-hoyle-word-games) – Mac version specifications, system requirements
 
-[^ref-12]: [GameFAQs – Hoyle Word Games](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games) – Game database entry, genre classification
+[^ref-12]: [GameFAQs – Hoyle Word Games](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games) – Game database entry, genre classification ([archived March 23, 2019](http://web.archive.org/web/20190323035650/https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games))
 
-[^ref-13]: [Internet Archive – Hoyle Word Games (2001)](https://archive.org/details/HoyleWordGamesSierra2001) – Preserved 2001 re-release
-
-[^ref-14]: [My Abandonware – Hoyle Word Games](https://www.myabandonware.com/game/hoyle-word-games-hzn) – Abandonware preservation
+[^ref-13]: [Internet Archive – Hoyle Word Games (2001)](https://archive.org/details/HoyleWordGamesSierra2001) – Uploader describes it as a 2001 re-release of the 1999 game; edition unverified
 
 [^ref-15]: [Metacritic – Hoyle Word Games](https://www.metacritic.com/game/hoyle-word-games/) – Game database entry, official description
 
@@ -282,6 +273,6 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 
 [^ref-18]: [MobyGames – Hoyle Word Games Tech Specs](https://www.mobygames.com/game/45137/hoyle-word-games/specs/) – Windows and Macintosh minimum system requirements, CD-ROM media
 
-[^ref-19]: [The Sierra Chest – Hoyle Series Group Members](https://sierrachest.com/index.php?a=groups&id=42&fld=members) – Hoyle series title list including Hoyle Word Games (1999), Word Games 2 (2000) and 3 (2001)
+[^ref-19]: [The Sierra Chest – Hoyle Series Group Members](https://sierrachest.com/index.php?a=groups&id=42&fld=members) – Hoyle series title list including Hoyle Word Games (1999), Word Games 2 (2000) and 3 (2001) ([archived April 30, 2023](http://web.archive.org/web/20230430175923/https://sierrachest.com/index.php?a=groups&id=42&fld=members))
 
-[^ref-20]: [GameFAQs – Hoyle Word Games Release Data](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games/data) – US release 11/30/99, Sierra Entertainment, ESRB E, product description
+[^ref-20]: [GameFAQs – Hoyle Word Games Release Data](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games/data) – US release 11/30/99, Sierra Entertainment, ESRB E, product description ([archived May 9, 2019](http://web.archive.org/web/20190509145950/https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games/data))
