@@ -7,7 +7,7 @@ publisher: Sierra On-Line
 genre: Educational
 platforms: [Windows 95, Windows 98]
 series: Sierra's Driver's Education
-engine: Proprietary (Dynamix)
+engine: 'Unknown'
 protagonist: Student Driver
 sierra_lineage: Sierra Label (Dynamix)
 last_updated: '2026-10-29'
@@ -32,7 +32,7 @@ Driver's Education was sold with a money-back guarantee: if users didn't pass th
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Director:** Bill Money[^ref-23]
 > **Publisher:** Sierra On-Line[^ref-11]
-> **Engine:** Proprietary 3D engine
+> **Engine:** Unknown
 > **Platforms:** Windows 95, Windows 98[^ref-3]
 > **Release Year:** 1998[^ref-1][^ref-12]
 > **Series:** Sierra's Driver's Education
@@ -91,7 +91,7 @@ Amazon's listing shows an aggregate of 2.4 out of 5 stars from four ratings. Its
 
 ### Modern Assessment
 
-GameFAQs users rate the game "Great" on the strength of 8 user ratings.[^ref-11] Giant Bomb's entry currently shows no user reviews.[^ref-12]
+GameFAQs users rate the game "Great" on the strength of 8 user ratings.[^ref-11]
 
 The driving-instruction website Driver's Ed Guru said the game "may actually be a fantastic game, but unfortunately, we don't know". It chose not to review it "because it's only available by paid download (and because we're not THAT anxious to see it)".[^ref-13] The site still highlighted it as "the only online driving game that lets you play from the perspective of an actual driver (as opposed to the "eagle flying overhead" perspective)."[^ref-13]
 
@@ -159,7 +159,7 @@ Lessons and tests were customized to the user's state.[^ref-4] The in-car scorin
 - **Media:** CD-ROM[^ref-1]
 - **Players:** 1 player[^ref-1]
 
-**Windows XP compatibility settings (user tip):** a forum reply recommends running the program in Windows 95/98 compatibility mode, in 256 colors at 640 × 480.[^ref-14]
+**Windows XP compatibility settings (user tip):** a forum reply suggests trying Windows 95/98 compatibility mode, then walks through XP's generic compatibility settings (earlier Windows versions, 256 colors, 640 × 480).[^ref-14]
 
 ### Version History
 
@@ -172,7 +172,7 @@ The 1999 edition offered improved graphics and more driving simulations.[^ref-4]
 
 ### Technical Issues
 
-Like many Windows 98-era programs, Driver's Education '98 has compatibility problems on later operating systems. One Windows XP user reported that the program loaded the virtual city, but there was no sound and the car could not be driven.[^ref-14] The suggested fix was Windows 95/98 compatibility mode with 640×480 resolution and 256 colors.[^ref-14]
+Like many Windows 98-era programs, Driver's Education '98 has compatibility problems on later operating systems. One Windows XP user reported that the program loaded the virtual city, but there was no sound and the car could not be driven.[^ref-14] A reply suggested trying Windows 95/98 compatibility mode and listed XP's generic display options, including 256 colors and 640×480.[^ref-14]
 
 For modern systems, one Steam Community reply recommends emulating a Windows 98 PC in PCem or 86box. The same reply says wine/proton should be used only "for Windows XP era games and higher".[^ref-15] In the same thread, a Steam Deck user reported being unable to install the game's .bin/.cue files through Lutris.[^ref-15] The uploader of the Internet Archive copy, by contrast, reported that it "Works perfect in W10".[^ref-16]
 
@@ -238,7 +238,7 @@ The game is not available on Steam.[^ref-19] Several abandonware sites offer dow
 
 ### Series Continuation
 
-Driver's Education '98 was followed by Driver's Education 99, which offered improved graphics and more driving simulations.[^ref-1][^ref-7] The 1999 edition expanded the lesson count to 65. It kept testing for all 50 states and the District of Columbia, and added force-feedback support.[^ref-9]
+Driver's Education '98 was followed by Driver's Education 99, which offered improved graphics and more driving simulations.[^ref-1][^ref-7] The 1999 edition expanded the lesson count to 65. It listed testing for all 50 states and the District of Columbia, and added force-feedback support.[^ref-9]
 
 The MobyGames entry for the sequel notes that, similar to the original game, "the player can drive around in a virtual world with a virtual driving instructor (named "Driver's Ed"). There is also virtual driving instruction and the ability to take sample written tests from each state."[^ref-5]
 
@@ -267,14 +267,14 @@ Driver's Education '98 is an example of educational software built by a studio b
 
 [^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – description, release year, perspectives, input devices, media type, Moby Score n/a
 [^ref-3]: [Amazon – Driver's Education '98 Product Listing](https://www.amazon.com/Drivers-Education-98/dp/B001R5QCBS) – product description, two-products-in-one feature, customer reviews
-[^ref-4]: [Free Game Downloads Archive](https://free-game-downloads.mosw.com/abandonware/pc/educational_games/games_d/driver_s_education_98.html) – Discovery Series brand, money-back guarantee, state law customization, controls, scoring
+[^ref-4]: [Free Game Downloads Archive](https://free-game-downloads.mosw.com/abandonware/pc/educational_games/games_d/driver_s_education_98.html) – Discovery Series brand, money-back guarantee, state law customization, controls, scoring; same description text as ref-7 (one shared abandonware blurb, not independent sources)
 [^ref-5]: [MobyGames – Driver's Education '99](https://www.mobygames.com/game/227472/drivers-education-99/) – sequel description, "Driver's Ed" instructor, 1998 release
-[^ref-7]: [Old-Games.com – Driver's Education '98](https://www.old-games.com/download/3272/driver-s-education-98) – money-back guarantee, Discovery Series, 1999 edition improvements
+[^ref-7]: [Old-Games.com – Driver's Education '98](https://www.old-games.com/download/3272/driver-s-education-98) – money-back guarantee, Discovery Series, 1999 edition improvements; description text is word for word the same as ref-4
 [^ref-8]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/105453-drivers-education-98) – lesson count, lesson objectives, diagrams and animations
 [^ref-9]: [CrossOver Compatibility Database – Driver's Education 99](https://www.codeweavers.com/compatibility/crossover/drivers-education-99) – 1999 edition only: lesson count, state coverage, hardware support, force feedback, alternate names
-[^ref-10]: [SquakeNet Game Database](https://www.squakenet.com/game/driver-s-education-98/) – street symbol recognition, precautionary measures
+[^ref-10]: [SquakeNet Game Database](https://www.squakenet.com/game/driver-s-education-98/) – street symbol recognition, precautionary measures; paraphrases the same blurb as refs 4 and 7
 [^ref-11]: [GameFAQs – Driver's Education '98](https://gamefaqs.gamespot.com/pc/932640-drivers-education-98) – user ratings, publisher, release year
-[^ref-12]: [Giant Bomb – Driver's Education '98](https://www.giantbomb.com/drivers-education-98/3030-3254/) – release year, developer; no user reviews currently listed
+[^ref-12]: [Giant Bomb – Driver's Education '98](https://www.giantbomb.com/drivers-education-98/3030-3254/) – release year, developer (Wayback snapshot of June 12, 2025: [archived page](https://web.archive.org/web/20250612032304/https://www.giantbomb.com/drivers-education-98/3030-3254/))
 [^ref-13]: [Driver's Ed Guru – Product Reviews](https://driversedguru.com/product-reviews/driving-games/drivers-education-98/) – driver's-perspective comment, decision not to review
 [^ref-14]: [PC Review Forums – XP Compatibility](https://www.pcreview.co.uk/threads/cant-run-drivers-education-98-on-xp.514496/) – XP compatibility issues, compatibility-mode settings
 [^ref-15]: [Steam Community – Technical Discussion](https://steamcommunity.com/app/1675200/discussions/0/4629233576852855820/) – emulation recommendations, .bin/.cue file format, Lutris attempt
