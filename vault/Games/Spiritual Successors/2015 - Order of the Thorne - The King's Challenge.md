@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-10-29'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released on January 26, 2016, for
   Windows, Mac and Linux. Inspired by King''s Quest, it follows Finn the Bard through
@@ -19,7 +19,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Adventure Gamers praised the nostalgic design, with its reviewer concluding that
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-1]
-> **Designer:** James Broom, Shawn Mills, Steven Alexander[^ref-7]
+> **Writers:** James Broom, Shawn Mills, Steven Alexander[^ref-7]
 > **Publisher:** Infamous Quests[^ref-1]
 > **Platforms:** Windows, macOS, Linux[^ref-11]
 > **Release Year:** 2016[^ref-1]
@@ -74,7 +74,7 @@ The interface includes:
 
 ### Display and Graphics
 
-The game runs at a 320x200 resolution[^ref-10], with hand-painted backgrounds[^ref-6] in a colourful pixel-art style[^ref-2]. Unusually for an AGS game on Linux, both the GOG and Steam builds include a graphical settings panel for switching to windowed mode or changing graphics filters[^ref-21].
+The game runs at a 320x200 resolution[^ref-10], with hand-painted backgrounds[^ref-6] in a colourful pixel-art style[^ref-2]. GamingOnLinux's reviewer found that both the GOG and Steam builds include a graphical settings panel for switching to windowed mode or changing graphics filters, something the reviewer did not recall seeing in any previous AGS game on Linux[^ref-21].
 
 ### Structure and Progression
 
@@ -127,7 +127,7 @@ GOG.com users rate the game 4.1 out of 5[^ref-4]. One GOG.com user wrote, "Playi
 
 ### Origins
 
-The King's Challenge was developed by Infamous Quests, which Steven Alexander and Shawn Mills founded in 2012. The two had earlier run Infamous Adventures, an amateur group that remade Sierra adventure games of the 1980s[^ref-22]. Its free remakes included *King's Quest III* and *Space Quest 2*[^ref-3]. Infamous Quests released *Quest for Infamy* in 2014[^ref-22]. In March 2015 the studio announced The King's Challenge as the first game in a planned anthology series[^ref-22].
+The King's Challenge was developed by Infamous Quests, which Steven Alexander and Shawn Mills founded in 2012. The two had earlier run Infamous Adventures, an amateur group that made free remakes of Sierra adventure games[^ref-22], among them *King's Quest III* and *Space Quest 2*[^ref-3]. Infamous Quests released *Quest for Infamy* in 2014[^ref-22]. In March 2015 the studio announced The King's Challenge as the first game in a planned anthology series[^ref-22].
 
 ### Production and Crowdfunding
 
@@ -266,7 +266,7 @@ The King's Challenge is the first installment of the *Order of the Thorne* antho
 [^ref-15]: [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge) – Official description: ten-year challenge, "greatest ballad ever", lute
 [^ref-16]: [GuiaZone](https://guiazone.blogspot.com/2016/02/order-of-thorne-kings-challenge.html) – Spanish-language walkthrough; mouse controls, inventory and lute interface
 [^ref-17]: [IMDb](https://www.imdb.com/title/tt5424998/) – User ratings and voice cast
-[^ref-18]: [N4G](https://n4g.com/news/1848717/oldschool-adventure-order-of-the-thorne-the-kings-challenge-gets-release-date) – Pre-release Cliqist quote by Serena Nelson
+[^ref-18]: [Cliqist – Order of the Thorne: The King's Challenge Gets Release Date](http://cliqist.com/2016/01/11/order-of-the-thorne-the-kings-challenge-gets-a-release-date/) – Serena Nelson, January 11, 2016; pre-release quote after playing the beta
 [^ref-19]: [ModDB](https://www.moddb.com/games/the-order-of-the-thorne-the-kings-challenge) – Platforms (Windows, Mac, Linux) and engine
 [^ref-20]: [Adventure Game Database](https://adventuregamedb.com/g/order_of_the_thorne_the_kings_challenge) – Screenshot of the tombs on the Isle of Honored
 [^ref-21]: [GamingOnLinux – Review of point-and-click adventure The King's Challenge](https://www.gamingonlinux.com/2016/01/review-of-pointandclick-adventure-the-kings-challenge-available-drm-free-and-on-steam/) – 2016 review: controls, lute minigame, settings panel, length
