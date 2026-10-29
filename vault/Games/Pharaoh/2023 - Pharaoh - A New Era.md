@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,7 +22,7 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ The most significant addition, in Rock Paper Shotgun's view, is the optional glo
 
 ### Structure and Progression
 
-Players build cities in ancient Egypt along the Nile, aiming to become a powerful and revered pharaoh[^ref-5]. The Campaign mode teaches the basics while telling a story set in ancient Egypt, and a Sandbox mode allows free building[^ref-5]. The publisher frames the game as a journey through 4,000 years of history[^ref-5]. Dotemu's announcement also mentions a map and mission editor[^ref-24].
+Players build cities in ancient Egypt along the Nile, aiming to become a powerful and revered pharaoh[^ref-5]. The Campaign mode teaches the basics while telling a story set in ancient Egypt, and a Sandbox mode allows free building[^ref-5]. The publisher frames the game as a journey through 4,000 years of history[^ref-5]. a December 2021 Dotemu/Triskell press release also mentions a map and mission editor[^ref-24].
 
 Players manage the city's economy, internal and external trade, culture, health, agriculture and education[^ref-5]. Farming depends on the Nile's annual floods[^ref-3][^ref-5]. Players can build monuments including the pyramids, the Sphinx and the Lighthouse of Alexandria, build temples and mausoleums for the city's religion, and defend the city against enemies[^ref-5].
 
@@ -76,6 +76,7 @@ Pharaoh: A New Era received "generally favorable" reviews according to Metacriti
 | NPR | No score | "Still a rewarding city-builder" despite bugs and mobile-game-like graphics[^ref-8] |
 
 Rock Paper Shotgun called the optional global worker pool the most significant change, and praised the redrawn art and the recreated soundtrack. It added that the game lacks the complexity of modern city builders[^ref-3]. Shacknews praised the "gorgeous revamp of visuals" and the "neat tweaks and updates to mechanics", but said some archaic elements can make things difficult[^ref-4]. Gamepressure welcomed the option to disable recruiters and noted that the game explains its rules to newcomers more visually. It criticised parts of the interface and the slow camera[^ref-7].
+
 NPR's review was more critical. It reported bugs, including invading armies that sometimes failed to appear after warnings, and said the updated graphics at times looked more like a modern mobile game than a tribute to the original's pixel art. Even so, it called the game "still a rewarding city-builder"[^ref-8].
 
 ### Modern Assessment
@@ -98,7 +99,7 @@ According to Dotemu CEO Cyrille Imbert, Théophile and Guillaume of Triskell Int
 
 ### Production
 
-Triskell's game designer Théophile Noiré said the team saw little to expand on in Pharaoh. The priorities were quality-of-life features, bug fixes and better accessibility[^ref-14]. The game was programmed by Romain of Seaven Studio, which had ported Triskell's Lethis – Path of Progress to the Switch[^ref-14]. MobyGames credits Noiré as creative director. It also credits further help from EODEstudio, Nolan Games, Seenapsis, Tokiko Studio, Torpenn and Seaven Studio[^ref-23]. The remake was built with all-new code in the Unity engine[^ref-2][^ref-24].
+Triskell's game designer Théophile Noiré said the team saw little to expand on in Pharaoh. The priorities were quality-of-life features, bug fixes and better accessibility[^ref-14]. The game was programmed by Romain of Seaven Studio, which Triskell had worked with on the Switch port of Lethis – Path of Progress[^ref-14]. MobyGames credits Noiré as creative director. It also credits further help from EODEstudio, Nolan Games, Seenapsis, Tokiko Studio, Torpenn and Seaven Studio[^ref-23]. The remake was built with all-new code in the Unity engine[^ref-2][^ref-24].
 
 ### Version History
 
