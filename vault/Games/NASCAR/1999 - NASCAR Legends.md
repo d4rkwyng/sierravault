@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 3 Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-13'
+last_updated: '2026-10-29'
 description: NASCAR Legends is a 1999 Windows racing simulation by Papyrus Design
   Group, published by Sierra Sports, that recreates the 1970 NASCAR Grand National
   season on the NASCAR Racing 3 engine.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 29, 2026</small>
 
 ## Overview
 
@@ -238,7 +238,7 @@ Players on abandonware sites still post compatibility advice and rate the game h
 [^ref-6]: [MobyGames – NASCAR Legends](https://www.mobygames.com/game/1668/nascar-legends/) – critics' average, ESRB, description (NASCAR 2 engine claim), force feedback, track trivia, NASCAR Acceleration Pack
 [^ref-7]: [PriceCharting – NASCAR Legends](https://www.pricecharting.com/game/pc-games/nascar-legends) – release date (Nov 22, 1999), ESRB rating, UPC, collector-market prices
 [^ref-8]: [My Abandonware – NASCAR Legends](https://www.myabandonware.com/game/nascar-legends-dtr) – user ratings, patch 1.0.2.4, user-reported resolution, frame-rate cap and compatibility notes
-[^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization (NASCAR Legends, 1999, PC)
+[^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – lists NASCAR Legends (1999, PC) as a spin-off of the NASCAR saga ("Videojuegos secundarios")
 [^ref-12]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – Papyrus history; NASCAR and IndyCar titles that "consistently pushed the genre forwards"
 [^ref-13]: [Papyrus Design Group – LaunchBox Games Database](https://gamesdb.launchbox-app.com/developers/games/270-papyrus-design-group) – Papyrus catalog; lists NASCAR Legends as released November 20, 1999
 [^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 aero car history, nose cone and rear wing, Dodge Charger Daytona predecessor
