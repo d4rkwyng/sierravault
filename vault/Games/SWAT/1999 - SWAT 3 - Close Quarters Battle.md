@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-01'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a 1999 tactical squad-based first-person
   shooter that moved the Police Quest / SWAT series from adventure games and isometric
@@ -19,15 +19,15 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-SWAT 3: Close Quarters Battle is a tactical squad-based first-person shooter that moved the Police Quest franchise from adventure games and isometric strategy to a first-person tactical simulation; it was the first first-person shooter in the series.[^ref-1] Released in November 1999, the game places players in command of a five-man LAPD SWAT element during a fictional crisis in Los Angeles in the year 2005, where representatives from nations around the world converge to witness the signing of the United Nations Nuclear Abolishment Treaty.[^ref-2][^ref-44] As Lead Programmer Jim Napier explained, "Our goal was to recreate the SWAT experience. We didn't want to simply create another first-person shooter."[^ref-3]
+SWAT 3: Close Quarters Battle is a tactical squad-based first-person shooter that moved the Police Quest franchise from adventure games and isometric strategy to a first-person tactical simulation; it was the first first-person shooter in the series.[^ref-1] Released in November 1999, the game places players in command of a five-man LAPD SWAT element in Los Angeles in the year 2005,[^ref-2][^ref-44] during a fictional crisis in which representatives from nations around the world converge to witness the signing of the United Nations Nuclear Abolishment Treaty.[^ref-10][^ref-23] As Lead Programmer Jim Napier explained, "Our goal was to recreate the SWAT experience. We didn't want to simply create another first-person shooter."[^ref-3]
 
-The game distinguished itself from contemporaries like Rainbow Six by emphasizing police procedure over military tactics, requiring players to have "a deep and abiding reverence for human life and a firm resolve that all possible tactical alternatives be exhausted before employing deadly force."[^ref-4] GameSpot noted that "SWAT 3's most impressive feature has to be the amazing artificial intelligence employed by friend and foe alike."[^ref-5] Eurogamer later said the game "proved to be a surprise hit",[^ref-23] it holds an 84% average on GameRankings,[^ref-22] and it was followed by several expanded editions.[^ref-1]
+The game distinguished itself from contemporaries like Rainbow Six by emphasizing police procedure over military tactics, requiring players to have "a deep and abiding reverence for human life and a firm resolve that all possible tactical alternatives be exhausted before employing deadly force."[^ref-4] GameSpot noted that "SWAT 3's most impressive feature has to be the amazing artificial intelligence employed by friend and foe alike."[^ref-5] Eurogamer later said the game "proved to be a surprise hit",[^ref-23] it held an 84% average on GameRankings,[^ref-22] and it was followed by several expanded editions.[^ref-1]
 
-Developed with extensive consultation from actual LAPD SWAT officers, including Ken Thatcher, a 28-year LAPD veteran who spent 23 of those years with SWAT and served as the game's main consultant, SWAT 3 brought unprecedented authenticity to the tactical shooter genre.[^ref-6][^ref-12] The game rewarded non-violent conflict resolution, with Thatcher noting that "This game will reward you for maybe not shooting someone where a lot of games reward you for going in and shooting people up."[^ref-6]
+SWAT 3 was developed with extensive consultation from actual LAPD SWAT officers, including Ken Thatcher, a 28-year LAPD veteran who spent 23 of those years with SWAT and served as the game's main consultant.[^ref-6][^ref-12] *Computer Gaming World*'s Ken Brown called it "the most convincing first-person simulation of close-quarters battle since RAINBOW SIX: ROGUE SPEAR."[^ref-8] The game rewarded non-violent conflict resolution, with Thatcher noting that "This game will reward you for maybe not shooting someone where a lot of games reward you for going in and shooting people up."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Northwest[^ref-1]
@@ -46,13 +46,13 @@ The narrative of SWAT 3 unfolds over seven intense days in Los Angeles during 20
 
 Throughout the campaign's sixteen missions, players encounter a variety of fictional terrorist groups with diverse motivations.[^ref-11] These include a Kurdish splinter group, a Russian communist organization, and a paranoid American militia—all of whom threaten to disrupt the peace treaty and potentially "nuke L.A."[^ref-11] One early mission involves responding to three days of sniper fire along the Pasadena freeway that have resulted in the deaths of five motorists.[^ref-12] Another briefing opens: "Bank robbery in progress with an officer down."[^ref-12]
 
-The missions take players through Los Angeles locations including the sewer system, the Convention Center and LAX airport;[^ref-4] the Elite Edition later added Chang's Chinese Theater, Hollywood Hills and City of Angels Hospital.[^ref-25] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-13] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14]
+The missions take players through Los Angeles locations including the sewer system, the Convention Center and LAX airport;[^ref-4] the Elite Edition later added Chang's Chinese Theater, Hollywood Hills and City of Angels Hospital.[^ref-25] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-18] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14]
 
 ## Gameplay
 
 ### Interface and Controls
 
-SWAT 3 operates as a first-person tactical simulation where players directly control the element leader while issuing commands to subordinate team members.[^ref-15] The interface allows players to give orders through a comprehensive command system, directing two-man teams to complete various tactical objectives.[^ref-13] GameRevolution noted that "SWAT 3 makes you a cop, not a soldier," emphasizing the distinctive approach to the first-person shooter format.[^ref-16] Unlike typical shooters, "giving commands is as important (or perhaps MORE important) than taking your own shots."[^ref-14]
+SWAT 3 operates as a first-person tactical simulation where players directly control the element leader while issuing commands to subordinate team members.[^ref-15] The interface allows players to give orders through a comprehensive command system, directing two-man teams to complete various tactical objectives.[^ref-18] GameRevolution noted that "SWAT 3 makes you a cop, not a soldier," emphasizing the distinctive approach to the first-person shooter format.[^ref-16] Unlike typical shooters, "giving commands is as important (or perhaps MORE important) than taking your own shots."[^ref-14]
 
 The game features both Mission Mode and Career Mode, allowing players to tackle individual scenarios or progress through a linked campaign.[^ref-2] Players control their element in first-person view, with the ability to systematically search environments or execute breach and clear tactics.[^ref-2] The control scheme utilizes mouse and keyboard input, with console access via Shift + ~ for advanced commands and cheat codes.[^ref-17]
 
@@ -64,13 +64,13 @@ The game offers sixteen missions across three difficulty levels: Easy, Medium, a
 - **Dangerous Arrests:** Apprehending armed suspects while minimizing casualties
 - **Hostage Rescue:** Securing civilians held by hostile forces
 - **VIP Escort:** Protecting dignitaries during high-threat situations
-- **Bomb Tracking:** Locating and neutralizing explosive devices[^ref-13]
+- **Bomb Tracking:** Locating and neutralizing explosive devices[^ref-18]
 
-A key innovation is the randomization system—enemies and hostages are randomly placed before each mission, ensuring different tactical situations on each playthrough.[^ref-16] This prevents players from simply memorizing enemy positions and forces genuine tactical thinking.
+Enemies and hostages are randomly placed before each mission, which GameRevolution said "creates uncertainty and ups the replay value."[^ref-16] *Computer Gaming World* listed "randomly-placed suspects and objectives" among the game's new features.[^ref-8]
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, SWAT 3 challenges players with tactical decision-making under pressure. Proper Close Quarters Battle (CQB) tactics must be employed to survive; "spray-firing with hostages in the map is strictly forbidden."[^ref-18] The game's mechanics emphasize "arresting" rather than killing—as one reviewer described it, "It's not a Shoot-em-up but more like an arrest-em-up."[^ref-19]
+Rather than traditional puzzles, SWAT 3 challenges players with tactical decision-making under pressure. As MobyGames user Mosaic Rhino put it, "Proper CQB tactics must be used to survive in the game, spray-firing with hostages in the map is strictly forbidden."[^ref-18] The game's mechanics emphasize "arresting" rather than killing—as one reviewer described it, "It's not a Shoot-em-up but more like an arrest-em-up."[^ref-19]
 
 Officers' equipment includes C2 breaching charges, flashbangs, CS gas and the Opti-Wand, a miniature video camera on a telescoping wand used to look around corners.[^ref-43] Standard-issue weapons include the H&K MP5 submachine gun, M4A1 carbine, and Benelli 12-gauge tactical shotgun.[^ref-20] The game even features less-than-lethal M4A1 rounds for subduing suspects without killing.[^ref-21]
 
@@ -93,7 +93,7 @@ GamePro reviewer Peter Olafson wrote: "For the most part, Sierra does it right h
 Player reviews on store and database sites are mostly positive. GOG user phanboy4 described it as "One of the finest tactical squad-based sims ever. Easily as good as the (real) Rainbow Six titles."[^ref-4] On MobyGames, user Evil-Jim titled his review "Great game tarnished by shoddy AI," elaborating that "SWAT 3 is most like Ghost Recon placed indoors, that is Rainbow 6 with relaxed realism."[^ref-25] User Kasey Chang called it a "Great tactical sim in desperate need of a technology update," while also praising its "minimal-violence approach" as "refreshing among all the other tactical shooters on the market."[^ref-25]
 
 **Aggregate Scores:**
-- **GameRankings:** 84%[^ref-22]
+- **GameRankings:** 84% (83.76% from 23 reviews, archived 2019)[^ref-22]
 - **Metacritic (Elite Edition):** 81[^ref-26]
 - **MobyGames:** 81% (critics average, 34 ratings)[^ref-18]
 - **IMDB:** 7.7/10 (user rating)[^ref-11]
@@ -126,7 +126,7 @@ Motion capture technology was employed extensively, with most of the game's roug
 
 ### Technical Achievements
 
-The custom game engine employed cell and portal technologies for efficient rendering of indoor environments.[^ref-1] The skeletal animation system supported the extensive motion-captured character movements, allowing for fluid and realistic tactical maneuvers.[^ref-3] The AI system was particularly praised, with GameSpot calling it "the most impressive feature" of the game.[^ref-5]
+The custom game engine employed cell and portal technologies for efficient rendering of indoor environments.[^ref-1] The skeletal animation system supported the extensive motion-captured character movements, allowing for fluid and realistic tactical maneuvers.[^ref-3] The AI system was particularly praised, with GameSpot writing that "SWAT 3's most impressive feature has to be the amazing artificial intelligence employed by friend and foe alike."[^ref-5]
 
 The ballistics system represented a significant technical achievement. IGN declared it would be "the game by which all other realistic shooters are judged when it comes to ballistics."[^ref-20] Bullet penetration physics allowed rounds to pass through certain materials, creating tactical considerations around cover and concealment.
 
@@ -233,13 +233,13 @@ The game spawned multiple enhanced editions:[^ref-1]
 
 **SWAT 3: Elite Edition (October 2000):**[^ref-25]
 - Five additional scenarios: Chang's Chinese Theater, LA Subway, Hollywood Hills, Whitman Airport, City of Angels Hospital
-- Ability to play as a team member rather than element leader
-- Two-element missions with up to 10 officers
-- Multiplayer support via WON.net (Deathmatch and Co-op modes)
+- Ability to play as a team member rather than element leader[^ref-14]
+- Two-element missions[^ref-14]
+- Multiplayer support via WON.net (Deathmatch and Co-op modes)[^ref-23]
 - Mission editor and Software Development Kit
 - Free upgrade available for original SWAT 3 owners
 
-**SWAT 3: Tactical Game of the Year Edition (October 2001):**[^ref-13][^ref-19]
+**SWAT 3: Tactical Game of the Year Edition (October 2001):**[^ref-19][^ref-34]
 - All Elite Edition content
 - Additional missions (27 total across all content)[^ref-4]
 - Advanced Tactics CD featuring training videos shot at Blackwater Training Center
@@ -252,7 +252,7 @@ The official online multiplayer servers hosted on WON.net were shut down on Nove
 
 ### Fan Projects
 
-The game has maintained an active modding community, with Sierra providing development tools including WorldCraft 3, a Scenario Editor, and 3D Studio Max plug-ins for creating custom content.[^ref-31] The Software Development Kit released with the Elite Edition enabled extensive user modifications.[^ref-23] Community members continue to create compatibility fixes like "Last Resort" to keep the game playable on modern systems.[^ref-36]
+The game has maintained an active modding community, with Sierra providing development tools including WorldCraft 3, a Scenario Editor, and 3D Studio Max plug-ins for creating custom content.[^ref-31] Eurogamer's Elite Edition review noted that with the Software Development Kit included in the package, "the door is also wide open for user modifications and new missions for the game."[^ref-23] Community members continue to create compatibility fixes like "Last Resort" to keep the game playable on modern systems.[^ref-36]
 
 ### Related Publications
 
@@ -269,7 +269,7 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 
 **Purchase / Digital Stores**
 - [GOG – SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition)
-- Steam ID: 560370[^ref-39]
+- [Steam – SWAT 3: Tactical Game of the Year Edition](https://store.steampowered.com/app/560370/) (Steam ID 560370)[^ref-39]
 
 **Download / Preservation**
 - [Internet Archive – SWAT 3: Close Quarters Battle Demo](https://archive.org/details/Swat3CloseQuartersBattleDemo)
@@ -304,17 +304,16 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-10]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT_3:_Close_Quarters_Battle) – game opening text, setting, development notes
 [^ref-11]: [IMDB – SWAT 3](https://www.imdb.com/title/tt0487963/) – user rating, terrorist groups, trivia about anachronism
 [^ref-12]: [Prima's Official Strategy Guide (Internet Archive)](https://archive.org/stream/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide_djvu.txt) – mission briefings; ch.19 advisors (Thatcher: 28 years LAPD, 23 with SWAT; 500+ motion-capture actions at House of Moves; Gates as lead advisor); ch.20 interviews (Napier on the engine and the Gabriel Knight 3 resource manager)
-[^ref-13]: Internet Archive – Tactical Game of the Year Edition *(download link removed: the game is sold commercially)* – mission types, version details, Advanced Tactics CD
 [^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, later-edition system requirements, in-game briefing text ("not the judge, jury, and executioner")
 [^ref-15]: [IGN – Holiday Buying Guide 1999](https://www.ign.com/articles/1999/11/15/ignpcs-1999-holiday-buying-guide-action-games) – game description, genre shift from previous titles
 [^ref-16]: [GameRevolution Review](https://www.gamerevolution.com/review/32839-swat-3-close-quarters-battle-review) – review score, gameplay mechanics, randomization system
 [^ref-17]: [CheatCodes.com](https://web.archive.org/web/20221205185558/http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden hotel door, hidden content
-[^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – critics average 81% (34 ratings), German version changes, Police Quest reference, SWAT 4 pre-sell CD
+[^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – official description (five-man team, two-man teams, 16 missions: dangerous arrests, hostage rescue, VIP escort, bomb disarming), critics average 81% (34 ratings), user review by Mosaic Rhino (spray-firing), German version changes, Police Quest reference, SWAT 4 pre-sell CD
 [^ref-19]: [MobyGames – Tactical GOTY Edition](https://www.mobygames.com/game/8998/swat-3-tactical-game-of-the-year-edition/) – user reviews, Advanced Tactics CD shot at Blackwater Training Center
 [^ref-20]: [IGN Review (Archived)](https://web.archive.org/web/20230405102917/https://www.ign.com/articles/1999/12/01/swat-3-close-quarters-battle) – review score, ballistics praise, weapons list
 [^ref-21]: [IMFDB – SWAT 3](https://www.imfdb.org/wiki/SWAT_3:_Close_Quarters_Battle) – weapons details, less-than-lethal rounds
 [^ref-22]: [GameRankings (Archived)](https://web.archive.org/web/20190529190417/https://www.gamerankings.com/pc/198868-swat-3-close-quarters-battle/index.html) – 83.76% average; PC Gamer UK 91, PC Zone UK 89, Electric Playground 9/10
-[^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, "surprise hit", SDK mention, multiplayer modes
+[^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, "surprise hit", 2005 / Nuclear Abolishment Treaty setting, SDK "door is also wide open" remark, WON.net deathmatch and co-op
 [^ref-24]: [CNN Review (Archived)](https://web.archive.org/web/20020602122359/http://www.cnn.com/TECH/computing/9911/22/swat3/) – D. Ian Hopper review
 [^ref-25]: [MobyGames – Elite Edition](https://www.mobygames.com/game/2651/swat-3-close-quarters-battle-elite-edition/) – composer credits, GameSpy award, user reviews, server shutdown, Elite Edition scenarios
 [^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) ([archived copy, October 2023](https://web.archive.org/web/20231012234114/https://www.metacritic.com/game/swat-3-elite-edition/)) – Metascore 81 from 9 critic reviews; multiplayer addition
