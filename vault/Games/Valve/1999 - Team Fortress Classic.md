@@ -10,7 +10,7 @@ series: Team Fortress
 engine: GoldSrc
 protagonist: Various Classes
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Team Fortress Classic is a class-based multiplayer first-person shooter
   developed by Valve and published by Sierra Studios in April 1999 as a free add-on
   for Half-Life, ported from the Quake Team Fortress mod by its original creators.
@@ -18,13 +18,13 @@ tags: [1990s, shooter, sierra, team-fortress]
 ---
 # Team Fortress Classic
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 Team Fortress Classic is a class-based multiplayer first-person shooter developed by Valve Corporation and released in April 1999.[^ref-1] Sierra Studios released it as a free add-on for Half-Life, made by the creators of the original Team Fortress mod for Quake.[^ref-43] Valve had bought the developers and the rights to Team Fortress in 1998.[^ref-2] The game puts two teams against each other in online multiplayer matches, and each player can choose one of nine classes, each with different skills.[^ref-1]
 
-GameSpot's 1999 preview said the original Quake mod "focused on one thing and one thing only – the only way you'll win is by working as a team."[^ref-42] PC Gamer US declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] Sierra's 1999 product page described "a wide variety of character classes--from Medic to Spy to Demolition Man--enlisted in a unique style of online team warfare," wording Valve still uses on the Steam store.[^ref-43][^ref-6]
+GameSpot's 1999 preview said the original Quake mod "focused on one thing and one thing only – the only way you'll win is by working as a team."[^ref-42] PC Gamer US, as reported by Wikipedia, declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] Sierra's 1999 product page described "a wide variety of character classes--from Medic to Spy to Demolition Man--enlisted in a unique style of online team warfare," a phrase the Steam store still uses ("from Medic to Spy to Demolition Man").[^ref-43][^ref-6]
 
 Sierra presented Team Fortress Classic as "a point of reference" for Valve's next full title, Team Fortress 2.[^ref-43] The game was later included in the book *1001 Video Games You Must Play Before You Die*.[^ref-7][^ref-1]
 
@@ -59,17 +59,17 @@ Unlike most deathmatch games of its generation, players in Team Fortress Classic
 
 **Game Modes:**
 
-- **Capture the Flag:** The most popular mode, exemplified by the iconic 2fort map. Teams must steal the enemy flag and return it to their capture point while defending their own.[^ref-12]
+- **Capture the Flag:** The mode TFC is arguably best known for, exemplified by 2fort, the game's most popular map. Teams must steal the enemy flag and return it to their capture point while defending their own.[^ref-12]
 - **Control Point (Territorial Control):** Teams compete to capture and hold strategic locations on the map.[^ref-13]
 - **Assassination/Escort:** One team must protect a VIP (typically a Civilian class player) while the opposing team attempts to eliminate them.[^ref-13]
-- **Attack and Defend:** One team defends objectives while the other attacks within a time limit.[^ref-12]
+- **Attack and Defend:** One team defends a base while the other tries to capture it by bringing a flag to multiple capture points.[^ref-12]
 
 ### Puzzles and Mechanics
 
 Team Fortress Classic's core mechanics revolve around class-based teamwork and objective completion. Each of the nine playable classes offers distinct tactical opportunities:[^ref-14]
 
 - **Scout:** Very fast with light armor, excellent for flag grabbing. Can unmask enemy spies and defuse detpacks on contact.[^ref-14]
-- **Sniper:** Medium speed with a powerful sniper rifle that charges for maximum damage. Best suited for defensive positions.[^ref-15]
+- **Sniper:** Medium speed with a powerful sniper rifle[^ref-15] whose shots must be charged to do maximum damage.[^ref-14] Best suited for defensive positions.[^ref-15]
 - **Soldier:** Heavily armored with rockets, highly versatile. Can perform rocket jumps for mobility.[^ref-14]
 - **Demoman:** Packs more explosive firepower than any other class, with pipe bombs, MIRV grenades, and detpacks.[^ref-16]
 - **Medic:** Fast with regenerative abilities, can heal teammates and infect enemies with airborne disease.[^ref-17]
@@ -85,9 +85,9 @@ The game features unique grenade types for each class, including concussion gren
 
 ### Contemporary Reviews
 
-Team Fortress Classic received strong critical acclaim upon release, with critics praising its innovative class-based gameplay and team-focused design. PC Gamer US awarded it Best Multiplayer Game of 1999, declaring it "more fun and more addictive than any other multiplayer-only title released in 1999."[^ref-1] Computer Gaming World's March 2000 issue (#188) named it Multiplayer Game of the Year: "Once we played the Hunted scenario ... we realized two things. First, Valve is way ahead of the game."[^ref-41][^ref-7]
+Team Fortress Classic received strong critical acclaim upon release, with critics praising its innovative class-based gameplay and team-focused design. PC Gamer US awarded it Best Multiplayer Game of 1999, as reported by Wikipedia, declaring it "more fun and more addictive than any other multiplayer-only title released in 1999."[^ref-1] Computer Gaming World's March 2000 issue (#188) named it Multiplayer Game of the Year: "Once we played the Hunted scenario ... we realized two things. First, Valve is way ahead of the game."[^ref-41][^ref-7]
 
-At E3 1999 the Game Critics Awards for Best Action Game and Best Online Multiplayer went to the sequel then in development, "Team Fortress 2 (PC)", not to TFC.[^ref-20] IGN's release-day news item noted that "a well-coordinated team whose different abilities complement each other should always defeat a disorganized mob."[^ref-21]
+At E3 1999 the Game Critics Awards for Best Action Game and Best Online Multiplayer went to the sequel then in development, "Team Fortress 2 (PC)", not to TFC.[^ref-20] IGN's news item the day before release noted that "a well-coordinated team whose different abilities complement each other should always defeat a disorganized mob."[^ref-21]
 
 ### Modern Assessment
 
@@ -161,7 +161,7 @@ The Cutting Room Floor documents numerous unused assets remaining in the game fi
 | 1.5 | June 8-9, 2000 | Windows | First standalone version, new sounds, weapons, graphics, models, maps[^ref-1] |
 | Steam | September 12, 2003 | Windows | Steam integration[^ref-7] |
 | Mac/Linux | August 12, 2013 | macOS, Linux | Multi-platform release[^ref-1] |
-| 25th Anniversary | 2023 | All | Anniversary update[^ref-9] |
+| Compatibility update | October 2, 2024 | Steam | Rebuilt for client and server for improved compatibility with the Half-Life 25th Anniversary Update[^ref-50] |
 
 **Original Quake Team Fortress Versions** (as listed by the Team Fortress Wiki):[^ref-24]
 
@@ -177,7 +177,7 @@ The Cutting Room Floor documents numerous unused assets remaining in the game fi
 
 ### Technical Issues
 
-Steam updates have occasionally caused compatibility problems with the game. In October 2008, a major Steam update broke AMX Mod X (AMXX) compatibility with Team Fortress Classic servers.[^ref-28] Users reported that the liblist.gam file was replaced during updates, breaking server modifications.[^ref-28] Other reported issues included protocol version mismatches between servers (protocol 47) and clients (protocol 48), Cache_TryAlloc memory errors causing server crashes, and significantly increased CPU usage after updates.[^ref-28]
+Steam updates have occasionally caused compatibility problems with the game. In October 2008, users of the Half-Life dedicated server reported that a Steam update replaced their liblist.gam file; one Team Fortress Classic server owner fixed the problem by restoring a backup of the file.[^ref-28]
 
 A 2002 MobyGames user review noted that "if somebody on the server has a high ping the game will lag pretty bad."[^ref-44] The game's age means modern players may encounter compatibility challenges on contemporary systems.
 
@@ -194,7 +194,7 @@ A 2002 MobyGames user review noted that "if somebody on the server has a high pi
 
 ### Sales and Commercial Impact
 
-Team Fortress Classic was initially distributed free to Half-Life owners.[^ref-10][^ref-43] In February 2001 the Puget Sound Business Journal reported that Valve's "Team Fortress" had sold 2.5 million copies.[^ref-47] The game was distributed through multiple channels, including PC gaming magazine cover discs from publications like PC Zone and Australian PC Authority in June 1999.[^ref-27]
+Team Fortress Classic was initially distributed free to Half-Life owners.[^ref-10][^ref-43] In February 2001 the Puget Sound Business Journal reported that Valve's "Team Fortress" had sold 2.5 million copies.[^ref-47]
 
 In April 2003 GameSpy named Team Fortress Classic alongside Counter-Strike, Day of Defeat and Natural Selection as the mods that kept Half-Life "the most played first-person shooter online."[^ref-46] The game still has a small player base on Steam: monthly average concurrent players ran between about 46 and 55 from October 2025 to September 2026, with an all-time peak of 210.[^ref-30]
 
@@ -226,7 +226,7 @@ Team Fortress Classic's strategy and class guides were extensively documented th
 
 Valve's 1998 purchase of Team Fortress and its developers was the first in a run of acquisitions that Engadget traces through Counter-Strike (2000), Portal's *Narbacular Drop* team, Turtle Rock and *Defense of the Ancients*. Engadget's view of that pattern is critical: it says Valve tends to buy franchises, support them for a while, and then neglect them.[^ref-2]
 
-Josh Bycer of Game Developer described Team Fortress 2 as "one of the most important games released in the industry," and much of that importance stems from foundations laid by Team Fortress Classic.[^ref-39] The class-based design, team-focused objectives, and asymmetric gameplay mechanics pioneered by the original Quake mod and refined in TFC became templates for countless multiplayer shooters.
+Josh Bycer of Game Developer described Team Fortress 2 as "one of the most important games released in the industry."[^ref-39]
 
 Today, the Team Fortress Wiki notes, the game "is not very active": few servers have human players, and bots fill most of them.[^ref-13]
 
@@ -236,11 +236,7 @@ Today, the Team Fortress Wiki notes, the game "is not very active": few servers 
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/20/Team_Fortress_Classic/) - $4.99 USD
-
 **Community Resources**
-- [ModDB](https://www.moddb.com/games/team-fortress-classic) - Downloads and modifications
 - [Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Team_Fortress_Classic) - Comprehensive documentation
 - [Speedrun.com](https://www.speedrun.com/tfc) - Speedrunning leaderboards
 
@@ -285,8 +281,7 @@ Today, the Team Fortress Wiki notes, the game "is not very active": few servers 
 [^ref-24]: [Team Fortress Wiki – Team Fortress (Original)](https://wiki.teamfortress.com/wiki/Team_Fortress) – mod origins, version history, John Cook quote
 [^ref-25]: [Blue's News – Team Fortress Classic Release Date Changes](https://www.bluesnews.com/s/947/team-fortress-classic-release-date-changes) – delay announcement
 [^ref-26]: [PCGamingWiki – Team Fortress Classic](https://www.pcgamingwiki.com/wiki/Team_Fortress_Classic) – technical specifications, version info
-[^ref-27]: [Steam Community – Magazine Cover Disc Documentation](https://steamcommunity.com/sharedfiles/filedetails/?id=2463040363) – distribution history
-[^ref-28]: [AlliedMods Forums – Steam Update Issues](https://forums.alliedmods.net/archive/index.php/t-79403.html) – technical issues, compatibility problems
+[^ref-28]: AlliedMods Forums – Steam Update Issues (forum archive, thread t-79403, October 2008; cited as text only) – liblist.gam file replaced during an update; a TFC server owner restored a backup
 [^ref-30]: [Steam Charts – Team Fortress Classic](https://steamcharts.com/app/20) – monthly average concurrent players and all-time peak (checked 2026-10-14)
 [^ref-31]: [MobyGames – Half-Life Platinum](https://www.mobygames.com/game/2727/half-life-platinum/) – compilation contents
 [^ref-32]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – expanded compilation
@@ -306,3 +301,4 @@ Today, the Team Fortress Wiki notes, the game "is not very active": few servers 
 [^ref-47]: [Puget Sound Business Journal – Small Eastside video game firms plan new offerings (February 16, 2001; archived)](https://web.archive.org/web/20010219200627/http://seattle.bcentral.com/seattle/stories/2001/02/19/focus5.html) – "Team Fortress," which also sold 2.5 million copies
 [^ref-48]: [GamingOnLinux – Team Fortress 2 Classic becomes Team Fortress 2 Classified and arrives January 30 (December 9, 2025)](https://www.gamingonlinux.com/2025/12/team-fortress-2-classic-becomes-team-fortress-2-classified-and-arrives-january-30/) – rename and Steam release date
 [^ref-49]: [GameSpot – Team Fortress Classic Releases (1999)](https://www.gamespot.com/articles/team-fortress-classic-releases/1100-2451542/) – shipped with Half-Life 1.0.0.9 as an 18 MB download, alongside the final SDK
+[^ref-50]: [Steam Community – Team Fortress Classic: October 2, 2024 Update](https://steamcommunity.com/games/20/announcements/detail/4666382742856475397) – "Rebuilt for client and server for improved compatibility with the Half-Life 25th Anniversary Update"
