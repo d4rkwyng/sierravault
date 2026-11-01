@@ -10,16 +10,16 @@ series: Take a Break!
 engine: Proprietary (Windows 3.x)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 composer: [Tom McMail]
 description: Take a Break! Crosswords is a 1992 Windows 3.x crossword game developed
   by Dynamix and N8 Productions and published by Sierra On-Line, with 375 puzzles
-  licensed from Dell Magazines; a 750-puzzle edition followed in 1993–94.
+  licensed from Dell Magazines; a 750-puzzle edition followed by early 1994.
 tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -151,7 +151,7 @@ Compute!'s review of the Deluxe edition mentioned optional 256-color backgrounds
 | Volumes 1 & 2 | reviewed February 1994 | Windows 3.x | 750 puzzles, including the first collection and over twenty specialty puzzles; $49.95 (CGW) / $34.95 (CGR)[^ref-27][^ref-28] |
 | Deluxe | reviewed August 1994 | Windows 3.x | 750 Dell puzzles; $29.95[^ref-29] |
 
-A CD-ROM disc image of the game is preserved at the Internet Archive. Its uploader dated the image 1995[^ref-10].
+A CD-ROM disc image is preserved at the Internet Archive. Its uploader dated the image 1995 and tagged it "volumes 1 & 2", so it is probably the later two-volume CD rather than the 1992 floppy release[^ref-10].
 
 ## Legacy
 
@@ -186,7 +186,7 @@ The game is not sold on any modern digital storefront. No GOG or Steam release w
 [^ref-23]: ["Coming up from Sierra and Dynamix", *InterAction* Vol. V No. 3 (Fall 1992), p. 18](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n17/mode/2up) – "Everything has been done except final beta-testing… packed with 375 puzzles, licensed from Dell Magazines. Planned release is September."
 [^ref-24]: ["Top Ten Games: 10. Take-A-Break! Crosswords", *InterAction* Vol. V No. 4 (Winter 1992), p. 82](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US/page/n82/mode/2up) – "Crosswords features 375 puzzles created by the crossword authority, Dell Magazine… 65-page Crossword dictionary included"
 [^ref-25]: [Randy Chase, "Software Review: Take a Break Crosswords", *The Oregonian*, November 18, 1992, p. 28 (Newspapers.com clipping, Wayback)](https://web.archive.org/web/20250506055719/https://www.newspapers.com/article/the-oregonian/163561823/) – Rating: Good; $49.95; "features 375 puzzles created by Dell Magazines"; holiday-gift quote
-[^ref-26]: ["Crosswords", *Génération 4* (archive.org item "Issue 051", a Christmas 1992 issue), p. 115](https://archive.org/details/generation4-magazine-051/page/n83/mode/2up) – Sierra On-Line, PC; "Un jeu fort sympathique mais en anglais"; Intérêt: 72% (read from the page image; not in the OCR text)
+[^ref-26]: ["Crosswords", *Génération 4* (archive.org item "Issue 051", on sale late December 1992; Wikipedia dates it January 1993), p. 115](https://archive.org/details/generation4-magazine-051/page/n83/mode/2up) – Sierra On-Line, PC; "Un jeu fort sympathique mais en anglais"; Intérêt: 72% (read from the page image; not in the OCR text)
 [^ref-27]: ["Word Puzzles That Interlink (Nine Letters)", *Computer Game Review*, February 1994, p. 34](https://archive.org/details/computer-game-review-and-cd-rom-entertainment-february-1994/page/34/mode/2up) – Volumes 1 & 2: "750 puzzles", "over twenty specialty puzzles", 65-page dictionary; overall rating 79%; mini-reviews by Kevin, Ted and Steve; retail $34.95
 [^ref-28]: ["Take A Break! Crosswords, Volumes I & II", *Computer Gaming World* #115, February 1994, p. 220](https://archive.org/details/Computer_Gaming_World_Issue_115/page/n219/mode/2up) – unsigned blurb: "over 750 puzzles", "an animated faery for a host", "IBM with Windows ($49.95)"
 [^ref-29]: [Scott A. May, "Take a Break! Crosswords Deluxe", *Compute!* #167, August 1994, pp. 105–106](https://archive.org/details/1994-08-compute-magazine/page/105/mode/2up) – "a total of 750 Dell magazine puzzles"; "Get Back to Work! Crosswords"; "resource hog"; $29.95
