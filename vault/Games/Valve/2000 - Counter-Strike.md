@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Player-controlled Terrorist or Counter-Terrorist operatives
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: 'Half-Life: Counter-Strike is a 2000 tactical first-person shooter developed
   by Valve Corporation and published by Sierra Studios, which began life as a free
   Half-Life modification created by Minh Le and Jess Cliffe.'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The gameplay formula proved so compelling that critics widely praised its emphas
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
-> **Designer:** Minh Le, Jess Cliffe[^ref-2]
+> **Designer:** Minh Le, Jess Cliffe[^ref-1]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** GoldSrc[^ref-7]
 > **Platforms:** Windows, Xbox, macOS, Linux[^ref-1]
@@ -53,11 +53,11 @@ The game's weapons are based on real-world firearms and portray their real-world
 
 Counter-Strike utilizes a first-person perspective, with players controlling their operative through keyboard and mouse controls that can be remapped from the game's configuration menu.[^ref-50] The crosshair system provides dynamic feedback on weapon accuracy—it rapidly expands as players fire to indicate decreased precision, with longer trigger holds or faster firing rates causing greater expansion.[^ref-14] This mechanic rewards controlled, accurate shooting over spray-and-pray tactics.
 
-The game features a purchasing system accessed at the beginning of each round through menu interfaces, though experienced players are advised to use hotkeys for faster weapon and equipment acquisition.[^ref-14] Players must manage their limited buy time of 60 seconds to acquire weapons, ammunition, armor, and equipment before each round begins.[^ref-15] The interface also includes a radar system added in later beta versions to help with team coordination.[^ref-16]
+The game features a purchasing system accessed at the beginning of each round through menu interfaces, though experienced players are advised to use hotkeys for faster weapon and equipment acquisition.[^ref-14] Players must manage their limited buy time of 60 seconds to acquire weapons, ammunition, armor, and equipment before each round begins.[^ref-15] The interface also includes a radar; in a March 2000 Eurogamer preview of the forthcoming Beta 6, Minh Le named it as his favorite new feature because it "helps teamplay so much."[^ref-16]
 
 ### Structure and Progression
 
-Counter-Strike matches are structured as round-based competitions where players who die must wait in spectator mode until the next round begins.[^ref-2] This creates high stakes for each life and encourages careful, tactical play rather than reckless aggression. Players are awarded cash during play that is used to buy weapons and gear at the start of each round, and because the winning team earns more than the losing team, there is a great deal of strategy in how a team spends its money.[^ref-3][^ref-5]
+Counter-Strike matches are structured as round-based competitions where players who die must wait in spectator mode until the next round begins.[^ref-1] This creates high stakes for each life and encourages careful, tactical play rather than reckless aggression. Players are awarded cash during play that is used to buy weapons and gear at the start of each round, and because the winning team earns more than the losing team, there is a great deal of strategy in how a team spends its money.[^ref-3][^ref-5]
 
 The game includes several distinct map types, each with different objectives:
 
@@ -84,7 +84,7 @@ IGN gave the game 8.9/10, with reviewer Clayton Wolfe stating that "Never before
 
 GameSpot awarded an 8.4/10, calling it "utterly exciting and addictive" and "a model of its kind and a thrilling action game."[^ref-60] Computer Games Magazine scored it 90/100, describing the experience as "a heart-pounding, visceral experience that gets under your skin" with a very high "just one more round" addiction factor.[^ref-60] Additional high scores included Spank! (90/100), Happy Puppy (90/100), and CPUGamer (90/100), with the latter calling it "a revolutionary modification."[^ref-60]
 
-The Xbox port, released in 2003 and developed by Ritual Entertainment and Turtle Rock Studios, received more mixed reviews with a Metacritic score of 74.[^ref-1][^ref-21] GameSpy called it "possibly the best game currently available for Xbox Live," while GameRevolution gave it only 5/10, noting it "offers little more than its PC counterpart, sorely lacking any notable changes to what is now a pretty old game."[^ref-21][^ref-23]
+The Xbox port, released in 2003 and developed by Ritual Entertainment and Turtle Rock Studios, received more mixed reviews with a Metacritic score of 74.[^ref-1][^ref-21] GameSpy called it "possibly the best game currently available for Xbox Live," while GameRevolution gave it a C+, noting it "offers little more than its PC counterpart, sorely lacking any notable changes to what is now a pretty old game."[^ref-21][^ref-23]
 
 ### Modern Assessment
 
@@ -107,13 +107,13 @@ Counter-Strike's legacy has only grown over time, and Computer Gaming World indu
 
 Counter-Strike's origins trace back to Minh Le's university days in the late 1990s. "About five years ago I was in first year university and Quake came out," Le recalled in a 2001 interview. "I think the SDK was released around that time, and I picked it up."[^ref-28] Before creating Counter-Strike, Le had developed a Quake mod called Navy SEALs that explored similar tactical gameplay concepts, and had also worked on Action Quake 2.[^ref-29][^ref-16] Cliffe later told Computer Gaming World that he was still in high school when they began work on CS, painting houses by day and working on the mod with Le at night.[^ref-61]
 
-Le chose the Half-Life engine specifically for its realistic setting and advanced animation capabilities, including skeletal animation systems and a powerful model format that supported his vision for detailed weapon and character models.[^ref-16] Development began in January 1999, with Le creating early character models approximately six months before the Half-Life SDK was even released.[^ref-28] He spent about 20 hours per week on the project while completing his final semester at university.[^ref-28]
+Le chose the Half-Life engine specifically for its realistic setting and advanced animation capabilities, including skeletal animation systems and a powerful model format that supported his vision for detailed weapon and character models.[^ref-16] Development began around January 1999, but until the Half-Life SDK was released in April of that year, all Le could do was make models.[^ref-29] He spent about 20 hours per week on the project while completing his final semester at university.[^ref-28]
 
 The name "Counter-Strike" was chosen on March 15, 1999, during an ICQ chat between Le and Cliffe from a shortlist that included options like "Counterrorism," "Strike Force," and the tongue-in-cheek "fRAG HEADS."[^ref-30] Cliffe suggested "methinks it's a bit long... I think counter strike is pretty cool," and the name stuck.[^ref-30] The official Counter-Strike website launched on March 24, 1999, initially hosted on PlanetHalfLife.[^ref-30]
 
 ### Production
 
-The first public beta released on June 19, 1999, included nine weapons and three maps: cs_prison, cs_wpndepot, and cs_siege.[^ref-29] Le handled all coding and 3D modeling himself, while Cliffe focused on community management and recruiting mappers.[^ref-28] The initial coding for Beta 1 took approximately 1.5 months, though the character models required 6-7 months of work.[^ref-28]
+The first public beta was released in June 1999 (CS Nation dates it June 18, 1999, while the Counter-Strike.net retrospective says June 19th) and included nine weapons; the maps CS Nation names from it are cs_prison, cs_wpndepot, and cs_siege, though Wikipedia counts four maps in total.[^ref-29][^ref-30][^ref-1] Le handled all coding and 3D modeling himself, while Cliffe focused on community management and recruiting mappers.[^ref-28] The initial coding for Beta 1 took approximately 1.5 months, though the character models required 6-7 months of work.[^ref-28]
 
 "I just wanted to customise the game to fit my vision of what a game should be. First and foremost, it is MY vision," Le explained of his development philosophy.[^ref-29] He described enjoying "working at a snail's pace, and seeing all the pieces fit together."[^ref-29] The game's rapid iteration through multiple beta versions was key to its growth—"The most important thing is if you keep releasing new versions, it keeps the interest going. People tell their friends, and that sort of thing, and it just grows and grows."[^ref-28]
 
@@ -127,6 +127,12 @@ By Beta 5, external studio Barking Dog had joined the development effort; Le sai
 - **Publisher:** Sierra Studios
 - **Additional Development:** Barking Dog Studios (Beta 5+)
 - **Xbox Port:** Ritual Entertainment and Turtle Rock Studios[^ref-1]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Radio Announcements | Jess Cliffe (uncredited)[^ref-26] |
 
 ### Technical Achievements
 
@@ -154,24 +160,24 @@ Beta 6.5 (June 8, 2000) integrated Valve's rewrite of the Half-Life networking s
 
 The team's own first-year retrospective recalls the "Yogurt Cannon," a long-rumoured weapon that was repeatedly promised for the "next beta" but never appeared, and a tongue-in-cheek "leak" of a feature for using hostages as human shields, which "never made it into the game."[^ref-30] Creator Gooseman expressed regret about never finding time to add a revolver, specifically mentioning interest in the Colt Anaconda or Manhurin MR73.[^ref-10]
 
-The Escape scenario mode, which appeared in early beta versions, was eventually removed from official rotation.[^ref-1] Drive-able vehicles briefly appeared in Beta 7.0 but were cut from subsequent versions.[^ref-1] Beta 7.0 also added the maps cs_office, as_highrise, cs_arabstreets, de_foption and de_vegas, plus the vehicle test map de_jeepathon2000.[^ref-33]
+The Escape scenario mode, which appeared in early beta versions, was eventually removed from official rotation.[^ref-1] Drive-able vehicle support was added in Beta 7.0.[^ref-1] Beta 7.0 also added the maps cs_office, as_highrise, cs_arabstreets, de_foption and de_vegas, plus the vehicle test map de_jeepathon2000.[^ref-33]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Beta 1 | June 19, 1999 | PC | First public release, 9 weapons, 3 maps[^ref-29] |
+| Beta 1 | June 18–19, 1999 | PC | First public release, 9 weapons[^ref-29][^ref-30] |
 | Beta 1.1 | 1999 | PC | Added losing team money, improved balance[^ref-29] |
 | Beta 6.5 | June 8, 2000 | PC | Network rework, smoke grenade, map voting[^ref-59] |
 | Beta 7.0 | August 26, 2000 | PC | VGUI menus, new maps, Dual Berettas added[^ref-33] |
 | 1.0 | November 9, 2000 | PC | First retail release[^ref-32][^ref-54] |
 | 1.1 | 2001 | PC | New spectator mode[^ref-1] |
 | 1.3 | 2001 | PC | Voice chat introduced[^ref-1] |
-| 1.4 | 2001 | PC | Anti-cheat measures[^ref-1] |
+| 1.4 | 2002 | PC | Anti-cheat measures (first phase)[^ref-1][^ref-67] |
 | 1.5 | June 12, 2002 | PC | Last update before the move to Steam[^ref-1] |
 | 1.6 | September 12, 2003 | PC | Released via Steam, VGUI2 interface[^ref-1] |
 | Xbox | November 18, 2003 | Xbox | Console port by Ritual Entertainment and Turtle Rock Studios[^ref-36][^ref-1] |
-| Mac/Linux | January 25, 2013 | Mac/Linux | Native ports via Steam[^ref-7] |
+| Mac/Linux | January 25, 2013 (PCGamingWiki); February 14, 2013 (Steam update) | Mac/Linux | Native ports via Steam; sources disagree on the date[^ref-7][^ref-68] |
 
 **Retail Patch Dates:**[^ref-37]
 | Version | Date |
@@ -197,19 +203,13 @@ Cheating became a significant problem, with players discovering ways to turn inv
 
 Eurogamer reported in 2000 that on most days more people played Counter-Strike online than Quake 3 Arena or Unreal Tournament, even though it was a free mod.[^ref-16] German magazine GameStar reported that between 100,000 and 200,000 people were playing Counter-Strike at any time on more than 10,000 servers worldwide, according to GameSpy's statistics.[^ref-11]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Radio Announcements | Jess Cliffe (uncredited)[^ref-26] |
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Counter-Strike became the first fan-made video game to be released commercially. Its global retail sales passed 250,000 units by July 2001 and 1.3 million by October 2002, reaching 1.5 million units and $40 million in revenue by February 2003.[^ref-1] Computer Gaming World's December 2003 issue reported that the game had "sold more than 1.5 million copies in boxed form, even though you can download the same thing for free."[^ref-61] As of December 2008 Counter-Strike had sold approximately 4.2 million copies.[^ref-1] GameStar reported that Counter-Strike and Counter-Strike: Source together had sold around 9 million copies at retail by the end of 2008.[^ref-11] Gearbox Software's page for the game describes it as "the number one played online action game built as an add-on for Half-Life."[^ref-42]
+Wikipedia, citing a 2005 University of Tampere study of modding, describes Counter-Strike as the first fan-made video game to be released commercially.[^ref-1] Computer Gaming World's July 2001 issue reported 250,000 retail copies sold since the November 2000 release.[^ref-65] Wikipedia gives global retail sales of 1.3 million by October 2002, reaching 1.5 million units and $40 million in revenue by February 2003.[^ref-1] Computer Gaming World's December 2003 issue reported that the game had "sold more than 1.5 million copies in boxed form, even though you can download the same thing for free."[^ref-61] Valve's own lifetime retail estimates, reported by Gamasutra in December 2008, put Counter-Strike at 4.2 million units, with Condition Zero at 2.9 million and Counter-Strike: Source at 2.1 million.[^ref-66] GameStar reported that Counter-Strike and Counter-Strike: Source together had sold around 9 million copies at retail by the end of 2008;[^ref-11] that figure matches Valve's numbers only if Condition Zero is included (4.2 + 2.9 + 2.1 = 9.2 million), which is our inference, not GameStar's statement.[^ref-66] Gearbox Software's page for the game describes it as "the number one played online action game built as an add-on for Half-Life."[^ref-42]
 
-Counter-Strike also became a cornerstone of early e-sports. GameStar reported that the best Counter-Strike team at the World Cyber Games in Cologne received $50,000.[^ref-11] E-Sports Entertainment launched what appears to be the first fantasy e-sports league in 2004, built around Counter-Strike competition.[^ref-9]
+Counter-Strike also became a cornerstone of early e-sports. GameStar reported that the best Counter-Strike team at the World Cyber Games in Cologne received $50,000.[^ref-11] A 2006 New York Times Magazine piece noted the emergence of "fantasy" leagues, like those attached to baseball or football, "built around computer-game competitions," with Counter-Strike as its example of a game with a sport-like contest.[^ref-9]
 
 ### Awards
 
@@ -239,7 +239,7 @@ In Germany, Counter-Strike became embroiled in the "Killerspiele" (killer games)
 The Counter-Strike franchise expanded significantly after the original:
 
 - **Counter-Strike: Condition Zero** (2004): Single-player focused sequel developed by multiple studios including Gearbox Software, Ritual Entertainment, and Turtle Rock Studios[^ref-45]
-- **Counter-Strike: Source** (2004): Complete remake using Valve's new Source engine, released on Steam on October 7, 2004, while Valve's legal dispute with Vivendi was still under way[^ref-46][^ref-64]
+- **Counter-Strike: Source** (2004): Complete remake using Valve's new Source engine, released on Steam on October 7, 2004[^ref-46][^ref-64]
 - Later entries, Counter-Strike: Global Offensive (2012) and Counter-Strike 2 (2023), fall outside the Sierra-published era covered here.[^ref-7]
 
 ### Fan Projects
@@ -252,14 +252,11 @@ Community efforts have preserved online play functionality. The Insignia project
 - **GameSpot Counter-Strike Game Guide**: Comprehensive strategy guide covering weapon mechanics, map strategies, and gameplay tips[^ref-14]
 - **S.A.S's Guide to Counter Strike**: Community-created guide covering tactical basics and equipment management[^ref-15]
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike)
-
 ## Downloads
 
 **Purchase / Digital Stores**
 - [Steam – Counter-Strike](https://store.steampowered.com/app/10/) - Official digital release
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike)
 
 **Manuals & Extras**
 - [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) - Digitized original manual
@@ -295,7 +292,7 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-18]: [Planet Half-Life Guide (Archived)](https://web.archive.org/web/20010128164500/http://www.planethalflife.com/cs/guide/overview.shtm) – map types, gameplay overview
 [^ref-20]: [IGN – Counter-Strike Review](https://www.ign.com/articles/2000/11/23/counter-strike-2) – review score, retail package contents
 [^ref-21]: [Metacritic – Counter-Strike (Xbox)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=xbox) – Xbox port reviews
-[^ref-23]: [GameRevolution – Counter-Strike Xbox Review](https://www.gamerevolution.com/review/34257-counter-strike-review-2) – Xbox port criticism, developer info
+[^ref-23]: [GameRevolution – Counter-Strike Xbox Review](https://www.gamerevolution.com/review/34257-counter-strike-review-2) – Xbox port criticism, developer info; archived copy: [GameRevolution Xbox review (Wayback, 2006)](https://web.archive.org/web/20060313023112/http://gamerevolution.com/review/xbox/counter-strike) – reviewer Shawn_Sanders, Report Card grade C+
 [^ref-24]: [Rambusch, Jakobsson & Pargman – "Exploring E-sports: A Case Study of Gameplay in Counter-strike," DiGRA 2007](https://dl.digra.org/index.php/dl/article/download/293/293) – Situated Play, Proceedings of DiGRA 2007; 280,000 simultaneous players, e-sport study
 [^ref-25]: [MobyGames – User Reviews](https://www.mobygames.com/game/2726/half-life-counter-strike/reviews/) – player perspectives, ratings
 [^ref-26]: [IMDb – Half-Life: Counter-Strike](https://www.imdb.com/title/tt0275393/) – voice cast, user ratings
@@ -311,7 +308,7 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-37]: [MobyGames – Patch History](https://www.mobygames.com/game/2726/half-life-counter-strike/patches/) – patch version dates
 [^ref-39]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – compilation contents, Spanish localization issues
 [^ref-42]: [Gearbox Software – Half-Life: Counter-Strike](https://web.archive.org/web/20170630013307/http://www.gearboxsoftware.com/game/half-life-counter-strike/) – official package description (archived 2017); note: this 2017 page lists Gearbox Software as developer and Valve Software as publisher, but Sierra Studios published the 2000 retail release and this page credits Valve as developer (see ref-1, ref-32)
-[^ref-43]: [Escapist Magazine – Brazil Bans Counter-Strike](http://www.escapistmagazine.com/news/view/80757-Brazil-Bans-Counter-Strike-EverQuest) – legal controversy
+[^ref-43]: [Escapist Magazine – Brazil Bans Counter-Strike (Archived)](https://web.archive.org/web/20140407100734/http://www.escapistmagazine.com/news/view/80757-Brazil-Bans-Counter-Strike-EverQuest) – legal controversy (Andy Chalk, January 21, 2008)
 [^ref-44]: [Schnittberichte – Counter-Strike German Versions](https://www.schnittberichte.com/schnittbericht.php?ID=923471) – German controversy, BPjS decision, censorship
 [^ref-45]: [Polygon – Condition Zero Linux Release](https://www.polygon.com/2013/3/6/4072666/counter-strike-condition-zero-now-available-linux-steam) – sequel developers
 [^ref-46]: [Sierra Chest – Counter-Strike](https://sierrachest.com/index.php?a=games&id=60&fld=general) – Source remake, Vivendi dispute
@@ -319,8 +316,12 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-50]: [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) – original documentation; system requirements p. 4, tutorial p. 5
 [^ref-54]: [Shacknews – Counter-Strike v1.0](https://www.shacknews.com/article/10411/counter-strike-v10) – release announcement
 [^ref-59]: [Counter-Strike.net – News Archive, June 2000 (Archived)](https://web.archive.org/web/20010405142131/http://www.counter-strike.net/haxornews/june2000.html) – official Beta 6.5 changelog (June 8, 2000)
-[^ref-60]: [Metacritic – Counter-Strike (PC)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores
+[^ref-60]: [Metacritic – Counter-Strike (PC) (Archived)](https://web.archive.org/web/20251022122505/https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores (live page returns 404)
 [^ref-61]: [Computer Gaming World #233 (December 2003), "The Creators of Counter-Strike," p. 107](https://archive.org/details/computer-gaming-world-issue-233-december-2003) – 1.5 million boxed copies sold, Jess Cliffe interview
 [^ref-62]: [Computer Gaming World #220 (November 2002), Hall of Fame, p. 110](https://archive.org/details/Computer_Gaming_World_Issue_220) – Counter-Strike inducted into the CGW Hall of Fame
 [^ref-63]: [Amazon – Half-Life: Counter-Strike (PC)](https://www.amazon.com/Half-Life-Counter-Strike-pc/dp/B000066B42) – manufacturer's product description
 [^ref-64]: [Steam News - Half-Life 2 Steam Offers Ready Now (Wayback)](https://web.archive.org/web/20050208205808/http://www.steampowered.com/index.php?area=news&archive=yes&id=327) – Valve, October 7, 2004: "Those who purchase via Steam, will receive the final version of Counter-Strike: Source immediately"
+[^ref-65]: [Computer Gaming World #204 (July 2001), "Army of One"](https://archive.org/details/Computer_Gaming_World_Issue_204) – "250,000 Number of retail versions of Counter-Strike sold since it was released in November 2000"
+[^ref-66]: [Gamasutra – Analysis: Valve's Lifetime Retail Sales For Half-Life, Counter-Strike Franchises (Archived)](https://web.archive.org/web/2010/http://www.gamasutra.com/php-bin/news_index.php?story=21319) – December 3, 2008; Valve's retail estimates: Counter-Strike 4.2 million, Condition Zero 2.9 million, Source 2.1 million
+[^ref-67]: [CS-Nation – Steam Update, February 26, 2002 (Archived)](https://web.archive.org/web/20020605065615/http://csnation.counter-strike.net/comments.php?id=4065) – "The first phase of Anti-Cheating is now implemented and integrated into CS 1.4" (beta-tester email from Valve)
+[^ref-68]: [Steam News – Counter-Strike 1.6 update released, February 14, 2013](https://store.steampowered.com/news/app/10/view/2904214312357638787) – Valve: "Converted Counter-Strike 1.6 to the new SteamPipe content system" and "Added support for Mac OS X and Linux operating systems" (text read via Steam's news feed API)
