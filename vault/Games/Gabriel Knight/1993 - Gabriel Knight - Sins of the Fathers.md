@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-01'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -184,7 +184,8 @@ No significant cut content has been documented in available research.
 | Budget Re-release | 1996 | MS-DOS | SierraOriginals budget re-release[^ref-45] |
 | Brazil Release | July 1997 | MS-DOS | Brazilian release[^ref-45] |
 | GOG Release | January 28, 2010 | Windows | Digital re-release via GOG.com[^ref-52] |
-| 1.1 | April 23, 2018 | Windows | Current GOG version[^ref-52] |
+| 1.1 | April 23, 2018 | Windows | GOG build[^ref-52] |
+| 1.1 (GOG v2) | October 29, 2026 | Windows | Added to the GOG Preservation Program: DOS version on DOSBox and Windows version on ScummVM with a launcher, cloud saves, subtitles on by default[^ref-68] |
 
 Jimmy Maher's history gives a ship date of November 24, 1993;[^ref-5] MobyGames, PCGamingWiki and Wikipedia give December 17, 1993.[^ref-45][^ref-13][^ref-2]
 
@@ -255,6 +256,7 @@ The game has two endings, decided by the player's choice in the final confrontat
 
 ### Modern Compatibility
 - **ScummVM**: The GOG release comes pre-packaged with ScummVM[^ref-13]
+- **GOG Preservation Program**: Since October 29, 2026, GOG's build includes both the DOS version (DOSBox, booting in VGA) and the Windows version (ScummVM, SVGA), with a launcher to choose between them, the GOG Game Configurator and cloud saves[^ref-68]
 - **DOSBox**: The "Gabriel Knight 1 CD DOSBox Installer" bundles all official Sierra patches and the NewRisingSun timer-bug patch[^ref-9]
 - **Note**: Windows 3.x version does not work on 64-bit Windows[^ref-13]
 
@@ -363,6 +365,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 
 **Manuals & Extras**
 - Manual PDF (36 pages) included with GOG release[^ref-20]
+- Since October 2026, GOG's goodies also include the Gabriel Knight: Sins of the Fathers graphic novel, the making-of documentary and the original trailer[^ref-68]
 
 ## See Also
 
@@ -422,3 +425,4 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-65]: [Steam – Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/495700/) — Original game's store listing: developer Sierra On-Line, publisher Activision, release date Dec 17, 1993
 [^ref-66]: [IMDb – Gabriel Knight: Sins of the Fathers (archived September 2026)](https://web.archive.org/web/20260925014345/https://www.imdb.com/title/tt0109865/) — IMDb rating 8.9/10 from 827 ratings
 [^ref-67]: [GameRankings – Gabriel Knight: Sins of the Fathers (archived 2009)](https://web.archive.org/web/20090207143808/http://www.gamerankings.com/htmlpages2/562666.asp?q=gabriel%20knight) — "Avg Ratio: 93% Based On 5 Media Outlets"
+[^ref-68]: [GamingOnLinux – Five more classics join the GOG Preservation Program](https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/) — Liam Squires-Hand, October 30, 2026; GOG v2 changelog for Gabriel Knight: Sins of the Fathers 1.1 (October 29, 2026): DOS version on DOSBox, Windows version on ScummVM, launcher, cloud saves, subtitles on by default, graphic novel, making-of documentary and trailer as goodies
