@@ -8,10 +8,10 @@ publisher: Sierra On-Line
 genre: Real-Time Strategy
 platforms: [DOS]
 series: Standalone
-engine: Proprietary (Ybarra Productions)
+engine: Unknown
 protagonist: Captain of UNS Calypso
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Alien Legacy is a 1994 science fiction real-time strategy game for DOS, developed
   by Ybarra Productions under producer Joe Ybarra and published by Sierra On-Line, in which the
   captain of the seedship UNS Calypso colonizes the Beta Caeli system.
@@ -19,13 +19,13 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 Alien Legacy is a science fiction real-time strategy game published by Sierra On-Line in 1994, developed by Ybarra Productions under producer Joe Ybarra[^ref-1][^ref-10], whom period coverage introduced as "the creator of Starflight and Yserbius"[^ref-32]. The game combines elements of city construction, research, resource management, industrial production, and combat as players attempt to colonize the Beta Caeli star system, which the manual places "over 55 light-years from Earth"[^ref-7][^ref-10]. Game Bytes summed it up as "a combination of Sim City and Starflight"[^ref-21], and Sierra's own InterAction magazine called it "kind of like building multiple SimCities with all the disasters enabled and the difficulty level set on high"[^ref-33]. Players manage colonies while unraveling the mystery of what happened to a previous human expedition[^ref-10].
 
-Set in a future where humanity faces extinction following an alien attack, Alien Legacy puts players in command of the seedship UNS Calypso, carrying some 5,000 colonists[^ref-1]. The game is played in real-time with adjustable speed, where two game rounds represent one month of in-game time[^ref-1][^ref-5]. The original floppy release was badly bugged — one MobyGames reviewer called it "a game that toyed with greatness, but was gutted by bugs"[^ref-1] — yet it kept a devoted following who praise its atmosphere, plot, and ambitious scope[^ref-13][^ref-23].
+Set in a future where humanity faces extinction following an alien attack, Alien Legacy puts players in command of the seedship UNS Calypso, carrying 2,000 settlers in cryogenic hibernation[^ref-10]. The game is played in real-time with adjustable speed, where two game rounds represent one month of in-game time[^ref-1][^ref-5]. The original floppy release was badly bugged — one MobyGames reviewer called it "a game that toyed with greatness, but was gutted by bugs"[^ref-1] — yet it kept a devoted following who praise its atmosphere, plot, and ambitious scope[^ref-13][^ref-23].
 
 > [!info]- Game Info
 > **Developer:** Ybarra Productions, Inc.[^ref-1]
@@ -34,7 +34,7 @@ Set in a future where humanity faces extinction following an alien attack, Alien
 > **Team Leader:** Andy Riedel[^ref-10]
 > **Composers:** Biard MacGuineas, Steve Baker[^ref-10]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Proprietary (Ybarra Productions)[^ref-7]
+> **Engine:** Unknown (audio: AIL/Miles Sound System)[^ref-1]
 > **Platforms:** MS-DOS[^ref-1]
 > **Release Year:** 1994[^ref-1]
 > **Series:** Standalone
@@ -50,7 +50,7 @@ In 2119, fearing extinction, Earth launched gigantic Odessa-class seedships desi
 
 The player awakens from cryogenic sleep as captain of the Calypso, freshly arrived at the Beta Caeli system[^ref-10]. There is no sign of the Tantalus, only past radio transmissions and a few key advisers to help colonize this unfamiliar solar system[^ref-1]. Sierra's advertising set the tone: "You're not the first human to battle the ancient alien legacy. But if you lose, you'll be the last."[^ref-35] The box text adds: "The silent planets of a distant sun glimmer and swirl before you. Trillions of miles behind are the shattered remnants of Earth."[^ref-11]
 
-As the game progresses, players must explore planets and moons to discover viable colony sites while uncovering the mystery of what happened to the Tantalus expedition[^ref-10]. The clichéd plot at the start soon evolves into an interesting mix of alien espionage, mysteries, and intergalactic conflicts[^ref-13]. After approximately 2,000 rounds of peaceful colonization, an unknown foe emerges and players must fight for humanity's survival[^ref-1][^ref-5].
+As the game progresses, players must explore planets and moons to discover viable colony sites while uncovering the mystery of what happened to the Tantalus expedition[^ref-10]. Home of the Underdogs' review, reproduced on MyAbandonware, says: "The cliche plot at the start soon evolves into an interesting mix of alien espionage, mysteries, and intergalactic conflicts"[^ref-13]. After approximately 2,000 rounds of peaceful colonization, an unknown foe emerges and players must fight for humanity's survival[^ref-1][^ref-5].
 
 ## Gameplay
 
@@ -68,9 +68,9 @@ The game unfolds in three distinctive phases:[^ref-1][^ref-5]
 - **Colony Management:** Building and maintaining individual colony sites with specific building placement and resource balancing
 - **Planetary Exploration:** Searching planets and moons sector by sector, chosen from a world map and explored in a 3D view[^ref-1]
 
-The Beta Caeli system mirrors our own Solar System, with planets named after Greek deities rather than Roman ones[^ref-7]. The manual's worlds include the starting planet Gaea, the second Earth-like world Rhea, Hermes, and the gas giants Zeus, Cronus and Poseidon[^ref-10]; Wikipedia's fuller list adds the moon Prometheus, the desert planet Ares, the moons Hera, Hebe and Thetis, the minor planet Hades, and the Alpha and Beta asteroid belts[^ref-7]. Each location offers different colonization opportunities and challenges.
+The Beta Caeli system mirrors our own Solar System, with planets named after Greek deities rather than Roman ones[^ref-7]. The Calypso starts the game at Gaea[^ref-10]. Wikipedia's list of the system's worlds describes Gaea and Rhea as Earth-like planets, Hermes as a rocky planet, Zeus, Cronus and Poseidon as gas giants, and adds the moon Prometheus, the desert planet Ares, the moons Hera, Hebe and Thetis, the minor planet Hades, and the Alpha and Beta asteroid belts[^ref-7]. Each location offers different colonization opportunities and challenges.
 
-Time-limited objectives create urgency throughout the game. For example, at the beginning, players must establish a self-sufficient colony on Gaea (with at least one habitat, power plant, and factory) or face dire consequences—the science advisor will kill the player for incompetence and take over command[^ref-7][^ref-2]. Multiple endings exist depending on player decisions and success in various objectives[^ref-3].
+Time-limited objectives create urgency throughout the game. For example, at the beginning, players must establish a self-sufficient colony on Gaea (with at least one habitat, power plant, and factory) or face dire consequences—the science advisor will kill the player for incompetence and take over command[^ref-7][^ref-2]. The manual says the game has "many endings to its story", with few paths leading to victory[^ref-10].
 
 ### Puzzles and Mechanics
 
@@ -80,7 +80,7 @@ Research plays a central role, powered by research points distributed across cat
 
 A Reddit strategy guide reports a maximum of 150 vehicles, a starting fleet of 4 small ships, and an initial cargo capacity of 30 units per ship[^ref-17]. The same guide says space travel time is calculated by tracing a straight line between origin and destination and dividing by ship speed, a model it calls "completely wrong"[^ref-17]. Planets do move along their orbits in real time, so a first-generation ship on Gaea cannot reach Rhea when Rhea is on the far side of the sun[^ref-10][^ref-21]. The TV Tropes entry counts a cap of around 40 simultaneous colony platforms against 77 colonizable spots[^ref-9].
 
-According to a VOGONS forum thread, the Biota attack—a major plot event—is triggered when players exceed 29 habitats anywhere in the system; if fewer than 30 habitats exist, attacks begin automatically on turn 2,000[^ref-19].
+According to a VOGONS forum thread, the Biota attack—a major plot event—is triggered (according to one forum user) when players exceed 29 habitats anywhere in the system; if fewer than 30 habitats exist, attacks begin automatically on turn 2,000[^ref-19].
 
 ## Reception
 
@@ -105,9 +105,9 @@ MobyGames user "Afterburner" wrote in 2001 that the game "made me feel like I re
 The game maintains a devoted cult following decades after release. Amazon customer reviews show **4.8 out of 5 stars** from six ratings[^ref-22], with one reviewer calling it a "sterling example of a single-player sci-fi game of the 90's, when the genre was in full blossom"[^ref-22]. Another stated "The game is 10 years old now and still brilliant. The plot of this game is absolutely fascinating"[^ref-22]. A GOG.com community wishlist entry for the game has garnered 225 votes, with fans describing it as "a masterpiece of a game" and "my favorite PC game of all time"[^ref-23].
 
 **Aggregate Scores:**
-- **MobyGames Critics Average:** 80%[^ref-1]
+- **MobyGames Critics Average:** 79% (26 ratings, as of November 2026)[^ref-1]
 - **AbandonwareDOS:** 3.85/5.00 (73 votes)[^ref-3]
-- **MyAbandonware:** 4.45/5 (50 votes)[^ref-13]
+- **MyAbandonware:** 4.47/5 (52 votes, as of November 2026)[^ref-13]
 - **OldGames.sk:** 80%[^ref-24]
 - **Amazon:** 4.8/5 stars[^ref-22]
 - **GameFAQs User Rating:** "Great" (24 ratings)[^ref-11]
@@ -130,12 +130,15 @@ Sierra released one patch, v1.01 (December 1994), for the floppy version only. M
 - **Designers:** Scot Amos, Michael E. Moore, Rich Waters
 - **Programmers:** Mike McAulay, Jeffrey McArthur, Andy Riedel, Roy Eltham
 - **Art Director:** Mark Dickenson
+- **Audio Engineering:** Biard MacGuineas
 - **Music and Sound:** Biard MacGuineas, Steve Baker
+- **Art and Animation:** Fred Butts, M. S. Dunhour, Botu Green, Brian E. Kumanchik, Donna Taylor, Jean Xiong
+- **Test Manager:** Tawn Rice
 - **Quality Assurance (Dynamix):** Dave Steele (manager), Dan Hinds (lead tester)
 
 ### Technical Achievements
 
-Alien Legacy used the AIL/Miles Sound System for audio[^ref-1]. The manual recommends a Sound Blaster, AdLib, or PAS sound card[^ref-10]; Game Bytes' review also listed AdLib Gold, Sound Blaster Pro, and Roland support[^ref-21]. The soundtrack comprises 49 music files totaling 35 MB and 38 minutes 39 seconds of audio[^ref-26].
+Alien Legacy used the AIL/Miles Sound System for audio[^ref-1]. The manual recommends a Sound Blaster, AdLib, or PAS sound card[^ref-10]; Game Bytes' review also listed AdLib Gold, Sound Blaster Pro, and Roland support[^ref-21]. A fan rip of the soundtrack on KHInsider lists 49 files totaling 35 MB and 38 minutes 39 seconds, many of them in pairs of matching length (such as M3T00 and M3T00G)[^ref-26].
 
 The planetary exploration segments use 3D fractal landscape rendering[^ref-14]. Planets move along their orbital paths in real time[^ref-21], so journeys have to account for the worlds' relative orbital positions[^ref-10].
 
@@ -163,7 +166,7 @@ The planetary exploration segments use 3D fractal landscape rendering[^ref-14]. 
 
 **Floppy Version:**[^ref-1]
 - **Media:** 3.5" Floppy Disks
-- **Audio:** No digitized voices
+- **Audio:** Music and sound effects; advisor voices were added with the CD-ROM version
 - **Notes:** Better cinematics and music quality than CD version according to some players[^ref-13]
 
 ### Version History
@@ -173,7 +176,7 @@ The planetary exploration segments use 3D fractal landscape rendering[^ref-14]. 
 | 1.00 | 14 May 1994 | DOS Floppy | US release[^ref-1]; Pelit's review copy was labelled "betaversio 1.00"[^ref-20] |
 | 1.01 | December 1994 | DOS Floppy | Single patch, floppy version only[^ref-1] |
 | 1.10 | 22 March 1995 | DOS CD-ROM | US CD-ROM release with advisor voices[^ref-1]; a mail-order ad in the October 1994 Computer Game Review already listed an "Alien Legacy CD"[^ref-32] |
-| Sierra Originals | 1996 | DOS CD-ROM | Budget re-release of the CD version[^ref-1] |
+| Sierra Originals | 1996 | DOS CD-ROM | Re-release of the CD version[^ref-1]; MobyGames trivia calls it a 1995 release[^ref-1] |
 
 **Save Compatibility:**[^ref-27]
 - CD-ROM version can load floppy version saves
@@ -186,10 +189,10 @@ Alien Legacy was notoriously buggy at release, with issues that significantly im
 
 - **Game-breaking bugs:** "Major show-stopping, game-killing bugs" including crashes at the finale[^ref-1]
 - **Time system bugs:** Time was supposed to stop during certain phases but didn't[^ref-1]
-- **Save corruption:** Save files could become corrupted, particularly on floppy disks[^ref-16]
+- **Save corruption:** The 1995 FAQ's author blamed some of his "weird errors" on a save file that became corrupted while on a floppy carried between work and home, an anecdote rather than a documented floppy bug[^ref-16]
 - **Mission scripting bugs:** Failed mission triggers and contradictory advisor behavior[^ref-6]
-- **Random crashes:** Pressing ESC too rapidly could trigger errors[^ref-16]
-- **Shuttle bugs:** "Shuttles stuck forever" reported as common occurrence[^ref-19]
+- **Weird errors:** The same FAQ passes on hearsay: "Somebody else said they got this error by pressing the [esc] key too much, or at inopportune moments"[^ref-16]
+- **Shuttle bugs:** One VOGONS poster wrote that "crashes/bugs (like shuttles stuck forever) are part of the game"[^ref-19]
 - **Mass driver bug:** Using mass driver to send ore to space station around alien world causes permanent crash[^ref-13]
 - **Colony limit bug:** Building too many colonies causes data overwrite and permanent crash[^ref-13]
 - **Turn on leaving exploration:** An RPG Codex Let's Play found that a turn always passes when leaving the planetary exploration screen, a feature that "seems to be at least partially bugged"[^ref-28]
@@ -207,15 +210,22 @@ DOSBox compatibility issues include CD copy protection detection problems requir
 
 ### Multiple Endings
 
-The game features multiple endings based on player performance and decisions throughout the campaign[^ref-3]. Key variables affecting the ending include:
+The manual's closing chapter, "The End", states: "Alien Legacy has many paths, and many endings to its story: few paths lead to victory."[^ref-10] When "the fate of your colonies is sealed (for better or worse)", the Mission Summary screen shows the captain's overall achievements; a successful mission is also scored and given a victory level, while "There is only one way to lose: disastrously."[^ref-10] The manual adds that "there are several very different ways to successfully complete the mission", and that saved games can be used to "explore these alternate endings"[^ref-10].
 
-- **Colony Survival:** Whether self-sufficient colonies are established
-- **Mystery Resolution:** Success in uncovering the fate of the Tantalus
-- **Alien Conflict:** Outcome of battles against the alien threat
-- **Research Progress:** Discovery of Faster Than Light (FTL) travel technology[^ref-12]
-- **Timeline:** Completing objectives before time limits expire
+Victory is scored from the state of the colonies: 50 points per planetside colony, 80 per space station, 1 to 6 points per installation depending on type, points for stockpiled resources and vehicles, and 10 points per invention. Cinematics triggered are shown on the Mission Summary but earn no points[^ref-10]. The manual's scoring levels are:
 
-One player reported not achieving a "good ending" until 2011 despite playing since childhood[^ref-3], indicating the difficulty of optimal outcomes.
+| Result | Points |
+|---|---|
+| Disastrous Loss | Not a victory ("Everybody dies") |
+| Marginal Victory | 0-1,000 |
+| Tactical Victory | 1,001-2,000 |
+| Grand Tactical Victory | 2,001-3,500 |
+| Operational Victory | 3,501-5,500 |
+| Grand Operational Victory | 5,501-8,000 |
+| Strategic Victory | 8,001-12,000 |
+| Grand Strategic Victory | 12,001 and up |
+
+After a victory the player may keep playing and saving, but this does not change the score or outcome[^ref-10]. One AbandonwareDOS commenter reported not achieving a "good ending" until 2011 despite playing since childhood[^ref-3].
 
 ## Legacy
 
@@ -223,11 +233,11 @@ One player reported not achieving a "good ending" until 2011 despite playing sin
 
 Specific sales figures are not available. Alien Legacy and Sierra's own space-colony game Outpost were both featured as new releases in the Fall 1994 InterAction[^ref-33]. Critics measured it against that game from the start: Computer Game Review told readers burned by Outpost to "put your fears aside"[^ref-32], and PC Zone called it "a bit like Outpost without the pretty bits"[^ref-34]. Home of the Underdogs' review, reproduced on MyAbandonware, later called it "light-years better than the its overhyped cousin Outpost"[^ref-13].
 
-The game saw multiple releases including the initial 1994 floppy version, the CD-ROM version with voice acting, and a Sierra Originals budget re-release[^ref-1].
+The game saw multiple releases including the initial 1994 floppy version, the CD-ROM version with voice acting, and a Sierra Originals re-release[^ref-1].
 
 ### Collections
 
-- **Sierra Originals (1996):** Budget re-release of the CD-ROM version[^ref-1]
+- **Sierra Originals (1996):** Re-release of the CD-ROM version[^ref-1]
 
 The game is absent from modern digital distribution platforms, with a GOG.com community wishlist entry accumulating 225 votes from fans hoping for an official re-release[^ref-23].
 
@@ -245,7 +255,7 @@ The game has inspired community preservation efforts including:
 
 ### Critical Perspective
 
-Alien Legacy is remembered as an ambitious hybrid of colony management, planetary exploration, and an event-driven story whose bugs undercut it at launch. A Reddit retrospective places it among the few "sci-fi planetary 4X" games outside the Master of Orion lineage[^ref-14]. Fans on GOG still describe it as ahead of its time: "It was way ahead of it's time as far as features and gameplay"[^ref-23].
+Alien Legacy is remembered as an ambitious hybrid of colony management, planetary exploration, and an event-driven story whose bugs undercut it at launch. The author of a Reddit retrospective, who admits to having "not actually played Alien Legacy very much", says of the game: "it's not a 4X strategy game", but a colony-building game that "carries the same concepts as SMAC"[^ref-14]. Fans on GOG still describe it as ahead of its time: "It was way ahead of it's time as far as features and gameplay"[^ref-23].
 
 ## Downloads
 
@@ -280,7 +290,7 @@ Alien Legacy is remembered as an ambitious hybrid of colony management, planetar
 [^ref-7]: [Wikipedia – Alien Legacy](https://en.wikipedia.org/wiki/Alien_Legacy) – planetary system, gameplay, White Wolf Inphobia quote
 [^ref-8]: [Sierra Gamers – Alien Legacy](https://www.sierragamers.com/alien-legacy/) – plot summary, timeline
 [^ref-9]: [TV Tropes – Alien Legacy](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AlienLegacy) – colony platform limit
-[^ref-10]: [Internet Archive – Alien Legacy Manual](https://archive.org/details/Alien_Legacy_-_Manual) – Sierra On-Line, 1994: system requirements p. 6–7 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n5)), historical briefing p. 9–11 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n8)), "Personal Data Assistant (PDA)" p. 19 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n18)), credits p. 91 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n90))
+[^ref-10]: [Internet Archive – Alien Legacy Manual](https://archive.org/details/Alien_Legacy_-_Manual) – Sierra On-Line, 1994: system requirements p. 6–7 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n5)), historical briefing p. 9–11 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n8)), "Personal Data Assistant (PDA)" p. 19 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n18)), starting forces and "2,000 settlers in cryogenic hibernation" p. 23 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n22)), "The End", scoring and victory levels pp. 72–74 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n71)), credits p. 91 ([scan](https://archive.org/details/Alien_Legacy_-_Manual/page/n90))
 [^ref-11]: [GameFAQs – Alien Legacy](https://gamefaqs.gamespot.com/pc/564666-alien-legacy) – box description, user ratings
 [^ref-12]: [Amazon – Alien Legacy Official Player's Guide](https://www.amazon.com/Alien-Legacy-Official-Players-Guide/dp/1572800062) – strategy guide details, tagline
 [^ref-13]: [MyAbandonware – Alien Legacy](https://www.myabandonware.com/game/alien-legacy-21h) – user ratings, Home of the Underdogs review, bug reports, version differences
