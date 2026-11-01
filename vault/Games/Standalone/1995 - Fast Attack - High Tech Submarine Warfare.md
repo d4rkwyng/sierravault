@@ -10,20 +10,21 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: USS Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-01'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
-  developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS...'
+  developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS, putting
+  the player in command of a Los Angeles Class 688I nuclear-powered attack submarine.'
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Fast Attack: High Tech Submarine Warfare is a submarine combat simulation developed by Software Sorcery and published by [[Sierra On-Line]] in 1995 for DOS systems.[^ref-1] The game places players in command of a Los Angeles Class 688I nuclear-powered attack submarine, which the box copy pitched as "the best the United States Navy has to offer."[^ref-2] In the publisher's words, the boat is "outfitted with the most sensitive sensors, navigation, and state-of-the-art communications equipment that money can buy."[^ref-2][^ref-3]
+Fast Attack: High Tech Submarine Warfare is a submarine combat simulation developed by Software Sorcery and published by [[Sierra On-Line]] in 1995 for DOS systems.[^ref-1] The game places players in command of a Los Angeles Class 688I nuclear-powered attack submarine, which GameFAQs' game description has the player surveying as "the best the United States Navy has to offer."[^ref-2] The same description calls the boat "outfitted with the most sensitive sensors, navigation, and state-of-the-art communications equipment that money can buy."[^ref-2] Sierra's own Spring 1996 InterAction catalog carried nearly the same pitch: "High-tech submarine warfare puts you at the helm of a Los Angeles Class 688I nuclear-powered attack sub."[^ref-17]
 
-The simulation was built around realism. SUBSIM's Neal Stevens wrote that players "can get closer to a realistic modern undersea combat than ever before," and Computer Gaming World's reviewer, a former submariner, said "the sonar looks exactly like the one on our old boat."[^ref-4][^ref-9] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and subs, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline read: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] Failure has a stark consequence: "your final rest will be upon the ocean floor."[^ref-2][^ref-3]
+The simulation was built around realism. SUBSIM's Neal Stevens wrote that players "can get closer to a realistic modern undersea combat than ever before; if it will run through a complete mission without breaching back into the operating system," and Computer Gaming World's reviewer, a former submariner, said "the sonar looks exactly like the one on our old boat."[^ref-4][^ref-9] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and subs, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline read: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] Failure has a stark consequence: "your final rest will be upon the ocean floor."[^ref-2][^ref-17]
 
 The game's credits give special thanks to the officers and crew of the USS Pogy (SSN-647).[^ref-5]
 
@@ -162,7 +163,7 @@ MobyGames' spec sheet lists an i486 SX as the minimum CPU and support for Sound 
 |---------|------|----------|-------|
 | 1.0 | 1995 | DOS | Initial release (UK, France)[^ref-11] |
 | 1.0 | 1996 | DOS | US/Germany release[^ref-11] |
-| 1.01 | by Feb 1998 | DOS | Found on a later retail CD; version file lists AI fix, "No Device" sound option, TLAM ripple launch fix, better Windows 95 stability, resupply added to Sea of Japan battleset[^ref-4] |
+| 1.01 | by Feb 1998 | DOS | Found on a later CD; version file lists AI fix, "No Device" sound option, TLAM ripple launch fix, better Windows 95 stability, resupply added to Sea of Japan battleset[^ref-4] |
 | Upgrade patch | June 1998 | DOS | SUBSIM reported an upgrade patch available in its 6/98 update[^ref-4] |
 | Spanish | 2000 | PC | Re-release by Havas Interactive España[^ref-12] |
 
@@ -192,9 +193,9 @@ A CD carrying version 1.01, with AI and Windows 95 stability fixes, had appeared
 
 ### Sales and Commercial Impact
 
-Sales figures for Fast Attack have not been published. It was released in the United Kingdom and France in 1995, in the United States and Germany in 1996, and in Spain in 2000, with Coktel Vision distributing in France and Havas Interactive España in Spain.[^ref-11] Sierra's Spring 1996 InterAction catalog sold it for $49.95 as a DOS CD, and Computer Gaming World listed its price as $59.95.[^ref-17][^ref-9]
+Sales figures for Fast Attack have not been published. It was released in the United Kingdom and France in 1995, in the United States and Germany in 1996, and in Spain in 2000, with Coktel Vision distributing in France and Havas Interactive España in Spain.[^ref-11] Sierra's Spring 1996 InterAction catalog sold it for $49.95 as a DOS CD (marked as a product that works with Windows 95), and Computer Gaming World listed its price as $59.95.[^ref-17][^ref-9]
 
-In 1996 it was reissued in the United States in the Sierra Originals line, and the Holiday 1996 InterAction listed it among the SierraOriginals titles in a "Buy 2, Get 1 Free" offer.[^ref-11][^ref-18] The Spanish jewel-case re-release followed in 2000.[^ref-11][^ref-12]
+In 1996 it was reissued in the United States in the Sierra Originals line, and the Holiday 1996 InterAction listed it among the SierraOriginals titles in a buy-two-get-one-free offer: any two bought directly from Sierra between November 1 and December 31, 1996 earned a third free.[^ref-11][^ref-18] The Spanish jewel-case re-release followed in 2000.[^ref-11][^ref-12]
 
 ### Collections
 
@@ -204,7 +205,7 @@ Fast Attack was included in:
 
 ### Critical Perspective
 
-Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in the submarine simulation genre. Computer Gaming World judged that "the realism is there in most respects, and the missions are compelling."[^ref-9] Joystick rated it highly, while PC Player found it dull.[^ref-15][^ref-14] SUBSIM called it "a troubled genius." Its reviewer raised the score from 79 to 87 for the patched version, while still noting the crashes that marred the original release.[^ref-4]
+Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in the submarine simulation genre. Computer Gaming World judged that "the realism is there in most respects, and the missions are compelling."[^ref-9] Joystick rated it highly, while PC Player found it dull.[^ref-15][^ref-14] SUBSIM called it "a troubled genius." It published a dual rating, 79 for the game as released and 87 for the patched game, while still noting the crashes that marred the original release.[^ref-4]
 
 ## Purchase
 
@@ -219,6 +220,10 @@ Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in 
 - [Internet Archive](https://archive.org/details/msdos_Fast_Attack_High_Tech_Submarine_Warfare_1996) – Playable DOS version[^ref-13]
 - [MyAbandonware](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – 458 MB ISO, 24 MB v1.01 download, and manual[^ref-7]
 
+**Manuals & Extras**
+- [Internet Archive – Fast Attack Manual](https://archive.org/details/FASTATTACKMANUAL) – scanned manual (PDF)[^ref-23]
+- MyAbandonware also lists the manual (about 1 MB)[^ref-7]
+
 ## See Also
 
 - [[1994 - Aces of the Deep]]
@@ -230,7 +235,6 @@ Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in 
 
 [^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, description, time-limit trivia
 [^ref-2]: [GameFAQs – Fast Attack: High Tech Submarine Warfare](https://gamefaqs.gamespot.com/pc/930373-fast-attack-high-tech-submarine-warfare) – box description, tagline, user rating
-[^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – box synopsis
 [^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – Neal Stevens review (1996/1998), scores, crash notes, version 1.01 file, 6/98 patch update
 [^ref-5]: [MobyGames – Fast Attack credits (DOS)](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/credits/dos/) – full credits, roles, USS Pogy special thanks
 [^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release regions, user rating, download sizes
@@ -243,9 +247,10 @@ Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in 
 [^ref-14]: [PC Player (Germany) 5/96, p. 84 – Fast Attack review by Heinrich Lenhardt](https://archive.org/details/PC-Player-German-Magazine-1996-05/page/n83) – two-star verdict, five scenarios, Software Sorcery/Conqueror team, MS-DOS, no multiplayer
 [^ref-15]: [Joystick (France) #70 (April 1996) – Fast Attack review](https://archive.org/details/joystick070/page/n93) – 90% interest, 85% technique, Silent Hunter comparison
 [^ref-16]: [InterAction Holiday 1995 – "Games You'll Be Playing in '96"](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n99) – Sierra's pre-release announcement
-[^ref-17]: [InterAction Spring 1996 – Order Direct From Sierra](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n95) – $49.95 catalog listing, DOS CD
+[^ref-17]: [InterAction Spring 1996 – Order Direct From Sierra](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n95) – $49.95 catalog listing, "DOS CD" (asterisk: works with Windows 95), product description
 [^ref-18]: [InterAction Holiday 1996 – SierraOriginals offer](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996/page/n110) – Fast Attack listed among SierraOriginals titles
 [^ref-19]: [Computer Gaming World #122 (September 1994) – show report](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n34) – Software Sorcery's AEGIS follow-up, "Fast Attack Boats"
 [^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate critic and player scores
 [^ref-21]: [Computer Game Review #44 (March 1995) – Winter CES report](https://archive.org/details/computer-game-review-issue-44-march-1995/page/n113) – Software Sorcery, Time Warner affiliate, announces Fast Attack
 [^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/specs/) – minimum CPU, supported video and sound devices
+[^ref-23]: [Internet Archive – Fast Attack Manual](https://archive.org/details/FASTATTACKMANUAL) – scanned Sierra manual (January 1996 edition, installation in DOS and Windows 95)
