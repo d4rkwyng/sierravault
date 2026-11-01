@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 composer: [Christopher Barker, Craig Utterback]
 description: Thexder 95, also known as Thexder for Windows 95, is a 1995 Windows 95
   action platformer developed by Synergistic Software and published by Sierra On-Line,
@@ -19,7 +19,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -128,11 +128,11 @@ Thexder 95 was developed by Synergistic Software and published by Sierra On-Line
 
 ## Legacy
 
-The next entry in the series, Thexder Neo, was developed by Zereo and published by Square Enix in 2009[^ref-2][^ref-40]. A year after release, *Computer Gaming World* named Thexder 95 one of its 50 worst games of all time[^ref-43].
+The next entry in the series, Thexder Neo, was developed by Zereo and published by Square Enix in 2009[^ref-2][^ref-40]. A year after release, *Computer Gaming World* ranked "Thexder (Sierra, 1995)" number 23 among its 50 worst games of all time, in an entry that faulted the series on every platform from C64 to Windows 95[^ref-43].
 
 ## Downloads
 
-Thexder 95 has no known digital re-release; the Sierra Help wiki lists it as not available on GOG[^ref-26].
+Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the Sierra Help wiki also lists it as not available on GOG[^ref-26].
 
 **Demo**
 - [The Sierra Chest – Thexder for Windows 95 demo](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos)[^ref-51]
@@ -161,5 +161,5 @@ Thexder 95 has no known digital re-release; the Sierra Help wiki lists it as not
 [^ref-47]: [InterAction Magazine, Fall 1995, p. 50](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US/page/n56/mode/1up) – Pre-release preview: "Primus Mech", eight-player LAN battles, five worlds with 10 levels each, "Available: Fall '95 for Win 95", $44.95
 [^ref-48]: [InterAction Magazine, Spring 1996, scan page 54](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n53/mode/1up) – "Thexder 2-For-1 Special: Two copies of Thexder for the price of only one! (WIN 95 CD) $44.95"
 [^ref-49]: [Next Generation #16 (April 1996), p. 95](https://archive.org/details/nextgen-issue-016/page/n98/mode/1up) – Review, two stars: "does an admirable job of using the multitasking environment", "still an average platform shooter", 486DX2/66 with 8 MB RAM
-[^ref-50]: [PC Zone #38 (May 1996), p. 9](https://archive.org/details/PC_Zone_38_May_1996/page/n8/mode/1up) – Cover CD listing "Thexder '95 (Sierra)" playable demo; Specifications: 8Mb, Windows 95
+[^ref-50]: [PC Zone #38 (May 1996), pp. 9–10](https://archive.org/details/PC_Zone_38_May_1996/page/n9/mode/1up) – "Playable Demos" cover CD listing "Thexder '95 (Sierra)" playable demo; Specifications: 8Mb, Windows 95
 [^ref-51]: [The Sierra Chest – Thexder for Windows 95: Demos](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos) – "Thexder for Win 95 Demo (1 MB)", included on Conqueror A.D. 1086 CD
