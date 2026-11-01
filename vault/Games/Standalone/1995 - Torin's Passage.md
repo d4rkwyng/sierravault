@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: '**Torin''s Passage** is a family-oriented fantasy adventure game designed
   by Al Lowe and released by Sierra On-Line in 1995, in which young Torin and his
   shape-shifting pet Boogle search the nested worlds of Strata for his kidnapped parents.'
@@ -18,13 +18,13 @@ tags: [1990s, adventure, al-lowe, sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 **Torin's Passage** is a point-and-click adventure game designed by Al Lowe and released by Sierra On-Line in 1995[^ref-1]. Unlike Lowe's adult-oriented Leisure Suit Larry series, Torin's Passage was specifically created as a family-friendly adventure that could be enjoyed by both children and adults[^ref-2][^ref-39]. The game was inspired by Lowe's experience watching Mrs. Doubtfire with his daughter, where he observed that "the audience was laughing in two different pitches: high little giggles when the kids laughed at the slapstick parts of the film, and deep knowing guffaws when the adults caught something that they knew the kids wouldn't get"[^ref-3].
 
-Set in a fantasy world of nested planets called Strata, the game follows young Torin and his shape-shifting companion Boogle on a quest to rescue Torin's adoptive parents from the sorceress Lycentia[^ref-4]. It combines hand-drawn cel animation with oil-paint backgrounds[^ref-21], and its themes were composed by three-time Academy Award winner Michel Legrand[^ref-38][^ref-8]. Reviews were mixed[^ref-34][^ref-35][^ref-36]. Al Lowe says the game sold well over 200,000 copies but still had a reputation as a failure inside Sierra[^ref-41]. It was planned as the first of five games, but no sequel was made[^ref-28].
+Set in a fantasy world of nested planets called Strata, the game follows young Torin and his shape-shifting companion Boogle on a quest to rescue Torin's adoptive parents from the sorceress Lycentia[^ref-1][^ref-11]. It combines hand-drawn cel animation with oil-paint backgrounds[^ref-21], and its themes were composed by three-time Academy Award winner Michel Legrand[^ref-38][^ref-8]. Reviews ranged from lukewarm to enthusiastic[^ref-34][^ref-35][^ref-36]. Al Lowe says the game sold well over 200,000 copies but still had a reputation as a failure inside Sierra[^ref-41]. It was planned as the first of five games, but no sequel was made[^ref-28].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1][^ref-10]
@@ -41,7 +41,7 @@ Set in a fantasy world of nested planets called Strata, the game follows young T
 
 ## Story Summary
 
-The game follows Torin, a young man who lives on a farm with his adoptive parents but is unaware that he is actually royalty[^ref-11]. When the evil sorceress Lycentia imprisons Torin's parents by casting a magic spell, Torin must embark on a quest to rescue them[^ref-4]. He is accompanied by Boogle, "a purple metamorphic house pet that can turn himself into useful objects"[^ref-39].
+The game follows Torin, a young man who lives on a farm with his adoptive parents but is unaware that he is actually royalty[^ref-11]. When the evil sorceress Lycentia imprisons Torin's parents by casting a magic spell, Torin must embark on a quest to rescue them[^ref-1][^ref-4]. He is accompanied by Boogle, "a purple metamorphic house pet that can turn himself into useful objects"[^ref-39].
 
 The story takes place on the planet Strata, a set of nested worlds connected by shafts of crystal called phenocrysts[^ref-13]. Torin must travel down through the five levels (The Lands Above, Escarpa, Pergola, Asthenia and Tenebrous), with The Null Void at the very center, solving puzzles and overcoming obstacles to ultimately confront Lycentia and save his family[^ref-13][^ref-14]. The game's antagonist Lycentia is notably portrayed as "a rarity even amongst Disney films – a sympathetic villain" with understandable motivations for her actions[^ref-15].
 
@@ -81,7 +81,7 @@ In a 1999 interview Lowe said that "even Torin's Passage sold over 200,000 copie
 
 ### Modern Assessment
 
-Later assessments are mixed. Adventure Gamers rated the game 2.5/5 stars, calling it "a promising fairy tale that just never breaks through the wall of mediocrity"[^ref-24]. A 2023 review gave it 44%, stating "I would not recommend this title to anyone. It's just not fun, or interesting, or innovative in any way"[^ref-25]. Hardcore Gaming 101, by contrast, calls it "quite an excellent game that has the tragedy of being somewhat overlooked, or at least misunderstood by the gaming community"[^ref-15]. GOG.com users rate it 4.4/5 (72 ratings as of October 2026)[^ref-26].
+Later assessments are mixed. Adventure Gamers rated the game 2.5/5 stars, calling it "a promising fairy tale that just never breaks through the wall of mediocrity"[^ref-24]. A 2023 review gave it 44%, stating "I would not recommend this title to anyone. It's just not fun, or interesting, or innovative in any way"[^ref-25]. Hardcore Gaming 101, by contrast, calls it "quite an excellent game that has the tragedy of being somewhat overlooked, or at least misunderstood by the gaming community"[^ref-15]. GOG.com users rate it 4.4/5 (309 ratings, 72 of them written reviews, as of November 2026)[^ref-26].
 
 ## Development
 
@@ -99,11 +99,11 @@ Michel Legrand, winner of three Academy Awards, was hired to write the score[^re
 
 Torin's Passage was built using Sierra's SCI2.1 engine (interpreter 2.100.002), the same interpreter version as Space Quest 6; Leisure Suit Larry 7 moved on to SCI3[^ref-7]. Sierra Help lists the original minimum requirements as a 486/25, 8 MB RAM, 256-color SVGA and a 2x CD-ROM drive[^ref-29]; contemporary reviews gave the minimum as a 486/33 with 8 MB RAM, SVGA and a double-speed CD-ROM drive[^ref-22][^ref-36]. PC Gamer described the animation as "a blend of styles inspired by Disney and Warner Bros."[^ref-22]
 
-The game's video sequences use the VMD (Video and Music Data) format with a native resolution of 316x158 and a 2:1 aspect ratio[^ref-30]. Players could enable various visual effects, including a "psychedelic mode" accessible by pressing Ctrl-P during gameplay[^ref-31].
+A VOGONS forum user reports that in the DOS version the game's video sequences use the VMD (Video and Music Data) format with a native resolution of 316x158 and a 2:1 aspect ratio[^ref-30]. Players could enable various visual effects, including a "psychedelic mode" accessible by pressing Ctrl-P during gameplay[^ref-31].
 
 ## Legacy
 
-Lowe planned Torin's Passage from the beginning as a five-part series and had all five games sketched out before the first was finished; Part 2 was to be called Torin's Challenge, which he says is one reason the ending is "so nebulous"[^ref-41]. On his website he explains that the series was meant to alternate years with King's Quest, but "market conditions, and Sierra's loss of founder Ken Williams, meant that the first game of five was also the last"[^ref-28]. After the company's sale to CUC International, Williams felt by the end of 1996 that he had lost control of Sierra[^ref-33]; he stayed on until November 1997[^ref-46].
+Lowe planned Torin's Passage from the beginning as a five-part series and had all five games sketched out before the first was finished; Part 2 was to be called Torin's Challenge, which he says is one reason the ending is "so nebulous"[^ref-41]. On his website he explains that the series was meant to alternate years with King's Quest, but "market conditions, and Sierra's loss of founder Ken Williams, meant that the first game of five was also the last"[^ref-28]. After the company's sale to CUC International, Williams felt by the end of 1996 that he had lost control of Sierra[^ref-33].
 
 Al Lowe has written that "Torin wasn't my best-selling game, it's probably the most meaningful to me because I wrote it for especially [sic] for my daughter and I to enjoy together"[^ref-28].
 
@@ -113,37 +113,19 @@ Al Lowe has written that "Torin wasn't my best-selling game, it's probably the m
 - [GOG.com](https://www.gog.com/en/game/torins_passage)
 
 **Download / Preservation**
+None listed (sold on GOG).
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
 - [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]]
+- [[1994 - King's Quest VII - The Princeless Bride]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
 ## References
 
-[^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – Release year and developer information
+[^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – Release year and developer information; game description (parents imprisoned by a spell cast by Lycentia), read via the MobyGames API
 [^ref-2]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin%27s_Passage) – Family-friendly design philosophy
 [^ref-3]: [Al Lowe's Website - About Torin](https://allowe.com/games/torin/about-torin.html) – Mrs. Doubtfire inspiration quote; Jim Murphy left Sierra for Pixar
 [^ref-4]: GamesNostalgia - Torin's Passage *(download link removed: the game is sold commercially)* – Plot summary with Lycentia and Boogle
@@ -155,13 +137,13 @@ Al Lowe has written that "Torin wasn't my best-selling game, it's probably the m
 [^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Torins-Passage/) – Michael Shapiro voices Torin and Boogle
 [^ref-13]: [Al Lowe's Website - Worlds of Strata](https://allowe.com/games/torin/the-worlds-of-strata.html) – Phenocryst and world structure
 [^ref-14]: [UHS Hints](https://www.uhs-hints.com/uhsweb/torin.php) – List of game worlds
-[^ref-15]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/torins-passage/) – Lycentia character analysis; Boogle shapeshifting; "quite an excellent game"
+[^ref-15]: [Hardcore Gaming 101 (Wayback copy, January 2026; live site was under maintenance on 2026-11-01)](https://web.archive.org/web/20260101135619/http://www.hardcoregaming101.net/torins-passage/) – Lycentia character analysis; Boogle shapeshifting; "quite an excellent game"
 [^ref-21]: [GameSpot Review – Jeffrey Adam](https://www.gamespot.com/reviews/torins-passage-review/1900-2559962/) – Animation and background techniques, "harmonious", difficulty quote
 [^ref-22]: [PC Gamer Archive – Michael Wolf, April 1996](https://web.archive.org/web/20000308113833/http://www.pcgamer.com/reviews/1081.html) – 79% score, hint-button time limit, chapter structure, required specs
 [^ref-23]: [PC Magazine Archive](https://web.archive.org/web/20001215045100/http://www.zdnet.com/pcmag/issues/1505/pcm00091.htm) – Four-star rating, "marvelous, light-hearted game", hint scoring
 [^ref-24]: [Adventure Gamers Archive](https://web.archive.org/web/20041015004331/http://www.adventuregamers.com/article/id,221) – 2.5/5 score and quote; KQ7-style smart pointer, two inventories, phenocrysts, puzzle types
 [^ref-25]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2023/06/07/torins-passage/) – 2023 review score and quote
-[^ref-26]: [GOG.com Product Page](https://www.gog.com/en/game/torins_passage) – User rating 4.4/5 from 72 reviews (page data, October 2026)
+[^ref-26]: [GOG.com Product Page](https://www.gog.com/en/game/torins_passage) – User rating 4.4/5 from 309 ratings, 72 written reviews (GOG reviews API, checked November 1, 2026)
 [^ref-27]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – Seibert "produced Torin's and Larry 7 with me"; Ken Williams' King's Quest-style brief
 [^ref-28]: [Al Lowe's Website - Torin Graphics](https://allowe.com/games/torin/graphics.html) – Bruce Sharp praise, "most meaningful" quote, five-game plan and cancellation
 [^ref-29]: [Sierra Help](https://sierrahelp.com/Games/TorinsPassageHelp.html) – System requirements
@@ -180,4 +162,3 @@ Al Lowe has written that "Torin wasn't my best-selling game, it's probably the m
 [^ref-43]: [The Digital Antiquarian – Jimmy Maher, "Making Sierra Pay" (2021)](https://www.filfre.net/2021/08/making-sierra-pay/) – "another mediocre performer"
 [^ref-44]: [Verbosity – "Leisure Time with Al Lowe"](http://verbosity.wiw.org/issue7/allowe.html) – "designed for a parent to share with a child"; Megan, then 11
 [^ref-45]: [GameSpot – Torin's Passage review summary (Wayback, 2003)](https://web.archive.org/web/20030405122125/http://www.gamespot.com:80/pc/adventure/torinspassage/review.html) – GameSpot score 7.0; release date 10/31/1995
-[^ref-46]: [Wikipedia – Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) – president until the July 1996 sale to CUC; "He stayed on to guide its strategic direction until November 1997"
