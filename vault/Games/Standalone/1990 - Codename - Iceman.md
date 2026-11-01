@@ -10,25 +10,25 @@ series: Codename (standalone)
 engine: SCI0
 protagonist: Johnny Westland
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 composer: [Mark Seibert]
 description: 'Codename: ICEMAN is a graphical adventure game made with the SCI engine
   and published by Sierra On-Line. The lead designer was Jim Walls, a retired California
-  Highway Patrol officer...'
+  Highway Patrol officer who also designed the first three Police Quest games.'
 tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 
 ## Overview
 
-Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line.[^ref-1] Sources disagree on the release year: MobyGames records a December 1989 US release for DOS, and IGDB, Wikidata and PCGamingWiki also give 1989. Wikipedia gives March 1990 (see Version History).[^ref-13][^ref-15][^ref-16][^ref-17][^ref-1] The lead designer was [[Jim Walls]], a retired California Highway Patrol officer who also designed the first three Police Quest games.[^ref-27][^ref-28] *Computer Gaming World* introduced the game as "the latest adventure by retired law enforcement officer Jim Walls."[^ref-23] The game was an ambitious attempt to combine a parser-driven adventure with detailed simulations of real-world procedures, from CPR to piloting a submarine.[^ref-2]
+Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line.[^ref-1] Sources disagree on the release year: MobyGames records a December 1989 US release for DOS, and IGDB, Wikidata and PCGamingWiki also give 1989. Wikipedia gives March 1990 (see Version History), although its own Jim Walls article lists the game under 1989.[^ref-13][^ref-15][^ref-16][^ref-17][^ref-1][^ref-27] The lead designer was [[Jim Walls]], a retired California Highway Patrol officer who also designed the first three Police Quest games.[^ref-27][^ref-28] *Computer Gaming World* introduced the game as "the latest adventure by retired law enforcement officer Jim Walls."[^ref-23] The game was an ambitious attempt to combine a parser-driven adventure with detailed simulations of real-world procedures, from CPR to piloting a submarine.[^ref-2]
 
 Set during a near-future global oil shortage, the game casts the player as naval officer Johnny Westland, who is sent on a mission to rescue a kidnapped US ambassador from terrorists in Tunisia.[^ref-1] It is known for its emphasis on realistic military procedures, which require players to consult the manual often.[^ref-3] Sierra's product description calls the game "a thrilling adventure" with "a story as chillingly authentic as tomorrow's headlines."[^ref-4]
 
-Mention of a "Codename: PHOENIX" in Sierra promotional material suggests that ICEMAN was meant to be the first part of a series, but no sequel was released.[^ref-1][^ref-20][^ref-26] Wikipedia attributes this to disappointing sales. The 2007 *Adventure Gamers* review it cites says only that Sierra "tossed around the name Codename: PHOENIX in a few 'Coming Soon' notices," and no period sales figures have been found.[^ref-1][^ref-26] The game has since earned a notorious reputation in adventure gaming circles for its difficulty and unconventional design choices.[^ref-5]
+Mention of a "Codename: PHOENIX" in Sierra promotional material suggests that ICEMAN was meant to be the first part of a series, but no sequel was released.[^ref-1][^ref-20][^ref-26] Wikipedia attributes this to disappointing sales. The 2007 *Adventure Gamers* review it cites says only that Sierra "tossed around the name Codename: PHOENIX in a few 'Coming Soon' notices," and it says nothing about sales.[^ref-1][^ref-26] No sales figures have been found, but Sierra's own Fall 1990 newsletter lists CODENAME: Iceman in its "Top Ten Best Sellers" for July 1 to September 1, 1990 (the printed list carries no rank numbers or unit figures).[^ref-24] The game has since earned a notorious reputation in adventure gaming circles for its difficulty and unconventional design choices.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -106,7 +106,7 @@ George Starostin's 2025 review for *Only Solitaire* argued that the game "repres
 
 ### Origins
 
-Codename: ICEMAN was designed by Jim Walls, who had established himself at Sierra with the Police Quest series.[^ref-1][^ref-27] It was meant to be the first game in a new adventure series, and a sequel was mentioned in Sierra's news magazine but never released.[^ref-10] *Computer Gaming World* described it as "Written and designed by Police Quest creator Jim Walls."[^ref-21]
+Codename: ICEMAN was designed by Jim Walls, who had established himself at Sierra with the Police Quest series.[^ref-1][^ref-27] It was meant to be the first game in a new adventure series, and no sequel was released. *Adventure Gamers* notes that Sierra floated the name Codename: PHOENIX in "Coming Soon" notices.[^ref-1][^ref-26] *Computer Gaming World* described it as "Written and designed by Police Quest creator Jim Walls."[^ref-21]
 
 Sierra's product description introduces the game as coming "From Jim Walls, designer of two of the most exciting and realistic graphics adventure games ever written."[^ref-4] George Starostin notes that it is unclear whether the spy-thriller pitch came from Walls himself or from Ken Williams or another Sierra executive.[^ref-2]
 
@@ -123,8 +123,10 @@ The game was built on Sierra's SCI0 engine.[^ref-6][^ref-17] *Computer Gaming Wo
 - **Programming:** J. Mark Hood, [[Pablo Ghenis]], [[Doug Oldfield]]
 - **Development System:** [[Jeff Stephenson]], Bob Heitman, Pablo Ghenis, Stuart Goldstein (as listed in the manual)[^ref-12]
 - **Artists:** Cheryl Loyd, James Larsen
-- **Composer:** [[Mark Seibert]]
+- **Composer:** [[Mark Seibert]] (spelled "Siebert" in the manual)[^ref-12]
 - **Documentation:** Marti McKenna, James Walls
+- **Additional Programming:** Larry Scott, Carlos Escobar, Robert Lindsley, Dave Skinner (as listed in the manual)[^ref-12]
+- **Additional Artwork:** Jeff Crowe, Jerry Moore, Kenn Nishiuye, Cindy Walker (as listed in the manual)[^ref-12]
 
 ### Technical Achievements
 
@@ -171,7 +173,7 @@ One reviewer noted an issue with the game's internal clock: "in some situations 
 
 ### Sales and Commercial Impact
 
-No sequel followed. Sierra had floated the name Codename: PHOENIX in "Coming Soon" notices.[^ref-26] Wikipedia says disappointing sales ended the would-be franchise, but no sales figures have been found to confirm this.[^ref-1] The game is currently owned by Activision and remains available for purchase through digital distribution.[^ref-6][^ref-4]
+No sequel followed. Sierra had floated the name Codename: PHOENIX in "Coming Soon" notices.[^ref-26] Wikipedia says disappointing sales ended the would-be franchise, but no sales figures have been found to confirm this.[^ref-1] Sierra's Fall 1990 newsletter did list the game among its "Top Ten Best Sellers" for July 1 to September 1, 1990, without rank numbers or unit figures.[^ref-24] The game is currently owned by Activision and remains available for purchase through digital distribution.[^ref-6][^ref-4]
 
 The game has become notorious among Sierra fans. As George Starostin put it, "if you are a child of the Eighties, chances are that Codename: ICEMAN will be one of the first titles to pop into your head at the respective call for «the worst game ever made»."[^ref-2]
 
@@ -208,7 +210,7 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 - [Internet Archive – Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) - Game manual[^ref-12]
 
 **Manuals & Extras**
-- [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
+- Sierra Gamers (sierragamers.com/codename-iceman, text only) - Manual, maps, and hint book scans[^ref-10]
 
 ## See Also
 
@@ -249,9 +251,9 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-7]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – game description: interface, procedures, submarine simulation
 [^ref-8]: [The Adventurers' Guild – Codename: ICEMAN Final Rating](https://advgamer.blogspot.com/2012/11/game-25-codename-iceman-final-rating.html) – detailed gameplay critique, parser issues, puzzle analysis
 [^ref-9]: [ST Format #21 (May 1991) – Codename: Iceman review by Ed Ricketts](https://www.everygamegoing.com/larticle/codename-iceman-000/49056/) – transcription of p. 66; Atari ST review, 77% overall
-[^ref-10]: [Sierra Gamers – Codename Iceman](https://www.sierragamers.com/codename-iceman/) – manual, map and hint book scans; series intent
+[^ref-10]: Sierra Gamers – Codename Iceman (sierragamers.com/codename-iceman, cited as text only) – manual, map and hint book scans
 [^ref-11]: [AGDInteractive Forum – "Codename: ICEMAN... Sierra's worst adventure game?"](http://www.agdinteractive.com/forum/viewtopic.php?t=14656) – 2010 community discussion; notes Walls' later Blue Force at Tsunami
-[^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual text: controls, CPR section, submarine procedures; credits page ("PROGRAMMING Mark Hood, Pablo Ghenis, Doug Oldfield"; "DEVELOPMENT SYSTEM Jeff Stephenson, Bob Heitman, Pablo Ghenis, Stuart Goldstein")
+[^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual text: controls, CPR section, submarine procedures; credits page ("PROGRAMMING Mark Hood, Pablo Ghenis, Doug Oldfield"; "ADDITIONAL PROGRAMMING Larry Scott, Carlos Escobar, Robert Lindsley, Dave Skinner"; "ADDITIONAL ARTWORK Jeff Crowe, Jerry Moore, Kenn Nishiuye, Cindy Walker"; "DEVELOPMENT SYSTEM Jeff Stephenson, Bob Heitman, Pablo Ghenis, Stuart Goldstein"; "COMPOSER Mark Siebert")
 [^ref-13]: [MobyGames – Code-Name: Iceman releases](https://www.mobygames.com/game/436/code-name-iceman/releases/) – release dates and version numbers by platform
 [^ref-15]: [IGDB](https://www.igdb.com/games/codename-iceman) – Internet Game Database entry (lists 1989)
 [^ref-16]: [Wikidata – Codename: ICEMAN (Q2168378)](https://www.wikidata.org/wiki/Q2168378) – structured metadata (publication date 1989, MobyGames ID 436)
@@ -260,8 +262,8 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-21]: [Computer Gaming World #72 (June 1990) – "The Iceman Computeth! / Sierra's 'Code-Name: Iceman'" by Michael Chaut](https://archive.org/details/Computer_Gaming_World_Issue_72) – review, pp. 48 and 52, with hints box; specs box (sound boards, $59.95)
 [^ref-22]: [Computer Gaming World #71 (May 1990) – "Taking a Peek"](https://archive.org/details/Computer_Gaming_World_Issue_71) – p. 56: mouse interface, disk count, IBM $59.95
 [^ref-23]: [Computer Gaming World #69 (March 1990) – "The Entertainment Software Capital of the World" (Winter CES report)](https://archive.org/details/Computer_Gaming_World_Issue_69) – p. 38: preview, CPR and naval etiquette
-[^ref-24]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – catalog pp. 55–56: MS-DOS, Atari ST and Amiga versions at $59.95
-[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule
+[^ref-24]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – catalog pp. 55–56: MS-DOS, Atari ST and Amiga versions at $59.95; p. 27 "Sierra's Top Ten Best Sellers, July 1 to September 1, 1990" (CODENAME: Iceman listed, no ranks printed)
+[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule (page image checked: Codename: Iceman IBM March 1990; Atari and Hint Book April 1990)
 [^ref-26]: [Adventure Gamers – Codename: ICEMAN review (Wayback Machine, 2012 capture)](https://web.archive.org/web/20121014004302/http://www.adventuregamers.com/articles/view/18068) – Dante Kleinberg, October 19, 2007; 1.5 stars, PHOENIX "Coming Soon" notices
 [^ref-27]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) – CHP career, Sierra games, Tsunami Media and Westwood Studios
 [^ref-28]: [MobyGames – James Walls](https://www.mobygames.com/person/83001/james-walls/) – biography and credits (Game Designer on Code-Name: Iceman and Police Quest 3; Blue Force; Blade Runner)
