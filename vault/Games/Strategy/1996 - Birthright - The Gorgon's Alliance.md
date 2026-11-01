@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Strategy RPG
 platforms: [DOS, Windows 95]
 series: Birthright
-engine: Nova engine (Synergistic Software)
-protagonist: Regent of Anuire (player-created)
+engine: Nova engine
+protagonist: Regent of Anuire (choice of 34 regents)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: 'Birthright: The Gorgon''s Alliance is a 1997 Sierra strategy game based on TSR''s
   Birthright setting, combining turn-based realm management, real-time battles and first-person adventures.'
 tags: [1990s, birthright, rpg, sierra, strategy]
 ---
 # Birthright: The Gorgon's Alliance
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -29,18 +29,18 @@ Computer Games Strategy Plus described the game as "effectively three products i
 > **Developer:** [[Synergistic Software]][^ref-76]
 > **Designer:** [[Robert Clardy|Robert C. Clardy]], Kirt Lemons, Ed Stark (TSR)[^ref-76]
 > **Publisher:** [[Sierra On-Line]][^ref-7]
-> **Engine:** Nova engine (Synergistic Software)[^ref-76]
+> **Engine:** Nova engine[^ref-76]
 > **Platforms:** DOS, Windows 95[^ref-62]
 > **Release Year:** 1997[^ref-34]
 > **Series:** Birthright
-> **Protagonist:** Regent of Anuire (player-created)
+> **Protagonist:** Regent of Anuire (choice of 34 regents)[^ref-78]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
 The game's synopsis, as reproduced by Collection Chamber, opens: "The morning sun rose like flames of a funeral pyre, but its light brought no warmth to the ashen faces and icy spirits of Anuire's battle-weary army"[^ref-1]. The empire of Anuire has fractured into competing kingdoms, and the Gorgon builds his power through bloodtheft, killing the kings of Anuire and consuming their divinely granted bloodlines[^ref-1][^ref-24].
 
-In the Birthright setting, the gods have died and passed their powers to their descendants through their bloodlines[^ref-20]. The tabletop setting won the Origins Award for Best Roleplaying Supplement of 1995, presented in 1996[^ref-83]; the game's box copy and PC Gamer's review describe it as the "1996 Origins award for best fantasy game"[^ref-1][^ref-33]. Sierra's promotional copy put the player in the role of a king "descended from the bloodlines of heroes and gods," whose blood may grant "significant powers or magical abilities" that develop with experience[^ref-77].
+In the Birthright setting, the gods have died and passed their powers to their descendants through their bloodlines[^ref-20]. The tabletop setting won the Origins Award for Best Roleplaying Supplement of 1995, presented in 1996[^ref-83]; PC Gamer's review says the game "won the 1996 Origins award for best fantasy game"[^ref-33], and the box copy advertises it as a winner of the 1996 Origins Award[^ref-1]. Sierra's promotional copy put the player in the role of a king "descended from the bloodlines of heroes and gods," whose blood may grant "significant powers or magical abilities" that develop with experience[^ref-77].
 
 ## Gameplay
 
@@ -54,11 +54,11 @@ The game supports single-player campaigns against AI opponents and multiplayer f
 
 Victory requires amassing Victory Points; a 2008 HonestGamers review puts the target at 300-500 depending on difficulty[^ref-25][^ref-2]. The strategy game has three complexity levels (Basic, Advanced and Expert), each with a tutorial scenario, and CGW's reviewer concluded that once the tutorials were done, "there's no point in playing anything but Expert level"[^ref-24]. Sierra's promotional copy described 34 regents across 17 possible realms[^ref-77][^ref-78]; the HonestGamers reviewer counted "some 20+ realms" on the map, 12 of them playable[^ref-25].
 
-Domain management covers diplomacy, espionage, the economy and military recruitment; CGW praised the "good diplomacy and espionage options"[^ref-24]. Computer Games Strategy Plus listed options including demanding tribute, building roads, forging ley lines, casting spells and assassinating leaders[^ref-36]. Adventures send a party after mystical artifacts that give bonuses in the strategic game[^ref-33].
+CGW praised the "good diplomacy and espionage options"[^ref-24], and HonestGamers notes that the Advanced level makes the player responsible for the realm's economy[^ref-25]. Computer Games Strategy Plus listed options including demanding tribute, building roads, forging ley lines, casting spells and assassinating leaders[^ref-36]. Adventures send a party after mystical artifacts that give bonuses in the strategic game[^ref-33].
 
 ### Puzzles and Mechanics
 
-The game uses the second edition rules of Advanced Dungeons & Dragons as its foundation[^ref-34]. Combat in adventures is driven by statistics, with CGW noting that "combat is wholly a function of to-hit percentages and damage potential"[^ref-24]. Magic ranges from spells cast in adventures and battles to "ultra-powerful realm spells" cast on rival regents[^ref-34].
+The game uses the second edition rules of Advanced Dungeons & Dragons as its foundation[^ref-34]. Combat in adventures is driven by statistics, with CGW noting that "combat is wholly a function of to-hit percentages and damage potential"[^ref-24]. Magic ranges from spells cast in adventures to "ultra-powerful realm spells" cast on rival regents[^ref-34]; in battles, archers, wizards and clerics can launch ranged attacks[^ref-33].
 
 The two main resources are gold and regency points; gold comes from taxation, trade or tribute[^ref-36]. The HonestGamers reviewer noted that priests' Turn Undead spell also works on living army units, and a MyAbandonware commenter reported the same "fun bug"[^ref-25][^ref-41].
 
@@ -72,14 +72,14 @@ Birthright: The Gorgon's Alliance received mixed reviews. Critics praised its am
 |-------------|-------|-------|
 | PC Gamer (US) | 68% | "Amazingly detailed" strategy but "weakest" RPG portion[^ref-33] |
 | GameSpot | 7.7/10 | Good playability despite aesthetic drawbacks[^ref-34] |
-| Computer Gaming World | N/A | "Great potential" but "low production values"[^ref-24] |
-| Computer Games Strategy Plus | N/A | "A challenging game to love"[^ref-36] |
+| Computer Gaming World | 3/5 (per Wikipedia)[^ref-2] | "Great potential" but "low production values"[^ref-24] |
+| Computer Games Strategy Plus | 3.5/5 (per Wikipedia)[^ref-2] | "A challenging game to love"[^ref-36] |
 
 GameSpot's review said that "at times, Birthright looks like Cacadius Maximus during his tour of the Roman Sewer," but concluded the game was "an excellent buy for RPG fans, especially for the socially and geographically estranged who must play solo"[^ref-34]. Computer Gaming World's Gavin Hachiya Wasserman praised the "good diplomacy and espionage options" while criticizing "combat that is poorly-disguised dice rolling" and "daunting micro-management"[^ref-24].
 
 ### Modern Assessment
 
-Some later players have been kinder. A 2023 post on Reddit's r/patientgamers suggested readers "imagine Pathfinder: Kingmaker releasing in 1997"[^ref-40], and Collection Chamber called it "essentially three games in one"[^ref-1]. The game holds a "whopping 4.5/5 rating" on MyAbandonware[^ref-41].
+Some later players have been kinder. A 2023 post on Reddit's r/patientgamers suggested readers "imagine Pathfinder: Kingmaker releasing in 1997"[^ref-40], and Collection Chamber called it "essentially three games in one"[^ref-1]. MyAbandonware shows a 4.48/5 rating from 43 votes[^ref-41].
 
 Technical issues persist on modern systems. A 2018 user report said "the game will randomly crash with a 'the memory could not be read from' error during adventures," and because the game cannot be saved during adventures, a crash can cost a lot of progress[^ref-42]. GameSpy's 2004 retrospective was harsh, calling the game "utterly without merit" and saying "players justifiably ignored Birthright: Gorgon's Alliance, which eventually sunk into well-deserved obscurity"[^ref-20].
 
@@ -87,7 +87,7 @@ Technical issues persist on modern systems. A 2018 user report said "the game wi
 
 ### Origins
 
-Birthright was the part of the D&D license that went to Sierra, and The Gorgon's Alliance was Sierra's only D&D game[^ref-20]. Sierra's InterAction magazine described the license as exclusive to Sierra, and Computer Gaming World called it Sierra's "first game based on the Advanced Dungeons and Dragons Birthright world licensed from TSR"[^ref-77][^ref-79]. The developer, Synergistic Software, was owned by Sierra: InterAction introduced its president, Bob Clardy, as head of "the newest member of the Sierra family"[^ref-77]. Synergistic also developed Hellfire, the 1997 expansion for Blizzard's Diablo[^ref-84][^ref-65].
+Birthright was the part of the D&D license that went to Sierra, and GameSpy's 2004 retrospective called The Gorgon's Alliance Sierra's "one and only D&D game"[^ref-20]. Sierra's InterAction magazine described the license as exclusive to Sierra, and Computer Gaming World called it Sierra's "first game based on the Advanced Dungeons and Dragons Birthright world licensed from TSR"[^ref-77][^ref-79]. The developer, Synergistic Software, was owned by Sierra: InterAction introduced its president, Bob Clardy, as head of "the newest member of the Sierra family"[^ref-77]. Synergistic also developed Hellfire, the 1997 expansion for Blizzard's Diablo[^ref-84][^ref-65].
 
 The tabletop Birthright setting was created by Rich Baker and Colin McComb, who are credited as "Birthright Author" in the game[^ref-76][^ref-83]. The setting included rules for ruling realms and fighting army battles[^ref-25].
 
@@ -101,7 +101,7 @@ Computer Games Strategy Plus reported that lead designer Bob Clardy "enthusiasti
 
 ### Technical Achievements
 
-MobyGames credits a team of "Nova Engine Programmers," Synergistic's own engine[^ref-76]. The adventures run on modified Doom WADs, according to fan research reported by Kiran Welle[^ref-65]. Kiran Welle, who has rebuilt the game from its source code, writes that batch files in the source suggest Synergistic saved changes in ZIP files[^ref-52]. Building the source requires the Watcom 10.6 compiler, the DirectX 5.0 SDK and the Windows 95 DDK[^ref-47].
+MobyGames credits a team of "Nova Engine Programmers" for the game's Nova engine[^ref-76]. The adventures run on modified Doom WADs, according to fan research reported by Kiran Welle[^ref-65]. Kiran Welle, who has rebuilt the game from its source code, writes that batch files in the source suggest Synergistic saved changes in ZIP files[^ref-52]. Building the source requires the Watcom 10.6 compiler, the DirectX 5.0 SDK and the Windows 95 DDK[^ref-47].
 
 The Sierra Help Pages say the game was designed for DirectX 2.0 and does not work properly with later versions[^ref-61]. CGW listed the system requirements as a Pentium 75 (P100 recommended), 8MB of RAM (32MB recommended), Windows 95 or MS-DOS 5.0, 30MB of hard drive space and SVGA graphics[^ref-24][^ref-62].
 
@@ -127,6 +127,9 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 - [[1995 - High Seas Trader]]
 - [[1996 - Space Bucks]]
 - [[1996 - The Rise & Rule of Ancient Empires]]
+- [[Synergistic Software]]
+- [[Robert Clardy]]
+- [[1997 - Diablo - Hellfire]]
 
 ## References
 
@@ -137,9 +140,9 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 [^ref-24]: Wayback Machine - Computer Gaming World. "Birthright: The Gorgon's Alliance" review by Gavin Hachiya Wasserman, posted 10/22/97. Accessed October 14, 2026. https://web.archive.org/web/20000816004654/http://www.gamespot.com/strategy/birthrig/review_cgw.html
 [^ref-25]: HonestGamers. "Birthright: The Gorgon's Alliance (PC) Review" by zanzard, January 5, 2008. Accessed October 14, 2026. http://www.honestgamers.com/6679/pc/birthright-the-gorgons-alliance/review.html
 [^ref-33]: Wayback Machine - PC Gamer. "Birthright: The Gorgon's Alliance" review by Keith Sullivan, December 1997. Accessed October 14, 2026. https://web.archive.org/web/20000312052612/http://www.pcgamer.com/reviews/184.html
-[^ref-34]: GameSpot. "Birthright: The Gorgon's Alliance Review." Accessed October 14, 2026. https://www.gamespot.com/reviews/birthright-the-gorgons-alliance-review/1900-2538176/
+[^ref-34]: GameSpot. "Birthright: The Gorgon's Alliance Review" by Gamespot Staff, May 1, 2000. Accessed October 14, 2026. https://www.gamespot.com/reviews/birthright-the-gorgons-alliance-review/1900-2538176/
 [^ref-36]: Wayback Machine - Computer Games Strategy Plus. "Birthright: The Gorgon's Alliance" review by Peter Smith (1997). Accessed October 14, 2026. https://web.archive.org/web/20050511041440/http://www.cdmag.com/articles/003/151/birthright_review.html
-[^ref-40]: Reddit r/patientgamers. "Birthright: The Gorgon's Alliance - The Good, The Bad" (2023). Accessed January 7, 2026. https://www.reddit.com/r/patientgamers/comments/13a3brl/birthright_the_gorgons_alliance_the_good_the_bad/
+[^ref-40]: Reddit r/patientgamers. "Birthright: The Gorgon's Alliance - The Good, The Bad" (2023). Accessed October 14, 2026. https://www.reddit.com/r/patientgamers/comments/13a3brl/birthright_the_gorgons_alliance_the_good_the_bad/
 [^ref-41]: MyAbandonware. "Birthright: The Gorgon's Alliance." Accessed October 14, 2026. https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov
 [^ref-42]: GitHub Issues. "Any chance you can fix Birthright: Gorgon's alliance too?" juanitogan/rbxit #13, July 23, 2018. Accessed October 14, 2026. https://github.com/juanitogan/rbxit/issues/13
 [^ref-47]: Kiran Welle. "Rebuilding Birthright: The Gorgon's Alliance" (May 28, 2024). Accessed October 14, 2026. https://www.kiranwelle.com/posts/2024/05/birthright
