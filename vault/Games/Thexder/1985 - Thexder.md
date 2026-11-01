@@ -6,12 +6,12 @@ designer: [Hibiki Godai, Satoshi Uesaka]
 publisher: Sierra On-Line
 genre: Action
 platforms: [PC-8801, PC-8001, Sharp X1, FM-7, Famicom, MSX, Sharp MZ-2500, PC-9801, Apple
-    II, Apple IIgs, DOS, Amiga, TRS-80 Color Computer 3, Mac, Nintendo Switch]
+    II, Apple IIgs, MS-DOS, Amiga, TRS-80 Color Computer 3, Macintosh, Nintendo Switch]
 series: Thexder
 engine: null
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-16'
+last_updated: '2026-11-01'
 description: Thexder is a transforming robot action game developed by Game Arts for
   the NEC PC-8801 in 1985 and published in North America by Sierra On-Line, which
   imported it from Japan and ported it to several computers.
@@ -19,7 +19,7 @@ tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The game was "favored for the smooth animation, fast 8-direction scrolling and r
 
 ## Story Summary
 
-In the Western release, the player's Thexder, the only one in existence, is trapped inside "a heinous alien complex". Twenty kinds of enemy creatures try to stop it from crossing the 16 levels to the central computer. Destroying that computer lets Thexder escape and ends the aliens' "only means of reproduction"[^ref-20]. The original Japanese release frames it differently: Thexder is sent into the underground fortress of the floating asteroid Nediam to destroy the magnetic field generator that has trapped its mother ship[^ref-11][^ref-4]. The Japanese tagline was "変形ロボット'THEXDER'…君が操る!" (Transforming Robot 'THEXDER'... You control it!)[^ref-11]. According to the MSX manual, "Thexder is unphonetically pronounced te-g-zah because the pronunciation rule is different in the future"[^ref-12].
+In the Western release, the player's Thexder, the only one in existence, is trapped inside "a heinous alien complex". Twenty kinds of enemy creatures try to stop it from crossing the 16 levels to the central computer. Destroying that computer lets Thexder escape and ends the aliens' "only means of reproduction"[^ref-20]. The original Japanese release frames it differently: Thexder is sent into the underground fortress of the floating asteroid Nediam to destroy the magnetic field generator that has trapped its mother ship[^ref-11][^ref-4]. The Japanese tagline was "変形ロボット'THEXDER'…君が操る!" (Transforming Robot 'THEXDER'... You control it!)[^ref-11]. Generation MSX, citing the manual, says "Thexder is unphonetically pronounced te-g-zah because the pronunciation rule is different in the future"[^ref-12].
 
 ## Gameplay
 
@@ -75,11 +75,11 @@ Much of the game depends on switching between robot and jet forms to suit the te
 
 ### Commercial Performance
 
-In its Spring 1988 newsletter, Sierra reported that Thexder had "already sold more than 100,000 units in this country"[^ref-41]. Later in 1988, Thexder earned a Software Publishers Association Gold Medal. In the same newsletter Sierra called it "our bestselling title last Christmas"[^ref-40]. Sierra's 1990 *Sierra News Magazine* said the game sold 500,000 units in Japan, won Japan's BHS (Best Hit Software) award and "became Sierra's best seller for 1987"[^ref-39]. The 1990 box of the sequel *Fire Hawk* claimed "over one million units sold worldwide"[^ref-48].
+In its Spring 1988 newsletter, Sierra reported that Thexder had "already sold more than 100,000 units in this country"[^ref-41]. Later in 1988, Thexder earned a Software Publishers Association Gold Medal[^ref-40]. In its Winter 1988 newsletter Sierra called it "our bestselling title last Christmas" (Christmas 1987)[^ref-40]. Sierra's 1990 *Sierra News Magazine* said the game sold 500,000 units in Japan, won Japan's BHS (Best Hit Software) award and "became Sierra's best seller for 1987"[^ref-39]. The 1990 box of the sequel *Fire Hawk* claimed "over one million units sold worldwide"[^ref-48].
 
 ### Modern Assessment
 
-MobyGames lists a critics' average of 59% from 14 reviews and a player average of 3.7 out of 5 from 76 ratings, for a Moby Score of 6.9[^ref-1]. A GameFAQs user review of the Apple II version gave it 4/10, saying "Nonsensical controls ruin what could have been a decent Transformers rip-off"[^ref-23].
+As of February 2026, MobyGames listed a critics' average of 59% from 14 reviews and a player average of 3.7 out of 5 from 73 ratings; its API later returned a Moby Score of 6.9 from 76 votes[^ref-1]. A GameFAQs user review of the Apple II version gave it 4/10, saying "Nonsensical controls ruin what could have been a decent Transformers rip-off"[^ref-23].
 
 ## Development
 
@@ -87,13 +87,13 @@ MobyGames lists a critics' average of 59% from 14 reviews and a player average o
 
 Thexder was designed by two Game Arts developers, Hibiki Godai and Satoshi Uesaka[^ref-1][^ref-8]. The PC-8801mkIISR version came out in April 1985[^ref-1][^ref-11]. GameSpot reports that Takeshi Miyaji founded Game Arts in 1985 with his brother Yoichi Miyaji[^ref-44]. Sierra said the company started in a small garage, "by Miyaji and 6 employees", and that Thexder was its first product[^ref-39][^ref-25]. Japanese advertising billed Thexder as a "new type action game" with "超高速スクロールと美しいアニメーショングラフィックス" (ultra-high-speed scrolling and beautiful animation graphics)[^ref-11].
 
-Extra Lives, citing Sierra's Tenth Anniversary catalog, says Ken Williams found Thexder on a 1986 trip to Japan. He was "politely shooed out of three Japanese computer stores" for spending too much time playing it, and he bought an NEC PC-88 and a copy of the game to take home[^ref-6]. Sierra's accounts of the US release date disagree. The 1990 *Sierra News Magazine* says Thexder "debuted in U.S. computer stores just in time for Christmas 1986"[^ref-39], and the *Fire Hawk* box says "In 1986, Sierra released the original Thexder"[^ref-48]. Ken Williams's Spring 1988 newsletter article, written closer to the event, says Thexder "was released in September of 1987"[^ref-41]. MobyGames dates the Apple IIgs release to September 1987 and the DOS release to October 1987[^ref-1]. Sierra's port from the NEC machine to the IBM PC "required a major rewrite"[^ref-41].
+Extra Lives, citing Sierra's Tenth Anniversary catalog, says Ken Williams found Thexder on a 1986 trip to Japan. He was "politely shooed out of three Japanese computer stores" for spending too much time playing it, and he bought an NEC PC-88 and a copy of the game to take home[^ref-6]. Sierra's accounts of the US release date disagree. The 1990 *Sierra News Magazine* says Thexder "debuted in U.S. computer stores just in time for Christmas 1986"[^ref-39] (the same issue elsewhere says Sierra "released in the U.S. in 1987" and that it was "imported and released for U.S. gamers by Sierra in 1987"[^ref-39]), and the *Fire Hawk* box says "In 1986, Sierra released the original Thexder"[^ref-48]. Ken Williams's Spring 1988 newsletter article, written closer to the event, says Thexder "was released in September of 1987"[^ref-41]. MobyGames dates the Apple IIgs release to September 1987 and the DOS release to October 1987[^ref-1]. Sierra's port from the NEC machine to the IBM PC "required a major rewrite"[^ref-41].
 
 ### Production
 
 Godai said development took "about two months", and Uesaka said that one of those months "was just spent brainstorming"[^ref-8]. Asked about his hours, Godai said: "when I'm into it, I'm fine working three days straight without sleep"[^ref-8]. Uesaka said that "Thexder himself has 48 animation patterns, and the 72 different enemies are also animated". He also built a balsa-wood model to check that the transformation animation worked[^ref-8]. The PC-8801 version advertised "15 frames per second" high-speed eight-directional scrolling (毎秒15枚の高速8方向スクロール)[^ref-11].
 
-Hibiki Godai (the pen name of programmer Kohei Ikeda) composed the opening theme. The ending and game-over music is Beethoven's "Moonlight Sonata"[^ref-1][^ref-11]. Both "THEXDER" and "Moonlight Sonata" appear on Game Arts' 1985 cassette *MICOM GAME MUSIC VOL.1*, which credits Godai as composer and arranger[^ref-26]. One player later wrote: "I still hear Moonlight Sonata in my head to this day from all the times I died playing this game"[^ref-27].
+Hibiki Godai (the pen name of programmer Kohei Ikeda) composed the opening theme. The ending and game-over music is Beethoven's "Moonlight Sonata"[^ref-11], although MobyGames trivia instead says the title theme was "Beethoven's Moonlight Sonata"[^ref-1]. Both "THEXDER" and "Moonlight Sonata" appear on Game Arts' 1985 cassette *MICOM GAME MUSIC VOL.1*, which credits Godai as composer and arranger[^ref-26]. One player later wrote: "I still hear Moonlight Sonata in my head to this day from all the times I died playing this game"[^ref-27].
 
 ### Technical Achievements
 
@@ -143,7 +143,7 @@ D4 Enterprise re-released the PC-8801mkIISR version on Nintendo Switch through i
 ## References
 
 [^ref-1]: [MobyGames – Thexder](https://www.mobygames.com/game/49/thexder/) – credits, release dates and publishers by platform, description, critic and player scores
-[^ref-3]: [GIGAZINE – Square Enix revives "THEXDER" (archived 2012)](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – one of the first robot action games from Game Arts
+[^ref-3]: [GIGAZINE – Square Enix revives "THEXDER" (archived 2012)](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) ([live copy](https://gigazine.net/gsc_news/en/20090824_thexder/)) – one of the first robot action games from Game Arts
 [^ref-4]: [Nintendo eShop – EGGCONSOLE THEXDER PC-8801mkIISR](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – publisher description: 16 stages plus 16 back stages, robot and fighter forms; Switch release 26 October 2023
 [^ref-6]: [Extra Lives – It came from Japan: Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) – Ken Williams discovery story, citing Sierra's Tenth Anniversary catalog
 [^ref-8]: [Shmuplations – Thexder 1985 Developer Interview](https://shmuplations.com/thexder/) – translation of a 1985 BEEP magazine interview with Hibiki Godai and Satoshi Uesaka
@@ -169,7 +169,7 @@ D4 Enterprise re-released the PC-8801mkIISR version on Nintendo Switch through i
 [^ref-37]: [Time Extension – PC-88 Classics Thexder & Relics Land On Nintendo Switch](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – 2023 re-release
 [^ref-38]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – overview, Square Famicom licence
 [^ref-39]: [Sierra News Magazine, Vol. 3 No. 3, Fall 1990, p. 49 – "Sierra Welcomes Game Arts of Japan"](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n48/mode/1up) – garage and 6 employees, 500,000 units in Japan, BHS award, Christmas 1986 debut, Sierra's best seller for 1987
-[^ref-40]: [Sierra Newsletter, Vol. 1 No. 4, Fall/Winter 1988, p. 4 – "Three More Sierra Games Go for the Gold!"](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988/page/n3/mode/1up) – SPA Gold Medal, "Sierra's first arcade title since 1985", "our bestselling title last Christmas"
+[^ref-40]: [Sierra Newsletter, Vol. 1 No. 4, Winter 1988, p. 4 – "Three More Sierra Games Go for the Gold!"](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988/page/n3/mode/1up) – SPA Gold Medal, "Sierra's first arcade title since 1985", "our bestselling title last Christmas"
 [^ref-41]: [Sierra Newsletter, Vol. 1 No. 3, Spring 1988, p. 3 – Ken Williams, "Sierra Visits Japan!"](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988/page/n2/mode/1up) – released September 1987, first import from Japan, more than 100,000 US units
 [^ref-42]: [Info #25, March/April 1989, p. 51 – Thexder (Tom Malcom)](https://archive.org/details/Info_Issue_25_1989-03_Info_Publications_US/page/n52/mode/1up) – Amiga review, 4½ stars
 [^ref-43]: [Dragon #176, December 1991, p. 62 – "The Role of Computers" (Hartley, Patricia and Kirk Lesser)](https://archive.org/details/dragon-magazine-176/page/n63/mode/1up) – Macintosh version, four stars, "a great arcade treat"
