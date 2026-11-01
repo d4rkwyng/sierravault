@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: Proprietary (Dynamix)
 protagonist: Player-created angler
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Trophy Bass is a 1995 bass fishing simulation developed by Dynamix and
   published by Sierra On-Line for Windows and Macintosh, endorsed by the Bass Anglers
   Sportsman Society and set on five real American bass lakes.
@@ -18,15 +18,15 @@ tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Trophy Bass is a bass fishing simulation developed by [[Dynamix]] and published by Sierra On-Line in 1995 for Windows and Macintosh.[^ref-3][^ref-8] Previewed by PC Gamer as "Sierra On-Line's first-ever fishing simulation," it was the first release in Sierra's Outdoor Sportsman line.[^ref-42][^ref-8] Sierra marketed it as "The Premier game for Bass Pros and other lucky anglers,"[^ref-2] and its advertising pitched it at the "50 million people in this country" who "love to feel the tug on a rod."[^ref-38] The game was endorsed by the Bass Anglers Sportsman Society (B.A.S.S.).[^ref-7][^ref-37]
+Trophy Bass is a bass fishing simulation developed by [[Dynamix]] and published by Sierra On-Line in 1995 for Windows and Macintosh.[^ref-3][^ref-8] Previewed by PC Gamer as "Sierra On-Line's first-ever fishing simulation," it was the first release in Sierra's Outdoor Sportsman line.[^ref-42][^ref-8] Amazon's listing describes it as "The Premier game for Bass Pros and other lucky anglers,"[^ref-2] and its advertising pitched it at the "50 million people in this country" who "love to feel the tug on a rod."[^ref-38] The game was endorsed by the Bass Anglers Sportsman Society (B.A.S.S.).[^ref-7][^ref-37]
 
 Players can compete in a B.A.S.S. Masters tournament, pursue a fishing career, or simply spend an afternoon on one of five virtual lakes: Lake of the Ozarks (Missouri), Sam Rayburn Reservoir (Texas), Lake Sidney Lanier (Georgia), Lake Murray (South Carolina) and High Rock Lake (North Carolina).[^ref-37][^ref-38][^ref-39] The lake is seen from a top-down perspective, and players choose lures, rods, reels and locations while weighing conditions such as weather, season, time of day, wind and water temperature.[^ref-7][^ref-39]
 
-Trophy Bass was also a commercial success. Writing in 2024, Jimmy Maher called it Dynamix's most profitable game of all, one that "sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than it did from computer and gaming stores."[^ref-6] Together with its sequel, it had sold over half a million units by November 1997.[^ref-23]
+Trophy Bass was also a commercial success. Writing in 2024, Jimmy Maher called a game named Trophy Bass (he does not say which entry) Dynamix's most profitable of all, one that "sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than it did from computer and gaming stores."[^ref-6] Together with its sequel, it had sold over half a million units by November 1997.[^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-3]
@@ -108,7 +108,7 @@ On MyAbandonware, Trophy Bass holds a 4.31 out of 5 user rating. One commenter w
 Maher has pointed out how far the game has fallen out of retro-gaming memory, given its commercial weight. As of his 2024 writing, Trophy Bass had "precisely zero reviews on the central fandom database MobyGames," and yet "it was absolutely huge in its day."[^ref-6]
 
 **Aggregate Scores:**
-- **MobyGames:** 71% critic average, from 10 ratings[^ref-3]
+- **MobyGames:** 71% critic average, from 12 ratings[^ref-3]
 - **MyAbandonware:** 4.31/5 (user ratings)[^ref-14]
 - **Amazon:** 2.3/5 (customer reviews)[^ref-2]
 
@@ -116,7 +116,7 @@ Maher has pointed out how far the game has fallen out of retro-gaming memory, gi
 
 ### Origins
 
-Trophy Bass was developed at [[Dynamix]] and published by Sierra On-Line.[^ref-3] The credits list [[Jeff Tunnell]] as executive producer, and [[Randy Dersham]] as producer and designer.[^ref-3][^ref-1] In September 1995, when PC Gamer previewed it as "Sierra On-Line's first-ever fishing simulation," the game was "slated for fall release."[^ref-42] It was not the only fishing game on the way. PC Gamer's caption noted that its top-down view "may not be as attractive as Amtek's *Gone Fishin'*, but it does give a good view of the fish."[^ref-42]
+Trophy Bass was developed at [[Dynamix]] and published by Sierra On-Line.[^ref-3] The credits list [[Jeff Tunnell]] as executive producer, and [[Randy Dersham]] as producer and designer.[^ref-3][^ref-1] In September 1995, when PC Gamer previewed it as "Sierra On-Line's first-ever fishing simulation," the game was "slated for fall release."[^ref-42] PC Gamer's caption noted that its top-down view "may not be as attractive as Amtek's *Gone Fishin'*, but it does give a good view of the fish."[^ref-42]
 
 The game carried the endorsement of the Bass Anglers Sportsman Society.[^ref-7][^ref-8] Sierra's advertising credited "the super-accurate simulation and detailed how-to information" for earning that endorsement.[^ref-38]
 
@@ -175,7 +175,7 @@ The archival soundtrack release was recorded through Roland Sound Canvas SC-55 h
 
 ### Technical Issues
 
-The Windows release is a 16-bit Windows 3.1-era program (MobyGames lists a "Windows 16-bit" version).[^ref-3][^ref-37] One MyAbandonware commenter reports the game refusing to run on a 64-bit system; another reports installing it on Windows 10 with OTVDM, a 16-bit compatibility layer.[^ref-14]
+MobyGames lists both a "Windows" and a "Windows 16-bit" release, and Computer Gaming World's requirements name Windows 3.1 or Windows 95, so a 16-bit Windows 3.1-era version exists alongside a Windows 95 one.[^ref-3][^ref-37] One MyAbandonware commenter reports the game refusing to run on a 64-bit system; another reports installing it on Windows 10 with OTVDM, a 16-bit compatibility layer.[^ref-14]
 
 ### Easter Eggs and Trivia
 
@@ -187,15 +187,15 @@ The Windows release is a 16-bit Windows 3.1-era program (MobyGames lists a "Wind
 
 ### Sales and Commercial Impact
 
-By November 1997, Trophy Bass and its sequel had sold over half a million units combined.[^ref-23] In July 1999, CNET Gamecenter reported that Field & Stream Trophy Bass and Trophy Bass 2 Deluxe "have sold more than 1.5 million copies to date."[^ref-44] Maher counts Trophy Bass as Dynamix's most profitable game, writing that it was "eclipsed, in fact, only by the unrivaled king of Wal-Mart software: *Deer Hunter*."[^ref-6]
+By November 1997, Trophy Bass and its sequel had sold over half a million units combined.[^ref-23] In July 1999, CNET Gamecenter reported that Field & Stream Trophy Bass and Trophy Bass 2 Deluxe "have sold more than 1.5 million copies to date."[^ref-44] Maher counts the Trophy Bass line as Dynamix's most profitable, writing that it was "eclipsed, in fact, only by the unrivaled king of Wal-Mart software: *Deer Hunter*."[^ref-6]
 
 ### Franchise Evolution
 
 The series continued through the late 1990s and into the 2000s:
 
 - **Front Page Sports: Trophy Bass 2** (1996). It had ten lakes in total, against the original's five, and added multiplayer over a network, a modem or the Internet.[^ref-24][^ref-31]
-- **Trophy Bass 2: Northern Lakes** (1997). An expansion pack adding further lakes.[^ref-25]
-- **Trophy Bass 2 Deluxe** (1998). A compilation of Trophy Bass 2 and the Northern Lakes expansion.[^ref-26][^ref-3]
+- **Trophy Bass 2: Northern Lakes** (1997). An expansion pack adding further lakes, five according to the Internet Archive's description of the Deluxe compilation.[^ref-26][^ref-25]
+- **Trophy Bass 2 Deluxe** (1998). A compilation of Trophy Bass 2 and the Northern Lakes expansion.[^ref-26][^ref-45]
 - **Field & Stream: Trophy Bass 3D** (1999). It had 15 tournament lakes and 30 fish species.[^ref-44][^ref-27]
 - **Field & Stream: Trophy Bass 4** (2000). Database listings give it 25 real lakes and more than 1,000 fishing items.[^ref-28]
 - **Trophy Bass Fishing 5** (cancelled). A planned Xbox release.[^ref-29]
@@ -206,12 +206,12 @@ The series continued through the late 1990s and into the 2000s:
 
 ### Critical Perspective
 
-Trophy Bass is a case study in how a game's commercial weight and its place in collective memory can come apart. Maher ranks it as Dynamix's most profitable game, ahead of titles that "are still discussed today" such as *Betrayal at Krondor* and *The Incredible Machine*, while noting that it had no reviews at all on MobyGames.[^ref-6] Sierra kept working the outdoor-sports market. In November 1997, betas of *Front Page Sports: Trophy Rivers* were going out to the press,[^ref-23] and Sierra's support pages group the Trophy Bass patches with those for the *Trophy Buck* hunting games.[^ref-17]
+Trophy Bass is a case study in how a game's commercial weight and its place in collective memory can come apart. Maher ranks the Trophy Bass line as Dynamix's most profitable game (he does not say which entry), ahead of titles that "are still discussed today" such as *Betrayal at Krondor* and *The Incredible Machine*, while noting that, as of his 2024 writing, it had no player reviews on MobyGames.[^ref-6] Sierra kept working the outdoor-sports market. In November 1997, betas of *Front Page Sports: Trophy Rivers* were going out to the press,[^ref-23] and Sierra's support pages group the Trophy Bass patches with those for the *Trophy Buck* hunting games.[^ref-17]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam
+- Not currently sold on GOG or Steam (checked November 1, 2026)
 
 ## Downloads
 
@@ -237,7 +237,7 @@ Trophy Bass is a case study in how a game's commercial weight and its place in c
 
 [^ref-1]: [Dynamix Fandom Wiki – Trophy Bass](https://dynamix.fandom.com/wiki/Trophy_Bass) – full credits list (agrees with MobyGames)
 [^ref-2]: [Amazon – Trophy Bass](https://www.amazon.com/Sierra-Trophy-Bass/dp/B0007Y9DK2) – product tagline, customer rating
-[^ref-3]: [MobyGames – Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – developer/publisher, platforms, credits, input devices, 71% critic average (10 ratings), related releases
+[^ref-3]: [MobyGames – Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – developer/publisher, platforms, credits, input devices, 71% critic average (12 ratings), related releases
 [^ref-5]: [Coming Soon Magazine – Trophy Bass Review (Wayback, April 1997)](https://web.archive.org/web/19970416102111/http://www.csoon.com/issue10/trophy.htm) – 84% review, system requirements, no printed manual
 [^ref-6]: [The Digital Antiquarian – "Tex Murphy and the Coming of the DVD (A Shaggy-Dog Story)" (Jimmy Maher, 2024)](https://www.filfre.net/2024/08/tex-murphy-and-the-coming-of-the-dvd-a-shaggy-dog-story/) – Dynamix's most profitable game, Wal-Mart sales, zero MobyGames reviews
 [^ref-7]: [PC Gamer Review (Archive.org)](https://web.archive.org/web/20000309215210/http://www.pcgamer.com/reviews/1098.html) – Ned Gaskins review, February 1996, 90% score
@@ -264,3 +264,4 @@ Trophy Bass is a case study in how a game's commercial weight and its place in c
 [^ref-42]: [PC Gamer #16 (September 1995), "Eyewitness" news section, Trophy Bass preview (Internet Archive scan)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n45/mode/2up) – "Sierra On-Line's first-ever fishing simulation", slated for fall release, comparison with Gone Fishin'
 [^ref-43]: [GameSpot – Trophy Bass Review (Hugo Foster, May 1, 1996)](https://www.gamespot.com/reviews/trophy-bass-review/1900-2535346/) – 7.6 score and verdict
 [^ref-44]: [CNET Gamecenter – "Trophy Bass 3D Hits the Shelves" (Bill McClendon, July 6, 1999; Archive.org)](https://web.archive.org/web/20000817165812/http://www.gamecenter.com/News/Item/0,3,0-2946,00.html) – predecessors sold more than 1.5 million copies; Trophy Bass 3D's 15 lakes and 30 species
+[^ref-45]: [MobyGames – Trophy Bass 2 Deluxe](https://www.mobygames.com/game/20481/) – Windows and Windows 16-bit releases dated 1998 (read via the MobyGames API)
