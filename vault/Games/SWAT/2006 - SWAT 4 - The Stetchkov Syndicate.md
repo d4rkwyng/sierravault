@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-01'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is the 2006 expansion pack for the tactical
   first-person shooter SWAT 4, developed by Irrational Games and published by Sierra
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ Computer Gaming World's Raphael Liberatore gave the expansion an Editors' Choice
 
 Eurogamer's Jim Rossignol gave the expansion 8/10,[^ref-1] calling it "the most atmospheric and believable squad-tactics game to date" and favorably comparing it to competitors: "Compare the detailed and kinetic experience of The Stetchkov Syndicate to the recent cadaverous efforts of Rainbow Six: Lockdown and you begin to see that this is one of the finest PC games we have."[^ref-4] Worth Playing described it as "one of the most solid expansions I have ever played."[^ref-3]
 
-GameSpot praised the expansion's additions, noting that "The Stetchkov Syndicate's additional weapons, aggressive suspects, and new multiplayer mode breathe new life into an already great tactical shooter."[^ref-3] GamesRadar+ appreciated the improvements, stating "Meatier story, more creative, twisted-up areas and less bugs; this extension of SWAT 4's police-shooting action has us handcuffed."[^ref-24]
+GameSpot praised the expansion's additions, noting that "The Stetchkov Syndicate's additional weapons, aggressive suspects, and new multiplayer mode breathe new life into an already great tactical shooter."[^ref-3] GamesRadar+'s review page summed it up in its summary line: "Meatier story, more creative, twisted-up areas and less bugs; this extension of SWAT 4's police-shooting action has us handcuffed."[^ref-45]
 
 Later assessments were more measured. Cult Classic Corner's 2019 review concluded: "If you liked SWAT, then Stetchkov Syndicate is definitely for you. But if the engagingly inconsistent AI of literally everyone makes you want to hit a hole into your monitor like the first game did, maybe give this a skip."[^ref-12]
 
@@ -115,7 +115,7 @@ The expansion keeps the base game's rules of engagement, built on the idea that 
 
 ### Production
 
-The manual credits Ken Levine as Creative Director at Irrational Games, with Jay Kyburz as producer and Andrew Orman writing the script.[^ref-6] (IMDb lists Levine as director.)[^ref-27] IGN noted "more complex building geography" and missions that are "more involved and usually larger-scale than what we had before,"[^ref-23] and GamesRadar+ praised "more creative, twisted-up areas."[^ref-24]
+The manual credits Ken Levine as Creative Director at Irrational Games, with Jay Kyburz as producer and Andrew Orman writing the script.[^ref-6] (IMDb lists Levine as director.)[^ref-27] IGN noted "more complex building geography" and missions that are "more involved and usually larger-scale than what we had before,"[^ref-23] and the summary line on GamesRadar+'s review page promised "more creative, twisted-up areas."[^ref-45]
 
 **Development Credits** (from the manual unless noted):[^ref-6]
 - **Director of Product Development:** Jonathan Chey
@@ -143,7 +143,7 @@ A new CO-OP Quick Mission Maker lobby, a multiplayer variant of SWAT 4's Quick M
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-30]
+**System Requirements:**[^ref-30][^ref-6]
 
 *Minimum:*
 - **OS:** Windows 98 SE / Windows 2000 (SP 3) / Windows XP (SP 1)
@@ -160,7 +160,7 @@ A new CO-OP Quick Mission Maker lobby, a multiplayer variant of SWAT 4's Quick M
 
 **Supported Resolutions:** 800×600, 1280×1024, 1680×1050[^ref-30]
 
-**Copy Protection:** SecuROM 5 (retail release)[^ref-41]
+**Copy Protection:** SecuROM 5 on the SWAT 4 base game's retail release (no expansion-specific source found)[^ref-41]
 
 ### Cut Content
 
@@ -270,6 +270,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 - [GOG.com – SWAT 4: Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition)
 
 **Download / Preservation**
+- None listed (sold on GOG)
 
 **Manuals & Extras**
 - [Game Manual (DjVu Text)](https://archive.org/stream/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual_djvu.txt)
@@ -329,3 +330,4 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-42]: [PC Gamer – SWAT 4 holds up as a smart tactical shooter with great storytelling](https://www.pcgamer.com/swat-4-holds-up-as-a-smart-tactical-shooter-with-great-storytelling/) – Andy Kelly, 2017 retrospective: Fairview as fictional East Coast city, expansion assessment
 [^ref-43]: [Wikipedia – Irrational Games](https://en.wikipedia.org/wiki/Irrational_Games) – Take-Two acquisition in 2006, known as 2K Boston 2007–2009, BioShock series
 [^ref-44]: [Wikipedia – SWAT: Target Liberty](https://en.wikipedia.org/wiki/SWAT:_Target_Liberty) – 2007 PSP tactical shooter by 3G Studios, NA release October 16, 2007
+[^ref-45]: [GamesRadar+ – SWAT 4: The Stetchkov Syndicate review (Wayback Machine, July 2024)](https://web.archive.org/web/20240722110455/https://www.gamesradar.com/swat-4-the-stetchkov-syndicate-review/) – page summary line ("Description" field), not the review body
