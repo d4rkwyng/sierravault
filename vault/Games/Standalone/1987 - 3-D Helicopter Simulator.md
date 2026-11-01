@@ -10,7 +10,7 @@ series: Standalone
 engine: null
 protagonist: Helicopter pilot (player)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Sierra's 3-D Helicopter Simulator is a 1987 DOS helicopter flight and
   combat simulator programmed by Joe Wofford, notable for head-to-head play by modem
   or null-modem cable.
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 
 ## Overview
@@ -108,7 +108,7 @@ Computer Gaming World's review lists Joe Wofford as the designer[^ref-18], as do
 
 ### Technical Achievements
 
-Modem play needed two copies of the game. The two players did not need the same kind of computer, and the game supported 300, 1200 and 2400 baud settings on COM1 or COM2[^ref-23]. While connected, players could type messages to each other[^ref-23][^ref-18].
+Modem play needed two copies of the game. The two players did not need the same kind of computer, and the manual recommends 1200 baud as the setting that "usually works best"[^ref-23][^ref-27]. While connected, players could type messages to each other[^ref-23][^ref-18].
 
 In the manual's "Programmer's note", Wofford explains that "to maximize the performance... we had to make some compromises between accuracy and speed". As a result, the helicopter can pass through some solid objects[^ref-23][^ref-27].
 
@@ -192,32 +192,8 @@ Reviews in 1988 agreed on the game's strengths and weaknesses. They praised the 
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
 - [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
 - [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
-
 
 ## References
 
