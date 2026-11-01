@@ -8,10 +8,10 @@ publisher: Sierra On-Line
 genre: Action RPG
 platforms: [PC-88, Sharp X1, DOS]
 series: Standalone
-engine: Game Arts proprietary (PC-88 original, modified by Sierra for DOS)
+engine: Unknown (Game Arts engine, modified by Sierra)
 protagonist: Duke Garland
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: Zeliard is a side-scrolling action role-playing game developed by Game
   Arts for the NEC PC-8801 in 1987 and published for MS-DOS in North America and
   Europe by Sierra On-Line in 1990.
@@ -20,7 +20,7 @@ composer: [Fumihito Kasatani, Nobuyuki Aoshima]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -28,13 +28,13 @@ Zeliard is a side-scrolling action role-playing game developed by [[Game Arts]] 
 
 Comma Eight Comma One called the game "a curious footnote in the history of Japanese computer games"[^ref-4], while Sierra's box copy promised "all the entertainment of an arcade game, and all the adventure of a role-playing game"[^ref-30]. Players take control of Duke Garland, a knight tasked with rescuing Princess Felicia and defeating the ancient demon Jashiin, who has cursed the kingdom of Zeliard with 115 days of devastating sand rain[^ref-5]. Game Arts' own product page describes eight underground worlds[^ref-24], and one MyAbandonware commenter wrote that "This game is what Zelda II should have been"[^ref-6].
 
-Sierra's Western release made considerable changes to the game engine, resulting in a version that "players and veterans consider to be a hard game, but ended up being much easier than the other two versions"[^ref-7]. After Ken Williams licensed Game Arts' Thexder on a 1986 trip to Japan, Sierra went on to port three more Game Arts titles to DOS: Fire Hawk: Thexder 2, Silpheed and Zeliard[^ref-3].
+Sierra's Western release made considerable changes to the game engine, resulting in a version that "players and veterans consider [this] to be a hard game, but ended up being much easier than the other two versions"[^ref-7]. After Ken Williams licensed Game Arts' Thexder on a 1986 trip to Japan, Sierra went on to port three more Game Arts titles to DOS: Fire Hawk: Thexder 2, Silpheed and Zeliard[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Game Arts]][^ref-2]
 > **Designer:** Rocky Cave Maker (credited as System Designer)[^ref-11]
 > **Publisher:** Game Arts (Japan), Sierra On-Line (US/Europe)[^ref-1]
-> **Engine:** Game Arts' own engine from the PC-88 original, modified by Sierra for DOS; only the v2.0 installer is Sierra's SCI0 setup program[^ref-7]
+> **Engine:** Unknown; the PC-88 version's engine was modified by Sierra for DOS[^ref-7]. Only the v2.0 installer is described as Sierra's SCI0 setup program[^ref-7]
 > **Platforms:** PC-88, Sharp X1, MS-DOS[^ref-1]
 > **Release Year:** 1987 (Japan), 1990 (US/Europe)[^ref-24][^ref-1]
 > **Series:** Standalone
@@ -45,7 +45,7 @@ Sierra's Western release made considerable changes to the game engine, resulting
 
 ## Story Summary
 
-The narrative of Zeliard centers on an ancient demon called Jashiin, self-dubbed the "Emperor of Chaos," who emerges from a two-thousand-year sleep to unleash his wrath upon the Kingdom of Zeliard[^ref-5]. According to legend, the rulers of Zeliard had allegedly harmed Jashiin in ages past, and now the awakened demon seeks his revenge[^ref-9]. For 115 days, a devastating sand rain falls upon the kingdom, transforming the once-prosperous land into a barren desert[^ref-5].
+The narrative of Zeliard centers on an ancient demon called Jashiin, self-dubbed the "Emperor of Chaos," who emerges from a two-thousand-year sleep to unleash his wrath upon the Kingdom of Zeliard[^ref-1][^ref-5]. According to legend, the rulers of Zeliard had allegedly harmed Jashiin in ages past, and now the awakened demon seeks his revenge[^ref-9]. For 115 days, a devastating sand rain falls upon the kingdom, transforming the once-prosperous land into a barren desert[^ref-5].
 
 To complete his cruel revenge, Jashiin turns Felicia, the princess of Zeliard, into stone[^ref-2]. King Felishika appoints Duke Garland, guided by the Guardian Spirit, to reclaim the holy crystals and end Jashiin's reign[^ref-8]. Garland must go into deep labyrinths and defeat eight of Jashiin's most deadly minions before facing Jashiin himself[^ref-35], collecting the Nine Tears of Esmesanti, which alone can reverse the curse[^ref-2].
 
@@ -71,7 +71,7 @@ The game has eight worlds[^ref-24][^ref-3], each linking towns to caverns. Level
 5. **Tumba Town** – Corroer and Cementar (boss: Vista)
 6. **Dorado Town** – Caverns of Tesoro and Plata (boss: Tarso)
 7. **Llama Town** – Caverns of Caliente, Reaccion and Correr (boss: Dragon)
-8. **Pureza Town**[^ref-7] – Caverns of Absor, Milagro, Desleal and Faltar, leading to the final cavern
+8. **Pureza Town** (the walkthrough itself calls this town "Peruga"; "Pureza" is the name in TCRF's exchange-rate table[^ref-7]) – Caverns of Absor, Milagro, Desleal and Faltar, leading to the final cavern
 - **Esco Village** – a secret, hidden village[^ref-35]
 
 ### Puzzles and Mechanics
@@ -134,7 +134,7 @@ The localization introduced notable changes: enemies give more experience points
 
 Zeliard supported a wide range of graphics modes: MCGA (64 colors), EGA (16 colors, at an unusual 640x200 resolution rather than the standard 320x200), Tandy (16 colors), CGA (4 colors) and Hercules (2 colors)[^ref-3]. The game employed a grid-based screen redrawing technique that enabled smooth 2D scrolling even on slower computers of the period[^ref-17].
 
-Zeliard supported multiple audio configurations including Roland MT-32, AdLib, Tandy 3-voice and the PC internal speaker[^ref-23]. Players could choose different hardware for music and sound effects, a feature that was still somewhat uncommon at the time, and the game could play multiple-channel music through the PC Speaker[^ref-17]. The complete soundtrack spans approximately 35-43 minutes depending on the platform version, with recordings preserved from the original Roland MT-32 MIDI score[^ref-26].
+Zeliard supported multiple audio configurations including Roland MT-32, AdLib, Tandy 3-voice and the PC internal speaker[^ref-23]. Players could choose different hardware for music and sound effects, a feature that was still somewhat uncommon at the time, and the game could play multiple-channel music through the PC Speaker[^ref-17]. KHInsider's PC-88 soundtrack album runs 42m 59s over 20 tracks[^ref-26], while its separate MT-32 album, recorded with a genuine Roland MT-32 (Rev 1), runs 34m 31s[^ref-34].
 
 ### Technical Specifications
 
@@ -168,8 +168,8 @@ The MS-DOS version omitted several features present in the original PC-8801 rele
 |---------|------|----------|-------|
 | Original | December 19, 1987 | PC-8801mkII SR | Original Japanese release[^ref-24] |
 | Port | May 13, 1988 | X1/turbo | Japanese Sharp X1 port[^ref-24] |
-| 1.208 | 1990 | MS-DOS | US release, uses a .bat file for setup[^ref-7] |
-| 2.0 | Unknown | MS-DOS | Setup uses Sierra's SCI0 installer/setup .exe (the game itself does not run on SCI)[^ref-7]; reported to have revised joystick detection[^ref-16] |
+| 1.208 | Unknown | MS-DOS | Uses a .bat file for setup[^ref-7] |
+| 2.0 | Unknown | MS-DOS | Setup uses Sierra's SCI0 installer/setup .exe[^ref-7]; reported to have revised joystick detection[^ref-16] |
 
 ### Technical Issues
 
@@ -245,30 +245,11 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
 - [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1989 - Fire Hawk - Thexder - The Second Contact]]
+- [[1985 - Thexder]]
+- [[1990 - Oils Well]]
+- [[Game Arts]]
 
 ## References
 
