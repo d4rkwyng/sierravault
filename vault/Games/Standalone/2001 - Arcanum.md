@@ -7,33 +7,33 @@ publisher: Sierra On-Line
 genre: Role-Playing
 platforms: [Windows]
 series: Arcanum
-engine: Custom 2D Engine
+engine: Custom in-house engine
 protagonist: The Living One
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 composer: [Ben Houge]
 description: 'Arcanum: Of Steamworks & Magick Obscura is a notable role-playing
   game that merges Tolkienian high fantasy with Victorian-era steampunk, creating
-  a...'
+  a unique world where magic and technology hold equal sway.'
 tags: [2000s, arcanum, rpg, sierra]
 ---
 # Arcanum: Of Steamworks & Magick Obscura
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Arcanum: Of Steamworks & Magick Obscura is a notable role-playing game that merges Tolkienian high fantasy with Victorian-era steampunk, creating a unique world where "magic and technology hold equal sway, and an adventurer might just as easily wield a flintlock pistol as a flaming sword."[^ref-1] Released in August 2001, it was the debut title from Troika Games, a studio founded by former Interplay Entertainment developers Tim Cain, Leonard Boyarsky, and Jason D. Anderson—the core creative team behind the original Fallout games.[^ref-2] The game "directly continues the role-playing tradition of Fallout games, creating a similar RPG experience in its own original world."[^ref-3]
+Arcanum: Of Steamworks & Magick Obscura is a notable role-playing game that merges Tolkienian high fantasy with Victorian-era steampunk, creating a unique world where "magic and technology hold equal sway, and an adventurer might just as easily wield a flintlock pistol as a flaming sword."[^ref-1] Released in August 2001, it was the debut title from Troika Games, a studio founded by former Interplay Entertainment developers Tim Cain, Leonard Boyarsky, and Jason D. Anderson—the core creative team behind the original Fallout games.[^ref-2] MobyGames user reviewer Unicorn Lynx wrote that the game "directly continues the role-playing tradition of Fallout games, creating a similar RPG experience in its own original world."[^ref-3]
 
-The game is set in a fantasy realm that has undergone an industrial revolution, pitting "technological devices such as steam engines and pistols against ancient ways of magic."[^ref-4] This magic/technology dichotomy forms the central mechanical and thematic tension of the game, as "technology and magic do not mix in our game because they are polar opposites with respect to natural physical law."[^ref-5] Players can create characters ranging from "Half-Orc Air Elementalists to Human Pirates and Dwarven Shotgun-wielding Necromancers,"[^ref-1] with unprecedented freedom allowing them to kill any NPC—including major quest characters—and still complete the game.[^ref-7][^ref-2]
+The game is set in a fantasy realm that has undergone an industrial revolution, pitting "technological devices such as steam engines and pistols against the ancient ways of magic."[^ref-4] This magic/technology dichotomy forms the central mechanical and thematic tension of the game, as "technology and magic do not mix in our game because they are polar opposites with respect to natural physical law."[^ref-5] Players can create characters ranging from "Half-Orc Air Elementalists to Human Pirates and Dwarven Shotgun-wielding Necromancers,"[^ref-1] with unprecedented freedom allowing them to kill any NPC—including major quest characters—and still complete the game.[^ref-7][^ref-2]
 
-Despite launching with numerous technical issues—a hallmark of Troika's ambitious projects—Arcanum earned critical acclaim and multiple awards, including PC Gamer's Role-Playing Game of the Year.[^ref-2] TV Tropes' overview of the game says it "retains a cult following similar to its cousin Fallout 1, and is additionally often very favorably compared to Baldur's Gate II and Planescape: Torment."[^ref-45] The game remains beloved by RPG enthusiasts who appreciate its "phenomenally well-written" narrative and extraordinary character creation depth, even if "its comparatively mediocre level design, poor balance, myriad bugs and clunky combat severely hamper its enjoyability."[^ref-9]
+Despite launching with numerous technical issues—a hallmark of Troika's ambitious projects—Arcanum earned critical acclaim and multiple awards, including PC Gamer's Role-Playing Game of the Year.[^ref-2] TV Tropes' overview of the game says it "retains a cult following similar to its cousin Fallout 1, and is additionally often very favorably compared to Baldur's Gate II and Planescape: Torment."[^ref-45] The game remains beloved by RPG enthusiasts: Computer Games Magazine called it "phenomenally well-written,"[^ref-2] and RPGreats praises the way the experience differs with the character you begin with, even if "its comparatively mediocre level design, poor balance, myriad bugs and clunky combat severely hamper its enjoyability."[^ref-9]
 
 > [!info]- Game Info
 > **Developer:** Troika Games[^ref-2]
 > **Designer:** Tim Cain, Leonard Boyarsky, Jason D. Anderson[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
-> **Engine:** Custom 2D Engine[^ref-10]
+> **Engine:** Custom in-house engine[^ref-10]
 > **Platforms:** Windows[^ref-2]
 > **Release Year:** 2001
 > **Series:** Arcanum
@@ -42,7 +42,7 @@ Despite launching with numerous technical issues—a hallmark of Troika's ambiti
 
 ## Story Summary
 
-The story begins dramatically aboard the IFS Zephyr, a passenger airship traveling across the continent of Arcanum. Without warning, the Zephyr is attacked by two mysterious figures in flying machines and crashes into a mountainside, leaving only the player character as a survivor.[^ref-11] A dying gnome with his last breath utters "find the boy" and presses a silver ring into the player's hands, setting in motion an epic adventure across a world in turmoil.[^ref-17]
+The story begins dramatically aboard the IFS Zephyr, a passenger airship traveling across the continent of Arcanum. Without warning, the Zephyr is attacked by two monoplanes piloted by half-ogre bandits and shot down over the mountains.[^ref-17][^ref-2] The player character crawls out of the wreckage as the sole survivor.[^ref-11] A dying gnome with his last breath utters "find the boy" and presses a silver ring into the player's hands, setting in motion an epic adventure across a world in turmoil.[^ref-17]
 
 The player, dubbed "The Living One," soon discovers they have become entangled in the religious beliefs of the Panarii faith, whose scriptures prophesy that "The Living One shall be reborn on wings of fire."[^ref-11] This mysterious identity, combined with the gnome's cryptic dying words, leads the player across the industrialized cities and magical wilderness of Arcanum. The investigation eventually reveals a conspiracy involving the powerful industrialist Gilbert Bates—a character whose name is a reference to Bill Gates[^ref-17]—the ancient elven civilization, and a threat that reaches beyond the mortal world into the realm known as the Void.
 
@@ -61,16 +61,16 @@ Arcanum employs an isometric perspective with a tile-based graphical system feat
 The game world is entirely open from nearly the beginning, allowing players to "walk anywhere in the world."[^ref-7] The main quest can be pursued in various orders, with multiple entry points and contingencies built into every quest to account for the unprecedented player freedom.[^ref-7] Experience is mostly based on damage dealt rather than simply participating in a fight, and character points arrive at a rate of one per level (two on levels that are multiples of five),[^ref-22] for a total of 64 character points if the character reaches level 50.[^ref-16]
 
 **Major Locations:**
-- **Crash Site** – Starting location after the Zephyr disaster
-- **Shrouded Hills** – First town encountered
-- **Tarant** – Major industrial city and technological hub
-- **Caladon** – Elegant capital with political intrigue
-- **Qintarra** – Elven forest city
-- **The Wheel Clan** – Dwarven underground settlement
-- **Tulla** – Hidden city of mages
-- **Isle of Despair** – Penal colony (a reference to Black Isle Studios)[^ref-17]
-- **Vendigroth Ruins** – Ancient technological civilization's remains
-- **The Void** – Extra-dimensional final area
+- **Crash Site** – Where the Zephyr goes down, in the Stonewall mountain range[^ref-11]
+- **Shrouded Hills** – Town not far from the crash site[^ref-11]
+- **Tarant** – One of the two largest cities of the Unified Kingdom, the most technologically advanced kingdom, and the Zephyr's destination[^ref-2]
+- **Caladon** – City in the Kingdom of Arland, where the Zephyr's voyage begins[^ref-2]
+- **Qintarra** – Elven city in the Glimmering Forest[^ref-2]
+- **The Wheel Clan** – One of the dwarven clans of the Stonewall and Grey Mountain ranges[^ref-2]
+- **Tulla** – Walled city of mages[^ref-17]
+- **Isle of Despair** – Penal colony on a remote island (a reference to Black Isle Studios)[^ref-17]
+- **Vendigroth Ruins** – Ruins of Vendigroth, "the most advanced city on Arcanum," which "met a sudden and mysterious end"[^ref-2]
+- **The Void** – Extra-dimensional final area, entered via the Ring of Brodgar in Roseborough; the player cannot return to the regular world once inside[^ref-16]
 
 ### Puzzles and Mechanics
 
@@ -84,7 +84,7 @@ Tim Cain explained that almost every object in the world can be damaged and dest
 
 ### Contemporary Reviews
 
-Arcanum received generally positive reviews upon release, with critics praising its ambition and depth while noting significant technical problems. GameSpot awarded 7.3/10, calling it a "captivating and immersive role-playing experience" while lamenting that "there's nothing flattering about the dated, washed-out, low-resolution graphics."[^ref-2] IGN gave 8.7/10, noting that "the story is rich and complex."[^ref-2] PC Gamer US awarded 90/100 and their Editor's Choice Award, stating that "Arcanum greatly exceeded our expectations, optimizing everything we hold dear about roleplaying on the computer."[^ref-2]
+Arcanum received generally positive reviews upon release, with critics praising its ambition and depth while noting significant technical problems. GameSpot awarded 7.3/10, calling it a "captivating and immersive role-playing experience" while lamenting that "there's nothing flattering about the dated, washed-out, low-resolution graphics."[^ref-2] IGN gave 8.7/10, noting that "the story is rich and complex."[^ref-2] PC Gamer US awarded 90/100, with the editors writing that "Arcanum greatly exceeded our expectations, optimizing everything we hold dear about roleplaying on the computer."[^ref-2] Ben Houge's soundtrack page lists a PC Gamer Editor's Choice Award among its accolades.[^ref-4]
 
 GameSpy scored it 89/100, while GameZone gave 90/100 with an Editor's Choice designation.[^ref-2] Next Generation magazine's Carla Hacker awarded 4/5 stars, describing it as "an in-depth and engaging role-playing game that deviates from the traditional fantasy setting."[^ref-2] Computer Games Magazine named it their Best Role-Playing Game of 2001 (tied with Wizardry 8) and awarded Best Writing, calling it "phenomenally well-written."[^ref-2] The Electric Playground declared it "the most diverse and open-ended RPG to date."[^ref-2]
 
@@ -96,7 +96,7 @@ In the UK, PC Zone's Chris Anderson gave it 84% in the September 2001 issue (#10
 
 Modern retrospectives have been mixed but often favorable. MobyGames user reviewer Terrence Bosky described Arcanum as "a failed masterpiece."[^ref-46] RPGreats noted that it was "among first to do it legitimately well, providing a rewarding, fun and substantially differing experience depending on what character you begin with and what choices you make throughout," though it "stops well short of the heights of greatness that the Fallout games reached."[^ref-9]
 
-A 2024 Grindingcast retrospective by Manoel Nogueira, written in Portuguese, rated it 75/100; in translation, it describes the game as what Fallout 3 would have been had the series kept its 2D style, an above-average RPG whose flaws keep it from reaching its full potential.[^ref-19] The soundtrack was recognized in 2012 when Forbes listed it among the 12 best video game soundtracks of all time based on reader votes.[^ref-2]
+A 2024 Grindingcast retrospective by Manoel Nogueira, written in Portuguese, rated it 75/100; in translation, it describes the game as what Fallout 3 would have been had the series kept its 2D style, an above-average RPG whose flaws keep it from reaching its full potential.[^ref-19] The soundtrack was recognized in 2012 when Forbes listed it at No. 10 of its 12 best video game soundtracks of all time, a list its author built from reader suggestions.[^ref-55][^ref-2]
 
 **Aggregate Scores:**
 - **Metacritic:** 81/100[^ref-2]
@@ -115,9 +115,9 @@ The concept merged fantasy with the Industrial Revolution; Tim Cain described a 
 
 ### Production
 
-Development proceeded with a remarkably small team—developer Chad Moore revealed that "it was a monumental achievement by a very small group of devs (there were only 10 of us!)"[^ref-7] The developers "started thinking about the sequel while they were still working on the first part,"[^ref-25] planning a 3D follow-up that would never materialize.
+Looking back in 2020, developer Chad Moore recalled that "it was a monumental achievement by a very small group of devs (there were only 10 of us!)"[^ref-7] That is his recollection; the MobyGames credits list considerably more people across programming, design and art.[^ref-26] The developers "started thinking about the sequel while they were still working on the first part,"[^ref-25] planning a 3D follow-up that would never materialize.
 
-The game's open-ended design created significant scripting challenges. "Every quest had multiple entry points, dependencies, and contingencies" due to the design philosophy that players could "kill any NPC—which included major quest NPCs and followers."[^ref-7] Additional writing was contracted to Edward R. G. Mortimer. Asked about him in 2020, Chad Moore relayed what Cain had told him: "Tim told me that Edward G. Mortimer was a designer from the Judges Guild - a company that made modules for D&D and AD&D back in the 70's and early 80's. Mortimer wrote some really good modules for them, so Tim contracted him to do some additional writing for Arcanum."[^ref-7]
+The game's open-ended design created significant scripting challenges. "Every quest had multiple entry points, dependencies, and contingencies" due to the design philosophy that players could "kill any NPC—which included major quest NPCs and followers."[^ref-7] MobyGames credits Edward R. G. Mortimer with "Writing / Dialogue / Story."[^ref-26] Asked about him in 2020, Chad Moore relayed what Cain had told him: "Tim told me that Edward G. Mortimer was a designer from the Judges Guild - a company that made modules for D&D and AD&D back in the 70's and early 80's. Mortimer wrote some really good modules for them, so Tim contracted him to do some additional writing for Arcanum."[^ref-7]
 
 Public beta testing commenced in September 2000,[^ref-2] with an initially planned release of "September 2000"[^ref-5] that was ultimately pushed to August 2001.
 
@@ -133,7 +133,7 @@ Public beta testing commenced in September 2000,[^ref-2] with an initially plann
 
 ### Technical Achievements
 
-The game featured a custom 2D engine with several notable capabilities: dynamic lighting with shadows and destructible environments,[^ref-5] plus a full day/night cycle "supported by a 16-bit-color, dynamic lighting engine" and combat that runs in real time as well as in turns.[^ref-29] The lighting system allowed players to affect the environment: a thief-type character could shoot out streetlights, each of which has its own hit points, and windows could be used as exits.[^ref-29]
+The game ran on a custom in-house engine (Destructoid notes it "was developed from scratch internally")[^ref-10] with several notable capabilities: dynamic lighting with shadows and destructible environments,[^ref-5] plus a full day/night cycle "supported by a 16-bit-color, dynamic lighting engine" and combat that runs in real time as well as in turns.[^ref-29] The lighting system allowed players to affect the environment: a thief-type character could shoot out streetlights, each of which has its own hit points, and windows could be used as exits.[^ref-29]
 
 The game shipped with WorldEdit, an editor allowing players to create custom maps, campaigns, and NPCs.[^ref-2] A free mod pack containing six new adventures was released on January 7, 2002.[^ref-17]
 
@@ -156,7 +156,7 @@ The game shipped with WorldEdit, an editor allowing players to create custom map
 
 ### Cut Content
 
-A sequel titled "Journey to the Centre of Arcanum" was planned using Valve's Source Engine, but development was curtailed by disputes between Sierra and Valve and the project was shelved.[^ref-2] The planned sequel would have featured the player character being "hired by the wife of Franklin Payne, known from the first part. Her husband built a large machine capable of drilling deep into the earth and went on an expedition in it to search for the remains of ancient civilizations."[^ref-25] The game was to take place largely underground and was inspired by Jules Verne's Journey to the Center of the Earth, featuring "underground civilizations, dinosaurs, and special ore that would enable crafting items where magic and technology could be combined without conflict."[^ref-25]
+A sequel titled "Journey to the Centre of Arcanum" was planned using Valve's Source Engine, but development was curtailed by disputes between Sierra and Valve and the project was shelved.[^ref-2] The planned sequel would have featured the player character being "hired by the wife of Franklin Payne, known from the first part. Her husband built a large machine capable of drilling deep into the earth and went on an expedition in it to search for the remains of ancient civilizations."[^ref-25] The game was to take place largely underground and was inspired by Jules Verne's Journey to the Center of the Earth, featuring underground civilizations and dinosaurs, plus a special ore that would let players craft items where magic and technology could be combined without conflict.[^ref-25]
 
 Troika Games filed for dissolution on September 30, 2005, ending any possibility of an official sequel.[^ref-2]
 
@@ -175,7 +175,7 @@ Troika Games filed for dissolution on September 30, 2005, ending any possibility
 
 | Version | Date | Creator | Notes |
 |---------|------|---------|-------|
-| v091225 | December 27, 2009 | Drog Black Tooth | Major community patch |
+| v091225 | December 27, 2009 (GameBanshee release news)[^ref-35] | Drog Black Tooth | Major community patch |
 | v2.0.2 | August 16, 2019 | Drog Black Tooth | Comprehensive fix bundle with high resolution support |
 
 ### Technical Issues
@@ -184,7 +184,7 @@ The game launched with numerous compatibility and stability problems—typical o
 
 TV Tropes contributors report that, because of a bug, the final boss Kerghan "deals very small damage in melee," and that before the final official patch the Looking Glass Rifle dealt a fixed 40-40 damage instead of its intended 10-30.[^ref-8] Character-related bugs included "Virgil not dying at the Sobbing Onion,"[^ref-35] and the official 1.0.7.4 readme lists the fix "Magnus will rejoin properly after waiting."[^ref-54]
 
-Community consensus is that "this patch was basically essential to my enjoyment when I played this game"[^ref-33]—referring to Drog Black Tooth's Unofficial Arcanum Patch, which "eliminates loads of bugs, inconsistencies, and discrepancies. Restores, adds, changes, and improves some content."[^ref-33]
+One ModDB commenter wrote that "this patch was basically essential to my enjoyment when I played this game"[^ref-33]—referring to Drog Black Tooth's Unofficial Arcanum Patch, which "eliminates loads of bugs, inconsistencies, and discrepancies. Restores, adds, changes, and improves some content."[^ref-33]
 
 ### Easter Eggs and Trivia
 
@@ -200,7 +200,7 @@ Arcanum contains numerous references and hidden content:[^ref-17]
 - **Left-Handed Characters:** MobyGames trivia notes that "everyone in Arcanum for some strange reason is left-handed."[^ref-26]
 - **Zephyr Design:** TV Tropes contributors note that the Zephyr's staircase and lounge look just like those aboard the Titanic.[^ref-8]
 
-**Loading Screen Stories:** Developer Chad Moore wrote "An Unfortunate Affair," which appears on loading screens under the byline "Sir Chadwick Moore." The story's characters—Perriman Smythe, Sebastian, Willoughsby, and Lorham—were implemented as recruitable followers and NPCs in the game.[^ref-7]
+**Loading Screen Stories:** Developer Chad Moore wrote "An Unfortunate Affair," which appears on loading screens under the byline "Sir Chadwick Moore." The story's characters—Perriman Smythe, Sebastian, Willoughsby, and Lorham—all appear in the game: Moore says you can meet Perriman Smythe in Tarant and Sebastian in the Boil and recruit them as followers, and "even Willoughsby and Lorham made cameos."[^ref-7]
 
 ### Multiple Endings
 
@@ -238,7 +238,7 @@ Voice direction by Chad Moore, Jeff Pobst, and Leonard Boyarsky; recorded at Wav
 
 The soundtrack stands as one of the game's most celebrated elements. Composed by Ben Houge, who called it "my most significant soundtrack project to date,"[^ref-4] the score comprises "more than 50 minutes of music in total."[^ref-4] The music concept was "a sort of musical anachronism: a score centered around the styles and textures of Renaissance, medieval, and early music, but performed by a characteristic ensemble of the Victorian era, the string quartet."[^ref-4]
 
-The Seattle Times' Melinda Bargreen praised it: "The Arcanum suite, recorded by four exceptional string players from the Seattle Symphony, is sophisticated enough to pass muster on its own as an extended string quartet."[^ref-4] Community members call it "one of the greatest video game soundtracks ever."[^ref-31]
+The Seattle Times' Melinda Bargreen praised it: "The Arcanum suite, recorded by four exceptional string players from the Seattle Symphony, is sophisticated enough to pass muster on its own as an extended string quartet."[^ref-4] One Steam Workshop commenter calls it "one of the greatest video game soundtracks ever."[^ref-31]
 
 **Recording Credits:**[^ref-38]
 - **Violin I:** Leonid Keylin (Seattle Symphony)
@@ -266,7 +266,7 @@ Arcanum performed moderately well commercially. It "debuted at fourth place in N
 - The Electric Playground Role-Playing Game of the Year 2001
 - IGN Editors' Choice
 - GameZone Editors' Choice
-- PC Gamer Editor's Choice Award
+- PC Gamer Editor's Choice Award (per Ben Houge's soundtrack page)[^ref-4]
 
 ### Official Modules
 
@@ -332,7 +332,7 @@ As MobyGames user reviewer MasterMegid summarized: "At the end of the day Arcanu
 [^ref-1]: [Amazon – Arcanum: Of Steamworks & Magick Obscura](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00004TTHT) – product description, customer reviews, publication date
 [^ref-2]: [Wikipedia – Arcanum: Of Steamworks & Magick Obscura](https://en.wikipedia.org/wiki/Arcanum%3A_Of_Steamworks_%26_Magick_Obscura) – release dates, developers, publishers, review scores, awards, sales data, trivia
 [^ref-3]: [MobyGames – User Review by Unicorn Lynx](https://www.mobygames.com/game/4498/arcanum-of-steamworks-magick-obscura/user-review/2309272/) – gameplay analysis, Fallout comparison
-[^ref-4]: [Ben Houge – Arcanum Soundtrack (archived)](https://web.archive.org/web/20260629043635/https://benhouge.com/arcanum.html) – composer notes, recording details, Seattle Times quote; original URL benhouge.com/arcanum.html
+[^ref-4]: [Ben Houge – Arcanum Soundtrack (archived 2015)](https://web.archive.org/web/20150205021823/http://benhouge.com/arcanum.html) – composer notes, recording details, Seattle Times quote, PC Gamer Editor's Choice Award; original URL benhouge.com/arcanum.html
 [^ref-5]: [Internet Archive – Tim Cain Interview (2000)](https://web.archive.org/web/20081029042628/http://next.videogame.it/interview-to-tim-cain/475/) – design philosophy, technical features, release plans
 [^ref-7]: [GameBanshee – Chad Moore Interview (ValH, November 8, 2020)](https://www.gamebanshee.com/interviews/124333-chad-moore-interview/all-pages.html) – team size, design philosophy, loading-screen story, Edward Mortimer details
 [^ref-8]: [TV Tropes – Arcanum YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/ArcanumOfSteamworksAndMagickObscura) – Kerghan, community-reported bugs, Zephyr/Titanic observation
@@ -376,3 +376,4 @@ As MobyGames user reviewer MasterMegid summarized: "At the end of the day Arcanu
 [^ref-52]: [MobyGames – Arcanum Patches](https://www.mobygames.com/game/4498/arcanum-of-steamworks-magick-obscura/patches/) – patch 1.0.7.4 dated 2001-09-28
 [^ref-53]: [MobyGames – Arcanum: Of Steamworks & Magick Obscura (Collector's Edition)](https://www.mobygames.com/game/108029/arcanum-of-steamworks-magick-obscura-collectors-edition/) – Poland-exclusive edition, Play-It, released October 1, 2001
 [^ref-54]: [Arcanum Version 1.0.7.4 Readme (Sierra support text, mirrored by Arcanum Club)](https://arcanumclub.org/sierra/support/arcanum_update1074.html) – official patch fix list
+[^ref-55]: [Forbes – The Top 12 Video Game Soundtracks Of All Time (Erik Kain, September 8, 2012)](https://www.forbes.com/sites/erikkain/2012/09/08/the-top-12-video-game-soundtracks-of-all-time/) – Arcanum listed at No. 10 of 12; list compiled from reader picks
