@@ -10,13 +10,13 @@ series: Standalone
 engine: Macromedia Director
 protagonist: The Player
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Stay Tooned! is a 1996 cartoon adventure developed by Funnybone Interactive and published by Sierra On-Line for Windows and Macintosh, in which escaped toons steal the player's TV remote and overrun an apartment building.
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ The press release promises "over 30 actual games," including arcade games, shoot
 
 Many puzzles are what lead programmer and co-designer Ben Howard called adventure-game "switches," which require "manipulating one environment in order to affect another." His example was a giant doughnut named Duncan who blocks a doorway until the player phones 911 for a police officer[^ref-16][^ref-24]. Named games include "Kartoon Kombat" (a *Mortal Kombat* spoof), "Fridge Fight," "Schlepardy!" (a trivia show spoofing *Jeopardy!*, spelled "Schleopardy!" in some later write-ups) and "The Quick and the Tooned"[^ref-16][^ref-13]. Channel-surfing also turns up "Whinefeld," a *Seinfeld* spoof[^ref-16][^ref-17].
 
-The 3-D games are in Apartment 3D. The manual names "Bubble Trouble," "Make Way for the Highway" and "D-Ding Dong" (3-D ping pong), and the press release adds "Ham-a-Roids"[^ref-21][^ref-16]. The manual notes that the glasses are not strictly required: "You don't necessarily need the TOONVISION glasses to play the 3D games, they just make everything look much cooler!"[^ref-21]
+The manual marks five games as ToonVision 3-D: "Ask Frank", "Ham-a-roids", "Make Way for the Highway", "Bubble Trouble" and "D-Ding Dong" (3-D ping pong), the last three located in Apartment 3D[^ref-21][^ref-13]. The manual notes that the glasses are not strictly required: "You don't necessarily need the TOONVISION glasses to play the 3D games, they just make everything look much cooler!"[^ref-21]
 
 ## Reception
 
@@ -165,7 +165,7 @@ Joel Fried, who voiced Chisel, was also president of Funnybone Interactive. Susa
 
 ### Sales and Commercial Impact
 
-No sales figures for Stay Tooned! have been published. The Collection Chamber's reviewer noted there is "not much information out there on its reception or earnings"[^ref-13]. Sierra released it on CD-ROM in autumn 1996 at about $40 through "most major computer, software, and mass-merchant chains"[^ref-16]. Funnybone kept developing children's software, including Fisher-Price and JumpStart titles, until 2003[^ref-18].
+No sales figures for Stay Tooned! have been published. The Collection Chamber's reviewer noted there is "not much information out there on its reception or earnings"[^ref-13]. Sierra released it on CD-ROM in autumn 1996 at about $40 through "most major computer, software, and mass-merchant chains"[^ref-16]. Funnybone kept developing children's software, including Fisher-Price and JumpStart titles, until its 2003 closure (MobyGames still lists later credits up to 2006)[^ref-18].
 
 ### Collections
 
@@ -199,30 +199,8 @@ Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. The 
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
 
 ## References
 
