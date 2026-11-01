@@ -10,14 +10,14 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-17'
+last_updated: '2026-11-01'
 description: 'Stellar 7: Draxon''s Revenge is a 1993 first-person sci-fi tank simulation
   game developed and published by Dynamix for the 3DO Interactive Multiplayer...'
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ The Raven survives on its energy reserve: when energy reaches zero its shields f
 > **Developer:** [[Dynamix]][^ref-5]
 > **Designer:** [[Damon Slye]] (Original Design)[^ref-20]
 > **Publisher:** Dynamix (NA), T&E Soft (JP)[^ref-18][^ref-27]
-> **Engine:** Unknown/unnamed[^ref-6]
+> **Engine:** Not documented
 > **Platforms:** 3DO Interactive Multiplayer[^ref-1]
 > **Release Year:** 1993 (NA), March 26, 1994 (JP)[^ref-27]
 > **Series:** Stellar 7[^ref-3]
@@ -102,7 +102,7 @@ The *Los Angeles Times* reviewed the $59.95 3DO disc in September 1994: "This is
 In 2007 The Video Game Critic gave the game a C+. He described it as "much like Battlezone (Atari 2600, 1983) updated for the 90's," with graphics that "are commendable, with clean visuals and an exceptionally smooth frame-rate." He joked that it was "saddled with a ridiculous name that makes people not want to play it!"[^ref-26] He found the special powers "disappointingly lame," adding that "even the 'super cannon' is only a marginal improvement over your default weapon." He concluded that it "could use some pizzazz, but it serves its purpose as a slick arcade shooter for the 3DO."[^ref-26]
 
 **Aggregate Scores:**
-- **MobyGames:** Moby Score 6.8, ranked #17,877 of 29.2K games; 68% critics average (7 ratings); 3.2/5 player average (2 ratings); #65 on 3DO by review ranking[^ref-5][^ref-10]
+- **MobyGames (as of October 14, 2026):** Moby Score 6.8, ranked #17,877 of 29.2K games; 68% critics average (7 ratings); 3.2/5 player average (2 ratings); #65 on 3DO by review ranking[^ref-5][^ref-10]
 - **VGChartz Community:** 7.8/10[^ref-11]
 - **GameFAQs User Rating:** "Great" (15 ratings), Difficulty: "Tough" (13 ratings), Length: "26 Hours" (9 estimates)[^ref-7]
 
@@ -112,7 +112,7 @@ In 2007 The Video Game Critic gave the game a C+. He described it as "much like 
 
 The original Stellar 7 was created by [[Damon Slye]] for the Apple II and Commodore 64 in 1983. It drew on the 1980s arcade game Battlezone and was remade in the early 1990s for MS-DOS, Amiga and Classic Mac OS.[^ref-3] The manual for Draxon's Revenge credits Dynamix co-founder Damon Slye as having "initially conceived and produced" Stellar 7.[^ref-20] [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991) preceded it in the series.[^ref-3]
 
-Dynamix built Draxon's Revenge for the 3DO Interactive Multiplayer. Entertainment Weekly reported that the 3DO technology, backed by Time Warner, MCA and AT&T, had been licensed to more than 500 software makers.[^ref-9][^ref-20]
+Dynamix built Draxon's Revenge for the 3DO Interactive Multiplayer. Entertainment Weekly reported that the 3DO Company, backed financially by Time Warner, MCA and AT&T, had licensed its technology to more than 500 software makers.[^ref-9]
 
 ### Production
 
@@ -134,7 +134,7 @@ According to the manual, the game was led by brothers Darek and Peter Lukaszuk, 
 
 InterAction's Ken Embery wrote that Dynamix's designers "used the machine's three Megs of memory to give players sure-footed control, millions of colors, killer CD-quality techno-rock music, and lightning fast in-game action."[^ref-21] The game uses texture-mapped polygonal graphics with 2D sprites for some objects and full CD audio, including narrated cutscenes.[^ref-5] Computer Gaming World praised its CD audio, its texture mapping and its bit-mapped explosions.[^ref-22]
 
-The CG movies were made by Peter Lewis and Mark Peasley, and the narration was voiced by Michael Dorn and Sher Alltucker.[^ref-20]
+The movies were made by Peter Lewis and Mark Peasley, and the narration was voiced by Michael Dorn and Sher Alltucker.[^ref-20]
 
 ### Technical Specifications
 
@@ -162,7 +162,7 @@ The game was published in North America by Dynamix and in Japan by T&E Soft as "
 
 ### Collections
 
-Stellar 7: Draxon's Revenge has not been included in any known compilation release or digital storefront, and it remains a 3DO exclusive. Retro North Games listed a copy at $69.99 CAD.[^ref-14] The game appears on the GOG Dreamlist with 77 votes for a re-release.[^ref-15]
+Stellar 7: Draxon's Revenge has not been included in any known compilation release or digital storefront, and it remains a 3DO exclusive. Retro North Games listed a copy at $69.99 CAD (sold out when checked in 2026).[^ref-14] The game appears on the GOG Dreamlist with 77 votes for a re-release.[^ref-15]
 
 ### Fan Projects
 
