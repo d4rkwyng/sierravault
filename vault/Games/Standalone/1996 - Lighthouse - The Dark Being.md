@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Windows, Mac]
 series: Lighthouse
-engine: SCI32
+engine: SCI3
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
-  and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken...'
+  and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken Williams challenged designer Jon Bock to create a Myst-style game.'
 tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ PC Gamer (US) called Lighthouse "a fantasy-horror adventure that's a cut above m
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Jon Bock[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** SCI32[^ref-1]
+> **Engine:** SCI3[^ref-5]
 > **Platforms:** DOS, Windows, Macintosh[^ref-5]
 > **Release Year:** 1996
 > **Series:** Lighthouse
@@ -39,7 +39,7 @@ PC Gamer (US) called Lighthouse "a fantasy-horror adventure that's a cut above m
 
 ## Story Summary
 
-The player takes control of a struggling writer who has recently moved into a cottage on the Oregon coast[^ref-6]. Near the cottage stands a lighthouse inhabited by the eccentric Dr. Jeremiah Krick and his daughter Amanda[^ref-7]. Dr. Krick's experiments have opened a portal to a parallel world, and a creature he calls the "Dark Being" comes through it and steals baby Amanda[^ref-17].
+The player takes control of a struggling writer who has recently moved into a cottage on the Oregon coast[^ref-6]. Near the cottage stands a lighthouse inhabited by the eccentric Dr. Jeremiah Krick and his daughter Amanda[^ref-1]. Dr. Krick's experiments have opened a portal to a parallel world, and a creature he calls the "Dark Being" comes through it and steals baby Amanda[^ref-17].
 
 The protagonist must venture into this alternate dimension to rescue Amanda, encountering a mechanical birdman, a Nautilus-like submarine, an ornithopter and a sunken wreck along the way[^ref-17]. GOG's store description calls it "a world teeming with invention, discovery... and evil"[^ref-3]. Bock describes the result as "a steam punk-like universe" inspired by the machine age and by folk stories[^ref-4].
 
@@ -77,7 +77,7 @@ The version 2.0 patch modified some of the more difficult puzzles and added indi
 |-------------|-------|-------|
 | PC Gamer (US) | 82% | Called it "a fantasy-horror adventure that's a cut above most post-Myst games"[^ref-17] |
 | GameSpot | 6.4/10 | Reviewed by Rebecca Anderson, noted graphics as "moving picture book"[^ref-18] |
-| Entertainment Weekly | C- | Bob Strauss called it "a near washout" and "a talentless rip-off of a Stephen King novel"[^ref-30] |
+| Entertainment Weekly | C- | Bob Strauss called it "a near washout" and gave it a C-[^ref-30] |
 | Quandary | 4/5 | Positive review from November 1996[^ref-19] |
 | Computer Games Magazine | 3/5 | Review from January 1999[^ref-19] |
 | Game Revolution | C- | Review from October 1996[^ref-19] |
@@ -86,7 +86,7 @@ Contemporary reception was mixed. Rebecca Anderson's GameSpot review noted that 
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more appreciative of the game's ambitious design. Adventure Classic Gaming awarded it 4/5 stars in 2009, while Just Adventure gave it a B+ rating in 2003[^ref-19]. Adventure Gamers rated it 3.5/5 stars ("A solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution")[^ref-16], with its review's verdict reading "Entertaining and beguiling game, however, if you hate mazes steer clear"[^ref-29]. GOG.com users have rated it 4.1/5 based on 41 reviews (as of October 2026)[^ref-20]. MobyGames lists a critic average of 70% based on 28 ratings[^ref-1].
+Modern retrospective reviews have been more appreciative of the game's ambitious design. Adventure Classic Gaming awarded it 4/5 stars in 2009, while Just Adventure gave it a B+ rating in 2003[^ref-19]. Adventure Gamers rated it 3.5/5 stars ("A solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution")[^ref-16], with its review's verdict reading "Entertaining and beguiling game, however, if you hate mazes steer clear"[^ref-29]. GOG.com users have rated it 4.1/5 based on 42 reviews (as of October 2026)[^ref-20]. MobyGames lists a critic average of 70% based on 28 ratings[^ref-1].
 
 ## Development
 
@@ -110,9 +110,9 @@ Lighthouse utilized Sierra's SCI (Sierra Creative Interpreter) engine[^ref-5][^r
 
 ## Legacy
 
-Lighthouse is still commonly discussed as Sierra's take on Myst[^ref-25][^ref-4]. The game's challenging puzzle design and atmospheric presentation have been both praised and criticized, with some noting that it "manages the awkward feat of carrying Sierra's frustrating, player-hostile house style over to this new style of adventure game"[^ref-4].
+Lighthouse is often described as Sierra's take on Myst[^ref-25][^ref-4]. The game's challenging puzzle design and atmospheric presentation have been both praised and criticized, with some noting that it "manages the awkward feat of carrying Sierra's frustrating, player-hostile house style over to this new style of adventure game"[^ref-4].
 
-Collection Chamber's retrospective noted: "Lighthouse: The Dark Being takes the former approach and teaches you everything about how not to be a parent"[^ref-collection], highlighting the game's dark narrative themes. Despite sharing many genes with Myst, Lighthouse is very much a game fathered by Sierra[^ref-collection], blending the contemplative exploration of Cyan's masterpiece with Sierra's trademark difficulty.
+Collection Chamber's retrospective noted: "Lighthouse: The Dark Being takes the former approach and teaches you everything about how not to be a parent"[^ref-collection]. Despite sharing many genes with Myst, Lighthouse is very much a game fathered by Sierra[^ref-collection], blending the contemplative exploration of Cyan's Myst with Sierra's trademark difficulty.
 
 Sierra's version 2.0 patch (listed by MobyGames as v2.0a, May 1997) added a hint system and highlight cursor, eased some of the harder puzzles and added visual clues such as indicator lights[^ref-13][^ref-26]. Modern players can access the game through GOG.com, where it runs on ScummVM[^ref-20]; the GOG release includes the manual and a hint book as extras[^ref-20].
 
@@ -122,33 +122,19 @@ Sierra's version 2.0 patch (listed by MobyGames as v2.0a, May 1997) added a hint
 - [GOG.com](https://www.gog.com/en/game/lighthouse_the_dark_being)
 
 **Download / Preservation**
+- None listed (sold on GOG).
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1995 - Shivers]]
+- [[1997 - Shivers Two - Harvest of Souls]]
+- [[1995 - Phantasmagoria]]
+- [[1996 - Phantasmagoria - A Puzzle of Flesh]]
+- [[1994 - Outpost]]
+- [[1995 - The Lost Mind of Dr. Brain]]
+- [[1992 - The Island of Dr. Brain]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+- [[1994 - King's Quest VII - The Princeless Bride]]
 
 ## References
 
@@ -175,4 +161,4 @@ Sierra's version 2.0 patch (listed by MobyGames as v2.0a, May 1997) added a hint
 [^ref-collection]: [The Collection Chamber – Lighthouse: The Dark Being (November 22, 2015)](https://collectionchamber.blogspot.com/2015/11/lighthouse-the-dark-being.html) – Retrospective: interface, difficulty, hint-system patch
 [^ref-28]: [InterAction Magazine, Summer 1996 (Sierra On-Line), "Lighthouse: The New Pinnacle of Interactive Design"](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – "Lighthouse is Bock's first feature title"; "the first Sierra title to have fully 3-D rendered character animation"; the Roost based on Bock's FRP module; endings "from total success to total failure"
 [^ref-29]: Adventure Gamers, review of *Lighthouse: The Dark Being* (text citation; the live site is not linked, and no casino-free archived copy of the review text was found) – "dismissed by many as a myst-clone"; maze "takes up almost a quarter of game play"; verdict "Entertaining and beguiling game, however, if you hate mazes steer clear"
-[^ref-30]: [Entertainment Weekly – "Lighthouse: The Dark Beginning" by Bob Strauss, November 1, 1996 (Wayback, 2021)](https://web.archive.org/web/20211130004436/https://ew.com/article/1996/11/01/lighthouse-dark-beginning/) – "a near washout"; "a talentless rip-off of a Stephen King novel"; grade C-
+[^ref-30]: [Entertainment Weekly – "Lighthouse: The Dark Beginning" by Bob Strauss, November 1, 1996 (Wayback, 2021)](https://web.archive.org/web/20211130004436/https://ew.com/article/1996/11/01/lighthouse-dark-beginning/) – "a near washout"; grade C- (the review's "talentless rip-off of a Stephen King novel" line is conditional: "Move the whole thing to Maine, and you've got…")
