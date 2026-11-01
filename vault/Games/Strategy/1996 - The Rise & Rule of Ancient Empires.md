@@ -8,9 +8,9 @@ genre: Strategy
 platforms: [Microsoft Windows, Windows 3.x]
 series: Standalone
 engine: null
-protagonist: Empire Ruler (player-named)
+protagonist: Leader of one of six ancient cultures
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 composer: [Keith Zizza]
 description: The Rise & Rule of Ancient Empires is a 1996 turn-based empire-building
   strategy game developed by Impressions Games and published by Sierra On-Line, in
@@ -19,7 +19,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # The Rise & Rule of Ancient Empires
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -37,12 +37,12 @@ The box copy names the six cultures as Egypt, Greece, Mesopotamia-Persia, Northe
 > **Platforms:** Microsoft Windows, Windows 3.x[^ref-7][^ref-28]
 > **Release Year:** 1996[^ref-21]
 > **Series:** Standalone
-> **Protagonist:** Empire Ruler (player-named)
+> **Protagonist:** Leader of one of six ancient cultures[^ref-19]
 > **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
-The Rise & Rule of Ancient Empires is set between 5000 BC and 500 AD. Six distinct cultures emerge in this period, each with unique characteristics, "to stake their claim to preeminence."[^ref-8] There is no scripted narrative. Each game's history comes from the player's choices and the actions of the rival civilizations.
+The Rise & Rule of Ancient Empires is set between 5000 BC and 500 AD. Six distinct cultures emerge in this period, each with unique characteristics, "to stake their claim to preeminence."[^ref-8]
 
 Players lead one of six cultures: Egypt, Greece, Mesopotamia-Persia, Northern Europe (the Celts), China, or India.[^ref-19][^ref-11] Sierra's v1.01 patch notes describe distinct computer-opponent personalities: "The Persians and Celts will be most aggressive, attacking pretty much anybody, and expanding through sea routes," the Egyptians and Chinese focus on building infrastructure, and the Greeks "will explore quite a bit, and might attack, but generally will do unto others, as will the Indians."[^ref-9]
 
@@ -82,7 +82,7 @@ Computer Gaming World reviewed the game twice. T. Coleman's short June 1996 revi
 
 Coming Soon Magazine gave the game 72%.[^ref-27] Reviewer Anil Chhabra criticized the slow turn times: "It would take anywhere between one to two minutes before your turn would come again!!! One to Two MINUTES!!! That made the game completely unbearable." He concluded: "Overall, this isn't the best sim out there. It plodded along, and needs some improvements. Civilization still remains the king."[^ref-11]
 
-Other contemporary scores included PC Gameplay (Benelux) at 70%, PC Games (Germany) at 56%, Power Play at 54%, PC Player (Germany) at 40%, and Game Revolution at 16%.[^ref-27] UK magazines PC Review and PC Format gave 6/10 and 43/100. The French magazine Génération 4 gave the game 2/6.[^ref-15] Writing in The Observer, Cal Jones found the game slower-paced than Civilization II but easier for novice gamers as an introduction to empire building.[^ref-1]
+Other contemporary scores included PC Gameplay (Benelux) at 70%, PC Games (Germany) at 56%, Power Play at 54%, and PC Player (Germany) at 40%.[^ref-27] MobyGames also lists an undated Game Revolution score of 16%.[^ref-27] UK magazines PC Review and PC Format gave 6/10 and 43/100. The French magazine Génération 4 gave the game 2/6.[^ref-15] Writing in The Observer, Cal Jones found the game slower-paced than Civilization II but easier for novice gamers as an introduction to empire building.[^ref-1]
 
 ### Modern Assessment
 
@@ -104,7 +104,7 @@ Impressions Games developed The Rise & Rule of Ancient Empires as its answer to 
 
 Gregor Koomey was the game's designer and producer. David Lester was executive producer, Chris Beatrice was art director, and Keith Zizza handled music and sound.[^ref-6] Ironrod wrote that the game "had some design flaws arising from conflicting objectives between the Designer and the Director of Design, so it didn't achieve that 'Civ Lite' goal, but it wasn't a bad game."[^ref-6]
 
-The game shipped in March 1996. MobyGames gives a US release date of March 18,[^ref-21] while GamePen reported the release on March 25.[^ref-8] Ironrod said the game "had the bad fortune to ship at about the same time as Civ2."[^ref-6] Its US price was $54.95.[^ref-25]
+The game shipped in March 1996. MobyGames gives a US release date of March 18,[^ref-21] while GamePen reported the release on March 25.[^ref-8] GameSpot, GameFAQs and Metacritic instead list a first release of February 29, 1996.[^ref-14][^ref-19][^ref-18] Ironrod said the game "had the bad fortune to ship at about the same time as Civ2."[^ref-6] Its US price was $54.95.[^ref-25]
 
 **Development Credits:**[^ref-6]
 - **Designer / Producer:** Gregor Koomey
@@ -156,12 +156,11 @@ On modern systems, PCGamingWiki says the game "cannot run on Windows XP or later
 
 ### Sales and Commercial Impact
 
-Accounts of the game's sales conflict. Wikipedia, citing The Washington Post's bestseller lists, reports that the game appeared on US best-seller lists from the week ending April 27 to the week ending May 25, 1996.[^ref-1] Ironrod, the Impressions employee quoted above, wrote in 2002 that "It didn't sell well." He said Impressions would more likely start a new Civilization-like project "rather than do a sequel to a 'failed' brand."[^ref-6]
+Accounts of the game's sales conflict. Per Wikipedia, citing The Washington Post's bestseller lists, the game appeared on US best-seller lists from the week ending April 27 to the week ending May 25, 1996.[^ref-1] Ironrod, the Impressions employee quoted above, wrote in 2002 that "It didn't sell well." He said Impressions would more likely start a new Civilization-like project "rather than do a sequel to a 'failed' brand."[^ref-6]
 
 ### Critical Perspective
 
-The Rise & Rule of Ancient Empires was released at almost the same time as Civilization II, and reviewers judged it against that game.[^ref-6][^ref-14] Opinions on its strengths differed. GameSpot said it did "a fantastic job of making players feel like they belong to their selected culture."[^ref-14] Computer Gaming World said it failed to immerse players in the historical period.[^ref-24] The Observer found it easier than Civilization II for newcomers to the genre.[^ref-1] Computer Gaming World's verdict listed a "simpler, bug-free version of CivNet with great animations and sounds" among its pros, and said that it "abstracts all the fun parts of empire-building" among its cons.[^ref-25]
-
+The Rise & Rule of Ancient Empires was released at almost the same time as Civilization II, and reviewers judged it against that game.[^ref-6][^ref-14] Opinions on its strengths differed. GameSpot said it did "a fantastic job of making players feel like they belong to their selected culture."[^ref-14] Computer Gaming World said it failed to immerse players in the historical period.[^ref-24] The Observer found it easier for novices as an introduction to the empire-building format.[^ref-1] Computer Gaming World's verdict listed a "simpler, bug-free version of CivNet with great animations and sounds" among its pros, and said that it "abstracts all the fun parts of empire-building" among its cons.[^ref-25]
 
 ## Purchase
 
@@ -197,12 +196,12 @@ The Rise & Rule of Ancient Empires was released at almost the same time as Civil
 [^ref-10]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/126884-the-rise-rule-of-ancient-empires) – game objective
 [^ref-11]: [Coming Soon Magazine #19 via Wayback Machine](https://web.archive.org/web/19970416101359/http://www.csoon.com:80/issue19/riserule.htm) – Anil Chhabra review, system requirements
 [^ref-12]: [CGR Reviews via Wayback Machine](https://web.archive.org/web/19961221190424/http://www.nuke.com/cgr/reviews/9607/riseru/riseru.htm) – Scott Gehrs review (score 87), July 1996
-[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/the-rise-and-rule-of-ancient-empires-review/1900-2532812/) – Trent Ward review (6.2): ~12 unit types, five areas of study, win by AD 500
+[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/the-rise-and-rule-of-ancient-empires-review/1900-2532812/) – Trent Ward review (6.2): ~12 unit types, five areas of study, win by AD 500; "First Released Feb 29, 1996"
 [^ref-15]: [UV List](https://www.uvlist.net/game-220074-The+Rise+Rule+of+Ancient+Empires) – external review scores (Génération 4, PC Review, PC Format)
 [^ref-16]: [MobyGames – Reviews](https://www.mobygames.com/game/1936/the-rise-rule-of-ancient-empires/reviews/) – single player review ("Great for the Time", 2023) and player average
 [^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/the-rise-rule-of-ancient-empires-dei) – user rating, release regions (France 2000)
-[^ref-18]: [Metacritic](https://www.metacritic.com/game/the-rise-and-rule-of-ancient-empires/) – user score
-[^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198983-the-rise-and-rule-of-ancient-empires) – box copy (six cultures, feature list, "one sitting"), user ratings
+[^ref-18]: [Metacritic](https://www.metacritic.com/game/the-rise-and-rule-of-ancient-empires/) – user score, initial release date Feb 29, 1996
+[^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198983-the-rise-and-rule-of-ancient-empires) – box copy (six cultures, "leader of one of six ancient cultures", feature list, "one sitting"), user ratings, release date Feb 29, 1996
 [^ref-20]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/rise-and-rule-of-ancient-empires) – soundtrack gamerip information
 [^ref-21]: [MobyGames – Releases](https://www.mobygames.com/game/1936/the-rise-rule-of-ancient-empires/releases/) – US release (March 18, 1996), French Coktel Vision distribution (1996), Pointsoft re-release (2000)
 [^ref-23]: [Computer Gaming World #140 (March 1996), "Explore, Expand, Exploit & Exterminate", p. 32](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n35/mode/1up) – CES preview: Caesar II design team, "games are expected to average around two hours"
