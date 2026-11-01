@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown/unnamed
 protagonist: Angler (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: '*Front Page Sports: Trophy Bass 2* is a 1996 bass fishing simulation developed
   by Dynamix and published by Sierra On-Line, adding five new lakes and Internet, LAN and
   modem tournament play to the original Trophy Bass.'
@@ -18,15 +18,15 @@ tags: [1990s, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports Trophy Bass 2
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 *Front Page Sports: Trophy Bass 2* is a bass fishing simulation developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows 3.1 and Windows 95, first released on September 30, 1996.[^ref-1][^ref-29] It was the sequel to Sierra's *Trophy Bass* and the newest addition to the [[Front Page Sports Series|Front Page Sports]] line, which Sierra's own *InterAction* magazine billed as a big expansion year for the label alongside *Front Page Sports: Golf*.[^ref-2][^ref-12]
 
-Sierra's box copy called it "the most addictive fishing simulation ever."[^ref-3] The sequel brought the lake count to ten by adding five new tournament lakes, and its headline feature was head-to-head play by modem, LAN or the Internet, with Sierra promoting "on-line tournaments against as many as 100 anglers."[^ref-23][^ref-30] *Computer Gaming World* gave it four stars out of five and said it "further refines what's come to be the best fishing simulation available."[^ref-27]
+The description on the Internet Archive's demo item (a 2014 upload, not a box scan) calls it "the most addictive fishing simulation ever."[^ref-3] The sequel brought the lake count to ten by adding five new tournament lakes, and its headline feature was head-to-head play by modem, LAN or the Internet, with Sierra promoting "on-line tournaments against as many as 100 anglers."[^ref-23][^ref-30] *Computer Gaming World* gave it four stars out of five and said it "further refines what's come to be the best fishing simulation available."[^ref-27]
 
-Offline the game is single-player; MobyGames lists 2–8 players for online play.[^ref-12] Over 100 video tips from pro anglers Larry Nixon, Denny Brauer, Kevin VanDam and Penny Berryman were built in as a tutorial.[^ref-24][^ref-30]
+Offline the game is single-player. Sources disagree on online player counts: MobyGames lists 2–8 players,[^ref-12] while *InterAction* said "up to 100 players" over a LAN and "as many as 100 gamers over the Internet",[^ref-24] and CGW's sidebar gave "# of Players: 1-100".[^ref-27] Over 100 video tips from pro anglers Larry Nixon, Denny Brauer, Kevin VanDam and Penny Berryman were built in as a tutorial.[^ref-24][^ref-30]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -54,7 +54,7 @@ AllGame reviewer Steve Honeywell summed up the appeal: "It's all of the good stu
 **Control Support:**[^ref-8]
 - Keyboard
 - Mouse
-- Analog joystick (Windows 95 version only, per Sierra's technical notes)[^ref-32]
+- Analog joystick (Windows 95 version only, per Sierra's technical notes;[^ref-32] MobyGames also lists an analog joystick for the Windows 16-bit release[^ref-8])
 
 User-submitted tips on IGN's cheats wiki describe the landing technique: "After hooking into a fish, all you have to do to reel it in is: 1)Set your reel speed to 5. 2)Set your Drag to 3. 3)As you reel, keep pushing the mouse or joystick up and down or in circles."[^ref-11]
 
@@ -71,7 +71,7 @@ A series of tournaments. Players who place well consistently qualify for a year-
 
 **Multiplayer:**[^ref-8][^ref-12]
 - Internet, LAN and modem play (Windows 95 only)
-- MobyGames lists 1 offline player and 2–8 online players
+- MobyGames lists 1 offline player and 2–8 online players; contemporary sources (*InterAction* Fall 1996, CGW) say up to 100[^ref-24][^ref-27]
 - Competitive tournaments against the clock, or relaxed "Cooperative" trips where players fish and chat[^ref-33]
 - *InterAction* promoted Internet tournaments "against as many as 100 anglers", with the host choosing the length, the lake and the start time, plus pre-tournament chat[^ref-23]
 
@@ -92,7 +92,7 @@ Sierra added a Custom Skill Level screen to fine-tune realism.[^ref-30] CGW desc
 
 - **Fish AI:** *InterAction* wrote that "Realism is enhanced with second generation fish AI, true-to-life lake re-creations, and interactive lure interfaces."[^ref-23] Sierra's site promised "tougher realism, choosier fish, and snags (by request!)."[^ref-30]
 - **Real Lakes:** Ten lakes, all actual tournament sites. The five new to TB2 are Bull Shoals, Lake Mead, Castaic Lake, Lake Kissimmee and Lake Eufaula, and trout were added at Lake Mead.[^ref-23][^ref-30]
-- **Conditions:** CGW listed weather, water temperature, the season and time of day as factors in tackle choice.[^ref-26]
+- **Conditions:** A Sierra advertisement in *Computer Gaming World* #150 listed weather, water temperature, the season and time of day as factors in choosing tackle.[^ref-26]
 
 ### Tutorial System
 
@@ -111,7 +111,7 @@ The how-to section includes over 100 full-motion video tips from bass pros Larry
 | Adrenaline Vault (1997) | 3.5/5 | Reviewed with the Northern Lakes add-on; via MobyGames[^ref-15] |
 | Power Play (Feb 1997) | 49/100 | Via MobyGames[^ref-15] |
 | PC Games (Germany, Dec 1996) | 44/100 | Via MobyGames[^ref-15] |
-| MobyGames | 72% | Critic average, 8 ratings (Windows)[^ref-15] |
+| MobyGames | about 70% | Critic average: 72% from 8 ratings on the Windows reviews tab, 70% from 7 on the game overview; the reviews list also includes a 1999 AllGame entry[^ref-15][^ref-12] |
 | MyAbandonware | 4.44/5 | User rating, 9 votes[^ref-4] |
 
 ### Critical Assessment
@@ -132,7 +132,7 @@ MyAbandonware users rate it 4.44/5 from 9 votes.[^ref-4]
 
 *Trophy Bass 2* was developed by [[Dynamix]] and published by [[Sierra On-Line]].[^ref-1] According to CGW, the first *Trophy Bass* (1995) had surprised Sierra's own marketing staff by remaining the company's top-selling title for more than 12 months, and the sequel followed under the growing *Front Page Sports* label.[^ref-27] *InterAction* framed the sequel around "the intense rivalry of true bass tournament competition."[^ref-23]
 
-It joined a line whose flagship, *[[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro]]*, was described in Sierra's own magazine and advertising as a three-time winner of *Computer Gaming World*'s "Sports Game of the Year" award.[^ref-25][^ref-26] For *Trophy Bass 2*, Sierra said it had "called on a whole team of pro bass anglers" and signed four pros to collaborate on the design.[^ref-2][^ref-24]
+It joined a line that included *[[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro]]*, which was described in Sierra's own magazine and advertising as a three-time winner of *Computer Gaming World*'s "Sports Game of the Year" award.[^ref-25][^ref-26] For *Trophy Bass 2*, Sierra said it had "called on a whole team of pro bass anglers" and signed four pros to collaborate on the design.[^ref-2][^ref-24]
 
 ### Production
 
@@ -202,7 +202,7 @@ The Northern Lakes expansion adds Lake Winnebago (Wisconsin), Lake Oneida (New Y
 - **Input Devices:** Keyboard, Mouse, Analog Joystick[^ref-8]
 - **Multiplayer Options:** Internet, LAN, Modem[^ref-8]
 - **Players (Offline):** 1[^ref-12]
-- **Players (Online):** 2-8 (MobyGames)[^ref-12]
+- **Players (Online):** 2-8 per MobyGames;[^ref-12] *InterAction* and CGW say up to 100[^ref-24][^ref-27]
 
 ### Graphics
 
@@ -213,7 +213,7 @@ The Northern Lakes expansion adds Lake Winnebago (Wisconsin), Lake Oneida (New Y
 
 ### Series Continuation
 
-The *Trophy Bass* series continued with *Field & Stream: Trophy Bass 3D* (1999).[^ref-12] MobyGames shows that much of the TB2 team carried over: 34 people credited on *Trophy Bass 2* were also credited on *Trophy Bass 3D*, and 32 on *Trophy Bass 4*.[^ref-34]
+The *Trophy Bass* series continued with *Field & Stream: Trophy Bass 3D* (1999).[^ref-12] MobyGames shows some overlap in credits: 34 people credited on *Trophy Bass 2* were also credited on *Trophy Bass 3D*, and 32 on *Trophy Bass 4*. These are counts of shared names out of 112 credits on *Trophy Bass 2*, and the full list is behind MobyPlus.[^ref-34]
 
 ### Preservation
 
@@ -244,7 +244,7 @@ The game is not sold on GOG or Steam. It has a GOG Dreamlist entry, and the Wind
 
 [^ref-1]: [SierraChest](https://sierrachest.com/index.php?a=games&id=309&title=trophy-bass-2&fld=general) – First release 1996-09-30, developer, publisher, engine "Unknown/unnamed", Northern Lakes and Deluxe Edition
 [^ref-2]: [InterAction Magazine, Fall 1996, p. 85 – "1996: A Big Expansion Year for FPS: Sports"](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US/page/n86/mode/1up) – Sierra's house magazine on the 1996 Front Page Sports line-up and the pro anglers behind Trophy Bass 2
-[^ref-3]: [Internet Archive – Demo](https://archive.org/details/swizzle_demu_BASS) – Product marketing description
+[^ref-3]: [Internet Archive – Demo](https://archive.org/details/swizzle_demu_BASS) – Item description (2014 upload, not a box scan): "landing a 19-pounder in Trophy Bass 2, the most addictive fishing simulation ever."
 [^ref-4]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – Archive entry, user rating and user comments
 [^ref-6]: [eBay Listing](https://www.ebay.com/itm/403449583476) – Product catalogue description and features
 [^ref-7]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – User-submitted game description
@@ -253,7 +253,7 @@ The game is not sold on GOG or Steam. It has a GOG Dreamlist entry, and the Wind
 [^ref-11]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Front_Page_Sports:_Trophy_Bass_2:_Northern_Lakes_Cheats) – User-submitted gameplay tips
 [^ref-12]: [MobyGames](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – Description, player counts, series order
 [^ref-14]: [Kotaku](https://kotaku.com/games/front-page-sports-trophy-bass-2) – Game overview (IGDB-sourced summary)
-[^ref-15]: [MobyGames – Reviews](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/reviews/windows/) – Critic scores and excerpts (72%, 8 ratings)
+[^ref-15]: [MobyGames – Reviews](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/reviews/windows/) – Critic scores and excerpts (72%, 8 ratings on this tab; the game overview shows 70%, 7 ratings)
 [^ref-21]: [Internet Archive – Demo](https://archive.org/details/tbass2) – Demo preservation
 [^ref-23]: [InterAction Magazine, Summer 1996, pp. 54–55 – "On-Line Tournament Bass Fishing", by Clint Boswell](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US/page/n53/mode/1up) – Five new lakes, online tournaments, second-generation fish AI, over 100 pro tips, $54.95
 [^ref-24]: [InterAction Magazine, Fall 1996, pp. 90–91 – "On-Line Play Adds a New Hook to Trophy Bass 2", by John Sauer](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US/page/n91/mode/1up) – Four pro anglers, 100+ video tips, 200 lures, sweepstakes, planned October 1996 virtual tournament
