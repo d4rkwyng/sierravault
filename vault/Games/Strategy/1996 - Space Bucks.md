@@ -11,7 +11,7 @@ series: Standalone
 engine: null
 protagonist: Space Entrepreneur
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Space Bucks is a 1996 space trading and business simulation by Impressions
   Games, published by Sierra On-Line, in which players build an interstellar transport
   empire before the year 2500.
@@ -20,7 +20,7 @@ composer: [Jay Rinaldi, Jeremy Bell, Keith Zizza]
 ---
 # Space Bucks
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ Victory comes through infrastructure investment, the stock market, piracy, sabot
 > **Sierra Lineage:** Sierra Label (Impressions)
 > **Producer:** Glenn Oliver[^ref-10]
 > **Programmer:** Thanh Pham, Chris Gurski[^ref-10]
-> **Artist:** Chris Beatrice (art direction)[^ref-10]
+> **Artist:** Chris Beatrice (art direction); Dennis Rose (graphics & animation)[^ref-10]
 > **Composer:** Jay Rinaldi, Jeremy Bell, Keith Zizza[^ref-10]
 
 ## Story Summary
@@ -71,9 +71,9 @@ To expand, the player negotiates for the right to build a starport on a planet. 
 
 **Stock Market:** All four companies start privately owned with 1,000 shares. Issuing shares raises cash, and buying 51% of a rival forces it into liquidation, which opens all its starports for negotiation.[^ref-10]
 
-**Covert Operations:** If the option is switched on, companies can hire pirates to harass a rival, sabotage a ship, or bribe locals to raise their CSI.[^ref-10] Pirate attacks are resolved automatically from the ships' equipment.[^ref-31] Computer Gaming World found that pirates "hardly ever attack."[^ref-27]
+**Covert Operations:** If the option is switched on, companies can hire pirates to harass a rival, sabotage a ship, or bribe locals to raise the company's own CSI on a planet it holds.[^ref-10] Pirate attacks are resolved automatically from the ships' equipment.[^ref-31] Computer Gaming World found that pirates "hardly ever attack."[^ref-27]
 
-Computer Games Magazine's Scott Udell summed up play this way: "The best metaphor I can come up with for Space Bucks is juggling: there are not a lot of different things to do, but it's all too easy for things to get out of control quickly."[^ref-14] MyAbandonware's reviewer HOTUD wrote that the game "suffers from the same 'spreadsheet syndrome' of many old Impressions games."[^ref-8]
+Scott Udell, writing for Strategy Plus (republished on CDMag), summed up play this way: "The best metaphor I can come up with for Space Bucks is juggling: there are not a lot of different things to do, but it's all too easy for things to get out of control quickly."[^ref-14] MyAbandonware's reviewer HOTUD wrote that the game "suffers from the same 'spreadsheet syndrome' of many old Impressions games."[^ref-8]
 
 ## Reception
 
@@ -94,7 +94,7 @@ Contemporary reception was mixed to negative in the US and somewhat warmer in Eu
 
 MobyGames lists a critics' average of 64% from 11 ratings.[^ref-7] On MyAbandonware, the reviewer HOTUD (whose review carries no score) concluded that "ultimately the awful user interface and extreme micro management makes Space Bucks more repetitive than fun." The site's users rate the game 4.38/5 from 8 votes.[^ref-8]
 
-Scott Udell of Computer Games Magazine concluded that "Beginning business sim fans might get more out of Space Bucks than I did, but I suspect advanced gamers will want to stick with a more detailed game like Capitalism."[^ref-14] The retro site Squakenet called it "a very underrated space strategy game that is concentrated solely on trading," under the headline "Too complicated to be truly fun."[^ref-21]
+Udell concluded that "Beginning business sim fans might get more out of Space Bucks than I did, but I suspect advanced gamers will want to stick with a more detailed game like Capitalism."[^ref-14] The retro site Squakenet called it "a very underrated space strategy game that is concentrated solely on trading," under the headline "Too complicated to be truly fun."[^ref-21]
 
 ## Development
 
@@ -183,7 +183,7 @@ Impressions was already the maker of the Caesar series when Space Bucks shipped.
 [^ref-11]: [Cheat Book](https://www.cheatbook.de/wfiles/spacebucks.htm) – Strategy tips (Tesarians buy toxic waste)
 [^ref-12]: [Amazon](https://www.amazon.com/Space-Bucks/dp/B0002Y2ZLQ) – Race and starting planet selection
 [^ref-13]: [Metacritic](https://www.metacritic.com/game/space-bucks/) – Publisher summary: "the galaxy is wide open"
-[^ref-14]: [Web Archive - CD Magazine](https://web.archive.org/web/20031103233809/http://www.cdmag.com/articles/005/087/space_bucks_review.html) – Scott Udell review (1996): juggling metaphor and conclusion
+[^ref-14]: [Web Archive - CD Magazine](https://web.archive.org/web/20031103233809/http://www.cdmag.com/articles/005/087/space_bucks_review.html) – Scott Udell review (1996, ©Strategy Plus, Inc.): juggling metaphor and conclusion
 [^ref-15]: [Wikipedia](https://en.wikipedia.org/wiki/Space_Bucks) – Next Generation No. 18 citation; summary of victory methods
 [^ref-16]: [Web Archive - Gamer's Zone](https://web.archive.org/web/20090227043558/http://www2.worldvillage.com/wv/gamezone/html/reviews/spacebuk.htm) – Rich Cunningham review: Air Bucks v1.2 comparison, $54.95, system requirements, score breakdown
 [^ref-18]: [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SpaceBucksUpdates.html) – v1.02 patch: GPF, resolution and colour-depth fixes
