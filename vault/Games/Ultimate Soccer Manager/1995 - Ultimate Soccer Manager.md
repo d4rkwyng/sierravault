@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Ultimate Soccer Manager is a 1995 English football management game for
   DOS and Amiga, developed and published by Impressions, notable for its office-based
   interface and optional bribes, bungs and match rigging.
@@ -18,13 +18,13 @@ tags: [1990s, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 Ultimate Soccer Manager (USM) is a football management game developed and published by Impressions and released in 1995 for DOS and the Amiga[^ref-6][^ref-51]. It covers the English leagues from the Premiership down to the Conference, and presents each part of the club as a room or building: the manager's office, the chairman's office, the bank, the training ground and the stadium itself[^ref-6][^ref-16]. It was Impressions' first football management game. Amiga Action noted that the strategy house had "never really dipped into the football management arena" until then[^ref-49][^ref-50].
 
-The game drew most attention for its optional "darker side". With the rigging option turned on, the player can bribe opponents to throw a match, bet on their own team and offer a "bung" to ease a transfer[^ref-49][^ref-16][^ref-51]. Amiga Action's preview opened with "Bungs, bribes and match rigging" and said USM offered "new features that have never been seen before"[^ref-49]. UK magazines mostly rated it highly, from 81% in CU Amiga to 92% in Amiga Action and 94% in Games Master, but German magazines scored it much lower. MobyGames' critic average is 69% from 16 reviews[^ref-50][^ref-57].
+The game drew most attention for its optional "darker side". With the rigging option turned on, the player can bribe opponents to throw a match, bet on their own team and offer a "bung" to ease a transfer[^ref-49][^ref-16][^ref-51]. Amiga Action's preview captioned it "Bungs, bribes and match rigging" and said USM offered "new features that have never been seen before"[^ref-49]. UK magazines mostly rated it highly, from 81% in CU Amiga to 92% in Amiga Action and 94% in Games Master, but German magazines scored it much lower. MobyGames' critic average is 69% from 16 reviews[^ref-50][^ref-57].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-54]
@@ -121,9 +121,10 @@ The PC version sold at £34.99 and the Amiga version at £29.99[^ref-51][^ref-50
 | Ultimate Soccer Manager | 1995 | Amiga | A500 and A1200 versions; marketed by Daze Marketing[^ref-50][^ref-49] |
 | Der Meister | 1995 | DOS | German version built around the German leagues[^ref-6][^ref-21] |
 | Polish release | 1995 | DOS | Distributed in Poland by MarkSoft[^ref-6] |
-| Data disk / Add On | by April 1996 | — | MobyGames records a data disk with Italian teams; an "Ultimate Soccer Manager Add On" was advertised at £8.99 in April 1996[^ref-6][^ref-52] |
+| Data disk (Italian teams) | — | — | MobyGames records a data disk with Italian teams (undated)[^ref-6] |
+| Add On | by April 1996 | — | An "Ultimate Soccer Manager Add On" was advertised at £8.99 in April 1996; the sources do not say whether this is the same product as the Italian data disk[^ref-52] |
 
-A two-disk playable demo was given away on the cover disk of Amiga Action #72 (July 1995)[^ref-59].
+A two-disk playable demo for the A1200, playable only as Brighton, was given away on the cover disk of Amiga Action #72 (July 1995)[^ref-59].
 
 ## Legacy
 
