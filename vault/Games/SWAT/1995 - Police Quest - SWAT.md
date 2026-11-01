@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: SCI 2.1
 protagonist: Unnamed SWAT Recruit ('SWAT-Pup')
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 composer: [Dan Kehler]
 description: 'Police Quest: SWAT (Daryl F. Gates'' Police Quest: SWAT) is the fifth
   Police Quest game and the first of the SWAT series: a 1995 full-motion-video tactical
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
 # Police Quest: SWAT
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ GameSpot's Dulin found that in the missions "the linear structure simply require
 
 Rather than traditional adventure game puzzles, Police Quest: SWAT focuses on tactical decision-making and procedural adherence. Players who want the sniper role must pass a sniper qualification; the manual covers the sniper's Data Book and zeroing the rifle.[^ref-8] A GameSpot user reviewer noted that the manual "outlines equations for shooting distance and the drop loss of the bullet."[^ref-13]
 
-The game emphasizes teamwork and proper procedure above action, with violations of SWAT protocols resulting in mission failure or negative consequences.[^ref-16] Intentionally killing anyone, including fellow SWAT members or unarmed suspects, results in the Lieutenant charging the player with first-degree murder.[^ref-17] The emphasis on procedure over gameplay led PC Gamer Online's Mike Wolf to observe that "it's more like work than fun."[^ref-18]
+The game emphasizes teamwork and proper procedure above action, with violations of SWAT protocols resulting in mission failure or negative consequences.[^ref-16] Intentionally killing anyone, including fellow SWAT members or unarmed suspects, results in the Lieutenant charging the player with first-degree murder, according to IMDb's user-contributed trivia.[^ref-17] The emphasis on procedure over gameplay led PC Gamer Online's Mike Wolf to observe that "it's more like work than fun."[^ref-18]
 
 ## Reception
 
@@ -87,7 +87,7 @@ Some magazines were warmer. PC Zone scored it 83 with a "Recommended" badge; its
 
 Later user opinion remains divided. On GameSpot, coolermaster123 (2019) wrote that the game "might actually be one of the worst video games ever made" and that "the acting is on the level of a bad police television drama," while ccooke (2007) called it "one of my favourite games mainly because of its authenticy and realism."[^ref-14][^ref-19]
 
-On IMDb, reviewer euroasiangenetic wrote that "this is a swat simulation not action game, and it's glorious" and "any mistakes I make I learn and I know now thanks to this game what it's like to be a swat officer," though the review text closes "I love this game and give it 6/10" (the review's header shows 10).[^ref-17][^ref-20] Conversely, refinedsugar's 4/10 review said that "what the game does well is treats the members of these highly skilled units with respect. Explains some of their tools and tactics," while criticizing "the mix of FMV, unfulfilling gameplay and a harsh learning curve."[^ref-17][^ref-20]
+On IMDb, reviewer euroasiangenetic wrote that "this is a swat simulation not action game, and it's glorious" and "any mistakes I make I learn and I know now thanks to this game what it's like to be a swat officer," though the review text closes "I love this game and give it 6/10".[^ref-17][^ref-20] Conversely, refinedsugar's 4/10 review said that "what the game does well is treats the members of these highly skilled units with respect. Explains some of their tools and tactics," while criticizing "the mix of FMV, unfulfilling gameplay and a harsh learning curve."[^ref-17][^ref-20]
 
 **Scores:**
 - **PC Zone (1996):** 83, "Recommended"[^ref-37]
@@ -97,7 +97,7 @@ On IMDb, reviewer euroasiangenetic wrote that "this is a swat simulation not act
 - **Next Generation (1996):** 2/5[^ref-38]
 - **GameSpot (1996):** 3.7/10[^ref-12][^ref-44]
 - **MobyGames:** 61% (Critics Average, 19 ratings); Players 3.4/5 (45 ratings)[^ref-2]
-- **IMDb:** 6.9/10 (26 ratings)[^ref-17]
+- **IMDb:** 6.9/10 (26 ratings; June 2026 capture, not re-checked live)[^ref-17]
 - **Metacritic User Score:** 6.2/10 (5 ratings)[^ref-21]
 - **Steam:** Mixed (55% of 63 reviews)[^ref-22]
 - **GOG.com (SWAT 1+2 bundle):** 3.6/5 (43 reviews)[^ref-3]
@@ -114,11 +114,11 @@ Sierra's marketing called Gates "a game designer for Sierra" on SWAT, but the ga
 
 The game was designed, directed, and written by Tammy Dargan, a former producer of *America's Most Wanted*, who co-produced it with Phy Williams.[^ref-45][^ref-40] Gates praised her research: "The fact that Tammy read LAPD's SWAT manual from cover to cover, and knows it better than I do, added a lot."[^ref-40] Dargan explained that the team chose video over animation because "when you video-capture actual SWAT officers, you are interacting with real SWAT guys."[^ref-40] Computer Game Review likewise reported that the game "contains multiple video clips that were filmed on location using actual members of the L.A.P.D. SWAT team."[^ref-7]
 
-Sierra's Holiday 1995 InterAction said the game was "Filmed on location in actual training facilities and on city streets all over Los Angeles County with the full assistance of the LAPD and real SWAT members."[^ref-41] Studio work was done in Oakhurst: actor Scotty Wixel, who played a character sharing his name, recalled on GOG.com in 2022 that "It was filmed at a production studio located in Oakhurst CA (just outside of Yosemite National Park)," that the cast "spent several days training with actual SWAT members from the LA Police Dept," and that "it was a blast working on this video game as an actor!!!"[^ref-3]
+Sierra's Holiday 1995 InterAction said the game was "Filmed on location in actual training facilities and on city streets all over Los Angeles County with the full assistance of the LAPD and real SWAT members."[^ref-41] Studio work was done in Oakhurst: a GOG user posting as ScottyWixel, who says he played Officer Wixell, wrote in a 2022 review that "It was filmed at a production studio located in Oakhurst CA (just outside of Yosemite National Park)," that "We spent several days training with actual SWAT members from the LA Police Dept," and that "it was a blast working on this video game as an actor!!!"[^ref-3] These are one user's unverified recollections; the manual's credits list the Officer Scotty "Mad Dog" Wixell role under "Micheal Reed."[^ref-8]
 
-According to the SWAT 3 postmortem, Rod Fung and Tammy Dargan both worked on the original SWAT, and in doing so "developed several contacts within the LAPD SWAT community, including Police Chief Daryl Gates."[^ref-5]
+According to the SWAT 3 postmortem, Rod Fung and Tammy Dargan both worked on the original SWAT, and that while working on the SWAT and Police Quest series they "developed several contacts within the LAPD SWAT community, including Police Chief Daryl Gates and a SWAT element leader named Ken, our primary consultant."[^ref-5]
 
-**Development Credits (DOS):**[^ref-45]
+**Development Credits (DOS):**[^ref-45][^ref-8]
 - **Designer / Director / Writer:** Tammy Dargan
 - **Producers:** Tammy Dargan, Phy Williams
 - **Art Director / Director of Photography:** Rod Fung
@@ -126,7 +126,7 @@ According to the SWAT 3 postmortem, Rod Fung and Tammy Dargan both worked on the
 - **Lead Artist:** Terry Robinson
 - **Music:** Dan Kehler
 - **Assistant Designer:** Susan Frischer
-- **LAPD SWAT Advisors:** Bob Bennyworth, Steve Massa, Greg Horton, Lou Villalobos, Dave Cervantes and others (all credited as officers)
+- **LAPD SWAT Advisors:** Bob Bennyworth, Steve Massa, Greg Horton, Lou Villalobos (spelled "Velalobos" in the manual), Dave Cervantes, Steve Stear (all credited as officers)
 
 ### Technical Achievements
 
@@ -143,7 +143,7 @@ Police Quest: SWAT was built on the SCI 2.1 engine (Sierra Creative Interpreter)
 
 **System Requirements (1995–96 sources):**
 - **Minimum:** 486/33 processor, double-speed CD-ROM, SVGA, supported sound card, 15MB hard drive space.[^ref-18][^ref-44]
-- **Minimum RAM (sources conflict):** PC Gamer's review lists 4MB RAM, while Computer Game Review, GameSpot's original listing, and PCGamingWiki list 8MB.[^ref-18][^ref-7][^ref-44][^ref-6]
+- **Minimum RAM (sources conflict):** PC Gamer's review lists 4MB RAM, while Computer Game Review, Hyper's review header ("486/DX33; 8MB RAM"), GameSpot's original listing, and PCGamingWiki list 8MB.[^ref-18][^ref-7][^ref-42][^ref-44][^ref-6]
 - **Recommended:** Pentium processor, 16MB RAM.[^ref-18][^ref-7]
 - **Modern (Steam):** Windows XP/Vista, 1.0 GHz processor, 256 MB RAM, DirectX 7 compatible 3D card, 2 GB storage.[^ref-22]
 
@@ -158,13 +158,14 @@ Police Quest: SWAT was built on the SCI 2.1 engine (Sierra Creative Interpreter)
 | GOG Release | February 10, 2011 | Windows (DOSBox) | Digital re-release[^ref-6] |
 | Steam Release | 2016 | Windows | Digital re-release[^ref-1] |
 
-**SCI Interpreter Versions:**[^ref-25]
+**SCI Interpreter Versions:**[^ref-25][^ref-48]
 
 | Game Version | Interpreter | Type | Notes |
 |--------------|-------------|------|-------|
 | Demo 0.001.200 | 2.100.002 | SCI2.1 | Windows only |
-| Demo 0.001.300 | 2.100.002 | SCI2.1 | Multi-platform |
-| 1.000 | SCI2.1 | SCI2.1 | Initial release |
+| Demo 0.001.300 | 2.100.002 | SCI2.1 | SCI Wiki's demo page lists MS-DOS, Windows 3.x and Macintosh |
+| 1.000 | 2.100.002 | SCI2.1 | Dated 1995/11/23 (DOS and Windows) |
+| 1.0c | 2.100.002 | SCI2.1 | Dated 1997/04/03 (DOS and Windows) |
 
 ### Technical Issues
 
@@ -177,8 +178,8 @@ Players of the GOG.com release have reported further issues:[^ref-26][^ref-27]
 ### Easter Eggs and Trivia
 
 - If players attempt to skip the opening briefing, the sergeant berates the player character for disrespectful and insubordinate behavior[^ref-10][^ref-42]
-- Intentionally killing anyone results in first-degree murder charges from the Lieutenant[^ref-17]
-- Due to a timing quirk, players can shoot a surrendering elderly female suspect, win the mission, and still receive a commendation[^ref-17]
+- Intentionally killing anyone results in first-degree murder charges from the Lieutenant (IMDb user-contributed trivia; no second source found)[^ref-17]
+- Due to a timing quirk, players can shoot a surrendering elderly female suspect, win the mission, and still receive a commendation (IMDb user-contributed goof; no second source found)[^ref-17]
 - The game is listed as "Police Quest 5" (PQ5) in file names and credits, though this numbering doesn't appear in the game itself[^ref-1]; Sierra's 1996 10-K and a 1998 PC Data sales chart both list it as "Police Quest V"[^ref-30][^ref-39]
 - Sierra advertising claimed that "some of the country's major police departments" used Police Quest CDs "to train their officers"[^ref-43][^ref-41]
 
@@ -205,9 +206,9 @@ The live-action cast was credited on IMDb, with Eric Flom as the SWAT Pup and St
 | Sidney Devon | Keith Kelly |
 | Andy Durham | Brian Leonard |
 | Katie Long | Jeannie McKelvey |
-| Scotty Wixel | Scotty Wixel |
+| Officer Scotty "Mad Dog" Wixell | Michael Reed (credited "Micheal Reed" in the manual) |
 
-Per actor Scotty Wixel, the cast trained with actual SWAT members from the Los Angeles Police Department.[^ref-3]
+The manual's credits list Officer Scotty "Mad Dog" Wixell under "Micheal Reed," and IMDb lists the role as "Officer Scotty Wixell (as Michael Reed)."[^ref-8][^ref-47] A GOG user posting as ScottyWixel, who says he played Officer Wixell, wrote that "We spent several days training with actual SWAT members from the LA Police Dept" (unverified).[^ref-3]
 
 ## Legacy
 
@@ -239,7 +240,7 @@ According to GOG.com forum discussions, "back in the 2000s, there were a couple 
 
 Police Quest: SWAT sits in an unusual spot in Sierra's history: a title that sold well while drawing mostly lukewarm reviews.[^ref-5] Giant Bomb describes it as "a major design shift for the Police Quest series, moving away from adventure games and into the FMV genre that was flourishing in the mid-1990s."[^ref-16] Reviews split over whether its procedure-heavy design was a strength or a chore, from Hyper's "highly informative" to PC Gamer's "more like work than fun."[^ref-42][^ref-18]
 
-Jim Walls, creator of the original Police Quest games, later reflected that "the payoff came with the fan mail. When the letters came in, with some of the kids saying they wanted to grow up to be cops, we knew we were on the right track."[^ref-34] Sierra pushed the educational angle in its own advertising, claiming major police departments used Police Quest CDs for training, and a GOG user reviewer of the earlier Police Quest collection repeats the claim that "many law enforcement agencies used the series as a training tool."[^ref-43][^ref-35] Neither source names a department.
+Jim Walls, creator of the original Police Quest games, later reflected that "the payoff came with the fan mail. When the letters came in, with some of the kids saying they wanted to grow up to be cops, we knew we were on the right track."[^ref-34] Sierra pushed the educational angle in its own advertising, claiming major police departments used Police Quest CDs for training, and a GOG user reviewer of the earlier Police Quest collection repeats the claim, urging readers to "consider the many law enforcement agencies that used the series as a training tool."[^ref-43][^ref-35] Neither source names a department.
 
 The title "truly did signal the end of the franchise" in terms of adventure gaming, marking Police Quest's permanent transition from point-and-click adventures to tactical simulations.[^ref-9] SWAT 2 (1998) became a 2D real-time strategy game made by an entirely different team, and SWAT 3: Close Quarters Battle (1999) brought back Rod Fung and Tammy Dargan from the original game.[^ref-5]
 
@@ -271,7 +272,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – release dates, platforms, PQ5 naming, four CDs, 1998 full-year sales (citing PC Gamer US, April 1999), technical details
 [^ref-2]: [MobyGames – Daryl F. Gates' Police Quest: SWAT](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/) – critics 61% (19), players 3.4/5 (45), compilations
-[^ref-3]: [GOG.com – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – product description, 3.6/5 from 43 reviews, Scotty Wixel's 2022 user review
+[^ref-3]: [GOG.com – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – product description, 3.6/5 from 43 reviews, user review posted October 19, 2022 by a user named ScottyWixel (who says he played Officer Wixell)
 [^ref-5]: [Gamasutra – Postmortem: Sierra's SWAT3 Close Quarters Battle, by Jim Napier (March 6, 2000), Wayback Machine](https://web.archive.org/web/20121110234059/http://www.gamasutra.com/view/feature/3436/postmortem_sierras_swat3_close_.php) – sales of over a million units, Fung and Dargan on original SWAT, SWAT 2 as a 2D RTS
 [^ref-6]: [PCGamingWiki – Police Quest: SWAT](https://www.pcgamingwiki.com/wiki/Police_Quest:_SWAT) – Mac release December 1995, GOG release date, 8MB RAM, resolution
 [^ref-7]: [Computer Game Review (March 1996) – "Licensed to Kill", Wayback Machine](https://web.archive.org/web/19961019081500/http://www.nuke.com/cgr/reviews/9603/swat/swat.htm) – editor scores 62/61/80, SWAT-Pup, filmed with actual LAPD SWAT members, 8MB RAM
@@ -284,7 +285,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-14]: [GameSpot – User Review by coolermaster123 (Wayback Machine, 2019)](https://web.archive.org/web/20191215084910/https://www.gamespot.com/police-quest-swat/user-reviews/2200-12796729/) – "one of the worst video games ever made", Dragon's Lair comparison, acting criticism
 [^ref-15]: [PC Games Magazine (March 1996) via Wayback Machine](https://web.archive.org/web/19961018135852/http://www.pcgamesmag.com/games/Mar96/swat396.html) – Peter Olafson review, crash reports, cinéma vérité praise
 [^ref-16]: [Giant Bomb – Daryl F. Gates' Police Quest: SWAT](https://www.giantbomb.com/daryl-f-gates-police-quest-swat/3030-4987/) – procedure emphasis, genre shift
-[^ref-17]: [IMDb – Police Quest: SWAT](https://www.imdb.com/title/tt5463140/) – cast listing, trivia, goof, 6.9/10 from 26 ratings, featured user reviews
+[^ref-17]: [IMDb – Police Quest: SWAT](https://www.imdb.com/title/tt5463140/) – cast listing, user-contributed trivia and goof (uncorroborated), 6.9/10 from 26 ratings, featured user reviews
 [^ref-18]: [PC Gamer Online (March 1996) via Wayback Machine](https://web.archive.org/web/20000226141044/http://www.pcgamer.com/reviews/821.html) – Mike Wolf review, 70% score, system requirements (4MB RAM)
 [^ref-19]: [GameSpot – User Review by ccooke (Wayback Machine, 2019)](https://web.archive.org/web/20191212103112/https://www.gamespot.com/police-quest-swat/user-reviews/2200-472775/) – "one of my favourite games mainly because of its authenticy and realism"
 [^ref-20]: [IMDb – Police Quest: SWAT User Reviews](https://www.imdb.com/title/tt5463140/reviews/) – euroasiangenetic and refinedsugar reviews (also shown on the main title page)
@@ -305,8 +306,10 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-39]: [Computer Gaming World #172 (November 1998), Letters, p. 34 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_172/page/n37/mode/2up) – PC Data top 12 adventure games for 1998 as of July: "Police Quest V" 152,425 units, $1,622,405
 [^ref-40]: [InterAction Magazine, Fall 1995 (Sierra On-Line), pp. 39–42 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US/page/n45/mode/2up) – "An Interview with SWAT Producer Tammy Dargan", "Availability: Fall 1995", The 4 Most Wanted contents
 [^ref-41]: [InterAction Magazine, Holiday 1995 (Sierra On-Line), pp. 55 and 65 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n73/mode/2up) – three scenarios, "Filmed on location… all over Los Angeles County", advertisement copy on founder claim and police training use
-[^ref-42]: [Hyper #29 (March 1996), pp. 64–65, review by Julian Schoffel (Internet Archive scan)](https://archive.org/details/hyper-029/page/n63/mode/2up) – overall 80, "Slickly presented, entertaining and highly informative", "right scolding" for skipping a speech
+[^ref-42]: [Hyper #29 (March 1996), pp. 64–65, review by Julian Schoffel (Internet Archive scan)](https://archive.org/details/hyper-029/page/n63/mode/2up) – overall 80, "Slickly presented, entertaining and highly informative", "right scolding" for skipping a speech; header "Min Requirements: 486/DX33; 8MB RAM" (p.64)
 [^ref-43]: [Computer Gaming World #138 (January 1996), Sierra advertisement, p. 73 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_138/page/n76/mode/2up) – "major police departments… now use Police Quest CDs to train their officers" (marketing claim)
-[^ref-44]: [GameSpot – Police Quest: Swat Review (2003 capture, Wayback Machine)](https://web.archive.org/web/20030412084232/http://www.gamespot.com:80/pc/strategy/policequestswat/review.html) – release date 09/30/1995, "POSTED: 05/01/96", score 3.7, 8 MB RAM / 15 MB disk requirements
+[^ref-44]: [GameSpot – Police Quest: Swat Review (December 2003 capture, Wayback Machine)](https://web.archive.org/web/20031208091334/http://www.gamespot.com/pc/strategy/policequestswat/review.html) – release date 09/30/1995, "POSTED: 05/01/96", score 3.7, 8 MB RAM / 15 MB disk requirements
 [^ref-45]: [MobyGames – Daryl F. Gates' Police Quest: SWAT DOS credits](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) – designer/director/writer Tammy Dargan, assistant designer Susan Frischer, LAPD SWAT advisors; "Special Thanks: Daryl F. Gates (Chief / Ret. LAPD)" ([archived May 2026](http://web.archive.org/web/20260516224857/https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/))
 [^ref-46]: [Wikipedia – Daryl Gates](https://en.wikipedia.org/wiki/Daryl_Gates) – John Nelson's 1965 idea approved by Gates; Gates "a principal consultant for Sierra's SWAT series"
+[^ref-47]: [IMDb – Police Quest: SWAT full credits (Wayback Machine, September 2025)](https://web.archive.org/web/20250903085317/https://www.imdb.com/title/tt5463140/fullcredits/) – "Officer Scotty Wixell (as Michael Reed)", filed under Michael James Reed
+[^ref-48]: [SCI Wiki – Police Quest: SWAT Demo](http://sciwiki.sierrahelp.com/index.php?title=Police_Quest:_SWAT_Demo) – demo versions 0.001.200 (Windows only) and 0.001.300, interpreter 2.100.002; platforms MS-DOS, Windows 3x, Macintosh
