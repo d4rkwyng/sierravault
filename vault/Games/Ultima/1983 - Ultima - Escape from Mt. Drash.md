@@ -7,10 +7,10 @@ publisher: Sierra On-Line
 genre: RPG
 platforms: [VIC-20]
 series: Ultima
-engine: VIC-BASIC with assembly language routines
+engine: Commodore BASIC with assembly language routines
 protagonist: Unnamed Prisoner
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: '*Ultima: Escape from Mt. Drash* is a rare 1983 VIC-20 maze game by Keith
   Zabalaoui, published by Sierra On-Line with Richard Garriott''s permission to use
   the Ultima name, and long the subject of a collectors'' legend that it was unauthorized.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ultima]
 ---
 # Ultima: Escape from Mt. Drash
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The game is remembered for its rarity rather than its gameplay, which modern pla
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Keith Zabalaoui[^ref-1][^ref-3]
 > **Publisher:** Sierra On-Line[^ref-1][^ref-2]
-> **Engine:** VIC-BASIC with assembly language routines[^ref-1]
+> **Engine:** Commodore BASIC with assembly language routines[^ref-1]
 > **Platforms:** VIC-20[^ref-1][^ref-2][^ref-10]
 > **Release Year:** 1983[^ref-1][^ref-17]
 > **Series:** Ultima
@@ -79,13 +79,13 @@ The game got little press. *Computer Gaming World*'s July–August 1983 issue (V
 
 Sierra's only known advertisement for the game was a VIC-20 page in the July 1983 *Compute!*, which promoted it alongside *Creepy Corridors* and *Flip-N-Match*[^ref-17][^ref-6].
 
-The game was listed in the Sierra On-Line Consumer Price List for the First Quarter of 1984 at a retail price of $19.95, with stock number 40245202[^ref-1].
+The game was listed in the Sierra On-Line Consumer Price List for the First Quarter of 1984 at a retail price of $19.95, with stock number 40245202[^ref-1]. A 2017 AtariAge forum thread about the same price list confirms that it includes the game, though that thread does not itself give the price or stock number[^ref-20].
 
 ### Modern Assessment
 
 Modern retrospectives have been harsh. Hardcore Gaming 101 called it "absolutely, horribly unplayable"[^ref-12]. The CRPG Addict wrote that the gameplay "could have been exciting as an action game, but the lack of any other features makes it fall flat"[^ref-11]. As of October 2026, MobyGames players rate it 2.3 out of 5, based on 8 ratings and 1 review[^ref-2].
 
-That one review, written by Pix in 2008, says: "This is one of the single worst games I've ever played," and concludes, "There is a reason this title is so rare though - no one wanted to buy it in the first place"[^ref-2]. The review also repeats the legend that the Ultima name was used "without Lord British's knowledge". Pix himself corrected this in 2012, after Garriott told him he had approved it[^ref-2][^ref-16].
+That one review, written by Pix in 2008, says: "This is one of the single worst games I've ever played," and concludes, "There is a reason this title is so rare though - no one wanted to buy it in the first place"[^ref-2]. The review also repeats the legend that the Ultima name was used "without Lord British's knowledge". Pix reported in 2012 that Garriott had told him he approved it[^ref-2][^ref-16].
 
 **Aggregate Scores:**
 - **MobyGames:** 2.3/5 (8 ratings, 1 review, as of October 2026)[^ref-2]
@@ -104,7 +104,7 @@ Even with the Ultima name, Sierra remained skeptical. It manufactured only the m
 
 Because the game was so obscure, a story grew up around it. In that story Sierra had used the Ultima name without Garriott's knowledge or consent and then buried the game, in some versions literally[^ref-6]. Maher traced the tale to Ultima collectors in the late 1990s, when no working copy was known. It was first told with qualifiers like "apparently", and over time those qualifiers dropped away and it "became accepted fan canon"[^ref-6]. Sierra's John Williams had occasionally tried to correct it in comments on blogs that repeated it[^ref-6].
 
-The legend is false. Garriott confirmed to Pix in 2012 that he had known about the game and approved the branding[^ref-16]. Maher's 2013 article reported that Garriott had "known about the game and duly authorized its release"[^ref-6]. The Ultima Codex, Giant Bomb, Hardcore Gaming 101 and the CRPG Addict now all say Garriott consented[^ref-3][^ref-9][^ref-12][^ref-11]. Some sources still repeat the old story, including the Ultima Fandom wiki and the Computer Game Museum's display page[^ref-7][^ref-14].
+The legend is false. Garriott confirmed to Pix in 2012 that he had known about the game and approved the branding[^ref-16]. Maher's 2013 article reported that Garriott had "known about the game and duly authorized its release"[^ref-6]. The Ultima Codex, Giant Bomb, Hardcore Gaming 101 and the CRPG Addict now all say Garriott consented[^ref-3][^ref-9][^ref-12][^ref-11]. Some sources still repeat the old story, including the Ultima Fandom wiki and the Computer Game Museum's display page[^ref-7][^ref-14]. Two of the consent sources are weak on this point: Hardcore Gaming 101 says Garriott consented in its opening paragraph but later says he "didn't know the game existed until some years after the fact", and Giant Bomb's summary says the game was made "without any input at all from the series creator" before stating that Garriott "was fully aware" and consented[^ref-12][^ref-9].
 
 ### Production
 
@@ -116,7 +116,7 @@ The game was written in Commodore BASIC, with assembly language routines for fas
 
 ### Technical Achievements
 
-The screen splits into first-person, overhead-map and combat views at the same time, an unusual layout for the limited VIC-20[^ref-18][^ref-12]. *Computer Gaming World* singled out its "unique graphics and marvelous musical score"[^ref-18]. The CRPG Addict identifies its looping music as excerpts from classical pieces, among them Saint-Saëns's "Danse Macabre", a Bach "March in D Major" and, during combat, Schumann's "Knecht Ruprecht"[^ref-11].
+The screen splits into first-person, overhead-map and combat views at the same time[^ref-18][^ref-12]. *Computer Gaming World* singled out its "unique graphics and marvelous musical score"[^ref-18]. The CRPG Addict identifies its looping music as excerpts from classical pieces, among them Saint-Saëns's "Danse Macabre", a Bach "March in D Major" and, during combat, Schumann's "Knecht Ruprecht"[^ref-11].
 
 ### Technical Specifications
 
@@ -138,7 +138,7 @@ No documented cut content has been identified in available sources.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1983 | VIC-20 | Original cassette release, the only official release[^ref-1][^ref-2] |
-| Unofficial port | 11 June 2003 | PC (Windows, SDL) | Port by Kasper Fauerby ("Telemachos"), based on the original BASIC source; released under the GPL[^ref-15][^ref-12] |
+| Unofficial port | 11 June 2003 | PC (Windows, SDL) | Windows SDL port by Kasper Fauerby ("Telemachos")[^ref-15]; released under the GPL[^ref-12]; reuses most of the original tape's source code[^ref-3] |
 | Unofficial port | 25 January 2025 | Commodore 64 | Conversion by Aleksi Eeben of CNCD[^ref-8] |
 
 ### Technical Issues
@@ -177,7 +177,7 @@ Kasper Fauerby's 2003 Windows port, released under the GPL, is the version most 
 
 - **Compute!, July 1983 (p. 79):** a VIC-20 advertisement, the game's only known ad: "ULTIMA · Escape from Mt. Drash. A real-time, fantastic adventure."[^ref-17]
 - **Computer Gaming World, Vol. 3 No. 4 (July–August 1983), p. 9:** a new-product blurb[^ref-18]
-- **Sierra On-Line Consumer Price List (Q1 1984):** lists the game at $19.95, stock number 40245202[^ref-1]
+- **Sierra On-Line Consumer Price List (Q1 1984):** lists the game at $19.95, stock number 40245202[^ref-1][^ref-20]
 
 No official hint books, strategy guides or novelizations have been documented.
 
@@ -185,7 +185,7 @@ No official hint books, strategy guides or novelizations have been documented.
 
 The game's real significance is historiographical. Maher used it as a lesson for anyone writing gaming history: "be a bit more rigorous, and not to substitute easy assumptions for research"[^ref-6]. The legend, a "glib story" in Maher's words, was repeated for years without being seriously questioned. It also cast Sierra as a company that had stolen a trademark, a charge Maher calls hard to believe given Sierra's legal team and Ken Williams's own work securing the Ultima rights[^ref-6].
 
-In Maher's view, the actual decision to attach the Ultima name to a slight VIC-20 game reflects how young the industry and Garriott both were in 1983. "Today," he writes, "one in Garriott's position would never risk tarnishing his trademark in such a way"[^ref-6]. As the MobyGames reviewer put it, "Without the Ultima brand on it, this game would be justly long forgotten"[^ref-2].
+In Maher's view, the actual decision to attach the Ultima name to a slight VIC-20 game reflects how young the industry and Garriott both were in 1983. "Today," he writes, "… one in Garriott's position would never risk tarnishing his trademark in such a way"[^ref-6]. As the MobyGames reviewer put it, "Without the Ultima brand on it, this game would be justly long forgotten"[^ref-2].
 
 ## Downloads
 
@@ -214,7 +214,7 @@ In Maher's view, the actual decision to attach the Ultima name to a slight VIC-2
 [^ref-9]: [Giant Bomb – Ultima: Escape from Mt. Drash](https://www.giantbomb.com/ultima-escape-from-mt-drash/3030-5115/) – "Contrary to rumors, Garriott was fully aware of the game and consented to the use of the Ultima name"
 [^ref-10]: [IGDB – Ultima: Escape from Mt. Drash](https://www.igdb.com/games/ultima-escape-from-mt-drash) – game database entry: VIC-20, Sierra On-Line, role-playing genre
 [^ref-11]: [The CRPG Addict – Game 160: Ultima: Escape from Mount Drash](http://crpgaddict.blogspot.com/2014/08/game-160-ultima-escape-from-mount-drash.html) – level structure, 99-second timer, spells, combat, CGW note, consent "debunked by Garriott himself", cover-art claim
-[^ref-12]: [Hardcore Gaming 101 – Ultima: Escape from Mt. Drash](http://www.hardcoregaming101.net/ultima-escape-from-mt-drash/) – manual excerpt, three-view screen, level handicaps, "horribly unplayable", consent, Fauerby GPL port
+[^ref-12]: [Hardcore Gaming 101 – Ultima: Escape from Mt. Drash](http://www.hardcoregaming101.net/ultima-escape-from-mt-drash/) ([Wayback copy, 13 Dec 2024](http://web.archive.org/web/20241213233740/http://www.hardcoregaming101.net/ultima-escape-from-mt-drash/)) – Windows SDL port released under the GPL; also says Garriott "didn't know the game existed until some years after the fact" – manual excerpt, three-view screen, level handicaps, "horribly unplayable", consent, Fauerby GPL port
 [^ref-13]: [Nerdly Pleasures – The Obscure Ultima](http://nerdlypleasures.blogspot.com/2019/01/the-obscure-ultima-ultima-escape-from.html) – Garriott "later admitted he lent the Ultima name"; BASIC with machine code; trademark credit on cassette and title screen; combat guide
 [^ref-14]: [Computer Game Museum – Ultima: Escape from Mt. Drash](https://www.mocagh.org/loadpage.php?getgame=drash) – box/manual scans, British Columbia cliff copy, Ultima I Atari art claim (page also repeats the legend)
 [^ref-15]: [Dino's Complete Guide to Ultima – Escape from Mount Drash](https://gigi.nullneuron.net/ultima/umtdrash/) – PC port by Kasper Fauerby on 11 June 2003, spells, walkthrough
@@ -222,3 +222,4 @@ In Maher's view, the actual decision to attach the Ultima name to a slight VIC-2
 [^ref-17]: [Compute! Issue 38 (July 1983), p. 79 – Sierra On-Line "VIC-20 Owners" advertisement](https://archive.org/details/1983-07-compute-magazine/page/n80/mode/2up) – period scan: "ULTIMA · Escape from Mt. Drash. A real-time, fantastic adventure," SierraVenture label, Coarsegold address
 [^ref-18]: [Computer Gaming World Vol. 3 No. 4 (July–August 1983), p. 9](https://archive.org/details/Computer_Gaming_World_Issue_3.4) – period scan, new-products round-up (Sierra On-Line entry): "unique graphics and marvelous musical score", 15 levels, 8K expander
 [^ref-19]: [Polygon – Rare Ultima game sells for more than $3,000 on eBay](https://www.polygon.com/2014/3/2/5463490/rare-ultima-escape-from-mt-drash-sells-on-ebay/) – Samit Sarkar, 2 March 2014; Olafson's 2004 purchase for $3,605 and 2014 resale for $3,050
+[^ref-20]: [AtariAge Forums – Official Consumer price list for the First Quarter 1984 for Sierra On-Line (Wayback, 30 May 2021)](http://web.archive.org/web/20210530042314/https://atariage.com/forums/topic/269239-official-consumer-price-list-for-the-first-quarter-1984-for-sierra-on-line/) – thread-level support only: a poster (26 Aug 2017) notes "this price list has Ultima Escape from Mount Drash for the Vic 20 on it"; the PDF attachment could not be read
