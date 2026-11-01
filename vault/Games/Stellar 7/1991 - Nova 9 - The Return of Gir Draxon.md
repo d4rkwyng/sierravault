@@ -10,7 +10,7 @@ series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: 'Nova 9: The Return of Gir Draxon is a first-person futuristic tank
   combat game designed by Paul Bowman, developed by Dynamix and published by Sierra
   On-Line for DOS in 1991 and the Amiga in 1992; it is the sequel to Stellar 7.'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: The Return of Gir Draxon
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -32,13 +32,13 @@ Computer Gaming World called it "an excellent offering for arcade fans everywher
 > **Developer:** [[Dynamix]][^ref-7]
 > **Designer:** Paul Bowman[^ref-24][^ref-26]
 > **Writer / World Design:** [[David Selle]][^ref-26]
-> **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Publisher:** [[Sierra On-Line]][^ref-7]
+> **Engine:** 3Space[^ref-25]
 > **Platforms:** DOS (1991), Amiga (1992)[^ref-7]
 > **Release Year:** 1991
 > **Series:** Stellar 7
-> **Sierra Lineage:** Core Sierra
-> **Engine:** 3Space[^ref-25]
 > **Protagonist:** Captain John Alex
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
@@ -158,7 +158,7 @@ The name "Nova 9" predates this game. The preservation site Games That Weren't r
 
 ### Preservation and Accessibility
 
-The game is not sold on modern digital storefronts. It remains available through abandonware preservation sites[^ref-14].
+No GOG or Steam listing was found as of 2026-11-01. The game remains available through abandonware preservation sites[^ref-14].
 
 ### Stellar 7 Series Context
 
@@ -185,7 +185,7 @@ Nova 9 sits within the Stellar 7 series:
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital platforms
+- No GOG or Steam listing as of 2026-11-01
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh)
@@ -208,14 +208,13 @@ Nova 9 sits within the Stellar 7 series:
 [^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Raven II cannon, shields and armor; nine-slot power-up system; no save feature
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/) – Developer/publisher, DOS 1991 and Amiga 1992 releases, game description, series order
 [^ref-8]: [Archive.org](https://archive.org/details/mrdos_nova9) – Mr. DOS collection entry listing the development team
-[^ref-9]: [Wikidata](https://www.wikidata.org/wiki/Q7064010) – Publisher information
 [^ref-11]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=373&title=nova-9&fld=walkthrough) – Sarah's death, the nine planets of the Nova 9 system, 3-Space engine listing
 [^ref-12]: [Metacritic](https://www.metacritic.com/game/nova-9-the-return-of-gir-draxon/) – Box summary: "In the unexplored system of Nova 9, Draxon awaits"
 [^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh) – First-person perspective, user rating
 [^ref-16]: [MobyGames Review](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/user-review/2681078/) – 2000 user review criticizing the puzzles
 [^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/reviews/dos/) – DOS critic and player averages; player reviews on difficulty and music
 [^ref-18]: [AMR Reviews](https://amr.abime.net/review_25631) – Amiga Magazine Rack list of magazine review scores
-[^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Report of a 1984 Stellar 7 disk note about a planned "Nova 9: The Revenge of Raf Torin" sequel
+[^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Report, credited to Nic / Xidex, of a message in a sequence file on the disk version of Stellar 7 about a planned "Nova 9: The Revenge of Raf Torin" sequel
 [^ref-24]: [Computer Gaming World #93 (April 1992), pp. 40, 42](https://archive.org/details/Computer_Gaming_World_Issue_93) – Todd Threadgill, "Draxon's Back!"; credit box lists designer Paul Bowman, price $34.95, no copy protection
 [^ref-25]: [InterAction, Fall 1991 (Vol. 4 No. 3), p. 18](https://archive.org/details/012_InterAction_Volume_4_Number_3_Fall_1991) – Jerry Luttrell, Nova 9 feature: "newest 3Space™ 3D technology", "nine new strange and exotic worlds"
 [^ref-26]: [MobyGames – DOS credits](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/credits/dos/) – Full credits: designer Paul Bowman, writer/world design David Selle, score by Dale Cooper and Christopher Stevens
