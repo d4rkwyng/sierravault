@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: USM98 engine (unchanged)
 protagonist: Player-created Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Ultimate Soccer Manager 98-99 (version 2.00) is a season update to Ultimate
   Soccer Manager 98 by Impressions Games, adding 1998-99 data and the Dutch league;
   it was sold both as a full game and as an add-on that installs over USM98.
@@ -18,13 +18,13 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 98-99
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 Ultimate Soccer Manager 98-99 is an update to [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]], not a new game in the series. The readme on its CD identifies it as "Ultimate Soccer Manager 98-99 / Version 2.00 / 15 October 1998" and notes that "USM98-99 will install over USM98".[^ref-20] It was developed by [[Impressions Games]] and published by [[Sierra On-Line]].[^ref-4][^ref-23] The update brought the player and team data up to the 1998-99 season and added the Dutch league, giving seven playable European leagues.[^ref-21][^ref-22][^ref-23] Period reviewers stressed how little else had changed. France's Joystick wrote that there was "aucun changement dans le moteur" (no change to the engine) and that a patch would have been enough.[^ref-21]
 
-The update was sold in two forms. In the UK, CVG listed it at £29.99, or £14.99 for the "add-on edition".[^ref-23] In France it was sold as *Football Manager 98-99* at 299 F for the full version or 99 F for the update.[^ref-21] In Germany it appeared as *DSF Fussball Manager: Saison 98/99*.[^ref-4][^ref-22] It was the last Ultimate Soccer Manager title to be released. A planned USM 2000 was cancelled.[^ref-27]
+The update was sold in two forms. In the UK, CVG listed it at £29.99, or £14.99 for the "add-on edition".[^ref-23] In France it was sold as *Football Manager 98-99* at 299 F for the full version or 99 F for the update.[^ref-21] In Germany it appeared as *DSF Fussball Manager: Saison 98/99*.[^ref-4][^ref-22] It was the last Ultimate Soccer Manager title to be released.[^ref-4] A planned USM 2000 was cancelled.[^ref-27]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-4]
@@ -39,7 +39,7 @@ The update was sold in two forms. In the UK, CVG listed it at £29.99, or £14.9
 
 ## Story Summary
 
-Ultimate Soccer Manager 98-99 has no narrative. The player takes charge of a football club and plays through season after season, judged on results and on the club's finances. Players can manage clubs in seven European leagues: England, Scotland, Italy, France, Germany, Spain and the Netherlands.[^ref-5][^ref-31] Of these, only the Dutch league was new in 98-99. The official USM98 website had already listed six leagues, "England, Scotland, Italy, Germany, France and Spain".[^ref-26][^ref-21][^ref-23]
+Ultimate Soccer Manager 98-99 has no narrative. The player takes charge of a football club and plays through season after season, judged on results and on the club's finances. Players can manage clubs in seven European leagues: England, Scotland, Italy, France, Germany, Spain and the Netherlands.[^ref-5][^ref-31] Of these, only the Dutch league was new in 98-99. The official USM98 website had already listed six leagues, "England, Scotland, Italy, Germany, France and Spain".[^ref-26][^ref-21][^ref-22][^ref-23] MobyGames and Wikipedia instead say 98-99 also added Spain, but 1998 reviews of USM98 already listed Spain among its six leagues (PC Zone 60, PC Review 83, Ultimate PC 9), and Joystick, CVG and PC Player name only the Dutch league as new.[^ref-4][^ref-2][^ref-34][^ref-35][^ref-36] The sources therefore conflict on whether Spain was new in this update.
 
 ## Gameplay
 
@@ -132,7 +132,7 @@ A successor, USM 2000, was in development but was cancelled. A former developer 
 ### Easter Eggs and Trivia
 
 - The tweaker author's blog describes analysing the English 98-99 executable and finding a hidden cheat screen.[^ref-32]
-- The game had different titles in different markets: *DSF Fussball Manager: Saison 98/99* in Germany and *Fútbol Manager* in Spanish-speaking markets.[^ref-4][^ref-7] In France it was *Football Manager 98-99*.[^ref-21]
+- The game had different titles in different markets: *DSF Fussball Manager: Saison 98/99* in Germany and a Spanish title.[^ref-4] In France it was *Football Manager 98-99*.[^ref-21]
 - PC Player noted that the German version used altered names for German clubs and players. It said the real names could be recovered with a hex editor.[^ref-22]
 
 ## Legacy
@@ -174,7 +174,6 @@ No sales figures are published. CVG's UK PC CD-ROM chart in March 1999 shows "Ul
 [^ref-3]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – USM98 (1998) credits: design, music
 [^ref-4]: [MobyGames – Ultimate Soccer Manager 98-99](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/) – release (1999, UK), developer, publisher, alternate titles, description, Moby Score
 [^ref-5]: [MyAbandonware – Ultimate Soccer Manager 98-99](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – HOTUD review text, user rating
-[^ref-7]: [VGTimes – Ultimate Soccer Manager 98-99](https://vgtimes.com/games/ultimate-soccer-manager-98-99/) – alternate titles
 [^ref-9]: [Old-Games.com – Ultimate Soccer Manager 98-99](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – download sizes, "Full CD + Windows 7/XP Fix"
 [^ref-12]: [GOG.com Dreamlist – Ultimate Soccer Manager 98-99](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – Dreamlist vote page only; not sold
 [^ref-13]: [MobyGames – USM 98-99 Specs](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/specs/) – technical specifications, 65 MB HDD
@@ -194,3 +193,6 @@ No sales figures are published. CVG's UK PC CD-ROM chart in March 1999 shows "Ul
 [^ref-31]: [Home of the Underdogs – Ultimate Soccer Manager 98-99](https://www.homeoftheunderdogs.net/game.php?id=2698) – review, designer names, user rating
 [^ref-32]: [Dynamic-Mess.com – "Gaming archeology: retro-engineering on Ultimate Soccer Manager 98" (2022)](https://www.dynamic-mess.com/jeux/gaming-archeology-retro-engineering-on-ultimate-soccer-manager-98/) – tweaker author's account; English 98-99 version; hidden cheat screen
 [^ref-33]: [Computer and Video Games #204, November 1998, Freeplay p.4 – Tips: "Ultimate Soccer Manager 98" (Internet Archive)](https://archive.org/details/Computer_and_Video_Games_Issue_204_1998-11_EMAP_Images_GB/page/n87/mode/1up) – reader tip: coach pay rise to £999,999,999 per week, "around £20 million" paid in weekly
+[^ref-34]: [PC Zone #60 (February 1998), "First Encounter" preview, p. 38 (Internet Archive)](https://archive.org/details/PC_Zone_60_February_1998/page/n39/mode/2up) – USM98 preview: "leagues from England, Scotland, Italy, France, Spain and Germany"
+[^ref-35]: [PC Review #83 (July 1998), review, p. 47 (Internet Archive)](https://archive.org/details/pc-review-83/page/n46/mode/2up) – USM98 review: "half a dozen different countries (England, Scotland, Italy, France, Spain and Germany)"
+[^ref-36]: [Ultimate PC #9 (May 1998), review, pp. 84–86 (Internet Archive)](https://archive.org/details/ultimate-pc-09/page/n83/mode/2up) – USM98 review: "six national leagues all running concurrently"
