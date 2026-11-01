@@ -10,13 +10,13 @@ series: The Sierra Network MUD Trilogy
 engine: Shadow of Yserbius Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: The Ruins of Cawdor (1995) was the third and last graphical MUD from The Sierra Network / ImagiNation Network, a Macbeth-inspired dungeon game designed by Richard Aronson on the Shadow of Yserbius engine.
 tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, an
 > **Developer:** Ybarra Productions[^ref-2]
 > **Designer:** Richard Aronson[^ref-3][^ref-10]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
-> **Engine:** Shadow of Yserbius Engine (AIL / Miles Sound System)[^ref-3]
+> **Engine:** Shadow of Yserbius Engine; **Sound:** AIL / Miles Sound System[^ref-3]
 > **Platforms:** MS-DOS (online via The ImagiNation Network)[^ref-2][^ref-3]
 > **Release Year:** 1995
 > **Series:** The Sierra Network MUD Trilogy
@@ -51,13 +51,13 @@ There is a real Cawdor Castle in Scotland. Abandonware France pointed out that, 
 
 The Ruins of Cawdor reused the engine of The Shadow of Yserbius.[^ref-3] That engine used a first-person view with the character statistics on screen and a point-and-click interface. *Computer Gaming World* compared the setup to the original *Bard's Tale*.[^ref-27] MobyGames lists the game's perspective as first-person.[^ref-3]
 
-In the original online games, each player ran one character. Up to three other players could join that character to form a party of four.[^ref-26]
+In *Yserbius*, each player ran one character. Up to three other players could join that character to form a party of four.[^ref-26]
 
 ### Structure and Progression
 
 The game took place on the six floors of Castle Cawdor.[^ref-4][^ref-5] Each player created a character from one of six guilds: thief, barbarian, cleric, knight, wizard or ranger.[^ref-5]
 
-The game's own sources do not describe a floor-by-floor progression or a set role for each guild.
+Aronson later said he built two pathways through each floor of Cawdor Castle, one that required mostly puzzle solving and one that was a more traditional combat path. He also said the Wyrd Sisters were the final boss and Lady Macbeth the penultimate one.[^ref-32] Apart from that account, the game's sources do not describe a floor-by-floor progression or a set role for each guild.
 
 An RPG Codex forum player gave some notes on how the trilogy played:[^ref-12]
 - Maps usually regenerate when you enter them again.
@@ -78,7 +78,7 @@ No contemporary review of The Ruins of Cawdor has been found. MobyGames lists no
 
 - **Shadow of Yserbius (May 1993):** Samuel Baker reviewed the online version in *Computer Gaming World*. He concluded that "those who possess the money would be well served to try out TSN and *Yserbius*."[^ref-26]
 - **The 1994 offline boxed sets (February 1994):** Bernie Yee reviewed the boxed versions of *Yserbius* and *Twinion* for *CGW*. He was much cooler about them: "Playing *Yserbius* without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with."[^ref-27]
-- **Online Game of the Year (June 1994):** *CGW* named its finalists for On-Line Game of the Year. The ImagiNation Network's entry was "a new version of *Shadow of Yserbius: Fates of Twinion*". The award went to *Multi-Player BattleTech*.[^ref-25] This was more than a year before Cawdor was released, so Cawdor itself was not part of that nomination.
+- **Online Game of the Year (June 1994):** *CGW* named its finalists for On-Line Game of the Year. The ImagiNation Network's entry was "a new version of *Shadow of Yserbius: Fates of Twinion*". The award went to *Multi-Player BattleTech*.[^ref-25] This was the year before Cawdor's 1995 release, so Cawdor itself was not part of that nomination.
 
 ### Modern Assessment
 
@@ -96,7 +96,7 @@ Massively OP describes the background. *The Shadow of Yserbius* was a big hit fo
 
 Richard Aronson posted his own account on Wikipedia in 2009: "I designed "The Ruins of Cawdor" for TSN (when I started on it) and INN (as it was named when the dungeon game shipped)." He also said he worked at TSN/INN/WorldPlay "as the Bridge/RPG designer/programmer from April 1993 until November 1997". He named Stuart Moulder as his producer "until he left for Microsoft in 1994 or so".[^ref-10]
 
-Aronson also told Massively OP how he fixed the Twinion code: "I fixed all the system code fatals in *Twinion* … since [*Ruins of Cawdor*] was on the same code base, but I seriously redesigned everything for more balance."[^ref-4]
+Massively OP quotes Aronson, in a passage that appears in Raph Koster's online-world timeline, on how he fixed the Twinion code: "I fixed all the system code fatals in *Twinion* … since [*Ruins of Cawdor*] was on the same code base, but I seriously redesigned everything for more balance."[^ref-4][^ref-32]
 
 The decision to base the plot on *Macbeth* gave Cawdor a different literary source from the earlier games.[^ref-3]
 
@@ -144,16 +144,16 @@ The Ruins of Cawdor depended on The ImagiNation Network. Unlike its two predeces
 ### Easter Eggs and Trivia
 
 - Cawdor Castle is a real castle in Scotland, and it is not a ruin.[^ref-6]
-- Massively OP and ClassicReload both describe designer Richard Aronson as the author of the tabletop RPG humour story "Eric and the Gazebo".[^ref-1][^ref-4]
+- Massively OP and ClassicReload both describe designer Richard Aronson as the author of the tabletop RPG humour story "Eric and the Gazebo".[^ref-1][^ref-4] Aronson's own Gamasutra biography says the same.[^ref-33]
 - The game's NPCs speak in Early Modern English.[^ref-12]
 - Its encounter descriptions often break the fourth wall.[^ref-12]
-- Richard Aronson voiced Cedric the Owl in *King's Quest V*.[^ref-4][^ref-29]
+- Richard Aronson voiced Cedric the Owl in *King's Quest V*.[^ref-4][^ref-29][^ref-33]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Cawdor was released only about a year before AT&T sold The ImagiNation Network to AOL in 1996; the service itself was discontinued by 1998.[^ref-30][^ref-31] Partly because of its short time online, it "isn't as well remembered or discussed today" as its predecessors.[^ref-4] No sales figures are known.
+Cawdor was released only about a year before AT&T sold The ImagiNation Network to AOL in 1996; the service itself was discontinued by 1998.[^ref-30][^ref-31] Partly because of its short time online, it "isn't as well remembered or discussed today" as its predecessors.[^ref-4] No sales figures are known, although Aronson said Cawdor "was an absurdly cheap game, and definitely made money".[^ref-32]
 
 ### Collections
 
@@ -192,30 +192,8 @@ Cawdor was the last of the three graphical MUDs from Sierra's online network.[^r
 
 - [[1991 - The Shadow of Yserbius]]
 - [[1993 - Fates of Twinion]]
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1996 - The Realm Online]]
+- [[Sierra Network Series]]
 
 ## References
 
@@ -241,3 +219,5 @@ Cawdor was the last of the three graphical MUDs from Sierra's online network.[^r
 [^ref-29]: [MobyGames – King's Quest V credits (DOS)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) – "Cedric the Owl: Richard Aronson"
 [^ref-30]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"
 [^ref-31]: [Wikipedia – The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) – "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
+[^ref-32]: [Raph Koster – The Online World Timeline](https://www.raphkoster.com/games/the-online-world-timeline/) – entry for The Ruins of Cawdor quotes Aronson: two pathways per floor, Wyrd Sisters final boss, Lady Macbeth penultimate, "an absurdly cheap game, and definitely made money"; also the Twinion code-fix passage Massively OP links to
+[^ref-33]: [Richard Aronson, Gamasutra blog profile (Wayback, 8 Dec 2019)](https://web.archive.org/web/20191208010547/https://www.gamasutra.com/blogs/RichardAronson/3096/) – "King's Quest V, where I voiced Cedric the Owl"; "author of 'Eric and the Gazebo'"
