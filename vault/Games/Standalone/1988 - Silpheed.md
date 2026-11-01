@@ -7,16 +7,16 @@ publisher: Sierra On-Line
 genre: Shooter
 platforms: [PC-8801, FM-77AV, DOS, Apple IIgs, TRS-80 CoCo, Sega CD, Nintendo Switch]
 series: Standalone
-engine: Custom 3D polygon engine
+engine: Unknown
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-01'
 description: Silpheed is a polygon-based vertical scrolling shooter by Game Arts that debuted on the Japanese NEC PC-8801 in 1986 and was published in North America by Sierra On-Line in 1988-1989.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -24,13 +24,13 @@ Silpheed is a vertical scrolling shooter that debuted on the Japanese NEC PC-880
 
 In Silpheed, the player pilots a spaceship through twenty levels in a pseudo-3D vertically scrolling field, shooting enemies while collecting power-ups and earning new weapons.[^ref-7][^ref-54] Instead of dying from a single hit, the player's ship has a shield; once it is gone, further hits damage individual parts of the ship, a mechanic AllGame described as "the novel concept of sectional damage to shooters."[^ref-8][^ref-16] COMPUTE! called it "classic arcade fun with a little more depth than you find in many action-oriented games."[^ref-10]
 
-Sierra published Silpheed in the United States after Ken Williams and his staff travelled to Tokyo in February 1988 to sign Game Arts, the developer of Thexder, which Sierra had already published.[^ref-11][^ref-57][^ref-59] The game was later bundled with Creative Labs' Game Blaster sound card.[^ref-56][^ref-60]
+Sierra published Silpheed in the United States after Ken Williams and his staff travelled to Tokyo in February 1988 to sign [[Game Arts]], the developer of [[1985 - Thexder|Thexder]], which Sierra had already published.[^ref-11][^ref-57][^ref-59] The game was later bundled with Creative Labs' Game Blaster sound card.[^ref-56][^ref-60]
 
 > [!info]- Game Info
 > **Developer:** Game Arts[^ref-1]
 > **Designer:** Takeshi Miyaji, Masakuni Mitsuhashi, Osamu Harada[^ref-1][^ref-32]
 > **Publisher:** Sierra On-Line (NA), Game Arts (JP)[^ref-1][^ref-63]
-> **Engine:** Custom 3D polygon engine[^ref-1]
+> **Engine:** Unnamed (3D polygonal graphics)[^ref-1][^ref-35]
 > **Platforms:** PC-8801, FM-77AV, MS-DOS, Apple IIgs, TRS-80 CoCo, Sega CD, Nintendo Switch[^ref-1][^ref-63]
 > **Release Year:** 1986 (JP), 1988-1989 (NA)[^ref-63]
 > **Series:** Standalone
@@ -51,7 +51,7 @@ COMPUTE! summed up the premise: "When you take the controls of a Super Air Fight
 
 Silpheed uses a tilted third-person perspective, with enemies and other objects shrinking as they move toward the top of the screen.[^ref-1][^ref-16] The DOS version supports the keyboard and an analog joystick; the second release tweaked the joystick routines to make them more compatible with faster machines.[^ref-8][^ref-60][^ref-61] Players move freely within a trapezoid-shaped area of the screen while firing at incoming enemies, and Hardcore Gaming 101 notes that the oblique view makes judging distances difficult.[^ref-8][^ref-16]
 
-The game includes digitized speech in all versions except the TRS-80 CoCo port: the antagonist introduces himself as a giant disembodied head at the start of the game.[^ref-16] Computer Gaming World found the digitized Shakespeare quotation spoken by this talking face "completely unintelligible" on the DOS version.[^ref-54]
+Hardcore Gaming 101 says the game has digitized speech in all versions except the TRS-80 CoCo port: the antagonist introduces himself as a giant disembodied head at the start of the game, and the DOS version's dialogue "sounded garbled" while the Japanese original was "almost audible."[^ref-16] Computer Gaming World likewise found the digitized Shakespeare quotation spoken by this talking face "completely unintelligible" even with a Roland MT-32.[^ref-54] MobyGames counts differently: it says DOS sound effects always play through the internal speaker and calls version 3.2 "the only DOS version of the game to have support for sampled sound effects and speech" (see Technical Achievements).[^ref-60]
 
 ### Structure and Progression
 
@@ -97,7 +97,7 @@ AllGame reviewer Kyle Knight called the DOS version "a decent enough PC shooter"
 **Aggregate Scores:**
 - **MobyGames:** 7.7/10[^ref-14]
 - **GameFAQs:** 8/10 (single user review)[^ref-21]
-- **IMDB:** 7.7/10 (17 votes, checked October 29, 2026)[^ref-31]
+- **IMDB:** 7.2/10 (14 votes, per a February 23, 2025 Wayback capture; IMDb's live figure may have drifted)[^ref-31]
 
 ## Development
 
@@ -138,7 +138,7 @@ Silpheed was a notable technical achievement for its era. Every enemy craft, as 
 
 The soundtrack was a major part of the game's identity: Sierra promoted it as a complete soundtrack of nine original compositions, and Computer Gaming World credited Bob Siebenberg of Supertramp with bringing "expertise" to the score.[^ref-58][^ref-54] The original PC-88 version targeted the PC-8801mkII SR,[^ref-1] whose Yamaha YM2203 sound chip provided mono output[^ref-4] across six channels (three FM, three SSG).[^ref-53] A MobyGames user review quotes the site's user-written feature "Ten of the Best Games You've Ever Played": "If you're lucky enough to own an MT-32, your starship-blasting experience will be augmented by some of the most catchy music ever to be heard in a PC action game."[^ref-14]
 
-On DOS, music plays through the supported sound hardware, but sound effects always come through the internal PC speaker. The only exception is version 3.2, which added sampled sound effects and speech for the IBM PS/1 Audio Card.[^ref-13][^ref-60]
+On DOS, music plays through the supported sound hardware, but sound effects always come through the internal PC speaker. The only exception is version 3.2, which added support for sampled sound effects and speech on the IBM PS/1 Audio Card; MobyGames calls it the only DOS version with such support, a count that sits alongside the garbled opening speech described by Hardcore Gaming 101 and Computer Gaming World.[^ref-13][^ref-60][^ref-16][^ref-54]
 
 ### Technical Specifications
 
@@ -200,7 +200,7 @@ The contemporary COMPUTE! review warned that "Most people will find Silpheed a t
 - **Barrier Power-Up:** Described as the "Easter Egg" power-up, the Barrier is only available on certain levels and nullifies bullet damage[^ref-7][^ref-27]
 - **Star Fox Similarities:** Hardcore Gaming 101 notes that Nintendo's Star Fox "has some rather uncanny similarities to the 1986 release of Silpheed," and TV Tropes says Star Fox homages its wireframe launch sequence and that Andross resembles Xacalite[^ref-20][^ref-43]
 - **Sound Card Bundle:** Silpheed came free with the Creative CMS Game Blaster sound card[^ref-56][^ref-60]
-- **English Voice Acting:** Despite being made by a Japanese company, the game is voice-acted exclusively in English[^ref-44]
+- **English Voice Acting:** TV Tropes' trivia page claims the Silpheed games, despite being made by a Japanese company, are "voice-acted exclusively in English"; this rests on that one tier-4 source and sits uneasily with the Japanese voice cast credited on the PC-88 original[^ref-44][^ref-25]
 
 ## Voice Cast
 
@@ -244,7 +244,7 @@ Sierra's DOS and Apple IIgs versions have not been re-released; TV Tropes notes 
 
 Silpheed holds an important place in video game history as one of the notable titles to demonstrate 3D graphics on home computers. While the gameplay itself follows familiar shoot-'em-up conventions, its polygonal visuals were remarkable for 1986.[^ref-16][^ref-30] Game Arts later became known for the Lunar and Grandia RPG series.[^ref-12]
 
-Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it says "has some rather uncanny similarities" to the original game.[^ref-43] Its soundtrack remained the most praised element, from Computer Gaming World's 1989 review to modern retrospectives.[^ref-54][^ref-16]
+Hardcore Gaming 101 notes that Nintendo's Star Fox "has some rather uncanny similarities to the 1986 release of Silpheed," while calling it "misleading to imply that Star Fox influenced Silpheed."[^ref-43] Its soundtrack remained the most praised element, from Computer Gaming World's 1989 review to modern retrospectives.[^ref-54][^ref-16]
 
 ## Downloads
 
@@ -260,30 +260,10 @@ Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it sa
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
+- [[1985 - Thexder]]
+- [[1989 - Fire Hawk - Thexder - The Second Contact]]
 - [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[Game Arts]]
 
 ## References
 
@@ -307,7 +287,7 @@ Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it sa
 [^ref-27]: [The Spoiler – Silpheed FAQ](https://web.archive.org/web/20190912035220/http://www.the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
 [^ref-29]: [Amiga Magazine Rack – ACE Review](https://amr.abime.net/review_6922) – ACE issue 24 (September 1989) score 905
 [^ref-30]: [IGN – Silpheed Review (2008)](https://www.ign.com/articles/2008/07/24/silpheed-review) – Travis Fahs's review of the 1993 Sega CD version; comments on the 1986 original
-[^ref-31]: [IMDB – Silpheed (1986 Video Game)](https://www.imdb.com/title/tt0400824/) – Game Arts' original, IMDb's only entry under this title; 7.7/10 from 17 votes (checked October 29, 2026)
+[^ref-31]: [IMDB – Silpheed (1986 Video Game)](https://www.imdb.com/title/tt0400824/) – Game Arts' original, IMDb's only entry under this title; 7.2/10 from 14 votes (Wayback capture of February 23, 2025, via [web.archive.org](https://web.archive.org/web/20250223132858/https://www.imdb.com/title/tt0400824/))
 [^ref-32]: [Game Developer – History of Japanese Computer Games](https://www.gamedeveloper.com/business/history-of-japanese-computer-games) – John Szczepaniak; Game Arts origins, Hiromi Ohba pen name, Major Havoc influence
 [^ref-33]: [PC Gamer – Game Preservation Society Interview](https://www.pcgamer.com/game-preservation-society-japanese-pc-games-square-enix-game-arts/) – Joseph Redon quotes, era context
 [^ref-35]: [Sierra Chest – Silpheed](https://www.sierrachest.com/index.php?a=games&id=45&title=silpheed&fld=box&pid=4) – versions 1.0, 2.3 and 2.4, media formats
