@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-01'
 description: 'No 1998 product titled Sierra Sports Bass Fishing has been found; this page
   largely describes Field & Stream: Trophy Bass 4 (2000), a Dynamix bass fishing simulation
   for Windows published by Sierra.'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, trophy-bass]
 ---
 # Sierra Sports Bass Fishing
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -132,7 +132,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [GOG Dreamlist - Field & Stream: Trophy Bass 4](https://www.gog.com/dreamlist/game/field-stream-trophy-bass-4) - Community Dreamlist entry
 
 **Download / Preservation**
-- [Internet Archive - Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone)
 - [MyAbandonware - Field & Stream Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c)
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)
 
@@ -153,7 +152,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 [^ref-7]: [MobyGames Technical Specs](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/specs/windows/) – Platform information
 [^ref-8]: [Web Archive - CD Magazine](https://web.archive.org/web/20030525154506/http://www.cdmag.com/articles/028/038/tb4.html) – Official feature announcement
 [^ref-9]: [Game Pressure](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – Technical specifications
-[^ref-10]: [Internet Archive - Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – Technical details
+[^ref-10]: Internet Archive – "Field & Stream: Trophy Bass 4 - NO CD Standalone version" (community upload; not linked, as it is a no-CD rip) – Technical details
 [^ref-12]: [MobyGames - Field & Stream Trophy Bass 4](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/) – Game listing and credits (designer, development team)
 [^ref-13]: [Web Archive - Field & Stream Review](https://web.archive.org/web/20030709174113/http://www.cdmag.com/articles/029/177/trophy_bass_review.html) – Review: modes, 640x480 graphics, force feedback, 1-8 players
 [^ref-14]: [MyAbandonware - Field & Stream Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) – Game features

@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: "Field & Stream: Trophy Bass 4 is a bass fishing simulation developed by Dynamix and published by Sierra Sports in May 2000, featuring 25 tournament lakes, more than 30 game fish species and Force Feedback support."
 tags:
   - 2000s
@@ -23,7 +23,7 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -108,7 +108,7 @@ The music is credited to Christopher Stevens (www.fabmusic.com), and the sound e
 
 ## Legacy
 
-Trophy Bass 4 followed Field & Stream: Trophy Bass 3D (1999) in a series that began with the original Trophy Bass in 1995[^ref-2][^ref-11]. The Trophy Bass name returned in 2006 with Bass Pro Shops: Trophy Bass 2007 for Windows and Xbox, developed by Big John Games and published by Vivendi Games[^ref-30]. Gaming historian Jimmy Maher has noted that the original Trophy Bass "sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than it did from computer and gaming stores", and called it Dynamix's most profitable game[^ref-6].
+Trophy Bass 4 followed Field & Stream: Trophy Bass 3D (1999) in a series that began with the original Trophy Bass in 1995[^ref-2][^ref-11]. The Trophy Bass name returned in 2006 with Bass Pro Shops: Trophy Bass 2007 for Windows and Xbox, developed by Big John Games and published by Vivendi Games[^ref-30]. Gaming historian Jimmy Maher has noted that Trophy Bass (he does not say which entry) "sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than it did from computer and gaming stores", and called it Dynamix's most profitable game[^ref-6].
 
 The game is preserved by MyAbandonware[^ref-9], and the Internet Archive holds Sierra's playable demo, which covers part of Lake Marion[^ref-31]. Sierra Chest catalogues the game's packaging and memorabilia[^ref-15].
 
@@ -137,7 +137,7 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-3]: [Amazon – Field & Stream Trophy Bass 4 - PC](https://www.amazon.com/dp/B00001LDC5) – 3.8 out of 5 stars customer rating
 [^ref-4]: [GamePressure – Field & Stream: Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – "more than 30 species of fish"; 7.8 user rating
 [^ref-5]: [IGN – Trophy Bass 4 review](https://www.ign.com/articles/2000/07/21/trophy-bass-4) – Scott Steinberg, 8/10; "thousands of rod, reel, and lure combinations"; mouse-and-keyboard controls
-[^ref-6]: [The Digital Antiquarian – Tex Murphy and the Coming of the DVD (A Shaggy-Dog Story)](https://www.filfre.net/2024/08/tex-murphy-and-the-coming-of-the-dvd-a-shaggy-dog-story/) – Jimmy Maher on the original Trophy Bass as Dynamix's most profitable game
+[^ref-6]: [The Digital Antiquarian – Tex Murphy and the Coming of the DVD (A Shaggy-Dog Story)](https://www.filfre.net/2024/08/tex-murphy-and-the-coming-of-the-dvd-a-shaggy-dog-story/) – Jimmy Maher on Trophy Bass as Dynamix's most profitable game
 [^ref-8]: [GameSpot – Trophy Bass 4 Review](https://www.gamespot.com/reviews/trophy-bass-4-review/1900-2589993/) – Stephen Poole, June 19, 2000, 8.2/10; 22+3 lakes, Force Feedback Pro, WON.net, 640x480, pro tips
 [^ref-9]: [MyAbandonware – Field & Stream: Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) – 4.62/5 from 13 votes; preservation download
 [^ref-11]: [MobyGames – Trophy Bass games](https://www.mobygames.com/group/724/trophy-bass-games/) – Series group
