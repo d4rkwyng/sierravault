@@ -10,13 +10,13 @@ series: Sierra Discovery Series
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-01'
 description: Slater & Charlie Go Camping is a talking interactive storybook for children aged 3 to 8, written and directed by Bill Davis for Sierra On-Line's Red Dog Software label and released for DOS on May 19, 1993, with a Macintosh version in August 1993.
 tags: [1990s, educational, sierra-discovery-series, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -68,7 +68,7 @@ The game has no puzzles. Once a page has played out, the "great big white hand t
 
 ### Modern Assessment
 
-MobyGames records a critic average of 42% based on a single critic rating, and a player average of 3.7 out of 5 from six ratings[^ref-29]. Its one player review, written by Katakis in 2016, enjoyed the sound effects and cartoon graphics but found the graphics "a bit dull" and page navigation tedious[^ref-29]. MyAbandonware users rate the game 4.67 out of 5 from nine votes, and the site's description calls it "a colorful and fun interactive storybook"[^ref-13]. ScummVM's compatibility list rates its support for the DOS and Macintosh versions as "Excellent"[^ref-30].
+MobyGames records a critic average of 42% based on a single critic rating, and a player average of 3.7 out of 5 from six ratings[^ref-29]. Its one player review, written by Katakis in 2016, found the graphics "a bit dull" and page navigation tedious but praised the sound effects[^ref-29]. MyAbandonware users rate the game 4.67 out of 5 from nine votes, and the site's description calls it "a colorful and fun interactive storybook"[^ref-13]. ScummVM's compatibility list rates its support for the DOS and Macintosh versions as "Excellent"[^ref-30].
 
 ## Development
 
@@ -86,7 +86,7 @@ The story is read by Ashley Peldon[^ref-27]. The box introduces her as the "film
 
 ### Technical Achievements
 
-Sierra's box claimed that "using patented technology, Sierra brings CD quality and capabilities to a disk-based product", with music and speech "without any hardware enhancement"[^ref-9]. The box lists minimum requirements of an AT 286 with 640K RAM under MS-DOS 5.0 or Windows 3.1, with EGA or 256-color VGA graphics. A mouse is recommended[^ref-9]. *Computer Gaming World*'s info box gave higher figures: 2MB RAM, VGA, a hard disk, a mouse and a sound device. It listed support for AdLib, Sound Blaster, Pro Audio Spectrum, Disney Sound Source Roland MT-32 and compatible devices[^ref-22]. The game runs under either DOS or Windows[^ref-9][^ref-7].
+Sierra's box claimed that "using patented technology, Sierra brings CD quality and capabilities to a disk-based product", with music and speech "without any hardware enhancement"[^ref-9]. The box lists minimum requirements of an AT 286 with 640K RAM under MS-DOS 5.0 or Windows 3.1, with EGA or 256-color VGA graphics. A mouse is recommended[^ref-9]. *Computer Gaming World*'s info box gave higher figures: 2MB RAM, VGA, a hard disk, a mouse and a sound device. It listed support for AdLib, Sound Blaster, Pro Audio Spectrum, Disney Sound Source, Roland MT-32 and compatible devices[^ref-22]. The game runs under either DOS or Windows[^ref-9][^ref-7].
 
 ### Version History
 
