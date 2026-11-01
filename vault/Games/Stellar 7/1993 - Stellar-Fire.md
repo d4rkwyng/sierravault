@@ -10,19 +10,19 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released by Dynamix for the Sega CD in late 1993. MobyGames credits Infinite Laser Dog as developer.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released for the Sega CD in late 1993; GamePro's February 1994 review listed it as "Available December"[^ref-18][^ref-16]. MobyGames credits Infinite Laser Dog as the developer and Dynamix as the publisher[^ref-2]. Period coverage presented it as a Dynamix production: Sierra's InterAction magazine called it "the first title Dynamix created especially for Sega CD," and both GamePro and Electronic Gaming Monthly credited the game to Dynamix[^ref-17][^ref-18][^ref-19]. The game continues the series' war against the Draxon, putting the player in the experimental Raven hovermorph as the last surviving pilot of an attack squadron[^ref-13][^ref-2].
 
-Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the standard Sega CD hardware, a CD audio soundtrack, and a full-motion video introduction narrated by Star Trek: The Next Generation actor Michael Dorn[^ref-16][^ref-3]. Players cross the surfaces of five Draxon moons collecting Moon Crystals before fighting each moon's Guardian, then assault the Draxon homeworld of Arctura[^ref-13]. Reviews were mixed: magazines of the day praised the sound and the opening cinematic but found the shooting action thin, and later reviewers have been harsher[^ref-18][^ref-19][^ref-3][^ref-10].
+Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the standard Sega CD hardware[^ref-16], a CD audio soundtrack, and a full-motion video introduction narrated by Star Trek: The Next Generation actor Michael Dorn[^ref-3]. Players cross the surfaces of five Draxon moons collecting Moon Crystals before fighting each moon's Guardian, then assault the Draxon homeworld of Arctura[^ref-13]. Reviews were mixed: magazines of the day praised the sound and the opening cinematic but found the shooting action thin, and later reviewers have been harsher[^ref-18][^ref-19][^ref-3][^ref-10].
 
 > [!info]- Game Info
 > **Developer:** Infinite Laser Dog[^ref-2]
@@ -64,7 +64,7 @@ The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On eac
 - **Mok Zoh:** A desert moon, and the last before Arctura
 - **Arctura:** The Draxon home world, with high-tech terrain
 
-Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual and GamePro's review both have the attack begin on Xarz Voor[^ref-13][^ref-18].
+Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual has the attack begin on Xarz Voor[^ref-13].
 
 When the Raven reaches each new moon, a spoken mission briefing introduces the moon's enemies. The player can cycle through enemy profiles and tips or skip the briefing entirely[^ref-1]. The Video Game Critic noted that "the lady's voice" delivers the first mission briefing[^ref-10].
 
@@ -90,12 +90,12 @@ Sierra's own **InterAction** magazine (Holiday 1993, p. 50) ran a promotional fe
 
 A 2002 GameFAQs user review called it "perhaps the coolest Sega CD game I've ever played." It scored graphics 6, sound 9, story 6 and concept 6, with a 7 overall, and wrote of the soundtrack: "if you love base [sic], you'll love this soundtrack"[^ref-9].
 
-Sega-16's 2009 review by Doug Jackson scored it 4 out of 10. It found the gameplay "too vague to make it last long enough" and wrote that "every objective is the same for each stage, and each one feels like a more difficult repeat of the last stage except with new backgrounds"[^ref-3]. The Video Game Critic gave it a grade of F in 2018: "Stellar-Fire does not live up to its name"[^ref-10]. A 2024 review on Blaqthourne's site rated it 4/10 ("I beat it on Easy, and nothing about it made me want to try the higher difficulties") and said that, compared with Nova 9, "it came well short"[^ref-8].
+Sega-16's 2009 review by Doug Jackson scored it 4 out of 10. It found the gameplay "too vague to make it last long enough" and wrote that "every objective is the same for each stage, and each one feels like a more difficult repeat of the last stage except with new backgrounds"[^ref-3]. The Video Game Critic gave it a grade of F in 2018: "Stellar-Fire does not live up to its name"[^ref-10]. A 2024 review on Blaqthourne's site rated it 4/10 ("I beat it on Easy, and nothing about it made me want to try the higher difficulties") and said that after enjoying Nova 9 he "had high hopes for this" but "it came well short of that"[^ref-8].
 
 A 2025 MobyGames user review, titled "Better Than the Reviews Would Have You Think," praised the "early polygon graphics" as "quite impressive back in 1993" and called it a "rockin' soundtrack that deserves more attention"[^ref-5]. A 2016 retail customer review said "the soundtracks on this game make it worth playing in my opinion"[^ref-11].
 
 **Aggregate Scores:**
-- **MobyGames:** 6.0/10 player score; critic average 52% (10 ratings)[^ref-2]
+- **MobyGames:** Moby Score 6.0 (5 votes); players 3.6 out of 5; critic average 52% (10 ratings)[^ref-2]
 - **The Video Game Critic:** F[^ref-10]
 
 ## Development
@@ -116,6 +116,7 @@ InterAction emphasized that the game's 3-D polygon graphics needed no extra chip
 - **Writer:** John Garvin[^ref-6]
 - **Music and Sound:** Ken Rogers, Christopher Stevens. The Dynamix Wiki gives them this role; MobyGames lists both in the team[^ref-1][^ref-21]
 - **Narrator:** Michael Dorn[^ref-21][^ref-6]
+- **Cover illustration:** John Garvin and Peter Lewis (MobyGames)[^ref-21]
 
 ### Technical Achievements
 
@@ -130,7 +131,7 @@ The soundtrack is on CD audio tracks that can be played in a standard CD player[
 - **Audio:** CD Audio tracks[^ref-2]
 - **Input:** Control pad; buttons A, B and C fire cannon, laser and Fat Boy[^ref-13]
 - **Players:** Single-player only[^ref-2][^ref-18]
-- **Launch price:** $49.95[^ref-18]
+- **Price listed by GamePro (Feb 1994):** $49.95[^ref-18]
 
 ### Technical Issues
 
@@ -152,7 +153,7 @@ The game includes a stage-skipping cheat entered on the difficulty selection scr
 |-----------|-------------|
 | Narrator | Michael Dorn[^ref-6][^ref-21] |
 
-Michael Dorn, best known as Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. He is not the voice of the mission briefings; The Video Game Critic notes that the first briefing is given in "the lady's voice"[^ref-10].
+Michael Dorn, best known as Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. The Video Game Critic describes the first mission briefing as "the lady's voice"[^ref-10].
 
 ## Legacy
 
