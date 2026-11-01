@@ -10,21 +10,21 @@ series: Freddy Pharkas
 engine: SCI1.1
 protagonist: Freddy Pharkas
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: '**Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure
-  game created by Al Lowe and Josh Mandel at Sierra On-Line. Released in 1993 for
-  DOS...'
+  game created by Al Lowe and Josh Mandel at Sierra On-Line, released in 1993 for
+  DOS, Windows and Macintosh.'
 tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 ---
 # Freddy Pharkas: Frontier Pharmacist
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
 **Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure game created by Al Lowe and Josh Mandel at Sierra On-Line[^ref-1]. Released in 1993 for DOS, Windows 3.x and Macintosh[^ref-6], the game began when Lowe noticed in 1992 "there wasn't a single Western computer game"[^ref-25]; Compute! described the comedy Western as "a hitherto untapped niche in the adventure market"[^ref-37]. The game follows the adventures of a former gunslinger turned pharmacist in the frontier town of Coarsegold, California[^ref-3].
 
-Computer Gaming World's Charles Ardai called it "the 'Blazing Saddles' of computer games," a Wild West spoof that pinches "tropes from every great Western"[^ref-35]. Lowe said that movie "was my inspiration"[^ref-25]. The game was built using Sierra's SCI1.1 engine and appeared both as a text-based floppy version and as a later CD-ROM release with full voice acting[^ref-4][^ref-5].
+Computer Gaming World's Charles Ardai called it "the 'Blazing Saddles' of computer games," a Wild West spoof that pinches "tropes from every great Western"[^ref-35]. Lowe said that movie "was my inspiration"[^ref-25]. The game was built using Sierra's SCI1.1 engine and appeared first on floppy disk in 1993 and later in a CD-ROM release with full voice acting[^ref-4][^ref-5].
 
 One retrospective called Freddy Pharkas "a breath of fresh air, far enough away from knights, space janitors, and middle-aged losers in leisure suits, to be its very own"[^ref-27]. Al Lowe himself stated: "I think it may well be my funniest game, due in great part to the wit of Josh Mandel"[^ref-25]. Ardai counted it among the rare games that "can make a jaded player laugh out loud frequently"[^ref-35].
 
@@ -43,7 +43,7 @@ One retrospective called Freddy Pharkas "a breath of fresh air, far enough away 
 
 The game opens with a musical ballad that establishes Freddy's backstory: "He was born in old St Louie, By the age of four Dad knew he was the Best little crackshot the West had ever seen"[^ref-23]. Freddy Pharkas was once "one of the fastest guns in the American West of the 1880's" until a gunfight with an outlaw named Kenny left him with an ear shot off[^ref-6][^ref-35]. Disillusioned with gunfighting, Freddy abandoned his gunslinging career and moved to the frontier town of Coarsegold, California, where he established himself as the local pharmacist[^ref-9].
 
-The game begins as Coarsegold "is mysteriously turning into a ghost town," and the former gunslinger must use both his pharmaceutical knowledge and his old skills with a gun to save it[^ref-35]. Throughout the town, businesses are either being bought or proprietors are being scared out of town. Someone is obviously trying to take over the entire area, but who? And why?[^ref-4]
+The game begins as Coarsegold "is mysteriously turning into a ghost town," and the former gunslinger must use both his pharmaceutical knowledge and his old skills with a gun to save it[^ref-35]. As businesses around town are bought up or their owners frightened away, it becomes clear that someone is trying to take over the whole area, and Freddy must find out who is behind it and why[^ref-4].
 
 Throughout the adventure, Freddy must deal with a series of escalating problems including flatulent horses, a snail stampede, a poisoned water supply, an arsonist and rowdy cowhands shooting up the town[^ref-11][^ref-35]. The game's four acts—"Living the Coarsegold Dream," "The Plot Sickens," "Guns and Neuroses," and "Showdown at the Hallelujah Corral"[^ref-28]—each contain "plenty of puzzles and goings-on"[^ref-35], combining Western adventure elements with pharmaceutical puzzle-solving[^ref-28].
 
@@ -83,7 +83,7 @@ Sierra's own preview had pitched it a year earlier as "Imagine Blazing Saddles m
 
 ### Modern Assessment
 
-Modern retrospective reviews have been generally positive, with the game holding a 4.3/5 average from GOG user reviews[^ref-18]. GameFAQs reviewer MTLH awarded the game 9/10, noting "Who knew being a pharmacist could be this much fun?"[^ref-9]. Adventure Gamers ranked it #78 in its "Top 100 All-Time Adventure Games" in 2011[^ref-41], and Computer Gaming World's November 1996 fifteenth-anniversary issue placed it #13 in "The 15 Funniest Computer Games," saying "Al Lowe showed his brand of humor could tame the wild west"[^ref-36].
+Modern retrospective reviews have been generally positive, with the game holding a 4.3/5 average from GOG user ratings[^ref-18]. GameFAQs reviewer MTLH awarded the game 9/10, noting "Who knew being a pharmacist could be this much fun?"[^ref-9]. Adventure Gamers ranked it #78 in its "Top 100 All-Time Adventure Games" in 2011[^ref-41], and Computer Gaming World's November 1996 fifteenth-anniversary issue placed it #13 in "The 15 Funniest Computer Games," saying "Al Lowe showed his brand of humor could tame the wild west"[^ref-36].
 
 GOG user reviews have been particularly enthusiastic, with one noting: "Sierra pumped out so many great games in the 90s that many people were overwhelmed. Due to the sheer number of great titles they put out the focus tended to stay on their larger series and some of the smaller one-off titles did not get the attention they deserved"[^ref-18]. Another compared the Lowe-Mandel collaboration to "what Gaiman and Pratchett did in 'Good Omens', but in a game"[^ref-18].
 
@@ -128,13 +128,13 @@ The game was built using Sierra's Creative Interpreter (SCI 1.1) engine[^ref-5].
 
 Lowe said the floppy game was written "very carefully so we could go back and add the voices if it was successful, and if CD drives ever became common on computers"[^ref-33].
 
-Foreign language versions contain intact debug modes that were removed from English releases[^ref-34], providing insights into the development process for preservationists. The game also contains unused graphics from Laura Bow in the Dagger of Amon Ra[^ref-34], suggesting shared development resources.
+Foreign language versions contain intact debug modes that were removed from English releases[^ref-34], providing insights into the development process for preservationists. The game also contains unused graphics from Laura Bow in the Dagger of Amon Ra[^ref-34].
 
 ## Legacy
 
 Despite positive reviews, the game's sales pattern was unusual. Al Lowe noted: "Freddy was a funny game; it was perceived as being not too successful, and yet it ended up selling over 500,000 copies"[^ref-33]. Lowe said that "about a year--maybe more--after it was released, its sales were over 150,000," prompting the CD version, which "sold well for two years"[^ref-33]. Lowe explained: "Part of it was that it took it a long time to catch on. Word of mouth spread"[^ref-33].
 
-Al Lowe confirmed that "there will be no sequel to Freddy Pharkas"[^ref-24], later elaborating: "it turned out to be quite a successful game and probably should've had a sequel, but because it took three years to get those big numbers, Josh had moved on by then and other things had happened, so it fell through the cracks"[^ref-33]. The game is sold on GOG, where it runs in DOSBox[^ref-18]; PCGamingWiki notes the Windows 3.x version might be playable on 64-bit systems through ScummVM[^ref-5].
+Al Lowe confirmed that "there will be no sequel to Freddy Pharkas"[^ref-24], elaborating: "it turned out to be quite a successful game and probably should've had a sequel, but because it took three years to get those big numbers, Josh had moved on by then and other things had happened, so it fell through the cracks"[^ref-33]. The game is sold on GOG, where it runs in DOSBox[^ref-18]; PCGamingWiki notes the Windows 3.x version might be playable on 64-bit systems through ScummVM[^ref-5].
 
 Lowe described the potential: "Freddy would be so easy to sequelize. But we never planned a sequel for Freddy because it was part of a great idea that was never taken to fruition"[^ref-32]. Hardcore Gaming 101 summed up its tone: "it's much more Blazing Saddles than The Magnificent Seven"[^ref-26].
 
@@ -163,30 +163,10 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
+- [[Al Lowe]]
+- [[Josh Mandel]]
+- [[Leisure Suit Larry Series]]
 - [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
 
 ## References
 
@@ -200,7 +180,7 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 [^ref-13]: [Sierra Music Central – Freddy Pharkas soundtrack CD](http://www.sierramusiccentral.com/fpfpcd.html) – 2008 fan CD of the SC-55 General MIDI score; "remastered by Aubrey Hodges in his EA studio"
 [^ref-14]: [Freddy Pharkas Website](https://www.freddypharkas.com/walkthrough.html) – Point system information
 [^ref-15]: [UHS Hints](https://www.uhs-hints.com/uhsweb/fpfp.php) – Game structure
-[^ref-18]: [GOG](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) – User review average
+[^ref-18]: [GOG](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) – User rating average (4.3 over 128 ratings); price; DOSBox
 [^ref-19]: [Larry Laffer Net](http://larrylaffer.net/non-lsl-games/al-lowe-games/freddy-pharkas) – Al Lowe quote about game concept origin
 [^ref-21]: [Al Lowe Website – Music from Freddy Pharkas](https://allowe.com/games/fpfp/music-freddy.html) – Lowe wrote the Ballad music; "All the rest of the rather extensive musical score was written by Aubrey Hodges"
 [^ref-22]: [Behind the Voice Actors](https://www.behindthevoiceactors.com/video-games/freddy-pharkas-frontier-pharmacist/) – Voice cast information
