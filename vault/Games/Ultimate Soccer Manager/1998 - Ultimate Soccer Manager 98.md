@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Ultimate Soccer Manager 98 is a 1998 football management game for Windows
   95, developed by Impressions and published by Sierra, covering six European national
   leagues in the 1997-98 season.
@@ -18,11 +18,11 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 98
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Ultimate Soccer Manager 98 (USM 98) is a football management game for Windows 95, developed by Impressions and published by Sierra in 1998[^ref-61][^ref-55]. It was the third game in the series, and the first to run the national leagues of six countries at once: England, Scotland, Italy, Germany, France and Spain[^ref-51][^ref-50][^ref-56]. The player can take charge as a coach, who handles only the team, or as a manager, who also runs the club's finances and stadium[^ref-50][^ref-55]. The series' optional "darker side" remained, with betting on matches and "bungs"[^ref-51][^ref-55].
+Ultimate Soccer Manager 98 (USM 98) is a football management game for Windows 95, developed by Impressions and published by Sierra in 1998[^ref-61][^ref-55]. It was the third game in the series, and the first in the series to run the national leagues of six countries in one executable: England, Scotland, Italy, Germany, France and Spain[^ref-61][^ref-56][^ref-59][^ref-50]. The player can take charge as a coach, who handles only the team, or as a manager, who also runs the club's finances and stadium[^ref-50][^ref-55]. The series' optional "darker side" remained, with betting on matches and "bungs"[^ref-51][^ref-55].
 
 UK reviews were split. Ultimate PC gave it 88 out of 100 and called it "level on points with Championship Manager 2", while PC Zone gave it 60% and concluded "CM2 good, other bad"[^ref-59][^ref-56]. Across 12 reviews, MobyGames' critic average is 70%[^ref-63]. PC Gamer's UK top 20 for August 1998 showed it at number nine, down from number one the month before[^ref-60].
 
@@ -44,7 +44,7 @@ UK reviews were split. Ultimate PC gave it 88 out of 100 and called it "level on
 
 ### Interface and Controls
 
-USM 98 keeps the series' presentation, in which each part of the club is a room and options are reached by clicking objects in it[^ref-61][^ref-50]. The official site said the rooms had "all-new, lovely pictures" and that the player was never "more than 2 or 3 mouse-clicks away" from any task[^ref-50]. The television in the office brings up "Sierratext", the game's teletext service with results and statistics[^ref-55][^ref-59]. PC Zone noted that drop-down menus were much quicker than the rooms, "Which makes you wonder why they bothered"[^ref-56]. The game runs at 640×480 and is controlled with the mouse[^ref-64][^ref-53].
+USM 98 keeps the series' presentation, in which each part of the club is a room and options are reached by clicking objects in it[^ref-61][^ref-50]. The official site said the rooms had "all-new, lovely pictures" and that the player was never "more than 2 or 3 mouse-clicks away" from any task[^ref-50]. The television in the office brings up "Sierratext", the game's teletext service with results and statistics[^ref-55][^ref-61]. PC Zone noted that drop-down menus were much quicker than the rooms, "Which makes you wonder why they bothered"[^ref-56]. The game runs at 640×480 and is controlled with the mouse[^ref-64][^ref-53].
 
 ### Structure and Progression
 
@@ -52,7 +52,7 @@ At the start the player chooses to play as manager or coach. A coach deals with 
 
 All six leagues run every week, so the player can follow results in every division, apply for jobs abroad and buy players from any of them[^ref-50]. PC Review counted "half a dozen different countries" to choose from[^ref-58]. The game covers the 1997–98 season. The Cutting Room Floor describes version 1.0 as "the original 97/98 version"[^ref-9][^ref-12]. The chairman sets a target for the season and for each match, and reports how happy he is with the manager[^ref-50].
 
-Players now have positions defined by their skills, and a favoured side. Intensive training can retrain a player for a new position[^ref-61]. An in-game editor can change almost every statistic, except a player's hidden potential[^ref-61]. Ultimate PC explained that the statistics "can be taken at face value", unlike those in Championship Manager 2[^ref-59].
+Players now have positions defined by their skills, and a favoured side. Intensive training can retrain a player for a new position[^ref-61]. An in-game editor can change almost every statistic, except a player's potential[^ref-61]. Ultimate PC explained that the statistics "can be taken at face value", unlike those in Championship Manager 2[^ref-59].
 
 ### Transfers, Tactics and Matches
 
@@ -73,10 +73,10 @@ The game's description on the official site admitted to "the darker side of foot
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Privat Computer PC (Denmark) | 90% | Via MobyGames[^ref-63] |
-| Ultimate PC #9 (May 1998) | 88/100 | "Hot Property" award; reviewed by Jon[^ref-59] |
-| Games Master (June 1998) | 88% | Via MobyGames[^ref-63] |
+| Ultimate PC #9 (May 1998) | 88/100 | "Hot Property" award[^ref-59] |
+| Games Master (June 1998) | 88% | Per MobyGames, not re-verified (site walled, November 2026)[^ref-63] |
 | PC Jeux (July 1998) | 88% | As *Football Manager 98*; via MobyGames[^ref-63] |
-| Génération 4 #112 (July 1998) | 5/6 | As *Football Manager 98*; via MobyGames[^ref-63] |
+| Génération 4 #112 (July 1998) | 5/6 | As *Football Manager 98*; per MobyGames, not re-verified (site walled, November 2026)[^ref-63] |
 | PC Review #83 (July 1998) | 8/10 | Reviewed by Graham Southorn[^ref-58] |
 | Computer and Video Games #199 (June 1998) | 4/5 | Reviewed by Ed Lomas[^ref-55] |
 | PC Player (Denmark) | 8/10 | Via MobyGames[^ref-63] |
@@ -84,7 +84,7 @@ The game's description on the official site admitted to "the darker side of foot
 | PC Games (Germany, July 1998) | 64% | Via MobyGames[^ref-63] |
 | PC Joker (July 1998) | 63% | As *DSF Manager '98*; via MobyGames[^ref-63] |
 | PC Zone #64 (June 1998) | 60% | Reviewed by Patrick McCarthy[^ref-56] |
-| Game Express (Austria, June 1998) | 52% | Via MobyGames[^ref-63] |
+| Game Express (Austria, June 1998) | 52% | Per MobyGames, not re-verified (site walled, November 2026)[^ref-63] |
 | GameStar (Germany, July 1998) | 48% | Via MobyGames[^ref-63] |
 | PC Player (Germany, July 1998) | 40% | Via MobyGames[^ref-63] |
 
@@ -134,12 +134,12 @@ The official requirements were Windows 95, a Pentium 75 (Pentium 120 recommended
 | 1.0 | 1998 | Original release with 1997–98 season data[^ref-9] |
 | 1.0.1 patch | — | Changes undocumented[^ref-9] |
 | 1.0.1.1 patch | — | Said to fix a crash in the eighth season, plus some video-card and processor bugs[^ref-9][^ref-12] |
-| *DSF Fussball Manager '98* | 1998 | German title[^ref-61][^ref-63] |
-| *Football Manager 98* | 1998 | French title[^ref-61][^ref-63] |
+| *DSF Fussball Manager '98* | — | German title[^ref-61][^ref-63] |
+| *Football Manager 98* | — | French title[^ref-61][^ref-63] |
 
 Version 2.00 became [[1999 - Ultimate Soccer Manager 98-99]][^ref-9]. The Cutting Room Floor also documents unused sound files for the underground garage screen. Their `.old` extension disables them[^ref-9].
 
-**League count:** Wikipedia says USM 98 had five leagues[^ref-4]. The official site and contemporary reviews all list six, including Spain[^ref-50][^ref-56][^ref-58][^ref-59][^ref-45].
+**League count:** Wikipedia says USM 98 had five leagues[^ref-4], and Fuller FM lists five European leagues (England, France, Germany, Italy and Scotland), adding that the update disk also allows managing in the Netherlands or Spain[^ref-12]. The Cutting Room Floor says v2.00 added the Spanish and Dutch top two divisions[^ref-9]. The official site and contemporary reviews all list six, including Spain[^ref-50][^ref-56][^ref-58][^ref-59][^ref-45], so the sources conflict on whether Spain shipped with the original release.
 
 ## Legacy
 
@@ -147,7 +147,7 @@ Series: USM 98 followed [[1995 - Ultimate Soccer Manager]] and [[1996 - Ultimate
 
 ## Downloads
 
-The game is not sold on Steam or GOG.
+The game is not sold on Steam or GOG (checked 2026-11-01).
 
 **Download / Preservation**
 - [MyAbandonware – Ultimate Soccer Manager 98](https://www.myabandonware.com/game/ultimate-soccer-manager-98-yo0)[^ref-65]
