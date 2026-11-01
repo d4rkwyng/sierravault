@@ -10,19 +10,20 @@ series: Police Quest / SWAT
 engine: Proprietary (Windows)
 protagonist: SWAT Commander / Dante (Terrorist Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: 'Police Quest: SWAT 2 is a real-time tactics game released on July 11,
-  1998, developed by Yosemite Entertainment and published by Sierra FX. Representing
-  a...'
+last_updated: '2026-11-01'
+description: 'Police Quest: SWAT 2 is a real-time tactics game from 1998, developed
+  by Yosemite Entertainment and published by Sierra FX. Where its predecessor was
+  an interactive movie, it puts players in command of an LAPD SWAT team or a domestic
+  terrorist group.'
 tags: [1990s, police-quest-swat, sierra]
 ---
 # Police Quest: SWAT 2
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Police Quest: SWAT 2 is a real-time tactics game released on July 11, 1998, developed by Yosemite Entertainment and published by Sierra FX.[^ref-1][^ref-19] Representing a dramatic departure from its predecessor's full-motion video interactive movie format, the game adopted an isometric view with squad-level tactical gameplay, allowing players to command individual combatants during typical SWAT crisis situations.[^ref-2] The game was the sixth installment in the Police Quest series and the second entry in the SWAT subseries, though it would be the last title to carry the Police Quest name before the series continued simply as SWAT.[^ref-1][^ref-3]
+Police Quest: SWAT 2 is a real-time tactics game developed by Yosemite Entertainment and published by Sierra FX, scheduled by Sierra for a July 11, 1998 US release (Steam lists June 30, 1998).[^ref-1][^ref-19][^ref-24] Representing a dramatic departure from its predecessor's full-motion video interactive movie format, the game adopted an isometric view with squad-level tactical gameplay, allowing players to command individual combatants during typical SWAT crisis situations.[^ref-2] The game was the sixth installment in the Police Quest series and the second entry in the SWAT subseries, though it would be the last title to carry the Police Quest name before the series continued simply as SWAT.[^ref-1][^ref-3]
 
 The game distinguished itself by offering dual campaigns—players could take command of an LAPD SWAT team or, unusually for the genre, lead a left-wing domestic terrorist organization called Five Eyes.[^ref-1] Sierra's own 1996 preview billed this as a "major first," letting players "delve deep into the criminal mind,"[^ref-30] and one GOG.com user review later called SWAT 2 "the only game I'm aware of with a full terrorist campaign."[^ref-4] The title blended strategic planning with real-time action, letting players build teams from a pool of 100 SWAT officers or 100 terrorists.[^ref-5]
 
@@ -59,12 +60,7 @@ The command system allows players to select individual units or groups and assig
 
 ### Structure and Progression
 
-The game features 30 scenarios total, divided equally between the SWAT and terrorist campaigns with 15 missions each.[^ref-11] The SWAT campaign opens with two training missions followed by 13 real assignments involving family disputes, riots, botched bank robberies, terrorist bombings and political assassinations:[^ref-12]
-
-- **Training Missions:** Introduction to basic commands, movement, and engagement rules
-- **Standard Callups:** Hostage situations, armed suspects, domestic disputes
-- **Major Incidents:** Bank robberies, riots, coordinated terrorist attacks
-- **Final Operations:** Large-scale confrontations with primary antagonists
+The game features 30 scenarios total, divided equally between the SWAT and terrorist campaigns with 15 missions each.[^ref-11] The SWAT campaign opens with two training missions followed by 13 real assignments involving family disputes, riots, botched bank robberies, terrorist bombings and political assassinations.[^ref-12]
 
 Missions are relatively brief, with average scenarios taking 1-5 minutes, some extending to 8-9 minutes, and the entire game completable in under 3 hours.[^ref-11] A CheatCC strategy guide explains that it cannot give full mission walkthroughs because "no mission is alike and A.I changes in each mission, sometimes you may be able to resolve the mission peacefully whereas sometimes there may be a huge firefight with significant casualties."[^ref-8]
 
@@ -86,13 +82,13 @@ Police Quest: SWAT 2 received mixed reviews upon release, with critics praising 
 
 GameSpot awarded the game 5.7/10, with reviewer Scott Krol stating that "SWAT 2 could have been filled with nail-biting intensity and adrenaline-pumping action; instead, it's composed of a frustrating command system and messy gameplay."[^ref-11] He concluded that "the designers of SWAT 2 really missed the boat by choosing to use real time. As a turn-based game it could have been a winner."[^ref-11]
 
-IGN's Jason Bates gave the game 7/10, offering a more balanced assessment: "At first glance, SWAT 2 looks like a pretty bad game. The graphics are dated, the characters on screen are miniscule and indistinct, and the control is clunky and poorly explained. [...] But if you take the time to learn the interface, look past the dated graphics and get into the design of the game itself, you'll be pleasantly surprised by what you find. SWAT 2 is a good little strategy game."[^ref-10]
+IGN's Jason Bates gave the game 7/10[^ref-1], offering a more balanced assessment: "At first glance, SWAT 2 looks like a pretty bad game. The graphics are dated, the characters on screen are miniscule and indistinct, and the control is clunky and poorly explained. [...] But if you take the time to learn the interface, look past the dated graphics and get into the design of the game itself, you'll be pleasantly surprised by what you find. SWAT 2 is a good little strategy game."[^ref-10]
 
 Computer Gaming World's Dennis McCauley gave it 3.5 out of 5 stars in the November 1998 issue under the headline "Despite Flaws, SWAT 2 Is the Best Police Game in Years." He praised its "authentic police tactical flavor" but criticized veteran officers who "act like raw recruits," concluding: "Although its flaws are significant, SWAT 2 is the best law-enforcement sim yet."[^ref-32]
 
 PC Gamer US was notably harsh, with Stephen Poole scoring the game at 52% in the November 1998 issue. He wrote that "SWAT 2's real-life setting and emphasis on saving lives is undeniably a breath of fresh air" but that "numerous flaws ultimately keep it from being the compelling experience gamers were hoping for."[^ref-12] He concluded: "With the excellent Rainbow Six now available, though, SWAT 2 is relegated to a second-place finish -- and not even a close one at that."[^ref-12]
 
-Computer Games Strategy Plus's Ryan Brush (September 4, 1998) rated it 2.5 stars, writing that "SWAT 2 has some nifty features but they are offset by an ill-fitting real-time implementation."[^ref-33]
+Computer Games Strategy Plus's Ryan Brush (September 4, 1998) rated it 2.5 stars[^ref-1], writing that "SWAT 2 has some nifty features but they are offset by an ill-fitting real-time implementation."[^ref-33]
 
 GameRevolution provided one of the most positive reviews, with Nebojsa Radakovic praising the atmosphere: "Yosemite Entertainment did a great job creating the proper feel and atmosphere for this game... I cannot rave about this game enough!"[^ref-15] The publication awarded an A- grade.[^ref-1]
 
@@ -121,7 +117,7 @@ Giant Bomb's wiki notes that "the game was overall better received than Police Q
 
 The previous game, Police Quest: SWAT (1995), had been a full-motion video interactive movie that sold close to one million units.[^ref-13] Sierra's InterAction magazine previewed the sequel in its Fall 1996 issue, pictured Gates with "SWAT Co-designer Susan Frischer," and promised 30 missions "taken from actual LAPD SWAT call-ups," AI "personalities" that differ every time, a game-speed slider and support for user-created scenarios.[^ref-30] Sierra then unveiled SWAT 2 as a real-time strategy game at E3 the following year, but it took more than a year to reach stores.[^ref-32]
 
-The game was developed by Yosemite Entertainment, Sierra's studio in Oakhurst, California.[^ref-19] Its squad-level isometric design is often described as being "in the mold of the classic X-Com or Jagged Alliance games."[^ref-14]
+The game was developed by Yosemite Entertainment, Sierra's studio in Oakhurst, California.[^ref-19] Its squad-level isometric design is described on the Police Quest Fandom wiki as being "in the mold of the classic X-Com or Jagged Alliance games."[^ref-14]
 
 ### Production
 
@@ -129,7 +125,7 @@ Susan Frischer was the game's lead designer and is also credited with its story,
 
 Former LAPD Chief Daryl F. Gates is credited as content consultant.[^ref-21] Sierra's 1996 preview promised "on-line hints from former LA Chief Daryl Gates himself," and MobyGames notes that, as in Police Quest: Open Season, Gates shows up from time to time to give in-game hints.[^ref-30][^ref-35] His association with the series had drawn criticism since Open Season's release in 1993, when the president of the Los Angeles Urban League said Gates "embodies all that is bad in law enforcement—the problems of the macho, racist, brutal police experience that we're working hard to put behind us."[^ref-20]
 
-The game went gold on July 4, 1998, and shipped July 11, 1998, becoming the first title released under Sierra's new FX brand.[^ref-19] The demo logged more than 150,000 downloads in its first three weeks.[^ref-19]
+The game went gold on July 4, 1998, with Sierra's news page announcing a nationwide US release for July 11, making it the first title to ship under Sierra's new FX brand.[^ref-19] The demo logged more than 150,000 downloads in its first three weeks.[^ref-19]
 
 Before release, Sierra's InterAction magazine had a group of police officers play the game—six members of the Fresno SWAT unit and one from LA SWAT. "This game makes you think, right down to the tactics that you're going to use in positioning your men," said Officer Richard Massa. "It's not a shoot-'em-up business, it's a life-saving business."[^ref-31]
 
@@ -141,12 +137,33 @@ Before release, Sierra's InterAction magazine had a group of police officers pla
 - **Executive Producer:** Craig Alexander
 - **Producer:** Oliver Brelsford
 - **Composer:** Jason Hayes
-- **Title Song ("Just Another Day in L.A."):** music by Chance Thomas; lyrics by Susan Frischer and Chance Thomas; performed by Randy Porter
+- **Title Song ("Just Another Day in L.A."):** music by Chance Thomas; lyrics by Susan Frischer and Chance Thomas; performed by Randall Porter (credited on MobyGames as Randy Porter)
 - **Police Thanks:** LAPD SWAT, Fresno PD SWAT
 - **Voice Direction:** Susan Frischer
 - **Officer Photographs:** Modeled by LAPD personnel
 
 The development team was substantial, with MobyGames crediting 545 people (510 professional roles, 35 thanks).[^ref-21]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Chief De Souza | Ron Simons |
+| Sgt. Markossian | Michael Shapiro |
+| Dante | Scott Burns |
+| Basho | Henry Dardenne |
+| Mayor Preston | Sean G. Griffin |
+| Sgt. Alvarez | Ernie Pino |
+| Chopper Pilot | Stephan Weyte |
+| Tank Driver | Ken Boynton |
+| Dispatch | Lauren Tewes |
+| Chadwick | David Scully |
+| Tammany | John Patrick Lowrie |
+| Various Officers | Chuck McQuary, Eric Mills, Robert Nadir, Chris Wicklund, Bob Wright, Rob Granlund |
+| Child Hostage | Billy O'Sullivan |
+| Terrorist | Arnie Stenseth |
+
+*Source: IMDb and MobyGames credits; voice direction by Susan Frischer*[^ref-7][^ref-21]
 
 ### Technical Achievements
 
@@ -194,7 +211,7 @@ TV Tropes notes that some unused voice lines of the chief giving a debriefing co
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | July 11, 1998 | Windows | Initial North American release[^ref-1][^ref-19] |
+| 1.0 | July 11, 1998 (scheduled) | Windows | Initial North American release[^ref-1][^ref-19] |
 | PAL | 1998 | Windows | European release[^ref-1] |
 | Japan | March 26, 1999 | Windows | CyberFront release[^ref-17] |
 | XP Compatible | 2004 | Windows | Updated for Windows XP[^ref-23] |
@@ -238,27 +255,6 @@ Individual Amazon customer reviews also report no sound under Windows 7 and cut-
 - **Vocalist's Day Job:** Lead vocalist Randall Porter worked as a Probation Officer for the State of Utah.[^ref-19]
 - **Budget Exploit:** Non-assigned officers carry fancy pistols that can be sold for $600 each, allowing players to raise their budget by nearly $50,000.[^ref-12]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Chief De Souza | Ron Simons |
-| Sgt. Markossian | Michael Shapiro |
-| Dante | Scott Burns |
-| Basho | Henry Dardenne |
-| Mayor Preston | Sean G. Griffin |
-| Sgt. Alvarez | Ernie Pino |
-| Chopper Pilot | Stephan Weyte |
-| Tank Driver | Ken Boynton |
-| Dispatch | Lauren Tewes |
-| Chadwick | David Scully |
-| Tammany | John Patrick Lowrie |
-| Various Officers | Chuck McQuary, Eric Mills, Robert Nadir, Chris Wicklund, Bob Wright, Rob Granlund |
-| Child Hostage | Billy O'Sullivan |
-| Terrorist | Arnie Stenseth |
-
-*Source: IMDb and MobyGames credits; voice direction by Susan Frischer*[^ref-7][^ref-21]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -272,7 +268,7 @@ By late 1999, the game had surpassed 400,000 copies sold.[^ref-1][^ref-13] In a 
 The game has been bundled in several compilation releases:
 - **Police Quest: SWAT 1+2** – Digital bundle on GOG.com[^ref-4]
 - **SWAT Career Pack** – Compilation release[^ref-18]
-- **Police Quest: SWAT Generation** – 2004 Sierra Entertainment compilation[^ref-25]
+- **Police Quest: SWAT Generation** – Sierra Entertainment compilation; GameFAQs dates it 2004,[^ref-25] while MobyGames lists 2003[^ref-9]
 
 ### Fan Projects
 
@@ -301,7 +297,7 @@ The game's transition from the Police Quest adventure format to real-time tactic
 - [Steam](https://store.steampowered.com/app/607120/Police_Quest_SWAT_2/)
 
 **Manuals & Extras**
-- [Sierra Chest – Music Files](https://sierrachest.com/index.php?a=games&id=70&fld=music)
+- [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=70&fld=music)
 
 ## See Also
 
