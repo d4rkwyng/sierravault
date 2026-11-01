@@ -10,14 +10,14 @@ series: Thexder
 engine: null
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-01'
 description: Thexder Neo is Zereo's 2009 remake of Game Arts' 1985 transforming-robot shooter Thexder, published by Square Enix as a PlayStation Network download for PSP (2009) and PS3 (2010). Sierra had no part in it.
 composer: [Kazumi Mitome]
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Square Enix advertised "six-player online races"[^ref-30]. PlayStation UK's game
 |-------------|-------|-------|
 | Destructoid (PSP) | 3.0/10 | James Stephanie Sterling, 26 October 2009: "a below mediocre shooter that shouldn't have been brought back if the developers had no intention of improving it"[^ref-8] |
 | GamesRadar+ (PSP) | 50/100 | Nathan Meunier, 29 October 2009: "the repetitive gameplay and limited scope show this old mech could use a tad more oil"[^ref-36][^ref-17] |
-| Gaming Age (PSP) | 33/100 | Faulted the gameplay restrictions and swarming enemies, but noted that fans of difficult 1980s classics might enjoy it, "and hey, it's only $10"[^ref-17] |
+| Gaming Age (PSP) | 33/100 | Faulted the gameplay restrictions and swarming enemies, but noted that players "into 80s classics that are difficult for the sake of being difficult" might enjoy it, "and hey, it's only $10"[^ref-17] |
 | Altered Gamer (PS3) | 2/5 | Finn Orfano: "a hot mess of annoying controls and insufferable difficulty"[^ref-20] |
 
 Metacritic lists three critic reviews, all for the PSP version. That is too few for a Metascore[^ref-17]. GamesRadar+ listed giant robots, updated visuals and a lower difficulty option as positives, and repetitive play, lacklustre level design and thin content as negatives[^ref-36].
@@ -103,7 +103,7 @@ Later players were somewhat kinder. A 2013 GameSpot user review scored the PS3 v
 
 ### Origins
 
-The first public sign of the game came in August 2009, when GIGAZINE reported that Square Enix had submitted "THEXDER NEO" to the ESRB for rating. The site placed it in a trend of publishers "reviving ancient masterpieces", alongside new versions of Spelunker and Wizardry[^ref-26]. Wikipedia describes Thexder Neo as "a complete rework of the original PC game from 1985"[^ref-7].
+In August 2009 GIGAZINE reported that Square Enix had submitted "THEXDER NEO" to the ESRB for rating. The site placed it in a trend of publishers "reviving ancient masterpieces", alongside new versions of Spelunker and Wizardry[^ref-26]. Wikipedia describes Thexder Neo as "a complete rework of the original PC game from 1985"[^ref-7].
 
 ### Production
 
@@ -128,7 +128,7 @@ Sierra had no role in Thexder Neo. Its link to the series is the original game. 
 
 ## Legacy
 
-Critics treated Thexder Neo as a faithful but unimproved revival[^ref-8][^ref-36], and its online mode was empty within a few years[^ref-16]. Its later audience came mostly from PlayStation trophy hunters. The PS3 version has 20 trophies, and the Thexder Classic trophy requires clearing all 16 levels of the 1985 game[^ref-16][^ref-13].
+Destructoid judged it a faithful but unimproved revival, while GamesRadar+ credited its updated visuals and lower difficulty option[^ref-8][^ref-36], and its online mode was empty within a few years[^ref-16]. Its later audience came mostly from PlayStation trophy hunters. The PS3 version has 20 trophies, and the Thexder Classic trophy requires clearing all 16 levels of the 1985 game[^ref-16][^ref-13].
 
 ## Technical Specifications
 
@@ -164,7 +164,7 @@ Critics treated Thexder Neo as a faithful but unimproved revival[^ref-8][^ref-36
 [^ref-11]: [GameFAQs – Thexder NEO (PSP)](https://gamefaqs.gamespot.com/psp/974848-thexder-neo) – Plot description; user rating "Good" (21 ratings)
 [^ref-12]: [GameSpot – Thexder NEO cheats (Wayback, May 2022)](https://web.archive.org/web/20220522004411/https://www.gamespot.com/games/thexder-neo/cheats/) – Mech and cruiser modes; destroy the ultramagnetic field generator
 [^ref-13]: [Cheat Code Central – Thexder NEO trophies (PS3) (Wayback Machine, October 2011)](https://web.archive.org/web/20111029043635/http://www.cheatcc.com/ps3/thexderneocheatscodes.html) – Trophy list: Easy and Normal modes, Level 50 and 100, 16-level Classic version, shields
-[^ref-16]: [PlayStation Trophies – Thexder Neo Trophy Guide](https://www.playstationtrophies.org/game/thexder-neo/guide/) – 20 trophies; Easy and Normal; 10 vs 16 levels; no save function; online mode abandoned
+[^ref-16]: [PlayStation Trophies – Thexder Neo Trophy Guide (Wayback Machine, August 2017)](https://web.archive.org/web/20170812130516/https://www.playstationtrophies.org/game/thexder-neo/guide/) – 20 trophies; Easy and Normal; 10 vs 16 levels; no save function; online mode abandoned
 [^ref-17]: [Metacritic – Thexder NEO](https://www.metacritic.com/game/thexder-neo/) – Critic scores: GamesRadar+ 50, Gaming Age 33, Destructoid 30 (all PSP); Metascore tbd
 [^ref-19]: GameSpot user review by Double_Wide, "Thexder NEO" (PS3), 24 May 2013 – user score 7.5; trophy-hunting and energy comments (original URL gamespot.com/thexder-neo/user-reviews/2200-179499/ now redirects to the game page)
 [^ref-20]: [Altered Gamer – Thexder Neo PS3 Game Review](https://www.alteredgamer.com/other-games/62905-thexder-neo-ps3-game-review-retro-remake/) – Finn Orfano; overall 2 out of 5; jet turning, Moonlight Sonata
