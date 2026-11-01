@@ -10,14 +10,14 @@ series: Stellar 7
 engine: 3Space
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 description: Stellar 7 is Dynamix's 1990 remake of Damon Slye's 1983 Battlezone-inspired
   tank game, rebuilt with 256-color graphics for DOS and later ported to the Amiga and Macintosh.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The 1983 original drew strong period notices; Softline praised its "arcade-style
 
 ## Story Summary
 
-Set in the year 3000, Stellar 7 depicts a galaxy transformed into a battleground where Earth faces an existential threat.[^ref-10] Gir Draxon, the Supreme Overlord of the evil Arcturan Empire, has assembled an armada of his most elite forces and is preparing to launch a devastating attack on Earth.[^ref-11][^ref-32] The galaxy is consumed by conflict, with humanity's home planet under siege and hundreds of enemies lurking at every turn.[^ref-10]
+Set in the year 3000, Stellar 7 depicts a galaxy transformed into a battleground where Earth faces an existential threat.[^ref-10] Gir Draxon, the Supreme Overlord of the evil Arcturan Empire, is preparing to launch an attack on Earth with his Arcturan Armada.[^ref-11][^ref-32] The galaxy is consumed by conflict, with humanity's home planet under siege and hundreds of enemies lurking at every turn.[^ref-10]
 
 As the Commander of Terran forces assigned to protect Earth, players must pilot the XCV Agl-2, codenamed "The Raven," an armored assault tank equipped with advanced technology including an anti-gravity drive and protonic shields.[^ref-10] The Raven was called into service before being fully completed, which the game's lore uses to explain why the tank relies solely on shield protection without additional armor.[^ref-1] For the remake, the Raven was "outfitted with an array of futuristic weapons and defense systems, including Bi-Phasal Thunder Cannon, Eel Shiels [sic], Inviso Cloak and more."[^ref-33]
 
@@ -58,13 +58,9 @@ The game supports keyboard controls on most platforms, with the Commodore 64 ver
 
 ### Structure and Progression
 
-The game features a completely linear structure across seven distinct star systems, with no customization or branching paths.[^ref-15] Players must clear each star system of enemies before confronting that system's Guardian boss:
+The game is played across seven star systems. Destroying enough of a system's enemies brings a Guardian boss, and defeating the Guardian makes a warp link appear that carries the player to the next system.[^ref-32] The Lemon Amiga player's guide and the Dynamix Wiki name the systems as Sol, Antares, Rigel, Deneb, Sirius, Regulus and Arcturus; the guide calls Rigel the third system and Deneb the fourth, and Arcturus is the seventh and last, where Gir Draxon waits.[^ref-10][^ref-23] The guide also describes a hidden warp on Sol that leads straight to Deneb, so some systems can be skipped.[^ref-10]
 
-- **Star System 1:** Introduction to basic enemy types and combat mechanics
-- **Star System 2-6:** Progressively more difficult enemy configurations
-- **Star System 7 (Arcturus):** Final confrontation with Gir Draxon
-
-The game offers three difficulty modes: Easy, Standard, and Hard, allowing players of varying skill levels to experience the campaign.[^ref-11] User reviews frequently mention the memorable boss encounters, with one player recalling "freaking out at the giant robot boss at the end of level 1."[^ref-17]
+The preferences menu offers three difficulty modes: Easy (2 continues, 3 uses of each power module), Standard (1 continue, 1 use of each module, +50% points) and Hard (no continues, no module uses, +100% points; the point bonuses exclude Guardians).[^ref-32] User reviews frequently mention the memorable boss encounters, with one player recalling "freaking out at the giant robot boss at the end of level 1."[^ref-17]
 
 ### Puzzles and Mechanics
 
@@ -90,28 +86,35 @@ Stellar 7 received strong reviews upon its original release and mixed-to-positiv
 - **Softline** praised the game, with William Harrington writing that "combining first-rate graphics and sound effects with fast-paced, arcade-style excitement makes Stellar 7 hard to beat in every sense."[^ref-4]
 - **Video Magazine** called it "a severe test for even the most skillful home arcaders."[^ref-1]
 - **Creative Computing** (September 1984) called it an "excellent adaptation" of Battlezone, with reviewer Owen Linzmayer concluding "Play it once, and you are forever addicted."[^ref-36]
-- **Zzap!64** awarded an impressive 87%, with reviewer Julian Rignall praising the game in the July 1985 issue.[^ref-8]
+- **Zzap!64** (July 1985, p. 81): Julian Rignall rated the C64 version Graphics 82%, Sound 31%, Arcade feel 84% and Accuracy 87%, in a feature on arcade conversions. He wrote "The graphics are superb" and "Sound is disappointing: just a few bleeps and bloops." The page prints no overall percentage; the 87% that MobyGames and Lemon64 give as the game's score is the Accuracy figure.[^ref-37]
 - **Home Computing Weekly** gave a perfect 5/5 in March 1985.[^ref-13]
-- **Commodore User** awarded 4/5 in April 1985, noting an 80% score.[^ref-13]
+- **Commodore User** awarded 4/5 in April 1985.[^ref-13] Dynamix Fandom reports the same review as 80%.[^ref-23]
 - **Your Commodore** gave 4/5 in May 1985.[^ref-13]
 
 **1990 Remake:**
-- **Dragon Magazine** awarded a perfect 5 out of 5 stars for the DOS remake in 1991.[^ref-1]
-- **ACE Magazine** gave 780/1000, with Chris Jenkins reviewing the July 1991 Amiga version.[^ref-18]
-- **Amiga Power** awarded 67%, with Mark Ramshaw noting: "Lacks action, needs one meg, and is a rewrite of a six year old game that was old-fashioned to start with. But what the hell - I like it."[^ref-19]
+- **Dragon Magazine** awarded 5 out of 5 stars to the DOS remake in 1991, according to Wikipedia (not independently verified).[^ref-1]
+- **Amiga version (1991):** Lemon Amiga lists eight magazine reviews, averaging 77%:[^ref-18]
+  - **ACE** (No. 46, July 1991; Chris Jenkins): 780/1000
+  - **Amiga Action** (No. 22, July 1991): 87%
+  - **Amiga Joker** (August 1991; Max Magenauer): 54%
+  - **Amiga Power** (No. 3, July 1991; Mark Ramshaw): 67%, with Ramshaw noting: "Lacks action, needs one meg, and is a rewrite of a six year old game that was old-fashioned to start with. But what the hell - I like it."[^ref-19]
+  - **Datormagazin** (No. 13, August 1991; Göran Fröjdh): 81%
+  - **Games-X** (No. 3, May 1991): 4/5
+  - **The One** (No. 33, June 1991; Paul Presley): 84%
+  - **Zero** (No. 22, August 1991; Paul Lakin): 81%
 
 ### Modern Assessment
 
-Modern retrospective assessments have been largely positive, recognizing Stellar 7's historical significance while acknowledging its dated mechanics. The game holds a 4.65/5 rating on My Abandonware based on 34 votes.[^ref-17] A 2015 user comment on Lemon64 called the C64 original the "Great great grand daddy of Doom in many ways, as at the time there were few 3d games around."[^ref-13]
+The game holds a 4.65/5 rating on My Abandonware based on 34 votes.[^ref-17] A 2015 user comment on Lemon64 called the C64 original the "Great great grand daddy of Doom in many ways, as at the time there were few 3d games around."[^ref-13]
 
 **Aggregate Scores:**
-- **Abandonware DOS:** 4.00/5.00[^ref-7]
+- **Abandonware DOS:** 4.07/5.00 (29 votes)[^ref-7]
 - **My Abandonware:** 4.65/5 (34 votes)[^ref-17]
 - **C64-Wiki:** 6.36/10[^ref-9]
-- **GameFAQs:** Fair rating (17 ratings)[^ref-20]
+- **GameFAQs:** Fair rating (18 ratings)[^ref-20]
 - **MobyGames (1990 remake):** 72% critics aggregate[^ref-15]
 
-Retrospective analysis frequently positions the game as an important stepping stone in 3D gaming evolution. As one user noted, "Back in the mid 80s on 8 bit computers this was a pretty good game. Basically Battlezone on acid."[^ref-18]
+One Lemon Amiga user, rating the Amiga version 4/10, recalled that "Back in the mid 80s on 8 bit computers this was a pretty good game. Basically Battlezone on acid," but found the Amiga port "intolerably slow."[^ref-18]
 
 ## Development
 
@@ -128,16 +131,17 @@ The original version was developed in approximately six months, a relatively qui
 Dynamix became part of Sierra On-Line in spring 1990, and Sierra News Magazine listed Stellar 7 among Dynamix's "soon to be released" 3Space titles that autumn.[^ref-33] The remake was rebuilt with true polygonal 3D graphics while keeping gameplay and level design virtually identical to the original, "right down to the placement of each and every enemy."[^ref-15] MobyGames describes the added power modules and end-of-level bosses as the major differences, though the 1983 original already offered special devices such as an "inviso cloak," "protective shields" and a "zoom lens."[^ref-15][^ref-36] Slye told Sierra News: "With as far as computers have come in ten years, we knew that we could expand on the original and build a great game."[^ref-33] The remake was previewed at the spring Consumer Electronics Show in Chicago, and its new score includes "more than a dozen songs."[^ref-33]
 
 **Development Credits:**[^ref-15][^ref-18]
-- **Designer:** [[Damon Slye]]
+- **Producer / Designer:** [[Damon Slye]][^ref-15]
+- **Lead Programmer:** Piotr Lukaszuk[^ref-15]
+- **Art Director:** Mark Peasley[^ref-15]
 - **Additional Designer/Playtester:** David Selle[^ref-24]
-- **Composers:** Don Latarski, Kim Nagel[^ref-18]
-- **Additional Music:** Dale Cooper[^ref-15]
+- **Composers:** Don Latarski, Kim Nagel,[^ref-18] Dale Cooper[^ref-15]
 
 ### Technical Achievements
 
-Stellar 7 utilized the 3Space engine, which Sierra News described as "a remarkably fast and versatile 3-dimensional modeling and display system"; the original Stellar 7 was "the first game to use" it.[^ref-33] The engine would later power numerous Dynamix titles including Red Baron, the Aces series, and Earthsiege.[^ref-11] The engine enabled smooth first-person 3D graphics on hardware that typically struggled with such presentations—a user review of the C64 version noted "the frame rate would put most Windows AutoCads to shame."[^ref-8]
+Stellar 7 utilized the 3Space engine, which Sierra News described as "a remarkably fast and versatile 3-dimensional modeling and display system"; the original Stellar 7 was "the first game to use" it.[^ref-33] The engine would later power numerous Dynamix titles including Red Baron, the Aces series, and Earthsiege.[^ref-11]
 
-The original game featured wireframe vector graphics similar to Battlezone, creating an abstract but effective visual style.[^ref-8] The 1990 remake upgraded to VGA graphics with 256 colors, using opaque colored polygon panels for 3D models, though they remained unshaded and untextured.[^ref-25] It was not Sierra's first VGA release: the same Fall 1990 issue of Sierra News called [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (previewed under its working title *Keeping Up With Jones*) "Sierra's first VGA product."[^ref-34]
+The original game featured wireframe vector graphics similar to Battlezone, creating an abstract but effective visual style.[^ref-8] A MobyGames user review of the C64 version said the game "was unusually fast-paced for the kind of graphics crunched thru its 1 MHz CPU; the frame rate would put most Windows AutoCads to shame."[^ref-8] The 1990 remake upgraded to VGA graphics with 256 colors, using opaque colored polygon panels for 3D models, though they remained unshaded and untextured.[^ref-25] Sources disagree on whether it was Sierra's first VGA release: the same Fall 1990 issue of Sierra News called [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (previewed under its working title *Keeping Up With Jones*) "Sierra's first VGA product,"[^ref-34] while the Sierra Chest says the Stellar 7 remake was "likely" Sierra's first published game with VGA graphics, before King's Quest V.[^ref-11]
 
 ### Technical Specifications
 
@@ -145,7 +149,7 @@ The original game featured wireframe vector graphics similar to Battlezone, crea
 - **Graphics:** VGA/256 colors, MCGA modes supported
 - **Audio Devices:** AdLib, Sound Blaster, Roland MT-32, LAPC-I, PC Speaker, Tandy 3 Voice, Tandy DAC
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk, CD-ROM
-- **File Size:** Approximately 1 MB (floppy)[^ref-2]
+- **Download Size:** About 1 MB (My Abandonware's DOS download)[^ref-17]
 
 **CD-ROM Version:**[^ref-15]
 - **Features:** Digitized voices on all cutscenes (the floppy version has them on the opening scene only)
@@ -173,7 +177,7 @@ No significant cut content has been documented for Stellar 7. The 1990 remake wa
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1983 | Apple II | Initial release by Software Entertainment Company[^ref-8] |
-| 1.0 | 1984 | Commodore 64 | Port by Penguin Software[^ref-8] |
+| 1.0 | 1983 or 1984 (sources conflict) | Commodore 64 | Softline's Nov–Dec 1983 issue lists a C64 edition from Software Entertainment Company;[^ref-4] MobyGames and the Dynamix Wiki date the C64 release to 1984, the latter crediting Penguin Software[^ref-8][^ref-23] |
 | 1.0 | 1984 | Commodore 64 | U.S. Gold second edition (UK)[^ref-13] |
 | Remake | September 20, 1990 | IBM PC | Dynamix remake with VGA graphics[^ref-11] |
 | 1.0 | 1991 | Amiga | Dynamix port[^ref-15] |
@@ -184,7 +188,7 @@ No significant cut content has been documented for Stellar 7. The 1990 remake wa
 
 The 1990 DOS remake suffers from speed issues on faster processors, with users reporting "Runs too fast on my pentium."[^ref-15] This was a common problem with DOS games designed for slower hardware.
 
-The Amiga version was criticized for being a relatively direct port from the MS-DOS/VGA version with minimal optimization for Amiga hardware, requiring 1 MB of RAM which was considered excessive for the type of game.[^ref-18][^ref-19]
+Two Lemon Amiga user comments (ratings of 6/10 and 4/10) fault the Amiga version as a conversion of the MS-DOS/VGA code with little optimization for the Amiga's 7 MHz Motorola CPU, and call it "intolerably slow"; Amiga Power noted that it "needs one meg."[^ref-18][^ref-19]
 
 Audio recording preservation efforts have noted timing issues and incomplete recordings of the game's soundtrack.[^ref-25]
 
@@ -208,11 +212,11 @@ Zzap!64 recognized the game's quality by placing it at #22 in their inaugural "Z
 Stellar 7 appeared in several compilation releases:
 - **Dynamix Sample Pack** (1992): A Sierra On-Line compilation containing Stellar 7 alongside A-10 Tank Killer and Heart of China, distributed on DOS.[^ref-26]
 
-The game was also distributed as part of various "5 FT. 10 PAK" bundles.[^ref-27]
+An uploader's note on one Internet Archive CD-ROM item says "I believe this came from one of the 5 FT. 10 PAK's"; the claim is unverified.[^ref-27]
 
 ### Fan Projects
 
-While no major fan remakes have been documented, the game remains playable through emulation and DOSBox, with support confirmed for DOSBox version 0.58.[^ref-17] The Internet Archive maintains multiple playable versions for preservation purposes.[^ref-2]
+While no major fan remakes have been documented, the game remains playable through emulation and DOSBox, with support confirmed for DOSBox version 0.58.[^ref-17] The Internet Archive hosts two CD-ROM disc images of the game.[^ref-2][^ref-27]
 
 ### Related Publications
 
@@ -220,16 +224,14 @@ The original game included documentation and manuals providing backstory and gam
 
 ### Critical Perspective
 
-Stellar 7 occupies an important position in the evolution of 3D gaming, bridging the gap between arcade vector graphics games like Battlezone and the texture-mapped 3D worlds that would emerge in the 1990s. While its gameplay was derivative of Atari's arcade classic, Slye's implementation demonstrated that home computers could deliver compelling 3D experiences despite severe hardware limitations.
+Stellar 7 began as Damon Slye's home-computer game inspired by Atari's Battlezone.[^ref-9] Zzap!64 called it "not a true copy" of the arcade classic but said it "takes the original game one step further."[^ref-37] Its 3Space engine was enhanced for the 1990 remake and later reused for Red Baron, the Aces series and Earthsiege, and the game was followed by two sequels, Arcticfox (1986) and Nova 9: The Return of Gir Draxon (1991).[^ref-11] One Lemon64 user comment went as far as calling it the "great great grand daddy of Doom."[^ref-13]
 
-The game's influence extended through Dynamix's subsequent work, with the 3Space engine powering numerous successful titles. Stellar 7 established the template that would be refined in Arctic Fox (1986), Nova 9 (1991), and other Dynamix productions. One Lemon64 user comment went as far as calling it the "great great grand daddy of Doom."[^ref-13]
-
-Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal despite its age: "It may have caught me in a good mood, but there's something endearing about Stellar 7's singlemindedness."[^ref-19] This focused design philosophy—pure arcade action wrapped in a science fiction setting—ensured the game remained playable and engaging even as graphics technology advanced far beyond its vector origins.
+Mark Ramshaw's 1991 Amiga Power review was warm despite its 67% score: "It may have caught me in a good mood, but there's something endearing about Stellar 7's singlemindedness."[^ref-19]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist – Stellar 7 (1990)](https://www.gog.com/dreamlist/game/stellar-7-1990) - Community Dreamlist entry
 
 **Download / Preservation**
 - [Internet Archive – Stellar 7 MS-DOS CD](https://archive.org/details/stellar-7-msdos-cd)
@@ -246,7 +248,6 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 - [[1993 - Stellar-Fire]]
 
 - **Arctic Fox** (1986): A spiritual successor using similar mechanics in an Arctic setting
-- **Nova 9: The Return of Gir Draxon** (1991): Direct sequel continuing the conflict with Draxon
 
 ## References
 
@@ -256,24 +257,25 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-4]: [Softline Magazine, Nov–Dec 1983, pp. 22–23](https://archive.org/details/Softline_1983_11_12/page/n23/mode/2up) – William Harrington review of Stellar 7 (Apple 48K, Commodore 64)
 [^ref-6]: [The Digital Antiquarian – "The Dynamic Interactive Narratives of Dynamix"](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – The Computer Tutor, Software Entertainment Company, Penguin pickup in 1984
 [^ref-7]: [Abandonware DOS – Stellar 7](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Stellar+7&gid=1071) – release dates, platforms, ratings
-[^ref-8]: [MobyGames – Stellar 7 (1983)](https://www.mobygames.com/game/39286/stellar-7/) – publishers, sales data, Zzap review, Penguin humor
+[^ref-8]: [MobyGames – Stellar 7 (1983)](https://www.mobygames.com/game/39286/stellar-7/) – publishers, sales data, Zzap Top 64 placement, Penguin humor, C64 user review
 [^ref-9]: [C64-Wiki – Stellar 7](https://www.c64-wiki.com/wiki/Stellar_7) – development time, sales, ratings
-[^ref-10]: [Lemon Amiga – Game Documentation](https://www.lemonamiga.com/games/docs.php?id=1552) – year 3000 setting, power modules, Raven specifications
+[^ref-10]: [Lemon Amiga – Game Documentation](https://www.lemonamiga.com/games/docs.php?id=1552) – year 3000 setting, power modules, Raven specifications, star system names and warps
 [^ref-11]: [Sierra Chest – Stellar 7 General](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=general) – 3Space engine, release date, difficulty modes
 [^ref-13]: [Lemon64 – Stellar 7](https://www.lemon64.com/game/stellar-7) – C64 reviews, control scheme, user comments
 [^ref-15]: [MobyGames – Stellar 7 (1990)](https://www.mobygames.com/game/938/stellar-7/) – release dates by platform, publisher, composers, critics aggregate, technical specs, CD version details
 [^ref-17]: [My Abandonware – Stellar 7](https://www.myabandonware.com/game/stellar-7-10s) – user ratings, reviews, DOSBox compatibility
-[^ref-18]: [Lemon Amiga – Stellar 7](https://www.lemonamiga.com/games/details.php?id=1813) – Amiga version, composers, ACE review
+[^ref-18]: [Lemon Amiga – Stellar 7](https://www.lemonamiga.com/games/details.php?id=1813) – Amiga version, composers, magazine review scores, user comments
 [^ref-19]: [Every Game Going – Amiga Power Review](https://www.everygamegoing.com/larticle/stellar-7-000/45315/) – Mark Ramshaw review, 67% score, 1 MB requirement
 [^ref-20]: [GameFAQs – Stellar 7](https://gamefaqs.gamespot.com/pc/565146-stellar-7) – user ratings, box art screenshot trivia
-[^ref-23]: [Dynamix Fandom – Stellar 7 (1983)](https://dynamix.fandom.com/wiki/Stellar_7_(1983_game)) – notebook coding, technical specs, living situation
+[^ref-23]: [Dynamix Fandom – Stellar 7 (1983)](https://dynamix.fandom.com/wiki/Stellar_7_(1983_game)) – notebook coding, technical specs, living situation, Commodore User 80%, star system list
 [^ref-24]: [Dynamix Fandom – David Selle](https://dynamix.fandom.com/wiki/David_Selle) – additional designer credit; also [MobyGames – David Selle (Wayback, 2025-09-12)](https://web.archive.org/web/20250912125939/https://www.mobygames.com/person/10264/david-selle/) – "Stellar 7 (1990, DOS) Design Contributors and Playtesters"
 [^ref-25]: [VGMPF Wiki – Stellar 7 DOS](https://www.vgmpf.com/Wiki/index.php?title=Stellar_7_(DOS)) – audio devices, music analysis
 [^ref-26]: [MobyGames – Dynamix Sample Pack](https://www.mobygames.com/game/203474/dynamix-sample-pack/) – compilation contents
 [^ref-27]: [Internet Archive – Stellar 7 DOS CD-ROM Dynamix](https://archive.org/details/stellar7doscdromdynamixforwindows10) – packaging notes
 [^ref-28]: [Sierra Gamers – Stellar 7](https://www.sierragamers.com/stellar-7/) – manual availability
-[^ref-32]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description
+[^ref-32]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description, Guardians and warp links, difficulty modes
 [^ref-33]: [Sierra News Magazine, Vol. 3 No. 3, Fall 1990, pp. 15–16](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n14/mode/2up) – "Stellar 7" preview and "Dynamix, Inc." profile: first game to use 3Space, 256-color backgrounds, 20+ enemy types, Chicago CES preview, dozen-plus songs, Slye quote
 [^ref-34]: [Sierra News Magazine, Vol. 3 No. 3, Fall 1990, p. 53](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n52/mode/2up) – Keeping Up with Jones described as "Sierra's first VGA product"
 [^ref-35]: [Computer Gaming World #49, July 1988, p. 24](https://archive.org/details/Computer_Gaming_World_Issue_49/page/n23/mode/2up) – Tom Clancy interview: "I also like 'Stellar 7.'"
 [^ref-36]: [Creative Computing, September 1984, pp. 102, 105](https://archive.org/details/creativecomputing-1984-09/page/n103/mode/2up) – Owen Linzmayer review: "excellent adaptation" of Battlezone; "Play it once, and you are forever addicted"
+[^ref-37]: [Zzap!64 #3, July 1985, p. 81](https://archive.org/details/zzap64-magazine-003/page/n80/mode/1up) – Julian Rignall's ratings for Stellar 7: Graphics 82%, Sound 31%, Arcade feel 84%, Accuracy 87%; "The graphics are superb"
