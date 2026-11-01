@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-01'
 composer: [Ken Allen]
 description: Jones in the Fast Lane is a computerized board game and life simulation
   published by Sierra On-Line in 1990, based on an outside design by the Whaley family and Kelly Walker.
@@ -18,22 +18,22 @@ tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Jones in the Fast Lane is a computerized board game and life simulation published by Sierra On-Line in 1990[^ref-18][^ref-35]. Sources disagree on the year: PCGamingWiki and MobyGames both date the DOS release to 1991[^ref-9][^ref-1]. It began as an unpublished game by Meredith, Christopher and Robert Whaley and Kelly Walker, which Sierra bought and redeveloped in-house[^ref-10][^ref-15][^ref-35]. Sierra's own magazine quoted Bill Davis, the game's designer and Sierra's creative director, as saying: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-35] It was built on Sierra's SCI1 interpreter[^ref-18][^ref-41].
+Jones in the Fast Lane is a computerized board game and life simulation published by Sierra On-Line in 1990. Sierra's Fall 1990 magazine says designer Bill Davis's game "has just hit the streets"[^ref-35]. Sources disagree on the year: PCGamingWiki and MobyGames both date the DOS release to 1991[^ref-9][^ref-1]. It began as an unpublished game by Meredith, Christopher and Robert Whaley and Kelly Walker, which Sierra bought and redeveloped in-house[^ref-10][^ref-15][^ref-35]. Sierra's own magazine quoted Bill Davis, the game's designer and Sierra's creative director, as saying: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-35] It was built on Sierra's SCI1 interpreter[^ref-18][^ref-41].
 
 *COMPUTE!*'s Eddie Huffman placed Jones in the Fast Lane "somewhere between a conventional board game and a computer adventure game," calling it "a tricky trip through real life."[^ref-collection] One to four players, including the computer-controlled Jones, set their own goals for money, happiness, education and career, and then race to be first to reach them[^ref-1][^ref-36].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Bill Davis]], [[Warren Schwader]][^ref-10][^ref-35]
+> **Designer:** [[Bill Davis]], [[Warren Schwader]][^ref-10][^ref-15][^ref-35]
 > **Original Design:** Meredith Whaley, Christopher Whaley, Robert Whaley, Kelly Walker[^ref-10]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1[^ref-18][^ref-41]
 > **Platforms:** DOS; Windows 3.x (CD-ROM edition)[^ref-9][^ref-16]
-> **Release Year:** 1990[^ref-18][^ref-35]
+> **Release Year:** 1990[^ref-35]
 > **Series:** Standalone
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
@@ -76,8 +76,8 @@ The game's fast-food restaurant, Monolith Burger, is named after the restaurant 
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| The One (Mar 1991) | 88% | Called it a "good example" of putting a board game's gameplay on a computer[^ref-2][^ref-19] |
-| Joystick (Jan 1991) | 80% | PC review by Duy Minh[^ref-19][^ref-37] |
+| The One (Mar 1991) | 88% | Called it a "good example" of putting a board game's gameplay on a computer[^ref-2][^ref-19][^ref-42] |
+| Joystick (Jan 1991) | 80% (as listed by Amiga Magazine Rack) | PC review by Duy Minh[^ref-19][^ref-37] |
 | Power Play (Feb 1991) | 54% | MS-DOS review, signed "al" (Anatol Locker, per AMR)[^ref-19][^ref-38] |
 | Aktueller Software Markt (Jan 1991) | 8/8/11/10/9 of 12 | Graphics/sound/structure/motivation/value; review by Dirk Fuchser[^ref-39] |
 | Los Angeles Times | 4/5 stars | Called it "a humorous romp through modern life"[^ref-20] |
@@ -110,7 +110,7 @@ Schwader, the lead programmer[^ref-8], recalled that "Jones had a four-person de
 
 ### CD-ROM Version
 
-Sierra's Fall 1990 magazine announced a 256-color CD-ROM version for spring 1991[^ref-35]. The Fall 1991 issue of *InterAction* listed the multimedia Jones as "Available Now," with "a real digitized human voice" for each character[^ref-40]. Maher calls it Sierra's second-ever CD-ROM product, released before the CD version of King's Quest V[^ref-22]. MobyGames dates the CD-ROM edition's DOS and Windows 3.x releases to 1992. That edition adds Red Book CD audio for the voice acting, extra animation and actor portraits, and in its Windows version a native Windows executable[^ref-16]. MobyGames lists the CD voice cast as including Josh Mandel, Mark Crowe, Ken Allen, George Esparza and Robert Eric Heitman, among others[^ref-28].
+Sierra's Fall 1990 magazine announced a 256-color CD-ROM version for spring 1991[^ref-35]. The Fall 1991 issue of *InterAction* listed the multimedia Jones as "Available Now," with "a real digitized human voice" for each character[^ref-40]. Maher calls it Sierra's second-ever CD-ROM product, released before the CD version of King's Quest V[^ref-22]. Sources disagree on the CD-ROM's date: *InterAction* lists it as available in Fall 1991, while MobyGames dates the CD-ROM edition's DOS and Windows 3.x releases to 1992. That edition adds Red Book CD audio for the voice acting, extra animation and actor portraits, and in its Windows version a native Windows executable[^ref-16]. MobyGames lists the CD voice cast as including Josh Mandel, Mark Crowe, Ken Allen, George Esparza and Robert Eric Heitman, among others[^ref-28].
 
 ### Technical Achievements
 
@@ -118,7 +118,7 @@ The game supports EGA, MCGA, VGA and Tandy/PCjr graphics. It needs 512 KB of RAM
 
 ## Legacy
 
-The game did not sell well. Maher writes that "it never sold all that well despite a big promotional push, and Sierra would never again make anything quite like it"[^ref-22]. Interviewing Schwader, *Retro Gamer* said it "sold relatively poorly" but has a cult following and several fan remakes[^ref-15]. Sierra never made a sequel, and no Amiga version was produced. *Power Play*'s 1991 review listed an Amiga version as "nicht geplant" (not planned)[^ref-38][^ref-15]. Producer Guruka Singh Khalsa later described it as "a stat-driven life game – long before the incredible success of The Sims"[^ref-15].
+The game did not sell well. Maher writes that "it never sold all that well despite a big promotional push, and Sierra would never again make anything quite like it"[^ref-22]. Interviewing Schwader, *Retro Gamer* said it "sold relatively poorly" but has a cult following and several fan remakes[^ref-15]. Sierra never made a sequel, and no Amiga version was produced[^ref-15]. *Power Play*'s 1991 review listed an Amiga version of Jones as "nicht geplant" (not planned)[^ref-38]. Producer Guruka Singh Khalsa later described it as "a stat-driven life game – long before the incredible success of The Sims"[^ref-15].
 
 Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. A fan-made Flash remake appeared in 2007[^ref-34]. Wikipedia lists *Jones - Life in the fast lane*, released on Google Play in 2014, among the game's unofficial remakes[^ref-2].
 
@@ -168,11 +168,12 @@ Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. A fan-made Flash rem
 [^ref-31]: [MobyGames Specs](https://www.mobygames.com/game/370/jones-in-the-fast-lane/specs/) – 512 KB RAM minimum, 640 KB for 256 colors; video modes and sound devices
 [^ref-33]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Jones_in_the_Fast_Lane) – "Both floppy and CD-ROM versions work in DOSBox 0.74"
 [^ref-34]: [AGD Interactive Forum](https://www.agdinteractive.com/forum/viewtopic.php?t=11672) – Fan Flash remake announced August 2007
-[^ref-35]: [The Sierra News Magazine, Vol. 3 No. 3 (Fall 1990) – "For A Real Adventure, Try Real Life!" (Internet Archive)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Bill Davis quote; rights bought in 1989; staff as digitized actors; CD-ROM planned for spring 1991 (PDF page 10)
+[^ref-35]: [The Sierra News Magazine, Vol. 3 No. 3 (Fall 1990) – "For A Real Adventure, Try Real Life!" (Internet Archive)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Bill Davis quote; rights bought in 1989; staff as digitized actors; CD-ROM planned for spring 1991 (PDF page 10); gossip column: "Bill Davis, whose Jones in the Fast Lane has just hit the streets"
 [^ref-36]: [Computer Gaming World #72 (June 1990), pp. 16–17 – "Keeping Up With Jones" by Johnny L. Wilson (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_72) – Preview: working title, "Sierra's first VGA product", game history and team
-[^ref-37]: [Joystick #12 (January 1991), p. 170 (Internet Archive)](https://archive.org/details/joystick012) – Review by Duy Minh, PC 80%
+[^ref-37]: [Joystick #12 (January 1991), p. 170 (Internet Archive)](https://archive.org/details/joystick012) – Review by Duy Minh, PC; the 80% figure is Amiga Magazine Rack's listing
 [^ref-38]: [Power Play 2/91, p. 45 (Internet Archive)](https://archive.org/details/powerplay_1991-02) – "Jones" review: MS-DOS 54%; Amiga "nicht geplant"
 [^ref-39]: [Aktueller Software Markt 1/91, p. 42 – "Computer-Karriere" (Internet Archive)](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1991.01) – Review by Dirk Fuchser: start with $200, no education, no job; up to four players
 [^ref-40]: [InterAction Vol. 4 No. 3 (Fall 1991), p. 42 – "Multimedia Madness" (Internet Archive)](https://archive.org/details/012_InterAction_Volume_4_Number_3_Fall_1991) – Multimedia (CD-ROM) Jones "Available Now"
 [^ref-41]: [DOS Days – Sierra Creative Interpreter](https://www.dosdays.co.uk/topics/sierra_sci.php) – Lists Jones in the Fast Lane as an SCI1 game
+[^ref-42]: [The One #30 (March 1991), p. 67 (Internet Archive)](https://archive.org/details/theone-magazine-30) – Jones in the Fast Lane review: overall 88%; "a good example of how it can be done"
 [^ref-collection]: [COMPUTE! Issue 130 (June 1991), p. 128 – Jones in the Fast Lane review by Eddie Huffman](https://www.atarimagazines.com/compute/issue130/128_Jones_in_the_Fast_La.php) – Contemporary review
