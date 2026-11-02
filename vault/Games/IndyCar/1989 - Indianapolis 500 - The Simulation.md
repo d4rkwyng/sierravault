@@ -11,14 +11,14 @@ series: "IndyCar Racing"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Papyrus)"
-last_updated: "2026-10-15"
+last_updated: '2026-11-01'
 description: "Indianapolis 500: The Simulation is Papyrus Design Group's first game, a 1989 Indy car racing simulation published by Electronic Arts for MS-DOS and later the Amiga."
 tags: [1980s, racing, simulation, papyrus, electronic-arts, indycar, david-kaemmer]
 composer: ["Rob Hubbard"]
 ---
 # Indianapolis 500: The Simulation
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ Kaemmer explained the approach in 1993: "I spent a great deal of time researchin
 
 Autocross champion and racing steward Barry Werger reviewed the game for *Computer Gaming World* in May 1990 under the headline "A Driver's View Of Electronic Arts' Indianapolis 500". He called it "not only a hyper-realistic simulation but a valuable educational tool for any aspiring race car driver". He described the VGA graphics as "astounding", but said every sound from the PC's internal speaker was "annoying, at best, and unbearable at worst". An editor's note added that Ad Lib and Roland owners would not have that problem.[^ref-6] Werger warned that "this is a game for those who take auto racing seriously. Gamers looking for immediate gratification should stick to Out Run."[^ref-6]
 
-European magazines gave it high marks. The Amiga Magazine Rack's review index lists these scores:[^ref-13]
+Most European magazines gave it high marks. The Amiga Magazine Rack's review index lists these scores among others:[^ref-13]
 
 | Publication | Platform | Score |
 |-------------|----------|-------|
@@ -79,6 +79,8 @@ European magazines gave it high marks. The Amiga Magazine Rack's review index li
 | Zero #13 (November 1990), David McCandless | Amiga | 92% |
 | Computer + Video Games #108 (November 1990) | Amiga | 90% |
 | Amiga Joker (December 1990), Max Magenauer | Amiga | 82% |
+
+Not every review was as warm. The same index lists lower marks for the original release from *The Games Machine* (83%, PC) and, for the Amiga, *Amiga Action* (79%), *ACAR* (73%) and *Zzap!* (69%).[^ref-13]
 
 Electronic Arts' 1990–91 catalogue quoted *Automobile Magazine*: "This might be the best-ever computer simulation of competition driving".[^ref-12]
 
