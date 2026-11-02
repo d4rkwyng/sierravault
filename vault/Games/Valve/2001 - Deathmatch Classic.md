@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Deathmatch Classic (DMC) is a multiplayer first-person shooter that recreates
   Quake's deathmatch in the GoldSrc engine. Valve released it as a free download on
   June 7, 2001, as a mod for the Sierra-published Half-Life; Sierra's July 2001 patch
@@ -19,7 +19,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ GameSpot described the mod as "an updated version of Id Software's classic first
 
 Deathmatch Classic is a pure multiplayer game with no narrative campaign or story mode.[^ref-2] It focuses entirely on competitive arena combat in the tradition of id Software's multiplayer shooters.[^ref-2][^ref-23]
 
-GameSpy's preview noted that "All Half-Life models can be used in the game", and that it was "kinda cool to see Gordon running around the maps with a Quake rocket launcher."[^ref-23] MobyGames' trivia names Gordon, Gina and the Scientist among the player characters, which the German version replaced with robots.[^ref-2] These characters are purely visual and have no story role.
+GameSpy's preview noted that "All Half-Life models can be used in the game", and that it was "kinda cool to see Gordon running around the maps with a Quake rocket launcher."[^ref-23] MobyGames' trivia notes that the German version replaced three of the human character models with robots.[^ref-2] These characters are purely visual and have no story role.
 
 Valve's store description sends players into "a collection of futuristic settings".[^ref-1][^ref-7] The original release included five maps converted from Quake; GameSpy singled out the classic maps DM4 and DM6.[^ref-3][^ref-23]
 
@@ -86,7 +86,7 @@ User reviews on Metacritic include one calling it "one of the fairest shooters o
 
 **Aggregate Scores:**
 - **Steam:** 82% positive (1,291 English-language reviews, October 2026)[^ref-7]
-- **Metacritic:** 7.0/10 user score (26 ratings); no critic reviews[^ref-1]
+- **Metacritic:** 7.0/10 user score (27 ratings); no critic reviews[^ref-1]
 - **MobyGames:** 2.6/5 (9 player ratings)[^ref-2]
 - **Glitchwave:** 2.81/5.0 (103 ratings)[^ref-9]
 
@@ -177,8 +177,10 @@ PCGamingWiki documents these problems and fixes:[^ref-10]
 **Other:**
 - Performance issues with dynamic lights on Intel graphics (OpenGL)
 
-**Network Issues reported by players:**[^ref-8][^ref-4]
+**Network Issues reported by players:**[^ref-8]
 - A 2020 Steam reviewer found a server with "insane ping" and wrote: "My shots would go straight through people"[^ref-8]
+
+**Input Issues reported by players:**[^ref-4]
 - A 2022 Metacritic user, writing in Russian, reported being pulled toward walls ("магнитился к стене") because of mouse problems without tweaking settings[^ref-4]
 
 **Platform Compatibility:**[^ref-10]
@@ -221,7 +223,6 @@ Deathmatch Classic is included in these Valve bundles on Steam:[^ref-7]
 The game has inspired ongoing community interest, including:
 
 - **Deathmatch Classic: Refragged** – a community-made Source engine arena shooter by CoaXioN that builds on DMC with new modes and maps; its ModDB page says it "will release on Steam for free" and lists the release date as TBD[^ref-15]
-- **1337 Board v7** – a hotkey and configuration mod for GoldSrc and Source games, listed in ModDB's Deathmatch Classic files and added June 7, 2010[^ref-6]
 - Various custom maps and server modifications hosted on ModDB[^ref-6]
 - **DMC Pro** – a popular server-side modification with a Quake-style sound pack, custom maps and capture the flag[^ref-3]
 
@@ -265,7 +266,7 @@ Rock Paper Shotgun framed Deathmatch Classic as "a cover version of another deve
 [^ref-3]: [Combine OverWiki – Deathmatch Classic](https://combineoverwiki.net/wiki/Deathmatch_Classic) – tribute concept, Holy Wars team, five Quake maps, crowbar, weapons and power-ups, movement physics, DMC Pro
 [^ref-4]: [Metacritic User Reviews – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/user-reviews/) – user reviews (2012–2023): "fairest shooters", "full of bots", "no players in 2022", mouse problems
 [^ref-5]: [Rock Paper Shotgun – Have You Played... Deathmatch Classic? (Graham Smith, December 14, 2016)](https://www.rockpapershotgun.com/have-you-played-deathmatch-classic) – retrospective analysis, engine critique
-[^ref-6]: [ModDB – Deathmatch Classic: 1337 Board v7](https://www.moddb.com/games/deathmatch-classic/downloads/1337-board-v7) – game description; 1337 Board v7 file added June 7, 2010
+[^ref-6]: [ModDB – Deathmatch Classic](https://www.moddb.com/games/deathmatch-classic) – community maps, mods and files
 [^ref-7]: [Steam Store – Deathmatch Classic](https://store.steampowered.com/app/40/Deathmatch_Classic/) – developer and publisher Valve, price, platforms, system requirements, VAC, bundles, user reviews (82% of 1,291 English reviews, October 2026)
 [^ref-8]: [Steam Community Review – Snort Cannon](https://steamcommunity.com/id/snortcannon/recommended/40/) – April 2020 review: sound, textures, empty servers, high ping
 [^ref-9]: [Glitchwave – Deathmatch Classic](https://glitchwave.com/game/deathmatch-classic/) – ratings, 1-32 players, 2003 Steam release
