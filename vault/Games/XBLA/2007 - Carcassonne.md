@@ -10,23 +10,23 @@ series: "Standalone"
 engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 ---
 
 # Carcassonne
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-**Carcassonne** is a turn-based strategy video game for the Xbox 360's Xbox Live Arcade, developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Sierra Online, a division of Vivendi Games.[^ref-23][^ref-6][^ref-9][^ref-25] Released on June 27, 2007 for 800 Microsoft Points, it is a digital adaptation of Klaus-Jürgen Wrede's tile-laying board game of the same name, which won the Spiel des Jahres in 2001.[^ref-24][^ref-17][^ref-19]
+**Carcassonne** is a turn-based strategy video game for the Xbox 360's Xbox Live Arcade, developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Sierra Online, a division of Vivendi Games.[^ref-23][^ref-3][^ref-25] Released on June 27, 2007 for 800 Microsoft Points, it is a digital adaptation of Klaus-Jürgen Wrede's tile-laying board game of the same name, which won the Spiel des Jahres in 2001.[^ref-24][^ref-17][^ref-19]
 
 The game was the second German-style designer board game on Xbox Live Arcade, following Catan, and one of a trio of board games Microsoft had announced for the service at the 2006 Games Convention in Leipzig.[^ref-1][^ref-11][^ref-25] Unlike Catan's initial release, which included only the base game, Carcassonne shipped with the board game's "The River" expansion included in the download.[^ref-1][^ref-11][^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Seattle[^ref-6][^ref-3]
-> **Publisher:** Sierra Online (a division of Vivendi Games)[^ref-23]
-> **Engine:** Unknown (MobyGames lists Granny 3D middleware)[^ref-6]
+> **Publisher:** Sierra Online (a division of Vivendi Games)[^ref-23][^ref-9]
+> **Engine:** Unknown (RAD Game Tools' customer list names Carcassonne for XBLA among Granny 3D users)[^ref-32]
 > **Platforms:** Xbox 360 (Xbox Live Arcade)[^ref-23]
 > **Release Year:** 2007[^ref-3][^ref-24]
 > **Series:** Standalone
@@ -110,7 +110,7 @@ On February 29, 2016, Carcassonne joined the Xbox One backward compatibility pro
 
 ### Availability
 
-The game was added to Xbox One backward compatibility in 2016.[^ref-31] Whether it can still be bought today has not been verified for this page. Later Carcassonne video games for other platforms, including Nintendo DS (2009), iOS (2010) and Android (2011), are separate products.[^ref-6]
+The game was added to Xbox One backward compatibility in 2016.[^ref-31] Whether it can still be bought today has not been verified for this page. Later Carcassonne video games for other platforms, including Nintendo DS (2009), iOS (2010) and Android (2011), are separate products.[^ref-33][^ref-34][^ref-35]
 
 ## Downloads
 
@@ -122,15 +122,15 @@ The game was added to Xbox One backward compatibility in 2016.[^ref-31] Whether 
 
 ## See Also
 
-Carcassonne sits between two other Sierra Online Xbox Live Arcade releases covered in the vault, [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]]. Sierra Online's XBLA output also included titles not covered here, such as Assault Heroes.[^ref-26][^ref-25]
+Carcassonne (June 2007) came before the two other Sierra Online Xbox Live Arcade releases covered in the vault, [[2008 - Lost Cities|Lost Cities (XBLA, April 2008)]] and [[2006 - Gin Rummy|Gin Rummy (XBLA, September 2008)]]. Sierra Online's XBLA output also included titles not covered here, such as Assault Heroes.[^ref-26][^ref-25]
 
 **Sierra XBLA releases in the vault**
 
-- [[2006 - Gin Rummy]] — card game adaptation
 - [[2007 - Carcassonne]] — board game adaptation, Sierra Online Seattle (this page)
 - [[2008 - Lost Cities]] — Reiner Knizia card game adaptation
+- [[2006 - Gin Rummy]] — card game adaptation
 
-**Previous / Next in the vault's XBLA folder:** *— first of the three in the vault —* | *[[2008 - Lost Cities|Lost Cities (2008) →]]*
+**Previous / Next in the vault's XBLA folder:** *— first of the three in the vault —* | *[[2008 - Lost Cities|Lost Cities (April 2008) →]]* then *[[2006 - Gin Rummy|Gin Rummy (September 2008) →]]*
 
 ## References
 
@@ -159,3 +159,7 @@ Carcassonne sits between two other Sierra Online Xbox Live Arcade releases cover
 [^ref-29]: [Marketplace Roundup for August 8, 2007 - Major Nelson (Wayback)](https://web.archive.org/web/20070824030000/http://www.majornelson.com/archive/2007/08/08/marketplace-roundup-for-august-8-2007.aspx) - Carcassonne Rivers II Expansion Pack, 300 Microsoft Points, not available in Korea
 [^ref-30]: [Marketplace Roundup for October 3, 2007 - Major Nelson (Wayback)](https://web.archive.org/web/20081204223428/http://www.majornelson.com/archive/2007/10/03/marketplace-roundup-for-october-3-2007.aspx) - Carcassonne King & Baron Expansion Pack, 300 Microsoft Points, all regions except Korea
 [^ref-31]: [Next Xbox One Backwards-Compatible Game Revealed - GameSpot](https://www.gamespot.com/articles/next-xbox-one-backwards-compatible-game-revealed/1100-6435175/) - Eddie Makuch, February 29, 2016
+[^ref-32]: [Granny Customer Page - RAD Game Tools](https://www.radgametools.com/granny/customers.html) - Lists "VU Games: Arcadian Warriors for XBLA, Carcassonne for XBLA" among Granny 3D customers
+[^ref-33]: [Carcassonne (2009, Nintendo DS) - MobyGames](https://www.mobygames.com/game/45320/carcassonne/) - Nintendo DS release 2009-10-23 (read via the MobyGames API)
+[^ref-34]: [Carcassonne (2010, iPhone) - MobyGames](https://www.mobygames.com/game/51466/carcassonne/) - iPhone release 2010-06-04 (read via the MobyGames API)
+[^ref-35]: [Carcassonne (2011, Android) - MobyGames](https://www.mobygames.com/game/66508/carcassonne/) - Android release 2011-07-06 (read via the MobyGames API)
