@@ -11,7 +11,7 @@ series: "Starsiege"
 engine: "Unreal Engine 2 (modified; Vengeance engine)"
 protagonist: "Julia, Victoria and other playable characters"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: "Tribes: Vengeance is the 2004 Tribes game developed by Irrational Games and published by Vivendi Universal Games under the Sierra brand, the first in the series with a full single-player campaign."
 tags: [2000s, shooter, tribes, starsiege, sierra, irrational-games, ken-levine]
 composer: ["Eric Brosius"]
@@ -19,7 +19,7 @@ composer: ["Eric Brosius"]
 
 # Tribes: Vengeance
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -135,7 +135,7 @@ Support ended early, in March 2005. On March 24, 2005 Neowin reported a post on 
 | Budget re-releases | 2005–2007 | Windows | Including a French BestSeller Series release and Polish and Czech budget editions[^ref-2] |
 | Freeware | 2015 | Windows | Released free by Hi-Rez Studios[^ref-2][^ref-16] |
 
-GameSpot's database gives a first-release date of October 12, 2004, a week later than the October 5 date recorded by MobyGames, GameSpy and Wikipedia.[^ref-3][^ref-2][^ref-5]
+GameSpot's database and Metacritic give a release date of October 12, 2004, a week later than the October 5 date recorded by MobyGames, GameSpy and Wikipedia.[^ref-3][^ref-15][^ref-2][^ref-5]
 
 ## Legacy
 
