@@ -9,7 +9,7 @@ series: Casino Deluxe
 engine: Unknown
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-02'
 description: Casino Deluxe 2 is a 1996 casino gambling simulation for Windows, developed
   by Impressions Games and published by Sierra On-Line, offering eighteen casino games
   with on-screen strategy advice and a Gambling Academy.
@@ -17,7 +17,7 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 ---
 # Casino Deluxe 2
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 2, 2026</small>
 
 ## Overview
 
@@ -145,7 +145,7 @@ Casino Deluxe 2 appeared in Sierra's The Game Catalogue 1996-1997[^ref-6]. No sa
 
 ### Collections
 
-Casino Deluxe 2 was also included in the compilation Grand Casino Deluxe[^ref-1]. In late 1997 Sierra offered it in a free-bonus Sports 3-Pack (Windows CD, #W07354) with YOU DON'T KNOW JACK Sports and 3D Ultra Pinball, promising "blackjack, roulette, slots and more!"[^ref-22]
+Casino Deluxe 2 was also included in the compilation Grand Casino Deluxe[^ref-1]. In late 1997 Sierra offered it in a free-bonus Sports 3-Pack (Windows CD, \#W07354) with YOU DON'T KNOW JACK Sports and 3D Ultra Pinball, promising "blackjack, roulette, slots and more!"[^ref-22]
 
 ### Preservation
 
@@ -200,7 +200,7 @@ The game has been preserved through multiple Internet Archive uploads[^ref-8][^r
 [^ref-19]: [Sierra On-Line – Casino Deluxe 2 Features (Wayback Machine, 20 December 1996)](https://web.archive.org/web/19961220003006/http://www.sierra.com:80/entertainment/casino2/features.html) – on-screen professional advice, 3-D SVGA graphics, movie quality music, dealer voices, 18 games, free laptop version
 [^ref-20]: [InterAction Magazine, Summer 1996 (Sierra On-Line), "Coming Attractions: Casino Deluxe II", p. 92](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – "the upcoming Casino Deluxe II"; "eight gaming categories with 18 unique games"; tutorial coverage
 [^ref-21]: [InterAction Magazine, Spring 1997 (Sierra On-Line), catalogue section](https://archive.org/details/InterAction_Magazine_Spring_1997_1997_Sierra_On-Line_US) – "Includes a Blackjack Internet version for head-to-head play and a free laptop version"; Win CD #83734, $29.95
-[^ref-22]: [InterAction Magazine, Holiday 1997 (Sierra On-Line), "Buy 2 Get 3 Free!", p. 54](https://archive.org/details/InterAction_Magazine_Holiday_1997_1997_Sierra_On-Line_US) – #W07354 Sports 3-Pack with YOU DON'T KNOW JACK Sports, 3D Ultra Pinball and Casino Deluxe 2
+[^ref-22]: [InterAction Magazine, Holiday 1997 (Sierra On-Line), "Buy 2 Get 3 Free!", p. 54](https://archive.org/details/InterAction_Magazine_Holiday_1997_1997_Sierra_On-Line_US) – \#W07354 Sports 3-Pack with YOU DON'T KNOW JACK Sports, 3D Ultra Pinball and Casino Deluxe 2
 [^ref-23]: [PC Gamer, Issue 39 (August 1997), patch listings](https://archive.org/details/pc-gamer-issue-039-august-1997) – "Casino Deluxe 2 v.1.01 (Sierra): Corrects problems with gaining more than $40,000 in chips … cd2w95.zip"
 [^ref-24]: [Computer Games Strategy Plus, Issue 72 (November 1996), mail-order advertisement](https://archive.org/details/computer-games-strategy-plus-issue-072-november-1996) – "Casino Deluxe 2 $25"
 [^ref-25]: [PC Game Parade, No. 48 (January 1997, Italian), news item](https://archive.org/details/PCGameParade48) – "Un simulatore di giochi d'azzardo … Si chiama Casino Deluxe 2"; 6 slot machines, 4 video poker; "lo dovreste già trovare in vetrina"

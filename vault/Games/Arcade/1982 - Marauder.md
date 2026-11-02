@@ -10,14 +10,14 @@ series: None
 engine: Not documented
 protagonist: The Marauder
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-02'
 description: '*Marauder* is a top-down arcade shooter developed by On-Line Systems
   and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers. Designed...'
 tags: [1980s, shooter, sierra]
 ---
 # Marauder
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 2, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ The Apple II and Atari 8-bit versions feature a two-phase gameplay structure tha
 
 The earliest online review that Orphaned Games could find was negative: The Video Game Critic gave the Atari 2600 version an **F** in 2002, calling the game a "cakewalk"[^ref-8][^ref-11]. The reviewer later revised this after a reader pointed out he had been overly critical[^ref-11].
 
-Retro365 lists the November 1982 issue of *Softline* magazine among its period sources for the game's history[^ref-3], and the @oldschoolfrp Tumblr archive reposts a 1982 *Marauder* magazine scan tagged #Softline[^ref-7].
+Retro365 lists the November 1982 issue of *Softline* magazine among its period sources for the game's history[^ref-3], and the @oldschoolfrp Tumblr archive reposts a 1982 *Marauder* magazine scan tagged \#Softline[^ref-7].
 
 ### Modern Assessment
 
@@ -258,7 +258,7 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-4]: [GameFAQs – Marauder](https://gamefaqs.gamespot.com/atari2600/563248-marauder) – box description, user ratings
 [^ref-5]: [MobyGames – Marauder](https://www.mobygames.com/game/29171/marauder/) – credits, technical specs, ratings, related versions
 [^ref-6]: [IGN – Marauder](https://www.ign.com/games/marauder-2600) – release date, single phase notation, publisher info
-[^ref-7]: [Tumblr – @oldschoolfrp](https://www.tumblr.com/oldschoolfrp/793702054461882368/1982-later-that-same-year-on-line-systems-was) – company renaming context, #Softline-tagged magazine scan
+[^ref-7]: [Tumblr – @oldschoolfrp](https://www.tumblr.com/oldschoolfrp/793702054461882368/1982-later-that-same-year-on-line-systems-was) – company renaming context, \#Softline-tagged magazine scan
 [^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information
 [^ref-9]: [Doctor Spuds Reviews Things – Marauder Review](https://doctorspudsreviewsthings.wordpress.com/2019/05/20/marauder-tigervision-atari-2600-game-review/) – gameplay mechanics, pricing, collector value, comparisons
 [^ref-10]: [My Abandonware – Marauder](https://www.myabandonware.com/game/marauder-h9y) – NTSC and PAL ROM versions, basic metadata

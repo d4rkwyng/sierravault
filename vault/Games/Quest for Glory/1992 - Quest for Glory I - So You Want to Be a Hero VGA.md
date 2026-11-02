@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-02'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 2, 2026</small>
 
 ## Overview
 
@@ -374,4 +374,4 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-53]: [Patreon – Our First Years (Corey and Lori Cole, January 27, 2024)](https://www.patreon.com/posts/our-first-years-97270318) – the Coles' own account: Sierra's offer to Corey was "40% less than Corey had last earned in the Bay Area"; he signed for slightly more
 [^ref-54]: [MobyGames – Quest for Glory: Collection Series](https://www.mobygames.com/game/2818/quest-for-glory-collection-series/) – read via the MobyGames API: DOS and Windows 16-bit (1997); contents include Hero's Quest and Quest for Glory I VGA
 [^ref-55]: [MobyGames – Quest for Glory: Anthology](https://www.mobygames.com/game/2819/quest-for-glory-anthology/) – read via the MobyGames API: DOS and Windows (1996); box includes Hero's Quest and Quest for Glory I VGA
-[^ref-56]: Live chat with Lori and Corey Cole, #Hero6, March 31, 2001 (unedited transcript, Wayback Machine copy of October 27, 2009) – Lori Cole on the cut familiar
+[^ref-56]: Live chat with Lori and Corey Cole, \#Hero6, March 31, 2001 (unedited transcript, Wayback Machine copy of October 27, 2009) – Lori Cole on the cut familiar
