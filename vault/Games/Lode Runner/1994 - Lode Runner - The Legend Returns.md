@@ -11,14 +11,14 @@ series: "Lode Runner"
 engine: "Custom (C/C++)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: "Lode Runner: The Legend Returns is Presage Software's 1994 remake of Doug Smith's Lode Runner, published by Sierra On-Line under Jeff Tunnell Productions. It has 150 single-player levels across ten themed worlds, new tools, two-player modes and a level editor."
 tags: [1990s, lode-runner, presage, jeff-tunnell, puzzle-platform, remake]
 composer: ["Matthew Berardo", "Brian Salter"]
 ---
 # Lode Runner: The Legend Returns
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -95,9 +95,9 @@ The Game Generator lets players build levels and whole level groups. Levels can 
 
 | Publication | Date | Platform | Verdict |
 |---|---|---|---|
-| *Computer Gaming World* | November 1994 | Windows | Review by Paul C. Schuytema; pros "A classic game is reborn, and it plays like a dream"[^ref-5] |
+| *Computer Gaming World* | November 1994 | Windows | 4/5 stars (Editors Speak box, p. 126), review by Paul C. Schuytema; pros "A classic game is reborn, and it plays like a dream"[^ref-5] |
 | *Electronic Games* | December 1994 | PC | B+, Bill Kunkel[^ref-11] |
-| *Pyramid* No. 11 | January 1995 | PC | Pyramid Pick[^ref-2] |
+| *Pyramid* No. 11 | January 1995 | Not stated | Pyramid Pick[^ref-2] |
 | *Next Generation* No. 3 | March 1995 | PC | 2/5[^ref-6][^ref-2] |
 | *Wired* | April 1995 | Mac/DOS/Windows | Positive, Zach Meston[^ref-13] |
 | *Next Generation* No. 8 | August 1995 | Macintosh | 4/5[^ref-9][^ref-2] |
@@ -118,7 +118,7 @@ The Game Generator lets players build levels and whole level groups. Levels can 
 
 ### Modern Assessment
 
-MobyGames lists a 75% critic average from 15 ratings and a 3.8/5 player average from 34 ratings.[^ref-1] On MyAbandonware the game holds 4.39/5 from 225 votes. Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
+MobyGames lists a 75% critic average from 15 ratings and a 3.8/5 player average from 34 ratings.[^ref-1] On MyAbandonware the game holds about 4.4/5 from more than 200 votes (as of November 2026). Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
 
 Later console versions drew a cooler response. IGN's 1998 review of Natsume's PlayStation compilation scored it 6 ("okay"), saying it was "just what you remember", though the characters were "extremely tiny".[^ref-16] *Next Generation* said the PlayStation release "adds little that's new" but was "well worth a look" for newcomers.[^ref-17]
 
