@@ -11,7 +11,7 @@ series: "Aces"
 engine: "3-Space"
 protagonist: "Player-created pilot"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: "WWII: 1946 is Dynamix's 1992 alternate-history expansion disk for Aces of the Pacific, adding seven prototype and early-jet aircraft and a campaign over a hypothetical 1945–46 invasion of Japan."
 tags: [1990s, simulation, flight-simulation, aces, dynamix, sierra, expansion, damon-slye]
 composer: null
@@ -19,7 +19,7 @@ composer: null
 
 # Aces of the Pacific: WWII: 1946
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ Bob Lindstrom's article in Sierra's *InterAction* magazine sums up the team's pr
 2. The atomic bomb project stalls, and its scientists begin to have moral doubts about their work.
 3. Japanese militarists regain control of the government and resolve to fight to the end.
 
-In the manual's version, the army and its allies murder Prime Minister Suzuki and his peace faction at the Imperial Palace on August 20, 1945. Admiral Onishi, the creator of the kamikaze corps, is installed as premier. President Truman, without a working bomb, approves Operation Olympic, the invasion of Kyushu.[^ref-9][^ref-4] The invasion of Kyushu goes badly. Lindstrom's summary has Marine units on the western beaches thrown back into the sea. After that, Operation Coronet lands on either side of Tokyo Bay on March 20, 1946, later than planned.[^ref-4][^ref-9] The war ends in January 1947, when Japan's leaders sign a surrender aboard the USS *Iowa*.[^ref-9]
+In the manual's version, army leaders and Admiral Onishi learn of a peace-faction meeting at the Imperial Palace on August 20, 1945, and six Kempeitai (army secret police) gunmen shoot Prime Minister Suzuki dead. They also kill Foreign Minister Togo and the Lord Keeper of the Privy Seal, Kido. Onishi, the creator of the kamikaze corps, is installed as premier. President Truman, without a working bomb, approves Operation Olympic, the invasion of Kyushu.[^ref-9][^ref-4] The invasion of Kyushu goes badly. Lindstrom's summary has Marine units on the western beaches thrown back into the sea. After that, Operation Coronet lands on either side of Tokyo Bay on March 20, 1946, later than planned.[^ref-4][^ref-9] The war ends in January 1947, when Japan's leaders sign a surrender aboard the USS *Iowa*.[^ref-9]
 
 The manual gives American losses of 295,125 killed in action. In its version, Truman loses the 1948 Democratic primaries and Thomas Dewey wins the presidency.[^ref-9] Wikipedia says the game itself calls the extended campaign Operation Coronet.[^ref-8] A retail listing in *Computer Gaming World* described the disk as including "a fictional scenario of Operation Olympic".[^ref-10]
 
@@ -127,8 +127,9 @@ MobyGames credits list:[^ref-2]
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Expansion disk | Late 1992 | MS-DOS | Published by Sierra On-Line in the US. MobyGames also lists a German release distributed by Sierra On-Line Ltd.[^ref-1][^ref-11][^ref-13] |
+| Expansion disk | Late 1992 | MS-DOS | Published by Sierra On-Line in the US; the December 1992 CGW Hits List charts it.[^ref-11] MobyGames also lists a German release distributed by Sierra On-Line Ltd.[^ref-1][^ref-13] |
 | *Aces of the Pacific with WWII: 1946* | 1993 | MS-DOS | Bundle listed by The Sierra Chest[^ref-14] |
+| *Aces: Collection Series* | 1997 | Not stated | MobyGames lists the expansion as included in this collection.[^ref-16] |
 
 ## Legacy
 
@@ -149,7 +150,7 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 
 ## See Also
 
-*WWII: 1946* is the expansion disk for Aces of the Pacific, the Aces game that preceded Aces Over Europe in SierraVault's series order.[^ref-4][^ref-3]
+*WWII: 1946* is the expansion disk for Aces of the Pacific, the Aces game that preceded Aces Over Europe in SierraVault's series order.
 
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
