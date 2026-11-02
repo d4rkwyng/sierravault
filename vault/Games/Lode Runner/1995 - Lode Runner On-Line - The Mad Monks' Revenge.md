@@ -14,13 +14,13 @@ series: "Lode Runner"
 engine: "Custom (32-bit update of The Legend Returns engine)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, 180 new levels and new hazards."
 tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 ---
 # Lode Runner On-Line: The Mad Monks' Revenge
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ Control is unchanged from the 1994 game. Jake runs, climbs ladders, crosses bars
 
 ### Structure and Progression
 
-*PC Player* counted a dozen underground worlds in single-player mode, 30 of whose levels were new. Sierra designed 150 entirely new stages for two players.[^ref-11] *PC Action* likewise described all the original levels plus 150 new ones built for two-player mode.[^ref-8] Sierra's own feature list gave the additions as:[^ref-5]
+*PC Player* counted a dozen underground worlds with 187 levels in single-player mode, 30 of them new. Sierra designed 150 entirely new stages for two players.[^ref-11] *PC Action* likewise described all the original levels plus 150 new ones built for two-player mode.[^ref-8] Sierra's own feature list gave the additions as:[^ref-5]
 
 - **Network options:** "challenge anyone, anywhere", either over a local area network or by modem
 - **Player-specific items:** treasures and items usable by only one player at a time, to encourage cooperative or competitive puzzles
@@ -85,8 +85,8 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 | *Computer Games Magazine* | December 20, 1995 | Windows 95 | 1/5[^ref-1][^ref-9] |
 | *PC Action* | March 1996 | Windows 95 | 75%[^ref-8] |
 | *PC Zone* No. 37 | April 1996 | Windows 95 | 20%[^ref-10] |
-| *Joystick* No. 70 | April 1996 | Macintosh | Strongly negative[^ref-12] |
-| *PC Player* | May 1996 | Windows 95 | 2.5/5[^ref-1][^ref-11] |
+| *Joystick* No. 70 | April 1996 | Macintosh | Intérêt 20%, Technique 30%[^ref-12] |
+| *PC Player* | May 1996 | Windows 95 | 2/5 (Monika Stoschek); the six-person panel gave 1 to 3 stars[^ref-11] |
 | *Albuquerque Journal* | July 2, 1996 | Not stated | 5/5[^ref-1] |
 | *Philadelphia Daily News* | August 1, 1996 | Not stated | 2.5/4[^ref-1] |
 
@@ -148,7 +148,7 @@ The lead programmer lists the technologies as Windows 95, "IPX fault-tolerant ne
 
 ### Successors
 
-Presage's next Lode Runner game was *Lode Runner 2* (1998), published by GT Interactive and MacSoft rather than Sierra.[^ref-15]
+Presage's next original Lode Runner game was *Lode Runner 2* (1998), published by GT Interactive and MacSoft rather than Sierra.[^ref-15]
 
 ### Collections
 
