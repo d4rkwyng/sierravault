@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: Ricochet is a multiplayer disc-throwing arena game developed and published
   by Valve, released on November 1, 2000 as a free official mod for the Sierra-published
   Half-Life and sold on Steam since 2003.
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as 
 
 > [!info]- Game Info
 > **Developer:** Valve[^ref-1][^ref-7]
-> **Designer:** Robin Walker[^ref-21]
+> **Designer:** Robin Walker[^ref-1][^ref-21]
 > **Publisher:** Valve[^ref-7][^ref-13]
 > **Engine:** GoldSrc[^ref-1]
 > **Platforms:** Windows, Mac, Linux[^ref-7][^ref-22]
@@ -49,11 +49,11 @@ Ricochet is multiplayer-only and has no story or campaign.[^ref-13] Its setting 
 
 Steam describes Ricochet as "a futuristic action game that challenges your agility as well as your aim," with one-on-one and team matches played in futuristic battle arenas.[^ref-7] Players travel between platforms using jump pads, and arenas include bounce pads, teleporters and barriers that send discs back into play.[^ref-18] Each player carries three discs, which regenerate over time.[^ref-18]
 
-A standard throw knocks an opponent backward. A secondary attack uses all three discs at once to decapitate the target outright.[^ref-25][^ref-18]
+A standard throw can push an opponent off the platform into the void. A secondary attack uses all three discs at once to decapitate the target outright.[^ref-25][^ref-18]
 
 ### Scoring
 
-A direct hit that knocks a player off the platform scores 1 point. Each bounce off a barrier before the hit adds a point, so a triple-bounced hit scores 4. Decapitations always score 1 point.[^ref-25][^ref-6] Only kill points appear on the scoreboard, not deaths.[^ref-25] Matches end at a frag limit or time limit set by the server host.[^ref-6]
+A direct hit that knocks a player off the platform scores 1 point. Each bounce off a barrier before the hit adds a point, so a triple-bounced hit scores 4. Decapitations score 1 point regardless of bounces (2 if the thrower was teleported, per the Steam guide).[^ref-25][^ref-6] Only kill points appear on the scoreboard, not deaths.[^ref-25] Matches end at a frag limit or time limit set by the server host.[^ref-6]
 
 ### Maps
 
