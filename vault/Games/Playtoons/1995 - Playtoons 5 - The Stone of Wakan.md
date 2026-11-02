@@ -11,18 +11,18 @@ series: "Playtoons"
 engine: "Gob"
 protagonist: "Blue Bear"
 sierra_lineage: "Sierra Label (Coktel)"
-last_updated: "2026-10-15"
+last_updated: "2026-11-01"
 description: "Playtoons 5: The Stone of Wakan (La Pierre de Wakan) is the fifth and last Playtoons title from Coktel Vision: an interactive Wild West storybook about a young Native American named Blue Bear, plus the series' shared cartoon construction kit."
 tags: [1990s, adventure, edutainment, coktel, playtoons, sierra]
 composer: ["Studio Big Wheels"]
 ---
 # Playtoons 5: The Stone of Wakan
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Playtoons 5: The Stone of Wakan (French: *Playtoons n°5: La Pierre de Wakan*; German: *Der Stein von Wakan*) is the fifth and last game in [[Coktel Vision]]'s Playtoons series of children's cartoon storybooks.[^ref-1][^ref-3][^ref-13] Coktel released it in France in late 1995 for Windows and Macintosh on a single hybrid CD-ROM.[^ref-10][^ref-3] [[Sierra On-Line]], which owned Coktel at the time, published it in Germany in 1996. The Sierra Chest also records an English-language European edition.[^ref-3][^ref-6][^ref-8]
+Playtoons 5: The Stone of Wakan (French: *Playtoons n°5: La Pierre de Wakan*; German: *Der Stein von Wakan*) is the fifth and last game in [[Coktel Vision]]'s Playtoons series of children's cartoon storybooks.[^ref-1][^ref-3][^ref-13] Coktel released it in France in late 1995 for Windows and Macintosh on a single hybrid CD-ROM.[^ref-10][^ref-3] [[Sierra On-Line]], which owned Coktel at the time, published it in Germany in 1996. The Sierra Chest also records an English-language European edition, and *MacFormat*'s May 1996 review box points to an English-language UK Mac edition with Sierra as the UK contact.[^ref-3][^ref-6][^ref-8][^ref-11]
 
 As in the earlier Playtoons games, there are two parts. The first is an animated, clickable story. The second is a construction kit in which children build their own animated comic strips from the game's characters, scenery and props.[^ref-1][^ref-10] This time the story is a Wild West tale. MobyGames describes it as an adventure for "Native American protagonist Blue Bear", who sets out with his friend Laughing Otter.[^ref-1] The French magazine *PC Novice* called it "un conte fantastique au pays des Indiens Arapahos" ("a fantastical tale in the land of the Arapaho").[^ref-14]
 
@@ -67,11 +67,17 @@ The kit is shared across the series. The manual explains that it combines the el
 
 ### Contemporary Reviews
 
-*MacFormat* reviewed The Stone of Wakan together with *Playtoons 4: The Mandarine Prince* in its May 1996 issue (reviewer Mike Goldsmith). The magazine wrote: "If a trick works, why change it? The setting and style are different, but The Stone of Wakan is more of the same." It said the text used sophisticated language, but always with enough context or explanation to suit the whole four-to-ten age range.[^ref-11]
+*MacFormat* reviewed The Stone of Wakan together with *Playtoons 4: The Mandarine Prince* in its May 1996 issue (reviewer Mike Goldsmith). The magazine wrote: "If a trick works, why change it? The setting and style are different, but The Stone of Wakan is more of the same." It said the text used sophisticated language, but always with enough context or explanation to suit the whole four-to-ten age range. The review's information box gave a single *MacFormat* rating of 88% shared by both games (Playtoons 4 and Playtoons 5), not a separate score for The Stone of Wakan.[^ref-11]
 
 The German magazine *PC Joker* reviewed *Der Stein von Wakan* in September 1996. It praised the easy controls and on-line help, and praised its "nahezu oscarverdächtigen Präsentation" ("almost Oscar-worthy presentation"). Its verdict was 81%, with 74% for presentation, 80% for handling, and 82% each for interaction and motivation; it rated the game for ages 4 to 10.[^ref-12]
 
-*PCMania* in Spain (issue 56, reviewed by Óscar Santos) praised the series' good graphics and smooth animation. It wrote that Coktel had not neglected "ni un solo detalle" ("a single detail"). It also singled out the way owning several titles builds up a large shared library of images and characters.[^ref-13]
+*PCMania* in Spain (issue 56, reviewed by Óscar Santos) praised the series' good graphics and smooth animation. It wrote that Coktel had not neglected "ni un solo detalle" ("a single detail"). It also singled out the way owning several titles builds up a large shared library of images and characters. The magazine's spec box rates the game 84 ("Valoración 84", category "Coktel Educativo").[^ref-13]
+
+| Publication | Date | Score | Notes |
+|-------------|------|-------|-------|
+| *MacFormat* (UK) | May 1996 | 88% | Joint rating shared with *Playtoons 4: The Mandarine Prince*[^ref-11] |
+| *PC Joker* (Germany) | September 1996 | 81% | Ages 4 to 10[^ref-12] |
+| *PCMania* (Spain) | issue 56 | 84 | "Valoración 84", Coktel Educativo[^ref-13] |
 
 ### Modern Assessment
 
@@ -95,7 +101,9 @@ The cast differed by language. The French manual credits Pierre-Alain de Garrigu
 - **Platforms:** Windows 3.1 or later; Macintosh
 - **Resolution:** 640×480
 - **Engine:** Coktel Gob engine
-- **Memory (Spanish edition, per PCMania):** 8 MB RAM (16 MB recommended), 10 MB hard disk space, Sound Blaster-compatible sound
+- **PC requirements (Spanish edition, per PCMania):** 486/100 CPU (Pentium 100 recommended), 8 MB RAM (16 MB recommended), 10 MB hard disk space, SVGA PCI video, Sound Blaster-compatible sound, Windows 3.1 or later[^ref-13]
+- **Mac requirements (UK edition, per MacFormat):** Quadra or better (accelerated for Power Macintosh), 8 MB RAM, System 7.1 or later, 256-colour 13-inch monitor, double-speed CD-ROM drive[^ref-11]
+- **UK price (MacFormat, May 1996):** £24.99[^ref-11]
 - **Copy protection:** None found on the French disc[^ref-10]
 
 ### Version History
@@ -104,7 +112,7 @@ The cast differed by language. The French manual credits Pierre-Alain de Garrigu
 |---------|------|----------|-------|
 | French (*La Pierre de Wakan*) | December 1995 | Windows / Mac | Coktel Vision. Disc mastering code dated 12 December 1995[^ref-10][^ref-3] |
 | German (*Der Stein von Wakan*) | 1996 | Windows / Mac | Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-3] |
-| English (*The Stone of Wakan*) | c. 1996 | PC / Mac | EU English slipcover box recorded by the Sierra Chest; listed by a UK retailer at £16.50 in May 1996[^ref-6][^ref-15] |
+| English (*The Stone of Wakan*) | c. 1996 | PC / Mac | EU English slipcover box recorded by the Sierra Chest; listed by a UK retailer at £16.50 in May 1996. *MacFormat* (May 1996) also reviewed a UK Mac edition at £24.99, with Sierra as the UK contact[^ref-6][^ref-15][^ref-11] |
 | Spanish (*La Piedra de Wakan*) | — | Windows | Reviewed by PCMania; English/Spanish text[^ref-13] |
 
 *PC Novice* listed the game as already available in France in its January 1996 issue.[^ref-14] No North American release has been documented. MobyGames' release list covers only France and Germany.[^ref-3]
@@ -151,9 +159,9 @@ The Stone of Wakan closes Coktel Vision's numbered Playtoons series, which began
 [^ref-8]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Roland Oskian as founder; Sierra acquisition (finalised 1993); Sierra publishing Coktel's French titles worldwide; Playtoons 5 in the 1995 releases
 [^ref-9]: [ScummVM Wiki – Playtoons 5 - The Stone of Wakan](https://wiki.scummvm.org/index.php?title=Playtoons_5_-_The_Stone_of_Wakan) – Gob engine, Windows, not supported by ScummVM (page behind a bot wall; not re-checked 2026-10-15)
 [^ref-10]: [Internet Archive – Playtoons n°5: La Pierre de Wakan (PC, France)](https://archive.org/details/playtoons-n5-la-pierre-de-wakan-pc-france) – disc (mastering code "WAKANFR 12 DEC 95", no copy protection found) and French manual: full credits, Coktel letter, story and construction-kit instructions, PC/Mac installation
-[^ref-11]: [MacFormat #37 (May 1996) – Mike Goldsmith, "Playtoons: Spirou – The Mandarine Prince and The Stone of Wakan", pp. 104–105](https://archive.org/details/mac-format-037-may-1996) – review: Blue Bear's quest, Mountain That Smokes, Thunder Spirits, "more of the same", language and age range
-[^ref-12]: [PC Joker, September 1996 – "Der Stein von Wakan", p. 74](https://archive.org/details/pcjokerseptember1996images) – review: twelve-picture story, 20-picture construction kit, six characters, text or microphone speech, five music tracks, presentation; score table: Urteil 81% (Präsentation 74%, Handhabung 80%, Interaktion 82%, Motivation 82%), 4–10 Jahre, Sierra/Coktel
-[^ref-13]: [PCMania #56 – Óscar Santos, "La piedra de Wakan", pp. 248–249](https://archive.org/details/Pcmania56) – review: fifth and last in the collection, Oso-Azul and chief Viejo-Castor, Mountain That Smokes, Living Books comparison, English/Spanish text, printing and playback, bundled calculator, system requirements
+[^ref-11]: [MacFormat #37 (May 1996) – Mike Goldsmith, "Playtoons: Spirou – The Mandarine Prince and The Stone of Wakan", pp. 104–105](https://archive.org/details/mac-format-037-may-1996) – review: Blue Bear's quest, Mountain That Smokes, Thunder Spirits, "more of the same", language and age range; p. 105 info box for both titles: £24.99 each, Mac requirements, Sierra as UK contact, joint MacFormat rating 88%
+[^ref-12]: [PC Joker, September 1996 – "Der Stein von Wakan", pp. 74–75](https://archive.org/details/pcjokerseptember1996images) – review: twelve-picture story, 20-picture construction kit, six characters, text or microphone speech, five music tracks, presentation; score table: Urteil 81% (Präsentation 74%, Handhabung 80%, Interaktion 82%, Motivation 82%), 4–10 Jahre, Sierra/Coktel
+[^ref-13]: [PCMania #56 – Óscar Santos, "La piedra de Wakan", pp. 248–249](https://archive.org/details/Pcmania56) – review: fifth and last in the collection, Oso-Azul and chief Viejo-Castor, Mountain That Smokes, Living Books comparison, English/Spanish text, printing and playback, bundled calculator, system requirements; p. 249 spec box: 486/100 (Pentium 100 rec.), 8 MB RAM (16 rec.), 10 MB disk, SVGA PCI, Sound Blaster, Windows 3.1+, "Valoración 84"
 [^ref-14]: [PC Novice (France) #32, January 1996](https://archive.org/details/pcnovice-magazine-32) – five Playtoons titles already available; La Pierre de Wakan "un conte fantastique au pays des Indiens Arapahos"
 [^ref-15]: [PC Zone #38 (May 1996)](https://archive.org/details/PC_Zone_38_May_1996) – UK mail-order listing: "Playtoons Stone of Wakan" at £16.50
 [^ref-16]: [UVList – Mac OS Classic games list](https://www.uvlist.net/platforms/games-list/48-Mac%20OS%20Classic/p) – Playtoons 5: The Stone of Wakan, Coktel Vision, 1995
