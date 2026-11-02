@@ -14,7 +14,7 @@ series: "MechWarrior"
 engine: "3-Space"
 protagonist: "Gideon Braver Vandenburg"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: "MechWarrior is the 1989 BattleTech 'Mech combat simulator developed by Dynamix with its 3-Space technology and published by Activision, a year before Sierra acquired Dynamix."
 tags: [1980s, simulation, battletech, mechwarrior, dynamix, activision, damon-slye]
 composer: ["Michael Latham", "Russell Lieblich", "Bryce Morcello"]
@@ -22,7 +22,7 @@ composer: ["Michael Latham", "Russell Lieblich", "Bryce Morcello"]
 
 # MechWarrior
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ Critics praised it widely. *Computer Gaming World*'s Johnny L. Wilson wrote that
 
 The backstory comes in the manual as "Affidavit of Gideon Braver Vandenburg", sworn on March 3, 3024 on Ander's Moon in the Draconis March of the Federated Suns.[^ref-3] While Gideon is away from Castle Vandenburg, a lance of bandit 'Mechs destroys it. The attack kills his father, Duke Cameron Vandenburg, along with his mother and sister. The sacred Chalice of Herne, without which no Duke of Ander's Moon can be legitimately invested, is stolen. Survivors remember only a skull with bat wings painted on the raiders' 'Mechs.[^ref-3]
 
-Rival noble Jarris McBrin then denounces the dead Duke as a pirate collaborator and has the Vandenburg assets frozen. The Council delays electing a new Duke until Gideon comes of age on April 8, 3029. Gideon is then beaten in the street, and McBrin gloats over him that the Chalice is "hidden light-years from here".[^ref-3] Forced into exile, Gideon starts with an old Jenner and a little money from a friend. He has five years to become a mercenary, uncover who framed him, and recover the Chalice.[^ref-1] The killers are the mercenary unit Dark Wing, and the player tracks them through clues gathered across the Inner Sphere.[^ref-12][^ref-2] Wikipedia notes that the game ends with the defeat of the Dark Wing mercenaries.[^ref-13]
+Rival noble Jarris McBrin then denounces the dead Duke as a pirate collaborator and has the Vandenburg assets frozen. The Council delays electing a new Duke until Gideon comes of age on April 8, 3029. Gideon is then beaten in the street, and McBrin gloats over him that the Chalice is "hidden light-years from here".[^ref-3] Forced into exile, Gideon starts with an old Jenner and a little money from a friend. He has five years to become a mercenary, uncover who framed him, and recover the Chalice.[^ref-1] The killers are the mercenary unit Dark Wing, and the player tracks them through clues gathered across the Inner Sphere.[^ref-12][^ref-2] One discrepancy: *Dragon* describes the murdered Duke Vandenburg as Gideon's "uncle", while the manual makes him his father.[^ref-12][^ref-3] Wikipedia notes that the game ends with the defeat of the Dark Wing mercenaries.[^ref-13]
 
 ## Gameplay
 
@@ -72,7 +72,7 @@ Between battles the game works from a set of icons on the main screen:[^ref-2][^
 - **'Mech Complex:** where 'Mechs are repaired, reloaded, bought and sold. *Dragon* noted that a 'Mech bought cheaply on a major world could be sold at a premium on a minor one.[^ref-12]
 - **Bar:** where pilots are hired. The bartender sometimes passes on clues.[^ref-2][^ref-12]
 - **NewsNet:** news and rumors from across the Inner Sphere, including the leads that eventually reveal where the Dark Wing is.[^ref-12]
-- **Star map:** travel between planets, with the cost in C-Bills shown for each route.[^ref-12]
+- **Star map:** travel between planets, with the cost in C-bills shown for each route.[^ref-9][^ref-12]
 - **Reputation:** fighting for one House against another builds hostility. Wilson noted that a player who keeps raiding one House's fuel dumps will get "a very chilly reception" on its planets.[^ref-4]
 
 MobyGames notes that each mission is randomly generated.[^ref-1] The game holds up to 12 saved games.[^ref-12]
@@ -95,10 +95,10 @@ MechWarrior has no adventure-style puzzles. Its challenge is the combat model an
 | *Computer Gaming World* (Johnny L. Wilson, preview) | December 1989 | Strongly positive[^ref-4] |
 | *ACE* #29 (Rik Haynes) | February 1990 | 887/1000[^ref-14] |
 | *Compute!* (Denny Atkin) | April 1990 | Strongly positive[^ref-2] |
-| *White Wolf* #21 (Jim Trunzo) | June/July 1990 | 4/5[^ref-17] |
+| *White Wolf* #21 (Jim Trunzo) | June 1990 | 4/5[^ref-17] |
 | *Dragon* #161 (Hartley, Patricia and Kirk Lesser) | September 1990 | 5/5[^ref-13][^ref-12] |
 | *Computer Gaming World* science fiction survey | November 1992 | 4/5 stars[^ref-15] |
-| *Computer Gaming World* science fiction games survey | May 1994 | 3/5 stars[^ref-10] |
+| *Computer Gaming World* science fiction games survey | May 1994 | 3/5 (Good)[^ref-10] |
 
 Wilson's "Sneak Preview" in *Computer Gaming World* came from an advance copy received while the magazine prepared its Christmas buying guide. He wrote that MechWarrior "is so easy-to-use, fast-to-play, and absolutely mesmerizing in its presentation that it forces the player to suspend his/her disbelief like no previous product".[^ref-4] He warned that hardcore BattleTech fans might find it incomplete, noting for example that it had no inferno rockets.[^ref-4]
 
@@ -155,7 +155,7 @@ MechWarrior began Activision's MechWarrior series. *Computer Gaming World* repor
 
 By November 1992, *Computer Gaming World* listed MechWarrior as "now available as a stand-alone game in Activision's new BattleTech trilogy package".[^ref-15]
 
-Within Dynamix's own history, MechWarrior followed Abrams Battle Tank with several of the same people, including Damon Slye, Paul Bowman, Cyrus Kanga and Kobi Miller, and was built on the 3-Space technology Dynamix had developed.[^ref-3][^ref-10]
+Within Dynamix's own history, MechWarrior followed Abrams Battle Tank, and four people are credited on both games: Damon Slye, Cyrus Kanga, Kobi Miller and Bryce Morcello.[^ref-21][^ref-8][^ref-9] It was built on the 3-Space technology Dynamix had developed.[^ref-10]
 
 ## Downloads
 
@@ -199,3 +199,4 @@ MechWarrior comes from Dynamix's independent years, between its Electronic Arts 
 [^ref-18]: [Neowin – "Microsoft brings over 50 classic Activision games to Game Pass via new Retro Classics app" (May 21, 2025; Wayback Machine)](http://web.archive.org/web/20260712021315/https://www.neowin.net/news/microsoft-brings-over-50-classic-activision-games-to-game-pass-via-new-retro-classics-app/) – app from Xbox and Antstream Arcade "available to all Game Pass subscribers"; launch list includes "MechWarrior" and "MechWarrior 2"
 [^ref-19]: [MobileSyrup – "Xbox brings dozens of retro titles to Game Pass" (May 21, 2025)](https://mobilesyrup.com/2025/05/21/xbox-retro-classics-game-pass) – Retro Classics "available on all Game Pass platforms, including Xbox consoles, PC and devices that support Xbox Cloud Gaming"
 [^ref-20]: [MobyGames – Retro Classics (Wayback Machine, July 2026)](http://web.archive.org/web/20260728143744/https://www.mobygames.com/game/242373/retro-classics/) – released May 21, 2025 by Microsoft, developed by Antstream; included games list "MechWarrior (1989)", identifying the Dynamix original
+[^ref-21]: [MobyGames – Abrams Battle Tank credits (Wayback Machine, October 2015)](http://web.archive.org/web/20151016235636/http://www.mobygames.com/game/dos/abrams-battle-tank/credits) – Director/Designer Damon Slye; Lead Artist Kobi Miller; Artistry Kobi Miller and Cyrus Kanga; Sound Designer Bryce Morcello
