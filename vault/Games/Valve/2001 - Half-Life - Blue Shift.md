@@ -2,7 +2,7 @@
 title: 'Half-Life: Blue Shift'
 release_year: 2001
 developer: Gearbox Software
-designer: [Rob Heironimus, Randy Pitchford, David Mertz]
+designer: [Rob Heironimus, Matt Armstrong, David Mertz, Randy Pitchford, Mike Wardwell]
 publisher: Sierra Entertainment
 genre: FPS
 platforms: [Windows, macOS, Linux]
@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Barney Calhoun
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 description: 'Half-Life: Blue Shift is the second expansion pack to Valve''s acclaimed
   1998 first-person shooter Half-Life, developed by Gearbox Software and published by
   Sierra Entertainment in 2001.'
@@ -18,17 +18,17 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life: Blue Shift
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Half-Life: Blue Shift is the second expansion pack to Valve's acclaimed 1998 first-person shooter Half-Life, developed by [[Gearbox Software]] and published by Sierra Entertainment[^ref-1]. Originally conceived as an exclusive bonus episode for the ill-fated Sega Dreamcast port of Half-Life, the expansion was announced as a standalone Windows release on March 29, 2001; Sierra cancelled the Dreamcast port on June 16, 2001, days after the PC version shipped[^ref-1]. The game puts players in the role of Barney Calhoun, a Black Mesa security guard who would later become a recurring character in the Half-Life series, experiencing the catastrophic resonance cascade from an entirely different perspective than scientist Gordon Freeman[^ref-3].
+Half-Life: Blue Shift is the second expansion pack to Valve's acclaimed 1998 first-person shooter Half-Life, developed by [[Gearbox Software]] and published by Sierra Entertainment[^ref-1]. Originally conceived as an exclusive bonus episode for the ill-fated Sega Dreamcast port of Half-Life, the expansion was announced as a standalone Windows release on March 29, 2001; Sierra cancelled the Dreamcast port on June 16, 2001, days after the PC version shipped[^ref-1]. The game puts players in the role of Barney Calhoun, a Black Mesa security guard whom Valve's own Steam announcement called "the security guard sidekick who helped Gordon out of so many sticky situations"[^ref-3]. His story runs concurrently with the base game, so he experiences the catastrophic resonance cascade from a different perspective than scientist Gordon Freeman[^ref-21], and he would later become a major supporting character in Half-Life 2[^ref-15].
 
-Released on June 12, 2001 in North America, Blue Shift offered a notably shorter campaign than its predecessor Opposing Force, with Eurogamer clocking it at three hours for hardened players and IGN calling it a six-hour expansion[^ref-4][^ref-26]. Despite its brevity, retrospective reviewers have praised its tighter design; Metrocop found it "never gets as annoying or frustrating" as Opposing Force[^ref-5]. The retail package included the High Definition Pack, which upgraded character models and weapon textures for both the original Half-Life and Opposing Force, doubling polygon counts and adding smoother animations[^ref-6]. Blue Shift sold approximately 800,000 retail copies, cementing its place in the Half-Life franchise despite mixed critical reception regarding its length and value proposition[^ref-7].
+Released on June 12, 2001 in North America, Blue Shift offered a notably shorter campaign than its predecessor Opposing Force, with Eurogamer clocking it at three hours for hardened players and IGN calling it a six-hour expansion[^ref-4][^ref-26]. Despite its brevity, a retrospective review on Metrocop found its short length "a bit of a blessing in disguise": leaner than Opposing Force, and one that "never gets as annoying or frustrating"[^ref-5]. The retail package included the High Definition Pack, which upgraded character models and weapon textures for both the original Half-Life and Opposing Force, doubling polygon counts and adding smoother animations[^ref-6]. Blue Shift sold approximately 800,000 retail copies, cementing its place in the Half-Life franchise despite mixed critical reception regarding its length and value proposition[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]][^ref-1]
-> **Designer:** Rob Heironimus, Randy Pitchford, David Mertz[^ref-8]
+> **Designer:** Rob Heironimus, Matt Armstrong, David Mertz, Randy Pitchford, Mike Wardwell[^ref-42]
 > **Publisher:** Sierra Entertainment[^ref-1]
 > **Engine:** GoldSrc[^ref-2]
 > **Platforms:** Windows, macOS, Linux[^ref-2]
@@ -39,9 +39,9 @@ Released on June 12, 2001 in North America, Blue Shift offered a notably shorter
 
 ## Story Summary
 
-The game follows Barney Calhoun, a security guard employed at the Black Mesa Research Facility in New Mexico[^ref-9]. Unlike Gordon Freeman's scientific work, Barney's job is decidedly mundane. Barney never speaks in the game itself[^ref-27], but IGN's in-character promotional diary for its "Half-Life Week" (May 8, 2001) opens in his voice: "I took up this job for two reasons: it was easy and the pay is decent"[^ref-10]. The story begins on the same fateful morning as the original Half-Life, with Barney riding the facility's transit system to his shift while Gordon Freeman passes by on a parallel tram car, creating the first of many interconnected moments between the two narratives[^ref-11].
+The game follows Barney Calhoun, a security guard employed at the Black Mesa Research Facility in New Mexico[^ref-9]. Unlike Gordon Freeman's scientific work, Barney's job is decidedly mundane. IGN's in-character promotional diary for its "Half-Life Week" (May 8, 2001) opens in his voice: "I took up this job for two reasons: it was easy and the pay is decent"[^ref-10]. The story begins on the same fateful morning as the original Half-Life, with Barney riding the facility's transit system to his shift while Gordon Freeman passes by on a parallel tram car, creating the first of many interconnected moments between the two narratives[^ref-11].
 
-When the resonance cascade occurs in the Anomalous Materials Laboratory, Barney is trapped in an elevator and must fight his way through the alien-infested facility[^ref-12]. Unlike Gordon, who was thrust into increasingly dangerous experiments and military cover-ups, Barney's primary objective throughout the game is simply to escape Black Mesa alive[^ref-3]. The same IGN diary has him put it this way: "I don't know exactly what happened, but with all the secret research that goes on here, this place was bound to go X-Files"[^ref-10].
+When the resonance cascade occurs in the Anomalous Materials Laboratory, Barney is trapped in an elevator and must fight his way through the alien-infested facility[^ref-12]. Unlike Gordon, who was thrust into increasingly dangerous experiments and military cover-ups, Barney's primary objective throughout the game is simply to escape Black Mesa alive[^ref-21]. The same IGN diary has him put it this way: "I don't know exactly what happened, but with all the secret research that goes on here, this place was bound to go X-Files"[^ref-10].
 
 On the surface, Barney finds a mortally wounded scientist, Harold, who tells him of an escape plan and urges him to find Dr. Rosenberg before dying of his wounds[^ref-55]. Barney frees Rosenberg from the Marines, and Rosenberg plans to use a prototype teleportation system in an abandoned sector of the facility to get himself, Barney, and his colleagues Walter Bennet and Simmons to safety[^ref-54]. The game's climax has Barney travelling to Xen to activate a focusing device, fetching a fresh power cell for the teleporter, and covering the survivors as they evacuate; Barney goes through last and, after a teleporter malfunction, rejoins Rosenberg outside Black Mesa, where they escape in a company SUV[^ref-1]. Metrocop noted that the game "ends on a much more hopeful note than the remainder of the series"[^ref-5].
 
@@ -67,9 +67,9 @@ Blue Shift features a linear progression through seven chapters, each representi
 
 ### Puzzles and Mechanics
 
-The expansion deliberately stripped away many of the more frustrating elements that had characterized previous Half-Life experiences[^ref-5]. Platforming is lighter than in the original: one MobyGames player review cheered "Only one jumping puzzle! Thank God Almighty!"[^ref-20], while GameSpot's Greg Kasavin described "several jumping puzzles that manage to be just clever enough instead of annoying"[^ref-27].
+Metrocop describes the expansion as leaner than Opposing Force[^ref-5]. Platforming is lighter than in the original: one MobyGames player review cheered "Only one jumping puzzle! Thank God Almighty!"[^ref-56], while GameSpot's Greg Kasavin described "several jumping puzzles that manage to be just clever enough instead of annoying"[^ref-27].
 
-Blue Shift features no new weapons or enemies compared to the original Half-Life, unlike Opposing Force which introduced numerous additions[^ref-21]. Players use the standard Half-Life arsenal including the crowbar, pistol, shotgun, submachine gun, and various grenades. Several weapons from the original game—including the Gluon Gun, Tau Cannon, Crossbow, and Laser Trip Mine—were cut from Blue Shift entirely[^ref-23].
+Blue Shift features no new weapons or enemies compared to the original Half-Life, unlike Opposing Force which introduced numerous additions[^ref-21][^ref-57]. Players use the standard Half-Life arsenal including the crowbar, pistol, shotgun, submachine gun, and various grenades. Several weapons from the original game—including the Gluon Gun, Tau Cannon, Crossbow, and Laser Trip Mine—were cut from Blue Shift entirely[^ref-23].
 
 ## Reception
 
@@ -79,7 +79,7 @@ Half-Life: Blue Shift received mixed reviews upon release, with critics consiste
 
 IGN awarded the game 7/10, noting "Blue Shift was a lot of fun, but it was just over too quick" and declaring that "selling a six-hour expansion Half-Life to PC gamers for $30 seems a little excessive"[^ref-26]. Eurogamer was harsher, giving only 6/10 and observing that "Blue Shift is downright tiny, taking a mere three hours to complete for hardened Half-Life players"[^ref-4]. GameSpot's Greg Kasavin gave it 7/10, writing "It's not that the game is easy so much that it's extremely short" and "The bad news is that Blue Shift, the actual game, doesn't amount to much on its own terms"[^ref-27].
 
-GameSpy's Jamie Madigan gave the expansion a more balanced assessment, acknowledging that "Half-Life is arguably the most successful action game in the history of the genre" while criticizing that Blue Shift "only contains the first item on this list, and those levels only makes up a short game that will take most players around five hours to complete"[^ref-28]. He concluded that "what really pulls the game down is the 'more of the same' factor" since the expansion was designed to be "just a few more levels for the original game"[^ref-28].
+GameSpy's Jamie Madigan gave the expansion a more balanced assessment, acknowledging that "Half-Life is arguably the most successful action game in the history of the genre" while criticizing that Blue Shift "only contains the first item on this list, and those levels only makes up a short game that will take most players around five hours to complete"[^ref-28]. On the review's second page he wrote that "what really pulls the single-player game down is the 'more of the same' factor," since without new tools or foes the game "quickly starts to feel like just a few more levels for the original game"[^ref-57].
 
 PC Zone's Mark Hill (issue #105, August 2001; the review was republished on the Computer and Video Games website, where the score appears as 7.8) scored it 78%[^ref-1][^ref-29][^ref-52]. He captured the fundamental problem with Blue Shift's positioning: "As a Dreamcast extra it works perfectly, but as a stand-alone PC title there's not nearly enough to it"[^ref-29]. Hill wrote that "Half-Life is the Star Wars of the gaming world, inspiring religious devotion and veneration among those bright enough to move about with a mouse and keyboard," but noted that "Blue Shift's brevity almost takes the piss"[^ref-29]. He concluded: "As a stopgap before Half-Life 2, Blue Shift doesn't quite live up to expectations, but H-L addicts with cash to burn should certainly give it a go"[^ref-29].
 
@@ -87,14 +87,14 @@ Neoseeker was particularly critical, awarding 63% and stating that "gameplay is 
 
 ### Modern Assessment
 
-Modern retrospectives have been somewhat kinder to Blue Shift, with many critics and fans acknowledging that while short, the experience was well-crafted[^ref-5]. A Metrocop review posted on October 24, 2022 awarded 8.5/10, arguing "I'd personally rather play a great, short game than a longer game with many more dull or unbalanced moments" and praising that "You can easily run through it in an afternoon, but during those precious hours you won't get bored, stuck or sick of anything the game throws at you"[^ref-5].
+Retrospective opinion has been somewhat kinder to Blue Shift. A Metrocop review posted on October 24, 2022 awarded 8.5/10, arguing "I'd personally rather play a great, short game than a longer game with many more dull or unbalanced moments" and praising that "You can easily run through it in an afternoon, but during those precious hours you won't get bored, stuck or sick of anything the game throws at you"[^ref-5].
 
 Reddit discussions from the patient gaming community have noted that "Blue Shift, however, was an indeed a much cleaner, enjoyable experience as many say. The game and puzzles at times felt more brilliant than even the original itself" with players observing "It was as if they kept only what we loved from the older games and put them into Blue Shift"[^ref-24].
 
 **Aggregate Scores:**
 - **Metacritic:** 71/100[^ref-25]
 - **IMDb:** 7.5/10 (2.2K ratings)[^ref-31]
-- **MobyGames:** 3.5/5 (player reviews)[^ref-20]
+- **MobyGames:** 7.1/10 Moby Score from 171 votes (read via the MobyGames API on November 1, 2026)[^ref-20]
 - **My Abandonware:** 4.02/5 (45 votes)[^ref-32]
 
 ## Development
@@ -111,22 +111,23 @@ Sierra Studios promoted the Dreamcast version heavily, announcing that "the Drea
 
 Development of the Dreamcast port progressed smoothly, reaching 90% completion with only optimization work remaining[^ref-37]. The port featured improved graphics that were described as "actually look[ing] better than the PC version"[^ref-38], with brighter, more colorful textures. Eurogamer reported that "Randy" of Gearbox (Randy Pitchford attended ECTS 2000 for Gearbox[^ref-39]) explained the brighter look as an unexpected side effect of the port to the Dreamcast hardware, calling it an especially "happy accident"[^ref-37].
 
-However, Sierra cancelled the Dreamcast port on June 16, 2001[^ref-1], citing "changing market conditions" as Sega's console faded[^ref-39]. Next Dimension reports the port had been only weeks from going gold, and a Prima strategy guide had already been completed but was never published[^ref-39]. A leaked build of the Dreamcast version later surfaced online and proved fully playable[^ref-39].
+However, Sierra cancelled the Dreamcast port on June 16, 2001[^ref-1], citing "changing market conditions" as Sega's console faded[^ref-39]. Next Dimension reports the port had been only weeks from going gold[^ref-39]. Its author also wrote that a Prima strategy guide "appears" to have been completed and ready to ship alongside the game, and that he believed he had found pictures of it on an eBay auction[^ref-39]. A leaked build of the Dreamcast version later surfaced online and proved fully playable[^ref-39].
 
 Rather than abandon the Blue Shift content, Sierra announced on March 29, 2001, while the Dreamcast port was still pending, that Blue Shift would also be released for Windows as a standalone game[^ref-1]. This transition from console bonus to retail PC product would become the source of much criticism, as content sized appropriately for a free pack-in felt insufficient as a $30 standalone purchase[^ref-26].
 
-**Development Credits:**[^ref-8]
+**Development Credits** (from the manual's Gearbox credits, which are shared with Opposing Force):[^ref-42]
 
-- **Designers:** Rob Heironimus, Matt Armstrong, David Mertz, Randy Pitchford, Mike Wardwell
-- **Composers:** Stephen Bahl, Chris Jensen
-- **Voice Director:** Unknown
-- **Voice Actors:** Jon St. John (Dr. Rosenberg, Harold), Harry S. Robins (Walter, HECU Soldiers), Kathy Levin (Black Mesa Transit System Announcer), Mike Shapiro (Black Mesa Security Guards, Black Mesa Scientists)
+- **Production / Direction:** Randy Pitchford
+- **Lead Level Designer:** Rob Heironimus
+- **Level Designers:** Matt Armstrong, Rob Heironimus, David Mertz, Randy Pitchford, Mike Wardwell
+- **Original Music:** Stephen Bahl, Chris Jensen
+- **Voices (manual):** Jon St. John, Kathy Levin, Mike Shapiro, Harry S. Robbins. Roles per Behind The Voice Actors: Jon St. John (Dr. Rosenberg, Harold), Harry S. Robins (Walter, HECU Soldiers), Kathy Levin (Black Mesa Transit System Announcer), Mike Shapiro (Black Mesa Security Guards, Black Mesa Scientists)[^ref-13]. The manual spells the name "Robbins"; Behind The Voice Actors and IMDb spell it "Robins".
 
 ### Technical Achievements
 
 The most significant technical contribution of Blue Shift was the High Definition Pack included with the retail release[^ref-6][^ref-27]. This graphical upgrade doubled the polygon count of character models from the original Half-Life, added smoother animations, and enhanced weapon details[^ref-6]. The HD Pack could be applied retroactively to both Half-Life and Opposing Force, a point GameSpot's review weighed in the retail package's favor[^ref-6][^ref-27].
 
-The game ran on the GoldSrc engine with support for Direct3D 6/9, OpenGL 2.1, and a software renderer[^ref-41]. The 32-bit executable supported Windows, with later ports to macOS and Linux released in 2013[^ref-1]. The HD Pack itself grew out of the Dreamcast port, whose upgraded models were the basis for it[^ref-39].
+The game ran on the GoldSrc engine with OpenGL (2.1 today, originally 1.x), a software renderer, and Direct3D 6; PCGamingWiki says Direct3D 6 was removed in the January 30, 2013 update, and Direct3D 9 is used only to render startup videos with the software renderer[^ref-41]. The 32-bit executable supported Windows, with later ports to macOS and Linux released in 2013[^ref-1]. The HD Pack itself grew out of the Dreamcast port, whose upgraded models were the basis for it[^ref-39].
 
 ### Technical Specifications
 
@@ -165,16 +166,16 @@ Animation sets for a dead security guard, HEV-suited Gordon Freeman, and a scien
 | 1.0.0.0 | April 20, 2001 | Windows | Original retail build date[^ref-23] |
 | Retail | June 12, 2001 | Windows | North American release[^ref-1] |
 | Retail | June 15, 2001 | Windows | European release[^ref-1] |
-| Steam | August 29, 2005 | Windows | Digital distribution release (Wikipedia, citing Steam's client-update notice; TCRF and the Half-Life Wiki give August 24)[^ref-1][^ref-23] |
-| SteamPipe | April 4, 2013 | Windows | HUD color correction, distribution update[^ref-23] |
-| macOS/Linux | July 31, 2013 | macOS, Linux | Platform expansion[^ref-1] |
-| 25th Anniversary | November 2023 | All | Anniversary update[^ref-41] |
+| Steam | August 2005 (week of August 22) | Windows | Digital distribution release. Valve's August 26, 2005 post says "earlier this week we released" it, and Eurogamer reported it on August 25; TCRF gives August 24. Wikipedia gives August 29, which Valve's post rules out as the release date[^ref-3][^ref-58][^ref-23][^ref-1] |
+| Steam beta update | April 4, 2013 | Steam | Corrected the HUD color; TCRF calls it a beta update[^ref-23] |
+| macOS/Linux | July 31, 2013 | macOS, Linux | Platform expansion (Wikipedia, TCRF); MobyGames lists August 1, 2013, so the sources differ by a day[^ref-1][^ref-23][^ref-21] |
+| 25th Anniversary Update | Date not confirmed | Steam | Engine update; PCGamingWiki says it made widescreen Hor+ and fixed OpenGL overbright lighting[^ref-41] |
 
 ### Technical Issues
 
-The Steam version of Blue Shift initially shipped with an incorrectly colored HUD, which wasn't corrected until an April 4, 2013 update[^ref-23]. The game's soundtrack situation was also problematic: the original PC retail version used the Opposing Force soundtrack by Chris Jensen, while the Dreamcast version was intended to use the original Half-Life soundtrack by Kelly Bailey[^ref-44]. Steam releases initially used the Half-Life music, though this was later adjusted when the game was converted to the SteamPipe distribution system[^ref-44].
+The Steam version of Blue Shift initially shipped with an incorrectly colored HUD, which wasn't corrected until a Steam beta update issued on April 4, 2013[^ref-23]. The game's soundtrack situation was also problematic: the original PC retail version used the Opposing Force soundtrack by Chris Jensen, while the Dreamcast version was intended to use the original Half-Life soundtrack by Kelly Bailey[^ref-44]. Steam releases initially used the Half-Life music, though this was later adjusted when the game was converted to the SteamPipe distribution system[^ref-44].
 
-The game's resolution is limited to a maximum of 1280x960 in the original engine[^ref-20]. Some players reported issues with Barney's inability to grab ladders during jumps, a minor bug that could cause frustration in certain platforming sections[^ref-30]. The 32-bit executable has compatibility considerations on modern systems[^ref-41].
+One MobyGames reviewer complained that the Half-Life engine "seems unable (or unwilling) to support resolutions above 1280x960"[^ref-56]; PCGamingWiki adds that the retail and early Steam versions use Vert- widescreen scaling, which the 25th Anniversary Update changed to Hor+[^ref-41]. Some players reported issues with Barney's inability to grab ladders during jumps, a minor bug that could cause frustration in certain platforming sections[^ref-30]. The 32-bit executable has compatibility considerations on modern systems[^ref-41].
 
 ### Easter Eggs and Trivia
 
@@ -214,7 +215,7 @@ Blue Shift contains numerous easter eggs that reward observant players and creat
 | Black Mesa Scientists | Mike Shapiro[^ref-13] |
 | HECU Soldiers | Harry S. Robins[^ref-13] |
 
-Note: Barney Calhoun himself is a silent protagonist, though Mike Shapiro would later voice the character in Half-Life 2[^ref-8].
+Note: Mike Shapiro, credited here for the security guards and scientists, is listed by Combine OverWiki as the voice of Barney Calhoun in Half-Life 2[^ref-59]. Sources conflict on whether Barney speaks in Blue Shift itself (IMDb credits Shapiro as "Barney Calhoun (voice)" for this game[^ref-8]; Combine OverWiki calls him one of only four playable characters in the series heard speaking[^ref-59]), and we have not resolved it.
 
 ## Legacy
 
@@ -230,7 +231,7 @@ Blue Shift has been included in several Half-Life compilation packages over the 
 
 - **Half-Life: Generation** (2002) – Compilation release[^ref-1]
 - **Half-Life 1: Anthology** (September 26, 2005) – Collection including original game and expansions[^ref-1]
-- **Steam Release** (August 2005; Wikipedia gives August 29, TCRF August 24) – Individual digital distribution[^ref-1][^ref-23][^ref-47]
+- **Steam Release** (week of August 22, 2005; Valve's August 26 post says "earlier this week we released"; TCRF gives August 24) – Individual digital distribution[^ref-3][^ref-58][^ref-23][^ref-47]
 
 ### Fan Projects
 
@@ -240,20 +241,20 @@ The modding community has produced various modifications for Blue Shift, includi
 - **Half-Life: Blue Shift HL1 OST Mod:** Provides options for both the original Dreamcast soundtrack and revised track placements[^ref-48]
 - **The Infinite Shift:** A fan-made continuation that picks up where Blue Shift ended, with Barney being teleported to the alien dimension due to a computer error[^ref-49]
 
-The speedrunning community has embraced Blue Shift, with dedicated leaderboards tracking completion times[^ref-50]. The current world record for Any% on Easy difficulty stands at 24 minutes 21 seconds[^ref-50]. The game has 407 followers on Speedrun.com with 289 total runs from 76 registered players[^ref-50].
+The speedrunning community has embraced Blue Shift, with dedicated leaderboards tracking completion times[^ref-50]. The current world record for Any% on Easy difficulty stands at 24 minutes 21 seconds[^ref-50]. As of November 1, 2026, the game has 432 followers on Speedrun.com with 303 total runs from 84 registered players[^ref-50].
 
 ### Related Publications
 
-- **Prima Strategy Guide:** A complete strategy guide was written and completed for the Dreamcast version but was never published following the port's cancellation[^ref-39]
+- **Prima Strategy Guide (unconfirmed):** Next Dimension, a fan site, says a Prima guide for the cancelled Dreamcast Half-Life (which was to include Blue Shift) appears to have been completed, based on what its author believed were eBay auction pictures; we have no second source[^ref-39]
 - **Official Manual:** Included installation instructions, system requirements, and gameplay guidance with credits for the development team[^ref-42]
 
 ### Critical Perspective
 
 Half-Life: Blue Shift occupies a curious position in gaming history as an expansion that was simultaneously praised and criticized—praised for its refined gameplay and criticized for its brevity and perceived lack of ambition[^ref-28]. The game represents an interesting case study in how platform transitions can affect a product's reception: content perfectly suited as a bonus pack-in for a console release felt insufficient when repositioned as a standalone retail PC product[^ref-2].
 
-In retrospect, Blue Shift's greatest contributions to the Half-Life franchise were perhaps unintentional. The High Definition Pack became a standard upgrade for the entire Half-Life experience, and Barney Calhoun's characterization—established primarily through environmental storytelling rather than dialogue—laid groundwork for his prominent role in Half-Life 2[^ref-15]. The game also demonstrated that the Half-Life formula could successfully shift perspectives without requiring new weapons or enemies, a design philosophy that would influence later narrative-driven shooters[^ref-5].
+In retrospect, Blue Shift's most visible contributions to the Half-Life franchise were the High Definition Pack, which upgraded the models of Half-Life, Opposing Force and Blue Shift[^ref-21], and Barney Calhoun, who would go on to become a major supporting character in Half-Life 2[^ref-15]. Unlike Opposing Force, it also shipped without new weapons[^ref-21].
 
-According to the Half-Life Wiki, it is the only game in the original Half-Life story arc without an alien boss fight at the end[^ref-12]. Contemporary reviews counted its brevity against it, while Metrocop's retrospective argued "I'd personally rather play a great, short game than a longer game with many more dull or unbalanced moments"[^ref-5].
+According to the Half-Life Wiki, it is the only game in the original Half-Life story arc without an alien boss fight at the end[^ref-12]. PC Zone's reviewer likewise noted that it "doesn't even have an end of game boss"[^ref-60]. Contemporary reviews counted its brevity against it, while Metrocop's retrospective argued "I'd personally rather play a great, short game than a longer game with many more dull or unbalanced moments"[^ref-5].
 
 ## Downloads
 
@@ -283,7 +284,7 @@ According to the Half-Life Wiki, it is the only game in the original Half-Life s
 
 [^ref-1]: [Wikipedia – Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) – release dates, developer, publisher, credits
 [^ref-2]: [Combine OverWiki – Half-Life: Blue Shift](https://combineoverwiki.net/wiki/Half-Life:_Blue_Shift) – development history, platforms, engine, sales data
-[^ref-3]: [Steam Community – Half-Life: Blue Shift](https://steamcommunity.com/app/130) – game description, story summary
+[^ref-3]: [Valve – Steam update, August 26, 2005 (Archive)](https://web.archive.org/web/20051202004900/http://www.steampowered.com/Steam/Marketing/August26.2005/) – announces Blue Shift on Steam ("earlier this week"); Barney description
 [^ref-4]: [Eurogamer – Blue Shift Review](https://www.eurogamer.net/r-blueshift) – review score, completion time
 [^ref-5]: [Metrocop – Blue Shift Review](https://metrocop.net/articles/half-life-blue-shift-review/) – modern retrospective, gameplay analysis
 [^ref-6]: [GameRevolution – Blue Shift Review](https://www.gamerevolution.com/review/32729-half-life-blue-shift-review) – HD Pack details, review score
@@ -298,8 +299,8 @@ According to the Half-Life Wiki, it is the only game in the original Half-Life s
 [^ref-16]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/475304-half-life-blue-shift/faqs/27164) – gameplay guide
 [^ref-17]: [SourceRuns Wiki – HLBS 2811](https://wiki.sourceruns.org/wiki/HLBS_2811) – technical specifications, FPS differences
 [^ref-19]: [UHS Hints – Blue Shift](https://www.uhs-hints.com/uhsweb/hlbshift.php) – chapter list
-[^ref-20]: [MobyGames – Blue Shift Reviews](https://www.mobygames.com/game/144822/half-life-blue-shift/reviews/) – player reviews, ratings
-[^ref-21]: [MobyGames – Blue Shift](https://www.mobygames.com/game/144822/half-life-blue-shift/) – game details
+[^ref-20]: [MobyGames – Half-Life: Blue Shift](https://www.mobygames.com/game/4376/half-life-blue-shift/) – Moby Score 7.1 from 171 votes, read via the MobyGames API on November 1, 2026
+[^ref-21]: [MobyGames – Half-Life: Blue Shift](https://www.mobygames.com/game/4376/half-life-blue-shift/) – game description (goal, no new weapons, HEV suit absence, HD Pack) and platform dates, read via the MobyGames API
 [^ref-23]: [The Cutting Room Floor – Blue Shift](https://tcrf.net/Half-Life:_Blue_Shift_(Windows)) – cut content, version history, technical details
 [^ref-24]: [Reddit – Patient Gamers Blue Shift Discussion](https://www.reddit.com/r/patientgamers/comments/ch4vbm/halflife_blue_shift/) – fan perspectives, easter eggs
 [^ref-25]: [Metacritic – Blue Shift](https://www.metacritic.com/game/half-life-blue-shift/) – aggregate scores, review excerpts
@@ -329,3 +330,8 @@ According to the Half-Life Wiki, it is the only game in the original Half-Life s
 [^ref-53]: [The Cutting Room Floor – Proto:Half-Life: Blue Shift (PC)](https://tcrf.net/Proto:Half-Life:_Blue_Shift_(PC)) – Dreamcast-era prototype builds, September 10, 2000 and April 20, 2001
 [^ref-54]: [Combine OverWiki – Half-Life: Blue Shift storyline](https://combineoverwiki.net/wiki/Half-Life:_Blue_Shift_storyline) – chapter-by-chapter plot, survivors Rosenberg, Walter Bennet and Simmons
 [^ref-55]: [Combine OverWiki – Harold](https://combineoverwiki.net/wiki/Harold) – Harold's death in Blue Shift
+[^ref-56]: [MobyGames – Blue Shift user review by Trixter](https://www.mobygames.com/game/144822/half-life-blue-shift/reviews/) – a single player review on the separate compilation record (ID 144822), cited only for the reviewer's own opinions
+[^ref-57]: [GameSpy – Blue Shift Review, page 2 (Archive)](https://web.archive.org/web/20020418221457/http://www.gamespy.com/reviews/June01/blueshift/index2.shtm) – "more of the same" factor, no new weapons or enemies
+[^ref-58]: [Eurogamer – Free Half-Life 1 expansion (news, August 25, 2005)](https://www.eurogamer.net/news250805blueshift) – Blue Shift now available on Steam
+[^ref-59]: [Combine OverWiki – Barney Calhoun](https://combineoverwiki.net/wiki/Barney_Calhoun) – voice actor, speaking-role note
+[^ref-60]: [PC Zone #105 (August 2001), Dennis Publishing – Internet Archive scan](https://archive.org/details/PC_Zone_Issue_105_2001-08_Dennis_Publishing_GB) – Blue Shift review, p. 72: "doesn't even have an end of game boss"
