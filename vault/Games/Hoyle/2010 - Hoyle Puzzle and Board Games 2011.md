@@ -10,14 +10,14 @@ series: Hoyle
 engine: null
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of 30 board, card,
  word and puzzle games released by Encore Software for Windows and Mac in August 2010.
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ The Hoyle series began in 1989 with Sierra On-Line's Hoyle's Official Book of Ga
 By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com, a user-contributed product database, lists Zoo Games as a publisher; no other listing found names Zoo Games.[^ref-4][^ref-10] No individual development credits for this edition were found. MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
 
 ### Technical Achievements
-The retail release came on a hybrid Mac/PC install disc, and the Mac version is a Universal Binary.[^ref-2] The publisher supplied the manual on the disc rather than as a printed booklet.[^ref-9]
+The retail release came on a hybrid Mac/PC install disc, and the Mac version is a Universal Binary.[^ref-2] An Australian retail listing describes the manual as supplied on the disc rather than as a printed booklet.[^ref-9]
 
 ### Technical Specifications
 
@@ -106,9 +106,9 @@ Both listings require a 33.6 Kbps modem or faster for internet features.[^ref-4]
 - **Distributor:** Arvato digital services Canada, Inc.
 
 ### Technical Issues
-One user who bought the download version reported that it froze a 64-bit Windows 7 PC on launch, forcing a power-off. Windows' own compatibility troubleshooter suggested Windows XP (SP2) mode, but that did not fix it either.[^ref-12]
+One user who bought the download version reported that it froze a 64-bit Windows 7 PC on launch, forcing a power-off. Windows' own compatibility troubleshooter suggested Windows XP mode, but that did not fix it either.[^ref-12]
 
-A JustAnswer question from a user of an earlier Encore edition, who asked whether "the 2011 version" had fixed the problems, described Zilch's voices and sounds stopping on the second dice roll and returning on the third. The same user had trouble placing Pachisi tokens on circled spots, on both Windows 7 and Windows XP. That user also wrote: "I never encountered any issues with Hoyle games when they were produced by Sierra."[^ref-8] Both games were also in the preceding edition.[^ref-26]
+A JustAnswer question from a user who did not say which edition they owned, but asked whether "the 2011 version" had fixed the problems, described Zilch's voices and sounds stopping on the second dice roll and returning on the third. The same user had trouble placing Pachisi tokens on circled spots, on both Windows 7 and Windows XP. That user also wrote: "I never encountered any issues with Hoyle games when they were produced by Sierra."[^ref-8] Both games were also in the preceding edition.[^ref-26]
 
 One buyer found four catalog pages of blank entries offered with "Buy Now" for zero Hoyle Bucks.[^ref-5] Another reported that anti-virus and malware scanners flagged the installation disc as "unwanted software." That buyer opted out of the bundled extras offered during installation, but the anti-virus program still objected and removed parts of what was installed.[^ref-5] Retail listings advise disabling antivirus and firewall software before installing.[^ref-4][^ref-24]
 
@@ -125,7 +125,7 @@ One buyer found four catalog pages of blank entries offered with "Buy Now" for z
 - The ESRB notes that one Hoyle Bucks item is a poster of a swimsuit model captioned "Rrrrrowr! This bathing beauty is making cat lovers left and right," and that one character is depicted with a cigar in his mouth.[^ref-23]
 - The retail version ships on a hybrid Mac/PC disc.[^ref-2]
 - Despite the "2011" branding, the game was released in 2010.[^ref-3][^ref-4]
-- The retail version includes the manual on the disc rather than as a physical booklet.[^ref-9]
+- The Australian retail version, per a seller listing, includes the manual on the disc rather than as a physical booklet.[^ref-9]
 
 ## Legacy
 
@@ -139,7 +139,7 @@ Wikipedia lists the next edition, Hoyle Puzzle & Board Games [2012] (released 20
 The Gamesmen listing now shows the product as "No Longer Available."[^ref-4]
 
 ### Related Publications
-- **On-Disc Manual:** The manual is supplied on the installation disc.[^ref-9]
+- **On-Disc Manual:** The Australian retail listing says the manual is supplied on the installation disc.[^ref-9]
 
 ## Downloads
 
