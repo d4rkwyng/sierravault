@@ -10,18 +10,18 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-11-01'
 description: Hoyle Casino 2008 is Encore Software's fall 2007 edition of the Hoyle
  casino series, a combined Windows/Mac DVD marketed as "the best-selling casino game of all time."
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2008
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2008 is an edition of the long-running Hoyle casino game franchise, marketed as "the best-selling casino game of all time."[^ref-1][^ref-2] Published by Encore Software, it was advertised as offering more than 600 variations of 16 popular casino games, set in a "realistic Vegas environment" pitched at "novice and expert computer users alike."[^ref-2][^ref-3] Despite the "2008" in its title, it reached US shelves in fall 2007, with GameFAQs, Metacritic and RAWG giving October 1, 2007 and IGN September 11, 2007.[^ref-7][^ref-9][^ref-10][^ref-20] It shipped on a combined PC/Mac DVD, and Mac users at the time greeted it as the return of Hoyle games to the Mac with Mac OS X support, the last Mac OS 9 versions having come from Sierra in 2002.[^ref-4][^ref-23]
+Hoyle Casino 2008 is an edition of the long-running Hoyle casino game franchise, marketed as "the best-selling casino game of all time."[^ref-1][^ref-2] Published by Encore Software, it was advertised as offering more than 600 variations of 16 popular casino games, set in a "realistic Vegas environment" pitched at "novice and expert computer users alike."[^ref-2][^ref-3] Despite the "2008" in its title, it reached US shelves in fall 2007, with GameFAQs, Metacritic and RAWG giving October 1, 2007 and IGN September 11, 2007.[^ref-7][^ref-9][^ref-10][^ref-20] It shipped on a combined PC/Mac DVD, and one Inside Mac Games forum user, Rob052067, greeted it as the return of Hoyle games to the Mac with Mac OS X support, the last Mac OS 9 versions having come from Sierra in 2002.[^ref-4][^ref-23]
 
 The game follows the tradition of Sierra's Hoyle's Official Book of Games series, which began in 1989 and spun off the dedicated Hoyle Casino line in 1996.[^ref-5][^ref-25] Wikipedia states that a bug in the 2007 edition, which froze card games for 30 seconds after each bet, was fixed in Hoyle Casino 2008, although that statement carries a "citation needed" tag and no other source for it has been found.[^ref-5]
 
@@ -61,7 +61,7 @@ Hoyle Casino 2008 included an online version of Texas Hold 'Em.[^ref-2][^ref-8]
 
 ### Contemporary Reviews
 
-Impulse Gamer's James Wright reviewed the PC version in February 2008 and scored it 7.2. He praised the variety of games and the poker games' "real-world odds," but found the graphics dated, the sound effects "a little sparse," and the AI "extremely harsh and unforgiving." He concluded that the game "feels a little 'lacking' when compared to other Hoyle game titles," though it was "Still worth the price."[^ref-23]
+Impulse Gamer's James Wright reviewed the PC version in February 2008 and scored it 7.2. He praised the variety of games and the realistic games that use "real-world odds," but found the graphics dated, the sound effects "a little sparse," and the AI "extremely harsh and unforgiving." He concluded that the game "feels a little 'lacking' when compared to other Hoyle game titles," though it was "Still worth the price."[^ref-23]
 
 Amazon's listing shows an average of 3.6 out of 5 stars from 44 global ratings; the UK store itself has no UK reviews, and the written reviews shown come from US and Canadian buyers.[^ref-1] US reviewer Robert C. Walker called them "boring games," while another buyer, Sam, was "very disappointed in this dvd-not very realistic,not much fun and not so user friendly."[^ref-1]
 
@@ -127,16 +127,16 @@ According to Wikipedia's uncited statement, the 30-second freeze after bets in t
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 2008 | September 11, 2007 | Windows | Initial release date per IGN[^ref-9] |
-| 2008 | October 1, 2007 | Windows, Mac | US release (Encore Software), ESRB T[^ref-7][^ref-10][^ref-20][^ref-22] |
-| 2008 | April 7, 2008 | Windows | EU release (Greenstreet Games)[^ref-20] |
+| 2008 | September 11, 2007 | Windows, Mac | Initial release date per IGN[^ref-9] |
+| 2008 | October 1, 2007 | Windows, Mac | US release (Encore Software), ESRB T[^ref-7][^ref-20][^ref-22] |
+| 2008 | April 7, 2008 | Windows, Mac | EU release (Greenstreet Games, per GameFAQs); IGN lists the same date for PC and Mac[^ref-20][^ref-9] |
 | Digital | April 2008 | Mac | First digital download, via Macgamestore.com, $19.95[^ref-8] |
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The Hoyle Casino franchise was already a commercial success before this edition. In North America, Hoyle Casino 2000 sold 230,365 units and earned $6.15 million from January through October 2000, according to PC Data.[^ref-5] Marketing for the 2008 edition called the series "the best-selling casino game of all time."[^ref-1][^ref-2]
+The Hoyle Casino franchise was already a commercial success before this edition. In North America, Hoyle Casino 2000 sold 230,365 units and earned $6.15 million from January through October 2000, according to PC Data, which Quarter to Three reported from PC Data's year-to-date figures through the end of October.[^ref-5][^ref-26] Marketing for the 2008 edition called the series "the best-selling casino game of all time."[^ref-1][^ref-2]
 
 ### Platform Expansion
 
@@ -239,9 +239,10 @@ The game is also listed in IGDB and GameFAQs.[^ref-13][^ref-20][^ref-22]
 [^ref-9]: [IGN – Hoyle Casino 2008](https://www.ign.com/games/hoyle-casino-2008/user-reviews) – September 11, 2007 initial release, NR
 [^ref-10]: [RAWG – Hoyle Casino 2008](https://rawg.io/games/hoyle-casino-2008) – October 1, 2007 release date, not rated
 [^ref-11]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – 2016 release date, Steam App ID, later version system requirements
-[^ref-13]: [IGDB - Hoyle Casino 2008](https://www.igdb.com/games/hoyle-casino-2008) - IGDB
+[^ref-13]: [IGDB – Hoyle Casino 2008](https://www.igdb.com/games/hoyle-casino-2008) – entry exists, ESRB T
 [^ref-20]: [GameFAQs – Hoyle Casino 2008 (PC)](https://gamefaqs.gamespot.com/pc/943485-hoyle-casino-2008/data) – US release 10/01/07 (Encore Software, T), EU release 04/07/08 (Greenstreet Games), ESRB descriptors
 [^ref-22]: [GameFAQs – Hoyle Casino 2008 (Macintosh)](https://gamefaqs.gamespot.com/mac/609396-hoyle-casino-2008) – Mac version, Encore Software, October 1, 2007, product description
 [^ref-23]: [Impulse Gamer – Hoyle Casino Games 2008 PC Review](https://impulsegamer.com/pchoylecasinogames2008.html) – James Wright, February 2008, 7.2 score, feature list (face creator, PC/Mac DVD)
 [^ref-24]: [Steam – Hoyle Official Casino Games](https://store.steampowered.com/app/532950/) – 2016 release, system requirements, unlisted at the publisher's request
 [^ref-25]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – parent series from 1989, Hoyle Casino spin-off in 1996, Encore publishing 2005–2016
+[^ref-26]: [Quarter to Three – PC Data's bestselling games of 2000 (Wayback, 2019 capture)](https://web.archive.org/web/20190629130911/https://www.quartertothree.com/features/pcdata_top_10/years_bestsellers.shtml) – Hoyle Casino 2000 "selling 230,365 copies and netting $6,151,369"; PC Data figures through the end of October
