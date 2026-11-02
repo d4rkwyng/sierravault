@@ -10,16 +10,16 @@ series: "Standalone"
 engine: null
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 ---
 
 # Lost Cities
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
-**Lost Cities** is a digital card game for Xbox Live Arcade, developed by Sierra Online Shanghai (formerly Studio Ch'in) and published by Sierra Online, the Vivendi Games division that published its Xbox Live Arcade titles.[^ref-8][^ref-25][^ref-28] Sierra Online announced it on March 24, 2008,[^ref-7][^ref-26] and it was released on April 23, 2008, for 800 Microsoft Points, worldwide except Japan and Korea.[^ref-21][^ref-15] It adapts Reiner Knizia's 1999 card game of the same name.[^ref-6][^ref-3][^ref-25]
+**Lost Cities** is a digital card game for Xbox Live Arcade, developed by Sierra Online Shanghai (formerly Studio Ch'in) and published by Sierra Online, the Vivendi Games division that published its Xbox Live Arcade titles.[^ref-8][^ref-25][^ref-28] Sierra Online announced it on March 24, 2008,[^ref-7][^ref-26] and it was released on April 23, 2008, for 800 Microsoft Points, worldwide except Japan and Korea.[^ref-21][^ref-15] It adapts Reiner Knizia's 1999 card game of the same name.[^ref-2][^ref-6][^ref-25]
 
 Players mount expeditions to five lost cities, each represented by a colored suit of cards, and must manage risk and timing so that each expedition they start returns a profit rather than a loss.[^ref-22][^ref-23] The game was removed from the Xbox Live Arcade in early 2009, only the second game ever pulled from the service.[^ref-27][^ref-14]
 
@@ -73,7 +73,7 @@ Lost Cities supports online play over Xbox Live for up to four players.[^ref-21]
 
 ### Contemporary Reviews
 
-Reviews were mixed to positive. Metacritic's 2009 listing gives a Metascore of 66, based on 17 critic reviews.[^ref-8]
+Reviews were mixed. Metacritic's 2009 listing gives a Metascore of 66, based on 17 critic reviews.[^ref-8]
 
 TeamXbox scored it 85. Its review said "Simple gameplay, great presentation and a finely tuned balance of luck and skill are the elements that made Lost Cities a hit with card- and board-game fans, and this version just makes all of that even better."[^ref-23][^ref-8] Official Xbox Magazine also gave it 85 and called it "Live Arcade's latest gem". GameSpot gave it 80, writing "Card games don't get any more addictive than Lost Cities."[^ref-8]
 
@@ -125,7 +125,7 @@ MobyGames counts roughly 15 Sierra Online releases between 2006 and 2008. It rec
 
 ### Delisting
 
-In early 2009 Lost Cities disappeared from the Xbox Live Marketplace. 1UP reported it on April 16, 2009, as "just the second time since the Xbox Live Arcade was launched" that a game had been removed; the first was *Yaris*.[^ref-27] At the time 1UP called the reason "unclear" and pointed to Joystiq's theory of licensing problems after the Activision–Vivendi merger.[^ref-27]
+Lost Cities disappeared from the Xbox Live Marketplace between January 22, 2009 (last confirmed available) and February 20, 2009 (availability questioned), according to Delisted Games.[^ref-14] 1UP reported it on April 16, 2009, as "just the second time since the Xbox Live Arcade was launched" that a game had been removed; the first was *Yaris*.[^ref-27] At the time 1UP called the reason "unclear" and pointed to Joystiq's theory of licensing problems after the Activision–Vivendi merger.[^ref-27]
 
 On April 28, 2009, Joystiq reported, citing *Official Xbox Magazine* via GamerBytes, that "the Lost Cities license reverted back to the original licensor after the merger". Without that license, Activision could no longer sell the game.[^ref-29] Joystiq added that the trial version could still be re-downloaded but the full version could not.[^ref-29] Delisted Games likewise attributes the delisting to Sierra Online losing the license from Reiner Knizia. It records the game as last confirmed available on January 22, 2009, with its availability questioned by February 20, 2009.[^ref-14] TrueAchievements lists the game as removed from the Microsoft Store.[^ref-12]
 
@@ -149,19 +149,19 @@ The Xbox 360 XBLA version was delisted and the full game cannot be bought.[^ref-
 
 ## See Also
 
-Lost Cities was one of the tabletop adaptations that Sierra Online published on Xbox Live Arcade.[^ref-28] When Lost Cities was announced in March 2008, Shacknews listed it alongside *Uno* and "an upcoming Gin Rummy title" in the XBLA card-game genre.[^ref-26]
+When Lost Cities was announced in March 2008, Shacknews called it the latest addition to Xbox Live Arcade's card-game genre, which it said included *Uno* and "an upcoming Gin Rummy title".[^ref-26]
 
 **Related Sierra XBLA releases**
 
 - [[2007 - Carcassonne|Carcassonne]]: board game adaptation, Sierra Online Seattle
 - [[2006 - Gin Rummy|Gin Rummy]]: card game adaptation for XBLA
-- [[2008 - Lost Cities]]: Reiner Knizia card game adaptation, Sierra Online Shanghai
+
+**Previous / Next in the vault's XBLA folder:** *[[2007 - Carcassonne|← Carcassonne (June 2007)]]* | *[[2006 - Gin Rummy|Gin Rummy (September 2008) →]]*
 
 ## References
 
 [^ref-1]: [Lost Cities (video game) - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities_(video_game)) - Overview of the XBLA game; three-round structure (matches the IGN preview)
 [^ref-2]: [Lost Cities card game - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities) - Original card game reference: 1999, Reiner Knizia, 60 cards, five expeditions
-[^ref-3]: [Reiner Knizia - Wikipedia](https://en.wikipedia.org/wiki/Reiner_Knizia) - Designer biography and game credits
 [^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online released circa 15 titles 2006–2008; the division dissolved after the July 2008 Activision–Vivendi merger
 [^ref-6]: [Lost Cities BoardGameGeek](https://boardgamegeek.com/boardgame/50/lost-cities) - Original 1999 card game: designer Reiner Knizia, 2 players, community rating 7.3 (October 2026)
 [^ref-7]: [XBLA Finds Lost Cities - IGN](https://www.ign.com/articles/2008/03/24/xbla-finds-lost-cities) - IGN announcement article (Erik Brudvig): Sierra Online announcement, 800 Microsoft Points (US $10)
