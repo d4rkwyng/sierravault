@@ -10,15 +10,16 @@ series: City Building Series
 engine: 'Zeus: Master of Olympus engine (requires base game)'
 protagonist: Player as ruler of Atlantis
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-11-01'
 composer: [Henry Beckett]
 description: 'Poseidon: Master of Atlantis is the official expansion pack for Zeus:
-  Master of Olympus, developed by Impressions Games and published by Sierra...'
+  Master of Olympus, developed by Impressions Games and published by Sierra. It adds the Atlantis civilization, with new gods, heroes and
+  monsters, and more than 45 episodes in six adventures.'
 tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: November 1, 2026</small>
 
 ## Overview
 
@@ -26,7 +27,7 @@ Poseidon: Master of Atlantis is the official expansion pack for [[2000 - Zeus - 
 
 The expansion adds the Atlantis civilization to the mythological world of Zeus, with its own unique gods, monuments, heroes, monsters and industries[^ref-1]. Its box copy promises more than 45 episodes in six adventures, new gods such as Atlas and Hera, and the chance to "conquer or trade with Mayans, Egyptians, Phoenicians, and more"[^ref-2]. Missions are set around the ancient world, with new cities to build in Europe, Africa, Asia and the Americas[^ref-3].
 
-Poseidon received "favorable" reviews according to Metacritic, where it holds a score of 84[^ref-9]. Critics agreed that it changed little of Zeus's underlying design; Computer Games Magazine wrote that "none of Poseidon's new features changes Zeus' core gameplay in any meaningful way, there is an awful lot of new content here"[^ref-25].
+Poseidon received "generally favorable" reviews according to Metacritic, where it holds a score of 84 based on 8 critic reviews[^ref-33]. Critics agreed that it changed little of Zeus's underlying design; Computer Games Magazine wrote that "Though none of Poseidon's new features changes Zeus' core gameplay in any meaningful way, there is an awful lot of new content here"[^ref-25].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -88,7 +89,7 @@ The game also includes an Adventure Editor that lets players design their own my
 
 | Publication | Score |
 |---|---|
-| Metacritic | 84/100[^ref-9] |
+| Metacritic | 84/100[^ref-33] |
 | GameSpot | 8.5/10[^ref-24] |
 | IGN | 8.5/10[^ref-27] |
 | GameSpy | 85%[^ref-9] |
@@ -96,22 +97,22 @@ The game also includes an Adventure Editor that lets players design their own my
 | Game Informer | 8/10[^ref-9] |
 | 4Players | 80%[^ref-9] |
 | Computer Games Magazine | 4/5[^ref-9] |
-| Computer Gaming World | 3/5[^ref-9] |
+| Computer Gaming World | 3/5[^ref-32] |
 
 GameSpot's Ron Dulin (July 3, 2001) found that the expansion "doesn't include many new features, but it does include some significant ones," adding that "the fantastical setting has allowed the designers to take more creative license with the mission design"[^ref-24]. He welcomed the near-removal of combat, which "helps alleviate the problem of Zeus' subpar combat interface," but found building the Hippodrome "a chore"[^ref-24].
 
 IGN's Steve Butts (July 3, 2001) wrote that "with 45 missions spread out across six campaigns, Poseidon rivals Zeus for depth," and concluded that "Poseidon is a great value"[^ref-27]. Computer Games Magazine's Dave Markell judged that "Poseidon is merely (much) more of the same, but you'll be having too much fun to care"[^ref-25].
 
-GameSpy's William Harms (July 2001) put Poseidon among expansions that "simply offer more of the same," saying it "offers the same great gameplay that Zeus provided"[^ref-26]. GameVortex's Phil Bordelon wrote that "Poseidon keeps up the solid gameplay of the original release of Zeus as well"[^ref-11].
+GameSpy's William Harms (July 2001) put Poseidon among expansions that "simply offer more of the same," saying it "offers the same great gameplay that Zeus provided"[^ref-26]. GameVortex's Phil Bordelon wrote that "Poseidon keeps up the solid gameplay of the original release of Zeus as well"[^ref-11]. Computer Gaming World's Tom Price (November 2001, p. 108) gave it three stars out of five; he thought the new goodies "seem like nothing more than a bunch of new icons that don't have any impact on the gameplay," and called the adventure editor "the one thing serious ZEUS fans will have to fall back on"[^ref-32].
 
 The base game had been reviewed separately; see [[2000 - Zeus - Master of Olympus]] for its reception.
 
 ### Modern Assessment
 
-The Zeus + Poseidon bundle holds a 4.7/5 user rating from 318 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,922 user reviews) on Steam[^ref-28].
+The Zeus + Poseidon bundle holds a 4.7/5 user rating from 319 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,931 user reviews) on Steam[^ref-28], as of November 2026.
 
 **Aggregate Scores:**
-- **Metacritic:** 84/100[^ref-9]
+- **Metacritic:** 84/100[^ref-33]
 - **MobyGames (Poseidon):** 80% critic average[^ref-1]
 - **MobyGames (Acropolis compilation):** 81%[^ref-13]
 - **GOG.com (Zeus + Poseidon):** 4.7/5[^ref-7]
@@ -172,30 +173,33 @@ Steam's listing gives lower minimums for the same bundle: Windows XP through 10,
 | 2.1 | November 21, 2001 | Windows | Bug fix patch[^ref-30] |
 
 **Patch 2.1 Details:**[^ref-30]
-The version 2.1 patch fixed, among other issues:
+MobyGames lists the version 2.1 patch as fixing:
 - Greek custom adventures showing up as Atlantean custom adventures
 - Pyramids becoming corrupt after delete/undo
-- The game pausing when certain structures were deleted
-- Resource gatherers not finding the closest available resources
-- Hera being slow to rebuff Zeus when he invades
-- Pyramids destroyed by disasters not being rebuildable
+- The game pausing when deleting certain structures
+- Resource gatherers being better able to find the closest available resources
+- Hera being quicker to rebuff Zeus when he invades
+- Pyramids destroyed by disasters being rebuildable
+- Setting a "Slay" goal in the editor causing an exit to desktop
 - "Doubled" fishing points
-- Dionysus not preventing unrest properly
-- Armies getting stuck on the world level
+- Dionysus now preventing unrest properly
+- An uncommon situation where armies get stuck on the world level
 - Disasters permanently killing heroes
 - Heroes getting stuck on Hippodrome crosswalks
-- Setting a "Slay" goal in the editor causing an exit to desktop
+- Custom adventures slipping into open play mode
+- Adventure creators no longer needing to include the .set file when exchanging adventures
+- On-loan troops getting stuck on the edge of the screen when returning home
 
 ### Technical Issues
 
-GameSpot rated the reviewed version's stability as "minor problems"[^ref-24]. The 2.1 patch later addressed construction problems with pyramids, pauses when deleting structures, divine interventions that did not work as intended, and Greek custom adventures appearing as Atlantean ones[^ref-30].
+GameSpot rated the reviewed version's stability as "minor problems"[^ref-24]. The 2.1 patch later addressed pyramid corruption after delete/undo, pauses when deleting certain structures, Hera's response to Zeus, Dionysus's unrest prevention, and Greek custom adventures appearing as Atlantean ones[^ref-30].
 
-Combat remained the weakest area. GameSpy observed that "combat has always been the weakest part of Impressions' games," and wondered whether the reduced military role was a response to Zeus's problematic combat[^ref-26]. The 2.1 patch also fixed armies getting stuck on the world map[^ref-30].
+Combat remained the weakest area. GameSpy observed that "combat has always been the weakest part of Impressions' games," and wondered whether the reduced military role was a response to Zeus's problematic combat[^ref-26]. The 2.1 patch also fixed an uncommon situation where armies got stuck on the world level[^ref-30].
 
 ### Easter Eggs and Trivia
 
 - Although Zeus was translated and released in Sweden, the Poseidon expansion never received a Swedish release[^ref-31]
-- Orichalc, the Atlantean resource in the game, comes from Plato's *Critias*, which describes orichalcum as "more precious in those days than anything except gold"[^ref-29]
+- The game's orichalc resource takes its name from the metal in Plato's *Critias*, which describes orichalcum as "more precious in those days than anything except gold"[^ref-29]
 - The game explains the reduced role of the military through a decree of the gods that forbids the Atlanteans from waging war[^ref-26]
 - The new pyramids combine Egyptian, Mayan and Greek design elements[^ref-25]
 
@@ -220,7 +224,7 @@ Sales figures for Poseidon are not available. The original US retail price was $
 
 ### Collections
 
-The Acropolis collection bundles Zeus: Master of Olympus with the Poseidon expansion, and was is credited to publishers Sierra On-Line and Activision Publishing[^ref-13]. MobyGames also lists Poseidon in The Great Empires Collection II (2001) and The Biggest Creators of Empires (2003)[^ref-1].
+The Acropolis collection bundles Zeus: Master of Olympus with the Poseidon expansion, and is credited to publishers Sierra On-Line and Activision Publishing[^ref-13]. MobyGames also lists Poseidon in The Great Empires Collection II (2001) and The Biggest Creators of Empires (2003)[^ref-1].
 
 The Zeus + Poseidon bundle is sold on GOG.com[^ref-7], where it was added to the catalog on May 10, 2012[^ref-20], and on Steam, where it was released on December 15, 2016 at $9.99[^ref-28].
 
@@ -241,8 +245,6 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 **Purchase / Digital Stores**
 - [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) - DRM-free digital version[^ref-7]
 - [Steam – Zeus + Poseidon](https://store.steampowered.com/app/566050/) - digital version[^ref-28]
-
-**Download / Preservation**
 
 ## See Also
 
@@ -275,3 +277,5 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 [^ref-29]: [Plato – Critias (Project Gutenberg, trans. Benjamin Jowett)](https://www.gutenberg.org/cache/epub/1571/pg1571.txt) – Poseidon's allotment of Atlantis, Cleito, orichalcum
 [^ref-30]: [MobyGames – Patches](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/patches/) – v2.1 patch date and fix list
 [^ref-31]: [MobyGames – Trivia](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/trivia/) – Swedish localization
+[^ref-32]: [Computer Gaming World #208 (November 2001), Tom Price, p. 108 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_208) – 3/5 stars, quoted lines on new content and the adventure editor
+[^ref-33]: [Metacritic – Poseidon (Wayback Machine, December 16, 2023)](https://web.archive.org/web/20231216235657/https://www.metacritic.com/game/poseidon/) – Metascore 84, Generally Favorable, 8 critic reviews
