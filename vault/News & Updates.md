@@ -75,7 +75,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!success] Gobliiins Collection Comes to Consoles
 > **May 27, 2026** — Red Art Games shadow-released the **Gobliiins Collection** for PS5, Xbox Series, and Switch ($24.99), bundling [[1991 - Gobliiins|Gobliiins]], [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]], [[1993 - Goblins Quest 3|Goblins Quest 3]], [[2009 - Gobliiins 4|Gobliiins 4]], and [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]]. Extras include a **new Pierre Gilhodes interview**, a mini-series gallery, and a music player. A physical PS5 edition was announced for September 2026 (Limited Game News gave September 24); SierraVault has not confirmed that it shipped.
 >
-> [Gematsu](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) · [Nintendo Life](https://www.nintendolife.com/games/switch-eshop/gobliiins_collection) · [Limited Game News (physical)](https://limitedgamenews.com/2026/06/05/gobliiins-collection-playstation-5/)
+> [Gematsu](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) · [Limited Game News (physical)](https://limitedgamenews.com/2026/06/05/gobliiins-collection-playstation-5/)
 
 > [!example] SpaceVenture — Adventure Game Hotspot Review: 73%
 > **April 3, 2026** — Adventure Game Hotspot reviewed the full release of [[2022 - SpaceVenture|SpaceVenture]] at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack. The game continues to receive fixes (v2.08.11, June 10).
