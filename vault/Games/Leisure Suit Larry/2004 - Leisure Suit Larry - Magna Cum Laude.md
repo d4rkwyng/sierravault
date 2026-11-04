@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Proprietary
 protagonist: Larry Lovage
 sierra_lineage: Late Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-04'
 description: 'Leisure Suit Larry: Magna Cum Laude (2004) is the seventh main Leisure
   Suit Larry game, a minigame-driven 3D comedy by High Voltage Software starring Larry
   Laffer''s nephew Larry Lovage, made without series creator Al Lowe.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 4, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ The game received mixed reviews, with critics often praising its humor and dialo
 
 Larry Lovage is a seventh-year junior at Walnut Log Community College,[^ref-29] a hapless young man who has learned everything he knows from his uncle, Larry Laffer—the famous polyester-clad fellow who starred in the previous games.[^ref-2] When the reality dating show "Swingles" comes to campus, Larry sees his opportunity to finally achieve romantic success and live up to the legend of his uncle.[^ref-9][^ref-29]
 
-The game follows Larry as he attempts to woo sixteen college girls, winning "tokens of affection" from them to earn his place on the Swingles show.[^ref-1][^ref-10] The game's retail feature list promised 25 interactive locations, including the girls' dorm, a frat house and a nightclub;[^ref-11] Larry's pursuits also take him into the campus library.[^ref-10] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
+The game follows Larry as he attempts to woo sixteen college girls, winning "tokens of affection" from them to earn his place on the Swingles show.[^ref-1][^ref-10] The game's retail feature list promised 25 different locations across the college campus and adjoining parts of town, including frat parties;[^ref-11] Larry's pursuits also take him into the campus library.[^ref-10] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
 
 After several rounds on the Swingles show, Larry becomes a finalist and goes on a date with three girls, choosing one of them to bring back to his room.[^ref-1] The finalists are always the same three: Barbara Jo, Morgan, and Suzie; the player's pick among them determines which of the game's three endings plays.[^ref-2][^ref-12]
 
@@ -152,7 +152,7 @@ Writer Cary Okmin, who said he and his writing partner had been hired to write t
 
 The game marked the franchise's leap into full 3D graphics;[^ref-4] one MobyGames player review notes that the characters are motion-captured, "though the lip synching can look very off at times."[^ref-34] Performance drew criticism mainly on consoles: GameSpot found the console versions' load times "horrendous" while the PC version was "entirely devoid" of them,[^ref-7] and Eurogamer called the PS2 version's loading "horrendous" and the game "one of the least optimised pieces of coding we've seen in a good while."[^ref-26]
 
-The game's retail feature list advertised more than 90,000 words of spoken dialogue,[^ref-11] and GameSpot put the whole game at "about a dozen hours long."[^ref-7]
+The game's retail feature list advertised more than 90,000 words of dialogue, all in real time,[^ref-11] and GameSpot put the whole game at "about a dozen hours long."[^ref-7]
 
 ### Technical Specifications
 
@@ -340,7 +340,7 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 [^ref-8]: [Gamicus Wiki – Leisure Suit Larry: Magna Cum Laude](https://gamicus.fandom.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – version information, ESRB ratings, release dates
 [^ref-9]: [GOG.com Store Page](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – game description
 [^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – walkthrough: winning each girl's token of affection, campus library
-[^ref-11]: [Trade Post Entertainment](https://tradepostentertainment.com/games/02062672215) – retail feature list: "25 interactive locations", "more than 90,000 words of spoken dialogue"
+[^ref-11]: [PS2 Home – Leisure Suit Larry: Magna Cum Laude](https://www.ps2home.co.uk/leisure-suit-larry-magna-cum-laude/) – publisher feature copy: "Explore 25 different locations including college campus and adjoining parts of town"; "More than 90,000 words of dialogue, all in real time"
 [^ref-12]: [TV Tropes – YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryMagnaCumLaude) – final choice limited to Barbara Jo, Morgan and Suzie; Koko gag called "very, very tasteless"
 [^ref-13]: [Game Developer – "Playing Catch-Up: Al Lowe" (Frank Cifaldi, July 18, 2005)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) – Lowe's contract and "ransom video" quotes about Magna Cum Laude
 [^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0421136/movieconnections/) – references, parodies, Goldfinger line, followed by Box Office Bust (2009), Reloaded narrator jab

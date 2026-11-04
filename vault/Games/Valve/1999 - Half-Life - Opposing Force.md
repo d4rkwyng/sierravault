@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Corporal Adrian Shephard
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-04'
 composer: [Chris Jensen]
 description: 'Half-Life: Opposing Force is the first official expansion pack for Valve''s
   acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and
@@ -19,11 +19,11 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 4, 2026</small>
 
 ## Overview
 
-Half-Life: Opposing Force is the first official expansion pack for Valve's acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and published by Sierra Studios in November 1999[^ref-1]. The expansion represented a bold creative choice: instead of continuing Gordon Freeman's story, players assumed the role of Corporal Adrian Shephard, a U.S. Marine sent to the Black Mesa Research Facility—one of the enemy soldiers from the original game[^ref-2]. This innovative perspective shift allowed players to experience the catastrophic Black Mesa incident from an entirely new viewpoint while maintaining the intense atmosphere and gameplay that made Half-Life revolutionary[^ref-3].
+Half-Life: Opposing Force is the first official expansion pack for Valve's acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and published by Sierra Studios in November 1999[^ref-1]. The expansion represented a bold creative choice: instead of continuing Gordon Freeman's story, players assumed the role of Corporal Adrian Shephard, a U.S. Marine sent to the Black Mesa Research Facility—one of the enemy soldiers from the original game[^ref-2]. This innovative perspective shift allowed players to experience the catastrophic Black Mesa incident from an entirely new viewpoint while maintaining the intense atmosphere and gameplay that made Half-Life revolutionary[^ref-2][^ref-21].
 
 The expansion was significant not only for its quality but for establishing Gearbox Software as a capable developer. In the April 1999 announcement press release, Randy Pitchford stated that "our number one goal is to preserve the integrity of Half-Life and provide new experiences that expand upon the sensation of the original"[^ref-2]. Critics hailed Opposing Force as a new benchmark for expansion packs, with GameSpot's Erik Wolpaw declaring it "sets a new standard of quality for future action-game mission packs"[^ref-4]. The game went on to win the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences in 2000[^ref-1], and PC Gamer US called it the first expansion pack to be considered for Game of the Year[^ref-2].
 
@@ -139,7 +139,7 @@ Half-Life: Opposing Force was announced on April 15, 1999, just months after the
 
 The concept for Opposing Force was pitched by Randy Pitchford, who likened it to the play "Rosencrantz and Guildenstern Are Dead"—a story that retells Hamlet from the perspective of two minor characters[^ref-1]. Valve co-founder Gabe Newell was reportedly interested in a Rashomon-esque structure inspired by Lawrence Durrell's "The Alexandria Quartet" novels[^ref-1]. The original concept had Shephard as part of a rogue marine faction, but this was simplified during development[^ref-5].
 
-Gearbox Software was founded in February 1999 by five developers formerly of the defunct studio Rebel Boat Rocker[^ref-1][^ref-42], and the expansion was essentially the new studio's first project[^ref-3]. Rebel Boat Rocker's own game, *Prax War*, was never released; asked in 1999 what had happened to its code, Pitchford replied that "Prax War is owned by EA"[^ref-10][^ref-14]. Despite being under "very strong surveillance" from Valve throughout development, Gearbox "created the same intense atmosphere from Half-Life"[^ref-14].
+Gearbox Software was founded in February 1999 by five developers formerly of the defunct studio Rebel Boat Rocker[^ref-1][^ref-42], and the expansion was essentially the new studio's first project[^ref-42]. Rebel Boat Rocker's own game, *Prax War*, was never released; asked in 1999 what had happened to its code, Pitchford replied that "Prax War is owned by EA"[^ref-10][^ref-14]. Despite being under "very strong surveillance" from Valve throughout development, Gearbox "created the same intense atmosphere from Half-Life"[^ref-14].
 
 ### Production
 
@@ -313,7 +313,6 @@ For Gearbox Software, Opposing Force was the start of a long run of work with Va
 
 [^ref-1]: [Combine OverWiki – Half-Life: Opposing Force](https://combineoverwiki.net/wiki/Half-Life:_Opposing_Force) – development history, awards, sales data, technical specs, demo information
 [^ref-2]: [Wikipedia – Half-Life: Opposing Force](https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force) – release dates, development timeline, sales figures, awards, team size
-[^ref-3]: [Retrospect Game Reviews](https://retrospect-reviews.com/reviews/half-life-opposing-force) – gameplay analysis, first Gearbox project
 [^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/half-life-opposing-force-review/1900-2543541/) – 9/10 score, Erik Wolpaw review, squad mechanics, multiplayer
 [^ref-5]: [Half-Life Fandom Wiki](https://half-life.fandom.com/wiki/Half-Life:_Opposing_Force) – easter eggs, hidden messages, early pitch details
 [^ref-6]: [Port Forward Walkthrough – Intro](https://portforward.com/games/walkthroughs/Half-Life-Opposing-Force/Intro.htm) – opening sequence description
