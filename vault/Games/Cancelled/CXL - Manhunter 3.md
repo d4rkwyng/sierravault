@@ -10,7 +10,7 @@ series: Manhunter
 engine: Unknown (never entered production)
 protagonist: The Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game, planned
   as the third installment in the Manhunter series. Teased in Manhunter 2: San Francisco,
   it never went beyond the concept stage after Evryware and Sierra parted ways in 1989.'
@@ -18,13 +18,13 @@ tags: [adventure, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
 Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased in 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
 
-Manhunter 3: London was never made, although the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only reported revival effort is an unverified 2008 forum claim (see Revival Attempts).[^ref-10][^ref-3]
+Manhunter 3: London was never made, although the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The Science Fiction Encyclopedia likewise says Evryware's intended third game, meant to tie up plot threads from Manhunter 2, "was never released."[^ref-23] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only revival claims found in the sources cited here are two unverified posts, one from a 2000 newsgroup thread and one from a 2008 forum (see Revival Attempts).[^ref-10][^ref-25][^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Evryware]][^ref-1]
@@ -49,7 +49,7 @@ A 2008 forum post, discussed under Revival Attempts below, claimed that a revive
 
 ### Interface and Controls
 
-The first two Manhunter games used Sierra's Adventure Game Interpreter (AGI) development tool but diverged significantly from other AGI games by not using a text parser.[^ref-5] Instead, the games featured a rudimentary point-and-click interface that foreshadowed later games like Myst.[^ref-5] No details of the interface planned for a third game are known.[^ref-2]
+The first two Manhunter games used Sierra's Adventure Game Interpreter (AGI) development tool but diverged significantly from other AGI games by not using a text parser.[^ref-5] Instead, the games featured a rudimentary point-and-click interface that foreshadowed later games like Myst.[^ref-5][^ref-23] No details of the interface planned for a third game are known.[^ref-2]
 
 The series was notable for incorporating a first-person perspective rather than the third-person view common in other Sierra adventures.[^ref-5] The Manhunter games featured no live dialogues; much of the gameplay revolved around tracking individuals with the MAD device to unlock new places and addresses.[^ref-5]
 
@@ -73,7 +73,7 @@ According to the Larry Laffer Dot Net shrine, Manhunter: New York was released i
 
 The question of why no third game appeared has been raised by fans in forums such as a 2003 Sierra Gamers thread asking "Why was there never a third game?"[^ref-4] The Manhunter series as a whole is remembered for its gritty, sometimes gory visuals, unique interface, and use of real-life locations that set it apart from Sierra's other, more family-oriented titles.[^ref-5][^ref-19]
 
-The shrine credits the series with bizarre camera angles, picture-in-a-picture views, long pans, extreme close-ups, overhead shots, and faux 3-D sequences.[^ref-2] Modern reviews are mixed: Just Games Retro's review of Manhunter 2 criticises its repetitive structure and still-painful arcade sequences.[^ref-6]
+The shrine credits the series with bizarre camera angles, picture-in-a-picture views, long pans, extreme close-ups, overhead shots, and faux 3-D sequences.[^ref-2] Modern reviews are mixed: Just Games Retro's review of Manhunter 2 criticises its repetitive structure and still-painful arcade sequences.[^ref-6] Adventure Classic Gaming's review of Manhunter 2 rated it 3 out of 5 and said of the arcade sequences that they "have made a comeback and are worse than ever."[^ref-26]
 
 **Aggregate Scores:**
 - Not applicable (game was never released)
@@ -82,13 +82,13 @@ The shrine credits the series with bizarre camera angles, picture-in-a-picture v
 
 ### Origins
 
-The Manhunter series was the brainchild of Barry Murry, Dave Murry, and Dee Dee Murry of Evryware Inc.; Barry and Dave had been creating computer games together since 1979.[^ref-2][^ref-16] Barry and Dave had previously earned accolades for The Ancient Art of War (1984) and The Ancient Art of War at Sea (1987), both published by Brøderbund.[^ref-2][^ref-18] They had also created Sierra Championship Boxing, which Sierra published in 1983 after a Microsoft contact introduced their game to Ken Williams.[^ref-2][^ref-16]
+The Manhunter series was the brainchild of Barry Murry, Dave Murry, and Dee Dee Murry of Evryware Inc.; Barry and Dave had been creating computer games together since 1979.[^ref-2][^ref-16] Other sources date the company slightly later: Evryware's own chronology lists its earliest work as CP/M games from 1980 to 1982, and Retro365 says the company was established in 1980 by Dave Murry and Joe Gargiulo.[^ref-21][^ref-24] Dee Dee Murry has served as Evryware's lead artist since 1984 and worked on the Manhunter series.[^ref-22] Barry and Dave had previously earned accolades for The Ancient Art of War (1984) and The Ancient Art of War at Sea (1987), both published by Brøderbund.[^ref-2][^ref-18][^ref-21] They had also created Sierra Championship Boxing, which Sierra published in 1983 after a Microsoft contact introduced their game to Ken Williams.[^ref-2][^ref-16][^ref-24] Evryware's chronology also dates Sierra Championship Boxing to 1983.[^ref-21]
 
-While the Murrys were working on The Ancient Art of War at Sea, Sierra offered them the chance to use its game system to make whatever kind of game they wanted.[^ref-2][^ref-16] The Murrys decided that they wanted this new game to be different from any of the other adventure games for which Sierra was becoming famous.[^ref-2] Their concept went through many different changes over the course of the design process, resulting in the unique style that would define the Manhunter series.[^ref-2]
+While the Murrys were working on The Ancient Art of War at Sea, Sierra offered them the chance to use its game system to make whatever kind of game they wanted; Retro365 places Sierra's approach in late 1987.[^ref-2][^ref-16][^ref-24] The Murrys decided that they wanted this new game to be different from any of the other adventure games for which Sierra was becoming famous.[^ref-2] Their concept went through many different changes over the course of the design process, resulting in the unique style that would define the Manhunter series.[^ref-2]
 
 ### Production
 
-No production of Manhunter 3: London is documented. The Larry Laffer Dot Net shrine states that "the association between Evryware and Sierra ended in 1989 and the two companies never partnered up again," and that no deal was ever struck to move the third game into production.[^ref-2] The next Evryware project discussed in a 1997 interview, after the two Manhunter games, was The Ancient Art of War in the Skies, begun "to complete our war trilogy"; it was published by MicroProse in 1992.[^ref-16][^ref-20]
+No production of Manhunter 3: London is documented. The Larry Laffer Dot Net shrine states that "the association between Evryware and Sierra ended in 1989 and the two companies never partnered up again," and that no deal was ever struck to move the third game into production.[^ref-2] The next Evryware project discussed in a 1997 interview, after the two Manhunter games, was The Ancient Art of War in the Skies, begun "to complete our war trilogy"; it was published by MicroProse in 1992.[^ref-16][^ref-20][^ref-21] Evryware's own chronology lists no third Manhunter game between Manhunter: San Francisco (1989) and that 1992 title.[^ref-21]
 
 Sierra co-founder Ken Williams offered a different recollection in a 2003 Sierra Gamers forum post, opening with "I hope I am remembering this right." He wrote that he had the Murrys "planned for Manhunter 3," but encouraged them to pursue their idea for Ancient Art of War, which Brøderbund then convinced them to publish; under his rule of never being the "high bidder," they never returned to Sierra.[^ref-4] Williams's account does not match the published chronology: The Ancient Art of War was released by Brøderbund in 1984, four years before Manhunter: New York, as another poster in the same thread pointed out.[^ref-4][^ref-18][^ref-19] In the same post Williams recalled that Brøderbund recalled the first Ancient Art of War box because the writing on its pictured vase turned out to be x-rated; this anecdote rests only on his recollection.[^ref-4]
 
@@ -99,7 +99,7 @@ Sierra co-founder Ken Williams offered a different recollection in a 2003 Sierra
 
 ### Technical Achievements
 
-Manhunter 2: San Francisco was Sierra's final AGI-based title, after which Sierra focused exclusively on SCI for new adventure game development.[^ref-17] The Murrys said they used unusual camera angles, extreme close-ups, first-person views, long pans, aerial views and picture-in-a-picture, "many other things that hadn't been used before but became standard soon after," and that Manhunter was the first Sierra title with a no-text, point-and-click interface.[^ref-16]
+Manhunter 2: San Francisco was Sierra's final AGI-based title, after which Sierra focused exclusively on SCI for new adventure game development.[^ref-17] The Murrys said they used unusual camera angles, extreme close-ups, first-person views, long pans, aerial views and picture-in-a-picture, "many other things that hadn't been used before but became standard soon after," and that Manhunter was the first Sierra title with a no-text, point-and-click interface.[^ref-16] Retro365 similarly says such techniques "would for the most part become standard in the genre later on."[^ref-24]
 
 No engine was ever specified for Manhunter 3: London, since the game never entered production.[^ref-2]
 
@@ -123,12 +123,14 @@ No technical specifications exist for the cancelled Manhunter 3: London. For ref
 
 | Game | Interpreter | Notes |
 |------|-------------|-------|
-| Manhunter: New York | AGI | Released 1988 |
-| Manhunter 2: San Francisco | AGI | Final AGI game, 1989 |
+| Manhunter: New York | AGI | Released 1988[^ref-21] |
+| Manhunter 2: San Francisco | AGI | Final AGI game, 1989[^ref-21] |
 
 ### Revival Attempts
 
 In a 1997 Games Domain interview, Evryware said they did not own the rights to Manhunter but would "like to eventually do another Manhunter," adding that they did not have the time.[^ref-16]
+
+In a November 2000 thread on the Usenet group comp.sys.ibm.pc.games.adventure, titled "manhunter series - what ever happened," a reply said that "Earlier this year, Manhunter 3 looked like it was a go," that the developers were "still trying to get the license from Sierra as far as I know," and pointed readers to an Evryware Manhunter 3 page that was no longer linked from the main site. The same reply said that "originally the next game in the series was to be Manhunter 3: London."[^ref-25] This is an anonymous, second-hand and unverified claim, and Evryware's own chronology lists no such game.[^ref-25][^ref-21]
 
 In August 2008, a first-time poster on the AGD Interactive forums claimed to have emailed "the one Murray, Mike," who said the developers were working on a Manhunter London game and trying to polish a demo to pitch to a publisher.[^ref-3] The same post said the game would not necessarily be called "London" because, after 20 years, the developers wanted to bring in new players, and claimed the shrine's operator had been in contact with them about it.[^ref-3] The claim is second-hand and unverified, and the thread's final reply stated: "Nothing has been confirmed."[^ref-3]
 
@@ -198,3 +200,9 @@ The series was meant to be a trilogy with the third game set in London, but only
 [^ref-18]: [Wikipedia – The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War) – designed by Dave and Barry Murry, published by Broderbund in 1984
 [^ref-19]: [Wikipedia – Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) – 1988 release by Sierra On-Line; Evryware developer; gritty visuals and real locations
 [^ref-20]: [Wikipedia – The Ancient Art of War in the Skies](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War_in_the_Skies) – Evryware sequel, published by MicroProse in 1992
+[^ref-21]: [Evryware – Chronology](https://evryware.com/chronology.html) – developer's own game list with years (1980-1982 CP/M games through 1992); no third Manhunter listed
+[^ref-22]: [Evryware – The Team](https://evryware.com/team.html) – Dave and Dee Dee Murry credits; Manhunter series published by Sierra
+[^ref-23]: [The Encyclopedia of Science Fiction – Manhunter](https://sf-encyclopedia.com/entry/manhunter) – Evryware's intended third game "was never released"; interface prefigured Myst
+[^ref-24]: [Retro365 – The Manhunter series, two Sierra adventure game deviants](https://retro365.blog/2021/01/09/bits-from-my-personal-collection-the-manhunter-series-two-sierra-adventure-game-deviants/) – third installment "never materialized"; Sierra approach in late 1987; company established 1980; techniques became standard
+[^ref-25]: [Usenet comp.sys.ibm.pc.games.adventure – manhunter series - what ever happened](https://groups.google.com/g/comp.sys.ibm.pc.games.adventure/c/gmFHdSYTXog) – 24 Nov 2000 thread; unverified claim that Manhunter 3 "looked like it was a go"; "Manhunter 3: London" as the original plan
+[^ref-26]: [Adventure Classic Gaming – Manhunter 2: San Francisco review](https://www.adventureclassicgaming.com/index.php/site/reviews/183/) – Jeremiah Kauffman review; 3 of 5; arcade sequences "worse than ever"
