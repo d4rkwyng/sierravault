@@ -10,7 +10,7 @@ series: Cohort
 engine: Unknown
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: 'Cohort II: Fighting for Rome is a 1993 real-time tactics game by Impressions
   Games for DOS, Amiga and Atari ST, a VGA upgrade of Cohort that can resolve the battles
   of Impressions'' Caesar.'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ The harshest verdict on control came from the Old-Games.com review, which stated
 
 ### Structure and Progression
 
-According to the publisher's description, "over two dozen scenarios are provided (with the separate Scenario Cards)"[^ref-2]. Players can command either Roman or barbarian forces[^ref-5]. Reviewers gave differing counts: ST Format said the game "contains up to nineteen different scenarios" and that players can also create their own[^ref-5]; Amiga Joker counted eight preset armies and twenty battle scenarios in total (translated from German)[^ref-4]; CU Amiga wrote that "There are 16 preset scenarios"[^ref-4]; and Amiga Format noted that "ten new arenas of combat are unveiled by the sequel"[^ref-4]. Both ST Format and Amiga Power cite eight terrain types, which ST Format lists as open field, bridge, cliff, hill, marsh, downs, undergrowth and forest[^ref-4][^ref-5].
+According to the publisher's description, "over two dozen scenarios are provided (with the separate Scenario Cards)"[^ref-2]. Players can command either Roman or barbarian forces[^ref-5]. Reviewers gave differing counts: ST Format said the game "contains up to nineteen different scenarios" and that players can also create their own[^ref-5]; Amiga Joker counted eight preset armies and twenty battle scenarios in total (translated from German)[^ref-4]; CU Amiga wrote that "There are 16 preset scenarios"[^ref-4][^ref-30]; and Amiga Format noted that "ten new arenas of combat are unveiled by the sequel"[^ref-4]. Both ST Format and Amiga Power cite eight terrain types, which ST Format lists as open field, bridge, cliff, hill, marsh, downs, undergrowth and forest[^ref-4][^ref-5].
 
 Computer Gaming World's June 1993 listing coded the game "Int/Land/Tac/1-2" (one to two players) and gave its price as $29.95[^ref-22]. Amiga Power, reviewing the Amiga version, complained that "there's no two-player option"[^ref-4], and the Old-Games.com review likewise found that "Lack of a multi-player mode is surprising in a war game"[^ref-7].
 
@@ -69,20 +69,33 @@ The Old-Games.com review found the scenario editor/builder "difficult to operate
 
 Cohort II received mostly negative to mediocre reviews, particularly in the Amiga press, which covered the title in May–July 1993[^ref-10].
 
-**Amiga Format** awarded the game 55% in its June 1993 issue (#47), reviewed by Paul Tyrrell[^ref-10]. The review argued that "all the enhanced graphics and sound in the world won't save a flawed formula" and that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. **Amiga Power** gave a score of 52% in its June 1993 issue (#26), reviewed by Mark Winstanley (styled "Cam" Winstanley in the review)[^ref-10][^ref-4]; it judged the game "Only worth considering if you want it as an expansion for Caesar"[^ref-4].
+**Amiga Format** awarded the game 55% in its June 1993 issue (#47), reviewed by Paul Tyrrell[^ref-10][^ref-26]. The review argued that "all the enhanced graphics and sound in the world won't save a flawed formula" and that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. **Amiga Power** gave a score of 52% in its June 1993 issue (#26), reviewed by Mark Winstanley (styled "Cam" Winstanley in the review)[^ref-10][^ref-27][^ref-4]; it judged the game "Only worth considering if you want it as an expansion for Caesar"[^ref-4].
 
-**The One** provided the highest Amiga score at 63% in its May 1993 issue (#56), reviewed by David Upchurch[^ref-10]. **Amiga Action** awarded 59% in its June 1993 issue (#45), reviewed by Nick Merritt and Steve McNally[^ref-10]. **CU Amiga** gave only 35% in June 1993 (reviewer Mark Patterson)[^ref-10], calling it "an extremely shoddy package which looks as though it was chucked together on a wet weekend"[^ref-4]. **Amiga Force** gave 39% in its July 1993 issue (#7), reviewed by Ian Osborne[^ref-10].
+**The One** provided the highest Amiga score at 63% in its May 1993 issue (#56), reviewed by David Upchurch[^ref-10][^ref-24]. **Amiga Action** awarded 59% in its June 1993 issue (#45), reviewed by Steve McNally and Nick Merritt[^ref-10][^ref-25]. **CU Amiga** gave only 35% in its June 1993 issue (reviewer Mark Patterson, page 63)[^ref-10][^ref-29], calling it "an extremely shoddy package which looks as though it was chucked together on a wet weekend"[^ref-4][^ref-30]. **Amiga Force** gave 39% in its July 1993 issue (#7), reviewed by Ian Osborne[^ref-10][^ref-28].
 
 The lowest score came from the German magazine **Amiga Joker**, which awarded 28% in its May 1993 issue, reviewed by Manfred Duy[^ref-10][^ref-11]. Its review complained of "ruckelndes Scrolling und eine sehr, sehr zögerliche Mausabfrage" (translated: jerky scrolling and a very, very sluggish mouse response)[^ref-4]. The game was priced at DM 79,00 in Germany[^ref-11].
 
 **ST Format** was more favorable for the Atari ST version, awarding 68% in its July 1993 issue (#47). Reviewer Rob Mead called it "an involving, but complicated, war game which is unfortunately let down by its graphics and control mechanism"[^ref-5], adding that "the sprites move around in that jerky, slow-motion style usually associated with hiccuping tortoises"[^ref-5].
 
+**Magazine scores (Amiga Magazine Rack index and the ST Format scan on Every Game Going):**
+
+| Magazine | Issue | Platform | Score | Reviewer | Pages |
+|----------|-------|----------|-------|----------|-------|
+| The One Amiga | #56, May 1993 | Amiga | 63% | David Upchurch | 72-73[^ref-24] |
+| Amiga Action | #45, June 1993 | Amiga | 59% | Steve McNally, Nick Merritt | 38-40[^ref-25] |
+| Amiga Format | #47, June 1993 | Amiga | 55% | Paul Tyrrell | 58[^ref-26] |
+| Amiga Power | #26, June 1993 | Amiga | 52% | Mark Winstanley | 67[^ref-27] |
+| Amiga Force | #7, July 1993 | Amiga | 39% | Ian Osborne | 37[^ref-28] |
+| CU Amiga | June 1993 | Amiga | 35% | Mark Patterson | 63[^ref-29] |
+| Amiga Joker | May 1993 | Amiga | 28% | Manfred Duy | 32[^ref-11] |
+| ST Format | #47, July 1993 | Atari ST | 68% | Rob Mead | 70-71[^ref-5] |
+
 ### Modern Assessment
 
-As of October 2026, MobyGames aggregates a critic score of 43% based on 11 ratings, with a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.2[^ref-1][^ref-12]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
+In a Wayback Machine capture of its game page dated 16 October 2024, MobyGames showed a critic score of 42% based on 9 ratings, a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.3[^ref-23][^ref-12]. The live page could not be read when this was checked (5 November 2026), so these figures may have changed since. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
 
 **Aggregate Scores:**
-- **MobyGames:** 43% critic average (11 ratings), 2.9/5 player average (6 ratings)[^ref-12]
+- **MobyGames (as of 16 October 2024):** 42% critic average (9 ratings), 2.9/5 player average (6 ratings)[^ref-23]
 - **Lemon Amiga Average:** 47% (7 magazine reviews)[^ref-10]
 - **GameFAQs:** Poor (3 ratings)[^ref-13]
 
@@ -131,7 +144,7 @@ Reviewers reported numerous gameplay issues. The Old-Games.com review described 
 
 Amiga Joker criticized jerky scrolling, a very sluggish mouse response and dreadful sound effects (translated from German)[^ref-4]. Amiga Format found that "animation is poor" and the sound "tinny, unrealistic"[^ref-4]. Amiga Joker also said the German manual was unclear and did not explain the most important icons, and that the screen display was confusing (translated from German)[^ref-4]. The Old-Games.com review found the scenario editor difficult to operate and very limited[^ref-7].
 
-CU Amiga noted that "When a group meets some opposition they all tend to come to a stop even if only one unit is actually fighting," forcing separate orders for each unit[^ref-4].
+CU Amiga noted that "When a group meets some opposition they all tend to come to a stop even if only one unit is actually fighting," forcing separate orders for each unit[^ref-4][^ref-30].
 
 ### Easter Eggs and Trivia
 
@@ -205,9 +218,17 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 [^ref-8]: [Wikidata – Cohort II](https://www.wikidata.org/wiki/Q29867340) – genre classification as real-time tactics
 [^ref-9]: [Squakenet – Cohort 2: Fighting for Rome](https://www.squakenet.com/game/cohort-2-fighting-for-rome/) – retrospective opinion
 [^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/games/details.php?id=272) – review scores, reviewer names, issues, average rating, Amiga developer, hardware, languages
-[^ref-11]: [Amiga Magazine Rack Archive](http://amr.abime.net/review_25092) – Amiga Joker review, German pricing
+[^ref-11]: [Amiga Magazine Rack Archive](https://amr.abime.net/review_25092) – Amiga Joker review, German pricing
 [^ref-12]: [MobyGames – Cohort II Reviews](https://www.mobygames.com/game/2914/cohort-ii/reviews/) – aggregate critic and player scores
 [^ref-13]: [GameFAQs – Cohort II (PC)](https://gamefaqs.gamespot.com/pc/980540-cohort-ii) – user ratings
 [^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
 [^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information (EU, 1993)
 [^ref-22]: [Computer Gaming World #107 (June 1993), OCR text – Internet Archive](https://archive.org/download/Computer_Gaming_World_Issue_107/Computer_Gaming_World_Issue_107_djvu.txt) – game listing: designer, $29.95 price, 1–2 players, $14.95 upgrade, Caesar link
+[^ref-23]: [MobyGames – Cohort II, Wayback Machine capture of 16 October 2024](https://web.archive.org/web/20241016042405/https://www.mobygames.com/game/2914/cohort-ii/) – Critics 42% (9), Players 2.9/5 (6 ratings), Moby Score 5.3 at that date
+[^ref-24]: [Amiga Magazine Rack – The One Amiga #56 review](https://amr.abime.net/review_9130) – 63%, David Upchurch, May 1993, pp. 72-73
+[^ref-25]: [Amiga Magazine Rack – Amiga Action #45 review](https://amr.abime.net/review_32445) – 59%, Steve McNally and Nick Merritt, June 1993, pp. 38-40
+[^ref-26]: [Amiga Magazine Rack – Amiga Format #47 review](https://amr.abime.net/review_2312) – 55%, Paul Tyrrell, June 1993, p. 58
+[^ref-27]: [Amiga Magazine Rack – Amiga Power #26 review](https://amr.abime.net/review_1291) – 52%, Mark Winstanley, June 1993, p. 67
+[^ref-28]: [Amiga Magazine Rack – Amiga Force #7 review](https://amr.abime.net/review_6378) – 39%, Ian Osborne, July 1993, p. 37
+[^ref-29]: [Amiga Magazine Rack – CU Amiga review](https://amr.abime.net/review_4084) – 35%, Mark Patterson, June 1993, p. 63
+[^ref-30]: [CU Amiga #40 (June 1993), full-text scan – Internet Archive](https://archive.org/details/cuamiga-magazine-040) – Cohort II review, p. 63: "There are 16 preset scenarios", "chucked together on a wet weekend", signed Mark Patterson
