@@ -10,29 +10,30 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-05'
 description: Hoyle Table Games 2004 is an 18-game collection of classic table games
-  in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows...
+  in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows
+  on September 2, 2003.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Hoyle Table Games 2004 is part of Sierra's long-running Hoyle series, which began in 1989 and is named after the 18th-century playing card expert Edmond Hoyle[^ref-1]. It was released in the United States on September 2, 2003 for Windows PC[^ref-6][^ref-18][^ref-20], with a UK release following in 2004[^ref-20]. The box copy carried the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment[^ref-11][^ref-20]; Amazon.ca lists the manufacturer as Vivendi Universal[^ref-3].
+Hoyle Table Games 2004 is part of Sierra's long-running Hoyle series, which began in 1989 and is named after the 18th-century playing card expert Edmond Hoyle[^ref-1]. It was released in the United States on September 2, 2003 for Windows PC[^ref-6][^ref-18][^ref-20][^ref-24][^ref-26], with a UK release following in 2004[^ref-20]. The box copy carried the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment[^ref-11][^ref-20][^ref-24]; Amazon.ca lists the manufacturer as Vivendi Universal[^ref-3]. GameSpot's archived listing and GameFAQs name Sierra Entertainment as the developer[^ref-10][^ref-18], while MobyGames and Wikipedia's list of Vivendi Games titles name Buzz Monkey Software[^ref-11][^ref-24].
 
-The collection contains 18 table games[^ref-3][^ref-6]. MyGamer's September 2, 2003 listing described it this way: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
+The collection contains 18 table games[^ref-3][^ref-6][^ref-25][^ref-27]. MyGamer's September 2, 2003 listing described it this way: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
 
-The game is rated E for Everyone by the ESRB[^ref-5][^ref-9].
+The game is rated E for Everyone by the ESRB[^ref-5][^ref-9], and Metacritic and Amazon.com also list it as Rated E for Everyone[^ref-25][^ref-26].
 
 > [!info]- Game Info
 > **Developer:** Buzz Monkey Software, LLC[^ref-11]
 > **Designer:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely[^ref-23]
 > **Publisher:** Sierra Entertainment[^ref-5]
 > **Engine:** Unknown
-> **Platforms:** Windows 95, Windows 98, Windows Me[^ref-3]
+> **Platforms:** Windows 95, Windows 98, Windows Me[^ref-3][^ref-26]
 > **Release Year:** 2003
 > **Series:** Hoyle
 > **Protagonist:** Player-created avatar
@@ -73,7 +74,7 @@ Most of the games are played with the mouse; Maximum Pool uses a keyboard/mouse 
 
 ### Features and Mechanics
 
-Winning games and completing various objectives earns "Hoyle Bucks", which can be spent to unlock music tracks, environments and other features[^ref-11]. MobyGames notes an online gaming feature whose site was no longer active when tried in 2021[^ref-11].
+Winning games and completing various objectives earns "Hoyle Bucks", which can be spent to unlock music tracks, environments and other features[^ref-11]; GamePressure's description likewise says victories earn virtual money exchangeable for special music tracks and extra content[^ref-27]. MobyGames notes an online gaming feature whose site was no longer active when tried in 2021[^ref-11].
 
 The Facemaker Tool lets players create their own character, and the box promised "animated opponents who talk back and speak their minds"[^ref-3].
 
@@ -85,7 +86,7 @@ One Amazon customer titled a one-star review "They don't even know the rules of 
 
 ### Contemporary Reviews
 
-No full critic review of the game has been located. MobyGames records a critic average of 82% from two ratings, with no review text attached[^ref-13].
+No full critic review of the game has been located. MobyGames records a critic average of 82% from two ratings, with no review text attached[^ref-13]. Metacritic shows no critic reviews for the game[^ref-25].
 
 Amazon.ca customer reviews were mixed. One customer called the set "addictive, especially if you are competitive and you enjoy playing pool"[^ref-3], while another, rating it two stars, objected to the copy protection and AI[^ref-3].
 
@@ -99,8 +100,10 @@ An eBay reviewer in 2017 rated the game 5/5 under the heading "Challenging at al
 - **MobyGames (Critics):** 82% (2 ratings)[^ref-13]
 - **MobyGames (Players):** 3.1/5 (2 ratings)[^ref-13]
 - **GameSpot (Users, archived 2019):** 8 average (26 ratings)[^ref-10]
-- **My Abandonware:** 4.5/5 (24 votes)[^ref-4]
+- **My Abandonware:** 4.5/5 (25 votes)[^ref-4]
 - **Amazon.ca:** 3.5/5 (10 ratings, October 2026)[^ref-3]
+- **Amazon.com:** 3.6/5 (14 ratings, November 2026)[^ref-26]
+- **GamePressure (Users):** 3.4[^ref-27]
 - **PEGI Rating:** 3[^ref-11]
 
 ## Development
@@ -154,7 +157,7 @@ Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC and published 
 
 ### Series Position
 
-Wikipedia's list of Hoyle titles includes Hoyle Table Games (2003)[^ref-1], and IGDB files it under the Hoyle series[^ref-17]. Encore Software took over publishing the series from 2005 to 2016[^ref-1].
+Wikipedia's list of Hoyle titles includes Hoyle Table Games (2003)[^ref-1], and IGDB files it under the Hoyle series[^ref-17]. Encore Software took over publishing the series from 2005 to 2016[^ref-1]. Vivendi Universal Games announced in December 2004 that it had assigned the Hoyle games license to Encore, effective December 23, 2004, with Encore handling sales, distribution and marketing[^ref-28][^ref-29].
 
 ### Modern Availability
 
@@ -168,7 +171,7 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/13166/hoyle-table-games-2004/)
-- [MyAbandonware search](https://www.myabandonware.com/search/q/Hoyle+Table+Games)
+- [MyAbandonware](https://www.myabandonware.com/game/hoyle-table-games-2004-efb)
 
 ## See Also
 
@@ -247,3 +250,9 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 [^ref-18]: [GameFAQs – Hoyle Table Games release data](https://gamefaqs.gamespot.com/pc/918453-hoyle-table-games/data) — US release 09/02/03, Sierra Entertainment, rated E
 [^ref-20]: [MobyGames – Hoyle Table Games 2004 release page](https://www.mobygames.com/game/13166/hoyle-table-games-2004/releases/) — US release Sep 2, 2003; UK release 2004 licensed by The United States Playing Card Company
 [^ref-23]: [MobyGames – Hoyle Table Games 2004 credits](https://www.mobygames.com/game/13166/hoyle-table-games-2004/credits/) — Full credits, 79 people
+[^ref-24]: [Wikipedia – List of Vivendi Games titles](https://en.wikipedia.org/wiki/List_of_Vivendi_Games_titles) – Hoyle Table Games 2004, Microsoft Windows, September 2, 2003, Buzz Monkey Software, Sierra
+[^ref-25]: [Metacritic – Hoyle Table Games](https://www.metacritic.com/game/hoyle-table-games/) – Released Sep 2, 2003; Rated E for Everyone; 18-game list; critic reviews not available
+[^ref-26]: [Amazon.com – Hoyle Table Games 2004](https://www.amazon.com/dp/B00008OE47) – Release date September 2, 2003; Windows 98/95/Me; Rated Everyone; 3.6 out of 5 (14 ratings)
+[^ref-27]: [GamePressure – Hoyle Table Games](https://www.gamepressure.com/games/hoyle-table-games/z0146e) – Release date September 2, 2003; eighteen board and table games; virtual money for extra content; user rating 3.4
+[^ref-28]: [WorthPlaying – Vivendi Passes On 'Hoyle' Brand to Encore](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore) – December 21, 2004 news; Hoyle license assigned to Encore effective December 23, 2004
+[^ref-29]: [SoCalTech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – December 23, 2004; Vivendi Universal Games divested Hoyle products to Navarre's Encore subsidiary
