@@ -10,21 +10,21 @@ series: PGA Championship Golf
 engine: PGA Championship Golf 2000 engine
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-05'
 description: "A 2001 stand-alone re-release of Sierra Sports' PGA Championship Golf 2000 that added 12 new 18-hole courses, for 32 in total, plus new Course Architect objects and textures."
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collector's Edition
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-PGA Championship Golf Collector's Edition is a 2001 Windows golf simulation from Sierra Sports, an updated version of PGA Championship Golf 2000 that added twelve new 18-hole courses "developed exclusively for the game, bringing the total number of courses available to 32."[^ref-2] Sierra announced it in June 2001, on the first day of the US Open, promising 12 new courses, refined gameplay and the series' TrueSwing system, with release expected in late summer.[^ref-1][^ref-2] The Sierra Chest records its first release as July 11, 2001.[^ref-32] Sierra's own site for the edition was taking online orders by August 20, 2001,[^ref-36] and by late September the Sierra Sports home page listed the Collector's Edition among its current titles.[^ref-38]
+PGA Championship Golf Collector's Edition is a 2001 Windows golf simulation from Sierra Sports, an updated version of PGA Championship Golf 2000 that added twelve new 18-hole courses "developed exclusively for the game, bringing the total number of courses available to 32."[^ref-2] Sierra announced it in June 2001, on the first day of the US Open (held June 14–18, 2001), promising 12 new courses, refined gameplay and the series' TrueSwing system, with release expected in late summer.[^ref-1][^ref-45][^ref-2] The Sierra Chest records its first release as July 11, 2001.[^ref-32] Sierra's own site for the edition was taking online orders by August 20, 2001,[^ref-36] a snapshot of that site's home page from September 9, 2001 still showed "Buy Online!" and the 12-course, 32-total pitch,[^ref-43] and by late September the Sierra Sports home page listed the Collector's Edition among its current titles.[^ref-38]
 
 SportPlanet's John Cauthen summed it up as "PGA 2000/PGA Titanium Edition with 12 new courses and an up-to-date patch," a course expansion that could nonetheless be installed on its own.[^ref-33]
 
-**Base-game context.** The game underneath is [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]], developed by [[Headgate Studios]] and released in North America on June 6, 2000 with 13 courses. An upgraded Titanium Edition, also developed by Headgate, added seven new 18-hole courses for 20 in total and reached stores in December 2000.[^ref-7][^ref-40][^ref-37] For that game's modes, controls, reviews and development history, see its own page and the [[2000 - PGA Championship Golf 2000 - Titanium Edition|Titanium Edition]] page.
+**Base-game context.** The game underneath is [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]], developed by [[Headgate Studios]] and released in North America on June 6, 2000 with 13 courses. An upgraded Titanium Edition, also developed by Headgate, added seven new 18-hole courses for 20 in total and reached stores in December 2000; Computer Games Strategy Plus reported on December 16, 2000 that Sierra Sports had "yesterday released" it.[^ref-7][^ref-40][^ref-37][^ref-42] For that game's modes, controls, reviews and development history, see its own page and the [[2000 - PGA Championship Golf 2000 - Titanium Edition|Titanium Edition]] page.
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]] (PGA Championship Golf 2000 base game)[^ref-7]
@@ -46,11 +46,11 @@ As a golf simulation, the Collector's Edition has no story. Cauthen noted that i
 
 ### Interface and Controls
 
-The Collector's Edition keeps PGA Championship Golf 2000's TrueSwing mouse swing; Sierra billed its version, TrueSwing 3, as adding "pace and tempo" to the "original real-time mouse-swing technology."[^ref-2][^ref-35] Its box led with "SmartSwing" technology, which Cauthen dismissed as a new name for an old feature: "SmartSwing is just a handle for TrueSwing's capability to adapt to different player rhythms. That's always been a part of PGA 2000."[^ref-33] Sierra's own description was that TrueSwing 3 "learns your style of mouse-swing and adjusts itself to your game."[^ref-35] The feature list also included side games such as Nassau, Greenies and Sandies.[^ref-35]
+The Collector's Edition keeps PGA Championship Golf 2000's TrueSwing mouse swing; Sierra billed its version, TrueSwing 3, as adding "pace and tempo" to the "original real-time mouse-swing technology."[^ref-2][^ref-35] The name predates this edition: a May 2000 preview of the base game already described its "real-time 'smart' swing control feature, TrueSwing 3."[^ref-46] Its box led with "SmartSwing" technology, which Cauthen dismissed as a new name for an old feature: "SmartSwing is just a handle for TrueSwing's capability to adapt to different player rhythms. That's always been a part of PGA 2000."[^ref-33] Sierra's own description was that TrueSwing 3 "learns your style of mouse-swing and adjusts itself to your game."[^ref-35] The feature list also included side games such as Nassau, Greenies and Sandies.[^ref-35]
 
 ### Structure and Progression
 
-The edition's main addition is twelve new 18-hole courses, for 32 in total, which Sierra described as "designed by the top course designers in the virtual community."[^ref-2][^ref-36] SportPlanet's review and Sierra's course page name several of them and their designers:[^ref-33][^ref-34]
+The edition's main addition is twelve new 18-hole courses, for 32 in total, which Sierra described as "designed by the top course designers in the virtual community."[^ref-2][^ref-36][^ref-43] SportPlanet's review and Sierra's course page name several of them and their designers:[^ref-33][^ref-34]
 
 - **Normandy Heights Country Club**, by Scott A. Antes
 - **Lochiel Golf Links**, by Mark Guiniven
@@ -83,7 +83,7 @@ No modern reviews or aggregate scores specific to the Collector's Edition were f
 
 ### Origins
 
-IGN reported the announcement on June 14, 2001, noting that it "coincides with the first day of the US Open." The article opened with a joke about Sierra reviving its Front Page Sports Football and Baseball franchises, then added: "Oh wait a minute; that must be a joke."[^ref-1] GameSpot's announcement the next day gave the 12-course and 32-course totals and said the game was "scheduled for release later this summer."[^ref-2]
+IGN reported the announcement on June 14, 2001, noting that it "coincides with the first day of the US Open."[^ref-1][^ref-45] The article opened with a joke about Sierra reviving its Front Page Sports Football and Baseball franchises, then added: "Oh wait a minute; that must be a joke."[^ref-1] GameSpot's announcement the next day gave the 12-course and 32-course totals and said the game was "scheduled for release later this summer."[^ref-2]
 
 ### Production
 
@@ -97,7 +97,7 @@ No production credits for the Collector's Edition were found. The Sierra Chest l
 | Titanium Edition | December 2000 | Windows | Seven new courses[^ref-7][^ref-40] |
 | Collector's Edition | July 11, 2001 | Windows | 12 new courses, 32 total[^ref-2][^ref-32] |
 
-The game is preserved on the Internet Archive as two CD images.[^ref-31] The Sierra Chest records a US release in a medium flip-top box with a game manual and a quick reference card (UPC 0-20626-67084-8).[^ref-32] The ESRB rated it E for Everyone, with no content descriptors, under the misspelled title "PGA Championship Golf Collecter's Edition."[^ref-39]
+The game is preserved on the Internet Archive as two CD images.[^ref-31] Sierra's site listed the minimum requirements as a Pentium 166 MHz, 32 MB RAM, 4X CD-ROM and 80 MB of free disk space, but quoted them jointly "for both PGA Golf 2000 & Titanium Edition" rather than for the Collector's Edition alone.[^ref-44] The Sierra Chest records a US release in a medium flip-top box with a game manual and a quick reference card (UPC 0-20626-67084-8).[^ref-32] The ESRB rated it E for Everyone, with no content descriptors, under the misspelled title "PGA Championship Golf Collecter's Edition."[^ref-39]
 
 ## Legacy
 
@@ -140,3 +140,8 @@ According to Cauthen, the Collector's Edition courses had not caught on in Sierr
 [^ref-39]: [ESRB – PGA Championship Golf Collecter's Edition](https://www.esrb.org/ratings/6727/pga-championship-golf-collecters-edition/) – rated E for Everyone, no descriptors; Windows PC; Sierra Entertainment
 [^ref-40]: [GameSpot – In Stores: PGA Championship Golf 2000 Titanium (archived)](https://web.archive.org/web/20050318084944/http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/news_2663592.html) – Trey Walker, December 11, 2000; Titanium Edition developed by Headgate Studios, seven new 18-hole courses
 [^ref-41]: [Sierra Sports – PGA Championship Golf Collector's Edition: Reviews (archived)](https://web.archive.org/web/20010902232552/http://www.sierrasports.com:80/golfce/reviews.php) – Wayback 2001-09-02; quotes PGA Championship Golf 2000 reviews, incl. Computer Gaming World Editor's Choice, 5 stars
+[^ref-42]: [Computer Games Strategy Plus – Sierra releases PGA Championship Golf Titanium Edition (archived)](https://web.archive.org/web/20030530105943/http://www.cdmag.com/articles/031/044/pga2000.html) – posted 12/16/2000; "yesterday released" Titanium Edition, seven new 18-hole courses, release order of the courses
+[^ref-43]: [Sierra Sports – PGA Championship Golf Collector's Edition home page (archived)](https://web.archive.org/web/20010909150054/http://www.sierrasports.com:80/golfce/) – Wayback 2001-09-09; "Buy Online!"; "an additional 12 original courses designed by the top course designers in the virtual community ... for a total of 32"
+[^ref-44]: [Sierra Sports – PGA Championship Golf Collector's Edition: System Requirements (archived)](https://web.archive.org/web/20011019150845/http://www.sierrasports.com/golfce/sysreqs.php) – Wayback 2001-10-19; "Minimum System Requirements for both PGA Golf 2000 & Titanium Edition": Pentium 166 MHz, 32 MB RAM, 4X CD-ROM, 80 MB free HD space
+[^ref-45]: [Wikipedia – 2001 U.S. Open (golf)](https://en.wikipedia.org/wiki/2001_U.S._Open_(golf)) – tournament held June 14–18, 2001 at Southern Hills; context for IGN's "first day of the US Open"
+[^ref-46]: [Computer Games Strategy Plus – PGA Championship Golf 2000 Goes Gold (archived)](https://web.archive.org/web/20030525162403/http://www.cdmag.com/articles/027/154/pga_gold.html) – posted 05/09/2000; base game's "real-time 'smart' swing control feature, TrueSwing 3"
