@@ -11,7 +11,7 @@ series: "Aces"
 engine: "3-Space"
 protagonist: "Player-created pilot"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-11-01'
+last_updated: '2026-11-05'
 description: "WWII: 1946 is Dynamix's 1992 alternate-history expansion disk for Aces of the Pacific, adding seven prototype and early-jet aircraft and a campaign over a hypothetical 1945–46 invasion of Japan."
 tags: [1990s, simulation, flight-simulation, aces, dynamix, sierra, expansion, damon-slye]
 composer: null
@@ -19,7 +19,7 @@ composer: null
 
 # Aces of the Pacific: WWII: 1946
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -95,6 +95,10 @@ Fick found that the jets changed the style of combat. With top speeds nearly 100
 | Publication | Date | Verdict |
 |-------------|------|---------|
 | *Computer Gaming World* #104 (Doug Fick) | March 1993 | Positive, but "not essential"[^ref-5][^ref-8] |
+| *Game Players PC Entertainment* (news and patch column) | May/June 1993 | Positive: "the first (and possibly only) expansion disk for this terrific game, and it adds a great deal to the original"[^ref-18] |
+| *PC Zone* #4 ("MB") | July 1993 | Positive: "If you enjoyed Aces, you'll enjoy this. Some of the aircraft are a real joy to fly." No score was legible in the scan.[^ref-19] |
+
+*Game Players PC Entertainment* named the P-80, the Kikka, the "crazy Shinden (with a rear-mounted propeller)" and the Bearcat, and said the campaigns "revolve around the plans for Operations Olympic and Cornet [sic], including some hairy beach fighting and kamikaze escort missions".[^ref-18] *PC Zone*'s reviewer, signing as MB, said the disk "gives seven new planes for you to fly and a number of missions based on their capabilities and the alternative reality of the disk". He described the Bearcat as "probably the fastest piston-engined aircraft ever made", said the missions assume scientists refused to cooperate on the atomic bomb so that Truman had to implement a land invasion of Japan, and was unimpressed by the manual's tone, calling it "the usual insensitive parochialism of American software".[^ref-19]
 
 Fick's review, "A Flight Into the Hypothetical", opened with the decision to end the war "with a nuclear punctuation point" and called the disk "the ultimate 'What if?'".[^ref-5] He enjoyed flying the new aircraft, but compared it unfavorably with *Red Baron Mission Builder*, which had added "a very powerful mission builder that brought new life to the program". Without one, he concluded, "the Aces add-on should be considered more of an aircraft expansion disk, like those for the LucasArts SWOTL system, than any sort of program addition".[^ref-5]
 
@@ -106,7 +110,7 @@ Little retrospective criticism of the add-on was found. It does appear in the *P
 
 ### Origins
 
-Sierra's *InterAction* magazine previewed *WWII: 1946* in its Summer 1992 issue with the question: "Have you ever wondered what would have happened if President Truman had decided against dropping the bomb?"[^ref-12] By the Fall 1992 issue, Sierra's "Coming up from Sierra and Dynamix" update reported the disk "about three-quarters" finished. The research, aircraft shapes and artwork were all done, and release was scheduled for early November.[^ref-6] The Winter 1992 issue still listed it as "Scheduled for release in November".[^ref-4]
+Sierra's *InterAction* magazine first mentioned the disk in its Spring 1992 issue, which promised Aces of the Pacific and Red Baron expansion disks for "Spring and Summer of 1992" and asked "What if President Truman had decided against dropping the atomic bomb?" Its order form listed "WWII 1946! — Coming soon for Aces of the Pacific. IBM & Amiga ($39.95)".[^ref-17] The magazine previewed *WWII: 1946* again in its Summer 1992 issue with the question: "Have you ever wondered what would have happened if President Truman had decided against dropping the bomb?"[^ref-12] The trade press was watching too. *Computer Games Strategy Plus* (22 September 1992) wrote: "Later on in the year expect to see WWII:1946!: what if Truman had decided against dropping the bomb?" It described the disk as "intended for use with Aces of the Pacific" with "New aircraft" in the fray.[^ref-21] By the Fall 1992 issue, Sierra's "Coming up from Sierra and Dynamix" update reported the disk "about three-quarters" finished. The research, aircraft shapes and artwork were all done, and release was scheduled for early November.[^ref-6] The Winter 1992 issue still listed it as "Scheduled for release in November".[^ref-4]
 
 ### Production
 
@@ -127,9 +131,10 @@ MobyGames credits list:[^ref-2]
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Expansion disk | Late 1992 | MS-DOS | Published by Sierra On-Line in the US; the December 1992 CGW Hits List charts it.[^ref-11] MobyGames also lists a German release distributed by Sierra On-Line Ltd.[^ref-1][^ref-13] |
+| Expansion disk | Late 1992 | MS-DOS | Published by Sierra On-Line in the US; the December 1992 CGW Hits List charts it.[^ref-11] MobyGames also lists a German release distributed by Sierra On-Line Ltd.[^ref-1] |
 | *Aces of the Pacific with WWII: 1946* | 1993 | MS-DOS | Bundle listed by The Sierra Chest[^ref-14] |
 | *Aces: Collection Series* | 1997 | Not stated | MobyGames lists the expansion as included in this collection.[^ref-16] |
+| Update patch | 10 March 1993 | MS-DOS | *Computer Gaming World*'s update-patch list gives "Aces of the Pacific 1946 Add-On Disk Update", dated 3/10/93: "Single Missions will now be saved correctly, and several fixes have been made to Career Pilots, including the elimination of known Shell System Errors".[^ref-20] *Game Players PC Entertainment* separately noted a "Patch A" that was "not included with" the disk.[^ref-18] |
 
 ## Legacy
 
@@ -143,7 +148,7 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 - Not currently available. As of October 2026 neither Aces of the Pacific nor this expansion is sold on GOG or Steam.
 
 **Download / Preservation**
-- [Internet Archive – Aces of the Pacific: WWII: 1946 (IBM PC floppy image)](https://archive.org/details/001054-AcesOfThePacificWwii1946). Requires Aces of the Pacific.
+- [Internet Archive – Aces of the Pacific: WWII: 1946 (IBM PC floppy image)](https://archive.org/details/001054-AcesOfThePacificWwii1946). Requires Aces of the Pacific.[^ref-13]
 
 **Manuals & Extras**
 - [Internet Archive – Dynamix WWII: 1946 Expansion Disk manual](https://archive.org/details/dynamix_wwii_1946_expansion_disk_manual)
@@ -172,8 +177,13 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 [^ref-9]: [Dynamix WWII: 1946 Expansion Disk manual – Internet Archive](https://archive.org/details/dynamix_wwii_1946_expansion_disk_manual) – introduction, "As It Happened" / "What If" structure, alternate-history events, casualty figures, bibliography
 [^ref-10]: [Computer Gaming World #103 (February 1993), mail-order retailer listing – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103) – "Dynamix: Aces of the Pacific WWII:1946 … participate in a fictional scenario of Operation Olympic … (Add-on disk, requires Aces of the Pacific)"
 [^ref-11]: [Computer Gaming World #105 (April 1993), PC Research "Hits List of Top-Selling Software", December 1992 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_105) – "WWII 1946: Aces Mission Disk (Sierra On-Line)" in the MS-DOS chart
-[^ref-12]: [InterAction Magazine, Summer 1992 (Sierra On-Line) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – first announcement of WWII 1946
+[^ref-12]: [InterAction Magazine, Summer 1992 (Sierra On-Line) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – preview announcement of WWII 1946 (Truman question)
 [^ref-13]: [Internet Archive – Aces of the Pacific: WWII: 1946 (IBM PC floppy image)](https://archive.org/details/001054-AcesOfThePacificWwii1946) – preserved release
 [^ref-14]: [The Sierra Chest – Aces of the Pacific with WWII: 1946](https://sierrachest.com/index.php?a=games&id=387&fld=general) – bundle, first release 1993, Dynamix, 3-Space
 [^ref-15]: [Dynamix Fandom – Aces of the Pacific](https://dynamix.fandom.com/wiki/Aces_of_the_Pacific) – base game context; 1946 Expansion Pack alternate timeline
 [^ref-16]: [MobyGames – Aces of the Pacific: Expansion Disk – WWII: 1946 (Wayback Machine, August 2025)](http://web.archive.org/web/20250824234335/https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – "Moby Score n/a"; "Critics Average score: 82% (based on 3 ratings)"
+[^ref-17]: [InterAction Magazine, Vol. V No. 1, Spring 1992 (Sierra On-Line) – Internet Archive](https://archive.org/details/013_InterAction_Volume_5_Number_1_Spring_1992) – earliest announcement found: Great War Planes expansion disks "In Spring and Summer of 1992", the Truman premise, aircraft list, and order-form entry "WWII 1946! — Coming soon for Aces of the Pacific. IBM & Amiga ($39.95)"
+[^ref-18]: [Game Players PC Entertainment, Vol. 6 No. 3 (May/June 1993) – Internet Archive](https://archive.org/details/game-players-pc-entertainment-vol.-6-no.-3-may-june-1993) – news and patch column: short WWII: 1946 review ("first (and possibly only) expansion disk"), aircraft, Operations Olympic and Coronet campaigns, and a note on "Patch A"
+[^ref-19]: [PC Zone #4 (July 1993), review "Aces of the Pacific – WWII: 1946", signed MB – Internet Archive](https://archive.org/details/PC_Zone_4_July_1993) – UK review: seven new planes, alternate-reality missions, manual tone, verdict
+[^ref-20]: [Computer Gaming World #107 (June 1993), "Update Patches" list – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_107) – "Aces of the Pacific 1946 Add-On Disk Update ... 3/10/93"
+[^ref-21]: [Computer Games Strategy Plus, 22 September 1992, preview – Internet Archive](https://archive.org/details/computer-games-strategy-plus-22-september-1992) – "Later on in the year expect to see WWII:1946!"; expansion for Aces of the Pacific with new aircraft
