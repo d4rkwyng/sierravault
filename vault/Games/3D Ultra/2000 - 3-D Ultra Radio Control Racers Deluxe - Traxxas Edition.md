@@ -10,16 +10,16 @@ series: 3-D Ultra
 engine: Unknown/unnamed
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
   RC racing game developed by Dynamix and published by Sierra On-Line in 2000, an expanded
   update of the 1999 original with sixteen tracks and new Soccer and Battle Ball modes.'
 tags: [2000s, 3-d-ultra, racing, sierra]
-last_modified: 2026-10-27T11:22:37-06:00
+last_modified: 2026-11-05T12:00:00-07:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ last_modified: 2026-10-27T11:22:37-06:00
 
 The game promised "little cars, huge fun," inviting players to select from four car models and paint them as they liked, then compete across fourteen racing tracks (the eight classic tracks of the original plus six new ones); the remaining two tracks are arenas for the RC Soccer and Battle Ball modes.[^ref-9] True to the 3-D Ultra series' signature style, the game featured whimsical hazards including "mad chickens, sea monsters, anarchist lawn gnomes" that players had to navigate during fast and furious racing.[^ref-1] The Traxxas name appears in the game itself: the box promised three indoor tracks "including the Traxxas Raceway with real Traxxas intensity."[^ref-1]
 
-The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] One Steam user has called 3D Ultra RC Racers "the innovator of car·soccer (like Rocket League)."[^ref-8]
+The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] A 2017 Steam forum post, made in the 3D Ultra Minigolf Adventures Deluxe forum and not naming a specific edition, calls "3D Ultra RC Racers" "the innovator of car·soccer (like Rocket League)."[^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -71,8 +71,10 @@ The game offers four distinct vehicle types, each with unique characteristics:[^
 
 - **Monster Truck:** Hugs the track and is extremely difficult to knock over but relatively slow
 - **Buggy:** Quick handling and good top speed but tends to bounce around easily  
-- **Stadium Truck:** Balanced specifications
-- **Baja Bug:** Balanced specifications
+- **Stadium Truck:** "Somewhat balanced" per Sierra Chest;[^ref-9] the eBay catalog text calls it "slightly slower, but featuring good stability and fast recovery"[^ref-18]
+- **Baja Bug:** "Somewhat balanced" per Sierra Chest;[^ref-9] the eBay catalog text calls it "much faster" and says it "sacrifices corner handling for speed"[^ref-18]
+
+The two sources disagree on the Stadium Truck and Baja Bug. The eBay catalog text also gives the Monster Truck twin engines and a low center of gravity.[^ref-18]
 
 Players can customize their vehicles with upgrades to engines, shocks, and tires.[^ref-2] The Deluxe Traxxas Edition expanded customization options beyond the original release.[^ref-10] It shipped with a "totally new paint shop" for creating custom looks,[^ref-1] and players can even create and import their own car skins.[^ref-9]
 
@@ -90,6 +92,12 @@ The Deluxe Traxxas Edition features sixteen total tracks: fourteen racing tracks
 - **Traxxas Raceway:** One of three indoor tracks[^ref-1]
 - **Desert:** Snakes, twisters and poisoned water[^ref-1][^ref-9]
 - **3-D Ultra Thrillride:** Amusement-park track with bumper-car action and roller-coaster-style turns[^ref-3]
+
+The eBay catalog text describes four circuits: an Amateur Circuit of seven tracks (including Thrill Ride and Frog Pond), a Pro Circuit (including R/C Pro Extreme, Minigolf, R/C Off-Road Classic, Haunted and Aztec), a Super Circuit combining all 14 tracks, and a Custom Circuit that randomly selects seven of the fourteen.[^ref-18] GameSpy likewise lists four circuits.[^ref-7]
+
+### Cheats
+
+IGN's user-edited PC cheats wiki lists pause-menu codes that it says work on the latest patch: `bouncy` (bouncy suspensions and boundaries), `sticky` (abnormally good traction), `slippery` (abnormally bad traction), `turbo` (double game speed), `war` (infinite bottle rockets), `ghost` (disable collisions), `hitme` (CPU drivers get road rage), `bugoff` (track hazards missing), `moon` (low gravity) and `heavy` (high gravity).[^ref-19]
 
 ### Powerups and Combat
 
@@ -119,8 +127,6 @@ Players have expressed nostalgia for the game, with users on its GOG.com Dreamli
 **User Ratings:**
 - **Old-Games.ru:** 7.0/10 (user rating)[^ref-11]
 
-One Steam user has described the game as "the innovator of car·soccer (like Rocket League)."[^ref-8]
-
 ## Development
 
 ### Origins
@@ -144,12 +150,14 @@ The game uses 2D, top-down viewed tracks, which Neoseeker called "very well craf
 
 ### Technical Specifications
 
-**System Requirements** (as documented by PCGamingWiki for the 1999 original; the Deluxe retail listing gives Windows 95/98/ME):[^ref-10][^ref-5]
-- **Operating System:** Windows 95, Windows NT 4.0
-- **CPU:** Intel Pentium 90 MHz minimum
-- **RAM:** 32 MB
-- **Storage:** 50 MB installation
-- **Graphics:** DirectX 6.1 compatible video card
+**System Requirements** (from the Deluxe retail box, as transcribed by Eli's Software Encyclopedia, which lists Windows 95, 98 and 2000 with identical specifications):[^ref-17]
+- **Operating System:** Windows 95, 98 or 2000 (the Amazon listing instead gives 95/98/ME[^ref-5])
+- **CPU:** Pentium 90
+- **RAM:** 32 MB (64 MB recommended)
+- **CD-ROM:** 4X (8X recommended)
+- **Graphics:** SVGA, 256 colors
+
+(PCGamingWiki's page for the 1999 original lists Windows 95/NT 4.0, DirectX 6.1 and 50 MB of storage;[^ref-10] no Deluxe source checked gives a disk-space figure.)
 
 **Media:**[^ref-5][^ref-14]
 - **Format:** CD-ROM
@@ -172,7 +180,8 @@ PCGamingWiki's page for the 1999 original documents a Patch 1.1 that "allows cus
 ### Easter Eggs and Trivia
 
 - In Germany the RC Racers game was known as "Funk Flitzer"; one player recalls getting it as "Big Fun Funk Flitzer" on a Micky Maus-Magazin CD, though which edition is unclear.[^ref-3][^ref-8]
-- One Steam user calls it "the innovator of car·soccer (like Rocket League)"; the Deluxe edition's RC Soccer mode came nearly 15 years before Rocket League.[^ref-8]
+- The 2017 Steam post mentioned above refers to "3D Ultra RC Racers" without naming the Deluxe edition, so which edition the poster meant is unconfirmed.[^ref-8]
+- OGDB lists the Traxxas Edition as a separate entry from the 1999 original, which it gives the alternate name Funk-Flitzer.[^ref-20]
 - One of the new tracks is the "3-D Ultra Thrillride track", an amusement-park course with bumper-car action and roller-coaster-style turns.[^ref-3]
 
 ## Legacy
@@ -199,7 +208,7 @@ Collection Chamber offers a DOSBox-configured installer for the 1999 original, n
 
 Neoseeker's review faulted the game's sound and its lasting appeal, though it thought younger players might still enjoy it.[^ref-2] Players who grew up with it remember it fondly.[^ref-3]
 
-One Steam user sees it as a car-soccer forerunner of Rocket League.[^ref-8] Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has always valued entertainment value over depth of gameplay."[^ref-6]
+Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has always valued entertainment value over depth of gameplay."[^ref-6]
 
 ## Downloads
 
@@ -268,3 +277,11 @@ One Steam user sees it as a car-soccer forerunner of Rocket League.[^ref-8] Coll
 [^ref-15]: [Sierra Gamers – 3D Ultra Series](https://www.sierragamers.com/3d-ultra/) – 2000 release year, series chronology
 
 [^ref-16]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition credits](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/credits/) – Producer Randy Thompson, game design, programming and audio credits
+
+[^ref-17]: [Eli's Software Encyclopedia – 3-D Ultra Radio Control Racers Deluxe Traxxas Edition (PC, CD-ROM) Sierra – 2000 USA, Canada Release](https://elisoftware.org/wiki/3-D_Ultra_Radio_Control_Racers_Deluxe_Traxxas_Edition_(PC,_CD-ROM)_Sierra_-_2000_USA,_Canada_Release) – transcribed retail box: system requirements, "16 tracks", Traxxas Raceway, paint shop
+
+[^ref-18]: [eBay Product Catalog – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.ebay.com/p/7622) – retail catalog text: vehicle traits, four circuits, 14 tracks (tier 4 blurb)
+
+[^ref-19]: [IGN PC Cheats – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition Cheats](https://www.ign.com/wikis/pc-cheats/3-D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition_Cheats) – user-edited wiki, posted March 15, 2017; pause-menu cheat codes
+
+[^ref-20]: [OGDB – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://ogdb.eu/index.php?section=title&titleid=75256) – user database: separate entry from the 1999 original (a.k.a. Funk-Flitzer), 2000, Dynamix, PC CD-ROM
