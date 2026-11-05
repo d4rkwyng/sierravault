@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer game designed and
   programmed by Steven A. Dunn, with additional development by Dynamix and music by Coktel Vision''s
@@ -19,17 +19,17 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-*Sierra Soccer: World Challenge Edition* is an arcade-style soccer game published by [[Sierra On-Line]] in 1994 for the Amiga, released in the European market.[^ref-2][^ref-3][^ref-6] It was designed, programmed and largely drawn by Steven A. Dunn; [[Dynamix]] is credited with additional development (the intro and winning animation), and [[Coktel Vision]] supplied European production and the music by Charles Callet.[^ref-21] Databases such as Lemon Amiga, OpenRetro and Giant Bomb list Dynamix as the developer.[^ref-5][^ref-6][^ref-13]
+*Sierra Soccer: World Challenge Edition* is an arcade-style soccer game published by [[Sierra On-Line]] in 1994 for the Amiga, released in the European market.[^ref-2][^ref-3][^ref-6] It was designed and programmed by Steven A. Dunn, who is also credited with art design; [[Dynamix]] is credited with additional development (the intro and winning animation), and [[Coktel Vision]] supplied European production and the music by Charles Callet.[^ref-21] Dunn's own CV says he designed and programmed the game to his own specification and did all of the coding, including the FMV, while music and some graphics were provided by Dynamix.[^ref-24] Databases such as Lemon Amiga, OpenRetro, Giant Bomb, Hall of Light and GameFAQs list Dynamix as the developer.[^ref-5][^ref-6][^ref-13][^ref-25][^ref-36]
 
 Released for the 1994 World Cup season, the game lets players take a team through an unlicensed World Cup '94, using either the official group draw or random groups.[^ref-2][^ref-20] CU Amiga found it "far easier than the Kick Offs and Sensible Soccers of this world" to play.[^ref-20]
 
 The game supports one to eight players, with two playing simultaneously; in tournament mode up to eight people can each pick a team and play through their groups.[^ref-5][^ref-20] CU Amiga highlighted more than 4,000 frames of player animation, and A1200 owners got a full 3D crowd.[^ref-4][^ref-20]
 
-According to the Dynamix fan wiki, it was the last title Sierra published for the Amiga.[^ref-3]
+The Dynamix fan wiki describes it as the last title Sierra published for the Amiga, a claim no other source consulted confirms.[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] (credited with additional development; core work by Steven A. Dunn)[^ref-21]
@@ -43,7 +43,7 @@ According to the Dynamix fan wiki, it was the last title Sierra published for th
 > **Platforms:** Amiga (OCS, ECS)[^ref-6]
 > **Release Year:** 1994[^ref-1]
 > **Languages:** English, German, French[^ref-6]
-> **Price:** £25.99 (UK; The One's review listed £24.99)[^ref-8][^ref-9]
+> **Price:** £24.99-£25.99 (UK, varies by magazine: CU Amiga and Amiga Action listed £25.99; The One, Amiga Format, Amiga Power and Amiga Computing listed £24.99)[^ref-8][^ref-9][^ref-27][^ref-28][^ref-30][^ref-34]
 > **Series:** Standalone
 > **Protagonist:** Soccer Team (player-controlled)
 > **Sierra Lineage:** Sierra Label (Dynamix)
@@ -105,16 +105,16 @@ The game runs on both the A500 and the A1200, and "A1200 owners get the benefit 
 
 | Publication | Score | Reviewer | Notes |
 |-------------|-------|----------|-------|
-| Amiga Concept | 92% | Laurent Picart | Highest rating[^ref-8] |
-| Amiga Action | 89% | Paul McNally, Paul Roundell | [^ref-8] |
+| Amiga Concept | 92% | Laurent Picart | Highest rating[^ref-8][^ref-31] |
+| Amiga Action | 89% | Paul McNally, Paul Roundell | [^ref-8][^ref-30] |
 | CU Amiga | 87% | Tony Dillon | "A cracking good soccer game!"[^ref-20] |
-| Amiga Dream | 84% | Grégory Halliday | [^ref-8] |
+| Amiga Dream | 84% | Grégory Halliday | [^ref-8][^ref-32] |
 | The One Amiga | 83% | Simon Byron | [^ref-9] |
-| Amiga Computing | 80% (Gold Award) | Jonathan Maddock | [^ref-8][^ref-23] |
-| Amiga Joker | 70% | Steffen Schamberger | German review[^ref-8] |
-| Amiga Format | 68% | Stephen Bradley | [^ref-8] |
-| Amiga Power | 62% | Steve McGill, Stuart Campbell | Lowest score[^ref-8] |
-| Datormagazin | 4/5 | Ove Kaufeldt | Swedish review[^ref-6] |
+| Amiga Computing | 80% (Gold Award) | Jonathan Maddock | [^ref-8][^ref-23][^ref-26][^ref-34] |
+| Amiga Joker | 70% | Steffen Schamberger | German review[^ref-8][^ref-29] |
+| Amiga Format | 68% | Stephen Bradley | [^ref-8][^ref-27] |
+| Amiga Power | 62% | Steve McGill, Stuart Campbell | Lowest score[^ref-8][^ref-28] |
+| Datormagazin | 4/5 | Ove Kaufeldt | Swedish review[^ref-6][^ref-33] |
 
 **Average Magazine Rating:** 80% (based on 10 reviews)[^ref-6]
 
@@ -126,7 +126,11 @@ The game runs on both the A500 and the A1200, and "A1200 owners get the benefit 
 
 **The One Amiga**'s Simon Byron gave it 83%.[^ref-9]
 
-**Amiga Power** gave the lowest score, 62%.[^ref-8]
+**Amiga Format**'s Stephen Bradley gave 68%, concluding that the game "doesn't break boundaries but in one-player mode it's a decent enough platformer".[^ref-26][^ref-27]
+
+**Amiga Power** gave the lowest score, 62%.[^ref-8][^ref-28]
+
+**Amiga Joker** (70%) was a German-language review; its spec box lists the game as fully German, with on-screen text and manual in German.[^ref-26][^ref-29]
 
 ### Market Context
 
@@ -145,7 +149,9 @@ Lemon Amiga records an average magazine rating of 80% from 10 reviews, ranging f
 
 ### Development Team
 
-The credits list contributors from Dynamix, Coktel Vision and Sierra On-Line UK, but the core of the game was the work of one person, Steven A. Dunn.[^ref-21]
+Dunn's CV dates the project to 1993-1994 and describes the game as an original 3D overhead arcade football simulation based on the 1994 World Cup.[^ref-24] Amiga Power ran an in-depth preview in issue 36 (April 1994).[^ref-35]
+
+The credits list contributors from Dynamix, Coktel Vision and Sierra On-Line UK, but the core of the game was the work of one person, Steven A. Dunn.[^ref-21][^ref-24] Hall of Light's 2008 entry likewise lists Steven Dunn under coder, graphician and misc artist, with Mark Dunn as a further coder.[^ref-25]
 
 **Steven A. Dunn:**
 - Design
@@ -233,7 +239,7 @@ Select a friendly match and press X while choosing the teams. The screen flashes
 
 ### Historical Significance
 
-According to the Dynamix fan wiki, *Sierra Soccer: World Challenge Edition* was the last title Sierra published for the Amiga.[^ref-3] It also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
+The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the last title Sierra published for the Amiga.[^ref-3] That claim is uncorroborated, and [[1994 - Detroit]], an Amiga release from 1994, lists Sierra On-Line as co-publisher. The game also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
 
 ### Series Context
 
@@ -244,7 +250,7 @@ According to the Dynamix fan wiki, *Sierra Soccer: World Challenge Edition* was 
 
 ### Critical Perspective
 
-Although it was marketed under the Sierra and Dynamix names, the game was mostly one designer's work. Steven A. Dunn is credited with design, programming, art design and sound effects, while Dynamix and Coktel Vision supplied animation, music and production support.[^ref-21] Its reviews ranged from 62% to 92%, averaging 80%.[^ref-6]
+Although it was marketed under the Sierra and Dynamix names, the game was mostly one designer's work. Steven A. Dunn is credited with design, programming, art design and sound effects, while Dynamix and Coktel Vision supplied animation, music and production support.[^ref-21] Dunn's own CV says music and some graphics were provided by Dynamix.[^ref-24] Its reviews ranged from 62% to 92%, averaging 80%.[^ref-6]
 
 ### Preservation Status
 
@@ -259,7 +265,6 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Not available on modern storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
@@ -301,3 +306,16 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-21]: [MobyGames – Sierra Soccer: World Challenge Edition Amiga credits](https://www.mobygames.com/game/55121/sierra-soccer-world-challenge-edition/credits/amiga/) – Full credits: Steven A. Dunn, Dynamix intro/animation, Coktel production/music, translators
 [^ref-22]: [Lemon Amiga – Sierra Soccer cheats](https://www.lemonamiga.com/cheat/sierra-soccer-world-challenge-edition/2761) – Penalty-stopping wall and bouncy blue field cheats
 [^ref-23]: [Amiga Computing issue 75 (July 1994), Sierra Soccer review – Internet Archive full text](https://archive.org/download/amiga-computing-magazine-075/AmigaComputing_075_Jul_1994_djvu.txt) – 24 teams, referee cards/physio, "damn fine game", two-player mode praise
+[^ref-24]: [Steven Dunn – personal CV](http://www.stevendunn.com/) – 1993-1994 Sierra Soccer entry: designed and programmed to his own spec, all coding including FMV, music and some graphics provided by Dynamix
+[^ref-25]: [Hall of Light – Sierra Soccer: World Challenge Edition (Wayback, April 2008)](https://web.archive.org/web/20080416222149/http://hol.abime.net/1922) – Developer Dynamix, publisher Sierra, 2 disks, 8 players (2 simultaneous), English/French/German, ECS/OCS, coders Mark and Steven Dunn, artists Steven Dunn and Thomas Van Velkinburgh, music Charles Callet
+[^ref-26]: [Amiga Reviews – Sierra Soccer](https://amigareviews.leveluphost.com/sierraso.htm) – Transcribed reviews: Amiga Format 68% (Bradley, "decent enough platformer", £24.99), Amiga Joker (German text and manual), Amiga Computing (Maddock, Gold Award image)
+[^ref-27]: [Amiga Magazine Rack – Amiga Format 60 review](https://amr.abime.net/review_3066) – 68%, Stephen Bradley, p.80, £24.99, programmer Steven Dunn
+[^ref-28]: [Amiga Magazine Rack – Amiga Power 38 review](https://amr.abime.net/review_1567) – 62%, Steve McGill and Stuart Campbell, pp.38-39, £24.99
+[^ref-29]: [Amiga Magazine Rack – Amiga Joker review (Jun-Jul 1994)](https://amr.abime.net/review_19592) – 70%, Steffen Schamberger, p.14, DM 79
+[^ref-30]: [Amiga Magazine Rack – Amiga Action 59 review](https://amr.abime.net/review_13942) – 89%, Paul McNally and Paul Roundell, pp.24-25, £25.99
+[^ref-31]: [Amiga Magazine Rack – Amiga Concept 5 review](https://amr.abime.net/review_41516) – 92%, Laurent Picart, pp.50-51
+[^ref-32]: [Amiga Magazine Rack – Amiga Dream 8 review](https://amr.abime.net/review_45489) – 84%, Grégory Halliday, p.40
+[^ref-33]: [Amiga Magazine Rack – Datormagazin review (1994 No 13)](https://amr.abime.net/review_32906) – 4/5, Ove Kaufeldt, p.38, 329 SEK
+[^ref-34]: [Amiga Magazine Rack – Amiga Computing 75 review](https://amr.abime.net/review_8406) – 80%, pp.118-119, £24.99
+[^ref-35]: [Amiga Magazine Rack – Amiga Power 36 preview](https://amr.abime.net/review_19824) – In-depth preview, April 1994, Steve McGill, p.18
+[^ref-36]: [GameFAQs – Sierra Soccer: World Challenge Edition release data](https://gamefaqs.gamespot.com/amiga/997978-sierra-soccer-world-challenge-edition/data) – Developer Dynamix, publisher Sierra On-Line, Europe, 1994, Sports > Team > Soccer > Sim
