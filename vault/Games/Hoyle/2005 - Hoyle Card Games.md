@@ -10,7 +10,7 @@ series: Hoyle Card Games
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 composer: [Mike Caviezel]
 description: Hoyle Card Games 2005 is a Windows card game collection from Sierra Entertainment,
   published in the US by VU Games on September 14, 2004.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2005
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -94,6 +94,8 @@ MobyGames credits 61 people on the Windows version, including designer and docum
 - **Composer:** Mike Caviezel
 
 The game was released during Vivendi's 2004 cutbacks at Sierra; Wikipedia notes that in that process some assets, "like the *Hoyle* franchise", were sold to other publishers or developers[^ref-17].
+
+Three months after the game's September 2004 release, VU Games announced an agreement with Encore that included the assignment of the Hoyle games license, with Encore taking over sales, distribution and marketing effective December 23, 2004[^ref-25]. The announcement names Hoyle Card Games as part of the Hoyle franchise[^ref-25], and a December 23, 2004 report says Vivendi Universal Games divested its Hoyle-branded software products to Navarre Corp's Encore subsidiary, with terms not disclosed[^ref-26].
 
 ### Technical Specifications
 
@@ -209,3 +211,5 @@ No sales figures for Hoyle Card Games 2005 have been published. The game is not 
 [^ref-22]: [GameFAQs – Hoyle Card Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – US release 09/14/04, VU Games, UPC, ESRB descriptors
 [^ref-23]: [MobyGames – Hoyle Card Games 2005 Releases](https://www.mobygames.com/game/178234/hoyle-card-games-2005/releases/) – Sierra retail release and Encore slipcase release
 [^ref-24]: [GameSpot – Hoyle Card Games 2005 (archived May 2019)](https://web.archive.org/web/20190509195650/https://www.gamespot.com/hoyle-card-games-2005/) – Not Reviewed, user average 8.7 from 31 ratings, developer Encore Software, publisher VU Games
+[^ref-25]: [WorthPlaying – Vivendi Passes On 'Hoyle' Brand to Encore](https://worthplaying.com/article/2004/12/21/news/21356/) – Dec 21, 2004 press report; Hoyle license assignment to Encore effective Dec 23, 2004
+[^ref-26]: [SoCalTech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – Dec 23, 2004; Hoyle products divested to Navarre's Encore subsidiary, terms undisclosed
