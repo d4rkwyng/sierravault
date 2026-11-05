@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 3 Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-29'
+last_updated: '2026-11-05'
 description: NASCAR Legends is a 1999 Windows racing simulation by Papyrus Design
   Group, published by Sierra Sports, that recreates the 1970 NASCAR Grand National
   season on the NASCAR Racing 3 engine.
@@ -18,13 +18,13 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-NASCAR Legends is a racing simulation developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label for Windows in late 1999.[^ref-1][^ref-2][^ref-11] Sources disagree on the exact day: Wikipedia and PriceCharting give November 22, 1999, IGN and LaunchBox give November 20, 1999, and Metacritic lists October 31, 1999.[^ref-1][^ref-7][^ref-4][^ref-13][^ref-15] GameSpot called the game "an homage to the 1970 NASCAR season," and it recreates the drivers, cars and venues of the 1970 NASCAR Grand National Series.[^ref-1][^ref-3] It uses the same engine as NASCAR Racing 3.[^ref-1][^ref-4][^ref-5]
+NASCAR Legends is a racing simulation developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label for Windows in late 1999.[^ref-1][^ref-2][^ref-11] Sources disagree on the exact day: Wikipedia and PriceCharting give November 22, 1999, IGN and LaunchBox give November 20, 1999, and Metacritic lists October 31, 1999.[^ref-1][^ref-7][^ref-4][^ref-13][^ref-15] A Papyrus press release dated October 18, 1999 said the game "will be available in early November," which is an expectation rather than a ship date.[^ref-22] GameSpot called the game "an homage to the 1970 NASCAR season," and it recreates the drivers, cars and venues of the 1970 NASCAR Grand National Series.[^ref-1][^ref-3][^ref-25] It uses the same engine as NASCAR Racing 3.[^ref-1][^ref-4][^ref-5]
 
-The game features 42 drivers from the 1970 season and 16 of that year's tracks.[^ref-3][^ref-5] Wikipedia counts 48 real events in the 1970 season, while GameSpot's review gives 49.[^ref-1][^ref-3] Players can drive the Plymouth Superbird, Dodge Daytona, Ford Torino or a Mercury, and MobyGames notes that each of the four cars has "a different look and feel."[^ref-3][^ref-6] The racing rules follow the period: there is no pit road speed limit and no restrictor plates.[^ref-5]
+The game features 42 drivers from the 1970 season and 16 of that year's tracks.[^ref-3][^ref-5] Wikipedia counts 48 real events in the 1970 season, while GameSpot's review gives 49.[^ref-1][^ref-3][^ref-18] Players can drive the Plymouth Superbird, Dodge Daytona, Ford Torino or a Mercury Cyclone, and MobyGames notes that each of the four cars has "a different look and feel."[^ref-3][^ref-6][^ref-23][^ref-24] The racing rules follow the period: there is no pit road speed limit and no restrictor plates.[^ref-5][^ref-24]
 
 NASCAR Legends was well reviewed on release. GameSpot gave it 9/10 and IGN 8.9/10.[^ref-3][^ref-4] Critics praised its recreation of the 1970 season. GameSpot and GameGenie.com both suggested it might have worked better as an add-on to NASCAR Racing 3 than as a standalone product.[^ref-3][^ref-5]
 
@@ -43,7 +43,7 @@ NASCAR Legends was well reviewed on release. GameSpot gave it 9/10 and IGN 8.9/1
 
 NASCAR Legends has no narrative story mode. It is a historical simulation of the 1970 NASCAR Grand National Series season.[^ref-1][^ref-3] According to GameSpot, it includes online bios of the drivers and a detailed history of the 1970 season, with anecdotes and comments from some of the drivers.[^ref-3]
 
-The 1970 season featured the winged "aero" cars, the Plymouth Superbird and Dodge Daytona, with their protruding nose cones and high-mounted rear wings.[^ref-14] In the game they race alongside the Ford Torino and a Mercury.[^ref-3][^ref-6] Players race as, or against, 42 drivers from that season, and IGN notes that any driver's name can be changed to the player's own.[^ref-3][^ref-4]
+The 1970 season featured the winged "aero" cars, the Plymouth Superbird and Dodge Daytona, with their protruding nose cones and high-mounted rear wings.[^ref-14] In the game they race alongside the Ford Torino and a Mercury Cyclone.[^ref-3][^ref-6][^ref-23] NASCAR banned all four winged "aero" cars (from Dodge, Ford, Mercury and Plymouth) by the end of 1970.[^ref-21] Players race as, or against, 42 drivers from that season, and IGN notes that any driver's name can be changed to the player's own.[^ref-3][^ref-4]
 
 GameGenie.com noted that the game follows the rules of 1970, so there is no pit road speed limit and no restrictor plates.[^ref-5]
 
@@ -65,15 +65,15 @@ GameGenie.com noted that there is no career mode spanning several seasons, and 1
 
 ### Tracks and Venues
 
-The game features 16 tracks from the 1970 season.[^ref-3][^ref-5] They include:
+The game features 16 tracks from the 1970 season.[^ref-3][^ref-5][^ref-25] A pre-release preview listed Alabama, Atlanta, Bowman-Gray, Bristol, Charlotte, Darlington, Greenville-Pickens, Martinsville, Michigan, North Carolina, North Wilkesboro, Ontario, Richmond Fairgrounds, Riverside, Texas World and Thompson.[^ref-24] They include:
 
 - Riverside, a nine-turn road course[^ref-3][^ref-5]
-- Ontario, a defunct track. According to MobyGames, it wasn't raced on until 1971.[^ref-5][^ref-6]
-- Texas World Speedway. MobyGames notes that the real 1970 race there was canceled mid-season.[^ref-6]
+- Ontario, a defunct track. According to MobyGames, it wasn't raced on until 1971.[^ref-5][^ref-6] Wikipedia lists the track's NASCAR Cup race (the Los Angeles Times 500) as first held in 1971, and the speedway itself opened in August 1970.[^ref-19]
+- Texas World Speedway. MobyGames notes that the real 1970 race there was canceled mid-season.[^ref-6] Wikipedia's list of the track's Cup races (1969, 1971–1973, 1979–1981) shows none in 1970.[^ref-20]
 - Bowman Gray Stadium, a quarter-mile track, and North Wilkesboro Speedway[^ref-1][^ref-3]
 - A venue that GameGenie.com describes as "actually a high school track"[^ref-5]
 
-Daytona International Speedway is absent, reportedly because of licensing issues.[^ref-3][^ref-4] Hickory and the Smokey Mountain Speedway are also missing.[^ref-3]
+Daytona International Speedway is absent, reportedly because of licensing issues.[^ref-3][^ref-4] Hickory and the Smokey Mountain Speedway are also missing.[^ref-3] Both were on the real 1970 schedule: Hickory Speedway on June 20, and Smoky Mountain Raceway on May 28 and July 24.[^ref-18]
 
 ### Car Selection and Mechanics
 
@@ -82,13 +82,13 @@ Players choose from four cars:[^ref-3][^ref-6]
 - **Plymouth Superbird:** Winged aero car[^ref-3][^ref-14]
 - **Dodge Daytona:** Winged aero car[^ref-3][^ref-14]
 - **Ford Torino**[^ref-3]
-- **Mercury**[^ref-3][^ref-6]
+- **Mercury Cyclone**[^ref-3][^ref-6][^ref-23][^ref-24]
 
-The game automatically uses the aero version of a car on speedways and road courses, and the base car on short tracks.[^ref-1]
+The game automatically uses the aero version of a car on speedways and road courses, and the base car on short tracks.[^ref-1] A fan review also notes that the Superbird's aero kit comes off at short tracks.[^ref-23]
 
 ### Puzzles and Mechanics
 
-As a racing simulation, NASCAR Legends has no traditional puzzles. Its challenge lies in car setup and race strategy.[^ref-3][^ref-4] The bias-ply tires of the era make it easier to recover from skids and spins, but they wear out much faster than modern radials. GameSpot notes that managing tire pressure and temperature plays a crucial role in full-length races.[^ref-3] In the garage screen, players can adjust tire pressure, gear ratios, camber, weight, wheel lock and suspension.[^ref-3] GameGenie.com found that the cars "handle slightly different than those of today, but the change is not large."[^ref-5]
+As a racing simulation, NASCAR Legends has no traditional puzzles. Its challenge lies in car setup and race strategy.[^ref-3][^ref-4] The bias-ply tires of the era make it easier to recover from skids and spins, but they wear out much faster than modern radials.[^ref-23] GameSpot notes that managing tire pressure and temperature plays a crucial role in full-length races.[^ref-3] In the garage screen, players can adjust tire pressure, gear ratios, camber, weight, wheel lock and suspension.[^ref-3] GameGenie.com found that the cars "handle slightly different than those of today, but the change is not large."[^ref-5]
 
 ## Reception
 
@@ -116,7 +116,7 @@ GameSpot also raised technical criticisms. It said "the car graphics seem just a
 
 ### Origins
 
-NASCAR Legends came from Papyrus Design Group, whose NASCAR and IndyCar titles Race Sim Central describes as having "consistently pushed the genre forwards."[^ref-12] GameGenie.com called Papyrus "the authority of racing simulation." It noted that after releasing NASCAR Racing 3, the follow-up to NASCAR 2, Papyrus "decided to go back in time to 1970."[^ref-5] NASCAR Racing 3 shipped in September 1999, shortly before Legends.[^ref-16] The 1970 setting let the game feature the winged Plymouth Superbird and Dodge Daytona.[^ref-3][^ref-14]
+NASCAR Legends came from Papyrus Design Group, whose NASCAR and IndyCar titles Race Sim Central describes as having "consistently pushed the genre forwards."[^ref-12] GameGenie.com called Papyrus "the authority of racing simulation." It noted that after releasing NASCAR Racing 3, the follow-up to NASCAR 2, Papyrus "decided to go back in time to 1970."[^ref-5] NASCAR Racing 3 shipped in September 1999, shortly before Legends.[^ref-16][^ref-26] The 1970 setting let the game feature the winged Plymouth Superbird and Dodge Daytona.[^ref-3][^ref-14]
 
 ### Production
 
@@ -149,13 +149,13 @@ The game supports force-feedback steering wheels.[^ref-3][^ref-6] GameSpot noted
 **Display Options** (as reported by a My Abandonware user):[^ref-8]
 - **Original Resolution:** Maximum 1024x768
 - **Modern Resolution:** Can run at 1920x1080 with the nGlide wrapper
-- **Frame Rate:** Engine will not go over 31fps
+- **Frame Rate:** Engine will not go over 31fps (a Race Sim Central fan review likewise calls it frame-rate locked)[^ref-23]
 - **Historical Performance:** 20-25 fps at full detail on a Pentium 233MMX/Voodoo3 at 800x600
 
 **Media:**
 - **Format:** CD-ROM[^ref-6]
 - **Players:** 1–20[^ref-2]
-- **Retail Price:** $49.95 at launch[^ref-5]
+- **Retail Price:** $49.95 at launch[^ref-5][^ref-22]
 
 ### Cut Content
 
@@ -166,7 +166,10 @@ Several tracks from the real 1970 NASCAR season are missing from the game. The m
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | November 1999 (exact day disputed) | Windows | Initial release[^ref-1][^ref-2][^ref-4] |
-| 1.0.2.4 | Unknown | Windows | Patch available[^ref-8] |
+| 1.0.2.4 (per My Abandonware) | Unknown | Windows | Patch listed by My Abandonware[^ref-8] |
+| v1.2.0.4 (per Race Sim Central) | April 4, 2000 (listing date) | Windows | Patch listed by Race Sim Central[^ref-27] |
+
+The two sites give different version numbers (1.0.2.4 and v1.2.0.4); no source read settles which is correct, so the page reports both.
 
 ### Technical Issues
 
@@ -195,7 +198,7 @@ Several tracks from the real 1970 NASCAR season are missing from the game. The m
 
 ### Sales and Commercial Impact
 
-No sales figures for NASCAR Legends have been published. It launched at a retail price of $49.95.[^ref-5] PriceCharting tracks current collector-market prices for the retail release (UPC 020626708470).[^ref-7]
+No sales figures for NASCAR Legends have been published. It launched at a retail price of $49.95.[^ref-5][^ref-22] PriceCharting tracks current collector-market prices for the retail release (UPC 020626708470).[^ref-7]
 
 ### Collections
 
@@ -214,7 +217,7 @@ Players on abandonware sites still post compatibility advice and rate the game h
 ## Downloads
 
 **Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/nascar-legends-dtr) – Includes patch 1.0.2.4 and manual
+- [My Abandonware](https://www.myabandonware.com/game/nascar-legends-dtr) – Includes a patch labelled 1.0.2.4 and manual
 
 ## See Also
 
@@ -245,3 +248,13 @@ Players on abandonware sites still post compatibility advice and rate the game h
 [^ref-15]: [Metacritic – NASCAR Legends](https://www.metacritic.com/game/nascar-legends/) – no Metascore (tbd), no reviews listed; initial release date given as Oct 31, 1999
 [^ref-16]: [Wikipedia – NASCAR Racing 3](https://en.wikipedia.org/wiki/NASCAR_Racing_3) – NASCAR Racing 3 released in North America on September 16, 1999
 [^ref-17]: [MobyGames – NASCAR Legends Credits](https://www.mobygames.com/game/1668/nascar-legends/credits/) – Project Director David Matson, Lead Engineer Charlie Heath, Designer Richard Yasi, Producer Matt Marsala, manual by Steve Vandergriff
+[^ref-18]: [Wikipedia – 1970 NASCAR Grand National Series](https://en.wikipedia.org/wiki/1970_NASCAR_Grand_National_Series) – season ran Jan 18 to Nov 22, 1970 (48 numbered races); schedule includes Hickory (June 20) and Smoky Mountain (May 28)
+[^ref-19]: [Wikipedia – Ontario Motor Speedway](https://en.wikipedia.org/wiki/Ontario_Motor_Speedway) – opened August 1970; NASCAR Cup Los Angeles Times 500 held 1971–1972, 1974–1980
+[^ref-20]: [Wikipedia – Texas World Speedway](https://en.wikipedia.org/wiki/Texas_World_Speedway) – NASCAR Cup races listed for 1969, 1971–1973, 1979–1981; none in 1970
+[^ref-21]: [Wikipedia – Dodge Charger Daytona](https://en.wikipedia.org/wiki/Dodge_Charger_Daytona) – NASCAR rule changes effectively banned the Dodge, Ford, Mercury and Plymouth aero cars by the end of 1970
+[^ref-22]: [Papyrus press release, The Auto Channel (18 Oct 1999)](https://www.theautochannel.com/news/press/date/19991018/press001416.html) – "available in early November for $49.95"; 1970 season, 750 hp engine sounds, 1024x768/800x600 with 3Dfx and Direct3D. Cited for price and features, not as a ship date
+[^ref-23]: [Race Sim Central archive – NASCAR Legends review by Scott B. Husted (28 Jun 2002)](https://bhms.racesimcentral.net/print/27) – fan review: four makes (Torino Talladega, Mercury Cyclone, Dodge Daytona, Plymouth Superbird), aero kit off at short tracks, bias-ply tires, frame-rate locked
+[^ref-24]: [SimCyberWorld – NASCAR Legends preview](http://www.simcyberworld.com/otherstuff/firstlook.html) – pre-release fan preview: speedway and short-track car lists including Mercury Cyclone, 16-track list, bias-ply tires, no pit speed limit
+[^ref-25]: [Race Sim Central – NASCAR Legends](https://racesimcentral.net/game/nascar-legends/) – "a simulation of the 1970 NASCAR Grand National Series… a selection of period chassis and 16 period tracks"
+[^ref-26]: [Strategy Plus / Computer Games – NASCAR 3 Ships (Wayback)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) – posted 09/16/1999: Sierra Sports and Papyrus "have shipped" NASCAR Racing 3 to North American retail
+[^ref-27]: [Race Sim Central – NASCAR Legends Patch v1.2.0.4 (1.46MB)](https://racesimcentral.net/nascar-legends-patch-v1-2-0-4-1-46mb/) – patch listed on Race Sim Central search results as dated Apr 4, 2000; file not opened
