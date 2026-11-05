@@ -10,7 +10,7 @@ series: Hoyle Board Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a sixteen-game
   board game compilation for Windows and Macintosh, developed and published by Sierra
   On-Line and released in 2000.
@@ -18,13 +18,13 @@ tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a compilation of classic board games developed and published by [[Sierra On-Line]][^ref-1]. It was released in 2000 for Windows and Macintosh[^ref-1]. Macworld credited the Mac version to Sierra Attractions, Sierra's casual gaming division, and gave its price as US$29.99[^ref-3]. The collection features sixteen classic board games, augmented by multimedia and full-color graphics[^ref-3].
+Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a compilation of classic board games developed and published by [[Sierra On-Line]][^ref-1]. It was released in 2000 for Windows and Macintosh[^ref-1]. Macworld credited the Mac version to Sierra Attractions, Sierra's casual gaming division, and gave its price as US$29.99[^ref-3]. The collection features sixteen classic board games, augmented by multimedia and full-color graphics[^ref-3]. TechWithKids listed the Mac and Windows release at 12/15/2000, described it as "a fabulous way to play 16 favorite board games," and named Sierra Attractions as the company[^ref-21].
 
-GameSpot's Tim Soete wrote that the games keep "the same challenging play elements as that of their real-world counterparts, but they are enhanced with graphics and sound for a more engaging PC experience"[^ref-5]. Players can compete against animated computer opponents or play with other people[^ref-1][^ref-3]; most games support up to four players on one computer, and an Internet option lets players challenge live opponents online[^ref-5]. The package includes Sierra's patented "facemaker" character creation system, allowing players to create personalized avatars that speak and are fully animated[^ref-5].
+GameSpot's Tim Soete wrote that the games keep "the same challenging play elements as that of their real-world counterparts, but they are enhanced with graphics and sound for a more engaging PC experience"[^ref-5]. Players can compete against animated computer opponents or play with other people[^ref-1][^ref-3]; most games support up to four players on one computer, and an Internet option lets players challenge live opponents online[^ref-5][^ref-21]. The package includes Sierra's patented "facemaker" character creation system, which GameSpot said lets players mix and match eyes, noses, mouths, hairdos and skin tones[^ref-5]; MobyGames' description adds that the players' avatars can be customized, speak and are fully animated[^ref-1].
 
 The package includes a manual, both electronic and hard copy, "detailing the rules and histories of all its games," and Macworld concluded that "players of all ages and skill levels will find something to enjoy"[^ref-3]. It is rated E for Everyone by the ESRB[^ref-17].
 
@@ -76,7 +76,7 @@ MobyGames classifies the interface as point and select[^ref-1]. In GameSpot's re
 
 For solo players the game includes computer opponents, which Macworld found "much less obnoxious than typical computer players"; they are "creatively voiced and often comment on specific action in the game"[^ref-3]. GameSpot noted that "the characters each have unique animations"[^ref-5], and each computer opponent has its own biography screen[^ref-8]. GameSpot described their personalities as "pretty odd," ranging "from a schizophrenic puppeteer to a Jamaican jazz bass player," and noted that the game lets players adjust the opponents' chattiness[^ref-5].
 
-The game features Sierra's patented "facemaker" character creation system, allowing players to build customized avatars[^ref-5]. These player-created characters can be fully animated and can speak during gameplay[^ref-7]. Personalized characters also carry over into the game's Internet play[^ref-5].
+The game features Sierra's patented "facemaker" character creation system, which lets players "custom-tailor your own personality" by mixing and matching facial features and skin tones[^ref-5]. MobyGames' description states that the players' avatars can be customized, speak and are fully animated[^ref-1]. Personalized characters also carry over into the game's Internet play[^ref-5].
 
 ### Multiplayer Options
 
@@ -85,11 +85,11 @@ The collection supports multiple play modes[^ref-1]:
 - **Local Multiplayer** – Most games can be played by up to four players on one computer[^ref-5]
 - **Internet Play** – Challenge and chat with live players over the Internet[^ref-5]; Macworld's reviewer found the in-game Internet button did not work for him, and noted the option was not mentioned in the manual[^ref-3]
 
-Some games allow choice between solo play and multiplayer with other people or computer controlled characters[^ref-7].
+Some games allow choice between solo play and multiplayer with other people or computer controlled characters[^ref-1].
 
 ### Rules and Layouts
 
-Rules are explained in the manual rather than in the game: "Don't know the rules to Reversi or Pachisi? That's not a problem, as this collection also includes an excellent, interesting manual"[^ref-3]. The Mahjong component includes a layouts editor for creating custom tile arrangements[^ref-8].
+Macworld pointed players to the manual for the rules: "Don't know the rules to Reversi or Pachisi? That's not a problem, as this collection also includes an excellent, interesting manual"[^ref-3]. The Mahjong component includes a layouts editor for creating custom tile arrangements[^ref-8].
 
 ## Reception
 
@@ -175,7 +175,7 @@ The game is also known as Hoyle Board Games 5[^ref-1].
 
 ### Easter Eggs and Trivia
 
-- Players' avatars can be customized, speak, and are fully animated[^ref-7]
+- MobyGames' description says the players' avatars can be customized, speak and are fully animated[^ref-1]
 - MobyGames' entry for Hoyle Card Games (2002) says player identities created there can be used in Hoyle Board Games and Hoyle Casino, and vice versa[^ref-9]
 - The game features multiple tile sets for Mahjong, including Classic tiles and Egyptian tiles[^ref-8]
 
@@ -183,13 +183,13 @@ The game is also known as Hoyle Board Games 5[^ref-1].
 
 ### Collections and Related Titles
 
-The Hoyle Board Games series continued after this release, with Sierra Entertainment and later [[Encore Software]] publishing additional editions:
+The Hoyle Board Games series continued after this release, with Sierra Entertainment and later [[Encore Software]] publishing additional editions[^ref-25]:
 
-- **Hoyle Board Games 2002** – Very similar to the 2001 edition[^ref-10]
-- **Hoyle Board Games 2003** – Goble wrote that Sierra "added two more games to last year's list for a grand total of 18," while also describing four new Sierra-devised games and captioning a screenshot "one of 16 different board games," so the count is uncertain[^ref-10]
+- **Hoyle Board Games 2002** – Very similar to the 2001 edition[^ref-10]; Sierra's own site (October 2001 snapshot) listed the same 16 games, with a new Palm OS version of Backgammon[^ref-22], and Macworld reported it shipping as a hybrid PC/Mac CD-ROM at US$29.95[^ref-24]
+- **Hoyle Board Games 2003** – Goble wrote that Sierra "added two more games to last year's list for a grand total of 18," while also describing four new Sierra-devised games and captioning a screenshot "one of 16 different board games"[^ref-10]; Sierra's own site (December 2002 snapshot) advertised "multiple variations of 18 classic games"[^ref-23]
 - **Hoyle Board Games 2005** – Published by Encore Software[^ref-16]
 
-The game was also part of a larger Hoyle ecosystem that included card game collections, which shared the same avatar system[^ref-9]. The edition GameSpot reviewed in October 2002 added bonus PDA versions of mahjong tiles and backgammon for Palm or Windows handhelds[^ref-10].
+The game was also part of a larger Hoyle ecosystem that included card game collections, which shared the same avatar system[^ref-9]. The edition GameSpot reviewed in October 2002 added bonus PDA versions of mahjong tiles and backgammon for Palm or Windows handhelds[^ref-10]; Sierra's site described these as bonus games for Palm OS and Windows CE handhelds, available in specially marked versions[^ref-23].
 
 ### Related Publications
 
@@ -251,11 +251,11 @@ Reviewing a later edition in 2002, GameSpot's Gord Goble observed that Hoyle Boa
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -285,3 +285,8 @@ Reviewing a later edition in 2002, GameSpot's Gord Goble observed that Hoyle Boa
 [^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
 [^ref-20]: [MobyGames – Hoyle: Official Book of Games – Volume 3](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/) – 1991; "Six board games are transferred to the computer screen"
+[^ref-21]: [TechWithKids – Hoyle Board Games 2001 review page (Wayback, Oct 2020)](https://web.archive.org/web/20201019154715/http://www.techwithkids.com/Review_SR00048S_hoyle-board-games-2001) – 12/15/2000, Mac and Windows, 16 board games, up to four players or Internet play, Sierra Attractions, about $30
+[^ref-22]: [Sierra Hoyle Board Games page (Wayback, Oct 30, 2001)](https://web.archive.org/web/20011030042737/http://hoyle.sierra.com:80/) – 2002 edition: same 16-game list, new Palm OS Backgammon (cited for the 2002 line only)
+[^ref-23]: [Sierra Hoyle Board Games page (Wayback, Dec 8, 2002)](https://web.archive.org/web/20021208064612/http://hoyle.sierra.com/boardgames.html) – 2003 edition: "18 classic games," Palm OS and Windows CE bonus games (cited for the 2003 line only)
+[^ref-24]: [Macworld – Sierra releases new Hoyle games for 2002](https://www.macworld.com/article/163096/hoyle.html) – Sep 30, 2001; 2002 edition: 16 games, hybrid PC/Mac CD-ROM, US$29.95 (cited for the 2002 line only)
+[^ref-25]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series publisher dates (Sierra Entertainment 1996–2003, Encore 2005–2016); series context only
