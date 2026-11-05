@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Proprietary (patent-pending inertial flight mode)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 composer: [Christopher Franke, Victor Crews]
 description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
   by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
@@ -18,7 +18,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yo
 
 Development began in 1998 with the goal of creating what Sierra described as a "self-evolving universe" that would allow players to experience the major conflicts of the Babylon 5 timeline[^ref-3]. The game utilized ships based on the television show's original digital models, created in Lightwave 3D but optimized with lower polygon counts for real-time gameplay[^ref-1]. Sierra cited figures of up to 1,000 simultaneous ships in some battles[^ref-1], with over 60 unique ship models from Earth Alliance and alien factions[^ref-3][^ref-5].
 
-Tragically, despite being approximately 65% complete[^ref-1][^ref-16], with live-action footage already filmed with the primary cast[^ref-2][^ref-4], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105)[^ref-16][^ref-17]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
+Tragically, despite being approximately 65% complete[^ref-1][^ref-16], with live-action footage already filmed with the primary cast[^ref-2][^ref-4], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105, matching Sierra's announcement as quoted on Usenet)[^ref-16][^ref-17][^ref-24]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
@@ -142,7 +142,7 @@ The surviving alpha can be difficult to run on modern systems. One My Abandonwar
 
 - Promotional merchandise was produced including a prototype flip box, poster, 3D lenticular mouse pad, wristwatch, and magnet[^ref-5]
 - Only five copies of the complete Christopher Franke soundtrack CD were reportedly issued[^ref-8]
-- Two tracks of Christopher Franke's game music were included on a separate music disc with "The Official Guide to Babylon 5" CD-ROM, the first product of the Sierra–Warner Bros. deal, released shortly after the October 1997 announcement[^ref-1][^ref-5]
+- Two tracks of Christopher Franke's game music were included on a separate music disc with "The Official Guide to Babylon 5" CD-ROM, the first product of the Sierra–Warner Bros. deal, described by Abandonware France as released shortly after the October 1997 announcement, though Springbringer dates it to 1998[^ref-1][^ref-5]; a 1997 Sierra promotional music CD, subtitled "Space Simulation Preview", also carried two previously unreleased themes from the game[^ref-21]
 - Actress Suanne Braun, credited as D'Bok[^ref-2], described the unusual experience of being in full Narn makeup with thick contact lenses and not recognizing herself in the mirror[^ref-10]
 
 ## Cast
@@ -166,7 +166,7 @@ Four series leads—Bruce Boxleitner, Jerry Doyle, Mira Furlan and Tracy Scoggin
 
 ### Sales and Commercial Impact
 
-Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, four unnamed publishers reportedly showed interest in acquiring the project[^ref-1][^ref-16], and negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Giant Bomb's wiki adds that a few of the developers set up their own company, Sector 14 Studios, and almost put together a deal to rework the game as an Xbox launch title; Sierra's owner Havas was at first unwilling to sell the rights, and by the time a fan campaign changed its mind it was too late for the Xbox launch, and Sector 14 could not secure other funding[^ref-15]. A 2014 forum post claims, unverified, that Sierra cancelled the game to move funds to a WWF tie-in game[^ref-6].
+Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, four unnamed publishers reportedly showed interest in acquiring the project[^ref-1][^ref-16], and negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Giant Bomb's wiki adds that a few of the developers set up their own company, Sector 14 Studios, and almost put together a deal to rework the game as an Xbox launch title[^ref-15]. Sector 14's CEO, Richard Brewer, thanked Mike Abrash for helping the studio "get in touch with the X-box team at Microsoft"[^ref-19]. On October 5, 2000, a Wing Commander fan forum reprinted Brewer's message to FirstOnes.com announcing that the effort to finish the game had failed: "It is not due to problems with Sector 14 Studios, nor is it due to lack of interest by publishers, or lack of funding, but rather the current holder of the materials recently informed us they were no longer interested in selling the game assets. Appeals to the highest levels of management at Havas in France were not able to change their stance"[^ref-19]. GameSpot's report of the announcement says the same, naming Sierra as the party no longer interested in selling the assets[^ref-20]. Giant Bomb adds that Sierra's owner Havas was at first unwilling to sell the rights and that a fan campaign came too late for the Xbox launch[^ref-15]; Brewer's statement does not mention a change of heart and says Havas did not change its stance, so this Giant Bomb clause is unconfirmed by Sector 14's own account. A 2014 forum post claims, unverified, that Sierra cancelled the game to move funds to a WWF tie-in game[^ref-6].
 
 ### Collections
 
@@ -174,11 +174,11 @@ The game was never released in any collection. The only publicly available versi
 
 ### Fan Projects
 
-Fans have pointed to "Babylon Project," a fan-based mod for FreeSpace that was later released as a standalone free game with the FreeSpace SCP (Source Code Project), as an alternative[^ref-7]. Abandonware DOS lists a 2003 title, "Babylon 5: I've Found Her"[^ref-11], which a 2014 forum poster recalled as a fan-made game[^ref-6].
+Fans have pointed to "Babylon Project," a fan-based mod for FreeSpace that was later released as a standalone free game with the FreeSpace SCP (Source Code Project), as an alternative[^ref-7]. "Babylon 5: I've Found Her" is a freeware space combat simulator by Space Dream Factory set in the Babylon 5 universe[^ref-22]; IndieDB lists its prequel campaign "Danger & Opportunity" as released in 2003 and says the team and its projects later fell apart[^ref-23]. A 2014 forum poster recalled it as a fan-made game[^ref-6].
 
 ### Related Publications
 
-- **The Official Guide to Babylon 5 (CD-ROM, released shortly after the October 1997 announcement):** Its companion music disc included two tracks of Christopher Franke's music composed for Into the Fire[^ref-1][^ref-5]
+- **The Official Guide to Babylon 5 (CD-ROM; Abandonware France says shortly after the October 1997 announcement, Springbringer says 1998):** Its companion music disc included two tracks of Christopher Franke's music composed for Into the Fire[^ref-1][^ref-5]. Separately, Discogs documents a 1997 Sierra promotional CD, "The Best Of Babylon 5" ("Space Simulation Preview"), with two previously unreleased themes from the unreleased game; its notes say it was a teaser given with Sierra purchases[^ref-21]
 - **Promotional Materials:** Prototype flip box, poster, 3D lenticular mouse pad, wristwatch, and magnet were produced[^ref-5]
 - **Soundtrack CD:** A full soundtrack was produced with five tracks (each approximately 11 minutes 20 seconds), but only five copies were reportedly issued[^ref-8]
 
@@ -215,8 +215,13 @@ Into the Fire was never released or sold. An unfinished alpha leaked online in 2
 [^ref-8]: X-Bomber – "Games - Babylon 5 Into the Fire" (Piers Bell, xbomber.com, 2020; read 2026-10-27; not linked because the page hosts the leaked soundtrack) – modular 30-second music themes, five-track soundtrack CD, "only 5 copies"
 [^ref-9]: [The Digital Antiquarian – The Space Sim's Last Hurrah (Jimmy Maher, 7 Nov 2025)](https://www.filfre.net/2025/11/the-space-sims-last-hurrah/) – "the most high-profile of the cancellations"; reader comment on running the demo in a PCem Windows 98 VM
 [^ref-10]: [B5TV Forums – Into the Fire Discussion](https://www.b5tv.com/threads/into-the-fire-aborted-video-game.42560/) – Suanne Braun (spelled "Brown" in the thread) on the Narn makeup, completion status
-[^ref-11]: [Abandonware DOS – Babylon 5 Games Search](https://www.abandonwaredos.com/search.php?search=Babylon+5%3A+Into+the+Fire) – reference to fan-made alternative
 [^ref-15]: [Giant Bomb – Babylon 5: Into the Fire](https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/) ([Wayback copy, 23 Nov 2022](http://web.archive.org/web/20221123093848/https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/)) – wiki overview: move to Bellevue, Sector 14 Studios' Xbox revival attempt, Havas and the rights
 [^ref-16]: [Wired – 'B5': Back B4 U Know It? (Oct 20, 1999)](https://www.wired.com/1999/10/b5-back-b4-u-know-it/) – September cancellation, 105 layoffs, lead programmer Dan Foy on 65% completion
 [^ref-17]: [IGN – Sierra Cancels Four Games, Postpones Another (Sep 22, 1999)](https://www.ign.com/articles/1999/09/22/sierra-cancels-four-games-postpones-another) – Babylon 5 among four cancelled titles; more than 100 laid off
 [^ref-18]: [J. Michael Straczynski – "B5: Into the Fire Cancelled" (b5jms archive, Sep 1999)](https://lists.fsl.cs.sunysb.edu/pipermail/b5jms/1999-September/003404.html) – JMS on the cancellation, relocation cost and WB licence timing
+[^ref-19]: [Wing Commander CIC – "Babylon 5: Into the Fire now sleeps in light" (5 Oct 2000)](https://www.wcnews.com/chatzone/threads/babylon-5-into-the-fire-now-sleeps-in-light.781/) – forum reprint of Sector 14 CEO Richard Brewer's message to FirstOnes.com: failure not due to publishers or funding, Havas would not sell the assets; Xbox team contact
+[^ref-20]: [GameSpot – Babylon 5 No More](https://www.gamespot.com/articles/babylon-5-no-more/1100-2636964/) – Sector 14 discontinues work because Sierra/Havas would not sell the game assets (page shows a 2004 date but the text refers to the autumn 2000 events)
+[^ref-21]: [Discogs – Christopher Franke: The Best Of Babylon 5 (1997, Sierra/Sonic Images)](https://www.discogs.com/release/1633095-Christopher-Franke-The-Best-Of-Babylon-5) – promotional CD "Space Simulation Preview" with two unreleased themes from the cancelled game
+[^ref-22]: [LinuxLinks – Babylon 5: I've Found Her (14 Dec 2017)](https://www.linuxlinks.com/babylon5ivefoundher/) – freeware space combat simulator by Space Dream Factory
+[^ref-23]: [IndieDB – Space Dream Factory](https://www.indiedb.com/company/space-dream-factory) – "Danger & Opportunity" listed as released 2003; the team later fell apart
+[^ref-24]: [alt.babylon5.uk – "B5 game DEAD!" (22 Sep 1999)](https://groups.google.com/g/alt.babylon5.uk/c/2atrocFoKUU) – Usenet quote of Sierra's announcement: Babylon 5 among cancelled titles, loss of 105 jobs
