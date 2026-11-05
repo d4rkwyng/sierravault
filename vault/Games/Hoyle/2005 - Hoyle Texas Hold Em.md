@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-05'
 description: Hoyle Texas Hold 'Em is a poker game for Windows developed and published
   by Encore Software, released in the US in February 2005, with 14 poker games
   including Texas Hold 'Em.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Texas Hold 'Em 2005
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ GameFAQs users rate the game "Good" from 2 ratings[^ref-1].
 
 ### Production
 
-GameFAQs, GameSpot and Metacritic all credit Encore Software as developer and publisher[^ref-16][^ref-20][^ref-17]. Encore was then "A Navarre Corporation Company," per its 2005 catalogue[^ref-22]; Navarre Corporation had acquired Encore's assets out of bankruptcy court in August 2002[^ref-25]. No individual design credits have been found.
+GameFAQs, GameSpot and Metacritic all credit Encore Software as developer and publisher[^ref-16][^ref-20][^ref-17]. Encore was then "A Navarre Corporation Company," per its 2005 catalogue[^ref-22]; Navarre Corporation announced on August 5, 2002 that it had acquired the primary assets of Encore Software, Inc. from the United States Bankruptcy Court for the Central District of California[^ref-25][^ref-26]. No individual design credits have been found.
 
 ### Version History
 
@@ -179,3 +179,4 @@ Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and des
 [^ref-23]: [Amazon – Hoyle Texas Hold 'Em Poker (Jewel Case)](https://www.amazon.com/dp/B0007SXGMO) – manufacturer Encore; date first available February 11, 2005; "14 different poker favorites including: Texas Hold'em, 5 Card Draw, 7 Card Stud, Omaha"; built-in tutorials
 [^ref-24]: [MobyGames – Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Sierra's 1997 poker game, Windows, April 30, 1997; variations include Texas Hold 'Em
 [^ref-25]: [Wikipedia – Encore, Inc.](https://en.wikipedia.org/wiki/Encore,_Inc.) – Navarre Corporation acquired Encore's assets in August 2002
+[^ref-26]: [Navarre Corporation – "Navarre Corporation Acquires Encore Software, Inc." press release, August 5, 2002 (Wayback copy)](https://web.archive.org/web/20120712155140/http://ir.navarre.com/phoenix.zhtml?c=105157&p=irol-newsArticle&ID=322645&highlight=) – acquired the primary assets of Encore Software, Inc. from the U.S. Bankruptcy Court, Central District of California
