@@ -10,13 +10,13 @@ series: Metaltech
 engine: null
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-05'
 description: 'The Metaltech Earthsiege Speech Pack was a 1994 floppy-disk add-on from Dynamix and Sierra On-Line that added digitized speech to the floppy version of Metaltech: Earthsiege; the CD-ROM version already included it.'
 tags: [1990s, metaltech, sierra, simulation, add-on]
 ---
 # Metaltech Earthsiege Speech Pack
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -63,7 +63,7 @@ Little is documented about how the pack was made. MobyGames lists no credits for
 | Speech Pack | 1994 | DOS (3.5" floppy) | Separate add-on for the floppy version of Earthsiege[^ref-1][^ref-10] |
 | Earthsiege CD-ROM | 1994 | DOS (CD-ROM) | Includes the Speech Pack and a video intro sequence[^ref-17] |
 
-The pack dates from 1994. Sierra listed "MetalTech: EarthSiege Speech Pack" alongside Battledrome and EarthSiege in its Holiday 1994 *InterAction* catalogue,[^ref-45] and Ken Williams' release list places it under 1994 as "MetalTech - EarthSiege: Speech Pack (Nov)".[^ref-46] MobyGames and Wikipedia also give 1994.[^ref-1][^ref-9] A 2018 blog, Remember PC DOS Games, gives 1995, which the period sources do not support.[^ref-4]
+The pack dates from 1994. Sierra listed "MetalTech: EarthSiege Speech Pack" alongside Battledrome and EarthSiege in its Holiday 1994 *InterAction* catalogue,[^ref-45] and Ken Williams' release list places it under 1994 as "MetalTech - EarthSiege: Speech Pack (Nov)".[^ref-46] MobyGames and Wikipedia also give 1994,[^ref-1][^ref-9] as does the Dynamix Wiki, which says a disk version "that included a speech pack" followed within the same year.[^ref-50] MyAbandonware likewise lists it as a 1994 DOS release from Sierra On-Line and Dynamix.[^ref-51] A 2018 blog, Remember PC DOS Games, gives 1995, which the period sources do not support.[^ref-4]
 
 The pack was still on sale in Europe the following year. Sierra's UK mail-order catalogue list dated 11/08/95 lists "EARTHSIEGE SPEECH PACK (for disk" as an add-on in FE/FF/FG (full English, French and German) at £9.99 for PC 3.5" disks.[^ref-49]
 
@@ -116,4 +116,6 @@ Hi-Rez Studios re-released Earthsiege for free in 2015. PCGamingWiki notes that 
 [^ref-46]: Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line* (2020) - Sierra's 1994 release list: "MetalTech - EarthSiege: Speech Pack (Nov)"
 [^ref-47]: [Internet Archive - Computer Gaming World #126 (January 1995)](https://archive.org/details/Computer_Gaming_World_Issue_126) - Jeff James, "Rock 'Em, Sock 'Em, Robots": "the best attempt yet at creating a futuristic simulation of giant armored combat"
 [^ref-48]: [Internet Archive - Next Generation #2 (February 1995)](https://archive.org/details/nextgen-issue-002) - Metaltech: Earthsiege review: "Without a doubt, the finest mech simulator available." Rated four stars
-[^ref-49]: [Internet Archive - Sierra On-Line UK Support Correspondence & Order Form](https://archive.org/details/sierra-on-line-uk-support-correspondence-order-form) - Mail order catalogue list (11/08/95), file kq34b: "EARTHSIEGE SPEECH PACK (for disk", FE/FF/FG, add-on, PC 3.5 £9.99
+[^ref-49]: [Internet Archive - Sierra On-Line UK Support Correspondence & Order Form](https://archive.org/details/sierra-on-line-uk-support-correspondence-order-form) - Mail order catalogue list (11/08/95), file kq34b: "EARTHSIEGE SPEECH PACK (for disk", FE/FF/FG, add-on, PC 3.5 £9.99 (price read from the scan image; the OCR text drops it)
+[^ref-50]: [Dynamix Wiki - Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) - "Another disk version was later released within that same year that included a speech pack."
+[^ref-51]: [MyAbandonware - Metaltech: EarthSiege - Speech Pack](https://www.myabandonware.com/game/metaltech-earthsiege-speech-pack-2wc) - Database entry: DOS, 1994, Sierra On-Line, Dynamix; addon requiring the original game (metadata only)
