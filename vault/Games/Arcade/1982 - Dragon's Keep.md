@@ -10,7 +10,7 @@ series: Hi-Res Learning
 engine: Dragon's Keep engine
 protagonist: Unnamed Child
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: Dragon's Keep is a children's educational adventure game by Al Lowe and
   friends, first sold by SunnySide Soft for the Apple II in 1982, re-released by Sierra
   On-Line in 1983 and ported to the Atari 8-bit and Commodore 64 in 1984.
@@ -18,22 +18,22 @@ tags: [1980s, adventure, al-lowe, hi-res-learning, sierra]
 ---
 # Dragon's Keep
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Dragon's Keep is a children's educational adventure game originally developed by SunnySide Soft and later published by Sierra On-Line[^ref-1]. SunnySide sold it for the Apple II in 1982; Sierra re-released it for the Apple II in 1983 as a "Hi-Res Learning" title, and ported it to the Atari 8-bit and Commodore 64 in 1984[^ref-19][^ref-14][^ref-20]. The game was designed in the same spirit as Sierra's Hi-Res Adventure series, including games like Mission: Asteroid and Mystery House, but was specifically tailored for young players ages seven and up[^ref-1]. The premise involves a magical dragon who has captured sixteen animals—including a dog, bird, fish, turtle, cat, squirrel, rabbit, pig, bear, monkey, cow, calf, hen, puppy, frog, and raccoon—that the player must locate and free from the dragon's domain[^ref-1].
+Dragon's Keep is a children's educational adventure game originally developed by SunnySide Soft and later published by Sierra On-Line[^ref-1]. SunnySide sold it for the Apple II in 1982; Sierra re-released it for the Apple II in 1983 as a "Hi-Res Learning" title, and ported it to the Atari 8-bit and Commodore 64 in 1984[^ref-19][^ref-14][^ref-20]. A December 1983 *Windfall* report on the new educational titles says Sierra "acquired a product line developed by Sunnyside Soft" and that the Sunnyside founders, Michael and Rae Lynn MacChesney and Al and Margaret Lowe, "all wrote Dragon's Keep"[^ref-22]. The game was designed in the same spirit as Sierra's Hi-Res Adventure series, including games like Mission: Asteroid and Mystery House, but was specifically tailored for young players ages seven and up[^ref-1]. Creative Computing's November 1983 profile called it a game for children aged "seven and up"[^ref-25], and Family Computing listed it as ages 7+[^ref-26]. Not every source agrees: ANALOG's Atari review describes it as a junior adventure for "children ages eight years and older"[^ref-28]. The premise involves a magical dragon who has captured sixteen animals—including a dog, bird, fish, turtle, cat, squirrel, rabbit, pig, bear, monkey, cow, calf, hen, puppy, frog, and raccoon—that the player must locate and free from the dragon's domain[^ref-1].
 
 What makes Dragon's Keep particularly significant in gaming history is its connection to [[Al Lowe]], who would later become famous as the creator of the Leisure Suit Larry series. This was the very first game ever made by Al Lowe, who had purchased an Apple II computer to learn how to program[^ref-4]; Retro365 instead says he bought it "initially to write software that could help make his job easier"[^ref-19]. Developed in the summer of 1982 with his wife Margaret Lowe and friends Mike and Rae Lynn MacChesney through their small software company Sunnyside Soft, the game caught the attention of Sierra On-Line founders Ken and Roberta Williams[^ref-4].
 
-The game was designed to help children develop reading comprehension through a controlled vocabulary[^ref-5], along with map reading skills[^ref-14]. Rather than using a traditional text parser that might frustrate young players, Dragon's Keep employed a simple menu-driven interface where children could select actions from a short list of choices by pressing just two keys[^ref-1].
+The game was designed to help children develop reading comprehension through a controlled vocabulary[^ref-5], along with map reading skills[^ref-14]. Rather than using a traditional text parser that might frustrate young players, Dragon's Keep employed a simple menu-driven interface where children could select actions from a short list of choices by pressing just two keys[^ref-1]; a 1983 *Peelings II* review likewise says the games "are played using only two keys, the Space Bar and the RETURN key"[^ref-24].
 
 > [!info]- Game Info
 > **Developer:** SunnySide Soft[^ref-1]
 > **Designer:** [[Al Lowe]], Margaret Lowe, Mike MacChesney, Rae Lynn MacChesney[^ref-6]
 > **Publisher:** SunnySide Soft, [[Sierra On-Line]][^ref-1]
 > **Engine:** Dragon's Keep engine[^ref-4] (graphics via Penguin Software's The Graphics Magician[^ref-1])
-> **Platforms:** Apple II, Atari 8-bit, Commodore 64; IBM PC/PCjr (unconfirmed)[^ref-1][^ref-13]
+> **Platforms:** Apple II, Atari 8-bit, Commodore 64; IBM PC/PCjr (listed by MobyGames as PC Booter, 1984; unconfirmed, no copy has surfaced)[^ref-1][^ref-13]
 > **Release Year:** 1982 (SunnySide Soft, Apple II); 1983 (Sierra, Apple II); 1984 (Atari 8-bit, Commodore 64)[^ref-19]
 > **Series:** Hi-Res Learning
 > **Protagonist:** Unnamed Child
@@ -43,7 +43,7 @@ The game was designed to help children develop reading comprehension through a c
 
 In Dragon's Keep, a magical dragon is holding sixteen animals captive in and around its magic house[^ref-14][^ref-4]. The player takes on the role of a young adventurer whose mission is to explore the dragon's territory and rescue all of the captive creatures. The animals have been scattered throughout the dragon's domain, hidden in various locations that the player must discover through careful exploration[^ref-2].
 
-The dragon serves as the primary antagonist, appearing at random throughout the game world. When the dragon is present in a location, the player cannot free any animals in that same picture[^ref-1]. This mechanic teaches young players patience and strategic thinking—they must wait for the dragon to leave before attempting a rescue. Notably, the dragon does not directly harm the player, making the game suitable for young children without frightening content[^ref-16][^ref-7].
+The dragon serves as the primary antagonist, appearing at random throughout the game world. When the dragon is present in a location, the player cannot free any animals in that same picture[^ref-1]. This mechanic teaches young players patience and strategic thinking—they must wait for the dragon to leave before attempting a rescue. Notably, the dragon does not directly harm the player, making the game suitable for young children without frightening content[^ref-16][^ref-7]. The September 1984 SCAT Newsletter reviewer likewise noted that the dragon stops you from rescuing animals but never harms the player, and found that a nice touch (OCR text is partly garbled)[^ref-29].
 
 The adventure world is described as "very small," and the animals are designed to be easily found by young players who look everywhere[^ref-2]. This deliberate design choice ensures that children experience success and encouragement rather than the frustration that more complex adventure games might cause. The game rewards thorough exploration and reading comprehension, as players must understand the options presented to make progress[^ref-5].
 
@@ -51,7 +51,7 @@ The adventure world is described as "very small," and the animals are designed t
 
 ### Interface and Controls
 
-Dragon's Keep features an innovative simplified interface specifically designed for young children who might struggle with traditional adventure game text parsers[^ref-2]. Instead of typing commands, young adventurers simply choose their action from a short list of choices displayed on screen[^ref-2]. The controls are remarkably streamlined—children select options using only the space bar and return key[^ref-7].
+Dragon's Keep features an innovative simplified interface specifically designed for young children who might struggle with traditional adventure game text parsers[^ref-2]. Instead of typing commands, young adventurers simply choose their action from a short list of choices displayed on screen[^ref-2]. The controls are remarkably streamlined—children select options using only the space bar and return key[^ref-7][^ref-24]. Computer Entertainer's August 1984 issue called such titles "junior adventures" that can be operated "without supervision" by children "as young as seven or eight"[^ref-27].
 
 Each screen presents just three command lines, making choices clear and manageable for beginning readers[^ref-4]. This choose-your-own-adventure style approach[^ref-8] suited children who could not yet type: Sierra's parent guide notes that "the vocabulary is controlled, the instructions are on the disk, and no typing skills are required"[^ref-14].
 
@@ -76,7 +76,7 @@ The game included a large map with peel-off stickers as part of its packaging, a
 
 ### Contemporary Reviews
 
-*Computer Gaming World* reviewed the Apple II version in its July–August 1983 issue. Bob Proctor noted that the game was "originally published by Sunnyside Software but now being marketed by Sierra On-line" at $29.95, and that it was "designed especially for second-graders". He judged it "very well done" and concluded: "It is highly recommended"[^ref-16]. Jay Lucas also reviewed it at length in *InfoWorld* in 1983, opening with a complaint about the limited vocabularies of parser adventures and praising how the game "cleverly avoids" that problem[^ref-18].
+Apple II pricing was $29.95 in contemporary listings[^ref-24][^ref-26], and ANALOG listed the Atari version at $29.95 on 48K disk[^ref-28]. *Computer Gaming World* reviewed the Apple II version in its July–August 1983 issue. Bob Proctor noted that the game was "originally published by Sunnyside Software but now being marketed by Sierra On-line" at $29.95, and that it was "designed especially for second-graders". He judged it "very well done" and concluded: "It is highly recommended"[^ref-16]. Jay Lucas also reviewed it at length in *InfoWorld* in 1983, opening with a complaint about the limited vocabularies of parser adventures and praising how the game "cleverly avoids" that problem[^ref-18].
 
 Dragon's Keep received attention as part of Sierra's Hi-Res Learning line of educational games that aimed to "sharpen children's thinking by combining the basic skill building exercises they need with the fun they deserve"[^ref-5]. The game was marketed as helping children develop reading comprehension through its controlled vocabulary approach[^ref-5].
 
@@ -103,6 +103,8 @@ The educational game was designed specifically for young children, reflecting th
 
 ### Production
 
+Electronic Games' March 1984 listing credits the Apple II game as "Programmed by Al Lowe, Written by Mike MacChesney" and describes 16 captive animals[^ref-23]; *Peelings II* credits it "by Al Lowe and Michael MacChesney"[^ref-24].
+
 The game was discovered at the San Francisco Applefest in late 1982, where it caught the attention of Sierra On-Line founders Ken and Roberta Williams at SunnySide's small booth[^ref-4][^ref-18]. *Softalk*'s report on the show pictured Margaret Lowe of Sunnyside Soft demonstrating the company's other title, Bop-A-Bet[^ref-17]. This discovery proved pivotal—not only would Sierra agree to rerelease Dragon's Keep, but it also launched Al Lowe's career in the game industry[^ref-4].
 
 It was agreed that Dragon's Keep would be rereleased by Sierra and also converted for the Commodore 64 and Atari 400/800, as well as for the IBM PC/PCjr with enhanced graphics[^ref-4]. This multi-platform approach reflected Sierra's growing commitment to reaching the widest possible audience across the emerging home computer market.
@@ -116,6 +118,7 @@ It was agreed that Dragon's Keep would be rereleased by Sierra and also converte
 **Atari 8-bit Version:**
 - **Programmed by:** Dave Scruton
 - **Text and Graphics:** Michael MacChesney, Al Lowe, Margaret Lowe, Rae Lynn MacChesney
+- **Graphics Routines:** Mike Pelczarski, David Lubar, Chris Jochumson (the 1984 manual credits the Graphics Magician routines to them on the Atari side as well)[^ref-20]
 
 **Commodore 64 Version:**
 - **Program and Graphics:** Al Lowe
@@ -159,7 +162,7 @@ The Gaming After 40 playthrough observed that "Dragon's Keep does not appear to 
 | Sierra | 1984 | Atari 8-bit | Dave Scruton port[^ref-1][^ref-20] |
 | Sierra | 1984 | Commodore 64 | Al Lowe conversion[^ref-1][^ref-20] |
 | Sierra | 1984 | Apple II | Re-release alongside the ports[^ref-19] |
-| Sierra | 1984 (unconfirmed) | IBM PC/PCjr | Peter Oliphant and Greg Rowland port listed in the © 1984 manual; no copy has surfaced[^ref-20][^ref-13] |
+| Sierra | 1984 (listed by MobyGames as PC Booter; unconfirmed) | IBM PC/PCjr | Peter Oliphant and Greg Rowland port listed in the © 1984 manual; no copy has surfaced[^ref-20][^ref-13] |
 
 ### Technical Issues
 
@@ -253,3 +256,11 @@ It came during what a Gaming After 40 commenter called Sierra's intermediary sta
 [^ref-19]: [Retro365 – Dragon's Keep, Al Lowe's first game](https://retro365.blog/2023/01/09/bits-from-my-personal-collection-dragons-keep-al-lowes-first-game/) – Applesoft BASIC, SunnySide sales, 1983 Sierra Apple II release, 1984 ports and Apple reissue
 [^ref-20]: [MOCAGH – Dragon's Keep 1984 Manual (PDF)](http://mocagh.org/sierra/dragonskeep-alt-manual.pdf) – DKD-101, "Dragon's Keep © 1984, Sierra On-Line, Inc."; Apple, Atari, C64 and IBM PC/PCjr loading instructions and credits
 [^ref-21]: [MobyGames – Robert Eric Heitman credit sheet (Wayback, January 2023)](https://web.archive.org/web/20230121165831/http://www.mobygames.com/developer/sheet/view/developerId,2200/) – "Dragon's Keep (1984) (Commodore 64 Graphic Routines by)"
+[^ref-22]: [Windfall, vol. 3 no. 6 (December 1983)](https://archive.org/details/windfall-v3n6-1983-dec) – Sierra "acquired a product line developed by Sunnyside Soft. The founders of Sunnyside, Michael and Rae Lynn MacChesney and Al and Margaret Lowe, all wrote Dragon's Keep"; also 7+ age range, Space bar and Return
+[^ref-23]: [Electronic Games, vol. 2 no. 12 (March 1984)](https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-03_Reese_Communications_US) – "Programmed by Al Lowe, Written by Mike MacChesney", Apple II/48K disc, 16 animals
+[^ref-24]: [Peelings II, vol. 4 no. 8 (1983)](https://archive.org/details/peelings-ii-v4n8-1983) – "by Al Lowe and Michael MacChesney", $29.95, rating AA; "played using only two keys, the Space Bar and the RETURN key"
+[^ref-25]: [Creative Computing, November 1983](https://archive.org/details/creativecomputing-1983-11) – "an adventure-type game for children aged 'seven and up'"; reading comprehension and map reading
+[^ref-26]: [Family Computing, no. 4 (December 1983)](https://archive.org/details/family-computing-04) – "$29.95 ©1983", "for ages 7+", Apple II 48K disk; "learning game" series
+[^ref-27]: [Computer Entertainer, vol. 3 no. 5 (August 1984)](https://archive.org/details/computer-entertainer-3-5) – "junior adventures"; "by children as young as seven or eight"; "space bar and return key"
+[^ref-28]: [ANALOG Computing, no. 24 (November 1984)](https://archive.org/details/ANALOG-Computing-24-600DPI) – Atari, 48K disk, $29.95; "junior adventure for children ages eight years and older"
+[^ref-29]: [SCAT Newsletter, September 1984](https://archive.org/details/scat-newsletter-1984-09) – review: for children 7 and up; dragon stops rescues "but never ... harms the player" (OCR garbled)
