@@ -239,7 +239,7 @@ Select a friendly match and press X while choosing the teams. The screen flashes
 
 ### Historical Significance
 
-The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the last title Sierra published for the Amiga.[^ref-3] That claim is uncorroborated, and [[1994 - Detroit]], an Amiga release from 1994, lists Sierra On-Line as co-publisher. The game also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
+The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the last title Sierra published for the Amiga.[^ref-3] No other source consulted confirms that claim. The game also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
 
 ### Series Context
 
