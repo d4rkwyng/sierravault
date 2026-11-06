@@ -10,22 +10,22 @@ series: Red Baron
 engine: Unknown
 protagonist: Player-created WWI pilot
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Red Baron was Mad Otter Games' unreleased WWI dogfighting game led by
   original Red Baron creator Damon Slye. Its 2013 Kickstarter failed, and no release followed.
 tags: [2010s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron 2013 Remake
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-*Red Baron* (no subtitle; informally the "2013 remake") was a new World War I dogfighting game from Mad Otter Games of Eugene, Oregon, led by [[Damon Slye]], co-founder of [[Dynamix]] and designer of the original [[1990 - Red Baron|Red Baron]][^ref-1][^ref-20]. It was not a Sierra or Dynamix product: Mad Otter announced in September 2009 that it had acquired the rights to Red Baron, Red Baron II and Red Baron 3D[^ref-23]. The project was pitched as a modern take on the series, with single- and multiplayer modes, rather than a straight remake of the 1990 game[^ref-7][^ref-20].
+*Red Baron* (no subtitle; informally the "2013 remake") was a new World War I dogfighting game from Mad Otter Games of Eugene, Oregon, led by [[Damon Slye]], co-founder of [[Dynamix]] and designer of the original [[1990 - Red Baron|Red Baron]][^ref-1]. It was not a Sierra or Dynamix product: Mad Otter announced in September 2009 that it had acquired the rights to Red Baron, Red Baron II and Red Baron 3D[^ref-23]. The project was pitched as a modern take on the series, with single- and multiplayer modes, rather than a straight remake of the 1990 game[^ref-7][^ref-20].
 
-Mad Otter launched a Kickstarter on October 22, 2013, seeking $250,000[^ref-16][^ref-24][^ref-28]. A week in, with about $33,000 pledged, the studio posted that it would "cancel the Kickstarter campaign… for now" and relaunch in early 2014[^ref-17][^ref-18][^ref-26]. Kickstarter's own record, however, shows the campaign running to its November 22, 2013 deadline and ending as unsuccessful, with $40,493 from 1,118 backers[^ref-16]. The game was put on Steam Greenlight in October 2013, alongside the Kickstarter[^ref-20].
+Mad Otter launched a Kickstarter on October 22, 2013, seeking $250,000[^ref-16][^ref-24][^ref-28]. A week in, with about $33,000 pledged, the studio posted that it would "cancel the Kickstarter campaign… for now" and relaunch in early 2014[^ref-17][^ref-18][^ref-26]. Kickstarter's own record, however, shows the campaign running to its November 22, 2013 deadline and ending as unsuccessful, with $40,493 from 1,118 backers[^ref-16]. The game was put on Steam Greenlight in October 2013, alongside the Kickstarter[^ref-20][^ref-30].
 
-Development continued afterwards. In August 2014 Slye said the plan was to build a better prototype, grow a community and run a second Kickstarter[^ref-19]. In September 2015 he was looking to raise $50,000 for a prototype, "with a potential release in 2016"[^ref-1]. In January 2016 Mad Otter put the *original* Red Baron games on Steam "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No release followed, and no formal cancellation announcement has been found; the project simply went quiet. The planned game was to be DRM-free and offline in single-player, with no subscriptions and no pay-to-win[^ref-7].
+Development continued afterwards. In August 2014 Slye said the plan was to build a better prototype, grow a community and run a second Kickstarter[^ref-19]. In September 2015 he was looking to raise $50,000 for a prototype, "with a potential release in 2016"[^ref-1]. In January 2016 Mad Otter put the *original* Red Baron games on Steam "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No release followed, and no formal cancellation announcement has been found; the official site's archived snapshots of 2017 and 2023 still show the 2013 pitch[^ref-31]. The project simply went quiet. The planned game was to be DRM-free and offline in single-player, with no subscriptions and no pay-to-win[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-16]
@@ -70,7 +70,7 @@ Slye co-founded Dynamix, which Sierra later bought, and designed the 1990 Red Ba
 
 ### Production
 
-The Kickstarter ran from October 22 to November 22, 2013 (30 days) with a $250,000 goal[^ref-16]. Backer reward tiers gave an estimated delivery of November 2014[^ref-16][^ref-28]. Its pitch video, with gameplay footage and team interviews, was praised by Cliqist, and Brian Fargo publicly backed it[^ref-19]. Minimum and recommended specifications were published alongside the Greenlight listing[^ref-20]. The campaign FAQ said Red Baron would support Linux and SteamOS, while OS X support was still undecided[^ref-16]. A CD Projekt Red forum post at launch passed on the Linux and DRM-free plans[^ref-10].
+The Kickstarter ran from October 22 to November 22, 2013 (30 days) with a $250,000 goal[^ref-16]. Backer reward tiers gave an estimated delivery of November 2014[^ref-16][^ref-28]. Its pitch video, with gameplay footage and team interviews, was praised by Cliqist, and Brian Fargo publicly backed it[^ref-19]. Minimum and recommended specifications were published alongside the Greenlight listing[^ref-20][^ref-30]. The campaign FAQ said Red Baron would support Linux and SteamOS, while OS X support was still undecided[^ref-16]. A CD Projekt Red forum post five days after launch (October 27) passed on the Linux and DRM-free plans[^ref-10].
 
 On October 30, 2013 Mad Otter told backers: "we are going to cancel the Kickstarter campaign… for now. We will still be moving forward with Red Baron with the plans to relaunch the campaign early next year"[^ref-18][^ref-26]. The update, signed by Damon Slye and the Mad Otter team, promised alpha access to anyone who followed the studio on social media and later backed the relaunch at a tier that included the game[^ref-26]. The campaign was never actually pulled. On November 21, the day before the deadline, Mad Otter posted a final update listing lessons learned: "It's better to Pre-Announce the product instead of just starting the Campaign and Announcing on the same day," and "Single-Player is really important"[^ref-27]. Kickstarter records the project as "Funding Unsuccessful" (not cancelled) at its deadline, with $40,493 pledged by 1,118 backers[^ref-16].
 
@@ -82,7 +82,7 @@ In Cliqist's 2014 postmortem, Slye said: "Our biggest mistake by far was not bui
 
 ### Technical Specifications
 
-**Minimum System Requirements (announced October 2013):**[^ref-20]
+**Minimum System Requirements (announced October 2013):**[^ref-20][^ref-30]
 - **OS:** Windows XP, Windows 7 or Windows 8
 - **CPU:** Intel Core 2 Duo 2.2 GHz or AMD Athlon 64 X2 2.6 GHz or better
 - **Memory:** 1 GB RAM
@@ -91,7 +91,7 @@ In Cliqist's 2014 postmortem, Slye said: "Our biggest mistake by far was not bui
 - **Storage:** 4 GB available space
 - **Network:** Broadband Internet connection
 
-**Recommended System Requirements:**[^ref-20]
+**Recommended System Requirements:**[^ref-20][^ref-30]
 - **OS:** Windows 7 or Windows 8
 - **CPU:** Intel Core 2 Duo 2.4 GHz or AMD Athlon 64 X2 2.6 GHz or better
 - **Memory:** 4 GB RAM
@@ -103,9 +103,9 @@ In Cliqist's 2014 postmortem, Slye said: "Our biggest mistake by far was not bui
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Kickstarter campaign | Oct 22 – Nov 22, 2013 | Windows | Pitch video with gameplay footage[^ref-19]; failed with $40,493 from 1,118 backers[^ref-16] |
-| Steam Greenlight | October 2013 | Windows | Listed alongside the Kickstarter[^ref-20] |
+| Steam Greenlight | October 2013 | Windows | Listed alongside the Kickstarter[^ref-20][^ref-30] |
 | Prototype plan | 2014–2015 | Windows | Better prototype and second crowdfunding planned; potential 2016 release[^ref-19][^ref-1] |
-| Unreleased | after 2016 | N/A | No release and no formal cancellation found |
+| Unreleased | after 2016 | N/A | No release and no formal cancellation found[^ref-31] |
 
 ## Legacy
 
@@ -158,3 +158,5 @@ The Red Baron games that did reach Steam in January 2016 were the old ones, not 
 [^ref-27]: [Kickstarter – Red Baron Update #9: Bandits at 12 O'Clock!](https://web.archive.org/web/20131202052431/http://www.kickstarter.com:80/projects/madottergames/red-baron/posts/670741) – Nov 21, 2013 final update with lessons learned (Wayback)
 [^ref-28]: [Eurogamer – WW1 dogfighting game Red Baron back with MOBA elements](https://www.eurogamer.net/ww1-dogfighting-game-red-baron-back-with-moba-elements) – Wesley Yin-Poole, Oct 23, 2013: $250,000 Kickstarter, MOBA "to the skies", three-lane map, Nov 2014 release if funded
 [^ref-29]: [Saving Content – Red Baron returns with original creator Damon Slye and Mad Otter Studios on Kickstarter](https://www.savingcontent.com/2013/10/23/red-baron-returns-with-original-creator-damon-slye-and/) – Oct 23, 2013: $250,000 Kickstarter, Slye's Dynamix credits, "boomerang" quote
+[^ref-30]: [Kickstarter – Red Baron Update #3: Steam Greenlight and System Requirements](https://web.archive.org/web/20131202052431/http://www.kickstarter.com:80/projects/madottergames/red-baron/posts/638865) – Oct 23, 2013: "Red Baron goes live on Greenlight!"; approximate minimum and recommended system requirements (Wayback)
+[^ref-31]: Red Baron Game Official Site, Wayback snapshots of [Sep 13, 2017](https://web.archive.org/web/20170913233034/http://redbarongame.com/) and [Jan 30, 2023](https://web.archive.org/web/20230130084616/http://redbarongame.com/) – both still show the 2013 pitch ("Red Baron is back!"); no cancellation notice on either
