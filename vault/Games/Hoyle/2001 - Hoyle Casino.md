@@ -10,19 +10,19 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Casino 2002 (Hoyle Casino 6), the sixth Hoyle Casino edition, released by Sierra in 2001 as a hybrid PC/Mac CD-ROM with fourteen casino games, new Baccarat and Video Blackjack, and Palm video poker.
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2002
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2002, catalogued as Hoyle Casino 6, is the sixth edition of Sierra's Hoyle Casino series[^ref-1][^ref-7]. Sierra released it in 2001 as part of its "2002 series" of Hoyle games, shipping as a hybrid PC/Mac title on one CD-ROM for US$29.95[^ref-18]. MobyGames dates the Windows release to August 30, 2001, while The Sierra Chest gives a first release of September 25, 2001[^ref-1][^ref-7]. It followed the October 2000 edition, which was sold as "Hoyle Casino 2001"[^ref-22] and is covered at [[2000 - Hoyle Casino]].
+Hoyle Casino 2002, catalogued as Hoyle Casino 6, is the sixth edition of Sierra's Hoyle Casino series[^ref-1][^ref-7]. Sierra released it in 2001 as part of its "2002 series" of Hoyle games, shipping as a hybrid PC/Mac title on one CD-ROM for US$29.95[^ref-18]. MobyGames dates the Windows release to August 30, 2001, while The Sierra Chest gives a first release of September 25, 2001, the same date Amazon.com lists as its release date[^ref-1][^ref-7][^ref-30]. It followed the October 2000 edition, which was sold as "Hoyle Casino 2001"[^ref-22] and is covered at [[2000 - Hoyle Casino]].
 
-The game offers fourteen casino games with "over four hundred combinations", a total MobyGames notes is reached largely through roughly thirty slot machines playable at twelve denominations each[^ref-1]. New to this edition were Baccarat and Video Blackjack, along with an improved tournament mode[^ref-1][^ref-18]. The package also included four variations of Video Poker for Palm OS handhelds[^ref-18].
+The game offers fourteen casino games with "over four hundred combinations", a total MobyGames notes is reached largely through roughly thirty slot machines playable at twelve denominations each[^ref-1]. New to this edition were Baccarat and Video Blackjack, along with an improved tournament mode[^ref-1][^ref-18]. The package also included four variations of Video Poker for Palm OS handhelds[^ref-18]; an April 2002 announcement from Sierra names them as Crawdad, Jack's Back, Wild Thing and Wild Party, and lists new Poker Tournaments among the PC/Mac game's additions[^ref-32].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-17]
@@ -45,11 +45,11 @@ Hoyle Casino 2002 has no narrative. As in the rest of the series, players create
 
 ### Interface and Controls
 
-Up to four people can play on the same computer, and online multiplayer is also supported[^ref-5][^ref-20]. Players customize their appearance with the bundled Facemaker utility[^ref-7][^ref-20]. The manual explains the basics and strategy of each game, including a chart of every blackjack hand and the recommended play[^ref-20].
+Up to four people can play on the same computer[^ref-5][^ref-20][^ref-29], and online multiplayer is also supported[^ref-5][^ref-20], though Sierra's own product page states that "Internet play is not available for Macintosh"[^ref-29]. Players customize their appearance with the bundled Facemaker utility[^ref-7][^ref-20]. The manual explains the basics and strategy of each game, including a chart of every blackjack hand and the recommended play[^ref-20].
 
 ### Structure and Progression
 
-The fourteen games are[^ref-1][^ref-5][^ref-20]:
+The fourteen games are[^ref-1][^ref-5][^ref-20][^ref-31]:
 
 - **Table Games:** Baccarat, Blackjack, Caribbean Stud Poker, Craps, Let It Ride, Pai Gow Poker, Poker, Roulette, Three Card Poker
 - **Machine Games:** Slots and Video Slots, Video Blackjack, Video Poker
@@ -69,7 +69,7 @@ James Allen of GameGenie reviewed the game favourably, praising its sound, its 6
 
 An Amazon customer review from July 2002 called it "top quality product - fun for the whole family", praising the graphics and character creation while noting "the lack of tutorial type of software to make you play better"[^ref-21].
 
-MacAddict's January 2002 games buyer's guide listed Hoyle Casino at $29.95 as "a virtual Vegas venture that packs in more value than most games of its kind", offering baccarat among its games. It found the animated players' banter "an entertaining backdrop", though "the humor and theatrics in the current version aren't as hilariously over the top as those in previous releases"[^ref-25].
+MacAddict's January 2002 games buyer's guide listed Hoyle Casino (the entry names no edition year; it is matched to this edition by issue date, price and the mention of baccarat) at $29.95 as "a virtual Vegas venture that packs in more value than most games of its kind", offering baccarat among its games. It found the animated players' banter "an entertaining backdrop", though "the humor and theatrics in the current version aren't as hilariously over the top as those in previous releases"[^ref-25].
 
 ### Commercial Performance
 
@@ -77,7 +77,7 @@ Hoyle Casino 2002 placed 17th on the NPD Intelect top-20 chart of US PC game ret
 
 ### Modern Assessment
 
-No critic aggregate exists for this edition; MobyGames shows no Moby Score[^ref-1]. On Amazon, the product page carries a 2.5 out of 5 average from 13 ratings[^ref-21].
+No critic aggregate exists for this edition; MobyGames shows no Moby Score[^ref-1]. On Amazon.ca, the product page carries a 2.5 out of 5 average from 13 ratings[^ref-21]; Amazon.com shows 2.5 out of 5 from 22 ratings[^ref-30].
 
 **Aggregate Scores:**
 - **Amazon Customer Ratings:** 2.5/5 (13 ratings)[^ref-21]
@@ -129,7 +129,7 @@ MobyGames credits ten voice actors on the Windows version. Mike Caviezel handled
 **System Requirements (PC):**[^ref-20]
 - **Processor:** Pentium 133
 - **Memory:** 16 MB RAM
-- **Disk Space:** 135 MB
+- **Disk Space:** 100 MB according to Sierra's 2001 product page[^ref-29]; 135 MB according to GameGenie's review[^ref-20]
 - **Operating System:** Windows 95, 98, 2000, Me, XP
 
 ### Cut Content
@@ -142,6 +142,8 @@ No documented cut content has been identified for this edition.
 |---------|------|----------|-------|
 | 1.0.0.0 | September 25, 2001 | PC/Mac | US CD-ROM, flip-top box with flap[^ref-7]; MobyGames lists August 30, 2001 for Windows[^ref-1] |
 | 1.0.1.0 | — | PC | Patch: Baccarat ties handled correctly, Roulette can land on 30, payouts no longer rounded to the nearest dollar[^ref-19] |
+
+Sierra's product page lists 100MB of hard disk space for both the PC and Macintosh versions[^ref-29].
 
 **Product Identification:**
 - **UPC:** 0-20626-71428-0[^ref-7][^ref-17]
@@ -185,10 +187,18 @@ No fan projects have been documented for this edition.
 **Retail (Sealed/Used)**
 - [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2001)
 
+## Series Continuity
+
+- Previous Hoyle Casino edition: [[2000 - Hoyle Casino]]
+- Next Hoyle Casino edition: [[2003 - Hoyle Casino]]
+
 ## See Also
 
-- [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
-- [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
+- [[2000 - Hoyle Casino|← Previous: Hoyle Casino 2001]]
+- [[2003 - Hoyle Casino|→ Next: Hoyle Casino 2003]]
+
+- [[2001 - Hoyle Board Games|Hoyle Board Games]]
+- [[2001 - Hoyle Kids Games|Hoyle Kids Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -261,3 +271,7 @@ No fan projects have been documented for this edition.
 [^ref-26]: [GameSpot – Hoyle Casino Review (Gord Goble)](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – review of the 2003 edition; compares it with "last year's Hoyle Casino 2002"
 [^ref-27]: [Sierra Chest – Hoyle Casino 6: Music](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=music) – intro from Hoyle Casino 5; Video Slots songs from Hoyle Casino 4
 [^ref-28]: [MobyGames – Hoyle Casino (2001) Windows credits](https://www.mobygames.com/game/72735/hoyle-casino/credits/windows/) – composers, sound engineer, voice synchronisation (LIPSinc), ten voice actors
+[^ref-29]: [Sierra – Hoyle Casino product page (Wayback, Dec 13, 2001)](https://web.archive.org/web/20011213234503/http://www.hoylegames.com/hoylecasino_casino.html) – 14 casino games, new Baccarat and Video Blackjack, up to four people on one computer, "Internet play is not available for Macintosh", 100MB hard disk space (PC and Mac)
+[^ref-30]: [Amazon.com – Hoyle Casino 2002 - PC/Mac](https://www.amazon.com/dp/B00005MJ9H) – release date September 25, 2001, date first available June 26, 2001, 2.5/5 from 22 ratings (read 2026-11-06)
+[^ref-31]: [Sierra – Hoyle home page (Wayback, Mar 30, 2002)](https://web.archive.org/web/20020330042406/http://hoyle.sierra.com/) – Hoyle Casino listing of 14 games including Baccarat and Video Blackjack; © 2002 Sierra Entertainment, Inc.
+[^ref-32]: [WorthPlaying – Sierra Goes 'Hoyle' Crazy](https://worthplaying.com/article/2002/4/15/news/3235-sierra-goes-hoyle-crazy/) – April 15, 2002 announcement; Palm video poker variations (Crawdad, Jack's Back, Wild Thing, Wild Party), Baccarat and Video Blackjack marked NEW, new Poker Tournaments; its "Available: May 31st 2002" is the announced date for this wave and is not used as the release date
