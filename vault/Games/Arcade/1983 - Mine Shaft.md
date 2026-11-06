@@ -10,7 +10,7 @@ series: None
 engine: Unknown
 protagonist: None (player-controlled mine cart)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 description: Mine Shaft is a maze action game developed by Sierra On-Line for IBM
   and released as one of the four launch cartridges for the IBM PCjr entry model.
   The player steers a mine cart collecting diamonds while shooting runaway mining robots.
@@ -18,28 +18,28 @@ tags: [1980s, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Mine Shaft is a maze action game developed by [[Sierra On-Line]] for IBM, which sold it as a $35 ROM cartridge for the IBM PCjr[^ref-18][^ref-20][^ref-21]. It was one of the four action cartridges IBM announced for the PCjr entry model, alongside Sierra's Crossfire and two non-Sierra titles, Mouser (developed by Gebelli Software) and ScubaVenture[^ref-20][^ref-21][^ref-23]. The game carries a 1983 copyright date, but it only reached buyers when the PCjr itself became available, in March 1984 (per Retro365; Sierra Chest gives 1984)[^ref-24][^ref-3]. MobyGames credits the programming to John Redekopp[^ref-1].
+Mine Shaft is a maze action game developed by [[Sierra On-Line]] for IBM, which sold it as a $35 ROM cartridge for the IBM PCjr[^ref-18][^ref-20][^ref-21][^ref-31]. It was one of the four action cartridges IBM announced for the PCjr entry model, alongside Sierra's Crossfire and two non-Sierra titles, Mouser (developed by Gebelli Software) and ScubaVenture[^ref-20][^ref-21][^ref-23]. The game carries a 1983 copyright date, and sources differ on when it reached buyers. *PC Magazine* (24 January 1984) named Mine Shaft among game products "represented by finished products at the November PCjr announcement" (1983)[^ref-26]. *InfoWorld* (20 February 1984) reported that IBM had been shipping the PCjr to dealers since 13 January and that four game cartridges, including Mine Shaft, were released, though it also said initial supplies would be limited and dealers had no PCjrs to take home[^ref-30]. Sierra Chest gives 1984-01-01[^ref-3], while Retro365 says March 1984, when the PCjr became available[^ref-24]. MobyGames credits the programming to John Redekopp[^ref-1].
 
-The player steers a mining car through a network of tunnels, collecting diamonds while shooting the mine's robots, which have gone haywire[^ref-1][^ref-18][^ref-20]. *PCjr Magazine* reviewed it at launch and called it "yet another variation of Pac Man"[^ref-18]. According to Retro365, the game was John Redekopp's PCjr port of Chuck Bueche's Apple II game *[[1982 - Creepy Corridors|Creepy Corridors]]*[^ref-24].
+The player steers a mining car through a network of tunnels, collecting diamonds while shooting the mine's robots, which have gone haywire[^ref-1][^ref-18][^ref-20]. *PCjr Magazine* reviewed it at launch and called it "yet another variation of Pac Man"[^ref-18]. *PC Magazine* (24 January 1984) described it as "a version of Creepy Corridors"[^ref-26], and Retro365 says it was John Redekopp's PCjr port of Chuck Bueche's Apple II game *[[1982 - Creepy Corridors|Creepy Corridors]]*[^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1][^ref-18]
 > **Designer:** John Redekopp (Programmer)[^ref-1]
-> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists an Apple II release published by Sierra On-Line, unconfirmed elsewhere[^ref-1])
+> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists an Apple II release published by Sierra On-Line[^ref-1]; *PeaNut* (May/June 1984) says the game was "originally written for the Apple"[^ref-33])
 > **Engine:** Unknown
 > **Platforms:** PC Booter, PCjr Cartridge[^ref-1][^ref-3][^ref-15]
-> **Release Year:** 1983 (copyright); on sale March 1984 per Retro365 (Sierra Chest gives 1984)[^ref-1][^ref-3][^ref-24]
+> **Release Year:** 1983 (copyright); sources differ on first sale: the November 1983 PCjr announcement[^ref-26], dealer shipments from 13 January 1984[^ref-30] (Sierra Chest: 1984-01-01[^ref-3]), or March 1984 per Retro365[^ref-24]
 > **Series:** None
 > **Protagonist:** None (player-controlled mine cart)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-MobyGames' description sets the scene at a gemstone mine whose mining robots have started "going haywire and wrecking equipment". Instead of abandoning the mine, the player stays to dig out the crystals and escape before the robots destroy the mine cart[^ref-1][^ref-5]. Period listings described the same premise: "Players maneuver a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-20].
+MobyGames' description sets the scene at a gemstone mine whose mining robots have started "going haywire and wrecking equipment". Instead of abandoning the mine, the player stays to dig out the crystals and escape before the robots destroy the mine cart[^ref-1][^ref-5]. Period listings described the same premise: "Players maneuver a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-20]. IBM's own catalogue described "a number of runaway robot miners that seem bent on destruction of the mining car"[^ref-27], and its *The Guide* (November 1983) framed the story as a flood that "short-circuited your dependable team of robot miners, and now they're running amok"[^ref-29].
 
 ## Gameplay
 
@@ -53,13 +53,15 @@ Steering is the game's chief difficulty. *PCjr Magazine* found that because "the
 
 Each mine has gems scattered through its passages. Robots soon appear and chase the mine cart, and touching one costs a life. Unlike Pac-Man, the cart carries a gun and can shoot the robots[^ref-1][^ref-18]. *PCjr Magazine* noted that a destroyed robot "doesn't return to haunt you until you complete the board and move down the mine to the next level"[^ref-18].
 
-An exit appears once the player has either collected all the crystals or destroyed all the robots, and passing through it leads to the next level. Each cleared level awards an extra life. The robots multiply and speed up as the game goes on, and later levels add new enemy types, including a bullet-proof skull[^ref-1][^ref-5]. One MobyGames user reviewer counted ten levels[^ref-1].
+An exit appears once the player has either collected all the crystals or destroyed all the robots, and passing through it leads to the next level. Each cleared level awards an extra life. The robots multiply and speed up as the game goes on, and later levels add new enemy types, including a bullet-proof skull[^ref-1][^ref-5]. Period sources describe three kinds of robot from the start, one of which cannot be destroyed: *PeaNut* says "Two of them can be destroyed with your laser gun, but the remaining type can only be avoided, not destroyed"[^ref-33], and Que's *Introducing IBM PCjr* names Maintainers, High-Steppers and the Gatherers, "who are immune to your laser"[^ref-34]. One MobyGames user reviewer counted ten levels[^ref-1], and Que likewise says "Ten levels are possible"[^ref-34]. IBM's catalogue confirms that clearing either all the diamonds or all the robots from a shaft opens the next level[^ref-27].
 
 ## Reception
 
 ### Contemporary Reviews
 
 Don Kennedy reviewed IBM's four launch cartridges in "Junior Arcade" in the first issue of *PCjr Magazine* (February 1984). He wrote that the screen made you "half expect to see a sign reading, 'Dig Dug Was Here'", but that "in play it is nothing so much as yet another variation of Pac Man", with robots in place of the ghosts. He thought "the graphics for Mine Shaft are adequate, and the play is fun", but concluded: "Compared to Pac Man, Mine Shaft withers as quickly as you do when a ghost gobbles you up."[^ref-18] The magazine's later capsule listings summed it up as "A tougher variation of Pac Man that lets you shoot back," noting that "our reviewer says it's not as fun as the arcade game it is patterned after"[^ref-23].
+
+*Softalk* for the IBM PC (March 1984) called it "probably the easiest to play" of IBM's four Junior game cartridges, "an ordinary maze game of the Pac-Man school", and wrote "Graphically Mine Shaft is unremarkable"[^ref-31]. Mark A. Gollin in *PeaNut* (May/June 1984) rated it "a good, though easy, arcade game" and recommended it "highly for anyone who finds most arcade games a bit too difficult to enjoy"[^ref-33]. Michael Bane's *The IBM PCjr User's Guide* (1984) called it "basically a Pac-Man clone"[^ref-35].
 
 *PC Magazine* was also unimpressed. In an April 1984 reply to a reader's letter, Phil Wiswell wrote that the entry-level PCjr had debuted with only four cartridge action games, "none of which was original or outstanding". He added that "if Crossfire, Mouser, Mine Shaft, and Creepy Corridors are indicative of the types of games the IBM Product Center will market for the PCjr, game players will feel disappointed."[^ref-19]
 
@@ -74,13 +76,13 @@ MobyGames users give it an average of 2.8 out of 5 (13 ratings, 3 reviews)[^ref-
 
 ### Origins
 
-According to Retro365, Mine Shaft began as Chuck Bueche's *Creepy Corridors*, which John Redekopp ported to the PCjr for IBM. Retro365 says it was released "in March of 1984 when the IBM PCjr became available", even though "the copyright says 1983"[^ref-24]. Retro365 is the only source found for the port. Wiswell's *PC Magazine* reply names Creepy Corridors separately from Mine Shaft[^ref-19].
+According to Retro365, Mine Shaft began as Chuck Bueche's *Creepy Corridors*, which John Redekopp ported to the PCjr for IBM. Retro365 says it was released "in March of 1984 when the IBM PCjr became available", even though "the copyright says 1983"[^ref-24]. *PC Magazine* (24 January 1984, pp. 142-143) independently called Mine Shaft "a version of Creepy Corridors", describing mazes "with diamonds in the four corners" and a doorway to the next maze once all four are reached[^ref-26]. *PeaNut* (May/June 1984) says it "was originally written for the Apple and released on a disk containing three other games more than a year ago"[^ref-33], which matches *Creative Computing*'s February 1983 description of *Laf Pak* as a disk of four games including Creepy Corridors[^ref-36]. Redekopp's credit as the porter still rests on Retro365 and MobyGames. Wiswell's *PC Magazine* reply names Creepy Corridors separately from Mine Shaft[^ref-19].
 
 Sierra's PCjr work was a large bet for the company. In an April 1984 profile, *PCjr Magazine* reported that Ken Williams said Sierra "had to spend about $1 million of its own money to develop the Junior software". He also said the IBM contract carried little money up front, and that "We went so far in the hole for development, it's incredible."[^ref-22] The same profile names the cartridges Crossfire and Mine Shaft, together with the HomeWord word processor, as the products of that effort[^ref-22].
 
 ### Production
 
-MobyGames credits John Redekopp for programming[^ref-1].
+MobyGames credits John Redekopp for programming[^ref-1]. *PC Magazine* (24 January 1984) says Sierra On-Line developed the Crossfire and Mine Shaft ROM cartridges for the PCjr[^ref-26].
 
 **Development Credits:**[^ref-1]
 - **Programming:** John Redekopp
@@ -91,7 +93,7 @@ MobyGames trivia speculates that because the game uses the PC speaker and only f
 
 **PCjr Cartridge Version:**[^ref-1][^ref-25]
 - **CPU:** Intel 8088 / 8086
-- **RAM:** 64 KB minimum
+- **RAM:** 64 KB minimum[^ref-29]
 - **Video:** Tandy / PCjr modes. Four colours at once at 320x200, and the colours are not limited to the fixed CGA palettes[^ref-15]
 - **Audio:** PC speaker[^ref-15]
 - **Input:** Keyboard; analog joystick
@@ -104,14 +106,14 @@ Nerdly Pleasures notes that Sierra's PCjr games "do not really support more than
 ### Easter Eggs and Trivia
 
 - *PCjr Magazine* compared the look of the game to the aftermath of Dig Dug's burrowing[^ref-18]
-- Mine Shaft is one of the two Sierra-developed cartridges, with Crossfire, that IBM released for the PCjr[^ref-15][^ref-22]
+- Mine Shaft is one of the two Sierra-developed cartridges, with Crossfire, that IBM released for the PCjr[^ref-15][^ref-22][^ref-26]
 - The Good Old Days floppy collection holds a cracked 160 KB booter disk image of the game, labelled 1983[^ref-6]; the game itself shipped as a PCjr ROM cartridge[^ref-20][^ref-21]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No sales figures for Mine Shaft have been found. Retro365 calls it "one of only a few IBM PCjr cartridge-based games released"[^ref-24]. According to Retro365, Sierra's wider bet on cartridge games "was a bust", and Ken Williams swore off the cartridge market afterwards[^ref-24].
+No sales figures for Mine Shaft have been found. Retro365 calls it "one of only a few IBM PCjr cartridge-based games released"[^ref-24]. Retro365's account of Sierra's earlier SierraVision console-cartridge line says that bet on cartridge-based games "was a bust" and that Ken Williams "swore he never would invest in the video console game and cartridge market again"; that passage concerns SierraVision, not the PCjr cartridges[^ref-24].
 
 ### Critical Perspective
 
@@ -167,3 +169,12 @@ Critics at launch found the game competent but derivative. *PCjr Magazine* judge
 [^ref-23]: [PCjr Magazine Vol. 1 No. 2 (March 1984) – software capsule reviews](https://archive.org/details/pcjr-magazine-1984-volume-1) – "A tougher variation of Pac Man that lets you shoot back"
 [^ref-24]: [Retro365 – Bits from my personal collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – Creepy Corridors ported by John Redekopp as Mine Shaft; PCjr availability 1984
 [^ref-25]: [MobyGames – Mine Shaft tech specs](https://www.mobygames.com/game/79/mine-shaft/specs/) – Intel 8088/8086, 64 KB, PCjr cartridge, Tandy/PCjr video, PC speaker, keyboard, analog joystick
+[^ref-26]: [PC Magazine, January 24, 1984, pp. 142-143](https://archive.org/details/pc_magazine-1984_01_24) – Sierra developed Crossfire and Mine Shaft ROM cartridges; "Mine Shaft is a version of Creepy Corridors"; products "represented by finished products at the November PCjr announcement"
+[^ref-27]: [IBM Service for Consultants, December 1983 – Machines](https://archive.org/details/bitsavers_ibmserviceceForConsultants198312Complete14Machines_100163051) – "Mine Shaft Cartridge (#4092)" catalogue entry: mining car, diamonds, runaway robot miners, next level after clearing all diamonds or all robots
+[^ref-29]: [IBM, The Guide (Fall 1983 – Winter 1984), pp. 106-107](https://archive.org/details/ibm-the-guide-fall-83-winter-84) – Mine Shaft premise (flood, runaway robot miners); program cartridge; PCjr with at least 64 KB
+[^ref-30]: [InfoWorld, February 20, 1984](https://archive.org/details/bub_gb_hS4EAAAAMBAJ) – PCjr shipping to dealers since January 13; four game cartridges released: Mouser, Scuba Venture, Mine Shaft and Crossfire; limited supplies
+[^ref-31]: [Softalk for the IBM Personal Computer, March 1984](https://archive.org/details/198403SoftalkIBMV2N10) – contemporary review: easiest of IBM's four Junior cartridges, Pac-Man-school maze game, $35
+[^ref-33]: [PeaNut, May/June 1984 (Vol. 1 No. 1), Mark A. Gollin, p. 116](https://archive.org/details/peanut-198405-06-volume-1-number-1) – review: $35, three robot types, "originally written for the Apple"
+[^ref-34]: [Cobb and DeVoney, Introducing IBM PCjr (Que, 1983), pp. 172-173](https://archive.org/details/Introducing_IBM_PCjr) – robot types (Maintainers, High-Steppers, Gatherers), ten levels
+[^ref-35]: [Michael Bane, The IBM PCjr User's Guide (Macmillan, 1984), p. 53](https://archive.org/details/The_IBM_PCjr_Users_Guide) – "Mine Shaft, originally designed by Sierra On-Line"; "basically a Pac-Man clone"
+[^ref-36]: [Creative Computing, February 1983 – Laf Pak software profile](https://archive.org/details/Creative_Computing_1983-02) – Laf Pak: a disk of four games including Creepy Corridors (context for the port; does not mention Mine Shaft)
