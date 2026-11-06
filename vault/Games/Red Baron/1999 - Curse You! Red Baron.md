@@ -5,12 +5,12 @@ developer: Dynamix, Inc.
 designer: [Doug Johnson]
 publisher: Sierra On-Line, Inc.
 genre: Flight Simulation
-platforms: [Windows 95, Windows 98, Windows Me, Windows 2000]
+platforms: [Windows 95, Windows 98, Windows Me]
 series: Red Baron
 engine: Unknown
 protagonist: Player-customizable WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-05'
 description: Curse You! Red Baron is an arcade-style World War I flight combat game
   developed by Dynamix and published by Sierra On-Line in 1999, with eight flyable
   aircraft and Dogfight, Red Baron Challenge and Hot Seat modes.
@@ -18,11 +18,11 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Curse You! Red Baron
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Curse You! Red Baron is an arcade-style World War I flight combat game developed by [[Dynamix]][^ref-1] and published by Sierra On-Line in 1999.[^ref-1][^ref-18] Players fly eight World War I aircraft in dogfights against legendary aces, including Baron Manfred von Richthofen—the Red Baron himself.[^ref-3][^ref-6] Part of the Sierra/Dynamix Red Baron series, it takes an arcade approach rather than the simulation depth of earlier entries; IGN's review described it as "watering a product down for the masses."[^ref-1][^ref-6]
+Curse You! Red Baron is an arcade-style World War I flight combat game developed by [[Dynamix]][^ref-1] and published by Sierra On-Line in 1999.[^ref-1][^ref-18][^ref-27] Players fly eight World War I aircraft in dogfights against legendary aces, including Baron Manfred von Richthofen—the Red Baron himself.[^ref-3][^ref-6] Part of the Sierra/Dynamix Red Baron series, it takes an arcade approach rather than the simulation depth of earlier entries; IGN's review described it as "watering a product down for the masses."[^ref-1][^ref-6]
 
 The game uses 3D graphic acceleration, with clouds, smoke and other effects, and offers a translucent cockpit for easier target viewing.[^ref-1][^ref-6] Players choose from four German and four Allied aircraft: the Albatros D.Va, Nieuport, Pfalz D.III, Spad XIII, Fokker D.VII, S.E.5a, Fokker Dr.I and Sopwith Camel.[^ref-3][^ref-6] There are three modes: Dogfight, Red Baron Challenge, and Hot Seat Competition, which supports up to six pilots.[^ref-1][^ref-3][^ref-6]
 
@@ -33,8 +33,8 @@ Curse You! Red Baron received a poor critical reception. Contemporary reviews cr
 > **Designer:** [[Doug Johnson]][^ref-17]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Unknown
-> **Platforms:** Windows 95, Windows 98, Windows Me, Windows 2000[^ref-5][^ref-8]
-> **Release Year:** 1999
+> **Platforms:** Windows 95, Windows 98, Windows Me[^ref-8] (the Internet Archive uploader's tags also list Windows 2000[^ref-5])
+> **Release Year:** 1999 (IGN gives July 6, 1999; LaunchBox gives May 27, 1999)[^ref-3][^ref-25]
 > **Series:** Red Baron
 > **Protagonist:** Player-customizable WWI pilot
 > **Sierra Lineage:** Core Sierra
@@ -45,7 +45,7 @@ Curse You! Red Baron places players in the cockpit during the early days of aeri
 
 The central antagonist is Baron Manfred von Richthofen, the legendary German flying ace known as the Red Baron, whose flying prowess represents the ultimate challenge for players.[^ref-3] The game asks whether the player has "the wits and bravery to handle the flying prowess of Baron Von Richtoffen," positioning the historical figure as the mortal enemy to overcome.[^ref-3]
 
-Beyond this basic premise, the game has little narrative content: there are no missions and no wingmen, just one dogfight after another against one to five opponents.[^ref-6]
+Beyond this basic premise, the game has little narrative content. IGN's reviewer wrote that there are no "missions" in the game per se and not even any wingmen, with the player facing one to five opponents alone.[^ref-6] The Adrenaline Vault's review, however, describes "the sequence of training missions" as one of four styles of play, and Children's Software Revue, as quoted on Amazon, describes flying "missions over war-torn Europe."[^ref-22][^ref-8]
 
 ## Gameplay
 
@@ -86,9 +86,11 @@ The game features effects such as clouds and smoke.[^ref-1] IGN found the smoke 
 
 ### Contemporary Reviews
 
-Curse You! Red Baron received predominantly negative reviews upon release, with critics finding fault in nearly every aspect of the game's execution.
+Curse You! Red Baron received predominantly negative reviews upon release, with critics finding fault in most aspects of the game's execution.
 
 IGN gave the game a score of **4.1 out of 10**, with reviewer Stephen Butts delivering particularly harsh criticism: "This game has got a perfect title. I was cursing within a few minutes of starting it up."[^ref-6] The review said "It half-asses the whole arcade approach to the game" and concluded that "the last thing a WWI air combat sim should be is boring."[^ref-6] The review's subtitle reads "Dynamix celebrates the infancy of air combat with a game for infants."[^ref-6]
+
+The Adrenaline Vault's Adam Swiderski (August 4, 1999) called it "basically a heavily stripped-down version of Red Baron 3D" aimed at more casual players.[^ref-22]
 
 Children's Software Revue, in a review copyrighted 2000, offered an equally dismissive evaluation: "Graphics are marginal and the plane is difficult to control. Of the flights sims we've seen, this ranks low on the excitement scale."[^ref-8][^ref-11]
 
@@ -98,7 +100,7 @@ Performance issues compounded the negative reception, with IGN noting choppy gam
 
 Customer reception on retail platforms has been mixed. Amazon reviews show an average of **4.0 out of 5 stars** from 3 ratings, though individual reviews range from enthusiastic to scathing.[^ref-11] One positive reviewer wrote: "This is a completely enjoyable game. There is nothing like taking a break from headache inducing homework for a quick game of Red Baron."[^ref-8] However, another stated bluntly: "Can't even fly this piece of CRAP. What a waste. Totally unuseable!"[^ref-8]
 
-GameFAQs users rated the game as "Great" based on 6 ratings, suggesting a more positive assessment from dedicated players.[^ref-12] Giant Bomb's user ratings show **4.0 out of 5 stars** from 4 user reviews.[^ref-10]
+GameFAQs users rated the game as "Great" based on 6 ratings.[^ref-12] GameSpot's archived page shows no review and a user average of 6.3 from 6 ratings.[^ref-26] Giant Bomb's user ratings show **4.0 out of 5 stars** from 4 user reviews.[^ref-10]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 49% (3 ratings, as of April 2026)[^ref-20]
@@ -107,6 +109,7 @@ GameFAQs users rated the game as "Great" based on 6 ratings, suggesting a more p
 - **Amazon Customer Reviews:** 4.0/5 stars[^ref-11]
 - **Giant Bomb Users:** 4.0/5 stars[^ref-10]
 - **IGN:** 4.1/10[^ref-6]
+- **Metacritic:** no critic reviews listed[^ref-28]
 
 ## Development
 
@@ -136,7 +139,7 @@ The game required a Pentium processor, 32MB of RAM, an 8x CD-ROM drive, and Wind
 
 The game uses 3D graphic acceleration for clouds, smoke and other effects.[^ref-1] The translucent cockpit, which requires a 3D accelerator card, lets players see targets more easily.[^ref-1][^ref-6] MobyGames lists Glide among supported APIs and resolutions from 512×384 to 1024×768.[^ref-19]
 
-The game was distributed on CD-ROM, including a jewel-case edition.[^ref-8][^ref-19]
+The game was distributed on CD-ROM, including a jewel-case edition; the MobyGames credits list "Jewel Case Manual Text" and "Jewel Case Manual Layout" credits.[^ref-19][^ref-21]
 
 ### Technical Specifications
 
@@ -161,7 +164,9 @@ No information about cut content was found in the available research data.
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | July 6, 1999 | Windows | Initial release[^ref-3][^ref-9] |
+| Not documented | July 6, 1999 per IGN and Sierra Classic Gaming; May 27, 1999 per LaunchBox | Windows | Initial release[^ref-3][^ref-9][^ref-25] |
+
+A retailer price list in Computer Gaming World's January 2000 issue shows "Curse You! Red Baron 06/99" (an advertisement, not a review).[^ref-29] No source found gives a version number for the retail release. (Sierra Help lists "1.0" only for the copy of the game inside a compilation, see Collections.)[^ref-24]
 
 ### Technical Issues
 
@@ -193,7 +198,9 @@ Specific sales figures for Curse You! Red Baron are not available in the researc
 
 ### Collections
 
-No compilation releases were found in the research data. The game has been preserved on the Internet Archive:[^ref-5]
+Curse You! Red Baron is included in the compilation *3-D Ultra: Planes, Trains and Automobiles*, according to the Sierra Chest.[^ref-23] The Sierra Help wiki lists the game (version 1.0, dated 2001/02/01) alongside 3-D Ultra Lionel Train Town and 3-D Ultra Radio Control Racers, with Sierra as publisher.[^ref-24] No retail or price details for the compilation were found.
+
+The game has also been preserved on the Internet Archive:[^ref-5]
 - Uploaded March 12, 2021
 - 2,139 views and 8 favorites as of October 2026[^ref-5]
 
@@ -234,14 +241,14 @@ Curse You! Red Baron is a minor entry in the Red Baron series, an arcade-style s
 ## References
 
 [^ref-1]: [MobyGames – Curse You! Red Baron](https://www.mobygames.com/game/9020/curse-you-red-baron/) – developer, publisher, ratings, series information, release year
-[^ref-3]: [IGN – Curse You! Red Baron Game Page](https://www.ign.com/games/curse-you-red-baron) – aircraft list, game modes, release date, review score
+[^ref-3]: [IGN – Curse You! Red Baron Game Page](https://www.ign.com/games/curse-you-red-baron) – aircraft list, game modes, release date (Jul 6, 1999), review score
 [^ref-4]: [My Abandonware – Curse You! Red Baron](https://www.myabandonware.com/game/curse-you-red-baron-mhi) – genre, themes, platform, download information
 [^ref-5]: [Internet Archive – Curse You! Red Baron](https://archive.org/details/curse-you-red-baron) – preserved CD-ROM ISO, upload date, view counts
 [^ref-6]: [IGN Review – Curse You! Red Baron](https://www.ign.com/articles/1999/08/06/curse-you-red-baron) – review score, criticism, technical issues
 [^ref-8]: [Amazon – Curse You! Red Baron](https://www.amazon.com/Curse-You-Red-Baron-PC/dp/B00001LCDN) – product description, customer reviews, platforms
 [^ref-9]: [Sierra Classic Gaming – Curse You! Red Baron (archived)](https://web.archive.org/web/20260606193933/https://sierraclassicgaming.com/game/curse-you-red-baron/) – system requirements, release date, related games
-[^ref-10]: [Giant Bomb – Curse You! Red Baron](https://www.giantbomb.com/curse-you-red-baron/3030-12973/) – developer, publisher, user ratings, features
-[^ref-11]: [Amazon Spain – Curse You! Red Baron](https://www.amazon.com/-/es/Curse-You-Red-Baron-PC/dp/B00001LCDN) – customer reviews, Children's Software Revue quote
+[^ref-10]: [Giant Bomb – Curse You! Red Baron](https://www.giantbomb.com/curse-you-red-baron/3030-12973/) – developer, publisher, user ratings
+[^ref-11]: [Amazon (Spanish-language view) – Curse You! Red Baron](https://www.amazon.com/-/es/Curse-You-Red-Baron-PC/dp/B00001LCDN) – same Amazon.com listing as ref-8: customer reviews, Children's Software Revue quote
 [^ref-12]: [GameFAQs – Curse You! Red Baron](https://gamefaqs.gamespot.com/pc/915885-curse-you-red-baron) – user ratings, release year
 [^ref-15]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch information, technical support
 [^ref-17]: [MobyGames – Curse You! Red Baron Credits (Windows)](https://www.mobygames.com/game/9020/curse-you-red-baron/credits/windows/) – design, programming, art, music credits
@@ -249,3 +256,11 @@ Curse You! Red Baron is a minor entry in the Red Baron series, an arcade-style s
 [^ref-19]: [MobyGames – Curse You! Red Baron Tech Specs](https://www.mobygames.com/game/9020/curse-you-red-baron/specs/) – Pentium, Windows 95, 32 MB RAM, 8X CD-ROM, Glide API, resolutions
 [^ref-20]: [MobyGames – Curse You! Red Baron (archived April 6, 2026)](https://web.archive.org/web/20260406131104/https://www.mobygames.com/game/9020/curse-you-red-baron/) – critics 49% (3 ratings), players 2.3/5 (4 ratings), ESRB Everyone
 [^ref-21]: [MobyGames – Curse You! Red Baron Credits (Windows, archived April 6, 2026)](https://web.archive.org/web/20260406124838/https://www.mobygames.com/game/9020/curse-you-red-baron/credits/windows/) – "relies heavily upon the work done for Red Baron II and Red Baron 3D"
+[^ref-22]: [The Adrenaline Vault – Curse You! Red Baron review by Adam Swiderski, Aug 4, 1999 (archived)](https://web.archive.org/web/20041231131739/http://www.avault.com/reviews/review_temp.asp?game=curseyou&page=1) – four styles of play incl. training missions, Dogfight, Red Baron Challenge, hot-seat; "heavily stripped-down version of Red Baron 3D"
+[^ref-23]: [The Sierra Chest – Curse You! Red Baron (Wayback, 2019)](http://web.archive.org/web/2019/http://sierrachest.com/index.php?a=games&id=417&title=curse-you-red-baron&fld=general) – developer Dynamix, Red Baron series, engine unknown/unnamed, "also included in: 3-D Ultra: Planes, Trains and Automobiles"
+[^ref-24]: [Sierra Help wiki – Planes+Trains+Automobiles](https://wiki.sierrahelp.com/index.php/Planes%2BTrains%2BAutomobiles) – compilation contents: Curse You! Red Baron 1.0, 3-D Ultra Lionel Train Town 1.1, 3-D Ultra Radio Control Racers 1.0; publisher Sierra (read via WebFetch; site is behind a Cloudflare gate for scripts)
+[^ref-25]: [LaunchBox Games Database – Curse You! Red Baron](https://gamesdb.launchbox-app.com/games/details/158648-curse-you-red-baron) – release May 27, 1999, ESRB E, 1 player, no co-op, Dynamix / Sierra On-Line
+[^ref-26]: [GameSpot – Curse You! Red Baron (Wayback, May 2019)](http://web.archive.org/web/20190511142550/https://www.gamespot.com/curse-you-red-baron/) – "Not Reviewed", user average 6.3 from 6 ratings, Everyone, Animated Violence
+[^ref-27]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – 1999, Windows, Dynamix, Sierra On-Line
+[^ref-28]: [Metacritic – Curse You! Red Baron](https://www.metacritic.com/game/curse-you-red-baron/) – "Critic reviews are not available for this game yet", rated E, developer Dynamix (checked Nov 2026)
+[^ref-29]: [Computer Gaming World issue 186 (Jan 2000) – retailer price list](https://archive.org/details/Computer_Gaming_World_Issue_186) – lists "Curse You! Red Baron 06/99" under Simulation; an advertisement, not a review
