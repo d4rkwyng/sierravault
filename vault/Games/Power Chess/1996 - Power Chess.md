@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess by David Kittinger
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 composer: [Guy Whitmore]
 description: Power Chess is a 1996 Windows 95 chess program from Sierra On-Line, built
   on David Kittinger's WChess engine, pairing an adaptive King opponent with a talking
@@ -19,13 +19,13 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Power Chess is a chess program released by Sierra On-Line on September 30, 1996, for Windows 95[^ref-1][^ref-6]. Its engine is WChess by David Kittinger, which had played against Deep Blue at the 1995 World Computer Chess Championship[^ref-1]. Wikipedia credits it with two main innovations: the program adjusts its level to match the player's, and after each game a female voice, the Queen, walks the player through the game and explains where they could have played better[^ref-1].
+Power Chess is a chess program released by Sierra On-Line on September 30, 1996, for Windows 95[^ref-1][^ref-6]. Its engine is WChess by David Kittinger, which had played against Deep Blue at the 1995 World Computer Chess Championship[^ref-1][^ref-27]. Wikipedia credits it with two main innovations: the program adjusts its level to match the player's, and after each game a female voice, the Queen, walks the player through the game and explains where they could have played better[^ref-1].
 
-The program was designed and directed by Elon Gasper[^ref-22], whom Sierra CEO Ken Williams later called the "genius" behind it: "Power Chess was Elon's baby"[^ref-16]. It won Computer Games Strategy Plus's 1996 award for Traditional Game of the Year[^ref-17], and in March 1997 the German magazine PC Joker rated it highest of four new chess programs[^ref-20].
+The program was designed and directed by Elon Gasper[^ref-22][^ref-25], whom Sierra CEO Ken Williams later called the "genius" behind it: "Power Chess was Elon's baby"[^ref-16]. It won Computer Games Strategy Plus's 1996 award for Traditional Game of the Year[^ref-17], and in March 1997 the German magazine PC Joker rated it highest of four new chess programs[^ref-20].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-11]
@@ -40,7 +40,7 @@ The program was designed and directed by Elon Gasper[^ref-22], whom Sierra CEO K
 
 ## Story Summary
 
-Power Chess has no story as such. Its framing device is a royal couple: the Power Chess King is the main opponent, and his wife, the Power Chess Queen, studies the player's moves while they play him[^ref-13]. After a game against the King, the Queen takes the player back through it move by move, commenting on their choices and showing alternatives[^ref-13]. A 2016 Ask MetaFilter post remembers it the same way: "you could play it back move by move and the 'Queen' would explain his strategy and suggest how you could have played differently"[^ref-2].
+Power Chess has no story as such. Its framing device is a royal couple: the Power Chess King is the main opponent, and his wife, the Power Chess Queen, studies the player's moves while they play him[^ref-13]. After a game against the King, the Queen takes the player back through it move by move, commenting on their choices and showing alternatives[^ref-13]. InterAction's 1996 feature adds that players could choose the level of detail and tempo of her commentary and skip back and forth with VCR-style controls[^ref-25]. A 2016 Ask MetaFilter post remembers it the same way: "you could play it back move by move and the 'Queen' would explain his strategy and suggest how you could have played differently"[^ref-2].
 
 ## Gameplay
 
@@ -48,7 +48,7 @@ Power Chess has no story as such. Its framing device is a royal couple: the Powe
 
 The game is mouse-driven[^ref-11]. PC Joker found the mouse controls trouble-free but wished for a printed manual, as the program structure was somewhat confusing even with online help[^ref-20]. The US box documents gameplay only in help files on the CD-ROM[^ref-6]. Boards can be shown at up to 1280×1024 in three sizes, with 13 boards and about a dozen rendered, animated piece sets to choose from, plus speech output[^ref-20].
 
-Alongside the King, PC Joker counted 25 opponents, each with an individual style such as reckless, defensive or sacrificial. Players can also build their own opponent with sliders for traits like opening preferences and endgame strength[^ref-20]. The program keeps track of the player's rating[^ref-1], and it supports play over the Internet[^ref-11][^ref-20].
+Alongside the King, PC Joker counted 25 opponents, each with an individual style such as reckless, defensive or sacrificial. Players can also build their own opponent with sliders for traits like opening preferences and endgame strength[^ref-20]. The program keeps track of the player's rating[^ref-1], and it supports play over the Internet[^ref-11][^ref-20]. Sierra ran its own Sierra Internet Gaming Service for Power Chess, reached by logging on at sierra.com, and Sierra Northwest general manager Scott Lynch said "for a game like Power Chess, online play can help it stand above other products of that type"[^ref-28][^ref-25].
 
 ### Structure and Progression
 
@@ -77,6 +77,8 @@ PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls,
 
 Sierra's own InterAction magazine later quoted Computer Games Strategy Plus as calling it "a fresh, addictive, and innovative way for the rest of us to improve our play"; the line comes from Chuck Klimushyn's 1996 review.[^ref-24] It also quoted *Wired*: "one of the best things to happen to on-screen chess since there was such a thing"[^ref-21].
 
+In its December 1996 "Also Making Their Move" roundup of new chess games, Computer Gaming World wrote that "the slickest castling move this season seems to be Power Chess from Sierra" and that its tutorials "are based on" some of the greatest games in chess history[^ref-26].
+
 Dulin was more reserved. He concluded that "Good chess players looking to become great will probably find Power Chess helpful," but that bad players looking to improve "probably won't find much help"[^ref-13].
 
 ### Modern Assessment
@@ -88,6 +90,8 @@ Power Chess keeps a small following. A 2015 Reddit post called it "literally the
 ### Origins
 
 Ken Williams has described Power Chess as part of his push to expand Sierra "into additional categories besides adventure games". Chess, in his recollection, was a predictable and solid category dominated by one entrenched product[^ref-16]. He planned for a long campaign: "My goal was to have an awesome product, but recognize that our plan was going to be to take 5-10% of the business in year one, and then add 5-10 points per year for each of the next five years"[^ref-16].
+
+In Sierra's InterAction magazine in 1996, Gasper said he built his first chess engine on a university mainframe 25 years earlier. He said the idea of running two engines as separate processes, talking to a multi-threaded front end through anonymous pipes, came to him in early 1995[^ref-25]. The team then took WChess, which InterAction says won the Harvard Cup man-machine tournament, and Gasper "modified WChess to create a human-like competitor", the King. Playing the Queen means "playing WChess itself, straight out of the bottle"[^ref-25]. The Chessprogramming Wiki records that WChess scored 5/6 at the 1994 Harvard Cup and took part in the 1995 World Computer Chess Championship[^ref-29]. It describes Kittinger as the author of the Chessmaster 2000 engine who released WChess as a DOS program in 1995, with a Windows 95 version of Power Chess on the market from 1996[^ref-30].
 
 ### Production
 
@@ -133,3 +137,9 @@ Ken Williams counted it a success: "We launched the product, to critical aclaim 
 [^ref-22]: [MobyGames – Power Chess credits (Windows)](https://www.mobygames.com/game/1922/power-chess/credits/windows/) – designer/director, producer, team, Queen voice, music
 [^ref-23]: [PC PowerPlay No. 33, February 1999 (Internet Archive)](https://archive.org/details/PCPowerplay-033-1999-02) – p. 113, Sierra's Complete Chess review: Power Chess as the intermediate level
 [^ref-24]: [Computer Games Strategy Plus – "Power tutelage for the masses", Chuck Klimushyn (1996, Wayback)](https://web.archive.org/web/1997/http://www.cdmag.com:80/traditional_vault/power_chess_review/page1.html) – original review: "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"
+[^ref-25]: [InterAction Magazine, Fall 1996, "Partners" feature on Power Chess (Internet Archive)](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) – Gasper as designer, King and Queen, VCR-style review, WChess modified, Harvard Cup, Internet service (Sierra house magazine, promotional)
+[^ref-26]: [Computer Gaming World No. 149, December 1996 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_149) – "Also Making Their Move" chess roundup: "slickest castling move this season", tutorials from famous games
+[^ref-27]: [PC Games, Vol. 3 No. 12, December 1996 (Internet Archive)](https://archive.org/details/pc-games-vol.-3-no.-12-december-1996-kitsunebi) – holiday chess roundup: WChess engine "fought IBM's Deep Blue to a draw at the 1995 World Computer Chess Championship"; Win 95 CD, $39.95 (price list, not a ship date)
+[^ref-28]: [PC Games, Vol. 4 No. 01, January 1997 (Internet Archive)](https://archive.org/details/pc-games-vol.-4-no.-01-january-1997-kitsunebi) – Gamewire item on the Sierra Internet Gaming Service for Power Chess; Scott Lynch quote
+[^ref-29]: [Chessprogramming Wiki – WChess](https://www.chessprogramming.org/WChess) – 5/6 at Harvard Cup 1994, WCCC 1995, engine of Sierra's Power Chess (Windows 95, 1996)
+[^ref-30]: [Chessprogramming Wiki – David Kittinger](https://www.chessprogramming.org/David_Kittinger) – Kittinger background, Chessmaster 2000 engine, WChess 1995 DOS release, Power Chess engine
