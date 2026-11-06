@@ -10,14 +10,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Player-controlled Microbot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: WallWar is an action game designed by Peter Oliphant and published by
   Sierra On-Line under its SierraVision label for the Atari 8-bit computers in 1983. It was originally titled "Force Fields" during development.
 tags: [1980s, sierra, standalone]
 ---
 # WallWar
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -109,12 +109,8 @@ Oliphant took a day off and went to Oakhurst to show the game to Ken Williams of
 Mattel had rejected the game, but it still regarded it as company property. Oliphant was subpoenaed at his going-away party to give the game up. With help from a lawyer, he resolved the dispute[^ref-3]. He then completed the game and added a splash screen at Williams' request, and Sierra released it as WallWar[^ref-3].
 
 **Development Credits:**
-- **Designer/Programmer:** Peter Oliphant[^ref-3][^ref-5][^ref-27][^ref-28]
+- **Designer/Programmer:** Peter Oliphant[^ref-3][^ref-5][^ref-27][^ref-28]; Pixelated Arcade credits the Atari version to him as well[^ref-38]
 - **Cover Artwork:** Chris Dellorco[^ref-1]
-
-### Animation Production
-
-Oliphant is credited as the game's sole author[^ref-1][^ref-27][^ref-28]. In 1983 he said he preferred to do "the sound, the graphics, the whole thing myself"[^ref-33]. MobyGames credits the box cover art to Chris Dellorco[^ref-1].
 
 ### Technical Achievements
 
@@ -169,7 +165,7 @@ No voice cast is documented for WallWar.
 
 ### Sales and Commercial Impact
 
-WallWar was a commercial disappointment and "sold only a very limited number of copies"[^ref-3]. Ernst Krogtoft noted that "Neither WallWar nor Mr. Cool became commercial success stories"[^ref-3], referring to the two games Peter Oliphant made for Sierra On-Line. *Softline*'s September–October 1983 review of *Mr. Cool* opened: "Fresh from his creative triumph with Wall War, designer Peter Oliphant returns with Mr. Cool". It also found that game's fiery cauldron "suspiciously similar to the plasma field in Wall War"[^ref-34]. Retro365 adds that after the North American video game crash in late 1983 "everybody moved on", Oliphant included[^ref-3].
+WallWar was a commercial disappointment and "sold only a very limited number of copies"[^ref-3]. Ernst Krogtoft noted that "Neither WallWar nor Mr. Cool became commercial success stories"[^ref-3], referring to the two games Peter Oliphant made for Sierra On-Line. Wikipedia's *Mr. Cool* article likewise notes that Oliphant became interested in *Q*bert* after finishing "his first game for Sierra On-Line, *Wall War*"[^ref-36]. *Softline*'s September–October 1983 review of *Mr. Cool* opened: "Fresh from his creative triumph with Wall War, designer Peter Oliphant returns with Mr. Cool". It also found that game's fiery cauldron "suspiciously similar to the plasma field in Wall War"[^ref-34]. In a reader classified in the November 1983 *Video Games Player*, Oliphant advertised the Atari 400/800 games he had designed, WallWar on disk and *Mr. Cool* on cartridge, adding that they were "also available from Sierra On-Line"[^ref-37]. Retro365 adds that after the North American video game crash in late 1983 "everybody moved on", Oliphant included[^ref-3].
 
 ### Collections
 
@@ -194,7 +190,7 @@ The development story behind WallWar is perhaps better known than the game itsel
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Not currently sold on GOG or Steam.
 
 ## Downloads
 
@@ -206,6 +202,7 @@ The development story behind WallWar is perhaps better known than the game itsel
 
 **Manuals & Extras**
 - [Atarimania – WallWar](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_5700.html) – hosts scans of the instructions (3 pages)[^ref-5]
+- [Pixelated Arcade – WallWar](https://pixelatedarcade.com/games/wallwar) – Atari instruction manual (PDF) and a March 1983 magazine advertisement scan[^ref-38]
 
 ## See Also
 
@@ -249,3 +246,6 @@ The development story behind WallWar is perhaps better known than the game itsel
 [^ref-33]: [Video Games, July 1983 (Vol. 1 No. 10), "Image Makers" by David Rowe (pp. 70–73, Internet Archive)](https://archive.org/details/video-games-volume-1-number-10-july-1983/page/n70/mode/1up) – UCLA conference report; Oliphant on leaving Mattel and working alone on Wall War (article misnames him "Mike"/"Michael")
 [^ref-34]: [Softline, September–October 1983, "Gameline": "Mr. Cool – By Peter Oliphant" (p. 42, Internet Archive)](https://archive.org/details/Softline_1983_09_10/page/n43/mode/1up) – "Fresh from his creative triumph with Wall War, designer Peter Oliphant returns with Mr. Cool"
 [^ref-35]: [Computer Palace catalog, Spring 1983 (p. 22, Internet Archive)](https://archive.org/details/ComputerPalaceSpring1983/page/n22/mode/1up) – mail-order listing under SIERRA-VISION (ON-LINE): "Wall War 48K D $26.90"
+[^ref-36]: [Wikipedia – Mr. Cool (video game)](https://en.wikipedia.org/wiki/Mr._Cool_(video_game)) – "After finishing his first game for Sierra On-Line, Wall War, Peter Oliphant became interested in Q*bert"
+[^ref-37]: [Video Games Player, November 1983 (Vol. 2 No. 2), reader classifieds (Internet Archive)](https://archive.org/details/Video_Games_Player_Vol_2_No_2_1983-11_Carnegie_Publications_US) – Oliphant's own ad for the Atari 400/800 games he designed, Wall War (disk) and Mr. Cool (cartridge): "Also available from Sierra On-Line"
+[^ref-38]: [Pixelated Arcade – WallWar](https://pixelatedarcade.com/games/wallwar) – "Atari Version by: Peter Oliphant"; hosts the Atari instruction manual and a March 1983 magazine ad scan
