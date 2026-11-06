@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-06'
 description: Hoyle Puzzle & Board Games 2005 is a Sierra compilation, released in
   September 2004, that bundled Hoyle Puzzle Games and Hoyle Board Games in one package.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle & Board Games 2005
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -93,7 +93,7 @@ Hoyle Puzzle & Board Games 2005 received little coverage from gaming publication
 
 ### Production
 
-Metacritic credits development to Sierra Entertainment[^ref-3]. Sierra sold it under its own label: the October 2004 alphabetical catalog on sierra.com lists "Hoyle Puzzle & Board 2005" under Family Games, beside Hoyle Card Games 2005 and Hoyle Casino 3D[^ref-16]. No development credits for the compilation itself were found in the sources consulted. MobyGames' credits for the standalone Hoyle Puzzle Games 2005 (44 people, with Ryan Spain as designer and Stephen H. Van Horn as executive producer) belong to that separate release; whether the same team produced the puzzle disc bundled here is unconfirmed[^ref-5].
+Metacritic credits development to Sierra Entertainment[^ref-3]. Sierra sold it under its own label: the October 2004 alphabetical catalog on sierra.com lists "Hoyle Puzzle & Board 2005" under Family Games, beside Hoyle Card Games 2005 and Hoyle Casino 3D[^ref-16]. In December 2004, shortly after the game's release, Vivendi Universal Games assigned the Hoyle games license to Encore, which, effective December 23, 2004, became responsible for sales, distribution and marketing of the Hoyle family of products, a franchise-level transfer that WorthPlaying's report lists as including Hoyle Puzzle and Board Games[^ref-20][^ref-21]. No development credits for the compilation itself were found in the sources consulted. MobyGames' credits for the standalone Hoyle Puzzle Games 2005 (44 people, with Ryan Spain as designer and Stephen H. Van Horn as executive producer) belong to that separate release; whether the same team produced the puzzle disc bundled here is unconfirmed[^ref-5].
 
 ### Technical Specifications
 
@@ -224,3 +224,5 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-17]: [GameFAQs – Hoyle Puzzle & Board Games 2005 Data](https://gamefaqs.gamespot.com/pc/924319-hoyle-puzzle-and-board-games-2005/data) – US release 09/14/04, publisher VU Games, developer Sierra Entertainment, barcode, ESRB E / Comic Mischief
 [^ref-18]: [HoyleGames.com – Hoyle Puzzle Games (Wayback, Mar 2005)](https://web.archive.org/web/20050309232119/http://www.hoylegames.com/puzzlegames.jsp) – "two new puzzle games—Rays and Word Searches", 1,000 crossword puzzles, © 2003 Sierra Entertainment
 [^ref-19]: [eBay catalog – Hoyle Puzzle & Board Games (ePID 30989877)](https://www.ebay.com/p/30989877) – catalog description listing puzzle and board games, UPC 0020626722018, release year 2004 (catalog text contains errors)
+[^ref-20]: [WorthPlaying – Vivendi Passes on Hoyle Brand to Encore (Dec 21, 2004)](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) – "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing"; names Hoyle Puzzle and Board Games
+[^ref-21]: [SoCalTech – Vivendi Sells Hoyle Brand (Dec 23, 2004)](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – VU Games divested its Hoyle branded software products to Encore; Encore handles sales, distribution and marketing
