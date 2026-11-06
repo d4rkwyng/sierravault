@@ -10,19 +10,20 @@ series: Playtoons
 engine: Gob
 protagonist: Peter and Ben
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
   by Coktel Vision and published by Sierra On-Line for Windows 3.x and Macintosh;
-  sources disagree on its release year (1994, 1995 in Europe, 1996 in the US).'
+  sources disagree on its release year (1994 per Wikipedia and IGDB; period magazines
+  show it on sale in Europe and the US in 1995).'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] for Windows 3.x and Macintosh.[^ref-1][^ref-18] Sources disagree on the release year: Wikipedia and IGDB give 1994,[^ref-2][^ref-19] MobyGames and Sierra Chest give 1995,[^ref-1][^ref-18] and GameFAQs and MyAbandonware give 1995 for the French and German releases and 1996 for the US release.[^ref-9][^ref-6] The game is the first entry in the Playtoons series, whose games Wikipedia describes as focused on teaching children school topics in a digital format.[^ref-2] Coktel Vision was a French studio that Sierra On-Line acquired in a deal finalised in October 1993.[^ref-23]
+Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] for Windows 3.x and Macintosh.[^ref-1][^ref-18] Sources disagree on the release year: Wikipedia and IGDB give 1994,[^ref-2][^ref-19] MobyGames and Sierra Chest give 1995,[^ref-1][^ref-18] and GameFAQs and MyAbandonware give 1995 for the French and German releases and 1996 for the US release.[^ref-9][^ref-6] The 1996 US date is contradicted by Sierra's own house magazine: InterAction's Spring 1995 issue announced the first volume, "Playtoons: A Visit With Uncle Archibald", for release in May, with "June '95" given under "When?", and its Fall 1995 issue carried an advertisement reading "Order Playtoons: featuring Uncle Archibald now!" together with a coupon promotion valid until 10/31/95.[^ref-25][^ref-24] French press shows the French edition on sale by January 1995: Joystick's January 1995 issue says "Deux titres ont déjà paru" and names Oncle Archibald, and PC Novice's January 1995 issue calls Oncle Archibald "Le premier titre de la série".[^ref-32][^ref-33] The game is the first entry in the Playtoons series, whose games Wikipedia describes as focused on teaching children school topics in a digital format.[^ref-2] Coktel Vision was a French studio that Sierra On-Line acquired in a deal finalised in October 1993.[^ref-23]
 
 The game combines an interactive story unique to its specific title with a construction game common to the entire Playtoons collection.[^ref-18] Players can read through the interactive comic book narrative and also create their own animated stories with an integrated editor, adding background scenery, props and characters to a scene.[^ref-1]
 
@@ -34,7 +35,7 @@ The Playtoons games are interoperable: if multiple Playtoons games were installe
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Gob engine[^ref-18]
 > **Platforms:** Windows 3.x, Macintosh[^ref-1]
-> **Release Year:** 1994 per Wikipedia and IGDB; 1995 (France, Germany) and 1996 (US) per GameFAQs and MyAbandonware[^ref-2][^ref-19][^ref-9][^ref-6]
+> **Release Year:** 1994 per Wikipedia and IGDB;[^ref-2][^ref-19] French press shows it on sale by January 1995,[^ref-32][^ref-33] UK March 1995[^ref-26] and Germany August 1995;[^ref-28] Sierra's InterAction magazine shows the US edition announced for May/June 1995 and advertised as available in Fall 1995,[^ref-25][^ref-24] while GameFAQs and MyAbandonware list 1995 (France, Germany) and 1996 (US)[^ref-9][^ref-6]
 > **Series:** Playtoons
 > **Protagonist:** Peter (the narrator) and Ben[^ref-18]
 > **Sierra Lineage:** Sierra Label (Coktel)
@@ -75,7 +76,16 @@ The construction game allows players to create up to 20 scenes.[^ref-18] Althoug
 
 ### Contemporary Reviews
 
-No contemporary critic reviews of Playtoons 1: Featuring Uncle Archibald are listed on MobyGames or Metacritic.[^ref-22][^ref-10] The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs.[^ref-9]
+Period magazines did review the game, although none of those reviews is listed on MobyGames or Metacritic.[^ref-22][^ref-10]
+
+- **CD-ROM User (UK), April 1995:** Geoff Spick's review gave it a rating of five stars and a "Recommended" badge, called the characters, animations, sounds and narrations "top notch", and made one criticism: "the story could be a little longer".[^ref-26]
+- **PC Player (Germany), May 1995:** the "PC Junior" test gave an overall rating (Gesamtwertung) of 80, with Grafik "Gut", Sound "Gut", Bedienung "Sehr gut" and Spaßfaktor "Gut". The text calls the story "zwar kurz, aber gut erzählt" (short, but well told) and the product "empfehlenswert" (recommended), and credits the construction kit with keeping it enjoyable over the longer term.[^ref-27]
+- **PC Spiel (Germany), August 1995:** featured it as "Playtoons: Onkel Archibald", the first of three "book" programs due from August, and praised the story and the construction section.[^ref-28]
+- **Science et Vie Micro (France), June 1995:** reviewed "Oncle Archibald" as the first title of the Playtoons collection, for children aged 4 to 10, and judged the whole package "extrêmement bien fait". It noted that the story itself suits children from about 4 but the animation module needs a little more experience.[^ref-29]
+- **CD-ROM Today (UK):** reviewed it in issue 13 (May 1995); the September 1995 issue (17) notes that Coktel Vision had since pulled the disc and reworked sections of it. No scan of issue 13 was located.[^ref-31]
+- **MacFormat (UK), March 1996:** reviewed the Mac editions of Uncle Archibald, The Secret of the Castle and The Case of the Counterfeit Collaborator together (no separate score), calling Uncle Archibald "a great introduction to the range".[^ref-30]
+
+The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs.[^ref-9]
 
 ### Modern Assessment
 
@@ -112,24 +122,31 @@ Development of Playtoons 1 involved a substantial team spanning programming, gra
 
 ### Technical Achievements
 
-The game was built on Coktel Vision's Gob engine.[^ref-18] If several Playtoons games are installed, the assets from all of them become available in the editor.[^ref-1]
+The game was built on Coktel Vision's Gob engine.[^ref-18] ScummVM's Gob engine includes detection entries for "playtoons1", covering French, German and English editions.[^ref-34] If several Playtoons games are installed, the assets from all of them become available in the editor.[^ref-1]
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-4]
 - **Media:** Hybrid Windows 3.1 / Macintosh CD-ROM (the Internet Archive's disc image is about 327 MB)
 - **Perspective:** Fixed / Flip-screen[^ref-6]
+- **Windows requirements (CD-ROM User, April 1995):** a 486 SX with a CD-ROM drive and Windows 3.1, running in 640x480 SuperVGA at 256 colours.[^ref-26]
+- **Mac requirements (MacFormat, March 1996):** LC475 or better, 4 MB of free RAM (8 MB preferred), System 7.1 or later, a 13-inch 256-colour monitor and a double-speed CD-ROM drive; PowerMac-native.[^ref-30]
+- **Age range:** four to ten years according to CD-ROM User, CD-ROM Today, Science et Vie Micro and MacFormat;[^ref-26][^ref-31][^ref-29][^ref-30] Sierra's Fall 1995 product list says ages 6-12, and PC Player gives 4 to 12.[^ref-24][^ref-27]
+- **Language:** the German edition carries German and English on the disc,[^ref-28] and the Mac edition has English and French narration that can be swapped.[^ref-30]
 
 ### Version History
 
 | Date | Platform | Region | Notes |
 |------|----------|--------|-------|
-| 1995 | Windows 3.x | France | French release[^ref-6][^ref-9] |
-| 1995 | Windows 3.x | Germany | German localization[^ref-6][^ref-9] |
+| By January 1995 | Windows 3.x | France | French release; on sale by January 1995 per French press, about 350 F TTC in June 1995[^ref-32][^ref-33][^ref-29] |
+| March 1995 | Windows 3.x | United Kingdom | Launched in March; reviewed at £27.99[^ref-26] |
+| 1995 | Windows 3.x | France | French release per database sources[^ref-6][^ref-9] |
+| August 1995 | Windows 3.x | Germany | German edition "Onkel Archibald", about 80 DM; database sources give 1995[^ref-28][^ref-6][^ref-9] |
+| 1995 | Not stated | United States | Announced for May/June 1995 and advertised for sale in Fall 1995; GameFAQs and MyAbandonware list 1996, rated K-A[^ref-25][^ref-24][^ref-6][^ref-9] |
 | 1995 | Macintosh | France, Germany | MobyGames release data lists 1995 Mac releases in France and Germany, and a 1996 US release[^ref-1] |
-| 1996 | Windows 3.x | United States | US release, rated K-A[^ref-6][^ref-9] |
+| March 1996 | Macintosh | United Kingdom | Reviewed by MacFormat in its March 1996 issue at £24.99, "Out: now"[^ref-30] |
 
-Wikipedia and IGDB instead give 1994 as the release year.[^ref-2][^ref-19]
+Wikipedia and IGDB instead give 1994 as the release year.[^ref-2][^ref-19] The earliest dated evidence found for the game being on sale is the French press of January 1995, which is consistent with a late-1994 or early-1995 French release; no dated launch announcement was found.[^ref-32][^ref-33]
 
 The game was released under different titles for localized markets:
 - **French:** Playtoons № 1: Oncle Archibald[^ref-1]
@@ -154,7 +171,7 @@ The game was released under different titles for localized markets:
 
 ### Sales and Commercial Impact
 
-Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, and released in the US in 1996.[^ref-9] Under the acquisition deal, Sierra published popular French titles worldwide.[^ref-23]
+Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, and GameFAQs lists its US release as 1996,[^ref-9] although Sierra's InterAction magazine was already advertising it as available in Fall 1995.[^ref-24] Under the acquisition deal, Sierra published popular French titles worldwide.[^ref-23]
 
 ### Fan Projects
 
@@ -168,7 +185,7 @@ The game is preserved through various abandonware initiatives:
 
 ### Critical Perspective
 
-Playtoons 1 pairs reading an interactive story with building animated stories in the construction tool, and when several Playtoons games are installed their assets combine in the editor.[^ref-1][^ref-18] No critic reviews are listed for it on MobyGames or Metacritic.[^ref-22][^ref-10]
+Playtoons 1 pairs reading an interactive story with building animated stories in the construction tool, and when several Playtoons games are installed their assets combine in the editor.[^ref-1][^ref-18] No critic reviews are listed for it on MobyGames or Metacritic,[^ref-22][^ref-10] but period magazine reviews exist (see Reception).[^ref-26][^ref-27][^ref-29]
 
 The series continued with at least four more installments: Playtoons 2: The Case of the Counterfeit Collaborator, Playtoons 3: The Secret of the Castle, Playtoons 4: The Mandarine Prince, and Playtoons № 5: La Pierre de Wakan.[^ref-15][^ref-16][^ref-17][^ref-12] Each pairs a story unique to that title with the construction game common to the whole collection.[^ref-18]
 
@@ -210,3 +227,14 @@ The series continued with at least four more installments: Playtoons 2: The Case
 [^ref-19]: [IGDB – Playtoons Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-featuring-uncle-archibald) – release date 6/1/1994, PC (Windows), developer Coktel Vision
 [^ref-22]: [MobyGames – Playtoons 1: Featuring Uncle Archibald reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/) – no critic reviews listed ("Be the first to add a critic review for this title!")
 [^ref-23]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – acquired by Sierra On-Line (deal finalised 29 October 1993); Sierra published popular French titles worldwide
+[^ref-24]: [InterAction Magazine, Fall 1995 (Sierra On-Line, US) – Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – advertisement "Order Playtoons: featuring Uncle Archibald now!"; coupon promotion with receipts dated 7/15/95 to 10/31/95; product list "Playtoons: Featuring Uncle Archibald (Ages 6-12)", "first of a five-part, interactive storybook series"
+[^ref-25]: [InterAction Magazine, Spring 1995 (Sierra On-Line, US) – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra announcement: first volume "Playtoons: A Visit With Uncle Archibald, will be released in May"; "When? June '95"
+[^ref-26]: [CD-ROM User issue 9, April 1995, p. 53 – Internet Archive](https://archive.org/details/cd-rom-user-9-april-1995) – Geoff Spick review; "Launched in March" (news item); £27.99; ages four to ten; 486 SX, Windows 3.1, 640x480, 256 colours; five-star rating and Recommended badge
+[^ref-27]: [PC Player 5/1995, pp. 38-39 – Internet Archive](https://archive.org/details/PC-Player-German-Magazine-1995-05) – German test "Playtoons – Onkel Archibald"; Gesamtwertung 80; ages 4-12; about 80 DM
+[^ref-28]: [PC Spiel, August 1995 – Internet Archive](https://archive.org/details/PCSpiel0895) – German edition, three titles "ab August", Onkel Archibald first; Coktel Vision, 79 DM ("ca. 80 DM"); German and English on the CD
+[^ref-29]: [Science et Vie Micro no. 128, June 1995 – Internet Archive](https://archive.org/details/science-et-vie-micro-128) – review of "Oncle Archibald"; first title of the Playtoons collection; ages 4 to 10; about 350 F TTC
+[^ref-30]: [MacFormat issue 35, March 1996 – Internet Archive](https://archive.org/details/mac-format-035-mar-1996) – kids' multimedia review of Playtoons (Uncle Archibald, Secret of the Castle, Counterfeit Collaborator); £24.99 each; Mac requirements; English and French narration; up to 20 pages in the construction part
+[^ref-31]: [CD-ROM Today issue 17, September 1995 – Internet Archive](https://archive.org/details/cd-rom-today-issue-17-1995-09) – Playtoons feature by Garrick Webster; aimed at four- to ten-year-olds, 12 to 15 screens per story; note that Uncle Archibald was reviewed in issue 13 and Coktel Vision has since pulled and reworked the disc
+[^ref-32]: [Joystick (France) no. 56, January 1995 – Internet Archive](https://archive.org/details/joystick056) – Playtoons for ages 4/10; "Deux titres ont déjà paru" including Oncle Archibald
+[^ref-33]: [PC Novice no. 20, January 1995 – Internet Archive](https://archive.org/details/pcnovice-magazine-20) – "Le premier titre de la série, Oncle Archibald"; Playtoons collection from Coktel Vision
+[^ref-34]: [ScummVM – engines/gob/detection/tables_playtoons.h](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/gob/detection/tables_playtoons.h) – detection entries for "playtoons1" (French, German, English; v1.001/v1.002)
