@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Casino 2003 is a casino simulation released under the Sierra Entertainment
   label in September 2002 for Windows and Macintosh, with Blackjack and Video Poker for
   Palm OS and Windows CE handhelds.
@@ -18,13 +18,13 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
 Hoyle Casino 2003 is a casino simulation released under the [[Sierra On-Line|Sierra Entertainment]] label in September 2002 for Windows and Macintosh[^ref-1][^ref-2][^ref-22]. The "2003" in its title names the edition year, not the release year: Sierra announced the Hoyle 2003 titles as "now offered in stores nationwide" on 20 September 2002, and US listings date the game to September 2002[^ref-23][^ref-24][^ref-25]. The Sierra Chest catalogues it as "Hoyle Casino 7", and the ESRB rated it under the title "Hoyle Casino Games 2003"[^ref-8][^ref-22]. As part of Sierra's Hoyle Casino series, itself a spin-off of Hoyle's Official Book of Games, it followed Hoyle Casino 2002 ([[2001 - Hoyle Casino]]) and preceded Hoyle Casino 2004 ([[2004 - Hoyle Casino]])[^ref-3]. Its retail listing advertised over 400 variations of classic casino games set within a realistic Las Vegas environment[^ref-4].
 
-The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Its marketing promised ten animated 3D characters, five of them new for the 2003 edition[^ref-4][^ref-5]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7][^ref-23].
+The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Its marketing promised ten animated 3D characters, five of them new for the 2003 edition[^ref-4][^ref-5]; Sierra's own product page for the game offered multi-player mode for up to four people on one computer and tournament play[^ref-27], and described the characters as having 8,500 phrases between them[^ref-28]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7][^ref-23].
 
 Hoyle Casino 2003 received an ESRB rating of "E for Everyone" with a "Gambling" content descriptor[^ref-8]. GameSpot found it "nearly indistinguishable from its immediate predecessor, last year's Hoyle Casino 2002"[^ref-9].
 
@@ -53,7 +53,7 @@ The game's social element comes from computer-controlled opponents who share the
 
 GameSpot described an "intuitive gameplay and betting interface," noting that players can move from one section of the casino to another "with just one or two clicks of the mouse"[^ref-9]. The game runs at a resolution of 640x480 with 16-bit color[^ref-6][^ref-9].
 
-Play begins with the creation of a personal character using Hoyle's character generator, Sierra's "facemaker" utility; players also choose how chatty the other characters should be, whether to have background noise, and whether to turn on hints for any or all of the games[^ref-6][^ref-9]. The game keeps statistics of the player's results throughout[^ref-1][^ref-6].
+Play begins with the creation of a personal character using Hoyle's character generator, Sierra's "facemaker" utility (Sierra described choosing different hair, eyes and noses for "thousands of fun, unique combinations")[^ref-29]; players also choose how chatty the other characters should be, whether to have background noise, and whether to turn on hints for any or all of the games[^ref-6][^ref-9]. The game keeps statistics of the player's results throughout[^ref-1][^ref-6].
 
 One notable interface limitation is that the game cannot perform a full installation—some animations and speech content remain on the CD-ROM, which can cause delays during gameplay[^ref-9].
 
@@ -71,7 +71,7 @@ There is no fixed progression: players move freely between the casino's games, a
 
 While not featuring traditional puzzles, Hoyle Casino 2003 challenges players to master the strategies and rules of various casino games[^ref-6]. The game includes an educational component that allows players to pause mid-bet to consult the rules, study them, and return to make more informed decisions[^ref-6].
 
-The game's marketing advertised "hundreds of variations" spread across its 14 games[^ref-4][^ref-5][^ref-23]. GameSpot counted 10 single-line, six multiple-line and four progressive slot machines, and 13 variations of video poker machines[^ref-9].
+The game's marketing advertised "hundreds of variations" spread across its 14 games[^ref-4][^ref-5][^ref-23][^ref-30]; Sierra's product page put the figure at over 400 variations[^ref-27]. GameSpot counted 10 single-line, six multiple-line and four progressive slot machines, and 13 variations of video poker machines[^ref-9].
 
 ## Reception
 
@@ -110,7 +110,7 @@ GameSpot listed the new additions as five new animated characters, a new multipl
 
 ### Technical Achievements
 
-Despite marketing that promised animated 3D characters[^ref-4], GameSpot cautioned that the game is not "some kind of 3D graphics powerhouse": play is viewed from a first-person or elevated two-dimensional perspective, and opponents appear as floating headshots[^ref-9]. GameSpot noted that the system requirements were kept minimal, and that the game supported online play through flipside.com[^ref-9].
+Despite marketing that promised animated 3D characters[^ref-4], GameSpot cautioned that the game is not "some kind of 3D graphics powerhouse": play is viewed from a first-person or elevated two-dimensional perspective, and opponents appear as floating headshots[^ref-9]. GameSpot noted that the system requirements were kept minimal, and that the game supported online play through flipside.com[^ref-9]. Sierra's product page listed free Internet play and stated that "Internet play is not available for Macintosh"[^ref-27].
 
 ### Technical Specifications
 
@@ -180,7 +180,7 @@ No significant fan projects, remakes, or mods have been documented for Hoyle Cas
 
 ### Related Publications
 
-No official hint books or strategy guides specific to Hoyle Casino 2003 have been documented, though the game includes built-in rules and strategy information accessible during gameplay[^ref-6], and shipped with a manual and a bonus booklet of parlor games[^ref-9].
+No separately sold hint book for Hoyle Casino 2003 has been documented. Sierra's product page said players could access hints "either on screen or with the free Hoyle rulebook and strategy guide"[^ref-27], and the game includes built-in rules and strategy information accessible during gameplay[^ref-6]; GameSpot noted a manual and a bonus booklet of parlor games in the package[^ref-9].
 
 ### Critical Perspective
 
@@ -272,4 +272,8 @@ Customer reviews written more than a decade after release show players still usi
 [^ref-23]: [Worthplaying – Sierra Launches Official 'Hoyle Games 2003' Website](https://worthplaying.com/article/2002/9/20/news/5846-sierra-launches-official-hoyle-games-2003-website/) – 20 Sep 2002 announcement: 14 games with hundreds of variations, Palm OS/Windows CE Blackjack and Video Poker, Hoyle 2003 line-up, in stores nationwide
 [^ref-24]: [Amazon.com – Hoyle Casino 2003 - PC/Mac](https://www.amazon.com/Hoyle-Casino-2003-PC-Mac/dp/B00005W35F) – release date September 9, 2002, UPC, manufacturer Vivendi Universal, 3.0/5 from 27 ratings, used listings
 [^ref-25]: [GameFAQs – Hoyle Casino 2003 Release Data](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003/data) – US release 09/07/02, Sierra Entertainment, UPC 020626716345
-[^ref-26]: [MobyGames – Hoyle Casino (game 245729), Macintosh release data](https://www.mobygames.com/game/245729/) – (read via the MobyGames API, 2026-10-23) US release 2002-09-03; licensed by The United States Playing Card Company; 16 MB minimum RAM
+[^ref-26]: [MobyGames – Hoyle Casino (game 245729), Macintosh release data](https://www.mobygames.com/game/245729/) – (MobyGames database entry, checked 2026-10-23) US release 2002-09-03; licensed by The United States Playing Card Company; 16 MB minimum RAM
+[^ref-27]: [Sierra Entertainment – Hoyle Casino (official product page, Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/casinogames.html) – over 400 variations, up to four players on one computer, tournament play, free rulebook and strategy guide, Internet play not available for Macintosh
+[^ref-28]: [Sierra Entertainment – Hoyle Characters (Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/characters.html) – ten 3-D animated casino opponents, 8,500 phrases
+[^ref-29]: [Sierra Entertainment – Hoyle Facemaker (Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/facemaker.html) – character customisation feature
+[^ref-30]: [Sierra Entertainment – Hoyle Catalog (Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/hoylecatalog.html) – 14 Vegas-style games with hundreds of variations
