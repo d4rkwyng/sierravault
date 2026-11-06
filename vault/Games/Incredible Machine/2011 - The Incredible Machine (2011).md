@@ -10,18 +10,18 @@ series: The Incredible Machine
 engine: null
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 composer: null
 description: The Incredible Machine (2011) is an iOS remake of the classic physics puzzle series, developed by Playdom and published by Disney Mobile for iPad and iPhone, with Jeff Tunnell involved.
 tags: [2010s, puzzle, ios, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-The Incredible Machine (2011) is a physics puzzle game for Apple's iOS devices, a new installment in the long-running series in which players complete Rube Goldberg-style contraptions to achieve simple goals[^ref-47]. It was developed by Playdom and published by Disney Mobile[^ref-47][^ref-48]; GamePro's E3 coverage and Metacritic credit Disney Interactive Studios as publisher[^ref-46][^ref-42]. The iPad version debuted on the App Store on June 8, 2011, during E3, priced at $2.99, and an iPhone version followed on July 1, 2011[^ref-46][^ref-48].
+The Incredible Machine (2011) is a physics puzzle game for Apple's iOS devices, a new installment in the long-running series in which players complete Rube Goldberg-style contraptions to achieve simple goals[^ref-47]. It was developed by Playdom and published by Disney Mobile[^ref-47][^ref-48]; GamePro's E3 coverage and Metacritic credit Disney Interactive Studios as publisher[^ref-46][^ref-42]. The iPad version debuted on the App Store on June 8, 2011, during E3, priced at $2.99 (ifun.de listed it at 2,39 euros in Germany)[^ref-59], and an iPhone version followed on July 1, 2011[^ref-46][^ref-48].
 
 Series co-creator [[Jeff Tunnell]], who had joined Playdom in 2010, was involved in the project; TouchArcade described its puzzles as "designed, in part, by Jeff Tunnel"[^ref-49][^ref-50]. Critics received it as a solid but unremarkable return, frequently comparing it with Casey's Contraptions, which had reached iOS a month earlier[^ref-42][^ref-50]. The game was later removed from storefronts and has largely been forgotten[^ref-52].
 
@@ -47,13 +47,13 @@ Each single-screen level supplies a set of tools, contraptions and creatures alo
 
 ### Structure and Progression
 
-At launch the game offered 60 levels plus four tutorial levels, with three additional level packs of 15 levels each sold as 99-cent in-app purchases[^ref-54][^ref-10]. Levels are grouped into themed packs; the first concerns pipes, while a later included pack deals with explosives and fire[^ref-56]. Each puzzle awards up to three stars, and stars unlock further puzzles[^ref-46][^ref-10]. Scores could be compared with friends through Game Center[^ref-58].
+At launch the game offered 60 levels plus four tutorial levels, with three additional level packs of 15 levels each sold as 99-cent in-app purchases[^ref-54][^ref-10]. Levels are grouped into themed packs; the first concerns pipes, while a later included pack deals with explosives and fire[^ref-56]. Each puzzle awards up to three stars, and stars unlock further puzzles[^ref-46][^ref-10]. Scores could be compared with friends through Game Center[^ref-58]; the App Store listing described the competition as being "for the most stars earned," and Nine Over Ten likewise described online leaderboards based on the total number of stars earned[^ref-60][^ref-61]. The German site ifun.de, reporting on the iPad release on June 10, 2011, likewise gave 60 levels and noted that extra level packs could be bought in-app ("zusätzliche Levelpacks können per In-App-Kauf erworben werden")[^ref-59].
 
-A July 2011 update added an Expert pack of 15 harder levels, bringing the total to 75, and made the complete original game playable within the app; Pocket Gamer called it "the original 1992 version," while TouchArcade called it "the entire 1993 version"[^ref-58][^ref-50]. Pocket Gamer also reported that the app was now universal, and 148Apps noted that "a recent update makes this game universal"[^ref-58][^ref-55].
+A July 2011 update (version 1.1.0) added an Expert pack of 15 harder levels, bringing the total to 75, with the App Store listing naming the packs Newton's Playground, Pipeworks, The Cast and Experts[^ref-60], and made the complete original game playable within the app; Pocket Gamer called it "the original 1992 version," while TouchArcade called it "the entire 1993 version"[^ref-58][^ref-50]. Pocket Gamer also reported that the app was now universal, and 148Apps noted that "a recent update makes this game universal"[^ref-58][^ref-55].
 
 ### Puzzles and Mechanics
 
-The game features more than 90 parts, including pipes, ropes, bombs and rockets, see-saws, trampolines, cats and mice[^ref-47]. GamePro described a puzzle in which a ball dropped onto a flashlight switches it on, a placed magnifying glass focuses the beam to light a fuse, and the fuse launches a rocket[^ref-46]. Pocket Gamer noted that the physics are fully deterministic: "Should you not move a piece between runs, there's no chance that the proceeding chain of events will play out differently from before."[^ref-10]
+The game features more than 90 parts, including pipes, ropes, bombs and rockets, see-saws, trampolines, cats and mice[^ref-47]; ifun.de gave the count as "über 90 Gegenstände" (more than 90 items)[^ref-59]. GamePro described a puzzle in which a ball dropped onto a flashlight switches it on, a placed magnifying glass focuses the beam to light a fuse, and the fuse launches a rocket[^ref-46]. Pocket Gamer noted that the physics are fully deterministic: "Should you not move a piece between runs, there's no chance that the proceeding chain of events will play out differently from before."[^ref-10]
 
 Unlike earlier entries in the series, there was no sandbox or free-build mode[^ref-47][^ref-54]. Disney's senior marketing manager Jeff Nuzzi told GamePro that a level editor was "on the horizon"[^ref-46].
 
@@ -70,12 +70,13 @@ The game holds a Metascore of 71 on Metacritic, based on five critic reviews[^re
 | TouchGen | 70[^ref-42] | June 12, 2011[^ref-56] |
 | 148Apps | 70[^ref-42] | July 11, 2011 |
 | Pocket Gamer | 60[^ref-42] | June 16, 2011 |
+| Nine Over Ten | 4.5 out of 5[^ref-61] | July 15, 2011 |
 
 Gamezebo's Dan Zuccarelli preferred it to Casey's Contraptions, writing that "the spirit and fun of that earlier release is well intact" and "The pedigree is there"[^ref-53]. TUAW's Mike Schramm called it "a pretty solid title," though he thought Casey's Contraptions the more full-featured game[^ref-49].
 
 Slide to Play's Jason D'Aprile praised "some excellent and challenging puzzles" and solid physics, but criticized uneven level design, minimal Game Center integration, and add-on packs that made the game "too expensive," summing it up as "A classic returns in mostly good form, but a few nagging issues keep it from reclaiming its once great status."[^ref-54] TouchGen's Matt Dunn finished the initial 60 levels in under 90 minutes and called it "a great game for kids," but said experienced players would find little challenge or replay value[^ref-56].
 
-Lisa Caplan of 148Apps found that it missed the mark, "neither quite recapturing the now retro look of the original, nor bringing anything new to the table," and ranked it "a distant second" to Casey's Contraptions[^ref-55]. Pocket Gamer's Will Wilson criticized the three-star system and the lack of a way to skip difficult levels, concluding that the game "won't impress in the same fashion as when it was first released, but it still offers a decent collection of surreal physics puzzles"[^ref-10].
+Lisa Caplan of 148Apps found that it missed the mark, "neither quite recapturing the now retro look of the original, nor bringing anything new to the table," and ranked it "a distant second" to Casey's Contraptions[^ref-55]. Pocket Gamer's Will Wilson criticized the three-star system and the lack of a way to skip difficult levels, concluding that the game "won't impress in the same fashion as when it was first released, but it still offers a decent collection of surreal physics puzzles"[^ref-10]. Nine Over Ten's iPhone review, outside the Metacritic tally, awarded 4.5 out of 5 and noted that "Disney tapped the original developers to come up with the iPhone version of the game"[^ref-61].
 
 ### Modern Assessment
 
@@ -89,7 +90,7 @@ The original [[1992 - The Incredible Machine]] was developed by Dynamix and Jeff
 
 ### Production
 
-GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and Disney said the creative team behind the early-1990s games had returned[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49].
+GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and Disney said the creative team behind the early-1990s games had returned[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49]. The publisher's App Store listing carried the marketing line "WINNER***BEST iPHONE/iPAD GAME OF E3***IGN"; this is Disney's own promotional wording, and the IGN source found lists only nominations[^ref-60][^ref-51].
 
 ### Version History
 
@@ -146,3 +147,6 @@ The game is not available for purchase or download; it has been removed from the
 [^ref-56]: [TouchGen – The Incredible Machine Review (archived)](https://web.archive.org/web/20130605153517/http://www.touchgen.net/the-incredible-machine-review) – Matt Dunn, June 12, 2011; objectives, Mel, snap system, themed packs, difficulty
 [^ref-57]: [Pocket Gamer – Original physics hit The Incredible Machine reconstructed on iPad](https://www.pocketgamer.com/the-incredible-machine/original-physics-hit-the-incredible-machine-reconstructed-on-ipad/) – Will Wilson, June 8, 2011; release by original developers, $2.99
 [^ref-58]: [Pocket Gamer – The Incredible Machine updated with original 1992 outing, new levels](https://www.pocketgamer.com/the-incredible-machine/physics-based-ipad-puzzler-the-incredible-machine-updated-with-original-1992-out/) – Anthony Usher, July 4, 2011; Playdom developer, Expert pack of 15 levels, 75 levels, Game Center, universal app
+[^ref-59]: [ifun.de – Disney bringt den Klassiker The Incredible Machine aufs iPad](https://www.ifun.de/disney-bringt-den-klassiker-the-incredible-machine-aufs-ipad-13099/) – German news, June 10, 2011; 60 levels, 90+ items, 2.39 euros, in-app level packs
+[^ref-60]: [Apple App Store listing – The Incredible Machine, Disney (archived March 2012)](https://web.archive.org/web/2012/http://itunes.apple.com/us/app/the-incredible-machine/id440297659?mt=8) – publisher description: 75 levels, pack names, 90+ items, Game Center stars, v1.1.0 notes, Expert pack; IGN line is marketing
+[^ref-61]: [Nine Over Ten – The Incredible Machine review](https://www.nineoverten.com/?p=8135) – July 15, 2011; iPhone version, 60 levels, $2.99, Game Center star leaderboards, 4.5 out of 5
