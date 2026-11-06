@@ -3,14 +3,14 @@ title: Adiboo & Paziral's Secret
 release_year: 2003
 developer: Coktel Vision, Neko Entertainment
 designer: [Pascal Luban, Olivier Rochas]
-publisher: Vivendi Universal Games
+publisher: Vivendi Universal Games International
 genre: Action Platformer
 platforms: [PlayStation, Windows]
 series: Adibou
 engine: RenderWare (Windows)
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-11-06'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC, developed by Coktel Vision and Neko
   Entertainment.
@@ -18,18 +18,18 @@ tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Adiboo & Paziral's Secret is a 3D action-adventure platform game released in 2003 for PlayStation and 2004 for Windows PC[^ref-1][^ref-2]. Developed jointly by [[Coktel Vision]] and Neko Entertainment, the game took the Adibou franchise, until then known for educational software, in what Jeuxvideo.com called an unexpected new direction focused on action and platforming[^ref-19][^ref-20], offering a family-friendly action experience combining platforming, racing, and arcade gameplay across twelve distinct levels[^ref-1][^ref-3]. The game was published by Vivendi Universal Games International across multiple European territories[^ref-2].
+Adiboo & Paziral's Secret is a 3D action-adventure platform game released in 2003 for PlayStation and 2004 for Windows PC[^ref-1][^ref-2]. Developed jointly by [[Coktel Vision]] and Neko Entertainment, the game took the Adibou franchise, until then known for educational software, in what Jeuxvideo.com called an unexpected new direction focused on action and platforming[^ref-19][^ref-20], offering a family-friendly action experience combining platforming, racing, and arcade gameplay across twelve distinct levels[^ref-1][^ref-3]. The game was published by Vivendi Universal Games International across multiple European territories[^ref-2][^ref-23]. Some sources shorten the publisher to Vivendi Universal Games.
 
-Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-1][^ref-4]. PSX Data Center's description likens it to Naughty Dog's Crash Bandicoot series, with both 2D side-scrolling sections and 3D adventure gameplay, and calls it "Great for the kids"[^ref-5]. The PlayStation version was released in France, Germany, Italy and the United Kingdom, with Spanish among its five supported languages[^ref-2][^ref-5].
+Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-1][^ref-4]. PSX Data Center's description likens it to Naughty Dog's Crash Bandicoot series, with both 2D side-scrolling sections and 3D adventure gameplay, and calls it "Great for the kids"[^ref-5]. The PlayStation version was released in France, Germany, Italy and the United Kingdom, with Spanish among its five supported languages[^ref-2][^ref-5][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Neko Entertainment[^ref-2]
 > **Designer:** Pascal Luban, Olivier Rochas[^ref-7]
-> **Publisher:** Vivendi Universal Games International[^ref-2]
+> **Publisher:** Vivendi Universal Games International[^ref-2][^ref-23]
 > **Engine:** RenderWare (Windows)[^ref-8]
 > **Platforms:** PlayStation, Windows[^ref-1][^ref-14][^ref-15][^ref-16][^ref-17]
 > **Release Year:** 2003 (PlayStation), 2004 (Windows)
@@ -115,12 +115,15 @@ The game's music and sound design involved multiple studios. Music is credited t
 
 ### Voice Production
 
-The PlayStation credits list two actors[^ref-7]:
+The PlayStation credits on MobyGames list two actors, Pierre-Alain De Guarrigues (as spelled there) and Dolly Vanden, without naming their roles[^ref-7]. The French Wikipedia's list of French voices for the Adibou series assigns the following (French-language voices only)[^ref-22]:
 
-| Character | Voice Actor |
+| Character | French voice actor |
 |-----------|-------------|
-| Unknown Role | Pierre-Alain De Guarrigues[^ref-7] |
-| Unknown Role | Dolly Vanden[^ref-7] |
+| Bizbi | Pierre-Alain de Garrigues[^ref-22] |
+| Paziral (additional voices) | Pierre-Alain de Garrigues[^ref-22] |
+| Tiltili (additional voices) | Pierre-Alain de Garrigues[^ref-22] |
+
+The same list says Dolly Vanden voiced Adibou in the French versions from 1996 to 2005; it does not name this game specifically[^ref-22].
 
 ### Technical Achievements
 
@@ -237,4 +240,7 @@ Jeuxvideo.com framed the game as an unexpected turn for Coktel Vision's edutainm
 [^ref-17]: [GameFAQs – Adiboo & Paziral's Secret (PlayStation)](https://gamefaqs.gamespot.com/ps/919091-adiboo-and-pazirals-secret) – PlayStation release information
 [^ref-19]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Adibou as a long-running educational series; game list includes Adiboo & Paziral's Secret (2003)
 [^ref-20]: [Jeuxvideo.com – Test du jeu Adibou et le Secret de Paziral sur PS1 (Wayback, 23 January 2025)](http://web.archive.org/web/20250123075543/https://www.jeuxvideo.com/articles/0001/00018401-adibou-et-le-secret-de-paziral-test.htm) – PS1 review published 22 February 2013, 13/20; "décide de prendre un nouveau tournant plutôt inattendu… plus axé action / plates-formes"
+[^ref-22]: [Wikipédia (fr) – Adi (série de jeux vidéo), "Voix françaises"](https://fr.wikipedia.org/wiki/Adi_(s%C3%A9rie_de_jeux_vid%C3%A9o)) – Pierre-Alain de Garrigues as Bizbi in Adibou et le Secret de Paziral and, in additional voices, Paziral and Tiltili; Dolly Vanden as Adibou, 1996 to 2005
+[^ref-23]: [Wikipedia – Adibou (game table)](https://en.wikipedia.org/wiki/Adibou) – table entry only: 2003, PlayStation and Windows, Neko Entertainment, Vivendi Universal Games Int.
+[^ref-24]: [HFS-DB – Adiboo et le Secret de Paziral](https://db.hfsplay.fr/games/183492-adiboo-pazirals-secret?lang=fr) – PlayStation preservation database entry: Europe release, languages En, Fr, De, Es, It; Vivendi as publisher
 [^ref-21]: Feibel.de Kindersoftware-Ratgeber – "Alle Spiele - Adiboo & das Geheimis von Paziral" (feibel.3q.de, prodId 3206; Wayback snapshot 3 September 2019; link omitted) – German Windows version, ages 5+, "Veröffentlicht 01/03"; "Fazit: Es gibt bessere Jump-and-Run-Spiele"
