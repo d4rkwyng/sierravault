@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: Hoyle Official Book of Games Volume 4 is another name for Hoyle Classic
   Card Games (1993), Sierra On-Line's VGA remake of Hoyle Volume 1 with eight card
   games, digitized speech and Sierra characters as opponents.
@@ -18,14 +18,14 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 > [!note] Duplicate entry
 > "Hoyle Official Book of Games Volume 4" is the same game as **[[1993 - Hoyle Classic Card Games]]**, which is the main entry for it. There was no separate 1991 release: the fourth Hoyle volume came out in 1993 as Hoyle Classic Card Games[^ref-1][^ref-4]. This page has been corrected to describe that 1993 game.
 
 ## Overview
 
-Hoyle Classic Card Games, also called Hoyle Volume 4 or Hoyle 4, is the fourth installment of Sierra On-Line's Hoyle series. It was released in 1993 for DOS, Windows 3.x and Macintosh[^ref-1][^ref-4][^ref-9]. It is not a new volume of games but a remake of the first one. Sierra's own InterAction magazine announced in spring 1993 that "Hoyle Book of Games, Volume 1 has been totally re-invented, emerging as Hoyle Classic Card Games"[^ref-27]. The remake added VGA graphics, digitized speech and an original soundtrack[^ref-10][^ref-15].
+Hoyle Classic Card Games, also called Hoyle Volume 4 or Hoyle 4, is the fourth installment of Sierra On-Line's Hoyle series. It was released in 1993 for DOS, Windows 3.x and Macintosh[^ref-1][^ref-4][^ref-9]. It is not a new volume of games but a remake of the first one. Sierra's own InterAction magazine announced in spring 1993 that "Hoyle Book of Games, Volume 1 has been totally re-invented, emerging as Hoyle Classic Card Games"[^ref-27]. The remake added VGA graphics, digitized speech and an original soundtrack[^ref-10][^ref-15]. InterAction, Sierra's own magazine, previewed it in Fall 1992 as a VGA package due in "early 1993"[^ref-31].
 
 The collection has eight card games: Bridge, Euchre, Old Maid, Gin Rummy, Hearts, Cribbage, Crazy Eights and Klondike[^ref-4]. Bridge and Euchre were new. The other six came from Volume 1[^ref-10][^ref-27]. MobyGames notes that it is "apparently the last volume in the series to feature animated characters from other Sierra titles"[^ref-4].
 
@@ -55,7 +55,7 @@ The game offers ten playing tables and nine card decks, including the traditiona
 
 Each game has its own rule options and variations[^ref-29][^ref-14]:
 
-**Bridge**: Four players. The dummy can be set to Never Dummy, Can Be Dummy or Double Dummy[^ref-14].
+**Bridge**: Four players. The dummy can be set to Never Dummy, Can Be Dummy or Double Dummy[^ref-14]. A Winter 1992 InterAction (Sierra's own magazine) caption said the computer players "say their bids aloud and a helpful matrix displays the remaining legal bids as the auction progresses"[^ref-32].
 
 **Euchre**: Four players, using the cards from nine to ace. Games can be played to 5, 7 or 10 points[^ref-14][^ref-29]. InterAction called it "a popular mid-western card game"[^ref-27].
 
@@ -73,7 +73,7 @@ Each game has its own rule options and variations[^ref-29][^ref-14]:
 
 ### Character System
 
-The box promised "18 animated opponents with their own personalities and skill levels"[^ref-6]. Electronic Games described "Eighteen distinct player personalities ... divided into two groupings"[^ref-29]. Each character has a different skill level at each game[^ref-27].
+The box promised "18 animated opponents with their own personalities and skill levels"[^ref-6]. Sierra's own InterAction magazine previewed the game in Fall 1992 as including "eighteen computer opponents. Nine are characters from Sierra games and nine are new"[^ref-31]. Electronic Games described "Eighteen distinct player personalities ... divided into two groupings"[^ref-29]. Each character has a different skill level at each game[^ref-27].
 
 The Sierra Characters come from other Sierra games[^ref-14][^ref-27]:
 
@@ -115,13 +115,15 @@ MobyGames credits 60 people on the DOS version[^ref-4]. Key credits include[^ref
 - **Art, Animation & Lip Sync:** Donald Waller
 - **Music Arrangement & Programming:** Dan Kehler
 
+A Spring 1994 InterAction (Sierra's own magazine) also credits Robert Holmes with directing Hoyle's Classic Card Games, alongside his direction of Gabriel Knight[^ref-33].
+
 Members of the team dressed up and went before a video camera to play the Classic Characters[^ref-27]. InterAction names several of them: Don Waller plays Billy Joe, Holmes' daughter Raleigh plays Scout, and Schwader plays Crazy Jack. Gloria Garland plays Trudy, Richard Aronson plays Dinky, Veronica Oldfield plays Josephine and Robert Lindsley plays Winthorp[^ref-27]. Chip is played by Andrew, the son of Sierra programmer Cindy Swafford[^ref-27].
 
 ### Audio Production
 
 Robert Holmes composed the soundtrack. InterAction reported that "Each game features its own theme, based on the musical styles of the period in which the card game is set," and that the music can be set to change at random during play[^ref-27]. The magazine also said that "A full two disks in the game are reserved for digitized speech"[^ref-27]. Electronic Games noted "a significant effort to synchronize the lip movements of the animated characters with the sound files"[^ref-29].
 
-Although the game shipped on floppy disks, it includes speech. ScummVM notes for both its DOS/Windows and Macintosh entries: "Although this is a floppy game, it does have speech"[^ref-30]. All of the speech is stored in one file, RESOURCE.AUD[^ref-19]. In a 2007 VOGONS thread, a player using an abandonware copy found that the Classic Characters did not speak. A reply suggested the copy was a rip with the speech removed, and the same poster recalled that his wife's original copy "actually performed better on her 486 at the time if speech was disabled"[^ref-19].
+Speech came late in development: in its Winter 1992 issue, InterAction (Sierra's own magazine) reported that "the design team is now adding speech for the eighteen computer opponents"[^ref-32]. Although the game shipped on floppy disks, it includes speech. ScummVM notes for both its DOS/Windows and Macintosh entries: "Although this is a floppy game, it does have speech"[^ref-30]. All of the speech is stored in one file, RESOURCE.AUD[^ref-19]. In a 2007 VOGONS thread, a player using an abandonware copy found that the Classic Characters did not speak. A reply suggested the copy was a rip with the speech removed, and the same poster recalled that his wife's original copy "actually performed better on her 486 at the time if speech was disabled"[^ref-19].
 
 ### Technical Specifications
 
@@ -170,7 +172,7 @@ On abandonware sites, users rate the game 4.03/5 on Abandonware DOS (32 votes)[^
 
 ### Influence on the Series
 
-Brain Baking writes that "Hoyle 4 would be the last one featuring the Sierra characters," and that later versions "culled them in favour of more general but equally goofy ones"[^ref-3]. The next major release, Hoyle Classic Games (Hoyle 5), came out in 1995 and was the series' first CD-ROM edition[^ref-10].
+Brain Baking writes that "Hoyle 4 would be the last one featuring the Sierra characters," and that later versions "culled them in favour of more general but equally goofy ones"[^ref-3]. The next major release, Hoyle Classic Games (Hoyle 5), came out in 1995 and was the series' first CD-ROM edition[^ref-10]. Sierra's own InterAction magazine listed it as "Hoyle Classic Games" for Fall '95, for Windows 3.1 and Windows 95 on CD, with a Mac version to follow[^ref-34].
 
 ### Preservation Status
 
@@ -190,7 +192,6 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 - [[1993 - Hoyle Classic Card Games]] - the same game (Hoyle 4, 1993); series navigation continues from that page (see the [[Hoyle Series]] duplicate list)
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1996 - Hoyle Bridge]]
-
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1992 - Hoyle Bridge]]
@@ -226,12 +227,12 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -264,3 +265,7 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 [^ref-28]: [Computer Gaming World Issue 109 (August 1993)](https://archive.org/details/Computer_Gaming_World_Issue_109) - Short write-up: "Sierra has dealt out another winning hand"
 [^ref-29]: [Electronic Games, Issue 11 (August 1993)](https://archive.org/details/ElectronicGamesLC2) - Review by Ed Dille (88%, designers Holmes and Schwader, 18 opponents) and Bridge program roundup by Brent Manley
 [^ref-30]: [ScummVM - SCI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) - "hoyle4" DOS/Win and Macintosh floppy entries with speech, VERSION 2.000/2.0, DOS demos
+[^ref-31]: [InterAction Issue 15 (Fall 1992)](https://archive.org/details/inter-action-issue-15-fall-1992) - Sierra's own magazine, new-product preview: VGA card package, eighteen computer opponents (nine Sierra characters, nine new), "early 1993"
+[^ref-32]: [InterAction Issue 16 (Winter 1992)](https://archive.org/details/inter-action-issue-16-winter-1992) - Sierra's own magazine, screenshot caption: computer players say their bids aloud; matrix of remaining legal bids
+[^ref-33]: [InterAction Issue 20 (Spring 1994)](https://archive.org/details/inter-action-issue-20-spring-1994) - Sierra's own magazine, Gabriel Knight 2 preview: Robert Holmes "directed not only the original Gabriel Knight" but also Hoyle's Classic Card Games
+[^ref-34]: [InterAction Issue 24 (Fall 1995)](https://archive.org/details/inter-action-issue-24-fall-1995) - Sierra's own magazine, Hoyle Classic Games product page: "Availability: Fall '95", Win 3.1 and Win 95 on CD, Mac version to follow
