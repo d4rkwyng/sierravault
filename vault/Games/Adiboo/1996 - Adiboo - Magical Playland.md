@@ -10,7 +10,7 @@ series: Adiboo
 engine: Coktel Vision engine (supported by ScummVM's Gob engine); VMD video
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 description: 'Adiboo: Magical Playland (Adibou 2 in France) is a 1996 edutainment game
   for children aged 4-7, developed by Sierra subsidiary Coktel Vision for Windows and
   Macintosh and published in the US by Sierra On-Line and Knowledge Adventure.'
@@ -18,7 +18,7 @@ tags: [1990s, adiboo, educational, sierra]
 ---
 # Adiboo: Magical Playland
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -86,10 +86,10 @@ Contemporary review data for the base game is limited. The 1996 "Lecture et Calc
 
 ### Modern Assessment
 
-Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 186 ratings with 421 recorded plays[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.32 out of 5 based on 69 votes[^ref-5].
+Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 188 ratings with 424 recorded plays (checked 5 November 2026)[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.32 out of 5 based on 69 votes[^ref-5].
 
 **Aggregate Scores:**
-- **Backloggd:** 3.4/5 (186 ratings)[^ref-6]
+- **Backloggd:** 3.4/5 (188 ratings; checked 5 November 2026)[^ref-6]
 - **Glitchwave:** 3.27/5 (9 ratings)[^ref-1]
 - **IGN User Reviews:** 6.7/10 (3 ratings)[^ref-11]
 - **MyAbandonware:** 4.32/5 (69 votes)[^ref-5]
@@ -100,7 +100,7 @@ User testimonials highlight strong nostalgic attachment: "Pure soul. Might be th
 
 ### Origins
 
-Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-4][^ref-18]. The game is the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4], and the successor to Adibou (1992, MS-DOS), with a new look for Adibou, improved graphics, a Windows port and new activities[^ref-13]. The series was created by Roland Oskian, Coktel Vision's founder[^ref-17][^ref-18]. The name Adibou derives from the French acronym ADI, "Accompagnement Didacticiel Intelligent"[^ref-17].
+Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-4][^ref-18]. The game is the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4], and the successor to Adibou (1992, MS-DOS), with a new look for Adibou, improved graphics, a Windows port and new activities[^ref-13]. ScummVM's 2022 announcement calls it "a popular educational game developed by Coktel Vision in 1996" for children aged 4 to 7[^ref-20]. The series was created by Roland Oskian, Coktel Vision's founder[^ref-17][^ref-18]. The name Adibou derives from the French acronym ADI, "Accompagnement Didacticiel Intelligent"[^ref-17].
 
 ### Production
 
@@ -144,7 +144,7 @@ No specific cut content has been documented in available research materials.
 
 ### Technical Issues
 
-Modern compatibility presents challenges for players attempting to run Adiboo: Magical Playland on contemporary systems. Virtual machines running older Windows generally work: the Internet Archive uploader reports "great results running it on Windows 98 SE using VirtualBox"[^ref-14], and a MyAbandonware commenter says it "works like a charm in Windows 98 on Virtualbox"[^ref-5]. Adibou games are also supported by ScummVM's "Gob" engine[^ref-17], and MyAbandonware users report running this game in ScummVM[^ref-5].
+Modern compatibility presents challenges for players attempting to run Adiboo: Magical Playland on contemporary systems. Virtual machines running older Windows generally work: the Internet Archive uploader reports "great results running it on Windows 98 SE using VirtualBox"[^ref-14], and a MyAbandonware commenter says it "works like a charm in Windows 98 on Virtualbox"[^ref-5]. Adibou games are also supported by ScummVM's "Gob" engine[^ref-17]. ScummVM announced support for Adibou 2 in December 2022, noting that you must copy the "Environment" CD into the game directory[^ref-20], and its compatibility chart rates the game "Good" (as of 5 November 2026)[^ref-22]. MyAbandonware users report running this game in ScummVM[^ref-5].
 
 **Known Issues:**
 - The Spanish "Adibú 2" upload is reported not to work in VirtualBox or Wine because the CPU fails, so it needs an emulated environment such as QEMU[^ref-5]
@@ -192,7 +192,7 @@ No significant fan projects have been documented. The game's preservation primar
 ### Related Publications
 
 - **Readme Documentation:** Included with the game, introducing Adiboo as "our wise and acclaimed extraterrestrial" and describing the "I can read and I can count" lessons for ages 4-5 and 6-7[^ref-5]
-- **Add-on Discs:** Five additional discs between 1996 and 1999: Lecture et Calcul (4-5 and 6-7, 1996), Nature et Sciences (1998), Anglais (1999) and Musique (1999)[^ref-13]
+- **Add-on Discs:** Five additional discs between 1996 and 1999: Lecture et Calcul (4-5 and 6-7, 1996), Nature et Sciences (1998), Anglais (1999) and Musique (1999)[^ref-13]. ScummVM first supported only the Read/Count 4-5 and 6-7 applications (December 2022)[^ref-20], then added Nature & Sciences, which it describes as "a 1998 expansion" covering history, geography, science and technology, the countryside and everyday life (July 2025)[^ref-21]
 
 ### Critical Perspective
 
@@ -202,7 +202,7 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 
 ## Purchase
 
-- Not currently sold on GOG or Steam
+- Not currently sold on GOG or Steam; GOG has only a Dreamlist wish entry for the game[^ref-23]
 
 ## Downloads
 
@@ -241,3 +241,7 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 [^ref-17]: [Wikipedia – Adibou](https://en.wikipedia.org/wiki/Adibou) – series overview, creator Roland Oskian, ScummVM Gob engine support, 2009 dormancy, 2022 Wiloki/Ubisoft revival
 [^ref-18]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Sierra acquisition (29 October 1993), Adibou sales and market share, 2005 sale to Mindscape
 [^ref-19]: [MultimediaWiki – VMD](https://wiki.multimedia.cx/index.php?title=VMD) – "Video and Music Data" format, use in Coktel's ADI/Addy series
+[^ref-20]: [ScummVM – Welcome to Adibou's magical wonderland](https://www.scummvm.org/news/20221210/) – 10 December 2022 news post: Adibou 2 support added, Environment CD requirement, Read/Count discs supported first
+[^ref-21]: [ScummVM – Off to Adibou's Land of Sciences!](https://scummvm.org/news/20250702) – 2 July 2025 news post: Nature & Sciences, a 1998 expansion, now supported; 3D car minigame not supported
+[^ref-22]: [ScummVM – Compatibility chart](https://www.scummvm.org/compatibility/) – Adibou 2 (gob:adibou2) rated Good, checked 5 November 2026
+[^ref-23]: [GOG Dreamlist – Adiboo: Magical Playland (1996)](https://www.gog.com/dreamlist/game/adiboo-magical-playland-1996) – Dreamlist entry: Coktel Vision, Knowledge Adventure, PC (Windows), point-and-click, educational
