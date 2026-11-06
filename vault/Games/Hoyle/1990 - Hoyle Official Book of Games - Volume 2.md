@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games Volume 2: Solitaire is a collection of 28
   solitaire card games designed by Warren Schwader and published by Sierra On-Line
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -50,13 +50,13 @@ The absence of Sierra characters as opponents, a notable feature of Volume 1, me
 
 ### Interface and Controls
 
-The player picks a game and a difficulty level with the mouse or the arrow keys, and plays with the keyboard, a joystick or the mouse. *Video Games & Computer Entertainment* judged the mouse's "point-and-click methodology" the most natural fit.[^ref-18] Each of the 28 games has two difficulty levels.[^ref-17] After a round, the player can quit, replay the same game, or pick a new one.[^ref-18]
+The player picks a game and a difficulty level with the mouse or the arrow keys, and plays with the keyboard, a joystick or the mouse. *Video Games & Computer Entertainment* judged the mouse's "point-and-click methodology" the most natural fit.[^ref-18] Each of the 28 games has two difficulty levels (Easy and Hard).[^ref-17][^ref-24] The games can be played with mouse, keyboard or joystick.[^ref-23] After a round, the player can quit, replay the same game, or pick a new one.[^ref-18]
 
 The rules for every game appear in the printed manual and on screen, through a pull-down menu that breaks each rule set into short sections.[^ref-16][^ref-18] The rules were written by Bridget McKenna.[^ref-18] A pull-down menu can also mute the sound and music.[^ref-18]
 
 ### Structure and Progression
 
-The game offers 28 solitaire games.[^ref-1][^ref-2] The included games are:[^ref-1]
+The game offers 28 solitaire games.[^ref-1][^ref-2] The included games are:[^ref-1] Slide and Bowling were two entirely new solitaire games that Schwader created for this volume.[^ref-23][^ref-24]
 
 - Calculation
 - Strategy
@@ -100,8 +100,10 @@ All games are played alone against the shuffled deck, with no computer opponents
 Contemporary reviews were mixed:
 
 - **Computer Gaming World** (No. 75, October 1990) gave it a short preview in its "Taking a Peek" column. It found it lacked "the graphics or competitive play of volume 1, but it's still a fairly solid product", and listed the IBM version at $34.95.[^ref-16]
-- **Power Play** (October 1990, German) reviewed the MS-DOS/EGA version and scored it 30%.[^ref-17][^ref-22] The reviewer liked the first Hoyle's witty computer opponents but said the sequel stood out for "markerschütternde Langeweile" ("bone-chilling boredom"). The review saw little advantage over real cards and expected more from a program costing over 100 marks.[^ref-17]
+- **Power Play** (October 1990, German) reviewed the MS-DOS/EGA version and scored it 30%; the score is printed in the review's rating box (MS-DOS 30%, graphics 34%, sound 40%).[^ref-17] The reviewer liked the first Hoyle's witty computer opponents but said the sequel stood out for "markerschütternde Langeweile" ("bone-chilling boredom"). The review saw little advantage over real cards and expected more from a program costing over 100 marks.[^ref-17]
 - **Video Games & Computer Entertainment** (January 1991) was the most positive. Its reviewer, credited as "A. K.", praised the easy-to-read card images and brisk animation, and its "extreme user-friendliness and hassle-free operation". The review concluded it was "an excellent card anthology for one-player fun. Its quality is worthy of its famous name." MobyGames records the score as 9/10.[^ref-18][^ref-22]
+- **Compute!** (No. 124, December 1990) reviewed the Amiga version ($34.95, 1 MB), saying that "with 28 game variations to choose from, Hoyle will hold your attention for hours at a time" and that "the Amiga makes a great solitaire partner." It found the game "challenging, even on the easy level" and described the sounds as "excellent". No score was given.[^ref-25]
+- **Raze** (Issue 1, November 1990) covered 28 solitaire versions on two 5.25-inch disks or one 3.5-inch disk, with a 72-page manual and an IBM PC price of £29.99. It called the graphics "unspectacular" next to Volume 1, but concluded that Volume 2 "is good value for your money as it will provide long term enjoyment."[^ref-27]
 
 MobyGames also lists Raze (78%), Génération 4 (68%) and PC-Spiele '92 (60%) among its critic scores.[^ref-22] It also lists a 69% from *The Games Machine* (Atari ST, September 1990). That review's quoted excerpt, though, describes opponents chatting in speech bubbles, which matches Volume 1 rather than this solitaire-only volume.[^ref-22][^ref-2]
 
@@ -115,7 +117,7 @@ MobyGames also lists Raze (78%), Génération 4 (68%) and PC-Spiele '92 (60%) am
 
 ### Origins
 
-Volume 2 followed Sierra's first Hoyle volume from 1989.[^ref-2][^ref-15] Warren Schwader, one of Sierra's earliest programmers and author of *Hi-Res Cribbage*, designed both volumes.[^ref-15] Focusing on solitaire dropped the first volume's computer opponents.[^ref-2]
+Volume 2 followed Sierra's first Hoyle volume from 1989.[^ref-2][^ref-15] Warren Schwader, one of Sierra's earliest programmers and author of *Hi-Res Cribbage*, designed both volumes.[^ref-15] Schwader recalled that Ken Williams phoned him in 1980, when he was living in Wisconsin, to ask whether he would move to California.[^ref-26] According to *Sierra News*, Williams had told Schwader that the Klondike Solitaire game was his favorite part of the first volume, which led Schwader to think about a program holding several types of solitaire. Schwader said he had played another company's solitaire with six games and knew his program would have more.[^ref-23] Focusing on solitaire dropped the first volume's computer opponents.[^ref-2]
 
 ### Production
 
@@ -168,13 +170,13 @@ ScummVM has supported the game since version 1.2.0.[^ref-20]
 
 - All 28 games are solitaire variants, unlike Volume 1, which featured multiplayer card games.[^ref-2]
 - There was no option to choose opponents, and no Sierra characters appear as co-players.[^ref-2]
-- *Power Play* reported that the box carried the slogan "Läuft toll auf Laptops! Die perfekte Art, sich während Flugreisen die Zeit zu vertreiben" (roughly: runs great on laptops, the perfect way to pass time on flights).[^ref-17]
+- *Sierra News* said both Volume 1 and Volume 2 would soon be sold in special laptop versions in airport and train-station gift shops, and *Raze* likewise suggested the game suited a laptop on a long flight or train journey.[^ref-23][^ref-27] *Power Play* reported that the box carried the slogan "Läuft toll auf Laptops! Die perfekte Art, sich während Flugreisen die Zeit zu vertreiben" (roughly: runs great on laptops, the perfect way to pass time on flights).[^ref-17]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No sales figures for Volume 2 have been found. The first volume sold over 250,000 copies by 1990.[^ref-2] The series ran from 1989 to 2016. [[Encore Software]] published it from 2005 to 2016.[^ref-2][^ref-8]
+No sales figures for Volume 2 have been found. The first volume sold over 250,000 copies by 1990.[^ref-2][^ref-23] The series ran from 1989 to 2016. [[Encore Software]] published it from 2005 to 2016.[^ref-2][^ref-8]
 
 ### Collections
 
@@ -264,9 +266,14 @@ The game is playable through ScummVM.[^ref-20] ClassicReload hosts the DOS versi
 [^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series list with title and year
 [^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – Volume 2 designed by Warren Schwader, 1990, 28 solitaire varieties; Schwader's Hi-Res Cribbage
 [^ref-16]: [Computer Gaming World No. 75 (October 1990), "Taking a Peek"](https://archive.org/download/Computer_Gaming_World_Issue_75/Computer_Gaming_World_Issue_75_djvu.txt) – "Twenty-eight (count 'em) solitaire card games… still a fairly solid product"; rules on-screen; IBM $34.95
-[^ref-17]: [Power Play (October 1990), "Es ist zum Hoylen"](https://archive.org/details/powerplay_1990-10) – German review: 28 variants, two difficulty levels each, no high-score list, 512 KB, EGA palette, two disks
+[^ref-17]: [Power Play (October 1990), "Es ist zum Hoylen"](https://archive.org/details/powerplay_1990-10) – German review, p. 121 rating box (MS-DOS 30%, Grafik 34%, Sound 40%): 28 variants, two difficulty levels each, no high-score list, 512 KB, EGA palette, two disks
 [^ref-18]: [Video Games & Computer Entertainment (January 1991), pp. 181–182](https://archive.org/details/video-games-and-computer-entertainment-january-1991/page/181/mode/2up) – review by "A. K.": controls, on-screen rules by Bridget McKenna, "an excellent card anthology for one-player fun"
 [^ref-19]: [SCI Wiki – Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) – Hoyle Volume 2: game version 1.000.011, interpreter 0.000.572 (SCI0)
 [^ref-20]: [ScummVM Wiki – Hoyle's Official Book of Games: Volume 2](https://wiki.scummvm.org/index.php?title=Hoyle%27s_Official_Book_of_Games:_Volume_2) – 28 solitaire variations; no Sierra characters as opponents; supported since ScummVM 1.2.0; not available for purchase
 [^ref-21]: [MobyGames – Releases](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/releases/) – Amiga/Atari ST 1990, DOS Dec 1990, Mac 1991; U.S. Gold Kixx XL UK re-release 1994
 [^ref-22]: [MobyGames – Reviews](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/reviews/) – critics 66% (6), players 4.1/5 (18); VG&CE 9/10, Raze 78, TGM 69, Génération 4 68, PC-Spiele '92 60, Power Play 30
+[^ref-23]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990), "Solitary Pursuits"](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Schwader's Hoyle's II: Solitaire with 28 games; Slide and Bowling new; Williams's Klondike remark; "more than 250,000 copies"; mouse, keyboard or joystick; laptop versions
+[^ref-24]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990), "New Games" box](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – "28 old and new solitaire games… Slide and Bowling… Each game features Easy and Hard variations"
+[^ref-25]: [Compute! No. 124 (December 1990), Amiga review](https://archive.org/details/1990-12-compute-magazine) – "With 28 game variations to choose from, Hoyle will hold your attention for hours at a time"; Amiga, 1 MB, $34.95
+[^ref-26]: [Sierra News Magazine, Vol. 2 No. 2 (Autumn 1989)](https://archive.org/details/Sierra_News_Magazine_The_Volume_2_Number_2_Autumn_1989_1989_Sierra_On-Line_US) – Volume 1 launch story; Schwader: "I was living in Wisconsin in 1980, when Ken (Williams) called me up"
+[^ref-27]: [Raze, Issue 1 (November 1990)](https://archive.org/details/Raze_Magazine_Issue_001) – 28 solitaire versions, two 5.25-inch disks or one 3.5-inch, 72-page manual, IBM PC £29.99, "unspectacular" graphics, "good value for your money"
