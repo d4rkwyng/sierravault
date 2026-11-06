@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown/unnamed
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: Early Math is a 1993 educational game for children ages three to six,
   developed by Bright Star Technology and published by Sierra On-Line for Windows
   3.1 and Macintosh, in which an animated alien named Loid guides children through
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ Sierra's own description also lists number symbols, words for numbers, place val
 
 ### Contemporary Reviews
 
-*MacUser*'s December 1994 roundup of children's software listed Early Math at $49.95 for ages 3 to 7 and summed it up as a "friendly, articulate alien" that "helps children with basic math skills in four cleverly animated, albeit simplistic, game activities."[^ref-21] MobyGames records this review as 4 out of 5.[^ref-20]
+*MacUser*'s December 1994 roundup of children's software listed Early Math at $49.95 for ages 3 to 7 and summed it up as a "friendly, articulate alien" that "helps children with basic math skills in four cleverly animated, albeit simplistic, game activities."[^ref-21] MobyGames records this review as 4 out of 5.[^ref-20] The game itself has six activities, as the documentation and the Sierra Chest screenshot gallery show, so the review's "four" undercounts them.[^ref-5][^ref-29]
 
 The *Washington Post*'s December 1993 survey of educational software featured Early Math in its discussion of Bright Star Technology's talking-tutor approach.[^ref-23] No other contemporary reviews have been found.
 
@@ -105,7 +105,7 @@ The game's documentation states that "the areas covered in Early Math are those 
 
 ### Production
 
-MobyGames credits 12 people. Ward Makielski is listed as designer (and also as an artist), and Chris Bomstead as producer.[^ref-1]
+MobyGames credits 12 people. Ward Makielski is listed as designer (and also as an artist), and Chris Bomstead as producer.[^ref-1] The Sierra Chest making-of page lists the same core credits and adds Cathy Malmrose for the User Guide.[^ref-28] A Wikipedia list of Sierra games gives the 1993 entry as Early Math for Windows 3.x, developed by Bright Star Technology and published by Sierra On-Line.[^ref-27]
 
 In a 2010 SierraGamers forum discussion, one participant recalled that "Sierra had around fifteen development groups," with the same process applied to each, and listed Brightstar among them.[^ref-8]
 
@@ -168,6 +168,8 @@ Sierra acquired Bright Star in 1992, "just as the educational software market wa
 
 ### Collections
 
+The Sierra Chest's demo page lists a playable Talking Tutor demo of Early Math (26.6 MB, for Windows 3.x), described there as included in *Sierra's Sneak Peeks 2*.[^ref-30] Its music page lists two recordings, "Early Math Theme" and a saxophone version.[^ref-31]
+
 A 2010 SierraGamers forum overview listed Early Math among Bright Star Technology's titles, alongside *Alphabet Blocks*, *The Lost Mind of Dr. Brain* and *Kid's Typing*. It described Bright Star as "a big contribution in the early 90s with not much after that."[^ref-8] Wikipedia's list of Bright Star's games also includes Early Math.[^ref-22]
 
 ### Preservation
@@ -223,3 +225,8 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 [^ref-24]: [Sierra Chest – Early Math](https://sierrachest.com/index.php?a=games&id=562&title=early-math) – release field 1995-01-01, engine "Unknown/unnamed", Talking Tutor series, list of skills taught
 [^ref-25]: [Sierra Chest – Early Math Publications](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=publications) – Sierra 15th anniversary catalog, Winter 94–95, page 34, shared with Mixed-Up Mother Goose
 [^ref-26]: [Sierra Help Pages – Miscellaneous Games Updates: Early Math CD Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MiscGamesUpdates.html#EarlyMath) – mathcd patch fixing crash after picking an apple
+[^ref-27]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – 1993 row: Early Math, Windows 3.x, Bright Star Technology, Sierra On-Line
+[^ref-28]: [Sierra Chest – Early Math Making of (Wayback copy)](http://web.archive.org/web/20250517082836/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=making) – credits list, including Cathy Malmrose (User Guide); the site's own listing, not period text
+[^ref-29]: [Sierra Chest – Early Math Screenshots (Wayback copy)](http://web.archive.org/web/20250803234339/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=screenshots) – captions for Counting Sheep, Complete the picture, Magic Box, Fish Tank, Tangram Bridge and Pattern Bridge
+[^ref-30]: [Sierra Chest – Early Math Demos (Wayback copy)](http://web.archive.org/web/20241006071923/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=demos) – Talking Tutor demo, 26.6 MB, "INCLUDED IN: Sierra's Sneak Peeks 2"; the site's description, not period text
+[^ref-31]: [Sierra Chest – Early Math Music (Wayback copy)](http://web.archive.org/web/20250813042643/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=music) – "Early Math Theme" and "Early Math Theme - saxophone"
