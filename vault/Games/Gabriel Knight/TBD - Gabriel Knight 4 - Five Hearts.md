@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game pitched
   by series creator Jane Jensen. It shares its name and Salzburg setting with the free
   short story she published in November 2024.'
@@ -18,15 +18,15 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-9][^ref-13] Rather than a completed video game, Five Hearts exists as both a pitch for a potential fourth installment in the supernatural mystery franchise and as a published short story that Jensen has called "basically like the first chapter of a new Gabriel Knight story".[^ref-2][^ref-18] Jensen has talked about a fourth game since at least 2003, when she told GameSpy that "there was never a GK4 in development", but that its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21] According to Wikipedia, in a 2022 interview she instead described a possible fourth game about witches, set in Scotland.[^ref-1]
+Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-9][^ref-13] Rather than a completed video game, Five Hearts exists as both a pitch for a potential fourth installment in the supernatural mystery franchise and as a published short story that Jensen has called "basically like the first chapter of a new Gabriel Knight story".[^ref-2][^ref-18] Jensen has talked about a fourth game since at least 2003, when she told GameSpy that "there was never a GK4 in development", but that its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21] According to Wikipedia, in a 2022 interview she instead described a possible fourth game about witches, set in Scotland (per Wikipedia; the interview video was not transcribed here).[^ref-1] In a 2014 PC Gamer interview, with the Gabriel Knight remake in the works, she said: "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."[^ref-28] In an April 2023 Adventure Game Hotspot interview, before Microsoft's Activision deal had closed, she said: "I have a few different ideas for GK4 that are fleshed out somewhat, yes."[^ref-29]
 
 According to a ResetEra summary of Jensen's December 2025 Matt Chat interview, the pitch was made in cooperation with an indie team from Israel that reached out to Jensen and her husband, composer [[Robert Holmes]].[^ref-4] The Gabriel Knight intellectual property is now owned by Microsoft as part of the Activision Blizzard catalogue.[^ref-20] In a June 2024 interview with Daniel Albu, reported by Time Extension in July 2024, Jensen said she "would like to make it a full game", adding: "Now that the licenses are with Microsoft, I think there's at least a chance of that. Who knows."[^ref-18][^ref-25] By December 2025 she had submitted the idea to Microsoft several times, but the company had so far shown no interest, according to Multiplayer.it's report on the interview.[^ref-4][^ref-20]
 
-**Working title:** "Five Hearts" is both the working title of the game pitch[^ref-4][^ref-20] and the title of an illustrated short story Jensen published in November 2024 on her husband Robert Holmes's website. It was first announced as a reward for backers of his "Son of Sequel" Kickstarter and is now a free download.[^ref-2][^ref-18][^ref-19]
+**Working title:** "Five Hearts" is both the working title of the game pitch[^ref-4][^ref-20] and the title of an illustrated short story Jensen published in November 2024 on her husband Robert Holmes's website. It was first announced on April 18, 2023 as a reward for backers of his "Son of Sequel" Kickstarter.[^ref-26] According to Time Extension (July 2, 2024), Jensen planned to release the opening chapter "soon to backers" first.[^ref-18] Adventure Game Hotspot reported the public release on November 19, 2024, and it is now a free download.[^ref-2][^ref-19]
 
 The proposed game would continue the series' blend of supernatural horror and detective fiction. It takes Gabriel to Salzburg, Austria, to investigate serial killings whose victims' hearts are removed; a metaphorical layer of the plot deals with Gabriel's own heart.[^ref-4][^ref-20]
 
@@ -43,9 +43,9 @@ The proposed game would continue the series' blend of supernatural horror and de
 
 ## Story Summary
 
-Adventure Game Hotspot describes the short story as "the first chapter of a brand new Gabriel Knight short story". It finds Gabriel "idly overdrinking and making no real progress on writing his book" at Schloss Ritter,[^ref-2] his ancestral home in Germany.[^ref-1] Grace Nakimura, Gabriel's research assistant, has disappeared without a trace. The only clue she left is an uncharacteristic letter to her parents, signed off with five hearts.[^ref-2]
+The short story itself opens with a woman who is "cursed" arriving at the door of Schloss Ritter.[^ref-27] Adventure Game Hotspot describes it as "the first chapter of a brand new Gabriel Knight short story". It finds Gabriel "idly overdrinking and making no real progress on writing his book" at Schloss Ritter,[^ref-2] his ancestral home in Germany.[^ref-1] Grace Nakimura, Gabriel's research assistant, has disappeared without a trace. The only clue she left is an uncharacteristic letter to her parents, signed off with five hearts.[^ref-2]
 
-In the short story, an American expatriate living in Salzburg believes she has been cursed by an ancient ceremonial dagger she bought from an antique shop. Gabriel agrees to travel there to retrieve it.[^ref-2]
+In the short story, an American expatriate living in Salzburg believes she has been cursed by an ancient ceremonial dagger she bought from an antique shop. Gabriel agrees to travel there to retrieve it.[^ref-2] The story's own text spells the city "Saltzburg" and names the object the Ichlan Dagger.[^ref-27]
 
 The game pitch, as Jensen described it on Matt Chat, is also set in Salzburg. There, Gabriel investigates serial killings whose victims are found with their hearts removed.[^ref-4][^ref-20] Jensen describes a metaphorical layer to the plot, which deals with Gabriel's own heart.[^ref-4][^ref-20]
 
@@ -91,7 +91,7 @@ In Gabriel Knight 3, players can search for "gk4" in the SIDNEY computer interfa
 
 ### Production
 
-The short story came first. In mid-2024 Jensen said she had dreamed "the complete plot for a new Gabriel Knight story" and wrote it down that morning as "basically like the first chapter of a new Gabriel Knight story".[^ref-18] It was published as "Five Hearts" in November 2024.[^ref-2][^ref-13]
+The short story came first. In mid-2024 Jensen said she had dreamed "the complete plot for a new Gabriel Knight story" and wrote it down that morning as "basically like the first chapter of a new Gabriel Knight story".[^ref-18] It was announced in April 2023 as a Kickstarter reward for backers of Robert Holmes's "Son of Sequel" album.[^ref-26] Time Extension reported in July 2024 that the opening chapter would go to those backers first.[^ref-18] The public release as "Five Hearts" came on November 19, 2024.[^ref-2][^ref-13]
 
 The game pitch was revealed on Matt Chat in December 2025.[^ref-17] Jensen discussed the Salzburg setting, the heart-removal serial killings and the metaphorical side of the story.[^ref-4][^ref-17][^ref-20] According to ResetEra's summary, an indie team from Israel had approached Jensen and Holmes, and the pitch was made in cooperation with them.[^ref-4] Jensen would like to bring on a "younger designer" to help make the game.[^ref-4][^ref-20]
 
@@ -119,7 +119,7 @@ As of December 2025 (the latest report), the project had not moved beyond the pi
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Short Story | November 2024 | Text | "Five Hearts" opening chapter; first announced as a "Son of Sequel" Kickstarter backer reward, now a free download from Robert Holmes's site[^ref-2][^ref-18][^ref-19] |
+| Short Story | Announced April 18, 2023; backers first (reported July 2024); public release November 19, 2024 | Text | "Five Hearts" opening chapter; a "Son of Sequel" Kickstarter backer reward first, now a free download from Robert Holmes's site[^ref-26][^ref-18][^ref-2][^ref-19][^ref-27] |
 | Pitch ("Five Hearts") | Revealed December 2025 (Matt Chat) | Concept | Jensen seeking Microsoft's interest, unsuccessfully so far[^ref-4][^ref-17][^ref-20] |
 
 ### Technical Issues
@@ -205,3 +205,7 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 [^ref-23]: [GameSpot – The Ten Best Sidekicks, page 3 (Wayback Machine, September 2005)](https://web.archive.org/web/20050910024937/http://www.gamespot.com/features/tenspot_sidekicks/page3.html) – Grace Nakimura: "simply a more likeable character than the series' namesake… Grace is intelligent and resourceful"
 [^ref-24]: [USgamer – Pete Davison, "Happy Birthday, Gabriel Knight" (October 2013, Wayback Machine)](https://web.archive.org/web/20131110043347/http://www.usgamer.net/articles/happy-birthday-gabriel-knight) – "Grace Nakimura remains one of the best, most realistic female characters in game history"
 [^ref-25]: [Tech Talk with Daniel Albu – "Jane Jensen on Gabriel Knight, Gray Matter, King's Quest VI and the New Gabriel Knight Short Story!" (YouTube, June 30, 2024)](https://www.youtube.com/watch?v=gPkSH5umZoA) – Primary interview that Time Extension (ref-18) embeds and quotes; per Time Extension, the "full game"/Microsoft remarks come around 58 minutes in (no transcript checked)
+[^ref-26]: [Games Press – Jane Jensen to author original new Gabriel Knight short story (April 18, 2023)](https://www.gamespress.com/Jane-Jensen-to-author-original-new-Gabriel-Knight-short-story) – "Legendary Sierra On-Line designer Jane Jensen has announced plans to write an original short story in her acclaimed Gabriel Knight adventure series"; available exclusively to Son of Sequel Kickstarter backers
+[^ref-27]: [Jane Jensen – "Five Hearts", a Gabriel Knight short story (PDF, hosted on Robert Holmes's site)](https://robertholmesmusic.com/wp-content/uploads/2024/08/gk-five-hearts-short-story-2-2.pdf) – primary text; opens "The woman was cursed… when she arrived at the door of Schloss Ritter"; spells the city "Saltzburg"; the Ichlan Dagger
+[^ref-28]: [PC Gamer – Stefanie Fogel, Gabriel Knight interview: Jane Jensen on the revival of her classic adventure game (September 2, 2014)](https://www.pcgamer.com/gabriel-knight-interview-jane-jensen-on-the-revival-of-her-classic-adventure-game/) – "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."
+[^ref-29]: [Adventure Game Hotspot – An interview with Jane Jensen, legendary designer of the Gabriel Knight trilogy… and beyond? (Jack Allin, April 14, 2023)](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a) – "I have a few different ideas for GK4 that are fleshed out somewhat, yes."; hopes for movement once Microsoft has the Sierra IPs
