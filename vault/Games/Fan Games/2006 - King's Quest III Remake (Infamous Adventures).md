@@ -10,17 +10,17 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: 'King''s Quest III: To Heir Is Human is a free 2006 fan remake of Sierra On-Line''s 1986 adventure, rebuilt by Infamous Adventures in Adventure Game Studio with redrawn graphics, a point-and-click interface, new music and a voice pack.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-King's Quest III: To Heir Is Human is a free fan-made remake of Sierra On-Line's 1986 adventure game, developed and published by [[Infamous Adventures]] and released on June 19, 2006[^ref-1][^ref-3]. It retells the original story designed by [[Roberta Williams]] with redrawn backgrounds, hand-drawn close-up cutscenes, dialogue portraits, original music, a voice pack including narration, and a point-and-click interface in place of the original text parser[^ref-2][^ref-3]. Infamous Adventures, which describes itself as "Makers of Sierra Remakes including King's Quest III and Space Quest II," said it made the game to introduce a new generation of players to the classic and to show longtime fans "something new and special"[^ref-11][^ref-3].
+King's Quest III: To Heir Is Human is a free fan-made remake of Sierra On-Line's 1986 adventure game, developed and published by [[Infamous Adventures]] and released on June 19, 2006[^ref-1][^ref-3][^ref-23][^ref-25]. It retells the original story designed by [[Roberta Williams]] with redrawn backgrounds, hand-drawn close-up cutscenes, dialogue portraits, original music, a voice pack including narration, and a point-and-click interface in place of the original text parser[^ref-2][^ref-3]. Infamous Adventures, which describes itself as "Makers of Sierra Remakes including King's Quest III and Space Quest II," said it made the game to introduce a new generation of players to the classic and to show longtime fans "something new and special"[^ref-11][^ref-3].
 
 Hardcore Gaming 101 called it "a pretty faithful recreation of the original game"[^ref-19]. Players take the role of Gwydion, the 17-year-old slave of the wizard Manannan, who must escape his master and discover his true identity[^ref-22]. The game won the AGS Award for Best Documentation in 2006[^ref-17], and it is currently offered on itch.io for Windows and macOS on a "name your own price" basis[^ref-4].
 
@@ -109,7 +109,7 @@ The team built the game in Adventure Game Studio (AGS)[^ref-17]. According to th
 - **Meerbat:** Dialogue Pictures/Animation
 - **Fizzii:** Background Art/Sprite Creation
 
-Former Sierra employee Andy Hoyos voiced Manannan[^ref-18][^ref-21].
+Former Sierra employee Andy Hoyos voiced Manannan[^ref-18][^ref-21][^ref-25]. When version 2.0 and the voice pack came out, Adventure Gamers reported that Chris Skelton voiced Gwydion and Josh Mandel "of Sierra fame" once again voiced King Graham[^ref-24]. MobyGames likewise says Mandel reprised the role of King Graham and describes the voice pack as a mix of fans and professional actors[^ref-25].
 
 ### Technical Achievements
 
@@ -137,13 +137,13 @@ In reply, the Infamous Quests account said that "it IS an older program, so it m
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 19, 2006 | Windows | Original release[^ref-3]. The AGS database lists June 25, 2006[^ref-17]. |
-| 2.0 + Voice Pack | August 20, 2006 | Windows | A full rebuild instead of a patch. It fixed "well over 200" minor errors and restored the magic map. It also added a delete button for saved games, the special full-points ending and the voice pack[^ref-18]. |
+| 1.0 | June 19, 2006 | Windows | Original release[^ref-3][^ref-23][^ref-25]. The AGS database lists June 25, 2006[^ref-17]. |
+| 2.0 + Voice Pack | August 20, 2006 | Windows | A full rebuild instead of a patch. It fixed "well over 200" minor errors and restored the magic map. It also added a delete button for saved games, the special full-points ending and the voice pack[^ref-18]. Adventure Gamers covered the release on September 6, 2006[^ref-24]. |
 | itch.io re-release | Undated | Windows, macOS | Distributed as a "name your own price" download with Windows and macOS builds[^ref-4] |
 
 ## Legacy
 
-King's Quest III was the first of the two Sierra remakes Infamous Adventures completed. The second was [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]][^ref-1][^ref-11]. In 2011, [[AGD Interactive]] released its own remake, [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]][^ref-5][^ref-6][^ref-8][^ref-9]. Redux is a reboot of the 1986 game[^ref-10]. Like IA's earlier remake, it features completely redrawn background artwork, a modern icon-based point-and-click interface, and voice acting throughout[^ref-8].
+King's Quest III was the first of the two Sierra remakes Infamous Adventures completed. The second was [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]][^ref-1][^ref-11]. Adventure Gamers noted in 2006 that, unlike the VGA remakes of King's Quest I and II made by Tierra/AGD Interactive, this one was produced by a different team, Infamous Adventures[^ref-23]. In 2011, [[AGD Interactive]] released its own remake, [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]][^ref-5][^ref-6][^ref-8][^ref-9]. Redux is a reboot of the 1986 game[^ref-10]. Like IA's earlier remake, it features completely redrawn background artwork, a modern icon-based point-and-click interface, and voice acting throughout[^ref-8].
 
 HG101 notes that the two remakes share an interface, VGA-style graphics and full voice acting. Their assets are completely different, and IA's version stays much closer to the original storyline[^ref-19]. PCGamingWiki lists both as the two complete, free remakes of King's Quest III[^ref-16]. A copy of the 2006 fan release is preserved at the Internet Archive[^ref-7].
 
@@ -193,3 +193,6 @@ HG101 notes that the two remakes share an interface, VGA-style graphics and full
 [^ref-20]: [Adventure Classic Gaming – Steps to success in creating your own adventure game](http://www.adventureclassicgaming.com/index.php/site/features/220/) – Cris Skelton, August 5, 2006; Shawn Mills on founding IA and remaking KQ3 to hone skills
 [^ref-21]: [Wikipedia – King's Quest III (2006 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_III_(2006_video_game)) – remake features (16-bit colour, automatic spell casting, new locations, new prologue), AGS award for best documentation
 [^ref-22]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game's plot: Gwydion "the 17-year-old slave of the wizard Manannan", Manannan's rules, pirates, three-headed dragon
+[^ref-23]: [Wayback Machine – Adventure Gamers, "Infamous classic starts an old Quest anew" (June 19, 2006)](https://web.archive.org/web/20120320053935/http://www.adventuregamers.com/newsitem.php?id=1229) – Gunnar Harboe; "Unlike the VGA remakes of the first two games, which were made by Tierra/AGDInteractive, King's Quest III VGA is produced by a team calling themselves Infamous Adventures"; game listing dated June 19, 2006
+[^ref-24]: [Wayback Machine – Adventure Gamers, "King's Quest III VGA updated" (September 6, 2006)](https://web.archive.org/web/20120320053923/http://www.adventuregamers.com/newsitem.php?id=1271) – Luke Jensen; version 2.0 and voice pack; "Chris Skelton providing the voice of Gwydion and Josh Mandel of Sierra fame once again voicing King Graham"
+[^ref-25]: [MobyGames – King's Quest III: To Heir Is Human](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – read via the MobyGames API; Windows, June 19, 2006; "a complete voice pack using a mix of fans and professional actors"; Josh Mandel reprises King Graham; Andy Hoyos voices Manannan
