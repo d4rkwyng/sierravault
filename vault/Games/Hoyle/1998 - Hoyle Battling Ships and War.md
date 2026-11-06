@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a 1998 Sierra On-Line compilation for Windows
   pairing Battling Ships, a Battleship variant, with the card game War.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ Running the game today takes legacy Windows or emulation. In DOSBox Staging's tr
 
 ### Origins
 
-Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and later Hoyle titles saw yearly releases or specialized in particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1].
+Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and later Hoyle titles saw yearly releases or specialized in particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1]. Reviewing Classic Board Games (not this CD), TechnoFILE's Jim Bray described Battleship as "called Battling Ships here, undoubtedly for copyright reasons" and named Battling Ships his favourite game in that collection[^ref-25]. Craig Sorrels's 1998 Kids Domain review of the same collection listed "Chess, Battling Ships, & Chinese Checkers" among its games and noted "three skill levels & 12 opponents, including a bear"[^ref-26].
 
 ### Production
 
@@ -100,10 +100,12 @@ Jim Love is credited as designer (and with additional sound and music), under ex
 - **Executive Producer:** Stephen H. Van Horn
 - **Designer:** Jim Love
 - **Lead Engineer:** Earl Malmrose
+- **Art Director:** Kyle Shepard
+- **Associate Producer:** Robert L. Jerauld
 - **Sr. Software Engineers:** Michael Katz[^ref-8], John Gilmore, Frank T. Hollander
 - **Composer:** Evan Schiller
-- **Script Writers:** Jeff Hoyt, Allan Batchelder[^ref-4], Rodney Sherwood[^ref-5]
-- **SIGS Team Program Manager:** Brick Baldwin[^ref-7]
+- **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood[^ref-5]
+- **Program Manager:** Brick Baldwin[^ref-7]
 - **QA Analysts (selected):** Eric Tangborn[^ref-11], Torsten Reinl[^ref-12], Julie Bazuzi[^ref-10]
 - **Corporate Products Certification:** Beth Quintana[^ref-9]
 - **Writer and Editor:** Steven Bryan Bieler[^ref-3]
@@ -141,6 +143,11 @@ Three of the voice actors (Jeff Hoyt, Allan Batchelder and Rodney Sherwood) are 
 - **CPU:** Intel Pentium (minimum)
 - **RAM:** 16 MB
 
+**Per the retail box (as transcribed by Eli's Software Encyclopedia):**[^ref-24]
+- Requirements for both the Windows 3.1 and Windows 95 versions: 486-66 CPU, 8 MB RAM, 2X CD-ROM, mouse, SVGA 256 colour
+- The feature list reads "Internet play on Battling Ships" (PCGamingWiki's wording is online play "for most games"[^ref-2])
+- UPC 020626704151
+
 **Display:**[^ref-2]
 - **Resolution:** 640x480 (game area)
 - **Window Scaling:** Adjusts to any resolution, but game area remains 640x480
@@ -155,7 +162,7 @@ Three of the voice actors (Jeff Hoyt, Allan Batchelder and Rodney Sherwood) are 
 
 A DOSBox Staging issue lists Hoyle Battling Ships And War (executable `cdrom/sigspat.exe`) among Windows 3.1 titles that need `cputype=pentium_slow`; the issue notes[^ref-6]:
 
-"Some Windows 3.1 game's use PE32-type executables, and these almost always require `cputype=pentium_slow`, otherwise they crash with errors"[^ref-6]
+"Some Windows 3.1 game's use PE32-type executables, and these almost always require `cputype=pentium_slow`, otherwise they crash with errors ..."[^ref-6]
 
 **Known Compatibility Issues:**[^ref-6]
 - May crash with `cputype=auto` in DOSBox Staging
@@ -195,7 +202,7 @@ No official hint books or strategy guides for Hoyle Battling Ships And War have 
 
 ### Critical Perspective
 
-Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small package that reused one game from Hoyle Classic Board Games and previewed one from the next year's Hoyle Card Games[^ref-1]. Its own touches were a missile-count rule for Battling Ships and a tank-battle layer for War[^ref-1][^ref-23], plus a ten-person voice cast[^ref-21]. It drew no recorded critical coverage[^ref-22].
+Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small package that reused one game from Hoyle Classic Board Games and preceded the appearance of its other game, War, in the next year's Hoyle Card Games[^ref-1]. Its own touches were a missile-count rule for Battling Ships and a tank-battle layer for War[^ref-1][^ref-23], plus a ten-person voice cast[^ref-21]. It drew no recorded critical coverage[^ref-22].
 
 ## Purchase
 
@@ -279,7 +286,7 @@ Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small pa
 [^ref-4]: [MobyGames – Allan Batchelder](https://www.mobygames.com/person/9099/allan-batchelder/) – voice actor credit
 [^ref-5]: [MobyGames – Rodney Sherwood Credits](https://www.mobygames.com/person/9094/rodney-sherwood/credits/) – script writer and voice actor dual credit
 [^ref-6]: [DOSBox Staging – GitHub Issue #312](https://github.com/dosbox-staging/dosbox-staging/issues/312) – technical compatibility issues, PE32 executable format, cputype requirements
-[^ref-7]: [MobyGames – Brick Baldwin](https://www.mobygames.com/person/20244/brick-baldwin/) – SIGS Team program manager credit
+[^ref-7]: [MobyGames – Brick Baldwin](https://www.mobygames.com/person/20244/brick-baldwin/) – program manager credit
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – senior software engineer credit
 [^ref-9]: [MobyGames – Beth Quintana](https://www.mobygames.com/person/11307/beth-quintana/) – corporate products certification credit
 [^ref-10]: [MobyGames – Julie Bazuzi](https://www.mobygames.com/person/5146/julie-bazuzi/) – QA testing credit
@@ -291,3 +298,6 @@ Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small pa
 [^ref-21]: [MobyGames – Hoyle Battling Ships and War credits](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/credits/) – full credits: designer, executive producer, lead engineer, composer, ten voice actors, script writers, Clatter and Din Studios
 [^ref-22]: [Metacritic – Hoyle Battling Ships and Wars](https://www.metacritic.com/game/hoyle-battling-ships-and-wars/) – Metascore tbd, no critic or user reviews
 [^ref-23]: [LaunchBox Games Database – Hoyle Battling Ships and War](https://gamesdb.launchbox-app.com/games/details/105628-hoyle-battling-ships-and-war) – 1998, Windows 3.X, max 2 players, game description
+[^ref-24]: [Eli's Software Encyclopedia – Hoyle Battling Ships And War (PC, CD-ROM) Sierra – 1998](https://elisoftware.org/wiki/Hoyle_Battling_Ships_And_War_(PC,_CD-ROM)_Sierra_-_1998_USA,_Canada_Release) – transcription of the retail packaging: UPC, feature list ("Internet play on Battling Ships"), requirements for Windows 3.1 and 95 (486-66, 8MB)
+[^ref-25]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – review of Hoyle Classic Board Games, not this CD; used only for Battling Ships' earlier appearance
+[^ref-26]: [Kids Domain – Hoyle Classic Board Games review (Craig Sorrels, 1998; copy on a Kids Domain cover CD, August 1998, via Discmaster)](https://discmaster.textfiles.com/file/19539/K_CD_8_98.iso/kdomain/wwwkid~1.com/review/kdr/hoyle~1.htm) – review of Hoyle Classic Board Games, not this CD; "three skill levels & 12 opponents, including a bear"
