@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge", released free
  by Infamous Adventures in December 2011.'
@@ -18,11 +18,11 @@ tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Space Quest II VGA Remake (listed in game databases as *Space Quest II: Roger Wilco in Vohaul's Revenge*) is a fan-made graphical remake of the classic 1987 Sierra On-Line adventure game "Space Quest II: Vohaul's Revenge," originally created by [[Scott Murphy]] and [[Mark Crowe]], known collectively as "The Two Guys from Andromeda."[^ref-4][^ref-16][^ref-20] The remake was developed by Infamous Adventures and released on December 30, 2011, after more than five years of development.[^ref-2][^ref-20] Infamous Adventures' own release announcement called it "a labor of love and devotion to the original series," remade in a retro VGA style "like Sierra's later point and click adventures from the early 1990's."[^ref-2]
+Space Quest II VGA Remake (listed in game databases as *Space Quest II: Roger Wilco in Vohaul's Revenge*) is a fan-made graphical remake of the classic 1987 Sierra On-Line adventure game "Space Quest II: Vohaul's Revenge," originally created by [[Scott Murphy]] and [[Mark Crowe]], known collectively as "The Two Guys from Andromeda."[^ref-4][^ref-16][^ref-20] The remake was developed by Infamous Adventures and released on December 30, 2011, after more than five years of development.[^ref-2][^ref-20][^ref-24] Infamous Adventures' own release announcement called it "a labor of love and devotion to the original series," remade in a retro VGA style "like Sierra's later point and click adventures from the early 1990's."[^ref-2]
 
 The remake lovingly recrafts the original game in simulated VGA colors, featuring hand-drawn backgrounds and hand-animated characters.[^ref-2][^ref-4] Players once again take on the role of Roger Wilco, the hapless janitor-turned-hero, as he embarks on an intergalactic adventure while being pursued by the agents of the sinister Sludge Vohaul.[^ref-4] The project includes a full voice pack with over 4,000 recorded lines of dialogue, transforming the text-based original into a fully voiced experience.[^ref-2]
 
@@ -74,6 +74,8 @@ A 2019 retrospective on the Cola Powered Gamer blog described the fan remake as 
 
 Before release, the project was followed on the VOGONS forums. In September 2009, VOGONS user Malik, announcing that Infamous Adventures was "nearing the completion" of the remake, compared the group's earlier King's Quest III remake with AGD Interactive's work: "Personally, I prefer the remakes made by Infamous Adventures, more than the other well known (re-)maker : AGD Interactive. King's Quest II remake (by AGDI) is good and professionally made but strayed slightly away from the classic. ... Whereas King's Quest III remake by Infamous Adventures stayed quite close to the original."[^ref-7]
 
+Reactions to the voice acting were mixed in a VOGONS thread about the release. On December 31, 2011, VOGONS user Malik wrote that he was "gonna download right away!"[^ref-27] On January 7, 2012, SquallStrife wrote: "I'm hugely impressed! I don't like the voice acting, sorry, but the rest of the game is SPOT ON!" Later that day Malik agreed: "The voice acting leaves much to be desired," adding that he was playing "with only the text on," while praising the graphics and music as "really good." MusicallyInspired replied the same day: "We had very few actors. One guy did most of the voices, actually. The voice pack isn't ever going to be something really professionally well done in a fan game," and said he preferred text as well.[^ref-27]
+
 ### Modern Assessment
 
 On itch.io, the game holds an aggregate rating of 4.8 out of 5 stars based on 22 ratings (as of October 2026).[^ref-4]
@@ -85,7 +87,7 @@ On itch.io, the game holds an aggregate rating of 4.8 out of 5 stars based on 22
 
 ### Origins
 
-Infamous Adventures, which had previously released a King's Quest III remake,[^ref-7] officially announced the Space Quest II VGA remake on April 1, 2007, releasing screenshots "after some speculation in recent weeks that the game was indeed in production."[^ref-23] By release, the team described the game as the product of "more than five years of working on the game, bit by bit in their spare time."[^ref-2]
+Infamous Adventures, an amateur team founded in 2004 by Shawn Mills and Steven Alexander,[^ref-28] had previously released a King's Quest III remake.[^ref-7] It officially announced the Space Quest II VGA remake on April 1, 2007, releasing screenshots "after some speculation in recent weeks that the game was indeed in production."[^ref-23] By release, the team described the game as the product of "more than five years of working on the game, bit by bit in their spare time."[^ref-2]
 
 The Infamous Adventures version was not the first attempt at a VGA Space Quest II. In a March 2006 Sierra Gamers forum thread, one member recalled that "AGDI cancelled their (then secret) remake of Space Quest 2 because someone else named Kippesoep ... was working on it," adding that Kippesoep "eventually disappeared into obscurity."[^ref-8] Development updates on the Infamous Adventures project were shared periodically; on March 28, 2009, team member Broomie posted (as quoted on VOGONS): "Just a quick reminder, Space Quest II is on it's way soon! Not too soon, but quite soon. We've done a lot of work recently, hired some excellent new staff members and Klytos has finally got off his arse and started adding in the last few animations and sprites. Not much left to do now, and soon we'll be entering the beta stage of Space Quest II."[^ref-7]
 
@@ -93,13 +95,17 @@ The Infamous Adventures version was not the first attempt at a VGA Space Quest I
 
 The remake was produced by Steven Alexander and Shawn Mills, directed and scripted by Mills, with art direction by Elissa Ng and Alexander, animation direction by David Robert Smith, and music by Isaac Lundgren and Brandon Blume.[^ref-10] It features hand-drawn backgrounds and hand-animated characters in a style meant to recall Sierra's early 1990s VGA adventures.[^ref-2]
 
+The remake is not a strict one-to-one copy of the original. The team's FAQ describes it as "a bit of both": "The story is the same, but we've fleshed out some parts more and a couple of puzzles have been changed due to the change to point and click interface."[^ref-25] Shacknews likewise noted that "a couple of puzzles have been altered slightly" to suit the mouse-driven interface, and that a few new cut-scenes were added.[^ref-26] The team's Roger Wilco sprite is based on the Roger of Space Quest IV, and the interface (icons and cursors) is also based on Space Quest IV, "but theres a couple of cool changes there too."[^ref-25]
+
+In December 2011, shortly before the public release, Infamous Adventures showed the game at AdventureX, a convention in Oxfordshire, England. The team's news post said attendees would be able to play Space Quest II before it was released, while Broomie presented the design decisions on a big screen.[^ref-24][^ref-29] The two sources give different dates for the event, so none is stated here.
+
 A significant undertaking was the voice pack, which includes over 4,000 recorded lines of dialogue.[^ref-2] The narrator is also voiced; the Cola Powered Gamer reviewer felt he "does a decent Gary Owens impression."[^ref-22]
 
 The team also created a PDF manual with custom content. Infamous Adventures team member Lambonius urged players in the release thread to "Be sure to check out the pdf manual included in the game directory," calling it "just as much a labor of love as the game itself!"[^ref-2]
 
 ### Technical Achievements
 
-The remake recreates the original game "in simulated VGA colors," in the developers' own words.[^ref-4] It was built with Adventure Game Studio.[^ref-9]
+The remake recreates the original game "in simulated VGA colors," in the developers' own words.[^ref-4] It was built with Adventure Game Studio.[^ref-9] Shacknews described it as presented at 320x200 resolution with a 16-bit colour palette, and the Adventure Game Studio games database lists it as freeware with 320x200, 16-bit colour graphics.[^ref-26][^ref-30]
 
 ### Technical Specifications
 
@@ -159,13 +165,17 @@ The remake also includes a secret bar easter egg. When a player reported that th
 
 ## Legacy
 
+### Unofficial Status
+
+The remake was an unofficial fan project. Shacknews reported that Infamous Adventures had tried to reach the original design team for permission, and that, according to the group's FAQ, the only reply was an endorsement from Scott Murphy: "You and your team have my blessing. I can certainly appreciate that kind of spirit." The article also cited the project's About text, which explained the "unsanctioned nature" of the remake and encouraged players to buy Activision's re-released original games.[^ref-26]
+
 ### Commercial Impact
 
 As a free fan project, the Space Quest II VGA Remake was never sold commercially. Instead, Infamous Adventures offers it as a "Name your own price" download, where "the developer accepts your support by letting you pay what you think is fair for the game."[^ref-3]
 
 ### Fan Projects
 
-The Space Quest II VGA Remake is one of several Sierra fan remakes by Infamous Adventures, which had earlier released a King's Quest III remake that VOGONS user Malik said "stayed quite close to the original" and called "an absolute must for KQ fans" with its speech pack.[^ref-7]
+The Space Quest II VGA Remake is one of several Sierra fan remakes by Infamous Adventures, which had earlier released a King's Quest III remake that VOGONS user Malik said "stayed quite close to the original" and called "an absolute must for KQ fans" with its speech pack.[^ref-7] Infamous Adventures posted on July 27, 2012 that it was no longer producing games.[^ref-28]
 
 ### Related Publications
 
@@ -231,3 +241,10 @@ The game is listed in several gaming databases.[^ref-14][^ref-16][^ref-20]
 [^ref-20]: [MobyGames – Space Quest II: Roger Wilco in Vohaul's Revenge](https://www.mobygames.com/game/60817/space-quest-ii-roger-wilco-in-vohauls-revenge/) – Release dates by platform (Windows 2011, Mac 2012, Linux 2020), point-and-select interface
 [^ref-22]: [Cola Powered Gamer – Review: Space Quest II](https://colapoweredgamer.wordpress.com/2019/07/08/review-space-quest-ii/) – 2019 review including a section on the VGA remake: interface, new content, voice acting
 [^ref-23]: [Adventure Gamers – Infamous Adventures giving Wilco a facelift (Wayback, 2011 snapshot)](https://web.archive.org/web/20110707090039/http://www.adventuregamers.com/newsitem.php?id=1424) – April 1, 2007 announcement of the remake
+[^ref-24]: [Infamous Adventures – News (Wayback, Jan 6, 2012)](https://web.archive.org/web/20120106220146/http://www.infamous-adventures.com:80/home/index.php?page=news) – Release post timestamped December 30, 2011 by Broomie; AdventureX showing announcement
+[^ref-25]: [Infamous Adventures – FAQ (Wayback, Jan 13, 2012)](https://web.archive.org/web/20120113142333/http://www.infamous-adventures.com:80/home/index.php?page=faq) – Space Quest II FAQ: changed puzzles, Roger and interface based on Space Quest IV
+[^ref-26]: [Shacknews – Space Quest 2 fan-made remake and unofficial sequel launch](https://www.shacknews.com/article/71873/space-quest-2-fan-made-remake-and-unofficial-sequel) – Jeff Mattas, Jan 6, 2012: 4,000 lines, working since 2006, altered puzzles, Scott Murphy's blessing, unsanctioned nature
+[^ref-27]: [VOGONS Forums – Space Quest II Remake Released! (Wayback, May 2024)](https://web.archive.org/web/20240529182920/https://www.vogons.org/viewtopic.php?t=30823) – Posts by Malik (Dec 31, 2011; Jan 7, 2012), SquallStrife and MusicallyInspired (Jan 7, 2012) on the voice acting
+[^ref-28]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – Company founded 2004 by Shawn Mills and Steven Alexander; July 27, 2012 post that it was no longer producing games
+[^ref-29]: [Adventure Game Studio Wiki – AdventureX](https://www.adventuregamestudio.co.uk/wiki/AdventureX) – 2011 AdventureX lists Infamous Adventures (Space Quest 2 Remake) among featured game presentations
+[^ref-30]: [Adventure Game Studio – Space Quest II VGA](https://www.adventuregamestudio.co.uk/play/game/1518/) – Freeware, 320x200 16-bit colour (its listed release date is not used)
