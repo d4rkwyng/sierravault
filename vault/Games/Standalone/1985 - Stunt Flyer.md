@@ -2,7 +2,8 @@
 title: Stunt Flyer
 release_year: 1985
 developer: Nice Ideas
-designer: [Patrick Aubry]
+designer: []
+programmer: Patrick Aubry
 publisher: Sierra On-Line
 genre: Flight Simulation
 platforms: [C64]
@@ -10,25 +11,26 @@ series: Standalone
 engine: null
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: Stunt Flyer is a precision-aerobatics flight simulator for the Commodore 64, developed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line in 1985.
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Stunt Flyer is a stunt-flying simulation for the Commodore 64, which MobyGames dates to September 1985[^ref-1]. Sierra advertised it in October 1985 as a "professionally designed" simulator "for precision aerobatics"[^ref-19], and its box billed it as "The Precision Aerobatics Flight Simulator"[^ref-22]. The player flies a small prop-plane at an airshow and tries to perform a set of airplane stunts[^ref-1]. The game was programmed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line[^ref-20][^ref-1]. According to the retro blog Retro365, which draws on a Gamotek interview with programmer Patrick Aubry, it was Sierra's first published game developed in Europe[^ref-3].
+Stunt Flyer is a stunt-flying simulation for the Commodore 64, which MobyGames dates to September 1985[^ref-1]. Sierra advertised it in October 1985 as a "professionally designed" simulator "for precision aerobatics"[^ref-19], and its reference card billed it as "The Precision Aerobatics Flight Simulator"[^ref-22]. The player flies a small prop-plane at an airshow and tries to perform a set of airplane stunts[^ref-1]. The game was programmed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line[^ref-20][^ref-1]. According to the retro blog Retro365, which draws on a Gamotek interview with programmer Patrick Aubry, it was Sierra's first published game developed in Europe[^ref-3].
 
 The plane is a Pitts Special biplane, which *Compute!'s Gazette* called "the most maneuverable of all stunt planes"[^ref-16][^ref-12]. The manual's note from the designers says, "Professional stunt pilots have evaluated it to ensure that it realistically simulates a real-life stunt plane"[^ref-20]. The player flies from a first-person cockpit view, and a side-scrolling 2D view replays the stunts afterwards[^ref-1][^ref-13].
 
-The game is best remembered inside Sierra for its Competition Mode. Crashing the plane there also crashed the program. Sierra's own *InterAction* magazine later said the feature brought "lots of angry letters from customers and a game with a very short software store shelf life"[^ref-17].
+The game's most notorious feature was its Competition Mode. Crashing the plane there also crashed the program. Sierra's own *InterAction* magazine later said the feature brought "lots of angry letters from customers and a game with a very short software store shelf life"[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** Nice Ideas[^ref-1][^ref-20]
-> **Designer:** Patrick Aubry (programmer; built the flight model and scoring routine, per Retro365)[^ref-2][^ref-3]
+> **Designer:** Not credited
+> **Programmer:** Patrick Aubry (built the flight model and scoring routine, per Retro365)[^ref-2][^ref-3]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Unknown[^ref-10]
 > **Platforms:** Commodore 64[^ref-1][^ref-2]
@@ -67,7 +69,7 @@ According to Retro365, Aubry wrote a routine that scored each figure by how clos
 
 ### Contemporary Reviews
 
-*Compute!'s Gazette* reviewed the game in its January 1986 issue (David Florance, p. 55). It called the competition "the most enjoyable thing about Stunt Flyer". It also said the game was "for those who like excitement in their software. There won't be any dull moments"[^ref-16]. The review listed the price as $24.95 on disk[^ref-16].
+*Compute!'s Gazette* reviewed the game in its January 1986 issue (David Florance, p. 55). It called the competition "the most enjoyable thing about Stunt Flyer". It also said the game was "for those who like excitement in their software. There won't be any dull moments"[^ref-16]. The review listed the price as $24.95 on disk[^ref-16]. The October 1985 issue of the *Computer Entertainer* newsletter likewise gave a list price of $24.95, described watching an expert fly "twenty aerobatic maneuvers" and noted that the keyboard "offers more precise control" than the joystick[^ref-23].
 
 The competition crash feature looked worse in hindsight. In 1994 Sierra's *InterAction* magazine described Stunt Flyer as "perhaps the one game that Ken Williams heavily evangelized that he would now rather forget". It said the crash-the-software feature produced angry customer letters and a short shelf life[^ref-17].
 
@@ -133,7 +135,7 @@ The best-known "issue" was deliberate. In Competition Mode, crashing the plane a
 - According to Retro365, it was the first published title developed in Europe for Sierra On-Line[^ref-3]
 - According to Retro365, Patrick Aubry made a 4,000-mile trip from France to California during final development[^ref-3]
 - The flight model is based on the Pitts Special aerobatic biplane[^ref-16][^ref-12]
-- Sierra offered a $1,000 prize to the best Stunt Flyer pilot[^ref-16]. Retro365 adds that entries had to be postmarked by March 31, 1986, and that the winner would also get the title "Most Skilled Stunt Pilot"[^ref-3]
+- Sierra offered a $1,000 prize to the best Stunt Flyer pilot[^ref-16]. The competition card packed with the game offered a "$1,000 Grand Prize to the most skilled stunt pilot" and said entries had to be postmarked by March 31, 1986, with disks mailed to a Sierra post office box in Coarsegold, California[^ref-24]
 - *Space Quest IV* contains an unused "Bargain Bin" item for Stunt Flyer at the Software Excess store, which fans found in the game's data[^ref-21][^ref-5]. The Space Quest Omnipedia transcribes its box text as a joke about the original game's crashing ("Still looking for a sim that really crashes?") and gives it a fake former title, "Hero's Flyer"[^ref-5]
 
 ## Legacy
@@ -152,11 +154,11 @@ The Space Quest Omnipedia reports that NewRisingSun's Space Quest 4 CD Version U
 
 ### Related Publications
 
-- **Game Manual:** 47-page instruction manual by Annette Gerth Childs, with a separate reference card[^ref-16][^ref-20][^ref-22]
+- **Game Manual:** 47-page instruction manual by Annette Gerth Childs, with a separate reference card[^ref-16][^ref-20][^ref-22]. PixelatedArcade's release listing (catalog number SRL-823, 5.25" disk, 1985) shows the package also held a competition card, and a warranty registration card[^ref-25]
 
 ### Critical Perspective
 
-Sierra later regretted the game. Writing in 1994, *InterAction* used it as a cautionary "then" example in a feature on how Sierra's flight simulations had changed[^ref-17]. Retro365 describes it as Sierra's first published game developed in Europe[^ref-3], and in 1990 *Computer Gaming World* still named it among the stunt-capable flight products that followed Sublogic's *Flight Simulator*[^ref-18].
+Writing in 1994, *InterAction* used Stunt Flyer as a cautionary "then" example in a feature on how Sierra's flight simulations had changed, saying Ken Williams would now rather forget it[^ref-17]. Retro365 describes it as Sierra's first published game developed in Europe[^ref-3], and in 1990 *Computer Gaming World* still named it among the stunt-capable flight products that followed Sublogic's *Flight Simulator*[^ref-18].
 
 ## Downloads
 
@@ -200,3 +202,6 @@ Sierra later regretted the game. Writing in 1994, *InterAction* used it as a cau
 [^ref-20]: [Stunt Flyer instruction manual (Commodore 64), scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/Stunt-Flyer-Commodore-64-Instruction-Manual.pdf) – credits, note from the designers, competition rules (pp. 43–44), contents to p. 47
 [^ref-21]: [SpaceQuest.net – Space Quest 4 Cancelled Stuff](https://spacequest.net/sq4/cancelled/) – the Stunt Flyer box is a bargain-bin item that "didn't make it into the final game"
 [^ref-22]: [Stunt Flyer reference card (Commodore 64), scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/Stunt-Flyer-Commodore-64-Reference-Card.pdf) – "The Precision Aerobatics Flight Simulator", the instrument panel, keyboard and joystick controls
+[^ref-23]: [Computer Entertainer, Vol. 4 No. 7 (October 1985) – Stunt Flyer review](https://archive.org/details/computer-entertainer-4-7) – "twenty aerobatic maneuvers", Pitts Special, keyboard "offers more precise control", "at least 15 maneuvers with a minimum score of 50%", $1000 contest, MSR $24.95 (read from the item's OCR text)
+[^ref-24]: [Stunt Flyer competition card, scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/picture_Sierra-Stunt-Flyer-Competition.jpg) – "$1,000 GRAND PRIZE TO THE MOST SKILLED STUNT PILOT!", entries postmarked by March 31, 1986, P.O. Box 485 Coarsegold, CA
+[^ref-25]: [PixelatedArcade – Stunt Flyer releases](https://pixelatedarcade.com/games/stunt-flyer/releases) – SRL-823, 1985, 5.25" disk; package contents: instruction manual, reference card, competition card, warranty registration card
