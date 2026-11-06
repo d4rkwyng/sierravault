@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Adventure Game Studio
 protagonist: The Hero
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: 'Quest for Glory II VGA Remake is AGD Interactive''s free 2008 fan remake
   of Sierra On-Line''s 1990 adventure-RPG *Quest for Glory II: Trial by Fire*, rebuilt
   in Adventure Game Studio with VGA-style art and a point-and-click interface.'
@@ -18,13 +18,13 @@ tags: [2000s, adventure, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory II VGA Remake
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line's 1990 adventure-RPG hybrid *Quest for Glory II: Trial by Fire*, developed and published by [[AGD Interactive]] and released on August 24, 2008[^ref-6][^ref-11]. The project replaced the original's 16-color EGA graphics and typed-parser interface with VGA-style artwork and point-and-click icons[^ref-21][^ref-6]. *Trial by Fire* was the only game in the series that Sierra never took beyond EGA graphics, so the remake gave it its first VGA presentation[^ref-11]. It was distributed as a free download[^ref-8][^ref-22].
+Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line's 1990 adventure-RPG hybrid *Quest for Glory II: Trial by Fire*, developed and published by [[AGD Interactive]] and released on August 24, 2008[^ref-6][^ref-11]. Erpy of the development team, writing in the AGS release thread, said the game "went gold around midnight on the 24th/25th of august"[^ref-26]. The project replaced the original's 16-color EGA graphics and typed-parser interface with VGA-style artwork and point-and-click icons[^ref-21][^ref-6]. *Trial by Fire* was the only game in the series that Sierra never took beyond EGA graphics, so the remake brought it VGA-style artwork for the first time[^ref-11]. PC World likewise noted that, unlike the first game, *Trial by Fire* "was left behind with 4-bit, 16-color artwork"[^ref-18]. It was distributed as a free download[^ref-8][^ref-22].
 
-Engadget reported that the remake had been "a labor of love in development off and on for nearly seven years"[^ref-4]. AGD Interactive, the team behind the King's Quest I and II remakes, kept the plot unchanged while adding interface options and a revamped combat system[^ref-5][^ref-6]. AGD Interactive's own site calls it an "award-winning Adventure/RPG game"[^ref-3].
+Engadget reported that the remake had been "a labor of love in development off and on for nearly seven years"[^ref-4], while Adventure Classic Gaming's 2008 interview says nearly eight[^ref-25]. AGD Interactive, the team behind the King's Quest I and II remakes, kept the plot unchanged while adding interface options and a revamped combat system[^ref-5][^ref-6]. AGD Interactive's own site calls it an "award-winning Adventure/RPG game"[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[AGD Interactive]][^ref-5]
@@ -105,7 +105,9 @@ AGD Interactive says plans to remake the game were made before its first project
 
 ### Production
 
-According to AGD Interactive's history page, the project's foundation was made in 2001: a set of Quest for Glory II screens connected without alleyways or much interaction. The project was not fully picked up again until 2003, shortly after the release of King's Quest II+[^ref-21]. Around 2004/2005, most animations had been created and a basic path from start to finish could be played. Years of refinement and bug-fixing followed[^ref-21]. Engadget summarised the effort as nearly seven years of on-and-off development[^ref-4].
+According to AGD Interactive's history page, the project's foundation was made in 2001: a set of Quest for Glory II screens connected without alleyways or much interaction. The project was not fully picked up again until 2003, shortly after the release of King's Quest II+[^ref-21]. Around 2004/2005, most animations had been created and a basic path from start to finish could be played. Years of refinement and bug-fixing followed[^ref-21]. Engadget summarised the effort as nearly seven years of on-and-off development[^ref-4], whereas Adventure Classic Gaming's 2008 interview says "nearly 8 years in development" and dates the first prototype to 2000, a one-man project begun "even before King's Quest I VGA was released"[^ref-25]. The sources therefore differ by about a year on the project's length, depending on where the start is counted.
+
+The interview also says beta testing, expected to take no more than 2 months, ended up taking 7[^ref-25]. In 2005 the team visited Oakhurst to meet Lori and Corey Cole, who "were very encouraging"[^ref-25].
 
 The team kept the game faithful to the original, with "no plot changes"[^ref-6]. PC World highlighted "lovingly recreated full VGA backdrops, fresh music, and new backstory content left out of the original due to space and time constraints"[^ref-18]. Unlike AGD Interactive's King's Quest I and II remakes, it has no voice acting. AGD Interactive's FAQ says a voice pack add-on will not be made because the dialogue workload "would be immense"[^ref-23].
 
@@ -126,7 +128,7 @@ The remake was built with the Adventure Game Studio (AGS) engine[^ref-5][^ref-11
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | August 24, 2008 | Windows | Initial release[^ref-6] |
+| — | August 24, 2008 | Windows[^ref-5] | Initial release[^ref-6] |
 | 2.0 | January 20, 2011 | Windows/Mac | "Packed full of fixes and improvements"; first Mac version[^ref-3] |
 
 AGD Interactive notes that save-games from earlier versions are not compatible with v2.0[^ref-22].
@@ -153,7 +155,7 @@ The remake is a standalone freeware release, downloadable from AGD Interactive's
 
 ### Fan Projects
 
-The remake is part of AGD Interactive's run of Sierra remakes, which also includes King's Quest I and King's Quest II. AGD Interactive reports that its King's Quest II remake has been downloaded over 451,400 times[^ref-9].
+The remake is part of AGD Interactive's run of Sierra remakes, which also includes King's Quest I and King's Quest II. The group's stated aim is to "remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads"[^ref-27]. AGD Interactive reports that its King's Quest II remake has been downloaded over 451,400 times[^ref-9]. In the same interview an AGD Interactive member said the Quest for Glory II remake, then a little over four days old, was approaching 25,000 downloads[^ref-25]. Wikipedia's article on the group also lists the remake, released August 24, 2008[^ref-28].
 
 ### Critical Perspective
 
@@ -212,3 +214,7 @@ Reviewers praised the remake's balance of preservation and modernisation. PopMat
 [^ref-22]: [AGD Interactive – Download Quest for Glory II](https://www.agdinteractive.com/games/qfg2/downloads/thegame/downloads.html) – Windows and Mac system requirements, v2.0 download sizes, save-game compatibility note
 [^ref-23]: [AGD Interactive – Quest for Glory II FAQ, page 2](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq2.html) – no voice pack ("Unfortunately not"), X-ray glasses Easter egg, day/night cycle, Dervish beard bug, why QfG2 was remade first, dead-ends
 [^ref-24]: [AGD Interactive – Quest for Glory II Home Page](https://www.agdinteractive.com/games/qfg2/homepage/homepage.html) – "A Tale of Two Cities" story synopsis
+[^ref-25]: [Adventure Classic Gaming – Chris Warren, Stijn van Empel interview](https://adventureclassicgaming.com/index.php/site/interviews/403/) – Jonathan Yalon, first posted September 7, 2008; "nearly 8 years in development", started as a one-man project in 2000, beta testing 7 months instead of 2, 2005 Oakhurst visit, download figures
+[^ref-26]: [Adventure Game Studio forums – Quest for Glory 2 VGA release thread](https://www.adventuregamestudio.co.uk/forums/index.php?topic=35410.0) – Erpy, August 25, 2008: "the game went gold around midnight on the 24th/25th of august"
+[^ref-27]: [AGD Interactive – About Us](https://www.agdinteractive.com/about/about.html) – group's aim: remake classic Sierra adventures and offer them as free downloads
+[^ref-28]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – "Quest for Glory II Remake" section: released on August 24, 2008
