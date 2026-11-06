@@ -10,7 +10,7 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Board Games 2005 is a Windows collection of classic board games
   built by Sierra Entertainment, first shipped in Sierra's Hoyle Puzzle & Board 2005
   bundle in September 2004 and released standalone in the US by Encore Software in
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -101,7 +101,9 @@ The credits list a Sierra Entertainment team: executive producer Stephen H. Van 
 
 The game was built under Sierra and first sold by Sierra, then sold on its own by Encore. Sierra's late-2003 Hoyle catalog listed Hoyle Table Games ("Backgammon, Checkers, Dominoes, Pool & More!") as its board-game title,[^ref-30] and Sierra's fall-2004 product index listed Hoyle Card Games 2005 and Hoyle Puzzle & Board 2005 but no standalone Hoyle Board Games 2005.[^ref-28] The board games first appeared in the Puzzle & Board bundle, which Sierra's product page dates to September 16, 2004 and copyrights to Sierra Entertainment and Vivendi Universal Games; Metacritic gives September 14, 2004.[^ref-27][^ref-14]
 
-On December 21, 2004, Navarre Corporation announced that its subsidiary Encore Software had signed an exclusive five-year agreement with The United States Playing Card Company for worldwide Hoyle PC publishing rights. Encore also secured "worldwide, perpetual licensed rights to certain industry-leading software content and technology."[^ref-26] Wikipedia records that Encore Software took over publishing the Hoyle series from 2005 to 2016.[^ref-3] An Encore developer account later explained on Steam's Hoyle forum: "When we acquired Hoyle, we pretty much started distributing 2004 versions and up and then some changes to the box were made as Encore instead of Sierra on the box."[^ref-23] The US retail SKU carries Encore Software as publisher (barcode 705381100270).[^ref-25] MobyGames, by contrast, lists Sierra Entertainment as both developer and publisher of the 2005 US retail release, and the ESRB lists Vivendi Games.[^ref-17][^ref-5]
+On December 21, 2004, Navarre Corporation announced that its subsidiary Encore Software had signed an exclusive five-year agreement with The United States Playing Card Company for worldwide Hoyle PC publishing rights. Encore also secured "worldwide, perpetual licensed rights to certain industry-leading software content and technology."[^ref-26] Wikipedia records that Encore Software took over publishing the Hoyle series from 2005 to 2016.[^ref-3] An Encore developer account later explained on Steam's Hoyle forum: "When we acquired Hoyle, we pretty much started distributing 2004 versions and up and then some changes to the box were made as Encore instead of Sierra on the box."[^ref-23] The US retail SKU carries Encore Software as publisher (barcode 705381100270).[^ref-25] MobyGames, by contrast, lists Sierra Entertainment as both developer and publisher of the 2005 US retail release, and the ESRB lists Vivendi Games.[^ref-17][^ref-5] The ESRB's entries for the sibling Hoyle Card Games 2005 and Hoyle Puzzle Games 2005 name Vivendi Games too, while its entry for Hoyle Puzzle and Board Games 2005 (the title of the bundle that contained this game) names Encore Software as the publisher.[^ref-32][^ref-33]
+
+Navarre Corporation's annual report for the fiscal year ended March 31, 2005 describes the arrangement from the Encore side: "In December 2004, we entered into exclusive licensing agreements with Vivendi and The United States Playing Card Company, Inc. for the sales and marketing of the Hoyle brand of family entertainment software products."[^ref-31]
 
 **Development Credits:**[^ref-8]
 - **Executive Producer:** Stephen H. Van Horn
@@ -166,7 +168,7 @@ Historical trivia about the Hoyle series:[^ref-3]
 
 ### Sales and Commercial Impact
 
-No sales figures for Hoyle Board Games 2005 have been published. For the series as a whole, Wikipedia records that the original 1989 volume sold over 250,000 copies by 1990.[^ref-3]
+No sales figures for Hoyle Board Games 2005 have been published. For the series as a whole, Wikipedia records that the original 1989 volume sold over 250,000 copies by 1990.[^ref-3] Navarre's fiscal 2005 annual report, citing The NPD Group, states that as of January 2005 Hoyle Casino held the #1 rank in the PC Games/Family Entertainment category and the Hoyle brand held a 14% share of that category by dollar sales; that is Navarre's reported figure, not a measure of this title.[^ref-31]
 
 ### Collections
 
@@ -182,7 +184,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 - [Amazon.ca](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ) - physical copies may be available[^ref-6]
 
 **Download / Preservation**
-- No download link is listed, because the game is still sold: a third-party seller offers new physical copies on Amazon.ca (checked October 23, 2026)[^ref-6]
+- No download link is listed, because the game is still sold: it remains on sale on Amazon.ca (checked October 23, 2026)[^ref-6]
 
 ## See Also
 
@@ -262,3 +264,6 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 [^ref-28]: [Sierra – alphabetical product index, letter H (Wayback, Oct 10, 2004)](https://web.archive.org/web/20041010015611/http://www.sierra.com/alphabetical_index.do?letter=H) – lists Hoyle Card Games 2005 and Hoyle Puzzle & Board 2005, no standalone Hoyle Board Games 2005
 [^ref-29]: [Sierra – Hoyle Table Games product page (Wayback, Dec 9, 2004)](https://web.archive.org/web/20041209070339/http://sierra.com/product.do?gamePlatformId=546) – "PC Released: 9/2/2003"; NEW Hoyle Bucks, BackTalk, Maximum Pool; Facemaker, skill levels, free Rulebook
 [^ref-30]: [Sierra – Hoyle Catalog (Wayback, Dec 9, 2003)](https://web.archive.org/web/20031209185714/http://hoyle.sierra.com:80/hoylecatalog.jsp) – Hoyle Table Games: "Backgammon, Checkers, Dominoes, Pool & More!"
+[^ref-31]: [Navarre Corporation – Form 10-K for the fiscal year ended March 31, 2005 (SEC filing, Wayback copy of June 1, 2018)](https://web.archive.org/web/20180601235741/https://www.sec.gov/Archives/edgar/data/911650/000095013405011970/c95938e10vk.htm) – December 2004 exclusive licensing agreements with Vivendi and The United States Playing Card Company for the Hoyle brand; NPD Group figures (as of January 2005) as reported by Navarre
+[^ref-32]: ESRB – [Hoyle Card Games 2005](https://www.esrb.org/ratings/10148/) and [Hoyle Puzzle Games 2005](https://www.esrb.org/ratings/10156/) – both list Vivendi Games as publisher (sibling titles, not this game)
+[^ref-33]: [ESRB – Hoyle Puzzle and Board Games 2005](https://www.esrb.org/ratings/11010/) – E for Everyone, Comic Mischief; publisher listed as Encore Software
