@@ -3,21 +3,21 @@ title: Hoyle Card Games 2002
 release_year: 2001
 developer: Sierra On-Line
 designer: []
-publisher: Sierra Entertainment
+publisher: Sierra On-Line
 genre: Card Game
 platforms: [Windows, Mac]
 series: Hoyle Card Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-05'
 description: Fifth release of Sierra's Hoyle Card Games, shipped autumn 2001 as a hybrid
   PC/Mac CD that added Skat and Tarot and bundled Palm OS solitaire.
 tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2002
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,9 @@ Hoyle Card Games 2002 is the fifth release of Sierra's *Hoyle Card Games* title 
 
 Sierra's product page said the game "brings you 18 of your favorite card games": "16 authentic favorite card games plus two new International Games."[^ref-21] The main new feature was the "Hoyle International Game Section", which added Skat, "a three-player game from Germany", and Tarot, "the national game of France".[^ref-21][^ref-3] Sierra promised that "Lively, interactive play and crisp, colorful graphics make Hoyle Card Games the number one selling game available."[^ref-21] The package also included a version of Hoyle Solitaire for Palm OS handhelds, which Macworld described as four solitaire variations.[^ref-21][^ref-3]
 
-The game was published by [[Sierra On-Line]] (copyright 2001 Sierra On-Line, Inc.) and sold under its Sierra Attractions label; the ESRB, which rated it E for Everyone with a Gambling descriptor, lists the publisher under the company's later name, Sierra Entertainment.[^ref-21][^ref-22][^ref-3][^ref-6] Players faced ten animated characters — Bart, Elayne, Ethel, Gax, Harley, Jasper, Marvin, Maurice, Robin and Roswell — and could build their own likeness with Facemaker; player identities carried over to other Hoyle products such as Board Games and Casino.[^ref-21][^ref-1]
+The game was published by [[Sierra On-Line]] (copyright 2001 Sierra On-Line, Inc.) and sold under its Sierra Attractions label; the ESRB, which rated it E for Everyone with a Gambling descriptor, lists the publisher under the company's later name, Sierra Entertainment.[^ref-21][^ref-22][^ref-3][^ref-6] Per Wikipedia, Sierra On-Line announced that name change on February 19, 2002, after this game's autumn 2001 release; Sierra's own October 2001 listing still carries "Copyright © 2001 Sierra On-Line, Inc."[^ref-29][^ref-24] Players faced ten animated characters — Bart, Elayne, Ethel, Gax, Harley, Jasper, Marvin, Maurice, Robin and Roswell — and could build their own likeness with Facemaker; player identities carried over to other Hoyle products such as Board Games and Casino.[^ref-21][^ref-1]
+
+Sierra's October 2001 Hoyle listing described the game as "eighteen of your favorite card games, including the new International Game Section," and listed it for both Mac and PC, with a separate Game Boy Color entry.[^ref-24]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line (copyright holder; no separate developer is credited in the sources checked)[^ref-21]
@@ -73,7 +75,9 @@ The solitaire count also varies by source: MobyGames gives "forty three varietie
 MobyGames classifies the game as a top-down, fixed-screen, point-and-select card and tile game.[^ref-1] GameGenie's James Allen described the graphics as "headless players and floating cards," clear and functional but "standard fare."[^ref-5] A printed Hoyle rulebook and strategy guide came in the box, containing "card game history, rules, playing strategies and helpful diagrams"; in-game, "Rules, hints and tips are also just a mouse click away."[^ref-21][^ref-1][^ref-5]
 
 ### AI Opponents and Customization
-The game featured ten animated characters, "each with adjustable skill levels and attitudes."[^ref-21][^ref-1] GameGenie noted that each AI character has "several different sayings" and that the AI "know the games very well."[^ref-5] Facemaker let players create a personalized character, "choosing his or her hairstyle, outfit, and facial features," and those identities could be used in Hoyle Board Games and Hoyle Casino.[^ref-21][^ref-1] Players could also choose the music, background and game variations.[^ref-21]
+The game featured ten animated characters, "each with adjustable skill levels and attitudes."[^ref-21][^ref-1] GameGenie noted that each AI character has "several different sayings" and that the AI "know the games very well."[^ref-5] Facemaker let players create a personalized character, "choosing his or her hairstyle, outfit, and facial features," and those identities could be used in Hoyle Board Games and Hoyle Casino.[^ref-21][^ref-1] Sierra's Facemaker page said players could "choose different hair, eyes, noses and more for thousands of fun, unique combinations," or let the computer pick a face with a Randomize feature.[^ref-25]
+
+Sierra's character biographies list Marvin, Maurice, Elayne and Ethel among the characters appearing in Hoyle Card Games. Marvin is a T-Rex "self-conscious about his tiny arms," Maurice "was abducted by aliens" and "now consults his beaver puppet for strategic advice," Elayne is a "native Manhattanite" and "fast-track advertising exec," and Ethel is "originally from Red Cloud, Nebraska."[^ref-26][^ref-27] Players could also choose the music, background and game variations.[^ref-21]
 
 ### Multiplayer Options
 Sierra's product page lists play "with up to four people on the same computer" and Internet Play; Facemaker characters could represent players "on the computer or over the Internet."[^ref-21] GameGenie's review also praised the online play.[^ref-5]
@@ -104,7 +108,7 @@ Today Amazon India shows 4.2 out of 5 stars from 4 global ratings.[^ref-4] GameF
 The Hoyle series began in 1989 with Hoyle's Official Book of Games and was initially developed and published by Sierra On-Line. Sierra Entertainment developed and published the series from 1996 to 2003.[^ref-13]
 
 ### Production
-Hoyle Card Games 2002 was one of five titles in Sierra's 2002 Hoyle line, alongside Hoyle Casino 2002, Hoyle Board Games 2002, Hoyle Word Games 2002 and Hoyle Kids Games 2002. All shipped as hybrid PC/Mac CD-ROMs, and every title except Kids Games sold for US$29.95.[^ref-3] The main new feature for the card games edition was the International Games Selection, which added Skat and Tarot.[^ref-1][^ref-3]
+Hoyle Card Games 2002 was one of five titles in Sierra's 2002 Hoyle line, alongside Hoyle Casino 2002, Hoyle Board Games 2002, Hoyle Word Games 2002 and Hoyle Kids Games 2002. All shipped as hybrid PC/Mac CD-ROMs, and every title except Kids Games sold for US$29.95.[^ref-3] The main new feature for the card games edition was the Hoyle International Game Section, which added Skat and Tarot.[^ref-21][^ref-3][^ref-24]
 
 ### Technical Specifications
 
@@ -128,6 +132,10 @@ Period Amazon.com reviewers reported problems: one wrote in December 2001 that "
 
 A 2017 Amazon reviewer wrote: "I had this for 6 years and even though it does not work on Windows Vista, 7, and 8, it worked again on Windows 8.1 and Windows 10."[^ref-4]
 
+The Sierra Help Pages host a patch that "updates the PC version 1.0 of Hoyle Card Games 5 (2002) to version 1.0.1.0." It fixes a Bridge bug "which often caused an incorrect player to begin the auction (should always be the dealer)" and a Hearts bug "which affected replays of hands in which no cards were passed." A separate OEM patch is listed without a description.[^ref-28]
+
+A 2025 retrospective by the blogger Jefklak, written as personal opinion, found that the game "does not have anything special to offer, especially with its lacking multiplayer capabilities nowadays," called the background music "mostly atrocious" (it can be turned off), and said the Internet play option has "ceased to function." He also says local play on one screen is not possible, which conflicts with Sierra's "up to four people on the same computer" listing, so that point is not relied on here.[^ref-31][^ref-21]
+
 ### Release History
 
 | Date | Platform | Notes |
@@ -137,14 +145,15 @@ A 2017 Amazon reviewer wrote: "I had this for 6 years and even though it does no
 | September 30, 2001 | PC/Mac | Macworld reports the 2002 Hoyle line "has released"[^ref-3] |
 | September 7, 2002 | PC | Date listed by GameFAQs and Metacritic[^ref-7][^ref-16] |
 
-Note: Contemporary sources place the release in autumn 2001; "2002" is part of the product name. GameFAQs and Metacritic list September 7, 2002, which conflicts with both Amazon and Macworld.
+Note: Contemporary sources place the release in autumn 2001; "2002" is part of the product name. GameFAQs and Metacritic list September 7, 2002, which conflicts with both Amazon and Macworld. A further conflicting date comes from WorthPlaying's 15 April 2002 report on Sierra's Hoyle announcement, which lists Hoyle Card Games (16 games plus the "Hoyle International Game Section" with Skat and Tarot) for PC/Mac as "Available: May 31st 2002"; that date is reported here as WorthPlaying's and is not reconciled with the 2001 sources.[^ref-30]
 
 ### Trivia
 
 - **Historical Namesake:** The series is named after Edmond Hoyle, the English writer on card-game rules who died in 1769.[^ref-13][^ref-20]
 - **Cross-Product Compatibility:** Player identities created in the Facemaker could be used in Hoyle Board Games and Hoyle Casino, and vice versa.[^ref-1]
 - **International Expansion:** Skat (Germany) and Tarot (France) were new in this edition.[^ref-21][^ref-3]
-- **Game Boy Color Tie-in:** Sierra's product page for this edition also advertised a Game Boy Color version.[^ref-21][^ref-12]
+- **Game Boy Color Tie-in:** Sierra's product page for this edition also advertised a Game Boy Color version.[^ref-21][^ref-12][^ref-24]
+- **Trademark Licence:** Sierra's Facemaker page states that "Hoyle", "According to Hoyle", the Shellback Design and the playing card face designs are registered trademarks of Brown & Bigelow, Inc., used under license by Sierra On-Line.[^ref-25]
 
 ## Legacy
 
@@ -161,7 +170,6 @@ The wider Hoyle series also reached the Dreamcast.[^ref-13] A separate Game Boy 
 
 **Purchase / Digital Stores**
 - No current digital release of this edition is known (the Steam Hoyle collection is a different product)
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/hoyle-card-games-2002)
@@ -245,3 +253,11 @@ The wider Hoyle series also reached the Dreamcast.[^ref-13] A separate Game Boy 
 [^ref-21]: [Sierra – Hoyle Card Games product page (Wayback, 14 Nov 2001)](https://web.archive.org/web/20011114002236/http://www.sierra.com/games/hoyle/hoylecard_card.html) – official page: 18 games (16 + Skat/Tarot), Palm OS Solitaire, ten named characters, Facemaker, rulebook, four players on one PC, Internet play, Win/Mac specs, © 2001 Sierra On-Line, Sierra Attractions
 [^ref-22]: [Amazon.com – Hoyle Card Games 2002 (Wayback, 16 Aug 2001)](https://web.archive.org/web/20010816142812/http://www.amazon.com:80/exec/obidos/ASIN/B00005MJ9G/) – "This item will be released on September 25, 2001", $29.99, Sierra Attractions, Macintosh/Windows 95/98/Me
 [^ref-23]: [Amazon.com – Hoyle Card Games 2002 (Wayback, 1 Feb 2002)](https://web.archive.org/web/20020201184335/http://www.amazon.com:80/exec/obidos/ASIN/B00005MJ9G/) – 7 customer reviews, sales rank 85; reviews dated Nov 2001 – Jan 2002 (Facemaker, sound, Canasta bugs, iMac)
+[^ref-24]: [Sierra – Hoyle Full Listings (Wayback, 17 Oct 2001)](https://web.archive.org/web/20011017120640/http://www.sierra.com/games/hoyle.php) – "eighteen of your favorite card games, including the new International Game Section"; Mac and PC lists; Game Boy Color entry; © 2001 Sierra On-Line, Inc.
+[^ref-25]: [Sierra – Hoyle Facemaker (Wayback, 11 Nov 2001)](https://web.archive.org/web/20011111075617/http://www.sierra.com/games/hoyle/facemaker.html) – Facemaker and Randomize description; © 2001 Sierra On-Line; Brown & Bigelow trademark licence
+[^ref-26]: [Sierra – Hoyle character biographies, Marvin and Maurice (Wayback, 13 Nov 2001)](https://web.archive.org/web/20011113232115/http://www.sierra.com:80/games/hoyle/char5.html) – Marvin and Maurice bios, each tagged Hoyle Card Games
+[^ref-27]: [Sierra – Hoyle character biographies, Elayne and Ethel (Wayback, 12 Dec 2001)](https://web.archive.org/web/20011212052421/http://www.sierra.com:80/games/hoyle/char2.html) – Elayne and Ethel bios, each tagged Hoyle Card Games
+[^ref-28]: [The Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – Hoyle Card Games 5 (2002) patch 1.0 to 1.0.1.0 (Bridge auction and Hearts replay fixes); OEM patch listed
+[^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – "On February 19, 2002, Sierra On-Line announced the name change to Sierra Entertainment, Inc."
+[^ref-30]: [WorthPlaying – Sierra Goes 'Hoyle' Crazy (15 Apr 2002)](https://worthplaying.com/article/2002/4/15/news/3235-sierra-goes-hoyle-crazy) – Sierra Hoyle announcement; Hoyle Card Games entry (16 games, "New for 2002" International Game Section) listed as "Available: May 31st 2002" for PC/Mac
+[^ref-31]: [Jefklak's Codex – Hoyle Card Games (2002 Edition) (22 Aug 2025)](https://jefklakscodex.com/games/pc/hoyle-card-games-2002/) – personal-blog retrospective (opinion only): nothing special, music, Internet play no longer works
