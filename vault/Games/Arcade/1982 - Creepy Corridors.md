@@ -10,14 +10,14 @@ series: Laf Pak
 engine: 6502 Assembly
 protagonist: Sierra Smith
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: Creepy Corridors is a maze-based arcade game originally developed by
   Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation...
 tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -147,9 +147,9 @@ MobyGames notes that the game "was also advertised for Atari 8-bit and Commodore
 | 1.0 | 1982 | Apple II | Original release on the Laf Pak compilation (MobyGames gives June 1981)[^ref-1][^ref-6][^ref-21] |
 | 1.0 | 1983 | VIC-20 | Standalone SierraVision cartridge port by Don McGlauflin[^ref-4][^ref-20] |
 | — | (advertised) | Atari 8-bit | Advertised but not released[^ref-4][^ref-14] |
-| Mine Shaft | March 1984 | IBM PCjr | Re-titled port by John Redekopp; see [[1983 - Mine Shaft]][^ref-6] |
+| Mine Shaft | By Feb 1984 (Retro365: March 1984) | IBM PCjr | Re-titled port, credited to John Redekopp by Retro365; announced Nov 1983, among the cartridges released by 20 Feb 1984; see [[1983 - Mine Shaft]][^ref-6][^ref-24][^ref-25] |
 
-The game was later ported to the IBM PCjr by John Redekopp and released as "Mine Shaft" in IBM's Entertainment Series in March 1984, when the PCjr became available; the copyright on the cartridge reads 1983.[^ref-6] Eli's Software Encyclopedia files one VIC-20 listing under 1982 and its main VIC-20 release page under 1983 (box copyright 1983).[^ref-23][^ref-20]
+The game was later ported to the IBM PCjr and released as "Mine Shaft" in IBM's Entertainment Series; Retro365 credits the port to John Redekopp.[^ref-6] *PC Magazine* (24 January 1984) listed Mine Shaft among Sierra products "represented by finished products at the November PCjr announcement" and called it "a version of Creepy Corridors,"[^ref-24] and *InfoWorld* (20 February 1984) reported that "Four game cartridges were released: Mouser, Scuba Venture, Mine Shaft and Crossfire."[^ref-25] *Softalk* for the IBM PC listed it at $35, a game in which the player "maneuvers a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-26] (January 1984), and in March 1984 called it "probably the easiest" of "the four game cartridges that IBM has released with the Junior."[^ref-28] Retro365 gives March 1984 as the release, "when the PCjr became available"; the cartridge's copyright reads 1983.[^ref-6] *PeaNut* (May/June 1984) said Mine Shaft "was originally written for the Apple and released on a disk containing three other games more than a year ago," which fits the Laf Pak disk.[^ref-27] Eli's Software Encyclopedia files one VIC-20 listing under 1982 and its main VIC-20 release page under 1983 (box copyright 1983).[^ref-23][^ref-20]
 
 ### Technical Issues
 
@@ -249,3 +249,8 @@ Creepy Corridors is a reminder that Sierra released straightforward arcade games
 [^ref-21]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5¼" Disk) Sierra - 1982](https://elisoftware.org/wiki/Laf_Pak_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – copyright 1982, developer Chuck Bueche, 48K, "The History of Chuckles" packaging text
 [^ref-22]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"; 48K Apple II
 [^ref-23]: [Eli's Software Encyclopedia – Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) – lists "Creepy Corridors (VIC-20, Cartridge) Sierra - 1982" and Laf Pak (Apple II) 1982
+[^ref-24]: [PC Magazine, January 24, 1984 (Internet Archive)](https://archive.org/details/pc_magazine-1984_01_24) – p. 142: Sierra products "represented by finished products at the November PCjr announcement"; "Mine Shaft is a version of Creepy Corridors"
+[^ref-25]: [InfoWorld, February 20, 1984 (Google Books scan, Internet Archive)](https://archive.org/details/bub_gb_hS4EAAAAMBAJ) – PCjr shipping coverage: "Four game cartridges were released: Mouser, Scuba Venture, Mine Shaft and Crossfire"
+[^ref-26]: [Softalk IBM, January 1984 (Vol. 2 No. 8, Internet Archive)](https://archive.org/details/198401SoftalkIBMV2N8) – IBM Junior cartridge list: Mine Shaft, mining car, diamonds, $35
+[^ref-27]: [PeaNut, May/June 1984 (Vol. 1 No. 1, Internet Archive)](https://archive.org/details/peanut-198405-06-volume-1-number-1) – Mine Shaft "originally written for the Apple and released on a disk containing three other games more than a year ago"
+[^ref-28]: [Softalk IBM, March 1984 (Vol. 2 No. 10, Internet Archive)](https://archive.org/details/198403SoftalkIBMV2N10) – "Of the four game cartridges that IBM has released with the Junior, Mine Shaft is probably the easiest to play"
