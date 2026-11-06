@@ -10,22 +10,20 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-27'
+last_updated: '2026-11-05'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
 Precinct was an ambitious crowdfunded police adventure video game announced in 2013 by [[Jim Walls]], the creator of Sierra On-Line's legendary Police Quest series[^ref-1][^ref-16]. Conceived as a spiritual successor to the classic franchise whose official name was owned by Activision, the project sought to revive the police procedural adventure genre for a new generation of players[^ref-2][^ref-12]. The game was designed to combine authentic police procedures with modern gaming technology, featuring first-person gameplay with intense action sequences including shootouts, high-speed car chases, investigations, foot pursuits, and hand-to-hand combat[^ref-2][^ref-13].
 
-Set in the fictional corrupt town of Fraser Canyon, California, Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19]. The game was never made.
-
-Both crowdfunding attempts failed, and with them the project ended[^ref-19].
+Set in the fictional corrupt town of Fraser Canyon, California, Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8][^ref-22]. Update #7 told backers that the project was "just over 15% funded" and "it's clear that we're not going to hit our goal"[^ref-25]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. Shacknews noted that backers would only be billed once a milestone was reached, and that the $400,000 goal was $100,000 below the previous one[^ref-21]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19]; the project's own site, as archived on October 3, 2013, shows $11,961 from 431 supporters and "Project Closed"[^ref-24]. The game was never made. In August 2014 Walls told backers by email that the project was "on hold", and Choicest Games reported him as still hopeful of doing *Precinct* in the future[^ref-23].
 
 > [!info]- Game Info
 > **Developer:** Jim Walls Reloaded[^ref-16] (Tiny Castle Studios' team helped create the Kickstarter campaign[^ref-8])
@@ -50,7 +48,7 @@ As with the original Police Quest games, players would have had to follow correc
 
 ### Interface and Controls
 
-Precinct was designed to utilize a first-person perspective, marking a significant departure from the earlier Police Quest games which employed third-person views[^ref-2]. The game was being developed in the Unity3D engine, allowing for real-time 3D environments that would bring Fraser Canyon to life with modern graphical fidelity[^ref-4].
+Precinct was designed to utilize a first-person perspective, marking a contrast with the original Police Quest: Game Informer wrote that, unlike Police Quest, "Precinct will feature real-time gameplay, 3D visuals, and a first-person perspective"[^ref-26]. Kotaku likewise said the big difference was that Precinct would be played in the first person[^ref-2]. The game was being developed in the Unity3D engine, allowing for real-time 3D environments that would bring Fraser Canyon to life with modern graphical fidelity[^ref-4].
 
 The gameplay was conceived as an adventure game with substantial action sequences, blending the investigative and procedural elements that defined Police Quest with more dynamic gameplay mechanics suitable for contemporary audiences[^ref-2].
 
@@ -79,7 +77,7 @@ As Precinct was never released, there are no reviews of a finished product. Howe
 
 **Kicktraq** tracked the campaign and recorded its cancellation by the creator[^ref-1].
 
-**Sierra Classic Gaming** provided detailed coverage of the project, documenting the funding tiers and staged development approach[^ref-3]. Their comprehensive game listing served as a primary source for campaign details.
+**Sierra Classic Gaming** provided detailed coverage of the project, documenting the funding tiers and staged development approach[^ref-3]. Their game listing summarised the campaign; the primary source is the Kickstarter page itself[^ref-8].
 
 **Larry Laffer Net** covered the project with a focus on Sierra alumni connections, featuring Al Lowe's endorsement and detailed information about the development team at Tiny Castle Studios[^ref-4].
 
@@ -106,6 +104,8 @@ Precinct remains a notable example of a cancelled crowdfunding project from the 
 
 Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
 
+Launch coverage from Shacknews and GamesBeat gave the same $500,000 goal and a 2014 release for PC and Mac; Shacknews added an $800,000 stretch goal for iOS, Android, Xbox 360 and PlayStation 3, and GamesBeat said Activision currently owned the rights to Police Quest[^ref-27][^ref-28].
+
 Walls first announced plans for a Police Quest successor, funded through Kickstarter, on a podcast on February 2, 2013[^ref-15]. The project was developed under the banner of Jim Walls Reloaded, Inc. of Bass Lake, California, in partnership with development studio Tiny Castle Studios[^ref-4][^ref-16].
 
 Al Lowe, creator of Leisure Suit Larry and a programmer on the original Police Quest, endorsed the project, noting: "If you've played Police Quest, you know exactly what Jim Walls is like, because that game is Jim Walls"[^ref-4].
@@ -116,7 +116,7 @@ The development team began working with Unity3D to create a modern first-person 
 
 The Kickstarter campaign launched on July 16, 2013, seeking $500,000[^ref-8]. With $85,756 pledged by 1,870 backers, the creators cancelled it on August 6, ten days before its scheduled end[^ref-8].
 
-Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted to build a playable pilot version, letting potential backers "experience" the vision behind the game rather than judge it from a tech demo video[^ref-17]. The same day, a staged funding campaign opened on the game's own website, with milestones at $25,000, $90,000, $250,000 and $400,000; pledges would only be charged if a stage was funded, and backer rewards were dropped because they had taken up "nearly $200K" of the original goal[^ref-18]. On August 26, 2013, PC Gamer reported that this campaign had also been cancelled after raising around $12,000 of its $400,000 goal, with no backer money taken[^ref-19]. Wikipedia's Jim Walls article gives a lower figure, saying the second campaign "did not surpass $7,000"[^ref-15].
+Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted to build a playable pilot version, letting potential backers "experience" the vision behind the game rather than judge it from a tech demo video[^ref-17]. The same day, a staged funding campaign opened on the game's own website, with milestones at $25,000, $90,000, $250,000 and $400,000; pledges would only be charged if a stage was funded, and backer rewards were dropped because they had taken up "nearly $200K" of the original goal[^ref-18]. On August 26, 2013, PC Gamer reported that this campaign had also been cancelled after raising around $12,000 of its $400,000 goal, with no backer money taken[^ref-19]. The project site's archived page of October 3, 2013 reads "Goal $400,000, 3%, $11,961 Raised, 431 Supporters, Project Closed"[^ref-24]. Wikipedia's Jim Walls article gives a conflicting, lower figure, saying the second campaign "did not surpass $7,000"[^ref-15].
 
 **Development Credits:**[^ref-1][^ref-4][^ref-8]
 - **Creator/Designer:** Jim Walls
@@ -129,7 +129,7 @@ Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted t
 
 ### Technical Achievements
 
-The game was designed to leverage the Unity3D engine to create real-time 3D environments representing the fictional town of Fraser Canyon[^ref-4]. The first-person perspective was a departure from the earlier Police Quest games[^ref-2].
+The game was designed to leverage the Unity3D engine to create real-time 3D environments representing the fictional town of Fraser Canyon[^ref-4]. The first-person perspective was a contrast with the original Police Quest[^ref-26].
 
 The planned distribution model included digital download via Steam, representing the shift in game distribution that had occurred since the original Police Quest era[^ref-4].
 
@@ -162,7 +162,7 @@ The project never reached a state where technical issues in gameplay could be do
 
 ### Cancellation and Aftermath
 
-The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The staged funding campaign that replaced it launched the same day and failed as well, cancelled around August 26, 2013, at roughly $12,000 of its $400,000 goal[^ref-18][^ref-19]. Precinct was never made.
+The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The staged funding campaign that replaced it launched the same day and failed as well, cancelled around August 26, 2013, at roughly $12,000 of its $400,000 goal[^ref-18][^ref-19]. Precinct was never made, though Walls described it as "on hold" rather than ended in August 2014[^ref-23].
 
 ### Unrelated Namesake
 
@@ -211,3 +211,19 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 [^ref-19]: [PC Gamer – Precinct's crowdfunding campaign cancelled again, backers' cash is safe](https://www.pcgamer.com/precincts-crowdfunding-campaign-cancelled-again-backers-cash-is-safe/) – Tom Sykes, 26 Aug 2013: staged scheme cancelled "after raising around $12,000 of the $400,000 goal"
 
 [^ref-20]: [Techzwn – Walking the Beat with Jim Walls](https://web.archive.org/web/20130927200823/http://techzwn.com/2013/08/walking-the-beat-with-jim-walls/) – Brendon Templin, 26 Aug 2013 (Wayback): "In 1986, California Highway Patrol officer Jim Walls left the force after 15 years of service"
+
+[^ref-21]: [Shacknews – Precinct cancels Kickstarter, opens tiered crowdfunding](https://shacknews.com/article/80518/precinct-cancels-kickstarter-opens-tiered-crowdfunding) – Steve Watts, 6 Aug 2013: four milestones; "The $400,000 goal is $100,000 less than its previous mark"; backers billed only when a milestone is reached
+
+[^ref-22]: [GameSpot – Police Quest spiritual successor cancelled (Wayback copy)](https://web.archive.org/web/2013/http://www.gamespot.com/articles/police-quest-spiritual-successor-cancelled/1100-6412610/) – Dan Chiappini, Aug 2013: "$85,756 of its attempted $500,000 goal"; target reduced to $400,000, with $25,000 first for a playable prototype
+
+[^ref-23]: [Choicest Games – Where are they now? Jim Walls](https://www.choicestgames.com/2014/08/where-are-they-now-jim-walls.html) – Mark Goninon, 13 Aug 2014 (edited 14 Aug): Walls's email to backers said the project was "on hold" ("This is not the end!"); still hopeful of doing Precinct in the future
+
+[^ref-24]: [Precinct project site (Wayback, 3 Oct 2013)](https://web.archive.org/web/20131003000612/http://www.precinctgame.com/) – Primary source: "Goal $400,000 3% $11,961 Raised 431 Supporters Project Closed"
+
+[^ref-25]: [Kickstarter – Precinct updates list (Wayback)](https://web.archive.org/web/2013/https://www.kickstarter.com/projects/precinctgame/precinct/posts) – Update #7, 6 Aug 2013, "Precinct and staged funding": "just over 15% funded"; "we are shutting down our Kickstarter and launching a new ... crowdfunding campaign at www.precinctgame.com"
+
+[^ref-26]: [Game Informer – Ex-Cop Announces Police Adventure Game](https://gameinformer.com/b/news/archive/2013/07/16/ex-cop-announces-police-adventure-game.aspx) – 16 Jul 2013: "Precinct will feature real-time gameplay, 3D visuals, and a first-person perspective"; $500,000 ask; PC and Mac in 2014
+
+[^ref-27]: [Shacknews – Police Quest creator crowdfunding Precinct](https://shacknews.com/article/80188/police-quest-creator-crowdfunding-precinct) – Alice O'Connor, 16 Jul 2013: $500,000 goal; PC and Mac in Q3 2014; rookie cop; $800k stretch goal for iOS, Android, Xbox 360 and PS3
+
+[^ref-28]: [GamesBeat – Police Quest creator is back with spiritual successor Precinct](https://gamesbeat.com/police-quest-creator-is-back-with-spiritual-successor-precinct/) – Jeff Grubb, 16 Jul 2013: Jim Walls Reloaded studio; $500,000; PC and Mac in 2014; "Activision currently owns the rights to Police Quest"
