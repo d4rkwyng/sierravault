@@ -10,13 +10,13 @@ series: Hoyle
 engine: Unknown
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Puzzle Games 2004 is a collection of 17 puzzle and arcade games, including two new games, Rays and Word Searches, released by Sierra Entertainment on September 2, 2003 for Windows.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -134,6 +134,8 @@ No sales figures have been found. Best Buy listed the game for Windows (SKU 5884
 
 A GameSpot user reviewer pointed buyers to a 2005 version, which combined the puzzle games with the table games and could be fully installed[^ref-7]. See [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle & Board Games 2005]].
 
+In a December 21, 2004 announcement, VU Games said it had reached an agreement with Encore "which includes the assignment of the Hoyle games license", with Encore responsible for sales, distribution and marketing effective December 23, 2004[^ref-36]. Bruce Hack, CEO of VU Games, said the sale was "consistent with our strategy of focusing on core games franchises"[^ref-36]. SoCalTech reported the same deal as a divestiture of the Hoyle-branded software products to Navarre Corp's Encore subsidiary[^ref-37].
+
 ### Trivia
 
 - Amazon's product description says the game includes a "FREE Hoyle Rulebook and Strategy Guide for advanced insider information"[^ref-4]
@@ -192,11 +194,11 @@ A GameSpot user reviewer pointed buyers to a 2005 version, which combined the pu
 - [[2003 - Hoyle Card Games]]
 - [[2003 - Hoyle Casino]]
 - [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -229,3 +231,5 @@ A GameSpot user reviewer pointed buyers to a 2005 version, which combined the pu
 [^ref-33]: [Sierra – Hoyle Puzzle Games official product page (Wayback, Sep 2003)](https://web.archive.org/web/20030908110642/http://hoylegames.com:80/puzzlegames.jsp) – feature list: new games Rays and Word Searches, High Score List, Facemaker, skill levels, 1,000 crosswords, save and print, free rulebook; registration SKU 72013
 [^ref-34]: [ESRB – Hoyle: Puzzle Games 2004](https://www.esrb.org/ratings/8853/hoyle-puzzle-games-2004/) – rated E, no descriptors; Sierra Entertainment; platforms Palm Pilot, Windows PC, Pocket PC
 [^ref-35]: [Sierra Chest – Hoyle Puzzle Games 2 (2003): Music](https://www.sierrachest.com/index.php?a=games&id=818&title=hoyle-puzzle-games-2003&fld=music) – 32 songs on the CD as WAV/MP3, "Finally a whole set of new songs for a Hoyle game"
+[^ref-36]: [WorthPlaying – Vivendi Passes on Hoyle Brand to Encore](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore) – by Judy, 2004-12-21; VU Games assignment of the Hoyle license to Encore, effective December 23, 2004; Bruce Hack quote
+[^ref-37]: [SoCalTech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – dated December 23, 2004; Hoyle-branded software products divested to Navarre Corp's Encore subsidiary
