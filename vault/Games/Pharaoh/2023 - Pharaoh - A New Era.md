@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,7 +22,7 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -48,11 +48,11 @@ Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^r
 
 The remake has a fully redesigned user interface[^ref-5]. The most visible change is zoom: players can zoom in to see the redrawn artwork up close[^ref-1][^ref-3]. New or redesigned mechanics listed by the publisher include a Workers Tooltip, a Fixed Worker Ratio setting and new tools for tracking the population's mood[^ref-5].
 
-The most significant addition, in Rock Paper Shotgun's view, is the optional global labor pool: industry and service buildings can draw workers from a shared pool instead of relying on recruiters who walk from house to house[^ref-3]. Wikipedia compares it to the system in Zeus: Master of Olympus[^ref-1], and Triskell's game designer said a switchable global workpool was the feature players had requested most[^ref-14]. Players can still use the original recruiter system if they prefer[^ref-7]. Other conveniences include copy-pasting buildings and an option to disable predators[^ref-5]. A Nilometer indicator tracks the timing and quality of the Nile's floods, so players can plan for lean years[^ref-3][^ref-5].
+The most significant addition, in Rock Paper Shotgun's view, is the optional global labor pool: industry and service buildings can draw workers from a shared pool instead of relying on recruiters who walk from house to house[^ref-3]. Wikipedia compares it to the system in Zeus: Master of Olympus[^ref-1], and Triskell's game designer said a switchable global workpool was the feature players had requested most[^ref-14]. Players can still use the original recruiter system if they prefer[^ref-7][^ref-25]. Other conveniences include copy-pasting buildings and an option to disable predators[^ref-5]. A Nilometer indicator tracks the timing and quality of the Nile's floods, so players can plan for lean years[^ref-3][^ref-5].
 
 ### Structure and Progression
 
-Players build cities in ancient Egypt along the Nile, aiming to become a powerful and revered pharaoh[^ref-5]. The Campaign mode teaches the basics while telling a story set in ancient Egypt, and a Sandbox mode allows free building[^ref-5]. The publisher frames the game as a journey through 4,000 years of history[^ref-5]. a December 2021 Dotemu/Triskell press release also mentions a map and mission editor[^ref-24].
+Players build cities in ancient Egypt along the Nile, aiming to become a powerful and revered pharaoh[^ref-5]. The Campaign mode teaches the basics while telling a story set in ancient Egypt, and a Sandbox mode allows free building[^ref-5]. The publisher frames the game as a journey through 4,000 years of history[^ref-5]. A December 2021 Dotemu/Triskell press release also mentions a map and mission editor[^ref-24].
 
 Players manage the city's economy, internal and external trade, culture, health, agriculture and education[^ref-5]. Farming depends on the Nile's annual floods[^ref-3][^ref-5]. Players can build monuments including the pyramids, the Sphinx and the Lighthouse of Alexandria, build temples and mausoleums for the city's religion, and defend the city against enemies[^ref-5].
 
@@ -73,9 +73,16 @@ Pharaoh: A New Era received "generally favorable" reviews according to Metacriti
 | Rock Paper Shotgun | No score | "The definitive version of a stone-cold classic"[^ref-3] |
 | Shacknews | 8/10 | "An excellent spin on a classic"[^ref-4] |
 | Gamepressure | 8.5/10 | "A splendid opportunity to rediscover this timeless classic"[^ref-7] |
+| TheGamer | 4/5 | Describes the Global Labor Pool as taking over from the Zeus design ("there was so much that Zeus did better than Pharaoh"); the original recruiter mechanic can still be used[^ref-25] |
+| EIP Gaming | 8.0/10 | "Challenging, well-presented" with accessibility tweaks[^ref-26] |
+| MP1st | 8/10 | Faithful remake with a cleaner UI, Cleopatra expansion included[^ref-27] |
+| WayTooManyGames | 7.0/10 | Gameplay "slow-paced as hell, but intuitive"; "surprisingly good voice acting"[^ref-28] |
+| Third Coast Review | No score | Campaign includes Cleopatra expansion missions, plus a sandbox mode[^ref-29] |
 | NPR | No score | "Still a rewarding city-builder" despite bugs and mobile-game-like graphics[^ref-8] |
 
 Rock Paper Shotgun called the optional global worker pool the most significant change, and praised the redrawn art and the recreated soundtrack. It added that the game lacks the complexity of modern city builders[^ref-3]. Shacknews praised the "gorgeous revamp of visuals" and the "neat tweaks and updates to mechanics", but said some archaic elements can make things difficult[^ref-4]. Gamepressure welcomed the option to disable recruiters and noted that the game explains its rules to newcomers more visually. It criticised parts of the interface and the slow camera[^ref-7].
+
+TheGamer's Meg Pelliccio scored it 4/5, EIP Gaming gave it 8.0 and MP1st 8/10, while WayTooManyGames was cooler at 7.0[^ref-25][^ref-26][^ref-27][^ref-28]. Gamepressure's launch-week roundup lists the early scores from EIP Gaming, GameGrin, Gaming Nexus, TheGamer, Shacknews, The Games Machine and Gameblog, ranging from 7.8/10 to 9/10[^ref-30].
 
 NPR's review was more critical. It reported bugs, including invading armies that sometimes failed to appear after warnings, and said the updated graphics at times looked more like a modern mobile game than a tribute to the original's pixel art. Even so, it called the game "still a rewarding city-builder"[^ref-8].
 
@@ -89,6 +96,10 @@ The game is sold DRM-free on GOG.com[^ref-9] and on Steam[^ref-5]. MobyGames lis
 - **Rock Paper Shotgun:** "Definitive version" recommendation (no numeric score)[^ref-3]
 - **Shacknews:** 8/10, "Excellent spin on a classic"[^ref-4]
 - **Gamepressure:** 8.5/10, "Splendid opportunity to rediscover this timeless classic"[^ref-7]
+- **TheGamer:** 4/5[^ref-25]
+- **EIP Gaming:** 8.0/10[^ref-26]
+- **MP1st:** 8/10[^ref-27]
+- **WayTooManyGames:** 7.0/10[^ref-28]
 - **Steam (user reviews):** "Mostly Positive", 75% of about 2,500 English-language reviews as of October 2026[^ref-5]
 
 ## Development
@@ -160,3 +171,9 @@ Reviewers praised the art for staying faithful to the original. Gamepressure sai
 [^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – "First released: Feb 15, 2023 | PC"
 [^ref-23]: [MobyGames – Pharaoh: A New Era credits (Windows)](https://www.mobygames.com/game/199619/pharaoh-a-new-era/credits/windows/) – Full credits: creative director, support studios, music (Godart, Zizza, Beckett), Unity
 [^ref-24]: [Cosmocover – Pharaoh: A New Era Recreates Classic City Builder's Soundtrack (press release, Dec 2, 2021)](https://cosmocover.com/newsroom/pharaoh-a-new-era-recreates-classic-city-builders-soundtrack-with-new-rearrangements-historically-accurate-instruments-in-behind-the-scenes-video) – Dotemu/Triskell press release: all-new code, 4K 2D graphics, editor, Zizza consultation
+[^ref-25]: [TheGamer – Pharaoh: A New Era Review (Meg Pelliccio, Feb 15, 2023)](https://www.thegamer.com/pharaoh-a-new-era-review/) – Score 4/5; Global Labor Pool replaces reliance on recruiters, original recruiter mechanic still usable; Zeus comparison
+[^ref-26]: [EIP Gaming – Pharaoh: A New Era Review (Malcolm Schmitz, Feb 15, 2023)](https://eip.gg/reviews/pharaoh-a-new-era/) – 8.0/10
+[^ref-27]: [MP1st – Pharaoh: A New Era Review – Build Like an Egyptian (Vitor Braz, Feb 16, 2023)](https://mp1st.com/reviews/pharaoh-a-new-era-review-build-like-an-egyptian) – Score 8/10; Cleopatra expansion included
+[^ref-28]: [WayTooManyGames – Review: Pharaoh: A New Era (Leo Faria, Feb 14, 2023)](https://waytoomany.games/2023/02/14/review-pharaoh-a-new-era/) – Final verdict 7.0; Gameplay 8.0, Sound 8.5
+[^ref-29]: [Third Coast Review – A Beloved Classic Returns With Pharaoh: A New Era (Antal Bokor, Feb 15, 2023)](https://thirdcoastreview.com/2023/02/15/review-a-beloved-classic-returns-with-pharaoh-a-new-era) – Campaign includes missions originally only in the Cleopatra expansion; sandbox mode
+[^ref-30]: [Gamepressure – Pharaoh: A New Era first reviews roundup](https://www.gamepressure.com/newsroom/pharaoh-a-new-era-in-first-reviews/z250f7) – Launch-week scores: EIP 8/10, GameGrin 9/10, Gaming Nexus 8/10, TheGamer 4/5, Shacknews 8/10, The Games Machine 7.8/10, Gameblog 8/10
