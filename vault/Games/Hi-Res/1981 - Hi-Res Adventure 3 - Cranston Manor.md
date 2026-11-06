@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
-  game released in 1981 by On-Line Systems, the company that would later become Sierra...'
+  game released in 1981 by On-Line Systems, the company that would later become Sierra On-Line.'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -68,7 +68,7 @@ The manual warns that Cranston Manor "is not a game that will be solved at one s
 
 ### Contemporary Reviews
 
-*Softalk* reviewed the game in its September 1981 issue. It judged the game "an able job of adventure devising; but it lacks the plot and purpose we've come to expect and enjoy in On-Line adventures," attributing those qualities to Roberta Williams, yet concluded that "Cranston Manor is much fun to play"[^ref-31]. The same issue's bestseller report, covering July 1981, noted that "On-Line snared another spot in the top ten with Hi-Res Adventure #3: Cranston Manor"[^ref-31].
+*Softalk* reviewed the game in its September 1981 issue. It judged the game "an able job of adventure devising; but it lacks the plot and purpose we've come to expect and enjoy in On-Line adventures," attributing those qualities to Roberta Williams, yet concluded that "Cranston Manor is much fun to play"[^ref-31]. The same issue's bestseller report, covering July 1981, noted that "On-Line snared another spot in the top ten with Hi-Res Adventure #3: Cranston Manor"[^ref-31]. The October 1981 issue's bestseller report listed it first on its Adventure chart and third in the overall Top Thirty, remarking that "Cranston Manor proved its heritage as an On-Line offspring by joining VisiCalc and Gorgon ahead of the fallen monarch" (Raster Blaster)[^ref-40]. In November 1981 it was still on the Adventure chart, and the report said Raster Blaster had overtaken "Hi-Res Adventure #3: Cranston Manor and Gorgon" in the Top Thirty[^ref-41].
 
 ### Modern Assessment
 
@@ -87,7 +87,7 @@ Roberta Williams was not involved[^ref-2]. *Softalk* reported that she was "spen
 
 ### Production
 
-The game was published from On-Line Systems' base in Coarsegold, California, and was credited to Harold DeWitz and Ken Williams[^ref-32][^ref-31]. It was built with the Adventure Development Language (ADL), Ken Williams's engine for the Hi-Res Adventure series[^ref-2][^ref-37]. The box cover art is credited to Duke Haubelt[^ref-35].
+The game was published from On-Line Systems' base in Coarsegold, California, and was credited to Harold DeWitz and Ken Williams[^ref-32][^ref-31]. It was built with the Adventure Development Language (ADL), Ken Williams's engine for the Hi-Res Adventure series[^ref-2][^ref-37]. The box cover art is credited to Duke Haubelt[^ref-35]. An On-Line Systems advertisement in *Softalk*'s August 1981 issue billed the game as "set in contemporary times in Coarsegold" with "over 200 pictures in living Hi-Res Color", and named Harold DeWitz as its author[^ref-42].
 
 **Development Credits:**[^ref-35]
 - **Designers:** Harold DeWitz, Ken Williams
@@ -98,8 +98,8 @@ The game was published from On-Line Systems' base in Coarsegold, California, and
 
 **Apple II Version:**
 - **Media:** One 5 1/4 inch floppy disk[^ref-10]
-- **Requirements:** 48K; DOS 3.2 or 3.3[^ref-32][^ref-10][^ref-6]
-- **Price:** $34.95[^ref-32][^ref-31]
+- **Requirements:** 48K; DOS 3.2 or 3.3[^ref-32][^ref-10][^ref-6][^ref-42]
+- **Price:** $34.95[^ref-32][^ref-31][^ref-42]
 - **Sound:** None[^ref-4][^ref-36]
 
 ### Version History
@@ -109,7 +109,7 @@ The game was published from On-Line Systems' base in Coarsegold, California, and
 | Original | 1981 | Apple II | Released in a black and white On-Line Systems folder[^ref-2] |
 | Reissue | Undated | Apple II | Same folder in colour[^ref-2] |
 | SierraVenture | Undated | Apple II | Re-released as a SierraVenture title in a large folder[^ref-2] |
-| Japanese | 1983 | FM-7 | Published by StarCraft, Inc.[^ref-3] |
+| Japanese | 1983 | FM-7 | Published by StarCraft, Inc.; listed at ¥12,800 on 5-inch disks in *LOGiN*, November 1983[^ref-3][^ref-43] |
 | Japanese | October 1983 | PC-88 | Published by StarCraft, Inc.[^ref-3] |
 | Japanese | October 1983 | PC-98 | Published by StarCraft, Inc.[^ref-3] |
 
@@ -127,7 +127,7 @@ The re-release dates are not recorded in the sources consulted.
 
 ### Sales and Commercial Impact
 
-Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July 1981[^ref-31]. Wikipedia's Sierra history lists it among the Hi-Res Adventures of 1981 and 1982, before *King's Quest* launched in mid-1984[^ref-8]. Japanese versions for the FM-7, PC-88 and PC-98 followed in 1983[^ref-3].
+Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July 1981[^ref-31]. Wikipedia's Sierra history lists it among the Hi-Res Adventures of 1981 and 1982, before *King's Quest* launched in mid-1984[^ref-8]. Japanese versions for the FM-7, PC-88 and PC-98 followed in 1983[^ref-3]. The Japanese magazine *LOGiN* (November 1983) covered the FM-7 edition in its new-software pages, giving the price as ¥12,800 and the publisher as StarCraft. Paraphrased from the Japanese, its reviewer says the game was originally an Apple adventure made by Sierra On-Line, that this is a port, and that its finish as a game is, if anything, better than the Apple version's; the page also describes sixteen treasures hidden in the mansion[^ref-43].
 
 ### Preservation
 
@@ -193,3 +193,7 @@ Cranston Manor is a minor but telling entry in Sierra's history. It was the firs
 [^ref-37]: [ScummVM Wiki – ADL (Wayback Machine, 2025-01-01)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'", created by Ken Williams; lists Hi-Res Adventure #3 Cranston Manor (1981), #4 Ulysses (1981), #5 Time Zone (1982)
 [^ref-38]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – "a multi-disk graphical adventure game written and directed by Roberta Williams", released 1982; travel through time meeting historical figures
 [^ref-39]: [Wikipedia – List of Hi-Res Adventures video games](https://en.wikipedia.org/wiki/List_of_Hi-Res_Adventures_video_games) – "Hi-Res Adventure #4 - Ulysses and the Golden Fleece (1981)"; "Hi-Res Adventure #5 - Time Zone (1982)"
+[^ref-40]: [Softalk, October 1981 (Vol. 2 No. 2)](https://archive.org/details/softalkv2n02oct1981) – bestseller report: Adventure chart, Top Thirty, "proved its heritage as an On-Line offspring"
+[^ref-41]: [Softalk, November 1981 (Vol. 2 No. 3)](https://archive.org/details/softalkv2n03nov1981) – bestseller report: Adventure chart; Raster Blaster "overtaking Hi-Res Adventure #3: Cranston Manor and Gorgon"
+[^ref-42]: [Softalk, August 1981 (Vol. 1 No. 12)](https://archive.org/details/softalkv1n12aug1981) – On-Line Systems advertisement (not editorial): $34.95, 48K, DOS 3.2 or 3.3, synopsis, "over 200 pictures"
+[^ref-43]: [LOGiN, November 1983, p. 14](https://archive.org/details/login-november-1983) – Japanese magazine new-software page: FM-7, StarCraft, ¥12,800 (5D); read from the page image; English paraphrase by SierraVault
