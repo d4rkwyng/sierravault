@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 composer: [Brandon Blume, Paul Korman, Ryan Grogan]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel set at Hero University,
   designed by Lori Ann Cole and Corey Cole and released by Transolar Games on March
@@ -19,16 +19,16 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 
 ## Overview
 
 *Summer Daze: Tilly's Tale* is a visual novel adventure game developed and published by Transolar Games, released on March 28, 2023 for PC platforms and June 15, 2023 for Nintendo Switch[^ref-1][^ref-2]. Created by legendary adventure game designers [[Lori Ann Cole]] and [[Corey Cole]]—the husband-and-wife team behind Sierra On-Line's acclaimed *Quest for Glory* series—the game represents their return to more modestly scaled game development following the financially challenging production of *Hero-U: Rogue to Redemption*[^ref-3][^ref-4].
 
-The game is set before the events of *Hero-U: Rogue to Redemption*[^ref-12] and has been called an "airy spiritual sequel" to it[^ref-6]. It takes place at Hero University, "a school where famous adventurers teach young people how to be heroes"[^ref-1]. Players take on the role of Tilly Appleberry, a mischievous Rogue student who values people and fun above rules and authority[^ref-1][^ref-2]. The Coles deliberately chose the visual novel format to create a more accessible, lower-budget project after losing money on their previous large-scale RPG[^ref-3].
+The game is set before the events of *Hero-U: Rogue to Redemption*[^ref-12] and has been called an "airy spiritual sequel" to it[^ref-6]. It takes place at Hero University, "a school where famous adventurers teach young people how to be heroes"[^ref-1]. Players take on the role of Tilly Appleberry, a mischievous Rogue student who values people and fun above rules and authority[^ref-1][^ref-2]. The Coles deliberately chose the visual novel format to create a lower-budget project after losing money on their previous large-scale RPG[^ref-3].
 
-Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The project took four years to complete, a delay that Choicest Games' reviewer noted came at a time when many studios struggled with development during COVID-19[^ref-8]. As the Coles explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3].
+Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The project took four years to complete, a delay that Choicest Games' reviewer noted came at a time when many studios struggled with development during COVID-19[^ref-8]. As the Coles explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3][^ref-20].
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
@@ -45,7 +45,7 @@ Billed by its store description as "a funny and charming visual novel adventure"
 
 *Summer Daze: Tilly's Tale* follows Tilly Appleberry, the adopted daughter of the Healer of Spielburg—a location fans will recognize from the original *Quest for Glory* games[^ref-3]. Tilly is a Rogue student at Hero University, a school where famous adventurers teach young people how to be heroes[^ref-1]. Unlike the typical hero-in-training, Tilly values having fun and connecting with people over following rules and respecting authority figures[^ref-1].
 
-Facing expulsion after a prank, Tilly has two weeks to organize a successful Harvest Festival at Hero-U[^ref-3][^ref-8]. Players must help Tilly navigate her relationships with various quirky characters while using her wit, charm, and rogueish skills to make the upcoming festival a success[^ref-2][^ref-11]. The focus is squarely on the story and the fantasy characters she meets, among them Mooella, a self-conscious minotaur paladin, and Sitari, a shy katta bard[^ref-3], as well as a "Doggie Chef" and other potential friends and love interests[^ref-1][^ref-11].
+Facing expulsion after a prank, Tilly has two weeks to organize a successful Harvest Festival at Hero-U[^ref-3][^ref-8]. The Coles describe the festival as her punishment for a prank on the Headmaster[^ref-20]. Players must help Tilly navigate her relationships with various quirky characters while using her wit, charm, and rogueish skills to make the upcoming festival a success[^ref-2][^ref-11]. The focus is squarely on the story and the fantasy characters she meets, among them Mooella, a self-conscious minotaur paladin, and Sitari, a shy katta bard[^ref-3], as well as a "Doggie Chef" and other potential friends and love interests[^ref-1][^ref-11].
 
 As a visual novel, the narrative is shaped by player choices, with multiple endings and "hundreds of paths through the game"[^ref-1]. Before release, the project was described as featuring 23 characters and 25 locations at Hero-U[^ref-7]. [[Corey Cole]] called it "the opposite of a high stakes, stressful game"[^ref-6], and the store description bills it as suitable for all ages[^ref-1].
 
@@ -65,7 +65,7 @@ The game follows a semester at Hero University over a series of days, with class
 - **Mid Game:** Tilly navigates social situations and festival preparations
 - **Endgame:** The Harvest Festival itself, with outcomes determined by choices made throughout
 
-A single playthrough is short: Adventure Game Hotspot's reviewer finished his first run in less than an hour[^ref-3], and the Adventure Gamer blog called it "a fun way to spend a couple of hours"[^ref-6]. The game is designed to be replayed to discover different paths and endings[^ref-1][^ref-3].
+A single playthrough is short: Adventure Game Hotspot's reviewer finished his first run in less than an hour[^ref-3], and the Adventure Gamer blog called it "a fun way to spend a couple of hours"[^ref-6]. The game is designed to be replayed to discover different paths and endings[^ref-1][^ref-3]. Steam user reviewers also call it short; one reports finishing it in roughly 2 hours (user reports only)[^ref-23].
 
 ### Puzzles and Mechanics
 
@@ -74,7 +74,7 @@ Unlike traditional adventure games from the Coles' *Quest for Glory* series, *Ti
 The game includes:
 - **Choice-based narrative:** Player decisions affect which characters Tilly befriends and the ultimate ending[^ref-1]
 - **Multiple paths:** Hundreds of narrative branches provide replay value[^ref-1]
-- **Card minigame:** An optional, easily missed card game, which Hotspot called the closest thing the game has to a puzzle[^ref-3][^ref-6]
+- **Card minigame:** An easily missed card game, which Hotspot called the closest thing the game has to a puzzle[^ref-3][^ref-6]
 
 ## Reception
 
@@ -99,15 +99,15 @@ Steam user reviews show a "Mixed" rating, with 69% of 13 reviews being positive[
 
 ### Origins
 
-Following the release of *Hero-U: Rogue to Redemption* in 2018, [[Lori Ann Cole]] and [[Corey Cole]] found it "hard to consider committing to another large-scale game" after the financial losses they experienced[^ref-3]. The couple, who had been designing games together for over 30 years at Sierra On-Line and later at their independent studio Transolar Games, sought a more sustainable approach to game development[^ref-1][^ref-5].
+Following the release of *Hero-U: Rogue to Redemption* on July 10, 2018, a project whose total budget exceeded $1 million as of April 2018[^ref-22], [[Lori Ann Cole]] and [[Corey Cole]] found it "hard to consider committing to another large-scale game" after the financial losses they experienced[^ref-3]. The couple, who had been designing games together for over 30 years at Sierra On-Line and later at their independent studio Transolar Games, sought a more sustainable approach to game development[^ref-1][^ref-5].
 
-The project was originally conceived as *Summer Daze at Hero-U*, featuring two playable characters: a rogue named Tilly and a wizard named Ifeyo[^ref-7][^ref-8]. Due to the scope of development and various delays, the project was split into two separate games, with *Tilly's Tale* releasing first and *Ifeyo's Adventure* planned for later release[^ref-7][^ref-8].
+The project was originally conceived as *Summer Daze at Hero-U*, featuring two playable characters: a rogue named Tilly and a wizard named Ifeyo[^ref-7][^ref-8]. Due to the scope of development and various delays, the project was split into two separate games, with *Tilly's Tale* releasing first and *Ifeyo's Adventure* planned for later release[^ref-7][^ref-8]. The Coles have also named a third game, *Summer Daze: Sami's Story*, featuring Sami, a humanoid Corgi warrior[^ref-20][^ref-21].
 
 ### Production
 
 The Kickstarter campaign launched in 2019 and was successfully funded on November 6, 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
 
-Development took four years[^ref-8]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
+Development took four years[^ref-8], although the Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 
 **Development Credits:**[^ref-5][^ref-1]
 - **Designer:** [[Lori Ann Cole]], [[Corey Cole]]
@@ -215,7 +215,7 @@ With two critic reviews listed on Metacritic[^ref-15] and 13 Steam user reviews[
 
 ### Planned Sequels
 
-The game is described as "the first game in a new series of interactive visual novels set at Hero-U"[^ref-1][^ref-12]. *Ifeyo's Adventure*, featuring the wizard character originally planned for this game, was announced as the next installment[^ref-7][^ref-8].
+The game is described as "the first game in a new series of interactive visual novels set at Hero-U"[^ref-1][^ref-12]. *Ifeyo's Adventure*, featuring the wizard character originally planned for this game, was announced as the next installment[^ref-7][^ref-8]. The Hero-U site lists Ifeyo, a Wizard Apprentice, and Sami as protagonists of the Summer Daze series, each assigned to organize the Harvest Festival[^ref-21].
 
 ### Related Publications
 
@@ -276,3 +276,7 @@ Jimmy Maher of The Digital Antiquarian, writing about the Coles' return to game-
 [^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – Player Score 62/100 from 21 reviews (checked October 14, 2026)
 [^ref-17]: [RPGFan – Cole Interview](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-1/) – five-game Hero-U series plan, development approach quote
 [^ref-19]: [IsThereAnyDeal – Summer Daze: Tilly's Tale](https://isthereanydeal.com/game/summer-daze-tillys-tale/info/) – last Steam update 03 Jun 2026 (public branch), checked October 14, 2026
+[^ref-20]: [RPGFan – Cole Interview, Part 2](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-2/) – "strip out many of the more costly and time-consuming parts", Lori wrote the game "in under a year", prank on the Headmaster and harvest festival as punishment, Ifeyo's Adventure and Sami's Story planned
+[^ref-21]: [Hero-U – Official site](https://www.hero-u.com) – Summer Daze description, Ifeyo and Sami character blurbs
+[^ref-22]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) – commercial release July 10, 2018; total budget exceeded $1 million as of April 2018 (Hero-U context only)
+[^ref-23]: [Steam Community – Summer Daze: Tilly's Tale user reviews](https://steamcommunity.com/app/1139490/reviews/) – user reports only, not editorial; one reviewer completed the game in roughly 2 hours (checked November 6, 2026)
