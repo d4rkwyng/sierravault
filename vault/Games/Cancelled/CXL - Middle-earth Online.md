@@ -10,14 +10,14 @@ series: The Lord of the Rings
 engine: The Realm Online server code (planned)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: Middle-earth Online (also known as MEO) was Sierra On-Line's cancelled massively multiplayer
   online role-playing game based on J.R.R. Tolkien's Middle-earth, begun in 1998 and later...
 tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle-earth Online
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,7 @@ The original Sierra vision placed players in a world where the consequences of t
 
 ### Turbine's later version (2003–2005)
 
-Turbine's version, announced by VU Games in 2003, was a different design.[^ref-8] IGN's 2003 preview described it as set in the middle of the Third Age, with the Fellowship having just escaped Moria; players would never meet the heroes directly but would hear of them through NPCs such as Farmer Maggot.[^ref-9] Fans discussed this new version on forums in early 2004.[^ref-14]
+Turbine's version, announced by VU Games in 2003, was a different design.[^ref-8] IGN's 2003 preview described it as set in the middle of the Third Age, with the Fellowship having just escaped Moria; players would never meet the heroes directly but would hear of them through NPCs such as Farmer Maggot.[^ref-9] Fans discussed this new version on forums in early 2004.[^ref-14] GameSpot had reported on 23 September 2002 that Vivendi planned a Lord of the Rings: Middle-earth Online massively multiplayer game, noting that the earlier Sierra project had been announced in 1998 and that Sierra had closed the original studio working on it.[^ref-24]
 
 ## Gameplay
 
@@ -94,13 +94,17 @@ When The Lord of the Rings Online finally launched in 2007 under Turbine's devel
 
 ### Origins
 
-In 1997, Sierra's Craig Alexander looked at the moderate success of The Realm Online and wondered how a similar game might do with a powerhouse license behind it; the idea of licensing Tolkien's works followed.[^ref-3] Sierra On-Line obtained the license in 1998, and development was assigned to Yosemite Entertainment.[^ref-1] Yosemite, part of Sierra, announced in the first half of 1998 that it had acquired the rights to make a massively multiplayer version of Tolkien's world; Humans, Elves, Hobbits and Dwarves were to be playable races, with a character system based on skills and levels.[^ref-19] Doing it right was expected to cost over $5 million, a massive sum for an unproven genre at the time.[^ref-3]
+In 1997, Sierra's Craig Alexander looked at the moderate success of The Realm Online and wondered how a similar game might do with a powerhouse license behind it; the idea of licensing Tolkien's works followed.[^ref-3] Sierra On-Line obtained the license in 1998, and development was assigned to Yosemite Entertainment.[^ref-1] Yosemite, part of Sierra, announced in the first half of 1998 that it had acquired the rights to make a massively multiplayer version of Tolkien's world; Humans, Elves, Hobbits and Dwarves were to be playable races, with a character system based on skills and levels.[^ref-19] Doing it right was expected to cost over $5 million, a massive sum for an unproven genre at the time.[^ref-3] In an RPG Vault interview dated 23 July 1998, Yosemite said it had completed negotiations with Tolkien Enterprises for the interactive licence, which it described as multi-year and multi-product, with single-player games also planned alongside the massively multiplayer one.[^ref-20] The team then numbered about 20, with a stated aim of growing to about 40; the key people named were Steve Nichols (Lead Designer and System Architect), Janus Anderson (Assistant Designer) and Mark Zechiel (Project Manager).[^ref-20]
 
 Sierra FX launched an introductory website for Middle-earth Online on what they described as the shared birthday of Bilbo and Frodo Baggins.[^ref-7] The website was designed as a "living atlas" providing story background and geographical information from Middle-earth, rather than a typical game site focused on features and screenshots.[^ref-7] Daniel James, writer on the project, stated that "in time, the site will feature extensively the game's art—which is presently under wraps—and material direct from the world and its players."[^ref-7]
 
 ### Production
 
 The game began in 1998 and was optimistically slated for a 2000 release, but it faced massive layoffs and a studio relocation the following year as Sierra On-Line was sold to Vivendi; by all accounts the project also suffered from a lack of management.[^ref-3] After the project moved from California to Washington in 1999, little was heard from the new team aside from legal issues surrounding the license.[^ref-3]
+
+Contemporary reports give more detail on that break. TheOneRing.net, relaying a Xenite.org report, stated that in September 1999 Sierra, "under new management, fired the entire development team and started developing the massively multi-player online game over again," and that the new team "made no public statements."[^ref-22] In an RPG Vault interview of 24 August 2000, Sierra president David Grenewetzki said that "the original Middle Earth development team was released and a redesign and restaffing of the development team were announced around that time."[^ref-21] The same interview, which reported that Sierra was in legal action with The Saul Zaentz Company (doing business as Tolkien Enterprises) over that company's wish to withdraw the 1998 licence, places the dispute in 2000.[^ref-21] GameSpot later summarised that "a lawsuit in 2000 by Tolkien Enterprises put the fate of the game in doubt."[^ref-24]
+
+On 18 December 2000 TheOneRing.net reported, via Xenite.org, that GameSpot listed Sierra's Middle-earth game as cancelled. Xenite.org said it had been unable to confirm the report, and TheOneRing.net's headline that the rights were "likely to have reverted" to Tolkien Enterprises was inference, not a confirmed fact.[^ref-22] In a 2007 IGN retrospective, Janus Anderson called the Middle-earth Online "catastrophe" "only the first in a series of disasters (including years of litigation, if I remember correctly) that plagued the project from the start."[^ref-23]
 
 When EverQuest came out during development, some of Sierra's higher-ups thought MEO could benefit from adopting EverQuest's features, such as more emphasis on magic and many more Elves. The team resisted these changes.[^ref-3] Stephen Nichols later said he "resisted every attempt to change the game's vision into a world where Gandalf is a dime a dozen and hobbits are hurling fireballs."[^ref-3]
 
@@ -126,6 +130,7 @@ No contemporary source confirms target platforms or system requirements for the 
 Several defining features of the Sierra design did not carry forward into The Lord of the Rings Online, though programmer Joe Ludwig said some of the team's ideas did survive into Turbine's game:[^ref-3]
 
 - **Permanent Death:** Not part of The Lord of the Rings Online[^ref-3]
+- **Monster Play:** Survived; Daniel James said in 2007 he was "pleased that Monster Play made it in" to The Lord of the Rings Online[^ref-23]
 - **Limited Elven Population:** Part of the Sierra design only[^ref-3]
 - **Fourth Age sandbox setting:** Replaced by Turbine's Third Age "parallel journey" alongside the Fellowship[^ref-3][^ref-9]
 
@@ -225,3 +230,13 @@ Middle-earth Online was never released and is not available for purchase.
 [^ref-18]: [MMORPG.com – Middle-Earth Online Impressions](https://www.mmorpg.com/news/middle-earth-online-impressions-2000055532) – E3 preview of Turbine's version; Asheron's Call 2 engine, graphics
 
 [^ref-19]: [RPG Vault – Middle-earth Online Memories, Part 1 (June 2007, Wayback)](http://web.archive.org/web/20090220025338/http://rpgvault.ign.com:80/articles/795/795002p1.html) – interview with five core team members; 1998 Yosemite announcement, Fourth Age setting, playable races
+
+[^ref-20]: [RPG Vault – Middle Earth Interview (23 July 1998, Wayback)](https://web.archive.org/web/20090220025338/http://rpgvaultarchive.ign.com/features/interviews/middle-earth.shtml) – Yosemite/Tolkien Enterprises licence, multi-product licence, team size and key roles
+
+[^ref-21]: [RPG Vault – David Grenewetzki (Sierra) Tolkien License Interview (24 August 2000, Wayback)](https://web.archive.org/web/20090220025338/http://rpgvaultarchive.ign.com/features/interviews/sierratolkien.shtml) – team released and redesign announced; legal action with The Saul Zaentz Company
+
+[^ref-22]: [TheOneRing.net – Sierra's Middle-earth Online Game Cancelled (18 December 2000, Wayback)](https://web.archive.org/web/20210420154657/https://www.theonering.com/news/games/sierras-middle-earth-online-game-cancelled-rights-to-the-massively-multi-player-online-game-likely-to-have-reverted-to-tolkien-enterprises/) – September 1999 team firing, lawsuit, unconfirmed cancellation report
+
+[^ref-23]: [IGN – Middle-earth Online Memories, Part 3 (20 June 2007)](https://www.ign.com/articles/2007/06/20/middle-earth-online-memories-part-3) – Anderson on the "catastrophe" and litigation; Daniel James on Monster Play reaching LOTRO
+
+[^ref-24]: [GameSpot – LOTR Online RPG and RTS Announced (23 September 2002)](https://www.gamespot.com/articles/lotr-online-rpg-and-rts-announced/1100-2881265/) – Vivendi announcement; Sierra closed the original studio; 2000 Tolkien Enterprises lawsuit
