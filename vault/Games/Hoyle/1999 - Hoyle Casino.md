@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-05'
 description: Hoyle Casino 99 (catalogued by Sierra Chest as Hoyle Casino 3) is Sierra
   Attractions' 1998 virtual casino for Windows and Macintosh, with eight games of
   chance and a Practice Mode that flags bad bets.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -73,6 +73,10 @@ Owen W. Linzmayer reviewed the Macintosh version in MacAddict's June 1999 issue 
 
 MacAddict's demo-disc write-up, quoted by Classic Mac Demos, was warmer, calling it an "addictive virtual casino" with "great graphics and sound effects"[^ref-3].
 
+### Sales
+
+PC Data's US retail chart listed the game in spring 1999. The Russian magazine *Mega Game* printed PC Data's ranking for the last week of April 1999 with "Hoyle Casino 99" at No. 9[^ref-32], and the Lithuanian *Kiberzona* (issue 5/1999) printed a PC Data top ten with "Hoyle Casino'99 (Havas)" at No. 10[^ref-31]. Three magazines later reprinted PC Data's US chart with Hoyle Casino 99 at No. 7: *PC Gaming World* (October 1999)[^ref-33], *PC Player* (November 1999)[^ref-34] and *Strana Igr* (issue 18, September 1999)[^ref-35]. These autumn charts came after the next edition's September 20, 1999 release[^ref-23], so PC Data may have been counting that edition under the old name; they show only that the title was still charting, not which edition sold.
+
 ### Modern Assessment
 
 No modern critical reassessment of this edition specifically was found. Database entries for "Hoyle Casino" generally conflate the yearly editions, so their ratings are not reported here.
@@ -81,7 +85,7 @@ No modern critical reassessment of this edition specifically was found. Database
 
 ### Origins
 
-The Hoyle Casino series began in 1996 as a spin-off of *Hoyle's Official Book of Games*[^ref-10]. Sierra created the Sierra Attractions sub-brand in 1998 for casual games[^ref-17], and Hoyle Casino 99 was published under that label[^ref-5][^ref-22]. The Sierra Chest credits development to Sierra On-Line[^ref-22]. Its predecessor, the Hoyle Casino Sierra was selling in autumn 1998 (order number 70270, Windows 95 CD, $29.95), offered "seven interactive opponents in more than 50 game variations" and online Blackjack and Poker[^ref-27]; the new edition raised that to ten characters and "over 100" games and variations[^ref-26].
+The Hoyle Casino series began in 1996 as a spin-off of *Hoyle's Official Book of Games*[^ref-10]. Sierra created the Sierra Attractions sub-brand in 1998 for casual games[^ref-17], and Hoyle Casino 99 was published under that label[^ref-5][^ref-22]. The Sierra Chest credits development to Sierra On-Line[^ref-22]. Its predecessor, the previous Hoyle Casino that Sierra was still selling in autumn 1998 (order number 70270, Windows 95 CD, $29.95), offered "seven interactive opponents in more than 50 game variations" and online Blackjack and Poker[^ref-27]; the new edition raised that to ten characters and "over 100" games and variations[^ref-26].
 
 Sierra's *InterAction* magazine named Steve Van Horn as "executive producer of the new Hoyle Casino." He said the aim was to heighten the Las Vegas-style experience: "This time around, we've rendered all the games in perspective 3D, including the cards and dealer's hands." On the new teaching features, Van Horn explained that "Our focus groups pointed out the importance of providing tutorials and strategy guidance to the player"[^ref-26]. No other individual design or production credits for this edition were found in the sources consulted.
 
@@ -101,11 +105,13 @@ Hidden Palace catalogues a prototype disc it names *Hoyle Casino '99* (build nam
 - **UPC:** 0-20626-70725-1
 - **Contents:** game manual, plus playable demos of Acrophobia, After Dark Games, Caesar III, Head Rush!, Hoyle Board Games 2 and Hoyle Card Games 2
 
+The Internet Archive's catalogue record for the retail package (Bellevue, WA: Sierra Attractions, 1998; Windows 95/98 and Macintosh) describes "100 variations of 8 casino-style games" and lists Video Poker, Blackjack, Slots, Keno, Craps, Poker, Roulette and Pai Gow Poker; this is catalogue metadata only, as the scan itself is not openly readable[^ref-39].
+
 Macintosh Repository lists its copy of *Hoyle Casino '99* as a 1998 PowerPC release and suggests the SheepShaver emulator for running it today[^ref-25].
 
 ### Demo Versions
 
-The Sierra Chest lists a 31.2 MB PC demo in which only Slots and Blackjack can be played, with the Monsters, Bug Out, Sports and Safari slot machines[^ref-24]. Classic Mac Demos hosts the Macintosh demo (Hoyle Casino Demo.sit, 25.77 MB) and lists it on cover discs including MacAddict Issue 033 and Macworld July 1999[^ref-3]. MacAddict #33 (May 1999) listed the "Hoyle Casino '99 Demo" on its disc page, inviting players to "Take a stroll into any gambling section on the floor—blackjack, poker, craps, slot machines, video poker, and roulette," with card tables featuring "a variety of animated dealers"[^ref-29].
+The Sierra Chest lists a 31.2 MB PC demo in which only Slots and Blackjack can be played, with the Monsters, Bug Out, Sports and Safari slot machines[^ref-24]. Classic Mac Demos hosts the Macintosh demo (Hoyle Casino Demo.sit, 25.77 MB) and lists it on cover discs including MacAddict Issue 033 and Macworld July 1999[^ref-3]. MacAddict #33 (May 1999) listed the "Hoyle Casino '99 Demo" on its disc page, inviting players to "Take a stroll into any gambling section on the floor—blackjack, poker, craps, slot machines, video poker, and roulette," with card tables featuring "a variety of animated dealers"[^ref-29]. Cover-disc listings show the demo also circulated outside the US: the German *PC Games* listed "Hoyle Casino 99" among its January 1999 demos[^ref-36], the Polish *PC Games CD* described a "Hoyle Casino'99" demo on its January 1999 disc[^ref-38], and the Australian *APC* listed it on its May 1999 cover CDs[^ref-37].
 
 ### Version History
 
@@ -133,7 +139,6 @@ The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first re
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [Macintosh Repository – Hoyle Casino '99](https://www.macintoshrepository.org/9589-hoyle-casino-99) (Mac installer)[^ref-25]
@@ -217,3 +222,12 @@ The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first re
 [^ref-28]: [InterAction (Sierra On-Line), Summer 1998 – "Movies According to Hoyle" promotion](https://archive.org/details/InterAction_Magazine_Summer_1998_1998_Sierra_On-Line_US) — "Sierra Attractions titles include: Hoyle Classic Board Games, Hoyle Classic Card Games, Hoyle Casino…"
 [^ref-29]: [MacAddict #33 (May 1999) – cover disc page](https://archive.org/details/MacAddict-033-199905) — "Hoyle Casino '99 Demo": blackjack, poker, craps, slot machines, video poker, roulette; "a variety of animated dealers"
 [^ref-30]: [The Sierra Chest – Hoyle Casino 3: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=800&title=hoyle-casino-3&fld=box) — PC/MAC CD-ROM, US, version 1.0, large fliptop box with flap; UPC 0-20626-70725-1; game manual; included playable demos
+[^ref-31]: [Kiberzona 1999 No. 5 (Internet Archive)](https://archive.org/details/kiberzona-1999-05) — Lithuanian magazine; PC Data top ten, "10. Hoyle Casino'99 (Havas)"
+[^ref-32]: [Mega Game, July 1999 (Internet Archive)](https://archive.org/details/MegaGame19990707) — Russian magazine; PC Data US ranking for the last week of April, "9. Hoyle Casino 99"
+[^ref-33]: [PC Gaming World #34, October 1999 (Internet Archive)](https://archive.org/details/pc-gaming-world-issue-34-october-1999) — "US – official US chart data from PC Data": Hoyle Casino 99 seventh; autumn chart, may count the next edition
+[^ref-34]: [PC Player, November 1999 (Internet Archive)](https://archive.org/details/PC-Player-German-Magazine-1999-11) — German magazine; USA charts, Hoyle Casino 99 (Sierra/Havas Interactive) seventh; autumn chart, may count the next edition
+[^ref-35]: [Strana Igr 1999 No. 18 (Internet Archive)](https://archive.org/details/Game_Land_1999-18-51) — Russian magazine; US PC chart, "7. Hoyle Casino 99, Havas Interactive"; autumn chart, may count the next edition
+[^ref-36]: [PC Games 01/1999 (Internet Archive)](https://archive.org/details/pc-games-1999-01) — German magazine; cover-CD demo list includes "Hoyle Casino 99"
+[^ref-37]: [APC, May 1999 (Internet Archive)](https://archive.org/details/apc199905) — Australian magazine; "This month on APC's cover CDs", GAMEZONE section includes "Hoyle Casino 99"
+[^ref-38]: [PC Games CD 01/1999 (Internet Archive)](https://archive.org/details/pcgamescd19991) — Polish magazine disc; "Spróbuj swoich sił w Hoyle Casino'99"
+[^ref-39]: [Internet Archive – Hoyle casino (Sierra Attractions, 1998), catalogue record](https://archive.org/details/hoylecasino00sier) — "100 variations of 8 casino-style games"; Windows 95/98 and Macintosh; metadata only
