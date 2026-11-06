@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Miami Solitaire is a 2006 Windows solitaire compilation developed
   and published by Encore Software under the Hoyle brand, offering 55 solitaire games
   in a 1920s Art Deco Miami setting.
@@ -18,20 +18,20 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Hoyle Miami Solitaire is a solitaire compilation for Windows PCs, developed and published by Encore Software under the Hoyle brand [^ref-1][^ref-2][^ref-10][^ref-27]. GameFAQs gives its release date as November 15, 2006 [^ref-1], and Gamezebo's review of the game was published on November 17, 2006 [^ref-5]. The game wraps its card play in the Art Deco Jazz Age of Miami [^ref-5], and an Australian retailer's product listing advertises "55 Favourites Played in an Exciting 1920's Storyline" [^ref-3]. The game was also sold as *Hoyle South Beach Solitaire*: the ESRB rated it under that title for Windows PC with Encore Software as publisher [^ref-25], GameFAQs lists the name as a European alternate title [^ref-1], and MobyGames records a 2007 United Kingdom release under that name by Greenstreet Software [^ref-12][^ref-23].
+Hoyle Miami Solitaire is a solitaire compilation for Windows PCs, developed and published by Encore Software under the Hoyle brand [^ref-1][^ref-2][^ref-10][^ref-27]. GameFAQs and Metacritic give its release date as November 15, 2006 [^ref-1][^ref-31], and Gamezebo's review of the game was published on November 17, 2006 [^ref-5]. The game wraps its card play in the Art Deco Jazz Age of Miami [^ref-5], and an Australian retailer's product listing advertises "55 Favourites Played in an Exciting 1920's Storyline" [^ref-3]. The game was also sold as *Hoyle South Beach Solitaire*: the ESRB rated it under that title for Windows PC with Encore Software as publisher [^ref-25], GameFAQs lists the name as a European alternate title [^ref-1], and MobyGames records a 2007 United Kingdom release under that name by Greenstreet Software [^ref-12][^ref-23].
 
-The collection offers 55 solitaire games, including four new and exclusive Hoyle games, split between a Quick Play mode and a Story mode of 100 tournament levels [^ref-3][^ref-28]. In Story mode, host John Carlisle Dunsworthy guides the player through the annual Miami Beach Solitaire Invitational, and winnings are spent decorating a mansion at Key Biscayne [^ref-5].
+The collection offers 55 solitaire games, including four new and exclusive bonus games, split between a Quick Play mode and a Story mode of more than 100 levels [^ref-30][^ref-28]. In Story mode, host John Carlisle Dunsworthy guides the player through the annual Miami Beach Solitaire Invitational, and winnings are spent decorating a mansion at Key Biscayne [^ref-5].
 
 The Hoyle series began in 1989 with Sierra On-Line, which initially developed and published it; Encore Software took over publishing the series from 2005 to 2016, so Hoyle Miami Solitaire belongs to the Encore era of the brand [^ref-13][^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
 > **Designer:** Glennis McClellan, Robert Coshland[^ref-24]
-> **Publisher:** Encore Software (North America)[^ref-1]; Mindscape (Australia, PAL)[^ref-3]; Greenstreet Software (UK, as Hoyle South Beach Solitaire)[^ref-12][^ref-23]
+> **Publisher:** Encore Software (North America)[^ref-1][^ref-30]; Mindscape (Australia, PAL)[^ref-3]; Greenstreet Software (UK, as Hoyle South Beach Solitaire)[^ref-12][^ref-23]
 > **Platforms:** PC (Windows)[^ref-1]
 > **Release Year:** 2006
 > **Series:** Hoyle
@@ -58,19 +58,21 @@ The game requires a keyboard and mouse [^ref-3], and MobyGames notes that the ga
 The game offers two modes of play, Quick Play and Story Mode [^ref-3][^ref-28]:
 
 - **Quick Play Mode:** Instant access to individual games; MobyGames notes that only about half a dozen are available at first, with all 55 unlocked through Story mode progress [^ref-12]
-- **Story Mode:** A progression through 100 levels of tournament play, tied to the 1920s Miami narrative and mansion-building [^ref-3][^ref-5]
+- **Story Mode:** A progression through more than 100 levels, tied to the 1920s Miami narrative and mansion-building [^ref-30][^ref-5]
 
 Progression unlocks 16 official Hoyle card backs and decorations for the mansion [^ref-3][^ref-5][^ref-28]. Fast play earns bonus points, hints and wild cards, and some later levels can be won on points before every card is cleared [^ref-5][^ref-12].
 
 ### Puzzles and Mechanics
 
-The collection includes 55 solitaire games, among them four new and exclusive Hoyle games [^ref-3]. Gamezebo named variants such as 3 Towers, Relaxed Golf and Dragonfly, ranging from pattern-matching layouts to building piles that come as close to 21 as possible [^ref-5]. Four hidden bonus games, including one called "The Mill," can be discovered [^ref-5].
+The collection includes 55 solitaire games, among them four new and exclusive bonus games [^ref-30]. Gamezebo named variants such as 3 Towers, Relaxed Golf and Dragonfly, ranging from pattern-matching layouts to building piles that come as close to 21 as possible [^ref-5]. Gamezebo also mentions four hidden bonus games, including one called "The Mill," that can be discovered [^ref-5].
 
 ## Reception
 
 ### Contemporary Reviews
 
 Documented contemporary coverage is thin. In a review published November 17, 2006, Gamezebo awarded the game 70/100, with reviewer Joel Brodie calling it "a collection of over 55 original diversions officially branded by the leading name in PC and tabletop playing card manufacturing" and saying "you won't find a classier, or more relaxing, casual amusement around" [^ref-5]. He criticized backdrops and characters as "a bit too static," wanted more play modes, and warned that players "will soon tire of scenarios which simply rehash existing challenges" [^ref-5]. He concluded that "Hoyle Miami Solitaire might not be the most awe-inspiring offering of its kind, but it does an excellent job of capturing both the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
+
+Gamezebo's 2008 game page rated it three and a half stars, listing "Art deco styling," "Huge assortment of games" and "Collectible mansion accessories" among its pros and "Rehashes certain challenges" and "Two play modes only" among its cons [^ref-32].
 
 The Australian retailer's product listing described the game as follows: "Hoyle puts a new twist on a classic favourite! Inspired by Miami's vibrant Art Deco and Latin styles, this solitaire game will mesmerise players of all levels!" [^ref-3].
 
@@ -90,11 +92,11 @@ The Hoyle series was initially developed and published by Sierra On-Line, beginn
 
 ### Production
 
-The game was developed and published by Encore Software [^ref-1][^ref-2][^ref-11]. MobyGames credits Robert Coshland as Sr. Producer and, with Glennis McClellan, for design and art; Dave Worle and Michael Worle for the story; and SomaTone Interactive Audio for original music and sound design [^ref-24]. The same credits list Dave Naney as Associate Producer, Donovan Miller for additional sound design, Andrew Simpson as QA Supervisor and Tiffany Findley as Hoyle Brand Manager, among 30 people credited [^ref-24]. Under the *Hoyle South Beach Solitaire* title the ESRB rated the game E (Everyone) with no content descriptors [^ref-25]. In Australia the game was distributed by Mindscape as a PAL release [^ref-3], and in the United Kingdom it was published in 2007 by Greenstreet Software as Hoyle South Beach Solitaire [^ref-12][^ref-23].
+The game was developed and published by Encore Software [^ref-1][^ref-2][^ref-11]. MobyGames credits Robert Coshland as Sr. Producer and, with Glennis McClellan, for design and art; Dave Worle and Michael Worle for the story; and SomaTone Interactive Audio for original music and sound design [^ref-24]. The same credits list Dave Naney as Associate Producer, Donovan Miller for additional sound design, Andrew Simpson as QA Supervisor and Tiffany Findley as Hoyle Brand Manager, among 29 named individuals plus SomaTone Interactive Audio [^ref-24]. Under the *Hoyle South Beach Solitaire* title the ESRB rated the game E (Everyone) with no content descriptors [^ref-25]. In Australia the game was distributed by Mindscape as a PAL release [^ref-3], and in the United Kingdom it was published in 2007 by Greenstreet Software as Hoyle South Beach Solitaire [^ref-12][^ref-23].
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-3]
+**System Requirements:**[^ref-3][^ref-30]
 - **Operating System:** Windows XP (Home & Pro) SP2 / Windows Vista
 - **Processor:** Pentium III 866 MHz or higher
 - **RAM:** 128 MB
@@ -114,7 +116,7 @@ The game was developed and published by Encore Software [^ref-1][^ref-2][^ref-11
 
 ### Easter Eggs and Trivia
 
-- Four hidden bonus games can be unlocked during play, including one called "The Mill"[^ref-5]
+- Four new and exclusive bonus games are hidden in the game, including one called "The Mill"[^ref-5]
 - Gamezebo described the soundtrack as salsa inspired by Buena Vista Social Club and Miami Sound Machine[^ref-5]
 - The character John Carlisle Dunsworthy serves as the player's host[^ref-5]
 - The Hoyle series was originally a Sierra On-Line line before Encore took over publishing[^ref-13]
@@ -218,3 +220,6 @@ Hoyle Miami Solitaire comes from the later, Encore-published stretch of a series
 [^ref-27]: [IGN – Hoyle Miami Solitaire](https://www.ign.com/games/hoyle-miami-solitaire) – developer and publisher Encore; summary quote (its "Dec 31, 2008" release date is a placeholder and not used)
 [^ref-28]: [Download Hoyle Games – Hoyle Solitaire Games (Wayback, October 2011)](http://web.archive.org/web/20111005170114/http://downloadhoylegames.com/hoyle-solitaire-games) – product blurb: 100+ levels, 16 card-backs, Quick Play and Story Mode, mansion; $9.99
 [^ref-29]: [GameFools – Hoyle Miami Solitaire](https://www.gamefools.com/onlinegames/free/hoylemiamisolitaire.html) – still sold: full PC version with 60-minute trial, plus free online version
+[^ref-30]: [Encore (Hoyle Gaming) – HOYLE Miami Solitaire product page (Wayback, December 6, 2006)](https://web.archive.org/web/20061206004254/http://www.hoylegaming.com:80/product.asp?id=1117) – "more than 100 levels and 55 different game types, including four new and exclusive bonus games"; $19.99; 60-minute trial; system requirements; Encore, Inc., a Navarre Corporation Company
+[^ref-31]: [Metacritic – Hoyle Miami Solitaire details](https://www.metacritic.com/game/hoyle-miami-solitaire/details/) – PC, Encore Software, initial release date Nov 15, 2006; genre "Board"
+[^ref-32]: [Gamezebo – Hoyle Miami Solitaire game page (Wayback, August 2008)](https://web.archive.org/web/20080828160629/http://www.gamezebo.com/games/hoyle-miami-solitaire) – Encore Software publisher/developer; three and a half stars; pros and cons list
