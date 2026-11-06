@@ -14,13 +14,13 @@ series: "Lode Runner"
 engine: "Custom (32-bit update of The Legend Returns engine)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-01'
-description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, 180 new levels and new hazards."
+last_updated: '2026-11-06'
+description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, new single-player and two-player levels (sources differ on the exact count) and new hazards."
 tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 ---
 # Lode Runner On-Line: The Mad Monks' Revenge
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 
 Sierra's *InterAction* magazine promised "two new worlds and 180 new levels".[^ref-17] Its feature list broke this down as 30 new single-player levels and 150 new two-player levels. It also listed a new "liquid tiles" hazard that kills any character touching it, and items that only one of the two players can use.[^ref-5] The game's lead programmer later wrote that the original 16-bit code "was updated to 32-bit for Windows 95".[^ref-7]
 
-Reviews were sharply divided. Germany's *PC Action* gave it 75%.[^ref-8] Wikipedia also records 5/5 from the *Albuquerque Journal*.[^ref-1] *Computer Games Magazine* gave it 1/5 and called it "an absolute waste for anyone but a puzzle freak".[^ref-1][^ref-9] The UK's *PC Zone* gave it 20%.[^ref-10] Home of the Underdogs later called it "the new and improved version" that fans of *The Legend Returns* would love "at least twice as much".[^ref-4]
+Reviews were sharply divided. Germany's *PC Action* gave it 75%.[^ref-8] The *Albuquerque Journal* reviewed the Windows 95 version as "a superb update the entire family will enjoy" and rated it 5, on a scale the clipping does not state.[^ref-20] *MacFormat* gave the Mac version 76%.[^ref-18] *Computer Games Magazine* gave it 1/5 and called it "an absolute waste for anyone but a puzzle freak".[^ref-1][^ref-9] The UK's *PC Zone* gave it 20%.[^ref-10] Home of the Underdogs later called it "the new and improved version" that fans of *The Legend Returns* would love "at least twice as much".[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** Presage Software[^ref-1][^ref-3]
@@ -55,7 +55,19 @@ Control is unchanged from the 1994 game. Jake runs, climbs ladders, crosses bars
 
 ### Structure and Progression
 
-*PC Player* counted a dozen underground worlds with 187 levels in single-player mode, 30 of them new. Sierra designed 150 entirely new stages for two players.[^ref-11] *PC Action* likewise described all the original levels plus 150 new ones built for two-player mode.[^ref-8] Sierra's own feature list gave the additions as:[^ref-5]
+*PC Player* counted a dozen underground worlds with 187 levels in single-player mode, 30 of them new. Sierra designed 150 entirely new stages for two players.[^ref-11] *PC Action* likewise described all the original levels plus 150 new ones built for two-player mode.[^ref-8] Period sources do not agree on the level counts, so they are set out side by side:
+
+| Source | What it says about levels |
+|---|---|
+| *InterAction*, Fall 1995 | "two new worlds and 180 new levels"[^ref-17] |
+| *InterAction*, Holiday 1995 | "130 new levels added to the original game" in the intro text; the feature list gives thirty more single-player and 150 more two-player puzzles[^ref-5] |
+| *PC Player* 5/96 | A dozen worlds with 187 single-player levels, 30 of them new; 150 new two-player levels[^ref-11] |
+| *PC Player* 12/98 | 150 additional two-player and 30 new single-player levels[^ref-22] |
+| *Philadelphia Daily News*, August 1996 | "more than 300 levels of play"; 30 more levels for solo play and 150 new levels for two players[^ref-21] |
+| *Computer & Games* (Brazil) 27, October 1996 | 180 stages in total, of which 120 were created for two players[^ref-23] |
+| *MacFormat* 38, June 1996 | "The 150 two-player network/modem levels" (photo caption)[^ref-18] |
+
+Sierra's own feature list gave the additions as:[^ref-5]
 
 - **Network options:** "challenge anyone, anywhere", either over a local area network or by modem
 - **Player-specific items:** treasures and items usable by only one player at a time, to encourage cooperative or competitive puzzles
@@ -86,9 +98,10 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 | *PC Action* | March 1996 | Windows 95 | 75%[^ref-8] |
 | *PC Zone* No. 37 | April 1996 | Windows 95 | 20%[^ref-10] |
 | *Joystick* No. 70 | April 1996 | Macintosh | Intérêt 20%, Technique 30%[^ref-12] |
-| *PC Player* | May 1996 | Windows 95 | 2/5 (Monika Stoschek); the six-person panel gave 1 to 3 stars[^ref-11] |
-| *Albuquerque Journal* | July 2, 1996 | Not stated | 5/5[^ref-1] |
-| *Philadelphia Daily News* | August 1, 1996 | Not stated | 2.5/4[^ref-1] |
+| *MacFormat* No. 38 | June 1996 | Macintosh | 76% (Graphics 70%, Sound 59%, Gameplay 80%)[^ref-18] |
+| *PC Player* | May 1996 | Windows 95 | 2/5 (Monika Stoschek); the editors' star ratings ran from 1 to 3 (3, 3, 2, 2, 1 in the July 1996 index)[^ref-11][^ref-19] |
+| *Albuquerque Journal* | July 2, 1996 | Windows 95 | Rating: 5 (scale not stated)[^ref-20] |
+| *Philadelphia Daily News* | August 1, 1996 | Not stated (the roundup covers Mac and Windows titles) | 2.5/4 per Wikipedia; the clipping text does not clearly show the rating[^ref-1][^ref-21] |
 
 **PC Action.** Adrian Vogler wrote that the game was technically no different from *Lode Runner*, "aber das einfache Spielprinzip hat es in sich" ("but the simple game principle packs a punch"). He judged its graphics and sound "ohne Tadel" ("without fault"), but joked that Germany's raised telephone charges made modem play affordable only at night-time rates.[^ref-8]
 
@@ -100,7 +113,11 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 
 **Joystick.** The French magazine reviewed the Mac CD-ROM. It complained that online play added nothing beyond the existing two-player mode on one keyboard. It added that the reviewer's old *Lode Runner* had run faster on an Apple II than this one did on a Power Mac.[^ref-12]
 
-**Albuquerque Journal.** Wikipedia quotes its verdict: "This is a superb update the entire family will enjoy".[^ref-1]
+**MacFormat.** Garrick Webster reviewed the Mac version. He wrote that "although it is fun to dip into now and again for some light puzzling action, it's not really as compelling as the original was in its day." The review box lists it at £39.99, "Out: now", needing an LC II or better, 8 MB RAM, System 7.0 and a double-speed CD-ROM drive.[^ref-18]
+
+**Albuquerque Journal.** The 2 July 1996 roundup, with Philip Griego as primary reviewer, called it "a superb update the entire family will enjoy". It listed a 486DX33, 8 MB RAM, a 2x CD-ROM drive and Windows 95, and noted that the game can be played by modem or over an IPX-compatible network.[^ref-20]
+
+**Philadelphia Daily News.** Marianne Costantinou's August 1996 roundup of kids' games said some of the moves "were frustrating", that the laser gun seemed to shoot only left, and that "a joystick is recommended".[^ref-21]
 
 **Awards.** Presage's product page listed honours alongside the game. These were *Games Magazine*'s "Best New Arcade Game", Top 100 Products finalist (*Home PC*), Best Macintosh Game of the Year finalist (*MacUser*), All Star Software (*Children's Software Revue*), and Best Action Arcade finalist at the SPA Codie Awards, the last marked "(1994)".[^ref-3] At least two of these belong to the 1994 game. In autumn 1995, before *On-Line* shipped, Sierra's *InterAction* reported that "The new Legend Returns has already taken Best New Arcade Game honors (Games Magazine) and was a finalist for Best Macintosh Game of the Year (Mac User Magazine)."[^ref-17] The lead programmer also dates the *Games Magazine* award to 1994.[^ref-7] Presage's page does not separate the two releases.
 
@@ -136,7 +153,7 @@ The lead programmer lists the technologies as Windows 95, "IPX fault-tolerant ne
 | Version | Date | Platform | Notes |
 |---|---|---|---|
 | Original | November 1995 | Windows 95 CD-ROM | Listed as "Available: November" at $44.95[^ref-5] |
-| Original | 1995–1996 | Macintosh | Presage developed the Mac version; *Joystick* reviewed the Mac CD in April 1996[^ref-3][^ref-12] |
+| Original | 1995–1996 | Macintosh | Presage developed the Mac version; *Joystick* reviewed the Mac CD in April 1996, and *MacFormat* in June 1996 listed it at £39.99, "Out: now"[^ref-3][^ref-12][^ref-18] |
 | 2-for-1 bundle | Spring 1996 | Windows/Mac CD | Two copies for $44.95, "so you can go head to head with a friend"[^ref-6] |
 
 ### Easter Eggs and Trivia
@@ -196,3 +213,9 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 [^ref-15]: [Wikipedia – Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) – series table: Lode Runner Online (1995, Windows/Mac OS, Presage/Sierra); Lode Runner 2 (1998, Presage, GT Interactive and MacSoft)
 [^ref-16]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform clone, same graphics and gameplay, up to 4 players online, Presage titles owned by Activision/Sierra, no affiliation
 [^ref-17]: [InterAction (Sierra), Fall 1995 – Lode Runner: On-Line announcement, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "two new worlds and 180 new levels", modem and network support, cooperative and head-to-head play; credits the Games Magazine award and MacUser finalist place to The Legend Returns
+[^ref-18]: [MacFormat No. 38 (June 1996), p. 129 – Lode Runner On-Line review by Garrick Webster, Internet Archive](https://archive.org/details/mac-format-038-jun-1996/page/n130/mode/2up) – Mac review: 76% (Graphics 70%, Sound 59%, Gameplay 80%), £39.99, out now, system requirements, "150 two-player network/modem levels", verdict
+[^ref-19]: [PC Player 7/96, Index Juli 1996, p. 27, Internet Archive](https://archive.org/details/PC-Player-German-Magazine-1996-07/page/n24/mode/2up) – index row for Lode Runner Online (tested in 5/96): star ratings 3, 3, 2, 2, 1 for Boris Schneider, Heinrich Lenhardt, Jörg Langer, Monika Stoschek and Henrik Fisch
+[^ref-20]: [Albuquerque Journal, 2 July 1996 – Lode Runner: The Mad Monks' Revenge capsule review (Newspapers.com clipping, Wayback copy)](https://web.archive.org/web/20241204115555/https://www.newspapers.com/article/albuquerque-journal/160273270/) – reviewer Philip Griego, "a superb update the entire family will enjoy", Windows 95, 486DX33/8 MB/2x CD, modem or IPX network, "Rating: 5"
+[^ref-21]: [Philadelphia Daily News, 1 August 1996, p. 27 – Marianne Costantinou's multimedia reviews (Newspapers.com clipping, Wayback copy)](https://web.archive.org/web/20241204110809/https://www.newspapers.com/article/philadelphia-daily-news/112563291/) – "more than 300 levels of play", 30 levels for solo play and 150 new levels for two players, some frustrating moves, joystick recommended
+[^ref-22]: [PC Player 12/98 – Lode Runner 2 feature, Internet Archive](https://archive.org/details/PC-Player-German-Magazine-1998-12) – Presage's Legend Returns (1994) and "Lode Runner Online" a year later with 150 additional two-player and 30 new single-player levels
+[^ref-23]: [Computer & Games (Brazil) No. 27 (October 1996), pp. 38-40 – Lode Runner On Line review, Internet Archive](https://archive.org/details/computer-games-br-27) – Sierra, Windows 95, 486 DX33/8 MB, Brasoft, R$80; 12 underground worlds, 180 stages, 120 stages created for two players
