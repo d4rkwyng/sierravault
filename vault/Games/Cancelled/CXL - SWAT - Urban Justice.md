@@ -10,7 +10,7 @@ series: SWAT
 engine: Takedown 3D
 protagonist: SWAT Officer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: 'SWAT: Urban Justice was a tactical shooter developed by Sierra Entertainment
   as the fourth installment in the SWAT franchise; work on it was discontinued in
   April 2004 in favor of SWAT 4.'
@@ -18,15 +18,17 @@ tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra Entertainment, intended as the fourth installment in the SWAT franchise and the direct sequel to SWAT 3: Close Quarters Battle.[^ref-1] The game was set in Los Angeles in the year 2006, coinciding with the city's 225th anniversary celebration, during which escalating gang warfare threatened to engulf the streets.[^ref-2] Players would take on the role of an elite SWAT officer tasked with restoring order and protecting civilians from three rival gangs vying for dominance.[^ref-2][^ref-3]
+SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra Entertainment, intended as the fourth installment in the SWAT franchise and the direct sequel to SWAT 3: Close Quarters Battle.[^ref-1] The game was set in Los Angeles in the year 2006, coinciding with the city's 225th anniversary celebration, during which escalating gang warfare threatened to engulf the streets.[^ref-2][^ref-21] Players would take on the role of an elite SWAT officer tasked with restoring order and protecting civilians from three rival gangs vying for dominance.[^ref-2][^ref-3]
 
 Despite extensive pre-release promotion and detailed developer diaries published throughout 2002, SWAT: Urban Justice slipped out of 2002 and then out of 2003, and in April 2004 Vivendi Universal Games announced that work on it had been "discontinued".[^ref-4][^ref-6][^ref-17][^ref-16] French site Gamekult described it as "l'épisode le plus décalé de la série des S.W.A.T" (the most offbeat episode of the SWAT series).[^ref-4] GameSpot's game page billed the title as featuring "more weapons, more combat gear, more bad guys, and a quicker pacing than ever before."[^ref-18]
 
 Urban Justice was discontinued in favor of SWAT 4, developed by Irrational Games, as GameSpot reported on 28 April 2004: "According to a carefully parsed statement from a VU spokesperson, work on Urban Justice has been 'discontinued' in favor of SWAT 4's development."[^ref-16][^ref-6] Despite never being released, Urban Justice left a lasting mark on the franchise—an easter egg for the cancelled game appears in SWAT 4, where an arcade cabinet named "SWAT: Urban Justice" sits in the waiting room of the Victory Imports Auto Center mission.[^ref-1][^ref-19][^ref-6][^ref-13]
+
+Sierra announced the game on 20 February 2002 as the fourth SWAT title, for release "this September" on PC,[^ref-20] and showed it at E3 2002 under the same September target.[^ref-22] By 3 October 2002 Sierra had confirmed the date as "somewhere in 2003", according to Polish site GRYOnline.[^ref-26]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-2][^ref-14]
@@ -41,11 +43,11 @@ Urban Justice was discontinued in favor of SWAT 4, developed by Irrational Games
 
 ## Story Summary
 
-SWAT: Urban Justice was set in a near-future Los Angeles of 2006, after "years of intense gang wars".[^ref-3] The year marked the city's 225th anniversary, gang warfare had "reached an all time high", and three gangs were "engaged in a vicious battle for dominance".[^ref-2]
+SWAT: Urban Justice was set in a near-future Los Angeles of 2006, after "years of intense gang wars".[^ref-3] The year marked the city's 225th anniversary, gang warfare had "reached an all time high", and three gangs were "engaged in a vicious battle for dominance".[^ref-2] Sierra's own September 2002 fact sheet, reproduced by WorthPlaying, opens its product description the same way: "The year is 2006—the 225th anniversary of the city of Los Angeles—and gang warfare has reached an all-time high."[^ref-21]
 
 Three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—were engaged in open warfare for control of Los Angeles' streets.[^ref-7] It fell to the player's LA SWAT team to "restore order and protect the city streets",[^ref-2] taking "back the streets of Los Angeles" across 16 planned missions.[^ref-3]
 
-In a notable creative decision, the development team chose to feature a fictional SWAT team rather than the actual LA SWAT, granting themselves what they termed "liberdade poética" (poetic license) to explore scenarios and tactics without the constraints of strict realism.[^ref-7] UOL stressed that the differences were "discretas" (subtle) and did not undo the game's realism; as examples, the team could use shields and some of its members were women.[^ref-7] IGN's coverage likewise described the unit as "the highly trained men and women of the elite Special Weapons and Tactics unit."[^ref-9]
+In a notable creative decision, the development team chose to feature a fictional SWAT team rather than the actual LA SWAT, granting themselves what they termed "liberdade poética" (poetic license) to explore scenarios and tactics without the constraints of strict realism.[^ref-7] UOL stressed that the differences were "discretas" (subtle) and did not undo the game's realism; as examples, the team could use shields and some of its members were women.[^ref-7] IGN's coverage likewise described the unit as "the highly trained men and women of the elite Special Weapons and Tactics unit."[^ref-9][^ref-21]
 
 ## Gameplay
 
@@ -96,7 +98,7 @@ Urban Justice was conceived as the fourth title in Sierra Entertainment's tactic
 
 ### Production
 
-SWAT: Urban Justice was in development at Sierra in 2001–2002.[^ref-6] GameSpot described Rod Fung as the project lead,[^ref-18] and sound designer Evan Buehler called him "my executive producer".[^ref-9] Travis Steiner was the game designer.[^ref-2] Other team members named in IGN's coverage include QA Lead Craig Bradford, programmer Jason Olander and Mike Nicolino (multiplayer).[^ref-2]
+SWAT: Urban Justice was in development at Sierra in 2001–2002.[^ref-6] GameSpot described Rod Fung as the project lead,[^ref-18] and Shacknews, relaying a June 2002 GameSpot interview, likewise called him the "Sierra project leader",[^ref-23] and sound designer Evan Buehler called him "my executive producer".[^ref-9] Travis Steiner was the game designer.[^ref-2] Other team members named in IGN's coverage include QA Lead Craig Bradford, programmer Jason Olander and Mike Nicolino (multiplayer).[^ref-2]
 
 The development team demonstrated exceptional attention to audio authenticity. Sound designer Evan Buehler traveled from Sierra's Bellevue, Washington headquarters to Idaho to record realistic weapon sounds at the Gemtech facility, accompanied by Rod Fung and fellow Sierra sound designer and composer Ben Houge.[^ref-9] Using professional studio equipment brought directly to the shooting range, the team recorded over 40 firearms.[^ref-9] Buehler's primary microphone was a DPA 4011, which can record sounds up to 158dB without distorting; for comparison, he noted, most of the gunshots recorded ranged from 140dB to 170dB.[^ref-9]
 
@@ -144,12 +146,14 @@ The entirety of SWAT: Urban Justice represents cut content, as the game was canc
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | N/A | 2001-2002 | PC | Development period[^ref-6] |
+| Announced | February 2002 | PC | Sierra announces it for release "this September"[^ref-20] |
+| Slipped | October 2002 | PC | Release date now "somewhere in 2003" per GRYOnline[^ref-26] |
 | Delayed | March 2003 | PC | Sierra confirms it will not ship in 2003, but "has not been canceled"[^ref-17] |
 | Discontinued | April 2004 | PC | VU announces work "discontinued" in favor of SWAT 4[^ref-16] |
 
 ### Technical Issues
 
-In March 2003 Sierra confirmed the game would not ship that year, while stressing it had not been cancelled.[^ref-17] On 10 March 2004 French gaming site Gamekult reported that the game, "Déjà repoussé à maintes reprises" (already pushed back numerous times), had its development "gelé pour quelques temps" (frozen for some time).[^ref-4] Wikipedia notes the project "was already suffering from internal delays" when the poor reception of SWAT: Global Strike Team reduced confidence in it.[^ref-10] Seven weeks later, on 28 April 2004, VU announced that work had been discontinued.[^ref-16]
+In March 2003 Sierra confirmed the game would not ship that year, while stressing it had not been cancelled.[^ref-17] On 10 March 2004 French gaming site Gamekult reported that the game, "Déjà repoussé à maintes reprises" (already pushed back numerous times), had its development "gelé pour quelques temps" (frozen for some time).[^ref-4] Wikipedia notes the project "was already suffering from internal delays" when the poor reception of SWAT: Global Strike Team reduced confidence in it.[^ref-10] German site Gameswelt reported the same day that Sierra had apparently dropped the project and removed it from its product catalog, though no official statement existed yet.[^ref-27] On 27 March 2004 Shacknews, citing an IGN PC feature on lost games, had said the game was cancelled and that Vivendi was about to announce a new SWAT game.[^ref-24] Seven weeks after the Gamekult report, on 28 April 2004, VU announced that work had been discontinued.[^ref-16] Blue's News covered the SWAT 4 announcement that day as the one "hinted at when rumors that SWAT: Urban Justice had been cancelled surfaced".[^ref-25]
 
 ### Easter Eggs and Trivia
 
@@ -211,3 +215,11 @@ The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 fro
 [^ref-17]: [GameSpot – SWAT: Urban Justice delayed (Wayback, 2003)](https://web.archive.org/web/20030402164941/http://www.gamespot.com:80/pc/action/swaturbanjustice/news_2912248.html) – Sam Parker, 7 March 2003: won't ship in 2003, "has not been canceled"
 [^ref-18]: [GameSpot – SWAT: Urban Justice for PC (Wayback, 2003)](https://web.archive.org/web/20030403012149/http://www.gamespot.com:80/pc/action/swaturbanjustice/index.html) – promotional blurbs, "project lead Rod Fung"
 [^ref-19]: [Police Quest Omnipedia – Victory Imports Auto Center](https://policequest.fandom.com/wiki/Victory_Imports_Auto_Center) – SWAT 4 map; "one of the arcade games in the waiting room is SWAT: Urban Justice"
+[^ref-20]: [WorthPlaying – SWAT: Urban Justice Announced](https://www.worthplaying.com/article/2002/2/20/news/2428-swat-urban-justice-announced/) – 20 Feb 2002: Sierra announces the 4th SWAT game for a September 2002 PC release; brand manager Adam Fossa
+[^ref-21]: [WorthPlaying – 'NOLF 2' & 'S.W.A.T' - Facts & Screens](https://worthplaying.com/article/2002/9/3/news/5561-nolf-2-swat-facts-screens/) – 3 Sep 2002 Sierra fact sheet: 2006, 225th anniversary of Los Angeles, "gang warfare has reached an all-time high", 16 missions, five-man entry team
+[^ref-22]: [WorthPlaying – Sierra's E3 Lineup](https://worthplaying.com/article/2002/5/10/news/3672-sierras-e3-lineup/) – 10 May 2002: Urban Justice "the fourth installment in the award-winning SWAT franchise", shown on PC at E3, "released worldwide this September"
+[^ref-23]: [Shacknews – SWAT: UJ Q&A](https://www.shacknews.com/article/21198/swat-uj-qa) – 26 Jun 2002: "Sierra project leader Rod Fung has been interviewed on GameSpot"
+[^ref-24]: [Shacknews – New SWAT Coming?](https://shacknews.com/article/31200/new-swat-coming) – 27 Mar 2004: citing IGN PC's "Missing in Action: The Lost Games of the PC", Urban Justice "was cancelled" and Vivendi was about to announce a new SWAT game
+[^ref-25]: [Blue's News – SWAT 4 Announced](https://www.bluesnews.com/s/48586/swat-4-announced) – 28 Apr 2004: VU Games announces SWAT 4 with Irrational, "the announcement hinted at when rumors that SWAT: Urban Justice had been cancelled surfaced"
+[^ref-26]: [GRYOnline.pl – Sierra przesuwa terminy wydania swych gier...](https://www.gry-online.pl/newsroom/sierra-przesuwa-terminy-wydania-swych-gier/zd17d1) – Przemysław Bartula, 3 Oct 2002 (Polish): Sierra confirms Urban Justice release now "gdzieś w roku 2003"
+[^ref-27]: [Gameswelt – SWAT: Urban Justice news index](https://www.gameswelt.de/swat-urban-justice/news) – German; "Projekt eingestellt?" 10 Mar 2004: Sierra "offenbar eingestellt", dropped from its product catalog, no official statement; "Keine Veröffentlichung mehr in diesem Jahr" 5 Mar 2003
