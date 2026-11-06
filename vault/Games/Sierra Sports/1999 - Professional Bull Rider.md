@@ -10,7 +10,7 @@ series: Professional Bull Rider
 engine: Proprietary (Windows)
 protagonist: Player-created bull rider
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 composer: [Craig Utterback]
 description: Professional Bull Rider is a 1999 bull-riding sports simulation for Windows
   published by Sierra On-Line under its Sierra Sports label, letting players ride as
@@ -19,7 +19,7 @@ tags: [1990s, professional-bull-rider, sierra]
 ---
 # Professional Bull Rider
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Professional Bull Rider is a sports simulation video game developed and publishe
 
 The game distinguished itself through its use of motion-captured riding sequences to create lifelike arcade play, combined with authentic running color commentary[^ref-7]. GameSpot framed it as an offbeat sports game that treads the line between simulation and arcade action, a line Metacritic reuses as its game summary[^ref-4][^ref-8]. Sierra's own press release billed Sierra Sports as "the first software company to sponsor cowboys in the Professional Bull Riders, Inc. 1999 Bud Light Cup Tour season"[^ref-3].
 
-Sierra announced an October release at a retail price of $19.95[^ref-3]; IGN lists the initial release date as October 27, 1999[^ref-6]. The game featured tutorial narration by bull-riding legends Ty Murray and Tuff Hedeman, with play-by-play commentary provided by official PBR announcer Justin McKee[^ref-1][^ref-4][^ref-7].
+Sierra announced an October release at a retail price of $19.95[^ref-3]; IGN lists the initial release date as October 27, 1999[^ref-6]. The game featured tutorial narration by bull-riding legends Ty Murray and Tuff Hedeman, with play-by-play commentary provided by PBR announcer Justin McKee[^ref-1][^ref-4][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -52,7 +52,7 @@ The entire bull riding run lasts only eight seconds, mirroring the real sport, w
 
 The game offers multiple modes of play to accommodate different skill levels and preferences. Players can choose to compete as a cowboy attempting to achieve high scores by staying mounted for the full eight seconds, or they can take control of the bull with the objective of dislodging the rider as quickly as possible[^ref-5][^ref-6].
 
-The career mode allows players to progress through the PBR circuit, competing against the real riders and bulls featured in the game. A novel two-player mode enables head-to-head competition where Player One controls the cowboy while Player Two controls the bull, providing what PCMag UK described as "endless replay" value[^ref-9].
+The career mode allows players to progress through the PBR circuit, competing against the real riders and bulls featured in the game[^ref-4]. A novel two-player mode enables head-to-head competition where Player One controls the cowboy while Player Two controls the bull, providing what PCMag UK described as "endless replay" value[^ref-9].
 
 ### Mechanics and Features
 
@@ -67,11 +67,13 @@ The bull gameplay was particularly noted for its visceral appeal, with IGN's Tal
 
 ### Contemporary Reviews
 
-Professional Bull Rider received generally positive reviews upon release, with critics praising its unique premise and solid execution. GameSpot's Andrew Park awarded the game 8 out of 10, declaring it "an offbeat but nonetheless great sports game that successfully treads the line between orthodox simulation and arcade action."[^ref-4][^ref-5] Park further noted that "Simply put, Professional Bull Rider looks great, sounds great, and plays pretty durn well too."[^ref-4]
+Professional Bull Rider drew mixed reviews. Web reviewers were warm: GameSpot's Andrew Park awarded the game 8 out of 10, declaring it "an offbeat but nonetheless great sports game that successfully treads the line between orthodox simulation and arcade action."[^ref-4][^ref-5] Park further noted that "Simply put, Professional Bull Rider looks great, sounds great, and plays pretty durn well too."[^ref-4]
 
 IGN gave the game 7 out of 10, with reviewer Tal Blevins stating that "PBR is one of those games that turned out to be a lot more fun than we first expected" and calling it "a great bull riding simulation and well worth the money if you're looking for something a bit different."[^ref-6] The IGN staff summary noted that "We grabbed the bull by the horns and were happily surprised in return."[^ref-6]
 
-PCMag UK was more reserved, awarding an average score of 3.0 and commenting that "Graphically PBR isn't spectacular, and game play is pretty straightforward."[^ref-9] However, the publication praised the two-player feature as a standout element.
+The print magazines were far harsher. Computer Gaming World's Tom Price gave the game one star out of five in its January 2000 issue, writing that "the miserable gameplay consists only of leaning from side to side via your keyboard" and ending, "The goal of bull riding is to stay on for eight seconds. That's eight seconds longer than you'll play this game."[^ref-18] Game Informer's December 1999 "PC Quickies" column scored it 0.9 out of 10, with its reviewer writing of the two-sided premise, "I find the concept absurd."[^ref-19]
+
+PCMag UK, in a review dated August 2001, was more reserved, awarding an average score of 3.0 and commenting that "Graphically PBR isn't spectacular, and game play is pretty straightforward."[^ref-9] However, the publication praised the two-player feature as a standout element.
 
 **GameSpot Detailed Scoring:**[^ref-5]
 - **Gameplay:** 8/10
@@ -109,6 +111,8 @@ Sierra Sports set up interactive booths at PBR events featuring virtual bull rid
 - **Composer:** Craig Utterback
 - **Play-by-Play Announcer:** Justin McKee
 
+A playable demo of the game was included on the February 2000 cover disc of the German magazine PC Player, listed as an action title from Sierra Sports/Havas Interactive requiring a Pentium/166, 32 MB of RAM, Windows 95/98 and 39 MB of disk space[^ref-20].
+
 ### Technical Achievements
 
 GameSpot singled out the bull's animation, describing "astonishing realism" in its movements[^ref-4]. GameSpot noted that "There's no banjo-pluckin', yee-hawin', or tobacco-spittin', and the only bull in the game is a big mean critter that moves with astonishing realism and bucks like hell."[^ref-4]
@@ -126,6 +130,8 @@ GameSpot singled out the bull's animation, describing "astonishing realism" in i
 **Media:** CD-ROM[^ref-1]
 
 **Players:** 1-2[^ref-5]
+
+**ESRB Rating:** Everyone[^ref-18]
 
 **Difficulty:** Medium[^ref-5]
 
@@ -154,11 +160,11 @@ Modern compatibility issues have been reported, with some users noting the game 
 | Tutorial Narrator | Tuff Hedeman[^ref-4] |
 | Play-by-Play Announcer | Justin McKee[^ref-1][^ref-4] |
 
-Justin McKee served as the official PBR announcer, providing color commentary that GameSpot described as contributing to the game's authentic atmosphere[^ref-4][^ref-11].
+GameSpot identifies Justin McKee as the game's PBR announcer, and Amazon's product description advertises its running color commentary[^ref-4][^ref-7].
 
 ## Legacy
 
-### Sales and Commercial Impact
+### Pricing and Sequel
 
 Professional Bull Rider was positioned as a budget title at $19.95, making it accessible to casual fans of the sport[^ref-3]. A sequel, Professional Bull Rider 2, followed in September 2000[^ref-12][^ref-13].
 
@@ -178,7 +184,7 @@ The Professional Bull Riders license continued in gaming beyond Sierra's involve
 Developed by RED Games Co., LLC for iOS devices, this mobile game featured legendary bull Bushwacker and 13 PBR and fantasy bulls[^ref-14]. The app received a 4.0/5 rating from a single review on the App Store but has since become incompatible with current iOS versions[^ref-14].
 
 **8 To Glory (2018)**
-Developed by Three Gates AB and published by Jumpgate AB, this title was released for PlayStation 4 on July 31, 2018[^ref-15][^ref-16]. Marketed as "The only officially licensed video game of the PBR," it featured the 2018 PBR circuit and received a 4.04/5 rating from 95 ratings on the US PlayStation Store[^ref-15][^ref-16]. The game was also available on console and mobile platforms[^ref-17].
+Published by Jumpgate AB (copyright Three Gates AB), this title was released for PlayStation 4 on July 31, 2018[^ref-15][^ref-16]. Marketed as "The only officially licensed video game of the PBR," it featured the 2018 PBR circuit and received a 4.05/5 rating from 96 ratings on the US PlayStation Store as of November 6, 2026[^ref-15][^ref-16]. The game was also available on console and mobile platforms[^ref-17].
 
 ### Critical Perspective
 
@@ -217,5 +223,8 @@ Professional Bull Rider was not the first bull-riding game: IGN's review noted t
 [^ref-13]: [IGN – Professional Bull Rider 2](https://www.ign.com/games/professional-bull-rider-2) – sequel release date, rating
 [^ref-14]: [App Store – PBR: Raging Bulls](https://apps.apple.com/sg/app/pbr-raging-bulls/id917715692) – mobile game details, developer, ratings
 [^ref-15]: [PlayStation Store US – 8 To Glory](https://store.playstation.com/en-us/product/UP4276-CUSA13280_00-EIGHTTOGLORYUS00) – modern PBR game details, pricing, ratings
-[^ref-16]: [PlayStation Store Canada – 8 To Glory](https://store.playstation.com/en-ca/product/UP4276-CUSA13280_00-EIGHTTOGLORYUS00) – release date, developer, publisher
+[^ref-16]: [PlayStation Store Canada – 8 To Glory](https://store.playstation.com/en-ca/product/UP4276-CUSA13280_00-EIGHTTOGLORYUS00) – release date, publisher, copyright holder
 [^ref-17]: [8 To Glory Official Website](https://8toglory.com/) – platform availability
+[^ref-18]: [Computer Gaming World, issue 186 (January 2000), p. 135](https://archive.org/details/Computer_Gaming_World_Issue_186) – Tom Price's one-star review, ESRB Everyone, $20, publisher
+[^ref-19]: [Game Informer, issue 80 (December 1999), p. 76](https://archive.org/details/game-informer-issue-80-december-1999) – "PC Quickies" review, 0.9 score
+[^ref-20]: [PC Player (Germany), February 2000](https://archive.org/details/PC-Player-German-Magazine-2000-02) – cover-disc demo listing, requirements, Havas Interactive
