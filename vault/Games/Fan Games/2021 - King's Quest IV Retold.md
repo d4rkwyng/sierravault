@@ -10,7 +10,7 @@ series: King's Quest (Fan Remake)
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: 'King''s Quest IV Retold is a fan-made point-and-click remake of Sierra
   On-Line''s 1988 adventure game King''s Quest IV: The Perils of Rosella, made by DrSlash
   in Adventure Game Studio and released in 2021.'
@@ -18,11 +18,11 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
-King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's EGA graphics at 320x200 resolution[^ref-2]. DrSlash aimed it first and foremost at players who prefer point-and-click interfaces over text input, while keeping the original's story and puzzles unchanged[^ref-17].
+King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's EGA graphics at 320x200 resolution[^ref-2]. The first release covered Windows and Linux; a Mac port by edenwaith followed on May 15, 2021[^ref-22]. DrSlash aimed it first and foremost at players who prefer point-and-click interfaces over text input, while keeping the original's story and puzzles unchanged[^ref-17].
 
 The remake received a nomination for Best Game Created with AGS at the AGS Awards 2021 and was selected as Pick of the Month in August 2022[^ref-2]. As of October 2026 the Adventure Game Studio site records more than 9,600 downloads of the game[^ref-2].
 
@@ -101,7 +101,7 @@ DrSlash wrote that the decision to keep the EGA graphics "was also largely motiv
 
 ### Production
 
-Retold was built with Adventure Game Studio[^ref-2]; ScummVM's AGS engine identifies it under the game ID `kq4retold`[^ref-18]. DrSlash designed it to run on Linux, MacOS and any version of Windows from Windows XP onward[^ref-17], and the AGS site offers Windows, Linux and MacOS downloads[^ref-2].
+Retold was built with Adventure Game Studio[^ref-2]; ScummVM's AGS engine lists it under the game ID `kq4retold`[^ref-18]. A May 2021 ScummVM ticket reported that the game was not detected (matching only the generic `ags-fallback`)[^ref-23], and a June 2024 ticket reported version 1.0.5 as an unknown variant[^ref-18]; the latter was closed as fixed on July 1, 2024 by a commit titled "AGS: Update The Shivah GOG version and KQ4 Retold"[^ref-24]. DrSlash designed it to run on Linux, MacOS and any version of Windows from Windows XP onward[^ref-17], and the AGS site offers Windows, Linux and MacOS downloads[^ref-2].
 
 The subsequent VGA Talkie version was developed by Magic Quest Entertainment, a non-profit fan project made with DrSlash's blessing[^ref-1]. Its makers call it "basically the extension of his project," built on the same code with graphics drawn from unfinished King's Quest IV fan projects[^ref-1]. The VGA Talkie version serves as "a tribute to all the original teams of creative fans, their devotion and engagement to bring back this wonderful story of Rosella back to us"[^ref-4].
 
@@ -114,7 +114,7 @@ The subsequent VGA Talkie version was developed by Magic Quest Entertainment, a 
 - **Author of the Original King's Quest IV Retold:** DrSlash
 - **VGA Graphics:** Nightfable (Audrey Ryan), Karen Soroe (Magic Mirror Games), Steven Alexander (Infamous Quests), Lorenz Falkson, notid1 (The Sponge Factory), Jorge Pecador (Magic Quest Entertainment)
 
-The VGA Talkie version acknowledged numerous fan teams whose unfinished projects contributed assets, including Nightfable, Blackthorne, Lorenz Falkson, Sponge Factory, and Magic Mirror Games[^ref-1].
+The VGA Talkie's own forum announcement (opened November 29, 2025) describes four versions, says Dr Slash gave his blessing, and describes the game as fully supported by ScummVM 2026.1.0[^ref-26]. It acknowledged numerous fan teams whose unfinished projects contributed assets, including Nightfable, Blackthorne, Lorenz Falkson, Sponge Factory, and Magic Mirror Games[^ref-1].
 
 ### Technical Achievements
 
@@ -138,14 +138,15 @@ The VGA Talkie's own release notes state that, because the code was not built fo
 - **Media:** Digital download
 - **Platforms:** Windows
 
-**File Size:**[^ref-10]
-- **Retold Version (GamePressure Windows archive):** 140.4 MB
+**File Size:**
+- **Retold Version (GamePressure Windows archive, text-only citation):** 140.4 MB[^ref-10]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | May 5, 2021 | Windows/Linux/MacOS | Initial point-and-click remake release[^ref-2][^ref-17] |
+| 1.0 | May 5, 2021 | Windows/Linux | Initial point-and-click remake release[^ref-2][^ref-17] |
+| Mac port | May 15, 2021 | MacOS | Port by edenwaith, announced by DrSlash as available for download[^ref-22] |
 | 1.0.1 | May 9, 2021 | — | Quicksave, new hotkeys, bug fixes[^ref-17] |
 | 1.0.2 | May 10, 2021 | — | Further hotkeys and bug fixes[^ref-17] |
 | 1.0.3 | June 6, 2021 | — | New nighttime graphics and a music track, bug fixes[^ref-17] |
@@ -172,7 +173,7 @@ The 1988 original was one of the first games to support sound cards, with compos
 
 ### Sales and Commercial Impact
 
-The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks and 800,000 copies within a year[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
+The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks, and Wikipedia notes that another source reported 800,000 copies worldwide within a year[^ref-6]. The Software Publishers Association certified it as having sold over 250,000 units in early 1993[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
 
 The Retold fan remake, while not commercially released, demonstrated continued interest in the King's Quest franchise, with more than 9,600 downloads of the original Retold version on the AGS site alone as of October 2026[^ref-2].
 
@@ -185,7 +186,7 @@ The original 1988 game has appeared in numerous Sierra compilations and is avail
 King's Quest IV Retold represents one of several fan efforts to preserve and modernize the King's Quest series:
 
 - **King's Quest IV Retold (2021):** DrSlash's point-and-click remake preserving EGA graphics[^ref-2]
-- **King's Quest IV Retold VGA Talkie (2025):** Magic Quest Entertainment's enhanced version with voice acting[^ref-1]
+- **King's Quest IV Retold VGA Talkie (2025):** Magic Quest Entertainment's enhanced version with voice acting[^ref-1]. Wikipedia's list of King's Quest fan games describes the 2025 update as adding VGA graphics and voice acting[^ref-25]
 - **Multiple Unfinished Projects:** The VGA Talkie version incorporates assets from projects by Nightfable, Blackthorne, Lorenz Falkson, Sponge Factory, and Magic Mirror Games[^ref-1]
 
 The community has embraced speedrunning the Retold version, with leaderboards tracking completion times. The current Any% record stands at 8 minutes 19 seconds by player Shawluck, with four total players having submitted 13 runs across categories[^ref-13].
@@ -241,14 +242,19 @@ The Retold version keeps the original narrative and puzzle design while adding p
 [^ref-3]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, Mac compatibility rating
 [^ref-4]: [Reddit r/Sierra – VGA Talkie Discussion](https://www.reddit.com/r/Sierra/comments/1pckube/kings_quest_iv_retold_vga_talkie_full_game/) – Magic Quest Entertainment credits, development notes, tribute information
 [^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game plot, time limit, sales data, review scores, awards, music
-[^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – interface changes, community reception
+[^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – point-and-click interface instead of the text parser
 [^ref-8]: [King's Quest Omnipedia – King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – development motivation, EGA graphics decision, DrSlash's design philosophy
-[^ref-10]: [GamePressure – King's Quest IV Retold Download](https://www.gamepressure.com/download/kings-quest-iv-the-perils-of-rosella-kings-quest-iv-the-perils-o/z114a29) – file size
+[^ref-10]: GamePressure – King's Quest IV Retold download page (text-only citation, no link; mirror of an older build) – file size 140.4 MB
 [^ref-11]: [GOG Forums – KQ4 Copy Protection Discussion](https://www.gog.com/forum/kings_quest_series/copyright_protection_in_kq4) – copy protection details, Retold suggested as alternative
 [^ref-12]: [PCGamingWiki – King's Quest IV](https://www.pcgamingwiki.com/wiki/King's_Quest_IV:_The_Perils_of_Rosella) – technical specifications, version history, system requirements
 [^ref-13]: [Speedrun.com – King's Quest IV Retold](https://www.speedrun.com/kings_quest_iv_retold) – speedrun records, player statistics
 [^ref-17]: [Adventure Game Studio Forums – King's Quest IV: The Perils of Rosella Retold (DrSlash release thread)](https://www.adventuregamestudio.co.uk/forums/index.php?topic=59091.0) – key features, F.A.Q., changelog 1.0.1–1.0.5, time-limit option, audio sources, EGA rationale
-[^ref-18]: [ScummVM Tracker – #15235: Unknown game variant for ags - Kings Quest IV Retold Version 1.0.5](https://lists.scummvm.org/pipermail/scummvm-tracker/2024-June/045878.html) – AGS engine game ID kq4retold
+[^ref-18]: [ScummVM Tracker – #15235: Unknown game variant for ags - Kings Quest IV Retold Version 1.0.5](https://lists.scummvm.org/pipermail/scummvm-tracker/2024-June/045878.html) – defect report that 1.0.5 was an unknown variant; AGS engine game ID kq4retold
 [^ref-19]: [Computer Gaming World Issue 54 (December 1988), full text](https://archive.org/download/Computer_Gaming_World_Issue_54/Computer_Gaming_World_Issue_54_djvu.txt) – Roberta Williams interview, "I like the heroine, Rosella" quote
 [^ref-20]: [IGN – Revisiting King's Quest IV: The Perils of Rosella (Kosta Andreadis, 2014)](https://web.archive.org/web/20260214005638/https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella-) – retrospective assessment, fairy-tale settings, early female protagonist and sound card support
 [^ref-21]: [Indie Retro News – King's Quest IV: The Perils of Rosella Retold](https://www.indieretronews.com/2021/06/kings-quest-iv-perils-of-rosella-retold.html) – June 1, 2021 release coverage
+[^ref-22]: [Adventure Game Studio Forums – KQ4 Retold release thread, posts #22, #24 and #39](https://www.adventuregamestudio.co.uk/forums/index.php?topic=59091.0;all) – edenwaith's May 8, 2021 Mac proof-of-concept offer; DrSlash on May 15, 2021: "The Mac port is now available for download!"
+[^ref-23]: [ScummVM Tracker – #12519: Unknown game variant for AGS (King's Quest IV: The Perils of Rosella Retold)](https://lists.scummvm.org/pipermail/scummvm-tracker/2021-May/029272.html) – May 6, 2021 report that the game was not detected
+[^ref-24]: [ScummVM Tracker – #15235 closure, July 1, 2024](https://lists.scummvm.org/pipermail/scummvm-tracker/2024-July/045912.html) – status closed, resolution fixed, component Engine: AGS, commit "AGS: Update The Shivah GOG version and KQ4 Retold"
+[^ref-25]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – lists Retold as a point-and-click remake and the 2025 Magic Quest update with VGA graphics and voice acting
+[^ref-26]: [Adventure Game Studio Forums – King's Quest IV Retold (VGA + Talkie) NEW VERSION](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/) – Jorge Pecador's announcement thread opened November 29, 2025: four versions, ScummVM 2026.1.0 support, credits
