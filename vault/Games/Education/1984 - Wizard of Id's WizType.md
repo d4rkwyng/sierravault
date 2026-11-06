@@ -10,7 +10,7 @@ series: Wizard of Id
 engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-05'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing...
@@ -18,13 +18,13 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
 Wizard of Id's WizType is an educational typing game released in 1984 by Sierra On-Line, designed to give keyboard novices lessons on improving their typing accuracy and speed.[^ref-1][^ref-2] The game was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] It is based on the comic strip "The Wizard of Id," created by artist Brant Parker and writer Johnny Hart.[^ref-2][^ref-19]
 
-WizType came out for the Apple II, Commodore 64, Atari 8-bit and DOS.[^ref-2][^ref-14] COMPUTE!'s review covered the Atari, Commodore 64 and Apple II versions, each needing at least 32K of RAM and a disk drive, at a price of $34.95.[^ref-17] Reviewing the Atari version in November 1984, COMPUTE! said that among the many typing programs on dealers' shelves, "it just might be the best one yet."[^ref-17] The game offers six modes, four of which have 20 levels each, and the challenge rises as players progress.[^ref-10][^ref-18]
+WizType came out for the Apple II, Commodore 64, Atari 8-bit and DOS.[^ref-2][^ref-14] A Family Computing review in November 1984 listed it for the Apple II, Atari, Commodore 64 and IBM PC/PCjr, and Sierra's own August 1984 advertisement named the same four platforms.[^ref-21][^ref-25] The Atari version is catalogued by Atarimania with Sydney Development Corp. as developer.[^ref-28] COMPUTE!'s review covered the Atari, Commodore 64 and Apple II versions, each needing at least 32K of RAM and a disk drive, at a price of $34.95.[^ref-17] Reviewing the Atari version in November 1984, COMPUTE! said that among the many typing programs on dealers' shelves, "it just might be the best one yet."[^ref-17] The game offers six modes, four of which have 20 levels each, and the challenge rises as players progress.[^ref-10][^ref-18]
 
 WizType was one of two 1984 edutainment titles built on the Wizard of Id license; the other was WizMath.[^ref-6][^ref-19] Apple II Bits notes that "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6] The comic strip itself was first syndicated on November 9, 1964, two decades before the game.[^ref-19]
 
@@ -64,7 +64,7 @@ WizType has six modes: Game, Drill, Practice, Words, Own Lesson and Paragraphs.[
 - **Own Lesson:** Players type in their own word list of up to about 240 words, with a maximum of eight letters per word.[^ref-10]
 - **Paragraphs:** Players type passages from eight literary works stored on the disk, such as the opening of Dickens's *A Tale of Two Cities*, scenes from *Hamlet*, the Gettysburg Address and Mother Goose, or create and save their own paragraphs.[^ref-17][^ref-10]
 
-In Drill and Practice, players can set a typing speed from 10 to 60 words per minute in steps of 10.[^ref-17]
+In Drill and Practice, players can set a typing speed from 10 to 60 words per minute in steps of 10.[^ref-17] Family Computing also noted that the program could teach either the standard QWERTY layout or the Dvorak keyboard, though the manual did not explain the difference.[^ref-21] Antic's Atari buyers guide singled out the editor for creating one's own typing lessons as "a real plus."[^ref-24]
 
 ### Puzzles and Mechanics
 
@@ -79,6 +79,10 @@ Bung is an optional pacer in the Paragraphs lesson. The manual explains: "When y
 Computer Gaming World's June 1984 "Taking a Peek" column summed it up as a "Typing game using the Wizard of Id characters. Cartoon gags add extra life to the game. There are six modes and twenty levels of play."[^ref-18]
 
 COMPUTE! (issue 54, November 1984, p. 131) gave WizType a full review by James V. Trunzo. He called it "a wizard of a product," said of the animation that "you must see this program to appreciate it fully," and singled out Paragraphs and Own Lesson as "the two options which really set WizType apart from most typing-practice programs." He concluded: "Sierra's WizType certainly meets their standards, and surpasses most of them."[^ref-17]
+
+Tony Morris reviewed the game for Family Computing (November 1984), describing it as "a strong contender in the touch-typing tutorial field" and adding that "Many kids enjoy the challenging arcade pace." He opened with the line "Learning to touch-type can be about as much fun as pulling weeds. WizType sets out to change that."[^ref-21] RUN's October 1984 new-products column described the Commodore 64 version: if the player types too slowly, the Spirit "turns into a dragon" and destroys the Wizard, and Bung the king's jester also appears.[^ref-22]
+
+Antic's December 1984 Atari buyers guide said that "More than typing practice, WizType teaches you proper finger positioning on the keys and lets you work up to the amusing typing game."[^ref-24] In TPUG Magazine (issue 15, June/July 1985), reviewer Marya Miller called it "the first typing tutor of any nature that I have been able to stick with" and wrote that "Using Wiztype is more like playing a very good game than learning a skill."[^ref-23]
 
 ### Modern Assessment
 
@@ -108,10 +112,10 @@ WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-
 
 ### Technical Specifications
 
-- **Memory:** COMPUTE! lists at least 32K RAM for the Atari, Commodore 64 and Apple II versions;[^ref-17] the Apple II box lists 48K.[^ref-20]
+- **Memory:** COMPUTE! lists at least 32K RAM for the Atari, Commodore 64 and Apple II versions;[^ref-17] the Apple II box lists 48K.[^ref-20] Family Computing's listing gave 48K for the Apple II and Atari versions.[^ref-21]
 - **Media:** 5.25" floppy disk[^ref-16][^ref-20]
 - **Input:** Keyboard[^ref-10]
-- **Price:** $34.95[^ref-17]
+- **Price:** $34.95; the Commodore 64 cartridge version was $39.95[^ref-17][^ref-21][^ref-22]
 
 ### Cut Content
 
@@ -123,6 +127,7 @@ According to MobyGames, a ColecoVision/ADAM version of WizType was planned but n
 - WizType was one of two educational titles using the license, alongside WizMath[^ref-6][^ref-19]
 - The manual's Wizard boasts that his own typing "apprenticeship took a whole two months!"[^ref-10]
 - The Apple II packaging promised "Six modes, 20 levels" and "Liberally spiced with cartoon gags"[^ref-20]
+- Sierra's August 1984 Creative Computing advertisement claimed typing speeds "From 20 to 120 words a minute, you choose!"[^ref-25]
 
 ## Legacy
 
@@ -132,7 +137,7 @@ No sales figures for WizType have been found.
 
 ### Collections
 
-No compilation release of WizType has been found in the sources consulted. The original releases are preserved on the Internet Archive.[^ref-1][^ref-9]
+No compilation release of WizType has been found in the sources consulted. The original releases are preserved on the Internet Archive.[^ref-1][^ref-9] The Computer History Museum holds a copy: a 5.25-inch floppy disk with an instruction book and reference card, listed with Sierra On-Line, Inc. as publisher and Educational as the category.[^ref-27]
 
 ### Related Publications
 
@@ -140,11 +145,11 @@ The retail package included a manual and a Quick Reference Card with loading ins
 
 ### Critical Perspective
 
-WizType is one of Sierra's early edutainment titles, released in the same year as WizMath and listed among the Apple II's 1984 educational software.[^ref-6][^ref-8] COMPUTE! described a crowded typing-tutor market ("practically any respectable computer dealer can show you an entire shelf of such products") and rated WizType above most of it.[^ref-17] Both the 1984 review and the 2017 retrospective picked out the Paragraphs and Own Lesson options as its standout features.[^ref-5][^ref-17]
+WizType is one of Sierra's early edutainment titles, released in the same year as WizMath and listed among the Apple II's 1984 educational software.[^ref-6][^ref-8] COMPUTE! described a crowded typing-tutor market ("practically any respectable computer dealer can show you an entire shelf of such products") and rated WizType above most of it.[^ref-17] Info-64's September 1984 software listing carried it under typing and keyboard mastery at $34.95, describing Wizard of Id characters challenging the player to type faster in a game atmosphere.[^ref-26] Both the 1984 COMPUTE! review and the 2017 retrospective picked out the Paragraphs and Own Lesson options as its standout features.[^ref-5][^ref-17]
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Not sold on modern digital storefronts; see Downloads for preserved copies.
 
 ## Downloads
 
@@ -195,3 +200,11 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 [^ref-19]: [Wikipedia – The Wizard of Id](https://en.wikipedia.org/wiki/The_Wizard_of_Id) – strip by Brant Parker and Johnny Hart, first syndicated November 9, 1964; WizMath and WizType released 1984
 
 [^ref-20]: [Eli's Software Encyclopedia – WizType (Apple II, 5 1/4" Disk) Sierra – 1984 USA, Canada Release](https://elisoftware.org/wiki/WizType_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1984_USA,_Canada_Release) – box text ("Six modes, 20 levels"), Apple II requires 48K RAM
+[^ref-21]: [Family Computing, November 1984 (issue 15) – WizType review by Tony Morris, p. 122](https://archive.org/details/family-computing-15) – Apple II (48K) review copy, also Atari, C64 and IBM PC/PCjr; $34.95 and $39.95 C64 cartridge; QWERTY or Dvorak; "a strong contender in the touch-typing tutorial field"
+[^ref-22]: [RUN, October 1984 (issue 10) – new-products item "Wiztype"](https://archive.org/details/run-magazine-10) – Wizard of Id series release; Spirit turns into a dragon; Bung appears; C64 $34.95 disk, $39.95 cartridge
+[^ref-23]: [TPUG Magazine, issue 15 (June/July 1985) – "Wiztype" review by Marya Miller, p. 39](https://archive.org/details/TPUG_Issue_15_1985_Jun_Jul) – Commodore 64 review; "the first typing tutor of any nature that I have been able to stick with"
+[^ref-24]: [Antic, December 1984 (vol. 3 no. 8, Buyers Guide) – WizType](https://archive.org/details/1984-12-anticmagazine) – Atari blurb: finger positioning, typing game, lesson editor "a real plus", $34.95
+[^ref-25]: [Creative Computing, August 1984 – Sierra WizType advertisement](https://archive.org/details/creativecomputing-1984-08) – publisher advertisement (not a review): "Available on Apple II Series, Atari Home Computers, Commodore 64 and IBM PC & PCjr"; "From 20 to 120 words a minute, you choose!"
+[^ref-26]: [Info-64, issue 5 (September 1984) – software listing](https://archive.org/details/Info-64_Issue_5_1984-09_Info_Publications_US) – "WIZTYPE", $34.95, Wizard of Id characters challenge you to type faster in a game atmosphere
+[^ref-27]: [Computer History Museum – Wizard of Id's Wiztype, catalog 102639498](https://www.computerhistory.org/collections/catalog/102639498) – 5.25-inch floppy with instruction book and reference card; publisher Sierra On-Line, Inc.; category Educational
+[^ref-28]: [Atarimania – Wizard of Id's WizType (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wizard-of-id-s-wiztype-_5790.html) – developer Sydney Development Corp., publisher Sierra On-Line, 1984, disk, keyboard controls, serial SRL-231
