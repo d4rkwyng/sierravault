@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-06'
 composer: [Christopher Barker, Craig Utterback]
 description: Thexder 95, also known as Thexder for Windows 95, is a 1995 Windows 95
   action platformer developed by Synergistic Software and published by Sierra On-Line,
@@ -19,7 +19,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ Hazards include electric fences, gyrobot mines, autoturrets that fire only when 
 
 ### Structure
 
-There are 50 levels in all[^ref-45][^ref-46]. Sierra's materials split them two ways. The Holiday 1995 *InterAction* feature gives "five levels on 10 planets," while the Fall 1995 preview and Sierra's *Computer Gaming World* advertisement give five worlds of ten levels each[^ref-44][^ref-46][^ref-47].
+There are 50 levels in all[^ref-45][^ref-46]. Sierra's materials split them two ways. The Holiday 1995 *InterAction* feature gives "five levels on 10 planets," while the Fall 1995 preview and Sierra's *Computer Gaming World* advertisement give five worlds of ten levels each[^ref-44][^ref-46][^ref-47]. A second Sierra advertisement in *Computer Gaming World*'s December 1995 issue says Thexder "blasts his way through five worlds, each with ten different levels"[^ref-52].
 
 ### Windows Interface
 
@@ -98,7 +98,7 @@ Hardcore Gaming 101's 2009 history of the series was harsh, calling the Windows 
 
 Thexder 95 was developed by Synergistic Software and published by Sierra On-Line[^ref-2][^ref-29]. It was built with Microsoft's Game SDK[^ref-1][^ref-26]. MobyGames' trivia entry describes it as one of Sierra's showcase games at the launch of Windows 95, built with the Game SDK to give smooth animation and sound[^ref-2].
 
-*InterAction* listed the game as "Available: Fall '95 for Win 95" at $44.95 in its Fall 1995 issue[^ref-47]. By the Holiday 1995 issue it was "Available Now" at the same price as a Windows 95 CD[^ref-46].
+*InterAction* listed the game as "Available: Fall '95 for Win 95" at $44.95 in its Fall 1995 issue[^ref-47]. By the Holiday 1995 issue it was "Available Now" at the same price as a Windows 95 CD[^ref-46]. The mail-order dealer Chips & Bits advertised the CD at $40 in December 1995, describing 50 science-fiction environments[^ref-53].
 
 **Development Credits** (selected, from MobyGames)[^ref-2]:
 - **Designers:** [[Robert Clardy|Robert C. Clardy]], Kirt Lemons
@@ -142,8 +142,6 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 - [[1989 - Fire Hawk - Thexder - The Second Contact|← Previous: Fire Hawk - Thexder - The Second Contact]]
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 
-- [[1985 - Thexder]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – "Thexder 95" section: Game SDK, tank and jet forms, weapons "from grenades to thermal bombs", multiple windows
@@ -163,3 +161,5 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 [^ref-49]: [Next Generation #16 (April 1996), p. 95](https://archive.org/details/nextgen-issue-016/page/n98/mode/1up) – Review, two stars: "does an admirable job of using the multitasking environment", "still an average platform shooter", 486DX2/66 with 8 MB RAM
 [^ref-50]: [PC Zone #38 (May 1996), pp. 9–10](https://archive.org/details/PC_Zone_38_May_1996/page/n9/mode/1up) – "Playable Demos" cover CD listing "Thexder '95 (Sierra)" playable demo; Specifications: 8Mb, Windows 95
 [^ref-51]: [The Sierra Chest – Thexder for Windows 95: Demos](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos) – "Thexder for Win 95 Demo (1 MB)", included on Conqueror A.D. 1086 CD
+[^ref-52]: [Computer Gaming World #137 (December 1995), Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n257/mode/1up) – Two-page Sierra ad (scan pages n257-n258, "Sierra" banner): "Thexder flies, runs, jumps, morphs into a tank or plane, and blasts his way through five worlds, each with ten different levels"; 50th level and Primus Tech; text checked against the page images
+[^ref-53]: [Computer Gaming World #137 (December 1995), Chips & Bits advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n160/mode/1up) – Retailer ad: "'Thexder' players control a transformer type robot called THX-DR122... through 50 different science fiction environments... CD $40"
