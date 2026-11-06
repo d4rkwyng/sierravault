@@ -10,14 +10,14 @@ series: Hoyle
 engine: Not documented
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-05'
 description: Hoyle Word Games is a 1999 Sierra On-Line compilation of eight word
   games for Windows and Macintosh, part of the long-running Hoyle series.
 tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 5, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,7 @@ A browsable version of the complete Webster's New World College Dictionary is in
 
 ### Contemporary Reviews
 
-MobyGames lists six critic ratings for the game, averaging 70%.[^ref-2] Contemporary review text could not be verified.
+MobyGames lists six critic ratings for the game, averaging 70%.[^ref-2] GameSpot published a review by Nicole Freeman on May 2, 2000, scoring the game 7.5 out of 10. It states that "the success of Hoyle Word Games is in its simplicity," calls the new face maker feature "one of the most enjoyable parts of the game," and lists eight games: anagrams, hangman, word searches, crosswords, enigma, DoubleCross, Word Yacht and Speedy Racer. Its main criticism is "its lack of variety and originality."[^ref-21]
 
 GameSpot announced the game's release in April 2000, noting the retail price of $29.99 for Windows and Mac platforms, emphasizing the inclusion of eight games including "Crossword Puzzles, Word Searches, Word Yacht, Hangman, and more."[^ref-9]
 
@@ -87,6 +87,7 @@ The game's online play relied on Sierra's WON service, which no longer operates.
 - **MobyGames Critics Average:** 70% (6 ratings)[^ref-2]
 - **MobyGames Moby Score:** 7.0[^ref-2]
 - **MobyGames Player Rating:** 3.5/5 (1 rating)[^ref-2]
+- **GameSpot (Nicole Freeman, May 2, 2000):** 7.5/10[^ref-21]
 - **GameFAQs:** Listed in puzzle/logic genre[^ref-12]
 
 ## Development
@@ -276,3 +277,5 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 [^ref-19]: [The Sierra Chest – Hoyle Series Group Members](https://sierrachest.com/index.php?a=groups&id=42&fld=members) – Hoyle series title list including Hoyle Word Games (1999), Word Games 2 (2000) and 3 (2001) ([archived April 30, 2023](http://web.archive.org/web/20230430175923/https://sierrachest.com/index.php?a=groups&id=42&fld=members))
 
 [^ref-20]: [GameFAQs – Hoyle Word Games Release Data](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games/data) – US release 11/30/99, Sierra Entertainment, ESRB E, product description ([archived May 9, 2019](http://web.archive.org/web/20190509145950/https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games/data))
+
+[^ref-21]: [GameSpot – Hoyle Word Games Review (Nicole Freeman, May 2, 2000)](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2531860/) – Review text and 7.5 score ([archived June 3, 2019](http://web.archive.org/web/20190603123000/https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2531860/))
