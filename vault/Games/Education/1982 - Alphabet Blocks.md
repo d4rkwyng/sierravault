@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Bananas and Jack (coaches)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-28'
+last_updated: '2026-11-06'
 description: Alphabet Blocks is an interactive multimedia educational program designed
  to teach young children the letters and sounds of the English alphabet, developed by
  Bright Star Technology and published by Sierra On-Line in its Sierra Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -90,15 +90,15 @@ Modern retrospective coverage of Alphabet Blocks is limited.
 - **MobyGames:** Critics 25% (1 rating); players 4.3 out of 5 (1 rating, 0 reviews)[^ref-1]
 - **Metacritic:** No critic reviews available; user scores require four ratings to display[^ref-3]
 
-Bright Star's other MobyGames-credited titles include Early Math, Kid's Typing, Ready, Set, Read with Bananas & Jack and Spelling Jungle (1993), and Spelling Blizzard and Math and Spelling with Monker (1994)[^ref-16]. A Sierra Gamers forum poster later wrote of Bright Star Technology that it "Looked to be a big contribution in the early 90s with not much after that"[^ref-7].
+Corum Group, the adviser on the sale, names Alphabet Blocks among Bright Star's well-known titles alongside HyperAnimation and the Talking Tutors series[^ref-22]. Bright Star's other MobyGames-credited titles include Early Math, Kid's Typing, Ready, Set, Read with Bananas & Jack and Spelling Jungle (1993), and Spelling Blizzard and Math and Spelling with Monker (1994)[^ref-16]. A Sierra Gamers forum poster later wrote of Bright Star Technology that it "Looked to be a big contribution in the early 90s with not much after that"[^ref-7].
 
 ## Development
 
 ### Origins
 
-Alphabet Blocks was invented by Elon Gasper[^ref-1], who founded Bright Star Technology[^ref-16]. MobyGames' Sierra company history describes Gasper as the "inventor of HyperAnimation and the principal author of Alphabet Blocks"[^ref-8].
+Alphabet Blocks was invented by Elon Gasper[^ref-1], who founded Bright Star Technology[^ref-16] in the early 1980s[^ref-22]; Wikipedia names Nedra Goedert as his co-founder, citing *Popular Science* (May 1993)[^ref-23]. MobyGames' Sierra company history describes Gasper as the "inventor of HyperAnimation and the principal author of Alphabet Blocks"[^ref-8].
 
-Sierra On-Line acquired Bright Star Technology in July 1992[^ref-16], "just as the educational software market was becoming the fastest-growing segment of the software industry"[^ref-2]. The game was published under the Sierra Discovery Series label, which MobyGames describes as "a series of educational games released by Sierra On-line in the early 90's"[^ref-13].
+Sierra On-Line acquired Bright Star Technology in July 1992[^ref-16][^ref-22], "just as the educational software market was becoming the fastest-growing segment of the software industry"[^ref-2]. The game was published under the Sierra Discovery Series label, which MobyGames describes as "a series of educational games released by Sierra On-line in the early 90's"[^ref-13].
 
 ### Production
 
@@ -220,7 +220,7 @@ Alphabet Blocks is the earliest of the seven games MobyGames credits to Bright S
 - Manual PDF available through Sierra Gamers community[^ref-11]
 - Diskette scans preserved by fan community[^ref-11]
 
-The game is documented in various gaming databases.[^ref-15][^ref-16]
+IGDB lists the game as an educational title for Mac (1992) and PC (Microsoft Windows) (1993), describing it as a "reading game for small children"[^ref-15]. MobyGames also lists Bright Star's other titles[^ref-16].
 
 ## See Also
 
@@ -246,10 +246,12 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 [^ref-11]: [Sierra Gamers – Alphabet Blocks Downloads](https://www.sierragamers.com/alphabet-blocks/) – fan preservation resources, manual, scans
 [^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers
 [^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context
-[^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - IGDB entry
+[^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - Mac 1992 and Windows 1993 releases, Educational genre, "Reading game for small children"
 [^ref-16]: [MobyGames - Bright Star Technology, Inc.](https://www.mobygames.com/company/809/bright-star-technology-inc/) - founder, July 1992 Sierra acquisition, credited games
 [^ref-17]: [MobyGames – Alphabet Blocks Reviews](https://www.mobygames.com/game/113498/alphabet-blocks/reviews/) – The Computer Museum Guide to the Best Software for Kids, 25% (Windows and Macintosh)
 [^ref-18]: [Sierra Chest – Alphabet Blocks Walkthrough](https://sierrachest.com/index.php?a=games&id=432&title=alphabet-blocks&fld=walkthrough) – playroom, four games, coaching, rewards, Grown-Ups options
 [^ref-19]: [MobyGames – Alphabet Blocks Releases](https://www.mobygames.com/game/113498/alphabet-blocks/releases/) – Macintosh Oct 16, 1992 and Windows 16-bit May 11, 1993, both version 2.1
 [^ref-20]: [MobyGames – Alphabet Blocks Specs](https://www.mobygames.com/game/113498/alphabet-blocks/specs/) – Macintosh and Windows minimum requirements
+[^ref-22]: [Corum Group – Sierra On-Line – Bright Star (July 1992)](https://www.corumgroup.com/transactions/sierra-line-bright-star) – adviser's transaction record: Corum advised Bright Star on its sale to Sierra; names Alphabet Blocks among well-known Bright Star titles
+[^ref-23]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – founded by Elon Gasper and Nedra Goedert "during the early 1980s", citing Popular Science, May 1993, p. 43 (tier 4; Goedert credit rests on this alone)
 [^ref-21]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p.89 – Alphabet Blocks](https://archive.org/details/computermuseumguid00mira/page/89/mode/1up) – period review scan: one star, "Best for ages 3-4", Macintosh and Windows on CD-ROM or floppy, about $35
