@@ -10,13 +10,13 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: None (player acts in the historical role set by each mission briefing)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-07'
 description: 'Cleopatra: Queen of the Nile is the 2000 expansion pack for Pharaoh, developed by BreakAway Games with Impressions Games and published by Sierra, adding four campaigns of 15 missions set from 1490 BC to 35 BC.'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The expansion requires the base game Pharaoh to be present on the system[^ref-6]
 > **Designer:** Charles Kibler[^ref-28]
 > **Producer:** Ed Beach[^ref-28]
 > **Publisher:** Sierra Entertainment[^ref-5]
-> **Engine:** Pharaoh Engine (expansion to Pharaoh)
+> **Engine:** Pharaoh Engine (expansion to Pharaoh)[^ref-41]
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 2000[^ref-1]
 > **Series:** Pharaoh
@@ -73,9 +73,9 @@ Some missions let troops and monuments carry over from a previous mission. Only 
 - **Zoo:** a new entertainment building, which the Impressions Games Wiki says is "only available in missions where the Culture rating is above 70"[^ref-6]
 - **Plagues:** angry gods can now send rivers of blood, locusts, frogs and hailstorms[^ref-31][^ref-6][^ref-37]
 - **Optional pyramid speed-up blessing:** gods' blessings can build part of a monument for free; this is toggled in the options menu[^ref-6][^ref-38]
-- **Hostile creatures:** scorpions attack residents in early missions where no military can be recruited[^ref-31]
+- **Hostile creatures:** scorpions attack residents in early missions where no military can be recruited[^ref-31]. Computer Gaming World found the new giant scorpion attacks "seem only to irritate and slow down the already lengthy missions"[^ref-39]
 
-GameSpot also reported a bug in version 1.0. If burial goods were dispatched to a tomb before it was finished, construction stopped and saved games for that mission were affected[^ref-31].
+GameSpot also reported a bug in version 1.0. If burial goods were dispatched to a tomb before it was finished, construction stopped and saved games for that mission were affected[^ref-31]. GameSpy's reviewer separately hit a lamp-delivery problem while building a cliff tomb: workers would not carry lamps from the storehouse to the site. He noted that Impressions Games' forum called it a known issue to be fixed in a patch, and that saving, exiting and reloading worked around it[^ref-42].
 
 ## Reception
 
@@ -83,25 +83,28 @@ GameSpot also reported a bug in version 1.0. If burial goods were dispatched to 
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Gamer's Pulse | 88/100 | "A must-have expansion for any serious monument builder"[^ref-18] |
+| Gamer's Pulse | 88/100 | "A must-have expansion for any serious monument builder"[^ref-18][^ref-40] |
 | IGN | 8.6/10 | Trent C. Ward: "if I had to describe it in one word, that word would be difficult"[^ref-37] |
 | Game Over Online | 81/100 | Faulted the unchanged random-walker service system[^ref-18] |
 | Computer Games Magazine | 4/5 | Dave Markell, posted October 23, 2000: "though it's a bit uneven, Cleopatra is a worthwhile add-on to a great game"[^ref-38] |
 | GamePro | 80/100 | "The gameplay gets a little repetitive"[^ref-18] |
-| ActionTrip | 80/100 | "It's a beautiful game that attracts with its looks and dynamics rather than originality"[^ref-18] |
+| ActionTrip | 80/100 | "It's a beautiful game that attracts with its looks and dynamics rather than originality"[^ref-18]. Editor's rating line: "No originality and too few improved graphic touches"[^ref-41] |
 | GameSpot | 7.5/10 | Ron Dulin, updated August 1, 2000[^ref-31] |
 | CNET Gamecenter | 70/100 | Called it "a must-have for Pharaoh freaks"[^ref-18] |
 | Quandary | 60/100 | "it doesn't reach any great heights"[^ref-18] |
+| Computer Gaming World | 3/5 | Mark Brooks, November 2000: "with more polish it could've been an expansion pack for the ages"[^ref-39] |
+| GameSpy | 80/100 | Nate Timperley: "A great add-on for Pharaoh fans who want more of the same". The score is as listed by Metacritic[^ref-42][^ref-18] |
+| Adrenaline Vault | 70/100 | Dan Simpson, July 26, 2000. The score is as listed by Metacritic[^ref-43][^ref-18] |
 | Metacritic | 77/100 | Aggregate of 13 critic reviews[^ref-18] |
 | MobyGames | 78% | Critic average from 22 ratings; players 3.8/5 from 17 ratings, as archived February 4, 2026[^ref-36] |
 
 GameSpot's Ron Dulin praised BreakAway for not taking the "easy route" of expansion packs. He found the new missions both "extend the game" and "enhance it", but noted that the wandering-worker problem inherited from Pharaoh "has still not been addressed"[^ref-31].
 
-IGN's Trent C. Ward found the new missions "so hard that I was very worried about meeting my deadline". He noted that the pack ships without any manual and reuses the original soundtrack, and that goods sometimes failed to reach the tombs[^ref-37]. Dave Markell of Computer Games Magazine called the Ramses II campaign "a delight" and the Ancient Conquerors campaign "the weakest of the bunch". He also regretted that the Karnak temple of Amon, which had been meant for the expansion, was cut[^ref-38].
+IGN's Trent C. Ward found the new missions "so hard that I was very worried about meeting my deadline". He noted that the pack ships without any manual and reuses the original soundtrack, and that goods sometimes failed to reach the tombs[^ref-37]. Mark Brooks of Computer Gaming World, who gave it three stars out of five, found "15 very hard missions spread over four campaigns" but said the pack did not fix irritating Pharaoh bugs: "Workers still wander about aimlessly, and there are unexplained production stoppages"[^ref-39]. ActionTrip's Branislav Babovic judged the new campaigns "really tough" and said the game's graphic design is "pretty much identical to Pharaoh"[^ref-41]. Dan Simpson of the Adrenaline Vault liked the asps' hiss and the frog plague, and praised the option to play any scenario out of order, though he thought listing scenarios by city name rather than campaign was slightly confusing[^ref-43]. Dave Markell of Computer Games Magazine called the Ramses II campaign "a delight" and the Ancient Conquerors campaign "the weakest of the bunch". He also regretted that the Karnak temple of Amon, which had been meant for the expansion, was cut[^ref-38].
 
 ### Modern Assessment
 
-Metacritic's user score stands at 7.6 from 14 ratings[^ref-18]. The bundled Pharaoh + Cleopatra edition is sold on GOG and Steam[^ref-33][^ref-34].
+Metacritic's user score stands at 7.6 from 15 ratings[^ref-18]. The bundled Pharaoh + Cleopatra edition is sold on GOG and Steam[^ref-33][^ref-34].
 
 ## Development
 
@@ -196,3 +199,8 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 [^ref-36]: [MobyGames – Cleopatra: Queen of the Nile (archived February 4, 2026)](https://web.archive.org/web/20260204172038/https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Critics 78% (22 ratings); players 3.8/5 (17 ratings)
 [^ref-37]: [IGN – Pharaoh: Cleopatra review by Trent C. Ward (archived)](http://web.archive.org/web/20260813201709/https://www.ign.com/articles/2000/07/27/pharaoh-cleopatra) – 2000 review, score 8.6; difficulty, plagues, lamp and paint industries, no manual, same soundtrack
 [^ref-38]: [Computer Games Magazine – Cleopatra review by Dave Markell (archived)](http://web.archive.org/web/20050324020235/http://cdmag.com:80/articles/030/066/cleopatra_review.html) – Posted 10/23/2000; overall rating 4 of 5; campaigns, zoos, divine blessings, cut Karnak temple
+[^ref-39]: [Computer Gaming World, issue 196 (November 2000) – Cleopatra review by Mark Brooks, p. 168](https://archive.org/details/Computer_Gaming_World_Issue_196/page/n169) – three of five stars (read on the page image); 15 very hard missions in four campaigns; new curses; giant scorpions; Pharaoh bugs remain
+[^ref-40]: [Gamer's Pulse – Pharoah: Cleopatra Expansion review by Stephen Zillwood, October 6, 2000 (archived)](http://web.archive.org/web/20010217181901/http://www.gamerspulse.com:80/reviews_2000/cleopatra/cleopatra.shtml) – Overall 88; four scenarios, 15 missions; plagues; new industries; any mission playable from the start
+[^ref-41]: [ActionTrip – Cleopatra review by Branislav Babovic, September 5, 2000 (archived, page 1)](http://web.archive.org/web/20010329165811/http://www.actiontrip.com:80/reviews/cleopatra.phtml) and [page 2](http://web.archive.org/web/20010423105139/http://www.actiontrip.com:80/reviews/cleopatra_2.phtml) – Editor's rating 80%; "a few improvements over the Pharaoh engine"; difficulty, same graphics and sound, map editor, no manual
+[^ref-42]: [GameSpy – Cleopatra review by Nate Timperley (archived)](http://web.archive.org/web/20031206012518/http://www.gamespy.com/legacy/reviews/cleopatra_b.shtm) – Tomb robbers, plagues, lamp-delivery bug and workaround; the numeric score (80) comes from Metacritic
+[^ref-43]: [The Adrenaline Vault – Cleopatra review by Dan Simpson, July 26, 2000 (archived)](http://web.archive.org/web/20030228184304/http://www.avault.com/reviews/review_temp.asp?game=cleopat) – New goods, creatures and plagues; any-scenario play; page 1 of the review; the numeric score (70) comes from Metacritic
