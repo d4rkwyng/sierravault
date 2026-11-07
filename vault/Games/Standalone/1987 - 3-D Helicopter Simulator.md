@@ -10,7 +10,7 @@ series: Standalone
 engine: null
 protagonist: Helicopter pilot (player)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-06'
 description: Sierra's 3-D Helicopter Simulator is a 1987 DOS helicopter flight and
   combat simulator programmed by Joe Wofford, notable for head-to-head play by modem
   or null-modem cable.
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 
 ## Overview
@@ -27,7 +27,7 @@ Sierra's 3-D Helicopter Simulator is a helicopter flight and combat simulation r
 
 The game's headline feature was head-to-head play: two owners of the program could fight each other over a Hayes-compatible modem, or in the same room over a null-modem cable[^ref-23][^ref-27]. Sierra's box claimed that "never before has a computer program permitted head-to-head flight simulation competition...until now!"[^ref-3][^ref-25], and Computer Gaming World's M. Evan Brooks called modem play "a unique twist that has not appeared heretofore"[^ref-18].
 
-The aircraft itself is not a named military type in the period materials. COMPUTE! described it as "a generic helicopter", and Computer Gaming World called the game "a somewhat generalized helicopter simulation"[^ref-27][^ref-18]. MobyGames' description names the McDonnell Douglas AH-64A Apache[^ref-1], but neither the box nor the manual mentions the Apache. The manual's specifications appendix is headed "Robinson R-22 Technical Specs"[^ref-23][^ref-25].
+The aircraft itself is not a named military type in the period materials. COMPUTE! described it as "a generic helicopter", and Computer Gaming World called the game "a somewhat generalized helicopter simulation"[^ref-27][^ref-18]. MobyGames' description names the McDonnell Douglas AH-64A Apache[^ref-1]. Sierra's own 1987 catalog, a marketing piece, likewise said the game "is based on the power and performance of McDonnell/Douglas's powerful 'Apache' helicopter"[^ref-29], but neither the box nor the manual mentions the Apache. The manual's specifications appendix is headed "Robinson R-22 Technical Specs"[^ref-23][^ref-25].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -72,7 +72,7 @@ Fuel is limited ("Топливо в игре конечно")[^ref-9]. Landing o
 
 ### Contemporary Reviews
 
-M. Evan Brooks covered the game in "Choppers!", Computer Gaming World's survey of helicopter simulators in issue #44 (February 1988)[^ref-18][^ref-5]. He was impressed by the modem play, in which players can "even write nasty messages to one's opponent". He also wrote that the game "does offer graphics which are a cut above the competition". He found the helicopters themselves "somewhat chunky and boxish", but called the surrounding vistas "wonders to behold"[^ref-18]. His summary: "While 3-D Helicopter Simulator offers an interesting flight experience and a challenging two player modem game, the game is somewhat predictable as a solitaire combat simulator"[^ref-18][^ref-5].
+M. Evan Brooks covered the game in "Choppers!", Computer Gaming World's survey of helicopter simulators in issue #44 (February 1988)[^ref-18][^ref-5]. He was impressed by the modem play, in which players can "even write nasty messages to one's opponent". He also wrote that the game "does offer graphics which are a cut above the competition". He found the helicopters themselves "somewhat chunky and boxish", but called the surrounding vistas "wonders to behold"[^ref-18]. His summary: "While 3-D Helicopter Simulator offers an interesting flight experience and a challenging two player modem game, the game is somewhat predictable as a solitaire combat simulator"[^ref-18][^ref-5]. Of the helicopter programs in his survey, he wrote that "this reviewer was most impressed with 3-D Helicopter Simulator because of its modem capabilities and better scenery"[^ref-18]. Sierra later quoted that verdict in its Fall 1988 catalog[^ref-30].
 
 Ervin Bobo reviewed it for COMPUTE! (issue 95, April 1988, p. 22) and made a similar split[^ref-27]. He compared the solid 3-D scenery with Microsoft's Flight Simulator, "perhaps even better in some instances". However, he found the combat routines "both slow (even at turbo speed) and noiseless" and the aircraft graphics "disappointing"[^ref-27]. In its March 1988 preview of the year's games, Computer Gaming World referred to Sierra's "popular 3-D Helicopter Simulator"[^ref-22].
 
@@ -112,6 +112,8 @@ Modem play needed two copies of the game. The two players did not need the same 
 
 In the manual's "Programmer's note", Wofford explains that "to maximize the performance... we had to make some compromises between accuracy and speed". As a result, the helicopter can pass through some solid objects[^ref-23][^ref-27].
 
+Sierra's own marketing made further claims. Its Fall 1988 catalog called the game "the first flight simulator to feature 16-color high-resolution graphics of true 3-D quality" and described an animated drawbridge in the harbor and rotating radar dishes in the scenery. That is Sierra's claim, not independently verified[^ref-30]. The catalog also listed four playing modes (flight, target practice, combat against the computer, and optional dual-player combat) and ground-level, orbiting-satellite and tracking views[^ref-30]. The earlier 1987 catalog described scenery at Los Angeles International Airport, Paris and Manhattan and required a 1200 baud modem or better for modem play. Those pre-release scenery names do not match the areas COMPUTE! listed for the shipped game[^ref-29][^ref-27].
+
 ### Technical Specifications
 
 **DOS Version:**[^ref-1][^ref-27][^ref-23]
@@ -122,7 +124,7 @@ In the manual's "Programmer's note", Wofford explains that "to maximize the perf
 - **Media:** 5.25" and 3.5" floppy disks in the same package[^ref-27][^ref-1]
 - **Copy protection:** Key-disk check at start-up[^ref-23]
 - **Multiplayer:** 2 players by Hayes-compatible modem or null-modem cable[^ref-23][^ref-27]
-- **Price:** $39.95[^ref-27]
+- **Price:** $39.95 in COMPUTE!'s 1988 review[^ref-27]. Sierra's 1987 catalog gives a suggested retail price of $39.95 on the game's product page, while its order form lists the DOS version at $49.95[^ref-29]
 
 ### Cut Content
 
@@ -134,6 +136,9 @@ No documented cut content has been identified in available sources. Sierra's Spr
 |---------|------|----------|-------|
 | Original | September 1987 | DOS | Initial release[^ref-1][^ref-3] |
 | 1.1 | By Spring 1988 | DOS | Listed as the latest version in Sierra's newsletter[^ref-21] |
+| Macintosh (announced) | Early May 1989 (scheduled) | Macintosh | Announced in Sierra's Spring 1989 newsletter; whether it shipped is unverified[^ref-31] |
+
+Sierra's Spring 1989 newsletter announced a Macintosh version, saying "3-D Helicopter Simulator is scheduled for shipment in early May" and crediting "Mac programmer John Hardin, creator of Macintosh Helicopter Simulator", with its playing fields. The newsletter spells the name "Hardin"; the DOS manual and MobyGames credits spell it "Hartin", which this page keeps. These are Sierra's own announcements, and no source found confirms the Mac release date[^ref-31][^ref-23][^ref-26].
 
 ### Technical Issues
 
@@ -154,7 +159,7 @@ The game has no voice acting. Its sound comes from the PC speaker[^ref-1].
 
 ### Sales and Commercial Impact
 
-No sales figures have been found. In March 1988, Computer Gaming World called it "popular" and reported that it would "soon be accompanied by a 3-D Tank Simulator"[^ref-22].
+No sales figures have been found. Sierra's own 1987 newsletter announced "Sierra Ships 3-D Helicopter Simulator!", and a Radio Shack retailer writing in its Retailer's Corner column said his customers rated the game "the best out of all" the flying software that year[^ref-28]. In March 1988, Computer Gaming World called it "popular" and reported that it would "soon be accompanied by a 3-D Tank Simulator"[^ref-22].
 
 Both the manual and Brooks' review said Sierra planned upgrades and optional scenery disks[^ref-23][^ref-18]. By Spring 1988, additional scenery files could be downloaded from the Library of Sierra's BBS[^ref-21].
 
@@ -224,3 +229,11 @@ Reviews in 1988 agreed on the game's strengths and weaknesses. They praised the 
 [^ref-25]: [MobyGames – back cover scan, US box](https://cdn.mobygames.com/covers/6418264-sierras-3-d-helicopter-simulator-dos-back-cover.jpg) – period box copy: four playing modes, "never before" modem claim, Stewart Alsop quote, Joe Wofford bio
 [^ref-26]: [MobyGames – Sierra's 3-D Helicopter Simulator DOS credits](https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/credits/dos/) – programming, development, documentation and thanks credits
 [^ref-27]: [COMPUTE! #95 (April 1988), p. 22, review by Ervin Bobo](https://archive.org/details/1988-04-compute-magazine/page/22/mode/1up) – period scan: "generic helicopter", scenery areas, 60 missiles, modem (1200 baud) or linked computers, CGA/EGA/Hercules, $39.95
+
+[^ref-28]: [Sierra Newsletter Vol. 1 No. 2 (1987)](https://archive.org/details/Sierra_Newsletter_Volume_1_Number_2_1987) – Sierra's own newsletter (period scan): front-page "Sierra Ships 3-D Helicopter Simulator!"; Retailer's Corner remark that customers rated it the best flying software of the year
+
+[^ref-29]: [Sierra Catalog 1987](https://archive.org/details/Sierra_Catalog_1987_1987_Sierra-On_Line) – Sierra's own catalog (period scan): "Apache" marketing copy, pre-release scenery (Los Angeles, Paris, Manhattan), 1200 baud modem requirement, suggested retail $39.95, order form $49.95 (IBM MS-DOS list)
+
+[^ref-30]: [Sierra Catalog Fall 1988](https://archive.org/details/Sierra_Catalog_Fall_1988_1988_Sierra-On_Line) – Sierra's own catalog (period scan): "first flight simulator to feature 16-color high-resolution graphics of true 3-D quality" (Sierra's claim), four playing modes, viewpoints, quote of the Computer Gaming World verdict
+
+[^ref-31]: [Sierra Newsletter Vol. 2 No. 1 (Spring 1989), p. 23](https://archive.org/details/Sierra_Newsletter_Volume_2_Number_1_Spring_1989_Small) – Sierra's own newsletter (period scan): "New 3-D Helicopter Simulator for Mac", scheduled for shipment in early May, Mac programmer John Hardin
