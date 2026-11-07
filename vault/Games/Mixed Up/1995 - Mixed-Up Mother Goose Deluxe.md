@@ -10,18 +10,18 @@ series: Mixed-Up Mother Goose
 engine: SCI2.1
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: Mixed-Up Mother Goose Deluxe is Sierra On-Line's 1995 Windows and Macintosh remake of Roberta Williams' nursery-rhyme adventure for pre-school children, with new graphics and a soundtrack that sets each rhyme in a different musical style.
 composer: [Guy Whitmore]
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Mixed-Up Mother Goose Deluxe is a 1995 remake of Roberta Williams' children's adventure Mixed-Up Mother Goose, developed and published by Sierra On-Line for Windows and Macintosh[^ref-1]. MobyGames describes it as "another updated version" of the game with "a new set of graphics" and "a redone soundtrack that has all of the nursery rhymes played in different musical styles"[^ref-1]. Sierra pitched it at children aged 3 to 6, teaching "logic, organization and memory skills"[^ref-4].
+Mixed-Up Mother Goose Deluxe is a 1995 remake of Roberta Williams' children's adventure Mixed-Up Mother Goose, developed and published by Sierra On-Line for Windows and Macintosh[^ref-1]. MobyGames describes it as "another updated version" of the game with "a new set of graphics" and "a redone soundtrack that has all of the nursery rhymes played in different musical styles"[^ref-1]. Sierra pitched it at children aged 3 to 6, teaching "logic, organization and memory skills"[^ref-4]. Sierra's own *InterAction* magazine listed it as "Ages 3 to 6" at $39.95 for Windows and Macintosh CD-ROM[^ref-27], and a 1996 MacAddict order-card listing also gives ages 3-6[^ref-30].
 
 Sierra Chest counts it as the fourth installment of the game and describes it as "updated for multimedia computers" with high-resolution graphics and digitized music and voice[^ref-4]. The version before it was the 1991 VGA/Multimedia CD remake[^ref-12]. The box also included a music CD of the game's songs, which Sierra's advertising called "a free bonus audio CD of the 18 songs in the game"[^ref-4][^ref-25].
 
@@ -50,7 +50,7 @@ The child picks a boy or girl character and enters a name, then starts in a bedr
 
 ### Structure and Progression
 
-There are 18 mini-quests, such as finding Jack and Jill's pail or Bo Peep's sheep[^ref-11]. Items are picked up when the character walks near them, and there is only one inventory slot: picking up a new item drops the one already held on that screen[^ref-11]. An egg carton at the bottom left of the screen fills with golden eggs as quests are completed[^ref-11]. A world map can be used for navigation and to hear completed rhymes again, and Mother Goose can tell the player where each object is[^ref-1].
+There are 18 mini-quests, such as finding Jack and Jill's pail or Bo Peep's sheep[^ref-11]. Items are picked up when the character walks near them, and there is only one inventory slot: picking up a new item drops the one already held on that screen[^ref-11]. An egg carton at the bottom left of the screen fills with golden eggs as quests are completed[^ref-11]. A world map can be used for navigation and to hear completed rhymes again, and Mother Goose can tell the player where each object is[^ref-1]. Sierra's *InterAction* preview says the player selects one of 12 player characters, who are "hipper" than in the original and "physically and culturally diverse"[^ref-27].
 
 ### Puzzles and Mechanics
 
@@ -84,7 +84,7 @@ Sierra had remade Mixed-Up Mother Goose twice before Deluxe: an SCI version in 1
 
 ### Production
 
-MobyGames credits 37 people (32 professional roles and 5 thanks)[^ref-16]. Roberta Williams is credited as designer, Wendy Albee as producer, Marcia Bales as lead artist, and Ellen Ratajak, Robert W. Lindsley and Oliver Brelsford as lead programmers[^ref-16]. Guy Whitmore composed the music[^ref-16][^ref-7]. Rhonda Matson is credited as Spanish expert[^ref-16].
+MobyGames credits 37 people (32 professional roles and 5 thanks)[^ref-16]. Roberta Williams is credited as designer, Wendy Albee as producer, Marcia Bales as lead artist, and Ellen Ratajak, Robert W. Lindsley and Oliver Brelsford as lead programmers[^ref-16]. Guy Whitmore composed the music[^ref-16][^ref-7]; *InterAction* credits him with 18 all-new songs, each in a different musical style, and says an audio CD of the new songs, with an instrumental-only version of each and printed lyrics, was included[^ref-27]. Rhonda Matson is credited as Spanish expert[^ref-16].
 
 The nursery rhymes are set in many popular music styles, "from Reggae to Blues to Country and Western," according to Metzomagic[^ref-11]. Sierra's own advertisement told readers: "Imagine 'Little Jack Horner' done in reggae"[^ref-25].
 
@@ -106,15 +106,16 @@ New voice and singing talent is credited alongside "all the character voices fro
 | Engine | SCI2.1; ScummVM's detection notes report interpreter version 2.100.002[^ref-23], which the ScummVM wiki lists under SCI21 (middle) with a 1995-03-27 date[^ref-24] |
 | Media | CD-ROM[^ref-1] |
 | Input | Mouse[^ref-1] |
-| Languages | English and Spanish[^ref-11][^ref-25]; the European release adds French and German[^ref-9] |
+| Requirements (1996 retail listings) | A 386 PC running Windows 3.1, or a Macintosh, with 8 MB of RAM and a mouse, per Columbia House CD-ROM Direct order cards in *Computer Gaming World* (April 1996) and *MacAddict* (November 1996)[^ref-29][^ref-30] |
+| Languages | English and Spanish[^ref-11][^ref-25]; in Spanish mode the songs are sung in English with subtitles, according to Sierra's *InterAction* magazine[^ref-27]; the European release adds French and German[^ref-9] |
 
 Most of the game's resources stay on the CD. The Windows executable must be launched with the path to its RESOURCE.CFG file, or it fails with a "Title not found" error[^ref-18].
 
 ## Legacy
 
-The Amazon product listing for Deluxe says it is the "Winner of the Parent's Choice Classic Software Award" and lists the "Children's Software Award for Preschoolers - Parenting Magazine"[^ref-19]. Sierra's December 1995 advertisement for Deluxe in *PC Gamer* did not name individual awards, saying only that the list of awards Mixed-Up Mother Goose had won "could fill up the rest of this page", and claimed the game had "introduced more than 500,000 little ones to the computer"[^ref-25].
+Sierra's own *InterAction* magazine (Spring 1995) said the original Mixed-Up Mother Goose had sold over 500,000 copies and "won numerous awards", naming the Software Publishers Association's Best Early Education Program and the "Parents' Choice Award: Best Classic Program"; these are Sierra's claims about the original game, not an independent record[^ref-27]. The Amazon product listing for Deluxe says it is the "Winner of the Parent's Choice Classic Software Award" and lists the "Children's Software Award for Preschoolers - Parenting Magazine"[^ref-19]. Sierra's December 1995 advertisement for Deluxe in *PC Gamer* did not name individual awards, saying only that the list of awards Mixed-Up Mother Goose had won "could fill up the rest of this page", and claimed the game had "introduced more than 500,000 little ones to the computer"[^ref-25].
 
-Coktel Vision released the game in Europe with English, Latin American Spanish, French and German options. The French and German versions are fully dubbed, including the songs[^ref-9]. The localized titles were *Ballades au pays de Mère l'Oie* (French), *Gänseliesel Musikalisches Suchspiel* (German) and *Baladas en el País de la Madre Ganso* (Spanish)[^ref-1]. The game was also included in *King's Quest: Collection Series* (1997)[^ref-1].
+Coktel Vision released the game in Europe with English, Latin American Spanish, French and German options. The French and German versions are fully dubbed, including the songs[^ref-9]. The localized titles were *Ballades au pays de Mère l'Oie* (French), *Gänseliesel Musikalisches Suchspiel* (German) and *Baladas en el País de la Madre Ganso* (Spanish)[^ref-1]. The game was also included in *King's Quest: Collection Series* (1997)[^ref-1], which Sierra's Fall 1997 *InterAction* described as all seven King's Quest adventures plus three more Roberta Williams games, Deluxe among them (#73120, DOS/Win CD, $39.95)[^ref-28].
 
 ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excellent" level; the Macintosh version is listed as unsupported[^ref-22].
 
@@ -154,3 +155,7 @@ ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excell
 [^ref-24]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI21 (middle) table: "Mixed-Up Mother Goose Deluxe (Windows interpreter only)", 2.100.002, 1995-03-27
 [^ref-25]: [PC Gamer US #19 (December 1995) – Sierra advertisement for Mixed-Up Mother Goose Deluxe, p. 62](https://archive.org/details/pc-gamer-usa-019-december-1995) – Period ad scan: awards, "500,000 little ones", reggae "Little Jack Horner", English or Spanish, bonus audio CD, WIN'95/WIN/MAC badges
 [^ref-26]: [MobyGames - Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – 1991 VGA rewrite with digitized speech (read via the MobyGames API)
+[^ref-27]: [InterAction Magazine, Spring 1995 – Suzanne Sweeney, "Mixed-Up Mother Goose Deluxe", p. 28](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra's own magazine: awards list for the original, 12 player characters, 18 new songs, audio CD, Spanish mode, May 1995, Win/Mac CD $39.95
+[^ref-28]: [InterAction Magazine, Fall 1997](https://archive.org/details/InterAction_Magazine_Fall_1997_1997_Sierra_On-Line_US) – King's Quest Collection Series listing includes Mixed-Up Mother Goose Deluxe (#73120)
+[^ref-29]: [Computer Gaming World Issue 141 (April 1996) – Columbia House CD-ROM Direct order card](https://archive.org/details/Computer_Gaming_World_Issue_141) – Deluxe listed as Windows 3.1 or Macintosh, 8 MB, mouse
+[^ref-30]: [MacAddict Issue 3 (November 1996) – Columbia House CD-ROM Direct order card](https://archive.org/details/MacAddict-003-199611) – Deluxe listed for Windows 3.1 or Macintosh, 8 MB, mouse, ages 3-6
