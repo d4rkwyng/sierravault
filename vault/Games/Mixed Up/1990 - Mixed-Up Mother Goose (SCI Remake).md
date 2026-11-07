@@ -10,19 +10,19 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Mixed-Up Mother Goose (SCI Remake) is Sierra On-Line's SCI0 EGA floppy remake of Roberta Williams' 1987 AGI children's adventure, with improved graphics and sound card support but the same gameplay.
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
 Mixed-Up Mother Goose (SCI Remake) is the first of three remakes Sierra On-Line made of Roberta Williams' 1987 children's adventure *Mixed-Up Mother Goose*[^ref-7]. Wikipedia calls it "Mixed-Up Mother Goose Enhanced" and says it "was remade using the SCI0 system, which meant improved graphics"[^ref-7]. MobyGames describes it as an updated version that "utilizes Sierra's SCI game interpreter and features enhanced graphics and sound," while "the gameplay remains the same as the previous version"[^ref-19].
 
-Sierra announced the remake in its Summer 1990 *Sierra News Magazine* as one of two classics "rewritten for SCI", with "new, improved higher resolution graphics and better animation"[^ref-20]. The Fall 1990 issue told readers to look for "Mother Goose (SCI) in 16-color (EGA) versions, with major sound card support, in the fall of 1990"[^ref-21], and *Computer Gaming World* logged "Mixed-Up Mother Goose 'Enhanced Version' (Sierra) IBM" among conversions received in its November 1990 issue[^ref-23]. MobyGames dates the DOS and Amiga releases to 1991[^ref-19].
+Sierra announced the remake in its Summer 1990 *Sierra News Magazine* as one of two classics "rewritten for SCI", with "new, improved higher resolution graphics and better animation"[^ref-20]. *QuestBusters* (September 1990) reported that *Mixed-up Mother Goose* would "also be converted to the SCI standard for MSDOS and Amiga" and listed the SCI version among titles due "between October and Christmas"[^ref-32], and an Australian issue of *MegaZone* (issue 08) announced "Mixed-Up Mother Goose (SCI), with Sierra's improved high resolution graphics and sound card support" alongside a separate VGA version[^ref-33]. The Fall 1990 issue of Sierra's magazine told readers to look for "Mother Goose (SCI) in 16-color (EGA) versions, with major sound card support, in the fall of 1990"[^ref-21], and *Computer Gaming World* logged "Mixed-Up Mother Goose 'Enhanced Version' (Sierra) IBM" among conversions received in its November 1990 issue[^ref-23]. MobyGames dates the DOS and Amiga releases to 1991[^ref-19].
 
 It is a different game from both the 1987 AGI original and the CD-ROM version. Sierra's Fall 1990 magazine described the CD as "an even more modern version" with "rich 256-color graphics" and "actual digitized actors' voices"[^ref-21], and *Computer Gaming World* reported that the CD came "with both an English and Japanese voicetrack on the same CD"[^ref-31]. MobyGames keeps the VGA/CD game as a separate entry[^ref-17]; ScummVM's engine data also separates the SCI0 "mothergoose" game from the VGA "mothergoose256"[^ref-29].
 
@@ -81,7 +81,7 @@ The manual's own credits use the short forms Jerry Moore and Carlos Escobar, spe
 
 ### Atari ST upgrade
 
-*Sierra News Magazine* (Spring 1991) announced two titles from the "Classic's Reillustrated" collection for the Atari ST: King's Quest I and Mixed-Up Mother Goose. ST owners could upgrade by sending "$15 for Mixed-Up Mother Goose" with disk #1 or the front cover of the documentation[^ref-22]. The SCI manual includes Atari ST and Macintosh install steps as well as MS-DOS and Amiga[^ref-26], but no ST or Macintosh release of this version is confirmed here. Wikipedia adds that "a retail boxed version was not sold in stores"[^ref-7]; no period source confirms that.
+*Sierra News Magazine* (Spring 1991) announced two titles from the "Classic's Reillustrated" collection for the Atari ST: King's Quest I and Mixed-Up Mother Goose. ST owners could upgrade by sending "$15 for Mixed-Up Mother Goose" with disk #1 or the front cover of the documentation[^ref-22]. The SCI manual includes Atari ST and Macintosh install steps as well as MS-DOS and Amiga[^ref-26], and the *Compute!* June 1991 spec box lists Amiga, Atari ST and Macintosh versions at $29.95 against $39.95 for DOS[^ref-25]. Those ST and Macintosh listings may be earlier versions rather than this SCI remake, since the DOS SCI release was the $39.95 one, so an ST or Macintosh release of this version is unconfirmed here. Wikipedia adds that "a retail boxed version was not sold in stores"[^ref-7]; no period source confirms that.
 
 ### Platforms
 
@@ -126,3 +126,5 @@ Mixed-Up Mother Goose is not currently sold on GOG or Steam. GOG's old community
 [^ref-29]: [ScummVM - engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) - SCI0 "mothergoose" entries for English Amiga and DOS Floppy EGA; VGA version listed separately as "mothergoose256"
 [^ref-30]: [Mixed-Up Mother Goose (CD) manual, MOCAGH scan](https://archive.org/details/vgmuseum_sierra_mothergoose-alt-manual) - CD version: "18 missing characters and objects"
 [^ref-31]: [Computer Gaming World #73 (July 1990) - show report](https://archive.org/details/Computer_Gaming_World_Issue_73) - Mixed-Up Mother Goose CD-ROM with painted backgrounds and English and Japanese voicetracks
+[^ref-32]: [QuestBusters v7n09 (September 1990)](https://archive.org/details/questbusters-v7n09) - Sierra preview report: SCI conversion of Mixed-up Mother Goose for MS-DOS and Amiga; "Mixed-up Mother Goose (SCI)" projected "between October and Christmas" (projection, not a release record; read in the OCR text)
+[^ref-33]: [MegaZone Magazine Issue 08 (Australia, 1990)](https://archive.org/details/megazoneau08) - Sierra feature announcing the SCI and VGA versions of Mixed-Up Mother Goose; an announcement, not a release record; the issue date comes from archive.org metadata only (read in the OCR text)
