@@ -10,7 +10,7 @@ series: Hoyle Series
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: Hoyle Solitaire And Mahjong Tiles 2000 is a Hoyle-branded solitaire and
   mahjong tile game from Sierra for Windows and Macintosh under the Sierra Attractions
   label; databases date this edition to April 2000, and Sierra was already selling a
@@ -19,11 +19,11 @@ tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Solitaire And Mahjong Tiles 2000
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Hoyle Solitaire And Mahjong Tiles 2000 is a solitaire and mahjong tile game from [[Sierra On-Line]]'s Hoyle series[^ref-2][^ref-11]. Databases date this edition to April 2000[^ref-4][^ref-5][^ref-6][^ref-9], but it was not the first: Sierra's own website was already selling "Hoyle Solitaire and Mahjong" for Windows and Power Macintosh at $19.95, marked "available now", in October 1999[^ref-23], and Sierra Chest catalogues a separate 1999 edition[^ref-26]. No source found says whether the 1999 and 2000 packages differ in content. Sierra Chest lists it as "Hoyle Solitaire & Mahjong Tiles 2", published under the Sierra Attractions label for IBM PC and Macintosh on a hybrid PC/Mac CD-ROM[^ref-5]. The ESRB rated it E for Everyone, listing Sierra Entertainment as publisher and Macintosh and Windows PC as platforms[^ref-21].
+Hoyle Solitaire And Mahjong Tiles 2000 is a solitaire and mahjong tile game from [[Sierra On-Line]]'s Hoyle series[^ref-2][^ref-11]. Databases date this edition to April 2000[^ref-4][^ref-5][^ref-6][^ref-9], but it was not the first: Sierra's own website was already selling "Hoyle Solitaire and Mahjong" for Windows and Power Macintosh at $19.95, marked "available now", in October 1999[^ref-23], and Sierra Chest catalogues a separate 1999 edition[^ref-26]. No source found says whether the 1999 and 2000 packages differ in content. Sierra Chest lists it as "Hoyle Solitaire & Mahjong Tiles 2", published under the Sierra Attractions label for IBM PC and Macintosh on a hybrid PC/Mac CD-ROM[^ref-5]. The ESRB rating entry lists it as E for Everyone, names Sierra Entertainment as the company, and gives Macintosh and Windows PC as platforms[^ref-21].
 
 Sierra Attractions was one of the sub-brands Sierra created in 1998 for casual games[^ref-12]. The Hoyle franchise itself dates back to Hoyle Official Book of Games Volume 1 in 1989[^ref-11].
 
@@ -72,7 +72,7 @@ Hoyle Solitaire And Mahjong Tiles 2000 was part of Sierra's Hoyle series[^ref-5]
 
 ### Production
 
-Sierra's product page, copyright 1999, listed the game at $19.95 as "available now" by October 9, 1999, with Windows 95/98 (486/66, 8 MB RAM) and Power Macintosh (System 7.5.3, 16 MB RAM) requirements[^ref-23]. The same page, unchanged, was still up in August 2000[^ref-24]. For the 2000 edition, Sierra Chest gives a first release date of April 5, 2000[^ref-5], while GameFAQs and Metacritic give April 22, 2000[^ref-4][^ref-6]. The in-box quick-start card titles the game "Hoyle Solitaire & Mah Jong Tiles" and gives install steps for Windows 95/98, Windows 3.1 and Macintosh; it does not say which edition it shipped with[^ref-27].
+Sierra's product page, copyright 1999, listed the game at $19.95 as "available now" by October 9, 1999, with Windows 95/98 (486/66, 8 MB RAM) and Power Macintosh (System 7.5.3, 16 MB RAM) requirements[^ref-23]. The same page, unchanged, was still up in August 2000[^ref-24], and a Sierra.com "standard" product page captured on January 10, 2001 still listed "Hoyle Solitaire and Mahjong" at $19.95, "available now", with the tagline "Authentic Hoyle rules from the name synonymous with accuracy"[^ref-31]. For the 2000 edition, Sierra Chest gives a first release date of April 5, 2000[^ref-5], while GameFAQs and Metacritic give April 22, 2000[^ref-4][^ref-6]. The in-box quick-start card titles the game "Hoyle Solitaire & Mah Jong Tiles" and gives install steps for Windows 95/98, Windows 3.1 and Macintosh; it does not say which edition it shipped with[^ref-27].
 
 ### Version History
 
@@ -80,7 +80,7 @@ Sierra's product page, copyright 1999, listed the game at $19.95 as "available n
 |---------|------|----------|-------|
 | 1999 edition | By October 1999 | Windows 95/98, Power Macintosh CD | "Hoyle Solitaire and Mahjong", $19.95 on Sierra.com[^ref-23]; Sierra Chest records a 1999 release[^ref-26] |
 | 2000 edition | April 5, 2000 (Sierra Chest); April 22, 2000 (GameFAQs, Metacritic) | PC/Mac hybrid CD-ROM | Sierra Attractions, US flip-top box; Sierra Chest titles it "Tiles 2"[^ref-4][^ref-5][^ref-6] |
-| Encore re-release | Undated | Windows PC | Rated E by the ESRB with Encore Software as publisher[^ref-22] |
+| Encore re-release | Undated | Windows PC | Rated E by the ESRB, with Encore Software named as the company[^ref-22] |
 
 ### Easter Eggs and Trivia
 
@@ -104,7 +104,7 @@ No sales figures were found for this title.
 
 ### Re-releases
 
-The ESRB lists a separate rating for a Windows PC edition published by Encore Software, rated E for Everyone[^ref-22]. In July 2001 Gateway offered a "Hoyle Games" software pack at time of system purchase that included "Hoyle Solitaire and Mahjong", alongside Hoyle Word Games 2001, Casino 2001, Card Games 2001, Board Games and Crosswords[^ref-28].
+The ESRB lists a separate rating entry for a Windows PC edition, naming Encore Software as the company, rated E for Everyone[^ref-22]. In July 2001 Gateway offered a "Hoyle Games" software pack at time of system purchase that included "Hoyle Solitaire and Mahjong", alongside Hoyle Word Games 2001, Casino 2001, Card Games 2001, Board Games and Crosswords[^ref-28].
 
 ### Related Publications
 
@@ -113,7 +113,7 @@ No hint books or strategy guides for this title were found.
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam.
+- Not currently sold on GOG or Steam (checked 2026-11-07).
 
 **Download / Preservation**
 - [Sierra Chest – Box Art Gallery](https://sierrachest.com/index.php?a=games&id=794&title=hoyle-solitaire-mahjong-tiles-2&fld=box)[^ref-5]
@@ -190,8 +190,8 @@ No hint books or strategy guides for this title were found.
 [^ref-10]: [RAWG – Hoyle Solitaire and Mahjong Tiles 2000](https://rawg.io/games/hoyle-solitaire-and-mahjong-tiles-2000) – developer, publisher, platform
 [^ref-11]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise list beginning with Hoyle Official Book of Games Volume 1 (1989)
 [^ref-12]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra Attractions sub-brand for casual games (1998)
-[^ref-21]: [ESRB – Hoyle Solitaire And Mah Jong Tiles](https://www.esrb.org/ratings/4064/hoyle-solitaire-and-mah-jong-tiles/) – rated E for Everyone; Sierra Entertainment; Macintosh, Windows PC
-[^ref-22]: [ESRB – Hoyle Solitaire and Mahjong Tiles (Encore Software)](https://www.esrb.org/ratings/11000/hoyle-solitaire-and-mahjong-tiles/) – rated E for Everyone; Encore Software; Windows PC
+[^ref-21]: [ESRB – Hoyle Solitaire And Mah Jong Tiles](https://www.esrb.org/ratings/4064/hoyle-solitaire-and-mah-jong-tiles/) – rated E for Everyone; company shown: Sierra Entertainment; Macintosh, Windows PC
+[^ref-22]: [ESRB – Hoyle Solitaire and Mahjong Tiles (Encore Software)](https://www.esrb.org/ratings/11000/hoyle-solitaire-and-mahjong-tiles/) – rated E for Everyone; company shown: Encore Software; Windows PC
 [^ref-23]: [Sierra.com – Hoyle Solitaire and Mahjong product page (Wayback, 1999-10-09)](https://web.archive.org/web/19991009141447/http://www.sierra.com:80/attractions/hoyle/product/init/0,3216,soltiles,00.html) – $19.95 "available now", Win 95/98 and Mac requirements, 30 solitaire variations, layout editor, same-PC two-player, hard-drive mode
 [^ref-24]: [Sierra.com – Hoyle Solitaire and Mahjong product page (Wayback, 2000-08-30)](https://web.archive.org/web/20000830084139/http://www.sierra.com/attractions/hoyle/product/init/0,3216,soltiles,00.html) – same listing still live in August 2000
 [^ref-25]: [Sierra Attractions – Hoyle card games category (Wayback, 2000-08-19)](https://web.archive.org/web/20000819124416/http://www.sierra.com:80/attractions/hoyle/category/init/0,3098,card,00.html) – "Hoyle Solitaire & Mahjong Tiles" listed in the Hoyle card-games line
@@ -200,3 +200,4 @@ No hint books or strategy guides for this title were found.
 [^ref-28]: [Gateway Guide, July 2001 (Internet Archive)](https://archive.org/details/gateway-guide-2001-07) – "Hoyle Games" pack offered at system purchase, including Hoyle Solitaire and Mahjong
 [^ref-29]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles release data](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles/data) – US release 04/22/00, Sierra Entertainment, barcode 020626707596, rated E
 [^ref-30]: [Xtreme PC No. 35, September 2000, p. 54 (Internet Archive)](https://archive.org/details/xtreme-pc-35-septiembre-2000) – Erica Núñez Boess's review of the standalone Hoyle MahJong Tiles (not this bundle): three modes, level creator, player profiles
+[^ref-31]: [Sierra.com – Hoyle Solitaire and Mahjong standard product page (Wayback, 2001-01-10)](https://web.archive.org/web/20010110223500/http://www.sierra.com:80/attractions/hoyle/product/standard/0,3217,soltiles,00.html) – listing still live in January 2001; $19.95 "available now"; "Authentic Hoyle rules" tagline; 30 solitaire variations
