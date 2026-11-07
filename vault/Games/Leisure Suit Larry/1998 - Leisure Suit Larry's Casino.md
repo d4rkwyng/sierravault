@@ -10,13 +10,13 @@ series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra On-Line in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -66,7 +66,7 @@ Sierra described "three on-line only party games," playable by up to 15 players.
 - **Pickup Master** – Players write pick-up lines on a submitted topic; Sierra warned that all lines became Al Lowe's property, and that he promised to use the best (and worst) in a future Larry adventure
 - **Larry's Comedy Club** – An online joke-telling contest
 
-Lowe's 1997 design document had planned four party games, including a story-writing game called "The Bottom Line."[^ref-18]
+Lowe's 1997 design document had planned four party games, including a story-writing game called "The Bottom Line."[^ref-18] Sierra's *InterAction* magazine previewed the game in Spring 1998 with six casino games (Blackjack, Poker, Craps, Roulette, Slots and Wheel of Fortune) and four online party games: Larry's Comedy Club, [Group Grope] (a story-writing game), Pick Me Up! (pickup lines) and You Don't Know Dick! (a word-definition game). Those names differ from the three party games Sierra's later product page listed.[^ref-24][^ref-17]
 
 ### Virtual Economy
 
@@ -100,7 +100,9 @@ Source: MobyGames credits[^ref-2] and IMDb[^ref-1]
 
 ### Contemporary Reviews
 
-IGN's Chris Buckman scored the game 6.2/10 ("Okay") in a review dated September 2, 1998.[^ref-5] He found it "much better than those budget titles," meaning the Larry casino games Sierra had made a few years earlier, but cautioned that "how much you enjoy it depends on what you're looking for in a gambling simulation."[^ref-5] He called it "a decent buy" for players who liked the characters from the recent Larry adventures and enjoyed chatting with people online for free. He criticized the lack of a way to set the number of players at a table in single-player mode, and the way choosing to play online dumped players into a general game lobby.[^ref-5] Players who wanted a full casino simulation, with options for customizing each game and tutorials on winning strategy, were "probably better off looking elsewhere."[^ref-5]
+IGN's Chris Buckman scored the game 6.2/10 ("Okay") in a review whose URL is dated 2 September 1998.[^ref-5] He found it "much better than those budget titles," meaning the Larry casino games Sierra had made a few years earlier, but cautioned that "how much you enjoy it depends on what you're looking for in a gambling simulation."[^ref-5] He called it "a decent buy" for players who liked the characters from the recent Larry adventures and enjoyed chatting with people online for free. He criticized the lack of a way to set the number of players at a table in single-player mode, and the way choosing to play online dumped players into a general game lobby.[^ref-5] Players who wanted a full casino simulation, with options for customizing each game and tutorials on winning strategy, were "probably better off looking elsewhere."[^ref-5]
+
+*Computer Gaming World* (October 1998, issue 171) ran Charles Ardai's review under the headline "Sim Vegas," subtitled "It's Not the Casino Games, It's the Camaraderie." He wrote that "through its relationship with WON.net, Sierra has turned a bud[d]ing retread into a dynamic, intriguing, and occasionally disturbing experiment in communal behavior." He noted that all the casino games could be played offline, while the restaurants, bars, comedy clubs, gift shops and wedding chapel could be reached only over the Internet, and he described the secret "audio codes" players used to trigger sounds on each other's computers. He was less kind to the rest: the game was "at times crude and clumsy" and "often technologically weak."[^ref-22]
 
 Metacritic has no Metascore for the game. Its summary blurb calls the pairing of the Larry franchise and a casino game "a match made in sleaze heaven."[^ref-8]
 
@@ -119,7 +121,7 @@ Hardcore Gaming 101 found that "other than the constantly-playing Larry theme so
 
 Al Lowe's 1997 design document traces the game to LarryLand. Eight years earlier, LarryLand had been "a modem-based multi-player adventure game" that was "the impetus behind the birth of INN." It was dropped after six months of waiting for a working multiplayer engine.[^ref-18] Three years later, the network "implemented a shadow of the original design creating a Larry-theme casino with adult on-line chat, but little more. Still, for its time, it was extremely popular."[^ref-18] That TSN area offered casino games and a virtual bar for adults.[^ref-9]
 
-Lowe then built a standalone retail product on Sierra's Hoyle casino software. His design document says *Larry's Casino* "includes all the Hoyle's stand-alone gambling games, but with total Internet involvement," and that "it is aimed at an audience Hoyle's has missed completely."[^ref-18][^ref-3]
+Lowe then built a standalone retail product on Sierra's Hoyle casino software. His design document says *Larry's Casino* "includes all the Hoyle's stand-alone gambling games, but with total Internet involvement," and that "it is aimed at an audience Hoyle's has missed completely."[^ref-18] Sierra's own *InterAction* magazine later wrote that "the Larry team used the Hoyle Casino engine as a starting point, so the rules and payouts for the games are accurate."[^ref-23]
 
 ### Production
 
@@ -154,7 +156,7 @@ The game has connections to Sierra's earlier Larry-themed casino software:
 
 ### Online Service Shutdown
 
-The WON service is no longer available, so the game's online features no longer work.[^ref-13] Activision closed the remaining WON servers on November 1, 2008.[^ref-19] The casino games themselves still play off-line.[^ref-13][^ref-14]
+The WON service is no longer available, so the game's online features no longer work.[^ref-13] Sierra's WON servers were closed in stages, with many long-running titles shut down on August 16, 2007 and the last servers on November 1, 2008.[^ref-25][^ref-19] The sources checked do not say when this game's own online play ended. The casino games themselves still play off-line.[^ref-13][^ref-14]
 
 ### Promotional Materials
 
@@ -224,4 +226,8 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-18]: [Leisure Suit Larry's Casino Design Document (Al Lowe, 1997) – Larry Laffer Dot Net](http://www.larrylaffer.net/images/Larry's%20Casino%20Design.PDF) – LarryLand history, Hoyle's Casino code base, planned party games, SIGS integration
 [^ref-19]: [Sierra Entertainment – Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – CUC acquisition (1996), Cendant merger (1997), Havas sale (1998), WON launch (1998) and server shutdown (2008)
 [^ref-20]: [Crazy Nick's Software Picks: Leisure Suit Larry's Casino – MobyGames](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – Released June 5, 1992 on DOS; three mini-games (slot machine, blackjack, poker)
+[^ref-22]: [Computer Gaming World, issue 171 (October 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_171) – Charles Ardai, "Sim Vegas" review: quoted lines, offline casino games vs online-only social areas, audio codes (read from the archive.org text)
+[^ref-23]: [InterAction Magazine, Summer 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Summer_1998_1998_Sierra_On-Line_US) – Rob Bakie's preview in Sierra's own magazine: Hoyle Casino engine as starting point, Larrybucks, online-only party games and chat areas
+[^ref-24]: [InterAction Magazine, Spring 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1998_1998_Sierra_On-Line_US) – Paul Quinn's pre-release feature in Sierra's own magazine: six casino games including Wheel of Fortune, four planned party games
+[^ref-25]: [World Opponent Network – Wikipedia](https://en.wikipedia.org/wiki/World_Opponent_Network) – Staged WON server closures: August 16, 2007 and November 1, 2008
 [^ref-21]: [Is Larry Dead? – Al Lowe](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – Lowe: "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8"
