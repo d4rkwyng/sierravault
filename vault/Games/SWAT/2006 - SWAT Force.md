@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Java
 protagonist: SWAT Team (Artilleryman and Expert)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: SWAT Force is a 2D side-scrolling tactical action game for Java mobile
   phones, developed by Kaolink and published by Vivendi Universal Games; it launched
   in Europe in July 2005 and in the United States on February 28, 2006.
@@ -18,7 +18,7 @@ tags: [2000s, police-quest-swat, sierra]
 ---
 # SWAT Force
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -49,7 +49,7 @@ The two officers are an artilleryman, who carries a submachine gun and flashbang
 
 ### Interface and Controls
 
-SWAT Force uses a control scheme built for the phone keypads of the time[^ref-3][^ref-4]. Movement is handled through the D-pad[^ref-4], while numbered keys are assigned to actions such as switching characters and context-sensitive actions[^ref-4][^ref-5]; the artilleryman forces suspects to surrender when the player repeatedly presses the 3 key[^ref-3][^ref-5]. Pocket Gamer complained that "every time a context-sensitive situation crops up, the screen flicks back to the title image with a small explanatory note"[^ref-5].
+SWAT Force uses a control scheme built for the phone keypads of the time[^ref-3][^ref-4]. Movement is handled through the D-pad[^ref-4], while the 1 key switches characters[^ref-4][^ref-5] and the Action soft key (or key 7) opens the context-sensitive action menu[^ref-4][^ref-5]; the artilleryman forces suspects to surrender when the player repeatedly presses the 3 key[^ref-3][^ref-5]. Pocket Gamer complained that "every time a context-sensitive situation crops up, the screen flicks back to the title image with a small explanatory note"[^ref-5].
 
 The player controls one officer at a time while the other follows behind[^ref-3]. GameSpot's advice was to keep the artilleryman in front when suspects might be near, and to switch to the expert at closed doors to check for booby traps[^ref-3].
 
@@ -81,6 +81,8 @@ Pocket Gamer's Fraser MacInnes was far more critical[^ref-5]. He wrote that "no 
 
 The game received "average" reviews according to the review aggregation website GameRankings[^ref-1], which recorded a score of 65.67% based on three reviews[^ref-14]. Reviewers praised the visuals[^ref-3][^ref-5] and the tactical two-officer design[^ref-3][^ref-6], but faulted the short length[^ref-3][^ref-6], the lack of sound effects[^ref-3][^ref-5] and the clumsy character switching[^ref-5].
 
+SWAT Force won Best Wireless Game at the Spike TV 2006 Video Game Awards in December 2006, ahead of nominees Diner Dash, Tower Bloxx and Super KO Boxing!; Wikipedia lists it as the winner[^ref-22], and Vivendi's own overview claims the award[^ref-21]. The same overview says it was nominated for Best Strategy Game at the Third Annual Mobile Entertainment Awards (2005)[^ref-21].
+
 **Aggregate Scores:**
 - **GameRankings:** 65.67% (3 reviews)[^ref-14]
 - **GameSpot:** 7.9/10[^ref-1][^ref-3]
@@ -91,7 +93,7 @@ The game received "average" reviews according to the review aggregation website 
 
 ### Origins
 
-SWAT Force was developed by French studio Kaolink[^ref-1][^ref-2] and published by Vivendi Universal Games[^ref-1][^ref-7]. It was the first Police Quest/SWAT game released for mobile devices[^ref-1][^ref-2]. It was one of five mobile games that VU Games' newly formed wireless division announced in July 2005, alongside *Larry's Sexy Pinball*[^ref-16].
+SWAT Force was developed by French studio Kaolink[^ref-1][^ref-2] and published by Vivendi Universal Games[^ref-1][^ref-7]. It was the first Police Quest/SWAT game released for mobile devices[^ref-1][^ref-2]. It was one of five mobile games that VU Games' newly formed wireless division announced in July 2005, alongside *Larry's Sexy Pinball*[^ref-16]; Telecompaper's report of the announcement likewise called them "Sierra Entertainment's SWAT Force and Larry's Sexy Pinball"[^ref-23].
 
 The press release described SWAT Force as a tactical squad game based on a PC franchise that had sold "more than two million units," one that "demands the same degree of tactical finesse as the PC version"[^ref-16]. The PC series it adapted includes Police Quest: SWAT[^ref-8], SWAT 3[^ref-11] and SWAT 4[^ref-9][^ref-11].
 
@@ -101,7 +103,7 @@ Kaolink handled development[^ref-1][^ref-7]. The game's in-game text carries the
 
 **Development Credits:**
 - **Developer:** Kaolink[^ref-1][^ref-7]
-- **Publisher:** Vivendi Universal Games (Sierra Entertainment brand)[^ref-7][^ref-16]
+- **Publisher:** Vivendi Universal Games (Sierra Entertainment brand)[^ref-16]
 - **Distributor (Europe and other international markets):** WonderPhone[^ref-16]
 - **Licensing:** LAPD SWAT sign used with authorization[^ref-4]
 
@@ -121,8 +123,8 @@ The game uses 2D stages[^ref-3][^ref-5]. Pocket Gamer found the backgrounds "det
 **Controls:**[^ref-4][^ref-5]
 
 - **Movement:** D-pad[^ref-4]
-- **Actions:** Numbered keys for context-sensitive actions[^ref-4][^ref-5]
-- **Character Switch:** Dedicated button for switching between artilleryman and expert[^ref-4]
+- **Actions:** Action soft key (or key 7) opens the context-sensitive action menu[^ref-4][^ref-5]
+- **Character Switch:** Key 1, switching between artilleryman and expert[^ref-4][^ref-5]
 
 ### Technical Issues
 
@@ -207,3 +209,6 @@ SWAT Force tried to bring the tactical design of the PC SWAT games to phone hard
 [^ref-18]: [GameSpot – SWAT Force (game page)](https://www.gamespot.com/games/swat-force/) – "First Release February 28, 2006"; developer Kaolink, publisher VU Games, MOBI
 [^ref-19]: [GameFAQs – SWAT Force Release Information (archived May 2019)](https://web.archive.org/web/20190509195833/https://gamefaqs.gamespot.com/mobile/932157-swat-force/data) – US release by VU Games, 02/28/06; developer Kaolink
 [^ref-20]: [Gamasutra – Vivendi Starts Mobile Phone Gaming Division](https://www.gamedeveloper.com/game-platforms/vivendi-starts-mobile-phone-gaming-division) – Nich Maragos, March 3, 2006; new VU Games mobile division "will be called Vivendi Universal Games Mobile"
+[^ref-21]: [Vivendi Games – Vivendi Games overview (Feb 2007)](https://www.vivendi.com/wp-content/uploads/2008/09/36-vivendi-games-overview-2-1-07.pdf) – publisher's own claim: "SWAT Force won the award "Best Wireless Game of the Year" at the Spike TV 2006 Video Games Awards (December 2006)"; nominated "Best Strategy Game", Third Annual Mobile Entertainment Awards (2005)
+[^ref-22]: [Wikipedia – Spike Video Game Awards](https://en.wikipedia.org/wiki/Spike_Video_Game_Awards) – 2006 awards table, Best Wireless Game: SWAT Force; nominees Diner Dash, Tower Bloxx, Super KO Boxing!
+[^ref-23]: [Telecompaper – VU Games unit to launch five mobile games](https://www.telecompaper.com/news/vu-games-unit-to-launch-five-mobile-games--481116) – 19 July 2005; "Sierra Entertainment's SWAT Force and Larry's Sexy Pinball, will be available to consumers starting in July 2005"
