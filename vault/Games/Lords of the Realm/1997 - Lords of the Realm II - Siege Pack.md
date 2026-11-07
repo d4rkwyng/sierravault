@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: Unknown
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: 'Lords of the Realm II: Siege Pack is the official expansion pack to
   Lords of the Realm II, developed by Impressions Games and released in June 1997
   by Sierra On-Line, adding a Skirmish mode, new castles and battle maps, Internet
@@ -19,13 +19,13 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II: Siege Pack
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
 Lords of the Realm II: Siege Pack is the official expansion pack to Lords of the Realm II, developed by Impressions Games and published by Sierra On-Line[^ref-1]. It features several new maps and castles, an all-battle mode where players can defend or attack castles, improved AI, and a map editor[^ref-1]. GameSpot reported the add-on as out on June 10, 1997[^ref-21], and Wikipedia dates its release to June 1997[^ref-6]. The marketing blurb put it plainly: "Declare all-out war with the Lords of the Realm II Siege Pack. Now you can concentrate on just fighting - this is pure combat"[^ref-2].
 
-Sierra's release announcement listed a skirmish-only mode, new battle locations, a map editor, head-to-head combat on the Internet, 10 new castle designs, 20 all-new battle maps and more aggressive artificial intelligence[^ref-20]. The Siege Pack adds 20 new maps to the 24 maps of the basic game[^ref-4], and its marketing copy promised "50 new battle arenas"[^ref-2]. It requires a registered copy of Lords of the Realm II to play[^ref-20][^ref-5].
+Sierra's release announcement listed a skirmish-only mode, new battle locations, a map editor, head-to-head combat on the Internet, 10 new castle designs, 20 all-new battle maps and more aggressive artificial intelligence[^ref-20]. The Siege Pack adds 20 new maps to the 24 maps of the basic game[^ref-4], and its marketing copy promised "50 new battle arenas"[^ref-2]. Sierra's own advertisement in *Computer Gaming World* (July 1997) repeated the claim, alongside 20 new battlefields, 10 new castle designs, burning pitch and head-to-head Internet combat[^ref-27]. It requires a registered copy of Lords of the Realm II to play[^ref-20][^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -46,7 +46,7 @@ The Siege Pack has no new story of its own; it extends Lords of the Realm II, wh
 
 ### Skirmish Mode
 
-The expansion's headline addition is Skirmish Mode, which lets players jump straight into battle without the turn-based county management of the base game[^ref-20]. Home of the Underdogs called it "the best feature" of the pack: players choose either open-field battles or castle sieges, then fight with a computer-generated army or their own composition[^ref-13]. Lead designer David Lester said in Sierra's announcement: "The new skirmish mode gives many more gamers access to the hugely popular siege and combat experience"[^ref-20].
+The expansion's headline addition is Skirmish Mode, which lets players jump straight into battle without the turn-based county management of the base game[^ref-20]. Home of the Underdogs called it "the best feature" of the pack: players choose either open-field battles or castle sieges, then fight with a computer-generated army or their own composition[^ref-13]. Lords of the Realm II lead designer David Lester said in Sierra's announcement: "The new skirmish mode gives many more gamers access to the hugely popular siege and combat experience"[^ref-20].
 
 ### Campaign and Battle Additions
 
@@ -57,6 +57,10 @@ GameFAQs' Siege Pack page also documents a happiness integer-rollover glitch: a 
 ### Map Editor
 
 The included editor is for battle maps. Home of the Underdogs says players "can customize skirmishes, and even build battle maps using the intuitive map editor," but adds: "Unfortunately, you cannot design new castles or strategic-level maps, making it impossible to create new campaigns"[^ref-13]. The castles in the pack are the ten new designs supplied by Impressions[^ref-20]. The map editor needs 1 MB of video memory and 16-bit colour[^ref-17].
+
+### Internet Play
+
+In its November 1997 roundup of online gaming services, *Computer Gaming World* listed the Siege Pack among the games offered on Sierra's Internet Gaming System (SIGS)[^ref-28].
 
 ## Technical Specifications
 
@@ -136,3 +140,5 @@ The Siege Pack remains available today as part of digital re-releases: the Steam
 [^ref-24]: [GOG - Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – includes Lords of the Realm II and the Siege Pack
 [^ref-25]: [Computer Game Entertainment, October 1997, p. 102 - Lords of the Realm II Siege Pack review by Robert Mayer (Internet Archive)](https://archive.org/details/cge-03/page/102) – period review; overall rating 81; $25 street price
 [^ref-26]: [Ultimate PC, Issue 2, October 1997, p. 122 - Lords of the Realm II Siege Pack review (Internet Archive)](https://archive.org/details/ultimate-pc-02/page/122) – period review; £9.99, VFM ££; multiplayer verdict
+[^ref-27]: [Computer Gaming World, Issue 156, July 1997 - Sierra On-Line advertisement for the Lords of the Realm II Siege Pack (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_156/page/n184) – advertiser copy: 50 new battle arenas, 20 battlefields, 10 castle designs, burning pitch, Internet combat
+[^ref-28]: [Computer Gaming World, Issue 160, November 1997, p. 248 - online gaming services list (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_160/page/n251) – Sierra Internet Gaming System (SIGS) lists Lords of the Realm 2 Siege Pack among its games

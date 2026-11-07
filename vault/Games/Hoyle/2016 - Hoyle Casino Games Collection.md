@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Official Casino Games Collection is a 2016 Encore compilation of
   over 20 casino games for Windows and macOS, the latest edition in the Hoyle Casino
   series that Sierra began in 1996; it was re-released in 2019 as Encore Casino Games
@@ -19,7 +19,7 @@ tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ Encore's product page, Wikipedia and the Steam listing of the 2019 re-release na
 
 As a casino simulation, the game focuses on gambling mechanics rather than traditional puzzles. The store listing promises players can "Select from a variety of rules variations, speed of play and more!"[^ref-2] The Face Creator tool allows players to customize their avatar's appearance[^ref-2].
 
-AI opponents populate the various game tables. A Steam reviewer complained, "The AI won't shut the heck up! They're compelled to talk during every bet and there's no way (that I know of) to hurry them along."[^ref-7] Other reviewers disagreed on whether the chatter could be turned off: one wrote that "you can easily go to "optiones" and mute them"[^ref-7], and another that "You can disable to annoying player tables chatter (it's crazy repetive) but you still get to watch their talking animation"[^ref-29]. Voice acting was also criticized, with a Steam reviewer writing: "Seems they asked the same guy to do all the voices, which is extremely obvious during game play"[^ref-7].
+AI opponents populate the various game tables. A Steam reviewer complained, "The AI won't shut the heck up! They're compelled to talk during every bet and there's no way (that I know of) to hurry them along."[^ref-7] Other reviewers disagreed on whether the chatter could be turned off (in a Steam discussion thread, a player, HanSoloEater, replied on February 1, 2018 that "There is a speech frequency option that will get them to stop talking if you slide it down"[^ref-31]): one wrote that "you can easily go to "optiones" and mute them"[^ref-7], and another that "You can disable to annoying player tables chatter (it's crazy repetive) but you still get to watch their talking animation"[^ref-29]. Voice acting was also criticized, with a Steam reviewer writing: "Seems they asked the same guy to do all the voices, which is extremely obvious during game play"[^ref-7].
 
 ## Reception
 
@@ -145,7 +145,7 @@ At launch, however, a Steam reviewer reported that the game "Does not have prope
 
 Compared to previous entries in the Hoyle Casino series, the 2016 release omitted several features that players noticed:
 
-- **Slot machines** – "So OK it doesn't have slots", wrote a Steam reviewer, and a 2024 review called it "a shame that it doesn't have a slot machine"[^ref-7]; within days of the Steam release, a player asked in the Steam discussions (October 16, 2016) whether slots would be included[^ref-8]
+- **Slot machines** – "So OK it doesn't have slots", wrote a Steam reviewer, and a 2024 review called it "a shame that it doesn't have a slot machine"[^ref-7]; within days of the Steam release, a player asked in the Steam discussions (October 16, 2016) whether slots would be included[^ref-8]; a reply in the thread (sailorbear510) said "I'm not sure if slots will be added to our Casino title but we do have some new Casino games that were never part of a previous Hoyle game"[^ref-30]
 - **Multiplayer** – "No multi-player. Granted, I knew this going in since the store page states single player."[^ref-7]
 - **Horse betting** – One reviewer compared it to "an older version I played which had horse betting, slots, keno, as well as table games"[^ref-7]
 - **Casino rooms** – Another wrote that it was "Missing viral elements like the CASINO rooms, the loan room, the casino member card and a lot more."[^ref-29]
@@ -318,7 +318,7 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 [^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – Steam review score (27%, 22 reviews), estimated owners (about 410 as of October 23, 2026)
 [^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – system requirements, Steam App ID, Steam/Mac App Store availability, languages
 [^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – developer, Australian release date (December 8, 2016), user ratings
-[^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews (quoted as written, 2016–2026)
+[^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews (quoted as written, 2016–2026); [most-recent filter](https://steamcommunity.com/app/532950/reviews/?browsefilter=mostrecent&filterLanguage=all) for later reviews, incl. the 2024 quote
 [^ref-8]: [Steam Community – Hoyle Official Casino Games General Discussions](https://steamcommunity.com/app/532950/discussions/) – discussion topics including "Wil be there some slots?" (October 16, 2016) and "no MP?" (October 15, 2016)
 [^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
 
@@ -332,3 +332,5 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 [^ref-27]: [Steam – "Issues with Windows 10" (Encore announcement, March 20, 2017)](https://steamcommunity.com/games/532950/announcements/detail/484540733153969934) – recent update may have caused the game to malfunction; troubleshooting steps
 [^ref-28]: [Steam – "Windows 10 Creators Update launch fix released" (Encore announcement, June 23, 2017)](https://steamcommunity.com/games/532950/announcements/detail/1336855736856383992) – update fixing crashing / non-launching on Windows 10
 [^ref-29]: [Steam Community Reviews – Hoyle Official Casino Games (Wayback Machine, April 18, 2019)](https://web.archive.org/web/20190418023050/https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – archived reviews since removed from the live page, incl. "(it's crazy repetive)" (July 24, 2017) and "Missing viral elements like the CASINO rooms" (July 5, 2017)
+[^ref-30]: [Steam Community – "Wil be there some slots?" (Hoyle Official Casino Games General Discussions, October 16, 2016)](https://steamcommunity.com/app/532950/discussions/0/341537671987494746/) – player asks about slots; reply by sailorbear510: "we do have some new Casino games that were never part of a previous Hoyle game"
+[^ref-31]: [Steam Community – "Can I turn off the other players?" (Hoyle Official Casino Games General Discussions, January 1, 2018)](https://steamcommunity.com/app/532950/discussions/0/1620599015911637667/) – reply by HanSoloEater (February 1, 2018): "There is a speech frequency option that will get them to stop talking if you slide it down"
