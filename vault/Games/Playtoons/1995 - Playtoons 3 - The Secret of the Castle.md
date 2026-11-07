@@ -10,14 +10,14 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-29'
+last_updated: '2026-11-07'
 composer: [Big Wheels, Charles Callet]
 description: 'Playtoons 3: Secret of the Castle is a 1995 Coktel Vision interactive storybook and animation construction kit for Windows and Mac, set in medieval Pendragon Castle and published by Sierra On-Line.'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Playtoons 3: Secret of the Castle is a children's creativity and interactive sto
 
 Wikipedia describes the Playtoons series as focused on teaching children school topics in a digital format meant to be more enthralling for kids.[^ref-5] Like the other volumes, Secret of the Castle lets players read an interactive comic-book story and also build their own animated stories with an integrated editor that provides background scenery, props, and characters which can be added to a scene and interacted with.[^ref-6] According to The Sierra Chest, it was the first Playtoons title to use construction kit backgrounds, items, characters and animations in some of its story panels.[^ref-7]
 
-The game was released in France and Germany in 1995 and in the United States in 1996.[^ref-8][^ref-21] Sierra's North American packaging recommended it for ages 6 and up, while Abandonware France describes the collection as aimed at children aged 4 to 10.[^ref-3][^ref-11] If several Playtoons titles are installed, the assets from all of them become available in the editor.[^ref-3][^ref-5][^ref-6][^ref-11]
+The game was released in France and Germany in 1995 and in the United States in 1996.[^ref-8][^ref-21] Sierra's North American packaging recommended it for ages 6 and up, while Abandonware France describes the collection as aimed at children aged 4 to 10.[^ref-3][^ref-11] Period European sources give the same 4-to-10 range for the series,[^ref-27][^ref-28][^ref-29] while Sierra's own *InterAction* magazine listed Playtoons at ages 6–12[^ref-30] and the Fun Online rating box gives "Alter: ab 8" (age 8 and up).[^ref-26] If several Playtoons titles are installed, the assets from all of them become available in the editor.[^ref-3][^ref-5][^ref-6][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -78,6 +78,14 @@ Rather than traditional adventure game puzzles, Playtoons 3 centres on its story
 ### Contemporary Reviews
 
 MobyGames records one contemporary critic review, from the German magazine Fun Online's January 1996 issue, and normalizes its score to 83%.[^ref-23] The magazine's two-page feature (pp. 56–57) covered the German release, *Das Geheimnis des Schlosses*, alongside Playtoons 2. Its shared rating box gives no numeric grade, only verbal ratings: "super gut" for graphics and sound and "sehr gut" for the fun factor.[^ref-26] The review praised the "prächtigen Bildern und tollen Soundeffekten" (splendid pictures and great sound effects) and said "Der Comic-Baukasten dazu ist prima ausgestattet" (the comic construction kit is well equipped).[^ref-26][^ref-23]
+
+The German magazine PC Magazin (DOS edition, April 1996, p. 66) reviewed *Das Geheimnis des Schlosses* (79 Mark, from Sierra Coktel Deutschland) in a short piece by Simone Viethen. It called the game "einer von drei derzeit lieferbaren Titeln aus der Serie Playtoons" (one of three Playtoons titles currently available), described as creative software for children from 4 to 10, and noted that "Die Geschichten können gespeichert, vertont, abgespielt und ausgedruckt werden" (the stories can be saved, voiced, played back and printed). Its "DOS-Urteil" (verdict) read: "Genau richtig für die kleinen Geschichtenerfinder" (just right for little story inventors).[^ref-27]
+
+### Pre-release Coverage
+
+Before launch, CD-ROM Today (UK, issue 17, September 1995) previewed the series in an article by Garrick Webster. It said the third Playtoon, *Secret of the Castle*, "will be about two royal children living in Arthurian times", and that each title would feature an interactive storybook of 12 to 15 screens aimed at four- to ten-year-olds. It described the assets from each disc being pooled into "a library of story 'bricks'" shared across titles, and reported that Coktel Vision "plans to release 15 Playtoons in all".[^ref-28] PC Review (issue 47, September 1995) likewise reported that Sierra planned 15 titles over two years, naming the first three as *Uncle Archibald*, *Spirou* and *The Secret of the Castle*, "a medieval adventure".[^ref-29]
+
+Sierra's own *InterAction* magazine (Fall 1995) advertised "Playtoons: Secret of the Castle in September", a planned date; the US release is recorded as 1996 (see Version History).[^ref-30]
 
 ### Modern Assessment
 
@@ -149,6 +157,8 @@ Playtoons 3 was the first title in the series to use construction kit background
 | German release | 1995 | Windows 3.x, Macintosh | Germany | Published by Sierra On-Line; distributed by Sierra Coktel Deutschland[^ref-21] |
 | French release | 1995 | Windows 3.x, Macintosh | France | Published by Coktel Vision[^ref-21] |
 | North American release | 1996 | Windows 3.x/95, Macintosh | USA, Canada | Published by Sierra On-Line[^ref-21][^ref-3] |
+
+The Fall 1995 issue of Sierra's *InterAction* announced a September 1995 arrival for the game, which was a plan rather than a release date; the table above follows MobyGames for the actual release years.[^ref-30]
 
 ScummVM's detection tables label one French and one English Windows variant as v1.002. They also list a French "Pack mes histoires animées" edition and further German and English variants that carry no version label.[^ref-25]
 
@@ -229,3 +239,7 @@ Not currently sold on modern digital storefronts. GOG lists it only as a fan-req
 [^ref-24]: [ScummVM source – engines/gob/detection/tables.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables.h) – Gob engine game list including Gobliiins, ADI titles and Playtoons 3
 [^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – Playtoons 3 detection entries, including v1.002 French and English Windows variants
 [^ref-26]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01) – German-language review of Playtoons 2 and 3; quotes, German/English text, verbal rating box
+[^ref-27]: [PC Magazin (DOS edition), April 1996, p. 66 (Internet Archive scan)](https://archive.org/details/pc-magazin-1996-04) – Simone Viethen's review of *Das Geheimnis des Schlosses*; ages 4–10, saving/printing, "DOS-Urteil", 79 Mark, Sierra Coktel Deutschland
+[^ref-28]: [CD-ROM Today, issue 17 (UK), September 1995 (Internet Archive scan)](https://archive.org/details/cd-rom-today-issue-17-1995-09) – Garrick Webster's pre-release feature: Arthurian setting, ages 4–10, 12–15 screens, shared asset library, 15 titles planned
+[^ref-29]: [PC Review, issue 47, September 1995 (Internet Archive scan)](https://archive.org/details/pc-review-47) – launch line-up, "a medieval adventure", 15 titles planned, ages 4–10
+[^ref-30]: [InterAction Magazine, Fall 1995, Sierra On-Line (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – Sierra's own magazine: Secret of the Castle announced for September (planned), Playtoons listed at ages 6–12
