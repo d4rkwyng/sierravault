@@ -10,7 +10,7 @@ series: Inca
 engine: Gob
 protagonist: Atahualpa / El Dorado
 sierra_lineage: Sierra Published
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, a surreal space
   combat/adventure game drawing on Incan mythology, developed by Coktel Vision and
   published by Sierra On-Line.'
@@ -18,11 +18,11 @@ tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12][^ref-30], it was released in Europe in late 1993 and in the United States on March 22, 1994[^ref-28][^ref-30]. It combined adventure puzzles with arcade-style space combat sequences, a mix that divided critics: French magazines rated it above 90%, while Computer Gaming World found it "fun to watch, but it isn't all that much fun to play"[^ref-25][^ref-26][^ref-27].
+Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12][^ref-30], it was released in Europe in late 1993 and in the United States on March 22, 1994[^ref-28][^ref-30]. It combined adventure puzzles with arcade-style space combat sequences, a mix that divided critics: two French magazines (Tilt and Génération 4) rated it above 90%, while Computer Gaming World found it "fun to watch, but it isn't all that much fun to play"[^ref-25][^ref-26][^ref-27].
 
 The game opens with Atahualpa, son of El Dorado, before control passes back to El Dorado himself in the fight against his arch-enemy Aguirre[^ref-12], across settings that include the Australian desert and outer space[^ref-16][^ref-17]. Like its predecessor, Inca II used pre-rendered bitmaps and digitized video cutscenes[^ref-12]. Besides the standard release, a "Série limitée" edition released in France, Germany, Italy and the UK bundled the 3.5" floppy version with a soundtrack disc[^ref-7].
 
@@ -51,7 +51,7 @@ Inca II supports keyboard and mouse input, with optional analog joystick support
 
 ### Structure and Progression
 
-The game combined adventure gameplay with arcade-style space combat and puzzle-solving[^ref-12], using pre-rendered bitmaps and digitized video cutscenes[^ref-12]. Some levels are purely shooting, some involve maze exploration, and others include inventory-based puzzles or riddles[^ref-17]. There is no save-game feature[^ref-25]; instead, a password recorded at the end of each sequence lets the player resume at any level[^ref-26], and a "video" feature replays movie sequences already seen[^ref-25]. The game was distributed on both 3.5" floppy disks and CD-ROM[^ref-21]; Tilt noted that the floppy version lacked the digitized voices and animations[^ref-26].
+The game combined adventure gameplay with arcade-style space combat and puzzle-solving[^ref-12], using pre-rendered bitmaps and digitized video cutscenes[^ref-12]. Some levels are purely shooting, some involve maze exploration, and others include inventory-based puzzles or riddles[^ref-17]. Computer Gaming World reported no save-game feature[^ref-25], and Tilt likewise said the game does not allow saves but records a password at the end of each sequence, which lets the player resume at any level[^ref-26]; Joystick, by contrast, mentions "sauvegardes effectuées automatiquement aux moments clés" (saves made automatically at key moments)[^ref-32]. A "video" feature replays movie sequences already seen[^ref-25]. The game was distributed on both 3.5" floppy disks and CD-ROM[^ref-21]; Tilt noted that the floppy version lacked the digitized voices and animations[^ref-26].
 
 ### Puzzles and Mechanics
 
@@ -82,9 +82,10 @@ Inca II drew mixed reviews; MobyGames aggregates a 70% critic average from 16 ra
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Génération 4 #62 (Jan. 1994) | 92% | Review by Cédric Jeannin[^ref-27] |
+| Génération 4 #62 (Jan. 1994) | 92% | Review signed "Cédric" ("L'avis de Cédric")[^ref-27] |
 | Tilt #122 (Jan. 1994) | 91% | Verdicts by Serge D. Grun and Jacques Harbonn[^ref-26] |
 | PC Games (Germany) (Jan. 1994) | 86% | Via MobyGames critic list[^ref-31] |
+| Joystick #45 (Jan. 1994) | 82% | In the magazine's list of rated games; test text calls it "du tout bon"[^ref-32] |
 | PC Gamer US (July 1994) | 81% | "Inca II is ultimately a winner"[^ref-22] |
 | Power Play (Jan. 1994) | 76% | Via MobyGames critic list[^ref-31] |
 | Computer Gaming World #122 (Sept. 1994) | 2 stars | Review by Charles Ardai[^ref-25] |
@@ -93,7 +94,7 @@ Inca II drew mixed reviews; MobyGames aggregates a 70% critic average from 16 ra
 
 PC Gamer praised the "great diversity of gameplay" and the $34.95 price, while noting that "the acting is pretty cheesy (not necessarily a bad thing!)"; its bottom line called it "a weird mix" that is "fun to play, easy on the wallet, and often stunning to look at"[^ref-22].
 
-Tilt's verdict was emphatic: "Vous n'avez pas encore de lecteur de CD-ROM ? Eh bien, courez en acheter un ! Inca II justifie amplement à lui seul un tel investissement"[^ref-26]. Génération 4 called it "Superbe !", with better-judged difficulty than the first game, and faulted only some lip-sync, digitizations and explosions[^ref-27].
+Tilt's verdict was emphatic: "Vous n'avez pas encore de lecteur de CD-ROM ? Eh bien, courez en acheter un ! Inca II justifie amplement à lui seul un tel investissement"[^ref-26]. Génération 4 called it "Superbe !", with better-judged difficulty than the first game, and faulted only some lip-sync, digitizations and explosions[^ref-27]. Joystick was more measured: it called the game "un patchwork de scènes aussi différentes que réussies" (a patchwork of scenes as different as they are successful), praised the music and visuals, but noted that the end arrives quickly ("à peine une après-midi, en ce qui me concerne", barely an afternoon, in the reviewer's case); it still concluded "allez-y, c'est du tout bon !" (go for it, it's all good)[^ref-32]. The review is unsigned in the scan.
 
 Computer Gaming World liked the game's graphics, action and music but criticized its "schizophrenic gameplay" and voice acting[^ref-17], writing that "the schizophrenic gameplay is aggravated by the voice acting, which is so bad in spots that you have to think it's a joke"[^ref-23].
 
@@ -111,15 +112,15 @@ Inca II also earned a dubious honor: Computer Gaming World's November 1996 list 
 
 ### Origins
 
-Developed by French studio Coktel Vision[^ref-12][^ref-25], Inca II was the company's follow-up to its 1992 original Inca[^ref-12]. It runs on Coktel's Gob engine[^ref-16].
+Developed by French studio Coktel Vision[^ref-12][^ref-25], Inca II was the company's follow-up to its 1992 original Inca[^ref-12][^ref-35]. It runs on Coktel's Gob engine[^ref-16]. Sierra's own magazine InterAction noted that both Inca II and Goblins Quest 3 were "originally developed in France"[^ref-34].
 
 ### Production
 
-The game's production involved digitized video cutscenes and pre-rendered graphics[^ref-12]. Tilt's credits list the scenario by Y. Chosse and S. Ressot, programming by D. Giraudeau and O. Guerrier, and graphics by Y. Chosse, J. Kluytmans and J. Rey[^ref-26]; MobyGames credits Yannick Chosse and Stéphane Ressot with the script and adaptation[^ref-12]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12].
+The game's production involved digitized video cutscenes and pre-rendered graphics[^ref-12]. Joystick #45 introduced Yannick Chosse as the person behind the product ("à l'initiative du produit") and reported that Inca 2 "a demandé un an de développement" (took a year of development) and was "le fruit du travail d'une douzaine de personnes" (the work of about a dozen people)[^ref-32]. Chosse told the magazine that development began with 3D ships made on a Getris system, but "très vite, 3D Studio de Autodesk s'est imposé" (3D Studio quickly took over); the Getris ships were kept and the other 3D scenes were made in 3D Studio. He also said a Speech Pack would probably follow[^ref-32]. Joystick #42 reported that the programming was done not at Coktel's offices but in Bordeaux by the MDO team led by Arnaud Delrue, five programmers at that point, and that fifteen audio tracks were planned for the final version[^ref-33]. It described Gilles Douïeb composing on an Atari ST with Cubase and a Roland Sound Canvas[^ref-33]. Tilt's credits list the scenario by Y. Chosse and S. Ressot, programming by D. Giraudeau and O. Guerrier, and graphics by Y. Chosse, J. Kluytmans and J. Rey[^ref-26]; MobyGames credits Yannick Chosse and Stéphane Ressot with the script and adaptation[^ref-12]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12].
 
 ### Release
 
-Coktel Vision ran a contest with Génération 4 in December 1993 "à l'occasion de la sortie du jeu Inca 2 sur PC et CD-Rom PC"[^ref-28]. MobyGames credits Sierra On-Line as publisher of the 1993 German and UK releases (distributed in Germany by Bomico) and of the US "Enhanced CD-ROM Version" released March 22, 1994; Crucial Entertainment reissued it in the UK in 2000[^ref-30]. French press credited Coktel Vision as publisher and distributor in France[^ref-26]. Sierra's spring 1994 InterAction preview expected it at "around $30 on 3.5 disk for MS-DOS, and around $35 for multimedia CD"[^ref-29]; PC Gamer and Computer Gaming World both gave the price as $34.95[^ref-22][^ref-25].
+Coktel Vision ran a contest with Génération 4 in December 1993 "à l'occasion de la sortie du jeu Inca 2 sur PC et CD-Rom PC"[^ref-28]. MobyGames credits Sierra On-Line as publisher of the 1993 German and UK releases (distributed in Germany by Bomico) and of the US "Enhanced CD-ROM Version" released March 22, 1994; Crucial Entertainment reissued it in the UK in 2000[^ref-30]. French press credited Coktel Vision as publisher and distributor in France[^ref-26]. Sierra's spring 1994 InterAction preview expected it at "around $30 on 3.5 disk for MS-DOS, and around $35 for multimedia CD"[^ref-29]; PC Gamer and Computer Gaming World both gave the price as $34.95[^ref-22][^ref-25]. In its Fall 1994 issue, Sierra's InterAction listed Inca II in a tie for 10th place in its "Top Ten Games" feature, describing it as "a combination of adventure game, flight simulation, and futuristic puzzles with a twist of ancient mysticism"; the feature, written by Sierra, does not say what the ranking measures[^ref-34].
 
 The "Série limitée" edition, released in France, Germany, Italy and the UK, contained the 3.5" floppy version of the game plus a soundtrack disc[^ref-7].
 
@@ -153,11 +154,15 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 [^ref-21]: [MobyGames Technical Specs - Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/specs/) – System requirements, media, sound and input support
 [^ref-22]: [PC Gamer Online - Inca II review (July 1994), archived](https://web.archive.org/web/19991223072710/http://www.pcgamer.com/reviews/559.html) – 81%; "Inca II is ultimately a winner"
 [^ref-23]: [Computer Gaming World #121 (August 1994)](https://archive.org/download/Computer_Gaming_World_Issue_121/Computer_Gaming_World_Issue_121_djvu.txt) – "These Just In" capsule review of Inca II
-[^ref-24]: [Computer Gaming World #148 (November 1996)](https://archive.org/download/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – "50 Worst Games of All Time": #18 Inca II
+[^ref-24]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Worst 50 Games Of All Time": #18 Inca II
 [^ref-25]: [Computer Gaming World #122 (September 1994), pp. 62–64](https://archive.org/download/Computer_Gaming_World_Issue_122/Computer_Gaming_World_Issue_122_djvu.txt) – Charles Ardai, "Inca II: Nations of Immortality: More Baffling French Sensibilities"; spec box, price $34.95, publisher Sierra On-Line, rating 2 stars (checked against page images)
 [^ref-26]: [Tilt #122 (January 1994), pp. 42–44](https://archive.org/download/Tilt122/Tilt122_djvu.txt) – PC CD-ROM review by Serge D. Grun and Jacques Harbonn; credits, technical problems, Intérêt 91% (checked against page image)
-[^ref-27]: [Génération 4 #62 (January 1994), pp. 162–165](https://archive.org/download/generation4-magazine-062/generation4_numero_062_djvu.txt) – "Test CD-ROM PC: Inca II Wiracocha" by Cédric Jeannin; action/adventure, Intérêt 92% (checked against page image)
+[^ref-27]: [Génération 4 #62 (January 1994), pp. 162–165](https://archive.org/download/generation4-magazine-062/generation4_numero_062_djvu.txt) – "Test CD-ROM PC: Inca II Wiracocha" signed "Cédric"; action/adventure, Intérêt 92% (checked against page image)
 [^ref-28]: [Génération 4 #61 (December 1993)](https://archive.org/download/generation4-magazine-061/generation4_numero_061_djvu.txt) – Coktel Vision / Génération 4 contest marking the release of Inca 2 on PC and CD-ROM
 [^ref-29]: [InterAction, Spring 1994 (Vol. VI No. 4), pp. 28–29](https://archive.org/download/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US_djvu.txt) – Sierra's own magazine: John Williams, "Coktel's Inca Series", preview of Inca II with expected prices
 [^ref-30]: [MobyGames - Inca II releases (Wayback, May 2023)](https://web.archive.org/web/20230530213825/https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/releases/) – 1993 Germany/UK releases, US Enhanced CD-ROM Version Mar 22, 1994, Crucial UK 2000; Sierra On-Line credited as publisher
 [^ref-31]: [MobyGames - Inca II critic reviews (Wayback, May 2022)](https://web.archive.org/web/20220525134758/https://www.mobygames.com/game/dos/inca-ii-nations-of-immortality/mobyrank) – Critic list including Tilt 91, PC Games (DE) 86, Power Play 76, ASM 75, PC Joker 75
+[^ref-32]: [Joystick #45 (January 1994)](https://archive.org/details/joystick045) – French magazine: Inca II test (automatic saves, "à peine une après-midi", unsigned in the scan), 82% in its list of rated games, and an interview with Yannick Chosse (development, 3D Studio, Speech Pack)
+[^ref-33]: [Joystick #42 (October 1993)](https://archive.org/details/joystick042) – "En chantier: Inca 2": programming by MDO in Bordeaux (Arnaud Delrue), fifteen audio tracks planned, Gilles Douïeb's Atari ST setup
+[^ref-34]: [InterAction, Fall 1994 (Vol. VII No. 1)](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra's own magazine: "Top Ten Games" (10. tie: Inca II) and "Inca II and Goblins Quest 3: The most original sequels ever..."
+[^ref-35]: [MobyGames - Inca](https://www.mobygames.com/game/4198/inca/) – Original game entry; DOS release 1992 (read via the MobyGames API)
