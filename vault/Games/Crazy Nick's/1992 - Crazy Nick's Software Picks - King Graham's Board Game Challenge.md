@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a 1992 Sierra On-Line budget release that pairs Checkers and Backgammon, taken
   from Hoyle 3, with King Graham as the opponent.'
@@ -18,11 +18,11 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992.[^ref-6] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
+**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992.[^ref-6] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of the first five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
 
 Both games were lifted from *Hoyle Official Book of Games Volume 3: Great Board Games* (Hoyle 3).[^ref-6] The pack runs on Sierra's SCI1.1 interpreter.[^ref-7]
 
@@ -30,7 +30,7 @@ Both games were lifted from *Hoyle Official Book of Games Volume 3: Great Board 
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Director:** Bill Davis[^ref-21]
-> **Designer:** Bridget McKenna, Marti McKenna (credited on the original Hoyle 3 board game team)[^ref-21]
+> **Designer:** Bridget McKenna, Marti McKenna (original Hoyle 3 team, not this pack)[^ref-21]
 > **Engine:** SCI1.1[^ref-7]
 > **Platforms:** DOS[^ref-7]
 > **Release Date:** June 5, 1992[^ref-6]
@@ -62,7 +62,7 @@ The goal is to take all of the opponent's pieces or leave them with no legal mov
 
 ### Game Origins
 
-Sierra Chest records that both games came from Hoyle 3.[^ref-6] The MobyGames reviewer Katakis found that the games, interface and mechanics match Hoyle 3.[^ref-1]
+Sierra Chest records that both games came from Hoyle 3.[^ref-6] Sierra's own InterAction magazine, in its Spring 1993 issue, listed *Hoyle Book of Games, Vol. 3: Great Board Games* as including Checkers and Backgammon among its six board games.[^ref-29] The MobyGames reviewer Katakis found that the games, interface and mechanics match Hoyle 3.[^ref-1]
 
 ## Reception
 
@@ -97,13 +97,15 @@ The Super Adventures in Gaming guest post from March 2011 was kinder. It doubted
 
 ### Origins
 
-Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequences and casino and board games from earlier adventure and Hoyle titles. It released them as budget compilations in blister cards.[^ref-6] Sierra's own InterAction magazine announced the line in its Summer 1992 issue, saying the games "will start appearing in software stores in May or June" and would "come in blister packs" and "retail for around $10". It described this pack as "Challenge the King of Daventry to Checkers or Backgammon."[^ref-26] Five packs came out under the Crazy Nick's Software Picks name:[^ref-4][^ref-6]
+Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequences and casino and board games from earlier adventure and Hoyle titles. It released them as budget compilations in blister cards.[^ref-6] Sierra's own InterAction magazine announced the line in its Summer 1992 issue, saying the games "will start appearing in software stores in May or June" and would "come in blister packs" and "retail for around $10". It described this pack as "Challenge the King of Daventry to Checkers or Backgammon."[^ref-26] Game Players PC Entertainment reported the line as already on shelves in an issue dated to display until September 8, 1992, saying Sierra had "extracted sections of games from previous titles".[^ref-27] The first five packs came out under the Crazy Nick's Software Picks name:[^ref-4][^ref-6]
 
 1. **King Graham's Board Game Challenge**
 2. **Leisure Suit Larry's Casino**
 3. **Parlor Games with Laura Bow**
 4. **Robin Hood's Games of Skill and Chance**
 5. **Roger Wilco's Spaced Out Game Pack**
+
+InterAction's Winter 1992 issue said bargain software lovers had made "the first five titles of Nick's Picks such a hit" that Sierra was rolling out five new titles, which were all-new arcade games rather than extracts from larger games.[^ref-28] The pack was still offered by mail order in Sierra's Spring 1993 "Nick's Picks Special", with an offer expiry of April 15, 1993. (The Internet Archive item for that issue is titled June 1993, but the scan itself reads Spring 1993.)[^ref-29]
 
 ### Production
 
@@ -176,7 +178,10 @@ The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board
 [^ref-18]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_1993) – Playable preservation copy
 [^ref-21]: [MobyGames Credits](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/credits/) – Pack team and original Board Game Challenge (Hoyle 3) team
 [^ref-22]: [ScummVM SCI detection table](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Entry "cnick-kq": Crazy Nick's Software Picks: King Graham's Board Game Challenge
-[^ref-23]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line on pp. 76 and 78
+[^ref-23]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's text falls between the pp. 76 and 78 footers
 [^ref-24]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: King Graham's Board Game Challenge entry
 [^ref-25]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-26]: [InterAction Magazine Vol. V No. 2, Summer 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – News Notes, "Crazy Nick Launches Budget Software Line"
+[^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – Cover "Display Until September 8, 1992"; news item: Nick's Picks on shelves, sections extracted from previous titles
+[^ref-28]: [InterAction Magazine Vol. V No. 4, Winter 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "New Nick's Picks": first five titles a hit, five new arcade titles (Sierra's own magazine)
+[^ref-29]: [InterAction Magazine Vol. 6 No. 1, Spring 1993 (Internet Archive item titled June 1993)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – "Nick's Picks Special!" order form (offer expires 4/15/93); Hoyle Book of Games Vol. 3 description (Sierra's own magazine)
