@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 1999 Edition engine
 protagonist: N/A (racing simulation)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: NASCAR Craftsman Truck Series Racing is a 1999 Windows racing simulation
   by Papyrus Design Group, published by Sierra, that sold the truck-racing portion of
   NASCAR Racing 1999 Edition as a standalone game.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Craftsman Truck Series Racing
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -50,6 +50,10 @@ MobyGames classifies the game as having both 1st-person and 3rd-person perspecti
 ### Trucks and Competition
 
 Players drive 700 hp trucks against the best truck racers of the series.[^ref-3] Sierra's announcement of NASCAR Racing 1999 Edition said the truck content modelled "the accurate rules and vehicle dynamics" of the series: "A driver of a Craftsman Truck contends with more front drag, and less rear downforce than NASCAR cars, especially on faster tracks, and a Craftsman Truck operates with slightly less horsepower."[^ref-4] The same release promised "the most detailed set-up mode on the market" for customising cars and trucks in the pits.[^ref-4]
+
+In Sierra's own InterAction magazine (Holiday 1998), project director Dave Matson said the trucks' "increased drag and the aerodynamics of the nose give the trucks a tendency to push, compared to cars."[^ref-26] Papyrus's product page describes the game as putting players "in the driver's seat of a NASCAR Craftsman Truck" and lets them "pilot a 700hp truck", racing the top drivers of the 1998 season, including series champion Ron Hornaday Jr. and Jack Sprague, around "eight of NASCAR's toughest tracks".[^ref-27]
+
+The Sierra Sports features page for the parent game, NASCAR Racing 1999 Edition (not for this standalone title), lists a "New truck physics model with different handling characteristics from the cars", 34 total tracks and a "Full featured paintshop to customize your car or truck".[^ref-28]
 
 Squakenet calls the trucks "very different beasts from most racing games, and which take some getting used to."[^ref-7]
 
@@ -87,7 +91,7 @@ In a modern retrospective, Squakenet says "this game is kind of a cheat", becaus
 
 ### Origins
 
-The game is the truck-racing portion of NASCAR Racing 1999 Edition, released on its own.[^ref-3][^ref-7] Sierra's April 1999 release called it "the first stand alone truck title available to consumers", sold on CD-ROM for Windows 95 at a suggested $19.99.[^ref-25] The Daily Downforce calls it "the first and thus far only NASCAR game to be centered around only a lower tier touring series."[^ref-10]
+The game is the truck-racing portion of NASCAR Racing 1999 Edition, released on its own.[^ref-3][^ref-7] Sierra's April 1999 release called it "the first stand alone truck title available to consumers", sold on CD-ROM for Windows 95 at a suggested $19.99.[^ref-25] Sierra's InterAction magazine (Holiday 1998) called the truck game "the first racing game to feature all the high-speed, door-to-door truck racing excitement of the 1998 NASCAR Craftsman Truck Series", and described it as "an integral part of NASCAR Racing - 1999 Edition" that was "also available as a standalone title"; this is Sierra's own claim.[^ref-26] Papyrus's product page likewise calls it "a standalone game based on the NASCAR Racing 1999 Edition".[^ref-27] The Daily Downforce calls it "the first and thus far only NASCAR game to be centered around only a lower tier touring series."[^ref-10]
 
 ### Production
 
@@ -117,7 +121,7 @@ The Internet Archive copy describes it as a "NASCAR Racing video game for Window
 
 ### Trivia
 
-- A separate NASCAR Racing 3: Craftsman Truck Series Expansion Pack followed in 2000 for NASCAR Racing 3.[^ref-6]
+- A separate NASCAR Racing 3: Craftsman Truck Series Expansion Pack followed in 2000 for NASCAR Racing 3.[^ref-6] Sierra Studios and Papyrus announced it on May 8, 2000, priced at $19.95, with the complete 1999 Craftsman Truck Series season, six new tracks and night versions of Las Vegas and Texas.[^ref-29]
 - Vivendi Universal shut Papyrus down in 2004.[^ref-22] That May, Vivendi and Papyrus sold the NASCAR Racing 2003 Season copyrights to FIRST.net, which went on to build iRacing on its engine.[^ref-5]
 
 ## Legacy
@@ -190,3 +194,7 @@ The game is not sold on GOG or Steam. It is preserved on the Internet Archive an
 [^ref-23]: [MobyGames - NASCAR Craftsman Truck Series Racing credits (Windows)](https://www.mobygames.com/game/3225/nascar-craftsman-truck-series-racing/credits/windows/) - Project Director David Matson; Game Design Flamburis, Heath, Matson; Lead Engineer Heath; track and driver licences; © 1998
 [^ref-24]: [MobyGames - NASCAR Craftsman Truck Series Racing specs](https://www.mobygames.com/game/3225/nascar-craftsman-truck-series-racing/specs/) - Pentium, Windows 95, 24 MB RAM, DirectX 5, Glide, 2× CD-ROM, 640×480, ESRB Everyone
 [^ref-25]: [Race Sim Central - Papyrus Announce Standalone NASCAR Truck Racing Title](https://racesimcentral.net/papyrus-announce-standalone-nascar-truck-racing-title/) - repost of Sierra's April 5, 1999 press release: "today announced the release"; "the first stand alone truck title available to consumers"; Windows 95 CD-ROM, $19.99
+[^ref-26]: [Internet Archive - InterAction Magazine, Holiday 1998 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Holiday_1998_1998_Sierra_On-Line_US) - Sierra's own magazine (OCR text read): "the first racing game to feature all the high-speed, door-to-door truck racing excitement"; "also available as a standalone title"; Dave Matson on trucks' "tendency to push"
+[^ref-27]: [Papyrus Design Group - Products (archived site)](https://papyold.racesimcentral.net/products.html) - undated; "700hp truck", "standalone game based on the NASCAR Racing 1999 Edition", 1998 drivers Ron Hornaday Jr. and Jack Sprague, "eight of NASCAR's toughest tracks"
+[^ref-28]: [Sierra Sports - NASCAR Racing 1999 Features (Wayback, March 2000)](https://web.archive.org/web/20000307024426/http://www.sierrasports.com/sierrasports/nascar99/features.html) - feature list of the parent game, NASCAR Racing 1999 Edition: truck physics model, 34 tracks, paintshop
+[^ref-29]: [Race Sim Central - NASCAR 3 Truck Series Expansion Pack Available](https://racesimcentral.net/nascar-3-truck-series-expansion-pack-available/) - repost of the May 8, 2000 Sierra Studios/Papyrus press release: $19.95; 1999 truck season; six new tracks plus night Las Vegas and Texas
