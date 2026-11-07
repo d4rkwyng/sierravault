@@ -10,13 +10,13 @@ series: Hoyle Series
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: Hoyle Puzzle Games is a collection of 15 puzzle and arcade-style games, including The Incredible Machine - Even More Contraptions, released by Sierra on September 7, 2002, for Windows and Macintosh.
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -169,7 +169,7 @@ No sales figures for Hoyle Puzzle Games have been published.
 
 ### Sequel
 
-The next edition, Hoyle Puzzle Games 2004, was released on September 2, 2003[^ref-29]. Wikipedia's list of Hoyle titles shows Hoyle Puzzle Games releases in 2002 and 2003[^ref-5].
+The next edition, Hoyle Puzzle Games 2004, was released on September 2, 2003[^ref-29]. Wikipedia's list of Hoyle titles shows Hoyle Puzzle Games releases in 2002 and 2003[^ref-5]. The ESRB rated the 2004 edition for Palm Pilot, Windows PC and Pocket PC, with no Macintosh platform listed[^ref-37]. In December 2004 Vivendi Universal Games divested its Hoyle branded software products to Navarre Corp's Encore subsidiary[^ref-38].
 
 ### Related Publications
 
@@ -231,12 +231,12 @@ Hoyle Puzzle Games was published during Sierra's ownership by Vivendi Universal 
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -270,3 +270,5 @@ Hoyle Puzzle Games was published during Sierra's ownership by Vivendi Universal 
 [^ref-34]: [MobyGames – The Incredible Machine: Even More Contraptions](https://www.mobygames.com/game/5256/the-incredible-machine-even-more-contraptions/) – first released 2001 on Windows, Macintosh and Palm OS
 [^ref-35]: [Sierra Chest – Incredible Machine: Even More Contraptions](https://www.sierrachest.com/index.php?a=games&id=321&fld=general) – first release 2001, developer Jeff Tunnell Productions; also included in Hoyle Puzzle Games (2002)
 [^ref-36]: [Sierra – Hoyle Catalog (archived December 2002)](https://web.archive.org/web/20021208080817/http://hoyle.sierra.com/hoylecatalog.html) – "Challenge yourself with 15 games -- you'll find arcade action, brainteasers, and classic puzzles, all in one place!"
+[^ref-37]: [ESRB – Hoyle: Puzzle Games 2004](https://www.esrb.org/ratings/8853/hoyle-puzzle-games-2004/) – Sierra Entertainment; platforms Palm Pilot, Windows PC, Pocket PC; rated E for Everyone, no descriptors
+[^ref-38]: [SoCalTech – Vivendi Sells Hoyle Brand (December 23, 2004)](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – "divested its Hoyle branded software products to Navarre Corp's Encore subsidiary. Terms were not disclosed."
