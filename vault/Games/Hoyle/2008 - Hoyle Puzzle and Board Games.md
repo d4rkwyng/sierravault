@@ -10,18 +10,19 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: Hoyle Puzzle and Board Games 2008 is a compilation of classic
- puzzle and board games released by Encore Software for Windows and Macintosh...
+ puzzle and board games released by Encore Software for Windows and Macintosh
+ in October 2007.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2008 is a compilation of classic puzzle, word and board games released by [[Encore Software]] for Windows and Macintosh in October 2007; GameSpot's weekly release list, compiled from retailer information, listed "Hoyle Puzzle and Board 2008 (PC)" under October 1, 2007, alongside Hoyle Casino 2008 and Hoyle Card Games 2008[^ref-1][^ref-2][^ref-22][^ref-27]. The "2008" in the title is the edition name, not the release year. Encore's own product page called it "21 classic and new challenging favorites", including Hangman, Mahjongg, Anagrams, Sudoku and "over 1200 different Crosswords"[^ref-22][^ref-29]. A box description now shown on GameFAQs advertises "60+ classic games! Bonus 105 puzzle adventures"[^ref-2]; that does not match Encore's count of 21, and the page does not say which package it describes. The tagline was "HOYLE – The Official Name in Gaming"[^ref-2][^ref-22].
+Hoyle Puzzle and Board Games 2008 is a compilation of classic puzzle, word and board games released by [[Encore Software]] for Windows and Macintosh in October 2007; GameSpot's weekly release list, compiled from retailer information, listed "Hoyle Puzzle and Board 2008 (PC)" under October 1, 2007, alongside Hoyle Casino 2008 and Hoyle Card Games 2008[^ref-1][^ref-2][^ref-22][^ref-27]. The "2008" in the title is the edition name, not the release year. Encore's own product page called it "21 classic and new challenging favorites", including Hangman, Mahjongg, Anagrams, Sudoku and "over 1200 different Crosswords"[^ref-22][^ref-29]. A box description now shown on GameFAQs advertises "60+ classic games! Bonus 105 puzzle adventures"[^ref-2]; that does not match Encore's count of 21, and the GameFAQs page does not say which package it describes. The same feature list ("Over 60 classic games including all the favourites!" and "BONUS 105 puzzle adventures!") appears in Impulse Gamer's review of the Australian, Mindscape-distributed release, so the GameFAQs text may describe a different SKU from the 21-game box sold in the United States[^ref-33]. The tagline was "HOYLE – The Official Name in Gaming"[^ref-2][^ref-22].
 
 The collection uses the Hoyle Bucks reward system: players automatically earn Hoyle Bucks as they play ("the more you play the more you earn") and spend them on new backgrounds and music tracks[^ref-6][^ref-22]. It also includes a Face Creator for building a player character and interactive computer opponents with multiple skill levels[^ref-6][^ref-22]. The Windows and Mac versions shipped together on a combined PC/Mac DVD retailing for $19.99; a contemporary Inside Mac Games forum post greeted it as the first time Hoyle games had been released with Mac OS X compatibility[^ref-22][^ref-24].
 
@@ -40,7 +41,7 @@ The collection uses the Hoyle Bucks reward system: players automatically earn Ho
 
 ### Included Games
 
-Encore advertised 21 games but its product page named only a few of them: the word and puzzle games Hangman, Mahjongg, Anagrams and Sudoku, plus "over 1200 different Crosswords"[^ref-22][^ref-29]. No 2008-edition source consulted gives the full game list. The per-category list on MobyGames, with its bonus Big Bang Board Games and The Incredible Machine content, belongs to the following 2009 edition[^ref-4][^ref-31][^ref-32].
+Encore advertised 21 games but its product page named only a few of them: the word and puzzle games Hangman, Mahjongg, Anagrams and Sudoku, plus "over 1200 different Crosswords"[^ref-22][^ref-29]. No 2008-edition source consulted gives the full game list. The per-category list on MobyGames, with its bonus Big Bang Board Games and The Incredible Machine content, belongs to the following 2009 edition[^ref-4][^ref-31][^ref-32]. Engadget's coverage of the 2009 edition likewise described its "Board" part as "actually Freeverse's Big Bang Board Games"[^ref-34].
 
 Encore's page also promised that "All games are based on the official rules from HOYLE®, the authority for over 200 years"[^ref-22]. The GameFAQs box description adds "the official HOYLE rulebook and strategy guide"[^ref-2].
 
@@ -58,10 +59,11 @@ Encore's page described "Interactive computer opponents with multiple skill leve
 
 ### Contemporary Reviews
 
-Hoyle Puzzle and Board Games 2008 received no critic reviews on Metacritic, where the Metascore is listed as "tbd" and no user reviews have been posted[^ref-1]. GameFAQs shows a "Good" user rating from a single rating[^ref-2]. The ESRB rated it "E for Everyone" with the content descriptor Mild Language, for Macintosh and Windows PC[^ref-28].
+Hoyle Puzzle and Board Games 2008 received no critic reviews on Metacritic, where the Metascore is listed as "tbd" and no user reviews have been posted[^ref-1]. Impulse Gamer reviewed the Australian, Mindscape-distributed release in February 2008 (reviewer James Wright), scoring it 8.5 overall (Gameplay 9.0, Graphics 6.5, Sound 6.5, Value 8.8) and calling it "A worthy purchase for only $29.95AUD"[^ref-33]. GameFAQs shows a "Good" user rating from a single rating[^ref-2]. The ESRB rated it "E for Everyone" with the content descriptor Mild Language, for Macintosh and Windows PC[^ref-28].
 
 **Aggregate Scores:**
 - **Metacritic:** tbd (no critic reviews)[^ref-1]
+- **Impulse Gamer:** 8.5 (Australian Mindscape release)[^ref-33]
 - **GameFAQs:** "Good" (1 rating)[^ref-2]
 - **Software Informer:** 16 user votes recorded[^ref-5]
 
@@ -80,7 +82,7 @@ By 2007 the Hoyle name was licensed from the U.S. Playing Card Company by Encore
 
 **Distribution:**
 - **Media:** Combined PC/Mac DVD-ROM[^ref-24]
-- **Retail listing:** Newegg sold it as Encore model 14310, first listed October 12, 2007[^ref-29]
+- **Retail listing:** Newegg sold it as Encore model 14310, first listed October 12, 2007[^ref-29]; a second Newegg listing, Encore model 705381143161, shows "First Listed on Newegg December 11, 2009"[^ref-35]
 - **Trial:** A 60-minute full-featured trial download (688 MB) was offered from Encore's site[^ref-22]; by September 2008 Encore noted that "The download version is only available for Windows"[^ref-30]
 - **Mac digital download:** MacGameStore.com, from April 7, 2008, US$19.95, requiring Mac OS X 10.4.11 or later[^ref-25]
 
@@ -105,10 +107,6 @@ In a July 31, 2015 post on Encore's support forum, staff member JasonC listed "H
 ### Scientific Use
 
 The 2008 edition was used as the active control condition in a randomized controlled trial of home-based cognitive telerehabilitation for multiple sclerosis by Leigh E. Charvet and colleagues, published in PLoS ONE in 2017; the authors wrote: "These games served as an active placebo control, designed to account for nonspecific treatment effects including interactions with research personnel, and computer-based game-playing"[^ref-23]. A later review of home-based cognitive remediation in MS summarized the same trial: "The active control group used the software Hoyle Puzzle and Board Games (2008 version) to conduct a series of sham activities"[^ref-10].
-
-### Windows 10 Compatibility
-
-Encore supported the title into the Windows 10 era: its July 31, 2015 forum notice lists Hoyle Puzzle and Board Games (2008 and up) as tested under Windows 10[^ref-9].
 
 ### Related Publications
 
@@ -163,12 +161,12 @@ Encore supported the title into the Windows 10 era: its July 31, 2015 forum noti
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -198,3 +196,6 @@ Encore supported the title into the Windows 10 era: its July 31, 2015 forum noti
 [^ref-30]: [HoyleGaming.com – HOYLE® Puzzle & Board Games (2008) (Wayback, Sep 22, 2008)](http://web.archive.org/web/20080922114717/http://www.hoylegaming.com/game.php?id=7) – available for Windows and Mac; download version Windows-only
 [^ref-31]: [Macworld – Encore rolls out Hoyle 2009 games](https://www.macworld.com/article/192651/hoyle-5.html) – Peter Cohen, September 25, 2008; 2009 edition announced at $19.99 with Big Bang Board Games from Freeverse
 [^ref-32]: [HoyleGaming.com – Hoyle Puzzle & Board (2009) (Wayback, Sep 22, 2008)](http://web.archive.org/web/20080922114702/http://www.hoylegaming.com/game.php?id=21) – 2009 edition: Big Bang Board Games bonus, Windows XP SP3 requirement
+[^ref-33]: [Impulse Gamer – Hoyle Puzzle & Board Games 2008 PC review](https://www.impulsegamer.com/pc/pchoylepuzzlegames2008.htm) – James Wright, February 2008; Australian Mindscape-distributed release, A$29.95; 8.5 overall; feature list incl. "Over 60 classic games" and "BONUS 105 puzzle adventures"
+[^ref-34]: [Engadget – According to Hoyle, it's 2009](https://www.engadget.com/2008/09/26/according-to-hoyle-its-2009/) – Steve Sande, September 26, 2008; Hoyle Puzzle & Board 2009 for Mac, Big Bang Board Games from Freeverse
+[^ref-35]: [Newegg – Hoyle Puzzle & Board Games 2008 (Encore model 705381143161)](https://www.newegg.com/encore-software-hoyle-puzzle-board-games-2008/p/N82E16832196443) – second Newegg listing, "First Listed on Newegg December 11, 2009"
