@@ -10,7 +10,7 @@ series: Oil's Well
 engine: Unknown/unnamed
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-07'
 composer: [Ken Allen]
 description: Oil's Well (1990) is an arcade-style action game published by Sierra
   On-Line and developed by Banana Development, Inc. The game serves as an enhanced
@@ -19,11 +19,11 @@ tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Oil's Well (1990) is an arcade-style action game published by Sierra On-Line[^ref-20] and developed by Banana Development, Inc.[^ref-1][^ref-2][^ref-17][^ref-18] The game serves as an enhanced remake of the original 1983 Oil's Well, which was written by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
+Oil's Well (1990) is an arcade-style action game published by Sierra On-Line[^ref-20] and developed by Banana Development, Inc.[^ref-1][^ref-2][^ref-17][^ref-18][^ref-22][^ref-28] The game serves as an enhanced remake of the original 1983 Oil's Well, which was written by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5][^ref-22]
 
 The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] Retro365 described Anteater as "a fine cocktail of Dig-Dug, Snake, and Pac-Man elements stirred into a unique but fun and challenging game"; only the article's title applies that mix to Oil's Well ("Oil's Well, a fine cocktail of Dig-Dug, Snake, and Pac-Man").[^ref-6]
 
@@ -43,9 +43,9 @@ The original 1983 version became a solid hit and won Computer Games Magazine's 1
 
 ## Story Summary
 
-Oil's Well presents a straightforward arcade premise centered on resource extraction rather than a narrative-driven story.[^ref-7] Players take on the role of managing an oil drilling operation, extending a robotic mining arm deep below the earth's crust to collect valuable oil deposits.[^ref-7][^ref-8] The underground environment is populated with monstrous bugs and creatures that threaten the drilling operation at every turn.[^ref-7]
+Oil's Well presents a straightforward arcade premise centered on resource extraction rather than a narrative-driven story.[^ref-7] Players guide a drilling bit through the underground tunnels and collect the dots of oil, avoiding the underground pests in each level, as MobyGames' description puts it;[^ref-5] one MobyGames player review calls it a game "where you control a robotic arm trying to mine oil in the underground tunnels."[^ref-5]
 
-Between levels, players are treated to animated cartoon sequences featuring Slater the Petrosaur, a dinosaur character who finds himself frequently inconvenienced by a drillbit in various comedic situations.[^ref-1][^ref-5][^ref-12] These short movies provide entertainment rewards for completing each of the eight levels.[^ref-1] The final cartoon features a limousine with the words "Oils Well That Ends Well"[^ref-5] – a further pun on the game's title, which itself is a play on the phrase "all's well."[^ref-3]
+Between levels, players are treated to animated cartoon sequences featuring Slater the Petrosaur, a dinosaur character who finds himself frequently inconvenienced by a drillbit in various comedic situations.[^ref-1][^ref-5][^ref-12] These short movies provide entertainment rewards for completing each of the eight levels.[^ref-1][^ref-22] The final cartoon features a limousine with the words "Oils Well That Ends Well"[^ref-5] – a further pun on the game's title, which itself is a play on the phrase "all's well."[^ref-3]
 
 Slater went on to star in his own game, Slater & Charlie Go Camping.[^ref-5]
 
@@ -82,7 +82,7 @@ The original 1983 version of Oil's Well was well received across multiple platfo
 
 Ahoy! magazine found the "gameplay is, in my experience, unique" and gave it a "Recommended" rating.[^ref-3] InfoWorld called the IBM PCjr version "a clever, basic game,"[^ref-3] while InfoWorld's Essential Guide to Atari Computers labeled the Atari 8-bit version "Sierra's trickiest."[^ref-3] According to Retro365, InfoWorld reviewed Ardy the Aardvark and Oil's Well in December 1983 and gave Mitchell's game the upper hand for its fast gameplay.[^ref-6]
 
-Recorded critical response to the 1990 remake is sparse: MobyGames lists three critic ratings averaging 47%.[^ref-5] The two MobyGames player reviews split. Katakis (2013) praised a soundtrack "brilliantly composed by Ken Allen" that "blends in with the game's overall theme," and called the remake "an excellent update to the original 1983 classic."[^ref-5] Gothicgene (2002) found it "nothing special" and wrote, "I don't know why Sierra chose Oil's Well to make a remake of and not something else."[^ref-5]
+Recorded critical response to the 1990 remake is sparse: MobyGames lists three critic ratings averaging 47%.[^ref-5] One contemporary review is the German magazine Power Play (February 1991), headed "Öl im Getriebe" ("Oil in the gears"), which rated the MS-DOS version 33% (graphics 28%, sound 31%, difficulty "mittel," or medium) and called it "Nostalgie-Nahrung von Sierra" ("nostalgia food from Sierra"). It judged the game to offer "keine erkennbaren Verbesserungen gegenüber dem angestaubten Original" ("no discernible improvements over the dusty original") and concluded, "Kurzfristig macht Oil's Well durchaus Spaß, doch nach einiger Zeit wird's öde" ("In the short term Oil's Well is quite fun, but after a while it gets dull").[^ref-23] The two MobyGames player reviews split. Katakis (2013) praised a soundtrack "brilliantly composed by Ken Allen" that "blends in with the game's overall theme," and called the remake "an excellent update to the original 1983 classic."[^ref-5] Gothicgene (2002) found it "nothing special" and wrote, "I don't know why Sierra chose Oil's Well to make a remake of and not something else."[^ref-5]
 
 ### Modern Assessment
 
@@ -115,7 +115,7 @@ The original game was released under Sierra's short-lived "SierraVision" label b
 
 ### Production
 
-In 1989 Sierra got together with Banana Development after seeing Bananoid, which Retro365 calls "a brilliant public domain 256-color arcade game"; a remake of Oil's Well was then in the conceptual stage at Sierra.[^ref-6] Banana Development built the enhanced version, adding 256-color VGA graphics, mouse control and a new soundtrack for DOS.[^ref-1][^ref-6] Notably, the remake was produced without the involvement of original creator Thomas J. Mitchell.[^ref-3]
+In 1989 Sierra got together with Banana Development after seeing Bananoid, which Retro365 calls "a brilliant public domain 256-color arcade game"; a remake of Oil's Well was then in the conceptual stage at Sierra.[^ref-6][^ref-22] Sierra's own Sierra News Magazine (Fall 1990) tells the same story, and adds that Sierra's Bill Davis "directed the redesign" and decided that new 256-color graphics were not enough: "We decided to create 'reward' cartoons between levels."[^ref-22] The French magazine PCompatibles Informatique (September 1990) likewise called it another arcade game "conçu avec Banana Development" ("designed with Banana Development"), with "des graphismes en 256 couleurs et une bande sonore tonitruante" ("256-color graphics and a thunderous soundtrack").[^ref-28] Banana Development built the enhanced version, adding 256-color VGA graphics, mouse control and a new soundtrack for DOS.[^ref-1][^ref-6] Notably, the remake was produced without the involvement of original creator Thomas J. Mitchell.[^ref-3]
 
 The enhanced graphics were created by Nancy Hoffelmeyer (Art Director) and Andy Hoyos (Assistant Art Director), who the same year worked on King's Quest V.[^ref-5][^ref-6] The programming for the IBM version was handled by William Rieder.[^ref-5]
 
@@ -185,11 +185,11 @@ Users have reported several compatibility issues with the 1990 DOS version:[^ref
 
 The original 1983 Oil's Well "managed to do what Anteater couldn't and became a solid hit."[^ref-6] The game's success earned it Computer Games Magazine's 1984 Golden Floppy Award for Excellence in the Maze Game of the Year category.[^ref-3][^ref-6]
 
-The 1990 remake was part of the run of enhanced remakes Sierra produced as the 1980s closed; most were adventure games, and Oil's Well was one of the few arcade titles given the treatment.[^ref-5][^ref-12] No sales figures for the remake have been found.
+The 1990 remake was part of the run of enhanced remakes Sierra produced as the 1980s closed; most were adventure games, and Oil's Well was one of the few arcade titles given the treatment.[^ref-5][^ref-12] No sales figures for the remake have been found. Sierra's own Sierra News Magazine (Fall 1990) said the game was "released in October of this year" and listed it as new at $34.95;[^ref-22] a Sierra advertisement in the 26 November 1990 MicroTimes pitched "eight levels of arcade action, dodging dozens of land mines and underground critters" and promised "the time of your life mining black gold in your very own full color oil field";[^ref-24] and the order form in Sierra's InterAction magazine (Fall 1991, prices effective 11/1/91 to 3/31/92) still listed the MS-DOS version at $34.95.[^ref-25]
 
 ### Collections
 
-Oil's Well (1990) was included in the compilation **Action Five** released in 1992.[^ref-5]
+Oil's Well (1990) was included in the compilation **Action Five** released in 1992.[^ref-5] Software-dealer games price lists in COMPUTE! (July and October 1992) list "Action 5" as a bundle containing Silpheed, Thexder, FireHawk, Zeliard and Oil's Well.[^ref-26][^ref-27]
 
 The game is currently preserved and playable through the Internet Archive's DOS game collection, which hosts thousands of classic games through browser-based DOSBox emulation.[^ref-1]
 
@@ -206,7 +206,7 @@ An unofficial conversion of Oil's Well for the Commodore PET/CBM appeared in 201
 
 ANALOG Computing called the 1983 original "truly different and challenging."[^ref-3]
 
-The 1990 remake illustrates the challenges of updating classic arcade games for modern audiences. While the technical improvements – VGA graphics, Ken Allen's soundtrack, and animated interludes – were substantial, the fundamental gameplay remained rooted in early 1980s design sensibilities.[^ref-6] At least one MobyGames reviewer questioned why Sierra chose to remake it at all, while the Slater character went on to star in his own game.[^ref-5][^ref-6]
+The 1990 remake illustrates the challenges of updating classic arcade games for modern audiences. While the technical improvements – VGA graphics, Ken Allen's soundtrack, and animated interludes – were substantial, the core gameplay struck some critics as dated. Power Play's 1991 review saw "no discernible improvements over the dusty original" ("keine erkennbaren Verbesserungen gegenüber dem angestaubten Original"),[^ref-23] and Retro365 observed in 2021 that "customers' expectations had changed significantly by 1990."[^ref-6] At least one MobyGames reviewer questioned why Sierra chose to remake it at all, while the Slater character went on to star in his own game.[^ref-5][^ref-6]
 
 The remake shows Sierra updating its back catalog in the same year its art staff were working on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]].[^ref-6]
 
@@ -252,3 +252,10 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 [^ref-17]: [Metacritic – Oil's Well (1990)](https://www.metacritic.com/game/oils-well-1990) – basic metadata; lists developer Banana Development and publisher Sierra On-Line (no reviews)
 [^ref-18]: [VGTimes.ru – System Requirements](https://vgtimes.ru/games/oils-well-1990/system-requirements/) – developer/publisher confirmation
 [^ref-21]: [The Sierra Chest – Oil's Well (VGA): Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – controllers, difficulty levels, drill bits, two-player mode, engine listed as unknown/unnamed
+[^ref-22]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990) – Internet Archive](https://archive.org/details/Sierra_Vol_03_03_News_Magazine_1990_Fall) – Sierra's own customer magazine; Banana Development and Bananoid origin, 256 colors, Slater and the reward cartoons, Bill Davis, eight levels, October 1990 release, $34.95 order-list entry
+[^ref-23]: [Power Play 35 (February 1991) – Internet Archive](https://archive.org/details/Power.Play.N35.1991.02-kultpower) – German review of the MS-DOS version, "Öl im Getriebe" (PDF page 135); 33% score box read from the page image
+[^ref-24]: [MicroTimes Issue 76 (26 November 1990) – Internet Archive](https://archive.org/details/microtimesfallis00unse_13) – Sierra advertisement on p. 143 (ad text read from OCR)
+[^ref-25]: [Sierra InterAction, Vol. 4 No. 3 (Fall 1991) – Internet Archive](https://archive.org/details/Sierra_Vol_04_03_InterAction_1991_Fall) – Sierra's own customer magazine; order form (PDF page 70) lists Oil's Well MS-DOS at $34.95, prices effective 11/1/91 to 3/31/92
+[^ref-26]: [COMPUTE! Magazine Issue 142 (July 1992) – Internet Archive](https://archive.org/details/1992-07-compute-magazine) – dealer price list entry for the Action 5 bundle (OCR; price not relied on)
+[^ref-27]: [COMPUTE! Magazine Issue 145 (October 1992) – Internet Archive](https://archive.org/details/1992-10-compute-magazine) – dealer price list entry for the Action 5 bundle (OCR; price not relied on)
+[^ref-28]: [PCompatibles Informatique 42 (September 1990) – Internet Archive](https://archive.org/details/pcompatibles-informatique-42-septembre-1990) – French news item on Sierra's new releases (printed p. 16): Banana Development, 256-color graphics
