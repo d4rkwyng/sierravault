@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-11-01'
+last_updated: '2026-11-07'
 description: Ricochet is a multiplayer disc-throwing arena game developed and published
   by Valve, released on November 1, 2000 as a free official mod for the Sierra-published
   Half-Life and sold on Steam since 2003.
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Ricochet is a multiplayer deathmatch game developed and published by Valve and r
 
 Players jump between neon-lit platforms suspended above an abyss and throw discs at one another, trying to push opponents off the platforms; horizontal barriers let discs bounce, which gives the game its name.[^ref-13] On Steam the game holds a "Very Positive" rating, with 86% of 2,996 English-language user reviews positive as of October 2026.[^ref-7]
 
-Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as both developer and publisher.[^ref-7][^ref-19][^ref-13] Its link to Sierra is indirect: it was an official mod for Half-Life, which Sierra published, and it appeared during the years when Sierra handled Valve's retail releases.[^ref-23] The Sierra Connection section below sets out what the records do and don't show.
+Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as both developer and publisher.[^ref-7][^ref-19][^ref-13] Its link to Sierra is indirect: it was an official mod for Half-Life, which Sierra published.[^ref-23] The Sierra Connection section below sets out what the records do and don't show.
 
 > [!info]- Game Info
 > **Developer:** Valve[^ref-1][^ref-7]
@@ -41,7 +41,7 @@ Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as 
 
 ## Story Summary
 
-Ricochet is multiplayer-only and has no story or campaign.[^ref-13] Its setting is an abstract, futuristic arena of floating platforms over a void.[^ref-13][^ref-18] Giant Bomb's wiki describes the game as heavily inspired by the disc combat scenes in the 1982 film Tron, and a fan-written Steam guide suggests the arcade game Discs of Tron as an influence.[^ref-18][^ref-6] No Valve statement confirming that inspiration was found.
+Ricochet is multiplayer-only and has no story or campaign.[^ref-13] Its setting is an abstract, futuristic arena of floating platforms over a void.[^ref-13][^ref-18] Giant Bomb's wiki describes the game as heavily inspired by the disc combat scenes in the 1982 film Tron, Rock Paper Shotgun's Alec Meer called it a "Tron-like" multiplayer mod in 2012, and a fan-written Steam guide suggests the arcade game Discs of Tron as an influence.[^ref-18][^ref-26][^ref-6] No Valve statement confirming that inspiration was found.
 
 ## Gameplay
 
@@ -78,7 +78,7 @@ Ricochet uses GoldSrc's first-person view and Half-Life's standard keyboard-and-
 
 ### Origins
 
-Ricochet was a side project by Robin Walker, made to demonstrate how quickly and easily a mod could be built with the Half-Life SDK.[^ref-1][^ref-21] Valve's 2012 Handbook for New Employees lists it in the company timeline for 2000.[^ref-21] The game's source code is part of the Half-Life SDK repository.[^ref-1]
+Ricochet was a side project by Robin Walker, made to demonstrate how quickly and easily a mod could be built with the Half-Life SDK.[^ref-1][^ref-21] Valve's 2012 Handbook for New Employees lists it in the company timeline for 2000.[^ref-21] The game's source code is part of the Half-Life SDK repository.[^ref-1] Valve's public Half-Life SDK repository on GitHub has a `ricochet` folder, with `cl_dll`, `dlls` and `pm_shared` subfolders.[^ref-30]
 
 ### Release and Distribution
 
@@ -91,9 +91,13 @@ Valve released Ricochet as a free Half-Life mod on November 1, 2000.[^ref-1][^re
 | 1.0 | November 1, 2000 | Free mod release[^ref-1] |
 | Half-Life 1.1.1.0 | June 12, 2002 | Ricochet included in the Half-Life update[^ref-1][^ref-9] |
 | Steam | September 12, 2003 | Standalone Steam release[^ref-13][^ref-18] |
-| Steam update | July 31, 2013 | Mac OS X and Linux support, SteamPipe conversion[^ref-22][^ref-18] |
+| Steam beta | March 29, 2013 | Opt-in beta adding Linux and OS X support[^ref-27] |
+| Steam update | July 31, 2013 | Mac OS X and Linux support, SteamPipe conversion, Cloud saves[^ref-22][^ref-18] |
+| Steam update | July 10, 2017 | Security fixes: console string and malformed BSP crashes, malformed SAV file writes, consumable weapon-switch crash, custom decal crash[^ref-28] |
+| Steam update | August 21, 2018 | Engine fixes to skybox image loading and demo command processing; restrictions on path characters and file extensions in commands[^ref-29] |
+| Steam update | October 8, 2019 | Affected through shared resources by a Half-Life update[^ref-31] |
 
-Version 1.1.1.0 was not the last update. Valve's July 2013 Steam update added Mac OS X and Linux support and moved the game to the SteamPipe content system.[^ref-22]
+Version 1.1.1.0 was not the last update. Valve first offered the Linux and OS X support as a Steam beta on March 29, 2013.[^ref-27] The July 2013 Steam update then added Mac OS X and Linux support, moved the game to the SteamPipe content system and enabled Cloud saves.[^ref-22] Later Steam updates in 2017 and 2018 fixed crashes and security problems.[^ref-28][^ref-29]
 
 ### Transition to Steam
 
@@ -199,7 +203,13 @@ SteamDB records a lowest-ever discount of 90% off.[^ref-19] Owners of retail Hal
 [^ref-18]: [Giant Bomb - Ricochet (Wayback, June 2022)](https://web.archive.org/web/20220614062239/https://www.giantbomb.com/ricochet/3030-8093/) - Gameplay, jump pads, three regenerating discs, decapitator throw, powerups, Tron comparison
 [^ref-19]: [SteamDB - Ricochet](https://steamdb.info/app/60/) - Developer/publisher Valve, review count, lowest recorded price (-90%)
 [^ref-21]: [Valve - Handbook for New Employees (2012)](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) - Timeline entry for 2000: "Ricochet is released. Robin Walker demonstrates to the mod community how a game can be created quickly and easily with Valve's SDK"; "Empty Shelf" joke
-[^ref-22]: [Steam - Ricochet update released (July 31, 2013)](https://steamcommunity.com/games/60/announcements/detail/1622705517872370082) - Valve announcement: SteamPipe conversion, Mac OS X and Linux support
+[^ref-22]: [Steam - Ricochet update released (July 31, 2013)](https://steamcommunity.com/games/60/announcements/detail/1622705517872370082) - Valve announcement: SteamPipe conversion, Mac OS X and Linux support, Cloud saves for save games
 [^ref-23]: [Sierra Studios - Half-Life News (Wayback, November 21, 2000)](https://web.archive.org/web/20001121072600/http://www.sierrastudios.com:80/games/half-life/news.html) - Sierra's announcements of Half-Life: Counter-Strike and Platinum Edition (November 14, 2000); no mention of Ricochet
 [^ref-24]: [MobyGames - Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) - Sierra On-Line retail compilation; lists Ricochet among its contents
 [^ref-25]: [Wikipedia - Ricochet (2000 video game), revision of December 30, 2016](https://en.wikipedia.org/w/index.php?title=Ricochet_(2000_video_game)&oldid=757488032) - Developed and published by Valve; scoring, decapitation attack, scoreboard, three maps
+[^ref-26]: [Rock Paper Shotgun - Gabe On 'Ricochet 2' Delay. He Doesn't Mean Ricochet. (Alec Meer, April 23, 2012)](https://www.rockpapershotgun.com/gabe-on-ricochet-2-delay-but-he-doesnt-mean-ricochet) - Calls Ricochet a "weirdo Tron-like jumpy multiplayer mod"; quotes Newell: everyone working on Ricochet 2 continues to work on it
+[^ref-27]: [Steam - Ricochet Beta released (March 29, 2013)](https://steamcommunity.com/games/60/announcements/detail/1478591738299315749) - Valve announcement: beta adds Linux and OS X support; text read via the Steam News API
+[^ref-28]: [Steam - Ricochet update released (July 10, 2017)](https://steamcommunity.com/games/60/announcements/detail/2078825132647756368) - Valve announcement: crash and file-write security fixes; text read via the Steam News API
+[^ref-29]: [Steam - Ricochet update released (August 21, 2018)](https://steamcommunity.com/games/60/announcements/detail/2444779293780548611) - Valve announcement: skybox loading and demo command fixes, path and extension restrictions; text read via the Steam News API
+[^ref-30]: [GitHub - ValveSoftware/halflife, ricochet folder](https://github.com/ValveSoftware/halflife/tree/master/ricochet) - Ricochet source folder (cl_dll, dlls, pm_shared) in Valve's Half-Life SDK repository
+[^ref-31]: [Steam - Ricochet update released (October 8, 2019)](https://steamcommunity.com/games/60/announcements/detail/2426802221737641332) - Valve announcement: a Half-Life update affects Ricochet through shared resources; text read via the Steam News API
