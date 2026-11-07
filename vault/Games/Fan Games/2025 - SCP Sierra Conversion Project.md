@@ -1,7 +1,7 @@
 ---
 title: SCP - Sierra Conversion Project
 release_year: 2026
-developer: SCP (DaRaSCo, kikems/AmigaWave, Estrayk)
+developer: SCP (DaRaSCo, kikems/AmigaWave)
 designer: [DaRaSCo, kikems]
 publisher: SCP
 genre: Enhancement
@@ -10,21 +10,21 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-10-26'
+last_updated: '2026-11-07'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
 > [!info]- Game Info
-> **Developer:** SCP (DaRaSCo, kikems/AmigaWave, Estrayk)[^ref-1]
+> **Developer:** SCP (DaRaSCo, kikems/AmigaWave)[^ref-1]
 > **Designer:** DaRaSCo, kikems[^ref-2]
 > **Publisher:** SCP (self-published)[^ref-1]
-> **Engine:** SCI (Enhanced Graphics)[^ref-3]
+> **Engine:** SCI (Enhanced Graphics)[^ref-3][^ref-7]
 > **Platforms:** Amiga OCS[^ref-3][^ref-4]
 > **Release Year:** 2026 (first release January 3, 2026; Space Quest IV previewed December 2025)[^ref-23][^ref-1]
 > **Series:** Multiple Sierra Series
@@ -33,13 +33,14 @@ tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 
 The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preserving and enhancing Sierra adventure games on the Commodore Amiga platform.[^ref-1] Originally focused on translating and preserving Amiga games in Spanish, the group expanded their mission after discovering that Sierra's original Amiga ports suffered from poor graphics quality compared to their DOS counterparts.[^ref-2]
 
-Key members include DaRaSCo and kikems (of AmigaWave). The SCP extracts the graphics from the Amiga versions of Sierra's SCI engine games, modifies them, and re-injects them into the games.[^ref-2][^ref-7] Sierra's Amiga ports were notorious among Amiga owners, with one Lemon Amiga user, quoted by IndieRetroNews, saying they "vomited at the non-amiga-worthy graphics" and "swore at the arrogance of sierra for releasing a daft excuse for a port" after trying the original Space Quest IV Amiga version.[^ref-3]
+Key members include DaRaSCo and kikems (of AmigaWave). The SCP extracts the graphics from the Amiga versions of Sierra's SCI engine games, modifies them, and re-injects them into the games.[^ref-2] Sierra's Amiga ports were notorious among Amiga owners, with one Lemon Amiga user, quoted by IndieRetroNews, saying they "vomited at the non-amiga-worthy graphics" and "swore at the arrogance of sierra for releasing a daft excuse for a port" after trying the original Space Quest IV Amiga version.[^ref-3]
 
 The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-23][^ref-24][^ref-6][^ref-3]
 
 > [!info]- Project Info
 > **Group:** Sierra Conversion Project (SCP)
-> **Key Members:** DaRaSCo, kikems (AmigaWave), Estrayk
+> **Key Members:** DaRaSCo, kikems (AmigaWave)
+> **Announcements:** posted on the English Amiga Board by Estrayk[^ref-23][^ref-24][^ref-6]
 > **Origin:** Spain
 > **Focus:** Amiga OCS graphics enhancement
 > **Tools Used:** ImageFX, PPaint, Adpro (Amiga-native)
@@ -49,7 +50,7 @@ The project gained significant attention in January 2026 with the rapid release 
 
 The Sierra Conversion Project is a non-narrative enhancement effort rather than a standalone game with its own plot. Each SCP release preserves the complete original story of its source title intact—players experience the same dialogue, plot beats, character arcs, and endings authored by Sierra's original writing teams.[^ref-2][^ref-3]
 
-For [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], that means King Graham's quest to recover his castle and family from the wizard Mordack across the lands of Daventry, Serenia, and beyond.[^ref-8] For [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], it is Sonny Bonds's investigation into the cult that attacked his wife Marie.[^ref-9] For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], it is janitor Roger Wilco's time-hopping pursuit by Sequel Police across past and future Space Quest installments.[^ref-10] The SCP releases are asset swaps that still run on the same executable Sierra wrote for the Amiga, so the game engine and logic are unchanged;[^ref-6] the builds are offered in several languages (Police Quest III in Spanish, German and English; King's Quest V also in Italian), reflecting the group's roots in translation work.[^ref-23][^ref-24]
+For [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], that means King Graham's quest to recover his castle and family from the wizard Mordack across the lands of Daventry, Serenia, and beyond.[^ref-8] For [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], it is Sonny Bonds's investigation into the cult that attacked his wife Marie.[^ref-9] For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], it is janitor Roger Wilco's time-hopping pursuit by Sequel Police across past and future Space Quest installments.[^ref-10] The SCP releases are asset swaps that still run on the same executable Sierra wrote for the Amiga;[^ref-6] the builds are offered in several languages (Police Quest III in Spanish, German and English; King's Quest V also in Italian), reflecting the group's roots in translation work.[^ref-23][^ref-24]
 
 ## Released Projects
 
@@ -77,15 +78,15 @@ DaRaSCo spent considerable time finding a more consistent palette that works acr
 
 ### Interface and Controls
 
-The enhanced SCP releases maintain the original SCI engine's point-and-click interface while improving the visual presentation. Users interact with the game world using traditional adventure game mouse controls, clicking on objects, characters, and environmental elements to trigger actions and advance the story.[^ref-2] No gameplay mechanics are altered: the releases are asset swaps that run on Sierra's original Amiga executable,[^ref-6] and the aim is to bring the Amiga versions closer to the graphics of the PC versions.[^ref-4]
+The enhanced SCP releases maintain the original SCI engine's point-and-click interface while improving the visual presentation. Users interact with the game world using traditional adventure game mouse controls, clicking on objects, characters, and environmental elements to trigger actions and advance the story.[^ref-2] The releases are asset swaps that run on Sierra's original Amiga executable,[^ref-6] and the aim is to bring the Amiga versions closer to the graphics of the PC versions.[^ref-4]
 
 ### Structure and Progression
 
-Each SCP-enhanced game preserves the original game's structure and progression intact. Whether playing Police Quest III, King's Quest V, or Space Quest IV, players experience the same puzzle design, story beats, and gameplay progression as in Sierra's original Amiga releases.[^ref-6] The enhancement work centres on graphics replacement—new artwork is re-injected into games that still run on Sierra's original Amiga executable, so mechanics and level design are unchanged.[^ref-6] This ensures that fans can enjoy enhanced visual presentation while maintaining the exact gameplay experience Sierra intended.
+The enhancement work centres on graphics replacement. On the English Amiga Board, Torti-the-Smurf described the Space Quest IV release as "an asset swap" that "runs on the very same executable that Sierra wrote."[^ref-6]
 
 ### Puzzles and Mechanics
 
-The SCP enhancements leave Sierra's puzzle design untouched. Because the releases are asset swaps running on the same executable Sierra wrote for the Amiga, puzzle solutions, item availability and puzzle logic are those of the original Amiga versions.[^ref-6]
+The sources checked describe the SCP releases as graphics work running on the same executable Sierra wrote for the Amiga,[^ref-6] and none of them mentions changes to the puzzles.
 
 ## Development
 
@@ -112,11 +113,11 @@ The project gained international visibility through coverage on IndieRetroNews, 
 
 ### Ongoing Development
 
-On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; the Space Quest IV entry on the same list (75%) was completed as the OCS Enhanced release on January 15, 2026.[^ref-2] On February 17, 2026, team member Darasco wrote on the English Amiga Board that "soon when we release Conquest of Longbow, we will also release the graphics injection tool."[^ref-22] No Longbow release turned up in the sources checked as of October 2026.
+On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; the Space Quest IV entry on the same list (75%) was completed as the OCS Enhanced release on January 15, 2026.[^ref-2] On February 17, 2026, team member Darasco wrote on the English Amiga Board that "soon when we release Conquest of Longbow, we will also release the graphics injection tool."[^ref-22] No Longbow release turned up in the sources checked as of November 2026.
 
 ## Projects in Development
 
-- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: ~90% (Jan 2026), Notes: Release promised "soon" (Feb 2026); no release found as of Oct 2026[^ref-2][^ref-22]
+- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: ~90% (Jan 2026), Notes: Release promised "soon" (Feb 2026); no release found as of Nov 2026[^ref-2][^ref-22]
 
 ## Technical Approach
 
@@ -124,7 +125,9 @@ On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; t
 
 Sierra's SCI engine ports to Amiga were hampered by technical decisions that resulted in inferior visual presentation compared to DOS versions:[^ref-3]
 
-- **Single Palette Limitation:** The Amiga SCI engine used one color palette for the entire game, unlike DOS which could use different palettes per screen
+- **Single Palette Limitation:** The Amiga SCI engine used one color palette for the entire game[^ref-3]
+
+AGDB's overview of Sierra's Amiga adventures says that Sierra "never really bothered to push the technological boundaries in their Amiga conversions."[^ref-26] (AGDB's overview does not discuss the SCP.)
 
 ### SCP's Enhancement Process
 
@@ -138,9 +141,9 @@ The SCP team developed a workflow to address these issues:[^ref-2]
 ### Tools Used
 
 Notably, all graphics work is performed using period-appropriate Amiga software:[^ref-2]
-- **ImageFX** - Professional image processing
-- **PPaint** - Personal Paint for pixel art
-- **Adpro** - Art Department Professional for batch processing
+- **ImageFX**
+- **PPaint**
+- **Adpro**
 
 In Estrayk's view, this shows Sierra could have done better at the time had it wanted to.[^ref-2]
 
@@ -148,11 +151,7 @@ In Estrayk's view, this shows Sierra could have done better at the time had it w
 
 ### Contemporary Reviews
 
-The SCP's enhanced games received significant attention from the Amiga retro gaming community. IndieRetroNews covered all three releases.[^ref-2][^ref-3][^ref-4] On the Police Quest III post, the site agreed with a reader who called the enhanced version "light years ahead" of the original.[^ref-2] GenerationAmiga also covered the Space Quest IV release.[^ref-15]
-
-### Modern Assessment
-
-The project represents a meaningful contribution to Sierra game preservation on the Amiga platform. By addressing the long-standing criticism of Sierra's Amiga port quality, the SCP has filled a gap in the retro gaming community.[^ref-2][^ref-3]
+The SCP's enhanced games received significant attention from the Amiga retro gaming community. IndieRetroNews covered all three releases.[^ref-2][^ref-3][^ref-4] On the Police Quest III post, the site agreed with a reader who called the enhanced version "light years ahead" of the original.[^ref-2] GenerationAmiga also covered the Space Quest IV release.[^ref-15] Notebookcheck reported on the Space Quest IV project on 29 December 2025, naming Darasco as the developer of an enhanced Amiga OCS version.[^ref-25]
 
 ### Community Response
 
@@ -236,7 +235,7 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 
 [^ref-5]: [Sierra Gaming World Facebook Group](https://www.facebook.com/groups/sierragamingworld/) — community group sharing announcements and discussion of SCP releases, December 2025–January 2026.
 
-[^ref-6]: English Amiga Board. "Space Quest IV enhanced by SCP." Release thread opened by Estrayk late on 14 January 2026 (forum time; IndieRetroNews reported the release on 15 January), with bug reports and discussion. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
+[^ref-6]: English Amiga Board. "Space Quest IV enhanced by SCP." Release thread opened by Estrayk on 14/15 January 2026 (the forum's displayed times shift with timezone; IndieRetroNews reported the release on 15 January), with bug reports and discussion. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
 [^ref-7]: Wikipedia. "Sierra Creative Interpreter (SCI Engine)." Overview of Sierra's SCI engine and the games built on it. [https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter)
 
@@ -257,6 +256,10 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 
 [^ref-22]: English Amiga Board. "Space Quest IV enhanced by SCP," post #62 by Darasco, February 17, 2026 (page 4). "Soon when we release Conquest of Longbow, we will also release the graphics injection tool." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-23]: English Amiga Board. "Police Quest III enhanced by SCP," post #1 by Estrayk, 3 January 2026 (00:46). Announces "the first Remastered game available 100% in Spanish, German, and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
+[^ref-23]: English Amiga Board. "Police Quest III enhanced by SCP," post #1 by Estrayk, 3 January 2026. Announces "the first Remastered game available 100% in Spanish, German, and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-24]: English Amiga Board. "King Quest V enhanced by SCP," post #1 by Estrayk, 4 January 2026 (12:49). Announces "the second Remastered game available 100% in Spanish, German, Italian and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
+[^ref-24]: English Amiga Board. "King Quest V enhanced by SCP," post #1 by Estrayk, 4 January 2026. Announces "the second Remastered game available 100% in Spanish, German, Italian and English." *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
+
+[^ref-25]: [Space Quest IV to finally get the Amiga port it deserves with 2025 OCS Enhanced remake](https://www.notebookcheck.net/Space-Quest-IV-to-finally-get-the-Amiga-port-it-deserves-with-2025-OCS-Enhanced-remake.1193383.0.html) – Notebookcheck News, Rahim Amir Noorali, 29 December 2025; names Darasco and an enhanced Amiga OCS edition of Space Quest IV.
+
+[^ref-26]: [Sierra: An Overview of the company's Amiga Adventure games](https://agdb.abime.net/DBM1/Sierra.html) – Amiga Games Database overview by Joachim Froholt and Seppo Typpö; general context on the quality of Sierra's Amiga conversions, does not mention the SCP.
