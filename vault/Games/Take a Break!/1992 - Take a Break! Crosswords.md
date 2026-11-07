@@ -10,7 +10,7 @@ series: Take a Break!
 engine: Proprietary (Windows 3.x)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-07'
 composer: [Tom McMail]
 description: Take a Break! Crosswords is a 1992 Windows 3.x crossword game developed
   by Dynamix and N8 Productions and published by Sierra On-Line, with 375 puzzles
@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Take a Break! Crosswords is a crossword puzzle game developed by [[Dynamix]] and
 
 The original 1992 release contains 375 crossword puzzles licensed from Dell Magazines. It offers three difficulty levels, VGA graphics, digitized speech with a compatible sound card, printer support, a timer with automatic scoring and a 65-page crossword dictionary[^ref-24][^ref-1]. *The Oregonian* rated it "Good" in November 1992 and said that, "Developed by Eugene-based Dynamix, 'Take a Break Crosswords' should be a popular gift option for the upcoming holiday season"[^ref-25].
 
-A later 750-puzzle edition was reviewed as *Take a Break! Crosswords, Volumes 1 & 2* in early 1994, and as *Take a Break! Crosswords Deluxe* by Compute! in August 1994[^ref-27][^ref-28][^ref-29]. Computer Game Review noted that the new set "includes the whole of the first collection as well as a ton of new ones"[^ref-27]. Crosswords was the first entry in Sierra's Take a Break! series, followed by Take a Break! Pinball in 1993[^ref-1][^ref-12].
+A later 750-puzzle edition was reviewed as *Take a Break! Crosswords, Volumes 1 & 2* in early 1994, and as *Take a Break! Crosswords Deluxe* by Compute! in August 1994[^ref-27][^ref-28][^ref-29]. Computer Game Review noted that the new set "includes the whole of the first collection as well as a ton of new ones"[^ref-27]. Crosswords was the first entry in Sierra's Take a Break! series, followed by Take a Break! Pinball in 1993[^ref-1][^ref-12], although Sierra's own magazine and the press had announced Pinball as the series' first title[^ref-34][^ref-35].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], N8 Productions[^ref-1][^ref-13]
@@ -75,7 +75,7 @@ The game's features include:
 
 ### Contemporary Reviews
 
-**1992 release (375 puzzles).** Randy Chase of *The Oregonian* rated the game "Good" on November 18, 1992. He wrote that it "successfully moves the classic word challenge from the newspaper page to the computer screen" and "will entertain the novice yet still stimulate the master wordsmith"[^ref-25]. The French magazine *Génération 4* scored it 72% in a short review. It called the game "un jeu fort sympathique mais en anglais" (a very likeable game, but in English)[^ref-26].
+**1992 release (375 puzzles).** Randy Chase of *The Oregonian* rated the game "Good" on November 18, 1992. He wrote that it "successfully moves the classic word challenge from the newspaper page to the computer screen" and "will entertain the novice yet still stimulate the master wordsmith"[^ref-25]. The French magazine *Génération 4* scored it 72% in a short review. It called the game "un jeu fort sympathique mais en anglais" (a very likeable game, but in English)[^ref-26]. *Computer Game Review* (November 1992) listed it in its "Best of the Rest" section at $49.95 and wrote that "three difficulty levels and four sizes allow for hundreds of different puzzles"[^ref-33].
 
 **Volumes 1 & 2 / Deluxe (750 puzzles).** Computer Game Review gave *Take a Break! Crosswords, Volumes 1 & 2* an overall rating of 79% in February 1994. Its three reviewers disagreed:
 
@@ -84,6 +84,10 @@ The game's features include:
 - Steve enjoyed the specialty and Punanagram puzzles but also wanted more hard ones.[^ref-27]
 
 Computer Gaming World's February 1994 issue included an unsigned short write-up of Volumes I & II. It described "over 750 puzzles" and called the game "essentially, a digitized version of a crossword puzzle book". It also wrote that the auto-check and on-line hints "will help serve the crossword-impaired among us"[^ref-28].
+
+*Electronic Games* (March 1994) covered it in a puzzle-game round-up and wrote that it "features 750 large puzzles, about the equivalent of 15 years worth of The New York Times Sunday Editions"[^ref-32]. The review is treated here as unsigned.
+
+Eric Berlin was the harshest critic. In a crossword round-up in *PC Magazine* (8 February 1994), he reviewed the Windows edition at $49.95 and wrote that, "Though this crossword program comes with a whopping 373 puzzles from Dell magazine, it's still easy to tell that Dynamix, a subsidiary of Sierra On-Line, did not think out its entry thoroughly enough." He added that "perhaps more attention was paid to Wanda, the animated sprite inhabiting the game, than to more important features like grid placement", and that "There is no on-line help", with hints "allowed only on the easiest of three levels of play (Apprentice, Puzzler, and Fanatic)"[^ref-30].
 
 Scott A. May reviewed *Crosswords Deluxe* for Compute! in August 1994. He called it "an addictive puzzler guaranteed to keep you glued to the screen long after break time has ended" and joked that "a more appropriate title, at least in an office environment, might be Get Back to Work! Crosswords." He warned that the game "is something of a resource hog" when multitasked. He concluded: "Although designed for breaks in the workday, Crosswords Deluxe is an ideal way to jump-start your brain on those particularly slow mornings. It's more natural than caffeine, but no less habit-forming."[^ref-29]
 
@@ -96,13 +100,13 @@ Scott A. May reviewed *Crosswords Deluxe* for Compute! in August 1994. He called
 
 ### Origins
 
-Dynamix and N8 Productions developed the game. Sierra On-Line published it as a Windows title[^ref-1][^ref-17]. *InterAction*'s Fall 1992 "Coming up from Sierra and Dynamix" round-up reported that everything was "done except final beta-testing". The round-up described it as a program "designed specifically for Windows users" with "375 puzzles, licensed from Dell Magazines", and planned it for a September release[^ref-23]. Sierra's 1992 promotional copy pitched the game as "the perfect quick break"[^ref-24].
+Dynamix and N8 Productions developed the game. Sierra On-Line published it as a Windows title[^ref-1][^ref-17]. *InterAction*'s Fall 1992 "Coming up from Sierra and Dynamix" round-up reported that everything was "done except final beta-testing". The round-up described it as a program "designed specifically for Windows users" with "375 puzzles, licensed from Dell Magazines", and planned it for a September release[^ref-23]. Sierra's 1992 promotional copy pitched the game as "the perfect quick break"[^ref-24]. *Computer Gaming World* #98 (September 1992) announced Crosswords as "the second" of the first two Take a Break games, after Pinball, and said it "features over 350 different puzzles"[^ref-34]. *InterAction*'s Summer 1992 issue had already said that "the first game in the series is Take-A-Break Pinball!, coming in April"[^ref-35].
 
 ### Production
 
 The puzzles were licensed from Dell. Kurt Busch's *InterAction* feature called Dell "the people who put out all those paperback crossword collections for the truly hard-core wordfitters of the world"[^ref-22]. *Computer Game Review* noted that each puzzle is listed by its author[^ref-27]. MobyGames' credits list Dell puzzle authors including Myrtle Bazemore, Robert Donovan, Diane Baldwin, Jean Davison and Zigmund Wallace[^ref-1].
 
-Presage Software Development Company developed the Macintosh version. Presage's own product page directed customers to Dynamix (Sierra) as the publisher[^ref-4].
+Presage Software Development Company developed the Macintosh version. Presage's own product page directed customers to Dynamix (Sierra) as the publisher[^ref-4]. *Macworld* listed *Take a Break Crosswords, Volumes 1 & 2* in its March 1994 new-products section, with "over 750 puzzles", three difficulty levels and a price of "$49.95 each volume" from Dynamix, so a Macintosh Volumes 1 & 2 edition existed by that date[^ref-31].
 
 **Development Credits:**[^ref-1][^ref-2]
 - **Supervising Producer:** Anthony R. Reyneke
@@ -136,7 +140,7 @@ Compute!'s review of the Deluxe edition mentioned optional 256-color backgrounds
 - **Developer:** Presage Software Development Company
 
 **Puzzle Specifications:**
-- **Total Puzzles:** 375 (1992 release)[^ref-1][^ref-24]; 750 in the later Volumes 1 & 2 / Deluxe edition[^ref-27][^ref-29]
+- **Total Puzzles:** 375 (1992 release)[^ref-1][^ref-24]; 750 in the later Volumes 1 & 2 / Deluxe edition[^ref-27][^ref-29]. Contemporary press counts for the original ranged from "over 350" (*Computer Gaming World*, September 1992)[^ref-34] through "over 360" (a Sierra advertisement in *InterAction*, Fall 1992)[^ref-36] and 373 (*PC Magazine*, February 1994)[^ref-30] to Sierra's own 375[^ref-23][^ref-24].
 - **Puzzle Sizes:** 13x13, 15x15, 17x17, 19x19[^ref-1]
 - **Difficulty Levels:** Easy, Medium, Hard[^ref-1]
 - **Crossword Dictionary:** 65 pages, included with the game[^ref-24][^ref-27]
@@ -147,7 +151,7 @@ Compute!'s review of the Deluxe edition mentioned optional 256-color backgrounds
 |---------|------|----------|-------|
 | 1.0 | September 1992 | Windows 3.x | Original release, 375 Dell puzzles; 3.5" floppy[^ref-17][^ref-1] |
 | 1.01 | n/a | Windows 3.x | US floppy release catalogued by Sierra Chest[^ref-17] |
-| Mac | 1993 | Macintosh | Port by Presage Software[^ref-1][^ref-4] |
+| Mac | 1993 | Macintosh | Port by Presage Software[^ref-1][^ref-4]; Volumes 1 & 2 listed by *Macworld* in March 1994[^ref-31] |
 | Volumes 1 & 2 | reviewed February 1994 | Windows 3.x | 750 puzzles, including the first collection and over twenty specialty puzzles; $49.95 (CGW) / $34.95 (CGR)[^ref-27][^ref-28] |
 | Deluxe | reviewed August 1994 | Windows 3.x | 750 Dell puzzles; $29.95[^ref-29] |
 
@@ -190,6 +194,13 @@ The game is not sold on any modern digital storefront. No GOG or Steam release w
 [^ref-27]: ["Word Puzzles That Interlink (Nine Letters)", *Computer Game Review*, February 1994, p. 34](https://archive.org/details/computer-game-review-and-cd-rom-entertainment-february-1994/page/34/mode/2up) – Volumes 1 & 2: "750 puzzles", "over twenty specialty puzzles", 65-page dictionary; overall rating 79%; mini-reviews by Kevin, Ted and Steve; retail $34.95
 [^ref-28]: ["Take A Break! Crosswords, Volumes I & II", *Computer Gaming World* #115, February 1994, p. 220](https://archive.org/details/Computer_Gaming_World_Issue_115/page/n219/mode/2up) – unsigned blurb: "over 750 puzzles", "an animated faery for a host", "IBM with Windows ($49.95)"
 [^ref-29]: [Scott A. May, "Take a Break! Crosswords Deluxe", *Compute!* #167, August 1994, pp. 105–106](https://archive.org/details/1994-08-compute-magazine/page/105/mode/2up) – "a total of 750 Dell magazine puzzles"; "Get Back to Work! Crosswords"; "resource hog"; $29.95
+[^ref-30]: [Eric Berlin, "A Ten-Letter Word For Fun: Crosswords", *PC Magazine*, 8 February 1994, p. 422](https://archive.org/details/PC-Mag-1994-02-08/page/n437/mode/2up) – "a whopping 373 puzzles from Dell magazine"; "did not think out its entry thoroughly enough"; "Wanda, the animated sprite"; three play levels Apprentice, Puzzler, Fanatic; Windows, $49.95
+[^ref-31]: [*Take a Break Crosswords, Volumes 1 & 2*, new-products listing, *Macworld*, March 1994, p. 46](https://archive.org/details/MacWorld_9403_March_1994/page/n49/mode/2up) – "Three difficulty levels and over 750 puzzles"; "Your Macintosh will automatically keep score"; "$49.95 each volume. Dynamix"
+[^ref-32]: [Puzzle-game round-up, *Electronic Games*, March 1994](https://archive.org/details/Electronic-Games-1994-03/page/n59/mode/2up) – "features 750 large puzzles, about the equivalent of 15 years worth of The New York Times Sunday Editions"; "developed in conjunction with the experts at Dell Puzzles"; unsigned in this reading
+[^ref-33]: ["Best of the Rest", *Computer Game Review* #16, November 1992](https://archive.org/details/computer-game-review-issue-16-november-1992/page/n52/mode/2up) – "Take A Break Crosswords by Dynamix… Distributed by: Sierra, Retail Price: $49.95"; "Three difficulty levels and four sizes allow for hundreds of different puzzles"
+[^ref-34]: [News item on Sierra's Take a Break series, *Computer Gaming World* #98, September 1992, p. 78](https://archive.org/details/Computer_Gaming_World_Issue_98/page/n77/mode/2up) – "The first is entitled Take a Break Pinball"; "The second, Take a Break Crosswords, features over 350 different puzzles"; both "slated for release in August"
+[^ref-35]: [Sierra and Dynamix news item, *InterAction* Vol. V No. 2 (Summer 1992), p. 38](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/page/n37/mode/2up) – "The first game in the series is Take-A-Break Pinball!, coming in April."
+[^ref-36]: [Sierra holiday advertisement, *InterAction* Vol. V No. 3 (Fall 1992), p. 17](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n16/mode/2up) – company promotion, not a review: "Take-A-Break! Crosswords features over 360 crossword puzzles with scrolling clues and a hint option."
 
 ## Downloads
 
