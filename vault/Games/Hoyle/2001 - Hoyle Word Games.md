@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: Hoyle Word Games 2001 is a nine-game word puzzle compilation developed
   and published by Sierra Entertainment, released for PC on November 14, 2000, with
   Windows and Mac OS requirements listed by Sierra.
@@ -18,13 +18,13 @@ tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games 2001
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
 Hoyle Word Games 2001 is a word puzzle compilation developed and published by [[Sierra On-Line|Sierra Entertainment]], released on November 14, 2000 for PC[^ref-1][^ref-23]; Sierra's product page gave system requirements for both Windows and Mac OS[^ref-2][^ref-22]. Despite its title, the game came out in 2000: "2001" is the edition name, and GameSpot listed "Hoyle Word Games 2001" with a release date of 11/14/2000[^ref-23]. The game continues Sierra's long-running Hoyle series of classic game compilations, this time focusing specifically on word-based puzzles and games. Marketed with the tagline "HOYLE Spells Out Fun!", the compilation brings together nine ingenious word games with hundreds of variations, offering both single-player challenges against animated computer opponents and multiplayer options for up to four players on the same computer[^ref-3].
 
-The 2001 edition bundled the core games with bonus content, including Webster's New World College Dictionary definitions on the CD and Dell Magazines crossword puzzles[^ref-3]; GameSpot's Tim Soete counted "some 500 Dell crossword puzzles"[^ref-21]. With a suggested retail price of $29.99, reviewers noted that players were "really getting a lot of content for the money"[^ref-2]. The game received an ESRB rating of Everyone (E), making it appropriate for all ages[^ref-3], and focused on educational aspects including reading, spelling, and logic skills[^ref-2].
+The 2001 edition bundled the core games with bonus content, including Webster's New World College Dictionary definitions on the CD and Dell Magazines crossword puzzles[^ref-3]; GameSpot's Tim Soete counted "some 500 Dell crossword puzzles"[^ref-21]. With a suggested retail price of $29.99, reviewers noted that players were "really getting a lot of content for the money"[^ref-2]. The game received an ESRB rating of Everyone (E), making it appropriate for all ages[^ref-3] (the ESRB's own database lists a "Hoyle Word Games" record rated E for Macintosh and Windows PC, without saying which edition it covers[^ref-32]), and focused on educational aspects including reading, spelling, and logic skills[^ref-2].
 
 GameSpot noted that the edition was "not much different from the previous installment, but it's a good value if you don't already own a version of the game"[^ref-21]. The game featured the ability to challenge a lively cast of animated Hoyle characters, create personalized characters using the Facemaker feature, and play against others over the internet for free[^ref-3].
 
@@ -76,7 +76,7 @@ Children's Technology Review found that "the games are easy to get started with,
 
 ### Character System and Facemaker
 
-Players can challenge the Hoyle cast of animated computer opponents[^ref-3]. GameSpot described them as ranging "from a snobby pub-goer named Rick, to Harley the talking grizzly bear," with a slider to switch them from "talkative" to "serious"[^ref-21]. The Facemaker feature lets players "combine eyes, noses, facial types, body types, and hairstyles to create your own personalized player"[^ref-21].
+Players can challenge the Hoyle cast of animated computer opponents[^ref-3]. GameSpot described them as ranging "from a snobby pub-goer named Rick, to Harley the talking grizzly bear," with a slider to switch them from "talkative" to "serious"[^ref-21]. Sierra's own Hoyle site, in an October 2000 snapshot, showed a Harley character page that also listed Hoyle Word Games among the games[^ref-30]. The Facemaker feature lets players "combine eyes, noses, facial types, body types, and hairstyles to create your own personalized player"[^ref-21].
 
 ### Multiplayer Options
 
@@ -97,7 +97,7 @@ The game focuses on developing skills in reading, spelling, and logic[^ref-2]. T
 
 ### Contemporary Reviews
 
-Hoyle Word Games 2001 received modest but generally positive reviews upon release. GameSpot's Tim Soete awarded the game 7/10 on December 14, 2000[^ref-1][^ref-21]. He wrote that "there isn't much criticism to be leveled against Hoyle Word Games," suggesting players who take the games seriously might disable the commentary and "some of the more childish games such as anagrams and speedy racer," and concluded: "If you like wordplay, and you don't already have a CD-ROM collection of word games, then this is the package to get"[^ref-21].
+Hoyle Word Games 2001 received modest but generally positive reviews upon release. GameSpot's Tim Soete awarded the game 7/10 on December 13, 2000[^ref-1][^ref-21][^ref-28]. He wrote that "there isn't much criticism to be leveled against Hoyle Word Games," suggesting players who take the games seriously might disable the commentary and "some of the more childish games such as anagrams and speedy racer," and concluded: "If you like wordplay, and you don't already have a CD-ROM collection of word games, then this is the package to get"[^ref-21].
 
 The Children's Technology Review provided an educational assessment, praising the value proposition: "Nine addictive word games are offered on this CD" and emphasizing that "you're really getting a lot of content for the money"[^ref-2]. The review highlighted the game's accessibility across different skill levels and age groups.
 
@@ -157,7 +157,7 @@ Some resellers offer copies bundled with a compatibility CD for Windows XP throu
 | Mac OS | Not documented | Mac OS | Mac requirements listed on Sierra's product page; no Mac-specific date found[^ref-22] |
 | Successor: Hoyle Word Games 2002 | August 25 / September 25, 2001 | PC, Mac | Separate later edition, not this game[^ref-25][^ref-26] |
 
-Note: Sources provide slightly varying release dates, with GameFAQs and GameSpot listing November 14, 2000[^ref-3][^ref-23] and Amazon listing October 10, 2000[^ref-6].
+Note: Sources provide slightly varying release dates, with GameFAQs and GameSpot listing November 14, 2000[^ref-3][^ref-23] and Amazon listing October 10, 2000[^ref-6]. Sierra's own hoylegames.com news page, in an October 17, 2000 snapshot, carried a post dated 10/03/00 saying "The New versions of Word Games, Card Games, Board Games and Casino Games are now available for purchase online"; it does not name the 2001 edition[^ref-29].
 
 ### Easter Eggs and Trivia
 
@@ -195,7 +195,7 @@ The game remains available through secondary market sellers. Some resellers bund
 - Physical CD-ROM copies through online retailers
 - Compatibility-patched versions through specialty retro gaming sellers[^ref-4]
 
-The game is documented in gaming databases.[^ref-12][^ref-23]
+The game is documented in gaming databases.[^ref-12][^ref-23] GameSpot's archived downloads page listed a Hoyle Word Games Demo posted 12/14/00, described as allowing "3 of the 8 word games" from the full version; that count differs from the nine games in GameSpot's review and is not adopted here[^ref-31].
 
 ## See Also
 
@@ -271,10 +271,15 @@ The game is documented in gaming databases.[^ref-12][^ref-23]
 [^ref-10]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-word-games-2001/user-reviews/) – lack of user review coverage
 [^ref-11]: [Metacritic – Hoyle Word Games 2001](https://www.metacritic.com/game/hoyle-word-games-2001/) – summary text, release date, developer/publisher
 [^ref-12]: [GameFAQs – Screenshots](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/images?pid=450752&img=8) – release date confirmation, platform info
-[^ref-21]: [GameSpot – Hoyle Word Games Review (Tim Soete, December 14, 2000)](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2664509/) – 7/10 review of the 2001 edition: nine games, Wordox, Word Yacht, Dell crosswords, opponents, Facemaker, Internet play
+[^ref-21]: [GameSpot – Hoyle Word Games Review (Tim Soete, December 13, 2000)](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2664509/) – 7/10 review of the 2001 edition: nine games, Wordox, Word Yacht, Dell crosswords, opponents, Facemaker, Internet play
 [^ref-22]: [Sierra – Hoyle Word Games official product page (Wayback Machine, October 18, 2000)](https://web.archive.org/web/20001018215529/http://www.hoylegames.com:80/hoyleword_word.html) – "nine great word games" including Wordox; up to four players on one computer; Windows and Mac system requirements
 [^ref-23]: [GameSpot – Hoyle Word Games 2001 product page (Wayback Machine, 2003)](https://web.archive.org/web/20030415114311/http://www.gamespot.com:80/pc/puzzle/hoylewordgames2001/index.html) – "Publisher: Sierra Entertainment Developer: Sierra Entertainment Genre: Puzzle Release Date: 11/14/2000"; GameSpot score 7.0
 [^ref-24]: [GameSpot – Hoyle Word Games 2001 tech info (Wayback Machine, 2004)](https://web.archive.org/web/20040317090402/http://www.gamespot.com:80/pc/puzzle/hoylewordgames2001/techinfo.html) – 1–4 players; PC minimum requirements; multiplayer over modem, LAN, Internet, single computer
 [^ref-25]: [Macworld – Sierra releases new Hoyle games for 2002 (September 30, 2001)](https://www.macworld.com/article/163096/hoyle.html) – successor edition Hoyle Word Games 2002: game list, 1000 Dell crosswords and word searches, Palm word searches, hybrid PC/Mac CD, US$29.95
 [^ref-26]: [GameFAQs – Hoyle Word Games 2002 Release Data](https://gamefaqs.gamespot.com/pc/565482-hoyle-word-games-2002/data) – successor edition release dates 08/25/01 and 09/25/01
 [^ref-27]: [GameSpot – Hoyle Word Games Review (Nicole Freeman, January 12, 2000)](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2531860/) – review of the previous (1999) edition: "eight different word games"
+[^ref-28]: [GameSpot – Hoyle Word Games 2001 review (Tim Soete; Wayback Machine, October 3, 2003)](https://web.archive.org/web/20031003105219/http://www.gamespot.com:80/pc/puzzle/hoylewordgames2001/review.html) – period copy of the review: "nine different games", 7.0, posted 12/13/00
+[^ref-29]: [Sierra – hoylegames.com home page (Wayback Machine, October 17, 2000)](https://web.archive.org/web/20001017122638/http://hoylegames.com:80/) – Sierra's own site; news post dated 10/03/00 that new versions of Word Games, Card Games, Board Games and Casino Games were available for purchase online
+[^ref-30]: [Sierra – hoylegames.com Harley character page (Wayback Machine, October 17, 2000)](https://web.archive.org/web/20001017172257/http://www.hoylegames.com:80/char3.html) – Sierra's own site; Harley page listing Hoyle Word Games among the games
+[^ref-31]: [GameSpot – Hoyle Word Games 2001 downloads (Wayback Machine, October 3, 2003)](https://web.archive.org/web/20031003111447/http://www.gamespot.com:80/pc/puzzle/hoylewordgames2001/downloads.html) – demo posted 12/14/00; "3 of the 8 word games" (count differs from the review's nine)
+[^ref-32]: [ESRB – Hoyle Word Games (rating 5479)](https://www.esrb.org/ratings/5479/hoyle-word-games/) – rated E for Everyone; platforms Macintosh, Windows PC; publisher Sierra Entertainment; edition not stated
