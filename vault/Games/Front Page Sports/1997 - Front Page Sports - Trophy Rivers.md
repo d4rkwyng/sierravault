@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-controlled angler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 description: 'Front Page Sports: Trophy Rivers is a river fishing simulation developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997 for Windows 95 and
   Windows 3.1, covering salmon, trout and steelhead on five North American rivers.'
@@ -18,7 +18,7 @@ tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -150,17 +150,18 @@ The game's music is credited to Loudmouth, which shares the sound-effects credit
 - Offline: 1–4 players
 - Online: 2–8 players
 - Remote play under Windows 95: modem (14.4 or better), LAN (IPX or TCP/IP), or Internet via Sierra's SIGS server
+- Computer Gaming World #160 (November 1997) listed Trophy Rivers among the "Upcoming Games" for Sierra's SIGS online service[^ref-28]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1997 | Windows 95 / Windows 3.1 | Initial CD-ROM release[^ref-1][^ref-23] |
+| 1.0 | 1997 | Windows 95 / Windows 3.1 | Initial CD-ROM release (Sierra listed it as available Holiday 1997)[^ref-1][^ref-23][^ref-26] |
 | Demo | 1997 | Windows | One fishing location on the river and a slide show of the full game's features[^ref-9] |
 
 The game was released for Windows 95 and Windows 3.x[^ref-1]. A demo with "one fishing location on the river and a slide show highlighting features of the full game" is archived on the Internet Archive[^ref-9].
 
-Release dates differ between sources. The game appears, priced at $49.95 (Win 95 CD), in the catalog of Sierra's Holiday 1997 InterAction[^ref-21]. GameFAQs and Metacritic both give November 30, 1997[^ref-8][^ref-18]. GameSpy's database instead lists May 5, 1998 for the US and December 31, 1998 for the UK and Japan[^ref-14], and The Video Game Database wiki repeats the May 5, 1998 date[^ref-19]. Those 1998 dates conflict with the 1997 catalog listing and manual copyright[^ref-21][^ref-23].
+Release dates differ between sources. The game appears, priced at $49.95 (Win 95 CD), in the catalog of Sierra's Holiday 1997 InterAction[^ref-21]. GameFAQs and Metacritic both give November 30, 1997[^ref-8][^ref-18]. GameSpy's database instead lists May 5, 1998 for the US and December 31, 1998 for the UK and Japan[^ref-14], and The Video Game Database wiki repeats the May 5, 1998 date[^ref-19]. Those 1998 dates conflict with the 1997 catalog listing and manual copyright[^ref-21][^ref-23]. Other period sources also point to fall 1997. Computer Games Strategy Plus listed it, as a Windows 95 title, in its September 1997 issue[^ref-27]. InterAction's Fall 1997 feature gave its availability as "Holiday" at $49.95[^ref-26]. Computer Gaming World's November 1997 issue (#160) named it among Sierra's "Upcoming Games" for the Sierra Internet Gaming System[^ref-28].
 
 ### Easter Eggs and Trivia
 
@@ -172,7 +173,7 @@ Release dates differ between sources. The game appears, priced at $49.95 (Win 95
 
 ### Sales and Commercial Impact
 
-No sales figures for Trophy Rivers have been found. Sierra's own Holiday 1997 catalog priced it at $49.95[^ref-21]. CNET's listing for the downloadable demo recorded 41,006 downloads[^ref-5]. The ESRB rated the game E for Everyone[^ref-14].
+No sales figures for Trophy Rivers alone have been found. Sierra's own magazine, InterAction, said in Summer 1998 that the Trophy fishing games' numbers "keep growing (half a million happy anglers at last count)," a count that came in a sentence naming Trophy Rivers among the series' add-ons and releases[^ref-24]. This is a franchise-wide promotional claim by the publisher, not a sales figure for this game. On price, Sierra's catalog listed it (order #70060) at $49.95 in Fall and Holiday 1997[^ref-21][^ref-26], and at $29.95 by Summer 1998[^ref-24]. Sierra's Fall 1998 issue still listed it at $29.95, and sold it with Trophy Bass 2 Deluxe as the Trophy Fishing Bundle for $44.95[^ref-25]. CNET's listing for the downloadable demo recorded 41,006 downloads[^ref-5]. The ESRB rated the game E for Everyone[^ref-14].
 
 ### Collections
 
@@ -247,3 +248,8 @@ Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. T
 [^ref-21]: [InterAction Magazine, Vol. 10 No. 4 (Holiday 1997) – Internet Archive](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) – John Sauer feature "Trophy Bass 2 Deluxe & Trophy Rivers" (rivers, 200+ miles, 15+ species, Letsom/Dersham/Weber quotes, drift boat/canoe/wading, single-fly tournaments); catalog listing #70060 Win 95 CD $49.95
 [^ref-22]: [MobyGames – Front Page Sports: Trophy Rivers credits](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/credits/) – full credits: Loudmouth music and sound effects, fishing experts Tim Rajeff and Buzz Ramsey, river consultants, 104 people
 [^ref-23]: [Internet Archive – Trophy Rivers (1997) PC manual](https://archive.org/details/trophy-rivers-1997-manual) – installation (Windows 95; Windows 3.1 with Win32s), game overview, modes, multiplayer requirements, How To guide, ©1997 Sierra On-Line
+[^ref-24]: [InterAction Magazine, Vol. 11 No. 2 (Summer 1998) – Internet Archive](https://archive.org/details/035_interaction_volume_11_number_2_summer_1998) – Paul Quinn feature on the Trophy games ("half a million happy anglers at last count", Sierra's franchise-wide claim); catalog listing #70060 Win 95 CD $29.95; Trophy Fishing Bundle $44.95
+[^ref-25]: [InterAction Magazine, Vol. 11 No. 3 (Fall 1998) – Internet Archive](https://archive.org/details/036_interaction_volume_11_number_3_fall_1998) – reader letter and editor's reply correcting the Summer 1998 caption (the game has five rivers); catalog: Trophy Rivers Win 95 CD $29.95, Trophy Fishing Bundle $44.95
+[^ref-26]: [InterAction Magazine, Vol. 10 No. 3 (Fall 1997) – Internet Archive](https://archive.org/details/032_interaction_volume_10_number_3_fall_1997) – John Sauer feature (availability "Holiday", $49.95, order #70060); catalog listing $49.95
+[^ref-27]: [Computer Games Strategy Plus, September 1997 – Internet Archive](https://archive.org/details/computer-games-strategy-plus-september-1997) – Sierra listings: "Front Page Sports: Trophy Rivers. PC fly fishing. Fish any of five blue-ribbon streams in North America", Windows 95 (the Internet Archive item metadata dates the scan 1997-11; the issue is cited as September 1997)
+[^ref-28]: [Computer Gaming World, Issue 160 (November 1997) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_160) – Sierra Internet Gaming System entry: "Upcoming Games" list includes Trophy Rivers
