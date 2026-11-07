@@ -13,14 +13,14 @@ series: "Micro Miniatures"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Impressions)"
-last_updated: '2026-10-19'
+last_updated: '2026-11-07'
 description: "D-Day: The Beginning of the End is a 1994 Impressions wargame of the Allied campaign in Western Europe from June 1944, designed by Edward Grabowski on an improved version of The Blue & The Gray's engine, for DOS and Amiga."
 tags: [1990s, impressions, strategy, wargame, world-war-ii, micro-miniatures, edward-grabowski]
 composer: ["Jason P. Rinaldi"]
 ---
 # D-Day: The Beginning of the End
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -81,8 +81,8 @@ Battles can be resolved with an autoplay option or a "QuickFight" option that pl
 | Amiga Action #60 (August 1994), Steve McNally | Amiga | 85%[^ref-8] |
 | Génération 4 #68 (July 1994) | DOS | 84%[^ref-1][^ref-18] |
 | Amiga Dream #10 (September 1994) | Amiga | 81%[^ref-8] |
-| CU Amiga (September 1994), Matt Broughton | Amiga | 74%[^ref-7][^ref-8] |
-| The One #72 (September 1994), Matt Broughton | Amiga | 72%[^ref-8] |
+| CU Amiga #55 (September 1994), Matt Broughton | Amiga | 74%[^ref-7][^ref-8][^ref-20] |
+| The One #72 (September 1994), Matt Broughton | Amiga | 72%[^ref-8][^ref-21] |
 | PC Gamer (August 1994) | DOS | 71%[^ref-1] |
 | MikroBitti (September 1994) | DOS | 70%[^ref-1] |
 | Amiga Games (September 1994), Markus Geltenpoth | Amiga | 66%[^ref-8] |
@@ -91,12 +91,12 @@ Battles can be resolved with an autoplay option or a "QuickFight" option that pl
 | Computer and Video Games (September 1994) | DOS | 61%[^ref-1] |
 | Amiga Format #63 (September 1994), Steve McGill | Amiga | 54%[^ref-7][^ref-8] |
 | Amiga Power #40 (August 1994), Jonathan Davies | Amiga | 51%[^ref-7][^ref-8] |
-| Power Play (1994) | DOS | 38%[^ref-1][^ref-15] |
+| Power Play (August 1994) | DOS | 38%[^ref-1][^ref-15] |
 | Electronic Games (August 1994), Joyce Worley | DOS | B[^ref-6] |
 
 Computer Gaming World's Jeff James called it "arguably the best Impressions micro-miniatures release to date". Its editors listed the pros as "Excellent strategic design on the whole, and a detailed miniatures combat system. Superlative documentation", and the cons as a "Clunky interface, time-consuming game play, and some questionable strategic design decisions (re: Eastern Front)".[^ref-5] James argued that the game "almost totally neglects the importance of the eastern and southern fronts": a German player can move every unit to the Western Front.[^ref-5]
 
-Electronic Games' Joyce Worley called it "a magnificent simulation" and wrote that "Impressions did a good job of making this complex campaign manageable".[^ref-6] Amiga Joker described the game as "ein Schritt in die richtige Richtung" ("a step in the right direction"), saying the faults of its predecessors had been thoroughly removed.[^ref-7] CU Amiga's Matt Broughton concluded: "Not exactly Virtual Reality, but pretty good for strategy heads."[^ref-7]
+Electronic Games' Joyce Worley called it "a magnificent simulation" and wrote that "Impressions did a good job of making this complex campaign manageable".[^ref-6] Amiga Joker described the game as "ein Schritt in die richtige Richtung" ("a step in the right direction"), saying the faults of its predecessors had been thoroughly removed.[^ref-7] CU Amiga's Matt Broughton concluded: "Not exactly Virtual Reality, but pretty good for strategy heads."[^ref-7][^ref-20]
 
 The British Amiga monthlies Amiga Format and Amiga Power were far less positive. Amiga Format's Steve McGill wrote: "There's no doubt that D-Day was one of the most heroic struggles ever. Sadly, getting to grips with the game happens to be one of the most ignoble struggles ever."[^ref-7] Amiga Power's Jonathan Davies said the graphics were "the worst I've seen in any wargame - just minute squares with letters in", and his bottom line was "So boring you'll spend more time gazing at it while slowly shaking your head than actually playing it."[^ref-7]
 
@@ -121,16 +121,18 @@ MobyGames lists the DOS team as follows:[^ref-1]
 - **Music:** Jason P. Rinaldi
 - **Documentation:** Christopher J. Foster, Jennifer Hawthorne
 
-The game shipped with four manuals: a technical supplement and tutorial, a campaign manual, a Micro Miniatures battle manual, and *An Overview of Overlord*. Electronic Games called the last of these "the excellent history of the battle and events following, by Jennifer Hawthorne".[^ref-6][^ref-7] Computer Gaming World listed the DOS version at $59.95, requiring a 286 or better with VGA graphics and a mouse, with no copy protection.[^ref-5] On the Amiga it cost £34.99 according to Amiga Format and £29.99 according to CU Amiga, and it needed 1 MB of memory.[^ref-7]
+The game shipped with four manuals: a technical supplement and tutorial, a campaign manual, a Micro Miniatures battle manual, and *An Overview of Overlord*. CU Amiga counted four manuals of between 44 and 57 pages each, and The One likewise remarked that the sim has four.[^ref-20][^ref-21] Electronic Games called the last of these "the excellent history of the battle and events following, by Jennifer Hawthorne".[^ref-6][^ref-7] Computer Gaming World listed the DOS version at $59.95, requiring a 286 or better with VGA graphics and a mouse, with no copy protection.[^ref-5] On the Amiga it cost £34.99 according to Amiga Format and £29.99 according to CU Amiga, and it needed 1 MB of memory.[^ref-7][^ref-20]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---|---|---|---|
 | Original | 1994 | DOS | Floppy disk; MobyGames also lists a CD-ROM release[^ref-1] |
-| Original | 1994 | Amiga | Two disks, 1 MB, hard-disk installable[^ref-7][^ref-8] |
+| Original | 1994 | Amiga | Two disks, 1 MB, hard-disk installable[^ref-7][^ref-8][^ref-20] |
 
 Computer Gaming World stated that modem play was not supported and hoped that "an upgrade to the program should offer support for modem play". MobyGames, however, lists modem among the DOS version's multiplayer options.[^ref-1][^ref-5]
+
+On the Amiga, The One's Matt Broughton, who had not played The Blue & The Gray, inferred that the two games use the same engine. He added that no AGA version was planned (though the game ran faster on an A1200) and that there would be no CD32 version.[^ref-21] A patch listing in Computer Gaming World #124 (November 1994) includes a "D-Day Patch" that "includes missing text from game manual", dated 7/8/94.[^ref-22]
 
 ## Legacy
 
@@ -168,8 +170,11 @@ D-Day continued Impressions' Micro Miniatures line of wargames.[^ref-4] Amiga Jo
 [^ref-12]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – founded by David Lester, sold to Sierra On-Line in 1995, catalogue listing D-Day (1994) and Robert E. Lee: Civil War General (1996)
 [^ref-13]: [MobyGames – Sierra Entertainment, Inc.](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Sierra's 1995 purchase of Impressions Games
 [^ref-14]: [MobyGames – Robert E. Lee: Civil War General](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/) – 1996 Impressions game published by Sierra On-Line
-[^ref-15]: [Kultboy – Power Play D-Day test](http://www.kultboy.com/index.php?site=t&id=6930) – scan of the Power Play review
+[^ref-15]: [Kultboy – Power Play D-Day test](http://www.kultboy.com/index.php?site=t&id=6930) – scan of the Power Play review, filed under the 8/94 issue
 [^ref-16]: [Internet Archive – D-Day: The Beginning of the End (DOS)](https://archive.org/details/msdos_D-Day_-_The_Beginning_of_the_End_1994) – DOS preservation item, Impressions Games
 [^ref-17]: [AllGame – D-Day: The Beginning of the End review (Wayback, 2014)](https://web.archive.org/web/20141117020028/http://www.allgame.com/game.php?id=5442&tab=review) – review by Michael L. House: scenario editing, two-player and solo play, long games, menus and mouse movement, no long-term orders, documentation
 [^ref-18]: [Abandonware France – Génération 4 #68, page 133](https://download.abandonware.org/magazines/Generation%204/generation4_numero068/GEN4%20068%20-%20Page%20133%20%281994-07-08%29.jpg) – scan of the Génération 4 review page
 [^ref-19]: [Internet Archive – Electronic Games (January 1994)](https://archive.org/details/Electronic-Games-1994-01) – Edward Grabowski interview naming Rorke's Drift as the closest ancestor of the Blue & Gray system
+[^ref-20]: [Internet Archive – CU Amiga #55 (September 1994)](https://archive.org/details/cuamiga-magazine-055) – D-Day review by Matt Broughton: £29.99, two disks, 1 MB, hard-disk installable, four manuals, commander personalities, verdict and 74%
+[^ref-21]: [Internet Archive – The One Amiga (September 1994)](https://archive.org/details/the-one-amiga-september-1994-optimized) – D-Day review by Matt Broughton: 50th-anniversary tie-in, four manuals, same-engine remark, no AGA or CD32 version planned
+[^ref-22]: [Internet Archive – Computer Gaming World #124 (November 1994)](https://archive.org/details/Computer_Gaming_World_Issue_124) – patch listing: "D-Day Patch: includes missing text from game manual. 7/8/94"
