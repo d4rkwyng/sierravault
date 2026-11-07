@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom 2D physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-06'
 description: The Incredible Machine 2 (1994) is a Rube Goldberg-style physics puzzle
   game from Jeff Tunnell Productions and Sierra On-Line, with 150-plus puzzles, player
   profiles, a puzzle-building workshop and head-to-head play.
@@ -18,11 +18,11 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 2
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-The Incredible Machine 2 is a puzzle video game published for MS-DOS in 1994 by Sierra On-Line, part of The Incredible Machine series[^ref-44]. Developed by Jeff Tunnell Productions, it asks the player to finish machines with missing parts: "Each level of the game contains a machine designed to do a specific task. The only problem is, there are parts missing, and it is your job to figure out where to put what in order to get the machine to work"[^ref-34]. The game introduced new levels, an extended assortment of parts, a new interface, improved graphics, sound and music, and two-player hotseat play to the main series[^ref-44][^ref-9]. Sierra's own InterAction magazine promised "150 new brain twisting puzzles" in its Fall 1994 preview[^ref-49].
+The Incredible Machine 2 is a puzzle video game published for MS-DOS in 1994 by Sierra On-Line, part of The Incredible Machine series[^ref-44]. Developed by Jeff Tunnell Productions, it asks the player to finish machines with missing parts: "Each level of the game contains a machine designed to do a specific task. The only problem is, there are parts missing, and it is your job to figure out where to put what in order to get the machine to work"[^ref-34]. The game added new levels, an extended assortment of parts, a new interface, and improved graphics, sound and music to the main series[^ref-44]. It kept the series' two-player head-to-head mode and widened it so that it can be played on any puzzle[^ref-9][^ref-46]. Sierra's own InterAction magazine promised "150 new brain twisting puzzles" in its Fall 1994 preview[^ref-49].
 
 PC Gamer's Gary Meredith gave it 90% in January 1995, writing that "In every way, TIM2 is an improvement, keeping the best parts of the original yet giving the player more options and flexibility"[^ref-19]. Readers of Computer Gaming World voted it their Readers' Choice in the Classics/Puzzles category of the magazine's 1996 Premier Awards[^ref-45]. Computer Game Review named it Puzzle Game of the Year for 1994[^ref-53].
 
@@ -77,7 +77,7 @@ Puzzles carry their own gravity and atmospheric pressure settings. In the manual
 
 In PC Gamer, Gary Meredith listed the game's highs as "Dozens of clever puzzles; a do-it-yourself mode and near open-ended game play". He found no real lows: "None, really, unless you consider a somewhat sensitive cursor and a bit of hunger for base memory to be fatal flaws." His bottom line was "How often can you say you really got what you paid for?"[^ref-19]. In Computer Gaming World's 1996 Premier Awards, the Classics/Puzzles section printed "Readers' Choice: The Incredible Machine 2, Sierra"[^ref-45]. Wikipedia notes that the game won although it was not among the editors' nominees[^ref-44]. MobyGames also records a Power Play award (issue 02/1996) for Best Puzzle Game of 1995[^ref-34].
 
-In Computer Gaming World, Jason Kapalka called the changes "more evolutionary than revolutionary" and said "the single biggest change is in the graphics and animation"[^ref-46]. The magazine's verdict box listed the pros as "Great graphics, more parts, more puzzles, a better editor, clever and absorbing gameplay"; among the cons, "The two player competitive mode could have been better. And where the heck are Sid and Al?"[^ref-46]. The magazine's March 1995 new-products column praised its "outstanding soundtrack", and one editor suggested it be renamed "The Incredible Time Sucking Machine"[^ref-47].
+In Computer Gaming World, Jason Kapalka called the changes "more evolutionary than revolutionary" and said "the single biggest change is in the graphics and animation"[^ref-46]. The magazine's verdict box listed the pros as "Great graphics, more parts, more puzzles, a better editor, clever and absorbing gameplay"; among the cons, "None, really, though it might not be to some folks' taste. The two player competitive mode could have been better. And where the heck are Sid and Al?"[^ref-46]. The magazine's March 1995 new-products column praised its "outstanding soundtrack", and one editor suggested it be renamed "The Incredible Time Sucking Machine"[^ref-47].
 
 Computer Game Review's Puzzle Game of the Year write-up noted that this was "the third year in a row that a game from the Incredible Machine series has taken the top spot", and praised the fact that "the puzzle solutions were not unique"[^ref-53]. In Germany, PC Player gave it 82%, Power Play 85% and PC Joker 73%; Power Play and PC Joker both rated its graphics lower than its sound (40% and 52%)[^ref-55].
 
@@ -95,7 +95,7 @@ PC Gamer listed the DOS version's requirements as a 386SX, 2MB RAM, DOS 5.0 or l
 
 ### Release
 
-Sierra's Fall 1994 InterAction said the game was "due to hit the stores the end of September"[^ref-49]. It slipped: Computer Gaming World's November 1994 "Pipeline" table of estimated release dates listed it for 11/94[^ref-48], and Computer Game Review's December 1994 issue still said it was "due for release in the very near future"[^ref-54]. Computer Gaming World's April 1995 review listed it at $44.95 on floppy and $49.95 on CD-ROM, with no copy protection[^ref-46]. By spring 1995 Sierra was offering extra levels for download, saying "There are dozens of new levels available"[^ref-51], and its Fall 1995 catalogue still sold it with "over 100 custom parts" for DOS on disk and on a DOS/Windows/Mac CD[^ref-52].
+Sierra's Fall 1994 InterAction said the game was "due to hit the stores the end of September"[^ref-49]. It slipped: Computer Gaming World's November 1994 "Pipeline" table of estimated release dates listed it for 11/94[^ref-48]. The October 1994 issue's table had listed it for 10/94[^ref-57]. Computer Game Review's December 1994 issue still said it was "due for release in the very near future"[^ref-54]. Computer Gaming World's April 1995 review listed it at $44.95 on floppy and $49.95 on CD-ROM, with no copy protection[^ref-46]. By spring 1995 Sierra was offering extra levels for download, saying "There are dozens of new levels available"[^ref-51], and its Fall 1995 catalogue still sold it with "over 100 custom parts" for DOS on disk and on a DOS/Windows/Mac CD[^ref-52].
 
 ### Version History
 
@@ -103,10 +103,10 @@ Sierra's Fall 1994 InterAction said the game was "due to hit the stores the end 
 |---------|------|----------|-------|
 | Original | 1994 | DOS | Jeff Tunnell Productions / Sierra On-Line[^ref-34] |
 | Macintosh | 1994 | Macintosh | Dynamix / Sierra On-Line (MobyGames date)[^ref-34] |
-| Version 3.0 | 1995 | Windows, Macintosh | Enhanced version, same levels, improved interface and CD music tracks[^ref-44] |
+| Version 3.0 | 1995 | Windows, Macintosh | Enhanced version, same levels, improved interface and CD music tracks[^ref-44]; Sierra's Holiday 1995 catalogue says its puzzles "are the same" as TIM 2's[^ref-58] |
 | Japanese | 1996–1998 | Windows, Macintosh | Published by Cybelle[^ref-34] |
 
-MobyGames treats The Incredible Machine Version 3.0 as the Windows/Mac hybrid version of this game[^ref-34]. Wikipedia instead dates the Mac and Windows enhanced release to 1995 and gives it the title The Incredible Machine Version 3.0 (also marketed as Professor Tim's Incredible Machines)[^ref-44]. See [[1995 - The Incredible Machine 3.0]].
+MobyGames treats The Incredible Machine Version 3.0 as the Windows/Mac hybrid version of this game[^ref-34]. Wikipedia instead dates the Mac and Windows enhanced release to 1995 and gives it the title The Incredible Machine Version 3.0 (also marketed as Professor Tim's Incredible Machines)[^ref-44]. Sierra's own Holiday 1995 InterAction catalogue describes The Incredible Machine 3.0 as having 150 puzzles that "will look familiar to owners of TIM 2 — 'cause they're the same", with a rebate offer for TIM 2 owners in the TIM 3 box, and adds "Also new, Mac version!"[^ref-58]. That wording sits awkwardly with MobyGames' 1994 date for a Macintosh release; it may refer to a Mac edition of 3.0 rather than of TIM 2, and the sources here do not settle it, so the table keeps the MobyGames date and flags the conflict. See [[1995 - The Incredible Machine 3.0]].
 
 ## Legacy
 
@@ -139,7 +139,7 @@ Wikipedia notes that later re-releases of the series, including the 2009 compila
 [^ref-32]: [GamesIndustry.biz – The Incredible Machine IP acquired by PushButton Labs](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – Jeff Tunnell quote, 2009
 [^ref-34]: [MobyGames – The Incredible Machine 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – Description, credits, release dates/platforms, scores, awards
 [^ref-44]: [Wikipedia – The Incredible Machine 2](https://en.wikipedia.org/wiki/The_Incredible_Machine_2) – Release, Version 3.0, gameplay additions, reception
-[^ref-45]: [Computer Gaming World #143, June 1996 (Internet Archive text)](https://archive.org/download/Computer_Gaming_World_Issue_143/Computer_Gaming_World_Issue_143_djvu.txt) – 1996 Premier Awards, Classics/Puzzles: "Readers' Choice: The Incredible Machine 2, Sierra"
+[^ref-45]: [Computer Gaming World #143, June 1996 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_143) – 1996 Premier Awards, Classics/Puzzles: "Readers' Choice: The Incredible Machine 2, Sierra"
 [^ref-46]: [Computer Gaming World #129, April 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_129) – Jason Kapalka, "Welcome Back To The Machine", pp. 178–180: 4.5/5 rating (checked on page image), price, two-player mode, scoring removed, hints, editor, pros/cons
 [^ref-47]: [Computer Gaming World #128, March 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_128) – Read.Me column, p. 24: "outstanding soundtrack", "The Incredible Time Sucking Machine"
 [^ref-48]: [Computer Gaming World #124, November 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_124) – Read.Me "Pipeline" estimated release dates, p. 24: "Incredible Machine 2 Dynamix 11/94" (checked on page image)
@@ -151,3 +151,5 @@ Wikipedia notes that later re-releases of the series, including the 2009 compila
 [^ref-54]: [Computer Game Review, December 1994 (Internet Archive)](https://archive.org/details/computer-game-review-and-cd-rom-entertainment-december-1994) – "The Incredible Machine 2 is due for release in the very near future"
 [^ref-55]: [Kultboy.com – The Incredible Machine 2 test reports](https://www.kultboy.com/testbericht-uebersicht/6183/) – Scans of PC Player 1/95 (82%), Power Play 2/95 (85%) and PC Joker 3/95 (73%); scores checked on the scans
 [^ref-56]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher, 2018: TIM2 and Toon Machine as "more of the same"
+[^ref-57]: [Computer Gaming World #123, October 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_123) – "Estimated release dates based on the latest information from game developers" table: "Incredible Machine 2 Dynamix 10/94" (read in the OCR text)
+[^ref-58]: [InterAction Magazine, Holiday 1995 (Sierra On-Line, Internet Archive)](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) – Catalogue entry for The Incredible Machine 3.0: same puzzles as TIM 2, TIM 2 owners' rebate, "Also new, Mac version!"
