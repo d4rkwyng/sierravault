@@ -10,7 +10,7 @@ series: Red Baron
 engine: Stainless™ Software Engine Technology
 protagonist: Unnamed WWI Pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-06'
 description: Red Baron Arcade is an arcade-style World War I flight combat game developed
   by Stainless Games Ltd. and published by Sierra Entertainment, released for Windows in
   February 2008 and on the PlayStation Network in March 2009.
@@ -18,15 +18,15 @@ tags: [2000s, red-baron, sierra, simulation]
 ---
 # Red Baron Arcade
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-Red Baron Arcade is an arcade-style World War I flight combat game developed by Stainless Games Ltd. and published by Sierra Entertainment ([[Sierra On-Line|Sierra]]) in 2008[^ref-1]. Unlike the original Red Baron flight simulator developed by [[Dynamix]] in 1990, it offers "Fast paced, arcade-style, dog-fighting action"[^ref-1]. IGN's Sam Bishop called the Red Baron name "one of the greatest franchises in PC history"[^ref-7]; this arcade reimagining, by contrast, was a budget title, and Gas Bandit Gaming noted that its choice of "arcade" or "simulation" controls lets it "appeal to both the casual gamer and the flight sim enthusiast"[^ref-3].
+Red Baron Arcade is an arcade-style World War I flight combat game developed by Stainless Games Ltd. and published by Sierra Entertainment ([[Sierra On-Line|Sierra]]) in 2008[^ref-1]. Unlike the original Red Baron flight simulator developed by [[Dynamix]] in 1990, it offers "Fast paced, arcade-style, dog-fighting action"[^ref-1]. IGN's Sam Bishop opened his PlayStation 3 review by imagining the game's intro as a taunt aimed at "one of the greatest franchises in PC history"[^ref-7]; this arcade reimagining was a budget title, and Gas Bandit Gaming noted that its choice of "arcade" or "simulation" controls lets it "appeal to both the casual gamer and the flight sim enthusiast"[^ref-3].
 
-The game's PlayStation Store description advertises 20 historic WWI planes and "over 36 varied levels" of battles against "huge zeppelins, powerful battleships and authentic WWI aircraft"[^ref-1]. Players progress through missions set during the First World War, earning the right to fly increasingly capable aircraft as they rise through the ranks toward becoming the "Ace" in the Red Baron's squadron[^ref-4]. The game supports up to 8 players in online multiplayer through GameSpy, offering competitive dogfighting matches alongside its single-player campaign[^ref-1][^ref-5].
+The official description reproduced by MobyGames advertises 20 historic WWI planes and "over 36 varied levels" of battles against "huge zeppelins, powerful battleships and authentic WWI aircraft"[^ref-1], and a 2008 Shacknews preview reported that the PlayStation 3 version would "sport 36 single-player missions"[^ref-20]. Players progress through missions set during the First World War, earning the right to fly increasingly capable aircraft as they rise through the ranks toward becoming the "Ace" in the Red Baron's squadron[^ref-4]. The game supports up to 8 players in online multiplayer through GameSpy, offering competitive dogfighting matches alongside its single-player campaign[^ref-1].
 
-The PC version was released on February 19, 2008[^ref-1]. The PlayStation 3 version had a more troubled path: GamesRadar+ reported that it was "penciled in for a release last year" before it "disappeared into the ether after Activision swallowed the whole of Sierra"[^ref-6], and IGN noted that its release slid almost six months beyond the date originally planned after its September 2008 preview[^ref-7]. It reached the PlayStation Network in March 2009[^ref-16]. Critical reception was sharply divided between platforms, with the PC version receiving moderate scores while the PlayStation 3 version was savaged; IGN called it possibly "the worst $10 you can spend on the PSN right now"[^ref-7].
+The PC version was released on February 19, 2008[^ref-1]. The PlayStation 3 version had a more troubled path: GamesRadar+ reported that it was "penciled in for a release last year" before it "disappeared into the ether after Activision swallowed the whole of Sierra"[^ref-6], and IGN noted that its release slid almost six months beyond the date originally planned after its September 2008 preview[^ref-7]. It reached the PlayStation Network in March 2009[^ref-16][^ref-22]. Critical reception was sharply divided between platforms, with the PC version receiving moderate scores while the PlayStation 3 version was savaged; IGN called it possibly "the worst $10 you can spend on the PSN right now"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Stainless Games Ltd.[^ref-1]
@@ -57,9 +57,9 @@ The heads-up display provides targeting brackets around enemy aircraft to assist
 
 ### Structure and Progression
 
-The single-player campaign comprises 23 missions in the PC version[^ref-3][^ref-8], while the PlayStation Store description for the PlayStation 3 release advertises 36 single-player missions[^ref-1]. Missions are structured around specific objectives that players must complete to advance, though the lack of a checkpoint system meant that failure required restarting entire missions[^ref-2]. IGN objected to this, concluding that the game "is built on the die-until-you-get-lucky approach, which simply isn't good design"[^ref-2]. Gas Bandit Gaming disagreed: because "a single click starts the mission again" and missions rarely last more than 20 minutes, "it isn't overly punishing"[^ref-3].
+The single-player campaign comprises 23 missions in the PC version[^ref-3][^ref-8], while the official description for the PlayStation 3 release and a 2008 Shacknews preview both give 36 single-player missions[^ref-1][^ref-20]. Missions are structured around specific objectives that players must complete to advance, though the lack of a checkpoint system meant that failure required restarting entire missions[^ref-2]. IGN objected to this, concluding that the game "is built on the die-until-you-get-lucky approach, which simply isn't good design"[^ref-2]. Gas Bandit Gaming disagreed: because "a single click starts the mission again" and missions rarely last more than 20 minutes, "it isn't overly punishing"[^ref-3].
 
-Progression through the campaign unlocks access to new aircraft, with 8 different planes available to earn through gameplay[^ref-3]. The starting Albatross D.III is described as a slow plane that does little damage and has little energy, but is the toughest of all planes; the Fokker Eindecker is the first plane unlocked, on completing the tutorial mission[^ref-8]. Marketing material is inconsistent on the total aircraft count: the PlayStation Store text advertises 20 WWI planes[^ref-1], while the Amazon retail listing advertises "21 detailed models of classic WWI Aircraft including the Sopwith Camel and the Baron's own Fokker"[^ref-9].
+Progression through the campaign unlocks access to new aircraft, with 8 different planes available to earn through gameplay[^ref-3]. The starting Albatross D.III is described as a slow plane that does little damage and has little energy, but is the toughest of all planes; the Fokker Eindecker is the first plane unlocked, on completing the tutorial mission[^ref-8]. Marketing material is inconsistent on the total aircraft count: the official description advertises 20 WWI planes[^ref-1], while the Amazon retail listing advertises "21 detailed models of classic WWI Aircraft including the Sopwith Camel and the Baron's own Fokker"[^ref-9].
 
 ### Combat Mechanics
 
@@ -85,7 +85,7 @@ User reviews presented a more varied picture. GameSpot user kzoneoo1 awarded the
 
 ### Modern Assessment
 
-MyAbandonware lists the game as abandonware and offers it as a free download[^ref-11]. The Internet Archive hosts the title for free download, borrowing, and streaming[^ref-5].
+MyAbandonware lists the game as abandonware and offers it as a free download[^ref-11]. The Internet Archive hosts a disc image download of the title[^ref-5].
 
 **Aggregate Scores:**
 - **MobyGames:** 60% (critic average, based on 1 rating)[^ref-1]
@@ -99,13 +99,13 @@ A planned Xbox 360 version never appeared. IGN's Sam Bishop reported that the ga
 
 ### Origins
 
-The original Red Baron, developed by Dynamix and released in 1990, was a landmark WWI flight simulator; reviewing the arcade game, IGN's Sam Bishop called it "one of the greatest franchises in PC history" and advised readers to "go find the original Dynamix game instead"[^ref-7]. The decision to create an arcade-focused spinoff rather than a traditional simulation sequel produced a budget title with arcade and simulation control options[^ref-3].
+The original Red Baron, developed by Dynamix and released in 1990, won Computer Gaming World's 1991 Simulation of the Year award[^ref-23]; reviewing the arcade game, IGN's Sam Bishop advised readers to "go find the original Dynamix game instead"[^ref-7]. The decision to create an arcade-focused spinoff rather than a traditional simulation sequel produced a budget title with arcade and simulation control options[^ref-3].
 
 The project was handled by Stainless Games Ltd., a British studio based in Newport, Isle of Wight[^ref-18][^ref-19], which IGN identified as "the same people behind the Carmageddon series"[^ref-7]. The game runs on Stainless™ Software Engine Technology[^ref-1].
 
 ### Production
 
-The PC version shipped on February 19, 2008[^ref-1]. The PlayStation 3 version's release was then delayed. GamesRadar+ wrote in August 2009 that the game was "Originally penciled in for a release last year" but "disappeared into the ether after Activision swallowed the whole of Sierra," before it "crash-landed on the PSN store" six months later[^ref-6].
+The PC version shipped on February 19, 2008[^ref-1]. The PlayStation 3 version's release was then delayed: Shacknews reported on August 26, 2008 that it would be released as a downloadable game on September 18[^ref-20], and Engadget's September 8, 2008 hands-on said to expect it on the PlayStation Store "later this month"[^ref-21]. GamesRadar+ wrote in August 2009 that the game was "Originally penciled in for a release last year" but "disappeared into the ether after Activision swallowed the whole of Sierra," before it "crash-landed on the PSN store" six months later[^ref-6].
 
 IGN's Sam Bishop wrote that he had previewed the PlayStation 3 version "at the start of last September" and that "not a single thing has changed from that build"; the release slid "from what was originally going to be a few weeks after our preview all the way until now, almost six months later"[^ref-7]. MobyGames lists the PlayStation 3 download release as March 12, 2009[^ref-16].
 
@@ -119,7 +119,7 @@ IGN's Sam Bishop wrote that he had previewed the PlayStation 3 version "at the s
 - **Senior Producer (Sierra):** Terry Coleman
 - **Producer (Sierra):** Scott Mackintosh
 - **Publisher:** Sierra Entertainment, Inc.[^ref-1] (credited as "Sierra Online, a subsidiary of Vivendi Games Inc."[^ref-17])
-- **Additional Publishing:** Vivendi Games[^ref-17] (listed by Sierra Chest under the older name Vivendi Universal Games[^ref-8])
+- **Additional Publishing:** Vivendi Games, the parent company of Sierra Online per the credit line "Published by Sierra Online, a subsidiary of Vivendi Games Inc."[^ref-17] (listed by Sierra Chest under the older name Vivendi Universal Games[^ref-8])
 
 ### Technical Achievements
 
@@ -154,9 +154,9 @@ IGN noted that "Some objects have ridiculous bounding boxes that will cause your
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | — | February 19, 2008 | Windows | Initial PC release[^ref-1][^ref-16] |
-| — | June 30, 2008 | Windows | US release date listed by GameFAQs and Metacritic[^ref-4][^ref-15] |
-| — | September 18, 2008 | PlayStation 3 | PSN date listed by GameFAQs and HonestGamers; IGN reports the release slid almost six months past its planned date[^ref-4][^ref-13][^ref-7] |
-| — | March 12, 2009 | PlayStation 3 | PSN download release (US)[^ref-16]; IGN review published March 18, 2009[^ref-7] |
+| — | June 30, 2008 | Windows | US release date listed by GameFAQs and Metacritic[^ref-4][^ref-15]; Gas Bandit Gaming's review, dated 2 April 2008, already shows the game on sale at Amazon[^ref-3] |
+| — | September 18, 2008 | PlayStation 3 | PSN date listed by GameFAQs and HonestGamers; Shacknews (26 August 2008) reported this as the planned date[^ref-20]; IGN reports the release slid almost six months past its planned date[^ref-4][^ref-13][^ref-7] |
+| — | March 12, 2009 | PlayStation 3 | PSN download release (US)[^ref-16][^ref-22]; IGN review published March 18, 2009[^ref-7] |
 
 ### Easter Eggs and Trivia
 
@@ -202,7 +202,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 ## Downloads
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/red-baron_202304) – Free download and streaming[^ref-5]
+- [Internet Archive](https://archive.org/details/red-baron_202304) – Disc image download[^ref-5]
 - [MyAbandonware](https://www.myabandonware.com/game/red-baron-arcade-n5a) – Abandonware download[^ref-11]
 
 ## See Also
@@ -223,7 +223,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 [^ref-2]: [IGN – Red Baron Arcade Review (PC)](https://www.ign.com/articles/2008/07/25/red-baron-arcade-review-2) – PC review score 5.8, gameplay criticism, release date
 [^ref-3]: Gas Bandit Gaming, "Review: Red Baron Arcade", 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
 [^ref-4]: [GameFAQs – Red Baron Arcade](https://gamefaqs.gamespot.com/ps3/952621-red-baron-arcade/data) – release dates, ESRB rating, multiplayer specs, official description
-[^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – publisher, multiplayer capabilities, availability
+[^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – disc image download; the item description is the uploader's pasted text
 [^ref-6]: [GamesRadar+ – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – PS3 review (Aug 11, 2009); delay after Activision absorbed Sierra, technical issues, critical quotes
 [^ref-7]: [IGN – Red Baron Arcade Review (PS3)](https://www.ign.com/articles/2009/03/18/red-baron-arcade-review) – PS3 review score 2/10, technical criticisms, Xbox 360 cancellation
 [^ref-8]: [Sierra Chest – Red Baron Arcade Walkthrough](https://sierrachest.com/index.php?a=games&id=333&title=red-baron-arcade&fld=walkthrough&pid=100) – mission count, gameplay mechanics, aircraft descriptions
@@ -237,3 +237,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 [^ref-17]: [MobyGames – Red Baron: Arcade Credits](https://www.mobygames.com/game/106856/red-baron-arcade/credits/) – PlayStation 3 credits: Creative Director Shaun Smith, Level Design Michaela Swinhoe, Music Paul Zimmer, Senior Producer Terry Coleman; credits line "Published by Sierra Online, a subsidiary of Vivendi Games Inc."
 [^ref-18]: [Stainless Games – official site](https://www.stainlessgames.com/) – company footer: "private limited company registered in England", registered office Newport, Isle of Wight, UK
 [^ref-19]: [Wikipedia – Stainless Games](https://en.wikipedia.org/wiki/Stainless_Games) – "independent British video game developer based in Newport, Isle of Wight"
+[^ref-20]: [Shacknews – Red Baron Arcade Flies To PS3](https://www.shacknews.com/article/54412/red-baron-arcade-flies-to) – Chris Faylor, 26 Aug 2008: PS3 download planned for September 18; "36 single-player missions" and eight-person online battles
+[^ref-21]: [Engadget – Hands-on: Red Baron Arcade](https://www.engadget.com/2008-09-08-hands-on-red-baron-arcade.html) – Andrew Yoon, 8 Sep 2008: PS3 preview build; expected on the PlayStation Store "later this month"
+[^ref-22]: [Push Square – Red Baron Arcade (PS3)](https://www.pushsquare.com/games/ps3/red_baron_arcade) – PS3 US release 12 Mar 2009
+[^ref-23]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Dynamix/Sierra On-Line 1990 game; won Computer Gaming World's 1991 Simulation of the Year award
