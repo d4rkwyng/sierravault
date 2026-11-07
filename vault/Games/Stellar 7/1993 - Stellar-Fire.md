@@ -10,13 +10,13 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-01'
+last_updated: '2026-11-07'
 description: Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released by Dynamix for the Sega CD in late 1993. MobyGames credits Infinite Laser Dog as developer.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,7 @@ Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the sta
 
 The manual sets the game in 2206. The Draxon, "a cybernetically linked race," seek to absorb the sentient life of the galaxy and "have conquered over ten-thousand worlds"; having shattered most of Earth's fleets, they are now advancing on Earth itself[^ref-13]. A last-ditch squadron of Earth's best remaining pilots is sent to strike at the Draxon home world, Arctura. The player flies a craft built by the secret Raven Projects, alongside wingmates Raela and Kritek[^ref-13].
 
-The plan is to slip through a weak shield at Arctura's outermost moon, Xarz Voor, and work inward moon by moon, disabling each layer of the shield around the home world[^ref-13]. The mission goes wrong in the asteroid field: Draxon interceptors kill Kritek, and a Draxon cruiser destroys Raela's ship, leaving the player as the only pilot left[^ref-13]. This setup is told in the game's FMV introduction, which Michael Dorn narrates[^ref-3][^ref-9]. MobyGames describes the craft as a "hovermorph" that serves as a starfighter in space and transforms into a hovership when it approaches a moon's surface[^ref-2].
+The plan is to slip through a weak shield at Arctura's outermost moon, Xarz Voor, and work inward moon by moon, disabling each layer of the shield around the home world[^ref-13]. The mission goes wrong in the asteroid field: Draxon interceptors kill Kritek, and a Draxon cruiser destroys Raela's ship, leaving the player as the only pilot left[^ref-13]. This setup is told in the game's FMV introduction, which Michael Dorn narrates[^ref-3][^ref-9]. Electronic Gaming Monthly's pre-release preview told the setup differently: it names the player's force "Stellar Force 7" and has "heavy fire" from the Arctura defense system cause the casualties, leaving only the player and Raela until a Draxon mothership destroys Raela's ship, with no mention of Kritek[^ref-23]. The manual's account above is the one used here. MobyGames describes the craft as a "hovermorph" that serves as a starfighter in space and transforms into a hovership when it approaches a moon's surface[^ref-2].
 
 Each moon generates part of the shield around Arctura, so the player must defeat every moon in turn to reach the home world, where "whatever it is that binds the Draxon together" must be destroyed[^ref-13].
 
@@ -55,7 +55,7 @@ Button A fires the cannon (slower but stronger), button B the laser (faster but 
 
 The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On each moon the player follows the Crystal Compass, collects the Moon Crystals, then blasts the Guardian Crystal to release that moon's Guardian, who must be defeated before the Raven can move on[^ref-13].
 
-**Stages** (order and terrain from the manual's map)[^ref-13]:
+**Stages** (terrain from the manual's map; the manual puts Xarz Voor first and Mok Zoh last, before Arctura, and the order of the middle three follows the Dynamix Wiki and Retro Game Wiki)[^ref-13][^ref-1][^ref-4]:
 
 - **Xarz Voor:** The outermost moon, where the attack begins
 - **Zoreq:** Spire terrain
@@ -64,7 +64,7 @@ The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On eac
 - **Mok Zoh:** A desert moon, and the last before Arctura
 - **Arctura:** The Draxon home world, with high-tech terrain
 
-Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual has the attack begin on Xarz Voor[^ref-13].
+Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual has the attack begin on Xarz Voor[^ref-13]. Pre-release coverage counted differently: Electronic Gaming Monthly's November 1993 preview Fact File listed "7" levels, and GameFan's review said the player patrols "the six moons of the planet Arctura" (the manual describes five moons plus Arctura)[^ref-23][^ref-22].
 
 When the Raven reaches each new moon, a spoken mission briefing introduces the moon's enemies. The player can cycle through enemy profiles and tips or skip the briefing entirely[^ref-1]. The Video Game Critic noted that "the lady's voice" delivers the first mission briefing[^ref-10].
 
@@ -83,6 +83,8 @@ The manual lists three difficulty levels: easy, normal, and difficult. On easy, 
 **Electronic Gaming Monthly** (#55, p. 42, "Major Mike's Game Roundup") gave scores of 6, 7, 4, 4 and 6 from its five reviewers, calling it "a first-person perspective shooter that looks a little like Battlezone, but doesn't really hack it. The sounds are alright and the cinemas are dynamite, but they are so good that they make the game a real letdown."[^ref-19]
 
 **Game Players** (#40, May 1994, p. 124, "Now Playing" capsule of its earlier review) gave it 82%, citing "lots of variety from planet to planet, a sneaky bunch of bosses and hot music." It added that "the game is hard and even the easy mode has enough enemies to keep you busy."[^ref-20]
+
+**GameFan** (Vol. 1 #12, November 1993, p. 61) reviewed it in a Sega CD column signed E. Storm, calling it "a unique shooter that although mild at first becomes increasingly addicting" and the music and introduction "phenom.". The review describes collecting "a series of crystals before greeting the level guardian" and names "the moons background graphics always change but the mountains never get closer" as "the only real flaw." It also says that although "there is nothing ground breaking here," the game "offers some unique play mechanics."[^ref-22]
 
 Sierra's own **InterAction** magazine (Holiday 1993, p. 50) ran a promotional feature by Barbara Ray. It highlighted the 3-D polygon graphics running on "the hardware found inside every Sega CD console" and the "killer techno-rock/industrial soundtrack," and closed with "Looks like Dynamix has another hit on its hands!"[^ref-16] As a house magazine, InterAction was promoting its own product, not reviewing it.
 
@@ -108,7 +110,7 @@ MobyGames lists Infinite Laser Dog as developer and Dynamix as publisher, and Se
 
 ### Production
 
-InterAction emphasized that the game's 3-D polygon graphics needed no extra chip: "Stellar Fire, however, makes use of the hardware found inside every Sega CD console"[^ref-16]. The full-motion video introduction, which GamePro called a "great opening sequence," mixes footage of actors in a cockpit with computer-generated space battles[^ref-18][^ref-10]. Michael Dorn, Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. A GameFAQs trivia note calls it "a bit part" that was "still promoted on the back of the box"[^ref-9].
+InterAction emphasized that the game's 3-D polygon graphics needed no extra chip: "Stellar Fire, however, makes use of the hardware found inside every Sega CD console"[^ref-16]. The full-motion video introduction, which GamePro called a "great opening sequence," mixes footage of actors in a cockpit with computer-generated space battles[^ref-18][^ref-10]. DieHard GameFan's earlier preview called it "The SGI intro" and said it "lasts for nearly 5 minutes"; that preview covered a pre-release build with "only one level complete," described the game as a "planet based, futuristic tank" shooter, and is used here only for the intro[^ref-24]. Michael Dorn, Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. A GameFAQs trivia note calls it "a bit part" that was "still promoted on the back of the box"[^ref-9].
 
 **Development Credits:**
 
@@ -172,7 +174,7 @@ MobyGames lists only the original 1993 Sega CD release[^ref-2].
 
 ### Critical Perspective
 
-Reviewers of the day agreed on what Stellar-Fire did well, praising its sound and its opening cinematic, and on what it lacked: GamePro found "not enough action," and EGM said the cinemas "make the game a real letdown"[^ref-18][^ref-19]. Game Players was the most positive of the three, at 82%[^ref-20]. Later reviews have been harsher, from Sega-16's 4/10 to The Video Game Critic's F, although some players still defend its polygon graphics and soundtrack[^ref-3][^ref-10][^ref-5].
+Reviewers of the day agreed on what Stellar-Fire did well, praising its sound and its opening cinematic, and on what it lacked: GamePro found "not enough action," and EGM said the cinemas "make the game a real letdown"[^ref-18][^ref-19]. Game Players was the most positive of the three, at 82%[^ref-20], and GameFan's E. Storm was also warm toward it[^ref-22]. Later reviews have been harsher, from Sega-16's 4/10 to The Video Game Critic's F, although some players still defend its polygon graphics and soundtrack[^ref-3][^ref-10][^ref-5].
 
 ## Downloads
 
@@ -209,3 +211,6 @@ Reviewers of the day agreed on what Stellar-Fire did well, praising its sound an
 [^ref-19]: [Electronic Gaming Monthly #55, p. 42 – Review Crew: Major Mike's Game Roundup](https://archive.org/details/Electronic_Gaming_Monthly_55/page/n43/mode/1up) – "Dynamix / Sega CD", scores 6/7/4/4/6
 [^ref-20]: [Game Players #40, May 1994, p. 124 – Now Playing](https://archive.org/details/Game_Players_Issue_40_May_1994/page/n125/mode/1up) – "Dynamix for Sega CD; review, 7#3", Overall 82%
 [^ref-21]: [MobyGames – Stellar-Fire Credits](https://www.mobygames.com/game/27337/stellar-fire/credits/) – team list, Narrator: Michael Dorn
+[^ref-22]: [GameFan Vol. 1 #12, November 1993, p. 61 – Stellar-Fire](https://archive.org/details/GamefanVolume1Issue12/page/n60/mode/1up) – E. Storm; "Dynamix · 1 player · Sega CD · Nov."; positive review; "six moons" wording differs from the manual
+[^ref-23]: [Electronic Gaming Monthly #52, November 1993, p. 262 – Stellar-Fire preview](https://archive.org/details/Electronic_Gaming_Monthly_52/page/n262/mode/1up) – unsigned preview; Fact File: Dynamix, Available December, 7 levels, 75% complete; 2206 premise
+[^ref-24]: [DieHard GameFan Vol. 1 #11, 1993 – Stellar-Fire preview](https://archive.org/details/diehard-gamefan-v1-n11/page/n38/mode/1up) – Talko; SGI intro of nearly 5 minutes; only one level complete at the time
