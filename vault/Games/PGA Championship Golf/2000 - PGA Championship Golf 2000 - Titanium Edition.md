@@ -2,7 +2,7 @@
 title: PGA Championship Golf 2000 Titanium Edition
 release_year: 2000
 developer: Headgate Studios
-designer: []
+designer: null
 publisher: Sierra
 genre: Sports
 platforms: [Windows]
@@ -10,17 +10,17 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-07'
 description: An enhanced December 2000 re-release of PGA Championship Golf 2000 by Headgate Studios and Sierra Sports, adding seven new 18-hole courses and improved multiplayer.
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-PGA Championship Golf 2000 Titanium Edition is an enhanced edition of [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]], developed by Headgate Studios and released by Sierra Sports for Windows in December 2000[^ref-11][^ref-28]. It added seven new 18-hole courses, an expanded art library for the Course Architect, and improved multiplayer linking[^ref-11][^ref-29]. Sierra's own site described it as "all the great features in PGA 2000, plus an additional 7 courses for a total 20 courses"[^ref-34][^ref-36]. Owners of the original game could download the new content for free[^ref-11][^ref-28][^ref-34]. The German site Gameswelt reported the announcement on December 11, 2000, calling it "eine kräftige Erweiterung" (a substantial expansion) of PGA Championship Golf 2000[^ref-39]. A German release in 2001 carried the title "PGA Championship Golf 2001"[^ref-21]. MobyGames notes the German release as having 20 courses[^ref-29]; Sierra's own site gives 20 as the Titanium Edition's total (the base game's 13 courses plus the seven new ones), so the German figure is best read as that same total rather than 20 new courses[^ref-34][^ref-36].
+PGA Championship Golf 2000 Titanium Edition is an enhanced edition of [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]], developed by Headgate Studios and released by Sierra Sports for Windows in December 2000[^ref-11][^ref-28]. It added seven new 18-hole courses, an expanded art library for the Course Architect, and improved multiplayer linking[^ref-11][^ref-29]. Sierra's own site described it as "all the great features in PGA 2000, plus an additional 7 courses for a total 20 courses"[^ref-34][^ref-36]. Owners of the original game could download the new content for free[^ref-11][^ref-28]. The German site Gameswelt reported the announcement on December 11, 2000, calling it "eine kräftige Erweiterung" (a substantial expansion) of PGA Championship Golf 2000[^ref-39]. A German release in 2001 carried the title "PGA Championship Golf 2001"[^ref-21]. MobyGames notes the German release as having 20 courses[^ref-29]; Sierra's own site gives 20 as the Titanium Edition's total (the base game's 13 courses plus the seven new ones), so the German figure is best read as that same total rather than 20 new courses[^ref-34][^ref-36]. Sierra's total of 20 implies 13 base courses, matching CNET Gamecenter's count of 13 courses for PGA Championship Golf 2000[^ref-41].
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-11][^ref-12][^ref-23]
@@ -45,7 +45,7 @@ The Titanium Edition is built on PGA Championship Golf 2000, whose swing system 
 
 ### Structure and Progression
 
-Sierra described the seven new 18-hole courses as "designed specifically for PGA Championship Golf Titanium Edition by some of the top designers in the PGA 2000 community"[^ref-35]: Beartooth Pass Golf Course (Brian Silvernail), Cutter Bay Golf Club (Tom Steenstrup), Eman Hills Golf Course (Chris Anderson), Rugged Cross Desert Course (Ken McHale), Sammamish Hills Golf Club (Jim Mattler), Saxe Gotha Golf Club (Jim Dickson) and Tulaichean Bay (Alan Toft)[^ref-35][^ref-28]. Alongside them the edition kept the base game's seven licensed courses, among them Royal Birkdale, Pasatiempo and Sahalee, and Sierra Sports' own original courses[^ref-35]. Sierra posted the new courses online one per day during the first week after launch, so existing owners could add them free[^ref-28]; its Titanium page told PGA 2000 owners they "can upgrade for free to PGA Titanium Edition" by downloading a patch[^ref-34]. The edition also expanded the Course Architect's art library[^ref-29]. Multiplayer supports Internet, LAN and modem play[^ref-33].
+Sierra described the seven new 18-hole courses as "designed specifically for PGA Championship Golf Titanium Edition by some of the top designers in the PGA 2000 community"[^ref-35]: Beartooth Pass Golf Course (Brian Silvernail), Cutter Bay Golf Club (Tom Steenstrup), Eman Hills Golf Course (Chris Anderson), Rugged Cross Desert Course (Ken McHale), Sammamish Hills Golf Club (Jim Mattler), Saxe Gotha Golf Club (Jim Dickson) and Tulaichean Bay (Alan Toft)[^ref-35][^ref-28]. Alongside them the edition kept the base game's seven real-world courses, among them Royal Birkdale, Pasatiempo and Sahalee, and Sierra Sports' own original courses[^ref-35]. Sierra posted the new courses online one per day during the first week after launch, so existing owners could add them free[^ref-28]; the edition also expanded the Course Architect's art library[^ref-29]. Multiplayer supports Internet, LAN and modem play[^ref-33].
 
 Although the game carries the PGA name, and MobyGames groups it with "PGA licensees"[^ref-29], Wikipedia notes that PGA Championship Golf 2000 "does not include any professional PGA golfers"[^ref-27].
 
@@ -83,7 +83,7 @@ The minimum requirements are Windows 95, an Intel Pentium, 32 MB of RAM and a 4X
 |---------|------|--------|-------|
 | Titanium Edition | December 2000 | United States | Seven new courses; UPC 0-20626-71191-3[^ref-11][^ref-30] |
 | PGA Championship Golf 2001 | 2001 | Germany | German title; 20 courses per MobyGames[^ref-21][^ref-29] |
-| Patch 3.2.7.1 | By January 2001 | — | Updated PGA 2000 owners to 3.2.7.1 and "includes seven new courses"[^ref-37]; Sierra also listed a 3.2.7.1 patch for Titanium Edition owners[^ref-34] |
+| Patch 3.2.7.1 | By February 2001 | — | Updated PGA 2000 owners to 3.2.7.1 and "includes seven new courses"[^ref-37]; Sierra's page for the original PGA Golf 2000 offered the 3.2.7.1 patch[^ref-34] |
 | Patch 3.3.4.5 | — | — | Updated "PGA 2000 and PGA 2000 Titanium Edition"; a German version of the patch also exists[^ref-37] |
 
 ## Downloads
@@ -112,10 +112,11 @@ The minimum requirements are Windows 95, an Intel Pentium, 32 MB of RAM and a 4X
 [^ref-31]: [Wikipedia – EA Salt Lake](https://en.wikipedia.org/wiki/EA_Salt_Lake) – Headgate Studios acquired by EA December 1, 2006 and renamed EA Salt Lake
 [^ref-32]: [Eurogamer – PGA Championship Golf 2000 review](https://www.eurogamer.net/pga2k) – Base-game review; TrueSwing 3 mouse swing
 [^ref-33]: [MobyGames – Specs](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/specs/) – Windows 95, Pentium, 32 MB, 4X CD-ROM, 640×480, 3D accelerator, Internet/LAN/modem, ESRB Everyone, USK 0
-[^ref-34]: [Sierra Sports – PGA Championship Golf 2000 / Titanium Edition (archived January 24, 2001)](https://web.archive.org/web/20010124102800/http://www.sierrasports.com/golf2000/index.html) – "an additional 7 courses for a total 20 courses"; free upgrade patch for PGA 2000 owners; Titanium patch 3.2.7.1
+[^ref-34]: [Sierra Sports – PGA Championship Golf 2000 / Titanium Edition (archived February 10, 2001)](https://web.archive.org/web/20010210004305/http://www.sierrasports.com/golf2000/index.html) – "an additional 7 courses for a total 20 courses"; patch updating the original PGA Golf 2000 to version 3.2.7.1
 [^ref-35]: [Sierra Sports – PGA Championship Golf Titanium Edition courses (archived December 10, 2000)](https://web.archive.org/web/20001210073600/http://www.sierrasports.com/golf2000/courses.html) – The seven new courses and their designers; PGA 2000 courses and Sierra Sports originals included
 [^ref-36]: [Sierra Sports – Home page (archived June 9, 2001)](https://web.archive.org/web/20010609085928/http://www.sierrasports.com/) – "an additional 7 courses for a total 20 courses"; Titanium courses with designer credits
 [^ref-37]: [The Sierra Help Pages – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – Patch archive; 3.2.7.1 "includes seven new courses"; 3.3.4.5 covers PGA 2000 and Titanium Edition; German patch
 [^ref-38]: [SportPlanet – Planet CyberGolf: PGA 2000 Collectors Edition (archived)](https://web.archive.org/web/20011201135531/http://www.sportplanet.com/features/articles/cybergolf/113001/) – John Cauthen, November 30, 2001; quote is on [page 2 (GameSpy archive mirror)](https://gamespy-archives.quaddicted.com/sites/www.sportplanet.com/features/articles/cybergolf/113001/index2.shtml.html)
 [^ref-39]: [Gameswelt – PGA Championship Golf 2000 news](https://www.gameswelt.de/pga-championship-golf-2000/news) – "PGA Championship Golf Titanium Edition angekündigt", 11.12.00
 [^ref-40]: [Electronic Arts - Headgate Studios Team Joins EA (Business Wire, November 30, 2006; PDF)](https://s204.q4cdn.com/701424631/files/doc_news/2006/11/1/313912.pdf) – EA announced on November 30, 2006 that the Headgate Studios development team had joined EA; team remains in Bountiful, Utah
+[^ref-41]: [CNET Gamecenter – PGA Championship Golf 2000 review (archived)](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – Jason Ocampo, June 20, 2000; "There are 13 courses in the game"
