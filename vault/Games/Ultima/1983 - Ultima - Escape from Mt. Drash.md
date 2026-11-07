@@ -10,15 +10,15 @@ series: Ultima
 engine: Commodore BASIC with assembly language routines
 protagonist: Unnamed Prisoner
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-06'
 description: '*Ultima: Escape from Mt. Drash* is a rare 1983 VIC-20 maze game by Keith
   Zabalaoui, published by Sierra On-Line with Richard Garriott''s permission to use
   the Ultima name, and long the subject of a collectors'' legend that it was unauthorized.'
-tags: [1980s, adventure, sierra, ultima]
+tags: [1980s, sierra, ultima]
 ---
 # Ultima: Escape from Mt. Drash
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,11 @@ MobyGames' only user review calls the 3D view "nearly useless since it doesn't s
 
 ### Contemporary Reviews
 
-The game got little press. *Computer Gaming World*'s July–August 1983 issue (Vol. 3 No. 4, p. 9) included it in a round-up of new products, listed under Sierra On-Line. That entry was a short descriptive blurb with no score. It called the game "an intriguing adventure game because of its unique graphics and marvelous musical score (The Well-Tempered Commodore?)", and it noted the 15 levels, the escalating difficulty and the need for an 8K expander[^ref-18]. The CRPG Addict questions whether the magazine's writers were "doing anything other than parroting the press materials"[^ref-11].
+The game got little press, but it was not ignored. *Computer Gaming World*'s July–August 1983 issue (Vol. 3 No. 4, p. 9) included it in a round-up of new products, listed under Sierra On-Line. That entry was a short descriptive blurb with no score. It called the game "an intriguing adventure game because of its unique graphics and marvelous musical score (The Well-Tempered Commodore?)", and it noted the 15 levels, the escalating difficulty and the need for an 8K expander[^ref-18]. The CRPG Addict questions whether the magazine's writers were "doing anything other than parroting the press materials"[^ref-11].
+
+*Commander* reviewed it in its April 1984 issue (Vol. 2, No. 4), in Fred Darti's "Along the Adventure Game Trail" column. Darti called it "an adventure of a different sort": to the purist "not really an adventure game but rather a MAZE game." He described a 15-level mountain, three spells (sleep, blast and teleport) and a duel with a thrust and counter-thrust, and said the "sleep" spell was the only one that worked every time. He concluded that it "is pleasing as a strictly maze game, but cannot be fully recommended to adventure game purists"[^ref-21].
+
+The February 1984 issue of *Computer Games* still listed the game under Sierra On-Line in its "Future Releases from the Top Game Companies" roundup, although *Computer Gaming World* had covered it the previous summer. The listing is not a release date[^ref-22].
 
 Sierra's only known advertisement for the game was a VIC-20 page in the July 1983 *Compute!*, which promoted it alongside *Creepy Corridors* and *Flip-N-Match*[^ref-17][^ref-6].
 
@@ -99,6 +103,8 @@ Keith Zabalaoui was one of Garriott's high-school friends from Houston and had h
 The VIC-20 software market had already passed its peak by early 1983. The game also needed a memory expansion and a cassette drive, which many VIC-20 owners didn't have[^ref-6][^ref-1]. Sierra suggested that marketing the game as an Ultima might help. Garriott agreed, according to Maher "likely more as a personal favor" to Zabalaoui than anything else[^ref-6]. Pix reported Garriott's own account in 2012: "Garriott was well aware of Escape From Mt. Drash and agreed to the Ultima branding to help out the author as Sierra wouldn't have published the game otherwise"[^ref-16]. The cassette and title screen credit Garriott as owner of the Ultima trademark[^ref-13].
 
 Even with the Ultima name, Sierra remained skeptical. It manufactured only the minimum quantity required by its contract with Zabalaoui, "on the order of a few thousand units", and placed a single advertisement[^ref-6]. Approximately 3,000 units is the figure usually given, though exact numbers are not known[^ref-1][^ref-3].
+
+An early account of Zabalaoui's side comes from the Notable Ultima collectibles page, archived in November 2005, from the era when the legend was still current. It quotes him: "It wasn't REALLY an Ultima game, but Sierra thought it would sell better if we called it that." The same page also says Garriott never knew of the game, which later sources contradict, and it should be read as legend-era evidence for the quote only[^ref-23].
 
 ### The "Unauthorized Ultima" Legend
 
@@ -171,7 +177,7 @@ The first working copy surfaced online only in 2000. It came from an Indiana tee
 
 ### Fan Projects
 
-Kasper Fauerby's 2003 Windows port, released under the GPL, is the version most people have played[^ref-15][^ref-12][^ref-3]. In January 2025, Aleksi Eeben released a Commodore 64 conversion[^ref-8]. Tape images of the original VIC-20 cassette also circulate for use with emulators such as VICE[^ref-3][^ref-13].
+Kasper Fauerby's 2003 Windows port, released under the GPL, is the version most people have played[^ref-15][^ref-12][^ref-3]. In January 2025, Aleksi Eeben released a Commodore 64 conversion[^ref-8]. Tape images of the original VIC-20 cassette also circulate for use with emulators such as VICE[^ref-3][^ref-13], although Hardcore Gaming 101 says the original tape image has been "intentionally withheld by the current holders to prevent the creation of counterfeits and fake cassettes"[^ref-12]. The sources disagree on this point.
 
 ### Related Publications
 
@@ -223,3 +229,6 @@ In Maher's view, the actual decision to attach the Ultima name to a slight VIC-2
 [^ref-18]: [Computer Gaming World Vol. 3 No. 4 (July–August 1983), p. 9](https://archive.org/details/Computer_Gaming_World_Issue_3.4) – period scan, new-products round-up (Sierra On-Line entry): "unique graphics and marvelous musical score", 15 levels, 8K expander
 [^ref-19]: [Polygon – Rare Ultima game sells for more than $3,000 on eBay](https://www.polygon.com/2014/3/2/5463490/rare-ultima-escape-from-mt-drash-sells-on-ebay/) – Samit Sarkar, 2 March 2014; Olafson's 2004 purchase for $3,605 and 2014 resale for $3,050
 [^ref-20]: [AtariAge Forums – Official Consumer price list for the First Quarter 1984 for Sierra On-Line (Wayback, 30 May 2021)](http://web.archive.org/web/20210530042314/https://atariage.com/forums/topic/269239-official-consumer-price-list-for-the-first-quarter-1984-for-sierra-on-line/) – thread-level support only: a poster (26 Aug 2017) notes "this price list has Ultima Escape from Mount Drash for the Vic 20 on it"; the PDF attachment could not be read
+[^ref-21]: [Commander Vol. 2 No. 4 (April 1984) – Fred Darti, "Along the Adventure Game Trail"](https://archive.org/details/Commander_Volume_2_Issue_04_1984-04_Microsystems_Specialties_US) – period scan, read via the OCR text: "adventure of a different sort," 15 levels, three spells, thrust/counter-thrust, "cannot be fully recommended to adventure game purists"
+[^ref-22]: [Computer Games, February 1984 – "Future Releases from the Top Game Companies"](https://archive.org/details/computer_games_feb84) – period scan, read via the OCR text: Sierra On-Line entry lists "Ultima: Escape from Mt. Drash"; a future-release listing, not a release date
+[^ref-23]: [Notable Ultima – collectibles, "Ultima: Escape from Mt. Drash" (Wayback, 10 Nov 2005)](http://web.archive.org/web/20051110123427/http://www.notableultima.com:80/collectibles/Title_Other.html) – used only for Keith Zabalaoui's quote, "Sierra thought it would sell better if we called it that"; legend-era page (says Garriott never knew), not used for other facts
