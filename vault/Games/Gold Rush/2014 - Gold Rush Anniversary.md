@@ -10,20 +10,20 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jerrod Wilson
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 description: Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line
   adventure game Gold Rush!, developed and published by Sunlight Games.
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line adventure game Gold Rush!, developed and published by the German studio Sunlight Games.[^ref-2][^ref-8][^ref-17] Metacritic and Just Adventure's review, however, list KISS Ltd as publisher of the 2014 PC release.[^ref-7][^ref-13] The game takes players back to the California Gold Rush, which its store description calls "one of the most exciting times in American history", as Jerrod Wilson travels from New York to the goldfields of California.[^ref-2] It was released on Steam for Windows on November 7, 2014; the Mac version followed on Steam on November 15 and the Linux version on November 19, 2014, with iPad and Android versions arriving in March 2015.[^ref-3][^ref-17]
+Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line adventure game Gold Rush!, developed and published by the German studio Sunlight Games.[^ref-2][^ref-8][^ref-17] Metacritic and Just Adventure's review, however, list KISS Ltd as publisher of the 2014 PC release.[^ref-7][^ref-13] The game takes players back to the California Gold Rush, which its store description calls "one of the most exciting times in American history", as Jerrod Wilson travels from New York to the goldfields of California.[^ref-2] It was released on Steam for Windows on November 7, 2014; the Mac version followed on Steam on November 15 and the Linux version on November 19, 2014, with iPad and Android versions arriving in March 2015.[^ref-3][^ref-17] GamingOnLinux reported the Linux port available on November 22, 2014, finding that it "seems to work almost perfectly".[^ref-24]
 
-The Anniversary edition is a complete visual overhaul of the original AGI-based adventure, with more than 130 pre-rendered images and animated scenes.[^ref-4][^ref-8] The pixel art was replaced by 3D modelling, though Adventure Gamers felt the graphics looked closer to 2001 than 2014.[^ref-1][^ref-5] Players choose one of three routes to California—across the Isthmus of Panama, around Cape Horn, or overland across the Great Plains—which the developer bills as "3 adventures in one game".[^ref-2][^ref-6]
+The Anniversary edition is a complete visual overhaul of the original AGI-based adventure, with more than 130 pre-rendered images and animated scenes.[^ref-4][^ref-8][^ref-23] The pixel art was replaced by 3D modelling, though Adventure Gamers felt the graphics looked closer to 2001 than 2014.[^ref-1][^ref-5] Players choose one of three routes to California—across the Isthmus of Panama, around Cape Horn, or overland across the Great Plains—which the developer bills as "3 adventures in one game".[^ref-2][^ref-6][^ref-23]
 
 One of the defining features of the Anniversary edition is its dual control scheme, allowing players to switch between the original text parser and a new point-and-click system mid-game.[^ref-1] Sunlight Games advertised an "optimized game-flow (minimizing dead-ends and random perils)", and 3rd-strike.com called the result "a far more forgiving and player friendly experience", but Adventure Gamers counted "Sierra's infamous dead ends left intact" among the game's faults.[^ref-1][^ref-2][^ref-5] The game received mixed reviews: critics acknowledged its nostalgic appeal but criticized its dated presentation, interface problems and its launch price of $34.99 (€29.99).[^ref-3][^ref-5][^ref-7]
 
@@ -103,7 +103,7 @@ The iOS App Store shows a 3.0 out of 5 rating from 12 ratings.[^ref-4] Users pra
 - **Just Adventure:** B-[^ref-7]
 - **Hooked Gamers:** 57/100[^ref-13]
 - **GameOver.gr:** 50/100[^ref-13]
-- **Gameboomers:** C[^ref-10]
+- **Gameboomers:** C[^ref-26]
 - **Adventure Corner:** 54/100[^ref-10][^ref-22]
 - **App Store:** 3.0/5[^ref-4]
 - **Metacritic User Score:** 3.3/10 (Generally Unfavorable, 4 ratings)[^ref-13]
@@ -114,7 +114,9 @@ The iOS App Store shows a 3.0 out of 5 rating from 12 ratings.[^ref-4] Users pra
 
 The original Gold Rush! was among the last games Sierra On-Line produced with the AGI (Adventure Game Interpreter) interface and one of the most complex.[^ref-7][^ref-8] Its rights are held by The Software Farm, run by original designers Ken and Doug MacNeill, who kept the game on sale for years, presumably because of its educational value.[^ref-7][^ref-8] Sunlight Games secured the rights and first re-released the original as Gold Rush! Classic on Steam on July 25, 2014, ahead of the remake.[^ref-3][^ref-8]
 
-A developer diary for the remake went online on July 28, 2014, letting fans follow its progress toward a planned October 31, 2014 release.[^ref-3] When the release was delayed, Sunlight Games CEO Marco Sowa said: "We want to offer our players an even greater gaming experience and this can only be done by improving some minor but important details."[^ref-3]
+In a July 2014 community interview with Adventure Corner, Marco Sowa of the Cologne studio said that work began in the Wintermute engine before the team switched to Unity in mid-to-late 2013: "Zu Beginn nutzten wir die Wintermute-Engine, sind Mitte/Ende 2013 jedoch auf die Unity-Engine umgestiegen" ("At the start we used the Wintermute engine, but in mid/late 2013 we switched to the Unity engine").[^ref-25] In the same interview the studio said German voice casting would follow: "Bei den deutschen Sprechern wird es in Kürze ebenfalls ein Sprechercasting geben" ("German voice casting will also take place shortly").[^ref-25]
+
+A developer diary for the remake went online on July 28, 2014, letting fans follow its progress toward a planned October 31, 2014 release.[^ref-3] On announcing the November 7, 2014 release, WorthPlaying quoted original designer Doug MacNeill: "Their product has surpassed all of my expectations of quality and creativity."[^ref-23] When the release was delayed, Sunlight Games CEO Marco Sowa said: "We want to offer our players an even greater gaming experience and this can only be done by improving some minor but important details."[^ref-3]
 
 ### Production
 
@@ -126,7 +128,7 @@ The remake added newly recorded voice-overs and re-recorded music.[^ref-2][^ref-
 - **Developer:** Sunlight Games
 - **Executive Producer:** Marco Sowa
 - **Lead Programmer:** Tim Polak
-- **Lead Graphics:** Sebastian Krauß
+- **Lead Graphics:** Sebastian Krauß (so credited by MobyGames; Adventure Corner's 2014 interview instead headed him "Lead Designer")[^ref-25]
 - **Music Production and Arrangements:** Alon Kaplan
 - **Original Game:** Ken MacNeill, Doug MacNeill
 - **Original Composer (1988):** Anita Scott[^ref-8]
@@ -220,7 +222,7 @@ The Anniversary edition suffered from various technical problems.[^ref-7]
 
 ## Voice Cast
 
-The Anniversary edition adds English voice-overs for the narration and dialogue.[^ref-8] MobyGames credits eleven English voice actors: Jeremiah Costello, Rich Crankshaw, J. David, Andrew Fogorasi, Kendra Hoffman, Ryan James, Jonas Kvarnström, Jack Luceno, Rick Madewell, Frank Sanderson and Paul Strikwerda. Voice recordings are credited to Simon Osterhold and Daniel Pharos.[^ref-18] Reception of the voice work was divided. 3rd-strike.com found it "convincing", while Adventure Gamers listed "terrible voice acting" among the game's faults.[^ref-1][^ref-5]
+The Anniversary edition adds English voice-overs for the narration and dialogue.[^ref-8] MobyGames credits eleven English voice actors: Jeremiah Costello, Rich Crankshaw, J. David, Andrew Fogorasi, Kendra Hoffman, Ryan James, Jonas Kvarnström, Jack Luceno, Rick Madewell, Frank Sanderson and Paul Strikwerda. Voice recordings are credited to Simon Osterhold and Daniel Pharos.[^ref-18] Reception of the voice work was divided. 3rd-strike.com found it "convincing", while Adventure Gamers listed "terrible voice acting" among the game's faults.[^ref-1][^ref-5] Gameboomers' reviewer wrote, "I thought the voice acting was passable at best."[^ref-26]
 
 ## Legacy
 
@@ -286,3 +288,7 @@ The original Gold Rush! held significant historical importance—Adventure Gamer
 [^ref-20]: [Steam Community – "Bug in Brooklyn at pier"](https://steamcommunity.com/app/319230/discussions/0/458604254438208210/) – pier walking bug, disappearing menu cursor
 [^ref-21]: [Steam Community – "is it worth it? (constructive discussion)"](https://steamcommunity.com/app/319230/discussions/0/624075036416610774/) – user comment on the $35 launch price
 [^ref-22]: [Adventure Corner – Gold Rush! Anniversary Review](https://www.adventurecorner.de/reviews/8926/gold-rush-anniversary-review) – Tobias Maack, 21 November 2014 (German): 54%, resolutions, promised German voice-over dropped, untranslated texts
+[^ref-23]: [WorthPlaying – Gold Rush Anniversary announced, coming soon, screens, trailer](http://worthplaying.com/article/2014/10/30/news/93987-gold-rush-anniversary-announced-coming-soon-screens-trailer/) – Rainier, 30 October 2014: Nov. 7, 2014 release, KISS Ltd. as publisher, "Over 130 pre-rendered images", three routes, Doug MacNeill quote
+[^ref-24]: [GamingOnLinux – Gold Rush! Anniversary Adventure Game Now Available On Linux](https://gamingonlinux.com/2014/11/gold-rush-anniversary-adventure-game-now-available-on-linux) – Liam Squires-Hand, 22 November 2014: Linux port available, "works almost perfectly"
+[^ref-25]: [Adventure Corner – Community-Interview mit Sunlight Games](https://www.adventurecorner.de/articles/8284/community-interview-mit-sunlight-games) – 8 July 2014 (German): Wintermute then Unity, Cologne studio, German voice casting, Sebastian Krauß listed as "Lead Designer"
+[^ref-26]: [Gameboomers – Gold Rush Anniversary Edition review](http://www.gameboomers.com/reviews/Gg/Gold%20RushAnniversaryEdition/Gold%20Rush%20Anniversary%20Edition.htm) – flotsam, February 2015: grade C, voice acting "passable at best"
