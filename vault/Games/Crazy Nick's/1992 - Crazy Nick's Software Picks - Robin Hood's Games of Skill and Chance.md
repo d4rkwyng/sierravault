@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-06'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
   is a 1992 Sierra On-Line budget compilation for DOS that repackages three mini-games
   from Conquests of the Longbow: Archery, Nine Men''s Morris and Sticks.'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -82,11 +82,13 @@ The magazine's October 1992 "Taking A Peek" column gave the pack a short descrip
 
 *PC Games* listed the pack in an October 1992 news item on the line: "Test your wit and reflexes at archery, sticks, and the medieval strategy game of Nine Men's Morris."[^ref-26] *Game Players PC Entertainment*'s news column reported that "on shelves now is a new line of $9.95 titles called Nick's Picks", in which "Sierra has extracted sections of games from previous titles and coupled them with some famous Sierra personas", and named this pack among the five. It was a news mention, not a review.[^ref-27]
 
-Sierra had announced the line in InterAction's Summer 1992 News Notes[^ref-3][^ref-21]. In its Winter 1992 issue, Sierra's magazine said that "Bargain software lovers made the first five titles of Nick's Picks such a hit" that five new titles were following[^ref-23]. That is Sierra's own promotional claim, not an independent sales figure.
+*PC Games* (Germany) also ran a short news preview in its December 1992 issue, headed "Nick's Picks Crazy Software", on the line's arrival. It described the packs as holding the action sequences of larger Sierra games and said buyers could spend hours "beim Bogenschießen mit Robin Hood im Wald" (roughly, "shooting arrows with Robin Hood in the forest"). The line was expected at a budget price of "zwischen zehn und zwanzig Mark" (between ten and twenty marks), and a caption credits the pictured sequences to Conquests of the Longbow. It was a news preview, not a review.[^ref-29]
+
+Sierra had announced the line in InterAction's Summer 1992 News Notes[^ref-3][^ref-21]. In its Winter 1992 issue, Sierra's magazine said that "Bargain software lovers made the first five titles of Nick's Picks such a hit" that five new titles were following[^ref-23]. That is Sierra's own promotional claim, not an independent sales figure. By Spring 1993 Sierra's own magazine carried an advertisement offering any two Nick's Picks for $14.95 or all five for $29.95, against a listed "Reg. Price $9.95 ea." for each, on VGA 3.5" low-density disks that "will also support EGA or Tandy VGA"; the offer expired on April 15, 1993[^ref-28].
 
 ### Modern Assessment
 
-Later coverage is thin. In the 2011 Super Adventures in Gaming guest post, mecha-neko called the title music "very well produced and very appropriate MIDI music" and wrote, "I'm suprised they wasted it on a game collection like this"[^ref-8]. The post ends: "You'd have to be a fool to play this game"[^ref-8]. The same writer guessed that Sierra "simply nicked the minigames wholesale from the complete Robin Hood adventure game"[^ref-8]. Sierra Chest confirms that the three games were originally arcade sequences in Conquests of the Longbow[^ref-2].
+Later coverage is thin. In the 2011 Super Adventures in Gaming guest post, mecha-neko called the title music "very well produced and very appropriate MIDI music" and wrote, "I'm suprised they wasted it on a game collection like this"[^ref-8]. The post ends: "You'd have to be a fool to play this game"[^ref-8]. The post's closing line passes on the view of "Tuppence", whom it does not identify, that Sierra "simply nicked the minigames wholesale from the complete Robin Hood adventure game"[^ref-8]. Sierra Chest confirms that the three games were originally arcade sequences in Conquests of the Longbow[^ref-2].
 
 **User ratings:**
 - **MyAbandonware:** 3.67/5 (3 votes)[^ref-4]
@@ -118,7 +120,7 @@ The pack was developed and published by Sierra On-Line[^ref-1]. Sierra Chest giv
 - **Audio:** "major sound card support" per InterAction[^ref-3]; MIDI title music[^ref-8]
 - **Media:** Single 3.5" low-density floppy disk[^ref-2][^ref-26]
 - **Minimum system:** 286 processor, 640K of RAM[^ref-26]
-- **Price:** $9.95, printed on the package as marked down from $14.95[^ref-24][^ref-25]
+- **Price:** $9.95, printed on the package as marked down from $14.95[^ref-24][^ref-25]; Sierra's Spring 1993 InterAction ad lists a regular price of $9.95 each[^ref-28]
 - **Download size:** MyAbandonware's archive is 632 KB[^ref-4]
 
 **Perspectives:**[^ref-1]
@@ -177,6 +179,8 @@ No fan remake or modification projects have been documented for this title. Scum
 - ***Computer Gaming World* #99 (October 1992):** "Taking A Peek" entry for this pack[^ref-25]
 - ***PC Games* #17 (October 1992):** news item "Software for $9.95"[^ref-26]
 - ***Game Players PC Entertainment* Vol. 5 No. 4 (1992):** news column item on the line's arrival in shops[^ref-27]
+- ***PC Games* (Germany) 12/92:** news preview "Nick's Picks Crazy Software"[^ref-29]
+- **InterAction Vol. VI No. 1 (Spring 1993), p. 21:** Sierra's own "Nick's Picks Special!" advertisement[^ref-28]
 
 No dedicated hint book or strategy guide is known for this budget release.
 
@@ -219,6 +223,8 @@ No dedicated hint book or strategy guide is known for this budget release.
 [^ref-22]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – detection entry "cnick-longbow" for this pack (English, DOS)
 [^ref-23]: [InterAction Magazine, Vol. V No. 4, Winter 1992 (Sierra On-Line), "News Notes"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "New Nick's Picks": the first five titles called "such a hit", and described as extracted from larger Sierra games
 [^ref-24]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line on p. 76, this pack's entry spanning pp. 76 and 78
-[^ref-25]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 14: Robin Hood's Games of Skill & Chance entry
+[^ref-25]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek" (listed on p. 8 of the contents; the Robin Hood entry lies within the scan's pp. 12–16, exact page not confirmed): Robin Hood's Games of Skill & Chance entry
 [^ref-26]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named; cover marked "Display Until September 8, 1992"
+[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), p. 21, "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad (the archive.org item is labelled June 1993; the printed issue date is Spring 1993): "Reg. Price $9.95 ea.", any 2 for $14.95 or all 5 for $29.95, VGA 3.5" LD disks that also support EGA or Tandy VGA, offer expires 4/15/93. Promotional material, not independent reporting
+[^ref-29]: [PC Games (Germany), December 1992 (Internet Archive)](https://archive.org/details/PC.Games.N003.1992.12-fl0n) – NEWS section, p. 12 (page number inferred from p. 13 following; not printed on the page): "Nick's Picks Crazy Software" preview; quoted German "beim Bogenschießen mit Robin Hood im Wald vergnügen" and "zwischen zehn und zwanzig Mark"
