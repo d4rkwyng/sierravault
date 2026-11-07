@@ -10,20 +10,20 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: Hoyle Crosswords is a 2000 Windows/Macintosh crossword puzzle game from Sierra
   On-Line's Hoyle line, offering 500 puzzles across five skill levels.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Crosswords
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
 Hoyle Crosswords is a crossword puzzle game developed and published by Sierra On-Line for Windows and Macintosh in 2000, as part of its Hoyle line of classic games[^ref-1][^ref-16]. Amazon lists the retail PC/Mac release (item model number 71016) as first available on March 24, 2000[^ref-3], a catalog listing date rather than a confirmed street date; Game Over Online reviewed it on April 4, 2000 as "The latest Hoyle product"[^ref-20]. The game offers 500 puzzles arranged around a calendar with a daily puzzle, five skill levels from beginner to expert, and solo, same-computer or Internet play against another player[^ref-1]. AllGame notes that online games were played over Sierra's WON.net service[^ref-22].
 
-Sierra had grouped its Hoyle license into Sierra Attractions, a brand for family and board-style games, when the company reorganized into separate divisions in 1998[^ref-2][^ref-4]. In 2000 the company "continued to build upon its popular Hoyle CD-ROM series," according to a corporate history of Sierra[^ref-17]. The title's notable extra was an in-program copy of Webster's New World College Dictionary for checking words and their meanings[^ref-1].
+Sierra had grouped its Hoyle license into Sierra Attractions, a brand for family and board-style games, when the company reorganized into separate divisions in 1998[^ref-2][^ref-4]. Wikipedia's Sierra Entertainment article likewise lists Sierra Attractions among five sub-brands created in 1998, describing it as "for casual games such as poker" and composed of Berkeley Systems[^ref-25]. In 2000 the company "continued to build upon its popular Hoyle CD-ROM series," according to a corporate history of Sierra[^ref-17]. The title's notable extra was an in-program copy of Webster's New World College Dictionary for checking words and their meanings[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-1]
@@ -217,3 +217,5 @@ Sierra published the Hoyle series through 2003, after which Encore took over pub
 [^ref-23]: [Secret Service no. 80 (2000), Hoyle Crosswords review](https://archive.org/details/secretservice85200012/Secret%20Service%20-%2080%20%5B2000%5D%20%2806%29/page/n83/mode/1up) – Polish magazine scan (scan leaf 84); face editor, music choice, dictionary, hints; 5/10
 
 [^ref-24]: [Gateway Guide, July 2001](https://archive.org/details/gateway-guide-2001-07) – Gateway PC catalog; "Hoyle Games" bundle including Hoyle Crosswords, all for $99
+
+[^ref-25]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 1998 split into five sub-brands; Sierra Attractions "for casual games such as poker", composed of Berkeley Systems; label 1998–2001
