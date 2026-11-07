@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is Sierra On-Line's 1991 collection of six board and dice games (Checkers, Backgammon,
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ Compute! reported that the heroes are "arranged in order of their difficulty as 
 
 ### Interface and Controls
 
-Play is point-and-click. Checkers pieces are dragged to the target square, Backgammon dice are rolled by clicking the dice cup, and Pachisi pawns are dragged around the board[^ref-28]. The icon bar holds CONTROL (Games, Quit, Replay, About, Help), OPTIONS, SCORE, RULES and HELP, and each game's rules can be read on screen[^ref-28]. Compute! listed a mouse as "recommended"[^ref-29], and MobyGames lists the mouse as the supported input device[^ref-31]. PC Joker found mouse control flawless but called joystick control "die reinste Qual" ("sheer torture")[^ref-34].
+Play is point-and-click. Checkers pieces are dragged to the target square, Backgammon dice are rolled by clicking the dice cup, and Pachisi pawns are dragged around the board[^ref-28]. The icon bar holds CONTROL (Games, Quit, Replay, About, Help), OPTIONS, SCORE, RULES and HELP, and each game's rules can be read on screen[^ref-28]. Compute! listed a mouse as "recommended"[^ref-29], and MobyGames lists the mouse as the input device and an analog joystick as a supported controller type, read via the MobyGames API[^ref-31]. PC Joker found mouse control flawless but called joystick control "die reinste Qual" ("sheer torture")[^ref-34].
 
 ### Structure and Progression
 
@@ -77,6 +77,8 @@ Alfred C. Giovetti reviewed the game for *Compute!* in August 1992 and was large
 
 The German magazine *PC Joker* (February 1992) scored the DOS version 55%. It praised the graphics and the animated opponent portraits but found the computer's playing strength "leider nicht weltbewegend" ("unfortunately not earth-shattering")[^ref-34]. *Alle PC Spiele* (1993) similarly summed up the games as having good graphics but weak playing strength[^ref-34].
 
+Sierra's own InterAction magazine (Summer 1992) reported that Sierra "wound up with five nominations" at the Software Publishers Association awards for several titles, including *The Official Hoyle Book of Games Vol. 3*. The magazine does not say which category, so this is a nomination only[^ref-44].
+
 ### Modern Assessment
 
 Home of the Underdogs called the collection "a mixed bag." It judged that Snakes and Ladders and Checkers "are downright boring, while backgammon and pachisi are a lot of fun," and found the character chatter less frequent and less funny than in the first volume[^ref-38].
@@ -93,11 +95,11 @@ Compute! described Volume 3 as Sierra returning "once again to the tried-and-tru
 
 ### Production
 
-Sources disagree on who designed the game. MobyGames credits Marti McKenna and Bridget McKenna as game designers, Bridget McKenna for writing, and [[Warren Schwader]] as lead programmer[^ref-32]. The Sierra Wiki also names both McKennas as designers[^ref-39], and Home of the Underdogs names Bridget McKenna[^ref-38]. Wikipedia, however, says Schwader "continued as the Lead Programmer and Game Designer for the next two games in the series" after Volume 1[^ref-4]. The game's instruction booklet lists Bridget McKenna as manual writer[^ref-28].
+Sources disagree on who designed the game. MobyGames credits Marti McKenna and Bridget McKenna as game designers, Bridget McKenna for writing, and [[Warren Schwader]] as lead programmer[^ref-32]. The Sierra Wiki also names both McKennas as designers[^ref-39], and Home of the Underdogs names Bridget McKenna[^ref-38]. Wikipedia, however, says Schwader "continued as the Lead Programmer and Game Designer for the next two games in the series" after Volume 1[^ref-4]. The instruction booklet settles it for this volume: its inside-front-cover credits list "Game Designers: Marti McKenna, Bridget McKenna" and "Lead Programmer: Warren Schwader", and a later credits page names Bridget McKenna as manual writer[^ref-28].
 
 **Development Credits:**
-- **Game Designers:** Marti McKenna, Bridget McKenna (MobyGames)[^ref-32]
-- **Lead Programmer:** Warren Schwader (MobyGames)[^ref-32]
+- **Game Designers:** Marti McKenna, Bridget McKenna (MobyGames; the booklet's inside-front-cover credits also list both as "Game Designers")[^ref-32][^ref-28]
+- **Lead Programmer:** Warren Schwader (MobyGames and the booklet's inside-front-cover credits)[^ref-32][^ref-28]
 - **Director / Producer:** [[Stuart Moulder]][^ref-32]
 - **Executive Producer:** Ken Williams[^ref-32]
 - **Creative Director:** Bill Davis[^ref-32]
@@ -105,7 +107,7 @@ Sources disagree on who designed the game. MobyGames credits Marti McKenna and B
 - **Animators:** Nathan Larsen, Marc Hudgins, Terrance Falls, Michael Hutchinson, Richard Powell[^ref-28]
 - **Background Artists:** Jay Friedmann, Maurice Morgan[^ref-28]
 - **Music / Sound Programming:** [[Mark Seibert]]. MobyGames lists him under "Music / Sound Programming"; the instruction booklet credits him as "Music Director"[^ref-42][^ref-28]
-- **Composer / Sound:** Robert Atesalp. MobyGames credits him as composer; the booklet credits "Sound Effects: Rob Atesalp"[^ref-32][^ref-28]
+- **Composer / Sound:** Robert Atesalp. MobyGames credits him as composer; the booklet's inside front cover lists "Composer: Rob Atesalp", and its later credits page "Sound Effects: Rob Atesalp"[^ref-32][^ref-28]
 - **Quality Assurance:** Dan Woolard[^ref-28]
 
 ### Technical Achievements
@@ -141,6 +143,7 @@ Compute! noted reported voice bugs, including mouse conflicts and clipped phrase
 
 ### Easter Eggs and Trivia
 
+- Sierra's InterAction (Spring 1992) ran a "Strategy and Tactics" column on the game in which Sierra characters such as King Graham and Rosella give Checkers advice. Its writer described being beaten at Checkers by "that holographic arch-villain Vohaul"[^ref-43]
 - Compute! enjoyed the cross-franchise matchups: "You can now pit your Pachisi prowess against Passionate Patty" and "overhaul Vohaul's Yacht"[^ref-29]
 - The Sheriff of Nottingham may refer to himself as the "Great Nottingham"[^ref-4]
 - In Snakes and Ladders, the Sierra characters are replaced by "game child" pieces[^ref-28]
@@ -150,7 +153,7 @@ Compute! noted reported voice bugs, including mouse conflicts and clipped phrase
 
 ### Sales and Commercial Impact
 
-No sales figures for Volume 3 specifically have been found. Sierra bundled it with *Conquests of the Longbow* and *Gobliiins* in its *Family Fun Pack* compilation[^ref-40]. Compute! noted that players who wanted to face human opponents by modem could play Hoyle's 3 through The Sierra Network, Sierra's new online service[^ref-29].
+No sales figures for Volume 3 specifically have been found. Sierra bundled it with *Conquests of the Longbow* and *Gobliiins* in its *Family Fun Pack* compilation, which MobyGames says also included the Windows 3.x screen saver *Screen Antics: Johnny Castaway*[^ref-40]. Sierra's own InterAction magazine (Summer 1992) listed Hoyle 3 among five CD-ROM titles Sierra had scheduled for the following year; that was a plan, and this page has not verified a CD release[^ref-44]. Compute! noted that players who wanted to face human opponents by modem could play Hoyle's 3 through The Sierra Network, Sierra's online service[^ref-29].
 
 ### Collections
 
@@ -259,3 +262,5 @@ Volume 3 has had little critical attention, but contemporary and later reviewers
 [^ref-40]: [MobyGames – Family Fun Pack (1992)](https://www.mobygames.com/game/21229/family-fun-pack/) – compilation with Conquests of the Longbow and Gobliiins
 [^ref-41]: [GOG Dreamlist – Hoyle Official Book of Games: Volume 3](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-3-1991) – community re-release request page
 [^ref-42]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Hoyle: Official Book of Games - Volume 3 (1991) ( Music / Sound Programming )"
+[^ref-43]: [InterAction Vol. 5 No. 1 (Spring 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_1_Spring_1992_1992_Sierra_On-Line_US) – Sierra's own magazine: "Strategy and Tactics" column on Hoyle III (contents list p. 35) and New Games blurb
+[^ref-44]: [InterAction Vol. 5 No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – Sierra's own magazine: SPA award nominations (five, incl. Hoyle Vol. 3; category not given) and CD titles scheduled for the next year, incl. Hoyle 3
