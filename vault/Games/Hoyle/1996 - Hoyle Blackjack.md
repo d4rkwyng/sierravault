@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
   and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
   and Casino modes, and Internet play via the Sierra Internet Gaming System.
@@ -18,15 +18,15 @@ tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Hoyle Blackjack is a blackjack simulation developed and published by Sierra On-Line for Windows on CD-ROM[^ref-6][^ref-21][^ref-22]. It was first released in the United States on 30 June 1996[^ref-31][^ref-33]. It was part of Sierra's licensed Hoyle line of card and casino games[^ref-6].
+Hoyle Blackjack is a blackjack simulation developed and published by Sierra On-Line for Windows on CD-ROM[^ref-6][^ref-21][^ref-22]. It was first released in the United States on 30 June 1996[^ref-31][^ref-33]. It was part of Sierra's licensed Hoyle line of card and casino games[^ref-6]. Sierra's own magazine InterAction had announced it in Spring 1996, listing it as "Due out late this spring"[^ref-34].
 
 The box tagline promised "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!", and the blurb offered "three modes of game play to instruct and challenge you"[^ref-7]. GameSpot's Tal Blevins called it "a full-featured blackjack simulation that captures many of the elements of gambling in a real casino"[^ref-4]. He opened his review by placing the Hoyle series as entertainment for players "who enjoy something a little less violent than the slew of enormously popular gorefest games available today for the PC"[^ref-4].
 
-The game sold for $14.95[^ref-27]. Players could face the dealer alone or share the table with up to three animated, talking computer opponents[^ref-7][^ref-27]. Up to three other human players could join over the Internet through the Sierra Internet Gaming System on Windows 95[^ref-4][^ref-7].
+The game sold for $14.95; Sierra's own Summer 1996 InterAction advertisement and PC Games (October 1996) both list that price[^ref-27][^ref-35][^ref-38]. Players could face the dealer alone or share the table with up to three animated, talking computer opponents[^ref-7][^ref-27]. Up to three other human players could join over the Internet through the Sierra Internet Gaming System on Windows 95[^ref-4][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -79,7 +79,7 @@ An attitude adjuster for the dealer (World Village's "attitude meter") changes t
 
 ### Multiplayer
 
-GameSpot notes that "with the Windows 95 network option", up to three other human players could join "via the Sierra Internet Gaming System"[^ref-4]. World Village describes clicking the Network Game option and logging on to "Sierra's WWW blackjack page"[^ref-27]. The credits list a separate Internet Development Team (SIGS)[^ref-24]. The game was later included in Sierra's On-Line Games Collection Series (1997)[^ref-6][^ref-33].
+Internet play required a patch: InterAction's Summer 1996 issue told owners to download the Hoyle Blackjack patch from the SierraWeb, after which "you'll be able to log on to the Sierra Web to play against other Hoyle owners in cyberspace"[^ref-35]. GameSpot notes that "with the Windows 95 network option", up to three other human players could join "via the Sierra Internet Gaming System"[^ref-4]. World Village describes clicking the Network Game option and logging on to "Sierra's WWW blackjack page"[^ref-27]. The credits list a separate Internet Development Team (SIGS)[^ref-24]. The game was later included in Sierra's On-Line Games Collection Series (1997)[^ref-6][^ref-33].
 
 ## Reception
 
@@ -89,6 +89,8 @@ GameSpot notes that "with the Windows 95 network option", up to three other huma
 |-------------|-------|-------|
 | GameSpot (Tal Blevins, 1 Aug 1996) | 7.8/10 | "Sierra has once again released an addictive, economical card game"[^ref-4] |
 | World Village – Gamer's Zone (Robert Coffey) | 4/5 | "All this for just $15? It's a real bargain."[^ref-25][^ref-27] |
+| PC Games (Barry Brenesal, Oct 1996) | Grade C (as listed by Videogame Advisor) | "a decent value-priced blackjack simulation devoid of excitement"[^ref-38][^ref-40] |
+| Game Informer (#41, Sep 1996) | 6.25 (no scale stated) | "Blackjack with lots of options. The animated players are obnoxious."[^ref-39] |
 | Game Revolution | 75/100 | Joint review of two Hoyle games ("offering two well-planned games"), as listed on MobyGames[^ref-25] |
 | MobyGames critic average | 78% | Based on 3 ratings[^ref-25] |
 
@@ -97,6 +99,8 @@ GameSpot notes that "with the Windows 95 network option", up to three other huma
 Blevins praised the extras. He wrote that the table "is textured so realistically you nearly feel the felt under your mouse", and that the dealer and the other characters comment on your play[^ref-4]. He concluded: "If you're searching for a blackjack simulation that won't break the bank, Hoyle Blackjack is the finest you'll find"[^ref-4].
 
 Robert Coffey of World Village called it "a new addictive time-waster on the hard drive". He noted that the game could be installed fully to the hard drive, but that "all the smart-alecky audio files are played off the CD"[^ref-27]. He summed it up: "Hoyle Blackjack provides simple, addictive fun, pleasant Internet socializing, and, through its charts and tips, a very real chance of improving your blackjack play as well"[^ref-27].
+
+Not every contemporary reviewer was as warm. Barry Brenesal of PC Games found the Internet option the game's high point, but said the Tutorial Mode "isn't a teaching tutorial at all, but very brief directions on what to do at any given moment". He added that there was "no printed documentation with the game", and that the animated players, advertised as "interactive characters", were not: each one "speaks a few individualized comments" depending on the hand[^ref-38]. Game Informer's capsule, in the same period, was similarly lukewarm: "Nothing too remarkable"[^ref-39].
 
 ## Development
 
@@ -114,7 +118,9 @@ Hoyle Blackjack was produced in-house at Sierra On-Line[^ref-6]. MobyGames credi
 - **Sound Effects & Editing:** James Ackley, Keith Bowers, Kevin Cannon
 - **Voice Actors:** Pat Cashman, Rodney Sherwood, Kate Myre, Natacha LaFerrière, James Parker
 
-The voices were recorded at Clatter & Din Studios[^ref-24]. The Internet play layer was built by a separate SIGS team[^ref-24].
+The voices were recorded at Clatter & Din[^ref-24]. Internet play ran on Sierra's Internet Gaming System (SIGS)[^ref-4][^ref-24]. In InterAction's Holiday 1996 profile of the Hoyle team, producer Steve Van Horn said Blackjack, Poker and Casino "all have Internet play capabilities"[^ref-37].
+
+Sierra's own magazine, InterAction (Holiday 1996), names Van Horn as the producer who led the team that made Hoyle Solitaire and Hoyle Blackjack, Earl Malmrose as lead programmer, and the artists Rabih AbouJaoudé (lead artist) and Heather Ivy, who sketched the table characters; it credits the comedian Rodney Sherwood as the source of the characters' attitude[^ref-37]. InterAction's Fall 1996 issue says the animated characters from Hoyle Blackjack were reused in Hoyle Casino[^ref-36]. It also reports that beta testers played a Sierra Blackjack tournament over the Net in June[^ref-36].
 
 The CD also carried the "Larry Pops Up" mini program, in which Larry appears after a period of inactivity and says a funny line. It also included a Hoyle 5: Classic Games trailer and demos of Indy Car Racing 2 and The Lost Mind of Dr. Brain[^ref-28].
 
@@ -218,7 +224,7 @@ A community upload of the 1996 game (an installer archive) is held at the Intern
 [^ref-19]: [GameSpot – Sierra reorganizes its operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - Dynamix closure; Hoyle moved to Bellevue Studio (page carries a 2006 date stamp)
 [^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listing (PC Windows), publisher Sierra On-Line
 [^ref-22]: [LaunchBox Games Database – Hoyle Blackjack](https://gamesdb.launchbox-app.com/games/details/430427-hoyle-blackjack) — 1996, Windows, Sierra On-Line developer and publisher
-[^ref-24]: [MobyGames – Hoyle Blackjack credits (Windows)](https://www.mobygames.com/game/45133/hoyle-blackjack/credits/windows/) - 37 people; voices recorded at Clatter & Din Studios; SIGS team
+[^ref-24]: [MobyGames – Hoyle Blackjack credits (Windows)](https://www.mobygames.com/game/45133/hoyle-blackjack/credits/windows/) - 37 people; voices recorded at Clatter & Din; SIGS team
 [^ref-25]: [MobyGames – Hoyle Blackjack reviews](https://www.mobygames.com/game/45133/hoyle-blackjack/reviews/windows/) - Critic average 78% from 3 ratings: GameSpot, World Village, Game Revolution ([archived MobyRank, 2013](http://web.archive.org/web/20130927141005/http://www.mobygames.com/game/windows/hoyle-blackjack/mobyrank))
 [^ref-26]: [MobyGames – Hoyle Blackjack specs](https://www.mobygames.com/game/45133/hoyle-blackjack/specs/) - Intel i486, Windows 95, 4 MB RAM, CD-ROM
 [^ref-27]: [World Village Gamer's Zone – Aces High! A Review of Hoyle Blackjack (Wayback, 2010 capture)](http://web.archive.org/web/20100430011546/http://worldvillage.com:80/hoyle-blackjack) - Robert Coffey review; $14.95 price; system requirements scorecard
@@ -228,3 +234,10 @@ A community upload of the 1996 game (an installer archive) is held at the Intern
 [^ref-31]: [GameFAQs – Hoyle Blackjack release data](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack/data) - US release 06/30/96, Sierra On-Line, rated K-A
 [^ref-32]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) - "The Dynamix studio was closed by Sierra On-Line on August 14, 2001"
 [^ref-33]: [Sierra Chest – Hoyle BlackJack](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=general) - First release 1996-06-30; engine unknown/unnamed; included in On-Line Games Collection Series
+[^ref-34]: [InterAction Magazine – Spring 1996](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) - Sierra On-Line's own magazine: "Due out late this spring: Hoyle Blackjack"; characters with adjustable attitude, on-line tutorial, Internet network play
+[^ref-35]: [InterAction Magazine – Summer 1996](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) - Sierra On-Line's own magazine: Hoyle Blackjack article and ad ($14.95, Win 95 CD / Win 3.1 CD); SierraWeb patch for Internet play
+[^ref-36]: [InterAction Magazine – Fall 1996](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) - Sierra On-Line's own magazine: June beta Blackjack tournament; Blackjack characters also appear in Hoyle Casino
+[^ref-37]: [InterAction Magazine – Holiday 1996](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) - Sierra On-Line's own magazine: Hoyle team profile (Van Horn, Malmrose, AbouJaoudé, Ivy, Sherwood); Internet play capabilities
+[^ref-38]: [PC Games – October 1996 (Vol. 3 No. 10)](https://archive.org/details/pc-games-vol.-3-no.-10-october-1996) - Barry Brenesal's Hoyle Blackjack review; Tutorial Mode, no printed documentation; list price $14.95
+[^ref-39]: [Game Informer – Issue 41 (September 1996)](https://archive.org/details/Game_Informer_Issue_041_September_1996) - PC capsule: "Hoyle Blackjack - Sierra 6.25"; no scale stated
+[^ref-40]: [Videogame Advisor – October 1996](https://archive.org/details/videogame-advisor-october-1996) - Review-grade table lists Hoyle Blackjack, PC Games, October, C
