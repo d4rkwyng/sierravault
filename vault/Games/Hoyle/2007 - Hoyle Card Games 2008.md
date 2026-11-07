@@ -10,18 +10,18 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-07'
 description: Encore Software's 2007 Hoyle collection of 150+ card and solitaire games,
   released on a combined Windows/Mac OS X DVD.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
-Hoyle Card Games 2008 is a collection of more than 150 card and solitaire games published by Encore Software[^ref-2][^ref-4]. It shipped on a combined PC/Mac DVD, and an October 2007 Inside Mac Games forum post greeted it as the first Hoyle release with Mac OS X compatibility, noting that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002[^ref-1]. Encore's own product page billed Hoyle as "the authority for over 200 years"[^ref-22]. GameSpot's page for the game, captured in October 2007, gives a release date of October 1, 2007 and listed it among that week's new releases[^ref-23]; Metacritic, GameFAQs, RAWG and Giant Bomb give the same date[^ref-4][^ref-5][^ref-7][^ref-21], while IGN alone lists September 11, 2007[^ref-15]. GameFAQs' release data records a European release by Greenstreet Games dated 04/07/08 (7 April 2008)[^ref-26]. In March 2008 Macgamestore.com and Encore released the Mac version as a download, noting it had previously been sold boxed only[^ref-24][^ref-25]. Amazon UK later carried a jewel-case edition with a listed release date of 26 January 2009[^ref-6].
+Hoyle Card Games 2008 is a collection of more than 150 card and solitaire games published by Encore Software[^ref-2][^ref-4]. It shipped on a combined PC/Mac DVD, and an October 2007 Inside Mac Games forum post greeted it as the first Hoyle release with Mac OS X compatibility, noting that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002[^ref-1]. Encore's own product page billed Hoyle as "the authority for over 200 years"[^ref-22]. GameSpot's page for the game, captured in October 2007, gives a release date of October 1, 2007 and listed it among that week's new releases[^ref-23]; Metacritic, GameFAQs, RAWG and Giant Bomb give the same date[^ref-4][^ref-5][^ref-7][^ref-21], while IGN alone lists September 11, 2007[^ref-15]. GameFAQs' release data records a European release by Greenstreet Games dated 04/07/08, a date format the listing does not specify[^ref-26]. In March 2008 Macgamestore.com and Encore released the Mac version as a download, noting it had previously been sold boxed only[^ref-24][^ref-25]. Amazon UK later carried a jewel-case edition with a listed release date of 26 January 2009[^ref-6].
 
 The collection includes more than 75 card games, among them Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle and Rummy 500[^ref-2][^ref-3]. It also includes 55 solitaire games as a bonus, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. Online Texas Hold'em was among the advertised features[^ref-3][^ref-14][^ref-22].
 
@@ -143,7 +143,7 @@ No documented cut content has been identified in available sources.
 | (IGN listing) | September 11, 2007 | PC | Date given by IGN only; not corroborated[^ref-15] |
 | Australian release? (inferred) | Reviewed February 2008 | PC/Mac | Inferred only from Impulse Gamer's review header, which credits Mindscape with a PG classification; region not stated[^ref-9] |
 | Mac Digital Release | March 25, 2008 | Mac | Download via Macgamestore.com, US$19.95[^ref-24][^ref-25] |
-| EU Release | April 7, 2008 | PC | Greenstreet Games (GameFAQs: 04/07/08)[^ref-26] |
+| EU Release | Listed as 04/07/08 (format unspecified) | PC | Greenstreet Games, per GameFAQs[^ref-26] |
 | Digital Release | May 7, 2008 | PC | WildTangent[^ref-14] |
 | Jewel Case | January 26, 2009 | PC | Amazon UK listing date[^ref-6] |
 
@@ -157,7 +157,7 @@ Users have reported a few technical issues:
 
 ### Easter Eggs and Trivia
 
-- **Hoyle Brand Heritage:** The packaging billed Hoyle as "the authority for more than 200 years"; the series is named after 18th-century card expert Edmond Hoyle[^ref-2][^ref-11]
+- **Hoyle Brand Heritage:** Encore's product page billed Hoyle as "the authority for over 200 years"[^ref-22]; the series is named after 18th-century card expert Edmond Hoyle[^ref-11]
 - **Mac Registration:** The registration key for Mac installation is printed on the back cover of the manual[^ref-1]
 - **First DVD Release:** The feature list quoted by Impulse Gamer advertises the game as "on DVD for the first time"[^ref-9]
 
@@ -190,7 +190,7 @@ No significant fan projects, mods, or remakes have been documented for Hoyle Car
 
 The original Hoyle's Official Book of Games: Volume 1 let players compete against Sierra characters such as Larry Laffer and Princess Rosella[^ref-11]. Hoyle Card Games 2008 instead uses its own cast of computer opponents, which Impulse Gamer described as ranging "from aliens to bears and of course... humans"[^ref-9]. Impulse Gamer praised the sheer quantity of content available[^ref-9], while a later Amazon reviewer called the graphics "20 years old"[^ref-6].
 
-The collection bundles official rules, tips and strategies with its games[^ref-14][^ref-22], and its Mac OS X support came five years after the last Mac OS 9-compatible Hoyle releases of 2002[^ref-1]. It continued a series that had begun almost two decades earlier with [[Warren Schwader]]'s original pitch to Ken Williams[^ref-11].
+The collection bundles official rules, tips and strategies with its games[^ref-14][^ref-22], and, according to a forum poster on Inside Mac Games, it was the first Hoyle release with Mac OS X support, the last Mac OS 9-compatible ones having come from Sierra in 2002[^ref-1]. It continued a series that had begun almost two decades earlier with [[Warren Schwader]]'s original pitch to Ken Williams[^ref-11].
 
 ## Purchase
 
@@ -207,7 +207,7 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 ## See Also
 
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008|→ Next: Hoyle Casino 2008]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
