@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-last_updated: "2026-10-26"
+last_updated: "2026-11-07"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -8,7 +8,7 @@ Pull up a pixelated barstool and mind the slime on the floor—this vault is the
 
 From the parser-driven adventures of the 1980s through the multimedia extravaganzas of the 1990s, this archive documents Sierra's complete legacy—flagship series, hidden gems, acquired studios like Dynamix and Impressions, fan remakes, and spiritual successors from Sierra alumni still making games today.
 
-> **492 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **median 22 citations per game page**
+> **492 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **median 24 citations per game page**
 
 ## Quick Links
 
@@ -123,7 +123,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 ## About This Archive
 
-Every page follows a consistent structure—overview, story, gameplay, development, reception, legacy, and references—so you always know where to look. Game pages carry a **median of 21 citations** (most have 15 or more) from MobyGames, Wikipedia, fan wikis, magazine scans, interviews, and contemporary reviews.
+Every page follows a consistent structure—overview, story, gameplay, development, reception, legacy, and references—so you always know where to look. Game pages carry a **median of 24 citations** (most have 15 or more) from MobyGames, Wikipedia, fan wikis, magazine scans, interviews, and contemporary reviews.
 
 > [!tip] Where This Came From
 > SierraVault grew out of **Sierra Classic Gaming**, my first Sierra fan site back in 2013. You can still see its animated [[splash|splash screen]], and the original site is preserved at **[old.sierraclassicgaming.com](https://old.sierraclassicgaming.com)**.
