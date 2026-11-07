@@ -10,18 +10,17 @@ series: Standalone
 engine: Custom (assembly language)
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
-description: '**Sammy Lightfoot** is a multi-level platform game—or "climbing game,"
-  as the genre was called in the United States in 1983—developed and published by...'
+last_updated: '2026-11-06'
+description: 'Sammy Lightfoot is a 1983 multi-level platform game, called a "climbing game" in the United States at the time, written by Warren Schwader and published by Sierra On-Line.'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
-**Sammy Lightfoot** is a multi-level platform game—or "climbing game," as the genre was called in the United States in 1983—developed and published by Sierra On-Line.[^ref-3] Written by [[Warren Schwader]] for the Apple II, it is a game in the vein of *Donkey Kong* that follows a circus worker who jumps and climbs through perilous situations in three non-scrolling levels.[^ref-3] *The Commodore 64 Home Companion* (1984) wrote that it "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone."[^ref-21]
+**Sammy Lightfoot** is a multi-level platform game—or "climbing game," as the genre was called in the United States in 1983[^ref-28]—developed and published by Sierra On-Line.[^ref-3] Written by [[Warren Schwader]] for the Apple II, it is a game in the vein of *Donkey Kong* that follows a circus worker who jumps and climbs through perilous situations in three non-scrolling levels.[^ref-3] *The Commodore 64 Home Companion* (1984) wrote that it "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone."[^ref-21]
 
 Sierra released the game under its short-lived SierraVision label, which it created for its arcade and cartridge-based games.[^ref-12] The game was ported to the Commodore 64 (converted by Dean Creehan), the ColecoVision, and the Japanese PC-88 and FM-7 computers.[^ref-4][^ref-5] Its star is an acrobat with an exceptionally large pompadour hairdo, which spins around when he dies.[^ref-12][^ref-9]
 
@@ -50,9 +49,11 @@ HonestGamers reviewer aschultz describes Sammy as a "tubby orange-haired fellow"
 
 ### Interface and Controls
 
-Sammy Lightfoot uses a side-view perspective with fixed, flip-screen presentation.[^ref-4] On the Commodore 64 the player uses a joystick in port 1. Sammy moves left and right, and the button makes him jump, hang on to ropes or start the elevators.[^ref-7][^ref-6] The ColecoVision version uses the controller's left side button for the same actions and its keypad to restart, change options or pause.[^ref-22][^ref-7] Sammy makes "squip noises" when he walks and "boingy noises" when he jumps.[^ref-9]
+Sammy Lightfoot uses a side-view perspective with fixed, flip-screen presentation.[^ref-4] On the Commodore 64 the player uses a joystick in port 1. Sammy moves left and right, and the button makes him jump, hang on to ropes or start the elevators.[^ref-7][^ref-6][^ref-25] The ColecoVision version uses the controller's left side button for the same actions and its keypad to restart, change options or pause.[^ref-22][^ref-7] Sammy makes "squip noises" when he walks and "boingy noises" when he jumps.[^ref-9]
 
-On the Commodore 64 an options screen sets one or two players taking turns, the starting level for each player, and whether sounds and scene tunes play.[^ref-7] The ColecoVision version has a similar options screen.[^ref-11] Sierra Chest notes that the Apple II release "appears to only have single player and no options screen". MobyGames, however, lists one or two players for the Apple II and carries an Apple II screenshot captioned "Options" (with a number-of-players setting), and Retro365 describes one- or two-player hot-seat play, so the sources disagree.[^ref-7][^ref-4][^ref-12]
+On the Commodore 64 an options screen sets one or two players taking turns, the starting level for each player, and whether sounds and scene tunes play.[^ref-7][^ref-25] The ColecoVision version has a similar options screen.[^ref-11]
+
+On the Apple II, the manual says to press Ctrl-O after the title pages to reach an options page. There the player sets the number of players, the controller for each player (joystick, paddle 0, paddle 1 or keyboard), sound effects, scene-start tunes, the starting level (0 to 6) for each player, and whether to save the options. The manual states that the game "can be played by one or two players."[^ref-24] This agrees with MobyGames, which lists one or two players for the Apple II and carries an Apple II screenshot captioned "Options", and with Retro365's description of one- or two-player hot-seat play.[^ref-4][^ref-12] Sierra Chest's note that the Apple II release "appears to only have single player and no options screen" is contradicted by the manual.[^ref-7][^ref-24]
 
 ### Structure and Progression
 
@@ -62,7 +63,7 @@ The game consists of three scenes, each filling one screen with no scrolling:[^r
 - **Scene 2:** Sammy crosses four platforms that vanish and reappear in a pattern, jumps back over platforms that move up and down, rides elevators, and finally steers a flying carpet to the last platform.[^ref-7][^ref-8]
 - **Scene 3:** Sammy runs past bouncing balls, dodges beams that move up and down from the ceiling, and swings from rope to rope over fire to reach the pumpkin's platform.[^ref-7][^ref-8]
 
-Each player has four lives, and no extra lives can be earned.[^ref-7] After all three scenes are complete, the game starts again at scene 1 one difficulty level higher.[^ref-7][^ref-8] Sierra Chest counts 8 levels (0–7) on the Commodore 64, where level 7 repeats indefinitely. It counts 12 levels (0–11) on the Apple II, which returns to level 6 after level 11.[^ref-7] Retro365, by contrast, says that completing the three stages on the highest difficulty level (6) wins the game. The two sources do not agree.[^ref-12]
+Each player has four lives, and no extra lives can be earned.[^ref-7][^ref-24] After all three scenes are complete, the game starts again at scene 1 one difficulty level higher.[^ref-7][^ref-8] The Apple II manual says there are 12 difficulty levels for each of the three scenarios, and *Creative Computing* likewise describes "twelve levels of difficulty."[^ref-24][^ref-23] Sierra Chest counts 12 levels (0–11) on the Apple II, which returns to level 6 after level 11, and 8 levels (0–7) on the Commodore 64, where level 7 repeats indefinitely.[^ref-7] Retro365 says that completing the three stages on the highest difficulty level (6) wins the game.[^ref-12] The manual's starting-level option runs from 0 to 6, which matches the "(6)" in Retro365's account.[^ref-24]
 
 Scoring is time-based. Each scene starts a bonus timer at 9,990 points, which counts down at about 100 points per second, and whatever remains is added to the score when the scene is finished.[^ref-7] The game keeps a top-ten high-score list.[^ref-7][^ref-9]
 
@@ -75,6 +76,8 @@ C64-Wiki says the controls must be "pixel exact" and that the enemies and obstac
 ### Contemporary Reviews
 
 According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release". It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average.[^ref-4]
+
+A period review was warmer. *Creative Computing*'s November 1983 software profile, signed "SW", gave the Apple II game the summary "Outstanding action" and concluded: "Of all action games released this year for the Apple II, it is undoubtedly one of the best."[^ref-23] *Softalk*'s July 1983 software listing described the premise as Sammy dodging "a variety of obstacles as he tries out for the circus", adding that "He evidently used to be a miner."[^ref-26]
 
 ### Modern Assessment
 
@@ -108,6 +111,7 @@ There was no assembler for the C64 at the time, so the source was written in a p
 **Development Credits:**[^ref-4][^ref-5][^ref-6]
 - **Designer/Programmer:** Warren Schwader
 - **Commodore 64 Conversion:** Dean Creehan
+- **Hairdresser and Sound Coordinator:** Courtney Smith (credited in the Apple II manual as "Sammy's hairdresser and sound coordinator")[^ref-24]
 - **Box Art:** Scott Comstock
 - **Publisher:** Sierra On-Line, Inc.
 - **Japanese Publisher:** Comptiq (PC-88, FM-7)
@@ -121,14 +125,16 @@ C64-Wiki describes the Commodore 64 version's graphics as "very low resolution" 
 ### Technical Specifications
 
 **Apple II Version:**
-- **Players:** Sources conflict. Sierra Chest says single player only; MobyGames lists 1–2 and shows an Apple II options screen.[^ref-7][^ref-4]
-- **Difficulty Levels:** 12 (0–11)[^ref-7]
+- **Players:** 1–2 (the manual: "can be played by one or two players")[^ref-24][^ref-4]
+- **Controls:** Keyboard, joystick, or paddle[^ref-24]
+- **Difficulty Levels:** 12 (0–11); starting-level option 0–6[^ref-24][^ref-7]
+- **Price:** $29.95 in *Softalk*'s July 1983 listing; $38.00 in *Creative Computing*'s November 1983 profile[^ref-26][^ref-23]
 
 **Commodore 64 Version:**
-- **Media:** Diskette and ROM cartridge[^ref-7][^ref-12]
+- **Media:** Diskette and ROM cartridge[^ref-7][^ref-12][^ref-25]
 - **Players:** 1–2 (alternating)[^ref-7]
 - **Difficulty Levels:** 8 (0–7)[^ref-7]
-- **Controls:** Joystick (port 1)[^ref-7]
+- **Controls:** Joystick (port 1)[^ref-7][^ref-25]
 
 **ColecoVision Version:**
 - **ROM Size:** 16 KB[^ref-11]
@@ -159,7 +165,7 @@ The game was also released in Main Street Publishing's **Familiar Favorites IV**
 - **Hair:** Sammy's orange hair spins around when he dies, which the GameFAQs walkthrough calls "the coolest part of the game".[^ref-9][^ref-10]
 - **Sound Effects:** Sammy makes "squip noises" when walking and "boingy noises" when jumping.[^ref-9]
 - **Victory Celebration:** Sammy performs "amusing little penguin-style victory dances" on completing a scene.[^ref-9]
-- **The Pumpkin:** The grinning goal-guardian is, per the manual, a "man-eating pumpkin". It reminded HonestGamers' reviewer of the "evil orange smiley" from *Russki Duck*.[^ref-7][^ref-9]
+- **The Pumpkin:** The grinning goal-guardian is, per the manual, a "man-eating pumpkin". It reminded HonestGamers' reviewer of the "evil orange smiley" from *Russki Duck*.[^ref-7][^ref-25][^ref-9]
 - **Music:** The Commodore 64 tunes include "Entry of the Gladiators" (Julius Fučík), "The Stars and Stripes Forever" (John Philip Sousa) and "National Emblem" (Edwin Eugene Bagley), per the HVSC STIL notes on Lemon64.[^ref-6]
 - **Japanese Title:** サミー・ライトフット (Samī Raitofutto).[^ref-13]
 
@@ -167,7 +173,7 @@ The game was also released in Main Street Publishing's **Familiar Favorites IV**
 
 ### Sales and Commercial Impact
 
-No sales figures for Sammy Lightfoot have been found. Schwader recalled living for about a year after it on his savings from *Threshold* and *Sammy Lightfoot* while he tried to write his next Apple game, until the money ran out in February 1985.[^ref-20] He returned to Sierra after meeting Ken Williams in March 1988.[^ref-20][^ref-12]
+No sales figures for Sammy Lightfoot have been found. *Softalk*'s August 1984 bestseller column reported that, in its Arcade 10 category, *Hard Hat Mack* "clung to ninth, followed by two other newcomers to the list: Dino Eggs and Sammy Lightfoot"; the text gives no rank for the game.[^ref-27] Schwader recalled living for about a year after it on his savings from *Threshold* and *Sammy Lightfoot* while he tried to write his next Apple game, until the money ran out in February 1985.[^ref-20] He returned to Sierra after meeting Ken Williams in March 1988.[^ref-20][^ref-12]
 
 IGN's database lists FOG Studios and SierraVision among the game's publishers.[^ref-17]
 
@@ -198,6 +204,7 @@ Andrew Schultz (aschultz) wrote a GameFAQs walkthrough (version 1.0.0, April 15,
 
 **Manuals & Extras**
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
+- [Commodore 64 Manual (Archive.org)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_Online)
 - [ColecoVision Manual (Archive.org)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line)
 
 ## See Also
@@ -242,3 +249,9 @@ Andrew Schultz (aschultz) wrote a GameFAQs walkthrough (version 1.0.0, April 15,
 [^ref-20]: [Halcyon Days – Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – page flipping, priority scheme, Sammy's Icehouse, later career; the interviewer's question calls it his "last published Apple II game"
 [^ref-21]: [The Commodore 64 Home Companion (George Beekman, DATAMOST, 1984)](https://archive.org/details/The_Commodore_64_Home_Companion) – period book scan, p. 174: "one-or-two-player game captures the cartoon spirit and graphic style of Donkey Kong"
 [^ref-22]: [Internet Archive – Sammy Lightfoot ColecoVision manual (SierraVision)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line) – period manual scan: promotional text, "death-defying daredevil", left side button, keypad restart/options/pause
+[^ref-23]: [Creative Computing, November 1983](https://archive.org/details/Creative_Computing_1983-11) – Apple Games software profile of Sammy Lightfoot (reviewer initials "SW"): "Outstanding action", twelve levels of difficulty, $38.00, "undoubtedly one of the best"
+[^ref-24]: [Internet Archive – Sammy Lightfoot Apple II manual](https://archive.org/details/A2_Sammy_Lightfoot_manual) – period manual scan: one or two players, Ctrl-O options page, starting level 0–6, 12 difficulty levels per scenario, four men per game, Courtney Smith credit
+[^ref-25]: [Internet Archive – Sammy Lightfoot Commodore 64 ROM/Disk manual](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_Online) – period manual scan: joystick in port 1, button to jump/hang on ropes/start the elevator, options page via joystick button, "man-eating pumpkin"
+[^ref-26]: [Softalk, July 1983](https://archive.org/details/softalkv3n11jul1983) – software listing: "He evidently used to be a miner", $29.95
+[^ref-27]: [Softalk, August 1984](https://archive.org/details/softalkv4n12aug1984) – Bestsellers column: Dino Eggs and Sammy Lightfoot named as newcomers to the Arcade 10
+[^ref-28]: [Electronic Games, January 1983](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – "The Player's Guide to Climbing Games" special section; period use of "climbing game" as a genre term (the issue predates Sammy Lightfoot and does not mention it)
