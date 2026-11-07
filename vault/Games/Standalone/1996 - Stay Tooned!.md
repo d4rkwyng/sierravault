@@ -10,19 +10,19 @@ series: Standalone
 engine: Macromedia Director
 protagonist: The Player
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-07'
 description: Stay Tooned! is a 1996 cartoon adventure developed by Funnybone Interactive and published by Sierra On-Line for Windows and Macintosh, in which escaped toons steal the player's TV remote and overrun an apartment building.
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
 Stay Tooned! is a 1996 point-and-click cartoon adventure game developed by Funnybone Interactive and published by Sierra On-Line on a single CD-ROM for Windows 95, Windows 3.1 and Macintosh[^ref-16][^ref-21][^ref-3][^ref-12]. The box cover subtitles it "Unsweetened Multi-Game Experience!"[^ref-21][^ref-2]. Cartoon characters escape from the player's television, steal the remote control and turn the player's apartment building into a cartoon playground; the player must find the remote and zap the toons back into TV land[^ref-16][^ref-21].
 
-Sierra's launch press release promised "over 30 zany games" built into the adventure, and the building has 20 apartments plus a roof and a basement[^ref-16][^ref-13]. Rooms and games are shuffled between playthroughs, which reviewers in 1996 and later noted added to its replay value[^ref-16][^ref-17][^ref-13]. The box included clear-cellophane "ToonVision" 3-D glasses with ChromaDepth lenses for a handful of 3-D games[^ref-16][^ref-21].
+Sierra's launch press release promised "over 30 zany games" built into the adventure, and the building has 20 apartments plus a roof and a basement[^ref-16][^ref-13]. PC Magazine's December 17, 1996 holiday gift guide likewise described "over 30 games," five of them in 3-D, across "over 50 intriguing environments," for $40[^ref-27]. Rooms and games are shuffled between playthroughs, which reviewers in 1996 and later noted added to its replay value[^ref-16][^ref-17][^ref-13]. The box included clear-cellophane "ToonVision" 3-D glasses with ChromaDepth lenses for a handful of 3-D games[^ref-16][^ref-21].
 
 Stay Tooned! was built with Macromedia Director[^ref-3][^ref-15]. Funnybone Interactive, based in Canton, Connecticut, had been founded in 1985 as The Cute Company and became a division of Davidson & Associates in February 1995[^ref-16][^ref-18].
 
@@ -41,7 +41,7 @@ Stay Tooned! was built with Macromedia Director[^ref-3][^ref-15]. Funnybone Inte
 
 The game opens in an ordinary apartment building. The player relaxes in an easy chair, remote in hand, and channel-surfs through cartoons, commercials and spoofs such as "Whinefeld", "Frauds" and "Schlepardy"[^ref-16]. Pressing a mysterious red button on the remote releases the toons from their Saturday-morning shows. They steal the remote and transform the building into a "loony playground"[^ref-16][^ref-2]. The manual describes "five wacky cartoon characters" who have run off and hidden the remote somewhere in the building[^ref-21].
 
-The five main toons are Fiddle, Schmooze, Scoops and the twins Pixel and Chisel[^ref-16][^ref-23]. Wikipedia's character list describes Pixel as the leader of the group and Chisel as her twin brother and second-in-command[^ref-2]. Other characters include the strongman Frank, the mad scientist Dr. Pickles and Al Extra Bucks, host of the "Schleopardy!" game show[^ref-26][^ref-16][^ref-19][^ref-2]. Early on, Frank warns the player: "Watch out, 'cause us toons are gonna make your life miserable!"[^ref-4]
+The five main toons are Fiddle, Schmooze, Scoops and the twins Pixel and Chisel[^ref-16][^ref-23]. Wikipedia's character list describes Pixel as the leader of the group and Chisel as her twin brother and second-in-command[^ref-2]. Other characters include the strongman Frank, the mad scientist Dr. Pickles and Al Extra Bucks, host of the "Schleopardy!" game show[^ref-26][^ref-16][^ref-19][^ref-2]. Early on, Frank warns the player: "Watch out, 'cause us toons are gonna make your life miserable!" (as transcribed on TV Tropes)[^ref-4]
 
 To restore order the player must find the missing remote and zap the toons back into TV land[^ref-16]. Along the way the toons try to hinder the player. As Creative Director Susan Decker put it in the press release, "the characters will steal your cursor, or throw a cream pie at the screen to get in your way"[^ref-16]. In the ending, as described on Wikipedia and TV Tropes, the toons take their revenge after being captured. Pixel says, "Chisel, we can't let them get away with this!" and Chisel answers, "That's right, buddy, you're coming with us," before pulling the player into TV land[^ref-4][^ref-2].
 
@@ -75,9 +75,13 @@ MobyGames lists an average critic score of 76% from five ratings: Gamezilla 83%,
 
 Bonnie James of The Electric Playground gave the game 7.5 out of 10 on December 5, 1996. She called it "Itchy and Scratchy meets Tiny Toons" and praised its humour as "truly unique." She concluded: "If you find yourself getting up Saturday mornings to watch cartoons in your pajamas and eat sugar cereal on the couch, then I think you'll like Stay Tooned"[^ref-17].
 
+MacAddict's March 1997 issue (#7) had a panel of ten-year-old Brisbane Elementary School students review it among its kids' CD-ROMs. The magazine listed it for grades "5 to Adult" and its final report read: "Wise-cracking game 'toons' kids in to real quality programming." Holly liked the opening TV channels such as "Whinefeld" and "Frauds," Hilary praised the "very, very good graphics and colors," and Max's one complaint was "This program has a lot of bad words"[^ref-28].
+
 World Village's Gamer's Zone praised the graphics ("It is almost like watching Saturday morning cartoons") and "the high level of randomization." Its reviewer was less impressed by the ToonVision glasses and wrote that "this attempt still leaves a lot to be desired"[^ref-24].
 
 ### Modern Assessment
+
+PC Computing's March 1998 software roundup gave it three of five circles, calling it "a game oscillating somewhere between a children's game and an adult satire." The unsigned review found that the adults-oriented satires "don't last long" and advised: "Turn this one over to the kids, turn down the volume on the PC, and take two aspirin"[^ref-29].
 
 In a January 2006 staff review for HonestGamers (4/5), Zack Little called it "a decade-old graphic adventure that gets wrongly marked as edutainment"[^ref-25]. The Collection Chamber's 2018 retrospective by Austin Brewer suggested it is "probably one of Sierra's least remembered titles." Brewer enjoyed the "Schleopardy!" mini-game but called the mini-games in general "shameless clones of other better known games"[^ref-13].
 
@@ -92,7 +96,7 @@ MobyGames has one player review, by Katakis (2019), titled "This interactive Sat
 
 ### Origins
 
-Funnybone Interactive was founded in 1985 as The Cute Company by Joel Fried and Susan Swanson (Decker). It became a division of Davidson & Associates in February 1995[^ref-18]. By the time of Stay Tooned! it was Davidson's kids' entertainment software division in Canton, Connecticut, and the press release credits it with "over 100 titles as a third-party developer"[^ref-16]. The 2019 MobyGames player review says the name changed in 1996, but this contradicts MobyGames' own company record, which dates The Cute Company name to 1985–1995[^ref-3][^ref-18]. Sierra On-Line, which had recently merged with CUC International, published the game[^ref-16].
+Funnybone Interactive was founded in 1985 as The Cute Company by Joel Fried and Susan Swanson (Decker). It became a division of Davidson & Associates in February 1995[^ref-18]. By the time of Stay Tooned! it was Davidson's kids' entertainment software division in Canton, Connecticut, and the press release credits it with "over 100 titles as a third-party developer"[^ref-16]. The 2019 MobyGames player review says the name changed in 1996, but this contradicts MobyGames' own company record, which dates The Cute Company name to 1985–1995[^ref-3][^ref-18]. Sierra On-Line, which had recently merged with CUC International, published the game[^ref-16]. Animation World Magazine's December 1996 issue noted that CUC had also bought Davidson & Associates, and that Stay Tooned!, "created by Funnybone, which was acquired by Davidson & Associates not too long ago," was being released under the Sierra label[^ref-30].
 
 ### Production
 
@@ -124,7 +128,8 @@ The 3-D effects came from clear-cellophane ToonVision glasses. In the press rele
 - **Players:** 1 Player
 - **PC requirements:** 486DX/33 MHz (486/66 recommended), 8 MB RAM, double-speed CD-ROM, 256-colour 640×480, QuickTime (included)
 - **Mac requirements:** Centris, Performa or better, System 7.1 or higher, 3,500K free memory, double-speed CD-ROM, QuickTime 2.0 (included)
-- **Price at launch:** approximately $40
+- **Mac requirements (MacAddict review):** 2X CD-ROM, System 7.1 or later, 68040 or faster, 8 MB RAM[^ref-28]
+- **Price at launch:** approximately $40[^ref-27][^ref-28]
 - **Preserved download size (Windows 3.x):** 330 MB[^ref-5]
 - **Preserved download size (Macintosh):** 302 MB[^ref-5]
 
@@ -136,7 +141,7 @@ Stay Tooned! was made for Windows 3.1, Windows 95 and classic Mac OS (System 7.1
 
 Stay Tooned! contains several creator cameos and fourth-wall jokes:
 
-- **Ben Howard:** the lead programmer appears as himself, offers playing tips on one of the TV channels, and turns up in hidden areas[^ref-21][^ref-17][^ref-2]
+- **Ben Howard:** the lead programmer appears as himself and offers playing tips on one of the TV channels[^ref-21][^ref-17][^ref-2]
 - **Joel Fried:** Funnybone's president voices Chisel[^ref-21][^ref-19]
 - **Fake errors:** error boxes such as "Punchline unfulfilled" pop up, followed by a giggling toon[^ref-17]
 
@@ -223,3 +228,7 @@ Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. The 
 [^ref-24]: [World Village Gamer's Zone – Stay Tooned! review (1997, archived)](https://web.archive.org/web/19970709101550/http://www.worldvillage.com:80/wv/gamezone/html/reviews/tooned.htm) – graphics, randomisation, Duncan the doughnut, ToonVision 3-D glasses assessment
 [^ref-25]: [HonestGamers – Stay Tooned! staff review by Zack Little (13 January 2006)](https://www.honestgamers.com/4454/pc/stay-tooned/review.html) – "decade-old graphic adventure that gets wrongly marked as edutainment"; 4/5 on game page
 [^ref-26]: [Official Stay Tooned! website – Stay Tooned Games! (archived 2 March 1997)](https://web.archive.org/web/19970302001630/http://www.stay-tooned.com:80/ARCADE.HTML) – Shockwave web mini-games featuring Frank, the "resident strongman"
+[^ref-27]: [PC Magazine, 17 December 1996, p. 354 (holiday gift guide, unsigned)](https://archive.org/details/PC-Mag-1996-12-17) – $40, over 30 games, over 50 environments, five 3-D games
+[^ref-28]: [MacAddict, issue 7 (March 1997), p. 86 (kids' CD-ROM panel, Brisbane Elementary School)](https://archive.org/details/MacAddict-007-199703) – Mac requirements, $40 street price, grades 5 to Adult, panel quotes, final report
+[^ref-29]: [PC Computing, March 1998, p. 162 (Stay Tooned review, unsigned)](https://archive.org/details/PC_Computing_1998_03) – three of five circles, "between a children's game and an adult satire", "take two aspirin"
+[^ref-30]: [Animation World Magazine vol. 1 no. 9 (December 1996), p. 14, Judith Shane, "Lettuce Entertain You: A Visit to Sierra On-Line"](https://archive.org/details/awn-magazine-volume-1-9) – CUC purchase of Sierra and Davidson; Funnybone acquired by Davidson; released under the Sierra label
