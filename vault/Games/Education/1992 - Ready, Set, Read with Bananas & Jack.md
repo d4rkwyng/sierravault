@@ -13,7 +13,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Player (child)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-28'
+last_updated: '2026-11-07'
 description: '**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning
   Reading**) is an educational software title developed by Bright Star Technology
   and...'
@@ -21,13 +21,13 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 7, 2026</small>
 
 ## Overview
 
 **Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning Reading**) is an educational software title developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] as part of the Sierra Discovery Series in 1993 for Windows 3.1 and the Macintosh[^ref-1][^ref-2][^ref-3][^ref-24][^ref-28]. The program was designed to help young children develop fundamental reading skills through interactive mini-games featuring two animated coaches: Bananas, a chimpanzee (MobyGames calls him a monkey), and Jack, a jack-in-the-box[^ref-1][^ref-28]. Bright Star Technology, founded by Elon Gasper and Nedra Goedert in the early 1980s and described as "a key player in multimedia technology," was acquired by Sierra in July 1992 and became the cornerstone of Sierra's educational games department[^ref-8][^ref-9][^ref-11][^ref-14].
 
-The game was released in 1993. MobyGames dates the Windows 16-bit release to 1993 and the Macintosh version 1.0 to May 19, 1993[^ref-1][^ref-24]; GameFAQs, the GOG Dreamlist and the Sierra Wiki also give 1993[^ref-4][^ref-6][^ref-26], and *The New York Times* reviewed it as a new sequel in October 1993[^ref-28]. The Sierra Chest disagrees, giving a first release date of 1992-01-01[^ref-2].
+The game was released in 1993. MobyGames dates the Windows 16-bit release to 1993 and the Macintosh version 1.0 to May 19, 1993[^ref-1][^ref-24]; GameFAQs, the GOG Dreamlist and the Sierra Wiki also give 1993[^ref-4][^ref-6][^ref-26], and *The New York Times* reviewed it as a new sequel in October 1993[^ref-28]. The Sierra Chest disagrees, giving a first release date of 1992-01-01[^ref-2]. That date conflicts with the period sources: Sierra's own magazine, *InterAction* (Summer 1993), presents the game as new, with a feature article and a "New!" order-form listing at $42.45[^ref-32], and Bright Star's trademark application for the name "Ready, Set, Read with Bananas and Jack" shows a filing date of 3-15-1993 in the USPTO *Official Gazette* (as read from the scan's OCR text)[^ref-35].
 
 As a sequel to *Alphabet Blocks*, *Ready, Set, Read* targeted slightly older children. *Alphabet Blocks* concentrated on the sounds and names of letters; this title moved on to recognizing simple words and two-letter sounds, building words, rhyming, alphabetizing and reading stories, for ages 4 to 7[^ref-1][^ref-28]. The software exemplified Sierra's commitment to the educational software market during the early 1990s, when the company expanded beyond its traditional adventure game portfolio to capture the growing home education segment[^ref-2][^ref-3].
 
@@ -84,14 +84,16 @@ Parents had the ability to customize the game's environment to best suit the nee
 
 ### Contemporary Reviews
 
-L. R. Shannon reviewed the game for *The New York Times* on October 5, 1993, as the sequel to Bright Star's "successful *Alphabet Blocks*". He found the screens "colorful and well drawn" and said the sounds from Bananas and Jack "are startlingly real if the equipment is good enough", with lip-sync technology that "makes the characters look as if they are actually saying the words"[^ref-28]. In his trial rhyming lesson, a wrong guess drew the word spoken back to him, "letting me know I was wrong without actually saying so", while the right answer brought "a cheerful 'That's right.'"[^ref-28]. MobyGames records one scored critic rating, 25% from *The Computer Museum Guide to the Best Software for Kids*, plus an unscored *Computer Gaming World* entry[^ref-29].
+L. R. Shannon reviewed the game for *The New York Times* on October 5, 1993, as the sequel to Bright Star's "successful *Alphabet Blocks*". He found the screens "colorful and well drawn" and said the sounds from Bananas and Jack "are startlingly real if the equipment is good enough", with lip-sync technology that "makes the characters look as if they are actually saying the words"[^ref-28]. In his trial rhyming lesson, a wrong guess drew the word spoken back to him, "letting me know I was wrong without actually saying so", while the right answer brought "a cheerful 'That's right.'"[^ref-28]. *Computer Gaming World* reviewed it in its December 1993 issue (the review is unsigned) and concluded: "It is, after all, the program's faultless realism in speech that sets Ready, Set, Read apart from other early reading programs"[^ref-31]. *InterAction*, Sierra's own magazine, described it as a return of "the talking toys from *Alphabet Blocks*" teaching early reading skills for ages 4 to 7[^ref-32]. *MacUser*'s December 1994 children's-software guide listed *Beginning Reading* (Sierra On-Line, ages 3-7, $49.95) in its reading section, calling Bananas and Jack "wonderfully realistic talking toys" that "effectively balance fun and reading-skills instruction", and noting that "children are able to choose their own difficulty level"[^ref-33].
+
+*The Computer Museum Guide to the Best Software for Kids* (1995) reviewed the program under its *Beginning Reading* title on p. 90. The page prints one star on the guide's 1-to-4-star scale, marks it "Best for ages 5-7" (one star each for Learning, Looks and Longevity in its "Just the Facts" box), and says: "overall, Beginning Reading is not particularly exciting or innovative." Its bottom line reads: "Used sparingly, this program is helpful for reinforcing the word skills your children are learning in school."[^ref-30] MobyGames records this as its one scored critic rating (25%), plus an unscored *Computer Gaming World* entry[^ref-29].
 
 ### Modern Assessment
 
 Modern preservation and retro gaming communities have shown continued interest in Sierra's educational catalog, with users requesting digital re-releases of titles like *Ready, Set, Read* on platforms such as GOG.com[^ref-6]. GameFAQs lists a single user rating of "Unplayable"[^ref-4].
 
 **Aggregate Scores:**
-- **MobyGames:** Critics 25% (1 rating); no Moby Score or player reviews[^ref-1][^ref-29]
+- **MobyGames:** Critics 25% (1 rating; the underlying Computer Museum Guide review prints one star on a 1-to-4 scale[^ref-30]); no Moby Score or player reviews[^ref-1][^ref-29]
 - **GameFAQs:** "Unplayable" (1 rating)[^ref-4]
 - **Metacritic:** No critic or user reviews; Metascore and user score both listed as "tbd"[^ref-25]
 
@@ -101,11 +103,11 @@ Modern preservation and retro gaming communities have shown continued interest i
 
 *Ready, Set, Read with Bananas & Jack* was developed by Bright Star Technology of Bellevue, Washington[^ref-28], a company that specialized in educational software[^ref-1][^ref-2]. The title was conceived as a sequel to *Alphabet Blocks*, designed to provide the next step in reading education for children who had mastered basic letter recognition[^ref-1].
 
-Sierra On-Line published the title as part of their Sierra Discovery Series, which represented the company's expansion into the educational software market[^ref-2][^ref-3]. This initiative aligned with the broader industry trend of the early 1990s, when personal computers were increasingly marketed to families as educational tools for children.
+By September 1993 *Computer Gaming World* described Bright Star as "Sierra's wholly-owned subsidiary"[^ref-34]. Sierra On-Line published the title as part of their Sierra Discovery Series, which represented the company's expansion into the educational software market[^ref-2][^ref-3]. This initiative aligned with the broader industry trend of the early 1990s, when personal computers were increasingly marketed to families as educational tools for children.
 
 ### Production
 
-The development team at Bright Star Technology created the Bananas and Jack characters to serve as engaging virtual tutors[^ref-1]. The design emphasized positive reinforcement: there is no negative reinforcement for wrong answers, and missed questions come back later[^ref-1][^ref-28].
+Bananas and Jack return from Bright Star's earlier *Alphabet Blocks*: *The New York Times* called this title a sequel to it, and *InterAction* wrote that "Bananas and Jack are back" as animated talking coaches for six reading lessons[^ref-28][^ref-32]. The coaches' role is that of virtual tutors[^ref-1]. Sierra's own magazine describes how the program adapts: if a child waits too long before choosing, "the six choices are reduced to three"[^ref-32]. The design emphasized positive reinforcement: there is no negative reinforcement for wrong answers, and missed questions come back later[^ref-1][^ref-28].
 
 **Development Credits (Windows 16-bit version):**[^ref-22]
 - **Producer:** Lynn Luukinen
@@ -130,7 +132,7 @@ The talking coaches used lip-sync technology so that Bananas and Jack appear to 
 - **Audio:** Spoken character dialogue with lip-synced animation
 - **Requirements (IBM PC compatible):** 386 at 16 MHz or better, 4 MB RAM, 10 MB hard disk space, 256-color VGA, DOS 3.1 or higher, Windows 3.1 or higher, Windows-compatible sound card
 - **Requirements (Macintosh):** color Mac, System 6.0.7 or later, 4 MB RAM, 10 MB hard disk space
-- **Price:** $49.95 suggested retail
+- **Price:** $49.95 suggested retail (also $49.95 in *MacUser*'s 1994 guide[^ref-33]; $42.45 on Sierra's 1993 order form[^ref-32])
 
 The demo version allowed access to all puzzle rooms but limited the number of puzzles that could be solved[^ref-2]. Running the demo and full version requires Windows 3.x, which can be emulated through DOSBox[^ref-2][^ref-3].
 
@@ -231,3 +233,9 @@ The game's reliance on Windows 3.x makes it hard to run today, as 16-bit softwar
 [^ref-27]: [MobyGames – Ready, Set, Read with Bananas & Jack promos](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/promo/) – ad blurb from Sierra's Sneak Peeks (1993), self-running display screen
 [^ref-28]: [The New York Times – "Peripherals; Ways to Make Learning Feel More Like a Game" (L. R. Shannon, October 5, 1993)](https://www.nytimes.com/1993/10/05/science/peripherals-ways-to-make-learning-feel-more-like-a-game.html) – review: sequel to Alphabet Blocks, Bright Star of Bellevue, chimpanzee Bananas, lip-sync, system requirements, ages 4–7, $49.95
 [^ref-29]: [MobyGames – Ready, Set, Read with Bananas & Jack reviews](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/reviews/) – "Average score: 25% (based on 1 ratings)": The Computer Museum Guide to the Best Software for Kids 25% (Windows 16-bit and Macintosh); Computer Gaming World unscored; no player reviews
+[^ref-30]: [The Computer Museum Guide to the Best Software for Kids (1995), p. 90 "Beginning Reading"](https://archive.org/details/computermuseumguid00mira) – one star (scale 1 to 4 stars, per the book's introduction), "Best for ages 5-7", about $35, verdict text quoted above; star count read from the p. 90 page image, text from the OCR
+[^ref-31]: [Computer Gaming World issue 113 (December 1993), "Ready, Set, Read" review (unsigned)](https://archive.org/details/Computer_Gaming_World_Issue_113) – "faultless realism in speech"; $49.95, ages 4 to 7, 386SX, 4 MB RAM, Windows 3.1
+[^ref-32]: [Sierra InterAction, Summer 1993 (Sierra's own magazine)](https://archive.org/details/sierra-inter-action-summer-1993) – feature by Nancy Smithe Grimsley ("Bananas and Jack are back", "the six choices are reduced to three"); order form lists the game as "New!" at $42.45
+[^ref-33]: [MacUser, December 1994 (children's software guide)](https://archive.org/details/eu_Macuser-1994-12_OCR) – Beginning Reading, Sierra On-Line, 3-7 yrs, $49.95; "children are able to choose their own difficulty level"
+[^ref-34]: [Computer Gaming World issue 110 (September 1993)](https://archive.org/details/Computer_Gaming_World_Issue_110) – "Bright Star (Sierra's wholly-owned subsidiary)"; context only
+[^ref-35]: [USPTO Official Gazette, trademarks, vol. 1160 (1993)](https://archive.org/details/officialgazette1160bunit) – registration entry 1,824,999 "Ready, Set, Read with Bananas and Jack", Bright Star Technology, Incorporated, filed 3-15-1993, published 12-14-1993 (OCR text)
