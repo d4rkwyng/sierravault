@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-06'
 description: Hoyle Casino 2008 is Encore Software's fall 2007 edition of the Hoyle
  casino series, a combined Windows/Mac DVD marketed as "the best-selling casino game of all time."
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2008
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 6, 2026</small>
 
 ## Overview
 
@@ -136,7 +136,7 @@ According to Wikipedia's uncited statement, the 30-second freeze after bets in t
 
 ### Sales and Commercial Impact
 
-The Hoyle Casino franchise was already a commercial success before this edition. In North America, Hoyle Casino 2000 sold 230,365 units and earned $6.15 million from January through October 2000, according to PC Data, which Quarter to Three reported from PC Data's year-to-date figures through the end of October.[^ref-5][^ref-26] Marketing for the 2008 edition called the series "the best-selling casino game of all time."[^ref-1][^ref-2]
+The Hoyle Casino franchise was already a commercial success before this edition. In North America, Hoyle Casino 2000 sold 230,365 units and earned $6.15 million from January through October 2000, according to PC Data, which Quarter to Three reported from PC Data's year-to-date figures through the end of October.[^ref-5][^ref-26] Marketing for the 2008 edition called the series "the best-selling casino game of all time"; the Macgamestore announcement repeated that line as promotional wording, not an independently verified fact.[^ref-1][^ref-2][^ref-27][^ref-28]
 
 ### Platform Expansion
 
@@ -144,7 +144,7 @@ Hoyle Casino 2008 was one of the 2008-branded Hoyle titles that brought the seri
 
 ### Digital Distribution
 
-In April 2008, Macgamestore.com and Encore announced a download version of the game for $19.95, with a demo available. Macworld noted that this was "the first time this collection has been available as a digital download," as Encore had previously sold it only boxed.[^ref-8]
+In April 2008, Macgamestore.com and Encore announced a download version of the game for $19.95, with a demo available. Macworld noted that this was "the first time this collection has been available as a digital download," as Encore had previously sold it only boxed.[^ref-8] MacDailyNews's reprint of the announcement, dated April 23, 2008, likewise says the game "is available for US$19.95 through Macgamestore," and Macgamestore's own news item says it "has been released on the MacGameStore for $19.95!"[^ref-27][^ref-28]
 
 ### Related Games
 
@@ -152,7 +152,7 @@ A related business simulation, Hoyle Casino Empire, was released in 2002. The fr
 
 ### Continued Development
 
-The next edition, Hoyle Casino Games (also known as Hoyle Casino 2009), followed on September 10, 2008. MobyGames credits Freeverse as its developer and lists a face creator, multiple profiles, achievements and trophies.[^ref-6] Encore later released Hoyle Official Casino Games on Steam on October 14, 2016 (App ID 532950). It requires Windows Vista or later, a 1.0 GHz processor and a DirectX 9.0c-compatible card with 512 MB of video RAM.[^ref-11][^ref-24] That Steam page is now unlisted at the publisher's request and does not appear in store search.[^ref-24]
+The next edition, Hoyle Casino Games (also known as Hoyle Casino 2009), followed on September 10, 2008. MobyGames credits Freeverse as its developer and lists a face creator, multiple profiles, achievements and trophies.[^ref-6] Engadget's Steve Sande, writing on September 26, 2008, said the Mac Hoyle Casino came "now with access to the Royle Suite and online tournaments" and that the 2009 games were "available for $19.99 each and require Mac OS X 10.4.10 or later."[^ref-29] Encore later released Hoyle Official Casino Games on Steam on October 14, 2016 (App ID 532950). It requires Windows Vista or later, a 1.0 GHz processor and a DirectX 9.0c-compatible card with 512 MB of video RAM.[^ref-11][^ref-24] That Steam page is now unlisted at the publisher's request and does not appear in store search.[^ref-24]
 
 ## Downloads
 
@@ -246,3 +246,6 @@ The game is also listed in IGDB and GameFAQs.[^ref-13][^ref-20][^ref-22]
 [^ref-24]: [Steam – Hoyle Official Casino Games](https://store.steampowered.com/app/532950/) – 2016 release, system requirements, unlisted at the publisher's request
 [^ref-25]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – parent series from 1989, Hoyle Casino spin-off in 1996, Encore publishing 2005–2016
 [^ref-26]: [Quarter to Three – PC Data's bestselling games of 2000 (Wayback, 2019 capture)](https://web.archive.org/web/20190629130911/https://www.quartertothree.com/features/pcdata_top_10/years_bestsellers.shtml) – Hoyle Casino 2000 "selling 230,365 copies and netting $6,151,369"; PC Data figures through the end of October
+[^ref-27]: [MacDailyNews – Macgamestore releases Hoyle Casino 2008 as digital download](https://macdailynews.com/2008/04/23/macgamestore_releases_hoyle_casino_2008_as_digital_download/) – April 23, 2008 press-release reprint: US$19.95 through Macgamestore, Mac requirements; "best-selling casino game of all time" is the announcement's own wording
+[^ref-28]: [Macgamestore – Hoyle Casino 2008 is now available!](https://www.macgamestore.com/news/article-186143/Hoyle-Casino-2008-is-now-available/) – news item: released on the MacGameStore for $19.95, repeats the marketing line (page date is a later site migration, not used)
+[^ref-29]: [Engadget – According to Hoyle, it's 2009](https://www.engadget.com/2008/09/26/according-to-hoyle-its-2009/) – Steve Sande, September 26, 2008: the next (2009) Mac edition, Royle Suite and online tournaments, $19.99, Mac OS X 10.4.10
