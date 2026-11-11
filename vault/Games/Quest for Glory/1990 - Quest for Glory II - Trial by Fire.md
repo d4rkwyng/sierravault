@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1 (EGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Christopher Braymen, Mark Seibert]
 description: 'Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game
   developed and published by Sierra On-Line for MS-DOS and Amiga, designed by Lori
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-26].
@@ -41,7 +41,7 @@ Trial by Fire is the only game in the series that Sierra never produced with any
 > **Director:** [[Bill Davis]] (creative)[^ref-1]
 > **Producer:** [[Guruka Singh Khalsa|Guruka Singh-Khalsa]][^ref-1]
 > **Programmer:** Robert Fischbach[^ref-1]
-> **Artist:** Kenn Nishiuye[^ref-1]
+> **Artist:** Kenn Nishiuye[^ref-1]; [[Douglas Herring]] (desert-section art design and combat system, per his own résumé and the Fan Fair biography)[^ref-35][^ref-36]
 > **Composer:** [[Chris Braymen|Christopher Braymen]], [[Mark Seibert]][^ref-1]
 > **Engine:** SCI1, EGA (Sierra Creative Interpreter)[^ref-33]
 > **Platforms:** MS-DOS, Amiga[^ref-1]
@@ -106,6 +106,9 @@ The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced t
 
 ### Production
 According to Corey Cole, Quest for Glory II cost $450,000, almost double the first game's budget[^ref-1][^ref-4]. It was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1][^ref-34]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" – both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1][^ref-34].
+
+### Art and Combat System Credit
+[[Douglas Herring]], a Sierra artist and animator, lists the game on his own résumé as "Art design desert section - Combat System."[^ref-35] The Adventure Game Fan Fair guest biography likewise says he "designed the combat system and a few backgrounds for Quest for Glory II."[^ref-36] Both are Herring's own accounts rather than an on-screen credit checked here, and the Wikipedia article this page relies on lists only Kenn Nishiuye as artist.[^ref-1]
 
 ### Technical Achievements
 - Last Quest for Glory game using EGA graphics[^ref-1][^ref-3]
@@ -205,3 +208,5 @@ This game has been included in the following collections:
 [^ref-32]: [RPGamer – Quest for Glory II: Trial by Fire Staff Review, Tyler Willis (archived)](https://web.archive.org/web/20081202133657/http://www.rpgamer.com/games/qfg/qfg2/reviews/qfg2strev1.html) – 4.0/5 review
 [^ref-33]: [ScummVM Wiki – Sierra Game Versions (Wayback, 2024-05-18)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II interpreters 1.000.041, 1.000.072 and 1.000.087 listed under "SCI1 (ega)"
 [^ref-34]: [Adventure Gamers – Corey Cole: Recruiting for Hero-U: Rogue to Redemption, Ingmar Böke, November 9, 2012 (archived 2015)](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – "Sierra's last 16-color EGA game"; Raseir anagram; Ad Avis named after Bill Davis
+[^ref-35]: [Douglas Herring Official Resume](http://www.douglasherring.com/09_resumemst.html) – self-reported: "Quest for Glory II: Trial by Fire : Art design desert section - Combat System"
+[^ref-36]: [Adventure Game Fan Fair – Douglas Herring Bio](https://adventuregamefanfair.com/guests/douglas-herring/) – says he "designed the combat system and a few backgrounds for Quest for Glory II" (live site returned HTTP 500 on 2026-11-11; [Wayback copy](https://web.archive.org/web/2026/https://adventuregamefanfair.com/guests/douglas-herring/))
