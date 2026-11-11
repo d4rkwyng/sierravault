@@ -10,31 +10,31 @@ series: Hoyle Casino
 engine: RenderWare
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Hoyle Casino 3D is a Windows casino game with a fully rendered 3D casino,
   released in the US by Encore Software on January 3, 2005.
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 3D
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Hoyle Casino 3D is a Windows casino game set in a "fully rendered 3D animated casino," marketed as "the only casino title powered by RenderWare"[^ref-1][^ref-3]. It was produced under Vivendi/Sierra: the ESRB first rated it under Vivendi Games, and the barcode on the US retail release contains Sierra's item number, 72199[^ref-3][^ref-9][^ref-24]. Encore Software released it in the US on January 3, 2005[^ref-2][^ref-12][^ref-22][^ref-23], shortly after Vivendi Universal Games divested its Hoyle-branded software to Navarre's Encore subsidiary in December 2004[^ref-17][^ref-19].
+Hoyle Casino 3D is a Windows casino game set in a "fully rendered 3D animated casino," marketed as "the only casino title powered by RenderWare"[^ref-1]. It was produced under Vivendi/Sierra: the ESRB first rated it under Vivendi Games, and the barcode on the US retail release contains Sierra's item number, 72199[^ref-3][^ref-9][^ref-24]. [[Encore Software]] released it in the US on January 3, 2005[^ref-2][^ref-12][^ref-22][^ref-23], shortly after Vivendi Universal Games divested its Hoyle-branded software to Navarre's Encore subsidiary in December 2004[^ref-17][^ref-19].
 
-Store and database descriptions count the games differently. GameFAQs and Metacritic describe "more than 21 casino games," including blackjack, video slots, video poker, craps and roulette[^ref-2][^ref-4]. Retail copy claims "40 of your favorite casino games" with "over 300 different game variations"[^ref-3]; Amazon UK's description says "more than 300 different variations of 40 classic casino games"[^ref-1], and Encore's own catalog listed it with "over 300 casino game variations" at $29.99[^ref-20], while GameSpy's feature list says "over 500 game variations"[^ref-12]. Players create their own animated character and play against animated 3D opponents, in modes "ranging from tutorial to tournament"[^ref-4][^ref-12].
+Store and database descriptions count the games differently. GameFAQs and Metacritic describe "more than 21 casino games," including blackjack, video slots, video poker, craps and roulette[^ref-2][^ref-4]. Retail copy claims "40 of your favorite casino games" with "over 300 different game variations"[^ref-3]; Amazon UK's description says "more than 300 different variations of 40 classic casino games"[^ref-1], and Encore's own catalog listed it with "over 300 casino game variations" at $29.99[^ref-20], while GameSpy's feature list says "over 500 game variations"[^ref-12]. Players create their own animated character and play against animated 3D opponents, in modes "ranging from tutorial to tournament"[^ref-4].
 
 Writing in 2015, an Encore representative recalled the game as an experiment: "We even tried a 3D rendition of Hoyle Casino called Hoyle Casino 3D"[^ref-7]. The same post says Encore started by distributing Sierra's 2004-era Hoyle products under its own box branding[^ref-7]. It drew almost no professional reviews, and the few user reviews on record are mixed to negative[^ref-1][^ref-4][^ref-8].
 
 > [!info]- Game Info
 > **Developer:** Unknown (GameSpy lists "Not Available"; GameSpot "n/a")[^ref-12][^ref-22]
-> **Publisher:** Encore Software[^ref-2][^ref-12]
-> **Engine:** RenderWare[^ref-1]
+> **Publisher:** [[Encore Software]][^ref-2][^ref-12]
+> **Engine:** RenderWare (per Amazon UK marketing copy)[^ref-1]
 > **Platforms:** Windows PC[^ref-2]
 > **Release Year:** 2005
 > **Series:** Hoyle Casino
-> **Protagonist:** Player-created character
+> **Protagonist:** Player-created avatar
 > **Sierra Lineage:** Core Sierra
 > **Designer:** Unknown
 
@@ -101,7 +101,7 @@ In a 2015 Steam discussion about the later Hoyle Official Card Games Collection,
 
 ### Technical Achievements
 
-The game was marketed as "the only casino title powered by RenderWare, giving players unparalleled realism"[^ref-1]. Its feature list includes a "fully rendered 3D animated casino" and "10 interactive and entertaining 3d opponents"[^ref-3][^ref-12].
+The game was marketed as "the only casino title powered by RenderWare, giving players unparalleled realism"[^ref-1]. Its feature list includes a "fully rendered 3D animated casino" and "10 interactive and entertaining 3d opponents"[^ref-12]. The Amazon India listing separately says "fully rendered 3D animated casino"[^ref-3].
 
 ### Technical Specifications
 
@@ -126,12 +126,18 @@ The game was marketed as "the only casino title powered by RenderWare, giving pl
 |------|-----------|----------|-------|
 | December 1, 2004 | Sierra (listed manufacturer) | Windows PC | Amazon India retailer date for item 72199; unconfirmed, weak evidence[^ref-3] |
 | January 3, 2005 | Encore Software | Windows PC | US release, suggested list price $29.99[^ref-2][^ref-12][^ref-21][^ref-22][^ref-23] |
+| March 22, 2005 | Encore, Inc. (listed manufacturer) | Windows PC | Amazon US "Date First Available" for the Hoyle Casino 3D [Download] edition (item 40927e); retailer listing date only[^ref-26] |
 
 ### Technical Issues
 
 - **Installation:** One Amazon customer reported being unable to install the game on two different computers[^ref-1]
 - **Interface:** In poker, the betting prompt covered the flop cards[^ref-8]
 - **AI speed:** The same reviewer found AI turns slow even in "fast mode"[^ref-8]
+
+**Patches:** An official Encore staff post on the Encore support forum, dated August 19, 2007, lists three patches[^ref-25]:
+- **1.1:** Tournament rounds 2 and 3 set the bankroll to a fixed amount for all players; max bets fixed for Let It Ride and 3 Card Poker[^ref-25]
+- **1.2:** Craps place bets, tournament and Horn bet payouts fixed; max bets on the Ruby River, Emerald Oasis and Margarita Madness slots; community cards spread on the table; custom poker tournament settings saved automatically[^ref-25]
+- **1.3:** Hall of Fame winners fixed. The post marks it "for retail box purchases only" and says later pressings of the disc (Value Software Version) already include the 1.3 patch[^ref-25]
 
 ## Legacy
 
@@ -141,7 +147,7 @@ No sales figures for Hoyle Casino 3D have been found.
 
 ### Collections
 
-Encore released Hoyle Casino 2006 on September 27, 2005[^ref-13]. Wikipedia's edition list continues with Hoyle Casino Games [2008], [2010] and [2012], the Hoyle Casino Collection series (2012–2015), and Hoyle Official Casino Games Collection (2016)[^ref-11].
+Encore released Hoyle Casino 2006 on September 27, 2005[^ref-13]. Wikipedia's edition list continues with Hoyle Casino Games (2007), (2009) and (2011; re-released as Encore Classic Casino Games in 2020), the Hoyle Casino Collection series (2012–2015), and Hoyle Official Casino Games Collection (2016; re-released as Encore Casino Games Collection in 2019)[^ref-11].
 
 ### Related Publications
 
@@ -153,7 +159,7 @@ Hoyle Casino 3D sits at the handover of the Hoyle brand from Vivendi/Sierra to E
 
 ## Purchase
 
-- Not currently sold on GOG or Steam
+- Not currently sold on GOG or Steam (checked 2026-11-11)
 
 ## Downloads
 
@@ -164,6 +170,7 @@ Hoyle Casino 3D sits at the handover of the Hoyle brand from Vivendi/Sierra to E
 
 - [[2005 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2005 - Hoyle Poker Series|→ Next: Hoyle Poker Series]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -204,8 +211,8 @@ Hoyle Casino 3D sits at the handover of the Hoyle brand from Vivendi/Sierra to E
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
 - [[2004 - Hoyle Puzzle and Board Games 2005]]
+- [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -240,3 +247,5 @@ Hoyle Casino 3D sits at the handover of the Hoyle brand from Vivendi/Sierra to E
 [^ref-22]: [GameSpot – Hoyle Casino 3D (archived May 13, 2005)](http://web.archive.org/web/20050513221900/http://www.gamespot.com:80/pc/puzzle/hoylecasino3d/index.html) – Publisher Encore Software, developer "n/a", release date 01/03/2005
 [^ref-23]: [IGN – Hoyle Casino 3D](https://www.ign.com/games/hoyle-casino-3d) – Encore, initial release January 3, 2005; summary "All the sights and sounds of Vegas are back"
 [^ref-24]: [GameFAQs – Hoyle Casino 3D release data](https://gamefaqs.gamespot.com/pc/924222-hoyle-casino-3d/data) – US Encore Software release, barcode 020626721998, 01/03/05, T
+[^ref-25]: [Encore Forums – Hoyle Casino 3D: Patch Information](http://forums.encoreusa.com/tm.asp?m=25503) – Encore staff post, 8/19/2007: patches 1.1 to 1.3 and their fixes
+[^ref-26]: [Amazon US – Hoyle Casino 3D [Download]](https://us.amazon.com/Encore-40927e-Casino-3D4-Download/dp/B006ZNGIHU) – Manufacturer Encore, Inc., item model 40927e, Date First Available March 22, 2005
