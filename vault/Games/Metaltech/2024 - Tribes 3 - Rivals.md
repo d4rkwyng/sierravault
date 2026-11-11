@@ -9,13 +9,13 @@ series: Tribes
 engine: Unreal Engine 5
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: "Tribes 3: Rivals is a 2024 first-person shooter continuing the Tribes series, developed by Prophecy Games using Unreal Engine 5."
 tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -32,20 +32,6 @@ Built on Unreal Engine 5, Tribes 3: Rivals is a team-based capture-the-flag shoo
 > **Series:** Tribes (Starsiege)
 > **Protagonist:** N/A
 > **Sierra Lineage:** Post-Sierra (Dynamix IP)
-
-## Development
-
-### Origins
-
-Hi-Rez Studios bought the Tribes IP from InstantAction in October 2010 and released Tribes: Ascend in 2012.[^ref-29] Prophecy Games was founded in late 2019 as a studio within Hi-Rez and spun off as a fully independent studio in early 2020, taking Tribes with it.[^ref-16][^ref-30] IGN reported the full reveal of Tribes 3: Rivals on November 29, 2023. At that point it was a 5v5 game, with vehicles planned for later, and Prophecy expected to launch on PC through Steam and the Epic Games Store, with PlayStation and Xbox versions "at a later time".[^ref-30] The game went through several betas before its Early Access launch.[^ref-2]
-
-Rock Paper Shotgun's notes from the December 2023 alpha playtest called it "heavily Ascend-inspired", noting that it copied over much of Tribes: Ascend's sound effects and music, and that vehicles and the VGS voice-command system were planned but not yet present. The default Capture the Flag mode was 5v5, with a 12v12 option tucked into custom lobbies.[^ref-31] IGN's hands-on with the same alpha build enjoyed the speed of play but worried about "somewhat claustrophobic maps and tiny teams".[^ref-32] In February 2024 the game took part in Steam Next Fest with a free playable demo.[^ref-37] A Steam FAQ posted on March 2, 2024 confirmed the Early Access date of March 12, 2024 and a launch price of $17.99, a 10% discount on the full price of $19.99.[^ref-33]
-
-Prophecy describes the game as "crafted with input from the TRIBES community", aiming to honor the series' legacy while adding new elements.[^ref-5] At launch, the studio published an Early Access roadmap of new weapons, maps and class abilities, and hoped to stay in Early Access for six to twelve months.[^ref-2]
-
-### Technical Achievements
-
-The game runs on Unreal Engine 5.[^ref-1][^ref-9] Skiing, the series' defining movement mechanic, returns: holding Shift builds momentum while moving downhill, and steeper slopes give more speed.[^ref-26] The game is PC-only on Steam, with dedicated servers in North America, Europe, Asia, Latin America and Oceania; Prophecy has said it is considering PlayStation and Xbox versions.[^ref-27][^ref-33] It uses Denuvo Anti-Cheat, which Prophecy notes is separate from Denuvo's anti-tamper DRM.[^ref-26]
 
 ## Gameplay
 
@@ -107,9 +93,23 @@ On June 26, 2024, Prophecy Games posted an announcement on Steam. It said that n
 | Steam Reviews | Mixed[^ref-5] |
 
 **Aggregate Scores:**
-- **Steam User Reviews:** "Mixed": 61% positive of 1,327 reviews on the store page in October 2026 (62% of 1,385 across all languages)[^ref-5]
+- **Steam User Reviews:** "Mixed": about 61% positive of roughly 1,300 reviews on the store page, as of November 2026 (the count changes daily)[^ref-5]
 - **Metacritic:** No Metascore ("tbd"; a score appears only after 4 critic reviews)[^ref-8]
 - **IGN:** 7/10 (Early Access review)[^ref-28]
+
+## Development
+
+### Origins
+
+Hi-Rez Studios bought the Tribes IP from InstantAction in October 2010 and released Tribes: Ascend in 2012.[^ref-29] Prophecy Games was founded in late 2019 as a studio within Hi-Rez and spun off as a fully independent studio in early 2020, taking Tribes with it.[^ref-16][^ref-30] IGN reported the full reveal of Tribes 3: Rivals on November 29, 2023. At that point it was a 5v5 game, with vehicles planned for later, and Prophecy expected to launch on PC through Steam and the Epic Games Store, with PlayStation and Xbox versions "at a later time".[^ref-30] The game went through several betas before its Early Access launch.[^ref-2]
+
+Rock Paper Shotgun's notes from the December 2023 alpha playtest called it "heavily Ascend-inspired", noting that it copied over much of Tribes: Ascend's sound effects and music, and that vehicles and the VGS voice-command system were planned but not yet present. The default Capture the Flag mode was 5v5, with a 12v12 option tucked into custom lobbies.[^ref-31] IGN's hands-on with the same alpha build enjoyed the speed of play but worried about "somewhat claustrophobic maps and tiny teams".[^ref-32] In February 2024 the game took part in Steam Next Fest with a free playable demo.[^ref-37] A Steam FAQ posted on March 2, 2024 confirmed the Early Access date of March 12, 2024 and a launch price of $17.99, a 10% discount on the full price of $19.99.[^ref-33]
+
+Prophecy describes the game as "crafted with input from the TRIBES community", aiming to honor the series' legacy while adding new elements.[^ref-5] At launch, the studio published an Early Access roadmap of new weapons, maps and class abilities, and hoped to stay in Early Access for six to twelve months.[^ref-2]
+
+### Technical Achievements
+
+The game runs on Unreal Engine 5.[^ref-1][^ref-9] Skiing, the series' defining movement mechanic, returns: holding Shift builds momentum while moving downhill, and steeper slopes give more speed.[^ref-26] The game is PC-only on Steam, with dedicated servers in North America, Europe, Asia, Latin America and Oceania; Prophecy has said it is considering PlayStation and Xbox versions.[^ref-27][^ref-33] It uses Denuvo Anti-Cheat, which Prophecy notes is separate from Denuvo's anti-tamper DRM.[^ref-26]
 
 ## Legacy
 
@@ -117,7 +117,7 @@ On June 26, 2024, Prophecy Games posted an announcement on Steam. It said that n
 
 Tribes 3: Rivals is the most recent release in the Tribes series, following Tribes: Ascend (2012).[^ref-29] Earlier entries were developed by Dynamix, Inevitable Entertainment, Irrational Games and Hi-Rez Studios.[^ref-29] This one comes from Prophecy Games, a studio spun off from Hi-Rez.[^ref-2][^ref-16]
 
-The game kept the classic Tribes formula of skiing, jetpacks and Capture the Flag, but within three months Prophecy said it had not done well enough to remain the studio's main focus.[^ref-34] The June 17, 2024 "Moonrise" update is the last patch announcement in the game's Steam news feed.[^ref-35]
+The game kept the classic Tribes formula of skiing, jetpacks and Capture the Flag, but within three months Prophecy said it had not done well enough to remain the studio's main focus.[^ref-34] The June 17, 2024 "Moonrise" update is the last patch announcement in the game's Steam news feed, and as of November 11, 2026 nothing newer than the June 2024 posts had been published there.[^ref-35]
 
 ### Community Preservation
 
