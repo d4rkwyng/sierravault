@@ -10,7 +10,7 @@ series: King's Quest (unofficial fan game)
 engine: Torque Game Engine
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: The Silver Lining (TSL) is an episodic fan-made adventure game based
   on Sierra's beloved King's Quest series, developed and released in free download
   format...
@@ -18,22 +18,22 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The Silver Lining (TSL) is an episodic fan-made adventure game based on Sierra's King's Quest series, developed and released in free download format by [[Phoenix Online Studios]] for Microsoft Windows, beginning with Episode 1 on July 10, 2010 (some sources, including Wikipedia's lead and PCGamingWiki, give July 18).[^ref-21][^ref-19][^ref-6] Phoenix's own project page described a 1,500+ page script spanning nine chapters, hundreds of characters, gigabytes of 2D and 3D artwork, and both a live and online voice-over cast.[^ref-2] Originally titled *King's Quest IX: Every Cloak Has A Silver Lining*, the game was in production from October 2000 and was made by an unpaid, all-volunteer group working online from several countries.[^ref-19][^ref-23]
 
-Phoenix's own blurb describes the game as the King's Quest series rising again, with Daventry "recreated in a 3D environment with a talented cast of voice actors"; King Graham searches for a way to save his children from a curse and uncovers shadows from Queen Valanice's past.[^ref-10] Five episodes were planned; four were released between 2010 and 2011, while the fifth and final episode, "A Thousand Times Good Night," remained unreleased after multiple delays.[^ref-1][^ref-5]
+Phoenix's own blurb describes the game as the King's Quest series rising again, with Daventry "recreated in a 3D environment with a talented cast of voice actors"; King Graham searches for a way to save his children from a curse and uncovers shadows from Queen Valanice's past.[^ref-10] Five episodes were planned; four were released between 2010 and 2011, while the fifth and final episode, "A Thousand Times Good Night," remained unreleased after multiple delays.[^ref-19][^ref-5]
 
-The project faced legal obstacles from two successive rights holders. Vivendi Universal Games sent a cease-and-desist in September 2005 and, after a fan campaign and negotiations, granted a Fan License on November 29, 2005 that required "King's Quest" to be removed from the title.[^ref-19][^ref-24] After Activision became owner of the franchise, it revoked that license and issued its own cease-and-desist, before allowing the game's release on June 26, 2010 on condition that it stay free and that Activision keep the rights.[^ref-19][^ref-11]
+The project faced legal obstacles from two successive rights holders. Vivendi Universal Games sent a cease-and-desist in September 2005 and, after a fan campaign and negotiations, granted a Fan License on November 29, 2005 that required "King's Quest" to be removed from the title.[^ref-19][^ref-24] After Activision became owner of the franchise, it issued its own cease-and-desist; Gamasutra reported on June 28, 2010 that Activision had "at last given the go-ahead" to release the game for free.[^ref-29][^ref-30] The license Phoenix received was non-commercial, and Giant Bomb reports it required the game to stay free.[^ref-11]
 
 > [!info]- Game Info
-> **Developer:** [[Phoenix Online Studios]][^ref-1]
+> **Developer:** [[Phoenix Online Studios]][^ref-21]
 > **Designer:** César Bittar, Katie Hallahan Rahhal[^ref-22]
 > **Publisher:** Phoenix Online Studios (Free Release)[^ref-21]
 > **Engine:** Torque Game Engine[^ref-6][^ref-21]
-> **Platforms:** Microsoft Windows[^ref-1][^ref-11][^ref-12][^ref-13][^ref-19]
+> **Platforms:** Microsoft Windows[^ref-11][^ref-12][^ref-13][^ref-19]
 > **Release Year:** 2010-2011[^ref-4]
 > **Series:** King's Quest (unofficial fan continuation)
 > **Protagonist:** King Graham
@@ -45,13 +45,13 @@ The Silver Lining opens on what should be a joyous occasion: the wedding of Prin
 
 As Graham searches for answers, his journey takes him across the Green Isles, the setting of King's Quest VI: Heir Today, Gone Tomorrow, visiting the Oracle on the Isle of the Sacred Mountain and the Arch Druid on the Isle of the Mists.[^ref-5][^ref-19] He seeks the help of ancient druidic artifacts with the power to undo the evil cast upon his children.[^ref-19]
 
-Throughout his journey, Graham uncovers shadows from Queen Valanice's past that bear on the curse and the figure behind it.[^ref-10] The story draws on characters from across the King's Quest series, including the return of Mannanan from King's Quest III: To Heir Is Human and Pan from King's Quest IV: The Perils of Rosella.[^ref-1][^ref-19] Phoenix's blurb closes on the question: "Can he come to terms with the past in order to ensure a happy future for the Royal family?"[^ref-10]
+Throughout his journey, Graham uncovers shadows from Queen Valanice's past that bear on the curse and the figure behind it.[^ref-10] The story draws on characters from across the King's Quest series, including the return of Mannanan from King's Quest III: To Heir Is Human and Pan from King's Quest IV: The Perils of Rosella.[^ref-19] Phoenix's blurb closes on the question: "Can he come to terms with the past in order to ensure a happy future for the Royal family?"[^ref-10]
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Silver Lining is designed as a 3D cinematic third-person point-and-click adventure game.[^ref-2] While the game features 3D graphics, its gameplay departs from Sierra On-Line's last official King's Quest release, King's Quest: Mask of Eternity, which was mainly criticized for its RPG-like atmosphere, and settles into the style created by the earlier titles in the series.[^ref-1][^ref-19]
+The Silver Lining is designed as a 3D cinematic third-person point-and-click adventure game.[^ref-2] While the game features 3D graphics, its gameplay departs from Sierra On-Line's last official King's Quest release, King's Quest: Mask of Eternity, which was mainly criticized for its RPG-like atmosphere, and settles into the style created by the earlier titles in the series.[^ref-19]
 
 Phoenix described the game as "screen-to-screen," and King Graham is controlled with an icon-based interface in a 3D world built with the Torque Game Engine.[^ref-2][^ref-21] The common actions (walk, look, interact and talk) sit alongside the inventory, with four slots for recently used items, and a narrator voices the reaction to every player action.[^ref-21]
 
@@ -63,7 +63,7 @@ The game was designed as an episodic adventure divided into multiple chapters:[^
 - **Episode 2: Two Households** – Released September 18, 2010; adds new locations such as Chess Land and Nymph Island, plus interface improvements[^ref-4][^ref-22]
 - **Episode 3: My Only Love Sprung from My Only Hate** – Released February 17, 2011; contains more puzzles than the first two episodes[^ref-4][^ref-19]
 - **Episode 4: 'Tis in My Memory Locked, And You Yourself Shall Keep the Key of It** – Released November 6, 2011; the final released episode[^ref-4][^ref-27]
-- **Episode 5: A Thousand Times Good Night** – Announced but never released; remains in development limbo[^ref-1][^ref-5]
+- **Episode 5: A Thousand Times Good Night** – Announced but never released; remains unreleased; see Legacy for Phoenix's later announcements[^ref-19][^ref-5][^ref-31][^ref-32]
 
 ### Puzzles and Mechanics
 
@@ -73,7 +73,7 @@ True to its King's Quest heritage, The Silver Lining has Graham collect inventor
 
 ### Contemporary Reviews
 
-As a free fan-made game, The Silver Lining was covered mainly by adventure gaming websites rather than mainstream gaming publications. The first episode was met with both praise and disappointment, often in the same review. Most reviewers criticized the voice acting, the lack of puzzles and the short length, while reactions to the graphics and music were more mixed.[^ref-19] *PC PowerPlay* found the first three episodes "polished and entertaining" overall.[^ref-19] According to the King's Quest Omnipedia, Episode 1 had been downloaded about 23,000 times within nine days of release.[^ref-5]
+As a free fan-made game, The Silver Lining drew coverage from games outlets including Gamasutra and The A.V. Club, whose John Teti reviewed Episode 1 on July 26, 2010 and wrote of Phoenix's long struggle to win a license from Activision.[^ref-30] The first episode was met with both praise and disappointment, often in the same review. Most reviewers criticized the voice acting, the lack of puzzles and the short length, while reactions to the graphics and music were more mixed.[^ref-19] *PC PowerPlay* found the first three episodes "polished and entertaining" overall.[^ref-19] According to the King's Quest Omnipedia, Episode 1 had been downloaded about 23,000 times within nine days of release.[^ref-5]
 
 ### Modern Assessment
 
@@ -96,7 +96,7 @@ The development team set out to create what they described as "a 3D cinematic 3r
 
 The Silver Lining was made by volunteers. In 2005 MTV News described an unpaid group of about 50 designers working online in several countries, including the U.S., Canada, Venezuela and the Netherlands.[^ref-23] The project used both a live and an online voice-over cast, and the soundtrack featured hundreds of songs.[^ref-2] A public demo (RC1) was released on July 30, 2006. It was 75.8MB and required the .NET Framework 1.1 or higher.[^ref-2]
 
-Vivendi Universal, which held the King's Quest rights at the time, sent the team a cease-and-desist in September 2005, shortly after the team released its first trailer and announced a release date. Phoenix halted work immediately.[^ref-19][^ref-23] In a GameSpy interview, the team credited the fan campaign, including the SaveKQIX site, with getting Vivendi to reconsider.[^ref-25] On November 29, 2005, Vivendi granted a Fan License that required the title be changed to remove the "King's Quest" reference.[^ref-19][^ref-24] After Vivendi Games merged with Activision in 2008, Activision revoked that license and issued its own cease-and-desist. On June 26, 2010, it agreed to let the game be released provided it remained free and Activision kept the rights.[^ref-19] Giant Bomb reports that the license required Phoenix to make clear the game was not an official sequel or Activision product, and to host it only on its own website.[^ref-11]
+Vivendi Universal, which held the King's Quest rights at the time, sent the team a cease-and-desist in September 2005, shortly after the team released its first trailer and announced a release date. Phoenix halted work immediately.[^ref-19][^ref-23] In a GameSpy interview, the team credited the fan campaign, including the SaveKQIX site, with getting Vivendi to reconsider.[^ref-25] On November 29, 2005, Vivendi granted a Fan License that required the title be changed to remove the "King's Quest" reference.[^ref-19][^ref-24] After Vivendi Games merged with Activision in 2008, Activision issued its own cease-and-desist, and Wikipedia states that Activision revoked the earlier Vivendi license.[^ref-19] Period reports do not describe a revocation: Gamasutra wrote that Phoenix kept developing "despite cease-and-desists from both Activision and Vivendi," and The A.V. Club that Phoenix "finally wrested a license from Activision this June."[^ref-29][^ref-30] Gamasutra reported the go-ahead on June 28, 2010.[^ref-29] Giant Bomb reports that the license required Phoenix to make clear the game was not an official sequel or Activision product, and to host it only on its own website.[^ref-11]
 
 **Development Credits:**[^ref-22]
 - **Directed by:** César Bittar, Richard Flores
@@ -138,15 +138,15 @@ A thread on the AGDInteractive forums dated August 13, 2007 reported that The Si
 
 ### Easter Eggs and Trivia
 
-- The Silver Lining features numerous references to classic King's Quest games, including callbacks to locations and characters from King's Quest III, IV, and VI.[^ref-1]
-- The game's setting returns to the Land of the Green Isles, first visited in King's Quest VI: Heir Today, Gone Tomorrow.[^ref-1]
+- The Silver Lining features numerous references to classic King's Quest games, including callbacks to locations and characters from King's Quest III, IV, and VI.[^ref-19]
+- The game's setting returns to the Land of the Green Isles, first visited in King's Quest VI: Heir Today, Gone Tomorrow.[^ref-19]
 - *King's Quest IX: The Silver Lining VGA* (2010) is a separate project. It is a demo of an AGS remake of The Silver Lining by the "KQIX-Team" in 320x200 VGA graphics, not a Phoenix release.[^ref-26]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-As a free fan-made game, The Silver Lining was never sold commercially.[^ref-1] The 2006 demo alone had been downloaded nearly 70,000 times by October 2026.[^ref-2]
+As a free fan-made game, The Silver Lining was never sold commercially; Phoenix's store lists the four-episode installer at $0.00.[^ref-28] The 2006 demo alone had been downloaded nearly 70,000 times by October 2026.[^ref-2]
 
 ### Collections
 
@@ -162,7 +162,7 @@ After Episodes 3 and 4, many team members moved to paid work on the studio's sec
 
 ### Critical Perspective
 
-The Silver Lining represents roughly a decade of volunteer effort to continue a beloved series. It never reached completion: the fifth and final episode remained in development as of 2020, and the Omnipedia describes it as on indefinite hold since 2021.[^ref-1][^ref-5] MTV News reported its 2005 rescue from Vivendi's cease-and-desist as "evidence that fan campaigns to save a scuttled project or canceled series sometimes do have happy endings."[^ref-23] Reviews of the released episodes were mixed.[^ref-19][^ref-18]
+The Silver Lining represents roughly a decade of volunteer effort to continue a beloved series. It never reached completion. On November 10, 2016 Phoenix released the free Haunted Castle Experience teaser and announced that Episode 5 "will be releasing in 2017"; that did not happen.[^ref-31] The last progress report on Phoenix's site, dated January 31, 2019, stated "No, this isn't a release date announcement. It's a progress report!"[^ref-32] The Omnipedia describes the project as on indefinite hold since 2021.[^ref-5] MTV News reported its 2005 rescue from Vivendi's cease-and-desist as "evidence that fan campaigns to save a scuttled project or canceled series sometimes do have happy endings."[^ref-23] Reviews of the released episodes were mixed.[^ref-19][^ref-18]
 
 ## Purchase
 
@@ -171,9 +171,10 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Free fan game – never sold commercially[^ref-10]
-- [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Official download archive[^ref-2]
+- Not currently available on GOG or Steam (checked 2026-11-11)
+- Free fan game – never sold commercially[^ref-10][^ref-28]
+- [Phoenix Online Store – The Silver Lining, Episodes 1-4](https://store.postudios.com/products/the-silver-lining) – Free ($0.00); all four episodes in one installer[^ref-28]
+- [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Archive of the 2006 public demo RC1, its patch and the fan hintbook, not the episodes[^ref-2]
 
 ## See Also
 
@@ -192,7 +193,6 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 
 ## References
 
-[^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details
 [^ref-2]: [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Technical specifications, download statistics, production scope, demo release date
 [^ref-4]: [MobyGames – The Silver Lining series](https://www.mobygames.com/group/9365/the-silver-lining-series/) – Lists all four Silver Lining episodes with release dates (July 10, 2010; September 18, 2010; February 17, 2011; November 6, 2011)
 [^ref-5]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – Plot opening (Rosella and Edgar's wedding), episode dates, reception, unfinished status
@@ -212,3 +212,8 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 [^ref-25]: [GameSpy – KQIX: The Silver Lining – A Talk with Phoenix Online Studios, page 3 (December 2005; archived)](https://web.archive.org/web/20130414213037/http://pc.gamespy.com/pc/freeware-king8217s-quest-ix/677071p3.html) – Bittar and Salazar on the C&D and the fan campaign's role
 [^ref-26]: [Adventure Game Studio – King's Quest IX: The Silver Lining VGA (Demo I)](https://www.adventuregamestudio.co.uk/site/games/game/1345/) – KQIX-Team AGS remake demo, released August 23, 2010, "an upcoming remake of The Silver Lining"
 [^ref-27]: [Phoenix Online Studios blog – Episode 4 is available NOW! (Katie Hallahan, November 6, 2011; archived)](https://web.archive.org/web/20111110102700/http://www.postudios.com:80/blog/?p=1455) – Episode 4 release announcement with full episode title, 647 MB patch and 1.7 GB full build
+[^ref-28]: [Phoenix Online Store – The Silver Lining - Episodes 1-4](https://store.postudios.com/products/the-silver-lining) – Listed as "PC - $0.00" and "FREE"; "it is indeed ALL 4 episodes in one exe file"
+[^ref-29]: [Gamasutra – Activision To Allow King's Quest Fan Sequel (Leigh Alexander, June 28, 2010)](https://gamedeveloper.com/game-platforms/activision-to-allow-i-king-s-quest-i-fan-sequel) – Activision "at last given the go-ahead"; cease-and-desists from both Activision and Vivendi; Vivendi's non-commercial license
+[^ref-30]: [The A.V. Club – The Silver Lining: Episode 1 (John Teti, July 26, 2010)](https://avclub.com/the-silver-lining-episode-1-1798220989) – Cease-and-desists from Vivendi Games and Activision; "finally wrested a license from Activision this June"
+[^ref-31]: [Phoenix Online Studios blog – The Silver Lining Haunted Castle Experience available now, and Episode 5 coming in 2017 (Katie Hallahan, November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – Free PC teaser from Phoenix store; Mac, Linux and HTC Vive versions "coming soon"; Episode 5 "will be releasing in 2017"
+[^ref-32]: [Phoenix Online Studios blog – The Silver Lining updates (Katie Hallahan, January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) – "No, this isn't a release date announcement. It's a progress report!"; work on Episode 5 visuals, cloth simulation and puzzles
