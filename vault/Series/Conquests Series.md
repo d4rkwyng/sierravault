@@ -7,12 +7,12 @@ first_release: 1990
 last_release: 1991
 total_games: 2
 genre: "Adventure, Historical / Mythological"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Conquests Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,6 +28,15 @@ The series produced exactly two games. Marx left Sierra after *Longbow* to retur
 |------|-------|---------|--------|-------|
 | 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Arthurian Britain and the Holy Land | SCI0 | Player as King Arthur |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | 12th-century Nottinghamshire | SCI1 | Player as Robin Hood |
+
+### Editions and Platforms
+
+| Game | DOS | Amiga | Atari ST | Macintosh | Windows (GOG) |
+|------|-----|-------|----------|-----------|---------------|
+| *Conquests of Camelot* | 1990 | 1990 | 1990 | — | 2017 |
+| *Conquests of the Longbow* | 1991 | 1992 | — | 1992 | 2017 |
+
+MobyGames lists *Camelot* for DOS, Amiga and Atari ST (all 1990) and for Windows (2017-05-04), and *Longbow* for DOS (1991), Amiga (1992) and Windows (2017-05-04).[^ref-23][^ref-24] Wikipedia's infobox for *Longbow* additionally lists a 1992 Classic Mac OS release, which MobyGames does not record;[^ref-2] the *Longbow* game page's own platform line (MS-DOS, Amiga, Classic Mac OS) agrees with Wikipedia. The *Camelot* infobox on Wikipedia gives its platforms as MS-DOS, Amiga and Atari ST.[^ref-1]
 
 ## Conquests of Camelot: The Search for the Grail (1990)
 
@@ -64,13 +73,37 @@ What unifies the two games:
 3. **Period-flavoured music** — both scores were singled out for their medieval atmosphere.[^ref-1][^ref-10]
 4. **Legendry-faithful storytelling** — *Camelot*'s box copy laments that the Arthur legend had been "recast as a cartoon and children's story", its "mystic rituals and dark passions" watered down.[^ref-12]
 
+## Technical Evolution
+
+The two games sit on either side of a major Sierra engine change. *Conquests of Camelot* "is one of the last games to use Sierra's SCI0 interpreter," with 16-colour EGA graphics, sound-card support and a text parser, although the mouse can also control the character.[^ref-12] *Conquests of the Longbow* "uses the SCI1 interpreter, featuring hand drawn 256 color backgrounds, improved sound, and an icon-based interface," with "Walk", "Talk" and "Use" icons plus a "Bow & Arrow" icon.[^ref-9] Adventure Gamers, reviewing *Longbow* in 2009, praised its VGA graphics and noted that each location has its own music theme.[^ref-22]
+
+## Critical Reception
+
+| Game | Notable Reception |
+|------|-------------------|
+| *Conquests of Camelot* | *Games International* 9/10 and *Dragon* 4½/5;[^ref-1] *VideoGames & Computer Entertainment* "Best Computer Adventure Game of 1990" (per Marx's credits page);[^ref-3] *Computer Gaming World*'s Scorpia called it "a game more for the beginning adventure gamer, rather than the experienced one"[^ref-7] |
+| *Conquests of the Longbow* | *Dragon* 5/5 (March 1992);[^ref-2] *Computer Gaming World* Adventure Game of the Year nominee (1992);[^ref-10][^ref-18] *COMPUTE!* (May 1992, Clayton Walnum) described several arcade sequences and Nine Men's Morris, with an arcade level that can be set to 0;[^ref-21] Adventure Gamers 4½/5 (2009 review);[^ref-22] ranked 42nd on Adventure Gamers' 2011 all-time list[^ref-2] |
+
+Further detail on each game's reception is under the per-game sections above.
+
 ## Legacy
 
 The Conquests series occupies a distinctive niche in Sierra's catalog — Marx's research-driven approach distinguishes it from the fairy-tale mix of *King's Quest*.[^ref-12] Polygon notes that the games "aren't as well-remembered as other Sierra properties, like King's Quest or Quest for Glory," but that "Marx's penchant for world building gives the classic folklore a unique richness."[^ref-19]
 
-Both games are available on GOG.com individually, which lists Activision as their publisher.[^ref-13][^ref-14]
-
 Christy Marx left Sierra after *Longbow* and returned to writing for non-interactive media.[^ref-15]
+
+## Playing Today
+
+### Purchase Links
+
+- [GOG.com — Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) — listed with a release date of 4 May 2017 and Activision as publisher[^ref-13]
+- [GOG.com — Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) — likewise listed with a 4 May 2017 release date and Activision as publisher[^ref-14]
+
+Neither game has a Steam store listing (checked 2026-11-11).
+
+### Compatibility
+
+ScummVM's compatibility list rates both games ("Conquests of Camelot: The Search for the Grail" and "Conquests of the Longbow: The Legend of Robin Hood") as "Excellent".[^ref-25]
 
 ## See Also
 
@@ -90,11 +123,16 @@ Christy Marx left Sierra after *Longbow* and returned to writing for non-interac
 [^ref-9]: [Hardcore Gaming 101 — Conquests of the Longbow](https://web.archive.org/web/20221209224459/http://www.hardcoregaming101.net/conquests-of-the-longbow/) — Retrospective; SCI1, disguises, Nine Men's Morris
 [^ref-10]: [Computer Gaming World #100 (November 1992)](https://www.cgwmuseum.org/galleries/index.php?year=1992&pub=2&id=100) — "CGW Salutes the Games of the Year", p. 110; Longbow nominated for Adventure Game of the Year
 [^ref-12]: [Hardcore Gaming 101 — Conquests of Camelot](https://web.archive.org/web/20221210063747/http://www.hardcoregaming101.net/conquests-of-camelot/) — Series overview; Peter Ledger artwork; SCI0
-[^ref-13]: [GOG.com — Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) — Current availability
-[^ref-14]: [GOG.com — Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) — Current availability
+[^ref-13]: [GOG.com — Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) — Current availability; GOG shows release date 4 May 2017
+[^ref-14]: [GOG.com — Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) — Current availability; GOG shows release date 4 May 2017
 [^ref-15]: [The Digital Antiquarian — Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — Longbow's sales; Marx leaving Sierra
 [^ref-16]: [Conquests of Camelot manual (Internet Archive)](https://archive.org/stream/vgmuseum_sierra_camelot-manual/camelot-manual_djvu.txt) — Manual text, including bibliography
 [^ref-17]: [Adventure Classic Gaming — Conquests of the Longbow walkthrough](https://www.adventureclassicgaming.com/index.php/site/cheats/492/) — Day-by-day walkthrough; disguises
-[^ref-18]: [Computer Gaming World #100 (November 1992), full text (Internet Archive)](https://archive.org/download/Computer_Gaming_World_Issue_100/Computer_Gaming_World_Issue_100_djvu.txt) — Adventure Game of the Year nominees and winner
-[^ref-19]: [Polygon — From G.I. Joe to Zynga: the three-decade career of Christy Marx](https://www.polygon.com/features/2013/6/26/4429774/gi-joe-zynga-christy-marx/) — Wes Fenlon's career profile (2013); assessment of the Conquests games
+[^ref-18]: [Computer Gaming World #100 (November 1992), full text (Internet Archive)](https://archive.org/stream/Computer_Gaming_World_Issue_100/Computer_Gaming_World_Issue_100_djvu.txt) — Adventure Game of the Year nominees and winner
+[^ref-19]: [Polygon — From G.I. Joe to Zynga: the three-decade career of Christy Marx](https://www.polygon.com/features/2013/6/26/4429774/gi-joe-zynga-christy-marx/) — Wes Fenlon's career profile (2013); used only for the "aren't as well-remembered" assessment (its release years for the games are incorrect and are not used)
 [^ref-20]: [Christy Marx — Biography](https://christymarx.com/writing/cmbio.htm) — her autobiography: Peter Ledger "hated it and quit after the first game"
+[^ref-21]: [COMPUTE! Issue 140 (May 1992), p. 86 — Clayton Walnum, review of Conquests of the Longbow](https://www.atarimagazines.com/compute/issue140/86_Conquests_of_the_Lon.php) — arcade sequences, adjustable arcade level, Nine Men's Morris
+[^ref-22]: [Adventure Gamers — Conquests of the Longbow review (Andrea Morstabilini, 2 January 2009), Wayback copy](https://web.archive.org/web/20230115122019/https://adventuregamers.com/articles/view/18204) — 4.5 stars; VGA graphics, music
+[^ref-23]: [MobyGames — Conquests of Camelot: The Search for the Grail](https://www.mobygames.com/game/1408/) — platforms and dates (DOS, Amiga, Atari ST 1990; Windows 2017-05-04); read via the MobyGames API
+[^ref-24]: [MobyGames — Conquests of the Longbow: The Legend of Robin Hood](https://www.mobygames.com/game/1967/) — platforms and dates (DOS 1991; Amiga 1992; Windows 2017-05-04); read via the MobyGames API
+[^ref-25]: [ScummVM — Compatibility list](https://www.scummvm.org/compatibility/) — sci:camelot and sci:longbow both "Excellent"
