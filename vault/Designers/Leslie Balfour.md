@@ -6,17 +6,17 @@ death_year: null
 notable_games: ["The Dagger of Amon Ra", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Space Quest VII: Return to Roman Numerals"]
 companies: ["Sierra On-Line"]
 mobygames_id: 42242
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Leslie Balfour
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Leslie Balfour (credited earlier as Leslie Wilson and Leslie Sayes Wilson) is a writer, voice actress and producer who worked at Sierra On-Line in the mid-1990s.[^ref-10][^ref-2] She voiced Laura Bow, the narrator and Yvette Delacroix in the 1993 CD-ROM version of [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], then joined Sierra in 1993, writing for its InterAction magazine, its marketing and its documentation.[^ref-12][^ref-2][^ref-3]
 
-She edited the "Popular Janitronics" magazine packed with [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], wrote and directed the "Making of Space Quest" video, and was co-designer with Scott Murphy on the cancelled Space Quest VII.[^ref-3][^ref-13][^ref-9] She was no longer under contract with Sierra by August 1998,[^ref-9] and later worked as a project manager.[^ref-6]
+She edited the "Popular Janitronics" magazine packed with [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], said she wrote and directed a "Making of Space Quest" video for the Space Quest Collection, and was co-designer with Scott Murphy on the cancelled Space Quest VII.[^ref-3][^ref-13][^ref-9] She was no longer under contract with Sierra by August 1998,[^ref-9] and a LinkedIn recommendation later describes her as a project manager.[^ref-6]
 
 ## Career
 
@@ -28,7 +28,7 @@ Her first Sierra work was voice acting on the CD-ROM version of [[1992 - The Dag
 
 Of the Yvette sessions she said: "I was saying her lines and Bruce would say, 'More sex.' So I kept increasing the sex, and the outer door to the studio was open, and programmers could hear, I guess, and were drawn to it like programmers are drawn to sex. At the end of the session, there had to be five guys outside the studio trying to get a glimpse of Yvette. She did not emerge — I did. Scott Murphy of Space Quest fame was particularly disappointed."[^ref-2]
 
-She met Bruce Balfour during the recordings. In 2018 she said: "I think often of that time, because I ended up falling for Bruce. The Dagger of Amon Ra is a great game, but for me, the prize was my husband of 23 years."[^ref-2] She is credited as Leslie Sayes Wilson on InterAction articles in 1993 and 1994 and on the 1994 King's Quest Collection.[^ref-15][^ref-18][^ref-16][^ref-4]
+She met Bruce Balfour during the recordings. In 2018 she said: "I think often of that time, because I ended up falling for Bruce. The Dagger of Amon Ra is a great game, but for me, the prize was my husband of 23 years."[^ref-2] Sierra Chest says she was credited as Leslie Balfour in games from around 1994.[^ref-7] She is credited as Leslie Sayes Wilson on InterAction articles in 1993 and 1994 and on the 1994 King's Quest Collection.[^ref-15][^ref-18][^ref-16][^ref-4]
 
 ### Sierra Years (1993–1998)
 
@@ -39,7 +39,7 @@ Her credits from this period include:
 - **Hoyle Classic Card Games (1993)** — Voice talent, credited as Leslie Wilson.[^ref-17]
 - **Outpost (1994)** — Guidebook writer (listed only by Sierra Chest; no MobyGames match found).[^ref-7]
 - **King's Quest Collection (1994)** — Writer and documentation, as Leslie Sayes Wilson. The King's Quest Omnipedia suggests that she or Susan Frischer, the collection's other credited writer, wrote its bonus help file *The Royal Scribe*.[^ref-4][^ref-7]
-- **Space Quest: Collector's Edition (1994)** — Writer and documentation, and in the video credits.[^ref-11] She wrote and directed its "Making of Space Quest" video and appears in it as the lawyer.[^ref-3]
+- **Space Quest: Collector's Edition (1994)** — Writer and documentation, and in the video credits.[^ref-11] MobyGames lists the video credit on this edition.[^ref-11] In 1997 she said Scott Murphy asked her to help on "a tchatchka for the Space Quest Collection," that she wrote and directed the "Making of Space Quest" video, and that she appears in it as the lawyer; the interview does not name the edition.[^ref-3]
 - **Space Quest 6 (1995)** — Documentation, and editor of the "Popular Janitronics" magazine, which Josh Mandel asked her to do.[^ref-13][^ref-3] Sierra Chest alone also lists her as text editor and for additional text.[^ref-7]
 - **[[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2: The Beast Within]] (1995)** — Documentation.[^ref-10][^ref-7] Sierra Chest alone also lists her as audio coordinator.[^ref-7]
 - **Quest for Glory Anthology (1996)** — Producer.[^ref-14]
@@ -59,7 +59,7 @@ In December 1997 Sierra put the game "on hold indefinitely." Murphy and Balfour 
 
 ### Post-Sierra Career
 
-She later worked as a project manager.[^ref-6]
+A LinkedIn recommendation describes her as a project manager; the page is login-gated and no dated employment details are available, so this is unverified.[^ref-6]
 
 ## Notable Works
 
@@ -75,24 +75,34 @@ For [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]] 
 
 Balfour was co-designer with Scott Murphy on [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII]].[^ref-9] Working titles released in 1997 included "This time it's Personal," "Show me the Buckazoids" and "Return of Roman Numerals."[^ref-5]
 
+## Design Philosophy
+
+No interview about her design approach beyond Space Quest VII has been found, so this section is limited to her own 1997 statements on that game. She said the team was aiming at science-fiction targets including the X-Files ("I am a major X-Phile, and so are most of the other team members"), Men in Black and Independence Day, and that "we'll also be satirizing prior satiric Space Quests." Of the fans she said: "We know what we owe the die-hard fans: your support means that we can do another installment." She promised that Space Quest VII "will have all the Scott Murphy[tm] humor... the puzzles... the glamour... and the Festrous snotballs you've enjoyed through the years."[^ref-3]
+
+## Legacy
+
+Josh Mandel credited her with coining "In Space, Nobody Can Hear You Clean," which he called "the best tagline Sierra ever had," and described her as "an active comedy writer both inside and outside of SOL's walls."[^ref-8] Her co-design of Space Quest VII ended when the project was cancelled.[^ref-9]
+
 ## Games
 
 ### Sierra On-Line (1992–1998)
 
-- **1993** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (CD-ROM version) — Role: Voice Actress (Laura Bow, Narrator, Yvette Delacroix), as Leslie Wilson[^ref-12]
-- 1993 — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Voice Talent, as Leslie Wilson[^ref-17]
-- 1994 — [[1994 - Outpost|Outpost]] — Guidebook writer (Sierra Chest only)[^ref-7]. Amazon lists Prima's *Outpost: The Official Strategy Guide* as by Bruce Balfour alone,[^ref-20] and the Outpost manual's credits do not name her.[^ref-21]
-- 1994 — King's Quest Collection — Writer, Documentation (as Leslie Sayes Wilson)[^ref-4][^ref-7]
-- 1994 — Space Quest: Collector's Edition — Writer, Documentation, Video ("The Making of Space Quest")[^ref-11][^ref-3]
-- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Documentation; Popular Janitronics editor[^ref-13]; text editor and additional text (Sierra Chest only)[^ref-7]
-- 1995 — [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2: The Beast Within]] — Documentation[^ref-10]; audio coordinator (Sierra Chest only)[^ref-7]
-- 1996 — Quest for Glory Anthology — Producer[^ref-14]
-- 1996 — The Roberta Williams Anthology — Special Thanks[^ref-10]
-- **1996** — [[1996 - The Realm Online|The Realm]] — Role: Writer (per her own account; MobyGames lists a special-thanks credit and dates the game 1997)[^ref-2][^ref-10]
-- 1997 — King's Quest Collection Series — Writer[^ref-10]
-- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Manual Proofreader[^ref-10]
-- 2006 — King's Quest Collection — Writers[^ref-10]
-- **—** — [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII: Return to Roman Numerals]] — Role: Co-Designer (Cancelled)[^ref-9]
+| Year | Title | Role |
+|------|-------|------|
+| 1993 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] (CD-ROM version) | Voice Actress (Laura Bow, Narrator, Yvette Delacroix), as Leslie Wilson[^ref-12] |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Voice Talent, as Leslie Wilson[^ref-17] |
+| 1994 | [[1994 - Outpost\|Outpost]] | Guidebook writer (Sierra Chest only)[^ref-7]. Amazon lists Prima's *Outpost: The Official Strategy Guide* as by Bruce Balfour alone,[^ref-20] and the Outpost manual's credits do not name her.[^ref-21] |
+| 1994 | King's Quest Collection | Writer, Documentation (as Leslie Sayes Wilson)[^ref-4][^ref-7] |
+| 1994 | Space Quest: Collector's Edition | Writer, Documentation, Video (credits per MobyGames)[^ref-11] |
+| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Documentation; Popular Janitronics editor[^ref-13]; text editor and additional text (Sierra Chest only)[^ref-7] |
+| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|Gabriel Knight 2: The Beast Within]] | Documentation[^ref-10]; audio coordinator (Sierra Chest only)[^ref-7] |
+| 1996 | Quest for Glory Anthology | Producer[^ref-14] |
+| 1996 | The Roberta Williams Anthology | Special Thanks[^ref-10] |
+| 1996 | [[1996 - The Realm Online\|The Realm]] | Writer (per her own account; MobyGames lists a special-thanks credit and dates the game 1997)[^ref-2][^ref-10] |
+| 1997 | King's Quest Collection Series | Writer[^ref-10] |
+| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Manual Proofreader[^ref-10] |
+| 2006 | King's Quest Collection | Writers[^ref-10] |
+| — | [[CXL - Space Quest VII - Return to Roman Numerals\|Space Quest VII: Return to Roman Numerals]] | Co-Designer (Cancelled)[^ref-9] |
 
 ## References
 
@@ -100,7 +110,7 @@ Balfour was co-designer with Scott Murphy on [[CXL - Space Quest VII - Return to
 [^ref-3]: [The Virtual Broomcloset - Leslie Balfour Interview (1997)](https://wiw.org/~jess/leslie.html) — "Since joining the company in 1993"; carney joke; Popular Janitronics; wrote and directed the Making of Space Quest video; only proofread the new Collection's documentation; X-Files
 [^ref-4]: [King's Quest Omnipedia - The Royal Scribe](https://kingsquest.fandom.com/wiki/The_Royal_Scribe) — Fan wiki: 1994 collection credits "Susan Frischer and Leslie Sayes Wilson (Leslie Balfour) as writers"; Royal Scribe writer "likely" one of them
 [^ref-5]: [SpaceQuest.Net - Space Quest 7](https://spacequest.net/sq7/) — SQ7 team list and working titles
-[^ref-6]: [LinkedIn - Leslie Balfour](https://www.linkedin.com/in/lesliebee) — Project manager (dossier copy; live page blocked)
+[^ref-6]: [LinkedIn - Leslie Balfour](https://www.linkedin.com/in/lesliebee) — Recommendation text calls her "a project manager extraordinaire" (dossier copy; live page blocked; third-party recommendation, unverified)
 [^ref-7]: [Sierra Chest - Leslie Sayes Wilson Balfour (Wayback, September 2022)](https://web.archive.org/web/20220911085613/https://sierrachest.com/index.php?a=p&id=300) — Credits: King's Quest Collector's Edition (1994) writer/documentation, GK2 documentation and audio coordinator, SQ6 text editor/additional text, Outpost guidebook writer, QfG Anthology producer, SWAT 2 manual proofreader
 [^ref-8]: [The Virtual Broomcloset - Josh Mandel Interview](https://wiw.org/~jess/josho.html) — "In Space, Nobody Can Hear You Clean"; "an active comedy writer"; HAMLET ON WRY
 [^ref-9]: [The Virtual Broomcloset - The True Story Behind Space Quest 7](https://wiw.org/~jess/sq7.html) — Early 1997 team, December 1997 hold and email, February 1998 Murphy layoff, August 1998 contract end, February 22, 1999
