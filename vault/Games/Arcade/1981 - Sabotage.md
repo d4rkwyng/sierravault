@@ -10,7 +10,7 @@ series: Standalone
 engine: Machine Language
 protagonist: Anti-aircraft gunner
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Sabotage is a fixed shooter arcade game developed by Mark Allen and published
   by On-Line Systems in 1981 for the Apple II computer, an original design whose turret-versus-paratroopers
   concept was widely cloned.
@@ -18,7 +18,7 @@ tags: [1980s, shooter, sierra, standalone]
 ---
 # Sabotage
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -131,11 +131,12 @@ Shells move roughly 8 or 12 pixels per frame, depending on whether the optional 
 - **Rendering:** Exclusive-OR operations on hi-res page 1[^ref-1]
 - **Collision Detection:** Pixel-accurate[^ref-1]
 - **Media:** 5.25" Floppy Disk[^ref-2]
+- **DOS:** Either DOS, according to On-Line Systems' *Softalk* catalogue entry (December 1981)[^ref-27]
 - **Requirements:** 48K Apple II or II Plus with a disk drive, according to On-Line Systems' ads and *Creative Computing*. *Softalk*'s July 1981 capsule listed 32K.[^ref-18][^ref-19][^ref-20]
 - **Price:** $24.95[^ref-19][^ref-20][^ref-22]
 - **Perspective:** Side view, Fixed / Flip-screen[^ref-2][^ref-9]
 - **File Size:** 16 KB[^ref-9]
-- **Input:** Paddle, Keyboard (D/F keys), Single-axis joystick[^ref-1][^ref-3]
+- **Input:** Paddle, Keyboard (D/F keys), Single-axis joystick[^ref-1][^ref-3]. On-Line Systems' catalogue entry says "Paddle or keyboard controlled."[^ref-27]
 
 ### Cut Content
 
@@ -158,7 +159,7 @@ MobyGames reviewer Katakis criticised the placement of the score counter inside 
 
 - The game was an original concept at a time when most action games were arcade clones, which made it unusual for the era.[^ref-4][^ref-6]
 - Retro365 says Sabotage was "vastly pirated and became one of the most-played games on the Apple II in 1981"; no period source has been found for the piracy claim.[^ref-4]
-- *Softline*'s first issue (September 1981) listed Apple co-founder Steve Wozniak as the Sabotage high-score holder, with 13,678 points.[^ref-23] A year later *Softline* recalled readers' surprise at Wozniak being "the early record holder in Sabotage". The same article called the game "an adult favorite", one that busy adults played as a mantra-like way to switch off.[^ref-24]
+- *Softline*'s first issue (September 1981) listed Apple co-founder Steve Wozniak as the Sabotage high-score holder, with 13,678 points.[^ref-23] *Softalk*'s November 1981 subscription advertisement for *Softline* asked, "Can you top Woz's score in Sabotage?"[^ref-25] A year later *Softline* recalled readers' surprise at Wozniak being "the early record holder in Sabotage". The same article called the game "an adult favorite", one that busy adults played as a mantra-like way to switch off.[^ref-24]
 - The Sierra Chest says the game was not re-released as a SierraVision title.[^ref-6] Retro365 says it was later announced under the SierraVision label but isn't sure that release ever materialized.[^ref-4]
 - Each shell fired subtracts a point, a deliberate deterrent to "spray & pray" shooting.[^ref-1]
 
@@ -166,7 +167,7 @@ MobyGames reviewer Katakis criticised the placement of the score counter inside 
 
 ### Sales and Commercial Impact
 
-No sales figures have been documented. Sabotage reached no. 11 on *Softalk*'s Top Thirty retail bestseller list for May 1981, its first month on the chart.[^ref-18] It placed 17th in *Softalk*'s readers' poll of the most popular programs of 1981.[^ref-17] Retro365 says it was also widely pirated.[^ref-4]
+No sales figures have been documented. Sabotage reached no. 11 on *Softalk*'s Top Thirty retail bestseller list for May 1981, its first month on the chart.[^ref-18] It was listed on the Top Thirty again for June 1981, in the August 1981 issue.[^ref-26] It placed 17th in *Softalk*'s readers' poll of the most popular programs of 1981.[^ref-17] Retro365 says it was also widely pirated.[^ref-4]
 
 ### Clones and Derivatives
 
@@ -203,10 +204,6 @@ Retro365 frames Sabotage as an exception in an era when most home computer actio
 
 On the technical side, Andy McFadden's disassembly documents pixel-accurate collision detection, single-pixel horizontal movement using seven pre-shifted copies of each shape, and exclusive-OR drawing on a single hi-res page.[^ref-1]
 
-## Purchase
-
-- Not currently sold on any modern digital storefront.
-
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -216,6 +213,9 @@ On the technical side, Andy McFadden's disassembly documents pixel-accurate coll
 - [My Abandonware – Sabotage](https://www.myabandonware.com/game/sabotage-7mh)[^ref-9]
 - [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage)[^ref-11]
 - [Virtual Apple ][ – Sabotage (play in browser)](https://www.virtualapple.org/sabotagedisk.html)[^ref-5]
+
+**Manuals & Extras**
+- None documented
 
 **Technical Documentation**
 - [6502 Disassembly – Sabotage](https://6502disassembly.com/a2-sabotage/) – Full technical disassembly by Andy McFadden[^ref-1]
@@ -285,3 +285,9 @@ On the technical side, Andy McFadden's disassembly documents pixel-accurate coll
 [^ref-23]: [Softline, September 1981 (vol. 1 no. 1) – High Scores (Internet Archive)](https://archive.org/details/Softline_1981_09/page/n29/mode/1up) – p. 28: "Sabotage, On-Line Systems, Coarsegold, CA, Steve Wozniak 13,678, Scott's Valley, CA"
 
 [^ref-24]: [Softline, November 1982 (vol. 2 no. 2) (Internet Archive)](https://archive.org/details/Softline_Magazine_Issue_2.2/page/n18/mode/1up) – Pest Patrol ad: "another fine HI-RES game by Mark Allen, author of SABOTAGE"; "Home Arcades: Mania or Mantra?" p. 17: Wozniak "the early record holder in Sabotage", "an adult favorite"
+
+[^ref-25]: [Softalk, November 1981 (Internet Archive)](https://archive.org/details/softalkv2n03nov1981) – *Softline* subscription advertisement: "Can you top Woz's score in Sabotage?"
+
+[^ref-26]: [Softalk, August 1981 (Internet Archive)](https://archive.org/details/softalkv1n12aug1981) – Top Thirty (June sales) list includes "Sabotage, Mark Allen, On-Line Systems"; rank not confirmed from the page image
+
+[^ref-27]: [Softalk, December 1981 (Internet Archive)](https://archive.org/details/softalkv2n04dec1981) – On-Line Systems catalogue: "Sabotage... Paddle or keyboard controlled. Either DOS. $24.95."
