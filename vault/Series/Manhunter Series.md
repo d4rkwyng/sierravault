@@ -7,20 +7,20 @@ first_release: 1988
 last_release: 1989
 total_games: 2
 genre: "Adventure, Science Fiction"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Manhunter Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1][^ref-11] MobyGames describes it as a "series of first-person adventure games, set in a world where alien 'Orbs' rule mankind", in which the player is a Manhunter employed by the Orbs to investigate the human resistance but eventually rebels against them.[^ref-2] The Murrys have said that "the tone of Manhunter was darker than other Sierra titles."[^ref-8]
+The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1][^ref-11] MobyGames describes it as a "series of first-person adventure games, set in a world where alien 'Orbs' rule mankind", in which the player is a Manhunter employed by the Orbs to investigate the human resistance but eventually rebels against them.[^ref-2] The Murrys have said that "the tone of Manhunter was darker than other Sierra titles."[^ref-8] Sources disagree on when Dee Dee Murry joined the team and in what capacity, so the credits below follow the cited sources; see [[Evryware]] for the conflict.[^ref-8][^ref-21]
 
 The series is unusual within the Sierra catalog for three reasons:
 
-1. **Not Sierra-developed** — Evryware was an outside developer. Sierra "gave us the engine and told us that we could do whatever we wanted with it. They didn't even see the game until it was almost done," the Murrys recalled.[^ref-8] This makes Manhunter one of the small set of Sierra Published-lineage adventure games in the vault.
+1. **Not Sierra-developed** — Evryware was an outside developer. Sierra "gave us the engine and told us that we could do whatever we wanted with it. They didn't even see the game until it was almost done," the Murrys recalled.[^ref-8] 
 2. **A silenced world, seen in first person** — Under the Orbs, "speaking is a capital offense", and the nameless Manhunter investigates through a first-person view and an overhead tracking map.[^ref-3] Unlike other AGI games, it used no text parser.[^ref-1]
 3. **A planned trilogy** — Posters throughout the series tease a third installment, *Manhunter 3: London*,[^ref-16] which was never made. See [[CXL - Manhunter 3]] for the cancelled-entry documentation.
 
@@ -42,7 +42,7 @@ The game opens with the New York skyline under attack in 2002; the main game is 
 - **Real NYC landmarks** — The player investigates Times Square, Grand Central, Coney Island, Central Park and the Museum of Natural History,[^ref-9] and Central Park is "now a minefield".[^ref-5]
 - **Action sequences** — Adventure Classic Gaming found the arcade sequences "annoying to play" and said they "bear little ties to the plot".[^ref-4]
 
-**Reception:** Computer Gaming World's Scorpia wrote: "In spite of the arcade sequences, this is a clever game that requires you to really look at the screen and remember what you see."[^ref-5] CGW nominated it for Adventure Game of the Year, an award won by Interplay's Neuromancer.[^ref-13] Adventure Classic Gaming later called its puzzles "sickeningly linear".[^ref-4] The Murrys said both Manhunter games "sold very well (more than 100,000 of each)."[^ref-8]
+**Reception:** Computer Entertainer (October 1988) called it "quite unlike any the company has ever released before" and "a fascinating and very sophisticated role-playing game that is quite out of the ordinary," rating it "Recommended."[^ref-20] Computer Gaming World's Scorpia wrote: "In spite of the arcade sequences, this is a clever game that requires you to really look at the screen and remember what you see."[^ref-5] CGW nominated it for Adventure Game of the Year, an award won by Interplay's Neuromancer.[^ref-13] Adventure Classic Gaming later called its puzzles "sickeningly linear".[^ref-4] The Murrys said both Manhunter games "sold very well (more than 100,000 of each)."[^ref-8]
 
 ## Manhunter 2: San Francisco (1989)
 
@@ -53,7 +53,7 @@ The sequel picks up "immediately where Manhunter: New York left off": the player
 - **Fewer arcade sequences** — Adventure Classic Gaming notes "there are less number of them in this sequel".[^ref-7] Scorpia called "the introduction of variable difficulty levels for the arcade sequences" the game's "one big change".[^ref-13]
 - **Cliffhanger ending** — Phil Cook escapes in an Orb ship bound for London with the player clinging to its hull; no third game followed.[^ref-6]
 
-**Reception:** Mixed. Adventure Classic Gaming rated it 3 of 5, saying its arcade sequences "unduly detract from the adventure element" and its puzzles were "still much too simple"; *Computer and Video Games* gave it 61%, criticizing the mix of adventure and arcade elements.[^ref-7][^ref-6]
+**Reception:** Contemporary and later sources diverge. In Computer Gaming World, Scorpia called it "Somewhat on the gruesome side, and therefore not for everyone, but otherwise an excellent followup to the previous game; a definite 'must have' for Manhunter fans."[^ref-13] Adventure Classic Gaming rated it 3 of 5, saying its arcade sequences "unduly detract from the adventure element" and its puzzles were "still much too simple"; *Computer and Video Games* gave it 61%, criticizing the mix of adventure and arcade elements.[^ref-7][^ref-6]
 
 ## Manhunter 3 (Cancelled)
 
@@ -69,9 +69,28 @@ The Murrys set out to make Manhunter look "as different from the standard Sierra
 4. **Suppressed-society premise** — "you are in a suppressed society and … in a position to do something about it"; aliens were chosen "because it would be obvious that they could not be defeated directly"[^ref-8]
 5. **Real-location settings** — "Using real locations (New York and San Francisco) added realism to the game."[^ref-8]
 
+## Critical Reception
+
+Both games drew positive notice from the period press and more qualified verdicts later, with the arcade sequences the recurring complaint.
+
+| Game | Notable Reception |
+|------|-------------------|
+| Manhunter: New York | Computer Entertainer, October 1988: "Recommended";[^ref-20] Scorpia (CGW): "a clever game that requires you to really look at the screen and remember what you see";[^ref-5] nominated for CGW's Adventure Game of the Year;[^ref-13] Adventure Classic Gaming: "sickeningly linear" puzzles[^ref-4] |
+| Manhunter 2: San Francisco | Scorpia (CGW): "an excellent followup to the previous game";[^ref-13] Adventure Classic Gaming: 3 of 5;[^ref-7] *Computer and Video Games*: 61%[^ref-6] |
+
 ## Legacy
 
-Neither game is sold digitally; both appear only as fan-request entries on the GOG Dreamlist.[^ref-10][^ref-19] ScummVM supports both titles through its AGI engine, rating each "Good".[^ref-15]
+Neither game is sold digitally; both appear only as fan-request entries on the GOG Dreamlist.[^ref-10][^ref-19] Evryware's 1997 interview says its authors did not own the Manhunter rights ("We own the rights to Ancient Art of War but not to Manhunter"),[^ref-8] and Wikipedia says the rights are now held by Activision following its 2008 acquisition of Sierra's intellectual property.[^ref-6] That Activision claim rests on Wikipedia alone; no primary source was found.
+
+## Playing Today
+
+### Purchase Links
+
+As of 2026-11-11 no GOG or Steam product page exists for either game; the only GOG entries are the community Dreamlist requests for [Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) and [Manhunter 2: San Francisco](https://www.gog.com/dreamlist/game/manhunter-2-san-francisco).[^ref-10][^ref-19] A 2025 Steam game titled "ManHunter" is unrelated to Sierra's series.
+
+### Compatibility
+
+ScummVM supports both titles through its AGI engine, rating each "Good".[^ref-15]
 
 ## See Also
 
@@ -102,3 +121,5 @@ Neither game is sold digitally; both appear only as fan-request entries on the G
 [^ref-17]: [MobyGames — Manhunter 2: San Francisco](https://www.mobygames.com/game/25/manhunter-2-san-francisco/) — Picks up "immediately"; crash-landing; Bay Area landmarks' "alien makeovers"
 [^ref-18]: [Manhunter: New York manual – Internet Archive](https://archive.org/details/Manhunter_-_New_York_-_Manual) — "Official … by The Order of the Orb Alliance"; MAD description
 [^ref-19]: [GOG Dreamlist — Manhunter 2: San Francisco](https://www.gog.com/dreamlist/game/manhunter-2-san-francisco) — Community request entry (not for sale)
+[^ref-20]: [Computer Entertainer, October 1988 (Vol. 7 No. 7) – Internet Archive](https://archive.org/details/computer-entertainer-7-7) — Review of Manhunter: New York: "quite unlike any the company has ever released before"; "Recommended"
+[^ref-21]: [Evryware — Team](https://www.evryware.com/team.html) — Dee Dee Murry "Lead Artist on the Evryware team since 1984"; worked on the Manhunter series
