@@ -1,9 +1,12 @@
 ---
 title: "News & Updates"
-updated: "2026-10-26"
+updated: "2026-11-11"
+last_updated: "2026-11-11"
 cssclass: news-page
 ---
 # 📰 News & Updates
+
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Latest releases, updates, and announcements for Sierra games and fan projects.
 
@@ -18,9 +21,14 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 >
 > **Update, October 23, 2026** — Both games were removed from Steam and GOG on October 23; GOG confirmed it would remove them that day as well. — [Delisted Games (Oct 23 update)](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) · Steam: [Don't Dry](https://store.steampowered.com/app/765870/), [Dry Twice](https://store.steampowered.com/app/1373430/) ("no longer available on the Steam store")
 
+> [!tip] Legends of Adventure — Animated AGI Vignettes, CNN Archive, Picture Lock by Year-End
+> **November 9, 2026** — The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team's BackerKit update announced that Ernst Krogtoft (Retro365, owner of Copenhagen's Moose Studio) is producing a series of animated vignettes in the style of Sierra's AGI games, for moments with no surviving photos or video. The film has also licensed footage from CNN's archives, including interviews with Ken Williams from the early 1980s and coverage of CUC International's acquisition of Sierra in the mid-1990s. The team's goal is to complete **picture lock by the end of this year**; backer surveys and details of the first screening are to follow.
+>
+> [BackerKit update "Re-animating the History of Sierra On-Line!"](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates)
+
 > [!example] October 2026
 > - **Oct 11** — ScummVM 2026.4.0 "Never-slop" released on the project's 25th anniversary; no Sierra titles among its newly supported games — [Announcement](https://www.scummvm.org/news/20261011/)
-> - **Oct 2–4** — [[Infamous Quests]] had a booth at RetroGameCon in Syracuse ("RetroGameCon in Syracuse is this weekend and we have a booth!"); [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] remains unreleased — [Bluesky (Sep 28)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r)
+> - **Oct 2–4** — [[Infamous Quests]] announced a booth at RetroGameCon in Syracuse ("RetroGameCon in Syracuse is this weekend and we have a booth!"); SierraVault has found no post-show source confirming attendance. [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] remains unreleased — [Bluesky (Sep 28)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r)
 
 ---
 
@@ -81,6 +89,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **April 3, 2026** — Adventure Game Hotspot reviewed the full release of [[2022 - SpaceVenture|SpaceVenture]] at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack. The game continues to receive fixes (v2.08.11, June 10).
 >
 > [AGH Review](https://adventuregamehotspot.com/review/6234/spaceventure) · [Steam announcements](https://steamcommunity.com/app/1374960/announcements/)
+
+> [!note] GOG Delists The Incredible Machine Mega Pack
+> **Between March 13 and May 4, 2026** — GOG removed *The Incredible Machine Mega Pack*, the bundle that included [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]]. A Wayback Machine capture of its store page from March 13, 2026 shows it live; a capture from May 4, 2026 shows the page redirecting (HTTP 302). SierraVault has found no announcement explaining the removal.
+>
+> [GOG page, live (Wayback, Mar 13, 2026)](https://web.archive.org/web/20260313030618/https://www.gog.com/en/game/the_incredible_machine_mega_pack) · [GOG page, redirecting (Wayback, May 4, 2026)](https://web.archive.org/web/20260504163616/https://www.gog.com/en/game/the_incredible_machine_mega_pack)
 
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to "finish recording all the lines for Mr. Roehm" in [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]]. In October 2025 he had written that once the voice work was done "it will just be editing the lines and implementing them into AGS, doing a final round of testing". He also aimed to show the team's work at **RetroGameCon in Syracuse in October 2026** (see the Q4 2026 entry: the game was still unreleased when the show took place).

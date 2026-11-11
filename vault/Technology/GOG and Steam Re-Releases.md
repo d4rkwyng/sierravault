@@ -94,7 +94,7 @@ Steam's Sierra coverage is smaller than GOG's but includes the main classic coll
 - **[[2023 - Pharaoh - A New Era|Pharaoh: A New Era]]** (Triskell Interactive / Dotemu, February 15, 2023)[^ref-10]
 - **[[1998 - Half-Life|Half-Life]]** — Valve owns and sells it.[^ref-41]
 
-**No longer on Steam:** [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — its store page says it "is no longer available on the Steam store"; it is still sold on GOG.[^ref-42] The classic Leisure Suit Larry games are gone too: in May 2025 Assemble Entertainment announced that LSL 1, 2, 3, 5, 6, 7 (Love for Sail) and Magna Cum Laude were being removed from Steam, while the GOG versions stayed on sale.[^ref-49] The Steam pages for LSL 1, 2, 5 and 7 now say they are "no longer available on the Steam store".[^ref-50]
+**No longer on Steam:** [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — its store page says it "is no longer available on the Steam store"; it is still sold on GOG.[^ref-42] The classic Leisure Suit Larry games are gone too: on April 30, 2025 Assemble Entertainment announced that LSL 1, 2, 3, 5, 6, 7 (Love for Sail) and Magna Cum Laude were being removed from Steam, while the GOG versions stayed on sale.[^ref-49] The Steam pages for LSL 1, 2, 5 and 7 now say they are "no longer available on the Steam store".[^ref-50]
 
 ### Steam-only vs. GOG
 
@@ -126,7 +126,7 @@ For Sierra titles NOT available on GOG or Steam:
 
 1. **Check legal status first** — An out-of-print game is still under copyright; "abandonware" is a community label, not a legal status. Check GOG and Steam before assuming a game is unavailable.
 2. **Use [[ScummVM]]** if you own original game data (CDs, floppies) — it runs AGI and SCI-engine titles on modern hardware.
-3. **Watch for licensing announcements** — The catalogue still changes: the classic Larry games left Steam after a May 2025 announcement, Leisure Suit Larry: Reloaded is gone from Steam, and Assemble removed its two Wet Dreams games from Steam and GOG on October 23, 2026.[^ref-49][^ref-42][^ref-38][^ref-45][^ref-46]
+3. **Watch for licensing announcements** — The catalogue still changes: the classic Larry games left Steam after an April 30, 2025 announcement, Leisure Suit Larry: Reloaded is gone from Steam, and Assemble removed its two Wet Dreams games from Steam and GOG on October 23, 2026.[^ref-49][^ref-42][^ref-38][^ref-45][^ref-46]
 4. **Vote on the GOG Dreamlist** — The [GOG Dreamlist](https://www.gog.com/dreamlist) lets users vote for titles to receive re-releases. Sierra entries include EcoQuest, Castle of Dr. Brain, The Black Cauldron, Manhunter: New York and Hoyle Classic Card Games.[^ref-11][^ref-27]
 
 ---
@@ -196,7 +196,7 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-46]: [Steam — Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) — checked October 26, 2026: "no longer available on the Steam store"
 [^ref-47]: [Steam — 3D Ultra™ Minigolf Adventures](https://store.steampowered.com/app/10140/) — Wanako Games / Activision, July 23, 2009; on sale (checked 2026-10-26)
 [^ref-48]: [Steam — Homeworld 3](https://store.steampowered.com/app/1840080/) — Developer Blackbird Interactive; publishers Gearbox Publishing, 2K; May 13, 2024
-[^ref-49]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) — Chris Scullion, May 1, 2025: "Leisure Suit Larry 1-7 (there was never a fourth game) and High Voltage Software’s Leisure Suit Larry: Magna Cum Laude are all being removed"
+[^ref-49]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) — Chris Scullion, May 1, 2025 (the Steam announcement itself is dated [April 30, 2025](https://store.steampowered.com/news/app/763970/view/1798454487579791)): "Leisure Suit Larry 1-7 (there was never a fourth game) and High Voltage Software’s Leisure Suit Larry: Magna Cum Laude are all being removed"
 [^ref-50]: [Steam — Leisure Suit Larry 1 - In the Land of the Lounge Lizards (app 763970)](https://store.steampowered.com/app/763970/) — checked October 26, 2026: "no longer available on the Steam store"; same notice on LSL 2 (765840), LSL 5 (765860) and LSL 7 (765890)
 [^ref-51]: [GOG.com — Return to Krondor](https://www.gog.com/en/game/return_to_krondor) — Developer PyroTechnix; publisher Activision (checked 2026-10-26)
 [^ref-52]: [GOG.com — Arcanum: Of Steamworks and Magick Obscura](https://www.gog.com/en/game/arcanum_of_steamworks_and_magick_obscura) — Developer Troika Games; publisher Activision (checked 2026-10-26)
