@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: null
 protagonist: Player (casino manager)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Hoyle Casino Empire (Casino Empire in Europe) is a 2002 Windows casino-management
   simulation developed in-house and published by Sierra Entertainment, in which the
   player builds and runs a series of Las Vegas casinos.
@@ -18,7 +18,7 @@ tags: [2000s, simulation, hoyle-casino, sierra]
 ---
 # Hoyle Casino Empire
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ According to Wikipedia, the player can raise the house edge as far as a cheating
 | GameZone | 8.4/10[^ref-24] | September 30, 2002 |
 | GameSpot | 5.9/10[^ref-23] | October 4, 2002 |
 | IGN | 6.2/10[^ref-26] | October 7, 2002 |
-| GameSpy | 3.5/5[^ref-17] | October 30, 2002 |
+| GameSpy | 3.5/5[^ref-22] | October 30, 2002 |
 | Gaming Nexus | 6.4[^ref-27] | November 8, 2002 |
 | Computer Gaming World | 3/5 (60%)[^ref-31][^ref-21] | January 2003 |
 
@@ -134,6 +134,19 @@ The credits list Cara Ely as casting and talent director, eight featured voice a
 
 The game is sprite-based, which Gaming Nexus said allowed "a massive number of people to be on screen without taking down your system"[^ref-27]. It uses RAD Game Tools' Bink Video and the Miles Sound System, and shipped on CD-ROM[^ref-18][^ref-20].
 
+### Technical Specifications
+
+Computer Gaming World's review box lists the following requirements[^ref-31]:
+
+| | Minimum | Recommended |
+|---|---------|-------------|
+| CPU | Pentium II 300 | Pentium II 450 |
+| RAM | 64 MB | 128 MB |
+| Hard drive | 665 MB | Not listed |
+| Multiplayer | None | |
+
+MobyGames' record for the Windows release adds Windows 98 as the minimum operating system, DirectX 7.0, a 4x CD-ROM drive, full-screen display at 800x600, keyboard and mouse input, and one offline player[^ref-20]. The game shipped on CD-ROM, and the 2008 iWin release was a download[^ref-20]. Computer Gaming World gave the game's website as casinoempire.sierra.com[^ref-31].
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -149,6 +162,8 @@ The game is sprite-based, which Gaming Nexus said allowed "a massive number of p
 
 **Alternate titles:** Casino Empire; Hoyle Casino Empire: Build It. Run It. Rule It.; Casino Empire: Construisez et bâtissez Las Vegas (French); Casino Empire: Construa, administre e domine Las Vegas (Portuguese)[^ref-18][^ref-13].
 
+**Age ratings:** MobyGames lists USK 0 (Germany), ELSPA 11+ (UK), ACB G8+ (Australia) and SELL TP (France) alongside the ESRB's Teen[^ref-20].
+
 **ESRB rating:** Teen. The ESRB's record for the original Sierra Entertainment release gives the descriptors Gambling, Mild Language and Suggestive Themes[^ref-33]; GameSpy and IGN listed Mild Language, Simulated Gambling and Suggestive Themes[^ref-22][^ref-26], the same descriptors as the ESRB's later Encore Software rating[^ref-34].
 
 ## Legacy
@@ -162,6 +177,7 @@ Reviewers at the time treated Casino Empire as Sierra's first try at taking the 
 
 **Download / Preservation**
 - [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2)[^ref-13]
+- [Internet Archive – Hoyle Casino Empire Demo](https://archive.org/details/si_casinoempire_demo): an official 2002 demo, listed under Sierra Entertainment as a single installer file[^ref-35]
 
 **Manuals & Extras**
 - The printed manual was written by Ryan Spain[^ref-19]
@@ -232,7 +248,7 @@ Reviewers at the time treated Casino Empire as Sierra's first try at taking the 
 [^ref-17]: [Wikipedia – Hoyle Casino Empire](https://en.wikipedia.org/wiki/Hoyle_Casino_Empire) – in-house Sierra development, release dates, genre, series, game modes and mechanics, review scores
 [^ref-18]: [MobyGames – Hoyle Casino Empire](https://www.mobygames.com/game/8033/hoyle-casino-empire/) – release date, credits count, genre/perspective, ESRB, middleware, alternate titles, game description
 [^ref-19]: [MobyGames – Hoyle Casino Empire credits (Windows)](https://www.mobygames.com/game/8033/hoyle-casino-empire/credits/windows/) – full development credits, composer, voice cast, licensed music
-[^ref-20]: [MobyGames – Hoyle Casino Empire releases](https://www.mobygames.com/game/8033/hoyle-casino-empire/releases/) – regional release dates and distributors, 2004 UK Sold Out re-release, 2008 iWin download release
+[^ref-20]: [MobyGames – Hoyle Casino Empire releases](https://www.mobygames.com/game/8033/hoyle-casino-empire/releases/) – regional release dates and distributors, 2004 UK Sold Out re-release, 2008 iWin download release, system requirement attributes, USK/ELSPA/ACB/SELL ratings (read via the MobyGames API)
 [^ref-21]: [MobyGames – Hoyle Casino Empire reviews](https://www.mobygames.com/game/8033/hoyle-casino-empire/reviews/) – 14 critic scores, 65% average, CGW 60%, player average
 [^ref-22]: [GameSpy – Casino Empire review, Kevin Rice, October 30, 2002 (Wayback)](https://web.archive.org/web/20120101191715/http://pc.gamespy.com/pc/casino-empire/582653p1.html) – pros/cons, "first building sim-type game with the Hoyle name", ESRB descriptors, release date
 [^ref-23]: [GameSpot – Casino Empire review, Andrew Park, October 4, 2002 (Wayback)](https://web.archive.org/web/20070930230411/http://www.gamespot.com/pc/strategy/casinoempire/review.html) – 5.9 score, "Sierra Attractions", missing interface features, celebrity spoofs, licensed music, $40 price
@@ -243,7 +259,8 @@ Reviewers at the time treated Casino Empire as Sierra's first try at taking the 
 [^ref-28]: [Worthplaying – Casino Empire Announced (February 19, 2002)](https://www.worthplaying.com/article/2002/2/19/news/2425-casino-empire-announced/) – announcement, Steve Beinner quote, fall worldwide release
 [^ref-29]: [IGN – Casino Empire preview, Steve Butts, June 27, 2002 (Wayback)](https://web.archive.org/web/20131206043402/http://www.ign.com/articles/2002/06/27/casino-empire) – van Horn and Bodenbender demo, new engine, eight casinos and their real-casino models, rival tactics, music, celebrity parodies
 [^ref-30]: [IGN – Casino Empire Announced, Dan Adams, February 19, 2002 (Wayback)](https://web.archive.org/web/20190817213456/https://www.ign.com/articles/2002/02/19/casino-empire-announced) – announcement, Steve Beinner quote and title
-[^ref-31]: [Computer Gaming World #222 (January 2003), p. 125 – "Casino Empire: A tycoon game for mobster kids", John Fletcher (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_222) – 3/5 verdict, review quotes, RollerCoaster Tycoon comparison, tournaments, $39.99 price
+[^ref-31]: [Computer Gaming World #222 (January 2003), p. 125 – "Casino Empire: A tycoon game for mobster kids", John Fletcher (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_222) – 3/5 verdict, review quotes, RollerCoaster Tycoon comparison, tournaments, $39.99 price, system requirements
 [^ref-32]: [Computer Gaming World #220 (November 2002), p. 64 – "Casino Empire" preview, John Houlihan (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_220) – pre-release description of the game
 [^ref-33]: [ESRB – Casino Empire (Sierra Entertainment)](https://www.esrb.org/ratings/7855/casino-empire/) – Teen rating, Gambling, Mild Language, Suggestive Themes
 [^ref-34]: [ESRB – Casino Empire (Encore Software)](https://www.esrb.org/ratings/11005/casino-empire/) – Teen rating for the Encore Software release, Mild Language, Simulated Gambling, Suggestive Themes
+[^ref-35]: [Internet Archive – Hoyle Casino Empire Demo](https://archive.org/details/si_casinoempire_demo) – 2002 demo item, Sierra Entertainment, single installer file
