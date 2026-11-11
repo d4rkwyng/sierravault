@@ -4,13 +4,13 @@ type: developer
 founded: 1978
 defunct: 1999
 headquarters: "Seattle area (Renton from 1982)"
-notable_games: ["Birthright: The Gorgon's Alliance", "Diablo: Hellfire", "Thexder 95"]
+notable_games: ["Spirit of Excalibur", "Thexder 95", "Birthright: The Gorgon's Alliance", "Conan: The Cimmerian", "Diablo: Hellfire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Synergistic Software
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,6 +30,8 @@ Softalk's 1982 profile of the company records that "It was Ann's father who came
 
 As the IBM PC became the dominant platform, Synergistic kept going as an independent developer, and MobyGames notes that it became known for its porting work in that era.[^ref-11][^ref-23] According to Polygon, the studio took contract jobs such as *The Beverly Hillbillies* and *Homey D. Clown* to pay the bills. Publishers who were happy with that work invited Clardy to pitch original designs, which led to projects such as *Spirit of Excalibur*.[^ref-21]
 
+Some of that contract work was for Sierra years before the takeover. MobyGames credits Synergistic as porter of Game Arts' [[1985 - Thexder|Thexder]] for the Apple II (1987), the Apple IIgs (September 1987) and the TRS-80 Color Computer (1988), all published by Sierra On-Line, and of [[1988 - Silpheed|Silpheed]] for the TRS-80 Color Computer (1988).[^ref-40][^ref-41] Wikipedia's list of Synergistic software also names MS-DOS ports of *Thexder* and *The Fool's Errand* (1986), MS-DOS and Apple IIGS ports of *Silpheed*, and an Atari 8-bit port of *Pitstop II* (1984).[^ref-18] Other titles on that list include *Escape from Arcturus* (1981), *Apventure to Atlantis* (1982), *Higher Text II* (1980), *Spectre* (1994) and *Carrier Aces* (1995).[^ref-18] MobyGames also lists *Laser Surgeon: The Microscopic Mission* (1987), an educational surgery game for DOS and the TRS-80 Color Computer, as developed by Synergistic and published by Activision.[^ref-42]
+
 None of the World Builder games were published by Sierra. *J.R.R. Tolkien's War in Middle Earth* was released under the Melbourne House label.[^ref-27] Virgin published *Spirit of Excalibur* (1990), *Vengeance of Excalibur* (1991) and *Conan: The Cimmerian* (1991).[^ref-24][^ref-25][^ref-26] The CRPG Addict notes that Synergistic adapted the same engine for *Warriors of Legend* and *The Beverly Hillbillies* (both 1993).[^ref-28]
 
 ### Sierra Era
@@ -48,13 +50,21 @@ According to MobyGames, the Clardys started a company called Eclectic Games in 1
 
 Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published it for MS-DOS, Amiga, Atari ST, CDTV, Apple IIGS and Macintosh.[^ref-24] The player starts as Lord Constantine and eventually commands many knights and their armies, with the aim of uniting Britain under a single king. Play switches between a scrolling map of Britain and close-up "scene level" encounters.[^ref-24]
 
-### Birthright: The Gorgon's Alliance
+### Thexder 95 (1995)
+
+*Thexder 95* is Synergistic's remake of the first *Thexder* for Windows 95, released by Sierra.[^ref-31]
+
+### Birthright: The Gorgon's Alliance (1997)
 
 *Birthright: The Gorgon's Alliance* is based on TSR's *Birthright* campaign setting for *Dungeons & Dragons*. The player rules a realm in Anuire and competes with other regents through warfare, diplomacy, magic and holdings on a turn-based world map, while adventures are played in real-time 3D.[^ref-29] Wikipedia dates its North American release to July 1997. IGN reported that Synergistic had worked on *Birthright* before the studio was folded into Sierra's sports division.[^ref-22][^ref-29]
 
 ### Conan: The Cimmerian (1991)
 
 *Conan: The Cimmerian* is an action-adventure game with role-playing elements, based on Robert E. Howard's barbarian. Virgin Games published it in 1991 for Amiga and MS-DOS.[^ref-26] It used Synergistic's World Builder engine, and the CRPG Addict rated it above both Excalibur games.[^ref-28]
+
+### Diablo: Hellfire (1997)
+
+*Hellfire*, the expansion to Blizzard's *Diablo*, was developed by Synergistic as a division of Sierra and published by Sierra On-Line in 1997.[^ref-30] Polygon reports that CUC management assigned it to the studio and, citing Clardy, that it was far and away Synergistic's most financially successful project.[^ref-21]
 
 ## Key People
 
@@ -68,20 +78,32 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 
 ### In This Archive (Sierra-Published)
 
-- **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
-- **1997** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
-- **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG
-- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Genre: Sports[^ref-11]
-- **1998** — [[CXL - Front Page Sports - Football Pro '99|NFL Football Pro '99]] — Genre: Sports (recalled January 1999)[^ref-11][^ref-38]
+| Year | Game | Genre |
+|------|------|-------|
+| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Action |
+| 1997 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Strategy/RPG |
+| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Action RPG |
+| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Sports[^ref-11] |
+| 1998 | [[CXL - Front Page Sports - Football Pro '99\|NFL Football Pro '99]] | Sports (recalled January 1999)[^ref-11][^ref-38] |
+
+### Ports for Sierra (Game Arts originals)
+
+| Year | Game | Genre |
+|------|------|-------|
+| 1987 | [[1985 - Thexder\|Thexder]] (Apple II and Apple IIgs ports; 1988 TRS-80 Color Computer port) | Action[^ref-40] |
+| 1988 | [[1988 - Silpheed\|Silpheed]] (TRS-80 Color Computer port) | Shooter[^ref-41] |
 
 ### Other Games (not in archive)
-- **1988/1989** — J.R.R. Tolkien's War in Middle Earth — Strategy (Melbourne House); Wikipedia dates it 1988, MobyGames gives 1989 for the DOS, Amiga, Atari ST and Apple IIGS versions[^ref-27][^ref-39]
-- **1990** — Spirit of Excalibur — Strategy/RPG (Virgin)
-- **1991** — Vengeance of Excalibur — Strategy/RPG (Virgin)
-- **1991** — Conan: The Cimmerian — Action/Adventure (Virgin)
-- 1993 — The Beverly Hillbillies — Adventure (Capstone Software)[^ref-37]
-- **1995** — Air Cavalry — Genre: Flight Simulation (Cybersoft/GameTek)
-- Laser Surgeon: The Microscopic Mission — 1987 (Activision)
+
+| Year | Game | Genre |
+|------|------|-------|
+| 1987 | Laser Surgeon: The Microscopic Mission (Activision) | Educational/Simulation[^ref-42] |
+| 1988/1989 | J.R.R. Tolkien's War in Middle Earth (Melbourne House); Wikipedia dates it 1988, MobyGames gives 1989 for the DOS, Amiga, Atari ST and Apple IIGS versions | Strategy[^ref-27][^ref-39] |
+| 1990 | Spirit of Excalibur (Virgin) | Strategy/RPG[^ref-24] |
+| 1991 | Vengeance of Excalibur (Virgin) | Strategy/RPG[^ref-25] |
+| 1991 | Conan: The Cimmerian (Virgin) | Action/Adventure[^ref-26] |
+| 1993 | The Beverly Hillbillies (Capstone Software) | Adventure[^ref-37] |
+| 1995 | Air Cavalry (Cybersoft in North America, GameTek in Europe) | Flight Simulation[^ref-43][^ref-44] |
 
 ## References
 
@@ -111,3 +133,8 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 [^ref-37]: [MobyGames - The Beverly Hillbillies](https://www.mobygames.com/game/3291/the-beverly-hillbillies/) — Game 3291 (API-verified): DOS release developed by Synergistic Software, published by Capstone Software
 [^ref-38]: [CNNfn – Sierra Sports recalls Football Pro 99 (January 21, 1999, Wayback)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) — Sierra recalled NFL Football Pro '99, "which shipped to retailers just four weeks ago"
 [^ref-39]: [MobyGames - J.R.R. Tolkien's War in Middle Earth](https://www.mobygames.com/game/1477/jrr-tolkiens-war-in-middle-earth/) — Game 1477 (read via the MobyGames API): 1989 releases for DOS, Amiga, Atari ST and Apple IIgs; developed by Synergistic Software, published by Melbourne House
+[^ref-40]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) — Game 49 (read via the MobyGames API): Apple II (1987), Apple IIgs (1987-09) and TRS-80 CoCo (1988) releases published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
+[^ref-41]: [MobyGames - Silpheed](https://www.mobygames.com/game/167/silpheed/) — Game 167 (read via the MobyGames API): TRS-80 CoCo release (1988) published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
+[^ref-42]: [MobyGames - Laser Surgeon: The Microscopic Mission](https://www.mobygames.com/game/9954/laser-surgeon-the-microscopic-mission/) — Game 9954 (read via the MobyGames API): DOS release (1987) "Developed by" Synergistic Software, Inc., "Published by" Activision; also a TRS-80 CoCo version; genres Educational, Simulation
+[^ref-43]: [MobyGames - Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) — Game 10134 (read via the MobyGames API): SNES release (June 1995) developed by Synergistic Software, published by Cybersoft
+[^ref-44]: [Wikipedia - Air Cavalry](https://en.wikipedia.org/wiki/Air_Cavalry) — Flight simulation for the Super NES developed by Synergistic Software; released by Cybersoft and GameTek in 1995
