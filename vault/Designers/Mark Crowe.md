@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Space Quest series", "Police Quest III: The Kindred", "Earthsiege series", "Godzilla: Destroy All Monsters Melee", "Rampage: Total Destruction"]
 companies: ["Sierra On-Line", "Dynamix", "Pipeworks Software", "Guys From Andromeda"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Mark Crowe
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -35,6 +35,8 @@ He told Adventure Gamers in 2002: "I've always considered Space Quest 4 to be ou
 
 Beyond Space Quest, he directed [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and was art designer, background artist and animator on it, was project coordinator on Police Quest II, and did the cover art for Leisure Suit Larry III.[^ref-16][^ref-2] Retro365 credits him with "a pivotal role in advising Walls on game design" on the first Police Quest, designed by [[Jim Walls]].[^ref-31] Asked what he would change about the Space Quest games, he said: "I've been called a perfectionist because I don't know when to leave things alone."[^ref-6]
 
+In a 2018 Dev Game Club interview, Crowe talked through his first exposure to computers, teaming up with Murphy, prototyping Space Quest, the origin of Roger Wilco, and the layoffs he calls the "cart debacle" (as the show notes put it), among other topics.[^ref-33]
+
 ### Dynamix Years (1991–1999)
 
 "Well, in 1991 my wife and I decided to move our young family to beautiful, green Oregon. A place where we spent many family summer vacations traveling to and dreamed of living some day," Crowe said; he transferred to Dynamix, which Sierra owned.[^ref-9] The original partnership ended around this time: Gamasutra wrote in 2012 that twenty years earlier the pair had "parted ways after a falling out," and the two described "the high pressure environment at Sierra in the early 90s that led to their split," admitting they had been "younger and less mature" then.[^ref-7]
@@ -57,7 +59,7 @@ As studio design director he "had a hand in countless other projects at Pipework
 
 In 2012 Crowe left Pipeworks and started Guys From Andromeda with Murphy and Chris Pope.[^ref-1] The company's site names it Guys From Andromeda LLC and calls Pope a co-founder.[^ref-29] After a successful Kickstarter campaign, which closed in June 2012 with 10,809 backers pledging $539,767 against a $500,000 goal, they began work on SpaceVenture, a spiritual successor to Space Quest.[^ref-1][^ref-19][^ref-28] Crowe said of the reunion: "I realized years ago it was our partnership that made these games great, and it's something I haven't experienced in the last 15, 20 years since I've been away from Sierra. I realized how much I missed that… we've come full circle back to our original way of working together."[^ref-7]
 
-In 2015, while Murphy was away from the project, Crowe and Pope turned a SpaceVenture sequence into a standalone game, Cluck Yegger in Escape From The Planet of The Poultroid, to bring in more funding.[^ref-1] Steam lists Guys From Andromeda LLC as its developer and November 9, 2015 as its release date.[^ref-30] [[2022 - SpaceVenture|SpaceVenture]] went out to Kickstarter backers on September 16, 2022,[^ref-24][^ref-25] reached Steam Early Access on April 1, 2025,[^ref-25] and had its full release on December 23, 2025.[^ref-26]
+In 2015, while Murphy was away from the project, Crowe and Pope turned a SpaceVenture sequence into a standalone game, Cluck Yegger in Escape From The Planet of The Poultroid, to bring in more funding.[^ref-1] Steam lists Guys From Andromeda LLC as its developer and November 9, 2015 as its release date.[^ref-30] In a November 2025 episode of The Retro Hour podcast, Crowe discussed how he went from never having touched a computer to co-creating Space Quest, his work with Roberta Williams and on Disney titles, and the reunion with Murphy that led to SpaceVenture, according to the episode description.[^ref-32] [[2022 - SpaceVenture|SpaceVenture]] went out to Kickstarter backers on September 16, 2022,[^ref-24][^ref-25] reached Steam Early Access on April 1, 2025,[^ref-25] and had its full release on December 23, 2025.[^ref-26]
 
 ## Notable Works
 
@@ -80,6 +82,10 @@ Crowe's lead credits on the Pipeworks Godzilla games are Godzilla: Destroy All M
 ### Rampage: Total Destruction (2006)
 
 Crowe has said that Rampage: Total Destruction, a Wii launch title, sold over a million units.[^ref-9]
+
+## Design Philosophy
+
+Crowe's own account of the Space Quest approach was comedic: "We wanted to make a space farce that lampooned the Sci Fi genre and were confident there was an audience for such a title," built around an unlikely hero, a space janitor.[^ref-6] He named his influences as "the Star Wars films, 2001, Planet of the Apes, Trek," and "Douglas Adams (Hitchhiker's Guide), Gary Larson (Farside), and B.Kliban," though the team "intentionally stayed clear of satirizing [Trek] up to SQ4."[^ref-11] By the fifth game he felt the series had run short: "We were just out of original ideas and I relied too heavily on Star Trek:The Next Generation spoofs."[^ref-6] He describes himself as a perfectionist who does not "know when to leave things alone."[^ref-6]
 
 ## Legacy
 
@@ -107,7 +113,7 @@ Credits follow MobyGames unless noted.[^ref-16]
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Project Coordinator
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Role: Cover Art
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Designer, Programmer, Art/Graphics
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Actor (listed under Audio); Acting/Voiceovers on the 1992 CD-ROM version[^ref-16][^ref-2]
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Actor (listed under Audio); Acting/Voiceovers on the 1992 CD-ROM version. MobyGames dates the DOS credit 1991; the game's own page dates the release 1990[^ref-16][^ref-2]
 - **1991** — Mixed-Up Mother Goose (VGA/CD-ROM, 1991–92) — Role: Art Designer, Animator, Background Artist[^ref-27]; Crowe gives his roles as "Director/ Art Director/Background Designer/ Animator" on what he calls "Sierra's first CD-ROM title"[^ref-6]
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Director, Art Designer, Animator
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Co-Designer
@@ -169,3 +175,5 @@ Credits follow MobyGames unless noted.[^ref-16]
 [^ref-29]: [Guys From Andromeda - official site](http://guysfromandromeda.com/) — "Guys From Andromeda LLC co-founder Chris Pope"
 [^ref-30]: [Steam - Cluck Yegger in Escape From The Planet of The Poultroid](https://store.steampowered.com/app/416800/) — Developer and publisher: Guys From Andromeda LLC; released Nov 9, 2015
 [^ref-31]: [Retro365 - Police Quest: police officer turned game designer](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) — Ernst Krogtoft, September 6, 2021: Crowe advised Walls on PQ1 design; Crowe and Jane Jensen "stepped in" to finish PQ3
+[^ref-32]: [The Retro Hour - "I'd Never Even Seen a Computer Until I Worked at Sierra!" - Mark Crowe on Space Quest (YouTube)](https://www.youtube.com/watch?v=SgnDsrUes1k) — Podcast episode published November 3, 2025; episode description: Roberta Williams, Disney work, and the reunion that brought SpaceVenture to life (description only; episode not transcribed)
+[^ref-33]: [Dev Game Club - Ep 110: Interview with Mark Crowe](https://www.devgameclub.com/blog/2018/4/25/dgc-ep-110-interview-with-mark-crowe) — April 25, 2018 show notes: topics include first exposure to computers, meeting Scott, prototyping, origin of Roger Wilco, layoffs and the "cart debacle," SpaceVenture development (show notes only; audio not transcribed)
