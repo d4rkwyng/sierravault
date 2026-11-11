@@ -1,14 +1,14 @@
 ---
 title: "Awards"
 type: reference
-last_updated: "2026-10-26"
-description: "Verified industry awards and honours for Sierra On-Line games and creators: Computer Gaming World awards and Hall of Fame, SPA Excellence in Software Awards, Interactive Achievement / DICE Awards, BAFTA nominations, the World Video Game Hall of Fame, The Game Awards, GDCA and the Adventure Game Hall of Fame."
+last_updated: "2026-11-11"
+description: "Verified industry awards and honours for Sierra On-Line games and creators: Computer Gaming World awards and Hall of Fame, SPA Excellence in Software Awards, Interactive Achievement / DICE Awards, BAFTA nominations, the World Video Game Hall of Fame, The Game Awards, GDCA, the AGS Awards, the Gerald Lawson Award and the Adventure Game Hall of Fame."
 tags: [reference, awards, recognition, hall-of-fame]
 ---
 
 # Awards
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -68,6 +68,7 @@ The Academy of Interactive Arts & Sciences' Interactive Achievement Awards (late
 | June 1994 (#119) | Gabriel Knight: Sins of the Fathers — Virginia Capers (narrator) | Premier Award for Best Voice-over Acting (Female), its inaugural recipient[^ref-cgw-119] |
 | June 1994 (#119) | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] (Dynamix) | Premier Role-Playing Game of the Year[^ref-cgw-119] |
 | June 1994 (#119) | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] (Dynamix) | Premier Sports Game of the Year[^ref-cgw-119] |
+| June 1994 (#119) | [[1993 - Fates of Twinion\|Shadow of Yserbius: Fates of Twinion]] (Sierra Network / Imagination Network) | On-Line Game of the Year, finalist (the Premier award went to Multi-Player BattleTech)[^ref-cgw-119-ol] |
 | May 1995 (#130) | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] (Dynamix) | Premier Sports Game of the Year, the series' third in a row[^ref-cgw-130] |
 | May 1995 (#130) | [[1994 - Aces of the Deep\|Aces of the Deep]] (Dynamix) | Premier Simulation award, co-winner with [[1994 - NASCAR Racing\|NASCAR Racing]][^ref-cgw-130] |
 | June 1996 (#143) | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Premier Game of the Year (overall)[^ref-cgw-143] |
@@ -98,7 +99,7 @@ The Software Publishers Association presented its Excellence in Software Awards 
 | Year | Category | Title |
 |------|----------|-------|
 | 1991 | Best Fantasy Role-Playing/Adventure Program | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]][^ref-cgw-83] |
-| 1991 | Best Early Education Program | *Mixed-Up Mother Goose* (1991 multimedia CD version; no vault page yet)[^ref-cgw-83] |
+| 1991 | Best Early Education Program | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (1991 multimedia version)[^ref-cgw-83] |
 
 ---
 
@@ -108,6 +109,14 @@ The Software Publishers Association presented its Excellence in Software Awards 
 |------|----------|-------|-------|
 | 2007 (4th BAFTA) | Strategy and Simulation (nominee) | [[2007 - World in Conflict\|World in Conflict]] | Massive Entertainment / Sierra Entertainment; Wii Sports won.[^ref-bafta-4] |
 | 2007 (4th BAFTA) | Multiplayer (nominee) | [[2007 - World in Conflict\|World in Conflict]] | Wii Sports won.[^ref-bafta-4] |
+
+---
+
+## AGS Awards (Adventure Game Studio community)
+
+| Year | Award | Title | Notes |
+|------|-------|-------|-------|
+| 2011 | Best Non-Player Character (winner) | [[2011 - Space Quest - Vohaul Strikes Back\|Space Quest: Vohaul Strikes Back]] | Awarded for the character Rodney; fan-made game by Team VSB.[^ref-sqvsb] |
 
 ---
 
@@ -145,6 +154,7 @@ CGW's "150 Best Games of All Time" (issue 148, November 1996) included Sierra-fa
 |------|-----------|------------|-------|
 | 2014 | [[Ken Williams]] and [[Roberta Williams]] | The Game Awards (Industry Icon Award) | Shared award[^ref-tga-2014] |
 | 2020 | [[Roberta Williams]] | Game Developers Choice Awards (Pioneer Award) | [^ref-gdca-20] |
+| 2025 | [[Muriel Tramis]] | IGDA Foundation (Gerald Lawson Award) | Announced March 3, 2025; recognizes achievement in game development[^ref-igdaf-lawson] |
 | 2024 | [[Ken Williams]] and [[Roberta Williams]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Inaugural class of 2024, alongside the games [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] and [[1984 - King's Quest - Quest for the Crown\|King's Quest]][^ref-jensen-aghos] |
 | 2024 | [[Jane Jensen]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Inaugural class of 2024[^ref-jensen-aghos] |
 | 2024 | [[Al Lowe]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Final nominee for the inaugural class (nomination, not induction)[^ref-lowe-aghos] |
@@ -198,3 +208,6 @@ Several primary documents are useful for verifying specific award claims:
 [^ref-iaa-11]: [Wikipedia — 11th Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/11th_Annual_Interactive_Achievement_Awards) — February 8, 2008: World in Conflict nominated for Strategy/Simulation and Outstanding Achievement in Online Gameplay
 [^ref-bafta-4]: [Wikipedia — 4th British Academy Games Awards](https://en.wikipedia.org/wiki/4th_British_Academy_Games_Awards) — 23 October 2007: World in Conflict (Massive Entertainment/Sierra Entertainment) nominated for Strategy and Simulation and for Multiplayer
 [^ref-strong-kq]: [The Strong National Museum of Play — King's Quest](https://www.museumofplay.org/games/kings-quest/) — World Video Game Hall of Fame: "King's Quest Inducted Year: 2020"
+[^ref-cgw-119-ol]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) — On-Line Game of the Year finalists: "The Imagination Network brought out a new version of Shadow of Yserbius: Fates of Twinion, their extremely successful on-line fantasy role-playing game"; "The PREMIER On-Line Game of the Year is Multi-Player BattleTech"
+[^ref-sqvsb]: [Team VSB — Vohaul Strikes Back (official site)](https://www.sqvsb.com/) — "Winner for Best Non-Player Character (Rodney) at the 2011 AGS Awards"
+[^ref-igdaf-lawson]: [IGDA Foundation — 2025 Gerald Lawson Award Winner: Muriel Tramis](https://www.igdafoundation.org/news/a/2025-gerald-lawson-award-winner-muriel-tramis) — "The IGDA Foundation (IGDA-F) is proud to honor Muriel Tramis with this year's Gerald Lawson Award"; posted March 3
