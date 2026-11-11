@@ -5,11 +5,11 @@ birth_year: 1946
 death_year: null
 notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,19 +31,21 @@ Sierra bought Texas Instruments' existing Disney licence rather than paying Disn
 
 Lowe says the animation process improved once Sierra borrowed a trick Disney animators had used in the 1920s: alignment with registration marks. He hedges on whose idea that was ("well, I think it may have been me!"), but he does describe suggesting that a registration mark be placed inside each animation cel, so that the animator could tell the programmer where to align it.[^ref-12] He also wrote macros for an early Logitech three-button mouse that, he said, "floated around Sierra for years."[^ref-12] Finding artists was hard: "There was no such thing as a computer artist. In fact, we had difficulty hiring any artists to create the games, because back then art majors and those with artistic bent wanted to stay away from computers."[^ref-12]
 
-His first 3-D animated graphic adventure was The Black Cauldron, based on the 1985 Disney film.[^ref-24] He has said the game was built in the game room of Ken Williams's house during a lean period at Sierra, with Mark Crowe, Scott Murphy and Ken himself writing code around a big table.[^ref-5] Of Disney's oversight he said: "We realized quickly that they insisted on having input. But the longer we could delay them seeing the product, the less changes they could make! They never made improvements, just made things different."[^ref-12]
+His first 3-D animated graphic adventure was The Black Cauldron, based on the 1985 Disney film.[^ref-24] He has said the game was built in the game room of Ken Williams's house during a lean period at Sierra, with Mark Crowe, Scott Murphy and Ken himself writing code around a big table.[^ref-5] Of Disney's oversight he said: "We realized quickly that they insisted on having input. But the longer we could delay them seeing the product, the less changes they could make! They never made improvements, just made things different."[^ref-12] In a February 2026 interview with Spillhistorie.no he described the same approach to his Disney work: he told Disney's staff he was too busy to talk until a game was done, and when they then sent a long list of changes (a red leaf instead of a green one, for example), Ken Williams's answer was to "ship it." He also named Goofy's Word Factory as another Disney title he worked on that was never released.[^ref-33]
 
-Accounts differ on how Leisure Suit Larry began. IGN's 2014 account says Ken Williams asked Lowe whether he wanted to do a graphical remake of Chuck Benton's adult text adventure Softporn Adventure.[^ref-26][^ref-12] In Lowe's own telling to Adventure Classic Gaming, it was he who "remembered Softporn's success" after Sierra lost its Disney rights.[^ref-5] Both accounts agree that he found the game badly dated. In the ACG version he told Ken, "There's no way I can do this as a serious game. It's so out of it that it should be wearing a leisure suit," and added, "But if you let me mock it, I might be able to do a spoof of it."[^ref-5] Leisure Suit Larry in the Land of the Lounge Lizards followed in 1987.[^ref-25]
+Accounts differ on how Leisure Suit Larry began. IGN's 2014 account says Ken Williams asked Lowe whether he wanted to do a graphical remake of Chuck Benton's adult text adventure Softporn Adventure.[^ref-26][^ref-12] In Lowe's own telling to Adventure Classic Gaming, it was he who "remembered Softporn's success" after Sierra lost its Disney rights.[^ref-5] Both accounts agree that he found the game badly dated. In the ACG version he told Ken, "There's no way I can do this as a serious game. It's so out of it that it should be wearing a leisure suit," and added, "But if you let me mock it, I might be able to do a spoof of it."[^ref-5] Benton, in a December 2025 interview with Spillhistorie.no, said Ken Williams offered him either a one percent royalty or a check for $5,000 for the story, and that he took the $5,000.[^ref-34] Leisure Suit Larry in the Land of the Lounge Lizards followed in 1987.[^ref-25]
 
-Lowe and his family moved to the Seattle area in 1994.[^ref-24] He was laid off in February 1999 (his own bio says 1998), one of several veteran Sierra designers let go in a mass layoff.[^ref-11][^ref-24][^ref-7]
+Lowe and his family moved to the Seattle area in 1994.[^ref-24] He was laid off in February 1999 (his own bio says 1998), one of several veteran Sierra designers let go in a mass layoff.[^ref-11][^ref-24][^ref-7] Lowe's own later account of his status is more complicated. In the February 2026 interview he said that after he resigned from teaching to work for Williams full-time, the company cut its staff from 120 to 40 in a single day about six months in, himself included. Williams then asked him to keep working on advances against future royalties, and "for the next 15 and a half years I was an outside contractor who only worked on a contract basis."[^ref-33]
 
-### Later Career
+### Post-Sierra Career
 
 Lowe was not involved in Vivendi's Leisure Suit Larry: Magna Cum Laude, and he had to buy a copy at full price when it came out. His reaction: "it was like receiving a ransom video from my son's kidnappers: on one hand, it was nice to know he was still alive, but oh God, look what they've done to him!"[^ref-5]
 
+By his own later account he was not retired after leaving Sierra. He told FiringSquad on December 1, 2006 that he was a part owner of iBase Games, developer of the action-comedy Sam Suede: Undercover Exposure; that his last day there was September 11, when most of the team of about 20 learned the company was shutting down; and that the game had been in deep production for about a year. He said publishers had told the team a PC-only release would not sell enough copies to be worthwhile, and that he doubted he would try to get into the game industry again.[^ref-35] In 2010 the Binary Mill released Al Lowe's Comedy Club, a 99-cent joke app for iPhone, iPod and iPad. The developer's page described it as made by "the man behind the original Leisure Suit Larry series" with comedian Chuck Myers, who performed the recorded jokes.[^ref-36]
+
 He has turned down offers to collaborate on fan games: "Once you have been at the top of the hill, had the best tools, the best artists, and the best programmers at your disposal, it doesn't sound fun to start over with nothing."[^ref-5] He did return to the series for Replay Games' Kickstarter-funded Leisure Suit Larry: Reloaded (2013).[^ref-17] He left Replay on December 11, 2013. Replay called the departure amicable, but Lowe disputed this, saying the parting did not happen on good terms.[^ref-4][^ref-17]
 
-In November 2018 Lowe showed his personal archive of Sierra floppies, boxes, manuals and source code in a video with former Sierra employee MetalJesusRocks, then began selling it on eBay.[^ref-8][^ref-18][^ref-4] He explained, "I'm 72 years old, and none of my kids want this junk! Does anybody?"[^ref-8] He also said, "I backed everything up because I knew Sierra didn't."[^ref-8] In January 2024 he gave a three-hour video interview about his career to Daniel Albu's Tech Talk, by which time he was a nominee for the inaugural Adventure Game Hall of Fame.[^ref-1]
+In November 2018 Lowe showed his personal archive of Sierra floppies, boxes, manuals and source code in a video with former Sierra employee MetalJesusRocks, then began selling it on eBay.[^ref-8][^ref-18][^ref-4] In 2026 he told Spillhistorie.no that Activision, which he called Sierra's current owner, sent him a cease-and-desist letter warning that the disks might hold material it owned, and that he pulled the sale.[^ref-33] He explained, "I'm 72 years old, and none of my kids want this junk! Does anybody?"[^ref-8] He also said, "I backed everything up because I knew Sierra didn't."[^ref-8] In January 2024 he gave a three-hour video interview about his career to Daniel Albu's Tech Talk, by which time he was a nominee for the inaugural Adventure Game Hall of Fame.[^ref-1] Outside games, he has said he plays lead alto saxophone in two big bands and has built N-scale model railways for about 35 years.[^ref-33]
 
 ## Notable Works
 
@@ -53,7 +55,7 @@ Lowe kept Softporn Adventure's puzzles and locations but, as he told Adventure C
 
 ### The Black Cauldron (1986)
 
-Lowe's own credit list gives him design, writing, music and programming on The Black Cauldron.[^ref-25] Roberta Williams was co-designer: Jimmy Maher writes that it was "largely designed by Roberta and programmed, as usual, by Al Lowe."[^ref-29] He built it without a mouse: "I did Black Cauldron entirely with the keyboard."[^ref-12] MobyGames credits him with game design and programming across the PC Booter, DOS, Apple II, Atari ST, Apple IIGS and Amiga versions.[^ref-19]
+Lowe's own credit list gives him design, writing, music and programming on The Black Cauldron.[^ref-25] The 1986 date here follows MobyGames,[^ref-19] but contemporary sources place the IBM PC release in late 1985: a Standard & Poor's stock report on Sierra lists "The Black Cauldron (10/85)" among its products,[^ref-31] and Sierra's December 1985 advertisement in Creative Computing announces it as "NEW!" for the IBM PC/PCjr.[^ref-32] Roberta Williams was co-designer: Jimmy Maher writes that it was "largely designed by Roberta and programmed, as usual, by Al Lowe."[^ref-29] He built it without a mouse: "I did Black Cauldron entirely with the keyboard."[^ref-12] In 2026 he told Spillhistorie.no that he feels he "invented the point-and-click adventure," because the whole game could be played with a mouse or joystick, with function keys used instead of clicking icons.[^ref-33] MobyGames credits him with game design and programming across the PC Booter, DOS, Apple II, Atari ST, Apple IIGS and Amiga versions.[^ref-19]
 
 ### The Laffer Utilities (1991)
 
@@ -81,46 +83,49 @@ Lowe's longest-lived creation is Larry Laffer. The series he started in 1987 con
 
 Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] with the source noted where the two differ.
 
-### Early Career & Disney Era (1982–1986)
+### Sierra On-Line (1982–1998)
 
-- **1982** — [[1982 - Bop-A-Bet|Bop-A-Bet]] — Role: Designer/Programmer
-- **1982** — [[1982 - Dragon's Keep|Dragon's Keep]] — Role: Designer/Programmer
-- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure 6: The Dark Crystal]] — Role: Programmer (MobyGames "Programming by", Apple II;[^ref-19] Lowe's own list names Gelfling Adventure instead[^ref-25])
-- **1983** — [[1983 - Troll's Tale|Troll's Tale]] — Role: Designer/Programmer
-- **1984** — [[1984 - Gelfling Adventure|Gelfling Adventure]] — Role: Programmer[^ref-28]
-- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: Designer/Programmer/Composer
-- **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Role: Composer
-- **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Role: Designer/Programmer
-- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Composer
-- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Lead Programmer
-- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Designer (with [[Roberta Williams]])/Writer/Programmer/Composer[^ref-25][^ref-29]
+| Year | Title | Role |
+|------|-------|------|
+| 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Designer/Programmer |
+| 1982 | [[1982 - Dragon's Keep\|Dragon's Keep]] | Designer/Programmer |
+| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Programmer (MobyGames "Programming by", Apple II;[^ref-19] Lowe's own list names Gelfling Adventure instead[^ref-25]) |
+| 1983 | [[1983 - Troll's Tale\|Troll's Tale]] | Designer/Programmer |
+| 1984 | [[1984 - Gelfling Adventure\|Gelfling Adventure]] | Programmer[^ref-28] |
+| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Designer/Programmer/Composer |
+| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Composer |
+| 1984 | [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]] | Designer/Programmer |
+| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Composer |
+| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Lead Programmer |
+| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Designer (with [[Roberta Williams]])/Writer/Programmer/Composer;[^ref-25][^ref-29] IBM PC release dated late 1985 by contemporary sources[^ref-31][^ref-32] |
+| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Lead Programmer[^ref-24][^ref-25] |
+| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | Composer[^ref-7][^ref-25] |
+| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Designer/Programmer/Composer |
+| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Lead Programmer[^ref-25] (MobyGames: "Cavalry Coding"[^ref-19]) |
+| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Designer/Writer/Programmer/Composer/Executive Producer |
+| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Designer/Programmer/Producer |
+| 1991 | The Laffer Utilities | Designer/Writer[^ref-25][^ref-27] |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Director/Designer/Programmer |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Director/Designer/Programmer/Composer |
+| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Designer/Writer (with Josh Mandel)[^ref-25] |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Director/Producer/Designer/Writer; saxophone solos |
+| 1994 | Leisure Suit Larry's Greatest Hits and Misses! | Manual |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Special Thanks |
+| 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Designer/Writer/Musician/Voice Director/Voice Casting[^ref-23] |
+| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Director/Designer/Writer; Larry theme, additional music and soprano sax |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Images (his photograph is used in the game) |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Director/Designer/Writer/Composer/Voice Casting & Director |
 
-### Sierra Golden Age (1987–1998)
+### Other Credits (2006–2018)
 
-- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Lead Programmer[^ref-24][^ref-25]
-- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Composer[^ref-7][^ref-25]
-- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Designer/Programmer/Composer
-- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Lead Programmer[^ref-25] (MobyGames: "Cavalry Coding"[^ref-19])
-- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Role: Designer/Writer/Programmer/Composer/Executive Producer
-- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Designer/Programmer/Producer
-- **1991** — The Laffer Utilities — Role: Designer/Writer[^ref-25][^ref-27]
-- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] — Role: Director/Designer/Programmer
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Director/Designer/Programmer/Composer
-- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Designer/Writer (with Josh Mandel)[^ref-25]
-- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Role: Director/Producer/Designer/Writer; saxophone solos
-- **1994** — Leisure Suit Larry's Greatest Hits and Misses! — Role: Manual
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Special Thanks
-- **1995** — [[1995 - Torin's Passage|Torin's Passage]] — Role: Designer/Writer/Musician/Voice Director/Voice Casting[^ref-23]
-- **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7: Love for Sail!]] — Role: Director/Designer/Writer; Larry theme, additional music and soprano sax
-- **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]] — Role: Images (his photograph is used in the game)
-- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]] — Role: Director/Designer/Writer/Composer/Voice Casting & Director
-
-### Post-Sierra (2013–Present)
-
-- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] — Role: Special Thanks
-- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Role: Designer/Writer/Voiceover Casting/Voiceover (as himself)/Alto Saxophone
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Role: Listed among "Gamers" (backer credits)
-- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Role: Special Thanks
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2006 | Sam Suede: Undercover Exposure (unreleased) | iBase Games | Part owner of the developer; worked on the game[^ref-35] |
+| 2010 | Al Lowe's Comedy Club | The Binary Mill | Credited as the man behind the app; joke app for iPhone, iPod and iPad[^ref-36] |
+| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. | Special Thanks |
+| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | N-Fusion Interactive (published by Replay Games) | Designer/Writer/Voiceover Casting/Voiceover (as himself)/Alto Saxophone |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Listed among "Gamers" (backer credits) |
+| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] | CrazyBunch | Special Thanks |
 
 ## References
 
@@ -146,3 +151,9 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 [^ref-28]: [MOCAGH - Gelfling Adventure manual (PDF)](https://mocagh.org/sierra/gelfling-manual.pdf) — Manual credits: "Programmed by: Al Lowe"; "The entire game is controlled with the space bar and return key"
 [^ref-29]: [The Digital Antiquarian - Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) — Jimmy Maher, 2015: Sierra bought the Disney licence from Texas Instruments; Black Cauldron "largely designed by Roberta and programmed, as usual, by Al Lowe"
 [^ref-30]: [Arcade Express, Vol. 1 No. 18, April 10, 1983 (PDF scan)](https://www.digitpress.com/library/newsletters/arcadeexpress/arcade_express_v1n18.pdf) — Page 3: "Sierra On-Line has acquired the product line originally developed by Sunnyside Soft" (Bop-A-Bet, Dragon's Keep, Troll's Tale)
+[^ref-31]: [Standard & Poor's Standard OTC Stock Report: Sierra On-Line (April 14, 1989), Wayback copy](http://web.archive.org/web/20260928224151/https://www.sierragamers.com/wp-content/uploads/2019/12/1989_xx_Sierra_On-Line_Standard_OTC_Stock_Report.pdf) - Product sales table with introduction dates: "The Black Cauldron (10/85)"; page image checked
+[^ref-32]: [Creative Computing Vol. 11 No. 12 (December 1985) - Sierra advertisement](https://archive.org/details/creativecomputing-1985-12/page/n12/mode/1up) - "NEW!" listing: "The Black Cauldron ... Developed with Walt Disney Personal Computer Software Staff. For IBM PC/PCjr, $39.95"; page image checked
+[^ref-33]: [Spillhistorie.no - Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) - Roar Granevang interview, February 6-7, 2026: contract status after the staff cut, Disney changes, Black Cauldron mouse/joystick, Activision cease-and-desist, big bands, N-scale trains
+[^ref-34]: [Spillhistorie.no - Chuck Benton and Softporn Adventure](https://spillhistorie.no/2025/12/05/chuck-benton-and-softporn-adventure/) - December 5, 2025 interview with Benton: Ken Williams offered a one percent royalty or a $5,000 check for the Larry licence and he took the $5,000
+[^ref-35]: [FiringSquad - More On Sam Suede's Shut Down (December 1, 2006), Wayback copy](https://web.archive.org/web/20061206182231/http://firingsquad.com/news/newsarticle.asp?searchid=13406) - John Callaham's phone interview with Lowe: part owner of iBase Games, last day September 11, about a year in deep production, doubts about re-entering the industry
+[^ref-36]: [The Binary Mill - Al Lowe's Comedy Club, Wayback copy](http://web.archive.org/web/20120104202712/http://thebinarymill.com:80/comedy_club.php) - Developer's page: iPhone, iPod, iPad; released 23 June 2010; 99c; Lowe teamed with comedian Chuck Myers
