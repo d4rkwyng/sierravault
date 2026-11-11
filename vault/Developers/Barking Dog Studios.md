@@ -6,18 +6,18 @@ defunct: 2002
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Cataclysm", "Counter-Strike Beta 5", "Global Operations"]
 parent_company: "Independent (later Take-Two Interactive)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Barking Dog Studios
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Barking Dog Studios was a Canadian video game developer founded in May 1998 by six former Radical Entertainment employees in Vancouver, British Columbia.[^ref-1][^ref-15] The studio gained recognition for developing Homeworld: Cataclysm, a standalone expansion to Relic Entertainment's space RTS Homeworld, which holds a Metacritic score of 89/100.[^ref-2] In addition to their Sierra work, Barking Dog contributed to Valve's Counter-Strike and developed their own tactical shooter Global Operations.[^ref-3][^ref-15]
+Barking Dog Studios was a Canadian video game developer founded in May 1998 by six former Radical Entertainment employees in Vancouver, British Columbia.[^ref-1][^ref-15] The studio gained recognition for developing Homeworld: Cataclysm, a standalone expansion to [[Relic Entertainment]]'s space RTS Homeworld, which holds a Metacritic score of 89/100.[^ref-2] In addition to their Sierra work, Barking Dog contributed to Valve's [[2000 - Counter-Strike|Counter-Strike]] and developed their own tactical shooter Global Operations.[^ref-3][^ref-15]
 
-The company name originated from a brainstorming session seeking a "non-corporate, non-pretentious" identity, after one of the founders recalled a pub in California called the Barking Dog.[^ref-27] The studio's logo, designed by co-founder Sean Thompson, featured a slightly deformed dog with a large head standing and barking,[^ref-4] which had not changed by the time the studio's reception area displayed it as a flashing neon logo.[^ref-27] In August 2002, Take-Two Interactive acquired Barking Dog, in a deal with an estimated total value of $9 million, and integrated it into Rockstar Games as Rockstar Vancouver.[^ref-5][^ref-28][^ref-20]
+The company name originated from a brainstorming session seeking a "non-corporate, non-pretentious" identity, after one of the founders recalled a pub in California called the Barking Dog.[^ref-27] The studio's logo, designed by co-founder Sean Thompson, featured a slightly deformed dog with a large head standing and barking,[^ref-4] which had not changed by the time the studio's reception area displayed it as a flashing neon logo.[^ref-27] In August 2002, Take-Two Interactive acquired Barking Dog, in a deal with an estimated total value of $9 million, and integrated it into Rockstar Games as Rockstar Vancouver, ending the Barking Dog name; Rockstar closed the Vancouver studio in July 2012.[^ref-5][^ref-28][^ref-20][^ref-22]
 
 ## History
 
@@ -25,9 +25,9 @@ The company name originated from a brainstorming session seeking a "non-corporat
 
 Barking Dog Studios was founded in 1998 by Glenn Barnes, Peter Grant, Michael Gyori, Christopher Mair, Brian Thalken, and Sean Thompson.[^ref-1] All six founders had previously worked at Radical Entertainment, leaving after the company faced financial difficulties in the late 1990s when their partnership with Disney faltered and they lost their ESPN license.[^ref-6][^ref-7] The studio's struggles prompted the formation of multiple new companies by departing employees, including Black Box Games and Barking Dog.[^ref-7]
 
-The studio officially opened its doors on July 16, 1998, having just started its first major contract.[^ref-8] In its early years the studio briefly assisted Relic Entertainment with Homeworld (1999).[^ref-1]
+The studio officially opened its doors on July 16, 1998, having just started its first major contract.[^ref-8] In its early years the studio briefly assisted [[Relic Entertainment]] with Homeworld (1999).[^ref-1]
 
-### Homeworld: Cataclysm
+### Sierra Era
 
 Shortly after assisting with Homeworld, Barking Dog was greenlit to develop an expansion pack, Homeworld: Cataclysm.[^ref-1] Designer Chris Stewart later recalled that "Cataclysm existed in a weird space where Sierra wanted an expansion to the series, but Relic wanted it separated from the main line".[^ref-23] The game is set fifteen years after the original Homeworld and followed the mining vessel Kuun-Lan of Kiith Somtaaw as they encounter an ancient alien threat known as The Beast.[^ref-9] During development, Barking Dog moved into Relic Entertainment's offices, with roughly 20 employees engaged in the project.[^ref-10]
 
@@ -35,19 +35,19 @@ Sierra announced Cataclysm in February 2000,[^ref-11] and it was released that S
 
 ### Counter-Strike Contribution
 
-Around 1999, Valve became interested in Counter-Strike, a Half-Life mod co-created by Barking Dog employee Minh Le.[^ref-13] As Valve became more involved in the project, they hired Barking Dog to develop the mod's "Beta 5" update.[^ref-3] The studio developed approximately 90% of that update, which was released in December 1999.[^ref-3][^ref-14] Le subsequently joined Valve to continue Counter-Strike's development, with the finished game releasing in November 2000.[^ref-13]
+Around 1999, Valve became interested in [[2000 - Counter-Strike|Counter-Strike]], a Half-Life mod co-created by Barking Dog employee Minh Le.[^ref-13] As Valve became more involved in the project, they hired Barking Dog to develop the mod's "Beta 5" update.[^ref-3] The studio developed approximately 90% of that update, which was released in December 1999.[^ref-3][^ref-14] Le subsequently joined Valve to continue Counter-Strike's development, with the finished game releasing in November 2000.[^ref-13]
 
-### Later Projects
+### Later Years and Closure
 
 In November 2000, Barking Dog was rumored to be developing a tactical first-person shooter,[^ref-30] which Crave Entertainment announced as Global Operations in December of that year.[^ref-15] Released in March 2002 and co-published by Crave Entertainment and Electronic Arts, Global Operations was a team-based tactical shooter that allowed players to engage in counter-terrorism operations across various global locations.[^ref-16][^ref-20]
 
-Simultaneously, Barking Dog developed Treasure Planet: Battle at Procyon, a real-time strategy game tie-in with Disney's Treasure Planet film.[^ref-17] The game utilized ARES, a proprietary game engine the studio had been developing since January 2001.[^ref-18] Disney Interactive released the game in November 2002, after the studio's acquisition.[^ref-19]
+Barking Dog was also developing Transworld Skateboarding for Infogrames, one of three action-sports games the publisher announced in June 2001 under the TransWorld magazine licence; IGN named Barking Dog as the development team.[^ref-31] Wikipedia lists the game among the studio's cancelled projects.[^ref-1]
 
-### Acquisition and Legacy
+Simultaneously, Barking Dog developed Treasure Planet: Battle at Procyon, a real-time strategy game tie-in with Disney's Treasure Planet film.[^ref-17] The game utilized ARES, a proprietary game engine the studio had been developing since January 2001.[^ref-18] Disney Interactive released the game in November 2002, after the studio's acquisition.[^ref-19]
 
 On August 1, 2002, Take-Two Interactive announced its acquisition of Barking Dog Studios for US$3 million in cash and 242,450 shares of restricted common stock, an estimated $9 million total value.[^ref-5][^ref-28] The studio was integrated with Take-Two's Rockstar Games label and renamed Rockstar Vancouver, while Rockstar Canada was renamed Rockstar Toronto to avoid confusion.[^ref-20] At the time of acquisition, the studio employed roughly 50 people and was working on two games: a military action game and an original title.[^ref-5][^ref-20]
 
-After the acquisition, several Rockstar Vancouver employees, including some of its founders, set up new studios, including Ironclad Games (2003), Kerberos Productions (2004), Slant Six Games (2005), Big Sandwich Games (2006), Hellbent Games (2006), and United Front Games (2007).[^ref-1] As Rockstar Vancouver, the studio developed Bully (2006) and co-developed Max Payne 3 (2012). In July 2012 Rockstar closed the 35-person Vancouver studio and merged it into Rockstar Toronto.[^ref-1][^ref-22]
+After the acquisition, several Rockstar Vancouver employees, including some of its founders, set up new studios, including Ironclad Games (2003), Kerberos Productions (2004), Slant Six Games (2005), Big Sandwich Games (2006), Hellbent Games (2006), and United Front Games (2007).[^ref-1] As Rockstar Vancouver, the studio developed Bully (2006) and co-developed Max Payne 3 (2012). In July 2012 Rockstar closed the 35-person Vancouver studio and merged it into Rockstar Toronto, so the Barking Dog name ended in 2002 and the studio itself in 2012.[^ref-1][^ref-22]
 
 ## Key People
 
@@ -57,15 +57,31 @@ The six co-founders—Glenn Barnes, Peter Grant, Michael Gyori, Christopher Mair
 
 Barking Dog was independent for about four years before Take-Two bought it in 2002.[^ref-1] Homeworld: Cataclysm holds a Metacritic score of 89, and GOG's description has a Hiigaran sect that "unwittingly releases an alien horror".[^ref-2][^ref-9] Studios set up by former staff include United Front Games and Ironclad Games.[^ref-1]
 
-Cataclysm was left out of Gearbox's Homeworld Remastered Collection; Gearbox's Brian Martel said a re-release depended on "finding the original source code".[^ref-25] It returned on GOG.com in 2017 as Homeworld: Emergence.[^ref-12]
+Cataclysm was left out of Gearbox's Homeworld Remastered Collection; Gearbox's Brian Martel said a re-release depended on "finding the original source code".[^ref-25] It returned on GOG.com in 2017 as Homeworld: Emergence.[^ref-12] As of 2026-11-11 the GOG store page still lists Homeworld: Emergence for sale at US$9.99.[^ref-9]
+
+## Notable Games
+
+### Homeworld: Cataclysm (2000)
+
+Standalone expansion to Homeworld, published by Sierra and set fifteen years after the original, following the Kuun-Lan of Kiith Somtaaw and The Beast.[^ref-9][^ref-2] Metacritic lists a Metascore of 89.[^ref-2] See [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]]. It is sold on GOG.com as Homeworld: Emergence.[^ref-9][^ref-12]
+
+### Counter-Strike Beta 5 (1999)
+
+Barking Dog developed roughly 90% of the Beta 5 update to Valve's Half-Life mod, released in December 1999.[^ref-3][^ref-14] See [[2000 - Counter-Strike|Counter-Strike]].
+
+### Global Operations (2002)
+
+Team-based tactical shooter released in March 2002 and co-published by Crave Entertainment and Electronic Arts.[^ref-16][^ref-20]
 
 ## Games
 
-- **1999** — [[1999 - Homeworld|Homeworld]] — Genre: Real-Time Strategy (Assist)
-- 1999 — Counter-Strike Beta 5 — First-Person Shooter (Update)
-- **2000** — [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] — Genre: Real-Time Strategy
-- 2002 — Global Operations — First-Person Shooter
-- 2002 — Treasure Planet: Battle at Procyon — Real-Time Strategy
+| Year | Game | Genre |
+|------|------|-------|
+| 1999 | [[1999 - Homeworld|Homeworld]] (assist) | Real-Time Strategy |
+| 1999 | [[2000 - Counter-Strike|Counter-Strike]] Beta 5 (update) | First-Person Shooter |
+| 2000 | [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] | Real-Time Strategy |
+| 2002 | Global Operations | First-Person Shooter |
+| 2002 | Treasure Planet: Battle at Procyon | Real-Time Strategy |
 
 ## References
 
@@ -77,7 +93,7 @@ Cataclysm was left out of Gearbox's Homeworld Remastered Collection; Gearbox's B
 [^ref-6]: [The Georgia Straight - Vancouver's Video Game Family Tree](https://www.straight.com/article-198534/video-game-family-tree) — Radical Entertainment background
 [^ref-7]: [Next Generation Magazine Issue 49](https://archive.org/details/ng_49/page/n17/mode/2up) — Studio formation context
 [^ref-8]: [Barking Dog Studios News Archive](https://web.archive.org/web/20000125034232/http://www.barking-dog.com/News/index.html) — First publishing contract date
-[^ref-9]: [GOG.com - Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence) — Game details and user reviews
+[^ref-9]: [GOG.com - Homeworld: Emergence](https://www.gog.com/en/game/homeworld_emergence) — Game details; store page checked 2026-11-11: in stock at US$9.99, description says it was originally released as "Homeworld: Cataclysm"
 [^ref-10]: [GameSpy - Homeworld: Cataclysm Interview](https://web.archive.org/web/20000620131117/http://www.gamespy.com/interviews/cataclysm_a.shtm) — Development team size and Relic collaboration
 [^ref-11]: [IGN - Sierra Announces Homeworld: Cataclysm](http://www.ign.com/articles/2000/02/15/sierra-announces-homeworld-cataclysm) — Announcement date
 [^ref-12]: [Rock Paper Shotgun - Homeworld: Cataclysm Re-emerges](https://www.rockpapershotgun.com/2017/06/23/homeworld-cataclysm-re-released/) — GOG.com re-release and renaming
@@ -96,3 +112,4 @@ Cataclysm was left out of Gearbox's Homeworld Remastered Collection; Gearbox's B
 [^ref-28]: [Gamasutra - The End Game: How Top Developers Sold (Wayback)](https://web.archive.org/web/20170923193804/https://www.gamasutra.com/view/feature/130449/the_end_game_how_top_developers_.php) — Aug-02 Barking Dog to Take Two: "$3 million cash, 242,450 shares restricted stock (total est. value $9M)"
 [^ref-29]: [MobyGames - Homeworld: Cataclysm credits (Wayback, March 2024)](https://web.archive.org/web/20240331184010/https://www.mobygames.com/game/2321/homeworld-cataclysm/credits/windows/) — Lead Design Michael Gyori; Design Martin Cirulis, Christopher Mair, Christopher Stewart
 [^ref-30]: [Shacknews - Games, Sequels, Rumors (Wayback)](https://web.archive.org/web/20171201043857/http://www.shacknews.com/article/10826/games-sequels-rumors) — 29 November 2000: Barking Dog "will be announcing soon that they are workig on an action-based tactical FPS"
+[^ref-31]: [IGN - TransWorld Skateboarding (June 2001)](https://www.ign.com/articles/2001/06/26/transworld-skateboarding) — Infogrames announced three TransWorld games; development team "are none other than Barking Dog"
