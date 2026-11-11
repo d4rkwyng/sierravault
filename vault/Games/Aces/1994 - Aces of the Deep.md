@@ -10,7 +10,7 @@ series: Aces
 engine: null
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Aces of the Deep is a World War II U-boat simulator developed by Dynamix
   and published by Sierra On-Line for MS-DOS in 1994, set in the Battle of the Atlantic
   and the last game in Dynamix's Aces series.
@@ -18,13 +18,15 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Aces of the Deep is a World War II submarine simulator developed by Dynamix for MS-DOS and published by Sierra On-Line in 1994[^ref-1][^ref-14]. It was the last installment of Dynamix's Aces series, after the flight simulators Red Baron, Aces of the Pacific and Aces Over Europe[^ref-14]. The game puts players in command of German U-boats in the period between September 1939 and May 1945, when "Germany launched over 1,000 U-boats into combat against the Allies"[^ref-2]. Computer Gaming World said that "Aces of the Deep sets the standard for submarine simulations, perhaps even simulations in general"[^ref-2], and in 1996 ranked it the 71st best game of all time[^ref-14][^ref-29].
 
 Players take the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. As a GOG Dreamlist summary puts it, players "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys," with campaigns that can span the entire war[^ref-4]. The game is single-player only[^ref-8][^ref-14].
+
+The game shipped with a Kriegsmarine War Grid map that players used to find their patrol zones, alongside an extensive in-game manual and time-line maps showing kill-to-loss ratios[^ref-14]. The CD-ROM version added video interviews with German submariners, an on-line manual and historical maps, movies and photos[^ref-31][^ref-14]. MobyGames lists "Atlantic Wolves" and "Seawolf" as alternate titles ("aka")[^ref-31].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -68,7 +70,7 @@ SUBSIM Review wrote that "Aces was received with critical acclaim upon its relea
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| PC Gamer | 82% | William R. Trotter, February 1995[^ref-28][^ref-14] |
+| PC Gamer | 82% | William R. Trotter, February 1995[^ref-28] |
 | MobyGames Critics | 85% | Based on 18 ratings[^ref-13] |
 | MobyGames Critics (Expansion Disk) | 75% | Based on 2 ratings[^ref-10] |
 
@@ -156,7 +158,7 @@ That same report says the Aces series (Red Baron, Aces of the Pacific, Aces Over
 [^ref-11]: [SUBSIM Interview](https://www.subsim.com/ssr/mikejone.html) – Mike Jones interview, October 1998
 [^ref-12]: [GameSpot User Review](https://www.gamespot.com/aces-of-the-deep/user-reviews/2200-574412/) – thebubbleprince user review (2007)
 [^ref-13]: [MobyGames Reviews](https://www.mobygames.com/game/1171/aces-of-the-deep/reviews/) – Critic average and player review
-[^ref-14]: [Wikipedia Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – Series, modes, PC Gamer score, CGW ranking, Command re-release
+[^ref-14]: [Wikipedia Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – Series, modes, CGW ranking, Command re-release, War Grid map, CD-ROM video interviews
 [^ref-15]: [Internet Archive French Version](https://archive.org/details/Command_Aces_Of_The_Deep_-_French_Version_SierraFR) – Game preservation
 [^ref-16]: [Internet Archive DOS CD](https://archive.org/details/aotd_20210102) – DOS version preservation
 [^ref-17]: [Internet Archive Windows CD](https://archive.org/details/AODCD) – Windows version preservation
@@ -167,3 +169,4 @@ That same report says the Aces series (Red Baron, Aces of the Pacific, Aces Over
 [^ref-28]: [PC Gamer Online - Aces of the Deep review (Wayback, 1999)](https://web.archive.org/web/19990820035627/http://www.pcgamer.com:80/reviews/1340.html) – William R. Trotter, February 1995: Final Verdict 82%, "most ambitious U-boat simulation ever published"
 [^ref-29]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "150 Best Games of All Time": #71 Aces of the Deep; Aces games as extensions of Red Baron
 [^ref-30]: [Sierra On-Line Form 10-K, fiscal 1996 (Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Aces series sold more than 1 million copies; Pioneer JV list with "Aces of the Deep II*" and "Aces over Mountains*"
+[^ref-31]: [MobyGames - Aces of the Deep](https://www.mobygames.com/game/1171/aces-of-the-deep/) – Alternate titles ("aka") "Atlantic Wolves" and "Seawolf"; CD-ROM version's video interviews, on-line manual and historical maps
