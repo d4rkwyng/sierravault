@@ -6,17 +6,17 @@ designer: [Al Lowe, Michael MacChesney, Rae Lynn MacChesney]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Apple II]
-series: Hi-Res Adventures
+series: Hi-Res Adventure
 engine: Custom (Al Lowe's interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: "Gelfling Adventure is a 1984 Apple II children's adventure from Sierra On-Line, a simplified, multiple-choice version of Hi-Res Adventure #6 The Dark Crystal programmed by Al Lowe with text by Michael and Rae Lynn MacChesney."
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The Museum of Computer Adventure Game History calls it "one of the rarest Sierra
 > **Engine:** Al Lowe's own adventure interpreter[^ref-3]
 > **Platforms:** Apple II[^ref-1]
 > **Release Year:** 1984[^ref-2]
-> **Series:** Hi-Res Adventures (companion to #6)[^ref-6]
+> **Series:** Hi-Res Adventure (companion to #6)[^ref-6]
 > **Protagonist:** Jen the Gelfling[^ref-22]
 > **Sierra Lineage:** Core Sierra
 
@@ -134,8 +134,7 @@ Original copies are scarce: MOCAGH describes the game as "one of the rarest Sier
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- No GOG or Steam listing (checked November 2026)
 
 ## Downloads
 
@@ -145,23 +144,16 @@ Original copies are scarce: MOCAGH describes the game as "one of the rarest Sier
 
 **Preservation / Emulation**
 - [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - Playable via Apple IIe emulator[^ref-11]
-- [Gelfling Adventure manual (MOCAGH PDF)](https://mocagh.org/sierra/gelfling-manual.pdf)[^ref-22]
 - [Adventure Gamers Database](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982)[^ref-1]
 - [MobyGames - The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - Lists Gelfling Adventure as an alternate title[^ref-7]
 
+**Manuals & Extras**
+- [Gelfling Adventure manual (MOCAGH PDF)](https://mocagh.org/sierra/gelfling-manual.pdf)[^ref-22]
+
 ## See Also
 
-- [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
-- [[1980 - Hi-Res Adventure 1 - Mystery House]]
-- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
-- [[1980 - Hi-Res Cribbage]]
-- [[1980 - Hi-Res Football]]
-- [[1981 - Hi-Res Soccer]]
-- [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
-- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
-- [[1982 - Adventure in Serenia]]
-- [[1982 - Hi-Res Adventure 5 - Time Zone]]
-- [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
+- [[Hi-Res Adventures Series]] - Series overview
+- [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Previous: The Dark Crystal]]
 
 ## References
 
