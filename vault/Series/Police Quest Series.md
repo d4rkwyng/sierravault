@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 1993
 total_games: 5
 genre: "Adventure, Simulation"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Police Quest Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -22,19 +22,19 @@ Police Quest asks players to follow real police procedure. In the first game, "y
 
 ## Series Timeline
 
-| Year | Title | Engine | Designer |
-|------|-------|--------|----------|
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | AGI[^ref-14] | Jim Walls |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | SCI0[^ref-15] | Jim Walls |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | SCI1 | Jim Walls |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest I VGA]] | SCI1.1 | Jim Walls (original game); producer [[Tammy Dargan]][^ref-8] |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | SCI2 | [[Tammy Dargan]] (credited author: [[Daryl Gates\|Daryl F. Gates]])[^ref-9] |
+| Year | Title | Engine | Protagonist | Designer |
+|------|-------|--------|-------------|----------|
+| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | AGI[^ref-14][^ref-32] | Sonny Bonds[^ref-14] | Jim Walls |
+| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | SCI0[^ref-33][^ref-36] | Sonny Bonds[^ref-15] | Jim Walls |
+| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | SCI1[^ref-34] | Sonny Bonds[^ref-16] | Jim Walls |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest I VGA]] | SCI1.1[^ref-32] | Sonny Bonds[^ref-2] | Jim Walls (original game); producer [[Tammy Dargan]][^ref-8] |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | SCI2[^ref-35] | John Carey[^ref-17] | [[Tammy Dargan]] (credited author: [[Daryl Gates\|Daryl F. Gates]])[^ref-9] |
 
 *The adventure games were discontinued after the fourth game, but Sierra continued to publish "police simulators" under the SWAT brand.[^ref-1] (The 1992 VGA remake of the first game is the fifth entry in the table above.) See the SWAT Spinoff section below.*
 
 **Compilations:** *Daryl F. Gates' Police Quest Collection: The 4 Most Wanted* (1995),[^ref-27] *Police Quest: Collection Series* (1997)[^ref-28] and the Windows *Police Quest Collection* (2006).[^ref-29] See the [[Collections Guide]].
 
-**Spiritual successors:** Walls designed [[1993 - Blue Force|Blue Force]] (1993) for Tsunami Media,[^ref-25] and in 2013 launched a Kickstarter for *[[CXL - Precinct (2013)|Precinct]]*, billed as "from the creators of 'Police Quest'", which he cancelled on August 6, 2013.[^ref-26] See the [[Spiritual Successors Catalog]].
+**Spiritual successors:** Walls designed [[1993 - Blue Force|Blue Force]] (1993) for Tsunami Media,[^ref-25][^ref-31] and in 2013 launched a Kickstarter for *[[CXL - Precinct (2013)|Precinct]]*, billed as "from the creators of 'Police Quest'", which he cancelled on August 6, 2013.[^ref-26] See the [[Spiritual Successors Catalog]].
 
 ## Jim Walls' Background
 
@@ -121,7 +121,7 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 | Police Quest Collection | [Steam](https://store.steampowered.com/app/494740/)[^ref-30] |
 
 > [!tip] Buying Notes
-> - **Police Quest Collection** - GOG's February 2026 update switched PQ1–4 from DOSBox to ScummVM and added an option to play the EGA version of PQ3[^ref-19]
+> - **Police Quest Collection** - GOG's 20 February 2026 update switched PQ1–4 from DOSBox to ScummVM and added cloud saves; PQ3 also gained an option to play its EGA version, which runs on an updated DOSBox build available through an optional branch (not ScummVM)[^ref-19]
 > - **SWAT 1+2** - Sold as a pack on GOG; SWAT 2 is a Windows game[^ref-20][^ref-7]
 
 ### Compatibility
@@ -160,7 +160,7 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 [^ref-16]: [MobyGames – Police Quest 3: The Kindred](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Sergeant Bonds, Marie in a coma, driving returns, icon-based interface
 [^ref-17]: [MobyGames – Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – John Carey, LAPD, procedure "even more than the previous games", digitized photorealistic images
 [^ref-18]: [MobyGames – Police Quest: In Pursuit of the Death Angel (1992 remake)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – 256-colour VGA, icon interface, simplified driving
-[^ref-19]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Changelog 20 February 2026: PQ1–4 switched to ScummVM; PQ3 EGA option
+[^ref-19]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Changelog 20 February 2026: PQ1–4 switched from DOSBox to ScummVM, Cloud Saves added; PQ3 EGA option via an updated DOSBox build on an optional branch
 [^ref-20]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – Pack contents, Windows requirements
 [^ref-21]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – agi:pq1, sci:pq1sci, pq2, pq3, pq4, pqswat
 [^ref-22]: [GameSpot – SWAT Force Review (March 20, 2006)](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – Mobile "2D side-scroller"
@@ -172,3 +172,9 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 [^ref-28]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) – 1997, DOS and Windows (read via the MobyGames API)
 [^ref-29]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows, September 15, 2006 (read via the MobyGames API)
 [^ref-30]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Store page live 2026-10-26
+[^ref-31]: [MobyGames – Blue Force (1993)](https://www.mobygames.com/game/1478/blue-force/) – DOS, 1993; developed and published by Tsunami Media, Inc. (read via the MobyGames API)
+[^ref-32]: [PCGamingWiki – Police Quest: In Pursuit of the Death Angel](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – Engines: Original AGI; VGA Remake SCI1.1
+[^ref-33]: [PCGamingWiki – Police Quest II: The Vengeance](https://www.pcgamingwiki.com/wiki/Police_Quest_II:_The_Vengeance) – Engines: SCI0
+[^ref-34]: [PCGamingWiki – Police Quest III: The Kindred](https://www.pcgamingwiki.com/wiki/Police_Quest_III:_The_Kindred) – Engines: SCI1
+[^ref-35]: [PCGamingWiki – Police Quest: Open Season](https://www.pcgamingwiki.com/wiki/Police_Quest:_Open_Season) – Engines: SCI2
+[^ref-36]: [Adventure Gamers – Police Quest 2: The Vengeance (Wayback, 2025-06-09)](https://web.archive.org/web/20250609145841/https://adventuregamers.com/article/police_quest_2_the_vengeance) – "The shift to the SCI0 interface was a time of overhaul for Sierra"
