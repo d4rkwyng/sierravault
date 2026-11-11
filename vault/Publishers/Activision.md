@@ -4,11 +4,11 @@ type: publisher
 founded: 1979
 headquarters: "Santa Monica, California, United States"
 parent_company: "Microsoft Gaming (via Activision Blizzard)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Activision
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,6 +27,8 @@ Activision's relationship with Sierra properties spans several decades and conte
 **King's Quest Reboot (2015):** Under the revived label, Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen (see [[2015 - King's Quest|King's Quest]]).[^ref-26] Activision still sells it as King's Quest: The Complete Collection.[^ref-19][^ref-6]
 
 **Dynamix Titles (1989):** Before Sierra bought Dynamix in 1990,[^ref-21] Activision published several Dynamix-developed games, including *Ghostbusters II*, *MechWarrior*, *Deathtrack* and *Die Hard* (all DOS, 1989).[^ref-22][^ref-25][^ref-23][^ref-24]
+
+**Fan Project Licensing (2010):** Phoenix Online Studios developed the fan sequel [[2010 - The Silver Lining|The Silver Lining]] despite cease-and-desists from both Activision and Vivendi, the latter being the Sierra rights-holder before Activision acquired it. Vivendi had granted a non-commercial licence, and Gamasutra reported on June 28, 2010 that Activision had "at last given the go-ahead" to release the game for free as an episodic series.[^ref-29]
 
 ## History
 
@@ -50,6 +52,7 @@ Microsoft completed its acquisition of Activision Blizzard on October 13, 2023,[
 
 - **1989** — [[1989 - Die Hard|Die Hard]] — Notes: Developed by Dynamix
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Notes: Developed by Dynamix
+- **2009** — [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]] — Notes: Developed by Wanako Games; Windows PC via Steam[^ref-27]
 - **2015** — [[2015 - King's Quest|King's Quest]] — Notes: Episodic reboot by The Odd Gentlemen, Sierra label
 
 ### Other Activision-Published (Synergistic)
@@ -100,3 +103,5 @@ Notable studio acquisitions relevant to this archive:
 [^ref-24]: [MobyGames - Die Hard (1989)](https://www.mobygames.com/game/5469/die-hard/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
 [^ref-25]: [MobyGames - MechWarrior (1989)](https://www.mobygames.com/game/105/mechwarrior/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
 [^ref-26]: [Wikipedia - King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) - Developer: The Odd Gentlemen; publisher: Activision
+[^ref-27]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Developer: Wanako Games; Publisher: Activision (Windows)
+[^ref-29]: [Gamasutra – Activision To Allow King's Quest Fan Sequel (Leigh Alexander, June 28, 2010)](https://gamedeveloper.com/game-platforms/activision-to-allow-i-king-s-quest-i-fan-sequel) – Activision "at last given the go-ahead"; cease-and-desists from both Activision and Vivendi; Vivendi's non-commercial license
