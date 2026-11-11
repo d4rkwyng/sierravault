@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 2010
 total_games: 16
 genre: "Casual, Pinball, Mini-Golf, Sports"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # 3D Ultra Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -39,10 +39,10 @@ The 3D Ultra series is Sierra's casual-game line of pinball, mini-golf, model-tr
 | 2000 | [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition\|3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]] | Racing | Windows | Dynamix / Sierra On-Line |
 | 2000 | [[2000 - Maximum Pool\|Maximum Pool]] | Pool (successor to Cool Pool) | Windows, Dreamcast, Mac[^ref-15] | Dynamix / Sierra Sports[^ref-17] |
 | 2006 | [[2006 - 3D Ultra MiniGolf Adventures\|3D Ultra MiniGolf Adventures]] | Mini-golf | Windows (2006), Xbox 360 (2007)[^ref-4][^ref-20] | Wanako Games / Vivendi Games (Sierra Online) |
-| 2009 | [[2007 - 3D Ultra Minigolf Adventures Deluxe\|3D Ultra MiniGolf Adventures Deluxe]] | Mini-golf (Adventures plus its *Lost Island* expansion) | Windows (Steam) | Wanako Games / Activision |
+| 2009 | [[2007 - 3D Ultra Minigolf Adventures Deluxe\|3D Ultra MiniGolf Adventures Deluxe]] | Mini-golf (Adventures plus its *Lost Island* expansion)[^ref-30] | Windows (Steam)[^ref-22] | Wanako Games / Activision[^ref-22] |
 | 2010 | [[2010 - 3-D Ultra MiniGolf Adventures 2\|3-D Ultra MiniGolf Adventures 2]] | Mini-golf | Xbox 360, PlayStation 3 | Wanako Games / Konami[^ref-18] |
 
-Platforms, years and companies follow each game's SierraVault page; the *Adventures Deluxe* page dates its Steam release to July 23, 2009.
+Platforms, years and companies follow each game's SierraVault page; the *Adventures Deluxe* page dates its Steam release to July 23, 2009, which is also the date Steam's store API reports for the listing; the Steam store page itself shows the original December 20, 2006 release date (see Playing Today).[^ref-22]
 
 ## Subseries
 
@@ -70,6 +70,42 @@ Five pinball games: *3-D Ultra Pinball* (1995), *Creep Night* (1996), *The Lost 
 
 Tunnell left Dynamix to start Jeff Tunnell Productions and returned to Dynamix in 1995.[^ref-2] MobyGames dates JTP's founding to 1992 and describes it as a one-man developer.[^ref-11] MobyGames groups the 1995–2002 releases as Sierra On-Line/Dynamix titles.[^ref-1] Tunnell co-founded GarageGames in Eugene in 2000.[^ref-5] Wanako Games developed the three *Adventures* games.[^ref-18][^ref-4]
 
+## Critical Reception
+
+Reception was uneven across the line. Contemporary reviews of the first pinball game were warm, the 1997 mini-golf game was panned, the Lionel train game drew a high online score and an industry award, and the Wanako-developed revival was received as mediocre. These notes summarise the series' game pages and carry over their sources.
+
+| Game | Notable Reception |
+|------|-------------------|
+| 3-D Ultra Pinball (1995) | Arinn Dembo, in *Computer Gaming World*'s "Blazing Paddles" pinball survey (issue 138, January 1996), called the three-in-one table formation "something I've never seen before" and judged the game "recommended more for newcomers than old pros, but for those who want a pinball trainer, this game is the best I've seen"; she also found the shots and combinations "extremely easy to make".[^ref-23] |
+| 3-D Ultra MiniGolf (1997) | GameSpot's Jeff Sengstack scored it 4.3 ("poor") and wrote of its "unrealized potential".[^ref-24] |
+| 3-D Ultra Lionel TrainTown (1999) | Gamezilla's Christine and Mike Messersmith gave it 89 in a review posted March 27, 2000.[^ref-25] It was a finalist for Family Entertainment Title of the Year at the Interactive Achievement Awards,[^ref-26] and Wikipedia records that it won the "Computer Family Entertainment Title of the Year" award at the 3rd Annual Interactive Achievement Awards.[^ref-13] |
+| 3D Ultra MiniGolf Adventures (2006) | IGN scored the Xbox 360 version 7.5/10, calling its holes "a 10-year-old course designer's dream" while noting that "the single-player options are very thin".[^ref-27] GameSpot's Aaron Thomas gave it 5.5/10 ("Mediocre"), calling it "an unremarkable game that fails to capture the fun of real miniature golf".[^ref-28] Eurogamer's Dan Whitehead scored it 5/10 and called it "a curiously inert affair".[^ref-29] Wikipedia lists Metacritic aggregates of 66/100 (Xbox 360) and 35/100 (PC).[^ref-4] |
+| 3D Ultra MiniGolf Adventures 2 (2010) | Metacritic showed no Metascore ("tbd") with four critic reviews and a user score of 6.1 from seven ratings.[^ref-31] |
+
+## Legacy
+
+The pinball games were the line's commercial peak: Wikipedia reports that the series sold more than half a million copies by 1998,[^ref-16] and Jimmy Maher writes that *Trophy Bass* and *3-D Ultra Pinball* "became the two best-selling games Dynamix would ever release".[^ref-6]
+
+The 2006 *Adventures* game had a long gestation. The Sierra Chest records that it was originally created in 2000 as a sequel to *3D Ultra Minigolf Deluxe*, titled *Mini Golf Maniacs* (Windows and PlayStation 2); when the Dynamix game division in charge of it was shut down in 2001 it went unreleased for five years, until Wanako completed its development in 2006.[^ref-30] The Xbox 360 version of *Adventures* sold 11,049 units by January 2011.[^ref-4]
+
+### Fan Community
+
+No fan community, fan remake or fan sequel for the series is documented in the sources consulted for this page.
+
+## Playing Today
+
+### Purchase Links
+
+- [Steam: 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/) — $9.99, checked November 11, 2026[^ref-22]
+
+The Steam page is published by Activision and developed by Wanako Games, and describes 36 holes on three themed courses. It shows an original release date of December 20, 2006, while Steam's store API gives a Steam release date of July 23, 2009. Steam's listing is titled *3D Ultra Minigolf Adventures*, without "Deluxe"; the Sierra Chest describes the *Deluxe* edition as combining those 36 holes with the 18-hole *Lost Island* expansion for 54 holes.[^ref-22][^ref-30]
+
+A query of GOG's catalog on November 11, 2026 for "3D Ultra" returned no 3D Ultra title, so no GOG listing was found for any series entry. No other series title was checked on Steam beyond this listing.
+
+### Compatibility
+
+The Steam page lists Windows 2000/XP/Vista system requirements and Windows as the platform.[^ref-22]
+
 ## See Also
 
 - [[Dynamix]] — developer of most entries
@@ -94,3 +130,14 @@ Tunnell left Dynamix to start Jeff Tunnell Productions and returned to Dynamix i
 [^ref-19]: [MobyGames — 3-D Ultra Pinball](https://www.mobygames.com/game/935/3-d-ultra-pinball/) — Windows, Windows 16-bit, Macintosh, 1995
 [^ref-20]: [MobyGames — 3D Ultra Mini Golf Adventures](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/) — Windows 2006-12-20; Xbox 360 2007-04-18
 [^ref-21]: [Dynamix press release — "3D Ultra Mini Golf Deluxe: Twenty-Seven Holes of Wild Fun!" (Wayback, June 1998)](https://web.archive.org/web/19980627112440/http://www.dynamix.com/pr/minigolf-pr.html) — May 15, 1998; "the first computer miniature golf game to offer a multiplayer option over LAN, modem or the Internet"
+
+[^ref-22]: [Steam — 3D Ultra Minigolf Adventures (app 10140)](https://store.steampowered.com/app/10140/) — Wanako Games / Activision; page release date Dec 20, 2006; $9.99; 36 holes; Windows 2000/XP/Vista requirements; Steam store API release date Jul 23, 2009; read 2026-11-11
+[^ref-23]: [Computer Gaming World issue 138 (January 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_138) — Arinn Dembo, "Blazing Paddles" survey: "something I've never seen before"; "recommended more for newcomers than old pros, but for those who want a pinball trainer, this game is the best I've seen"
+[^ref-24]: [GameSpot — 3D Ultra Mini Golf Review, Jeff Sengstack (Wayback Machine)](https://web.archive.org/web/20110530073200/http://www.gamespot.com/pc/sports/3dultraminigolf/review.html) — GameSpot Score 4.3 "poor"; "its unrealized potential"
+[^ref-25]: [Gamezilla — 3D Ultra Lionel TrainTown review (Wayback Machine, May 2000)](https://web.archive.org/web/20000511112845/http://www.gamezilla.com/reviews/t/traintown.asp) — Christine & Mike Messersmith; "a score of 89"; "Review Posted On 27 March 2000"
+[^ref-26]: [Interactive Achievement Awards PC finalists (Wayback Machine, October 2000)](https://web.archive.org/web/20001011204415/http://www.interactive.org/iaa/finalists_pc.html) — "Family Entertainment Title of the Year": 3-D Ultra Lionel Traintown, Dynamix/Sierra On-Line
+[^ref-27]: [IGN — 3D Ultra Minigolf Adventures Review (Jonathan Miller)](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) — 7.5; "a 10-year-old course designer's dream"; single-player options "very thin"
+[^ref-28]: [GameSpot — 3D Ultra Minigolf Adventures Review, Aaron Thomas, April 19, 2007 (Wayback Machine)](https://web.archive.org/web/20190103005124/https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) — 5.5 "Mediocre"; "an unremarkable game that fails to capture the fun of real miniature golf"
+[^ref-29]: [Eurogamer — 3D Ultra Minigolf Adventures review, Dan Whitehead, April 23, 2007 (Wayback Machine)](https://web.archive.org/web/20140930214737/https://www.eurogamer.net/articles/3d-ultra-minigolf-adventures-review) — 5/10; "a curiously inert affair"
+[^ref-30]: [The Sierra Chest — 3D Ultra Minigolf Adventures Deluxe: General (Wayback Machine, March 2025)](http://web.archive.org/web/20250311183537/https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) — 36 holes plus 18-hole Lost Island (July 25, 2007) = 54 holes; originally created in 2000 as Mini Golf Maniacs; unreleased five years after the 2001 Dynamix division shutdown; completed by Wanako in 2006
+[^ref-31]: [Metacritic — 3D Ultra MiniGolf Adventures 2](https://www.metacritic.com/game/3d-ultra-minigolf-adventures-2/) — Metascore "tbd" after 4 critic reviews; user score 6.1 from 7 ratings
