@@ -10,7 +10,7 @@ series: Earthsiege
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Earthsiege 2 is a mech simulation game developed by Dynamix and published
   by Sierra On-Line for Windows in 1996. Set in 2624, it puts players in command of
   HERC war machines fighting off a renewed Cybrid offensive staged from the Moon.
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege, sierra, simulation]
 ---
 # Earthsiege 2
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,7 @@ Players assume the role of a HERC pilot in humanity's defence, where "the future
 
 ### Interface and Controls
 
-Earthsiege 2 features first-person cockpit-based gameplay[^ref-9], with the option of switching between first-person and external views[^ref-2]. The player controls a HERC with the keyboard and/or joystick, while the mouse is used to interact with cockpit buttons[^ref-2]; one reviewer singled out the lack of mouse support for turning the turret during missions as a limitation[^ref-10]. Eight HERCs are available for piloting, each with its own armor, shield output, speed and number of hardpoints for mounting weapons and equipment[^ref-2].
+Earthsiege 2 features first-person cockpit-based gameplay[^ref-9], with the option of switching between first-person and external views[^ref-2]. The player controls a HERC with the keyboard and/or joystick, while the mouse is used to interact with cockpit buttons[^ref-2]; one reviewer singled out the lack of mouse support for turning the turret during missions as a limitation[^ref-10]. Eight HERCs are available for piloting according to Wikipedia, each with its own armor, shield output, speed and number of hardpoints for mounting weapons and equipment[^ref-2]; the MobyGames description instead says the game "features 9 HERCS" plus a flyable aircraft[^ref-9]. The two sources disagree and the vault has not verified the count against the manual or the game itself.
 
 ### Structure and Progression
 
@@ -99,12 +99,31 @@ Earthsiege 2 uses the 3Space engine (GameSpot's "3DSpace")[^ref-1][^ref-18], wit
 
 The game's video files use an unusual mix of codecs: Indeo 3, Indeo 4, MS RLE Video, MS Video 1 (with an Autodesk RLE stream), and Cinepak[^ref-24]. The RBXIT fan project noted that "this game probably sets the world record for most number of different codecs used in its video collection"[^ref-24].
 
+### Technical Specifications
+
+MobyGames lists the following requirements, read via the MobyGames API[^ref-9]:
+
+| | Windows (Windows 95) | Windows 3.x (listed as Windows 16-bit) |
+|---|---|---|
+| CPU | Intel i486 DX2 | Intel i486 DX2 |
+| OS | Windows 95 | Windows 3.1 |
+| RAM | 8 MB | 8 MB |
+| Media | CD-ROM, 2X drive | CD-ROM, 2X drive |
+| Video | 256 colors, 640x480, full screen or window | 256 colors, 640x480 |
+| DirectX | DirectX 2 | not listed |
+| Input | Keyboard, mouse, analog joystick | Keyboard, mouse, analog joystick |
+| Other | Audio CD tracks | not listed |
+
 ### Version History
 
-| Version | Date | Notes |
-|---------|------|-------|
-| Original | March 19, 1996 | Windows and Windows 3.x release[^ref-5] |
-| Freeware | 2015 | Released free by Hi-Rez Studios[^ref-26] |
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original (US) | March 19, 1996 | Windows, Windows 3.x | Sierra On-Line release[^ref-9][^ref-5] |
+| German (complete) | 1996 | Windows, Windows 3.x | Distributed by Sierra Coktel Deutschland; MobyGames calls it the "2nd Release: Complete German"[^ref-9] |
+| UK (SierraOriginals) | 1996 | Windows | Distributed by Sierra On-Line Ltd.[^ref-9] |
+| German (Sierra Originals) | 1997 | Windows, Windows 3.x | Distributed by Sierra Coktel Deutschland[^ref-9] |
+| German (GameStar covermount) | 1997 | Windows | GameStar 11/97 covermount[^ref-9] |
+| Freeware | August 2015 | Windows | Worldwide download release published by Hi-Rez Studios; MobyGames lists it as "Free (initially commercial)"[^ref-9][^ref-26] |
 
 The RBXIT project notes that "there are no official Sierra updates for EarthSiege 2," and supplies its own installation and compatibility tools instead[^ref-24].
 
@@ -113,6 +132,10 @@ The RBXIT project notes that "there are no official Sierra updates for EarthSieg
 Earthsiege 2 is the precursor to Starsiege, which set the stage for Starsiege: Tribes and the rest of the Tribes universe[^ref-25]. As the Sierra Wiki notes, "Metaltech: Battledrome, the first game in the new MetalTech series, was released within that same year. A giant robot combat game with similarities to the BattleTech universe and games, the MetalTech series later spawned the Earthsiege, Cyberstorm, and Tribes series"[^ref-21].
 
 In 2015, Hi-Rez Studios (who had acquired the rights to the Tribes franchise) released the game as freeware, making it freely available to modern audiences[^ref-26]. PC Gamer reported that "Hi-Rez has made all the Tribes games available for free, as well as the Earthsiege series that predated it"[^ref-26]. One MobyGames player review summed the game up as having "challenged the mighty MechWarrior 2 series for the giant robot sim crown"[^ref-9].
+
+### Collections
+
+The Sierra Chest lists Earthsiege 2 as included in two collections: "2 Good 2 Be True" and "Best of Sierra Nr.15" (a German release)[^ref-32].
 
 ### Modern Compatibility
 
@@ -124,7 +147,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist – Earthsiege 2](https://www.gog.com/wishlist/games/earthsiege_2) - Community wish entry for the game
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/es2demo) - Demo version
@@ -155,7 +178,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – Story background and universe context
 [^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – Platforms (Windows, Windows 3.x), release date, launch errors
 [^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – Cybrid motivation description
-[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – Critics average (81%), player review quotes
+[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – Critics average (81%), player review quotes; description (nine HERCs), system requirements and release list, read via the MobyGames API
 [^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – Control system critique
 [^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – Mission structure analysis
 [^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – Graphics quality comparison
@@ -171,3 +194,4 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-29]: [Gaming Stack Exchange – How do I play Earthsiege 2 on a modern PC?](https://gaming.stackexchange.com/questions/243206/how-do-i-play-earthsiege-2-on-a-modern-pc-windows-7-8-10) – dgVoodoo 2 / DXwnd workarounds
 [^ref-30]: [MobyGames – EarthSiege 2 credits (Windows), Wayback September 2019](https://web.archive.org/web/20190918014143/https://www.mobygames.com/game/windows/earthsiege-2/credits) – "Director Mark Crowe Producer Frank Evers Designer David Selle"
 [^ref-31]: [Computer Player, June 1996, p. 57 (archive.org scan)](https://archive.org/details/ComputerPlayerJune1996/page/n56) – EarthSiege 2 review: Overall 7; HITS "excellent score, decent sound effects, variety of missions"; MISSES "average graphics, slow and unoriginal gameplay"
+[^ref-32]: [The Sierra Chest – Earthsiege 2 (Wayback, snapshot 2024-04-15)](https://web.archive.org/web/20240415035252/https://www.sierrachest.com/index.php?a=games&id=220&title=earthsiege-2&fld=general) – Collections and compilations: 2 Good 2 Be True; Best of Sierra Nr.15 (German release)

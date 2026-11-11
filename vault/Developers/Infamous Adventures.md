@@ -7,11 +7,11 @@ headquarters: "International (online team)"
 notable_games: ["King's Quest III Remake", "Space Quest II VGA Remake"]
 parent_company: null
 successor_company: "Infamous Quests"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,7 @@ The studio confirmed a VGA remake of *Space Quest II* on 1 April 2007.[^ref-28][
 
 In a site post dated 27 July 2012, Steven Alexander and Shawn Mills announced that Infamous Adventures had stopped producing games and that they had started a new company, [[Infamous Quests]], to make original adventure games.[^ref-13][^ref-19] *Quest for Infamy* had been cancelled under Infamous Adventures. It was restarted at Infamous Quests in 2012[^ref-13] and released on 10 July 2014.[^ref-30][^ref-31]
 
-The Infamous Adventures name stayed in use after 2012. On 1 January 2020 it uploaded version 2.0 of its *Space Quest II* remake, with bug fixes, Sierra fonts and new Easter eggs.[^ref-24][^ref-25] A [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV remake]] is attributed to it; its only recent progress report is a patron-only January 2026 update on the Patreon of Infamous Quests, the founders' separate commercial studio, which cannot be publicly read.[^ref-26]
+The Infamous Adventures name stayed in use after 2012. On 1 January 2020 it uploaded version 2.0 of its *Space Quest II* remake, with bug fixes, Sierra fonts and new Easter eggs.[^ref-24][^ref-25] That remake had reached the Mac on 5 February 2012, and a Universal Binary for macOS, running natively on both Apple Silicon and Intel processors, was released on 10 September 2024.[^ref-32][^ref-19][^ref-33] A [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV remake]] is attributed to it; its only recent progress report is a patron-only January 2026 update on the Patreon of Infamous Quests, the founders' separate commercial studio, which cannot be publicly read.[^ref-26]
 
 ## Notable Games
 
@@ -49,21 +49,28 @@ The Infamous Adventures name stayed in use after 2012. On 1 January 2020 it uplo
 
 ### Space Quest II VGA Remake (2011)
 
-The Space Quest II VGA remake presented the 1987 game with VGA graphics as a freeware release.[^ref-9] Released on 30 December 2011, it was the studio's final new game before [[Infamous Quests]]; a version 2.0 update followed in 2020.[^ref-19][^ref-13][^ref-24]
+The Space Quest II VGA remake presented the 1987 game with VGA graphics as a freeware release.[^ref-9] Released on 30 December 2011, it was the studio's final new game before [[Infamous Quests]]; a Mac version followed on 5 February 2012, a version 2.0 update in 2020, and a macOS Universal Binary in 2024.[^ref-19][^ref-13][^ref-32][^ref-24][^ref-33]
 
 ## Key People
 
 - **Steven Alexander**: co-founder.[^ref-13][^ref-10]
 - **Shawn Mills**: co-founder, from Australia.[^ref-13][^ref-10] He later wrote *The Sierra Adventure*.[^ref-1]
 
+## Legacy
+
+The Infamous Adventures *King's Quest III* remake had been downloaded more than 180,000 times by October 2008.[^ref-13] Both remakes are still offered on the studio's itch.io page on a name-your-own-price basis,[^ref-34][^ref-33] and the *Space Quest II* remake gained a native Apple Silicon build in 2024.[^ref-33] The founders carried on as [[Infamous Quests]], whose *Quest for Infamy* was released in 2014.[^ref-13][^ref-30]
+
 ## Games
 
 MobyGames credits the studio with the two remakes, *King's Quest III* and *Space Quest II*.[^ref-15]
 
-- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake]] — Genre: Adventure
-- **2011** — *Space Quest for Glory* — Genre: Fighting (short parody), released 15 April 2011[^ref-27][^ref-11]
-- **2011** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Genre: Adventure
-- **TBA** — [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] — Genre: Adventure (unreleased)[^ref-26]
+| Year | Game | Genre |
+|------|------|-------|
+| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake]] | Adventure |
+| 2010 (cancelled) | *King's Quest: Kingdom of Sorrow* (formerly "Project X"), announced June 2010 and cancelled in 2012[^ref-13][^ref-4] | Adventure |
+| 2011 | *Space Quest for Glory*, short parody released 15 April 2011[^ref-27][^ref-11] | Fighting |
+| 2011 | [[2011 - Space Quest II VGA Remake\|Space Quest II VGA Remake]] | Adventure |
+| TBA | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] (unreleased)[^ref-26] | Adventure |
 
 ## References
 
@@ -89,3 +96,6 @@ MobyGames credits the studio with the two remakes, *King's Quest III* and *Space
 [^ref-29]: [GameWatcher - "Space Quest II remake released for free" (Jonah A. Falcon, 1 Jan 2012)](https://www.gamewatcher.com/2012-01-01-space-quest-ii-remake-released-for-free) — "a full voice pack containing 4000 recorded lines… completely free"
 [^ref-30]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/) — Release Date: Jul 10, 2014
 [^ref-31]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) — Windows release 2014-07-10 (read via the MobyGames API)
+[^ref-32]: [MobyGames - Space Quest II: Roger Wilco in Vohaul's Revenge](https://www.mobygames.com/game/60817/space-quest-ii-roger-wilco-in-vohauls-revenge/) — Windows 2011-12-30, Macintosh 2012-02-05, Linux 2020-01-01 (read via the MobyGames API)
+[^ref-33]: [Space Quest II VGA Remake - itch.io](https://infamousadventures.itch.io/space-quest-ii-vga-remake) — "UNIVERSAL BINARY RELEASED FOR MAC Sept 10th, 2024"; runs natively on Apple Silicon and Intel; Windows, macOS, Linux; name your own price
+[^ref-34]: [King's Quest III VGA Remake - itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) — "A downloadable game for Windows and macOS"; name your own price
