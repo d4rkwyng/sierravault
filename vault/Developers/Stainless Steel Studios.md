@@ -75,7 +75,7 @@ GameSpy's Game of the Year write-up said Empire Earth "set a new high water mark
 
 The series continued with Empire Earth II (April 2005)[^ref-29] and Empire Earth III (November 2007),[^ref-30] both developed by Mad Doc Software, though the third installment was critically panned with a Metacritic score of just 50%.[^ref-20] After the Activision–Vivendi merger, Rebellion acquired the Empire Earth property, announced on July 14, 2009.[^ref-19][^ref-24]
 
-The fan community has kept Empire Earth alive through projects like NeoEE (neoee.net), which provides replacement multiplayer servers.[^ref-21] The official servers shut down on November 3, 2008.[^ref-2] Empire Earth: Gold Edition returned to sale on Steam on May 26, 2026, published by Rebellion.[^ref-31]
+The fan community has kept Empire Earth alive through projects like NeoEE (neoee.net), which provides replacement multiplayer servers.[^ref-21] The official servers shut down on November 3, 2008.[^ref-2] Empire Earth: Gold Edition launched on Steam on May 26, 2026, published by Rebellion, which described the release as "available on Steam for the first time ever".[^ref-31]
 
 ## Games
 
@@ -114,4 +114,4 @@ MobyGames also credits the studio for the graphic engine of Tilted Mill's Immort
 [^ref-28]: [MobyGames - Immortal Cities: Children of the Nile](https://www.mobygames.com/game/16480/immortal-cities-children-of-the-nile/) — Game 16480 (read via the MobyGames API): developed by Tilted Mill, published by Myelin Media, November 2004; Stainless Steel Studios "Graphic Engine by"
 [^ref-29]: [MobyGames - Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra, US release April 26, 2005
 [^ref-30]: [MobyGames - Empire Earth III](https://www.mobygames.com/game/31120/empire-earth-iii/) – Game 31120 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra, US release November 6, 2007; Wikipedia's Empire Earth III article gives the same developer and date
-[^ref-31]: [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Steam appdetails API: release May 26, 2026; publisher Rebellion; developers Stainless Steel Studios, Mad Doc Software, Xtended Realities
+[^ref-31]: [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) and [Rebellion announcement, 26 May 2026](https://rebellion.com/empire-earth-classic-strategy-series-is-now-available-on-steam/) – Steam appdetails API: release May 26, 2026; publisher Rebellion; developers Stainless Steel Studios, Mad Doc Software, Xtended Realities

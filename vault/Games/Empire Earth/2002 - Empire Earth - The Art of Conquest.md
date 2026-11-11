@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: N/A (Strategy Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published by Sierra Entertainment in 2002.'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -141,7 +141,7 @@ One 2003 GameFAQs user review noted that "the English campaigns are gone" from t
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 17, 2002 | Windows | North American release[^ref-4] |
+| 1.0 | September 17, 2002 | Windows | North American release; Wikipedia gives September 17[^ref-1][^ref-4], while MobyGames gives September 16, 2002 for the United States[^ref-40] |
 | 1.0 | October 4, 2002 | Windows | European release[^ref-1] |
 | 1.0 | October 21, 2002 | Windows | Australian release[^ref-27] |
 | 1.0 | February 28, 2003 | Windows | Japanese release (Capcom publisher)[^ref-28] |
@@ -230,7 +230,7 @@ The community has maintained the game through various projects:
 - **Empire Earth Community (empireearth.eu)** - Provides compatibility fixes and maintains multiplayer functionality with no alteration to original gameplay[^ref-31]
 - **EPO_EEMOD** - A major modification adding new technological trees, buildings, shadows, larger lots, spaceships, anti-missile defense, wall and tower models, special units, gates, and enhanced wall resistance[^ref-33]
 
-Although the Empire Earth Community site states that the game isn't on Steam,[^ref-31] Empire Earth Gold Edition, including The Art of Conquest, is now sold on Steam under publisher Rebellion.[^ref-38]
+Empire Earth: Gold Edition, which includes The Art of Conquest, launched on Steam on May 26, 2026, published by Rebellion, which announced the series as "available on Steam for the first time ever".[^ref-41][^ref-38]
 
 ### Related Publications
 
@@ -304,3 +304,5 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-37]: [MobyGames – Empire Earth: The Art of Conquest credits](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/credits/) – Mad Doc Software credits: producer, lead designer, lead programmer, executive direction
 [^ref-38]: [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Gold Edition includes The Art of Conquest; publisher Rebellion
 [^ref-39]: [GameFAQs – Empire Earth: The Art of Conquest Data](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/data) – release data: "Empire Earth: Gold Edition | US | Sierra Entertainment | … | 03/06/03"
+[^ref-40]: [MobyGames – Empire Earth: The Art of Conquest](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/) – Windows release dates (read via the MobyGames API): United States 2002-09-16
+[^ref-41]: [Rebellion – Empire Earth: Classic strategy series is now available on Steam](https://rebellion.com/empire-earth-classic-strategy-series-is-now-available-on-steam/) – 26th May 2026: "now available on Steam for the first time ever"; Gold Editions include The Art of Conquest
