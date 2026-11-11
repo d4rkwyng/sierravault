@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: null
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in Dynamix''s Front
   Page Sports football series, released for DOS in 1992.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -81,6 +81,10 @@ The game did not include a player editor, but the community produced shareware u
 ### Contemporary Reviews
 
 Computer Gaming World's October 1993 issue (#111) announced: "The winner of 1993 Sports Game of the Year is: Front Page Sports: Football (Dynamix), Patrick Cook, designer. This football game literally brought an extra dimension to the look of computer football games and extra depth to such games with the ability to design and implement custom plays."[^ref-28][^ref-25] In February 2026 MobyGames listed a critics' average of 78% from 7 ratings[^ref-32]; as of October 2026 its Moby Score is 7.7[^ref-25].
+
+Computer Gaming World's March 1993 issue (#104) reviewed it alongside two other football games. Wallace Poulter wrote that it "represents the first foray into sports by the Dynamix, part of the Sierra stable. A better debut would be harder to imagine," and called the play editor "the real breakthrough," since "both offensive and defensive plays can be crafted"[^ref-33]. He also listed problems: "With a 386/33 and 2 megs of RAM, the animation speed was slow," the program "takes forever to simulate a single game and simulating an entire weekly schedule is terribly slow," and the 120-page manual "could actually use more information and more diagrams." He concluded that with some fine tuning it "will be a contender for best Sports game on the market"[^ref-33].
+
+COMPUTE! reviewed it in September 1993 (issue #156). Scott A. May called it "the most comprehensive and intuitive yet seen" in describing the playbook editor, whose "logic boxes" are "instructional scripts that tell each player how to react as a play unfolds"[^ref-34]. He also noted shortcomings: playbooks had to be memorized by "cryptic eight-character abbreviations," and simulating a weekly league schedule meant "agonizingly long periods of computer inactivity," averaging 11 minutes per game on a 25-MHz 80386[^ref-34]. His verdict: the game "kicks our perception of computer sports simulations into another dimension"[^ref-34].
 
 The series' reputation grew with its sequels. Computer Gaming World named the 1993 follow-up, Football Pro, Sports Game of the Year in June 1994 and introduced it into its Hall of Fame in March 1996[^ref-3], and in November 1996 it ranked "FPS Football 1995" (Football Pro '95) 11th on its list of the best games of all time, noting the series had improved "up through FPS Football 95, winning an unprecedented three CGW Premier awards"[^ref-29]. That ranking belongs to the '95 edition, not the 1992 original.
 
@@ -172,7 +176,7 @@ Players have also reported graphics and VESA-mode problems running the later DOS
 
 Front Page Sports: Football was followed by yearly Football Pro editions through NFL Football Pro '99, released in December 1998[^ref-30]; Football Pro '98 ranked as the 8th best-selling football game from January to October 1997[^ref-15]. That final edition was recalled in January 1999, four weeks after it shipped[^ref-31], and a planned 2000 version was cancelled[^ref-1]. Dynamix remained, in Jimmy Maher's words about 1994, "the most consistent of Sierra's subsidiary studios," with Football Pro '95 among its "solid performers"[^ref-2].
 
-Later editions added features the 1992 game lacked, including Pro '95's free-placement camera and adaptive AI (earlier versions had only fixed camera angles)[^ref-1], Pro Bowl selections[^ref-6], and up to 16 camera angles in Pro '98[^ref-7]. Football Pro '98 shipped without the player ratings editor, prompting GameSpot to note that "Sierra seems to have taken a cavalier attitude toward the player ratings editor issue"[^ref-7]. GameSpot nonetheless concluded that "for gamers who revel in the challenges of play design, draft and trade decisions, game plans, and even practice-camp priorities, FPS: FP '98 is still the only game in town"[^ref-7].
+Later editions added features the 1992 game lacked, including Pro '95's free-placement camera and adaptive AI[^ref-1] (the 1992 game already offered nine fixed camera positions for live play and a free-floating camera for instant replay[^ref-34]), Pro Bowl selections[^ref-6], and up to 16 camera angles in Pro '98[^ref-7]. Football Pro '98 shipped without the player ratings editor, prompting GameSpot to note that "Sierra seems to have taken a cavalier attitude toward the player ratings editor issue"[^ref-7]. GameSpot nonetheless concluded that "for gamers who revel in the challenges of play design, draft and trade decisions, game plans, and even practice-camp priorities, FPS: FP '98 is still the only game in town"[^ref-7].
 
 ### Collections
 
@@ -195,7 +199,6 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 
 **Purchase / Digital Stores**
 - Not currently available on Steam, GOG, or other modern digital storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
 - [Internet Archive – FP Sports Football](https://archive.org/details/msdos_Front_Page_Sports_Football_1992) — DOS edition preservation
@@ -203,6 +206,7 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 ## See Also
 
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports — Football Pro (1993)]]
+- [[Front Page Sports Series]] — series overview
 - [[Dynamix]] — developer
 - [[Sierra On-Line]] — publisher
 - [[1994 - Front Page Sports - Baseball Pro]]
@@ -244,3 +248,5 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 [^ref-30]: [MobyGames – NFL Football Pro '99](https://www.mobygames.com/game/219695/nfl-football-pro-99/) – Windows release 22 December 1998 (read via the MobyGames API)
 [^ref-31]: [CNNfn – "Sierra recalls popular game" (January 21, 1999), Wayback Machine](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) – NFL Football Pro '99, "which shipped to retailers just four weeks ago, has been pulled from retail shelves"
 [^ref-32]: [MobyGames – Front Page Sports: Football (Wayback, 19 February 2026)](https://web.archive.org/web/20260219033342/https://www.mobygames.com/game/18574/front-page-sports-football/) – "Critics 78% (7)", Moby Score 7.5 at that date
+[^ref-33]: [Computer Gaming World #104 (March 1993), p. 48, Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_104) – Wallace Poulter, "Three Computer Football Games": "A better debut would be harder to imagine"; animation speed, simulation speed and manual criticisms
+[^ref-34]: [COMPUTE! #156 (September 1993), p. 80, Scott A. May review](https://www.atarimagazines.com/compute/issue156/80_Front_Page_Sports_F.php) – playbook editor "logic boxes", nine fixed cameras plus a free-floating replay camera, slow weekly simulation; scan at [Internet Archive](https://archive.org/details/1993-09-compute-magazine/page/80)
