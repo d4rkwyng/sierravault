@@ -5,11 +5,11 @@ founded: 2004
 headquarters: "United States"
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -19,11 +19,15 @@ For detailed information about the studio's history, notable games, and key peop
 
 ## Publishing History
 
-Himalaya published its first game on CD-ROM, and later digitally. Its debut, *Al Emmo and the Lost Dutchman's Mine*, came out in 2006 as Himalaya's "first retail game"; some later regional and retail editions were published by third parties (rondomedia in Germany in 2007, Meridian4 in 2008, United Independent Entertainment in Germany in 2012).[^ref-7][^ref-5] An enhanced version 4.0 followed on November 26, 2013, sold through Himalaya's own store and Desura, and the game reached Steam on May 9, 2014 with Himalaya as developer and publisher.[^ref-23][^ref-19] In August 2010 Himalaya released *Al Emmo's Postcards from Anozira*, a hidden-object game built with the AGS engine and based on Al Emmo; it came to Steam on June 2, 2015.[^ref-22][^ref-21][^ref-20][^ref-17] *Mage's Initiation: Reign of the Elements* was funded on Kickstarter in 2013 (3,157 backers pledged $125,174) and released on 30 January 2019. Himalaya Studios developed and published it.[^ref-8][^ref-3][^ref-16] Adventure Gamers called it "a game more than a full decade in the making".[^ref-6]
+Himalaya published its first game on CD-ROM, and later digitally. Its debut, *Al Emmo and the Lost Dutchman's Mine*, came out in 2006 as Himalaya's "first retail game"; some later regional and retail editions were published by third parties (rondomedia in Germany in 2007, Meridian4 in 2008, United Independent Entertainment in Germany in 2012).[^ref-7][^ref-5] An enhanced version 4.0 followed on November 26, 2013, sold through Himalaya's own store and Desura, and the game reached Steam on May 9, 2014 with Himalaya as developer and publisher.[^ref-23][^ref-19] In August 2010 Himalaya released *Al Emmo's Postcards from Anozira*, a hidden-object game built with the AGS engine and based on Al Emmo; it came to Steam on June 2, 2015.[^ref-22][^ref-21][^ref-20][^ref-17] Himalaya also ported *Al Emmo and the Lost Dutchman's Mine* to iPad, iPhone and iPod touch, announced on its news page as available on the App Store on July 9, 2015.[^ref-25][^ref-7] *Mage's Initiation: Reign of the Elements* was funded on Kickstarter in 2013 (3,157 backers pledged $125,174) and released on 30 January 2019. Himalaya Studios developed and published it.[^ref-8][^ref-3][^ref-16] Adventure Gamers called it "a game more than a full decade in the making".[^ref-6]
+
+## Current Status
+
+As of November 11, 2026, the newest item on Himalaya's own news page is dated March 23, 2019 (a cross-promotional cosplay contest with Transolar Games), and a Wayback Machine capture of the page from March 18, 2026 shows the same newest item.[^ref-25][^ref-26] This records only the absence of newer posts; no closure or other change of status has been announced in the sources checked.
 
 ## Games Published
 
-- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Notes: Western comedy adventure; the studio's first game[^ref-7][^ref-5][^ref-19]
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Notes: Western comedy adventure; the studio's first game; iOS version July 2015[^ref-7][^ref-5][^ref-19][^ref-25]
 - **2010** — Al Emmo's Postcards from Anozira — Notes: Hidden-object game based on Al Emmo; Steam release 2015[^ref-22][^ref-21][^ref-20]
 - **2019** — [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]] — Notes: Fantasy adventure-RPG hybrid[^ref-3][^ref-4][^ref-16][^ref-17]
 
@@ -35,7 +39,7 @@ Himalaya published its first game on CD-ROM, and later digitally. Its debut, *Al
 ## References
 
 [^ref-1]: [Himalaya Studios - About](https://www.himalayastudios.com/about.php) - C corporation established 2011 in Delaware; co-founders Chris Warren and Britney Brimhall "previously co-established AGDInteractive, LLC"
-[^ref-2]: [MobyGames - Himalaya Studios, LLC](https://www.mobygames.com/company/8184/himalaya-studios-llc/) - Moby ID 8184; established 2004 in Chandler, Arizona by Britney K. Brimhall and Christopher T. Warren ([archived copy, 2025-03-20](https://web.archive.org/web/20250320193018/https://www.mobygames.com/company/8184/himalaya-studios-llc/))
+[^ref-2]: [MobyGames - Himalaya Studios, LLC](https://www.mobygames.com/company/8184/himalaya-studios-llc/) - Moby ID 8184; established 2004 by Britney K. Brimhall and Christopher T. Warren; the archived page's overview says "in Arizona" and its History section says "in Chandler, Arizona" ([archived copy, 2025-03-20](https://web.archive.org/web/20250320193018/https://www.mobygames.com/company/8184/himalaya-studios-llc/))
 [^ref-3]: [Steam - Mage's Initiation](https://store.steampowered.com/app/270610/Mages_Initiation_Reign_of_the_Elements/) - Developer and publisher Himalaya Studios; released Jan 30, 2019
 [^ref-4]: [GOG - Mage's Initiation](https://www.gog.com/game/mages_initiation_reign_of_the_elements) - Digital distribution
 [^ref-5]: [Adventure Gamers - Al Emmo and the Lost Dutchman's Mine review (Wayback 2012)](https://web.archive.org/web/20121121014738/http://www.adventuregamers.com/articles/view/17815) - "Al Emmo is the first retail game from Himalaya Studios"
@@ -46,9 +50,11 @@ Himalaya published its first game on CD-ROM, and later digitally. Its debut, *Al
 [^ref-16]: [MobyGames - Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) - Windows/Mac/Linux 2019-01-30; published and developed by Himalaya Studios, LLC
 [^ref-17]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) - LLC established 2004 in Chandler, Arizona; Delaware C corporation 2011; games table lists Al Emmo's Postcards from Anozira (hidden object, 2010) and Mage's Initiation (2019)
 [^ref-18]: [Adventure Classic Gaming - Britney Brimhall interview (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) - "In 2004 you co-founded Himalaya Studios with Christopher Warren"; "Chairman and CEO of Himalaya Studios, a for-profit game creation company"
-[^ref-19]: [Steam - Al Emmo and the Lost Dutchman's Mine](https://store.steampowered.com/app/296850/) - Developer and publisher Himalaya Studios; released May 9, 2014
-[^ref-20]: [Steam - Al Emmo's Postcards from Anozira](https://store.steampowered.com/app/375020/) - Developer and publisher Himalaya Studios; released Jun 2, 2015
+[^ref-19]: [Steam - Al Emmo and the Lost Dutchman's Mine](https://store.steampowered.com/app/296850/) - Developer and publisher Himalaya Studios; released May 9, 2014 (Steam release date as recorded by Steam's store API; the store page displays the original 2006 release date)
+[^ref-20]: [Steam - Al Emmo's Postcards from Anozira](https://store.steampowered.com/app/375020/) - Developer and publisher Himalaya Studios; released Jun 2, 2015 (Steam release date as recorded by Steam's store API; the store page displays the original 2010 release date)
 [^ref-21]: [Himalaya Studios - Postcards from Anozira](https://www.himalayastudios.com/postcards.php) - Product page: hidden-object game, 5 playable characters, 145 postcards to collect
 [^ref-22]: [Himalaya Studios - News (Wayback 2011)](https://web.archive.org/web/20111204093620/http://www.himalayastudios.com:80/news.php) - "New game: Postcards from Anozira, August 02, 2010"; "we developed a Hidden Object Game with the AGS engine, based on Al Emmo"
 [^ref-23]: [Himalaya Studios forum - Al Emmo Enhanced Out Now!](http://www.himalayastudios.com/forum/index.php?topic=1002.0) - November 26, 2013: version 4.0 released; sold via the Himalaya Store and Desura; Steam Greenlight still pending
 [^ref-24]: [IndieDB - Himalaya Studios, Inc](https://www.indiedb.com/company/himalaya-studios) - Developer & Publisher profile; "a C Corporation established in 2011 in Delaware" (same text as the About page)
+[^ref-25]: [Himalaya Studios - News](https://www.himalayastudios.com/news.php) - Fetched 2026-11-11: newest item "Cross Promo Cosplay Contest with Transolar Games and Himalaya Studios", March 23, 2019; "Al Emmo now available on the App Store!", July 09, 2015 ("ported to iPad, iPhone, and iPod touch")
+[^ref-26]: [Himalaya Studios - News (Wayback 2026-03-18)](https://web.archive.org/web/20260318075458/http://www.himalayastudios.com/news.php) - Capture of 2026-03-18 shows the same newest item, March 23, 2019
