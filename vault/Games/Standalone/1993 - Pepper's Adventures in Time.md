@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Pepper's Adventures in Time is a 1993 educational adventure game from
   Sierra On-Line's Discovery Series, in which Pepper Pumpernickel and her dog Lockjaw
   travel back to 1764 Philadelphia to set Benjamin Franklin's history right.
@@ -18,7 +18,7 @@ tags: [1990s, educational, sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Evan of AdventureGamers, who ranked the game #19 in his Top 20 Adventure Games o
 
 ## Story Summary
 
-The story begins when Pepper's evil Uncle Fred has created a time machine[^ref-1][^ref-8]. Lockjaw is thrown into the machine, and Pepper follows him back to the year 1764[^ref-9], landing in colonial Philadelphia[^ref-1]. Fred's plan is to turn Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and so make "the American revolution all but impossible"[^ref-2].
+The story begins when Pepper's evil Uncle Fred has created a time machine[^ref-1]. Lockjaw is thrown into the machine, and Pepper follows him back to the year 1764[^ref-9], landing in colonial Philadelphia[^ref-1]. Fred's plan is to turn Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and so make "the American revolution all but impossible"[^ref-2].
 
 TV Tropes summarizes the scene: Pepper and Lockjaw watch Fred dump some doctored "essence of 1968" into the machine, turning the Founding Father into a "blissed-out, spineless flower child"[^ref-10]. The result is a 1764 Philadelphia mixed with the 1960s American counterculture, with Franklin recast as a hippie[^ref-1].
 
@@ -63,7 +63,7 @@ The interface adds a "Truth" icon to the standard Sierra icons. It explains whic
 
 The game is divided into six acts: Time Travel, Philadelphia, Kite/Key Experiment, Stamp Act, Constitutional Convention and Rescue Lockjaw[^ref-12]. According to the manual, succeeding at the game requires knowing about life in colonial America and Benjamin Franklin's life and times[^ref-2]. Each act ends with a quiz, and each correct answer earns progress points[^ref-5]. One walkthrough notes that to get every point "you must at least answer all the chapter quiz questions correctly and use the TRUTH cursor a lot"[^ref-13].
 
-Playing as Lockjaw gives the player a different icon bar and different ways to interact with the world[^ref-2]. In one gag, if Lockjaw drinks from his water a second time, he walks over and relieves himself on the tree[^ref-9][^ref-2].
+Playing as Lockjaw gives the player a different icon bar and different ways to interact with the world[^ref-2]. The Digital Antiquarian lists his "own unique set of doggie verbs, like a nose icon for sniffing, a paw icon for digging, and a mouth icon for eating — or biting"[^ref-32]. In one gag, if Lockjaw drinks from his water a second time, he walks over and relieves himself on the tree[^ref-9][^ref-2].
 
 ### Puzzles and Mechanics
 
@@ -73,9 +73,11 @@ The game encourages exploration and conversation with historical figures[^ref-1]
 
 ## Reception
 
-### Contemporary Reviews
+### Contemporary and Early Reviews
 
-MobyGames records an average critic score of 82% from four ratings[^ref-23]. No 1993 magazine review has been verified for this page.
+The earliest review verified for this page is Rosemary Young's for Metzomagic, dated March 1995. She noted that the game was "released as a part of the Sierra Discovery Series under the heading 'American History'", and that it "contains some very good ideas and some very funny moments". She liked that each of the six acts posts its objectives on screen ("'Meet Ben Franklin' for instance, or 'visit the mansion.'") and liked the end-of-act quiz, adding that "the questions don't need to be answered correctly to continue"[^ref-31].
+
+Her main complaint was the humour: "the game is littered with Monty Python jokes as well as various other more mature allusions such as cracks about academics. This humour seemed quite incongruous in a game so obviously aimed at pre-teenagers." She concluded: "Overall it's not the best title in Sierra's Discovery Series, but it is one of the funniest"[^ref-31].
 
 ### Modern Assessment
 
@@ -92,15 +94,19 @@ Adventure Gamers' 2010 review concluded that the game "is not only a great educa
 
 In a 2003 MobyGames user review, Afex Tween called it "One of the best educational games ever, which is a great experience for both children and adults". The same reviewer criticized the art: "the characters have large heads, quite ugly, with some ugly animation. And all the graphics is not on a high level"[^ref-23].
 
-Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing that his final impression was "I just don't get it". He added: "None of this was fun, and advancing the plot felt like work"[^ref-14]. *Metzomagic* found the game hilarious, but felt its humour was too sophisticated for its target audience because of references to things like Monty Python and academia[^ref-1]. A poster on the Hardcore Gaming 101 forums wrote: "Woah...creepy artstyle, it kinda triggers my uncanny valley"[^ref-26].
+Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing that his final impression was "I just don't get it". He added: "None of this was fun, and advancing the plot felt like work"[^ref-14]. A poster on the Hardcore Gaming 101 forums wrote: "Woah...creepy artstyle, it kinda triggers my uncanny valley"[^ref-26].
 
-GOG users voting for the game on its wishlist page wrote: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more"[^ref-25].
+GOG users voting for the game on its wishlist page wrote: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more"[^ref-25]. A commenter ("Kelp", 14 October 2009) on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
+
+**Aggregate Scores:**
+- MobyGames critics: 82% average from four ratings[^ref-23]
+- MobyGames players: 3.7 out of 5 from 21 ratings[^ref-5]
 
 ## Development
 
 ### Origins
 
-The game was based on a concept by Bill Davis, Sierra's VP of Development/Creative Director, who also designed its main characters[^ref-1][^ref-2]. MobyGames credits Davis with the original concept, and its credits also thank Davis' dog Polly Esther as the inspiration for Lockjaw[^ref-21]. It was intended as the first in a series of edutainment games in which Pepper would travel back in time to set history right[^ref-1][^ref-4]. Its earlier title was "Twisty History"[^ref-5]. Evan of AdventureGamers understood the name was changed for trademark reasons[^ref-6].
+The game was based on a concept by Bill Davis, Sierra's VP of Development/Creative Director, who also designed its main characters[^ref-1][^ref-2]. MobyGames credits Davis with the original concept, and its credits also thank Davis' dog Polly Esther as the inspiration for Lockjaw[^ref-21]. It was intended as the first in a series of edutainment games in which Pepper would travel back in time to set history right[^ref-1][^ref-4]. Its earlier title was "Twisty History"[^ref-5]. The Digital Antiquarian describes it as "the third and final adventure game released as part of the Discovery Series". Davis's proposal "was for a series called *Twisty History*", and because he "wasn't himself a designer, the first game in the planned series became something of a community effort". Pepper herself was "sketched by Bill Davis and filled in by the design team"[^ref-32]. According to the same article, "what had been planned as the beginning of the Twisty History series was re-badged as the one-off Pepper's Adventures in Time just before its release in the spring of 1993"[^ref-32]. Evan of AdventureGamers understood the name was changed for trademark reasons[^ref-6].
 
 When asked about the game in 2003, Ken Williams said he had "only vague recollections of the title". He wrote: "I 'think' that it was developed by a company we acquired in Seattle called Brightstar," but cautioned, "I barely remember it." Later in the same thread he wrote "I stand corrected!" after learning that Lorelei Shannon had designed it[^ref-6]. The databases that list a developer credit Sierra On-Line[^ref-5][^ref-7].
 
@@ -110,11 +116,42 @@ Mark Seibert produced the game, his first as a producer[^ref-2]. MobyGames credi
 
 The music was composed by Neal Grandstaff and Mark Seibert[^ref-5][^ref-21]. Adventure Gamers noted the huge amount of historical research Shannon did to detail colonial American history and life[^ref-18].
 
+**Development Credits** (DOS version, per MobyGames):[^ref-5][^ref-21]
+- **Original Concept:** [[Bill Davis]]
+- **Design:** [[Gano Haine]], [[Jane Jensen]], [[Josh Mandel]], [[Lorelei Shannon]]
+- **Text/Dialog:** [[Lorelei Shannon]]
+- **Producer:** Mark Seibert
+- **Lead Programmer:** Juan Carlos Escobar
+- **Lead Artist:** James Larsen
+- **Lead Animator:** Spartaco Margioni
+- **Music:** Neal Grandstaff, Mark Seibert
+- **Sound Effects:** Mark Seibert, Neal Grandstaff
+
 ### Technical Achievements
 
 The game was built with Sierra's Creative Interpreter (SCI) engine, specifically SCI1.1[^ref-7]. It includes the digitized faces of James and Nathan Grayson, who won a fan contest. Their real faces appear on character bodies in Goody Gumdrops' shop, and the Adventurer's Guild blogger captioned the scene "Winners of the Uncanny Valley Magazine Contest"[^ref-11].
 
-The DOS version needs at least an Intel 286 processor and 640 KB of RAM, and it supports EGA, MCGA and VGA graphics[^ref-22]. Sources disagree about a CD version. Adventure Gamers says the game "was released on CD and floppies both for DOS and Windows 3.1"[^ref-18], while Hardcore Gaming 101 says "There was no CD release"[^ref-4]. According to producer Mark Seibert, a CD-ROM release with full speech was started but never finished[^ref-20].
+Sources disagree about a CD version. Adventure Gamers says the game "was released on CD and floppies both for DOS and Windows 3.1"[^ref-18], while Hardcore Gaming 101 says "There was no CD release"[^ref-4]. According to producer Mark Seibert, a CD-ROM release with full speech was started but never finished[^ref-20].
+
+### Technical Specifications
+
+**DOS version:**[^ref-22]
+- **Processor:** Intel 80286 or better
+- **Operating system:** PC/MS-DOS 3.3 or later
+- **Memory:** 640 KB RAM
+- **Graphics:** EGA, MCGA, VGA
+- **Sound:** Adlib, Disney Sound Source, General MIDI, Microsoft Sound System, PC Speaker, Pro Audio Spectrum, PS/1 Audio Card, Roland MT-32 (and LAPC-I), Sound Blaster, Sound Blaster Pro, Thunderboard
+- **Input:** Keyboard, mouse; analog joystick supported
+- **Media:** 3.5" floppy disk
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | 1993 | DOS | 3.5" floppy[^ref-5][^ref-22] |
+| Windows release | 1993 | Windows 3.x | Listed as Windows 16-bit by MobyGames[^ref-5][^ref-7] |
+
+Whether a CD edition shipped is disputed (see above)[^ref-18][^ref-4][^ref-20].
 
 ### Cut Content and Cancelled Sequel
 
@@ -135,7 +172,7 @@ The game contains several hidden surprises for observant players:
 
 ### Modern Comparisons
 
-Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says its cartoonish graphics were similar in style to that game's[^ref-5], and Hardcore Gaming 101 saw "some shared ground" with *Day of the Tentacle*'s colonial section[^ref-4]. In a 2015 list, Kotaku UK noted that *Day of the Tentacle* is "not the only game in which you help Benjamin Franklin with his kite/key experiment (Pepper's Adventures in Time says hi!)"[^ref-30]. A commenter ("Kelp", 14 October 2009) on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
+Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says its cartoonish graphics were similar in style to that game's[^ref-5], and Hardcore Gaming 101 saw "some shared ground" with *Day of the Tentacle*'s colonial section[^ref-4]. In a 2015 list, Kotaku UK noted that *Day of the Tentacle* is "not the only game in which you help Benjamin Franklin with his kite/key experiment (Pepper's Adventures in Time says hi!)"[^ref-30].
 
 ## Downloads
 
@@ -149,30 +186,16 @@ Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1993 - EcoQuest - Lost Secret of the Rainforest]]
+- [[1991 - EcoQuest - The Search for Cetus]]
+- [[1993 - Spelling Jungle]]
+- [[EcoQuest Series]]
+- [[Dr. Brain Series]]
+- [[Bill Davis]]
+- [[Gano Haine]]
+- [[Jane Jensen]]
+- [[Josh Mandel]]
+- [[Lorelei Shannon]]
 
 ## References
 
@@ -182,13 +205,12 @@ Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says
 [^ref-5]: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/) – Developer and publisher Sierra On-Line, alternate title Twisty History, music credits, description
 [^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – 2003 thread: Ken Williams' recollections, Evan of AdventureGamers, Josh Mandel quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Developer, SCI1.1 engine, DOS and Windows 3.x releases
-[^ref-8]: [Classic Reload](https://classicreload.com/peppers-adventures-in-time.html) – Plot synopsis
 [^ref-9]: [GameFAQs – Guide and Walkthrough by THayes](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/37937) – Trip to 1764, Easter Egg bird, Lockjaw's water gags
 [^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description, Easter Egg
 [^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Lockjaw sections, pixel hunt, Poor Richard's proverbs, Grayson contest winners
 [^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Act structure
 [^ref-13]: [GameFAQs – Walkthrough by Deep Note](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/1965) – Quiz and TRUTH cursor note
-[^ref-14]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2025/04/24/peppers-adventures-in-time/) – Puzzle description, review
+[^ref-14]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2025/04/24/peppers-adventures-in-time/) – 2025 review
 [^ref-15]: [Abandonware DOS](http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating (archived snapshot)
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws) – User rating, site description
 [^ref-17]: [IMDb](https://www.imdb.com/title/tt5541176/) – User rating
@@ -205,3 +227,5 @@ Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says
 [^ref-28]: [OldGames.sk](https://www.oldgames.sk/en/game/peppers-adventures-in-time/download/2911/) – User rating
 [^ref-29]: [Adventure Gamers – Top 100 All-Time Adventure Games (archived)](https://web.archive.org/web/20130118232940/http://www.adventuregamers.com/articles/view/18643/page8/) – #67 ranking (2011)
 [^ref-30]: [Kotaku UK – The 10 Adventure Games That Everyone Must Play (2015-03-17, archived 2016-11-04)](https://web.archive.org/web/20161104124105/http://www.kotaku.co.uk/2015/03/17/the-10-adventure-games-that-everyone-must-play) – Day of the Tentacle entry: "Pepper's Adventures in Time says hi!"
+[^ref-31]: [Metzomagic – Pepper's Adventures in Time review](https://www.metzomagic.com/showArticle.php?index=54) – Rosemary Young, March 1995
+[^ref-32]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Jimmy Maher, 19 October 2018: Twisty History proposal, re-badged spring 1993, Lockjaw's verbs
