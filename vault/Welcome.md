@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-last_updated: "2026-11-07"
+last_updated: "2026-11-11"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -77,7 +77,9 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
+> | Oct 2026 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]] & [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Wet Dreams Dry Twice]] | Assemble Entertainment | Delisted from Steam and GOG (Oct 23) |
 > | Sep 2026 | AGI-64 & AGI-ANTIC | Mean Hamster Software | Released — Sierra's AGI games on Commodore 64 and Atari 8-bit (bring your own game files) |
+> | Aug 2026 | Tim Curry (1946–2026) | Voice of Gabriel Knight | Died Aug 25; voiced [[1993 - Gabriel Knight - Sins of the Fathers\|Sins of the Fathers]] and [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3]] |
 > | Aug 2026 | Gobliiins Collection (Nintendo Switch 2) | Red Art Games | Released — 4K, free upgrade for Switch owners |
 > | Jul 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for PlayStation 1]] | Hunter Davis | v1.0.0 released |
 > | Jun 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for macOS]] | d4rkwyng | v0.2.5 released — native Swift recreation |
