@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Stronghold", "Caesar III", "Lords of the Realm II", "CivCity: Rome"]
 companies: ["Firefly Studios", "Impressions Games", "Sierra On-Line", "Tynesoft"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Simon Bradbury
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -23,25 +23,27 @@ He has summed up his own path as "band – bedroom coder – freelancer – setu
 
 Simon Bradbury's entry into the video game industry came during an era when a single developer could produce and sell a commercial game to a publisher in under three months.[^ref-5] His first published game was "Elf," a side-scrolling platformer sold to Tynesoft, a company in the north east of the UK, in the mid-1980s.[^ref-5]
 
-Bradbury's transition to strategy games—the genre that would become his career focus—came with Merchant Colony, a colonizing and trading game released in 1991, on which he is credited with programming.[^ref-5][^ref-7] That same year, he also programmed International Championship Athletics for the Atari ST.[^ref-7]
+Bradbury's earliest MobyGames credit is a "Thanks" in the 1990 Amiga game Legend of the Lost, developed by Video Vulture and published by Impressions.[^ref-7][^ref-35] His transition to strategy games—the genre that would become his career focus—came with Merchant Colony, a colonizing and trading game released in 1991, on which he is credited with programming.[^ref-5][^ref-7] That same year, he also programmed International Championship Athletics for the Atari ST.[^ref-7]
 
 ### Impressions Games (1991–1999)
 
 Bradbury's most significant early career work was for Impressions Games, a studio that operated under the Sierra On-Line umbrella after its 1995 acquisition.[^ref-31] He worked with Impressions on a freelance basis rather than as an employee, working daily across the Atlantic with lead producer Eric Ouellette on the Caesar series and Lords of the Realm.[^ref-5] MobyGames likewise names him among the company's "partners and freelancers".[^ref-34]
 
-His work on the Caesar series began with [[1992 - Caesar|Caesar]] (1992), where he served as both programmer and design assistant.[^ref-7] He continued with [[1995 - Caesar II|Caesar II]] (1995), contributing programming and additional design, and was credited with programming on [[1998 - Caesar III|Caesar III]] (1998).[^ref-7] Bradbury has cited Caesar III as his personal favorite in the series, describing it as "the most accomplished, polished" entry that "benefitted greatly from the experience of coding and designing the previous two games."[^ref-5]
+His work on the Caesar series began with [[1992 - Caesar|Caesar]] (1992), where he served as both programmer and design assistant.[^ref-7] He continued with [[1995 - Caesar II|Caesar II]] (1995), for which MobyGames credits him with programming and additional design, and was credited with programming on [[1998 - Caesar III|Caesar III]] (1998).[^ref-7] Bradbury has cited Caesar III as his personal favorite in the series, describing it as "the most accomplished, polished" entry that "benefitted greatly from the experience of coding and designing the previous two games."[^ref-5]
 
 He also worked on the Lords of the Realm series: on [[1994 - Lords of the Realm|Lords of the Realm]] (1994) he is credited with additional design and programming, and on [[1996 - Lords of the Realm II|Lords of the Realm II]] (1996) as one of its credited game designers and its programmer.[^ref-7] He recalls that the series "was slower than turned-based titles and yet it also had one of the earliest RTS games inside it!"[^ref-5] He is also credited as designer and programmer on [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] (1997).[^ref-7]
 
 ### Firefly Studios (1999–Present)
 
-Bradbury links the founding of Firefly to the sale of Impressions: "The break came when David Lester sold Impressions to Sierra in 1998," he recalled, although Sierra had in fact acquired Impressions in 1995.[^ref-5][^ref-31] "I was presented with a stark choice, either get a proper job or start a company! Luckily I choose the later [*sic*]."[^ref-5] Firefly Studios was formed in August 1999 by Bradbury, David Lester and Eric Ouellette.[^ref-1] According to Bradbury, Ouellette's "first big idea was to create a mix of Caesar and Lords of the Realm and to call it Stronghold!"[^ref-5]
+Bradbury links the founding of Firefly to the sale of Impressions: "The break came when David Lester sold Impressions to Sierra in 1998," he recalled, although Sierra had in fact acquired Impressions in 1995.[^ref-5][^ref-31] "I was presented with a stark choice, either get a proper job or start a company! Luckily I choose the later [*sic*]."[^ref-5] Firefly Studios was formed in August 1999 by Bradbury, [[David Lester]] and Eric Ouellette.[^ref-1] According to Bradbury, Ouellette's "first big idea was to create a mix of Caesar and Lords of the Realm and to call it Stronghold!"[^ref-5]
 
 The original Stronghold, released in 2001, was a critical and commercial success.[^ref-1][^ref-12] Firefly describes Bradbury as lead designer on every Stronghold title up to its 2020 documentary, a run that includes Stronghold: Crusader (2002), Stronghold 2 (2005), Stronghold: Legends (2006), Stronghold 3 (2011) and Stronghold Crusader II (2014);[^ref-13][^ref-22] he was also lead designer of Stronghold: Warlords (2021).[^ref-11] He has also served as Firefly's CEO.[^ref-4][^ref-30]
 
 Beyond the Stronghold series, Firefly developed Space Colony (2003), a real-time base builder and strategy game with a sci-fi setting.[^ref-14] CivCity: Rome (2006) was created for 2K by Firefly in collaboration with Firaxis Games.[^ref-15] Stronghold Kingdoms, Firefly's first massively multiplayer game, entered open beta in 2010 and launched on Steam in 2012;[^ref-2] it has over eight million registered players.[^ref-1] Romans: Age of Caesar, a co-operative online city builder that Bradbury described as Firefly's next online game after Stronghold Kingdoms, with former Caesar III art director Darrin Horbal creating its core art, entered open beta in September 2021 and launched on Steam in April 2022.[^ref-5][^ref-33][^ref-32]
 
-Devolver Digital acquired Firefly Studios on 24 June 2021;[^ref-1] the deal was announced in November 2021 as Devolver went public.[^ref-17] Firefly says that in the following years Stronghold veterans Paul Harris and Nick Tannahill were made studio heads.[^ref-2] Recent releases have included Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition (2025).[^ref-2][^ref-7]
+Devolver Digital acquired Firefly Studios on 24 June 2021;[^ref-1] the deal was announced in November 2021 as Devolver went public.[^ref-17] Firefly says that in the following years Stronghold veterans Paul Harris and Nick Tannahill were made studio heads.[^ref-2] Recent releases have included Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition, released on Steam on 15 July 2025.[^ref-2][^ref-7][^ref-36]
+
+On 7 June 2026 Firefly announced Stronghold 4, a real-time strategy and city-builder sequel for PC (Steam), with a demo due on 23 June and a launch planned for 2026; Gematsu's report quotes studio head Nick Tannahill and does not mention Bradbury.[^ref-37] Firefly's About page also lists Stronghold 4 as set for release in 2026.[^ref-2] None of the sources found states what role, if any, Bradbury has on Stronghold 4, so this is reported as Firefly news, not as a credit for him.
 
 ## Notable Works
 
@@ -53,7 +55,7 @@ Bradbury has described Caesar III as his favorite game in the series, praising i
 
 ### Lords of the Realm II (1996)
 
-Bradbury is one of the credited game designers of [[1996 - Lords of the Realm II|Lords of the Realm II]] and its programmer.[^ref-7] Looking back on the series, he said "we looked long and hard at many game conventions, playing with each of them."[^ref-5] He has said he would love to make another instalment, but that Rebellion now owns the rights.[^ref-5]
+Bradbury is one of the credited game designers of [[1996 - Lords of the Realm II|Lords of the Realm II]] and its programmer.[^ref-7] Wikipedia's infobox lists [[David Lester]], [[Chris Beatrice]] and Eric Ouellette as the other designers.[^ref-38] Looking back on the series, he said "we looked long and hard at many game conventions, playing with each of them."[^ref-5] He has said he would love to make another instalment, but that Rebellion now owns the rights.[^ref-5]
 
 ### Stronghold (2001)
 
@@ -81,43 +83,54 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 
 ## Games
 
-### Other Early Work
-
-- 1991 — International Championship Athletics (Golden Sector Design / Hawk) — Programmer
+Credits per MobyGames.[^ref-7] Impressions Games work was freelance.[^ref-5]
 
 ### Impressions Games (1991–1999)
 
-- **1991** — Merchant Colony — Role: Programmer
-- **1992** — Discovery: In the Steps of Columbus — Role: Designer, Programmer
-- **1992** — [[1992 - Caesar|Caesar]] — Role: Design Assistant, Programmer
-- 1992 — Air Force Commander — Designer, Programmer
-- **1993** — Global Domination — Role: Designer, Programmer
-- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Additional Design, Programmer
-- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Additional Design, Programmer
-- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Game Designer, Programmer
-- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Designer, Programmer
-- **1998** — [[1998 - Caesar III|Caesar III]] — Role: Programmer
+| Year | Title | Role |
+|------|-------|------|
+| 1991 | Merchant Colony | Programmer |
+| 1992 | Discovery: In the Steps of Columbus | Designer, Programmer |
+| 1992 | [[1992 - Caesar\|Caesar]] | Design Assistant, Programmer |
+| 1992 | Air Force Commander | Designer, Programmer |
+| 1993 | Global Domination | Designer (Design Assistant on the Amiga version), Programmer |
+| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Additional Design, Programmer |
+| 1995 | [[1995 - Caesar II\|Caesar II]] | Additional Design, Programmer |
+| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Game Designer, Programmer |
+| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Game Designer, Programmer |
+| 1998 | [[1998 - Caesar III\|Caesar III]] | Programmer |
 
 ### Firefly Studios (1999–Present)
 
-- 2001 — Stronghold — Lead Designer, Programmer, Co-founder
-- 2002 — Stronghold: Crusader — Lead Designer, Programmer
-- 2002 — Stronghold Deluxe — Lead Designer, Programmer
-- 2003 — Space Colony — Designer, Additional Programming
-- 2005 — Stronghold 2 — Lead Designer
-- 2006 — CivCity: Rome — Lead Designer
-- 2006 — Stronghold: Legends — Lead Designer
-- 2008 — Stronghold: Crusader Extreme — Lead Designer, Programmer
-- 2011 — Stronghold 3 — Lead Designer
-- 2012 — Stronghold Kingdoms — Lead Designer
-- 2014 — Stronghold: Crusader II — Lead Designer
-- 2015 — Space Colony: Steam Edition — Designer
-- 2016 — Stronghold Legends: Steam Edition — Lead Designer
-- 2017 — Stronghold 2: Steam Edition — Lead Designer
-- 2021 — Stronghold: Warlords — Lead Designer
-- 2022 — Romans: Age of Caesar (open beta September 2021) — Co-founder; involved in planning (no published credit list found)[^ref-33]
-- 2023 — Stronghold: Definitive Edition — Co-founder & Designer
-- 2025 — Stronghold Crusader: Definitive Edition — Designer, Programmer
+| Year | Title | Role |
+|------|-------|------|
+| 2001 | Stronghold | Lead Designer, Programmer, Co-founder |
+| 2002 | Stronghold: Crusader | Lead Designer, Programmer |
+| 2002 | Stronghold Deluxe | Lead Designer, Programmer |
+| 2003 | Space Colony | Designer, Additional Programming |
+| 2005 | Stronghold 2 | Lead Designer |
+| 2006 | CivCity: Rome | Lead Designer |
+| 2006 | Stronghold: Legends | Lead Designer |
+| 2008 | Stronghold: Crusader Extreme | Lead Designer, Programmer |
+| 2011 | Stronghold 3 | Lead Designer |
+| 2012 | Stronghold Kingdoms | Lead Designer |
+| 2014 | Stronghold: Crusader II | Lead Designer |
+| 2015 | Space Colony: Steam Edition | Designer |
+| 2016 | Stronghold Legends: Steam Edition | Lead Designer |
+| 2017 | Stronghold 2: Steam Edition | Lead Designer |
+| 2021 | Stronghold: Warlords | Lead Designer |
+| 2022 | Romans: Age of Caesar (open beta September 2021) | Co-founder; involved in planning (no published credit list found)[^ref-33] |
+| 2023 | Stronghold: Definitive Edition | Co-founder & Designer |
+| 2025 | Stronghold Crusader: Definitive Edition | Designer, Programmer |
+
+Stronghold 4 (announced June 2026) is not listed: no source found names Bradbury's role on it.[^ref-37]
+
+### Other Credits (1990–1991)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1990 | Legend of the Lost (Amiga) | Video Vulture (developer); Impressions (publisher) | Thanks[^ref-35] |
+| 1991 | International Championship Athletics | Golden Sector Design / Hawk | Programmer |
 
 ## References
 
@@ -141,3 +154,7 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 [^ref-32]: [Pocket Gamer - Romans: Age of Caesar is now available on Steam (April 28, 2022)](https://www.pocketgamer.com/romans-age-of-caesar/released-on-pc-steam/) — Steam launch after open beta; Bradbury quoted as Firefly co-founder
 [^ref-33]: [Firefly Studios - Romans – Open Beta Now Live! (September 7, 2021)](https://fireflyworlds.com/2021/09/07/romans-open-beta/) — Open beta launch of the co-op strategy MMO from Caesar III alumni Bradbury and Ouellette
 [^ref-34]: [MobyGames - Impressions Games (Wayback, October 4, 2026)](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) — "a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"
+[^ref-35]: [MobyGames - Legend of the Lost (1990)](https://www.mobygames.com/game/54320/legend-of-the-lost/) – Amiga/Atari ST release, developed by Video Vulture, published by Impressions; read via the MobyGames API. Bradbury's "Thanks" credit is on his MobyGames credits page (ref-7)
+[^ref-36]: [Stronghold Crusader: Definitive Edition - Steam](https://store.steampowered.com/app/3024040/Stronghold_Crusader_Definitive_Edition/) – Developer and publisher Firefly Studios; released Jul 15, 2025
+[^ref-37]: [Gematsu - Stronghold 4 announced for PC (Sal Romano, June 7, 2026)](https://www.gematsu.com/2026/06/stronghold-4-announced-for-pc) – Firefly Studios announcement of Stronghold 4 for PC (Steam); demo June 23; launch in 2026; Nick Tannahill quoted; Bradbury not mentioned
+[^ref-38]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – infobox: designer David Lester, Chris Beatrice, Simon Bradbury, Eric Ouellette (checked 2026-11-11)
