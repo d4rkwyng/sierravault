@@ -32,9 +32,13 @@ Jellyvision, then called Learn Television and a maker of children's educational 
 
 In October 1996 Berkeley Systems launched beZerk, an online entertainment site built around games.[^ref-18]
 
-### Acquisition and Later Years
+### Sierra Era
 
-CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] The Times' account is the contemporary one; a later-circulated $13.8 million figure has no contemporary source. In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
+CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] Wired reported on 1 April 1997 that "the financial details of the deal ... have not been announced", and again on 8 April that "no financial details have been disclosed".[^ref-2][^ref-31] The contemporary accounts give no price; the $13.8 million figure that appears in Wikipedia's Berkeley Systems article has no contemporary source among those cited here.[^ref-6][^ref-16][^ref-31] Wired's 8 April report added that Berkeley would "function as an R&D studio for CUC", that Wes Boyd would become a consultant, that Julie Wainwright would leave, that Deyo would report to Sierra president Mike Brochu, and that the deal would be official on 11 April.[^ref-31] In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
+
+### Later Years and Closure
+
+CUC merged with HFS Incorporated in December 1997 to become Cendant, and in November 1998 Cendant announced the sale of its consumer software division, Sierra included, to Paris-based Havas.[^ref-35] In May 1999 IGN described Berkeley Systems as "a party of the happy, French family of Havas Interactive" while reporting that it had begun shipping the CD-ROM trivia game Austin Powers: Operation Trivia.[^ref-32]
 
 By 2000 little was left: the Daily Ping noted that beZerk had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-11] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-6] Boyd and Blades went on to found MoveOn.org in 1998.[^ref-6]
 
@@ -46,7 +50,7 @@ You Don't Know Jack was conceived as a trivia game for adults that mixed pop cul
 
 ### After Dark (1989)
 
-After Dark is a series of screen savers; see [[1989 - After Dark|After Dark]] and [[1991 - More After Dark|More After Dark]]. By 1997 the company said the franchise had sold over three million units.[^ref-8]
+After Dark is a series of screen savers; see [[1989 - After Dark|After Dark]] and [[1991 - More After Dark|More After Dark]]. By 1997 the company said the franchise had sold over three million units.[^ref-8] In August 2026 developer Jeff Halter released Afterglow, which he describes as "an emulator built specifically for running After Dark modules -- the original 68k module code, not a remake or port -- with no dependencies on ROMs or classic Mac OS".[^ref-33][^ref-34]
 
 ### Head Rush (1998)
 
@@ -70,10 +74,12 @@ The LA Times summed up the company in 1997 as best known for its "You Don't Know
 
 Berkeley Systems titles with SierraVault pages; MobyGames lists the company's full credits, including the You Don't Know Jack volumes.[^ref-3]
 
-- **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver
-- **1991** — [[1991 - More After Dark|More After Dark]] — Screensaver expansion
-- **1998** — [[1998 - After Dark Games|After Dark Games]] (published by Sierra) — Genre: Puzzle
-- **1998** — [[1998 - Head Rush|Head Rush]] (with Jellyvision; published by Sierra) — Genre: Trivia
+| Year | Game | Genre |
+|------|------|-------|
+| 1989 | [[1989 - After Dark\|After Dark]] | Screensaver |
+| 1991 | [[1991 - More After Dark\|More After Dark]] | Screensaver |
+| 1998 | [[1998 - After Dark Games\|After Dark Games]] (published by Sierra) | Puzzle |
+| 1998 | [[1998 - Head Rush\|Head Rush]] (with Jellyvision; published by Sierra) | Trivia |
 
 ## References
 
@@ -96,3 +102,8 @@ Berkeley Systems titles with SierraVault pages; MobyGames lists the company's fu
 [^ref-28]: [After Dark (software) - Wikipedia](https://en.wikipedia.org/wiki/After_Dark_(software)) — "Sierra Attractions and Berkeley Systems released After Dark Games in 1998"
 [^ref-29]: [Sierra Plans for the Future - GameSpot, 18 May 1998](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) — Sierra Attractions "stemming mostly from Berkeley Systems' famous brand titles"; After Dark Game Pack (November), HeadRush (August)
 [^ref-30]: [You Don't Know Jack trivia - MobyGames (Wayback, June 2024)](https://web.archive.org/web/20240621020055/https://www.mobygames.com/game/1407/you-dont-know-jack/trivia/) — "originally prototyped as a Hypercard program"; Jellyvision "immediately thought of Berkeley Systems"
+[^ref-31]: [Berkeley Buy-Out Brings Layoffs - Wired, 8 April 1997](https://www.wired.com/1997/04/berkeley-buy-out-brings-layoffs/) — "no financial details have been disclosed"; "Berkeley will function as an R&D studio for CUC"; Deyo to report to Mike Brochu; official on 11 April
+[^ref-32]: [News Briefs - IGN, 25 May 1999](https://www.ign.com/articles/1999/05/25/news-briefs-322) — "Berkeley Systems, a party of the happy, French family of Havas Interactive, has begun shipping Austin Powers: Operation Trivia"
+[^ref-33]: [Afterglow: Classic After Dark Screen Savers on Today's MacOS - Daring Fireball, 27 August 2026](https://daringfireball.net/linked/2026/08/27/afterglow) — Jeff Halter's Afterglow: "the original 68k module code, not a remake or port"
+[^ref-34]: [Afterglow Brings Classic After Dark Screen Savers to Modern macOS - MacRumors, 28 August 2026](https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/) — Halter has released Afterglow; "no dependencies on ROMs or classic Mac OS"
+[^ref-35]: [Sierra Entertainment - Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) — CUC merged with HFS in December 1997 to become Cendant; sale of consumer software division to Havas announced 20 November 1998
