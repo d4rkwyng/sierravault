@@ -10,7 +10,7 @@ series: Aces
 engine: 3Space
 protagonist: WWII European Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Aces Over Europe is a 1993 World War II combat flight simulator from
   Dynamix, the follow-up to Aces of the Pacific, set in the European Theater with
   USAAF, RAF and Luftwaffe aircraft.
@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Aces Over Europe
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -61,12 +61,12 @@ One of the game's most memorable features was its realistic navigation system, w
 
 ### Contemporary Reviews
 
-Computer Gaming World's February 1994 review (issue 115), by Tom Basham, called the game "a significant step in the Great Warplanes Series and a 'must-have' product for WWII air combat fans." It praised the new "Tall Res" mode but criticised the stall modelling and the "teleporter autopilot" that jumps the player from waypoint to waypoint[^ref-32]. The German magazine Aktueller Software Markt (issue 2/1994) closed its review with "Ein Flugi, der für Anfänger und Profis seine Anforderungen hat und trotz aller Realitätsnähe äußerst actionbetont bleibt. Tolles Game!" (a flight sim that challenges beginners and experts alike and stays very action-focused despite all its realism. Great game!)[^ref-33].
+Computer Gaming World's February 1994 review (issue 115), by Tom Basham, called the game "a significant step in the Great Warplanes Series and a 'must-have' product for WWII air combat fans." It praised the new "Tall Res" mode but reported that "stall buffet and spins have been added" but that stalls were "not handled very well", and criticised the "teleporter autopilot" that jumps the player from waypoint to waypoint[^ref-32]. The German magazine Aktueller Software Markt (issue 2/1994) closed its review with "Ein Flugi, der für Anfänger und Profis seine Anforderungen hat und trotz aller Realitätsnähe äußerst actionbetont bleibt. Tolles Game!" (a flight sim that challenges beginners and experts alike and stays very action-focused despite all its realism. Great game!)[^ref-33].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World #115 (Feb 1994) | — | No numeric score; "a 'must-have' product for WWII air combat fans"[^ref-32] |
-| Aktueller Software Markt 2/1994 | Urteil: 10 ("Gut") | Graphics 10, sound 11, gameplay 10, manual 10, realism 10[^ref-33] |
+| Aktueller Software Markt 2/1994 | Urteil: 10 | Graphics 10, sound 11, gameplay 10, manual 10, realism 10[^ref-33] |
 
 ### Aggregate and User Scores
 
@@ -112,7 +112,7 @@ The game's record and playback system was fondly remembered by fans. One GOG com
 
 In a March 1994 interview with the Polish magazine Secret Service, Damon Slye said Dynamix was preparing "coś specjalnego, tzn. upgrade – dyskietkę RUSSIAN FORCES for AOE" (something special: an upgrade disk, Russian Forces for AOE)[^ref-34]. The Dynamix fan wiki records that this expansion was never released[^ref-29].
 
-In its November 1996 "150 Best Games of All Time" feature, Computer Gaming World wrote that Aces of the Pacific, Aces Over Europe and Aces of the Deep "were all extensions of the lessons learned and technologies developed for Red Baron"[^ref-36]. Sierra's 1996 annual report listed the Aces series (Red Baron, Aces of the Pacific, Aces Over Europe and Aces of the Deep, plus an anthology) as having "sold more than 1 million copies"[^ref-37].
+In Sierra's fifteenth-anniversary advertising section in Computer Gaming World (November 1996), the company's own promotional text said that Aces of the Pacific, Aces Over Europe and Aces of the Deep "were all extensions of the lessons learned and technologies developed for Red Baron"[^ref-36]. Sierra's 1996 annual report listed the Aces series (Red Baron, Aces of the Pacific, Aces Over Europe and Aces of the Deep, plus an anthology) as having "sold more than 1 million copies"[^ref-37].
 
 The game has been preserved in multiple formats including original floppy disk images[^ref-22] and three of the game's own VCR flight-recorder replay files (DANGLORY, KICKBUT and MIKE)[^ref-21], with media databases documenting its release[^ref-23]. The title has retained a dedicated fanbase, evidenced by more than 1,500 votes on its GOG.com Dreamlist page as of October 2026[^ref-2]. Game media including cover art[^ref-24] and promotional materials[^ref-25] have been preserved, alongside the official strategy guide documentation[^ref-26].
 
@@ -122,7 +122,7 @@ Aces Over Europe also appeared on the German-market "Best Of Sierra No.06" compi
 
 **Purchase / Digital Stores**
 
-Aces Over Europe is not currently sold digitally; it is listed on GOG's Dreamlist, where users vote for games they want added[^ref-2].
+Aces Over Europe is not currently sold digitally (no GOG or Steam listing as of 2026-11-11); it is listed on GOG's Dreamlist, where users vote for games they want added[^ref-2].
 
 **Download / Preservation**
 
@@ -171,5 +171,5 @@ Aces Over Europe is not currently sold digitally; it is listed on GOG's Dreamlis
 [^ref-33]: [Aktueller Software Markt 2/1994](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1994.02) – German review, p. 54: requirements, verdict, Urteil 10 (checked against the page image)
 [^ref-34]: [Secret Service 3/1994](https://archive.org/details/secretservicemagazine-1994-03) – Polish interview with Damon Slye, p. 37: announced Russian Forces upgrade disk
 [^ref-35]: [MobyGames - Aces Over Europe DOS credits (Wayback, September 2023)](https://web.archive.org/web/20230920042211/https://www.mobygames.com/game/519/aces-over-europe/credits/dos/) – Director and designer, design/assistant director, lead programming, art director, music
-[^ref-36]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "150 Best Games of All Time": Aces games as extensions of Red Baron
+[^ref-36]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Sierra 15th Anniversary advertising section: Red Baron and the Aces games as extensions of its lessons and technology
 [^ref-37]: [Sierra On-Line Form 10-K, fiscal 1996 (Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Aces series sold more than 1 million copies
