@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Updated Red Baron game engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-11'
 composer: [Christopher Stevens, Timothy Steven Clarke]
 description: Front Page Sports Football Pro '97 is a professional American football
   simulation game developed by Dynamix and published by Sierra On-Line in 1996, the
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '97
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The game combined football management and on-field play: "You draft the players,
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] (MobyGames also credits Synergistic Software)[^ref-1]
-> **Designer:** [[Scott Youngblood]] (Direction, Design), [[Patrick Cook]] (Original Concept)[^ref-20]
+> **Designer:** [[Scott Youngblood]] (Direction, Design), [[Patrick Cook]] (Original Concept), [[Doug Johnson]] (Additional Design, with Scott Gilbert)[^ref-20]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Updated Red Baron game engine[^ref-14]
 > **Platforms:** Windows 95[^ref-9][^ref-23]
@@ -109,7 +109,7 @@ Sierra's own product page listed the series' Computer Gaming World Sports Game o
 
 ### Origins
 
-The series' original concept is credited to [[Patrick Cook]], and Computer Gaming World linked the series' focus on graphics to his earlier work on *TV Sports Football* for Cinemaware.[^ref-20][^ref-23] For '97, [[Scott Youngblood]] is credited with direction and design.[^ref-20][^ref-23] Sierra's own InterAction magazine (Holiday 1996) called Cook and Youngblood "Front Page Sports Developers."[^ref-31] Computer Gaming World judged that "the move to Windows 95 consumed the bulk of Sierra's efforts."[^ref-23]
+The series' original concept is credited to [[Patrick Cook]], and Computer Gaming World linked the series' focus on graphics to his earlier work on *TV Sports Football* for Cinemaware.[^ref-20][^ref-23] For '97, [[Scott Youngblood]] is credited with direction and design.[^ref-20][^ref-23] MobyGames also lists [[Doug Johnson]] and Scott Gilbert for Additional Design.[^ref-20] Sierra's own InterAction magazine (Holiday 1996) called Cook and Youngblood "Front Page Sports Developers."[^ref-31] Computer Gaming World judged that "the move to Windows 95 consumed the bulk of Sierra's efforts."[^ref-23]
 
 ### Production
 

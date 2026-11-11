@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Baseball Pro '96 Season", "Front Page Sports: Baseball Pro '98", "Curse You! Red Baron"]
 companies: ["Dynamix"]
-last_updated: "2026-10-15"
+last_updated: "2026-11-11"
 ---
 # Doug Johnson
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,25 +27,27 @@ He was lead designer on [[1996 - Front Page Sports - Baseball Pro '96|Front Page
 
 ### Red Baron (1998–1999)
 
-On [[1998 - Red Baron 3D|Red Baron 3-D]] (1998) he shares the multiplayer design credit with Brian Apgar and Eric Lanz. He is also credited on the manual and on the historical manual editing.[^ref-28] On [[1999 - Curse You! Red Baron|Curse You! Red Baron]] (1999) he is the credited designer. He wrote the online manual text with Dennis A. Kilgore and laid out the online manual.[^ref-29]
+On [[1998 - Red Baron 3D|Red Baron 3-D]] (1998) he shares the multiplayer design credit with Brian Apgar and Eric Lanz. He is also credited on the manual and on the historical manual editing.[^ref-28] Wikipedia's infobox for *Red Baron II* (1997) also names him, Apgar and Lanz as designers,[^ref-31] but MobyGames' credits for that game list only manual and localisation staff and no design credits, so this page does not list *Red Baron II* as a credit.[^ref-32] On [[1999 - Curse You! Red Baron|Curse You! Red Baron]] (1999) he is the credited designer. He wrote the online manual text with Dennis A. Kilgore and laid out the online manual.[^ref-29]
 
 ## Games
 
 ### Dynamix (1993–1999)
 
-- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Special Thanks[^ref-30]
-- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Additional Design; Quality Assurance Engineer[^ref-22]
-- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Additional Design; Testing[^ref-23]
-- **1995** — [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96 Season]] — Role: Additional Design; Testing[^ref-24]
-- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96 Season]] — Role: Lead Designer[^ref-25]
-- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Additional Design[^ref-26]
-- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Lead Design; Online and Printed Manual[^ref-27]
-- **1998** — [[1998 - Red Baron 3D|Red Baron 3-D]] — Role: Multiplayer Design; Manual; Historical Manual Editing[^ref-28]
-- **1999** — [[1999 - Curse You! Red Baron|Curse You! Red Baron]] — Role: Design; Online Manual Text and Layout[^ref-29]
+| Year | Title | Role |
+|------|-------|------|
+| 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Special Thanks[^ref-30] |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Additional Design; Quality Assurance Engineer[^ref-22] |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design; Testing[^ref-23] |
+| 1995 | [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96 Season]] | Additional Design; Testing[^ref-24] |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96 Season]] | Lead Designer; also named among the prior contributors the game "would not have been possible without"[^ref-25] |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Additional Design[^ref-26] |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Lead Design; Online and Printed Manual; also named among the prior contributors the game "would not have been possible without"[^ref-27] |
+| 1998 | [[1998 - Red Baron 3D\|Red Baron 3-D]] | Multiplayer Design; Manual; Historical Manual Editing[^ref-28] |
+| 1999 | [[1999 - Curse You! Red Baron\|Curse You! Red Baron]] | Design; Online Manual Text and Layout[^ref-29] |
 
 ## References
 
-[^ref-1]: [MobyGames – Doug Johnson Credits](https://www.mobygames.com/person/13612/doug-johnson/credits/) — "17 credits on 8 games", grouped by role: Design, Quality Assurance, Creative Services, Thanks (read via the research-dossier copy of 2026-01-14; the live site blocks automated access)
+[^ref-1]: [MobyGames – Doug Johnson Credits](https://www.mobygames.com/person/13612/doug-johnson/credits/) — "17 credits on 8 games", grouped by role: Design, Quality Assurance, Creative Services, Thanks (read via the research-dossier copy of 2026-01-14; the live site blocks automated access). That count predates *Curse You! Red Baron* (ref-29) and leaves out the two acknowledgement credits on Baseball Pro '96 and '98, so this page lists 9 games
 [^ref-2]: [MobyGames – Doug Johnson (Wayback, 2024-09-11)](https://web.archive.org/web/20240911170255/https://www.mobygames.com/person/13612/doug-johnson/) — "Credited on 8 games", 1993–1998, all with Dynamix and Sierra; headline roles per game; "We need a MobyGames approved biography"
 [^ref-21]: [MobyGames – Doug Johnson developer sheet (Wayback, 2009-04-02)](https://web.archive.org/web/20090402075954/http://www.mobygames.com:80/developer/sheet/view/developerId,13612/) — "There is no biography on file for this developer"; lists Red Baron 3-D, Baseball Pro '98, Baseball '94 and Aces Over Europe
 [^ref-22]: [MobyGames – Front Page Sports: Baseball '94 credits (Wayback, 2024-12-23)](https://web.archive.org/web/20241223134718/https://www.mobygames.com/game/4437/front-page-sports-baseball-94/credits/dos/) — "Additional Design: Scott Youngblood, Doug Johnson"; "Quality Assurance Engineer: Doug Johnson"
@@ -57,3 +59,5 @@ On [[1998 - Red Baron 3D|Red Baron 3-D]] (1998) he shares the multiplayer design
 [^ref-28]: [MobyGames – Red Baron 3-D credits (Wayback, 2022-03-08)](https://web.archive.org/web/20220308233045/https://www.mobygames.com/game/windows/red-baron-3-d/credits) — "Multiplayer Design: Doug Johnson, Brian Apgar, Eric Lanz"; also listed under Manual and Historical Manual Editing
 [^ref-29]: [MobyGames – Curse You! Red Baron credits (Wayback, 2026-04-06)](https://web.archive.org/web/20260406124838/https://www.mobygames.com/game/9020/curse-you-red-baron/credits/windows/) — "Design: Doug Johnson"; "Online Manual Text: Dennis A. Kilgore, Doug Johnson"; "Online Manual Layout: Doug Johnson"
 [^ref-30]: [MobyGames – Aces Over Europe credits (Wayback, 2023-09-20)](https://web.archive.org/web/20230920042211/https://www.mobygames.com/game/519/aces-over-europe/credits/dos/) — Doug Johnson listed under "Special Thanks To"
+[^ref-31]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) — infobox "designer = Doug Johnson, Brian Apgar, Eric Lanz" (Wikipedia only; no primary source found)
+[^ref-32]: [MobyGames – Red Baron II credits (Wayback, 2024-03-08)](https://web.archive.org/web/20240308140516/https://www.mobygames.com/game/1022/red-baron-ii/credits/windows/) — Windows credits, 20 people: manual credits and German localisation only; no design credits and no Doug Johnson

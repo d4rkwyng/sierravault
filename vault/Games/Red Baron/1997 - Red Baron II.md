@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Charles (Chuck) Barth]
 description: Red Baron II is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in December 1997, later patched into Red Baron 3D.
@@ -18,7 +18,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron II
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Despite the long development period and tremendous anticipation, Red Baron II's 
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Doug Johnson]], Brian Apgar, Eric Lanz[^ref-1]
+> **Designer:** [[Doug Johnson]], Brian Apgar, Eric Lanz (per Wikipedia's infobox[^ref-1]; MobyGames' credits for this game list no designers[^ref-42]. For Red Baron 3D, MobyGames credits the three for Multiplayer Design[^ref-43])
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** 3-Space[^ref-9]
 > **Platforms:** Microsoft Windows[^ref-1]
@@ -103,14 +103,14 @@ The sequel was part of Sierra's ACES series of historical wartime simulation pro
 
 ### Production
 
-The development team was directed by Tucker Hatfield with Graeme Bayless serving as producer[^ref-1]. Doug Johnson, Brian Apgar, and Eric Lanz led the design work, with Brian Apgar also serving as primary programmer[^ref-1]. Douglas Brashear was the primary artist[^ref-1]. The manual carried its own credits: Neil Haldar produced it and Steven Hill directed it, with John R. Bruning writing the historical and tactical sections[^ref-38]. MobyGames' credit list for the game reproduces that manual team, plus the German localisation staff, and lists no development team[^ref-21].
+The development team was directed by Tucker Hatfield with Graeme Bayless serving as producer[^ref-1]. Wikipedia's infobox lists Doug Johnson, Brian Apgar, and Eric Lanz as the designers, with Brian Apgar also serving as primary programmer[^ref-1]. MobyGames' credit list for Red Baron II itself shows no design credits for them or for anyone else[^ref-42]; its Red Baron 3D credits give the same three names "Multiplayer Design" and Apgar "Lead Software Engineer"[^ref-43]. The Red Baron II design roles therefore rest on Wikipedia alone. Douglas Brashear was the primary artist[^ref-1]. The manual carried its own credits: Neil Haldar produced it and Steven Hill directed it, with John R. Bruning writing the historical and tactical sections[^ref-38]. MobyGames' credit list for the game reproduces that manual team, plus the German localisation staff, and lists no development team[^ref-21][^ref-42].
 
 According to GameRevolution, the designers reportedly consulted plane specification sheets, pilot testimony, and WWI flight films in an attempt at accuracy, though the reviewer still found the shipped flight models "just off"[^ref-11]. The game's terrain was based on historical cartographic information of the northern French countryside[^ref-14]. The comprehensive manual reflected this dedication: its historical overview runs from page 5 to page 64, followed by sections on flight, maneuvers, tactics, formations, mission types, the aircraft of the war and medals, with game play instructions starting only at page 157[^ref-38][^ref-25].
 
-**Development Credits:**[^ref-1]
+**Development Credits (Wikipedia infobox):**[^ref-1]
 - **Director:** Tucker Hatfield
 - **Producer:** Graeme Bayless
-- **Designers:** Doug Johnson, Brian Apgar, Eric Lanz
+- **Designers (per Wikipedia):** Doug Johnson, Brian Apgar, Eric Lanz
 - **Primary Programmer:** Brian Apgar
 - **Primary Artist:** Douglas Brashear
 - **Music:** Charles (Chuck) Barth[^ref-26]
@@ -280,3 +280,5 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-39]: [Next Generation #40, April 1998 (Archive.org)](https://archive.org/details/NEXT_Generation_40/page/n109/mode/2up) – Red Baron II review, p. 108; rated four stars
 [^ref-40]: [Computer Gaming World #165, April 1998 (CGW Museum PDF)](https://www.cgwmuseum.org/galleries/issues/cgw_165.pdf) – "The Baron Flies Again" by Robin G. Kim, pp. 162–163; 3/5 stars, multiplayer 2–16
 [^ref-41]: [PC PowerPlay #23, April 1998 (Archive.org)](https://archive.org/details/PCPowerplay-023-1998-04/page/n63/mode/2up) – Red Baron II review by George Argy, p. 64; 92%, Gold award
+[^ref-42]: [MobyGames – Red Baron II credits (Wayback, 2024-03-08)](https://web.archive.org/web/20240308140516/https://www.mobygames.com/game/1022/red-baron-ii/credits/windows/) – Windows credits, 20 people: manual credits and German localisation only; no design, programming or art credits
+[^ref-43]: [MobyGames – Red Baron 3-D credits (Wayback, 2022-03-08)](https://web.archive.org/web/20220308233045/https://www.mobygames.com/game/windows/red-baron-3-d/credits) – "Multiplayer Design: Doug Johnson, Brian Apgar, Eric Lanz"; "Lead Software Engineer: Brian Apgar"
