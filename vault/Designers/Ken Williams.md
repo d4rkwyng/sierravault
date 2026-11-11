@@ -5,11 +5,11 @@ birth_year: 1954
 death_year: null
 notable_games: ["Mystery House", "The Wizard and the Princess", "Colossal Cave 3D Adventure"]
 companies: ["On-Line Systems", "Sierra On-Line", "CUC International", "Cygnus Entertainment"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Ken Williams
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Williams and Roberta founded On-Line Systems in 1979;[^ref-16] MobyGames' biogra
 
 Sierra took venture capital in the early 1980s. Williams wrote in his memoir: "Once we had accepted venture capital, it became like any other drug. No one stops after the first hit. ... We brought in a second round of venture capital."[^ref-7]
 
-Sierra was sold to CUC International in July 1996. Williams said in 2005: "After 18 years running Sierra I was getting burnt out."[^ref-1][^ref-16] He stayed on to guide Sierra's strategic direction until November 1997,[^ref-16] and MobyGames' biography says he stayed with CUC for a short time "to build one of the first internet-shopping systems (www.netmarket.com)".[^ref-13] NetMarket itself had been founded in 1994 by Dan Kohn and others, before CUC bought it.[^ref-27] CUC merged with HFS in December 1997 to form Cendant, and on April 15, 1998, Cendant announced that it had found accounting irregularities in CUC business units.[^ref-20][^ref-24] Of the broken promises he saw soon after the sale, Williams said in 2005: "Now, I understand that these were not honorable gentleman."[^ref-1] He said of CUC's former chief executive Walter Forbes and president Kirk Shelton, both indicted: "To this day, I have trouble believing they were crooks. Walter was on Sierra's board for many years, and there was never any hint of it."[^ref-1] He has also called the sale "the absolute worst thing that could have happened," adding: "if I could go back and not sell the company, I would happily do so."[^ref-2] He blamed "the lack of leadership immediately after the acquisition."[^ref-2]
+Sierra was sold to CUC International in July 1996 (Wikipedia and MobyGames give July 24; HistoryLink says July 26).[^ref-25] Williams said in 2005: "After 18 years running Sierra I was getting burnt out."[^ref-1][^ref-16] He stayed on to guide Sierra's strategic direction until November 1997,[^ref-16] and MobyGames' biography says he stayed with CUC for a short time "to build one of the first internet-shopping systems (www.netmarket.com)".[^ref-13] NetMarket itself had been founded in 1994 by Dan Kohn and others, before CUC bought it.[^ref-27] CUC merged with HFS in December 1997 to form Cendant, and on April 15, 1998, Cendant announced that it had found accounting irregularities in CUC business units.[^ref-20][^ref-24] Of the broken promises he saw soon after the sale, Williams said in 2005: "Now, I understand that these were not honorable gentleman."[^ref-1] He said of CUC's former chief executive Walter Forbes and president Kirk Shelton, both indicted: "To this day, I have trouble believing they were crooks. Walter was on Sierra's board for many years, and there was never any hint of it."[^ref-1] He has also called the sale "the absolute worst thing that could have happened," adding: "if I could go back and not sell the company, I would happily do so."[^ref-2] He blamed "the lack of leadership immediately after the acquisition."[^ref-2]
 
 From 1988 to 1997 Williams was credited as Executive Producer on many Sierra releases (listed below); MobyGames lists him on 90 games in all.[^ref-15] He said of the title: "The Executive Producer title didn't really mean anything. I forget if it was me, or someone else, who made it up." But, he added, "I was the one who decided if a game got made, who would make it, how much money would be spent on developing the game, and how much would be spent to promote the game."[^ref-17]
 
@@ -62,6 +62,8 @@ On returning to games in 2022, his first reaction was that "Software development
 ## Legacy
 
 Sierra launched The Sierra Network, a graphical online service, in 1991; it later became the ImagiNation Network and was bought by AT&T in 1994.[^ref-1] Williams called it "our games network" and named giving up on it as a decision he would change: "It would have been a billion-dollar business today if we'd just stuck with it."[^ref-2]
+
+A documentary about the Williamses and Sierra, [[Sierra Documentary - Legends of Adventure|*Legends of Adventure*]], is in production; its producers say they have licensed CNN archive footage that includes early-1980s footage of Ken Williams.[^ref-31]
 
 In 2014 Ken and Roberta received the inaugural Industry Icon award at The Game Awards.[^ref-16][^ref-21]
 
@@ -154,3 +156,4 @@ Credits follow MobyGames unless noted.[^ref-15]
 [^ref-28]: [Sierra Newsletter Vol. 1 No. 3 (Spring 1988), p. 16 – "Sierra Signs Contract For Silpheed" by Ken Williams](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) — Ken's own byline: February 1988 trip to Tokyo to meet Game Arts
 [^ref-29]: [Sierra On-Line Form 10-K for fiscal 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925id_/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "As of March 31, 1996, the Company and its subsidiaries employed approximately 888 persons"
 [^ref-30]: [Open Library – Not All Fairy Tales Have Happy Endings (ISBN 9781716727368)](https://openlibrary.org/isbn/9781716727368) — read via the Open Library record: Lulu.com, paperback, 408 pages, July 24, 2020
+[^ref-31]: [Backerkit Update #56463 - "Project Update: Re-animating the History of Sierra On-Line!" (November 2026)](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/56463) - producers licensed CNN archive footage, including early-1980s footage of Ken Williams
