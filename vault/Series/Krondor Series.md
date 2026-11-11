@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 1998
 total_games: 3
 genre: "Role-Playing"
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 ---
 
 # Krondor Series
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,6 +28,16 @@ Each game came from a different developer: [[Dynamix]] in Eugene, Oregon made *B
 | 1997 | [[1997 - Betrayal in Antara\|Betrayal in Antara]] | Sierra On-Line | Sierra On-Line | Peter Sarrett |
 | 1998 | [[1998 - Return to Krondor\|Return to Krondor]] | PyroTechnix / 7th Level | Sierra Studios | Andy Ashcraft, Jeryd Pojawa |
 
+## Themes and Setting
+
+### Midkemia and Ramar
+
+Two of the games are set in Midkemia, the fantasy world of Raymond E. Feist's *Riftwar Cycle* novels, which begin with *Magician* (1982).[^ref-17][^ref-1][^ref-8] *Computer Gaming World* praised *Betrayal at Krondor* for its "fascinating magical system that is built upon the magic in the novels" and for blending "new story elements with the history and characters from the much loved novels".[^ref-30] *Betrayal in Antara* moved to a world Sierra created itself, Ramar, after Sierra lost the Feist license.[^ref-6][^ref-21]
+
+### Key Characters
+
+In *Betrayal at Krondor*, the player controls a party that changes by chapter, drawn from Locklear, Owyn, Gorath, James, Patrus and Pug.[^ref-1] *Return to Krondor* stars James, with Jazhara, William, Kendaric and Solon.[^ref-8] *Betrayal in Antara* follows William Escobar, Aren Cordelaine and Kaelyn.[^ref-6]
+
 ## Betrayal at Krondor (1993)
 
 The founding entry. Dynamix released it on June 22, 1993, with [[John Cutter]] as director and Cutter and [[Neal Hallford]] as designers.[^ref-1] Feist had editorial final say on the game, but in his afterword to the novelization he states that the plot, text and new characters were created solely by Hallford and Cutter.[^ref-1] Feist later novelized the game as *Krondor: The Betrayal* (1998).[^ref-3]
@@ -37,7 +47,7 @@ The founding entry. Dynamix released it on June 22, 1993, with [[John Cutter]] a
 - **First-person exploration** of the overworld, dungeons and caves, switching to a third-person view for **turn-based combat on a grid**.[^ref-1]
 - **Moredhel wordlock chests**: combination locks with letters on each dial, opened by solving the riddle written on them. The riddles are written in Moredhel, which Gorath can read and Patrus can read with the Union spell, but the chests can also be opened by brute force.[^ref-1]
 
-**Reception:** Won *Computer Gaming World*'s Role-Playing Game of the Year award in June 1994, and *Computer Games Strategy Plus* named it 1993's best role-playing game.[^ref-1] GOG.com re-released it in 2010, and it is still sold there.[^ref-1][^ref-5]
+**Reception:** *Computer Gaming World*'s June 1994 issue named it the "PREMIER Role-Playing Game of the Year", calling it "the quintessential example of how a computer game should be built from a fantasy novel".[^ref-30] *Computer Games Strategy Plus* named it 1993's best role-playing game.[^ref-1] GOG.com re-released it in 2010, and it is still sold there.[^ref-1][^ref-5]
 
 ## Betrayal in Antara (1997)
 
@@ -61,7 +71,11 @@ The series finale, and the officially licensed sequel to *Betrayal at Krondor*.[
 - **Alchemy and lockpicking**: players brew custom potions and disarm locks in a timed mouse-click minigame.[^ref-8]
 - **Party**: James, the player character, with Jazhara, William, Kendaric and Solon.[^ref-8]
 
-**Reception:** Above-average reviews overall. *Computer Games Strategy Plus* called it "a stunning return to form for the Krondor series" with "some of the juiciest turn-based battles ever to grace a role-playing game", while *Computer Gaming World*'s Petra Schlunk found it "a lightweight RPG" that failed to match *Betrayal at Krondor*. CNET Gamecenter reported in December 1998 that it was "selling well".[^ref-8] Available on GOG.com.[^ref-10]
+**Reception:** Above-average reviews overall. *Computer Games Strategy Plus* called it "a stunning return to form for the Krondor series" with "some of the juiciest turn-based battles ever to grace a role-playing game", while *Computer Gaming World*'s Petra Schlunk found it "a lightweight RPG" that failed to match *Betrayal at Krondor*. CNET Gamecenter reported in December 1998 that it was "selling well".[^ref-8] Available on GOG.com[^ref-10] and on Steam (store page checked November 11, 2026).[^ref-27]
+
+## Technical Evolution
+
+*Betrayal at Krondor* used first-person exploration with grid-based, turn-based combat in a third-person view,[^ref-1] and *Computer Gaming World* credited it with a "bold use of the company's proprietary 3-Space (3-D) technology" and "lavish use of digitized images".[^ref-30] *Betrayal in Antara* kept much of that interface and was described by GameSpot as "one of the first RPGs to utilize high-resolution SVGA graphics".[^ref-15][^ref-7] *Return to Krondor* changed approach: pre-rendered backgrounds with changing camera angles and 3D character models, running on the True3D engine, with recorded character voices.[^ref-20][^ref-8]
 
 ## Rights History
 
@@ -74,6 +88,30 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 - ***Computer Gaming World*** ranked it #43 on its list of the 150 best games of all time (November 1996) and had inducted it into its Hall of Fame in February 1996 (issue #139).[^ref-1][^ref-26]
 - ***PC Gamer US*** named it the 31st best computer game ever in 1994, included it in its 1997 "Best 50 Games of All-Time" list, and ranked it 44th in 1998.[^ref-1]
 - **IGN** placed it at #92 on its Top 100 RPGs of All Time.[^ref-18]
+
+## Legacy
+
+*Betrayal at Krondor* remains the series' reference point: it won *Computer Gaming World*'s 1994 role-playing award and later appeared on all-time lists (see Critical Legacy above).[^ref-30][^ref-1] The series also produced two novelizations by Feist: *Krondor: The Betrayal* (1998), based on the first game, and *Krondor: Tear of the Gods* (2000), based on *Return to Krondor*.[^ref-3][^ref-31]
+
+### Fan Community
+
+Fan work centers on the first game; see Fan Remakes below.[^ref-28][^ref-29]
+
+## Playing Today
+
+### Purchase Links
+
+- [GOG.com: Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) — *Betrayal at Krondor* and *Betrayal in Antara* together[^ref-5]
+- [GOG.com: Return to Krondor](https://www.gog.com/en/game/return_to_krondor)[^ref-10]
+- [Steam: Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) — the same two games[^ref-19]
+- [Steam: Return to Krondor](https://store.steampowered.com/app/564960/Return_to_Krondor/)[^ref-27]
+
+Availability was checked on November 11, 2026. Prices vary by store and over time, so none are listed here.
+
+### Fan Remakes
+
+- **xBaK** is a fan-made, open-source (GPL) remake engine for *Betrayal at Krondor*, developed on Linux. It needs the original game's data files, which it does not distribute. Its site describes it as in alpha with no playable game yet; the latest release listed is xbak-0.1.5 (February 17, 2010).[^ref-28]
+- ***Betrayal at Krondor: Remastered*** is a tech demo by [[Neal Hallford]], the original co-designer, rebuilding a small portion of the game in Amazon's Lumberyard engine. RPG Codex reported it on March 18, 2016.[^ref-29]
 
 ## See Also
 
@@ -104,3 +142,8 @@ The license changed hands several times. Floppy-disk sales of *Betrayal at Krond
 [^ref-24]: [Next Generation #12 (December 1995), Internet Archive](https://archive.org/details/NEXT_Generation_12/page/n27/mode/2up) — Dynamix stopped work on the Krondor sequel; Feist took Midkemia to 7th Level
 [^ref-25]: [MobyGames – Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
 [^ref-26]: [Computer Gaming World #139 (February 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_139) – Hall of Fame "Induction Ceremony": "We do hereby induct Betrayal at Krondor (BAK) into this august collection of classics"
+[^ref-27]: [Steam — Return to Krondor](https://store.steampowered.com/app/564960/Return_to_Krondor/) – Store page, checked 2026-11-11; Windows XP/Vista minimum requirements listed
+[^ref-28]: [xBaK project site](https://xbak.sourceforge.net/) – "A fan-made remake of 'Betrayal at Krondor'", alpha stage, GPL, xbak-0.1.5 released 2010-02-17
+[^ref-29]: [RPG Codex — Check out Neal Hallford's Betrayal at Krondor: Remastered Tech Demo](https://rpgcodex.net/article.php?id=10244) – March 18, 2016 news post: Hallford's remake of a small portion of the game in Amazon Lumberyard
+[^ref-30]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; "bold use of the company's proprietary 3-Space (3-D) technology"
+[^ref-31]: [Wikipedia — Krondor: Tear of the Gods](https://en.wikipedia.org/wiki/Krondor:_Tear_of_the_Gods) – Feist novel, published November 20, 2000, a novelization of Return to Krondor
