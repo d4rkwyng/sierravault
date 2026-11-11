@@ -154,7 +154,7 @@ Activision's terms required the game to stay free and hosted only on Phoenix's o
 
 ### Fan Projects
 
-After Episodes 3 and 4, many team members moved to paid work on the studio's second game, *Cognition*.[^ref-19] Sometime in June 2014, Phoenix turned the rights to the game over to Activision. Activision announced the revival of its Sierra label on August 7 of that year.[^ref-19]
+After Episodes 3 and 4, many team members moved to paid work on the studio's second game, *Cognition*.[^ref-19] According to Wikipedia, Phoenix then stated that it would release all rights to the game to Activision upon request; Activision announced the revival of its Sierra label on August 7, 2014.[^ref-19]
 
 ### Related Publications
 
