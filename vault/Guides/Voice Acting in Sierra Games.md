@@ -1,11 +1,11 @@
 ---
 title: "Voice Acting in Sierra Games"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Voice Acting in Sierra Games
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra On-Line pioneered voice acting in adventure games, transitioning from silent text-based adventures to fully voiced "talkie" experiences. This guide chronicles the history of speech in Sierra games, from early experiments to Hollywood talent.
 
@@ -79,11 +79,11 @@ The Space Quest series featured legendary voice actor Gary Owens:[^ref-3]
 
 Owens is credited with over 30,000 voice-over jobs and commercials.[^ref-3] When writing narrator lines, Scott Murphy always imagined Owens speaking them, and signing him was a dream come true.[^ref-3]
 
-After Owens died on February 12, 2015,[^ref-12] Mark Crowe, posting for both Two Guys from Andromeda, called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-5]
+After Owens died on February 12, 2015,[^ref-12] [[Mark Crowe]] posted on behalf of both Two Guys from Andromeda, calling him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-5]
 
-### Quest for Glory IV: Shadows of Darkness (1993)
+### Quest for Glory IV: Shadows of Darkness (1993; CD-ROM 1994)
 
-[[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] featured extensive narration by:
+[[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] shipped on floppy disk in December 1993; the voiced CD-ROM version followed in September 1994.[^ref-6] It featured extensive narration by:
 
 | Role | Voice Actor | Recording Time |
 |------|-------------|----------------|
@@ -226,7 +226,7 @@ Narrated King's Quest VI.[^ref-23]
 | Game | Voice Acting | Notable Cast |
 |------|--------------|--------------|
 | QFG1–III | None (text only) | — |
-| QFG4 | Professional | John Rhys-Davies (narrator)[^ref-6] |
+| QFG4 CD (September 1994) | Professional | John Rhys-Davies (narrator)[^ref-6] |
 | QFG5 | Professional | Full voice cast[^ref-27] |
 
 ### Leisure Suit Larry
@@ -254,6 +254,8 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 
 ## See Also
 
+- [[Voice Cast Index]] — Credited voice casts across Sierra games
+- [[Josh Mandel]] — Sierra staff member credited in several CD casts
 - [[Sierra Music and Composers]] — Audio production history
 - [[Designer Index]] — Key Sierra personnel
 - [[Engine Index]] — Technical evolution enabling voice
