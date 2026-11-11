@@ -5,11 +5,11 @@ birth_year: null
 death_year: 2011
 notable_games: ["King's Quest V", "King's Quest VI", "Leisure Suit Larry 2", "Leisure Suit Larry 5", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Carlos Escobar
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -17,7 +17,7 @@ Juan Carlos Escobar, credited as Juan Carlos Escobar in MobyGames' game credits 
 
 Colleagues remembered him for his dry wit. Fellow programmer Robert Lindsley made a batch file that displayed a random "Carlos says" quote when a computer restarted, and Doug Oldfield later turned it into a program that "floated around the company for years".[^ref-3]
 
-Escobar died on July 4, 2011.[^ref-1][^ref-5]
+According to MobyGames, Escobar died on July 4, 2011;[^ref-1] the description of a Facebook memorial group repeats the date.[^ref-5] No obituary or other independent record of the date has been located.
 
 ## Career
 
@@ -27,11 +27,11 @@ Al Lowe recalled in 2011: "As I recall, Carlos started at Sierra by working with
 
 Escobar also did Apple ports. The Apple IIGS version of [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]], released in April 1988, credits "Apple IIgs Version: Juan Carlos Escobar" and "Apple IIgs Version: Al Lowe".[^ref-6] He is credited with the Apple II and Apple IIgs versions of [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]],[^ref-15][^ref-11] and with the Apple version of [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] (Apple IIgs, 1988).[^ref-11][^ref-12][^ref-18]
 
-On the Leisure Suit Larry series he is credited with programming on [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|LSL3]] and [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL5]], and with lead programming on [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|LSL6]].[^ref-11] Mark Hood recalled that "Carlos also memorialized me forever in LSL3 as 'Mark the plumber'", placing the grossest sound effects Al would allow every time that character bent over.[^ref-13]
+On the Leisure Suit Larry series he is credited with programming on [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|LSL3]] and [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL5]], and with lead programming on [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|LSL6]].[^ref-11] The LSL3 manual lists "Programmers: Al Lowe, Carlos Escobar".[^ref-21] Mark Hood recalled that "Carlos also memorialized me forever in LSL3 as 'Mark the plumber'", placing the grossest sound effects Al would allow every time that character bent over.[^ref-13]
 
 He was among the programmers of [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990), and the game's manual lists him under PROGRAMMERS.[^ref-9][^ref-11][^ref-20] On [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] (1992), whose lead programmer was Robert Lindsley,[^ref-8] Escobar is credited with additional programming.[^ref-10][^ref-16]
 
-His other credits run from Code-Name: Iceman (additional programming on the Amiga version) and Conquests of the Longbow (additional programming) to Space Quest IV, the VGA remakes of Police Quest and Quest for Glory I, Freddy Pharkas (special quest programming), the CD version of Police Quest: Open Season, Slater & Charlie Go Camping, King's Quest VII and Phantasmagoria.[^ref-11][^ref-12]
+His other credits run from Code-Name: Iceman (additional programming on the Amiga version) and Conquests of the Longbow (additional programming) to Space Quest IV, the VGA remakes of Police Quest and Quest for Glory I, Freddy Pharkas (special quest programming), the CD version of Police Quest: Open Season, Slater & Charlie Go Camping, King's Quest VII and Phantasmagoria.[^ref-11][^ref-12] Sierra's printed manuals also credit "Carlos Escobar" under "Additional Programming" for Code-Name: Iceman,[^ref-24] under "Programming" for Slater & Charlie Go Camping[^ref-22] and among the programmers of Phantasmagoria.[^ref-23]
 
 ### The "Carlos Says" Legacy
 
@@ -77,27 +77,31 @@ Bridget McKenna recalled: "He was such a character, and so much a part of our ev
 
 Roles follow MobyGames' credit wording unless another source is cited.[^ref-11]
 
-- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] (Apple II / Apple IIgs) — Role: Apple Version by[^ref-15]
-- **1988** — [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]] (Apple IIGS) — Role: Apple IIgs Version (with Al Lowe)[^ref-6]
-- **1988** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] (Apple IIgs) — Role: Apple Version by
-- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Role: Programmer (per Al Lowe; not in his MobyGames credits)[^ref-13]
-- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Programming
-- **1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] (Amiga) — Role: Additional Programming
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Programmers[^ref-20]
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]] (MobyGames: 1991) — Role: Lead Programmer[^ref-19]
-- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Additional Programming
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Programming
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Programming
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Additional Programming
-- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel]] (VGA) — Role: Programming; Very Special Thanks
-- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want To Be A Hero]] (VGA) — Role: Programmers
-- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Special Quest Programming
-- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Role: Lead Programming
-- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Lead Programmer
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (CD) — Role: CD Programming
-- **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Role: Programming
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Programmers
-- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Programming
+### Sierra On-Line (1987–1995)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] (Apple II / Apple IIgs) | Apple Version by[^ref-15] |
+| 1988 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I: Quest for the Crown]] (Apple IIGS) | Apple IIgs Version (with Al Lowe)[^ref-6] |
+| 1988 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] (Apple IIgs) | Apple Version by[^ref-18] |
+| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Programmer (per Al Lowe; not in his MobyGames credits)[^ref-13] |
+| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Programming[^ref-21] |
+| 1990 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] (Amiga) | Additional Programming[^ref-24] |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmers[^ref-20] |
+| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]] (MobyGames: 1991) | Lead Programmer[^ref-19] |
+| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Additional Programming[^ref-11] |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Programming[^ref-11] |
+| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Programming[^ref-11] |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Additional Programming[^ref-10][^ref-16] |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel]] (VGA) | Programming; Very Special Thanks[^ref-11] |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero]] (VGA) | Programmers[^ref-11] |
+| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Special Quest Programming[^ref-11] |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Lead Programming[^ref-11] |
+| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Lead Programmer[^ref-11] |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] (CD) | CD Programming[^ref-11] |
+| 1993 | [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]] | Programming[^ref-22] |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Programmers[^ref-11] |
+| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Programming[^ref-23] |
 
 ## References
 
@@ -117,3 +121,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-11]
 [^ref-18]: [Sierra Wiki - Leisure Suit Larry in the Land of the Lounge Lizards (AGI)](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards_%28AGI%29) — "Apple Version: Juan Carlos Escobar"
 [^ref-19]: [Mixed-Up Mother Goose (SCI) manual, Sierra On-Line, 1990 (Internet Archive scan)](https://archive.org/details/vgmuseum_sierra_mothergoose-manual) — Credits: "Lead Programmer / Carlos Escobar"; back cover "© 1990 Sierra On-Line, Inc."
 [^ref-20]: [King's Quest V manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Kings_Quest_5_-_Manual) — Credits, PROGRAMMERS: "... Doug Oldfield / Carlos Escobar / Oliver Brelsford"
+[^ref-21]: [Leisure Suit Larry III manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) — Credits: "Programmers / Al Lowe / Carlos Escobar"
+[^ref-22]: [Slater & Charlie Go Camping manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Slater_and_Charlie_Go_Camping_-_Manual) — Credits: "Programming / CARLOS ESCOBAR / CHRIS CARR / KIM BOWDISH"
+[^ref-23]: [Phantasmagoria manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Phantasmagoria_-_Manual) — Credits, Programmers: "Doug Oldfield, Dave Artis, Vana Baker, Adam Bentley, Chris Carr, Carlos Escobar, Bryan Waters"
+[^ref-24]: [Code-Name: Iceman manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Codename_Iceman_Manual) — Credits, ADDITIONAL PROGRAMMING: "Larry Scott / Carlos Escobar / Robert Lindsley / Dave Skinner"
