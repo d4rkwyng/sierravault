@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Order of the Thorne: Fortress of Fire is an unreleased point-and-click
   adventure game by Infamous Quests, intended as the second and likely final installment
   in the Order of the Thorne anthology series.'
@@ -18,7 +18,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previo
 > **Designer:** Steven Alexander, Shawn Mills, James Broom (company key people; no per-game roles published)[^ref-7][^ref-5]
 > **Publisher:** Infamous Quests (planned self-release)[^ref-20]
 > **Engine:** Adventure Game Studio[^ref-20]
-> **Platforms:** PC, Mac, Linux, Android (planned)[^ref-1]
+> **Platforms:** Windows, Mac, Linux, Android (planned)[^ref-1]
 > **Release Year:** Unreleased (development in limbo)
 > **Series:** Order of the Thorne
 > **Protagonist:** Patrick (Addy)[^ref-4]
@@ -180,22 +180,6 @@ Interest in the game has outlasted its development. Fans were already discussing
 - [[2014 - Quest for Infamy]] — Infamous Quests' first commercial release
 - [[TBD - Quest for Infamy - Roehm to Ruin]] — Infamous Quests' other in-development title
 - [[Infamous Quests]] — developer
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2022 - SpaceVenture]]
-- [[2023 - Colossal Cave 3D Adventure]]
-- [[2023 - Summer Daze - Tilly's Tale]]
 
 ## References
 
