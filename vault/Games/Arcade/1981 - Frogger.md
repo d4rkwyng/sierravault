@@ -12,7 +12,7 @@ series: Frogger
 engine: Galaxian-derived arcade hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Frogger is Konami's 1981 arcade game, distributed by Sega/Gremlin, for
   which Sierra On-Line held the home-computer disk and tape rights and published ports
   for the Atari 8-bit, Apple II, Commodore 64, IBM PC, VIC-20 and Macintosh.
@@ -20,7 +20,7 @@ tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ Frogger is one of the most iconic and recognizable arcade games of the 1980s, or
 
 Sierra On-Line played a crucial role in bringing Frogger to home computers, holding the magnetic media licensing rights while Parker Brothers held the ROM cartridge rights[^ref-4]. This licensing arrangement meant that some platforms received two entirely different versions of the game from different publishers[^ref-5]. Sierra's first port was John Harris's Atari 8-bit version, released in late 1982[^ref-32], followed by Apple II, Commodore 64 and IBM PC versions in 1983 and a Macintosh version in 1984[^ref-9][^ref-23].
 
-Frogger has earned lasting recognition as one of the greatest video games ever made, selling over 20 million copies worldwide by 2005[^ref-1]. The game was included in TIME's "All-TIME 100 Video Games" list in 2012[^ref-39] and was named a finalist for the World Video Game Hall of Fame in 2020, 2025 and 2026[^ref-40][^ref-28][^ref-41]. Its cultural impact extends beyond gaming, with memorable appearances in television shows including Seinfeld, The Simpsons, and the film Wreck-It Ralph[^ref-7].
+Frogger has earned lasting recognition as one of the greatest video games ever made, selling over 20 million copies worldwide by 2005[^ref-1]. The game was included in TIME's "All-TIME 100 Video Games" list in 2012[^ref-39] and was named a finalist for the World Video Game Hall of Fame in 2020, 2025 and 2026[^ref-40][^ref-28][^ref-41]; it was not inducted when the class of 2026 (Angry Birds, Dragon Quest, EA Sports FIFA International Soccer and Silent Hill) was announced on May 7, 2026[^ref-42]. Its cultural impact extends beyond gaming, with memorable appearances in television shows including Seinfeld, The Simpsons, and the film Wreck-It Ralph[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Konami[^ref-1]
@@ -126,7 +126,18 @@ Frogger was Sierra's first licensed game. Its Atari programmer John Harris loved
 
 Harris started on the Atari 400/800 version while Williams assigned Olaf Lubeck to the Apple II[^ref-32]. Two months in, with the port nearly finished, Harris took his software to a software expo in San Diego, and nearly everything he had written was stolen there, including the near-complete Frogger. He had to write the game a second time, and the Atari 8-bit disk and cassette versions finally appeared in late 1982 under Sierra's short-lived SierraVision label[^ref-32]. Frogger was the last game Harris made for Sierra before he left for Synapse Software[^ref-37].
 
-Lubeck's Apple II version followed in 1983, and he also produced the IBM PC booter version that year[^ref-32]. [[Chuck Benton]] wrote the Commodore 64 version, released on disk and tape in 1983[^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
+Lubeck's Apple II version followed in 1983, and he also produced the IBM PC booter version that year[^ref-32]. [[Chuck Benton]] wrote the Commodore 64 version, released on disk in 1983[^ref-9][^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
+
+### Voice Cast
+
+The original arcade game and most home ports feature no voice acting. However, the 1983 animated television series "Frogger" on CBS's Saturday Supercade featured the following cast[^ref-25]:
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Frogger | Bob Sarlatte |
+| Shellshock "Shelly" Turtle | Marvin Kaplan |
+| Fanny Frog | B.J. Ward |
+| Tex Toadwalker | Ted Field, Sr. |
 
 ### Technical Achievements
 
@@ -167,7 +178,7 @@ The original Japanese arcade date is disputed: sources give January 1981 (introd
 | Parker Brothers | August 1982 | Atari 2600 | Cartridge port[^ref-9] |
 | Sierra On-Line (SierraVision) | Late 1982 | Atari 8-bit | John Harris's disk and cassette port[^ref-32] |
 | Sierra On-Line | 1983 | Apple II, IBM PC (booter) | Olaf Lubeck's ports[^ref-32][^ref-9] |
-| Sierra On-Line | 1983 | Commodore 64 | Chuck Benton's port, disk and tape[^ref-14][^ref-19] |
+| Sierra On-Line | 1983 | Commodore 64 | Chuck Benton's port, disk release[^ref-9][^ref-14][^ref-19] |
 | Sierra On-Line | 1983 | Atari 8-bit | Benton's update of Harris's version, adding a two-player option[^ref-32] |
 | Sierra On-Line | December 1983 | VIC-20 | Sierra release[^ref-9] |
 | Sierra On-Line | 1984 | Macintosh | Original Macintosh version[^ref-9][^ref-23] |
@@ -198,17 +209,6 @@ The original arcade game contains several documented bugs and quirks[^ref-10]:
 - Frogger Homed variations: "Heidi, Girl of the Alps," "Hana no Ko Lunlun," "Yankee Doodle," "A Hundred Pipers"
 - Restart: "Camptown Races"
 
-## Voice Cast
-
-The original arcade game and most home ports feature no voice acting. However, the 1983 animated television series "Frogger" on CBS's Saturday Supercade featured the following cast[^ref-25]:
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Frogger | Bob Sarlatte |
-| Shellshock "Shelly" Turtle | Marvin Kaplan |
-| Fanny Frog | B.J. Ward |
-| Tex Toadwalker | Ted Field, Sr. |
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -224,7 +224,7 @@ By 2005, various home versions of Frogger had sold over 20 million copies worldw
 - **1983 Arcade Awards (for 1982):** Best Arcade-to-Home Videogame Translation, Electronic Games (Atari VCS)[^ref-38]
 - **1984 Arcade Awards (for 1983):** Best Arcade-to-Home Computer Game Translation, Electronic Games (Atari 8-bit). The listing does not say whether this was Sierra's or Parker Brothers' Atari 8-bit version[^ref-38]
 - **2012:** Included in TIME's "All-TIME 100 Video Games"[^ref-39]
-- **2020, 2025, 2026:** World Video Game Hall of Fame finalist[^ref-40][^ref-28][^ref-41]
+- **2020, 2025, 2026:** World Video Game Hall of Fame finalist[^ref-40][^ref-28][^ref-41]. Not inducted in 2026: the inductees announced on May 7, 2026 were Angry Birds, Dragon Quest, EA Sports FIFA International Soccer and Silent Hill[^ref-42]
 
 ### Collections
 
@@ -237,7 +237,7 @@ Frogger has appeared in numerous compilations over its four-decade history:
 
 The game's popularity has spawned countless clones and tributes:
 
-- **Ribbit** (Apple II, 1981)[^ref-1] - An unofficial clone by Piccadilly Software, developed by college students Chris Eisnaugle and Lance Fortnow, which some claimed was "better than the 'official' Frogger port released by Sierra On-Line"[^ref-30]. Sierra sent a cease and desist letter due to their exclusive licensing agreement.
+- **Ribbit** (Apple II; 1981 per Wikipedia[^ref-1], 1980 per Apple2Games[^ref-30]) - An unofficial clone by Piccadilly Software, developed by college students Chris Eisnaugle and Lance Fortnow, which some claimed was "better than the 'official' Frogger port released by Sierra On-Line"[^ref-30]. Sierra sent a cease and desist letter due to their exclusive licensing agreement.
 
 - **Frogger Arcade** (C64, 2015) - A homebrew remake by InuYaksa of Hokuto Force, rated 7.62/10 by C64-Wiki users[^ref-31]
 
@@ -255,7 +255,7 @@ Game Developer's analysis traces its appeal to learnable obstacle patterns playe
 
 The 1997 3D remake published by Hasbro Interactive and developed by Sony Computer Entertainment Europe's Cambridge studio (later Guerrilla Cambridge) achieved massive commercial success with 6 million units sold worldwide by 2001[^ref-29], proving the concept's viability across gaming generations. However, its mixed critical reception (ranging from IGN's brutal 2/10 to GameSpot's respectable 6.7/10) demonstrated the challenges of translating classic 2D gameplay to three dimensions[^ref-29].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - [Nintendo eShop (Arcade Archives)](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) - Nintendo Switch version
@@ -292,13 +292,13 @@ The 1997 3D remake published by Hasbro Interactive and developed by Sony Compute
 [^ref-10]: [Arcade Museum – Frogger](https://www.arcade-museum.com/Videogame/frogger) – technical specs, bugs, easter eggs
 [^ref-11]: [Medium – Great Games: Frogger](https://medium.com/portraits-in-pixel/great-games-frogger-b97b15bef2c) – development origins, publishing challenges
 [^ref-12]: [Game Developer – What Makes Frogger Fun](https://www.gamedeveloper.com/business/what-makes-frogger-fun-) – gameplay analysis
-[^ref-13]: [Entertainment Weekly – 10 Best Atari Games](http://www.ew.com/article/2013/01/25/the-10-best-atari-games) – controls, cultural impact
+[^ref-13]: [Entertainment Weekly – 10 Best Atari Games (Wayback Machine, 2 March 2026)](https://web.archive.org/web/20260302023741/https://ew.com/article/2013/01/25/the-10-best-atari-games/) – controls, cultural impact
 [^ref-14]: [C64-Wiki – Frogger (Sierra)](https://www.c64-wiki.com/wiki/Frogger_(Sierra_Online,_Inc.)) – C64 version details, user reviews
 [^ref-15]: [PrimeTime Amusements – Getting Good at Frogger](https://primetimeamusements.com/getting-good-frogger/) – gameplay mechanics, hazards
 [^ref-16]: [Atari Magazines – VG Update](http://www.atarimagazines.com/cva/v1n1/vgupdate.php) – Parker Brothers review, wraparound feature
 [^ref-17]: [Nintendo – Arcade Archives Frogger](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) – Switch release details
 [^ref-18]: [IMDB – Frogger (1981 Video Game)](https://www.imdb.com/title/tt0294586/) – Konami's original 1981 arcade game; 7.2/10 from 1,027 ratings (checked October 29, 2026)
-[^ref-19]: [Lemon64 – Frogger](https://www.lemon64.com/game/frogger) – Sierra C64 version, 1983, creator Charles Benton
+[^ref-19]: [Lemon64 – Frogger](https://www.lemon64.com/game/frogger) – Sierra C64 disk version, 1983, creator Charles Benton
 [^ref-21]: [Medium – Frogger History](https://lbhuston.medium.com/frogger-the-funky-funny-history-of-an-arcade-classic-d3c88dfdfee0) – executive rejection, Elizabeth Falconer
 [^ref-22]: [Computer Archeology – Frogger Sound](https://computerarcheology.com/Arcade/Frogger/) – music analysis, hidden content, bugs
 [^ref-23]: [PCGamingWiki – Frogger (1983)](https://www.pcgamingwiki.com/wiki/Frogger) – PC specifications
@@ -316,3 +316,4 @@ The 1997 3D remake published by Hasbro Interactive and developed by Sony Compute
 [^ref-39]: [Gameranx – TIME Reveals Its List of All-TIME Top 100 Video Games](https://gameranx.com/updates/id/10804/article/time-reveals-its-list-of-all-time-top-100-video-games/) – Frogger in the 1980s section
 [^ref-40]: [KATV – World Video Game Hall of Fame announces 2020 finalists (19 March 2020, Wayback Machine)](https://web.archive.org/web/20230703002434/https://katv.com/news/entertainment/world-video-game-hall-of-fame-announces-2020-finalists) – Frogger among the 2020 finalists
 [^ref-41]: [The Strong – World Video Game Hall of Fame Reveals 12 Finalists for 2026 Induction](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists-for-2026-induction/) – "Can Frogger navigate its way to glory?"; 2026 finalist
+[^ref-42]: [The Strong – 2026 World Video Game Hall of Fame Inductees Revealed (7 May 2026)](https://www.museumofplay.org/press-release/2026-world-video-game-hall-of-fame-inductees-revealed/) – Angry Birds, Dragon Quest, EA Sports FIFA International Soccer and Silent Hill inducted; Frogger listed among the other finalists
