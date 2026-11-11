@@ -107,7 +107,7 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 ### Controversies
 - The age quiz at the start of the first game[^ref-18]
 - The California legislature once introduced a "Leisure Suit Larry" bill to prohibit adult themes in computer games; it died in committee[^ref-3]
-- In May 2025, LSL1–7 and Magna Cum Laude were removed from Steam. Assemble Entertainment gave no reason;[^ref-10][^ref-11] Video Game History Foundation's Phil Salvador suggested the Codemasters licence, now owned by EA, may not have been renewed[^ref-10]
+- On April 30, 2025, Assemble Entertainment announced that LSL1–7 and Magna Cum Laude would soon leave the Steam store (reported May 1, 2025); it gave no reason;[^ref-10][^ref-11] Video Game History Foundation's Phil Salvador suggested the Codemasters licence, now owned by EA, may not have been renewed[^ref-10]
 - On October 23, 2026, publisher Assemble Entertainment removed the last two games, Wet Dreams Don't Dry and Wet Dreams Dry Twice, from Steam and GOG. It gave no reason, saying only "we can't share anything about his future"[^ref-12][^ref-33]
 
 ## Playing Today
