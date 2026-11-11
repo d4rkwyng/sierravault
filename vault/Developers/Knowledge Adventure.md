@@ -6,11 +6,11 @@ defunct: 2023
 headquarters: "Glendale, California, USA (1990s); later Torrance, California, USA"
 notable_games: ["JumpStart Series", "3-D Body Adventure", "Space Adventure"]
 parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004), NetDragon Websoft (from 2017)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ MobyGames and TV Tropes both say Knowledge Adventure was co-founded in 1991 by R
 
 ### CUC Software: a sister company to Sierra (1996–1998)
 
-CUC International announced on 5 November 1996 that it would buy Knowledge Adventure.[^ref-22][^ref-5] The deal was completed on 31 January 1997.[^ref-5] CUC issued 3,461,551 shares of its common stock, which valued the acquisition at $86.1 million.[^ref-21] Knowledge Adventure became "part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line", and it stayed in Glendale.[^ref-21] The *Los Angeles Times* reported that the idea of buying Knowledge Adventure "came from employees of Davidson & Associates and Sierra Online".[^ref-22]
+CUC International announced on 5 November 1996 that it would buy Knowledge Adventure.[^ref-22][^ref-5] Wikipedia gives 31 January 1997 as the completion date.[^ref-5] CUC's press release announcing the completed purchase is dated 3 February 1997. It says CUC issued 3,461,551 shares of its common stock, valuing the acquisition at $86.1 million based on CUC's closing share price on 31 January 1997.[^ref-21] Knowledge Adventure became "part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line", and it stayed in Glendale.[^ref-21] The *Los Angeles Times* reported that the idea of buying Knowledge Adventure "came from employees of Davidson & Associates and Sierra Online".[^ref-22]
 
 That shared ownership is how Knowledge Adventure came to make Dr. Brain games. Jim Winstead Jr., lead programmer of *Dr. Brain Thinking Games: IQ Adventure*, wrote that "KA and Sierra had wound up under the same corporate umbrella". The "games group" at Knowledge Adventure built *IQ Adventure* and *Puzzle Madness*; Winstead says *IQ Adventure* used "the networking and graphics library from Blizzard Entertainment".[^ref-17]
 
@@ -50,14 +50,24 @@ The first title, *JumpStart Kindergarten*, was released on 14 November 1994.[^re
 
 *Space Adventure* was released for DOS in 1992 and for Macintosh in 1994. It was re-released for Windows in 2014.[^ref-25]
 
+## Key People
+
+- **Bill Gross** — founder and chairman of Knowledge Adventure; after the CUC purchase he was to act as an advisor to the company.[^ref-21] MobyGames lists him as a co-founder.[^ref-14]
+- **Larry Gross** — co-founder; chief executive officer at the time of the CUC purchase, and he was to continue in that role.[^ref-14][^ref-21]
+- **Rick Gibson** — named by MobyGames as a co-founder in 1991.[^ref-14]
+- **Jim Winstead Jr.** — lead programmer of *Dr. Brain Thinking Games: IQ Adventure*, in the Knowledge Adventure games group.[^ref-17]
+
 ## Games
 
-Knowledge Adventure titles covered in the vault (the full catalogue is listed on IGN and LaunchBox):[^ref-2][^ref-3]
+Knowledge Adventure titles covered in the vault (the full catalogue is listed on IGN and LaunchBox).[^ref-2][^ref-3] *Adiboo: Magical Playland* was developed by Coktel Vision, with Knowledge Adventure listed as a US co-publisher alongside Sierra On-Line; it predates the 1997 CUC purchase.[^ref-33]
 
-- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Genre: Educational/Puzzle
-- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Genre: Educational/Puzzle
-- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Genre: Educational/Action
-- **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] — Genre: Educational/Adventure
+| Year | Game | Genre |
+|------|------|-------|
+| 1996 | [[1996 - Adiboo - Magical Playland\|Adiboo: Magical Playland]] | Educational |
+| 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Educational/Puzzle |
+| 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Educational/Puzzle |
+| 1999 | [[1999 - Dr. Brain - Action Reaction\|Dr. Brain: Action Reaction]] | Educational/Action |
+| 2011 | [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] | Educational/Adventure |
 
 ## References
 
@@ -69,7 +79,7 @@ Knowledge Adventure titles covered in the vault (the full catalogue is listed on
 [^ref-13]: [TV Tropes - JumpStart Games](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JumpStartGames) — founders; renamed after the JumpStart series in 2012
 [^ref-14]: [MobyGames - JumpStart Games Inc (Wayback, 28 Oct 2025)](https://web.archive.org/web/20251028171045/https://www.mobygames.com/company/521/jumpstart-games-inc/) — co-founders, CUC/Cendant/Havas/Vivendi ownership, 2004 sale; servers shut down 30 June 2023
 [^ref-17]: [Trained Monkey - Knowledge Adventure](https://trainedmonkey.com/tag/Knowledge%20Adventure) — Jim Winstead Jr. on the KA games group and the Dr. Brain Thinking Games
-[^ref-21]: [CUC International - "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — $86.1M valued at 31 Jan 1997 close, 3,461,551 shares, CUC Software division with Sierra, Glendale
+[^ref-21]: [CUC International - "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — dated 3 Feb 1997: "has completed its previously announced acquisition"; $86.1M based on the 31 Jan 1997 closing price, 3,461,551 shares, CUC Software division with Sierra On-Line, Bill Gross founder/chairman, Larry Gross CEO, Glendale
 [^ref-22]: [Los Angeles Times - "CUC Will Buy Knowledge Adventure" (Karen Kaplan, 6 Nov 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) — deal announced, Glendale, 3D Body Adventure, Spielberg stake, ~$30M sales
 [^ref-23]: [GamesIndustry.biz - "Vivendi Universal sells educational games division" (6 Oct 2004)](https://www.gamesindustry.biz/vivendi-universal-sells-educational-games-division) — sale to Azure Capital Partners and Telesoft Partners; Knowledge Holdings
 [^ref-24]: [Wikipedia - JumpStart](https://en.wikipedia.org/wiki/JumpStart) — JumpStart Kindergarten developed by Fanfare Software, published by KA; Fanfare acquired 1995; series ended 2023
@@ -81,3 +91,4 @@ Knowledge Adventure titles covered in the vault (the full catalogue is listed on
 [^ref-30]: [Hercules Capital - Form 8-K Exhibit 99.1 (14 Jul 2017)](https://investor.htgc.com/sec-filings/all-sec-filings/content/0001193125-17-228350/d422873dex991.htm) — JumpStart's lender: "The acquisition was completed by NetDragon in Hong Kong on July 4, 2017"
 [^ref-31]: [MobyGames - Dr. Brain: Action Reaction](https://www.mobygames.com/game/38944/dr-brain-action-reaction/) — read via the MobyGames API: Windows 1999 releases in Germany, France and Spain published by Sierra On-Line; US release by Knowledge Adventure
 [^ref-32]: [MobyGames - Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) — read via the MobyGames API: French Windows release 1 Sep 1999 published by Sierra On-Line
+[^ref-33]: [The Cutting Room Floor - Adiboo: Magical Playland (Wayback, 18 Oct 2025)](https://web.archive.org/web/20251018053920/https://tcrf.net/Adiboo:_Magical_Playland) — developer Coktel Vision; publishers listed as Coktel Vision (EU), Sierra On-Line (US), Knowledge Adventure (US); released 1996
