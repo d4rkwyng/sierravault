@@ -5,17 +5,17 @@ founded: 1984
 defunct: 2011
 headquarters: "Paris, France"
 parent_company: "Sierra On-Line (1993-1996); CUC Software, Havas and Vivendi Universal (1996-2005); Mindscape (2005-2011)"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Coktel Vision was a French video game developer and publisher founded in 1984 by Roland Oskian, a former executive at Matra Espace.[^ref-16][^ref-1] Some databases give 1985 as its founding year.[^ref-2][^ref-15] The company was best known for its educational and adventure games: the Adi educational range and, among adventure players, the Gobliiins series.[^ref-1][^ref-16][^ref-7]
 
-Sierra On-Line acquired Coktel Vision S.A. on 29 October 1993, for an initial purchase price of about $5.3 million.[^ref-17] Under the merger agreement, Sierra entrusted Coktel with distributing all of its entertainment and educational programs in the European market, and Sierra in turn represented Coktel's educational products in the United States under licence.[^ref-16] In October 2005 VU Games sold Coktel to the French publisher Mindscape, which kept Coktel as a brand until Mindscape closed in 2011.[^ref-19][^ref-1]
+Sierra On-Line acquired Coktel Vision S.A. on 29 October 1993, for an initial purchase price of about $5.3 million, accounted for as a purchase.[^ref-17] Contingent payments were due under an incentive payment plan: about $1.3 million was earned and paid in fiscal 1994 and about $1.6 million in fiscal 1995. In December 1995 Sierra amended the acquisition agreement and issued 150,000 shares of common stock in exchange for the former Coktel shareholders giving up their rights to any further incentive payments.[^ref-29] Under the merger agreement, Sierra entrusted Coktel with distributing all of its entertainment and educational programs in the European market, and Sierra in turn represented Coktel's educational products in the United States under licence.[^ref-16] In October 2005 VU Games sold Coktel to the French publisher Mindscape, which kept Coktel as a brand until Mindscape closed in 2011.[^ref-19][^ref-1]
 
 For detailed information about the studio's development history, see [[Coktel Vision|Coktel Vision (Developer)]].
 
@@ -27,10 +27,24 @@ In February 1996 CUC International agreed to buy Sierra, and the purchase was co
 
 ## Games Published (Sierra Archive)
 
+Years are original release years; Sierra's own US dates can differ (see the game pages).
+
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Series: Gobliiins
 - **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Series: Gobliiins
+- **1992** — [[1992 - Inca|Inca]] — Series: Inca
+- **1992** — [[1992 - Ween - The Prophecy|Ween: The Prophecy]] — Standalone
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins
+- **1993** — [[1993 - Inca II - Wiracocha|Inca II: Wiracocha]] — Series: Inca
+- **1993** — [[1993 - Lost in Time|Lost in Time]] — Standalone (Doralice duology)
+- **1994** — [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1: Uncle Archibald]] — Series: Playtoons
+- **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2: The Case of the Counterfeit Collaborator]] — Series: Playtoons
+- **1995** — [[1995 - Playtoons 3 - The Secret of the Castle|Playtoons 3: The Secret of the Castle]] — Series: Playtoons
+- **1995** — [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4: The Mandarine Prince]] — Series: Playtoons
 - **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] — Series: Playtoons
+- **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Standalone (Gobliiins spiritual successor)
+- **1995** — [[1995 - The Last Dynasty|The Last Dynasty]] — Series: Coktel
+- **1996** — [[1996 - Urban Runner|Urban Runner]] — Series: Lost in... (spiritual)
+- **1996** — [[1996 - Adiboo - Magical Playland|Adiboo: Magical Playland]] — Series: Adiboo
 
 Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 
@@ -48,7 +62,7 @@ Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 [^ref-7]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series published by Coktel Vision and Sierra On-Line; "Quest" suffix added to Goblins 3 to match Sierra's Quest series
 [^ref-8]: [Adventure Gamers - Adventure games by Coktel Vision (Wayback, 4 January 2024)](https://web.archive.org/web/20240104105627/https://adventuregamers.com/companies/view/910) - Catalogue of Coktel's adventure games
 [^ref-15]: [IGDB - Coktel Vision](https://www.igdb.com/companies/coktel-vision) - Company profile; gives 1985 as start year
-[^ref-16]: [Les Echos - L'américain Sierra-On-Line absorbe Coktel Vision, 4 May 1994 (Wayback)](https://web.archive.org/web/20190820163413/https://www.lesechos.fr/1994/05/lamericain-sierra-on-line-absorbe-coktel-vision-881547) - "Fondé en 1984 par Roland Oskian, un ancien cadre de Matra Espace"; Sierra "lui confie la distribution de l'ensemble de ses programmes ludiques et éducatifs sur le marché européen"
+[^ref-16]: [Les Echos - L'américain Sierra-On-Line absorbe Coktel Vision, 4 May 1994 (Wayback)](https://web.archive.org/web/20190820163413/https://www.lesechos.fr/1994/05/lamericain-sierra-on-line-absorbe-coktel-vision-881547) - "Fondé en 1984 par Roland Oskian, un ancien cadre de Matra Espace" [founded in 1984 by Roland Oskian, a former Matra Espace executive]; Sierra "lui confie la distribution de l'ensemble de ses programmes ludiques et éducatifs sur le marché européen" [entrusts to it the distribution of all its entertainment and educational programmes on the European market]
 [^ref-17]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - "On October 29, 1993, the Company acquired Coktel Vision S.A. ... for an initial purchase price of approximately $5,332,000"
 [^ref-18]: [The New York Times - CUC Will Buy 2 Software Companies for $1.8 Billion, 21 February 1996 (Wayback)](https://web.archive.org/web/20180721043501/https://www.nytimes.com/1996/02/21/business/cuc-will-buy-2-software-companies-for-1.8-billion.html) - CUC International to acquire Sierra On-Line and Davidson & Associates
 [^ref-19]: [Gamekult - VU Games cède Coktel à Mindscape, 21 October 2005 (Wayback)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) - VU Games sells Coktel to Mindscape
@@ -57,7 +71,8 @@ Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 [^ref-22]: [CUC International - Form 8-K, filed 5 August 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000251.txt) - Period of report 24 July 1996; CUC "consummated a merger" in which its subsidiary was merged into Sierra On-Line, Sierra surviving as a wholly owned subsidiary
 [^ref-23]: [Wikipedia - Havas](https://en.wikipedia.org/wiki/Havas) - Compagnie Générale des Eaux, renamed Vivendi in 1998, bought a third of Havas in February 1997 and the remainder in March 1998
 [^ref-24]: [MobyGames - Goblins Quest 3](https://www.mobygames.com/game/2870/goblins-quest-3/) - DOS releases (read via the MobyGames API): Sierra On-Line, Inc. publisher in the United States (18 March 1994) and UK; international title "Goblins 3"
-[^ref-25]: [Tilt n°111 (February 1993)](https://archive.org/details/Tilt111) - *The Incredible Machine* review: "Editeur : Sierra; Distributeur : Ubi Soft"; *Front Page Sports Football*: "Editeur : Sierra/Dynamix ; Distributeur : Ubi Soft"
-[^ref-26]: [Tilt n°114 (May 1993)](https://archive.org/details/Tilt114) - *EcoQuest 2* review: "Editeur : Sierra On-Line / Distributeur : Ubi Soft"
-[^ref-27]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) - *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft."
-[^ref-28]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) - *King's Quest VI* listing: "Editeur: Sierra / Distributeur: Ubi Soft"
+[^ref-25]: [Tilt n°111 (February 1993)](https://archive.org/details/Tilt111) - *The Incredible Machine* review: "Editeur : Sierra; Distributeur : Ubi Soft" [publisher: Sierra; distributor: Ubi Soft]; *Front Page Sports Football*: "Editeur : Sierra/Dynamix ; Distributeur : Ubi Soft" [publisher: Sierra/Dynamix; distributor: Ubi Soft]
+[^ref-26]: [Tilt n°114 (May 1993)](https://archive.org/details/Tilt114) - *EcoQuest 2* review: "Editeur : Sierra On-Line / Distributeur : Ubi Soft" [publisher: Sierra On-Line / distributor: Ubi Soft]
+[^ref-27]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) - *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft." [publisher: Sierra On Line. Distributor: Ubi Soft.]
+[^ref-28]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) - *King's Quest VI* listing: "Editeur: Sierra / Distributeur: Ubi Soft" [publisher: Sierra / distributor: Ubi Soft]
+[^ref-29]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback), Note 2 "Coktel"](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - "This business combination was accounted for as a purchase"; "During fiscal years 1995 and 1994, approximately $1,562,000 and $1,313,000 was earned and paid under this plan"; "In December 1995, the Company amended the Coktel acquisition agreement whereby it issued 150,000 shares of Common Stock in exchange for each former Coktel shareholder relinquishing their rights to receive any further incentive payments"
