@@ -4,12 +4,12 @@ type: designer
 birth_year: 1958
 death_year: null
 notable_games: ["King's Quest V: Absence Makes the Heart Go Yonder! (CD-ROM, voice of King Graham)", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Freddy Pharkas: Frontier Pharmacist", "Callahan's Crosstime Saloon"]
-companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions"]
-last_updated: '2026-10-26'
+companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions", "Replay Games"]
+last_updated: '2026-11-11'
 ---
 # Josh Mandel
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -63,7 +63,7 @@ In the 2010s Mandel returned to adventure games through indie projects and remak
 
 Mandel contributed writing and lore to Ember (2016), an RPG developed by N-Fusion Interactive, and additional writing to The St Christopher's School Lockdown (2017).[^ref-5] On [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]], developed by his former Sierra colleagues Corey and Lori Cole, he "wrote all the messages for interacting with the items in the environments".[^ref-65] The game's writer credit for him reads "which scarcely begins to express his contributions".[^ref-5] For [[2022 - SpaceVenture|SpaceVenture]] he wrote "the Holotube shows, commercials, song, etc".[^ref-65][^ref-5]
 
-Around 2011, Agustín Cordes asked Mandel for a cameo voice in Asylum, then cast him as the voice of its lead after hearing his samples.[^ref-7] Asylum was released in 2025. Adventure Game Hotspot's review notes that the game changed its main character's voice "a mere week before launch".[^ref-66] We have found no source confirming whether Mandel's performance is in the released game.
+Around 2011, Agustín Cordes asked Mandel for a cameo voice in Asylum, then cast him as the voice of its lead after hearing his samples.[^ref-7] Asylum was released on PC in 2025 and, from publisher SOEDESCO, on PlayStation 5, PlayStation 4, Xbox Series and Nintendo Switch on 30 October 2026.[^ref-72] Adventure Game Hotspot's review notes that the game changed its main character's voice "a mere week before launch".[^ref-66] We have found no source confirming whether Mandel's performance is in the released game.
 
 Mandel has reprised King Graham in fan remakes, including AGD Interactive's King's Quest I VGA (2001), King's Quest II: Romancing the Stones (2002), the Infamous Adventures King's Quest III Remake (2006), and King's Quest III Redux: To Heir is Human (2011).[^ref-5] The AGD team, he said, "wanted it just like the Graham in KQ5".[^ref-4]
 
@@ -109,13 +109,13 @@ Mandel remained keen to work with his former Sierra colleagues: "Absolutely! I'd
 
 Mandel appeared in the *Happy Hotspot Holidays 2025* developer's season greetings video produced by Adventure Game Hotspot, alongside other adventure-game veterans.[^ref-64]
 
-On 27 September 2025, Mandel opened an **"AMA About Sierra!"** thread on the Adventure Game Hotspot community forum. He kept answering questions there into 2026, with replies dated as late as April 2026.[^ref-65] Notable disclosures from the thread included:
+On 27 September 2025, Mandel opened an **"AMA About Sierra!"** thread on the Adventure Game Hotspot community forum. He kept answering questions there into 2026, with his own posts dated as late as 24 October 2026.[^ref-65] Notable disclosures from the thread included:
 
 - **On Freddy Pharkas crunch:** He and others were "sleeping in our office and putting in 20-hour days". Seeing the first Freddy boxes being assembled, with relief, dread and pride, "was just a very hypnotic and overwhelming moment for me."[^ref-65]
 - **On meeting Ken Williams:** His second-favorite Sierra memory: "When I pulled up in a rented car to interview there, and Ken came out and introduced himself!"[^ref-65]
 - **On his Sierra roles:** Playing Graham was "kind of life-altering, really. And playing the Monolith Manager in SQ4 was also personally a very big deal."[^ref-65]
 - **On creative preferences:** "I have always enjoyed the writing side more." He noted that his father had been a Golden Age TV writer.[^ref-65]
-- **On Callahan's Crosstime Saloon:** "a game that was very affirming, and about friendship, was swimming against the tide."[^ref-65]
+- **On Callahan's Crosstime Saloon:** "a game that was very affirming, and about friendship, was swimming against the tide." On 24 October 2026, asked about an earlier remark of his on abandonware sites, he replied that "people should feel free to download and play the game."[^ref-65]
 
 ## Games
 
@@ -123,61 +123,65 @@ On 27 September 2025, Mandel opened an **"AMA About Sierra!"** thread on the Adv
 
 Years follow the edition he is credited on (MobyGames dating), so a few differ from the year of the linked page: Fire Hawk, Mixed-Up Mother Goose, Jones in the Fast Lane, and the CD-ROM King's Quest V.[^ref-5][^ref-70]
 
-- **1990** — [[1990 - Zeliard|Zeliard]] — Role: Producer (English version)
-- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Producer
-- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI remake)]] — Role: Producer; rewrote most of the text and dialogue
-- **1991** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Voice Actor, CD-ROM release of August 1991 (King Graham, Innkeeper's Pal, Harpy)[^ref-5][^ref-70]
-- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Producer, Voice Actor
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Writer, Voice Actor
-- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 (VGA)]] — Role: Witty Text and Documentation
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Documentation
-- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest 3: The Kindred]] — Role: Actor (Leon the Coroner)
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Additional Material, Manual Contributors; Voice Actor, CD-ROM edition (Monolith Burger Manager)
-- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Voice Actor (Hippocrates)
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Writer, Voice Actor (Rocco, Steve Dorian, Crodfoller T. Rhubarb, Henri Le Mort, Rex)
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Voice Actor (King Graham, Shamir Shamazel)
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Voice Actor
-- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Concept
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Voice Talent
-- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Co-Designer, Director, Producer, Writer
-- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Co-designer credit (Mandel credits [[Lorelei Shannon]])[^ref-5][^ref-68]
-- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Role: Co-wrote the song "Cell Block Love" with [[Al Lowe]][^ref-69]
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Contributing Writer
-- 1994 — Space Quest: Collector's Edition — Video
-- 1995 — Mission Critical (1995) — Additional Testing
-- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Designer, Writer
-- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: On-screen guest spot (the theater emcee; uncredited, by his account)[^ref-65]
-- **1995** — [[1995 - Shannara|Shannara]] — Role: Additional Writing
+| Year | Title | Role |
+|------|-------|------|
+| 1990 | [[1990 - Zeliard\|Zeliard]] | Producer (English version)[^ref-5] |
+| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Producer[^ref-5] |
+| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (SCI remake)]] | Producer; rewrote most of the text and dialogue[^ref-5][^ref-4] |
+| 1991 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Voice Actor, CD-ROM release of August 1991 (King Graham, Innkeeper's Pal, Harpy)[^ref-5][^ref-70] |
+| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Producer, Voice Actor[^ref-5] |
+| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Writer, Voice Actor[^ref-5] |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 (VGA)]] | Witty Text and Documentation[^ref-5] |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Documentation[^ref-5] |
+| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest 3: The Kindred]] | Actor (Leon the Coroner)[^ref-5] |
+| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Additional Material, Manual Contributors; Voice Actor, CD-ROM edition (Monolith Burger Manager)[^ref-5] |
+| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Voice Actor (Hippocrates)[^ref-5] |
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Writer, Voice Actor (Rocco, Steve Dorian, Crodfoller T. Rhubarb, Henri Le Mort, Rex)[^ref-5] |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Voice Actor (King Graham, Shamir Shamazel)[^ref-5] |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Voice Actor[^ref-5] |
+| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Concept[^ref-5] |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Voice Talent[^ref-5] |
+| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Co-Designer, Director, Producer, Writer[^ref-5][^ref-19] |
+| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Co-designer credit (Mandel credits [[Lorelei Shannon]])[^ref-5][^ref-68] |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Co-wrote the song "Cell Block Love" with [[Al Lowe]][^ref-69] |
+| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Contributing Writer[^ref-5] |
+| 1994 | Space Quest: Collector's Edition | Video[^ref-5] |
+| 1995 | Mission Critical | Additional Testing[^ref-5] |
+| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Designer, Writer[^ref-5] |
+| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | On-screen guest spot (the theater emcee; uncredited, by his account)[^ref-65] |
+| 1995 | [[1995 - Shannara\|Shannara]] | Additional Writing[^ref-5] |
 
-### Post-Sierra (1997–2025)
+### Other Credits (1997–2025)
 
-- 1997 — Callahan's Crosstime Saloon (1997) — Legend Entertainment — Designer, Writer, Art Director
-- 1997 — Where in Time is Carmen Sandiego? — Broderbund — Additional Case Designs
-- 1998 — John Saul's Blackstone Chronicles — Red Orb Entertainment — Stereoscope
-- 1998 — Sonic Adventure — Sega — Script Editor
-- 1999 — Jagged Alliance 2 (1999) — Sir-Tech — Writer
-- 2000 — Terminus — Vicarious Visions — Cast (Voice and Video)
-- 2000 — The Wild Thornberrys: Rambler — THQ — Design
-- 2000 — Jagged Alliance 2: Unfinished Business — Sir-Tech — Writer
-- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake (AGD)]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
-- 2001 — Blue's Clues: Blue's Alphabet Book — THQ — Design
-- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
-- 2002 — Hungry Red Planet — Independent — Consultant
-- 2004 — Jagged Alliance 2: Wildfire — Strategy First — Writer
-- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Company: Infamous Adventures, Role: Voice Actor (King Graham)
-- 2007 — Crash of the Titans — Radical Entertainment — Worked on the project; credited under Special Thanks
-- 2007 — Hour of Victory — Midway Games — Writer
-- 2008 — Insecticide — Crackpot Entertainment — Detective Game Design, Script
-- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
-- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] — Company: Replay Games, Role: Chief Creative Officer, Consulting Designer
-- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Company: Replay Games, Role: Designer, Writer, Producer, Voice Actor
-- 2014 — Serena — Senscape — Voice Actor (Protagonist)[^ref-5][^ref-71]
-- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Company: Guys From Andromeda LLC, Role: Voice Actor (Radio Singer)
-- 2016 — Ember — N-Fusion Interactive — Writing and Lore
-- 2017 — The St Christopher's School Lockdown — Kindled Games — Additional Writing
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Writer
-- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Company: Guys From Andromeda, Role: Writer
-- 2025 — Asylum — Senscape — Cast as the lead's voice (by 2013); his presence in the released game is unconfirmed
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1997 | Callahan's Crosstime Saloon | Legend Entertainment | Designer, Writer, Art Director[^ref-5][^ref-63] |
+| 1997 | Where in Time is Carmen Sandiego? | Broderbund | Additional Case Designs[^ref-5] |
+| 1998 | John Saul's Blackstone Chronicles | Red Orb Entertainment | Stereoscope[^ref-5] |
+| 1998 | Sonic Adventure | Sega | Script Editor[^ref-5] |
+| 1999 | Jagged Alliance 2 | Sir-Tech | Writer[^ref-5] |
+| 2000 | Terminus | Vicarious Visions | Cast (Voice and Video)[^ref-5] |
+| 2000 | The Wild Thornberrys: Rambler | THQ | Design[^ref-5] |
+| 2000 | Jagged Alliance 2: Unfinished Business | Sir-Tech | Writer[^ref-5] |
+| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake (AGD)]] | AGD Interactive | Voice Actor (King Graham)[^ref-5] |
+| 2001 | Blue's Clues: Blue's Alphabet Book | THQ | Design[^ref-5] |
+| 2002 | [[2002 - King's Quest II+ - Romancing the Stones\|King's Quest II: Romancing the Stones]] | AGD Interactive | Voice Actor (King Graham)[^ref-5] |
+| 2002 | Hungry Red Planet | Independent | Consultant[^ref-5] |
+| 2004 | Jagged Alliance 2: Wildfire | Strategy First | Writer[^ref-5] |
+| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake (Infamous Adventures)]] | Infamous Adventures | Voice Actor (King Graham)[^ref-5] |
+| 2007 | Crash of the Titans | Radical Entertainment | Worked on the project; credited under Special Thanks[^ref-5][^ref-7] |
+| 2007 | Hour of Victory | Midway Games | Writer[^ref-5] |
+| 2008 | Insecticide | Crackpot Entertainment | Detective Game Design, Script[^ref-5][^ref-46] |
+| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (King Graham)[^ref-5] |
+| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Replay Games | Chief Creative Officer, Consulting Designer[^ref-5] |
+| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Replay Games | Designer, Writer, Producer, Voice Actor[^ref-5][^ref-47] |
+| 2014 | Serena | Senscape | Voice Actor (Protagonist)[^ref-5][^ref-71] |
+| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Guys From Andromeda LLC | Voice Actor (Radio Singer)[^ref-5] |
+| 2016 | Ember | N-Fusion Interactive | Writing and Lore[^ref-5] |
+| 2017 | The St Christopher's School Lockdown | Kindled Games | Additional Writing[^ref-5] |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Writer[^ref-5] |
+| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Guys From Andromeda | Writer[^ref-5] |
+| 2025 | Asylum (PC 2025; PS5, PS4, Xbox Series and Switch 30 October 2026) | Senscape | Cast as the lead's voice (by 2013); his presence in the released game is unconfirmed[^ref-7][^ref-72] |
 
 ## References
 
@@ -187,7 +191,7 @@ Years follow the edition he is credited on (MobyGames dating), so a few differ f
 [^ref-7]: [Adventure Gamers Interview](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) — Ingmar Böke, March 2013 (Wayback copy): early life, comedy career, Sierra hiring, KQ1 remake, Graham in KQ5 and KQ6, Freddy Pharkas, SQ6, Legend, Crash of the Titans, Asylum casting
 [^ref-9]: [Aventura y CÍA Interview](https://www.aventuraycia.com/entrevistas/en/josh-mandel/) — Paco García, February 2002: post-Sierra career at Legend, Sir-Tech, Sega, and Vicarious Visions; "adventure game" and "Sierra people" quotes
 [^ref-13]: [The Virtual Broomcloset Interview](https://www.wiw.org/~jess/josho.html) — September 2000: comedy partner Karen McVeigh, beta-testing and journalism, SQ4 writing, SQ6 status when he left, Callahan's as favorite
-[^ref-16]: [Tales From The Collection - Josh Mandel](https://talesfromthecollection.com/josh-mandel/) — Colossal Cave Adventure; "reward exploration"; point-and-click after KQ1; career advice
+[^ref-16]: [Tales From The Collection - Josh Mandel (now hosted at thefandom.site)](https://thefandom.site/interviews/josh-mandel.php) — Q&A text of the Tales From The Collection interview; the site now runs under the thefandom.site domain with the same "Tales From The Collection" branding; the old talesfromthecollection.com URL returns 404 and has no Wayback snapshot. Colossal Cave Adventure; "reward exploration"; point-and-click after KQ1; career advice
 [^ref-19]: [Wikipedia - Freddy Pharkas: Frontier Pharmacist](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) — Co-designed with Al Lowe
 [^ref-23]: [Wikipedia - Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) — Joined Sierra 1990; first person to voice King Graham; Replay Games 2012–2013
 [^ref-35]: [Wikipedia - Callahan's Crosstime Saloon (video game)](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game)) — Game development details and Spider Robinson adaptation; Mandel had considered adapting the books since the 1980s
@@ -196,10 +200,11 @@ Years follow the edition he is credited on (MobyGames dating), so a few differ f
 [^ref-56]: [King's Quest Omnipedia - Josh Mandel](https://kingsquest.fandom.com/wiki/Josh_Mandel) — KQ1 SCI producer and text/puzzle rewrite; voice of King Graham in KQ5, KQ6 and Hoyle 4
 [^ref-63]: [MobyGames - Callahan's Crosstime Saloon](https://www.mobygames.com/game/2150/callahans-crosstime-saloon/) — Game entry (MobyGames ID 2150, DOS 1997)
 [^ref-64]: [Happy Hotspot Holidays 2025 — Developer's Season's Greetings Video](https://adventuregamehotspot.com/feature/5749/happy-hotspot-holidays-2025-a-developer-seasons-greetings-video) — Adventure Game Hotspot, December 2025 community video featuring Mandel alongside other adventure-game veterans
-[^ref-65]: [AMA About Sierra! — Josh Mandel](https://community.adventuregamehotspot.com/showthread.php?tid=38) — Adventure Game Hotspot community forum thread opened by Mandel on 27 September 2025, with replies into April 2026: Freddy Pharkas crunch, Ken Williams anecdote, Graham and Monolith Burger Manager roles, Hero-U and SpaceVenture writing, Callahan's
+[^ref-65]: [AMA About Sierra! — Josh Mandel](https://community.adventuregamehotspot.com/showthread.php?tid=38) — Adventure Game Hotspot community forum thread opened by Mandel on 27 September 2025, with Mandel's own replies into October 2026: Freddy Pharkas crunch, Ken Williams anecdote, Graham and Monolith Burger Manager roles, Hero-U and SpaceVenture writing, Callahan's
 [^ref-66]: [Adventure Game Hotspot - ASYLUM review](https://adventuregamehotspot.com/review/4105/asylum) — 2025 review; notes the main character's voice changed "a mere week before launch"
 [^ref-67]: [SCI Wiki - King's Quest I: Quest for the Crown (SCI remake)](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) — "the only one of the remakes to be made in SCI01's EGA graphics with parser interface"; Mandel's first full project
 [^ref-68]: [Sierra Gamers Forum – Pepper's Adventures in Time](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) — Evan of AdventureGamers quotes Mandel's email: the co-designer credit "was greatly overstating my impact on the final product"
 [^ref-69]: [Al Lowe – Leisure Suit Larry Music](https://allowe.com/downloads/music-larry.html) — Lowe: "Josh Mandel and I wrote words and music for Char Donay" in LSL6; a Police Quest-themed song presented on the page as "Cell Block Love"
 [^ref-70]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — Jimmy Maher, January 2018: "King's Quest V instead shipped on CD in August of 1991"
 [^ref-71]: [Wikipedia - Serena (video game)](https://en.wikipedia.org/wiki/Serena_(video_game)) — 2014 freeware horror adventure; "a man (voiced by Josh Mandel)" waiting in a cabin for his wife
+[^ref-72]: [ASYLUM Is Out Now on Consoles](https://www.gamespress.com/en-US/ASYLUM-Is-Out-Now-on-Consoles) — SOEDESCO press release, 30 October 2026: developer Senscape; PlayStation 5, PlayStation 4, Xbox Series X|S and Nintendo Switch; names no cast
