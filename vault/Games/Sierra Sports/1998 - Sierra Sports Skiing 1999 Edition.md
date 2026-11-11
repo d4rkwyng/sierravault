@@ -6,7 +6,7 @@ designer: [Unknown]
 publisher: Sierra Sports
 genre: Sports
 platforms: [Windows]
-series: Front Page Sports
+series: Sierra Sports
 engine: Unknown
 protagonist: Player-controlled skier
 sierra_lineage: Core Sierra
@@ -35,7 +35,7 @@ Critics found little new in it. Gamecenter called it "little more than a rerelea
 > **Engine:** Unknown
 > **Platforms:** Windows[^ref-11]
 > **Release Year:** 1998[^ref-11]
-> **Series:** Front Page Sports
+> **Series:** Sierra Sports
 > **Protagonist:** Player-controlled skier
 > **Sierra Lineage:** Core Sierra
 

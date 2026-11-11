@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 1999
 total_games: 16
 genre: "Sports Simulation"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Front Page Sports Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -20,7 +20,7 @@ Front Page Sports was Sierra On-Line's line of sports simulations from 1992 to t
 
 The football games, the series' core, were known for their statistics (more than 300 categories), a play editor for designing custom plays, and career leagues in which players aged and retired.[^ref-4] The first game had no NFL or players' association licence, so its teams and players were fictional; the 1993 *Football Pro* gained an NFLPA licence for real player names, and *Football Pro '95* was officially licensed by the NFL.[^ref-4][^ref-21][^ref-22]
 
-The football line ended when *NFL Football Pro '99*, released in December 1998, was recalled on January 21, 1999; its successor, *NFL Football Pro 2000*, was then cancelled.[^ref-18][^ref-4]
+The football line ended when *NFL Football Pro '99*, released in December 1998, was recalled on January 21, 1999; its successor, *NFL Football Pro 2000*, was then cancelled.[^ref-18][^ref-32][^ref-4]
 
 ## Series Timeline
 
@@ -40,7 +40,7 @@ The football line ended when *NFL Football Pro '99*, released in December 1998, 
 | 1997 | [[1997 - Front Page Sports Golf - Tour Course Add-On\|Golf – Add-on Courses]] | Golf expansion | Separate add-on course disks |
 | 1997 | [[1997 - Front Page Sports - Ski Racing\|Ski Racing]] | Skiing | Windows[^ref-25] |
 | 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Trophy Rivers]] | River fishing | Flies, lures or bait; Windows and Windows 3.x[^ref-31][^ref-9] |
-| 1998 | [[CXL - Front Page Sports - Football Pro '99\|NFL Football Pro '99]] | Football | Released December 22, 1998; recalled January 21, 1999[^ref-18][^ref-4] |
+| 1998 | [[CXL - Front Page Sports - Football Pro '99\|NFL Football Pro '99]] | Football | Released December 22, 1998; recalled January 21, 1999[^ref-18][^ref-32][^ref-4] |
 | 1999 | [[1999 - Front Page Sports - Ski Racing 99\|Ski Racing 99]] | Skiing | German edition (*DSF Ski '99: Extreme Edition*) of [[1998 - Sierra Sports Skiing 1999 Edition\|Sierra Sports: Skiing 1999 Edition]][^ref-8] |
 
 *NFL Football Pro 2000* was planned and cancelled after the '99 recall.[^ref-4]
@@ -56,7 +56,7 @@ The flagship subseries ran to seven versions, from the 1992 original to *NFL Foo
 - **Career leagues** with player aging, drafts and retirements.
 - **Statistics**: more than 300 statistical categories, with box scores and league leaders.
 
-By *Football Pro '98*, Wikipedia notes, the series' on-field gameplay had failed to keep pace with EA's *Madden NFL*, which "for many had become a superior overall game primarily due to the gameplay aspects", although it still did not match Front Page Sports' statistical engine.[^ref-4] *NFL Football Pro '99* was rebuilt in 3D to compete with Madden, but it was "rushed to release to meet the 1998 holiday rush in a completely unplayable state", and Sierra recalled it on January 21, 1999.[^ref-4][^ref-18]
+By *Football Pro '98*, Wikipedia notes, the series' on-field gameplay had failed to keep pace with EA's *Madden NFL*, which "for many had become a superior overall game primarily due to the gameplay aspects", although it still did not match Front Page Sports' statistical engine.[^ref-4] *NFL Football Pro '99* was rebuilt in 3D to compete with Madden, but it was "rushed to release to meet the 1998 holiday rush in a completely unplayable state", and Sierra recalled it on January 21, 1999.[^ref-4][^ref-18][^ref-32]
 
 ### Baseball (1994–1997)
 
@@ -82,13 +82,41 @@ Sierra's annual report for the fiscal year ended March 31, 1996 said the company
 
 After the *Football Pro '99* recall, Sierra cancelled *NFL Football Pro 2000*.[^ref-4] The brand later returned: in October 2009 the French studio Cyanide announced a closed beta of a new online version of Front Page Sports Football,[^ref-4] and Cyanide released *Front Page Sports Football* on Steam on October 2, 2014, developed by Cyanide Studio and published by Cyanide Studio and Nacon.[^ref-29]
 
+## People
+
+The series came out of Dynamix's Eugene studio. Wikipedia's Dynamix article describes it as "designed by Pat Cook and Allen McPheeters".[^ref-36]
+
+- **[[Patrick Cook]]** (Pat Cook) was the designer of *Front Page Sports: Football*; Computer Gaming World's 1994 award text called *Football Pro* "to date, designer Pat Cook's masterpiece".[^ref-33] Sierra's InterAction magazine (Holiday 1996) still called him "FPS Designer Pat Cook".[^ref-35]
+- **[[Allen Mcpheeters]]** (L. Allen McPheeters) is named with Cook as a designer of the series by the same Wikipedia source.[^ref-36] His own vault page covers his lead design of *Baseball '94* and his later work at Synergistic Software.
+- **[[Scott Youngblood]]** is credited with direction and design on *Football Pro '97* and as designer of *Ski Racing* (1997); InterAction named him with Cook as one of the "Front Page Sports Developers".[^ref-37][^ref-38][^ref-35]
+- **[[Doug Johnson]]** is credited with additional design on *Baseball '94* (alongside Youngblood) and on *Football Pro '97*.[^ref-39][^ref-37]
+
+## Critical Reception
+
+The honours found for this review were concentrated on the football line, all from Computer Gaming World. In its June 1994 awards the magazine named *Front Page Sports Football Pro* its Premier Sports Game of the Year, saying that "Since its inception, Front Page Sports Football has been the leading football game among our readership".[^ref-33] In March 1996 the magazine inducted *Football Pro* into its Hall of Fame, naming project leader Patrick Cook.[^ref-34]
+
+| Game | Notable Reception |
+|------|-------------------|
+| *Football Pro* (1993) | CGW Premier Sports Game of the Year, June 1994; inducted into the CGW Hall of Fame, March 1996[^ref-33][^ref-34] |
+| *Baseball '94* | Praised by Next Generation for letting players recreate any game in baseball history (as reported by Wikipedia)[^ref-6] |
+| *NFL Football Pro '99* | Recalled four weeks after shipping after "tremendous fan criticism for numerous game play errors"[^ref-32] |
+| *Sierra Sports Skiing 1999 Edition* (follow-up to *Ski Racing*) | Gamecenter: "little more than a rerelease of Ski Racing"[^ref-40] |
+
+## Legacy
+
+The football games set the template the later entries followed: a play editor, deep statistics and multi-season leagues in which players aged and retired. The brand was revived later: Cyanide announced an online version in 2009 and released *Front Page Sports Football* on Steam in 2014 (see Later History above).[^ref-4][^ref-29] The baseball games remained in use as a simulation engine for online leagues.[^ref-6] This review found no source on the series' wider industry influence, so none is claimed here.
+
+## Playing Today
+
+No GOG or Steam listing was found for the original Dynamix and Synergistic titles when checked on November 11, 2026 (GOG catalogue and Steam store searches for "front page sports", "football pro" and "nfl football pro" returned nothing from the series). The only series-branded title on sale found was Cyanide's unrelated 2014 *Front Page Sports Football* on Steam.[^ref-29] The originals were DOS and early Windows games; compatibility with modern systems was not researched for this page.
+
 ## See Also
 
 - [[Dynamix]] — Main developer
 - [[Dynamix Catalog]] — Dynamix's full catalog including this series
 - [[Jeff Tunnell]] — Dynamix co-founder
 - [[Corporate Lineage|Corporate Lineage]] — Sierra/CUC ownership transitions
-- [[CXL - Front Page Sports - Football Pro '99]] — NFL Football Pro '99 (released and recalled)
+- [[CXL - Front Page Sports - Football Pro '99|Football Pro '99 (recalled)]] — NFL Football Pro '99 (released and recalled)
 - [[1998 - Sierra Sports Skiing 1999 Edition]] — Parent game of Ski Racing 99
 - [[1996 - Front Page Sports - Trophy Bass 2]] — Bass-fishing entry
 
@@ -114,3 +142,12 @@ After the *Football Pro '99* recall, Sierra cancelled *NFL Football Pro 2000*.[^
 [^ref-29]: [Steam — Front Page Sports Football](https://store.steampowered.com/app/316700/) — Release date Oct 2, 2014; developer Cyanide Studio; publishers Cyanide Studio, Nacon
 [^ref-30]: [InterAction Magazine, Vol. 7 No. 1 (Fall 1994) — Internet Archive](https://archive.org/details/021_InterAction_Volume_7_Number_1_Fall_1994) — "Sierra will be releasing Front Page Sports: Football PRO '95 in October … includes both the NFL teams and players"; Baseball '94: "all the 1994 MLBPA players", "Historical data (for the MLBPA players)"
 [^ref-31]: [InterAction Magazine, Vol. 10 No. 4 (Holiday 1997) — Internet Archive](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) — Trophy Rivers: "chase huge salmon and trout with spinning gear, bait-casting tackle, or a fly rod, with bait, lures, and flies"
+[^ref-32]: [CNNfn — Sierra Sports recalls Football Pro 99 - Jan. 21, 1999 (Wayback Machine)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) — Dated January 21, 1999: NFL Football Pro '99, "which shipped to retailers just four weeks ago, has been pulled from retail shelves"; full refund; "tremendous fan criticism for numerous game play errors"
+[^ref-33]: [Computer Gaming World, Issue 119 (June 1994) — Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) — "The winner of the PREMIER Sports Game of the Year is Front Page Sports Football Pro from Dynamix"; "to date, designer Pat Cook's masterpiece"
+[^ref-34]: [Computer Gaming World, Issue 140 (March 1996), Hall of Fame — Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_140) — Front Page Sports Football Pro (Sierra/Dynamix 1993) inducted; "Project leader Patrick Cook"
+[^ref-35]: [InterAction Magazine, Holiday 1996 — Internet Archive](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) — "Front Page Sports Developers Pat Cook and Scott Youngblood met with Barry Sanders"; "FPS Designer Pat Cook"
+[^ref-36]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — "the Front Page Sports series, designed by Pat Cook and Allen McPheeters which included Football, Baseball, and Golf"
+[^ref-37]: [MobyGames — Front Page Sports: Football Pro '97 Windows credits (Wayback, 2024-06-25)](https://web.archive.org/web/20240625091314/https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/windows/?autoplatform=true) — Direction and Design: Scott Youngblood; Additional Design: Doug Johnson, Scott Gilbert
+[^ref-38]: [MobyGames — Front Page Sports: Ski Racing Windows credits (Wayback, 2024-03-09)](https://web.archive.org/web/20240309095705/https://www.mobygames.com/game/41426/front-page-sports-ski-racing/credits/windows/) — Designer: Scott Youngblood
+[^ref-39]: [MobyGames — Front Page Sports: Baseball '94 credits (Wayback, 2024-12-23)](https://web.archive.org/web/20241223134718/https://www.mobygames.com/game/4437/front-page-sports-baseball-94/credits/dos/) — Additional Design: Scott Youngblood, Doug Johnson
+[^ref-40]: [Gamecenter (CNET) — Skiing 1999 Edition review by Gordon Goble (Wayback)](https://web.archive.org/web/20000816165713/http://gamecenter.com/Reviews/Item/0,6,0-2309,00.html) — "Apart from a few minor upgrades, Skiing 1999 is little more than a rerelease of Ski Racing"
