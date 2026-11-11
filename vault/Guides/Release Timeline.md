@@ -1,11 +1,11 @@
 ---
 title: "Release Timeline"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Release Timeline
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Each entry is listed under its game page's release year; footnotes give sources and flag where MobyGames disagrees, Frogger (listed under Sierra's 1982 port) and Sierra Championship Boxing (release year disputed) are the footnoted exceptions. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
@@ -38,7 +38,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1982 - Adventure in Serenia|Adventure in Serenia]] — Series: Hi-Res Adventure, Type: Adventure
 - [[1982 - Bop-A-Bet|Bop-A-Bet]] — Series: Hi-Res Learning Series, Type: Educational
 - [[1982 - Cannonball Blitz|Cannonball Blitz]] — Type: Action/Platform
-- [[1982 - Creepy Corridors|Creepy Corridors]] — Series: Laf Pak, Type: Arcade
+- [[1982 - Creepy Corridors|Creepy Corridors]] — Series: Laf Pak, Type: Arcade[^ref-47]
 - [[1982 - Dragon's Keep|Dragon's Keep]] — Series: Hi-Res Learning, Type: Adventure
 - [[1981 - Frogger|Frogger]] — Series: Frogger, Type: Arcade[^ref-41]
 - [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5 - Time Zone]] — Series: Hi-Res Adventures, Type: Adventure
@@ -80,7 +80,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1985 - Sierra Championship Boxing|Sierra Championship Boxing]] — Type: Sports Simulation[^ref-46]
 - [[1985 - Stunt Flyer|Stunt Flyer]] — Type: Flight Simulation
 - [[1985 - The Crimson Crown|The Crimson Crown]] — Series: Transylvania, Type: Adventure
-- [[1985 - Thexder|Thexder]] — Series: Thexder, Type: Action
+- [[1985 - Thexder|Thexder]] — Series: Thexder, Type: Action[^ref-48]
 
 ### 1986
 - [[1986 - Kempelen|Kempelen]] — Type: Strategy
@@ -651,3 +651,5 @@ Entries follow each linked game page's `release_year`. Most year footnotes cite 
 [^ref-44]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – Windows and Macintosh 2002 (read via the MobyGames API). Listed here under the game page's 2001; MobyGames' year disagrees, and which edition its entry covers is unconfirmed
 [^ref-45]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – Windows 2005, year only (read via the MobyGames API). Listed here under the game page's 2004; MobyGames' year disagrees
 [^ref-46]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – earliest dated releases 1985 (read via the MobyGames API). The game page gives 1983 from the developers' recollection, and its IBM PC reviews ran in InfoWorld (June 1984) and PC Magazine (November 1984), so 1985 is only MobyGames' earliest date; release year unresolved
+[^ref-47]: [Eli's Software Encyclopedia – Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) – lists Creepy Corridors in 1982 as part of the Laf Pak disk. Listed here under the game page's 1982, the Apple II Laf Pak year; [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) dates the standalone VIC-20 cartridge to 1983
+[^ref-48]: [Sierra Newsletter, Vol. 1 No. 3, Spring 1988 – Ken Williams, "Sierra Visits Japan!"](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988/page/n2/mode/1up) – Sierra's US release "was released in September of 1987". Listed here under 1985, the year Game Arts released the original on the NEC PC-8801 ([MobyGames – Thexder](https://www.mobygames.com/game/49/thexder/)); the Sierra US release came in 1987
