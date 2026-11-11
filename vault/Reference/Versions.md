@@ -1,20 +1,30 @@
 ---
 title: "Sierra Game Versions"
 type: reference
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "Game-version and interpreter-build matrices for Sierra adventure games as sold on GOG.com and in Sierra's 1994–2006 compilation discs, transcribed from a 2015 Sierra Classic Gaming wiki snapshot and checked against ScummVM's file data."
 tags: [reference, versions, agi, sci, collections]
 ---
 
 # Sierra Game Versions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 This note captures the version matrices compiled on the Sierra Classic Gaming (SCG) Wiki page "Sierra Game Versions", last modified in June 2015 and preserved in a 2019 Wayback Machine copy.[^ref-1] All release numbers, interpreter builds, and dates retain the source's formatting except where marked. Values were cross-checked against the ScummVM wiki's Sierra Game Versions list[^ref-2] and ScummVM's SCI detection tables, which record the VERSION files and executable build dates of specific copies, including several GOG releases.[^ref-3] Where those sources disagree with SCG, the correction is noted.
 
 The GOG.com tables describe GOG's builds as of the 2015 snapshot. GOG has updated some packs since: on 20 February 2026 it added the VGA version of Space Quest 1 to *Space Quest 1+2+3*[^ref-4] and switched the *Police Quest Collection* to ScummVM, adding an EGA option for Police Quest 3.[^ref-14]
 
 **About the "Date" column:** the source does not say what its dates record. Where ScummVM's detection tables can check them (Phantasmagoria, Phantasmagoria 2, Space Quest 6), they are the executables' build dates, not release dates,[^ref-3] so they can differ from the release dates on individual game pages.
+
+**The sources' dates also differ from each other.** SCG, the SCI Wiki's release list[^ref-23] and the ScummVM wiki's list[^ref-2] each carry their own date column, and none says whether it records a build or a release. Checked entry by entry, they disagree like this:
+
+- **Gabriel Knight 2 1.1:** SCG 12/07/95;[^ref-1] SCI Wiki 1997/03/17;[^ref-23] the ScummVM wiki lists 1.1 with no date.[^ref-2]
+- **King's Quest 7 2.00b:** SCG 05/24/95;[^ref-1] neither the SCI Wiki nor the ScummVM wiki dates the 2.00b entry. Both date the earlier 1.4 build 1994/11/17.[^ref-23][^ref-2]
+- **Leisure Suit Larry 6 CD (SCI 1.001.115):** SCG 06/01/94 in its GOG table but 04/07/94 in its 1997 and 2000 Larry collection tables;[^ref-1] ScummVM wiki 1994-04-15;[^ref-2] the SCI Wiki gives the CD build no date.[^ref-23]
+- **Police Quest 4 CD:** SCG 06/23/94;[^ref-1] ScummVM wiki 1994-06-25;[^ref-2] the SCI Wiki gives no date.[^ref-23]
+- **Police Quest SWAT:** SCG 11/21/95 for 1.0c;[^ref-1] the SCI Wiki dates 1.000 to 1995/11/23 and 1.0c to 1997/04/03;[^ref-23] the ScummVM wiki lists 1.000 at 1995-11-23 and no 1.0c entry.[^ref-2]
+
+This page keeps SCG's values in the tables, as that is the source it transcribes.
 
 ## GOG.com Listings
 
@@ -123,18 +133,18 @@ The GOG.com tables describe GOG's builds as of the 2015 snapshot. GOG has update
 
 | Title | Version | Interpreter | Date |
 | --- | --- | --- | --- |
-| King’s Quest 1 (AGI) | 2.0F | AGI 2.917 | — |
-| King’s Quest 1 (SCI) | 1.000.051 | SCI S.old.010 | — |
-| King’s Quest 2 | 2.1 | AGI 2.411 | 04/10/87 |
-| King’s Quest 3 | 2.14 | AGI 2.936 | 03/15/88 |
-| King’s Quest 4 (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
-| King’s Quest 5 | 1.000.052 | SCI x.yyy.zzz | — |
-| King’s Quest 5 (French) | 1.00 | — | — |
-| King’s Quest 6 | 1.034 (1.000.00G) | SCI 1.001.069 | 09/11/94 |
-| King’s Quest 6 (German) | 1.000 | — | 11/18/92 |
+| [[1984 - King's Quest - Quest for the Crown\|King’s Quest 1]] (AGI) | 2.0F | AGI 2.917 | — |
+| [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King’s Quest 1]] (SCI) | 1.000.051 | SCI S.old.010 | — |
+| [[1985 - King's Quest II - Romancing the Throne\|King’s Quest 2]] | 2.1 | AGI 2.411 | 04/10/87 |
+| [[1986 - King's Quest III - To Heir Is Human\|King’s Quest 3]] | 2.14 | AGI 2.936 | 03/15/88 |
+| [[1988 - King's Quest IV - The Perils of Rosella\|King’s Quest 4]] (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
+| [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King’s Quest 5]] | 1.000.052 | SCI x.yyy.zzz | — |
+| [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King’s Quest 5]] (French) | 1.00 | — | — |
+| [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King’s Quest 6]] | 1.034 (1.000.00G) | SCI 1.001.069 | 09/11/94 |
+| [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King’s Quest 6]] (German) | 1.000 | — | 11/18/92 |
 | King’s Quest 7 Demo | 1.000.000 | SCI 2.100.002 | 07/01/94 |
 | Behind the Developer’s Shield | — | SCI 2.100.002 | 05/20/94 |
-| King Graham’s Board Game Challenge | 1.000 | SCI 1.001.029 | 06/01/92 |
+| [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|King Graham’s Board Game Challenge]] | 1.000 | SCI 1.001.029 | 06/01/92 |
 | Inside the Chest | — | SCI 2.100.002 | 05/04/94 |
 | King’s Questions | — | SCI 2.100.002 | 05/04/94 |
 
@@ -142,19 +152,19 @@ SCG gives the last two interpreters as 2.100.001; the ScummVM list gives 2.100.0
 
 ### King’s Quest Collection Series (1997)
 
-Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, where the 1994 set had only a KQ7 demo), Laura Bow: The Colonel's Bequest 1.000.046, Laura Bow 2: The Dagger of Amon Ra 1.1, Mixed-Up Mother Goose Deluxe, and keeps Behind the Developer's Shield, King Graham's Board Game Challenge and King's Questions. It drops the KQ5 French, KQ6 German, KQ7 demo and Inside the Chest entries, and adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone and a King's Quest 8 preview.[^ref-1]
+Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, where the 1994 set had only a KQ7 demo), [[1989 - The Colonel's Bequest|Laura Bow: The Colonel's Bequest]] 1.000.046, [[1992 - The Dagger of Amon Ra|Laura Bow 2: The Dagger of Amon Ra]] 1.1, [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]], and keeps Behind the Developer's Shield, King Graham's Board Game Challenge and King's Questions. It drops the KQ5 French, KQ6 German, KQ7 demo and Inside the Chest entries, and adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone and a King's Quest 8 preview.[^ref-1]
 
 ### King’s Quest Collection (2006)
 
 | Title | Version | Interpreter | Date |
 | --- | --- | --- | --- |
-| King’s Quest 1 (SCI) | 1.000.051 | SCI S.old.010 | — |
-| King’s Quest 2 | 2.1 | AGI 2.411 | 04/10/87 |
-| King’s Quest 3 | 2.14 | AGI 2.936 | 03/15/88 |
-| King’s Quest 4 (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
-| King’s Quest 5 | 1.000.052 | SCI x.yyy.zzz | — |
-| King’s Quest 6 | 1.034 (1.000.00G) | SCI 1.001.069 | 09/11/94 |
-| King’s Quest 7 | 1.4 | SCI 2.100.002 | — |
+| [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King’s Quest 1]] (SCI) | 1.000.051 | SCI S.old.010 | — |
+| [[1985 - King's Quest II - Romancing the Throne\|King’s Quest 2]] | 2.1 | AGI 2.411 | 04/10/87 |
+| [[1986 - King's Quest III - To Heir Is Human\|King’s Quest 3]] | 2.14 | AGI 2.936 | 03/15/88 |
+| [[1988 - King's Quest IV - The Perils of Rosella\|King’s Quest 4]] (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
+| [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King’s Quest 5]] | 1.000.052 | SCI x.yyy.zzz | — |
+| [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King’s Quest 6]] | 1.034 (1.000.00G) | SCI 1.001.069 | 09/11/94 |
+| [[1994 - King's Quest VII - The Princeless Bride\|King’s Quest 7]] | 1.4 | SCI 2.100.002 | — |
 
 ### Leisure Suit Larry Releases
 
@@ -171,17 +181,17 @@ Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, w
 
 ### Roberta Williams Anthology (1996)
 
-Includes KQ1–7, Laura Bow 1–2, Mixed-Up Mother Goose (AGI & SCI), Phantasmagoria demo, and developer features with the interpreter versions listed in the source table.
+SCG's table lists KQ1 (AGI and SCI) through KQ7 (2.00b), [[1989 - The Colonel's Bequest|Laura Bow: The Colonel's Bequest]] 1.000.046, [[1992 - The Dagger of Amon Ra|Laura Bow 2: The Dagger of Amon Ra]] 1.1, Mixed-Up Mother Goose (AGI and SCI), a Phantasmagoria demo (Chapter 1, 1.100.000), Behind the Developer's Shield and Inside the Chest. SCG adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone, The Dark Crystal, King's Quest 7 Art and a King's Quest 8 preview.[^ref-1]
 
 ### Quest for Glory Anthology (1996)
 
-Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4 with their specific interpreter IDs.
+SCG's table lists QFG1 EGA 1.200 (SCI 0.000.629) and VGA 2.000 (SCI L.rry.021), QFG2 1.105 (SCI 1.000.072), QFG3 1.1 (SCI 1.001.050) with French, German and Italian 1.1 builds and a Spanish 1.000.000 build (all SCI L.rry.083), QFG4 CD 1.0 (SCI 2.100.002) and a QFG4 floppy/German 1.1 build (SCI 2.000.000).[^ref-1]
 
 ### Space Quest Collections
 
 - **15th Anniversary (1994)** and **Roger Wilco Unclogged (1995)** bundle SQ1–5, the French and German SQ5, Roger Wilco's Spaced Out Game Pack and The Fun Seeker's Guide; Roger Wilco Unclogged adds the Space Quest 6 demo and a Police Quest SWAT demo.[^ref-1]
 - **Collection Series (1997)** adds Space Quest 6 version 1.11 alongside the demo, plus a Space Quest 7 promo video, The Realm trial and other demos.[^ref-1] ScummVM notes that the 1.11 interpreter differs from version 1.0's, though both report "May 24 1995".[^ref-3]
-- **Collection (2006)** covers SQ1 SCI through SQ6 1.0.
+- **Collection (2006)** covers SQ1 SCI through SQ6 1.0.[^ref-1]
 
 ## Version Comparisons
 
@@ -257,6 +267,13 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 - Dashes indicate the original table lacked a date entry.
 - Collection descriptions summarize repeated bonus materials instead of duplicating identical rows.
 
+## See Also
+
+- [[Engine History]]
+- [[Sierra Creative Interpreter]]
+- [[ScummVM]]
+- [[Collections Guide]]
+
 ## References
 
 [^ref-1]: [SCG Wiki — Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) — source of all tables on this page; "Last modified: 2015/06/03"
@@ -281,3 +298,4 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 [^ref-20]: [GOG.com — Torin's Passage](https://www.gog.com/en/game/torins_passage) — current GOG listing
 [^ref-21]: [MobyGames — Leisure Suit Larry's Greatest Hits and Misses!](https://www.mobygames.com/game/3807/leisure-suit-larrys-greatest-hits-and-misses/) — read via the MobyGames API; DOS 1994; bonuses include "Leisure Suit Larry's Casino (an earlier, completely different game from the 1998 one…)", "Softporn Adventure (the DOS remake)", "Demo version of Freddy Pharkas"
 [^ref-22]: [MobyGames — Leisure Suit Larry: Ultimate Pleasure Pack](https://www.mobygames.com/game/1734/leisure-suit-larry-ultimate-pleasure-pack/) — read via the MobyGames API; DOS/Windows 1999; contents list both "Crazy Nick's Software Picks: Leisure Suit Larry's Casino" and "Leisure Suit Larry's Casino"
+[^ref-23]: [SCI Wiki — Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) — Game / Game version / Interpreter version / Date columns; "Gabriel Knight 2 | 1.1 | 2.100.002 | 1997/03/17"; "Police Quest: SWAT | 1.0c | 2.100.002 | 1997/04/03"; "King's Quest VII | 1.4 | 2.100.002 | 1994/11/17"
