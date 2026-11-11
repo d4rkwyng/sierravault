@@ -10,7 +10,7 @@ series: Hoyle Series
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Hoyle Slots & Video Poker is a Hoyle-branded casino game from Sierra,
   first released in 1999 under the Sierra Attractions label, with slot machines,
   video poker machines and a bonus horse racing game.
@@ -18,11 +18,11 @@ tags: [1990s, hoyle-series, sierra]
 ---
 # Hoyle Slots and Video Poker
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Hoyle Slots & Video Poker is a casino game developed by Sierra On-Line and sold under the Sierra Attractions label[^ref-7][^ref-18]. It first went on sale in 1999: Sierra's own product page listed it in August 1999 as a "Win95/PMac CD" at $19.95, "available now"[^ref-22], and Chips & Bits mail-order ads in *Computer Games Strategy Plus* (August 1999) and *Computer Games* (December 1999) carried it at $19.99[^ref-24][^ref-25]. A revised v1.0.0.1 PC/Mac hybrid disc, with a disc volume dated February 2000, followed[^ref-28], and MobyGames records a UK release in 2000[^ref-4][^ref-30]. Amazon's listing titles it "Hoyle Slots And Video Poker 2000 with Bonus Horse Racing (Win/Mac)"[^ref-3]. It belongs to Sierra's Hoyle line, which PCGamingWiki groups under Hoyle's Official Book of Games, a series that began with Volume 1 in 1989[^ref-8]. Wikipedia's Hoyle Casino article lists "Hoyle Slots & Video Poker (with Horse Racing)" among that series' spin-offs, dated 1999[^ref-9], while Sierra Chest catalogues the v1.0.0.1 box under the title "Hoyle Slots & Video Poker 2" with a first release of 2000[^ref-18].
+Hoyle Slots & Video Poker is a casino game developed by Sierra On-Line and sold under the Sierra Attractions label[^ref-7][^ref-18]. It first went on sale in 1999: Sierra's own product page listed it in August 1999 as a "Win95/PMac CD" at $19.95, "available now"[^ref-22], and Chips & Bits mail-order ads in *Computer Games Strategy Plus* (August 1999) and *Computer Games* (December 1999) carried it at $19.99[^ref-24][^ref-25]. A revised v1.0.0.1 PC/Mac hybrid disc, with a disc volume dated February 2000, followed[^ref-28], and MobyGames records a UK release in 2000[^ref-4][^ref-30]. Amazon's listing titles it "Hoyle Slots And Video Poker 2000 with Bonus Horse Racing (Win/Mac)"[^ref-3]. It belongs to Sierra's Hoyle line, which PCGamingWiki groups under Hoyle's Official Book of Games, a series that began with Volume 1 in 1989[^ref-8]. Wikipedia's Hoyle Casino article lists "Hoyle Slots & Video Poker (with Horse Racing)" among that series' spin-offs, dated 1999[^ref-9], while Sierra Chest catalogues the v1.0.0.1 box under the title "Hoyle Slots & Video Poker 2" with a first release of 2000[^ref-18]. A second Sierra Chest entry, "Hoyle Slots & Video Poker (1999)", lists IBM PC and Macintosh platforms, Sierra Attractions as publisher and a first release of 1999-01-01[^ref-31].
 
 The retail description promised "all the payoffs of casino Slots and video Poker without leaving home," with Las Vegas sights and sounds, quick hints and strategies, and a bonus Horse Racing game[^ref-3][^ref-22]. Amazon's product description gives the content as 275 variations of slots, "from classic one-armed bandits to modern video slots," and 44 variations of video poker including Joker Poker, Jacks or Better and Deuces Wild[^ref-3]; Sierra's 1999 page put it as "Over 275 variations of Slots" and "More than 44 variations of Video Poker"[^ref-22]. Sierra's 1999 listing gave separate Windows 95/98 and Macintosh CD requirements[^ref-22], and the original v1.0.0.0 Windows disc is ring-marked "VIDEO POKER W 95/98"[^ref-27]. The v1.0.0.1 reissue combined both platforms on one PC/Mac CD-ROM[^ref-18][^ref-28].
 
@@ -173,6 +173,7 @@ According to Wikipedia, publication of the Hoyle Casino series moved from Sierra
 
 **Download / Preservation**
 - [Internet Archive – Hoyle Slots & Video Poker (Sierra) (2001)](https://archive.org/details/HoyleSlotsVideoPokerSierra2001) – preserved CD-ROM image of the Sierra game, which is no longer sold; the item does not say which version it holds[^ref-15]
+- [Macintosh Repository – Hoyle Slots & Video Poker](https://www.macintoshrepository.org/65159-hoyle-slots-video-poker) – Mac preservation archive (year 1999, author Sierra, hybrid Mac/PC disc images for PowerPC, Mac OS 7.5 to 9.2); the game is no longer sold[^ref-32]
 - [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/159012-hoyle-slots-and-video-poker) – Image documentation[^ref-20]
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – Box and packaging archive[^ref-18]
 
@@ -185,6 +186,7 @@ According to Wikipedia, publication of the Hoyle Casino series moved from Sierra
 - [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
+- [[Hoyle Series]] — Series overview
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
@@ -260,3 +262,5 @@ According to Wikipedia, publication of the Hoyle Casino series moved from Sierra
 [^ref-28]: [Redump – Hoyle Slots & Video Poker (USA, v1.0.0.1)](http://redump.org/disc/59827/) – PC/Mac hybrid, ring S7076011, volume dates 1999-11-08 and 2000-02-04, playable demos
 [^ref-29]: [Redump – Hoyle Slots & Video Poker 3 (USA, Encore)](http://redump.org/disc/10785/) – Encore edition, barcode 7 05381 33026 4, volume date 2005-06-28
 [^ref-30]: [MobyGames – Hoyle Slots & Video Poker releases and specs](https://www.mobygames.com/game/79577/hoyle-slots-video-poker/releases/) – read via the MobyGames API: UK release 2000, Sierra On-Line, EAN 3348542114265, Windows 95, Pentium, 16 MB RAM, 2X CD-ROM, 256 colours, 640×480
+[^ref-31]: [Sierra Chest – Hoyle Slots & Video Poker (1999) (Wayback, 20 Apr 2023)](https://web.archive.org/web/20230420023444/https://www.sierrachest.com/index.php?a=games&id=821&title=hoyle-slots-video-poker&fld=general) – first release 1999-01-01, publisher Sierra Attractions, platforms IBM PC and Macintosh, group Hoyle Series
+[^ref-32]: [Macintosh Repository – Hoyle Slots & Video Poker](https://www.macintoshrepository.org/65159-hoyle-slots-video-poker) – year 1999, author Sierra, hybrid Mac/PC archives, PowerPC, Mac OS 7.5 up to 9.2
