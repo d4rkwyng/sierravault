@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Manhunter: New York", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra On-Line", "Tsunami Media", "Triton Interactive", "Legend Entertainment"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Bob Heitman
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ He is credited with the Atari ST conversion of Ultima II: The Revenge of the Enc
 
 Edenwaith's account of reverse-engineering AGI names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as the designers of AGI, the engine behind Sierra's first animated graphic adventures.[^ref-7] MobyGames credits him with the development system on King's Quest II (1985) and with programming on King's Quest III (1986).[^ref-16]
 
-Heitman programmed King's Quest III along with Al Lowe and Robert Kernaghan, then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] was the first game to use SCI.[^ref-8][^ref-24] Heitman later directed the group that added 256-color VGA extensions to the engine.[^ref-3]
+Heitman programmed King's Quest III along with Al Lowe and Bob Kernaghan (MobyGames' credits for the game spell the surname "Kernaghan";[^ref-27] the Adventure Game Fan Fair biography gives "Robert Kernhagan"), then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] was the first game to use SCI.[^ref-8][^ref-24] Heitman later directed the group that added 256-color VGA extensions to the engine.[^ref-3]
 
 As SCI matured, his credits are mostly for the engine itself: "Development System", "Interpreter / Development System" or "Game Development System" on games including the Hoyle series, Jones in the Fast Lane, Leisure Suit Larry 5, Mixed-Up Fairy Tales, Conquests of the Longbow and Castle of Dr. Brain.[^ref-16] He is also listed among the "Authors" of The Colonel's Bequest and among the actors of Jones in the Fast Lane.[^ref-16]
 
@@ -49,7 +49,9 @@ In 1993, Heitman started his own company, Triton Interactive, and did contract c
 
 For Interplay, he is credited with additional system programming on Star Trek: Judgment Rites (1993), and with additional programming on its 1995 CD-ROM edition.[^ref-13][^ref-16] He programmed Tsunami's Man Enough (1994),[^ref-16] and MobyGames credits him with programming on Dinonauts: Animated Adventures in Space (1995), a Windows title developed by Orbital Studios and published by Virgin Sound and Vision.[^ref-19][^ref-23]
 
-For [[1995 - Shannara|Shannara]], Legend Entertainment's game based on Terry Brooks's fantasy novels, Corey and Lori Ann Cole hired several ex-Sierra people.[^ref-9] Corey Cole recalled that "Bob Heitman, who had been my boss at Sierra, programmed the map and combat ('RPG lite')."[^ref-9] MobyGames lists Triton Interactive as the game's developer, with Legend Entertainment as publisher and game engine provider.[^ref-25]
+For [[1995 - Shannara|Shannara]], Legend Entertainment's game based on Terry Brooks's fantasy novels, Corey and Lori Ann Cole hired several ex-Sierra people.[^ref-9] Corey Cole recalled that "Bob Heitman, who had been my boss at Sierra, programmed the map and combat ('RPG lite')."[^ref-9] MobyGames lists Triton Interactive and FAR Productions as developers (seven of its eight release records name both; one names Triton alone), with Legend Entertainment as publisher, additional developer and game engine provider.[^ref-25]
+
+In the anecdote Corey Cole told PC Gamer, Heitman, then Sierra's programming manager, ended an early plan for *Hero's Quest* (later Quest for Glory) to let players choose a male or female character and a species such as centaur: "Programming manager Bob Heitman nixed that idea." Cole recalled Heitman asking "what will happen with our animation system if you try to animate a quadruped character going up those steps? It'll be a disaster or look like hell," and that every action would need "double the sets of animation" for two genders, much of it stored on every floppy disk.[^ref-28]
 
 He is credited as System Software Engineer on Sierra's [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998).[^ref-16]
 
@@ -155,9 +157,9 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 ## References
 
 [^ref-1]: [MobyGames - Robert Eric Heitman](https://www.mobygames.com/person/2200/robert-eric-heitman/) — Biography: one of Sierra's first employees, SCI co-developer, Tsunami technology, Passport2
-[^ref-3]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) — Biography, Sierra management roles, and Triton Interactive founding
+[^ref-3]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) — Biography, Sierra management roles, and Triton Interactive founding (live page returned HTTP 500 on 2026-11-11; [Wayback copy, 2026-06-17](https://web.archive.org/web/20260617002802/https://adventuregamefanfair.com/guests/robert-heitman/) carries the full bio)
 [^ref-5]: [LaunchBox - Robert Heitman Games](https://gamesdb.launchbox-app.com/developers/games/29876-robert-heitman) — Ultima II Atari ST port
-[^ref-7]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) — Names Heitman among the designers of AGI
+[^ref-7]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) — Names Heitman among the designers of AGI ([Wayback copy, 2026-06-14](https://web.archive.org/web/20260614215742/https://www.edenwaith.com/blog/index.php?p=87), used because the live site failed TLS on 2026-11-11)
 [^ref-8]: [MobyGames - Game Engine: Sierra's Creative Interpreter (SCI), sorted by date (Wayback, October 2023)](https://web.archive.org/web/20231030174919/https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/sort:date/) — SCI "from 1988 to 1996"; date-sorted list opens with King's Quest IV (1988)
 [^ref-9]: [The Adventurers' Guild - Interview with Corey Cole](https://advgamer.blogspot.com/2018/07/interview-with-corey-cole.html) — "Bob Heitman, who had been my boss at Sierra, programmed the map and combat"
 [^ref-11]: [MobyGames - Ringworld: Revenge of the Patriarch](https://www.mobygames.com/game/2559/ringworld-revenge-of-the-patriarch/) — Game entry (ID 2559, confirmed via MobyGames API)
@@ -172,5 +174,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 [^ref-22]: [MobyGames - Dora the Explorer: Lost City Adventure](https://www.mobygames.com/game/30689/dora-the-explorer-lost-city-adventure/) — Windows/Macintosh, 2002; Stunt Puppy / Infogrames (via MobyGames API)
 [^ref-23]: [MobyGames - Robert Eric Heitman (Wayback, October 2025)](https://web.archive.org/web/20251012055930/https://www.mobygames.com/person/2200/robert-eric-heitman/) — "Credited on 54 games"; recent credits incl. Dinonauts and Barbie
 [^ref-24]: [Ars Technica - A truly graphic adventure: the 25-year rise and fall of a beloved genre (Richard Moss, January 2011)](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) — "Sierra replaced the AGI scripting language with SCI (Sierra's Creative Interpreter) in 1988, with King's Quest again used to demonstrate the latest technology"
-[^ref-25]: [MobyGames - Shannara](https://www.mobygames.com/game/3208/shannara/) — DOS, 1995; developed by Triton Interactive, published by Legend Entertainment, game engine by Legend (read via the MobyGames API)
+[^ref-25]: [MobyGames - Shannara](https://www.mobygames.com/game/3208/shannara/) — DOS, 1995; developed by Triton Interactive and FAR Productions (7 of 8 release records; one lists Triton only), published by Legend Entertainment, which is also listed for additional development and game engine (read via the MobyGames API)
 [^ref-26]: [ScummVM source - engines/tsage/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/tsage/detection_tables.h) — Protostar entries flagged "Demo" / ADGF_DEMO
+[^ref-27]: [MobyGames - King's Quest III: To Heir is Human (Wayback, July 2026)](https://web.archive.org/web/20260730071115/https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) — Credits list "Bob Kernaghan" among the programmers (Moby ID 126)
+[^ref-28]: [PC Gamer - From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all/) — "Programming manager Bob Heitman nixed that idea"; Cole's account of the animation-system objection
