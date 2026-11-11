@@ -1,11 +1,11 @@
 ---
 title: "Fan & Community Resources"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Fan & Community Resources
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Want to dig deeper than these pages? These sites preserve interviews, downloads, and discussions across the Sierra fandom.
 
@@ -28,7 +28,12 @@ Want to dig deeper than these pages? These sites preserve interviews, downloads,
 - [Space Quest Omnipedia (Fandom)](https://spacequest.fandom.com/wiki/Space_Quest_Omnipedia) - Detailed wiki with timelines, character bios, and fan content.
 
 ### Quest for Glory
+- [Quest for Glory Omnipedia (Fandom)](https://questforglory.fandom.com/wiki/Quest_for_Glory_Omnipedia) - Community wiki covering the Quest for Glory / Hero's Quest series and Hero-U (about 2,900 articles as of November 2026).
+- [Hero-U Games](https://hero-u.com/) - Transolar Games' site for Corey and Lori Cole's Hero-U series, with buy links, a Discord and a Patreon.
 - [Quest for More Glory (Archive)](https://web.archive.org/web/20240322150642/http://www.questformoreglory.com/) - Strategy guides, hero import tools, and Hero-U updates.
+
+### Police Quest
+- [Police Quest Omnipedia (Fandom)](https://policequest.fandom.com/wiki/Police_Quest_Omnipedia) - Community wiki covering the Police Quest series, the SWAT spin-offs and the Police Quest books (about 1,400 articles as of November 2026).
 
 ### Leisure Suit Larry
 - [Larry Laffer Dot Net](http://larrylaffer.net/) - LSL fan site with walkthroughs, music pages, manuals and hint books, and LSL2's in-game Black Book. (Its forum link points to the SierraHelp forums.)
