@@ -6,17 +6,17 @@ defunct: null
 headquarters: "Tokyo, Japan"
 notable_games: ["Lunar: The Silver Star", "Grandia", "Thexder"]
 parent_company: "GungHo Online Entertainment"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Game Arts
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Game Arts Co., Ltd. is a Japanese video game developer and publisher based in Chiyoda, Tokyo, founded in 1985. It began with the action game Thexder and is best known in the West for the Lunar and Grandia role-playing series and the Gungriffon vehicle-simulation games.[^ref-1] The company was co-founded by brothers Yoichi and Takeshi Miyaji.[^ref-1][^ref-23][^ref-24]
 
-Sierra On-Line licensed several of its early computer games for the North American market, including Thexder and Silpheed.[^ref-1][^ref-26][^ref-31] GungHo Online Entertainment acquired Game Arts in 2005.[^ref-25]
+Sierra On-Line licensed several of its early computer games for the North American market, including Thexder and Silpheed.[^ref-1][^ref-26][^ref-31] GungHo Online Entertainment acquired Game Arts in 2005.[^ref-25] Japanese Wikipedia currently lists GungHo Online Entertainment as the sole shareholder (「ガンホー・オンライン・エンターテイメント株式会社 100.0%」 [GungHo Online Entertainment Co., Ltd. 100.0%]) and the company's representative as Kazuki Morishita (「森下一喜（代表取締役社長）」 [Kazuki Morishita (Representative Director and President)]); it dates the start of the consolidated-subsidiary relationship to 「2005年10月17日より」 [from October 17, 2005].[^ref-33] No Game Arts or GungHo corporate profile page could be fetched to confirm the officer name or ownership share, so those two details rest on Wikipedia alone.
 
 ## History
 
@@ -30,11 +30,11 @@ Silpheed followed on the PC-8801 in December 1986, designed by Takeshi Miyaji.[^
 
 ### Sierra Era
 
-Sierra On-Line published Game Arts games in North America in the late 1980s and 1990: Thexder (US 1987), Silpheed (US 1989), Zeliard (US 1990) and Fire Hawk: Thexder – The Second Contact (US 1990).[^ref-1][^ref-31]
+Sierra On-Line published Game Arts games in North America in the late 1980s and 1990: Thexder (US 1987), Silpheed (1988 on the CoCo per MobyGames; Sierra dated its US release to April 1989), Zeliard (US 1990) and Fire Hawk: Thexder – The Second Contact (US 1990).[^ref-1][^ref-31]
 
-Thexder came first. In the Spring 1988 Sierra Newsletter, Ken Williams wrote that it "was released in September of 1987, was Sierra's first import from Japan, and has already sold more than 100,000 units in this country."[^ref-32] (A Sierra News profile two years later instead said it "debuted in U.S. computer stores just in time for Christmas 1986," while another article in the same issue gives 1987.[^ref-31]) The same 1988 newsletter previewed Silpheed, listing it for the fourth quarter of 1988, with the IBM version programmed by Gary Butts and the Apple IIGS version by John Rettig.[^ref-32] Sierra's Fall 1990 magazine dates the US release to April 1989, and Wikipedia's games table gives 1988.[^ref-31][^ref-1]
+Thexder came first. In the Spring 1988 Sierra Newsletter, Ken Williams wrote that it "was released in September of 1987, was Sierra's first import from Japan, and has already sold more than 100,000 units in this country."[^ref-32] (A Sierra News profile two years later instead said it "debuted in U.S. computer stores just in time for Christmas 1986," while another article in the same issue gives 1987.[^ref-31]) The same 1988 newsletter previewed Silpheed, listing it for the fourth quarter of 1988, with the IBM version programmed by Gary Butts and the Apple IIGS version by John Rettig.[^ref-32] Sierra's Fall 1990 magazine dates the US release to April 1989, and Wikipedia's games table gives 1988.[^ref-31][^ref-1] MobyGames gives platform-specific first-release years: 1988 for the TRS-80 CoCo version and 1989 for DOS (Apple IIgs: July 1989).[^ref-36]
 
-In Fall 1990, Sierra News announced "the cementing of a long-term alliance with Game Arts of Japan, makers of Sierra's first Japanese imports Thexder and Silpheed," adding that Sierra "will begin converting and distributing all Game Arts products in the U.S. and Europe."[^ref-31] The article quoted Game Arts President Yoichi Miyaji: "Sierra On-Line is a superior software house. When we were users, Sierra was established as a company, and was already releasing wonderful games." It named Firehawk and Zeliard, "Game Arts' answer to the role playing adventure," as that year's releases.[^ref-31]
+In Fall 1990, Sierra News announced "the cementing of a long-term alliance with Game Arts of Japan, makers of Sierra's first Japanese imports Thexder and Silpheed," adding that Sierra "will begin converting and distributing all Game Arts products in the U.S. and Europe."[^ref-31] The same article describes Game Arts as "located in Ikebukuro, in Northwest Tokyo" (spelling the founder "Youichi Miyaji"), says Thexder was "a phenomenon in Japan, selling 500,000 units and winning Japan's BHS (Best Hit Software) award," and that it "became Sierra's best seller for 1987."[^ref-31] The article quoted Game Arts President Yoichi Miyaji: "Sierra On-Line is a superior software house. When we were users, Sierra was established as a company, and was already releasing wonderful games." It named Firehawk and Zeliard, "Game Arts' answer to the role playing adventure," as that year's releases.[^ref-31]
 
 Ken Williams later described the arrangement this way:
 
@@ -48,6 +48,10 @@ In the 1990s Game Arts moved toward console role-playing games. Lunar: The Silve
 
 On October 18, 2005, GamesIndustry.biz reported that GungHo Online Entertainment had acquired "veteran development studio Game Arts," noting that GungHo had "a long-standing relationship" with the company.[^ref-25] Game Arts developed Ragnarok Odyssey (PlayStation Vita, 2012), which GungHo published.[^ref-30] The company marked its 40th anniversary on March 2, 2025.[^ref-27]
 
+## Legacy
+
+Game Arts' official news feed records several recent re-releases of its older titles: Sony released the PlayStation game archive version of Grandia for PlayStation Plus (November 21, 2023); D4Enterprise released Silpheed (PC-8801mkIISR) for the Switch EGG console (December 21, 2023); GungHo Online Entertainment America released the "GRANDIA HD Collection" for PlayStation 4 and Xbox One (March 26, 2024); and GungHo Online Entertainment America released the "LUNAR Remastered Collection" for PlayStation 4, Nintendo Switch, Xbox One and PC-Steam (April 18, 2025).[^ref-35]
+
 ## Notable Games
 
 ### Thexder (1985)
@@ -56,7 +60,7 @@ Game Arts' first game, released in 1985 for Japanese personal computers and publ
 
 ### Silpheed (1986)
 
-A polygon-based shooter for the PC-8801, published in North America by Sierra; Sierra dated the US release to April 1989.[^ref-28][^ref-31] It was remade for the Sega CD in 1993.[^ref-28]
+A polygon-based shooter for the PC-8801, published in North America by Sierra; Sierra dated the US release to April 1989, while MobyGames gives 1988 (CoCo) and 1989 (DOS).[^ref-28][^ref-31][^ref-36] It was remade for the Sega CD in 1993.[^ref-28]
 
 ### Lunar: The Silver Star (1992)
 
@@ -80,7 +84,7 @@ Released for the Sega Saturn in Japan on December 18, 1997, and later ported to 
 Years are given as Japanese release / US release.[^ref-1][^ref-31][^ref-32]
 
 - **JP 1985 / US 1987** — [[1985 - Thexder|Thexder]] — Genre: Action
-- **JP 1986 / US 1989** — [[1988 - Silpheed|Silpheed]] — Genre: Shooter
+- **JP 1986 / 1988 (TRS-80 CoCo), 1989 (DOS)** — [[1988 - Silpheed|Silpheed]] — Genre: Shooter
 - **JP 1989 / US 1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Genre: Action
 - **JP 1987 / US 1990** — [[1990 - Zeliard|Zeliard]] — Genre: Action RPG
 
@@ -117,3 +121,5 @@ Years are given as Japanese release / US release.[^ref-1][^ref-31][^ref-32]
 [^ref-32]: [Sierra Newsletter, Vol. 1 No. 3 (Spring 1988) - Internet Archive](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) — Ken Williams: Thexder "released in September of 1987", "Sierra's first import from Japan", over 100,000 units; Silpheed preview and 4th-quarter listing
 [^ref-33]: [ゲームアーツ - Wikipedia (Japanese)](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A2%E3%83%BC%E3%83%84) — founded March 2, 1985; Thexder released April 1985; NEC supplied a PC-8801mkII SR during development
 [^ref-34]: [Shmuplations - Thexder developer interview (Wayback, April 18, 2026)](https://web.archive.org/web/20260418142346/https://shmuplations.com/thexder/) — "Hibiki Godai - Director/Designer", "Satoshi Uesaka - Designer"
+[^ref-35]: [Game Arts - official news feed (Wayback, copy dated April 18, 2025)](https://web.archive.org/web/2026/https://www.gamearts.co.jp/en/rss/news.xml) — Grandia PS Plus (Nov 21, 2023), Silpheed EGG Switch (Dec 21, 2023), GRANDIA HD Collection (Mar 26, 2024), LUNAR Remastered Collection (Apr 18, 2025)
+[^ref-36]: [MobyGames - Silpheed](https://www.mobygames.com/game/167/silpheed/) — first-release dates by platform: TRS-80 CoCo 1988, DOS 1989, Apple IIgs 1989-07 (read via the MobyGames API)
