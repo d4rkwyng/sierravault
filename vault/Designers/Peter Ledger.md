@@ -4,12 +4,12 @@ type: designer
 birth_year: 1945
 death_year: 1994
 notable_games: ["Conquests of Camelot: The Search for the Grail", "Ringworld: Revenge of the Patriarch", "Blue Force"]
-companies: ["Sierra Entertainment, Inc.", "Tsunami Media, Inc.", "Interplay Productions, Inc."]
-last_updated: "2026-10-26"
+companies: ["Sierra On-Line, Inc.", "Tsunami Media, Inc.", "Interplay Productions"]
+last_updated: "2026-11-11"
 ---
 # Peter Ledger
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,13 +27,19 @@ In 1977 he won the Art Directors Silver Award for his Surfabout poster, and his 
 
 At Marvel he provided the fully painted, airbrushed colour for the three-part Weirdworld story "Warriors of the Shadow Realm" in *Marvel Super Special* #11–13 (1979).[^ref-29][^ref-25] With Marx he later produced comics stories such as *Carlos McLlyr* and the graphic novel *The Sisterhood of Steel*.[^ref-25][^ref-3][^ref-27]
 
-He was a big fan of Carl Barks' duck art, and hand-painted and airbrushed all the stories in the coffee-table art book *Uncle Scrooge McDuck: His Life and Times*.[^ref-3][^ref-8] He also created the first Babylon 5 logo and early character illustrations used while the series was being sold.[^ref-3]
+In 1981 he moved to Los Angeles to work on a project funded by George Lucas and Gary Kurtz: a coffee-table art book of *Uncle Scrooge McDuck: His Life and Times*, written and drawn by Carl Barks. Ledger was a big fan of Barks' duck art, and hand-painted and airbrushed all the stories.[^ref-3][^ref-25][^ref-8] He and Christy Marx were married on Catalina Island in March 1983.[^ref-3][^ref-25]
+
+### Film, television and comics work
+
+Wikipedia credits Ledger with preparing the graphics for the 1974 Australian film *Stone* and working on the 1976 film *Oz*.[^ref-3] According to Marx, he was also well known for a portrait of John Lennon, sponsored by a Sydney radio station a day after Lennon was killed and rushed into print as a commemorative poster; she believed he painted it within 24 hours.[^ref-25] After settling in California he worked mainly in film and television, doing storyboards and preproduction design: he painted robot suits and designed aliens for *The Ice Pirates*.[^ref-25][^ref-3] He also created the first Babylon 5 logo and early character illustrations used while the series was being sold.[^ref-3][^ref-25]
+
+For Eclipse Comics, Wikipedia's bibliography lists him as artist and colourist on stories in *Alien Encounters* (1985–1987), the three-part "Carlos McLyr, the Californio: Old Gods, New World" in *Eclipse Monthly* #6–8 (1984), and cover artist and colourist on *Tales of Terror* #13 (1987); Marvel credits there include covers for *Howard the Duck* vol. 2 #1–2 (1979).[^ref-3] (Wikipedia spells the character "McLyr"; Marx's own biography spells it "McLlyr".)[^ref-25]
 
 ### Computer Games (1988–1996)
 
 Sierra's interest began when a headhunter called to ask whether Ledger would be interested in doing art for computer games; Marx asked whether Sierra also needed writers, and the couple were hired as a writer/designer team.[^ref-21][^ref-27] Toward the end of 1988, Ledger and Marx signed a deal to create computer games for Sierra On-Line and moved to the Oakhurst area.[^ref-25][^ref-8][^ref-3] The result was [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] (1990), designed by Marx, with Ledger as Art Designer.[^ref-22][^ref-24] The Digital Antiquarian identifies him as Marx's husband and an illustrator on her Sierra work.[^ref-16] Polygon reports that the limits of the era's graphics, 320x200 resolution and 16 colours, "proved frustrating" for Ledger,[^ref-27] and Marx wrote in her own biography that "He hated it and quit after the first game."[^ref-26]
 
-He went on to paint backgrounds for Tsunami Media's Ringworld: Revenge of the Patriarch (1992) and background renderings for Tsunami's [[1993 - Blue Force|Blue Force]] (1993).[^ref-3][^ref-23] His last game work, background illustrations for one campaign of Blood & Magic, was released posthumously in 1996; the game was published by Interplay, and MobyGames lists it as dedicated to his memory.[^ref-3][^ref-23][^ref-12]
+He went on to paint backgrounds for Tsunami Media's Ringworld: Revenge of the Patriarch (1992) and background renderings for Tsunami's [[1993 - Blue Force|Blue Force]] (1993).[^ref-3][^ref-23] The Blue Force manual names the company as Tsunami Media, Inc.[^ref-31] His last game work, background illustrations for one campaign of Blood & Magic, was released posthumously in 1996; the game was developed by Tachyon Studios and published by Interplay (as its box states), and MobyGames lists it as dedicated to his memory.[^ref-3][^ref-23][^ref-12][^ref-32] MobyGames spells the campaign "Howl of Vengence".[^ref-23]
 
 Marx wrote that although he continued to produce paintings for computer games, "he never much cared for working with computers"; from about 1990 on he concentrated on large wall murals and trompe l'oeil paintings with British artist Susie Wilson.[^ref-8][^ref-25]
 
@@ -41,7 +47,7 @@ Marx wrote that although he continued to produce paintings for computer games, "
 
 ### Conquests of Camelot: The Search for the Grail (1990)
 
-MobyGames credits Ledger as Art Designer, one of the animators and background artists, and the cover artist; Christy Marx is the sole credited Game Designer.[^ref-22] Hardcore Gaming 101 likewise credits the game's artwork to Ledger.[^ref-28] Wikipedia summarises the split: "Marx did the majority of the design work while Ledger created the game and package art."[^ref-24] His son Julian Ledger is also credited among the background artists.[^ref-22][^ref-25]
+MobyGames credits Ledger as Art Designer, one of the animators and background artists, and the cover artist; Christy Marx is the sole credited Game Designer.[^ref-22] The game's own manual credits list "Art Designer: Peter Ledger" and "Game Designer: Christy Marx", with Ledger among the animators and, alongside Julian Ledger and Douglas Herring, the background artists.[^ref-30] Hardcore Gaming 101 likewise credits the game's artwork to Ledger.[^ref-28] Wikipedia summarises the split: "Marx did the majority of the design work while Ledger created the game and package art."[^ref-24] His son Julian Ledger is also credited among the background artists.[^ref-22][^ref-25]
 
 ### Ringworld: Revenge of the Patriarch (1992)
 
@@ -61,13 +67,17 @@ Eliot R. Brown, remembering the 1979 Marvel offices, wrote that Ledger "was one 
 
 ### Sierra On-Line (1990)
 
-- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Art Designer; Animator; Background Artist; Cover artwork[^ref-22]
+| Year | Title | Role |
+|------|-------|------|
+| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Art Designer; Animator; Background Artist; Cover artwork[^ref-22][^ref-30] |
 
-### Later games (1992–1996)
+### Other Credits (1992–1996)
 
-- 1992 — Ringworld: Revenge of the Patriarch — Tsunami Media — Backgrounds[^ref-23]
-- **1993** — [[1993 - Blue Force|Blue Force]] — Company: Tsunami Media, Role: Background Renderings[^ref-23]
-- 1996 — Blood & Magic — Interplay — Background Illustrator (Howl of Vengeance campaign; posthumous)[^ref-23]
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media, Inc. | Backgrounds[^ref-23][^ref-33] |
+| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media, Inc. | Background Renderings[^ref-23][^ref-31] |
+| 1996 | Blood & Magic | Interplay Productions | Background Illustrator (Howl of Vengeance campaign; posthumous)[^ref-23][^ref-32] |
 
 ### Posthumous Tributes (2021–2023)
 
@@ -94,3 +104,7 @@ Eliot R. Brown, remembering the 1979 Marvel offices, wrote that Ledger "was one 
 [^ref-27]: [Polygon - From G.I. Joe to Zynga: the three-decade career of Christy Marx (2013)](https://www.polygon.com/features/2013/6/26/4429774/gi-joe-zynga-christy-marx/) — Headhunter call; "hired as a writer/designer team"; 16-colour limits "proved frustrating"; death on 18 November 1994
 [^ref-28]: [Hardcore Gaming 101 - Conquests of Camelot (Wayback, 2022-12-10)](https://web.archive.org/web/20221210063747/http://www.hardcoregaming101.net/conquests-of-camelot/) — "with artwork provided by her husband Peter Ledger"
 [^ref-29]: [Wikipedia - Weirdworld](https://en.wikipedia.org/wiki/Weirdworld) — "airbrush colorist Peter Ledger" on "Warriors of the Shadow Realm", Marvel Super Special #11–13 (1979)
+[^ref-30]: [Internet Archive - Conquests of Camelot: The Search for the Grail manual](https://archive.org/details/Conquests_of_Camelot_-_The_Search_for_the_Grail_-_Manual) — Credits page: Game Designer Christy Marx, Art Designer Peter Ledger, animators and background artists incl. Peter and Julian Ledger; "© 1990 Sierra On-Line, Inc."
+[^ref-31]: [Internet Archive - Blue Force (1993) Manual](https://archive.org/details/00308-blue-force-1993-manual) — "© Tsunami Media, Inc., 1993"; the manual's text carries no Ledger credit
+[^ref-32]: [Internet Archive - Blood & Magic (USA) box scans](https://archive.org/details/bloodmagicusa) — Back of box: Interplay Productions publisher, "Developed by Tachyon Studios", "©1996 Tachyon Studios"
+[^ref-33]: [Internet Archive - Ringworld CD DOS 1993-1994 box and disc scans](https://archive.org/details/RingworldCDDOS19931994) — Front of box shows the Tsunami logo
