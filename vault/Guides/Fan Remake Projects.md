@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises; the fan remakes themselves are free downloads.
 
@@ -13,9 +13,9 @@ When Sierra Entertainment stopped making classic adventure games, the fan commun
 
 ## Overview
 
-The Sierra fan remake community emerged in the early 2000s, driven by fans who grew up with AGI and early SCI games and wanted to see them reimagined with modern VGA graphics, point-and-click interfaces, and full voice acting.
+The Sierra fan remake community emerged in the early 2000s, when AGD Interactive (founded 2001) began releasing VGA remakes of Sierra's early games.[^ref-2] Infamous Adventures' King's Quest III remake (2006) followed the same model, with a point-and-click interface and updated VGA graphics, and later received a voice pack.[^ref-17]
 
-Most fan remakes use **Adventure Game Studio (AGS)**, a free engine designed specifically for creating point-and-click adventure games in the Sierra/LucasArts tradition.
+Several of the best-known remakes were built with **Adventure Game Studio (AGS)**, including AGDI's King's Quest II and the games of Infamous Adventures, an engine used by teams working in the classic Sierra and LucasArts adventure style.[^ref-3][^ref-17]
 
 ---
 
@@ -25,7 +25,7 @@ Most fan remakes use **Adventure Game Studio (AGS)**, a free engine designed spe
 
 **Founded:** 2001 (originally as Tierra Entertainment)
 **Website:** [agdinteractive.com](https://www.agdinteractive.com/)
-**Status:** Active (commercial work via Himalaya Studios)
+**Status:** The newest news item on the AGDI site, as read on November 11, 2026, is dated January 30, 2019, announcing the release of Mage's Initiation: Reign of the Elements[^ref-1]
 
 [[AGD Interactive|AGD Interactive]] is known for its King's Quest and Quest for Glory remakes. The company was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-2][^ref-13]
 
@@ -49,8 +49,8 @@ On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interac
 - Quest for Glory II v2.0 (January 20, 2011) — PC and Mac versions with extensive improvements[^ref-1]
 
 **Commercial Work:**
-AGDI founded **Himalaya Studios** for original commercial games:
-- [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation - Reign of the Elements]] (2019) — Adventure/RPG in the Quest for Glory tradition
+AGDI also formed **Himalaya Studios**, a commercial company focused on original point-and-click adventure games:[^ref-2]
+- [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation - Reign of the Elements]] (2019) — Announced as released on January 30, 2019 as an Adventure/RPG that "harkens back to King's Quest and Quest for Glory"[^ref-1]
 
 ---
 
@@ -60,7 +60,7 @@ AGDI founded **Himalaya Studios** for original commercial games:
 **Website:** [infamousadventures.itch.io](https://infamousadventures.itch.io/) (formerly infamous-adventures.com, which now redirects there)
 **Status:** Stopped making games in July 2012 and continued as Infamous Quests; the remakes are still distributed on itch.io[^ref-17]
 
-[[Infamous Adventures|Infamous Adventures]] (later [[Infamous Quests|Infamous Quests]]) made VGA remakes and original adventure games. It was known for its Space Quest II and King's Quest III remakes.
+[[Infamous Adventures|Infamous Adventures]] (later [[Infamous Quests|Infamous Quests]]) made VGA remakes and original adventure games. It was known for its Space Quest II and King's Quest III remakes, and its games were made with the AGS engine and offered as free downloads.[^ref-17]
 
 **Released Remakes:**
 
@@ -78,10 +78,14 @@ AGDI founded **Himalaya Studios** for original commercial games:
 - TBD — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — A prequel to Quest for Infamy;[^ref-32] voice recording still unfinished as of April 2026, and the developer reported waning momentum in July 2026[^ref-6]
 - TBD — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — In limbo — no team or budget to finish (Oct 2025)[^ref-7]
 
+**Cancelled Projects:**
+
+- **2010 (announced)** — King's Quest: Kingdom of Sorrow — A fan sequel based on the King's Quest novel *Kingdom of Sorrow* by the writing team "Kenyon Morr"; Infamous Adventures revealed in June 2010 (June 18, per Wikipedia) that its secret "Project X" was this game, and Wikipedia says it "was announced to be cancelled on 27 July 2012"; see the [[Cancelled Game Index]][^ref-17]
+
 **Notes:**
 - Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
-- Quest for Infamy is a spiritual successor to Quest for Glory, featuring anti-hero William Roehm
-- Order of the Thorne draws inspiration from King's Quest's fairy tale style
+- Quest for Infamy was inspired by Quest for Glory; the player takes the role of a charming villain, choosing one of three anti-hero classes (brigand, rogue or sorcerer)[^ref-17][^ref-34]
+- The Order of the Thorne follows Finn the bard, who undertakes a ten-yearly challenge set by the ruler of the Faerie Realm in the land of Uir[^ref-19]
 
 ---
 
@@ -95,15 +99,17 @@ Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as an unof
 
 **Released Games:**
 
-- **2010–2011** — [[2010 - The Silver Lining|The Silver Lining]] — Episodes: 4 of 5 planned, Download: [postudios.com](https://www.postudios.com/company/games/thesilverlining/)
-- **2012–2013** — [[2012 - Cognition - An Erica Reed Thriller|Cognition - An Erica Reed Thriller]] — Episodes: 4 episodes, Download: [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/)
+- **2010–2011** — [[2010 - The Silver Lining|The Silver Lining]] — Episodes: 4 of 5 planned,[^ref-16] free to download, Download: [postudios.com](https://www.postudios.com/company/games/thesilverlining/)[^ref-49]
+- **2012–2013** — [[2012 - Cognition - An Erica Reed Thriller|Cognition - An Erica Reed Thriller]] — Episodes: 4 episodes, released October 30, 2012 to September 19, 2013,[^ref-33] Download: [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/)
 
 **The Silver Lining History:**
 - Originally titled "King's Quest IX: Every Cloak Has a Silver Lining"
 - Received a cease-and-desist from Vivendi in September 2005, right after the first trailer[^ref-16]
 - Granted a fan license on November 29, 2005, on condition that "King's Quest" be removed from the title[^ref-16]
 - Episode 1 released July 10, 2010; Episode 4 on November 6, 2011[^ref-16]
+- Episodes 1–4 are free; Phoenix's store lists the combined four-episode installer at $0.00[^ref-49]
 - Episode 5 was announced for 2017 but never released[^ref-16]
+- The last progress report on Phoenix's site is dated January 31, 2019 (by Katie Hallahan: "No, this isn't a release date announcement. It's a progress report!")[^ref-48]
 
 ---
 
@@ -138,7 +144,7 @@ Multiple teams have created Space Quest fan games over the years:
 
 The original artist and designer from Coktel Vision's Gobliiins series has made creator-made sequels (self-published under Schnibble Productions):[^ref-21]
 
-- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5 - The Morgloton Invasion]] — Status: Released
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5 - The Morgloton Invasion]] — Status: Released July 20, 2023 (Steam)[^ref-38]
 - **2026** — [[2026 - Gobliins 6]] — Status: Released February 2026 (Steam: February 13, 2026)[^ref-21]
 
 **Gobliins 6** is a direct sequel to Gobliins 2, bringing back Fingus and Winkle against "the cruel conqueror Karcassio".[^ref-31]
@@ -160,37 +166,37 @@ Many original Sierra designers have created spiritual successors, many through c
 
 [[Scott Murphy]] and [[Mark Crowe]], creators of Space Quest, launched SpaceVenture via Kickstarter in 2012:
 
-- [[2022 - SpaceVenture|SpaceVenture]] — Status: Released Dec 23, 2025,[^ref-27] Platform: Steam, Itch.io
+- [[2022 - SpaceVenture|SpaceVenture]] — Status: Released Dec 23, 2025, Platform: Steam[^ref-27]
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Status: Released November 9, 2015, Platform: Steam ($2.99)[^ref-23]
 
 ### The Coles (Quest for Glory)
 
 [[Corey Cole]] and [[Lori Ann Cole]], creators of Quest for Glory:
 
-- [[2018 - Hero-U - Rogue to Redemption|Hero-U - Rogue to Redemption]] — Status: Released 2018, Platform: Steam, GOG
-- [[2023 - Summer Daze - Tilly's Tale|Summer Daze - Tilly's Tale]] — Status: Released 2023, Platform: Steam
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U - Rogue to Redemption]] — Status: Released July 10, 2018,[^ref-35] Platform: Steam (Windows, Mac, Linux)[^ref-36]
+- [[2023 - Summer Daze - Tilly's Tale|Summer Daze - Tilly's Tale]] — Status: Released March 28, 2023, Platform: Steam[^ref-37]
 - Hero-U Sequel — Shelved — Coles making Summer Daze games instead; Ifeyo's Adventure expected late spring/early summer 2027 (Sep 2026)[^ref-9]
 
 ### Jane Jensen (Gabriel Knight)
 
 [[Jane Jensen]], creator of Gabriel Knight:
 
-- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] — Status: Released 2014, Platform: Steam, GOG
-- [[2014 - Moebius - Empire Rising|Moebius - Empire Rising]] — Status: Released 2014, Platform: Steam, GOG
-- [[2010 - Gray Matter|Gray Matter]] — Status: Released 2010, Platform: Steam (GOG delisted)
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] — Status: Steam release October 15, 2014, Platform: Steam,[^ref-41] GOG[^ref-42]
+- [[2014 - Moebius - Empire Rising|Moebius - Empire Rising]] — Status: Steam release April 15, 2014, Platform: Steam,[^ref-39] GOG[^ref-40]
+- [[2010 - Gray Matter|Gray Matter]] — Status: Released November 2010 in Continental Europe,[^ref-44] Platform: Steam (GOG delisted)[^ref-43]
 - [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Pitch only; Jensen discussed the unreleased GK pitch, set in Salzburg, in December 2025[^ref-10]
 
 ### Ken & Roberta Williams (Colossal Cave)
 
 [[Ken Williams]] and [[Roberta Williams]], Sierra founders:
 
-- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — Status: Released 2023, Platform: Steam, VR, Consoles
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — Status: Released January 19, 2023, Platform: Steam[^ref-45]
 
 ### Al Lowe (Leisure Suit Larry)
 
 [[Al Lowe]], creator of Leisure Suit Larry:
 
-- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry - Reloaded]] — Status: Released 2013, Platform: GOG, Mobile (no longer sold on Steam)
+- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry - Reloaded]] — Status: Released June 27, 2013,[^ref-46] Platform: GOG,[^ref-47] Android and iOS[^ref-46] (not currently sold on Steam: no Steam listing found on November 11, 2026)
 
 ---
 
@@ -200,9 +206,9 @@ Many original Sierra designers have created spiritual successors, many through c
 
 **Origin:** Spain; Estrayk describes "a group of Spanish people called SCP who have been preserving Amiga games in Spanish for years"[^ref-11]
 **Key Members:** DaRaSCo, kikems (AmigaWave), Estrayk
-**Status:** Active
+**Status:** Latest release January 15, 2026 (Space Quest IV);[^ref-25] Conquests of the Longbow reported at about 90% in January 2026[^ref-11]
 
-The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhances Sierra's notoriously poor Amiga ports by extracting, improving, and re-injecting graphics. Unlike VGA remakes that rebuild games from scratch, SCP preserves the original SCI engine while fixing the graphical compromises that made Sierra's Amiga conversions inferior to DOS versions.
+The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhances Sierra's notoriously poor Amiga ports by modifying their graphics and re-injecting them into the game; the group has also announced a graphics injection tool.[^ref-11][^ref-12]
 
 **Released Enhancements:**
 
@@ -217,9 +223,7 @@ The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhan
 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] | ~90% (Jan 2026); release promised "soon", still unreleased as of October 2026[^ref-11][^ref-12] |
 
 **Technical Approach:**
-- Uses Amiga-native tools (ImageFX, PPaint, Adpro)
-- Reconstructs color palettes to better match DOS VGA originals
-- Includes MIDI support via Roland MT-32/mt32-pi
+- Graphics are modified with Amiga tools (ImageFX, PPaint and Adpro)[^ref-11]
 - kikems says he used Amiga tools "to prove that Sierra didn't do better in those years because they didn't want to, not because the tools didn't exist"[^ref-11]
 
 **Community:**
@@ -230,27 +234,9 @@ The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhan
 
 ## How to Play Fan Remakes
 
-### Requirements
-
-Most fan remakes are built with Adventure Game Studio and require:
-- **Windows** — Native support
-- **macOS** — Some games have Mac ports; others work via Wine
-- **Linux** — Run via Wine or native AGS builds
-
-### Installation
-
-1. Download from the developer's website
-2. Extract the archive
-3. Run the executable
-4. No installation required for most AGS games
-
 ### ScummVM Support
 
-ScummVM has supported AGS games (versions 2.5 and later) since ScummVM 2.5.0 in October 2021,[^ref-26] allowing fan remakes to run on:
-- Steam Deck
-- Android
-- iOS
-- Retro handhelds
+ScummVM has supported AGS games (versions 2.5 and later) since ScummVM 2.5.0 in October 2021,[^ref-26] so AGS fan games can be run through ScummVM.
 
 ---
 
@@ -259,8 +245,7 @@ ScummVM has supported AGS games (versions 2.5 and later) since ScummVM 2.5.0 in 
 Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 
 - **AGDI** — Contacted by Vivendi Universal, which gave the team permission to make its remakes; co-founder Britney Brimhall said in 2006 that "we now have permission to create these games"[^ref-13]
-- **Phoenix Online** — Received cease-and-desist, then negotiated limited fan license for The Silver Lining
-- **Current status** — With Sierra IP now owned by Microsoft (via Activision Blizzard acquisition), legal landscape is uncertain
+- **Phoenix Online** — Received a cease-and-desist from Vivendi in September 2005, then a fan license on November 29, 2005 on condition that "King's Quest" be removed from the title[^ref-16]
 
 ---
 
@@ -290,8 +275,8 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 
 ## References
 
-[^ref-1]: [AGD Interactive – Home](https://www.agdinteractive.com/) — "January 20th, 2011 UPDATE Quest for Glory II v2.0 released on PC and Mac"
-[^ref-2]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — "founded in 2001 by Britney K. Brimhall and Christopher T. Warren as Tierra Entertainment"; December 10, 2003 rename; KQ1 v4.0 (Jan 17, 2009) and KQ2 v3.0 (Mar 14, 2009); SQ2 remake "put on indefinite hold"
+[^ref-1]: [AGD Interactive – Home](https://www.agdinteractive.com/) — "January 20th, 2011 UPDATE Quest for Glory II v2.0 released on PC and Mac"; newest news item as read November 11, 2026: "January 30th, 2019 UPDATE Mage's Initiation Released… an Adventure/RPG that harkens back to King's Quest and Quest for Glory"
+[^ref-2]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — "founded in 2001 by Britney K. Brimhall and Christopher T. Warren as Tierra Entertainment"; December 10, 2003 rename; KQ1 v4.0 (Jan 17, 2009) and KQ2 v3.0 (Mar 14, 2009); SQ2 remake "put on indefinite hold"; "formed a commercial company, Himalaya Studios"
 [^ref-3]: [Adventure Game Studio – King's Quest II: Romancing the Stones game page (archived Sep 2011)](https://web.archive.org/web/20110928101136/http://www.adventuregamestudio.co.uk/games.php?action=detail&id=144) — "Awards won: Best Game Created with AGS 2002, Best Story 2002, Best Animation 2002, Best Scripting 2002, Best Music 2002, Best Documentation 2002"
 [^ref-4]: [PC World/TechHive – Jim Norris, "Step into Newfound Adventure with Quest for Glory II: Trial by Fire" (July 20, 2012; archived)](https://web.archive.org/web/20150924121212/http://www.techhive.com/article/259400/step_into_newfound_adventure_with_quest_for_glory_ii_trial_by_fire.html) — "a hand-polished classic you should be embarrassed to download for free"; 4/5
 [^ref-5]: [Just Adventure – State of Adventure Gaming (archived)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) — KQ8 top-selling adventure of August 2001 (19,484 units); "How about this for a theory" linking it to the KQ1 remake's downloads
@@ -306,7 +291,7 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-14]: [SpaceQuest.net – Fan Games](https://spacequest.net/misc/fanfiction/fangames/) — "Made by: Vonster D Monster" (The Lost Chapter), "Made by: Jeff Stewart" (SQ0: Replicated), "Made by: Cris Ushko" (Incinerations, boxofmystery.com)
 [^ref-15]: [Space Quest: Vohaul Strikes Back – FAQ (archived Jan 2012)](https://web.archive.org/web/20120125100055/http://www.sqvsb.com/faq) — "60-70 unique ways for Roger Wilco to die"
 [^ref-16]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) — production began October 2000; team reorganized January 2002; "In September 2005… received a cease and desist"; fan license November 29, 2005; Episodes 1–4 July 10, 2010 to November 6, 2011; Episode 5 "Coming in 2017" post
-[^ref-17]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) — "founded in 2004 by Shawn Mills and Steven Alexander"; July 27, 2012 post: "no longer producing games"
+[^ref-17]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) — "founded in 2004 by Shawn Mills and Steven Alexander"; July 27, 2012 post: "no longer producing games"; KQ3 remake released June 19, 2006 with voice pack August 21, 2006; games made with AGS, free to download; Quest for Infamy "inspired by Sierra's Quest for Glory series"; Kingdom of Sorrow announced June 18, 2010, "announced to be cancelled on 27 July 2012"
 [^ref-18]: [MobyGames – Phoenix Online Studios, LLC](https://www.mobygames.com/company/15713/phoenix-online-studios-llc/) ([Wayback copy, 23 Feb 2026](https://web.archive.org/web/20260223075204/https://www.mobygames.com/company/15713/phoenix-online-studios-llc/)) — "originally called Phoenix Freeware Online, was formed in 2004"
 [^ref-19]: [Steam – The Order of the Thorne - The King's Challenge](https://store.steampowered.com/app/425600/) — developer Infamous Quests; released Jan 26, 2016
 [^ref-20]: [AGS Forums – King's Quest IV Retold (VGA + Talkie) NEW VERSION (Jorge Pecador, Nov 29, 2025)](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/) — "made by courtesy of Dr Slash, the author of King's Quest IV Retold (and with his blessing)"; "patched with 256 colored graphics and voices"
@@ -322,3 +307,20 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-30]: [Hardcore Gamer – Review: Al Emmo and the Lost Dutchman's Mine (Dec 10, 2013)](https://hardcoregamer.com/reviews/review-al-emmo-and-the-lost-dutchmans-mine/65195/) — "Al Emmo is the Larry Laffer of the wild west"
 [^ref-31]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure (Oct 14, 2024; archived Oct 23, 2024)](https://web.archive.org/web/20241023012845/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) — "This sequel to Gobliins 2 - The Prince Buffoon brings back… Fingus, and Winkle"; "the cruel conqueror Karcassio"
 [^ref-32]: [itch.io – Quest for Infamy: Roehm to Ruin by Infamous Quests](https://infamousquests.itch.io/qfi-rtr) — "A prequel to Quest for Infamy."
+[^ref-33]: [Wikipedia – Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) — "four episodes were released"; first episode October 30, 2012, final episode September 19, 2013
+[^ref-34]: [Steam – Quest for Infamy](https://store.steampowered.com/app/264560/) — "play as one of three anti-heroes with unique quests: Brigand, Rogue, or Sorcerer"; "A spiritual heir to yesteryear's heroic quests"
+[^ref-35]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) — "released for Windows, Mac, and Linux on July 10, 2018"
+[^ref-36]: [Steam – Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/) — Transolar Games; released Jul 10, 2018; Windows, Mac, Linux
+[^ref-37]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/) — Transolar Games; released Mar 28, 2023
+[^ref-38]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/) — developer Pierre Gilhodes, publisher Schnibble Productions; released Jul 20, 2023
+[^ref-39]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/) — Phoenix Online Studios; released Apr 15, 2014
+[^ref-40]: [GOG – Moebius: Empire Rising](https://www.gog.com/en/game/moebius) — store page, offered for sale (read November 11, 2026)
+[^ref-41]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) — released Oct 15, 2014
+[^ref-42]: [GOG – Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) — store page, offered for sale (read November 11, 2026)
+[^ref-43]: [Steam – Gray Matter](https://store.steampowered.com/app/260570/) — WizarBox Production; Steam release Apr 1, 2014
+[^ref-44]: [Wikipedia – Gray Matter (video game)](https://en.wikipedia.org/wiki/Gray_Matter_(video_game)) — "released in November 2010 in Continental Europe and in English-speaking territories in 2011"
+[^ref-45]: [Steam – Colossal Cave](https://store.steampowered.com/app/2215540/) — Cygnus Entertainment; released Jan 19, 2023
+[^ref-46]: [Wikipedia – Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — "released on June 27, 2013"; "Microsoft Windows via Steam and GOG, macOS, Linux, Android and iOS"
+[^ref-47]: [GOG – Leisure Suit Larry: Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) — store page, offered for sale (read November 11, 2026)
+[^ref-48]: [Phoenix Online Studios blog – The Silver Lining Progress Report (Katie Hallahan, January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) — "No, this isn't a release date announcement. It's a progress report!"
+[^ref-49]: [Phoenix Online Store – The Silver Lining - Episodes 1-4](https://store.postudios.com/products/the-silver-lining) — "PC - $0.00", "FREE"; "The Silver Lining - Episodes 1-4"
