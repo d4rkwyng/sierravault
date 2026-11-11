@@ -5,11 +5,11 @@ birth_year: 1955
 death_year: null
 notable_games: ["Quest for Glory series", "Castle of Dr. Brain", "Hero-U: Rogue to Redemption"]
 companies: ["Sierra On-Line", "FAR Productions", "Transolar Games"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Corey Cole
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,11 @@ In a 2002 interview Corey said Sierra did not think another Quest for Glory "wou
 
 After Sierra closed its [[Yosemite Entertainment]] office in 1999, Corey moved into online gaming, with projects including Explorati (2001) and JetSetPoker.com (2003), and worked with Lori on the online School for Heroes.[^ref-7] MobyGames also credits him, in 2000, with programming at Pulsar Interactive on two Game Boy Color games: [[2000 - Hoyle Casino|Hoyle Casino]], published by Sierra, and Barbie: Fashion Pack Games, published by Mattel Interactive.[^ref-6][^ref-22][^ref-23] In May 2002 he told Adventure Gamers that he and Lori were working with Explorati, Inc. on an Internet-based system that would be "a cross between games, storytelling, and a few other things."[^ref-17]
 
-Prompted by fans and by Double Fine's crowdfunding success, the Coles launched a Kickstarter in October 2012 for [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]. Corey recalled: "Our first Kickstarter we asked for $400,000 and everybody thought we were insane."[^ref-9][^ref-18] The game was released by their company, [[Transolar Games]], on July 9, 2018; Transolar's site describes Corey as its president, handling company administration and community management.[^ref-20] A later campaign, Summer Daze at Hero-U (October 1 to November 5, 2019), raised $106,155 from 1,639 backers, and led to [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (2023).[^ref-10][^ref-7] The campaign page quotes him: "Summer Daze at Hero-U is a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-10] Transolar's site now also promotes further Hero-U interactive-fiction games.[^ref-15]
+Prompted by fans and by Double Fine's crowdfunding success, the Coles launched a Kickstarter in October 2012 for [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]. Corey recalled: "Our first Kickstarter we asked for $400,000 and everybody thought we were insane."[^ref-9][^ref-18] The game was released by their company, [[Transolar Games]], on July 9, 2018; Transolar's site describes Corey as its president, handling company administration and community management.[^ref-20] A second Hero-U campaign ran from May 12 to June 16, 2015 and raised $116,888 from 1,869 backers.[^ref-28] The third campaign, Summer Daze at Hero-U (October 1 to November 5, 2019), raised $106,155 from 1,639 backers, and led to [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (2023).[^ref-10][^ref-7] The campaign page quotes him: "Summer Daze at Hero-U is a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-10] Transolar's site now also promotes further Hero-U interactive-fiction games.[^ref-15]
+
+### 2025–26
+
+Console editions of *Hero-U: Rogue to Redemption* are published by Silesia Games, with Transolar Games as developer: DekuDeals lists the Nintendo Switch release as February 9, 2021 and the PlayStation 4 and 5 release as April 24, 2025, and the PlayStation Store listing carries the notice "© Transolar Games. Licensed by Silesia Games Sp. z o.o."[^ref-25][^ref-26] In a September 16, 2026 update to Summer Daze backers, the project's follow-up, *Summer Daze: Ifeyo's Adventure*, was placed in "late Spring or early Summer 2027."[^ref-27]
 
 ## Notable Works
 
@@ -55,7 +59,7 @@ MobyGames credits [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] as "Designe
 
 ### Hero-U: Rogue to Redemption (2018)
 
-[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign; even then, PC Gamer reports, the Coles took out a home equity loan and drew on retirement money to finish it.[^ref-9] Transolar's own site says the game took "three years to complete" and credits Corey as designer and producer;[^ref-20] the dates suggest a longer span, since the first Kickstarter launched in October 2012 and the game came out on July 9, 2018.[^ref-18][^ref-20]
+[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign in 2015 ($116,888 from 1,869 backers);[^ref-28] even then, PC Gamer reports, the Coles took out a home equity loan and drew on retirement money to finish it.[^ref-9] Transolar's own site says the game took "three years to complete" and credits Corey as designer and producer;[^ref-20] the dates suggest a longer span, since the first Kickstarter launched in October 2012 and the game came out on July 9, 2018.[^ref-18][^ref-20]
 
 ## Design Philosophy
 
@@ -77,35 +81,36 @@ Summing up their Sierra years in 2024, the Coles wrote: "Every game was an adven
 
 ### Sierra On-Line (1988–1999)
 
-- **1989–1990** — Atari ST versions of [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]], [[1990 - Codename - Iceman|Codename: Iceman]], [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]], [[1989 - The Colonel's Bequest|The Colonel's Bequest]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] and Hero's Quest — Role: Atari ST conversion[^ref-6]
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] (as Hero's Quest) — Role: Programming, Interpreter/Development System, Additional Documentation[^ref-6]; named co-designer by Computer Gaming World[^ref-21]
-- **1990–1991** — SCI development system credits on [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I (SCI)]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games Volume 2]], [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] and [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]][^ref-6]
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Design, Programming, Interpreter/Development System
-- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Designer, Director, Programmer
-- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Lead Programmer
-- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Actor (Psychologist Sidney Aimes)
-- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Credit: Special Programming Thanks[^ref-6]
-- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero VGA]] — Role: Co-Designer
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Co-Designer, Technical Documentation, Voice Actor
-- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Co-Writer
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Additional Bridge Programming[^ref-6]; helped design the Bridge strategy[^ref-24]
-- **1994** — Space Quest: Collector's Edition — Role: Video[^ref-6]
-- **1995** — [[1995 - Shannara|Shannara]] — Company: FAR Productions, Role: Co-Designer, Programmer
-- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Photo Model
-- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: RPG System Engineer, System Software Engineer
+| Year | Title | Role |
+|------|-------|------|
+| 1989–1990 | Atari ST versions of [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]], [[1990 - Codename - Iceman\|Codename: Iceman]], [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]], [[1989 - The Colonel's Bequest\|The Colonel's Bequest]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]] and Hero's Quest | Atari ST conversion[^ref-6] |
+| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] (as Hero's Quest) | Programming, Interpreter/Development System, Additional Documentation[^ref-6]; named co-designer by Computer Gaming World[^ref-21] |
+| 1990–1991 | SCI development system credits on [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I (SCI)]], [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]], [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games Volume 2]], [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] and [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]] | Development System[^ref-6] |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Development System[^ref-6] |
+| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Design, Programming, Interpreter/Development System[^ref-6] |
+| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Designer, Director, Programmer[^ref-6] |
+| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Lead Programmer[^ref-6] |
+| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Actor (Psychologist Sidney Aimes)[^ref-6] |
+| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Special Programming Thanks[^ref-6] |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero VGA]] | Co-Designer[^ref-6] |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Co-Designer, Technical Documentation, Voice Actor[^ref-6] |
+| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer, Co-Director, Co-Writer[^ref-6] |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Additional Bridge Programming[^ref-6]; helped design the Bridge strategy[^ref-24] |
+| 1994 | Space Quest: Collector's Edition | Video[^ref-6] |
+| 1995 | [[1995 - Shannara\|Shannara]] (FAR Productions) | Co-Designer, Programmer[^ref-6] |
+| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Photo Model[^ref-6] |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | RPG System Engineer, System Software Engineer[^ref-6] |
 
-### Other Work (2000)
+### Other Credits (2000–2023)
 
-- **2000** — [[2000 - Hoyle Casino|Hoyle Casino]] (Game Boy Color version; developed by Pulsar Interactive, published by Sierra) — Role: Programming[^ref-6][^ref-22]
-- **2000** — Barbie: Fashion Pack Games (Game Boy Color; developed by Pulsar Interactive, published by Mattel Interactive) — Role: Programmers[^ref-6][^ref-23]
-
-### Post-Sierra (2008–Present)
-
-- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Company: AGD Interactive, Credit: "Written & Designed by" (original design credit carried over)
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Co-Creator, Co-Designer, Co-Writer, Programmer, Project Lead
-- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Game Design
-- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Company: Transolar Games, Role: Co-Founder, Co-Designer
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2000 | [[2000 - Hoyle Casino\|Hoyle Casino]] (Game Boy Color) | Pulsar Interactive (published by Sierra) | Programming[^ref-6][^ref-22] |
+| 2000 | Barbie: Fashion Pack Games (Game Boy Color) | Pulsar Interactive (published by Mattel Interactive) | Programmers[^ref-6][^ref-23] |
+| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | AGD Interactive | "Written & Designed by" (original design credit carried over)[^ref-6] |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Creator, Co-Designer, Co-Writer, Programmer, Project Lead[^ref-6][^ref-20] |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Game Design[^ref-6] |
+| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Co-Founder, Co-Designer[^ref-6][^ref-10] |
 
 ## References
 
@@ -128,3 +133,7 @@ Summing up their Sierra years in 2024, the Coles wrote: "Every game was an adven
 [^ref-22]: [MobyGames - Hoyle Casino (Game Boy Color, 2000)](https://www.mobygames.com/game/43644/hoyle-casino/) — read via the MobyGames API: developed by Pulsar Interactive, published by Sierra On-Line, October 2000
 [^ref-23]: [MobyGames - Barbie: Fashion Pack Games (Game Boy Color, 2000)](https://www.mobygames.com/game/173410/barbie-fashion-pack-games/) — read via the MobyGames API: developed by Pulsar Interactive, published by Mattel Interactive
 [^ref-24]: [InterAction #17 (Spring 1993), Hoyle Classic Card Games feature by Kurt Busch](https://archive.org/details/inter-action-issue-17-spring-1993) — period scan: Richard Aronson "recruited fellow programmer and Bridge champ Corey Cole" to help design a Bridge strategy for the VGA revision of Hoyle 1
+[^ref-25]: [DekuDeals - Hero-U: Rogue to Redemption](https://www.dekudeals.com/items/hero-u-rogue-to-redemption) – developer Transolar Games, publisher Silesia Games; Switch February 9, 2021; PS4 and PS5 April 24, 2025
+[^ref-26]: [PlayStation Store - Hero-U: Rogue to Redemption (PS4)](https://store.playstation.com/en-us/product/UP6989-CUSA42932_00-0745759548738048) – publisher Silesia Games Sp. z o.o.; April 24, 2025; "© Transolar Games. Licensed by Silesia Games Sp. z o.o."
+[^ref-27]: [Summer Daze project updates (BackerKit)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – update of September 16, 2026: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
+[^ref-28]: [Kickstarter - Hero-U Fantasy Adventure Role-Playing Game (2015)](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) – $116,888 pledged of $100,000 goal, 1,869 backers; funding period May 12 – Jun 16, 2015
