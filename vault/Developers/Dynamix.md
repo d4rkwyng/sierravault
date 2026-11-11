@@ -79,7 +79,7 @@ Selected titles; Wikipedia and MobyGames carry the full list.[^ref-1][^ref-11]
 - **1989** — Abrams Battle Tank — Genre: Vehicle Simulation
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
 - **1989** — Deathtrack — Genre: Racing/Combat
-- **1989** — Die Hard (published by Activision) — Genre: Action[^ref-32]
+- **1989** — [[1989 - Die Hard|Die Hard]] (published by Activision) — Genre: Action[^ref-32]
 - **1989** — Ghostbusters II (published by Activision) — Genre: Action[^ref-31]
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
 - **1989** — Project Firestart — Genre: Action/Horror

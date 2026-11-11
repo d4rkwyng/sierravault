@@ -11,7 +11,7 @@ series: null
 engine: null
 protagonist: "John McClane"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-22'
+last_updated: '2026-11-11'
 description: "Die Hard is a 1989 MS-DOS action game based on the 1988 film, developed by Dynamix and published by Activision before Sierra acquired Dynamix. The Commodore 64, NES and PC Engine Die Hard games are different products by other developers."
 tags: [1980s, action, licensed, die-hard, ms-dos, dynamix, activision, jerry-luttrell]
 composer: ["Bryce Morcello"]
@@ -19,7 +19,7 @@ composer: ["Bryce Morcello"]
 
 # Die Hard
 
-<small style="color: gray">Last updated: October 22, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -137,7 +137,7 @@ Die Hard was the first game based on the *Die Hard* films.[^ref-12] Later *Die H
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available. As of October 2026 we found no GOG or Steam release.
+- Not currently available. As of November 2026 we found no GOG or Steam release.
 
 **Download / Preservation**
 - [Internet Archive – Die Hard (MS-DOS, 1989)](https://archive.org/details/msdos_Die_Hard_1989) (listing of the Dynamix/Activision release)[^ref-15]
@@ -160,14 +160,14 @@ Die Hard comes from Dynamix's year of work for Activision, between its Electroni
 [^ref-2]: [MobyGames – Die Hard credits (DOS)](https://www.mobygames.com/game/5469/die-hard/credits/dos/) – design/direction, graphics, 3D art, music, producers, product management, playtesting, players guide
 [^ref-3]: [MobyGames – Die Hard (Commodore 64, 1990)](https://www.mobygames.com/game/60598/die-hard/) – C64 version developed by Silent Software, published by Activision, made into a side-scroller. Retrieved via the MobyGames API, 2026-10-09
 [^ref-4]: [MobyGames – Die Hard MobyRank page (Wayback Machine, 2010)](http://web.archive.org/web/20100310114823/http://www.mobygames.com:80/game/die-hard/mobyrank) – press scores: The Games Machine 86 (DOS), Power Play 33 (DOS); C64 credits
-[^ref-5]: [MobyGames – Die Hard (DOS) reviews](https://www.mobygames.com/game/5469/die-hard/reviews/) – critic average 71% from nine ratings
+[^ref-5]: [MobyGames – Die Hard (DOS) reviews](https://www.mobygames.com/game/5469/die-hard/reviews/) – critic average 71% from nine ratings ([Wayback copy, Dec 2024](http://web.archive.org/web/20241221083656/https://www.mobygames.com/game/5469/die-hard/reviews/))
 [^ref-6]: [The Games Machine #26 (January 1990), Die Hard "stop press" review, p. 10 – Internet Archive](https://archive.org/details/the-games-machine-26) – plot set-up, 32nd floor start, 20-minute limit, movement, combat, items, displays, PC panel, verdict, £24.99, C64 version expected in January
 [^ref-7]: [The Games Machine #28 (March 1990), letters page – Internet Archive](https://archive.org/details/the-games-machine-28) – reply on an Amiga version: "due to its US development"
 [^ref-8]: [Computer and Video Games #99 (February 1990), Paul Rand, Die Hard review, p. 18 – Internet Archive](https://archive.org/details/ComputerAndVideoGamesIssue099Jan90) – seven vaults, route through floors 32–34 and the roof, health, 3D system, sub-scores, 80% overall, £24.95, Activision USA converting to C64
 [^ref-9]: [Computer Gaming World #61 (July 1989), Summer CES report – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_61) – Activision contracted to digitize film images for Die Hard and Ghostbusters II; heavy action emphasis
 [^ref-10]: [Computer Gaming World #69 (March 1990), Taking a Peek – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_69) – "nifty 3-D graphics", faithful to the movie, IBM, $39.95
-[^ref-11]: [Hardcore Gaming 101 – "Die Hard (C64 / IBM PC)" (Cassidy, March 27, 2022)](http://www.hardcoregaming101.net/die-hard-c64-ibm-pc/) – Activision licence and Dynamix commission, control modes, optional tasks, weapons, critique, Dynamix "new form of 3-dimensional technology" claim, Silent Software C64 conversion
-[^ref-12]: [GameRevolution – "Diving Into Die Hard's Many Game Adaptations" (Tyler Treese, 2019)](https://www.gamerevolution.com/features/476909-die-hard-video-games) – first Die Hard game, early third-person shooter, light survival elements, later adaptations
+[^ref-11]: [Hardcore Gaming 101 – "Die Hard (C64 / IBM PC)" (Cassidy, March 27, 2022)](http://www.hardcoregaming101.net/die-hard-c64-ibm-pc/) – Activision licence and Dynamix commission, control modes, optional tasks, weapons, critique, Dynamix "new form of 3-dimensional technology" claim, Silent Software C64 conversion ([Wayback copy, Oct 2025](http://web.archive.org/web/20251016084447/http://www.hardcoregaming101.net/die-hard-c64-ibm-pc/); the live page was a maintenance notice on 2026-11-11)
+[^ref-12]: [GameRevolution – "Diving Into Die Hard's Many Game Adaptations" (Tyler Treese, 2019)](https://www.gamerevolution.com/features/476909-die-hard-video-games) – first Die Hard game, early third-person shooter, light survival elements, later adaptations ([Wayback copy, Oct 2019](http://web.archive.org/web/20191023054127/https://www.gamerevolution.com/features/476909-die-hard-video-games))
 [^ref-13]: [Wikipedia – Die Hard (video game)](https://en.wikipedia.org/wiki/Die_Hard_(video_game)) – developers by platform (Dynamix for MS-DOS, Silent Software for C64, Pack-In-Video for NES/PC Engine), release dates, DOS camera behind the player
 [^ref-14]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Dynamix's use of digitized graphics, animation and sound, "most notably" in Die Hard and Ghostbusters II
 [^ref-15]: [Internet Archive – Die Hard (MS-DOS, 1989)](https://archive.org/details/msdos_Die_Hard_1989) – listing: developed by Dynamix, published by Activision, 1989
