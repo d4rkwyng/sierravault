@@ -11,19 +11,19 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D point-and-click puzzle adventure and a direct
-  sequel to *Gobliins 2: The Prince Buffoon*, reuniting the goblin duo Fingus and Winkle...'
+  sequel to *Gobliins 2: The Prince Buffoon*, reuniting the goblin duo Fingus and Winkle.'
 tags: [adventure, gobliiins, puzzle, sierra]
 composer: [Butterfly Tea Music]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-*Gobliins 6: The Madmen of the Year 1000* (styled *GOBLiiNS6 - The Prince Buffoon - The Madmen of the Year 1000*) is a 2026 2D point-and-click puzzle adventure that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]]*, reuniting the duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2][^ref-14][^ref-18][^ref-20] Italian site Multiplayer.it described it as the official follow-up to both *Gobliiins 5* and *Gobliins 2*.[^ref-26] Developed by [[Pierre Gilhodes]] and published under his [[Schnibble Productions]] label, it is, in the words of its store page, "a new episode of the series GOBLiiiNS, directed by the initial author" — Gilhodes having created the visual look of the series and its characters at Coktel Vision in the early 1990s.[^ref-4][^ref-14][^ref-24]
+*Gobliins 6: The Madmen of the Year 1000* (styled *GOBLiiNS6 - The Prince Buffoon - The Madmen of the Year 1000*) is a 2026 2D point-and-click puzzle adventure that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]]*, reuniting the duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2][^ref-14][^ref-18][^ref-20] Italian site Multiplayer.it described it as the official follow-up to both *Gobliiins 5* and *Gobliins 2*.[^ref-26] Developed by [[Pierre Gilhodes]] and published under his [[Schnibble Productions]] label, it is, in the words of its store page, "a new episode of the series GOBLiiiNS, directed by the initial author" — Gilhodes having created the visual look of the series and its characters at [[Coktel Vision]] in the early 1990s.[^ref-4][^ref-14][^ref-24]
 
 The game was crowdfunded in parallel on Ulule (from October 9, 2024) and Kickstarter (October 10 to November 9, 2024); the Kickstarter closed with €9,524 from 388 backers against a €4,000 goal.[^ref-1][^ref-9][^ref-25] It was released for Windows on itch.io on February 10, 2026, and on Steam on February 13, 2026.[^ref-14][^ref-15][^ref-27] Like *Gobliiins 5*, it was built with Adventure Game Studio (AGS).[^ref-4][^ref-20]
 
@@ -75,11 +75,11 @@ The Kickstarter campaign lists these improvements over *Gobliiins 5*:[^ref-1][^r
 
 ### Contemporary Reviews
 
-As of October 2026, searches turned up no professional critic reviews of *Gobliins 6*, and it has no aggregate critic score. Press coverage so far has been news rather than reviews: Adventure Gamers and Multiplayer.it reported the crowdfunding launch in October 2024, and Indie Retro News covered the itch.io launch on February 10, 2026, reporting that players could "download and play" it from that day.[^ref-2][^ref-15][^ref-26]
+As of November 2026 (checked November 11), searches turned up no professional critic reviews of *Gobliins 6*, and it has no aggregate critic score. It also has no GOG listing (checked November 11, 2026). Press coverage so far has been news rather than reviews: Adventure Gamers and Multiplayer.it reported the crowdfunding launch in October 2024, and Indie Retro News covered the itch.io launch on February 10, 2026, reporting that players could "download and play" it from that day.[^ref-2][^ref-15][^ref-26]
 
 ### Modern Assessment
 
-Reception so far comes from player ratings. On Steam, user reviews are rated "Positive", with 87% of 24 reviews positive.[^ref-14] On itch.io the game is rated 5.0 out of 5 from 17 ratings.[^ref-20] One itch.io player called it "definitely the second best game in the series, next to Goblins3," praising the "humor, graphics, and animation" and adding that "the music is much better compared to Gobliiins5."[^ref-23]
+Reception so far comes from player ratings. As of November 2026, Steam user reviews are rated "Positive", with 87% of 24 reviews positive (checked November 11).[^ref-14] On itch.io the game is rated 5.0 out of 5 from 17 ratings.[^ref-20] One itch.io player called it "definitely the second best game in the series, next to Goblins3," praising the "humor, graphics, and animation" and adding that "the music is much better compared to Gobliiins5."[^ref-23]
 
 The project was discussed across several adventure-gaming communities:
 
@@ -104,11 +104,11 @@ According to the campaign page, the money would "finance production, which is ex
 
 ### Production
 
-The campaign's "Risks and challenges" section stated that the game, begun in April 2023, "will be finished in a year or a year and a half"; the base reward's estimated delivery was December 2025.[^ref-1] In an April 6, 2025 Kickstarter update, Gilhodes reported: "Although 75% of the game is almost finished, the last quarter started well, there is still a lot of work to do." The same update said the English translation by Carole was "moving slowly".[^ref-28][^ref-9] MobyGames credits Gilhodes with the scenario, graphics, animation and programming, Carole Corvisy with the English translation, Claire Taupin as lead tester, and Butterfly Tea Music for the music.[^ref-6]
+The campaign's "Risks and challenges" section stated that the game, begun in April 2023, "will be finished in a year or a year and a half"; the base reward's estimated delivery was December 2025.[^ref-1] In an April 6, 2025 Kickstarter update, Gilhodes reported: "Although 75% of the game is almost finished, the last quarter started well, there is still a lot of work to do." The same update said the English translation by Carole was "moving slowly".[^ref-28][^ref-9] In a Kickstarter update that a forum post dates to August 2025, Gilhodes put the game at about 80% (up from 75%) and wrote: "Muriel Tramis helped me with the screenwriting of the 2nd and 12th, the psychedelic level, which is very heavy."[^ref-33][^ref-34] MobyGames credits Gilhodes with the scenario, graphics, animation and programming, Carole Corvisy with the English translation, Claire Taupin as lead tester, and Butterfly Tea Music for the music.[^ref-6]
 
 In Kickstarter Update #8 on February 2, 2026, Gilhodes wrote: "As soon as the game is released, and as soon as I have collected the keys, I start sending you the emails. I send a Steam key by default, but let me know quickly if you prefer an Itch.io key, or the game files."[^ref-13] The itch.io release was briefly held up by the file size; in a comment on the store page Gilhodes wrote: "I am waiting for a response from Itch.io to release the game. The executable is too heavy, they must add more space."[^ref-27]
 
-The game went on sale on itch.io on February 10, 2026.[^ref-15][^ref-27] In Kickstarter Update #9 on February 11, Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday."[^ref-21] The Steam release followed on Friday, February 13, 2026, announced to backers in Update #11, "Le jeu est sorti sur Steam".[^ref-14][^ref-22]
+The game went on sale on itch.io on February 10, 2026.[^ref-15][^ref-27] In Kickstarter Update #9 on February 11, Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday."[^ref-21] The Steam release followed on Friday, February 13, 2026, announced to backers in Update #11, "Le jeu est sorti sur Steam" ("The game is out on Steam").[^ref-14][^ref-22]
 
 ### Technical Achievements
 
@@ -166,7 +166,11 @@ Wikipedia counts six games in the series. The "Goblins" column follows the "i" c
 
 ### Pierre Gilhodes' Role
 
-Gilhodes created the visual look of the series and its characters at Coktel Vision, and his style was also used in *The Bizarre Adventures of Woodruff and the Schnibble*.[^ref-4] *Gobliiins 4* (2009) was designed by Gilhodes and developed by Société Pollene; [[Muriel Tramis]] has only a thanks credit, as "co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4."[^ref-30] With *Gobliiins 5* and *Gobliins 6* he has continued the series independently, self-publishing on itch.io and Steam under the Schnibble Productions name.[^ref-5][^ref-14][^ref-24]
+Gilhodes created the visual look of the series and its characters at Coktel Vision, and his style was also used in *The Bizarre Adventures of Woodruff and the Schnibble*.[^ref-4] *Gobliiins 4* (2009) was designed by Gilhodes and developed by Société Pollene; [[Muriel Tramis]] has only a thanks credit on that game, as "co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4."[^ref-30] With *Gobliiins 5* and *Gobliins 6* he has continued the series independently, self-publishing on itch.io and Steam under the Schnibble Productions name.[^ref-5][^ref-14][^ref-24] Tramis did, however, help with the screenwriting of two levels of *Gobliins 6* (see Production).[^ref-33]
+
+### Collections
+
+*Gobliins 6* is not part of the *Gobliiins Collection* published by Red Art Games, released May 27, 2026 on PS5, Xbox Series and Switch (Switch 2 later, on August 17, 2026). The collection contains the first five games: *Gobliiins* (1991), *Gobliins 2* (1992), *Goblins 3* (1993), *Gobliiins 4* (2009) and *Gobliiins 5* (2023).[^ref-31] A review of the collection states that it "does not feature the sixth installment due to its recency."[^ref-32]
 
 ## Downloads
 
@@ -177,7 +181,7 @@ Gilhodes created the visual look of the series and its characters at Coktel Visi
 ## See Also
 
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|← Previous: Gobliiins 5]]
-
+- Next: N/A
 - [[1991 - Gobliiins]]
 - [[1992 - Gobliins 2 - The Prince Buffoon]] (direct predecessor in the story)
 - [[1993 - Goblins Quest 3]]
@@ -212,3 +216,7 @@ Gilhodes created the visual look of the series and its characters at Coktel Visi
 [^ref-28]: [Kickstarter – Gobliins 6 Update #4: GOBLiiNS6 Progress](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4355384) – April 6, 2025: "75% of the game is almost finished"; levels 13–15; English translation by Carole
 [^ref-29]: [Kickstarter – Gobliins 6 Update #1: Info Gobliins6](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4237007) – October 29, 2024: "Due to the funding difficulties on both platforms…"
 [^ref-30]: [MobyGames – Gobliiins 4 credits (Wayback Machine, July 7, 2016)](http://web.archive.org/web/20160707233658/http://www.mobygames.com:80/game/windows/gobliiins-4/credits) – "Designed by Pierre Gilhodes, Société Pollene"; "Thank you to Muriel Tramis (co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4.)"
+[^ref-31]: [Gematsu – Gobliiins Collection](https://www.gematsu.com/games/gobliiins-collection) – release May 27, 2026 on PS5, Xbox Series, Switch (Switch 2 August 17, 2026); lists five games, Gobliiins (1991) to Gobliiins 5 (2023); Gobliins 6 not mentioned (checked 2026-11-11)
+[^ref-32]: [Movies, Games and Tech – Review: Gobliiins Collection](https://moviesgamesandtech.com/2026/11/10/review-gobliiins-collection/) – November 10, 2026: published by Red Art Games; "The Gobliiins Collection does not feature the sixth installment due to its recency."
+[^ref-33]: [Kickstarter – Gobliins 6 Update: GOBLiiNS6 Progress](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4456688) – "Last time, I was at 75%, now I would say 80%"; "Muriel Tramis helped me with the screenwriting of the 2nd and 12th, the psychedelic level, which is very heavy." (post undated in the render; read 2026-11-11)
+[^ref-34]: [Planète Aventure forum – Gobliins 6 thread](https://www.planete-aventure.net/forums/viewtopic.php?p=260050) – post of October 4, 2025 refers to Gilhodes's August Kickstarter update saying Muriel Tramis helped write the scenario of levels 2 and 12
