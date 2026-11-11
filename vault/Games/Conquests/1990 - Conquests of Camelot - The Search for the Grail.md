@@ -10,20 +10,20 @@ series: Conquests
 engine: SCI0
 protagonist: King Arthur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Mark Seibert]
 description: '*Conquests of Camelot: The Search for the Grail* is an adventure game
-  released in March 1990 by Sierra On-Line that places players in control of King
-  Arthur...'
+  released in 1990 by Sierra On-Line that places players in control of King Arthur
+  on a quest for the Holy Grail.'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-*Conquests of Camelot: The Search for the Grail* is an adventure game released in March 1990 by Sierra On-Line that places players in control of King Arthur during a quest to find the Holy Grail and rescue three missing Knights of the Round Table.[^ref-1] Designed by screenwriter [[Christy Marx]] with visuals created by Australian cartoonist [[Peter Ledger]],[^ref-30][^ref-34] the game represents a sophisticated attempt to blend Arthurian legend with historical authenticity and pagan mythology.[^ref-2] Set in the ninth century, the narrative begins as Camelot falls under a curse of famine and drought caused by the love triangle between Arthur, Queen Gwenhyver, and Sir Launcelot.[^ref-3]
+*Conquests of Camelot: The Search for the Grail* is an adventure game released in 1990 by Sierra On-Line that places players in control of King Arthur during a quest to find the Holy Grail and rescue three missing Knights of the Round Table.[^ref-1] Designed by screenwriter [[Christy Marx]] with visuals created by Australian cartoonist [[Peter Ledger]],[^ref-30][^ref-34] the game represents a sophisticated attempt to blend Arthurian legend with historical authenticity and pagan mythology.[^ref-2] Set in the ninth century, the narrative begins as Camelot falls under a curse of famine and drought caused by the love triangle between Arthur, Queen Gwenhyver, and Sir Launcelot.[^ref-3]
 
 The game distinguished itself from other adventure titles of its era through its extensive research into medieval history, mythology, and religious traditions.[^ref-4] As Marx explained in the game's documentation: "The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information."[^ref-2] Sierra's own product description promised "a more sophisticated, complex and powerful view of Arthur than any you may have seen before."[^ref-5]
 
@@ -36,6 +36,7 @@ The game distinguished itself from other adventure titles of its era through its
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI0[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
+> **Digital Re-release:** Windows (ScummVM), GOG.com, May 4, 2017[^ref-5][^ref-6]
 > **Release Year:** 1990
 > **Series:** Conquests
 > **Protagonist:** King Arthur
@@ -104,7 +105,7 @@ Steve Wilkins of Lemon Amiga gave the game 9/10 overall in a December 2019 retro
 **Aggregate Scores:**
 - **MobyGames Critics:** 75%[^ref-11]
 - **IMDB:** 8.0/10 (33 ratings)[^ref-20]
-- **GOG.com:** 4/5 (21 user reviews)[^ref-5]
+- **GOG.com:** 4/5 (23 user reviews, checked 2026-11-11)[^ref-5]
 - **My Abandonware:** 4.47/5 (55 votes)[^ref-19]
 - **Lemon Amiga:** 8.09/10[^ref-21]
 - **OldGames.sk:** 78%[^ref-22]
@@ -117,6 +118,10 @@ Steve Wilkins of Lemon Amiga gave the game 9/10 overall in a December 2019 retro
 
 Marx brought her background in television writing to the project, having previously scripted episodes of major animated series. Her experience in creating serialized narratives translated well to the adventure game format, allowing her to weave complex storylines with historical and mythological research.[^ref-2] The collaboration with Peter Ledger, her husband, created a unified artistic vision where the writing and visual design complemented each other throughout development.[^ref-2]
 
+In an interview in *Sierra News Magazine* (Spring 1990, conducted by Bridget McKenna while "the final programming and testing was beginning on the game"), Marx named Mary Stewart's first three Arthurian books, *The Crystal Cave*, *The Hollow Hills* and *The Last Enchantment*, as "the most inspirational books, in terms of a realistic look at that time period."[^ref-35] She explained how the project came to her: "Sierra On-Line had received numerous requests to do an Arthurian game, and they thought my fantasy background would be ideal for it."[^ref-35] Her research included the fortifications at Cadbury, "which is where I've set Camelot," and she described her aim as creating "something that had the essence of that legend, but at the same time is sufficiently different to make it a new adventure."[^ref-35] Asked about other Arthurian games then reaching the market, she answered: "I've been too busy designing this game to play any of the others."[^ref-35] The same interview says Ledger "drew the background pictures and designed the animated game characters," and Marx recalled giving him a basic description of a screen and getting back an illustration "which often had elements in it that I hadn't anticipated."[^ref-35]
+
+The issue's "Spotlight on Artist" feature describes Ledger as an award-winning illustrator, designer and art director in Sydney, Australia, who came to the United States at the request of Star Wars producer Gary Kurtz to hand color the limited edition art book *Scrooge McDuck, His Life and Times*. It lists comics work on *The Hulk*, *Spiderman* and *Transformers*, and design and illustration for the films *Black Moon Rising*, *Ice Pirates* and *The Chipmunk Adventure*, and states: "For the last year, Peter has been creating pictures and animation for Sierra's Conquests of Camelot The Search for the Grail."[^ref-35]
+
 ### Production
 
 Marx did the majority of the design work, while Ledger, credited as Art Designer, created the game and package art.[^ref-1][^ref-32] The programming team was led by David Slayback, with assistance from Robert Fischbach, [[Doug Oldfield]], Jerry Shaw, and Eric Hart.[^ref-2] Additional animators on the project included Douglas Herring, Kenn Nishiuye, Andy Hoyos, and Jennifer Shontz.[^ref-31]
@@ -124,13 +129,22 @@ Marx did the majority of the design work, while Ledger, credited as Art Designer
 The game underwent significant revision between its demonstration version shown in Sierra's 1989 video catalog and the final release. Early versions featured notable differences including a cyan-colored parser input text box and different graphical elements such as swastika corner symbols on the dock screen (later removed).[^ref-23] The original working title was "King Arthur and the Search for the Grail," which changed to "Conquest of Camelot" (without the 's') before settling on the final title.[^ref-23] The original era setting was 900 AD, later changed to 800 AD in the final version.[^ref-23]
 
 **Development Credits:**[^ref-2]
+- **Executive Producer:** Ken Williams[^ref-32]
 - **Designer:** [[Christy Marx]]
 - **Art Designer:** [[Peter Ledger]] (also animator and background artist[^ref-32], and cover artist[^ref-1])
 - **Lead Programmer:** David Slayback
 - **Programmers:** Robert Fischbach, Doug Oldfield, Jerry Shaw, Eric Hart
 - **Animators:** Douglas Herring, Kenn Nishiuye, Andy Hoyos, Jennifer Shontz[^ref-31]
+- **Background Artists:** Douglas Herring, Julian Ledger, Peter Ledger[^ref-32]
+- **Camelot Combat System:** Douglas Herring[^ref-32]
 - **Composer:** [[Mark Seibert]]
+- **Sound Effects:** Mark Seibert[^ref-32]
 - **Producer:** [[Guruka Singh Khalsa]]
+- **Documentation:** Christy Marx, Marti McKenna[^ref-32]
+- **Documentation Art:** Mark DeMent[^ref-32]
+- **Development System:** Corinna Abdul, Corey Cole, Dan Foy, Pablo Ghenis, John Hartin, Robert Eric Heitman, John Rettig, Jeff Stephenson[^ref-32]
+- **Quality Assurance Team Leader:** Mindy Wynn[^ref-32]
+- **Special Thanks:** Ellen Guon Beeman[^ref-32]
 
 ### Technical Achievements
 
@@ -167,9 +181,11 @@ The development process resulted in various graphical elements being redrawn bet
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1990 (sources differ: March per Wikipedia, January per Choicest Games) | MS-DOS | Initial release; Amiga and Atari ST versions also released[^ref-1][^ref-30] |
+| 1.0 | 1990 (sources differ: March per Wikipedia, January per Choicest Games; see note below) | MS-DOS | Initial release; Amiga and Atari ST versions also released[^ref-1][^ref-30] |
 | 1.001 | 1990 | MS-DOS | Updated version[^ref-4] |
-| ScummVM Release | May 4, 2017 | Windows | Modern compatibility through Activision/GOG[^ref-6] |
+| ScummVM Release | May 4, 2017 | Windows | Modern compatibility through Activision/GOG[^ref-6]; sold on GOG.com, published there by Activision (checked 2026-11-11)[^ref-5]. MobyGames lists Windows, 2017-05-04, as a separate release of the 1990 game[^ref-11] |
+
+**Release date sources:** Wikipedia's infobox gives March 1990 and cites the "Product Shipping Schedule" in *Sierra News Magazine* (Spring 1990),[^ref-1][^ref-35] whose own note reads: "The projected ship dates above are provided for general information only, and should not be depended on."[^ref-35] Choicest Games gives January 1990,[^ref-30] and MobyGames gives 1990 for the DOS, Amiga and Atari ST versions.[^ref-32] The page therefore gives the year only.
 
 **SCI Interpreter Versions:**[^ref-4][^ref-6]
 
@@ -205,7 +221,7 @@ The player needs to score in all three categories (Skill, Wisdom, and Soul) to o
 
 ### Sales and Commercial Impact
 
-Specific sales figures are not documented in available sources. The game was eventually republished by Activision through digital distribution platforms, making it available to modern audiences through GOG.com.[^ref-5]
+Specific sales figures are not documented in available sources. The game was eventually republished by Activision through digital distribution platforms and has been sold on GOG.com since May 4, 2017 (ScummVM-based Windows release; listed at 4/5 from 23 user reviews on 2026-11-11).[^ref-5][^ref-6]
 
 ### Collections
 
@@ -284,3 +300,4 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-32]: [MobyGames – Conquests of Camelot credits, DOS (Wayback, 2022-07-28)](http://web.archive.org/web/20220728144548/https://www.mobygames.com/game/dos/conquests-of-camelot-the-search-for-the-grail/credits) – Game Designer Christy Marx; Art Designer, Animator and Background Artist Peter Ledger
 [^ref-33]: [Christy Marx – Writing credits](https://christymarx.com/writing.htm) – designer's own site: "Awarded 'Best Computer Adventure Game of 1990' by VideoGames and Computer Entertainment magazine and Excellence Award from Game Player's magazine"
 [^ref-34]: [Wikipedia – Peter Ledger](https://en.wikipedia.org/wiki/Peter_Ledger) – "an Australian cartoonist, comic book artist, commercial airbrush artist, and illustrator"
+[^ref-35]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – Christy Marx interview, "Spotlight on Artist: Peter Ledger", and the "Product Shipping Schedule" note on projected ship dates
