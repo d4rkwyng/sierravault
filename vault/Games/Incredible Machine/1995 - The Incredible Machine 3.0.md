@@ -88,7 +88,7 @@ MobyGames' combined TIM 2/3.0 entry has 57 player ratings and a MobyScore of 8.0
 
 ### Origins
 
-Jeff Tunnell, who had co-founded Dynamix in 1984[^ref-13], left in early 1992, after *The Adventures of Willy Beamish*, to form Jeff Tunnell Productions[^ref-35][^ref-36]. He was the designer and producer of the original 1992 game, although he did not program it[^ref-13]. Kevin Ryan programmed the first game[^ref-2].
+Jeff Tunnell, who had co-founded Dynamix in 1984[^ref-13], left in early 1992, after *The Adventures of Willy Beamish*, to form Jeff Tunnell Productions[^ref-35][^ref-36]. He is credited as a designer and producer of the original 1992 game, although he did not program it[^ref-13]; the design credit is disputed, since Kevin Ryan has said Tunnell "didn't do the design except for feedback as dev went along"[^ref-36]. Ryan programmed the first game[^ref-2].
 
 In November 1996, Tunnell and Christopher M. Cole were granted US patent 5,577,185, "Computerized puzzle gaming method and apparatus", filed in November 1994 and assigned to Dynamix[^ref-34]. The patent's background names The Incredible Machine "and its progeny" as an existing puzzle game, and its detailed description is written around "Toons" puzzles[^ref-34].
 
@@ -129,7 +129,7 @@ Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| The Incredible Machine | 1992 | MS-DOS | First game in the series, released December 1, 1992[^ref-36]; the series page on Wikipedia gives 1993[^ref-2][^ref-13] |
+| The Incredible Machine | 1992 | MS-DOS | First game in the series, released December 1, 1992 according to The Digital Antiquarian[^ref-36] and November 19, 1992 according to Sierra Chest[^ref-40]; the series page on Wikipedia gives 1993[^ref-2][^ref-13] |
 | The Even More Incredible Machine | 1993 | MS-DOS, Windows, Macintosh | Extended version with 160 levels[^ref-2] |
 | The Incredible Machine 2 | 1994 | MS-DOS, Windows, Macintosh | New levels, parts, interface; hotseat play[^ref-2][^ref-23] |
 | The Incredible Machine Version 3.0 | 1995 | Windows, Macintosh | Same levels as TIM 2, improved interface, CD music[^ref-2][^ref-24] |
@@ -208,3 +208,4 @@ On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the
 [^ref-37]: [PC Magazine, August 1995, Internet Archive](https://archive.org/details/PC-Mag-1995-08-01) – p. 543, Shane Mooney, "Cause-and-Effect Brain-teasers; The Incredible Machine 2": "you'll love this latest addition to The Incredible Machine series"; the review covers The Incredible Machine 2 (175 puzzles) and mentions the Incredible Toon Machine
 [^ref-38]: [GOG.com – The Incredible Machine Mega Pack (Wayback Machine capture, 13 March 2026)](https://web.archive.org/web/20260313030618/https://www.gog.com/en/game/the_incredible_machine_mega_pack) – last captured live listing of the Mega Pack product page
 [^ref-39]: [GOG.com – The Incredible Machine Mega Pack (Wayback Machine capture, 4 May 2026)](https://web.archive.org/web/20260504163616/https://www.gog.com/en/game/the_incredible_machine_mega_pack) – the product URL redirects (HTTP 302) to gog.com/games; every later capture through 24 September 2026 does the same
+[^ref-40]: [Sierra Chest – The Incredible Machine](https://www.sierrachest.com/index.php?a=games&id=228&title=incredible-machine&fld=walkthrough) – first release 1992-11-19; developer Jeff Tunnell Productions

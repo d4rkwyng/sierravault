@@ -1,7 +1,7 @@
 ---
 title: The Incredible Machine
 release_year: 1992
-developer: Dynamix
+developer: Jeff Tunnell Productions
 designer: [Kevin Ryan, Jeff Tunnell]
 publisher: Sierra On-Line
 genre: Puzzle
@@ -10,13 +10,13 @@ series: The Incredible Machine
 engine: Custom physics engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: The Incredible Machine is a physics-based puzzle game in which players build Rube Goldberg-style contraptions from a supplied set of parts to complete simple tasks.
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ The game challenges players to build elaborate contraptions using a variety of o
 Computer Gaming World's April 1993 review said that in the game "the curious, tinkering 10-year-old is re-awakened, given a digital toy box and set loose in the backyard of his or her mind"[^ref-47][^ref-1]. In 1996 the magazine named it the 62nd best game ever, calling it "fresh in concept and long on gameplay"[^ref-1].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]] / Jeff Tunnell Productions[^ref-8][^ref-13]
+> **Developer:** [[Jeff Tunnell Productions]], a [[Dynamix]] spin-off division[^ref-13][^ref-49]; Wikipedia's infobox also names only Jeff Tunnell Productions, and lists Dynamix only as the 3DO publisher[^ref-1]
 > **Designer:** [[Kevin Ryan]], [[Jeff Tunnell]][^ref-32]
 > **Publisher:** [[Sierra On-Line]]; [[Dynamix]] (3DO)[^ref-1]
 > **Engine:** Custom physics engine[^ref-17]
@@ -75,7 +75,7 @@ An Internet Archive listing uploaded in 2012, whose only game file is a Windows 
 
 The game sold over 800,000 units[^ref-1]. On release it was nearly Dynamix's best-selling game to date, beaten only by *Aces of the Pacific*, which came out days earlier and sold a few more units but cost far more to make[^ref-17]. Computer Gaming World named it the 62nd best game ever in 1996[^ref-1].
 
-MyAbandonware users rate it 4.39/5 from 706 votes[^ref-22], and IMDb users rate it 8.4/10 from 82 ratings[^ref-45]. It appears in the book *1001 Video Games You Must Play Before You Die*, edited by Tony Mott[^ref-8][^ref-2]. In September 2006 Computer Gaming World inducted it into its Hall of Fame: "we reserve a special place for TIM"[^ref-48][^ref-8].
+As of November 11, 2026, MyAbandonware users rate it 4.4/5 from 709 votes[^ref-22], and IMDb users rate it 8.4/10 from 82 ratings[^ref-45]. It appears in the book *1001 Video Games You Must Play Before You Die*, edited by Tony Mott[^ref-8][^ref-2]. In September 2006 Computer Gaming World inducted it into its Hall of Fame: "we reserve a special place for TIM"[^ref-48][^ref-8].
 
 The Digital Antiquarian notes that the game "wasn't explicitly pitched as an educational product, but, like a lot of Sierra's releases during this period, it nevertheless had something of an educational — or at least edutational — aura"[^ref-17].
 
@@ -113,6 +113,8 @@ A planned Xbox Live Arcade game was announced and later cancelled[^ref-38]. Push
 
 Contraption Maker, released on Steam on July 7, 2014, is billed as "the spiritual successor to The Incredible Machine from its original designer and programmer"[^ref-37].
 
+Jeff Tunnell's own website (last updated November 7, 2026) says: "Today we are building PlayWorlds, a web based, much expanded version of TIM." It describes PlayWorlds as a "2D physics sandbox where young makers build contraptions and invent whole worlds, with an AI companion named Fidget working alongside them", and labels its preview image "a pre, pre, pre-production image of the experience"[^ref-51]. The site presents it as a project in development, not a released product.
+
 ### Platform Ports
 
 - **3DO** – reviewed by EGM in June 1994, with "dramatically improved graphics and sound" over the PC version but no mouse support[^ref-1]
@@ -121,13 +123,13 @@ Contraption Maker, released on Steam on July 7, 2014, is billed as "the spiritua
 
 ### Collections
 
-The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contained The Even More Incredible Machine, The Incredible Machine 3, Contraptions and Even More Contraptions. It did not include this original game[^ref-38], although PCGamingWiki notes that the original's levels are available as part of The Even More Incredible Machine[^ref-30]. The pack has since been delisted: its GOG page now redirects to the store front, and a March 2026 archived copy of the page still exists[^ref-44].
+The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contained The Even More Incredible Machine, The Incredible Machine 3, Contraptions and Even More Contraptions. It did not include this original game[^ref-38], although PCGamingWiki notes that the original's levels are available as part of The Even More Incredible Machine[^ref-30]. The pack has since been delisted: as checked on November 11, 2026, its GOG address redirects to the store's games index, and a March 2026 archived copy of the page still exists[^ref-44].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- The original game is not currently sold digitally. PCGamingWiki lists only its retail release[^ref-30].
-- [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) - spiritual successor by the original designer and programmer[^ref-37]
+- As checked on November 11, 2026, the original game is not sold digitally: PCGamingWiki lists only its retail release[^ref-30], the GOG Mega Pack that once bundled its sequels now redirects to GOG's games index and never included this game[^ref-44][^ref-38], and Steam's store search returns no listing for "incredible machine".
+- [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) - spiritual successor by the original designer and programmer, the only Steam title related to the series found on that date[^ref-37]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg)
@@ -161,7 +163,7 @@ The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contai
 [^ref-9]: [Internet Archive - The Incredible Machine Manual](https://archive.org/details/the-incredible-machine-dos-manual) – Parts Bin, handles, copy protection, passwords, Free-Form Mode, gravity and air pressure
 [^ref-13]: [Sierra Chest - The Incredible Machine: Walkthrough](https://www.sierrachest.com/index.php?a=games&id=228&title=incredible-machine&fld=walkthrough) – First release 1992-11-19, developer, platforms, "a total of 87 premade puzzles", "Puzzles 1 to 21: Tutorial Puzzles"
 [^ref-17]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Founding of Jeff Tunnell Productions, Kevin Ryan's engine, December 1, 1992 release, sales against Aces of the Pacific; comments by Kevin Ryan and Alex Smith
-[^ref-22]: [MyAbandonware - The Incredible Machine](https://www.myabandonware.com/game/the-incredible-machine-1mg) – User rating 4.39/5 (706 votes)
+[^ref-22]: [MyAbandonware - The Incredible Machine](https://www.myabandonware.com/game/the-incredible-machine-1mg) – User rating 4.4/5 (709 votes), read 2026-11-11
 [^ref-30]: [PCGamingWiki - The Incredible Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Machine) – DOS minimum requirements, Mac OS (Classic) release, retail-only availability
 [^ref-32]: [MobyGames - Credits](https://www.mobygames.com/game/2473/the-incredible-machine/credits/dos/) – DOS credits: producer, designers, programmer, art, music director
 [^ref-37]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – Spiritual successor, released Jul 7, 2014
@@ -178,3 +180,4 @@ The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contai
 [^ref-48]: [Computer Gaming World Issue 266 (September 2006) – CGW Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_266/page/n66/mode/1up) – Hall of Fame entry for The Incredible Machine: "we reserve a special place for TIM"
 [^ref-49]: [InterAction Magazine Vol. V No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/page/n31/mode/1up) – Jeff Tunnell Productions as Dynamix's first spin-off; "new office only a few blocks from Dynamix's main headquarters in Eugene, Oregon"
 [^ref-50]: [Presage Software - The Even More Incredible Machine (Wayback Machine, June 1997)](https://web.archive.org/web/19970614015215/http://www.presage.com/pTEMIM.html) – "Presage developed both the Macintosh and Windows versions of The Even More Incredible Machine"
+[^ref-51]: [Jeff Tunnell - personal website](https://jefftunnell.com/) – "Last updated November 7, 2026"; "co-created The Incredible Machine with Kevin Ryan"; PlayWorlds described as "a web based, much expanded version of TIM", pre-production, with an AI companion named Fidget (read 2026-11-11)
