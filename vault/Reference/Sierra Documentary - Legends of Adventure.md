@@ -9,12 +9,12 @@ status: "Post-production (~2-hour cut, July 2026)"
 announced: 2024
 expected_release: 2026
 subjects: [Ken Williams, Roberta Williams, Sierra On-Line, Adventure Games]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Sierra Documentary — Legends of Adventure
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -48,12 +48,15 @@ This page is a vault-side tracker for the documentary's interviewees, production
 | Jun 19, 2026 | Score by Castle If (Jess Forrest); enamel-pin reveal; post-production update | Backerkit Update #46176[^ref-21][^ref-17] |
 | Jul 9, 2026 | **"a nearly completed two hour cut of the documentary in hand"**, on the crowdfund's two-year anniversary | Executive producer Will Perkins on Bluesky[^ref-18] |
 | Jul 2026 | Core post-production team screens a cut in person in Toronto | Backerkit Update #48022[^ref-22][^ref-17] |
+| Nov 2026 | "Re-animating the History of Sierra On-Line!" update: animated vignettes in the style of Sierra's AGI engine by Ernst Krogtoft (Retro365); licensed CNN archive footage; stated goal of picture lock by the end of 2026 | Backerkit Update #56463[^ref-25] |
 
 ## Subject Matter
 
 The film centers on Ken and Roberta Williams, "the unlikely team of designers and storytellers at Sierra On-Line, and the rise of the adventure game genre", with stories behind King's Quest, Space Quest, Quest for Glory, Leisure Suit Larry, Gabriel Knight, Police Quest and Phantasmagoria.[^ref-7] It also covers the Williamses' "departure from the gaming industry for more than two decades, and why they have decided to return to it".[^ref-7]
 
 Archive materials gathered for the film include personal photographs from key Sierra figures, "contemporary news reports originally broadcast on CNN", and never-seen-in-public promotional footage and b-roll.[^ref-6]
+
+A November 2026 update says the producers have licensed footage from CNN's archives, including early-1980s footage of Ken Williams and mid-1990s coverage of CUC International's acquisition of Sierra.[^ref-25] The same update announces animated scenes for moments with no surviving photos or video, to be produced as "a series of animated vignettes" in the style of Sierra's AGI (Adventure Game Interpreter) by Ernst Krogtoft, known as Retro365, a vintage-game collector and YouTube historian who owns Moose Studio in Copenhagen.[^ref-25] The team states its goal is to complete picture lock, the milestone when the visual cut is finalized, by the end of 2026.[^ref-25]
 
 ## Interviewees
 
@@ -98,3 +101,4 @@ Related vault pages:
 [^ref-22]: [Backerkit Update #48022 — "Post-Production Team Screening" (July 2026)](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/48022) — "our core post-production team gathered in person in Toronto… to screen a cut of the documentary"
 [^ref-23]: [Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game", American Journal of Play 10:1 (The Strong)](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) — "Sierra On-Line and its historic first product, the graphical adventure game Mystery House"; note 45: "Mystery House is widely regarded as the first adventure game with graphics"
 [^ref-24]: [Ars Technica — Roberta and Ken Williams open up about their first video game in 25 years (April 8, 2022)](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) — "The artist in question, Marcus Maximus Mera… eventually joining the Colossal Cave 3D team"
+[^ref-25]: [Backerkit Update #56463 — "Project Update: Re-animating the History of Sierra On-Line!" (November 2026)](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/56463) — "Ernst will produce a series of animated vignettes for the doc in the style of Sierra's classic AGI"; "our goal is to complete picture lock of the documentary by the end of this year"
