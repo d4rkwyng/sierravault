@@ -6,11 +6,11 @@ defunct: 2001
 headquarters: "Eugene, Oregon, USA"
 notable_games: ["Red Baron", "The Incredible Machine", "Tribes"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ Sierra On-Line bought the company in 1990.[^ref-11][^ref-14] MobyGames' Dynamix 
 
 Tunnell and Slye, both University of Oregon graduates, first called the company Software Entertainment Company and renamed it Dynamix in 1984.[^ref-11] Kevin Ryan and Richard Hicks, also UO graduates, then joined them as co-owner partners.[^ref-11][^ref-14] Slye was working on Stellar 7 when he met Tunnell, and Stellar 7 (1983) was released before the company was founded.[^ref-9][^ref-1][^ref-18] Sword of Kadash followed in 1985 for the Apple II and Commodore 64.[^ref-1]
 
-MobyGames says Dynamix's first contract was with Electronic Arts, which led to Arcticfox (1986), and that the game "was a hit and took home the SPA's Gold Award".[^ref-11] Sierra's own 1990 profile of the company dates the Electronic Arts deal to 1985, after Sword of Kadash, and says Arcticfox sold "over 100,000 copies".[^ref-26] Before joining Sierra, Dynamix made titles published by Penguin Software, Activision, Electronic Arts and others;[^ref-18] its 1989 releases included Project Firestart, Deathtrack and David Wolf: Secret Agent.[^ref-1]
+MobyGames says Dynamix's first contract was with Electronic Arts, which led to Arcticfox (1986), and that the game "was a hit and took home the SPA's Gold Award".[^ref-11] Sierra's own 1990 profile of the company dates the Electronic Arts deal to 1985, after Sword of Kadash, and says Arcticfox sold "over 100,000 copies".[^ref-26] Before joining Sierra, Dynamix made titles published by Penguin Software, Activision, Electronic Arts and others;[^ref-18] its 1989 releases included Project Firestart, Deathtrack and David Wolf: Secret Agent.[^ref-1] MobyGames credits Dynamix as developer of F-14 Tomcat (published by Activision; Commodore 64, February 1989) and, on DOS in 1989, Ghostbusters II.[^ref-30][^ref-31]
 
 ### Sierra Era
 
@@ -34,11 +34,11 @@ Slye recalled that after the acquisition "half the company stayed focused on sim
 
 After finishing Willy Beamish, Tunnell left to start Jeff Tunnell Productions in early 1992; the new studio made The Incredible Machine (1992).[^ref-11][^ref-21] Slye left after Aces Over Europe, "in 1993 or 1994", by his own account.[^ref-9] Tunnell returned to a leadership role at Dynamix in 1995.[^ref-11][^ref-23] The Metaltech line that began in 1994 led to two Earthsiege games and Starsiege, and the Tribes series grew out of Starsiege's development.[^ref-1]
 
-### CUC, Havas and Vivendi
+### Later Years and Closure
 
-Shortly after Tunnell's return, Ken Williams sold Sierra to CUC International in 1996.[^ref-11] Ken Williams later said Randy Dersham "was the head of our Dynamix subsidiary in Oregon" and "was still running Dynamix when we sold the company".[^ref-24] CUC merged with HFS to form Cendant in December 1997, and in November 1998 Cendant sold its consumer software division, Sierra included, to Havas; Havas was renamed Vivendi Universal Publishing in 2000.[^ref-25]
+Shortly after Tunnell's return, Ken Williams sold Sierra to CUC International in 1996.[^ref-11] Ken Williams later said Randy Dersham "was the head of our Dynamix subsidiary in Oregon" and "was still running Dynamix when we sold the company".[^ref-24] CUC merged with HFS to form Cendant in December 1997, and on 20 November 1998 Cendant announced the sale of its consumer software division, Sierra included, to Havas; the sale was completed on 12 January 1999.[^ref-34][^ref-35] Havas was renamed Vivendi Universal Publishing in 2000.[^ref-25]
 
-In September 1999 a restructuring of Sierra "resulted in the end of Dynamix as a brand and a separate business entity".[^ref-11] On August 14, 2001, Sierra closed the Dynamix studio as part of its restructuring under Vivendi Universal Interactive Publishing.[^ref-1] GameSpot reported that the closure "includes lay-offs for 97 Dynamix employees".[^ref-8] Several veterans of the studio, including Tunnell, stayed in Eugene and founded GarageGames.[^ref-1]
+In September 1999 a restructuring of Sierra "resulted in the end of Dynamix as a brand and a separate business entity".[^ref-11] On August 14, 2001, Sierra closed the Dynamix studio as part of its restructuring under Vivendi Universal Interactive Publishing.[^ref-1] GameSpot reported that the closure "includes lay-offs for 97 Dynamix employees".[^ref-8] Tunnell had already left Dynamix in early 2000, and in July 2000 Game Developer reported that Dynamix alumni Rick Overman, Tunnell and Tim Gift were starting GarageGames, a company for independent developers.[^ref-23][^ref-36] GarageGames later licensed the Tribes 2 engine from Sierra.[^ref-1]
 
 ## Notable Games
 
@@ -52,11 +52,11 @@ The Incredible Machine asks players to build Rube Goldberg-style contraptions, a
 
 ### Starsiege: Tribes (1998)
 
-Starsiege: Tribes is a team-based online shooter whose players move with jetpacks.[^ref-22] Tribes 2 followed in 2001, and GarageGames later licensed the Tribes 2 engine from Sierra.[^ref-1]
+Starsiege: Tribes is a team-based online shooter whose players move with jetpacks.[^ref-22] Tribes 2 followed in 2001.[^ref-1]
 
 ## Key People
 
-- **[[Jeff Tunnell]]**: co-founder, named "Dynamix President" in Sierra's 1990 acquisition announcement.[^ref-26] He left after Willy Beamish to run Jeff Tunnell Productions from early 1992, returned to lead Dynamix in 1995, and later co-founded GarageGames.[^ref-11][^ref-21][^ref-23][^ref-1]
+- **[[Jeff Tunnell]]**: co-founder, named "Dynamix President" in Sierra's 1990 acquisition announcement.[^ref-26] He left after Willy Beamish to run Jeff Tunnell Productions from early 1992, returned to lead Dynamix in 1995, and left in early 2000 and was starting GarageGames by July of that year.[^ref-11][^ref-21][^ref-23][^ref-36]
 - **[[Damon Slye]]**: co-founder and flight-simulation designer (Red Baron, Aces of the Pacific, Aces Over Europe). In 1990 Sierra described him as head of Research and Development at Dynamix and the developer of its 3Space technology.[^ref-26] He left after Aces Over Europe, in 1993 or 1994.[^ref-9]
 - **[[Kevin Ryan]]** and **Richard Hicks**: co-owner partners after the 1984 renaming.[^ref-11][^ref-14] Ryan built The Incredible Machine's engine.[^ref-21]
 - **[[Randy Dersham]]**: head of the studio at the time of Sierra's 1996 sale.[^ref-24]
@@ -64,25 +64,16 @@ Starsiege: Tribes is a team-based online shooter whose players move with jetpack
 
 ## Legacy
 
-Jimmy Maher writes that The Incredible Machine series became "the urtext of the entire genre of so-called 'physics simulators'", with influence visible in "such a modern casual mega-hit as the Angry Birds franchise".[^ref-21] Dynamix veterans founded GarageGames, which turned the Tribes 2 engine into the Torque engine for independent developers.[^ref-1]
+Jimmy Maher writes that The Incredible Machine series became "the urtext of the entire genre of so-called 'physics simulators'", with influence visible in "such a modern casual mega-hit as the Angry Birds franchise".[^ref-21] Dynamix alumni, Tunnell among them, started GarageGames in 2000, and GarageGames later turned the Tribes 2 engine into the Torque engine for independent developers.[^ref-36][^ref-1]
 
 ## Games
 
-Selected titles; Wikipedia and MobyGames carry the full list.[^ref-1][^ref-11]
+A selection of notable Dynamix-developed titles that have SierraVault pages, not a complete list; see [[Dynamix Catalog]] for the wider catalog, and Wikipedia and MobyGames for the full lists.[^ref-1][^ref-11]
 
-- **1985** — Sword of Kadash — Genre: Action/Adventure
-- **1986** — Arcticfox — Genre: Vehicle Simulation
-- **1987** — Skyfox II: The Cygnus Conflict — Genre: Space Combat
-- **1988** — Caveman Ugh-lympics — Genre: Sports/Comedy
-- **1988** — F-14 Tomcat (C64 1988 per Wikipedia, February 1989 per MobyGames; DOS 1990) — Genre: Flight Simulation[^ref-1][^ref-30]
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Genre: Flight Simulation
-- **1989** — Abrams Battle Tank — Genre: Vehicle Simulation
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
-- **1989** — Deathtrack — Genre: Racing/Combat
 - **1989** — [[1989 - Die Hard|Die Hard]] (published by Activision) — Genre: Action[^ref-32]
-- **1989** — Ghostbusters II (published by Activision) — Genre: Action[^ref-31]
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
-- **1989** — Project Firestart — Genre: Action/Horror
 - **1990** — [[1990 - Red Baron|Red Baron]] — Genre: Flight Simulation
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Genre: Adventure
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Genre: Tank Combat
@@ -135,3 +126,6 @@ Selected titles; Wikipedia and MobyGames carry the full list.[^ref-1][^ref-11]
 [^ref-31]: [MobyGames – Ghostbusters II](https://www.mobygames.com/game/481/ghostbusters-ii/) — read via the MobyGames API: DOS, 1989; developed by Dynamix, published by Activision
 [^ref-32]: [MobyGames – Die Hard](https://www.mobygames.com/game/5469/die-hard/) — read via the MobyGames API: DOS, 1989-12; developed by Dynamix, published by Activision
 [^ref-33]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) — read via the MobyGames API: DOS, 1992; "Developed by Dynamix, Inc.", published by Sierra On-Line
+[^ref-34]: [The Digital Antiquarian - The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — "On November 20, 1998 … it was announced that the now-former Cendant software division had become a new subsidiary of the Vivendi empire, under the name of Havas Interactive."
+[^ref-35]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR, via Wayback)](https://web.archive.org/web/20250430200024/https://www.sec.gov/Archives/edgar/data/723612/0000950136-99-000391.txt) — "on January 12, 1999, we completed the sale of our consumer software division, Cendant Software and its subsidiaries, to Paris-based Havas SA"
+[^ref-36]: [Game Developer – Garage Games (Quang Hong, July 21, 2000)](https://www.gamedeveloper.com/game-platforms/garage-games) — "Tribes 2 veteran Rick Overman is starting a new company. Along with fellow Dynamix alumni Jeff Tunnell and Tim Gift…"; "Garage Games CEO Jeff Tunnell"
