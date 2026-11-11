@@ -4,29 +4,31 @@ type: technology
 developer: "Sierra On-Line"
 years_active: "1984-1989"
 total_games: 14
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
+description: "Sierra On-Line's first animated adventure engine (1984-1989): the 160×200, 16-colour text-parser interpreter behind 14 Sierra games including King's Quest and Space Quest, its versions, and how to play it today."
+tags: [technology, agi, sierra, adventure-engine, text-parser, preservation]
 ---
 
 # Adventure Game Interpreter (AGI)
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The Adventure Game Interpreter (AGI) was the engine Sierra On-Line built for *King's Quest* (1984), with Ken Williams and Jeff Stephenson as its authors;[^ref-1] with Ken running the company, the heavy lifting of turning the proposal into a game engine "largely fell to Jeff Stephenson".[^ref-23] A year before the PCjr was announced, IBM asked Sierra "to create a game that would show off the new computer's color graphics capabilities"; eighteen months later Roberta Williams and a team of six programmers and artists had finished *King's Quest*.[^ref-2] AGI was not Sierra's first engine — the Hi-Res Adventures, beginning with *Mystery House* (1980), the first graphical adventure game, ran on Ken Williams' Adventure Development Language (ADL)[^ref-3][^ref-4] — but Sierra and IBM agreed that *King's Quest* should be animated, "a first for Sierra".[^ref-1] *Electronic Games* called *King's Quest* "a major breakthrough in action-adventure games", praising its "combination of keyboard-input and joystick-operated on-screen character movement".[^ref-5] Sierra used AGI for 14 games between 1984 and 1989 before replacing it with the [[Sierra Creative Interpreter]] (SCI).[^ref-1]
 
-Most AGI games combine a 160×200 logical resolution, 16 colours, a typed text parser and a pseudo-3D perspective that lets characters walk in front of and behind background objects. AGI games with no parser at all include [[1986 - The Black Cauldron|The Black Cauldron]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[1988 - Manhunter - New York|Manhunter: New York]] and the AGI version of [[1984 - Donald Duck's Playground|Donald Duck's Playground]], which is played with the arrow keys and an action button (see their pages).
+Most AGI games combine a 160×200 logical resolution and 16 colours,[^ref-11] a typed text parser[^ref-13] and a pseudo-3D perspective that lets characters walk in front of and behind background objects.[^ref-11] AGI games with no parser at all include [[1986 - The Black Cauldron|The Black Cauldron]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[1988 - Manhunter - New York|Manhunter: New York]] and the AGI version of [[1984 - Donald Duck's Playground|Donald Duck's Playground]], which is played with the arrow keys and an action button (see their pages).
 
 ## Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
 | Logical resolution | 160×200; each AGI pixel is two EGA pixels wide[^ref-6] |
-| Colour depth | 16 colours |
+| Colour depth | 16 colours[^ref-11] |
 | Graphics modes | CGA, Hercules and EGA in the interpreter's monitor-type variable;[^ref-7] PCjr/Tandy versions;[^ref-8] DOS Days adds MCGA and, in later AGI2 versions, VGA (unconfirmed elsewhere)[^ref-9] |
-| Interface | Text parser (typed commands) in most games |
+| Interface | Text parser (typed commands) in most games[^ref-13] |
 | Audio | PC speaker (melody only), Tandy/PCjr three voices plus noise, Apple IIgs wavetable music and sampled effects[^ref-10] |
-| Memory required | *King's Quest*: 128K;[^ref-2][^ref-5] AGI "had also been designed to run in 128 K of memory"[^ref-23] |
+| Memory required | *King's Quest*: 128K;[^ref-5] AGI "had also been designed to run in 128 K of memory"[^ref-23] |
 
 ## Graphics System
 
@@ -55,7 +57,7 @@ The sound data for the MS-DOS, Tandy and Macintosh versions has the same four pa
 ## Interface Evolution
 
 ### Text Parser
-Players typed short commands such as:
+Players typed short commands; the following are illustrative examples:
 - `LOOK TREE`
 - `GET SWORD`
 - `TALK MAN`
@@ -101,6 +103,18 @@ Several earlier games "used some parts of this engine, before it was mature enou
 ### Cross-Platform Architecture
 AGI was "a scripting engine that made it easier to port previous software to different platforms", which gave *King's Quest* a second life on the Apple II and Tandy 1000 after the PCjr was discontinued.[^ref-16] ScummVM's version list covers AGI releases for DOS (including PCjr and Tandy), Apple II and IIgs, Macintosh, Atari ST, the TRS-80 Color Computer 3 and Amiga.[^ref-8]
 
+### Interpreter Versions
+The ScummVM wiki groups Sierra's AGI interpreters into four generations. AGI0 and AGI1 do not use proper version numbering; AGI2 and AGI3 do. The wiki treats 2.936 as the last AGI2 version.[^ref-8]
+
+| Generation | Interpreter versions | Example games (game version, date where listed) |
+|------------|----------------------|-----------------------------------------------|
+| AGI0 | 0.048 to 0.101 (Apple II builds) | *Space Quest* Chapter I (Apple II, 0.073); *King's Quest III* (Apple II, 2.0A, March 13, 1988; 0.101); *King's Quest* (IBM, PCjr and Tandy builds, interpreter version not listed)[^ref-8] |
+| AGI1 | 1.10 to 1.20 (Apple II builds listed with numbers) | *The Black Cauldron* (1.1J, 1.1K, 1.1M; Apple II 1.20); *King's Quest II* (1.0W; Apple II 1.0H, 1.10)[^ref-8] |
+| AGI2 | 2.001 to 2.936 | *Donald Duck's Playground* (2.001, June 8, 1986); *King's Quest III* (2.272, November 8, 1986; 2.936, March 15, 1988); *Leisure Suit Larry* (2.440, June 1, 1987); *Police Quest* (2.903, October 23, 1987)[^ref-8] |
+| AGI3 | 3.002.086 to 3.002.149 | *King's Quest IV* (3.002.086, July 27, 1988); *The Black Cauldron* (3.002.098, November 10, 1988); *Gold Rush!* (3.002.149, December 22, 1988); *Manhunter 2: San Francisco* (3.002.149, August 17, 1989)[^ref-8] |
+
+The wiki lists Apple IIgs builds separately, with their own numbering (1.003 to 3.003).[^ref-8] DOS Days dates the drop-down menu bar to AGI2 and notes that AGI1 games had none.[^ref-9]
+
 ### Save/Restore
 AGI1 games could only save to a blank floppy disk, though a game could format one from within.[^ref-9]
 
@@ -142,11 +156,6 @@ ScummVM supports all the Sierra AGI games.[^ref-20]
 - **ScummVM** — runs every AGI game[^ref-20]
 - GOG.com's *King's Quest 1+2+3* and *Space Quest 1+2+3* are "powered by ScummVM"[^ref-21][^ref-22]
 
-### Tips for Modern Players
-- Save frequently (Sierra games are unforgiving)
-- Keep notes on parser vocabulary that works
-- Use walkthrough assistance sparingly
-
 ## See Also
 
 - [[Sierra Creative Interpreter]] - AGI's successor engine
@@ -160,7 +169,7 @@ ScummVM supports all the Sierra AGI games.[^ref-20]
 ## References
 
 [^ref-1]: [Wikipedia — Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — authors Ken Williams and Jeff Stephenson; released May 1984; "employed it in 14 of their games between 1984 and 1989"; "its final AGI-based title, Manhunter 2: San Francisco"
-[^ref-2]: [COMPUTE! #57 (February 1985) — "Inside King's Quest", Internet Archive](https://archive.org/stream/1985-02-compute-magazine/Compute_Issue_057_1985_Feb_djvu.txt) — IBM asked Sierra "to create a game that would show off the new computer's color graphics capabilities"; "Eighteen months later"; 80 scenes traced on a Calcomp tablet; "Game Adaptation Language"; "require 128K of memory"; "a larger vocabulary"
+[^ref-2]: [COMPUTE! #57 (February 1985) — "Inside King's Quest", Internet Archive](https://archive.org/stream/1985-02-compute-magazine/Compute_Issue_057_1985_Feb_djvu.txt) — IBM asked Sierra "to create a game that would show off the new computer's color graphics capabilities"; "Eighteen months later"; 80 scenes traced on a Calcomp tablet; "Game Adaptation Language"; "a larger vocabulary"
 [^ref-3]: [Wikipedia — Mystery House](https://en.wikipedia.org/wiki/Mystery_House) — "Mystery House is the first graphical adventure game"
 [^ref-4]: [ScummVM Wiki — ADL (Wayback, April 9, 2024)](http://web.archive.org/web/20240409061739/https://wiki.scummvm.org/index.php?title=ADL) — "ADL stands for "Adventure Development Language". It was created by Ken Williams"; the Hi-Res Adventure series
 [^ref-5]: [Electronic Games, December 1984 — King's Quest review, Internet Archive](https://archive.org/stream/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US_djvu.txt) — header "Sierra/IBM/128K Disk"; "a major breakthrough in action-adventure games"
