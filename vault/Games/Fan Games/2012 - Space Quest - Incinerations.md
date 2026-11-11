@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest: Incinerations is a fan-made sequel to Sierra''s
   Space Quest series, released free on January 11, 2012 by Chris Ushko under
   his Box of Mystery label.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -93,7 +93,7 @@ On Telltale Games' community forum, players praised Ushko's animation work, with
 
 **Aggregate Scores:**
 - **MobyGames:** 70% critics average (2 reviews), 4.2/5 players average (2 ratings)[^ref-5]
-- **Adventure Game Studio Page:** 100% player rating (per the Omnipedia, undated)[^ref-7]
+- **Adventure Game Studio database:** 13 ratings, listed as freeware, released 11 January 2012[^ref-25]
 - **GameFAQs:** Fair (1 rating)[^ref-6]
 
 ## Development
@@ -102,7 +102,7 @@ On Telltale Games' community forum, players praised Ushko's animation work, with
 
 The origins of Space Quest: Incinerations trace back to 1999, when it was started as a team project following the cancellation of the official Space Quest 7[^ref-7]. That project was cancelled, then revived in 2006 by its original team lead, leading to a six-year development cycle before its 2012 release[^ref-3][^ref-7]. The new version and style of the story were conceived while the team leader was working as a mall janitor[^ref-7].
 
-Ushko, known in the fan community by his handle "Datadog," had previously been involved in the creation of Space Quest: Vohaul Strikes Back[^ref-3]. With Incinerations, he aimed to create something more ambitious—a game that would "re-imagine the SQ universe in the style of a modern sci-fi action-thriller"[^ref-3]. According to the Omnipedia, that new story took shape while he spent two weeks listening to the Halo 2 soundtrack on loop, and was originally inspired by "Halo"[^ref-7].
+Ushko, known in the fan community by his handle "Datadog," had previously been involved in the creation of Space Quest: Vohaul Strikes Back[^ref-3]. With Incinerations, he aimed to make a game that would "re-imagine the SQ universe in the style of a modern sci-fi action-thriller"[^ref-3]. According to the Omnipedia, that new story took shape while he spent two weeks listening to the Halo 2 soundtrack on loop, and was originally inspired by "Halo"[^ref-7].
 
 ### Production
 
@@ -227,7 +227,7 @@ The Two Guys' crowd-funded successor, SpaceVenture, reached Steam Early Access i
 
 **Download / Preservation**
 - [Box of Mystery – Space Quest: Incinerations](https://boxofmystery.com/games/incinerations/) - Primary download location (PC, Mac, Linux)[^ref-24]
-- [Archive.org](https://archive.org/details/space-quest-incinerations) - Free download mirror
+- [Archive.org](https://archive.org/details/space-quest-incinerations) - Windows installer uploaded by a third party in December 2016; not an official mirror, as Box of Mystery states that no mirror sites are currently available[^ref-24][^ref-26]
 
 **Manuals & Extras**
 - Trophy Guide available on GameFAQs and Neoseeker[^ref-18][^ref-22]
@@ -244,6 +244,8 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 
 ## See Also
 
+- [[Space Quest Series]]
+- [[2011 - Space Quest - Vohaul Strikes Back|← Previous: Space Quest: Vohaul Strikes Back]]
 - [[2001 - King's Quest I VGA Remake]]
 - [[2001 - Space Quest - The Lost Chapter]]
 - [[2002 - King's Quest II+ - Romancing the Stones]]
@@ -282,3 +284,5 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 [^ref-21]: [TV Tropes – Space Quest: Incinerations](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIncinerations) – ending descriptions, cameo references, Datadog alias
 [^ref-22]: [Neoseeker – FAQ Index](https://www.neoseeker.com/space-quest-incinerations/faqs/) – trophy guide date
 [^ref-24]: [Box of Mystery – Space Quest: Incinerations](https://boxofmystery.com/games/incinerations/) – official download (approx. 700 MB, PC/Mac/Linux), Brian Seligman Mac/Linux ports, tools FAQ
+[^ref-25]: [Adventure Game Studio – Space Quest Incinerations](https://www.adventuregamestudio.co.uk/site/games/game/1522/) – release date 11 January 2012, freeware, 13 ratings
+[^ref-26]: [Internet Archive – Space Quest Incinerations](https://archive.org/details/space-quest-incinerations) – third-party upload of the Windows installer, added 2016-12-30
