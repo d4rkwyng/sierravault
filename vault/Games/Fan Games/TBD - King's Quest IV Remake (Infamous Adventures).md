@@ -10,13 +10,13 @@ series: King's Quest
 engine: Unconfirmed
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'King''s Quest IV Remake is an unreleased fan remake of Sierra''s 1988 King''s Quest IV: The Perils of Rosella attributed to Infamous Adventures. Its only recent progress report is a patron-only January 2026 Patreon post, and no release date has been announced.'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -100,7 +100,7 @@ The game's real-time clock meant certain events could only occur during specific
 
 ### Contemporary Reviews
 
-As an unreleased project, the Infamous Adventures King's Quest IV remake has no reviews. The original 1988 game sold 100,000 copies in its first two weeks and 800,000 within a year.[^ref-12] Reviews were generally positive. Critics praised the advances in graphics and animation over earlier adventure games, but were mixed on the gameplay, with some finding puzzles obtuse or tedious.[^ref-12] The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards.[^ref-12] Rosella has been considered one of the first "major female protagonists" in a video game.[^ref-12]
+As an unreleased project, the Infamous Adventures King's Quest IV remake has no reviews. The original 1988 game sold 100,000 copies in its first two weeks.[^ref-12] Reviews were generally positive. Critics praised the advances in graphics and animation over earlier adventure games, but were mixed on the gameplay, with some finding puzzles obtuse or tedious.[^ref-12] The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards.[^ref-12] Rosella has been considered one of the first "major female protagonists" in a video game.[^ref-12]
 
 ### Modern Assessment
 

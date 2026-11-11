@@ -6,11 +6,11 @@ defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 notable_games: ["King's Quest", "Space Quest", "Leisure Suit Larry"]
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,13 +36,13 @@ Ken Williams asked Al Lowe to write a modern version of Chuck Benton's 1981 Soft
 
 ### Technological Innovation and Expansion
 
-In 1988 the Sierra Creative Interpreter (SCI) replaced AGI, starting with King's Quest IV. That game was released under both engines.[^ref-9] According to Gale, Sierra developed SCI "to allow artists and musicians to contribute without being mired in programming details."[^ref-7] Sierra went public in October 1988.[^ref-50] King's Quest V (1990) was the first Sierra game to sell more than 500,000 copies.[^ref-9]
+In 1988 the Sierra Creative Interpreter (SCI) replaced AGI, starting with King's Quest IV. That game was released under both engines.[^ref-9] According to Gale, Sierra developed SCI "to allow artists and musicians to contribute without being mired in programming details."[^ref-7] Sierra went public in October 1988.[^ref-50] Wikipedia's Sierra Entertainment article calls King's Quest V (1990) Sierra's first game to sell more than 500,000 copies, but gives no source for the figure; the Software Publishers Association certified it at over 250,000 units by early 1993.[^ref-9]
 
 Sierra grew by acquisition. On March 27, 1990, Sierra announced its intent to acquire Dynamix of Eugene, Oregon,[^ref-50] a flight-simulation specialist founded in 1984 by Jeff Tunnell and Damon Slye.[^ref-7] In 1992 it added the educational developer Bright Star Technology.[^ref-7] In August 1993 Sierra began moving its corporate headquarters to Bellevue, near Seattle; the move ran into 1994, and game development stayed in the Oakhurst area.[^ref-58][^ref-59][^ref-60] Gale says Ken Williams found it hard to convince senior executives to move to rural Oakhurst. The same year Sierra bought the Paris-based Coktel Vision.[^ref-7] In 1995 it bought Impressions Software, Papyrus Design Group and SubLogic, along with several home-productivity developers.[^ref-7]
 
 ### Multimedia and the CD-ROM Era
 
-Gale says CD-ROM titles made up 36 percent of Sierra's game sales in 1994 and 65 percent in 1995.[^ref-7] Roberta Williams designed Phantasmagoria (1995), a live-action horror adventure released on seven CD-ROMs.[^ref-7][^ref-42] Wikipedia says more than 200 people worked on it. It was budgeted at $800,000 but cost $4.5 million.[^ref-42] CompUSA declined to stock it.[^ref-42][^ref-7] Even so, it ultimately sold more than one million copies, Sierra's first game to reach that mark.[^ref-42] Sierra's own 10-K for the fiscal year ending March 31, 1996, reported "more than 600,000 copies" sold by then.[^ref-61]
+Gale says CD-ROM titles made up 36 percent of Sierra's game sales in 1994 and 65 percent in 1995.[^ref-7] Roberta Williams designed Phantasmagoria (1995), a live-action horror adventure released on seven CD-ROMs.[^ref-7][^ref-42] Wikipedia says more than 200 people worked on it. It was budgeted at $800,000 but cost $4.5 million.[^ref-42] CompUSA declined to stock it.[^ref-42][^ref-7] Wikipedia says it ultimately sold more than one million copies, Sierra's first to reach that mark,[^ref-42] but the only contemporary figure is Sierra's own: its 10-K for the fiscal year ending March 31, 1996, reported "more than 600,000 copies" sold by then.[^ref-61]
 
 ### Corporate Changes and Decline
 
@@ -107,7 +107,7 @@ Mark Crowe and Scott Murphy created Space Quest, six comic science-fiction adven
 
 ### Phantasmagoria (1995)
 
-Roberta Williams' live-action horror adventure was "by far the largest project ever undertaken by Sierra."[^ref-9] Retailers declined to stock it, and religious organizations and politicians condemned it. It still ultimately became Sierra's first game to sell more than a million copies.[^ref-42]
+Roberta Williams' live-action horror adventure was "by far the largest project ever undertaken by Sierra."[^ref-9] Retailers declined to stock it, and religious organizations and politicians condemned it. Wikipedia credits it as Sierra's first game to sell more than a million copies,[^ref-42] a figure not borne out by Sierra's own 10-K (more than 600,000 by March 1996).
 
 ## Key People
 

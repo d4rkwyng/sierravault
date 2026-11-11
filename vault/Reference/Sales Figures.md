@@ -1,18 +1,18 @@
 ---
 title: "Sales Figures"
 type: reference
-last_updated: "2026-10-26"
-description: "Known commercial sales data for Sierra games, with sources. Indexed by series and by sales tier."
+last_updated: "2026-11-11"
+description: "Known commercial sales data for Sierra games, with sources. Indexed by series, with development budgets and corporate revenue."
 tags: [reference, sales, commercial, finance]
 ---
 
 # Sales Figures
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-This page collects commercial sales figures for Sierra games that can be traced to a source we have checked. Computer-game sales data is fragmentary: most pre-2000 figures were self-reported by Sierra, and most later figures come from retail trackers such as PC Data or from developer disclosures. Every figure below carries its source and the date it applies to. Where a number appears in a magazine scan, its digits were checked against the page image.
+This page collects commercial sales figures for Sierra games that can be traced to a source we have checked. Computer-game sales data is fragmentary: the figures below come mostly from Sierra's own statements (its annual report and newsletters), from Software Publishers Association award notices, and from later press reports that cite retail trackers such as PC Data or developer disclosures. Every figure below carries its source and the date it applies to. Where a number appears in a magazine scan, its digits were checked against the page image.
 
 For the corporate-financial context (Sierra On-Line's IPO, acquisition prices), see [[Corporate Lineage]]. For year-by-year release context, see [[Timeline 1980-1999]].
 
@@ -90,7 +90,7 @@ Per-title Sierra revenue from later parent-company filings is not collected on t
 
 ## Sales-data caveats
 
-- **Self-reported Sierra figures** — Newsletter and magazine figures were Sierra's own marketing claims. Sierra's 10-K filings, by contrast, were audited, and the fiscal 1996 10-K does give series and title unit counts.[^ref-cuc-acq]
+- **Self-reported Sierra figures** — Newsletter and magazine figures were Sierra's own marketing claims. Sierra's 10-K financial statements were audited, but the series and title unit counts in the fiscal 1996 10-K appear in its Item 1 business description, which is not part of the audited statements and gives no as-of date; they are the company's own statements in a legal filing.[^ref-cuc-acq]
 - **SPA certifications** — The Software Publishers Association's Platinum award meant an independent audit had confirmed 250,000 units sold; CGW wrote in 1993 that "Most excellent titles only sell about 100,000 units and even an above average title may only sell about 50,000 units."[^ref-cgw103]
 - **Modern digital re-release sales (GOG, Steam)** — no sourced figures are listed on this page.
 - **Hoyle franchise sales** are particularly opaque. Encore Software took over sales, distribution and marketing of the Hoyle products from December 23, 2004.[^ref-encore]

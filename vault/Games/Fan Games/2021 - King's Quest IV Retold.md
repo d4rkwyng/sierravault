@@ -10,7 +10,7 @@ series: King's Quest (Fan Remake)
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-11-05'
+last_updated: '2026-11-11'
 description: 'King''s Quest IV Retold is a fan-made point-and-click remake of Sierra
   On-Line''s 1988 adventure game King''s Quest IV: The Perils of Rosella, made by DrSlash
   in Adventure Game Studio and released in 2021.'
@@ -18,7 +18,7 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -173,7 +173,7 @@ The 1988 original was one of the first games to support sound cards, with compos
 
 ### Sales and Commercial Impact
 
-The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks, and Wikipedia notes that another source reported 800,000 copies worldwide within a year[^ref-6]. The Software Publishers Association certified it as having sold over 250,000 units in early 1993[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
+The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks. The Software Publishers Association certified it as having sold over 250,000 units in early 1993[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
 
 The Retold fan remake, while not commercially released, demonstrated continued interest in the King's Quest franchise, with more than 9,600 downloads of the original Retold version on the AGS site alone as of October 2026[^ref-2].
 
