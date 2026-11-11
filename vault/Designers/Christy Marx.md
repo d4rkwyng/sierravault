@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Conquests of Camelot", "Conquests of the Longbow"]
 companies: ["Sierra On-Line", "Marvel Comics", "Sunbow Productions", "Zynga"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Christy Marx
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -23,17 +23,17 @@ In 2000 Marx received the Writers Guild of America's Animation Writers Caucus An
 
 Christy Marx grew up in Danville, Illinois,[^ref-9][^ref-10] where she developed an early obsession with comic books despite her parents' disapproval influenced by Fredric Wertham's Seduction of the Innocent.[^ref-2] She would "pry the screen off of my bedroom window and tuck them in through the window," she told Polygon.[^ref-2] She studied art at the University of Illinois, then moved to California.[^ref-10] After dropping out of college she spent years in Los Angeles as a special risk underwriter, reviewing the cases of very sick insurance applicants, which Polygon's Wes Fenlon called a career "as diametrically opposed to children's entertainment as possible."[^ref-2]
 
-Determined to change her life, Marx began taking night classes on screenplay writing at the Sherwood Oaks Experimental College and networking with industry professionals.[^ref-2] Her breakthrough came when she met Roy Thomas, then-editor-in-chief of Marvel Comics, and successfully pitched a story for Savage Sword of Conan.[^ref-2] This led to her own comic series, The Sisterhood of Steel, and work on other Marvel properties including Red Sonja.[^ref-11]
+Determined to change her life, Marx began taking night classes on screenplay writing at the Sherwood Oaks Experimental College and networking with industry professionals.[^ref-2] Her breakthrough came when she met Roy Thomas, then-editor-in-chief of Marvel Comics, and successfully pitched a story for Savage Sword of Conan.[^ref-2] This led to her own comic series, The Sisterhood of Steel, and work on other Marvel properties including Red Sonja.[^ref-11] Her credits page lists *Sisterhood of Steel* in two forms: an original 8-issue series published by Epic Comics, and a 72-page graphic novel "illustrated by Peter Ledger, co-published by Moonfire Prods. and Eclipse Comics."[^ref-11] Marx's biography of Ledger says that together they "produced a number of comic book stories, such as Carlos McLlyr, and The Sisterhood of Steel graphic novel."[^ref-26]
 
 Through the Comic Art Professional Society in Los Angeles, Marx transitioned into animation writing.[^ref-2] She landed her first animation job writing for DePatie-Freleng's Fantastic Four series, leveraging her Marvel experience.[^ref-12] This opened doors to major projects including G.I. Joe: A Real American Hero, Spider-Man and His Amazing Friends, and Jem and the Holograms, for which she was head writer and developer.[^ref-1][^ref-2] Hasbro supplied the basics of the doll line; Marx developed the characters, relationships, the music company structure, the foster girls and the villain Eric Raymond, whom she named after her brother.[^ref-2]
 
 ### Sierra Years
 
-Marx's path to Sierra On-Line came through an unexpected phone call late in 1988, when a headhunter looking for artists called about her husband, Australian artist [[Peter Ledger]].[^ref-5] Marx asked "whether Sierra would be interested in a writer/artist team," and the couple drove to Oakhurst, California, met Ken and Roberta Williams, and "made a deal on the spot."[^ref-5]
+Marx's path to Sierra On-Line came through an unexpected phone call late in 1988, when a headhunter looking for artists called about her husband, Australian artist [[Peter Ledger]].[^ref-5][^ref-27] Marx asked "whether Sierra would be interested in a writer/artist team," and the couple drove to Oakhurst, California, met Ken and Roberta Williams, and "made a deal on the spot."[^ref-5]
 
 Marx spent her first months at Sierra playing every company game and interviewing programmers, artists, and designers to understand the technology's capabilities and limitations.[^ref-5] She put it all together "into what would now be called a game design document … and they didn't know what hit them."[^ref-2] In the initial interview she had asked Ken and Roberta whether she and Ledger would have any ownership of an original IP; they wanted full ownership, so Marx declined to create one, and they proposed a King Arthur game instead.[^ref-5]
 
-Conquests of Camelot: The Search for the Grail (1990) became Marx's debut game, featuring extensive research into Arthurian legends, real locations like the Chalice Well and Glastonbury Tor,[^ref-5] and goddess mythology woven into the story.[^ref-2][^ref-15] Ledger could use only sixteen colours, which Marx said "drove Peter crazy."[^ref-5] VideoGames & Computer Entertainment's February 1991 awards issue named it the winner of its Best Computer Adventure category for 1990, crediting "a hot new design team, Kristy [sic] Marx and Peter Ledger."[^ref-21][^ref-11]
+Conquests of Camelot: The Search for the Grail (1990) became Marx's debut game, featuring extensive research into Arthurian legends, real locations like the Chalice Well and Glastonbury Tor,[^ref-5] and goddess mythology woven into the story.[^ref-2][^ref-15] Ledger could use only sixteen colours, which Marx said "drove Peter crazy."[^ref-5] VideoGames & Computer Entertainment's February 1991 awards issue named it the winner of its Best Computer Adventure category for 1990, crediting "a hot new design team, Kristy [sic] Marx and Peter Ledger."[^ref-21][^ref-11] Ledger did not stay for the sequel: Marx's own biography says of the Sierra work, "He hated it and quit after the first game."[^ref-10] *Longbow*'s credited artist is Kenn Nishiuye.[^ref-13]
 
 For the sequel, Marx originally planned a game based on Greek mythology focused on the goddesses, but when three or four Robin Hood film projects were announced, Roberta Williams "began dropping hints" that Sierra would like a Robin Hood game.[^ref-5] Marx researched Robin Hood's evolution from trickster ballads to the legendary figure with Maid Marian and King Richard, incorporating real locations like Nottingham's ancient pub and the sandstone tunnels beneath the castle.[^ref-5] Conquests of the Longbow: The Legend of Robin Hood (1991) used VGA graphics and Sierra's icon-driven interface, and Marx noted that this time they "had a full 256 colors."[^ref-13][^ref-5] Marx's own credits page says it was "Voted Best Adventure Game of 1992 by Computer Game Review and Enchanted Realms (for Amiga version)"; her Wikipedia article gives the year as 1991.[^ref-11][^ref-1]
 
@@ -47,6 +47,8 @@ From July 2007 to December 2009 Marx was head writer and lead story designer on 
 
 From December 2010 to 2017, by her own credits page, Marx worked at Zynga as Principal Game Designer and Narrative Director on titles including Hidden Chronicles, CastleVille: Legends and FarmVille: Tropic Escape (Polygon dates her arrival to late 2011).[^ref-11][^ref-2] A 2015 Game Developer article describes CastleVille Legends as her first mobile project.[^ref-7] She also contributed story editing and additional writing to Lord of the Rings: War in the North.[^ref-11] She has written DC comics including Sword of Sorcery and Birds of Prey, and the guide *Writing for Animation, Comics, and Games*, now in its second edition.[^ref-1][^ref-2][^ref-14]
 
+In November 2026 Marx returned to Conan with "Child of Cimmeria" in *The Savage Sword of Conan* #17, a sequel to her first comic story, "Child of Sorcery" (*Savage Sword of Conan* #29, 1979). She wrote on her Substack that it "picks up the daughter's story" of the original, that Geof Isherwood illustrated it, and that Heroic Signatures, "the company that currently holds the rights to Conan," gave her the opportunity.[^ref-22] Titan Comics' issue went on sale on November 11, 2026 (64 pages, black and white, $6.99), according to The Pullbox's preview.[^ref-23]
+
 ## Notable Works
 
 ### Conquests of Camelot: The Search for the Grail (1990)
@@ -59,7 +61,7 @@ For [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of th
 
 ### Jem and the Holograms (1985-1988)
 
-Jem and the Holograms is not a game, but Marx has called it her "first job doing full-on realized development, where I basically got to do everything."[^ref-2] She developed all the characters, relationships, and story structure from basic doll designs, writing 22 of the 65 episodes and serving as story editor.[^ref-2] Polygon calls the series a cult favorite, with fans still holding an annual convention, JemCon.[^ref-2]
+Jem and the Holograms is not a game, but Marx has called it her "first job doing full-on realized development, where I basically got to do everything."[^ref-2] She developed all the characters, relationships, and story structure from basic doll designs, writing 22 of the 65 episodes and serving as story editor.[^ref-2] Polygon calls the series a cult favorite, with fans still holding an annual convention, JemCon.[^ref-2] On June 8, 2026, Deadline reported that a live-action *Jem and the Holograms* series is in development at Amazon MGM Studios, produced by Lisa Joy and Jonathan Nolan's Kilter Films with Hasbro Entertainment, and noted that the original series was "created by Christy Marx."[^ref-25] Replying to readers on her Substack the next day, Marx wrote: "No, I’m not currently involved in any way."[^ref-24]
 
 ## Design Philosophy
 
@@ -119,3 +121,9 @@ She writes the Substack publication "Remarks by Marx."[^ref-17] MobyGames descri
 [^ref-19]: [COMPUTE! #140 (May 1992), p. 86 - Conquests of the Longbow review](https://www.atarimagazines.com/compute/issue140/86_Conquests_of_the_Lon.php) — "an authentic ancient English game called Nine Men's Morris"; arcade level can be set to 0
 [^ref-20]: [Writers Guild of America West - Previous AWC Animation Writing Award recipients (Wayback 2018)](https://web.archive.org/web/20180115001925/http://awards.wga.org/wga-awards/previous-awc-animation) — "2000 - Christy Marx  1999 - Paul Dini  1998 - Gordon Bressack"
 [^ref-21]: [Video Games & Computer Entertainment, February 1991, p. 96 (Internet Archive scan)](https://archive.org/details/video-games-computer-entertainment-february-1991/page/n95/mode/1up) — 1990 awards, "Best Computer Adventure": Conquest of Camelot is the category winner, ahead of honorable mentions Ultima VI, Circuit's Edge and Secret of the Silver Blades
+[^ref-22]: [Remarks by Marx - "CHILD OF CIMMERIA"](https://christymarx.substack.com/p/child-of-cimmeria) – Marx, 7 Nov 2026: sequel to "Child of Sorcery" (SSOC #29), art by Geof Isherwood, Heroic Signatures
+[^ref-23]: [The Pullbox - Previews: The Savage Sword of Conan #17](https://www.thepullbox.com/2026/10/conan17/) – Titan Comics, on sale November 11, 2026; 64 pages, $6.99; Marx and Isherwood
+[^ref-24]: [Remarks by Marx - "JEM live-action series"](https://christymarx.substack.com/p/jem-live-action-series) – Marx, 9 Jun 2026: "No, I’m not currently involved in any way."
+[^ref-25]: [Deadline - 'Jem And The Holograms' Live-Action Series In Works At Amazon With Kilter Films & Hasbro](https://deadline.com/2026/06/jem-and-the-holograms-live-action-series-amazon-kilter-films-1236942573/) – Nellie Andreeva, 8 Jun 2026; Amazon MGM Studios, Kilter Films, Hasbro; series "created by Christy Marx"
+[^ref-26]: [Christy Marx - Peter Ledger Biography (Wayback 2016-09-03)](https://web.archive.org/web/20160903115126/http://www.christymarx.com/ledger/plbio.htm) – written by Marx; Sisterhood of Steel graphic novel, Camelot, Sierra move
+[^ref-27]: [The Adventurers' Guild - Conquests of Pop Culture: An Interview with Christy Marx](https://advgamer.blogspot.com/2016/05/conquests-of-pop-culture-interview-with.html) – 8 May 2016: "my husband at the time, Australian artist Peter Ledger"; headhunter call
