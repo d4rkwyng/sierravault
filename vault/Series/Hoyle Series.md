@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 2016
 total_games: 50
 genre: "Card Games, Casino, Board Games, Puzzle"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Hoyle Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -101,11 +101,15 @@ Sierra reported in its Fall 1990 newsletter that Volume 1 had sold more than 250
 
 ## Commercial History
 
-After the 1996 sale of [[Sierra On-Line]] (see [[Corporate Lineage]]) the series continued under the Sierra label, with yearly releases.[^ref-1] On December 21, 2004, VU Games announced the assignment of the Hoyle games licence to [[Encore Software]], effective December 23, 2004.[^ref-18] Encore (MobyGames: "Encore, Inc.", also known as Encore Software, Inc.)[^ref-11] published Hoyle titles from 2005; the *Hoyle Casino* line continued through *Hoyle Official Casino Games Collection* in 2016, which Steam lists under Encore with an October 14, 2016 release.[^ref-17][^ref-13]
+After the 1996 sale of [[Sierra On-Line]] (see [[Corporate Lineage]]) the series continued under the Sierra label, with yearly releases.[^ref-1] On December 21, 2004, VU Games announced the assignment of the Hoyle games licence to [[Encore Software]], effective December 23, 2004.[^ref-18] Encore's own announcement the same day described an exclusive five-year agreement with The United States Playing Card Company, a Jarden Corporation subsidiary, giving Encore worldwide publishing rights to the Hoyle brand for PC within most retail and electronic download channels.[^ref-28] Encore (MobyGames: "Encore, Inc.", also known as Encore Software, Inc.)[^ref-11] published Hoyle titles from 2005; the *Hoyle Casino* line continued through *Hoyle Official Casino Games Collection* in 2016, which Steam lists under Encore with an October 14, 2016 release.[^ref-17][^ref-13]
 
 ## Critical Reception
 
 *Computer Gaming World*'s January 1990 review of Volume 1 (issue #67, p. 48, Michael S. Lasky) was mixed to negative. It enjoyed the Sierra-character table talk but found the game slow ("incredible plodding speed"), noted that its Cribbage scoring departed from Hoyle's rules, and said the other games "are really children's games and offer no great excitement". It recommended Software Toolworks' Cribbage King/Gin King to serious Cribbage and Gin players.[^ref-7]
+
+## Playing Today
+
+*Hoyle Official Card Games* (Webfoot Games, published by Viva Media) is listed on Steam with a release date of November 18, 2015; its store page describes a collection of "over 70 new and classic card games".[^ref-29] The 2016 *Hoyle Official Casino Games* Steam listing is cited in the Commercial History section above.[^ref-13]
 
 ## Related Sierra Online Games (not Hoyle-branded)
 
@@ -152,3 +156,5 @@ For more on the founding era, see the [[Warren Schwader]] designer page; for the
 [^ref-25]: [GameOver — Hoyle Casino 99 review (Wayback Machine)](http://web.archive.org/web/20010419015509/http://www.game-over.net:80/review/october/hoyle99/index.html) — "Hoyle Casino 99 (c) Sierra", reviewed October 1998
 [^ref-26]: [IGN — Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) — "Initial Release: Sep 19, 2016"
 [^ref-27]: [Hoyle Gaming (Encore) — Hoyle Swashbucklin' Slots (Wayback, July 5, 2010)](https://web.archive.org/web/20100705114633/http://www.hoylegaming.com:80/p-34-hoyle-swashbucklin-slots.aspx) — store page selling the game, "© 2010 Encore Software, Inc."
+[^ref-28]: [Encore (Navarre) press release — exclusive Hoyle licensing agreement with The United States Playing Card Company (Wayback, April 28, 2005)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) — "exclusive licensing agreement with The United States Playing Card Company"; "this five-year agreement"; worldwide publishing rights to the Hoyle brand for PC
+[^ref-29]: [Steam — Hoyle Official Card Games](https://store.steampowered.com/app/397420/) — Developer Webfoot Games, publisher Viva Media; released November 18, 2015; "Over 70 new and classic card games to learn, practice and master!"
