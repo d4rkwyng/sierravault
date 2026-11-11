@@ -11,22 +11,23 @@ series: Shadow of Yserbius
 engine: Shadow of Yserbius game engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Russell Lieblich]
-description: Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra
-  Productions, published by Sierra On-Line and released in 1993. Originally designed as an online multiplayer game
-  for...
+description: Fates of Twinion is a 1993 fantasy RPG dungeon crawler developed by Ybarra
+  Productions and published by Sierra On-Line. Built on the Shadow of Yserbius engine,
+  it was a multiplayer game on The Sierra Network (later the ImagiNation Network), also sold as a solo boxed-set companion
+  to Yserbius.
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra Productions, published by [[Sierra On-Line]] and released in 1993.[^ref-18][^ref-4] Originally designed as an online multiplayer game for The Sierra Network (later renamed ImagiNation Network), the game served as a successor to [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]].[^ref-2] MobyGames describes the online original as "the graphical multi-user dungeon game on The Sierra Network".[^ref-18]
 
-The CRPG Addict noted that Sierra "intended it not for authentic offline play but to whet the player's appetite for an online account".[^ref-4] Alongside the online game, Sierra sold "the solo version of the sequel/add-on" for offline play,[^ref-18] while the network itself was sold to AOL in 1996 and discontinued by 1998.[^ref-24][^ref-25] With the demise of INN the online games faded, though the HOTUD review hosted on MyAbandonware judges that, stripped of their multiplayer features, they remain decent RPGs.[^ref-14] Computer Gaming World recognized the game as a finalist for Online Game of the Year in June 1994.[^ref-2]
+The CRPG Addict noted that Sierra "intended it not for authentic offline play but to whet the player's appetite for an online account".[^ref-4] Alongside the online game, Sierra sold "the solo version of the sequel/add-on" for offline play,[^ref-18] while the network itself was sold to AOL in 1996 and discontinued by 1998.[^ref-24][^ref-25] With the demise of INN the online games faded, though the HOTUD review hosted on MyAbandonware judges that, stripped of their multiplayer features, they remain decent RPGs.[^ref-14] Sierra's Summer 1993 *InterAction* magazine told players that "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure in the tradition of Yserbius".[^ref-30] In its June 1994 awards issue, *Computer Gaming World* listed "Shadow of Yserbius: Fates of Twinion" among the finalists for On-Line Game of the Year, crediting the Imagination Network with "a new version of Shadow of Yserbius: Fates of Twinion, their extremely successful on-line fantasy role-playing game".[^ref-31]
 
 Reusing the original Yserbius engine, Sierra reportedly "tried to get the most story and diversity out of the engine and produced a somewhat more complex game, with a wider range of puzzles, traps, and turns".[^ref-18]
 
@@ -98,7 +99,7 @@ The game has complex dungeon exploration with hidden doors, teleport squares, an
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World (February 1994) | No score | Boxed-set review of *Yserbius* and *Twinion* by Bernie Yee[^ref-27] |
-| Computer Gaming World | Finalist | Online Game of the Year, June 1994[^ref-2] |
+| Computer Gaming World (June 1994) | Finalist | On-Line Game of the Year, listed as "Shadow of Yserbius: Fates of Twinion"[^ref-31] |
 | MobyGames Critics | 61% | Based on one critic review[^ref-18] |
 | MyAbandonware | 4.19/5 | Reviewed by HOTUD[^ref-14] |
 
@@ -170,7 +171,7 @@ The game has found new life through preservation efforts and modern remakes. Zan
 
 GOG wishlist requests demonstrate ongoing interest, with users sharing memories of this pioneering online experience.[^ref-23] The game remains an important historical artifact of Sierra's experimental period in online gaming.
 
-## Easter Eggs and Trivia
+### Easter Eggs and Trivia
 
 - Game allows players to play as gremlins in character creation[^ref-7]
 - Skill and attribute points have caps (e.g., Agility max 8, skills max 12)[^ref-21]
@@ -178,13 +179,11 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - Some doors open only for characters of a given alignment, Harmony or Chaos[^ref-7][^ref-11]
 - Guardian companions can be obtained as quest rewards[^ref-7]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist: The Fates of Twinion](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Community Dreamlist entry[^ref-23]
 - Not currently available for commercial purchase
-
-## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/fates-of-twinion-22j)[^ref-14]
@@ -227,3 +226,5 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-27]: [Computer Gaming World #115 (February 1994), pp. 144–146 – "Role-Playing Reversal: Yserbius and Fates of Twinion Go From On-Line Games To Boxed Set"](https://archive.org/details/Computer_Gaming_World_Issue_115/page/n143) - Bernie Yee review: "a hollow shell of its vibrant on-line self"; amusement-park quote; "first-person view"; "one round of combat"
 [^ref-28]: [InterAction Magazine (Fall 1992), p. 63 – "A True Multi-Player FRP! Explore MedievaLand"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n68) - "MedievaLand is the newest area on TSN"; "The Shadow of Yserbius, the first game in MedievaLand"
 [^ref-29]: [Sierra Help - ImagiNation Network Revival Project](https://sierrahelp.com/Misc/INNRevival.html) - "This project is no longer active"; points to the INN Barn project
+[^ref-30]: [InterAction Magazine (Summer 1993) – Yserbius boxed-set advertisement](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_2_Summer_1993_1993_Sierra_On-Line_US) - "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure in the tradition of Yserbius" (read in the archive.org OCR text)
+[^ref-31]: [Computer Gaming World #119 (June 1994), On-Line Game of the Year finalists](https://archive.org/details/Computer_Gaming_World_Issue_119) - "The Imagination Network brought out a new version of Shadow of Yserbius: Fates of Twinion, their extremely successful on-line fantasy role-playing game" (finalists paragraph; read in the archive.org OCR text)
