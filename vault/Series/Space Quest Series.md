@@ -7,16 +7,16 @@ first_release: 1986
 last_release: 1995
 total_games: 7
 genre: "Adventure, Comedy"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Space Quest Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-The Space Quest series is Sierra On-Line's science fiction comedy adventure franchise, created by [[Mark Crowe]] and [[Scott Murphy]], who called themselves the "Two Guys from Andromeda."[^ref-1][^ref-2] It comprises six games released between 1986 and 1995, plus a 1991 VGA remake of the first, and follows Roger Wilco, a hapless janitor who repeatedly saves the galaxy, often by accident.[^ref-2][^ref-17] The two made the first four games together; Crowe then moved to Sierra's Dynamix studio to make *Space Quest V*, and Murphy stayed at Sierra to make *Space Quest 6* with [[Josh Mandel]].[^ref-4]
+The Space Quest series is Sierra On-Line's science fiction comedy adventure franchise, created by [[Mark Crowe]] and [[Scott Murphy]], who called themselves the "Two Guys from Andromeda."[^ref-1][^ref-2] It comprises seven releases between 1986 and 1995: six games, plus a 1991 VGA remake of the first. It follows Roger Wilco, a hapless janitor who repeatedly saves the galaxy, often by accident.[^ref-2][^ref-17] The two made the first four games together; Crowe then moved to Sierra's Dynamix studio to make *Space Quest V*, and Murphy stayed at Sierra to make *Space Quest 6* with [[Josh Mandel]].[^ref-4]
 
 The games parody science fiction properties such as *Star Wars* and *Star Trek*, as well as pop-culture targets from McDonald's to Microsoft, and their humor is built on puns and farcical storylines.[^ref-2] They are also known for the many ways Roger can die.[^ref-3][^ref-15]
 
@@ -81,7 +81,7 @@ The games give Roger many ways to die. In *Space Quest II*, "there are many ways
 ## Cancelled Projects
 
 ### Space Quest VII
-Sierra started a seventh Space Quest in early 1997, with Scott Murphy as director. An August 1997 collection carried a promo announcing a "late 1998" release, but development was paused before the end of the year in favour of other projects, and it formally ended with Sierra's 1999 layoffs.[^ref-2][^ref-6] When the project was shelved, Sierra told fans that many of the team would move to its *Babylon 5* games.[^ref-6] A separate 3D action-adventure reboot by Escape Factory, rumoured in 2002 and aimed at consoles, was also cancelled.[^ref-2][^ref-1] See [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII]].
+Sierra started a seventh Space Quest in early 1997, with Scott Murphy as director. An August 1997 collection carried a promo announcing a "late 1998" release, but development was paused before the end of the year in favour of other projects, and it formally ended with Sierra's 1999 layoffs.[^ref-2][^ref-6] When the project was shelved, the team's e-mail to fans said they would "move to other projects at Sierra On-Line": many to the *Babylon 5* space combat game, due in Holiday 1998, and others to the *Babylon 5* adventure game, due in 1999.[^ref-6] A separate 3D action-adventure reboot by Escape Factory, rumoured in 2002 and aimed at consoles, was also cancelled.[^ref-2][^ref-1] See [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII]].
 
 ### SpaceVenture
 Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successor, *SpaceVenture*. The campaign reached its goal in its final hours in June 2012,[^ref-7] but the game, promised for February 2013, spent about a decade in development.[^ref-19][^ref-20] It reached Kickstarter backers on September 16, 2022,[^ref-19] entered Steam Early Access on April 1, 2025,[^ref-20][^ref-21] and had its full release on December 23, 2025.[^ref-21]
@@ -95,7 +95,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 
 ### Cultural Impact
 - Critics have credited the games with "paving the way" for later comedy adventure games, and the series is referenced by many later games.[^ref-2]
-- Roger Wilco appears as a computer opponent in Sierra's [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle's Official Book of Games, Volume I]], and [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]] collected minigames from the series.[^ref-2]
+- Roger Wilco appears as a computer opponent in Sierra's [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle's Official Book of Games, Volume I]], and [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]] collected minigames from the series. Volume III of the same collection ([[1991 - Hoyle Official Book of Games - Volume 3|Hoyle's Official Book of Games, Volume III]]) includes Roger as well as the villains Arnoid and Vohaul, and [[1993 - Take a Break! Pinball|Take a Break! Pinball]] has boards inspired by Sierra video games, including three from the Space Quest series.[^ref-2]
 
 ## Playing Today
 
@@ -117,14 +117,14 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 ### Official & Fan Remakes
 
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Developer: Sierra On-Line, Download: Official remake
-- **2011** — [[2011 - Space Quest II VGA Remake|SQ2 VGA Remake]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/space-quest-ii-vga-remake)[^ref-10]
+- **2011** — [[2011 - Space Quest II VGA Remake|SQ2 VGA Remake]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/space-quest-ii-vga-remake). The team announced the release on December 30, 2011; SpaceQuest.net lists 2012.[^ref-10][^ref-32]
 
 ### Fan Sequels
 
-- **2001** — [[2001 - Space Quest - The Lost Chapter|The Lost Chapter]] — Developer: Vonster D. Monster, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)[^ref-10]
+- **2001** — [[2001 - Space Quest - The Lost Chapter|The Lost Chapter]] — Developer: Vonster D. Monster, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/). The finished game was announced on February 1, 2001, after a demo on November 29, 2000, which is the year (2000) SpaceQuest.net gives.[^ref-10][^ref-33][^ref-34]
 - **2003** — [[2003 - Space Quest 0 - Replicated|SQ0: Replicated]] — Developer: Jeff Stewart, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)[^ref-10]
-- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] — Developer: Team VSB, Download: [Download](https://www.sqvsb.com/)[^ref-10][^ref-23]
-- **2012** — [[2012 - Space Quest - Incinerations|Incinerations]] — Developer: Chris Ushko / Box of Mystery, Download: [Download](https://boxofmystery.com/games/incinerations/)[^ref-9][^ref-10]
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] — Developer: Team VSB, Download: [Download](https://www.sqvsb.com/). Wikipedia dates the release to December 22, 2011; SpaceQuest.net lists 2012.[^ref-10][^ref-23][^ref-31]
+- **2012** — [[2012 - Space Quest - Incinerations|Incinerations]] — Developer: Chris Ushko / Box of Mystery, Download: [Download](https://boxofmystery.com/games/incinerations/). Both SpaceQuest.net and the game's own page place it in 2012.[^ref-9][^ref-10]
 
 ### Spiritual Successors
 
@@ -186,3 +186,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-28]: [The Virtual Broomcloset - Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – September 2000: "You left Sierra while Space Quest 6 was still in production"; "The design was essentially finished"
 [^ref-29]: [Steam - Cluck Yegger in Escape From The Planet of The Poultroid](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) – Developer and publisher Guys From Andromeda LLC; released Nov 9, 2015
 [^ref-30]: [Adventure Gamers – Josh Mandel interview (Wayback, November 2024)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 4, 2013: SQ6 proposal "selected by Ken and Roberta"; "From the very beginning, I wanted Scott to be co-designer on the game."
+[^ref-31]: [Wikipedia - Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – Infobox: Release December 22, 2011; "released in 2011"
+[^ref-32]: [AGD Interactive Forums - Space Quest II is available to download!](https://www.agdinteractive.com/forum/viewtopic.php?t=15596) – Broomie, posted Dec 31, 2011: "DECEMBER 30th, 2011 - After more than five years of working on the game... has released their remake"
+[^ref-33]: [Space Quest: The Lost Chapter official site - news archive (Wayback, March 2001)](https://web.archive.org/web/20010309100622/http://frostbytei.com:80/space/2001_01_28_archive.html) – Thursday, February 01, 2001: "The finished version of Space Quest: The Lost Chapter is now available for download."
+[^ref-34]: [Space Quest: The Lost Chapter official site - news archive (Wayback, February 2001)](https://web.archive.org/web/20010210034105/http://frostbytei.com:80/space/2000_11_26_archive.html) – Nov 2000 entries: "Current Demo Release Features (29/11/00)"
