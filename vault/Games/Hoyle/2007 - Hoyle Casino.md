@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Unknown
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Hoyle Casino 2007 is a casino simulation game developed and published
  by Encore Software for Windows, released in the US in 2006 (sources give August 8
  or September 11, 2006).
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2007
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -105,6 +105,7 @@ Hoyle Casino 2007 was one of Encore's annual Hoyle releases after the company to
 
 - The Hoyle Casino series is set in a virtual Las Vegas casino[^ref-5]
 - A related business simulation game, Hoyle Casino Empire, was released in 2002[^ref-5]
+- In September 2008 a player on Encore's forum asked what happens when the bank balance in "Hoyle Casino Games 2007" goes past $999,999,999.99 (the balance then stood at $967,449,714.25). An Encore sales and customer service representative replied: "You get reverted to a lower amount and it gives you an excuse as to why you got reduced in money."[^ref-27]
 
 ## Legacy
 
@@ -129,8 +130,9 @@ Encore continued publishing Hoyle titles through 2016[^ref-5][^ref-16]. On May 2
 
 ## See Also
 
-- [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino 2008|→ Next: Hoyle Casino]]
+- [[Hoyle Series]] — Series overview
+- [[2006 - Hoyle Casino|← Previous: Hoyle Casino 2006]]
+- [[2007 - Hoyle Casino 2008|→ Next: Hoyle Casino 2008]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -207,3 +209,4 @@ Encore continued publishing Hoyle titles through 2016[^ref-5][^ref-16]. On May 2
 [^ref-24]: [Encore Forums – 2007 Help Files for WinVista & Windows 7](http://forums.encoreusa.com/tm.asp?m=24449) – 2007 Hoyle help files cannot open on Vista/Windows 7; PDF replacements including "Hoyle Casino Games 2007 Help"
 [^ref-25]: [Encore Forums – Hoyle Casino 2007 poker tournament crashes](http://forums.encoreusa.com/tm.asp?m=28738) – December 2007 crash report and moderator's suggested workaround
 [^ref-26]: [IGN – Hoyle Casino [2007]](https://www.ign.com/games/hoyle-casino-2007) – initial release August 8, 2006, Encore, ESRB T, alternate name "Hoyle Casino Games (2007)"
+[^ref-27]: [Encore Forums – Bank Account Amount when you hit 1 billion?](http://forums.encoreusa.com/tm.asp?m=33547) – September 29, 2008 thread on the Hoyle Casino 2007 forum; reply by Jason Carver, Encore Sales Department and Customer Service
