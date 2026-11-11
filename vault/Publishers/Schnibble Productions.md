@@ -4,15 +4,15 @@ type: publisher
 founded: null
 headquarters: null
 parent_company: null
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Schnibble Productions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Schnibble Productions is the label under which [[Pierre Gilhodes|Pierre Gilhodes]], co-creator of the Gobliiins series at [[Coktel Vision|Coktel Vision]], publishes his own Gobliiins sequels.[^ref-12][^ref-20] On Steam, Gilhodes is listed as developer and Schnibble Productions as publisher of both *GOBLiiiNS5* (2023) and *GOBLiiNS6* (2026).[^ref-1][^ref-16] Both games are credited to Gilhodes as author on their itch.io pages.[^ref-22][^ref-23]
+Schnibble Productions is the label under which [[Pierre Gilhodes]], co-creator of the Gobliiins series at [[Coktel Vision]], publishes his own Gobliiins sequels.[^ref-12][^ref-20] On Steam, Gilhodes is listed as developer and Schnibble Productions as publisher of both *GOBLiiiNS5* (2023) and *GOBLiiNS6* (2026).[^ref-1][^ref-16] Both games are credited to Gilhodes as author on their itch.io pages.[^ref-22][^ref-23]
 
 ## Sierra Connection
 
@@ -22,13 +22,17 @@ The label's name shares the word "Schnibble" with *[[1995 - The Bizarre Adventur
 
 ## Games Published (Sierra Archive)
 
-- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since Gobliiins 4 (2009)[^ref-1][^ref-2][^ref-3][^ref-10]
-- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: Released February 2026[^ref-3][^ref-16][^ref-21]
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since Gobliiins 4 (2009); itch.io May 2, 2023, Steam July 20, 2023 (Windows)[^ref-1][^ref-2][^ref-3][^ref-10][^ref-25]
+- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: itch.io February 10, 2026, Steam February 13, 2026 at $11.99 (Windows)[^ref-3][^ref-16][^ref-21][^ref-24][^ref-28]
+
+## Console Release of Games 1-5
+
+Schnibble Productions is not the publisher of the console *Gobliiins Collection*. Red Art Games published it for PS5, Xbox Series and Switch on May 27, 2026, with a Switch 2 version on August 17, 2026; it contains games 1 to 5 only, so *Gobliins 6* is not in it.[^ref-26][^ref-27] The sources do not say who holds the console rights.
 
 ## Related
 
-- **Developer of its games:** [[Pierre Gilhodes|Pierre Gilhodes]]
-- **Original series developer:** [[Coktel Vision|Coktel Vision]]
+- **Developer of its games:** [[Pierre Gilhodes]]
+- **Original series developer:** [[Coktel Vision]]
 - **Original series US publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
@@ -48,3 +52,8 @@ The label's name shares the word "Schnibble" with *[[1995 - The Bizarre Adventur
 [^ref-21]: [MobyGames - Gobliins 6](https://www.mobygames.com/game/255126/gobliins-6/) - Release data (read via the MobyGames API): Windows, 2026-02-13, published by Schnibble Productions
 [^ref-22]: [itch.io - GOBLiiiNS5](https://pierre-gilhodes.itch.io/gobliiins5) - Author: Pierre Gilhodes
 [^ref-23]: [itch.io - GOBLiiNS6](https://pierre-gilhodes.itch.io/gobliins6) - Author: Pierre Gilhodes; made with Adventure Game Studio
+[^ref-24]: [Indie Retro News - Gobliins 6](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html) - Article dated February 10, 2026; says the game can be downloaded and played from the developer's itch.io page
+[^ref-25]: [French Wikipedia - Gobliiins 5](https://fr.wikipedia.org/wiki/Gobliiins_5) - Publisher Schnibble Productions; 2 May 2023 (itch.io), 20 July 2023 (Steam)
+[^ref-26]: [Gematsu - Gobliiins Collection](https://www.gematsu.com/games/gobliiins-collection) - Publisher Red Art Games; PS5, Xbox Series, Switch May 27, 2026; Switch 2 August 17, 2026; first five games
+[^ref-27]: [Movies, Games and Tech - Gobliiins Collection review](https://moviesgamesandtech.com/2026/11/10/review-gobliiins-collection) - "does not feature the sixth installment due to its recency"; released by Red Art Games
+[^ref-28]: [Planete-Aventure - Gobliins 6](https://www.planete-aventure.net/jeux.php?num_jeu=4360) - Developer Pierre Gilhodes, publisher (Éditeur) Schnibble Productions, release 13 February 2026
