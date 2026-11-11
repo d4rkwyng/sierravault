@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 2023
 total_games: 19
 genre: "Adventure (Sierra-tradition)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Spiritual Successors Catalog
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,31 +24,33 @@ The catalog spans three overlapping production threads:
 2. **Fan-developer indie studios** — Studios like [[Phoenix Online Studios]] (which began as the fan team behind *The Silver Lining*), [[Infamous Quests]] (ex-Infamous Adventures members making original IPs) and [[Himalaya Studios]] (Al Emmo, Mage's Initiation).[^ref-7][^ref-8][^ref-15]
 3. **Sierra-adjacent indie tributes** — Original games by indie developers working in the Sierra adventure style, such as *Fester Mudd*.[^ref-13]
 
-This catalog complements the Sierra-IP series pages (King's Quest Series, Quest for Glory Series, etc.) by documenting where those design traditions traveled after Sierra.
+This catalog complements the Sierra-IP series pages (King's Quest Series, Quest for Glory Series, etc.) by documenting where those design traditions traveled after Sierra. The table's Thread column uses the three labels above: Alumni, Fan-developer and Indie tribute.
+
+Direct sequels to Sierra-published games are not spiritual successors and are not listed. *Gold Rush! 2* (2017) is such a case: Sunlight Games' Steam page calls it a sequel and says its story "came from the pen of the developers of the original game," so it is covered with the Gold Rush games as [[2017 - Gold Rush 2|Gold Rush! 2]].[^ref-45]
 
 ## Catalog (chronological)
 
-| Year | Title | Studio | Alumni | Notable |
-|------|-------|--------|--------|---------|
-| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media[^ref-21] | Jim Walls (post-Sierra) | Police Quest creator's Tsunami police adventure |
-| 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment[^ref-24] | Corey & Lori Ann Cole (out-of-house designers)[^ref-23] | Original story in Terry Brooks' Shannara world |
-| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Himalaya Studios | Indie | Sierra-tradition western adventure |
-| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Mad Otter Games / InstantAction | Damon Slye (Dynamix co-founder)[^ref-1] | Browser-based WWI dogfighting game, not an adventure[^ref-22] |
-| 2010 | [[2010 - Gray Matter\|Gray Matter]] | Wizarbox / dtp entertainment[^ref-4] | Jane Jensen | Jensen adventure after her Oberon casual games |
-| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Phoenix Online | Jensen as story consultant[^ref-4] | Adventure thriller |
-| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. / Replay Games[^ref-13] | Indie | Wild West adventure |
-| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road / Phoenix Online[^ref-11] | Jane Jensen | Mystery-conspiracy |
-| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Infamous Quests | Infamous Adventures alumni | Quest for Glory spiritual successor |
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | Guys From Andromeda LLC[^ref-17] | Mark Crowe (with GFA co-founder Chris Pope)[^ref-5] | Survival game from the SpaceVenture studio |
-| 2016 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Infamous Quests[^ref-16] | Infamous Adventures alumni | King's Quest spiritual successor (Kickstarted 2015, released January 26, 2016) |
-| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob / Corbomite Games[^ref-14] | Co-designed by Corey & Lori Cole[^ref-14] | Music-themed adventure |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Lori & Corey Cole | Quest for Glory spiritual successor[^ref-12] |
-| 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | Himalaya Studios[^ref-15] | — | QFG-style RPG-adventure hybrid |
-| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Guys From Andromeda | Mark Crowe + Scott Murphy | Kickstarted 2012; backers 2022, Steam Early Access April 2025, full release December 23, 2025[^ref-18][^ref-20] |
-| 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Cygnus Entertainment | Ken & Roberta Williams | Williams return to game development[^ref-9] |
-| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Lori & Corey Cole | Hero-U spinoff[^ref-6] |
-| (TBD) | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | — | OoT sequel; "in a real state of limbo" (Oct 2025)[^ref-19] |
-| (TBD) | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | — | QfI prequel[^ref-8] |
+| Year | Title | Studio | Alumni | Notable | Thread |
+|------|-------|--------|--------|---------|--------|
+| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media[^ref-21] | Jim Walls (post-Sierra) | Police Quest creator's Tsunami police adventure | Alumni |
+| 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment[^ref-24] | Corey & Lori Ann Cole (out-of-house designers)[^ref-23] | Original story in Terry Brooks' Shannara world | Alumni |
+| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Himalaya Studios[^ref-30] | Indie | Wild West adventure that "pays homage to the classic point-and-click adventure games popularized by Sierra and LucasArts"[^ref-28] | Fan-developer |
+| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Mad Otter Games / InstantAction | Damon Slye (Dynamix co-founder)[^ref-1] | Browser-based WWI dogfighting game, not an adventure[^ref-22] | Alumni |
+| 2010 | [[2010 - Gray Matter\|Gray Matter]] | Wizarbox / dtp entertainment[^ref-4] | Jane Jensen | Jensen adventure after her Oberon casual games | Alumni |
+| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Phoenix Online Studios[^ref-32] | Jensen as story consultant[^ref-4] | Adventure thriller | Fan-developer |
+| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. / Replay Games[^ref-13] | Indie | Wild West adventure | Indie tribute |
+| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road / Phoenix Online[^ref-11] | Jane Jensen | Mystery-conspiracy | Alumni |
+| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Infamous Quests[^ref-34] | Infamous Adventures alumni[^ref-29] | Inspired by Sierra's Quest for Glory series[^ref-29] | Fan-developer |
+| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | Guys From Andromeda LLC[^ref-17] | Mark Crowe (with GFA co-founder Chris Pope)[^ref-5] | Survival game from the SpaceVenture studio | Alumni |
+| 2016 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Infamous Quests[^ref-16] | Infamous Adventures alumni[^ref-29] | King's Quest spiritual successor (Kickstarted 2015, released January 26, 2016) | Fan-developer |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob / Corbomite Games[^ref-14] | Co-designed by Corey & Lori Cole[^ref-14] | Music-themed adventure | Alumni |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games[^ref-36] | Lori & Corey Cole[^ref-36] | Quest for Glory spiritual successor[^ref-12] | Alumni |
+| 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | Himalaya Studios[^ref-15] | — | QFG-style RPG-adventure hybrid | Fan-developer |
+| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Guys From Andromeda | Mark Crowe + Scott Murphy[^ref-5] | Kickstarted 2012; backers 2022, Steam Early Access April 2025, full release December 23, 2025[^ref-18][^ref-20] | Alumni |
+| 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Cygnus Entertainment[^ref-9] | Ken & Roberta Williams | Williams return to game development[^ref-9] | Alumni |
+| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Lori & Corey Cole | Hero-U spinoff[^ref-6] | Alumni |
+| (TBD) | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests[^ref-8] | — | OoT sequel; "in a real state of limbo" (Oct 2025)[^ref-19] | Fan-developer |
+| (TBD) | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests[^ref-8] | — | QfI prequel[^ref-8] | Fan-developer |
 
 ## Alumni studio threads
 
@@ -76,7 +78,7 @@ Founded in 2012 by Steven Alexander and Shawn Mills, ex-members of [[Infamous Ad
 
 ### Ken & Roberta Williams (Cygnus Entertainment)
 
-Ken and Roberta Williams returned to game development at Cygnus Entertainment, where Ken is Managing Partner and Roberta Lead Creative Director, with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — a 3D remake of the 1976 text adventure *Colossal Cave Adventure*, which helped inspire Sierra's own *Mystery House* in 1980. It was built to be played on a regular PC or with a VR headset.[^ref-9]
+Ken and Roberta Williams returned to game development at Cygnus Entertainment, where Ken is managing partner and Roberta lead creative director, with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — a 3D remake of the 1976 text adventure *Colossal Cave Adventure*, which helped inspire Sierra's own *Mystery House* in 1980. It was built to be played on a regular PC or with a VR headset.[^ref-9]
 
 ### Pierre Gilhodes
 
@@ -108,6 +110,29 @@ Several games in the catalog come from indie studios rather than Sierra alumni:
 ## Why spiritual successors keep getting made
 
 Crowdfunding has been central: *Hero-U* used two Kickstarter campaigns,[^ref-12] *SpaceVenture* was Kickstarted in 2012,[^ref-20] and *Moebius* was funded through Pinkerton Road's Kickstarter-backed Community Supported Gaming cycle.[^ref-11]
+
+## Playing Today
+
+Store listings checked on November 11, 2026 (Steam prices as shown that day, US dollars). A dash in the GOG column means no listing was found at the checked store address.
+
+| Game | Steam | GOG |
+|------|-------|-----|
+| [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | $9.99; Windows, Linux[^ref-30] | — |
+| [[2010 - Gray Matter\|Gray Matter]] | $9.99; Windows[^ref-31] | — |
+| [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | $14.99; Windows, Mac[^ref-32] | Game of the Year Edition[^ref-43] |
+| [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Episode 1, $9.99; Windows, Mac, Linux[^ref-35] | — |
+| [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | $14.99; Windows, Mac, Linux[^ref-33] | Yes[^ref-42] |
+| [[2014 - Quest for Infamy\|Quest for Infamy]] | $9.99; Windows, Linux[^ref-34] | Yes[^ref-39] |
+| [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | $2.99; Windows, Mac, Linux[^ref-17] | — |
+| [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | $9.99; Windows, Linux[^ref-16] | — |
+| [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | $4.99; Windows, Mac, Linux[^ref-14] | — |
+| [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | $29.99; Windows, Mac, Linux[^ref-36] | Yes[^ref-40] |
+| [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | $14.99; Windows, Mac, Linux[^ref-15] | Yes[^ref-44] |
+| [[2022 - SpaceVenture\|SpaceVenture]] | $14.99; Windows[^ref-18] | — |
+| [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | $24.99; Windows, Mac, Linux[^ref-38] | Yes[^ref-41] |
+| [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | $19.99; Windows, Mac, Linux[^ref-37] | — |
+
+A Steam store search on the same date found no listing for Blue Force, Shannara or Ace of Aces. *Order of the Thorne: Fortress of Fire* and *Quest for Infamy: Roehm to Ruin* are unreleased.
 
 ## See Also
 
@@ -148,3 +173,21 @@ Crowdfunding has been central: *Hero-U* used two Kickstarter campaigns,[^ref-12]
 [^ref-25]: [Polygon — The Red Baron prepares to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) — September 22, 2015: "In 2013, Slye attempted to raise $250,000 on Kickstarter to fund a remake… The campaign failed."
 [^ref-26]: [Multiplayer.it — Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) — Giorgio Melani, December 7, 2025 (Italian): "Il progetto si chiama Gabriel Knight 4: Five Hearts"
 [^ref-27]: [Kickstarter — Precinct (Wayback, August 15, 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) — "$85,756 pledged of $500,000 goal"; "Funding for this project was canceled by the project creator on August 6."
+[^ref-28]: [Wikipedia — Al Emmo and the Lost Dutchman's Mine](https://en.wikipedia.org/wiki/Al_Emmo_and_the_Lost_Dutchman%27s_Mine) — "pays homage to the classic point-and-click adventure games popularized by Sierra and LucasArts during the 1980s and 1990s"
+[^ref-29]: [Wikipedia — Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — Founded in 2012 by Steven Alexander and Shawn Mills, who previously founded Infamous Adventures; Quest for Infamy "inspired by Sierra's Quest for Glory series"
+[^ref-30]: [Steam — Al Emmo and the Lost Dutchman's Mine](https://store.steampowered.com/app/296850/Al_Emmo_and_the_Lost_Dutchmans_Mine/) — Developer and publisher Himalaya Studios; $9.99, Windows and Linux (checked November 11, 2026)
+[^ref-31]: [Steam — Gray Matter](https://store.steampowered.com/app/260570/Gray_Matter/) — $9.99, Windows (checked November 11, 2026)
+[^ref-32]: [Steam — Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/) — Developer Phoenix Online Studios; $14.99, Windows and Mac (checked November 11, 2026)
+[^ref-33]: [Steam — Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) — $14.99, Windows, Mac and Linux (checked November 11, 2026)
+[^ref-34]: [Steam — Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) — Developer Infamous Quests; $9.99, Windows and Linux (checked November 11, 2026)
+[^ref-35]: [Steam — Fester Mudd: Curse of the Gold - Episode 1](https://store.steampowered.com/app/253310/) — $9.99, Windows, Mac and Linux; "Copyright 2013 Prank Ltd. Published by Replay Games" (checked November 11, 2026)
+[^ref-36]: [Steam — Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) — Developer and publisher Transolar Games; "by Lori and Corey Cole, creators of the acclaimed Quest for Glory series"; $29.99, Windows, Mac and Linux (checked November 11, 2026)
+[^ref-37]: [Steam — Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) — $19.99, Windows, Mac and Linux (checked November 11, 2026)
+[^ref-38]: [Steam — Colossal Cave](https://store.steampowered.com/app/2215540/Colossal_Cave/) — Developer and publisher Cygnus Entertainment; $24.99, Windows, Mac and Linux (checked November 11, 2026)
+[^ref-39]: [GOG — Quest for Infamy](https://www.gog.com/en/game/quest_for_infamy) — Store page in stock (checked November 11, 2026)
+[^ref-40]: [GOG — Hero-U: Rogue to Redemption](https://www.gog.com/en/game/herou_rogue_to_redemption) — Store page in stock (checked November 11, 2026)
+[^ref-41]: [GOG — Colossal Cave](https://www.gog.com/en/game/colossal_cave) — Store page in stock (checked November 11, 2026)
+[^ref-42]: [GOG — Moebius: Empire Rising](https://www.gog.com/en/game/moebius) — Store page in stock (checked November 11, 2026)
+[^ref-43]: [GOG — Cognition: Game of the Year Edition](https://www.gog.com/en/game/cognition_an_erica_reed_thriller) — Store page in stock (checked November 11, 2026)
+[^ref-44]: [GOG — Mage's Initiation: Reign of the Elements](https://www.gog.com/en/game/mages_initiation_reign_of_the_elements) — Store page in stock (checked November 11, 2026)
+[^ref-45]: [Steam — Gold Rush! 2](https://store.steampowered.com/app/609100/Gold_Rush_2/) — Developer and publisher Sunlight Games; "The story of the sequel came from the pen of the developers of the original game"
