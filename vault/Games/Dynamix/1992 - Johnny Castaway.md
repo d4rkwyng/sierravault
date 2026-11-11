@@ -197,7 +197,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 ## References
 
 [^ref-1]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Editor's review (first screensaver to tell a story, holidays, clock trick, 640×480, bottle letter), sound toggle, download count and user rating
-[^ref-3]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Jeff Tunnell's 2022 answers on development (January–November 1992), team, gags, story design, the Screen Antics brand and ROI
+[^ref-3]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) ([Wayback copy, September 2026](https://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/)) – Jeff Tunnell's 2022 answers on development (January–November 1992), team, gags, story design, the Screen Antics brand and ROI
 [^ref-4]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Cites PC Magazine (30 Mar 1993, "about 120 days"), the *Computer Gaming World* January 1993 review, version 1.02 (1993) and system requirements
 [^ref-11]: [Castaway – GitHub (xesf)](https://github.com/xesf/castaway) – Open-source JavaScript re-implementation reverse-engineering the DGDS engine for browser play
 [^ref-13]: [Family Fun Pack (1992) – MobyGames](https://www.mobygames.com/game/21229/family-fun-pack/) – Compilation details confirming Johnny Castaway's inclusion alongside Conquests of the Longbow, Gobliiins and Hoyle Volume 3
