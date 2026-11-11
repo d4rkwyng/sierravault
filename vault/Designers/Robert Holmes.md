@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "Gray Matter"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Robert Holmes
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ Holmes scored the casual games Inspector Parker (2003) and Inspector Parker in B
 
 He composed the music for Jensen's [[2010 - Gray Matter|Gray Matter]] (2010), "both as composer of the general score and as a musician with his band The Scarlet Furies."[^ref-11] MobyGames credits him for the game's music, the Scarlet Furies music and the song "To Forgive or to Forget".[^ref-4] He described the band's songs as "Gothic Folk": he, Buck Wilcox, Ian Francisco and Steve Hilstein had played together since school, and later re-formed the band around lead singer Raleigh Holmes. Its EP *Dark Clad Company* was produced by Rusty Anderson.[^ref-11][^ref-2] Raleigh Holmes said in 2012 that he "really spearheaded the core feel of all of the music in Gray Matter."[^ref-22] For Phoenix Online's [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] he wrote one song, "The Taking."[^ref-4][^ref-10] Through Pinkerton Road he was executive producer and composer on [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] (both 2014), and scored Lola and Lucy's Big Adventure.[^ref-4][^ref-2]
 
-He has since produced albums of game themes, including *A Simple Refrain*, solo-piano versions of his themes played by Roger Hooper, and *Sequel*, an album of new themes "in the style of Gabriel Knight" launched on Kickstarter in late 2021.[^ref-7][^ref-15][^ref-20][^ref-6] A second Kickstarter, for *Son of Sequel*, was running in April 2023;[^ref-23] the album was released in April 2024 with 20 tracks and "an incredible reunion of The Scarlet Furies."[^ref-24] Jensen wrote a new Gabriel Knight short story, "Five Hearts," as a reward for the campaign's backers.[^ref-25][^ref-26] He has talked about his game music in video interviews with Adventure Game Hotspot and the Adventure Games Podcast.[^ref-17][^ref-18]
+He has since produced albums of game themes, including *A Simple Refrain*, solo-piano versions of his themes played by Roger Hooper, and *Sequel*, an album of new themes "in the style of Gabriel Knight" launched on Kickstarter in late 2021.[^ref-7][^ref-15][^ref-20][^ref-6] By January 2023 the CD and vinyl editions were out, and he named Troels Pleimert (drums), Marco Machera (fretless bass) and Roger Hooper (piano and string arrangements) as guests on the album.[^ref-29] His Bandcamp page also lists *Second Cousin of SEQUEL* (Robert Holmes with George Napier), released October 4, 2024,[^ref-28] and *A Simple Refrain II* (Roger Hooper and Robert Holmes), released November 5, 2026.[^ref-27] A second Kickstarter, for *Son of Sequel*, was running in April 2023;[^ref-23] the album was released in April 2024 with 20 tracks and "an incredible reunion of The Scarlet Furies."[^ref-24] Jensen wrote a new Gabriel Knight short story, "Five Hearts," as a reward for the campaign's backers.[^ref-25][^ref-26] He has talked about his game music in video interviews with Adventure Game Hotspot and the Adventure Games Podcast.[^ref-17][^ref-18]
 
 ## Notable Works
 
@@ -69,27 +69,36 @@ Fans still write about his music. One Bandcamp listener wrote that "Robert Holme
 
 Roles follow MobyGames and VGMPF.[^ref-4][^ref-10]
 
-### Sierra On-Line
+### Sierra On-Line (1992–1999)
 
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice (Writing Man)
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Producer, Director, Composer, Voice Talent
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Producer, Composer, Sound Effects
-- **1994** — King's Quest: Collector's Edition — Role: Producer and Director, Research, Video Editing, Music
-- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Main Themes, Opera Sequences
-- **1997** — King's Quest: Collection Series — Role: Producer and Director, Research, Video Editing, Music
-- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Role: Music, Main Themes (with David Henry)
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Voice (Writing Man) |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Producer, Director, Composer, Voice Talent |
+| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Producer, Composer, Sound Effects |
+| 1994 | King's Quest: Collector's Edition | Producer and Director, Research, Video Editing, Music |
+| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Main Themes, Opera Sequences |
+| 1997 | King's Quest: Collection Series | Producer and Director, Research, Video Editing, Music |
+| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | Music, Main Themes (with David Henry) |
 
-### Later work
+### Other Credits (2003–2014)
 
-- 2003 — Inspector Parker — Composer
-- 2004 — Inspector Parker in Betrapped! — Composer (with Ashif Hakik)
-- **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Composer
-- 2011 — Charlaine Harris: Dying for Daylight — Song ("Young Goodman Brown")
-- **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Role: Song ("The Taking"), music and lyrics
-- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: Pinkerton Road Studio, Role: Composer, Executive Producer, Founder
-- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Company: Pinkerton Road Studio, Role: Composer, Executive Producer
-- — — Lola and Lucy's Big Adventure — Pinkerton Road Studio — Composer[^ref-2]
-- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — No announced role (the game is an unmade pitch; audio has not been announced). Jensen's "Five Hearts" short story is hosted on his website.[^ref-26]
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2003 | Inspector Parker | — | Composer |
+| 2004 | Inspector Parker in Betrapped! | — | Composer (with Ashif Hakik) |
+| 2006 | King's Quest Collection[^ref-32] | — | Producer and Director, Research, Video Editing, Music |
+| 2007 | Microsoft Windows Vista (included games)[^ref-33] | — | Audio (uncredited) |
+| 2009 | Microsoft Windows 7 (included games)[^ref-34] | — | Audio (uncredited) |
+| 2010 | [[2010 - Gray Matter\|Gray Matter]] | — | Composer |
+| 2011 | Charlaine Harris: Dying for Daylight | — | Song ("Young Goodman Brown") |
+| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | — | Song ("The Taking"), music and lyrics |
+| 2012 | Lola and Lucy's Big Adventure (iPad storybook app)[^ref-2][^ref-30] | Pinkerton Road Studio | Composer |
+| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road Studio | Composer, Executive Producer, Founder |
+| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Pinkerton Road Studio | Composer, Executive Producer |
+| TBD | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | — | No announced role (the game is an unmade pitch; audio has not been announced). Jensen's "Five Hearts" short story is hosted on his website.[^ref-26] |
+
+Kirkus Reviews gives Lola and Lucy's Big Adventure a publication date of October 25, 2012; Metacritic lists an initial release date of May 9, 2013 for the iOS version, so sources disagree.[^ref-30][^ref-31]
 
 ## References
 
@@ -113,3 +122,11 @@ Roles follow MobyGames and VGMPF.[^ref-4][^ref-10]
 [^ref-24]: [Robert Holmes Music – New Album Release: 'Son of Sequel'](https://robertholmesmusic.com/son-of-sequel-new-album-release/) — April 25, 2024: "officially released", "20 fresh tracks, featuring an incredible reunion of The Scarlet Furies"
 [^ref-25]: [Time Extension – Jane Jensen Has Written A Story For Gabriel Knight 4](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — Jack Yarwood, July 2, 2024: Son of Sequel rewards made "with her husband, the composer Robert Holmes"; the short story goes to backers
 [^ref-26]: [Robert Holmes Music – Five Hearts](https://robertholmesmusic.com/five-hearts/) — "the exclusive new Gabriel Knight short story 'Five Hearts' by Jane Jensen along with some early concept sketches"
+[^ref-27]: [Bandcamp – A Simple Refrain II](https://robertholmessoundtracks.bandcamp.com/album/a-simple-refrain-ii) – "A Simple Refrain II, by Roger Hooper and Robert Holmes"; "released November 5, 2026" (checked November 11, 2026)
+[^ref-28]: [Bandcamp – Second Cousin of SEQUEL](https://robertholmessoundtracks.bandcamp.com/album/second-cousin-of-sequel) – "Second Cousin of SEQUEL, by Robert Holmes with George Napier"; "released October 4, 2024" (checked November 11, 2026)
+[^ref-29]: [Alternative Magazine Online – In Conversation With Robert Holmes (Composer, Sequel)](https://alternativemagazineonline.co.uk/2023/01/10/interview-in-conversation-with-robert-holmes-composer-sequel/) – Marty Mulrooney, January 10, 2023: "Troels Pleimert providing killer drums, Marco Machera on fretless bass, and piano and string arrangements by Roger Hooper"; CDs and "now the vinyl versions" produced
+[^ref-30]: [Kirkus Reviews – Lola and Lucy's Big Adventure](https://www.kirkusreviews.com/book-reviews/jane-jensen-1/lola-and-lucys-big-adventure/) – Credits Jane Jensen and Robert Holmes, developed by Signus Labs and Pinkerton Road; "Pub Date: Oct. 25, 2012"; "iPad storybook app"
+[^ref-31]: [Metacritic – Lola and Lucy's Big Adventure details](https://www.metacritic.com/game/lola-and-lucys-big-adventure/details/) – "Initial Release Date: May 9, 2013"; iOS (iPhone/iPad), PC; publisher Fingerprint Digital
+[^ref-32]: [MobyGames – Robert Holmes credits (Wayback, February 2, 2026)](https://web.archive.org/web/20260202012810/https://www.mobygames.com/person/6003/robert-holmes/credits/) – King's Quest Collection (2006, Windows): Producer and Director; Research; Video Editing; Music
+[^ref-33]: [MobyGames – Microsoft Windows Vista (included games) credits (Wayback, August 15, 2024)](https://web.archive.org/web/20240815100815/https://www.mobygames.com/game/41710/microsoft-windows-vista-included-games/credits/windows/) – Purble Place (2007): "Audio: Robert Holmes (uncredited)"
+[^ref-34]: [MobyGames – Microsoft Windows 7 (included games) credits (Wayback, February 13, 2026)](https://web.archive.org/web/20260213055529/https://www.mobygames.com/game/47760/microsoft-windows-7-included-games/credits/windows/) – Purble Place (2009): "Audio: Robert Holmes (uncredited)"
