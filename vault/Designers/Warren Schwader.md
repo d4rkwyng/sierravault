@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Threshold", "Hoyle Official Book of Games series", "Jones in the Fast Lane", "Jewel Quest series"]
 companies: ["On-Line Systems", "Sierra On-Line", "ImagiNation Network", "iWin", "Solitaire Network"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Warren Schwader
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,9 +33,9 @@ In 1980, while Ken and Roberta Williams were working on *The Wizard and the Prin
 
 His cribbage game was published on floppy disk as [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]], and sold about two thousand copies, which he called "wasn't awful but not a hit."[^ref-halcyon] Sources date the disk release differently: MobyGames gives 1980, while Retro365 says early 1981 and Sierra's 1990 magazine says 1981.[^ref-mobygames][^ref-retro365][^ref-sierranews1990] On-Line also released Thrilogy of Games (1981), a set of his early games: Smash-Up, Bustout and William Tell.[^ref-halcyon]
 
-Ken Williams then asked Schwader to create a game inspired by *Astro Blaster*, an arcade game Ken had seen.[^ref-halcyon] Rather than duplicate it, Schwader "set out to just take the concept and run with it." It took about four months, including two weeks with Ken writing the animation engine, to create [[1981 - Threshold|Threshold]].[^ref-halcyon] The game sold about 25,000 copies, "highly successful by my standards."[^ref-halcyon]
+Ken Williams then asked Schwader to create a game inspired by *Astro Blaster*, an arcade game Ken had seen.[^ref-halcyon] Rather than duplicate it, Schwader "set out to just take the concept and run with it." It took about four months, including two weeks with Ken writing the animation engine, to create [[1981 - Threshold|Threshold]].[^ref-halcyon] The game sold about 25,000 copies, "highly successful by my standards."[^ref-halcyon] Retro365 adds that the success "amounted to nearly a hundred thousand dollars in royalties" for him, a figure that is not from Schwader himself.[^ref-retro365-sammy]
 
-Schwader also contributed "Special Features Development" to [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]],[^ref-mobygames] where the manual names him in the ten-person team and credits "the new color fill routines, designed by Warren Schwader, that put the color on screen approximately 3 times faster than our other adventures."[^ref-timezone-manual] He then created [[1983 - Sammy Lightfoot|Sammy Lightfoot]] in 1983.[^ref-mobygames] For Sammy Lightfoot he worked out page flipping to remove screen flicker, drawing one screen page while the other was displayed and then switching between them. He was careful about the claim: "I'm not saying that I invented it originally, but I discovered it on my own and used it in a product before almost anyone else."[^ref-halcyon]
+Schwader also contributed "Special Features Development" to [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]],[^ref-mobygames] where the manual names him in the ten-person team and credits "the new color fill routines, designed by Warren Schwader, that put the color on screen approximately 3 times faster than our other adventures."[^ref-timezone-manual] The Digital Antiquarian likewise describes him as "an action-game maestro" whom the team brought in "to dramatically speed up the rendering of the graphics."[^ref-filfre] He then created [[1983 - Sammy Lightfoot|Sammy Lightfoot]] in 1983 (Apple II and Commodore 64), with later ColecoVision (1984) and PC-88 (1985) releases.[^ref-mobygames][^ref-wikipedia-sammy] Wikipedia notes that he worked on a sequel, *Sammy's Icehouse*, that was never finished.[^ref-wikipedia-sammy] For Sammy Lightfoot he worked out page flipping to remove screen flicker, drawing one screen page while the other was displayed and then switching between them. He was careful about the claim: "I'm not saying that I invented it originally, but I discovered it on my own and used it in a product before almost anyone else."[^ref-halcyon]
 
 ### The Crash and Wilderness Years (1984–1988)
 
@@ -49,19 +49,19 @@ In March 1988, Ken Williams met Schwader at the post office and asked him to com
 
 Schwader's love of card games led to the traditional games collection [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] (1989), which Sierra's magazine credited to "Hoyle's designer and programmer Warren Schwader."[^ref-sierranews1989][^ref-mobygames] "I'm a card player, so I really looked forward to working on this project," he said, adding: "I had to develop a system for card games within the Sierra system, that would include not only rules, but the strategies the computer will use against the player."[^ref-sierranews1989] The game included 18 computer opponents, among them characters from other Sierra games and Schwader himself as an opponent.[^ref-archive-hoyle][^ref-sierranews1990] By fall 1990 Sierra reported that it had "sold more than 250,000 copies worldwide."[^ref-sierranews1990]
 
-The series continued with [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] (1990), "a collection of 28 old and new solitaire games," which he designed and programmed,[^ref-sierranews1990][^ref-mobygames] and [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] (1991), which focused on board games.[^ref-wikipedia-hoyle] On Volume 3, MobyGames credits him as lead programmer, with Marti and Bridget McKenna as game designers; Wikipedia instead says he designed it.[^ref-mobygames][^ref-wikipedia-hoyle]
+The series continued with [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] (1990), "a collection of 28 old and new solitaire games," which he designed and programmed.[^ref-sierranews1990][^ref-mobygames] Sierra's magazine said he also designed "two entirely new, never before seen solitaire games exclusively for Hoyle's II — Slide and Bowling,"[^ref-sierranews1990] and Wikipedia credits him with designing Bowling solitaire (it dates the game to 1988, which does not match the 1990 release; the date is uncertain).[^ref-wikipedia-bowling] Volume 3 followed: [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] (1991), which focused on board games.[^ref-wikipedia-hoyle] On Volume 3, MobyGames credits him as lead programmer, with Marti and Bridget McKenna as game designers; Wikipedia instead says he designed it.[^ref-mobygames][^ref-wikipedia-hoyle]
 
 Sierra put Schwader on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (1990), a game it had bought as an outside design, and teamed him with Bill Davis and Bill Skirvin. He was its lead programmer and also wrote its dialogue.[^ref-sierranews1990][^ref-mobygames] He later recalled that when Sierra acquired it, "It was in text form," and that "Jones had a four-person design team."[^ref-retrogamer94] He called the 1992 CD-ROM edition "Sierra's first multimedia product released on CD."[^ref-halcyon] He was also the lead programmer of the "Original Board Game Challenge Team" credited on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] (1992), which reused Hoyle Volume 3's games.[^ref-mobygames] He designed and programmed [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (1993).[^ref-mobygames] Sierra's *InterAction* magazine traced it to Ken Williams learning Bridge on The Sierra Network: Ken "talked to Warren Schwader (designer of the original Hoyle games) about adding it to a VGA revision of Hoyle 1." Schwader and project manager Robert Holmes then added Euchre, and "Warren (who's originally from Wisconsin) was a Euchre expert." He also appeared in the game's video cameos: "Warren himself appears as the straight-jacketed card shark."[^ref-interaction1993][^ref-mobygames]
 
-### The Sierra Network and ImagiNation (1993–1990s)
+### The Sierra Network and ImagiNation (1993–late 1990s)
 
 Sierra had created The Sierra Network (TSN), later The ImagiNation Network (INN).[^ref-halcyon] Schwader moved there in 1993, while it was still part of Sierra, "because they made the kind of games that had become my specialty through the years: card and board games." He had missed its start because he wanted to finish the Jones CD-ROM.[^ref-halcyon]
 
 When Sierra sold its interest in INN, Schwader stayed with the network. In his *Halcyon Days* interview (published 1997), he said: "I'm a person that hates change. The noteriety [*sic*] that I got from being with Sierra so long is a result of that."[^ref-halcyon][^ref-halcyon-book]
 
-### iWin and Casual Games (2004–2016)
+### AOL Games, BigPrizes.com and iWin (2004–2016)
 
-After working at AOL Games and BigPrizes.com, Schwader joined iWin.com, where he worked on Jewel Quest.[^ref-solitaire-network] He is credited as game designer and engineer on the original Jewel Quest (2004) and as designer and programmer or engineer on Jewel Quest II (2007), Jewel Quest Solitaire (2007), Jewel Quest Solitaire II (2007), Jewel Quest III (2008) and Jewel Quest IV: Heritage (2009).[^ref-mobygames] He is credited with the original concept of Jewel Quest Solitaire III (2009), and as creative producer and game and level designer on Jewel Quest: Seven Seas (2016).[^ref-mobygames] He also worked on Deal or No Deal (2011) and Family Feud for iWin.[^ref-solitaire-network][^ref-mobygames]
+Solitaire Network's company page lists his employers as "Sierra On-Line, ImagiNation! Network, AOL Games, BigPrizes.com, and most recently iWin.com."[^ref-solitaire-network] None of the sources found dates his time at AOL Games or BigPrizes.com or gives the month he left the network, so the years between his *Halcyon Days* interview (published 1997) and the 2004 Jewel Quest credit are undocumented here. A third-party timeline says he joined iWin in 2000, but it is unsourced and is not used. At iWin he worked on Jewel Quest.[^ref-solitaire-network] He is credited as game designer and engineer on the original Jewel Quest (2004) and as designer and programmer or engineer on Jewel Quest II (2007), Jewel Quest Solitaire (2007), Jewel Quest Solitaire II (2007), Jewel Quest III (2008) and Jewel Quest IV: Heritage (2009).[^ref-mobygames] He is credited with the original concept of Jewel Quest Solitaire III (2009), and as creative producer and game and level designer on Jewel Quest: Seven Seas (2016).[^ref-mobygames] He also worked on Deal or No Deal (2011) and Family Feud for iWin.[^ref-solitaire-network][^ref-mobygames]
 
 Former colleague Dwain Theobald wrote: "Warren is the designer and primary engineer for the very successful Jewel Quest games. He has a great eye for detail and he knows how to polish a product to give it AAA quality and to take it to the next level."[^ref-linkedin]
 
@@ -73,7 +73,7 @@ In 2001, Schwader founded Solitaire Network, a site of free solitaire games. He 
 
 ### Threshold (1981)
 
-[[1981 - Threshold|Threshold]], a shooter inspired by *Astro Blaster*, had 24 levels of enemy waves. Schwader kept the number secret, telling players only "that when they saw the last ones that they'd know it."[^ref-halcyon] *Softalk*'s December 1981 review called it "a superbly executed and marvelously playable shoot-'em-up—the epitome of home-arcade gaming yet devised."[^ref-softalk] The game sold about 25,000 copies.[^ref-halcyon] Ken Williams wanted Atari 800 and 2600 versions,[^ref-halcyon] and MobyGames credits Schwader as designer of the 1982 Atari 2600 version.[^ref-mobygames]
+[[1981 - Threshold|Threshold]], a shooter inspired by *Astro Blaster*, had 24 levels of enemy waves. Schwader kept the number secret, telling players only "that when they saw the last ones that they'd know it."[^ref-halcyon] *Softalk*'s December 1981 review called it "a superbly executed and marvelously playable shoot-'em-up—the epitome of home-arcade gaming yet devised."[^ref-softalk] The game sold about 25,000 copies.[^ref-halcyon] Ken Williams wanted Atari 800 and 2600 versions,[^ref-halcyon] and MobyGames credits Schwader as designer of the 1982 Atari 2600 version.[^ref-mobygames] Wikipedia says he designed the game and programmed the Apple II version with Ken Williams.[^ref-wikipedia-threshold]
 
 ### Hoyle Official Book of Games Series (1989–1993)
 
@@ -99,45 +99,58 @@ On the games industry itself, Schwader observed in his *Halcyon Days* interview 
 
 Warren Schwader's credits span the Apple II era through modern casual games.[^ref-mobygames] He counted Bill Budge and Nasir Gebelli as the programmers who impressed him most at the time, and later added Ken Williams to that list.[^ref-halcyon]
 
+Solitaire Network's own page says that *Jewel Quest II* won the Zeeby Award for People's Choice Award for Best Puzzle Game of 2007, that *Jewel Quest* was RealArcade's 2004 Puzzle Game of the Year and stayed in its Top 10 for over eight months, and that it was a finalist for the 2004 Billboard Digital Entertainment Awards Downloadable Game of the Year. These are the company's own claims, and no independent record of them was found.[^ref-solitaire-network]
+
 The Hoyle series that began with his Volume 1 continued from 1989 to 2016.[^ref-wikipedia-hoyle] His later Jewel Quest work carried his card-and-puzzle experience into casual games.[^ref-mobygames]
 
 ## Games
 
 ### Apple II & Arcade Era (1980–1985)
 
-- **1980** — [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] — Role: Designer, Programmer (On-Line disk release dated 1980 by MobyGames, 1981 by Sierra)
-- 1981 — Thrilogy of Games — Designer, Programmer
-- **1981** — [[1981 - Threshold|Threshold]] — Role: Designer, Programmer
-- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Role: Special Features Development
-- 1982 — Threshold (Atari 2600, Tigervision) — Designer
-- **1983** — [[1983 - Sammy Lightfoot|Sammy Lightfoot]] — Role: Creator
+| Year | Title | Role |
+|------|-------|------|
+| 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Designer, Programmer (On-Line disk release dated 1980 by MobyGames, 1981 by Sierra) |
+| 1981 | Thrilogy of Games | Designer, Programmer |
+| 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer |
+| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Special Features Development |
+| 1982 | Threshold (Atari 2600, Tigervision) | Designer |
+| 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] (Apple II, Commodore 64) | Creator |
+| 1984 | Sammy Lightfoot (ColecoVision) | Creator |
+| 1985 | Sammy Lightfoot (FM-7, PC-88) | Creator (credit listed by MobyGames) |
 
-### Sierra On-Line (1988–1993)
+### Sierra On-Line (1988–1993, 1999)
 
-- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Role: Designer, Programmer, Artist
-- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Role: Designer, Programmer, Artist
-- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Lead Programmer, Dialogue
-- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Role: Lead Programmer
-- **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane CD-ROM]] — Role: Lead Programmer, Writer
-- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Credited lead programmer of the original Hoyle 3 team (code reused)
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Designer, Senior Programmer, Actor
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Designer, Programmer, Artist |
+| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] (DOS; Atari ST version also credited) | Designer, Programmer, Artist |
+| 1990 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Lead Programmer, Dialogue |
+| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Lead Programmer |
+| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane CD-ROM]] | Lead Programmer, Writer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Credited lead programmer of the original Hoyle 3 team (code reused) |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Designer, Senior Programmer, Actor |
+| 1999 | You Don't Know Jack: Offline | Special Thanks |
 
-### Post-Sierra (1999–2016)
+### iWin and Later (2004–2016)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1999 | You Don't Know Jack: Offline | Sierra | Special Thanks |
 | 2004 | Jewel Quest | iWin | Designer, Engineer, Art |
 | 2005 | Mah Jong Quest | iWin | Systems Engineer |
 | 2006 | Jewel Quest (Xbox 360, Mac) | iWin | Designer, Engineer |
 | 2007 | Jewel Quest II | iWin | Designer, Lead Engineer |
 | 2007 | Jewel Quest Solitaire | iWin | Designer, Programmer |
 | 2007 | Jewel Quest Solitaire II | iWin | Designer, Programmer |
+| 2007 | Mah Jong Quest: Expeditions (Nintendo DS) | | Special Thanks (Engineering Consultant) |
 | 2008 | Jewel Quest III | iWin | Designer, Programmer, Producer |
+| 2008 | Mah Jong Quest III: Balance of Life | | Special Thanks (Engineering Consultant) |
+| 2009 | Jewel Quest III (Macintosh) | iWin | Game and Level Design, Programming, Producer |
 | 2009 | Jewel Quest IV: Heritage | iWin | Designer, Engineer, Producer |
 | 2009 | Jewel Quest Solitaire III | iWin | Original Concept |
 | 2011 | Deal or No Deal | iWin | Creative Producer, Game Designer, Lead Engineer |
 | 2016 | Jewel Quest: Seven Seas | iWin | Creative Producer, Designer |
+
+Credits from MobyGames.[^ref-mobygames] James Hague's *Giant List of Classic Game Programmers* independently indexes his Apple II and PC titles from Hi-Res Cribbage (1980) through Jones in the Fast Lane.[^ref-giantlist]
 
 ## References
 
@@ -156,3 +169,9 @@ The Hoyle series that began with his Volume 1 continued from 1989 to 2016.[^ref-
 [^ref-timezone-manual]: [Time Zone manual (Internet Archive, MOCAGH scan, text)](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) — Names Schwader in the development team; "new color fill routines, designed by Warren Schwader"
 [^ref-retrogamer94]: [Wizwords - Jones in the Fast Lane (adapted from Retro Gamer issue 94)](http://www.wizwords.net/jones-in-the-fast-lane) — Interview with Schwader: Jones "was in text form" when acquired; "Jones had a four-person design team"
 [^ref-halcyon-book]: [Halcyon Days, front page (James Hague)](https://dadgum.com/halcyon/) — "Halcyon Days ... was released in March 1997"; Hague began contacting interviewees in 1995
+[^ref-filfre]: [The Digital Antiquarian - Time Zone (2012)](https://www.filfre.net/2012/06/time-zone/) — Describes "an action-game maestro named Warren Schwader" brought in "to dramatically speed up the rendering of the graphics"
+[^ref-wikipedia-threshold]: [Wikipedia - Threshold (1981 video game)](https://en.wikipedia.org/wiki/Threshold_(1981_video_game)) — Designed by Schwader; Apple II version programmed with Ken Williams; Atari 2600 port 1982
+[^ref-wikipedia-sammy]: [Wikipedia - Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot) — Apple II and C64 1983, ColecoVision 1984, PC-88 1985; unfinished sequel Sammy's Icehouse
+[^ref-wikipedia-bowling]: [Wikipedia - Bowling (solitaire)](https://en.wikipedia.org/wiki/Bowling_(solitaire)) — "designed by Warren Schwader" for Hoyle Official Book of Games Vol 2: Solitaire (Wikipedia gives 1988)
+[^ref-retro365-sammy]: [Retro365 - Sammy Lightfoot: from violence to light-hearted action (2022)](https://retro365.blog/2022/08/17/bits-from-my-personal-collection-sammy-lightfoot-from-violence-to-light-hearted-action/) — Threshold royalties of nearly a hundred thousand dollars; Sammy Lightfoot development notes
+[^ref-giantlist]: [Hague - Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) — Index entry for Schwader, Warren: Hi-Res Cribbage (1980), Thrilogy (1981), Threshold, Sammy Lightfoot, Hoyle 1–3, Jones in the Fast Lane
