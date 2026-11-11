@@ -7,33 +7,33 @@ headquarters: "Syracuse, New York, United States"
 notable_games: ["Quest for Infamy", "Order of the Thorne: The King's Challenge"]
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Infamous Quests is an independent adventure game developer based in Syracuse, New York. Steven Alexander and Shawn Mills founded it in 2012.[^ref-3][^ref-9] The two had earlier run [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures. They set up Infamous Quests "in order to separate it from their free fan-remake development company".[^ref-9] Its games are *Quest for Infamy* (2014), inspired by Sierra's Quest for Glory series, and *Order of the Thorne: The King's Challenge* (2016).[^ref-9][^ref-1]
 
-The studio is no longer a full-time developer. In an October 2025 Patreon post, Alexander wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company". Its two remaining announced games, *Roehm to Ruin* and *Fortress of Fire*, are unreleased.[^ref-21]
+The studio is no longer a full-time developer. In an October 2025 post on the studio's Patreon (the account's Bluesky bio reads "Posts by Steven Alexander"), the studio wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company". Its two remaining announced games, *Roehm to Ruin* and *Fortress of Fire*, are unreleased.[^ref-21][^ref-36] In July 2026 posts on the studio's Bluesky account, Alexander said his desire to work on games "has been in a waning phase all year" and that "I find my heart not in it as much as it used to be".[^ref-34][^ref-35]
 
 ## History
 
 ### Origins at Infamous Adventures
 
-Before Infamous Quests, Alexander and Mills ran [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures, among them *King's Quest III* and *Space Quest II*.[^ref-9][^ref-10][^ref-18] A 2014 Sierra Help forum post called Infamous Quests "the professional reincarnation of Infamous Adventures".[^ref-18]
+Before Infamous Quests, Alexander and Mills ran [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures, among them *King's Quest III* and *Space Quest II*.[^ref-9][^ref-10][^ref-18] Hardcore Gaming 101 describes the two as regulars in the mid-2000s on the forums of Tierra, the fan group now known as AGD Interactive, which had made remakes of *King's Quest I* and *II*.[^ref-33] A 2014 Sierra Help forum post called Infamous Quests "the professional reincarnation of Infamous Adventures".[^ref-18]
 
 ### Quest for Infamy (2012–2014)
 
-The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 from 1,656 backers on Kickstarter.[^ref-9][^ref-24] It was released on 10 July 2014, and [[Phoenix Online Publishing]] published it on Steam.[^ref-19][^ref-26]
+The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 from 1,656 backers on Kickstarter.[^ref-9][^ref-24] It was released on 10 July 2014, and [[Phoenix Online Publishing]] published it on Steam.[^ref-19][^ref-26] Infamous Quests released it on GOG itself the same day.[^ref-30] Ratalaika Games published the PlayStation 4, PlayStation 5, Xbox One, Xbox Series and Nintendo Switch versions on 4 March 2022, according to MobyGames.[^ref-32]
 
 ### Order of the Thorne and Roehm to Ruin (2015–present)
 
-In March 2015 Infamous Quests announced *Order of the Thorne: The King's Challenge* and a *Quest for Infamy* prequel, *Roehm to Ruin*. A Kickstarter for both succeeded on 3 May 2015, raising $30,943 from 836 backers,[^ref-25] and the studio then added a third game, *Order of the Thorne: Fortress of Fire*.[^ref-9] *The King's Challenge* was released on 26 January 2016.[^ref-1][^ref-22][^ref-27]
+In March 2015 Infamous Quests announced *Order of the Thorne: The King's Challenge* and a *Quest for Infamy* prequel, *Roehm to Ruin*. A Kickstarter for both succeeded on 3 May 2015, raising $30,943 from 836 backers,[^ref-25] and the studio then added a third game, *Order of the Thorne: Fortress of Fire*.[^ref-9] *The King's Challenge* was released on 26 January 2016, self-published on Steam and GOG.[^ref-1][^ref-22][^ref-27][^ref-31]
 
-In the October 2025 Patreon post, Alexander wrote that the game's "financial turnout… was, to say, way under expectations". He said that "Most folks moved on to other jobs" and that for a long time he had been the main person working on the remaining games. *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm.[^ref-21] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines.[^ref-23] Its itch.io page still lists *Roehm to Ruin* as "In development".[^ref-28] *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5] In September 2026 it posted on Bluesky: "RetroGameCon in Syracuse is this weekend and we have a booth!"[^ref-29]
+In the October 2025 Patreon post, the studio wrote that the game's "financial turnout… was, to say, way under expectations". The post said that "Most folks moved on to other jobs" and that for a long time "it has been primarily me doing any work on these games". *Roehm to Ruin* "has been completed for a while, except for some voice acting", above all sessions with the lead actor for Roehm.[^ref-21] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines.[^ref-23] Its itch.io page still lists *Roehm to Ruin* as "In development".[^ref-28] *Fortress of Fire* "is in a real state of limbo".[^ref-21] The vault tracks both as [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] and [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]]. The studio also has a Patreon page.[^ref-5] In September 2026 it posted on Bluesky: "RetroGameCon in Syracuse is this weekend and we have a booth!"[^ref-29]
 
 ## Notable Games
 
@@ -51,12 +51,18 @@ In *The King's Challenge*, the player guides Finn the bard "on his quest to writ
 - **Steven Alexander**: co-founder. He is credited on *The King's Challenge* as producer, writer and programmer.[^ref-9][^ref-22]
 - **James Broom**: listed by Wikipedia as a key person. He is credited on *The King's Challenge* as writer and animator.[^ref-9][^ref-22]
 
+## Legacy
+
+Hardcore Gaming 101 reports that *Quest for Infamy* "was honored with four Adventure Game Studio awards in 2014, including a Best Character award for Roehm", though "sales didn’t quite make up for the huge amount of work required to create the game".[^ref-33] Wikipedia adds that the game made Time magazine's list of "20 Video Games To Watch for Summer 2014" in June 2014.[^ref-9] Two Kickstarter campaigns raised $63,281 and $30,943 from 1,656 and 836 backers.[^ref-24][^ref-25]
+
 ## Games
 
-- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Genre: Adventure/RPG
-- **2016** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Genre: Adventure
-- **TBA** — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — unreleased[^ref-21]
-- **TBA** — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — unreleased, "in a real state of limbo" (Oct 2025)[^ref-21]
+| Year | Game | Genre |
+|------|------|-------|
+| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Adventure/RPG |
+| 2016 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Adventure |
+| TBA | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] (unreleased)[^ref-21] | Adventure/RPG |
+| TBA | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] (unreleased; "in a real state of limbo", Oct 2025)[^ref-21] | Adventure |
 
 ## References
 
@@ -77,3 +83,10 @@ In *The King's Challenge*, the player guides Finn the bard "on his quest to writ
 [^ref-27]: [Steam - The Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/425600/) — Developer and publisher: Infamous Quests; Release Date: Jan 26, 2016
 [^ref-28]: [itch.io - Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) — Status: "In development"
 [^ref-29]: [Bluesky - Infamous Quests (28 Sep 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r) — "RetroGameCon in Syracuse is this weekend and we have a booth!"
+[^ref-30]: [GOG - Quest for Infamy](https://www.gog.com/en/game/quest_for_infamy) — brand Infamous Quests; release date 2014-07-10
+[^ref-31]: [GOG - Order of the Thorne: The King's Challenge](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) — brand Infamous Quests; release date 2016-01-26
+[^ref-32]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) — read via the MobyGames API: PS4, PS5, Xbox One, Xbox Series, Switch 2022-03-04; Windows 2014-07-10; Mac and Linux 2014-08-11
+[^ref-33]: [Hardcore Gaming 101 - Quest for Infamy (Wayback copy)](https://web.archive.org/web/20261018214647/https://www.hardcoregaming101.net/quest-for-infamy/) — "honored with four Adventure Game Studio awards in 2014"; sales; Tierra background
+[^ref-34]: [Bluesky - Infamous Quests (21 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) — "my desire to do so has been in a waning phase all year" (only this phrase is cited)
+[^ref-35]: [Bluesky - Infamous Quests (22 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n) — "I find my heart not in it as much as it used to be."
+[^ref-36]: [Bluesky - Infamous Quests profile](https://bsky.app/profile/infamousquests.bsky.social) — bio reads "Posts by Steven Alexander" (read via the Bluesky public API)
