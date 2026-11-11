@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Softporn Adventure", "BC's Quest for Tires", "Frogger", "Leisure Suit Larry in the Land of the Lounge Lizards"]
 companies: ["Blue Sky Software", "Sierra On-Line", "Technology Systems Inc."]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Chuck Benton
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Chuck Benton (listed as Charles Benton in some databases) is an American programmer from Massachusetts who wrote *Softporn Adventure* (1981), the text adventure that Sierra later remade as *Leisure Suit Larry in the Land of the Lounge Lizards*.[^ref-5][^ref-1][^ref-19] Sierra (then On-Line Systems) published the game;[^ref-2] Benton recalled that "Online Systems was always a graphics based game company, with my game being the only text adventure ever in their line up."[^ref-3] Benton said his goal was "to make every space have multiple features and ideally to make the game lean toward being an interactive story as opposed to a puzzle."[^ref-3]
+Chuck Benton (listed as Charles Benton in some databases) is an American programmer from Massachusetts who wrote *Softporn Adventure* (1981), the text adventure that Sierra later remade as *Leisure Suit Larry in the Land of the Lounge Lizards*.[^ref-5][^ref-1] Sierra (then On-Line Systems) published the game;[^ref-2] Benton recalled that "Online Systems was always a graphics based game company, with my game being the only text adventure ever in their line up."[^ref-3] Benton said his goal was "to make every space have multiple features and ideally to make the game lean toward being an interactive story as opposed to a puzzle."[^ref-3]
 
 He then worked as a contract programmer for Sierra in the early 1980s, porting and programming Frogger, Crossfire, BC's Quest for Tires, Donald Duck's Playground and other titles.[^ref-4][^ref-3] He was never a Sierra employee: "At the time, I was an independent contractor and worked out of Maine, and every couple of months I'd fly out and deliver the next product."[^ref-3] He later founded Technology Systems, Inc. (TSI), which worked mainly on simulation and networking projects for the military.[^ref-16][^ref-3]
 
@@ -67,7 +67,7 @@ During COVID he co-wrote three thriller novels with author Steven Becker: *The A
 
 ### Softporn Adventure (1981)
 
-*Softporn Adventure* is a text adventure in which the player tries to win over three women.[^ref-1][^ref-3] Benton sold the first version himself: "I made 1000 and sold 100," he told Get Lamp.[^ref-5] The box cover's hot tub photo was Ken Williams's idea, according to historian Laine Nooney, and was shot at the Williamses' home; the women in it were Sierra staff, Roberta Williams among them.[^ref-14][^ref-1][^ref-5] Time ran a story mentioning the game on October 5, 1981, by which point 4,000 copies had been sold; Benton recalled his mother's reaction to the article: "oh, now everybody knows…"[^ref-14][^ref-3] Get Lamp puts total sales "up past the 50,000 mark."[^ref-5] Benton said On-Line's sales rose because customers "came in and bought multiples of their product line, to hide the fact that they only wanted Softporn Adventure."[^ref-3]
+*Softporn Adventure* is a text adventure in which the player tries to win over three women.[^ref-1][^ref-3] Softline's January 1982 review credits Benton and Blue Sky Software as the authors and names Chris Iden of Yosemite Software Products for the [Atari] version, so Benton is the original author and the Atari conversion is credited to Iden; MobyGames, by contrast, lists Benton as writer of the Atari release.[^ref-26][^ref-4] Benton sold the first version himself: "I made 1000 and sold 100," he told Get Lamp.[^ref-5] The box cover's hot tub photo was Ken Williams's idea, according to historian Laine Nooney, and was shot at the Williamses' home; the women in it were Sierra staff, Roberta Williams among them.[^ref-14][^ref-1][^ref-5] Time ran a story mentioning the game on October 5, 1981, by which point 4,000 copies had been sold; Benton recalled his mother's reaction to the article: "oh, now everybody knows…"[^ref-14][^ref-3] Get Lamp puts total sales "up past the 50,000 mark."[^ref-5] Benton said On-Line's sales rose because customers "came in and bought multiples of their product line, to hide the fact that they only wanted Softporn Adventure."[^ref-3]
 
 Nooney writes that Benton "claims parts of the game were drawn from his own experience, but has never fessed up to which parts"; Get Lamp files one interview clip under the title "It's Semi-Autobiographical."[^ref-14][^ref-5]
 
@@ -95,7 +95,7 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 
 ### Blue Sky Software / Independent (1981–1982)
 
-- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Atari 8-bit, Role: Writer (designer, programmer)
+- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Role: Writer (designer, programmer); Softline's January 1982 review credits the game "By Chuck Benton, Blue Sky Software. [Atari] version by Chris Iden, Yosemite Software Products," while MobyGames lists Benton as writer of the Atari 8-bit release[^ref-26][^ref-4]
 - 1982 — Jump Jet — Apple II — Author (distributed by Avant-Garde Creations)
 
 ### Sierra On-Line Contract Work (1982–1984)
@@ -142,3 +142,4 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 [^ref-23]: [FRGCB - Donald Duck's Playground (US Gold/Sierra On-Line, 1984) (April 2014)](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) — "Written by Al Lowe for the Commodore 64"
 [^ref-24]: [MobyGames - The American Challenge: A Sailing Simulation](https://www.mobygames.com/game/1467/the-american-challenge-a-sailing-simulation/) — read via the MobyGames API: DOS 1986-05; published by Mindscape, developed by Tom Snyder Productions
 [^ref-25]: [Electronic Games, Vol. 2 No. 12 (May 1984), Internet Archive scan](https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-05_Reese_Communications_US) — review of B.C.'s Quest for Tires (Sierra On-Line, Atari computers): "Programmer Chuck Benton has translated all of the comic strip's considerable charm"
+[^ref-26]: [Softline, January 1982 (Internet Archive scan)](https://archive.org/details/Softline_1982_01) — Softporn review header: "By Chuck Benton, Blue Sky Software. [Atari] version by Chris Iden, Yosemite Software Products" (OCR reads "Aran" and "Yosemire")
