@@ -5,21 +5,21 @@ founded: 2012
 headquarters: "Syracuse, New York, United States"
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Infamous Quests is an independent adventure game studio in Syracuse, New York, founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]].[^ref-1][^ref-3] Infamous Adventures had made free Sierra remakes; Infamous Quests makes original commercial adventure games.[^ref-1][^ref-2][^ref-18] A 2014 Sierra Help forum post called the new studio "the professional reincarnation of Infamous Adventures".[^ref-22] The studio is no longer a full-time developer: in an October 2025 Patreon post Alexander wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company".[^ref-16] It has stayed active on a smaller scale: in September 2026 it posted that it would have a booth at RetroGameCon in Syracuse.[^ref-21]
+Infamous Quests is an independent adventure game studio in Syracuse, New York, founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]].[^ref-1][^ref-18] Infamous Adventures had made free Sierra remakes; Infamous Quests makes original commercial adventure games.[^ref-1][^ref-2][^ref-18] A 2014 Sierra Help forum post called the new studio "the professional reincarnation of Infamous Adventures".[^ref-22] The studio is no longer a full-time developer: in an October 2025 post on the studio's Patreon (the account's Bluesky bio reads "Posts by Steven Alexander"), the studio wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company".[^ref-16] In July 2026 posts on the studio's Bluesky account, Alexander said his desire to work on games "has been in a waning phase all year" and that "I find my heart not in it as much as it used to be".[^ref-25][^ref-26] It has stayed active on a smaller scale: in September 2026 it posted that it would have a booth at RetroGameCon in Syracuse.[^ref-21]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Quests|Infamous Quests (Developer)]].
 
 ## Publishing History
 
-The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, raising $63,281 from 1,656 backers against a $25,000 goal.[^ref-3] On PC, *Quest for Infamy*'s Steam release was published by **Phoenix Online Publishing** on 10 July 2014; Infamous Quests published the GOG and itch.io releases itself. Ratalaika Games published the 2022 console ports.[^ref-4][^ref-17][^ref-5][^ref-23] Infamous Quests self-published *Order of the Thorne: The King's Challenge* on 26 January 2016.[^ref-7][^ref-8]
+The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, raising $63,281 from 1,656 backers against a $25,000 goal.[^ref-3] On PC, *Quest for Infamy*'s Steam release was published by **Phoenix Online Publishing** on 10 July 2014; Infamous Quests published the GOG and itch.io releases itself. Ratalaika Games published the 2022 console ports.[^ref-4][^ref-17][^ref-5][^ref-23] A second Kickstarter, for *Order of the Thorne* and *Roehm to Ruin*, ran from 3 April to 3 May 2015 and raised $30,943 from 836 backers.[^ref-27] Infamous Quests self-published *Order of the Thorne: The King's Challenge* on 26 January 2016.[^ref-7][^ref-8][^ref-28]
 
 ## Games Published
 
@@ -51,3 +51,7 @@ The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, ra
 [^ref-22]: [Sierra Help Forums - "Quest for Infamy Released" (Wayback, Sep 2014)](http://web.archive.org/web/20140908005914/http://sierrahelp.com/forums/viewtopic.php?f=24&t=3989) - "Infamous Quests is the professional reincarnation of Infamous Adventures"
 [^ref-23]: [itch.io - Quest for Infamy](https://infamousquests.itch.io/quest-for-infamy) - Sold by author Infamous Quests; status Released; Windows, macOS, Linux
 [^ref-24]: [itch.io - Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) - Author Infamous Quests; status "In development"
+[^ref-25]: [Bluesky - Infamous Quests (21 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) - "my desire to do so has been in a waning phase all year" (only this phrase is cited)
+[^ref-26]: [Bluesky - Infamous Quests (22 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n) - "I still try to plug away at it, but I find my heart not in it as much as it used to be."
+[^ref-27]: [Kickstarter - "Order of the Thorne" & "Roehm To Ruin" by Infamous Quests](https://www.kickstarter.com/projects/infamousquests/order-of-the-thorne-and-roehm-to-ruin-by-infamous) - Successful; launched 2015-04-03, deadline 2015-05-03; $30,943 pledged, 836 backers
+[^ref-28]: [GOG - Order of the Thorne: The King's Challenge](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) - Publisher Infamous Quests; release date 2016-01-26
