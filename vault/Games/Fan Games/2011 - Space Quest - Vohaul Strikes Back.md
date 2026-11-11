@@ -10,15 +10,17 @@ series: Space Quest
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel
-  to Sierra On-Line''s Space Quest series, developed by a volunteer team known
-  as...'
+  to Sierra On-Line''s Space Quest series, developed by the volunteer Team VSB in
+  Adventure Game Studio. Released free on December 22, 2011 after more than nine
+  years of work, it sends Roger Wilco to the ice world of Radon to face a resurrected
+  Sludge Vohaul.'
 tags: [2010s, adventure, sierra, space-quest]
 ---
 # Space Quest: Vohaul Strikes Back
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,9 +43,9 @@ The game was distributed entirely free of charge, as Team VSB never obtained off
 
 ## Story Summary
 
-Adventure Gamers' Rob Murrant places the game "immediately after Vohaul's defeat in Space Quest IV", where Vohaul's minions back him up to disk just before the destruction of the mainframe he inhabited; meanwhile, Roger Wilco is vacationing with his girlfriend Beatrice Wankmeister on the planet Romanticon VII.[^ref-11] Their peaceful getaway is interrupted when gorilla soldiers discover a floppy disk containing a backup of Sludge Vohaul's consciousness, setting in motion the villain's resurrection and return to villainy.[^ref-12] Beatrice, who is revealed to be pregnant and hoping to marry Roger, watches as her paramour is once again pulled into cosmic conflict.[^ref-13]
+Adventure Gamers' Rob Murrant places the game "immediately after Vohaul's defeat in Space Quest IV", where Vohaul's minions back him up to disk just before the destruction of the mainframe he inhabited; meanwhile, Roger Wilco is vacationing with his girlfriend Beatrice Wankmeister on the planet Romanticon VII.[^ref-11] Their peaceful getaway is interrupted when gorilla soldiers discover a floppy disk containing a backup of Sludge Vohaul's consciousness, setting in motion the villain's resurrection and return to villainy.[^ref-12] Beatrice, who is pregnant and Roger's bride-to-be according to Sierra Chest, watches as her paramour is once again pulled into cosmic conflict.[^ref-26][^ref-13]
 
-Vohaul, having been defeated twice before by the bumbling janitor, embarks on his most ambitious revenge scheme yet.[^ref-26] Roger finds himself transported to the ice world of Radon, where Vohaul has established his new base of operations with an army of simian commandos at his disposal.[^ref-3] The robot body housing Vohaul's consciousness is humorously powered by a hamster running in a wheel, maintaining the series' tradition of absurdist comedy.[^ref-13]
+Vohaul, having been defeated twice before by the bumbling janitor, embarks on his most ambitious revenge scheme yet.[^ref-26] Roger takes it upon himself to travel to the ice world of Radon, where Vohaul has established his new base of operations with an army of simian commandos at his disposal.[^ref-26][^ref-3] On arrival, the Aluminum Mallard is destroyed during an accidental missile launch and Beatrice is kidnapped by Vohaul's new right-hand man, Never Kenezer, leaving Roger to wander the desolate surface with his sidekick, The Narrator.[^ref-26] The robot body housing Vohaul's consciousness is humorously powered by a hamster running in a wheel, maintaining the series' tradition of absurdist comedy.[^ref-13]
 
 As Roger navigates the treacherous frozen landscape and infiltrates Vohaul's fortress, he encounters the planet's natives, the Furkunz, who have been oppressed by the mad scientist's regime.[^ref-15] The janitor-turned-hero must rally these natives in revolution while solving puzzles and avoiding the countless deadly traps that await him at every turn. A choice will ultimately be made as "Roger delves into the depths of madness to challenge Vohaul in the ultimate mind game and restore peace to the planet."[^ref-26]
 
@@ -232,7 +234,7 @@ As a free fan game, Space Quest: Vohaul Strikes Back generated no direct revenue
 
 Space Quest: Vohaul Strikes Back earned recognition at the 2011 AGS Awards, the Adventure Game Studio community's annual celebration of fan-made adventures:[^ref-22]
 
-- **Winner:** Best Non-Player Character (2011 AGS Awards)
+- **Winner:** Best Non-Player Character, awarded for the character Rodney (2011 AGS Awards)[^ref-29]
 - **Nominee:** Best Gameplay (2011 AGS Awards)
 - **Nominee:** Best Background Art (2011 AGS Awards)
 - **Nominee:** Best Sound Effects (2011 AGS Awards), as listed on the AGS game page in 2013;[^ref-27] the nomination is absent from the AGS Awards 2011 wiki's Sound Effects list[^ref-22] and from the current AGS game page[^ref-3]
@@ -255,7 +257,7 @@ The game included a PDF manual accessible through the start menu folder, providi
 
 Adventure Gamers' Rob Murrant listed what it lacked ("cinematic cutscenes, voiceovers and perhaps a slightly more coherent art style") and wrote that "With these things it quite possibly could have passed for a commercial game".[^ref-11] The project was built by volunteers in their spare time over more than nine years.[^ref-1]
 
-Its release alongside two other major Space Quest fan projects in the same month was, in Rock, Paper, Shotgun's words, "unprecedented" for a dormant classic series—evidence that Roger Wilco's adventures remained relevant nearly two decades after Sierra's final official entry.[^ref-5]
+Sierra Chest notes that its release was followed by two other full-length Space Quest fan games, Space Quest 2 VGA and Space Quest: Incinerations, "all within a month's time."[^ref-26] Rock, Paper, Shotgun called that run of fan releases "unprecedented."[^ref-5]
 
 Just Adventure's Greg Collins described it as a "professionally wrought AGS adventure that probably took thousands of man-woman-robot hours to lovingly complete."[^ref-18]
 
@@ -278,8 +280,8 @@ Space Quest: Vohaul Strikes Back positions itself as a direct sequel to the offi
 Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6,"[^ref-11] while the narrative tone is characterized as "Lighter and Softer" than the canonical entries.[^ref-12] The project includes numerous references and callbacks to the official series, with Space Quest 3 music appearing in the end credits.[^ref-7]
 
 **Fan Game Timeline:**
-- **Previous:** N/A (first of the Vohaul Strikes Back / Incinerations continuity; earlier Space Quest fan games include [[2001 - Space Quest - The Lost Chapter]] and [[2003 - Space Quest 0 - Replicated]])
-- **Next:** Space Quest: Incinerations (2012)
+- **Previous:** N/A (first of the Vohaul Strikes Back / Incinerations continuity)
+- **Next:** [[2012 - Space Quest - Incinerations]] (2012)
 
 ## See Also
 
@@ -322,3 +324,4 @@ Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6
 [^ref-25]: [Internet Archive – Space Quest: Vohaul Strikes Back](https://archive.org/details/space-quest-vohaul-strikes-back) – preservation download, release metadata
 [^ref-27]: [Adventure Game Studio – Game #1509 (Archived April 2013)](https://web.archive.org/web/20130402140141/http://www.adventuregamestudio.co.uk/site/games/game/1509/) – 91% Overall Enjoyment from 11 ratings; AGS Awards 2011 win and nominations incl. Best Sound Effects
 [^ref-28]: [Team VSB – FAQ (current)](https://www.sqvsb.com/faq/) – Linux installer and Mac Wine-wrapped version
+[^ref-29]: [Team VSB – Official site](https://www.sqvsb.com/) – "Winner for Best Non-Player Character (Rodney) at the 2011 AGS Awards"
