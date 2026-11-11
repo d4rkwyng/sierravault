@@ -10,15 +10,16 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
-  in the...
+  in 2053, it follows former police detective William 'Blade' Hunter as he investigates
+  the death of the mayor's daughter, linked to a dangerous new drug called MTZ.
 tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Rise of the Dragon
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,11 +42,11 @@ One MobyGames reviewer summed it up as "basically the playable version of an iss
 
 ## Story Summary
 
-The year is 2053, and Los Angeles has plunged headlong into the Age of Decay.[^ref-33] The once-great city is now overrun by crime, pollution, poverty, drugs, and prostitution.[^ref-45] Against this bleak backdrop, the mayor's rebellious daughter Chandra Vincenzi is found dead and horribly mutated after experimenting with a new designer drug called MTZ.[^ref-2] The authorities are baffled by the mysterious substance that caused her gruesome transformation, and the mayor turns to unconventional means to find answers.
+The year is 2053, and Los Angeles has plunged headlong into the Age of Decay.[^ref-33] The once-great city is now overrun by crime, pollution, poverty, drugs, and prostitution.[^ref-45] Against this bleak backdrop, the mayor's rebellious daughter Chandra Vincenzi is found dead and horribly mutated after experimenting with a new designer drug called MTZ.[^ref-2] Blade is called upon to track down those responsible.[^ref-2]
 
 Enter William "Blade" Hunter, a former L.A. police detective whose unorthodox methods forced him into early retirement.[^ref-47] Despite his checkered past with law enforcement, Blade is approached by Mayor Vincenzi, who tells him: "Your low regard for property rights and callous disregard of accepted operation procedure which served you poorly as a police officer make you an ideal candidate for this job."[^ref-50] The investigation must remain strictly unofficial, and the mayor's concern reaches well beyond his daughter: in the best ending he admits, "I can live with the sacrifice of two people if it means fourteen million can be saved."[^ref-50]
 
-As Blade delves deeper into the case, he finds that the MTZ business is part of an underground Chinese Mafia operation led by Deng Hwang, a drug kingpin intent on world domination.[^ref-2] The MTZ drug turns out to be part of a much more dangerous plot.[^ref-2] The investigation takes Blade through the seedy underbelly of future Los Angeles—from underground nightclubs like the Pleasure Dome to the headquarters of Deng Hwang Enterprises—as he races against time to prevent catastrophe.
+As Blade delves deeper into the case, he finds that the MTZ business is part of an underground Chinese Mafia operation led by Deng Hwang, a drug kingpin intent on world domination.[^ref-2] The MTZ drug turns out to be part of a much more dangerous plot.[^ref-2] The investigation takes Blade from Chen Lu's apartment to Deng Hwang's headquarters, as he works to stop the Triad's plan to poison the Hollywood reservoir with MTZ.[^ref-2]
 
 > [!warning]- Plot Spoiler - Villain's Plan
 > Blade eventually comes face-to-face with Deng Hwang, who transforms into the dragon Bahumat; Blade defeats him in a climactic final battle.[^ref-2]
@@ -62,18 +63,14 @@ The game came packaged with a comic book that continues where the introduction l
 
 ### Structure and Progression
 
-Unlike most adventure games of the time, Rise of the Dragon operates in a living environment where events occur, shown through cut scenes, whether the player is present or not.[^ref-45] The game features an internal clock that updates every five seconds, with each of Blade's actions consuming a certain amount of time.[^ref-44] Some game events will only occur at particular times, requiring players to plan their movements strategically.
+Unlike most adventure games of the time, Rise of the Dragon operates in a living environment where events occur, shown through cut scenes, whether the player is present or not.[^ref-45] The game features an internal clock that updates every five seconds, with each of Blade's actions consuming a certain amount of time.[^ref-44] Some game events will only occur at particular times, requiring players to plan their movements strategically.[^ref-2]
 
-Blade's day typically begins at noon and ends at 1 AM when he must return home to sleep.[^ref-23] The game spans multiple in-game days, with time-sensitive events creating genuine tension and consequence for player decisions. Amiga Power counted "85 detail-packed locations" across futuristic Los Angeles.[^ref-48]
+Blade's day typically begins at noon and ends at 1 AM when he must return home to sleep.[^ref-23] Wikipedia notes that the game ends after only three days if the villains' plans are not delayed.[^ref-2] Amiga Power counted "85 detail-packed locations" across futuristic Los Angeles.[^ref-48]
 
 **Key Locations:**
-- **Blade's Apartment:** The starting location and home base
-- **City Hall:** Where Blade receives his assignment from the Mayor
-- **The Warehouse:** A location connected to the drug trade
-- **The Pleasure Dome:** An underground nightclub
-- **Chen Lu's Apartment:** Home of an informant
-- **Johnny Qwong's Residence:** Another key character location
-- **The Reservoir:** Site of important discoveries
+- **Chen Lu's Apartment:** Where Blade finds the dealer Chen Lu assassinated with an overdose of MTZ[^ref-2]
+- **The Pleasure Dome:** A nightclub; the David Wolf cameo appears outside it[^ref-3]
+- **The Reservoir:** The Hollywood reservoir that the Triad plans to poison with MTZ[^ref-2]
 - **Deng Hwang Enterprises:** The antagonist's headquarters[^ref-15]
 
 ### Puzzles and Mechanics
@@ -95,6 +92,8 @@ European gaming magazines were particularly enthusiastic. Datormagazin awarded t
 *Computer Gaming World*'s review concluded that "Blade Hunter: Rise of the Dragon is not only an outstanding product in its own right, but points the way for the future of graphic adventures."[^ref-46] Jim Trunzo of White Wolf magazine wrote that "Rise of the Dragon mesmerizes the gamer, drawing him into the story within the first half hour of play."[^ref-2]
 
 Not all reviews were uniformly positive. Amiga Power's Jonathan Davies awarded 79%, describing the game as "not quite a first-rate cinemathingumy game, but is definitely up there with the best of the second rate ones."[^ref-48] Davies also called the game "startlingly unoriginal" while acknowledging it "somehow manages to come out of it looking like a pretty impressive game."[^ref-48] Amiga Joker gave the Amiga version 29% when played without a hard disk and 74% with one.[^ref-21]
+
+Further scores listed by the Amiga Magazine Rack include Svenska Hemdatornytt (Amiga) 90% (Derek dela Fuente, November 1991), Zero (Amiga) 86% (Amaya Lopez, November 1991), Amiga Action (Amiga) 86% (Alan Bunker, May 1992), CU Amiga (Amiga) 79% (Matt Regan, November 1991), *ACE: Advanced Computer Entertainment* (PC) 850 (Jim Douglas, March 1991), and Datormagazin (PC) 4/5 (Göran Fröjdh, April 1991).[^ref-21]
 
 ### Modern Assessment
 
@@ -129,6 +128,7 @@ The game was coded in Turbo C++ and built using the Dynamix Game Development Sys
 - **Art Direction:** [[Randy Dersham]]
 - **Conceptual Art and Characters:** Robert Caracol
 - **Game Development System:** Richard Rayl, Dariusz Lukaszuk, [[Kevin Ryan]]
+- **Music:** Don Latarski (original score), Christopher Stevens (music), Noriyuki Iwadare (Sega CD)[^ref-2]
 
 ### Technical Achievements
 
@@ -159,8 +159,8 @@ The game supported multiple sound systems including AdLib, Sound Blaster, Roland
 **Sega CD Version:**[^ref-3]
 - **Port:** Game Arts[^ref-44][^ref-11]
 - **Colors:** 64 on-screen (reduced from DOS)[^ref-11]
-- **Audio:** CD-quality music, full voice acting
-- **Rating:** MA-17 (Videogame Rating Council)
+- **Audio:** Voice acting added; Sega CD music by Noriyuki Iwadare[^ref-2]
+- **Rating:** MA-17 (Videogame Rating Council)[^ref-2]
 
 ### Cut Content
 
@@ -174,7 +174,7 @@ The Sega CD version underwent content modifications due to its MA-17 rating from
 | — | 1991 | Amiga | Amiga release on 10 disks[^ref-30] |
 | — | September 1991 | Macintosh | Mac OS port (MobyGames gives 1991 only)[^ref-2][^ref-44] |
 | — | September 25, 1992 | Mega CD | Japanese release published by Sega, ported by Game Arts[^ref-44][^ref-11] |
-| — | 1993 or March 1994 | Sega CD | North American release with English voice acting; Wikipedia and MobyGames give 1993,[^ref-2][^ref-44] Sega Retro gives 1994-03 at $49.99[^ref-11] |
+| — | 1993 and 1994 | Sega CD | United States releases published by Dynamix with voice acting; MobyGames lists both a 1993 and a 1994 US release,[^ref-44] Wikipedia gives 1993,[^ref-2] and Sega Retro gives 1994-03 at $49.99[^ref-11] |
 | — | November 8, 2017 | Windows (DOSBox) | Digital re-release by Activision[^ref-26] |
 
 **DGDS Engine Versions:**[^ref-3]
@@ -230,7 +230,7 @@ Rise of the Dragon was a commercial hit; Craig Ritchie of *Retro Gamer* later ca
 
 ### Collections
 
-The game was re-released digitally on GOG.com and through Activision in 2017, running via DOSBox emulation on modern Windows systems.[^ref-33] The GOG.com version includes the original DOS release in its 256-color VGA form.
+The game was re-released digitally on GOG.com and through Activision in 2017, running via DOSBox emulation on modern Windows systems.[^ref-33]
 - Included in the *Sierra Award Winners* compilation (1992).[^ref-44][^ref-45]
 
 ### Fan Projects
@@ -253,7 +253,6 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 
 **ScummVM Support**
 - Supported since ScummVM 2.9.0 (December 22, 2024)[^ref-43]
-- Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
 **Download / Preservation**
@@ -277,7 +276,7 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 
 ## References
 
-[^ref-2]: [Wikipedia – Rise of the Dragon](https://en.wikipedia.org/wiki/Rise_of_the_Dragon) — Plot summary and development history
+[^ref-2]: [Wikipedia – Rise of the Dragon](https://en.wikipedia.org/wiki/Rise_of_the_Dragon) — Plot summary, development history, gameplay, music credits (infobox)
 [^ref-3]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Rise_of_the_Dragon) — DGDS engine details, technical specifications, and ScummVM compatibility
 [^ref-4]: [Adventure Games Podcast – Rise of the Dragon Retrospective](https://adventuregamespodcast.com/podcast/2024/6/18/rise-of-the-dragon-retrospective-review-with-david-lambert) — Modern retrospective discussing Blade Runner influences
 [^ref-8]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) — "150 Best Games of All Time": #83 Rise of the Dragon
@@ -287,7 +286,7 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 [^ref-13]: [David Barr Kirtley – Rise of the Dragon Retrospective](http://davidbarrkirtley.com/2011/01/10/retrospective-rise-of-the-dragon/) — "INSANELY frustrating" retrospective
 [^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details, Deng Hwang conspiracy, fortune cookie puzzle
 [^ref-16]: [The Digital Antiquarian – Dynamix Adventures](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — Caracol's pen-and-ink art, "dodgy writing" assessment, reader comments
-[^ref-21]: [Amiga Magazine Rack – Rise of the Dragon reviews](https://amr.abime.net/review_9052) — Review score list: Datormagazin, Joystick, The One, Génération 4, Amiga Format, Amiga Joker, Amiga Power
+[^ref-21]: [Amiga Magazine Rack – Rise of the Dragon reviews](https://amr.abime.net/review_9052) — Review score list: Datormagazin, Joystick, The One, Génération 4, Svenska Hemdatornytt, Zero, Amiga Format, Amiga Action, ACE, Amiga Power, CU Amiga, Amiga Joker
 [^ref-23]: [Hardcore Gaming 101 – Rise of the Dragon](http://www.hardcoregaming101.net/rise-of-the-dragon/) — "Disposable pulp detective novel" assessment, "aged worse", arcade sequence criticism
 [^ref-25]: [Adventure Gamers – Rise of the Dragon](https://web.archive.org/web/20250610101430/https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 rating
 [^ref-26]: [PC Gaming Wiki – Rise of the Dragon](https://www.pcgamingwiki.com/wiki/Rise_of_the_Dragon) — GOG re-release date (November 8, 2017)
@@ -297,7 +296,7 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 [^ref-34]: MyAbandonware – Rise of the Dragon *(download link removed: the game is sold commercially)* — Preservation page; game page (checked 2026-10-16) carries the "Review By HOTUD" text quoted for the death scenes
 [^ref-42]: [ScummVM – Rise of the Dragon public testing (October 30, 2024)](https://www.scummvm.org/news/20241030/) — Public testing announcement, first DGDS game
 [^ref-43]: [ScummVM 2.9.0 Release Notes (December 22, 2024)](https://www.scummvm.org/news/20241222/) — Rise of the Dragon listed among newly supported games
-[^ref-44]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) — Description, critic/player ratings, user reviews, trivia, specs, compilation listing; releases: published by Sierra On-Line (DOS/Amiga/Mac), Sega CD ported by Game Arts (read via the MobyGames API)
+[^ref-44]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) — Description, critic/player ratings, user reviews, trivia, specs, compilation listing; releases: published by Sierra On-Line (DOS/Amiga/Mac); Sega CD ported by Game Arts, with a 1992-09-25 Japan release (Sega) and 1993 and 1994 US releases (Dynamix) (read via the MobyGames API)
 [^ref-45]: [Sierra Chest – Rise of the Dragon](https://www.sierrachest.com/index.php?a=games&id=377&fld=general) — Setting, multiple endings, Sega CD notes, Unreal 4 fan remake, Sierra Award Winners compilation
 [^ref-46]: [Computer Gaming World Issue 79 (February 1991)](https://archive.org/details/Computer_Gaming_World_Issue_79) — Contemporary review (Wyatt Lee); review box: "PUBLISHER: Dynamix (Division of Sierra)", $59.95
 [^ref-47]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Development history: 1988 concept, 11,000 man-hours, Dersham/Caracol, Cam Clarke
