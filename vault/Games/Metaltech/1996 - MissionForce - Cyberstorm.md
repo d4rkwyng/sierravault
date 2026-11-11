@@ -9,14 +9,15 @@ platforms: [PC, Windows 95]
 series: Earthsiege/Starsiege
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'MissionForce: CyberStorm is a turn-based strategy game developed by
-  Dynamix and published by Sierra On-Line in 1996. Set in the Earthsiege/Starsiege...'
+  Dynamix and published by Sierra On-Line in 1996. The player commands a Unitech
+  taskforce of HERC mechs and BioDerm pilots against the Cybrids.'
 tags: [1990s, earthsiege-starsiege, sierra, strategy]
 ---
 # MissionForce: CyberStorm
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -103,6 +104,11 @@ The game has been well regarded by retrospective writers. The patch author's itc
 
 Even GameSpot's positive review cautioned that "CyberStorm won't appeal to everyone. Its turn-based style will seem a little dry to action and real-time strategy fans"[^ref-9]. Among fans of the series, "gamers almost universally preferred this to the sequel, Cyberstorm 2: Corporate Wars"[^ref-20].
 
+**Aggregate Scores:**
+- **MobyGames:** 78% (critics' average)[^ref-7]
+- **GameSpot users:** 8.5/10[^ref-19]
+- **Home of the Underdogs:** 9.23[^ref-18]
+
 ## Development
 
 ### Origins
@@ -115,13 +121,30 @@ MobyGames credits the game design to John Garvin, Graeme Bayless, Don McClure, R
 
 The development team was responsive to player feedback. Introducing the v1.1 patch, Dynamix wrote: "Many of these features are a direct result of the great user requests and early feedback we received"[^ref-21]. The readme explains that the update was originally intended for a fall 1996 release, but was held back "due to some extra features we added and other tasks that were required to fine-tune our Holiday-products"[^ref-21]. The late-1996 patch added two new game modes, Hotseat and Play-by-EMail[^ref-1].
 
+**Development Credits:**[^ref-1]
+- **Producer:** Graeme Bayless
+- **Design:** John Garvin, Graeme Bayless, Don McClure, Robert Kraft, Stephen Cordon
+- **Programming:** Stephen Cordon
+- **Art:** John Garvin, Mike Jahnke, Shawn Sharp
+- **Writing:** Robert Kraft
+
 ### Technical Achievements
 
 CyberStorm ran in Super VGA 640x480 under Windows 95[^ref-15]. Network play included team games with or without Cybrid interference, a free-for-all for up to eight players, and a cooperative mode[^ref-9], and it was possible to play online via Sierra's WON.NET while the service was supported[^ref-7].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | June 1996 | Windows 95 | Original release[^ref-15] |
+| 1.1 | Late 1996 | Windows 95 | Added Hotseat and Play-by-EMail modes[^ref-1][^ref-21] |
+| GOG re-release | July 23, 2019 | Windows | Digital release by Activision on GOG.com[^ref-1][^ref-26] |
+
+Community patch notes also list a "lost homebrew" v1.2 alongside v1.0 and v1.1[^ref-23].
+
 ## Legacy
 
-PC Gamer UK named MissionForce the 53rd best computer game ever in 1997, calling it a "compelling strategy game", and in 1996 Computer Gaming World listed "the flesh burning off the bioderms" as #12 on its list of "the 15 best ways to die in computer gaming"[^ref-1]. Andy Butcher of Arcane wrote that "CyberStorm is excellent, and will be a tough act to follow for any other strategy-based 'big robot' game"[^ref-1]. Commercially, though, CyberStorm was "a limited commercial success"[^ref-1], and the Exiled wiki notes it "seems to have spawned no large fanbase or cult following unlike many other strategy-games of its time"[^ref-22].
+PC Gamer UK named MissionForce the 53rd best computer game ever in 1997, calling it a "compelling strategy game", and in 1996 Computer Gaming World listed "the flesh burning off the bioderms" as #12 on its list of "the 15 best ways to die in computer gaming"[^ref-1]. Andy Butcher of Arcane wrote that "CyberStorm is excellent, and will be a tough act to follow for any other strategy-based 'big robot' game"[^ref-1]. Commercially, though, CyberStorm was "a limited commercial success"[^ref-1].
 
 It sold well enough to spawn a 1998 sequel, Cyberstorm 2: Corporate Wars[^ref-1]. Fans "almost universally preferred this to the sequel"[^ref-20], which "tried to introduce real-time combat rather unsuccessfully" and replaced the hex-based map with a more open, RTS-like one[^ref-20].
 
@@ -173,7 +196,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-19]: [GameSpot User Reviews](https://www.gamespot.com/missionforce-cyberstorm/user-reviews/2200-443931/) – User ratings
 [^ref-20]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/197957-missionforce-cyberstorm/faqs/36624) – BattleTech-style comparison, sequel comparison
 [^ref-21]: [Internet Archive Patch](https://archive.org/details/CSTORM11_EXE) – Development feedback
-[^ref-22]: [The Exiled Wiki](https://wiki.theexiled.pwnageservers.com/index.php?title=MissionForce:_CyberStorm) – Release date, fanbase
+[^ref-22]: [The Exiled Wiki](https://wiki.theexiled.pwnageservers.com/index.php?title=MissionForce:_CyberStorm) – Release date
 [^ref-23]: [Name That Tech Blog](https://namethattech.wordpress.com/2016/01/18/fixing-up-old-computer-games/comment-page-1/) – Community patches (lists CyberStorm v1.0/v1.1)
 [^ref-25]: [GitHub Preservation Project](https://github.com/juanitogan/rbxit) – Community patches
 [^ref-26]: [Internet Archive GOG Release](https://web.archive.org/web/20190802012042/https://www.gog.com/news/release_missionforce_cyberstorm) – GOG release
