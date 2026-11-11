@@ -32,7 +32,7 @@ On December 21, 2004, Navarre announced that Encore had reached an exclusive lic
 
 ### Broderbund License
 
-On November 11, 2008, Navarre announced an expanded agreement giving Encore "the exclusive publishing rights in North American for the Broderbund(R) line of products in the retail, direct-to-consumer and OEM channels". Encore also took over online sales at Broderbund.com; before this it had exclusively distributed those titles in US and Canadian retail.[^ref-17][^ref-1] The archived release shows only "Nov. 11"; the year comes from Wikipedia and fits the two Encore–Riverdeep licence agreements (a "Channel License Agreement" and a manufacturing-rights licence) that Navarre's 2009 credit agreement dates to July 1, 2008.[^ref-1][^ref-23]
+On November 11 (2008, per Wikipedia), Navarre announced an expanded agreement giving Encore "the exclusive publishing rights in North American for the Broderbund(R) line of products in the retail, direct-to-consumer and OEM channels". Encore also took over online sales at Broderbund.com; before this it had exclusively distributed those titles in US and Canadian retail.[^ref-17][^ref-1] The archived release shows only "Nov. 11"; the year comes from Wikipedia and fits the two Encore–Riverdeep licence agreements (a "Channel License Agreement" and a manufacturing-rights licence) that Navarre's 2009 credit agreement dates to July 1, 2008.[^ref-1][^ref-23]
 
 ### After Navarre (2014-2017)
 
