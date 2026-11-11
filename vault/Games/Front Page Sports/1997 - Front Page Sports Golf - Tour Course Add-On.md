@@ -10,13 +10,13 @@ series: Front Page Sports
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'Three separate 18-hole course disks for Front Page Sports: Golf (Coeur d''Alene, Black Diamond Ranch and Pasatiempo), developed by Headgate Studios and published by Sierra On-Line in 1997, plus the free Sahalee download of 1998.'
 tags: [1990s, front-page-sports, sierra, golf, add-on]
 ---
 # Front Page Sports: Golf – Add-on Courses
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -58,7 +58,7 @@ MobyGames describes this disk as adding "an additional 18 holes of golf featurin
 
 ### Pasatiempo Golf Club
 
-MobyGames describes this disk as adding "an additional 18 holes of golf featuring California's Pasatiempo Golf Club"[^ref-20]. Sierra's Holiday 1997 InterAction told readers to "Watch for the next FPS: Golf add-on course, Pasatiempo. Coming in December."[^ref-29] By spring 1998, Sierra's catalogue described the disk as "the most realistic representation of the challenging golf found on California's rugged Monterey Peninsula", listing it as #69980 at $19.95; the summer 1998 catalogue repeated the entry at the same price[^ref-30][^ref-31]. MobyGames dates it to 1997[^ref-20].
+MobyGames describes this disk as adding "an additional 18 holes of golf featuring California's Pasatiempo Golf Club"[^ref-20]. Sierra's Holiday 1997 InterAction told readers to "Watch for the next FPS: Golf add-on course, Pasatiempo. Coming in December."[^ref-29] By spring 1998, Sierra's catalogue described the disk as "the most realistic representation of the challenging golf found on California's rugged Monterey Peninsula", listing it as #69980 at $19.95; the summer 1998 catalogue repeated the entry at the same price[^ref-30][^ref-31]. Sierra's "Monterey Peninsula" is its own wording: the real Pasatiempo Golf Club is in Pasatiempo, Santa Cruz County, California[^ref-41]. MobyGames dates it to 1997[^ref-20].
 
 ### Sahalee (free download)
 
@@ -82,13 +82,13 @@ There are no puzzles. The challenge each disk adds is the course itself: Sierra 
 
 ### Online Play
 
-The add-on courses were used in Sierra's organized online play. Sierra's summer 1998 InterAction announced the Sierra Sports Golf Association's "inaugural season on the World Opponent Network". Its event schedule put the opening events on Coeur d'Alene and a June tournament on Black Diamond Ranch, and the season ended with an "SGA Championship, Live at Sahalee"[^ref-31]. Players who signed up would be "entered to win a trip to this year's PGA Championship at Sahalee"[^ref-31][^ref-24].
+The add-on courses were used in Sierra's organized online play. Sierra's summer 1998 InterAction announced the Sierra Sports Golf Association's "inaugural season on the World Opponent Network". Its event schedule put the opening events on Coeur d'Alene and a June tournament on Black Diamond Ranch, and the season ended with an "SGA Championship, Live at Sahalee"[^ref-31]. The July sponsored event's course was listed as "Royal Birkdale - Site of the British Open or Pasatiempo"[^ref-31]. Sierra also offered a "free bonus CD" to those who signed up; the announcement does not say what it contained[^ref-31]. Players who signed up would be "entered to win a trip to this year's PGA Championship at Sahalee"[^ref-31][^ref-24].
 
 ## Reception
 
 ### Contemporary Reviews
 
-No dedicated contemporary review of any of the three add-on disks has been located. Computer Gaming World's September 1997 review of the base game mentioned the add-ons only in passing ("So far, add-on courses include Coeur d'Alene and Black Diamond Ranch")[^ref-17]. MobyGames shows no Moby Score for any of the three disks[^ref-18][^ref-19][^ref-20]. Reviews of the base game are summarised on the [[1997 - Front Page Sports - Golf]] page.
+No dedicated contemporary review of any of the three add-on disks has been located. Computer Gaming World's September 1997 review of the base game mentioned the add-ons only in passing ("So far, add-on courses include Coeur d'Alene and Black Diamond Ranch")[^ref-17]. Sierra's own InterAction magazine, in its Summer 1997 review of the base game (by John Zhaski, p. 59), ended: "With three immediately available world-class courses, additional course disks on the way, Internet and LAN play, and beautifully 3D-rendered golfers and landscapes, Sierra offers the only definitive golf simulation experience."[^ref-34] MobyGames shows no Moby Score for any of the three disks[^ref-18][^ref-19][^ref-20]. Reviews of the base game are summarised on the [[1997 - Front Page Sports - Golf]] page.
 
 ### Modern Assessment
 
@@ -119,6 +119,8 @@ Before the base game shipped, Cook told InterAction that the courses in most oth
 | Golf Pro Bundle | Fall 1998 | Windows 95 CD | Sierra Sports Golf Pro '98 with the Black Diamond Ranch and Pasatiempo add-ons "All for just $29.95!"; add-ons also sold separately as #70417 and #70448[^ref-36] |
 
 The Dynamix wiki notes that the exact release dates of the three retail disks are unknown[^ref-25]. Sierra's fall 1997 advertisement for Black Diamond Ranch was still headed "The Exceptional Black Diamond Ranch Course is Coming to FPS: Golf" while asking readers to order it "today"[^ref-35]. In spring 1998, Sierra's catalogue advertised "Sierra Sports Golf 1.0— Plus Black Diamond Ranch & Pasatiempo Expansion Packs" as available now[^ref-30].
+
+The Fall 1998 Golf Pro Bundle listing shows Black Diamond Ranch as #70417 and Pasatiempo as #70448, where the spring and summer 1998 catalogues had listed them as #83610 and #69980[^ref-30][^ref-31][^ref-36]. The listings do not say why the numbers changed.
 
 ### Disc Labelling
 
@@ -176,12 +178,13 @@ Sierra's catalogues and the Dynamix wiki list three retail add-on courses for Fr
 [^ref-28]: [The Sierra Chest – Front Page Sports: Golf - Pasatiempo Golf Club Add-on Course](https://www.sierrachest.com/index.php?a=games&id=515&fld=general) – developer Headgate Studios, engine "Unknown/unnamed", "one of the three add-on courses"
 [^ref-29]: [InterAction Magazine, Issue 33 (Holiday 1997)](https://archive.org/details/inter-action-issue-33-holiday-1997) – Sierra ad: "Watch for the next FPS: Golf add-on course, Pasatiempo. Coming in December."; Black Diamond Ranch Add-On #83610 Win95CD $24.95
 [^ref-30]: [InterAction Magazine, Issue 34 (Spring 1998)](https://archive.org/details/inter-action-issue-34-spring-1998) – "Black Diamond Ranch Add-On Course" catalogue entry (#83610 Win 95 CD $19.95); Pasatiempo #69980 $19.95; "Sierra Sports Golf 1.0— Plus Black Diamond Ranch & Pasatiempo Expansion Packs"
-[^ref-31]: [InterAction Magazine, Issue 35 (Summer 1998)](https://archive.org/details/inter-action-issue-35-summer-1998) – "Pasatiempo Add-On Course" catalogue entry (#69980 $19.95); Black Diamond Ranch #83610 $9.95; Golf Pro '98; SGA inaugural season on WON with events on Coeur d'Alene, Black Diamond Ranch and Sahalee
+[^ref-31]: [InterAction Magazine, Issue 35 (Summer 1998)](https://archive.org/details/inter-action-issue-35-summer-1998) – "Pasatiempo Add-On Course" catalogue entry (#69980 $19.95); Black Diamond Ranch #83610 $9.95; Golf Pro '98; SGA July event on "Royal Birkdale ... or Pasatiempo", "free bonus CD"; SGA inaugural season on WON with events on Coeur d'Alene, Black Diamond Ranch and Sahalee
 [^ref-33]: [InterAction Magazine, Issue 30 (Spring 1997)](https://archive.org/details/inter-action-issue-30-spring-1997) – FPS: Golf feature (p. 38): "immediately available add-on course, Coeur d'Alene", "soon-to-be-released Black Diamond Ranch in Lecanto, Florida"; Vance Cook on 70MB course files
-[^ref-34]: [InterAction Magazine, Issue 31 (Summer 1997)](https://archive.org/details/inter-action-issue-31-summer-1997) – New Releases: "83610 Black Diamond Ranch Add-On … $24.95"; "now available"; Coeur d'Alene add-on "(a $24.95 value) for no extra charge" with FPS: Golf $54.95
+[^ref-34]: [InterAction Magazine, Issue 31 (Summer 1997)](https://archive.org/details/inter-action-issue-31-summer-1997) – New Releases: "83610 Black Diamond Ranch Add-On … $24.95"; "now available"; Coeur d'Alene add-on "(a $24.95 value) for no extra charge" with FPS: Golf $54.95; base-game review (p. 59): "three immediately available world-class courses, additional course disks on the way"
 [^ref-35]: [InterAction Magazine, Issue 32 (Fall 1997)](https://archive.org/details/inter-action-issue-32-fall-1997) – Sierra ad "The Exceptional Black Diamond Ranch Course is Coming to FPS: Golf": quarry holes; "order … today"
 [^ref-36]: [InterAction Magazine, Issue 36 (Fall 1998)](https://archive.org/details/inter-action-issue-36-fall-1998) – Sierra Sports Golf Pro Bundle with Black Diamond Ranch and Pasatiempo add-ons, $29.95; #70448, #70417; PGA Championship Golf 1999 includes Sahalee
 [^ref-37]: [Online Gaming Review – News, May 1997 (Wayback Machine)](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – News for May 16, 1997: "Sierra On-Line has released Front Page Sports: Golf."
 [^ref-38]: [Sierra Sports – PGA Golf: Championship Edition courses (Wayback Machine, 2001)](https://web.archive.org/web/20010902232455/http://www.sierrasports.com:80/golfce/courses.php) – course videos for Black Diamond Ranch, Prince Course, Couer d'Alene, Royal Birkdale, Pete Dye, Sahalee, Pasatiempo
 [^ref-39]: [InterAction Magazine, Issue 37 (Holiday 1998)](https://archive.org/details/inter-action-issue-37-holiday-1998) – designer profile of Vance Cook and Headgate Studios: left Access 1992, Salt Lake City, TrueSwing, "Sierra acquired Headgate in 1996"
 [^ref-40]: [Electronic Arts – Headgate Studios Team Joins EA (Business Wire, November 30, 2006; PDF)](https://s204.q4cdn.com/701424631/files/doc_news/2006/11/1/313912.pdf) – "Utah-based developer Headgate Studios, Inc."; "The development team will remain in Bountiful, Utah"
+[^ref-41]: [Wikipedia – Pasatiempo Golf Club](https://en.wikipedia.org/wiki/Pasatiempo_Golf_Club) – infobox: located in Pasatiempo, Santa Cruz County, California; established 1929 (tier 4; location only)
