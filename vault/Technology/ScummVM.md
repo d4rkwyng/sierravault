@@ -1,14 +1,14 @@
 ---
 title: "ScummVM"
 type: technology
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "The open-source program that re-implements LucasArts' SCUMM and Sierra's AGI and SCI engines, letting modern systems run most of the classic Sierra adventure catalogue."
 tags: [technology, scummvm, agi, sci, preservation, emulation]
 ---
 
 # ScummVM
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ From 2026.1.0, ScummVM switched from 2.x version numbers to year-based releases 
 
 ## Sierra Games Supported
 
-The current ScummVM compatibility list includes the following Sierra catalogue (non-exhaustive):[^ref-2]
+The current ScummVM compatibility list includes the following Sierra catalogue (non-exhaustive; checked 2026-11-11):[^ref-2]
 
 ### AGI-engine titles (1984–1989)
 [[1984 - King's Quest - Quest for the Crown|King's Quest 1]], [[1985 - King's Quest II - Romancing the Throne|King's Quest 2]], [[1986 - King's Quest III - To Heir Is Human|King's Quest 3]], [[1988 - King's Quest IV - The Perils of Rosella|King's Quest 4 (AGI)]], [[1986 - Space Quest - The Sarien Encounter|Space Quest 1]], [[1987 - Space Quest II - Vohaul's Revenge|Space Quest 2]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest 1]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]], [[1986 - The Black Cauldron|The Black Cauldron]], Donald Duck's Playground, [[1988 - Manhunter - New York|Manhunter NY]], [[1989 - Manhunter - San Francisco|Manhunter SF]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose AGI]], [[1988 - Gold Rush|Gold Rush!]]
@@ -64,7 +64,7 @@ The current ScummVM compatibility list includes the following Sierra catalogue (
 [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] and Hi-Res Adventures #0–#6 run through ScummVM's separate ADL engine (`adl:hires1` for Mystery House), not AGI.[^ref-2]
 
 ### SCI0–SCI1.1 titles (1988–1993)
-[[1988 - King's Quest IV - The Perils of Rosella|King's Quest 4 (SCI)]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest 5]], [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest 6]], King's Quest 1 (SCI remake), [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest 3]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest 4]], [[1993 - Space Quest V - The Next Mutation|Space Quest 5]], Space Quest 1 (SCI remake), [[1988 - Police Quest II - The Vengeance|Police Quest 2]], [[1991 - Police Quest III - The Kindred|Police Quest 3]], Police Quest 1 (SCI remake), [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|LSL 2]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|LSL 3]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL 5]], [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|LSL 6]], LSL 1 (SCI remake), [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory 1 (EGA & VGA)]], [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory 2]], [[1992 - Quest for Glory III - Wages of War|Quest for Glory 3]], [[1989 - The Colonel's Bequest|Colonel's Bequest]], [[1992 - The Dagger of Amon Ra|Dagger of Amon Ra]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest 1]], EcoQuest 2, [[1990 - Codename - Iceman|Codename: Iceman]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]], Castle and Island of Dr. Brain, Hoyle 1–4, Jones in the Fast Lane, Mixed Up Fairy Tales
+[[1988 - King's Quest IV - The Perils of Rosella|King's Quest 4 (SCI)]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest 5]], [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest 6]], King's Quest 1 (SCI remake), [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest 3]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest 4]], [[1993 - Space Quest V - The Next Mutation|Space Quest 5]], Space Quest 1 (SCI remake), [[1988 - Police Quest II - The Vengeance|Police Quest 2]], [[1991 - Police Quest III - The Kindred|Police Quest 3]], Police Quest 1 (SCI remake), [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|LSL 2]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|LSL 3]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL 5]], [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|LSL 6]], LSL 1 (SCI remake), [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory 1 (EGA & VGA)]], [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory 2]], [[1992 - Quest for Glory III - Wages of War|Quest for Glory 3]], [[1989 - The Colonel's Bequest|Colonel's Bequest]], [[1992 - The Dagger of Amon Ra|Dagger of Amon Ra]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest 1]], EcoQuest 2, [[1990 - Codename - Iceman|Codename: Iceman]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]], Castle and Island of Dr. Brain, Hoyle 1–4, [[1996 - Hoyle Solitaire|Hoyle Solitaire]], Jones in the Fast Lane, Mixed Up Fairy Tales, [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]]
 
 ### SCI2/SCI32 titles (1993–1996)
 [[1994 - King's Quest VII - The Princeless Bride|King's Quest 7]], [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight 1]], [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2]], [[1995 - Shivers|Shivers]], [[1995 - Torin's Passage|Torin's Passage]], [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]], [[1993 - Police Quest - Open Season|Police Quest 4]], [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory 4]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]], [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], [[1996 - Leisure Suit Larry 7 - Love for Sail|LSL 7]], RAMA, King's Questions, Hoyle Classic Games (Hoyle 5)[^ref-26][^ref-2]
@@ -88,13 +88,12 @@ ScummVM re-implements each adventure-game engine at the script-interpreter level
 1. **Asset loading** — The original game's resource files (`RESOURCE.000`, `RESOURCE.MAP`, etc.) are loaded directly from the user's installation.
 2. **Engine selection** — ScummVM detects the game and its SCI version from its detection tables.[^ref-13]
 3. **Script interpretation** — The SCI bytecode in the resource files is executed by ScummVM's own SCI interpreter.[^ref-13]
-4. **Graphics, audio, input** — Sierra's original graphics, AdLib/Roland MT-32/General MIDI audio, and parser/mouse input are mapped onto each host platform's backend.
 
 This architecture means ScummVM can fix engine bugs and add modern features (for example the 2.5.0 RGB rendering mode and 2.6.0 text-to-speech) without modifying the original game files.[^ref-24]
 
 ## Acquisition and Use
 
-- **GOG.com re-releases** of Sierra adventures increasingly ship with ScummVM, including AGI titles: GOG's Space Quest 1+2+3 replaced DOSBox with ScummVM 2.0 in 2018 and was updated to ScummVM 2026.1.0 in February 2026; PCGamingWiki lists the GOG King's Quest as pre-packaged with ScummVM, with a DOSBox version also available through GOG Galaxy.[^ref-15][^ref-14]
+- **GOG.com re-releases** of Sierra adventures increasingly ship with ScummVM, including AGI titles: GOG's Space Quest 1+2+3 replaced DOSBox with ScummVM 2.0 in 2018 and was updated to ScummVM 2026.1.0 in February 2026; PCGamingWiki lists the GOG King's Quest as pre-packaged with ScummVM, with a DOSBox version also available through GOG Galaxy.[^ref-15][^ref-14] GOG's Police Quest Collection changelog of 20 February 2026 reads "Police Quest 1, 2, 3, 4: Switched emulation from DOSBox to ScummVM."[^ref-28] GOG's Gabriel Knight: Sins of the Fathers v2 (29 October 2026) added the Windows version running on ScummVM in SVGA mode alongside the DOS version on DOSBox, with a launcher and the GOG Game Configurator.[^ref-29]
 - **Standalone use** — ScummVM is free and open-source (GPL-3.0-or-later), and users who own original Sierra disks can copy the game assets and run them directly. Official packages include Windows, macOS, Linux, iOS, Android, Nintendo Switch and PlayStation Vita, among others.[^ref-1][^ref-17]
 
 ## Legacy
@@ -136,3 +135,5 @@ As an open-source project, ScummVM also shares its technical knowledge openly: d
 [^ref-25]: [ScummVM source — AGI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) — "Mickey's Space Adventure / Preagi game"; Troll's Tale and Winnie the Pooh entries use the GAMEpre_* macros (GType_PreAGI); "MS-DOS versions of Troll's Tale are not currently supported"
 [^ref-26]: [ScummVM source — SCI detection](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection.cpp) — `hoyle5` "Hoyle Classic Games" listed under "=== SCI2.1 games ==="; detection_tables.h notes Hoyle 5 "Executable scanning reports" version "2.100.002"
 [^ref-27]: [ScummVM source — DGDS detection tables](https://github.com/scummvm/scummvm/blob/master/engines/dgds/detection_tables.h) — "Quarky And Quaysoo's Turbo Science" entry, flagged ADGF_UNSTABLE
+[^ref-28]: [GOG.com — Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — Changelog (20 February 2026): "Police Quest 1, 2, 3, 4: Switched emulation from DOSBox to ScummVM."
+[^ref-29]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — GOG v2 changelog (29 October 2026): "Added the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode"
