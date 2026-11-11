@@ -34,7 +34,7 @@ Police Quest asks players to follow real police procedure. In the first game, "y
 
 **Compilations:** *Daryl F. Gates' Police Quest Collection: The 4 Most Wanted* (1995),[^ref-27] *Police Quest: Collection Series* (1997)[^ref-28] and the Windows *Police Quest Collection* (2006).[^ref-29] See the [[Collections Guide]].
 
-**Spiritual successors:** Walls designed [[1993 - Blue Force|Blue Force]] (1993) for Tsunami Games,[^ref-25] and in 2013 launched a Kickstarter for *[[CXL - Precinct (2013)|Precinct]]*, billed as "from the creators of 'Police Quest'", which he cancelled on August 6, 2013.[^ref-26] See the [[Spiritual Successors Catalog]].
+**Spiritual successors:** Walls designed [[1993 - Blue Force|Blue Force]] (1993) for Tsunami Media,[^ref-25] and in 2013 launched a Kickstarter for *[[CXL - Precinct (2013)|Precinct]]*, billed as "from the creators of 'Police Quest'", which he cancelled on August 6, 2013.[^ref-26] See the [[Spiritual Successors Catalog]].
 
 ## Jim Walls' Background
 
@@ -166,7 +166,7 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 [^ref-22]: [GameSpot – SWAT Force Review (March 20, 2006)](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – Mobile "2D side-scroller"
 [^ref-23]: [COMPUTE! #106 (March 1989), p. 6 – "News and Notes: Is It Live or Is It Memorex?"](https://www.atarimagazines.com/compute/issue106/news_notes_memorex.php) – Heidi E. H. Aycock; Walls "a 15-year veteran of the California Highway Patrol"; police agencies "inquired about using the series to train police officers"
 [^ref-24]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – Developed by Irrational Games; The Stetchkov Syndicate released February 28, 2006 (NA) and March 10, 2006 (EU)
-[^ref-25]: [Wikipedia – Blue Force](https://en.wikipedia.org/wiki/Blue_Force) – 1993 MS-DOS adventure developed and published by Tsunami Games, designed by Jim Walls
+[^ref-25]: [Wikipedia – Blue Force](https://en.wikipedia.org/wiki/Blue_Force) – 1993 MS-DOS adventure developed and published by "Tsunami Games" (Tsunami Media, Inc.), designed by Jim Walls
 [^ref-26]: [Kickstarter – Precinct (Wayback, 2013-08-15)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – "Precinct - from the creators of 'Police Quest' (Canceled) by Jim Walls"; canceled August 6; $85,756 of $500,000
 [^ref-27]: [MobyGames – Daryl F. Gates' Police Quest Collection: The 4 Most Wanted](https://www.mobygames.com/game/40486/daryl-f-gates-police-quest-collection-the-4-most-wanted/) – 1995, DOS and Windows 3.x (read via the MobyGames API)
 [^ref-28]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) – 1997, DOS and Windows (read via the MobyGames API)

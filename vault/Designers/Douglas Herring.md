@@ -4,7 +4,7 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["The Colonel's Bequest", "King's Quest V", "Space Quest I VGA", "Conquests of Camelot"]
-companies: ["Sierra On-Line", "Microsoft Game Studios", "Legend Entertainment", "Tsunami Games"]
+companies: ["Sierra On-Line", "Microsoft Game Studios", "Legend Entertainment", "Tsunami Media"]
 last_updated: "2026-11-11"
 ---
 # Douglas Herring
@@ -39,7 +39,7 @@ He was co-director of the VGA remake of [[1991 - Space Quest I - Roger Wilco in 
 
 ### Freelance Period (1991–1995)
 
-His first freelance project was Ringworld: Revenge of the Patriarch (1992) for Tsunami Games, based on Larry Niven's Known Space novels. He was game designer and art designer, but left the project early: "most of my design was re-worked. However, 90% of the art was done under my direction."[^ref-2][^ref-3]
+His first freelance project was Ringworld: Revenge of the Patriarch (1992) for Tsunami Media, based on Larry Niven's Known Space novels. He was game designer and art designer, but left the project early: "most of my design was re-worked. However, 90% of the art was done under my direction."[^ref-2][^ref-3]
 
 The Adventure Game Fan Fair biography says he left Ringworld early to begin Star Trek: Deep Space Nine – The Hunt,[^ref-3] on which he was art director for Paramount Interactive and Tachyon, doing "total art design, animation and background key frames and layout." In his words, "Art was 95% done and I had already moved on when Paramount put the project on hold."[^ref-2] Other freelance work listed on his résumé includes the user interface screens for Spectrum Holobyte's MIG-29 module for Falcon 3.0, creature animation for Free Fall Associates' Archon Ultra, and art direction and co-design on the Sega CD version of Spider-Man vs. Kingpin.[^ref-2] The résumé also lists The Ring of Doom for Electronic Arts, a Sega game based on The Lord of the Rings on which he was an animator, "specializing in monster types, including Orcs and the Balrog of Moria"; it says the "Game never shipped."[^ref-2]
 
@@ -116,7 +116,7 @@ Company and role details are from his résumé unless marked MobyGames; items th
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Games | Game Designer, Art Designer |
+| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media | Game Designer, Art Designer |
 | 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment | Art Director |
 | 1996 | Close Combat | Microsoft/Atomic Games | Content Lead |
 | 1997 | Age of Empires | Microsoft/Ensemble Studios | Art Director, Content Lead |

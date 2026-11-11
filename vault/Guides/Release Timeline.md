@@ -193,7 +193,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 ### 1993
 - [[1993 - Aces Over Europe|Aces Over Europe]] — Series: Aces, Type: Flight Simulator
 - [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Series: Krondor, Type: Role-Playing Game
-- [[1993 - Blue Force|Blue Force]] — Developer: Tsunami Games, Type: Adventure[^ref-28]
+- [[1993 - Blue Force|Blue Force]] — Developer: Tsunami Media, Type: Adventure[^ref-28]
 - [[1993 - Cohort II - Fighting for Rome|Cohort II - Fighting for Rome]] — Series: Cohort, Type: Strategy / Tactics
 - [[1983 - Early Math|Early Math]] — Series: Talking Tutor, Type: Educational[^ref-3]
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Series: EcoQuest, Type: Adventure

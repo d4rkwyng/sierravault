@@ -1,46 +1,46 @@
 ---
 title: 'Blue Force'
 release_year: 1993
-developer: Tsunami Games
+developer: Tsunami Media, Inc.
 designer: [Jim Walls]
-publisher: Tsunami Games
+publisher: Tsunami Media, Inc.
 genre: Adventure
 platforms: [DOS]
 series: None
 engine: TsAGE
 protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Ken Allen]
 description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only Tsunami project.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Blue Force is a 1993 point-and-click adventure game developed and published by Tsunami Games, designed by [[Jim Walls]]—the creator of Sierra On-Line's acclaimed Police Quest series[^ref-1][^ref-2]. Serving as a spiritual successor to the original Police Quest trilogy, Blue Force features similar police procedural gameplay in a new setting with a new protagonist, representing what Hardcore Gaming 101 called "an alternate version of Police Quest 4"[^ref-3].
+Blue Force is a 1993 point-and-click adventure game developed and published by Tsunami Media, Inc., designed by [[Jim Walls]]—the creator of Sierra On-Line's acclaimed Police Quest series[^ref-1][^ref-2]. Serving as a spiritual successor to the original Police Quest trilogy, Blue Force features similar police procedural gameplay in a new setting with a new protagonist, representing what Hardcore Gaming 101 called "an alternate version of Police Quest 4"[^ref-3].
 
 The game follows Jake Ryan, a rookie police officer in the fictional town of Jackson Beach, who uncovers clues to the unsolved murder of his parents while working his first days on the force[^ref-4][^ref-10]. Like its Police Quest predecessors, Blue Force emphasizes realistic police procedures, evidence gathering, and proper protocol—hallmarks of Jim Walls' design; PC Gamer's Richard Cobbett notes that the original Police Quest was "supposedly used by others as a training tool"[^ref-3][^ref-18].
 
-Blue Force reunited several former Sierra employees who had joined Tsunami Media, including composer [[Ken Allen]] (King's Quest V, Space Quest IV), creating a game that felt distinctly like a Sierra adventure in everything but name[^ref-6][^ref-15]. Its credits also list background renderings by [[Peter Ledger]], art designer of Sierra's Conquests of Camelot[^ref-6][^ref-21]. My Abandonware describes it as "unarguably the best game from the group of renegade ex-Sierra employees that made up Tsunami"[^ref-8]. Despite mixed critical reception—Computer Gaming World later named it the 37th-worst game of all time—Blue Force shipped 20,000 units in its first month[^ref-1]. It was the only game Jim Walls made for Tsunami[^ref-2].
+Blue Force reunited several former Sierra employees who had joined Tsunami Media, including composer [[Ken Allen]] (King's Quest V, Space Quest IV), creating a game that felt distinctly like a Sierra adventure in everything but name[^ref-6][^ref-15]. MobyGames credits background renderings to [[Peter Ledger]], art designer of Sierra's Conquests of Camelot, though the printed manual does not name him[^ref-6][^ref-21][^ref-26]. My Abandonware describes it as "unarguably the best game from the group of renegade ex-Sierra employees that made up Tsunami"[^ref-8]. Despite mixed critical reception—Computer Gaming World later named it the 37th-worst game of all time—Blue Force shipped 20,000 units in its first month[^ref-1].
 
 > [!info]- Game Info
-> **Developer:** Tsunami Games[^ref-1]
+> **Developer:** Tsunami Media, Inc.[^ref-26][^ref-27]
 > **Designer:** [[Jim Walls]][^ref-1]
-> **Publisher:** Tsunami Games[^ref-1]
+> **Publisher:** Tsunami Media, Inc.[^ref-26][^ref-27]
 > **Engine:** TsAGE[^ref-11]
 > **Platforms:** DOS[^ref-1]
 > **Release Year:** 1993 (June)[^ref-14]
+> **Series:** None
 > **Protagonist:** Jake Ryan
 > **Sierra Lineage:** Spiritual Successor
-> **Series:** None
 
 ## Story Summary
 
-Set in 1995, Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was murdered along with Jake's mother[^ref-1][^ref-10]. Sources differ on the year: the police file printed on the box dates the double homicide to June 14, 1983, while Wikipedia gives 1984[^ref-1][^ref-10]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
+Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was murdered along with Jake's mother[^ref-1][^ref-10]. Sources differ on dating: the police file printed on the box dates the double homicide to June 14, 1983, and the box text says "Ten years have passed" since the murder, which points to about 1993; Wikipedia gives 1984 for the murder and places the game in 1995[^ref-1][^ref-10]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
 
 Jake graduates at the top of his academy class and joins the same department where his father served[^ref-1]. His first days on the job prove eventful, as he makes several arrests connected to a National Guard armory break-in[^ref-1][^ref-4]. Just as Jake begins connecting these crimes to his father's cold case, he's seriously injured in a motorcycle accident while on patrol[^ref-1].
 
@@ -116,20 +116,20 @@ Despite the harsh critical reception, the game shipped 20,000 units in its first
 
 ### Origins
 
-Tsunami Games (also known as Tsunami Media) was founded in 1991 by former Sierra On-Line CFO Edmond Heinbockel and was headquartered in Oakhurst, California—the same small mountain town that housed Sierra's headquarters[^ref-2][^ref-10]. The company attracted numerous former Sierra employees, making it something of a Sierra diaspora. As The Adventurers Guild noted, Heinbockel "got out of Sierra while the going was good"—before the financial troubles that would later plague the company in the late 1990s[^ref-10].
+Tsunami Media, Inc. (called Tsunami Games by Wikipedia and some reviews; the manual and Tsunami's own site print Tsunami Media, Inc.) was founded in 1991 by former Sierra On-Line CFO Edmond Heinbockel and was headquartered in Oakhurst, California—the same small mountain town that housed Sierra's headquarters[^ref-2][^ref-10][^ref-26][^ref-27]. The company attracted numerous former Sierra employees, making it something of a Sierra diaspora. As The Adventurers Guild noted, Heinbockel "got out of Sierra while the going was good"—before the financial troubles that would later plague the company in the late 1990s[^ref-10].
 
-Jim Walls joined Tsunami in 1992 after leaving Sierra around the end of Police Quest III: The Kindred (1991)[^ref-2][^ref-23]. Accounts of the timing differ: Wikipedia says he left before the game was completed, "for reasons that have still not been publicly explained," while Walls himself says only that "after PQ3, circumstances developed causing me to decide it was time that I leave"[^ref-5][^ref-23]. Blue Force would be his only game for Tsunami before moving on to other companies[^ref-2].
+Jim Walls joined Tsunami in 1992 after leaving Sierra around the end of Police Quest III: The Kindred (1991)[^ref-2][^ref-23]. Accounts of the timing differ: Wikipedia says he left before the game was completed, "for reasons that have still not been publicly explained," while Walls himself says only that "after PQ3, circumstances developed causing me to decide it was time that I leave"[^ref-5][^ref-23].
 
 ### Production
 
-Blue Force was built on the TsAGE (Tsunami Adventure Game Engine), developed by Robert Eric Heitman, Eric Hart, John Rettig, Chris Hoyt, John Crane, and John Hamilton—several of whom had worked at Sierra[^ref-6][^ref-19][^ref-20]. The engine powered multiple Tsunami adventure games including the Ringworld series and Protostar[^ref-11].
+Blue Force was built on the TsAGE (Tsunami Adventure Game Engine), developed by Robert Eric Heitman (printed "Robert E. Heitman" in the manual), Eric Hart, John Rettig, Chris Hoyt, John Crane, and John Hamilton—several of whom had worked at Sierra[^ref-6][^ref-19][^ref-20][^ref-26]. The engine powered multiple Tsunami adventure games including the Ringworld series and Protostar[^ref-11].
 
 The development team included several notable Sierra alumni[^ref-6]:
 - **[[Ken Allen]]** composed the music score and sound effects, bringing his expertise from Sierra titles like King's Quest V, Space Quest IV, and The Colonel's Bequest[^ref-6][^ref-7][^ref-15]
-- **[[Peter Ledger]]** contributed background renderings, having previously been Art Designer on Conquests of Camelot at Sierra[^ref-6][^ref-21]
-- **Robert Eric Heitman** and **Chris Hoyt** were among the five credited game programmers, alongside James E. Spellman II, Nancy Churchill, and John Crane[^ref-6]; Heitman was one of Sierra's first employees and co-developed its SCI engine, while Hoyt had programmed King's Quest V, The Colonel's Bequest, and Police Quest 3 at Sierra[^ref-19][^ref-20]
-- **Cheryl Loyd** served as Art Director[^ref-6]
-- **Desie Hartman**, **Kim Walls**, and **Donald C. Soper** handled video capture and clean-up[^ref-6]
+- **[[Peter Ledger]]** is credited by MobyGames with background renderings, having previously been Art Designer on Conquests of Camelot at Sierra; the printed manual's Background Renderings list (Deena Krutak, Tate DeLoach, Gary Cox, Les White, Desie Hartman, Cheryl Cornelius) does not include him[^ref-6][^ref-21][^ref-26]
+- MobyGames lists five game programmers: Robert Eric Heitman, Chris Hoyt, James E. Spellman II, Nancy Churchill, and John Crane[^ref-6]. The printed manual's Game Programming credit lists four (Nancy Churchill, John Crane, James E. Spellman II, Chris Hoyt) and names Heitman only under "TsAGE Developed By"[^ref-26]. Heitman was one of Sierra's first employees and co-developed its SCI engine, while Hoyt had programmed King's Quest V, The Colonel's Bequest, and Police Quest 3 at Sierra[^ref-19][^ref-20]
+- MobyGames lists **Cheryl Loyd** as Art Director[^ref-6]; the manual prints **Cheryl Cornelius** for Art Direction and Background Layouts[^ref-26]
+- **Desie Hartman**, **Kim Walls**, and **Donald C. Soper** (printed "Don Soper" in the manual) handled video capture and clean-up[^ref-6][^ref-26]
 
 Released to the public in June 1993, the game took over a year to program and was designed with the assistance of veteran federal drug enforcement agent Michael Levine[^ref-14]. It was released on both floppy disk and CD-ROM[^ref-3]. Despite being a CD release, the CD version contains no voice acting—only an audio interview with Jim Walls as bonus content; Hardcore Gaming 101 describes it as "almost identical to the disk release, other than an audio interview with Walls"[^ref-3].
 
@@ -141,9 +141,16 @@ Released to the public in June 1993, the game took over a year to program and wa
 - **Distribution:** Floppy disk and CD-ROM (CD includes interview with Jim Walls)[^ref-3]
 - **ScummVM Support:** Yes, via TsAGE engine support[^ref-11]
 
+### Version History
+
+| Version | Year | Notes |
+|---------|------|-------|
+| Floppy disk | 1993 | Released June 1993[^ref-14][^ref-3] |
+| CD-ROM | 1993 | Same game plus an audio interview with Jim Walls; the manual says it must be installed to the hard drive[^ref-3][^ref-26] |
+
 ## Legacy
 
-Blue Force was Jim Walls' only work for Tsunami Games[^ref-2]. After leaving Tsunami, Walls contracted with Tachyon Studios and Philips Interactive Media for games that were never released[^ref-2].
+Blue Force was Jim Walls' only work for Tsunami[^ref-2]. After leaving Tsunami, Walls contracted with Tachyon Studios and Philips Interactive Media for games that were never released[^ref-2].
 
 Walls later joined Westwood Studios in 1996, contributing to Blade Runner (1997), Pirates: The Legend of Black Kat (2002), and Earth & Beyond (2002)[^ref-2]; his full-time position there lasted until 2003[^ref-23]. Electronic Arts had bought Westwood in 1998, and in January 2003 announced its merger into EA Los Angeles[^ref-24].
 
@@ -154,15 +161,20 @@ Despite its troubled reception, Blue Force remains historically significant as a
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (store searches, October 2026); no official digital re-release has been found
+- Not currently sold on GOG or Steam (store checks, November 2026); no official digital re-release has been found
 
 **Download / Preservation**
 - [Internet Archive - Blue Force](https://archive.org/details/blue-force-eng) — Playable preservation copy[^ref-16]
 - [My Abandonware - Blue Force](https://www.myabandonware.com/game/blue-force-1yu) — Download and game information[^ref-8]
 - Playable through ScummVM via TsAGE engine support[^ref-11]
 
+**Manuals & Extras**
+- [Blue Force (1993) Manual - Internet Archive](https://archive.org/details/00308-blue-force-1993-manual) — Scan of the printed manual, with credits and copyright page[^ref-26]
+
 ## See Also
 
+- [[Spiritual Successors Catalog]]
+- [[Police Quest Series]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
 - [[2010 - Gray Matter]]
@@ -206,3 +218,5 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-23]: [Jim Walls Reloaded - Rap Sheet](https://web.archive.org/web/20170202080931/http://www.jimwallsreloaded.com/blog/rap-sheet/) — Walls's own biography (Wayback, 2017): "I was offered a full time design position which lasted until 2003"
 [^ref-24]: [Wikipedia - Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) — bought by Electronic Arts "in 1998"; merger into EA Los Angeles announced January 2003
 [^ref-25]: [Tsunami Media - Blue Force: Electronic Games Review (Archived January 1998)](https://web.archive.org/web/19980122192403/http://www.tsunamimedia.com/eg_blue.htm) — Russ Ceccola's review as reproduced by Tsunami: "OVERALL RATING: 85%"
+[^ref-26]: [Blue Force (1993) Manual - Internet Archive](https://archive.org/details/00308-blue-force-1993-manual) — Printed manual: "(c) Tsunami Media, Inc., 1993"; credits list (Game Programming, Art Direction, Background Renderings, TsAGE Developed By)
+[^ref-27]: [Tsunami Media - Blue Force product page (Archived January 1998)](https://web.archive.org/web/19980122185337/http://www.tsunamimedia.com:80/blue.htm) — Publisher line "Tsunami Media, Inc., Oakhurst, CA"; "Ten years have passed since the brutal, unsolved murders"
