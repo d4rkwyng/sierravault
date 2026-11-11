@@ -60,7 +60,7 @@ Woodruff and the Schnibble carried over the visual style of Gobliiins; Pierre Gi
 
 ## Legacy
 
-Sierra published some of Coktel's games in the United States; Goblins Quest 3, for example, was released there by Sierra on 18 March 1994.[^ref-36] Muriel Tramis explored political and social themes, such as imperialism and slavery, that were unusual for the time.[^ref-8] The Adibou educational series had sold over 1.5 million copies by 1997.[^ref-8]
+Sierra published some of Coktel's games in the United States; Goblins Quest 3, for example, was released there by Sierra on 18 March 1994.[^ref-36] Muriel Tramis explored political and social themes, such as imperialism and slavery, that were unusual for the time.[^ref-8] Coming Soon Magazine reported that over 1.5 million copies of the ADI educational series, the parent line that includes Adibou, had been sold since its introduction in 1990.[^ref-40]
 
 ## Games
 
@@ -115,3 +115,4 @@ Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a 
 [^ref-37]: [Tilt no. 111, February 1993 (Internet Archive)](https://archive.org/details/Tilt111) — The Incredible Machine review: "Editeur : Sierra; Distributeur : Ubi Soft"
 [^ref-38]: [Tilt no. 120, November 1993 (Internet Archive)](https://archive.org/details/Tilt120) — King's Quest VI listing: "Editeur: Sierra / Distributeur: Ubi Soft"
 [^ref-39]: [Tilt no. 121, December 1993 (Internet Archive)](https://archive.org/details/Tilt121) — news item "Coktel et Sierra s'associent !": the group, "dirigé par Roland Oskian", "distribuera également en Europe les produits Coktel, Sierra, Dynamix et Bright Star Technology"
+[^ref-40]: [Coming Soon Magazine - Adiboo: I can read, I can count! (Wayback, 16 May 2019)](http://web.archive.org/web/20190516154903/http://www.csoon.com/issue21/adiboo.htm) - "Since its introduction in 1990, over 1.5 million copies of the ADI series were sold throughout the world"
