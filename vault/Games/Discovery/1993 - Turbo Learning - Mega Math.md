@@ -10,7 +10,7 @@ series: Turbo Learning
 engine: Dynamix Game Development System (DGDS)
 protagonist: Player (child)
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Timothy Steven Clarke (Tim Clark)]
 description: 'Turbo Learning: Mega Math is a 1993 math-facts practice game for DOS, developed
   by Jeff Tunnell Productions and published by Sierra On-Line as the second and last
@@ -19,19 +19,19 @@ tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff Tunnell Productions]] and published by Sierra On-Line in 1993[^ref-1][^ref-22]. Sources disagree on the exact date: The Sierra Chest gives a first release of October 27, 1993[^ref-22], while MobyGames and the Dynamix Wiki give December 20, 1993[^ref-6][^ref-2]. As the second and final title in the short-lived Turbo Learning series[^ref-2][^ref-3], the game teaches children simple algebra through three mini-games, with tests to advance to the next level[^ref-2]. It was released as part of Sierra's Discovery Series[^ref-3][^ref-21].
+Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff Tunnell Productions]] and published by Sierra On-Line in 1993[^ref-1][^ref-22]. Sources disagree on the exact date: The Sierra Chest gives a first release of October 27, 1993[^ref-22], while MobyGames and the Dynamix Wiki give December 20, 1993[^ref-6][^ref-2]. As the second and final title in the short-lived Turbo Learning series[^ref-2][^ref-3], the game teaches children simple algebra through three mini-games, with tests to advance to the next level[^ref-2]. Sierra's *InterAction* magazine (Spring 1994) described it instead as covering addition, subtraction, multiplication and division for children ages six to twelve, produced by "a team of Ph.D. math experts" together with designer Randy Dersham[^ref-26]. It was released as part of Sierra's Discovery Series[^ref-3][^ref-21].
 
-Abandonware site descriptions call it "One of the least known Sierra game ever"[^ref-4][^ref-11]. Mega Math followed its predecessor, Quarky & Quaysoo's Turbo Science, and features the same alien characters[^ref-4]. Turbo Science had already teased it: at the Mt. Baldy checkpoint in that game, a blimp's sign announces upcoming games including "Turbo Math"[^ref-24]. The game was designed to help children practice fundamental math facts, with the stated philosophy "Practice, practice, practice"[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress[^ref-6][^ref-3].
+Abandonware site descriptions call it "One of the least known Sierra game ever"[^ref-4][^ref-11]. Mega Math followed its predecessor, [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]], and features the same alien characters[^ref-4]. Turbo Science had already teased it: at the Mt. Baldy checkpoint in that game, a blimp's sign announces upcoming games including "Turbo Math"[^ref-24]. The game was designed to help children practice fundamental math facts, with the stated philosophy "Practice, practice, practice"[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress[^ref-6][^ref-3].
 
 The game included full speech despite being released only on floppy disks, which a 2015 MobyGames reviewer singled out: "Not many games do that"[^ref-7]. The same reviewer noted that children "can come home from elementary school and have fun with this game, while solving basic equations in the process"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell Productions]][^ref-1]
-> **Designer:** [[Randy Dersham]], Jeff Tunnell[^ref-2]
+> **Designer:** [[Randy Dersham]], [[Jeff Tunnell]][^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** [[Dynamix]] Game Development System (DGDS)[^ref-8]
 > **Platforms:** MS-DOS[^ref-1]
@@ -44,7 +44,7 @@ The game included full speech despite being released only on floppy disks, which
 
 Turbo Learning: Mega Math presents a light narrative framework designed to engage young learners in mathematical practice. Upon starting the game, players find themselves at Knowledge Central, where they are greeted by Dr. Krista, a scientist character who serves as the game's guide and instructor[^ref-6]. Dr. Krista asks for the player's name and introduces them to the mathematical challenges ahead, establishing a personalized learning experience[^ref-6].
 
-The game features the returning alien characters Quarky and Quaysoo, who had previously appeared in Quarky & Quaysoo's Turbo Science[^ref-4]. The player picks one of them as a partner for each of the Mega Math games, and can change partners at Knowledge Central[^ref-21]. Rather than Yes and No buttons, the aliens answer by moving their heads[^ref-6].
+The game features the returning alien characters Quarky and Quaysoo, who had previously appeared in [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]][^ref-4]. The player picks one of them as a partner for each of the Mega Math games, and can change partners at Knowledge Central[^ref-21]. Rather than Yes and No buttons, the aliens answer by moving their heads[^ref-6].
 
 The underlying educational philosophy is summed up in the game's own description of math facts as "building blocks to the much larger world of mathematics"[^ref-3]. It states that "It takes practice to build flash memory of basic math facts that we use every day," and positions the game as a way to make that practice fun[^ref-3].
 
@@ -95,7 +95,7 @@ The 2015 MobyGames player review praised the inclusion of full speech on a flopp
 
 ### Origins
 
-Turbo Learning: Mega Math was developed by Jeff Tunnell Productions, which Sierra's *InterAction* magazine described in 1992 as "Dynamix's first spin-off division"[^ref-25]. Its founder, [[Jeff Tunnell]], had earlier co-founded Dynamix[^ref-17]. The game was a follow-up to Quarky & Quaysoo's Turbo Science (1992), which introduced the alien characters Quarky and Quaysoo[^ref-13][^ref-4].
+Turbo Learning: Mega Math was developed by Jeff Tunnell Productions, which Sierra's *InterAction* magazine described in 1992 as "Dynamix's first spin-off division"[^ref-25]. Its founder, [[Jeff Tunnell]], had earlier co-founded Dynamix[^ref-17]. The game was a follow-up to [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), which introduced the alien characters Quarky and Quaysoo[^ref-13][^ref-4].
 
 Both Turbo Learning titles were released under the Sierra Discovery Series[^ref-17].
 
@@ -110,6 +110,10 @@ The development team included designers Randy Dersham and Jeff Tunnell, with mus
 - **Composer:** Timothy Steven Clarke (Tim Clark)
 - **Voice Cast:** Jane Chase, Lloyd Brass, Emily Orton, Emily Kokal
 
+### Design Goals
+
+In the same *InterAction* feature, Dersham said one of his main priorities was easy, independent use: "We wanted any player, even six- or seven-year-olds, to be able to sit down and enjoy this without anyone telling them what to do. That was the whole point of talking Dr. Krista"[^ref-26].
+
 ### Technical Achievements
 
 The game's most notable technical achievement was full recorded speech on a floppy-disk-only release[^ref-7].
@@ -121,7 +125,7 @@ The DGDS engine provided a robust foundation for the game's animated sequences a
 **Floppy Version:**
 - **Resolution:** 320 x 200[^ref-14]
 - **Graphics:** VGA[^ref-22]
-- **Audio:** Sound Blaster compatible[^ref-2]
+- **Audio:** The Sierra Chest's music page lists the game's five music tracks (Intro, Das Liquidator Challenge, Dr. D. Vious Mind Masher, Orff Strategy, Odessa's Fast Facts) in two versions, labelled MUNT and SB (Sound Blaster)[^ref-27]
 - **Media:** 3.5" floppy disks[^ref-22]
 - **File Size:** Approximately 3.80-4 MB[^ref-4][^ref-11]
 
@@ -143,7 +147,7 @@ Sound card compatibility problems with Sound Blaster 16 and Pro Audio Spectrum c
 
 ### Easter Eggs and Trivia
 
-The predecessor game, Quarky & Quaysoo's Turbo Science, contained a reference to Mega Math before its release. At the Mt. Baldy checkpoint in Turbo Science, the blimp's sign announces upcoming games including "Turbo Earth Science" (which was never produced) and "Turbo Math"[^ref-24]. The Sierra Chest lists no Easter eggs in Mega Math itself[^ref-24].
+The predecessor game, [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]], contained a reference to Mega Math before its release. At the Mt. Baldy checkpoint in Turbo Science, the blimp's sign announces upcoming games including "Turbo Earth Science" (which was never produced) and "Turbo Math"[^ref-24]. The Sierra Chest lists no Easter eggs in Mega Math itself[^ref-24].
 
 The game's opening sequence features a musical transition from the children's song "Twinkle Twinkle, Little Star" into a heavy metal rendition, setting a playful tone for the educational content to follow[^ref-7].
 
@@ -228,4 +232,5 @@ Mega Math is a straightforward drill-and-practice title. Its own description sum
 [^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy, mini-games, teacher's area
 [^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – wishlist entry only; "We couldn't find this game on GOG"
 [^ref-25]: [InterAction Magazine, Summer 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – p. 32, Jerry Luttrell, "Are you ready to get Tunnell vision?": "Jeff began a new direction in his career by forming Dynamix's first spin-off division, entitled Jeff Tunnell Productions"
-[^ref-26]: [InterAction Magazine, Spring 1994 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US) – p. 47, Sierra Discovery Series feature: Mega Math section quoting Joyce Sunila of the Los Angeles Times
+[^ref-26]: [InterAction Magazine, Spring 1994 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US) – pp. 46-47, Sierra Discovery Series feature on Mega Math: Joyce Sunila of the Los Angeles Times quote and the Dersham quote (p. 47); ages six to twelve, four operations and the Ph.D. math team (the feature's opening text, pp. 46-47)
+[^ref-27]: [Sierra Chest – Mega Math Music](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=music) – track list: five tracks each in MUNT and SB versions
