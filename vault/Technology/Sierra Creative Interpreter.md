@@ -3,12 +3,12 @@ title: "Sierra Creative Interpreter (SCI)"
 type: technology
 developer: "Sierra On-Line"
 years_active: "1988-1996"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Sierra Creative Interpreter (SCI)
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -56,6 +56,7 @@ SCI0 brought composed scores to Sierra's games through Roland MT-32 support; Kin
 - [[1989 - The Colonel's Bequest]]
 - [[1990 - Codename - Iceman]]
 - [[1990 - Conquests of Camelot - The Search for the Grail]] — Late SCI0 (interpreter 0.000.685, March 1990)[^ref-2]
+- [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]] — The SCI remake, an SCI01 build (interpreter S.old.010, game version 1.000.051)[^ref-2]
 
 ## SCI1 (1990–1992)
 
@@ -109,6 +110,7 @@ SCI1.1 powered several of Sierra's most acclaimed games:
 ### Notable SCI1.1 Games
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]] — VGA remake
+- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]] — VGA remake (interpreter 1.001.029)[^ref-2]
 - [[1992 - Quest for Glory III - Wages of War]]
 - [[1992 - The Dagger of Amon Ra]]
 - [[1993 - Space Quest V - The Next Mutation]]
@@ -130,7 +132,7 @@ SCI2 (1993) brought 640×480 SVGA graphics in 256 colors and moved the interpret
 ### Notable SCI2 Games
 - [[1993 - Gabriel Knight - Sins of the Fathers]] — SCI2 2.000.000, November 1993 (only its demo is SCI1.1)[^ref-2]
 - [[1993 - Police Quest - Open Season]] — November 1993[^ref-2]
-- [[1993 - Quest for Glory IV - Shadows of Darkness]] — December 1993 (only its demo is SCI1.1)[^ref-2]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Floppy release, interpreter 2.000.000, December 1993 (only its demo is SCI1.1); the later CD and Windows CD versions are listed as SCI2.1 (2.100.002)[^ref-2]
 
 ## SCI2.1 (1994–1996)
 
@@ -147,6 +149,7 @@ King's Quest VII's hand-drawn animation drew comparisons to film: in Computer Ga
 - [[1995 - Torin's Passage]]
 - [[1995 - Shivers]]
 - [[1995 - Police Quest - SWAT]]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — CD and Windows CD versions only (interpreter 2.100.002, in the ScummVM wiki's early SCI2.1 group); the December 1993 floppy release is SCI2[^ref-2]
 
 ## SCI3 (1996)
 
@@ -164,6 +167,10 @@ SCI3 was the final iteration, adding native Windows 95 support; the last interpr
 - [[1996 - Lighthouse - The Dark Being]][^ref-2]
 - [[1996 - Phantasmagoria - A Puzzle of Flesh]][^ref-2]
 - [[1996 - Rama]] — Developed by Dynamix; SCI3 3.000.000[^ref-9][^ref-2]
+
+## SCI Script and the Bytecode Design
+
+Sierra's programmers wrote SCI games in the proprietary SCI Script language and compiled them with an in-house compiler to SCI bytecode, which is what shipped with the games; the interpreter (SIERRA.EXE or SCIV.EXE) runs that bytecode in a virtual machine.[^ref-24] Blogger and SCI researcher Benshoof writes that Jeff Stephenson "wrote the language, the compiler, and the bytecode interpreter," and that SCI Script, though often called LISP-like, drew its real inspiration from Smalltalk: Stephenson recalled discovering object-oriented programming in BYTE magazine's Smalltalk issue (August 1981).[^ref-24] Wikipedia's SCI article likewise describes SCI as a virtual "bytecode" engine with an object-oriented scripting language.[^ref-1]
 
 ## Sound System Support
 
@@ -208,7 +215,10 @@ SCI games are preserved through multiple methods:
 - **DOSBox** — DOS emulation for running the original interpreters.
 
 ### Ongoing Development
-The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummVM projects, whose work documents the interpreter versions game by game.[^ref-13][^ref-2]
+The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummVM projects, whose work documents the interpreter versions game by game.[^ref-13][^ref-2] ScummVM's current stable release is 2026.4.0, announced October 11, 2026.[^ref-26]
+
+### Fan Tools
+SCI Companion, described on GitHub as "an editor for Sierra SCI games," is hosted on GitHub as icefallgames/SCICompanion. The repository is not archived, but its most recent commit dates from April 28, 2021 and it has no published releases, so it is effectively dormant.[^ref-25] See [[Fan Remake Projects]].
 
 ## Playing SCI Games Today
 
@@ -228,6 +238,7 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 - [[Engine History]] — Sierra's engine generations
 - [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[ScummVM]] — Modern SCI interpreter
+- [[Fan Remake Projects]] — Fan projects, including SCI Companion tooling
 - [[King's Quest Series]] — Flagship SCI series
 - [[Quest for Glory Series]] — RPG-adventure hybrid
 - [[Gabriel Knight Series]] — Mature SCI storytelling
@@ -257,3 +268,6 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 [^ref-21]: [InterAction Magazine, Vol. V No. 2 (Summer 1992), letters (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/page/n12/mode/1up) — Reader on Bill Davis: "They loved him as the crooked, crotchety old man in Mixed-Up Mother Goose (CD, of course)"
 [^ref-22]: [ScummVM Documentation — Understanding the audio settings](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) — "ScummVM can emulate the MT-32 device, however you must provide the original MT-32 ROMs"
 [^ref-23]: [AGI Wiki - Adventure Game Interpreter (Wayback, July 2025)](https://web.archive.org/web/20250702012015/http://agiwiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) — Ken Williams: "SCI was 99% Jeff Stephenson's invention, but had a fairly large team at Sierra to work on it. Some of the names that come to mind are: Larry Scott, Bob Heitman"
+[^ref-24]: [Benshoof.org — Sierra Creative Interpreter: Scripts (July 4, 2023)](https://www.benshoof.org/blog/sci-scripts) — Sierra wrote games in "their proprietary language (also called Script)" compiled "to SCI bytecode"; Stephenson "wrote the language, the compiler, and the bytecode interpreter"; "The real inspiration for SCI Script is Smalltalk"
+[^ref-25]: [GitHub — icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) — Not archived; last commit April 28, 2021 ("Fix: random pen patterns can corrupt pics"); no releases (read via the GitHub API, 2026-11-11)
+[^ref-26]: [ScummVM News — ScummVM 2026.4.0 "Never-slop" (October 11, 2026)](https://www.scummvm.org/news/20261011/) — Release announcement for ScummVM 2026.4.0 (the scummvm.org downloads page also lists 2026.4.0)
