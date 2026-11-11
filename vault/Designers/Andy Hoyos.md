@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Phantasmagoria", "Quest for Glory III", "Space Quest I VGA", "The Matrix Online"]
 companies: ["NBC", "Calico Productions", "Sierra On-Line", "Origin Systems", "Monolith Productions", "iWin", "Pinkerton Road", "Phoenix Online Studios"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Andy Hoyos
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Hoyos writes that in 1989 he "accepted an art directorship" with Sierra On-Line;
 
 His early Sierra credits include assistant art director on the 1990 [[1990 - Oils Well|Oil's Well]] and animator/illustrator on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] (1990).[^ref-13][^ref-11] On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) he is credited as Art Designer, and he also voiced the wizard Mordack.[^ref-13] In 2014 VGA Gallery released a print of his King's Quest V background "Wizard's Island", showing Mordack's island castle.[^ref-6]
 
-In 1991 he was a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] and [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]], an artist on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]], and art designer and production designer on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-13][^ref-12] On Leisure Suit Larry 5 he is credited for graphics and production; the game's art directors were Jane Cardinal and Cheryl Loyd.[^ref-16]
+In 1991 he was a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] and [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]], an artist on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (the game manual credits "Artists: Jim Larsen, Andy Hoyos"),[^ref-22] and art designer and production designer on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-13][^ref-12] On Leisure Suit Larry 5 MobyGames credits him under Graphics / Artwork and Production; the game's art directors were Jane Cardinal and Cheryl Loyd.[^ref-23][^ref-16]
 
 He was production designer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992), sketching designs for its characters,[^ref-13][^ref-8] and art director on [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] (1992), [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] (1993) and [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] (1994), where he is also credited as one of the directors.[^ref-13]
 
@@ -75,13 +75,17 @@ As art director on [[1995 - Phantasmagoria|Phantasmagoria]], Hoyos drew inspirat
 
 After leaving Sierra, Hoyos served as Art Director and 3D artist for *The Matrix Online*,[^ref-13] the MMORPG developed by Monolith Productions.[^ref-10]
 
+## Design Philosophy
+
+Hoyos has not, as far as sources found, given an interview about his approach to game design. His own website carries an artist statement about his present fine-art work, which it describes as handcrafted "using digital tools" and printed on etching paper; it says the gallery "is founded on the profound belief that every work of art, when crafted with intention and guided by aesthetic purpose, becomes more than an object." It adds: "Here, art is not merely passive decoration but an active presence."[^ref-3] The same page states: "I do not use artificial intelligence to create my artwork."[^ref-3] Of his games career it says: "The following 20+ years of my life were spent art directing and creating conceptual art design for computer games."[^ref-3]
+
 ## Legacy
 
 VGA Gallery credits Hoyos with spearheading the look of King's Quest V, Quest for Glory III and Phantasmagoria, and says he "helped elevate Sierra to one of the most successful game companies of the time".[^ref-6]
 
 ## Games
 
-Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
+Roles follow MobyGames' credit wording unless another source is cited.[^ref-13] For Leisure Suit Larry 5 the wording is that of MobyGames' current DOS credits page; the December 2022 credit sheet cited above listed the same game under "Background Artists" and "Production".[^ref-23]
 
 ### Pre-Sierra Animation Work
 
@@ -91,20 +95,22 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
 
 ### Sierra On-Line (1989–1996)
 
-- **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Assistant Art Director
-- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Illustrated by; Animators[^ref-11]
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Art Designer; voice of Mordack
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Artists (CD-ROM 1992: Graphics / Artwork)
-- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Background Artists
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Background Artists; Production
-- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Background Artists; Production Designer
-- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Art Design; Production Designer; Manual Illustrations
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Production Designer
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Art Director
-- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Role: Art Director
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Art Director; Directors
-- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Art Director; Game Directors; Writing / Dialogue / Story
-- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2: A Puzzle of Flesh]] — Role: Director; Creature Design
+| Year | Title | Role |
+|------|-------|------|
+| 1990 | [[1990 - Oils Well\|Oil's Well]] | Assistant Art Director |
+| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Illustrated by; Animators[^ref-11] |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Art Designer; voice of Mordack |
+| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Artists (manual: "Artists"; CD-ROM 1992: Graphics / Artwork)[^ref-22] |
+| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Background Artists[^ref-12] |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Graphics / Artwork; Production[^ref-23] |
+| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Background Artists; Production Designer |
+| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Art Design; Production Designer; Manual Illustrations |
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Production Designer |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Art Director |
+| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Art Director |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Art Director; Directors |
+| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Art Director; Game Directors; Writing / Dialogue / Story |
+| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria 2: A Puzzle of Flesh]] | Director; Creature Design |
 
 ### Post-Sierra (1996–2014)
 
@@ -135,3 +141,5 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13]
 [^ref-19]: [Infamous Adventures – "King's Quest III 2.0 + Voice Pack" (August 20, 2006; Wayback, September 2, 2006)](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) — "The long awaited patch and voicepack"; "Andy Hoyos' performance of about half of the Manannan files" lost, "re-recording was required on some parts"
 [^ref-20]: [MobyGames – King's Quest III: To Heir Is Human (Infamous Adventures, 2006; Moby ID 23393; Wayback, November 28, 2024)](https://web.archive.org/web/20241128102105/https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) — "Released June 19, 2006"; Andy Hoyos "bringing life to Mordack's wicked brother Manannan"
 [^ref-21]: [Wikipedia – Jewel Quest](https://en.wikipedia.org/wiki/Jewel_Quest) — "a tile-matching puzzle video game created and published by iWin"
+[^ref-22]: [Internet Archive – Jones in the Fast Lane Manual](https://archive.org/details/Jones_in_the_Fast_Lane_-_Manual) — Credits page: "Artists: Jim Larsen, Andy Hoyos" (text read from the scan's OCR)
+[^ref-23]: [MobyGames – Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, DOS credits](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/credits/dos/) — "Graphics / Artwork … Andy Hoyos"; "Production: Andy Hoyos" (ID 408)
