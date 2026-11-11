@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion", "Gobliins 6"]
 companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -21,11 +21,11 @@ Gilhodes studied desktop publishing (DTP) and drawing.[^ref-6] Of his recent gam
 
 ### Early Career
 
-Gilhodes studied DTP and drawing and presented his work to Coktel Vision in 1989.[^ref-6] His earliest credited work was Asterix: Operation Getafix (1989), where he is credited for graphics as "Pierre," followed by graphics for Geisha and Los Tres Cerditos Se Divierten in 1990.[^ref-21]
+Gilhodes studied DTP and drawing and presented his work to Coktel Vision in 1989.[^ref-6] A biography on his former personal website instead says he began creating video games with Coktel Vision in 1990; the two sources differ on the start year, and his earliest credit, Asterix: Operation Getafix, is dated 1989.[^ref-35][^ref-21] His earliest credited work was Asterix: Operation Getafix (1989), where he is credited for graphics as "Pierre," followed by graphics for Geisha and Los Tres Cerditos Se Divierten in 1990.[^ref-21]
 
 ### Coktel Vision Years
 
-MobyGames credits the original concept of [[1991 - Gobliiins|Gobliiins]] (1991) to Gilhodes and Muriel Tramis at Coktel Vision.[^ref-30] Tramis herself has said that the game's system of cooperating characters "belongs primarily to Pierre Gilhodes".[^ref-29] Coktel was an independent French studio at the time; Sierra On-Line's acquisition of the company was finalised on 29 October 1993.[^ref-27] Gilhodes went on to [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993), both credited "Created by".[^ref-28] IMDb lists him under graphics on both.[^ref-8] The French magazine Tilt introduced him in 1993 as the graphic artist and co-writer, with Muriel Tramis, of Goblins 3.[^ref-3]
+MobyGames credits the original concept of [[1991 - Gobliiins|Gobliiins]] (1991) to Gilhodes and Muriel Tramis at Coktel Vision.[^ref-30] Tramis herself has said that the game's system of cooperating characters "belongs primarily to Pierre Gilhodes".[^ref-29] Coktel was an independent French studio at the time; Sierra On-Line acquired the company on 29 October 1993.[^ref-39][^ref-27] Gilhodes went on to [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993), both credited "Created by".[^ref-28] IMDb lists him under graphics on both.[^ref-8] The French magazine Tilt introduced him in 1993 as the graphic artist and co-writer, with Muriel Tramis, of Goblins 3.[^ref-3]
 
 In the same period he illustrated Once Upon a Time: Abracadabra and Once Upon a Time: Baba Yaga (1991).[^ref-28] The Sierra release of [[1992 - Inca|Inca]] (1992) credits it as "Created by Pierre Gilhodes", with Muriel Tramis managing the project; sources disagree on who should be credited as its designer (see the game page).[^ref-7][^ref-28]
 
@@ -43,7 +43,7 @@ At the French studio Wizarbox he contributed character animation and 3D art to S
 
 Disappointed by the lack of effort to produce another Gobliiins game, Gilhodes assembled a team called Société Pollene and designed [[2009 - Gobliiins 4|Gobliiins 4]] (2009).[^ref-6] He crowdfunded [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] on Ulule, where the campaign ran from February 19 to March 21, 2022 and raised €6,950 against a €3,000 goal.[^ref-33] He released the game in 2023 as an independent developer, credited for its scenario, programming, graphics and animations.[^ref-21]
 
-On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] [[2026 - Gobliins 6|Gobliins 6]] was crowdfunded on two platforms. The Ulule campaign ran from October 9 to November 13, 2024 and raised €5,040 against a €4,000 goal.[^ref-32] The Kickstarter campaign ran from October 10 to November 9, 2024, also against a €4,000 goal; its page now shows €11,448 pledged by 470 backers.[^ref-25] The game was released on February 10, 2026.[^ref-26]
+On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] [[2026 - Gobliins 6|Gobliins 6]] was crowdfunded on two platforms. The Ulule campaign ran from October 9 to November 13, 2024 and raised €5,040 against a €4,000 goal.[^ref-32] The Kickstarter campaign ran from October 10 to November 9, 2024, also against a €4,000 goal; its page now shows €11,448 pledged by 470 backers.[^ref-25] According to a Planète Aventure forum post relaying his August 2025 Kickstarter update, Muriel Tramis helped write the scenario of two of its levels, the 2nd and the 12th.[^ref-38] The game was released on itch.io on February 10, 2026, and on Steam on February 13, 2026.[^ref-26][^ref-37]
 
 #### Comics
 
@@ -75,7 +75,7 @@ As a player, he told Tilt in 1993: "Ma préférence va aux jeux d'action et d'av
 
 ## Legacy
 
-Gilhodes has continued the Gobliiins series for more than three decades, from the Coktel games of 1991–1993 to Gobliiins 4 (2009), Gobliiins 5 (2023) and the crowdfunded Gobliins 6 (2026).[^ref-21][^ref-25][^ref-26] In 2025 he was interviewed about his career on the New Game Old Flame podcast.[^ref-13] In an earlier itch.io reply he wrote that "The Switch and other consoles version is well planned,"[^ref-16] and he later confirmed to a player: "Oui, la compil est dispo sur Switch."[^ref-16]
+Gilhodes has continued the Gobliiins series for more than three decades, from the Coktel games of 1991–1993 to Gobliiins 4 (2009), Gobliiins 5 (2023) and the crowdfunded Gobliins 6 (2026).[^ref-21][^ref-25][^ref-26] In 2025 he was interviewed about his career on the New Game Old Flame podcast.[^ref-13] In an earlier itch.io reply he wrote that "The Switch and other consoles version is well planned,"[^ref-16] and he later confirmed to a player: "Oui, la compil est dispo sur Switch."[^ref-16] On 27 May 2026 Red Art Games (with developer Red Art Studios) released the Gobliiins Collection on Switch, PS5 and Xbox Series: five games, Gobliiins through Gobliiins 5, without Gobliins 6. Its bonus content includes a mini-series and gallery presenting Gilhodes and an interview with him about the origins of the series, and a PS5 physical edition was announced to follow in September.[^ref-36]
 
 ## Games
 
@@ -136,3 +136,8 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-32]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) — Campaign October 9 – November 13, 2024; €5,040 raised against a €4,000 goal (read via the Ulule API, 2026-10-26)
 [^ref-33]: [Ulule – Gobliiins5](https://www.ulule.com/gobliiins5/) — Campaign February 19 – March 21, 2022; €6,950 raised against a €3,000 goal (read via the Ulule API, 2026-10-26)
 [^ref-34]: [Le Blog du Bouzouk – "Bouzouk - MegaDreamPark"](https://bouzoukblog.blogspot.com/2011/05/bouzouk-megadreampark-1.html) — Post published by Pierre Gilhodes, 4 May 2011
+[^ref-35]: [Pierre Gilhodes former website, author page (Wayback, 2021-01-29)](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) — "He began creating video games with Coktel Vision in 1990"
+[^ref-36]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) — May 27, 2026: Red Art Games / Red Art Studios, five games, "A physical edition will follow for PlayStation 5 in September"; bonus "Interview with the Creator"
+[^ref-37]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) — Released Feb 13, 2026; developer Pierre Gilhodes, publisher Schnibble Productions
+[^ref-38]: [Planète Aventure forum – Gobliins 6 thread](https://www.planete-aventure.net/forums/viewtopic.php?p=260050) — Forum post relaying his August 2025 Kickstarter update: Muriel Tramis helped write the scenario of levels 2 and 12
+[^ref-39]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On October 29, 1993, the Company acquired Coktel Vision S.A." for about $5,332,000

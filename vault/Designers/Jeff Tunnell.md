@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Rise of the Dragon", "The Adventures of Willy Beamish", "3-D Ultra Pinball", "Starsiege: Tribes"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "Monster Studios", "GarageGames", "PushButton Labs", "Playdom", "Spotkin", "Monster Ideas"]
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 ---
 # Jeff Tunnell
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ Retro365 ties each game to different films. Project Firestart, designed by Tunne
 
 ### Jeff Tunnell Productions (1992–1995)
 
-By the time Willy Beamish was released in 1991, Dynamix had expanded to over 100 employees.[^ref-7] Tunnell told Sierra's InterAction magazine in 1992: "I was getting a little burnt out by the enormous scale of the games and really missed the old days when we only had two or three projects under development at any one time."[^ref-23] With Ken Williams's support, he established Jeff Tunnell Productions (JTP) in early 1992, described by InterAction as "Dynamix's first spin-off division".[^ref-5][^ref-19][^ref-23] InterAction placed his "new office only a few blocks from Dynamix's main headquarters in Eugene, Oregon"; the Digital Antiquarian says he "set up shop in the office next door".[^ref-23][^ref-19] Tunnell said JTP had "only three current projects with a staff of about nine full-time employees".[^ref-23]
+Retro365 says that by the time Willy Beamish was released in 1991, Dynamix had expanded to over 100 employees.[^ref-7] MobyGames' entry for Dynamix dates the growth later, saying the company expanded "from around 30 people to more than 100 in 1993".[^ref-32] Tunnell told Sierra's InterAction magazine in 1992: "I was getting a little burnt out by the enormous scale of the games and really missed the old days when we only had two or three projects under development at any one time."[^ref-23] With Ken Williams's support, he established Jeff Tunnell Productions (JTP) in early 1992, described by InterAction as "Dynamix's first spin-off division".[^ref-5][^ref-19][^ref-23] InterAction placed his "new office only a few blocks from Dynamix's main headquarters in Eugene, Oregon"; the Digital Antiquarian says he "set up shop in the office next door".[^ref-23][^ref-19] Tunnell said JTP had "only three current projects with a staff of about nine full-time employees".[^ref-23]
 
 At JTP, Tunnell and his team focused on casual puzzles and educational games.[^ref-7] Their output included [[1992 - The Incredible Machine|The Incredible Machine]] (1992), [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993), and [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993).[^ref-8][^ref-19] In November 1994 Dynamix filed a patent, naming Tunnell and Chris Cole as inventors, for a "Computerized puzzle gaming method and apparatus"; it was granted in 1996 as US 5,577,185.[^ref-14]
 
@@ -67,6 +67,8 @@ GarageGames built "a large and vibrant development community of over 30,000 memb
 Sources date PushButton Labs differently. Wikipedia says Tunnell founded it in 2009 with former partners from GarageGames and Dynamix, and that it led development on Playdom's Social City (2010), which reached more than 10 million monthly active users.[^ref-2] MobyGames' biography says he left GarageGames on June 2, 2008, and that "his new startup Push Button Labs was announced" on November 5, 2008.[^ref-8] Tunnell joined Playdom in 2010.[^ref-17] Disney published The Incredible Machine for iOS in 2011. TouchArcade wrote that its roughly 75 puzzles were "designed, in part, by Jeff Tunnel".[^ref-17][^ref-18] According to Wikipedia, Disney acquired PushButton Labs' IP in 2011.[^ref-2]
 
 Wikipedia says Tunnell founded Spotkin in 2012.[^ref-2] Its Contraption Maker came out on Steam on July 7, 2014.[^ref-25] On March 22, 2017, Tunnell announced his retirement from game development, citing market saturation as a deciding factor. In the same post he wrote that "Kevin Ryan's Top Meadow company will be officially taking over Contraption Maker, and Spotkin will go away."[^ref-9] Steam now lists Kevin Ryan as the game's developer and Top Meadow as its publisher.[^ref-25] In June 2020 he announced his return to game making with a new company, Monster Ideas, Inc.[^ref-10]
+
+Tunnell's own website, last updated November 7, 2026, names PlayWorlds as his current project: "Today we are building PlayWorlds, a web based, much expanded version of TIM." The site describes it as a 2D physics sandbox in which young makers build contraptions and invent worlds, with an AI companion named Fidget, and labels the image shown "pre, pre, pre-production".[^ref-31]
 
 ## Notable Works
 
@@ -122,10 +124,10 @@ Roles follow MobyGames' credits (Wayback copy, 2016) unless noted; where MobyGam
 - 1989 — Ghostbusters II — Director
 - 1989 — Motocross — Design
 - 1989 — Deathtrack — Direction
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Executive Producer
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Executive Producer[^ref-27]
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Executive Producer, Documentation, Cast
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Co-Producer
-- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Executive Producer
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Co-Producer (1990 DOS release)[^ref-29]
+- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Executive Producer[^ref-28]
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Design (MobyGames); director per Kevin Ryan, and "hands-on director and designer" per Tunnell[^ref-6][^ref-5]
 - **1991** — [[1991 - Heart of China|Heart of China]] — Role: Designer and Director, Original Story
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Director
@@ -135,7 +137,7 @@ Roles follow MobyGames' credits (Wayback copy, 2016) unless noted; where MobyGam
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Design, Producer
 - **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Role: Designer
 - **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Producer and concept (vault page)
-- **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Design (MobyGames dates it 1992)
+- **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Design
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Designer, Producer
 - **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Producer, Puzzlomaniac
 - **1994** — [[1994 - Bouncers|Bouncers]] — Role: Executive Producer
@@ -144,7 +146,7 @@ Roles follow MobyGames' credits (Wayback copy, 2016) unless noted; where MobyGam
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Producer, Designer
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Executive Producer, Original Designer, Puzzlomaniac[^ref-16]
 - **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — Role: Executive Producer (Windows producer: Ken Embery)[^ref-15]
-- **1995** — [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line: The Mad Monks' Revenge]] — Role: Executive Producer
+- **1995** — [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line: The Mad Monks' Revenge]] — Role: Executive Producer[^ref-30]
 - **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Executive Producer (producer and designer: [[Randy Dersham]])[^ref-20]
 - **1995** — [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Role: Executive Producer (vault page)
 
@@ -198,3 +200,9 @@ Special Thanks only (not production roles): Take a Break! Crosswords (1992), [[1
 [^ref-24]: [Game Developer - GarageGames CEO Talks IAC Deal](https://www.gamedeveloper.com/game-platforms/garagegames-ceo-talks-iac-deal) — Leigh Alexander, September 18, 2007: "Barry Diller's IAC has acquired a majority stake in GarageGames"
 [^ref-25]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) — Release date July 7, 2014; developer Kevin Ryan; publisher Top Meadow
 [^ref-26]: [MobyGames - 3-D Ultra Pinball: The Lost Continent](https://web.archive.org/web/20230420061152/https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) — Wayback, April 2023: Windows credits "Executive Producer Jeffrey Tunnell"; Producer Ken Embery
+[^ref-27]: [MobyGames - A-10 Tank Killer credits (DOS, 1989)](https://www.mobygames.com/game/2467/a-10-tank-killer/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell"; design by Jerry Luttrell and Damon Slye
+[^ref-28]: [MobyGames - Red Baron credits (DOS, 1990)](https://www.mobygames.com/game/1766/red-baron/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell"
+[^ref-29]: [MobyGames - Stellar 7 credits (DOS, 1990)](https://www.mobygames.com/game/938/stellar-7/credits/) — read via ScraperAPI, November 2026: "Co-Producer Jeffrey Tunnell"; producer and designer Damon Slye
+[^ref-30]: [MobyGames - Lode Runner On-Line: The Mad Monks' Revenge credits](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell (as Jeff Tunnell)"
+[^ref-31]: [Jeff Tunnell - official website](https://jefftunnell.com/) — "Last updated November 7, 2026": "Today we are building PlayWorlds, a web based, much expanded version of TIM"; PlayWorlds as current build, AI companion Fidget
+[^ref-32]: [MobyGames - Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) — "expanding from around 30 people to more than 100 in 1993"
