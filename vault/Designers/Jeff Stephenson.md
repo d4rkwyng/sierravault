@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Police Quest II", "King's Quest V"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Jeff Stephenson
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Jeff Stephenson is the programmer who created [[Sierra Creative Interpreter|Sierra's Creative Interpreter]] (SCI), the object-oriented scripting language and engine behind Sierra's adventure games from 1988 to 1996, and who was responsible, with [[Ken Williams]], for much of the earlier [[Adventure Game Interpreter]] (AGI).[^ref-6][^ref-10] He was head of Sierra's AGI and SCI system programmers.[^ref-2] Ken Williams has said that "Most of the credit for AGI goes to Jeff Stephenson and myself" and that "SCI was 99% Jeff Stephenson's invention."[^ref-3]
+Jeff Stephenson is the programmer who created [[Sierra Creative Interpreter|Sierra's Creative Interpreter]] (SCI), the object-oriented scripting language and engine behind Sierra's adventure games from 1988 to 1996, and who was responsible, with [[Ken Williams]], for much of the earlier [[Adventure Game Interpreter]] (AGI).[^ref-6][^ref-10] He was head of Sierra's AGI and SCI system programmers.[^ref-6][^ref-21] Ken Williams has said that "Most of the credit for AGI goes to Jeff Stephenson and myself" and that "SCI was 99% Jeff Stephenson's invention."[^ref-3]
 
 One of Sierra On-Line's first employees, Stephenson spent about eleven years there, from around 1981 until he left the company in 1992.[^ref-4][^ref-6] In the early 1990s he was also the lead programmer on The Sierra Network (TSN), Sierra's online gaming service.[^ref-6][^ref-5]
 
@@ -35,11 +35,11 @@ Through the AGI years Stephenson is credited on most of Sierra's adventure games
 
 Because AGI had been conceived for the PCjr, it was under-equipped for the expanded graphics and sound of later hardware.[^ref-10] Stephenson's interest in object-oriented programming dated from BYTE magazine's Smalltalk issue of August 1981, which, he recalled, "I read that issue cover to cover I think, and sometimes multiple times maybe."[^ref-12]
 
-In a March 2021 interview with the Video Game Newsroom Time Machine he described the pitch: "AGI was written in such a way that it was going to take a major rework of the entire game engine and language and everything in order to support 256 colors. And so that's when I pitched Ken on SCI and basically saying okay let's go with a whole new language, we're going to have to rewrite this thing anyway, let's make things better."[^ref-12]
+In a March 2021 interview for the Video Game Newsroom Time Machine podcast (released December 2021),[^ref-28] as quoted on the benshoof.org blog, he described the pitch: "AGI was written in such a way that it was going to take a major rework of the entire game engine and language and everything in order to support 256 colors. And so that's when I pitched Ken on SCI and basically saying okay let's go with a whole new language, we're going to have to rewrite this thing anyway, let's make things better."[^ref-12]
 
 Stephenson wrote the language, the compiler and the bytecode interpreter.[^ref-12] According to [[Al Lowe]], he named it SCI "simply because it ran scripts"; the expansion "Sierra's Creative Interpreter" was coined later by someone in marketing. Lowe ties the name LSCI, for Large-model Script Code Interpreter, to Sierra's online project: he recalls that after *Leisure Suit Larry III* shipped, Ken Williams assigned Stephenson to work on a new programming language suited to "modem gaming," and that "Jeff called it LSCI."[^ref-21] MobyGames' biography condenses the same account and presents LSCI as SCI's original name.[^ref-6]
 
-Ken Williams has said that although SCI was "99% Jeff Stephenson's invention," it "had a fairly large team at Sierra to work on it," naming Larry Scott and [[Bob Heitman]] among them.[^ref-3]
+Ken Williams has said that although SCI was "99% Jeff Stephenson's invention," it "had a fairly large team at Sierra to work on it," naming Larry Scott and [[Bob Heitman]] among them.[^ref-3] Wikipedia's article on SCI lists both Stephenson and Robert Heitman as the engine's authors in its infobox, while MobyGames credits Stephenson as its creator, so the sources agree that he led the work and that Heitman was part of the team.[^ref-15][^ref-6]
 
 In a March 1990 interview, Roberta Williams described SCI as "a virtual machine language which means that it will work on any machine.… Each machine format has its own version of SCI.… Our games are never IBM conversions."[^ref-14]
 
@@ -165,10 +165,10 @@ Years in this list are MobyGames' credit years; some linked game pages file unde
 [^ref-5]: [Wikipedia - The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) — Stephenson as lead system programmer; launch May 1991; AT&T 1993–1994; AOL 1996; closed 1998
 [^ref-6]: [MobyGames - Jeff Stephenson (Wayback, October 2025)](https://web.archive.org/web/20251012142146/https://www.mobygames.com/person/52/jeff-stephenson/) — Biography (live page https://www.mobygames.com/person/52/jeff-stephenson/): created SCI; head of AGI/SCI system programmers; LSCI naming; "one of the company's first employees"; TSN lead programmer; "In 1992, he left the company for good"
 [^ref-8]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — AGI history; IBM PCjr and its Video Gate Array
-[^ref-9]: [AGI Wiki - Brief Explanation of AGI](http://agiwiki.sierrahelp.com/index.php/A_Brief_Explanation_of_AGI) — AGI game list and capabilities
+[^ref-9]: [AGI Wiki - Brief Explanation of AGI (Wayback, June 2021)](http://web.archive.org/web/20210621181010/http://agiwiki.sierrahelp.com/index.php?title=A_Brief_Explanation_of_AGI) — AGI game list and capabilities; "designed by Jeff Stephenson and Ken Williams"; live page: http://agiwiki.sierrahelp.com/index.php/A_Brief_Explanation_of_AGI
 [^ref-10]: [MobyGames - SCI Engine Group (Wayback, January 2026)](https://web.archive.org/web/20260130184359/https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/) — PCjr limitations; LSCI; "continuous development for eight years, with five major versions, from 1988 to 1996"
 [^ref-11]: [SCI Wiki - Sierra Creative Interpreter (Wayback, March 2025)](https://web.archive.org/web/20250316231700/http://sciwiki.sierrahelp.com/index.php/Sierra_Creative_Interpreter) — Dates used 1988–1996; version list
-[^ref-12]: [Ben Shoof - SCI Scripts](https://www.benshoof.org/blog/sci-scripts) — Stephenson's March 2021 interview quotes; Smalltalk/BYTE August 1981; "nine year run"
+[^ref-12]: [benshoof.org - Sierra Creative Interpreter: Scripts (July 4, 2023)](https://www.benshoof.org/blog/sci-scripts) — Stephenson's March 2021 interview quotes; Smalltalk/BYTE August 1981; "nine year run"
 [^ref-14]: [START Magazine Vol. 4 No. 8 (March 1990) - Roberta's Bequest](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) — Roberta Williams interview by Tom Byron on SCI as virtual machine
 [^ref-15]: [Wikipedia - Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) — SCI introduced with King's Quest IV
 [^ref-17]: [Laine Nooney - Sierra On-Line Origins](https://files.eric.ed.gov/fulltext/EJ1166784.pdf) — TSN as "tragically ahead of its time"
@@ -182,3 +182,4 @@ Years in this list are MobyGames' credit years; some linked game pages file unde
 [^ref-25]: [The Digital Antiquarian - The Unmaking and Remaking of Sierra On-Line (July 2013)](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) — IBM flew Ken and Jeff to Boca Raton; engine work "largely fell to Jeff Stephenson"; first called the Game Adaptation Language (GAL)
 [^ref-26]: [King's Quest Wiki - Adventure in Serenia Manual](https://kingsquest.fandom.com/wiki/Adventure_in_Serenia_Manual) — Manual transcription, title screen: "ADVENTURE IN SERENIA by Ken and Roberta Williams… Implemented by Jeff Stephenson"
 [^ref-27]: [Adventure in Serenia manual, IBM/On-Line Systems 1982 (Internet Archive scan)](https://archive.org/details/vgmuseum_sierra_serenia-manual) — Period manual: "Welcome to Adventure in Serenia, the first of On-Line Systems' pictorial adventures for the IBM"
+[^ref-28]: [Video Game Newsroom Time Machine - Jeff Stephenson Interview (episode page, Dec 14, 2021)](https://videogamenewsroomtimemachine.libsyn.com/website/jeff-stephenson-interview) — Podcast episode, "Recorded: March 2021"; audio only, no transcript on the page

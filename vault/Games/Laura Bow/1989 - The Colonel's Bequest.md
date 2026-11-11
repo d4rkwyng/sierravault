@@ -113,7 +113,7 @@ The trigger-based event system was the game's most distinctive design feature: t
 
 The game contains a rarely seen easter egg that triggers randomly, with a 1-in-200 chance, when entering the room outside the back of the mansion; fans only pinned down its trigger by decompiling the game's scripts[^ref-44]. The same analysis found that the object the egg uses, shown as a statue, contains a never-before-seen airplane animation loop[^ref-44].
 
-Ben Shoof, who decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG[^ref-36] and documented on PCGamingWiki for modern systems[^ref-8].
+The benshoof.org blog, whose author decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG[^ref-36] and documented on PCGamingWiki for modern systems[^ref-8].
 
 ### Version History
 
@@ -163,7 +163,7 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-20]: [DOS Days](https://dosdays.co.uk/topics/Games/game_colonel.php) – Technical engine comparison
 [^ref-21]: [ScummVM Documentation](https://docs.scummvm.org/en/v2.6.1/advanced_topics/understand_audio.html) – MT-32 audio bug information
 [^ref-22]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – Graphics quality assessment
-[^ref-24]: [Ben Shoof Analysis](https://www.benshoof.org/blog/super-sleuth) – Sleuth-O-Meter analysis; quotes Roberta Williams in Computer Gaming World #68
+[^ref-24]: [benshoof.org - Super Sleuth analysis](https://www.benshoof.org/blog/super-sleuth) – Sleuth-O-Meter analysis; quotes Roberta Williams in Computer Gaming World #68
 [^ref-26]: [PC Gamer Retrospective](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – Josh Mandel, who beta tested the game, on its open design
 [^ref-27]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=33&title=laura-bow-1&fld=walkthrough&pid=100) – Sleuth-O-Meter rank list
 [^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – Plot setup ("greed soon leads to murders"); puzzles "relatively easy", most "involve the use of the many inventory items"
