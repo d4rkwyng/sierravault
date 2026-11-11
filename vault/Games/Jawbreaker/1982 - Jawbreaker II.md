@@ -2,7 +2,7 @@
 title: Jawbreaker II
 release_year: 1982
 developer: Sierra On-Line
-designer: [Chuck Bueche, Doug Whittaker, Dan Drew, John M. Phillips]
+designer: [Chuck Bueche, Doug Whittaker]
 publisher: Sierra On-Line
 genre: Arcade
 platforms: [Apple II, Atari 8-bit, C64, VIC-20, TI-99/4A]
@@ -10,7 +10,7 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: The Jawbreaker (a set of teeth)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Jawbreaker II is a 1982 Sierra On-Line arcade game programmed by Chuck
   Bueche ("Chuckles"), a set of teeth eating candies across five horizontal levels,
   based on the Atari 2600 version of Jawbreaker rather than the Pac-Man-style original.
@@ -18,17 +18,17 @@ tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Jawbreaker II is an arcade game published by Sierra On-Line, programmed by Chuck Bueche (credited as "Chuckles")[^ref-1][^ref-3][^ref-24][^ref-31]. The Apple II version was out by the end of 1982: Softalk reviewed it in its January 1983 issue and listed it on that year's readers' poll ballot, which covered programs released before January 1, 1983[^ref-24]. MobyGames and Atarimania also date the Atari 8-bit version to 1982[^ref-1][^ref-3]; no period source confirming a 1982 Atari release has been found; the earliest found are the Electronic Games *1983 Software Encyclopedia* and a 1983 Electronic Games review[^ref-25][^ref-28]. Versions for the Commodore 64, VIC-20 and TI-99/4A followed in 1983[^ref-1][^ref-26][^ref-32]. The TI-99/4A cartridge was issued by Texas Instruments under its own label[^ref-32][^ref-1]. Unlike the first computer Jawbreaker, Jawbreaker II is not a Pac-Man clone; it is closer to the Atari 2600 version of the first game[^ref-1].
+Jawbreaker II is an arcade game published by Sierra On-Line, programmed by Chuck Bueche (credited as "Chuckles")[^ref-1][^ref-3][^ref-24][^ref-31]. Softalk reviewed the Apple II version in its January 1983 issue and listed it on that year's readers' poll ballot, which covered programs published between October 1, 1981 and January 1, 1983; that shows eligibility, not an exact on-sale date[^ref-24]. MobyGames and Atarimania date the Atari 8-bit version to 1982[^ref-1][^ref-3]. Softline's report on a Las Vegas game championship dated 3 December 1982 shows an Atari "Jawbreaker 2" in play, with Sierra's Chuck "Beuche" (sic) topping the table at 28,070 points; that proves the Atari version existed by then, not when it went on sale[^ref-33]. Bueche himself later called it the first program he converted for the Atari, a conversion of his Apple game[^ref-34]. The earliest retail-era sources found are the Electronic Games *1983 Software Encyclopedia* and a 1983 Electronic Games review[^ref-25][^ref-28]. Versions for the Commodore 64, VIC-20 and TI-99/4A followed in 1983[^ref-1][^ref-26][^ref-32]. The TI-99/4A cartridge was issued by Texas Instruments under its own label[^ref-32][^ref-1]. Unlike the first computer Jawbreaker, Jawbreaker II is not a Pac-Man clone; it is closer to the Atari 2600 version of the first game[^ref-1].
 
 Legal issues with the original made John Harris's Atari 2600 design the template for these later versions, which were sold, confusingly, as both Jawbreaker and Jawbreaker II[^ref-5]. Sierra released them under its SierraVision arcade label[^ref-7][^ref-9]. According to Wikipedia, the new game "was not as successful as the original"[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** Chuck Bueche (as "Chuckles")[^ref-1][^ref-24][^ref-31]; C64 version with Doug Whittaker[^ref-2]; VIC-20 version credited to Doug Whittaker[^ref-27]; TI-99/4A version programmed by Dan Drew, converted by John M. Phillips[^ref-4]
+> **Designer:** Chuck Bueche (as "Chuckles")[^ref-1][^ref-24][^ref-31]; C64 version with Doug Whittaker[^ref-2]; VIC-20 version credited to Doug Whittaker[^ref-27]; TI-99/4A version: the TI manual credits the programming to Sierra On-Line and the cartridge conversion to John M. Phillips[^ref-32]; 4APedia alone also credits a programmer, Dan Drew[^ref-4]
 > **Publisher:** [[Sierra On-Line]] (SierraVision label)[^ref-7][^ref-9]; TI-99/4A version published by Texas Instruments[^ref-32][^ref-1]
 > **Engine:** Machine Language[^ref-3]
 > **Platforms:** Apple II, Atari 8-bit, Commodore 64, VIC-20, TI-99/4A[^ref-1]
@@ -69,9 +69,11 @@ Period reviewers disagreed sharply. Softalk's January 1983 review of the Apple I
 
 Bill Kunkel, reviewing the Atari 400/800/1200 disk in Electronic Games (October 1983), found that the static energizers in the four corners made it far easier than the Tigervision 2600 cartridge it was based on: "this 'four corners' edition of Jawbreaker qualifies as a milk run." He ended: "Please, put the jawbreaker back in the middle where it belongs! Even computer games can be too easy, you know."[^ref-25]
 
-The VIC-20 cartridge drew cooler notices. Computer Entertainer (September 1983) gave it two and a half stars for both graphics and play. It wrote, "We lost interest in the 'challenge' of the game rather quickly," and suggested readers try it before buying[^ref-26]. In Video Games (January 1984), reviewer "D.P." found the aisle-based play repetitive, writing that with "only 86 dots per board, the screen is too easily cleared." The verdict was "Jawbreaker II is a fair game, but it's not quite the answer to a Pac-Maniac's prayers."[^ref-27]
+The VIC-20 cartridge drew cooler notices. Computer Entertainer (September 1983) rated it two and a half stars for each of its two ratings. It wrote, "We lost interest in the 'challenge' of the game rather quickly," and suggested readers try it before buying[^ref-26]. In Video Games (January 1984), reviewer "D.P." found the aisle-based play repetitive, writing that with "only 86 dots per board, the screen is too easily cleared." The verdict was "Jawbreaker II is a fair game, but it's not quite the answer to a Pac-Maniac's prayers."[^ref-27]
 
 The Electronic Games Software Encyclopedia rated the Atari version 10 overall in its 1983 edition, with "Outstanding" for graphics/sound and play-action[^ref-28]. The 1984 edition rated both the Atari and Commodore 64 versions 7 overall[^ref-29].
+
+Other period guides were lukewarm. *The Book of Apple Software 1984* and *The Book of Atari Software 1984* gave it an overall C in identical text, calling it "different, fun for awhile, but very shallow" and noting that "the adversaries are more predictable" than in maze-style games[^ref-35][^ref-36]. The Commodore 64 Software Buyer's Guide gave it an overall B and noted "some similarities to Pac-Man"[^ref-37]. TODAY magazine's May 1983 survey of nine Sierra games, tested on an Apple II Plus, reviewed a "Jawbreaker by 'Chuckles'" with moving doors and a "teddy-bear" skill level, which matches this game, and judged it "delightful, though young players are likely to enjoy it most"[^ref-38]. Joystik (December 1983) was harsher on the VIC-20 cartridge: "Jawbreaker II was designed for children, but without a challenge this cart has no appeal for any age level" (signed MB)[^ref-39].
 
 Wikipedia says the later game "was not as successful as the original"[^ref-5]; no sales figures were found to confirm this. The awards and best-known praise belong to the original 1981 Jawbreaker (see [[1981 - Jawbreaker|Jawbreaker]]).
 
@@ -107,9 +109,9 @@ Harris added that the open passageways at the edges of each line "weren't drawn 
 ### Versions
 
 - **Atari 8-bit:** programmed by Chuck Bueche, serials JBD-201 / SRL-212. Atarimania notes that this is Jawbreaker II "despite what the title screen says"[^ref-3]. An Atarimania commenter reports that the full disk version calls itself "Jawbreaker IV"[^ref-3].
-- **Commodore 64:** credited to Chuck Bueche and Doug Whittaker, who are also credited for the music[^ref-2].
+- **Commodore 64:** credited to Chuck Bueche and Doug Whittaker, who are also credited for the music[^ref-2]. The Commodore 64 Software Buyer's Guide (1984) priced it at $29.95 on diskette and $34.95 on cartridge[^ref-37].
 - **VIC-20:** a ROM cartridge under the SierraVision label, credited to designer Doug Whittaker[^ref-26][^ref-27]. Computer Entertainer listed it at $33.50[^ref-26]. It uses five horizontal aisles; the player starts with three sets of teeth and earns another every 10,000 points[^ref-27].
-- **TI-99/4A:** a Solid State Software Command Module, part number PHM 3194, released in 1983 at $39.95. 4APedia credits Dan Drew as programmer and John M. Phillips as converter[^ref-4]; the TI manual itself credits the programming to Sierra On-Line[^ref-32]. Texas Instruments published it under its "Texas Instruments Home Computer" label; the manual credits the program to Sierra On-Line, the cartridge conversion to John M. Phillips, and the book to Texas Instruments staff, and it carries a 1983 copyright for both companies[^ref-32].
+- **TI-99/4A:** a Solid State Software Command Module, part number PHM 3194, released in 1983 at $39.95. The TI manual itself credits the programming to Sierra On-Line and the cartridge conversion to John M. Phillips[^ref-32]. 4APedia credits Dan Drew as programmer and Phillips as converter[^ref-4]; no other source found names Drew, so that credit rests on 4APedia alone. Electronic Games' Hotline (4 December 1983) reported that TI "went to Sierra On-Line for 'Jawbreaker II'"[^ref-40]. Texas Instruments published it under its "Texas Instruments Home Computer" label; the manual credits the program to Sierra On-Line, the cartridge conversion to John M. Phillips, and the book to Texas Instruments staff, and it carries a 1983 copyright for both companies[^ref-32].
 
 Video Games reported that the VIC-20 version plays two tunes, "The French Can-Can and In the Hall of the Mountain King"[^ref-27]. Commenters identify some of the music as Mozart's Turkish March (Atari 8-bit)[^ref-3], "Gay Paris" and "Hall of the Mountain King"[^ref-17].
 
@@ -160,3 +162,11 @@ In 2014, Maggoo and Makinavaja released an MSX adaptation of the TI-99/4A versio
 [^ref-30]: [Softalk, Vol. 4 No. 4 (December 1983), p. 18 – Home-Arcade review index](https://archive.org/details/softalkv4n04dec1983) - "Jawbreaker 2. Bueche... Very playable and addictive. Fun and refreshing." $34.95, dated "1/83"
 [^ref-31]: [Softline, November/December 1983, p. 25 – "New Players: Origin Systems" by Matt Yuen](https://archive.org/details/Softline_1983_11_12) - Chuck Bueche "prefers the moniker 'Chuckles'"; his games "Jawbreaker II and Laf-Pak... both published by Sierra On-Line"
 [^ref-32]: [Internet Archive – Jawbreaker II manual (TI-99/4A)](https://archive.org/details/jawbreaker-ii-manual) - Texas Instruments Home Computer cover; programmed by Sierra On-Line, cartridge conversion by John M. Phillips; © 1983 Texas Instruments and Sierra On-Line
+[^ref-33]: [Softline, January 1983 (Vol. 2 No. 3), p. 52 – "Vegas Showdown for the Wizards"](https://archive.org/details/Softline_Magazine_Issue_2.3) - Dateline "LAS VEGAS, December 3, 1982"; "Ken Williams and Chuck Beuche have their finest hour on Jawbreaker 2"; Jawbreaker 2 table, Beuche 28,070; Atari games played first
+[^ref-34]: [ROM Magazine, Issue 9 (December 1984/January 1985) – "Interview: Chuckles (Charles Bueche)"](https://www.atarimagazines.com/rom/issue9/interview.php) - First Atari conversion was "Jawbreaker II for Sierra-Online"; on Jawbreaker he made "considerable changes" using player/missile graphics; "I've always signed my name as Chuckles"
+[^ref-35]: [The Book of Apple Software 1984](https://archive.org/details/tboas1984) - Jawbreaker II entry: Sierra On-Line, $29.95, overall C, graphics C+; "different, fun for awhile, but very shallow"
+[^ref-36]: [The Book of Atari Software 1984](https://archive.org/details/Book_of_Atari_Software_1984) - Jawbreaker II entry (disk): overall C; same review text
+[^ref-37]: [The Commodore 64 Software Buyer's Guide (Brady, 1984), p. 113](https://archive.org/details/the-commodore-64-software-buyers-guide) - SierraVision; overall B; $29.95 diskette, $34.95 cartridge; "some similarities to Pac-Man"; ten difficulty levels
+[^ref-38]: [TODAY, Vol. 2 No. 6 (May 1983), p. 36 – "Nine from Sierra" by Ernest E. Mau](https://archive.org/details/TODAYV02N06) - "Jawbreaker by 'Chuckles'"; ten starting skill levels, "teddy-bear" level; "The game is delightful, though young players are likely to enjoy it most"
+[^ref-40]: [Electronic Games Hotline, Vol. 2 No. 9 (4 December 1983)](https://archive.org/details/hotline-reese-v02-n09-1983-12-04) - "TI went to Sierra On-Line for 'Jawbreaker II'"
+[^ref-39]: [Joystik, Vol. 2 No. 3 (December 1983)](https://archive.org/details/joystik_magazine-1983-12) - VIC-20 review signed MB: "without a challenge this cart has no appeal for any age level"
