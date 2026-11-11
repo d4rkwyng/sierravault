@@ -40,7 +40,7 @@ What distinguished Police Quest from other Sierra adventures was its meticulous 
 
 The game places players in the role of Sonny Bonds, a patrol officer working the streets of fictional Lytton, California[^ref-27][^ref-42]. The narrative unfolds through realistic police scenarios, beginning with routine patrol duties including traffic stops, drunk driver arrests, and responding to various calls[^ref-15]. As Sonny progresses through his career, he becomes involved in investigating a drug trafficking operation that threatens the community.
 
-The central antagonist is Jessie Bains, a drug lord nicknamed "The Death Angel"[^ref-15][^ref-20], whose criminal network Sonny must dismantle through proper investigative procedures[^ref-21]. The story draws heavily from Jim Walls' real-world police experience, with many incidents based on actual situations he encountered during his time with the California Highway Patrol[^ref-42]. Sonny Bonds himself was loosely based on Walls' son, also named Sonny[^ref-42]. This authentic foundation gives the narrative a grounded realism rarely seen in adventure games of the era.
+The central antagonist is Jessie Bains, a drug lord nicknamed "The Death Angel"[^ref-15][^ref-20], whose criminal network Sonny must dismantle through proper investigative procedures[^ref-21]. The story draws heavily from Jim Walls' real-world police experience, with many incidents based on actual situations he encountered during his time with the California Highway Patrol[^ref-42]. This authentic foundation gives the narrative a grounded realism rarely seen in adventure games of the era.
 
 ## Gameplay
 

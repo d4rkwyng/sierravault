@@ -110,7 +110,7 @@ Reviews of the 1987 AGI original are covered on [[1987 - Police Quest - In Pursu
 
 The Police Quest series grew out of a 1985 meeting between Sierra's Ken Williams and California Highway Patrol officer Jim Walls.[^ref-22] Walls was then on administrative leave to treat trauma from a shooting a year earlier. After Walls retired from the CHP in 1986, Williams asked him to write a short story about his experiences, which became the basis of the game's plot.[^ref-22]
 
-The Police Quest wiki's page on the original describes Walls as having "15 years on the police force".[^ref-11] Many incidents in the game were based on situations Walls encountered in the CHP.[^ref-22] The protagonist, Sonny Bonds, was named after Walls' son,[^ref-19] and the game drew on Walls' personal experiences as a patrol officer.[^ref-30]
+The Police Quest wiki's page on the original describes Walls as having "15 years on the police force".[^ref-11] Many incidents in the game were based on situations Walls encountered in the CHP.[^ref-22] The game drew on Walls' personal experiences as a patrol officer.[^ref-30]
 
 ### Production
 
