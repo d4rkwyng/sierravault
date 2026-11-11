@@ -6,21 +6,21 @@ defunct: 1995
 headquarters: "Eugene, Oregon, United States"
 notable_games: ["The Incredible Machine", "Quarky & Quaysoo's Turbo Science", "Turbo Learning: Mega Math"]
 parent_company: "Dynamix (spin-off division; Sierra On-Line published its games)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Jeff Tunnell Productions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Jeff Tunnell Productions (JTP) was a small development group that Dynamix co-founder Jeff Tunnell set up in early 1992. Sierra's own *InterAction* magazine described it as "Dynamix's first spin-off division".[^ref-24][^ref-21] It was based in Eugene, Oregon, close to Dynamix's main offices.[^ref-24][^ref-1] It was active from 1992 to 1995. In that time it made *The Incredible Machine* and its follow-ups, along with the Turbo Learning educational games.[^ref-10][^ref-13] In 1995 Tunnell returned to lead Dynamix, and Dynamix took the studio over that year.[^ref-13][^ref-10][^ref-28]
+Jeff Tunnell Productions (JTP) was a small development group that Dynamix co-founder [[Jeff Tunnell]] set up in early 1992. Sierra's own *InterAction* magazine described it as "Dynamix's first spin-off division".[^ref-24][^ref-21] It was based in Eugene, Oregon, close to Dynamix's main offices.[^ref-24][^ref-1] It was active from 1992 to 1995. In that time it made *The Incredible Machine* and its follow-ups, along with the Turbo Learning educational games.[^ref-10][^ref-13] In 1995 Tunnell returned to lead Dynamix, and Dynamix took the studio over that year.[^ref-13][^ref-10][^ref-28]
 
 ## History
 
 ### Founding (1992)
 
-Tunnell has said that, "Right after completing Willy Beamish… Ken Williams supported me in founding a studio called Jeff Tunnell Productions (JTP)".[^ref-13] MobyGames' Dynamix history agrees that he "left the company after finishing The Adventures of Willy Beamish (1991)".[^ref-28] The Digital Antiquarian dates the founding to early 1992. Tunnell wanted to return to "the guerrilla model of game development" of the 1980s. He recruited Kevin Ryan, a programmer who had worked at Dynamix almost from the beginning.[^ref-21]
+Tunnell has said that, "Right after completing Willy Beamish… Ken Williams supported me in founding a studio called Jeff Tunnell Productions (JTP)".[^ref-13] MobyGames' Dynamix history agrees that he "left the company after finishing The Adventures of Willy Beamish (1991)".[^ref-28] The Digital Antiquarian dates the founding to early 1992. Tunnell wanted to return to "the guerrilla model of game development" of the 1980s. He recruited [[Kevin Ryan]], a programmer who had worked at Dynamix almost from the beginning.[^ref-21]
 
 Tunnell told *InterAction* in summer 1992 that he had "cut back to only three current projects with a staff of about nine full-time employees".[^ref-24] Sources differ on where the office was. *InterAction* placed it "only a few blocks from Dynamix's main headquarters in Eugene, Oregon", and Retro365 also says "a few blocks away".[^ref-24][^ref-29] The Digital Antiquarian says the team "set up shop in the office next door".[^ref-21] JTP stayed part of Dynamix. Tunnell later described Dynamix as the company "of which JTP was still a part of".[^ref-27]
 
@@ -28,13 +28,15 @@ Tunnell told *InterAction* in summer 1992 that he had "cut back to only three cu
 
 Tunnell has said that "Johnny Castaway was one of the first three products that we developed at Jeff Tunnell Productions. The other two were The Incredible Machine and the little known Turbo Science."[^ref-27] *InterAction* called *Quarky & Quaysoo's Turbo Science* "the first offering" from JTP, and Wikipedia dates its release to early 1992.[^ref-24][^ref-30] *Johnny Castaway* "shipped in November" 1992, according to Tunnell.[^ref-27] *The Incredible Machine* followed on 1 December 1992.[^ref-21] MobyGames lists Dynamix as its developer.[^ref-31]
 
-Tunnell later said: "I left Dynamix to work on small project at Jeff Tunnell Productions where we created games like The Incredible Machine, 3D Ultra Pinball, and Trophy Bass."[^ref-3] MobyGames credits JTP on *The Incredible Machine* (1992), *Quarky & Quaysoo's Turbo Science* (1992), *The Even More! Incredible Machine* (1993), *Turbo Learning: Mega Math* (1993), *The Incredible Machine 2* (1994) and *The Incredible Toon Machine* (1994). In all, it credits JTP on 7 games from 1992 to 2009.[^ref-10] *Computer Gaming World*'s review of *The Incredible Machine 2* in April 1995 listed "Developer: Jeff Tunnell Productions".[^ref-26] In 1994, CGW also reported that "Dynamix, through its Jeff Tunnell Productions group" was releasing *Lode Runner: The Legend Returns*.[^ref-25]
+Tunnell later said: "I left Dynamix to work on small project at Jeff Tunnell Productions where we created games like The Incredible Machine, 3D Ultra Pinball, and Trophy Bass."[^ref-3] MobyGames credits JTP on *The Incredible Machine* (1992), *Quarky & Quaysoo's Turbo Science* (1992), *The Even More! Incredible Machine* (1993), *Turbo Learning: Mega Math* (1993), *The Incredible Machine 2* (1994) and *The Incredible Toon Machine* (1994). In all, it credits JTP on 7 games from 1992 to 2009; the seventh is the 2009 compilation *The Incredible Machine: Mega Pack*.[^ref-10] *Computer Gaming World*'s review of *The Incredible Machine 2* in April 1995 listed "Developer: Jeff Tunnell Productions".[^ref-26] In 1994, CGW also reported that "Dynamix, through its Jeff Tunnell Productions group" was releasing *Lode Runner: The Legend Returns*.[^ref-25]
 
 Tunnell calls *3-D Ultra Pinball* and *Trophy Bass* (both 1995) JTP games. In his words, "3D Ultra Pinball was labeled Sierra, but it was a JTP game", and "Trophy Bass, also a JTP game".[^ref-27] Both games were credited to Dynamix on release.[^ref-32][^ref-33]
 
 ### Return to Dynamix (1995)
 
 Tunnell has said that JTP's products "ended up being the most successful ever released from Dyanmix [sic], but circumstances drew me back into a leadership role at Dynamix in 1995."[^ref-13] MobyGames says that JTP's last titles, *3-D Ultra Pinball* and *The Incredible Machine 3.0*, came out in 1995, "before Dynamix took over later that year".[^ref-10] Its Dynamix history adds: "Circumstances brought Tunnell back in 1995."[^ref-28] The Digital Antiquarian says that Dynamix asked JTP "to merge back into their main fold".[^ref-21]
+
+Tunnell has also made a sales claim of his own, with no figures. Of the Dynamix lineup, he said "the biggest sellers in the company came from JTP", and that *3-D Ultra Pinball* "was the biggest seller ever for Dynamix (of which JTP was still a part of). The second biggest seller for Dynamix was Trophy Bass, also a JTP game."[^ref-27] This is his statement, not audited sales data.
 
 ## Notable Games
 
@@ -52,8 +54,14 @@ Tunnell has said that JTP's products "ended up being the most successful ever re
 
 ## Key People
 
-- **Jeff Tunnell**: founder. He had co-founded Dynamix with Damon Slye in 1984.[^ref-1][^ref-13]
-- **Kevin Ryan**: programmer. He came from Dynamix with Tunnell.[^ref-21]
+- **[[Jeff Tunnell]]**: founder. He had co-founded Dynamix with Damon Slye in 1984.[^ref-1][^ref-13]
+- **[[Kevin Ryan]]**: programmer. Tunnell recruited him from Dynamix.[^ref-21]
+
+## Legacy
+
+The Digital Antiquarian writes that *The Incredible Machine* series "became the urtext of the entire genre of so-called 'physics simulators.'"[^ref-21] Tunnell's own account is that JTP's products "ended up being the most successful ever released from Dyanmix [sic]",[^ref-13] and that *3-D Ultra Pinball* and *Trophy Bass* were Dynamix's two biggest sellers.[^ref-27]
+
+In 2001, after Dynamix was disbanded, Tunnell co-founded the publisher GarageGames.[^ref-1] On 1 October 2009, Shacknews reported that PushButton Labs, co-founded by Tunnell, had acquired the rights to *The Incredible Machine* games and released the older titles on GOG.com as a $10 pack.[^ref-34] The Internet Archive captured the pack's GOG page as a live listing on 13 March 2026, and the same address redirected to GOG's games index when captured on 4 May 2026.[^ref-35][^ref-36]
 
 ## Games
 
@@ -63,12 +71,12 @@ Years follow the vault game pages.
 - **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Genre: Screen saver (Tunnell names it one of JTP's first three products)[^ref-27]
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Genre: Puzzle (made at JTP; credited to Dynamix on release)[^ref-21][^ref-31]
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More Incredible Machine]] — Genre: Puzzle
-- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Genre: Puzzle
+- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Genre: Puzzle (credit disputed between JTP and Dynamix)
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Genre: Educational/Puzzle
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Genre: Puzzle[^ref-26]
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Genre: Puzzle
 - **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Genre: Puzzle-platform (developed by Presage Software; the credits place it under the JTP label)[^ref-25]
-- **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — Genre: Puzzle (Dynamix and JTP)
+- **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — Genre: Puzzle (credit differs between JTP and Dynamix)
 - **1995** — [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Genre: Pinball (Tunnell calls it a JTP game; it was credited to Dynamix)[^ref-27][^ref-32]
 - **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Genre: Fishing (Tunnell calls it a JTP game; it was credited to Dynamix)[^ref-27][^ref-33]
 
@@ -91,3 +99,6 @@ Years follow the vault game pages.
 [^ref-31]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) — DOS 1992 release: "Developed by Dynamix, Inc.", published by Sierra On-Line (read via the MobyGames API, October 2026)
 [^ref-32]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/935/3-d-ultra-pinball/) — Windows 1995 release: "Developed by Dynamix, Inc.", published by Sierra On-Line (read via the MobyGames API, October 2026)
 [^ref-33]: [MobyGames - Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) — Windows 1995 release: "Developed by Dynamix, Inc.", published by Sierra On-Line (read via the MobyGames API, October 2026)
+[^ref-34]: [Shacknews - PushButton Labs Acquires The Incredible Machine IP (Nick Breckon, October 1, 2009)](https://www.shacknews.com/article/60702/pushbutton-labs-acquires-the-incredible) — PushButton Labs, "formed by GarageGames vets", acquired the rights to The Incredible Machine games; older titles released on GOG.com for $10; Tunnell named as PushButton co-founder and original TIM co-designer
+[^ref-35]: [GOG.com - The Incredible Machine Mega Pack (Wayback Machine capture, 13 March 2026)](https://web.archive.org/web/20260313030618/https://www.gog.com/en/game/the_incredible_machine_mega_pack) — product page captured as a live listing
+[^ref-36]: [GOG.com - The Incredible Machine Mega Pack (Wayback Machine capture, 4 May 2026)](https://web.archive.org/web/20260504163616/https://www.gog.com/en/game/the_incredible_machine_mega_pack) — the same address captured as a redirect to gog.com/games
