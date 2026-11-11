@@ -10,16 +10,16 @@ series: Laura Bow
 engine: SCI 1.1
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Christopher G. Braymen]
 description: '*The Dagger of Amon Ra* is a murder mystery adventure game developed
   and published by Sierra On-Line in 1992, serving as the second and final installment
-  in...'
+  in the Laura Bow Mysteries series.'
 tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,9 @@ The original floppy version features copy protection requiring players to answer
 
 *PC Games* called it "a captivating whodunit" with "near-perfect blending of sound effects, music, and graphics"[^ref-1]. *Dragon* magazine awarded it 4 out of 5 stars[^ref-1]. The game retailed for $69.95 at launch[^ref-5].
 
-However, *Computer Gaming World* later ranked the game's finale as #7 on their list of "Least Rewarding Endings of All Time" in November 1996[^ref-8], reflecting criticism of the challenging final act.
+The same review was not without criticism. Miller found that "game play in the first two acts seems rather slow and repetitive, unduly constraining the player's options," and that "until Act 3 begins, the actual puzzle solving is too sparse to maintain a strong interest on the part of the player"; once into Act 3, however, "the game is very difficult to set aside"[^ref-5]. Wikipedia's summary of the review adds that it also criticized the possibility of unwinnable situations[^ref-1]. In April 1994, *Computer Gaming World* said the CD version's "hand-painted art, emotive stereo soundtrack, deep puzzles, and a convoluted storyline all combine to make this multimedia game a winner"[^ref-1].
+
+In November 1996, *Computer Gaming World* ranked the game's ending #7 on its list of "Least Rewarding Endings of All Time"[^ref-8].
 
 ### Modern Assessment
 
@@ -99,7 +101,7 @@ Modern reviewers have offered mixed perspectives on the game. Adventure Classic 
 Hardcore Gaming 101 noted that "despite Roberta Williams' name on the box, she had little to do with *The Dagger of Amon Ra* beyond providing the concept and lending her character to star in a new game"[^ref-4]. The site also observed that "it's practically impossible to get the good ending the first time through"[^ref-4].
 
 **Aggregate Scores:**
-- **GOG.com:** 4.4/5 (39 reviews, as of October 2026)[^ref-6]
+- **GOG.com:** 4.4/5 (as checked November 11, 2026)[^ref-6]
 - **MobyGames Critics:** 75%[^ref-8]
 
 ## Development
@@ -130,6 +132,7 @@ The elaborate death scenes, in which each victim meets a gruesome end tied to a 
 - **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
 - **Creative Director:** Bill Davis[^ref-1]
 - **Lead Programmer:** Brian K. Hughes[^ref-29]
+- **CD Conversion Programmers:** Bob Andrews, [[Scott Murphy]][^ref-29]
 - **Art Director:** Cheryl Sweeney[^ref-29]
 
 ### Technical Achievements
@@ -223,7 +226,7 @@ Key variables affecting endings include:
 
 As Hardcore Gaming 101 noted, "it's practically impossible to get the good ending the first time through"[^ref-4].
 
-## Voice Cast
+### Voice Cast
 
 The cast below is from the 1993 CD-ROM version, which added voice acting; the original 1992 floppy release has no speech[^ref-1][^ref-8].
 
