@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2016
 total_games: 10
 genre: "Adventure"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # King's Quest Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,11 +24,11 @@ The original King's Quest was commissioned by IBM as a showcase adventure for it
 
 | Year | Title | Engine | Protagonist |
 |------|-------|--------|-------------|
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | AGI | King Graham |
+| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | AGI | Sir Graham |
 | 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | AGI | King Graham |
 | 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | AGI | Gwydion/Alexander |
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | AGI/SCI0 | Princess Rosella |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I SCI Remake]] | SCI0 | King Graham |
+| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I SCI Remake]] | SCI0 (SCI01 variant)[^ref-23] | Sir Graham |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | SCI1 | King Graham |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | SCI1.1 | Prince Alexander |
 | 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | SCI2.1 (SCI32) | Rosella & Valanice |
@@ -80,7 +80,7 @@ The Adventure Game Interpreter powered KQ1-KQ3 and the AGI release of KQ4, and A
 
 ### SCI Era (1988-1994)
 The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which shipped in both AGI and SCI versions.[^ref-15][^ref-7] The engine moved through several generations within the series:[^ref-15]
-- **SCI0 (1988)** - 320x200, 16-colour EGA, still with a text parser (KQ4 SCI and the 1990 KQ1 remake)
+- **SCI0 (1988)** - 320x200, 16-colour EGA, still with a text parser (KQ4 SCI; the 1990 KQ1 remake is catalogued as an SCI0.1 / SCI01 variant of this generation[^ref-23])
 - **SCI1 (1990)** - 256-colour VGA and an icon-driven point-and-click interface, beginning with KQ5
 - **SCI1.1 / SCI32** - KQ6, then KQ7's high-resolution SVGA graphics[^ref-16]
 - KQ4 was among the earliest PC games to support sound cards[^ref-2]
@@ -90,6 +90,8 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 - The 2015 re-imagining by The Odd Gentlemen was built on Unreal Engine 3 and released in five chapters plus an epilogue[^ref-13]
 
 ## Critical Reception
+
+The series is remembered less for any single review than for what it set in motion: the first game is routinely cited as defining the graphical adventure, and later entries are recalled for their sales (KQ5, KQ6) and for their art or ambition (KQ7, KQ8).[^ref-7][^ref-2] The table below collects the reception notes sourced for each game.
 
 | Game | Notable Reception |
 |------|-------------------|
@@ -103,6 +105,8 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 
 ## Legacy
 
+King's Quest left its mark on the adventure genre, on Sierra's own reputation, and on a fan community that has kept the kingdom of Daventry alive through remakes and continuations.[^ref-2][^ref-10]
+
 ### Industry Impact
 - Ars Technica calls the first game "the game that defined the genre"[^ref-7]
 - Let players move an animated character behind and in front of objects in a third-person view[^ref-2][^ref-3]
@@ -112,7 +116,7 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 ### Fan Community
 The series maintains an active fan community decades after the original games:
 - **AGDI** created fan remakes of KQ1-3[^ref-8]
-- **The Silver Lining** - A fan-made continuation released under a non-commercial licence from Activision, on condition that it be made clear it is "not an official sequel"[^ref-19][^ref-9]
+- **The Silver Lining** - A fan-made continuation released under a non-commercial licence from Activision, on condition that it be made clear it is "not an official sequel"; its fifth and final episode, announced for 2017, has not been released[^ref-19][^ref-9][^ref-24][^ref-25]
 - **King's Quest Omnipedia** - Comprehensive fan wiki[^ref-1]
 
 ### Merchandise and Adaptations
@@ -153,7 +157,7 @@ The series maintains an active fan community decades after the original games:
 
 ### Fan Sequels
 
-- **2010-2011** (Episodes 1-4; Episode 5 unreleased) — [[2010 - The Silver Lining|The Silver Lining]] — Developer: Phoenix Online Studios, Link: [POS](https://www.postudios.com/company/games/thesilverlining/)[^ref-19]
+- **2010-2011** (Episodes 1-4; Episode 5 unreleased) — [[2010 - The Silver Lining|The Silver Lining]] — Developer: Phoenix Online Studios, Link: [POS](https://www.postudios.com/company/games/thesilverlining/)[^ref-19]. It remains unfinished: Phoenix Online Studios announced Episode 5 for 2017,[^ref-24] and its last progress report on the studio blog is dated 31 January 2019.[^ref-25]
 
 ## See Also
 
@@ -204,3 +208,6 @@ The series maintains an active fan community decades after the original games:
 [^ref-20]: [Computer Gaming World #103 (February 1993), p. 154, "Letters from Paradise: Platinum Plateau"](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/mode/1up) – SPA Platinum = audited 250,000 units; "King's Quest III, King's Quest V and Battle Chess were the most recent certifications" (checked against page scan)
 [^ref-21]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – 1992; Checkers and Backgammon played against King Graham; game 20400 listed in King's Quest series group 3 (read via the MobyGames API)
 [^ref-22]: [UHS - King's Quest: Mask of Eternity hints](https://www.uhs-hints.com/uhsweb/kq8.php) – Seven areas: Kingdom of Daventry, Dimension of Death, Swamp, Underground Realm of the Gnomes, Barren Region, Frozen Reaches, Realm of the Sun
+[^ref-23]: [SCI Wiki - Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) – lists the King's Quest I SCI remake (interpreter S.old.010, demo dated 1990/09/19) under "SCI0.1" (SCI01); ScummVM's own source (engines/sci/engine/features.cpp) also treats KQ1 as an SCI_VERSION_01 game
+[^ref-24]: [Phoenix Online Studios blog - The Silver Lining Haunted Castle Experience available now, and Episode 5 coming in 2017 (Katie Hallahan, November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – final episode "will be releasing in 2017"
+[^ref-25]: [Phoenix Online Studios blog - The Silver Lining updates (Katie Hallahan, January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) – "No, this isn't a release date announcement. It's a progress report!"
