@@ -7,18 +7,18 @@ first_release: 1995
 last_release: 1996
 total_games: 2
 genre: "Horror, FMV Adventure"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Phantasmagoria Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The Phantasmagoria series is Sierra's two-game foray into mature-rated full-motion-video horror — [[1995 - Phantasmagoria|Phantasmagoria]] (1995) designed by [[Roberta Williams]] and [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] (1996) designed by [[Lorelei Shannon]]. The two titles share branding and atmosphere but tell unrelated stories — Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment telling a different story in a different style.[^ref-1][^ref-2]
 
-The series is significant for three reasons: it represents [[Roberta Williams]]'s pivot away from family-fairy-tale adventure into horror aimed at adults; it produced Sierra's best-selling game to that point (the original *Phantasmagoria* sold 300,000 units in its first weekend; Sierra's July 1996 10-K reported more than 600,000 copies sold, and Roberta Williams later recalled more than a million in less than a year; the Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra")[^ref-25][^ref-26]; and it tested the commercial limits of mature adventure-game content. The first game carried an ESRB "M" rating, was refused classification in Australia, was declined by CompUSA before release, and was condemned by religious organizations and politicians.[^ref-1][^ref-3][^ref-11]
+The series is significant for three reasons: it represents [[Roberta Williams]]'s pivot away from family-fairy-tale adventure into horror aimed at adults; it produced Sierra's best-selling game to that point (the original *Phantasmagoria* sold 300,000 units in its first weekend;[^ref-1][^ref-11] Sierra's July 1996 10-K reported more than 600,000 copies sold, and Roberta Williams later recalled more than a million in less than a year; the Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra")[^ref-25][^ref-26][^ref-3]; and it tested the commercial limits of mature adventure-game content. The first game carried an ESRB "M" rating, was refused classification in Australia, was declined by CompUSA before release, and was condemned by religious organizations and politicians.[^ref-1][^ref-3][^ref-11]
 
 ## Series Timeline
 
@@ -65,6 +65,10 @@ Sierra's 10-K, filed July 1, 1996, said more than 600,000 copies of *Phantasmago
 
 *Phantasmagoria* has been sold digitally on GOG.com since February 2010; both games are currently sold there as separate products, and both are also sold on Steam.[^ref-1][^ref-12][^ref-18][^ref-23][^ref-24]
 
+## Playing Today
+
+Both games are on sale on GOG.com and Steam (see Legacy); the Steam store lists both with a release date of 29 August 2016.[^ref-23][^ref-24] ScummVM's compatibility list rates *Phantasmagoria* "Good" (it "may have minor issues that do not impact the experience" and "can be played all the way through") and *Phantasmagoria 2: A Puzzle of Flesh* "Excellent" ("no known issues").[^ref-28]
+
 ## See Also
 
 - [[Roberta Williams]] — Original designer
@@ -97,3 +101,4 @@ Sierra's 10-K, filed July 1, 1996, said more than 600,000 copies of *Phantasmago
 [^ref-25]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — filed July 1, 1996; Item 1: "More than 600,000 copies of this product have been sold"
 [^ref-26]: [Adventure Classic Gaming — Interview with Roberta Williams (Philip Jong, July 16, 2006; Wayback)](https://web.archive.org/web/20130310053850/http://www.adventureclassicgaming.com/index.php/site/interviews/198/) — "It sold more than a million copies in less than a year, which, in those days, was phenomenal"
 [^ref-27]: [Adventure-Treff – Interview with Lorelei Shannon (2011)](https://www.adventure-treff.de/interviews/11802-lorelei-shannon) – "I was co-designer on the game" (King's Quest VII); "I mostly just wrote dialog for Dagger of Amon Ra"
+[^ref-28]: [ScummVM — Game compatibility list](https://www.scummvm.org/compatibility/) — sci:phantasmagoria rated Good; sci:phantasmagoria2 rated Excellent (checked 2026-11-11)
