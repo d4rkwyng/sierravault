@@ -1,14 +1,14 @@
 ---
 title: "Cancelled Game Index"
 type: reference
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: "Every game in the SierraVault Cancelled folder, with what the sources say about when and why it ended, who led it (where known), and what is known to survive."
 tags: [reference, cancelled, never-released]
 ---
 
 # Cancelled Game Index
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 
 - **Type:** Cancelled franchise sequel
 - **Lead designer:** [[Roberta Williams]] wrote the original concept; later attempts were made without her.[^ref-28]
-- **Cancellation:** Several official attempts never shipped: *King's Quest: Twins of Change* (1999–2002, Sierra's Seattle studio under Vivendi), a Silicon Knights project (2007) and a Telltale Games project (2011).[^ref-28] *King's Quest* (2015) by The Odd Gentlemen was a reimagining; its creative director Matt Korba said "it's not King's Quest IX or anything like that".[^ref-28]
+- **Cancellation:** Several official attempts never shipped: *King's Quest: Twins of Change* (1999–2002, Sierra's Seattle studio under Vivendi), a Silicon Knights project (2007) and a Telltale Games project (2011–2013), which Telltale's Steve Allison confirmed on April 3, 2013 was no longer being worked on.[^ref-28][^ref-37][^ref-38] *King's Quest* (2015) by The Odd Gentlemen was a reimagining; its creative director Matt Korba said "it's not King's Quest IX or anything like that".[^ref-28]
 - **Status today:** No playable build is known. A summary design document was given to the King's Quest Omnipedia with Ken and Roberta Williams' permission.[^ref-28]
 
 ### [[CXL - Space Quest VII - Return to Roman Numerals]]
@@ -45,7 +45,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 ### [[CXL - Manhunter 3]]
 
 - **Type:** Cancelled franchise sequel
-- **Lead designer:** Evryware (original Manhunter team)
+- **Lead designers:** Barry Murry, Dave Murry and Dee Dee Murry of Evryware, the creators of the Manhunter series[^ref-17][^ref-35]
 - **Cancellation:** 1989. *Manhunter 2: San Francisco* ended on a cliffhanger that set up *Manhunter 3: London*, but "The association between Evryware and Sierra ended in 1989"; no production deal was ever struck.[^ref-17]
 - **Status today:** No assets are known; the Manhunter Shrine says "virtually no details" were ever released.[^ref-17]
 
@@ -64,6 +64,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 ### [[CXL - SWAT - Urban Justice]]
 
 - **Type:** Cancelled SWAT series entry
+- **Game designer:** Travis Steiner[^ref-36]
 - **Cancellation:** Announced in February 2002 and made at Sierra's Bellevue, Washington office;[^ref-21][^ref-22] in April 2004 a Vivendi Universal spokesperson said work had been "discontinued" in favour of SWAT 4.[^ref-21]
 - **Status today:** IGN published the team's developer diaries in 2002.[^ref-22]
 - **Significance:** The series continued under Sierra: *SWAT 4* (2005) was developed by Irrational Games and published by Sierra Entertainment.[^ref-23]
@@ -87,6 +88,13 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 - **Lead designer:** [[Jim Walls]][^ref-10]
 - **Cancellation:** 2013. The Kickstarter for *Precinct*, "from the creators of 'Police Quest'", was cancelled with $85,756.56 pledged against a $500,000 goal.[^ref-10]
 - **Significance:** Example of an alumnus revival attempt that didn't reach commercial production.
+
+### King's Quest: Kingdom of Sorrow (Infamous Adventures)
+
+- **Type:** Cancelled fan sequel, based on the *King's Quest* novel *Kingdom of Sorrow* by "Kenyon Morr"
+- **Developer:** Infamous Adventures
+- **Announcement:** June 2010, when the secret "Project X" was revealed as *Kingdom of Sorrow*. Wikipedia gives June 18, 2010; the King's Quest Omnipedia says the announcement was made on June 20, 2010 after two days of unplanned delay from a scheduled June 18.[^ref-33][^ref-34]
+- **Cancellation:** Wikipedia says the game "was announced to be cancelled on 27 July 2012"; the Omnipedia says only that the studio was forced to "cancel or put on indefinite hold" the game over licensing issues and other reasons.[^ref-33][^ref-34]
 
 ---
 
@@ -159,3 +167,8 @@ Manhunter 3 fits none of these: no deal to make it was ever struck.[^ref-17]
 [^ref-31]: [Wikipedia — Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — March 2015 announcement of The King's Challenge and "a prequel to Quest for Infamy, titled Quest for Infamy: Roehm to Ruin"
 [^ref-32]: [Steam — The Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) — "Release Date: Jan 26, 2016"; developer and publisher Infamous Quests
 [^ref-33]: [Wikipedia — Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) — "A post made on their website dated July 27, 2012, announced that they are no longer producing games"
+[^ref-34]: [King's Quest Omnipedia — King's Quest: Kingdom of Sorrow (Infamous Adventures)](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) — "announced the 20th of June 2010 with 2 days of non-planned delays, the announcement was scheduled on the 18th"; "forced to cancel or put on indefinite hold"
+[^ref-35]: [Manhunter Wiki — Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) — "going to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line"
+[^ref-36]: [IGN — SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) — "Game Designer Travis Steiner guides us through the fourth segment" (SWAT: Urban Justice Q&A #1, August 21, 2002)
+[^ref-37]: [Wikipedia — King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) — Telltale project first announced February 17, 2011; "confirmed to be canceled by Telltale senior vice president of publishing, Steve Allison, on April 3, 2013"
+[^ref-38]: [GameSpot — King's Quest Rights Go From Telltale to Activision](https://www.gamespot.com/articles/kings-quest-rights-go-from-telltale-to-activision/1100-6406390/) — "we can confirm that we are no longer working on the franchise"
