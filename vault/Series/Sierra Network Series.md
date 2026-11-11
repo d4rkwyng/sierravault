@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 1995
 total_games: 3
 genre: "MMO / Online Gaming Platform"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Sierra Network / ImagiNation Network Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -94,7 +94,22 @@ TSN/INN's historical importance is twofold:
 1. **As MMO progenitor** — *Yserbius* and its sequels were early commercial graphical multiplayer CRPGs, launched years before *Ultima Online* (1997) and *EverQuest* (1999), on a network Wikipedia describes as a "land-based" precursor to MMORPGs.[^ref-4][^ref-13]
 2. **As Sierra's first online-gaming venture** — Sierra announced TSN as a wholly-owned subsidiary and planned for nationwide reach within a year of launch.[^ref-4]
 
-The platform has been revived by fans more than once. In late 2007 the ImagiNation Revival Project brought the network back using the original client software under DOSBox, with *Yserbius* playable online again until the server was shut down in early 2016.[^ref-7] PC Gamer's Richard Cobbett notes later revival efforts, now the INN Barn Project.[^ref-14] *MedievaLands* is a full remake of *Yserbius* and *Twinion* for modern Windows and macOS.[^ref-7][^ref-18]
+The platform has been revived by fans more than once. In late 2007 the ImagiNation Revival Project brought the network back using the original client software under DOSBox, with *Yserbius* playable online again until the server was shut down in early 2016.[^ref-7] PC Gamer's Richard Cobbett notes later revival efforts, now the INN Barn Project.[^ref-14] The INN Barn site describes it as an ImagiNation Network host re-creation with a proxy that supports client version 2.4 from 1995, running since May 2019 and created by James "Jim" Leiterman.[^ref-23] *MedievaLands* is a full remake of *Yserbius* and *Twinion* for modern Windows and macOS.[^ref-7][^ref-18]
+
+## Setting
+
+TSN presented itself as a "cyberspace theme park,"[^ref-1] divided into themed areas. MedievaLand, home of *The Shadow of Yserbius*, was introduced in Sierra's Fall 1992 magazine as "the newest area on TSN."[^ref-19] SierraLand (an online amusement park) and LarryLand (an online casino themed on *Leisure Suit Larry*) were premium lands at $4 per month each, and the Clubhouse hosted the parlor games.[^ref-4]
+
+## Critical Reception
+
+- *Computer Gaming World* (May 1993): "those who possess the money would be well served to try out TSN and Yserbius."[^ref-16]
+- Jimmy Maher (The Digital Antiquarian) calls *Yserbius* "a more limited but better-looking multiplayer CRPG" than America Online's *Neverwinter Nights*.[^ref-4]
+
+## Playing Today
+
+- **INN Barn** — a fan-run ImagiNation Network host re-creation, running since May 2019 and supporting the 1995 client version 2.4: [innbarn.com](https://www.innbarn.com).[^ref-23]
+- ***MedievaLands*** — a remake of *The Shadow of Yserbius* for modern systems.[^ref-18]
+- ***The Realm Online*** — still operated by Digital Alchemy.[^ref-9][^ref-17]
 
 ## See Also
 
@@ -130,3 +145,4 @@ The platform has been revived by fans more than once. In late 2007 the ImagiNati
 [^ref-20]: [InterAction Magazine Vol. VI No. 2 (Summer 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_2_Summer_1993_1993_Sierra_On-Line_US) — "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure"
 [^ref-21]: [Sierra News Magazine Vol. 4 No. 1 (Spring 1991)](https://archive.org/details/Sierra_News_Magazine_Volume_4_Number_1_Spring_1991) — Ken Williams: "In October of 1990 we announced… a test going with 1,000 users in the Los Angeles area"
 [^ref-22]: [Computer Gaming World #95 (June 1992)](https://archive.org/details/Computer_Gaming_World_Issue_95) — "Sierra has finally launched their long-anticipated multi-player Red Baron on The Sierra Network"
+[^ref-23]: [INN Barn — Home](https://www.innbarn.com) — "An ImagiNation Network host re-creation w/proxy, which supports the client version 2.4 from 1995"; "running since May of 2019"; created by James "Jim" Leiterman
