@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Defender of the Crown", "Betrayal at Krondor", "Rocket Ranger", "Wings", "The Three Stooges", "Fairway Solitaire"]
 companies: ["Gamestar", "Cinemaware", "New World Computing", "Dynamix", "Cavedog Entertainment", "Gas Powered Games", "Big Fish Games", "Wooga"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # John Cutter
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-John Cutter is an American video game designer whose career stretches from the mid-1980s to the 2010s.[^ref-1][^ref-34] He was the first employee of the Amiga developer Cinemaware, recruited by founder Bob Jacob, and produced or designed many of its best-known games.[^ref-1][^ref-5][^ref-10][^ref-2] Later, at Dynamix, he was lead designer and director of [[1993 - Betrayal at Krondor|Betrayal at Krondor]], which won Computer Gaming World's Role-Playing Game of the Year award and was named overall Game of the Year by Computer Games Strategy Plus.[^ref-1][^ref-3]
+John Cutter is an American video game designer whose career stretches from the mid-1980s to the 2010s.[^ref-1][^ref-34] He was the first employee of the Amiga developer Cinemaware, recruited by founder Bob Jacob, and produced or designed many of its best-known games.[^ref-1][^ref-5][^ref-10][^ref-2] Later, at Dynamix, he was lead designer and director of [[1993 - Betrayal at Krondor|Betrayal at Krondor]], which won Computer Gaming World's Premier Role-Playing Game of the Year award and was named overall Game of the Year by Computer Games Strategy Plus.[^ref-1][^ref-3][^ref-40]
 
 According to MobyGames, Cutter attended Pepperdine University from 1980 to 1983. He told the Academy of Interactive Arts & Sciences that he studied Radio & Television broadcasting there, with a minor in advertising.[^ref-1][^ref-4] He has said that most of his career was spent on core PC and console titles, and that his first ten years in the industry were "a bit like the Wild West".[^ref-4] In 2006 he moved to casual games at Big Fish Games, where his best-known title is Fairway Solitaire.[^ref-4][^ref-1] His LinkedIn profile opens: "I have worn many hats in my 40 years as a game developer".[^ref-6]
 
@@ -23,7 +23,9 @@ His own bio says five of his games appear in Computer Gaming World's list of the
 
 ### Early Career and Gamestar (1984–1986)
 
-Cutter grew up making games: he reinvented Dungeons & Dragons with his own rules, then taught himself BASIC on his first computer. After buying a Commodore 64 he learned machine language, which led to his first industry job as a junior coder.[^ref-4][^ref-34] He worked as a designer and programmer for Gamestar from 1984 to 1986, mainly on sports games.[^ref-1] His credits there include directing Star Rank Boxing (1985), creating On-Track: Computer Model Car Racing (1985), game design and graphics for GBA Championship Basketball: Two-on-Two (1986).[^ref-9] MobyGames also credits him with animation on Howard the Duck (1986, Commodore 64) and lists him under "Created by" on its 1987 MSX and Amstrad CPC versions.[^ref-9]
+Cutter grew up making games: he reinvented Dungeons & Dragons with his own rules, then taught himself BASIC on his first computer. After buying a Commodore 64 he learned machine language, which led to his first industry job as a junior coder.[^ref-4][^ref-34] He worked as a designer and programmer for Gamestar from 1984 to 1986, mainly on sports games.[^ref-1] His credits there include directing Star Rank Boxing (1985), creating On-Track: Computer Model Car Racing (1985), game design and graphics for GBA Championship Basketball: Two-on-Two (1986).[^ref-9]
+
+Separately, MobyGames credits him with animation on Howard the Duck (1986, Commodore 64) and lists him under "Created by" on its 1987 MSX and Amstrad CPC versions.[^ref-9] His own games page lists his role on Howard the Duck as "Animator".[^ref-39]
 
 Watching his boss struggle to learn assembly on the Macintosh, he realized that "programming is just a means to an end for me. I just like seeing my ideas come to life on the screen. I've been a designer ever since."[^ref-4]
 
@@ -31,7 +33,7 @@ Watching his boss struggle to learn assembly on the Macintosh, he realized that 
 
 In 1986, Cutter joined Cinemaware, where he became employee #1.[^ref-1][^ref-10] The Legendary Games podcast introduced its 2022 interview with him with his line: "After we released 'Defender of the Crown', we at Cinemaware were the rock stars of the industry for a while." It added that, as creative director, he managed almost all of the company's 15 published games, and that the company grew to more than 60 permanent employees.[^ref-5] Legendary Games also wrote that he regards his Cinemaware work as among the most fulfilling of his career.[^ref-5]
 
-His first Cinemaware project was Defender of the Crown (1986), on which he is credited as associate producer and artist on the Amiga version.[^ref-9][^ref-12] He was associate producer, associate director and manual writer on The King of Chicago (1987).[^ref-13][^ref-9] On S.D.I. (1987) he was associate producer of the Amiga original and producer of the DOS version, and he was associate producer on Sinbad and the Throne of the Falcon (1987).[^ref-14][^ref-9] On The Three Stooges (1987) he is credited as producer, director, and concept and game designer.[^ref-15][^ref-9]
+His first Cinemaware project was Defender of the Crown (1986), on which he is credited as associate producer and artist on the Amiga version.[^ref-9][^ref-12] He was associate producer, associate director and manual writer on The King of Chicago (1987).[^ref-13][^ref-9] On S.D.I. (1987) he was associate producer of the Amiga original and producer of the DOS version, and he was associate producer on Sinbad and the Throne of the Falcon (1987).[^ref-14][^ref-9] On The Three Stooges (1987) he is credited as producer, director, and concept and game designer.[^ref-15][^ref-9] His own games page describes his Defender of the Crown and Rocket Ranger roles as "Producer (w/ design contributions)", which differs from MobyGames' associate producer and artist credit on Defender and its producer, director and original design credits on Rocket Ranger.[^ref-39][^ref-9]
 
 Cutter produced Rocket Ranger (1988), was its director on the Commodore 64 version, and is credited with its original design on the Atari ST and Apple IIgs versions.[^ref-16][^ref-9] He produced and designed TV Sports: Football (1988) and was associate designer on TV Sports: Basketball (1989).[^ref-17][^ref-9] He produced Lords of the Rising Sun (1989).[^ref-18]
 
@@ -39,7 +41,7 @@ His final Cinemaware design credits were Wings (1990), on which he was game desi
 
 ### New World Computing and Dynamix (1991–1994)
 
-After Cinemaware, Cutter had a short stay at New World Computing, and he joined Dynamix the same year.[^ref-1] He has listed Might and Magic IV among his core PC titles.[^ref-4] At Dynamix he was designer and director of [[1993 - Betrayal at Krondor|Betrayal at Krondor]], a role-playing game set in Raymond E. Feist's Riftwar universe.[^ref-3][^ref-9]
+After Cinemaware, Cutter had a short stay at New World Computing, and he joined Dynamix the same year.[^ref-1] He has listed Might and Magic IV among his core PC titles.[^ref-4] At Dynamix he was designer and director of [[1993 - Betrayal at Krondor|Betrayal at Krondor]], a role-playing game set in Raymond E. Feist's Riftwar universe.[^ref-3][^ref-9] MobyGames lists him for Design and Director; his own games page lists his roles as "Designer, Producer", and says Hallford did most of the writing and low-level design while he focused on the combat system, the Wordlock chests and other puzzles.[^ref-9][^ref-39]
 
 Cutter and writer Neal Hallford created the game's plot, text and new characters. Feist later credited both as co-authors of the original story for his novelization *Krondor: The Betrayal*, and dedicated the book to them.[^ref-3] The game was designed to resemble a book, with chapters and third-person narration.[^ref-3]
 
@@ -79,7 +81,7 @@ On The Three Stooges, Cutter is credited as producer, director, and concept and 
 
 ### [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993)
 
-Cutter was designer and director of Betrayal at Krondor, based on Raymond E. Feist's Riftwar universe.[^ref-3][^ref-9] It was named 1993's best role-playing game and Game of the Year by Computer Games Strategy Plus and won Computer Gaming World's Role-Playing Game of the Year award in June 1994. CGW ranked it #43 on its 1996 list of the 150 best games of all time.[^ref-3][^ref-35]
+Cutter was designer and director of Betrayal at Krondor, based on Raymond E. Feist's Riftwar universe.[^ref-3][^ref-9] It was named 1993's best role-playing game and Game of the Year by Computer Games Strategy Plus and won Computer Gaming World's Premier Role-Playing Game of the Year award in June 1994. CGW ranked it #43 on its 1996 list of the 150 best games of all time.[^ref-3][^ref-40][^ref-35]
 
 ### Fairway Solitaire (2007)
 
@@ -95,7 +97,7 @@ For aspiring designers, he notes that "Game design is a creative skill that is d
 
 ## Legacy
 
-As Cinemaware's first employee, Cutter worked on the company's games from Defender of the Crown through Wings.[^ref-1][^ref-9] Five games he worked on, Betrayal at Krondor, Rocket Ranger, Wings, Defender of the Crown and TV Sports: Football, are on Computer Gaming World's 1996 list of the 150 best games of all time.[^ref-35] Betrayal at Krondor, which he designed and directed with Neal Hallford, won Role-Playing Game of the Year and Game of the Year awards and was later novelized by Feist.[^ref-3] In casual games, Fairway Solitaire was a double finalist at the 16th D.I.C.E. Awards.[^ref-37]
+As Cinemaware's first employee, Cutter worked on the company's games from Defender of the Crown through Wings.[^ref-1][^ref-9] Five games he worked on, Betrayal at Krondor, Rocket Ranger, Wings, Defender of the Crown and TV Sports: Football, are on Computer Gaming World's 1996 list of the 150 best games of all time.[^ref-35] Betrayal at Krondor, which he designed and directed with Neal Hallford, won Computer Gaming World's Premier Role-Playing Game of the Year and Computer Games Strategy Plus's Game of the Year awards and was later novelized by Feist.[^ref-3] In casual games, Fairway Solitaire was a double finalist at the 16th D.I.C.E. Awards.[^ref-37]
 
 ## Games
 
@@ -108,7 +110,9 @@ As Cinemaware's first employee, Cutter worked on the company's games from Defend
 | 1986 | GBA Championship Basketball: Two-on-Two | Game Design, Graphics |
 | 1987 | GBA Championship Basketball: Two-on-Two (Apple II / Apple IIgs ports) | Game Design, Graphics |
 
-Other early credit: Howard the Duck, Animation on the 1986 Commodore 64 version and "Created by" on the 1987 MSX and Amstrad CPC versions.[^ref-9]
+### Other Early Credit
+
+Howard the Duck: Animation on the 1986 Commodore 64 version and "Created by" on the 1987 MSX and Amstrad CPC versions (MobyGames); "Animator" on his own games page.[^ref-9][^ref-39]
 
 ### Cinemaware (1986–1991)
 
@@ -189,8 +193,10 @@ Other early credit: Howard the Duck, Animation on the 1986 Commodore 64 version 
 [^ref-29]: [MobyGames - Diana Fortune in the Lost Temple of Gold](https://www.mobygames.com/game/60145/diana-fortune-in-the-lost-temple-of-gold/) — Game Design credit (MobyGames ID 60145)
 [^ref-30]: [MobyGames - Fairway Solitaire Blast](https://www.mobygames.com/game/137263/fairway-solitaire-blast/) — Designer credit (MobyGames ID 137263)
 [^ref-33]: [Gamezebo - Countdown to the Zeebys: Fairway Solitaire](https://www.gamezebo.com/news/countdown-to-the-zeebys-fairway-solitaire/) — Erin Bell, July 2, 2008: Cutter as "the game's designer and producer"; free community title origin; Jake Birkett and Matt Laverty
-[^ref-34]: [John Cutter - Bio (johncutterdesign.com, Wayback)](https://web.archive.org/web/20170318182257/http://www.johncutterdesign.com/bio.html) — Archived 2017 copy of his own bio (the live domain has lapsed): childhood game-making, BASIC and C64, five games on CGW's "Top 150" list
+[^ref-34]: [John Cutter - Bio (johncutterdesign.com, Wayback)](https://web.archive.org/web/20170318182257/http://www.johncutterdesign.com/bio.html) — Archived 2017 copy of his own bio (the live domain now serves an unrelated spam site; Wayback only): childhood game-making, BASIC and C64, five games on CGW's "Top 150" list
 [^ref-35]: [Computer Gaming World #148 (November 1996), "150 Best Games of All Time" (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_148) — pp. 72–78: #43 Betrayal at Krondor, #45 Rocket Ranger, #65 Wings, #92 Defender of the Crown, #112 TV Sports: Football
 [^ref-36]: [Computer Gaming World #117 (April 1994), letter "New Riftwar In Krondor?" (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_117) — p. 142: "Cutter and his game design talents are currently looking for home."
 [^ref-37]: [Wikipedia - 16th Annual D.I.C.E. Awards](https://en.wikipedia.org/wiki/16th_Annual_D.I.C.E._Awards) — Ceremony February 7, 2013; Fairway Solitaire (Big Fish Studios) a finalist for Mobile Game of the Year and Casual Game of the Year
 [^ref-38]: [Gamasutra - Interview: Bob Jacob On The Cinemaware Era](https://www.gamedeveloper.com/game-platforms/interview-bob-jacob-on-the-cinemaware-era) — Matt Barton, January 5, 2010: "The game was designed by John Cutter… It was John's idea to design it basically as a board game"
+[^ref-39]: [John Cutter - Games (johncutterdesign.com, Wayback)](https://web.archive.org/web/20180805181341/http://www.johncutterdesign.com/games.html) — Archived 2018 copy of his own games page: his stated roles on Betrayal at Krondor ("Designer, Producer"), Defender of the Crown and Rocket Ranger ("Producer (w/ design contributions)"), Howard the Duck ("Animator")
+[^ref-40]: [Computer Gaming World #119 (June 1994), Premier Awards (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_119) — "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; designed by "industry veteran John Cutter"

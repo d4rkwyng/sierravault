@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line", "Cygnus Entertainment"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ Mystery House was released on May 5, 1980.[^ref-4] On-Line Systems advertised it
 
 The game was sold under the name of Ken's consulting company, On-Line Systems.[^ref-25] AGH (2023) dates the founding of On-Line Systems to 1979.[^ref-19] HistoryLink and IEEE Spectrum date the business to Mystery House in May 1980; HistoryLink says the game "marked the birth of the family business, initially called On-Line Systems", and MobyGames' biography also says 1980.[^ref-4][^ref-5][^ref-39]
 
-The game's success let the couple move their family to Coarsegold, in the Sierra Nevada foothills near Yosemite, in October 1980, and on December 1, 1980 they opened the company's first office in nearby Oakhurst.[^ref-4][^ref-39] In 1982, with a new Oakhurst headquarters due to open in 1983, the company was renamed Sierra On-Line to reflect its location near the Sierra foothills.[^ref-4][^ref-39]
+The game's success let the couple move their family to Coarsegold, in the Sierra Nevada foothills near Yosemite, in October 1980, and on December 1, 1980 they opened the company's first office in nearby Oakhurst.[^ref-4][^ref-39] The company was renamed Sierra On-Line to reflect its location near the Sierra foothills, but sources differ on the year. HistoryLink's biography of Williams places the change in 1982, when a new Oakhurst headquarters was planned (it opened in 1983), and MobyGames' biography gives 1982; another HistoryLink article says the company moved into its own building and was renamed in 1983.[^ref-4][^ref-39][^ref-41] See [[On-Line Systems]] for the fuller account.
 
 Mystery House became Hi-Res Adventure #1 in the numbered [[Hi-Res Adventures Series|Hi-Res Adventures]], which run from #0 (Mission Asteroid) to #6 (The Dark Crystal), seven games in all; IEEE Spectrum, HistoryLink and MobyGames' biography count six.[^ref-15][^ref-40][^ref-5][^ref-4][^ref-39] IEEE Spectrum says that "between 1980 and 1982" the couple created [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]], "the first adventure game with color graphics," and Time Zone.[^ref-5] The last of the series, The Dark Crystal, followed in 1983.[^ref-4] HistoryLink says The Wizard and the Princess was released in September 1980 and sold more than 60,000 copies.[^ref-4]
 
@@ -44,7 +44,7 @@ Her breakthrough came with [[1984 - King's Quest - Quest for the Crown|King's Qu
 
 King's Quest became Sierra's flagship franchise, with Williams designing or co-designing all eight main entries through [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] (1998).[^ref-5][^ref-15] MobyGames credits King's Quest VI as "Written & Designed by" [[Jane Jensen]] and Williams.[^ref-36] On King's Quest VII, Sierra's InterAction magazine introduced "Roberta Williams and her co-designer Lorelei Shannon" in 1994;[^ref-32] [[Lorelei Shannon]] later said, "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-33] Next Generation's 1997 preview of Mask of Eternity, "the eighth game in the King's Quest series," captioned her as designer and interviewed her alongside its producer, [[Mark Seibert]].[^ref-31] Her approach was personal: "As a young girl, I always had enjoyed the old fairy tales of yore. I read them and re-read them. Therefore, when thinking about designing a game, I naturally gravitated to what I liked and felt comfortable with."[^ref-12]
 
-In 1993 the Williamses moved Sierra's headquarters from Oakhurst to Bellevue, Washington; the move began in August 1993 and was completed in 1994.[^ref-4] CUC International's acquisition of Sierra was completed on July 26, 1996, at a reported $1.5 billion. Ken and Roberta then stepped down as officers of Sierra, though she continued to develop games there, including King's Quest VIII.[^ref-4]
+In 1993 the Williamses moved Sierra's headquarters from Oakhurst to Bellevue, Washington; the move began in August 1993 and was completed in 1994.[^ref-4] Sierra's merger agreement with CUC International is dated February 19, 1996, according to Sierra's annual report; HistoryLink says the acquisition was announced on February 20.[^ref-42][^ref-4] The stock swap was valued at about $1.06 billion in the announcement quoted by The Digital Antiquarian, while HistoryLink reports a price "initially given as more than $700 million" that had risen to "a reported $1.5 billion" by completion, and Wikipedia says CUC offered about $1.5 billion before announcing $1.06 billion in CUC stock.[^ref-43][^ref-4][^ref-29] The deal closed on July 24, 1996 according to Wikipedia and on July 26, 1996 according to HistoryLink.[^ref-29][^ref-4] Ken and Roberta then stepped down as officers of Sierra, though she continued to develop games there, including King's Quest VIII.[^ref-4]
 
 ### Post-Sierra (1999–Present)
 
@@ -66,7 +66,7 @@ Williams was careful to clarify her role: "I'm not the designer, and this is not
 
 ### Phantasmagoria (1995)
 
-[[1995 - Phantasmagoria|Phantasmagoria]] was Williams' most ambitious and most controversial project, a live-action horror game. AIGA Eye on Design reports that it cost $4.5 million to produce, "occupied a whopping seven CD-ROMs," and was banned from some retailers; it made $12 million in its first week and remained "Sierra's top-seller to this day."[^ref-13]
+[[1995 - Phantasmagoria|Phantasmagoria]] was Williams' most ambitious and most controversial project, a live-action horror game. AIGA Eye on Design reports that it cost $4.5 million to produce, "occupied a whopping seven CD-ROMs," and was banned from some retailers; in its words, "in its first week, 'Phantasmagoria' made $12 million," and it remained "Sierra's top-seller to this day."[^ref-13] The [[1995 - Phantasmagoria|game's page]] gives the $12 million as an opening-weekend figure and cites Sierra's 10-K, which reports more than 600,000 copies sold by March 1996.[^ref-42]
 
 ## Design Philosophy
 
@@ -79,6 +79,10 @@ Ken Williams, in a January 2021 Wired interview, described her as "a perfectioni
 Roberta Williams is credited with pioneering the graphic adventure genre; HistoryLink calls Mystery House "the first graphic adventure game ever created."[^ref-4] Ars Technica described her in 2006 as "one of the more iconic figures in adventure gaming."[^ref-22] According to AIGA Eye on Design, the King's Quest series had sold 7 million copies by 1997;[^ref-13] Andy Bellatti's 1997 interview introduction likewise says it "has sold over 7 million copies worldwide."[^ref-6]
 
 In 2014 she and Ken received the inaugural Industry Icon Award at The Game Awards, held in Las Vegas on December 5, 2014.[^ref-1][^ref-24] In 2020 the organizers of the 20th Game Developers Choice Awards chose her for the Pioneer Award, "which recognizes breakthrough tech and game design milestones."[^ref-23]
+
+A feature documentary, *Legends of Adventure: The Story of Sierra On-Line*, centres on Ken and Roberta Williams; its July 2024 crowdfunding press release lists her among those telling the story, and its executive producer said in July 2026 that a nearly completed two-hour cut was in hand. See [[Sierra Documentary - Legends of Adventure]].[^ref-46][^ref-47]
+
+In a January 2026 Game Informer feature by Mike Drucker, she is quoted on her aims for King's Quest ("I wanted to be entertaining. I wanted to sell well.") and on legacy ("I want to keep people playing our games, even if they're old."). The article states that, with Sierra sold and repackaged over the years, she and Ken lost the rights to games such as King's Quest and Mystery House.[^ref-48]
 
 On modern games, she has said: "it just seems to me that I don't see a lot of originality anymore. It seems that there are a lot of the same games. They just make the same kind of game but bigger and more complex."[^ref-7]
 
@@ -97,7 +101,7 @@ Roles follow her MobyGames credits.[^ref-15]
 - **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: Designer
 - **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Designer
 - **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Designer
-- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Co-designer (with [[Al Lowe]])[^ref-34]
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Co-designer (with [[Al Lowe]]); MobyGames dates the DOS release to 1986, but Sierra's December 1985 Creative Computing advertisement already lists the IBM PC/PCjr version as "NEW!"[^ref-34][^ref-44][^ref-45]
 - **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] — Role: Designer
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Designer, Director
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (first of the [[Laura Bow Series|Laura Bow]] mysteries) — Role: Writer; Director (with Chris Iden); Jacqueline Austin is credited as Creative Designer[^ref-35]
@@ -108,7 +112,7 @@ Roles follow her MobyGames credits.[^ref-15]
 - **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Co-designer and co-writer (with [[Jane Jensen]]); co-director (with Jensen and William D. Skirvin)[^ref-36]
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Co-designer (with [[Lorelei Shannon]]), Director[^ref-32]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Role: Designer
-- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Designer, Director, Producer, Writer
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Designer, Director (game director; Peter Maris directed the live-action filming), Producer, Writer
 - **1995** — [[1995 - Shivers|Shivers]] — Role: Script Writer, Creative Consultant
 - **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Designer, Writer
 
@@ -138,7 +142,7 @@ Roles follow her MobyGames credits.[^ref-15]
 [^ref-26]: [Open Library – Farewell to Tara (2021 edition)](https://openlibrary.org/books/OL42415573M) — Roberta Williams, *Farewell to Tara*, Independently Published, 2021, ISBN 9798714601682
 [^ref-27]: [Ars Technica – Roberta and Ken Williams open up about their first video game in 25 years](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) — April 2022: her book a "historical fiction dive into mid-1800s Ireland", first video game in 25 years
 [^ref-28]: [Laine Nooney – "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game," American Journal of Play 10:1 (2017)](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) — quotes Levy's *Hackers*: "eleven thousand dollars that May… twenty thousand… thirty thousand"
-[^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Mystery House "about 15,000 copies sold, earning US$167,000"; founded 1979
+[^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Mystery House "about 15,000 copies sold, earning US$167,000"; founded 1979; CUC offer "about $1.5 billion", then $1.06 billion in CUC stock; "Sierra's acquisition closed on July 24, 1996"
 [^ref-30]: [MICRO – The 6502 Journal, No. 24, May 1980 (Internet Archive scan)](https://archive.org/details/micro-6502-journal-24) — On-Line Systems advertisement: "ALL NEW HI-RES ADVENTURE ("MYSTERY HOUSE")"; "Hi-Res Adventure/Disk $24.95"
 [^ref-31]: [Next Generation No. 30, June 1997 (Internet Archive scan)](https://archive.org/details/NextGeneration30Jun1997) — p. 72, King's Quest: Mask of Eternity preview: "Mystery House in 1980 was the first use of graphics in a text adventure"; "the original King's Quest in 1984 added animation"; "the eighth game in the King's Quest series"; "Roberta Williams, Designer"; p. 77 interview with Williams and "Producer Mark Seibert"
 [^ref-32]: [InterAction Magazine, Vol. VII No. 1, Fall 1994 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) — p. 21, King's Quest VII feature, "The Creators": "Roberta Williams and her co-designer Lorelei Shannon"
@@ -150,3 +154,11 @@ Roles follow her MobyGames credits.[^ref-15]
 [^ref-38]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) — remake "released by Cygnus Entertainment as its first title on January 19, 2023"
 [^ref-39]: [MobyGames – Roberta Williams biography (Wayback, April 2023)](https://web.archive.org/web/20230414183118/https://www.mobygames.com/person/60/roberta-williams/) — "With Ken she founded On-Line Systems in 1980, later known as Sierra On-Line (1982)"; move to Coarsegold; first office at Oakhurst; "a series of six adventures called Hi-Res Adventures"
 [^ref-40]: [Wikipedia – Hi-Res Adventures](https://en.wikipedia.org/wiki/Hi-Res_Adventure) — "all seven graphic adventure games released by the company prior to the release of the company's landmark King's Quest", #0 to #6
+[^ref-41]: [HistoryLink – Sierra On-Line moves to Bellevue](https://www.historylink.org/File/20919) — 1983: company moved into its own building; "its name was changed to Sierra On-Line to reflect the location near the Sierra mountains"
+[^ref-42]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Agreement and Plan of Merger with CUC International "dated as of February 19, 1996"; filed July 1, 1996, Item 1: "More than 600,000 copies of this product have been sold" (Phantasmagoria)
+[^ref-43]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) — quotes the CUC announcement: "The transaction is valued at approximately $1.06 billion"
+[^ref-44]: [Creative Computing Vol. 11 No. 12, December 1985 (Internet Archive scan), Sierra advertisement](https://archive.org/details/creativecomputing-1985-12/page/n12/mode/1up) — "NEW! The Black Cauldron … Developed with Walt Disney Personal Computer Software Staff. For IBM PC/PCjr, $39.95"; page image checked
+[^ref-45]: [MobyGames – The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) — DOS and PC booter first release 1986; read via the MobyGames API
+[^ref-46]: [Game Developer / Games Press – Legends of Adventure Now Live on BackerKit (July 9, 2024)](https://www.gamedeveloper.com/press-release/legends-of-adventure-now-live-on-backerkit) — "Sitting down to share their side of the story about Sierra On-Line include Roberta Williams"
+[^ref-47]: [Will Perkins on Bluesky (July 9, 2026)](https://bsky.app/profile/williamhperkins.bsky.social/post/3mq7qauk6gs2i) — "now we have a nearly completed two hour cut of the documentary in hand"; profile: "EP @gamelegendsdoc"
+[^ref-48]: [Game Informer – Roberta Quest](https://gameinformer.com/feature/2026/01/01/roberta-quest) — Mike Drucker, January 1, 2026: "I wanted to be entertaining. I wanted to sell well."; "I want to keep people playing our games, even if they're old."; Drucker: "Roberta and Ken lost the rights to games like King's Quest or her original hit, Mystery House"
