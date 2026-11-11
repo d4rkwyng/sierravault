@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,6 +31,8 @@ Sierra was independent until 1996. In February 1996 it agreed to be acquired by 
 
 On February 22, 1999 ("Chainsaw Monday"), Sierra closed its Oakhurst office.[^ref-22] Sierra was formally disestablished as a company and re-formed as a division in August 2004. The division continued through Vivendi Games' merger with Activision on July 9, 2008,[^ref-23] but was shut down later that year. Activision revived the Sierra brand in 2014.[^ref-1]
 
+Sierra's headquarters moved from Oakhurst to the West Lake Hills neighborhood of Bellevue, Washington, beginning in August 1993 and continuing into 1994.[^ref-30] Under Vivendi, Dynamix was closed in August 2001, with 148 layoffs at the Bellevue headquarters.[^ref-1] Sierra's last owned studios, [[Impressions Games|Impressions Games]] and [[Papyrus Design Group|Papyrus Design Group]], were shut down in early 2004, and by June 2004 Vivendi had completely shut down Sierra's Bellevue location.[^ref-1]
+
 ## Sub-Labels and Divisions
 
 - **SierraVision** - The label on Sierra's Atari cartridge releases, such as [[1983 - Mr. Cool|Mr. Cool]]; Sierra began making cartridges for Atari machines in 1983.[^ref-16]
@@ -48,10 +50,10 @@ Gale's company history describes four brands instead: Sierra Attractions, Sierra
 ## Acquired Studios
 
 - **[[Developers/Dynamix|Dynamix]]** (acquired 1990) - Flight simulations, action and adventure[^ref-16]
-- **[[Bright Star Technology|Bright Star Technology]]** (acquired 1992) - Educational software[^ref-16][^ref-1]
-- **[[Coktel Vision|Coktel Vision]]** (acquired 1993) - French adventure and educational games[^ref-16]
-- **[[Impressions Games|Impressions Games]]** (acquired 1995) - Strategy and city-building games[^ref-16]
-- **[[Papyrus Design Group|Papyrus Design Group]]** (acquired 1995) - Racing simulations[^ref-16]
+- **[[Bright Star Technology|Bright Star Technology]]** (acquired July 6, 1992 for $1,000,000 plus $87,000 in transaction costs; former shareholders and key executives could also earn up to $2,500,000 in cash or up to 400,000 shares of Sierra stock over five years, based on revenue goals) - Educational software[^ref-16][^ref-1][^ref-28]
+- **[[Coktel Vision|Coktel Vision]]** (acquired October 29, 1993 for an initial price of about $5,332,000; in December 1995 Sierra issued 150,000 shares to end the former shareholders' rights to further incentive payments) - French adventure and educational games[^ref-16][^ref-29]
+- **[[Impressions Games|Impressions Games]]** (acquired 1995; Sierra merged with its parent, Software Inspiration Ltd., on June 20, 1995 in exchange for 730,352 shares) - Strategy and city-building games[^ref-16][^ref-29]
+- **[[Papyrus Design Group|Papyrus Design Group]]** (acquired 1995; merged November 30, 1995 in exchange for 1,169,404 shares) - Racing simulations[^ref-16][^ref-29]
 - **SubLogic** (acquired 1995) - Flight simulation[^ref-16]
 - **[[Synergistic Software|Synergistic Software]]** (acquired 1996; closed February 22, 1999) - Sports simulations, RPGs[^ref-1][^ref-21]
 - **[[Publishers/Berkeley Systems|Berkeley Systems]]** - Bought by CUC International in April 1997 and placed under Sierra[^ref-1][^ref-20]
@@ -92,7 +94,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Notes: Donkey Kong style
 - **1981** — [[1981 - Frogger|Frogger]] — Notes: Konami arcade game; Sierra held the home-computer disk and tape rights and published the ports
 - **1982** — [[1982 - Lunar Leeper|Lunar Leeper]] — Notes: Chuck Bueche
-- **1982** — [[1982 - Jawbreaker II|Jawbreaker II]] — Notes: Atari 8-bit port
+- **1982** — [[1982 - Jawbreaker II|Jawbreaker II]] — Notes: Chuck Bueche; Atari 8-bit conversion of his Apple II game[^ref-31]
 - **1982** — [[1982 - Laf Pak|Laf Pak]] — Notes: Chuck Bueche compilation
 - **1982** — [[1982 - Creepy Corridors|Creepy Corridors]] — Notes: Maze game
 - **1982** — [[1982 - Dragon's Keep|Dragon's Keep]] — Notes: Educational
@@ -498,3 +500,7 @@ After the 1998 reorganization, many releases carried sub-labels such as Sierra S
 [^ref-25]: [The Seattle Times - "Sierra's Game Plan" (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) - Brochu "became president and chief operating officer last October"; "Sierra founder and chairman Ken Williams"
 [^ref-26]: [SierraGamers - Ken Williams (Wayback)](http://web.archive.org/web/20260728010152/https://www.sierragamers.com/ken-williams/) - Ken Williams: "I was Sierra's Chairman and CEO throughout the 18 year period from 1979 to 1996"
 [^ref-27]: [Worthplaying - Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) - "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing activities for the Hoyle family of products"
+[^ref-28]: [Sierra On-Line Form 10-Q for the quarter ended June 30, 1995 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180917034309/https://www.sec.gov/Archives/edgar/data/724991/0000891020-95-000357.txt) - "On July 6, 1992, the Company acquired Bright Star ... for an initial purchase price of $1,000,000 plus transaction costs of $87,000"; up to $2,500,000 in cash or 400,000 shares over five years
+[^ref-29]: [Sierra On-Line Form 10-K for fiscal 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - Note 2: Coktel acquired October 29, 1993 for about $5,332,000, 150,000 shares issued December 1995; Inspiration merger June 20, 1995 for 730,352 shares; Papyrus merger November 30, 1995 for 1,169,404 shares
+[^ref-30]: [HistoryLink - Seattle Times reports Sierra On-Line's move to Bellevue (File 20919)](https://www.historylink.org/File/20919) - "move to the West Lake Hills neighborhood of Bellevue begins in August 1993 and continues into 1994"
+[^ref-31]: [ROM Magazine, Issue 9 - Interview with Chuckles (Charles Bueche)](https://www.atarimagazines.com/rom/issue9/interview.php) - Bueche, known for Jawbreaker II and Atari conversions; his first Atari conversion was "Jawbreaker II for Sierra-Online"
