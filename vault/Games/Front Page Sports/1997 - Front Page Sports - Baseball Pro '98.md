@@ -6,7 +6,7 @@ designer: [Doug Johnson]
 publisher: Sierra On-Line, Inc.
 genre: Sports
 platforms: [Windows]
-series: Front Page Sports Baseball
+series: Front Page Sports
 engine: Physics-based simulation engine
 protagonist: N/A (Player-controlled teams)
 sierra_lineage: Core Sierra
