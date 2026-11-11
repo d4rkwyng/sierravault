@@ -4,11 +4,11 @@ type: designer
 death_year: null
 notable_games: ["Space Quest: The Sarien Encounter", "Space Quest II: Vohaul's Revenge", "Space Quest IV: Roger Wilco and the Time Rippers"]
 companies: ["Sierra On-Line", "Guys from Andromeda"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Scott Murphy
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ In early 1997 Sierra began assembling a small team for a seventh Space Quest, le
 
 ### After Sierra (1999–2012)
 
-Murphy left the games industry. Asked in 2000 whether he was involved with it, he answered: "Nah, not anymore. Not in any way, shape or form, other than venting road rage through my racing simulators."[^ref-10] In 2006 he said that, with no adventure-game jobs to be had, "I had to resort to doing regular work like 'normal' people," in "pretty boring jobs in office settings and the like."[^ref-7]
+Murphy left the games industry. In 2012 he described the exit this way: "I was actually laid off while working on Space Quest 7 when they changed their 'business model' - I took some time off, actually the better part of a year."[^ref-3] Asked in 2000 whether he was involved with it, he answered: "Nah, not anymore. Not in any way, shape or form, other than venting road rage through my racing simulators."[^ref-10] In 2006 he said that, with no adventure-game jobs to be had, "I had to resort to doing regular work like 'normal' people," in "pretty boring jobs in office settings and the like."[^ref-7]
 
 ### Guys from Andromeda (2012–present)
 
@@ -85,7 +85,7 @@ MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (
 ### Guys from Andromeda (2012–present)
 
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Role: credited for the SpaceVenture characters the game is based on (made by Crowe and Pope)[^ref-49]
-- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Creator, Writer
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Creator, Writer (backer release September 16, 2022;[^ref-47][^ref-45] Steam Early Access April 1, 2025;[^ref-45] full release December 23, 2025[^ref-48])
 
 ## References
 
