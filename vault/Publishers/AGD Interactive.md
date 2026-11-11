@@ -5,15 +5,15 @@ founded: 2001
 headquarters: "United States / Australia"
 parent_company: null
 related_companies: ["Himalaya Studios"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # AGD Interactive
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-AGD Interactive (AGDI, "Anonymous Game Developers Interactive") makes enhanced remakes of classic Sierra On-Line adventure games and publishes them itself as free downloads.[^ref-1][^ref-18] It was founded in 2001 by Britney K. Brimhall and Christopher T. Warren as Tierra Entertainment, and adopted the AGD Interactive name on December 10, 2003.[^ref-3][^ref-2][^ref-22] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-18]
+AGD Interactive (AGDI, "Anonymous Game Developers Interactive") has made enhanced remakes of classic Sierra On-Line adventure games and published them itself as free downloads.[^ref-1][^ref-18] It was founded in 2001 by Britney K. Brimhall and Christopher T. Warren as Tierra Entertainment, and adopted the AGD Interactive name on December 10, 2003.[^ref-3][^ref-2][^ref-22] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-18]
 
 For the studio's full history, people and games, see [[Developers/AGD Interactive|AGD Interactive (Developer)]].
 
