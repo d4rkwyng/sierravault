@@ -6,11 +6,11 @@ defunct: 2011
 headquarters: "Paris, France"
 notable_games: ["Gobliiins", "Lost in Time", "The Bizarre Adventures of Woodruff and the Schnibble"]
 parent_company: "Sierra On-Line (1993-1996); CUC Software, Havas and Vivendi Universal (1996-2005); Mindscape (2005-2011)"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ Sierra On-Line acquired the company on 29 October 1993.[^ref-22] Under the deal,
 
 ### Founding and Early Years
 
-Coktel Vision was founded in 1984 by Roland Oskian, an engineer and former Matra Espace executive.[^ref-16][^ref-8] The studio was based in the Paris area.[^ref-6] Its early releases included the Jules Verne adaptation "20000 Leagues Under the Sea" (1988)[^ref-32] and the rally game "African Raiders-01" (1988).[^ref-33]
+Coktel Vision was founded in 1984 by Roland Oskian, an engineer and former Matra Espace executive.[^ref-16][^ref-8] The studio was based in the Paris area.[^ref-6] MobyGames and Wikipedia give its headquarters as Paris, while Wikidata lists Meudon.[^ref-45][^ref-8][^ref-18] MDO, a subsidiary established in Bordeaux, was responsible for most of the engineering, with graphics and design coming from the Paris headquarters.[^ref-45] Wikipedia adds that MDO was named for its three founders, Mathieu Marciacq, Arnaud Delrue and Roland Oskian.[^ref-8] Its early releases included the Jules Verne adaptation "20000 Leagues Under the Sea" (1988)[^ref-32] and the rally game "African Raiders-01" (1988).[^ref-33]
 
 Muriel Tramis joined in 1986 and became the studio's leading designer, later earning the informal title of "Roberta Williams of France".[^ref-8] Coktel also released erotic games such as "Emmanuelle" (1989)[^ref-34] and "Geisha" (1990);[^ref-35] Wikipedia describes Tomahawk as a label Coktel used for its simulation and erotic games, to keep them apart from its educational titles.[^ref-8]
 
@@ -55,12 +55,14 @@ Woodruff and the Schnibble carried over the visual style of Gobliiins; Pierre Gi
 ## Key People
 
 - **Roland Oskian**: founder, a former Matra Espace executive.[^ref-16] He left the company in 1999.[^ref-8]
-- **Muriel Tramis** ([[Muriel Tramis]]): joined in 1986 and stayed until 2003; co-created Gobliiins with Pierre Gilhodes.[^ref-8] La Croix calls her the creator of the Adibou educational series, while Wikipedia names Roland Oskian as Adibou's creator.[^ref-29][^ref-28]
+- **Muriel Tramis** ([[Muriel Tramis]]): joined in 1986 and stayed until 2003; co-created Gobliiins with Pierre Gilhodes.[^ref-8] La Croix calls her the creator of the Adibou educational series, while Wikipedia names Roland Oskian as Adibou's creator.[^ref-29][^ref-28] Konbini calls Oskian "le cocréateur du jeu" and Manuelle Mauger "la cocréatrice".[^ref-46]
 - **Pierre Gilhodes** ([[Pierre Gilhodes]]): artist and designer who co-created Gobliiins with Tramis.[^ref-8]
 
 ## Legacy
 
 Sierra published some of Coktel's games in the United States; Goblins Quest 3, for example, was released there by Sierra on 18 March 1994.[^ref-36] Muriel Tramis explored political and social themes, such as imperialism and slavery, that were unusual for the time.[^ref-8] Coming Soon Magazine reported that over 1.5 million copies of the ADI educational series, the parent line that includes Adibou, had been sold since its introduction in 1990.[^ref-40]
+
+The Gobliiins series outlived the studio. Gobliiins 4 appeared in 2009, developed by Société Pollene and designed by Pierre Gilhodes and Muriel Tramis.[^ref-44] Gilhodes then released [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (Steam, 20 July 2023) and [[2026 - Gobliins 6|Gobliins 6]] (Steam, 13 February 2026), both published by his Schnibble Productions label.[^ref-42][^ref-43] On 27 May 2026 Red Art Games released the Gobliiins Collection, which bundles five of the games, for PlayStation 5, Xbox Series and Switch.[^ref-41]
 
 ## Games
 
@@ -116,3 +118,9 @@ Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a 
 [^ref-38]: [Tilt no. 120, November 1993 (Internet Archive)](https://archive.org/details/Tilt120) — King's Quest VI listing: "Editeur: Sierra / Distributeur: Ubi Soft"
 [^ref-39]: [Tilt no. 121, December 1993 (Internet Archive)](https://archive.org/details/Tilt121) — news item "Coktel et Sierra s'associent !": the group, "dirigé par Roland Oskian", "distribuera également en Europe les produits Coktel, Sierra, Dynamix et Bright Star Technology"
 [^ref-40]: [Coming Soon Magazine - Adiboo: I can read, I can count! (Wayback, 16 May 2019)](http://web.archive.org/web/20190516154903/http://www.csoon.com/issue21/adiboo.htm) - "Since its introduction in 1990, over 1.5 million copies of the ADI series were sold throughout the world"
+[^ref-41]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available, 27 May 2026](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) — Red Art Games and Red Art Studios: a collection of five point-and-click adventure games, available now; a PS5 physical edition to follow in September
+[^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) — released Jul 20, 2023; developer Pierre Gilhodes, publisher Schnibble Productions
+[^ref-43]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) — released Feb 13, 2026; developer Pierre Gilhodes, publisher Schnibble Productions
+[^ref-44]: [Gobliiins – Wikipedia](https://en.wikipedia.org/wiki/Gobliiins) — Gobliiins 4 (2009): "designed by Pierre Gilhodes and Muriel Tramis, developed by Société Pollene"
+[^ref-45]: [Coktel Vision – MobyGames](https://www.mobygames.com/company/1127/coktel-vision/) — Paris-based; MDO, "another subsidiary, was established in Bordeaux and was responsible for most of the engineering, while graphics and design came from the headquarters in Paris"
+[^ref-46]: [Konbini – Dix bails sur Adibou que tu n'as (peut-être) jamais entendus](https://www.konbini.com/techno/dix-bails-sur-adibou-que-tu-nas-peut-etre-jamais-entendus/) — "le cocréateur du jeu Roland Oskian"; "la cocréatrice Manuelle Mauger"
