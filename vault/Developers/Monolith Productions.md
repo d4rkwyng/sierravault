@@ -6,11 +6,11 @@ defunct: 2025
 headquarters: "Kirkland, Washington, USA (founded in Redmond, Washington)"
 notable_games: ["Blood", "No One Lives Forever", "F.E.A.R.", "Middle-earth: Shadow of Mordor"]
 parent_company: "Warner Bros. Games"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Monolith Productions
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,15 +30,15 @@ Monolith's first planned game was *Claw*, a 2D platformer. In late 1996 it acqui
 
 Monolith's in-house 3D engine, LithTech, first shipped in 1998 in *Shogo: Mobile Armor Division* and *Blood II: The Chosen*.[^ref-26][^ref-2] That was before any Sierra-published Monolith game. In 2000 a separate company, LithTech, was set up to develop and sell the engine; it was renamed Touchdown Entertainment in 2003.[^ref-10]
 
-### Publishers: Fox and Sierra (1999–2005)
+### Sierra Era (1999–2005)
 
-Monolith signed an exclusive long-term deal with Fox Interactive in August 1999; Fox was to publish *Sanity* and *No One Lives Forever*.[^ref-29] *The Operative: No One Lives Forever* (2000) was published on Windows by **Fox Interactive**. Sierra Entertainment published the PlayStation 2 version.[^ref-25] Sierra On-Line and Fox Interactive published *Aliens versus Predator 2* (2001) together.[^ref-12] *No One Lives Forever 2: A Spy in H.A.R.M.'s Way* (2002) was published on Windows by Vivendi Universal Games under the Sierra brand, together with Fox Interactive.[^ref-27] *Contract J.A.C.K.* (2003) was published by Vivendi Universal Games / Sierra Entertainment.[^ref-28] *F.E.A.R.* (2005), directed and designed by Craig Hubbard, was "released under the Sierra Entertainment brand name".[^ref-23] Hubbard was also the designer of *No One Lives Forever*.[^ref-25]
+Monolith published games itself between 1997 and 1999, some its own and some from outside developers, before making deals with Interplay Productions in early 1999.[^ref-2] Monolith signed an exclusive long-term deal with Fox Interactive in August 1999; Fox was to publish *Sanity* and *No One Lives Forever*.[^ref-29] *The Operative: No One Lives Forever* (November 2000; the vault's NOLF page gives 10 November, while MobyGames dates the Windows release 9 November)[^ref-35] was published on Windows by **Fox Interactive**. Sierra Entertainment published the PlayStation 2 version.[^ref-25] Sierra On-Line and Fox Interactive published *Aliens versus Predator 2* (2001) together.[^ref-12] *No One Lives Forever 2: A Spy in H.A.R.M.'s Way* (2002) was published on Windows by Vivendi Universal Games under the Sierra brand, together with Fox Interactive.[^ref-27] *Contract J.A.C.K.* (11 November 2003) was published by Vivendi Universal Games / Sierra Entertainment.[^ref-28][^ref-34] *F.E.A.R.* (2005), directed and designed by Craig Hubbard, was "released under the Sierra Entertainment brand name".[^ref-23] Hubbard was also the designer of *No One Lives Forever*.[^ref-25]
 
-### Warner Bros. (2003–2025)
+### Later Years and Closure (2003–2025)
 
 Warner Bros. Entertainment "bought about 20 percent of Monolith" in 2003, with an option on the rest. It exercised that option in August 2004, and the deal was set to close on 1 October 2004.[^ref-21] Co-founder Jason Hall had left in January 2004 to become a senior vice president at Warner Bros. Interactive Entertainment. At the acquisition, Monolith's chief executive was **Samantha Ryan** and the staff numbered 150.[^ref-21]
 
-Under Warner Bros. the studio made *Middle-earth: Shadow of Mordor* (2014) and *Middle-earth: Shadow of War* (2017).[^ref-2] The team's postmortem of *Shadow of Mordor* lists the Nemesis System first under "What went right".[^ref-16] In February 2025 GameSpot, citing Bloomberg, reported that the long-delayed *Wonder Woman* game had reportedly already cost more than $100 million.[^ref-22] On 25 February 2025 Warner Bros. Games announced it was closing Monolith Productions, Player First Games and WB Games San Diego and cancelled *Wonder Woman*.[^ref-15][^ref-10]
+Under Warner Bros. the studio made *Middle-earth: Shadow of Mordor* (2014) and *Middle-earth: Shadow of War* (2017).[^ref-2] The team's postmortem of *Shadow of Mordor* lists the Nemesis System first under "What went right".[^ref-16] In February 2025 GameSpot, citing Bloomberg, reported that the long-delayed *Wonder Woman* game had reportedly already cost more than $100 million.[^ref-22] On 25 February 2025 Warner Bros. Games announced it was closing Monolith Productions, Player First Games and WB Games San Diego and cancelled *Wonder Woman*; Polygon reported that the publisher told employees on a Tuesday, and all projects from the three studios were cancelled.[^ref-15][^ref-10]
 
 ## Key People
 
@@ -47,37 +47,33 @@ Under Warner Bros. the studio made *Middle-earth: Shadow of Mordor* (2014) and *
 - **Brian Goble**: co-founder.[^ref-11][^ref-10] The Blood Wiki credits him as creator of the Windows Animation Package 32 engine used in *Claw*, *Get Medieval* and *Gruntz*.[^ref-11]
 - **Craig Hubbard**: designer of *No One Lives Forever*, and director and designer of *F.E.A.R.*[^ref-25][^ref-23]
 
+## Legacy
+
+The Nemesis System, which the team's own postmortem lists first under "What went right" for *Shadow of Mordor*, is the Monolith design most often associated with the studio's later years.[^ref-16] After the closure, The Guardian published a retrospective on the studio's history.[^ref-20] On 26 February 2025 the Spanish outlet LevelUp reported that GOG would add *F.E.A.R. Platinum* to its GOG Preservation Program and would preserve more Monolith games in the future.[^ref-33] The *No One Lives Forever* series' IP status is unresolved: Wikipedia says a re-release "has been hampered by the complicated state of the series' intellectual property (IP) rights".[^ref-25]
+
 ## Games
 
-### In This Archive (Sierra Era)
+| Year | Game | Genre |
+|------|------|-------|
+| 1997 | Blood (GT Interactive)[^ref-10] | First-Person Shooter |
+| 1998 | Shogo: Mobile Armor Division (first LithTech game)[^ref-26] | First-Person Shooter |
+| 1998 | Blood II: The Chosen (GT Interactive)[^ref-31] | First-Person Shooter |
+| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] (Windows release published by Fox Interactive; Sierra Era) | Action-Adventure |
+| 2001 | Aliens versus Predator 2 (Sierra On-Line with Fox Interactive; Sierra Era)[^ref-12] | First-Person Shooter |
+| 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] (Sierra Era) | Action-Adventure |
+| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] (Sierra Era) | First-Person Shooter |
+| 2003 | Tron 2.0 (Buena Vista Interactive)[^ref-30] | First-Person Shooter |
+| 2005 | F.E.A.R. (released under the Sierra Entertainment brand; Sierra Era)[^ref-23] | First-Person Shooter |
+| 2005 | The Matrix Online | MMORPG |
+| 2005 | Condemned: Criminal Origins (Sega; Warner Bros. Interactive Entertainment)[^ref-32] | First-Person Action-Adventure |
+| 2009 | F.E.A.R. 2: Project Origin (Warner Bros.) | First-Person Shooter |
+| 2012 | Gotham City Impostors (Warner Bros.) | First-Person Shooter |
+| 2012 | Guardians of Middle-earth (Warner Bros.) | MOBA |
+| 2014 | Middle-earth: Shadow of Mordor (Warner Bros.) | Action-Adventure |
+| 2017 | Middle-earth: Shadow of War (Warner Bros.) | Action-Adventure |
+| Cancelled 2025 | Wonder Woman | Action-Adventure |
 
-- **2000** — [[2000 - No One Lives Forever|No One Lives Forever]] — Genre: Action-Adventure (Windows release published by Fox Interactive)
-- **2002** — [[2002 - No One Lives Forever 2|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] — Genre: Action-Adventure
-- **2003** — [[2003 - Contract J.A.C.K.|Contract J.A.C.K.]] — Genre: First-Person Shooter
-
-### Other Sierra-Published Games (no vault page)
-
-- Aliens versus Predator 2 — 2001 (Sierra On-Line with Fox Interactive)[^ref-12]
-- F.E.A.R. — 2005 (released under the Sierra Entertainment brand)[^ref-23]
-
-### Other Notable Games (Non-Sierra)
-
-Years follow Wikipedia's list of Monolith-developed games.[^ref-2]
-
-- Blood — 1997 (GT Interactive)[^ref-10]
-- Shogo: Mobile Armor Division — 1998 (first LithTech game)[^ref-26]
-- Blood II: The Chosen — 1998 (GT Interactive)[^ref-31]
-- Tron 2.0 — 2003 (Buena Vista Interactive)[^ref-30]
-- The Matrix Online — 2005
-- Condemned: Criminal Origins — 2005 (Sega; Warner Bros. Interactive Entertainment)[^ref-32]
-- F.E.A.R. 2: Project Origin — 2009 (Warner Bros.)
-- Gotham City Impostors — 2012 (Warner Bros.)
-- Guardians of Middle-earth — 2012 (Warner Bros.)
-- Middle-earth: Shadow of Mordor — 2014 (Warner Bros.)
-- Middle-earth: Shadow of War — 2017 (Warner Bros.)
-- Wonder Woman — cancelled February 2025[^ref-15]
-
-F.E.A.R. 3 (2011) was developed by Day 1 Studios, not Monolith.[^ref-24]
+Years follow Wikipedia's list of Monolith-developed games.[^ref-2] F.E.A.R. 3 (2011) was developed by Day 1 Studios, not Monolith.[^ref-24]
 
 ## References
 
@@ -100,3 +96,6 @@ F.E.A.R. 3 (2011) was developed by Day 1 Studios, not Monolith.[^ref-24]
 [^ref-30]: [Wikipedia - Tron 2.0](https://en.wikipedia.org/wiki/Tron_2.0) — developer Monolith; publisher Buena Vista Interactive; Windows NA release August 26, 2003
 [^ref-31]: [Wikipedia - Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) — developer Monolith; publisher GT Interactive; NA release November 25, 1998
 [^ref-32]: [Wikipedia - Condemned: Criminal Origins](https://en.wikipedia.org/wiki/Condemned:_Criminal_Origins) — developer Monolith; publishers Sega and Warner Bros. Interactive Entertainment; Xbox 360 NA release November 22, 2005
+[^ref-33]: [LevelUp - "Anuncian la preservación de F.E.A.R. y más videojuegos del extinto estudio Monolith Productions" (26 Feb 2025)](https://www.levelup.com/noticias/anuncian-la-preservacion-de-fear-y-mas-videojuegos-del-extinto-estudio-monolith-productions/) — GOG to preserve F.E.A.R. Platinum and more Monolith games
+[^ref-34]: [MobyGames - Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) — Windows release 2003-11-11 (read via the MobyGames API)
+[^ref-35]: [MobyGames - The Operative: No One Lives Forever](https://www.mobygames.com/game/2617/the-operative-no-one-lives-forever/) — Windows release 2000-11-09 (read via the MobyGames API)
