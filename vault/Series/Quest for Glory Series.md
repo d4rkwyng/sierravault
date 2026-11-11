@@ -2,17 +2,17 @@
 title: "Quest for Glory Series"
 type: series_overview
 created_by: "Corey Cole, Lori Ann Cole"
-developer: "Sierra On-Line"
+developer: "Sierra On-Line (QFG1–QFG4, QFG1 VGA); Yosemite Entertainment (QFG5)"
 first_release: 1989
 last_release: 1998
 total_games: 6
 genre: "Adventure RPG"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Quest for Glory Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ A distinctive feature is character import: players can carry their hero from one
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] | SCI1.1[^ref-10] | VGA remake[^ref-16] |
 | 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | SCI1.1[^ref-25] | Africa (Tarna)[^ref-17] |
 | 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | SCI2[^ref-24][^ref-25] | Eastern Europe (Mordavia)[^ref-18] |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Custom 3D | Greece-like Silmaria[^ref-19] |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Custom 3D[^ref-11][^ref-25] | Greece-like Silmaria[^ref-19] |
 
 Quest for Glory V was developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh; Lori Ann Cole was its designer.[^ref-11]
 
@@ -81,12 +81,17 @@ A Greece-like country where the hero competes in the Rites of Rulership while an
 | QFG3, QFG4 | The Digital Antiquarian: "neither the third nor the fourth game is as strong as either of the first two"[^ref-3] |
 | QFG5 | Action-based battles on the exploration screen, with heavier weapon and armour management "strengthening the RPG angle"[^ref-19] |
 
+## Technical Evolution
+
+The ScummVM wiki's table of Sierra interpreter versions places the series on successive versions of Sierra's SCI engine: *Hero's Quest* on SCI0, *Quest for Glory II* on SCI1 (EGA), *Quest for Glory III* on SCI1.1 and *Quest for Glory IV* on SCI2.[^ref-25] The 1992 VGA remake of the first game runs on SCI1.1.[^ref-10] The same wiki notes that after 1997 Sierra abandoned the SCI engine and lists *Quest for Glory V* among the post-1997 games.[^ref-25] Wikipedia describes Dragon Fire as the first game in the series to use polygonal 3D characters, set against two-dimensional pre-rendered backgrounds and objects.[^ref-11]
+
 ## Legacy
 
 ### Spiritual Successors
 The Coles continued their work after Sierra:
-- **Hero-U: Rogue to Redemption** (2018) - Kickstarter-funded by 6,093 backers who pledged $409,150 in 2012;[^ref-5] developed by Transolar Games[^ref-23]
+- **Hero-U: Rogue to Redemption** (2018) - Kickstarter-funded by 6,093 backers who pledged $409,150 in 2012;[^ref-5] a second campaign in 2015 raised $116,888 from 1,869 backers;[^ref-29] developed by Transolar Games.[^ref-23] Steam and Wikipedia date the release to July 10, 2018, while Transolar's own page lists July 9, 2018.[^ref-23][^ref-33][^ref-32] A Nintendo Switch version followed on February 9, 2021 and PlayStation 4 and 5 versions on April 24, 2025, per DekuDeals.[^ref-31]
 - **Summer Daze: Tilly's Tale** (2023) - A visual novel about Tilly, "a mischief-making rogue at Hero-U",[^ref-6] funded by the 2019 *Summer Daze at Hero-U* Kickstarter (1,639 backers, $106,155)[^ref-13]
+- **Ifeyo's Adventure** (in development) - The second Summer Daze game. A backer update dated September 16, 2026 gives the Coles' stated target: "Expect Ifeyo's Adventure in late Spring or early Summer 2027."[^ref-30]
 
 ### Fan Community
 - **Quest for Glory Omnipedia** - Fan wiki[^ref-7]
@@ -110,13 +115,13 @@ The Coles continued their work after Sierra:
 
 ### Fan Remakes
 
-- **2008** — [[2008 - Quest for Glory II VGA Remake|QFG2 VGA Remake]] — Developer: AGD Interactive, Link: [AGDI](https://www.agdinteractive.com/games/qfg2/)
+- **2008** — [[2008 - Quest for Glory II VGA Remake|QFG2 VGA Remake]] — Developer: AGD Interactive, Link: [AGDI](https://www.agdinteractive.com/games/qfg2/)[^ref-1][^ref-8]
 
 ### Successor Games
 
-- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Developer: Infamous Quests, Link: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/)
-- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/)
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Developer: Infamous Quests, Link: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)[^ref-34]
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/)[^ref-23]
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/)[^ref-6]
 - **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] — Developer: Infamous Quests, Notes: Prequel to Quest for Infamy[^ref-26]
 
 ## See Also
@@ -158,3 +163,9 @@ The Coles continued their work after Sierra:
 [^ref-26]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – "A prequel to Quest for Infamy"
 [^ref-27]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War) – Three "standard" classes; Paladin a "'hidden' class" opened by importing a hero from the previous game
 [^ref-28]: [Choicest Games – Where Are They Now: Lori Ann Cole (2014)](https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html) – Hero's Quest "renamed to Quest for Glory due to the original name sounding very similar to the HeroQuest board game"
+[^ref-29]: [Kickstarter - Hero-U Fantasy Adventure Role-Playing Game (2015)](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) – $116,888 pledged of $100,000 goal, 1,869 backers; funding period May 12 – Jun 16, 2015 (read via ScraperAPI)
+[^ref-30]: [Summer Daze at Hero-U on BackerKit – Project Updates, "What We Did Last Summer... and What We're Doing for Next Summer" (16 September 2026)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
+[^ref-31]: [DekuDeals – Hero-U: Rogue to Redemption](https://www.dekudeals.com/items/hero-u-rogue-to-redemption) – "Steam July 10, 2018 Switch February 9, 2021 PS4, PS5 April 24, 2025"
+[^ref-32]: [Hero-U: Rogue to Redemption – Fast Facts (Transolar Games, hero-u.com)](https://www.hero-u.com/RtR) – "Release Date July 9, 2018"
+[^ref-33]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) – Released July 10, 2018; "a second successful Kickstarter campaign"
+[^ref-34]: [Steam – Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) – Developer Infamous Quests; released Jul 10, 2014
