@@ -191,6 +191,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] — Notes: QFG series
 - **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V]] — Notes: Dynamix developed
 - **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Notes: Daryl Gates
+- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] — Notes: LSL series
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] — Notes: Al Lowe
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Notes: Lorelei Shannon
 - **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2]] — Notes: Gano Haine
