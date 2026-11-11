@@ -4,12 +4,12 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Mixed-Up Mother Goose", "Castle of Dr. Brain", "Age of Empires", "Age of Empires II", "Nancy Drew: Tomb of the Lost Queen"]
-companies: ["Sierra On-Line", "Microsoft Game Studios", "Gazillion Entertainment", "Her Interactive", "Boom Learning"]
-last_updated: "2026-10-26"
+companies: ["Sierra On-Line", "Microsoft Game Studios", "Screenlife", "Gazillion Entertainment", "Her Interactive", "Boom Learning"]
+last_updated: "2026-11-11"
 ---
 # Stuart Moulder
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ After Microsoft he focused on casual and family games, including Scene It?, LEGO
 
 ### Sierra On-Line (early 1990s)
 
-Moulder began his game industry career at Sierra On-Line.[^ref-2] MobyGames credits him as "Producer (Floppy Disk)" of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], and credits [[Josh Mandel]] as "Producer (CD-ROM)".[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose"; the credit record gives the CD-ROM producer credit to Mandel, not to Moulder.[^ref-2][^ref-16]
+Moulder began his game industry career at Sierra On-Line.[^ref-2] Sierra's own customer magazine says he came to the company through CompuServe. In the Fall 1992 issue of InterAction, an essay on staff who were hired through the service says: "Stuart Moulder, who has wielded the double-edged sword of Producer and Project Manager, was a Section Leader in the GAMERS Forum when I first approached him about being a Producer here."[^ref-19] The essay calls his work "Producer and Project Manager"; the OCR text read for this page does not show the essay's byline.[^ref-19] MobyGames credits him as "Producer (Floppy Disk)" of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], and credits [[Josh Mandel]] as "Producer (CD-ROM)".[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose"; the credit record gives the CD-ROM producer credit to Mandel, not to Moulder.[^ref-2][^ref-16]
 
 His Sierra production credits include the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1]] (including its Amiga and Macintosh versions) and [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I]], as well as [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-3][^ref-7][^ref-15] He is also credited as producer of the Macintosh version of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-15] He was director and producer of [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]]; his "Director / Producer" credit on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] sits under that game's "Original Board Game Challenge Team", the Hoyle 3 team whose board games the pack reused.[^ref-3][^ref-14]
 
@@ -31,11 +31,11 @@ He also provided voices for [[1991 - Space Quest IV - Roger Wilco and the Time R
 
 ### Microsoft (mid-1990s–2000s)
 
-Moulder left Sierra to join Microsoft in the mid-1990s ("1994 or so", in Aronson's recollection), where, in his biography's words, "he helped Microsoft enter the core gaming business."[^ref-2][^ref-17] No source found gives the date he left Microsoft; his last Microsoft-era credits date from 2004.[^ref-15] The same biography says he was "responsible for several strategic studio acquisitions as well, bringing Bungie, FASA and Ensemble Studios into the fold at Microsoft."[^ref-2][^ref-13]
+Moulder left Sierra to join Microsoft in the mid-1990s ("1994 or so", in Aronson's recollection; in a May 2026 interview with Spillhistorie.no he says "When I joined Microsoft in 1994, I was asked to bring in more 'games for gamers' as opposed to Microsoft Flight Simulator and the casual games we were currently offering"), where, in his biography's words, "he helped Microsoft enter the core gaming business."[^ref-2][^ref-17][^ref-20] No source found gives the date he left Microsoft; his last Microsoft-era credits date from 2004.[^ref-15] The same biography says he was "responsible for several strategic studio acquisitions as well, bringing Bungie, FASA and Ensemble Studios into the fold at Microsoft."[^ref-2][^ref-13]
 
 On the Age of Empires series, he is credited as Product Unit Manager on the original 1997 release, and under management on The Rise of Rome (1998), Age of Empires II: The Age of Kings (1999), The Conquerors (2000) and Age of Mythology (2002).[^ref-3] The Age of Kings and Conquerors credits list him as "Management (Yoda)."[^ref-3]
 
-On the Close Combat series with Atomic Games, his credits differ by game: "MS Joint Chief of Staff" on Close Combat (1996), "Management" on Close Combat: A Bridge Too Far (1997), and Product Unit Manager on Close Combat III: The Russian Front (1999), on which he also contributed historical text.[^ref-3] He holds a degree in history.[^ref-6]
+On the Close Combat series with Atomic Games, his credits differ by game: "MS Joint Chief of Staff" on Close Combat (1996), "Management" on Close Combat: A Bridge Too Far (1997), and Product Unit Manager on Close Combat III: The Russian Front (1999), on which MobyGames credits him with "Historical Text."[^ref-3] In the May 2026 Spillhistorie.no interview he instead places his historical writing on Close Combat II: "Atomic lost their historical research person. By the time that happened, the only impact was on the in game historical notes (which weren’t written)... I cheerfully volunteered to write them myself. I wrote them over a weekend, mostly from my own knowledge with occasional detail verification online." The passage sits under a Close Combat II image caption and does not name the game in its own text.[^ref-20] The credit record and the interview therefore disagree on which game; this page reports both. In the same interview he says "The Close Combat games were like successful Indie movies whereas Microsoft was looking for blockbusters," and that Age of Empires, signed from Ensemble Studios, "was the game we really felt would be our breakout hit."[^ref-20] He holds a degree in history.[^ref-6]
 
 As PC Games General Manager, Moulder is credited on Microsoft Flight Simulator 2002 (2001), Flight Simulator 2004: A Century of Flight (2003), Microsoft Train Simulator (2001), Zoo Tycoon (2001) and its Complete Collection, MechCommander 2 (2001), RalliSport Challenge (2002) and Combat Flight Simulator 3 (2002).[^ref-3] He also has an additional production support credit on Forgotten Realms: Demon Stone (2004), and special thanks credits on Halo: Combat Evolved, Halo 2, Dungeon Siege and Asheron's Call 2.[^ref-3][^ref-12]
 
@@ -71,7 +71,7 @@ Moulder is credited as Product Unit Manager on the original Age of Empires, deve
 
 ### Close Combat Series (1996–1999)
 
-Moulder's Close Combat credits run from "MS Joint Chief of Staff" on the first game to Product Unit Manager on Close Combat III: The Russian Front, for which he also wrote historical text.[^ref-3]
+Moulder's Close Combat credits run from "MS Joint Chief of Staff" on the first game to Product Unit Manager on Close Combat III: The Russian Front, for which MobyGames credits him with historical text; in a 2026 interview he describes writing the historical notes for Close Combat II.[^ref-3][^ref-20]
 
 ### Nancy Drew: Tomb of the Lost Queen (2012)
 
@@ -153,7 +153,7 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 |------|-------|---------|------|
 | 2006 | Hockey Night in Canada: The DVD Trivia Game | Screenlife | Executive Producer |
 | 2007 | Halo 2 (Windows) | Microsoft | Special Thanks |
-| 2008 | Scene It? Box Office Smash! | Screenlife | Executive Producer |
+| 2008 | Scene It? Box Office Smash! | Screenlife[^ref-21] | Executive Producer |
 | 2009 | Scene It? The Simpsons | Screenlife | SVP of Strategy and Architecture |
 | 2011 | Marvel Super Hero Squad Online | Gazillion Entertainment | Thanks |
 | 2011 | Nancy Drew: Alibi in Ashes | Her Interactive | CEO, Executive Producer |
@@ -191,3 +191,6 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 [^ref-16]: [MobyGames - Mixed-Up Mother Goose Credits (DOS)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) — "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
 [^ref-17]: [Wikipedia - Talk:ImagiNation Network](https://en.wikipedia.org/wiki/Talk:ImagiNation_Network) — Richard Aronson (RFAronson), January 7, 2009: "Stuart Moulder was my producer until he left for Microsoft in 1994 or so"
 [^ref-18]: [MobyGames - King's Quest V Credits (Windows 16-bit)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) — "Bandit Leader Stuart Moulder"
+[^ref-19]: [InterAction Magazine Vol. V No. 3, Fall 1992 (Sierra On-Line; Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — Essay on staff hired through CompuServe's GAMERS Forum: "Stuart Moulder, who has wielded the double-edged sword of Producer and Project Manager, was a Section Leader in the GAMERS Forum when I first approached him about being a Producer here"
+[^ref-20]: [Spillhistorie.no - "These games were probably doomed as far as being published by us" (May 29, 2026, by Retrogamingpappa)](https://spillhistorie.no/2026/05/29/these-games-were-probably-doomed-as-far-as-being-published-by-us/) — Interview in English: joined Microsoft in 1994; wrote Close Combat II's historical notes over a weekend; "successful Indie movies" versus "blockbusters"
+[^ref-21]: [Wikipedia - Scene It? Box Office Smash](https://en.wikipedia.org/wiki/Scene_It%3F_Box_Office_Smash) — "developed by Krome Studios and Screenlife Games"; supports the Screenlife label on the 2008 Scene It? credit (tier 4)
