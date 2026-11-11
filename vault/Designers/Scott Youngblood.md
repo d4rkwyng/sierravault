@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Starsiege: Tribes", "Front Page Sports: Ski Racing", "Firefall"]
 companies: ["Dynamix", "Electronic Arts", "Pipeworks Software", "Sony Computer Entertainment America", "Red 5 Studios"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Scott Youngblood
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ He joined the Tribes team after completing Ski Racing, while the project was sti
 
 The "skiing" mechanic was found in-house. About halfway through development, software engineer Dave Moore, who was working on collisions and character movement, showed Youngblood a bug in which pressing jump cancelled the collision with the landscape.[^ref-21] "I looked at him and was like, 'Nope, don't fix it. This is now a feature,'" Youngblood recalls; he then designed the remaining maps with skiing in mind.[^ref-21] He has also said: "We were the guys that invented the concept of 'capture and hold,' which basically turned into all the point-defense games."[^ref-21] He has said the game could support up to 128 players under ideal conditions.[^ref-21]
 
-The Escapist reported that his plans for Tribes included a meta-game of resource gathering and territory grabbing, most of which was cut to ship the game.[^ref-15] He left Dynamix in 1999.[^ref-9] Tribes 2 (2001) credits him with Special Thanks.[^ref-17] Accounts of his role on it differ: his self-reported history lists him as Associate Director on Tribes 2 ("Product management, design lead"),[^ref-9] Red 5's 2007 announcement called him "lead designer of StarSiege: Tribes, Tribes 2",[^ref-6] and his MobyGames biography also names him lead designer on both games,[^ref-22] but MobyGames' credits for Tribes 2 list him only under Special Thanks.[^ref-17]
+The Escapist reported that his plans for Tribes included a meta-game of resource gathering and territory grabbing, most of which was cut to ship the game.[^ref-15] He left Dynamix in 1999.[^ref-9] Tribes 2 (2001) credits him with Special Thanks.[^ref-17] Accounts of his role on it differ: his self-reported history lists him as Associate Director on Tribes 2 ("Product management, design lead"),[^ref-9] Red 5's 2007 announcement called him "lead designer of StarSiege: Tribes, Tribes 2",[^ref-6] and Game Developer's report of the hire likewise says he "was lead designer on StarSiege: Tribes and acclaimed multiplayer title Tribes 2",[^ref-30] and his MobyGames biography also names him lead designer on both games,[^ref-22] but MobyGames' credits for Tribes 2 list him only under Special Thanks.[^ref-17]
 
 ### Electronic Arts and Pipeworks (1999–2001)
 
@@ -41,7 +41,7 @@ In April 2007, Red 5 Studios announced that Youngblood had accepted a position a
 
 Mark Kern, Red 5's president and CEO, said at the time: "Scott is exactly the caliber of team member we're looking for at Red 5. We founded this company on passion and vision, two qualities that Scott has embodied throughout his career as a top-tier game designer."[^ref-6] Youngblood said: "When Mark asked me to join Red 5, I was blown away by the vast and vibrant world they're creating and by the company they're building. It's a combination I couldn't refuse."[^ref-6]
 
-At Red 5, Youngblood was lead designer of Firefall, an online shooter released in 2014.[^ref-5] He recalled that when he started, Kern asked him whether he wanted to buy the Tribes licence; he wanted Firefall "to be its own game, not a Tribes clone."[^ref-5] After Red 5 removed the game's arena mode, he said: "We were spread too thin. We were trying to do too much."[^ref-5] His self-reported history has him at Red 5 until November 2014.[^ref-9]
+At Red 5, Youngblood was lead designer of Firefall, an online shooter released in 2014.[^ref-5] He recalled that when he started, Kern asked him whether he wanted to buy the Tribes licence; he wanted Firefall "to be its own game, not a Tribes clone."[^ref-5] After Red 5 removed the game's arena mode, he said: "We were spread too thin. We were trying to do too much."[^ref-5] His self-reported history has him at Red 5 until November 2014.[^ref-9] Red 5 later "decided to suspend the Firefall efforts on 7th, July 2017," according to PocketGamer.biz.[^ref-28]
 
 ## Notable Works
 
@@ -55,7 +55,7 @@ Ski Racing was the first game to credit Youngblood with the title Designer; he a
 
 ### Firefall (2014)
 
-The Escapist presented Firefall as the game in which Youngblood brought back the resource-gathering ideas cut from Tribes.[^ref-15] It had jetpacks, but not Tribes-style skiing. Youngblood explained that "the speed of momentum for Firefall was not the same as the speed of momentum for Tribes," and that in an MMO with widely varying pings "the movement of the players becomes something you have to be in more control of."[^ref-5]
+The Escapist presented Firefall as the game in which Youngblood brought back the resource-gathering ideas cut from Tribes.[^ref-15] In a 2012 Ten Ton Hammer Q&A, where he is identified as Lead Designer on Firefall, he said of the old level-based progression: "But levels seemed meaningless at that point, so let's just get rid of that."[^ref-29] It had jetpacks, but not Tribes-style skiing. Youngblood explained that "the speed of momentum for Firefall was not the same as the speed of momentum for Tribes," and that in an MMO with widely varying pings "the movement of the players becomes something you have to be in more control of."[^ref-5]
 
 ## Design Philosophy
 
@@ -71,19 +71,21 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 
 ### Dynamix Era (1992–1999)
 
-- **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Role: Q.A. Programming
-- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Quality Assurance
-- **1992** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (Amiga) — Role: Tester
-- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Additional Design and Direction
-- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Associate Producer, Additional Design
-- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Additional Design, Testing
-- **1995** — [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] — Role: Associate Producer, Additional Design
-- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] — Role: Additional Design
-- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Direction, Design
-- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Acknowledged for previous work (no role credit)
-- **1997** — [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] — Role: Designer
-- **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Role: Lead Designer
-- **2001** — [[2001 - Tribes 2|Tribes 2]] — Special Thanks
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] | Q.A. Programming[^ref-17] |
+| 1992 | [[1992 - Aces of the Pacific|Aces of the Pacific]] | Quality Assurance[^ref-17] |
+| 1992 | [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish (Amiga)]] | Tester[^ref-17] |
+| 1993 | [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] | Additional Design and Direction[^ref-17][^ref-23] |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] | Associate Producer, Additional Design[^ref-17][^ref-24] |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] | Additional Design, Testing[^ref-17][^ref-22] |
+| 1995 | [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] | Associate Producer, Additional Design[^ref-17][^ref-25] |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] | Additional Design[^ref-17][^ref-22] |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] | Direction, Design[^ref-17][^ref-26] |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] | Acknowledged for previous work (no role credit)[^ref-17][^ref-22] |
+| 1997 | [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] | Designer[^ref-17][^ref-27] |
+| 1998 | [[1998 - Starsiege - Tribes|Starsiege: Tribes]] | Lead Designer[^ref-17] |
+| 2001 | [[2001 - Tribes 2|Tribes 2]] | Special Thanks[^ref-17] |
 
 ### Post-Dynamix (2001–2022)
 
@@ -117,3 +119,6 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 [^ref-27]: [MobyGames - Front Page Sports: Ski Racing Windows credits (Wayback Machine, March 9, 2024)](https://web.archive.org/web/20240309095705/https://www.mobygames.com/game/41426/front-page-sports-ski-racing/credits/windows/) — Designer, Video Production Script and Game Documentation: Scott Youngblood
 [^ref-19]: [Ten Ton Hammer - Interview with Red 5's Scott Youngblood and Rob Garrett (September 17, 2007)](https://www.tentonhammer.com/articles/an-interview-with-red-5-s-scott-youngblood-and-rob-garrett) — Golden Ticket recruiting program
 [^ref-21]: [The Ringer - Before There Was 'Fortnite,' There Was 'Starsiege: Tribes' (December 5, 2018)](https://www.theringer.com/2018/12/05/video-games/starsiege-tribes-anniversary-first-person-shooters-fortnite-influence) — Tribes history with Youngblood interviews: Ski Racing, Thresh, Dave Moore's skiing bug, 'capture and hold', 128 players, awards, sales
+[^ref-28]: [PocketGamer.biz - Red 5 Studios shuts down Firefall (July 7, 2017)](https://www.pocketgamer.biz/news/66157/red-5-studios-shuts-down-firefall/) — Red 5 suspended Firefall efforts on 7th, July 2017
+[^ref-29]: [Ten Ton Hammer - Refining Firefall: A Preview / Q&A with Scott Youngblood (August 29, 2012)](https://www.tentonhammer.com/articles/refining-firefall-a-preview-q-a-with-scott-youngblood) — Youngblood as Lead Designer on Firefall; on dropping level-based progression
+[^ref-30]: [Game Developer - Red 5 Hires Tribes 2, Majestic Designer Youngblood (April 10, 2007)](https://gamedeveloper.com/game-platforms/red-5-hires-i-tribes-2-majestic-i-designer-youngblood) — Hire report: lead designer on StarSiege: Tribes and Tribes 2
