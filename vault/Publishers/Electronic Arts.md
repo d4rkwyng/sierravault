@@ -3,26 +3,30 @@ title: "Electronic Arts"
 type: publisher
 founded: 1982
 headquarters: "Redwood City, California, United States"
-parent_company: "Public Investment Fund (majority owner)"
-last_updated: "2026-10-26"
+parent_company: "PIF, Silver Lake and Affinity Partners consortium (private since August 2026)"
+last_updated: "2026-11-11"
 ---
 # Electronic Arts
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California, founded in 1982 by former Apple employee Trip Hawkins.[^ref-1][^ref-2][^ref-6] Its early games were packaged like rock albums, with the designers' names on the front.[^ref-3] EA now publishes franchises such as Madden NFL, EA Sports FC (formerly FIFA), The Sims and Battlefield.[^ref-1][^ref-11] Wikipedia lists the Public Investment Fund as its majority owner.[^ref-1]
+Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California, founded in 1982 by former Apple employee Trip Hawkins.[^ref-1][^ref-2][^ref-6] Its early games were packaged like rock albums, with the designers' names on the front.[^ref-3] EA now publishes franchises such as Madden NFL, EA Sports FC (formerly FIFA), The Sims and Battlefield.[^ref-1][^ref-11] On August 4, 2026, EA announced that its acquisition by PIF, Silver Lake and Affinity Partners had closed; its common stock ceased trading and was delisted from NASDAQ, making EA a private company.[^ref-27] Wikipedia's article gives the Public Investment Fund as the largest owner of the post-deal company, but the EA release gives no ownership split.[^ref-1][^ref-27]
 
 ## Sierra Connection
 
-Electronic Arts published several games developed by studios that later became part of Sierra On-Line, and it later bought a studio that Sierra had once owned.
+Electronic Arts published several games developed by studios that later became part of Sierra On-Line, distributed a Sierra title in the US, and later bought a studio that Sierra had once owned.
 
 **Dynamix Games:** MobyGames says Dynamix's first contract was with Electronic Arts, which resulted in *Arcticfox* (1986).[^ref-16] Wikipedia's list of Dynamix games, however, places *Sword of Kadash* (1985, Penguin Software) earlier, and also credits Dynamix with EA's 1986 Atari ST and Macintosh ports of *Skyfox*.[^ref-23] Compute! described it in October 1986 as "a strategy/action game for the Amiga from Electronic Arts."[^ref-17] EA went on to publish Dynamix's *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1988), *Abrams Battle Tank* and *Project Firestart* (1989), before Sierra bought Dynamix in 1990.[^ref-8][^ref-16] *Computer Gaming World* reviewed the IBM version of *Abrams Battle Tank* in June 1989, crediting designer Damon Slye of Dynamix and publisher Electronic Arts, after a March 1989 retailer ad had listed it as coming soon.[^ref-24][^ref-25]
 
 **Papyrus Design Group:** One of the first publishers that Papyrus's David Kaemmer and his business partner Omar Khudari approached was Electronic Arts, which was looking for a team to design an Indy 500 game.[^ref-18] EA published the result, *[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]* (1989).[^ref-8][^ref-19] Sierra owned Papyrus from 1995.[^ref-21] MobyGames says *NASCAR Racing 2003 Season* was Papyrus's last game and that Electronic Arts "had also snapped up the exclusive NASCAR license for all platforms, taking away their core audience"; Vivendi Universal Games closed Papyrus in May 2004.[^ref-26]
 
 **Headgate Studios:** Sierra bought the Utah studio [[Headgate Studios]] in 1996.[^ref-22] After a six-year partnership, EA acquired Headgate on November 30, 2006, and renamed it EA Salt Lake.[^ref-10][^ref-20]
+
+**Thexder (Amiga):** Compute! (March 1988) printed "Amiga version distributed by: Electronic Arts" in its review of Sierra's *[[1985 - Thexder|Thexder]]*; the vault's Thexder page lists the Amiga release as December 1987 in the US, with EA as US distributor.[^ref-28]
+
+**Valve (2005):** In July 2005 GamesIndustry.biz reported that Electronic Arts would publish the Xbox version of *[[2004 - Half-Life 2|Half-Life 2]]* in October and distribute [[Developers/Valve Corporation|Valve]]'s PC back catalogue worldwide, including a boxed "Game of the Year" edition. The article stresses that this was "a distribution deal, rather than a publishing deal" for the PC titles. It followed the end of Vivendi Universal Games' distribution of Valve products.[^ref-29]
 
 ## Games Published (Sierra Archive)
 
@@ -56,3 +60,6 @@ Electronic Arts published several games developed by studios that later became p
 [^ref-24]: [Computer Gaming World Issue 60, June 1989 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_60) - M. Evan Brooks review: "TITLE: Abrams Battle Tank SYSTEM: IBM PRICE: $49.95 DESIGNERS: Damon Slye Dynamix PUBLISHER: Electronic Arts San Mateo, CA"
 [^ref-25]: [Computer Gaming World Issue 57, March 1989 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_57) - Mail-order retailer ad, "COMING SOON" list: "Abrams Battle Tank - IBM"
 [^ref-26]: [MobyGames - Papyrus Design Group, Inc. (Wayback, July 2023)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) - "the 2003 version would be the last Papyrus game. Electronic Arts had also snapped up the exclusive NASCAR license for all platforms"; closed May 2004
+[^ref-27]: [EA - EA Announces Completion of Acquisition](https://www.ea.com/news/ea-announces-completion-of-acquisition) - August 4, 2026 release: acquisition by PIF, Silver Lake and Affinity Partners "has successfully closed"; common stock "has ceased trading and will be delisted from NASDAQ"; $210 cash per share; no ownership percentages given
+[^ref-28]: [Compute! Issue 94, March 1988, p. 21 - Thexder review](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) - "Amiga version distributed by: Electronic Arts, 1820 Gateway Dr., San Mateo, CA 94404"; $34.95
+[^ref-29]: [GamesIndustry.biz - EA to publish Half-Life 2 Xbox, distribute Valve PC titles](https://www.gamesindustry.biz/articles/ea-to-publish-half-life-2-xbox-distribute-valve-pc-titles) - Rob Fahey, July 19, 2005: Xbox version published in October by EA; back catalogue of PC titles distributed worldwide by EA; "a distribution deal, rather than a publishing deal"
