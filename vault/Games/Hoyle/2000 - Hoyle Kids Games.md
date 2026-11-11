@@ -11,7 +11,7 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Hoyle Kids Games 2000 is a collection of twelve classic children's games
   released by Sierra On-Line on September 7, 2000 for Windows and Macintosh as part
   of the Hoyle series.
@@ -19,7 +19,7 @@ tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,13 +31,13 @@ Hoyle Kids Games is one of the titles listed in Wikipedia's overview of the Hoyl
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc. (Casual Entertainment Division)[^ref-1][^ref-19]
-> **Designer:** Michael Katz, Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, Robert L. Jerauld[^ref-1]
+> **Designer:** Michael Katz, [[Rabih AbouJaoudé]], Dana Armstrong, Eric Fleming, Robert L. Jerauld[^ref-1]
 > **Publisher:** Sierra On-Line, Inc. (Sierra Attractions)[^ref-1][^ref-19]
 > **Engine:** Unknown/unnamed[^ref-5]
 > **Platforms:** Windows, Macintosh[^ref-1][^ref-5]
 > **Release Date:** September 7, 2000[^ref-19]
 > **Release Year:** 2000
-> **Series:** Hoyle Series
+> **Series:** [[Hoyle Series]]
 > **Protagonist:** Player-created avatar
 > **Sierra Lineage:** Core Sierra
 
@@ -85,7 +85,7 @@ Ten of the games are multiplayer, for up to four players on the same computer.[^
 
 ### Contemporary Reviews
 
-*Computer Gaming World*'s January 2001 "Holiday Hit List" placed Hoyle Kids Games first of its four family and kids picks, calling it "a collection of 12 classic games for all ages".[^ref-23] The magazine wrote that "Graphics are pretty good, and computer opponents are entertaining with their snappy banter", noted that most games have adjustable skill levels with rules and help on every screen, and gave an age recommendation of 5–12.[^ref-23]
+*Computer Gaming World*'s January 2001 "Holiday Hit List" placed Hoyle Kids Games first of its four family and kids picks, calling it "a collection of 12 classic games for all ages".[^ref-23] The magazine wrote that "Graphics are pretty good, and computer opponents are entertaining with their snappy banter", noted that most games have adjustable skill levels with rules and help on every screen, and gave an age recommendation of 5–12.[^ref-23] It pointed to touches such as keeping a snowman from melting in Hangman, watching tropical fish swim by during Go Fish, and laughing at the flushing frogs in Checkers, and named Battling Ships "our personal favorite".[^ref-23]
 
 MobyGames records a critic average of 85%, based on three critic ratings.[^ref-1]
 
@@ -117,6 +117,8 @@ Jeff Hoyt was one of six credited script writers and also one of the voice actor
 - **Script Writers:** Jeff Hoyt, Cindy Hoyt, Peter Karlin, Michael Katz, Kaefan Shaw, Rodney Sherwood
 - **Composers:** Mike Caviezel, Evan Schiller
 - **Sound Engineers:** Dennis Ham, Mike Caviezel
+- **Programming:** Roger Key (Sr. Software Engineer); Paul Horn, Eric Fleming, Dennis Ham, John Tighe (Software Engineers)
+- **Art:** Rabih AbouJaoudé, Julian Love (Lead Artists); Heather Ivy, Eric Hook (Sr. Artists); Will Barker (2D/3D Artist); Gayle Rowbotham, Mike Cressy (2D Artists)
 
 ### Technical Achievements
 
@@ -127,11 +129,12 @@ Sierra highlighted the Facemaker avatar utility and the Hoyle Genie, which "appe
 **CD-ROM Version:**[^ref-1][^ref-7]
 - **Disc:** Win/Mac hybrid CD-ROM, version 1.0.0.0[^ref-25]
 - **Minimum (Windows):** Intel Pentium, Windows 95, 16 MB RAM, 4X CD-ROM drive[^ref-26]
+- **Minimum (Mac):** System 7.5.3, 32 MB RAM, 4X CD-ROM drive, mouse; rated ESRB Everyone (per MobyGames' Macintosh platform data)[^ref-29]
 - **Resolution:** 640x480, 800x600, 1024x768 (Windows, per UVList); MobyGames lists 640×480[^ref-7][^ref-26]
 - **Color Depth:** 16-bit color (Mac OS Classic)[^ref-10]
 - **Media:** CD-ROM[^ref-1][^ref-7]
 - **Input:** Mouse[^ref-10]
-- **Ratings:** ESRB Everyone; ELSPA 3+[^ref-26]
+- **Ratings:** ESRB Everyone (Mild Violence); ELSPA 3+[^ref-26]
 - **Players:** 1–4 on the same computer;[^ref-20] MobyGames also lists 4 players online[^ref-26]
 
 ### Version History
@@ -141,7 +144,7 @@ Sierra highlighted the Facemaker avatar utility and the Hoyle Genie, which "appe
 | Win/Mac hybrid | September 7, 2000 | Windows, Mac OS Classic | Release announced in Sierra's press release; same date on GameFAQs and Sierra Chest[^ref-19][^ref-2][^ref-5] |
 | Win/Mac hybrid | August 7, 2000 | Windows, Mac OS Classic | MobyGames' date for its "Win/Mac Hybrid release (Version 1.0.0.0)"[^ref-25] |
 
-## Voice Cast
+### Voice Cast
 
 All voices were recorded at Clatter and Din Studios in Seattle, Washington. The credits list voice actors without assigning them to specific characters.[^ref-18]
 
@@ -186,7 +189,7 @@ Sierra followed it with Hoyle Kids Games 2002, which GameFAQs dates to September
 ## Downloads
 
 **Purchase / Digital Stores**
-- This game is not currently available on major digital storefronts (Steam, GOG)
+- This game is not currently available on major digital storefronts (Steam, GOG; checked November 11, 2026)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-kids-games-dpu) - Free download (Windows version)
@@ -197,60 +200,11 @@ Sierra followed it with Hoyle Kids Games 2002, which GameFAQs dates to September
 
 ## See Also
 
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Slots and Video Poker]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2007 - Hoyle Casino 2008]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2010 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
+- [[Hoyle Series]] — Series overview
+- [[2001 - Hoyle Kids Games]] — Follow-up edition
+- [[2000 - Hoyle Casino]] — Sierra Attractions Hoyle release of the same year
+- [[2001 - Hoyle Board Games]] — Companion Hoyle board-game collection
+- [[2001 - Hoyle Word Games]] — Companion Hoyle word-game collection
 
 ## References
 
@@ -274,3 +228,4 @@ Sierra followed it with Hoyle Kids Games 2002, which GameFAQs dates to September
 [^ref-26]: [MobyGames – Hoyle Kids Games tech specs (Windows), archived March 2025 (Wayback Machine)](https://web.archive.org/web/20250309141029/https://www.mobygames.com/game/49352/hoyle-kids-games/specs/windows/) – minimum requirements, 640×480, player counts, ESRB Everyone, ELSPA 3+
 [^ref-27]: [GameFAQs – Hoyle Kids Games 2002 release data](https://gamefaqs.gamespot.com/pc/565479-hoyle-kids-games-2002/data) – follow-up edition, US PC release 09/25/01, 15 games including Bump'em!
 [^ref-28]: [Sierra Chest – Hoyle Kids Games 2](https://sierrachest.com/index.php?a=games&id=826&title=hoyle-kids-games-2&fld=general) – follow-up edition listed separately, first release 2001-10-26
+[^ref-29]: [MobyGames – Hoyle Kids Games, Macintosh platform data (read via the MobyGames API, November 11, 2026)](https://www.mobygames.com/game/49352/hoyle-kids-games/) – Mac minimum OS, RAM, CD-ROM speed, input, ESRB rating
