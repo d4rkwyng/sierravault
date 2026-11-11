@@ -10,15 +10,16 @@ series: The Incredible Machine
 engine: Custom (Dynamix)
 protagonist: N/A (Player-controlled contraptions)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Jan Paul Moorhead (LoudMouth Productions)]
 description: The Incredible Machine 3.0 (also referred to as The Incredible Machine
-  Version 3.0) is a puzzle video game developed by Dynamix and published by Sierra...
+  Version 3.0) is a 1995 puzzle video game for Windows and Macintosh, developed by
+  Dynamix and published by Sierra On-Line.
 tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 3.0
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,13 +29,13 @@ It is an enhanced version of The Incredible Machine 2: both games have the same 
 
 Like the rest of the series, it challenges players to build Rube Goldberg devices, arranging a given collection of objects in a needlessly complex fashion to perform a simple task[^ref-2]. Sources differ on how to divide the series' design credit: Wikipedia says the games were "designed and coded by Kevin Ryan and produced by Jeff Tunnell", while a 2015 Choicest Games profile says Tunnell "was the designer and producer" but did not program them[^ref-2][^ref-13]. MobyGames' credits list both Ryan and Tunnell among the designers[^ref-22]. By 2000, the series had sold over one million copies[^ref-2].
 
-The 2009 GOG.com compilation's description captures the premise: "Do you remember watching with amazement when those cartoon heroes constructed machines to catch someone or start something? Those very complicated Rube Goldberg-like ones with knives, toasters, anvils etc?"[^ref-15]
+GOG.com's description of its Mega Pack compilation, reproduced on Disney's support page, captures the premise: "Do you remember watching with amazement when those cartoon heroes constructed machines to catch someone or start something? Those very complicated Rube Goldberg-like ones with knives, toasters, anvils etc?"[^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] ("A Jeff Tunnell Production")[^ref-22]
-> **Designer:** [[Kevin Ryan]], Jeffrey Tunnell[^ref-22]
+> **Designer:** [[Kevin Ryan]], [[Jeff Tunnell|Jeffrey Tunnell]][^ref-22]
 > **Publisher:** [[Sierra On-Line]][^ref-22]
-> **Engine:** Custom (Dynamix)
+> **Engine:** Custom (Dynamix) (unconfirmed; no source found)
 > **Platforms:** Windows, Macintosh[^ref-28]
 > **Release Year:** 1995[^ref-24][^ref-25]
 > **Series:** The Incredible Machine
@@ -69,7 +70,7 @@ Parts range from ropes and pulleys to electrical generators, bowling balls, cats
 
 ### Contemporary Reviews
 
-GameRankings showed 70% for The Incredible Machine 3, but its page noted the score was "based on 1 review": Quandary's 3.5 out of 5, dated 06/03/96[^ref-29]. Sierra's Holiday 1995 advertisement quoted Shane Mooney of PC Magazine (August 1995): "...you'll love this latest addition to the Incredible Machine series"[^ref-24].
+GameRankings showed 70% for The Incredible Machine 3, but its page noted the score was "based on 1 review": Quandary's 3.5 out of 5, dated 06/03/96[^ref-29]. Sierra's Holiday 1995 advertisement quoted Shane Mooney of PC Magazine (August 1995): "...you'll love this latest addition to the Incredible Machine series"[^ref-24]. That line is not a review of Version 3.0: it comes from Mooney's August 1995 PC Magazine review of The Incredible Machine 2 (p. 543, headed "Cause-and-Effect Brain-teasers"), which reads "you'll love this latest addition to The Incredible Machine series" and which Sierra reused in the Version 3.0 advertisement[^ref-37].
 
 Reviewing The Incredible Machine 2, whose levels Version 3.0 shares, PC Gamer US's Gary Meredith (January 1995) gave it 90% and wrote: "In every way, TIM2 is an improvement, keeping the best parts of the original yet giving the player more options and flexibility"[^ref-31][^ref-23]. In Computer Gaming World's 1996 Premier Awards (June 1996), the Readers' Choice in the Classics/Puzzles category went to The Incredible Machine 2[^ref-27][^ref-23].
 
@@ -87,7 +88,7 @@ MobyGames' combined TIM 2/3.0 entry has 57 player ratings and a MobyScore of 8.0
 
 ### Origins
 
-Jeff Tunnell, who had co-founded Dynamix in 1984, left in early 1992, after *The Adventures of Willy Beamish*, to form Jeff Tunnell Productions[^ref-35][^ref-36]. He was the designer and producer of the original 1992 game, although he did not program it[^ref-13]. Kevin Ryan programmed the first game[^ref-2].
+Jeff Tunnell, who had co-founded Dynamix in 1984[^ref-13], left in early 1992, after *The Adventures of Willy Beamish*, to form Jeff Tunnell Productions[^ref-35][^ref-36]. He was the designer and producer of the original 1992 game, although he did not program it[^ref-13]. Kevin Ryan programmed the first game[^ref-2].
 
 In November 1996, Tunnell and Christopher M. Cole were granted US patent 5,577,185, "Computerized puzzle gaming method and apparatus", filed in November 1994 and assigned to Dynamix[^ref-34]. The patent's background names The Incredible Machine "and its progeny" as an existing puzzle game, and its detailed description is written around "Toons" puzzles[^ref-34].
 
@@ -97,17 +98,26 @@ The 1993 through 1995 versions had the same development team[^ref-2]. Jeff Tunne
 
 Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed "Incredible Machine 3.0" for October on Windows and Macintosh, captioned "The definitive Incredible Machine game"[^ref-25]. By the Holiday 1995 issue of InterAction the game was advertised as "Now Shipping!" on Windows 95, Windows and Mac CD at $34.95[^ref-24], and Sierra's website still listed both CDs at $34.95 in December 1996[^ref-28].
 
-**Development Credits (Windows version):**[^ref-22]
+**Development Credits (MobyGames' combined The Incredible Machine 2 / Version 3.0 entry; Windows-specific lines are labelled):**[^ref-22]
 - **Executive Producer:** Jeffrey Tunnell
 - **Producer (Windows):** Ken Embery
 - **Designer/Programmer (Windows):** Kevin Ryan
 - **Designers:** [[Kevin Ryan]], [[Jeff Tunnell|Jeffrey Tunnell]], Richard Rayl, [[Brian Hahn]], Steve Letsom, [[Richard Tunnell]]
+- **Programmer (Windows):** Richard Rayl
+- **Software Engineers:** Richard Rayl, Steve Letsom, Kevin Ryan
 - **Macintosh Programmer:** Jon Milnes
+- **Puzzle Director:** [[Richard Tunnell]]
 - **Art Director:** Brian Hahn
 - **Audio Director:** Jan Paul Moorhead
 - **Original Music Composition:** LoudMouth Productions, Jan Paul Moorhead
 - **Music and Sound Effects:** Christopher Stevens, Jan Paul Moorhead, Timothy Steven Clarke, Ken Rogers, Randy Dersham
 - **Voice Talent:** Bill Barrett
+
+### Voice Cast
+
+| Character/Role | Voice Actor |
+|----------------|-------------|
+| Voice Talent | Bill Barrett[^ref-22] |
 
 ### Technical Specifications
 
@@ -119,20 +129,17 @@ Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| The Incredible Machine | 1992 | MS-DOS | First game in the series[^ref-13]; Wikipedia gives 1993[^ref-2] |
-| The Even More Incredible Machine | 1993 | MS-DOS | Extended version with 160 levels[^ref-2] |
-| The Incredible Machine 2 | 1994 | MS-DOS | New levels, parts, interface; hotseat play[^ref-2][^ref-23] |
+| The Incredible Machine | 1992 | MS-DOS | First game in the series, released December 1, 1992[^ref-36]; the series page on Wikipedia gives 1993[^ref-2][^ref-13] |
+| The Even More Incredible Machine | 1993 | MS-DOS, Windows, Macintosh | Extended version with 160 levels[^ref-2] |
+| The Incredible Machine 2 | 1994 | MS-DOS, Windows, Macintosh | New levels, parts, interface; hotseat play[^ref-2][^ref-23] |
 | The Incredible Machine Version 3.0 | 1995 | Windows, Macintosh | Same levels as TIM 2, improved interface, CD music[^ref-2][^ref-24] |
+| The Incredible Machine Version 3.0 (Japan) | 1996 | Windows | Published by Cybelle, developed by Jeff Tunnell Productions; reduced-price re-release 1998 (MobyGames)[^ref-21] |
+
+The table lists the main-line games only; the spin-offs Sid & Al's Incredible Toons and The Incredible Toon Machine (1994) are left out.
 
 ### Technical Issues
 
 The game has 19 songs. When the TIM3 CD-ROM is detected the music plays as CD audio; otherwise the game falls back to a General MIDI version of the same songs[^ref-32]. PCGamingWiki notes that the GOG.com re-release does not include the CD-audio tracks[^ref-33]; a fan patch restores the CD soundtrack, noting that "The Incredible Machine 3 uses exactly the same soundtrack" as The Incredible Machine 2[^ref-12].
-
-## Voice Cast
-
-| Character/Role | Voice Actor |
-|----------------|-------------|
-| Voice Talent | Bill Barrett[^ref-22] |
 
 ## Legacy
 
@@ -142,14 +149,14 @@ The series continued with Return of the Incredible Machine: Contraptions (2000),
 
 ### Collections
 
-- **The Incredible Machine Mega Pack** (GOG.com, October 1, 2009) – includes Even More Incredible Machine, The Incredible Machine 3 (containing all levels from The Incredible Machine 2), Contraptions and Even More Contraptions[^ref-2][^ref-15]. Shacknews reported the pack at $10, describing The Incredible Machine 3 as "Windows compatible The Incredible Machine 2 with new interface and enhanced graphics"[^ref-30]
+- **The Incredible Machine Mega Pack** (GOG.com, October 1, 2009) – includes Even More Incredible Machine, The Incredible Machine 3 (containing all levels from The Incredible Machine 2), Contraptions and Even More Contraptions[^ref-2][^ref-15]. GOG.com delisted it in spring 2026 (see Downloads). Shacknews reported the pack at $10, describing The Incredible Machine 3 as "Windows compatible The Incredible Machine 2 with new interface and enhanced graphics"[^ref-30]
 
 On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the rights to The Incredible Machine games[^ref-30]; the rights later passed to Disney after Playdom acquired PushButton Labs[^ref-2].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- No current storefront listing found; the GOG.com Mega Pack is no longer listed, and neither GOG.com nor Steam lists the game (checked October 2026).
+- No current storefront listing found; GOG.com delisted the Mega Pack between March and May 2026. The Internet Archive captured its product page as a live listing on 13 March 2026[^ref-38] and as a redirect to GOG's games index on 4 May 2026[^ref-39], and the address still redirected there when checked on 11 November 2026. Steam's store search returned no result for "incredible machine" (checked 11 November 2026).
 
 **Download / Preservation**
 - [Internet Archive – The Incredible Machine 3.0](https://archive.org/details/the-incredible-machine-3.0)[^ref-7]
@@ -198,3 +205,6 @@ On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the
 [^ref-34]: [Google Patents – US5577185A, Computerized puzzle gaming method and apparatus](https://patents.google.com/patent/US5577185A/en) – inventors Jeffrey A. Tunnell and Christopher M. Cole; filed 1994-11-10, granted 1996-11-19; assigned to Dynamix
 [^ref-35]: [MobyGames – Dynamix, Inc. (Wayback Machine, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) – Tunnell "left the company after finishing The Adventures of Willy Beamish (1991), to start his own company Jeff Tunnell Productions"
 [^ref-36]: [The Digital Antiquarian – "The Incredible Machine" (Jimmy Maher, June 2018)](https://www.filfre.net/2018/06/the-incredible-machine/) – Jeff Tunnell Productions founded in early 1992
+[^ref-37]: [PC Magazine, August 1995, Internet Archive](https://archive.org/details/PC-Mag-1995-08-01) – p. 543, Shane Mooney, "Cause-and-Effect Brain-teasers; The Incredible Machine 2": "you'll love this latest addition to The Incredible Machine series"; the review covers The Incredible Machine 2 (175 puzzles) and mentions the Incredible Toon Machine
+[^ref-38]: [GOG.com – The Incredible Machine Mega Pack (Wayback Machine capture, 13 March 2026)](https://web.archive.org/web/20260313030618/https://www.gog.com/en/game/the_incredible_machine_mega_pack) – last captured live listing of the Mega Pack product page
+[^ref-39]: [GOG.com – The Incredible Machine Mega Pack (Wayback Machine capture, 4 May 2026)](https://web.archive.org/web/20260504163616/https://www.gog.com/en/game/the_incredible_machine_mega_pack) – the product URL redirects (HTTP 302) to gog.com/games; every later capture through 24 September 2026 does the same
