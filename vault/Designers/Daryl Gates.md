@@ -5,11 +5,11 @@ birth_year: 1926
 death_year: 2010
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "Police Quest: SWAT 2", "SWAT 3: Close Quarters Battle"]
 companies: ["Los Angeles Police Department", "Sierra On-Line"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Daryl Gates
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,9 @@ Months after his resignation, Sierra founder [[Ken Williams]] approached Gates a
 
 After Navy service, Gates was taking pre-law courses at the University of Southern California when he joined the LAPD in 1949; he later finished his degree at USC[^ref-4][^ref-20]. He rose through the ranks "at the arm of" the department's long-time chief, William H. Parker[^ref-9]. The 1965 Watts Riots, which Gates watched from Parker's side, were a formative experience; in his memoir he wrote: "We had no idea how to deal with this. We were constantly ducking bottles, rocks, knives, and Molotov cocktails. It was random chaos. We did not know how to handle guerrilla warfare"[^ref-6].
 
-In the wake of Watts, Gates organized the tactical unit that became the LAPD's SWAT team, and he is often credited with the creation of police SWAT teams[^ref-4][^ref-18][^ref-20]. The LAPD's own history of the unit says the special weapons and tactics concept was presented to him by Officer John Nelson, and that Gates, then an inspector, approved it[^ref-25][^ref-20]. By July 1975, according to The Digital Antiquarian, there were 500 other SWAT teams in the United States[^ref-6]. In 1983 Gates started the DARE (Drug Abuse Resistance Education) program with the Los Angeles Unified School District[^ref-18][^ref-3].
+Gates is often credited with the creation of police SWAT teams[^ref-4][^ref-18][^ref-20]; The New York Times obituary says he "helped develop" the LAPD's SWAT unit[^ref-27]. The LAPD's own history of the unit says the special weapons and tactics concept was presented to him by Officer John Nelson, and that Gates, then an inspector, approved it[^ref-25][^ref-20]. According to Wikipedia's summary of his 1992 memoir, *Chief: My Life in the LAPD*, he wrote that he developed neither SWAT's tactics nor its equipment, but supported the concept and lent his people moral support[^ref-20]. By July 1975, according to The Digital Antiquarian, there were 500 other SWAT teams in the United States[^ref-6]. In 1983 Gates started the DARE (Drug Abuse Resistance Education) program with the Los Angeles Unified School District[^ref-18][^ref-3].
+
+In March 1991 a bystander's videotape captured the beating of motorist Rodney King by four LAPD officers; according to the Guardian, Gates termed it an aberration, while a commission headed by Warren Christopher "identified pervasive racist behaviour and called for Gates to be replaced"[^ref-4]. Wikipedia gives the Christopher Commission report's date as July 10, 1991, and says Gates announced his intention to resign on July 13, 1991[^ref-20]. He remained in office until June 28, 1992[^ref-6]; The New York Times obituary says he was "forced to resign" in the wake of the riots that followed the acquittal of the four officers[^ref-27], and the Guardian's obituary subtitle describes him as "forced to resign after the 1992 riots"[^ref-4]. Gates published his memoir, *Chief: My Life in the LAPD*, with Diane K. Shah (Bantam Books) in 1992[^ref-4][^ref-28].
 
 ### Transition to Game Development (1992)
 
@@ -57,7 +59,7 @@ Gates was credited as "Content Consultant" on [[1998 - Police Quest - SWAT 2|Pol
 
 ## Legacy
 
-Gates' involvement in games remains tied to his reputation in American policing. The Guardian's obituary notes that after leaving the force he "helped create two video games, Police Quest: Open Season and Swat"[^ref-4]. Assessments of the games are divided: VICE's 2018 retrospective called Open Season "the most reactionary game of the 90s" in its headline[^ref-5], while Gates himself presented the SWAT games as a way to show the challenges of police work[^ref-18]. Gates died of cancer on April 16, 2010, at his home in Dana Point, California, aged 83[^ref-2][^ref-3][^ref-4].
+The Guardian's obituary notes that after leaving the force he "helped create two video games, Police Quest: Open Season and Swat"[^ref-4]. The New York Times obituary describes his approach to policing as "both admired for its innovation and criticized for the racial unrest it provoked"[^ref-27]. Of the games, Kotaku's 2010 obituary says both were "considered disappointments"[^ref-10]; Sierra marketing director John Williams said in 1993, as quoted by VICE, that Ken Williams had come to think that Gates "had been pinned as the fall guy for the whole LA Riot thing"[^ref-5]. Gates himself presented the SWAT games as a way to show the challenges of police work[^ref-18]. As of November 2026 GOG sells *Police Quest: SWAT 1+2*[^ref-29]. Gates died of cancer on April 16, 2010, at his home in Dana Point, California, aged 83[^ref-2][^ref-3][^ref-4].
 
 ## Games
 
@@ -87,3 +89,6 @@ Gates' involvement in games remains tied to his reputation in American policing.
 [^ref-24]: [MobyGames – SWAT 3: Close Quarters Battle Credits (Archived September 2005)](http://web.archive.org/web/20050912074406/http://www.mobygames.com:80/game/swat-3-close-quarters-battle/credits) — "Consultant: Daryl F. Gates (LAPD Ret.)"
 [^ref-25]: [LAPD Online – SWAT](https://www.lapdonline.org/swat/) — "Officer John Nelson presented the special weapons and tactics concept to a young inspector by the name of Darryl F. Gates"
 [^ref-26]: [MobyGames – Police Quest: SWAT 2](https://www.mobygames.com/game/153/police-quest-swat-2/) — Trivia: as in Open Season, Gates "will show up from time to time to give you some helpful in-game hints"
+[^ref-27]: [The New York Times – Daryl F. Gates, L.A.P.D. Chief in Rodney King Era, Dies at 83](https://www.nytimes.com/2010/04/17/us/17gates.html) — Keith Schneider, April 16, 2010 (preview text read via ScraperAPI): "forced to resign in June 1992"; "helped develop the Special Weapons and Tactics, or SWAT, unit"
+[^ref-28]: [Chief: My Life in the L.A.P.D. (Internet Archive)](https://archive.org/details/chiefmylifeinl00gate) — Gates, Daryl F.; New York: Bantam Books, 1992 (catalogue record)
+[^ref-29]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) — Store page, checked 2026-11-11
