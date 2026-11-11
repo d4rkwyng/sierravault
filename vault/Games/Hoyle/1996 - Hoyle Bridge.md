@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Johnathan Cunningham]
 description: Hoyle Bridge is a 1996 contract bridge game for Windows 3.x and Windows
   95 from Sierra On-Line, a Sierra Originals release derived from Hoyle Classic Games
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -103,8 +103,9 @@ Hoyle Bridge was developed in-house by Sierra On-Line[^ref-1]. MobyGames credits
 - **Creative Direction:** Julie Pogue Barnes
 - **Lead Engineer:** Earl Malmrose
 - **Programming:** Tom Abbott, Elon Gasper, Tim Knappenberger, Mira Lieberman, Tim Weiss, Richard Aronson
-- **Lead Artist:** Rabih AbouJaoudé
+- **Lead Artist:** [[Rabih AbouJaoudé]]
 - **Lead Animator:** Tony Benedict
+- **Artists:** Kathleen Darcy, Greg Griffith, Tina Dickey, Kristin Kester, Julie Pogue Barnes, Moksha Marquardt, Karen Mui, Trevor Pogue
 - **Sound Design and Music Design:** Johnathan Cunningham
 - **Script:** Kaefan Shaw, Dennis Ham
 - **Sound & Lip Synching:** Beck Henderer
@@ -136,7 +137,7 @@ MobyGames lists the ESRB rating as Kids to Adults[^ref-1]. The ESRB's own databa
 
 - The animated opponents include a pirate and a puppy; MobyGames remarks that "why a pirate and a puppy enjoy playing bridge is left up to your imagination"[^ref-1]
 - Amazon's product description calls bridge the "Chess of card games"[^ref-2]
-- Unlike this game's cast, the first Hoyle volume (1989) had 18 computer opponents, including Sierra characters such as King Graham, Roger Wilco and Larry Laffer[^ref-14]
+- The first Hoyle volume (1989) had 18 computer opponents, including Sierra characters such as King Graham, Roger Wilco and Larry Laffer[^ref-14]
 
 ### Version History
 
@@ -164,7 +165,7 @@ Hoyle Bridge was derived from Hoyle Classic Games (1995), which included bridge 
 
 ### Fan Projects
 
-Hoyle Bridge is preserved on abandonware sites including MyAbandonware and Old-Games.com[^ref-7][^ref-10]. It is not sold on modern digital stores; a Steam search returns no results[^ref-23]. ScummVM is the main way to run the Windows 3.x version on modern systems[^ref-5][^ref-28].
+Hoyle Bridge is preserved on abandonware sites including MyAbandonware and Old-Games.com[^ref-7][^ref-10]. It is not sold on modern digital stores; a Steam search returns no results[^ref-23]. ScummVM detects the Windows release (`hoyle5bridge`)[^ref-28], but its compatibility list has no entry for Hoyle Bridge (checked November 11, 2026)[^ref-39]; PCGamingWiki says only that the Windows 3.x version "might be playable" that way[^ref-5].
 
 ### Critical Perspective
 
@@ -262,3 +263,4 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 [^ref-36]: [MobyGames – Hoyle Children's Collection](https://www.mobygames.com/game/19773/hoyle-childrens-collection/) – 1996 Windows release; checkers, crazy eights and old maid
 [^ref-37]: [InterAction Magazine, Fall 1995 (Internet Archive OCR text)](https://archive.org/download/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US_djvu.txt) – Hoyle Classic Games feature listing its eight card games and two board games
 [^ref-38]: [InterAction Magazine, Spring 1998 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Spring_1998_1998_Sierra_On-Line_US/page/n8/) – Sierra introduces Hoyle Bridge and Euchre (1998); "Bridge has four" variations
+[^ref-39]: [ScummVM – Game compatibility list (DEV)](https://www.scummvm.org/compatibility/DEV/) – lists hoyle1–hoyle4, hoyle5 and hoyle5solitaire; no hoyle5bridge entry (checked 2026-11-11)
