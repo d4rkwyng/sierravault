@@ -8,9 +8,9 @@ genre: RPG
 platforms: [Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups]
 series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
-protagonist: Aren
+protagonist: William Escobar, Aren Cordelaine, Kaelyn Usher
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a follow-up to the acclaimed 1993 title Betrayal at
   Krondor.
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -34,12 +34,12 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Platforms:** Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups[^ref-5]
 > **Release Year:** 1997 (shipping by June 30, 1997)[^ref-6]
 > **Series:** Krondor Series
-> **Protagonist:** Aren
+> **Protagonist:** William Escobar, Aren Cordelaine, Kaelyn Usher[^ref-1][^ref-5][^ref-7]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Set in the Empire of Antara in the fantasy world of Ramar, players take on the role of Aren and William as they become embroiled in a conspiracy involving a dying man named Gregor who presses a medallion into William's hand while speaking his last word: "Consort"[^ref-8]. Near Panizo the pair rescue Kaelyn Usher from bandits and she joins them[^ref-1], making up the three-character party the player navigates[^ref-7]. The story unfolds across nine chapters[^ref-8] as players work to "save the empire of Antara from corruption and war"[^ref-9]. Unlike its predecessor, the game does not continue Raymond E. Feist's Riftwar saga but instead starts a new tale in a different fantasy world[^ref-7].
+Set in the Empire of Antara in the fantasy world of Ramar, players follow William Escobar, Aren Cordelaine and Kaelyn Usher as they become embroiled in a conspiracy involving a dying man named Gregor who presses a medallion into William's hand while speaking his last word: "Consort"[^ref-8]. Near Panizo William and Aren rescue Kaelyn from bandits and she joins them[^ref-1], making up the three-character party the player navigates[^ref-7]. The story unfolds across nine chapters[^ref-8] as players work to "save the empire of Antara from corruption and war"[^ref-9]. Unlike its predecessor, the game does not continue Raymond E. Feist's Riftwar saga but instead starts a new tale in a different fantasy world[^ref-7].
 
 The narrative explores themes of political intrigue and betrayal as the protagonists navigate the crumbling Antaran Empire. The game features 34 interactive characters throughout the adventure[^ref-10], with players seeking "power, fortune and glory" while uncovering the larger conspiracy threatening the realm[^ref-10].
 
@@ -73,10 +73,17 @@ Betrayal in Antara received mixed reviews from critics, with many praising the g
 |-------------|-------|-------|
 | GameSpot | 6.6/10 (Fair) | Criticized graphics quality and linearity[^ref-17] |
 | Next Generation (Oct 1997) | 3 stars | "Antara succeeds it in the fashion of Doom II"[^ref-32] |
+| Computer Gaming World (Nov 1997) | Written review (no score) | "a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't"[^ref-35] |
 | MobyGames Critics | 69% average (21 ratings) | Mixed professional reception[^ref-18] |
 | IMDb | 6.9/10 (14 ratings) | User rating[^ref-19] |
 
+Computer Gaming World's Petra Schlunk reviewed the game in issue #160 (November 1997) under the headline "Not Feisty: Betrayal in Antara Tells a Good, Strong Tale, But It's Not Quite Krondor"[^ref-35]. She called it "a strong spiritual descendent" of Betrayal at Krondor, but wrote that "the world is dark and dreary-looking, the characters and their voices are not particularly interesting, the music is uninspired, and the interface feels dated and often counterintuitive," and that it is "a very long game," made longer by slow combat[^ref-35]. She also reported a bug that stops a party from entering chapter 9 if it completed all the chapter 5 side quests, with no patch available at the time of writing, and concluded: "Overall, Antara is a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't."[^ref-35]
+
 GameSpot's reviewer Desslock noted that "For gamers willing to tolerate substandard graphics and linear gameplay, Betrayal in Antara succeeds in providing an enjoyable role-playing experience"[^ref-17]. However, he criticized the visuals severely, stating the graphics are "frankly, as ugly as an orc" and describing the color palette as "muddy Monet"[^ref-17].
+
+### Sales
+
+A list of the top 12 best-selling adventure games for 1998 "as of July", attributed to PC Data and printed in Computer Gaming World issue #172, includes the game (printed there as "Betrayal at Antara") at 52,309 copies and $674,058[^ref-36].
 
 ### Modern Assessment
 
@@ -95,6 +102,21 @@ Peter Sarrett's involvement as designer grew out of his own enthusiasm for Betra
 ### Production
 
 The development team included lead programmer Rikki Cleland-Hura, who helped flesh out world details, while the art team created the visual look for the Antaran Empire setting[^ref-5]. The score was composed by David Henry, who also handled dialogue and sound effects[^ref-5][^ref-23]; the soundtrack archived at KHInsider runs to 72 files totaling 1 hour and 25 minutes[^ref-15].
+
+#### Development Credits
+
+The manual's credits list the following team members[^ref-5]:
+
+- **Producer:** Steven Lee Miles
+- **Lead Programmers:** Rikki Cleland-Hura, Emmanuel Schilling
+- **Art Director:** Jimmy Kowalski
+- **Music, Dialogue, and Sound Effects:** David Henry
+- **Dialogue Writers / Voice Direction:** Susan Frischer, Peter Sarrett
+- **Game Programmers:** Michael Stahl, Brendan Vanous, Peter Sarrett
+- **Game Artists:** Rob Johnson, Tracy Boyd, Barry Sundt, Deane Marston
+- **Manual and Supplementary Game Text:** Cindy Vanous
+
+The manual's "Cast of Characters" lists Andrew Thacher with Aren Cordelaine, Jason Cottle with William Escobar, and Anne Christianson with Kaelyn Usher[^ref-5].
 
 Sierra released the game on multiple CD-ROMs, installed to the hard drive from the first disc[^ref-5]. The minimum requirements were Windows 3.1 or Windows 95, an 80486DX2 66 MHz processor, 16 MB RAM, 20 MB of hard drive space, 256-color video and a 4X CD-ROM drive[^ref-11], plus a standard 2-button mouse[^ref-5].
 
@@ -119,6 +141,12 @@ The game is sold digitally on GOG.com and Steam in a pack bundled with Betrayal 
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5].
 
+### Collections
+
+- **GOG.com:** the "Betrayal at Krondor Pack" includes Betrayal at Krondor and Betrayal in Antara; the store page lists a release date of March 30, 2010 (checked 2026-11-11)[^ref-33].
+- **Steam:** "Betrayal Collection" (app 559640) was released on December 15, 2016 (checked 2026-11-11)[^ref-34].
+- **Fantasy Pack (Sierra, 1998):** a compilation of Rama, Birthright: The Gorgon's Alliance, Betrayal in Antara and Outpost 2: Divided Destiny, released for DOS and Windows[^ref-37].
+
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -136,6 +164,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 
 - [[1993 - Betrayal at Krondor]]
 - [[1998 - Return to Krondor]]
+- [[Krondor Series]]
 
 ## References
 
@@ -167,3 +196,6 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-32]: [Next Generation, October 1997 (Internet Archive scan)](https://archive.org/details/next-generation-1997-10/page/n180/mode/1up) – Review of Betrayal in Antara (PC), "Rating: ★★★"; "Antara succeeds it in the fashion of Doom II"
 [^ref-33]: [GOG.com - Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) – "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
 [^ref-34]: [Steam - Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
+[^ref-35]: [Computer Gaming World, issue #160, November 1997 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_160) – Petra Schlunk's review, "Not Feisty: Betrayal in Antara Tells a Good, Strong Tale, But It's Not Quite Krondor"
+[^ref-36]: [Computer Gaming World, issue #172 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_172) – PC Data top 12 best-selling adventure games for 1998, as of July; "Betrayal at Antara", 52,309 copies, $674,058
+[^ref-37]: [MobyGames - Fantasy Pack](https://www.mobygames.com/game/2908/fantasy-pack/) – Sierra compilation (1998, DOS/Windows) listing Betrayal in Antara; read via the MobyGames API
