@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Caesar", "Caesar III", "Lords of the Realm", "Lords of the Realm II"]
 companies: ["Impressions Games", "Sierra On-Line", "Firefly Studios", "Crimson Publishing"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # David Lester
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ The 2013 interview gives 1988 as the year Impressions was founded and GamesNosta
 
 GamesNostalgia says Lester played no role in that game beyond securing Dalglish, and calls Merchant Colony (1991) his first game, although CGW's 1993 report dates his first game, *Just Imagine*, to 1984.[^ref-1][^ref-24] GamesNostalgia describes Merchant Colony as an Amiga trading strategy game for which he wrote the concept while [[Simon Bradbury]] did the development; MobyGames credits him with its "Game Concept".[^ref-1][^ref-16]
 
-Caesar followed in 1992, again with Bradbury; GamesNostalgia notes that it was "likened to SimCity on many levels".[^ref-1] MobyGames credits Lester with the design of Caesar and Caesar II (1995).[^ref-16] Lester says Caesar II and Caesar III "both sold about 2.5 million copies around the world".[^ref-2] After several games sold less than expected and cash ran short, the company moved into the US market. Lester recalls buying "a one way ticket out to Boston" and setting up an office there "with two people to start with and over the next three years we built that up to fifty people".[^ref-2] The period record places the early US headquarters in Connecticut: CGW's February 1993 report says Impressions located its corporate headquarters near the offices of Connecticut publisher Omnitrend, and interviewed Lester "in his Farmington, CT office".[^ref-24]
+Caesar followed in 1992, again with Bradbury; GamesNostalgia notes that it was "likened to SimCity on many levels".[^ref-1] MobyGames credits Lester with the design of Caesar and, with Christopher J. Foster, of Caesar II (1995).[^ref-16][^ref-27] Lester says Caesar II and Caesar III "both sold about 2.5 million copies around the world".[^ref-2] After several games sold less than expected and cash ran short, the company moved into the US market. Lester recalls buying "a one way ticket out to Boston" and setting up an office there "with two people to start with and over the next three years we built that up to fifty people".[^ref-2] The period record places the early US headquarters in Connecticut: CGW's February 1993 report says Impressions located its corporate headquarters near the offices of Connecticut publisher Omnitrend, and interviewed Lester "in his Farmington, CT office".[^ref-24]
 
 Lords of the Realm (1994) was designed with Christopher J. Foster from a concept by Lester; MobyGames credits him with its concept.[^ref-1][^ref-16] Lester later called it "probably my favorite of all the games I've designed".[^ref-18]
 
@@ -39,15 +39,15 @@ He advised entrepreneurs: "The best advice I can give is to get close and stay c
 
 ### Sierra On-Line (1995–1998)
 
-In 1995 Lester sold Impressions to Sierra On-Line; the 2013 interview calls the price a "life-changing sum".[^ref-2] Lords of the Realm II followed in 1996; MobyGames credits Lester as game designer and executive producer, and Wikipedia describes him as Impressions' "general manager and lead designer".[^ref-20][^ref-10] Lester says it sold about 2.5 million copies.[^ref-2]
+In 1995 Lester sold Impressions to Sierra On-Line; the 2013 interview calls the price a "life-changing sum".[^ref-2] In his own account, "Crimson Publishing: Our Story", he writes that the games industry was growing at a "phenomenal rate" in 1995, so he "moved to the USA to improve the worldwide distribution of our games" (CGW's 1993 report already had him in his Farmington, CT office[^ref-24]), and that it was in a meeting with the CEO of Sierra that he "was offered a life-changing sum to sell Impressions".[^ref-26] Lords of the Realm II followed in 1996; MobyGames credits Lester as game designer and executive producer, and Wikipedia describes him as Impressions' "general manager and lead designer".[^ref-20][^ref-10] Lester says it sold about 2.5 million copies.[^ref-2]
 
-Caesar III was released in 1998 with Lester credited as designer.[^ref-19][^ref-9] Lester puts its sales at around 2.5 million copies; period figures were 400,000 by January 1999, and Sierra said in April 1999 that the whole Caesar series had sold "well over one million units".[^ref-9][^ref-2] MobyGames says Lester returned to the United Kingdom in 1996 and "remained heavily involved until 1998 as the General Manager of the Impressions Division".[^ref-6]
+Caesar III was released in 1998 with Lester credited as designer.[^ref-19][^ref-9] Lester puts its sales at around 2.5 million copies; period figures were 400,000 by January 1999, and Sierra said in April 1999 that the whole Caesar series had sold "well over one million units".[^ref-9][^ref-2] MobyGames says Lester returned to the United Kingdom in 1996 and "remained heavily involved until 1998 as the General Manager of the Impressions Division".[^ref-6] Lester's own account agrees on the return: "With the proceeds of the sale I returned to England in 1996. I carried on working for Sierra in London, though on a part-time basis." He adds, "I designed Caesar 3, which came out in 1998", and says he then stopped working on computer games altogether.[^ref-26]
 
 ### Post-Sierra Career
 
-Lester co-founded Firefly Studios in August 1999 with Simon Bradbury and Eric Ouellette.[^ref-5] The studio is best known for the Stronghold series, which began in 2001, and has sold over seven million copies of its games.[^ref-5][^ref-15] MobyGames credits Lester on the Stronghold games only under Special Thanks.[^ref-6]
+Lester co-founded Firefly Studios in August 1999 with Simon Bradbury and Eric Ouellette.[^ref-5] The studio is best known for the Stronghold series, which began in 2001, and has sold over seven million copies of its games; Wikipedia records that Devolver Digital acquired the studio in June 2021.[^ref-5][^ref-15] MobyGames credits Lester on the Stronghold games only under Special Thanks.[^ref-6]
 
-In February 1999, according to the 2013 interview, he launched Crimson Publishing, a magazine and website publisher whose Startups.co.uk he called "the UK's leading small business website by quite a long way"; the 2013 interview put its traffic at over 200,000 visitors a month.[^ref-2] MobyGames' biography instead says that after returning to the UK in 1996 he founded "Crimson Business", a marketing company for small and medium-sized businesses.[^ref-6] Lester also co-founded Business Community Connections, which links charities with businesses, and became a director of Watford Football Club.[^ref-6][^ref-2]
+In February 1999, according to the 2013 interview and his own "Our Story" account, he launched Crimson Publishing, a magazine and website publisher whose Startups.co.uk he called "the UK's leading small business website by quite a long way"; the 2013 interview put its traffic at over 200,000 visitors a month.[^ref-2][^ref-26] MobyGames' biography instead says that after returning to the UK in 1996 he founded "Crimson Business", a marketing company for small and medium-sized businesses.[^ref-6] Lester also co-founded Business Community Connections, which links charities with businesses, and became a director of Watford Football Club.[^ref-6][^ref-2]
 
 Reflecting on business, Lester said: "There's an old adage for business; 'profit is sanity, turnover is vanity' so turnover is not a factor I chase at all these days."[^ref-2]
 
@@ -77,31 +77,35 @@ Impressions grew from a hobby business started with friends into a studio that C
 
 ### Impressions Games Era (1991–1995)
 
-- **1991** — Merchant Colony — Role: Game Concept
-- **1992** — Discovery: In the Steps of Columbus — Role: Original Concept
-- **1992** — Air Force Commander — Role: Game Design
-- **1992** — [[1992 - Caesar|Caesar]] — Role: Design
-- **1993** — Global Domination — Role: Design
-- **1993** — WW2 Air Force Commander — Role: Designer
-- **1994** — [[1994 - Detroit|Detroit]] — Role: Design
-- **1994** — Front Lines — Role: Concept
-- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Concept
-- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Design
-- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Original Concept
-- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Design
-- **1995** — [[1995 - Powerhouse|Powerhouse]] — Role: Design
-- **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Role: Design
+| Year | Title | Role |
+|------|-------|------|
+| 1991 | Merchant Colony | Game Concept |
+| 1992 | Discovery: In the Steps of Columbus | Original Concept |
+| 1992 | Air Force Commander | Game Design |
+| 1992 | [[1992 - Caesar\|Caesar]] | Design |
+| 1993 | Global Domination | Design |
+| 1993 | WW2 Air Force Commander | Designer |
+| 1994 | [[1994 - Detroit\|Detroit]] | Design |
+| 1994 | Front Lines | Concept |
+| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Concept |
+| 1995 | [[1995 - Caesar II\|Caesar II]] | Design (with Christopher J. Foster) |
+| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Original Concept |
+| 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Design |
+| 1995 | [[1995 - Powerhouse\|Powerhouse]] | Design |
+| 1995 | [[1995 - Ultimate Soccer Manager\|Ultimate Soccer Manager]] | Design |
 
 ### Sierra/Impressions Era (1996–1998)
 
-- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Game Designer, Executive Producer
-- **1996** — [[1996 - Robert E. Lee - Civil War General|Robert E. Lee: Civil War General]] — Role: Executive Producer
-- **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Core Design
-- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Executive Producer
-- **1996** — [[1996 - Ultimate Soccer Manager 2|Ultimate Soccer Manager 2]] — Role: Design, Executive Producer
-- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Game Designer
-- **1998** — [[1998 - Caesar III|Caesar III]] — Role: Designer
-- **1998** — [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]] — Role: Executive Producer
+| Year | Title | Role |
+|------|-------|------|
+| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Game Designer, Executive Producer |
+| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Executive Producer |
+| 1996 | [[1996 - Space Bucks\|Space Bucks]] | Core Design |
+| 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Executive Producer |
+| 1996 | [[1996 - Ultimate Soccer Manager 2\|Ultimate Soccer Manager 2]] | Design, Executive Producer |
+| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Game Designer |
+| 1998 | [[1998 - Caesar III\|Caesar III]] | Designer |
+| 1998 | [[1998 - Ultimate Soccer Manager 98\|Ultimate Soccer Manager 98]] | Executive Producer |
 
 All roles as credited on MobyGames.[^ref-16][^ref-6]
 
@@ -110,7 +114,7 @@ All roles as credited on MobyGames.[^ref-16][^ref-6]
 [^ref-1]: [Games Nostalgia - Legendary Designers: David Lester](https://gamesnostalgia.net/person/david-lester) — Opening "exception to that rule" passage; founded Impressions in 1988 aged 22; Merchant Colony concept; Caesar "likened to SimCity"; Lords of the Realm with Christopher J. Foster
 [^ref-2]: [Companies Made Simple - Real Business Case Study: David Lester (Archived 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) — Interview by Mathew Aitken, February 6, 2013: Arthur Young, Impressions founded 1988 "when just 22", Dalglish call, 2.5 million sales figures, Boston office, 1995 sale, Crimson Publishing
 [^ref-4]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — Founded 1989 (per Wikipedia); Kenny Dalglish Soccer Match (1989); Havas Interactive's most profitable division in 1998
-[^ref-5]: [Wikipedia - Firefly Studios](https://en.wikipedia.org/wiki/Firefly_Studios) — Formed August 1999 by Simon Bradbury, David Lester and Eric Ouellette; over seven million copies sold
+[^ref-5]: [Wikipedia - Firefly Studios](https://en.wikipedia.org/wiki/Firefly_Studios) — Formed August 1999 by Simon Bradbury, David Lester and Eric Ouellette; over seven million copies sold; acquired by Devolver Digital in June 2021
 [^ref-6]: [MobyGames - David Lester (Archived December 2024)](https://web.archive.org/web/20241227194234/https://www.mobygames.com/person/4430/david-lester/) — Biography (General Manager of the Impressions Division until 1998; returned to UK 1996; Business Community Connections; Watford FC), Stronghold Special Thanks credits, Kenny Dalglish Soccer Match photo caption
 [^ref-9]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) — Designer David Lester; 400,000 sold by January 1999; "according to designer David Lester, around 2.5 million"
 [^ref-10]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) — Lester as "general manager and lead designer"; "more multiplayer friendly"
@@ -129,3 +133,5 @@ All roles as credited on MobyGames.[^ref-16][^ref-6]
 [^ref-23]: [Amiga Reviews – Amiga Format #8, Kenny Dalglish Soccer Match](https://amigareviews.leveluphost.com/kennydal.htm) – "the second in the planned trilogy of Kenny games - the first was a management game"
 [^ref-24]: [Computer Gaming World #103 (February 1993), pp. 98, 100, "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester" – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103) – Lester and Edward Grabowski "working together since 1984 when Lester coded his first game, Just Imagine ...!"; Zeppelin Games deal; "his Farmington, CT office"
 [^ref-25]: [Spectrum Computing – Just Imagine](https://spectrumcomputing.co.uk/entry/2665/ZX-Spectrum/Just_Imagine) – ZX Spectrum, 1986, Central Solutions; creator David Lester; originally due from R&R Software, which closed in 1985
+[^ref-26]: [Crimson Publishing: Our Story, by David Lester (reproduced on Sierra Chest)](https://sierrachest.com/index.php?a=person&id=10) – Lester's own account, a reproduction of Crimson Publishing's "Our Story" page: "With the proceeds of the sale I returned to England in 1996. I carried on working for Sierra in London, though on a part-time basis."
+[^ref-27]: [MobyGames - Caesar II Credits, DOS (Archived January 2024)](https://web.archive.org/web/20240130122112/https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) – Design: David Lester, Christopher J. Foster; Additional Design: Simon Bradbury

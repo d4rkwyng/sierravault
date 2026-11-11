@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 2023
 total_games: 12
 genre: "City-Building Strategy"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # City Builders Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -66,6 +66,23 @@ Triskell Interactive pitched a city-building game to Dotemu, which asked whether
 - *Immortal Cities: Children of the Nile* (2004) and *Alexandria* (2008) — Tilted Mill's entries, counted in the series by Wikipedia.[^ref-1]
 - *Pharaoh: A New Era* (2023) — licensed remake.[^ref-14]
 - *Nebuchadnezzar* — city-builder by Nepos Games, compared to the series, "especially the fourth entry, Pharaoh".[^ref-17]
+- *Theos: Cities of Myth* — announced June 1, 2026 by publisher Dotemu and *Pharaoh: A New Era* developer Triskell Interactive as a Greek-mythology city builder and "a modern homage to the greatest city builders released in the aughts"; the release says *Pharaoh: A New Era*'s building tools return in it. It is a new game, not an entry in the original series.[^ref-43]
+
+## Playing Today
+
+Checked against the GOG catalog and the Steam store API on November 11, 2026. A New Era is a 2023 remake of *Pharaoh* and its *Cleopatra* expansion (see above); the others are the original releases, sold on one or both stores.
+
+| Game | GOG | Steam |
+|------|-----|-------|
+| *Caesar* (1992) | Listed[^ref-28] | No listing found |
+| *Caesar II* (1995) | Listed[^ref-29] | No listing found |
+| *Caesar III* (1998) | Listed[^ref-8] | Listed[^ref-36] |
+| *Pharaoh* + *Cleopatra* | Listed as one bundle[^ref-31] | Listed as one bundle[^ref-38] |
+| *Zeus* + *Poseidon* | Listed as one bundle[^ref-32] | Listed as one bundle[^ref-39] |
+| *Emperor: Rise of the Middle Kingdom* | Listed[^ref-33] | No listing found |
+| *Caesar IV* (2006) | Listed[^ref-30] | Listed[^ref-37] |
+| *Children of the Nile* | *Children of the Nile Complete*[^ref-34] | *Enhanced Edition*[^ref-40] and *Alexandria*[^ref-41] |
+| *Pharaoh: A New Era* (2023 remake) | Listed[^ref-35] | Listed[^ref-42] |
 
 ## See Also
 
@@ -100,3 +117,19 @@ Triskell Interactive pitched a city-building game to Dotemu, which asked whether
 [^ref-25]: [MobyGames — Caesar II credits (DOS)](https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) — "Design David Lester, Christopher J. Foster"; Additional Design and Programming Simon Bradbury
 [^ref-26]: [IGN SEA – Reviving the Past with the Folks Behind the Upcoming Pharaoh: A New Era Remake](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) — interview with "Théophile Noiré, Pharaoh Game Designer at Triskell Interactive"
 [^ref-27]: [MobyGames — Emperor: Rise of the Middle Kingdom credits](https://www.mobygames.com/game/6729/emperor-rise-of-the-middle-kingdom/credits/) — "Game Design Charles Kibler, Ben Knight, Melissa Sawicki, Ed Beach"
+[^ref-28]: [GOG.com — Caesar](https://www.gog.com/en/game/caesar) — store page; Impressions Games; release listed as 1993 in the GOG catalog
+[^ref-29]: [GOG.com — Caesar II](https://www.gog.com/en/game/caesar_ii) — store page; Impressions Games; release listed as 1995
+[^ref-30]: [GOG.com — Caesar IV](https://www.gog.com/en/game/caesar_iv) — store page; Tilted Mill Entertainment; release listed as September 9, 2006
+[^ref-31]: [GOG.com — Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) — store page; Impressions Games
+[^ref-32]: [GOG.com — Zeus + Poseidon (Acropolis)](https://www.gog.com/en/game/zeus_poseidon) — store page; Impressions Games
+[^ref-33]: [GOG.com — Emperor: Rise of the Middle Kingdom](https://www.gog.com/en/game/emperor_rise_of_the_middle_kingdom) — store page
+[^ref-34]: [GOG.com — Children of the Nile Complete](https://www.gog.com/en/game/children_of_the_nile_complete) — store page; Tilted Mill Entertainment
+[^ref-35]: [GOG.com — Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) — store page; Triskell Interactive / Dotemu; released February 15, 2023
+[^ref-36]: [Steam — Caesar 3](https://store.steampowered.com/app/517790/) — store page; Impressions Games / Activision
+[^ref-37]: [Steam — Caesar IV](https://store.steampowered.com/app/517810/) — store page; Tilted Mill Entertainment / Activision
+[^ref-38]: [Steam — Pharaoh + Cleopatra](https://store.steampowered.com/app/564530/) — store page; Impressions Games / Activision
+[^ref-39]: [Steam — Zeus + Poseidon](https://store.steampowered.com/app/566050/) — store page; Impressions Games / Activision
+[^ref-40]: [Steam — Children of the Nile: Enhanced Edition](https://store.steampowered.com/app/17100/) — store page; Tilted Mill Entertainment; Steam release date July 8, 2008
+[^ref-41]: [Steam — Children of the Nile: Alexandria](https://store.steampowered.com/app/17120/) — store page; Tilted Mill Entertainment; Steam release date September 22, 2008
+[^ref-42]: [Steam — Pharaoh: A New Era](https://store.steampowered.com/app/1351080/) — store page; Triskell Interactive / Dotemu; February 15, 2023
+[^ref-43]: [Cosmocover — Dotemu Announces Greek Pantheon-Themed Strategic City Builder Theos: Cities of Myth, Launching on PC in 2026](https://www.cosmocover.com/newsroom/dotemu-announces-greek-pantheon-themed-strategic-city-builder-theos-cities-of-myth-launching-on-pc-in-2026/) — press release, June 1, 2026: "Pharaoh: A New Era developer Triskell Interactive"; "A New Era's acclaimed suite of building tools also returns"
