@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Football Pro", "Outpost 2: Divided Destiny", "Microsoft Flight Simulator X"]
 companies: ["Cinemaware", "Dynamix", "Sierra On-Line", "Microsoft Game Studios"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Patrick Cook
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -23,15 +23,15 @@ He later co-designed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Des
 
 Cook joined Cinemaware, the Los Angeles-area studio known for its "interactive movie" approach to game design, as QA manager.[^ref-17][^ref-5] In his own words: "I started as the QA manager, then after six months became a producer, then a senior producer, then head of Product Development for the digital side ... then a director/designer until Cinemaware crashed and burned."[^ref-17]
 
-His credits during this period include producer on the 1989 Atari ST and Apple IIGS versions of Rocket Ranger (1988), which won Best 16-bit Graphics at the Golden Joystick Awards,[^ref-2][^ref-6] and producer on It Came from the Desert (1989–1990), the company's take on what Just Adventure called "the 50s radioactive mutant genre".[^ref-7][^ref-17] He also worked on TV Sports: Football across multiple platforms.[^ref-2] A photograph from circa 1989 shows Cook with colleague David Riordan.[^ref-1]
+His credits during this period include producer on the 1989 Atari ST and Apple IIGS versions of Rocket Ranger (1988), which won Best 16-bit Graphics at the Golden Joystick Awards,[^ref-2][^ref-6] and producer on It Came from the Desert (1989–1990), the company's take on what Just Adventure called "the 50s radioactive mutant genre".[^ref-7][^ref-17] He also worked on TV Sports: Football across multiple platforms,[^ref-2] and MobyGames credits him as "Designed and Produced by" on the TurboGrafx-16 TV Sports: Hockey (1991), his one credited design role at Cinemaware.[^ref-2] A photograph from circa 1989 shows Cook with colleague David Riordan.[^ref-1]
 
 Rocket Ranger was released on Amiga, DOS, Commodore 64, Atari ST, Apple IIGS, FM Towns and NES; the NES version was "directed by Patrick Cook."[^ref-6][^ref-8]
 
 ### Sierra/Dynamix Years (1991–c. 2000)
 
-Cook has been at Dynamix "since '91, doing Front Page Sports until '96," according to his colleague L. Allen McPheeters.[^ref-17] Cook himself lists FPS: Football, Football Pro, Football Pro '95, Baseball '94 and Football Pro '96 among his Front Page Sports work.[^ref-17]
+Cook has been at Dynamix "since '91, doing Front Page Sports until '96," according to his colleague L. Allen McPheeters.[^ref-17] Cook himself lists FPS: Football, Football Pro, Football Pro '95, Baseball '94 and Football Pro '96 among his Front Page Sports work.[^ref-17] Sierra's own InterAction magazine (Holiday 1996) still called him "FPS Designer Pat Cook," in an account of Cook and Scott Youngblood meeting NFL running back Barry Sanders.[^ref-22] Wikipedia's Dynamix article likewise says the Front Page Sports series was "designed by Pat Cook and Allen McPheeters."[^ref-23]
 
-Cook is credited as Designer and Director on [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (1993).[^ref-9] He was Executive Producer on [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] (1994) and is credited with the "Original Design" of [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] reflect his role in establishing the series.[^ref-10]
+Cook is credited as Designer and Director on [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (1993).[^ref-9] He was Executive Producer on [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] (1994) and is credited with the "Original Design" of [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] reflect his role in establishing the series.[^ref-2][^ref-10]
 
 Beyond sports games, Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] (1997), which he and McPheeters designed.[^ref-11][^ref-17]
 
@@ -43,7 +43,7 @@ MobyGames lists Microsoft credits for Cook from 2000, beginning with Motocross M
 
 He is credited as Studio Manager on NBA Inside Drive 2003 and NFL Fever 2003 (both 2002), then as Creative Director on NFL Fever 2004 (2003).[^ref-13][^ref-20]
 
-On Microsoft Flight Simulator X (2006) he is credited with Design, and on its Deluxe Edition as ACES Group Design Manager.[^ref-14][^ref-20] He was later a Studio Manager on Microsoft Flight, released on February 29, 2012.[^ref-15][^ref-19][^ref-20]
+On Microsoft Flight Simulator X (2006) he is credited with Design, and on its Deluxe Edition as ACES Group Design Manager.[^ref-14][^ref-20] He was later a Studio Manager on Microsoft Flight, released on February 29, 2012.[^ref-15][^ref-19][^ref-20] (MobyGames' database now gives the Windows release date as January 6, 2010, read via the MobyGames API on 2026-11-11, while its earlier public credits page listed 2012; this page follows the 2012 date in the Wikipedia article.)[^ref-15]
 
 ### Later credits (2012–2013)
 
@@ -140,3 +140,5 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 [^ref-19]: [Wikipedia - Microsoft Flight](https://en.wikipedia.org/wiki/Microsoft_Flight) — Release date February 29, 2012
 [^ref-20]: [MobyGames - Patrick Cook (Wayback, 2025-08-03)](https://web.archive.org/web/20250803203002/https://www.mobygames.com/person/74/patrick-cook/) — Credits list incl. Microsoft Flight (2012) "Studio Managers", FSX "Design", FSX Deluxe "ACES Group Design Manager", Forza credits
 [^ref-21]: [Computer Gaming World, Issue 140 (March 1996), p. 242 — Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n245/mode/1up) — Football Pro inducted; "Project leader Patrick Cook … his earlier tenure with Cinemaware's TV Sports series of games"
+[^ref-22]: [Sierra InterAction Magazine, Holiday 1996](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) — "Front Page Sports Developers Pat Cook and Scott Youngblood met with Barry Sanders"; "FPS Designer Pat Cook went off on a tangent about the effects of humidity on a player's stamina"
+[^ref-23]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — "the Front Page Sports series, designed by Pat Cook and Allen McPheeters which included Football, Baseball, and Golf"
