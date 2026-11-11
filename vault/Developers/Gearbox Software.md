@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Frisco, Texas, USA"
 notable_games: ["Borderlands", "Half-Life: Opposing Force", "Brothers in Arms"]
 parent_company: "Take-Two Interactive"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Gearbox Software
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -38,9 +38,9 @@ Gearbox took over development of Counter-Strike: Condition Zero in late May 2001
 
 ### Later Years
 
-Around 2002 Gearbox began working with other publishers. In 2005 it launched its own property, Brothers in Arms, with Brothers in Arms: Road to Hill 30, published by Ubisoft.[^ref-3][^ref-7] Borderlands followed in 2009, published by 2K, and became the company's second original series.[^ref-3] In April 2013 Gearbox won the Homeworld franchise at THQ's bankruptcy auction; Game Informer reported that it paid $1.35 million.[^ref-56][^ref-57] In May 2025 Take-Two reported that the Borderlands series had sold nearly 93 million units, according to Gamereactor's account of its quarterly report.[^ref-49]
+Around 2002 Gearbox began working with other publishers. In 2005 it launched its own property, Brothers in Arms, with Brothers in Arms: Road to Hill 30, published by Ubisoft.[^ref-3][^ref-7] Borderlands followed in 2009, published by 2K, and became the company's second original series.[^ref-3] In April 2013 Gearbox won the Homeworld franchise at THQ's bankruptcy auction; Game Informer reported that it paid $1.35 million.[^ref-56][^ref-57] In May 2025 Take-Two reported that the Borderlands series had sold nearly 93 million units, according to Gamereactor's account of its quarterly report.[^ref-49] On November 2, 2026, KitGuru reported that the franchise had "officially surpassed 100 million copies sold", and Insider Gaming reported that Borderlands "has passed 100 million lifetime sales".[^ref-60][^ref-61]
 
-In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gearbox Software and Gearbox Publishing.[^ref-3] Embracer Group acquired Gearbox Entertainment in April 2021 for $363 million, rising to as much as $1.378 billion if operational targets were met.[^ref-3] Take-Two announced on March 27, 2024 that it had agreed to buy Gearbox Entertainment from Embracer for $460 million (Embracer dated its own announcement March 28).[^ref-23][^ref-48] In a press release dated June 11, 2024, Embracer said that "the transaction has been closed today"; Game Developer reported the completed sale on June 12.[^ref-48][^ref-53]
+Gearbox also has a publishing arm, covered on the [[Gearbox Publishing]] page. In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gearbox Software and Gearbox Publishing.[^ref-3] Embracer Group acquired Gearbox Entertainment in April 2021 for $363 million, rising to as much as $1.378 billion if operational targets were met.[^ref-3] Take-Two announced on March 27, 2024 that it had agreed to buy Gearbox Entertainment from Embracer for $460 million (Embracer dated its own announcement March 28).[^ref-23][^ref-48] In a press release dated June 11, 2024, Embracer said that "the transaction has been closed today"; Game Developer reported the completed sale on June 12.[^ref-48][^ref-53]
 
 ## Key People
 
@@ -48,7 +48,7 @@ In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gea
 - **Brian Martel, Stephen Bahl and Rob Heironimus**: co-founders.[^ref-3]
 - **Landon Montgomery**: co-founder; Wikipedia says he left the company around 2007 and died on March 25, 2020.[^ref-3]
 
-## Games
+## Games in This Archive and Beyond
 
 ### In This Archive
 
@@ -63,17 +63,31 @@ In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gea
 - **2001–2002** — Counter-Strike: Condition Zero: Gearbox worked on the game from May 2001 to July 2002, but its version did not ship. The released 2004 game is listed on the [[2004 - Counter-Strike - Condition Zero|Condition Zero]] page.[^ref-8]
 
 ### Other Notable Games (Non-Sierra)
-- Brothers in Arms: Road to Hill 30 — 2005 (Ubisoft)
-- Brothers in Arms: Hell's Highway — 2008 (Ubisoft)
-- Borderlands — 2009 (2K Games)
-- Borderlands 2 — 2012 (2K Games)
-- Aliens: Colonial Marines — 2013 (Sega)
-- Borderlands: The Pre-Sequel — 2014 (2K Games)
-- Battleborn — 2016 (2K Games)
-- Borderlands 3 — 2019 (2K Games)
-- Tiny Tina's Wonderlands — 2022 (2K Games)
-- New Tales from the Borderlands — 2022 (2K Games)
-- Borderlands 4 — 2025 (2K Games)
+- Brothers in Arms: Road to Hill 30 — 2005 (Ubisoft)[^ref-62]
+- Brothers in Arms: Hell's Highway — 2008 (Ubisoft)[^ref-63]
+- Borderlands — 2009 (2K Games)[^ref-64]
+- Borderlands 2 — 2012 (2K Games)[^ref-65]
+- Aliens: Colonial Marines — 2013 (Sega)[^ref-66]
+- Borderlands: The Pre-Sequel — 2014 (2K Games)[^ref-67]
+- Battleborn — 2016 (2K Games)[^ref-68]
+- Borderlands 3 — 2019 (2K Games)[^ref-69]
+- Tiny Tina's Wonderlands — 2022 (2K Games)[^ref-70]
+- New Tales from the Borderlands — 2022 (2K Games)[^ref-71]
+- Borderlands 4 — 2025 (2K Games)[^ref-72]
+
+Wikipedia's games table for Gearbox also lists further titles, including ports and later expansions such as Tony Hawk's Pro Skater 3 (Windows port, 2002) and James Bond 007: Nightfire (2002).[^ref-3]
+
+## Legacy
+
+Gearbox's early releases were Sierra-published Half-Life expansions: Opposing Force (1999), Blue Shift (2001) and Decay (2001).[^ref-51][^ref-52][^ref-50] Its own later series are the Brothers in Arms and Borderlands games; Wikipedia credits Borderlands with a procedurally generated loot system "capable of generating millions of different guns and other gear items", and its success as a critical success that allowed the studio to grow.[^ref-3] By November 2026 trade press reported the Borderlands franchise at more than 100 million copies sold.[^ref-60][^ref-61] Gearbox also owns the Homeworld and Duke Nukem intellectual property.[^ref-3][^ref-56]
+
+## Games
+
+| Year | Game | Genre |
+|------|------|-------|
+| 1999 | [[1999 - Half-Life - Opposing Force\|Half-Life: Opposing Force]] | First-Person Shooter |
+| 2001 | [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | First-Person Shooter |
+| 2015 | [[2015 - Homeworld Remastered Collection\|Homeworld Remastered Collection]] | Real-Time Strategy |
 
 ## References
 
@@ -96,3 +110,16 @@ In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gea
 [^ref-57]: [Gearbox Software - Homeworld Acquisition and Plans (April 22, 2013; Wayback 2016)](https://web.archive.org/web/20160831174042/http://www.gearboxsoftware.com/2013/04/homeworld-acquisition-and-plans/) — "Gearbox Software has prevailed as the highest bidder in the acquisition of the Homeworld franchise from THQ"
 [^ref-58]: [Gearbox Software - Projects (Wayback, December 14, 2001)](https://web.archive.org/web/20011214024146/http://www.gearboxsoftware.com/projects.html) — project list includes "Half-Life: Counterstrike" alongside Opposing Force, Blue Shift and the PS2 port
 [^ref-59]: [Gearbox Software - Half-Life: Counter-Strike (Wayback, June 30, 2017)](https://web.archive.org/web/20170630013307/http://www.gearboxsoftware.com/game/half-life-counter-strike/) — "Release Date: November 08, 2000 Developer: Gearbox Software"; the page lists Valve Software as publisher, although Sierra published the retail release
+[^ref-60]: [KitGuru - Borderlands franchise surpasses 100M copies sold as Gearbox teases future plans](https://www.kitguru.net/gaming/matthew-wilson/borderlands-franchise-surpasses-100m-copies-sold-as-gearbox-teases-future-plans/) — "The Borderlands franchise has officially surpassed 100 million copies sold"
+[^ref-61]: [Insider Gaming - Borderlands passes 100 million sales (November 2, 2026)](https://insider-gaming.com/borderlands-100-million-sales-randy-pitchford-promise/) — "Borderlands has passed 100 million lifetime sales"
+[^ref-62]: [Wikipedia - Brothers in Arms: Road to Hill 30](https://en.wikipedia.org/wiki/Brothers_in_Arms:_Road_to_Hill_30) — infobox: published by Ubisoft, first-person shooter, 2005
+[^ref-63]: [Wikipedia - Brothers in Arms: Hell's Highway](https://en.wikipedia.org/wiki/Brothers_in_Arms:_Hell%27s_Highway) — infobox: published by Ubisoft, 2008
+[^ref-64]: [Wikipedia - Borderlands (video game)](https://en.wikipedia.org/wiki/Borderlands_(video_game)) — infobox: published by 2K, October 2009
+[^ref-65]: [Wikipedia - Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) — infobox: published by 2K, September 18, 2012
+[^ref-66]: [Wikipedia - Aliens: Colonial Marines](https://en.wikipedia.org/wiki/Aliens:_Colonial_Marines) — infobox: published by Sega, February 12, 2013
+[^ref-67]: [Wikipedia - Borderlands: The Pre-Sequel](https://en.wikipedia.org/wiki/Borderlands:_The_Pre-Sequel) — infobox: published by 2K, October 2014
+[^ref-68]: [Wikipedia - Battleborn (video game)](https://en.wikipedia.org/wiki/Battleborn_(video_game)) — infobox: published by 2K, May 3, 2016
+[^ref-69]: [Wikipedia - Borderlands 3](https://en.wikipedia.org/wiki/Borderlands_3) — infobox: published by 2K, September 2019
+[^ref-70]: [Wikipedia - Tiny Tina's Wonderlands](https://en.wikipedia.org/wiki/Tiny_Tina%27s_Wonderlands) — infobox: published by 2K, March 25, 2022
+[^ref-71]: [Wikipedia - New Tales from the Borderlands](https://en.wikipedia.org/wiki/New_Tales_from_the_Borderlands) — infobox: published by 2K, October 21, 2022
+[^ref-72]: [Wikipedia - Borderlands 4](https://en.wikipedia.org/wiki/Borderlands_4) — infobox: published by 2K, September 12, 2025
