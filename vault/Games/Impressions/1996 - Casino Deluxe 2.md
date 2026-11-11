@@ -2,6 +2,7 @@
 title: Casino Deluxe 2
 release_year: 1996
 developer: Impressions Games
+designer: null
 publisher: Sierra On-Line
 genre: Casino
 platforms: [Windows 3.1, Windows 95]
@@ -9,7 +10,7 @@ series: Casino Deluxe
 engine: Unknown
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-02'
+last_updated: '2026-11-11'
 description: Casino Deluxe 2 is a 1996 casino gambling simulation for Windows, developed
   by Impressions Games and published by Sierra On-Line, offering eighteen casino games
   with on-screen strategy advice and a Gambling Academy.
@@ -17,11 +18,11 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 ---
 # Casino Deluxe 2
 
-<small style="color: gray">Last updated: November 2, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Casino Deluxe 2 is a gambling simulation game for Windows, developed by [[Impressions Games]] and published by [[Sierra On-Line]] in autumn 1996[^ref-1][^ref-2]. Sierra previewed it as "the upcoming Casino Deluxe II" in the Summer 1996 issue of its InterAction magazine[^ref-20], mail-order retailers were listing it at $25 by the November 1996 issue of Computer Games Strategy Plus[^ref-24], and Sierra's website offered the Windows CD at $29.95 as "available now" in December 1996[^ref-18]. Sierra Chest dates its release to October 22, 1996[^ref-1]. Its box copy invites players to face the "intensity, allure and passion of authentic casino gambling," under the tagline "Beat the odds...to a pulp!"[^ref-2]. The sequel to [[1995 - Casino De Luxe|Casino De Luxe]] (1995), it advertises 3-D SVGA graphics and eighteen casino games[^ref-2][^ref-19].
+Casino Deluxe 2 is a gambling simulation game for Windows, developed by [[Impressions Games]] and published by [[Sierra On-Line]] in autumn 1996[^ref-1][^ref-24]. Sierra previewed it as "the upcoming Casino Deluxe II" in the Summer 1996 issue of its InterAction magazine[^ref-20], a mail-order advertisement in the November 1996 issue of Computer Games Strategy Plus listed it at $25[^ref-24], and Sierra's website offered the Windows CD at $29.95 as "available now" in December 1996[^ref-18]. Sierra Chest dates its release to October 22, 1996[^ref-1]. Its box copy invites players to face the "intensity, allure and passion of authentic casino gambling," under the tagline "Beat the odds...to a pulp!"[^ref-2]. The sequel to [[1995 - Casino De Luxe|Casino De Luxe]] (1995), it advertises 3-D SVGA graphics and eighteen casino games[^ref-2][^ref-19].
 
 The game lets players gamble without risking real money[^ref-4]. Its headline feature is on-screen professional advice, described on the box as "like having a casino expert right by your side"[^ref-2]. A Gambling Academy offers lessons on the games and their histories[^ref-4].
 
@@ -29,6 +30,7 @@ Casino Deluxe 2 ran on Windows 3.1 and Windows 95[^ref-5]. Sierra's catalogue sa
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
+> **Designer:** Unknown
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** Unknown[^ref-1]
 > **Platforms:** Windows 3.1, Windows 95[^ref-5]
@@ -58,7 +60,7 @@ Advice is available any time, "even during play," and the box calls it a "secret
 The game offers eighteen casino games[^ref-2]. Sierra's 1996 product page lists them as Pai Gow Poker, Red Dog Poker, 5 Card Stud, 5 Card Draw, "7 Card Draw", Craps, Roulette, Blackjack, six slot machines and four video poker machines[^ref-18]; a reseller's listing names the individual machines[^ref-11]:
 
 - **Slot Machines:** Six themed machines: Lucky Sevens, Home Run, Space Race, Wild West, Famous Faces, and Cornucopia[^ref-11]
-- **Video Poker:** Four variants: 10's or Better, Deuces Wild, Jacks or Better, and Joker Poker[^ref-11]
+- **Video Poker:** Four variants, which the reseller lists as 10's, Dueces [sic], Jacks and Joker Poker[^ref-11]
 - **Table Poker:** 5 Card Draw, 5 Card Stud, and 7 Card Stud[^ref-11] (Sierra's page calls the last "7 Card Draw"[^ref-18])
 - **Table Games:** Blackjack, Craps, Pai Gow Poker, Red Dog[^ref-11], and Roulette[^ref-18]
 
@@ -74,7 +76,7 @@ As a gambling simulation, Casino Deluxe 2 has no traditional puzzles[^ref-4]. Th
 
 Casino Deluxe 2 received little press coverage. MobyGames lists two critic reviews: All Game Guide, scored at 70%, and an unscored review from GamePower[^ref-17]. The text of those reviews could not be checked for this page.
 
-In Italy, PC Game Parade's January 1997 news column described it as a gambling simulator with six slot machines and four video poker machines, adding that "you have to like the genre" and that it should already be in shops[^ref-25].
+In Italy, PC Game Parade's January 1997 news column described it as a gambling simulator with six slot machines and four video poker machines, adding (in the Italian, "ma vi deve piacere il genere", roughly "but you have to like the genre") that it should already be in shops[^ref-25].
 
 Reviews of the first game are covered on [[1995 - Casino De Luxe]].
 
@@ -106,6 +108,7 @@ The box lists 3-D SVGA graphics, "movie quality music" and dealer voices as feat
 - **Hardware Requirements:** VESA compatible display, Mouse[^ref-15]
 - **CD Image Size:** About 159 MB (159,330,304 bytes)[^ref-8][^ref-12]
 - **Control:** Mouse, Keyboard[^ref-15]
+- **Packaging:** The US release came in a large flip-top box[^ref-26]
 
 ### Technical Issues
 
@@ -165,8 +168,11 @@ The game has been preserved through multiple Internet Archive uploads[^ref-8][^r
 - [Internet Archive - Alternative Upload](https://archive.org/details/Casino_deluxe_2_Sierra_1996)[^ref-8]
 - [Old-Games.com](https://www.old-games.com/download/10115/casino-deluxe-2)[^ref-9]
 
+**Manuals & Extras**
+- The manual is included on the CD-ROM as a HLP file, including video clips[^ref-26]
+
 **Patches & Updates**
-- [Sierra Help Pages - Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html)[^ref-13]
+- [Sierra Help Pages - Casino Deluxe Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html)[^ref-13]
 
 ## See Also
 
@@ -192,7 +198,7 @@ The game has been preserved through multiple Internet Archive uploads[^ref-8][^r
 [^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – write-up: 256 colors, elevator muzak, floors, roulette, Gambling Academy description
 [^ref-11]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/sierra-casino-deluxe-de-luxe-2-ii-1clk-windows-10-8-7-vista-xp-install) – game list, internet play not supported note
 [^ref-12]: [Internet Archive – Casino Deluxe 2](https://archive.org/details/casino-deluxe-2) – second upload of the same 159,330,304-byte ISO image
-[^ref-13]: [Sierra Help Pages – Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html) – version 1.01 patch notes, bug fixes, save game incompatibility warning
+[^ref-13]: [Sierra Help Pages – Casino Deluxe Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html) – version 1.01 patch notes, bug fixes, save game incompatibility warning
 [^ref-14]: [Metacritic – Casino Deluxe 2](https://www.metacritic.com/game/pc/casino-deluxe-2) – publisher Sierra On-Line, no reviews available
 [^ref-15]: [UVList – Casino Deluxe 2](https://www.uvlist.net/game-252495-Casino+Deluxe+2) – Win3.1 platform, VESA/keyboard/mouse hardware, EAN 0020626837347, game types
 [^ref-17]: [MobyGames – Casino Deluxe 2 reviews](https://www.mobygames.com/game/157317/casino-deluxe-2/reviews/) – All Game Guide 70% and GamePower (unscored) critic reviews; 70% average from 1 rating
@@ -204,3 +210,4 @@ The game has been preserved through multiple Internet Archive uploads[^ref-8][^r
 [^ref-23]: [PC Gamer, Issue 39 (August 1997), patch listings](https://archive.org/details/pc-gamer-issue-039-august-1997) – "Casino Deluxe 2 v.1.01 (Sierra): Corrects problems with gaining more than $40,000 in chips … cd2w95.zip"
 [^ref-24]: [Computer Games Strategy Plus, Issue 72 (November 1996), mail-order advertisement](https://archive.org/details/computer-games-strategy-plus-issue-072-november-1996) – "Casino Deluxe 2 $25"
 [^ref-25]: [PC Game Parade, No. 48 (January 1997, Italian), news item](https://archive.org/details/PCGameParade48) – "Un simulatore di giochi d'azzardo … Si chiama Casino Deluxe 2"; 6 slot machines, 4 video poker; "lo dovreste già trovare in vetrina"
+[^ref-26]: [Sierra Chest – Casino Deluxe 2, packaging & content](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=box) – PC CD-ROM, US, large flip-top box; "The manual is included on the CD-ROM as a HLP file, including video clips."
