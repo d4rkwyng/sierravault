@@ -5,11 +5,11 @@ birth_year: 1962
 death_year: null
 notable_games: ["Red Baron", "Stellar 7", "Arcticfox", "Aces of the Pacific"]
 companies: ["Dynamix", "Mad Otter Games"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Damon Slye
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,9 @@ The return came "just before 2007," when Tunnell crossed the street in front of 
 
 By 2010 his priorities had changed: "My goals are different now. They are, in this order: #1 Have a great place to work #2 Stay in business (otherwise #1 goes away) #3 Build great games #4 Make a lot of money in games."[^ref-12]
 
-At Mad Otter he led Ace of Aces (2008) and the free-to-play MMORPG Villagers and Heroes, released on October 27, 2011, which Wikipedia lists him as directing.[^ref-5][^ref-23] In late 2013 Mad Otter sought $250,000 on Kickstarter for a new Red Baron game; Polygon reported in 2015 that "The campaign failed."[^ref-20][^ref-5][^ref-26]
+In September 2009 Gamasutra reported that Mad Otter had acquired the rights to Red Baron, Red Baron II and Red Baron 3D, and was offering a $1,500 reward to the first person to deliver the complete original source code for any of the three.[^ref-28] At Mad Otter he led Ace of Aces (2008) and the free-to-play MMORPG Villagers and Heroes, released on October 27, 2011, which Wikipedia lists him as directing.[^ref-5][^ref-23] In late 2013 Mad Otter sought $250,000 on Kickstarter for a new Red Baron game. The campaign, which ran from October 22 to November 22, 2013, ended with $40,493 pledged by 1,118 backers, and Polygon reported in 2015 that "The campaign failed."[^ref-29][^ref-20][^ref-26]
+
+In July 2026 MassivelyOP reported that Mad Otter had posted a memo to Villagers and Heroes players disclosing that generative AI had been used for placeholder splash screens. It quoted Slye: "AI is a tool in our toolbox like any other." He also said that 99% of the art in the game is human-made and that the studio planned to replace the splash screens with an in-house or professionally painted version.[^ref-30]
 
 ## Notable Works
 
@@ -73,35 +75,41 @@ Sierra's own 15th-anniversary advertising section in Computer Gaming World #148 
 
 ## Games
 
-### Before Dynamix and Dynamix Years (1983–1994)
+### Dynamix and Earlier (1983–1997)
 
-- 1983 — Stellar 7 (Apple II; published by Software Entertainment Company, 1984 by Penguin Software) — Designer, Programmer[^ref-2][^ref-12]
-- **1985** — Sword of Kadash — Role: Additional Designer (uncredited, per the Dynamix fan wiki)[^ref-7]; released 1985 for Apple II and Commodore 64[^ref-4][^ref-24]
-- **1986** — Arcticfox — Role: Designer, Programmer
-- **1987** — Skyfox II: The Cygnus Conflict — Role: Creator
-- **1989** — Project Firestart — Role: Design
-- **1989** — Abrams Battle Tank — Role: Director
-- **1989** — [[1989 - MechWarrior|MechWarrior]] — Role: Design
-- **1989** — Deathtrack — Role: Actor ("Starring")
-- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Design
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Producer (original designer)
-- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Director, Designer, Flight Model Programmer
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Actor (British guard)[^ref-17]
-- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — update of A-10 Tank Killer (no separate MobyGames credit)
-- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Director, Lead Designer
-- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Role: Director
-- **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Producer
-- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Original Design
-- **1993** — MechWarrior (SNES) — Role: Original MechWarrior game design
-- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Director and Designer
-- 1997 — Red Baron with Mission Builder (DOS re-release) — Role: Directed by
+Roles follow MobyGames' credit list for Slye[^ref-2] unless another source is given.
 
-### Mad Otter Games (2007–Present)
+| Year | Title | Role |
+|------|-------|------|
+| 1983 | Stellar 7 (Apple II; published by Software Entertainment Company, 1984 by Penguin Software) | Programmer (MobyGames); he wrote the 3Space engine and then the game[^ref-2][^ref-12] |
+| 1985 | Sword of Kadash | Additional Designer (uncredited, per the Dynamix fan wiki)[^ref-7]; released 1985 for Apple II and Commodore 64[^ref-4][^ref-24] |
+| 1986 | Arcticfox | Programmer[^ref-2] |
+| 1987 | Skyfox II: The Cygnus Conflict | Creator[^ref-2] |
+| 1989 | Project Firestart | Design[^ref-2] |
+| 1989 | Abrams Battle Tank | Director[^ref-2] |
+| 1989 | [[1989 - MechWarrior\|MechWarrior]] | Design[^ref-2] |
+| 1989 | Deathtrack | Actor ("Starring")[^ref-2] |
+| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Design[^ref-2] |
+| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director[^ref-2] |
+| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Producer, of the remake of his 1983 original[^ref-2] |
+| 1990 | [[1990 - Red Baron\|Red Baron]] | Director, Designer, Flight Model Programmer[^ref-22] |
+| 1991 | [[1991 - Heart of China\|Heart of China]] | Actor (British Guard)[^ref-17] |
+| 1991 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer v1.5]] | Update of A-10 Tank Killer (no separate MobyGames credit)[^ref-2] |
+| 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Director, Lead Designer[^ref-33] |
+| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Director[^ref-2] |
+| 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | Designer, with Chris Shen (Computer Gaming World)[^ref-31][^ref-32]; Producer (MobyGames)[^ref-34] |
+| 1993 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7: Draxon's Revenge]] | Original Design[^ref-2] |
+| 1993 | MechWarrior (SNES) | Original MechWarrior game design[^ref-2] |
+| 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Director and Designer[^ref-2] |
+| 1997 | Red Baron with Mission Builder (DOS re-release) | Directed by[^ref-2] |
 
-- **2008** — [[2008 - Ace of Aces|Ace of Aces]] — Company: Mad Otter Games (Wikipedia lists it under InstantAction), Role: Led development[^ref-5]
-- 2011 — Villagers and Heroes — Mad Otter Games — Lead Designer (MobyGames), Director (Wikipedia)[^ref-2][^ref-23]
-- 2013 — [[CXL - Red Baron (2013 Remake)|Red Baron (2013 remake)]] — Mad Otter Games — Kickstarter project led by Slye; the Kickstarter failed and no game was released[^ref-20][^ref-26]
+### Other Credits (2007–Present)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Mad Otter Games (Wikipedia lists it under InstantAction) | Led development[^ref-5] |
+| 2011 | Villagers and Heroes | Mad Otter Games | Lead Designer (MobyGames), Director (Wikipedia)[^ref-2][^ref-23]; still involved in 2026[^ref-30] |
+| 2013 | [[CXL - Red Baron (2013 Remake)\|Red Baron (2013 remake)]] | Mad Otter Games | Kickstarter project led by Slye; the campaign failed ($40,493 of $250,000) and no game was released[^ref-29][^ref-26] |
 
 ## References
 
@@ -128,3 +136,10 @@ Sierra's own 15th-anniversary advertising section in Computer Gaming World #148 
 [^ref-25]: [Sierra Chest – Engine: 3-Space (Wayback, May 12, 2019)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) — Damon Slye: "yes, I designed the Dynamix 3Space engine, along with David McClurg"
 [^ref-26]: [Polygon - The Red Baron is ready to fly again (Colin Campbell, September 22, 2015)](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again) — "In 2013, Slye attempted to raise $250,000 on Kickstarter... The campaign failed."
 [^ref-27]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990) — Internet Archive scan](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) — Dynamix "was founded as Dynamix Software Development in 1984 by Jeff Tunnell… and Damon Slye"; "In September of 1986, Dynamix Software Development became Dynamix, Inc."
+[^ref-28]: [Gamasutra - Mad Otter Acquires Red Baron Franchise, Calls For Source Code (Chris Remo, September 11, 2009; Wayback)](https://web.archive.org/web/20090911223623/https://www.gamasutra.com/php-bin/news_index.php?story=25194) — Mad Otter "has acquired the rights" to Red Baron, Red Baron II and Red Baron 3D; $1,500 reward for the original C/C++ source code
+[^ref-29]: [Kickstarter - Red Baron by Mad Otter Games (Wayback, November 18, 2025)](https://web.archive.org/web/20251118153333/https://www.kickstarter.com/projects/madottergames/red-baron) — campaign Oct 22 - Nov 22, 2013; project data: goal $250,000, pledged $40,493, 1,118 backers, state failed
+[^ref-30]: [MassivelyOP - Villagers & Heroes discloses that it's using generative AI for splash screen placeholders (Bree Royce, July 14, 2026)](https://massivelyop.com/2026/07/14/villagers-heroes-discloses-that-its-using-generative-ai-for-splash-screen-placeholders/) — Slye: "AI is a tool in our toolbox like any other"; "99% of the art in the game is human-made"; splash screens to be replaced with a painted version
+[^ref-31]: [Computer Gaming World #102 (January 1993) — Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_102) — Red Baron Mission Builder spec box: designers Chris Shen and Damon Slye
+[^ref-32]: [Computer Gaming World #111 (October 1993), Annotated Listing of 20th Century Wargames — Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_111) — "Dynamix; Damon Slye & Chris Shen; 1992; $29.95"
+[^ref-33]: [MobyGames - Aces of the Pacific (DOS) credits (Wayback, May 31, 2025)](https://web.archive.org/web/20250531222717/https://www.mobygames.com/game/1419/aces-of-the-pacific/credits/dos/) — Director and Lead Designer: Damon Slye
+[^ref-34]: [MobyGames - Red Baron: Mission Builder (DOS) credits (Wayback, May 11, 2023)](https://web.archive.org/web/20230511054234/https://www.mobygames.com/game/2722/red-baron-mission-builder/credits/dos/) — Product Development: Producer, Damon Slye
