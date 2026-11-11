@@ -4,12 +4,12 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
-companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-10-26"
+companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Westwood Studios", "Realtime Associates", "Electronic Arts", "Atari", "THQ", "Midway Games", "Trion Worlds"]
+last_updated: "2026-11-11"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -17,7 +17,7 @@ Kenneth Allen is an American video game composer, sound designer and producer. H
 
 Allen composed for games in series including King's Quest, Space Quest, Star Trek and Descent.[^ref-1][^ref-18] On his about.me page he says he wrote "more than 300 pieces for over two dozen games", and that by the mid-1990s he had composed "over 900 minutes of music for games, or roughly 15 hours of scoring."[^ref-2] After leaving Sierra in October 1991 he worked at Tsunami Media. There he composed for games such as Ringworld: Revenge of the Patriarch and Blue Force, did level design on Protostar, and was lead designer and producer on Return to Ringworld.[^ref-5][^ref-7][^ref-15]
 
-He later worked mainly as a producer, at companies including Interplay Productions, Westwood Studios, Midway Games, Atari, THQ and Trion Worlds. His titles include Nox, RollerCoaster Tycoon 3 and the MMO Rift.[^ref-5][^ref-7][^ref-18] He still composed for Parallax Software's Descent (1994).[^ref-18][^ref-10] In January 2013, the month he launched an album Kickstarter, he agreed to be the main composer for SpaceVenture, the spiritual successor to Space Quest by his former collaborators Mark Crowe and Scott Murphy. The game was released in 2022.[^ref-3][^ref-10][^ref-20]
+He later worked mainly as a producer, at companies including Interplay Productions, Westwood Studios, Midway Games, Atari, THQ and Trion Worlds. His titles include Nox, RollerCoaster Tycoon 3 and the MMO Rift.[^ref-5][^ref-7][^ref-18] He still composed for Parallax Software's Descent (1994).[^ref-18][^ref-10] In January 2013, the month he launched an album Kickstarter, he agreed to be the main composer for SpaceVenture, the spiritual successor to Space Quest by his former collaborators Mark Crowe and Scott Murphy. The game reached Kickstarter backers in September 2022 and was released publicly on Steam on December 23, 2025.[^ref-3][^ref-10][^ref-20][^ref-29]
 
 ## Career
 
@@ -67,7 +67,7 @@ Over the following decade he worked for various studios, primarily as a producer
 
 In 2013, Allen launched a Kickstarter campaign for "Under the Half Dome", an album of new arrangements of his game music. It passed its $10,000 goal, raising $21,090 from 575 backers.[^ref-9][^ref-15] The album was never completed. In January 2016, about three years on, with roughly a third of it scored, Allen shelved the project, citing his SpaceVenture work and personal matters, and offered refunds to backers starting that February.[^ref-17] In a December 2025 update to backers he wrote that the project "ultimately didn't move forward, and refunds were provided to those who requested them."[^ref-26]
 
-In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released in September 2022, with Allen credited for composition and audio production.[^ref-20] In the same December 2025 update he said he had "recently completed and released the official SpaceVenture soundtrack", and in July 2026 he announced the SpaceVenture Original Soundtrack on digital marketplaces and Bandcamp.[^ref-26]
+In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released to Kickstarter backers in September 2022, with Allen credited for composition and audio production,[^ref-20] and the full public release on Steam followed on December 23, 2025.[^ref-29] In the same December 2025 update he said he had "recently completed and released the official SpaceVenture soundtrack", and in July 2026 he announced the SpaceVenture Original Soundtrack on digital marketplaces and Bandcamp.[^ref-26]
 
 ## Notable Works
 
@@ -164,11 +164,11 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 - 2011 — Rift — Trion Worlds — Producer
 - 2012 — Rift: Storm Legion — Producer[^ref-18]
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Company: Guys From Andromeda, Role: Intro and Cluck Theme
-- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Company: Guys From Andromeda, Role: Composer / Audio Production
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Company: Guys From Andromeda, Role: Composer / Audio Production (2022 Kickstarter backer release; Steam release December 2025)
 
 ## References
 
-[^ref-1]: [Adventure Game Fan Fair - Ken Allen](https://adventuregamefanfair.com/guests/ken-allen-2/) — Guest biography: French horn at age 10, career overview, game series
+[^ref-1]: [Adventure Game Fan Fair - Ken Allen](https://adventuregamefanfair.com/guests/ken-allen-2/) ([Wayback copy, May 28, 2025](http://web.archive.org/web/20250528074740/https://adventuregamefanfair.com/guests/ken-allen-2/)) — Guest biography: French horn at age 10, career overview, game series
 [^ref-2]: [Ken Allen - about.me](https://about.me/kenallen) — Allen's own page: 300+ pieces, 900+ minutes of music, his recollection of the PC Magazine review, redbook audio
 [^ref-3]: [Choicest Games - Ex-Sierra Composer Ken Allen commences Kickstarter](https://www.choicestgames.com/2013/01/ex-sierra-composer-ken-allen-commences.html) — January 2013 Kickstarter launch
 [^ref-4]: [MobyGames - Ken Allen](https://www.mobygames.com/person/273/ken-allen/) — Person page
@@ -190,3 +190,4 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 [^ref-26]: [Kickstarter - Under the Half Dome: updates](https://www.kickstarter.com/projects/mrkenallen/under-the-half-dome-an-album-by-sierra-composer-ke/posts) — Allen's backer updates: #43 (December 23, 2025) on refunds and the SpaceVenture soundtrack; #44 and #45 (July 12 and 14, 2026) announcing the SpaceVenture Original Soundtrack
 [^ref-27]: [MobyGames - Wacky Funsters! The Geekwad's Guide to Gaming](https://www.mobygames.com/game/20210/wacky-funsters-the-geekwads-guide-to-gaming/) — MobyGames ID 20210, DOS 1992 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
 [^ref-28]: [MobyGames - Man Enough](https://www.mobygames.com/game/29122/man-enough/) — MobyGames ID 29122, DOS 1994 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
+[^ref-29]: [Steam - SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Steam app 1374960; release date December 23, 2025 (read via the Steam appdetails API)
