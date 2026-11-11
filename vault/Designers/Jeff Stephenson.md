@@ -75,7 +75,7 @@ AGI was the adventure game engine Sierra developed after ADL, the engine Ken Wil
 
 ### Sierra's Creative Interpreter (SCI)
 
-SCI replaced AGI with an object-oriented scripting language.[^ref-10] The Digital Antiquarian writes that "Stephenson completely rewrote the language...going from a simplistically cryptic scripting language to a full-fledged modern programming language reminiscent of C++, incorporating all the latest thinking about object-oriented coding."[^ref-18] Ben Shoof, who has decompiled Sierra's SCI scripts, writes that "Throughout SCI's successful nine year run, the language never changed."[^ref-12]
+SCI replaced AGI with an object-oriented scripting language.[^ref-10] The Digital Antiquarian writes that "Stephenson completely rewrote the language...going from a simplistically cryptic scripting language to a full-fledged modern programming language reminiscent of C++, incorporating all the latest thinking about object-oriented coding."[^ref-18] The benshoof.org blog, whose author has decompiled Sierra's SCI scripts, says that "Throughout SCI's successful nine year run, the language never changed."[^ref-12]
 
 ### The Sierra Network
 
