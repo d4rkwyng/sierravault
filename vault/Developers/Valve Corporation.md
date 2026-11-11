@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Bellevue, Washington, United States"
 notable_games: ["Half-Life", "Counter-Strike", "Portal"]
 parent_company: null
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Valve Corporation
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Newell and Harrington founded Valve, L.L.C. in Kirkland, Washington, on August 2
 
 ### Sierra Era
 
-After struggling to find a publisher, Valve signed with Sierra On-Line.[^ref-16] Sources differ on the date: Wikipedia's Valve article gives 1997,[^ref-16] while its Sierra article dates the negotiation to November 1996, when Ken Williams secured Sierra's exclusive rights to Half-Life from Valve's founders; the game debuted at E3 in May 1997.[^ref-26] Under the agreement, Sierra owned the Half-Life intellectual property and held exclusive publishing rights to future Valve games.[^ref-16] Sierra Studios published Half-Life for Windows on November 19, 1998.[^ref-23] Harrington sold his stake in Valve to Newell in 2000.[^ref-16]
+After struggling to find a publisher, Valve signed with Sierra On-Line.[^ref-16] Sources differ on the date: Wikipedia's Valve article gives 1997,[^ref-16] while its Sierra article dates the negotiation to November 1996, when Ken Williams secured Sierra's exclusive rights to Half-Life from Valve's founders; the game debuted at E3 in May 1997.[^ref-26] Under the agreement, Sierra owned the Half-Life intellectual property and held exclusive publishing rights to future Valve games.[^ref-16] Sierra Studios published Half-Life for Windows on November 19, 1998.[^ref-23] In 1998 Valve acquired TF Software, the Australian makers of the Team Fortress mod for Quake; GameSpot reported that Sierra Studios and Valve planned to ship Team Fortress 2 as a Half-Life expansion.[^ref-39] Valve later had Gearbox Software develop three Half-Life expansions: Opposing Force (1999), Blue Shift (2001) and Half-Life: Decay (2001), which was published by Sierra On-Line and released with the PlayStation 2 version of Half-Life.[^ref-16][^ref-40] Harrington sold his stake in Valve to Newell in 2000.[^ref-16]
 
 On March 29, 2001, Valve signed a new Software Publishing Agreement with Sierra and its affiliates.[^ref-18] The amended deal gave Valve the Half-Life intellectual property and online distribution rights for its games. It licensed Sierra/Vivendi to distribute Valve games in the "Retail Channel" solely as "Retail Packaged Product."[^ref-16][^ref-18] Valve built Steam to distribute its games digitally and first showed it at the Game Developers Conference in March 2002. This was before any lawsuit was filed.[^ref-16][^ref-27]
 
@@ -43,7 +43,7 @@ Steam came out of beta on September 12, 2003. In November 2004 Half-Life 2 becam
 
 ### Recent Developments
 
-Valve released Half-Life: Alyx in 2020 and the Steam Deck handheld in 2022.[^ref-16] On November 12, 2025, it announced three new hardware products: a next-generation Steam Machine, a next-generation Steam Controller, and the Steam Frame VR headset.[^ref-6] Valve opened Steam Machine pre-orders on June 22, 2026, starting at $1,050, with launch set for June 29, 2026.[^ref-31]
+Valve released Half-Life: Alyx in 2020 and the Steam Deck handheld in 2022.[^ref-16] On November 12, 2025, it announced three new hardware products: a next-generation Steam Machine, a next-generation Steam Controller, and the Steam Frame VR headset.[^ref-6] Valve opened Steam Machine pre-orders on June 22, 2026, starting at $1,050, with launch set for June 29, 2026.[^ref-31] The Verge published its Steam Machine review the same day.[^ref-36] Steam Frame pre-orders opened on September 14, 2026, at $1,059 for the 256GB model and $1,299 for 1TB, through a randomized reservation lottery with the first purchase emails expected on September 18.[^ref-37] On October 12, 2026, Road to VR reported that Valve said the Steam Frame order queue had stretched into 2027.[^ref-38]
 
 ## Notable Games
 
@@ -53,7 +53,7 @@ In Half-Life the player controls Gordon Freeman, a theoretical physicist who mus
 
 ### Counter-Strike (2000)
 
-Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired the game's intellectual property and partnered with Le and Cliffe to make a standalone game, which Sierra Studios published in November 2000.[^ref-21][^ref-16] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
+Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired the game's intellectual property and partnered with Le and Cliffe to make a standalone game, which Sierra Studios published in November 2000; Sierra's own news page announced it in stores in North America on November 14, 2000.[^ref-21][^ref-16][^ref-41] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
 
 ### Portal (2007)
 
@@ -71,35 +71,45 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 
 ### In This Archive: Valve Games Published by Sierra
 
-- **1998** — [[1998 - Half-Life|Half-Life]] — Genre: First-Person Shooter
-- **1999** — [[1999 - Team Fortress Classic|Team Fortress Classic]] — Genre: Multiplayer Shooter
-- **2000** — [[2000 - Counter-Strike|Counter-Strike]] — Genre: Tactical Shooter
-- **2004** — [[2004 - Counter-Strike - Condition Zero|Counter-Strike: Condition Zero]] — Genre: Tactical Shooter
-- **2004** — [[2004 - Half-Life 2|Half-Life 2]] — Genre: First-Person Shooter (Sierra published the PC retail version; Valve sold it on Steam)[^ref-25]
+| Year | Game | Genre |
+|------|------|-------|
+| 1998 | [[1998 - Half-Life\|Half-Life]] | First-Person Shooter |
+| 1999 | [[1999 - Team Fortress Classic\|Team Fortress Classic]] | Multiplayer Shooter |
+| 2000 | [[2000 - Counter-Strike\|Counter-Strike]] | Tactical Shooter |
+| 2004 | [[2004 - Counter-Strike - Condition Zero\|Counter-Strike: Condition Zero]] | Tactical Shooter |
+| 2004 | [[2004 - Half-Life 2\|Half-Life 2]] | First-Person Shooter (Sierra published the PC retail version; Valve sold it on Steam)[^ref-25] |
 
 ### In This Archive: Valve-Published
 
-- **2000** — [[2000 - Ricochet|Ricochet]] — Genre: Multiplayer Shooter (developed and published by Valve, released November 1, 2000)[^ref-35]
-- **2001** — [[2001 - Deathmatch Classic|Deathmatch Classic]] — Genre: Multiplayer Shooter (released by Valve as a 13 MB download on June 7, 2001;[^ref-32][^ref-33] added to Half-Life by Sierra's 1.1.0.7 update on July 11, 2001[^ref-34])
+| Year | Game | Genre |
+|------|------|-------|
+| 2000 | [[2000 - Ricochet\|Ricochet]] | Multiplayer Shooter (developed and published by Valve, released November 1, 2000)[^ref-35] |
+| 2001 | [[2001 - Deathmatch Classic\|Deathmatch Classic]] | Multiplayer Shooter (released by Valve as a 13 MB download on June 7, 2001;[^ref-32][^ref-33] added to Half-Life by Sierra's 1.1.0.7 update on July 11, 2001[^ref-34]) |
 
 ### In This Archive: Sierra-Published Third-Party Games (Valve's GoldSrc Engine)
 
-- **1999** — [[1999 - Half-Life - Opposing Force|Half-Life: Opposing Force]] — Genre: First-Person Shooter (developed by [[Gearbox Software]])[^ref-28]
-- **2000** — [[2000 - Gunman Chronicles|Gunman Chronicles]] — Genre: First-Person Shooter (developed by Rewolf Software)[^ref-30]
-- **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] — Genre: First-Person Shooter (developed by [[Gearbox Software]])[^ref-29]
+| Year | Game | Genre |
+|------|------|-------|
+| 1999 | [[1999 - Half-Life - Opposing Force\|Half-Life: Opposing Force]] | First-Person Shooter (developed by [[Gearbox Software]])[^ref-28] |
+| 2000 | [[2000 - Gunman Chronicles\|Gunman Chronicles]] | First-Person Shooter (developed by Rewolf Software)[^ref-30] |
+| 2001 | [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | First-Person Shooter (developed by [[Gearbox Software]])[^ref-29] |
+| 2001 | Half-Life: Decay (no vault page) | Multiplayer First-Person Shooter (developed by [[Gearbox Software]], published by Sierra On-Line; PlayStation 2)[^ref-40] |
 
 ### Other Notable Games (Post-Sierra)
-- Half-Life 2: Episode One — 2006
-- Half-Life 2: Episode Two — 2007
-- Portal — 2007
-- Team Fortress 2 — 2007
-- Left 4 Dead — 2008
-- Left 4 Dead 2 — 2009
-- Portal 2 — 2011
-- Counter-Strike: Global Offensive — 2012
-- Dota 2 — 2013
-- Half-Life: Alyx — 2020
-- Counter-Strike 2 — 2023
+
+| Year | Game |
+|------|------|
+| 2006 | Half-Life 2: Episode One |
+| 2007 | Half-Life 2: Episode Two |
+| 2007 | Portal |
+| 2007 | Team Fortress 2 |
+| 2008 | Left 4 Dead |
+| 2009 | Left 4 Dead 2 |
+| 2011 | Portal 2 |
+| 2012 | Counter-Strike: Global Offensive |
+| 2013 | Dota 2 |
+| 2020 | Half-Life: Alyx |
+| 2023 | Counter-Strike 2 |
 
 ## References
 
@@ -124,3 +134,9 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 [^ref-33]: [GameSpot - Valve releases Deathmatch Classic mod for Half-Life (Wayback)](https://web.archive.org/web/20161022201459/http://www.gamespot.com/articles/valve-releases-deathmatch-classic-mod-for-half-life/1100-2771202/) — Trey Walker, June 7, 2001: "Valve Software has released its Deathmatch Classic Half-Life mod"; requires retail Half-Life
 [^ref-34]: [Sierra Studios - Half-Life News (Wayback, August 1, 2001)](https://web.archive.org/web/20010801165659/http://www.sierrastudios.com:80/games/half-life/news.html) — July 11, 2001: Half-Life 1.1.0.7 and Counter-Strike 1.0.0.2 updates "including the addition of Deathmatch Classic"
 [^ref-35]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) — Developer Valve, publisher Valve, release date November 1, 2000
+[^ref-36]: [The Verge - The Steam Machine is the most ambitious game console I've ever played](https://www.theverge.com/games/952765/steam-machine-review) — Sean Hollister, June 22, 2026: Steam Machine review
+[^ref-37]: [Road to VR - Valve Announces Steam Frame Price, Release Date, and Accessories](https://roadtovr.com/valve-steam-frame-price-release-pre-orders/) — Scott Hayden, September 14, 2026: 256GB $1,059, 1TB $1,299; reservation lottery; first purchase emails expected September 18
+[^ref-38]: [Road to VR - Steam Frame Backorder Queue Stretches into 2027](https://roadtovr.com/steam-frame-backorder-queue-2027/) — Scott Hayden, October 12, 2026: "Valve says the order queue has now stretched into 2027"
+[^ref-39]: [GameSpot - Team Fortress Full Speed Ahead](https://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) — Alan Dunkin: "Valve LLC announced last week that it had acquired the Australian developer TF Software Pty. Ltd., the creators of Team Fortress" (the site shows a 2005 date; the text refers to Half-Life as the 1998 title)
+[^ref-40]: [Wikipedia - Half-Life: Decay](https://en.wikipedia.org/wiki/Half-Life:_Decay) — "Developed by Gearbox Software and published by Sierra On-Line, Decay was released as part of the PlayStation 2 version of Half-Life in 2001"
+[^ref-41]: [Sierra Studios - Half-Life News (Wayback, October 23, 2001)](https://web.archive.org/web/20011023110858/http://www.sierrastudios.com/games/half-life/news.html) — November 14, 2000: "Half-Life: Counter-Strike ... is now available in North America"
