@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -38,6 +38,8 @@ Kaemmer was technical director on NASCAR Racing 4 (2001) and NASCAR Racing 2002 
 ### iRacing Era (2003–Present)
 
 Kaemmer and John Henry founded iRacing.com Motorsport Simulations. Sources differ on the founding year: iRacing Studios dates its roots to 2003, while Wikipedia says development began in 2004, when the two formed FIRST.net LLC to acquire Papyrus's code. The service launched in 2008.[^ref-6][^ref-32][^ref-2] Writing in 2004, GameSpot reported that Kaemmer "had just emerged from discussions with VU wherein he successfully recovered the rights to Papyrus' venerated racing simulation technology."[^ref-14] iRacing began from Papyrus's NASCAR code. Motor Sport says it was a modified version of the NASCAR Racing 4 source code, but the copyrights Vivendi and Papyrus sold to FIRST.net on May 28, 2004 were those of NASCAR Racing 2003 Season, and Wikipedia says iRacing kept NR2003's multi-body physics system.[^ref-2][^ref-12][^ref-32] Kaemmer is iRacing's co-founder, CEO and CTO.[^ref-6][^ref-13]
+
+In August 2025 iRacing Studios announced a standalone INDYCAR game under a long-term licensing agreement with the series.[^ref-35] On 10 July 2026 iRacing and INDYCAR named it "INDYCAR Racing The Game", for PlayStation 5, Xbox Series X|S and PC via Steam, with launch moved to early 2027.[^ref-34] This is iRacing Studios news; neither announcement credits Kaemmer with a role in the game.
 
 At iRacing he has concentrated on the tyre model. Divina Galica, a former Formula 1 driver and Skip Barber instructor who later joined iRacing, said: "He's a genius at developing the tyre model." iRacing executive vice president Steve Myers added: "He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-2]
 
@@ -71,17 +73,27 @@ Kaemmer took the Skip Barber Racing School course at Lime Rock while working on 
 
 ### Papyrus Design Group / Sierra On-Line (1989–2003)
 
-- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Role: Lead Design, Lead Programming
-- **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Role: Original Concept, Lead Programming[^ref-30]
-- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Role: Designer, Programmer
-- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Role: Game Designer, Programmer[^ref-31]
-- **1997** — [[1997 - CART Racing|CART Racing]] — Role: Game Designer, Programmer (re-release of IndyCar Racing II)[^ref-14][^ref-31]
-- **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]] — Role: Designer, Lead Engineer
-- **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Role: Technical Director, Additional Game Design
-- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Technical Director, Senior Engineer[^ref-24]
-- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Additional Engineering[^ref-25]
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Lead Design, Lead Programming[^ref-26] |
+| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Original Concept, Lead Programming[^ref-30] |
+| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Designer, Programmer[^ref-27] |
+| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Game Designer, Programmer (MobyGames gives 1996; GameSpot's history says 1995)[^ref-31][^ref-36][^ref-14] |
+| 1997 | [[1997 - CART Racing\|CART Racing]] | Game Designer, Programmer (re-release of IndyCar Racing II)[^ref-14][^ref-31] |
+| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] | Designer, Lead Engineer[^ref-29] |
+| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Technical Director, Additional Game Design[^ref-23] |
+| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Technical Director, Senior Engineer[^ref-24] |
+| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Additional Engineering[^ref-25] |
 
-Other credits, from the BD Jogos copy of his MobyGames credit list: *J.R.R. Tolkien's Riders of Rohan* (1991, programming), *Nomad* (1993, programming) and *SODA Off-Road Racing* (1997, special thanks).[^ref-33]
+### Other Credits (1991–1997)
+
+From the BD Jogos copy of his MobyGames credit list.[^ref-33]
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1991 | J.R.R. Tolkien's Riders of Rohan | Papyrus Design Group | Programming |
+| 1993 | Nomad | Papyrus Design Group | Programming |
+| 1997 | SODA Off-Road Racing | Sierra On-Line | Special thanks |
 
 ### iRacing (2008–Present)
 
@@ -112,3 +124,6 @@ Other credits, from the BD Jogos copy of his MobyGames credit list: *J.R.R. Tolk
 [^ref-31]: [MobyGames – IndyCar Racing II Credits (Archived 2021)](https://web.archive.org/web/20210510153031/https://www.mobygames.com/game/dos/indycar-racing-ii/credits) — Game Designers; Programmers
 [^ref-32]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — development began 2004 when Kaemmer and John W. Henry formed FIRST.net LLC and acquired the NASCAR Racing 2003 Season code; iRacing retains NR2003's multi-body physics; released 2008
 [^ref-33]: [BD Jogos – David Kaemmer](https://en.bdjogos.com.br/person.php?id=34556) — mirror of MobyGames credit data (not MobyGames itself): Riders of Rohan, Nomad, SODA Off-Road Racing
+[^ref-34]: [iRacing and INDYCAR Announce Name, Logo and Launch Plan for Standalone INDYCAR Game](https://www.iracing.com/iracing-announce-launch-plan-for-indycar-game/) — July 10, 2026: officially called "INDYCAR Racing The Game"; PlayStation 5, Xbox Series X|S and PC via Steam; early 2027
+[^ref-35]: [INDYCAR: iRacing console game announcement](https://www.indycar.com/news/2025/08/08-26-iracing-console-game) — August 26, 2025: iRacing Studios to produce standalone INDYCAR titles under a long-term licensing agreement
+[^ref-36]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) — Release data (read via the MobyGames API): DOS, Windows and Macintosh all 1996
