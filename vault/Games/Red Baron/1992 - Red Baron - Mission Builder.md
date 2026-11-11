@@ -10,14 +10,14 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'Red Baron: Mission Builder is a 1992 add-on for Dynamix''s World War I
   flight simulator Red Baron that adds a custom mission editor, new planes and new aces.'
 tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ Red Baron: Mission Builder is a combat flight simulator, so it has no puzzles. T
 
 ## Reception
 
-### Mission Builder
+### Contemporary Reviews
 
 *Computer Gaming World*'s December 1992 holiday buyer's guide gave it "Two flaps up", calling it "just what the players wanted" and "worthy of the Pour Le Merite"[^ref-28]. In the January 1993 issue, Doug Pick reviewed it as "Red Baron Mission Builder in the Crosshairs". He noted "several new aces and five new aircraft" and found that "expanded or extended memory seemed to make no difference to the size of scenario available". His verdict: "While the program is not essential to enjoy an already excellent program, it sure does a nice job of spicing the game up for the true connoisseur"[^ref-26].
 
@@ -182,10 +182,6 @@ The Sierra Chest fan database lists no Easter eggs for Red Baron: Mission Builde
 - Owners of the 16-color version could send away for the 256-color version[^ref-14]
 - The Mission Builder manual's tips warn against setting missions higher than 20,000 feet, "since the pilot is likely to black out"[^ref-23]
 
-## Voice Cast
-
-Red Baron: Mission Builder has no voice cast. MobyGames' credits for the add-on list no voice or music roles[^ref-25].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -204,7 +200,7 @@ Red Baron: Mission Builder appears in these compilations:
 
 ### Later Projects
 
-In 2013, Mad Otter Games, where [[Damon Slye]] was then working, launched a Kickstarter campaign for a new Red Baron game[^ref-15][^ref-21]. The campaign ran from October 22 to November 22, 2013[^ref-21]. Slye told Rock Paper Shotgun that the new game would have separate "Normal" and "Historical" battle arenas[^ref-15].
+In 2013, Mad Otter Games, where [[Damon Slye]] was then working, launched a Kickstarter campaign for a new Red Baron game[^ref-15][^ref-21]. The campaign ran from October 22 to November 22, 2013 and failed, with $40,493 pledged of its $250,000 goal[^ref-21][^ref-29]. Polygon later wrote that "the campaign failed"[^ref-29]. Slye told Rock Paper Shotgun that the new game would have separate "Normal" and "Historical" battle arenas[^ref-15].
 
 ### Related Publications
 
@@ -254,7 +250,7 @@ Mission Builder made one change to Red Baron that mattered more than any other: 
 [^ref-15]: [Rock Paper Shotgun – The Flare Path: Slye and the Familiar Stone](https://www.rockpapershotgun.com/2013/10/25/the-flare-path-slye-and-the-familiar-stone/) – Damon Slye interview, development history
 [^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
 [^ref-18]: Internet Archive – Red Baron Mission Builder (German) *(download link removed: the game is sold commercially)* – media type, platform, genre
-[^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer
+[^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](https://web.archive.org/web/20251118153333/https://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer, goal and amount pledged (Wayback copy)
 [^ref-22]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information
 [^ref-23]: [Internet Archive – Red Baron Mission Builder manual (OCR text)](https://archive.org/download/red_baron1_manual/rb_mb_manual_djvu.txt) – new features, mission conditions, groups, orders, limits, tips
 [^ref-24]: [MobyGames – Red Baron: Mission Builder tech specs](https://www.mobygames.com/game/2722/red-baron-mission-builder/specs/) – CPU, RAM, media, video, sound, input
@@ -262,3 +258,4 @@ Mission Builder made one change to Red Baron that mattered more than any other: 
 [^ref-26]: [Computer Gaming World #102 (January 1993), pp. 134–135 – "Red Baron Mission Builder in the Crosshairs"](https://archive.org/details/Computer_Gaming_World_Issue_102) – Doug Pick review; spec box "DESIGNER: Chris Shen, Damon Slye"
 [^ref-27]: [Computer Gaming World #111 (October 1993) – M. Evan Brooks, Annotated Listing of 20th Century Wargames, Part II](https://archive.org/details/Computer_Gaming_World_Issue_111) – four stars; "Dynamix; Damon Slye & Chris Shen; 1992; $29.95"
 [^ref-28]: [Computer Gaming World #101 (December 1992) – holiday buyer's guide](https://archive.org/details/Computer_Gaming_World_Issue_101) – "Two flaps up for Red Baron Mission Builder"
+[^ref-29]: [Polygon – The Red Baron is ready to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again) – 2015, notes the 2013 Kickstarter failed
