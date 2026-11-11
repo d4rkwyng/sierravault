@@ -4,12 +4,12 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Metaltech: EarthSiege", "EarthSiege 2", "Starsiege"]
-companies: ["Dynamix", "WildTangent"]
-last_updated: '2026-10-26'
+companies: ["Dynamix", "Sierra On-Line", "Vivendi-Universal", "WildTangent"]
+last_updated: '2026-11-11'
 ---
 # David Selle
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -19,11 +19,11 @@ David Selle, also credited as Dave Selle, is a game designer and writer who work
 
 ### Dynamix (1989–1999)
 
-The Dynamix fan wiki says he was hired in September 1989 as a game designer and later worked his way up to serve as a director.[^ref-1] That date sits awkwardly with his credits: MobyGames dates the Commodore 64 *F-14 Tomcat*, which thanks him, to February 1989 and Motocross to June 1989, and a 2024 Retro365 history says he began the story for Rise of the Dragon with Jeff Tunnell in the late summer of 1988.[^ref-53][^ref-54][^ref-55] His earliest credits are from 1989: track design on Motocross, and, on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989), a mission design credit shared with Damon Slye plus a share of the documentation.[^ref-17][^ref-40][^ref-41] On [[1990 - Stellar 7|Stellar 7]] (1990) he is listed among the design contributors and playtesters, and he received a special thanks on the Commodore 64 version of *F-14 Tomcat*.[^ref-17]
+The Dynamix fan wiki says he was hired in September 1989 as a game designer and later worked his way up to serve as a director.[^ref-1] That date sits awkwardly with his credits: MobyGames dates the Commodore 64 *F-14 Tomcat*, which thanks him, to February 1989 and Motocross to June 1989, and a 2024 Retro365 history says he began the story for Rise of the Dragon with Jeff Tunnell in the late summer of 1988.[^ref-53][^ref-54][^ref-55] His earliest credits are from 1989: track design and documentation on Motocross, and, on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989), a mission design credit shared with Damon Slye plus a share of the documentation.[^ref-17][^ref-40][^ref-41][^ref-56] On [[1990 - Stellar 7|Stellar 7]] (1990) he is listed among the design contributors and playtesters, and he received a special thanks on the Commodore 64 version of *F-14 Tomcat*.[^ref-17]
 
-He then wrote for Dynamix's adventure and space-combat games. On [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990) he shares the original story credit with Jeffrey Tunnell, and the dialogue and text credit with Jerry Luttrell; the same credits also give him a special thanks.[^ref-42] He was the writer and world designer of [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), and also contributed to its documentation.[^ref-43] He was one of the writers on [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991).[^ref-44][^ref-17] He also wrote the scripts for [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] (1993).[^ref-17]
+He then wrote for Dynamix's adventure and space-combat games. On [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990) he shares the original story credit with Jeffrey Tunnell, and the dialogue and text credit with Jerry Luttrell; the same credits also give him a special thanks.[^ref-42] He was the writer and world designer of [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), and also contributed to its documentation.[^ref-43] He was one of the writers on [[1991 - Heart of China|Heart of China]] (1991), where MobyGames also lists him under creative services for writing, and on [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991), where it also credits him with manual writing.[^ref-44][^ref-17][^ref-56] He also wrote the scripts for [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] (1993).[^ref-17]
 
-On [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] (1993) he was assistant director under producer/director Mark Crowe.[^ref-45] He was also technical editor of *The Space Quest Companion*, second edition (1993). Its authors thanked "Dave Selle of Dynamix" for making sure "we got our facts straight" and called him the one "who played a big part in developing Space Quest V."[^ref-46]
+On [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] (1993) he was assistant director under producer/director Mark Crowe, and MobyGames also lists him among the game's contributing writers.[^ref-45][^ref-56] He was also technical editor of *The Space Quest Companion*, second edition (1993). Its authors thanked "Dave Selle of Dynamix" for making sure "we got our facts straight" and called him the one "who played a big part in developing Space Quest V."[^ref-46]
 
 ### EarthSiege and Starsiege (1994–1999)
 
@@ -33,36 +33,60 @@ He was the credited designer of [[1996 - Earthsiege 2|EarthSiege 2]] (1996), whi
 
 ### After Dynamix
 
-His MobyGames biography describes him as WildTangent's vice president "in 2006". It says that before running WildStudios he ran the company's Custom Publishing Group, which made "Advergame" content for clients including Nike, Coke, Visa, DaimlerChrysler, Ford and Pepsi.[^ref-17] The same biography says he taught in the game projects section of DigiPen Institute. It also notes that he is certified as a SCRUM practitioner by the Agile Software Alliance and as a Software Product Manager by the University of Washington.[^ref-17] MobyGames also credits him as producer on the Game Boy Advance shooter *Ice Nine* (2005); as with the *Uncharted* credit below, no other source confirms that this is the same person.[^ref-17]
+His MobyGames biography describes him as WildTangent's vice president "in 2006". It says that before running WildStudios he ran the company's Custom Publishing Group, which made "Advergame" content for clients including Nike, Coke, Visa, DaimlerChrysler, Ford and Pepsi.[^ref-17] The biography also says he worked for "well-known game companies including Dynamix, Sierra On-Line and Vivendi-Universal, in addition to WildTangent", and describes him as having "20 years of industry experience" and "more than 50 published titles"; these are self-promotional biography claims, not independently verified.[^ref-56] The same biography says he taught in the game projects section of DigiPen Institute. It also notes that he is certified as a SCRUM practitioner by the Agile Software Alliance and as a Software Product Manager by the University of Washington.[^ref-17] MobyGames also credits him as producer on the Game Boy Advance shooter *Ice Nine* (2005); as with the *Uncharted* credit below, no other source confirms that this is the same person.[^ref-17]
+
+## Notable Works
+
+### Metaltech: EarthSiege (1994)
+
+Selle is credited with game design alongside Mark Crowe, and as one of the missions programmers.[^ref-48]
+
+### EarthSiege 2 (1996)
+
+MobyGames credits him as designer, with Mark Crowe as director.[^ref-50]
+
+### Starsiege (1999)
+
+He is credited as designer and among the mission designers, and is listed as a consultant in the manual credits.[^ref-51]
+
+## Legacy
+
+The only source describing his influence is the Dynamix fan wiki, which calls him "Co-creator of the Earthsiege / Starsiege universe".[^ref-1] His credited design role on the three EarthSiege-series games is documented above.[^ref-48][^ref-50][^ref-51]
 
 ## Games
 
 ### Dynamix (1989–1999)
 
-- **1989** — Motocross — Role: Tracks[^ref-17]
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Mission Design; Documentation[^ref-41]
-- **1989** — F-14 Tomcat (Commodore 64) — Role: Special Thanks[^ref-17]
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Design Contributors and Playtesters[^ref-17]
-- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Original Story; Dialogue and Text; Special Thanks[^ref-42]
-- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Writer; World Design[^ref-43]
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Writers[^ref-44]
-- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Writers[^ref-17]
-- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Scripts[^ref-17]
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Assistant Director[^ref-45]
-- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Game Design; Writers[^ref-47]
-- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] — Role: Game Design; Missions Programming[^ref-48]
-- **1995** — [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: EarthSiege Expansion Pack]] — Role: Game Design; Missions Programming[^ref-49]
-- **1996** — [[1996 - Earthsiege 2|EarthSiege 2]] — Role: Designer[^ref-50]
-- **1999** — [[1999 - Starsiege|Starsiege]] — Role: Designer; Mission Design[^ref-51]
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | Motocross | Tracks; Documentation[^ref-17][^ref-56] |
+| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Mission Design; Documentation[^ref-41] |
+| 1989 | F-14 Tomcat (Commodore 64) | Special Thanks[^ref-17] |
+| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Design Contributors and Playtesters[^ref-17] |
+| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Original Story; Dialogue and Text; Special Thanks[^ref-42] |
+| 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] | Writer; World Design[^ref-43] |
+| 1991 | [[1991 - Heart of China\|Heart of China]] | Writers; Writing[^ref-44][^ref-56] |
+| 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Writers; Manual Writing[^ref-17][^ref-56] |
+| 1993 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7: Draxon's Revenge]] | Scripts[^ref-17] |
+| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Assistant Director; Contributing Writers[^ref-45][^ref-56] |
+| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Game Design; Writers[^ref-47] |
+| 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: EarthSiege]] | Game Design; Missions Programming[^ref-48] |
+| 1995 | [[1995 - Metaltech - Earthsiege Expansion Pack\|Metaltech: EarthSiege Expansion Pack]] | Game Design; Missions Programming[^ref-49] |
+| 1996 | [[1996 - Earthsiege 2\|EarthSiege 2]] | Designer[^ref-50] |
+| 1999 | [[1999 - Starsiege\|Starsiege]] | Designer; Mission Design; Consultant[^ref-51] |
 
-### Other
+### Other Credits
 
-- **2005** — *Ice Nine* (Game Boy Advance) — Role: Producer (MobyGames only; not confirmed as the same person)[^ref-17]
-- MobyGames also attaches a "Video" credit on *Uncharted: Drake's Fortune* (2007) to the same profile. No other source confirms that this is the same person.[^ref-17]
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2005 | *Ice Nine* (Game Boy Advance) | Not stated here | Producer (MobyGames only; not confirmed as the same person)[^ref-17] |
+| 2007 | *Uncharted: Drake's Fortune* | Not stated here | Video (MobyGames attaches this credit to the same profile; no other source confirms it is the same person)[^ref-17] |
 
 ### Related book
 
-- **1993** — *The Space Quest Companion*, second edition, by Peter and Jeremy Spear — Role: Technical Editor[^ref-46]
+| Year | Title | Role |
+|------|-------|------|
+| 1993 | *The Space Quest Companion*, second edition, by Peter and Jeremy Spear | Technical Editor[^ref-46] |
 
 ## References
 
@@ -86,3 +110,4 @@ His MobyGames biography describes him as WildTangent's vice president "in 2006".
 [^ref-53]: [MobyGames – Motocross (1989)](https://www.mobygames.com/game/1915/motocross/) — read via the MobyGames API: DOS, first released 1989-06
 [^ref-54]: [MobyGames – F-14 Tomcat (Commodore 64, 1989)](https://www.mobygames.com/game/59771/f-14-tomcat/) — read via the MobyGames API: Commodore 64, first released 1989-02; developed by Dynamix, published by Activision
 [^ref-55]: [Retro365 – Dynamix's adventures (2024)](https://retro365.blog/2024/08/23/dynamixs-adventures/) — "In the late summer of 1988, Tunnell, along with Dave Selle, began crafting the story and initial design for… Rise of the Dragon" (modern blog)
+[^ref-56]: [MobyGames – David Selle credits and biography (Wayback, 2022-09-21)](https://web.archive.org/web/20220921200717/https://www.mobygames.com/developer/sheet/view/developerId,10264/) — Creative Services: "Motocross (1989) Documentation", "Space Quest V (1993) Contributing Writers", "Willy Beamish (1991) Manual Writing", "Heart of China (1991) Writing"; biography names Dynamix, Sierra On-Line, Vivendi-Universal and WildTangent (bio last updated Apr 26, 2006)
