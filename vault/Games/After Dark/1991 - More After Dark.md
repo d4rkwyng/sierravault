@@ -10,7 +10,7 @@ series: After Dark
 engine: After Dark (add-on modules)
 protagonist: Spacecraft pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-11-05'
+last_updated: '2026-11-11'
 description: 'More After Dark, released in 1991, was an expansion package for Berkeley
   Systems'' After Dark screensaver software, "the software that kicked off the screensaver
   craze of the 1990s."'
@@ -18,7 +18,7 @@ tags: [1990s, after-dark, shooter, sierra]
 ---
 # More After Dark
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ The package required an existing installation of After Dark 2.0 or another After
 
 According to MobyGames, the inclusion of Lunatic Fringe made More After Dark Berkeley Systems' first foray into games. The package billed the module as "the exciting new space game from the creator of Solarian II."[^ref-5] The Computer History Museum's catalog entry for a 1991 boxed copy, published by Berkeley Systems, lists a 3.5-inch floppy disk, a Virex-D virus scanner module, a manual, usage notes (an updater to 2.0v) and the "Lunatic Fringe game module, from the creator of Solarian II."[^ref-24]
 
-More After Dark was published by Berkeley Systems, not Sierra.[^ref-5] In April 1997, CUC International, which had already acquired Sierra On-Line the year before, acquired Berkeley Systems.[^ref-20] Wikipedia's Berkeley Systems article gives the buyer as CUC's Sierra On-Line division and the price as $13.8 million.[^ref-28]
+More After Dark was published by Berkeley Systems, not Sierra.[^ref-5] In April 1997, CUC International, which had already acquired Sierra On-Line the year before, acquired Berkeley Systems.[^ref-20] Wikipedia's Berkeley Systems article gives the buyer as CUC's Sierra On-Line division,[^ref-28] while the Los Angeles Times reported at the time that the terms of the deal were not disclosed;[^ref-30] a later-circulated $13.8 million figure has no contemporary source.
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]], Inc.[^ref-5]
@@ -217,5 +217,6 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 [^ref-25]: [Macworld – Solarian II (Peter Cohen, 23 Sep 2004)](https://www.macworld.com/article/172509/solarian2.html) – "Ben Haller released one of the first color games for the Macintosh"; original game 1988; Haller now producing Mac software as Stick Software
 [^ref-26]: [Daring Fireball – Afterglow (John Gruber, 27 Aug 2026)](https://daringfireball.net/linked/2026/08/27/afterglow) – names "Ben Haller's Lunatic Fringe game"; Jeff Halter's Lunacy runtime; Afterglow runs original 68k After Dark modules
 [^ref-27]: [Engadget – Blast from the past: Lunatic Fringe (Robert Palmer, 3 Oct 2008)](https://www.engadget.com/2008/10/03/blast-from-the-past-lunatic-fringe/) – "a Maelstrom-like game built-in to After Dark"; Sealie Software's Fringe Player for Intel Macs
-[^ref-28]: [Wikipedia – Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) – co-founded 1987 by Wes Boyd and Joan Blades; acquired by the Sierra On-Line division of CUC International in 1997 for $13.8 million
+[^ref-28]: [Wikipedia – Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) – co-founded 1987 by Wes Boyd and Joan Blades; acquired by the Sierra On-Line division of CUC International in 1997
 [^ref-29]: [iDrop News – How to run After Dark screen savers on a modern Mac (Chris Hauk, 28 Aug 2026)](https://www.idropnews.com/news/how-to-run-after-dark-screen-savers-modern-mac/267778/) – Lunacy plays "the classic More After Dark game called Lunatic Fringe"; Afterglow runs original 68k modules
+[^ref-30]: [Los Angeles Times – CUC Agrees to Acquire Berkeley Systems Inc. (10 April 1997)](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) – "Terms of the deal, which is scheduled to be completed Friday, were not disclosed."

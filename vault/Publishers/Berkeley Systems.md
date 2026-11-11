@@ -5,11 +5,11 @@ founded: 1987
 defunct: 2000
 headquarters: "Berkeley, California, United States"
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -21,7 +21,9 @@ For the company's full history and people, see [[Developers/Berkeley Systems|Ber
 
 CUC International bought Berkeley Systems in April 1997 and placed it under Sierra On-Line, which CUC had acquired the year before.[^ref-16][^ref-17][^ref-1][^ref-21][^ref-24] MobyGames lists it as the first of two acquisitions Sierra completed that April.[^ref-4] The Los Angeles Times reported that up to a third of Berkeley's 120 employees would be laid off and that the unit's new general manager, Chris Deyo, would report to executives at Sierra.[^ref-17]
 
-In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw "mostly from Berkeley Systems' famous brand titles", listing HeadRush and the After Dark Game Pack among its 1998 releases.[^ref-22] Both appeared that year: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
+In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would feature family and board-style games, "stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license", listing HeadRush and the After Dark Game Pack among its 1998 releases.[^ref-22] Both appeared that year: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
+
+CUC merged with HFS Incorporated in December 1997 to become Cendant, and Cendant agreed to sell its consumer software division, Sierra included, to Paris-based Havas in November 1998.[^ref-27] By May 1999 IGN described Berkeley Systems as "a party of the happy, French family of Havas Interactive" while reporting that it had begun shipping the CD-ROM trivia game Austin Powers: Operation Trivia.[^ref-28]
 
 By 2000 little was left. The Daily Ping noted that Berkeley's beZerk game network, launched in October 1996,[^ref-23] had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-18] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-1]
 
@@ -56,3 +58,5 @@ Berkeley Systems titles with SierraVault pages:
 [^ref-24]: [Wikipedia - CUC International](https://en.wikipedia.org/wiki/CUC_International) - Subsidiaries include Sierra On-Line and "Berkeley Systems, Inc." (infobox)
 [^ref-25]: [Wikipedia - You Don't Know Jack (1995 video game)](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(1995_video_game)) - Gottlieb: "[Igor Gasowski of Berkeley Systems had] seen That's a Fact, Jack!"; "Igor Gasowski would end up serving as the executive producer"
 [^ref-26]: [MobyGames - You Don't Know Jack trivia (Wayback, June 2024)](https://web.archive.org/web/20240621020055/https://www.mobygames.com/game/1407/you-dont-know-jack/trivia/) - "originally prototyped as a Hypercard program ... at a company called Jellyvision"; "they immediately thought of Berkeley Systems"
+[^ref-27]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - "CUC merged with Henry Silverman's HFS Incorporated in December 1997 and became the Cendant Corporation"; sale of the consumer software division to Havas announced 20 November 1998
+[^ref-28]: [News Briefs - IGN (25 May 1999)](https://www.ign.com/articles/1999/05/25/news-briefs-322) - "Berkeley Systems, a party of the happy, French family of Havas Interactive, has begun shipping Austin Powers: Operation Trivia"

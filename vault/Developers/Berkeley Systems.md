@@ -6,11 +6,11 @@ defunct: 2000
 headquarters: "Berkeley, California, USA"
 notable_games: ["After Dark", "You Don't Know Jack", "Head Rush"]
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ In October 1996 Berkeley Systems launched beZerk, an online entertainment site b
 
 ### Acquisition and Later Years
 
-CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] Wikipedia later put the price at $13.8 million.[^ref-6] In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
+CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] The Times' account is the contemporary one; a later-circulated $13.8 million figure has no contemporary source. In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
 
 By 2000 little was left: the Daily Ping noted that beZerk had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-11] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-6] Boyd and Blades went on to found MoveOn.org in 1998.[^ref-6]
 
@@ -80,7 +80,7 @@ Berkeley Systems titles with SierraVault pages; MobyGames lists the company's fu
 [^ref-2]: [Berkeley Systems Acquired by CUC - Wired](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) — April 1997: CUC "on Tuesday confirmed its latest move into the computer gaming market"
 [^ref-3]: [Berkeley Systems, Inc. - MobyGames (Wayback, July 2023)](https://web.archive.org/web/20230726000835/https://www.mobygames.com/company/1199/berkeley-systems-inc/) — founded by Wes Boyd and Joan Blades "to create handicapped access software for the Macintosh"; Jellyvision approached Berkeley with its YDKJ prototype; credits list
 [^ref-5]: [History of Sierra On-Line, Inc. - FundingUniverse](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) — "In April 1997, the firm purchased Berkeley Systems"
-[^ref-6]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — co-founded 1987 by Wes Boyd and Joan Blades; NIH contract work; YDKJ developed by Jellyvision; acquired 1997 for $13.8 million; Flipside.com; folded into iWin.com in early 2000; MoveOn.org
+[^ref-6]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — co-founded 1987 by Wes Boyd and Joan Blades; NIH contract work; YDKJ developed by Jellyvision; acquired 1997; Flipside.com; folded into iWin.com in early 2000; MoveOn.org
 [^ref-7]: [Berkeley Systems - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Berkeley_Systems) — YDKJ "was developed by Jellyvision"; production continued at Jellyvision's Chicago studios
 [^ref-8]: [Berkeley Systems Corporate Background (Wayback, June 1997)](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) — founded 1987 by Wes Boyd, Joan Blades and Lawrence Boyd on a federal grant; After Dark over three million units since 1989; Eastman, Rush and Gasowski; Wemco ties and boxer shorts; film and TV appearances
 [^ref-11]: [Whatever Happened to Berkeley Systems - Daily Ping](https://dailyping.com/archive/2000/09/04/whatever-happened-to-berkeley-systems/) — September 2000: beZerk outsourced to won.net; "So what's left at Berkeley? Not much."
