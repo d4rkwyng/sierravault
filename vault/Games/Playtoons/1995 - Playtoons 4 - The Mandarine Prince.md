@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 composer: [Emmanuel Chagnas]
 description: 'Playtoons 4: The Mandarine Prince is a 1995 interactive comic book and
   animation kit by Coktel Vision, published by Sierra On-Line, in which Spirou and
@@ -19,13 +19,13 @@ tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Playtoons 4: The Mandarine Prince is an interactive comic book and animation kit developed by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-2][^ref-3][^ref-7] Like the rest of the series, it lets players read through an interactive comic book and also build their own animated stories with an integrated editor.[^ref-3] It was released for Windows 3.x and Macintosh: Coktel published it in France in 1995, Sierra published it in Germany in 1995 (distributed by Sierra Coktel Deutschland), and Sierra released it in the United States in 1996.[^ref-18] The French magazine *SVM Multimédia* reported in October 1995 that Coktel planned to launch "le Prince Mandarine (avec Spirou)" that autumn,[^ref-29] and a retailer's advertisement in its December 1995 issue already listed the PC version.[^ref-30]
+Playtoons 4: The Mandarine Prince is an interactive comic book and animation kit developed by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-2][^ref-3][^ref-7] Like the rest of the series, it lets players read through an interactive comic book and also build their own animated stories with an integrated editor.[^ref-3] It was released for Windows 3.x and Macintosh: Coktel published it in France in 1995, Sierra published it in Germany in 1995 (distributed by Sierra Coktel Deutschland), and Sierra released it in the United States in 1996.[^ref-18] The French magazine *SVM Multimédia* reported in October 1995 that Coktel planned to launch "le Prince Mandarine (avec Spirou)" that autumn,[^ref-29] and a retailer's advertisement in its December 1995 issue already listed the PC version.[^ref-30] *PC Novice* no. 32 (January 1996) listed it among five Playtoons titles "déjà disponibles" [already available], describing "Le Prince Mandarine, une nouvelle aventure du célèbre Spirou" ["Le Prince Mandarine, a new adventure of the famous Spirou"],[^ref-34] and *SVM Multimédia* no. 6 (March 1996) captioned a Dupuis feature "LE PRINCE MANDARINE : SPIROU DANS LA COLLECTION PLAYTOONS" [The Mandarine Prince: Spirou in the Playtoons collection].[^ref-35]
 
-The fourth game again features the Franco-Belgian comic heroes Spirou and Fantasio, who had already starred in the second Playtoons game. This time they are up against crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like the other entries in the series, the game was aimed at children and focused on teaching school topics in a digital format.[^ref-1]
+The fourth game again features the Franco-Belgian comic heroes Spirou and Fantasio, who had already starred in the second Playtoons game. This time they are up against crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like the other entries in the series, the game was aimed at children aged 4 to 10.[^ref-25] *PC Spiel* filed it under "Edutainment",[^ref-23] and Wikipedia describes the series as focused on teaching school topics.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-3][^ref-10]
@@ -111,7 +111,8 @@ Sierra's Spring 1996 catalogue sold the game for $24.95 for ages 4 to 10, or for
 | 1995 | Windows 3.x, Macintosh | France; published by Coktel Vision[^ref-18] |
 | 1995 | Windows 3.x, Macintosh | Germany; published by Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-18] |
 | 1996 | Windows 3.x, Macintosh | United States; published by Sierra On-Line[^ref-18] |
-| By May 1997 | Windows | Italy; *Playtoons 4 - Il Principe di Mandarancia*, distributed by CTO[^ref-24] |
+| Feb 1996 (announced) | Windows, Macintosh | Italy; *PC Open* announced *Il principe di Mandarancia* as the fourth Playtoons title, distributed by CTO[^ref-33] |
+| By May 1997 | Windows | Italy; reviewed in *l'Unità* as *Playtoons 4 - Il Principe di Mandarancia*, distributed by CTO[^ref-24] |
 
 ### Easter Eggs and Trivia
 
@@ -125,7 +126,7 @@ The French release came in a sleeve. MobyGames' scans of it show an 18-page manu
 
 ### Preservation
 
-The ScummVM wiki lists the game as unsupported ("Support: No"), so it cannot yet be played in ScummVM.[^ref-5] MyAbandonware hosts the Windows 3.x version as part of the eXoWin3x "Volumes 1-4" package (1.8 GB).[^ref-4]
+The ScummVM wiki (archived April 2026) lists the game as unsupported ("Support: No"),[^ref-5] while the current ScummVM development source includes detection entries for `playtoons4` in French, German and English.[^ref-32] Whether the game is playable in ScummVM is not confirmed by either source. MyAbandonware hosts the Windows 3.x version as part of the eXoWin3x "Volumes 1-4" package (1.8 GB).[^ref-4]
 
 ## Downloads
 
@@ -174,3 +175,7 @@ The ScummVM wiki lists the game as unsupported ("Support: No"), so it cannot yet
 [^ref-29]: [SVM Multimédia, issue 1 (October 1995)](https://archive.org/details/svm-multimedia-01) – Coktel announces for the autumn its Mac collection and "le Prince Mandarine (avec Spirou) et la Pierre de Wakan"
 [^ref-30]: [SVM Multimédia, issue 3 (December 1995)](https://archive.org/details/svm-multimedia-03) – retailer advertisement listing "Le Prince Mandarine (P)"
 [^ref-31]: [PC Magazine, 24 September 1996, "The Top 100 CD-ROMs"](https://archive.org/details/PC-Mag-1996-09-24) – the Playtoons Collection of four stories including The Mandarine Prince; street price $24.95 (series); Windows 3.1/95 and Mac; construction game
+[^ref-32]: [ScummVM source – engines/gob/detection/tables_playtoons.h (master, fetched 2026-11-11)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/gob/detection/tables_playtoons.h) – three "playtoons4" detection entries (French v1.002, German "Der Mandarin-Prinz", English), none flagged unsupported
+[^ref-33]: [PC Open, February 1996 (n. 4), News, "Il principe di Mandarancia"](https://archive.org/details/pc-open-1996-02) – "È in arrivo il quarto titolo della collezione Playtoons, distribuita da Cto" [the fourth title of the Playtoons collection, distributed by CTO, is on its way]; available for PC and Macintosh
+[^ref-34]: [PC Novice no. 32 (January 1996), Playtoons roundup](https://archive.org/details/pcnovice-magazine-32) – "Cinq titres déjà disponibles", including "Le Prince Mandarine, une nouvelle aventure du célèbre Spirou"
+[^ref-35]: [SVM Multimédia, issue 6 (March 1996)](https://archive.org/details/svm-multimedia-06) – photo caption "LE PRINCE MANDARINE : SPIROU DANS LA COLLECTION PLAYTOONS" in a Dupuis feature; caption-level mention only
