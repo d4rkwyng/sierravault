@@ -5,11 +5,11 @@ founded: 1984
 defunct: 2001
 headquarters: "Eugene, Oregon, United States"
 parent_company: "Sierra On-Line (acquired 1990)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -21,6 +21,8 @@ For detailed information about the studio's development history and notable game
 
 Until 1989, and alongside its own label that year, Dynamix's games were published by other companies, among them Penguin Software, [[Electronic Arts|Electronic Arts]] and Activision.[^ref-1][^ref-16] Activision still published several Dynamix-developed games in 1989, including Ghostbusters II, Deathtrack, Die Hard and MechWarrior.[^ref-21][^ref-22][^ref-23][^ref-24] Dynamix also began to publish under its own name: in 1989 A-10 Tank Killer and David Wolf: Secret Agent "were shipped as affiliated label products for Activision, with the Dynamix label shown on the game boxes for the first time."[^ref-2] Those games did not make enough money to keep Dynamix going, and the company was sold to Sierra in 1990.[^ref-2]
 
+Some of Dynamix's best sellers carried the Sierra label rather than the Dynamix one. Jeff Tunnell, who ran Jeff Tunnell Productions within Dynamix, wrote that "3D Ultra Pinball was labeled Sierra, but it was a JTP game, and was the biggest seller ever for Dynamix (of which JTP was still a part of)."[^ref-31]
+
 ## Games Published (Pre-Sierra)
 
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Notes: Dynamix label, distributed by Activision (affiliated label)[^ref-2][^ref-10]
@@ -30,9 +32,14 @@ Until 1989, and alongside its own label that year, Dynamix's games were publishe
 
 After the acquisition most Dynamix-developed games carried Sierra On-Line as publisher, but some titles still appeared under the Dynamix name as publisher:[^ref-1]
 
-- **1990** — [[1990 - Stellar 7|Stellar 7]] (DOS re-release) — Notes: Dynamix listed as publisher[^ref-1]
+- **1990** — [[1990 - Stellar 7|Stellar 7]] (DOS remake) — Notes: Dynamix listed as publisher[^ref-1][^ref-32]
 - **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Notes: published and developed by Dynamix[^ref-26]
 - **1993** — [[1993 - Stellar-Fire|Stellar-Fire]] (Sega CD) — Notes: published by Dynamix, developed by Infinite Laser Dog[^ref-25]
+- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] (DOS) — Notes: MobyGames lists the "Dual Media release (Version 1.5)", dated July 1991, as published and developed by Dynamix[^ref-10]
+- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (DOS) — Notes: published and developed by Dynamix[^ref-28]
+- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] (3DO) — Notes: US release published and developed by Dynamix; the 1994 Japanese release was published by T&E Soft[^ref-27]
+
+Some adventures were credited to Dynamix in part. MobyGames lists the 1990 DOS release of [[1990 - Rise of the Dragon|Rise of the Dragon]] as published by Sierra On-Line, but its 1993 US Sega CD release as published by Dynamix.[^ref-29] It lists [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] with Dynamix as publisher on some 1991 DOS releases (US and Canada) and Sierra On-Line on others, with Sega of America publishing the Sega CD version.[^ref-30]
 
 ## Notable Franchises
 
@@ -68,3 +75,9 @@ Dynamix developed numerous franchises for Sierra:[^ref-1][^ref-18]
 [^ref-24]: [MobyGames - MechWarrior](https://www.mobygames.com/game/105/mechwarrior/) - Read via the MobyGames API: DOS 1989-12, published by Activision, developed by Dynamix, Inc.
 [^ref-25]: [MobyGames - Stellar-Fire](https://www.mobygames.com/game/27337/stellar-fire/) - Read via the MobyGames API: Sega CD, US 1993, published by Dynamix, Inc., developed by Infinite Laser Dog
 [^ref-26]: [MobyGames - Front Page Sports: Football](https://www.mobygames.com/game/18574/front-page-sports-football/) - Read via the MobyGames API: DOS, US 1992, published and developed by Dynamix, Inc.
+[^ref-27]: [MobyGames - Stellar 7: Draxon's Revenge](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/) - Read via the MobyGames API: 3DO, US 1993, published and developed by Dynamix, Inc.; Japan 1994-03-26, published by T&E Soft, developed by Dynamix, Inc.
+[^ref-28]: [MobyGames - Front Page Sports: Football Pro](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) - Read via the MobyGames API: DOS, US 1993, published and developed by Dynamix, Inc.
+[^ref-29]: [MobyGames - Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) - Read via the MobyGames API: DOS 1990 and Macintosh 1991 published by Sierra On-Line, Inc.; Sega CD US 1993 published by Dynamix, Inc.; developed by Dynamix, Inc.
+[^ref-30]: [MobyGames - The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) - Read via the MobyGames API: DOS 1991 releases (US and Canada) published by Dynamix, Inc. and others by Sierra On-Line, Inc.; Sega CD 1993 published by SEGA of America
+[^ref-31]: [Jeff Tunnell - Johnny Castaway Common Questions (Wayback, 2026-09-27)](https://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/) - Tunnell: "3D Ultra Pinball was labeled Sierra, but it was a JTP game, and was the biggest seller ever for Dynamix (of which JTP was still a part of)."
+[^ref-32]: [Wikipedia - Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) - Infobox lists "Dynamix (remake)"; "then remade in the early 1990s for MS-DOS, Amiga, and Classic Mac OS"
