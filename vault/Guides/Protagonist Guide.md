@@ -1,11 +1,11 @@
 ---
 title: "Protagonist Guide"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Protagonist Guide
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra's adventure games are defined by their memorable protagonists. This guide covers the heroes and player roles of Sierra's series, including adventure, simulation and strategy games, later sequels by other studios and Sierra alumni, and fan games. Protagonist details are sourced on each linked game page; the footnotes below cover the points this guide states directly.
 
@@ -87,9 +87,9 @@ A customizable champion who starts as a Fighter, Magic User or Thief; from Quest
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I]] — Classes: Fighter / Magic User / Thief
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Classes: Fighter / Magic User / Thief (honorable heroes are awarded the Paladin title at the end)[^ref-5]
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] — Classes: Fighter / Magic User / Thief
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Classes: Fighter / Magic User / Thief / Paladin
-- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Classes: Fighter / Magic User / Thief / Paladin
-- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Classes: Fighter / Wizard / Thief / Paladin
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Classes: Fighter / Magic User / Thief (Paladin is a hidden class opened by importing an honorable hero)[^ref-28]
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Classes: Fighter / Magic User / Thief (Paladin is a bonus class for players who have completed one of the first three games)[^ref-29]
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Classes: Fighter / Wizard / Thief (Paladin requires an imported character or the premade Paladin supplied with the game)[^ref-30]
 
 **Fan Games:** [[2008 - Quest for Glory II VGA Remake|QFG2 VGA Remake]]
 
@@ -112,6 +112,11 @@ Lytton PD's finest, rising from patrol officer to homicide detective while battl
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]]
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]]
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest VGA]]
+
+#### John Carey
+Sonny Bonds does not return in the fourth game. Open Season introduces a new protagonist, Los Angeles homicide detective John Carey.[^ref-31]
+
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]]
 
 ---
 
@@ -345,3 +350,7 @@ Sierra's city-building games and the Lords of the Realm strategy series feature 
 [^ref-25]: [MobyGames – Leisure Suit Larry's Casino](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Description (read via the MobyGames API): "Larry Laffer, the protagonist of the Leisure Suit Larry adventure series, is running a casino"
 [^ref-26]: [MobyGames – King's Quest: Mask of Eternity](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/) – Description (read via the MobyGames API): "a simple peasant and fighter named Connor"; "He must now search for the other pieces of the Mask, repair it, and face Lucreto"
 [^ref-27]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "He sold the company to Sierra On-Line in 1995"; games list includes Caesar (1992) and Lords of the Realm (1994)
+[^ref-28]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War) – "a 'hidden' class can be opened: a Paladin"; an honorable character from the previous game "can be imported to Quest for Glory III as such"
+[^ref-29]: [Quest for Glory Fandom Wiki – QFG4 Technical Manual](https://questforglory.fandom.com/wiki/QFG4_Technical_Manual) – "The Paladin character is a `bonus' character type only available to players who have completed one of the first three Quest for Glory games"
+[^ref-30]: [Adventure Classic Gaming – Quest for Glory V: Dragon Fire](http://www.adventureclassicgaming.com/index.php/site/reviews/100/) – An imported character "is the only way to play as the Paladin (though a pre-made Paladin is also available)"
+[^ref-31]: [MobyGames – Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – Description (read via the MobyGames API): "a new protagonist, homicide detective John Carey of the Los Angeles Police Department"
