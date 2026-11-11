@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Zeus: Master of Olympus", "Pharaoh", "Caesar IV", "Children of the Nile"]
 companies: ["Legend Entertainment", "Impressions Games", "Tilted Mill Entertainment", "Sierra Entertainment"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Chris Beatrice
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,13 +29,13 @@ After art school, in 1992, he answered an advertisement in the school's career p
 
 After a few months at Legend, Beatrice applied for an art director opening at Impressions Games and got it.[^ref-12] Sierra On-Line acquired Impressions in 1995: on June 20 it merged with Software Inspiration Ltd., the parent company of Impressions, whose majority shareholder was founder David Lester.[^ref-17][^ref-23] Beatrice spent three years as art director, two as creative director, two as director of design and development and one as general manager.[^ref-20][^ref-1] A July 1998 news item quoted him as "general manager of Impressions."[^ref-22]
 
-His first Impressions credits were graphics on Detroit (1994) and art direction on [[1994 - Lords of the Realm|Lords of the Realm]] and *Front Lines* (both 1994).[^ref-10] In 1995 he directed the art for [[1995 - Caesar II|Caesar II]], High Seas Trader, [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]], Casino De Luxe and [[1995 - Breach 3|Breach 3]], where he is also credited with 3D graphics, animation and campaign design.[^ref-10]
+His first Impressions credits, per MobyGames, were graphics on Detroit (1994) and art direction on [[1994 - Lords of the Realm|Lords of the Realm]] and *Front Lines* (both 1994); MobyGames also lists him under Testing for Lords of the Realm (1994 DOS and Amiga, and the 1997 Windows release) and Front Lines (1994), and as an Internal Tester on Breach 3 (1995).[^ref-10][^ref-26] His own website differs on two of these: it lists him as Art Director on Detroit (1994) rather than for graphics, and dates Front Lines to 1995 rather than 1994.[^ref-8] In 1995 he directed the art for [[1995 - Caesar II|Caesar II]], High Seas Trader, [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]], Casino De Luxe (for which MobyGames credits him with both Art Direction and Graphics) and [[1995 - Breach 3|Breach 3]], where he is also credited with 3D graphics, animation and campaign design.[^ref-10][^ref-26]
 
 Looking back at Caesar II while promoting Zeus, he said: "Caesar 2 was one of our first real successes as developers, and ever since then we've thought about other settings that might be compelling for future city-building games. We always considered Rome, Greece and Egypt to be the 'big three' of ancient, classical civilizations, and knew that eventually we'd cover each of them."[^ref-6] In 1996 he was creative director and game designer on [[1996 - Lords of the Realm II|Lords of the Realm II]] and art director on Robert E. Lee: Civil War General, Space Bucks and The Rise & Rule of Ancient Empires.[^ref-10]
 
 In 1997 he was creative director on Grant, Lee, Sherman: Civil War Generals 2 and [[1997 - Lords of Magic|Lords of Magic]], and he is credited with lead design on Lords of Magic: Special Edition (1998).[^ref-10] For [[1998 - Caesar III|Caesar III]] (1998) his own website lists him as studio head and Tilted Mill's staff page as creative director and general manager; MobyGames credits him only under Special Thanks.[^ref-8][^ref-20][^ref-10] He was lead designer and project lead on Pharaoh (1999), and Tilted Mill's staff page also lists him as supervising designer on its expansion, Cleopatra: Queen of the Nile; MobyGames does not credit him on Cleopatra.[^ref-20][^ref-10]
 
-On [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000) he is credited as designer; his own site calls him its sole designer and studio head.[^ref-10][^ref-8] He explained: "In many ways Zeus is a less serious game than its city-building predecessors. In Zeus we take a lot of liberties with Greek history and mythology, borrowing and mixing characters and events freely…"[^ref-6] He also said: "In Zeus you, the player, are ruler of an independent city-state … which is more like a little kingdom."[^ref-6] He was director of design and development on [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]] (2001), and lead designer, project lead and director of development on [[2004 - Lords of the Realm III|Lords of the Realm III]] "through 9/2001", well before its 2004 release.[^ref-10][^ref-20] Sierra forced a change in Impressions' management in October 2001, during Lords of the Realm III's development.[^ref-17] MobyGames' history of the studio says this "management shake-up ended with the departure of Beatrice and much of the company's leadership and senior staff" to form Tilted Mill; sources date his exit to 2001 or 2002.[^ref-24][^ref-20][^ref-1] The studio was shut down in spring 2004 (April per MobyGames and Wikipedia; a June 2004 CNN/Money report put it in May).[^ref-17][^ref-24][^ref-21]
+On [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000) he is credited as designer; his own site calls him its sole designer and studio head.[^ref-10][^ref-8] He explained: "In many ways Zeus is a less serious game than its city-building predecessors. In Zeus we take a lot of liberties with Greek history and mythology, borrowing and mixing characters and events freely…"[^ref-6] He also said: "In Zeus you, the player, are ruler of an independent city-state … which is more like a little kingdom."[^ref-6] He was director of design and development on [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]] (2001), and lead designer, project lead and director of development on [[2004 - Lords of the Realm III|Lords of the Realm III]] "through 9/2001", well before its 2004 release.[^ref-10][^ref-20] Sierra forced a change in Impressions' management in October 2001, during Lords of the Realm III's development.[^ref-17] MobyGames' history of the studio says this "management shake-up ended with the departure of Beatrice and much of the company's leadership and senior staff" to form Tilted Mill; sources date his exit to 2001 or 2002.[^ref-24][^ref-20][^ref-1] A GameSpot news item reported that he "has left Sierra's Impressions Games to found his own game development studio, Tilted Mill Entertainment," adding that "during his nine years at Impressions, Beatrice helped develop more than 20 games"; the page carries an auto-stamped date of May 17, 2006, so it is cited here only as a contemporary news item, and "nine years" does not match the 1994 start date given elsewhere.[^ref-25] The studio was shut down in spring 2004 (April per MobyGames and Wikipedia; a June 2004 CNN/Money report put it in May).[^ref-17][^ref-24][^ref-21]
 
 ### Tilted Mill Entertainment
 
@@ -46,6 +46,8 @@ Tilted Mill's first game was Immortal Cities: Children of the Nile (2004), on wh
 He was lead designer on [[2006 - Caesar IV|Caesar IV]] (2006) and on SimCity Societies (2007), which Tilted Mill made for Electronic Arts.[^ref-10][^ref-8] Of the latter he said: "The only thing that bothers me because I feel it was unfair is that TMill got the blame/credit for taking the franchise in a new direction, when obviously that was not our decision. We were making the game EA told us to make – and I think we did a really good job of that." He remains proud of it "because I think we came up with a lot of innovations, particularly for the city-building interface, that are now standard."[^ref-12]
 
 Later Tilted Mill credits include SimCity Societies: Destinations (2008, designer), Mosby's Confederacy (2008, art) and Hinterland (2008), for which his site lists him as studio head and creative director.[^ref-10][^ref-8] He was designer and art director of Medieval Mayor, which was never published.[^ref-8] When development stopped, a 2013 fan post on Reddit relayed his line that the game was "not dead, just... taking a nap"; his original statement has not been located.[^ref-13] Asked in 2019 why he left games, he answered, paraphrasing: "I didn't leave the video game industry – it left me."[^ref-12]
+
+According to Wikipedia's article on Tilted Mill, on May 21, 2025 Beatrice, as one of the founders, made a post on the Tilted Mill subreddit "declaring that the company is back in an active state"; Wikipedia cites that post as titled "We're back" and dated May 20, 2025. The original Reddit post could not be viewed for this page (Reddit blocked automated access), so the claim and the one-day date difference rest on Wikipedia alone.[^ref-18]
 
 ### Illustration and Later Games
 
@@ -94,14 +96,14 @@ Beatrice has said he feels "so lucky, honored, blessed to have been part of a ne
 
 ### Impressions Games (1994–2001/02)
 
-- **1994** — [[1994 - Detroit|Detroit]] — Role: Graphics
-- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Art Director
-- **1994** — Front Lines — Role: Art Director
+- **1994** — [[1994 - Detroit|Detroit]] — Role: Graphics (per MobyGames; his own site lists Art Director)
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Art Director, Testing (per MobyGames)
+- **1994** — Front Lines — Role: Art Director, Testing (per MobyGames, which dates it 1994; his own site says 1995)
 - **1995** — [[1995 - Caesar II|Caesar II]] — Role: Art Director, Graphics & Animation
-- **1995** — [[1995 - Breach 3|Breach 3]] — Role: Art Director, 3D Graphics & Animation, Campaign Designer
+- **1995** — [[1995 - Breach 3|Breach 3]] — Role: Art Director, 3D Graphics & Animation, Campaign Designer, Internal Tester
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Art Director
 - **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Role: Art Director
-- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Art Director
+- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Art Director, Graphics
 - **1996** — [[1996 - Robert E. Lee - Civil War General|Robert E. Lee: Civil War General]] — Role: Art Director
 - **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Art Director
 - **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Art Director
@@ -136,8 +138,8 @@ Beatrice has said he feels "so lucky, honored, blessed to have been part of a ne
 | 2022 | Elder Gods Collection | Infinigods | Art Director |
 | 2022 | InfiniMerge | Infinigods | Art Director |
 | 2022 | Immortal Siege | Infinigods | Art Director |
-| TBA | Red's Journey | Resolute Games | Designer, Art Director |
-| TBA | Eldramoor: Haven in the Mist | Resolute Games | Art Director, Director of Development |
+| TBA (listed on his site as "not yet released, 2024") | Red's Journey | Resolute Games | Designer, Art Director |
+| TBA (listed on his site as "not yet released, 2025") | Eldramoor: Haven in the Mist | Resolute Games | Art Director, Director of Development |
 
 ## References
 
@@ -149,7 +151,7 @@ Beatrice has said he feels "so lucky, honored, blessed to have been part of a ne
 [^ref-6]: [Zeus Heaven - Interview with Chris Beatrice](https://zeus.heavengames.com/interview-chris-beatrice/) — Caesar 2 success, "big three", "less serious game", "little kingdom", Pharaoh nearly on the Caesar 2 engine
 [^ref-7]: [Creative Gaga - Chris Beatrice](https://www.creativegaga.com/artist/chris-beatrice) — BFA from Massachusetts College of Art in Boston
 [^ref-8]: [Chris Beatrice Studio - Video Games](https://www.chrisbeatrice.com/video-games) — his own credit list; Hoboken "very first game"; Medieval Mayor unpublished; Infinigods 2022; Resolute Games
-[^ref-10]: [MobyGames - Chris Beatrice Credits](https://www.mobygames.com/person/6592/chris-beatrice/credits/) — credits by role (Detroit graphics, art direction 1994–1996, LotR II design, Pharaoh/CotN/Caesar IV/SimCity Societies lead design, Caesar III special thanks)
+[^ref-10]: [MobyGames - Chris Beatrice Credits](https://www.mobygames.com/person/6592/chris-beatrice/credits/) — credits by role (testing, Detroit graphics, art direction 1994–1996, LotR II design, Pharaoh/CotN/Caesar IV/SimCity Societies lead design, Caesar III special thanks)
 [^ref-12]: [Arcade Attack - Chris Beatrice (Sierra/Tilted Mill) Interview (January 25, 2019; Wayback snapshot January 2021)](https://web.archive.org/web/20210125155647/https://www.arcadeattack.co.uk/chris-beatrice-sierra/) — first game "Gateway"; Impressions art director job; CotN favorite; SimCity Societies; "it left me"; resource management/combat; "audience is there"
 [^ref-13]: [Reddit r/impressionsgames - Medieval Mayor development has stopped](https://www.reddit.com/r/impressionsgames/comments/1od9yt/medieval_mayor_game_development_has_stopped_from/) — 2013 fan post title relaying Beatrice: "Medieval Mayor is not dead, just... taking a nap." (links tiltedmill.com)
 [^ref-14]: [Kathy Temean - Illustrator Saturday: Chris Beatrice (January 23, 2016)](https://kathytemean.wordpress.com/2016/01/23/illustrator-saturday-chris-beatrice/) — vocational high school, metals/jewelry/sculpture major, first paid work c.2004, full-time 2009, "15 full books", Sargent quote, "Your portfolio is you"
@@ -161,3 +163,5 @@ Beatrice has said he feels "so lucky, honored, blessed to have been part of a ne
 [^ref-22]: [Computer Games Online (cdmag.com) - Lords of Magic Special Edition, by Jason Ocampo (posted July 17, 1998; Wayback snapshot 2003)](https://web.archive.org/web/20030705051550/http://www.cdmag.com/articles/013/072/lom_special_edition.html) — "said Chris Beatrice, general manager of Impressions"
 [^ref-23]: [Sierra On-Line Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR; Wayback snapshot)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On June 20, 1995 the Company also merged with Inspiration, a developer of strategy games"; share exchange agreement names David Lester as majority shareholder
 [^ref-24]: [MobyGames - Impressions Games (company 102)](https://www.mobygames.com/company/102/impressions-games/) — "a management shake-up ended with the departure of Beatrice and much of the company's leadership"; studio closed April 2004
+[^ref-25]: [GameSpot - "Tilted Mill Entertainment founded" (Wayback snapshot 2005; page shows an auto-stamp of May 17, 2006)](https://web.archive.org/web/2005/https://www.gamespot.com/articles/tilted-mill-entertainment-founded/1100-2852451/) — "has left Sierra's Impressions Games to found his own game development studio"; "nine years at Impressions"
+[^ref-26]: [MobyGames - Chris Beatrice Credits (Wayback snapshot, March 23, 2025)](http://web.archive.org/web/20250323015120/https://www.mobygames.com/person/6592/chris-beatrice/credits/) — Quality Assurance: Testing on Lords of the Realm (1994 DOS/Amiga, 1997 Windows) and Front Lines (1994); Internal Testers on Breach 3 (1995); Casino De Luxe Graphics and Art Direction
