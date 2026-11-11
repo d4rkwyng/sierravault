@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest IV", "Jones in the Fast Lane", "Obsidian"]
 companies: ["Sierra On-Line", "Rocket Science Games", "Mother Productions", "iWin"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Bill Davis
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ After Sierra, Davis was vice president of product development at Rocket Science 
 
 Davis was born in downtown Los Angeles and raised in the coastal community of Venice; both his mother and his maternal grandfather were artists.[^ref-7] He graduated with high honors from the Chouinard Art School (CalArts) with a BFA.[^ref-8][^ref-7]
 
-He was lead graphic artist for NBC studios, and the Emmy he won in 1978 came from an in-house NBC project, "The First 50 Years".[^ref-8][^ref-3] He later said the Emmy brought him back into animation, and that Kurtz and Friends, one of the companies that had bid on the project, became his employer.[^ref-8] He spent eleven years as a designer/director at Kurtz and Friends, a Los Angeles producer of animated commercials.[^ref-8]
+He was lead graphic artist for NBC studios, and the Emmy he won in 1978 came from an in-house NBC project, "The First 50 Years".[^ref-8][^ref-3] He later said the Emmy brought him back into animation, and that Kurtz and Friends, one of the companies that had bid on the project, became his employer.[^ref-8] He spent eleven years as a designer/director at Kurtz and Friends, a Los Angeles producer of animated commercials.[^ref-8] Sierra News Magazine said he had designed and directed or co-directed "over 150 animated television commercials" for clients including McDonalds, Dole, Burger King and Toyota, and had done children's illustrations for Sesame Street,[^ref-8] and the 1996 Rocket Science announcement likewise credited him with "more than 150 animated television commercials".[^ref-5]
 
 ### Sierra Years (1989–1996)
 
@@ -38,6 +38,8 @@ He introduced rotoscoping (with programmer Dan Foy building a capture setup) and
 Davis encouraged a more consistent art style within each series.[^ref-15] For the 1991 VGA remake of Leisure Suit Larry, Al Lowe first wanted video-captured characters, but Davis still saw Larry as a cartoon character; "after an epic debate", they settled on a cartoon Larry.[^ref-10] Davis later recalled suggesting cubism for Larry because "it would suit the kind of wacky world that Larry lived in."[^ref-15]
 
 Sierra News Magazine called him the "Jones designer" when Jones in the Fast Lane "just hit the streets" in late 1990, and named him the project's art director.[^ref-14] The same issue said he "directed the redesign" of Oil's Well, adding "reward" cartoons between levels that starred a dinosaur named Slater.[^ref-14] His Sierra credits include King's Quest V, Space Quest IV, Jones in the Fast Lane, Leisure Suit Larry 1 (VGA) and 5, Police Quest III, Quest for Glory II, EcoQuest, Conquests of the Longbow, Castle of Dr. Brain, Hoyle Volume 3 and all five Crazy Nick's Software Picks titles.[^ref-11] He also voiced the Hermit in King's Quest V,[^ref-11][^ref-19] and he is listed among the CD-ROM character voices of the 1991 Mixed-Up Mother Goose; a reader's letter in InterAction's Summer 1992 issue remembered him "as the crooked, crotchety old man" in that game.[^ref-20][^ref-19] The 1996 Rocket Science release said six of his Sierra games were nominated for SPA awards in 1992.[^ref-5]
+
+Not every account of his Sierra tenure is admiring. Jimmy Maher's Digital Antiquarian history says Ken Williams hired him as "Creative Director" in July 1989 to help move Sierra from EGA to VGA graphics, and that he turned the company's "laissez-faire approach to game development into a rigidly formulated Hollywood-style production pipeline", with artists isolated from programmers and designers and communication "only through a bureaucratic paper trail"; Maher adds that the changes "inevitably disrupted Sierra's game-making operation".[^ref-21] Scott Murphy, co-creator of Space Quest, recalled in an Adventure Classic Gaming interview that midway through Space Quest IV he and Mark Crowe were asked by Ken Williams and Davis about adopting the point-and-click interface used in King's Quest V. They preferred to keep the parser, and in his telling Davis then told Crowe that Williams had already decided on point-and-click.[^ref-23] That is one participant's recollection, not a documented company decision.
 
 ### Rocket Science Games (1996–1997)
 
@@ -65,6 +67,10 @@ Davis is credited as Creative Director on [[1991 - Space Quest IV - Roger Wilco 
 
 [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] was the project Sierra News Magazine used to show his storyboard process, reproducing drawings from the "Keeping Up With Jones" storyboard.[^ref-8] The Fall 1990 issue called him the "Jones designer" and quoted him: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-14] MobyGames credits him as Creative Director.[^ref-11]
 
+### Pepper's Adventures in Time (1993)
+
+The Digital Antiquarian says the original proposer of [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] was Davis rather than one of Sierra's regular designers: his proposal was a series called "Twisty History", in which children would protect history from the inventor of a time machine. Because Davis "wasn't himself a designer", the first game became a collaboration among the design team, and the star, Pepper Pumpernickel, was "sketched by Bill Davis and filled in by the design team".[^ref-22] MobyGames lists him for "Original Concept".[^ref-11]
+
 ### Slater & Charlie Go Camping (1993)
 
 On [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]], Davis is credited with "Written, Produced and Directed by", as one of the gag writers, and with art direction.[^ref-11]
@@ -81,8 +87,7 @@ Adventure Gamers' Sierra retrospective calls Davis "Sierra's first Creative Dire
 
 ### Sierra On-Line (1989–1996)
 
-Roles follow MobyGames' credit wording.[^ref-11]
-
+Roles follow MobyGames' credit wording.[^ref-11] MobyGames counts 36 credits for him; the two it lists beyond the rows below are thanks-only credits (Deal or No Deal, 2011, and Three Dirty Dwarves, 1996).[^ref-18]
 
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Creative Director
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Creative Director
@@ -124,6 +129,10 @@ Roles follow MobyGames' credit wording.[^ref-11]
 | 2011 | Jewel Quest Mysteries: The Seventh Gate | iWin | Art Director |
 | 2011 | Jewel Quest: The Sapphire Dragon | iWin | Creative Director |
 
+## Name Confusion
+
+Other people named Bill or William Davis appear in game credits. MobyGames lists "William R. Davis Sr." as an alternate name of this Bill Davis, so a credit under that name (as on Police Quest III) may refer to him.[^ref-18] MobyGames also keeps a separate entry for a Bill Davis Jr., with quality-assurance credits on several Sierra games, including EcoQuest, Quest for Glory III and King's Quest VII.[^ref-24] Those credits do not belong on this page; editors should check the credit line and role before attributing a "Davis" credit to either person.
+
 ## References
 
 [^ref-1]: [MobyGames - Bill Davis](https://www.mobygames.com/person/40190/bill-davis/) — Career profile and game credits
@@ -143,3 +152,7 @@ Roles follow MobyGames' credit wording.[^ref-11]
 [^ref-18]: [MobyGames - Bill Davis (Wayback, August 2025)](https://web.archive.org/web/20250831014954/https://www.mobygames.com/person/40190/bill-davis/) — Recent credits incl. Jewel Quest titles; "Credited on 36 games"
 [^ref-19]: [InterAction Magazine Vol. V No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — "Bill Davis, Vice President of Creative Development for Sierra, voiced the hermit on the beach in King's Quest V"; reader letter on his Mixed-Up Mother Goose CD voice
 [^ref-20]: [MobyGames - Mixed-Up Mother Goose (1991) (Wayback, August 2025)](https://web.archive.org/web/20250822201438/https://www.mobygames.com/game/1085/mixed-up-mother-goose/) — DOS credits: "Creative Director Bill Davis"; Bill Davis listed under "Character Voices (CD-ROM)"
+[^ref-21]: [The Digital Antiquarian - So You Want to Be a Hero? (2016)](https://www.filfre.net/2016/09/09/) – Davis hired as Sierra's "Creative Director" in July 1989; "rigidly formulated Hollywood-style production pipeline"
+[^ref-22]: [The Digital Antiquarian - The Sierra Discovery Adventures (2018)](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Davis proposed "Twisty History"; Pepper Pumpernickel "sketched by Bill Davis"
+[^ref-23]: [Adventure Classic Gaming - Scott Murphy interview](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) – Murphy's account of the Space Quest IV point-and-click decision
+[^ref-24]: [MobyGames - Bill Davis Jr. (Wayback, December 2023)](https://web.archive.org/web/20231227165721/https://www.mobygames.com/person/285807/bill-davis-jr/) – Separate MobyGames entry (ID 285807) with QA credits on EcoQuest, Quest for Glory III and King's Quest VII
