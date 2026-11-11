@@ -1,13 +1,13 @@
 ---
-title: "In-Progress Projects"
+title: "Projects in Progress"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
-# In-Progress Projects
+# Projects in Progress
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
-Sierra-affiliated games currently in development or recently updated. Statuses checked October 26, 2026.
+Sierra-affiliated games currently in development or recently updated. Statuses checked November 11, 2026.
 
 ## At a Glance
 
@@ -47,7 +47,7 @@ Sierra-affiliated games currently in development or recently updated. Statuses c
 ---
 
 ### Summer Daze Ifeyo's Adventure
-- **Series:** [[2023 - Summer Daze - Tilly's Tale|Summer Daze]] (second game)
+- **Series:** [[2023 - Summer Daze - Tilly's Tale|Summer Daze]] (second game). A third concept, *Sami's Story* (a Corgi in the Warrior school at Hero-U), and *Puzzleworthy* are in the prototype phase; the Coles say those "won't see release until likely 2027 or later" ([BackerKit](https://summerdaze.backerkit.com/hosted_preorders/project_updates)).
 - **Team:** [[Corey Cole|Corey]] & Lori Cole ([[Transolar Games]])
 - **Status:** In development, as of Sep 16, 2026. Expected "in late Spring or early Summer 2027."
 - **Latest:** (Sep 16, 2026) [Summer Daze BackerKit update](https://summerdaze.backerkit.com/hosted_preorders/project_updates): set "a year after Tilly's Tale, and just after the events of Hero-U: Rogue to Redemption"; "Expect Ifeyo's Adventure in late Spring or early Summer 2027."
@@ -134,10 +134,17 @@ Sierra-affiliated games currently in development or recently updated. Statuses c
 - **Page:** [[2021 - King's Quest IV Retold]]
 - **Series:** Remake of [[1988 - King's Quest IV - The Perils of Rosella|KQ4]]
 - **Team:** Jorge Pecador / Magic Quest Entertainment
-- **Released:** (Nov 29, 2025) [AGS Forums announcement](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/): "a new version of King's Quest IV Retold patched with 256 colored graphics and voices," made "by courtesy of Dr Slash, the author of King's Quest IV Retold". Standalone; separate from the Infamous Adventures project. Download links updated October 2026.
+- **Released:** (Nov 29, 2025) [AGS Forums announcement](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/): "a new version of King's Quest IV Retold patched with 256 colored graphics and voices," made "by courtesy of Dr Slash, the author of King's Quest IV Retold". Standalone; separate from the Infamous Adventures project. Thread first post last edited Nov 7, 2026 (reason given: "Adding download links and additional content").
 
 ---
 
 ## How to Help
 - Follow teams' Discords, Patreons, and Kickstarter updates
 - Report new Sierra-connected projects with source links
+
+## See Also
+
+- [[Fan Remake Projects]] — Fan remakes and their status
+- [[Cancelled Games]] — Sierra games that never shipped
+- [[Release Timeline]] — Release dates across the catalog
+- [[Fan Resources]] — Fan communities and tools
