@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V: Absence Makes the Heart Go Yonder", "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work", "Space Quest IV: Roger Wilco and the Time Rippers", "Conquests of Camelot: The Search for the Grail", "Quest for Glory II: Trial by Fire"]
 companies: ["Sierra On-Line", "SikhNet", "Sun & Son"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Guruka Singh Khalsa
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -22,6 +22,8 @@ Outside games, he is a Sikh minister and Kundalini Yoga teacher. In 1986 he foun
 ### Before Sierra
 
 His MobyGames biography says Khalsa came "from a long career in audio engineering and television broadcast engineering and production, as well as multimedia entertainment software development." The same biography says he is "Known by many as Doctor Hi-Fi" and "loves to play with electronics, computers and words."[^ref-1]
+
+In a December 2011 SikhNet article, he wrote: "I discovered the magic of computers in the 1970's, working on a DEC PDP-11 at Ohio State University where I was working as a research associate in high energy physics." He "sat at my first 'personal computer' in 1984," a PC clone called an "Apricot," and "the day after I got my Apricot, I went looking for games and discovered my first adventure game, 'Wishbringer.'" He also describes joining CompuServe's online forums, where his favorite topic was games. "In 1988, I was asked to beta-test adventure games for the pioneer adventure gaming company, Sierra On-Line," he writes, and that December Sierra asked him to move to California as its Senior Producer.[^ref-23]
 
 In his own account of becoming a Sikh, he writes that he "first began to discover who I really was in the 1960's," while living in Berkeley, California. In the spring of 1971 he met Yogi Bhajan at the Earth Rebirth Festival on Earth Day at UC Davis.[^ref-6] "Well, that's how I became a Sikh. You see, I didn't really become a Sikh at all. I just remembered who I was. My true identity - Sat Nam," he writes.[^ref-6] He was married that summer at the Summer Solstice gathering in Paonia, Colorado, where Yogi Bhajan married 23 couples.[^ref-6]
 
@@ -39,11 +41,29 @@ Looking back on the period, he told Adventure Gamers: "There was this peak where
 
 ### SikhNet and Later Work
 
-In 1986 Khalsa founded the first incarnation of SikhNet, a computer bulletin board system that ran from 1986 to 1994.[^ref-18] Gurumustuk Singh started the SikhNet.com website on Vaisakhi 1996, inspired by that BBS, and later led it as CEO.[^ref-18][^ref-19] Khalsa worked with SikhNet for fifteen years. His earlier work as a producer of entertainment software led to *Karma – The Ogre's Curse* (2011), which SikhNet calls "the first online Sikh spiritual adventure game"; SikhNet says its development "was led by Guruka Singh and took over a year to create."[^ref-18] SikhNet's July 2020 notice of his departure says he appears in over 160 SikhNet videos "with millions of views."[^ref-18] His older MobyGames biography describes him as SikhNet's CEO; SikhNet's own 2020 and 2022 notices do not give him that title, and name Gurumustuk Singh as the CEO stepping down in 2022. The biography also names him as one of the founders of the consulting firm Sun & Son, without a date.[^ref-1][^ref-18][^ref-19]
+In 1986 Khalsa founded the first incarnation of SikhNet, a computer bulletin board system that ran from 1986 to 1994.[^ref-18] Gurumustuk Singh started the SikhNet.com website on Vaisakhi 1996, inspired by that BBS, and later led it as CEO.[^ref-18][^ref-19] Khalsa worked with SikhNet for fifteen years. His earlier work as a producer of entertainment software led to *Karma – The Ogre's Curse* (2011), which SikhNet calls "the first online Sikh spiritual adventure game"; SikhNet says its development "was led by Guruka Singh and took over a year to create."[^ref-18] SikhNet's July 2020 notice of his departure says he appears in over 160 SikhNet videos "with millions of views."[^ref-18] His older MobyGames biography describes him as SikhNet's CEO.[^ref-1] SikhNet's December 2011 Karma announcement says that "Before returning to SikhNet as its C.E.O., Guruka Singh was a Senior Producer for a major entertainment software company,"[^ref-24] and a 2014 SikhNet editor's note calls him "our very own CEO Guruka Singh Khalsa."[^ref-6] The July 2020 notice of his departure does not use the title, and the April 2022 notice by Gurumustuk Singh Khalsa says Gurumustuk started the SikhNet website and served as CEO; the sources as read do not reconcile these.[^ref-18][^ref-19] The MobyGames biography also names him as one of the founders of the consulting firm Sun & Son; in his own 2011 account he dates that to 1992, with Ravi Har Singh.[^ref-1][^ref-23]
 
 SikhNet describes him as one of the original 25 teachers trained directly by Yogi Bhajan. He began teaching Kundalini Yoga in 1971, became a minister of Sikh Dharma in 1973, and received the title Mukhia Singh Sahib (Head Minister) in 2004.[^ref-3] He writes that he received Amrit in 1972.[^ref-7] He translated Yogi Bhajan's Gurmukhi poems into English as *Furmaan Khalsa* (1987), published his own poetry as *The Game of Love* (2004), and wrote *Heroes, Saints and Yogis – Tales of Self-Discovery and the Path of Sikh Dharma* (2011).[^ref-3][^ref-7]
 
 In 2013 he received a Special Thanks credit on [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold - Episode 1]].[^ref-4]
+
+## Notable Works
+
+### Hero's Quest / Quest for Glory I (1989)
+
+His first Sierra producer credit. Designer Corey Cole recalled in 2018 that "Without Guruka, there is a good chance that there would not be Hero's Quest / Quest for Glory," calling him the game's "biggest advocate within Sierra management."[^ref-2][^ref-4]
+
+### Conquests of Camelot (1990)
+
+Credited as producer. He recalled planning the game with Christy Marx "with a legal pad and pen," and the game later carried an in-joke about his beard.[^ref-17][^ref-4][^ref-22]
+
+### Jones in the Fast Lane (1991, CD-ROM 1992)
+
+Retro Gamer named him as Sierra's producer for Jones and quoted his recollection of the CD mastering process, including the $140,000 CD burner.[^ref-21][^ref-4]
+
+## Legacy
+
+Maher likens his role to Jon Palace's at Infocom, and Adventure Gamers' retrospective names him as Sierra's first producer.[^ref-2][^ref-17] Mandel called him the man who "for years, was Sierra's sole Producer."[^ref-20] After Sierra he returned to SikhNet, where, by his own account, he and Gurumustuk Singh Khalsa discussed an adventure game in early 2010, which became *Karma – The Ogre's Curse*, released in December 2011.[^ref-23][^ref-24][^ref-18] In that account he describes his main concern at Sierra as "the soul of the game."[^ref-23]
 
 ## Games
 
@@ -68,7 +88,7 @@ In 2013 he received a Special Thanks credit on [[2013 - Fester Mudd - Curse of t
 ### Post-Sierra
 
 - **2011** — Karma – The Ogre's Curse — Company: SikhNet, Role: Led development[^ref-18]
-- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold - Episode 1]] — Company: Prank Ltd., Role: Special Thanks
+- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold - Episode 1]] — Company: Prank Ltd. (developer credited on MobyGames; MobyGames notes this does not imply employment), Role: Special Thanks[^ref-4]
 
 ## References
 
@@ -88,4 +108,6 @@ In 2013 he received a Special Thanks credit on [[2013 - Fester Mudd - Curse of t
 [^ref-19]: [SikhNet - After 26 Years, I'm Stepping Away from SikhNet](https://sikhnet.com/node/96763) — Gurumustuk Singh Khalsa, April 27, 2022; started the SikhNet website in 1996 and served as CEO
 [^ref-20]: [Adventure Classic Gaming - Josh Mandel interview (Wayback, January 2011)](http://web.archive.org/web/20110102034200/http://www.adventureclassicgaming.com/index.php/site/interviews/196/) — Philip Jong, first posted April 24, 2006; "Guruka Singh Khalsa, who, for years, was Sierra's sole Producer"; Gamers Forum on CompuServe; junior producer
 [^ref-21]: [Wizwords - Jones in the Fast Lane (adapted from Retro Gamer #94; Wayback, February 2016)](http://web.archive.org/web/20160220014425/http://www.wizwords.net:80/jones-in-the-fast-lane) — Khalsa as "Sierra's producer for Jones"; Chris Whaley concept; $140,000 CD burner, $140 blank discs
-[^ref-22]: [The Sierra Chest - Conquests of Camelot: Easter eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) — Egg 419: man in Ismael's shop with "hairs from the beard of Guruka Singh"; "Have you ever tried to shave a Sikh?"
+[^ref-22]: [The Sierra Chest - Conquests of Camelot: Easter eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) — Egg 421: man in Ismael's shop with "hairs from the beard of Guruka Singh"; "Have you ever tried to shave a Sikh?"
+[^ref-23]: [SikhNet - Gano and the Ogre's Curse](https://www.sikhnet.com/node/32262) — Guruka Singh Khalsa, Dec 10, 2011; his own account: Ohio State physics and PDP-11, 1984 Apricot, Wishbringer, CompuServe, 1988 beta-testing, Senior Producer, Sun & Son (1992), Karma
+[^ref-24]: [SikhNet - SikhNet launches the first ever adventure game for Sikh youth](https://www.sikhnet.com/node/32211) — Shanti Kaur Khalsa, Dec 7, 2011; Karma launch; "Before returning to SikhNet as its C.E.O., Guruka Singh was a Senior Producer"
