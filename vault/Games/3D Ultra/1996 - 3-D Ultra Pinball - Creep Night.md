@@ -7,25 +7,25 @@ publisher: Sierra On-Line
 genre: Pinball
 platforms: [Windows, Mac OS, Windows 3.x]
 series: 3-D Ultra Pinball
-engine: 3D Ultra Pinball Engine
+engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra''s
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996 for Windows and Mac OS.'
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-10-26T12:00:00-06:00
+last_modified: 2026-11-11T12:00:00-06:00
 ---
 # 3-D Ultra Pinball: Creep Night
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball: Creep Night is the second installment in Sierra's 3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in 1996[^ref-1]. The game embraces a gothic horror theme with what sources describe as a "cartoonish 'Disney Haunted House' quality"[^ref-2], featuring animated skeletons, ghosts, and various creepy crawlies across its haunted castle setting[^ref-3]. Sierra's advertising blurb, reproduced by The Collection Chamber, opened: "Do you like dead things? Watching horror movies? Playing an exciting game of pinball? Burying bodies in your crawl space? Hey, we can help you with the first three"[^ref-4].
+3-D Ultra Pinball: Creep Night is the second installment in Sierra's 3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in 1996[^ref-1]. MobyGames lists a Japanese title, *3D Ultra Pinball 2: Goblin no Gyakushū*, as an alternate name[^ref-20]. The game embraces a gothic horror theme with what sources describe as a "cartoonish 'Disney Haunted House' quality"[^ref-2], featuring animated skeletons, ghosts, and various creepy crawlies across its haunted castle setting[^ref-3]. Sierra's advertising blurb, reproduced by The Collection Chamber, opened: "Do you like dead things? Watching horror movies? Playing an exciting game of pinball? Burying bodies in your crawl space? Hey, we can help you with the first three"[^ref-4].
 
-Unlike traditional pinball simulations of its era, Creep Night deliberately took advantage of being a video pinball game, incorporating elements that would be impossible on a physical pinball table[^ref-2]. The game featured three main tables - the Castle grounds, Tower top, and Dungeon depths - plus a bonus fourth table hidden somewhere within the game[^ref-4]. Despite advertising claims of "realistic pinball physics," reviewers noted that "the truth is somewhat the opposite," with the game's ball gravitating towards points of no return and frequent losses to outlanes or untouchable spaces between flippers[^ref-4]. Each of the three tables is split into three sections, each with its own pair of flippers[^ref-17].
+Unlike traditional pinball simulations of its era, Creep Night deliberately took advantage of being a video pinball game, incorporating elements that would be impossible on a physical pinball table[^ref-2]. The game featured three main tables - the Castle grounds, Tower top, and Dungeon depths - plus a bonus fourth table that a mini-game leads to, described as a re-jigged, much harder variant of the first[^ref-4]. Despite advertising claims of "realistic pinball physics," reviewers noted that "the truth is somewhat the opposite," with the game's ball gravitating towards points of no return and frequent losses to outlanes or untouchable spaces between flippers[^ref-4]. Each of the three tables is split into three sections, each with its own pair of flippers[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -34,9 +34,8 @@ Unlike traditional pinball simulations of its era, Creep Night deliberately took
 > **Platforms:** Windows, Mac OS, Windows 3.x[^ref-5][^ref-20]
 > **Release Year:** 1996
 > **Series:** 3-D Ultra Pinball
-> **Sierra Lineage:** Core Sierra
-> **Engine:** 3D Ultra Pinball Engine
 > **Protagonist:** N/A
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
@@ -46,11 +45,11 @@ The premise is that, after a hundred years of dormancy, a vortex to the Underwor
 
 ### Interface and Controls
 
-Creep Night utilizes standard pinball controls adapted for computer play, with players controlling flippers to keep the ball in play while attempting to complete various objectives[^ref-4]. The game offers "a belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options" that make it "one of the most adaptable pinball games to scare up attention," according to Gamecenter's Chuck Miller[^ref-1].
+Creep Night utilizes standard pinball controls adapted for computer play, with players controlling flippers to keep the ball in play while attempting to complete various objectives[^ref-4]. The game offers "a belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options" that make it "one of the most adaptable pinball games to scare up attention," according to Gamecenter's Chuck Miller[^ref-29].
 
 ### Structure and Progression
 
-The game is structured around three main tables arranged in what sources describe as "3 smaller tables arranged horizontally"[^ref-2]. Each table represents a different area of the haunted castle theme, and players work through mission-based objectives with five tasks per table[^ref-4]. A hidden fourth table lurks somewhere in the game, providing additional content for dedicated players[^ref-2][^ref-4]. Finishing all the challenges on one table lets the player travel to the others, and after all three tables are beaten a changed Castle table appears with five new challenges[^ref-12]. Tables can be played individually or all together as a campaign[^ref-20].
+The game is structured around three main tables arranged in what sources describe as "3 smaller tables arranged horizontally"[^ref-2]. Each table represents a different area of the haunted castle theme, and players work through mission-based objectives with five tasks per table[^ref-4]. A hidden fourth table, reached through a mini-game, provides additional content for dedicated players[^ref-2][^ref-4][^ref-27]. Finishing all the challenges on one table lets the player travel to the others, and after all three tables are beaten a changed Castle table appears with five new challenges[^ref-12]. Tables can be played individually or all together as a campaign[^ref-20].
 
 ### Puzzles and Mechanics
 
@@ -69,18 +68,18 @@ Creep Night received mixed to positive reviews from gaming publications of the m
 | Génération 4 | 4/5 | French publication[^ref-1] |
 | Joystick | 80% (PC), 60% (Mac) | Notable platform disparity[^ref-1] |
 | Gamezilla | 88% | Reviewed by Bob Mandel[^ref-1][^ref-25] |
-| PC Multimedia & Entertainment | 88% | "Right balance of excellent sights and sounds"[^ref-1] |
+| PC Multimedia & Entertainment | 88% | Rod White, November 7, 1996; overall rating, "right balance of excellent sights and sounds"[^ref-27] |
 | PC Games (DE) | 68% | German publication[^ref-1] |
 | PC Joker | 74% | October 1996 issue[^ref-1] |
-| MacUser | 3/5 | Roman Loyola, March 1997[^ref-1] |
+| MacUser | 3/5 | Roman Loyola, March 1997[^ref-1][^ref-30] |
 | PC Player | 4 stars | Monica Stoscheck[^ref-1] |
 | Score | 3/10 | Notably negative outlier[^ref-1] |
 
-Computer Gaming World's Charlotte Panther concluded that "Creep Night is an entertaining game with plenty of scope for replayability"[^ref-1][^ref-3]. Mac Game Gate's Robert Edvardsson called it "one of the finest pinball simulators available for the Mac," praising its sound effects, music, and graphics[^ref-1]. PC Multimedia & Entertainment awarded it 88%, stating that "Creepnight offers the right balance of excellent sights and sounds, with non-stop addictively compelling gameplay!"[^ref-1] Gamezilla's Bob Mandel cautioned that for "traditional pinball aficionados who want to play only classic pinball" it was "not the best choice", pointing them to Crystal Caliburn and Full Tilt Pinball instead[^ref-25].
+Computer Gaming World's Charlotte Panther concluded that "Creep Night is an entertaining game with plenty of scope for replayability"[^ref-1][^ref-3]. Mac Game Gate's Robert Edvardsson, reviewing the playable Macintosh demo, called it "one of the finest pinball simulators avalible [sic] for the Mac," praising its sound effects, music, and graphics[^ref-28]. PC Multimedia & Entertainment's Rod White gave it an overall 88% (graphics 88%, sound and music 86%, gameplay 87%), concluding that "Creepnight offers the right balance of excellent sights and sounds, with non-stop addictively compelling gameplay!"[^ref-27] MacUser's Roman Loyola judged that it "doesn't have quite the same realistic feel as Pro Pinball, but that doesn't mean it's not an enjoyable game," and found the theme "more cute than scary"[^ref-30]. Gamezilla's Bob Mandel cautioned that for "traditional pinball aficionados who want to play only classic pinball" it was "not the best choice", pointing them to Crystal Caliburn and Full Tilt Pinball instead[^ref-25].
 
 ### Modern Assessment
 
-MobyGames lists a critic average of 75% from 18 ratings[^ref-19]. Hardcore Gaming 101 called it "a vast improvement over the original 3-D Ultra Pinball," noting that it runs at 640×480 in fullscreen and that its music is digitized rather than played through MIDI, though it found the theme less interesting than the first game's Outpost setting[^ref-18]. On My Abandonware, the game holds a 4.48/5 rating from 48 user votes[^ref-5], with users calling it "amazing" and "way better than any of the other 'virtual pinball' apps I've tried"[^ref-5]. Glitchwave users are cooler on it, at 2.96/5 from 7 ratings[^ref-17].
+MobyGames lists a critic average of 75% from 18 ratings[^ref-19]. Hardcore Gaming 101 called it "a vast improvement over the original 3-D Ultra Pinball," noting that it runs at 640×480 in fullscreen (MobyGames lists both 640×480 and 800×600 as supported Windows resolutions[^ref-20]) and that its music is digitized rather than played through MIDI, though it found the theme less interesting than the first game's Outpost setting[^ref-18]. On My Abandonware, the game holds a 4.48/5 rating from 48 user votes[^ref-5], with users calling it "amazing" and "way better than any of the other 'virtual pinball' apps I've tried"[^ref-5]. Glitchwave users are cooler on it, at 2.96/5 from 7 ratings[^ref-17].
 
 ## Development
 
@@ -90,13 +89,23 @@ MobyGames lists a critic average of 75% from 18 ratings[^ref-19]. Hardcore Gamin
 
 MobyGames' credits for the Windows version list [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer, Ken Embery as producer, Kyle Miller as designer and art director, Dariusz Lukaszuk and Jon Milnes as lead programmers, and Jerry Carathers as pinball design consultant. The game is dedicated "In Memory of Dariusz Lukaszuk (1964-1996)"[^ref-20].
 
+The same credits list [[Richard Tunnell]] for additional design help and additional programming, Timothy Steven Clarke for music (with original music composition by LoudMouth Productions), Bill Barrett, Lloyd Brass and Darcy Guhl as voice actors, Full Moon Studios for voice recording, and Jon Milnes for the Macintosh programming. Animation was produced by LA West Production Inc, with Ivan Tomičić as director of animation, Esad Ribić as backgrounds leader, and Peter Lewis and Anthony Lewis on 3D art[^ref-26].
+
 ### Production
 
 The game came out on Macintosh in the United States on August 16, 1996, followed by Windows on September 23, 1996[^ref-23][^ref-14]. A Brazilian release followed in November 1996, and Dice Multi Media published a German re-release in 2005[^ref-23][^ref-5]. A Portuguese version was also created that included multiple language options[^ref-7].
 
+| Release | Date | Notes |
+|---------|------|-------|
+| Macintosh (US) | August 16, 1996 | Earliest dated release[^ref-23] |
+| Windows (US) | September 23, 1996 | [^ref-23] |
+| Windows 16-bit (US) | September 26, 1996 | [^ref-23] |
+| Windows (Brazil) | November 1996 | Distributed by Brasoft[^ref-23] |
+| Windows (Germany) | 2005 | Dice Multi Media Europe release[^ref-23] |
+
 ### Technical Achievements
 
-The game shipped on CD-ROM[^ref-20] and uses an isometric perspective[^ref-5]. Compared with the first game, it runs at 640×480 in fullscreen, has better render quality with much less dithering, and uses digitized music instead of MIDI[^ref-18]. It also offers multiple skill-level adjustments and toggleable detail options[^ref-1].
+The game shipped on CD-ROM[^ref-20] and uses an isometric perspective[^ref-5]. MobyGames lists the Windows 95 release as needing an Intel i486, 8 MB of RAM, a 2X CD-ROM drive and 256 colors, with 640×480 and 800×600 supported[^ref-20]. Compared with the first game, Hardcore Gaming 101 found it runs at 640×480 in fullscreen, has better render quality with much less dithering, and uses digitized music instead of MIDI[^ref-18]. It also offers multiple skill-level adjustments and toggleable detail options[^ref-1].
 
 ## Legacy
 
@@ -118,7 +127,7 @@ An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Di
 - [My Abandonware](https://www.myabandonware.com/game/3-d-ultra-pinball-creep-night-3fh) - Full game download with modern compatibility notes[^ref-5]
 - [Internet Archive - Original 1996 Release](https://archive.org/details/3-D_Ultra_Pinball_Creep_Night_Sierra_1996) - Preserved original version[^ref-10]
 - [Internet Archive - Portuguese Version](https://archive.org/details/3-d-ultra-pinball-creep-night-pt-pt) - Multi-language release[^ref-7]
-- [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-2-creep-night.html) - DOSBox-compatible version[^ref-4]
+- [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-2-creep-night.html) - Custom installer that runs the game in DOSBox with Windows 3.1; the manual is included[^ref-4]
 
 ## See Also
 
@@ -162,3 +171,8 @@ An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Di
 [^ref-23]: [MobyGames – 3-D Ultra Pinball: Creep Night Releases](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/releases/) – Release dates by platform and country
 [^ref-24]: [Metacritic - 3-D Ultra Pinball: Creep Night](https://www.metacritic.com/game/3-d-ultra-pinball-creep-night/) - Game summary (premise)
 [^ref-25]: [Gamezilla - 3D Ultra Pinball: Creep Night review by Bob Mandel (Wayback Machine, February 4, 1999)](https://web.archive.org/web/19990204025732/http://www.gamezilla.com/reviews/c/cnpinball.asp) - Contemporary review
+[^ref-26]: [MobyGames – 3-D Ultra Pinball: Creep Night Credits](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/credits/) – Windows (1996) credits, read via the MobyGames API/ScraperAPI
+[^ref-27]: [PC Multimedia & Entertainment – 3D Ultra Pinball: Creepnight review by Rod White, November 7, 1996 (Wayback Machine, June 7, 1997)](https://web.archive.org/web/19970607151043/http://www.pcme.com/ACTION/3DPBALL/3dpball.htm) – Contemporary review, overall 88%
+[^ref-28]: [Mac Game Gate – Creepnight review by Robert Edvardsson (Wayback Machine, January 27, 1999)](https://web.archive.org/web/19990127212621/http://www.macgate.torget.se/Games/reviews/Creepnight.html) – Contemporary review of the Macintosh demo
+[^ref-29]: [Gamecenter – Creep Night review by Chuck Miller (Wayback Machine, February 5, 1997)](https://web.archive.org/web/19970205032340/http://www.gamecenter.com/Reviews/Item/0,6,251,00.html) – Contemporary review
+[^ref-30]: [MacUser – The Game Room by Roman Loyola, March 1997 (Wayback Machine, February 21, 2001)](https://web.archive.org/web/20010221034057/http://macuser.zdnet.com/mu_0397/personal/gameroom.html) – Contemporary review
