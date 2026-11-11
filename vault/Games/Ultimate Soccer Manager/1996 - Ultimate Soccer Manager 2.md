@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-23'
+last_updated: '2026-11-11'
 description: Ultimate Soccer Manager 2 is a 1996 football management game for DOS,
   developed by Impressions and published by Sierra On-Line, with English, French and
   German leagues, a tactics editor for set plays and hotseat play for up to eight managers.
@@ -18,13 +18,13 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: October 23, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Ultimate Soccer Manager 2 (USM2) is a football management game developed by Impressions and published by Sierra On-Line for DOS in 1996[^ref-1][^ref-24]. It is the sequel to [[1995 - Ultimate Soccer Manager]]. Games Domain's review lists a November 1996 release and notes that the game also runs from Windows 3.1 and Windows 95[^ref-22]. The CD-ROM holds English, French and German leagues, each run from its own executable[^ref-1][^ref-25]. Up to eight people can manage clubs in hotseat play on one PC[^ref-1][^ref-22][^ref-25].
 
-The box billed it as "The most comprehensive football management sim yet" and asked "Best buy of the season?"[^ref-22]. Reviewers judged it less deep than Championship Manager 2 but praised its tactics editor, which lets the manager design set plays and in-match moves[^ref-22][^ref-24][^ref-26]. PC Zone gave it 80, PC Gamer UK 75% and PC Review 8 out of 10[^ref-24][^ref-26][^ref-25]. In Germany it was sold cheaply through Karstadt as the *DSF Fußball Manager*[^ref-27][^ref-28][^ref-29].
+Games Domain reported that the box asked "Best buy of the season?", and that the game "touts itself" as "The most comprehensive football management sim yet"[^ref-22]. Reviewers judged it less deep than Championship Manager 2 but praised its tactics editor, which lets the manager design set plays and in-match moves[^ref-22][^ref-24][^ref-26]. PC Zone gave it 80 and PC Review 8 out of 10, and PC Gamer UK's score of 75% is known only from a note in its following issue[^ref-24][^ref-25][^ref-26]. In Germany it was sold cheaply through Karstadt as the *DSF Fußball Manager*[^ref-27][^ref-28][^ref-29].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -68,13 +68,13 @@ The commercial side covers ground development, shops, bars and restaurants, adve
 |-------------|-------|-------|
 | PC Review #63 (Christmas 1996) | 8/10 | "Accurate, easy to play and fun, this game is well worth the money"[^ref-25] |
 | PC Zone #45 (December 1996) | 80 | Reviewed by Patrick McCarthy; "Worth a look if you like the PM3 style – but not as good as CM2"[^ref-24] |
-| PC Gamer UK #37 (December 1996) | 75% | Score reported on the following issue's cover-CD page[^ref-26] |
+| PC Gamer UK (issue before #38) | 75% | Second-hand: reported on the cover-CD page of issue #38 (Christmas 1996); the original review issue was not found[^ref-26] |
 | PC Games (Germany) 4/97 | 71% | *DSF Fußballmanager*, reviewed by Petra Maueröder[^ref-27] |
 | PC Joker 3/97 | 70% | *DSF Fußball Manager*; "Viel Fußballmanagement für wenig Geld"[^ref-28] |
 | PC Player (Germany) 4/97 | 2 of 5 stars | *DSF Fußball-Manager*, reviewed by Michael Schnelle[^ref-29] |
-| PC Format (July 1997) | 79% | Sierra Originals budget re-release at £9.99[^ref-30] |
+| PC Format (July 1997) | 79% | Sierra Originals budget re-release at £9.99; a retailer advertisement in the same issue lists 82% as the "highest review" (magazine not named)[^ref-30][^ref-39] |
 
-PC Review's reviewer, credited as (AW), was impressed by the "smooth animation and glorious SVGA graphics". The review praised the eight-player mode and the three leagues, which meant no "costly add-on discs later, as with Championship Manager 2". Its main complaint was pace: the fastest match speed was x8[^ref-25]. PC Zone's Patrick McCarthy found the transfer market and ratings lacking "in the reality stakes". He said he got Robbie Fowler for £2.3m on the first day. He still judged USM2 "a worthy addition" to the field beside Championship Manager 2 and Premier Manager 3[^ref-24]. PC Gamer UK's demo note credited the 75% to the game's "accessibility, tactics editor and unrivalled match view"[^ref-26].
+PC Review's reviewer, credited as (AW), was impressed by the "smooth animation and glorious SVGA graphics". The review praised the eight-player mode and the three leagues, which meant no "costly add-on discs later, as with Championship Manager 2". Its main complaint was pace: the fastest match speed was x8[^ref-25]. PC Zone's Patrick McCarthy found the transfer market and ratings lacking "in the reality stakes". He said he got Robbie Fowler for £2.3m on the first day. He still judged USM2 "a worthy addition" to the field beside Championship Manager 2 and Premier Manager 3[^ref-24]. PC Gamer UK's issue #38 demo note credited the 75% to the game's "accessibility, tactics editor and unrivalled match view"[^ref-26].
 
 Games Domain's Barak Engel liked the interface and the tactics editor, but listed a sparse manual, few statistics and odd match timekeeping among the faults. He wrote that "CM2 will stay the king of 'serious' football managers. But USM2 deserves its own kingdom, where newbies and adventurers alike are welcome"[^ref-22].
 
@@ -82,7 +82,7 @@ German magazines reviewed the cut-price DSF edition. PC Games called its strateg
 
 ### Later Assessment
 
-Reviewing the budget re-release in July 1997, PC Format called USM2 "Sierra's hit management sim". It warned that the new season's manager games would "put USM2 in the shade, but it's the best of the genre available at this price"[^ref-30]. PC Zone's February 1998 preview of the sequel said USM2 "successfully continued the evolution of the series" and was "highly fancied by those people in the know", even though it never matched Championship Manager 2's profile[^ref-31].
+Reviewing the budget re-release in July 1997, PC Format called USM2 "Sierra's hit management sim" and rated it 79%. (The 82% in that issue's Special Reserve advertisement is the retailer's "highest review" figure, with no magazine named, so it is not a PC Format score.) It warned that the new season's manager games would "put USM2 in the shade, but it's the best of the genre available at this price"[^ref-30]. PC Zone's February 1998 preview of the sequel said USM2 "successfully continued the evolution of the series" and was "highly fancied by those people in the know", even though it never matched Championship Manager 2's profile[^ref-31].
 
 ### Modern Assessment
 
@@ -109,7 +109,7 @@ MobyGames' DOS credits list the following team[^ref-32]:
 
 The Sierra Chest's credits list matches[^ref-17]. The Sierra Chest lists the game's engine as "Unknown/unnamed"; no engine name is documented[^ref-17].
 
-The README lists these minimum requirements: a 486 DX 33, a double-speed CD-ROM drive, 8 MB of RAM, MS-DOS 5.0 or later, an SVGA card, a Sound Blaster Pro or compatible, 22 MB of hard disk space, and a mouse with a Microsoft-compatible DOS driver[^ref-8]. It also gives steps for starting the game from Windows 3.1 or Windows 95[^ref-8]. UK prices varied: PC Zone listed £39.95, PC Review £34.99, and Games Domain gave a street price of £25[^ref-24][^ref-25][^ref-22].
+The README lists these minimum requirements: a 486 DX 33, a double-speed CD-ROM drive, 8 MB of RAM, MS-DOS 5.0 or later, an SVGA card, a Sound Blaster Pro or compatible, 22 MB of hard disk space, and a mouse with a Microsoft-compatible DOS driver[^ref-8]. It also gives steps for starting the game from Windows 3.1 or Windows 95[^ref-8]. UK prices varied: PC Zone listed £39.95, PC Review £34.99, and Games Domain gave a street price of £25[^ref-24][^ref-25][^ref-22]. In January and February 1997 PC Zone's "Our Price" chart box listed USM2 (Sierra) at £29.99, and the January issue noted that the game had "the added attraction of a free Fantasy Football Diary". The chart was PC Zone's own selection of titles it expected to sell well, not a sales ranking[^ref-37][^ref-38].
 
 ### Technical Achievements
 
@@ -146,7 +146,7 @@ The game is not sold today. It is preserved on the Internet Archive and playable
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/ultimate-soccer-manager-2-2e0)[^ref-2]
 - [Internet Archive](https://archive.org/details/msdos_Ultimate_Soccer_Manager_2_1996)[^ref-3]
-- [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
+- [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)[^ref-40]
 
 **Manuals & Extras**
 - [README (technical and gameplay tips, v1.00)](https://www.freegameempire.com/games/Ultimate-Soccer-Manager-2/manual)[^ref-8]
@@ -182,3 +182,7 @@ The game is not sold today. It is preserved on the Internet Archive and playable
 [^ref-34]: [MobyGames – Ultimate Soccer Manager series](https://www.mobygames.com/group/4584/ultimate-soccer-manager-series/) – series membership and order
 [^ref-35]: [PC Gamer (US) #16 (September 1995), "Sierra acquires Impressions Software"](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n41/mode/2up) – Sierra's acquisition of Impressions
 [^ref-36]: [Old-Games.com – Ultimate Soccer Manager 2](https://www.old-games.com/download/4980/ultimate-soccer-manager-2) – player review: betting on matches, including against your own team
+[^ref-37]: [PC Zone #46 (January 1997), Our Price chart, p. 30](https://archive.org/details/PC_Zone_46_January_1997) – chart box lists "USM2 (Sierra) £29.99"; text: "Ultimate Soccer Manager 2 has the added attraction of a free Fantasy Football Diary"; chart described as "the titles that we think will be flying off the shelves"
+[^ref-38]: [PC Zone #47 (February 1997), Our Price chart, p. 27](https://archive.org/details/PC_Zone_47_February_1997) – chart box again lists "USM2 (Sierra) £29.99"
+[^ref-39]: [PC Format (July 1997), Special Reserve advertisement](https://archive.org/details/pcformat_july1997) – lists "ULTIMATE SOCCER MANAGER 2 82%"; the ad's key reads "xx% = Highest review"; no magazine named. The page's own Price Busters review (ref-30) gives 79%
+[^ref-40]: [Classic Reload – Ultimate Soccer Manager 2](https://classicreload.com/ultimate-soccer-manager-2.html) – browser-playable preservation copy
