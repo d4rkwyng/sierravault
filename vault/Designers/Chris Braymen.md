@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest VI", "Quest for Glory II", "EcoQuest"]
 companies: ["Sierra On-Line", "Sculptured Software", "Kodiak Interactive", "Sony", "Disney Interactive", "WB Games"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Chris Braymen
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -84,48 +84,48 @@ Braymen's King's Quest VI score has since been rearranged in two fan-produced re
 ### Sierra On-Line (1990–1993)
 
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Cartoon Sound Effects (with Mark Seibert)[^ref-25]
-- **1990** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] (Amiga) — Role: with Mark Seibert (possibly arranger)
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Music, Sound (with Mark Seibert)
+- **1990** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] (Amiga) — Role: with Mark Seibert (possibly arranger)[^ref-1]
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Music, Sound (with Mark Seibert)[^ref-5][^ref-1]
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Lead Composer; arranged Al Lowe's main theme[^ref-1][^ref-24]
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Arrangement and Additional Music
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Arrangement and Additional Music[^ref-1]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music arranged and performed (with Mark Seibert and Paul Aleman)[^ref-26]
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music and Sound Effects (with Ken Allen, Robert Atesalp, Orpheus Hanley and Mark Seibert)[^ref-27]
-- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Composer
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Composer[^ref-6][^ref-1]
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Synthesized Score and Sounds (with Ken Allen, Orpheus Hanley and Aubrey Hodges)[^ref-28]
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Composer
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Composer[^ref-7][^ref-1]
 - **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow II: The Dagger of Amon Ra]] — Role: Lead Composer[^ref-21]
 - **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] — Role: MIDIfied Musician (Trombone Solos)[^ref-23]
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Sound Effects; Music Conversions
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Sound Effects; Music Conversions[^ref-11][^ref-1]
 
 ### Post-Sierra (1993–2024)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1993 | Boxing Legends of the Ring (Genesis) | Sculptured Software | Music (with Dean Morrell and Mark Ganus) |
-| 1994 | WWF Raw (Genesis) | Sculptured Software | Music (with Sam Powell, Kingsley Thurber and Scott Freeman) |
-| 1994 | seaQuest DSV (Genesis) | Sculptured Software | Music (with Dean Morrell) |
-| 1994 | Tecmo Super Baseball (Genesis) | Sculptured Software | Arranged Rick Rhodes's score (with Dean Morrell) |
-| 1995 | Mortal Kombat 3 (Genesis) | Sculptured Software | Sound and Drivers (with Roy Wilkins) |
-| 1995 | WWF WrestleMania: The Arcade Game (32X/Genesis) | Sculptured Software | Arranger of Chris Granner's music |
-| 1996 | Ultimate Mortal Kombat 3 (Genesis) | Sculptured Software | Listed by VGMPF, role not stated |
-| 1997 | WWF WrestleMania: The Arcade Game (DOS) | Sculptured Software | Arranger of Chris Granner's music |
-| 1999 | WCW Mayhem (N64) | Kodiak Interactive | Sound Programming |
-| 2000 | WCW Backstage Assault (N64) | Kodiak Interactive | Audio Programming |
-| 2002 | Circus Maximus: Chariot Wars (Xbox) | Kodiak Interactive | Audio Programmer |
-| 2002 | Disney/Pixar Monsters, Inc. (PS2) | Sony | Audio Software Engineer |
-| 2003 | NFL GameDay 2004 (PS2) | Sony | Audio Tools |
-| 2004 | Jet Li: Rise to Honor (PS2) | Sony | Speech Audio Tools |
-| 2005 | Gretzky NHL (PSP) | Sony | Audio Engineer |
-| 2005 | Twisted Metal: Head-On (PSP) | Sony | Audio Tools |
-| 2005 | MLB (PSP) | Sony | Audio Engineer |
-| 2005 | SOCOM 3: U.S. Navy SEALs (PS2) | Sony | Additional Audio Programming |
-| 2006 | Resistance: Fall of Man (PS3) | Sony | Audio Team Engineer |
-| 2007–2014 | MLB 07–14: The Show | Sony | Senior Audio Systems Engineer |
-| 2015 | Disney Infinity: Toy Box 2.0 | Disney Interactive / Avalanche Software | Developer credit |
-| 2017 | Cars 3: Driven to Win | WB Games / Avalanche Software | Developer credit |
-| 2023 | Hogwarts Legacy | WB Games | Engineering |
-| 2023 | MLB The Show 23 | Sony San Diego Studio | Audio Programmers |
-| 2024 | MLB The Show 24 | Sony San Diego Studio | Senior Staff Audio Programmer (MobyGames); Senior Audio Systems Engineer (VGMPF) |
+| 1993 | Boxing Legends of the Ring (Genesis) | Sculptured Software | Music (with Dean Morrell and Mark Ganus)[^ref-1] |
+| 1994 | WWF Raw (Genesis) | Sculptured Software | Music (with Sam Powell, Kingsley Thurber and Scott Freeman)[^ref-1] |
+| 1994 | seaQuest DSV (Genesis) | Sculptured Software | Music (with Dean Morrell)[^ref-1] |
+| 1994 | Tecmo Super Baseball (Genesis) | Sculptured Software | Arranged Rick Rhodes's score (with Dean Morrell)[^ref-1] |
+| 1995 | Mortal Kombat 3 (Genesis) | Sculptured Software | Sound and Drivers (with Roy Wilkins)[^ref-1] |
+| 1995 | WWF WrestleMania: The Arcade Game (32X/Genesis) | Sculptured Software | Arranger of Chris Granner's music[^ref-1] |
+| 1996 | Ultimate Mortal Kombat 3 (Genesis) | Sculptured Software | Listed by VGMPF, role not stated[^ref-1] |
+| 1997 | WWF WrestleMania: The Arcade Game (DOS) | Sculptured Software | Arranger of Chris Granner's music[^ref-1] |
+| 1999 | WCW Mayhem (N64) | Kodiak Interactive | Sound Programming[^ref-1] |
+| 2000 | WCW Backstage Assault (N64) | Kodiak Interactive | Audio Programming[^ref-1] |
+| 2002 | Circus Maximus: Chariot Wars (Xbox) | Kodiak Interactive | Audio Programmer[^ref-1] |
+| 2002 | Disney/Pixar Monsters, Inc. (PS2) | Sony | Audio Software Engineer[^ref-1] |
+| 2003 | NFL GameDay 2004 (PS2) | Sony | Audio Tools[^ref-1] |
+| 2004 | Jet Li: Rise to Honor (PS2) | Sony | Speech Audio Tools[^ref-1] |
+| 2005 | Gretzky NHL (PSP) | Sony | Audio Engineer[^ref-1] |
+| 2005 | Twisted Metal: Head-On (PSP) | Sony | Audio Tools[^ref-1] |
+| 2005 | MLB (PSP) | Sony | Audio Engineer[^ref-1] |
+| 2005 | SOCOM 3: U.S. Navy SEALs (PS2) | Sony | Additional Audio Programming[^ref-1] |
+| 2006 | Resistance: Fall of Man (PS3) | Sony | Audio Team Engineer[^ref-1][^ref-2] |
+| 2007–2014 | MLB 07–14: The Show | Sony | Senior Audio Systems Engineer[^ref-1][^ref-2] |
+| 2015 | Disney Infinity: Toy Box 2.0 | Disney Interactive / Avalanche Software | Developer credit[^ref-2] |
+| 2017 | Cars 3: Driven to Win | WB Games / Avalanche Software | Developer credit[^ref-2] |
+| 2023 | Hogwarts Legacy | WB Games | Engineering[^ref-2] |
+| 2023 | MLB The Show 23 | Sony San Diego Studio | Audio Programmers[^ref-2][^ref-1] |
+| 2024 | MLB The Show 24 | Sony San Diego Studio | Senior Staff Audio Programmer (MobyGames); Senior Audio Systems Engineer (VGMPF)[^ref-1][^ref-2] |
 
 ## References
 
