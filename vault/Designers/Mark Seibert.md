@@ -5,15 +5,17 @@ birth_year: 1960
 death_year: null
 notable_games: ["King's Quest V", "King's Quest VI", "Phantasmagoria", "King's Quest: Mask of Eternity"]
 companies: ["Sierra On-Line", "Gentle Revolution Software", "Breakaway Games"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Mark Seibert
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Mark Seibert is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] Wikipedia gives his birth year as 1960 and his birthplace as California.[^ref-1] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella,[^ref-1][^ref-5] and MobyGames' credit sheet (September 2022 capture) lists him on more than 50 games.[^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
+Mark Seibert (credited as "Mark Siebert" in some listings)[^ref-2] is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] Wikipedia gives his birth year as 1960 and his birthplace as California.[^ref-1] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella,[^ref-1][^ref-5] and MobyGames' credit sheet (September 2022 capture) lists him on more than 50 games.[^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
+
+He is not the German-language musical-theatre performer who has the same name; that Mark Seibert has his own official website describing him as a "Musicaldarsteller" (musical performer).[^ref-26]
 
 ## Career
 
@@ -23,11 +25,11 @@ In the early 1980s Seibert toured with the Christian band Omega Sunrise. In his 
 
 He wrote his music on sheet music paper and then entered it into Sequencer Plus Gold, later moving to Cakewalk.[^ref-3]
 
-Most accounts date his answer to Sierra's newspaper advertisement to 1987; in a 1998 interview he said, "Back in 1988 I responded to an ad in the paper. There was this company, Sierra On-Line, looking for a musician."[^ref-1][^ref-5][^ref-10] Sierra hired him as a musician and music editor for King's Quest IV: The Perils of Rosella (1988).[^ref-1][^ref-5]
+Most accounts date his answer to Sierra's newspaper advertisement to 1987; in a 1998 interview he said, "Back in 1988 I responded to an ad in the paper. There was this company, Sierra On-Line, looking for a musician."[^ref-1][^ref-5][^ref-10] Sierra hired him as a musician and music editor for King's Quest IV: The Perils of Rosella (1988).[^ref-1][^ref-5] In a 1997 interview with Wilco's Domain he gave an earlier, hedged date: "I started at Sierra in 1987 (if I remember correctly). The first project I worked on was King's Quest 4. I edited all of the music and wrote one very short little piece."[^ref-24]
 
 ### Sierra Years (1987–2001)
 
-Within a few years Seibert became Sierra's music director.[^ref-1] In 1992 InterAction described him as "Music Director and head of Sierra's professional in-house recording studio," in charge of "recruiting and recording all the vocal talent."[^ref-18] He worked alongside composers such as Ken Allen, Christopher Braymen and Aubrey Hodges.[^ref-3]
+Within a few years Seibert became Sierra's music director.[^ref-1] In 1992 InterAction described him as "Music Director and head of Sierra's professional in-house recording studio," in charge of "recruiting and recording all the vocal talent."[^ref-18] He worked alongside composers such as Ken Allen, Christopher Braymen and Aubrey Hodges.[^ref-3] Asked about Space Quest IV, he said: "The credits for SQ4 list me as the Music Director, which was my title at the time. The credits also show myself and another person [Ken Allen, -ed] as the people who wrote the music," adding that Allen was "a little more experienced than some of the other people on staff" and that he "was able to do much less editing and writing on this project because of this."[^ref-24]
 
 "Girl in the Tower," sent to radio stations to promote King's Quest VI in 1992, was "Composed by Mark Seibert with lyrics by KQVI co-designer Jane Jensen" and performed by Bob Bergthold and Debbie Seibert.[^ref-19] In his liner notes he explained that he spun it off "from the basic motifs" of Cassima's Theme in King's Quest V, "thus tying the two games together."[^ref-17] He also chose the 20 tracks on The Sierra Soundtrack Collection (1992), drawn from King's Quest V, Codename: ICEMAN, Police Quest II, Conquests of Camelot, Quest for Glory I, Conquests of the Longbow and King's Quest VI.[^ref-17][^ref-19]
 
@@ -101,7 +103,7 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] — Role: Music Director
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Music Director
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Music
-- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Composer
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music Director; one of five credited for "Music and Sound Effects" (MobyGames' 2012 credits page; its 2022 sheet groups this as composer)[^ref-25][^ref-2]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music Arranged and Performed
 - **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle's Official Book of Games: Volume 3]] — Role: Music/Sound Programming (the instruction booklet credits him as Music Director)[^ref-23]
 - **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose (VGA/CD)]] — Role: Composer
@@ -163,3 +165,6 @@ Credits follow MobyGames unless noted.[^ref-2] Entries marked "self-reported" co
 [^ref-21]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music Director: Mark Seibert"; "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"
 [^ref-22]: [MobyGames – The Dagger of Amon Ra credits (DOS, 1992)](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – "Music Director: Mark Seibert"; The Archaeologist Song: "Guitar: Mark Seibert"
 [^ref-23]: [Internet Archive – Hoyle Official Book of Games Volume 3 instructions](https://archive.org/details/hoyle-offical-book-of-games-v3-instructions) – Period scan, instruction booklet p. 12: "Music Director: Mark Seibert"
+[^ref-24]: [Wilco's Domain interview with Mark Seibert (1997; Wayback copy, January 2002)](http://web.archive.org/web/20020105171716/http://wiw.org:80/~jess/domainseibert.html) – Interview conducted in 1997, republished courtesy of Troels Pleimert: "I started at Sierra in 1987 (if I remember correctly)"; KQ4 first project; his account of his SQ4 role
+[^ref-25]: [MobyGames – Castle of Dr. Brain credits (DOS; Wayback, October 2012)](http://web.archive.org/web/20121007131202/http://www.mobygames.com:80/game/dos/castle-of-dr-brain/credits) – "Music Director: Mark Seibert"; "Music and Sound Effects by: Ken Allen, Robert Atesalp, Chris Braymen, Orpheus Hanley, Mark Seibert" (game ID 1523 confirmed via MobyGames API)
+[^ref-26]: [Mark Seibert – Offizielle Website Musicaldarsteller](https://www.mark-seibert.com/) – Official site of a different Mark Seibert, a musical-theatre performer (German-language site; concerts and musicals in Germany, Austria and elsewhere)
