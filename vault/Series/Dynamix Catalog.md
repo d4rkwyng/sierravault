@@ -7,12 +7,12 @@ first_release: 1985
 last_release: 2001
 total_games: 112
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -110,7 +110,7 @@ The Front Page Sports line began with *Front Page Sports Football* in 1992.[^ref
 ### Trophy Bass and outdoor sports (1995–2000)
 
 - [[1995 - Trophy Bass]], [[1996 - Front Page Sports - Trophy Bass 2]], [[1999 - Field & Stream - Trophy Bass 3D]], [[2000 - Field & Stream - Trophy Bass 4]][^ref-1]
-- [[1998 - Sierra Sports - Bass Fishing]], [[1998 - Sierra Sports Skiing 1999 Edition]], [[1997 - Driver's Education '98]]
+- [[1998 - Sierra Sports - Bass Fishing]], [[1998 - Sierra Sports Skiing 1999 Edition]], and, also from 1998, [[1997 - Driver's Education '98|Driver's Education '98]] (an educational driving simulator; its page carries the 1998 release year)
 
 ### 3-D Ultra (1995–2000)
 
@@ -184,6 +184,20 @@ Before 1989 Dynamix's games were published by other companies, among them Pengui
 
 Sources for the table: Wikipedia's list of Dynamix games[^ref-1] and MobyGames.[^ref-2] *Sword of Kadash* came out in 1985 for the Apple II and Commodore 64.[^ref-1][^ref-29] Where MobyGames credits Dynamix only with a port, the table says so.
 
+## Playing Today
+
+As of November 11, 2026, GOG sells these catalog games:
+
+- [[1990 - Rise of the Dragon]] ([GOG](https://www.gog.com/en/game/rise_of_the_dragon))[^ref-38]
+- [[1991 - The Adventures of Willy Beamish]] ([GOG](https://www.gog.com/en/game/the_adventures_of_willy_beamish))[^ref-39]
+- [[1991 - Heart of China]] ([GOG](https://www.gog.com/en/game/heart_of_china))[^ref-40]
+- [[1993 - Betrayal at Krondor]] ([GOG](https://www.gog.com/en/game/betrayal_at_krondor)), sold as the *Betrayal at Krondor Pack*, which also includes *Betrayal in Antara*[^ref-41]
+- [[1998 - Red Baron 3D]], [[1990 - Red Baron]] and [[1992 - Red Baron - Mission Builder]] ([GOG](https://www.gog.com/en/game/red_baron_pack)), sold together as the *Red Baron Pack*[^ref-42]
+- [[1996 - MissionForce - Cyberstorm]] ([GOG](https://www.gog.com/en/game/missionforce_cyberstorm))[^ref-43]
+- [[1997 - Outpost 2 - Divided Destiny]] ([GOG](https://www.gog.com/en/game/outpost_2_divided_destiny))[^ref-44]
+
+On Steam, the *Red Baron Pack* by Mad Otter Games is listed ([store page](https://store.steampowered.com/app/263940/)), as is the later, non-Dynamix [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] ([store page](https://store.steampowered.com/app/2687970/)).[^ref-45][^ref-46] A search of GOG's catalog on the same date found no listing for the Tribes, Starsiege, Aces, Incredible Machine or Rama games, and a Steam store search found no listing for the other Dynamix titles above.
+
 ## Studio History
 
 ### Founding and pre-Sierra (1984–1990)
@@ -246,3 +260,12 @@ Several Dynamix veterans, Tunnell among them, stayed in Eugene and founded Garag
 [^ref-35]: [MobyGames — Championship Baseball](https://www.mobygames.com/game/1901/) — read via the MobyGames API: Atari ST 1987, Amiga 1988; developed by Gamestar, ported by Dynamix, published by Activision
 [^ref-36]: [MobyGames — GBA Championship Basketball: Two-on-Two](https://www.mobygames.com/game/9031/) — read via the MobyGames API: Amiga and Atari ST 1986-10; developed by Gamestar, ported by Dynamix, published by Activision
 [^ref-37]: [MobyGames — The Train: Escape to Normandy](https://www.mobygames.com/game/2276/) — read via the MobyGames API: DOS 1988; developed by Artech, ported by Dynamix, published by Accolade
+[^ref-38]: [GOG — Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — live store page, checked 2026-11-11; developer listed as Dynamix
+[^ref-39]: [GOG — The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) — live store page, checked 2026-11-11; developer listed as Dynamix
+[^ref-40]: [GOG — Heart of China](https://www.gog.com/en/game/heart_of_china) — live store page, checked 2026-11-11; developer listed as Dynamix
+[^ref-41]: [GOG — Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) — live store page, checked 2026-11-11; "pack includes two games: Betrayal at Krondor and Betrayal in Antara"
+[^ref-42]: [GOG — Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) — live store page, checked 2026-11-11; "pack includes Red Baron 1, Red Baron: Mission Builder and Red Baron 3D"
+[^ref-43]: [GOG — MissionForce: CyberStorm](https://www.gog.com/en/game/missionforce_cyberstorm) — live store page, checked 2026-11-11; developer listed as Dynamix
+[^ref-44]: [GOG — Outpost 2: Divided Destiny](https://www.gog.com/en/game/outpost_2_divided_destiny) — live store page, checked 2026-11-11
+[^ref-45]: [Steam — Red Baron Pack](https://store.steampowered.com/app/263940/) — Mad Otter Games, released January 7, 2016; original Red Baron, Red Baron 3D and Mission Builder; checked 2026-11-11
+[^ref-46]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — Prophecy Games, released March 12, 2024; checked 2026-11-11
