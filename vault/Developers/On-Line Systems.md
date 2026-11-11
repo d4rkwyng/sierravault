@@ -6,11 +6,11 @@ defunct: 1982
 headquarters: "Simi Valley, California (1979–1980); Coarsegold and Oakhurst, California (1980–1982)"
 notable_games: ["Hi-Res Adventure 1: Mystery House", "Hi-Res Adventure 2: The Wizard and the Princess", "Time Zone", "Threshold"]
 parent_company: "Sierra On-Line (became)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # On-Line Systems
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ Ken went looking for outside programmers. He advertised royalties of 16 percent 
 
 ### Rename to Sierra On-Line
 
-On-Line Systems was renamed Sierra On-Line in 1982 and moved to Oakhurst, taking its new name from the nearby Sierra Nevada mountains.[^ref-1][^ref-30] Sources differ on the date: some company histories put the rename in 1980, and HistoryLink dates it to 1983, when the company moved into its own building.[^ref-3][^ref-13] Under the Sierra name the company launched *King's Quest* in 1984, built on the new Adventure Game Interpreter. *Space Quest* followed in 1986, and later *Leisure Suit Larry*, a modern version of *Softporn Adventure*.[^ref-1]
+On-Line Systems became Sierra On-Line, taking its new name from the nearby Sierra Nevada mountains.[^ref-1][^ref-13] The company's first Oakhurst office dates from December 1980, and its own headquarters building at 48677 Victoria Lane opened in 1983.[^ref-27][^ref-43] The Strong and Wikipedia date the rename to 1982.[^ref-1][^ref-30] The sources differ on the exact date. HistoryLink's Roberta Williams biography says the rename came when a developer who owned the company's Oakhurst office building offered to build a new headquarters in 1982, with the Victoria Lane building opening in 1983. Another HistoryLink article says the company moved into its own building "in 1983" and the name "was changed to Sierra On-Line" then, and some company histories put the rename in 1980.[^ref-43][^ref-13][^ref-3] Under the Sierra name the company launched *King's Quest* in 1984, built on the new Adventure Game Interpreter. *Space Quest* followed in 1986, and later *Leisure Suit Larry*, a modern version of *Softporn Adventure*.[^ref-1]
 
 ## Notable Games
 
@@ -75,29 +75,32 @@ The company itself continued as Sierra On-Line, later Sierra Entertainment, whos
 
 ## Games
 
-- **1980**: [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0: Mission Asteroid]] (Adventure)
-- **1980**: [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] (Adventure)
-- **1980**: [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] (Adventure)
-- **1980**: [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] (Casino)
-- **1980**: [[1980 - Hi-Res Football|Hi-Res Football]] (Sports Simulation; late 1980: advertised as "coming soon" in September 1980 and on *Softalk*'s Top Thirty from January to April 1981[^ref-32][^ref-40][^ref-35])
-- **1981**: [[1981 - Hi-Res Soccer|Hi-Res Soccer]] (Sports Simulation; announced in *Softalk*, April 1981[^ref-35])
-- **1981**: [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3: Cranston Manor]] (Adventure)
-- **1981**: [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] (Adventure)
-- **1981**: [[1981 - Crossfire|Crossfire]] (Shooter)
-- **1981**: [[1981 - Gobbler|Gobbler]] (Arcade)
-- **1981**: [[1981 - Jawbreaker|Jawbreaker]] (Arcade)
-- **1981**: [[1981 - Pegasus II|Pegasus II]] (Shooter)
-- **1981**: [[1981 - Sabotage|Sabotage]] (Shooter)
-- **1981**: [[1981 - Softporn Adventure|Softporn Adventure]] (Adventure; publisher)
-- **1981**: [[1981 - Threshold|Threshold]] (Shoot 'em up)
-- **1982**: [[1982 - Adventure in Serenia|Adventure in Serenia]] (Adventure)
-- **1982**: [[1982 - Cannonball Blitz|Cannonball Blitz]] (Arcade)
-- **1982**: [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] (Adventure)
-- **1982**: [[1982 - Jawbreaker II|Jawbreaker II]] (Arcade; publisher)
-- **1982**: [[1982 - Laf Pak|Laf Pak]] (Arcade)
-- **1982**: [[1982 - Marauder|Marauder]] (Shooter)
-- **1982**: [[1982 - Mouskattack|Mouskattack]] (Action)
-- **1982**: [[1982 - Pest Patrol|Pest Patrol]] (Shooter)
+| Year | Game | Genre |
+|------|------|-------|
+| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | Adventure |
+| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Adventure |
+| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Adventure |
+| 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Casino |
+| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Sports Simulation; late 1980: advertised as "coming soon" in September 1980 and on *Softalk*'s Top Thirty from January to April 1981[^ref-32][^ref-40][^ref-35] |
+| 1981 | [[1981 - Hi-Res Soccer\|Hi-Res Soccer]] | Sports Simulation; announced in *Softalk*, April 1981[^ref-35] |
+| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure 3: Cranston Manor]] | Adventure |
+| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Adventure |
+| 1981 | [[1981 - Crossfire\|Crossfire]] | Shooter |
+| 1981 | [[1981 - Gobbler\|Gobbler]] | Arcade |
+| 1981 | [[1981 - Jawbreaker\|Jawbreaker]] | Action |
+| 1981 | [[1981 - Pegasus II\|Pegasus II]] | Shooter |
+| 1981 | [[1981 - Sabotage\|Sabotage]] | Shooter |
+| 1981 | [[1981 - Softporn Adventure\|Softporn Adventure]] | Adventure; publisher |
+| 1981 | [[1981 - Threshold\|Threshold]] | Shooter |
+| 1982 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | Adventure |
+| 1982 | [[1982 - Cannonball Blitz\|Cannonball Blitz]] | Action Platformer |
+| 1982 | [[1982 - Creepy Corridors\|Creepy Corridors]] | Arcade; one of the four games on the *Laf Pak* disk, published by On-Line Systems in 1982[^ref-44] |
+| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Adventure |
+| 1982 | [[1982 - Jawbreaker II\|Jawbreaker II]] | Arcade; publisher |
+| 1982 | [[1982 - Laf Pak\|Laf Pak]] | Arcade |
+| 1982 | [[1982 - Marauder\|Marauder]] | Shooter |
+| 1982 | [[1982 - Mouskattack\|Mouskattack]] | Action |
+| 1982 | [[1982 - Pest Patrol\|Pest Patrol]] | Shooter |
 
 ## References
 
@@ -131,3 +134,5 @@ The company itself continued as Sierra On-Line, later Sierra Entertainment, whos
 [^ref-40]: [Softalk, January 1981 (Internet Archive)](https://archive.org/details/softalkv1n05jan1981) — Top Thirty includes "Hi-Res Football, Jay Sullivan and Ken Williams, On-Line Systems"
 [^ref-41]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) — Sources disagree on the first office. Softalk's February 1981 profile says the Williamses "opened an office and hired their first two employees" and that "their office is on the top floor of Coarsegold's tallest office building—a two-story structure." Filfre (ref-27) and HistoryLink (ref-13) place the first office in Oakhurst, with John Williams as the first employee. The difference may reflect the company's Coarsegold mailing address; it is unresolved.
 [^ref-42]: [Halcyon Days - Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — "Threshold took about four months to write start to finish. That includes the two weeks that Ken and I..."
+[^ref-43]: [HistoryLink - Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) — Developer who owned the Oakhurst office building offered a new headquarters; "The new headquarters, located at 48677 Victoria Lane, would open in 1983. At this time the company name was changed from On-Line Systems to Sierra On-Line"
+[^ref-44]: [Internet Archive - Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) — "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"
