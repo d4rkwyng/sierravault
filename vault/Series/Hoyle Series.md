@@ -80,7 +80,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2015 | [[2015 - Hoyle Official Card Games Collection\|Hoyle Official Card Games Collection 2015]] | |
 | 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Official Casino Games Collection]] | Latest release; Encore, September 2016 (Steam: October 14, 2016)[^ref-26][^ref-13][^ref-1] |
 
-The vault does not yet have a page for every Hoyle edition: Sierra Chest and Wikipedia list editions not covered here, such as *Hoyle Hearts & Spades*. The `total_games` figure counts vault pages, not editions.[^ref-4][^ref-1]
+The vault does not yet have a page for every Hoyle edition: Sierra Chest and Wikipedia list editions not covered here, such as *Hoyle Hearts & Spades*. The timeline above has 50 entries covering the vault's 55 Hoyle pages, with duplicate pages for one product grouped in a single entry.[^ref-4][^ref-1]
 
 ### Duplicate and uncertain pages
 
