@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Sierra Studios"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Dargan was game designer on SWAT 3: Close Quarters Battle (1999) and its Elite E
 
 Police Quest: Open Season is Dargan's best-known and most controversial game. PC Gamer wrote: "Daryl F. Gates was presented as the author of the game, but most of it was actually designed and written by Sierra staffer Tammy Dargan."[^ref-2] VICE adds that "Gates gave her script notes."[^ref-35] Hardcore Gaming 101 likewise concluded that the game "actually seems to be designed by Tammy Dargan."[^ref-39] MobyGames credits her with design, writing and direction, and as producer, with Gates credited as author.[^ref-19][^ref-37]
 
-The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] According to the Starling Database, Dargan said her main inspiration for the dialogue of characters such as "Raymond Jones The Third" and "Yo Money" was Fab Five Freddy's slang dictionary Fresh Fly Flavor: Words and Phrases of the Hip-Hop Generation.[^ref-3] Asked by Vibe magazine about the dialogue, Gates said: "I told [Sierra] that these people use the same language that you and I use."[^ref-35]
+The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] According to the Starling Database, Dargan said her main inspiration for the dialogue of characters such as "Raymond Jones The Third" and "Yo Money" was Fab Five Freddy's slang dictionary Fresh Fly Flavor: Words and Phrases of the Hip-Hop Generation.[^ref-3] Starling does not name where she said this; Wikipedia's article on the game attributes the same defense to Joseph Tirella's "Video Vigilante" in Vibe, April 1994, p. 23, which this page has not been able to read directly, so the claim rests on those two secondary accounts.[^ref-3][^ref-40] Asked by Vibe magazine about the dialogue, Gates said: "I told [Sierra] that these people use the same language that you and I use."[^ref-35]
 
 ### Police Quest: SWAT (1995)
 
@@ -67,33 +67,39 @@ Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Ope
 
 ### Sierra On-Line (1991–1999)
 
-- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Producer
-- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Producer
-- **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's: Leisure Suit Larry's Casino]] — Role: Producer
-- **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's: Parlor Games with Laura Bow]] — Role: Producer
-- **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's: Robin Hood's Games of Skill and Chance]] — Role: Producer
-- **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] — Role: Producer
-- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Role: Producer
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Producer
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Designer, Director, Producer, Writer
-- **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Role: Director, Lead Designer, Project Leader, Writer, Producer
-- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Role: Project Manager
-- 1997 — King's Quest: Collection Series — Producer, Director
-- **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Role: Designer, Director, Writer
+| Year | Title | Role |
+|------|-------|------|
+| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Producer[^ref-43] |
+| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Producer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's: Leisure Suit Larry's Casino]] | Producer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow\|Crazy Nick's: Parlor Games with Laura Bow]] | Producer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance\|Crazy Nick's: Robin Hood's Games of Skill and Chance]] | Producer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] | Producer |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Producer |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Producer |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer, Director, Producer, Writer |
+| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Director, Lead Designer, Project Leader, Writer, Producer |
+| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Project Manager[^ref-42] |
+| 1997 | **King's Quest: Collection Series** (no vault page) | Producer, Director |
+| 1999 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle]] | Designer, Director, Writer[^ref-41] |
 
 ### Sierra/Vivendi Years (2000–2006)
 
-- **2000** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle – Elite Edition]] — Role: Designer, Director, Writer
-- **2001** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Tactical Game of the Year Edition]] — Role: Designer, Director, Writer
-- 2006 — King's Quest Collection (re-release) — Producer, Director
+| Year | Title | Role |
+|------|-------|------|
+| 2000 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle – Elite Edition]] | Designer, Director, Writer |
+| 2001 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Tactical Game of the Year Edition]] | Designer, Director, Writer |
+| 2006 | **King's Quest Collection** (re-release; no vault page) | Producer, Director |
 
 ### Special Thanks
 
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]][^ref-18]
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]][^ref-4]
-- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|Lost Secret of the Rainforest]][^ref-18]
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]][^ref-18]
-- **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]][^ref-4]
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Special Thanks[^ref-18][^ref-19] |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Special Thanks[^ref-19] |
+| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] | Special Thanks[^ref-18][^ref-19] |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Special Thanks[^ref-18][^ref-19] |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Special Thanks[^ref-19] |
 
 ## References
 
@@ -107,10 +113,14 @@ Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Ope
 [^ref-14]: [IGN - SWAT 3: Close Quarters Battle Interview (June 16, 1999)](https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) — Rod Fung on the game designer Tammy Dargan and tactical teams
 [^ref-16]: [IMDb - Tammy Dargan](https://www.imdb.com/name/nm1010950/) — Associate producer, America's Most Wanted: America Fights Back (1990, 1 episode); game producer credits
 [^ref-17]: [The Digital Antiquarian - Chief Gates Comes to Oakhurst (2019)](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) — Open Season's development; Corey Cole on 'indigenous'; Dargan at the head of the SWAT series
-[^ref-18]: [SCI Wiki - Tammy Dargan](http://sciwiki.sierrahelp.com/index.php/Tammy_Dargan) — Credit list including Special Thanks roles
+[^ref-18]: [SCI Wiki - Tammy Dargan](http://sciwiki.sierrahelp.com/index.php/Tammy_Dargan) — Credit list including Special Thanks roles (not reachable on 2026-11-11: HTTP 511 on both sciwiki.sierrahelp.com and wiki.sierrahelp.com; no Wayback copy found)
 [^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/3083/tammy-dargan/credits/) — Complete game development credits
 [^ref-35]: [VICE - How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s (2018)](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Gates as nominal 'author', Dargan as writer/designer, Gates' Vibe remark
 [^ref-36]: [InterAction Magazine, Fall 1995 - An Interview with SWAT Producer Tammy Dargan (archive.org)](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) — Sierra magazine interview: tactical simulation, video-captured SWAT officers, Gates on Dargan reading the LAPD SWAT manual
 [^ref-37]: [MobyGames - Daryl F. Gates Police Quest: Open Season, DOS credits (Wayback, February 28, 2025)](http://web.archive.org/web/20250228145756/https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/dos/) — "Producer \\ Director Tammy Dargan; Designer \\ Writer Tammy Dargan"; Author Daryl F. Gates; Cinematographer Rod Fung
 [^ref-38]: [MobyGames - Daryl F. Gates' Police Quest: SWAT, DOS credits (Wayback, May 16, 2026)](http://web.archive.org/web/20260516224857/https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) — Designer, Director and Writer Tammy Dargan; Producers Tammy Dargan, Phy Williams
 [^ref-39]: [Hardcore Gaming 101 - Police Quest: Open Season (Wayback, December 6, 2022)](https://web.archive.org/web/20221206200735/http://www.hardcoregaming101.net/police-quest-open-season/) — Game "actually seems to be designed by Tammy Dargan, who had previously worked on the television show America's Most Wanted"
+[^ref-40]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) — States Dargan defended the dialogue as based on Fab Five Freddy's rap dictionary, citing Tirella, "Video Vigilante," Vibe, April 1994, p. 23; secondary pointer, original not read
+[^ref-41]: [MobyGames - SWAT 3: Close Quarters Battle, Windows credits (Wayback, December 22, 2023)](https://web.archive.org/web/20231222062439/https://www.mobygames.com/game/845/swat-3-close-quarters-battle/credits/windows/) — Producer Rod Fung; Game Designer, Writer and Director Tammy Dargan
+[^ref-42]: [MobyGames - Phantasmagoria: A Puzzle of Flesh, DOS credits (Wayback, October 12, 2023)](https://web.archive.org/web/20231012171315/https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/credits/dos/) — Project Manager Tammy Dargan
+[^ref-43]: [MobyGames - EcoQuest: The Search for Cetus, DOS credits (Wayback, December 9, 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) — Producer Tammy Dargan
