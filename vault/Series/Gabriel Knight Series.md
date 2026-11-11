@@ -8,12 +8,12 @@ last_release: 2014
 total_games: 4
 unreleased_games: 1
 genre: "Adventure, Horror"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Gabriel Knight Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -140,6 +140,7 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 
 ### Compatibility
 - **[ScummVM](https://www.scummvm.org/)** - Supports Sins of the Fathers and The Beast Within (GK1 and GK2). GK3 is not supported.[^ref-9]
+- **GOG** - The GOG version of Sins of the Fathers (v2 changelog, 29 October 2026) adds the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode, alongside the DOS version running on DOSBox in VGA mode, with a launcher to pick between them.[^ref-31]
 
 ### Remakes & Upcoming
 
@@ -195,3 +196,4 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 [^ref-28]: [Wikipedia - Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – "developed by Pinkerton Road Studio and Phoenix Online Studios, and published by Phoenix Online Publishing"
 [^ref-29]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)
 [^ref-30]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – Developers: Phoenix Online Studios, Pinkerton Road Studio; Publisher: Pinkerton Road Studio
+[^ref-31]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – GOG v2 changelog (29 October 2026): "Added the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode."

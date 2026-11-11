@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Dungeon Campaign", "Wilderness Campaign", "Odyssey: The Compleat Apventure", "Spirit of Excalibur", "Birthright: The Gorgon's Alliance", "Diablo: Hellfire"]
 companies: ["Synergistic Software", "Boeing", "Sierra On-Line"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Robert Clardy
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -52,6 +52,10 @@ In 1996, Comp-U-Card International (CUC) acquired Sierra On-Line and Davidson & 
 Clardy's own MobyGames biography dates his Synergistic years "1979 - 1996", and Black Gate says he left in 1996, but he was still running the studio through 1997: in early 1997 he was among the CUC studio heads who met in Las Vegas to plan projects, and MobyGames credits him as a designer of Birthright: The Gorgon's Alliance and as General Manager of Hellfire (both 1997).[^ref-1][^ref-4][^ref-9] In his own account, Synergistic "focused just on computer games for a few years" under Sierra before "the Clardys eventually left to seek new experiences."[^ref-9]
 
 Synergistic continued operating as an independent development division within Sierra. Its late projects included Diablo: Hellfire (1997), an expansion pack for Blizzard's Diablo developed at Sierra's request.[^ref-4] Polygon calls Hellfire Synergistic's last project, though MobyGames credits the studio with Front Page Sports: Football Pro '98 (1997) and NFL Football Pro '99 (December 1998).[^ref-4][^ref-27][^ref-28] According to Polygon, "Hellfire was far and away Synergistic's most financially successful project according to Bob Clardy."[^ref-4] Synergistic and three other Sierra divisions were closed on February 22, 1999, "Chainsaw Monday."[^ref-4][^ref-5] Clardy later said that "just about every principal from all the studios quit or moved to some other firm in the next few years as none of us could stand working for Cendant."[^ref-4]
+
+### Post-Sierra Career (1996–2001)
+
+Clardy's own MobyGames biography dates this stretch "1996 - 2001" and describes it as "Between 'real' jobs." He played the stock market "during the heady end of the millennium," started several pet welfare organizations including The PetHelpers Network, and tried to start a new game development company, Eclectic Games, "but just could not get enthused enough about doing it all again."[^ref-9] In mid-2000, by his account, he "joined with Annette Schofield and Livingsoft to make sewing pattern generating software."[^ref-9]
 
 ## Notable Works
 
@@ -105,7 +109,8 @@ Black Gate describes Clardy's work as "a big part of the foundation for almost a
 
 Several factors contributed to the relative obscurity of these groundbreaking games.[^ref-1] The early Synergistic titles were only released on the Apple II platform, which, while successful, was heavily outnumbered by the TRS-80 in the early years.[^ref-1] Being among the first in this small market meant limited exposure and sales.[^ref-1] By the time the personal computer market exploded and games were being enjoyed by tens or hundreds of thousands of people, later titles like Dunjonquest, Ultima, and Wizardry achieved much more fame and success.[^ref-1]
 
-In 2017, Clardy published his autobiography, "Cyber Jack: The Adventures of Robert Clardy and Synergistic Software," documenting his extensive career in computer game development.[^ref-13] A companion volume, "Synergistic Software: The Early Games," also published by A.P.P.L.E., provides detailed documentation of the company's early Apple II titles.[^ref-2] 
+In 2017, Clardy published his autobiography, "Cyber Jack: The Adventures of Robert Clardy and Synergistic Software," documenting his extensive career in computer game development.[^ref-13] A companion volume, "Synergistic Software: The Early Games," also published by A.P.P.L.E., provides detailed documentation of the company's early Apple II titles.[^ref-2] A.P.P.L.E. announced new color second editions of both books on July 20, 2025; the revised "Early Games" includes 20 enhanced manuals.[^ref-13][^ref-2] The Cyber Jack announcement says that over 37 years of programming and publishing, Clardy "either wrote, designed, or directed the development of over 400 published programs." That is a third figure beside the "more than 160 titles" A.P.P.L.E. credits to the company and the "over 150 products" of his own biography, and the sources do not say how each is counted.[^ref-13][^ref-2][^ref-9]
+
 
 ## Games
 
@@ -131,31 +136,31 @@ Roles follow MobyGames.[^ref-9][^ref-19]
 
 | Year | Title | Publisher | Role |
 |------|-------|-----------|------|
-| 1987 | [[1985 - Thexder\|Thexder]] (Apple II, Apple IIgs, DOS; CoCo 1988) | Sierra On-Line | Project Director, Level Editor (both uncredited) |
+| 1987 | [[1985 - Thexder\|Thexder]] (Apple II, Apple IIgs, DOS; CoCo 1988) | Sierra On-Line | Project Director, Level Editor (both uncredited)[^ref-16] |
 | 1987 | Space Ranger (Arcade; Amiga 1988) | Arcadia Systems | Director, Original Game Design, Graphics[^ref-29] |
 | 1987 | Laser Surgeon: The Microscopic Mission | Activision | Program design[^ref-30] |
 | 1988 | AAARGH! (Apple IIgs port) | Arcadia Systems | Apple IIgs version[^ref-31] |
-| 1989 | *J.R.R. Tolkien's War in Middle Earth* (DOS, Amiga) | Melbourne House | Director, Game Design |
-| 1989 | The Third Courier | Accolade | Programmer |
-| 1990 | *Spirit of Excalibur* | Virgin Mastertronic | Director |
+| 1989 | *J.R.R. Tolkien's War in Middle Earth* (DOS, Amiga) | Melbourne House | Director, Game Design[^ref-40] |
+| 1989 | The Third Courier | Accolade | Programmer[^ref-33] |
+| 1990 | *Spirit of Excalibur* | Virgin Mastertronic | Director[^ref-41] |
 | 1990 | Low Blow | Electronic Arts | Game Design[^ref-22] |
 | 1990 | Delta Command / NY Warriors (Amiga 1990; DOS 1991) | Virgin Mastertronic (DOS: Virgin Games) | Managed by; Original game concept (DOS)[^ref-26] |
-| 1991 | *Vengeance of Excalibur* | Virgin Games | Design |
-| 1991 | *Conan: The Cimmerian* | Virgin Games | Director, Original Game Design |
-| 1992 | LA Law: The Computer Game | Capstone Software | Director, Original Game Design, Story and Dialog |
-| 1993 | The Beverly Hillbillies | Capstone Software | Director |
-| 1993 | Homey D. Clown | Capstone Software | Director, Original Story and Design |
-| 1993 | Super Battleship | Mindscape | Director, Game Design, Programmer |
+| 1991 | *Vengeance of Excalibur* | Virgin Games | Design[^ref-42] |
+| 1991 | *Conan: The Cimmerian* | Virgin Games | Director, Original Game Design[^ref-44] |
+| 1992 | LA Law: The Computer Game | Capstone Software | Director, Original Game Design, Story and Dialog[^ref-34] |
+| 1993 | The Beverly Hillbillies | Capstone Software | Director[^ref-43] |
+| 1993 | Homey D. Clown | Capstone Software | Director, Original Story and Design[^ref-35] |
+| 1993 | Super Battleship | Mindscape | Director, Game Design, Programmer[^ref-36] |
 | 1993 | Warriors of Legend | Virgin Games | Direction and Original Design[^ref-23] |
 | 1994 | Spectre (SNES port; developed by Peninsula Gameworks) | Cybersoft (US), GameTek UK (Europe) | Direction[^ref-24] |
-| 1995 | Carrier Aces | Cybersoft | Director |
-| 1995 | *Air Cavalry* | Cybersoft | Director |
-| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Sierra On-Line | Designer, Director, Level Design |
+| 1995 | Carrier Aces | Cybersoft | Director[^ref-37] |
+| 1995 | *Air Cavalry* | Cybersoft | Director[^ref-38] |
+| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Sierra On-Line | Designer, Director, Level Design[^ref-47] |
 | 1996 | Total Meltdown | Sierra On-Line | Direction[^ref-25] |
-| 1997 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Sierra On-Line | Computer Game Designer, Voices |
-| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Sierra On-Line | General Manager |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Sierra On-Line | Special Thanks |
-| 1997 | Betrayal in Antara | Sierra On-Line | Special Thanks |
+| 1997 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Sierra On-Line | Computer Game Designer, Voices[^ref-45] |
+| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Sierra On-Line | General Manager[^ref-46] |
+| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Sierra On-Line | Special Thanks[^ref-27] |
+| 1997 | Betrayal in Antara | Sierra On-Line | Special Thanks[^ref-39] |
 
 ### Synergistic Software company credits (not personal credits)
 
@@ -171,7 +176,7 @@ These are games and ports credited to Synergistic Software as a company, after W
 - 1988 — Rockford — Arcadia — Developer
 - 1988 — SideWinder — Arcadia — Developer (MobyGames: original game concept by Clardy)[^ref-19]
 - 1988 — [[1988 - Silpheed|Silpheed]] — Sierra On-Line — TRS-80 Color Computer port[^ref-17]
-- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Sierra On-Line — developed by Dynamix; MobyGames also credits Synergistic
+- 1996 — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Sierra On-Line — developed by Dynamix; MobyGames also credits Synergistic
 - 1996 — Triple Play 97 — EA Sports — Developer
 
 ## References
@@ -204,3 +209,18 @@ These are games and ports credited to Synergistic Software as a company, after W
 [^ref-30]: [MobyGames – Laser Surgeon: The Microscopic Mission](https://www.mobygames.com/game/9954/laser-surgeon-the-microscopic-mission/) – Read via the MobyGames API: DOS and TRS-80 CoCo, 1987, published by Activision, developed by Synergistic Software
 [^ref-31]: [MobyGames – Aaargh!](https://www.mobygames.com/game/1641/aaargh/) – Read via the MobyGames API: Apple IIgs 1988 published by Arcadia Systems, developed by Sculptured Software, ported by Synergistic Software
 [^ref-32]: [MobyGames – Microbe: The Anatomical Adventure](https://www.mobygames.com/game/122649/microbe-the-anatomical-adventure/) – Read via the MobyGames API: Apple II, 1982, published and developed by Synergistic Software
+[^ref-33]: [MobyGames – The Third Courier](https://www.mobygames.com/game/2362/the-third-courier/) – Read via the MobyGames API: DOS, October 1989, published by Accolade, developed by Synergistic Software and Manley & Associates; Clardy's "Program by" credit is in ref 19
+[^ref-34]: [MobyGames – LA Law: The Computer Game](https://www.mobygames.com/game/32088/la-law-the-computer-game/) – Read via the MobyGames API: DOS, 1992, published by Capstone Software, developed by Synergistic Software
+[^ref-35]: [MobyGames – Homey D. Clown](https://www.mobygames.com/game/4035/homey-d-clown/) – Read via the MobyGames API: DOS, 1993, published by Capstone Software, developed by Synergistic Software
+[^ref-36]: [MobyGames – Super Battleship: The Classic Naval Combat Game](https://www.mobygames.com/game/40960/super-battleship-the-classic-naval-combat-game/) – Read via the MobyGames API: SNES and Genesis, 1993, published by Mindscape, developed by Synergistic Software
+[^ref-37]: [MobyGames – Carrier Aces](https://www.mobygames.com/game/31572/carrier-aces/) – Read via the MobyGames API: SNES, 1995, published by Cybersoft, developed by Synergistic Software
+[^ref-38]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – Read via the MobyGames API: SNES, June 1995, published by Cybersoft, developed by Synergistic Software
+[^ref-39]: [MobyGames – Betrayal in Antara](https://www.mobygames.com/game/695/betrayal-in-antara/) – Read via the MobyGames API: Windows, 1997, published and developed by Sierra On-Line; Clardy's "Special Thanks To" credit is in ref 19
+[^ref-40]: [MobyGames – J.R.R. Tolkien's War in Middle Earth](https://www.mobygames.com/game/1477/jrr-tolkiens-war-in-middle-earth/) – Read via the MobyGames API: DOS, 1989, published by Melbourne House, developed by Synergistic Software
+[^ref-41]: [MobyGames – Spirit of Excalibur](https://www.mobygames.com/game/2539/spirit-of-excalibur/) – Read via the MobyGames API: DOS, 1990, published by Virgin Mastertronic (UK) and Virgin Games (US), developed by Synergistic Software
+[^ref-42]: [MobyGames – Vengeance of Excalibur](https://www.mobygames.com/game/1751/vengeance-of-excalibur/) – Read via the MobyGames API: DOS, 1991, published by Virgin Games, developed by Synergistic Software
+[^ref-43]: [MobyGames – The Beverly Hillbillies](https://www.mobygames.com/game/3291/the-beverly-hillbillies/) – Read via the MobyGames API: DOS, 1993, published by Capstone Software, developed by Synergistic Software
+[^ref-44]: [MobyGames – Conan: The Cimmerian](https://www.mobygames.com/game/6182/conan-the-cimmerian/) – Read via the MobyGames API: DOS, 1991, published by Virgin Games, developed by Synergistic Software
+[^ref-45]: [MobyGames – Birthright: The Gorgon's Alliance](https://www.mobygames.com/game/1410/birthright-the-gorgons-alliance/) – Read via the MobyGames API: DOS, 1997, published by Sierra On-Line, developed by Synergistic Software
+[^ref-46]: [MobyGames – Hellfire](https://www.mobygames.com/game/1462/hellfire/) – Read via the MobyGames API: Windows, 1997, published by Sierra On-Line, developed by Synergistic Software (MobyGames lists the game as "Hellfire"); Clardy's "General Manager" credit is in ref 19
+[^ref-47]: [MobyGames – Thexder (1995, Windows)](https://www.mobygames.com/game/2857/thexder/) – Read via the MobyGames API: Windows, 1995, published by Sierra On-Line, developed by Synergistic Software

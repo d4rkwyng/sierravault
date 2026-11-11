@@ -7,12 +7,12 @@ first_release: 1980
 last_release: 1984
 total_games: 12
 genre: "Adventure (pre-AGI)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Hi-Res Adventures Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -57,7 +57,7 @@ Hi-Res Cribbage's release date is disputed: a 1986 *Computist* softkey article s
 
 ## The Wizard and the Princess (1980)
 
-Roberta Williams's second adventure was the company's first major commercial hit. Set in the fairy-tale kingdom of Serenia, it was "the first adventure game with color graphics".[^ref-26] Softalk's sales chart for September 1980 showed it second among Apple II software, behind only VisiCalc.[^ref-27] It eventually sold over 60,000 copies against Mystery House's 10,000, and by the end of 1980 Ken and Roberta had rented their first office space near their new home in Coarsegold.[^ref-7][^ref-13]
+Roberta Williams's second adventure was the company's first major commercial hit. Set in the fairy-tale kingdom of Serenia, it was "the first adventure game with color graphics".[^ref-26] Softalk's sales chart for September 1980 showed it second among Apple II software, behind only VisiCalc.[^ref-27] It eventually sold over 60,000 copies against Mystery House's 10,000, and by the end of 1980 Ken and Roberta had rented their first office space near their new home in Coarsegold.[^ref-7]
 
 The IBM PC booter release of 1982 carried the title [[1982 - Adventure in Serenia|Adventure in Serenia]].[^ref-8]
 
@@ -82,7 +82,7 @@ After *The Dark Crystal*, Sierra's next adventure engine was [[Adventure Game In
 
 ## Critical reception and legacy
 
-Softalk's sales chart for September 1980 already showed The Wizard and the Princess as the second-best-selling piece of Apple II software, behind only VisiCalc.[^ref-27][^ref-13] In its November 1996 fifteenth-anniversary issue, *Computer Gaming World* ranked Mystery House fourth among the most innovative games of all time: "Roberta's first game was the first adventure game to use text and graphics together on the screen".[^ref-25]
+Softalk's sales chart for September 1980 already showed The Wizard and the Princess as the second-best-selling piece of Apple II software, behind only VisiCalc.[^ref-27][^ref-7] In its November 1996 fifteenth-anniversary issue, *Computer Gaming World* ranked Mystery House fourth among the most innovative games of all time: "Roberta's first game was the first adventure game to use text and graphics together on the screen".[^ref-25]
 
 The series's lasting legacy:
 
@@ -92,6 +92,14 @@ The series's lasting legacy:
 4. **Numbered series**: the games were numbered #0 to #6.[^ref-1]
 
 Ken and Roberta Williams jointly received the inaugural Industry Icon Award at The Game Awards 2014.[^ref-15] Mystery House is not in the World Video Game Hall of Fame; their later *King's Quest* was inducted in 2020.[^ref-16]
+
+## Playing Today
+
+The original Hi-Res Adventures were Apple II programs on 5¼-inch disks. Checks of the Steam and GOG catalogs on 2026-11-11 found no store listing for any of the numbered Hi-Res Adventures. The Internet Archive's Software Library offers *Mystery House* as an Apple II disk image that runs in the browser through its emulator, with the 1980 On-Line Systems release listed as the source.[^ref-33]
+
+### Mystery House (2027) on Steam
+
+A new 3D game based on Roberta Williams's original is listed on Steam as *Mystery House*, from developer Guillotine Games and publisher MMMera, Inc. As of 2026-11-11 the page shows "Coming Q2 2027", lists Windows as the only platform, and has a separate demo entry. Its short description calls it "a first and third-person horror revival of Roberta Williams' Mystery House", in which "a game night in an abandoned Victorian House turns deadly". The store text describes "a full 3D revival" with "a deeper modern narrative, voice acting, and cinematic staging" and multiple endings; it is a new interpretation of the premise rather than the 1980 game itself.[^ref-32]
 
 ## See Also
 
@@ -114,13 +122,12 @@ Ken and Roberta Williams jointly received the inaugural Industry Icon Award at T
 [^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — "100% assembly language"; Ziploc bags; "born in earnest in May of 1980"
 [^ref-4]: [Wikipedia — Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — "Like Sierra's early titles in the Hi-Res Adventures series, AGI games used vector graphics"
 [^ref-5]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) and [Ken and Roberta](https://www.filfre.net/2011/10/ken-and-roberta/) — Founding; Ken's remote terminal with a copy of Adventure
-[^ref-7]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Over 60,000 copies vs Mystery House's 10,000; office near Coarsegold
+[^ref-7]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Over 60,000 copies vs Mystery House's 10,000; office near Coarsegold; Softalk sales chart, September 1980
 [^ref-8]: [MobyGames — Hi-Res Adventure #2: The Wizard and the Princess](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) — ID 1761 (verified via API): alternate title "Adventure in Serenia"; PC Booter 1982
 [^ref-9]: [Wikipedia — Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) — Six double-sided floppy disks, 39 scenarios; "one of the first games of this magnitude"
 [^ref-10]: [The Digital Antiquarian — Time Zone: Aftermath](https://www.filfre.net/2012/06/time-zone-aftermath/) — "a fairly cool reception"; sales "very disappointing"; Atari 400/800 port plans; "Ken's ADL adventure-scripting language"
 [^ref-11]: [Wikipedia — The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) — Engine ADL; based on Jim Henson's 1982 film; first SierraVenture release; Gelfling Adventure for younger players (1984)
 [^ref-12]: [Sierra Help Wiki — Hi-Res Adventure Series](https://wiki.sierrahelp.com/index.php/Hi-Res_Adventure_Series) — Designers Roberta Williams, Harold DeWitz, Ken Williams; "Engines: ADL"; platforms
-[^ref-13]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Softalk sales chart, September 1980
 [^ref-15]: [Wikipedia — The Game Awards 2014](https://en.wikipedia.org/wiki/The_Game_Awards_2014) — "Industry Icon Award Ken and Roberta Williams (Sierra Entertainment)"
 [^ref-16]: [The Strong National Museum of Play — King's Quest (World Video Game Hall of Fame)](https://www.museumofplay.org/games/kings-quest/) — King's Quest, "Inducted Year: 2020"
 [^ref-17]: [Halcyon Days — Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — "I was the first programmer that Sierra ever hired in 1981"
@@ -138,3 +145,5 @@ Ken and Roberta Williams jointly received the inaugural Industry Icon Award at T
 [^ref-29]: [Softalk, February 1981 (Vol. 1 No. 6), Internet Archive](https://archive.org/details/softalkv1n06feb1981) — "Cribbage by Warren Schwader and Superscript by David Kidwell represent the first attempt by On-Line Systems to publish programs totally generated by outside authors"
 [^ref-30]: [Hardcore Computist #35 — Softkey for Hi-Res Cribbage (Internet Archive)](https://archive.org/details/computist-scan-35) — William Hinger: "This game was released in 1980"
 [^ref-31]: [Retro365 — Hi-Res Cribbage, Warren Schwader, one of the first-hired programmers](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) — Ernst Krogtoft: "re-released on floppy under the name Hi-Res Cribbage in early 1981"
+[^ref-32]: [Steam — Mystery House (Guillotine Games)](https://store.steampowered.com/app/3108560/Mystery_House/) — Read 2026-11-11 (store page and appdetails API): developer Guillotine Games, publisher MMMera, Inc; "Coming Q2 2027"; "A first and third-person horror revival of Roberta Williams' Mystery House"
+[^ref-33]: [Internet Archive — Hi-Res Adventure #1: Mystery House (On-Line Systems) (1980)](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) — Software Library item, Apple II (emulator apple2e), browser-playable; read 2026-11-11
