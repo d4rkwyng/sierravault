@@ -5,17 +5,17 @@ founded: 2015
 headquarters: "Frisco, Texas, United States"
 parent_company: "The Gearbox Entertainment Company (Take-Two Interactive / 2K, since June 2024)"
 related_companies: ["Gearbox Software"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Gearbox Publishing
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Gearbox Publishing is the publishing arm of the Gearbox group.[^ref-3] [[Gearbox Software|Gearbox Software]] established it in 2015 to publish third-party games, and first announced it to the public in December 2016.[^ref-1] In 2019 The Gearbox Entertainment Company was set up as the parent of both Gearbox Software and Gearbox Publishing, and Embracer Group bought Gearbox Entertainment in April 2021.[^ref-1]
 
-Take-Two Interactive announced on March 27, 2024 that it would buy Gearbox Entertainment for $460 million and add it to its 2K label (Embracer dated its own announcement March 28). The deal covered all four Gearbox Entertainment subsidiaries, Gearbox Publishing among them, and closed on June 11, 2024 (Embracer).[^ref-22][^ref-1][^ref-17][^ref-24] Wikipedia says the Gearbox Publishing division was later absorbed into 2K.[^ref-1] Embracer kept a separate business, Gearbox Publishing San Francisco, which was renamed Arc Games in April 2024; it should not be confused with this company.[^ref-10][^ref-16]
+Take-Two Interactive announced on March 27, 2024 that it would buy Gearbox Entertainment for $460 million and add it to its 2K label (Embracer dated its own announcement March 28). The deal covered all four Gearbox Entertainment subsidiaries, Gearbox Publishing among them, and closed on June 11, 2024 (Embracer).[^ref-22][^ref-1][^ref-17][^ref-24] Wikipedia says the Gearbox Publishing division was later absorbed into 2K; no Take-Two or 2K primary source found states this directly, though 2K's own site lists Gearbox Entertainment among its studios.[^ref-1][^ref-27] Embracer kept a separate business, Gearbox Publishing San Francisco, and it should not be confused with this company. That business was the North American arm of Perfect World Entertainment, which Embracer bought in December 2021 and rebranded as Gearbox Publishing San Francisco on April 22, 2022; it was renamed Arc Games in April 2024.[^ref-25][^ref-10][^ref-16]
 
 For information about the Gearbox development studio's work on Sierra properties, see [[Gearbox Software|Gearbox Software (Developer)]].
 
@@ -23,7 +23,7 @@ For information about the Gearbox development studio's work on Sierra properties
 
 The Homeworld series was developed by [[Relic Entertainment|Relic Entertainment]] and first published by Sierra Studios in 1999.[^ref-4][^ref-11] Sierra also released the stand-alone expansion Homeworld: Cataclysm (2000) and Homeworld 2 (2003).[^ref-4][^ref-18]
 
-After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was two years before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and Gearbox Publishing later published two new Homeworld games developed by Blackbird Interactive: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
+After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was two years before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and in June 2017 released Cataclysm under the new title Homeworld: Emergence on GOG, where Gearbox Software is listed as publisher.[^ref-26] Gearbox Publishing later published two new Homeworld games developed by Blackbird Interactive: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
 
 ## Games Published
 
@@ -58,3 +58,6 @@ After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auct
 [^ref-22]: [Take-Two Interactive - Take-Two Interactive Software, Inc. to Acquire The Gearbox Entertainment Company (March 27, 2024)](https://www.take2games.com/ir/news/take-two-interactive-software-inc-acquire-gearbox-entertainment) - "Transaction valued at $460 million"; "Gearbox Entertainment is composed of four subsidiaries: Gearbox Software, Gearbox Publishing, Gearbox Studio, and Gearbox Properties"; "Gearbox operates studios in Frisco, Texas"
 [^ref-23]: [Gearbox Software - Homeworld Acquisition and Plans (April 22, 2013; Wayback)](https://web.archive.org/web/20160831174042/http://www.gearboxsoftware.com/2013/04/homeworld-acquisition-and-plans/) - "Gearbox Software has prevailed as the highest bidder in the acquisition of the Homeworld franchise from THQ."
 [^ref-24]: [Game Developer - Gearbox is officially out from under Embracer Group (June 12, 2024)](https://www.gamedeveloper.com/business/gearbox-is-officially-out-from-under-embracer-group) - Embracer "has confirmed its deal to sell the bulk of Gearbox to Take-Two Interactive has been completed"
+[^ref-25]: [TechRaptor - Perfect World Entertainment is Now Gearbox Publishing San Francisco (April 22, 2022)](https://techraptor.net/gaming/news/perfect-world-entertainment-is-now-gearbox-publishing) - "Perfect World Entertainment is now Gearbox Publishing San Francisco. The move comes a few months after Embracer Group bought the company back in December 2021"
+[^ref-26]: [GOG - Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence) - Developer and publisher Gearbox Software; GOG release date June 22, 2017 (original release August 12, 2000)
+[^ref-27]: [2K - Gearbox Entertainment](https://2k.com/en-US/studios/gearbox/) - Gearbox Entertainment listed among 2K's studios; the page does not mention Gearbox Publishing
