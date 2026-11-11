@@ -6,16 +6,16 @@ defunct: 1999
 headquarters: "Oakhurst, California, USA"
 notable_games: ["Police Quest: SWAT 2", "Quest for Glory V: Dragon Fire", "The Realm Online", "Babylon 5: Into the Fire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Yosemite Entertainment
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Yosemite Entertainment was the name used from 1998 for Sierra On-Line's original Oakhurst, California, location.[^ref-1] In Sierra's 1998 reorganization it housed Sierra FX, the division for adventure games and online multiplayer games, which was based at Sierra's old headquarters in Oakhurst and publicly referred to as Yosemite Entertainment.[^ref-1] MobyGames credits it with two released games, Police Quest: SWAT 2 and Quest for Glory V: Dragon Fire (both 1998); Dragon Fire was its last.[^ref-26][^ref-5]
+Yosemite Entertainment was the name used from 1998 for Sierra On-Line's original Oakhurst, California, location; a May 27, 1998 press release announced the name for what it called a nearly 20-year-old design facility.[^ref-1][^ref-28] In Sierra's 1998 reorganization it housed Sierra FX, the division for adventure games and online multiplayer games, which was based at Sierra's old headquarters in Oakhurst and publicly referred to as Yosemite Entertainment.[^ref-1] MobyGames credits it with two released games, Police Quest: SWAT 2 and Quest for Glory V: Dragon Fire (both 1998); Dragon Fire was its last.[^ref-26][^ref-5]
 
 The studio was closed on February 22, 1999, the day that became known as "Chainsaw Monday."[^ref-1][^ref-19] Of its three major projects, the *Babylon 5* space simulator and the Middle-earth MMORPG were moved to Bellevue, Washington, and cancelled about six months later; a Navy SEAL shooter was cancelled outright.[^ref-19] IGN reported at the time that Sierra was folding Yosemite into its Bellevue headquarters and that its Middle Earth Online, Navy Seals and Babylon 5 projects were "being folded into the Sierra FX brand name."[^ref-27]
 
@@ -23,9 +23,9 @@ The studio was closed on February 22, 1999, the day that became known as "Chains
 
 ### Formation and Sierra's Reorganization
 
-Sierra moved its headquarters from Oakhurst to the Seattle area in 1993; Ken Williams cited the difficulty of convincing senior executives to move to rural Oakhurst.[^ref-24] The Oakhurst location was later renamed Yosemite Entertainment and continued under that name until early 1999.[^ref-1] After CUC International's acquisition of Sierra in 1996 and a restructuring in 1998, Sierra was divided into five sub-brands: Sierra Attractions, Sierra Home, Sierra Sports, Sierra Studios, and Sierra FX.[^ref-1] Craig Alexander was the studio's manager.[^ref-19][^ref-4]
+Sierra moved its headquarters from Oakhurst to the Seattle area in 1993; Ken Williams cited the difficulty of convincing senior executives to move to rural Oakhurst.[^ref-24] The Oakhurst location was later renamed Yosemite Entertainment and continued under that name until early 1999.[^ref-1] The studio's own press release, dated May 27, 1998, announced the name, with General Manager Craig Alexander saying it "distinguishes us from the rest of the company," and presented the studio's titles as released under the new Sierra FX brand of Sierra's parent, Cendant Software.[^ref-28] After CUC International's acquisition of Sierra in 1996 and a restructuring in 1998, Sierra was divided into five sub-brands: Sierra Attractions, Sierra Home, Sierra Sports, Sierra Studios, and Sierra FX.[^ref-1] Craig Alexander was the studio's manager.[^ref-19][^ref-4][^ref-28]
 
-Former Sierra designer Josh Mandel, in a eulogy quoted by The Digital Antiquarian, wrote that in Oakhurst "the artists and programmers who helped to create those glories were, in fair measure, still living and working there."[^ref-19]
+Former Sierra designer [[Josh Mandel]], in a eulogy quoted by The Digital Antiquarian, wrote that in Oakhurst "the artists and programmers who helped to create those glories were, in fair measure, still living and working there."[^ref-19]
 
 ### Projects and Development
 
@@ -37,7 +37,7 @@ The Realm Online, which Sierra had released in December 1996, was also run from 
 
 ### Cancelled Projects
 
-As of February 1999 Yosemite had three major projects in development, none of them an adventure game: a *Babylon 5* space simulator, a Middle-earth MMORPG conceived as "a far more ambitious successor to The Realm," and an Unreal-engine shooter made in consultation with a former Navy SEAL commander.[^ref-19] The first two were to resume production in Bellevue and the shooter was cancelled outright. An expansion pack for Quest for Glory V was also cancelled.[^ref-19] Both relocated projects were then "cancelled just six months later in Bellevue, as part of another round of 'reorganizing.'"[^ref-19]
+As of February 1999 Yosemite had three major projects in development, none of them an adventure game: a *Babylon 5* space simulator, a Middle-earth MMORPG conceived as "a far more ambitious successor to The Realm," and an Unreal-engine shooter made in consultation with a former Navy SEAL commander.[^ref-19] The first two were to resume production in Bellevue and the shooter was cancelled outright. An expansion pack for Quest for Glory V was also cancelled.[^ref-19] The May 1998 press release had listed the same slate, giving the Middle-earth online game a beta "in mid-1999" and a "squad-based 3D tactical" Navy SEALs game, drawing on the work of author Richard Marcinko, as "slated for completion in May 2000."[^ref-28] Both relocated projects were then "cancelled just six months later in Bellevue, as part of another round of 'reorganizing.'"[^ref-19]
 
 Babylon 5: Into the Fire was a space combat simulator based on the television series. According to Sierra, it was to feature more than 1,000 different ships and 200 unique locations.[^ref-14] In October 1999 lead programmer Dan Foy described the game to Wired as 65 percent complete.[^ref-20]
 
@@ -45,15 +45,15 @@ Middle-earth Online was an early attempt to bring J.R.R. Tolkien's world to the 
 
 ### Closure
 
-On February 22, 1999, staff were called to a 10:00 all-hands meeting in the building's common room and told that the Oakhurst office was closing. Management read out a list of the third of the Oakhurst employees who would be offered relocation to Bellevue, and the rest were given until noon to clear their desks.[^ref-19] Mandel's eulogy says the shutdown put "most of its 125-plus employees out of work." Even Alexander had been given only a few minutes' warning.[^ref-19] The name "Chainsaw Monday" was coined by Space Quest designer Scott Murphy.[^ref-19] The closure came three months after Cendant, which then owned Sierra, agreed to sell its software studios to Havas, a subsidiary of Vivendi.[^ref-4][^ref-19] About 250 people lost their jobs across Sierra, and the entire Oakhurst studio was shut down except for the warehouse and distribution department.[^ref-1]
+On February 22, 1999, staff were called to a 10:00 all-hands meeting in the building's common room and told that the Oakhurst office was closing. Management read out a list of the third of the Oakhurst employees who would be offered relocation to Bellevue, and the rest were given until noon to clear their desks.[^ref-19] Sources give different headcounts. Josh Mandel's eulogy, quoted by The Digital Antiquarian, says the shutdown put "most of its 125-plus employees out of work."[^ref-19] Ken Williams's open letter to the Yosemite staff, quoted by GameSpot, called it "a sad ending to Sierra's 20-year operating history in Oakhurst, which at one time represented over 550 Oakhurst-based employees," a historical peak rather than the 1999 total.[^ref-29] Even Alexander had been given only a few minutes' warning.[^ref-19] The name "Chainsaw Monday" was coined by Space Quest designer Scott Murphy.[^ref-19] The closure came three months after Cendant, which then owned Sierra, agreed to sell its software studios to Havas, a subsidiary of Vivendi.[^ref-4][^ref-19] Wikipedia puts the total at about 250 people across Sierra, not Yosemite alone, and says the entire Oakhurst studio was shut down except for the warehouse and distribution department.[^ref-1]
 
-Two well-known designers were not among the Oakhurst layoffs that day. Scott Murphy said: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-23] Al Lowe was by then working in Bellevue; Mandel's eulogy lists him among the "Oakhurst refugees" still making games there.[^ref-19]
+Two well-known designers were not among the Oakhurst layoffs that day. [[Scott Murphy]] said: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-23] [[Al Lowe]] was by then working in Bellevue; Mandel's eulogy lists him among the "Oakhurst refugees" still making games there.[^ref-19]
 
 About six months after Chainsaw Monday, Codemasters bought Sierra's old Oakhurst facility, along with The Realm, its servers and the rights to the cancelled Navy SEAL game. Most of the people who had worked on the SEAL game had already left town, and "Codemasters had trouble attracting more to such a rural location"; the game was cancelled again within about six months.[^ref-19] Codemasters' own announcement, dated September 17, 1999, had said the Oakhurst studio would be managed by Craig Alexander and staffed by "a significant number of the past employees of the former Yosemite Entertainment."[^ref-26] Wikipedia adds that Codemasters obtained the rights to keep using the Yosemite Entertainment name for the studio.[^ref-1]
 
 ## Key People
 
-Lori Ann Cole and Corey Cole, creators of the Quest for Glory series, led Dragon Fire.[^ref-5] Christy Marx was involved with Sierra's Babylon 5 game, according to series creator J. Michael Straczynski.[^ref-18] Daniel James was the writer on Middle-earth Online.[^ref-21] Craig Alexander managed the studio.[^ref-19]
+[[Lori Ann Cole]] and [[Corey Cole]], creators of the Quest for Glory series, led Dragon Fire.[^ref-5] [[Christy Marx]] was involved with Sierra's Babylon 5 game, according to series creator J. Michael Straczynski.[^ref-18] Daniel James was the writer on Middle-earth Online.[^ref-21] Craig Alexander managed the studio.[^ref-19]
 
 ## Legacy
 
@@ -79,10 +79,12 @@ Chance Thomas's Quest for Glory V soundtrack was released alongside a demo befor
 [^ref-18]: [JMS on CompuServe, Oct 1997 (b5jms archive)](https://lists.fsl.cs.sunysb.edu/pipermail/b5jms/1997-October/002239.html) — "The other game is still being developed... Christy Marx is involved, though."
 [^ref-19]: [The Digital Antiquarian - The End of Sierra As We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Jimmy Maher, May 23, 2025 (revised): Chainsaw Monday; three projects; B5 and Middle-earth cancelled six months later in Bellevue; Craig Alexander; Mandel's eulogy; Codemasters purchase and hiring trouble
 [^ref-20]: [Wired - B5: Back B4 U Know It (October 1999)](https://www.wired.com/1999/10/b5-back-b4-u-know-it/) — Lead programmer Dan Foy "described the game as 65 percent complete"
-[^ref-21]: [GameSpot - Visit Sierra's Middle Earth Online (April 2000)](https://www.gamespot.com/articles/visit-sierras-middle-earth-online/1100-2464907/) — "said Daniel James, writer on Middle Earth"
+[^ref-21]: [GameSpot - Visit Sierra's Middle Earth Online (September 1998)](https://www.gamespot.com/articles/visit-sierras-middle-earth-online/1100-2464907/) — "said Daniel James, writer on Middle Earth"; page displays "April 28, 2000" (a later update), but its metadata gives datePublished 1998-09-23 UTC (September 22, 1998 US time), the Bilbo and Frodo birthday launch it describes
 [^ref-22]: [Engadget - The Game Archaeologist: Middle-earth Online (June 2011)](https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html) — Team's vision "to permanently kill your character in certain situations"; "few Elves"; license "eventually transferred over to Turbine, which took the IP and did its own thing"
 [^ref-23]: [Adventure Classic Gaming - Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) — "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."
 [^ref-24]: [Encyclopedia.com - Sierra On-Line Inc (Gale, International Directory of Company Histories)](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) — "Sierra relocated its headquarters and moved to the Seattle area in 1993"
 [^ref-25]: [SWAT 2 news page, swat2.com (Wayback, December 1998)](https://web.archive.org/web/19981207065423/http://www.swat2.com/news/news.html) — "SWAT 2 is the first game to ship under the new Sierra FX brand. It was developed by Yosemite Entertainment game design studio in Oakhurst"; available July 11th
 [^ref-26]: [MobyGames - Yosemite Entertainment (Wayback, July 2018)](https://web.archive.org/web/20180707160837/http://www.mobygames.com/company/yosemite-entertainment) — Games: Police Quest: SWAT 2 (1998), Quest for Glory V (1998); quotes Codemasters' September 17, 1999 release ("a significant number of the past employees of the former Yosemite Entertainment")
 [^ref-27]: [IGN - Sierra Shuts Down Studios (February 23, 1999)](https://www.ign.com/articles/1999/02/23/sierra-shuts-down-studios) — "These projects are being folded into the Sierra FX brand name."
+[^ref-28]: [Yosemite Entertainment press release, May 27, 1998 (Wayback copy of yosemite-entertainment.com)](https://web.archive.org/web/20000310095503fw_/http://www.yosemite-entertainment.com/news/pressrelease/pr52798.html) — "New Name for 20-Year Old Design Facility"; "Taking Yosemite Entertainment as the new name for our design studio"; Sierra FX brand; product slate incl. Navy SEALs game
+[^ref-29]: [GameSpot - More Sierra Staffers Laid Off](https://www.gamespot.com/articles/more-sierra-staffers-laid-off/1100-2452414/) — Ken Williams's open letter: "20-year operating history in Oakhurst, which at one time represented over 550 Oakhurst-based employees"; page date display is unreliable (a later migration stamp)
