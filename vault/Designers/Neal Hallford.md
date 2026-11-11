@@ -5,11 +5,11 @@ birth_year: 1966
 death_year: null
 notable_games: ["Betrayal at Krondor", "Dungeon Siege", "Might & Magic III: Isles of Terra"]
 companies: ["New World Computing", "Dynamix", "Gas Powered Games", "Rapid Eye Entertainment", "Sony Computer Entertainment America"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Neal Hallford
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,17 +41,25 @@ Hallford did not become directly involved with film and television work until he
 
 ### [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993)
 
-Betrayal at Krondor is set in Raymond E. Feist's Midkemia. MobyGames credits Hallford with Level / Scenario Design and, with Feist, Writing / Dialogue / Story, under designer and director [[John Cutter]].[^ref-24] Feist wrote in his afterword to *Krondor: The Betrayal* that he was busy writing *The King's Buccaneer* during the game's production, and that the plot, text and new characters were created by Hallford and Cutter; Feist had editorial final say, but most of what they created was left intact.[^ref-12] Hallford later co-authored, with Feist and Cutter, the original story behind Feist's novelization *Krondor: The Betrayal*, first published in November 1998.[^ref-8][^ref-27]
+Betrayal at Krondor is set in Raymond E. Feist's Midkemia. MobyGames credits Hallford with Level / Scenario Design and, with Feist, Writing / Dialogue / Story, under designer and director [[John Cutter]].[^ref-24] Feist wrote in his afterword to *Krondor: The Betrayal* that he was busy writing *The King's Buccaneer* during the game's production, and that the plot, text and new characters were created by Hallford and Cutter; Feist had editorial final say, but most of what they created was left intact.[^ref-12] Hallford recalled the burst of early work on the game as "one of the best weeks of my life."[^ref-31] MobyGames also lists him on the 2010 Windows release of the game, with credits for Original Story, Event Design and Game Text.[^ref-9] Hallford later co-authored, with Feist and Cutter, the original story behind Feist's novelization *Krondor: The Betrayal*, first published in November 1998.[^ref-8][^ref-27]
 
 ### Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games (2001)
 
 In 2001 Hallford condensed his experience into "Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games," co-written with his wife Jana Ondrechen Hallford and published by Prima.[^ref-6][^ref-4][^ref-16]
 
+## Design Philosophy
+
+Hallford has described his working partnership with John Cutter on Betrayal at Krondor in terms of complementary skills: "John was by far the more technical of the two of us. He was great with rules and systems and had an instinctive feel for what would be fun. What I brought to the table was greater familiarity with traditional RPGs and the fantasy genre, and I could string a sentence or two together coherently, at least most of the time."[^ref-25] In his words, "the real secret of the success of that project lay in John and I's absolute trust in each other's judgements and skills."[^ref-25] He also wrote the design book *Swords & Circuitry* (see above).[^ref-16]
+
+## Legacy
+
+Betrayal at Krondor, whose story he developed with Raymond E. Feist and John Cutter, is the work he is best known for.[^ref-3][^ref-24] Writing about its development, Filfre describes the division of labor as "Cutter would be the systems guy while Hallford would be the story guy."[^ref-31] The game's story also continued in print as the novelization *Krondor: The Betrayal* (1998), and the game was re-released for Windows in 2010.[^ref-27][^ref-9] He later returned to the Might & Magic family as the author of the official 30th anniversary retrospective of the Heroes series.[^ref-30] Outside games, he continues to publish audio drama, essays and film work through his website and newsletter.[^ref-1]
+
 ## Later Work
 
 Another colleague's recommendation reads: "It is a strange experience to recommend genius. Neal is not your usual cup of tea... Look out for a different lump of sugar. If you have a desire to improve your game world you have picked the right person."[^ref-5]
 
-For the 30th anniversary of Heroes of Might & Magic, Ubisoft and Dark Horse Books approached him to become "the official chronicler of the franchise" for "Heroes of Might & Magic: 30th Anniversary Retrospective."[^ref-6]
+For the 30th anniversary of Heroes of Might & Magic, Ubisoft and Dark Horse Books approached him to become "the official chronicler of the franchise."[^ref-6] The result, *Heroes of Might and Magic: 30th Anniversary Retrospective*, was published by Dark Horse Books as a 192-page hardcover on November 25, 2025, with an ebook following on December 23, 2025.[^ref-30] Dark Horse's announcement, which Hallford republished on his newsletter in May 2025, described it as taking fans behind the scenes of the making of each main Heroes installment, with never-before-seen art, documentation and interviews with key members of the creative teams.[^ref-32]
 
 Hallford maintains a website and Substack newsletter offering "insights and behind-the-scenes history from the many worlds of author, game designer, filmmaker, audio producer, and musician Neal Hallford."[^ref-1]
 
@@ -60,9 +68,10 @@ Hallford maintains a website and Substack newsletter offering "insights and behi
 ### New World Computing & Dynamix (1990–1994)
 
 - 1990 — Tunnels & Trolls: Crusaders of Khazan — Documentation[^ref-21]
-- 1991 — Might & Magic III: Isles of Terra — Game Designers
+- 1991 — Might & Magic III: Isles of Terra — Game Designers (uncredited, per MobyGames)[^ref-9]
 - 1991 — Planet's Edge — Designed By (MobyGames dates the DOS release to 1991; his own MobyGames bio and Wikipedia give 1992)[^ref-4][^ref-8]
 - **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Role: Level / Scenario Design; Writing / Dialogue / Story (with Raymond E. Feist)[^ref-24]
+- 2010 — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (Windows re-release) — Original Story; Event Design; Game Text (per MobyGames)[^ref-9]
 - **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Writer[^ref-28]
 
 ### Post-Dynamix (1998–2008)
@@ -98,3 +107,6 @@ Credits per MobyGames.[^ref-9]
 [^ref-27]: [Wikipedia – Krondor: The Betrayal](https://en.wikipedia.org/wiki/Krondor:_The_Betrayal) — Novelization of Betrayal at Krondor, "first published in November 1998"
 [^ref-28]: [MobyGames – Metaltech: Battledrome credits, DOS (Wayback, 2018-07-01)](https://web.archive.org/web/20180701160059/http://www.mobygames.com:80/game/dos/metaltech-battledrome/credits) — "Writers: Neal Hallford, David Selle, Gregory Rucka, Kurt Weber"
 [^ref-29]: [MobyGames – Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
+[^ref-30]: [Penguin Random House – Heroes of Might and Magic: 30th Anniversary Retrospective](https://www.penguinrandomhouse.com/books/804012/heroes-of-might-and-magic-30th-anniversary-retrospective-by-written-by-neal-hallford/) — Dark Horse Books; hardcover Nov 25, 2025, 192 pages; ebook Dec 23, 2025
+[^ref-31]: [Filfre – "Betrayal at Krondor" (Oct 2019)](https://www.filfre.net/2019/10/betrayal-at-krondor/) — "Cutter would be the systems guy while Hallford would be the story guy"; Hallford: "one of the best weeks of my life"
+[^ref-32]: [Neal Hallford – "HEROES OF MIGHT & MAGIC: 30th Anniversary Retrospective Announced!", The Many Worlds of Neal Hallford (May 19, 2025)](https://www.nealhallford.com/p/heroes-of-might-and-magic-30th-anniversary) — Dark Horse press release as republished by Hallford
