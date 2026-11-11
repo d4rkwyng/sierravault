@@ -102,7 +102,7 @@ The game maintains positive aggregate scores on Metacritic, with the PC version 
 
 Fester Mudd originated from the creative vision of Finnish game designer Paavo Härkönen, known online by the handle "Tarantula," who had previously worked on the cancelled adventure game Search For Sanity.[^ref-14] The game was billed as a tribute to the golden era of adventure gaming,[^ref-3] and TV Tropes describes it as made "in an oldschool pixel art style, reminiscent of LucasArts' and Sierra's titles from the 1990s."[^ref-14]
 
-The game was published by Replay Games, a mobile software publisher founded in 2008 by game industry veterans.[^ref-6] Its CEO, Paul Trowe, described Fester Mudd as "our original IP game" and likened it to "the type of games we used to create at Sierra On-Line,"[^ref-6] and at the time the company was also working on its Leisure Suit Larry remake for iOS.[^ref-4]
+The game was published by Replay Games, an entertainment software publishing and development company founded in 2008 by game industry veterans.[^ref-25] Its CEO, Paul Trowe, described Fester Mudd as "our original IP game" and likened it to "the type of games we used to create at Sierra On-Line,"[^ref-6] and at the time the company was also working on its Leisure Suit Larry remake for iOS.[^ref-4]
 
 ### Production
 
@@ -264,3 +264,4 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 [^ref-22]: [Metacritic – Fester Mudd PC User Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/user-reviews/?platform=pc) – PC user score 7.6 (15 ratings)
 [^ref-23]: [Metacritic – Fester Mudd iOS User Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/user-reviews/?platform=ios-iphoneipad) – iOS user score 6.5 (6 ratings)
 [^ref-24]: [GamesBeat – "Replay Games fetches a new game and a chief creative officer (exclusive)" (Dean Takahashi, December 4, 2012)](https://gamesbeat.com/replay-games-fetches-a-new-game-and-a-chief-creative-officer-exclusive/) – Mandel hired as chief creative officer; Fester Mudd "under development at Finland's Prank Entertainment"; "throwback to the old-school adventure games"
+[^ref-25]: [Replay Games – About Us (Wayback, October 2012)](https://web.archive.org/web/20121008155317/https://www.replaygamesinc.com/index/about-us) – "an entertainment software publishing and development company dedicated to making "AAA" content for PC, mobile, and next generation platforms"; "founded in 2008 by a group of game industry veterans"
