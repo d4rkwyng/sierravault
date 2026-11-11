@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Rise of the Dragon", "Trophy Bass", "Front Page Sports: Trophy Rivers", "Social City"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "Sierra On-Line", "Electronic Arts", "Acclaim", "Playdom", "Disney Interactive", "Zynga"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Randy Dersham
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,9 @@ Ken Williams later described Dersham as "the studio head for Dynamix (In Oregon)
 
 ### Electronic Arts and Acclaim
 
-MobyGames credits him as executive producer and a member of the "EA Design Team" on Deer Hunt Challenge (1999), Championship Bass (2000), Ultimate Hunt Challenge Pack (2000) and Matt Hayes' Fishing (2002). He also has "Original Concept" credits on [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] (1999) and [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] (2000).[^ref-21] He was then general manager on three games developed by Acclaim Studios Austin: NBA Jam (2003), All-Star Baseball 2005 and Showdown: Legends of Wrestling (both 2004). He was studio general manager on The Red Star.[^ref-21][^ref-3]
+MobyGames credits him as executive producer and a member of the "EA Design Team" on Deer Hunt Challenge (1999), Championship Bass (2000), Ultimate Hunt Challenge Pack (2000) and Matt Hayes' Fishing (2002). He also has "Original Concept" credits on [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] (1999) and [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] (2000).[^ref-21] He was then general manager on three games developed by Acclaim Studios Austin: NBA Jam (2003), All-Star Baseball 2005 and Showdown: Legends of Wrestling (both 2004). He was studio general manager on The Red Star.[^ref-21]
+
+In 2002, GameDev.net's coverage of the Indie Games Con named him among the "industry veterans like Jeff Tunnell and Randy Dersham" who gave presentations; he spoke on "Publishers View of Developers" and was described as "formerly of Electronic Arts."[^ref-28]
 
 ### Playdom and Zynga
 
@@ -53,53 +55,65 @@ Dersham designed and produced [[1995 - Trophy Bass|Trophy Bass]], co-designed an
 
 Around 2009 Dersham described himself as co-owner, with his son, of Tatman Wooden Boats, adding: "My day job is as an executive in the computer games industry helping great games get made by very talented people."[^ref-4][^ref-6] Explaining modern wooden drift boats that year, he said: "Today, using polyurethanes, you essentially have a fiberglass encapsulated boat."[^ref-6] His profile lists him as executive director of the McKenzie River Drift Boat Museum from 2006 to 2018.[^ref-16]
 
-His documentary *Oregon's Boat* premiered in late 2024; its Springfield debut at the Wildish Theater drew an overflow crowd.[^ref-19] The film was "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival".[^ref-19] By April 2025 a Travel McKenzie River interviewer wrote that it had "won several awards and honorable mentions."[^ref-20]
+His documentary *Oregon's Boat* premiered in late 2024; its Springfield debut at the Wildish Theater drew an overflow crowd.[^ref-19] The film runs 35 minutes, according to its official site.[^ref-30] It was "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival".[^ref-19] Fly Fish Journal carries the film with a description credited to Dersham.[^ref-29] By April 2025 a Travel McKenzie River interviewer wrote that it had "won several awards and honorable mentions."[^ref-20]
+
+## Design Philosophy
+
+Dersham has published little about design theory, so this section gives only his own words. On the fishing games, he said: "We can say without a doubt that it's taken real fishermen to make a series of fishing titles this good."[^ref-23] Around 2009 he wrote that his "day job is as an executive in the computer games industry helping great games get made by very talented people."[^ref-4] Describing his documentary *Oregon's Boat*, he called it "an expository documentary that explores the evolution and enduring influence of the McKenzie River Drift Boat."[^ref-29]
+
+## Legacy
+
+Ken Williams called Dersham "an incredibly creative guy!" and recalled him as the head of Dynamix's Oregon operation when Sierra was sold in 1996.[^ref-3] Sierra's InterAction magazine called him the "Trophy Bass originator" in 1997, and the Trophy Bass line continued under Electronic Arts, where MobyGames credits him with the original concept of the two Field & Stream sequels.[^ref-23][^ref-21] Social City, which he is listed as a co-winner for, won Best Social Network Game at the first GDC Online Awards in 2010.[^ref-15] His documentary *Oregon's Boat* was reported as a finalist for Best Documentary Feature at the Winter 2025 Oregon Documentary Film Festival.[^ref-19]
 
 ## Games
 
-Roles follow MobyGames.[^ref-21]
+Roles follow MobyGames.[^ref-21] A blank company cell means the source used here does not name one.
 
-### Dynamix / Sierra
+### Dynamix / Sierra (1986–1998)
 
-- 1986 — Arcticfox — Artists' Photo
-- **1989** — Deathtrack — Role: Photography
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director of Image Production
-- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Director of Image Production
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Image Department Director
-- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Director of Image Production
-- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Art Director
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Image Production, Hong Kong video; Old salt (per IMDb)[^ref-8]
-- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Director of Image Production
-- **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Director, Design
-- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Music
-- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Windows & Macintosh Producer, Enhanced Design, Manual Writing
-- **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Role: Producer
-- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Designer, Producer
-- 1996 — [[1996 - Rama|Rama]] — Special Thanks To
-- 1996 — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96 Season]] — Special thanks
-- **1996** — [[1996 - Front Page Sports - Trophy Bass 2|Front Page Sports: Trophy Bass 2]] — Role: Director, Designer
-- 1997 — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Special thanks
-- 1997 — [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] — Special Thanks To
-- 1997 — [[1997 - Sierra Pro Pilot 98|Sierra Pro Pilot 98]] — "Thanks for welcoming subLOGIC staff to Dynamix"
-- **1997** — [[1997 - Front Page Sports - Trophy Rivers|Front Page Sports: Trophy Rivers]] — Role: Executive Producer, Designer
-- 1997 — Red Baron with Mission Builder — Director of Image Production
-- 1998 — [[1997 - Driver's Education '98|Driver's Education '98]] — Special Thanks
-- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Business Unit Manager
+| Year | Title | Role |
+|------|-------|------|
+| 1986 | Arcticfox | Artists' Photo |
+| 1989 | Deathtrack | Photography |
+| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director of Image Production |
+| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Director of Image Production |
+| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Image Department Director |
+| 1990 | [[1990 - Red Baron\|Red Baron]] | Director of Image Production |
+| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Art Director |
+| 1991 | [[1991 - Heart of China\|Heart of China]] | Image Production, Hong Kong video; Old salt (per IMDb)[^ref-8] |
+| 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Director of Image Production |
+| 1993 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] | Director, Design |
+| 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Music |
+| 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Windows & Macintosh Producer, Enhanced Design, Manual Writing |
+| 1994 | [[1994 - Lode Runner - The Legend Returns\|Lode Runner: The Legend Returns]] | Producer |
+| 1995 | [[1995 - Trophy Bass\|Trophy Bass]] | Designer, Producer |
+| 1996 | [[1996 - Rama\|Rama]] | Special Thanks To |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96 Season]] | Special thanks |
+| 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Front Page Sports: Trophy Bass 2]] | Director, Designer |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Special thanks |
+| 1997 | [[1997 - Front Page Sports - Ski Racing\|Front Page Sports: Ski Racing]] | Special Thanks To |
+| 1997 | [[1997 - Sierra Pro Pilot 98\|Sierra Pro Pilot 98]] | "Thanks for welcoming subLOGIC staff to Dynamix" |
+| 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Front Page Sports: Trophy Rivers]] | Executive Producer, Designer |
+| 1997 | Red Baron with Mission Builder | Director of Image Production |
+| 1998 | [[1997 - Driver's Education '98\|Driver's Education '98]] | Special Thanks |
+| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Business Unit Manager |
 
-### After Dynamix
+### Other Credits (1999–2011)
 
-- **1999** — [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] — Role: Original Concept
-- 1999 — Deer Hunt Challenge — Executive Producer, EA Design Team
-- **2000** — [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] — Role: Original Concept
-- 2000 — Championship Bass — Executive Producer, EA Design Team
-- 2000 — Ultimate Hunt Challenge Pack — Executive Producer, EA Design Team
-- 2002 — Matt Hayes' Fishing — Executive Producer, EA Design Team
-- 2003 — NBA Jam — General Manager
-- 2004 — All-Star Baseball 2005 — General Manager
-- 2004 — Showdown: Legends of Wrestling — General Manager
-- 2007 — The Red Star — Studio General Manager
-- 2010 — Social City (Playdom) — Best Social Network Game, GDC Online Awards 2010[^ref-15]
-- 2011 — Villagers & Heroes of a Mystical Land — Special Thanks
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1999 | [[1999 - Field & Stream - Trophy Bass 3D\|Field & Stream: Trophy Bass 3D]] |  | Original Concept |
+| 1999 | Deer Hunt Challenge | Electronic Arts | Executive Producer, EA Design Team |
+| 2000 | [[2000 - Field & Stream - Trophy Bass 4\|Field & Stream: Trophy Bass 4]] |  | Original Concept |
+| 2000 | Championship Bass | Electronic Arts | Executive Producer, EA Design Team |
+| 2000 | Ultimate Hunt Challenge Pack | Electronic Arts | Executive Producer, EA Design Team |
+| 2002 | Matt Hayes' Fishing | Electronic Arts | Executive Producer, EA Design Team |
+| 2003 | NBA Jam | Acclaim Studios Austin | General Manager |
+| 2004 | All-Star Baseball 2005 | Acclaim Studios Austin | General Manager |
+| 2004 | Showdown: Legends of Wrestling | Acclaim Studios Austin | General Manager |
+| 2007 | The Red Star |  | Studio General Manager |
+| 2010 | Social City | Playdom | Best Social Network Game, GDC Online Awards 2010[^ref-15] |
+| 2011 | Villagers & Heroes of a Mystical Land |  | Special Thanks |
 
 ## References
 
@@ -113,7 +127,7 @@ Roles follow MobyGames.[^ref-21]
 [^ref-14]: [Oregon Business Magazine - Game designers adapt to changing market](https://oregonbusiness.com/2532-game-designers-adapt-to-changing-market/) — April 4, 2011 news brief summarizing a Register-Guard story: Playdom "a Disney company"; opened Playdom's Eugene office in August 2009; about 40 employees; "another high-growth time"
 [^ref-15]: [GDC Online Awards Archive (Wayback)](https://web.archive.org/web/20190513070919/http://gdconlineawards.com/archive/gdcoa_1st.html) — Best Social Network Game, 2010: "WINNER: Social City (Playdom) Alex Swanson, Dan Yue, Randy Dersham"
 [^ref-16]: [LinkedIn Profile](https://www.linkedin.com/in/randydersham/) — Recommendations (Janosov; FrontierVille "five consecutive quarters"); McKenzie River Drift Boat Museum 2006–2018 (dossier copy, January 2026)
-[^ref-19]: [McKenzie River Reflections](https://www.mckenzieriverreflectionsnewspaper.com/story/2024/12/05/news/oregons-boat-premieres/7474.html) — December 5, 2024: "Oregon's Boat" premiere at the Wildish Theater "last week", overflow crowd; "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival"; "shifted his focus to filmmaking after a long career in the video game industry"
+[^ref-19]: [McKenzie River Reflections (Wayback, January 2025)](http://web.archive.org/web/20250119073348/https://www.mckenzieriverreflectionsnewspaper.com/story/2024/12/05/news/oregons-boat-premieres/7474.html) — December 5, 2024: "Oregon's Boat" premiere at the Wildish Theater "last week", overflow crowd; "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival"; "shifted his focus to filmmaking after a long career in the video game industry"
 [^ref-20]: [Travel McKenzie River Interview (Wayback)](https://web.archive.org/web/20250517112659/https://travelmckenzieriver.com/2025/04/25/interview-with-randy-dersham-director-of-oregons-boat/) — April 2025: University of Oregon photography major; built an art department for a new Eugene studio; interviewer: film "has won several awards and honorable mentions"
 [^ref-21]: [MobyGames - Randy Dersham credits (Wayback, September 2022)](http://web.archive.org/web/20220922060013/https://www.mobygames.com/developer/sheet/view/developerId,410/) — Full credit list by role
 [^ref-22]: [Adweek - New hires in social gaming: King.com, Wooga, Zynga](https://www.adweek.com/performance-marketing/new-hires-in-social-gaming-king-com-wooga-zynga/) — Kathleen De Vere, January 5, 2012: Zynga hires "Disney/Playdom's former VP-executive producer Randy Dersham as general manager"
@@ -122,3 +136,6 @@ Roles follow MobyGames.[^ref-21]
 [^ref-25]: [MobyGames - The Incredible Machine 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) — DOS release: developed by Jeff Tunnell Productions, published by Sierra On-Line (read via the MobyGames API, October 2026)
 [^ref-26]: [MobyGames - The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) — Windows 3.x releases: developed by Jeff Tunnell Productions (read via the MobyGames API, October 2026)
 [^ref-27]: [MobyGames - Lode Runner: The Legend Returns credits, Windows 3.x (Wayback, February 2018)](http://web.archive.org/web/20180211215452/http://www.mobygames.com:80/game/win3x/lode-runner-the-legend-returns/credits) — "JEFF TUNNELL PRODUCTIONS Executive Producer Jeffrey Tunnell Producer Randy Dersham"; developed by Presage Software
+[^ref-28]: [GameDev.net - At the Indie Games Con 2002](https://www.gamedev.net/tutorials/industry/event-coverage/at-the-indie-games-con-2002-r1868/) — Event coverage: "industry veterans like Jeff Tunnell and Randy Dersham"; "Publishers View of Developers. Presenter: Randy Dersham… formerly of Electronic Arts" (read via ScraperAPI, November 2026)
+[^ref-29]: [The Fly Fish Journal - Oregon's Boat](https://theflyfishjournal.com/blogs/curated-content/oregons-boat) — Film page with a description "From Randy Dersham": "an expository documentary that explores the evolution and enduring influence of the McKenzie River Drift Boat"
+[^ref-30]: [Oregon's Boat - official site](https://oregonsboat.org/) — "Play Movie (Run time: 35 minutes)"; five-act story of the McKenzie River Drift Boat
