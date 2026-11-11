@@ -1,14 +1,14 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — ADL (Hi-Res Adventures), AGI, SCI0/SCI1/SCI1.1/SCI2/SCI2.1/SCI3, the ThreeSpace-based Mask of Eternity, and the engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Defining games:
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|Cranston Manor]] and [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Ulysses and the Golden Fleece]]
 - [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — The most ambitious, twelve disk sides.[^ref-2]
-- [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Final Hi-Res Adventure.
+- [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Final Hi-Res Adventure.[^ref-21]
 
 LucasArts' rival engine, SCUMM, came later: it was built at Lucasfilm Games for *Maniac Mansion* (1987).[^ref-25]
 
@@ -48,7 +48,7 @@ AGI was developed for [[1984 - King's Quest - Quest for the Crown|King's Quest]]
 1. **Animated, color adventures** — AGI "was capable of running animated, color adventure games with music and sound effects".[^ref-5] AGI2.425 briefly introduced script-settable priority bands, which were removed immediately afterwards and returned in 2.936, the last AGI2 version.[^ref-20]
 2. **Portable bytecode** — Games were written in a C-like Game Adaptation Language, compiled to bytecode and run by the interpreter.[^ref-5] The Strong museum credits AGI, "a scripting engine that made it easier to port previous software to different platforms", with giving King's Quest a second life after the PCjr.[^ref-3]
 
-Sierra used AGI in 14 games between 1984 and 1989.[^ref-5] ScummVM's version list groups the interpreters as AGI0 (King's Quest on IBM PC, PCjr and Tandy), AGI1 (The Black Cauldron and King's Quest II), AGI2, and AGI3, which begins with King's Quest IV (July 27, 1988) and also ran Manhunter: New York, Gold Rush! and Manhunter 2.[^ref-20]
+Sierra used AGI in 14 games between 1984 and 1989.[^ref-5] ScummVM's version list groups the interpreters as AGI0 (King's Quest on IBM PC, PCjr and Tandy, plus Apple II builds of Space Quest, Leisure Suit Larry, Space Quest II, Mixed-Up Mother Goose and King's Quest III), AGI1 (The Black Cauldron and King's Quest II), AGI2, and AGI3, which begins with King's Quest IV (July 27, 1988) and also ran Manhunter: New York, Gold Rush! and Manhunter 2.[^ref-20]
 
 Defining games:
 
@@ -65,9 +65,9 @@ Defining games:
 - [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (AGI)
 - [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (AGI version dated June 8, 1986, interpreter 2.001; ScummVM calls it "more an hybrid between AGI1 & AGI2")[^ref-20]
 
-Not AGI: [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]], [[1983 - Troll's Tale|Troll's Tale]] and [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] are "Pre-AGI" games, which ScummVM's AGI engine detects as a separate type.[^ref-26][^ref-19]
+Not AGI: ScummVM's AGI page lists five games that "used some parts of this engine, before it was mature enough": [[1982 - Dragon's Keep|Dragon's Keep]] (1982), [[1984 - Gelfling Adventure|The Gelfling Adventure]] (1983 per ScummVM; the vault's game page dates it 1984), [[1983 - Troll's Tale|Troll's Tale]] (1983), [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] (1984) and [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] (1984).[^ref-43] ScummVM's AGI engine detects Mickey's Space Adventure, Troll's Tale and Winnie the Pooh as a separate "Pre-AGI" type.[^ref-26][^ref-19]
 
-Technical limits: 160×200 resolution,[^ref-5][^ref-22] up to 16 colors on the PCjr's video hardware,[^ref-5] text parser input, room-based scenes.
+Technical limits: 160×200 resolution,[^ref-5][^ref-22] up to 16 colors on the PCjr's video hardware,[^ref-5] and text parser input.[^ref-8]
 
 ## Generation 3: SCI0 — Sierra's Creative Interpreter (1988–1990)
 
@@ -81,7 +81,7 @@ Key innovations:
 
 1. **Object-oriented script language** — Stephenson rewrote the scripting language into "a full-fledged modern programming language reminiscent of C++";[^ref-22] he had been influenced by Smalltalk.[^ref-8]
 2. **Graphics** — 320×200 in 16-color EGA.[^ref-8][^ref-22]
-3. **Sound cards** — Sierra supported the Roland MT-32, Ad Lib and later the Game Blaster. For King's Quest IV, Ken Williams and composer William Goldstein wanted "a full-fledged musical score, arguably the first such ever to be written for a computer game".[^ref-22]
+3. **Sound cards** — Sierra supported the Roland MT-32, Ad Lib and later the Game Blaster.[^ref-22] For King's Quest IV, Ken Williams and composer William Goldstein wanted "a full-fledged musical score, arguably the first such ever to be written for a computer game".[^ref-22]
 
 Defining games (SCI0):
 
@@ -133,12 +133,12 @@ Defining games (SCI1.1):[^ref-20]
 **Engine:** SCI2 and SCI2.1 ("SCI21").
 **Platforms:** 32-bit DOS and Windows; Macintosh.[^ref-8][^ref-20]
 
-SCI2 (1993) brought 640×480 SVGA in 256 colors and 32-bit protected mode.[^ref-8] Its first games were [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (November 1993), Police Quest IV and Quest for Glory IV.[^ref-20] SCI2.1 followed: "Robot videos were firstly introduced here, in the DOS version of KQ7", and "VMD videos were introduced" in the middle SCI2.1 versions, with "cartoonish or 3D pre-rendered graphics with actors".[^ref-20] Late SCI2.1 builds were still in use in 1996, for the RAMA (April 1996) and Leisure Suit Larry 7 (July 1996) demos.[^ref-20]
+SCI2 (1993) brought 640×480 SVGA in 256 colors and 32-bit protected mode.[^ref-8] Its first games were [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (November 1993), Police Quest IV and Quest for Glory IV, whose floppy releases (v1.000.000, December 5, 1993, and v1.1, December 14, 1993) run interpreter 2.000.000.[^ref-20] ScummVM classes the later CD and Windows CD versions of Quest for Glory IV (interpreter 2.100.002) as early SCI2.1, a group of builds between SCI2 and SCI2.1 that used a modified SCI2 kernel table.[^ref-20] SCI2.1 followed: "Robot videos were firstly introduced here, in the DOS version of KQ7", and "VMD videos were introduced" in the middle SCI2.1 versions, with "cartoonish or 3D pre-rendered graphics with actors".[^ref-20] Late SCI2.1 builds were still in use in 1996, for the RAMA (April 1996) and Leisure Suit Larry 7 (July 1996) demos.[^ref-20]
 
 Defining games:
 
-- SCI2: [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], [[1993 - Police Quest - Open Season|Police Quest: Open Season]], [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]][^ref-20]
-- SCI2.1: [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]], [[1995 - Torin's Passage|Torin's Passage]], [[1995 - Shivers|Shivers]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]][^ref-20]
+- SCI2: [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], [[1993 - Police Quest - Open Season|Police Quest: Open Season]], [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (floppy v1.0/v1.1, interpreter 2.000.000)[^ref-20]
+- SCI2.1: [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]], [[1995 - Torin's Passage|Torin's Passage]], [[1995 - Shivers|Shivers]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]]; also the CD and Windows CD versions of Quest for Glory IV (interpreter 2.100.002, early SCI2.1)[^ref-20]
 
 ## Generation 6: SCI3 (1996)
 
@@ -225,3 +225,4 @@ Modern preservation depends on projects re-implementing these engines:
 [^ref-40]: [Jane Jensen — GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) — "GK3 needed this new engine… The G-Engine is a fabulous piece of engineering"
 [^ref-41]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — Lua for levels, AI and a rules engine; remastered versions "both built on the Homeworld 2 engine"
 [^ref-42]: [ScummVM News — FreeSCI SCI engine implementation has been merged in (February 15, 2009)](https://www.scummvm.org/news/20090215/) — posted by sev: "FreeSCI code now lives under engines/sci"
+[^ref-43]: [ScummVM Wiki — AGI (Wayback, January 1, 2025)](https://web.archive.org/web/20250101192119/https://wiki.scummvm.org/index.php?title=AGI) — PreAGI: "There were several games that used some parts of this engine, before it was mature enough": Dragon's Keep (1982), The Gelfling Adventure (1983), Troll's Tale (1983), Mickey's Space Adventure (1984), Winnie the Pooh in the Hundred Acre Wood (1984)

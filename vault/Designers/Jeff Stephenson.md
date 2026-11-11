@@ -45,7 +45,7 @@ In a March 1990 interview, Roberta Williams described SCI as "a virtual machine 
 
 ### SCI Era (1988–1992)
 
-[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988) was the first game to use SCI.[^ref-15] SCI was then in continuous development for eight years, with five major versions, from 1988 to 1996:[^ref-10][^ref-11]
+[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988) was the first game to use SCI.[^ref-15] SCI was then in continuous development for eight years, from 1988 to 1996; the ScummVM wiki's interpreter lists distinguish six versions (SCI0, SCI1, SCI1.1, SCI2, SCI2.1 and SCI3), and the table below folds SCI2.1 into SCI2:[^ref-10][^ref-11][^ref-29]
 
 | Version | Year | Key Features | Notable Titles |
 |---------|------|--------------|----------------|
@@ -183,3 +183,4 @@ Years in this list are MobyGames' credit years; some linked game pages file unde
 [^ref-26]: [King's Quest Wiki - Adventure in Serenia Manual](https://kingsquest.fandom.com/wiki/Adventure_in_Serenia_Manual) — Manual transcription, title screen: "ADVENTURE IN SERENIA by Ken and Roberta Williams… Implemented by Jeff Stephenson"
 [^ref-27]: [Adventure in Serenia manual, IBM/On-Line Systems 1982 (Internet Archive scan)](https://archive.org/details/vgmuseum_sierra_serenia-manual) — Period manual: "Welcome to Adventure in Serenia, the first of On-Line Systems' pictorial adventures for the IBM"
 [^ref-28]: [Video Game Newsroom Time Machine - Jeff Stephenson Interview (episode page, Dec 14, 2021)](https://videogamenewsroomtimemachine.libsyn.com/website/jeff-stephenson-interview) — Podcast episode, "Recorded: March 2021"; audio only, no transcript on the page
+[^ref-29]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — interpreter lists for SCI0, SCI1, SCI1.1, SCI2, SCI21 and SCI3; "SCI2, SCI21, and SCI3 can be collectively referred to as SCI32"
