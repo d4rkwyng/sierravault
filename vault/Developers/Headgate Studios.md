@@ -6,11 +6,11 @@ defunct: 2017
 headquarters: "Bountiful, Utah, United States (Salt Lake City from 2010)"
 notable_games: ["Front Page Sports: Golf", "PGA Championship Golf series", "Tiger Woods PGA Tour (Windows versions)"]
 parent_company: "Sierra On-Line (1996-1999); Electronic Arts (2006-2017)"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Headgate Studios
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,17 @@ From 2000, Headgate worked with Electronic Arts.[^ref-19][^ref-27] Its own websi
 
 EA announced on November 30, 2006 that the Headgate development team had joined EA; terms were not disclosed.[^ref-2][^ref-27][^ref-24] On December 1, 2006, Game Developer reported that the team had joined EA "following a six year partnership between the two firms." The studio stayed in Bountiful, and "Vance Cook, CEO and founder of Headgate will continue to lead the studio team as executive producer."[^ref-7][^ref-25] Renamed EA Salt Lake, it was redirected toward games for Nintendo's Wii.[^ref-19][^ref-27]
 
-As EA Salt Lake, the studio made Tiger Woods PGA Tour 07 and 08 versions, Madden NFL 08 for PC and Mac, Littlest Pet Shop games and Nerf N-Strike.[^ref-19] In 2011 it moved into EA's Maxis division and developed four expansion packs for The Sims 3.[^ref-19] After a restructuring toward mobile games, EA confirmed layoffs at the studio on January 30, 2014.[^ref-19][^ref-15][^ref-23] CBR says Cook left in 2010.[^ref-14] Wikipedia says EA closed the studio in April 2017, though that sentence is marked "citation needed"; CBR says only that it shut down three years after the 2014 shift to mobile.[^ref-19][^ref-14]
+As EA Salt Lake, the studio made Tiger Woods PGA Tour 07 and 08 versions, Madden NFL 08 for PC and Mac, Littlest Pet Shop games and Nerf N-Strike.[^ref-19] In 2011 it moved into EA's Maxis division and developed four expansion packs for The Sims 3: Showtime and Supernatural (2012), University Life and Into the Future (2013).[^ref-19] Its Wii-era work also included Monopoly Streets, and its last credits were two mobile games, Minions Paradise (2015) and The Secret Life of Pets: Unleashed (2016).[^ref-19] After a restructuring toward mobile games, EA confirmed layoffs at the studio on January 30, 2014.[^ref-19][^ref-15][^ref-23] CBR says Cook left in 2010.[^ref-14] Wikipedia says EA closed the studio in April 2017, though that sentence is marked "citation needed"; CBR says only that it shut down three years after the 2014 shift to mobile.[^ref-19][^ref-14]
+
+## Notable Games
+
+### Front Page Sports: Golf (1997)
+
+Headgate's first Sierra game, which Sierra said had been "nearly three years in development," introduced the studio's TrueSwing mouse swing.[^ref-21] Three add-on course disks followed in 1997.[^ref-29][^ref-30][^ref-31]
+
+### Tiger Woods PGA Tour (Windows versions, 2000–2007)
+
+Headgate developed the Windows versions of EA Sports' Tiger Woods PGA Tour, starting with Tiger Woods PGA Tour 2001.[^ref-26][^ref-19] Tiger Woods PGA Tour 2003 was nominated for the Academy of Interactive Arts & Sciences' 2003 Computer Sports Game of the Year award.[^ref-18]
 
 ## Key People
 
@@ -57,13 +67,15 @@ As EA Salt Lake, the studio made Tiger Woods PGA Tour 07 and 08 versions, Madden
 
 Sierra-published games in this archive:
 
-- **1997** — [[1997 - Front Page Sports - Golf|Front Page Sports: Golf]] — Genre: Sports Simulation
-- **1997** — [[1997 - Front Page Sports Golf - Tour Course Add-On|Front Page Sports: Golf – Add-on Courses]] — Genre: Sports Simulation
-- **1998** — [[1998 - PGA Championship Golf|PGA Championship Golf]] — Genre: Sports Simulation (UK release; appears to be the same product as the 1999 Edition)
-- **1999** — [[1999 - PGA Championship Golf 1999 Edition|PGA Championship Golf 1999 Edition]] — Genre: Sports Simulation
-- **2000** — [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]] — Genre: Sports Simulation
-- **2000** — [[2000 - PGA Championship Golf 2000 - Titanium Edition|PGA Championship Golf 2000: Titanium Edition]] — Genre: Sports Simulation
-- **2001** — [[2001 - PGA Championship Golf - Collector's Edition|PGA Championship Golf: Collector's Edition]] — Genre: Sports Simulation
+| Year | Game | Genre |
+|------|------|-------|
+| 1997 | [[1997 - Front Page Sports - Golf\|Front Page Sports: Golf]] | Sports Simulation |
+| 1997 | [[1997 - Front Page Sports Golf - Tour Course Add-On\|Front Page Sports: Golf – Add-on Courses]] | Sports Simulation |
+| 1998 | [[1998 - PGA Championship Golf\|PGA Championship Golf]] | Sports Simulation (UK release; appears to be the same product as the 1999 Edition) |
+| 1999 | [[1999 - PGA Championship Golf 1999 Edition\|PGA Championship Golf 1999 Edition]] | Sports Simulation |
+| 2000 | [[2000 - PGA Championship Golf 2000\|PGA Championship Golf 2000]] | Sports Simulation |
+| 2000 | [[2000 - PGA Championship Golf 2000 - Titanium Edition\|PGA Championship Golf 2000: Titanium Edition]] | Sports Simulation |
+| 2001 | [[2001 - PGA Championship Golf - Collector's Edition\|PGA Championship Golf: Collector's Edition]] | Sports Simulation |
 
 Other work (not Sierra-published): Tiger Woods PGA Tour for Windows (EA Sports, 2000–2007); PC versions of Madden NFL and The Godfather.[^ref-19][^ref-7]
 
