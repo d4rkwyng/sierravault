@@ -4,11 +4,11 @@ type: publisher
 founded: null
 headquarters: "France"
 parent_company: "Coktel Vision"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Tomahawk
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -18,7 +18,7 @@ Tomahawk's own titles came out between 1988 and 1991; MobyGames credits it on 14
 
 ## Sierra Connection
 
-[[Publishers/Sierra On-Line|Sierra On-Line]] published *Gobliiins* in the United States in 1992, while Tomahawk published it in France, Germany, Italy and the United Kingdom.[^ref-2] Sierra's purchase of Coktel Vision was finalised in October 1993.[^ref-6] According to MobyGames, Sierra then "used the former Tomahawk distribution structure to build its own European distribution network."[^ref-12]
+[[Publishers/Sierra On-Line|Sierra On-Line]] published *Gobliiins* in the United States in 1992, while Tomahawk published it in France, Germany, Italy and the United Kingdom.[^ref-2] Sierra's purchase of Coktel Vision was finalised in October 1993.[^ref-6] Sierra's own annual report for fiscal 1996 dates the acquisition to 29 October 1993.[^ref-30] According to MobyGames, Sierra then "used the former Tomahawk distribution structure to build its own European distribution network."[^ref-12]
 
 ## Games Published (Sierra Archive)
 
@@ -38,7 +38,7 @@ Tomahawk's own titles came out between 1988 and 1991; MobyGames credits it on 14
 - **1990** — No Exit — Developer: MDO / Coktel Vision[^ref-27]
 - **1990** — Paris Dakar 90 — Developer: Coktel Vision[^ref-28]
 - **1991** — A.G.E. — Developer: Coktel Vision (Tomahawk published the French Atari ST release)[^ref-19]
-- **1991** — E.S.S. Mega — Developer: Coktel Vision[^ref-18]
+- **1991** — E.S.S. Mega — Developer: Coktel Vision. MobyGames' Tomahawk page says none of the label's games were sold outside Europe,[^ref-1] but its release data for this title lists a 1991 Tomahawk release in the United States as well as the United Kingdom.[^ref-18][^ref-31]
 
 ## Related
 
@@ -69,3 +69,5 @@ Tomahawk's own titles came out between 1988 and 1991; MobyGames credits it on 14
 [^ref-27]: [MobyGames - No Exit](https://www.mobygames.com/game/3924/no-exit/) - Release data (read via the MobyGames API): Tomahawk, 1990; developers MDO and Coktel Vision; genres action, fighting/martial arts
 [^ref-28]: [MobyGames - Paris Dakar 90](https://www.mobygames.com/game/50276/paris-dakar-90/) - Release data (read via the MobyGames API): Tomahawk (France, Germany, Italy, Spain, UK), 1990; developer Coktel Vision; genre racing/driving
 [^ref-29]: [MobyGames - Skidoo](https://www.mobygames.com/game/41832/skidoo/) - Release data (read via the MobyGames API): Tomahawk, 1989; developer Coktel Vision; genres racing/driving, simulation
+[^ref-30]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC, via Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - Note 2, Coktel: "On October 29, 1993, the Company acquired Coktel Vision S.A. ("Coktel"), a French developer and publisher of educational and entertainment software products"
+[^ref-31]: [MobyGames - E.S.S Mega release info](https://web.archive.org/web/20200727115730/https://www.mobygames.com/game/ess-mega/release-info) - DOS: "Published by Tomahawk" with country United States, release date 1991; also United Kingdom, 1991 (same data confirmed via the MobyGames API for game 7733)
