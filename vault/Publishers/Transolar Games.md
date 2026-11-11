@@ -5,11 +5,11 @@ founded: null
 headquarters: "United States"
 parent_company: null
 founders: ["Corey Cole", "Lori Ann Cole"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Transolar Games
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -21,9 +21,9 @@ No source found gives an exact founding year. The company was already online as 
 
 Corey and Lori Ann Cole co-designed the first four Quest for Glory games at Sierra On-Line. Lori was the sole designer of *Quest for Glory V* (1998), on which Corey worked as a programmer.[^ref-9]
 
-Transolar's *Hero-U: Rogue to Redemption* was funded on Kickstarter between October 19 and November 20, 2012, raising $409,150 from 6,093 backers against a $400,000 goal.[^ref-2] PC Gamer summed up its road to release as "Six years, two Kickstarter campaigns, and one home equity loan later".[^ref-8] The same article reports that the Coles took out "a $150,000 home equity loan to pay their own living expenses while Hero-U was in development."[^ref-8] The game came out in July 2018.[^ref-1][^ref-3][^ref-5]
+Transolar's *Hero-U: Rogue to Redemption* was funded on Kickstarter between October 19 and November 20, 2012, raising $409,150 from 6,093 backers against a $400,000 goal.[^ref-2] A second Hero-U campaign, run from May 12 to June 16, 2015, raised $116,888 from 1,869 backers against a $100,000 goal.[^ref-27] PC Gamer summed up its road to release as "Six years, two Kickstarter campaigns, and one home equity loan later".[^ref-8] The same article reports that the Coles took out "a $150,000 home equity loan to pay their own living expenses while Hero-U was in development."[^ref-8] The game came out in July 2018.[^ref-1][^ref-3][^ref-5] Console versions are published by Silesia Games: DekuDeals lists *Hero-U* on Nintendo Switch (February 9, 2021) and PlayStation 4 and 5 (April 24, 2025), and the PlayStation Store listing names "SILESIA GAMES SP. Z O.O." as publisher with the notice "© Transolar Games. Licensed by Silesia Games Sp. z o.o."[^ref-25][^ref-26]
 
-The Coles' third Kickstarter, *Summer Daze at Hero-U*, ran from October 1 to November 5, 2019 and raised $106,155 from 1,639 backers against a $99,999 goal; its page refers to backers of "the previous Kickstarter campaigns" for Hero-U.[^ref-21][^ref-24][^ref-23] The first part, *Summer Daze: Tilly's Tale*, was released in March 2023.[^ref-7]
+The Coles' third Kickstarter (after the 2012 and 2015 *Hero-U* campaigns), *Summer Daze at Hero-U*, ran from October 1 to November 5, 2019 and raised $106,155 from 1,639 backers against a $99,999 goal; its page refers to backers of "the previous Kickstarter campaigns" for Hero-U.[^ref-21][^ref-24][^ref-23] The first part, *Summer Daze: Tilly's Tale*, was released in March 2023.[^ref-7] The Nintendo eShop lists the Switch version, released June 15, 2023, with Transolar Games as developer and Silesia Games as publisher.[^ref-28]
 
 ## Current Status
 
@@ -31,8 +31,8 @@ In a September 16, 2026 update to Summer Daze backers, Corey Cole recalled that 
 
 ## Games Published (Sierra Archive)
 
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Notes: Kickstarter-funded role-playing adventure from the Quest for Glory designers[^ref-2][^ref-3][^ref-4][^ref-6]
-- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Notes: Visual novel set at Hero-U, by Lori Ann Cole; funded on Kickstarter in 2019[^ref-7][^ref-21]
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Notes: Kickstarter-funded role-playing adventure from the Quest for Glory designers; console versions published by Silesia Games[^ref-2][^ref-3][^ref-4][^ref-6]
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Notes: Visual novel set at Hero-U, by Lori Ann Cole; funded on Kickstarter in 2019; Switch version published by Silesia Games[^ref-7][^ref-21][^ref-28]
 
 ## Key People
 
@@ -66,3 +66,7 @@ In a September 16, 2026 update to Summer Daze backers, Corey Cole recalled that 
 [^ref-22]: [Summer Daze project updates (BackerKit)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) - Update of Sep 16, 2026: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
 [^ref-23]: [PC Gamer – From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all (Jody Macgregor, 22 March 2023)](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all/) - "Our first Kickstarter we asked for $400,000"; "Another Kickstarter followed" for Hero-U; then "another Kickstarter for a more modestly budgeted visual novel"
 [^ref-24]: [Kickstarter - Summer Daze at Hero-U, campaign description](https://www.kickstarter.com/projects/transolargames/summer-daze-at-hero-u/description) - Hero-U soundtrack "previously available only to $35 and higher backers of the previous Kickstarter campaigns"
+[^ref-25]: [DekuDeals - Hero-U: Rogue to Redemption](https://www.dekudeals.com/items/hero-u-rogue-to-redemption) - Developer Transolar Games, publisher Silesia Games; Switch February 9, 2021; PS4, PS5 April 24, 2025
+[^ref-26]: [PlayStation Store - Hero-U: Rogue to Redemption (PS4)](https://store.playstation.com/en-us/product/UP6989-CUSA42932_00-0745759548738048) - Publisher SILESIA GAMES SP. Z O.O.; 4/24/2025; "© Transolar Games. Licensed by Silesia Games Sp. z o.o."
+[^ref-27]: [Kickstarter - Hero-U Fantasy Adventure Role-Playing Game (2015)](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) - $116,888 pledged of $100,000 goal, 1,869 backers; funding period May 12 – Jun 16, 2015
+[^ref-28]: [Nintendo eShop - Summer Daze: Tilly's Tale (Switch)](https://www.nintendo.com/us/store/products/summer-daze-tillys-tale-switch/) - Publisher Silesia Games; developer Transolar Games; June 15, 2023

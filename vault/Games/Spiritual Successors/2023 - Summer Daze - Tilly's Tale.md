@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-06'
+last_updated: '2026-11-11'
 composer: [Brandon Blume, Paul Korman, Ryan Grogan]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel set at Hero University,
   designed by Lori Ann Cole and Corey Cole and released by Transolar Games on March
@@ -19,7 +19,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 
 ## Overview
@@ -105,7 +105,7 @@ The project was originally conceived as *Summer Daze at Hero-U*, featuring two p
 
 ### Production
 
-The Kickstarter campaign launched in 2019 and was successfully funded on November 6, 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
+The Kickstarter campaign launched in 2019 and was successfully funded on November 5, 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
 
 Development took four years[^ref-8], although the Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 
