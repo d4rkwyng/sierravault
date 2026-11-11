@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Pepper's Adventures in Time"]
 companies: ["Sierra On-Line", "Seagull Scientific"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Lorelei Shannon
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -51,6 +51,18 @@ MobyGames credits her on King's Quest VII for design, direction, writing and voi
 
 On Pepper's Adventures in Time MobyGames credits her with design, text and dialog, and documentation.[^ref-3] It was her first design job at Sierra.[^ref-12][^ref-8]
 
+## Design Philosophy
+
+Shannon's stated influences are horror writers and films. In 1996 she said she wanted to bring across "that kind of paranoid, or very frightening, very real kind of horror."[^ref-28] In 1997 she named Poe, Clive Barker, Kathe Koja and Thomas Ligotti, and films including Jacob's Ladder.[^ref-22] Of dialogue, she described her part in King's Quest VII as writing most of it.[^ref-12] In 1998 she told Just Adventure that on full-motion-video games "It's got to happen. People are starting to expect it," arguing that studios needed an "engine" in place because "each game is being approached like reinventing the wheel."[^ref-36] In the same interview she said she thought there was plenty of interest in horror and that publishers had wrongly decided readers no longer wanted it.[^ref-36]
+
+## Legacy
+
+Shannon is credited as co-designer of King's Quest VII and designer of Phantasmagoria: A Puzzle of Flesh, both Sierra releases of the 1990s.[^ref-3] In July 2024 she was announced as a guest at the Adventure Game Fan Fair in Tacoma, Washington (26-28 July), listed among the Sierra names expected there.[^ref-37] The programme named her on the panels "A Peek Inside Phantasmagoria 2", alongside Paul Morgan Stetler, and the King's Quest 40th Anniversary retrospective, alongside Ken and Roberta Williams, Jane Jensen, Richard Aronson and Josh Mandel.[^ref-38] These are announcements, not a report of the event itself.
+
+## Other Credits
+
+MobyGames also lists her under Special Thanks on Tunnels & Trolls: Crusaders of Khazan (1990), and as a video capture actor on Gabriel Knight: Sins of the Fathers (1993).[^ref-3]
+
 ## Games
 
 ### Sierra On-Line
@@ -73,9 +85,10 @@ Books with Shannon as author or co-author, per Open Library and ISFDB:[^ref-24][
 - *Vermifuge and Other Toxic Cocktails* (Wildside Press, 2001), a short-story collection[^ref-32][^ref-31]
 - *Rags and Old Iron* (Wildside Press, 2002; Juno Books, 2007)[^ref-24]
 - *The Blood of Father Time* (Five Star, 2007), with Alan M. Clark and Stephen C. Merritt, in two volumes: *The New Cut* and *The Mystic Clan's Grand Plot*[^ref-32]
-- *Possum Kingdom* (2009)
-- *Missouri's Mad Doctor McDowell* (History Press, 2009), with Victoria Cosner
-- *Missouri's Murderous Matrons* (Arcadia Publishing, 2019), with Victoria Cosner
+- *Possum Kingdom* (Virtualbookworm.com Publishing, 2009)[^ref-33]
+- *Missouri's Mad Doctor McDowell: Confederates, Cadavers and Macabre Medicine* (Arcadia Publishing, 2009; History Press Library Editions, 2015), with Victoria Cosner[^ref-34]
+- *Missouri's Murderous Matrons: Emma Heppermann and Bertha Gifford* (Arcadia Publishing, 2019), with Victoria Cosner[^ref-35]
+- Short-story anthologies listing her as a contributor: *Prom Night* (1999), *Blue Kingdoms: Buxom Buccaneers* (2008) and *Dark Highways: Five Road Trips into Terror* (2012)[^ref-24]
 
 ## References
 
@@ -87,7 +100,7 @@ Books with Shannon as author or co-author, per Open Library and ISFDB:[^ref-24][
 [^ref-12]: [Adventure-Treff Interview with Lorelei Shannon (2011)](https://www.adventure-treff.de/interviews/11802-lorelei-shannon) — Flying Buffalo, InterAction, dialog for PQ and Dagger, Pepper's, KQ VII co-design and voice direction, Phantasmagoria 2, FMV
 [^ref-22]: [Phantasmagoria 2 interview by Anthony Larme et al. (1997, Wayback)](https://web.archive.org/web/20101126155915/http://anthonylarme.tripod.com/phantas/p2intls.html) — Influences: Poe, Clive Barker, Kathe Koja, Thomas Ligotti, Jacob's Ladder, Prince of Darkness, The Exorcist III; asked by Andy Bellatti about the game "selling very well", she answered "Of course, I'm very pleased"
 [^ref-23]: [La Aventura interview with Lorelei Shannon (Wayback, 2008)](https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en) — The look "was influenced somewhat by the movie 'Se7en,' and the artist Joel-Peter Witkin"; Beaumont, Jackson, Poe
-[^ref-24]: [Open Library – books by Lorelei Shannon](https://openlibrary.org/search.json?author=Lorelei+Shannon) — Vermifuge (2001), Rags and Old Iron (2002), The Blood of Father Time (2007), Possum Kingdom (2009), Missouri books with Victoria Cosner (2009, 2019)
+[^ref-24]: [Open Library – books by Lorelei Shannon](https://openlibrary.org/authors/OL2827549A) — Vermifuge (2001), Rags and Old Iron (2002), The Blood of Father Time (2007), Possum Kingdom (2009), Missouri books with Victoria Cosner (2009, 2019); anthologies Prom Night (1999), Blue Kingdoms (2008), Dark Highways (2012)
 [^ref-25]: [InterAction Magazine, Vol. IV No. 3, Fall 1991](https://archive.org/details/InterAction_Magazine_Vol._IV_Number_3_Fall_1991_1991_Sierra_On-Line_US) — Period scan: Lorelei Shannon among "Contributors This Issue"; articles "By Lorelei Shannon"
 [^ref-26]: [InterAction Magazine, Vol. V No. 3, Fall 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — Period scan: article "by Lorelei Shannon, Twisty History co-designer"
 [^ref-27]: [InterAction Magazine, Vol. VII No. 1, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) — Period scan: "Roberta Williams and her co-designer Lorelei Shannon"; Pepper's "did get the attention of Roberta Williams"
@@ -96,3 +109,9 @@ Books with Shannon as author or co-author, per Open Library and ISFDB:[^ref-24][
 [^ref-30]: [InterAction Magazine, Fall 1996](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) — Period scan: "Hi. I'm Lorelei, the designer of Phantasmagoria: A Puzzle of Flesh."
 [^ref-31]: [Wikipedia – Lorelei Shannon](https://en.wikipedia.org/wiki/Lorelei_Shannon) — Bibliography: "Vermifuge and Other Toxic Cocktails. Short story collection. Wildside Press, 2001" (article carries a BLP-sources tag)
 [^ref-32]: [ISFDB – Lorelei Shannon, author record #14573 (Wayback, 2022)](https://web.archive.org/web/20220909121341/https://www.isfdb.org/cgi-bin/ea.cgi?Lorelei_Shannon) — Collection "Vermifuge and Other Toxic Cocktails (2001)"; The Blood of Father Time: "1 The New Cut (2007)", "2 The Mystic Clan's Grand Plot (2007)"
+[^ref-33]: [Open Library – Possum Kingdom](https://openlibrary.org/works/OL38089960W) — Possum Kingdom, Lorelei Shannon, Virtualbookworm.com Publishing, 2009
+[^ref-34]: [Open Library – Missouri's Mad Doctor McDowell](https://openlibrary.org/works/OL26791164W) — By Victoria Cosner and Lorelei Shannon; editions from Arcadia Publishing (2009) and History Press Library Editions (2015)
+[^ref-35]: [Open Library – Missouri's Murderous Matrons](https://openlibrary.org/works/OL26825830W) — By Victoria Cosner and Lorelei Shannon, Arcadia Publishing, 2019, 128 pages
+[^ref-36]: [Just Adventure interview with Lorelei Shannon by Andy Bellatti (May 1998, Wayback copy 2008)](https://web.archive.org/web/20080226130739/http://www.justadventure.com/Interviews/Lorelei_Shannon/Lorelei_Shannon_Interview.shtm) — On FMV: "It's got to happen. People are starting to expect it."; on horror publishing
+[^ref-37]: [Adventure Game Hotspot – Adventure Game Fan Fair 2024 guests](https://adventuregamehotspot.com/feature/737/new-name-new-date-new-very-special-guests-adventure-game-fan-fair-2024-coming-ju) — Fan Fair 2024, Tacoma, July 26-28, 2024; Lorelei Shannon among Sierra guests
+[^ref-38]: [Adventure Game Hotspot – Fan Fair update: panels announced](https://adventuregamehotspot.com/siteannouncement/1556/adventure-game-fan-fair-update-panels-parties-and-presentations-announced) — "Lorelei Shannon (designer/writer)" on the Phantasmagoria 2 panel; King's Quest 40th Anniversary panel
