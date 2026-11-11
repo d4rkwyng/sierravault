@@ -3,12 +3,12 @@ title: "Encore Software"
 type: publisher
 founded: 1994
 headquarters: "San Francisco Bay Area, California, United States"
-parent_company: "Sereno Ventures, LLC"
-last_updated: "2026-10-26"
+parent_company: "Sereno Ventures, LLC (acquired Encore's assets, 2017)"
+last_updated: "2026-11-11"
 ---
 # Encore Software
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ On November 11 (2008, per Wikipedia), Navarre announced an expanded agreement gi
 
 ### After Navarre (2014-2017)
 
-On July 9, 2014, Speed Commerce, Inc., as Navarre Corporation had been renamed, sold substantially all of the assets of its retail distribution and software publishing business (the "Navarre Business Assets") to Wynit Distribution, LLC.[^ref-25][^ref-26] By 2017 the business was held as WD Encore Software, LLC, one of the Wynit companies that filed for Chapter 11 bankruptcy in Minnesota on September 8, 2017. On November 9, 2017, the court approved the sale of Encore's business and assets to Sereno Ventures, LLC for $1.7 million; the sale closed on November 13, 2017.[^ref-27]
+On July 9, 2014, Speed Commerce, Inc., as Navarre Corporation had been renamed, sold substantially all of the assets of its retail distribution and software publishing business (the "Navarre Business Assets") to Wynit Distribution, LLC.[^ref-25] Wikipedia says the company changed its name from Navarre Corporation to Speed Commerce after a 2013 merger, and that the July 2014 sale included Encore.[^ref-26] By 2017 the business was held as WD Encore Software, LLC, one of the Wynit companies that filed for Chapter 11 bankruptcy in Minnesota on September 8, 2017. On November 9, 2017, the court approved the sale of Encore's business and assets to Sereno Ventures, LLC for $1.7 million; the sale closed on November 13, 2017.[^ref-27]
 
 ## Sierra Connection
 
@@ -51,11 +51,13 @@ The Hoyle series began in 1989 and was initially developed and published by Sier
 - **2005** — [[2006 - Hoyle Casino|Hoyle Casino]] — Notes: Updated casino collection
 - **2006** — [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] — Notes: Solitaire compilation
 - **2006** — [[2007 - Hoyle Casino|Hoyle Casino]] — Notes: Annual update
+- **2005** — [[2005 - Hoyle Card Games|Hoyle Card Games]] — Notes: Sierra-built; VU Games released it in 2004, and MobyGames lists an Encore slipcase release in 2005[^ref-30]
 - **2007** — [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Notes: Card game collection
 - **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Notes: Casino games update
 - **2007** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Notes: Puzzle compilation
 - **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Notes: Updated edition
 - **2010** — [[2010 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Notes: Pirate-themed slots
+- **2015** — [[2015 - Hoyle Official Card Games Collection|Hoyle Official Card Games Collection]] — Notes: Webfoot-developed; Viva Media on Steam, Encore US retail edition dated November 6, 2015[^ref-31]
 - **2016** — [[2016 - Hoyle Casino Games Collection|Hoyle Casino Games Collection]] — Notes: Casino collection
 
 Years follow each game's SierraVault page. Hoyle Board Games was developed by Sierra Entertainment; GameFAQs lists Encore Software as publisher of the US release (barcode 705381100270), while MobyGames credits Sierra Entertainment as its publisher.[^ref-28][^ref-20]
@@ -83,7 +85,9 @@ Encore Software, LLC continues to operate as a software publisher. Besides retai
 [^ref-23]: [Navarre Corporation - Credit Agreement dated November 12, 2009, Form 8-K Exhibit 10.1 (SEC)](https://www.sec.gov/Archives/edgar/data/911650/000095012309062115/c54663exv10w1.htm) - Lists Encore–Riverdeep agreements "dated July 1, 2008" and the Encore–United States Playing Card Company agreement "dated December 17, 2004"
 [^ref-24]: [Navarre Corporation - Navarre Corporation Acquires Encore Software, Inc. (August 5, 2002, Wayback)](https://web.archive.org/web/20061117033906/http://ir.navarre.com/phoenix.zhtml?c=105157&p=irol-newsArticle&ID=322645&highlight=) - "acquired the primary assets of Encore Software, Inc. from the United States Bankruptcy Court for the Central District of California"
 [^ref-25]: [Speed Commerce, Inc. - Form 8-K, July 9, 2014 (SEC)](https://www.sec.gov/Archives/edgar/data/911650/000143774914012592/spdc20140708_8k.htm) - Asset Purchase Agreement with Wynit Distribution, LLC for the retail distribution and software publishing business
-[^ref-26]: [SEC EDGAR - Speed Commerce, Inc. company filings (CIK 0000911650)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000911650&type=8-K&dateb=&owner=include&count=40) - "formerly: NAVARRE CORP /MN/ (filings through 2013-08-29)"
+[^ref-26]: [Wikipedia - Navarre Corporation](https://en.wikipedia.org/wiki/Navarre_Corporation) - "the company changed their name from Navarre Corporation to Speed Commerce"; July 9, 2014 sale of Navarre Distribution Services and Encore assets to Wynit Distribution LLC
 [^ref-27]: [KSV Kofman Inc. - Fifth Report of the Information Officer, WYNIT Distribution, LLC et al. (December 1, 2017, Wayback)](https://web.archive.org/web/20180920234827/http://www.ksvadvisory.com/assets/Uploads/insolvency-case-documents/WYNIT%20Distribution%2C%20LLC/CCAA%20Proceedings/Reports/07_WYNIT%20-%20Fifth%20Report%20of%20the%20Information%20Officer%20-%20final.pdf) - WD Encore Software, LLC among the Chapter 11 debtors (September 8, 2017); Encore assets sold to Sereno Ventures, LLC for $1.7 million, approved November 9, 2017, closed November 13, 2017
 [^ref-28]: [GameFAQs - Hoyle Board Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/data) - Developer Sierra Entertainment; US release published by Encore Software, barcode 705381100270, 2005
 [^ref-29]: [IGN - Hoyle Board Games [2005]](https://www.ign.com/games/hoyle-board-games-2005) - Encore; initial release Jul 13, 2005
+[^ref-30]: [MobyGames - Hoyle Card Games 2005 Releases](https://www.mobygames.com/game/178234/hoyle-card-games-2005/releases/) - Retail release published by Sierra Entertainment, Inc. (2005); slipcase release published by Encore, Inc. (2005); read via the MobyGames API
+[^ref-31]: [GameFAQs - Hoyle Official Card Games Collection (PC) Release Data](https://gamefaqs.gamespot.com/pc/203237-hoyle-official-card-games-collection/data) - US release published by Encore Software, 11/06/15, barcode 705381412502
