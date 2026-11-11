@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 2011
 total_games: 8
 genre: "Educational, Puzzle"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Dr. Brain Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,11 +27,11 @@ CUC International completed its purchase of Sierra in July 1996.[^ref-19] It ann
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Sierra On-Line | Founding entry; Corey Cole design[^ref-24] |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Sierra On-Line | Second entry[^ref-25] |
 | 1995 | [[1995 - The Lost Mind of Dr. Brain\|The Lost Mind of Dr. Brain]] | Sierra On-Line | Developed by [[Bright Star Technology]][^ref-26] |
-| 1996 | [[1996 - The Time Warp of Dr. Brain\|The Time Warp of Dr. Brain]] | Sierra On-Line | Time-travel entry |
-| 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Knowledge Adventure | *Dr. Brain Thinking Games* |
-| 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Knowledge Adventure | *Dr. Brain Thinking Games* |
-| 1999 | [[1999 - Dr. Brain - Action Reaction\|Dr. Brain: Action Reaction]] | Knowledge Adventure | Final dedicated entry[^ref-27] |
-| 2011 | [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] | Knowledge Adventure (JumpStart) | Franchise absorbed into JumpStart |
+| 1996 | [[1996 - The Time Warp of Dr. Brain\|The Time Warp of Dr. Brain]] | Sierra On-Line | Time-travel entry; developer credit disputed (see below)[^ref-8] |
+| 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Knowledge Adventure | *Dr. Brain Thinking Games*[^ref-22] |
+| 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Knowledge Adventure | *Dr. Brain Thinking Games*; re-released digitally in 2023 as *Dr. Brain: Mind Venture*[^ref-9][^ref-31] |
+| 1999 | [[1999 - Dr. Brain - Action Reaction\|Dr. Brain: Action Reaction]] | Knowledge Adventure | Final dedicated entry; re-released digitally in 2023[^ref-27][^ref-32] |
+| 2011 | [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] | Knowledge Adventure (JumpStart) | Franchise absorbed into JumpStart[^ref-10] |
 
 ## Castle of Dr. Brain (1991)
 
@@ -45,11 +45,11 @@ The sequel, designed by Patrick Bridgemon, sends the player, now Dr. Brain's ass
 
 ## The Lost Mind of Dr. Brain (1995)
 
-Developed by [[Bright Star Technology]], which took over the series after the second game, beginning with *Lost Mind*.[^ref-1][^ref-11] An experiment has mixed up the minds of Dr. Brain and his lab rat Rathbone, and the player solves puzzles to put him right.[^ref-7] It won the Software Publishers Association (SPA) award for Best Home Learning Game for Adolescents; Wikipedia dates the award to 1995.[^ref-7][^ref-23]
+Wikipedia lists [[Bright Star Technology]] as the developer; the series was turned over to a Bright Star team after the second game, beginning with *Lost Mind*.[^ref-1][^ref-11] MobyGames' Bright Star credits (seven games, 1992 to 1994) do not include *Lost Mind*.[^ref-34] An experiment has mixed up the minds of Dr. Brain and his lab rat Rathbone, and the player solves puzzles to put him right.[^ref-7] It won the Software Publishers Association (SPA) award for Best Home Learning Game for Adolescents; Wikipedia dates the award to 1995.[^ref-7][^ref-23]
 
 ## The Time Warp of Dr. Brain (1996)
 
-Dr. Brain is trapped in the "space time discontinuum", and the player saves him by completing puzzles at novice, expert or genius difficulty.[^ref-8] Its ten puzzle worlds, set at points along a timeline from prehistory to the far future, are Primordial Soup, Spelunking, Lizards and Eggs, Beaver Dam, Caveman Rock, Monkey See Monkey Do, Alchemy, Gridlock, Spaceshop and Brain Waves.[^ref-29][^ref-30] Who made *Time Warp* is less settled: Wikipedia's series article and Jimmy Maher place the later games with Bright Star, while Wikipedia's *Time Warp* article credits Sierra On-Line.[^ref-1][^ref-11][^ref-28]
+Dr. Brain is trapped in the "space time discontinuum", and the player saves him by completing puzzles at novice, expert or genius difficulty.[^ref-8] Its ten puzzle worlds, set at points along a timeline from prehistory to the far future, are Primordial Soup, Spelunking, Lizards and Eggs, Beaver Dam, Caveman Rock, Monkey See Monkey Do, Alchemy, Gridlock, Spaceshop and Brain Waves.[^ref-29][^ref-30] Who developed *Time Warp* is less settled: Wikipedia's series article and Jimmy Maher say later entries went to Bright Star, while Wikipedia's *Time Warp* article lists Sierra On-Line as developer.[^ref-1][^ref-11][^ref-28]
 
 ## Knowledge Adventure-era entries (1998-2011)
 
@@ -61,7 +61,7 @@ CUC bought Sierra in July 1996, and its purchase of Knowledge Adventure, announc
 
 In its annual report for the fiscal year ended March 31, 1996, Sierra said it had "sold more than 350,000 copies in this series".[^ref-18] *Castle of Dr. Brain* was the best seller of Sierra's Discovery Series.[^ref-11]
 
-No Dr. Brain game has been released since the 2011 JumpStart entry.
+No new Dr. Brain game has been released since the 2011 JumpStart entry. Two older titles did return as digital re-releases: on October 7, 2023, JumpStart Games and the Jordan Freeman Group released *IQ Adventure* (as *Dr. Brain: Mind Venture*) and *Action Reaction* on the ZOOM Platform.[^ref-31][^ref-32][^ref-33]
 
 ## See Also
 
@@ -94,3 +94,7 @@ No Dr. Brain game has been released since the 2011 JumpStart entry.
 [^ref-28]: [Wikipedia — The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) — infobox: developer Sierra On-Line, publisher Sierra On-Line
 [^ref-29]: [Giant Bomb — The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) — puzzle list: "Primordial Soup - 990,000,000 BC" through "Brain Waves - 100,000 AD"
 [^ref-30]: [Electric Playground — The Time Warp of Dr. Brain (Bonnie James, January 20, 1997, Wayback)](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) — "directing cell division in the 'Primordial Soup' to solving logic puzzles in the future with 'Brainwaves'"
+[^ref-31]: [MobyGames — Dr. Brain Thinking Games: IQ Adventure, Releases](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/releases/) — "Oct 7, 2023 Release … Published by: Jordan Freeman Group, LLC, Jumpstart Games, Inc. … Comments: Zoom Platform release"; also lists the title as "Dr. Brain: Mind Venture"
+[^ref-32]: [MobyGames — Dr. Brain: Action Reaction, Releases](https://www.mobygames.com/game/38944/dr-brain-action-reaction/releases/) — "Oct 7, 2023 Release … Published by: Jordan Freeman Group, LLC, Jumpstart Games, Inc. … Comments: Zoom Platform release"
+[^ref-33]: [PCGamingWiki — Dr. Brain: Action Reaction](https://www.pcgamingwiki.com/wiki/Dr._Brain:_Action_Reaction) — availability lists ZOOM Platform; digital publisher Jordan Freeman Group
+[^ref-34]: [MobyGames — Bright Star Technology, Inc. (Wayback, December 2024)](https://web.archive.org/web/20241207093539/https://www.mobygames.com/company/809/bright-star-technology-inc/) — "Credited on 7 Games from 1992 to 1994"
