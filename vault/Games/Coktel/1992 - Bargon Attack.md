@@ -10,20 +10,20 @@ series: Coktel
 engine: Gob
 protagonist: Bob
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Bargon Attack is a French point-and-click adventure game released in
   1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered...
 tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Bargon Attack is a French point-and-click adventure game released in 1992 by [[Coktel Vision]], one of the lesser-known titles from the studio best remembered for the Gobliiins series.[^ref-1] The game is an adaptation of a French comic strip ("bande dessinée") of the same name that was originally published in the computer magazine Micro News between 1989 and 1990/91 (sources differ), created by artist Rachid Chebli (known as "Rasheed") and writers Claude and Serge Marc.[^ref-2][^ref-7] As one of the first Coktel Vision games to introduce the unique interface that would be used in many of the company's subsequent titles, and among the earliest to utilize FMV technology in its cut-scenes, Bargon Attack represented a technical step forward for the French developer.[^ref-1]
 
-The game blends science fiction, cyberpunk aesthetics, and comedy elements in what modern retrospectives describe as a "sci-fi fever dream" that is "stylish, surreal, and frequently confusing—but in a charming 'what on Earth is going on' kind of way."[^ref-3] Set in a near-future Paris where an alien race called the Bargon has conquered Earth and enslaved humanity, players take on the role of a young programmer who decides to fight back against the extraterrestrial invaders.[^ref-1] The game features approximately 20 locations, each consisting of one to three screens, and incorporates both traditional adventure game puzzles and arcade sequences.[^ref-1]
+Hardcore Gaming 101 calls it "a fairly typical Coktel game" in structure, notes that "everything evokes B-level sci-fi movies," and says the plot "actually does get somewhat interesting by the end."[^ref-6] Set in a near-future Paris where an alien race called the Bargon has conquered Earth and enslaved humanity, players take on the role of a young programmer who decides to fight back against the extraterrestrial invaders.[^ref-1] The game features approximately 20 locations, each consisting of one to three screens, and incorporates both traditional adventure game puzzles and arcade sequences.[^ref-1]
 
 Contemporary French reviewers compared Bargon Attack favorably to American adventure games, with one critic from Génération 4 magazine noting that "Coktel Vision ne cesse de nous surprendre cette année, prouvant s'il en était besoin, que les sociétés françaises sont largement capables d'évincer les monstres sacrés dans le domaine du jeu d'aventure que sont Lucasfilm ou Sierra On-Line par exemple."[^ref-5] However, the game's English localization was notably poor, with one retrospective analysis stating that "there isn't a single line of dialogue that makes any real sense in the English version."[^ref-6]
 
@@ -42,7 +42,7 @@ Contemporary French reviewers compared Bargon Attack favorably to American adven
 
 In the near future, an alien race known as the Bargon has managed to infiltrate Earth's solar system through an insidious method—through computers and video games, they have found a way to get into human minds.[^ref-9][^ref-11] The Bargonians have conquered Earth and enslaved its human population, while mysterious cultists appear throughout Paris.[^ref-1][^ref-11] The game opens with the player character, Bob, deciding to investigate the alien invasion.[^ref-11]
 
-Bob hopes the guys at the micro club (a computer enthusiasts' club) in Paris will be of some help.[^ref-11] His investigation begins as he leaves the "Théâtre des égorgeurs" ("Cutthroat Theatre") and takes him to streets with the Arc de Triomphe in the background.[^ref-11] Along the way, Bob encounters both cult members serving the Bargon and various obstacles that require him to gather items and solve puzzles while avoiding deadly alien technology and creatures.[^ref-4]
+Bob hopes the guys at the micro club (a computer enthusiasts' club) in Paris will be of some help.[^ref-11] His investigation begins as he leaves the "Théâtre des égorgeurs" ("Cutthroat Theatre") and takes him to streets with the Arc de Triomphe in the background.[^ref-11] Along the way, Hardcore Gaming 101 describes "a strange church filled with mask-wearing preachers"[^ref-6] (Génération 4 names it "l'Église Réformée du Partenariat Cosmique"[^ref-5]), and Bob must gather items and solve puzzles[^ref-4] while avoiding deadly alien technology and creatures.[^ref-1]
 
 The story incorporates meta-narrative elements, as Bob himself is a video game enthusiast—during one arcade sequence, he even remarks "it's like I'm in a video game".[^ref-12] The game features nods to Coktel's own Fascination and to Delphine Software's Operation Stealth, the latter apparently a friendly nod to a competitor.[^ref-11] Eventually, Bob tracks the aliens through the streets of Paris, down through their secret underground lairs, and finally to their home planet.[^ref-6]
 
@@ -74,7 +74,9 @@ One infamous puzzle interaction involves the game text responding "Use nougat on
 
 ### Contemporary Reviews
 
-French gaming publications responded positively to Bargon Attack upon its 1992 release. The magazine Joystick awarded the game an impressive 94/100.[^ref-2] Génération 4 gave it 80%,[^ref-2] with reviewer Didier Latil praising the game as "Un jeu d'aventure tout ce qu'il y a de plus français" (An adventure game that is completely French) and comparing its humor favorably to American classics like Zak McKracken and Maniac Mansion.[^ref-5]
+French gaming publications responded positively to Bargon Attack upon its 1992 release. Wikipedia, citing MobyGames' MobyRank, lists Joystick at 94/100 and Génération 4 at 80%, without naming an issue or platform for either.[^ref-2] Joystick's July/August 1992 issue (p. 270) printed a re-test of the Amiga version by Moulinex, marked "DEJA TESTE DANS JOY N°17" and "DISPONIBLE SUR AMIGA, PC, ST", with Graphisme 15, Animation 14, Son 15, Difficulté 16 and "VERDICT:90%"; the reviewer wrote that the character and cursor movements "sont lents" on Amiga, while noting that "Coktel a apporté le plus grand soin à la conversion".[^ref-28] The Obligement reprint of Génération 4's June 1992 article, written by Didier Latil, prints a data sheet reading "NOTE : 6,5/10" without saying who assigned that mark, so the 80% and the 6,5/10 are both recorded here with their sources and are not reconciled.[^ref-5] Latil praised the game as "Un jeu d'aventure tout ce qu'il y a de plus français" (An adventure game that is completely French) and comparing its humor favorably to American classics like Zak McKracken and Maniac Mansion.[^ref-5] He found the mouse-driven system "légèrement trop facile" for genre veterans, adding that "Il est très rare de rester bloqué à un endroit".[^ref-5]
+
+Tilt no. 104 (July 1992) reviewed both versions. Its PC test (pp. 116-117, with the game on the cover) gave "Intérêt" 16 and called it "un des meilleurs jeux d'aventure français".[^ref-29] Its Amiga test (p. 84, "Editeur COKTEL VISION", by Jean-Loup Jovanovic) said "La version PC était excellente" but that the Amiga version "souffre d'une conversion imparfaite. Les animations vidéo en un tiers d'écran de la version PC ont disparu, et ont été remplacées par des images peu animées", with the character moving "au ralenti", and closed with "Encore une victime de la conversion sauvage".[^ref-29]
 
 German publications were more measured in their assessments. Joker Verlag präsentiert: Sonderheft awarded 78%.[^ref-2] The German magazine Amiga Joker, reviewed by Carsten Borgmeier, also gave the game 78%.[^ref-15] Power Play scored it lower at 59%, while Gamezone (Germany) awarded 60%.[^ref-2]
 
@@ -92,7 +94,7 @@ Hardcore Gaming 101's retrospective emphasized the game's flaws: "filled with ti
 - **MobyGames Critics:** 76%[^ref-1]
 - **Home of the Underdogs:** 8.08/10 (60 votes)[^ref-13]
 - **My Abandonware:** 4.08/5 (24 votes)[^ref-19]
-- **Abandonware DOS:** 3.59/5 (32 votes)[^ref-3]
+- **Abandonware DOS:** 3.58/5 (33 votes, checked 2026-11-11)[^ref-3]
 - **Atari Legend:** 2.50 out of 5 (1 vote)[^ref-7]
 - **Alex Bevilacqua Review:** 21%[^ref-18]
 
@@ -143,6 +145,7 @@ The game was built using the Gob engine, which Coktel Vision utilized for severa
 - **Hardware:** OCS/ECS
 - **Media:** 4 disks
 - **Development Tools:** C Code, Gob engine
+- **Conversion notes:** Tilt no. 104 reports that the PC version's video animations were replaced by barely animated images and that the character moves slowly[^ref-29]
 
 ### Version History
 
@@ -152,6 +155,8 @@ The game was built using the Gob engine, which Coktel Vision utilized for severa
 | 1992 | DOS (VGA) | 6 HD disks, additional voices[^ref-16] |
 | 1992 | Amiga | OCS/ECS[^ref-15] |
 | 1992 | Atari ST | France, Germany, Italy, UK[^ref-14] |
+
+A Coktel Vision advertisement in Tilt no. 104 (p. 41) reads "Disponible sur PC, PC-HD, ST, AMIGA et bientôt sur PC CD-ROM, CDI, CDTV."[^ref-29] The platforms MobyGames lists are DOS, Amiga and Atari ST.[^ref-1]
 
 **Regional Releases:**[^ref-14]
 - **France:** DOS, Amiga, Atari ST versions
@@ -199,7 +204,7 @@ No compilation release of Bargon Attack has been documented. The ScummVM wiki li
 
 Due to the game's obscurity, fan engagement has been limited primarily to preservation efforts and walkthroughs. Notable fan contributions include:
 
-- **BBB's Walkthrough (2000):** One of the first English walkthroughs, translated from an Italian guide with only "20-30% accuracy" due to the lack of existing English documentation[^ref-16]
+- **BBB's Walkthrough (2000):** An English walkthrough whose author started from a complete Italian walkthrough and ran it through a free online dictionary site (Spanish-English standing in for the unavailable Italian), which "worked with only 20-30 percent accuracy"; the author then replayed the game to finish it and rewrite the solution in English[^ref-16]
 - **jimfish's HTML Walkthrough (2020):** A more comprehensive 37KB guide available through GameFAQs[^ref-24]
 - **Russian Fan Translation:** A fan translation by "Бюро переводов Old-Games.Ru" made the game accessible to Russian-speaking audiences[^ref-25]
 - **ScummVM Compatibility:** The game has been supported by ScummVM since version 0.10.0[^ref-8]
@@ -214,7 +219,7 @@ The original comic strip that inspired the game was published in Micro News maga
 
 Bargon Attack occupies an interesting position in adventure gaming history as a product of the French gaming industry during a period when French developers were actively competing with American studios like LucasArts and Sierra On-Line.[^ref-5] Génération 4 saw the game as evidence that French companies could match their American counterparts, while German magazines scored it lower.[^ref-2]
 
-The game represents both the ambitions and the limitations of Coktel Vision's approach to adventure game design. While the studio was innovative in introducing new interface paradigms and early FMV technology, the game also exemplifies the kind of "tiny, nearly invisible objects" and insta-death puzzle design that would eventually fall out of favor.[^ref-6] Its English localization was poor,[^ref-6] and modern players are divided between those who find it charmingly strange and those who find it frustrating.[^ref-3][^ref-18]
+The game represents both the ambitions and the limitations of Coktel Vision's approach to adventure game design. While the studio was innovative in introducing new interface paradigms and early FMV technology, the game also exemplifies the kind of "tiny, nearly invisible objects" and insta-death puzzle design that would eventually fall out of favor.[^ref-6] Its English localization was poor,[^ref-6] and modern reviewers range from Home of the Underdogs' "fun, campy adventure" to Alex Bevilacqua's "the game really isn't fun".[^ref-13][^ref-18]
 
 For French gamers of a certain generation, Bargon Attack holds nostalgic significance. As one reviewer noted, "My youth as a French adventure gamer who couldn't speak English was strictly limited to a few games"—and Bargon Attack was one of the accessible titles for non-English speakers in an era dominated by American adventure games.[^ref-10] The game's adaptation from a computer magazine comic strip also represents a unique origin story in gaming history, highlighting the interconnected nature of computer culture and gaming in France during the early 1990s.[^ref-20]
 
@@ -241,7 +246,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 
 [^ref-1]: [MobyGames – Bargon Attack](https://www.mobygames.com/game/13178/bargon-attack/) – developer info, platform details, interface innovations, FMV technology
 [^ref-2]: [Wikipedia – Bargon Attack](https://en.wikipedia.org/wiki/Bargon_Attack) – comic origins, review scores, critical assessments
-[^ref-3]: [Abandonware DOS – Bargon Attack](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bargon+Attack&gid=1738) – user ratings, game description, atmosphere
+[^ref-3]: [Abandonware DOS – Bargon Attack](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bargon+Attack&gid=1738) – user rating (3.58/5, 33 votes, checked 2026-11-11)
 [^ref-4]: [Classic Reload / Mr Bill's Adventure Land](https://classicreload.com/bargon-attack.html) – gameplay mechanics, structure, mini-games
 [^ref-5]: [Obligement – Génération 4 Review](http://obligement.free.fr/articles/bargonattack.php) – French review, Didier Latil quotes, contemporary reception
 [^ref-6]: [Hardcore Gaming 101 – Bargon Attack](http://www.hardcoregaming101.net/bargon-attack/) ([archived 2025-01-21](https://web.archive.org/web/20250121052629/http://www.hardcoregaming101.net/bargon-attack/)) – English translation quality, puzzle criticism, gameplay analysis
@@ -265,3 +270,5 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-25]: [PCGamingWiki – Bargon Attack](https://www.pcgamingwiki.com/wiki/Bargon_Attack) – localizations, Russian fan translation, system requirements
 [^ref-26]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-27]: [Gamekult – VU Games cède Coktel à Mindscape (archived 2018)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) – Mindscape acquires Coktel and its Adibou licences from VU Games, 21 October 2005
+[^ref-28]: [Joystick no. 29 (July/August 1992), p. 270 – scan](http://download.abandonware.org/magazines/Joystick/joystick_numero029/page%20270.jpg) – Amiga re-test by Moulinex, 90%, "Déjà testé dans Joy n°17"
+[^ref-29]: [Tilt no. 104 (July 1992) – Internet Archive](https://archive.org/details/Tilt104) – PC test pp. 116-117, Amiga test p. 84, Coktel Vision advertisement p. 41
