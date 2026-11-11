@@ -6,12 +6,12 @@ defunct: 2005
 headquarters: "Cambridge, Massachusetts, USA"
 notable_games: ["Empire Earth", "Empires: Dawn of the Modern World", "Rise and Fall: Civilizations at War"]
 parent_company: "Independent"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Stainless Steel Studios
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -51,6 +51,20 @@ On November 25, 2005, Gamasutra reported that Stainless Steel Studios had "close
 
 GameSpot reported Goodman's account, via Gamestar.de: after the game's release slipped from October to early 2006, "Midway cut off advances to Stainless Steel, which in turn had to lay off its staff due to lack of funding." Midway's response to GameSpot's inquiries was "cryptic".[^ref-17] Midway Studios – San Diego finished Rise and Fall: Civilizations at War,[^ref-26] which was released on June 12, 2006, to mixed reviews.[^ref-15]
 
+## Notable Games
+
+### Empire Earth (2001)
+
+Published by Sierra Entertainment, Empire Earth was released in the United States on November 13, 2001, and spans 500,000 years of history in fourteen epochs.[^ref-2][^ref-25] GameSpy named it its 2001 PC Game of the Year, and it had sold over one million copies by May 2002.[^ref-22][^ref-25]
+
+### Empires: Dawn of the Modern World (2003)
+
+Published by Activision in October 2003, this was the studio's second game, made while Mad Doc Software developed the Empire Earth expansion.[^ref-14][^ref-4][^ref-25]
+
+### Rise and Fall: Civilizations at War (2006)
+
+The studio's final project, made for Midway Games, let players take direct control of heroes such as Alexander the Great and Cleopatra. Midway Studios – San Diego finished it after the studio closed, and it was released on June 12, 2006.[^ref-15][^ref-26][^ref-4]
+
 ## Key People
 
 Rick Goodman was the studio's president and a designer on Empire Earth.[^ref-3][^ref-18] Dara-Lynn Pelechatz was co-founder and director of operations.[^ref-1] The development team included designers Jon Alenson, Christopher Theriault, Jason Dillman, Gordon Farrell, and GJ Snyder III.[^ref-18] Composers Ed Lima and Steve Maitland created the musical scores, and Blur Studios is thanked in the credits for the game's video work.[^ref-18]
@@ -59,15 +73,17 @@ Rick Goodman was the studio's president and a designer on Empire Earth.[^ref-3][
 
 GameSpy's Game of the Year write-up said Empire Earth "set a new high water mark for others to follow".[^ref-22]
 
-The series continued with Empire Earth II (2005) and Empire Earth III (2007), developed by Mad Doc Software, though the third installment was critically panned with a Metacritic score of just 50%.[^ref-20] After the Activision–Vivendi merger, Rebellion acquired the Empire Earth property, announced on July 14, 2009.[^ref-19][^ref-24]
+The series continued with Empire Earth II (April 2005)[^ref-29] and Empire Earth III (November 2007),[^ref-30] both developed by Mad Doc Software, though the third installment was critically panned with a Metacritic score of just 50%.[^ref-20] After the Activision–Vivendi merger, Rebellion acquired the Empire Earth property, announced on July 14, 2009.[^ref-19][^ref-24]
 
-The fan community has kept Empire Earth alive through projects like NeoEE (neoee.net), which provides replacement multiplayer servers.[^ref-21] The official servers shut down on November 3, 2008.[^ref-2]
+The fan community has kept Empire Earth alive through projects like NeoEE (neoee.net), which provides replacement multiplayer servers.[^ref-21] The official servers shut down on November 3, 2008.[^ref-2] Empire Earth: Gold Edition returned to sale on Steam on May 26, 2026, published by Rebellion.[^ref-31]
 
 ## Games
 
-- **2001** — [[2001 - Empire Earth|Empire Earth]] — Publisher: Sierra Entertainment, Genre: Real-Time Strategy
-- **2003** — Empires: Dawn of the Modern World — Publisher: Activision, Genre: Real-Time Strategy[^ref-14]
-- **2006** — Rise and Fall: Civilizations at War — Publisher: Midway Games, Genre: Real-Time Strategy[^ref-15]
+| Year | Game | Genre |
+|------|------|-------|
+| 2001 | [[2001 - Empire Earth\|Empire Earth]] | Real-Time Strategy |
+| 2003 | Empires: Dawn of the Modern World[^ref-14] | Real-Time Strategy |
+| 2006 | Rise and Fall: Civilizations at War[^ref-15] | Real-Time Strategy |
 
 MobyGames also credits the studio for the graphic engine of Tilted Mill's Immortal Cities: Children of the Nile (2004).[^ref-26][^ref-28]
 
@@ -96,3 +112,6 @@ MobyGames also credits the studio for the graphic engine of Tilted Mill's Immort
 [^ref-26]: [MobyGames - Stainless Steel Studios Inc.](https://www.mobygames.com/company/2554/stainless-steel-studios-inc/) — Company 2554: founded January 1998; "developing the Titan engine"; Rise & Fall "finished by Midway Studios - San Diego"; credited on 4 games, 2001–2006
 [^ref-27]: [MobyGames - Empire Earth: The Art of Conquest](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/) — Game 8037 (read via the MobyGames API): developed by Mad Doc Software, US release September 16, 2002
 [^ref-28]: [MobyGames - Immortal Cities: Children of the Nile](https://www.mobygames.com/game/16480/immortal-cities-children-of-the-nile/) — Game 16480 (read via the MobyGames API): developed by Tilted Mill, published by Myelin Media, November 2004; Stainless Steel Studios "Graphic Engine by"
+[^ref-29]: [MobyGames - Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra, US release April 26, 2005
+[^ref-30]: [MobyGames - Empire Earth III](https://www.mobygames.com/game/31120/empire-earth-iii/) – Game 31120 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra, US release November 6, 2007; Wikipedia's Empire Earth III article gives the same developer and date
+[^ref-31]: [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Steam appdetails API: release May 26, 2026; publisher Rebellion; developers Stainless Steel Studios, Mad Doc Software, Xtended Realities
