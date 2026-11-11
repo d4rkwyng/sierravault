@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Same engine as Gold Rush! Anniversary
 protagonist: Jerrod Wilson
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Gold Rush! 2 is a point-and-click adventure game developed and published
   by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS,...
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,9 +28,9 @@ Set in 1869, the game takes place during a pivotal time in American history, fea
 Gold Rush! 2 follows the graphical style established by Gold Rush! Anniversary, the 2014 remake of the original game also developed by Sunlight Games[^ref-6]. The game features more than 80 pre-rendered images and animated scenes in full HD resolution[^ref-2], though Adventure Gamers judged that the "graphics are dated for a modern adventure"[^ref-7]. Despite its historical setting and educational elements, the sequel failed to achieve the critical acclaim of its Sierra predecessor, with reviewers citing overly simplistic puzzles and poor voice acting as significant drawbacks[^ref-7].
 
 > [!info]- Game Info
-> **Developer:** Sunlight Games[^ref-1]
+> **Developer:** [[Sunlight Games - KISS ltd|Sunlight Games]][^ref-1]
 > **Designer:** Story: Ken & Doug MacNeill, Marco Sowa[^ref-20][^ref-17]
-> **Publisher:** Sunlight Games (Steam)[^ref-2]; Kiss Ltd listed by Adventure Gamers and Metacritic[^ref-7][^ref-11]
+> **Publisher:** [[Sunlight Games - KISS ltd|Sunlight Games]] (Steam)[^ref-2]; Kiss Ltd listed by Adventure Gamers and Metacritic[^ref-7][^ref-11]
 > **Engine:** Same engine as Gold Rush! Anniversary (per a Steam user review)[^ref-9]
 > **Platforms:** Windows, macOS, Linux, iOS, Android[^ref-1]
 > **Release Year:** 2017
@@ -52,7 +52,7 @@ The story, while praised for being historically interesting and somewhat educati
 
 ### Interface and Controls
 
-Gold Rush! 2 utilizes a traditional point-and-click interface, continuing the adventure game conventions established by its predecessors[^ref-7]. Sunlight described it as "an optimized point-and-click control" with no parser, as in the remake[^ref-20]. One Steam reviewer noted that it "Uses the same game engine from the Gold Rush Anniversary remake"[^ref-9], and the graphic style follows that 2014 remake[^ref-6].
+Gold Rush! 2 utilizes a traditional point-and-click interface, continuing the adventure game conventions established by its predecessors[^ref-7]. Sunlight described it as "an optimized point-and-click control" with no parser, unlike the remake, which offered a parser option alongside point-and-click[^ref-20][^ref-17]. One Steam reviewer noted that it "Uses the same game engine from the Gold Rush Anniversary remake"[^ref-9], and the graphic style follows that 2014 remake[^ref-6].
 
 The game presents more than 80 pre-rendered images and animated scenes displayed in full HD resolution[^ref-2]. Some technical issues affected gameplay, including a bug where incorrect resolution settings caused hotspots to appear in wrong locations, preventing players from accessing certain areas of the screen[^ref-9].
 
@@ -82,10 +82,10 @@ Just Adventure gave the game a "C" grade in a review first published May 8, 2017
 
 ### Modern Assessment
 
-Steam user reviews show a "Mixed" rating, with 58% of 12 user reviews positive as of October 2026[^ref-2]. Third-party analytics site Raijin.gg reported a Steam review score of 69.23%[^ref-8]. Individual Steam reviewers offered varied opinions, with user "saucerat" praising the game: "Great graphics, very good game flow. Nice to see the old games redone or new editions"[^ref-9]. In contrast, user "Renodox" offered criticism: "this game plays more like an epilogue to the original story rather than a full on game itself and leaves a lot to be desired"[^ref-9].
+Steam user reviews show a "Mixed" rating, with 61% of 13 user reviews positive as of November 2026[^ref-2]. Third-party analytics site Raijin.gg reported a Steam review score of 69.23%[^ref-8]. Individual Steam reviewers offered varied opinions, with user "saucerat" praising the game: "Great graphics, very good game flow. Nice to see the old games redone or new editions"[^ref-9]. In contrast, user "Renodox" offered criticism: "this game plays more like an epilogue to the original story rather than a full on game itself and leaves a lot to be desired"[^ref-9].
 
 **Aggregate Scores:**
-- **Steam:** 58% positive (12 reviews, October 2026)[^ref-2]
+- **Steam:** 61% positive (13 reviews, November 2026)[^ref-2]
 - **Metacritic:** No Metascore ("tbd"); one critic review, Adventure Gamers, 40[^ref-11]
 - **MobyGames:** 40%[^ref-13]
 - **3rd-strike.com:** 6.1/10 (site), 4.7/10 (users, 3 votes)[^ref-5]
@@ -129,9 +129,8 @@ The game includes full voice acting throughout, though this feature received sig
 - **Graphics:** Graphic card with minimum 512 MB RAM
 - **Storage:** 1800 MB available space
 
-**Mac Version:**[^ref-6]
-- **Minimum OS:** Mac OS X Lion
-- **Note:** Steam lists it as not compatible with macOS 10.15 Catalina or above (notice shown to Mac visitors, October 2026)[^ref-2]
+**Mac Version:**
+- **Minimum OS:** OS X Lion[^ref-2]
 
 **Mobile Version:**[^ref-4]
 - **Android:** Minimum 1 GB RAM (512 MB devices not supported)
@@ -142,7 +141,7 @@ The game includes full voice acting throughout, though this feature received sig
 
 Several technical problems affected the player experience. Some users reported the game failing to start and returning to the Steam menu[^ref-15]. In August 2023 Sunlight traced the crash after the splash screens to Intel Ice Lake (10th gen or newer) CPUs and "a bug in OpenSSL"[^ref-23], and said it "was fixed with the latest update on August 2025" (v1.0.5)[^ref-23]. A significant bug affected resolution settings, causing hotspot locations to become misaligned and preventing players from accessing the right side of the screen[^ref-9].
 
-Steam's store page, as shown to Mac visitors in October 2026, still carries the notice "This product is not compatible with macOS 10.15 Catalina or above"[^ref-2]. Sunlight's v1.0.5 notes do not mention macOS[^ref-22].
+The Steam store page checked on November 11, 2026 shows no macOS compatibility notice and lists OS X Lion as the minimum Mac version[^ref-2]. Sunlight's v1.0.5 notes do not mention macOS[^ref-22].
 
 Implementation bugs affected gameplay logic, including:
 - Success messages appearing before encountering related puzzles[^ref-6]
@@ -157,7 +156,7 @@ Some reviewers attributed these issues to the developers seeming "inexperienced 
 |---------|------|----------|-------|
 | 1.0 | April 28, 2017 | Windows (Steam) | Initial release[^ref-1] |
 | 1.0.3 | May 11, 2017 | Windows (Steam) | Re-recorded mispronounced lines, train-robbery text changes, fixes for dynamite/pole/officer problems on some resolutions[^ref-1][^ref-21] |
-| 1.0 | May 24, 2017 | Mac, Linux | Mac and Linux release[^ref-1] |
+| 1.0 | May 23, 2017 | Mac, Linux | Mac and Linux release, announced on Steam on May 23[^ref-27]; the official site's news lists May 24[^ref-1] |
 | 1.0 | June 1, 2017 | iOS | iOS App Store release[^ref-1] |
 | 1.0 | June 12, 2017 | Android | Google Play and Amazon release[^ref-1] |
 | Box | June 30, 2017 | PC | German retail release[^ref-1] |
@@ -275,3 +274,5 @@ The game's short length (completable in under three hours) and easy puzzles posi
 [^ref-25]: [Steam Community – Steam-Cloud is back! (Sunlight Games, Oct 21, 2025)](https://steamcommunity.com/app/609100/discussions/0/598541076225270594/) – "Today we re-enabled the Steam Cloud feature for cloud saves"
 
 [^ref-26]: [Just Adventure – Gold Rush! 2 review (Wayback, 2023-02-07)](https://web.archive.org/web/20230207013149/https://www.justadventure.com/2018/04/12/gold-rush-review/) – "This review was originally published May 8, 2017"
+
+[^ref-27]: [Steam news feed – Gold Rush! 2 (Sunlight Games)](https://steamcommunity.com/games/609100/rss/) – "Gold Rush! 2 for Mac and Linux released!" posted Tue, 23 May 2017 21:15 UTC

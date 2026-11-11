@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "King's Quest V", "Quest for Glory I VGA", "Space Quest IV", "The Colonel's Bequest"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Jerry Moore
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,11 +31,11 @@ Moore's earliest documented credits come from Sierra's mid-1980s games. He is on
 
 MobyGames credits him with graphics on [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] (both 1987).[^ref-2] Sierra's own InterAction magazine described his Police Quest part as a small one: Greg Rowland handled much of the coding and graphic design, "with Al Lowe helping on the programming and Jerry Moore adding a few pictures".[^ref-19]
 
-As Sierra moved to its SCI engine, Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988).[^ref-8][^ref-2] On [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] (1989), the first game in what became the Quest for Glory series, he is credited with "Animation & Background Scenes".[^ref-5] InterAction listed him first of the game's four graphics artists, with Cindy Walker, Kenn Nishiuye and Jeff Crowe.[^ref-20]
+As Sierra moved to its SCI engine, Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988).[^ref-8][^ref-2] On [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] (1989), the first game in what became the Quest for Glory series, he is credited with "Animation & Background Scenes".[^ref-5] InterAction listed him first of the game's four graphics artists, with Cindy Walker, Kenn Nishiuye and Jeff Crowe.[^ref-20] Quest for Glory co-designer Corey Cole, in a July 2014 comment on The Adventurers' Guild, named Moore as "one of our main artists on Hero's Quest" and said that "the animation was done by Jerry Moore" on [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]].[^ref-27]
 
-Moore and Douglas Herring are the two artists Wikipedia names for [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), Roberta Williams' murder mystery set in 1920s Louisiana; InterAction's Fall 1989 issue credits the graphics to "Douglas Herring, Jerry Moore".[^ref-7][^ref-11][^ref-22] He also provided additional artwork for [[1990 - Codename - Iceman|Code-Name: Iceman]] and is credited as a graphic artist on [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]], where InterAction names him as the game's only graphics credit beside designer-programmer Warren Schwader.[^ref-2][^ref-21]
+Moore and Douglas Herring are the two artists Wikipedia names for [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), Roberta Williams' murder mystery set in 1920s Louisiana; InterAction's Fall 1989 issue credits the graphics to "Douglas Herring, Jerry Moore".[^ref-7][^ref-11][^ref-22] The game's manual lists "Backgrounds by" Douglas Herring and Jerry Moore, with "Animation by" Douglas Herring alone.[^ref-25] He also provided additional artwork for [[1990 - Codename - Iceman|Code-Name: Iceman]] (the manual lists him under "Additional Artwork" with Jeff Crowe, Kenn Nishiuye and Cindy Walker)[^ref-26] and is credited as a graphic artist on [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]], where InterAction names him as the game's only graphics credit beside designer-programmer Warren Schwader.[^ref-2][^ref-21]
 
-In the VGA era he was one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990).[^ref-9] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]][^ref-13] and is credited as an artist on [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
+In the VGA era he was one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990).[^ref-9] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]][^ref-13][^ref-27] and is credited as an artist on [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
 
 In 1991 he contributed graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]][^ref-10] and background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]].[^ref-12] He is also credited with art design on the SCI remake of [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose]], which Sierra announced in 1990 and MobyGames dates to 1991.[^ref-2]
 
@@ -57,11 +57,11 @@ Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Ros
 
 ### Hero's Quest / Quest for Glory I (1989/1992)
 
-Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest]] (1989), Corey and Lori Cole's RPG-adventure hybrid.[^ref-5][^ref-20] He is later credited with "Incredible Artwork" on the [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|VGA remake]] (1992).[^ref-14]
+Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest]] (1989), Corey and Lori Cole's RPG-adventure hybrid.[^ref-5][^ref-20][^ref-27] He is later credited with "Incredible Artwork" on the [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|VGA remake]] (1992).[^ref-14]
 
 ### The Colonel's Bequest (1989)
 
-Moore worked alongside Douglas Herring on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], with credits for graphics and artwork.[^ref-7][^ref-11][^ref-22]
+Moore worked alongside Douglas Herring on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], with credits for graphics and artwork; the manual lists both under "Backgrounds by".[^ref-7][^ref-11][^ref-22][^ref-25]
 
 ### King's Quest V (1990)
 
@@ -85,7 +85,7 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 - **1987** — [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] — Role: Graphics
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Animation
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Animation & Background Scenes (InterAction: Graphics)
-- **1989** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Additional Artwork
+- **1989/1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Additional Artwork (MobyGames dates the game to December 1989; Wikipedia gives March 1990)[^ref-28][^ref-29]
 - **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games - Volume 1]] — Role: Graphics
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Graphics / Artwork
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Artist
@@ -131,3 +131,8 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 [^ref-22]: [Sierra InterAction, Issue 6 (Fall 1989) – "The Colonel's Bequest" by Bridget McKenna (fan transcription)](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) — "Graphics: Douglas Herring, Jerry Moore"
 [^ref-23]: [MobyGames - Gerald Moore Rap Sheet (Wayback, December 2004)](https://web.archive.org/web/20041204162454/http://www.mobygames.com:80/developer/sheet/view/developerId,3851/) — alias "Jerry Moore"; no biography on file yet (Biography menu item inactive)
 [^ref-24]: [MobyGames - Gerald Moore Rap Sheet (Wayback, February 2007)](https://web.archive.org/web/20070218112716/http://www.mobygames.com:80/developer/sheet/view/developerId,3851/) — biography now present: Point Loma College 1975, Dimensions Vertical, "Progress 21, a 21st century adaption of Pilgrim Progress"
+[^ref-25]: [The Colonel's Bequest manual (Internet Archive scan)](https://archive.org/details/Colonels_Bequest_-_Manual) — credits page: "Animation by DOUGLAS HERRING"; "Backgrounds by DOUGLAS HERRING, JERRY MOORE" (OCR text read)
+[^ref-26]: [Codename: ICEMAN manual (Internet Archive scan)](https://archive.org/details/Codename_Iceman_Manual) — credits page: "ADDITIONAL ARTWORK Jeff Crowe, Jerry Moore, Kenn Nishiuye, Cindy Walker" (OCR text read)
+[^ref-27]: [The Adventurers' Guild – Game 45: Quest for Glory II – Introduction (comments)](https://advgamer.blogspot.com/2014/07/game-45-quest-for-glory-ii-introduction.html) — comment by Corey Cole, 12 July 2014: "The animation was done by Jerry Moore, who was also one of our main artists on Hero's Quest."
+[^ref-28]: [MobyGames - Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) — first release date 1989-12 (read via the MobyGames API)
+[^ref-29]: [Wikipedia - Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) — infobox release "March 1990", citing Sierra News Magazine, Spring 1990 shipping schedule
