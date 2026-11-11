@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Hoyle Classic Card Games (Hoyle 4) is Sierra On-Line's 1993 VGA remake
   of Hoyle's Official Book of Games Volume 1, with eight card games, speech and Sierra
   characters as opponents.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ Each game has its own rule options[^ref-18]:
 
 ### Contemporary Reviews
 
-Computer Gaming World's August 1993 issue (#109, p. 140) wrote that "Sierra has dealt out another winning hand with the latest installment in their Hoyle Book of Games Series. Although Hoyle Classic forges little new ground, it does continue a fine tradition of providing the gamer with a choice selection of classics card games in an attractive, competent and enjoyable package," listing it at $49.95 for IBM[^ref-26]. Electronic Games (August 1993) gave it 88% overall. Reviewer Ed Dille praised the eighteen distinct computer opponents and Sierra's effort to synchronize the characters' lip movements with their speech, and concluded that "Hoyle Classic Card Games is a worthy refinement of Sierra's earlier effort"[^ref-27]. A bridge-program roundup in the same issue was more guarded: "The Hoyle (Sierra) game is capable of making intelligent plays... but it also produces some serious errors"[^ref-27].
+Computer Gaming World's August 1993 issue (#109, p. 140) wrote that "Sierra has dealt out another winning hand with the latest installment in their Hoyle Book of Games Series. Although Hoyle Classic forges little new ground, it does continue a fine tradition of providing the gamer with a choice selection of classics card games in an attractive, competent and enjoyable package," listing it at $49.95 for IBM[^ref-26]. Electronic Games (August 1993) gave it 88% overall. Reviewer Ed Dille praised the eighteen distinct computer opponents and Sierra's effort to synchronize the characters' lip movements with their speech, and concluded that "Hoyle Classic Card Games is a worthy refinement of Sierra's earlier effort"[^ref-27]. A bridge-program roundup in the same issue, "Rating the Contenders" by Brent Manley of the American Contract Bridge League, was more guarded: "The Hoyle (Sierra) game is capable of making intelligent plays... but it also produces some serious errors." Its ratings table scored Hoyle Classic Card Games 86 for graphics, 88 for sound, 78 for bidding, 72 for play, 60 for speed and 77 overall[^ref-27].
 
 MobyGames lists a critics' average of 70% from six ratings[^ref-2], but that average is skewed. Two of its scores, GameSpot's 7/10 (February 1998) and Computer Gaming World's 1.5/5 (March 1998), are filed under this 1993 entry although they postdate the 1997 Windows game of the same name; the archived GameSpot review covers that later eleven-game CD-ROM release[^ref-28][^ref-29]. The 1993–94 period scores MobyGames records are ASM 11/12 (July 1993), Play Time 73% (July 1993), PC Games (Germany) 72% (June 1993) and Secret Service 250/300 (September 1994)[^ref-28].
 
@@ -88,6 +88,7 @@ MobyGames lists a critics' average of 70% from six ratings[^ref-2], but that ave
 |-------------|-------|-------|
 | Computer Gaming World #109 (Aug 1993) | — | Capsule review, "another winning hand"[^ref-26] |
 | Electronic Games (Aug 1993) | 88% | Ed Dille[^ref-27] |
+| Electronic Games (Aug 1993), bridge roundup | 77 overall | Brent Manley's Bridge ratings; bidding 78, play 72[^ref-27] |
 | MobyGames | 70% | Critics' average, 6 ratings; includes two 1998 scores that postdate the 1997 game of the same name[^ref-2][^ref-28] |
 | MobyGames | 4.6/5 | Players' average, 4 ratings[^ref-2] |
 
@@ -101,7 +102,7 @@ On abandonware sites, users rate the game 4.03/5 on Abandonware DOS (32 votes)[^
 
 Sierra licensed the Hoyle name from the playing-card maker Brown & Bigelow[^ref-3][^ref-15]. The brand traces back to Edmond Hoyle (1672–1769), whose writings on card games, beginning with *A Short Treatise on the Game of Whist* in 1742, made "according to Hoyle" a byword for "strictly according to the rules"[^ref-30]. Sierra's box copy played on the phrase: "For years, 'according to Hoyle' has meant 'by the book'; the definitive way to enjoy a great game of cards"[^ref-19][^ref-10].
 
-The series began in 1989 with Volume 1, which Warren Schwader pitched to Ken Williams and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15].
+The series began in 1989 with Volume 1, which Warren Schwader pitched to Ken Williams and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15]. Sierra Chest's publications list for the game records it under "Upcoming products" in InterAction Volume 5 Number 2 (Summer 1992, p. 27), in "New Games Update" in InterAction Volume 5 Number 4 (Winter 1992, pp. 16-17), and in Sierra's 15th anniversary catalog (Winter 94-95, p. 29)[^ref-33].
 
 According to InterAction's Spring 1993 feature on the game, the remake began on The Sierra Network (TSN). Card players in TSN's clubhouse taught Ken Williams to play Bridge, and he liked the game so much that he "talked to Warren Schwader (designer of the original Hoyle games) about adding it to a VGA revision of Hoyle 1"[^ref-25]. Schwader and project manager Robert Holmes then settled on Euchre as the second new game. Many players, "mainly from the midwest," had written to request it, and Schwader, originally from Wisconsin, was a Euchre expert[^ref-25].
 
@@ -119,6 +120,8 @@ MobyGames credits 60 people on the DOS version[^ref-2]. Key credits[^ref-2]:
 | Bridge Design & Programming | Richard Aronson |
 | Art, Animation & Lip Sync | Donald Waller |
 | Music Arrangement & Programming | Dan Kehler |
+
+Sierra Chest lists 15 soundtrack tracks in both MUNT and Sound Blaster versions: the Hoyle 4 theme, one piece for each of the eight games, and Game Options, Control Panel, Score Board, Game Rules, Deck & Background Selection and Hearts - Victory[^ref-32].
 
 Members of the team put on make-up and costumes to film the Classic Characters' cameo introductions, according to InterAction[^ref-25]. Don Waller played Billy Joe, Robert Holmes's daughter Raleigh played Scout, Warren Schwader played Crazy Jack, Gloria Garland played Trudy, Andrew (son of Sierra programmer Cindy Swafford) played Chip, Richard Aronson played Dinky, Veronica Oldfield played Josephine and Robert Lindsley played Winthorp[^ref-25]. InterAction also reported that "a full two disks in the game are reserved for digitized speech," that Holmes composed a separate theme for each game in the musical style of its period, and that the game offered ten playing tables and nine decks[^ref-25].
 
@@ -141,7 +144,7 @@ In a 2007 Vogons thread, a player running the game in DOSBox reported that the S
 
 ## Legacy
 
-Hoyle Classic Card Games was the last Hoyle volume to feature Sierra's own characters. Later releases replaced them with "more general but equally goofy ones"[^ref-15]. The next major release, Hoyle Classic Games (Hoyle 5, 1995), was the series' first CD-ROM edition[^ref-3]. Sierra published the series through 2003, and Encore Software took over publishing from 2005 to 2016[^ref-3].
+Hoyle Classic Card Games was the last Hoyle volume to feature Sierra's own characters. Later releases replaced them with "more general but equally goofy ones"[^ref-15]. The next major release, Hoyle Classic Games (Hoyle 5, 1995), was the series' first CD-ROM edition[^ref-3]. Sierra On-Line published the series from 1989, VU Games assigned the Hoyle games licence to Encore effective December 23, 2004, and Encore Software published the series from 2005 to 2016[^ref-3][^ref-34]. Sierra Chest describes Hoyle 4 as "essentially a remake of 1989's Hoyle Official Book of Games Volume 1" with VGA graphics and the new Bridge and Euchre, and as "the last time classic Sierra characters were used in a Hoyle title"[^ref-31].
 
 ScummVM's SCI engine supports the game (as "hoyle4") for its DOS/Windows and Macintosh releases[^ref-20].
 
@@ -160,23 +163,26 @@ The game is not sold on GOG. It appears there only as a Dreamlist entry, where u
 
 ## See Also
 
+- [[Hoyle Series]] - Series overview
 - [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
-- [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
+- [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]] - the same game as this page (Hoyle 4, 1993); there was no separate 1991 Volume 4
+- [[1992 - Hoyle Bridge]] - the same game as [[1996 - Hoyle Bridge]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]] - describes Hoyle Solitaire (1996), the same game as [[1996 - Hoyle Solitaire]]
 - [[1996 - Hoyle Blackjack]]
 - [[1996 - Hoyle Bridge]]
 - [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]] - describes Hoyle Solitaire (1996), the same game as [[1996 - Hoyle Solitaire]]
+- [[1996 - Hoyle Solitaire]]
 - [[1997 - Hoyle Classic Board Games]]
 - [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
 - [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
+- [[1998 - Hoyle Classic Board Games]] - the same game as [[1997 - Hoyle Classic Board Games]]
 - [[1999 - Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Casino]]
 - [[1999 - Hoyle Slots and Video Poker]]
@@ -199,11 +205,11 @@ The game is not sold on GOG. It appears there only as a Dreamlist entry, where u
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -218,26 +224,30 @@ The game is not sold on GOG. It appears there only as a Dreamlist entry, where u
 
 ## References
 
-[^ref-1]: [Internet Archive – Hoyle Classic Card Games (1993, MS-DOS)](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - browser-playable DOS emulation item
-[^ref-2]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – - description, eight-game list, platforms, credits, SCI group, critics and players averages
-[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – - Hoyle 4 section (remake, characters, speech), Volume 1 development and sales, Brown & Bigelow license, Hoyle 5, Encore era
-[^ref-4]: [EcoQuest Omnipedia (Fandom) – Hoyle Classic Card Games](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) – - 1993 semi-remake of Volume I, five speech expressions per character, Adam's appearance
-[^ref-7]: [VOGONS – Hoyle Classic Card Games Sound Issue](https://www.vogons.org/viewtopic.php?t=14793) – - 2007 user report on Classic Characters' speech, RESOURCE.AUD, abandonware-copy reply
-[^ref-8]: [PCGamingWiki – Hoyle Classic Card Games](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) – - SCI1.1, 1993 release dates, EGA/VGA, system requirements, 64-bit warning, ScummVM note
-[^ref-9]: [Abandonware DOS – Hoyle Classic Card Games](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) – - user rating 4.03/5 (32 votes)
-[^ref-10]: [GameFAQs – Hoyle franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – - 1993 box blurb ("Eight Great Games…", "according to Hoyle")
-[^ref-12]: [MyAbandonware – Hoyle Classic Card Games](https://www.myabandonware.com/game/hoyle-classic-card-games-2av) – - user rating 4.45/5 (26 votes)
-[^ref-15]: [Brain Baking – A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) – - Edmond Hoyle and 1672, Brown & Bigelow, Hoyle 4 retrospective, end of Sierra characters
-[^ref-17]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – - HOYLEPAT icon-bar patch
-[^ref-18]: [Giant Bomb – Hoyle Classic Card Games](https://www.giantbomb.com/hoyle-classic-card-games/3030-16932/) – - per-game rule options, 18 characters (Sierra and Classic sets)
-[^ref-19]: [GameFAQs – Hoyle Classic Card Games (PC, 1993)](https://gamefaqs.gamespot.com/pc/197583-hoyle-classic-card-games) – - box description: eight games, 256-color, 18 animated opponents, speech
-[^ref-20]: [ScummVM – SCI detection tables (engines/sci/detection_tables.h)](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – - "hoyle4" DOS/Win and Macintosh floppy entries with speech, DOS demos
-[^ref-21]: [GOG Community Wishlist – Sierra: Hoyle Classic Card Games](https://www.gog.com/wishlist/games/sierra_hoyle_classic_card_games/1000) – - 373 votes, "Hoyle games are gems!" comment
-[^ref-22]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/hoyle-classic-card-games) – - Dreamlist vote entry; not sold on GOG
-[^ref-24]: [Internet Archive – Hoyle Classic Card Games (1997 Windows CD)](https://archive.org/details/HoyleCCG) – - distinguishes the 1997 Windows game from the DOS SCI game
-[^ref-25]: [InterAction #17 (Spring 1993) – "No One Resists Change Like a True Believer" by Kurt Busch, pp. 55–57](https://archive.org/details/inter-action-issue-17-spring-1993) – - TSN/Ken Williams origin, Aronson recruiting Corey Cole for Bridge strategy, Euchre choice, costumed team cast, two disks of speech, period music themes, ten tables and nine decks
-[^ref-26]: [Computer Gaming World #109 (August 1993), p. 140](https://archive.org/details/Computer_Gaming_World_Issue_109) – - capsule review: "another winning hand", "forges little new ground", IBM $49.95
-[^ref-27]: [Electronic Games (August 1993), Issue 11](https://archive.org/details/ElectronicGamesLC2) – - Ed Dille review, p. 81: Overall 88%, "Eighteen distinct player personalities", "worthy refinement"; bridge roundup in the same issue
-[^ref-28]: [MobyGames – Hoyle Classic Card Games critic reviews (Wayback, March 2025)](https://web.archive.org/web/20250306124241/https://www.mobygames.com/game/30264/hoyle-classic-card-games/reviews/) – - six critic scores with dates, including GameSpot 1998-02-04 and CGW 1998-03
-[^ref-29]: [GameSpot – Hoyle Classic Card Games Review (Wayback, October 2003)](https://web.archive.org/web/20031002072154/http://www.gamespot.com:80/pc/puzzle/hoyleclassiccardgames/review.html) – - 7.0 review of the 1997 CD-ROM game: release date 11/30/1997, "eleven different card games"
-[^ref-30]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – - born 1672, died 29 August 1769; *A Short Treatise on the Game of Whist* published 1742; "according to Hoyle" meaning "strictly according to the rules"
+[^ref-1]: [Internet Archive – Hoyle Classic Card Games (1993, MS-DOS)](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – browser-playable DOS emulation item
+[^ref-2]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – description, eight-game list, platforms, credits, SCI group, critics and players averages
+[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Hoyle 4 section (remake, characters, speech), Volume 1 development and sales, Brown & Bigelow license, Hoyle 5, Encore era
+[^ref-4]: [EcoQuest Omnipedia (Fandom) – Hoyle Classic Card Games](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) – 1993 semi-remake of Volume I, five speech expressions per character, Adam's appearance
+[^ref-7]: [VOGONS – Hoyle Classic Card Games Sound Issue](https://www.vogons.org/viewtopic.php?t=14793) – 2007 user report on Classic Characters' speech, RESOURCE.AUD, abandonware-copy reply
+[^ref-8]: [PCGamingWiki – Hoyle Classic Card Games](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) – SCI1.1, 1993 release dates, EGA/VGA, system requirements, 64-bit warning, ScummVM note
+[^ref-9]: [Abandonware DOS – Hoyle Classic Card Games](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) – user rating 4.03/5 (32 votes)
+[^ref-10]: [GameFAQs – Hoyle franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – 1993 box blurb ("Eight Great Games…", "according to Hoyle")
+[^ref-12]: [MyAbandonware – Hoyle Classic Card Games](https://www.myabandonware.com/game/hoyle-classic-card-games-2av) – user rating 4.45/5 (26 votes)
+[^ref-15]: [Brain Baking – A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) – Edmond Hoyle and 1672, Brown & Bigelow, Hoyle 4 retrospective, end of Sierra characters
+[^ref-17]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – HOYLEPAT icon-bar patch
+[^ref-18]: [Giant Bomb – Hoyle Classic Card Games](https://www.giantbomb.com/hoyle-classic-card-games/3030-16932/) – per-game rule options, 18 characters (Sierra and Classic sets)
+[^ref-19]: [GameFAQs – Hoyle Classic Card Games (PC, 1993)](https://gamefaqs.gamespot.com/pc/197583-hoyle-classic-card-games) – box description: eight games, 256-color, 18 animated opponents, speech
+[^ref-20]: [ScummVM – SCI detection tables (engines/sci/detection_tables.h)](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "hoyle4" DOS/Win and Macintosh floppy entries with speech, DOS demos
+[^ref-21]: [GOG Community Wishlist – Sierra: Hoyle Classic Card Games](https://www.gog.com/wishlist/games/sierra_hoyle_classic_card_games/1000) – 373 votes, "Hoyle games are gems!" comment
+[^ref-22]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/hoyle-classic-card-games) – Dreamlist vote entry; not sold on GOG
+[^ref-24]: [Internet Archive – Hoyle Classic Card Games (1997 Windows CD)](https://archive.org/details/HoyleCCG) – distinguishes the 1997 Windows game from the DOS SCI game
+[^ref-25]: [InterAction #17 (Spring 1993) – "No One Resists Change Like a True Believer" by Kurt Busch, pp. 55–57](https://archive.org/details/inter-action-issue-17-spring-1993) – TSN/Ken Williams origin, Aronson recruiting Corey Cole for Bridge strategy, Euchre choice, costumed team cast, two disks of speech, period music themes, ten tables and nine decks
+[^ref-26]: [Computer Gaming World #109 (August 1993), p. 140](https://archive.org/details/Computer_Gaming_World_Issue_109) – capsule review: "another winning hand", "forges little new ground", IBM $49.95
+[^ref-27]: [Electronic Games (August 1993), Issue 11](https://archive.org/details/ElectronicGamesLC2) – Ed Dille review, p. 81: Overall 88%, "Eighteen distinct player personalities", "worthy refinement"; bridge roundup in the same issue
+[^ref-28]: [MobyGames – Hoyle Classic Card Games critic reviews (Wayback, March 2025)](https://web.archive.org/web/20250306124241/https://www.mobygames.com/game/30264/hoyle-classic-card-games/reviews/) – six critic scores with dates, including GameSpot 1998-02-04 and CGW 1998-03
+[^ref-29]: [GameSpot – Hoyle Classic Card Games Review (Wayback, October 2003)](https://web.archive.org/web/20031002072154/http://www.gamespot.com:80/pc/puzzle/hoyleclassiccardgames/review.html) – 7.0 review of the 1997 CD-ROM game: release date 11/30/1997, "eleven different card games"
+[^ref-30]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – born 1672, died 29 August 1769; *A Short Treatise on the Game of Whist* published 1742; "according to Hoyle" meaning "strictly according to the rules"
+[^ref-31]: [The Sierra Chest – Hoyle 4: Classic Card Games, General (Wayback, August 15, 2024)](https://web.archive.org/web/20240815083342/https://sierrachest.com/index.php?a=games&id=378&title=hoyle-4&fld=general) – first release 1993-01-01; "essentially a remake of 1989's Hoyle Official Book of Games Volume 1"; last use of classic Sierra characters
+[^ref-32]: [The Sierra Chest – Hoyle 4: Classic Card Games, Music (Wayback, April 15, 2024)](https://web.archive.org/web/20240415020354/https://sierrachest.com/index.php?a=games&id=378&title=hoyle-4&fld=music) – 30-track listing, MUNT and Sound Blaster versions
+[^ref-33]: [The Sierra Chest – Hoyle 4: Classic Card Games, Publications (Wayback, April 20, 2023)](https://web.archive.org/web/20230420014814/https://www.sierrachest.com/index.php?a=games&id=378&title=hoyle-4&fld=publications) – InterAction Summer 1992 and Winter 1992 mentions, Sierra 15th anniversary catalog (Winter 94-95)
+[^ref-34]: [Worthplaying – Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) – VU Games assignment of the Hoyle games licence to Encore, effective December 23, 2004
