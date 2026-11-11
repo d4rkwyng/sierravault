@@ -1,11 +1,11 @@
 ---
 title: "Engine Index"
 type: index
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Engine Index
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 A listing of Sierra games organized by engine, with technical specifications and compatibility information. It is not exhaustive: some vault games are not listed yet, and games whose engine no source documents are grouped at the end. Use ScummVM for most adventure games, DOSBox for simulations and sports titles.
 
@@ -15,7 +15,7 @@ A listing of Sierra games organized by engine, with technical specifications and
 
 | Engine | Years | Resolution | Colors | Interface | Best Emulator |
 |--------|-------|------------|--------|-----------|---------------|
-| AGI | 1984–1989 | 160×200 | 16 (EGA) | Text parser | ScummVM |
+| AGI | 1984–1989 | 160×200 | 16 | Text parser | ScummVM |
 | SCI0 | 1988–1990 | 320×200 | 16 (EGA) | Text parser + mouse | ScummVM |
 | SCI1 | 1990–1992 | 320×200 | 256 (VGA), some 16-color EGA versions | Point-and-click (QfG II kept the text parser)[^ref-26] | ScummVM |
 | SCI1.1 | 1992–1993 | 320×200 | 256 (VGA) | Point-and-click | ScummVM |
@@ -53,27 +53,27 @@ The engine Sierra created for King's Quest I on the IBM PCjr, used for 14 games 
 | Spec | Details |
 |------|---------|
 | Resolution | 160×200 (displayed 320×200) |
-| Colors | 16 (EGA/CGA) |
+| Colors | 16 |
 | Interface | Text parser |
 
 **Play with:** ScummVM (recommended), DOSBox
 
-- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]]
-- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (the AGI version dates from June 8, 1986: interpreter 2.001, which ScummVM calls "more an hybrid between AGI1 & AGI2")[^ref-1]
-- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]]
-- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]]
-- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I: The Sarien Encounter]]
-- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]]
-- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]]
-- **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]
-- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest I]]
-- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
-- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (AGI version, released alongside the SCI version)[^ref-1][^ref-6]
-- **1988** — [[1988 - Gold Rush|Gold Rush!]]
-- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]]
-- **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]]
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]] (AGI0 for the IBM, PCjr and Tandy builds; AGI2 for later builds, interpreters 2.272 to 2.917)
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (AGI2: the AGI version dates from June 8, 1986, interpreter 2.001, which ScummVM calls "more an hybrid between AGI1 & AGI2")[^ref-1]
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] (AGI1 for version 1.0W; AGI2 for versions 2.1 and 2.2)
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] (AGI2, interpreters 2.272 to 2.936)
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I: The Sarien Encounter]] (AGI2, interpreters 2.089 to 2.917)
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] (AGI1 for versions 1.1J to 1.1M; AGI2 for 2.00; AGI3 for 2.10, interpreter 3.002.098)
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]] (AGI2, interpreters 2.440 and 2.917)
+- **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (AGI2, interpreter 2.915)
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest I]] (AGI2, interpreters 2.903 to 2.917)
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] (AGI2, interpreters 2.912 to 2.936)
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (AGI3, interpreter 3.002.086; the AGI version was released alongside the SCI version)[^ref-1][^ref-6]
+- **1988** — [[1988 - Gold Rush|Gold Rush!]] (AGI3, interpreter 3.002.149)
+- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] (AGI3, interpreters 3.002.102 and 3.002.107)
+- **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] (AGI3, interpreter 3.002.149)
 
-AGI assignments per the ScummVM version list.[^ref-1]
+AGI generations (AGI0 to AGI3) and interpreter numbers per the ScummVM version list, which also lists Apple II builds under AGI0 and AGI1 (Mixed-Up Mother Goose, Leisure Suit Larry, Space Quest and others); the same generations are tabulated on [[Adventure Game Interpreter]].[^ref-1]
 
 **Pre-AGI** (earlier Sierra engine; ScummVM runs these through its AGI engine):[^ref-2][^ref-5]
 - **1983** — [[1983 - Troll's Tale|Troll's Tale]]
@@ -172,6 +172,7 @@ Revised SCI1 with enhanced animation and sprite scaling; many SCI1.1 games also 
 - **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2]]
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]]
 - **1993** — [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Volume 4 (Hoyle Classic Card Games)]][^ref-18]
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (a second vault page for the same product as Hoyle Volume 4)[^ref-18]
 - **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]]
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]]
 - **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]]
@@ -196,7 +197,7 @@ SCI2, SCI2.1 and SCI3 are together called SCI32 because the original interpreter
 
 - **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] (SCI2; only the demo was SCI1.1)
 - **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (SCI2; only the demo was SCI1.1)
-- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (SCI2; only the demo was SCI1.1)
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (floppy v1.0, December 5, 1993, and v1.1, December 14, 1993: interpreter 2.000.000, SCI2; CD and Windows CD versions: interpreter 2.100.002, listed in ScummVM's early SCI2.1 group; only the demo was SCI1.1)[^ref-1]
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]]
 - **1995** — [[1995 - Phantasmagoria|Phantasmagoria]]
@@ -208,6 +209,8 @@ SCI2, SCI2.1 and SCI3 are together called SCI32 because the original interpreter
 - **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] (SCI2.1)[^ref-27]
 - **1996** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Volume 5]] (SCI2.1) — note: the linked page currently describes Hoyle Solitaire; ScummVM lists Hoyle Classic Games (hoyle5) and Hoyle Solitaire (hoyle5solitaire) as separate games[^ref-27]
 - **1996** — [[1996 - Hoyle Solitaire|Hoyle Solitaire]] (SCI2.1)
+- **1996** — [[1992 - Hoyle Bridge|Hoyle Bridge]] (SCI2.1; a second vault page for Hoyle Bridge, filed under 1992 with release_year 1996)[^ref-27]
+- **1996** — [[1993 - Hoyle Official Book of Games - Volume 5|Hoyle Volume 5 (Hoyle Solitaire)]] (SCI2.1; a second vault page, filed under 1993)[^ref-27]
 - **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]]
 - **1996** — [[1996 - Lighthouse - The Dark Being|Lighthouse]] (SCI3)
 - **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2]]
@@ -348,6 +351,10 @@ Impressions' 2D city-builders; Emperor was the last to use the same 2D-sprite en
 **Caesar IV** is not an Impressions game: Tilted Mill Entertainment developed it on a 3D engine (Sierra Chest lists it under Titan 2.0, an update of the original Titan engine used by Empire Earth).[^ref-21][^ref-13]
 - **2006** — [[2006 - Caesar IV|Caesar IV]]
 
+The original Titan engine was used in Empire Earth (Stainless Steel Studios):[^ref-13]
+- **2001** — [[2001 - Empire Earth|Empire Earth]]
+- **2002** — [[2002 - Empire Earth - The Art of Conquest|Empire Earth: The Art of Conquest]]
+
 ### Strategy Titles (engine unnamed)
 
 No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed".[^ref-12]
@@ -369,14 +376,21 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 
 - **1991** — [[1991 - Fascination|Fascination]]
 - **1991** — [[1991 - Gobliiins|Gobliiins]]
+- **1992** — [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]]
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]]
 - **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]]
 - **1992** — [[1992 - Ween - The Prophecy|Ween: The Prophecy]]
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]]
 - **1993** — [[1993 - Inca II - Wiracocha|Inca II]]
 - **1993** — [[1993 - Lost in Time|Lost in Time]]
+- **1994** — [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1: Featuring Uncle Archibald]]
+- **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2: The Case of the Counterfeit Collaborator]]
+- **1995** — [[1995 - Playtoons 3 - The Secret of the Castle|Playtoons 3: Secret of the Castle]]
+- **1995** — [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4: The Mandarine Prince]]
+- **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]]
 - **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff and the Schnibble]]
 - **1995** — [[1995 - The Last Dynasty|The Last Dynasty]]
+- **1996** — [[1996 - Adiboo - Magical Playland|Adiboo: Magical Playland]]
 - **1996** — [[1996 - Urban Runner|Urban Runner]]
 
 ---
@@ -388,6 +402,8 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 - **1999** — [[1999 - Team Fortress Classic|Team Fortress Classic]]
 - **2000** — [[2000 - Counter-Strike|Counter-Strike]]
 - **2000** — [[2000 - Gunman Chronicles|Gunman Chronicles]]
+- **2000** — [[2000 - Ricochet|Ricochet]]
+- **2001** — [[2001 - Deathmatch Classic|Deathmatch Classic]]
 - **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]]
 - **2004** — [[2004 - Counter-Strike - Condition Zero|Counter-Strike: Condition Zero]]
 
@@ -414,11 +430,13 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 
 ## Unreal Engine
 
+- **2004** — [[2004 - Tribes - Vengeance|Tribes: Vengeance]] — Version: Unreal 2 (modified; Vengeance engine)
 - **2005** — [[2005 - SWAT 4|SWAT 4]] — Version: Unreal 2 (Vengeance)
 - **2006** — [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: Stetchkov Syndicate]] — Version: Unreal 2
 - **2009** — [[2009 - Leisure Suit Larry - Box Office Bust|LSL: Box Office Bust]] — Version: Unreal 3
 - **2015** — [[2015 - King's Quest|King's Quest (2015)]] — Version: Unreal 3
 - **2024** — [[2024 - Homeworld 3|Homeworld 3]] — Version: Unreal 4
+- **2024** — [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] — Version: Unreal 5
 
 ---
 
@@ -438,6 +456,7 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 - **2019** — [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation]]
 - **2021** — [[2021 - King's Quest IV Retold|King's Quest IV Retold]]
 - **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]]
+- **2026** — [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]]
 
 ---
 
@@ -453,16 +472,20 @@ Fan games built with Sierra's AGI; MobyGames lists both in its AGI engine group.
 ## Unity Engine (Modern Projects)
 
 - **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition]]
+- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]]
 - **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]]
+- **2013** — [[CXL - Precinct (2013)|Precinct]] (cancelled)
 - **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight 20th Anniversary]]
 - **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]]
 - **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]]
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger]]
+- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]]
 - **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]
 - **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams Don't Dry]]
 - **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|LSL: Wet Dreams Dry Twice]]
 - **2022** — [[2022 - SpaceVenture|SpaceVenture]]
 - **2023** — [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]]
+- **2023** — [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]]
 - **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]]
 
 ---
@@ -475,6 +498,8 @@ Fan games built with Sierra's AGI; MobyGames lists both in its AGI engine group.
 ## Torque Game Engine
 
 - **2001** — [[2001 - Tribes 2|Tribes 2]] — Torque was originally developed by Dynamix for Tribes 2[^ref-24]
+- **2008** — [[2008 - Ace of Aces|Ace of Aces]]
+- **2010** — [[2010 - The Silver Lining|The Silver Lining]]
 
 ---
 
@@ -505,6 +530,17 @@ These games were listed under an engine above in earlier versions of this index,
 | Windows 95/98 Games | dgVoodoo2 + Compatibility Mode |
 | GoldSrc (Half-Life) | Native Steam |
 | Modern Unity/AGS | Native Windows/Mac/Linux |
+
+---
+
+## See Also
+
+- [[Sierra Creative Interpreter]] — the SCI/SCI32 engine family, version by version
+- [[Adventure Game Interpreter]] — Sierra's pre-SCI engine (1984–1989) and its AGI0 to AGI3 generations
+- [[ScummVM]] — the recommended way to run most of these engines
+- [[3D Engines]] — Sierra-era 3D engine technology
+- [[Versions|Sierra game versions]] — game-version and interpreter-build tables
+- [[Engine History]] — how Sierra's engines developed over time
 
 ---
 
