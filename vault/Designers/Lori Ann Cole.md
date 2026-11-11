@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Quest for Glory I: So You Want to Be a Hero", "Quest for Glory II: Trial by Fire", "Quest for Glory III: Wages of War", "Quest for Glory: Shadows of Darkness", "Quest for Glory V: Dragon Fire"]
 companies: ["Sierra On-Line", "FAR Productions", "Transolar Games"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Lori Ann Cole
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,9 @@ Corey Cole recalled that "Sierra broke our contract after QfG4 shipped";[^ref-33
 
 Asked in October 2003 whether she missed working for Sierra, she answered: "Not in the least. ;-)"[^ref-2] In the same interview, asked about the Quest for Glory rights then held by Vivendi, she said: "We'd love to acquire the rights. Unfortunately, we haven't been able to negotiate with Vivendi for them."[^ref-2] By 2008 she said, "Corey and I do not have the rights to QFG."[^ref-8]
 
-In 2003 the Coles began a project based on *How to Be a Hero*, a book Lori was co-writing that was never published, with a website of the same name.[^ref-21][^ref-30] After running that site for about three years they lost it and renamed the idea School for Heroes, an email-based web game.[^ref-21][^ref-25] In late 2011 they stopped taking assignments there and turned the idea into a game; their Kickstarter for Hero-U launched in October 2012.[^ref-21][^ref-25] Their company [[Transolar Games]] released [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] in 2018, followed by [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] in 2023.[^ref-26][^ref-21][^ref-36]
+In 2003 the Coles began a project based on *How to Be a Hero*, a book Lori was co-writing that was never published, with a website of the same name.[^ref-21][^ref-30] After running that site for about three years they lost it and renamed the idea School for Heroes, an email-based web game.[^ref-21][^ref-25] In late 2011 they stopped taking assignments there and turned the idea into a game; their Kickstarter for Hero-U launched in October 2012.[^ref-21][^ref-25] Their company [[Transolar Games]] released [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] in 2018, followed by [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] in 2023.[^ref-26][^ref-21][^ref-36] Sources differ by a day on the Hero-U release date: Transolar's own game page lists July 9, 2018, while Wikipedia and DekuDeals' Steam entry give July 10, 2018.[^ref-40][^ref-26][^ref-41] DekuDeals also lists a Nintendo Switch release on February 9, 2021 and PlayStation 4 and 5 releases on April 24, 2025.[^ref-41]
+
+A backer update dated September 16, 2026 says the Coles split Summer Daze into two games, *Tilly's Tale* and *Ifeyo's Adventure*, and that Lori came up with a third concept, *Sami's Story*. It says that Lori "is still the lead writer and designer" and that she "plans to complete the scripting in the next few months," and gives the Coles' stated target: "Expect Ifeyo's Adventure in late Spring or early Summer 2027."[^ref-39]
 
 ## Notable Works
 
@@ -53,6 +55,26 @@ The sequel was the game made under Sierra's new development system that Lori des
 
 MobyGames credits her with design, direction, writing, the "Field Guide" and a voice role on Quest for Glory III.[^ref-9]
 
+### Quest for Glory IV: Shadows of Darkness (1993)
+
+MobyGames credits her with design, direction and writing ("Writing / Dialogue / Story") on Shadows of Darkness.[^ref-9] Corey Cole recalled that "Sierra broke our contract after QfG4 shipped."[^ref-33]
+
+### Shannara (1995)
+
+Made by the Coles' FAR Productions for Legend Entertainment.[^ref-13][^ref-14] MobyGames credits her with game design, dialogue, voiceover direction and the manual.[^ref-9]
+
+### Quest for Glory V: Dragon Fire (1998)
+
+The game's credits list her as Designer.[^ref-37] MobyGames also credits her with documentation and website design.[^ref-9] Corey Cole recalled that it "took almost 4 years to develop, versus the original 18 month schedule."[^ref-33]
+
+### Hero-U: Rogue to Redemption (2018)
+
+MobyGames credits her with "Created, Designed, and Directed by" and Lead Designer, as well as "Written by" and Lead Writer, and lists her under dialogue and event scripting.[^ref-9] The project grew out of the Coles' School for Heroes web game and was launched on Kickstarter in October 2012.[^ref-25][^ref-21]
+
+### Summer Daze: Tilly's Tale (2023)
+
+MobyGames lists her among the game's "Designers" and "Founders."[^ref-9] The September 2026 backer update says it took "over five years" to make Hero-U and "another three years" to make Tilly's Tale.[^ref-39]
+
 ## Design Philosophy
 
 Cole has said that the series was meant to make players think: "The QFG series requires that a player think about what he is doing and have to make moral decisions. The player really becomes a Hero through the course of play, and hopefully carries some of the concepts of heroism onward in real life."[^ref-2] In 2008 she added that she "was happy to do educational games" and that the series "actually had underlying lessons in leadership."[^ref-8]
@@ -65,28 +87,42 @@ Computer Gaming World's 1990 award recognised the series' mix of adventure and r
 
 ### Sierra On-Line (1988–1998)
 
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Role: Director, Writer; named co-designer by Computer Gaming World[^ref-28]
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Co-Designer, FACS Manual Writer
-- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Designer, Director
-- **1991 (CD-ROM)** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Voice Actor, Queen Icebella (CD-ROM version, shipped August 1991; MobyGames credits the role as "Queen Isabella")[^ref-29][^ref-9][^ref-38]
-- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Additional Material
-- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero (VGA)]] — Role: Director, Co-Designer
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Director, Designer, Writer, Voice Actor
-- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Writer
-- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: Designer[^ref-37]
-- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Photo Model
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Director, Writer; named co-designer by Computer Gaming World[^ref-9][^ref-28] |
+| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Co-Designer, FACS Manual Writer[^ref-9] |
+| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Designer, Director[^ref-9] |
+| 1991 (CD-ROM) | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | Voice Actor, Queen Icebella (CD-ROM version, shipped August 1991; MobyGames credits the role as "Queen Isabella")[^ref-29][^ref-9][^ref-38] |
+| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Additional Material[^ref-9] |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Director, Co-Designer[^ref-9] |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Director, Designer, Writer, Voice Actor[^ref-9] |
+| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer, Co-Director, Writer[^ref-9] |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Designer; also Documentation and Website Design[^ref-37][^ref-9] |
+| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Photo Model[^ref-9] |
 
 ### FAR Productions (1995)
 
-- **1995** — [[1995 - Shannara|Shannara]] — Company: FAR Productions (published by Legend Entertainment), Role: Co-Designer, Writer, Voiceover Direction
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1995 | [[1995 - Shannara\|Shannara]] | FAR Productions (published by Legend Entertainment) | Co-Designer, Writer, Voiceover Direction; MobyGames also lists Dialogue and Manual[^ref-9] |
 
 ### Post-Sierra (2008–2023)
 
-- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Company: AGD Interactive, Credit: "Written & Designed by" (original design credit carried over)
-- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Company: AGD Interactive, Role: Voice Actor (Smaude)
-- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Co-Designer, Writer[^ref-9][^ref-11]
-- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: [[Transolar Games]], Role: Co-Designer, Lead Writer, Director
-- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Company: [[Transolar Games]], Role: Director, Writer
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | AGD Interactive | "Written & Designed by" (original design credit carried over)[^ref-9] |
+| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (Smaude)[^ref-9] |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Co-Designer, Writer[^ref-9][^ref-11] |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | [[Transolar Games]] | "Created, Designed, and Directed by", Lead Designer, Lead Writer; Dialogue and Event Scripting[^ref-9] |
+| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | [[Transolar Games]] | "Designers" and "Founders" (MobyGames wording)[^ref-9] |
+
+### Other Credits (1994–2014)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1994 | Space Quest: Collector's Edition | Video[^ref-9] |
+| 2013 | Heroine's Quest: The Herald of Ragnarok | "Inspired by"[^ref-9] |
+| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Thanked in the credits[^ref-9] |
 
 Credits follow MobyGames unless noted.[^ref-9]
 
@@ -95,7 +131,7 @@ Credits follow MobyGames unless noted.[^ref-9]
 [^ref-2]: [Quest for Glory Wiki – Interview with Lori Ann Cole and Mishell Baker (Inventory 9, October 2003)](https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker) — Lori's own words: "lover of fantasy", "always wanted to be a teacher… Indian Reservation", "I really enjoyed RPG games", Paladin, "Not in the least", "We'd love to acquire the rights"
 [^ref-3]: [Choicest Games – Where Are They Now: Lori Ann Cole (2014)](https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html) — Hero's Quest renamed because the name sounded like the HeroQuest board game
 [^ref-8]: [Adventure Classic Gaming – Interview with Lori Ann Cole (Jonathan Yalon; posted 9 March 2008, courtesy of HebrewQuest)](http://www.adventureclassicgaming.com/index.php/site/interviews/323/) — "I am a teacher by profession and inclination"; "Corey and I do not have the rights to QFG"
-[^ref-9]: [MobyGames – Lori Ann Cole credits](https://www.mobygames.com/person/3681/lori-ann-cole/credits/) — 48 credits on 19 games (dossier copy): QFG roles, QFG II VGA Remake, SWAT 2 photo model, Shannara, Bolt Riley game design
+[^ref-9]: [MobyGames – Lori Ann Cole credits](https://www.mobygames.com/person/3681/lori-ann-cole/credits/) — 48 credits on 19 games (read from a dossier copy fetched 2026-01-14; includes Space Quest: Collector's Edition "Video", Quest for Infamy "Thanks", Heroine's Quest "Inspired by"): QFG roles, QFG II VGA Remake, SWAT 2 photo model, Shannara, Bolt Riley game design
 [^ref-11]: [IMDb – Lori Ann Cole](https://www.imdb.com/name/nm0998771/) — Writer credits incl. Bolt Riley (co-writer); Smaude voice
 [^ref-12]: [The Digital Antiquarian – So You Want to Be a Hero? (Jimmy Maher, 2016)](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) — Westercon 1979, Arizona, The Spellbook, Maher's quote of her aims, "the worst of both worlds"
 [^ref-13]: [Adventure Classic Gaming – Interview with Lori Ann Cole (September 2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/208/) — "among the earliest hybrid role-playing/adventure game series"; hired first as a freelance contractor; FAR Productions developed Shannara
@@ -103,7 +139,7 @@ Credits follow MobyGames unless noted.[^ref-9]
 [^ref-15]: [Choicest Games – Top 10 PC Game Developers #9: Corey and Lori Ann Cole (2013)](https://www.choicestgames.com/2013/08/top-10-pc-game-developers-9-corey-and.html) — "joined Sierra On-Line in 1988"
 [^ref-21]: [Wikipedia – The Coles](https://en.wikipedia.org/wiki/The_Coles) — 1994 downsizing and return "the following year" for QFG V, SWAT 2 photo, Shannara for Legend, How to Be a Hero (2003) → School of Heroes → Hero-U
 [^ref-25]: [The International House of Mojo – Hero-U is a Kickstarter for a new RPG-Adventure Hybrid](https://mixnmojo.com/news/Hero-U-is-a-Kickstarter-for-a-new-RPG-Adventure-Hybrid) — October 28, 2012: Hero-U based on School for Heroes, "their previous email based webgame"
-[^ref-26]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) — 2018 release
+[^ref-26]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) — 2018 release; "released for Windows, Mac, and Linux on July 10, 2018"
 [^ref-28]: [Computer Gaming World #74 (September 1990), "Game of the Year Awards"](https://archive.org/details/Computer_Gaming_World_Issue_74) — period scan: "Sierra for Hero's Quest— Lori Ann and Corey Cole (designers)"; "the WINNER of CGW's Adventure Game of the Year is; Sierra for Hero's Quest"
 [^ref-29]: [King's Quest Omnipedia – Queen Icebella](https://kingsquest.fandom.com/wiki/Queen_Icebella) — "In KQV CD-ROM, she was voiced by Lori Ann Cole"
 [^ref-30]: [How to Be a Hero website (Wayback, August 2003)](https://web.archive.org/web/20030801000000/http://www.howtobeahero.com/) — Placeholder page ("How to Be a Hero - dot com! Find your inner hero."); shows the site existed in 2003, names no owners
@@ -115,3 +151,6 @@ Credits follow MobyGames unless noted.[^ref-9]
 [^ref-36]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) — Biography: "introduced the Coles to Ken Williams in 1988"; renamed "Due to trademark issues"; Sierra "closed its Yosemite Entertainment office in 1999"; "Lori and Corey run Transolar Games" (dossier copy, January 2026)
 [^ref-37]: [MobyGames – Quest for Glory V: Dragon Fire credits, Windows (Wayback, September 2025)](https://web.archive.org/web/20250914124746/https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/credits/windows/) — "Designer Lori Ann Cole"; thanks "the Yosemite Entertainment development site"
 [^ref-38]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age (Jimmy Maher, 2018)](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — "King's Quest V instead shipped on CD in August of 1991"
+[^ref-39]: [Summer Daze at Hero-U on BackerKit – Project Updates, "What We Did Last Summer... and What We're Doing for Next Summer" (16 September 2026)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) — Ifeyo's Adventure: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"; "Lori plans to complete the scripting in the next few months"; Sami's Story third concept; "over five years" / "another three years"
+[^ref-40]: [Hero-U: Rogue to Redemption – Fast Facts (Transolar Games, hero-u.com)](https://www.hero-u.com/RtR) — "Release Date July 9, 2018"
+[^ref-41]: [DekuDeals – Hero-U: Rogue to Redemption](https://www.dekudeals.com/items/hero-u-rogue-to-redemption) — "Steam July 10, 2018 Switch February 9, 2021 PS4, PS5 April 24, 2025"
