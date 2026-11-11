@@ -7,11 +7,11 @@ headquarters: "United States"
 notable_games: ["Al Emmo and the Lost Dutchman's Mine", "Mage's Initiation: Reign of the Elements"]
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -37,6 +37,10 @@ In August 2010 Himalaya released *Al Emmo's Postcards from Anozira*, a hidden-ob
 
 Himalaya's second game, Mage's Initiation: Reign of the Elements, was crowdfunded on Kickstarter in early 2013 and raised about $125,000.[^ref-3][^ref-31] It was released on January 30, 2019, developed and published by Himalaya,[^ref-33][^ref-34] and received an aggregated Metacritic score of 70.[^ref-10]
 
+### Current status
+
+As of November 11, 2026, the newest post on the studio's own news page is dated March 23, 2019 (a cosplay contest run with Transolar Games), and the page shows nothing later.[^ref-38][^ref-39] Steam lists all three games with Himalaya Studios as developer and publisher.[^ref-23][^ref-26][^ref-33]
+
 ## Notable Games
 
 ### Al Emmo and the Lost Dutchman's Mine (2006)
@@ -54,9 +58,11 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 
 ## Games
 
-- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Genre: Adventure
-- **2010** — Al Emmo's Postcards from Anozira — Genre: Hidden object
-- **2019** — [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]] — Genre: Adventure/RPG
+| Year | Game | Genre |
+|------|------|-------|
+| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Adventure[^ref-32] |
+| 2010 | Al Emmo's Postcards from Anozira | Hidden object[^ref-25] |
+| 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | Adventure/RPG[^ref-18] |
 
 ## References
 
@@ -81,3 +87,5 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 [^ref-35]: [Adventure Gamers - Al Emmo and the Lost Dutchman's Mine review (Wayback 2012)](https://web.archive.org/web/20121121014738/http://www.adventuregamers.com/articles/view/17815) — "Al Emmo is the first retail game from Himalaya Studios"
 [^ref-36]: [Himalaya Studios - Press Releases (Wayback 2006-10-27)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) — "Classic Adventure Gaming is back - Al Emmo ships! Phoenix, Arizona - September 6, 2006"; "Order fulfillment commenced on Wednesday morning"
 [^ref-37]: [Gust - Himalaya Studios, Inc. (Wayback 2019-12-09)](https://web.archive.org/web/20191209085305/https://gust.com/companies/himalaya_studios_inc) — "Christopher Warren CEO"; founded August 2011
+[^ref-38]: [Himalaya Studios - News](https://www.himalayastudios.com/news.php) — newest item "Cross Promo Cosplay Contest with Transolar Games and Himalaya Studios", March 23, 2019 (read November 11, 2026)
+[^ref-39]: [Himalaya Studios - News (Wayback 2026-03-18)](https://web.archive.org/web/20260318075458/http://www.himalayastudios.com/news.php) — same page as captured March 18, 2026; top item still March 23, 2019
