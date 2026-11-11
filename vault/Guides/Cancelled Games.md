@@ -239,7 +239,7 @@ Sierra's cancelled games offer cautionary tales about:
 - [[CXL - Middle-earth Online]]
 - [[CXL - Manhunter 3]]
 - [[CXL - Red Baron (2013 Remake)]]
-- [[CXL - Front Page Sports - Football Pro '99]]
+- [[CXL - Front Page Sports - Football Pro '99]] — shipped 22 Dec 1998 and recalled 21 Jan 1999; the cancelled follow-up was Football Pro 2000
 
 ---
 

@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Baseball '94", "Front Page Sports: Football", "Outpost 2: Divided Destiny", "Microsoft Baseball 2001"]
 companies: ["Sierra On-Line", "Cinemaware", "Dynamix", "Viacom New Media", "Synergistic Software", "Microsoft", "Exile Interactive"]
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Allen McPheeters
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,7 @@ In summer 1995 he accepted an offer from Viacom New Media and spent six months a
 
 After Outpost 2 shipped, he worked on help-file localization for [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] and [[1997 - Red Baron II|Red Baron II]]. In February 1998 he transferred to Sierra's Renton, Washington-based Synergistic Software.[^ref-1] There he was producer of Sierra Sports: Baseball PRO 2000. In 1998 Sierra president Dave Grenewetzki "asked the tough questions and concluded that it was time to pull the plug."[^ref-7] Sierra and Rainbow Studios had begun the new Baseball PRO in summer 1997, first planning a rewrite on Rainbow's 3D engine and then deciding to reuse as much Baseball PRO '98 code as possible.[^ref-7] McPheeters explained and defended the decision publicly. His letter said "we badly underestimated how difficult it would be to have a new development team take over legacy code from the previous editions of the game."[^ref-7] It also said: "As the original designer of the game, I hate the decision—I want to see people playing this game. As a producer, and as a stockholder, I think it was the right decision."[^ref-7] He added: "Sierra has taken some criticism in the past about releasing buggy or mediocre products. Canceling this game, painful though it is, is a step in the right direction."[^ref-7]
 
-Synergistic's [[CXL - Front Page Sports - Football Pro '99|NFL Football Pro '99]] shipped and was quickly recalled. Sierra issued the recall notice on January 21, 1999.[^ref-15][^ref-1] Most of the Synergistic staff, McPheeters included, was laid off in February 1999.[^ref-1]
+Synergistic's [[CXL - Front Page Sports - Football Pro '99|NFL Football Pro '99]] shipped and was quickly recalled. Sierra issued the recall notice on January 21, 1999.[^ref-21][^ref-15][^ref-1] Most of the Synergistic staff, McPheeters included, was laid off in February 1999.[^ref-1]
 
 ### Microsoft and Exile (1999–2005)
 
@@ -66,6 +66,10 @@ On [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], a Dynamix 
 ### Microsoft Baseball 2001 (2000)
 
 At Microsoft he designed Microsoft Baseball 2001, combining Baseball Mogul's career play with Microsoft's existing arcade baseball game.[^ref-1][^ref-9][^ref-19]
+
+## Legacy
+
+McPheeters is best remembered for his work on the Front Page Sports series with Cook. In a 1997 interview about Cinemaware's influence, he said of the series: "FPS: Football changed the face of computer sports by putting all the elements of the game (play design, lots of statistics, arcade play) into one package. All of those elements had existed before, but you'd have to buy two or three games to get all of them."[^ref-20] Contemporary Computer Gaming World named Front Page Sports: Football its 1993 Sports Game of the Year and Football Pro its Premier Sports Game of the Year in 1994.[^ref-11][^ref-12] His MobyGames biography singles out Career Play, which let users run multiple seasons with players aging, retiring and being replaced by rookies, as his most important contribution to the line.[^ref-1]
 
 ## Games
 
@@ -125,3 +129,4 @@ At Microsoft he designed Microsoft Baseball 2001, combining Baseball Mogul's car
 [^ref-18]: [MobyGames - Outpost 2: Divided Destiny](https://www.mobygames.com/game/1609/outpost-2-divided-destiny/) — Game entry and credits (Designers: Patrick Cook, L. Allen McPheeters)
 [^ref-19]: [MobyGames - Microsoft Baseball 2001](https://www.mobygames.com/game/2053/microsoft-baseball-2001/) — Game entry: Windows, 2000
 [^ref-20]: [Just Adventure - Cinemaware Interviews (Wayback Machine)](https://web.archive.org/web/20110610151100/http://www.justadventure.com/Interviews/Cinemaware/Cinemaware_Interview.shtm) — McPheeters: "I was a play tester from January 1988 to April 1990"; Dynamix "a little over a year after I left"; Viacom in '95; "we both designed Outpost 2"; Football Pro in CGW's Hall of Fame
+[^ref-21]: [CNNfn - Sierra Sports recalls Football Pro 99 - Jan. 21, 1999 (Wayback Machine)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) — Dated January 21, 1999: Sierra Sports recalled NFL Football Pro '99, "which shipped to retailers just four weeks ago", over "errors in the program's code"
