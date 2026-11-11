@@ -11,18 +11,18 @@ series: "Micro Miniatures"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Impressions)"
-last_updated: '2026-10-19'
+last_updated: '2026-11-11'
 description: "Edward Grabowski's The Blue & The Gray is a 1993 American Civil War wargame from Impressions that combines a turn-based strategic campaign with real-time Micro Miniatures battles; Sierra later reissued it for Windows 95."
 tags: [1990s, impressions, strategy, wargame, civil-war, micro-miniatures, edward-grabowski]
 composer: ["William Sherman Barnard"]
 ---
 # Edward Grabowski's The Blue & The Gray
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-*Edward Grabowski's The Blue & The Gray* is a wargame of the American Civil War, published by Impressions for DOS in 1993 and for the Amiga in 1994.[^ref-1][^ref-12] Players command either the Federal (blue) or Confederate (gray) army from 1861. On a strategic map they move divisions in weekly turns, and when opposing forces meet the battle can be fought out in Impressions' real-time "Micro Miniatures" system.[^ref-1][^ref-6] Edward Grabowski designed and programmed the game, and MobyGames credits the DOS version to his company, Edward Grabowski Communications Ltd., together with Impressions.[^ref-1]
+*Edward Grabowski's The Blue & The Gray* is a wargame of the American Civil War, published by Impressions for DOS in 1993 and for the Amiga in 1994.[^ref-1][^ref-12] Players command either the Federal (blue) or Confederate (gray) army from 1861. On a strategic map they move divisions in weekly turns, and when opposing forces meet the battle can be fought out in Impressions' real-time "Micro Miniatures" system.[^ref-1][^ref-6] Edward Grabowski designed and programmed the game, and MobyGames credits the DOS version to Edward Grabowski Communications Ltd., together with Impressions.[^ref-1] (Moby's biography of Grabowski dates the founding of that company to October 1994, after the game's release.)[^ref-25]
 
 Impressions, founded by David Lester, was bought by Sierra On-Line in 1995.[^ref-18] Sierra's company history on MobyGames names *The Blue and The Gray* among the products Impressions was "known for".[^ref-17] In 1998 Sierra republished the game for Windows 95, both on its own and in *The Great Civil War* collection.[^ref-15][^ref-16]
 
@@ -115,6 +115,7 @@ MobyGames lists the DOS team as follows:[^ref-1]
 - **Art:** Erik Casey, Rob Land, Jennifer Schlickbernd
 - **Cartography:** Margaret Grabowski, John Allen, Robert Snowden
 - **Music:** William Sherman Barnard
+- **Testing:** Christopher J. Foster, Louis Ely
 - **Manuals:** Christopher J. Foster, Hosea Battles Jr.
 
 The package contained four manuals: a technical supplement and tutorial, a campaign manual, a Micro Miniatures battle manual, and a history of the Civil War.[^ref-6] Impressions' advertising promised "a FREE copy of a specially commissioned book on the Civil War". Brooks reported that limited editions also included a video about the war.[^ref-4][^ref-6] Amiga Computing described the history as "an excellent 180-page history of the Civil War".[^ref-11]
@@ -146,7 +147,7 @@ After Sierra acquired Impressions, the game returned under the Sierra name. *The
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available; no GOG listing was found when this page was written.
+- Not currently available; no GOG or Steam listing was found when checked on 2026-11-11.
 
 **Download / Preservation**
 - [Internet Archive – Edward Grabowski's The Blue & The Gray (DOS)](https://archive.org/details/msdos_Edward_Grabowskis_The_Blue__The_Gray_1993)[^ref-22]
@@ -189,3 +190,4 @@ After Sierra acquired Impressions, the game returned under the Sierra name. *The
 [^ref-22]: [Internet Archive – Edward Grabowski's The Blue & The Gray (DOS)](https://archive.org/details/msdos_Edward_Grabowskis_The_Blue__The_Gray_1993) – DOS preservation item, Impressions Games, 1993
 [^ref-23]: [Internet Archive – Aktueller Software Markt 12/93](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1993.12/page/n158/mode/1up) – "Last Minute" review of The Blue and The Gray (PC, Impressions), Urteil 10, ASM Hit; page folio "12/93"
 [^ref-24]: [Amiga Magazine Rack – The Blue and the Gray review, Amiga Format 57 (Mar 1994)](https://amr.abime.net/review_3009) – page 68 scan, Rob Mead, 52%; folio reads "March 1994"
+[^ref-25]: [MobyGames – Edward Grabowski](https://www.mobygames.com/person/31791/edward-grabowski/) – biography: "Ed founded Edward Grabowski Communications Ltd. in October 1994"; read from a January 2026 capture, live page blocked on 2026-11-11
