@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1992
 total_games: 2
 genre: "Adventure, Mystery"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Laura Bow Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Influences visible in the game include:
 The approach was deliberately experimental: "There is no real goal - you're an innocent thrust into a situation where suddenly all these people are dying and things are happening."[^ref-5]
 
 ### Bruce Balfour and The Dagger of Amon Ra
-Hardcore Gaming 101 notes that "despite Roberta Williams' name on the box, she had little to do with The Dagger of Amon Ra beyond providing the concept and lending her character"; it was directed and designed by Bruce Balfour.[^ref-14] Wikipedia lists Balfour as designer, director and producer, Bill Davis as creative director, Josh Mandel as writer, and Williams as creative consultant.[^ref-13]
+Hardcore Gaming 101 notes that "despite Roberta Williams' name on the box, she had little to do with The Dagger of Amon Ra beyond providing the concept and lending her character"; it was directed and designed by Bruce Balfour.[^ref-14] Wikipedia lists Balfour as designer, director and producer, Bill Davis as creative director, Josh Mandel as writer, and Williams as creative consultant.[^ref-13] A 2018 Campo Santo Quarterly piece by Duncan Fyfe introduces Balfour as "the game's director, designer, writer, producer and supporting voice actor" and Mandel as "writer and voice actor".[^ref-23] In Mandel's account there, Williams "said she wanted a new Laura Bow game and she wanted me to write it". Assignments were then swapped within the design department, and Mandel's very short proposal, titled The Dagger of Amon Ra, went to Balfour, who "ran with it".[^ref-23] PC Gamer's 2020 retrospective likewise says Mandel "ended up recommending Balfour to Roberta Williams to design the game".[^ref-6]
 
 ## Characters
 
@@ -100,18 +100,20 @@ Williams told *Computer Gaming World* that "you don't need to solve a single puz
 - Music by [[Ken Allen]][^ref-7]
 
 ### The Dagger of Amon Ra (SCI1.1)
-- 256-colour (8-bit) VGA graphics[^ref-13]
+- 256-colour (8-bit) graphics;[^ref-13] Computer Gaming World's 1992 review header lists the graphics as "VGA-256 or EGA-16"[^ref-21]
 - Point-and-click interface[^ref-13]
-- Voice acting in the 1993 CD-ROM version only; the 1992 floppy release has none[^ref-13]
+- Voice acting in the 1993 CD-ROM version only; the 1992 floppy release has none[^ref-13]. Computer Gaming World's April 1994 notice of the CD-ROM called it "audibly enhanced from the original floppy release and featuring a competent cast of voice actors"[^ref-22]
 
 ## Critical Reception
 
 | Game | Notable Reception |
 |------|-------------------|
 | The Colonel's Bequest | Génération 4 95% and Joystick 92% (1990), though Amiga Format gave the Amiga version 60%;[^ref-11] Adventure Gamers retrospective 4 stars[^ref-2] |
-| The Dagger of Amon Ra | PC Gamer says it "brought new layers of complexity to adventure game storytelling"[^ref-6] |
+| The Dagger of Amon Ra | Computer Gaming World (October 1992): "another quality adventure from the fertile minds at Sierra";[^ref-21] CGW (April 1994, CD-ROM version): "a winner";[^ref-22] PC Gamer (2020 retrospective) says it "brought new layers of complexity to adventure game storytelling"[^ref-6] |
 
 In *Games International*, Theo Clarke called The Colonel's Bequest "solid genre stuff" and said it "has a charm all of its own."[^ref-7] Adventure Gamers praised its "original sort of game, high replayability".[^ref-2] PC Gamer's 2020 retrospective called the two games "genuinely groundbreaking".[^ref-6]
+
+Of The Dagger of Amon Ra, Chuck Miller wrote in *Computer Gaming World* in October 1992 that it was "a traditional Sierra animated adventure, though much improved over the original Laura Bow mystery, The Colonel's Bequest". He found the first two acts "rather slow and somewhat boring", but that once into Act 3 it "becomes quite absorbing", and he concluded that it "proves itself to be another quality adventure from the fertile minds at Sierra".[^ref-21] Reviewing the CD-ROM version in April 1994, the magazine said "Hand-painted art, emotive stereo soundtrack, deep puzzles, and a convoluted storyline all combine to make this multimedia game a winner."[^ref-22]
 
 ## Legacy
 
@@ -119,8 +121,10 @@ In *Games International*, Theo Clarke called The Colonel's Bequest "solid genre 
 The Colonel's Bequest inspired Julia Minamata's *The Crimson Diamond*, which Ars Technica calls a "not-at-all-subtle spiritual successor".[^ref-16] *Computer Gaming World*'s November 1996 15th-anniversary issue ranked Laura Bow #13 among its 15 most memorable game heroes, saying she "captured the flavor of the flapper era".[^ref-19][^ref-1]
 
 ### Revival Efforts
-- **Laura Bow and the Mechanical Codex** - Steam lists this NineZyme game as the "third installment of the Laura Bow franchise", with release "To be announced".[^ref-8]
-- In August 2024 NineZyme reported a meeting with Microsoft and Ken and Roberta Williams, but told Adventure Game Hotspot that "Laura Bow is still mostly on hold, for the time being, until something more concrete is decided on the licensing."[^ref-12]
+- **Laura Bow and the Mechanical Codex** is an unofficial, fan-made project by the Estonian developer NineZyme, not a Sierra or licensed revival. PC Gamer (22 October 2020) wrote: "Today, there's an unofficial new game in the works— Laura Bow and the Mechanical Codex, a fan-made project by Estonian developer NineZyme Entertainment."[^ref-6]
+- Its Steam page calls it the "third installment of the Laura Bow franchise", with release "To be announced" (page checked 16 October 2026); that is the developer's own marketing wording.[^ref-8]
+- In August 2024 NineZyme reported a meeting with Microsoft and Ken and Roberta Williams. It told Adventure Game Hotspot that "Laura Bow is still mostly on hold, for the time being, until something more concrete is decided on the licensing", that "we have our hopes set on making an official Laura Bow game", and that "If it really doesn't work out, then we plan to rebrand the game and release it as something else."[^ref-12]
+- Status: no release date and no licence; the latest NineZyme statement found is the August 2024 interview.
 
 ### Why Only Two Games?
 The series ended after two entries. No source gives a reason; Williams was not the lead designer of the second game.[^ref-14]
@@ -181,3 +185,6 @@ The series ended after two entries. No source gives a reason; Williams was not t
 [^ref-18]: [Gaming After 40 - Adventure of the Week: Sierra's The Colonel's Bequest (1989)](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – September 2009: supports music and sound effects but "does not yet handle sampled audio"
 [^ref-19]: [Computer Gaming World #148 (November 1996), Internet Archive OCR text](https://archive.org/stream/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – 15th anniversary issue, 15 most memorable game heroes: "13. Laura Bow… captured the flavor of the flapper era"
 [^ref-20]: [Adventure Classic Gaming - The Colonel's Bequest: a Laura Bow Mystery review](http://www.adventureclassicgaming.com/index.php/site/reviews/270/) – Michelle Destefano, November 2007: grounds include "the chapel, the barn, Celie's granny flat, the small gardens, the cemetery, the boat shed, and the gazebo area"
+[^ref-21]: [Computer Gaming World #99 (October 1992), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_99) – Chuck Miller, "Whodunit, Art Deco Style": header "GRAPHICS: VGA-256 or EGA-16"; "much improved over the original Laura Bow mystery"; "another quality adventure from the fertile minds at Sierra"
+[^ref-22]: [Computer Gaming World #117 (April 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_117) – CD-ROM notice: "Audibly enhanced from the original floppy release and featuring a competent cast of voice actors"; "…combine to make this multimedia game a winner"
+[^ref-23]: [Campo Santo Quarterly - Selected Stories from the Days of Laura Bow (Wayback, March 30, 2020)](https://web.archive.org/web/20200330012511/https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) – Duncan Fyfe, April 2, 2018: Balfour "the game's director, designer, writer, producer and supporting voice actor"; Josh Mandel on Williams wanting him to write Laura Bow 2 and his Dagger of Amon Ra proposal
