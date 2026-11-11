@@ -7,18 +7,18 @@ first_release: 1994
 last_release: 2003
 total_games: 13
 genre: "Racing Simulation"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # NASCAR Racing Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The NASCAR Racing series is [[Papyrus Design Group|Papyrus Design Group's]] stock-car racing simulation series. It started in 1994 and ended with *NASCAR Racing 2003 Season* in 2003; later NASCAR games came from Electronic Arts, which took over the official NASCAR license.[^ref-1] Wikipedia's series table lists thirteen releases, including add-ons and a PlayStation port; nine of them have vault pages.[^ref-1]
 
-Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari and was acquired by Sierra On-Line in late 1995.[^ref-2] Kaemmer was a designer and programmer of the first game[^ref-16] and the company's technical director;[^ref-17] MobyGames credits him as Technical Director on NASCAR Racing 4.[^ref-22] After leaving Papyrus in late 2002, he began developing iRacing in 2004 with John W. Henry on the acquired *NASCAR Racing 2003 Season* code; it launched in 2008.[^ref-2][^ref-3]
+Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari and was acquired by Sierra On-Line in late 1995;[^ref-2] Sierra's annual report dates the merger to 30 November 1995, in exchange for 1,169,404 shares of Sierra common stock.[^ref-28] Vivendi Universal Games shut the studio down in May 2004.[^ref-11][^ref-29] Kaemmer was a designer and programmer of the first game[^ref-16] and the company's technical director;[^ref-17] MobyGames credits him as Technical Director on NASCAR Racing 4.[^ref-22] After leaving Papyrus in late 2002, he began developing iRacing in 2004 with John W. Henry on the acquired *NASCAR Racing 2003 Season* code; it launched in 2008.[^ref-2][^ref-3]
 
 ## Series Timeline
 
@@ -27,7 +27,7 @@ Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari and was acquire
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Virgin Interactive (DOS); Sierra (Mac, PlayStation) | Founding entry; DOS, later Mac and PlayStation[^ref-18] |
 | 1995 | NASCAR: Track Pack | Papyrus | Add-on for NASCAR Racing (MS-DOS)[^ref-1] |
 | 1996 | NASCAR Racing (PlayStation) | Sierra | Console port of the 1994 game[^ref-1][^ref-18][^ref-26] |
-| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Sierra | DOS and Windows |
+| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Sierra | DOS and Windows[^ref-30] |
 | 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Sierra | Expansion pack[^ref-1] |
 | 1999 | NASCAR Racing 1999 Edition | Sierra | Windows[^ref-1][^ref-14][^ref-24] |
 | 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Sierra Sports[^ref-12] | Main-line entry; shipped to North American retail in September 1999[^ref-23] |
@@ -35,12 +35,12 @@ Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari and was acquire
 | 1999 | [[1999 - NASCAR Craftsman Truck Series Racing\|NASCAR Craftsman Truck Series Racing]] | Sierra | Truck-series spin-off[^ref-1] |
 | 2000 | NASCAR Racing 3 Craftsman Truck Series Expansion Pack | Sierra | Windows expansion[^ref-1][^ref-25] |
 | 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Sierra | 2000 Winston Cup tracks, 2001 drivers and teams[^ref-20] |
-| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Sierra | Uses the NASCAR Racing 4 physics engine[^ref-7] |
-| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Sierra | Final Papyrus entry[^ref-1] |
+| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Sierra; Aspyr (Mac)[^ref-33] | Uses the NASCAR Racing 4 physics engine[^ref-7] |
+| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Sierra; Aspyr (Mac)[^ref-34] | Final Papyrus entry[^ref-1] |
 
 ## Founding entry: NASCAR Racing (1994)
 
-[[1994 - NASCAR Racing|NASCAR Racing]] (1994) was Papyrus's third racing game, moving from the open-wheel cars of *IndyCar Racing* to stock cars.[^ref-4] It was published by Virgin for MS-DOS in 1994, followed by a Mac port on November 2, 1996; Sierra On-Line released a PlayStation version in 1996.[^ref-18] Its credited designers were David Kaemmer, Adam Levesque and John Wheeler.[^ref-18]
+[[1994 - NASCAR Racing|NASCAR Racing]] (1994) was Papyrus's third racing game, moving from the open-wheel cars of *IndyCar Racing* to stock cars.[^ref-4] It was published by Virgin for MS-DOS in 1994, followed by a Mac port on November 2, 1996; Sierra On-Line released a PlayStation version in 1996.[^ref-18] Its credited designers were David Kaemmer, Adam Levesque and John Wheeler.[^ref-18] By December 1995, *Next Generation* reported, it had sold 350,000 copies.[^ref-31]
 
 - **Simulation detail** — Realistic car models, full control over the car's setup, and drafting, with driving aids such as auto-shifting and auto-braking for a wider audience.[^ref-4]
 - **Graphics** — 320×200 VGA or 640×480 SVGA;[^ref-21] the SVGA mode, enabled by entering "nascar -h", "was too demanding for many of the computers of its age."[^ref-18]
@@ -50,7 +50,7 @@ The PC Gamer US editors called it "the best racing game ever created" and gave i
 
 ## Sierra-published era (1996-2003)
 
-After the Sierra acquisition, NASCAR Racing 2 (1996) added Windows support. GameSpot's 2004 history of Papyrus called NASCAR Racing 2 "the second highest-selling Papyrus game of all time at 800,000 units worldwide",[^ref-27] and MobyGames' Papyrus history says NASCAR Racing 4 "had a revamped physics engine and took full advantage of 3D acceleration."[^ref-11] GameSpot called NASCAR Racing 4's physics "a new and vastly improved vehicle physics model" and said it "benefits from a new graphics engine".[^ref-13] *NASCAR Racing 2002 Season* "utilizes the physics engine used in NASCAR Racing 4."[^ref-7]
+After the Sierra acquisition, NASCAR Racing 2 (1996) added Windows support;[^ref-30] a 1999 GameCenter preview of *NASCAR Racing 3* said "2 million units of NASCAR and NASCAR 2" had been distributed worldwide.[^ref-32] GameSpot's 2004 history of Papyrus called NASCAR Racing 2 "the second highest-selling Papyrus game of all time at 800,000 units worldwide",[^ref-27] and MobyGames' Papyrus history says NASCAR Racing 4 "had a revamped physics engine and took full advantage of 3D acceleration."[^ref-11] GameSpot called NASCAR Racing 4's physics "a new and vastly improved vehicle physics model" and said it "benefits from a new graphics engine".[^ref-13] *NASCAR Racing 2002 Season* "utilizes the physics engine used in NASCAR Racing 4."[^ref-7]
 
 iRacing describes *Grand Prix Legends* and *NASCAR Racing 2003 Season* as "considered monumental achievements in sim racing when they were released" that "continue to have a following even to this day."[^ref-8]
 
@@ -69,6 +69,10 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 
 1. **Modding community.** *NR2003* in particular has lived on through its modding community for years after release, with new mods and tracks appearing each year.[^ref-10]
 2. **iRacing inheritance.** On May 28, 2004, Vivendi and Papyrus sold the *NASCAR Racing 2003 Season* copyrights to FIRST.net, LLC, which went on to develop iRacing using its engine.[^ref-2] iRacing launched to the public on August 26, 2008.[^ref-3]
+
+## Playing Today
+
+None of the series' Papyrus titles was listed on Steam or GOG when checked on 11 November 2026. *NASCAR Racing 3* has a GOG Dreamlist entry for readers who want to vote for a re-release.[^ref-35] *NASCAR Racing 2003 Season* is still played through its modding community (see above), and iRacing, built on its code, is the series' living successor.[^ref-3]
 
 ## See Also
 
@@ -104,3 +108,11 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 [^ref-25]: [MobyGames — NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.mobygames.com/game/3221/) — Windows, 2000 (read via the MobyGames API)
 [^ref-26]: [MobyGames — NASCAR Racing (PlayStation)](https://www.mobygames.com/game/51079/) — PlayStation, 1996 (read via the MobyGames API)
 [^ref-27]: [GameSpot — The History of Papyrus Racing Games, page 5 (Wayback, 2004)](https://web.archive.org/web/20040805135144/http://www.gamespot.com:80/features/6103365/p-5.html) — "Today it remains as the second highest-selling Papyrus game of all time at 800,000 units worldwide"
+[^ref-28]: [Sierra On-Line, Inc. – Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback 2018-04-16)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On November 30, 1995 the Company merged with Papyrus, developers of NASCAR Racing and Indy Car Racing, in exchange for 1,169,404 shares"
+[^ref-29]: [GameSpot – History of Papyrus Racing Games (Gord Goble; Wayback 2020-01-04)](https://web.archive.org/web/20200104210717/https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) — "officially shut down by publisher Vivendi Universal in May of this year" (article written 2004); MobyGames company history (ref-11) agrees: "May 2004 Publisher Vivendi Universal Games shuts down the company"
+[^ref-30]: [Computer Gaming World #152 (March 1997), "The Great Race" – NASCAR Racing 2 review](https://archive.org/details/Computer_Gaming_World_Issue_152) — System requirements: "Windows 95 or MS-DOS 5.0 or greater"
+[^ref-31]: [Next Generation – More Sports from Sierra (December 1, 1995; Wayback 1997-04-19)](https://web.archive.org/web/19970419221611/http://www.next-generation.com/news/120195e.html) — "In October 1994 it released NASCAR Racing for the PC which has sold 350,000 copies to date"
+[^ref-32]: [GameCenter – Sneak Peeks: Test-Drive NASCAR 3! (Wayback 1999-02-10)](https://web.archive.org/web/19990210102433/http://www.gamecenter.com/Peeks/Nascar3/) — "with 2 million units of NASCAR and NASCAR 2 already distributed worldwide"
+[^ref-33]: [MobyGames – NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/) — Macintosh release, January 2003, published by Aspyr Media (read via the MobyGames API)
+[^ref-34]: [MobyGames – NASCAR Racing 2003 Season](https://www.mobygames.com/game/9542/) — Macintosh release, June 2003, published by Aspyr Media (read via the MobyGames API)
+[^ref-35]: [GOG Dreamlist – NASCAR Racing 3](https://www.gog.com/dreamlist/game/nascar-racing-3-1999) — Dreamlist entry for NASCAR Racing 3 (1999)
