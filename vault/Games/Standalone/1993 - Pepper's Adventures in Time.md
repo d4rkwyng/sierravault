@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Pepper's Adventures in Time is a 1993 educational adventure game from
   Sierra On-Line's Discovery Series, in which Pepper Pumpernickel and her dog Lockjaw
   travel back to 1764 Philadelphia to set Benjamin Franklin's history right.
@@ -18,11 +18,11 @@ tags: [1990s, educational, sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. MobyGames and PCGamingWiki both credit Sierra On-Line as the developer[^ref-5][^ref-7]. The game teaches American colonial history through interactive play, following a young tomboy named Pepper Pumpernickel and her pit bull Lockjaw as they are sent back in time to 1764 Philadelphia, where history has gone wrong[^ref-1].
+Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. MobyGames and PCGamingWiki both credit Sierra On-Line as the developer[^ref-5][^ref-7]. The game teaches American colonial history through interactive play, following a young tomboy named Pepper Pumpernickel and her pit bull Lockjaw[^ref-1][^ref-32] as they are sent back in time to 1764 Philadelphia, where history has gone wrong[^ref-1].
 
 Part of Sierra's Discovery Series, the game was described by *Every Family's Guide to Computers* (1995) as teaching through "learning by contrast": the player is shown an incomplete historical scenario and has to correct it[^ref-1]. It was intended to be the first in a franchise that never took off[^ref-4], and Hardcore Gaming 101 called it "one of Sierra's most creative games" despite its being "largely ignored for its association" with Sierra's other educational titles[^ref-4].
 
@@ -63,7 +63,7 @@ The interface adds a "Truth" icon to the standard Sierra icons. It explains whic
 
 The game is divided into six acts: Time Travel, Philadelphia, Kite/Key Experiment, Stamp Act, Constitutional Convention and Rescue Lockjaw[^ref-12]. According to the manual, succeeding at the game requires knowing about life in colonial America and Benjamin Franklin's life and times[^ref-2]. Each act ends with a quiz, and each correct answer earns progress points[^ref-5]. One walkthrough notes that to get every point "you must at least answer all the chapter quiz questions correctly and use the TRUTH cursor a lot"[^ref-13].
 
-Playing as Lockjaw gives the player a different icon bar and different ways to interact with the world[^ref-2]. The Digital Antiquarian lists his "own unique set of doggie verbs, like a nose icon for sniffing, a paw icon for digging, and a mouth icon for eating — or biting"[^ref-32]. In one gag, if Lockjaw drinks from his water a second time, he walks over and relieves himself on the tree[^ref-9][^ref-2].
+Playing as Lockjaw gives the player a different icon bar and different ways to interact with the world[^ref-2]. The Digital Antiquarian lists his "own unique set of doggie verbs, like a nose icon for sniffing, a paw icon for digging, and a mouth icon for eating — or biting"[^ref-32]. In one gag, if Lockjaw drinks from his water a second time, he walks over and relieves himself on the tree[^ref-9].
 
 ### Puzzles and Mechanics
 
@@ -99,7 +99,7 @@ Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing tha
 GOG users voting for the game on its wishlist page wrote: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more"[^ref-25]. A commenter ("Kelp", 14 October 2009) on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
 
 **Aggregate Scores:**
-- MobyGames critics: 82% average from four ratings[^ref-23]
+- MobyGames critics: 82% average from four ratings; Just Adventure 91%, Adventure Gamers 90%, PC Joker 79% and Quandary 70%[^ref-23]
 - MobyGames players: 3.7 out of 5 from 21 ratings[^ref-5]
 
 ## Development
@@ -108,7 +108,9 @@ GOG users voting for the game on its wishlist page wrote: "One of the best point
 
 The game was based on a concept by Bill Davis, Sierra's VP of Development/Creative Director, who also designed its main characters[^ref-1][^ref-2]. MobyGames credits Davis with the original concept, and its credits also thank Davis' dog Polly Esther as the inspiration for Lockjaw[^ref-21]. It was intended as the first in a series of edutainment games in which Pepper would travel back in time to set history right[^ref-1][^ref-4]. Its earlier title was "Twisty History"[^ref-5]. The Digital Antiquarian describes it as "the third and final adventure game released as part of the Discovery Series". Davis's proposal "was for a series called *Twisty History*", and because he "wasn't himself a designer, the first game in the planned series became something of a community effort". Pepper herself was "sketched by Bill Davis and filled in by the design team"[^ref-32]. According to the same article, "what had been planned as the beginning of the Twisty History series was re-badged as the one-off Pepper's Adventures in Time just before its release in the spring of 1993"[^ref-32]. Evan of AdventureGamers understood the name was changed for trademark reasons[^ref-6].
 
-When asked about the game in 2003, Ken Williams said he had "only vague recollections of the title". He wrote: "I 'think' that it was developed by a company we acquired in Seattle called Brightstar," but cautioned, "I barely remember it." Later in the same thread he wrote "I stand corrected!" after learning that Lorelei Shannon had designed it[^ref-6]. The databases that list a developer credit Sierra On-Line[^ref-5][^ref-7].
+Davis told The Digital Antiquarian that Lockjaw was modelled on a dog his family adopted from the local animal shelter, "a German shepherd/terrier mix". In his words, "The terrier turned out to be Staffordshire terrier," which he noted is "synonymous with 'pit bull.'" The dog then shaped his character designs for Twisty History[^ref-32].
+
+When asked about the game in 2003, Ken Williams said he had "only vague recollections of the title". He wrote: "I 'think' that it was developed by a company we acquired in Seattle called Brightstar," but cautioned, "I barely remember it." Later in the same thread he wrote "I stand corrected!" after learning that Lorelei Shannon had designed it[^ref-6]. The databases that list a developer credit Sierra On-Line[^ref-5][^ref-7]. Sierra had just acquired [[Bright Star Technology]], a Seattle software house that became its official educational division, and the Discovery Series as a whole ended only two years after it had begun[^ref-32].
 
 ### Production
 
@@ -144,11 +146,16 @@ Sources disagree about a CD version. Adventure Gamers says the game "was release
 - **Input:** Keyboard, mouse; analog joystick supported
 - **Media:** 3.5" floppy disk
 
+**Windows 3.x version (listed as Windows 16-bit):**[^ref-22]
+- **Processor:** Intel i386 SX
+- **Operating system:** Windows 3.1
+- **Memory:** 2 MB RAM
+
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original release | 1993 | DOS | 3.5" floppy[^ref-5][^ref-22] |
+| Original release | 5 February 1993 | DOS | 3.5" floppy[^ref-5][^ref-22][^ref-33] |
 | Windows release | 1993 | Windows 3.x | Listed as Windows 16-bit by MobyGames[^ref-5][^ref-7] |
 
 Whether a CD edition shipped is disputed (see above)[^ref-18][^ref-4][^ref-20].
@@ -228,4 +235,5 @@ Several sources compare it with LucasArts' *Day of the Tentacle*. MobyGames says
 [^ref-29]: [Adventure Gamers – Top 100 All-Time Adventure Games (archived)](https://web.archive.org/web/20130118232940/http://www.adventuregamers.com/articles/view/18643/page8/) – #67 ranking (2011)
 [^ref-30]: [Kotaku UK – The 10 Adventure Games That Everyone Must Play (2015-03-17, archived 2016-11-04)](https://web.archive.org/web/20161104124105/http://www.kotaku.co.uk/2015/03/17/the-10-adventure-games-that-everyone-must-play) – Day of the Tentacle entry: "Pepper's Adventures in Time says hi!"
 [^ref-31]: [Metzomagic – Pepper's Adventures in Time review](https://www.metzomagic.com/showArticle.php?index=54) – Rosemary Young, March 1995
-[^ref-32]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Jimmy Maher, 19 October 2018: Twisty History proposal, re-badged spring 1993, Lockjaw's verbs
+[^ref-32]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Jimmy Maher, 19 October 2018: Twisty History proposal, re-badged spring 1993, Lockjaw's verbs and origin, Bright Star acquisition
+[^ref-33]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=322&title=peppers-adventures-in-time&fld=general) – First release date 1993-02-05
