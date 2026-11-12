@@ -1,14 +1,14 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — ADL (Hi-Res Adventures), AGI, SCI0/SCI1/SCI1.1/SCI2/SCI2.1/SCI3, the ThreeSpace-based Mask of Eternity, and the engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ Defining games (SCI0):
 
 ## Generation 4: SCI1 / SCI1.1 (1990–1993)
 
-**Engine:** SCI1 and SCI1.1. SCI1.1 CD and Windows re-releases continued into 1994, among them the King's Quest VI Windows CD (September 1994) and the Freddy Pharkas CD (September 1994).[^ref-20]
+**Engine:** SCI1 and SCI1.1. SCI1.1 CD and Windows re-releases continued into 1994, among them the King's Quest VI Windows CD (September 1994) and the Freddy Pharkas CD (September 1994); the Space Quest IV CD and Windows CD versions are also SCI1.1.[^ref-20]
 **Platforms:** IBM PC (286 or better), Macintosh, Amiga, FM Towns, NEC PC-9801 — no Atari ST.[^ref-20] Several SCI1.1 games also had Windows releases.[^ref-20]
 
 SCI1's VGA debut was [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] in 1990, which combined 256-color VGA graphics with an icon-driven interface;[^ref-8] Quest for Glory II had already used an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058).[^ref-20] King's Quest V replaced "its predecessor's 16-color EGA graphics with 256-color VGA graphics" and replaced the text parser "with an entirely mouse-driven point-and-click interface".[^ref-23] SCI1 games were sold in both 16-color EGA and 256-color VGA versions.[^ref-20] SCI1.1 (1992) added "enhanced animation and sprite scaling".[^ref-8]
@@ -110,23 +110,23 @@ Key innovations:
 
 Defining games (SCI1):
 
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]][^ref-20]
 - [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] (an EGA-only SCI1 version)[^ref-20]
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (floppy SCI1; the CD and Windows CD versions are SCI1.1)[^ref-20]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]], [[1991 - Police Quest III - The Kindred|Police Quest III]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest 1]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]][^ref-20]
 - [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]], [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]][^ref-20]
 
 Defining games (SCI1.1):[^ref-20]
 
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]]
-- [[1992 - Quest for Glory III - Wages of War|Quest for Glory III]]
-- [[1992 - The Dagger of Amon Ra|Dagger of Amon Ra]]
-- [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]]
-- [[1993 - Space Quest V - The Next Mutation|Space Quest V]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]]
-- [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]]
-- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]]
-- [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]]
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]][^ref-20]
+- [[1992 - Quest for Glory III - Wages of War|Quest for Glory III]][^ref-20]
+- [[1992 - The Dagger of Amon Ra|Dagger of Amon Ra]][^ref-20]
+- [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]][^ref-20]
+- [[1993 - Space Quest V - The Next Mutation|Space Quest V]][^ref-20]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]][^ref-20]
+- [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]][^ref-20]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] (low-res release; the hi-res CD versions are SCI2.1, 2.100.002)[^ref-20]
+- [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]][^ref-20]
 
 ## Generation 5: SCI2 / SCI2.1 (1993–1996)
 
@@ -137,8 +137,8 @@ SCI2 (1993) brought 640×480 SVGA in 256 colors and 32-bit protected mode.[^ref-
 
 Defining games:
 
-- SCI2: [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], [[1993 - Police Quest - Open Season|Police Quest: Open Season]], [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (floppy v1.0/v1.1, interpreter 2.000.000)[^ref-20]
-- SCI2.1: [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]], [[1995 - Torin's Passage|Torin's Passage]], [[1995 - Shivers|Shivers]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]]; also the CD and Windows CD versions of Quest for Glory IV (interpreter 2.100.002, early SCI2.1)[^ref-20]
+- SCI2: [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]], [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (floppy SCI2; the CD and Windows CD versions are SCI2.1, 2.100.002), [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (floppy v1.0/v1.1, interpreter 2.000.000)[^ref-20]
+- SCI2.1: [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]], [[1995 - Torin's Passage|Torin's Passage]], [[1995 - Shivers|Shivers]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]]; also the CD and Windows CD versions of Quest for Glory IV and Police Quest: Open Season, and the hi-res CD versions of Leisure Suit Larry 6 (interpreter 2.100.002, early SCI2.1), plus [[1996 - Hoyle Solitaire]], [[1996 - Hoyle Bridge]] and [[1995 - Mixed-Up Mother Goose Deluxe]] (also 2.100.002)[^ref-20]
 
 ## Generation 6: SCI3 (1996)
 
@@ -181,7 +181,7 @@ Sierra's published catalogue also ran on engines developed by acquired or partne
 
 Modern preservation depends on projects re-implementing these engines:
 
-- **[[ScummVM|ScummVM]]** — Runs the Hi-Res Adventures through its ADL engine (adl:hires0 to hires6), the Pre-AGI games, AGI, and SCI from SCI0 through SCI3 (for example sci:kq7, sci:lsl7, sci:phantasmagoria2, sci:rama).[^ref-19][^ref-21] It lists Shivers Two as not implemented,[^ref-27] and Mask of Eternity, Quest for Glory V and Gabriel Knight 3 do not appear on its compatibility list.[^ref-19]
+- **[[ScummVM]]** — Runs the Hi-Res Adventures through its ADL engine (adl:hires0 to hires6), the Pre-AGI games, AGI, and SCI from SCI0 through SCI3 (for example sci:kq7, sci:lsl7, sci:phantasmagoria2, sci:rama).[^ref-19][^ref-21] It lists Shivers Two as not implemented,[^ref-27] and Mask of Eternity, Quest for Glory V and Gabriel Knight 3 do not appear on its compatibility list.[^ref-19]
 - **DOSBox** — Generic DOS emulation; runs Sierra titles on the original engine binaries. The fallback when ScummVM doesn't have native support.
 - **FreeSCI** — Predecessor to ScummVM's SCI support; FreeSCI's code was merged into ScummVM on February 15, 2009: "FreeSCI code now lives under engines/sci".[^ref-8][^ref-42]
 
@@ -189,7 +189,7 @@ Modern preservation depends on projects re-implementing these engines:
 
 - [[Adventure Game Interpreter|AGI engine deep-dive]]
 - [[Sierra Creative Interpreter|SCI engine deep-dive]]
-- [[ScummVM|ScummVM]] — Modern re-implementation
+- [[ScummVM]] — Modern re-implementation
 - [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[Engine Index]] — Per-game engine list
 - [[Timeline 1980-1999|Timeline 1980–1999]] — Engine-launch context
