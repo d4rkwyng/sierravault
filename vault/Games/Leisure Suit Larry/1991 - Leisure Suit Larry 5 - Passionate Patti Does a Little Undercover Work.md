@@ -3,6 +3,7 @@ title: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work'
 release_year: 1991
 developer: Sierra On-Line
 designer: [Al Lowe]
+composer: [Craig Safan, Al Lowe, Christopher Braymen]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Amiga, Macintosh, Windows]
@@ -10,7 +11,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
   (1991) is the fourth game in Al Lowe''s Leisure Suit Larry series, alternating
   between Larry Laffer and Passionate Patti and skipping a Larry 4 that was never made.'
@@ -18,17 +19,18 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991, stands as the fourth entry in Al Lowe's infamous adventure series[^ref-4]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4; skipping it served both as a joke and as a way to continue the plot[^ref-16][^ref-14]. It was the first new Larry adventure to drop the text parser for an icon-based point-and-click interface, following the VGA remake of the first game, released shortly before it, which had made the same switch[^ref-12][^ref-16][^ref-3].
+Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991 (September 7 according to Wikipedia and the Sierra Wiki[^ref-4][^ref-15]; the Sierra Chest gives 1991-09-11 as the first release date[^ref-16]), stands as the fourth entry in Al Lowe's infamous adventure series[^ref-4]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4; skipping it served both as a joke and as a way to continue the plot[^ref-16][^ref-14]. It was the first new Larry adventure to drop the text parser for an icon-based point-and-click interface, following the VGA remake of the first game, released shortly before it, which had made the same switch[^ref-12][^ref-16][^ref-3].
 
 This adventure game alternates control between series protagonist Larry Laffer and Passionate Patti, each following separate storylines that eventually converge[^ref-4][^ref-14]. Larry's boss sends him out to find women for the company's new show, "America's Sexiest Home Videos", while Patti goes undercover for the FBI on a case that leads to the villain Julius Biggs[^ref-4][^ref-14]. IMDb trivia and the Sierra Wiki both report that Al Lowe intended the game as an "interactive cartoon", and give that as the reason neither character can die[^ref-6][^ref-15].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
-> **Designer:** [[Al Lowe]][^ref-8]
+> **Designer:** [[Al Lowe]][^ref-4][^ref-50]
+> **Composer:** Craig Safan, Al Lowe, Christopher Braymen[^ref-15][^ref-50][^ref-52]
 > **Publisher:** Sierra On-Line[^ref-9]
 > **Platforms:** DOS, Amiga, Macintosh; Windows re-release 2017[^ref-10][^ref-4]
 > **Release Year:** 1991[^ref-4]
@@ -67,7 +69,7 @@ The complete game is worth 1,000 points, though many items and puzzles are optio
 
 ### Contemporary Reviews
 
-Contemporary scores averaged in the mid-70s, with Amiga magazine scores ranging from 50% to 92%. LemonAmiga averages ten Amiga magazine reviews at 73%[^ref-10], and MobyGames lists a critic average of 76% across 24 ratings[^ref-9].
+Contemporary scores averaged in the mid-70s, with Amiga magazine scores ranging from 50% to 92%. LemonAmiga averages ten Amiga magazine reviews at 73%[^ref-10], and MobyGames lists a critic average of 76% across 25 ratings[^ref-9].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -103,7 +105,20 @@ This decision solved what Lowe called the "mind share problem" - how to grab peo
 
 The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5 uses 256-colour VGA graphics[^ref-16][^ref-7]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4]. [[Andy Hoyos]] is credited under Graphics / Artwork and for Production[^ref-50][^ref-15].
 
-Craig Safan, an Emmy-nominated Hollywood composer whose credits include the TV series Cheers, The Last Starfighter and A Nightmare on Elm Street 4, provided the musical score[^ref-7]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
+Adventure Classic Gaming describes the game's original score as the work of "Emmy nominee and Hollywood composer Craig Safan, whose credits include the Cheers TV show, The Last Starfighter, and A Nightmare on Elm Street 4"[^ref-7]. The Sierra Wiki's credits list "Music: Christopher Braymen, Al Lowe, Craig Safan" and "Music / Sound Programming: Mark Seibert"[^ref-15]; MobyGames' credits name the same three composers (Christopher G. Braymen, Al Lowe, Craig Safan) and Mark Seibert[^ref-50], and VGMrips credits Al Lowe, Chris Braymen and Craig Safan[^ref-52]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
+
+**Development Credits:**[^ref-15][^ref-50]
+- **Design / Director:** [[Al Lowe]]
+- **Creative Director:** Bill Davis
+- **Executive Producer:** Ken Williams
+- **Producer:** Guruka Singh Khalsa
+- **Programming:** Brian K. Hughes (lead), Oliver Brelsford, Steve Conrad, Juan Carlos Escobar, John Hartin, Al Lowe
+- **Art Directors:** Jane Cardinal, Cheryl Loyd
+- **Music:** Craig Safan, Al Lowe, Christopher Braymen
+- **Music / Sound Programming:** Mark Seibert
+- **Documentation:** Josh Mandel
+- **Quality Assurance:** Robin Bradley, Joseph Perry
+- **Spanish Translation:** Randall Mage
 
 ### Technical Achievements
 
@@ -113,6 +128,28 @@ The game included copy protection through its airline booking system, requiring 
 
 US telephone company Sprint paid to be featured in the game: whenever Larry or Patti make a phone call, it goes through Sprint, and MobyGames suggests Sierra may have been the first company to place an advertisement in a computer game[^ref-9].
 
+### Technical Specifications
+
+Adventure Classic Gaming's technical data gives the floppy version's requirements as 640K of memory, a hard disk and a 286 or better, with a mouse recommended; it supports Thunderboard, Pro Audio Spectrum, AdLib, Roland MT-32/LAPC-1/CM-32L and Sound Blaster. The CD-ROM version is listed as requiring MS-DOS 5.0 or later, a 386SX, 2MB of RAM, VGA or MCGA, a hard drive, a CD-ROM drive and a mouse or joystick, supporting SoundBlaster and Ad-lib, Pro Audio, Pro Audio 16, Roland MT/32, Sound Source and General MIDI[^ref-7]. MobyGames lists 3.5" floppy, 5.25" floppy and CD-ROM media[^ref-9].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | September 7, 1991 (Wikipedia, Sierra Wiki); 1991-09-11 (Sierra Chest) | DOS | Original release[^ref-4][^ref-15][^ref-16] |
+| Original | 1991 | Macintosh | MobyGames release list[^ref-9] |
+| Original | 1992 | Amiga | MobyGames release list[^ref-9] |
+| Re-release | December 20, 2017 | Windows | Steam release by Assemble Entertainment[^ref-9][^ref-4] |
+| Delisting | April 30, 2025 | Windows | Assemble Entertainment announced the game's removal from Steam[^ref-44] |
+
+### Technical Issues
+
+The Sierra Wiki lists several fixes for the game. The non-Sierra LSL5_NRS patch, one of NewRisingSun's script-level timer bug patches, fixes text windows appearing too quickly at the beginning of the game and a problem in the mud wrestling scene. Sierra's 486SBDRV patch corrects "error 29, unable to initialize audio hardware", with an updated driver that works on faster systems with a Sound Blaster 16, and the E29PATCH file contains two drivers, MTBLAST.DRV and SNDBLAST.DRV, designed for compatibility with 486 systems[^ref-15]. Sierra Help also documents installer problems on faster PCs and under Windows XP: the installer's system test can crash with a General Protection Fault in _SETUP.EXE, and on Windows XP the setup window can be hidden[^ref-53].
+
+### Easter Eggs and Trivia
+
+Sierra Help's Leisure Suit Larry Easter egg list records two hidden risqué scenes in this game: using the zipper icon on Larry behind the plants at either side of the Hard Disk Cafe entrance, and clicking the hand cursor repeatedly on the button of the blouse of the dentist's assistant at the dentist's office[^ref-54].
+
 ## Legacy
 
 Leisure Suit Larry 5's impact on the series was significant but controversial. It brought VGA graphics and the icon interface to a new Larry adventure, but some later reviewers rate it poorly; 3rd World Geeks felt it "falls in the 'miss' category" of the series[^ref-1]. Just Games Retro warned that for anyone who has "ever played another adventure game, this one will be insultingly simplistic"[^ref-28].
@@ -120,6 +157,10 @@ Leisure Suit Larry 5's impact on the series was significant but controversial. I
 The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans were left to guess for years what happened to it; The Sierra Chest jokes that it "was never made but, by all means, DO keep looking for it!"[^ref-16]. Al Lowe later explained that Larry 4 was meant to be "the first multi-player on-line adventure game", and recalls that he, Jeff Stephenson and Matthew George began coding it in January 1991[^ref-47]. The adventure design proved unworkable, and the board games built to test the system grew into Sierra's online service instead: "Constant Companion became The Sierra Network"[^ref-47][^ref-48]. After six months Lowe "realized my folly and begged off the project"; with "the sales department … clamoring for Larry 4", he decided to give them one, and it became Larry 5[^ref-48]. The dates in Lowe's accounts don't line up neatly with the record: he dates the start of coding to January 1991[^ref-47], but Sierra's own magazine was already reporting talk of a modem-based Larry in Spring 1990[^ref-49], and Lowe also says Larry 3's crunch was to get it out "in time for the 1990 holiday shopping season"[^ref-45], although Larry 3 was released in 1989[^ref-51].
 
 The game was a commercial success. On November 15, 1991, the Nashua Telegraph reported that more than 125,000 copies had been sold since its September release[^ref-35]. Sierra's SEC filings put combined sales of the Leisure Suit Larry series at over 1.4 million copies[^ref-34].
+
+### Collections
+
+The Sierra Chest lists the game as included in Leisure Suit Larry's Greatest Hits and Misses, the Leisure Suit Larry Collection Series, Leisure Suit Larry: Ultimate Pleasure Pack and the Leisure Suit Larry Collection (XP)[^ref-16]. The Sierra Chest also notes that this was the last game in the series to feature Patti; from Leisure Suit Larry 6 onward Larry continues alone[^ref-16].
 
 ## Downloads
 
@@ -155,12 +196,12 @@ The game was a commercial success. On November 15, 1991, the Nashua Telegraph re
 [^ref-6]: [IMDb Trivia Page](https://m.imdb.com/title/tt0273735/trivia/) – Trivia: Lowe intended the game as an "interactive cartoon"
 [^ref-7]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/123/) – Review: grope-and-click, Bodily Function Keys, Craig Safan, hand-painted graphics, 4/5 score, 1/5 difficulty
 [^ref-8]: [Alex Bevilacqua – Leisure Suit Larry 5 (Nov 28, 2025)](https://alexbevi.com/blog/2025/11/28/leisure-suit-larry-5/) – Retrospective review, 55% score
-[^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – Critic average 76% from 24 ratings; Sprint product placement; Ken Williams' "game that everyone can finish" (trivia)
+[^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – Critic average 76% from 25 ratings (as of November 2026); release list (DOS and Macintosh 1991, Amiga 1992, Windows 2017-12-20); media types; Sprint product placement; Ken Williams' "game that everyone can finish" (trivia)
 [^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – Ten Amiga magazine review scores and 73% average; Amiga version
 [^ref-12]: [TV Tropes Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry5PassionatePattiDoesALittleUndercoverWork) – SCI1 engine information
 [^ref-14]: [Archived Hardcore Gaming 101](https://web.archive.org/web/20140613063251/http://www.hardcoregaming101.net/lsl/lsl3.htm) – Premise, any-order scenarios, storylines "finally converge right at the end"
-[^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – Julius Biggs and the amnesia gag; "interactive cartoon"; credits incl. Andy Hoyos
-[^ref-16]: [Sierra Chest Information](https://www.sierrachest.com/index.php?a=games&id=27&fld=general) – Larry 4 mystery incorporation
+[^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – Julius Biggs and the amnesia gag; "interactive cartoon"; credits incl. Andy Hoyos; release date September 7, 1991; Music credit (Christopher Braymen, Al Lowe, Craig Safan); patches
+[^ref-16]: [Sierra Chest Information](https://www.sierrachest.com/index.php?a=games&id=27&fld=general) – Larry 4 mystery incorporation; first release 1991-09-11; last game featuring Patti; collections list
 [^ref-20]: [IGN Walkthrough/FAQ](https://www.ign.com/articles/2003/05/27/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-walkthroughfaq-410383) – "Compared to some of the later Leisure Suit Larry games, this particular one is quite a bit more linear"
 [^ref-22]: [GamePressure Database](https://www.gamepressure.com/games/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-wo/za13a5) – Control switches between the two characters' tracks alternately
 [^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/36676) – Walkthrough author: "you cannot die in game nor get stuck"
@@ -185,5 +226,8 @@ The game was a commercial success. On November 15, 1991, the Nashua Telegraph re
 [^ref-47]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – Larry 4 as a multiplayer online adventure, begun January 1991; "Constant Companion became The Sierra Network"
 [^ref-48]: [Al Lowe – TSN's Larryland](https://allowe.com/games/larry/inside-stories/larryland.html) – Lowe "realized my folly and begged off the project" after six months; "The sales department was clamoring for Larry 4"
 [^ref-49]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – "the next Leisure Suit Larry installment will require (get this) — modem support" (Johnny Magpie rumor column)
-[^ref-50]: [MobyGames – Leisure Suit Larry 5 credits (DOS)](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/credits/dos/) – "Graphics / Artwork" includes Andy Hoyos; "Production Andy Hoyos"
+[^ref-50]: [MobyGames – Leisure Suit Larry 5 credits (DOS)](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/credits/dos/) – "Graphics / Artwork" includes Andy Hoyos; "Production Andy Hoyos"; Music: Christopher G. Braymen, Al Lowe, Craig Safan; full credits list
 [^ref-51]: [Wikipedia – Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Larry 3 published by Sierra in 1989 (infobox: November 1989)
+[^ref-52]: [VGMrips – Leisure Suit Larry 5 (IBM PC/AT) pack](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – Composers: Al Lowe, Chris Braymen, Craig Safan
+[^ref-53]: [Sierra Help – Leisure Suit Larry 5 Help](https://sierrahelp.com/Games/LeisureSuitLarry/LSL5Help.html) – Installer system-test crash, hidden setup window on Windows XP
+[^ref-54]: [Sierra Help – Leisure Suit Larry Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/LSLEasterEggs.html) – Leisure Suit Larry 5 entries
