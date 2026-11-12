@@ -10,22 +10,22 @@ series: 3D Ultra
 engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Konami Digital Entertainment, released on October 27, 2010 for Xbox Live Arcade and on November 16, 2010 for PlayStation Network."
 tags: [2010s, 3d-ultra, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Konami Digital Entertainment[^ref-5][^ref-12][^ref-21], released on October 27, 2010 for Xbox Live Arcade at 800 Microsoft Points[^ref-12][^ref-13] and on November 16, 2010 for PlayStation 3 via PlayStation Network[^ref-12]. It is the sequel to 3D Ultra Minigolf Adventures in a series that began with 3-D Ultra MiniGolf in 1997[^ref-5]. Adventures 2 built upon the foundation established by 3D Ultra Minigolf Adventures (2006/2007), expanding to 54 holes across three new themed environments: Haunted Manor, Manic Museum, and Winter Wonderland[^ref-13][^ref-14].
 
-The franchise's history stretches back to Dynamix's original 3-D Ultra MiniGolf, which promised players "mini golf just the way you remember it... only much, much cooler" with "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3]. Following Dynamix's closure in 2001, development of the Adventures series was handled by Wanako Games (renamed Behaviour Santiago in November 2010)[^ref-22], who inherited design elements from the cancelled "Minigolf Maniacs" project originally planned for PC and PlayStation 2[^ref-5].
+The franchise's history stretches back to Dynamix's original 3-D Ultra MiniGolf, which promised players "mini golf just the way you remember it... only much, much cooler" with "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3]. After Dynamix closed, the planned "Minigolf Maniacs" for PC and PlayStation 2 was left unfinished, and many of its level designs and mechanics were re-used in the Adventures series[^ref-5], which was developed by Wanako Games (renamed Behaviour Santiago in November 2010, and shut down on 20 November 2017)[^ref-22].
 
-Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes total and added new themed environments while maintaining the accessible gameplay that characterized the series[^ref-13]. The game featured four-player multiplayer matches with sabotaging power-ups, and introduced character customization with accessories like diving helmets, elf ears, and Roman sandals[^ref-13][^ref-14] — plus Xbox 360 players could use their Xbox Avatar[^ref-12].
+Adventures 2 expanded the course count from Adventures 1's 36 holes[^ref-15] to 54 holes total[^ref-13] and added new themed environments while maintaining the accessible gameplay that characterized the series[^ref-13]. The Xbox 360 version has since been removed from the Xbox Marketplace[^ref-23][^ref-24]. The game featured four-player multiplayer matches with sabotaging power-ups, and introduced character customization with accessories like diving helmets, elf ears, and Roman sandals[^ref-13][^ref-14] — plus Xbox 360 players could use their Xbox Avatar[^ref-12].
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-5]
@@ -41,6 +41,10 @@ Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes 
 ## Story Summary
 
 MobyGames describes Adventures 2 as returning "with new levels and special moves while retaining the same style," across 54 themed holes "such as a haunted mansion and an icy mountain"[^ref-12].
+
+### Earlier Games in the Series
+
+The notes below describe earlier games in the series, not Adventures 2 itself.
 
 The franchise's approach to course design evolved significantly from the original 1997 game, which featured 18 holes with traditional miniature golf elements like windmills and lighthouses, plus fantasy-themed courses including moon and dinosaur settings[^ref-8]. The Adventures series expanded this concept substantially—the first Adventures offered 36 holes spanning three distinct environments: a Classic Carnival, an Old West ghost town, and outer space locations[^ref-15]. As IGN's review of that first Adventures put it, "Screw the old windmill. Sierra's wacky new XBLA title takes you to outer space"[^ref-11].
 
@@ -116,7 +120,13 @@ The series faced significant development challenges following Dynamix's closure 
 
 Adventures 2 was again developed by Wanako Games and produced by Artificial Mind and Movement, but was published by Konami Digital Entertainment rather than Sierra; Konami announced the sequel in March 2010 for Xbox Live Arcade and PlayStation Network, with four-player online play and a map editor[^ref-5][^ref-21].
 
-### Technical Achievements
+### Credits and Technical Notes
+
+MobyGames credits the Xbox 360 release to Behaviour Interactive Chile Ltda. as developer (the studio that had been Wanako Games), with Konami Digital Entertainment as publisher, SomaTone Interactive Audio for music and sound, Firelight Technologies as sound engine provider, SDI Media Group for localization and Laboratoires Bug-Tracker for testing[^ref-12]. Wikipedia likewise gives the studio's former name as Wanako Games Chile Ltda. (2002 to 2010)[^ref-22].
+
+#### Earlier Games in the Series
+
+The notes below describe earlier games in the series, not Adventures 2 itself.
 
 The original game faced technical limitations typical of its era, with one persistent issue being that the "Preferences button on main menu crashes the game"[^ref-3]. Adventures improved technical specifications significantly, with the PC version requiring a "Direct 3D 32MB DirectX 9.0c" graphics card[^ref-19] and a 43MB download size for Xbox Live Arcade[^ref-9].
 
@@ -131,7 +141,7 @@ Reviewers of Adventures (2006) recognized both its potential and limitations. Eu
 
 ## Purchase
 
-Not currently sold on GOG; fans can vote for it on the [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2-2010).
+The game is no longer sold. Delisted Games reports it was last confirmed available on Xbox 360 on 5 September 2012, and that by 13 February 2013 TrueAchievements had reported it removed from the Xbox Marketplace[^ref-23][^ref-24]. TrueAchievements' game page lists it as removed from the Microsoft Store and not backward compatible[^ref-24]. Delisted Games says the PlayStation 3 version was likely delisted around the same time[^ref-23]. It is not sold on GOG; fans can vote for it on the [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2-2010).
 
 ## Downloads
 
@@ -188,4 +198,6 @@ Adventures 2 is documented across multiple gaming databases including MobyGames[
 [^ref-19]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Official store page with system requirements and user reviews
 [^ref-20]: [ZTGD - 3D Ultra Minigolf Adventures Review](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) - Contemporary review with gameplay mechanics overview
 [^ref-21]: [Game Informer – 3D MiniGolf 2 (March 11, 2010)](https://gameinformer.com/b/news/archive/2010/03/11/3d-minigolf-2) – Konami's announcement of the sequel for Xbox Live Arcade and PlayStation Network, with four-player online play and a map editor
-[^ref-22]: [Wikipedia – Behaviour Santiago](https://en.wikipedia.org/wiki/Behaviour_Santiago) – Wanako Games' history: acquired by Artificial Mind and Movement in December 2008, renamed Behaviour Santiago on 8 November 2010
+[^ref-22]: [Wikipedia – Behaviour Santiago](https://en.wikipedia.org/wiki/Behaviour_Santiago) – Wanako Games' history: acquired by Artificial Mind and Movement in December 2008, renamed Behaviour Santiago on 8 November 2010, shut down on 20 November 2017
+[^ref-23]: [Delisted Games – 3D Ultra Minigolf Adventures 2](https://delistedgames.com/3d-ultra-minigolf-adventures-2/) – Community delisting tracker: last confirmed available on Xbox 360 on 5 September 2012; PS3 version likely delisted around the same time
+[^ref-24]: [TrueAchievements – 3D Ultra Minigolf Adventures 2](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures-2) – Community tracker: game page lists it as removed from the Microsoft Store and not backward compatible; news item reports it delisted from the Xbox LIVE Marketplace
