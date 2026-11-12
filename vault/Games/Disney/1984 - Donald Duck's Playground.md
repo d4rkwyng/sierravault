@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Al Lowe]
 description: Donald Duck's Playground is a 1984 educational game designed by Al Lowe and
   published by Sierra On-Line under license from Walt Disney, in which Donald works
@@ -19,7 +19,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -79,6 +79,14 @@ Sierra Chest calls the McDuck Airlines job "by far the fastest money-maker of th
 
 ### Contemporary Reviews
 
+*Compute!'s Gazette* reviewed the Commodore 64 version in October 1985. C. Regena wrote that for children ages 7 to 11 it "does an excellent job of teaching the basics of money handling, sorting items, and making logical decisions," and concluded that "the program is so much fun it will hold a child's interest for hours."[^ref-32] The review listed the price as $34.95; the November 1985 issue's corrections column said the suggested retail price "was listed incorrectly" and that "the price is $24.95."[^ref-32][^ref-33]
+
+*Family Computing* (August 1986) reviewed it on the 64K Apple, also for the C64/C128, for ages 7 to 11 at $30. Tana A. Summers wrote: "I was impressed with how many learning activities can be packed into one program." She and her ten-year-old daughter finished the four jobs with a total of $1.19 to spend.[^ref-34]
+
+In *Computer Gaming World* (issue 28, May 1986), Roy Wagner's "The Commodore Key" column covered the C64 version for ages 5 to 10. He wrote that "the Disney characters are well portrayed" and that "the graphics are remarkable, both in appearance and in the fact that hi-res mode was not used," since all graphics were made by redefining most of the C64's 255 character graphics.[^ref-35]
+
+*Page 6* reviewed the Atari ST version in its July/August 1987 issue (issue 28), listing it at £24.95. Les Ellingham called it "probably one of the few, and one of the finest, educational programs filling the gap that seems to exist for the over fives." He found the character control "unnecessarily difficult, especially with a mouse," and noted that each scene loads from disk, which makes the action "extremely slow."[^ref-36]
+
 *Home Computing Weekly* gave the game 5/5 in its October 1985 issue.[^ref-14] *Your Commodore* gave it 7/10, in a review by Eric Doyle in the December 1985 issue.[^ref-14] *Your Computer* gave it 3/5 in November 1985.[^ref-14]
 
 *The Rainbow* reviewed the TRS-80 Color Computer version in September 1987. Reviewer Kerry Armstrong said of Tandy's new Disney/Sierra software line as a whole that "the programs contain some of the best graphics and animation that I have seen on the CoCo."[^ref-25] He wrote that "you might not realize that this program was intentionally designed to be an educational tool, it is just that much fun to play," and reported that his schoolteacher wife gave it "a solid 'A+'" for educational content. He concluded, "I would certainly recommend this one." The review listed it at $34.95 from Radio Shack stores.[^ref-25]
@@ -117,7 +125,7 @@ C64-Wiki notes that the game slips in small lessons, such as Donald looking left
 - **C64 program:** Al Lowe (per Lemon64 and FRGCB) or Chuck Benton (per MobyGames)[^ref-14][^ref-6][^ref-26]
 - **Graphics:** [[Mark Crowe]][^ref-13]
 - **TRS-80 CoCo graphics:** Gerald Moore, Doug MacNeill (per MobyGames' CoCo credits)[^ref-31]
-- **Additional Design:** Walt Disney Personal Computer Software Design and Development Staff[^ref-6]
+- **Additional Design:** Walt Disney Personal Computer Software Design and Development Staff[^ref-6]; the U.S. Gold manual credits "Designed by Al Lowe and the Walt Disney Personal Computer Software Staff"[^ref-37]
 - **Apple II / TRS-80 CoCo conversion:** Al Lowe, Jerry Moore, Doug MacNeill[^ref-6]
 - **Composer:** Al Lowe[^ref-13]
 
@@ -163,7 +171,7 @@ The Commodore 64 cassette release used the Novaload tape loader, and the C64 ver
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1984 | Commodore 64 | Initial release, custom engine[^ref-26][^ref-2] |
-| PC Booter | May 1985 (MobyGames) | IBM PC | AGI version; ScummVM lists a booter build 1.0Q dated 1986-06-09[^ref-26][^ref-30] |
+| PC Booter | May 1985 (MobyGames); "planned" in August 1986 (*Family Computing*) | IBM PC | AGI version; MobyGames dates the release May 1985, while *Family Computing*'s August 1986 listing still shows the PC/PCjr version as "planned." ScummVM lists a booter build 1.0Q dated 1986-06-09 (its wiki table gives 1986-06-08)[^ref-26][^ref-34][^ref-30][^ref-39] |
 | Apple II | June 1985 (MobyGames) | Apple II | AGI (disputed). FRGCB describes the Apple II/CoCo release as a separate non-AGI version; a GameFAQs guide lists it with the AGI versions[^ref-26][^ref-6][^ref-27] |
 | Atari ST | December 1986 | Atari ST | AGI; version 1.00c per Atarimania[^ref-26][^ref-18] |
 | Amiga | 1987 or May 1988 | Commodore Amiga | AGI; ScummVM lists build 1.0C dated 1987-04-27, MobyGames gives May 1988[^ref-30][^ref-26] |
@@ -223,14 +231,17 @@ Not every modern reviewer is as warm. *Data Driven Gamer* rated its edutainment 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on Steam, GOG, or other modern digital storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+- Not currently available on Steam, GOG, or other modern digital storefronts (checked 2026-11-11)
+- [GOG Community Wishlist entry](https://www.gog.com/wishlist/games/donald_ducks_playground) — the game's own page on GOG's legacy wishlist (read-only; the wishlist has since moved to the GOG Dreamlist)[^ref-38]
 
 **Download / Preservation (Freeware)**
 - [Al Lowe's Personal Website – Donald Duck's Playground](https://allowe.com/downloads/games.html) — original designer's freeware download[^ref-1]
 - [MyAbandonware – Donald Duck's Playground](https://www.myabandonware.com/game/donald-duck-s-playground-fk) — multi-platform preservation downloads[^ref-16]
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_donald_ducks_playground_1984_sierra) — DOS edition preservation[^ref-4]
 - [ClassicReload – Browser-Playable](https://classicreload.com/donald-ducks-playground.html) — DOS-era browser emulation[^ref-3]
+
+**Manuals & Extras**
+- [Internet Archive – U.S. Gold Instruction Manual (C64)](https://archive.org/details/Donald_Ducks_Playground_198x_U.S._Gold_1240_Instructions) — scan of the U.S. Gold edition manual, including the design credit[^ref-37]
 
 ## See Also
 
@@ -272,3 +283,11 @@ Not every modern reviewer is as warm. *Data Driven Gamer* rated its edutainment 
 [^ref-29]: [Al Lowe – Biography](https://allowe.com/al/bio1.html) – Disney license context for Lowe's early Sierra titles
 [^ref-30]: [ScummVM – AGI detection table (detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – release builds, dates and interpreter versions for the PC booter, Atari ST, Amiga and DOS versions; CoCo build listed as an early AGI game
 [^ref-31]: [MobyGames – Donald Duck's Playground Credits (TRS-80 CoCo)](https://web.archive.org/web/20201024122615/https://www.mobygames.com/game/trs-80-coco/donald-ducks-playground/credits) – Wayback, October 2020: "Graphics by Gerald Moore, Doug MacNeill" on the CoCo release
+[^ref-32]: [Compute!'s Gazette, October 1985 – C. Regena, "Donald Duck's Playground" (p. 73)](https://archive.org/details/computes.gazette) – C64 review, ages 7 to 11, "excellent job of teaching the basics of money handling", jobs and shops, $34.95
+[^ref-33]: [Compute!'s Gazette, November 1985 – Corrections](https://archive.org/details/computes.gazette) – "The price is $24.95" correction for the October review
+[^ref-34]: [Family Computing, August 1986 – Tana A. Summers, "Donald Duck's Playground"](https://archive.org/details/FamilyComputingIssue041983Dec) – reviewed on 64K Apple, also C64/128, "Planned for IBM PC/PCjr", $30, ages 7-11
+[^ref-35]: [Computer Gaming World, issue 28 (May 1986) – Roy Wagner, "The Commodore Key"](https://archive.org/details/cgw_museum_pdfs) – C64 review, ages 5 to 10, character-graphics note, Becky's Toy Store
+[^ref-36]: [Page 6 Magazine, issue 28 (July/August 1987) – Les Ellingham, "Donald Duck's Playground"](https://archive.org/details/Page630Nov87) – Atari ST review, £24.95, control and disk-loading criticisms
+[^ref-37]: [Internet Archive – Donald Duck's Playground (U.S. Gold) Instructions](https://archive.org/details/Donald_Ducks_Playground_198x_U.S._Gold_1240_Instructions) – C64 manual title page: "Designed by Al Lowe and the Walt Disney Personal Computer Software Staff", (c) Walt Disney Productions, 1984
+[^ref-38]: [GOG Community Wishlist – Donald Duck's Playground](https://www.gog.com/wishlist/games/donald_ducks_playground) – the game's wishlist entry, read-only with a note that the wishlist moved to the GOG Dreamlist
+[^ref-39]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 18, 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – lists Donald Duck's Playground interpreter 2.001 as 1986-06-08 and the PC release as a booter, version 1.0Q
