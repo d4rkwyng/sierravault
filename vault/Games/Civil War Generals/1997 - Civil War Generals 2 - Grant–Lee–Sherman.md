@@ -10,14 +10,14 @@ series: Civil War Generals
 engine: null
 protagonist: Army Commander (Union or Confederate)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Turn-based hex wargame from Impressions Games and Sierra On-Line (1997), the sequel to Robert E. Lee: Civil War General, letting players fight the American Civil War from either side in both theaters.'
 tags: [1990s, civil-war-generals, impressions-games, sierra, strategy, wargame]
 composer: [Keith Zizza]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -78,12 +78,12 @@ A scenario editor lets players change existing battles or build a battlefield fr
 |-------------|-------|-------|
 | PC Gamer US (Feb 1998) | 86% | Keith Sullivan: "a good, competent offering" for casual war and strategy gamers[^ref-66] |
 | GameSpot | 6.7/10 | Michael E.: "a good game, but not a great one"[^ref-30] |
-| Computer Gaming World (via GameSpot, Dec 19, 1997) | 2/5 | Jim Cobb: "anything but an improvement"[^ref-67] |
+| Computer Gaming World (Feb 1998, issue 163) | 2/5 | Jim Cobb, "A Pale Shadow": "anything but an improvement"[^ref-83][^ref-67] |
 | Computer Games Strategy Plus | — | Jim Pedicord: "the game the original should have been"[^ref-68] |
 
 Keith Sullivan of PC Gamer praised a "historical scope that is simply breathtaking", the morale system and the historical module. He found the graphics "merely adequate", the AI "barely adequate", and the music repetitive. He concluded the game was "not the be all and end all of Civil War games for the hard-core wargamer" but "a good, competent offering" for casual players[^ref-66]. GameSpot called it "a solid, enjoyable, and challenging turn-based wargame" without true innovations. Its reviewer noted that "the initial release of CWG2 was plagued by bugs and crashes" but that the 1.0.1 patch fixed them[^ref-13]. He concluded: "If you're a wargame or Civil War enthusiast looking for an extensive list of scenarios to keep you occupied for a while, this is definitely the game for you"[^ref-34].
 
-Jim Cobb of Computer Gaming World liked the branching campaigns and the scenario editor. But he wrote that the combat model "makes it impossible to win the game using historically authentic tactics". He found the elements "wasted on a completely broken combat system and a dated game engine"[^ref-67]. Jim Pedicord of Computer Games Strategy Plus was warmer. He praised the new units, zones of control, victory locations and improved AI, and judged that "though still a little on the weak side for a master tactician," the game "should appeal to most wargamers"[^ref-68].
+Jim Cobb reviewed the game for the February 1998 issue of Computer Gaming World under the headline "A Pale Shadow" and the subhead "Despite Grant and Sherman, This Battle Is Much Less Than Expected"[^ref-83]. The magazine's website had posted the review on December 19, 1997, and the 2/5 rating is taken from that online copy[^ref-67]. Cobb liked the branching campaigns and the scenario editor. But he wrote that the combat model "makes it impossible to win the game using historically authentic tactics". He found the elements "wasted on a completely broken combat system and a dated game engine"[^ref-67]. The print review also faulted the campaigns' historical detail. Some orders of battle were of questionable accuracy, such as the Iron Brigade being present at First Bull Run when, as Cobb noted, "the Iron Brigade, as such, didn't exist until 1862". A caption on the Shiloh scenario complained that it leaves out Forts Henry and Donelson[^ref-83]. Jim Pedicord of Computer Games Strategy Plus was warmer. He praised the new units, zones of control, victory locations and improved AI, and judged that "though still a little on the weak side for a master tactician," the game "should appeal to most wargamers"[^ref-68].
 
 ### Modern Assessment
 
@@ -103,7 +103,9 @@ MobyGames credits Douglas Gonya as game designer and Stephen Grammont as produce
 
 Grammont had joined Impressions, Sierra's division in Cambridge, Massachusetts, as a QA manager. When the first game sold well, "to his surprise Grammont was tapped to produce a sequel, Civil War Generals 2"[^ref-56]. Late in production, Sierra founder [[Ken Williams]] "rolled into Cambridge" to push the team toward real-time strategy, since "Real-time strategy games had taken off"[^ref-56]. Grammont recalled: "So we fought him. I told the guy who founded Sierra, at a meeting … I told him he was wrong. ... They backed off. They let us do what we wanted to do."[^ref-56]
 
-Sierra announced the game as a release of Impressions Software, "a division of Sierra On-line". It carried a street price of $49.00 and needed at least a 486/66 with Windows 95 or Windows 3.1 and 16MB RAM[^ref-70]. The same release noted that Sierra had recently merged with CUC International[^ref-70].
+Sierra announced the game as a release of Impressions Software, "a division of Sierra On-line". It carried a street price of $49.00 and needed at least a 486/66 with Windows 95 or Windows 3.1 and 16MB RAM[^ref-70]. The same release noted that Sierra had recently merged with CUC International[^ref-70]. Computer Gaming World's review gave a street price of $49.95[^ref-83].
+
+In the January 1998 issue of Computer Gaming World, the cover CD carried a demo of the game together with an online "Ultimate Civil War" contest co-sponsored by the magazine. Registration opened December 1, 1997, through a GameSpot promotions page; play began on January 5, 1998, and ran for about three weeks, limited to the first 500 entrants. The grand prize was a VIP tour of a real U.S. Civil War reenactment, and the winning general's picture was to appear in Sierra/Impressions' next wargame[^ref-84]. The contest's sponsors were Civil War Generals 2, Computer Gaming World, GameSpot, and the publishers of Civil War Times Illustrated, America's Civil War and TheHistoryNet.com, and every participant was promised an exclusive Civil War Generals t-shirt[^ref-84].
 
 ### Technical Specifications
 
@@ -124,6 +126,10 @@ Computer Gaming World listed the requirements as a 486-66 (Pentium recommended),
 ### Sales
 
 Grammont said the game "wound up selling a lot. A lot more than they thought it would. The games that [Sierra] had made for real-time strategy all bombed."[^ref-56] It was still selling in late 1998. PC Data charts reported by IGN put Civil War Generals 2 at #4 for the week of September 27 to October 3, 1998[^ref-71], #5 for October 18–24[^ref-72] and #6 for October 25–31[^ref-73]. For October 1998 as a whole it ranked #12, at an average price of $29[^ref-74]. In NPD's July 1998 reference software chart, the Ultimate Civil War Collection rose from #58 to #7[^ref-76]. In January 1999, Sierra said the Civil War Generals series had sold "over 700,000 units worldwide to date"[^ref-75].
+
+### Collections
+
+In 1998 the game was repackaged with its predecessor in a Windows compilation titled *The Great Civil War*, which MobyGames and the Sierra Chest both list as also containing Edward Grabowski's *The Blue & The Gray*[^ref-85][^ref-86]. Separately, Wikipedia says the Ultimate Civil War Collection bundled *Robert E. Lee: Civil War General* with this sequel, and NPD's July 1998 chart shows that title rising from #58 to #7 at a $26 average price[^ref-39][^ref-76]. Neither MobyGames nor the Sierra Chest uses the name "Ultimate Civil War Collection," so whether it is the same product as *The Great Civil War* is not confirmed.
 
 ### Civil War Generals 3
 
@@ -191,3 +197,7 @@ Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam'
 [^ref-80]: https://web.archive.org/web/20050209071839/http://www.cdmag.com/articles/002/101/e3_day2_part3.html - Computer Games Strategy Plus, E3 coverage, Day 2 morning report part III (1997)
 [^ref-81]: https://web.archive.org/web/20251031174044/https://www.mobygames.com/game/3197/grant-lee-sherman-civil-war-2-generals/ - MobyGames game page (archived October 31, 2025): critic and player averages
 [^ref-82]: https://web.archive.org/web/19980214123917/http://sierra.com/info/press.html - Sierra On-Line press release index (archived February 1998): "Impressions Announces: Civil War Generals II. (20-October-1997)"
+[^ref-83]: https://archive.org/details/Computer_Gaming_World_Issue_163 - Jim Cobb, "A Pale Shadow," Computer Gaming World issue 163 (February 1998), print review (read via the item's OCR text; star rating not legible in the text)
+[^ref-84]: https://archive.org/details/Computer_Gaming_World_Issue_162 - Computer Gaming World issue 162 (January 1998): cover-disc note and Sierra advertisement for the online "Ultimate Civil War" contest (read via the item's OCR text)
+[^ref-85]: https://www.mobygames.com/game/39921/the-great-civil-war/ - MobyGames: The Great Civil War (1998), a bundle of Robert E. Lee: Civil War General, Grant - Lee - Sherman: Civil War 2: Generals and The Blue & The Gray (read via the MobyGames API)
+[^ref-86]: https://sierrachest.com/index.php?a=games&id=157&title=great-civil-war&fld=general - The Sierra Chest: Great Civil War (The), first release 1998, included titles
