@@ -43,7 +43,7 @@ Despite generally favorable reviews praising its authentic retro aesthetic and c
 
 The game opens with Fester Mudd, a reluctant hero who somehow manages to be "intrepid but cowardly, ambitious yet lazy, dimwitted but brilliant," heading for the downtrodden town of Loamsmouth to join his brother Bud, only to find that Bud has mysteriously vanished.[^ref-11][^ref-26] Despite his natural inclination toward comfort and safety, Fester sets out on his trusty mule Martha to locate his wayward sibling and hopefully share in any treasure that might be discovered along the way.[^ref-12] The search proves far longer and more treacherous than he bargained for: he must enlist an experienced gunslinger to help him make his way through Indian territory, but gunslingers don't come cheap, and Fester must find a way to convince the man to join him.[^ref-18][^ref-26]
 
-Fester's journey takes him through a frontier landscape populated by colorful characters with punning names, including Wild Bill Hiccup, Wyatt Burp, and General P. Store—a retired general whose last name conveniently matches his profession as a shopkeeper.[^ref-2] The game's humor draws heavily from the comedic traditions of classic adventure games, featuring absurdist situations, clever wordplay, and even the occasional fart joke.[^ref-12]
+Fester's journey takes him through a frontier landscape populated by colorful characters with punning names, including Wild Bill Hiccup, Wyatt Burp, and General P Store—a retired general whose last name conveniently matches his profession as a shopkeeper.[^ref-2] The game's humor draws heavily from the comedic traditions of classic adventure games, featuring absurdist situations, clever wordplay, and even the occasional fart joke.[^ref-12]
 
 As Episode 1 concludes, Fester finds himself on the trail of his brother but with the mystery far from resolved. The game ends on a cliffhanger,[^ref-7][^ref-14] setting up events that were intended to unfold across two subsequent episodes.[^ref-8] Players would never see the resolution of Fester's quest: the Steam store page states that development of the series has been cancelled and that this episode is the only one available.[^ref-18] User-contributed GameFAQs trivia dates the cancellation to late 2015 and attributes it to poor sales of the first episode.[^ref-21]
 
@@ -51,7 +51,7 @@ As Episode 1 concludes, Fester finds himself on the trail of his brother but wit
 
 ### Interface and Controls
 
-Fester Mudd employs a classic SCUMM-style verb interface that will be immediately familiar to anyone who played LucasArts adventures in the 1990s.[^ref-3] Pocket Gamer describes an interface that "takes up half the screen, with verbs like 'Look' and 'Give' on it."[^ref-13] Players interact with the game world by selecting verbs and clicking on objects or characters in the environment.
+Fester Mudd employs a classic SCUMM-style verb interface that will be immediately familiar to anyone who played LucasArts adventures in the 1990s.[^ref-3] Pocket Gamer describes an interface that "takes up half the screen, with verbs like 'Look' and 'Give' on it."[^ref-13] Adventure Gamers counted nine actions at the bottom left of the screen, and noted that verbs like "kick" or "move" are hardly used.[^ref-3] Players interact with the game world by selecting verbs and clicking on objects or characters in the environment.
 
 The game features chunky pixel-art graphics displayed on hand-drawn backdrops, synth-heavy MIDI music, and notably, no voice acting—all deliberate choices to evoke the pre-CD-ROM era of adventure gaming.[^ref-13] An overhead map system allows for quick travel between different regions, streamlining navigation and reducing tedious backtracking.[^ref-6]
 
@@ -81,7 +81,7 @@ Adventure Classic Gaming awarded the game 4 out of 5 stars, calling it a game th
 
 Destructoid's Fraser Brown gave the game a 7 out of 10, observing that "there's nothing about Fester Mudd that would suggest it came out in 2013, besides the fact that it's a digital release."[^ref-5] EGM's Josh Harmon awarded 3 out of 5 stars, praising the game as "a pitch-perfect homage to the Golden Age of LucasArts and Sierra" while cautioning that "you might only want to give it a shot if you're particularly nostalgic for the days of Guybrush Threepwood and Roger Wilco."[^ref-15]
 
-Adventure Gamers rated the game 3 stars (equivalent to 60/100), describing it as "a qualified success; the positive aspects still outnumber the negative, but the weaknesses noticeably hinder the experience."[^ref-3] Finnish publication Pelit gave the game 90/100, the highest of the PC critic scores Metacritic lists, calling it "a prime example of a product that's been designed for the old-timers that have grown up playing adventure games from LucasArts and Sierra."[^ref-16]
+Adventure Gamers rated the game 3 stars, describing it as "a qualified success; the positive aspects still outnumber the negative, but the weaknesses noticeably hinder the experience."[^ref-3] Finnish publication Pelit gave the game 90/100, the highest of the PC critic scores Metacritic lists, calling it "a prime example of a product that's been designed for the old-timers that have grown up playing adventure games from LucasArts and Sierra."[^ref-16]
 
 Pocket Gamer awarded the game its Silver Award (8/10),[^ref-7] with reviewer Mark Brown declaring it "a breezy little slice of point-and-click fun" and noting that "you don't have to be a point-and-click nostalgist to love this game."[^ref-13] 148Apps gave the game 4 out of 5 stars, stating that "Fester Mudd is both a homage to those greats and its own master in demonstrating what's so memorable about the genre."[^ref-7]
 
@@ -90,8 +90,9 @@ Pocket Gamer awarded the game its Silver Award (8/10),[^ref-7] with reviewer Mar
 The game maintains positive aggregate scores on Metacritic, with the PC version receiving a Metascore of 76/100 based on 5 critic reviews (40% positive, 60% mixed, 0% negative) and the iOS version scoring higher at 83/100 based on 4 reviews.[^ref-16] User scores are somewhat lower, with PC users averaging 7.6 based on 15 ratings[^ref-22] and iOS users averaging 6.5 based on 6 ratings.[^ref-23]
 
 **Aggregate Scores:**
-- **Metacritic (PC):** 76/100 (5 reviews)[^ref-10]
-- **Metacritic (iOS):** 83/100 (4 reviews)[^ref-10]
+- **Metacritic (PC):** 76/100 (5 reviews)[^ref-16]
+- **Metacritic (iOS):** 83/100 (4 reviews)[^ref-16]
+- **Steam (user reviews):** Mostly Positive, 76% of 26 user reviews (checked November 12, 2026)[^ref-18]
 - **GamersGate:** 4.00/5 (3 reviews)[^ref-11]
 - **Pocket Gamer:** 8/10 (Silver Award)[^ref-7]
 - **148Apps:** 4/5[^ref-7]
@@ -112,11 +113,11 @@ Paul Trowe, CEO of Replay Games, expressed pride in the collaboration, stating: 
 
 The game was originally slated for release in 2012 but ultimately launched in early 2013.[^ref-5] IGN España's report on the game noted that it was listed on Steam Greenlight at the time,[^ref-17] and it was released on Steam on November 4, 2013.[^ref-20]
 
-**Development Credits:**[^ref-9]
-- **Designer:** Paavo Härkönen
-- **Creative Collaborator/Writer:** Josh Mandel (also Replay Games' chief creative officer[^ref-24])
-- **Publisher:** Replay Games Inc.
-- **CEO (Replay Games):** Paul Trowe
+**Development Credits:**
+- **Designer:** Paavo Härkönen[^ref-9]
+- **Creative Collaborator/Writer:** Josh Mandel (also Replay Games' chief creative officer[^ref-24])[^ref-6]
+- **Publisher:** Replay Games Inc.[^ref-6]
+- **CEO (Replay Games):** Paul Trowe[^ref-6][^ref-24]
 - **Special Thanks:** [[Guruka Singh Khalsa]][^ref-28]
 
 ### Technical Achievements
@@ -184,7 +185,7 @@ The Steam store page notes that, starting February 15, 2024, the Steam client no
 The game contains numerous references and homages to classic adventure games:
 
 - The piano player can be heard playing the X-Files theme tune[^ref-3]
-- Character names parody famous Western figures: Wild Bill Hiccup, Wyatt Burp, General P. Store[^ref-2]
+- Character names parody famous Western figures: Wild Bill Hiccup, Wyatt Burp, General P Store[^ref-2]
 - The game features a farting fish among its many comedic elements[^ref-2]
 - The store is run by "Doug" at the "Doug Store," and a general store is managed by a retired general whose surname happens to be "Store"[^ref-12]
 - Countless "tips-of-the-hat to the golden-age adventures of Sierra and LucasArts" are scattered throughout[^ref-6]
@@ -261,12 +262,12 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 [^ref-17]: [IGN España – Fester Mudd News](https://es.ign.com/fester-mudd-the-curse-of-the-gold/62236/news/fester-mudd-nueva-aventura-grafica-a-la-vista) – notes the game was listed on Steam Greenlight at the time (January 2013 report); Mandel quote
 [^ref-18]: [Steam Store – Fester Mudd](https://store.steampowered.com/app/253310/Fester_Mudd_Curse_of_the_Gold__Episode_1/) – cancellation notice, technical specs, Steam client 32-bit/macOS notice
 [^ref-19]: [Pocket Gamer – Retro-style point-and-click Fester Mudd is the closest you're gonna get to a new Sierra adventure](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/retro-style-point-and-click-fester-mudd-is-the-closest-youre-gonna-get-to-a-new/) – Mark Brown, March 28, 2013; Sierra comparison headline, Mandel credits
-[^ref-20]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1 Releases](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/releases/) – release dates by platform (iOS March 27, Android April 30, 2013; Android v1.0.0), engine credit (Unity Technologies), German retail release by UIG Entertainment GmbH (November 4, 2013); read via the MobyGames API
+[^ref-20]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1 Releases](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/releases/) – release dates by platform (iOS March 27, Android April 30, 2013; Android v1.0.0), engine credit (Unity Technologies), German retail release by UIG Entertainment GmbH (November 4, 2013)
 [^ref-21]: [GameFAQs – Fester Mudd Trivia](https://gamefaqs.gamespot.com/iphone/710128-fester-mudd-curse-of-the-gold-episode-1/trivia) – user-contributed trivia (contributor "jimfish"; not editorially verified): sales quote, Episode 2 title, late-2015 cancellation
 [^ref-22]: [Metacritic – Fester Mudd PC User Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/user-reviews/?platform=pc) – PC user score 7.6 (15 ratings)
 [^ref-23]: [Metacritic – Fester Mudd iOS User Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/user-reviews/?platform=ios-iphoneipad) – iOS user score 6.5 (6 ratings)
 [^ref-24]: [GamesBeat – "Replay Games fetches a new game and a chief creative officer (exclusive)" (Dean Takahashi, December 4, 2012)](https://gamesbeat.com/replay-games-fetches-a-new-game-and-a-chief-creative-officer-exclusive/) – Mandel hired as chief creative officer; Fester Mudd "under development at Finland's Prank Entertainment"; "throwback to the old-school adventure games"
 [^ref-25]: [Replay Games – About Us (Wayback, October 2012)](https://web.archive.org/web/20121008155317/https://www.replaygamesinc.com/index/about-us) – "an entertainment software publishing and development company dedicated to making "AAA" content for PC, mobile, and next generation platforms"; "founded in 2008 by a group of game industry veterans"
-[^ref-26]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/) – game description: Bud's disappearance in Loamsmouth, the need to hire a gunslinger to cross Indian territory, and the gold needed to pay him; read via the MobyGames API
+[^ref-26]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/) – game description: Bud's disappearance in Loamsmouth, the need to hire a gunslinger to cross Indian territory, and the gold needed to pay him
 [^ref-27]: [PCGamingWiki – Fester Mudd: Curse of the Gold - Episode 1](https://www.pcgamingwiki.com/wiki/Fester_Mudd:_Curse_of_the_Gold_-_Episode_1) – "Unity engine build: 4.2.2f1" (verified by a PCGamingWiki user on 2017-05-25)
 [^ref-28]: [MobyGames Credits for Guruka Singh Khalsa (Wayback, January 2023)](https://web.archive.org/web/20230108150929/https://www.mobygames.com/developer/sheet/view/developerId,2193/) – Lists "Fester Mudd: Curse of the Gold - Episode 1" (2013), Special Thanks
