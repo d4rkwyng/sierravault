@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! (1990) was Sierra''s
   first icon-based, point-and-click adventure and the first King''s Quest in 256-color
   VGA, later reissued as a fully voiced CD-ROM "talkie."'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -193,7 +193,7 @@ Common compatibility issues include:
 
 | Character | Voice Actor |
 |-----------|-------------|
-| King Graham / Innkeeper's Pal / Harpy | [[Josh Mandel]][^ref-29][^ref-67] |
+| King Graham / Innkeeper's Pal / Harpy (Harpy per MobyGames) | [[Josh Mandel]][^ref-29][^ref-67] |
 | Narrator | Art Lewicki[^ref-29][^ref-67] |
 | Cedric the Owl | Richard Aronson[^ref-29][^ref-67] |
 | Crispin / Toymaker / Innkeeper | Leonard "Ray" Bergeron[^ref-29][^ref-67] |
