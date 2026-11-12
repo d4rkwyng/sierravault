@@ -1,19 +1,19 @@
 ---
 title: "Patch & Compatibility Guide"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Patch & Compatibility Guide
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
-This guide highlights essential fixes, installers, and configuration tips for running Sierra-era games on modern systems. Combine these with the [[Platform Guide|Platform Guide]] and [[Buying Guide|Buying Guide]] for best results.
+This guide highlights essential fixes, installers, and configuration tips for running Sierra-era games on modern systems. Combine these with the [[Platform Guide]] and [[Buying Guide]] for best results.
 
 ## Essential Sources
 - [SierraHelp.com](https://sierrahelp.com/) – Community-made installers that set games up in DOSBox or ScummVM, plus official and third-party patch mirrors for a long list of Sierra releases.[^ref-18][^ref-20]
 - [ScummVM](https://www.scummvm.org/) – Preferred runtime for AGI/SCI games; includes fixes for original game bugs.[^ref-1][^ref-4]
 - [DOSBox Staging](https://www.dosbox-staging.org/) – Modern DOSBox fork with enhanced features for games not supported by ScummVM.[^ref-11]
-- [SpaceQuest.net](https://spacequest.net/) – Series-specific fixes for *Space Quest* releases.
+- [SpaceQuest.net](https://spacequest.net/) – *Space Quest* fansite with news, links and a message board.[^ref-48]
 - [QuestForMoreGlory.com (archived)](https://web.archive.org/web/20240322150642/http://www.questformoreglory.com/) – *Quest for Glory* game help, downloads, new installers, and 64-bit patches for *Quest for Glory V*.[^ref-29]
 
 ## Steam Deck Compatibility
@@ -37,7 +37,6 @@ The **recommended approach** for most Sierra adventure games. ScummVM is availab
 For DOS-based Sierra games not supported by ScummVM (flight sims, strategy games):
 - **DOSBox Staging** – Available via Flathub (`io.github.dosbox-staging`)[^ref-13]
 - **RetroDECK** – Runs DOS games through RetroArch's DOSBox Pure core[^ref-15]
-- GOG and Steam installers generally work through Proton
 
 ### Proton/Wine for Windows Versions
 For Windows 95/98 Sierra titles:
@@ -51,12 +50,10 @@ For Windows 95/98 Sierra titles:
 | SCI16 Games (KQ V–VI, SQ III–V) | ScummVM | Rated "Excellent"[^ref-1] |
 | SCI32 Games (KQ VII, GK1, Phantasmagoria) | ScummVM | GK1 "Excellent"; KQ VII and Phantasmagoria "Good"[^ref-1] |
 | DOS Simulations (Aces, Red Baron) | DOSBox Staging | SierraHelp hosts official updates, including joystick fixes[^ref-41][^ref-42] |
-| Windows 95/98 Titles | Proton | Varies by title |
 
 ## ScummVM Version & Engine Support
 
-**Current stable version:** Check [scummvm.org](https://www.scummvm.org/) for the latest release
-- [Download page](https://www.scummvm.org/downloads/)
+**Current stable version:** 2026.4.0, per the [downloads page](https://www.scummvm.org/downloads/) as of 2026-11-11[^ref-7]
 - [Compatibility list](https://www.scummvm.org/compatibility/)
 
 ### Sierra-Specific Engines
@@ -112,6 +109,9 @@ Since 2026.1.0, ScummVM uses year-based version numbers and releases more often,
 - Fixed LSL1 lockup when entering casino
 - Fixed SQ5 introduction comets not appearing on machines faster than a 386
 
+### GOG Packaging
+GOG's own Sierra releases now use ScummVM in places. The *Police Quest Collection* (*Police Quest 1–4*) switched emulation from DOSBox to ScummVM and gained cloud saves in the 20 February 2026 changelog.[^ref-46] *Gabriel Knight: Sins of the Fathers* v2 (29 October 2026) added a Windows version running on ScummVM, booting in SVGA mode, alongside the DOS version on DOSBox, with a launcher to pick between the two.[^ref-47] See the [[Buying Guide]] for which stores sell which games.
+
 ### Games NOT in ScummVM (Use DOSBox or Windows)
 These titles do not appear on ScummVM's compatibility list:[^ref-1]
 - *Quest for Glory V: Dragon Fire* (3D engine)
@@ -126,7 +126,7 @@ These titles do not appear on ScummVM's compatibility list:[^ref-1]
 
 **Current version:** Check [dosbox-staging.org](https://www.dosbox-staging.org/) for the latest release[^ref-11]
 - [Download page](https://www.dosbox-staging.org/download/)
-- Modern fork with improved accuracy, pixel shaders, and built-in MIDI support
+- Modern fork with improved accuracy, custom shader support, and built-in MIDI support[^ref-11]
 
 ### Key Features for Sierra Games
 - **MT-32 emulation** – Integrated Roland MT-32 emulation, no hardware needed[^ref-11]
@@ -143,7 +143,6 @@ Use SierraHelp's DOSBox installers when available; they set the game up to start
 - **16-bit installers fail** – Windows 11 has no 16-bit subsystem. Use:
   - [OTVDM (winevdm)](https://github.com/otya128/winevdm) – a 16-bit Windows emulator ported to 64-bit Windows, for running `SETUP.EXE`[^ref-24]
   - SierraHelp's modern installers (they download and install DOSBox or ScummVM if needed)[^ref-18]
-  - Extract directly with 7-Zip, configure manually
 - **Antivirus false positives** – SierraHelp notes that some anti-virus programs may give a false positive for some of its installers, "particularly true of Avast, Norton and McAfee"[^ref-18]
 
 ### Windows 95/98 Titles on Windows 11
@@ -177,8 +176,8 @@ Apple Silicon Macs require specific approaches:
 
 ### Classic Mac Games (68k/PPC)
 For original Macintosh Sierra games:
-- **Basilisk II** – 68k Mac emulator (for early Sierra Mac ports)
-- **SheepShaver** – PowerPC Mac emulator (for later Mac ports)
+- **Basilisk II** – open-source 68k Macintosh emulator[^ref-44]
+- **SheepShaver** – open-source PowerMac emulator[^ref-45]
 
 ## AGI/SCI Adventures
 - Use ScummVM for *King's Quest* (except *Mask of Eternity*), *Space Quest*, *Leisure Suit Larry*, *Police Quest*, *Quest for Glory* (except *Quest for Glory V*), and *Gabriel Knight 1–2*;[^ref-1] its releases include fixes for the original games' script bugs.[^ref-4]
@@ -196,14 +195,6 @@ For original Macintosh Sierra games:
 
 ## Fan Remakes & Spiritual Successors
 - *SpaceVenture* (released December 2025) updates roll out through Steam and itch.io; watch the Guys from Andromeda site for news.[^ref-30]
-- *Hero-U* and other Unity-based successors receive ongoing bug fixes—enable automatic updates on Steam/GOG.
-
-## Console & VR Ports
-- *Colossal Cave 3D Adventure* – Keep Meta Quest/console firmware current; updates arrive via platform storefronts. The PC version receives patch notes on Steam.
-
-## Recovery Tips
-- For disk-based releases, create ISO images and use DOSBox `imgmount` to avoid CD swapping.
-- Keep a dedicated compatibility folder with DOSBox capture configs, ScummVM builds, and patch readme files for future reference.
 
 ## External References
 - [ScummVM Downloads](https://www.scummvm.org/downloads/) – Official builds for all platforms
@@ -222,7 +213,7 @@ For original Macintosh Sierra games:
 [^ref-4]: [ScummVM – NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) – release dates for 2.9.0, 2.9.1, 2026.1.0–2026.4.0; 2026.1.0 "Added support for The Adventures of Willy Beamish… Heart of China"; 2026.1.0 SCI fixes ("Fixed PHANT1 losing save files", "Fixed PQ2 phone when dialing wrong numbers", "Fixed script bugs in ECO1, LSL6, PEPPER") and AGI/ADL "Added Text-to-Speech support"; 2.9.1 SCI fixes
 [^ref-5]: [ScummVM – 2026.2.0 "Railmonicon" (Mar 28, 2026)](https://www.scummvm.org/news/20260328/) – "Three months have passed since the last release… with our new release approach"
 [^ref-6]: [ScummVM – 2026.4.0 "Never-slop" (Oct 2026)](https://www.scummvm.org/news/20261011/) – latest release at time of writing; "we continue to follow our new release cadence"
-[^ref-7]: [ScummVM – Downloads](https://www.scummvm.org/downloads/) – "macOS 10.13+ for Intel and Apple Silicon"; Flatpak package on flathub.org; daily builds
+[^ref-7]: [ScummVM – Downloads](https://www.scummvm.org/downloads/) – "The latest STABLE release of ScummVM is 2026.4.0" (checked 2026-11-11); "macOS 10.13+ for Intel and Apple Silicon"; Flatpak package on flathub.org; daily builds
 [^ref-8]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts… classifies Shivers 2 as 'not SCI'"; marked GAME_NOT_IMPLEMENTED
 [^ref-9]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – used "in 14 of their games between 1984 and 1989"
 [^ref-10]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – introduced 1988 (King's Quest IV); latest release 1996 (SCI3)
@@ -259,4 +250,14 @@ For original Macintosh Sierra games:
 [^ref-41]: [SierraHelp – Aces Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/AcesSeriesUpdates.html) – Aces over Europe update "also includes new joystick drivers which should help joystick control on faster systems"
 [^ref-42]: [SierraHelp – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – Red Baron patch "Improves joystick response in Red Baron (VGA version only!) on faster systems"
 [^ref-43]: [Boxer – official site](http://boxerapp.com/) – "just drag-drop your games onto Boxer, and you'll be playing in minutes"
+[^ref-44]: [Basilisk II – official home page](https://basilisk.cebix.net) – "Basilisk II is an Open Source 68k Macintosh emulator"
+[^ref-45]: [SheepShaver – official home page](https://sheepshaver.cebix.net) – "An Open Source PowerMac Emulator"
+[^ref-46]: [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Changelog (20 February 2026): "Police Quest 1, 2, 3, 4: Switched emulation from DOSBox to ScummVM. Added Cloud Saves support."
+[^ref-47]: [GOG.com – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – v2 changelog (29 October 2026): "Added the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode"; DOS version stays on DOSBox
+[^ref-48]: [SpaceQuest.Net](https://spacequest.net/) – "tribute to Space Quest"; sections for news, message board and links to other fansites
 
+## See Also
+- [[ScummVM]]
+- [[Buying Guide]]
+- [[Sierra Creative Interpreter]]
+- [[Adventure Game Interpreter]]
