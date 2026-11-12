@@ -10,13 +10,13 @@ series: IndyCar Racing
 engine: Papyrus physics engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: CART Racing is Sierra's 1997 re-release of Papyrus Design Group's IndyCar Racing II, renamed after CART lost the IndyCar name and bundled with Rendition 3D acceleration support and patches.
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # CART Racing
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ CART Racing is a 1997 re-release of IndyCar Racing II, developed by [[Papyrus De
 
 MobyGames describes CART Racing as a re-release of IndyCar Racing II "with Windows 95 Rendition 3D acceleration support, and slipstreamed with some patches"[^ref-3]. Papyrus was co-founded by [[Dave Kaemmer|David Kaemmer]], whom Race Sim Central calls "arguably the father of the modern racing simulation"[^ref-15], and GameSpot noted that its games were so realistic that professional drivers often used them to train for real-life races[^ref-4]. The game's fan site, CART Racing Headquarters, calls it "one of the best racing simulators ever released"[^ref-2].
 
-Computer Gaming World named CART Racing its Sports Game of the Year, together with Baseball Mogul, in its March 1998 issue[^ref-3]. Even so, MobyGames notes that the re-release "had some trouble finding an audience": its Rendition version had already been bundled with several 3D cards, and most racing fans already owned the original IndyCar Racing II[^ref-3].
+Computer Gaming World named CART Racing its Sports Game of the Year, together with Baseball Mogul, in its March 1998 issue[^ref-3]. In that issue's Premier Awards feature the editors write that "we are honoring them both as Sports Games of the Year", under a "CART Racing" heading[^ref-30]. The same issue's ratings chart separately lists "Microsoft CART Racing"; Microsoft's CART Precision Racing is a different game[^ref-18][^ref-30]. Even so, MobyGames notes that the re-release "had some trouble finding an audience": its Rendition version had already been bundled with several 3D cards, and most racing fans already owned the original IndyCar Racing II[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-3]
@@ -154,6 +154,10 @@ Common issues reported by users include:
 
 The game can be run with the command "INDYCAR.EXE -h" for better graphics in the DOS version[^ref-12].
 
+### Playing Today
+
+Community tools keep the game playable on current systems. The Second Wind patch "makes the Windows version of IndyCar Racing 2 / CART Racing (aka WINDY) work again on modern Windows", with a Wide build (version 0.70) and a Basic build (version 0.41)[^ref-28]. CART Racing Headquarters says it also supports wide and ultra-wide screens[^ref-2]. For the Rendition build, RReady "provides a software wrapper for ICR2, that emulates Rendition hardware on modern computers in conjunction with DOSbox", promising "HD graphics and up to 60 fps"[^ref-2]. Golden Era Sim Racing's install guide notes that "Rendition requires a special version of IndyCar Racing II" and that the wrapper is bought from the Microsoft Store[^ref-29]. GPLaps supplies the install guides and an ICR2 FFB app that "will add Force Feedback to ICR2 on wheels that support it"[^ref-2].
+
 ### Easter Eggs and Trivia
 
 - During development of the original IndyCar Racing (1993), road surface textures were added when the team noticed that Geoff Crammond had used the technique in World Circuit (1992)[^ref-16]
@@ -258,3 +262,6 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 [^ref-25]: [Wikipedia – CART Fury Championship Racing](https://en.wikipedia.org/wiki/CART_Fury_Championship_Racing) – Midway arcade racer, arcade 2000, PlayStation 2 2001
 [^ref-26]: [Wikipedia – 1995 PPG Indy Car World Series](https://en.wikipedia.org/wiki/1995_PPG_Indy_Car_World_Series) – 1995 season name, 17 races, Miami opener, Indianapolis 500
 [^ref-27]: [PC Gamer News, January 5, 1998 (Wayback Machine)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – CART licence extension through 2003; company claim of 800,000+ games sold on the CART license
+[^ref-28]: [Grand Prix 2 Racing – Windy gets a second wind](https://grandprix2.racing/file/misc/view/windy-gets-a-second-wind) – Second Wind patch for the Windows version; Wide 0.70, Basic 0.41
+[^ref-29]: [Golden Era Sim Racing – ICR2 Rendition](https://www.goldenerasimracing.com/indycar-racing-ii/indycar-ii-rendition) – Rendition install guide; special game version and Microsoft Store wrapper
+[^ref-30]: [Computer Gaming World, issue 164 (March 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_164) – Premier Awards, Sports Game of the Year feature; ratings chart lists "Microsoft CART Racing"
