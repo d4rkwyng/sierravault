@@ -10,7 +10,7 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: The Jawbreaker (a set of teeth)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Jawbreaker II is a 1982 Sierra On-Line arcade game programmed by Chuck
   Bueche ("Chuckles"), a set of teeth eating candies across five horizontal levels,
   based on the Atari 2600 version of Jawbreaker rather than the Pac-Man-style original.
@@ -18,11 +18,11 @@ tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Jawbreaker II is an arcade game published by Sierra On-Line, programmed by Chuck Bueche (credited as "Chuckles")[^ref-1][^ref-3][^ref-24][^ref-31]. Softalk reviewed the Apple II version in its January 1983 issue and listed it on that year's readers' poll ballot, which covered programs published between October 1, 1981 and January 1, 1983; that shows eligibility, not an exact on-sale date[^ref-24]. MobyGames and Atarimania date the Atari 8-bit version to 1982[^ref-1][^ref-3]. Softline's report on a Las Vegas game championship dated 3 December 1982 shows an Atari "Jawbreaker 2" in play, with Sierra's Chuck "Beuche" (sic) topping the table at 28,070 points; that proves the Atari version existed by then, not when it went on sale[^ref-33]. Bueche himself later called it the first program he converted for the Atari, a conversion of his Apple game[^ref-34]. The earliest retail-era sources found are the Electronic Games *1983 Software Encyclopedia* and a 1983 Electronic Games review[^ref-25][^ref-28]. Versions for the Commodore 64, VIC-20 and TI-99/4A followed in 1983[^ref-1][^ref-26][^ref-32]. The TI-99/4A cartridge was issued by Texas Instruments under its own label[^ref-32][^ref-1]. Unlike the first computer Jawbreaker, Jawbreaker II is not a Pac-Man clone; it is closer to the Atari 2600 version of the first game[^ref-1].
+Jawbreaker II is an arcade game published by Sierra On-Line, programmed by Chuck Bueche (credited as "Chuckles")[^ref-1][^ref-3][^ref-24][^ref-31]. Softalk reviewed the Apple II version in its January 1983 issue and listed it on that year's readers' poll ballot, which covered programs published between October 1, 1981 and January 1, 1983; that shows eligibility, not an exact on-sale date[^ref-24]. MobyGames and Atarimania date the Atari 8-bit version to 1982[^ref-1][^ref-3]. Softline's report on a Las Vegas game championship dated 3 December 1982 shows an Atari "Jawbreaker 2" in play, with Sierra's Chuck "Beuche" (sic) topping the table at 28,070 points; that proves the Atari version existed by then, not when it went on sale; the report adds that he and Ken Williams did not make the semifinal cut[^ref-33]. Bueche himself later called it the first program he converted for the Atari, a conversion of his Apple game[^ref-34]. The earliest retail-era sources found are the Electronic Games *1983 Software Encyclopedia* and a 1983 Electronic Games review[^ref-25][^ref-28]. Versions for the Commodore 64, VIC-20 and TI-99/4A followed in 1983[^ref-1][^ref-26][^ref-32]. The TI-99/4A cartridge was issued by Texas Instruments under its own label[^ref-32][^ref-1]. Unlike the first computer Jawbreaker, Jawbreaker II is not a Pac-Man clone; it is closer to the Atari 2600 version of the first game[^ref-1].
 
 Legal issues with the original made John Harris's Atari 2600 design the template for these later versions, which were sold, confusingly, as both Jawbreaker and Jawbreaker II[^ref-5]. Sierra released them under its SierraVision arcade label[^ref-7][^ref-9]. According to Wikipedia, the new game "was not as successful as the original"[^ref-5].
 
@@ -77,7 +77,7 @@ Other period guides were lukewarm. *The Book of Apple Software 1984* and *The Bo
 
 Wikipedia says the later game "was not as successful as the original"[^ref-5]; no sales figures were found to confirm this. The awards and best-known praise belong to the original 1981 Jawbreaker (see [[1981 - Jawbreaker|Jawbreaker]]).
 
-### Modern Ratings
+### Modern Assessment
 
 Ratings on modern databases are modest:
 
@@ -100,13 +100,15 @@ Harris then wrote a very different Jawbreaker for the Atari 2600[^ref-14]. Legal
 
 ### Production
 
+Softalk's January 1983 review notes that "Chuckles's first program for Sierra On-Line was Laf Pak, which was greeted by massive indifference in the marketplace"[^ref-24].
+
 Harris did not write Jawbreaker II. Asked about its connection to his 2600 game, he told Halcyon Days[^ref-14]:
 
 > "Jawbreaker II" came later, written by someone else. The programmer had never seen the 2600 version of "Jawbreaker," and so Ken Williams drew a quick sketch to show him what to do, but didn't explain it very well. This rough sketch had only five horizontal pathways on it, and so that is all that were programmed into the game.
 
 Harris added that the open passageways at the edges of each line "weren't drawn in Ken's sketch, and so they didn't get included in the game"[^ref-14]. Electronic Games' Bill Kunkel told the story differently in 1983, crediting Ken Williams himself with "re-inventing the maze-chase concept" by replacing the maze with "a series of horizontally scrolling bars"[^ref-25]. Retro365 says the computer versions were reinvented by Doug Whittaker and Chuck Bueche from Harris's 2600 game. It describes the number of horizontal pathways (5 instead of 9) as "lost in translation", and says Harris was "appalled" when he saw them[^ref-9].
 
-### Versions
+### Version History
 
 - **Atari 8-bit:** programmed by Chuck Bueche, serials JBD-201 / SRL-212. Atarimania notes that this is Jawbreaker II "despite what the title screen says"[^ref-3]. An Atarimania commenter reports that the full disk version calls itself "Jawbreaker IV"[^ref-3].
 - **Commodore 64:** credited to Chuck Bueche and Doug Whittaker, who are also credited for the music[^ref-2]. The Commodore 64 Software Buyer's Guide (1984) priced it at $29.95 on diskette and $34.95 on cartridge[^ref-37].
@@ -117,9 +119,13 @@ Video Games reported that the VIC-20 version plays two tunes, "The French Can-Ca
 
 ## Legacy
 
+In 2014, Maggoo and Makinavaja released an MSX adaptation of the TI-99/4A version. It was the second entry in the MSXdev'14 competition[^ref-17].
+
+### Collections
+
 Jawbreaker II was included in the 1986 compilation *Familiar Favorites II: Jawbreaker - Crossfire*[^ref-1].
 
-In 2014, Maggoo and Makinavaja released an MSX adaptation of the TI-99/4A version. It was the second entry in the MSXdev'14 competition[^ref-17].
+In October 2026 the ColecoVision & ADAM Museum announced a Coleco ADAM "Best of Sierra On-Line" collection, with Volume 1 pairing Troll's Tale and Jawbreaker II[^ref-41].
 
 ## Downloads
 
@@ -137,6 +143,8 @@ In 2014, Maggoo and Makinavaja released an MSX adaptation of the TI-99/4A versio
 ## See Also
 
 - [[1981 - Jawbreaker|← Previous: Jawbreaker]]
+- [[1982 - Laf Pak]]
+- [[1982 - Lunar Leeper]]
 
 ## References
 
@@ -170,3 +178,4 @@ In 2014, Maggoo and Makinavaja released an MSX adaptation of the TI-99/4A versio
 [^ref-38]: [TODAY, Vol. 2 No. 6 (May 1983), p. 36 – "Nine from Sierra" by Ernest E. Mau](https://archive.org/details/TODAYV02N06) - "Jawbreaker by 'Chuckles'"; ten starting skill levels, "teddy-bear" level; "The game is delightful, though young players are likely to enjoy it most"
 [^ref-40]: [Electronic Games Hotline, Vol. 2 No. 9 (4 December 1983)](https://archive.org/details/hotline-reese-v02-n09-1983-12-04) - "TI went to Sierra On-Line for 'Jawbreaker II'"
 [^ref-39]: [Joystik, Vol. 2 No. 3 (December 1983)](https://archive.org/details/joystik_magazine-1983-12) - VIC-20 review signed MB: "without a challenge this cart has no appeal for any age level"
+[^ref-41]: [ColecoVision & ADAM Museum – Best of Sierra On-Line V1 - V4 (10/26/2026)](https://www.colecovisionadam.com/Coleco/adam/NEWS_Updates_2026.php) - Coleco ADAM collection announcement; Volume 1: Troll's Tale & Jawbreaker II; no release date given
