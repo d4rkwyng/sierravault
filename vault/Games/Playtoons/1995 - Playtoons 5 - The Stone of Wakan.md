@@ -11,18 +11,18 @@ series: "Playtoons"
 engine: "Gob"
 protagonist: "Blue Bear"
 sierra_lineage: "Sierra Label (Coktel)"
-last_updated: "2026-11-06"
-description: "Playtoons 5: The Stone of Wakan (La Pierre de Wakan) is the fifth and last Playtoons title from Coktel Vision: an interactive Wild West storybook about a young Native American named Blue Bear, plus the series' shared cartoon construction kit."
+last_updated: "2026-11-12"
+description: "Playtoons 5: The Stone of Wakan (La Pierre de Wakan) is the fifth and last numbered Playtoons story from Coktel Vision: an interactive Wild West storybook about a young Native American named Blue Bear, plus the series' shared cartoon construction kit."
 tags: [1990s, adventure, edutainment, coktel, playtoons, sierra]
 composer: ["Studio Big Wheels"]
 ---
 # Playtoons 5: The Stone of Wakan
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Playtoons 5: The Stone of Wakan (French: *Playtoons n°5: La Pierre de Wakan*; German: *Der Stein von Wakan*) is the fifth and last game in [[Coktel Vision]]'s Playtoons series of children's cartoon storybooks.[^ref-1][^ref-3][^ref-13] Coktel released it in France in late 1995 for Windows and Macintosh on a single hybrid CD-ROM.[^ref-10][^ref-3] [[Sierra On-Line]], which owned Coktel at the time, published it in Germany in 1996, where *PC Spiel* covered it in its September 1996 issue.[^ref-20] The Sierra Chest also records an English-language European edition, and *MacFormat*'s May 1996 review box points to an English-language UK Mac edition with Sierra as the UK contact.[^ref-3][^ref-6][^ref-8][^ref-11]
+Playtoons 5: The Stone of Wakan (French: *Playtoons n°5: La Pierre de Wakan*; German: *Der Stein von Wakan*) is the fifth and last numbered story in [[Coktel Vision]]'s Playtoons series of children's cartoon storybooks.[^ref-1][^ref-3][^ref-13] Coktel released it in France in late 1995 for Windows and Macintosh on a single hybrid CD-ROM.[^ref-10][^ref-3] [[Sierra On-Line]], which owned Coktel at the time, published it in Germany in 1996, where *PC Spiel* covered it in its September 1996 issue.[^ref-20] The Sierra Chest also records an English-language European edition, and *MacFormat*'s May 1996 review box points to an English-language UK Mac edition with Sierra as the UK contact.[^ref-3][^ref-6][^ref-8][^ref-11]
 
 As in the earlier Playtoons games, there are two parts. The first is an animated, clickable story. The second is a construction kit in which children build their own animated comic strips from the game's characters, scenery and props.[^ref-1][^ref-10] This time the story is a Wild West tale. MobyGames describes it as an adventure for "Native American protagonist Blue Bear", who sets out with his friend Laughing Otter.[^ref-1] The French magazine *PC Novice* called it "un conte fantastique au pays des Indiens Arapahos" ("a fantastical tale in the land of the Arapaho").[^ref-14]
 
@@ -81,13 +81,13 @@ The German magazine *PC Joker* reviewed *Der Stein von Wakan* in September 1996.
 
 ### Modern Assessment
 
-The game has received little attention since. MobyGames lists no critic or player reviews.[^ref-4] ScummVM can detect the French and German discs, but the game is not on ScummVM's list of supported games, so there is currently no supported way to run it in ScummVM.[^ref-17][^ref-18][^ref-9]
+The game has received little attention since. MobyGames lists no critic or player reviews.[^ref-4] ScummVM's wiki marks it unsupported, and its compatibility list does not include it, though the Gob engine source (`gob.h` and `tables_playtoons.h`) lists French and German Playtoons 5 entries.[^ref-9][^ref-18][^ref-22][^ref-17]
 
 ## Development
 
 ### Production
 
-The French manual credits Jean-Christophe Charter and Coktel with the scenario. Valérie Courtial, Arnaud Delrue and Roland Oskian (Coktel's founder) are credited as producers.[^ref-10][^ref-8] The graphics team was Jean-Christophe Charter, Jacques Dimier, Patrick Dumas, Pierre Gilhodes, Christian Laly, Pascal Pautrot and Jeff Rey, with the studio Millimages. Studio Big Wheels did the sound.[^ref-10][^ref-2] Seven programmers are credited: Didier Chevrier, Pascal Couteau, Arnaud Delrue, Maurice Elallouf, Bertrand Hasnier, Daniel Lopes and Mathieu Marciacq.[^ref-10][^ref-2]
+The French manual credits Jean-Christophe Charter and Coktel with the scenario. Valérie Courtial, Arnaud Delrue and Roland Oskian (Coktel's founder) are credited as producers.[^ref-10][^ref-8] The graphics team was Jean-Christophe Charter, Jacques Dimier, Patrick Dumas, [[Pierre Gilhodes]], Christian Laly, Pascal Pautrot and Jeff Rey, with the studio Millimages. Studio Big Wheels did the sound.[^ref-10][^ref-2] Montage is credited to Emmanuel Chagnas, Marion Charrier, Cécile Elmestour and Adrien Hermans.[^ref-10] Seven programmers are credited: Didier Chevrier, Pascal Couteau, Arnaud Delrue, Maurice Elallouf, Bertrand Hasnier, Daniel Lopes and Mathieu Marciacq.[^ref-10][^ref-2]
 
 Coktel's letter in the manual describes Playtoons as a range for children aged four to ten. It also states the company's aim to release several titles a year, and says other heroes would soon join Spirou.[^ref-10] *PCMania* nevertheless described The Stone of Wakan as "el quinto y último en aparecer" ("the fifth and last to appear") in the collection.[^ref-13] Sierra's acquisition of Coktel had been finalised in 1993, and under that arrangement Sierra published Coktel's French titles worldwide.[^ref-8]
 
@@ -111,7 +111,7 @@ The cast differed by language. The French manual credits Pierre-Alain de Garrigu
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | French (*La Pierre de Wakan*) | December 1995 | Windows / Mac | Coktel Vision. Disc mastering code dated 12 December 1995[^ref-10][^ref-3] |
-| German (*Der Stein von Wakan*) | 1996 | Windows / Mac | Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-3]. *PC Spiel* (September 1996, p. 41) captioned it "Der Stein von Wakan ist das jüngste Programm aus der Playtoons-Serie und entführt in den Wilden Westen" ("The Stone of Wakan is the newest program in the Playtoons series and takes you to the Wild West")[^ref-20] |
+| German (*Der Stein von Wakan*) | 1996 | Windows / Mac | Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-3]. An Internet Archive disc image of the German hybrid PC/Mac CD-ROM gives a mastering date of 26 February 1996[^ref-23]. *PC Spiel* (September 1996, p. 41) captioned it "Der Stein von Wakan ist das jüngste Programm aus der Playtoons-Serie und entführt in den Wilden Westen" ("The Stone of Wakan is the newest program in the Playtoons series and takes you to the Wild West")[^ref-20] |
 | English (*The Stone of Wakan*) | c. 1996 | PC / Mac | EU English slipcover box recorded by the Sierra Chest; listed by a UK retailer at £16.50 in May 1996. *MacFormat* (May 1996) also reviewed a UK Mac edition at £24.99, with Sierra as the UK contact; its December 1996 ratings table lists £28[^ref-6][^ref-15][^ref-11][^ref-21] |
 | Spanish (*La Piedra de Wakan*) | May 1996 | Windows | Distributed by Coktel Educative. *Super PC* no. 35 (May 1996) called it, with *Playtoons 4*, one of the "más recientes novedades" ("most recent new releases") for ages 4 to 10[^ref-19]. Reviewed by *PCMania*; English/Spanish text[^ref-13] |
 
@@ -119,7 +119,7 @@ The cast differed by language. The French manual credits Pierre-Alain de Garrigu
 
 ## Legacy
 
-The Stone of Wakan was the last numbered Playtoons story.[^ref-13] Wikipedia's Playtoons and Coktel Vision articles both list it as the final entry in the series, released in 1995.[^ref-7][^ref-8] UVList's Mac OS Classic catalogue includes it under Coktel Vision, dated 1995.[^ref-16]
+The Stone of Wakan was the last numbered Playtoons story.[^ref-13] Three Playtoons Construction Kit discs followed in 1996 (Monsters, Knights and Far West).[^ref-17][^ref-24] Wikipedia's Playtoons and Coktel Vision articles both list it as the final entry in the series, released in 1995.[^ref-7][^ref-8] UVList's Mac OS Classic catalogue includes it under Coktel Vision, dated 1995.[^ref-16]
 
 ### Collections
 
@@ -128,7 +128,7 @@ No compilation release has been documented. The French disc and its full manual 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available on any digital storefront
+- Not available on any digital storefront (checked November 2026)
 
 **Download / Preservation**
 - [Internet Archive – Playtoons n°5: La Pierre de Wakan (PC, France)](https://archive.org/details/playtoons-n5-la-pierre-de-wakan-pc-france) – disc image, cover scans and manual[^ref-10]
@@ -138,7 +138,7 @@ No compilation release has been documented. The French disc and its full manual 
 
 ## See Also
 
-The Stone of Wakan closes Coktel Vision's numbered Playtoons series, which began with Uncle Archibald in 1994[^ref-7] and featured Spirou in two of its five stories.[^ref-11][^ref-14] Its construction kit can combine characters and scenery from every earlier volume.[^ref-1][^ref-10]
+The Stone of Wakan is the fifth and last numbered Playtoons story. The series began with Uncle Archibald in 1994[^ref-7] and featured Spirou in two of its five stories.[^ref-11][^ref-14] Its construction kit can combine characters and scenery from every earlier volume.[^ref-1][^ref-10]
 
 - [[1995 - Playtoons 4 - The Mandarine Prince|← Previous: Playtoons 4 - The Mandarine Prince]]
 - **Next:** None. This is the final numbered Playtoons title.
@@ -146,6 +146,7 @@ The Stone of Wakan closes Coktel Vision's numbered Playtoons series, which began
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
 - [[1995 - Playtoons 3 - The Secret of the Castle]]
 - [[Coktel Vision]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -157,11 +158,11 @@ The Stone of Wakan closes Coktel Vision's numbered Playtoons series, which began
 [^ref-6]: [The Sierra Chest – Playtoons 5: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=327&fld=box) – PC/Mac CD-ROM slipcover boxes for EU English and EU French releases; manual and Playtoons trailer
 [^ref-7]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview; Playtoons 5: The Stone of Wakan listed as the latest release (1995)
 [^ref-8]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Roland Oskian as founder; Sierra acquisition (finalised 1993); Sierra publishing Coktel's French titles worldwide; Playtoons 5 in the 1995 releases
-[^ref-9]: [ScummVM Wiki – Playtoons 5 - The Stone of Wakan](https://wiki.scummvm.org/index.php?title=Playtoons_5_-_The_Stone_of_Wakan) – Gob engine, Windows, not supported by ScummVM (page behind a bot wall; not re-checked 2026-10-15)
+[^ref-9]: [ScummVM Wiki – Playtoons 5 - The Stone of Wakan](http://web.archive.org/web/20260417054318/https://wiki.scummvm.org/index.php?title=Playtoons_5_-_The_Stone_of_Wakan) – Wayback copy (the live wiki is behind a bot wall): Gob engine, Windows, "Support No", "Available for Purchase No"; lists first release as 1996
 [^ref-10]: [Internet Archive – Playtoons n°5: La Pierre de Wakan (PC, France)](https://archive.org/details/playtoons-n5-la-pierre-de-wakan-pc-france) – disc (mastering code "WAKANFR 12 DEC 95", no copy protection found) and French manual: full credits, Coktel letter, story and construction-kit instructions, PC/Mac installation
 [^ref-11]: [MacFormat #37 (May 1996) – Mike Goldsmith, "Playtoons: Spirou – The Mandarine Prince and The Stone of Wakan", pp. 104–105](https://archive.org/details/mac-format-037-may-1996) – review: Blue Bear's quest, Mountain That Smokes, Thunder Spirits, "more of the same", language and age range; p. 105 info box for both titles: £24.99 each, Mac requirements, Sierra as UK contact, joint MacFormat rating 88%
 [^ref-12]: [PC Joker, September 1996 – "Der Stein von Wakan", pp. 74–75](https://archive.org/details/pcjokerseptember1996images) – review: twelve-picture story, 20-picture construction kit, six characters, text or microphone speech, five music tracks, presentation; score table: Urteil 81% (Präsentation 74%, Handhabung 80%, Interaktion 82%, Motivation 82%), 4–10 Jahre, Sierra/Coktel
-[^ref-13]: [PCMania #56 – Óscar Santos, "La piedra de Wakan", pp. 248–249](https://archive.org/details/Pcmania56) – review: fifth and last in the collection, Oso-Azul and chief Viejo-Castor, Mountain That Smokes, Living Books comparison, English/Spanish text, printing and playback, bundled calculator, system requirements; p. 249 spec box: 486/100 (Pentium 100 rec.), 8 MB RAM (16 rec.), 10 MB disk, SVGA PCI, Sound Blaster, Windows 3.1+, "Valoración 84"
+[^ref-13]: [PCMania #56 – Óscar Santos, "La piedra de Wakan", pp. 248–249](https://archive.org/details/Pcmania56) – review: fifth and last in the collection, Oso-Azul and chief Viejo-Castor, Mountain That Smokes, Living Books comparison, English/Spanish text, printing and playback, bundled calculator, system requirements; p. 248 spec box beside the review headline: 486/100 (Pentium 100 rec.), 8 MB RAM (16 rec.), 10 MB disk, SVGA PCI, Sound Blaster, Windows 3.1+, "Valoración 84"
 [^ref-14]: [PC Novice (France) #32, January 1996](https://archive.org/details/pcnovice-magazine-32) – five Playtoons titles already available; La Pierre de Wakan "un conte fantastique au pays des Indiens Arapahos"
 [^ref-15]: [PC Zone #38 (May 1996)](https://archive.org/details/PC_Zone_38_May_1996) – UK mail-order listing: "Playtoons Stone of Wakan" at £16.50
 [^ref-16]: [UVList – Mac OS Classic games list](https://www.uvlist.net/platforms/games-list/48-Mac%20OS%20Classic/p) – Playtoons 5: The Stone of Wakan, Coktel Vision, 1995
@@ -170,3 +171,6 @@ The Stone of Wakan closes Coktel Vision's numbered Playtoons series, which began
 [^ref-19]: [Super PC #35 (May 1996, Spain)](https://archive.org/details/Super_PC_35) – Playtoons feature: "Las más recientes novedades son Espiru y el príncipe mandarín y La piedra de Wakan. Están diseñados para niños de edades comprendidas entre 4 y 10 años." ("The most recent new releases are Spirou and the Mandarin Prince and The Stone of Wakan. They are designed for children aged 4 to 10."); "Distribuidor: Coktel Educative"; issue masthead "MAYO 1996. Núm. 35"
 [^ref-20]: [PC Spiel, September 1996, p. 41](https://archive.org/details/pc-spiel-1996-09) – photo caption: "Der Stein von Wakan ist das jüngste Programm aus der Playtoons-Serie und entführt in den Wilden Westen" ("The Stone of Wakan is the newest program in the Playtoons series and takes you to the Wild West"); caption read on the page image, not in the OCR text
 [^ref-21]: [MacFormat #45 (Christmas 1996)](https://archive.org/details/mac-format-045-x-mas-1996) – ratings table row "The Stone of Wakan £28 88% MF37 Sierra"; read in the OCR text, consistent with the £28 given to the other Playtoons rows in the same table
+[^ref-22]: [ScummVM source – engines/gob/gob.h](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/gob/gob.h) – Gob engine header: "Status of this engine: Supported"; games list includes "Playtoons 5 The Stone of Wakan" and Playtoons Construction Kit 1 Monsters, 2 Knights, 3 The Far West
+[^ref-23]: [Internet Archive – Playtoons Nr. 5: Der Stein von Wakan (Coktel Vision / Sierra On-Line, 1996) [PC/Mac CD-ROM]](https://archive.org/details/playtoons-5-der-stein-von-wakan-1996-de) – German edition disc image; uploader's metadata: ISO 9660 / Apple HFS hybrid CD, mastering date 1996-02-26
+[^ref-24]: Internet Archive French Playtoons construction-kit discs, dated 1996: [Jeu de Construction 1 : Les Monstres](https://archive.org/details/playtoons-6), [2 : Les Chevaliers](https://archive.org/details/playtoons-7), [3 : Le Far West](https://archive.org/details/playtoons-8)
