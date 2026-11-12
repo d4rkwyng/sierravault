@@ -199,7 +199,7 @@ The ValuSoft/THQ reissue reportedly works on Windows 10 but has multiplayer func
 
 ### Sales and Commercial Impact
 
-No sales figures were found in the sources consulted. The game was later released in Europe by JoWooD in 2004–2005[^ref-29][^ref-31] and reissued in North America by ValuSoft/THQ.[^ref-5]
+The game was later released in Europe by JoWooD in 2004–2005[^ref-29][^ref-31] and reissued in North America by ValuSoft/THQ.[^ref-5]
 
 ### Collections
 
