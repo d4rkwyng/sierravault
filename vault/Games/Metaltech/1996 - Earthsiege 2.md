@@ -10,7 +10,7 @@ series: Earthsiege
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Earthsiege 2 is a mech simulation game developed by Dynamix and published
   by Sierra On-Line for Windows in 1996. Set in 2624, it puts players in command of
   HERC war machines fighting off a renewed Cybrid offensive staged from the Moon.
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege, sierra, simulation]
 ---
 # Earthsiege 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,7 @@ The game adds an air-capable HERC called the "Razor," which GameSpot's Chris Hud
 
 ### Modern Assessment
 
-MobyGames lists a critics' average of 81%, based on 18 ratings[^ref-9]. A Collection Chamber retrospective recalled that "EarthSiege II was HUGE when it was released in 1996, garnering mostly scores in the top ten percentile"[^ref-14]. Its stability has drawn criticism, however, with one GameFAQs reviewer writing that "Earthsiege 2 also crashes to the desktop more than any other game that was released probably ever"[^ref-20].
+MobyGames lists a critics' average of 81%, based on 18 ratings, and a player score of 7.6 out of 10 from 22 votes (as retrieved via the MobyGames API on 9 October 2026)[^ref-9]. A Collection Chamber retrospective recalled that "EarthSiege II was HUGE when it was released in 1996, garnering mostly scores in the top ten percentile"[^ref-14]. Its stability has drawn criticism, however, with one GameFAQs reviewer writing that "Earthsiege 2 also crashes to the desktop more than any other game that was released probably ever"[^ref-20].
 
 ## Development
 
@@ -123,7 +123,7 @@ MobyGames lists the following requirements, read via the MobyGames API[^ref-9]:
 | UK (SierraOriginals) | 1996 | Windows | Distributed by Sierra On-Line Ltd.[^ref-9] |
 | German (Sierra Originals) | 1997 | Windows, Windows 3.x | Distributed by Sierra Coktel Deutschland[^ref-9] |
 | German (GameStar covermount) | 1997 | Windows | GameStar 11/97 covermount[^ref-9] |
-| Freeware | August 2015 | Windows | Worldwide download release published by Hi-Rez Studios; MobyGames lists it as "Free (initially commercial)"[^ref-9][^ref-26] |
+| Freeware | August 2015 | Windows | Worldwide download release published by Hi-Rez Studios; MobyGames lists it as "Free (initially commercial)" with an August 2015 date, and PC Gamer's report on the release is archived 30 October 2015[^ref-9][^ref-26] |
 
 The RBXIT project notes that "there are no official Sierra updates for EarthSiege 2," and supplies its own installation and compatibility tools instead[^ref-24].
 
@@ -152,7 +152,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/es2demo) - Demo version
 - [MyAbandonware](https://www.myabandonware.com/game/earthsiege-2-a7b) - Freeware release
-- Hi-Rez Studios - Official freeware release (2015); see [PC Gamer's report](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/)
+- Hi-Rez Studios - Official freeware release (2015); see [PC Gamer's report (Wayback, 30 October 2015)](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/)
 
 ## See Also
 
@@ -178,7 +178,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – Story background and universe context
 [^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – Platforms (Windows, Windows 3.x), release date, launch errors
 [^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – Cybrid motivation description
-[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – Critics average (81%), player review quotes; description (nine HERCs), system requirements and release list, read via the MobyGames API
+[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – Critics average (81%), player score (7.6 from 22 votes, retrieved 2026-10-09), player review quotes; description (nine HERCs), system requirements and release list, read via the MobyGames API
 [^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – Control system critique
 [^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – Mission structure analysis
 [^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – Graphics quality comparison
@@ -188,7 +188,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-21]: [Sierra Fandom - Dynamix](https://sierra.fandom.com/wiki/Dynamix) – MetalTech series history
 [^ref-24]: [GitHub - RBX IT Wiki](https://github.com/juanitogan/rbxit/wiki/Metaltech-Series) – Video codec details, no official Sierra updates
 [^ref-25]: [Tribes Fandom - EarthSiege 2](https://tribes.fandom.com/wiki/EarthSiege_2) – Precursor to Starsiege
-[^ref-26]: [PC Gamer](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Freeware release announcement
+[^ref-26]: [PC Gamer – Hi-Rez makes previous Tribes games free (Wayback, snapshot 2015-10-30)](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Freeware release announcement; "as well as the Earthsiege series that predated it"
 [^ref-27]: [Computer Gaming World #144 (July 1996) – "Graphic Facelift Aside, This Is Your Father's EarthSiege", Martin Cirulis](https://archive.org/stream/Computer_Gaming_World_Issue_144/Computer_Gaming_World_Issue_144_djvu.txt) – Contemporary review: "PROS: Best-looking giant robot game", "nothing that will leave a lasting impression", salvage logistics "a welcome strategic facet"
 [^ref-28]: [Next Generation #20 (August 1996) – "Siege the Day"](https://archive.org/details/nextgen-issue-020) – Contemporary four-star review, "shines in all the right places"
 [^ref-29]: [Gaming Stack Exchange – How do I play Earthsiege 2 on a modern PC?](https://gaming.stackexchange.com/questions/243206/how-do-i-play-earthsiege-2-on-a-modern-pc-windows-7-8-10) – dgVoodoo 2 / DXwnd workarounds
