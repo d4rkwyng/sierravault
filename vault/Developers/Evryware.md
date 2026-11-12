@@ -3,14 +3,14 @@ title: "Evryware"
 type: developer
 founded: 1980
 defunct: null
-headquarters: null
+headquarters: "Sunnyvale, California (1982); Olympia, Washington (by 1997)"
 notable_games: ["Sierra Championship Boxing", "Manhunter: New York", "Manhunter 2: San Francisco"]
 parent_company: null
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Evryware
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ The studio kept making games until 1997, when it released Pyrosaurus; MobyGames 
 
 In 1979 the Murry brothers built an air traffic control radar simulator "just for fun", modelling the traffic at McChord Air Force Base, where Barry was working as an air traffic controller.[^ref-21] About a year later they began making arcade-style games for the Heathkit H89 and, by their own account, made "about a dozen arcade games over the next couple of years."[^ref-21] Evryware's chronology lists "CP/M Games" for 1980–1982.[^ref-22] The company's 1992 manual for The Ancient Art of War in the Skies says it "developed and marketed eleven products for CP/M computers" before turning to the IBM PC.[^ref-35] A 1982 Evryware advertisement in Sextant, a magazine for Heath/Zenith users, offers "Interactive Fiction" for the H/Z89 and H8/H19, including Dragons of Hong Kong at $21.50 and Six Micro-Stories at $17.50, with a P.O. box in Sunnyvale, California; an undated Evryware catalogue scan lists further H/Z89 games such as Space Odyssey, Missile Control, Invasion and Y-Wing Fighter.[^ref-37][^ref-38] MobyGames credits Dragons of Hong Kong to Evryware in 1981.[^ref-14]
 
-Sources differ on who founded the company. The 1997 Games Domain interview introduces Barry and Dave Murry as "the founders of Evryware," and MobyGames says the same.[^ref-21][^ref-14] Retro365 says instead that "in 1980 Dave and Joe Gargiulo, established Evryware."[^ref-16] The 1992 manual says "Dave and Barry Murry and Joe Gargiulo formed Evryware in 1980."[^ref-35] Evryware's own team page calls Dave Murry "Technical Director, Co-Founder."[^ref-6]
+Sources differ on who founded the company. The 1997 Games Domain interview introduces Barry and Dave Murry as "the founders of Evryware," and MobyGames says the same.[^ref-21][^ref-14] Retro365 says instead that "in 1980 Dave and Joe Gargiulo, established Evryware."[^ref-16] The 1992 manual says "Dave and Barry Murry and Joe Gargiulo formed Evryware in 1980."[^ref-35] Evryware's own team page calls Dave Murry "Technical Director, Co-Founder."[^ref-6] A period source points the same way as Retro365: the Summer 1982 issue of Sextant lists Evryware's Sunnyvale P.O. box with "Dave Murry & Joe Gargiulo" as the contacts, and its report from a computer fair calls it "Dave Murry's computer games company."[^ref-37]
 
 ### Sierra Era
 
@@ -64,12 +64,12 @@ Brøderbund published The Ancient Art of War in 1984, and the Murrys said it "wa
 
 ### Manhunter: New York (1988) and Manhunter 2: San Francisco (1989)
 
-Evryware developed both for Sierra On-Line. Wikipedia credits Barry Murry, Dave Murry and Dee Dee Murry as designers of Manhunter: New York, with Ken Williams as producer, and gives its release as September 1988; its entry for Manhunter 2 dates that game to mid-1989 and lists the same three designers.[^ref-31][^ref-32] See the Sierra Era section for the Murrys' account of how the games were made.
+Evryware developed both for Sierra On-Line. Wikipedia credits Barry Murry, Dave Murry and Dee Dee Murry as designers of Manhunter: New York, with Ken Williams as producer, and gives its release as September 1988; its entry for Manhunter 2 dates that game to mid-1989 and lists the same three designers.[^ref-31][^ref-32] Wikipedia credits Barry Murry as composer of both games, and lists Barry and Dave Murry as programmers.[^ref-31][^ref-32] See the Sierra Era section for the Murrys' account of how the games were made.
 
 ## Key People
 
 - **Dave Murry**: co-founder and technical director; programmer.[^ref-6][^ref-16]
-- **Barry Murry**: co-founder; graphics and animation on Championship Boxing.[^ref-21][^ref-16]
+- **Barry Murry**: co-founder; graphics and animation on Championship Boxing; composer of both Manhunter games.[^ref-21][^ref-16][^ref-31][^ref-32]
 - **Dee Dee Murry**: the brothers' sister and Evryware's lead artist. The 1997 interview places her joining around the release of Manhunter: New York ("our sister, Dee Dee joined the team"), while the team page says she has been lead artist "since 1984" and worked on the Ancient Art of War and Manhunter series. The 1992 manual says she joined in 1987.[^ref-21][^ref-6][^ref-35]
 - **Joe Gargiulo**: an early collaborator from the H89 era who joined the team for The Ancient Art of War in the Skies; Retro365 names him as a co-founder. The 1997 interview spells his surname "Garguilo". The 1992 manual says he left after one IBM product and teamed up with the Murrys again in 1988 for The Ancient Art of War in the Skies.[^ref-21][^ref-16][^ref-35]
 - **Mike Murry**: Creative Director and Project Manager, per the team page, which says he joined the team during the development of SpaceKids in 1994.[^ref-6]
@@ -77,7 +77,7 @@ Evryware developed both for Sierra On-Line. Wikipedia credits Barry Murry, Dave 
 
 ## Legacy
 
-Evryware's best-known work outside Sierra is The Ancient Art of War, which Wikipedia describes as one of the first real-time strategy or real-time tactics games.[^ref-29] The Murrys said each of their four Ancient Art of War and Manhunter games sold more than 100,000 copies.[^ref-21] Manhunter 3: London was never made, and Wikipedia says the Manhunter rights are held by Activision.[^ref-23][^ref-32] MobyGames credits the studio on The Ancient Art of War 2, released in 2014 for Windows, Mac, iOS and Android, and Evryware's website was still online with a team page listing Dave, Dee Dee, Mike and Matt Murry when checked on 11 November 2026.[^ref-34][^ref-6]
+Evryware's best-known work outside Sierra is The Ancient Art of War, which Wikipedia describes as one of the first real-time strategy or real-time tactics games.[^ref-29] The Murrys said the first two Ancient Art of War games and both Manhunter games each sold more than 100,000 copies, and that The Ancient Art of War in the Skies sold about half as many.[^ref-21] Manhunter 3: London was never made, and Wikipedia says the Manhunter rights are held by Activision.[^ref-23][^ref-32] The Ancient Art of War in the Skies was released on Steam on 20 January 2022, with Atari as publisher.[^ref-40] MobyGames credits the studio on The Ancient Art of War 2, released in 2014 for Windows, Mac, iOS and Android, and Evryware's website describes that game as "a completely re-written update" of the original; the site was still online with a team page lists Dave, Dee Dee, Mike and Matt Murry on its team page.[^ref-34][^ref-39][^ref-6]
 
 ## Games
 
@@ -114,3 +114,5 @@ Other Evryware games (not Sierra-published): The Ancient Art of War (Brøderbund
 [^ref-36]: [Pyrosaurus manual, Evryware Inc., 1997 (Internet Archive)](https://archive.org/details/pyrosaurus) — "developed and is distributed by: Evryware Inc.", Olympia, WA; credits Dave, Barry and Dee Dee Murry, Jason Glover, Sean Farley, Todd Bishopp
 [^ref-37]: [Sextant Issue 2, Summer 1982 (Internet Archive)](https://archive.org/details/sextantissue2summer1982) — Evryware advertisement: Interactive Fiction for H/Z89 and H8/H19; Dragons of Hong Kong $21.50; Six Micro-Stories $17.50; Sunnyvale, CA
 [^ref-38]: [Evryware catalogue scan, MOCAGH.ORG (Internet Archive)](https://archive.org/details/vgmuseum_miscgame_evryware-catalog) — undated catalogue of H/Z89 games incl. Space Odyssey, Missile Control, Invasion, Y-Wing Fighter
+[^ref-39]: [Evryware Official Site - Home](https://www.evryware.com/index.html) — The Ancient Art of War 2 "a completely re-written update" of the original; free for Windows and Amazon Fire
+[^ref-40]: [Steam - The Ancient Art of War in the Skies](https://store.steampowered.com/app/1704640/) — Atari, released 20 Jan 2022 (store API: developer Microprose)
