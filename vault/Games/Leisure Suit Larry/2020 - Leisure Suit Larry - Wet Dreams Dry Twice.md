@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,12 +31,12 @@ The game initially launched for PC on October 23, 2020, after being delayed from
 > **Developer:** CrazyBunch[^ref-34]
 > **Designer:** Malte Schmidt, Svenja Borchert, Falko Löffler, Matthias Kempke, Maurice Alain Hagelstein[^ref-34]
 > **Publisher:** [[Assemble Entertainment]][^ref-34]
+> **Engine:** Unity[^ref-34]
 > **Platforms:** Microsoft Windows, macOS, PlayStation 4, Xbox One, Xbox Series X|S, Nintendo Switch, iOS, Android[^ref-11][^ref-63]
 > **Release Year:** 2020
 > **Series:** Leisure Suit Larry
-> **Sierra Lineage:** Post-Sierra
-> **Engine:** Unity
 > **Protagonist:** Larry Laffer
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 
@@ -86,7 +86,7 @@ The game received particular praise from Ragequit.gr, which awarded it 91/100 an
 
 Player reception has been mixed by platform: Steam users rate it Very Positive (85%)[^ref-66], while Metacritic's user score is 6.9, "mixed or average", against the PC Metascore of 73[^ref-27]. Trophy-hunting communities have provided detailed analyses of the game's structure and requirements[^ref-38]. One Reddit user described it as having "surprisingly good" production values with "overall good voice acting, some nice music and nicely drawn 2d graphics"[^ref-42].
 
-The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by one PSNProfiles user[^ref-14].
+The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by one PSNProfiles user[^ref-14]. In the same June 2021 PSNProfiles thread, one poster called the late-game labyrinth section "HORRIBLE" and another said it "took me hours" to find a character in the cage[^ref-14].
 
 ## Development
 
@@ -102,11 +102,36 @@ The game's voice cast was led by Jan Rabson reprising his role as Larry Laffer, 
 
 Music was composed by Kai Rosenkranz and Tilo Alpermann; the digital soundtrack album, included with the "Save the World Edition", has 41 tracks running 71:33[^ref-64]. Additional design work was provided by Tiny Roar UG, with sound production by Double Shot Audio and voice recording by Outsource Media Ltd. and toneworx GmbH[^ref-63].
 
+### Voice Cast
+
+| Actor | Role |
+|-------|------|
+| Jan Rabson | Larry Laffer |
+| Charlotte Moore | Faith |
+| Melli Bond | Nari |
+| Penelope Rawlins | Pi |
+| Eric Meyers | El Rey |
+| William Roberts | Lefty |
+| Laurence Bouvard | Waltraud |
+| Arlene Decker | Becky |
+| Franciska Friede | Wendi |
+
+Cast as listed by IMDb[^ref-22]. IMDb credits Malte Schmidt as director and Falko Löffler and Stefan Marcinek as writers[^ref-22].
+
 ### Technical Achievements
 
 Built using the Unity engine, Wet Dreams Dry Twice features hand-drawn 2D artwork with what one reviewer described as "impressive hi-res artwork incorporating an equally impressive amount of phallic symbols wherever you look"[^ref-49]. Steam lists minimum PC requirements of Windows Vista/7/8/10, a 2.33GHz processor, 2GB RAM, and 4GB of available storage space[^ref-45].
 
-The game supports eight languages: English, German, French, Spanish, Russian, Simplified Chinese, Italian and Polish, with full audio in English and German[^ref-45]. GameOver.gr felt "the indie budget" was "acutely visible"[^ref-27], and some technical issues were noted, including occasional crashes that prompted guide writers to recommend frequent manual saves[^ref-38].
+The game is rated PEGI 16[^ref-34]. It supports eight languages: English, German, French, Spanish, Russian, Simplified Chinese, Italian and Polish, with full audio in English and German[^ref-45]. GameOver.gr felt "the indie budget" was "acutely visible"[^ref-27], and some technical issues were noted, including occasional crashes that prompted guide writers to recommend frequent manual saves[^ref-38].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | October 23, 2020 | Windows, macOS | Launched on Steam and GOG at $34.99, after a delay from October 15[^ref-63][^ref-7][^ref-37] |
+| Console | May 17, 2021 | Xbox One, Xbox Series | Release date as given by MobyGames[^ref-63] |
+| Console | May 18, 2021 | PlayStation 4, Nintendo Switch | Digital launch at $44.99; retail PS4 and Switch versions at $39.99[^ref-18][^ref-63] |
+| Mobile | January 25, 2022 | iOS, Android | $14.99[^ref-40] |
 
 ## Legacy
 
@@ -117,6 +142,12 @@ Push Square's review opened: "In a world where the point-and-click genre has pas
 The game also holds historical significance as Jan Rabson's final portrayal of Larry Laffer, ending nearly three decades of voice work on the character that began with Leisure Suit Larry 6 in 1993[^ref-11][^ref-3]. Assemble also partnered with ShareTheMeal on a "Save the World" Edition on Steam, where every purchase provided two meals for hungry children[^ref-40].
 
 In October 2026, Assemble announced that both Wet Dreams games would leave the Steam store after October 23, 2026, saying only that Larry was "getting ready to hang up his leisure suit"[^ref-62].
+
+### Collections
+
+- **Save the World Edition** (Steam): a bundle of the main game, the official soundtrack and the artbook, priced at $44.99, with 10% of the edition's revenues donated to the ShareTheMeal initiative[^ref-45][^ref-40]. MobyGames lists it as a separate 2020 release[^ref-34].
+- **Leisure Suit Larry: Wet Dreams Saga:** a Steam bundle of four items: *Wet Dreams Don't Dry*, its soundtrack and artbook, and *Wet Dreams Dry Twice* (Standard Edition)[^ref-45]. MobyGames lists a 2020 release of the same name for Windows, Nintendo Switch and Xbox One[^ref-34].
+- A free demo was offered on Steam[^ref-45].
 
 ## Downloads
 
@@ -142,6 +173,8 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 ## See Also
 
+- [[Leisure Suit Larry Series]]
+- Previous: [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
@@ -153,7 +186,6 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 - [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[2009 - Leisure Suit Larry - Box Office Bust]]
 - [[2013 - Leisure Suit Larry - Reloaded]]
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 ## References
 
