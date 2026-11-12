@@ -5,15 +5,19 @@ founded: 1980
 defunct: 1998
 headquarters: "Novato, California, United States"
 parent_company: "The Learning Company (1998), Mattel (1999), Gores Technology Group (2000), Riverdeep (2002); brand licensed to Encore"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Broderbund Software
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston.[^ref-1][^ref-9] The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*).[^ref-2][^ref-4][^ref-5] Broderbund was acquired by The Learning Company in 1998.[^ref-3][^ref-11]
+Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston.[^ref-1][^ref-9] The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*).[^ref-4][^ref-2][^ref-5] Broderbund was acquired by The Learning Company in 1998.[^ref-3][^ref-11]
+
+## Origins
+
+Brøderbund Software was officially founded on February 25, 1980, by the brothers Doug and Gary Carlston, with $7,000 scraped together from their savings and family.[^ref-9] Its first products were three games from Doug's *Galactic* trilogy, which he had first written for the TRS-80.[^ref-9][^ref-6] The company began in Eugene, Oregon, left Eugene for San Rafael, California, in the summer of 1981, and later moved to Novato, California.[^ref-9][^ref-1] It became a public company in November 1991, trading on NASDAQ under the symbol BROD.[^ref-1]
 
 Broderbund published Cyan's *Myst* in 1993; Wikipedia calls it the best-selling PC game for nearly a decade.[^ref-6][^ref-18]
 
@@ -23,7 +27,7 @@ The Strong museum describes Brøderbund as having risen to prominence "in compet
 
 **Japanese imports:** At the West Coast Computer Faire of March 1980, the Carlstons "had made the acquaintance of the Japanese software company Starcraft," which had several Apple II action games and was "looking for an American partner to sell them."[^ref-9] Company Histories dates the "alliance with StarCraft, a Japanese software house" to mid-1980.[^ref-11] Late that year Starcraft supplied *Apple Galaxian*, which "topped the Softalk magazine chart as the bestselling Apple II program in the country for three months."[^ref-9] Starcraft also worked in the other direction: The Digital Antiquarian reports that it "had begun a project to translate some of the more popular American illustrated text adventures for the domestic market, including most of On-Line's Hi-Res Adventure line (with the expected exception of the white elephant *Time Zone*)."[^ref-21]
 
-**The 1991 merger that wasn't:** On March 8, 1991, Sierra On-Line and Broderbund announced that they had signed a letter of intent to merge. The combined company was expected to be called Sierra-Broderbund, Inc., with Sierra CEO [[Ken Williams]] as CEO of the consolidated company. Broderbund CEO Doug Carlston would "take over the reins as Broderbund President," and Broderbund's then-president, Ed Auer, would head a newly formed manufacturing and sales unit.[^ref-16] *Computer Gaming World* reported that the Wall Street Journal estimated the stock swap at over $88 million, and that Broderbund would in effect have become a wholly owned subsidiary of Sierra.[^ref-16] The talks were terminated on March 27, 1991, after the directors of both companies "apparently" concluded that key understandings on combining the two management teams were unlikely. Ken Williams told *CGW*: "Both companies were doing so well and having so much fun that we looked at the work that it would have taken to put the companies together and decided that it wasn't best."[^ref-17][^ref-1][^ref-11]
+**The 1991 merger that wasn't:** On March 8, 1991, Sierra On-Line and Broderbund announced that they had signed a letter of intent to merge. The combined company was expected to be called Sierra-Broderbund, Inc., with Sierra CEO [[Ken Williams]] as CEO of the consolidated company. Broderbund CEO Doug Carlston would "take over the reins as Broderbund President," and Broderbund's then-president, Ed Auer, would head a newly formed manufacturing and sales unit.[^ref-16] *Computer Gaming World* reported that the Wall Street Journal estimated the stock swap at over $88 million, and that Broderbund would in effect have become a wholly owned subsidiary of Sierra, though Williams described it as "really" a "merger of equals" in which Broderbund and Sierra would "exist as sister companies sharing a common distribution mechanism."[^ref-16] The talks were terminated on March 27, 1991, after the directors of both companies "apparently" concluded that key understandings on combining the two management teams were unlikely. Ken Williams told *CGW*: "Both companies were doing so well and having so much fun that we looked at the work that it would have taken to put the companies together and decided that it wasn't best."[^ref-17][^ref-1][^ref-11]
 
 ## Later Ownership
 
