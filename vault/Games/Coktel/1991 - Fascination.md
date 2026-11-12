@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Doralice
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Frédéric Motte, Alain Sery]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
  by Coktel Vision and published under its Tomahawk label in 1991 for the Amiga, Atari
@@ -20,13 +20,13 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 *Fascination* is an erotic thriller graphic adventure game developed by Coktel Vision and published under Tomahawk, the label Coktel used for its simulation and erotic games, in 1991 for the Amiga, Atari ST, and MS-DOS platforms.[^ref-10][^ref-24][^ref-32] The game places players in the role of Doralice, described in the game's manual as "the sexiest captain on the Paris-Miami flight,"[^ref-21][^ref-29] who becomes entangled in a dangerous conspiracy involving a revolutionary chemical substance after a dying passenger entrusts her with a mysterious vial.[^ref-2] As a first-person point-and-click adventure, *Fascination* was the third and final entry in Coktel Vision's short-lived line of mature-themed adventure games that began with *Emmanuelle* (1989) and continued with *Geisha* (1990).[^ref-10][^ref-18][^ref-6]
 
-The game was designed by [[Muriel Tramis]], a designer from Martinique whose Coktel Vision games frequently featured female protagonists and mildly erotic scenes.[^ref-4][^ref-38] Despite its adult themes, *Fascination* was noted by *The Adventurers' Guild* for having "sensible problems with sensible solutions, not based on minigames or external sources of information, but on the logical use of items you'll find."[^ref-5] The protagonist Doralice would later return in Coktel Vision's *Lost in Time* (1993), establishing a loose continuity between the games.[^ref-6]
+The game was designed by [[Muriel Tramis]], a designer from Martinique whose Coktel Vision games frequently featured female protagonists and mildly erotic scenes.[^ref-4][^ref-38] Despite its adult themes, *Fascination* was noted by *The Adventurers' Guild* for having "sensible problems with sensible solutions, not based on minigames or external sources of information, but on the logical use of items you'll find."[^ref-5] The protagonist Doralice would later return in Coktel Vision's *Lost in Time* (1993), establishing a loose continuity between the games.[^ref-6] *The Adventurers' Guild* names the flight captain "Doralice May,"[^ref-11] while PC Gamer jokes that in *Lost in Time* she pretends to be "a different Doralice."[^ref-29]
 
 Contemporary reception was mixed, with French publications rating the PC version highly (90-91%) while Amiga reviews ranged more widely from 47% to 80%.[^ref-7] The *I Heart Old Games* blog described it as "a less grotesque version of Leisure Suit Larry but with a more pronounced sensuality,"[^ref-8] while a Lemon Amiga user comment praised its "clever mix between eroticism and thriller."[^ref-9]
 
@@ -217,7 +217,7 @@ The protagonist Doralice returned in *Lost in Time* (1993), creating an informal
 
 ### Fan Projects
 
-The game is supported by ScummVM, the open-source adventure game engine, allowing it to be played on modern systems without requiring DOSBox.[^ref-10] Various abandonware sites have preserved both the floppy and CD-ROM versions for historical purposes.[^ref-18]
+The game has been supported by ScummVM, the open-source adventure game engine, since version 1.2.0, allowing it to be played on modern systems without requiring DOSBox.[^ref-10] Various abandonware sites have preserved both the floppy and CD-ROM versions for historical purposes.[^ref-18]
 
 ### Related Publications
 
