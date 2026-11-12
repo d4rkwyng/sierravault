@@ -5,11 +5,11 @@ birth_year: 1962
 death_year: null
 notable_games: ["Red Baron", "Stellar 7", "Arcticfox", "Aces of the Pacific"]
 companies: ["Dynamix", "Mad Otter Games"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Damon Slye
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -57,7 +57,7 @@ Arcticfox was the first original title Electronic Arts published for the Amiga.[
 
 ### Red Baron (1990)
 
-The MobyGames DOS credits for [[1990 - Red Baron|Red Baron]] read "Directed and Designed by Damon Slye", with Paul Bowman as Lead Programmer and "Flight model programmed by Damon Slye."[^ref-22] McClurg wrote that Slye "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat."[^ref-8] Slye has described the aim as more than a flight simulator: "we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-18] Computer Gaming World ranked it No. 4 of all time in 1996, writing that "there is little question that Red Baron is the better game" than Falcon 3.0.[^ref-19] Slye said he was not involved in the 1998 Red Baron 3D "other than I consulted for one day on the project."[^ref-18]
+The MobyGames DOS credits for [[1990 - Red Baron|Red Baron]] read "Directed and Designed by Damon Slye", with Paul Bowman as Lead Programmer and "Flight model programmed by Damon Slye."[^ref-22] McClurg wrote that Slye "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat."[^ref-8] Slye has described the aim as more than a flight simulator: "we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-18] Computer Gaming World named it its 1991 Simulation of the Year: "Red Baron from Sierra/Dynamix (Damon Slye, designer)."[^ref-35] It ranked it No. 4 of all time in 1996, writing that "there is little question that Red Baron is the better game" than Falcon 3.0.[^ref-19] Slye said he was not involved in the 1998 Red Baron 3D "other than I consulted for one day on the project."[^ref-18]
 
 ### Aces of the Pacific (1992)
 
@@ -89,14 +89,14 @@ Roles follow MobyGames' credit list for Slye[^ref-2] unless another source is gi
 | 1989 | Abrams Battle Tank | Director[^ref-2] |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | Design[^ref-2] |
 | 1989 | Deathtrack | Actor ("Starring")[^ref-2] |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Design[^ref-2] |
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director[^ref-2] |
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Producer, of the remake of his 1983 original[^ref-2] |
+| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Design (with Kevin Ryan); Producer; Flight Model[^ref-2][^ref-38] |
+| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director; Designer (with Jerry Luttrell); Mission Design (with David Selle)[^ref-2][^ref-39] |
+| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Producer and Designer, of the remake of his 1983 original[^ref-2][^ref-37] |
 | 1990 | [[1990 - Red Baron\|Red Baron]] | Director, Designer, Flight Model Programmer[^ref-22] |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | Actor (British Guard)[^ref-17] |
 | 1991 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer v1.5]] | Update of A-10 Tank Killer (no separate MobyGames credit)[^ref-2] |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Director, Lead Designer[^ref-33] |
-| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Director[^ref-2] |
+| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Director; Designer[^ref-2][^ref-36] |
 | 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | Designer, with Chris Shen (Computer Gaming World)[^ref-31][^ref-32]; Producer (MobyGames)[^ref-34] |
 | 1993 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7: Draxon's Revenge]] | Original Design[^ref-2] |
 | 1993 | MechWarrior (SNES) | Original MechWarrior game design[^ref-2] |
@@ -143,3 +143,8 @@ Roles follow MobyGames' credit list for Slye[^ref-2] unless another source is gi
 [^ref-32]: [Computer Gaming World #111 (October 1993), Annotated Listing of 20th Century Wargames — Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_111) — "Dynamix; Damon Slye & Chris Shen; 1992; $29.95"
 [^ref-33]: [MobyGames - Aces of the Pacific (DOS) credits (Wayback, May 31, 2025)](https://web.archive.org/web/20250531222717/https://www.mobygames.com/game/1419/aces-of-the-pacific/credits/dos/) — Director and Lead Designer: Damon Slye
 [^ref-34]: [MobyGames - Red Baron: Mission Builder (DOS) credits (Wayback, May 11, 2023)](https://web.archive.org/web/20230511054234/https://www.mobygames.com/game/2722/red-baron-mission-builder/credits/dos/) — Product Development: Producer, Damon Slye
+[^ref-35]: [Computer Gaming World #88 (November 1991), Game of the Year Awards — Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_88) — "the winner of 1991's Simulation of the Year is: Red Baron from Sierra/Dynamix (Damon Slye, designer)"
+[^ref-36]: [InterAction Magazine, Fall 1992 (Sierra On-Line) — Internet Archive scan](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — WWII: 1946 advertisement: "Designed by Damon Slye"
+[^ref-37]: [MobyGames - Stellar 7 (1990)](https://www.mobygames.com/game/938/stellar-7/) — DOS credits: Producer, Damon Slye; Designer, Damon Slye
+[^ref-38]: [MobyGames - David Wolf: Secret Agent (DOS) credits](https://www.mobygames.com/game/1610/david-wolf-secret-agent/credits/dos/) — Design: Kevin Ryan, Damon Slye; Producer: Damon Slye; Flight Model: Damon Slye
+[^ref-39]: [MobyGames - A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) — DOS credits: Director, Damon Slye; Design, Jerry Luttrell and Damon Slye; Mission Design, David Selle and Damon Slye
