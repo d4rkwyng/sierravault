@@ -10,18 +10,18 @@ series: After Dark
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: A 1998 Berkeley Systems collection of eleven mini-games starring characters
   from the After Dark screensaver series, released under Sierra's Attractions label.
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-After Dark Games represents a unique entry in Sierra's catalog - a collection of eleven mini-games based on the beloved After Dark screensaver series.[^ref-1] Released on October 29, 1998[^ref-8][^ref-34] by Sierra Attractions and [[Berkeley Systems]][^ref-1][^ref-3], this CD-ROM compilation transformed iconic screensaver characters into interactive gaming experiences for both Windows 95 and Macintosh platforms.[^ref-3] The collection featured games modeled after previously released screensavers from the After Dark series[^ref-1], including the famous Flying Toasters, Bad Dog, and Hula Girl characters.[^ref-1][^ref-31]
+After Dark Games represents a unique entry in Sierra's catalog - a collection of eleven mini-games based on the beloved After Dark screensaver series.[^ref-1] Released for Windows on October 29, 1998[^ref-8][^ref-34] by Sierra Attractions and [[Berkeley Systems]][^ref-1][^ref-3], this CD-ROM compilation transformed iconic screensaver characters into interactive gaming experiences for both Windows 95 and Macintosh platforms.[^ref-3] The collection featured games modeled after previously released screensavers from the After Dark series[^ref-1], including the famous Flying Toasters, Bad Dog, and Hula Girl characters.[^ref-1][^ref-31]
 
 J.C. Herz of The New York Times called it "a candy box of games and puzzles" and wrote that "these vest-pocket video games are, in their own way, as engaging and addictive as the mega-selling 40-hour sagas with souped-up 3-D sound and state-of-the-art computer graphics. Part of their appeal is sheer simplicity."[^ref-31] Computer Gaming World judged it "an interesting collection that will appeal to a wide audience."[^ref-32] Jack Eastman, who had co-created the screensaver, later said Berkeley Systems' philosophy "was to remain 'aggressively stupid'".[^ref-7]
 
@@ -30,7 +30,7 @@ J.C. Herz of The New York Times called it "a candy box of games and puzzles" and
 > **Publisher:** Sierra On-Line (Sierra Attractions label)[^ref-18][^ref-29]
 > **Engine:** Unknown/unnamed[^ref-29]
 > **Platforms:** Windows 3.x, Windows 95, Windows 98, Windows Me, Macintosh[^ref-9][^ref-10][^ref-18]
-> **Release Year:** 1998 (October 29)[^ref-1][^ref-8][^ref-34]
+> **Release Year:** 1998 (October 29, Windows)[^ref-1][^ref-8][^ref-34]
 > **Series:** After Dark
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Label (Sierra Attractions)
@@ -58,19 +58,19 @@ After Dark Games includes the following titles, each with "multiple levels of di
 | **Bad Dog 911** | Word Puzzle | Word scramble based on Bad Dog modules[^ref-1] |
 | **Mowin' Maniac** | Action | "Go crazy with Mowin' Man and turn some pesky gardeners into fertilizer"[^ref-8] |
 | **Hula Girl** | Platformer | Endless 2D platforming game based on the "Hula Twins" screensaver module[^ref-1] |
-| **Roof Rats** | Puzzle | Similar to SameGame; match and clear colored tiles[^ref-1] |
+| **Roof Rats** | Puzzle | Similar to SameGame; match and clear colored tiles[^ref-1]. GameSpot calls it "a Tetris-type game"[^ref-17], and Computer Gaming World describes it as a challenge "to eliminate colored rooms in order to rescue twisted tenants"[^ref-32] |
 | **Zapper** | Trivia | Knowledge-based trivia game[^ref-1] |
 | **Fish Shtick** | Word Puzzle | Aquatic-themed word scramble[^ref-1] |
 | **Foggy Boxes** | Strategy | Classic dots and boxes game[^ref-1] |
 | **MooShu Tiles** | Puzzle | Mahjong-style tile matching game[^ref-1] |
-| **Rodger Dodger** | Arcade | Clone of the game Raimais[^ref-1] |
+| **Rodger Dodger** | Arcade | Clone of the game Raimais, according to Wikipedia[^ref-1]. GameSpot and MobyGames spell the title "Roger Dodger"[^ref-17][^ref-18] |
 | **Solitaire** | Card | Classic solitaire; Computer Gaming World noted it was the only one of the eleven that "appears without some sort of mutilation" by the After Dark motif[^ref-32] |
 
 The collection also includes "a free After Dark Games screen saver" as a bonus feature.[^ref-8]
 
 ### Puzzles and Mechanics
 
-GameSpot granted that "the developers took time to produce sharp, clear graphics, and each game has original music," though "the short music bites loop endlessly."[^ref-17] Players are warned not to "get burnt in the high-flying arcade action of Toaster Run"[^ref-8], while other games offer varied challenges from puzzle-solving to arcade reflexes.
+GameSpot granted that "the developers took time to produce sharp, clear graphics, and each game has original music," though "the short music bites loop endlessly."[^ref-17] GameFAQs' marketing copy bills Toaster Run as "high-flying arcade action"[^ref-8], while other games offer varied challenges from puzzle-solving to arcade reflexes.
 
 One reviewer spent "two hours after I first popped the After Dark Games CD into my computer I was still sitting there, mesmerized."[^ref-12] Herz noted the games "all of which take less than 10 minutes" are "miniature experiences, simple to pick up and put down."[^ref-31]
 
@@ -81,9 +81,9 @@ One reviewer spent "two hours after I first popped the After Dark Games CD into 
 | Publication | Score | Reviewer | Notes |
 |-------------|-------|----------|-------|
 | GameSpot (Apr 29, 2000) | 5.5/10 | Nicole Freeman | "Unless you have an enormous crush on Hula Girl, you can do better elsewhere"[^ref-17] |
-| Computer Gaming World (#177, Apr 1999) | Star rating not legible in the scan | Samuel Baker II | "If nothing else, it makes for a good time-killer"[^ref-32] |
+| Computer Gaming World (#177, Apr 1999) | 3/5 stars | Samuel Baker II | "If nothing else, it makes for a good time-killer"[^ref-32] |
 | The New York Times | Positive | J.C. Herz | Praised simplicity and addictiveness[^ref-31] |
-| MobyGames Critics | 76% | Aggregate | Generally favorable[^ref-18] |
+| MobyGames Score | 7.6/10 (76%) | User average | 16 votes[^ref-18] |
 | Amazon | 4.2/5 | Users | 41 global ratings (as of October 27, 2026)[^ref-9] |
 | MyAbandonware | 4.24/5 | Community | 253 votes (as of October 27, 2026)[^ref-14] |
 | GameFAQs | Great | Users | 17 ratings[^ref-8] |
@@ -99,7 +99,7 @@ MobyGames player reviews have been positive:
 - "A small wonder-package, which contains all those games which quickly de-stress a wound up person." - M. van Hilten[^ref-18]
 - "I would say...'I know a great game package you can get for your kids...but you should not tell them that you have it for a couple of months while you play all the games!!!'" - Renee RAsul[^ref-18]
 
-However, compatibility issues have emerged with modern systems, particularly affecting Intel Mac users who report that "the new intel processor will not recognize these old games."[^ref-20]
+However, compatibility issues have emerged with modern systems, and in 2007 one Apple Discussions poster wrote that they had read that "the new intel processor will not recognize these old games."[^ref-20]
 
 ## Development
 
@@ -138,18 +138,15 @@ After Dark Games turned screensaver characters (Flying Toasters, Bad Dog, Mowin'
 | Mac | 24.2MB | .sit[^ref-21] |
 | Windows | 32 MB | Not stated[^ref-14] |
 
-### Collections
-
-After Dark Games was also packaged in other Sierra releases: After Dark Midnight Collection, Hoyle Casino 3 (1998), Hoyle Card Games 3 (1999), Hoyle Casino 4 (1999) and Hoyle Word Games (1999).[^ref-29] A demo (7.08 MB) offers five free rounds of Roof Rats, Bad Dog and Mowin' Maniac.[^ref-29]
-
 ### Version History
 
 The screensaver releases that preceded the game:
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| After Dark 1.0 | 1989 | Mac | Original screensaver (Windows version followed in 1991)[^ref-1] |
-| After Dark 2.0 | 1992 | Windows | Listed by Wikipedia as "the first official release for Windows"[^ref-1] |
+| After Dark 1.0 | 1989 | Mac | Original screensaver; see [[1989 - After Dark]][^ref-1] |
+| After Dark 2.0 | By October 1990 | Mac | Listed in *Macworld*'s October 1990 mail-order catalog[^ref-36] |
+| After Dark for Windows 1.0 | March 1991 | Windows | First Windows release[^ref-35] |
 | After Dark 4.0 | 1996 | Multi | Berkeley Systems' fourth screensaver release[^ref-1] |
 | After Dark Games | 1998 | Win/Mac | Game compilation release[^ref-1] |
 | After Dark X | 2003 | Mac OS X | Official version for Mac OS X by Infinisys, Ltd. of Japan, released in May 2003[^ref-1] |
@@ -170,9 +167,15 @@ GOG wishlist requests demonstrate ongoing preservation interest, with users shar
 
 Another user noted: "I'm not even here for the games. I am however, here for the massive trove/suite of screensavers/modules produced over by Berkley. To even have them running in a little window themselves would be a fascinating way to recapture a major stone of screensaver history."[^ref-25]
 
+In August 2026 developer Jeff Halter released Afterglow, which he describes as "an emulator built specifically for running After Dark modules -- the original 68k module code, not a remake or port -- with no dependencies on ROMs or classic Mac OS". It runs the screensaver modules on modern macOS rather than the games.[^ref-37]
+
 ### Speedrunning
 
 Speedrun.com hosts a small set of leaderboards for several games in the collection.[^ref-19] Players compete in categories including "Toaster Run - Easy" with recorded times and verification.[^ref-26]
+
+### Collections
+
+After Dark Games was also packaged in other Sierra releases: After Dark Midnight Collection, Hoyle Casino 3 (1998), Hoyle Card Games 3 (1999), Hoyle Casino 4 (1999) and Hoyle Word Games (1999).[^ref-29] A demo (7.08 MB) offers five free rounds of Roof Rats, Bad Dog and Mowin' Maniac.[^ref-29]
 
 ## Easter Eggs and Trivia
 
@@ -184,13 +187,11 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 - GameSpot noted the short music loops repeat endlessly[^ref-17]
 - The game was marketed as "it's not just a screen-saver anymore!"[^ref-14]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not sold on GOG; it has only a community Dreamlist entry[^ref-25]
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - Community Dreamlist[^ref-25]
-
-## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/after-dark-games-3fu) - Community preservation site[^ref-21]
@@ -217,7 +218,7 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 [^ref-13]: [MobyGames Credits](https://www.mobygames.com/game/4821/after-dark-games/credits/) - Full development credits
 [^ref-14]: [MyAbandonware - After Dark Games](https://www.myabandonware.com/game/after-dark-games-3fu) - Interface description, marketing quotes
 [^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/after-dark-games-review/1900-2537844/) - Contemporary critical assessment, Nicole Freeman review
-[^ref-18]: [MobyGames Player Reviews](https://www.mobygames.com/game/4821/after-dark-games/) - Aggregate critics rating, player reviews
+[^ref-18]: [MobyGames Player Reviews](https://www.mobygames.com/game/4821/after-dark-games/) - User score (7.6 average from 16 votes), player reviews
 [^ref-19]: [Speedrun.com Leaderboards](https://www.speedrun.com/adg) - Competitive community activity
 [^ref-20]: [Apple Discussions - Compatibility](https://discussions.apple.com/thread/966505) - Intel Mac issues, Mushu Tiles unavailability
 [^ref-21]: [Macintosh Repository](https://www.macintoshrepository.org/3569-after-dark-games) - System requirements, file specifications
@@ -230,3 +231,6 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 [^ref-32]: [Computer Gaming World #177 (April 1999), p. 217 - Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_177) - Samuel Baker II review of After Dark Games
 [^ref-33]: [Wikipedia - Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) - 1997 acquisition by CUC's Sierra On-Line division; founders later founded MoveOn.org
 [^ref-34]: [Metacritic - After Dark Games](https://www.metacritic.com/game/after-dark-games/) - Release date (Oct 29, 1998), publisher and developer listing
+[^ref-35]: [TechRepublic - Flying Toasters: A look back at After Dark for Windows 1.0 (Greg Shultz, 14 April 2011; Wayback Machine, 10 January 2016)](https://web.archive.org/web/20160110001713/http://www.techrepublic.com/pictures/flying-toasters-a-look-back-at-after-dark-for-windows-10/) - "In March of 1991, Berkeley Systems released the After Dark for Windows 1.0 screen saver"; $49.95; 35 screen savers
+[^ref-36]: [Macworld - mail-order catalog (October 1990)](https://archive.org/details/MacWorld_9010_October_1990) - Lists "After Dark 2.0"
+[^ref-37]: [Afterglow Brings Classic After Dark Screen Savers to Modern macOS - MacRumors, 28 August 2026](https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/) — Halter has released Afterglow; "no dependencies on ROMs or classic Mac OS"
