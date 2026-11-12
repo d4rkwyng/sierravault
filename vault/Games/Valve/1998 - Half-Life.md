@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Kelly Bailey]
 description: "Half-Life is a science fiction first-person shooter developed by Valve Corporation and published by Sierra Studios, released on November 19, 1998 for Microsoft Windows."
 tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -260,6 +260,7 @@ The game's commercial and critical success enabled Valve to build Steam, which l
 Half-Life accumulated an impressive collection of accolades:
 - **Action Game of the Year (PC)** – Academy of Interactive Arts and Sciences, Interactive Achievement Awards[^ref-76][^ref-77]
 - **Computer Game of the Year** – Academy of Interactive Arts and Sciences, Interactive Achievement Awards[^ref-76]; listed as "Computer Game of the Year -AIAS" on half-life.com[^ref-3]
+- **Game of the Year** – *Computer Gaming World* Premier Awards (April 1999, #177)[^ref-78]
 - **Best PC Game** – Game Critics Awards, E3 1998 (per Wikipedia)[^ref-1]
 - **Best Action Game** – Game Critics Awards, E3 1998 (per Wikipedia)[^ref-1]; Filfre reports a "Best Action Game" title at E3 June 1997[^ref-34]
 - **Best Game of All Time** – PC Gamer[^ref-3]
@@ -391,3 +392,4 @@ Yet Half-Life's legacy extends beyond design influence to its role in establishi
 [^ref-75]: Jeff Green. [Computer Gaming World – Half-Life review (via GameSpot, Wayback)](https://web.archive.org/web/20020209221334/http://www.gamespot.com/action/halflif/review_cgw.html) – "one of the best games of any year, an instant classic"
 [^ref-76]: [Academy of Interactive Arts & Sciences – Interactive Achievement Awards winners (Wayback, 1999)](https://web.archive.org/web/19990909080737/http://www.interactive.org:80/iaa/99winners.html) – personal computer category: Action Game of the Year and Computer Game of the Year, Half-Life, Sierra Studios/Valve
 [^ref-77]: [Academy of Interactive Arts & Sciences – Half-Life award page (Wayback, 2000)](https://web.archive.org/web/20000306035858/http://www.interactive.org:80/iaa/halflife.html) – Action Game, Half-Life, Sierra Studios/Valve; accepted on behalf of Sierra Studios by Dave Grenewetzki
+[^ref-78]: [Computer Gaming World #177 (April 1999) – Premier Awards, "Game of the Year"](https://archive.org/details/Computer_Gaming_World_Issue_177) – Half-Life named Game of the Year; "Rarely has a game been more deserving of being named Game of the Year"
