@@ -10,15 +10,13 @@ series: Leisure Suit Larry
 engine: AGI
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: '**Leisure Suit Larry in the Land of the Lounge Lizards** stands as one
-  of Sierra On-Line''s most distinctive and controversial adventure games. Released in
-  1987,...'
+last_updated: '2026-11-11'
+description: 'Sierra On-Line''s 1987 AGI adventure, Al Lowe''s comedic remake of the text game Softporn Adventure, in which Larry Laffer tries to lose his virginity in the neon city of Lost Wages, Nevada.'
 tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,8 +28,8 @@ Despite initial commercial struggles, with only 4,000 copies sold in its first m
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Al Lowe]], [[Mark Crowe]], [[Chuck Benton]] (Softporn Adventure, credited)[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-8]
-> **Platforms:** MS-DOS, Apple II (1987); Atari ST, Macintosh, Amiga, Apple IIGS, TRS-80 CoCo (1988); Windows (2021 re-release)[^ref-6]
-> **Release Year:** 1987 (June 4, MS-DOS)[^ref-6]
+> **Platforms:** MS-DOS, Apple II (1987); Atari ST, Macintosh, Amiga, Apple IIGS, TRS-80 CoCo (1988); Windows and macOS via ScummVM (January 17, 2013) and Linux (December 17, 2015) per PCGamingWiki[^ref-17]; MobyGames lists a Windows release dated August 16, 2021[^ref-6]
+> **Release Year:** 1987 (June 4, MS-DOS, per MobyGames[^ref-6] and PCGamingWiki[^ref-17]; GameFAQs lists July 5, 1987[^ref-45])
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-10]
@@ -53,7 +51,9 @@ The 1991 VGA remake transitioned to Sierra's SCI1 engine, implementing a point-a
 
 ### Structure and Progression
 
-Before gameplay begins, players must answer five questions to prove they are over 18; Hardcore Gaming 101 notes these mostly revolve "around American trivia from the '70s, so a lot of it is pretty outdated"[^ref-19]. One GameFAQs walkthrough author put it this way: "The questions are old and many are probably not even known to non-American adults that didn't live in the US during the '80s"[^ref-22].
+Before gameplay begins, players must answer five questions to prove they are over 18; Hardcore Gaming 101 notes these mostly revolve "around American trivia from the '70s, so a lot of it is pretty outdated"[^ref-19]. One GameFAQs walkthrough author put it this way: "The questions are old and many are probably not even known to non-American adults that didn't live in the US during the '80s"[^ref-22]. Al Lowe's own site notes that in the original 1987 EGA version the quiz can be bypassed by pressing Alt-X (Ctrl-Alt-X in the 1991 VGA remake)[^ref-46]; PCGamingWiki gives the same combinations for the screen with the first question[^ref-17].
+
+A clock runs in real time during play, and if the player takes too long Larry kills himself[^ref-19]. Wikipedia gives the limit as seven real-time hours (eight in the 1991 remake)[^ref-8]. A complete GameFAQs walkthrough totals 222 points[^ref-22].
 
 The game's structure is relatively simple by modern standards. As one reviewer summarized: "You're not trying to become king, or save the world/galaxy, or solve crimes – you're just trying to get laid. Fair enough"[^ref-19]. One player on a GameFAQs forum claimed the original can be beaten "in like 20 minutes" if you already know what to do[^ref-23], though first-time players will spend considerably longer navigating the puzzles and exploring the world.
 
@@ -88,13 +88,13 @@ Time magazine included it on their 2012 list of the 100 greatest video games, no
 
 The game's creation story begins with Sierra's 1981 text adventure **Softporn Adventure**, created by Chuck Benton[^ref-1]. Al Lowe had joined Sierra in 1982. He made Disney-licensed titles such as The Black Cauldron and Donald Duck's Playground, and in 1986 he was lead programmer on King's Quest III and the original Police Quest[^ref-5]. Accounts differ on how the remake began. The Digital Antiquarian describes Ken Williams, encouraged in late 1986 by the success of Infocom's *Leather Goddesses of Phobos*, deciding to revisit Softporn and choosing Lowe for the job[^ref-25]; Wikipedia says instead that in 1986, after Sierra lost a Disney license, Lowe suggested remaking Softporn and Williams agreed[^ref-8]. Upon playing the original, Lowe's immediate reaction was that "this game is so out of touch it should be wearing a leisure suit!"[^ref-25]
 
-Recognizing that a straight adaptation wouldn't work, Lowe proposed a radical reimagining to Ken Williams. As Lowe recalled, he told Ken Williams there was "no way I could bring this game into the 80's unless he let me make fun of that life style," adding, "it's so behind the times it might as well be wearing a leisure suit!"[^ref-1] Williams approved the concept, and Lowe spent approximately three months developing what would become his most famous creation[^ref-25].
+Recognizing that a straight adaptation wouldn't work, Lowe proposed a radical reimagining to Ken Williams. As Lowe recalled, he told Ken Williams there was "no way I could bring this game into the 80's unless he let me make fun of that life style," adding, "it's so behind the times it might as well be wearing a leisure suit!"[^ref-1] Williams approved the concept, and Lowe says he finished the game in about three months[^ref-1], a figure The Digital Antiquarian repeats[^ref-25].
 
 ### Production
 
 Al Lowe served as both designer and composer for the original game[^ref-6]. The iconic theme song was inspired by Irving Berlin's "Alexander's Ragtime Band": hearing it on the radio, Lowe felt "it sounded so unusual, so, different, so fresh" next to most computer game music that he wrote something "with the same pep, simplicity, humor, and out-of-sync attitude"[^ref-29]. Initially created casually with the attitude of "What the hell? It was only for a computer game," Lowe later marveled that his "silly little ditty would be heard by millions of gamers, many of whom have sworn revenge against me for making it so 'whistle-able' that they can't get it out of their heads"[^ref-29].
 
-The development process was notably collaborative. Lowe worked primarily from his home[^ref-30] and conducted extensive beta testing because, as he explained, "this was the first non-children's game I had written, so I was scared to death it would be 'dumb' and not understand everything a player could type in"[^ref-25][^ref-1]. Lowe believes he kept only one sentence of Chuck Benton's text, his description of Lefty's back room, "something about 'the peeling paint gives the roaches something to watch'"[^ref-1].
+Sierra could spare artist [[Mark Crowe]] for only four weeks, because he was working full-time on another project (which became *Space Quest I*); Lowe says Crowe worked weekends and evenings and created everything seen on screen in that time[^ref-1]. Lowe worked primarily from his home[^ref-30] and conducted extensive beta testing because, as he explained, "this was the first non-children's game I had written, so I was scared to death it would be 'dumb' and not understand everything a player could type in"[^ref-25][^ref-1]. Lowe believes he kept only one sentence of Chuck Benton's text, his description of Lefty's back room, "something about 'the peeling paint gives the roaches something to watch'"[^ref-1].
 
 ### Technical Achievements
 
@@ -102,7 +102,53 @@ The original game was built using Sierra's Adventure Game Interpreter (AGI) syst
 
 The 1991 VGA remake utilized Sierra's more advanced SCI1 engine[^ref-17], featuring enhanced graphics and improved sound-card support; like the original, it has essentially no voice acting, since the series was not voiced until the CD-ROM edition of Leisure Suit Larry 6[^ref-35]. The remake also introduced Josh Mandel's humorous copy protection materials, which Al Lowe said "still make me laugh 17 years later"[^ref-33].
 
-## Trivia
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.00 | June 4, 1987 | DOS | Original AGI release on two 5.25" 360KB floppy disks[^ref-15][^ref-6] |
+| — | June 4, 1987 | Apple II | MobyGames release date[^ref-6] |
+| — | 1988 | Atari ST (April), Macintosh (April), Amiga (May), Apple IIGS (June), TRS-80 CoCo | MobyGames release dates; PCGamingWiki instead lists Mac OS (Classic) as June 4, 1987[^ref-6][^ref-17] |
+| — | 1991 | DOS, Mac, Amiga | SCI1 VGA remake, covered on its own page[^ref-8] |
+| — | January 17, 2013 | Windows, macOS | ScummVM re-release[^ref-17] |
+| — | December 17, 2015 | Linux | ScummVM re-release[^ref-17] |
+
+**AGI Interpreter Versions:**[^ref-15]
+
+| Game Version | Interpreter | Notes |
+|--------------|-------------|-------|
+| Tested copy | AGI 2.917 | DOS Days' copy; it calls 2.917 the most up-to-date interpreter released for this game |
+
+**Copy Protection:** SuperLok 3.2 key-disk check on the original disks, plus the five-question age quiz[^ref-15]
+
+### Technical Specifications
+
+| Specification | Details |
+|--------------|---------|
+| Engine | AGI (Adventure Game Interpreter)[^ref-10] |
+| Resolution | 160×200 (pixels doubled horizontally)[^ref-44] |
+| Colors | 16[^ref-44] |
+| Interface | Full-sentence text parser, optional joystick; DOS Days says it understands over 900 words[^ref-15] |
+| Sound | PC Speaker or Tandy 3-voice[^ref-15] |
+| RAM Required | 256KB[^ref-15] |
+| Media | Two 5.25" 360KB floppy disks (v1.00)[^ref-15] |
+| Data Size | ~700KB total[^ref-3] |
+
+#### System Requirements (Original)
+
+| Component | Minimum |
+|-----------|---------|
+| CPU | 8088 or 8086[^ref-15] |
+| RAM | 256KB[^ref-15] |
+| Graphics | CGA, EGA, Hercules, or Tandy[^ref-15] |
+| Storage | Original media two 5.25" floppy disks; 540KB installed size on hard disk[^ref-15] |
+| Sound | PC Speaker (or Tandy 3-voice)[^ref-15] |
+
+#### Modern Compatibility
+- **ScummVM**: rated Good on the ScummVM compatibility list[^ref-41]
+- **Windows, macOS, Linux**: the GOG release is pre-packaged with ScummVM[^ref-17]
+
+### Easter Eggs and Trivia
 
 - When [[Al Lowe]] first played the text adventure *Softporn Adventure*, he remarked to [[Ken Williams]]: "This game is so out of date, anybody who plays it would have to wear a leisure suit"—inspiring both the protagonist's look and the game's title[^ref-2]
 - The iconic theme song was inspired by "Alexander's Ragtime Band", which Lowe said "sounded so unusual, so, different, so fresh" compared to most computer game music[^ref-29]
@@ -111,38 +157,11 @@ The 1991 VGA remake utilized Sierra's more advanced SCI1 engine[^ref-17], featur
 - Typing "masturbate" produces the response: "Larry, the whole idea was to stop doing that!"[^ref-19]
 - Typing "look at pussy" generates: "Obviously, restraint is no problem for you, Larry"[^ref-19]
 - More hint books were sold for Leisure Suit Larry than copies of the actual game itself—an unusual achievement recognized by Guinness World Records[^ref-34]
-- The game became so widespread through piracy in Russia that a consultant told Lowe every computer he'd ever examined had a Sierra directory with an LSL subdirectory—"it was like it was part of DOS!"[^ref-30]
+- Lowe recalled a Russian computer consultant who said every computer he had been on in Russia had a Sierra directory with an LSL sub-directory—"it was like it was part of DOS!"—and then joked, "I guess we only sold one copy to the whole of Russia though!"[^ref-30]
 - The game's age verification quiz has dated badly: one GameFAQs walkthrough author notes many questions "are probably not even known to non-American adults that didn't live in the US during the '80s"[^ref-22]
 - Al Lowe conducted extensive beta testing because "this was the first non-children's game I had written, so I was scared to death it would be 'dumb'"[^ref-25]
 - Sierra co-founder [[Ken Williams]] makes a cameo appearance in the game[^ref-25]
 - Al Lowe recalls the game sold only 4,000 copies in its first month, "the worst initial sales in the history of Sierra"[^ref-1] (Guinness gives 2,000[^ref-4]), yet Guinness calls it "the biggest sleeper hit in adventure gaming history"[^ref-4]
-
-## Technical Information
-
-| Specification | Details |
-|--------------|---------|
-| Engine | AGI (Adventure Game Interpreter)[^ref-10] |
-| Resolution | 160×200 (pixels doubled horizontally)[^ref-44] |
-| Colors | 16[^ref-44] |
-| Interface | Full-sentence text parser, optional joystick[^ref-15] |
-| Sound | PC Speaker or Tandy 3-voice[^ref-15] |
-| RAM Required | 256KB[^ref-15] |
-| Media | Two 5.25" 360KB floppy disks (v1.00)[^ref-15] |
-| Data Size | ~700KB total[^ref-3] |
-
-### System Requirements (Original)
-
-| Component | Minimum |
-|-----------|---------|
-| CPU | 8088 or 8086[^ref-15] |
-| RAM | 256KB[^ref-15] |
-| Graphics | CGA, EGA, Hercules, or Tandy[^ref-15] |
-| Storage | Two floppy drives or hard disk |
-| Sound | PC Speaker (or Tandy 3-voice)[^ref-15] |
-
-### Modern Compatibility
-- **ScummVM**: rated Good on the ScummVM compatibility list[^ref-41]
-- **Windows 10/11**: via ScummVM[^ref-41]
 
 ## Legacy
 
@@ -154,11 +173,18 @@ The franchise would go on to span multiple sequels, and Sierra co-founder Ken Wi
 
 An essay in the anthology *Critical Hits* described the series as a "profoundly lonely" representation of American masculinity[^ref-35]. Other modern coverage has been harsher: Metro's May 2025 report on the series being delisted from Steam called it a "super sexist" franchise[^ref-36].
 
+### Collections
+
+The game was bundled in several compilations, among them *3-D Animated Adventure Games Starter Pack*, *Leisure Suit Larry Collection*, *Leisure Suit Larry Triple Pack*, *Leisure Suit Larry: Ultimate Pleasure Pack* and *Leisure Suit Larry's Greatest Hits and Misses!*[^ref-45]. PCGamingWiki notes a Polish localisation in the retail *Greatest Hits & Misses!* collection and a Spanish translation, VGA version only, in the *Ultimate Pleasure Pack*[^ref-17]. The GOG.com bundle is based on the 1997 *Leisure Suit Larry: Collection Series* and contains this game (EGA and VGA versions), *Goes Looking for Love (in Several Wrong Places)*, *III*, *5* (VGA only) and *6* (VGA and SVGA CD-ROM)[^ref-17].
+
 ## Downloads
 
 **Purchase / Digital Stores**
 - Sold on GOG.com in the *Leisure Suit Larry* bundle (4.4/5 user rating), whose store blurb still calls it *Leisure Suit Larry's Greatest Hits and Misses*[^ref-13]; PCGamingWiki says the bundle includes both this EGA original and the 1991 VGA remake[^ref-17]
 - Previously available on Steam (now delisted)[^ref-37]
+
+**Manuals & Extras**
+- Al Lowe's site has a page listing all the age-quiz questions and answers for both the original and the VGA remake[^ref-46]
 
 ## See Also
 
@@ -211,3 +237,5 @@ An essay in the anthology *Critical Hits* described the series as a "profoundly 
 [^ref-42]: [Computer Gaming World #148 (November 1996), pp. 74 and 113](https://archive.org/download/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – "150 Best Games of All Time" #69 (p. 74) and "The 15 Funniest Computer Games" #5 (p. 113)
 [^ref-43]: [Time – All-TIME 100 Video Games: Leisure Suit Larry (1987)](https://web.archive.org/web/20121118054352/http://techland.time.com:80/2012/11/15/all-time-100-video-games/slide/leisure-suit-larry-1987/) – Wayback copy, November 2012
 [^ref-44]: [AGI Specifications – PICTURE resources](https://www.agidev.com/articles/agispec/agispecs-7.html) – 160x200x16 mode; "each AGI pixel has a width of two normal 320x200 pixels"
+[^ref-45]: [GameFAQs – Leisure Suit Larry in the Land of the Lounge Lizards (PC) release data](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/data) – "Release: July 5, 1987"; compilations list
+[^ref-46]: [Al Lowe – Clues & Cheats (LSL1 age quiz)](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – "In the original, 1987 EGA version, you can bypass the trivia quiz completely by just pressing Alt-X"
