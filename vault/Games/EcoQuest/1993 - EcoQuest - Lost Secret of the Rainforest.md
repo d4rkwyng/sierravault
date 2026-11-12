@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
   game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:
@@ -19,7 +19,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -196,7 +196,7 @@ Multiple fan-created walkthroughs and guides have been produced over the years, 
 
 *EcoQuest 2: Lost Secret of the Rainforest* continued Sierra's environmental education series in a new setting, but reviewers have found it short of its predecessor: Adventure Gamers called it "less enjoyable than its predecessor",[^ref-18] and Jimmy Maher wrote that "it just doesn't all come together as well as it did the first time around."[^ref-34]
 
-It was the last *EcoQuest* game. The Discovery Series itself ended in 1993, when Sierra acquired Bright Star Technology as its educational division and retired the line's other series and characters apart from Dr. Brain.[^ref-34]
+It was the last *EcoQuest* game. Sierra acquired Bright Star Technology on July 6, 1992,[^ref-41] and the Discovery Series itself ended in 1993, when Bright Star became Sierra's official educational division and the line's other series and characters were retired apart from Dr. Brain.[^ref-34]
 
 ## Downloads
 
@@ -259,3 +259,4 @@ It was the last *EcoQuest* game. The Discovery Series itself ended in 1993, when
 [^ref-38]: [Kultboy – Power Play 5/93 review scan, EcoQuest 2](https://www.kultboy.com/index.php?site=t&id=3654) – p. 38: MS-DOS 74%, Grafik 78%, Sound 67%
 [^ref-39]: [Kultboy – PC Joker 4/93 review scan, Eco Quest II](https://www.kultboy.com/index.php?site=t&id=1939) – p. 30: overall 60%; Grafik 83%, Sound 69%, Atmosphäre 64%, Motivation 56%
 [^ref-40]: [Super Page 58 – Digitiser review archive: Lost Secret of the Rainforest (PC), 27/3/93](https://www.superpage58.com/digitiser-video-game-reviews-archive-lost-secret-of-the-rainforest-pc-1993.htm) – Teletext PC review pages 1-2: "OVERALL" three and a half blocks, "Pass the sick bag..."
+[^ref-41]: [Sierra On-Line Form 10-Q, quarter ended June 30, 1995, filed 1995-08-14 (SEC accession 0000891020-95-000357; Wayback)](https://web.archive.org/web/2020/https://www.sec.gov/Archives/edgar/data/724991/0000891020-95-000357.txt) – "On July 6, 1992, the Company acquired Bright Star, a developer and publisher of educational computer software"
