@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: null
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in Dynamix''s Front
   Page Sports football series, released for DOS in 1992.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -208,7 +208,7 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports — Football Pro (1993)]]
 - [[Front Page Sports Series]] — series overview
 - [[Dynamix]] — developer
-- [[Sierra On-Line]] — publisher
+- [[Sierra On-Line]] — parent company
 - [[1994 - Front Page Sports - Baseball Pro]]
 - [[1994 - Front Page Sports - Football Pro '95]]
 - [[1995 - Front Page Sports - Football Pro '96]]
@@ -240,12 +240,12 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 [^ref-18]: [Internet Archive – FPS Football Pro '96 Full](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – Pro '96 preservation
 [^ref-19]: [GM Games Forum – VPNFL99 Mod](https://web.archive.org/web/20260131055418/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – Pro '98 mod details, contributors
 [^ref-20]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – Pro '95 on Android tablets via DOSBox
-[^ref-25]: [MobyGames – Front Page Sports: Football (1992)](https://www.mobygames.com/game/18574/front-page-sports-football/) – description, ~200 stock plays, nine camera angles, CGW Oct 1993 award, Moby Score 7.7 (read via the MobyGames API, October 2026)
+[^ref-25]: [MobyGames – Front Page Sports: Football (1992)](https://www.mobygames.com/game/18574/front-page-sports-football/) – description, ~200 stock plays, nine camera angles, CGW Oct 1993 award, Moby Score 7.7 (as of October 2026)
 [^ref-26]: [MobyGames – Front Page Sports: Football credits (DOS, 1992)](https://www.mobygames.com/game/18574/front-page-sports-football/credits/dos/) – full 28-person credits
 [^ref-27]: [MobyGames – Front Page Sports: Football specs](https://www.mobygames.com/game/18574/front-page-sports-football/specs/) – DOS system requirements, sound and input devices
 [^ref-28]: [Computer Gaming World #111 (October 1993), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_111) – "The winner of 1993 Sports Game of the Year is: Front Page Sports: Football (Dynamix), Patrick Cook, designer"
 [^ref-29]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – best games of all time: "11. FPS Football 1995 Sierra, 1994"
-[^ref-30]: [MobyGames – NFL Football Pro '99](https://www.mobygames.com/game/219695/nfl-football-pro-99/) – Windows release 22 December 1998 (read via the MobyGames API)
+[^ref-30]: [MobyGames – NFL Football Pro '99](https://www.mobygames.com/game/219695/nfl-football-pro-99/) – Windows release 22 December 1998
 [^ref-31]: [CNNfn – "Sierra recalls popular game" (January 21, 1999), Wayback Machine](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) – NFL Football Pro '99, "which shipped to retailers just four weeks ago, has been pulled from retail shelves"
 [^ref-32]: [MobyGames – Front Page Sports: Football (Wayback, 19 February 2026)](https://web.archive.org/web/20260219033342/https://www.mobygames.com/game/18574/front-page-sports-football/) – "Critics 78% (7)", Moby Score 7.5 at that date
 [^ref-33]: [Computer Gaming World #104 (March 1993), p. 48, Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_104) – Wallace Poulter, "Three Computer Football Games": "A better debut would be harder to imagine"; animation speed, simulation speed and manual criticisms
