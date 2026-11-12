@@ -11,7 +11,7 @@ engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
 last_updated: '2026-11-12'
-composer: [Jan Hammer]
+composer: [Jan Hammer, Mark Seibert, Robert Atesalp]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, the third Police Quest game and
   the last designed by Jim Walls, in which Sonny Bonds hunts the cult behind the
@@ -26,7 +26,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 
 Police Quest III: The Kindred is a 1991 police procedural adventure game developed and published by Sierra On-Line, marking the third installment in the Police Quest series and the final entry designed by former California Highway Patrol officer [[Jim Walls]][^ref-1][^ref-30]. The game continues the story of Detective Sergeant Sonny Bonds in the fictional town of Lytton[^ref-4][^ref-13]. Unlike its text-parser predecessors, Police Quest III is completely mouse-driven, with a point-and-click interface[^ref-1]; Computer Gaming World suggested that even players who disliked earlier Sierra releases "may want to try the new generation"[^ref-6].
 
-Adventure Gamers praised its "excellent use of digitized characters," calling it "the first Sierra game to really make use of this technology in the VGA era"[^ref-13]. Sierra's box copy promoted "a searing music-card compatible stereo soundtrack by Jan Hammer, of Miami Vice soundtrack fame"[^ref-5]. Sierra marketed the Police Quest series as "the most accurate simulation of police action you can get," claiming it was "so realistic it's used by police departments across the country as a training tool"[^ref-5].
+Adventure Gamers praised its "excellent use of digitized characters," calling it "the first Sierra game to really make use of this technology in the VGA era"[^ref-13]. Sierra's box copy promoted "a searing music-card compatible stereo soundtrack by Jan Hammer, of Miami Vice soundtrack fame"[^ref-5]. Sierra marketed the Police Quest series as "the most accurate simulation of police action you can get," claiming it was "so realistic it's used by police departments across the country as a training tool"[^ref-5]. Computer Gaming World's review carried an editorial note that the series had been "so well-received by actual law enforcement agencies and personnel that Jim Walls' development company, Jim Walls Games, is working on a professional computerized training program using Sierra's toolkit"[^ref-6].
 
 The development of Police Quest III was marked by behind-the-scenes turmoil. Accounts of [[Jim Walls]]' departure differ: Wikipedia says he left "during the late development stages" with the game unfinished, as does Adventure Gamers ("substantially unfinished")[^ref-1][^ref-13], while the Digital Antiquarian says he left "shortly after completing" it, to join Tsunami Media[^ref-30]. Walls himself has said only that "circumstances" led him to leave[^ref-1]. [[Jane Jensen]], later the creator of the Gabriel Knight series, was hired to write the game's manual and, when the game fell behind schedule, helped write the script[^ref-36]; she has said she contributed "some story and puzzle ideas" but that Walls was the game designer: "But it was his game."[^ref-35] Computer Gaming World called it "the best of the series to date"[^ref-6], though later retrospectives have been considerably more critical of its rushed, incomplete feel[^ref-13][^ref-15].
 
@@ -93,7 +93,7 @@ Police Quest III received mixed to positive reviews upon release, with critical 
 
 French magazine Génération 4 gave the PC version 93% in November 1991, with reviewer Didier Latil[^ref-14]. Joystick magazine similarly awarded 90%, reviewed by Dany Boolauck in the same month[^ref-14]. Swedish publication Datormagazin gave the Amiga version a remarkable 95% in May 1992, reviewed by Göran Fröjdh[^ref-14].
 
-However, not all reviews were enthusiastic. Zero magazine gave a more modest 79% in January 1992, reviewed by Mike Gerrard[^ref-14]. Dragon magazine was notably harsh, awarding only 2 out of 5 stars in February 1992, reviewed by Hartley Lesser, Patricia Lesser, and Kirk Lesser[^ref-1]. Amiga Joker gave 64% in June-July 1992, reviewed by Joachim Nettelbeck[^ref-14].
+However, not all reviews were enthusiastic. Zero magazine gave a more modest 79% in January 1992, reviewed by Mike Gerrard[^ref-14]. Dragon magazine was notably harsh, awarding only 2 out of 5 stars in February 1992, reviewed by Hartley Lesser, Patricia Lesser, and Kirk Lesser[^ref-1]. Amiga Joker gave 64% in June-July 1992, reviewed by Joachim Nettelbeck[^ref-14]. Amiga User International gave the Amiga version 91% in November 1992, praising its graphics and realism[^ref-1][^ref-14]. MobyGames also lists a 92% critic score from Enchanted Realms for the DOS version[^ref-8].
 
 Later budget re-releases saw even more polarized reception. Amiga Action awarded 92% in December 1994[^ref-14], while CU Amiga Magazine gave 90% in February 1995[^ref-14]. However, Amiga Power gave only 51% in January 1995, reviewed by Paul Mellerick[^ref-14], and The One Amiga was particularly critical with just 32% in February 1995, reviewed by Harry Attrill[^ref-14].
 
@@ -106,8 +106,8 @@ Adventure Gamers similarly awarded 2 stars, stating that "The Kindred is simply 
 However, fan reception has remained warmer. User reviews on MobyGames include praise such as "This is my favorite PQ game, it combines my favorite part of PQ1 (the regular mundane cop stuff) with all of PQ2's detective stuff, adds great graphics, a great soundtrack, and a great story, and makes a nearly perfect game"[^ref-8]. Another user noted "PQ3 remains my favorite of the series. It combines the elements of both of the previous games"[^ref-8].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 75% (24 ratings; as of Jan 2026)[^ref-8]
-- **MobyGames Players:** 3.7/5[^ref-8]
+- **MobyGames Critics:** 74% (25 ratings; as of November 2026)[^ref-8]
+- **MobyGames Players:** 3.7/5 (64 ratings; as of November 2026)[^ref-8]
 - **IMDb:** 7.7/10 (84 votes; as of Oct 2026)[^ref-16]
 
 ## Development
@@ -294,7 +294,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-34]: [MobyGames – Police Quest 3: The Kindred credits (DOS), Wayback Machine capture of 7 February 2009](http://web.archive.org/web/20090207170835/http://www.mobygames.com/game/dos/police-quest-3-the-kindred/credits) – full credits incl. Documentation (Jane Jensen, James Walls), cast list
 [^ref-35]: [Game Developer – "Playing Catch-Up: Gabriel Knight's Jane Jensen" (17 May 2007)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) – Jensen on her role as a writer for PQ3 and its manual
 [^ref-36]: [Episodic Content Magazine – "Hunting Shadows: The Making of Gabriel Knight – Chapter 1" (10 September 2015)](https://episodiccontentmag.com/2015/09/10/gabrielknight_ch1/) – Jensen hired for the PQ3 manual, helped write the script
-[^ref-37]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Description (read via the MobyGames API): "the drug lord Jessie Bains has been put away for good"
+[^ref-37]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – Description: "the drug lord Jessie Bains has been put away for good"
 [^ref-38]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Police Quest 3: The Kindred (1991) ( Music Director )"
 [^ref-39]: [SpaceQuest.net – The Designers](https://spacequest.net/misc/designers/) – Mark Crowe: "I was directing Police Quest 3 after Space Quest 4 was released… so I came on board there in Eugene, Oregon"
 [^ref-40]: [Internet Archive – Manual (full text)](https://archive.org/stream/Police_Quest_3_-_Manual/Police_Quest_3_-_Manual_djvu.txt) – contents list: radio codes, vehicle/penal codes, "OPERATING YOUR DEPARTMENTAL VEHICLE 18", "NOTES 19"
