@@ -5,11 +5,11 @@ birth_year: 1954
 death_year: null
 notable_games: ["Mystery House", "The Wizard and the Princess", "Colossal Cave 3D Adventure"]
 companies: ["On-Line Systems", "Sierra On-Line", "CUC International", "Cygnus Entertainment"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Ken Williams
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Williams took a computer programming course in college in 1973, then left colleg
 
 ### Sierra Years (1979–1997)
 
-Williams and Roberta founded On-Line Systems in 1979;[^ref-16] MobyGames' biography and Game Developer's 2005 interview give 1980.[^ref-13][^ref-1] "Immediately after starting Sierra we moved to Yosemite," Ken recalled.[^ref-17] The family moved to Coarsegold, near Yosemite National Park, in October 1980, and on December 1, 1980, the company opened its first office in nearby Oakhurst.[^ref-25] It was renamed Sierra On-Line in 1982;[^ref-25] Sierra's own 1990 timeline dates the move of its headquarters from Coarsegold to Oakhurst to April 1983.[^ref-26] Their first game, [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (1980), is considered the first graphic adventure.[^ref-1] Williams was "Sierra's Chairman and CEO throughout the 18 year period from 1979 to 1996."[^ref-17] He described the division of labour in a 2022 interview: "I ran the company while she shipped all of her hits, but other than occasionally being involved in decisions that affected her products, I didn't really work directly with her."[^ref-6] Franchises developed under his supervision included [[1984 - King's Quest - Quest for the Crown|King's Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1986 - Space Quest - The Sarien Encounter|Space Quest]], Gabriel Knight, Laura Bow and Phantasmagoria.[^ref-1]
+Williams and Roberta founded On-Line Systems in 1979;[^ref-16] MobyGames' biography and Game Developer's 2005 interview give 1980.[^ref-13][^ref-1] "Immediately after starting Sierra we moved to Yosemite," Ken recalled.[^ref-17] The family moved to Coarsegold, near Yosemite National Park, in October 1980, and on December 1, 1980, the company opened its first office in nearby Oakhurst.[^ref-25] It was renamed Sierra On-Line in 1982;[^ref-25] Sierra's own 1990 timeline dates the move of its headquarters from Coarsegold to Oakhurst to April 1983.[^ref-26] Their first game, [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (1980), is considered the first graphic adventure.[^ref-1][^ref-25] Williams was "Sierra's Chairman and CEO throughout the 18 year period from 1979 to 1996."[^ref-17] He described the division of labour in a 2022 interview: "I ran the company while she shipped all of her hits, but other than occasionally being involved in decisions that affected her products, I didn't really work directly with her."[^ref-6] Franchises developed under his supervision included [[1984 - King's Quest - Quest for the Crown|King's Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1986 - Space Quest - The Sarien Encounter|Space Quest]], Gabriel Knight, Laura Bow and Phantasmagoria.[^ref-1]
 
 Sierra took venture capital in the early 1980s. Williams wrote in his memoir: "Once we had accepted venture capital, it became like any other drug. No one stops after the first hit. ... We brought in a second round of venture capital."[^ref-7]
 
@@ -143,14 +143,14 @@ Credits follow MobyGames unless noted.[^ref-15]
 [^ref-13]: [MobyGames Ken Williams Profile (Wayback, May 2023)](https://web.archive.org/web/20230517105719/https://www.mobygames.com/person/59/ken-williams/) — Biography: birth, Control Data Institute, NetMarket at CUC, SierraGamers (2003), Sans Souci
 [^ref-15]: [MobyGames Ken Williams Credits (Wayback, May 2024)](https://web.archive.org/web/20240505105836/https://www.mobygames.com/person/59/ken-williams/credits/) — Credits by role, 90 games
 [^ref-16]: [Wikipedia – Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) — Stayed until November 1997, 2014 Industry Icons award, memoir release date
-[^ref-17]: [Sierra Gamers Ken Williams](https://www.sierragamers.com/ken-williams/) — Ken's own biography and Q&A: birth, Control Data Institute, "18 year period", Executive Producer title, technology group, "Kens Laws", Talkspot
+[^ref-17]: [Sierra Gamers Ken Williams](https://www.sierragamers.com/ken-williams/) — Ken's own biography and Q&A: birth, Control Data Institute, "18 year period", Executive Producer title, technology group, "Kens Laws", Talkspot ([Wayback copy, 2026-07-28](http://web.archive.org/web/20260728010152/https://www.sierragamers.com/ken-williams/))
 [^ref-18]: [Ars Technica - Roberta and Ken Williams Open Up](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) — April 2022: first video game in 25 years
 [^ref-20]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699000391/0000950136-99-000391.txt) — "On April 15, 1998, we announced that … we discovered accounting irregularities in certain CUC business units"
 [^ref-21]: [Wikipedia – The Game Awards 2014](https://en.wikipedia.org/wiki/The_Game_Awards_2014) — Industry Icon Award: Ken and Roberta Williams, December 5, 2014
 [^ref-22]: [Colossal Cave 3D blog – Game Development Through The Ages (Wayback, May 2022)](https://web.archive.org/web/20220529202623/https://www.colossalcave3d.com/2022/05/29/game-development-through-the-ages/) — Ken Williams: "Software development is tougher now than it has ever been", learning Unity
 [^ref-23]: [Get Lamp – Chuck Benton (2006)](http://getlamp.com/cast/20060526benton/index.html) — Benton wrote Softporn Adventure, sold it as Blue Sky Software, then through On-Line Systems
 [^ref-24]: [Wikipedia – Cendant](https://en.wikipedia.org/wiki/Cendant) — CUC and HFS merged in December 1997 to form Cendant; accounting improprieties at CUC uncovered April 1998
-[^ref-25]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) — Linda Holden Givens, November 27, 2019: family moved to Coarsegold October 1980; first headquarters opened in Oakhurst December 1, 1980; renamed Sierra On-Line around 1982
+[^ref-25]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) — Linda Holden Givens, November 27, 2019: family moved to Coarsegold October 1980; first headquarters opened in Oakhurst December 1, 1980; renamed Sierra On-Line around 1982; calls Mystery House "the first graphic adventure game ever created"
 [^ref-26]: [Sierra News Magazine Vol. 3 No. 2 (Summer 1990) – "Sierra and the Personal Computer Industry" timeline](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) — Sierra's house timeline: April 1983, "Sierra moves headquarters from Coarsegold, CA to Oakhurst, CA"
 [^ref-27]: [Wikipedia – NetMarket](https://en.wikipedia.org/wiki/NetMarket) — founded in 1994 by Dan Kohn, Roger Lee, Guy H. T. Haskin and Eiji Hirai; later bought by CUC International
 [^ref-28]: [Sierra Newsletter Vol. 1 No. 3 (Spring 1988), p. 16 – "Sierra Signs Contract For Silpheed" by Ken Williams](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) — Ken's own byline: February 1988 trip to Tokyo to meet Game Arts
