@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack is
   a budget-priced mini-game compilation released by Sierra On-Line in 1992 as part
   of the Crazy Nick''s Software Picks series, collecting three arcade mini-games from
@@ -19,13 +19,13 @@ tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack is a budget-priced mini-game compilation released by [[Sierra On-Line]] in 1992 as part of the Crazy Nick's Software Picks series[^ref-1][^ref-16]. It collects three arcade-style mini-games from the Space Quest adventure series, featuring Roger Wilco[^ref-1]. It was one of five Crazy Nick's titles, alongside packs built around King Graham, Leisure Suit Larry, Laura Bow and Robin Hood[^ref-3][^ref-18].
 
-Sierra's InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games made of "favorite arcade and strategy sequences extracted from best-selling Sierra games," sold in blister packs[^ref-18]. Two of the pack's games, Ms. Astro Chicken and Monolith Burger, come from Space Quest IV: Roger Wilco and the Time Rippers, and the third, Sand Skimmer, comes from the VGA remake of the original Space Quest[^ref-16][^ref-21].
+Sierra's InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games made of "favorite arcade and strategy sequences extracted from best-selling Sierra games," sold in blister packs[^ref-18]. Two of the pack's games, Ms. Astro Chicken and Monolith Burger, come from [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]], and the third, Sand Skimmer, comes from the VGA remake of the original [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest]][^ref-16][^ref-21].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -44,7 +44,7 @@ The compilation has no overarching storyline. It offers three separate mini-game
 
 In Ms. Astro Chicken, the player flies a chicken that must avoid being shot down by a farmer or eaten by a dog, while watching out for a flying weasel[^ref-16]. In Monolith Burger, the player assembles burgers on a conveyor belt at the Space Quest series' fast-food chain[^ref-16][^ref-20]. In Sand Skimmer, the player steers a skimmer across the desert of planet Kerona toward Ulence Flats[^ref-1][^ref-16].
 
-The arcade games tie into the wider Space Quest universe. Ms. Astro Chicken is presented as the mate of the original Astro Chicken[^ref-19], whose arcade game first appeared in Space Quest III[^ref-23]. Monolith Burger is the series' ubiquitous fast-food franchise[^ref-20].
+The arcade games tie into the wider Space Quest universe. Ms. Astro Chicken is presented as the mate of the original Astro Chicken[^ref-19], whose arcade game first appeared in [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]][^ref-23]. Monolith Burger is the series' ubiquitous fast-food franchise[^ref-20].
 
 ## Gameplay
 
@@ -174,7 +174,7 @@ The 2011 Super Adventures in Gaming reviewer complained about very slow characte
 
 ### Sales and Commercial Impact
 
-No sales figures for Roger Wilco's Spaced Out Game Pack have been documented. Sierra said the Crazy Nick's packs would retail for around $10[^ref-18]; in the shops they sold for $9.95[^ref-27][^ref-29].
+No sales figures for Roger Wilco's Spaced Out Game Pack have been documented. Sierra said the Crazy Nick's packs would retail for around $10[^ref-18]; in the shops they sold for $9.95[^ref-27][^ref-29]. Sierra was still promoting the line a year later: its Spring 1993 InterAction carried a "Nick's Picks Special!" advertisement that offered a choice among the five packs, including Roger Wilco's Spaced Out Game Pack, on "VGA 3.5" LD disks", with the offer expiring April 15, 1993[^ref-31].
 
 The Space Quest series as a whole had combined sales of more than 1.2 million units by the end of March 1996[^ref-12]. That figure covers the main series, not budget compilations like this one.
 
@@ -198,10 +198,15 @@ Quest Studios has published recordings of Ken Allen's Space Quest IV and Space Q
 - ***Computer Gaming World* #99 (October 1992):** "Taking A Peek" entry for this pack[^ref-28]
 - ***PC Games* #17 (October 1992):** news item "Software for $9.95"[^ref-29]
 - ***Game Players PC Entertainment* Vol. 5 No. 4 (1992):** news column item on the line's arrival in shops[^ref-30]
+- **InterAction Magazine Vol. 6, No. 1 (Spring 1993):** "Nick's Picks Special!" advertisement naming the five packs, Offer No. 01381, expiring April 15, 1993. Promotional material, not independent reporting[^ref-31]
 
 ### Critical Perspective
 
 Sierra built the pack from "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-18]. *Computer Gaming World*'s 1992 capsule called the pack "for the truly masochistic"[^ref-28], and a 2011 retrospective found that, taken out of their adventures, the games were slow and unresponsive[^ref-8]. The Space Quest series they came from has been called "beloved cult classics"[^ref-10].
+
+## Series Continuity
+
+The pack is a spin-off of the [[Space Quest Series]], built from sequences in three of its games. Ms. Astro Chicken and Monolith Burger come from [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], and Sand Skimmer comes from the VGA remake of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]][^ref-16][^ref-21]. The original Astro Chicken arcade game, which Ms. Astro Chicken is presented as the mate of, is a mini-game in [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]][^ref-19][^ref-23].
 
 ## Purchase
 
@@ -219,6 +224,7 @@ Sierra built the pack from "favorite arcade and strategy sequences extracted fro
 
 ## See Also
 
+- [[Space Quest Series]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|← Previous: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
@@ -229,7 +235,7 @@ Sierra built the pack from "favorite arcade and strategy sequences extracted fro
 
 [^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, developer/publisher, release year, perspectives
 [^ref-2]: [MobyGames – Roger Wilco's Spaced Out Game Pack: DOS credits](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/credits/dos/) – 7 people credited; Director Bill Davis
-[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – five-title series list; 1,316 downloads for the whole five-pack bundle
+[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – five-title series list; 1,316 downloads for the whole five-pack bundle. Wayback snapshot: [CDRomance, captured 2026-09-27](https://web.archive.org/web/20260927051251/https://cdromance.org/scummvm/crazy-nicks-software-picks-series/)
 [^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user rating, DOSBox note, download size, user comments
 [^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – InterAction Summer 1992, pages 14–15, News Notes
 [^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine (SCI1.1), availability (retail)
@@ -256,3 +262,4 @@ Sierra built the pack from "favorite arcade and strategy sequences extracted fro
 [^ref-28]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", pp. 12 and 14: Roger Wilco's Spaced Out Game Pack entry
 [^ref-29]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-30]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named; cover marked "Display Until September 8, 1992"
+[^ref-31]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad naming the five packs including Roger Wilco's Spaced Out Game Pack, "VGA 3.5" LD disks", Offer No. 01381, expires 4/15/93 (the archive.org item is labelled June 1993; the printed issue date is Spring 1993). Promotional material, not independent reporting
