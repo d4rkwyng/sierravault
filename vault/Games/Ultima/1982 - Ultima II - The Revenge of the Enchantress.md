@@ -11,7 +11,7 @@ series: Ultima
 engine: Custom (Assembly Language)
 protagonist: The Stranger
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Ultima II: The Revenge of the Enchantress is a fantasy role-playing
   game created by Richard Garriott and released by Sierra On-Line for the Apple II
   in 1982. It is the only new main-series Ultima first published by Sierra.'
@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Ultima II: The Revenge of the Enchantress is a fantasy role-playing game created
 
 The game marked several significant firsts for the Ultima franchise: it was the first game in the series to include a cloth map as part of its packaging,[^ref-1][^ref-13] the first Ultima game Garriott wrote completely in assembly language,[^ref-1] and the first game in the series officially ported to platforms other than the Apple II.[^ref-1][^ref-3] Sources differ on how long development took: the manual's author's note says "more than fourteen months," Maher says "a full eighteen months," and the Official Book says almost two years, longer than it should have been because Garriott was attending the University of Texas.[^ref-13][^ref-22][^ref-11] Before starting it he learned assembly language in an intensive, roughly month-long "boot camp" with programmer Tom Luhrs.[^ref-22][^ref-24]
 
-Ultima II sold well, but a dispute with Sierra over royalties for the IBM PC port led Garriott, his brother Robert, their father and Chuck Bueche to found Origin Systems in 1983.[^ref-11][^ref-1] Contemporary reviews praised the game's ambitious scope and technical achievements, with Softline writing that "Lord British's sequel to the legendary Ultima continues the interplanetary fantasy saga with a creative programming flair far beyond the scope of most fantasy or adventure games."[^ref-16]
+Ultima II sold well, and Garriott soon began to fall out with Sierra; in 1983 he, his brother Robert, their father and Chuck Bueche founded Origin Systems. Accounts of the cause differ (see Legacy).[^ref-11] Contemporary reviews praised the game's ambitious scope and technical achievements, with Softline writing that "Lord British's sequel to the legendary Ultima continues the interplanetary fantasy saga with a creative programming flair far beyond the scope of most fantasy or adventure games."[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** Richard Garriott[^ref-1]
@@ -38,7 +38,7 @@ Ultima II sold well, but a dispute with Sierra over royalties for the IBM PC por
 > **Release Year:** 1982
 > **Series:** Ultima
 > **Protagonist:** The Stranger
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
@@ -83,17 +83,17 @@ Troy Christensen of Different Worlds magazine (issue 41, 1986) proclaimed that "
 
 Modern retrospective reviews have been more mixed, with Ultima II widely considered the weakest entry in the series.[^ref-4][^ref-9] MobyGames user Salim Farhat titled his review "More like Time Bandit fanfiction than Ultima," writing that "the game wasn't so much Ultima as it was Time Bandits with a twist."[^ref-2] Daniel Saner wrote that "at most times, Ultima II more resembles work than play."[^ref-2]
 
-The GOG.com release of the Ultima 1+2+3 compilation holds a 4 out of 5 user rating based on 55 reviews,[^ref-4] and several reviewers single out Ultima II as the collection's weak link. One reviewer wrote that "Ultima 2's 4-color cyan and magenta are particularly hard to look at compared to alternatives."[^ref-4]
+As of November 2026, GOG.com's listing for Ultima II shows a 3.1 out of 5 user rating based on 18 reviews.[^ref-25] The former Ultima 1+2+3 bundle listing, as archived on October 27, 2026, showed 4 out of 5 based on 55 reviews,[^ref-4] and several of its reviewers single out Ultima II as the collection's weak link. One reviewer wrote that "Ultima 2's 4-color cyan and magenta are particularly hard to look at compared to alternatives."[^ref-4]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.5/10 Moby Score; critics 71% (6 ratings)[^ref-2]
-- **GOG.com:** 4/5 (55 reviews, for trilogy compilation)[^ref-4]
+- **GOG.com:** 3.1/5 (18 reviews, Ultima II listing, as of November 2026)[^ref-25]; the former Ultima 1+2+3 bundle listing showed 4/5 (55 reviews) on October 27, 2026[^ref-4]
 
 ## Development
 
 ### Origins
 
-The development of Ultima II began while Richard Garriott was attending the University of Texas.[^ref-11] After California Pacific, publisher of Ultima I, went out of business in 1981, Garriott told the publishers courting him that he wanted a box, extensive documentation and, most of all, a cloth map; in his words, "every publisher but Sierra On-Line dropped out."[^ref-11][^ref-3]
+The development of Ultima II began while Richard Garriott was attending the University of Texas.[^ref-11] After California Pacific, publisher of Ultima I, went out of business in 1981, Garriott told the publishers courting him that he wanted a box, extensive documentation and, most of all, a cloth map; in his words, "every publisher but Sierra On-Line dropped out."[^ref-11][^ref-3] Maher likewise writes that the cloth map was "as un-negotiable as his royalty demands" and that Garriott found a taker in "none other than On-Line Systems";[^ref-22] Softline's March 1982 preview referred to "Lord British's new association with On-Line Systems";[^ref-24] and in 2026 Garriott said of the cloth-map request that "all of them disappeared, except Sierra, and that's why I went with Sierra."[^ref-27]
 
 Garriott was heavily influenced by the 1981 film Time Bandits: he organized repeated trips to $1.00 matinees to copy down the film's time map, and said that "Ultima II was directly inspired by Time Bandits", from the time doors to the cloth map showing their connections.[^ref-11][^ref-2] This inspiration manifested in the game's time-travel mechanics and the design of its time doors.[^ref-1][^ref-3]
 
@@ -108,7 +108,7 @@ Garriott had written his first games in BASIC on his high school's teletype and 
 - **Programming (also credited):** Kenneth W. Arnold, Keith Zabalaoui[^ref-2][^ref-13]
 - **Assembly Language Mentor:** Tom Luhrs[^ref-11][^ref-22]
 - **Atari Version:** Chuckles (Charles Bueche)
-- **Atari ST Version:** Robert Heitman[^ref-12]
+- **Atari ST Version:** [[Bob Heitman|Robert Heitman]][^ref-12]
 - **IBM PC Version:** Jay Sullivan[^ref-12]
 - **Commodore 64 Version:** credited to "bobbit," identity unknown[^ref-12]
 - **Documentation:** Mary Taylor Rollo
@@ -153,7 +153,7 @@ While no specific cut content has been documented, the game as released containe
 |---------|------|----------|-------|
 | 1.0 | 1982 | Apple II | Original release; exact date uncertain (see note below)[^ref-1][^ref-10][^ref-16][^ref-23] |
 | 1.0 | 1983 | Atari 8-bit, Commodore 64, IBM PC (DOS) | First Ultima ports; Atari version by Chuck Bueche, IBM PC port by Jay Sullivan[^ref-2][^ref-11][^ref-12] |
-| 1.0 | 1985 | Atari ST, Macintosh, FM-7, PC-88, PC-98 | Additional platform ports; Atari ST version by Robert Heitman; Japanese versions by StarCraft[^ref-2][^ref-12] |
+| 1.0 | 1985 | Atari ST, Macintosh, FM-7, PC-88, PC-98 | Additional platform ports; Atari ST version by [[Bob Heitman|Robert Heitman]]; Japanese versions by StarCraft[^ref-2][^ref-12] |
 | 1.0 | 1988 | Sharp X1 | Japanese port[^ref-12] |
 | Enhanced | 1989 | Apple II | Audiovisual upgrade, only available in Ultima Trilogy I-II-III box set[^ref-1] |
 | 1.0 | 1989 | MSX2, PC-88, PC-98 | Pony Canyon releases with new graphics[^ref-2][^ref-12] |
@@ -196,7 +196,7 @@ Additional documented bugs include:[^ref-3][^ref-4][^ref-5]
 
 ### Sales and Commercial Impact
 
-Ultima II sold over 50,000 copies, earning a Certified Silver award from the Software Publishers Association, and nearly 100,000 copies by the early 1990s (the Official Book's second edition says "By now nearly 100,000 have been sold").[^ref-11] The trigger for Origin Systems was a royalty dispute: Garriott's Sierra contract assigned all publishing rights for Ultima II to Sierra but did not set a royalty rate for an IBM version, and he accepted Sierra's "take it or leave it" terms. When the same friction carried into negotiations for Ultima III, the Garriotts founded Origin in 1983.[^ref-11][^ref-1]
+Ultima II sold over 50,000 copies, earning a Certified Silver award from the Software Publishers Association, and nearly 100,000 copies by the early 1990s (the Official Book's second edition says "By now nearly 100,000 have been sold").[^ref-11] Accounts of why Garriott left Sierra differ. In Shay Addams's Official Book, the Ultima II contract "hadn't even mentioned royalty rates for an IBM version" and assigned all publishing rights for Ultima II to Sierra; Garriott recalls that Sierra said "here's the deal, take it or leave it," and he accepted the lower royalty rate ("I could have turned it down"). Addams quotes him saying that around Ultima III he "was beginning to fall out with Sierra," and that his brother then suggested forming their own company; the Garriotts and Bueche founded Origin in 1983.[^ref-11] In a 1986 Computer Gaming World interview, as quoted in Matt Barton's Game Developer book extract, Garriott said Sierra "did not seem very author friendly" and "I never really knew if I was getting a fair shake."[^ref-28] In a 2026 Dragon Con panel interview he said that "they also quit paying me," after which he took his trademarks back and his brother proposed the business that became Origin.[^ref-27]
 
 The relationship between Garriott and Sierra On-Line deteriorated after the game's release, leading to difficulties when Origin Systems wanted to re-release the title.[^ref-3][^ref-12] Sierra refused to sell the rights to Origin for many years and did not relinquish the original cover artwork until 1998 at the latest.[^ref-3] There are two DOS ports of Revenge of the Enchantress; the second, released on the various Ultima collections, removes all mention of Sierra On-Line from the title.[^ref-12]
 
@@ -209,7 +209,7 @@ Ultima II has been included in several compilation releases:
 - **Ultima I-VI Series** (1993 per the Ultima Codex; MobyGames dates it 1992)[^ref-3][^ref-2]
 - **Ultima Collection** (1998)[^ref-3][^ref-2]
 - **Ultima Complete** – Japan[^ref-3]
-- **Ultima 1+2+3** – GOG.com digital release (2011-present)[^ref-4]
+- **Ultima 1+2+3** – GOG.com digital release (2011 onward, per PCGamingWiki);[^ref-5] the bundle's GOG page, archived October 27, 2026, is the former bundle listing,[^ref-4] and Ultima II now has its own GOG listing[^ref-25]
 
 The 1989 enhanced version for Apple II is extremely rare due to its exclusive anthology availability.[^ref-3]
 
@@ -227,12 +227,12 @@ Because the re-releases lost most of the planetary map files, fans produced patc
 
 Ultima II occupies a curious position in RPG history as both a commercial success and a somewhat divisive gameplay experience. The game represents the Ultima series at a transitional moment—ambitious in scope but rough in execution. Its time-travel premise across Earth's history rather than the fantasy land of Sosaria distinguishes it from other entries in the series, making it feel less like a true Ultima game to many players.[^ref-2]
 
-The game's historical significance lies in several areas: Shay Addams's Official Book says it "immediately established the state of the art for computer role-playing games and was soon widely emulated by other designers";[^ref-11] it established the cloth map as a series trademark; and the dispute over its IBM port led Richard Garriott to establish Origin Systems, which went on to publish the later Ultima games.[^ref-1][^ref-11][^ref-3] However, its reputation as the weakest entry in the series has persisted,[^ref-4][^ref-9] with the extremely grindy gameplay and numerous bugs overshadowing its innovative elements.
+The game's historical significance lies in several areas: Shay Addams's Official Book says it "immediately established the state of the art for computer role-playing games and was soon widely emulated by other designers";[^ref-11] it established the cloth map as a series trademark; and Garriott's falling-out with Sierra, which the Official Book links to the royalty terms for the IBM version, led him to establish Origin Systems, which went on to publish the later Ultima games.[^ref-11][^ref-28][^ref-27][^ref-3] However, its reputation as the weakest entry in the series has persisted,[^ref-4][^ref-9] with the extremely grindy gameplay and numerous bugs overshadowing its innovative elements.
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG.com – Ultima 1+2+3](https://www.gog.com/en/game/ultima_1_2_3)
+- [GOG.com – Ultima II: The Revenge of the Enchantress](https://www.gog.com/en/game/ultima_2)
 
 **Manuals & Extras**
 - [Ultima II manual (Atari 1982 big box) – Internet Archive](https://archive.org/details/UltimaIiRevengeOfTheEnchantressManualAtari1982BigBox)
@@ -251,7 +251,7 @@ The game's historical significance lies in several areas: Shay Addams's Official
 [^ref-1]: [Wikipedia – Ultima II: The Revenge of the Enchantress](https://en.wikipedia.org/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – release date, platforms, ports, re-release map issue, development notes, reviews
 [^ref-2]: [MobyGames – Ultima II: The Revenge of the Enchantress](https://www.mobygames.com/game/880/ultima-ii-the-revenge-of-the-enchantress/) – release dates across platforms, publishers, technical specs, trivia, user reviews, Moby Score
 [^ref-3]: [Ultima Codex Wiki – Ultima II](https://wiki.ultimacodex.com/wiki/Ultima_II) – technical specifications by platform, publishing conflicts, trivia, bugs, patches
-[^ref-4]: [GOG.com – Ultima 1+2+3](https://www.gog.com/en/game/ultima_1_2_3) – user reviews, version updates, store description
+[^ref-4]: [GOG.com – Ultima 1+2+3, former bundle listing (Wayback Machine copy, October 27, 2026)](https://web.archive.org/web/20261027083459/https://www.gog.com/en/game/ultima_1_2_3) – user reviews (4/5, 55 reviews), version updates, store description
 [^ref-5]: [PCGamingWiki – Ultima II: The Revenge of the Enchantress](https://www.pcgamingwiki.com/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – technical specifications, system requirements, compatibility issues, digital release dates
 [^ref-9]: [Giant Bomb – Ultima II: The Revenge of the Enchantress](https://web.archive.org/web/20250507000914/https://www.giantbomb.com/ultima-ii-revenge-of-the-enchantress/3030-12824/) – Wayback copy (May 2025); "widely considered the weakest game in the series"
 [^ref-10]: [IGDB – Ultima II: The Revenge of the Enchantress](https://www.igdb.com/games/ultima-ii-the-revenge-of-the-enchantress) – game database entry, release date 8/24/1982
@@ -268,3 +268,6 @@ The game's historical significance lies in several areas: Shay Addams's Official
 [^ref-22]: [Jimmy Maher, "The Wizardry and Ultima Sequels", The Digital Antiquarian (October 2012)](https://www.filfre.net/2012/10/the-wizardry-and-ultima-sequels/) – Tom Luhrs; assembly-language boot camp "that lasted about a month"; "a full eighteen months" of development; debut at December's AppleFest
 [^ref-23]: [Softline, May 1982 – dealer price list (Internet Archive)](https://archive.org/details/Softline_1982_05) – under ON-LINE SYSTEMS: "Ultima II NEW 54 95" (read in the OCR text)
 [^ref-24]: [Softline, March 1982, p. 42 – "Ultima II" preview (Internet Archive)](https://archive.org/details/Softline_1982_03) – "Last summer, Lord British took a month off from lording to learn assembly language" (read in the OCR text)
+[^ref-25]: [GOG.com – Ultima II: The Revenge of the Enchantress](https://www.gog.com/en/game/ultima_2) – current store listing, read November 12, 2026: 3.1/5 (18 reviews); company Origin Systems / Electronic Arts; release date December 31, 1989
+[^ref-27]: [Operation Rainfall, "Dragon Con 2026 Panel Interview: Richard 'Lord British' Garriott Reminisces on 1980s-1990s Ultima Games, Seeing Earth from Space, and What's Next (Part Two)" (October 17, 2026)](https://operationrainfall.com/2026/10/17/dragon-con-2026-panel-interview-richard-lord-british-garriott-reminisces-on-1980s-1990s-ultima-games-seeing-earth-from-space-and-whats-next-part-two/) – Garriott on choosing Sierra for the cloth map and on Sierra no longer paying him
+[^ref-28]: [Matt Barton, "Book Extract: Dungeons and Desktops: The Silver Age," Game Developer](https://www.gamedeveloper.com/design/book-extract-dungeons-and-desktops-the-silver-age-) – quotes a 1986 Computer Gaming World interview ("did not seem very author friendly"); notes the IBM-royalty reading is Addams's
