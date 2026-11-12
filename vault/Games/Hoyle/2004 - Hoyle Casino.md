@@ -10,20 +10,21 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
-description: Hoyle Casino 2004 is a casino simulation game developed and published
-  by Sierra Entertainment, released on September 2, 2003 for Windows PC...
+last_updated: '2026-11-11'
+description: 'Hoyle Casino 2004 is a casino simulation game developed and published
+  by Sierra Entertainment, released on September 2, 2003 for Windows PC, with
+  a drink reward system, talking opponents and character creation.'
 tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Hoyle Casino 2004 is a casino simulation game developed and published by Sierra Entertainment, released on September 2, 2003 for Windows PC.[^ref-1][^ref-2][^ref-21] Retail listings carried the manufacturer's blurb describing Hoyle Casino Games as "the best-selling casino game of all time."[^ref-3] Its description promised that "all the sights and sounds of Vegas are back, with more twists than before."[^ref-4]
 
-The edition continued the annual Hoyle Casino line that Sierra had been releasing since 1996, and Sierra followed it a year later with Hoyle Casino [2005], released December 1, 2004.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
+The edition continued the annual Hoyle Casino line that Sierra had been releasing since 1996, and GameSpy lists a Sierra-published Hoyle Casino [2005] dated December 1, 2004; whether that listing is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] Sierra's product page said up to four people could play on the same computer, while a GameFAQs user review states that only one person can play at a time.[^ref-24][^ref-9] Sierra's page described the Facemaker tool as creating characters "from hundreds of features."[^ref-24]
 
 Hoyle Casino 2004 drew mixed reactions from Amazon customers, some of whom felt it added little value compared to the previous 2003 edition.[^ref-3] The ESRB rated it T (Teen) for Gambling,[^ref-7] and the retail product was eventually discontinued by the manufacturer.[^ref-3][^ref-16]
 
@@ -50,7 +51,7 @@ The game utilized a status progression system represented by different colored p
 
 Players began their casino journey with $5,000 in starting money and could create their own accounts and character appearances before entering the virtual casino.[^ref-6] The game tracked player progress and allowed them to work toward accumulating larger bankrolls, with the ultimate goal of "striking it rich" in the Las Vegas-style environment.[^ref-6]
 
-The experience was enhanced by interactive characters that "speak their minds" as players challenged opponents, and a reward system that allowed players to upgrade their virtual drinks from "a simple soda to a big-time beverage" as they raised their bets.[^ref-1] MobyGames singles out the drinks system and the ability to talk back to the other characters at the table as new in this release.[^ref-23] Up to four players could play offline on one machine.[^ref-23]
+The experience was enhanced by interactive characters that "speak their minds" as players challenged opponents, and a reward system that allowed players to upgrade their virtual drinks from "a simple soda to a big-time beverage" as they raised their bets.[^ref-1] MobyGames singles out the drinks system and the ability to talk back to the other characters at the table as new in this release.[^ref-23] Sierra's product page lists two features as new: a Drink Reward System, where "now your character can order drinks on the house," and a BackTalk feature, "get your feelings out on the table." It also advertises 10 interactive 3D opponents, "Over 500 game variations," a Hoyle Hall of Fame that "tracks your winning for proof that you're a pro," and a free Hoyle Rulebook and Strategy Guide.[^ref-24] MobyGames lists one to four offline players.[^ref-23]
 
 ### Games Included
 
@@ -85,11 +86,11 @@ The game received limited coverage from mainstream gaming publications, with Met
 
 ### Origins
 
-Hoyle Casino 2004 was developed as part of Sierra Entertainment's Hoyle Casino series, itself a spin-off of the Hoyle's Official Book of Games series.[^ref-5] Wikipedia's edition list shows a new Hoyle Casino edition each year from 1997 through 2003.[^ref-5] Amazon reviewer Paul M described the same pattern: "Each year, Sierra and Hoyle have released a new version of Hoyle Casino."[^ref-3]
+Hoyle Casino 2004 was developed as part of Sierra Entertainment's Hoyle Casino series, itself a spin-off of the Hoyle's Official Book of Games series.[^ref-5] Wikipedia's edition list shows a new Hoyle Casino edition each year from 1996 through 2004.[^ref-5] Amazon reviewer Paul M described the same pattern: "Each year, Sierra and Hoyle have released a new version of Hoyle Casino."[^ref-3]
 
 ### Production
 
-Sierra Entertainment served as both developer and publisher for Hoyle Casino 2004.[^ref-1][^ref-2][^ref-10] Retail listings show the game branded under Sierra, with Vivendi Universal named as manufacturer; RAWG credits Vivendi Universal Games as developer and publisher.[^ref-3][^ref-18] The release kept the core casino simulation experience while offering character customization and support for up to four players on a single computer.[^ref-1]
+Sierra Entertainment served as both developer and publisher for Hoyle Casino 2004.[^ref-1][^ref-2][^ref-10] Retail listings show the game branded under Sierra, with Vivendi Universal named as manufacturer; RAWG credits Vivendi Universal Games as developer and publisher.[^ref-3][^ref-18] The release kept the core casino simulation experience while offering character customization; the publisher's product page and MobyGames give up to four players on a single computer.[^ref-24][^ref-23]
 
 The ESRB's ratings entry lists both Windows PC and Pocket PC as platforms.[^ref-7] No other source consulted (MobyGames, IGDB, GameSpy, Metacritic, retail listings) documents a Pocket PC release; all list Windows only.[^ref-2][^ref-3][^ref-10][^ref-21][^ref-23]
 
@@ -128,7 +129,7 @@ No sales figures for Hoyle Casino 2004 are documented in the sources consulted. 
 
 ### Series Transition
 
-Hoyle Casino 2004 was not Sierra's last Hoyle Casino release: Sierra developed and published Hoyle Casino [2005], released December 1, 2004.[^ref-22] Wikipedia's series history credits Encore, Inc. as developer and publisher of later editions from 2005 through 2016.[^ref-5]
+GameSpy lists a Sierra-developed and published Hoyle Casino [2005] with a December 1, 2004 release date, which it keeps separate from the 2004 edition; whether it is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-22] Wikipedia's series history credits Encore, Inc. as developer and publisher of later editions from 2005 through 2016.[^ref-5]
 
 ### Collections and Related Releases
 
@@ -232,3 +233,4 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 [^ref-21]: [IGDB – Hoyle Casino 2004](https://www.igdb.com/games/hoyle-casino-2004) — Internet Games Database entry; platform PC (Microsoft Windows), release 9/2/2003
 [^ref-22]: [GameSpy – Hoyle Casino (2005)](http://pc.gamespy.com/pc/hoyle-casino-2005/) – Sierra developer/publisher, US release December 1, 2004
 [^ref-23]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows release September 2, 2003, ESRB Teen, CD-ROM, 1-4 offline players, drinks system and talk-back new in this release, no credits listed (read via the MobyGames API)
+[^ref-24]: [Sierra Entertainment – Hoyle Casino product page (archived October 3, 2003)](https://web.archive.org/web/20031003033349/http://www.sierra.com/product.do?gamePlatformId=548) – Drink Reward System, BackTalk, 10 opponents, Facemaker, Hall of Fame, over 500 game variations, up to 4 players on one computer, free rulebook
