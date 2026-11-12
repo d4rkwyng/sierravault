@@ -2,7 +2,7 @@
 title: 'Half-Life: Opposing Force'
 release_year: 1999
 developer: Gearbox Software
-designer: [Randy Pitchford, Rob Heironimus]
+designer: [Rob Heironimus]
 publisher: Sierra Studios
 genre: FPS
 platforms: [Windows, macOS, Linux]
@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Corporal Adrian Shephard
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Chris Jensen]
 description: 'Half-Life: Opposing Force is the first official expansion pack for Valve''s
   acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and
@@ -19,7 +19,7 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,8 +31,9 @@ The title carries a deliberate double meaning: it references both the player's r
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]][^ref-1]
-> **Director:** Randy Pitchford (Wikipedia infobox: director and producer; manual: Production / Direction)[^ref-2][^ref-46]
-> **Designer:** Rob Heironimus (Wikipedia infobox: designer; manual: Lead Level Design)[^ref-2][^ref-46]
+> **Director:** Randy Pitchford (per Wikipedia; the manual credits him with Production / Direction)[^ref-2][^ref-46]
+> **Designer:** Rob Heironimus (per Wikipedia; the manual credits him with Lead Level Design)[^ref-2][^ref-46]
+> **Composer:** Chris Jensen[^ref-2][^ref-46]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** GoldSrc[^ref-1]
 > **Platforms:** Windows, macOS, Linux[^ref-1]
@@ -118,16 +119,16 @@ Half-Life: Opposing Force received widespread critical acclaim upon release, wit
 
 Opposing Force has maintained its positive reputation over the decades. Modern retrospectives continue to praise the expansion's quality and innovation.
 
-A **Eurogamer retrospective** noted: "It's testament to the developers that they made a game at all rather than hiding in a cupboard, let alone that they produced what proved to be a great shooter. But it's when Opposing Force breaks out on its own that it delivers its own sublime moments. And most of them are the bloody brilliant weapons"[^ref-20].
+A **Eurogamer retrospective** noted: "It's testament to the developers that they made a game at all rather than hiding in a cupboard, let alone that they produced what proved to be a great shooter [...] But it's when Opposing Force breaks out on its own that it delivers its own sublime moments. And most of them are the bloody brilliant weapons"[^ref-20].
 
 **Metrocop** gave the game **8/10** in a 2022 review, acknowledging that while "Opposing Force is not exactly a bad game," the "expanded arsenal is a fun way to revisit the Half-Life gameplay"[^ref-21].
 
-User reviews on **IMDB** average **8.1/10**[^ref-9], with one 2006 IMDb user review stating that the expansion "is better than its parent original game in every single way"[^ref-43].
+User reviews on **IMDB** average **8.1/10**[^ref-9], with one IMDb user review stating that the expansion "is better than its parent original game in every single way"[^ref-43].
 
 **Aggregate Scores:**
 - **GameRankings:** 85.45%[^ref-1]
 - **MobyGames:** 85% (Critics)[^ref-12]
-- **Steam User Reviews:** 95% positive (13,655 English-language reviews, as of November 11, 2026)[^ref-22]
+- **Steam User Reviews:** 95% positive (13,656 English-language reviews, as of November 12, 2026)[^ref-22]
 - **Metacritic User Score:** 8.5/10[^ref-23]
 - **ModDB Community Rating:** 9.5/10 (278 votes, as of October 2026)[^ref-24]
 - **IMDB:** 8.1/10[^ref-9]
@@ -155,6 +156,7 @@ Gearbox brought in talent from across the video games industry to bolster the de
 - **Art Direction:** Brian Martel[^ref-46]
 - **Lead Programming:** John Faulkenbury[^ref-46]
 - **Lead Level Design:** Rob Heironimus[^ref-27][^ref-46]
+- **Level Design:** Rob Heironimus, David Mertz, Randy Pitchford, Mike Wardwell[^ref-46]
 - **Models and Animation:** Stephen Bahl, Brian Martel, Landon Montgomery[^ref-46]
 - **Programming:** Patrick Deupree, John Faulkenbury, Steve Jones, Sean Reardon[^ref-46]
 - **Writing:** Stephen Bahl, Rob Heironimus, Kristy Junio, Randy Pitchford[^ref-46]
@@ -162,6 +164,23 @@ Gearbox brought in talent from across the video games industry to bolster the de
 - **Original Music:** Chris Jensen[^ref-27]
 - **Voice Actors:** Jon St. John (HECU Soldiers, Drill Sergeant), Mike Shapiro (G-Man, Scientists, Security Guards), Harry S. Robins (HECU Commander)[^ref-7][^ref-27], Kathy Levin (Black Mesa Transit System Announcer)[^ref-9]
 - **All-Star Multiplayer Level Designers:** Richard "Levelord" Gray, Tom "Paradox" Mustaine, Richard "Zdim" Carlson, David "Kevlar" Kelvin, Eric Reuter[^ref-10][^ref-26], Marin "Kandyman" Gazzari[^ref-44]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| G-Man | Mike Shapiro[^ref-7] |
+| Black Mesa Scientists | Mike Shapiro[^ref-7] |
+| Black Mesa Security Guards | Mike Shapiro[^ref-7] |
+| Black Ops | Mike Shapiro[^ref-7] |
+| Dwight T. Barnes | Jon St. John[^ref-7] |
+| Sharpe | Jon St. John[^ref-7] |
+| Drill Sergeant | Jon St. John[^ref-7] |
+| Military Police | Jon St. John[^ref-7] |
+| HECU Soldiers | Jon St. John[^ref-7] |
+| HECU Commander/Officer | Harry S. Robins[^ref-7] |
+| Black Mesa Transit Announcer | Kathy Levin[^ref-9] |
+| Barney Calhoun | Mike Shapiro[^ref-9] |
 
 ### Technical Achievements
 
@@ -199,9 +218,9 @@ Additionally, several music tracks composed by Chris Jensen were cut from the fi
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | November 19, 1999 | Windows | Initial North American release[^ref-2] |
-| 1.0 | December 3, 1999 | Windows | European release[^ref-2] |
+| 1.0 | December 3, 1999 | Windows | European release[^ref-2][^ref-47] |
 | Demo | March 4, 2000 | Windows | Features portions of Welcome to Black Mesa, Friendly Fire, and Foxtrot Uniform with minor changes[^ref-1] |
-| CTF Update | May 2000 | Windows | Added capture the flag multiplayer mode[^ref-2] |
+| CTF Update | May 2000 | Windows | Added capture the flag multiplayer mode; announced May 4, 2000[^ref-2][^ref-48] |
 | Steam Release | 2005 | Windows | Digital distribution via Steam[^ref-30] |
 | Mac/Linux | July 31, 2013 | macOS, Linux | Cross-platform release[^ref-2] |
 | 25th Anniversary | November 17, 2023 | All | Fixed FOV, added widescreen support[^ref-13], overbright lighting fixes[^ref-30] |
@@ -239,23 +258,6 @@ Opposing Force contains numerous hidden secrets and developer jokes discovered b
 - **Gearbox/Valve Console:** A console during one of the mini-boss fights displays "Gearbox" and "Valve"[^ref-9]
 - **Gordon Freeman Underoos:** According to Pitchford, the military grunts canonically wear Gordon Freeman Underoos[^ref-10]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| G-Man | Mike Shapiro[^ref-7] |
-| Black Mesa Scientists | Mike Shapiro[^ref-7] |
-| Black Mesa Security Guards | Mike Shapiro[^ref-7] |
-| Black Ops | Mike Shapiro[^ref-7] |
-| Dwight T. Barnes | Jon St. John[^ref-7] |
-| Sharpe | Jon St. John[^ref-7] |
-| Drill Sergeant | Jon St. John[^ref-7] |
-| Military Police | Jon St. John[^ref-7] |
-| HECU Soldiers | Jon St. John[^ref-7] |
-| HECU Commander/Officer | Harry S. Robins[^ref-7] |
-| Black Mesa Transit Announcer | Kathy Levin[^ref-9] |
-| Barney Calhoun | Mike Shapiro[^ref-9] |
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -268,8 +270,7 @@ The game won the PC Action Game award from the Academy of Interactive Arts & Sci
 
 Opposing Force has been included in several Half-Life compilations:
 
-- **Half-Life: Platinum** (2000) – Included Half-Life: Game of the Year Edition, Opposing Force, Counter-Strike, and Team Fortress Classic[^ref-37]
-- **Half-Life: Generation** and **Half-Life: Generation 2** – Subsequent compilation releases[^ref-37]
+- **Half-Life: Platinum** (2000), also released as Half-Life: Generation 2 – Included Half-Life: Game of the Year Edition, Opposing Force, Counter-Strike, and Team Fortress Classic[^ref-37]
 - **Half-Life 1 Anthology** (September 26, 2005) – Sierra compilation containing the main game and expansion packs[^ref-38]
 
 ### Fan Projects
@@ -285,7 +286,7 @@ Community members have also created resources to restore the original Chris Jens
 
 ### Critical Perspective
 
-For Gearbox Software, Opposing Force was the start of a long run of work with Valve's games, including Blue Shift, before the studio moved on to porting Halo: Combat Evolved to PC and creating the Brothers in Arms and Borderlands series[^ref-42]. As one 2018 IMDb user review put it: "When I play this game, I feel like playing a familiar game with an entirely fresh experience"[^ref-43].
+For Gearbox Software, Opposing Force was the start of a long run of work with Valve's games, including Blue Shift, before the studio moved on to porting Halo: Combat Evolved to PC and creating the Brothers in Arms and Borderlands series[^ref-42]. As one IMDb user review put it: "When I play this game, I feel like playing a familiar game with an entirely fresh experience"[^ref-43].
 
 ## Purchase
 
@@ -358,7 +359,9 @@ For Gearbox Software, Opposing Force was the start of a long run of work with Va
 [^ref-40]: [RunThinkShootLive – Music Restoration](https://www.runthinkshootlive.com/posts/tree-opposing-force-music/) – Steam soundtrack fix
 [^ref-41]: [Amazon – Strategy Guide](https://www.amazon.com/Half-Life-Opposing-Force-Official-Strategy/dp/0761525904) – Prima guide reviews
 [^ref-42]: [Wikipedia – Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) – Blue Shift, Halo PC port, Brothers in Arms, Borderlands
-[^ref-43]: [IMDB – User Reviews](https://www.imdb.com/title/tt0363260/reviews/) – user reviews (quoted reviews dated November 2006 and May 2018)
+[^ref-43]: [IMDB – User Reviews](https://www.imdb.com/title/tt0363260/reviews/) – user reviews
 [^ref-44]: [IGN – "Oppose This" (Archive.org)](https://web.archive.org/web/20081229210608/http://uk.pc.ign.com/articles/070/070270p1.html) – September 10, 1999 news item naming four more All-Star level designers, including Marin "Kandyman" Gazzari
 [^ref-45]: [AIAS Interactive Achievement Awards – PC winners (Archive.org, October 2000)](https://web.archive.org/web/20001014233202/http://www.interactive.org/iaa/winners_pc.html) – lists Half-Life: Opposing Force, Gearbox Software/Sierra Studios, as the winner of "Action Game" under the PC section
 [^ref-46]: [Internet Archive – Half-Life: Opposing Force (1999) User Manual](https://archive.org/details/halflifeopposingforceusermanual) – credits page: Gearbox team (production/direction, art direction, programming, level design, writing) and Sierra Studios staff
+[^ref-47]: [GoneGold – EuroGold 1999 release list (Archive.org)](https://web.archive.org/web/20010210220535/http://www.gonegold.com/golden/eurogold99.shtml) – lists Half-Life: Opposing Force (Sierra) as on shelves 03/12/99 in Ireland/UK
+[^ref-48]: [IGN – OpFor CTF Announced (Archive.org)](https://web.archive.org/web/20081229203503/http://uk.pc.ign.com/articles/078/078919p1.html) – May 4, 2000 news item: Valve and Gearbox announce a capture the flag multiplayer MOD for Opposing Force
