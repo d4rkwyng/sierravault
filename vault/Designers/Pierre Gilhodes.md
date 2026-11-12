@@ -4,12 +4,12 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion", "Gobliins 6"]
-companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene"]
-last_updated: '2026-11-11'
+companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene", "Schnibble Productions"]
+last_updated: '2026-11-12'
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ At the French studio Wizarbox he contributed character animation and 3D art to S
 
 Disappointed by the lack of effort to produce another Gobliiins game, Gilhodes assembled a team called Société Pollene and designed [[2009 - Gobliiins 4|Gobliiins 4]] (2009).[^ref-6] He crowdfunded [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] on Ulule, where the campaign ran from February 19 to March 21, 2022 and raised €6,950 against a €3,000 goal.[^ref-33] He released the game in 2023 as an independent developer, credited for its scenario, programming, graphics and animations.[^ref-21]
 
-On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] [[2026 - Gobliins 6|Gobliins 6]] was crowdfunded on two platforms. The Ulule campaign ran from October 9 to November 13, 2024 and raised €5,040 against a €4,000 goal.[^ref-32] The Kickstarter campaign ran from October 10 to November 9, 2024, also against a €4,000 goal; its page now shows €11,448 pledged by 470 backers.[^ref-25] According to a Planète Aventure forum post relaying his August 2025 Kickstarter update, Muriel Tramis helped write the scenario of two of its levels, the 2nd and the 12th.[^ref-38] The game was released on itch.io on February 10, 2026, and on Steam on February 13, 2026.[^ref-26][^ref-37]
+On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2. Il y aura un crowdfunding dans quelques temps."[^ref-4] [[2026 - Gobliins 6|Gobliins 6]] was crowdfunded on two platforms. The Ulule campaign ran from October 9 to November 13, 2024 and raised €5,040 against a €4,000 goal.[^ref-32] The Kickstarter campaign ran from October 10 to November 9, 2024, also against a €4,000 goal; its page now shows €11,448 pledged by 470 backers.[^ref-25] According to a Planète Aventure forum post relaying his August 2025 Kickstarter update, Muriel Tramis helped write the scenario of two of its levels, the 2nd and the 12th.[^ref-38] The game was released on itch.io on February 10, 2026, and on Steam on February 13, 2026, where the publisher is [[Schnibble Productions]].[^ref-26][^ref-37]
 
 #### Comics
 
@@ -65,7 +65,7 @@ MobyGames' biography calls [[1995 - The Bizarre Adventures of Woodruff and the S
 
 ### Gobliiins 5: The Morgloton Invasion (2023)
 
-MobyGames credits Gilhodes with Gobliiins 5's scenario, programming, graphics and animations.[^ref-21] In one itch.io reply to a player, he wrote: "It's true, it's smoother like that, but less pixel art."[^ref-4]
+MobyGames credits Gilhodes with Gobliiins 5's scenario, programming, graphics and animations.[^ref-21] The game was released on itch.io on 2 May 2023 and on Steam on 20 July 2023.[^ref-41][^ref-40] When a player suggested switching the game's scaling method to linear interpolation for a smoother picture, he replied on itch.io: "It's true, it's smoother like that, but less pixel art".[^ref-16]
 
 ## Design Philosophy
 
@@ -120,7 +120,7 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-6]: [MobyGames Pierre Gilhodes Profile](https://www.mobygames.com/person/10718/pierre-gilhodes/) — Biography: DTP and drawing, Coktel 1989, Woodruff his last Coktel game, Société Pollene
 [^ref-7]: [Advgamer Blog Inca Introduction](https://advgamer.blogspot.com/2019/07/game-110-inca-1992-introduction.html) — Inca "created by Pierre Gilhodes, the designer of Gobliiins", managed by Muriel Tramis
 [^ref-8]: [IMDb Filmography](https://www.imdb.com/name/nm1976367/) — Gobliins 2 and Goblins 3 credits
-[^ref-13]: [New Game Old Flame #66: Interview: Pierre Gilhodes (Apple Podcasts)](https://podcasts.apple.com/gb/podcast/66-interview-pierre-gilhodes/id1626613267?i=1000707835784) — Podcast interview, 10 May 2025
+[^ref-13]: [New Game Old Flame – 66. Interview: Pierre Gilhodes](https://www.newgameoldflame.com/episodes/2025/66-interview-pierre-gilhodes/) — Podcast interview, 10 May 2025
 [^ref-16]: [Pierre Gilhodes Gobliiins5 itch.io](https://pierre-gilhodes.itch.io/gobliiins5) — Gobliiins 5 page and comments
 [^ref-21]: [MobyGames Pierre Gilhodes Credits](https://www.mobygames.com/person/10718/pierre-gilhodes/credits/) — 53 credits on 23 games, incl. Asterix "Pierre", Wizarbox period, Gobliiins 5
 [^ref-22]: [MobyGames Gray Matter](https://www.mobygames.com/game/49129/gray-matter/) — Gray Matter credits (Additional Artists)
@@ -133,11 +133,13 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-29]: [The Adventure Gamer – Interview with Muriel Tramis (2018)](https://advgamer.blogspot.com/2018/03/interview-with-muriel-tramis.html) — "This system of a game based on solidarity belongs primarily to Pierre Gilhodes"
 [^ref-30]: [MobyGames – Gobliiins credits (DOS)](https://www.mobygames.com/game/1154/gobliiins/credits/dos/) — "Original Concept: Pierre Gilhodes, Muriel Tramis"; Graphics / Artwork Pierre Gilhodes (checked 2026-10-26)
 [^ref-31]: [MobyGames – Gobliins 6 credits (Windows)](https://www.mobygames.com/game/255126/gobliins-6/credits/windows/) — Scenario, Graphics, Animation, Programming: Pierre Gilhodes (checked 2026-10-26)
-[^ref-32]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) — Campaign October 9 – November 13, 2024; €5,040 raised against a €4,000 goal (read via the Ulule API, 2026-10-26)
-[^ref-33]: [Ulule – Gobliiins5](https://www.ulule.com/gobliiins5/) — Campaign February 19 – March 21, 2022; €6,950 raised against a €3,000 goal (read via the Ulule API, 2026-10-26)
+[^ref-32]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) — Campaign October 9 – November 13, 2024; €5,040 raised against a €4,000 goal
+[^ref-33]: [Ulule – Gobliiins5](https://www.ulule.com/gobliiins5/) — Campaign February 19 – March 21, 2022; €6,950 raised against a €3,000 goal
 [^ref-34]: [Le Blog du Bouzouk – "Bouzouk - MegaDreamPark"](https://bouzoukblog.blogspot.com/2011/05/bouzouk-megadreampark-1.html) — Post published by Pierre Gilhodes, 4 May 2011
 [^ref-35]: [Pierre Gilhodes former website, author page (Wayback, 2021-01-29)](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) — "He began creating video games with Coktel Vision in 1990"
 [^ref-36]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) — May 27, 2026: Red Art Games / Red Art Studios, five games, "A physical edition will follow for PlayStation 5 in September"; bonus "Interview with the Creator"
 [^ref-37]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) — Released Feb 13, 2026; developer Pierre Gilhodes, publisher Schnibble Productions
 [^ref-38]: [Planète Aventure forum – Gobliins 6 thread](https://www.planete-aventure.net/forums/viewtopic.php?p=260050) — Forum post relaying his August 2025 Kickstarter update: Muriel Tramis helped write the scenario of levels 2 and 12
 [^ref-39]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On October 29, 1993, the Company acquired Coktel Vision S.A." for about $5,332,000
+[^ref-40]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/) — Released July 20, 2023; developer Pierre Gilhodes, publisher Schnibble Productions
+[^ref-41]: [MobyGames – Gobliiins 5](https://www.mobygames.com/game/202606/gobliiins-5/) — Release dates, including itch.io 2 May 2023
