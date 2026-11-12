@@ -10,15 +10,15 @@ series: Gabriel Knight
 engine: Unity
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a
- comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
+ comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game, released in 2014 for Windows and Mac OS X, with iOS and Android versions following in 2015.'
 tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,6 +37,7 @@ Billed by its store listing as a "blockbuster retelling" of the award-winning 19
 > [!info]- Game Info
 > **Developer:** Pinkerton Road Studio, [[Phoenix Online Studios]][^ref-1]
 > **Designer:** [[Jane Jensen]][^ref-1]
+> **Composer:** [[Robert Holmes]]
 > **Publisher:** Pinkerton Road Studio[^ref-2]
 > **Engine:** Unity[^ref-3]
 > **Platforms:** Windows, Mac OS X, iOS, Android[^ref-1]
@@ -49,9 +50,9 @@ Billed by its store listing as a "blockbuster retelling" of the award-winning 19
 
 The game opens in 1993 New Orleans, where Gabriel Knight, a financially struggling horror novelist, owns St. George's Rare Books[^ref-1][^ref-34]. Gabriel has been experiencing disturbing nightmares and finds himself drawn to investigate a series of ritualistic murders that the press has dubbed the "Voodoo Murders". Working alongside his assistant Grace Nakimura and his childhood friend Detective Mosely of the New Orleans Police Department[^ref-1][^ref-34], Gabriel begins researching the killings as material for his next novel, unaware that his investigation will uncover both supernatural forces and his own family's dark legacy.
 
-As Gabriel delves deeper into the case, he discovers connections between the murders and genuine voodoo practices, leading him to various New Orleans locations including Jackson Square, Lake Pontchartrain, and the city's voodoo underground[^ref-6]. His research introduces him to Malia Gedde, a mysterious and alluring woman from a prominent New Orleans family, with whom he develops a dangerous romantic attraction despite warnings that she may be connected to the cult responsible for the murders. The investigation spans ten days[^ref-6][^ref-49], during which Gabriel discovers that a voodoo cartel is behind the killings[^ref-34].
+As Gabriel delves deeper into the case, he discovers connections between the murders and genuine voodoo practices, leading him to various New Orleans locations including Jackson Square, Lake Pontchartrain, and the city's voodoo underground[^ref-6]. His research introduces him to Malia Gedde, a mysterious socialite with whom he becomes infatuated[^ref-34]. The investigation spans ten days[^ref-6][^ref-49], during which Gabriel discovers that a voodoo cartel is behind the killings[^ref-34].
 
-Gabriel's journey of discovery eventually reveals that he is the latest in a line of Schattenjäger—German "shadow hunters" who have battled supernatural evil for centuries. His family's ancestral duty becomes intertwined with his personal quest when he learns that the voodoo cult is led by Malia Gedde, possessed by the spirit of Tetelo, the voodoo priestess his ancestor Gunter Ritter executed centuries earlier[^ref-34]. The narrative culminates in a terrifying confrontation that tests Gabriel's courage, forces impossible choices, and transforms him from a cynical dilettante into a true warrior against darkness.
+Gabriel's journey of discovery eventually reveals that he is the latest in a line of Schattenjäger—German "shadow hunters" who have battled supernatural evil for centuries[^ref-34]. His family's ancestral duty becomes intertwined with his personal quest when he learns that the voodoo cult is led by Malia Gedde, possessed by the spirit of Tetelo, the voodoo priestess his ancestor Gunter Ritter executed centuries earlier[^ref-34]. The narrative culminates in a terrifying confrontation that tests Gabriel's courage, forces impossible choices, and transforms him from a cynical dilettante into a true warrior against darkness.
 
 The original game's plot drew significant inspiration from the film Angel Heart, grounding its supernatural horror firmly in the real-world culture and history of New Orleans[^ref-34][^ref-27]. Reviewers noted the research behind the story: Adventure Classic Gaming observed that the original's "pre-production research on the voodoo culture and New Orleans is evident from the list of bibliographies included in the game manual"[^ref-48], and God is a Geek said of the remake that "a lot of historical and cultural research obviously went into producing a tale that is at once believable and fantastical"[^ref-15]. Previewing the 1993 original, Computer Gaming World's Johnny L. Wilson called it "for mature audiences for all the right reasons"[^ref-43].
 
@@ -59,7 +60,7 @@ The original game's plot drew significant inspiration from the film Angel Heart,
 
 ### Interface and Controls
 
-The 20th Anniversary Edition modernizes the original interface significantly, replacing the eight-action verb system of the 1993 release with a streamlined context-sensitive cursor[^ref-15]. This simplification allows players to interact with the environment more intuitively, with the cursor changing to indicate available actions such as examining objects, talking to characters, or manipulating items[^ref-15]. The remake also introduces a comprehensive hint system to assist players who become stuck on puzzles, a feature notably absent from the unforgiving original[^ref-25].
+The 20th Anniversary Edition modernizes the original interface significantly, replacing the eight-action verb system of the 1993 release with a streamlined context-sensitive cursor[^ref-15]. This simplification allows players to interact with the environment more intuitively, with the cursor changing to indicate available actions such as examining objects, talking to characters, or manipulating items[^ref-15]. The remake also introduces a hint system to assist players who become stuck on puzzles, easing some of the original's vague clues about where to go or what to do next[^ref-25].
 
 The point-and-click adventure gameplay remains faithful to the genre conventions Sierra helped establish, with players directing Gabriel through pre-rendered backgrounds, gathering inventory items, and engaging in conversations with numerous characters[^ref-3]. The Windows version uses Direct3D 9.0c, while the Mac version employs OpenGL 2[^ref-14].
 
@@ -145,6 +146,8 @@ Robert Holmes remastered his original soundtrack[^ref-2][^ref-33]; God is a Geek
 - **Recommended Requirements:** 4 GB RAM, 1 GB VRAM
 - **Storage:** 4 GB available space
 
+**Languages:** English (interface, full audio, subtitles); French, Italian, German, Spanish (interface and subtitles)[^ref-42]
+
 **Download Size:** 1.8 GB (Windows) / 1.9 GB (Mac), GOG offline installers v2.02[^ref-35]
 
 **Mac OS X Version:**[^ref-14]
@@ -205,7 +208,7 @@ Jason Victor, who voiced Gabriel in the remake, had previously voiced King Graha
 
 ### Sales and Commercial Impact
 
-The original 1993 Gabriel Knight and its 1995 sequel The Beast Within sold a combined 300,000 copies by December 1998[^ref-34]. While specific sales figures for the 20th Anniversary Edition have not been publicly disclosed, the game's availability across multiple digital storefronts and platforms indicates ongoing commercial viability. The original game shared Computer Gaming World's 1994 Adventure Game of the Year award with LucasArts' Day of the Tentacle[^ref-45]; Sierra's own Gabriel Knight page also listed a 1994 Computer Game Review Adventure Game of the Year award and a 1993 CES Best of Show[^ref-47].
+The original 1993 Gabriel Knight and its 1995 sequel The Beast Within sold a combined 300,000 copies by December 1998[^ref-34]. While specific sales figures for the 20th Anniversary Edition have not been publicly disclosed, though the game is available across multiple digital storefronts and platforms. The original game shared Computer Gaming World's 1994 Adventure Game of the Year award with LucasArts' Day of the Tentacle[^ref-45]; Sierra's own Gabriel Knight page also listed a 1994 Computer Game Review Adventure Game of the Year award and a 1993 CES Best of Show[^ref-47].
 
 ### Collections
 
@@ -274,7 +277,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-15]: [God is a Geek – Gabriel Knight 20th Anniversary Review](https://web.archive.org/web/2016/https://www.godisageek.com/reviews/gabriel-knight-sins-fathers-20th-anniversary-edition-review/) – interface changes, setting description, critical analysis
 [^ref-24]: [The Digital Antiquarian – Gabriel Knight: Sins of the Fathers](https://www.filfre.net/2019/08/gabriel-knight-sins-of-the-fathers/) – Ken Williams "something happier" quote, name symbolism, development history
 [^ref-25]: [Draco Torre Review](https://www.dracotorre.com/blog/gk1-20-review/) – low-budget analysis, hint system, Schattenjäger Archives, completion time
-[^ref-26]: [HowLongToBeat – Gabriel Knight 20th Anniversary Edition](https://howlongtobeat.com/game/21859) – completion times, player statistics (Main Story 10h 34m from 34 polled; Completionist 15h 15m from 20 polled; read November 11, 2026)
+[^ref-26]: [HowLongToBeat – Gabriel Knight 20th Anniversary Edition](https://howlongtobeat.com/game/21859) – completion times, player statistics (Main Story 10h 34m from 34 polled; Completionist 15h 15m from 20 polled; as of November 11, 2026)
 [^ref-27]: [Rock Paper Shotgun – Impressions: Gabriel Knight 20th Anniversary](https://www.rockpapershotgun.com/gabriel-knight-20th-anniversary) – Richard Cobbett, August 26, 2014 pre-release impressions (Days 1–2 build); cut content, voice recording issues, Grace quote, police music inspiration
 [^ref-31]: [OpenCritic – Gabriel Knight 20th Anniversary Edition](https://opencritic.com/game/626/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – aggregate scores, multiple critic quotes
 [^ref-33]: [Gamepressure – Gabriel Knight 20th Anniversary Edition](https://www.gamepressure.com/games/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/z239f0) – user score, release dates, platform information
@@ -284,7 +287,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-39]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – free, unofficial King's Quest fangame by Phoenix Online Studios
 [^ref-40]: [The Digital Antiquarian – Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) – GK3 as "the last Sierra adventure game ever"
 [^ref-41]: [IMDb – Gabriel Knight: Sins of the Fathers (1993)](https://www.imdb.com/title/tt0109865/) – user rating 8.9/10 from 828 ratings (as read October 2026)
-[^ref-42]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – user review summary (Very Positive, 89% of 949, as read November 11, 2026); developers Phoenix Online Studios and Pinkerton Road Studio
+[^ref-42]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – user review summary (Very Positive, 89% of 949, as of November 11, 2026); developers Phoenix Online Studios and Pinkerton Road Studio
 [^ref-43]: [Computer Gaming World #112 (November 1993)](https://archive.org/details/Computer_Gaming_World_Issue_112) – Johnny L. Wilson, "Between Dark and Daylight", preview of the 1993 original
 [^ref-44]: [Computer Gaming World #116 (March 1994)](https://archive.org/details/Computer_Gaming_World_Issue_116) – Charles Ardai's review of the 1993 original's CD-ROM edition (spec box "IBM CD-ROM"; text: "Even in its floppy-disk incarnation… Add the improvements the CD-ROM edition introduces")
 [^ref-45]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: Adventure Game of the Year shared with Day of the Tentacle; Virginia Capers voice-over award
