@@ -1,12 +1,12 @@
 ---
 title: "News & Updates"
-updated: "2026-11-11"
-last_updated: "2026-11-11"
+type: guide
+last_updated: "2026-11-12"
 cssclass: news-page
 ---
 # 📰 News & Updates
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 Latest releases, updates, and announcements for Sierra games and fan projects.
 
@@ -14,17 +14,17 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q4 2026 (Oct– )
 
+> [!tip] Legends of Adventure — Animated AGI Vignettes, CNN Archive, Picture Lock by Year-End
+> **November 9, 2026** — The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team's BackerKit update announced that Ernst Krogtoft (Retro365, owner of Copenhagen's Moose Studio) is producing a series of animated vignettes in the style of Sierra's AGI games, for moments with no surviving photos or video. The film has also licensed footage from CNN's archives, including interviews with Ken Williams from the early 1980s and coverage of CUC International's acquisition of Sierra in the mid-1990s. The team's goal is to complete **picture lock by the end of this year**; backer surveys and details of the first screening are to follow.
+>
+> [BackerKit update "Re-animating the History of Sierra On-Line!"](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates)
+
 > [!note] Wet Dreams Games Delisted from Steam and GOG (October 23)
 > **October 8, 2026** — Publisher Assemble Entertainment announced that [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] and [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] will be sold on Steam **only until October 23, 2026**, after which both will be removed from the store. No reason was given ("we can't share anything about his future"), and the notice mentions Steam only. The classic titles — LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude — already left Steam after Assemble's earlier **April 30, 2025** announcement; existing owners kept them.
 >
 > [Steam announcement (Oct 8, 2026)](https://store.steampowered.com/news/app/765870/view/1846018067930701) · [Earlier classic-titles notice (Apr 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791)
 >
 > **Update, October 23, 2026** — Both games were removed from Steam and GOG on October 23; GOG confirmed it would remove them that day as well. — [Delisted Games (Oct 23 update)](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) · Steam: [Don't Dry](https://store.steampowered.com/app/765870/), [Dry Twice](https://store.steampowered.com/app/1373430/) ("no longer available on the Steam store")
-
-> [!tip] Legends of Adventure — Animated AGI Vignettes, CNN Archive, Picture Lock by Year-End
-> **November 9, 2026** — The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team's BackerKit update announced that Ernst Krogtoft (Retro365, owner of Copenhagen's Moose Studio) is producing a series of animated vignettes in the style of Sierra's AGI games, for moments with no surviving photos or video. The film has also licensed footage from CNN's archives, including interviews with Ken Williams from the early 1980s and coverage of CUC International's acquisition of Sierra in the mid-1990s. The team's goal is to complete **picture lock by the end of this year**; backer surveys and details of the first screening are to follow.
->
-> [BackerKit update "Re-animating the History of Sierra On-Line!"](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates)
 
 > [!example] October 2026
 > - **Oct 11** — ScummVM 2026.4.0 "Never-slop" released on the project's 25th anniversary; no Sierra titles among its newly supported games — [Announcement](https://www.scummvm.org/news/20261011/)
@@ -35,7 +35,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 ## 🔥 Q3 2026 (Jul–Sep)
 
 > [!success] AGI-64 & AGI-ANTIC — Sierra's AGI Adventures on Commodore 64 and Atari 8-bit
-> **September 21, 2026** — Mean Hamster Software released **AGI-64** and **AGI-ANTIC**, free tools that build cartridge images for the Commodore 64 and Atari XL/XE from the original game files of Sierra's AGI-engine games. You supply the game data from your own copies; no Sierra game data is bundled. The C64 list covers 14 Sierra titles: [[1984 - King's Quest - Quest for the Crown|King's Quest I]], [[1985 - King's Quest II - Romancing the Throne|II]], [[1986 - King's Quest III - To Heir Is Human|III]] and [[1988 - King's Quest IV - The Perils of Rosella|IV]] (AGI edition), [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] and [[1987 - Space Quest II - Vohaul's Revenge|II]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1988 - Manhunter - New York|Manhunter: New York]], [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]], [[1986 - The Black Cauldron|The Black Cauldron]], [[1988 - Gold Rush|Gold Rush!]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1984 - Donald Duck's Playground|Donald Duck's Playground]]. At launch it also supported two fan games, Space Quest 0: Replicated and a King's Quest VI AGI demake. AGI-ANTIC launched with King's Quest I. As of October 16, 2026 the project page says the free Windows or Mac tool "builds seventeen native adventures for C64 and Atari XL/XE, including Space Quest: The Lost Chapter." The C64 interpreter was first announced on August 15.
+> **September 21, 2026** — Mean Hamster Software released **AGI-64** and **AGI-ANTIC**, free tools that build cartridge images for the Commodore 64 and Atari XL/XE from the original game files of Sierra's AGI-engine games. You supply the game data from your own copies; no Sierra game data is bundled. The C64 list covers 14 Sierra titles: [[1984 - King's Quest - Quest for the Crown|King's Quest I]], [[1985 - King's Quest II - Romancing the Throne|II]], [[1986 - King's Quest III - To Heir Is Human|III]] and [[1988 - King's Quest IV - The Perils of Rosella|IV]] (AGI edition), [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] and [[1987 - Space Quest II - Vohaul's Revenge|II]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1988 - Manhunter - New York|Manhunter: New York]], [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]], [[1986 - The Black Cauldron|The Black Cauldron]], [[1988 - Gold Rush|Gold Rush!]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1984 - Donald Duck's Playground|Donald Duck's Playground]]. At launch it also supported two fan games, Space Quest 0: Replicated and a King's Quest VI AGI demake. AGI-ANTIC launched with King's Quest I. As of November 2026 the project page is titled "Sierra Game Compiler" (a free Windows or Mac tool) and also lists the Commodore 128 and experimental MSX2, TI-99/4A and Coleco ADAM targets; its C64 and Atari XL/XE lists each show "17 AGI adventures," with Space Quest: The Lost Chapter among the fan-made titles. The C64 interpreter was first announced on August 15.
 >
 > [Mean Hamster (Sep 21, 2026)](https://meanhamster.com/news/agi-64-is-now-available) · [Announcement (Aug 15, 2026)](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) · [AGI-64 project page](https://meanhamster.com/games/agi-64)
 
@@ -148,8 +148,8 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!success] SCP Amiga Enhancements
 > **January 2026** — The [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]] showed and released enhanced Amiga versions:
 > - 🎬 **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] OCS Remaster** — Released Jan 4, announced on the English Amiga Board as the second remastered game; improved palettes, MT-32 MIDI
-> - ✅ **[[1991 - Police Quest III - The Kindred|Police Quest III]] Enhancement** — First fully completed SCP project
-> - ✅ **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] OCS Enhanced** — Released mid-January (EAB thread opened Jan 14; IndieRetroNews, Jan 15)
+> - ✅ **[[1991 - Police Quest III - The Kindred|Police Quest III]] Enhancement** — Released Jan 3, 2026; first fully completed SCP project
+> - ✅ **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] OCS Enhanced** — Released Jan 15, 2026 (EAB thread opened Jan 14; IndieRetroNews, Jan 15)
 > - 🚧 **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — 90% complete
 > 
 > Sources (not linked, because these posts point to full builds of Sierra games that are still sold): English Amiga Board, "King Quest V enhanced by SCP" (Jan 4, 2026) · IndieRetroNews, "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster" (Jan 4, 2026) · IndieRetroNews, "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP" (Jan 5, 2026) · IndieRetroNews, "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP" (Jan 15, 2026) · English Amiga Board, "Space Quest IV enhanced by SCP" (Jan 14, 2026)
@@ -221,6 +221,15 @@ This page is hand-curated. Dated entries are checked against at least one primar
 - [AGS Forums](https://www.adventuregamestudio.co.uk/forums/) — fan-game releases and dev threads
 
 For the vault's comprehensive research-source list see [[Bibliography|Bibliography]].
+
+---
+
+## See Also
+
+- [[Projects in Progress]]
+- [[Fan Remake Projects]]
+- [[Release Timeline]]
+- [[GOG and Steam Re-Releases]]
 
 ---
 
