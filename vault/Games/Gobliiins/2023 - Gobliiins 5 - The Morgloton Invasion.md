@@ -10,15 +10,15 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-28'
-description: 'Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS 5) is a 2D
+last_updated: '2026-11-11'
+description: 'Gobliiins 5: The Morgloton Invasion (titled GOBLiiiNS5 on Steam) is a 2D
   point-and-click adventure game by Pierre Gilhodes, released in 2023 as the first
   new Gobliiins game since 2009.'
 tags: [2020s, adventure, coktel, gobliiins, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -133,7 +133,7 @@ The game runs at a fixed 640×480 resolution with 2D hand-drawn art[^ref-2][^ref
 
 Because the game is split into four executables, finishing Part 1 does not lead straight into Part 2. The Steam store page warns that once the King's Chamber is finished, players must exit and restart the game in Steam to launch the next part[^ref-20]. Players who missed this saw an "unresolved import 'ShellExecute'" error message at that point[^ref-10].
 
-Screen flickering in full-screen mode was reported by a player using an adaptive-sync (G-Sync) display. It went away when adaptive sync was turned off[^ref-7]. Saving is only possible between levels[^ref-5][^ref-25]. An F5 quick-save worked in an early build but was removed in a later version[^ref-7]. Gilhodes has since said he plans a new single-part version with quick saving[^ref-10]. Players also noted that some interactive elements were hard to tell apart from the background[^ref-16].
+Screen flickering in full-screen mode was reported by a player using an adaptive-sync (G-Sync) display. It went away when adaptive sync was turned off[^ref-7]. Saving is only possible between levels[^ref-5][^ref-25]. An F5 quick-save worked in an early build but was removed in a later version[^ref-7]. Gilhodes has since said he plans a new single-part version with quick saving[^ref-10]. Players also noted that a few items cannot be interacted with even though they look as if they can[^ref-16].
 
 Gilhodes released post-launch updates, for example fixing a major bug in Part 3's kitchen and a minor one in Morglot's room[^ref-7].
 
@@ -143,7 +143,7 @@ Gilhodes released post-launch updates, for example fixing a major bug in Part 3'
 |---------|------|----------|-------|
 | Initial | May 2, 2023 | itch.io | First public release[^ref-8][^ref-15] |
 | Steam Release | July 20, 2023 | Steam | Steam launch with demo[^ref-20] |
-| Patches | Ongoing | All | Bug fixes; F5 quick-save removed[^ref-7] |
+| Patches | Ongoing | Windows | Bug fixes; F5 quick-save removed[^ref-7] |
 
 ### Easter Eggs and Trivia
 
@@ -166,7 +166,7 @@ The crowdfunding campaigns showed that interest in the Gobliiins series continue
 
 ### Collections
 
-In May 2026, Red Art Games released the Gobliiins Collection for PlayStation 5, Xbox Series and Switch. It brings together the first five games, including Gobliiins 5, and a physical PS5 edition was announced for September[^ref-29]. On PC, Gobliiins 5 is sold on Steam and itch.io[^ref-10][^ref-20]. GOG.com sells only the Gobliiins pack of the first three games, and Gobliiins 5 is not on GOG[^ref-18][^ref-27].
+In May 2026, Red Art Games released the Gobliiins Collection for PlayStation 5, Xbox Series and Switch. It brings together the first five games, including Gobliiins 5, and a physical PS5 edition was announced for September[^ref-29]. A Nintendo Switch 2 version followed in August 2026 as a free upgrade for owners of the Switch version, with mouse controls and 4K output for all five games. Nintendo UK's product page gives its release date as 6 August 2026, while Gematsu reported it as now available on 17 August 2026[^ref-30][^ref-31]. On PC, Gobliiins 5 is sold on Steam and itch.io[^ref-10][^ref-20]. GOG.com sells only the Gobliiins pack of the first three games, and Gobliiins 5 is not on GOG[^ref-18][^ref-27].
 
 ### Fan Projects
 
@@ -224,3 +224,5 @@ Its return to 2D after the poorly received 3D Gobliiins 4 was welcomed by review
 [^ref-27]: [GOG.com – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – includes Gobliiins, Gobliins 2 and Goblins Quest 3
 [^ref-28]: [Steam Store – GOBLiiNS6](https://store.steampowered.com/app/4293620/) – Gobliins 6 release, Feb 13, 2026
 [^ref-29]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026 collection of the first five games
+[^ref-30]: [Gematsu – Gobliiins Collection now available for Switch 2](https://www.gematsu.com/2026/08/gobliiins-collection-now-available-for-switch-2) – Aug 17, 2026; free upgrade from the Switch version, mouse controls, all five games in 4K
+[^ref-31]: [Nintendo UK – Gobliiins Collection (Nintendo Switch 2)](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Gobliiins-Collection-3156165.html) – release date 06/08/2026 (6 August 2026)
