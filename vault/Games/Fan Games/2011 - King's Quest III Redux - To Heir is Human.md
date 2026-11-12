@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: 2026-10-28
+last_updated: 2026-11-11
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released
   free for Windows and Mac on February 24, 2011.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -83,6 +83,8 @@ Inventory management remains crucial, as many puzzles require combining items or
 
 Upon release, King's Quest III Redux received enthusiastic responses from fans and reviewers alike. NoobFeed's David Gabriel scored the game 80/100, summing it up: "There's a ton of enjoyment to be had in this Sierra classic adventure, despite having to cope with a few drawbacks."[^ref-16] He wrote that "Manannan is absolutely one of the most terrifying figures I've ever encountered" among video game villains, and judged the remake "designed to meet the standards the original had set almost two decades ago," though he warned that "newcomers will have a very trying, confusing experience with it." His verdict closed: "And the best thing about all this? It's free."[^ref-16]
 
+Destructoid's Chad Concelmo scored it 8.0 out of 10 (February 24, 2011), calling it "a polished, technically impressive remake of the original King's Quest III" and advising that "For fans of the original King's Quest III, this is a no-brainer: download this game."[^ref-32] Gamezebo's Andy Chalk gave it 70 out of 100 and headlined his review "Impressive and faithful homage to a wickedly difficult adventure game," concluding that "Dedicated fans are in for a delightful treat, but newer gamers may just find frustration."[^ref-33] Neoseeker's Lydia Sung (February 23, 2011) scored it 9.0 out of 10, writing that it "sits between the first and second KQ remakes in terms of content" and is "a worthy homage to its source material."[^ref-34] Jeffry Houser of Just Adventure (February 23, 2011) graded it B+, finding that "The graphics are beautifully done for a free game" while urging the developers to create original adventures "instead of hanging out at remake alley."[^ref-35] NZGamer judged that AGD Interactive "have produced an admirable replication which is commendably loyal to the original," adding that the game "plays like an elephant in a minefield."[^ref-36] James Savage of Macworld, reviewing the Mac version, listed "Superb new voice narrations" among its pros and "Dated graphics" among its cons.[^ref-37]
+
 User rogeru on the AGD Interactive forums rated Story and Music/Sound 10/10 and Gameplay 9/10 (Graphics drew a lower 7/10), calling it "by far...by FAR the most satisfying adventure game I've ever played"[^ref-7].
 
 Multiple reviewers singled out the musical score for special praise. Rogeru declared "Oh the MUSIC!!! The music in this game was by far the most compelling element of design!"[^ref-7] The emotional storytelling also resonated with players, with the same reviewer noting: "Beautiful story. Something about Gwydion discovering the truth behind the wizard and the past Gwydions really hit me on an emotional level."[^ref-7]
@@ -95,7 +97,8 @@ Knoji awarded the game a perfect 5 out of 5, observing that "In today's world wh
 
 **Aggregate Scores:**
 - **MobyGames:** 76% (Critics)[^ref-8]
-- **IMDb:** 7.3/10 (28 ratings, as of October 28, 2026)[^ref-11]
+- **Metacritic:** no Metascore (three critic reviews: Destructoid 80, NZGamer 79, Impulsegamer 70); user score 7.6 from 7 ratings, as checked November 11, 2026[^ref-38]
+- **IMDb:** 7.0/10 (26 ratings, archived October 9, 2025)[^ref-11]
 - **Free Games Utopia:** 3.54/5.00 (13 ratings)[^ref-2]
 - **Abandonware DOS:** 3.57/5.00 (14 votes)[^ref-19]
 
@@ -114,7 +117,7 @@ King's Quest III Redux received significant recognition at the 2011 AGS Awards, 
 
 ### Origins
 
-AGD Interactive (the Anonymous Game Developers, who released their first remakes under the name Tierra Entertainment before renaming the label AGD Interactive in December 2003[^ref-31]) had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark 1986 tale of magic and identity[^ref-20].
+AGD Interactive (the Anonymous Game Developers, who released their first remakes under the name Tierra Entertainment before renaming the label AGD Interactive in December 2003[^ref-31]) had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark 1986 tale of magic and identity[^ref-20]. In a January 21, 2011 forum post, AGDI forum administrator Erpy recounted that Navynuke, a forum regular, had learned AGS by scripting a few King's Quest III rooms and posted the work publicly, whereupon the team "would 'adopt' the new King's Quest III project"; the public thread was then locked and the team "go underground," eight years before the post. Because "calling it KQ3VGA... or KQ3+... wouldn't describe the game well, because the game lies somewhere in between both extremes," the team gave the game its own name, Redux[^ref-39].
 
 The original King's Quest III represented a significant evolution for the series. Williams had found the first two games' plots limited by the memory of computers of the time, and for King's Quest III she aimed at a more "adult" story[^ref-20]. It was also the first King's Quest not to star King Graham, following the slave Gwydion instead[^ref-3].
 
@@ -127,8 +130,13 @@ The "bittersweet" aspect Warren referenced was AGD Interactive's decision to tra
 The game features completely redrawn background artwork in a "lush storybook style"[^ref-3], replacing the original's 16-color EGA graphics with hand-painted SVGA visuals[^ref-3]. An original digital soundtrack was composed especially for the remake[^ref-3], and the team recruited professional voice actors to bring the characters to life.
 
 **Development Credits:**[^ref-27][^ref-30]
-- **Designer:** Daniel Stacey
+- **Designer:** Daniel Stacey (credited as Daniel Stacy on AGD Interactive's team page)
 - **Lead director and scripter:** Sean Nichols
+- **Scripting:** Stijn van Empel, Pieter Simoons
+- **Lead artists:** John Paul Selwood, Emily Selwood, Johan Botes, Eriq Chang
+- **Management and artwork:** Brandon Klassen
+- **Graphics:** Anthony Hahn, Shannon Novak, Daniel Tyman
+- **Dialog pictures, animations, voice production and lip-syncing:** Britney Brimhall, Chris Warren
 - **Original Music Soundtrack:** Brandon Blume ("MusicallyInspired")
 - **Additional Music Themes:** Tom Lewandowski (QuestStudios)
 - **Based on Original Game by:** Roberta Williams
@@ -227,7 +235,7 @@ King's Quest III Redux was released as a standalone free download and has not be
 
 ### Fan Projects
 
-King's Quest III Redux exists within a broader ecosystem of Sierra fan projects. The PCGamingWiki notes that two major remakes of the original game exist: the AGD Interactive Redux version and the Infamous Adventures version[^ref-23]. Both were created using the Adventure Game Studio engine and represent different approaches to modernizing the classic title.
+King's Quest III Redux exists within a broader ecosystem of Sierra fan projects. The PCGamingWiki notes that two major remakes of the original game exist: the AGD Interactive Redux version and the Infamous Adventures version[^ref-23]. The two represent different approaches to modernizing the classic title.
 
 AGD Interactive's remake connects to their previous work through the "Myth Arc" story elements introduced in King's Quest II: Romancing the Stones, creating a unified fan continuity across their projects[^ref-13].
 
@@ -260,6 +268,8 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [[2021 - King's Quest IV Retold]] — Later fan remake by DrSlash
 - [[2025 - SCP Sierra Conversion Project]] — Amiga remasters
 - [[1986 - King's Quest III - To Heir Is Human]] — Original Sierra version
+- [[King's Quest Series]] — Series overview
+- [[2008 - Quest for Glory II VGA Remake]] — AGDI's preceding remake
 
 ## References
 
@@ -270,7 +280,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-7]: [AGD Interactive Forums – User Review](http://www.agdinteractive.com/forum/viewtopic.php?t=15085) – detailed user review, ratings breakdown, music praise
 [^ref-8]: [MobyGames – King's Quest III Redux](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – credits, ratings, technical specifications, developer info
 [^ref-9]: [MobyGames – Infamous Adventures King's Quest III](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – alternative remake information, description, ratings
-[^ref-11]: [IMDb – King's Quest III Redux: To Heir Is Human (Video Game 2011)](https://www.imdb.com/title/tt1847623/) – user rating 7.3/10 from 28 ratings (live page, October 28, 2026; an October 2025 [archived copy](http://web.archive.org/web/20251009214638/https://www.imdb.com/title/tt1847623/) showed 7.0 from 26)
+[^ref-11]: [IMDb – King's Quest III Redux: To Heir Is Human (Video Game 2011)](https://web.archive.org/web/20251009214638/https://www.imdb.com/title/tt1847623/) – user rating 7.0/10 from 26 ratings (archived copy, October 9, 2025); a January 2026 capture showed 6.8/10 from 28
 [^ref-13]: [TV Tropes – King's Quest III Redux](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIIRedux) – Easter eggs, story connections, gameplay changes, references
 [^ref-14]: [MobyGames – Original King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – original game reviews, technical context
 [^ref-15]: [Adventure Game Studio Forums – Dead End Discussion](https://www.adventuregamestudio.co.uk/forums/hints-tips/king-s-quest-iii-redux-to-heir-is-human-dead-end/) – dead end elimination details, porridge puzzle
@@ -288,3 +298,11 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-29]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series designed by Corey and Lori Ann Cole
 [^ref-30]: [AGD Interactive – King's Quest III Redux Development Team](https://www.agdinteractive.com/games/kq3/about/devteam.html) – team roles: Sean Nichols, Brandon Blume (MusicallyInspired), Tom Lewandowski
 [^ref-31]: [AGD Interactive – "Tierra Entertainment Becomes AGD Interactive" press release, December 10, 2003 (Wayback, Aug 2005)](https://web.archive.org/web/20050829223206/http://www.agdinteractive.com/press-03.php) – "The original name the Anonymous Game Developers chose, Tierra, was obviously a play on Sierra"
+[^ref-32]: [Destructoid – King's Quest III Redux review](https://www.destructoid.com/reviews/review-kings-quest-iii-redux/) – Chad Concelmo, February 24, 2011, 8.0/10
+[^ref-33]: [Gamezebo – King's Quest III Redux review](https://www.gamezebo.com/reviews/kings-quest-iii-redux-review/) – Andy Chalk, February 24, 2011, 70/100
+[^ref-34]: [Neoseeker – King's Quest III Redux review (Wayback, August 2012)](https://web.archive.org/web/20120825161337/http://www.neoseeker.com/Articles/Games/Reviews/kingsquest3_redux/) – Lydia Sung, February 23, 2011, 9.0/10
+[^ref-35]: [Just Adventure – King's Quest III Redux review (Wayback, April 2011)](https://web.archive.org/web/20110430164145/http://www.justadventure.com/reviews/KQ3Redux/KQ3Redux.shtm) – Jeffry Houser, February 23, 2011, grade B+
+[^ref-36]: [NZGamer – King's Quest III: To Heir is Human review (Wayback, October 2012)](https://web.archive.org/web/20121025155902/http://nzgamer.com/pc/reviews/1304/kings-quest-iii-to-heir-is-human.html) – verdict and "elephant in a minefield" quotes
+[^ref-37]: [Macworld – King's Quest III review (Wayback, October 2012)](https://web.archive.org/web/20121008033119/http://www.macworld.com/article/1159124/kingsquestiii.html) – James Savage; pros and cons for the Mac version
+[^ref-38]: [Metacritic – King's Quest III Redux](https://www.metacritic.com/game/kings-quest-iii-redux/) – critic scores Destructoid 80, NZGamer 79, Impulsegamer 70; no Metascore; user score 7.6 from 7 ratings
+[^ref-39]: [AGD Interactive Forums – "A brief account of KQ3 Redux' history"](http://www.agdinteractive.com/forum/viewtopic.php?t=14848) – Erpy, January 21, 2011; project history and the Redux name
