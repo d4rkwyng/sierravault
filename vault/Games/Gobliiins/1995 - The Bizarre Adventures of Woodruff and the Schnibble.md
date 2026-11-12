@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game developed
@@ -20,7 +20,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 
 Adventure Classic Gaming found "a surprisingly deep and complex plot" beneath its cartoon façade,[^ref-3] and retrospectives list serious themes behind the comedy, among them xenophobia, exploitation, and racism.[^ref-12][^ref-17] The game shares the visual style, gameplay, and offbeat humor of Coktel Vision's *Gobliiins* series, though it is not officially part of that franchise.[^ref-1][^ref-4] [[Pierre Gilhodes]], creator of the *Gobliiins* games, worked on it as a co-writer of the scenario and one of its artists.[^ref-1][^ref-37]
 
-*PC Gamer* awarded it 90%, and its reviews were largely positive.[^ref-1] However, Wikipedia states that despite critical acclaim it failed to find a mass audience and was a financial disappointment for Sierra, and that it retains a small, devoted cult fanbase.[^ref-1][^ref-6] It was a full CD "talkie," using real voices for speech.[^ref-6]
+*PC Gamer* awarded it 90%,[^ref-1] and critics were largely positive, with MobyGames averaging 79% across 21 critic reviews.[^ref-44] However, Wikipedia states that despite critical acclaim it failed to find a mass audience and was a financial disappointment for Sierra, and that it retains a small, devoted cult fanbase.[^ref-1][^ref-6] It was a full CD "talkie," using real voices for speech.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -87,7 +87,9 @@ Hardcore Gaming 101 notes the game's "curious tendency to use made-up words with
 
 *PC Gamer* (US) awarded the game 90% in its August 1995 issue (reviewer Matt Firme).[^ref-1] Wikipedia adds that the magazine praised its "exceptional graphics and sound" and compared it to *Day of the Tentacle* and *Sam & Max Hit the Road*, citing a MobyGames review collection.[^ref-1] *Computer Game Review* ran three reviews, with overall scores of 88 from Steve Honeywell, 87 from Ted Chapman, and 85 from Tasos Kaiafas.[^ref-1][^ref-39][^ref-40][^ref-38] Honeywell called it "one of the most amusing and endearing titles this year," though he and Chapman both wished they could skip long speech or animation sequences and speed up Woodruff's walking.[^ref-39][^ref-40]
 
-In Germany, *PC Player* magazine gave the game a special award, naming it "Tongue Twister of the Year 1995."[^ref-22] Gamer's Zone, though positive overall, complained about the often ludicrously hard puzzles.[^ref-5]
+In Germany, *PC Player* magazine gave the game a special award, naming it "Tongue Twister of the Year 1995."[^ref-22] Wikipedia describes Gamer's Zone as positive overall, though it complained about the often ludicrously hard puzzles;[^ref-5] MobyGames lists World Village (Gamer's Zone) at 60%.[^ref-44]
+
+MobyGames' critic list also includes French and German magazines. *PC Games* (Germany) gave 89% and *Joystick* (France) 88%, while *PC Player* (Germany) scored 73% and *Génération 4* (France) 61%.[^ref-44]
 
 Donald St. John's review in *Electronic Entertainment* (August 1995, No. 20) scored it 4/5 and summed it up as "worth the many hours you'll invest in it. Not for novices, though."[^ref-1][^ref-23] He praised its "Pythonesque humor and cutting satire" but found the art plain: "This offbeat strategy exercise isn't a place to look for pretty pictures. But if you like spending lots of hours in a weird little world, Woodruff and the Schnibble may just be for you."[^ref-23] Hardcore Gaming 101 later found the game "difficult to play, and even more difficult to comprehend."[^ref-15]
 
@@ -99,6 +101,7 @@ Modern retrospective reviews have been largely positive while acknowledging the 
 
 **Aggregate Scores:**
 - **MobyGames:** 79% (based on 21 critic reviews)[^ref-7]
+- **Moby Score:** 7.9[^ref-44]
 - **IMDB:** 8.4/10[^ref-25]
 - **OldGames.sk:** 83% (28 votes)[^ref-6]
 - **GameFAQs:** 9/10 (user review by Fragnarok)[^ref-21]
@@ -308,5 +311,5 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 [^ref-41]: [GOG.com – Community Wishlist (old)](https://www.gog.com/wishlist/games/the_bizarre_adventures_of_woodruff_and_the_schnibble) – fan comments requesting a re-release
 [^ref-42]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-43]: [Internet Archive – Woodruff and the Schnibble manual](https://archive.org/details/Woodruff_and_the_Schnibble_-_Manual) – original Sierra manual: about 40 rooms, non-linear progression, seven formulae, the Strul, credits
-[^ref-44]: [MobyGames – Reviews (player average checked 11 November 2026)](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/reviews/) – player average 4.0 out of 5 from 48 ratings
+[^ref-44]: [MobyGames – Reviews (critic and player scores checked 12 November 2026)](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/reviews/) – critic average 79% from 21 ratings, Moby Score 7.9, individual magazine scores, player average 4.0 out of 5 from 48 ratings
 [^ref-45]: [ScummVM – Compatibility chart](https://www.scummvm.org/compatibility/) – gob:woodruff rated Excellent (checked 11 November 2026)
