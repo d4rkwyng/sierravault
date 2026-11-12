@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: The Wanderer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hi-Res Adventure #2: The Wizard and the Princess is Roberta Williams''
   1980 fairy-tale graphic adventure for the Apple II, On-Line Systems'' first adventure
   with colour graphics and a precursor to King''s Quest.'
@@ -19,13 +19,13 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #2: The Wizard and the Princess
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hi-Res Adventure #2: The Wizard and the Princess (also known simply as Wizard and the Princess, and on the IBM PC as Adventure in Serenia) is a graphic adventure game written for the Apple II and released by [[On-Line Systems]] in the summer of 1980: Computer Gaming World's 1982 sales chart dates it to August 1980[^ref-4], and On-Line's advertisement in the September 1980 issue of Softalk already called it "available now"[^ref-25]. Designed by [[Roberta Williams]] and programmed by [[Ken Williams]], it is the second installment in the [[Hi-Res Adventures Series|Hi-Res Adventure]] series after [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]][^ref-2][^ref-27]. Unlike its predecessor, which featured monochrome drawings, Wizard and the Princess added colour graphics[^ref-3][^ref-26], and it is "usually regarded as the first adventure game with color graphics", though Ultima had colour graphics around the same time[^ref-14].
+Hi-Res Adventure #2: The Wizard and the Princess (also known simply as Wizard and the Princess, and on the IBM PC as Adventure in Serenia) is a graphic adventure game written for the Apple II and released by [[On-Line Systems]] in the summer of 1980: Computer Gaming World's 1982 sales chart dates it to August 1980[^ref-4], and On-Line's advertisement in the September 1980 issue of Softalk already called it "available now"[^ref-25]; HistoryLink gives September 1980[^ref-27]. Designed by [[Roberta Williams]] and programmed by [[Ken Williams]], it is the second installment in the [[Hi-Res Adventures Series|Hi-Res Adventure]] series after [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]][^ref-2][^ref-27]. Unlike its predecessor, which featured monochrome drawings, Wizard and the Princess added colour graphics[^ref-3][^ref-26], and it is "usually regarded as the first adventure game with color graphics", though Ultima had colour graphics around the same time[^ref-14].
 
-The game sold over 60,000 copies at $32.95[^ref-3][^ref-27][^ref-30]. In its first month of availability it ranked second on Softalk's Top Thirty of Apple II software for September 1980, behind only VisiCalc[^ref-32][^ref-30]. Computer Gaming World's list of top sellers recorded 25,000 copies as of 30 June 1982, in the fourth sales tier of the chart[^ref-4]. Roberta Williams later recalled it as "the number one game (on the Apple II)" in 1981[^ref-7].
+The game sold over 60,000 copies at $32.95[^ref-3][^ref-27][^ref-30]. In its first month of availability it ranked second on Softalk's Top Thirty of Apple II software for September 1980, behind only VisiCalc[^ref-32][^ref-30]. Computer Gaming World's list of top sellers recorded 25,000 copies as of 30 June 1982, in the fourth sales tier of the chart[^ref-4]. Roberta Williams later recalled that in 1981 it was "the number one game (on the Apple II)"[^ref-7].
 
 This pioneering title served as a precursor to Sierra On-Line's [[King's Quest Series|King's Quest]] series, taking place in the land of Serenia, a setting that would return in [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]][^ref-6]. Roberta Williams said she drew on the fairy tales she had loved as a girl for both this game and the King's Quest series[^ref-7].
 
@@ -147,8 +147,7 @@ In the rerelease prologue Harlin says he "created deserts and mountains to cross
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist
+- No GOG or Steam listing (checked 2026-11-12)
 - Game is available as abandonware for preservation purposes
 
 ## Downloads
@@ -159,6 +158,7 @@ In the rerelease prologue Harlin says he "created deserts and mountains to cross
 
 ## See Also
 
+- [[Hi-Res Adventures Series]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Cribbage]]
@@ -181,7 +181,7 @@ In the rerelease prologue Harlin says he "created deserts and mountains to cross
 [^ref-6]: [Internet Archive – InterAction Magazine, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra On-Line, InterAction Vol. VII No. 1 – "Wizard And The Princess – THEN": IBM PC release, "prequel" to King's Quest I, Serenia in KQ5
 [^ref-7]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) – Roberta Williams interview on fairy tale inspiration
 [^ref-8]: [King's Quest Wiki – Wizard and the Princess](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Background, King George IV, C64 version differences, shared puzzles with King's Quest, King's Quest Companion and King's Questions references
-[^ref-9]: [MobyGames](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) – Platforms, release dates (incl. PC-88/PC-98 May 1983, FM-7 June 1983), publishers (incl. IBM) and Moby Score; read via the MobyGames API
+[^ref-9]: [MobyGames](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) – Platforms, release dates (incl. PC-88/PC-98 May 1983, FM-7 June 1983), publishers (incl. IBM) and Moby Score
 [^ref-11]: [PixelatedArcade](https://pixelatedarcade.com/games/hi-res-adventure-2-the-wizard-and-the-princess) – Split-screen layout, interface and save-to-disk
 [^ref-13]: [MobyGames Technical Specs](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/specs/pc-booter/) – PC booter video modes
 [^ref-14]: [Lysator Archive](https://www.lysator.liu.se/adventure/Sierra_On-Line,_Inc.html) – "Usually regarded as the first adventure game with color graphics"; ziploc-bag packaging
