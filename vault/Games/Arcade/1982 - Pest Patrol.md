@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: None (player controls a can of insecticide)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Pest Patrol is a fixed shooter written by Mark Allen and published by
   Sierra On-Line under its SierraVision label in 1982 for the Apple II.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -54,10 +54,10 @@ Linzmayer singled out "the excellent use of the hi-res graphics": "The squirming
 
 ### Structure and Progression
 
-Softalk's October 1982 review settles the level count: "The game has forty levels of difficulty, with the first twenty-nine being selectable with the plus key. Levels thirty to thirty-nine can only be reached by skillful playing and luck."[^ref-32] Forty levels with a top level of thirty-nine means the levels are numbered 0 to 39, so MobyGames' count of 39 reflects the highest level number. Linzmayer's review and Retro365 give 40, and the packaging asked "Can you survive 29 levels", which matches the selectable range.[^ref-3][^ref-21][^ref-22][^ref-23][^ref-32] A practice option lets players practise any of the first 29 levels, and the remaining levels can only be reached in a normal game.[^ref-3][^ref-22][^ref-32]
+Softalk's October 1982 review gives the level count: "The game has forty levels of difficulty, with the first twenty-nine being selectable with the plus key. Levels thirty to thirty-nine can only be reached by skillful playing and luck."[^ref-32] Forty levels with a top level of thirty-nine suggests levels numbered 0 to 39, which would explain why MobyGames' count of 39 matches the highest level number. Linzmayer's review and Retro365 give 40, and the packaging asked "Can you survive 29 levels", which matches the selectable range.[^ref-3][^ref-21][^ref-22][^ref-23][^ref-32] A practice option lets players practise any of the first 29 levels, and the remaining levels can only be reached in a normal game.[^ref-3][^ref-22][^ref-32]
 
 **Level Structure:**
-- 40 levels, numbered 0 to 39, per Softalk (October 1982), the 1983 review and Retro365 (MobyGames counts 39)[^ref-3][^ref-21][^ref-22][^ref-32]
+- 40 levels, apparently numbered 0 to 39, per Softalk (October 1982), the 1983 review and Retro365 (MobyGames counts 39)[^ref-3][^ref-21][^ref-22][^ref-32]
 - The first twenty-nine levels are selectable with the plus key[^ref-3][^ref-22][^ref-32]
 - Levels thirty to thirty-nine are reachable only through skilful play[^ref-3][^ref-22][^ref-32]
 
@@ -91,7 +91,7 @@ Points are scored for destroying insects, and every 1,500 points awards an extra
 
 Owen Linzmayer reviewed Pest Patrol in *Creative Computing Video & Arcade Games* (Vol. 1, No. 2, Fall 1983, p. 93).[^ref-21] He said its 40 waves made it "unique in a crowd of games with similar themes" and praised its hi-res animation. He closed: "I continue to enjoy this game because it has something that many other programs need desperately: variety."[^ref-21]
 
-Softalk's October 1982 software review, written a year earlier, described Pest Patrol as "taking Threshold out of space and combining it with elements of Centipede", from "good old On-Line with an image lift". It praised the practice mode: "In the practice mode you have seventy-seven cans and can still play any level up to level twenty-nine". It concluded that "while the arcade freak will certainly like the intense challenge of the higher levels, the ordinary player is more likely to enjoy the cleverness of the graphics and the surprises of each level."[^ref-32] Softalk's price in that review was $34.95.[^ref-32]
+Softalk's October 1982 software review, written a year earlier, described Pest Patrol as "taking Threshold out of space and combining it with elements of Centipede", from "good old On-Line with an image lift". It praised the practice mode: "In the practice mode you have seventy-seven cans and can still play any level up to level twenty-nine". It concluded that "while the arcade freak will certainly like the intense challenge of the higher levels, the ordinary player is more likely to enjoy the cleverness of the graphics and the surprises of each level."[^ref-32] Softalk's price in that review was $34.95.[^ref-32] Its November 1982 new-products listing described the game as a "Frenzied new bug game with hopping spiders, killer butterflies, and shielding snails — all with dive-bombing capabilities."[^ref-33]
 
 ### Modern Assessment
 
@@ -113,7 +113,7 @@ Mark Allen met Richard Gleaves at UC San Diego, where the two developed the 6502
 
 In 1982 On-Line Systems was renamed Sierra On-Line and moved to Oakhurst, California. The "Sierra" name came from the nearby Sierra Nevada mountain range.[^ref-27] Retro365 links the rebrand to venture investment and to the move "to the foothills of the Sierra Nevada Mountains".[^ref-22] The November 1982 Pest Patrol advertisement gave the company's mail-order address as "Sierra On-Line Inc., 36575 Mudge Ranch Rd. Coarsegold, CA 93614".[^ref-24]
 
-The Williamses' first game, Mystery House (1980), was a breakthrough hit. By 1982 Sierra was organising a growing portfolio of adventure and action games into dedicated sub-brands.[^ref-22][^ref-27] Ken Williams saw the action label as a way to compete with publishers such as Atari and Activision and to win shelf space in mainstream retail.[^ref-22]
+The Williamses' first game, Mystery House (1980), was a breakthrough hit. By 1982 Sierra was organising a growing portfolio of adventure and action games into dedicated sub-brands.[^ref-22][^ref-27] Ken Williams saw the action label as a way to compete with the industry's biggest brands and to win shelf space in mainstream retail.[^ref-22]
 
 ### 1982 Sierra Catalog
 
@@ -205,6 +205,17 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 - **Frogger** (1982): Sierra's "official" version of the arcade game[^ref-11]
 - **Lunar Leeper** (1982): horizontally scrolling shooter by Chuck Bueche, also a SierraVision title[^ref-30]
 - **Cannonball Blitz** (1982): a "Donkey Kong" clone by Lubeck[^ref-11]
+
+## Manuals & Extras
+
+- [Softalk, October 1982 (Internet Archive)](https://archive.org/details/softalkv3n02oct1982) - software review of Pest Patrol[^ref-32]
+- [Softalk, November 1982 (Internet Archive)](https://archive.org/details/softalkv3n03nov1982) - new-products listing[^ref-33]
+- [Softline, November 1982 (Internet Archive)](https://archive.org/details/Softline_1982_11) - Sierra On-Line advertisement[^ref-24]
+- [Eli's Software Encyclopedia - Pest Patrol (Apple II, 5 1/4" Disk)](https://elisoftware.org/wiki/Pest_Patrol_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) - packaging description text[^ref-23]
+
+## Development Credits
+
+- **Mark Allen:** design and programming[^ref-21][^ref-24]
 
 ## Downloads
 
