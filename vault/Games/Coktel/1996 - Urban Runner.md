@@ -10,7 +10,7 @@ series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs, it casts the
   player as Max Gardner, an American journalist framed for murder in Paris.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Urban Runner received mixed reviews and, according to The Cutting Room Floor, so
 
 The game opens in Paris, where Max Gardner, an American journalist, is investigating a story about a major drug dealer who appears to be protected by an influential figure in French politics.[^ref-1] To get the dealer talking, Max offers him incriminating photographs in exchange for information. When Max arrives at the meeting point, the drug lord is dead, and Max is mistaken for the killer.[^ref-11][^ref-24]
 
-With the police and a gang of thugs on his trail, Max must keep moving through Paris while trying to clear his name.[^ref-4] The investigation takes players through warehouses, hotels and offices as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12] The manual's cast sheet describes Max as a 35-year-old American investigative reporter and Adda Wertmuller as a 27-year-old German ecology student who becomes "the part-time mistress of some pretty shady characters." It names Tony Marcos, the drug trafficker; Lev Kevork, founder of the Elite; Paul Lagrange, its second in command; Dr Arielle Dramish, a biotechnology doctor; Inspector Gaston Van Dale; and Lagrange's right-hand man, the Eraser.[^ref-31] Along the way he finds an ally in Adda, the murdered dealer's lover, who becomes a playable character; Adventure Gamers notes she is "hiding more than one secret" from him.[^ref-4][^ref-24]
+With the police and a gang of thugs on his trail, Max must keep moving through Paris while trying to clear his name.[^ref-4] The investigation takes players through the Squat, the Buena Vista Hotel, the Zanzibar Club, Marcos' office, the Cemetery, Max's apartment, the Lab, the Institute and the Sauna as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12][^ref-31] The manual's cast sheet describes Max as a 35-year-old American investigative reporter and Adda Wertmuller as a 27-year-old German ecology student who becomes "the part-time mistress of some pretty shady characters." It names Tony Marcos, the drug trafficker; Lev Kevork, founder of the Elite; Paul Lagrange, its second in command; Dr Arielle Dramish, a biotechnology doctor; Inspector Gaston Van Dale; and Lagrange's right-hand man, the Eraser.[^ref-31] Along the way he finds an ally in Adda, the murdered dealer's lover, who becomes a playable character; Adventure Gamers notes she is "hiding more than one secret" from him.[^ref-4][^ref-24]
 
 The game's tagline, "Run fast, run smart, stop and you're dead," captures the urgency of the story.[^ref-4] Max stays on the move, one step ahead of both the corrupt Inspector Van Dale (spelled "van Dalle" in Darksheer's walkthrough) and the criminal organization's enforcers.[^ref-4][^ref-13][^ref-18][^ref-31] At the very end of the story, the game asks whether Adda should live or die.[^ref-13][^ref-18]
 
@@ -81,7 +81,7 @@ Critics gave Urban Runner mixed reviews on release. MobyGames records these 1996
 - **PC Player (Denmark)** (1996): 60/100
 - **PC Player (Germany)** (June 1996): 40 (MobyGames normalised score)
 
-The UK magazine PC Review (issue 60, October 1996, p. 49) rated it "Poor," its verdict box reading "A weak story, linear gameplay and bad acting make for a sickening combo." The review praised the opening rooftop chase as "fast-paced, well-directed and edited," but called the rest "a point 'n' click adventure dressed up in some fanciful movie costumery" and "very linear," and found the repeated video clips "dull, repetitive." It listed the price as £44.99.[^ref-30]
+The UK magazine PC Review (issue 60, October 1996, p. 49) rated it "Poor," its verdict box reading "A weak story, linear gameplay and bad acting make for a sickening combo." The review praised the opening rooftop chase as "fast-paced, well-directed and edited," but called the rest "a point 'n' click adventure dressed up in some fanciful movie costumery" and "very linear," and found the repeated video clips "dull, repetitive." It listed the price as £44.99.[^ref-30] The review tied the "Hitchcock" line to the game's box blurb, and Sierra's 1996/97 catalogue carries the same marketing line: "A plot that Hitchcock himself would be proud of."[^ref-30][^ref-32]
 
 TV Tropes notes that the game "was not too popular at the time due to high graphics and monitor resolution requirements" and that "there are very few reviews that have been released about the game."[^ref-18]
 
@@ -120,7 +120,7 @@ Brandon Massey played the lead role of Max Gardner. He had previously played the
 - **Soundtrack:** Michel Golgevit, Hervé Lavandier, Bernard Leroux, François Musy, Olivier Rabat
 - **Lead Actor:** Brandon Massey (Max Gardner)[^ref-9]
 
-The original manual's credits also list Hervé Denis, Valéry Carpentier and Mathieu Marciacq for programming, and Yannick Chosse, Bruno Quintin, Fred Chauvelot, Jérôme Lamoureux and Bruno Delangle for visual effects. Its special thanks include the city of Clichy and the Cité des Sciences et de l'Industrie de la Villette.[^ref-31]
+The original manual's credits also list Hervé Denis, Valéry Carpentier and Mathieu Marciacq for programming, and Yannick Chosse, Bruno Quintin, Fred Chauvelot, Jérôme Lamoureux and Bruno Delangle for visual effects. Its special thanks include the city of Clichy and the Cité des Sciences et de l'Industrie de la Villette.[^ref-31] Frédéric Chauvelot, credited as "Fred Chauvelot" in the manual, is also credited with the scenario of [[1995 - The Last Dynasty]].[^ref-31][^ref-33]
 
 ### Voice Cast
 
@@ -217,6 +217,9 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 - [Internet Archive](https://archive.org/details/urbanrunnereurope) – European version preservation[^ref-21]
 - [MyAbandonware](https://www.myabandonware.com/game/urban-runner-f09) – Windows 3.x version[^ref-8]
 
+**Purchase / Digital Stores**
+- No GOG or Steam listing (checked 2026-11-12)
+
 **Manuals & Extras**
 - [Internet Archive – Urban Runner manual (PC)](https://archive.org/details/urban-runner-manual-pc) – original manual scan[^ref-31]
 
@@ -260,7 +263,8 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 [^ref-26]: [MobyGames – Urban Runner reviews](https://www.mobygames.com/game/3809/urban-runner/reviews/) – Katakis user review (2019)
 [^ref-27]: [Sierra On-Line, Inc. Form 10-K for fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-28]: [Online Gaming Review – News, July 1996 (Wayback, 1997)](https://web.archive.org/web/19970227065825/http://www.ogr.com/news/news0796.html) – news for July 25, 1996: Urban Runner "is now available"
-[^ref-29]: [ScummVM Wiki – Urban Runner](https://wiki.scummvm.org/index.php?title=Urban_Runner) – Gob (DEV6) engine, supported since ScummVM 1.3.0, Hebrew title "Avudim BaIr"
+[^ref-29]: [ScummVM Wiki – Urban Runner](https://wiki.scummvm.org/index.php?title=Urban_Runner) – Gob (DEV6) engine, supported since ScummVM 1.3.0, Hebrew title "Avudim BaIr"; [ScummVM NEWS](https://github.com/scummvm/scummvm/blob/master/NEWS.md) records "Added support for Urban Runner" under 1.3.0
 [^ref-30]: [PC Review issue 60, October 1996 (Internet Archive)](https://archive.org/details/pc-review-60) – Urban Runner review, p. 49: "Poor" verdict, £44.99, minimum system
 [^ref-31]: [Urban Runner manual, PC (Internet Archive)](https://archive.org/details/urban-runner-manual-pc) – cast sheet, interface, credits, special thanks
 [^ref-32]: [Sierra catalogue 1996/97 (Internet Archive)](https://archive.org/details/sierracalalogue19961997) – publisher blurb: "Over 4 months shooting with 25 actors", requirements
+[^ref-33]: [MobyGames – The Last Dynasty](https://www.mobygames.com/game/1230/the-last-dynasty/) – credits (Frédéric Chauvelot, scenario)
