@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: SCI 2.1
 protagonist: Unnamed SWAT Recruit ('SWAT-Pup')
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Dan Kehler]
 description: 'Police Quest: SWAT (Daryl F. Gates'' Police Quest: SWAT) is the fifth
   Police Quest game and the first of the SWAT series: a 1995 full-motion-video tactical
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
 # Police Quest: SWAT
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -155,8 +155,12 @@ Police Quest: SWAT was built on the SCI 2.1 engine (Sierra Creative Interpreter)
 | 1.000 | November 23, 1995 | DOS, Windows | Interpreter/version date listed by SCI Wiki[^ref-25] |
 | Macintosh | December 1995 | Mac OS | Mac release[^ref-6] |
 | 1.0c | April 3, 1997 | DOS, Windows | Updated version[^ref-25] |
-| GOG Release | February 10, 2011 | Windows (DOSBox) | Digital re-release[^ref-6] |
-| Steam Release | 2016 | Windows | Digital re-release[^ref-1] |
+| GOG Release | February 10, 2011 | Windows (DOSBox) | Digital re-release; PCGamingWiki notes GOG bundles it with Police Quest: SWAT 2[^ref-6] |
+| Steam Release | December 15, 2016 | Windows | Digital re-release; release date per Steam's store data[^ref-49][^ref-1] |
+
+The game is sold digitally in two forms. GOG's current listing is *Police Quest: SWAT 1+2*, a pack that includes this game and Police Quest: SWAT 2, and it names Yosemite Entertainment and Activision as the company.[^ref-3] Steam sells the game on its own and lists Yosemite Entertainment as developer and Activision as publisher; PCGamingWiki likewise lists Yosemite Entertainment as developer, with Sierra On-Line as the retail publisher and Activision as the digital publisher.[^ref-49][^ref-6] Steam's store page displays September 30, 1995 as the release date, while the store data gives December 15, 2016 for the Steam release.[^ref-22][^ref-49]
+
+The sources date the late-1995 and 1997 builds differently. The Sierra Classic Gaming wiki's "Sierra Game Versions" page (2019 Wayback copy) lists Police Quest SWAT version 1.0c as 11/21/95.[^ref-50] The SCI Wiki dates 1.000 to 1995/11/23 and 1.0c to 1997/04/03, and the ScummVM wiki's Sierra Game Versions list gives 1.000 as 1995-11-23.[^ref-25][^ref-51]
 
 **SCI Interpreter Versions:**[^ref-25][^ref-48]
 
@@ -185,28 +189,39 @@ Players of the GOG.com release have reported further issues:[^ref-26][^ref-27]
 
 ## Cast
 
-The live-action cast was credited on IMDb, with Eric Flom as the SWAT Pup and Steve Barkley as Sgt. Rooker.[^ref-17]
+IMDb's full credits list 29 cast entries, with Eric Flom as the SWAT Pup and Steve Barkley as Sgt. Rooker.[^ref-17][^ref-47]
 
 | Character | Actor |
 |-----------|-------|
 | Narrator | Carol Bach-y-Rita (credited as Carol Bach Rita) |
 | Sgt. Rooker | Steve Barkley |
-| Militia Member | Billy Bates |
-| Militia Member | Bobbie Bates |
-| Sgt. Pruett | Ken Belsky |
-| Officer Tony Carmichael | Chris Boylan |
+| Militia Member | Billy Bates (credited as Billy Bob Bates) |
+| Militia Member | Bobbie Bates (credited as Bobby Joe Bates) |
+| Sgt. Pruett | Ken Belsky (credited as Bryan Kent) |
+| Officer Tony Carmichael | Chris Boylan (credited as Christopher Boyland) |
 | Officer JD Saunders | L. Peter Callender |
 | Officer Danny Tello | Tom Cassel |
 | Coco Brown | Kettie Massengale Chamlin |
 | Herbert Long | Roy Conrad |
 | Officer Tom Denton | Tom Dryden |
+| Ron Eastman | Richard Dupell |
 | Sgt. Pauldon | John Eggold |
 | SWAT Pup | Eric Flom |
 | Lucy Long | Dolores Golightly |
 | Sidney Devon | Keith Kelly |
 | Andy Durham | Brian Leonard |
 | Katie Long | Jeannie McKelvey |
+| Officer Pete Monroe | Jarion Monroe |
+| Officer Pacmeyer | Doug Morrisson |
+| Patrick Allen | Joe Murphy |
 | Officer Scotty "Mad Dog" Wixell | Michael Reed (credited "Micheal Reed" in the manual) |
+| Sgt. Ross | Jeff Richardson |
+| Hector Martinez | Carlos Sanchez |
+| Militia Leader | Nick Scoggin |
+| Officer Tobin | Patrick Allen Tromborg |
+| Lt. Hancock | James Tuck (credited as Jim Tuck) |
+| Mrs. Schneibly | Sharon Tuck |
+| Officer Frank Rhea | Tony Vella |
 
 The manual's credits list Officer Scotty "Mad Dog" Wixell under "Micheal Reed," and IMDb lists the role as "Officer Scotty Wixell (as Michael Reed)."[^ref-8][^ref-47] A GOG user posting as ScottyWixel, who says he played Officer Wixell, wrote that "We spent several days training with actual SWAT members from the LA Police Dept" (unverified).[^ref-3]
 
@@ -214,7 +229,7 @@ The manual's credits list Officer Scotty "Mad Dog" Wixell under "Micheal Reed," 
 
 ### Sales and Commercial Impact
 
-Despite its reviews, Police Quest: SWAT was a commercial success. By March 2000 it had sold over a million units, according to SWAT 3's Jim Napier.[^ref-5] Computer Gaming World's November 1998 letters page, quoting PC Data, listed it as "Police Quest V" in third place among the year's best-selling adventure games through July 1998, with 152,425 units and $1,622,405 in revenue, behind only Myst and Riven.[^ref-39] Wikipedia, citing PC Gamer US (April 1999), reports full-year 1998 sales of 253,128 units and $2.73 million, making it the 17th best-selling game of 1998 in the United States.[^ref-1]
+Despite its reviews, Police Quest: SWAT was a commercial success. Two developer accounts from the SWAT 3 era give slightly different wording. In a November 2, 1999 IGN PC interview, SWAT 3 producer Rod Fung said, "I know that SWAT 1 sold close to 1 million units."[^ref-52] In March 2000, SWAT 3's Jim Napier wrote that "SWAT alone has sold over a million units to date."[^ref-5] Computer Gaming World's November 1998 letters page, quoting PC Data, listed it as "Police Quest V" in third place among the year's best-selling adventure games through July 1998, with 152,425 units and $1,622,405 in revenue, behind only Myst and Riven.[^ref-39] Wikipedia, citing PC Gamer US (April 1999), reports full-year 1998 sales of 253,128 units and $2.73 million, making it the 17th best-selling game of 1998 in the United States.[^ref-1]
 
 Sierra's 10-K for the fiscal year ending March 31, 1996 stated that it had "released five titles and sold more than 1.2 million copies" in the Police Quest series.[^ref-30] The sales of SWAT despite poor reviews helped carry the name forward into later SWAT titles; Napier wrote that "the name recognition has been great for sales."[^ref-5]
 
@@ -311,5 +326,9 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-44]: [GameSpot – Police Quest: Swat Review (December 2003 capture, Wayback Machine)](https://web.archive.org/web/20031208091334/http://www.gamespot.com/pc/strategy/policequestswat/review.html) – release date 09/30/1995, "POSTED: 05/01/96", score 3.7, 8 MB RAM / 15 MB disk requirements
 [^ref-45]: [MobyGames – Daryl F. Gates' Police Quest: SWAT DOS credits](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/) – designer/director/writer Tammy Dargan, assistant designer Susan Frischer, LAPD SWAT advisors; "Special Thanks: Daryl F. Gates (Chief / Ret. LAPD)" ([archived May 2026](http://web.archive.org/web/20260516224857/https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/credits/dos/))
 [^ref-46]: [Wikipedia – Daryl Gates](https://en.wikipedia.org/wiki/Daryl_Gates) – John Nelson's 1965 idea approved by Gates; Gates "a principal consultant for Sierra's SWAT series"
-[^ref-47]: [IMDb – Police Quest: SWAT full credits (Wayback Machine, September 2025)](https://web.archive.org/web/20250903085317/https://www.imdb.com/title/tt5463140/fullcredits/) – "Officer Scotty Wixell (as Michael Reed)", filed under Michael James Reed
+[^ref-47]: [IMDb – Police Quest: SWAT full credits (Wayback Machine, September 2025)](https://web.archive.org/web/20250903085317/https://www.imdb.com/title/tt5463140/fullcredits/) – full cast list (29 entries) including "as" credit variants; "Officer Scotty Wixell (as Michael Reed)", filed under Michael James Reed
 [^ref-48]: [SCI Wiki – Police Quest: SWAT Demo](http://sciwiki.sierrahelp.com/index.php?title=Police_Quest:_SWAT_Demo) – demo versions 0.001.200 (Windows only) and 0.001.300, interpreter 2.100.002; platforms MS-DOS, Windows 3x, Macintosh
+[^ref-49]: [Steam Store data – Police Quest: SWAT (app 560350)](https://store.steampowered.com/api/appdetails?appids=560350&cc=us) – "release_date": "Dec 15, 2016"; developers "Yosemite Entertainment"; publishers "Activision" (store page https://store.steampowered.com/app/560350/Police_Quest_SWAT/ displays "Release Date: Sep 30, 1995")
+[^ref-50]: [SCG Wiki – Sierra Game Versions (Wayback Machine, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – "Police Quest SWAT | 1.0c | SCI 2.100.002 | 11/21/95" in the Police Quest SWAT 1+2 table
+[^ref-51]: [ScummVM Wiki – Sierra Game Versions (Wayback Machine, May 18, 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – "Police Quest: SWAT 1.000 1995-11-23 2.100.002"
+[^ref-52]: [IGN PC – SWAT 3: Close Quarters Battle Interview 2 (Wayback Machine, 2002 capture)](https://web.archive.org/web/20020602003754/http://pc.ign.com/articles/071/071768p1.html) – Rod Fung, November 02, 1999: "SWAT 1 sold close to 1 million units, and SWAT 2 has sold over 400,000 units"
