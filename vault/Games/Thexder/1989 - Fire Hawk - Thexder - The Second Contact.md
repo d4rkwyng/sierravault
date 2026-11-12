@@ -2,15 +2,15 @@
 title: 'Fire Hawk: Thexder - The Second Contact'
 release_year: 1989
 developer: Game Arts
-designer: [Satoshi Uesaka, Ari Kamijō]
-publisher: Sierra On-Line
+designer: [Satoshi Uesaka, Ari Kamijo]
+publisher: [Game Arts, Sierra On-Line]
 genre: Shooter
 platforms: [MSX2, PC-8801, DOS]
 series: Thexder
-engine: Proprietary (Game Arts)
+engine: null
 protagonist: Fire Hawk
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Fire Hawk: Thexder - The Second Contact is Game Arts'' 1989 sequel to
   Thexder for the MSX2 and PC-8801, released in North America by Sierra On-Line for
   DOS in 1990: a run-and-gun shooter in which a transforming robot fights through nine
@@ -19,7 +19,7 @@ tags: [1980s, shooter, sierra, thexder]
 ---
 # Fire Hawk: Thexder - The Second Contact
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,14 +29,13 @@ Sierra described the hero as "the new, improved suit — FIREHAWK", flown "in 9 
 
 > [!info]- Game Info
 > **Developer:** [[Game Arts]][^ref-1]
-> **Designer:** Satoshi Uesaka, Ari Kamijō[^ref-28][^ref-6]
+> **Designer:** Satoshi Uesaka, Ari Kamijo[^ref-28][^ref-6]
 > **Publisher:** Game Arts (Japan), [[Sierra On-Line]] (North America)[^ref-1]
-> **Engine:** Proprietary
 > **Platforms:** MSX2, PC-8801, MS-DOS[^ref-1]
 > **Release Year:** 1989 (Japan), 1990 (North America)[^ref-1]
 > **Series:** Thexder
 > **Protagonist:** Fire Hawk
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
@@ -54,9 +53,9 @@ The DOS version supports the keyboard and an analog joystick.[^ref-30] During in
 
 ### Structure and Progression
 
-There are nine increasingly difficult levels, which can be maze-like and contain hidden passageways and bonus items.[^ref-7] According to MobyGames, levels are divided into sub-levels, and every fourth sub-level features a boss fight.[^ref-1] Each mission has its own boss theme in the soundtrack listings for both Japanese versions, and Katakis notes a background theme and a boss theme in every level.[^ref-19][^ref-23][^ref-5]
+There are nine increasingly difficult levels, which can be maze-like and contain hidden passageways and bonus items.[^ref-7] According to MobyGames, levels are divided into sub-levels, and every fourth sub-level features a boss fight.[^ref-1] Katakis notes a background theme and a boss theme in every level.[^ref-5] The MSX2 version also has a Practice option on its main menu, which sends the player into a practice course.[^ref-35]
 
-The game autosaves each time the player completes a mission, keeping the energy and equipment from the mission just played, according to a save-file guide for the DOS version.[^ref-11] Sources describe saving differently. MobyGames says the game can be saved "at certain points",[^ref-1] Home of the Underdogs says "you can now save in mid-level",[^ref-15] and PCGamingWiki states that the game does not support saving progress.[^ref-21] The save-file guide, however, documents a DOS `SAVEGM.DAT` file with eight save slots, which sits uneasily with PCGamingWiki's statement; this page does not settle which is right.[^ref-11]
+The game autosaves each time the player completes a mission, keeping the energy and equipment from the mission just played, according to a save-file guide for the DOS version.[^ref-11] Sources describe saving differently. MobyGames says the game can be saved "at certain points",[^ref-1] Home of the Underdogs says "you can now save in mid-level",[^ref-15] and PCGamingWiki states that the game does not support saving progress.[^ref-21] The save-file guide, however, documents a DOS `SAVEGM.DAT` file with eight save slots, which sits uneasily with PCGamingWiki's statement; this page does not settle which is right.[^ref-11] For the MSX2 version, MSX Club describes a main menu of START, CONTINUE, PRACTICE and SYSTEM, with Continue meant "para continuar la partida por donde la hemos dejado" and a System submenu of EXIT, MUSIC, LOAD ("Para recuperar datos del disco") and SAVE ("Para guardarlos en él").[^ref-35]
 
 PixelatedArcade lists the nine missions as follows:[^ref-7]
 
@@ -81,6 +80,8 @@ Power-ups and energy refills are often hidden off the main path, so exploring a 
 ### Contemporary Reviews
 
 Japan's MSX Magazine reviewed the MSX2 version in its January 1990 issue, mainly praising the robot's smooth animation. It listed the game at ¥7,800 on 2DD disks.[^ref-12][^ref-6]
+
+Spain's MSX Club (issue 61) covered the MSX2 version in a two-disk, MSX2/MSX2+ data panel that names Game Arts as the company. Its reviewer called the sequel to "CHEXDER" (sic), popularly known as the "TRANSFORMER", a game that, "si llegase a comercializarse en nuestro país" ("if it were ever sold in our country"), would be remembered for a long time because "su adicción es tremenda y sus gráficos realmente buenos" ("its addictiveness is tremendous and its graphics really good").[^ref-35]
 
 The French magazine Joystick reviewed the PC version in February 1991 and gave it 75%. Its sub-scores were 14 for EGA graphics, 14 for AdLib sound, 16 for animation and 14 for handling. The review praised the fast animation and the option to skip drawing backgrounds on slow PCs. It disliked the pared-down, Clayderman-style Moonlight Sonata arrangement in the intro and called the in-game Japanese pop syrupy and uninventive, though the music can be switched off.[^ref-13]
 
@@ -109,30 +110,33 @@ Sierra presented the sequel's battle suit as "enhanced with even more weapons an
 
 ### Production
 
-Game Arts released the MSX2 and PC-8801 versions in Japan in 1989.[^ref-1] The DOS credits list Satoshi Uesaka (original concept) and Ari Kamijo as designers. Gary Butts and Ken Koch are credited as lead programmers alongside Kamijo and Kazuyuki Ohata. Butts, Koch and [[Josh Mandel]] are listed as producers, with Mitsuhiro Mazda and Ken Williams as executive producers.[^ref-28]
+Game Arts released the MSX2 and PC-8801 versions in Japan in 1989.[^ref-1] The DOS credits list Satoshi Uesaka (original concept) and Ari Kamijo as designers. Gary Butts and Ken Koch are credited as lead programmers alongside Kamijo and Kazuyuki Ohata. Butts, Koch and [[Josh Mandel]] are listed as producers, with Mitsuhiro Mazda and [[Ken Williams]] as executive producers.[^ref-28]
 
 The MSX version has an introductory story sequence that the DOS port leaves out. Instead, the DOS manual includes a short comic book covering the back-story.[^ref-1] The publisher's description reproduced on GameFAQs promised "nine challenging levels of play, new features and options, and a degree of visual polish virtually unknown in U.S. action games products".[^ref-8][^ref-17]
 
 **Development Credits (DOS):**[^ref-28]
 - **Original Concept:** Satoshi Uesaka
-- **Design:** Ari Kamijō, Satoshi Uesaka
-- **Directors:** Ari Kamijō, Kazuyuki Ohata, Satoshi Uesaka
-- **Lead Programming:** Gary Butts, Ari Kamijō, Ken Koch, Kazuyuki Ohata
+- **Design:** Ari Kamijo, Satoshi Uesaka
+- **Directors:** Ari Kamijo, Kazuyuki Ohata, Satoshi Uesaka
+- **Lead Programming:** Gary Butts, Ari Kamijo, Ken Koch, Kazuyuki Ohata
 - **Programming:** Osamu Harada, Toshimichi Masubuchi
 - **Level / Scenario Design:** Osamu Harada
 - **Graphics / Artwork:** Masatoshi Azumi, Masahiko Ikeya, Tsuyoshi Tanaka
 - **Music:** Hiromi Ohba, Tadashi Shimayama, Masahiko Yoshimura, Mecano Associates
+- **Sound:** Tadashi Shimayama
 - **Music / Sound Programming:** [[Ken Allen]], Robert Atesalp
-- **Documentation:** Bridget McKenna, Akiko Skjellerup, Yuzo Sunaga, Mariko Uemura
+- **Documentation:** Bridget McKenna, Akiko S. Peterson (credited as Akiko Skjellerup), Yuzo Sunaga, Mariko Uemura
+- **English Text Translation:** Akiko S. Peterson (credited as Akiko Skjellerup), Mickie Lee, Yoko Hayashi
+- **Documentation English Translation:** Akiko S. Peterson (credited as Akiko Skjellerup)
 - **Cover Art:** Terry Robinson
 - **Package Illustration:** Jun Suemi
 - **Producers:** Gary Butts, Ken Koch, [[Josh Mandel]]
-- **Executive Producers:** Mitsuhiro Mazda, Ken Williams
+- **Executive Producers:** Mitsuhiro Mazda, [[Ken Williams]]
 - **Additional Composition (MSX2):** Masakuni Mitsuhashi; the soundtrack includes an arrangement of Ludwig van Beethoven's Moonlight Sonata[^ref-6][^ref-18][^ref-26]
 
 ### Technical Achievements
 
-Sierra advertised "a thrilling soundtrack with 11 different songs".[^ref-24] The One counted "11 complete songs", including a version of the Moonlight Sonata.[^ref-26] A user comment on Khinsider calls the PC-88 soundtrack a "high quality, fast album with that nice synthesizer zing (the PC-88 sounds a lot like the X68000 here)."[^ref-19]
+Sierra advertised "a thrilling soundtrack with 11 different songs".[^ref-24] The One counted "11 complete songs", including a version of the Moonlight Sonata.[^ref-26]
 
 The MSX2 version uses PSG and MSX-Music sound (the AY-3-8910 and YM2413 chips).[^ref-6][^ref-18] Patch notes for an "enhanced" version, quoted on MSX.org, describe an improved FM detection routine with the preference order "MSX-Audio BIOS v1.3, internal MSX-Music, external MSX-Music."[^ref-20]
 
@@ -155,9 +159,7 @@ The MSX2 version uses PSG and MSX-Music sound (the AY-3-8910 and YM2413 chips).[
 - **Language:** Japanese
 - **Media:** 2x 3.5" floppy disks[^ref-16]
 
-**Soundtrack Technical Details:**[^ref-19][^ref-23]
-- **PC-88 Version:** 24 tracks, ~47 minutes total duration
-- **MSX2 OPLL Version:** 24 tracks, ~48 minutes total duration
+**Soundtrack Technical Details:**
 - **Sound Chips (MSX2):** AY-3-8910, YM2413[^ref-18]
 
 ### Version History
@@ -205,12 +207,13 @@ The game is also preserved online. The Internet Archive hosts the DOS version wi
 
 ### Fan Projects
 
-VGMRips has a VGM music pack for the MSX2 version that lists the AY-3-8910 and YM2413 sound chips.[^ref-18] Khinsider hosts soundtrack rips for the PC-88 and MSX2 versions. The PC-88 album is 92 MB in MP3, and the MSX2 album is 58 MB in MP3 or 127 MB in FLAC.[^ref-19][^ref-23]
+VGMRips has a VGM music pack for the MSX2 version that lists the AY-3-8910 and YM2413 sound chips.[^ref-18]
 
 ### Related Publications
 
 - **Game Manual:** Included short comic book providing narrative backstory (DOS version)[^ref-1]
 - **Japanese Magazine Coverage:** MSX Magazine (January 1990), review on page 22[^ref-12]
+- **Spanish Magazine Coverage:** MSX Club (issue 61), MSX2 review on page 24[^ref-35]
 - **French Magazine Coverage:** Joystick #13 (February 1991), review on page 154[^ref-13]
 - **Save Game Hacking Guide:** Technical FAQ by theruler, Version 4.0 (June 14, 2017)[^ref-11]
 
@@ -227,8 +230,6 @@ Period coverage concentrated on the game's presentation. MSX Magazine singled ou
 - [Classic Reload – Browser Playable](https://classicreload.com/fire-hawk.html)
 
 **Soundtrack Downloads**
-- [Khinsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-pc-8801)
-- [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll)
 - [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll)
 
 ## See Also
@@ -256,11 +257,9 @@ Period coverage concentrated on the game's presentation. MSX Magazine singled ou
 [^ref-16]: [Glitchwave – Fire Hawk](https://glitchwave.com/game/fire-hawk-thexder-the-second-contact/) – aggregate rating, media format
 [^ref-17]: [GameFAQs – PC Version Data](https://gamefaqs.gamespot.com/pc/935279-fire-hawk-thexder-the-second-contact/data) – release dates by platform, publisher description, compilations (Action Five, Sierra Value Pack)
 [^ref-18]: [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll) – composer credits (incl. Beethoven, Masakuni Mitsuhashi), sound chip information
-[^ref-19]: [Khinsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-pc-8801) – track list, duration, file size, user comment
 [^ref-20]: [MSX.org Forum – Fire Hawk Discussion](https://www.msx.org/forum/msx-talk/software/fire-hawk-thexder-second-contact?page=2) – patched version's FM detection, clock-chip save problems, BASIC save workaround
 [^ref-21]: [PCGamingWiki – Fire Hawk](https://www.pcgamingwiki.com/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – DOS video modes, copy protection, save support, release date
 [^ref-22]: [OPL3.com – Fire Hawk Audio Comparison](https://www.opl3.com/fire-hawk-thexder-the-second-contact/) – OPL2 vs MT-32 soundtrack comparison
-[^ref-23]: [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll) – track list, duration, file sizes
 [^ref-24]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 18](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n17/mode/1up) – "Get Ready for Firehawk": 9 combat missions, 11 songs, 4 years after Thexder
 [^ref-25]: [DOS.Zone – Fire Hawk](https://dos.zone/fire-hawk-thexder-the-second-contact-1990/) – browser playability, virtual mobile controls
 [^ref-26]: [Internet Archive – The One #29 (February 1991), p. 27](https://archive.org/details/theone-magazine-29/page/n26/mode/1up) – Sierra company feature, Game Arts section (not a review): "Thexder II looks set to surpass the success of the original"
@@ -272,3 +271,4 @@ Period coverage concentrated on the game's presentation. MSX Magazine singled ou
 [^ref-32]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 55](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n54/mode/1up) – price list: Firehawk $34.95, EGA/VGA only; MS-DOS products shipped with 3.5" and 5.25" disks
 [^ref-33]: [MobyGames – Action Five](https://www.mobygames.com/game/47233/action-five/) – 1992 Sierra compilation of Thexder, Silpheed, Zeliard, Firehawk and Oil's Well
 [^ref-34]: [Internet Archive – Aktueller Software Markt, Aug/Sep 1990](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1990.08-09) – preview of "THEXDER 2:FIREHAWK": nine missions, eleven melodies, "Erscheinungstermin (ohne Gewähr...): Oktober für MS DOS" (OCR text)
+[^ref-35]: [Internet Archive – MSX Club, issue 61, p. 24](https://archive.org/details/MSXClub) – Spanish review of the MSX2 version (file "MSX Club 61"; scan leaf n23, checked against the page image): data panel, START/CONTINUE/PRACTICE/SYSTEM menu, LOAD/SAVE/MUSIC submenu
