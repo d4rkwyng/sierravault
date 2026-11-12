@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom (assembly language)
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 'Sammy Lightfoot is a 1983 multi-level platform game, called a "climbing game" in the United States at the time, written by Warren Schwader and published by Sierra On-Line.'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -55,6 +55,8 @@ On the Commodore 64 an options screen sets one or two players taking turns, the 
 
 On the Apple II, the manual says to press Ctrl-O after the title pages to reach an options page. There the player sets the number of players, the controller for each player (joystick, paddle 0, paddle 1 or keyboard), sound effects, scene-start tunes, the starting level (0 to 6) for each player, and whether to save the options. The manual states that the game "can be played by one or two players."[^ref-24] This agrees with MobyGames, which lists one or two players for the Apple II and carries an Apple II screenshot captioned "Options", and with Retro365's description of one- or two-player hot-seat play.[^ref-4][^ref-12] Sierra Chest's note that the Apple II release "appears to only have single player and no options screen" is contradicted by the manual.[^ref-7][^ref-24]
 
+The Apple II manual gives keyboard controls for both right- and left-handed players: J, K and L (move left, stop or let go, move right) or S, D and F, with the spacebar to jump, hang onto ropes, gain altitude on trampolines and start the elevators. Esc pauses the game and Ctrl-R restarts it. If no key is pressed after the title pages, a demonstration game begins. In scene one, a pressure-sensitive switch to the right of the top rope must be stepped on to turn the rope on before the player can challenge the pumpkin. Players who qualify can enter their initials in the "SAMMY LIGHTFOOT Hall of Fame", and the options page has a "Reset high scores" entry.[^ref-24]
+
 ### Structure and Progression
 
 The game consists of three scenes, each filling one screen with no scrolling:[^ref-8]
@@ -63,9 +65,9 @@ The game consists of three scenes, each filling one screen with no scrolling:[^r
 - **Scene 2:** Sammy crosses four platforms that vanish and reappear in a pattern, jumps back over platforms that move up and down, rides elevators, and finally steers a flying carpet to the last platform.[^ref-7][^ref-8]
 - **Scene 3:** Sammy runs past bouncing balls, dodges beams that move up and down from the ceiling, and swings from rope to rope over fire to reach the pumpkin's platform.[^ref-7][^ref-8]
 
-Each player has four lives, and no extra lives can be earned.[^ref-7][^ref-24] After all three scenes are complete, the game starts again at scene 1 one difficulty level higher.[^ref-7][^ref-8] The Apple II manual says there are 12 difficulty levels for each of the three scenarios, and *Creative Computing* likewise describes "twelve levels of difficulty."[^ref-24][^ref-23] Sierra Chest counts 12 levels (0–11) on the Apple II, which returns to level 6 after level 11, and 8 levels (0–7) on the Commodore 64, where level 7 repeats indefinitely.[^ref-7] Retro365 says that completing the three stages on the highest difficulty level (6) wins the game.[^ref-12] The manual's starting-level option runs from 0 to 6, which matches the "(6)" in Retro365's account.[^ref-24]
+Each player has four lives (the Apple II manual: "You get 4 men per game"),[^ref-24] and no extra lives can be earned.[^ref-7] After all three scenes are complete, the game starts again at scene 1 one difficulty level higher.[^ref-7][^ref-8] The Apple II manual says there are 12 difficulty levels for each of the three scenarios, and *Creative Computing* likewise describes "twelve levels of difficulty."[^ref-24][^ref-23] Sierra Chest counts 12 levels (0–11) on the Apple II, which returns to level 6 after level 11, and 8 levels (0–7) on the Commodore 64, where level 7 repeats indefinitely.[^ref-7] Retro365 says that completing the three stages on the highest difficulty level (6) wins the game.[^ref-12] The manual's starting-level option runs from 0 to 6, which matches the "(6)" in Retro365's account.[^ref-24]
 
-Scoring is time-based. Each scene starts a bonus timer at 9,990 points, which counts down at about 100 points per second, and whatever remains is added to the score when the scene is finished.[^ref-7] The game keeps a top-ten high-score list.[^ref-7][^ref-9]
+Scoring is time-based. Each scene starts a bonus timer at 9,990 points, which counts down at about 100 points per second, and whatever remains is added to the score when the scene is finished.[^ref-7] The game keeps a top-ten high-score list.[^ref-7][^ref-9] *Softline*'s reader-submitted High Scores listings include entries for Sammy Lightfoot of 69,120 in the January/February 1984 issue[^ref-30] and 281,080 in the March/April 1984 issue.[^ref-31]
 
 ### Puzzles and Mechanics
 
@@ -75,9 +77,11 @@ C64-Wiki says the controls must be "pixel exact" and that the enemies and obstac
 
 ### Contemporary Reviews
 
-According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release". It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average.[^ref-4]
+According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release", although the period coverage that survives was positive. It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average based on 3 ratings.[^ref-4]
 
-A period review was warmer. *Creative Computing*'s November 1983 software profile, signed "SW", gave the Apple II game the summary "Outstanding action" and concluded: "Of all action games released this year for the Apple II, it is undoubtedly one of the best."[^ref-23] *Softalk*'s July 1983 software listing described the premise as Sammy dodging "a variety of obstacles as he tries out for the circus", adding that "He evidently used to be a miner."[^ref-26]
+A period review was warmer. *Creative Computing*'s November 1983 software profile, signed "SW", gave the Apple II game the summary "Outstanding action" and concluded: "Of all action games released this year for the Apple II, it is undoubtedly one of the best."[^ref-23] *Softalk*'s July 1983 software listing described the premise as Sammy dodging "a variety of obstacles as he tries out for the circus", adding that "He evidently used to be a miner."[^ref-26] The same *Creative Computing* profile describes "an aspiring young acrobat with an electric red pompadour", says his "electric hair spins wildly when he is in trouble", and mentions "crazy pumpkins that scowl wickedly behind dark sunglasses."[^ref-23]
+
+*Family Computing*'s December 1983 holiday gift guide listed Sammy Lightfoot ("Ages 10+") for the Apple II, II Plus and IIe and the Commodore 64, and named the VIC-20 as well; that platform is listed by *Family Computing* only. In the same issue, an editorial wrote: "Show me a kid who won't choose Sammy Lightfoot or Archon over reruns of 'Mission Impossible,' and I'll eat my disk drive."[^ref-29]
 
 ### Modern Assessment
 
@@ -88,17 +92,17 @@ The same reviewer found the game unfair: "When put up against games like Hard Ha
 C64-Wiki users rate it 5.20 out of 10 from 15 votes.[^ref-8] Reviewer H.T.W called it "a very rudimentary platformer (only three screens, no speciality in the course of the game), that cannot really enthuse me. The most noticeable in this game is probably Sammy's head of hair..."[^ref-8] Another reviewer, Klaws, said of the C64 version: "Seems as if they have enriched the graphics of the Apple II version with a bit of colour and this was it."[^ref-8]
 
 **Aggregate Scores:**
-- **MobyGames:** 78% (critics)[^ref-4]
+- **MobyGames:** 78% (critics, 3 ratings)[^ref-4]
 - **C64-Wiki:** 5.20/10 (15 user votes)[^ref-8]
 - **Lemon64:** 8/10 in a review by Dean Creehan, who programmed the C64 conversion himself[^ref-19]
-- **MyAbandonware:** 3.25/5[^ref-13]
+- **MyAbandonware:** 3.3/5 (4 votes)[^ref-13]
 - **HonestGamers:** 2/5 (aschultz)[^ref-9]
 
 ## Development
 
 ### Origins
 
-Retro365 recounts that after his hit *Threshold*, Warren Schwader was becoming more devoted to the Jehovah's Witnesses and had begun to question his part in creating violent games. With "certainly no violence" as a guideline, he began work on Sammy Lightfoot, a light-hearted, circus-themed, multi-screen platform game.[^ref-12] His *Halcyon Days* interviewer called Sammy Lightfoot Schwader's "last published Apple II game".[^ref-20]
+Retro365 recounts that after his hit *Threshold*, Warren Schwader "had begun to question his part in creating violent games." With "certainly no violence" as a guideline, he began work on Sammy Lightfoot, a light-hearted, circus-themed, multi-screen platform game.[^ref-12] His *Halcyon Days* interviewer called Sammy Lightfoot Schwader's "last published Apple II game".[^ref-20]
 
 ### Production
 
@@ -158,7 +162,7 @@ Schwader wrote **Sammy's Icehouse**, which he said "was to be 'Sammy Lightfoot's
 
 Sierra Chest also lists the Atari 400/800 among the game's platforms. MobyGames, Wikipedia and Lemon64 record no Atari release, so that version is unverified.[^ref-7][^ref-4]
 
-The game was also released in Main Street Publishing's **Familiar Favorites IV** disk compilation for the Commodore 64, alongside *Oil's Well*.[^ref-6]
+The game was also released in Main Street Publishing's **Familiar Favorites IV** disk compilation for the Commodore 64, alongside *Oil's Well* ([[1983 - Oils Well]]).[^ref-6]
 
 ### Easter Eggs and Trivia
 
@@ -255,3 +259,6 @@ Andrew Schultz (aschultz) wrote a GameFAQs walkthrough (version 1.0.0, April 15,
 [^ref-26]: [Softalk, July 1983](https://archive.org/details/softalkv3n11jul1983) – software listing: "He evidently used to be a miner", $29.95
 [^ref-27]: [Softalk, August 1984](https://archive.org/details/softalkv4n12aug1984) – Bestsellers column: Dino Eggs and Sammy Lightfoot named as newcomers to the Arcade 10
 [^ref-28]: [Electronic Games, January 1983](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – "The Player's Guide to Climbing Games" special section; period use of "climbing game" as a genre term (the issue predates Sammy Lightfoot and does not mention it)
+[^ref-29]: [Family Computing, December 1983](https://archive.org/details/FamilyComputingIssue041983Dec) – holiday gift guide entry "Sammy Lightfoot, Ages 10+; available for Apple II/II plus/IIe; Commodore 64/VIC-20; Sierra On-Line"; editorial "I'll eat my disk drive" line (OCR reads "cat"; context and sense give "eat")
+[^ref-30]: [Softline, January/February 1984](https://archive.org/details/Softline_1984_01_02) – High Scores listing: "Sammy Lightfoot, Sierra On-Line", 69,120
+[^ref-31]: [Softline, March/April 1984](https://archive.org/details/Softline_1984_03_04) – High Scores listing: "Sammy Lightfoot, Sierra On-Line", 281,080
