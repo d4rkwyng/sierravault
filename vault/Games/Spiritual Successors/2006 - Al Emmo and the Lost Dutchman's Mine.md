@@ -10,7 +10,7 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
   developed and published by Himalaya Studios, released in September 2006 for
   Windows, with later Linux and iOS versions.
@@ -18,7 +18,7 @@ tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,16 +34,16 @@ The game features over 120 high-resolution, hand-painted background scenes, more
 > **Publisher:** Himalaya Studios[^ref-1]
 > **Engine:** Adventure Game Studio[^ref-9]
 > **Platforms:** Windows, Linux, iOS, iPad[^ref-8]
-> **Release Year:** 2006
+> **Release Year:** 2006[^ref-6]
 > **Series:** Al Emmo
 > **Protagonist:** Al Emmo
 > **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
 
-Al Emmo, a feeble, middle-aged Easterner[^ref-6], travels west by train from "New Yawk" to the Wild West town of Anozira to meet Ivanna Lottakash, the mail-order bride he has arranged through a magazine[^ref-3]. Over the previous two years Al has been married 37 times, all ending badly[^ref-3]. At Kevin's Saloon, Ivanna drops him as soon as she learns he cannot even afford to buy her a drink, and Al discovers the next train home will not arrive for another week, leaving him stranded in town[^ref-3].
+Al Emmo, a feeble, middle-aged Easterner[^ref-6], travels west by train from "New Yawk" to the Wild West town of Anozira to meet Ivanna Lottakash, the mail-order bride he has arranged through a magazine[^ref-3]. Over two years, Al marries 37 times, all ending badly[^ref-3]. At Kevin's Saloon, Ivanna drops him as soon as she learns he cannot even afford to buy her a drink, and Al discovers the next train home will not arrive for another week, leaving him stranded in town[^ref-3].
 
-Rita Peralto, the saloon's singer, immediately becomes Al's new object of desire[^ref-4]. His rival for her affections is Antonio Bandana (a parody of Antonio Banderas[^ref-3]), a Spanish royal who is only in town briefly[^ref-10]. As the story progresses, Al is drawn into the mystery of how Rita's father was killed on an expedition in search of a fabled Aztec treasure[^ref-5], and a thousand-year-old Aztec curse looms over the proceedings[^ref-6]. Al's desperate quest for love becomes intertwined with the search for the legendary treasure mine, said to contain inconceivable wealth[^ref-6].
+Rita Peralto, the saloon's singer[^ref-17][^ref-5], immediately becomes Al's new object of desire[^ref-4]. His rival for her affections is Antonio Bandana (a parody of Antonio Banderas[^ref-3]), a Spanish royal who is only in town briefly[^ref-10]. As the story progresses, Al is drawn into the mystery of how Rita's father was killed on an expedition in search of a fabled Aztec treasure[^ref-5], and a thousand-year-old Aztec curse looms over the proceedings[^ref-6]. Al's desperate quest for love becomes intertwined with the search for the legendary treasure mine, said to contain inconceivable wealth[^ref-6].
 
 The game unfolds across nine distinct acts, taking players through various locations in and around Anozira[^ref-4]. Al encounters a colorful cast of characters including Lou Heifer (a parody of Hugh Hefner), Pammy Sanderson (a parody of Pamela Anderson), Mayor Herbie Trinkwasser, Koko the Pharmacist, Kevin the Bartender, and various Native American characters[^ref-3][^ref-32]. The narrative blends Western adventure tropes with romantic comedy elements, though some critics noted that the titular mine doesn't become central to the plot until the seventh act[^ref-10].
 
@@ -95,12 +95,14 @@ RPGFan gave the 2013 version 75 out of 100, with individual scores of 80 for Gra
 
 The AGS Panel gave a mixed assessment, noting "the game shows promise but the grating voice acting of the main character and the narrator are almost unbearable" in the original version, though acknowledging that "if you can get past the voices you will find an enjoyable little game"[^ref-9].
 
+MobyGames lists 23 critic scores for the game, ranging from 100% (Adventurespiele, Just Adventure and Adventure Classic Gaming) down to 45% from GameStar (Germany), 31% from PC Powerplay and 20% from Pixel Pacas[^ref-8].
+
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (7 critic reviews)[^ref-18]
 - **MobyGames Critics:** 71% (23 ratings)[^ref-8]
 - **MobyGames Players:** 3.2/5 (14 ratings)[^ref-13]
 - **IMDB:** 7.2/10 (14 votes, as archived February 2026)[^ref-21]
-- **Steam:** Mixed (65% of 40 user reviews positive, as of October 2026)[^ref-6]
+- **Steam:** Mixed (65% of 40 user reviews positive, as of November 2026)[^ref-6]
 
 ## Development
 
