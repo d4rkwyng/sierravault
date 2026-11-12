@@ -10,16 +10,14 @@ series: 3D Ultra
 engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-27'
-description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
- Games and published by Konami Digital Entertainment, released in October 2010 for Xbox
- Live...
+last_updated: '2026-11-11'
+description: "3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Konami Digital Entertainment, released on October 27, 2010 for Xbox Live Arcade and on November 16, 2010 for PlayStation Network."
 tags: [2010s, 3d-ultra, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -48,17 +46,33 @@ The franchise's approach to course design evolved significantly from the origina
 
 ## Gameplay
 
-### Interface and Controls
+### Course Content
 
-The series offered multiple control schemes. The original featured two primary methods: "EasyPutt" and "TruePutt," with one reviewer observing "There's a reason why the EasyPutt style is still around in golf games to this day and TruePutt is lost to time"[^ref-3]. Adventures offered three control options: a Tiger Woods-style right stick system, a three-click A button method, and a hold-and-release A button technique[^ref-1]. One GameFAQs reviewer of the 2006 game praised this variety: "Control in this game is nicely handled... I'm really surprised they offered all three options"[^ref-7].
+Adventures 2 has 54 themed holes. Xbox Wire's launch listing names three themes, the Haunted Manor, Manic Museum and Winter Wonderland[^ref-13], and MobyGames describes the holes as "such as a haunted mansion and an icy mountain"[^ref-12]. Power-ups can give the ball additional properties, such as bouncing over obstacles[^ref-12]; Xbox Wire describes "silly power-ups" used to sabotage opponents in 4 player matches[^ref-13].
 
-### Structure and Progression
+### Course Creator and Customization
 
-The original game provided 18 holes total across two 9-hole courses[^ref-3], while Adventures expanded to 36 holes with additional downloadable content[^ref-15]. Adventures offered four characters, though Andy Merrill wrote that "there is no benefit to using any of them. They all play exactly the same"[^ref-1]. A review of the 1997 original described hidden secrets in almost every hole that could lead to hole-in-ones, including shortcuts like hitting birds to carry balls or using temple doors for teleportation[^ref-8].
+MobyGames describes a returning course creator that lets the player build a course by placing blocks of pre-made stretches into a 5x5 grid[^ref-12]. Xbox Wire's listing also invites players to "create your own wacky course"[^ref-13], and Game Informer's report on the March 2010 announcement mentions a map editor[^ref-21]. New to this version is the ability to customize the clothing and hair of the player's avatar, and Xbox 360 users may also play using their Xbox Avatar[^ref-12]. Xbox Wire lists accessories including a diving helmet, elf ears and Roman sandals[^ref-13].
 
-### Puzzles and Mechanics
+### Availability and Pricing
 
-The series emphasized physics-based puzzle solving over traditional golf mechanics. However, this proved problematic in Adventures (2006), with GameSpot's Aaron Thomas noting "The physics are so erratic that you never know how far the ball will actually go or how it will react when it hits something"[^ref-9]. GamesRadar's review of that game was equally critical: "It's too bad the shoddy, simplistic physics ruin what could otherwise be a solid game of golf"[^ref-10]. GamesRadar also wrote that its courses avoided "standard, low-rent mini golf fare" in favor of elaborate themed environments[^ref-10].
+On Xbox 360 the game launched at 800 Microsoft Points in France, Germany, Ireland, Italy, North America, Spain and the U.K., with a free trial available[^ref-13].
+
+### Earlier Games in the Series
+
+The remaining notes in this section describe the controls and design of earlier games in the series, not Adventures 2 itself.
+
+#### Interface and Controls
+
+The earlier games offered multiple control schemes. The 1997 original featured two primary methods: "EasyPutt" and "TruePutt," with one reviewer observing "There's a reason why the EasyPutt style is still around in golf games to this day and TruePutt is lost to time"[^ref-3]. The 2006 Adventures offered three control options: a Tiger Woods-style right stick system, a three-click A button method, and a hold-and-release A button technique[^ref-1]. One GameFAQs reviewer of the 2006 game praised this variety: "Control in this game is nicely handled... I'm really surprised they offered all three options"[^ref-7].
+
+#### Structure and Progression
+
+The 1997 original provided 18 holes total across two 9-hole courses[^ref-3], while the 2006 Adventures expanded to 36 holes with additional downloadable content[^ref-15]. The 2006 Adventures offered four characters, though Andy Merrill wrote that "there is no benefit to using any of them. They all play exactly the same"[^ref-1]. A review of the 1997 original described hidden secrets in almost every hole that could lead to hole-in-ones, including shortcuts like hitting birds to carry balls or using temple doors for teleportation[^ref-8].
+
+#### Puzzles and Mechanics
+
+Reviewers of the 2006 Adventures were critical of its physics, with GameSpot's Aaron Thomas noting "The physics are so erratic that you never know how far the ball will actually go or how it will react when it hits something"[^ref-9]. GamesRadar's review of that game was equally critical: "It's too bad the shoddy, simplistic physics ruin what could otherwise be a solid game of golf"[^ref-10]. GamesRadar also wrote that its courses avoided "standard, low-rent mini golf fare" in favor of elaborate themed environments[^ref-10].
 
 ## Reception
 
@@ -82,9 +96,19 @@ The 3D Ultra MiniGolf franchise emerged from Sierra's successful 3D Ultra series
 
 | Game | Year | Developer | Platforms |
 |------|------|-----------|-----------|
-| 3-D Ultra MiniGolf | 1997 | Dynamix | DOS, Windows |
-| 3D Ultra Minigolf Adventures | 2006-2007 | Wanako Games | Windows, Xbox 360 |
-| 3D Ultra Minigolf Adventures 2 | 2010 | Wanako Games | Xbox 360, PS3 |
+| 3-D Ultra MiniGolf | 1997 | Dynamix | Windows[^ref-5] |
+| 3-D Ultra MiniGolf Deluxe | 1998 | Dynamix | Windows[^ref-5] |
+| 3D Ultra Minigolf Adventures | Dec 20, 2006 (Windows); Apr 18, 2007 (Xbox 360) | Wanako Games | Windows, Xbox 360[^ref-5] |
+| Lost Island expansion | Jul 25, 2007 | Wanako Games | Xbox 360[^ref-4] |
+| 3D Ultra Minigolf Adventures Deluxe | Jul 23, 2009 | Wanako Games (published by Activision) | Windows (Steam)[^ref-19] |
+| 3D Ultra Minigolf Adventures 2 | Oct 27, 2010 (Xbox 360); Nov 16, 2010 (PS3) | Wanako Games | Xbox 360, PS3[^ref-12] |
+
+### Version History
+
+| Version | Platform | Release date | Price / notes |
+|---------|----------|--------------|---------------|
+| Xbox Live Arcade | Xbox 360 | October 27, 2010[^ref-12][^ref-13] | 800 Microsoft Points; free trial available[^ref-13] |
+| PlayStation Network | PlayStation 3 | November 16, 2010[^ref-12] | Digital release via PlayStation Network[^ref-12] |
 
 ### Production
 

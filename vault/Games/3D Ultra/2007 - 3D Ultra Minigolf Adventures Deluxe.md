@@ -23,7 +23,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2][^ref-21]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-20].
+*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2][^ref-21]. The game is part of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-20].
 
 The hole count is reported differently by different sources. The Steam store text and Kotaku describe 36 holes across three themes (Classic Carnival, Old West and Outer Space)[^ref-16][^ref-7], while Sierra Chest lists those 36 holes plus 18 from the Lost Island expansion, totaling 54[^ref-20]. Demo disks sold for one dollar apiece at Taco Bell restaurants from May 24 to June 27, 2007 each previewed four holes of one of the game's themes[^ref-19]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
 
@@ -180,7 +180,7 @@ The 3-D Ultra series appeared in numerous Sierra compilation packages throughout
 
 ### Series Evolution
 
-The 3-D Ultra Minigolf series evolved alongside other 3-D Ultra branded games including pinball, pool, radio control racers, and train simulation titles[^ref-4][^ref-17]. A sequel, *3D Ultra Minigolf Adventures 2*, was later produced by Artificial Mind and Movement Inc., developed by Wanako Games, and published by Konami Digital Entertainment[^ref-3]. That game was released in September 2010 for Xbox 360 and PlayStation 3, featuring over 50 minigolf holes for up to four players[^ref-3].
+The 3-D Ultra Minigolf series evolved alongside other 3-D Ultra branded games including pinball, pool, radio control racers, and train simulation titles[^ref-4][^ref-17]. A sequel, *3D Ultra Minigolf Adventures 2*, was later produced by Artificial Mind and Movement Inc., developed by Wanako Games, and published by Konami Digital Entertainment[^ref-3]. That game was released on October 27, 2010 for Xbox 360 and November 16, 2010 for PlayStation 3[^ref-25][^ref-26], featuring over 50 minigolf holes for up to four players[^ref-3].
 
 ### Fan Projects
 
@@ -238,3 +238,5 @@ The game has a listing on GOG's Dreamlist from users hoping to see the title add
 [^ref-22]: [LaunchBox Games Database – 3D Ultra Minigolf Adventures Deluxe](https://gamesdb.launchbox-app.com/games/details/115898-3d-ultra-minigolf-adventures-deluxe) — community-curated metadata; publisher Activision Publishing, platform Windows
 [^ref-23]: [Behaviour Interactive Chile Ltda. (formerly Wanako Games) – MobyGames](https://www.mobygames.com/company/9116/behaviour-interactive-chile-ltda/) — developer company history; founded as Wanako Games in 2002
 [^ref-24]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) — Xbox 360 release April 18, 2007; Lost Island expansion added for Xbox Live July 25, 2007
+[^ref-25]: [MobyGames – 3D Ultra Mini Golf Adventures 2](https://www.mobygames.com/game/53716/3d-ultra-mini-golf-adventures-2/) – Xbox 360 release 2010-10-27, PlayStation 3 release 2010-11-16 (read via the MobyGames API)
+[^ref-26]: [Xbox Wire – Arcade: 3D Ultra MiniGolf Adventures 2 (October 27, 2010)](https://news.xbox.com/en-us/2010/10/27/arcade-3d-ultra-minigolf-adventures-2/) – Microsoft's Xbox 360 launch listing dated October 27, 2010

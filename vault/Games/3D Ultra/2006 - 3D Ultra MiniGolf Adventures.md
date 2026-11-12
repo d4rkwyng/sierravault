@@ -191,7 +191,7 @@ The game was released on Steam on July 23, 2009, published by Activision.[^ref-2
 
 ### Sequel
 
-3D Ultra Minigolf Adventures 2 was produced by Artificial Mind and Movement Inc. and released by Konami Digital Entertainment in September 2010.[^ref-2] The sequel, also developed by Wanako Games, featured over 50 minigolf holes for up to four players and expanded to the Sony PlayStation 3 in addition to Xbox 360.[^ref-2]
+3D Ultra Minigolf Adventures 2 was produced by Artificial Mind and Movement Inc. and released by Konami Digital Entertainment on October 27, 2010 for Xbox 360 and November 16, 2010 for PlayStation 3.[^ref-24][^ref-25] The sequel, also developed by Wanako Games, featured over 50 minigolf holes for up to four players and expanded to the Sony PlayStation 3 in addition to Xbox 360.[^ref-2]
 
 ### Lost Island Expansion
 
@@ -253,3 +253,5 @@ GameSpot summed the game up as "a bit of fun when played with friends, but the s
 [^ref-20]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – Community hub, titled "3D Ultra Minigolf Adventures Deluxe"
 [^ref-21]: [MobyGames – 3D Ultra Mini Golf Adventures releases](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/releases/) – Windows Dec 20, 2006 (GameTap, US/Canada); Xbox 360 Apr 18, 2007; Steam Jul 23, 2009 (Activision)
 [^ref-23]: [Wikipedia – Behaviour Santiago](https://en.wikipedia.org/wiki/Behaviour_Santiago) – formerly Wanako Games Chile; "a Chilean video game developer based in Santiago", founded 2002, acquired by Vivendi Games 2007
+[^ref-24]: [MobyGames – 3D Ultra Mini Golf Adventures 2](https://www.mobygames.com/game/53716/3d-ultra-mini-golf-adventures-2/) – Xbox 360 release 2010-10-27, PlayStation 3 release 2010-11-16 (read via the MobyGames API)
+[^ref-25]: [Xbox Wire – Arcade: 3D Ultra MiniGolf Adventures 2 (October 27, 2010)](https://news.xbox.com/en-us/2010/10/27/arcade-3d-ultra-minigolf-adventures-2/) – Microsoft's Xbox 360 launch listing dated October 27, 2010
