@@ -10,21 +10,21 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Christopher Stevens]
 description: 3-D Ultra Lionel TrainTown Deluxe is a stand-alone 2000 reissue of the 1999
   railroading puzzle game 3-D Ultra Lionel TrainTown, developed by Dynamix and published
   by Sierra Attractions for Windows, adding more jobs, three new worlds and a track editor.
 tags: [2000s, 3d-ultra, puzzle, sierra]
-last_modified: 2026-11-06T12:00:00-06:00
+last_modified: 2026-11-12T12:00:00-06:00
 ---
 # 3-D Ultra Lionel TrainTown Deluxe
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-3-D Ultra Lionel TrainTown Deluxe is a railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows, released on September 30, 2000[^ref-9][^ref-23][^ref-15][^ref-28]. MobyGames also lists it as *3-D Ultra Mini Train Deluxe* (French title) and *3D Ultra TrainTown Deluxe* (UK title)[^ref-28]. It is a stand-alone reissue of [[1999 - 3-D Ultra Lionel TrainTown]]: the D.I.C.E. database describes it as enhancing "the previous game by adding 50 new missions and a new track creation system"[^ref-8]. A modern retrospective sums it up as an enhanced version "that has more levels than the standard version and a level editor"[^ref-2].
+3-D Ultra Lionel TrainTown Deluxe is a railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows, released on September 30, 2000[^ref-9][^ref-23][^ref-15][^ref-28]. MobyGames also lists it as *3-D Ultra Mini Train Deluxe* (French title) and *3D Ultra TrainTown Deluxe* (UK title)[^ref-28]. A second release, dated November 2000, covered France, Germany, Spain and the United Kingdom and was distributed by Havas Interactive SA[^ref-28]. It is a stand-alone reissue of [[1999 - 3-D Ultra Lionel TrainTown]]: the D.I.C.E. database describes it as enhancing "the previous game by adding 50 new missions and a new track creation system"[^ref-8]. A modern retrospective sums it up as an enhanced version "that has more levels than the standard version and a level editor"[^ref-2].
 
 The Deluxe box promises "more than 80 jobs, from building an Eiffel Tower at the North Pole, to feeding a baby T-Rex, to rescuing a crashed UFO," set across "10 fantastic worlds"[^ref-25]. Review Corner's contemporary review counted "80+ puzzles, 3 new train worlds (for a total of 10), and a newly designed track layout system"[^ref-27]. ModDB's blurb, written for the original game, says it "is designed for anyone but will mostly appeal to those interested in trains and/or puzzles"[^ref-17].
 
@@ -38,6 +38,7 @@ For the original game's history, the 1999 Interactive Achievement Award and its 
 > **Composer:** Christopher Stevens (credited for the original game)[^ref-9]
 > **Platforms:** Windows[^ref-23]
 > **Release Year:** 2000 (September 30, 2000)[^ref-9][^ref-23]
+> **Content Rating:** ESRB Everyone; ELSPA 3+[^ref-28]
 > **Alternate Titles:** 3-D Ultra Mini Train Deluxe (French); 3D Ultra TrainTown Deluxe (UK)[^ref-28]
 > **Series:** 3D Ultra
 > **Protagonist:** N/A (player-controlled trains; career ranks from Caboose Washer to Whistle Blower)[^ref-27]
@@ -87,6 +88,12 @@ Most jobs mean picking up and delivering loads with various wagons that each car
 
 Review Corner (reviewed November 2000) scored Deluxe 9.6 out of 10 and called it "extraordinarily fun and provides an excellent workout for the brain at the same time"[^ref-27]. It added that "You don't have to be a train buff to enjoy the program's variety of puzzles, zany missions, and gorgeous graphics." The site put the game on its Best Children's Educational Software list and gave it its Award of Excellence[^ref-27].
 
+Edutaining Kids (reviewed February 2002) named it a "Top Pick" and graded it A+, advising that "If you own the original version, this deluxe package may not be worth buying, but those who have never experienced this exciting and pleasantly addictive program should go for this deluxe program"[^ref-29].
+
+### Aggregate Scores
+
+- **Metacritic:** user score 6.3 out of 10 from 4 ratings; no critic reviews (as of November 2026)[^ref-30]
+
 ### Awards
 
 Deluxe itself won no award. The award belongs to the **original** game. D.I.C.E. calls Deluxe "a stand-alone reissue of 3D Ultra Train Town, which was voted '2000 Family Game of the Year'"[^ref-8]. The original won PC Family Entertainment Title of the Year at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000 in Los Angeles during E3 2000[^ref-26]. See [[1999 - 3-D Ultra Lionel TrainTown]].
@@ -100,13 +107,17 @@ GameFAQs reviewer spiceworm (2024) gave it 6/10, writing "The easy controls and 
 Mex's Articles and Reviews (2025) scored it 7.5 out of 10 and praised the game's variety and voice acting. The reviewer disliked the mix of realistic towns with toy-train settings, saying "This mix breaks the immersion"[^ref-2].
 
 **User Ratings:**
-- **MyAbandonware:** 4.41/5 (46 votes, as of October 2026)[^ref-13]
+- **MyAbandonware:** 4.43/5 (47 votes, as of November 2026)[^ref-13]
 
 ## Development
 
 ### Origins
 
 Deluxe was developed by Dynamix as an expanded follow-up to its 1999 Lionel-licensed puzzle game[^ref-8][^ref-9]. The new content, per the box: more than 80 jobs, ten worlds, the Phantom locomotive, the Layout Tinkerer, and "over 45 locomotives and cars, all beautifully rendered from highly accurate, detailed Lionel models"[^ref-25]. D.I.C.E.'s description mentions "over 30 authentic models from Lionel's own line of miniature locomotives that span the ages of steam through diesel"[^ref-8]. IGN marks the Phantom Engine, three toy steam engines and toy-train wagons as new in Deluxe[^ref-11].
+
+### Licensing and Manual
+
+MobyGames credits Lionel, LLC as licensor and The Russell Group for the manual[^ref-28]. It lists ESRB Everyone and ELSPA 3+ ratings for the Windows release[^ref-28].
 
 ### Shared with the Original
 
@@ -134,8 +145,9 @@ A user-submitted GOG Dreamlist entry for the original game claims that "A port w
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Deluxe release | September 30, 2000 | Windows | Stand-alone reissue with 50 new missions[^ref-8][^ref-9][^ref-23] |
+| Europe release | November 2000 | Windows | France, Germany, Spain and the UK; distributed by Havas Interactive SA[^ref-28] |
 | 2.0.0.0 | - | Windows | Installed version; NoCD works only for this version[^ref-13] |
-| 2.0.1.0 | - | Windows | Requires disc image mounted in virtual drive[^ref-13] |
+| 2.0.1.0 | October 21, 2000 | Windows | Patch 2.00 to 2.01, "Fixes display & lock-up problems"[^ref-28]; MyAbandonware notes this version requires the disc image mounted in a virtual drive[^ref-13] |
 
 IGN's guide also mentions a "V1.1 patch" needed for the NoFuel cheat. The guide covers both editions, and it is unclear which one the patch applies to[^ref-11].
 
@@ -217,4 +229,6 @@ The game is not sold on major digital stores. GOG's Dreamlist entry for the orig
 [^ref-25]: [Eli's Software Encyclopedia – 3-D Ultra Lionel TrainTown Deluxe (PC, CD-ROM) Sierra 2000](https://elisoftware.org/wiki/3-D_Ultra_Lionel_TrainTown_Deluxe_(PC,_CD-ROM)_Sierra_-_2000_USA,_Canada_Release) – box text: 80+ jobs, 10 worlds, Phantom locomotive, Layout Tinkerer, 45+ locomotives and cars, system requirements, product ID
 [^ref-26]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony May 11, 2000 in Los Angeles during E3 2000; original game won PC Family Entertainment Title of the Year
 [^ref-27]: [Review Corner – 3D Ultra Lionel Train Town Deluxe (archived)](https://web.archive.org/web/20060219081156/http://reviewcorner.com/software/3dultralioneldlx.html) – November 2000 review, 9.6/10; 80+ puzzles, 10 worlds, 14-job rosters, Layout Tinkerer, requirements, price
-[^ref-28]: [MobyGames – 3-D Ultra Lionel Train Town Deluxe](https://www.mobygames.com/game/17749/3-d-ultra-lionel-train-town-deluxe/) – read via the MobyGames API; Windows release 2000-09-30, French and UK alternate titles, minimum Windows 95/Pentium/32 MB/DirectX 7.0
+[^ref-28]: [MobyGames – 3-D Ultra Lionel Train Town Deluxe](https://www.mobygames.com/game/17749/3-d-ultra-lionel-train-town-deluxe/) – read via the MobyGames API; Windows release 2000-09-30, Europe release 2000-11 (Havas Interactive SA), patch 2.00 to 2.01 (2000-10-21), ESRB Everyone, ELSPA 3+, Lionel, LLC licensor, The Russell Group manual, French and UK alternate titles, minimum Windows 95/Pentium/32 MB/DirectX 7.0
+[^ref-29]: [Edutaining Kids – 3D Ultra Lionel TrainTown Deluxe](https://www.edutainingkids.com/reviews/3dultralioneltraintowndlx.html) – reviewed February 2002, Top Pick, A+, ages 8+; advice for owners of the original
+[^ref-30]: [Metacritic – 3D Ultra TrainTown Deluxe](https://www.metacritic.com/game/3d-ultra-traintown-deluxe/) – user score 6.3 from 4 ratings, no critic reviews, as of November 2026
