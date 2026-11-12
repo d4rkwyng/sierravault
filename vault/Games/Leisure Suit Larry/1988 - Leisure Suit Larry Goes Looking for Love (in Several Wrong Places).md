@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s comedy adventure series, released by Sierra On-Line
@@ -21,7 +21,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ Adventure Classic Gaming judged it "at least 3 times longer than the original,"[
 > **Designer:** [[Al Lowe]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI0 (Sierra's Creative Interpreter)[^ref-2]
-> **Platforms:** MS-DOS, Amiga, Atari ST, Windows[^ref-1]
+> **Platforms:** DOS, Amiga, Atari ST, Windows[^ref-1]
 > **Release Year:** 1988[^ref-1]
 > **Producer:** [[Al Lowe]] (executive producer)[^ref-1]
 > **Composer:** [[Al Lowe]][^ref-1]
@@ -87,7 +87,7 @@ The text parser carries over the first game's tradition of humorous responses to
 
 The game received strong reviews upon release, with critics praising its expanded scope and improved technology. Bob Guerra of *Compute!* called it a "terrific sequel to one of the best adventure games ever written" and found it "thoroughly entertaining from beginning to end. The story is as interesting as anything you're likely to find on network television, and less predictable to boot."[^ref-6][^ref-43]
 
-*Commodore User* awarded the game 9 out of 10, describing it as "Not only an adventure, but a complete entertainment package."[^ref-24][^ref-6] *Computer and Video Games* gave it 90%, calling it "A superb piece of all-round entertainment, particularly, but not exclusively, suited to adventure players."[^ref-24][^ref-6] *PC Format* noted that "The three Larry games so far plumb new depths in computer entertainment — they're crude, suggestive, full of innuendo and double entendres and designed to appeal to the worst aspects of human nature — you'll love 'em."[^ref-6]
+*Commodore User* awarded the game 9 out of 10, describing it as "Not only an adventure, but a complete entertainment package."[^ref-24][^ref-6] *Computer and Video Games* gave it 90%, calling it "A superb piece of all-round entertainment, particularly, but not exclusively, suited to adventure players."[^ref-24][^ref-6] *PC Format* (October 1991) noted that "The three Larry games so far plumb new depths in computer entertainment — they're crude, suggestive, full of innuendo and double entendres and designed to appeal to the worst aspects of human nature — you'll love 'em."[^ref-6]
 
 *Amiga Action* awarded 74%, while *CU Amiga Magazine* gave the 1994 budget re-release 84%.[^ref-6]
 
@@ -98,7 +98,7 @@ Modern critics have been more mixed in their assessment, particularly regarding 
 A 2023 retrospective awarded the game 64%, praising its technical improvements but criticizing its "frustratingly vague puzzles" and design requiring exact character positioning for interactions.[^ref-2] One MobyGames user review put it bluntly: "The biggest problem with this game is WHY is Larry doing any of the things he is doing? In the first game, the objective was simple: get Larry laid. All the actions & jokes stemmed from that. In this game, Larry has no idea what is happening."[^ref-1]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 77%[^ref-1]
+- **MobyGames Critics:** 78% (25 reviews, as of November 2026)[^ref-1]
 - **IMDB:** 7.2/10 (151 ratings, June 2026)[^ref-19]
 - **Steam User Reviews:** Mixed, 63% of 133 (Oct 2026; no longer sold on Steam)[^ref-27]
 - **Power Play (1990):** #3 Best Adventure of 1989[^ref-1]
@@ -117,7 +117,7 @@ Development utilized Sierra's new SCI engine, making this one of the earliest ti
 
 "In Larry 2 we tried something a little different from our original protection of requiring a distribution disk," Al Lowe explained. "We included the pictures of girls from Larry's 'little black book.' The game shows you one when it starts up, and you enable play by completing her phone number. The pictures, by the way, are intentionally bad in the book so that they can't be Xeroxed easily."[^ref-3]
 
-After the game's release, Sierra ran a CompuServe contest for the funniest Trite Phrase. According to MobyGames' trivia, the winning line, "Do you want fries with that?", came from [[Josh Mandel]], who later joined Sierra.[^ref-1] Mandel's own accounts trace his hiring to beta-testing rather than the contest: he had asked producer [[Guruka Singh Khalsa]], whom he knew from CompuServe's Gamers Forum, about testing for Sierra, and after a couple of years of testing Guruka offered him a job as his junior producer in early 1990.[^ref-46][^ref-47]
+The game includes a "Trite Phrase" option that lets players enter a catchphrase repeated over the course of the game; the default is "Have a nice day."[^ref-6] After the game's release, Sierra ran a CompuServe contest for the funniest Trite Phrase. According to MobyGames' trivia, the winning line, "Do you want fries with that?", came from [[Josh Mandel]], who later joined Sierra.[^ref-1] Mandel's own accounts trace his hiring to beta-testing rather than the contest: he had asked producer [[Guruka Singh Khalsa]], whom he knew from CompuServe's Gamers Forum, about testing for Sierra, and after a couple of years of testing Guruka offered him a job as his junior producer in early 1990.[^ref-46][^ref-47]
 
 **Development Credits:**[^ref-1][^ref-24]
 - **Designer:** [[Al Lowe]]
@@ -161,7 +161,7 @@ The game's ending was originally planned to give players more control during the
 | 1.002.000 | January 11, 1989 | MS-DOS | Later floppy release; birthday cheat functional[^ref-41][^ref-32] |
 | — | 1989 | Amiga/Atari ST | Platform ports[^ref-1] |
 | Collection | 1994 | PC | Included in Greatest Hits and Misses[^ref-33] |
-| Kixx XL | February 17, 1994 | Amiga/Atari ST | Budget re-release, original price £10.99[^ref-24] |
+| Kixx XL | February 17, 1994 | Amiga/Atari ST | Budget re-release, original price £10.99;[^ref-24] published by U.S. Gold under its Kixx XL label in the United Kingdom, France, Germany and Italy[^ref-1] |
 | Collection | 1997 | MS-DOS/Windows | Leisure Suit Larry Collection Series[^ref-34] |
 | ScummVM | January 17, 2013 | Windows/macOS | Re-release run through ScummVM; the GOG.com release is pre-packaged with ScummVM[^ref-31] |
 | ScummVM | December 17, 2015 | Linux | ScummVM re-release[^ref-31] |
@@ -295,6 +295,6 @@ Sierra deliberately toned down Larry's sexual escapades for the sequel in favour
 [^ref-43]: [Compute! Issue 109 (June 1989), p. 66 – Bob Guerra review](https://archive.org/download/1989-06-compute-magazine/Compute_Issue_109_1989_Jun_djvu.txt) – contemporary review text
 [^ref-44]: [FunTrivia – "Leisure Suit Larry 2" Part 2 Quiz](https://www.funtrivia.com/trivia-quiz/VideoGames/Leisure-Suit-Larry-2-Part-2-375180.html) – "If Larry has sex with the maid, her overprotective brother will walk in the room with a gun… and kill Larry"
 [^ref-45]: [PC Gamer – Crapshoot: Leisure Suit Larry 2 and its many unavoidable deaths](https://www.pcgamer.com/saturday-crapshoot-leisure-suit-larry-2/) – the hotel maid scene ends in one of the game's deaths
-[^ref-46]: [Adventure Classic Gaming – Josh Mandel interview](http://www.adventureclassicgaming.com/index.php/site/interviews/196/) – Philip Jong, 2006: "I'd met Guruka on the Gamers Forum on CompuServe… After testing for a couple of years, he offered me a job as his junior producer"
+[^ref-46]: [Adventure Classic Gaming – Josh Mandel interview](http://www.adventureclassicgaming.com/index.php/site/interviews/196/) – posted by Philip Jong, 2006: "I'd met Guruka on the Gamers Forum on CompuServe… After testing for a couple of years, he offered me a job as his junior producer"
 [^ref-47]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "I asked Guruka if I could try betatesting for Sierra… In early 1990, Guruka asked if I'd be interested in a full-time position"
 [^ref-48]: [OpenCritic – Classic Raunchy 90s Adventure Series is Getting Delisted From Steam (Screen Rant, May 2, 2025)](https://opencritic.com/news/15674/classic-raunchy-90s-adventure-series-is-getting-delisted-from-steam-so-time-is-running-out-to-get-these-7-games) – Assemble Entertainment announced seven classic Larry games would be retired from Steam; no specific date given
