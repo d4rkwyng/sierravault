@@ -50,7 +50,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tim_Curry) · [Time Extension (Aug 26, 2026)](https://www.timeextension.com/news/2026/08/hollywood-legend-and-video-game-star-tim-curry-has-passed-away) · [Legends of Adventure on Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social/post/3mtziu52skc2s)
 
 > [!success] Gobliiins Collection Arrives on Nintendo Switch 2
-> **August 6, 2026** — Red Art Games released the **Gobliiins Collection** on Nintendo Switch 2. All five games now run in **4K**, and you can play with **Joy-Con mouse controls**. Owners of the Switch version get the upgrade free and can import their Switch saves.
+> **August 17, 2026** — Red Art Games released the **Gobliiins Collection** on Nintendo Switch 2. All five games now run in **4K**, and you can play with **Joy-Con mouse controls**. Owners of the Switch version get the upgrade free and can import their Switch saves.
 >
 > [Nintendo eShop](https://www.nintendo.com/store/products/gobliiins-collection-switch-2/) · [Gematsu](https://gematsu.com/2026/08/gobliiins-collection-now-available-for-switch-2)
 
