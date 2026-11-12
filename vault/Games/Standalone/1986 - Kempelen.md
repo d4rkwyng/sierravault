@@ -10,13 +10,13 @@ series: Standalone
 engine: null
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Kempelen (marketed as Kempelen Chess) is a Hungarian-made chess program from Andromeda Software, published by Sierra On-Line for the Commodore 64 in 1986 and also sold by Sierra for the Atari ST, with a 1988 MSX2 version from Pony Canyon in Japan.
 tags: [1980s, sierra, standalone, strategy]
 ---
 # Kempelen
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The Spacious Mind, a retro computer-chess site, puts the Commodore 64 version's 
 > **Engine:** Proprietary chess engine; the C64 version is written in 6502 assembly[^ref-6]
 > **Platforms:** Commodore 64, Atari ST, MSX2[^ref-16][^ref-24][^ref-7]
 > **Release Year:** 1986 (C64), December 1988 (MSX2)[^ref-16][^ref-7]
-> **Series:** N/A
+> **Series:** Standalone
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Published
 
@@ -213,30 +213,12 @@ Sierra's own price list advertised Kempelen Chess as "State-of-the-art in chess 
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[Sierra On-Line]] (publisher)
+- [[Release Timeline]]
+- [[1996 - Power Chess]]
+- [[1998 - Power Chess 98]]
+- [[1999 - Power Chess 2.0]]
+- [[2003 - Hoyle Majestic Chess]]
 
 ## References
 
