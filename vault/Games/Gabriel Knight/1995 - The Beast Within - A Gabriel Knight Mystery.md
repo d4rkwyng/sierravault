@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'The Beast Within: A Gabriel Knight Mystery is a 1995 full-motion video
  adventure game by Sierra On-Line. Jimmy Maher wrote that "at its best and judged in
  the context of its time, it was one of the most impressive interactive narratives
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -78,6 +78,8 @@ The Beast Within received widespread critical acclaim upon release, winning Comp
 | GameSpot | 8.3/10 | "The best interactive, live-action video adventure game to date"[^ref-59] |
 | Computer Gaming World | 5/5 stars | Called it "a graphic adventure benchmark"[^ref-12] |
 | Computer Game Review | 91/94/96 | Three reviewers[^ref-12][^ref-61] |
+| Next Generation (#17, May 1996) | 4/5 | Rated it one of the overall best graphic adventures for its "detailed and evolved storyline with an easy to use yet sophisticated graphic system"[^ref-12] |
+| Maximum (#4) | 4/5 | Called it "one of the few [interactive movies] which manage to grasp the attention of the player"[^ref-12] |
 
 Computer Gaming World's June 1996 Premier Awards issue (#143), recognizing the best of the past year, headed its overall winner "Game of the Year: Gabriel Knight 2: The Beast Within", called it "a clear-cut choice", and described it as "the continuation of a brilliant tradition— the graphic adventure as art"[^ref-72]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-59].
 
@@ -85,7 +87,7 @@ Computer Gaming World's June 1996 Premier Awards issue (#143), recognizing the b
 
 Retrospective reviews have been equally positive. HonestGamers' retrospective declared that the game "merely settles for being the greatest FMV game of all time" — noting that while it may not surpass its predecessor in that reviewer's eyes, it remains the finest example of the format[^ref-27]. The game's lasting appeal was demonstrated when AdventureGamers.com awarded it 4.5 out of 5 stars in 2004, calling it "an incredible achievement" and "one of the few computer games to actually involve personal, meaningful growth in a player-character"[^ref-60].
 
-Modern critics have praised the game's progressive themes, with VICE describing it as "a subversively campy adventure, bursting at the seams with ambition"[^ref-55]. The game's commercial performance was evidenced by its ranking as the fourth-best-selling computer game in the United States during January 1996[^ref-12]. IMDb users rate the game 8.9/10 (as of October 2026)[^ref-31].
+Modern critics have praised the game's progressive themes, with VICE describing it as "a subversively campy adventure, bursting at the seams with ambition"[^ref-55]. The game's commercial performance was evidenced by its ranking as the fourth-best-selling computer game in the United States during January 1996[^ref-12] and the 17th-best-selling of the first six months of 1996[^ref-12]. Gabriel Knight: Sins of the Fathers and The Beast Within together sold a combined 300,000 copies by December 1998, which Leslie Gornstein of the *Orange County Register* wrote was "considered a success in the world of adventures, according to Jensen"[^ref-12]. In a contemporary online interview, Sierra programmer Greg Tomko-Pavia said that Phantasmagoria had sold over 700,000 copies, "more than any other Sierra game", and that he did not understand why Gabriel Knight 2, "to my mind superior in every detail", was not doing nearly so well[^ref-15]. IMDb users rate the game 8.9/10 (as of October 2026)[^ref-31].
 
 ## Development
 
@@ -114,6 +116,10 @@ The Beast Within represented a significant technical achievement in FMV gaming, 
 [[Robert Holmes]] composed the main themes and wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart"); Jane Jensen wrote the libretto[^ref-12][^ref-16]. Jay D. Usher, the director of music/audio, is credited with additional orchestration and arrangement[^ref-70].
 
 Roughly 90 percent of the script was shot on the sound stage, with only a few scenes filmed on location[^ref-17]; the fictional Rittersberg was modelled on Rothenburg ob der Tauber[^ref-17].
+
+### System Requirements
+
+The DOS release required an Intel 486 at 33 MHz, 8 MB of RAM, DOS 5.0 or later, a 2x-speed CD-ROM drive and SVGA graphics (640 x 480 in 256 colours), and shipped on six CD-ROM discs[^ref-10].
 
 ### Development Credits
 
@@ -196,7 +202,7 @@ A MobyGames user reviewer wrote that it is "definitely a game to play, if only t
 
 Of Jensen's writing, VICE wrote that "as a writer, Jensen was head and shoulders above anyone else in the business — then and quite possibly now"[^ref-55].
 
-VICE noted that "engaging with LGBTQ themes at all was groundbreaking for a mainstream video game from this era"[^ref-55]. Computer Gaming World ranked it #17 on their list of best PC games ever[^ref-12].
+VICE noted that "engaging with LGBTQ themes at all was groundbreaking for a mainstream video game from this era"[^ref-55].
 
 The game reached fourth place among US computer-game sales in January 1996[^ref-56] but was not the commercial success Jensen had hoped for[^ref-12]. Jane Jensen expressed frustration with the game's commercial performance, stating "I thought it would be top ten. And it was—for about a week"[^ref-12].
 
