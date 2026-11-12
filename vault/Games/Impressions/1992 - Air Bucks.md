@@ -10,7 +10,7 @@ series: Bucks
 engine: null
 protagonist: Airline CEO (Player Character)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Christopher J. Denman (credited as Chris Denman on Atari ST version)]
 description: Air Bucks is a business simulation game developed and published by Impressions
   Games in 1992 that tasks players with building a successful airline empire, starting
@@ -19,7 +19,7 @@ tags: [1990s, bucks, sierra, simulation]
 ---
 # Air Bucks
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -95,6 +95,8 @@ The Amiga version received varied scores from multiple publications[^ref-28]:
 
 Amiga Action's Alan Bunker concluded that "Air Bucks is reasonably comfortable second class entertainment," adding that it "isn't intricate enough to attract your attention for months to come"[^ref-30].
 
+In the same issue, Jennifer Schlickbernd's strategy feature "The High & Dry Way to Fly: Stealthy Strategies for Happier Landings in Air Bucks" (headed "Soaring Profits Strategy for Impression's Air Bucks") advised concentrating on large cities early and opening with New York-Miami runs[^ref-29].
+
 Computer Gaming World's January 1993 review by M. Evan Brooks recalled that Alan Emrich had christened the game "Railroad Tycoon with Wings" in an earlier sneak preview, but Brooks's own verdict was "a resounding negative." He criticised the minimalist graphics, slow pace and confusing economic model, praised Impressions' customer support, and concluded: "Right now, my feeling is that this flight has been delayed"[^ref-29].
 
 ### Modern Assessment
@@ -115,7 +117,7 @@ Users have noted both strengths and weaknesses in hindsight. One Lemon Amiga use
 
 ### Origins
 
-Air Bucks was developed by [[Impressions Games]], a company founded in 1989 that focused on strategy and business games including sport simulations[^ref-2]. The game represented one of the original titles released by the then-fledgling studio as it established its reputation in the simulation genre[^ref-20]. MyAbandonware's write-up says "Impression wanted to keep a fun factor in it" rather than pushing far on the financial side[^ref-18].
+Air Bucks was developed by [[Impressions Games]], a company that David Lester dates to 1988[^ref-34] and Free Game Empire to 1989[^ref-2], focused on strategy and business games including sport simulations[^ref-2]. The game represented one of the original titles released by the then-fledgling studio as it established its reputation in the simulation genre[^ref-20]. MyAbandonware's write-up says "Impression wanted to keep a fun factor in it" rather than pushing far on the financial side[^ref-18].
 
 The design philosophy prioritized enjoyment over strict realism, with the game manual explicitly stating that "Air Bucks is first and foremost an enjoyable, fun game, and secondly an airline simulation"[^ref-3]. This approach differentiated it from more hardcore economic simulations of the era while still providing sufficient depth for strategic engagement.
 
@@ -139,6 +141,8 @@ MobyGames describes the world map as randomly generated with every new game[^ref
 The inclusion of special events similar to Railroad Tycoon added dynamic elements to gameplay, requiring players to respond to changing circumstances such as real-world events, new competitors, new plane stock, worker strikes and seat pricing wars[^ref-15]. The newspaper system provided narrative context and information about these events at the end of each game year[^ref-3].
 
 ### Technical Specifications
+
+Computer Gaming World's January 1993 spec box lists Air Bucks for IBM at $49.95, for 0-4 players, with AdLib sound and EGA graphics, from Impressions of Farmington, CT[^ref-29]. The 1992 Technical Support and Tutorial booklet states that the game "cannot be run from a floppy drive - it must be installed to a hard disk" and takes up "about 2 megabytes of hard drive space" when fully installed[^ref-31].
 
 **DOS Version:**[^ref-17]
 - **Minimum CPU:** Intel 80286
@@ -177,6 +181,7 @@ Computer Gaming World reported that the game initially showed a plane traversing
 | 1.01 | 1992 | DOS | Available to registered users; CGW said it "ostensibly" ran about two-and-a-half times faster, fixed (R)eplicate fare command and spelling errors[^ref-29] |
 | 1.2 | 1993 | DOS | "Substantially improved version"[^ref-8]; advertised with better VGA graphics, interface, computer AI and economic model[^ref-10] |
 | 1.2 | 1993 | Amiga | Listed by Lemon Amiga as an AGA release; one user comment says the AGA version had enhanced graphics[^ref-16] |
+| 1.21 | 1993 | DOS | Patch from 1.2 to 1.21[^ref-33] |
 | Sierra Originals | Later | CD-ROM | Re-release version[^ref-11] |
 
 The version 1.2 update was made available as a free upgrade for registered owners of the original game, and Impressions also offered upgrades through its CompuServe support area[^ref-8]. COMPUTE! said "There have been a host of user-suggested changes, so basically it's smarter, prettier, and better stocked with info"[^ref-8].
@@ -223,6 +228,7 @@ No significant fan remake or modification projects have been documented in the a
 ### Related Publications
 
 - **Air Bucks Manual and Strategy Guide:** Published by Impressions, 118 pages[^ref-25]
+- **Technical Support and Tutorial booklet (1992):** Impressions' installation and tutorial guide for the PC version[^ref-31]
 - **Game Manual:** Comprehensive documentation covering gameplay mechanics, interface details, and strategic information[^ref-3]
 
 ### Critical Perspective
@@ -269,7 +275,7 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 [^ref-4]: [MobyGames – Air Bucks](https://www.mobygames.com/game/2693/air-bucks/) – critic scores, technical specs, developer credits
 [^ref-5]: [Internet Archive – Air Bucks MS-DOS](https://archive.org/details/msdos_Air_Bucks_1992) – gameplay features, world generation, Mobygames description
 [^ref-6]: [NeverDieMedia – Air Bucks](https://www.neverdiemedia.com/products/air-bucks-w-manual) – special events, industry details
-[^ref-8]: [COMPUTE! Magazine #156 (September 1993)](http://www.atarimagazines.com/compute/issue156/100_Air_Bucks_version_1.php) – Peter Olafson review, version 1.2 improvements
+[^ref-8]: [COMPUTE! Magazine #156 (September 1993)](https://www.atarimagazines.com/compute/issue156/100_Air_Bucks_version_1.php) – Peter Olafson review, version 1.2 improvements
 [^ref-9]: [Wikipedia – Space Bucks](https://en.wikipedia.org/wiki/Space_Bucks) – sequel information, comparative reviews
 [^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year
 [^ref-11]: [Sierra Chest – Air Bucks](https://sierrachest.com/index.php?a=games&id=405&title=213air-bucks&fld=box&pid=30) – publisher variants, version information
@@ -288,3 +294,6 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 [^ref-28]: [Lemon Amiga – Air Bucks](https://www.lemonamiga.com/games/details.php?id=50) – Amiga magazine reviews, user comments
 [^ref-29]: [Computer Gaming World #102 (January 1993)](https://archive.org/details/Computer_Gaming_World_Issue_102) – M. Evan Brooks, "Impressions' Air Bucks" review, pp. 72–73; v1.01 changes, cut plane animation
 [^ref-30]: [Amiga Action #36 (September 1992)](https://archive.org/details/Amiga_Action_Issue_36_1992-09_Europress_Interactive_GB) – Alan Bunker review, 75%
+[^ref-31]: [Internet Archive – Air Bucks Technical Support and Tutorial (1992)](https://archive.org/details/air-bucks-technical-support-and-tutorial) – Impressions booklet; hard-disk installation, about 2 MB
+[^ref-33]: [Internet Archive – Air Bucks 1.2 to 1.21 Patch](https://archive.org/details/AB121P_ZIP) – item titled "Air Bucks 1.2 to 1.21 Patch", dated 1993
+[^ref-34]: [Companies Made Simple – Real Business Case Study: David Lester (Wayback Machine, 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – Lester founded Impressions Software "in 1988 when just 22"
