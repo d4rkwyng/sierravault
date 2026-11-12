@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Thexder", "Silpheed", "Zeliard"]
 companies: ["ASCII Corporation", "Game Arts Co., Ltd.", "Technical Arts"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Hibiki Godai
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ Technical Arts began in December 1987 as a separate brand of Game Arts and was i
 
 The company's own history lists its first game work as the PC-88VA version of Ultima IV (1988, for Pony Canyon), its first in-house game as *SL Simulator: Jōki Kikanshi* (2000), released by Smarts Japan, and its first smartphone game as *RISEOUT Over The Centuries* for iOS (2011), followed by a military quiz game (2017) and the VR tennis game *CYBER TENNIS* (2018 onward).[^ref-14] MobyGames also credits him with music for *Game Basic for SegaSaturn* (1998), under the Technical Arts name.[^ref-19]
 
-At the June 2017 retro-PC talk in Akihabara he announced a new title in the line of Game Arts' 1990 *HARAKIRI*, working title ハラキリ ブシドウ・ショウダウン [Harakiri Bushidō Showdown]. AKIBA PC Hotline reports that it was to be developed by a "PEACE PORT" project team that includes Technical Arts, with Godai in overall command (総指揮を執るのは…五代響さんこと池田公平さん [the person in overall command is…Hibiki Godai, that is, Kohei Ikeda]).[^ref-15] Technical Arts' own products page, checked on November 11, 2026, lists *HARAKIRI BUSHIDO SHOWDOWN* for Nintendo Switch, developed and sold by Technical Arts, as "(株)ゲームアーツの名作「ハラキリ」を完全リニューアル、現代の戦国シミュレーションゲームとして甦ります。" [a complete renewal of Game Arts' classic "Harakiri", revived as a modern Sengoku-era simulation game], with the release date given as 未定 [undecided].[^ref-21]
+At the May 2017 retro-PC talk in Akihabara (held 26 May) he announced a new title in the line of Game Arts' 1990 *HARAKIRI*, working title ハラキリ ブシドウ・ショウダウン [Harakiri Bushidō Showdown]. AKIBA PC Hotline reports that it was to be developed by a "PEACE PORT" project team that includes Technical Arts, with Godai in overall command (総指揮を執るのは…五代響さんこと池田公平さん [the person in overall command is…Hibiki Godai, that is, Kohei Ikeda]).[^ref-15] Technical Arts' own products page, checked on November 11, 2026, lists *HARAKIRI BUSHIDO SHOWDOWN* for Nintendo Switch, developed and sold by Technical Arts, as "(株)ゲームアーツの名作「ハラキリ」を完全リニューアル、現代の戦国シミュレーションゲームとして甦ります。" [a complete renewal of Game Arts' classic "Harakiri", revived as a modern Sengoku-era simulation game], with the release date given as 未定 [undecided].[^ref-21]
 
 Godai had no role on the development team of the 2009 remake [[2009 - Thexder Neo|Thexder Neo]], which was developed by Zereo, published by Square Enix and directed by Masayuki Shimada. He and Uesaka are credited there as "Original Thexder Staff" and in the remake team's Special Thanks, and his "Thexder" theme is used as the opening music.[^ref-17][^ref-2] He is also listed in the "Special Thanks" of Sierra's [[1995 - Thexder 95|Thexder]] for Windows (1995).[^ref-19]
 
