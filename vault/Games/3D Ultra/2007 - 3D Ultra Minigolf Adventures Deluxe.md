@@ -2,15 +2,15 @@
 title: 3D Ultra Minigolf Adventures Deluxe
 release_year: 2009
 developer: Wanako Games
-designer: []
+designer: null
 publisher: Activision
 genre: Sports
 platforms: [Windows PC]
 series: 3-D Ultra Minigolf
-engine: Unknown
+engine: null
 protagonist: Hector, Rosie, Joe, or Kate (player-selected)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
   game developed by Wanako Games and published by Activision, released on July 23,
   2009 for Windows PC via Steam, combining the 2006 game with its Lost Island expansion.'
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,7 @@ What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf game
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-1]
-> **Designer:** Unknown
 > **Publisher:** [[Activision]] (PC), Vivendi Universal Games/Sierra On-Line (original release)[^ref-1][^ref-5][^ref-22]
-> **Engine:** Unknown/unnamed[^ref-20]
 > **Platforms:** Windows PC[^ref-1][^ref-21]
 > **Release Year:** 2009 (Steam release of the Deluxe edition)[^ref-1][^ref-21]; the Deluxe name first appeared on 2007 Taco Bell demo disks[^ref-19]
 > **Series:** 3-D Ultra Minigolf Series
@@ -46,7 +44,7 @@ What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf game
 
 The Classic Carnival theme features courses inspired by traditional fairground attractions, including holes named Duck Shot, Bump n' Run, Wind Tunnel, and Loop da Loop[^ref-19]. The Wild West theme transports players to frontier-era settings with courses like Graveyard Shift, Prairie Dogs, Dead Man's Creek, and Tipi Camp[^ref-19]. The Space theme takes the action to cosmic environments with holes such as Laseriffic, Planetoid, Two Planets, and Rocket Man[^ref-5].
 
-The Lost Island expansion adds a fourth theme with tropical and nautical elements, featuring courses named Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, and Slipper Sliders[^ref-19]. Each environment features its own set of obstacles, power-ups, and hazards that complement the theme while providing unique gameplay challenges[^ref-5].
+The Lost Island expansion adds a fourth theme, featuring courses named Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, and Slipper Sliders[^ref-19]. Each environment features its own set of obstacles, power-ups, and hazards that complement the theme while providing unique gameplay challenges[^ref-5].
 
 ## Gameplay
 
@@ -63,7 +61,7 @@ The game is organized around themed course collections, each containing multiple
 - **Classic Carnival:** 12 holes featuring fairground and circus-themed obstacles
 - **Wild West:** 12 holes set in frontier-era environments with western obstacles
 - **Outer Space:** 12 holes taking place in cosmic settings with sci-fi elements
-- **Lost Island:** 18 additional holes with tropical and nautical themes[^ref-20]
+- **Lost Island:** 18 additional holes[^ref-20]
 
 Players can choose to play individual holes, complete themed courses, or engage in custom matches. The game also features a customizable course editor for creating personalized hole designs[^ref-7].
 
@@ -85,9 +83,9 @@ No press reviews of the 2009 Steam Deluxe edition itself were found. Critics rev
 
 On Steam the Deluxe release holds a "Mostly Positive" rating, with 70% of its 117 user reviews positive as of October 2026[^ref-16].
 
-Steam user reviews indicate satisfaction with the game's content delivery, with one reviewer confirming that the Lost Island expansion is included in the Deluxe package, addressing a common question among potential buyers[^ref-13]. Community discussions have expressed interest in potential sequels, with players asking about the possibility of *Minigolf 2* coming to Steam[^ref-12].
+Steam user reviews indicate satisfaction with the game's content delivery, with one forum user confirming that the Lost Island expansion is included in the Deluxe package, addressing a common question among potential buyers[^ref-13]. Community discussions have expressed interest in potential sequels, with players asking about the possibility of *Minigolf 2* coming to Steam[^ref-12].
 
-The game continues to be listed in various gaming databases and tracking services, indicating ongoing community interest[^ref-14].
+The game is listed in gaming databases and tracking services such as Cybersouls[^ref-14].
 
 **Aggregate Scores:**
 - **Steam:** 70% positive (117 user reviews, October 2026)[^ref-16]
@@ -125,6 +123,8 @@ The course editor represents a significant technical feature, allowing players t
 - **Features:** Single-player, Family Sharing
 - **App ID:** 10140
 - **Price:** $9.99 USD
+- **Minimum system requirements:** Windows 2000/XP/Vista, Pentium 700 MHz, 256 MB RAM, Direct3D 32 MB graphics with DirectX 9.0c, 50 MB free disk space, DirectX-compliant sound card[^ref-16]
+- **Languages:** English only[^ref-16]
 
 **Xbox 360 Version of *3D Ultra Minigolf Adventures* (2007, not the Deluxe edition):**[^ref-9][^ref-24]
 - **Platform:** Xbox Live Arcade
@@ -222,7 +222,7 @@ The game has a listing on GOG's Dreamlist from users hoping to see the title add
 [^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – estimated units sold and wishlists (third-party estimates, read November 11, 2026), Steam release date
 [^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, development, releases, GameSpot review
 [^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
-[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
+[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details; Space theme holes 25-36 (Teleporter, Laseriffic, Pinball, Planetoid, Two Planets, Rocket Man, Pistons, Tubular, Turntables, Space Station, Galactic Maze, Space Bar)
 [^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-deluxe-2009) – game description, community votes, features
 [^ref-7]: [Kotaku – 3D Ultra Minigolf Adventures Deluxe](https://kotaku.com/games/3d-ultra-minigolf-adventures-deluxe) – game features, description
 [^ref-9]: [XB Deals Canada – 3D Ultra Minigolf Adventures](https://xbdeals.net/ca-store/game/677939/3d-ultra-minigolf-adventures) – Xbox release date, price, languages, developer
@@ -230,7 +230,7 @@ The game has a listing on GOG's Dreamlist from users hoping to see the title add
 [^ref-13]: [Steam Community Discussions – Lost Island Expansion?](https://steamcommunity.com/app/10140/discussions/0/648814844423043714/) – confirmation of Lost Island inclusion
 [^ref-14]: [Cybersouls.io – 3D Ultra Minigolf Adventures Deluxe](https://cybersouls.io/en/games/3d-ultra-minigolf-adventures-deluxe) – release date, platform information
 [^ref-15]: [MyAbandonware – 3D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – 1998 version details, alternate titles, technical specs
-[^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher, price; user review score (70% of 117, read October 27, 2026)
+[^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher, price, minimum system requirements and supported language; user review score (70% of 117, read October 27, 2026)
 [^ref-17]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series game list, release years
 [^ref-19]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
 [^ref-20]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](http://web.archive.org/web/20250311183537/https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – Wayback Machine copy, March 11, 2025; 54-hole content, Minigolf Maniacs origins, engine listed as unknown
