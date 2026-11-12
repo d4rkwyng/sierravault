@@ -8,10 +8,10 @@ publisher: Sierra On-Line
 genre: Action RPG
 platforms: [PC-88, Sharp X1, DOS]
 series: Standalone
-engine: Unknown (Game Arts engine, modified by Sierra)
+engine: null
 protagonist: Duke Garland
 sierra_lineage: Third-Party Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Zeliard is a side-scrolling action role-playing game developed by Game
   Arts for the NEC PC-8801 in 1987 and published for MS-DOS in North America and
   Europe by Sierra On-Line in 1990.
@@ -20,7 +20,7 @@ composer: [Fumihito Kasatani, Nobuyuki Aoshima]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,6 @@ Sierra's Western release made considerable changes to the game engine, resulting
 > **Developer:** [[Game Arts]][^ref-2]
 > **Designer:** Rocky Cave Maker (credited as System Designer)[^ref-11]
 > **Publisher:** Game Arts (Japan), Sierra On-Line (US/Europe)[^ref-1]
-> **Engine:** Unknown; the PC-88 version's engine was modified by Sierra for DOS[^ref-7]. Only the v2.0 installer is described as Sierra's SCI0 setup program[^ref-7]
 > **Platforms:** PC-88, Sharp X1, MS-DOS[^ref-1]
 > **Release Year:** 1987 (Japan), 1990 (US/Europe)[^ref-24][^ref-1]
 > **Series:** Standalone
@@ -78,7 +77,7 @@ The game has eight worlds[^ref-24][^ref-3], each linking towns to caverns. Level
 
 The RPG elements include character leveling, with Duke Garland gaining levels as he progresses[^ref-6]. Currency is obtained by exchanging enemy spirits called "almas" at town banks, and the exchange ratio differs from town to town[^ref-35][^ref-7]. Visiting each town's Sage (after Muralla Town) rewards players with a new spell[^ref-19].
 
-Equipment progression includes multiple swords and shields, and shields can break from overuse[^ref-4]. Special items such as the Hero's Crest, Ruzeria Shoes, Pirika Shoes, Slikarn Shoes, Asbestos Cape, Elf Crest and Fairy Enchantment Sword are needed to progress[^ref-12]. The DOS version added health regeneration by standing still, a feature absent from the Japanese originals[^ref-3].
+Players can buy better swords, shields and magic potions as they progress[^ref-3], and shields can break from overuse[^ref-4]. Special items such as the Hero's Crest, Ruzeria Shoes, Pirika Shoes, Slikarn Shoes, Asbestos Cape, Elf Crest and Fairy Enchantment Sword are needed to progress[^ref-12]. The DOS version added health regeneration by standing still, a feature absent from the Japanese originals[^ref-3].
 
 Boss fights require specific strategies. One boss guide notes that Vista "is an interesting boss, in the sense that only the Knight's Sword can harm him," and calls the Dragon "probably the hardest boss fight in the game"[^ref-20]. The game employs a grid-based screen redrawing technique that enables smooth scrolling even on slower computers[^ref-17].
 
@@ -100,7 +99,7 @@ MobyGames user reviews call it "an impressive action adventure game from the mak
 
 **Aggregate Scores:**
 - **MobyGames:** 7.1 (Moby Score), 51% (Critics, 3 ratings), 3.7/5 (Players, 35 ratings)[^ref-2]
-- **MyAbandonware:** 4.67/5 (85 votes)[^ref-6]
+- **MyAbandonware:** 4.68/5 (91 votes, as of November 2026)[^ref-6]
 - **Comma Eight Comma One:** 7/10[^ref-4]
 - **PixelatedArcade:** A[^ref-23]
 
@@ -132,9 +131,9 @@ The localization introduced notable changes: enemies give more experience points
 
 ### Technical Achievements
 
-Zeliard supported a wide range of graphics modes: MCGA (64 colors), EGA (16 colors, at an unusual 640x200 resolution rather than the standard 320x200), Tandy (16 colors), CGA (4 colors) and Hercules (2 colors)[^ref-3]. The game employed a grid-based screen redrawing technique that enabled smooth 2D scrolling even on slower computers of the period[^ref-17].
+Zeliard supported a wide range of graphics modes: MCGA (64 colors), EGA (16 colors), Tandy (16 colors), CGA (4 colors) and Hercules (2 colors)[^ref-3]. In EGA mode the game's resolution is 640x200 instead of 320x200[^ref-17]. The game employed a grid-based screen redrawing technique that enabled smooth 2D scrolling even on slower computers of the period[^ref-17].
 
-Zeliard supported multiple audio configurations including Roland MT-32, AdLib, Tandy 3-voice and the PC internal speaker[^ref-23]. Players could choose different hardware for music and sound effects, a feature that was still somewhat uncommon at the time, and the game could play multiple-channel music through the PC Speaker[^ref-17]. KHInsider's PC-88 soundtrack album runs 42m 59s over 20 tracks[^ref-26], while its separate MT-32 album, recorded with a genuine Roland MT-32 (Rev 1), runs 34m 31s[^ref-34].
+Zeliard supported multiple audio configurations including Roland MT-32, AdLib, Tandy 3-voice and the PC internal speaker[^ref-23]. Players could choose different hardware for music and sound effects, a feature that was still somewhat uncommon at the time, and the game could play multiple-channel music through the PC Speaker[^ref-17].
 
 ### Technical Specifications
 
@@ -145,11 +144,6 @@ Zeliard supported multiple audio configurations including Roland MT-32, AdLib, T
 - **Media:** 5.25" or 3.5" floppy disks[^ref-11]
 - **RAM:** 512K minimum[^ref-27][^ref-36]
 - **Save File Size:** 256 bytes[^ref-7]
-
-**PC-88 Version:**[^ref-26]
-- **Total Soundtrack Duration:** 42m 59s
-- **Soundtrack Files:** 20 tracks
-- **Alternative Version:** OPNA Ver available[^ref-26]
 
 **Supported Video Modes:**[^ref-27]
 - EGA
@@ -239,10 +233,6 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 - [Game Manual (scan, SierraHelp)](https://sierrahelp.com/Documents/Manuals/Zeliard_-_Manual.pdf)[^ref-11]
 - [FAQ/Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849)[^ref-35]
 
-**Soundtracks**
-- [KHInsider – MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987)[^ref-34]
-- [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
-
 ## See Also
 
 - [[1988 - Silpheed]]
@@ -255,7 +245,7 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 
 [^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, platforms, publishers, summary of the 2002 Planetstation retrospective
 [^ref-2]: [MobyGames – Zeliard](https://www.mobygames.com/game/189/zeliard/) – developer, publisher, official description, user reviews, scores, cut voices, Action Five (1992) compilation
-[^ref-3]: [Hardcore Gaming 101 – Zeliard](http://www.hardcoregaming101.net/zeliard/) – release timeline, Ken Williams' 1986 licensing trip, third Game Arts game, difficulty changes in DOS version, graphics modes, Josh Mandel's first lead project, box art and tagline
+[^ref-3]: [Hardcore Gaming 101 – Zeliard](http://web.archive.org/web/20260503060314/https://www.hardcoregaming101.net/zeliard/) – release timeline, Ken Williams' 1986 licensing trip, third Game Arts game, difficulty changes in DOS version, graphics modes, Josh Mandel's first lead project, box art and tagline, better swords/shields/potions in towns
 [^ref-4]: [Comma Eight Comma One – Zeliard Review](https://commaeightcommaone.wordpress.com/2015/06/11/zeliard-review/) – 2015 review, 7/10 score, DOSBox compatibility, soundtrack praise, shield breakage
 [^ref-5]: [Internet Archive – MS-DOS Zeliard](https://archive.org/details/msdos_Zeliard_1990) – game description, plot summary
 [^ref-6]: [MyAbandonware – Zeliard](https://www.myabandonware.com/game/zeliard-21d) – user rating, Zelda II comment, Sierra/Game Arts import deal
@@ -277,14 +267,12 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 [^ref-23]: [PixelatedArcade – Zeliard](https://pixelatedarcade.com/news/zeliard) – review score, audio hardware options
 [^ref-24]: [Game Arts Official Site (Archived)](https://web.archive.org/web/20150924020557/http://www.gamearts.co.jp/products/pc-zeliard.html) – PC-8801mkII SR and X1/turbo release dates, original price, eight worlds, sprite counts, Japanese marketing quotes
 [^ref-25]: [VGMRips – Zeliard Tandy 1000](https://vgmrips.net/packs/pack/zeliard-tandy-1000) – composer credits for the Tandy pack, sound chip
-[^ref-26]: [KHInsider – Zeliard PC-8801](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801) – soundtrack track count, duration, OPNA version
 [^ref-27]: [PCGamingWiki – Zeliard](https://www.pcgamingwiki.com/wiki/Zeliard) – RAM requirements, video modes, DOSBox issues
 [^ref-28]: [Speedrun.com – Zeliard Guide](https://www.speedrun.com/zeliard/guides/zwjuc) – DOSBox cycles setting for runs, speed settings
 [^ref-29]: [PC Gamer – The worst PC game box art ever (2017)](https://www.pcgamer.com/the-worst-pc-game-box-art-ever/) – Zeliard box art entry
 [^ref-30]: [Dan Dickinson, "A 20 Year Old Gaming Mystery, Solved At Last" (2013, archived 2014)](https://web.archive.org/web/20140712015529/http://vjarmy.com/archives/2013/06/zeliard.php) – back-of-box text and tagline, first exposure to Japanese games, rarity on DOS
 [^ref-31]: [GOG Wishlist – Zeliard](https://www.gog.com/wishlist/games/zeliard) – community request for a GOG release
 [^ref-32]: [Zeliard Game Tripod – Projects](https://web.archive.org/web/20260123000335/https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
-[^ref-34]: [KHInsider – Zeliard MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987) – MT-32 recording details, track listing
 [^ref-35]: [Abandonware DOS – Zeliard FAQ by Alan Franciškovic (v1.2, 2001)](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849) – game description, story, eight boss minions, almas exchange ratios, secret village, secret equipment, command line parameter
 [^ref-36]: [The Games Machine (Italy) #29, March 1991, pp. 86–87 – Zeliard review by Giorgio Baldaccini](https://archive.org/details/the-games-machine-italia-29/page/n85/mode/2up) – "Globale 81%", L. 59.000, 512K RAM, CGA/EGA/VGA modes, AdLib/Roland, "orribile confezione"
 [^ref-37]: [Sierra News Magazine, Fall 1990 (Vol. 3 No. 3)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n48/mode/2up) – p. 49 "Game Arts' answer to the role playing adventure"; p. 18 preview; p. 55 price list, Zeliard NEW $34.95
