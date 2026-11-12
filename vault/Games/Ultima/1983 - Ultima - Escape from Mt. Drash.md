@@ -10,15 +10,15 @@ series: Ultima
 engine: Commodore BASIC with assembly language routines
 protagonist: Unnamed Prisoner
 sierra_lineage: Sierra Published
-last_updated: '2026-11-06'
-description: '*Ultima: Escape from Mt. Drash* is a rare 1983 VIC-20 maze game by Keith
+last_updated: '2026-11-12'
+description: 'Ultima: Escape from Mt. Drash is a rare 1983 VIC-20 maze game by Keith
   Zabalaoui, published by Sierra On-Line with Richard Garriott''s permission to use
   the Ultima name, and long the subject of a collectors'' legend that it was unauthorized.'
 tags: [1980s, sierra, ultima]
 ---
 # Ultima: Escape from Mt. Drash
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ The game is remembered for its rarity rather than its gameplay, which modern pla
 
 ## Story Summary
 
-The player has been imprisoned within Mt. Drash by creatures called "garrintrots" and must escape the dungeons[^ref-1][^ref-3]. The manual describes the mountain as "honeycombed with old mining tunnels" that the Garrintrots "now use … as gaming arenas where you are the main attraction"[^ref-12]. Mt. Drash takes its name from a dungeon in *Ultima I*[^ref-2][^ref-1].
+The player has been imprisoned within Mt. Drash by creatures called "garrintrots" and must escape the dungeons[^ref-1][^ref-3]. The manual describes the mountain as "honeycombed with old mining tunnels" that the Garrintrots "now use … as gaming arenas where you are the main attraction"[^ref-15]. Mt. Drash takes its name from a dungeon in *Ultima I*[^ref-2][^ref-1].
 
 Wikipedia calls the name "garrintrots" a pun on Garriott's surname, and the CRPG Addict calls it "an obvious and weird play on 'Garriott'"; the Ultima Codex is more cautious and says the derivation is "uncertain"[^ref-1][^ref-11][^ref-3]. Beyond these names, the game shares virtually no story or setting with the mainline Ultima series[^ref-2][^ref-11].
 
@@ -98,7 +98,7 @@ That one review, written by Pix in 2008, says: "This is one of the single worst 
 
 ### Origins
 
-Keith Zabalaoui was one of Garriott's high-school friends from Houston and had helped with Garriott's earlier projects[^ref-6][^ref-11]. According to Maher, he visited Sierra in Garriott's company and was inspired to start a simple maze game. When he showed Sierra the finished product, the company was doubtful[^ref-6]. Sierra was then based in Coarsegold, California[^ref-17][^ref-18].
+Keith Zabalaoui was one of Garriott's high-school friends from Houston and had helped with Garriott's earlier projects[^ref-6][^ref-11]. He is also credited among the programmers of [[1982 - Ultima II - The Revenge of the Enchantress]]; Hardcore Gaming 101 describes him as a friend of Garriott's "who helped to program Ultima II"[^ref-12]. According to Maher, he visited Sierra in Garriott's company and was inspired to start a simple maze game. When he showed Sierra the finished product, the company was doubtful[^ref-6]. Sierra was then based in Coarsegold, California[^ref-17][^ref-18].
 
 The VIC-20 software market had already passed its peak by early 1983. The game also needed a memory expansion and a cassette drive, which many VIC-20 owners didn't have[^ref-6][^ref-1]. Sierra suggested that marketing the game as an Ultima might help. Garriott agreed, according to Maher "likely more as a personal favor" to Zabalaoui than anything else[^ref-6]. Pix reported Garriott's own account in 2012: "Garriott was well aware of Escape From Mt. Drash and agreed to the Ultima branding to help out the author as Sierra wouldn't have published the game otherwise"[^ref-16]. The cassette and title screen credit Garriott as owner of the Ultima trademark[^ref-13].
 
@@ -147,6 +147,8 @@ No documented cut content has been identified in available sources.
 | Unofficial port | 11 June 2003 | PC (Windows, SDL) | Windows SDL port by Kasper Fauerby ("Telemachos")[^ref-15]; released under the GPL[^ref-12]; reuses most of the original tape's source code[^ref-3] |
 | Unofficial port | 25 January 2025 | Commodore 64 | Conversion by Aleksi Eeben of CNCD[^ref-8] |
 
+Nerdly Pleasures adds that "A modified dump of the cassette exists as well as an unofficial 2002 disk conversion"[^ref-13].
+
 ### Technical Issues
 
 The first-person 3D view shows neither monsters nor gems, and the game gives no visible feedback when a gem is collected[^ref-2][^ref-11]. Because RUN/STOP and RESTORE are disabled, players cannot break out of the program during play[^ref-3].
@@ -158,10 +160,6 @@ The first-person 3D view shows neither monsters nor gems, and the game gives no 
 - One rumor claimed that Sierra buried its remaining stock at the foot of a mountain, echoing the Atari video game burial[^ref-1][^ref-6]
 - The Computer Game Museum's copy, which it calls the first "re-discovered" complete copy, was found at the bottom of a cliff in British Columbia, where unsold software had been dumped[^ref-14][^ref-1]
 - Retellings commonly add that Sierra for years denied the game had ever existed, until Zabalaoui confirmed it had been finished and shipped[^ref-1][^ref-11]
-
-## Voice Cast
-
-*Ultima: Escape from Mt. Drash* has no voice acting, as was standard for games of this era and platform.
 
 ## Legacy
 
@@ -178,6 +176,8 @@ The first working copy surfaced online only in 2000. It came from an Indiana tee
 ### Fan Projects
 
 Kasper Fauerby's 2003 Windows port, released under the GPL, is the version most people have played[^ref-15][^ref-12][^ref-3]. In January 2025, Aleksi Eeben released a Commodore 64 conversion[^ref-8]. Tape images of the original VIC-20 cassette also circulate for use with emulators such as VICE[^ref-3][^ref-13], although Hardcore Gaming 101 says the original tape image has been "intentionally withheld by the current holders to prevent the creation of counterfeits and fake cassettes"[^ref-12]. The sources disagree on this point.
+
+Santiago "Slash" Zapata made DrashRL, a roguelike based on the game and on Ultima lore, as an entry for the 7DRL Challenge, a contest in which programmers write a Rogue-style game in one week[^ref-12].
 
 ### Related Publications
 
