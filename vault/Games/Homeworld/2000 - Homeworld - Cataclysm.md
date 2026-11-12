@@ -10,14 +10,14 @@ series: Homeworld
 engine: Modified Homeworld engine
 protagonist: Kiith Somtaaw Fleet Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Homeworld: Cataclysm is a standalone real-time strategy sequel to the
   acclaimed Homeworld, developed by Barking Dog Studios and published by Sierra...'
 tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld: Cataclysm
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The game utilizes a modified version of the original Homeworld engine, maintaini
 
 The game takes place fifteen years after the Kushan people have returned to their homeworld of Hiigara and established themselves as the Hiigarans[^ref-8]. The story focuses on Kiith Somtaaw, a minor mining clan operating the converted mining vessel Kuun-Lan[^ref-9]. During a routine mining operation, the crew discovers an ancient alien artifact that contains a hostile cybernetic organism known as The Beast[^ref-10].
 
-The Beast functions as a biomechanical parasite that converts any biological and technological systems it encounters, immediately turning them to its purpose[^ref-11]. As the infection spreads throughout the galaxy, converting ships and entire fleets, the modest mining clan finds itself thrust into a desperate struggle for survival. The player must guide the Kuun-Lan and its crew as they battle to contain and ultimately destroy this ancient threat before it consumes all life in the galaxy[^ref-12].
+The Beast functions as a biomechanical parasite that converts any biological and technological systems it encounters, immediately turning them to its purpose[^ref-11]. As the infection spreads from vessel to vessel, turning both each ship and its crew into a biomechanical member of The Beast[^ref-41], the modest mining clan finds itself thrust into a desperate struggle for survival. The player must guide the Kuun-Lan and its crew as they battle to contain and ultimately destroy this ancient threat before it consumes all life in the galaxy[^ref-12].
 
 The narrative is delivered through Campbell Lane's narration, who also reprises his role as the voice of the Bentusi from the original game[^ref-2]. Additional voice acting was provided by Scott Swanson as Fleet Command, Heidi Ernest as Fleet Intelligence, and a cast including Brendan Beiser, Graem Castell, Arinn Dembo, and David Sobolov[^ref-2]. The story maintains the series' themes of survival and homecoming while introducing elements of cosmic horror through The Beast's relentless conversion of organic and mechanical life. As CNET Gamecenter's review put it, the Beast virus "is a cross between Ebola and Star Trek's Borg"[^ref-41].
 
@@ -71,24 +71,25 @@ New unit types include the Mimic fighter, which can perfectly imitate other unit
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Adrenaline Vault | 100/100 | Perfect score[^ref-18] |
+| Computer Gaming World | 5/5 | Editors' Choice; "Cataclysm is Homeworld and then some"[^ref-60] |
 | FiringSquad | 93% | "The gameplay of the Homeworld series is now cemented as revolutionary"[^ref-18] |
 | PC Gamer (US) | 91% | High praise from major publication[^ref-1] |
 | GameSpy | 91% | "One of the best single-player campaigns ever"[^ref-18][^ref-38] |
 | Game Over Online | 90% | Story "much more coherent and interesting than the original"[^ref-12] |
 | All Game Guide | 90% | Strong aggregate score[^ref-18] |
 | Neoseeker | 90% | "Gracefully takes the series to a higher level in just about every facet of the game"[^ref-20][^ref-56] |
-| IGN | 9.2/10 | "Not better, not worse, just different and still fun"[^ref-11] |
+| IGN | 9.2/10 | "Not better, not worse, just different and still a whole lot of fun"[^ref-11] |
 | Electric Playground | 9/10 | "Better, has more action, and plays longer"[^ref-40] |
 | CNET Gamecenter | 9/10 | "The game that the original Homeworld should have been"[^ref-1][^ref-41] |
 | GameFAQs | 9/10 | "Some say unbalanced... I say great"[^ref-42] |
 | GameSpot | 8.9/10 | "More solid than cinematic original"[^ref-5] |
 | Game Informer | 8/10 (second opinion 8.5) | Second reviewer: "releasing a sequel that doesn't suck"[^ref-43] |
-| Eurogamer | 8/10[^ref-1][^ref-58] | Later patch news: "a rather excellent adaptation of the Homeworld formula"[^ref-44] |
+| Eurogamer | 8/10[^ref-1][^ref-58][^ref-61] | Later patch news: "a rather excellent adaptation of the Homeworld formula"[^ref-44] |
 | GiN | 4/5 Gems | "Graphically, H:C is in a league by itself"[^ref-13] |
 
 ### Modern Assessment
 
-The game maintains an aggregate Metacritic score of 89, rated "Generally Favorable" based on 25 critic reviews[^ref-18]. Contemporary reviews praised the game's improvements over the original Homeworld. Brian Wright of GamePro noted it "shows what can happen when developers listen to the fans and make changes according to their suggestions and complaints"[^ref-1]. Samuel Bass of NextGen called it "one of those rare sequels in which more of the same is definitely a good thing"[^ref-1]. FiringSquad declared "The gameplay of the Homeworld series is now cemented as revolutionary. Games in the future will either draw upon this series as influence, or out and out steal its ideas"[^ref-18].
+The game maintains an aggregate Metacritic score of 89, rated "Generally Favorable" based on 25 critic reviews[^ref-18]. Contemporary reviews praised the game's improvements over the original Homeworld. Brian Wright of GamePro noted it "shows what can happen when developers listen to the fans and make changes according to their suggestions and complaints"[^ref-1]. Samuel Bass of NextGen called it "one of those rare sequels in which more of the same is definitely a good thing"[^ref-1]. FiringSquad declared "The gameplay of the Homeworld series is now cemented as revolutionary. Games in the future will either draw upon this series as influence, or out and out steal its ideas"[^ref-18]. Thomas L. McDonald gave it five stars and an Editors' Choice award in Computer Gaming World's December 2000 issue, writing that Barking Dog "produced a game that improves upon almost every aspect of the original"[^ref-60]. Eurogamer's Ben Carter was more measured, judging Cataclysm "marginally better than the original": "The single player game is undoubtedly more enjoyable, whilst the multiplayer is still flawed but nevertheless worth a few games"[^ref-61].
 
 The GOG.com re-release as "Homeworld: Emergence" (sold for US$9.99, with Gearbox Software listed as developer and publisher; no Steam listing as of 2026-11-11) maintains a strong 4.6/5 user rating based on 200 reviews (as of November 2026)[^ref-3]. Players consistently praise the game's horror atmosphere, with one reviewer noting "it still is the scariest RTS I know"[^ref-3]. On ModDB, the community has given the game a 9.8/10 rating[^ref-45], with users calling it "Best game ever" and "a great sequel to the original game"[^ref-45]. One retrospective blog post described it as having "effectively combined a space-based strategy game with an organic B-movie horror plot"[^ref-47].
 
@@ -98,7 +99,7 @@ The GOG.com re-release as "Homeworld: Emergence" (sold for US$9.99, with Gearbox
 
 Homeworld: Cataclysm began development at [[Barking Dog Studios]], a company founded in 1998 by former Radical Entertainment employees[^ref-21]. The studio initially assisted Relic Entertainment with the original Homeworld before moving on to create what would become Cataclysm[^ref-21]. Mark Hood, Sierra Studios Senior VP, stated "We believe Barking Dog Studios has the talent and experience to make a significant contribution to the Homeworld franchise"[^ref-22].
 
-Originally designed as an add-on to the original Homeworld, the project was expanded into a full standalone title when it exceeded the scope of a typical expansion pack[^ref-23]. The development team was given significant creative freedom to build upon and improve the original Homeworld formula.
+Originally designed as an add-on to the original Homeworld, the project was expanded into a full standalone title when it exceeded the scope of a typical expansion pack[^ref-23]. According to GameSpy's review, Relic "already had their hands full with other projects", so Sierra chose Vancouver-based Barking Dog Studios to develop the next chapter of the Homeworld saga[^ref-38].
 
 ### Production
 
@@ -113,6 +114,14 @@ The musical score was composed by Greg Sabitz and Paul Ruskay, with Studio X Lab
 The game is locked to a 4:3 aspect ratio, though widescreen resolutions can be applied by editing the registry[^ref-1]; one modern guide found the functional limits to be 1600x900 for 16:9 monitors and 1440x900 for 16:10 monitors[^ref-47]. Save times were fast, 0.5 to 1 second even for large maps, which left one fan reviewer "stumped" as to how the developers managed it[^ref-50]. The Homeworld audio engine was a proprietary frequency-based system with real-time filtering on a distance curve, controlled through Relic's own Relic Audio Tool (RAT)[^ref-25].
 
 Sierra's official 2000 specifications called for a Pentium II 233 MHz, 32 MB RAM and 100 MB of hard-disk space (plus a 50 MB permanent swap file) at minimum, with a Pentium II 350, 64 MB RAM and 400 MB for a full installation preferred[^ref-57]. Eurogamer's October 2000 review lists a higher Pentium II 266 and 250 MB of hard-drive space[^ref-58], as does PCGamingWiki[^ref-4]. The game supported up to 8 players in multiplayer via LAN or the WON.net network[^ref-57][^ref-4]; the game's WON servers were shut down on 1 November 2008[^ref-6]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | 2000 | Windows | Original release by Sierra Studios[^ref-1][^ref-57] |
+| 1.01 | December 21, 2000 | Windows | Balance and bug-fix patch; 1.0 save files not compatible[^ref-52] |
+| Homeworld: Emergence | June 2017 | Windows | GOG.com re-release under a new name to avoid infringing Blizzard's WarCraft trademark[^ref-7] |
 
 ## Legacy
 
@@ -186,3 +195,5 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-57]: [Web Archive - Sierra's official Homeworld: Cataclysm overview (October 2000)](http://web.archive.org/web/20001017125852/http://homeworld.sierra.com:80/cataclysm/overview/main.html) – official system requirements, 17 single-player missions, eight-player LAN/WON.net multiplayer; copyright Sierra On-Line, Inc.
 [^ref-58]: [Web Archive - Eurogamer Review (October 2000)](https://web.archive.org/web/20001209182000/http://www.eurogamer.net/content/r_hwc) – 8/10 review by Ben; header lists Pentium II 266 and 250 MB hard drive space
 [^ref-59]: [Polygon - Rockstar Expands Toronto, Closes Vancouver](https://www.polygon.com/gaming/2012/7/9/3147937/rockstar-expands-toronto-studio-to-ontario) – Rockstar Vancouver merged into Rockstar Toronto, July 2012
+[^ref-60]: [Internet Archive - Computer Gaming World Issue 197 (December 2000)](https://archive.org/details/Computer_Gaming_World_Issue_197) – "Unleash the Beast", review by Thomas L. McDonald, pp. 130–131: five-star CGW rating, Editors' Choice
+[^ref-61]: [Web Archive - Eurogamer Review, page 2](https://web.archive.org/web/20011201181626/http://www.eurogamer.net:80/content/r_hwc/2) – Ben Carter's conclusions and "Rating - 8/10"
