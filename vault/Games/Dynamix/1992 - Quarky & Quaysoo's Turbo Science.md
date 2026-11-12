@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Dynamix Game Development System (DGDS)
 protagonist: Quarky O'Ghandi / Quaysoo O'Ghandi
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Quarky & Quaysoo's Turbo Science is an educational science quiz-race game
   developed by Jeff Tunnell Productions and published by Sierra On-Line for DOS in 1992
   as part of the Sierra Discovery Series.
@@ -18,19 +18,19 @@ tags: [1990s, dgds, educational, sierra, sierra-discovery-series]
 ---
 # Quarky & Quaysoo's Turbo Science
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Quarky & Quaysoo's Turbo Science is an educational puzzle game developed by [[Jeff Tunnell Productions]] and released by [[Sierra On-Line]] in 1992 as part of the Sierra Discovery Series.[^ref-1][^ref-3] The box describes it as an educational science game for kids ages 9-14,[^ref-3] and its questions cover topics such as energy, chemistry, magnetism, and air and water pressure in a quiz-race format.[^ref-2][^ref-12] With its tagline "Look out! You're Surrounded By Science!!", the game aimed to make learning science entertaining through colorful characters and competitive gameplay.[^ref-3]
 
-The game features two space "elfs" named Quarky (green) and Quaysoo (yellow) O'Ghandi, who, according to *Compute!*, "hail from New Delhi, India."[^ref-2][^ref-24] As members of the team Los Turbos, players compete against rival teams in a science race run against the clock: the opponents keep moving while the player researches and answers questions.[^ref-7][^ref-24] The objective is to win a series of races and climb the ranks, progressing from "Squid" to "Turbo Science Champ" by correctly answering science questions to earn money and advance through checkpoints.[^ref-6]
+The game features two space "elfs" named Quarky (green) and Quaysoo (yellow) O'Ghandi (Wikipedia spells it O'Gandi), who, according to *Compute!*, "hail from New Delhi, India."[^ref-2][^ref-24] As members of the team Los Turbos, players compete against rival teams in a science race run against the clock: the opponents keep moving while the player researches and answers questions.[^ref-7][^ref-24] The objective is to win a series of races and climb the ranks, progressing from "Squid" to "Turbo Science Champ" by correctly answering science questions to earn money and advance through checkpoints.[^ref-6]
 
 A capsule review on Old-Games.com's page, printed after the site's main review, calls it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] The game included over 2,300 questions and experiments, along with a printed Research Guide that the box describes as a 150-page reference book.[^ref-3] *Compute!* called it "a delightful game in Sierra On-Line's Discovery series."[^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell Productions]][^ref-1]
-> **Designer:** Jeffrey Tunnell[^ref-6]
+> **Designer:** [[Jeff Tunnell|Jeffrey Tunnell]][^ref-6]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** [[Dynamix]] Game Development System (DGDS)[^ref-6]
 > **Platforms:** DOS[^ref-1]
