@@ -14,26 +14,27 @@ series: "Lode Runner"
 engine: "Custom (32-bit update of The Legend Returns engine)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, new single-player and two-player levels (sources differ on the exact count) and new hazards."
 tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 ---
 # Lode Runner On-Line: The Mad Monks' Revenge
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-*Lode Runner On-Line: The Mad Monks' Revenge* is an enhanced version of *[[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]]*. Presage Software developed it and Sierra On-Line published it in 1995 for Windows 95 and the Macintosh.[^ref-1][^ref-2][^ref-3] Its main addition is two-player play over a modem or local network. Despite the "On-Line" title, it keeps the full single-player game and can be played entirely offline.[^ref-1][^ref-4]
+*Lode Runner On-Line: The Mad Monks' Revenge* is an enhanced version of *[[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]]*. Presage Software (now Human Code) developed it and Sierra On-Line published it in 1995 for Windows 95 and the Macintosh.[^ref-1][^ref-2][^ref-3][^ref-4] Its main addition is two-player play over a modem or local network. Despite the "On-Line" title, it keeps the full single-player game and can be played entirely offline.[^ref-1][^ref-4]
 
-Sierra's *InterAction* magazine promised "two new worlds and 180 new levels".[^ref-17] Its feature list broke this down as 30 new single-player levels and 150 new two-player levels. It also listed a new "liquid tiles" hazard that kills any character touching it, and items that only one of the two players can use.[^ref-5] The game's lead programmer later wrote that the original 16-bit code "was updated to 32-bit for Windows 95".[^ref-7]
+Sierra's *InterAction* magazine promised "two new worlds and 180 new levels".[^ref-17] Its feature list broke this down as 30 new single-player levels and 150 new two-player levels. It also listed a new "liquid tiles" hazard that kills any character touching it, and items that only one of the two players can use.[^ref-5] The *Albuquerque Journal* described the same tiles differently, as ones "which like to adhere on contact", alongside "phaze befuddlement gas, which disorients monks for a limited time" and slime and glue buckets "which slow down the adventurer".[^ref-20] The game's lead programmer later wrote that the original 16-bit code "was updated to 32-bit for Windows 95".[^ref-7]
 
-Reviews were sharply divided. Germany's *PC Action* gave it 75%.[^ref-8] The *Albuquerque Journal* reviewed the Windows 95 version as "a superb update the entire family will enjoy" and rated it 5, on a scale the clipping does not state.[^ref-20] *MacFormat* gave the Mac version 76%.[^ref-18] *Computer Games Magazine* gave it 1/5 and called it "an absolute waste for anyone but a puzzle freak".[^ref-1][^ref-9] The UK's *PC Zone* gave it 20%.[^ref-10] Home of the Underdogs later called it "the new and improved version" that fans of *The Legend Returns* would love "at least twice as much".[^ref-4]
+Reviews were sharply divided. Germany's *PC Action* gave it 75%.[^ref-8] The *Albuquerque Journal* reviewed the Windows 95 version as "a superb update the entire family will enjoy" and rated it 5, on a scale the clipping does not state.[^ref-20] *MacFormat* gave the Mac version 76%.[^ref-18] *Computer Games Magazine* gave it 1/5 per Wikipedia and called it "an absolute waste for anyone but a puzzle freak".[^ref-1][^ref-9] The UK's *PC Zone* gave it 20%.[^ref-10] Home of the Underdogs later called it "the new and improved version" that fans of *The Legend Returns* would love "at least twice as much".[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** Presage Software[^ref-1][^ref-3]
 > **Designer:** Jake Hoelter (director), Todd Daggert, Craig A. Vinet, Mick Foley[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1][^ref-2]
+> **Producer:** [[Jeff Tunnell]] (executive producer), for [[Jeff Tunnell Productions]][^ref-2]
 > **Engine:** 32-bit update of *The Legend Returns* code; IPX networking and DirectX 1.0 modem support[^ref-7]
 > **Platforms:** Windows 95, Macintosh[^ref-1][^ref-3]
 > **Release Year:** 1995[^ref-1][^ref-5]
@@ -94,7 +95,7 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 
 | Publication | Date | Platform | Score |
 |---|---|---|---|
-| *Computer Games Magazine* | December 20, 1995 | Windows 95 | 1/5[^ref-1][^ref-9] |
+| *Computer Games Magazine* | December 20, 1995 | Windows 95 | 1/5 per Wikipedia[^ref-1][^ref-9] |
 | *PC Action* | March 1996 | Windows 95 | 75%[^ref-8] |
 | *PC Zone* No. 37 | April 1996 | Windows 95 | 20%[^ref-10] |
 | *Joystick* No. 70 | April 1996 | Macintosh | Intérêt 20%, Technique 30%[^ref-12] |
@@ -124,6 +125,10 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 ### Modern Assessment
 
 Home of the Underdogs rates the game 8.6 from 282 votes. Its review regrets the name, which "has probably led many people to believe that this is an on-line-only game". It praises the extra tile sets for making "the level editor much more robust and fun to design new levels with."[^ref-4] In 2020 Apple II Bits' Ken Gagne saw boxed copies of both Presage games in a friend's collection, then played *The Mad Monks' Revenge* through the fan-made Definitive Edition. He noted its opening enemy-free levels and later mechanics such as keys, doors and bombs.[^ref-13]
+
+**Aggregate Scores:**
+- **MobyGames:** Moby Score 6.2 from 7 votes (as of November 2026)[^ref-2]
+- **Home of the Underdogs:** 8.6 from 282 votes (as of November 2026)[^ref-4]
 
 ## Development
 
@@ -173,7 +178,7 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 
 ### Fan Projects
 
-*Mad Monks' Revenge: Definitive Edition* by Quark Robot is a fan-made, cross-platform clone written from scratch. It keeps "same graphics, same gameplay, and even the same bugs", runs on Windows, macOS and Linux, and supports online play with up to four friends. The site notes that the Presage Lode Runner titles are owned by Activision/Sierra and that the project has no association with either company.[^ref-16] Apple II Bits reported that it stays compatible with custom levels made for the 1995 original.[^ref-13]
+*Mad Monks' Revenge: Definitive Edition* by Quark Robot is a fan-made, cross-platform clone written from scratch. It keeps "same graphics, same gameplay, and even the same bugs", runs on Windows, macOS and Linux, and supports online play with up to four friends. The site notes that the Presage Lode Runner titles are owned by Activision/Sierra and that the project has no association with either company; it also credits the *Lode Runner* trademark to Tozai. The site lists version 24.12 as the current stable release.[^ref-16] Apple II Bits reported that it stays compatible with custom levels made for the 1995 original.[^ref-13]
 
 ## Downloads
 
@@ -197,9 +202,9 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 ## References
 
 [^ref-1]: [Wikipedia – Lode Runner Online: The Mad Monks' Revenge](https://en.wikipedia.org/wiki/Lode_Runner_Online:_The_Mad_Monks%27_Revenge) – enhanced version of The Legend Returns, developer, publisher, director, designers, 1995 Windows/Mac OS, offline play, new elements (self-igniting bombs, phase blocks, coloured items, multi-exit editor), review scores (Albuquerque Journal, CGM, Philadelphia Daily News, PC Player, PC Action) and quotes
-[^ref-2]: [MobyGames – Lode Runner On-Line: The Mad Monks' Revenge](https://www.mobygames.com/game/2988) – database entry: Presage Software developer, Sierra publisher, 1995
+[^ref-2]: [MobyGames – Lode Runner On-Line: The Mad Monks' Revenge](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/) – database entry read via the MobyGames API (Presage Software developer, Sierra publisher, 1995, Moby Score 6.2 from 7 votes); credits page lists Jeffrey Tunnell (as Jeff Tunnell) as Executive Producer and Jeff Tunnell Productions for executive production
 [^ref-3]: [Presage Software – Lode Runner Online product page (Wayback, 1997)](https://web.archive.org/web/19970614014935/http://www.presage.com:80/pLRonline.html) – Presage designed and developed the Macintosh and Windows 95 versions; Sierra publisher; listed awards
-[^ref-4]: [Home of the Underdogs – Lode Runner Online: The Mad Monks' Revenge](https://homeoftheunderdogs.net/game.php?id=2299) – review, new features, naming confusion, 2002 free release by the lead programmer, 8.6 from 282 votes
+[^ref-4]: [Home of the Underdogs – Lode Runner Online: The Mad Monks' Revenge](https://homeoftheunderdogs.net/game.php?id=2299) – review, new features, naming confusion, 2002 free release by the lead programmer, 8.6 from 282 votes, "Presage (now Human Code)"
 [^ref-5]: [InterAction (Sierra), Holiday 1995 – Lode Runner: The Mad Monks' Revenge, Internet Archive](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) – Presage remake, premise, feature list (network/modem, player-specific items, two new worlds, liquid tiles, 30 single and 150 two-player puzzles), Win 95 CD, available November, $44.95
 [^ref-6]: [InterAction (Sierra), Spring 1996 – catalogue listing, Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) – Lode Runner: On-Line $44.95, network and modem play, 2-for-1 WIN/Mac CD special
 [^ref-7]: [DaggertWeb – Lode Runner & Lode Runner Online (Wayback, 2008)](https://web.archive.org/web/20081014012253/http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm) – lead programmer's page: Q4 1995 release, multiplayer and 32-bit Windows 95 update, programmer-led design, IPX networking, DirectX 1.0 modem, media (1.44 MB floppy and CD-ROM, listed for both games together), redbook audio, Games Magazine 1994 award, cheat codes, free download
@@ -211,7 +216,7 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 [^ref-13]: [Apple II Bits – "Lode Runner: Mad Monks' Revenge" by Ken Gagne (March 9, 2020)](https://www.apl2bits.net/2020/03/09/lode-runner-mmr/) – boxed 1994 and 1995 releases, Definitive Edition port and level compatibility, gameplay impressions
 [^ref-14]: [Wikipedia – Lode Runner: The Legend Returns](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns) – Lode Runner Online released one year after The Legend Returns, fixing bugs and adding features
 [^ref-15]: [Wikipedia – Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) – series table: Lode Runner Online (1995, Windows/Mac OS, Presage/Sierra); Lode Runner 2 (1998, Presage, GT Interactive and MacSoft)
-[^ref-16]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform clone, same graphics and gameplay, up to 4 players online, Presage titles owned by Activision/Sierra, no affiliation
+[^ref-16]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform clone, same graphics and gameplay, up to 4 players online, Presage titles owned by Activision/Sierra, no affiliation, Lode Runner trademark of Tozai, current stable version 24.12
 [^ref-17]: [InterAction (Sierra), Fall 1995 – Lode Runner: On-Line announcement, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "two new worlds and 180 new levels", modem and network support, cooperative and head-to-head play; credits the Games Magazine award and MacUser finalist place to The Legend Returns
 [^ref-18]: [MacFormat No. 38 (June 1996), p. 129 – Lode Runner On-Line review by Garrick Webster, Internet Archive](https://archive.org/details/mac-format-038-jun-1996/page/n130/mode/2up) – Mac review: 76% (Graphics 70%, Sound 59%, Gameplay 80%), £39.99, out now, system requirements, "150 two-player network/modem levels", verdict
 [^ref-19]: [PC Player 7/96, Index Juli 1996, p. 27, Internet Archive](https://archive.org/details/PC-Player-German-Magazine-1996-07/page/n24/mode/2up) – index row for Lode Runner Online (tested in 5/96): star ratings 3, 3, 2, 2, 1 for Boris Schneider, Heinrich Lenhardt, Jörg Langer, Monika Stoschek and Henrik Fisch
