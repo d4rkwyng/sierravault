@@ -11,13 +11,13 @@ series: Standalone
 engine: null
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Stunt Flyer is a precision-aerobatics flight simulator for the Commodore 64, developed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line in 1985.
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Stunt Flyer is a stunt-flying simulation for the Commodore 64, which MobyGames d
 
 The plane is a Pitts Special biplane, which *Compute!'s Gazette* called "the most maneuverable of all stunt planes"[^ref-16][^ref-12]. The manual's note from the designers says, "Professional stunt pilots have evaluated it to ensure that it realistically simulates a real-life stunt plane"[^ref-20]. The player flies from a first-person cockpit view, and a side-scrolling 2D view replays the stunts afterwards[^ref-1][^ref-13].
 
-The game's most notorious feature was its Competition Mode. Crashing the plane there also crashed the program. Sierra's own *InterAction* magazine later said the feature brought "lots of angry letters from customers and a game with a very short software store shelf life"[^ref-17].
+The game's Competition Mode had a feature the Space Quest Omnipedia calls "a notorious feature": crashing the plane there also crashed the program[^ref-5]. Sierra's own *InterAction* magazine later said the feature brought "lots of angry letters from customers and a game with a very short software store shelf life"[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** Nice Ideas[^ref-1][^ref-20]
@@ -55,7 +55,7 @@ The designers made two simplifications to the real aircraft. The torque effect o
 
 ### Structure and Progression
 
-MobyGames lists 20 stunts in total[^ref-1][^ref-11], and the manual likewise lets the player "choose from among 20 maneuvers" (p. 21)[^ref-20]. The reference card speaks of "the 20 specific stunts which make up the training sequence"[^ref-22]. Each attempt is scored on how closely it follows the ideal stunt, and the player can also watch an expert fly the stunts or fly a freestyle routine[^ref-1]. The *Gazette* listed slow rolls, hammerheads, half-loops, Immelmans "and even the outside-inside Cuban 8" among the maneuvers. In its words, "The stunts are not easy to master, but that's the challenge"[^ref-16].
+MobyGames lists 20 stunts in total[^ref-1][^ref-11], and the manual likewise lets the player pick an individual stunt to watch "from among 20 maneuvers" (p. 21)[^ref-20]. The reference card speaks of "the 20 specific stunts which make up the training sequence"[^ref-22]. Each attempt is scored on how closely it follows the ideal stunt, and the player can also watch an expert fly the stunts or fly a freestyle routine[^ref-1]. The *Gazette* listed slow rolls, hammerheads, half-loops, Immelmans "and even the outside-inside Cuban 8" among the maneuvers. In its words, "The stunts are not easy to master, but that's the challenge"[^ref-16].
 
 Completing at least 15 maneuvers with a score of 50% or better unlocks the competition[^ref-20]. In the competition the player flies a 14-maneuver compulsory sequence within five minutes, then a freestyle sequence of no more than 60 seconds[^ref-20]. Both scores are saved to a separate blank disk[^ref-20]. The *Gazette* explained that this "competition" disk was then mailed to Sierra[^ref-16].
 

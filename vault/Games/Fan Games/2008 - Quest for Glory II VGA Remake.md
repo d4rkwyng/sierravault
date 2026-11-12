@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Adventure Game Studio
 protagonist: The Hero
 sierra_lineage: Fan Project
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'Quest for Glory II VGA Remake is AGD Interactive''s free 2008 fan remake
   of Sierra On-Line''s 1990 adventure-RPG *Quest for Glory II: Trial by Fire*, rebuilt
   in Adventure Game Studio with VGA-style art and a point-and-click interface.'
@@ -18,11 +18,11 @@ tags: [2000s, adventure, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory II VGA Remake
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line's 1990 adventure-RPG hybrid *Quest for Glory II: Trial by Fire*, developed and published by [[AGD Interactive]] and released on August 24, 2008[^ref-6][^ref-11]. Erpy of the development team, writing in the AGS release thread, said the game "went gold around midnight on the 24th/25th of august"[^ref-26]. The project replaced the original's 16-color EGA graphics and typed-parser interface with VGA-style artwork and point-and-click icons[^ref-21][^ref-6]. *Trial by Fire* was the only game in the series that Sierra never took beyond EGA graphics, so the remake brought it VGA-style artwork for the first time[^ref-11]. PC World likewise noted that, unlike the first game, *Trial by Fire* "was left behind with 4-bit, 16-color artwork"[^ref-18]. It was distributed as a free download[^ref-8][^ref-22].
+Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line's 1990 adventure-RPG hybrid [[1990 - Quest for Glory II - Trial by Fire|*Quest for Glory II: Trial by Fire*]], developed and published by [[AGD Interactive]] and released on August 24, 2008[^ref-6][^ref-11]. Erpy of the development team, writing in the AGS release thread, said the game "went gold around midnight on the 24th/25th of august"[^ref-26]. The project replaced the original's 16-color EGA graphics and typed-parser interface with VGA-style artwork and point-and-click icons[^ref-21][^ref-6]. *Trial by Fire* was the only game in the series that Sierra never took beyond EGA graphics, so the remake brought it VGA-style artwork for the first time[^ref-11]. PC World likewise noted that, unlike the first game, *Trial by Fire* "was left behind with 4-bit, 16-color artwork"[^ref-18]. It was distributed as a free download[^ref-8][^ref-22].
 
 Engadget reported that the remake had been "a labor of love in development off and on for nearly seven years"[^ref-4], while Adventure Classic Gaming's 2008 interview says nearly eight[^ref-25]. AGD Interactive, the team behind the King's Quest I and II remakes, kept the plot unchanged while adding interface options and a revamped combat system[^ref-5][^ref-6]. AGD Interactive's own site calls it an "award-winning Adventure/RPG game"[^ref-3].
 
@@ -66,7 +66,7 @@ The remake supports the series' character transfer system[^ref-6][^ref-19]. Play
 
 PopMatters described the game's core as "a melding between RPG grinding and solving puzzles," noting that certain puzzles require a particular stat[^ref-17]. PC World observed that puzzles and opponents are tackled differently depending on the player's class[^ref-18].
 
-According to AGD Interactive, the revamped combat system includes "many enhancements, new moves, new features, clever AI, and some auto-battle assistance" for players without sharp reflexes[^ref-6]. The AGS panel nevertheless warned that the high combat difficulty, "even after it is adjusted," may turn away some puzzle-oriented players[^ref-5].
+According to AGD Interactive, the revamped combat system includes "many enhancements, new moves, new features, clever AI, and some auto-battle assistance" for players without sharp reflexes[^ref-6]. PopMatters adds that "this version creates a larger arena for the player to move around in," that "pack animals like the Jackal Men" now attack "all at once," that "Brigands can throw knives from a distance while ghouls have several nasty magic spells at their disposal," and that "you can always adjust the game to auto-pilot, so that dodges or swings happen without you pressing a key"[^ref-17]. The AGS panel nevertheless warned that the high combat difficulty, "even after it is adjusted," may turn away some puzzle-oriented players[^ref-5].
 
 AGD Interactive kept the ability to drop items that are needed later. This preserves deaths, jokes and Easter eggs that only happen that way, although it means players can still reach dead ends[^ref-23].
 
@@ -107,17 +107,15 @@ AGD Interactive says plans to remake the game were made before its first project
 
 According to AGD Interactive's history page, the project's foundation was made in 2001: a set of Quest for Glory II screens connected without alleyways or much interaction. The project was not fully picked up again until 2003, shortly after the release of King's Quest II+[^ref-21]. Around 2004/2005, most animations had been created and a basic path from start to finish could be played. Years of refinement and bug-fixing followed[^ref-21]. Engadget summarised the effort as nearly seven years of on-and-off development[^ref-4], whereas Adventure Classic Gaming's 2008 interview says "nearly 8 years in development" and dates the first prototype to 2000, a one-man project begun "even before King's Quest I VGA was released"[^ref-25]. The sources therefore differ by about a year on the project's length, depending on where the start is counted.
 
-The interview also says beta testing, expected to take no more than 2 months, ended up taking 7[^ref-25]. In 2005 the team visited Oakhurst to meet Lori and Corey Cole, who "were very encouraging"[^ref-25].
+The interview also says beta testing, expected to take no more than 2 months, ended up taking 7[^ref-25]. In 2005 the team visited Oakhurst to meet Lori and Corey Cole, who "were very encouraging"[^ref-25]. Project director Chris Warren recalled that "Lori showed us around Oakhurst and had tons of stories to share," and that the team used the original design documents to "pull together some scrapped material to implement a new mini-game"[^ref-25]. The interview credits Warren as project director, programmer and animator, and Stijn "Erpy" van Empel as programmer and combat system designer[^ref-25].
 
 The team kept the game faithful to the original, with "no plot changes"[^ref-6]. PC World highlighted "lovingly recreated full VGA backdrops, fresh music, and new backstory content left out of the original due to space and time constraints"[^ref-18]. Unlike AGD Interactive's King's Quest I and II remakes, it has no voice acting. AGD Interactive's FAQ says a voice pack add-on will not be made because the dialogue workload "would be immense"[^ref-23].
 
 The credits list Lori Ann Cole and Corey Cole as writers and designers, alongside the AGD Interactive team[^ref-20].
 
-### Technical Details
+### Technical Specifications
 
 The remake was built with the Adventure Game Studio (AGS) engine[^ref-5][^ref-11]. AGD Interactive describes the result as "pseudo-VGA"[^ref-3].
-
-### Technical Specifications
 
 - **Resolution:** 320x200, 32-bit colour, as listed by AGS[^ref-5]. Engadget described the art as "256-color"[^ref-4]. PC World noted scaling options up to 1280x800[^ref-18].
 - **Engine:** Adventure Game Studio[^ref-5]
@@ -159,7 +157,7 @@ The remake is part of AGD Interactive's run of Sierra remakes, which also includ
 
 ### Critical Perspective
 
-Reviewers praised the remake's balance of preservation and modernisation. PopMatters argued that it improves the interface more than it overhauls the visuals[^ref-17]. PC World called it "a hand-polished classic you should be embarrassed to download for free"[^ref-18].
+PopMatters and PC World both praised the remake's balance of preservation and modernisation[^ref-17][^ref-18]. PopMatters argued that it improves the interface more than it overhauls the visuals[^ref-17]. PC World called it "a hand-polished classic you should be embarrassed to download for free"[^ref-18].
 
 ## Purchase
 
@@ -180,6 +178,10 @@ Reviewers praised the remake's balance of preservation and modernisation. PopMat
 - [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - Official FAQ and feature list[^ref-6]
 - [AGD Interactive FAQ, page 2](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq2.html) - Import help, Easter eggs, design decisions[^ref-23]
 - [AGD Interactive Development Team](https://www.agdinteractive.com/games/qfg2/about/team/about_team.html) - Full credits[^ref-20]
+
+## Related Games
+
+This remake reimagines the original [[1990 - Quest for Glory II - Trial by Fire]], the second game in the series, which follows [[1989 - Quest for Glory I - So You Want to Be a Hero]] and precedes [[1992 - Quest for Glory III - Wages of War]]. See the [[Quest for Glory Series]] overview.
 
 ## See Also
 
