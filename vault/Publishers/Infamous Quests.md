@@ -5,11 +5,11 @@ founded: 2012
 headquarters: "Syracuse, New York, United States"
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -19,11 +19,11 @@ For detailed information about the studio's history, notable games, and key peop
 
 ## Publishing History
 
-The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, raising $63,281 from 1,656 backers against a $25,000 goal.[^ref-3] On PC, *Quest for Infamy*'s Steam release was published by **Phoenix Online Publishing** on 10 July 2014; Infamous Quests published the GOG and itch.io releases itself. Ratalaika Games published the 2022 console ports.[^ref-4][^ref-17][^ref-5][^ref-23] A second Kickstarter, for *Order of the Thorne* and *Roehm to Ruin*, ran from 3 April to 3 May 2015 and raised $30,943 from 836 backers.[^ref-27] Infamous Quests self-published *Order of the Thorne: The King's Challenge* on 26 January 2016.[^ref-7][^ref-8][^ref-28]
+The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, raising $63,281 from 1,656 backers against a $25,000 goal.[^ref-3] On PC, *Quest for Infamy*'s Steam release was published by [[Phoenix Online Publishing]] on 10 July 2014; Infamous Quests published the GOG and itch.io releases itself. Ratalaika Games published the 2022 console ports.[^ref-4][^ref-17][^ref-5][^ref-23] A second Kickstarter, for *Order of the Thorne* and *Roehm to Ruin*, ran from 3 April to 3 May 2015 and raised $30,943 from 836 backers.[^ref-27] Infamous Quests self-published *Order of the Thorne: The King's Challenge* on 26 January 2016.[^ref-7][^ref-8][^ref-28]
 
 ## Games Published
 
-- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Kickstarter-funded debut; Steam release published by Phoenix Online Publishing, GOG/itch.io releases self-published[^ref-4][^ref-17]
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Kickstarter-funded debut; Steam release published by [[Phoenix Online Publishing]], GOG/itch.io releases self-published[^ref-4][^ref-17]
 - **2016** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Notes: Self-published[^ref-7][^ref-8]
 - **TBA** — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — Notes: Unreleased prequel to *Quest for Infamy*;[^ref-19] "completed for a while, except for some voice acting" (Oct 2025).[^ref-16] An April 2026 post on the studio's Patreon said studio time was booked for May to finish recording Mr. Roehm's lines;[^ref-20] itch.io still listed the game as "In development" in October 2026.[^ref-24]
 - **TBA** — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — Notes: Unreleased; billed as "The conclusion to the Order of the Thorne story!";[^ref-19] "in a real state of limbo" (Oct 2025)[^ref-16]
