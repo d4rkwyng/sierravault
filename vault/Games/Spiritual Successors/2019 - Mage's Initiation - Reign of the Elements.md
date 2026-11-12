@@ -10,15 +10,15 @@ series: Mage's Initiation
 engine: Adventure Game Studio
 protagonist: D'arc
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Brandon Blume]
 description: 'Mage''s Initiation: Reign of the Elements is an adventure/RPG hybrid
-  developed and published by Himalaya Studios, released on January 30, 2019 for Windows,...'
-tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
+  developed and published by Himalaya Studios, released on January 30, 2019 for Windows, macOS and Linux.'
+tags: [2010s, adventure, mages-initiation, rpg, sierra]
 ---
 # Mage's Initiation: Reign of the Elements
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
