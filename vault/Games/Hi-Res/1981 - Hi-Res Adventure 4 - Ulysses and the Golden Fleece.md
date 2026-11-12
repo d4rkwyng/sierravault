@@ -10,14 +10,13 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
-  game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
+last_updated: '2026-11-11'
+description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece (1981) is a graphic adventure for the Apple II from On-Line Systems, in which Ulysses sets out to recover the Golden Fleece for his king.'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -52,9 +51,9 @@ The myth itself is borrowed. In Greek legend it was Jason, not Ulysses, who soug
 
 Each location is shown as a full-color picture covering most of the screen. A text parser along the bottom accepts two-word commands[^ref-10]. Commands take a verb-noun form such as GO EAST, TALK GUARD or LOOK TREE[^ref-6][^ref-38]. Movement is limited to six directions: north, south, east, west, up and down[^ref-37]. Players can switch between the graphic and text displays[^ref-6][^ref-10].
 
-In the IBM PC version, the text window holds only four lines. When a message runs longer, the player presses Scroll Lock to bring up the rest. PC Magazine described this in its 1984 review: "pressing the Scroll-Lock key brings them up."[^ref-37] Modern players running the DOS version still get caught at this prompt[^ref-12][^ref-17].
+The text window holds only four lines. On the Apple II, a longer message makes the computer beep and hold further output until the player presses Return, and pressing Return on an empty line redisplays the last twenty-four lines of the conversation[^ref-41]. In the IBM PC version the player presses Scroll Lock to bring up the rest. PC Magazine described this in its 1984 review: "pressing the Scroll-Lock key brings them up."[^ref-37] Modern players running the DOS version still get caught at this prompt[^ref-12][^ref-17].
 
-Progress can be saved at any point[^ref-11]. There is only one save slot, though, so a missed item can force a restart[^ref-5].
+Progress can be saved at any point[^ref-11]. On the Apple II, saved games go to a separate initialized diskette labelled the "ADVENTURE SAVED GAME DISK", and the player is "prompted for a letter from A to O under which to save the game", so that several games can be saved at once[^ref-41]. The Book of Atari Software (1984) likewise praised the Atari version's "15 save-game capability on a scratch disk"[^ref-42].
 
 ### Structure and Progression
 
@@ -74,15 +73,17 @@ Player None picked out examples of more logical puzzle design: sharpening a bran
 
 **Softalk** (December 1981) reviewed the game as a story-driven adventure "rather than a race for score or treasures". It admitted that "the roots of this adventure in mythology are loose to say the least. But who cares?" and concluded that it was "the best from On-Line since Wizard and the Princess"[^ref-31]. The magazine also praised the new ability "to communicate, if briefly, with the people who populate the adventure"[^ref-31].
 
-**Softalk's Adventure 5 bestseller list:** the game entered at No. 2 in January 1982 and was No. 1 in March and April 1982[^ref-32][^ref-33][^ref-34].
+**Softalk's Adventure 5 bestseller list:** the game entered at No. 2 in January 1982, stood at No. 3 in February, was No. 1 in March and April, and was No. 2 in May 1982, behind Time Zone[^ref-32][^ref-43][^ref-33][^ref-34][^ref-44].
 
 **Videogaming Illustrated** (December 1982) gave the game a feature, billing it as "one of the most important and challenging videogames ever created". It said the game "paints a new, full-color panorama for every step of the journey" and called its vocabulary "quite extensive"[^ref-38].
 
-**PC Magazine** (20 March 1984, Phil Wiswell) reviewed the IBM PC version alongside Infocom's Infidel. Wiswell found both games "well designed, challenging, and a lot of fun to play". He judged Ulysses' two-word parser limited next to Infidel's, calling that limit one of "the trade-offs for the gorgeous graphics". It scored Fun 5.0, Challenge 6.0 and Graphics/Sound 3.0 (sound not applicable), for a total of 14.0 on PC's scale of one to six per category[^ref-37][^ref-18].
+**The Book of Atari Software** (1984) rated the Atari version B overall. It found the game "better-conceived than its immediate predecessors" but "much harder to solve", in part because of "a disturbing lack of recognition of many words". It noted "almost 150 locations to be mapped, including many near-mazes in jungles, oceans, and forests", and listed bugs and logical shortcomings such as "range errors, fireproof wine"[^ref-42].
+
+**PC Magazine** (20 March 1984) ran Phil Wiswell's "Greek And Egyptian Adventures" in its PC Arcade column, reviewing the IBM PC version alongside Infocom's Infidel. Wiswell found both games "well designed, challenging, and a lot of fun to play". He judged Ulysses' two-word parser limited next to Infidel's, calling that limit one of "the trade-offs for the gorgeous graphics". It scored Fun 5.0, Challenge 6.0 and Graphics/Sound 3.0 (sound not applicable), for a total of 14.0 on PC's scale of one to six per category[^ref-37][^ref-18].
 
 ### Modern Assessment
 
-Player None (2017) wrote that "as an adventure game, it actually feels a tad fairer than the previous entries in the series". The same review concluded that it "hasn't aged particularly well", citing its clunky parser and its single save slot[^ref-5]. A MobyGames user review of the Commodore 64 version praised the character art and the jungle scenes. It criticized the way the game snaps back to graphic mode whenever the scene changes[^ref-6].
+Player None (2017) wrote that "as an adventure game, it actually feels a tad fairer than the previous entries in the series". The same review concluded that it "hasn't aged particularly well", citing its clunky parser[^ref-5]. A MobyGames user review of the Commodore 64 version praised the character art and the jungle scenes. It criticized the way the game snaps back to graphic mode whenever the scene changes, and called the Commodore 64 version "the third and final Hi-Res adventure for the Commodore 64"[^ref-6].
 
 **Aggregate Scores:**
 - **MobyGames:** critics' average 61% (3 ratings); players' average 3.7/5 (37 ratings); Moby Score 7.2[^ref-1]
@@ -101,7 +102,7 @@ Davis replaced Jason with Ulysses to avoid potential copyright problems, because
 **Development Credits:**
 - **Designers:** Bob Davis, Ken Williams[^ref-1][^ref-31]
 - **IBM PC version:** Jay Sullivan, Frank Randak[^ref-11]; implemented by [[Jeff Stephenson]][^ref-40]
-- **Atari 8-bit port:** Yosemite Software Products, Inc.[^ref-27]
+- **Atari 8-bit port:** Yosemite Software Products, Inc.[^ref-27]; coder Chris Iden[^ref-42]
 
 ### Technical Specifications
 
@@ -140,7 +141,7 @@ Davis replaced Jason with Ulysses to avoid potential copyright problems, because
 
 ### Technical Issues
 
-The game's copy protection used a key disk[^ref-11]. Its two-word parser expects exact commands[^ref-5]. MobyGames reviewer Katakis called the C64 version "the third and final Hi-Res adventure for the Commodore 64"[^ref-6].
+The game's copy protection used a key disk[^ref-11]. Its two-word parser expects exact commands[^ref-5].
 
 ### Easter Eggs and Trivia
 
@@ -153,7 +154,7 @@ The game's copy protection used a key disk[^ref-11]. Its two-word parser expects
 
 ### Sales and Commercial Impact
 
-Ulysses was a bestseller for On-Line. In January 1982 Softalk noted that Ken Williams shared in each of the top three titles on the Adventure 5 list, with Ulysses a new entry at No. 2[^ref-32]. It reached No. 1 in March 1982, when it also returned to Softalk's Top Thirty, and held No. 1 in April[^ref-33][^ref-34].
+Ulysses was a bestseller for On-Line. In January 1982 Softalk noted that Ken Williams shared in each of the top three titles on the Adventure 5 list, with Ulysses a new entry at No. 2[^ref-32]. It slipped to No. 3 in February, reached No. 1 in March 1982, when it also returned to Softalk's Top Thirty, held No. 1 in April, and was No. 2 in May behind Time Zone[^ref-43][^ref-33][^ref-34][^ref-44].
 
 The game was later published by StarCraft, Inc. in Japan and by All American Adventures in the UK[^ref-27][^ref-21]. Green Valley Publishing released an Atari version as late as 1986, at £9.99[^ref-16].
 
@@ -174,13 +175,10 @@ ScummVM 2.0.0 (17 December 2017) added support for Hi-Res Adventures #3 through 
 
 In period reviews, the game's selling point was its pictures. Softalk wrote that On-Line's hi-res graphics had made "quantum leaps in some respects"[^ref-31]. Videogaming Illustrated said it was "impossible to capture the scope" of the game without its color graphics[^ref-38]. Its limitation was the parser. PC Magazine set its two-word commands against the more flexible parser of Infocom's text-only Infidel, which could string two commands into one sentence, and called the restriction a trade-off for the graphics[^ref-37]. Player None's later verdict was that it was fairer than earlier entries in the series but has not aged well[^ref-5].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
+- Not sold on GOG or Steam as of November 2026
 
 **Download / Preservation**
 - [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog)
@@ -189,20 +187,22 @@ In period reviews, the game's selling point was its pictures. Softalk wrote that
 
 **Manuals & Extras**
 - [PixelatedArcade – IBM PC instruction manual scans](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece)
+- [Apple II game instruction sheet (PDF, mocagh.org)](https://www.mocagh.org/sierra/ulysses.pdf)[^ref-41]
 
 The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and IGDB[^ref-30].
 
 ## See Also
 
+- [[Hi-Res Adventures Series]] — Series overview
+- [[1981 - Hi-Res Adventure 3 - Cranston Manor|← Previous: Cranston Manor]]
+- [[1982 - Hi-Res Adventure 5 - Time Zone|→ Next: Time Zone]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Football]]
 - [[1981 - Hi-Res Soccer]]
-- [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1982 - Adventure in Serenia]]
-- [[1982 - Hi-Res Adventure 5 - Time Zone]]
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 - [[1984 - Gelfling Adventure]]
 
@@ -211,7 +211,7 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 [^ref-1]: [MobyGames – Hi-Res Adventure #4: Ulysses and the Golden Fleece](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platforms, credits (Bob Davis, Ken Williams), description, critics 61% (3 ratings), players 3.7/5 (37 ratings), Moby Score 7.2
 [^ref-2]: [Sierra Fandom Wiki – Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – series list (#0–#6), position as #4
 [^ref-4]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – On-Line Systems (1979–1982) renamed Sierra On-Line; Ulysses among the 1981–82 Hi-Res Adventures
-[^ref-5]: [Player None Blog – Hi-Res Adventures #4 Review](https://playernone.blogspot.com/2017/12/hi-res-adventures-4-ulysses-and-golden.html) – 2017 retrospective: "a tad fairer", one save slot, Cyclops and wine puzzles, clunky parser
+[^ref-5]: [Player None Blog – Hi-Res Adventures #4 Review](https://playernone.blogspot.com/2017/12/hi-res-adventures-4-ulysses-and-golden.html) – 2017 retrospective: "a tad fairer", Cyclops and wine puzzles, clunky parser
 [^ref-6]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/user-review/2536897/) – 2011 C64 review: two-word parser, graphic/text toggle, Hercules reference, beeps, "third and final Hi-Res adventure for the Commodore 64"
 [^ref-7]: [ScummVM – NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) – 2.0.0 (2017-12-17): "Added support for Hi-Res Adventure #4: Ulysses and the Golden Fleece"; PSP Vita and RISC OS ports
 [^ref-10]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – description (king, fleece protected by the gods, Neptune, Sirens, Cyclops), screen layout, two-word parser, Orange Folder and Black Box releases
@@ -237,3 +237,7 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 [^ref-38]: [Videogaming Illustrated, December 1982 – Ulysses and the Golden Fleece (VideoGame Pavilion)](https://vgpavilion.com/mags/1982/12/vi/ulysses-and-the-golden-fleece) – feature and Bob Davis interview: "quite extensive" vocabulary, two-week estimate, Columbia Pictures copyright reason
 [^ref-39]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #4" among the games using this engine
 [^ref-40]: [MobyGames – Jeff Stephenson credits (Wayback, November 2022)](https://web.archive.org/web/20221109082054/https://www.mobygames.com/developer/sheet/view/developerId,52/) – "Hi-Res Adventure #4: Ulysses and the Golden Fleece (1982) ( Implemented by )"
+[^ref-41]: [Hi-Res Adventure #4: Game Instructions (Apple II), Bob Davis & Ken Williams, On-Line Systems (PDF, mocagh.org)](https://www.mocagh.org/sierra/ulysses.pdf) – "prompted for a letter from A to O under which to save the game"; "ADVENTURE SAVED GAME DISK"; four lines of text, Return shows last twenty-four lines
+[^ref-42]: [Atarimania – Hi-Res Adventure #4 (Atari 8-bit), incl. The Book of Atari Software, 1984, rated B](https://www.atarimania.com/games/atari-400-800-xl-xe-games-hi-res-adventure-4-ulysses-and-the-golden-fleece-2467/print?print=1) – "15 save-game capability on a scratch disk"; "almost 150 locations"; "fireproof wine"; coder Iden, Chris; developer Yosemite Software Products, 1982
+[^ref-43]: [Softalk, February 1982 (Internet Archive)](https://archive.org/details/softalkv2n06feb1982) – Adventure 5 list: No. 3 (No. 2 last month), behind Cranston Manor and The Wizard and the Princess
+[^ref-44]: [Softalk, May 1982 (Internet Archive)](https://archive.org/details/softalkv2n09may1982) – Adventure 5 list: No. 2 (No. 1 last month), behind Time Zone
