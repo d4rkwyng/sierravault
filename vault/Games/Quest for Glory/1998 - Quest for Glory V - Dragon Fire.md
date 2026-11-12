@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,7 +19,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh in December 1998[^ref-1][^ref-40][^ref-41]; GameRankings and Metacritic list November 30, 1998[^ref-21][^ref-24].
@@ -40,7 +40,7 @@ Dragon Fire features real-time 3D characters over pre-rendered panoramic backgro
 > **Composer:** Chance Thomas[^ref-1]
 > **Engine:** Custom 3D engine[^ref-1]
 > **Platforms:** Windows, Macintosh[^ref-1]
-> **Release Year:** 1998 (December per IGN and Gone Gold; November 30 per GameRankings and Metacritic)[^ref-40][^ref-41][^ref-21][^ref-24]
+> **Release Year:** 1998[^ref-1]
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
@@ -86,7 +86,7 @@ GameSpot's Elliott Chin scored the game 7.4/10 (Good), noting that "Quest for Gl
 
 Next Generation's December 24, 1998 review summarized the game as "A fine contribution to the genre that is accessible to novice and expert gamers alike"[^ref-33]. Joshua "Darien" Maciel of RPGamer scored the game 9 out of 10, praising its seamless combat and gameplay and concluding, "If there was ever an example to show the world of how to end a series, this game would be it"[^ref-19]. Dragon Fire was a nominee for CNET Gamecenter's 1998 "Adventure Game of the Year" award, alongside Black Dahlia and King's Quest: Mask of Eternity; its editors wrote, "What Dragon Fire does really well is give traditional adventure gamers a place to call home", and the award went to Grim Fandango[^ref-34][^ref-39][^ref-36]. Adventure Classic Gaming's Greg Wallace gave it 4/5 stars, calling composer Chance Thomas's work "the finest musical scores ever found in an adventure game" while criticizing the combat as "an infuriating and confusing clicking frenzy"[^ref-20].
 
-Other period reviews include Macintosh and PC-press coverage. In its May 1999 issue, MacAddict's Samuel Parker rated the game "Freakin' Awesome" on the magazine's rating scale and wrote "Quest for Glory V is an awesome epic", listing "3D combat is tricky" and "No hardware-acceleration support" under its bad news[^ref-43]. macHOME called the game "one of the best adventure games in years" and wrote that it was "Possibly the best adventure game to leave the Sierra doors" since King's Quest VI[^ref-44]. Andy Backer, writing for Strategy Plus (posted 01/14/1999), found it "only marginally adequate as an RPG" but concluded that its "high-quality story, characters, puzzles and dialogue make DragonFire an excellent, and most delectable game to play—especially for fans of adventure games"[^ref-45].
+Other period reviews include Macintosh and PC-press coverage. In its May 1999 issue, MacAddict's Samuel Parker rated the game "Freakin' Awesome" on the magazine's rating scale and wrote "Quest for Glory V is an awesome epic", listing "3D combat is tricky" and "No hardware-acceleration support" under its bad news[^ref-43]. macHOME called the game "one of the best adventure games in years" and wrote that it was "Possibly the best adventure game to leave the Sierra doors since King's Quest VI or perhaps even Space Quest III"[^ref-44]. Andy Backer, writing for Strategy Plus (posted 01/14/1999), found it "only marginally adequate as an RPG" but concluded that its "high-quality story, characters, puzzles and dialogue make DragonFire an excellent, and most delectable game to play—especially for fans of adventure games"[^ref-45].
 
 ### Modern Assessment
 Writing for Engadget in 2012, Rowan Kaiser said the final game "stands apart from the rest, and not necessarily in a good way," describing its switch to three-dimensional polygonal graphics as "not one that I find successful," though he noted "it certainly has its fans"[^ref-35]. In PC Gamer, Richard Cobbett wrote that "the fifth stumbles with its 3D world and more arcade style action"[^ref-5].
@@ -97,7 +97,6 @@ GameRankings averaged 72.57% from 21 reviews for the PC version and 62.50% for t
 - **IGN:** 6.6/10[^ref-18]
 - **RPGamer:** 9/10[^ref-19]
 - **Adventure Classic Gaming:** 4/5 (Very Good)[^ref-20]
-- **CNET Gamecenter:** Adventure Game of the Year nominee (1998)[^ref-34]
 - **Next Generation:** "A fine contribution to the genre"[^ref-33]
 - **MacAddict (May 1999):** "Freakin' Awesome"[^ref-43]
 - **macHOME:** "one of the best adventure games in years"[^ref-44]
@@ -153,12 +152,17 @@ Chance Thomas composed, orchestrated and produced the game's soundtrack[^ref-1][
 - Soundtrack by Chance Thomas, recorded mostly with live musicians, many of them members of the Utah Symphony[^ref-1][^ref-27]
 - New graphics engine programmed by Eric Lengyel[^ref-1]
 
+### Technical Specifications
+- **Windows:** Windows 95/98, 166 MHz Pentium or higher, 32 MB RAM, 8x CD-ROM[^ref-45]
+- **Macintosh:** Mac OS System 7.5 or higher, 120 MHz PowerPC or higher, 32 MB RAM, 6x CD-ROM[^ref-45]
+- **Disk space:** more than 300 MB of hard disk space to play well[^ref-44]
+
 ### Version History
 
 | Release | Year | Notes |
 |---------|------|-------|
 | Windows | 1998 | Published by Sierra FX; IGN's December 7, 1998 news brief said the game "has gone to replication and should be hitting store shelves this week"[^ref-3][^ref-40] |
-| Macintosh | 1998 | MacAddict described it as "now in simultaneous Mac and PC release"[^ref-3][^ref-43] |
+| Macintosh | 1998 | MacAddict described it as "now in simultaneous Mac and PC release"[^ref-3][^ref-43]; macHOME noted it was "only the third Quest for Glory to make it to the Mac"[^ref-44] |
 | Shadow Quests (compilation) | 2000 | Includes this game[^ref-3] |
 | Drachenfeuer und andere Legenden (compilation) | 2001 | Includes this game[^ref-3] |
 | Quest for Glory 1-5 (collection) | 2012 | Includes this game[^ref-3][^ref-9][^ref-10] |
