@@ -9,14 +9,14 @@ platforms: [Microsoft Windows]
 series: Civil War Generals
 protagonist: Robert E. Lee
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Robert E. Lee: Civil War General is a turn-based strategy wargame developed
   by Impressions Games and released by Sierra On-Line on August 24, 1996, for Windows 3.1 and Windows 95.'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -65,14 +65,20 @@ Historical depth was a selling point: the CGSP preview promised "a complete mult
 
 ### Contemporary Reviews
 
-The game received generally positive reviews from the gaming press. It was a finalist for Computer Gaming World's 1996 "Wargame of the Year" award (won by Battleground 4: Shiloh) and a finalist for the Codie award for "Best Strategy Software Game"[^ref-9]. Contemporary reception was summarized by Online Gaming Review, which reported that "general impressions on Civil War General have been almost entirely favorable"[^ref-52].
+Reviews were mostly favorable, with one prominent dissent: Computer Games Strategy Plus found the game overly shallow[^ref-9][^ref-63]. It was a finalist for Computer Gaming World's 1996 "Wargame of the Year" award (won by Battleground 4: Shiloh) and a finalist for the Codie award for "Best Strategy Software Game"[^ref-9]. Online Gaming Review reported that "general impressions on Civil War General have been almost entirely favorable"[^ref-52]. Computer Gaming World's Terry Coleman reviewed it alongside SSI's Age of Rifles under the headline "Rebel Generals", observing that "Lee is meant to be simpler to play, but it has a lot of subtleties"[^ref-62]. Computer Games Strategy Plus reviewer Robert Mayer was less impressed, calling it "another one of the Panzer General's androgynous offspring" and "a good introduction to wargaming, but one that barely hints at the joys of complexity and detail that make up the heart of true wargaming"[^ref-63].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
+| Computer Gaming World (Nov 1996) | 4/5 | "Lee is meant to be simpler to play, but it has a lot of subtleties"[^ref-62]; score per Wikipedia[^ref-9] |
+| Computer Games Strategy Plus | 3/5 | "A good introduction to wargaming, but one that barely hints at the joys of complexity and detail"[^ref-63]; score per Wikipedia[^ref-9] |
 | PC Gamer | 84% | "A serious wargame, wrapped in a friendly multimedia package"[^ref-54] |
 | GameSpot | 8.2/10 | "If you like Civil War games, this one deserves a place by your computer"[^ref-17] |
 | MobyGames | 73% | Critics average, based on 14 ratings (as of October 2026)[^ref-31] |
 | My Abandonware | 4.29/5 | Based on 56 user votes[^ref-34] |
+
+### Sales
+
+Per Sierra's InterAction, it was the best-selling wargame of 1996[^ref-9]. It debuted at #14 on NPD SofTrends' computer reference software chart for August 1996 and rose to eighth the next month at an average retail price of $51[^ref-9]. In 1998 it ranked first on that chart for January and again from February through August, as its average price fell to $17 and then $10[^ref-9]. PC Data ranked it the 25th-best-selling computer game in the United States for 1998, with 225,215 units and $2.37 million in revenue[^ref-9]. By January 1999 it and its sequel had together sold more than 700,000 copies worldwide[^ref-9].
 
 ### Modern Assessment
 
@@ -85,6 +91,8 @@ The same forum thread observed that "it is obvious someone at Matrix liked it al
 ### Origins
 
 Robert E. Lee: Civil War General originated as a remake of Impressions' earlier wargame Front Lines, reworking its engine to focus on the Civil War, before the team drifted away from that framework[^ref-9]. The development took place during a period of significant change for Sierra On-Line, as CUC International moved to acquire the company in 1996[^ref-4]. According to Ken Williams, this acquisition represented "an opportunity for Sierra to capitalize on what we already do extremely well: develop the highest-quality interactive entertainment, education and productivity titles in the industry"[^ref-4].
+
+In late 1995, Sierra's InterAction tentatively announced the game for 1996 under the working title Robert E. Lee: The War Against the Union[^ref-9]. PC Gamer US's March 1996 issue described it as 75% complete and set for an April launch, but by April 10 Sierra had officially pushed the date back to June, and the publisher showed the game at the 1996 Electronic Entertainment Expo in May[^ref-9].
 
 Next Generation's report on Sierra's 1996 schedule listed the game for June as "the latest wargame from Sierra's Impressions division"[^ref-50]; it ultimately shipped on August 24, 1996[^ref-9]. Sierra had purchased Impressions in 1995[^ref-9].
 
@@ -104,6 +112,10 @@ Audio design included period music; one GOG user remembered hearing "The Bonnie 
 
 Robert E. Lee: Civil War General established a successful franchise for Sierra, leading to the 1997 sequel Grant, Lee, Sherman: Civil War Generals 2[^ref-9], though a planned third game was ultimately cancelled[^ref-9].
 
+### Collections and Add-ons
+
+The game was later bundled with its sequel as the Ultimate Civil War Collection, which rose from 58th place in June 1998 to seventh in July on NPD SofTrends' reference software chart[^ref-9].
+
 ### Design Philosophy and Accessibility
 
 Fiske sought to make the gameplay streamlined and intuitive without sacrificing historical realism, and said his team aimed for accessibility akin to SSI's Panzer General but with greater historical accuracy and realism[^ref-9].
@@ -111,6 +123,10 @@ Fiske sought to make the gameplay streamlined and intuitive without sacrificing 
 ### Technical and Multimedia Achievements
 
 Impressions placed heavy emphasis on the game's multimedia content, and the encyclopedia's educational entertainment aspect was among its selling points[^ref-9]. The roughly 140 full-motion video clips of Civil War reenactments and the licensed Mort Künstler paintings[^ref-9] were central to that package; PC Gamer counted the "excellent you-are-there video reenactments" among its highs[^ref-54].
+
+## Version History
+
+By December 1996 the team had released a downloadable "Scenario Pack" for the game, and a second pack followed in January 1997[^ref-9]. A Computer Games Strategy Plus reviewer who found a minor bug in leader promotion was told by Sierra that a patch would be available from its website[^ref-63].
 
 ## Downloads
 
@@ -144,3 +160,5 @@ Impressions placed heavy emphasis on the game's multimedia content, and the ency
 [^ref-59]: [Zophar Music Archive](https://www.zophar.net/music/windows/robert-e-lee-civil-war-general) - Game soundtrack details
 [^ref-60]: [MobyGames Tech Specs](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/specs/) - Platform specs, resolutions and multiplayer options
 [^ref-61]: [MobyGames - Robert E. Lee: Civil War General Credits, Windows 3.x (Archived December 2005)](https://web.archive.org/web/20051206013941/http://www.mobygames.com:80/game/win3x/robert-e-lee-civil-war-general/credits) - Executive Producer: David Lester; Production and Design: Jeffrey Fiske; Art Director: Chris Beatrice
+[^ref-62]: [Computer Gaming World Issue 148 (November 1996) - Terry Coleman, "Rebel Generals"](https://archive.org/details/Computer_Gaming_World_Issue_148) - Joint review of Robert E. Lee and Age of Rifles: "Lee is meant to be simpler to play, but it has a lot of subtleties"
+[^ref-63]: [Web Archive CD Magazine Review, page 4 (Computer Games Strategy Plus, Robert Mayer)](https://web.archive.org/web/19970101104354/http://www.cdmag.com:80/war_vault/robert_e_lee_general_review/page4.html) - Concluding verdict and patch note

@@ -10,7 +10,7 @@ series: Adiboo
 engine: RenderWare
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Adiboo and the Energy Thieves is an educational action-adventure game
   released in 2004, developed by Coktel Vision and published by Vivendi Universal
   Games International S.A.
@@ -18,7 +18,7 @@ tags: [2000s, adiboo, educational, sierra]
 ---
 # Adiboo and the Energy Thieves
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ The story of Adiboo and the Energy Thieves takes place on the planet Celesta, a 
 
 Players control Adiboo as he embarks on a quest to stop the robot and restore peace to the planet[^ref-4][^ref-8]. Throughout the journey, Adiboo frequently breaks the fourth wall to inform and assist the player[^ref-21].
 
-The plot remains relatively simple, appropriate for the target audience of children aged five and up, and provides a framework for the game's educational and action-oriented gameplay elements[^ref-1].
+Wikipedia describes the gameplay as simple[^ref-21], and the game is aimed at children aged five and up[^ref-1].
 
 ## Gameplay
 
@@ -103,6 +103,14 @@ Development was handled by Coktel Vision, the French studio founded in 1984 that
 **Development Credits:**[^ref-1]
 - **Lead Game Designer:** Philippe Blanchet
 - **Game Design:** Olivier Rochas
+- **Executive Producer:** Catherine Bonvalot[^ref-23]
+- **Project Technical Director:** Brice Delvallee[^ref-23]
+- **Project Art Directors:** Arnaud Bouron, Jean-Christophe Charter[^ref-23]
+- **Lead Programmers:** Xavier Laisney, Stéphane Allegro[^ref-23]
+- **Lead Artist:** Maurice Changy[^ref-23]
+- **Sound Designer:** Jean-Michel Cerutti[^ref-23]
+- **Music:** Composed and performed by Talkover and Vert Pomme[^ref-23]
+- **Engine:** Criterion Software Ltd. (RenderWare)[^ref-20]
 
 The game was developed using the RenderWare engine[^ref-1].
 
@@ -129,14 +137,16 @@ The game's difficulty adapts dynamically based on the player's performance[^ref-
 | Version | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
 | SLES-52521 | September 24, 2004 | PlayStation 2 | PAL/Europe | Initial European release[^ref-8][^ref-15][^ref-19] |
-| PC | October 1, 2004 | Windows | UK | UK PC release[^ref-9] |
+| PC | 2004 | Windows | Germany | German retail release (Vivendi Universal Games Deutschland)[^ref-20] |
+| PC | May 28, 2004 (GameSpy) / October 1, 2004 (Amazon UK) | Windows | UK | The two sources disagree: GameSpy's PC listing gives May 28, 2004[^ref-13], while the Amazon UK product listing gives October 1, 2004[^ref-9] |
 
 **Regional Releases:**
-The game was released in multiple European territories, distributed by Vivendi Universal Games' regional subsidiaries in Germany (as "Adiboo: Die Jagd auf die Energiepiraten"), France, Spain, Italy and the United Kingdom, with a Dutch release on October 6, 2004[^ref-20][^ref-14].
+The game was released in multiple European territories, distributed by Vivendi Universal Games' regional subsidiaries in Germany (as "Adiboo: Die Jagd auf die Energiepiraten"), France, Spain, Italy and the United Kingdom, with a Dutch release on October 6, 2004[^ref-20][^ref-14]. According to MobyGames, the PlayStation 2 version was released in the United Kingdom, Spain and Italy on September 24, 2004, and in Germany and France in 2004 (no month or day given), while the Windows version is listed for Germany in 2004[^ref-20]. MobyGames credits Criterion Software Ltd. as "Game Engine by" on these releases[^ref-20].
 
 ### Trivia
 
 - The game was known as "Adiboo: Die Jagd auf die Energiepiraten" in Germany[^ref-20]
+- MobyGames also lists the French titles "Adiboo et Les Voleurs d'Energie" (PS2 disc) and "Adibou et Les Voleurs d'Energie" (box)[^ref-1]
 - Features personalized gameplay that adapts difficulty based on child's ability[^ref-9]
 - Traditional combat was replaced by non-violent "intelligent" duels[^ref-8]
 - The game was released during a particularly competitive period for children's platformers, facing competition from established franchises[^ref-6]
@@ -149,21 +159,22 @@ Specific sales figures for Adiboo and the Energy Thieves have not been documente
 
 ### Critical Perspective
 
-Adiboo and the Energy Thieves occupies an interesting position in gaming history as an example of educational software adapting to the demands of the 3D gaming era. While the Adiboo franchise had established itself as a trusted name in children's educational software, the transition to action-adventure gameplay proved challenging[^ref-6].
+Adiboo and the Energy Thieves occupies an interesting position in gaming history as an example of educational software adapting to the demands of the 3D gaming era. One retrospective blogger felt the transition to 3D action-adventure gameplay cost the Adiboo franchise much of its charm[^ref-6].
 
 On release in 2004 it faced established console platformers: the Official UK PlayStation 2 Magazine suggested that even its young fans "head for Jak or Ratchet instead"[^ref-7].
 
-Retrospectively, the game serves as a nostalgic touchstone for a generation who encountered it during childhood, even among those who acknowledge its limitations[^ref-5]. The adaptive difficulty system and non-violent approach to gameplay represented thoughtful design choices for the target demographic, even if the overall execution failed to match contemporary standards[^ref-8].
+Retrospectively, the game serves as a nostalgic touchstone for a generation who encountered it during childhood, even among those who acknowledge its limitations[^ref-5]. The publisher's description highlights the adaptive difficulty system and the non-violent "intelligent" duels[^ref-8], while TheGamer's retrospective judged the game harshly[^ref-5].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on major digital platforms
+- Not currently available on major digital platforms (checked 2026-11-11)
 
 ## See Also
 
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
+- [[Coktel Adventures Series]]
 - [[1992 - A.J.'s World of Discovery]]
 - [[1996 - Adiboo - Magical Playland]]
 
@@ -181,6 +192,7 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [^ref-10]: [MobyGames – Reviews](https://www.mobygames.com/game/138556/the-energy-thieves/reviews/) – critic score aggregate
 [^ref-11]: [Backloggd – Adiboo and the Energy Thieves](https://backloggd.com/games/adiboo-and-the-energy-thieves/) – user ratings, platforms
 [^ref-12]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer information, founding year, release year
+[^ref-13]: [GameSpy – Adiboo and the Energy Thieves (PC), Wayback Machine snapshot 2019-12-30](https://web.archive.org/web/20191230071744/http://pc.gamespy.com/pc/adiboo-and-the-energy-thieves/) – PC listing: Release Date May 28, 2004 (UK), Publisher Vivendi Games
 [^ref-14]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/58713-adiboo-and-the-energy-thieves) – regional releases, release date
 [^ref-15]: [Metacritic – Adiboo and the Energy Thieves](https://www.metacritic.com/game/adiboo-and-the-energy-thieves/) – release date, developer
 [^ref-16]: [Video Games Museum](https://www.video-games-museum.com/en/game/Adiboo-and-the-Energy-Thieves/80/2/49356/reviews) – PlayStation 2 platform confirmation, developer
@@ -190,3 +202,4 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [^ref-20]: [MobyGames – The Energy Thieves: Releases](https://www.mobygames.com/game/138556/the-energy-thieves/releases/) – publisher Vivendi Universal Games International S.A., regional distributors (incl. Vivendi Universal Games UK Limited), PS2/Windows releases, German title
 [^ref-21]: [Wikipedia – Adibou](https://en.wikipedia.org/wiki/Adibou) – plot (robots power a massive drill), gameplay structure, platforms
 [^ref-22]: [HowLongToBeat – Adiboo and the Energy Thieves](https://howlongtobeat.com/game/31529) – 72% site rating, polled main-story time
+[^ref-23]: [MobyGames – The Energy Thieves: Credits](https://www.mobygames.com/game/138556/the-energy-thieves/credits/) – PlayStation 2 credits (182 people): production, programming, art, sound and music credits
