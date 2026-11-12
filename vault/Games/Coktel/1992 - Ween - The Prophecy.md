@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
   point-and-click adventure game developed by Coktel Vision, published in Europe by Coktel
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coktel, sierra, ween]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -72,9 +72,9 @@ The puzzles received a mixed reception, with some critics finding them intricate
 
 ### Contemporary Reviews
 
-*The Prophecy* received mixed reviews. The DOS version scored well in the French and British PC press: *Joystick* gave it 91/100, *Tilt* 17/20, *Génération 4* 78/100 and *PC Format* 75/100.[^ref-16] MobyGames lists a critic average of 66% from 16 reviews.[^ref-7]
+*The Prophecy* received mixed reviews. The DOS version scored well in the French and British PC press: *Joystick* gave it 91/100, *Tilt* 16/20 (its printed Intérêt score; UV List gives 17/20), *Génération 4* 78/100 and *PC Format* 75/100.[^ref-34][^ref-16] MobyGames lists a critic average of 66% from 16 reviews.[^ref-7]
 
-Two French magazines reviewed the game in November 1992. In *Tilt* (issue 107, pp. 130-131), Jean-Loup Jovanovic wrote that "Il ne manque rien à Ween. Rien, si ce n'est un peu plus de liberté d'action. Peut-être parce que le jeu est trop linéaire?" ("Ween lacks nothing, except a little more freedom of action. Perhaps because the game is too linear?"). He praised the VGA graphics, the video animation during play and a soundtrack he called at last worthy of the name.[^ref-34][^ref-16] In *Joystick* (issue 32, p. 192), the reviewer Moulinex concluded: "En un mot, voilà un superbe jeu d'aventure, original et très attachant" ("In a word, a superb adventure game, original and very engaging"), while noting that the graphics were superb on PC, reasonable on Atari ST and well below the machine's possibilities on Amiga.[^ref-35]
+Two French magazines reviewed the game in November 1992. In *Tilt* (issue 107, pp. 130-131), Jean-Loup Jovanovic wrote that "Il ne manque rien à Ween. Rien, si ce n'est un peu plus de liberté d'action. Peut-être parce que le jeu est trop linéaire?" ("Ween lacks nothing, except a little more freedom of action. Perhaps because the game is too linear?"). He praised the VGA graphics, the video animation during play and a soundtrack he called at last worthy of the name.[^ref-34][^ref-16] In *Joystick* (issue 32, p. 192), the reviewer Moulinex concluded: "En un mot, voilà un superbe jeu d'aventure, original et très attachant" ("In a word, a superb adventure game, original and very engaging"), while noting that the graphics were superb on PC, reasonable on Atari ST and well below the machine's possibilities on Amiga.[^ref-35] *Joystick* also rated the Amiga version 87% and the Atari ST version 91%.[^ref-35]
 
 The Amiga version was received more coolly. Lemon Amiga lists 11 magazine reviews averaging 68%:[^ref-10]
 
@@ -92,7 +92,7 @@ The Amiga version was received more coolly. Lemon Amiga lists 11 magazine review
 | *Amiga Format* | No. 42, Jan 1993, p. 137 | Andy Nuttall | 50% |
 | *Amiga Magazine* | No. 23, Sep 1993, p. 60 | Michel van der Ven | 8/10 |
 
-*CU Amiga* felt the puzzles were completely illogical.[^ref-6]
+*CU Amiga* felt the puzzles were completely illogical.[^ref-6] The French magazines disagreed: *Tilt* judged the game very difficult but wrote that "la logique est toujours respectée" ("the logic is always respected"),[^ref-34] and *Joystick* called the lock "devinettes" "toujours très logiques" ("always very logical"), adding in its summary box that the puzzles, "parfois difficiles", "restent très logiques".[^ref-35]
 
 The Atari ST version was reviewed in *ST Review* issue 8 (December 1992), which gave it 83%.[^ref-36][^ref-37]
 
@@ -130,6 +130,8 @@ The backgrounds, which a MobyGames user reviewer describes as hand-painted,[^ref
 **Development Credits:**[^ref-1][^ref-10]
 - **Designer:** Joseph Kluytmans
 - **Co-Designer:** Corinne Perrot
+- **Graphics:** Joseph Kluytmans, Pascal Pautrot, Rachid Chebli (Rasheed)[^ref-34][^ref-36]
+- **Cover Artist:** Thierry Ségur[^ref-36]
 - **Programming:** E. Audren, E. Thommerot, M.D.O., Philippe Lamarque
 - **Composer:** Charles Callet
 - **Engine:** Gob
@@ -172,10 +174,10 @@ According to Lemon Amiga commenters, the Amiga version lacks many of the DOS ver
 | Europe | 1992 | Atari ST | Coktel Vision release[^ref-11] |
 | North America | 1993 | DOS | Sierra On-Line release as "The Prophecy"[^ref-6][^ref-24] |
 
-**Regional Title Variations:**[^ref-1][^ref-19]
-- Europe: "Ween: The Prophecy"
-- North America: "The Prophecy"
-- Hebrew: "נער הנבואה"
+**Regional Title Variations:**
+- Europe: "Ween: The Prophecy"[^ref-1][^ref-19]
+- North America: "The Prophecy"[^ref-1][^ref-19]
+- Hebrew: "נער הנבואה"[^ref-11]
 
 ### Technical Issues
 
@@ -273,7 +275,7 @@ Community members on GOG.com have asked for an official re-release. One commente
 [^ref-31]: [The Sierra Help Pages – Legend of Djel Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) – "talk to Petroy"; "Petroy makes the potion"
 [^ref-32]: [The Adventurers' Guild – Missed Classic 31: Legend of Djel (1989), Dec 2016](https://advgamer.blogspot.com/2016/12/missed-classic-31-legend-of-djel-1989.html) – "the game had a sequel of sorts, Ween: The Prophecy"
 [^ref-33]: [My Abandonware – The Prophecy (Wayback Machine, 17 Jan 2024)](https://web.archive.org/web/20240117054730/https://www.myabandonware.com/game/the-prophecy-225) – "Dosbox support: Fully supported on 0.73"
-[^ref-34]: [Internet Archive – Tilt no. 107 (Nov 1992), Ween review by Jean-Loup Jovanovic, pp. 130-131](https://archive.org/details/Tilt107) – graphics, video animation, Inca methods, interface, linearity
-[^ref-35]: [Internet Archive – Joystick (France) no. 32 (Nov 1992), Ween review, p. 192](https://archive.org/details/joystick032) – verdict, platform comparison, 15 save slots, MDO card support
-[^ref-36]: [Atari Legend – Ween: The Prophecy](https://www.atarilegend.com/games/ween-the-prophecy) – Atari ST Review 8 (Dec 1992), 83%
+[^ref-34]: [Internet Archive – Tilt no. 107 (Nov 1992), Ween review by Jean-Loup Jovanovic, pp. 130-131](https://archive.org/details/Tilt107) – 16 Intérêt score box, credits, graphics, video animation, Inca methods, interface, linearity, logic
+[^ref-35]: [Internet Archive – Joystick (France) no. 32 (Nov 1992), Ween review, pp. 192-193, score boxes p. 194](https://archive.org/details/joystick032) – verdict, platform comparison, logic remarks, 15 save slots, MDO card support, PC/Amiga/ST scores
+[^ref-36]: [Atari Legend – Ween: The Prophecy](https://www.atarilegend.com/games/ween-the-prophecy) – Atari ST Review 8 (Dec 1992), 83%; credits
 [^ref-37]: [Atarimania – Ween: The Prophecy (Atari ST)](https://www.atarimania.com/games/atari-st-games-ween-the-prophecy-10823) – ST Review, December 1992, 83%
