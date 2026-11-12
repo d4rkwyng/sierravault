@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Custom 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after more than fifteen years...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Gobliiins 4 is the fourth installment in the beloved puzzle-adventure series tha
 
 Released in March 2009[^ref-36], the game features 3D graphics while maintaining the classic gameplay mechanics that defined the series[^ref-2]. Players take on the roles of Detective Tchoup and his companions Stucco and Perluis, who are hired by King Balderon VIII to locate his missing pet aardvark named Riri[^ref-4]. For many gamers, the Gobliiins series represents "the gaming equivalent of marmite: either you love it or you hate it," with its challenging puzzles and distinctive humor dividing audiences[^ref-5].
 
-The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. A further sequel, Gobliiins 5, followed in 2023[^ref-7].
+The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. Gobliiins 5 followed in 2023[^ref-7] and Gobliins 6 in February 2026[^ref-46].
 
 > [!info]- Game Info
 > **Developer:** Société Pollene[^ref-1]
@@ -86,7 +86,7 @@ Total PC Gaming scored it just 30/100, summarizing "Gobliiins 4 has a lot of cha
 
 ### Modern Assessment
 
-The game maintains a contested legacy among adventure gaming enthusiasts. Some fans continue to champion it as a worthy successor that preserved the spirit of the originals, while others view it as a missed opportunity for modernization.
+Critics were split: Adventure Gamers called it "one of the most likeable titles this year"[^ref-39], while Adventure Classic Gaming rated it 2/5 and could not offer a recommendation "with a clear conscience"[^ref-5].
 
 **Aggregate Scores:**
 - **GameRankings:** 56.5% (based on multiple reviews)[^ref-2]
@@ -101,7 +101,7 @@ The Metacritic breakdown reveals significant division: 23% positive (3 reviews),
 
 ### Origins
 
-Pierre Gilhodes returned to game development after a decade of absence to resurrect his beloved franchise[^ref-23]. Having created the original Gobliiins characters alongside [[Muriel Tramis]] at Coktel Vision in the early 1990s, Gilhodes maintained a vision for continuing the series[^ref-24].
+Pierre Gilhodes returned to the series after more than a decade of silence[^ref-23]; in the intervening years he worked as an artist and animator on other studios' games (see [[Pierre Gilhodes]]). Having created the original Gobliiins characters alongside [[Muriel Tramis]] at Coktel Vision in the early 1990s, Gilhodes maintained a vision for continuing the series[^ref-24].
 
 Gilhodes continued working as a graphic artist and author of animations for various audiovisual productions during the intervening years before launching the production of Gobliiins 4[^ref-25]. His artistic background since a very early age informed the game's distinctive visual style, which aimed to preserve the whimsical aesthetic that defined the series[^ref-25].
 
@@ -144,17 +144,13 @@ The game supported an impressive array of languages for localization: English, F
 
 The game shipped on a single DVD-ROM disc[^ref-5].
 
-### Technical Issues
-
-The game exhibited stability problems, with one reviewer noting it could crash during play[^ref-16]. Compatibility issues emerged with newer operating systems, with users reporting that the game would install correctly but fail to launch—appearing in task manager without actually running[^ref-28]. The buggy translations from French to English also drew criticism[^ref-5].
-
-The limited save system proved particularly frustrating, offering only a single save per level through an intrusive auto-save mechanism or password system[^ref-16]. This archaic approach stood in stark contrast to modern gaming conventions and contributed to player frustration.
-
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | March 2009 | Windows | Initial retail release[^ref-36][^ref-8] |
+| UK retail | 27 March 2009 | Windows | Announced in the 12 March 2009 press release at a recommended £19.99[^ref-8] |
+| GamersGate | 30 April 2009 | Windows | Digital version at €19.95, in nine languages[^ref-35] |
 | Patch #1 | — | Windows | Czech, Hungarian and Polish patches[^ref-42] |
 | 1.01 | — | Windows | Russian patch 1.01[^ref-42] |
 | Platinová Edice | 2009 | Windows | Compilation of all four Gobliiins games on one DVD[^ref-41] |
@@ -164,6 +160,12 @@ The limited save system proved particularly frustrating, offering only a single 
 - Russian Patch 1.01 (19.99MB)[^ref-29]
 - Hungarian Patch #1 (1MB)[^ref-42]
 - Polish Patch #1 (1MB)[^ref-42]
+
+### Technical Issues
+
+The game exhibited stability problems, with one reviewer noting it could crash during play[^ref-16]. Compatibility issues emerged with newer operating systems, with users reporting that the game would install correctly but fail to launch—appearing in task manager without actually running[^ref-28]. The buggy translations from French to English also drew criticism[^ref-5].
+
+The limited save system proved particularly frustrating, offering only a single save per level through an intrusive auto-save mechanism or password system[^ref-16]. This archaic approach stood in stark contrast to modern gaming conventions and contributed to player frustration.
 
 ### Easter Eggs and Trivia
 
@@ -182,13 +184,13 @@ In 2014–2015 the game was not sold on GOG.com, and a commenter on its wishlist
 
 ### Collections
 
-The game was also released in a "Platinová Edice" (Czech for "Platinum Edition"), a compilation of all four Gobliiins games on a single DVD, with the earlier games modified to run on newer Windows systems[^ref-41]. The original trilogy remained available through various digital storefronts including GOG.com and Steam, often bundled together, though Gobliiins 4 itself was not among them[^ref-43].
+The game was also released in a "Platinová Edice" (Czech for "Platinum Edition"), a compilation of all four Gobliiins games on a single DVD, with the earlier games modified to run on newer Windows systems[^ref-41]. GOG.com sells the first three games as the Gobliiins pack[^ref-47]; Gobliiins 4 was not part of it.
 
-In May 2026 Gobliiins 4 returned in Red Art Games' Gobliiins Collection for PlayStation 5, Xbox Series and Switch, which bundles the first five games and describes it as the series' "first 3D instalment"[^ref-44].
+In May 2026 Gobliiins 4 returned in Red Art Games' Gobliiins Collection for PlayStation 5, Xbox Series and Switch, which bundles the first five games and describes it as the series' "first 3D instalment"[^ref-44]. Standard and Collector's physical editions for PlayStation 5 were announced for Europe on 24 September 2026[^ref-48].
 
 ### Sequels
 
-Series creator Pierre Gilhodes developed Gobliiins 5 (titled "GOBLiiiNS5 - The Invasion of the Morglotons"), published by Schnibble Productions and released on Steam in July 2023[^ref-7]. The sequel received "Very Positive" user reviews on Steam (92% of 71 reviews)[^ref-7]. The game was also made available on itch.io for $11 USD[^ref-31].
+Series creator Pierre Gilhodes developed Gobliiins 5 (titled "GOBLiiiNS5 - The Invasion of the Morglotons"), published by Schnibble Productions and released on Steam in July 2023[^ref-7]. The sequel received "Very Positive" user reviews on Steam (92% of 71 reviews)[^ref-7]. The game was also made available on itch.io for $11 USD[^ref-31]. Gilhodes followed it with Gobliins 6, released on itch.io in February 2026 and on Steam on 13 February 2026[^ref-46]; see [[2026 - Gobliins 6]].
 
 ### Related Publications
 
@@ -196,17 +198,15 @@ Series creator Pierre Gilhodes developed Gobliiins 5 (titled "GOBLiiiNS5 - The I
 
 ### Critical Perspective
 
-Gobliiins 4 represents both a nostalgic revival and a cautionary tale about preserving classic gameplay without modernization. The game successfully recaptured the challenging, multi-character puzzle-solving that defined the original trilogy, satisfying longtime fans who appreciated its faithfulness to the source material. However, its refusal to incorporate modern conveniences—such as a proper save system, hint mechanism, or more flexible puzzle solutions—alienated potential new audiences and frustrated even sympathetic critics.
+Reviewers of Gobliiins 4 disagreed sharply on how well its faithfulness to the original formula held up. Adventure Gamers recommended it to "any point-and-click adventurer" who does not play only for story[^ref-6], while GameStar judged that "today a game like this needs a real story, characters and some more functions"[^ref-6]. Critics who disliked it pointed to the single-save-per-level password system and the lack of a hint system[^ref-15][^ref-5]. Review scores on Metacritic ranged from 91/100 to 11/100[^ref-6]. As one reviewer noted, "The characters and situations seem tailored to a child's demographic, whilst the game requires the iron will and stubbornness of an adult to solve"[^ref-15].
 
-The game's reception illustrates the tension between preservation and evolution in adventure gaming. While publications like Adventure Gamers praised its puzzle design and charm, mainstream outlets found its archaic design choices inexcusable in 2009. The stark range of review scores—from 91/100 to 11/100—demonstrates how deeply personal the Gobliiins experience remained. As one reviewer aptly noted, "The characters and situations seem tailored to a child's demographic, whilst the game requires the iron will and stubbornness of an adult to solve"[^ref-15].
-
-Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Productions label[^ref-7].
+Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Productions label[^ref-7], and Gobliins 6 in 2026[^ref-46].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation released May 27, 2026 — the game's first re-release since 2009 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
-- Not available on GOG or Steam[^ref-22]
+- No GOG or Steam listing for Gobliiins 4 (checked 2026-11-11)
 - Retail copies occasionally available through secondary markets
 
 **Patches & Updates**
@@ -261,3 +261,6 @@ Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Produ
 [^ref-43]: [GOG Wishlist – Gobliiins 4 (Wayback, 2018)](https://web.archive.org/web/20180716170227/https://www.gog.com/wishlist/games/gobliiins_4) – fan comments dated Aug. 22, 2014 and Jun. 25, 2015
 [^ref-44]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026 collection, "first 3D instalment"
 [^ref-45]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – MobyScore 6.3 (14 votes), read via the MobyGames API
+[^ref-46]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Gobliins 6 release date 13 Feb 2026, read via the Steam appdetails API
+[^ref-47]: [GOG.com – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – Gobliiins, Gobliins 2 and Goblins Quest 3, $5.99
+[^ref-48]: [Netto's Game Room – Gobliiins Collection now available](https://www.nettosgameroom.com/2026/05/gobliiins-collection-now-available-on.html) – physical PS5 editions set for 24 September 2026
