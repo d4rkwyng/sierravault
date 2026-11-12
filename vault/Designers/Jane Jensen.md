@@ -5,11 +5,11 @@ birth_year: 1963
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "King's Quest VI: Heir Today, Gone Tomorrow"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio", "Oberon Media", "Hewlett-Packard"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Jane Jensen
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ She sent Sierra a résumé and a short story, offering to do "programming, QA, w
 
 ### Sierra Years (1991–1999)
 
-Jensen joined Sierra On-Line in February 1991. "My first project was to do the doco and text of Police Quest 3 and then to co-design EcoQuest: Search for Cetus," she said in a 1998 Sierra News One interview.[^ref-4] Those were [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]], which she co-designed with [[Gano Haine]].[^ref-4][^ref-31] She then co-designed, co-directed and co-wrote [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) with Roberta Williams, a game widely recognized as the high point of the series.[^ref-6][^ref-8][^ref-14] Jensen felt that "Roberta must have been pretty happy" with her work, because she was immediately given the chance to pitch her own series.[^ref-6]
+Jensen joined Sierra On-Line in February 1991. "My first project was to do the doco and text of Police Quest 3 and then to co-design EcoQuest: Search for Cetus," she said in a 1998 Sierra News One interview.[^ref-4] Those were [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]], which she co-designed with [[Gano Haine]].[^ref-4][^ref-31] She then co-designed, co-directed and co-wrote [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) with Roberta Williams, a game Adventure Gamers called "one of the best games Sierra gave us."[^ref-6][^ref-8][^ref-14] Jensen felt that "Roberta must have been pretty happy" with her work, because she was immediately given the chance to pitch her own series.[^ref-6]
 
 That pitch became Gabriel Knight. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-6] [[Ken Williams]] was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-6]
 
@@ -67,7 +67,7 @@ The sequel, set in Germany and built around werewolf lore, was produced entirely
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-Jensen co-designed, co-directed and co-wrote King's Quest VI with Roberta Williams, and wrote its guidebook.[^ref-6][^ref-14] She described the collaboration as "formative," noting that the two "design very differently." The game is widely recognized as the high point of the series.[^ref-6][^ref-8]
+Jensen co-designed, co-directed and co-wrote King's Quest VI with Roberta Williams, and wrote its guidebook.[^ref-6][^ref-14] She described the collaboration as "formative," noting that the two "design very differently." Adventure Gamers' 2008 review called it "one of the best games Sierra gave us."[^ref-8]
 
 ## Design Philosophy
 
@@ -113,10 +113,10 @@ Credits per MobyGames:[^ref-14]
 
 ### Post-Sierra Adventures (2010–Present)
 
-- **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Designer, Writer
+- **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Designer, Writer (credited for game design and story)[^ref-14]
 - **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Role: Story Consultant
 - **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Role: Designer, Creative Director, Executive Producer[^ref-14]
-- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Role: Designer, Director, Writer
+- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Role: Designer, Director, Writer, Executive Producer (also credited among the founders)[^ref-14]
 
 ## References
 
@@ -126,7 +126,7 @@ Credits per MobyGames:[^ref-14]
 [^ref-4]: [Adventure Classic Gaming Interview (1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Posted 1 November 1999, "courtesy of Sierra News One © 1998"; joined Sierra "Feb. of '91"; Police Quest 3 and EcoQuest; Voodoo research; Germany trip for The Beast Within
 [^ref-5]: [Vice: Gabriel Knight Creator Jane Jensen's Successful Second Act: Erotic Novelist](https://www.vice.com/en/article/gabriel-knight-creator-jane-jensens-successful-second-act-erotic-novelist/) — Duncan Fyfe, March 31, 2021; Eli Easton pen name since 2013, in Jensen's own words
 [^ref-6]: [Game Developer: Playing Catch-Up: Gabriel Knight's Jane Jensen](https://www.gamedeveloper.com/pc/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) — Alistair Wallis, May 17, 2007; source of most early-career and Gabriel Knight quotes, GK3 work began 1995, Oberon co-founding
-[^ref-8]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Reception ("widely recognized as the high point in the series")
+[^ref-8]: [Adventure Gamers: King's Quest VI review (Wayback, 2013)](https://web.archive.org/web/20130901003811/http://www.adventuregamers.com/articles/view/18166/page2) — Emily Morganti, May 16, 2008; "If you only play one King's Quest game, make it this one"; "it's one of the best games Sierra gave us"
 [^ref-10]: [Adventure Game Hotspot Interview (2023)](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy) — Casual games and Pinkerton Road quotes (source prints "Charlotte Harris")
 [^ref-11]: [Alternative Magazine Online (2011)](https://alternativemagazineonline.co.uk/2011/04/29/interview-in-conversation-with-jane-jensen-game-designer-gabriel-knight-trilogy-gray-matter/) — Gray Matter "originally announced way back in 2003"; publisher and development team changes
 [^ref-13]: [Time Extension (2024)](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — July 2, 2024; first chapter of a new Gabriel Knight story; "Now that the licenses are with Microsoft"
