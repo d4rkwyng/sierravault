@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: G-Engine
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third
   and final installment in Jane Jensen''s Gabriel Knight adventure series, a 1999 3D
   adventure set in Rennes-le-Château.'
@@ -18,13 +18,13 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third and final installment in Jane Jensen's acclaimed Gabriel Knight adventure series, developed by Sierra Studios and released in 1999[^ref-15]. The game takes place in the mysterious French village of Rennes-le-Château, where Gabriel Knight, now established as a Schattenjäger (shadow hunter), must protect an infant who may hold the key to ancient secrets involving the Knights Templar, vampires, and religious conspiracies[^ref-20][^ref-69]. 
 
-This entry marked a significant technical departure for the series, being the first Gabriel Knight game to utilize full 3D graphics through Sierra's custom G-Engine, built specifically for the project[^ref-34][^ref-78]. While the game received generally positive reviews for its ambitious storytelling and complex puzzles, it also became notorious for certain controversial design choices and marked the end of Sierra's adventure game development, with Jane Jensen noting that "we were the last dinosaur on the block"[^ref-15].
+This entry marked a significant technical departure for the series, being the first Gabriel Knight game to utilize full 3D graphics through Sierra's custom G-Engine, built specifically for the project[^ref-34][^ref-78]. While the game received generally positive reviews for its ambitious storytelling and complex puzzles, it also became notorious for certain controversial design choices and is recorded by MobyGames as the last adventure game published by Sierra[^ref-54], with Jane Jensen noting that "we were the last dinosaur on the block"[^ref-15].
 
 > [!info]- Game Info
 > **Developer:** Sierra Studios[^ref-15]
@@ -32,7 +32,7 @@ This entry marked a significant technical departure for the series, being the fi
 > **Publisher:** Sierra Studios[^ref-15]
 > **Platforms:** Windows[^ref-15][^ref-61]
 > **Release Year:** 1999[^ref-15]
-> **Release Date:** November 19, 1999 (NA); November 25, 1999 (EU)[^ref-15]
+> **Release Date:** November 19, 1999 (NA) and November 25, 1999 (EU) according to Wikipedia[^ref-15]; November 18, 1999 according to Steam[^ref-75] and PCGamingWiki[^ref-61]
 > **Producer:** Steven Hill[^ref-15][^ref-96]
 > **Programmer:** Scott Honn (lead)[^ref-15][^ref-96]
 > **Composer:** David Henry; themes by [[Robert Holmes]][^ref-15][^ref-96]
@@ -87,6 +87,12 @@ Contemporary critics praised Jane Jensen's storytelling abilities, with IGN's Ur
 
 However, criticism focused heavily on Tim Curry's voice acting performance as Gabriel Knight, with multiple reviewers describing it as "a cold and over-exaggerated interpretation of the southern accent"[^ref-15] and "fake accent and overly dramatic delivery [...] almost unbearable"[^ref-15][^ref-28]. The transition to 3D graphics also received mixed reactions: Metzomagic's reviewer found the 3D graphics "a double-edged sword", with excellent interiors but "iffy" outdoor scenes[^ref-50].
 
+### Aggregate Scores
+
+- **Metacritic:** 80/100[^ref-49]
+- **GOG.com user rating:** 4.2/5[^ref-38]
+- **Steam user reviews:** "Mixed", with 58% of 85 user reviews positive (as of November 11, 2026)[^ref-75]
+
 ### Awards
 
 *Computer Games Strategy Plus* and *CNET Gamecenter* named Gabriel Knight 3 the best computer adventure game of 1999[^ref-98][^ref-99], and it was a runner-up in the adventure category of the 1999 awards from *Computer Gaming World*, *The Electric Playground*, *GameSpot*, *PC PowerPlay* and *GameSpy*[^ref-15]. At the 3rd Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences nominated it for "Computer Adventure/Role-Playing Game of the Year"[^ref-15][^ref-100]. In 2011, Adventure Gamers ranked it 32nd on its list of the best adventure games ever released[^ref-15][^ref-101].
@@ -103,7 +109,7 @@ In a February 20, 2026 essay for *The Digital Antiquarian*, gaming historian Jim
 
 ### Origins
 
-Gabriel Knight 3's development began in December 1996[^ref-34]; Adventure Gamers later called it, as narrative, "one of the most ambitious productions ever attempted"[^ref-92]. Sierra announced the game on August 18, 1997, then due out in the summer of 1998[^ref-83]. Sierra felt the series should move to 3D graphics "to keep up with the times"[^ref-15]. Jensen noted that "GK3 is the first project I've worked on that we created a game engine from scratch," explaining that "gamers get bored if a company uses the same engine too often - particularly adventure game engines" and that "new technology (like 3D) often doesn't work with old engines"[^ref-34][^ref-84].
+Gabriel Knight 3's development began in December 1996[^ref-34]; Adventure Gamers later called it, as narrative, "one of the most ambitious productions ever attempted"[^ref-92]. Sierra announced the game on August 18, 1997, then due out in the summer of 1998[^ref-83]. Sierra felt the series should move to 3D graphics "to keep up with the times"[^ref-15]. Jane Jensen officially returned to Sierra in December 1996 to begin work on the script and design document while engineers started on the core technology, at Sierra's offices in Bellevue, Washington, with a planned ship date of Christmas 1998[^ref-18]. Jensen herself recalled that after walking the January 1997 CES show floor, "I realized that if I wanted anyone to look at the game, it had to be in 3D"[^ref-18]. Jensen noted that "GK3 is the first project I've worked on that we created a game engine from scratch," explaining that "gamers get bored if a company uses the same engine too often - particularly adventure game engines" and that "new technology (like 3D) often doesn't work with old engines"[^ref-34][^ref-84].
 
 The development team was acutely aware they were working in a declining market, with Jensen later reflecting that "we were the last dinosaur on the block" and "we had until the game shipped, and then it would be over"[^ref-15]. This awareness of the adventure genre's commercial decline influenced both the game's ambitious scope and its troubled production timeline.
 
@@ -113,15 +119,58 @@ The game's production was led by Jane Jensen as designer and writer, with Steven
 
 The voice cast featured Tim Curry returning as Gabriel Knight, joined by Charity James as Grace Nakimura and David Allen Thomas as Detective Mosely[^ref-9]. Supporting voice actors included notable performers such as John de Lancie, Rene Auberjonois, Jennifer Hale, and Billy West[^ref-9][^ref-45]. The score was composed by David Henry, based on themes by the series' original composer Robert Holmes[^ref-69][^ref-15].
 
-Production challenges included the complexity of developing a new 3D engine while maintaining the narrative depth expected from the Gabriel Knight series. Scott Bilas later revealed that certain design compromises, including the infamous cat puzzle, resulted from technical and budget constraints: "There was something that Jane [Jensen] wanted to do that was just too hard, too expensive, too complicated to make it happen"[^ref-15].
+Scott Bilas, the game's technical lead, wrote in a 2000 Game Developer postmortem that more than 45 developers worked on the game (with a standing team averaging 15 to 20) over almost three years, and that the budget, originally "well below $2 million," ended at $4.2 million[^ref-103]. He joined in early 1998, when the game had already been in development for more than a year and a half and was scheduled to ship at the end of that summer; the team then re-architected the engine in a data-driven fashion[^ref-103]. In the same piece he wrote that moving from 2D to 3D was "more like three times as much work," not one-third more[^ref-103]. Scott Bilas later revealed that certain design compromises, including the infamous cat puzzle, resulted from technical and budget constraints: "There was something that Jane [Jensen] wanted to do that was just too hard, too expensive, too complicated to make it happen"[^ref-15].
 
 ### Technical Achievements
 
-Gabriel Knight 3 utilized the custom G-Engine, which was built specifically for the project and was primarily the work of engineer Jim Napier[^ref-18][^ref-34]. Much of the game is implemented in a custom scripting language called Sheep, documented in a "Sheep Engine.doc" file bundled with the game's assets[^ref-78]. The engine supported full 3D environments, character models, and real-time rendering, although Gabriel Knight 3 was the last of Sierra's three 3D adventure projects to be started, after King's Quest: Mask of Eternity and Quest for Glory V[^ref-18].
+Gabriel Knight 3 utilized the custom G-Engine, which was built specifically for the project and was primarily the work of engineer Jim Napier, who set its basics in place during the first half of 1997 before being transferred to work on SWAT 3[^ref-18][^ref-34]. Bilas's postmortem likewise records that Napier left the project after completing the engine[^ref-103]. Much of the game is implemented in a custom scripting language called Sheep, documented in a "Sheep Engine.doc" file bundled with the game's assets[^ref-78]. Bilas described Sheep as a C-like language implemented with a simple compiler and p-code interpreter, built with Lex and Yacc and originally designed just for the game's animated sequences[^ref-103]. The engine supported full 3D environments, character models, and real-time rendering, although Gabriel Knight 3 was the last of Sierra's three 3D adventure projects to be started, after King's Quest: Mask of Eternity and Quest for Glory V[^ref-18].
 
 The game's technical specifications required Windows 95/98 compatibility[^ref-53][^ref-61]. However, the ambitious 3D implementation came with costs, as Jensen later explained: "sales of Gabriel Knight 3 were not sufficient to offset the cost of development given that we had to build a new engine"[^ref-15][^ref-102].
 
 Hidden within the game files are extensive developer tools, debug options, and unused content, as documented by fan researchers who have extracted significant amounts of cut material[^ref-10][^ref-78]. These discoveries reveal the ambitious scope originally planned for the game and provide insight into the development challenges faced by the team.
+
+### Development Credits
+
+- **Designer and writer:** [[Jane Jensen]][^ref-96]
+- **Producer:** Steven Hill[^ref-96]
+- **Lead programmer:** Scott Honn[^ref-96]
+- **Engine architect:** Scott Bilas[^ref-96] (described by Game Developer as the technical lead on the game[^ref-103])
+- **G-Engine:** Jim Napier[^ref-18][^ref-103]
+- **Voice-over director:** Stuart M. Rosen[^ref-96]
+- **Composer:** David Henry, based on themes by [[Robert Holmes]][^ref-15][^ref-96]
+- **QA lead:** Matt Julich[^ref-103]
+
+### Technical Specifications
+
+| | Minimum |
+|---|---|
+| Operating system | Windows 95 or Windows 98[^ref-50] |
+| Processor | Pentium 166 with a 3D accelerator (4 MB+ video RAM); Pentium 233 without one[^ref-50] |
+| Memory | 32 MB RAM[^ref-50] |
+| Display | SVGA, high color (16-bit)[^ref-50] |
+| Drive | 4x CD-ROM[^ref-50] |
+| 3D card | DirectX 6.1 compatible, 4 MB VRAM[^ref-61] |
+
+The game shipped on three CD-ROMs and contains more than 800 MB of compressed non-movie data, mostly texture maps, MP3 dialogue and music, and animations[^ref-103].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original retail release | November 1999 | Windows | Sierra Studios; the exact day is given as November 18 or 19 depending on source (see Game Info)[^ref-15][^ref-61][^ref-75] |
+| Best Seller Series | 2001 | Windows | Re-release in Sierra's Best Seller Series[^ref-15] |
+| GOG.com | March 11, 2010 | Windows | Digital release; the GOG edition includes a 38-page manual, an HD wallpaper and an avatar set[^ref-39] |
+| Steam | 2016 | Windows | Digital release, published by Activision[^ref-15][^ref-75] |
+
+### Technical Issues
+
+The retail release requires its CDs at specific points in the story, and the Sierra Help Pages installer for the retail release can install the whole game to the hard drive and addresses compatibility issues of the original installer[^ref-61]. The maximum selectable resolution is 1024x768, and the arrow-key and binocular camera speed is tied to the frame rate, so players on high-refresh monitors are advised to cap it[^ref-61].
+
+### Easter Eggs and Trivia
+
+- Easter eggs are switched on through the developer console by setting an "EGG" flag, which adds an egg icon; clicking it on Jean makes him do a flip[^ref-66].
+- A complete debug build of the game, GK3R.EXE, is bundled in the game's assets and can be extracted; it offers a fuller developer console than the release version, opened with the Tilde key[^ref-78].
+- Bilas's project data for the game lists 350,000 lines of C++ (not counting the original engine), 40,000 lines of script and logic, 8,000 lines of spoken dialogue, 36,000 unique resource files, and, in his words, "185,000 cups of coffee consumed"[^ref-103].
 
 ## Legacy
 
@@ -129,9 +178,15 @@ Gabriel Knight 3 holds a unique position in adventure gaming history as both a c
 
 The infamous "cat hair mustache" puzzle became a touchstone for discussions about adventure game design logic, with Erik Wolpaw's Old Man Murray article "Who killed Adventure Games?" using it as a prime example of the genre's decline[^ref-15]. Despite this notoriety, many players and critics continue to defend the game's overall design and narrative achievements[^ref-52][^ref-63].
 
-The game was re-released in Sierra's Best Seller Series in 2001, on GOG.com in 2010 and on Steam in 2016[^ref-15], and the GOG edition remains on sale[^ref-38][^ref-39].
+Tim Curry, who voiced Gabriel Knight, died on August 25, 2026, at the age of 80[^ref-104].
+
+The game was re-released on GOG.com in 2010 and on Steam in 2016[^ref-15], and the GOG edition remains on sale[^ref-38][^ref-39].
 
 Modern compatibility efforts through community patches and tools like dgVoodoo demonstrate the dedicated fanbase that continues to support and play the game decades after release[^ref-36][^ref-59]. The game remains available through digital platforms like GOG and Steam, though often requiring community-created fixes for modern systems[^ref-38][^ref-75].
+
+### Collections
+
+The game was re-released as part of Sierra's Best Seller Series in 2001[^ref-15].
 
 ## Downloads
 
@@ -142,8 +197,12 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 **Download / Preservation**
 - [Official demo (Internet Archive)](https://archive.org/details/GabrielKnight3BloodOfTheSacredBloodOfTheDamnedDemo) - Sierra's official 1999 demo[^ref-97]
 
+**Manuals & Extras**
+- The GOG edition includes a 38-page manual, an HD wallpaper and an avatar set[^ref-39]
+
 ## See Also
 
+- [[Gabriel Knight Series]]
 - [[1993 - Gabriel Knight - Sins of the Fathers]]
 - [[1995 - The Beast Within - A Gabriel Knight Mystery]]
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
@@ -198,3 +257,5 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 [^ref-100]: [3rd Interactive Achievement Awards PC finalists (AIAS, archived)](https://web.archive.org/web/20000903024505/http://www.interactive.org/iaa/finalists_pc.html) - Wayback copy, 2000: Gabriel Knight 3 among finalists for Adventure/Role-Playing Game of the Year
 [^ref-101]: [Top 100 All-Time Adventure Games, page 15 (Adventure Gamers, archived)](https://web.archive.org/web/20140329170004/http://www.adventuregamers.com/articles/view/18643/page15) - AG Staff, December 30, 2011; "#32 – Gabriel Knight: Blood of the Sacred, Blood of the Damned"
 [^ref-102]: [Sequels We'd Like to See, page 6 (Adrenaline Vault, archived)](https://web.archive.org/web/20011220114643/http://www.avault.com/articles/getarticle.asp?name=sequels&page=6) - Jane Jensen: "The sales of Gabriel Knight 3 were not sufficient to offset the cost of development"
+[^ref-103]: [Postmortem: Sierra Studios' Gabriel Knight 3 (Game Developer)](https://www.gamedeveloper.com/programming/postmortem-sierra-studios-i-gabriel-knight-3-i-) - Scott Bilas, October 11, 2000; technical lead's account of the engine, team, budget and schedule
+[^ref-104]: [Tim Curry, Outlandish Star of 'The Rocky Horror Picture Show,' Dies at 80 (The Hollywood Reporter)](https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/) - Lisa de los Reyes, August 26, 2026
