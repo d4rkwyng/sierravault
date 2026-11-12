@@ -7,12 +7,12 @@ first_release: 1986
 last_release: 1995
 total_games: 7
 genre: "Adventure, Comedy"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # Space Quest Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The games parody science fiction properties such as *Star Wars* and *Star Trek*,
 [[Mark Crowe]] and [[Scott Murphy]] met at Sierra, where Crowe worked in marketing and Murphy joined as a programmer; both wanted a science fiction comedy to set Sierra apart from its fantasy titles.[^ref-2] They called themselves the "Two Guys from Andromeda," and appear under that name in *Space Quest III*,[^ref-1] in which Roger rescues a pair of alien programmers standing in for the two from imprisonment at the software company Scummsoft.[^ref-4][^ref-5]
 
 - **Space Quest I–IV** - Made together; "1991's Space Quest IV was the last game the Two Guys would make together."[^ref-4]
-- **Space Quest V** - Crowe left after *Space Quest IV* to join Dynamix, another company within the Sierra organization, and developed *Space Quest V* there; it was the first entry made outside Sierra and without Murphy.[^ref-4][^ref-2]
+- **Space Quest V** - Crowe left after *Space Quest IV* to join Dynamix, another company within the Sierra organization, and developed *Space Quest V* there; it was the first entry developed at Dynamix and without Murphy.[^ref-4][^ref-2]
 - **Space Quest 6** - Murphy stayed at Sierra and made it with Josh Mandel.[^ref-4] Wikipedia describes Mandel as leading development, with Murphy serving as a consultant.[^ref-2] Mandel's own account differs: his proposal was "selected by Ken and Roberta," and "from the very beginning, I wanted Scott to be co-designer on the game."[^ref-30] Mandel left Sierra while the game was still in production, and Murphy finished it.[^ref-27][^ref-28]
 
 ## Themes and Humor
@@ -128,8 +128,8 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 
 ### Spiritual Successors
 
-- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Developer: Guys from Andromeda, Link: [SpaceVenture](https://guysfromandromeda.com/)[^ref-21]
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Developer: Guys From Andromeda LLC[^ref-29]
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Developer: Guys from Andromeda, Link: [SpaceVenture](https://guysfromandromeda.com/)[^ref-21]
 
 ## See Also
 
@@ -151,8 +151,8 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 - [[2011 - Space Quest II VGA Remake]]
 - [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2012 - Space Quest - Incinerations]]
-- [[2022 - SpaceVenture]]
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2022 - SpaceVenture]]
 
 ## References
 

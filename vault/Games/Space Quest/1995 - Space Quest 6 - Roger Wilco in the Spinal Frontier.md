@@ -260,6 +260,7 @@ This game has been included in the following collections:
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1993 - Space Quest V - The Next Mutation]]
+- [[Space Quest Series]]
 
 **Reference Sites**
 
