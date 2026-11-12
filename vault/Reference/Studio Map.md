@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -58,7 +58,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Relic Entertainment]] | May 1997 | Sierra published Homeworld (1999) and Homeworld 2 (2003) | Active; independent since 2024 | Homeworld, Homeworld 2[^ref-25][^ref-64][^ref-65] |
 | [[Monolith Productions]] | October 25, 1994 | Sierra/VU Games published Aliens versus Predator 2 (2001, with Fox Interactive), No One Lives Forever 2 (2002), Contract J.A.C.K. (2003) and F.E.A.R. (2005) | Closed by Warner Bros. Games in 2025 | Aliens versus Predator 2, No One Lives Forever 2, Contract J.A.C.K., F.E.A.R.[^ref-26][^ref-88][^ref-66][^ref-89][^ref-67] |
 | [[Gearbox Software]] | February 16, 1999 | Sierra published its Half-Life expansions | Active (2K since 2024) | Half-Life: Opposing Force (1999), Blue Shift (2001)[^ref-27][^ref-68][^ref-69] |
-| [[Game Arts]] | March 2, 1985 (Japan) | Sierra published US versions of Thexder (1987), Silpheed (1988) and Fire Hawk (1990) | Active | Thexder, Silpheed, Fire Hawk: Thexder – The Second Contact[^ref-28] |
+| [[Game Arts]] | March 2, 1985 (Japan) | Sierra published US versions of Thexder (1987), Silpheed (1988–89), Zeliard (1990) and Fire Hawk (1990) | Active | Thexder, Silpheed, Zeliard, Fire Hawk: Thexder – The Second Contact[^ref-28] |
 | [[Evryware]] | 1979 (the Murry brothers' own count of making games together) or 1980 (formation of the company, per the 1992 manual) | Sierra published 1983–1989 | — | Sierra Championship Boxing (1983), Manhunter: New York, Manhunter 2: San Francisco[^ref-29][^ref-90][^ref-115] |
 | [[Barking Dog Studios]] | May 1998 | Developed Homeworld: Cataclysm (2000) | Acquired by Take-Two August 2002 (Rockstar Vancouver; merged into Rockstar Toronto 2012) | Homeworld: Cataclysm[^ref-31] |
 | [[Stainless Steel Studios]] | October 1997 or January 1998 (sources differ) | Sierra published Empire Earth (2001) | Closed November 2005 | Empire Earth[^ref-32][^ref-91][^ref-92] |
@@ -137,7 +137,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-25]: [Wikipedia — Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) — founded May 1997; THQ 2004–2013, Sega 2013–2024; "By May 2024… operate independently"
 [^ref-26]: [Wikipedia — Monolith Productions](https://en.wikipedia.org/wiki/Monolith_Productions) — founded October 25, 1994; parent Warner Bros. Games (2004–2025); "In 2025, Warner Bros. Games closed the studio"
 [^ref-27]: [Wikipedia — Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) — founded February 16, 1999; developed Opposing Force and Blue Shift; parent 2K from 2024
-[^ref-28]: [Wikipedia — Game Arts](https://en.wikipedia.org/wiki/Game_Arts) — founded March 2, 1985; games table: Thexder (Sierra Entertainment US 1987), Silpheed (Sierra US 1988), Fire Hawk (Sierra US 1990)
+[^ref-28]: [Wikipedia — Game Arts](https://en.wikipedia.org/wiki/Game_Arts) — founded March 2, 1985; games table: Thexder (Sierra Entertainment US 1987), Silpheed (Sierra US 1988), Zeliard (Sierra US 1990), Fire Hawk (Sierra US 1990)
 [^ref-29]: [Games Domain — Interview with Evryware (Part 1), June 1, 1997 (Wayback)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) — "Dave and Barry Murry are brothers who have been creating computer games together since 1979"; Sierra "published Championship Boxing in 1983"; Manhunter
 [^ref-30]: [Wikipedia — EA Salt Lake (formerly Headgate Studios)](https://en.wikipedia.org/wiki/Headgate_Studios) — founded 1992 in Bountiful, Utah; parent Sierra On-Line (1996–1999), Electronic Arts (2006–2017); dissolved April 2017
 [^ref-31]: [Wikipedia — Rockstar Vancouver (formerly Barking Dog Studios)](https://en.wikipedia.org/wiki/Rockstar_Vancouver) — founded May 1998; Homeworld: Cataclysm (2000); "Take-Two Interactive acquired Barking Dog in August 2002"; merged into Rockstar Toronto 2012
