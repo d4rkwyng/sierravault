@@ -10,7 +10,7 @@ series: SWAT
 engine: OKRE
 protagonist: Mathias Kincaid
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Nick Arundel]
 description: 'SWAT: Global Strike Team is a tactical first-person shooter developed
   by Argonaut Games and published by Sierra Entertainment, released in October 2003
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT: Global Strike Team
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -128,8 +128,10 @@ The project was developed exclusively for PlayStation 2 and Xbox, with TweakTown
 - **Co-op / Multiplayer Designer:** Lorne Campbell[^ref-42]
 - **Writer:** Mike Kitson[^ref-1]
 - **Original Concept (as credited):** Sefton Hill, Paul Crocker[^ref-42]
-- **Composer:** Nick Arundel
-- **Head of Music:** Justin Scharvona
+- **Programmer:** Matt Porter[^ref-1]
+- **Artist:** Jean-François Vanelle[^ref-1]
+- **Composer:** Nick Arundel[^ref-37]
+- **Head of Music:** Justin Scharvona[^ref-37]
 - **Kleaners co-originators:** Sefton Hill, Dave Taylor, Matt Godbolt[^ref-8]
 
 ### Technical Achievements
@@ -178,7 +180,7 @@ GamePro found that the USB headset voice recognition "performs unevenly---someti
 ### Easter Eggs and Trivia
 
 - **Asylum Secrets:** A 2021 Reddit post claims that air vents in the asylum-like mission with broken floors reveal a man's voice; the poster flagged it as possibly faulty memory, and it is otherwise undocumented.[^ref-31]
-- **Alternate Title:** The game was known internally as "Kleaners" and "SWAT: GST" during development.[^ref-7]
+- **Alternate Title:** "Kleaners" was the game's working title, and "SWAT: GST" is a common abbreviation.[^ref-7]
 - **Setting:** The game is set in 2008, five years in the future from its 2003 release date.[^ref-2][^ref-13] Other sources disagree: IGN's launch article says 2018,[^ref-5] and the Police Quest fan wiki currently says 2016.[^ref-12]
 - **Drug Plot:** The designer drug at the center of the game's plot, called "LD-50" or "Spike," drives the conflict between criminal factions.[^ref-13]
 - **Movie Confusion:** Game Informer opened its review by noting that "Because of the name, you may think that the Colin Farrell/Sam Jackson masterwork SWAT had received the video game treatment"; the game is unrelated to the 2003 film.[^ref-15]
@@ -199,7 +201,11 @@ SWAT: Global Strike Team's commercial performance was disappointing, contributin
 
 ### Collections
 
-No compilation re-release of SWAT: Global Strike Team has been documented. The game received downloadable content through Xbox Live, which helped ease the disappointment of not having online multiplayer.[^ref-21] By November 2023, the Insignia project, an unofficial replacement service for the original Xbox Live, listed the title among its 150 supported games.[^ref-35]
+No compilation re-release of SWAT: Global Strike Team has been documented. The game received downloadable content through Xbox Live, which helped ease the disappointment of not having online multiplayer.[^ref-21]
+
+Online support for the Xbox version through Xbox Live was available until April 15, 2010.[^ref-1]
+
+By November 2023, the Insignia project, an unofficial replacement service for the original Xbox Live, listed the title among its 150 supported games.[^ref-35]
 
 ### Fan Projects
 
