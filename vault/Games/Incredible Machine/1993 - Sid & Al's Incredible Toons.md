@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: The Incredible Machine engine
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Sid & Al's Incredible Toons is a cartoon-themed puzzle spin-off of The
   Incredible Machine, developed by Jeff Tunnell Productions (credited to Dynamix in
   some sources) and published by Sierra On-Line in 1993 for MS-DOS.
@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # Sid & Al's Incredible Toons
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ CGW also praised smaller improvements over The Incredible Machine: progress save
 
 ### Contemporary Reviews
 
-Sid & Al's Incredible Toons was well reviewed. Wayne Kawamoto of *Electronic Entertainment* (March 1994) called it "Rube Goldberg meets Wile E. Coyote" and "one of the best puzzle games on the market"[^ref-32]; Wikipedia records the magazine's score as 8 out of 10[^ref-2]. According to Wikipedia, the German magazine *PC Games* scored it 89 and *Wiz* 90[^ref-2]. The German magazine *Power Play* (issue 1/94) scored it 89%[^ref-15], and the French magazine *Tilt* (issue 122, January 1994) gave it an "Intérêt" rating of 86%[^ref-36].
+Sid & Al's Incredible Toons was well reviewed. Wayne Kawamoto of *Electronic Entertainment* (March 1994) called it "Rube Goldberg meets Wile E. Coyote" and "one of the best puzzle games on the market"[^ref-32]; Wikipedia records the magazine's score as 8 out of 10[^ref-2]. According to Wikipedia, the German magazine *PC Games* scored it 89 and *Wiz* 90[^ref-2]. The German magazine *Power Play* (issue 1/94) scored it 89% and gave it its "Besonders empfehlenswert" (especially recommended) badge[^ref-15], and the French magazine *Tilt* (issue 122, January 1994) gave it an "Intérêt" rating of 86%, with sub-scores of 85 for animation, 85 for sound effects and 78 for music[^ref-36].
 
 In *Computer Gaming World* #115 (February 1994), Neil Harris wrote: "It's exactly what I wanted from a sequel to The Incredible Machine. The puzzles are more challenging, the animation and sound effects are hysterically funny, and there are a host of small improvements"[^ref-29]. He praised the manual by Michael Waite and Richard Tunnell and predicted that the game "will certainly show up on best game of the year lists"[^ref-29]. In its June 1994 awards, CGW named the game one of two titles that "put new subject matter in the strategic orbit" in the Strategy Game of the Year category, which *Master of Orion* won[^ref-30]. Wikipedia describes it as a runner-up for that award[^ref-2].
 
@@ -88,7 +88,7 @@ According to Wikipedia, *PC Gamer UK* ranked Sid & Al's Incredible Toons 24th in
 
 ### Modern Assessment
 
-Retro sites still rate the game well. Users of Abandonware DOS rate it 4.07/5.00 (29 votes)[^ref-12], and MyAbandonware users rate it 4.48/5 (56 votes)[^ref-5] (both checked October 28, 2026). Bokkie's April 2005 review on Classic Gaming Network gave it 65 points, and the site's users give it 85.5% across 21 ratings[^ref-6].
+Retro sites still rate the game well. Users of Abandonware DOS rate it 4.07/5.00 (29 votes)[^ref-12], and MyAbandonware users rate it 4.48/5 (56 votes)[^ref-5] (both checked November 12, 2026). Bokkie's April 2005 review on Classic Gaming Network gave it 65 points, and the site's users give it 85.5% across 21 ratings[^ref-6].
 
 **Aggregate Scores:**
 - **MobyGames:** Moby Score 7.9; critics 82% (17 ratings); players 3.9/5 (14 ratings)[^ref-1][^ref-16]
@@ -209,7 +209,7 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (checked October 2026).
+- Not currently sold on GOG or Steam (checked November 2026).
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993)
@@ -261,4 +261,4 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 [^ref-33]: [MobyGames – Credits (DOS)](https://www.mobygames.com/game/3116/sid-als-incredible-toons/credits/dos/) – full DOS credits incl. manual writers and original game concept
 [^ref-34]: [Sierra Chest – Sid & Al's Incredible Toons](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons) – developer, origami box, Incredible Toon Machine re-release details
 [^ref-35]: [Sierra Help Pages – The Incredible Machine Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TheIncredibleMachineUpdates.html) – STB video card Update (STBVID) listed under Sid & Al's Incredible Toons
-[^ref-36]: [Tilt #122 (January 1994), p. 40](https://archive.org/details/Tilt122) – review of Incredible Toons: Intérêt 86% (graphics 82, animation 85, music 78, sound effects 85)
+[^ref-36]: [Tilt #122 (January 1994), pp. 38–40](https://archive.org/details/Tilt122) – review of Incredible Toons: Intérêt 86% (graphics 82, animation 85, music 78, sound effects 85)
