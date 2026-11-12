@@ -10,7 +10,7 @@ series: Aces
 engine: null
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Aces of the Deep is a World War II U-boat simulator developed by Dynamix
   and published by Sierra On-Line for MS-DOS in 1994, set in the Battle of the Atlantic
   and the last game in Dynamix's Aces series.
@@ -18,22 +18,22 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Aces of the Deep is a World War II submarine simulator developed by Dynamix for MS-DOS and published by Sierra On-Line in 1994[^ref-1][^ref-14]. It was the last installment of Dynamix's Aces series, after the flight simulators Red Baron, Aces of the Pacific and Aces Over Europe[^ref-14]. The game puts players in command of German U-boats in the period between September 1939 and May 1945, when "Germany launched over 1,000 U-boats into combat against the Allies"[^ref-2]. Computer Gaming World said that "Aces of the Deep sets the standard for submarine simulations, perhaps even simulations in general"[^ref-2], and in 1996 ranked it the 71st best game of all time[^ref-14][^ref-29].
 
-Players take the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. As a GOG Dreamlist summary puts it, players "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys," with campaigns that can span the entire war[^ref-4]. The game is single-player only[^ref-8][^ref-14].
+Players take the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. As a GOG Dreamlist summary puts it, players "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys," with campaigns that can span the entire war[^ref-4]. The game is single-player only[^ref-8].
 
-The game shipped with a Kriegsmarine War Grid map that players used to find their patrol zones, alongside an extensive in-game manual and time-line maps showing kill-to-loss ratios[^ref-14]. The CD-ROM version added video interviews with German submariners, an on-line manual and historical maps, movies and photos[^ref-31][^ref-14]. MobyGames lists "Atlantic Wolves" and "Seawolf" as alternate titles ("aka")[^ref-31].
+The game shipped with a Kriegsmarine War Grid map that players used to find their patrol zones, alongside an extensive in-game manual and time-line maps showing kill-to-loss ratios[^ref-14]. The CD-ROM version added video interviews with German submariners, an on-line manual and historical maps, movies and photos[^ref-31][^ref-14]. The 1995 Windows re-release, Command: Aces of the Deep, also includes video interviews with German submariners[^ref-14]. MobyGames lists "Atlantic Wolves" and "Seawolf" as alternate titles ("aka")[^ref-31].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Alan Roberts, Dennis A. Kilgore, Langdon Beeck, Mike Jones[^ref-1]
-> **Publisher:** [[Sierra On-Line]][^ref-14]
+> **Publisher:** [[Sierra On-Line]][^ref-6]
 > **Platforms:** MS-DOS[^ref-8][^ref-14]
-> **Release Year:** 1994[^ref-14]
+> **Release Year:** 1994[^ref-8]
 > **Series:** Aces[^ref-6][^ref-30]
 > **Protagonist:** U-Boat Commander
 > **Sierra Lineage:** Core Sierra
@@ -66,7 +66,7 @@ The game includes merchant ships, troop ships, escorts such as corvettes, frigat
 
 ### Contemporary Reviews
 
-SUBSIM Review wrote that "Aces was received with critical acclaim upon its release"[^ref-11]. Computer Gaming World ranked it 71st in its 1996 list of the best games of all time, calling it a "U-boat simulator" that "is still unrivaled for creating an authentic atmosphere"[^ref-29]. PC Gamer's William R. Trotter called it "the most ambitious U-boat simulation ever published" and summed up: "Aces of the Deep is a worthy, ambitious, and detailed submarine simulation"[^ref-28].
+SUBSIM Review wrote that "Aces was received with critical acclaim upon its release"[^ref-11]. Computer Gaming World ranked it 71st in its 1996 list of the best games of all time, calling it a "U-boat simulator" that "is still unrivaled for creating an authentic atmosphere"[^ref-29]. In the "Playing lately?" reader poll in Computer Gaming World's March 1995 issue (#128), reporting results for the January 1995 issue (#126), Aces of the Deep ranked tenth[^ref-32]. In the magazine's April 1995 wargame survey, "A Wargaming Tour Of WWII In Europe", it was listed as a 1994 "War At Sea" title and graded A- for graphics, A for realism, A for solo play, N/A for two-player, A for replay value and A overall[^ref-33]. PC Gamer's William R. Trotter called it "the most ambitious U-boat simulation ever published" and summed up: "Aces of the Deep is a worthy, ambitious, and detailed submarine simulation"[^ref-28].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -170,3 +170,5 @@ That same report says the Aces series (Red Baron, Aces of the Pacific, Aces Over
 [^ref-29]: [Computer Gaming World Issue 148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "150 Best Games of All Time": #71 Aces of the Deep; Aces games as extensions of Red Baron
 [^ref-30]: [Sierra On-Line Form 10-K, fiscal 1996 (Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Aces series sold more than 1 million copies; Pioneer JV list with "Aces of the Deep II*" and "Aces over Mountains*"
 [^ref-31]: [MobyGames - Aces of the Deep](https://www.mobygames.com/game/1171/aces-of-the-deep/) – Alternate titles ("aka") "Atlantic Wolves" and "Seawolf"; CD-ROM version's video interviews, on-line manual and historical maps
+[^ref-32]: [Computer Gaming World Issue 128 (March 1995)](https://archive.org/details/Computer_Gaming_World_Issue_128) – "Playing lately?" reader poll, results for CGW #126 (January 1995): #10 Aces of the Deep (Dynamix)
+[^ref-33]: [Computer Gaming World Issue 129 (April 1995)](https://archive.org/details/Computer_Gaming_World_Issue_129) – "A Wargaming Tour Of WWII In Europe" survey grid: Aces of the Deep, 1994, War At Sea; A-, A, A, N/A, A, A
