@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'The third Leisure Suit Larry adventure (Sierra On-Line, 1989), designed
   by Al Lowe, in which the player controls both Larry Laffer and Passionate Patti
   on the resort island of Nontoonyt.'
@@ -19,7 +19,7 @@ composer: [Mike Dana]
 ---
 # Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals i
 
 Sources differ on how it was planned. SierraChest says the series was originally planned as a trilogy with this game as its final part[^ref-36], while Adventure Classic Gaming calls the first three games an "unplanned trilogy" that Lowe's team initially decided to close[^ref-1].
 
-However, the series continued, and Al Lowe has said each Larry game, including this one, sold over 250,000 copies[^ref-13][^ref-26].
+However, the series continued, and Wikipedia reports that Al Lowe has said each Larry game, including this one, sold over 250,000 copies[^ref-13].
 
 As Adventure Gamers noted in their retrospective review, "This is, quite frankly, one of my favorite Larry games, and probably the most underrated of the series"[^ref-2].
 
@@ -91,7 +91,7 @@ Patti's half plays much like Larry's; as Adventure Gamers put it, "even as Patti
 
 The game features traditional Sierra adventure game mechanics, including inventory management, object interaction, and puzzle-solving through text commands[^ref-1]. However, critics have noted significant issues with the puzzle design. Alex Bevilacqua's review criticized the game for having "too many dead ends and dead man walking scenarios that require you to backtrack or restart"[^ref-11]. Adventure Classic Gaming found that using inventory items "depends entirely on typing in the correct commands into the text parser"[^ref-1], and one walkthrough advises players to make sure they are close to the object or character they want to interact with[^ref-12].
 
-One significant technical issue affects the gym sequence, where the number of repetitions needed on each Fat City gym machine scales with the processor's clock speed, becoming absurdly high on fast computers[^ref-43]. This problem was addressed with bug fixes available from Al Lowe's website, though these weren't included in later CD re-releases[^ref-12].
+One significant technical issue affects the gym sequence, where the number of repetitions needed on each Fat City gym machine scales with the processor's clock speed, becoming absurdly high on fast computers[^ref-3][^ref-12]. This problem was addressed with bug fixes available from Al Lowe's website, though these weren't included in later CD re-releases[^ref-12].
 
 ## Reception
 
@@ -131,6 +131,8 @@ SierraChest adds that the ending was so tightly closed off—with Larry living h
 The game represented a conscious return to the adult-oriented themes that had been somewhat muted in the second installment, responding to fans who, after the far less raunchy Larry 2, asked Sierra to return to the original concept of more women and more sex[^ref-36].
 
 Like Leisure Suit Larry 2, the game ran on Sierra's SCI0 engine[^ref-13].
+
+MobyGames notes that the game was intended to be named "Polyester Patty in Pursuit of the Pulsating Pectorals", after the name the character had in the previous game[^ref-3].
 
 **Development Credits:**[^ref-3][^ref-17]
 - **Original Concept / Design / Producer:** [[Al Lowe]]
@@ -179,20 +181,13 @@ The Internet Archive preserves the original game manual, containing 24 pages of 
 
 ### Easter Eggs and Trivia
 
-- The ending was so conclusive that [[Al Lowe]] struggled to find a plot for a sequel—one reason there is no Leisure Suit Larry 4[^ref-36]
 - In the ending, Larry and Patti escape captivity and end up at Sierra's Coarsegold headquarters, shown in-game as a literal movie studio, passing set pieces from [[Police Quest Series|Police Quest]] and [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] before Larry interrupts [[Roberta Williams]] "directing" the whale escape from [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]][^ref-13]
-- Patti had actually appeared in the previous game under the name "Polyester Patty" before being renamed for this installment[^ref-13]
 - The game includes a "Boss Key" screen[^ref-50]
-- On faster computers, a bug can make the gym sequence require impossibly high repetitions—patches are available from Al Lowe's website[^ref-12]
-- Pressing Ctrl-Alt-X bypasses the age verification quiz entirely[^ref-14]
-- The instruction manual resembles a tourist manual for fictional Nontoonyt Island, its "advertisements" doubling as copy-protection codes[^ref-13]
-- The fake "Nontoonyt Tonite Magazine" was written by Marti & Bridget McKenna, which Lowe described as "truly funny adjuncts"[^ref-24]
 - One My Abandonware user recalled: "I actually got kicked out of the computer lab at college for playing this. They let me back in after I showed the instructor how to get past Tawni"[^ref-22]
-- The game features five "filth levels" based on how many age verification questions you answer correctly, from "Mother Goose" (censored) to "Totally Raunchiest" (all nudity)[^ref-3][^ref-13]
 
 ## Legacy
 
-In 1999 Al Lowe wrote that his latest Larry adventure, "like all of its predecessors," had "sold over a quarter-million copies"[^ref-26].
+In March 1999 Al Lowe wrote that his latest adventure "(like all of its predecessors) had sold over a quarter-million copies"[^ref-26].
 
 The game's ending sequence, "which involves a rampage through Sierra's offices, includes many self-aware jokes which are prevalent in Sierra games"[^ref-17].
 
@@ -208,7 +203,7 @@ The game can be run under ScummVM on modern systems[^ref-5].
 
 ### Collections
 
-The game was included in several compilations: the Leisure Suit Larry Triple Pack, Leisure Suit Larry's Greatest Hits and Misses, Leisure Suit Larry Collection Series, Leisure Suit Larry: Ultimate Pleasure Pack, and Leisure Suit Larry Collection (XP)[^ref-36][^ref-32]. MobyGames dates these to 1990 (Triple Pack), 1994 (Greatest Hits and Misses), 1997 (Collection Series), 1999 (Ultimate Pleasure Pack) and 2006 (Collection)[^ref-3].
+The game was included in several compilations: the Leisure Suit Larry Triple Pack, Leisure Suit Larry's Greatest Hits and Misses, Leisure Suit Larry Collection Series, Leisure Suit Larry: Ultimate Pleasure Pack, and Leisure Suit Larry Collection (XP)[^ref-36][^ref-32]. MobyGames dates these to 1990 (Triple Pack), 1994 (Greatest Hits and Misses), 1997 (Collection Series), 1999 (Ultimate Pleasure Pack) and 2006 (Collection), and also lists "Larry: Edycja Kolekcjonerska" (2001) and "Leisure Suit Larry: Das komplette Vergnügen" (2018)[^ref-3].
 
 ## Downloads
 
@@ -240,19 +235,19 @@ The game was included in several compilations: the Leisure Suit Larry Triple Pac
 
 [^ref-1]: [Adventure Classic Gaming – Leisure Suit Larry III review (Gustavo Calvo-Simmons, 22 July 2009)](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – 2/5 review, system requirements, trilogy plan
 [^ref-2]: [Adventure Gamers – Leisure Suit Larry 3 review (Rob Michaud, 16 April 2004; 2009 Wayback copy)](https://web.archive.org/web/20091017082200/http://www.adventuregamers.com/article/id%2C367) – Series information, graphics comparison with LSL2
-[^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – Credits, engine details, critic and player aggregate scores, compilation years, user reviews
+[^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – Credits, engine details, critic and player aggregate scores, compilation years, user reviews, trivia (working title, processor-speed gym note)
 [^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Platform compatibility information
 [^ref-7]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/23246) – Setting and plot details
 [^ref-10]: [LarryLaffer.net](http://larrylaffer.net/lslgames/lsl3-general) – Character interaction and plot development
 [^ref-11]: [Alex Bevilacqua – Leisure Suit Larry III (Mar 14, 2025)](https://alexbevi.com/blog/2025/03/14/leisure-suit-larry-iii/) – Retrospective review, dead ends criticism
 [^ref-12]: [GameFAQs Walkthrough by odino](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/36626) – Save system recommendations
-[^ref-13]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Age verification system
+[^ref-13]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Plot, filth levels, reception, sales figures, manual
 [^ref-14]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals_Cheats) – Quiz bypass method
 [^ref-16]: [Hardcore Gaming 101 Archive](https://web.archive.org/web/20100128135636/http://www.hardcoregaming101.net/lsl/lsl2.htm) – Game structure analysis
 [^ref-17]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Design approach assessment, manual, ending sequence, credits (including port credits), fan patches
 [^ref-22]: MyAbandonware Page *(download link removed: the game is sold commercially)* – User rating
 [^ref-23]: [Metacritic Page](https://www.metacritic.com/game/leisure-suit-larry-iii-passionate-patti-in-pursui/) – User rating information
-[^ref-24]: [Al Lowe Official Website](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – Development credits
+[^ref-24]: [Al Lowe Official Website](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – Copy protection in the documentation, Nontoonyt Tonite magazine
 [^ref-25]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) – Documentation preservation
 [^ref-26]: [Al Lowe Archive Article](https://web.archive.org/web/20040203141037/http://www.allowe.com/AL/adventuredead.htm) – Sales figures
 [^ref-27]: [Speedrun.com Leaderboards](https://www.speedrun.com/larry3) – Leaderboard: 28 runs, 6 players (checked October 2026)
