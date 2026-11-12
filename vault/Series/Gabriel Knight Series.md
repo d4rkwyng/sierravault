@@ -140,7 +140,7 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 
 ### Compatibility
 - **[ScummVM](https://www.scummvm.org/)** - Supports Sins of the Fathers and The Beast Within (GK1 and GK2). GK3 is not supported.[^ref-9]
-- **GOG** - The GOG version of Sins of the Fathers (v2 changelog, 29 October 2026) adds the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode, alongside the DOS version running on DOSBox in VGA mode, with a launcher to pick between them.[^ref-31]
+- **GOG** - The GOG version of Sins of the Fathers (v2 changelog, 29 October 2026) adds the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode, alongside the DOS version running on DOSBox in VGA mode, with a launcher to pick between them. The update also added Cloud Saves to both versions, turned subtitles on by default, and added the graphic novel and a making-of documentary as downloadable extras.[^ref-31]
 
 ### Remakes & Upcoming
 
@@ -166,7 +166,7 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 
 ## References
 
-[^ref-1]: [MobyGames - Gabriel Knight series](https://www.mobygames.com/group/53/gabriel-knight-series/) – Series group 53 (verified via MobyGames API): "based on real studies of the occult"; three graphical styles (2D, FMV, real-time 3D)
+[^ref-1]: [MobyGames - Gabriel Knight series](https://www.mobygames.com/group/53/gabriel-knight-series/) – Series group 53: "based on real studies of the occult"; three graphical styles (2D, FMV, real-time 3D)
 [^ref-2]: [Wikipedia - Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) – Engine SCI2; "Schattenjägers" = "Shadow Hunters"; plot inspired by *Angel Heart*
 [^ref-3]: [Adventure Gamers - Gabriel Knight: Sins of the Fathers (Wayback, May 27, 2024)](https://web.archive.org/web/20240527150445/https://adventuregamers.com/games/view/15492) – 5.0 stars: "An instant, hall of fame classic"
 [^ref-4]: [Only Solitaire - Gabriel Knight Review](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) – George Starostin: CGW award "possibly the single greatest double billing in gaming history"
