@@ -1,11 +1,11 @@
 ---
 title: "Release Timeline"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Release Timeline
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Each entry is listed under its game page's release year; footnotes give sources and flag where MobyGames disagrees, Frogger (listed under Sierra's 1982 port) and Sierra Championship Boxing (release year disputed) are the footnoted exceptions. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
@@ -612,7 +612,7 @@ For cancelled games like Space Quest VII, King's Quest IX, and Leisure Suit Larr
 
 ## References
 
-Entries follow each linked game page's `release_year`. Most year footnotes cite MobyGames' earliest listed release (read via the MobyGames API on 2026-10-16 and 2026-10-26); where MobyGames gives a different year than the game page, the footnote says so. Frogger is a deliberate exception: it is listed under Sierra's 1982 Atari 8-bit release rather than the page's 1981 arcade year. Sierra Championship Boxing's year is disputed (see its footnote).
+Entries follow each linked game page's `release_year`. Most year footnotes cite MobyGames' earliest listed release; where MobyGames gives a different year than the game page, the footnote says so. Frogger is a deliberate exception: it is listed under Sierra's 1982 Atari 8-bit release rather than the page's 1981 arcade year. Sierra Championship Boxing's year is disputed (see its footnote).
 
 [^ref-1]: [MobyGames – Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – Apple II 1981
 [^ref-2]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – Macintosh 1992-10-16, Windows 16-bit 1993-05-11
@@ -648,8 +648,8 @@ Entries follow each linked game page's `release_year`. Most year footnotes cite 
 [^ref-41]: [MobyGames – Frogger](https://www.mobygames.com/game/1540/frogger/) – Sierra On-Line's Atari 8-bit release, United States 1982 (the Konami arcade original is 1981)
 [^ref-42]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"
 [^ref-43]: [American Journal of Play – Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game" (2017)](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) – note 45: "Mystery House is widely regarded as the first adventure game with graphics"
-[^ref-44]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – Windows and Macintosh 2002 (read via the MobyGames API). Listed here under the game page's 2001; MobyGames' year disagrees, and which edition its entry covers is unconfirmed
-[^ref-45]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – Windows 2005, year only (read via the MobyGames API). Listed here under the game page's 2004; MobyGames' year disagrees
-[^ref-46]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – earliest dated releases 1985 (read via the MobyGames API). The game page gives 1983 from the developers' recollection, and its IBM PC reviews ran in InfoWorld (June 1984) and PC Magazine (November 1984), so 1985 is only MobyGames' earliest date; release year unresolved
-[^ref-47]: [Eli's Software Encyclopedia – Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) – lists Creepy Corridors in 1982 as part of the Laf Pak disk. Listed here under the game page's 1982, the Apple II Laf Pak year; [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) dates the standalone VIC-20 cartridge to 1983
+[^ref-44]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – Windows and Macintosh 2002. Listed here under the game page's 2001; MobyGames' year disagrees, and which edition its entry covers is unconfirmed
+[^ref-45]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – Windows 2005, year only. Listed here under the game page's 2004; MobyGames' year disagrees
+[^ref-46]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – earliest dated releases 1985. The game page gives 1983 from the developers' recollection, and its IBM PC reviews ran in InfoWorld (June 1984) and PC Magazine (November 1984), so 1985 is only MobyGames' earliest date; release year unresolved
+[^ref-47]: [Eli's Software Encyclopedia – Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) – lists Creepy Corridors (VIC-20 cartridge, Sierra) as its own 1982 USA/Canada release, with Laf Pak (Apple II disk) listed separately; [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) dates the VIC-20 cartridge to 1983. Listed here under the game page's 1982
 [^ref-48]: [Sierra Newsletter, Vol. 1 No. 3, Spring 1988 – Ken Williams, "Sierra Visits Japan!"](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988/page/n2/mode/1up) – Sierra's US release "was released in September of 1987". Listed here under 1985, the year Game Arts released the original on the NEC PC-8801 ([MobyGames – Thexder](https://www.mobygames.com/game/49/thexder/)); the Sierra US release came in 1987
