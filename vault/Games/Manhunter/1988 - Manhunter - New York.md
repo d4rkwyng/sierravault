@@ -10,7 +10,7 @@ series: Manhunter
 engine: Modified AGI (Adventure Game Interpreter)
 protagonist: Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Manhunter: New York is a post-apocalyptic adventure game released in
   1988 by Sierra On-Line, developed by Evryware, the company of brothers Barry and
   Dave Murry, in which the player works as a human tracker for alien overlords in
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter: New York
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ PC Gamer's Richard Cobbett noted that "Manhunter is one of the weirdest SF adven
 
 ### Origins
 
-Manhunter: New York was developed by Evryware, the company founded by brothers Barry and Dave Murry, rather than by Sierra's in-house team[^ref-24]. Their sister Dee Dee joined the team for this game[^ref-24]. The game was designed by Dave and Barry Murry using a modified AGI (Adventure Game Interpreter) system[^ref-11]. The sequel, Manhunter 2: San Francisco, used the same AGI engine[^ref-13].
+Manhunter: New York was developed by Evryware, the company founded by brothers Barry and Dave Murry, rather than by Sierra's in-house team[^ref-24]. Their sister Dee Dee joined the team around the time the game was released[^ref-24]. The game was designed by Dave and Barry Murry using a modified AGI (Adventure Game Interpreter) system[^ref-11]. The sequel, Manhunter 2: San Francisco, used the same AGI engine[^ref-13].
 
 ### Production
 
