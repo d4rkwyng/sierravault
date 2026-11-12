@@ -3,13 +3,13 @@ title: "David Lester"
 type: designer
 birth_year: null
 death_year: null
-notable_games: ["Caesar", "Caesar III", "Lords of the Realm", "Lords of the Realm II"]
+notable_games: ["Caesar", "Caesar II", "Caesar III", "Lords of the Realm", "Lords of the Realm II"]
 companies: ["Impressions Games", "Sierra On-Line", "Firefly Studios", "Crimson Publishing"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # David Lester
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
