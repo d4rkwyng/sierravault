@@ -73,13 +73,13 @@ The Game menu's "Start a New Game" option lets players leave the current game to
 
 Rather than adventure-game puzzles, Volume 1 offers straightforward card play[^ref-5]. The opponents play the different games at different skill levels[^ref-1], and Old-Games.ru's reviewer notes that the difficulty against the "serious" characters is fairly high[^ref-6].
 
-Players can select multiple opponents for games that support more than two players, mixing serious and humorous characters[^ref-1].
+Players can select multiple opponents for games that support more than two players, mixing serious and humorous characters[^ref-1]. According to Wikipedia, opponents can be chosen for every game except Klondike Solitaire, the last of the six[^ref-4].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary critical response to Volume 1 was mixed. *Computer Gaming World*'s Michael S. Lasky reviewed the game in January 1990, complaining of its "incredible plodding speed" and writing that apart from Cribbage the games "are really children's games and offer no great excitement." He called the humor of the Sierra characters "the best part of the game for most people," but added: "Those of us who prefer competition over comedy may find the humor grating, however." He judged Klondike "the package's best executed game" and concluded the $39.95 price was "reasonable enough to make the package worth considering"[^ref-21]. *Computer Gaming World* had teased the game in its October 1989 Rumor Bag as a card game letting players "compete against characters from other Sierra games"[^ref-24].
+Contemporary critical response to Volume 1 was mixed. *Computer Gaming World*'s Michael S. Lasky reviewed the game in January 1990, complaining of its "incredible plodding speed" and writing that apart from Cribbage the games "are really children's games and offer no great excitement." He called the humor of the Sierra characters "the best part of the game for most people," but added: "Those of us who prefer competition over comedy may find the humor grating, however." He judged Klondike "the package's best executed game" and concluded the $39.95 price was "reasonable enough to make the package worth considering"[^ref-21]. On rules, he wrote that Cribbage was "the obvious culprit" among the games not following the exact rules of Hoyle's Book of Rules, "with scoring techniques that are absolutely unique to this package," and for players who wanted Cribbage and Gin Rummy "with all the bells and whistles, as well as tournament play capability," he said Software Toolworks' Cribbage King/Gin King "has more to offer"[^ref-21]. *Computer Gaming World* had teased the game in its October 1989 Rumor Bag as a card game letting players "compete against characters from other Sierra games"[^ref-24].
 
 European publications provided varied assessments. *The Games Machine* awarded the game 67% in its December 1989 issue, calling it "not a release to excite" but "handy to have if you need a change in your gaming diet"[^ref-23][^ref-5]. *Power Play* gave 63/100 in December 1989[^ref-5]. French magazine *Tilt* rated the game 13/20 (65%) in November 1989[^ref-5]. German publication *ASM (Aktueller Software Markt)* was notably harsh, awarding only 2/12 (16%) in issue 37 from 1989[^ref-5].
 
@@ -180,7 +180,7 @@ No documented cut content has been identified in available sources.
 
 ### Technical Issues
 
-ScummVM 2026.4.0 rates the game's support as "Excellent" for the Amiga, Atari ST and DOS versions, noting that "Music in the Amiga version may have glitches"[^ref-12]. MyAbandonware lists DOSBox support from version 0.61[^ref-3]. The game also supports the IBM Music Feature Card[^ref-5][^ref-6].
+ScummVM, the open-source engine reimplementation project that runs classic games on modern systems, rates the game's support as "Excellent" for the Amiga, Atari ST and DOS versions in its 2026.4.0 compatibility chart, noting that "Music in the Amiga version may have glitches"[^ref-12]. MyAbandonware lists DOSBox support from version 0.61[^ref-3]. The game also supports the IBM Music Feature Card[^ref-5][^ref-6].
 
 ### Easter Eggs and Trivia
 
@@ -195,13 +195,13 @@ ScummVM 2026.4.0 rates the game's support as "Excellent" for the Amiga, Atari ST
 
 Sierra reported in Fall 1990 that Volume 1 had sold over 250,000 copies worldwide[^ref-22]. The same issue recounts that Ken Williams told Schwader his favourite part of the game had been Klondike Solitaire, which led Schwader to design a collection of solitaire games: *Hoyle's Book of Games Volume 2: Solitaire*, with 28 games[^ref-22].
 
+### Successors
+
+Sierra's 1993 [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (Hoyle 4) was a remake of Volume 1 with VGA support, speech and an original soundtrack[^ref-4]; Sierra Chest likewise describes it as a VGA remake with two additional games[^ref-20].
+
 ### Collections
 
 Sierra Chest lists Volume 1 as included in Sierra's Value Pack 2 and Sierra's Value Pack 3[^ref-20].
-
-### Fan Projects
-
-The game is supported by ScummVM, the open-source project that runs classic adventure games on modern systems[^ref-12].
 
 ### Related Publications
 
@@ -210,7 +210,7 @@ The game is supported by ScummVM, the open-source project that runs classic adve
 
 ### Critical Perspective
 
-*The Games Machine* called Hoyle Official Book of Games: Volume 1 "a little bit of diversification for Sierra"[^ref-23]. While *Computer Gaming World* dismissed most of the card games as "really children's games"[^ref-21], reviewers singled out the presence of Sierra's characters as the game's main draw[^ref-21][^ref-23].
+Reviewers singled out the presence of Sierra's characters as the game's main draw[^ref-21][^ref-23].
 
 Several of those characters returned in later entries: Larry Laffer and Roger Wilco appear as opponents again in Volume 3 and Hoyle Classic Card Games[^ref-15].
 
