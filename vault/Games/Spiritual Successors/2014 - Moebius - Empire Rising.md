@@ -1,7 +1,7 @@
 ---
 title: 'Moebius: Empire Rising'
 release_year: 2014
-developer: Pinkerton Road Studios, Phoenix Online Studios
+developer: Pinkerton Road, Phoenix Online Studios
 designer: [Jane Jensen]
 publisher: Phoenix Online Publishing
 genre: Adventure
@@ -10,23 +10,23 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
-description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road Studios and Phoenix Online Studios, and published by Phoenix Online Publishing.'
+last_updated: '2026-11-11'
+description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road and Phoenix Online Studios, and published by Phoenix Online Publishing.'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 composer: [Robert Holmes]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road Studios and [[Phoenix Online Studios]] and published by Phoenix Online Publishing on April 15, 2014[^ref-7][^ref-2]. It was designed by Jane Jensen, the designer behind Sierra's Gabriel Knight series, and was funded by a Kickstarter campaign that raised around $435,000 (less fees)[^ref-2]. The game follows Malachi Rector, "a globe-trotting antiques dealer"[^ref-2], as he becomes entangled in a government conspiracy built around a theory that history repeats itself[^ref-6].
+Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road and [[Phoenix Online Studios]] and published by Phoenix Online Publishing on April 15, 2014[^ref-7][^ref-2]. It was designed by Jane Jensen, the designer behind Sierra's Gabriel Knight series, and was funded by a Kickstarter campaign that raised around $435,000 (less fees)[^ref-2]. The game follows Malachi Rector, "a globe-trotting antiques dealer"[^ref-2], as he becomes entangled in a government conspiracy built around a theory that history repeats itself[^ref-6].
 
 The store page describes it as "a contemporary adventure that merges classic point-and-click puzzle solving with Jane Jensen’s sophisticated storytelling"[^ref-4]. Cult of Mac called it "the first installment in a planned series revolving around Malachi Rector"[^ref-10]. Alongside standard inventory and dialogue puzzles, the game sets challenges built around analysing people and matching them with historical figures[^ref-5], a profiling skill one reviewer likened to Sherlock Holmes[^ref-16]. Built in the Unity engine[^ref-7], the game blends 2D and 3D graphics[^ref-15]. The publisher tagged it "A Metaphysical Thriller"[^ref-5], and GameCritics' reviewer described it as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games"[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** Pinkerton Road Studios, Phoenix Online Studios[^ref-7]
+> **Developer:** Pinkerton Road, Phoenix Online Studios[^ref-7][^ref-15]
 > **Designer:** [[Jane Jensen]][^ref-2]
 > **Publisher:** [[Phoenix Online Publishing]][^ref-7]
 > **Engine:** Unity[^ref-7]
@@ -68,6 +68,8 @@ The game's signature feature is its character analysis. GOG's store page introdu
 | GameSpot | 4/10 | "Instantly forgettable, this game is better off lost to time"[^ref-18] |
 | IGN Italia | 7.9/10 | Italian edition of IGN, reviewed by Andrea Maderna[^ref-24] |
 | Game Informer | 6/10 | "Moebius is missing a spark — something that makes you want to keep playing"[^ref-8] |
+| GamesRadar+ | 2.5/5 | Donny Tarin, April 15, 2014: "strikingly underwhelming"[^ref-34] |
+| PCMag | 3.0/5 ("Average") | Isaac Rouse, July 23, 2015: "hindered by mediocre execution"[^ref-35] |
 | Polygon | 4/10 | Criticised the lead character, writing, puzzle design and sexism[^ref-2][^ref-25] |
 | Eurogamer.de (Germany) | 5/10 | German edition of Eurogamer[^ref-13] |
 | Eurogamer Italy | 4/10 | Italian edition of Eurogamer[^ref-2] |
@@ -82,13 +84,13 @@ The game received mixed reviews[^ref-2]. Several critics measured it against Jan
 
 ### Origins
 
-Pinkerton Road Studio was formed by Jane Jensen and her husband Robert Holmes as a way to return to game development as independents[^ref-2]. On April 5, 2012, the studio announced itself and launched a Kickstarter to fund its first year of adventure games[^ref-27]; an April 7, 2012 capture of the campaign page already shows 1,119 backers and a May 19 deadline[^ref-28]. Wikipedia describes the plan as a crowdfunded production of two graphic adventure games, *Moebius* and *Mystery Game X*[^ref-2]. The Kickstarter reached its $300,000 goal on May 7, 2012, and ended on May 19, 2012, having raised around $435,000 from backers (less fees)[^ref-2].
+Pinkerton Road was formed by Jane Jensen and her husband Robert Holmes as a way to return to game development as independents[^ref-2]. On April 5, 2012, the studio announced itself and launched a Kickstarter to fund its first year of adventure games[^ref-27]; an April 7, 2012 capture of the campaign page already shows 1,119 backers and a May 19 deadline[^ref-28]. Wikipedia describes the plan as a crowdfunded production of two graphic adventure games, *Moebius* and *Mystery Game X*[^ref-2]. The Kickstarter reached its $300,000 goal on May 7, 2012, and ended on May 19, 2012, having raised around $435,000 from backers (less fees)[^ref-2].
 
 Wikipedia notes that the campaign was inspired by recent Kickstarter successes such as Double Fine's crowdfunding of *Double Fine Adventure*[^ref-2].
 
 ### Production
 
-The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *[[2010 - The Silver Lining|The Silver Lining]]*, and was at the time working with Jensen on a remake of the first Gabriel Knight game[^ref-13]. Jane Jensen designed and wrote the game[^ref-22][^ref-23], and [[Robert Holmes]] composed the soundtrack[^ref-22]. Art direction is credited to [[Andy Hoyos]] and Michael Fortunato[^ref-23].
+The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. On February 20, 2014, publisher Phoenix Online announced that the game would launch for PC and Mac on April 15, calling it the first game from Jensen's crowdfunded studio Pinkerton Road[^ref-30]. MacTech reported that Jensen had entered into an agreement with Phoenix Online Publishing, "the new independent publishing division of Phoenix Online Studios", and that Linux, iPad and Android tablet versions were to follow later in 2014[^ref-31]. Engadget noted on February 25, 2014 that the Kickstarter had earned "more than $435,000 in backer pledges" and that Pinkerton Road also planned a remake of Gabriel Knight later that year[^ref-32]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *[[2010 - The Silver Lining|The Silver Lining]]*, and was at the time working with Jensen on a remake of the first Gabriel Knight game[^ref-13]. Jane Jensen designed and wrote the game[^ref-22][^ref-23], and [[Robert Holmes]] composed the soundtrack[^ref-22]. Art direction is credited to [[Andy Hoyos]] and Michael Fortunato[^ref-23].
 
 Eurogamer.de described Moebius as Jensen's first major game since *Gray Matter*, and the first since *Gabriel Knight 3* on which she again had full creative control[^ref-13].
 
@@ -106,6 +108,12 @@ Choicest Games noted that many of the voice actors had worked on Telltale games,
 | Erik Braa | Douglas Carter, Hasim |
 
 Colin Benoit as David Walker and Erik Braa as Douglas Carter are also listed on IMDb[^ref-1].
+
+### Development Credits
+
+- **Designer and writer:** Jane Jensen[^ref-23]
+- **Art direction:** Andy Hoyos, Michael Fortunato[^ref-23]
+- **Composer:** Robert Holmes[^ref-22]
 
 ### Technical Achievements
 
@@ -125,9 +133,18 @@ Steam notes that the game is not recommended for Intel systems with integrated o
 
 PCWorld's review reported "Cursor disappearances, sluggish animations, stuttering, unresponsive character or environment triggers"[^ref-26]. Choicest Games' reviewer was a Kickstarter backer and acknowledged the small $435,316 budget. Even so, he called the graphics "abysmal", mainly the animation and character models[^ref-16].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | April 15, 2014 | Windows | Original release[^ref-7][^ref-30] |
+| 1.0 | April 15, 2014 | macOS | Original release; 32-bit-only build[^ref-7][^ref-31] |
+
 ## Legacy
 
 No sequel followed. In 2016 Jane Jensen announced that Pinkerton had no games in development and that its website was closing. She wrote that *Moebius* and *[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: 20th Anniversary Edition]]* had not sold well enough to justify continued development[^ref-2]. Cliqist reported in May 2016 that Pinkerton Road was shutting down its forums and other web resources after lackluster sales and reviews of both games, and quoted Holmes: "We will retain the Pinkerton Road brand as a platform for other potential creative activities in the future"[^ref-29].
+
+Jensen later gave her own account of the finances in an April 2023 interview with Adventure Game Hotspot. She said the studio had promised backers two games, *Moebius* and the *Gabriel Knight* 20th Anniversary remake, and that after Activision stepped away partway through the remake, "We had to do it all on the $400K or so we'd raised during the Kickstarter. Ultimately, we invested our own money, and the returns were not what we expected." She concluded that "Kickstarter was not a viable way to finance games in future" and that "if we do any more games, it will be with a publisher who fully finances them"[^ref-33].
 
 ### Critical Perspective
 
@@ -141,7 +158,7 @@ The game hides four pink cows. The first three are in David's hostel room, on a 
 
 ### Availability
 
-The game remains available on Steam and GOG[^ref-4][^ref-15].
+The game remains available on Steam and GOG[^ref-4][^ref-15]. GOG lists it as working on Windows and Linux[^ref-15]. PCGamingWiki warns that the 32-bit-only macOS release does not work on macOS Catalina (10.15) or later[^ref-7].
 
 ## Downloads
 
@@ -154,6 +171,8 @@ The game remains available on Steam and GOG[^ref-4][^ref-15].
 
 ## See Also
 
+- [[Spiritual Successors Catalog]]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: 20th Anniversary Edition]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
@@ -199,3 +218,9 @@ The game remains available on Steam and GOG[^ref-4][^ref-15].
 [^ref-27]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) – Mike Rose, April 5, 2012; "it has launched a Kickstarter project to fund its first year of adventure games"
 [^ref-28]: [Kickstarter – Jane Jensen's Pinkerton Road (Wayback, April 7, 2012)](https://web.archive.org/web/20120407043807/http://www.kickstarter.com:80/projects/1005365109/jane-jensens-pinkerton-road-2012-2013-csg) – "1,119 Backers $83,834 pledged of $300,000 goal ... by Saturday May 19"
 [^ref-29]: [Cliqist – Pinkerton Road Closing Forums & Other Site Features](https://cliqist.com/2016/05/02/pinkerton-road-announces-closing-forums-site-features/) – Serena Nelson, May 2, 2016; forums closing after "lackluster sales and reviews"; Robert Holmes quote
+[^ref-30]: [Shacknews – Jane Jensen's Moebius launching in April](https://www.shacknews.com/article/83194/jane-jensens-moebius-launching-in-april) – Alice O'Connor, February 20, 2014; PC and Mac launch on April 15, first game from Pinkerton Road
+[^ref-31]: [MacTech – Moebius: Empire Rising coming to the Mac April 15](https://www.mactech.com/2014/02/20/moebius-empire-rising-coming-to-the-mac-april-15/) – February 20, 2014; agreement with Phoenix Online Publishing, Linux and tablet releases planned later in 2014
+[^ref-32]: [Engadget – Moebius: Empire Rising out April 15 from Phoenix Online Publishing](https://www.engadget.com/2014-02-25-moebius-empire-rising-out-april-15-from-phoenix-online-publishi.html) – Danny Cowan, February 25, 2014; "more than $435,000", Gabriel Knight remake plan
+[^ref-33]: [Adventure Game Hotspot – An interview with Jane Jensen](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy) – Jack Allin, published 2023-04-14; Jensen on the $400K, self-funding and publishers
+[^ref-34]: [GamesRadar+ – Moebius: Empire Rising review](https://www.gamesradar.com/moebius-empire-rising-review/) – Donny Tarin, April 15, 2014; 2.5/5
+[^ref-35]: [PCMag – Moebius: Empire Rising (for PC) Review](https://www.pcmag.com/reviews/moebius-empire-rising-for-pc) – Isaac Rouse, July 23, 2015; 3.0 Average
