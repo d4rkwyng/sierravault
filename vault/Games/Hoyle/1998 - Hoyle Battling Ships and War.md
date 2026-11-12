@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a 1998 Sierra On-Line compilation for Windows
   pairing Battling Ships, a Battleship variant, with the card game War.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -89,7 +89,7 @@ Running the game today takes legacy Windows or emulation. In DOSBox Staging's tr
 
 ### Origins
 
-Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and later Hoyle titles saw yearly releases or specialized in particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1]. Reviewing Classic Board Games (not this CD), TechnoFILE's Jim Bray described Battleship as "called Battling Ships here, undoubtedly for copyright reasons" and named Battling Ships his favourite game in that collection[^ref-25]. Craig Sorrels's 1998 Kids Domain review of the same collection listed "Chess, Battling Ships, & Chinese Checkers" among its games and noted "three skill levels & 12 opponents, including a bear"[^ref-26].
+Hoyle Battling Ships And War was developed and published by Sierra On-Line[^ref-1]. Sierra had been publishing the Hoyle series since 1989, and later Hoyle titles saw yearly releases or specialized in particular types of games[^ref-18]. Both halves of this compilation were shared with other Hoyle products: Battling Ships came from Hoyle Classic Board Games and War later reappeared in Hoyle Card Games[^ref-1]. Sierra announced the title in the Spring 1998 issue of its *InterAction* magazine: "Hoyle Battling Ships and War, Hoyle Hearts and Spades, and Hoyle Bridge and Euchre— each for only $14! Containing two complete games, each product features several variations on some of the games: Battling Ships has seven variations"[^ref-27]. The same item says the games were "Internet playable over WON"[^ref-27]. Reviewing Classic Board Games (not this CD), TechnoFILE's Jim Bray described Battleship as "called Battling Ships here, undoubtedly for copyright reasons" and named Battling Ships his favourite game in that collection[^ref-25]. Craig Sorrels's 1998 Kids Domain review of the same collection listed "Chess, Battling Ships, & Chinese Checkers" among its games and noted "three skill levels & 12 opponents, including a bear"[^ref-26].
 
 ### Production
 
@@ -104,7 +104,7 @@ Jim Love is credited as designer (and with additional sound and music), under ex
 - **Associate Producer:** Robert L. Jerauld
 - **Sr. Software Engineers:** Michael Katz[^ref-8], John Gilmore, Frank T. Hollander
 - **Composer:** Evan Schiller
-- **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood[^ref-5]
+- **Script Writers:** Rodney Sherwood (his MobyGames profile lists both script writer and voice actor for this game)[^ref-5]; MobyGames' game credits also list Jeff Hoyt and Allan Batchelder under Script Writers[^ref-21], although Batchelder's own profile lists him as a voice actor for this game[^ref-4]
 - **Program Manager:** Brick Baldwin[^ref-7]
 - **QA Analysts (selected):** Eric Tangborn[^ref-11], Torsten Reinl[^ref-12], Julie Bazuzi[^ref-10]
 - **Corporate Products Certification:** Beth Quintana[^ref-9]
@@ -127,7 +127,7 @@ MobyGames credits ten voice actors, without character assignments[^ref-21]:
 | M. J. King |
 | Allan Batchelder[^ref-4] |
 
-Three of the voice actors (Jeff Hoyt, Allan Batchelder and Rodney Sherwood) are also credited as the game's script writers[^ref-21].
+Rodney Sherwood is credited as both voice actor and script writer[^ref-5]. MobyGames' game credits list Jeff Hoyt and Allan Batchelder among the script writers as well[^ref-21]; Batchelder's profile lists him as a voice actor for this game[^ref-4].
 
 ### Technical Specifications
 
@@ -147,6 +147,9 @@ Three of the voice actors (Jeff Hoyt, Allan Batchelder and Rodney Sherwood) are 
 - Requirements for both the Windows 3.1 and Windows 95 versions: 486-66 CPU, 8 MB RAM, 2X CD-ROM, mouse, SVGA 256 colour
 - The feature list reads "Internet play on Battling Ships" (PCGamingWiki's wording is online play "for most games"[^ref-2])
 - UPC 020626704151
+- Box feature list: 12 animated characters in both games, adjustable character attitude and skill level, 7 Battling Ships variations, 3 variations of War, 25 different backgrounds, and a bonus of Internet versions of Backgammon, Yacht, Checkers, Chinese Checkers and Chess
+
+**Rating:** ESRB E (Everyone)[^ref-22]
 
 **Display:**[^ref-2]
 - **Resolution:** 640x480 (game area)
@@ -222,6 +225,7 @@ Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small pa
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
 
@@ -301,3 +305,4 @@ Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small pa
 [^ref-24]: [Eli's Software Encyclopedia – Hoyle Battling Ships And War (PC, CD-ROM) Sierra – 1998](https://elisoftware.org/wiki/Hoyle_Battling_Ships_And_War_(PC,_CD-ROM)_Sierra_-_1998_USA,_Canada_Release) – transcription of the retail packaging: UPC, feature list ("Internet play on Battling Ships"), requirements for Windows 3.1 and 95 (486-66, 8MB)
 [^ref-25]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – review of Hoyle Classic Board Games, not this CD; used only for Battling Ships' earlier appearance
 [^ref-26]: [Kids Domain – Hoyle Classic Board Games review (Craig Sorrels, 1998; copy on a Kids Domain cover CD, August 1998, via Discmaster)](https://discmaster.textfiles.com/file/19539/K_CD_8_98.iso/kdomain/wwwkid~1.com/review/kdr/hoyle~1.htm) – review of Hoyle Classic Board Games, not this CD; "three skill levels & 12 opponents, including a bear"
+[^ref-27]: [InterAction Issue 34 (Spring 1998) – Internet Archive](https://archive.org/details/inter-action-issue-34-spring-1998) – Sierra's customer magazine, News Notes: announcement of Hoyle Battling Ships and War at $14, seven Battling Ships variations, Internet play over WON
