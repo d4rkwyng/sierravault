@@ -10,7 +10,7 @@ series: Aces Series
 engine: 3-Space
 protagonist: WWII Pacific Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Aces of the Pacific is a World War II combat flight simulator developed
   by Dynamix and published by Sierra On-Line in 1992 for DOS, directed and designed
   by Damon Slye.
@@ -18,18 +18,18 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Pacific
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Aces of the Pacific is a World War II combat flight simulator developed by Dynamix and published by Sierra On-Line in 1992[^ref-1]. It belongs to Dynamix's Great War Planes series, which Computer Gaming World called a series of which this was the "latest entry"[^ref-30]; Sierra's own advertising billed the line as "Damon Slye's Great War Planes"[^ref-31]. Directed and designed by Damon Slye[^ref-5], the game transports players to the Pacific Theater of World War II, where they can experience aerial combat from December 7, 1941, through the end of the war[^ref-1][^ref-2]. The game allows players to fly for either the Allied or Japanese forces, featuring over 25 meticulously researched vintage aircraft including the A6M Zero, F4U Corsair, F6F Hellcat, and P-47 Thunderbolt[^ref-2].
 
-Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroyoshi Nishizawa, and Richard Bong, billed in Sierra's promotional text as "America's highest-ranking ace"[^ref-2][^ref-12]. The game was a commercial hit, selling 350,000 units according to Retro Gamer[^ref-12], and its success led Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-3].
+Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroyoshi Nishizawa, and Richard Bong, billed in Sierra's promotional text as "America's highest-ranking ace"[^ref-2][^ref-12]. The game was a commercial hit, selling 350,000 units according to Retro Gamer[^ref-12], and its success led Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-12].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-12][^ref-23]
 > **Designer:** [[Damon Slye]][^ref-5]
-> **Publisher:** [[Sierra On-Line]] (Dynamix label)[^ref-12][^ref-6][^ref-29]
+> **Publisher:** [[Sierra On-Line]] (Dynamix label)[^ref-12][^ref-23][^ref-29]
 > **Engine:** 3-Space[^ref-23]
 > **Platforms:** DOS[^ref-7][^ref-12]
 > **Release Year:** 1992
@@ -74,7 +74,7 @@ Aces of the Pacific was well received after early performance complaints. Dragon
 | Dragon | 5/5 stars | December 1992[^ref-9] |
 | Zero | 93/100 | Contemporary review[^ref-12] |
 | Computer Gaming World | 4/5 | September 1993 by M. Evan Brooks[^ref-12] |
-| GameFAQs User Average | Great (16 ratings) | User community rating[^ref-1] |
+| GameFAQs User Average | Good (17 ratings) | User community rating, checked 2026-11-12[^ref-1] |
 | MobyGames | 7.9/10 | Moby Score[^ref-13] |
 
 ### Modern Assessment
@@ -107,27 +107,25 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 |---------|------|-------|
 | 1.0 | 1992 | Initial release on floppy disk[^ref-15] |
 | 1.01 | – | 3.5" floppy, US slipcover box release[^ref-32] |
-| 1.2 | 1992 | 3.5" disk release, dated September 10, 1992 (US)[^ref-29]; improved performance, AI, sound and aircraft realism[^ref-12] |
+| 1.2 | 1992 | 3.5" disk release, dated September 10, 1992 (US)[^ref-29]; improved performance, AI, sound and aircraft realism[^ref-12]; listed as "Aces of the Pacific version 1.2" in InterAction, Winter 1992, p. 69[^ref-35] |
 | CD-ROM | 1994 | CD-ROM release; includes the WWII: 1946 expansion[^ref-29][^ref-26] |
 | [[1992 - Aces of the Pacific - WWII 1946\|WWII: 1946]] | 1992 | Expansion with alternate history scenarios[^ref-22] |
 
-The Sierra Chest archives the game's details[^ref-23], its trailers[^ref-24] and memorabilia such as a poster[^ref-25].
+The Sierra Chest archives the game's details[^ref-23], its trailers[^ref-24] and memorabilia such as a poster[^ref-25]. InterAction's Summer 1992 issue carried a strategy article for the game on pp. 70-73[^ref-35].
 
 ## Legacy
 
-The game's success caused Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-3].
-
-Players' memories on its GOG Dreamlist page recall reenacting historical battles and the mission to shoot down Yamamoto[^ref-3]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19]. Sierra Help offers a DOSBox installer that works with both the CD and floppy versions[^ref-26].
+Players' memories on its GOG Dreamlist page recall reenacting historical battles and the mission to shoot down Yamamoto[^ref-3]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. A GOG forum user reported that the game can lose mouse input under DOSBox, the same bug seen in Red Baron[^ref-19]. Sierra Help offers a DOSBox installer that works with both the CD and floppy versions[^ref-26]. On 2008-03-06 the game was released as a GameTap download in the US and Canada, published by Sierra Entertainment[^ref-29].
 
 ### Collections
 
-The game was also included in the compilations "Aces: The Complete Collector's Edition" (1995) and "Aces: Collection Series" (1997)[^ref-33][^ref-34].
+The game was also included in the compilations "Aces: The Complete Collector's Edition" (1995) and "Aces: Collection Series" (1997)[^ref-33][^ref-34]. The 1995 edition holds four Dynamix flight simulations: A-10 Tank Killer, Aces of the Pacific, Aces Over Europe and Red Baron[^ref-36][^ref-26]. The 1997 Collection Series holds A-10 Tank Killer v1.5, Aces of the Pacific, Aces Over Europe, Red Baron, Silent Thunder: A-10 Tank Killer II and Command: Aces of the Deep; Sierra Help's DOSBox installer for it does not install Command: Aces of the Deep[^ref-26]. See the [[Collections Guide]] for other Sierra compilations.
 
 ## Downloads
 
 **Purchase / Digital Stores**
 
-- Not currently sold on Steam or GOG as of 2026-11-11; GOG hosts only a Dreamlist wish entry[^ref-3]
+- Not currently sold on Steam or GOG as of 2026-11-12; GOG hosts only a Dreamlist wish entry[^ref-3]
 
 **Download / Preservation**
 
@@ -153,7 +151,6 @@ The game was also included in the compilations "Aces: The Complete Collector's E
 [^ref-2]: [Internet Archive - Aces of the Pacific Demo](https://archive.org/details/AcesOfThePacificDemo) – Game description and timeline
 [^ref-3]: [GOG Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – Sequel information
 [^ref-5]: [MobyGames - Aces of the Pacific Credits (DOS)](https://www.mobygames.com/game/1419/aces-of-the-pacific/credits/dos/) – Director/Lead Designer Damon Slye, Original Music Score Jan Paul Moorhead, 3 Space Modules David McClurg
-[^ref-6]: [Computing History - Aces of the Pacific](https://www.computinghistory.org.uk/det/30713/Aces-Of-The-Pacific/) – Publisher information
 [^ref-7]: [MobyGames - Aces of the Pacific Specs](https://www.mobygames.com/game/1419/aces-of-the-pacific/specs/) – Platform compatibility
 [^ref-8]: [AbandonwareDOS - Aces of the Pacific "Quick Dox" key reference (third-party text, not the original manual)](https://www.abandonwaredos.com/docawd.php?sf=acespacificmanual.txt&st=manual&sg=Aces+of+the+Pacific&idg=1739) – Control specifications
 [^ref-9]: [Gamicus Wiki - Aces of the Pacific](https://gamicus.fandom.com/wiki/Aces_of_the_Pacific) – Expansion pack details
@@ -164,7 +161,7 @@ The game was also included in the compilations "Aces: The Complete Collector's E
 [^ref-16]: [Metacritic - WWII 1946 Expansion](https://www.metacritic.com/game/aces-of-the-pacific-expansion-disk-wwii-1946/) – Version 1.2 features
 [^ref-17]: [Sierra Help - Manuals](http://sierrahelp.com/Documents/Manuals.html) – Technical documentation availability
 [^ref-18]: [Internet Archive - Community Files](https://archive.org/details/wargamer-depot_aces-of-the-pacific) – Community content preservation
-[^ref-19]: [GOG Forum - Red Baron Input Issues](https://www.gog.com/forum/red_baron_pack/rb1_no_input) – DOSBox compatibility challenges
+[^ref-19]: [GOG Forum - RB1 - No input?](https://www.gog.com/forum/red_baron_pack/rb1_no_input) – A user in the Red Baron thread reports Aces of the Pacific and Aces Over Europe have the same DOSBox mouse-input bug
 [^ref-22]: [Internet Archive - WWII 1946](https://archive.org/details/001054-AcesOfThePacificWwii1946) – Expansion preservation
 [^ref-23]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=general) – Archive metadata
 [^ref-24]: [Sierra Chest - Trailers](https://www.sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=trailers) – Promotional materials
@@ -176,3 +173,5 @@ The game was also included in the compilations "Aces: The Complete Collector's E
 [^ref-32]: [Sierra Chest - Packaging & content](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=box) – versions 1.0 (5.25"), 1.01 (3.5") and 1.2 (3.5")
 [^ref-33]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=general) – "Aces: The Complete Collector's Edition" and "Aces Collection Series" compilations
 [^ref-34]: [Dynamix Wiki - Aces (series)](https://dynamix.fandom.com/wiki/Aces_(series)) – Compilations: 1995 Collector's Edition, 1997 Collection Series
+[^ref-35]: [Sierra Chest - Publications](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=publications) – InterAction Summer 1992 pp. 28 (ad) and 70-73 (strategy); Winter 1992 p. 69 "Aces of the Pacific version 1.2"
+[^ref-36]: [MobyGames - Aces: The Complete Collector's Edition](https://www.mobygames.com/game/3802/aces-the-complete-collectors-edition/) – 1995; A-10 Tank Killer, Aces of the Pacific, Aces Over Europe, Red Baron
