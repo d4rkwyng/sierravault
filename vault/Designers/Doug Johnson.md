@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Baseball Pro '96 Season", "Front Page Sports: Baseball Pro '98", "Curse You! Red Baron"]
 companies: ["Dynamix"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Doug Johnson
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ On [[1998 - Red Baron 3D|Red Baron 3-D]] (1998) he shares the multiplayer design
 | 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Additional Design[^ref-26] |
 | 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Lead Design; Online and Printed Manual; also named among the prior contributors the game "would not have been possible without"[^ref-27] |
 | 1998 | [[1998 - Red Baron 3D\|Red Baron 3-D]] | Multiplayer Design; Manual; Historical Manual Editing[^ref-28] |
-| 1999 | [[1999 - Curse You! Red Baron\|Curse You! Red Baron]] | Design; Online Manual Text and Layout[^ref-29] |
+| 1999 | [[1999 - Curse You! Red Baron\|Curse You! Red Baron]] | Design; Online Manual Text and Layout; also listed among those whose Red Baron II / Red Baron 3D work the game "relies heavily upon"[^ref-29] |
 
 ## References
 
