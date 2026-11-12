@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space 2.0
 protagonist: WWI Fighter Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Red Baron 3D is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in 1998, essentially a heavily patched version of
   Red Baron II.
@@ -18,7 +18,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron 3D
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -49,7 +49,7 @@ Red Baron 3D was designed to accommodate players of varying skill levels, with t
 
 ### Structure and Progression
 
-The game offers an instant-action mode, scripted single missions and a dynamic campaign[^ref-16]. The original peer-to-peer multiplayer was replaced with a server-based mode: GameSpot and Computer Gaming World both describe battles of up to 100 players, played over Sierra's free WON.NET service or on user-run servers[^ref-16][^ref-26], though Dynamix's retail announcement and the box copy advertised up to 64 online players[^ref-30][^ref-12]. Players can choose from 22 flyable World War I aircraft, with an additional 18 types flown by AI pilots[^ref-16]. The manual walks new pilots through seven tutorials[^ref-10].
+The game offers an instant-action mode, scripted single missions and a dynamic campaign[^ref-16]. The original peer-to-peer multiplayer was replaced with a server-based mode: GameSpot describes battles of up to 100 players, played over Sierra's free WON.NET service or on user-run servers[^ref-16], and Computer Gaming World lists 2-100 players[^ref-26], though Dynamix's retail announcement and the box copy advertised up to 64 online players[^ref-30][^ref-12]. Players can choose from 22 flyable World War I aircraft, with an additional 18 types flown by AI pilots[^ref-16]. The manual walks new pilots through seven tutorials[^ref-10].
 
 ### Puzzles and Mechanics
 
@@ -64,13 +64,13 @@ Red Baron 3D received more favorable reviews than Red Baron II[^ref-5].
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 9/10 | Called it "a worthy successor to the original"[^ref-16] |
-| Computer Gaming World | 4.5/5 | Robin G. Kim: "the game RED BARON II should have been" when first released[^ref-26][^ref-5] |
+| Computer Gaming World | 4.5/5 | Robin G. Kim: "It could be argued that we've merely ended up with the game RED BARON II should have been when first released"[^ref-26][^ref-5] |
 | Next Generation | 4/5 | "All you need is a leather helmet, a pair of goggles, and a white silk scarf"[^ref-27][^ref-5] |
 | AllGame | 4.5/5 | Praised the use of player feedback[^ref-20][^ref-5] |
 | PC PowerPlay | 87% | Issue 34, March 1999[^ref-5] |
 | GameStar | 78% | January 1999[^ref-5] |
 | Jeuxvideo.com | 15/20 | Regretted the lack of Direct3D support[^ref-15][^ref-5] |
-| The Adrenaline Vault | 3.5/5 | Craig Miller, October 27, 1998[^ref-1] |
+| The Adrenaline Vault | 3.5/5 | Craig Miller, October 27, 1998[^ref-1][^ref-35] |
 | Orlando Sentinel / Cincinnati Enquirer | 3.5/4 | D. Ian Hopper, "Dynamix makes good": "Red Baron 3D is a joy to play, and no other game comes close to immersing a player in the World War I air war"[^ref-34] |
 
 ### Modern Assessment
@@ -85,7 +85,7 @@ Red Baron 3D emerged from the problematic launch of Red Baron II in December 199
 
 ### Production
 
-Red Baron 3D's credits list Mike Jones as executive director, Tucker Hatfield as director and Graeme Bayless as producer, with multiplayer design by Doug Johnson, Brian Apgar and Eric Lanz[^ref-1]. MobyGames credits 54 people in all[^ref-2]. Red Baron II's music is credited to Charles (Chuck) Barth; Red Baron 3D's own credits on the Dynamix wiki name no composer, and a Gaming Stack Exchange answer found no evidence the score was changed for the 3D release[^ref-6].
+Red Baron 3D's credits list Mike Jones as executive director, Tucker Hatfield as director and Graeme Bayless as producer, with Scott Bandy as assistant producer, Brian Apgar as lead software engineer, and multiplayer design by Doug Johnson, Brian Apgar and Eric Lanz[^ref-1]. MobyGames credits 54 people in all[^ref-2]. Red Baron II's music is credited to Charles (Chuck) Barth; Red Baron 3D's own credits on the Dynamix wiki name no composer, and a Gaming Stack Exchange answer found no evidence the score was changed for the 3D release[^ref-6].
 
 AllGame's Michael L. House wrote, "Red Baron 3-D is a direct result of what can be accomplished when the developing company asks for and receives user feedback in a genuine effort to improve the product"[^ref-20]. In August 1998 Sierra released the patch for Red Baron II that added 3D acceleration, improved the flight model, added a multiplayer mode and tweaked the computer-controlled pilots' AI[^ref-21]. Owners of Red Baron II could download the upgrade, or buy the retail Red Baron 3D and claim a full refund by mail; the rebate offer has since ended[^ref-16]. For Red Baron II, GameRevolution reported that Dynamix designers "consulted not only the plane's spec sheets, but also pilot testimony and the visual evidence of WWI flight films"[^ref-11].
 
@@ -107,7 +107,7 @@ The patch added trees and shrubs, layered cloud effects, smoke, fog and other vi
 
 ## Legacy
 
-Red Baron 3D continued a series that began with the 1990 Red Baron, which Computer Gaming World named its 1991 Simulation of the Year, inducted into its Hall of Fame in 1993 and ranked #4 on its 1996 list of the best games of all time[^ref-32][^ref-24]. Red Baron 3D was nominated for "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards, which went to European Air War[^ref-5][^ref-1]. Red Baron 3D and the 1990 original are still sold together as the Red Baron Pack on Steam and GOG[^ref-28][^ref-29]. Steam lists Mad Otter Games as the pack's developer and publisher, GOG lists its company as "Dynamix / Mad Otter Games", and GOG's notice states that Red Baron, Red Baron II and Red Baron 3D are registered trademarks of Mad Otter Games, Inc.[^ref-28][^ref-29]
+Red Baron 3D continued a series that began with the 1990 Red Baron, which Computer Gaming World named its 1991 Simulation of the Year[^ref-38], inducted into its Hall of Fame in 1993[^ref-39] and ranked #4 on its 1996 list of the best games of all time[^ref-37]; the same honours are summarised on Wikipedia and TV Tropes[^ref-32][^ref-24]. Red Baron 3D was nominated for "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards[^ref-36][^ref-5][^ref-1]; European Air War won the award[^ref-5][^ref-1]. Red Baron 3D and the 1990 original are still sold together as the Red Baron Pack on Steam and GOG[^ref-28][^ref-29]. Steam lists Mad Otter Games as the pack's developer and publisher, GOG lists its company as "Dynamix / Mad Otter Games", and GOG's notice states that Red Baron, Red Baron II and Red Baron 3D are registered trademarks of Mad Otter Games, Inc.[^ref-28][^ref-29]
 
 ### Community and Modding
 
@@ -168,3 +168,8 @@ The game's manual pairs gameplay instructions with a historical section[^ref-28]
 [^ref-32]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – CGW 1991 Simulation of the Year (CGW #88, November 1991), CGW Hall of Fame 1993, #4 on CGW's 1996 best-of-all-time list
 [^ref-33]: [Sierra Chest - 3-Space engine (Web Archive, 2019)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Engine list: "3-Space 2.0 - Red Baron II - Red Baron 3D"
 [^ref-34]: [Orlando Sentinel Online via The Cincinnati Enquirer - D. Ian Hopper, "Dynamix makes good" (Web Archive)](https://web.archive.org/web/20010428145351/http://www.cincinnati.com/freetime/games/reviews/hopper/redbaron.html) – Red Baron 3D review, 3.5 stars out of 4
+[^ref-35]: [The Adrenaline Vault - Red Baron 3D review, Craig Miller (Web Archive)](https://web.archive.org/web/20050405095215/http://avault.com/reviews/review_temp.asp?game=rb3d&page=1) – Review dated October 27, 1998
+[^ref-36]: [GameSpot's Best and Worst of 1998 - Simulation of the Year nominees (Web Archive)](https://web.archive.org/web/20001003072542/http://www.gamespot.com/features/awards1998/genre6.html) – Lists Red Baron 3D among the nominees; does not name the winner
+[^ref-37]: [Computer Gaming World #148 (November 1996), "The Top 150 Games"](https://archive.org/details/Computer_Gaming_World_Issue_148) – Entry "4. Red Baron, Sierra, 1990"
+[^ref-38]: [Computer Gaming World #88 (November 1991), Game of the Year awards](https://archive.org/details/Computer_Gaming_World_Issue_88) – Red Baron from Sierra/Dynamix (Damon Slye) named Simulation of the Year
+[^ref-39]: [Computer Gaming World #106 (May 1993), Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_106) – Red Baron (Dynamix, 1990) welcomed into the CGW Hall of Fame
