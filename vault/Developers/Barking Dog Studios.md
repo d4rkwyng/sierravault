@@ -6,12 +6,12 @@ defunct: 2002
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Cataclysm", "Counter-Strike Beta 5", "Global Operations"]
 parent_company: "Independent (later Take-Two Interactive)"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # Barking Dog Studios
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Sierra announced Cataclysm in February 2000,[^ref-11] and it was released that S
 
 ### Counter-Strike Contribution
 
-Around 1999, Valve became interested in [[2000 - Counter-Strike|Counter-Strike]], a Half-Life mod co-created by Barking Dog employee Minh Le.[^ref-13] As Valve became more involved in the project, they hired Barking Dog to develop the mod's "Beta 5" update.[^ref-3] The studio developed approximately 90% of that update, which was released in December 1999.[^ref-3][^ref-14] Le subsequently joined Valve to continue Counter-Strike's development, with the finished game releasing in November 2000.[^ref-13]
+Around 1999, Valve became interested in [[2000 - Counter-Strike|Counter-Strike]], a Half-Life mod co-created by Barking Dog employee Minh Le.[^ref-13] As Valve became more involved in the project, they hired Barking Dog to develop the mod's "Beta 5" update.[^ref-3] Valve credited Barking Dog with having "practically made BETA 5", reportedly about 90% of that update, which was released in December 1999.[^ref-3][^ref-14] Le subsequently joined Valve to continue Counter-Strike's development, with the finished game releasing in November 2000.[^ref-13]
 
 ### Later Years and Closure
 
@@ -67,7 +67,7 @@ Standalone expansion to Homeworld, published by Sierra and set fifteen years aft
 
 ### Counter-Strike Beta 5 (1999)
 
-Barking Dog developed roughly 90% of the Beta 5 update to Valve's Half-Life mod, released in December 1999.[^ref-3][^ref-14] See [[2000 - Counter-Strike|Counter-Strike]].
+Barking Dog reportedly developed about 90% of the Beta 5 update to Valve's Half-Life mod, released in December 1999.[^ref-3][^ref-14] See [[2000 - Counter-Strike|Counter-Strike]].
 
 ### Global Operations (2002)
 
