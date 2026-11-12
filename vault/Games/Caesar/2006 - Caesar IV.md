@@ -11,7 +11,7 @@ series: Caesar
 engine: Titan Engine
 protagonist: Roman Provincial Governor (player)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Caesar IV is a city-building simulation game developed by Tilted Mill
   Entertainment and published by Sierra Entertainment, released in September 2006
   after an eight-year gap since Caesar III.
@@ -19,7 +19,7 @@ tags: [2000s, caesar, sierra]
 ---
 # Caesar IV
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -96,19 +96,19 @@ PC Zone scored the game 73/100[^ref-2], and bit-tech.net praised it as "far bett
 
 ### Modern Assessment
 
-Caesar IV has maintained a dedicated following in the years since release, with modern players on digital platforms generally viewing it favorably. On Steam, the game holds a 71% positive rating from 822 user reviews[^ref-28]. GOG.com user reviews describe it as having "aged exceptionally well" and "the best of it's genre that I've played," with one reviewer noting "Caesar IV solves the main problem of Caesar III (stupid walker mechanics) and lets you be much more creative"[^ref-29].
+Caesar IV has maintained a dedicated following in the years since release, with modern players on digital platforms generally viewing it favorably. On Steam, the game holds a 71% positive rating from 823 user reviews (checked November 11, 2026)[^ref-28]. GOG.com user reviews describe it as having "aged exceptionally well" and "the best of it's genre that I've played," with one reviewer noting "Caesar IV solves the main problem of Caesar III (stupid walker mechanics) and lets you be much more creative"[^ref-29].
 
 However, some retrospective criticism has been more severe. One MobyGames reviewer lamented "Why did they have to kill off this wonderful series, by Jupiter?" calling it "a superficial illusion of a city-building game" that "looks more like a clone of Caesar III than a sequel"[^ref-4].
 
 **Aggregate Scores:**
 - **Metacritic:** 74/100 (32 critic reviews, 56% positive, 44% mixed, 0% negative)[^ref-9]
 - **MobyGames:** 78% (48 critic ratings)[^ref-4]
-- **Steam User Reviews:** 71% positive (822 reviews)[^ref-28]
-- **GOG.com User Rating:** 4/5 (210 ratings)[^ref-29]
+- **Steam User Reviews:** 71% positive (823 reviews, checked November 11, 2026)[^ref-28]
+- **GOG.com User Rating:** 4/5 (213 ratings, checked November 11, 2026)[^ref-29]
 - **IMDB:** 6.8/10 (67 ratings)[^ref-30]
 - **VGChartz Community:** 7.2/10[^ref-31]
 - **Glitchwave:** 2.93/5 (12 reviews)[^ref-32]
-- **Neoseeker User Reviews:** 76/100[^ref-22]
+- **Neoseeker User Score:** 76/100 (based on 1 user review, checked November 11, 2026)[^ref-22]
 
 ## Development
 
@@ -130,8 +130,15 @@ One key design decision was the elimination of the "walker" mechanic that had fr
 
 Budget estimates for games of this type ran up to $10 million with approximately two-year development cycles[^ref-39]. The game was released on September 26, 2006 in North America, September 28 in Australia, and October 20 in Europe[^ref-2].
 
-**Development Credits:**[^ref-4]
+**Development Credits:**[^ref-59]
 - **Lead Designer:** Chris Beatrice
+- **Producer:** Mat Williams
+- **Associate Producer:** David Beebe
+- **Lead Programmer:** Mike Gingerich
+- **Programmers:** Jim Solomon, Eli Pulsifer, Tony Hosier, Victor Rachels, Dean Lawson, Kevin Bray, Chris Harvey, Daniel Higgins
+- **Lead 3D Artist:** Mike Malone
+- **Lead UI Artist:** Adam Carriuolo
+- **Artists:** Dennis Rose, Kwan Sukasame, Louis Tammaro, Ed Brillant, Travis Williams
 - **Senior Designer:** Tony Leier
 - **Designers:** Matt Zimmitti, Blair Evans, Lenny Eusebi, Jeffrey Fiske
 - **Composer / Sound Designer:** Keith Zizza (credited as Audio Director in his own portfolio[^ref-40])
@@ -231,7 +238,7 @@ According to Beatrice, the games' core audience was men in their late 30s and ea
 
 ### Collections
 
-Caesar IV was re-released on major digital platforms a decade after its original launch. GOG.com began selling a DRM-free version on May 27, 2016, priced at $9.99 with regular sales discounting it to $5.99[^ref-44]. Steam added the game on August 29, 2016[^ref-55], among the first batch of Sierra classics released there[^ref-38], where it holds 71% positive reviews from 822 users[^ref-28].
+Caesar IV was re-released on major digital platforms a decade after its original launch. GOG.com began selling a DRM-free version on May 27, 2016, priced at $9.99 with regular sales discounting it to $5.99[^ref-44]. Steam added the game on August 29, 2016[^ref-55], among the first batch of Sierra classics released there[^ref-38], where it holds 71% positive reviews from 823 users (checked November 11, 2026)[^ref-28].
 
 ### Fan Projects
 
@@ -269,6 +276,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 
 - [[1992 - Caesar]]
 - [[1995 - Caesar II]]
+- [[City Builders Series]]
 
 ## References
 
@@ -320,3 +328,4 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-56]: [Kotaku – Activision Blizzard Merger Finalized (archived 2018)](https://web.archive.org/web/20180720195139/https://kotaku.com/5023808/activision-blizzard-merger-finalized) – merger with "Sierra parent Vivendi" official, July 10, 2008
 [^ref-57]: [Tilted Mill Entertainment – About (Wayback snapshot, October 2005)](http://web.archive.org/web/20051028114651/http://www.tiltedmill.com:80/about/) – "Tilted Mill was established in 2002 by veteran game developers"
 [^ref-58]: [CNN/Money – "Vivendi cuts 40 percent of U.S. gaming workforce" (June 21, 2004; Wayback snapshot December 2004)](https://web.archive.org/web/20041204223605/http://money.cnn.com/2004/06/21/technology/vugames/index.htm) – Papyrus and Impressions Games "were closed last month"; "the May shutdown"
+[^ref-59]: [MobyGames – Caesar IV Credits](https://www.mobygames.com/game/24324/caesar-iv/credits/) – Tilted Mill credits: producer, programmers, artists, designers, audio (checked November 11, 2026)
