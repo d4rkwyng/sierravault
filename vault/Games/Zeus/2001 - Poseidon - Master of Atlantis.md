@@ -10,7 +10,7 @@ series: City Building Series
 engine: 'Zeus: Master of Olympus engine (requires base game)'
 protagonist: Player as ruler of Atlantis
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Henry Beckett]
 description: 'Poseidon: Master of Atlantis is the official expansion pack for Zeus:
   Master of Olympus, developed by Impressions Games and published by Sierra. It adds the Atlantis civilization, with new gods, heroes and
@@ -19,7 +19,7 @@ tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,14 +32,14 @@ Poseidon received "generally favorable" reviews according to Metacritic, where i
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** Tony Leier[^ref-1]
-> **Publisher:** Sierra On-Line[^ref-16][^ref-6]
-> **ESRB Rating:** Everyone[^ref-22]
+> **Publisher:** Sierra On-Line[^ref-16][^ref-1]
+> **ESRB Rating:** Everyone[^ref-1]
 > **Engine:** Zeus: Master of Olympus engine (requires the base game)[^ref-10]
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 2001[^ref-16]
 > **Series:** City Building Series
 > **Protagonist:** Player as ruler of Atlantis[^ref-26]
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
@@ -92,10 +92,10 @@ The game also includes an Adventure Editor that lets players design their own my
 | Metacritic | 84/100[^ref-33] |
 | GameSpot | 8.5/10[^ref-24] |
 | IGN | 8.5/10[^ref-27] |
-| GameSpy | 85%[^ref-9] |
+| GameSpy | 85% (per Wikipedia)[^ref-9] |
 | GameVortex | 85%[^ref-11] |
-| Game Informer | 8/10[^ref-9] |
-| 4Players | 80%[^ref-9] |
+| Game Informer | 8/10 (per Wikipedia)[^ref-9] |
+| 4Players | 80% (per Wikipedia)[^ref-9][^ref-35] |
 | Computer Games Magazine | 4/5[^ref-9] |
 | Computer Gaming World | 3/5[^ref-32] |
 
@@ -109,14 +109,14 @@ The base game had been reviewed separately; see [[2000 - Zeus - Master of Olympu
 
 ### Modern Assessment
 
-The Zeus + Poseidon bundle holds a 4.7/5 user rating from 319 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,931 user reviews) on Steam[^ref-28], as of November 2026.
+The Zeus + Poseidon bundle holds a 4.7/5 user rating from 322 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,937 user reviews) on Steam[^ref-28], as of November 2026.
 
 **Aggregate Scores:**
 - **Metacritic:** 84/100[^ref-33]
-- **MobyGames (Poseidon):** 80% critic average[^ref-1]
+- **MobyGames (Poseidon):** 79% critic average from 13 critics, as of November 2026[^ref-1]
 - **MobyGames (Acropolis compilation):** 81%[^ref-13]
 - **GOG.com (Zeus + Poseidon):** 4.7/5[^ref-7]
-- **Glitchwave:** 3.48/5.0[^ref-14]
+- **Glitchwave:** 3.36/5.0 from 7 ratings, as of November 2026[^ref-14]
 - **Amazon Customer Reviews:** 4.0/5[^ref-2]
 
 ## Development
@@ -127,7 +127,7 @@ Poseidon was developed as the official expansion to Zeus: Master of Olympus, an 
 
 ### Production
 
-Impressions Games developed the expansion. MobyGames credits Tony Leier as designer, Ken Parker as producer, [[Chris Beatrice]] as director of design and development, Keith Zizza as audio director, Henry Beckett for music and Lisa Gagnon as writer[^ref-1].
+Impressions Games developed the expansion. MobyGames credits Tony Leier as designer, Ken Parker as producer, [[Chris Beatrice]] as director of design and development, Keith Zizza as audio director, Henry Beckett for music and Lisa Gagnon as writer[^ref-1]. It also lists Jim Solomon for programming, Mike Gingerich as director of technology, Darrin Horbal as art director and Andrea Muzeroll as lead artist[^ref-34].
 
 **Development Credits:**[^ref-1]
 - **Designer:** Tony Leier
@@ -136,6 +136,10 @@ Impressions Games developed the expansion. MobyGames credits Tony Leier as desig
 - **Audio Director:** Keith Zizza
 - **Music:** Henry Beckett
 - **Writer:** Lisa Gagnon
+- **Programming:** Jim Solomon[^ref-34]
+- **Director of Technology:** Mike Gingerich[^ref-34]
+- **Art Director:** Darrin Horbal[^ref-34]
+- **Lead Artist:** Andrea Muzeroll[^ref-34]
 
 ### Technical Achievements
 
@@ -249,6 +253,7 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 ## See Also
 
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
+- **Series:** [[City Builders Series]]
 
 - **Compilation:** Acropolis
 
@@ -257,7 +262,6 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 [^ref-1]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – developer, publisher, designer, credits, critic average, compilations
 [^ref-2]: [Amazon – Zeus Expansion Poseidon](https://www.amazon.com/Zeus-Expansion-Poseidon-PC/dp/B00005B44T) – product description, episode count, Adventure Editor feature, customer rating
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/154464147118) – Caesar series roots, geographical scope
-[^ref-6]: [eBay Product Listing](https://www.ebay.com/p/50800073) – publisher confirmation, geographical scope
 [^ref-7]: [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) – user rating, system requirements, goodies
 [^ref-8]: [Tripod Walkthrough – Birth of Atlantis](https://web.archive.org/web/20190820120550/http://kheitmann-1.tripod.com/zeus/walkthru/poracle-walkthrough-print-birthofatlantis.htm) – episode list and goals, resource availability, mythological figures
 [^ref-9]: [Wikipedia – Zeus: Master of Olympus (Expansion section)](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus#Expansion) – Poseidon review scores, Metacritic, Plato basis, adventure editor, release dates, series
@@ -268,7 +272,6 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 [^ref-16]: [MobyGames – Release Information](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/releases/) – release dates by region, retail price
 [^ref-19]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – alternate international titles
 [^ref-20]: [GOGDB – Zeus + Poseidon](https://www.gogdb.org/product/1207659039) – GOG release date
-[^ref-22]: [eBay Product Listing](https://www.ebay.com/itm/154867746470) – developer, publisher, ESRB rating
 [^ref-24]: [GameSpot – Zeus Official Expansion: Poseidon Review (Ron Dulin, July 3, 2001)](https://web.archive.org/web/20010707163829/http://gamespot.com/gamespot/stories/reviews/0,10867,2782573,00.html) – 8.5 score, version 2.0, requirements, new features, combat
 [^ref-25]: [Computer Games Magazine – Poseidon (Dave Markell, July 25, 2001)](https://web.archive.org/web/20011121082023/http://www.cgonline.com/reviews/zeusmaster-01a-r1.html) – 45 scenarios in six campaigns, sandbox adventures, pyramids
 [^ref-26]: [GameSpy – Poseidon Review (William Harms, July 2001)](https://web.archive.org/web/20060107022908/http://archive.gamespy.com/reviews/july01/poseidon/) – 45 episodes, ruler of Atlantis, switch of sides, reduced military role
@@ -279,3 +282,5 @@ Critics treated Poseidon as an evolutionary expansion rather than a reinvention.
 [^ref-31]: [MobyGames – Trivia](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/trivia/) – Swedish localization
 [^ref-32]: [Computer Gaming World #208 (November 2001), Tom Price, p. 108 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_208) – 3/5 stars, quoted lines on new content and the adventure editor
 [^ref-33]: [Metacritic – Poseidon (Wayback Machine, December 16, 2023)](https://web.archive.org/web/20231216235657/https://www.metacritic.com/game/poseidon/) – Metascore 84, Generally Favorable, 8 critic reviews
+[^ref-34]: [MobyGames – Credits](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/credits/) – programming, technology, art director and lead artist credits
+[^ref-35]: [4Players – Poseidon review (David, October 4, 2001; Wayback Machine, February 17, 2008)](https://web.archive.org/web/20080217012206/http://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/1401/731/2/Poseidon.html) – German review listing 45 new missions and a dated graphics engine
