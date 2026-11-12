@@ -7,16 +7,16 @@ publisher: Sierra On-Line
 genre: Puzzle
 platforms: [DOS, Mac (disputed), 3DO, FM Towns, PC-98]
 series: The Incredible Machine
-engine: Custom physics engine
+engine: Integer-based physics engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Incredible Machine is a physics-based puzzle game in which players build Rube Goldberg-style contraptions from a supplied set of parts to complete simple tasks.
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Computer Gaming World's April 1993 review said that in the game "the curious, ti
 > **Developer:** [[Jeff Tunnell Productions]], a [[Dynamix]] spin-off division[^ref-13][^ref-49]; Wikipedia's infobox also names only Jeff Tunnell Productions, and lists Dynamix only as the 3DO publisher[^ref-1]
 > **Designer:** [[Kevin Ryan]], [[Jeff Tunnell]][^ref-32]
 > **Publisher:** [[Sierra On-Line]]; [[Dynamix]] (3DO)[^ref-1]
-> **Engine:** Custom physics engine[^ref-17]
+> **Engine:** Integer-based physics engine[^ref-39]
 > **Platforms:** DOS, 3DO, FM Towns, PC-98; Mac disputed (see Platform Ports)[^ref-13][^ref-8]
 > **Release Year:** 1992[^ref-13]
 > **Series:** The Incredible Machine
@@ -67,7 +67,7 @@ An Internet Archive listing uploaded in 2012, whose only game file is a Windows 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World (April 1993) | Positive | "one of the most innovative and deceptively addicting products to pass this way in quite a while"; faulted the lack of an "undo" function, projectiles that can't be aimed and long level passwords[^ref-47][^ref-1] |
-| Dragon (#193, May 1993) | 4/5 stars | [^ref-1] |
+| Dragon (#193, May 1993) | 4/5 stars | Reviewed in the "The Role of Computers" column by Hartley, Patricia and Kirk Lesser, pp. 57–63[^ref-1] |
 | Electronic Gaming Monthly (June 1994) | 7.25/10 | 3DO version; controls slowed by the lack of mouse support, but better than the PC version thanks to improved graphics and sound[^ref-1] |
 | MobyGames Critics | 81% | Average of 13 critic ratings[^ref-8] |
 
@@ -92,7 +92,7 @@ Kevin Ryan programmed The Incredible Machine in nine months on a $36,000 budget 
 ### Technical Achievements
 PCGamingWiki lists the DOS minimum requirements as DOS 3.10, an Intel 386SX, 640 KB of RAM and VGA graphics[^ref-30]. MobyGames gives an Intel 80286, DOS 3.0 to 3.3 and 640 KB of RAM as the minimum, on 3.5" floppy disk[^ref-46]. The game simulates not only collisions between objects but also gravity and air pressure, which players can change in Free-Form Mode[^ref-9][^ref-38].
 
-A related patent, US 5,577,185 ("Computerized puzzle gaming method and apparatus"), was filed by Dynamix in November 1994 and names Jeffrey A. Tunnell and Christopher M. Cole as inventors[^ref-41]. Wikipedia credits the patent to the follow-up *Sid & Al's Incredible Toons* rather than to this game[^ref-1].
+A related patent, US 5,577,185 ("Computerized puzzle gaming method and apparatus"), was filed by Dynamix in November 1994, granted on November 19, 1996, and names Jeffrey A. Tunnell and Christopher M. Cole as inventors[^ref-41]. Wikipedia credits the patent to the follow-up *Sid & Al's Incredible Toons* rather than to this game[^ref-1].
 
 ### Music and Sound
 Christopher Stevens is credited as Music Director on the DOS version[^ref-32]. MobyGames lists support for the PC speaker, Sound Blaster, Pro Audio Spectrum, Roland MT-32 (and LAPC-I) and Thunderboard[^ref-46]. In Freeform Mode, keys 1-9 and a-g switch between music tracks[^ref-42].
@@ -113,11 +113,11 @@ A planned Xbox Live Arcade game was announced and later cancelled[^ref-38]. Push
 
 Contraption Maker, released on Steam on July 7, 2014, is billed as "the spiritual successor to The Incredible Machine from its original designer and programmer"[^ref-37].
 
-Jeff Tunnell's own website (last updated November 7, 2026) says: "Today we are building PlayWorlds, a web based, much expanded version of TIM." It describes PlayWorlds as a "2D physics sandbox where young makers build contraptions and invent whole worlds, with an AI companion named Fidget working alongside them", and labels its preview image "a pre, pre, pre-production image of the experience"[^ref-51]. The site presents it as a project in development, not a released product.
+Jeff Tunnell's own website (last updated November 7, 2026) says: "Today we are building PlayWorlds, a web based, much expanded version of TIM." It describes PlayWorlds as a "2D physics sandbox where young makers build contraptions and invent whole worlds, with an AI companion named Fidget working alongside them", and labels its preview image "a pre, pre, pre-production image of the experience"[^ref-51]. The site presents it as a project in development, not a released product. It also says that "PushButton Labs was acquired by Disney"[^ref-51]; the 2011 iPad version is covered on [[2011 - The Incredible Machine (2011)]].
 
 ### Platform Ports
 
-- **3DO** – reviewed by EGM in June 1994, with "dramatically improved graphics and sound" over the PC version but no mouse support[^ref-1]
+- **3DO** – reviewed by EGM in June 1994, with "dramatically improved graphics and sound" over the PC version but no mouse support[^ref-1]. EGM #59 (June 1994) said the game "is a good game on the PC, and it's even better on the 3DO", and that it "Needs a mouse"[^ref-52]
 - **FM Towns** (April 1994) and **PC-98** (May 26, 1994) – Japanese releases published by Cybelle[^ref-8]
 - **Macintosh** (disputed) – Sierra Chest lists a Macintosh version, and PCGamingWiki gives a 1992 Mac OS release date but no Mac details[^ref-13][^ref-30]. MobyGames lists only DOS, FM Towns and PC-98, and a 2022 thread on its forum is titled "No Mac version"[^ref-8]. Wikipedia says Presage Software developed the Mac and Windows versions[^ref-1], but the Presage page it cites refers to *The Even More Incredible Machine*[^ref-50].
 
@@ -159,7 +159,7 @@ The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contai
 [^ref-2]: [Abandonware DOS - The Incredible Machine](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020) – "Selected for 1001 Video Games You Must Play Before You Die"
 [^ref-3]: [Internet Archive - The Incredible Machine](https://archive.org/details/TheIncredibleMachine_1020) – uploader's "better mousetrap" item description (2012); the item's only game file is incmachine3-Windows.zip (The Incredible Machine 3.0)
 [^ref-4]: [Games Nostalgia - The Incredible Machine](https://gamesnostalgia.net/game/incredible-machine) – Game mechanics description
-[^ref-8]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – Description, puzzle objectives, interface tags, developers, FM Towns/PC-98 releases (Cybelle), critics 81% (13), DOS specs; platforms DOS/PC-98/FM Towns only (read via the MobyGames API); trivia: 1001 Video Games (Tony Mott), CGW Hall of Fame Sept 2006; forum thread "No Mac version" (2022)
+[^ref-8]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – Description, puzzle objectives, interface tags, developers, FM Towns/PC-98 releases (Cybelle), critics 81% (13), DOS specs; platforms DOS/PC-98/FM Towns only; trivia: 1001 Video Games (Tony Mott), CGW Hall of Fame Sept 2006; forum thread "No Mac version" (2022)
 [^ref-9]: [Internet Archive - The Incredible Machine Manual](https://archive.org/details/the-incredible-machine-dos-manual) – Parts Bin, handles, copy protection, passwords, Free-Form Mode, gravity and air pressure
 [^ref-13]: [Sierra Chest - The Incredible Machine: Walkthrough](https://www.sierrachest.com/index.php?a=games&id=228&title=incredible-machine&fld=walkthrough) – First release 1992-11-19, developer, platforms, "a total of 87 premade puzzles", "Puzzles 1 to 21: Tutorial Puzzles"
 [^ref-17]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Founding of Jeff Tunnell Productions, Kevin Ryan's engine, December 1, 1992 release, sales against Aces of the Pacific; comments by Kevin Ryan and Alex Smith
@@ -170,7 +170,7 @@ The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contai
 [^ref-38]: [Wikipedia - The Incredible Machine (series)](https://en.wikipedia.org/wiki/The_Incredible_Machine) – Deterministic physics with no random number generator; air pressure and gravity; list of games; Mega Pack contents; cancelled XBLA game
 [^ref-39]: [Kevin Ryan - The Butterfly Effect: Deterministic Physics in The Incredible Machine and Contraption Maker (ModDB)](https://www.moddb.com/members/kevryan/blogs/the-butterfly-effect-deterministic-physics-in-the-incredible-machine-and-contraption-maker) – "I had had to do the same for The Incredible Machine because floating point just wasn't fast enough back then"
 [^ref-40]: [GamesIndustry.biz - The Incredible Machine IP acquired by PushButton Labs](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – "Eugene, OR – October 1st, 2009": PushButton Labs "acquired the rights"; co-founder Jeff Tunnell's "genre defining franchise" quote
-[^ref-41]: [Google Patents - US5577185A](https://patents.google.com/patent/US5577185A/en) – "Computerized puzzle gaming method and apparatus"; inventors Tunnell and Cole; Dynamix; filed 1994-11-10
+[^ref-41]: [Google Patents - US5577185A](https://patents.google.com/patent/US5577185A/en) – "Computerized puzzle gaming method and apparatus"; inventors Tunnell and Cole; Dynamix; filed 1994-11-10; granted 1996-11-19
 [^ref-42]: [Internet Archive - The Incredible Machine (keyboard controls)](https://archive.org/details/TheIncredibleMachine_201901) – "1-9, a-g Changes music in Freeform Mode"; X,Y flips; +,- sizes
 [^ref-43]: [AGD Interactive Forum - The Incredible Machine thread](https://www.agdinteractive.com/forum/viewtopic.php?t=12045) – Forum user recollection (2008)
 [^ref-44]: [GOG.com - The Incredible Machine Mega Pack (Wayback Machine, March 2026)](http://web.archive.org/web/20260313030618/https://www.gog.com/en/game/the_incredible_machine_mega_pack) – Archived store page; the live URL now redirects to gog.com/en/games
@@ -181,3 +181,4 @@ The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, contai
 [^ref-49]: [InterAction Magazine Vol. V No. 2 (Summer 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/page/n31/mode/1up) – Jeff Tunnell Productions as Dynamix's first spin-off; "new office only a few blocks from Dynamix's main headquarters in Eugene, Oregon"
 [^ref-50]: [Presage Software - The Even More Incredible Machine (Wayback Machine, June 1997)](https://web.archive.org/web/19970614015215/http://www.presage.com/pTEMIM.html) – "Presage developed both the Macintosh and Windows versions of The Even More Incredible Machine"
 [^ref-51]: [Jeff Tunnell - personal website](https://jefftunnell.com/) – "Last updated November 7, 2026"; "co-created The Incredible Machine with Kevin Ryan"; PlayWorlds described as "a web based, much expanded version of TIM", pre-production, with an AI companion named Fidget (read 2026-11-11)
+[^ref-52]: [Electronic Gaming Monthly Issue 59 (June 1994), Review Crew: Incredible Machine, p. 38](https://archive.org/details/Electronic_Gaming_Monthly_59) – 3DO review: "it's even better on the 3DO"; "Needs a mouse"
