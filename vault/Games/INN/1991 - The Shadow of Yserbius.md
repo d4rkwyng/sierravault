@@ -10,21 +10,22 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: The Shadow of Yserbius was an early graphical multi-user dungeon (MUD)
-  developed by Ybarra Productions that launched on The Sierra Network in 1992, with
-  an offline single-player version released by Sierra On-Line in 1993.
+  developed by Ybarra Productions that launched on The Sierra Network in 1991 or 1992
+  depending on the source, with an offline single-player version released by Sierra
+  On-Line in 1992 or 1993.
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The Shadow of Yserbius was a graphical multi-user dungeon (MUD) game for The Sierra Network. Sources differ on its release dates: Wikipedia gives 1991 for the online release and 1992 for the offline port[^ref-1], The CRPG Addict gives 1992 for the online version and 1993 for the solo offline version[^ref-2], and MobyGames lists the DOS release as 1993[^ref-6]. Sierra's Fall 1992 *InterAction* magazine introduced it as "the first game in MedievaLand", which it called "the newest area on TSN"[^ref-36]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6].
 
-The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. Rooms held up to 30 players (later 60), who could adventure together in groups of up to four[^ref-4].
+The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. Rooms held up to 30 players (later 60), who could adventure together in groups of up to four[^ref-1].
 
 A single-player, non-networked boxed version followed, though critics were far less enthusiastic about the solo experience. Computer Gaming World's Bernie Yee observed, "Playing Yserbius without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with"[^ref-37][^ref-5]. James V. Trunzo of White Wolf magazine similarly noted that "once you take away interaction with live friends and foes, Yserbius is just another hack-and-slay adventure game, lacking most of the features considered standard in other games of its ilk"[^ref-1].
 
@@ -33,15 +34,19 @@ A single-player, non-networked boxed version followed, though critics were far l
 > **Designer:** Joe Ybarra, Michael E. Moore, Karl Buiter[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-7]
 > **Engine:** Multiplayer graphical MUD engine[^ref-6]
-> **Platforms:** DOS (online via The Sierra Network / ImagiNation Network)[^ref-1]
-> **Release Year:** 1991
+> **Platforms:** DOS, The Sierra Network, ImagiNation Network[^ref-1]
+> **Release Year:** 1991 (online, per Wikipedia; The CRPG Addict gives 1992 online and 1993 offline)[^ref-1][^ref-2]
 > **Series:** Shadow of Yserbius
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The Shadow of Yserbius takes place in a fantasy world centered around the volcanic mountain Yserbius. Players "create a character and journey as a solo adventurer into the dungeons and depths of the volcano Yserbius"[^ref-9]. The goal of the game is to kill an evil elemental creature called En-li-Kil[^ref-1].
+The Shadow of Yserbius takes place on Twinion, an island whose history the manual traces back centuries to a "thriving and prosperous port city, ruled by the human Galabryan dynasty", whose kings "welcomed all races and Guilds to the island"[^ref-9]. They lured an ancient wizard, Arnakkian Slowfoot, to Twinion with the offer of a castle near the sea in exchange for the use of his magic[^ref-9]. Strange beasts then began to appear, King Leowyn Galabryan was assassinated, and his weak-minded son Theowayen became king while Arnakkian gained control of him and became the real ruler of the island[^ref-9].
+
+The manual says that the wizard, searching for immortality, tested the powers of the Elementals; on the night of a great feast at his castle, an Elemental he had tried to bind broke free and unleashed magma that buried his palace and almost destroyed the rest of Twinion[^ref-9]. The volcano Yserbius remains active, and its fury makes the waters around the island almost unnavigable[^ref-9]. The CRPG Addict's summary of the game's introductory cinematic names the creature as the Time Elemental En-Li-Kil, which Arnakkian summoned to learn its knowledge before it escaped its bonds and, with demonic help, raised the volcano beside the royal palace[^ref-2].
+
+Later, Cleowyn the Cruel, the last of the Galabryan kings, had Dwarf miners carve a palace for him in the top of the volcano; as his wealth grew, so did his paranoia and cruelty[^ref-9]. One night the palace was found empty, with the king, his court, guards, Dwarf miners and prisoners all gone[^ref-9]. Rumors of the riches gathered by Cleowyn and of Arnakkian's magic still draw the natives of Twinion into the volcano, from which few return alive[^ref-9]. Players "create a character and journey as a solo adventurer into the dungeons and depths of the volcano Yserbius"[^ref-9]. The goal of the game is to kill an evil elemental creature called En-li-Kil[^ref-1].
 
 The game's setting encompasses an expansive dungeon system that goes "deep into the earth and into the timeless beyond"[^ref-11]. Computer Gaming World's Bernie Yee described the boxed version as mostly combat, "with a few puzzles in the diet to give you some fiber with your hack and slash meal"[^ref-37].
 
@@ -55,7 +60,7 @@ However, the original interface presented challenges for newcomers. When the Med
 
 ### Character Creation
 
-Players could choose from eight playable races: Human, Orc, Elf, Troll, Dwarf, Gnome, Halfling, and Gremlin[^ref-4]. Six character professions were available: Barbarian, Knight, Ranger, Thief, Cleric, and Wizard[^ref-4]. Characters could be male or female and aligned with either Harmony or Chaos[^ref-9]. Under the offline version's rules, a character could move freely between offline and online play up to level 20; at that point the player had to choose, because a level-20 character played offline could no longer be used online[^ref-9].
+The manual states that characters could be one of eight races and six guilds, male or female, and aligned with either Harmony or Chaos[^ref-9]. The races were Human, Orc, Elf, Troll, Dwarf, Gnome, Halfling, and Gremlin, and the six guilds were Barbarian, Knight, Ranger, Thief, Cleric, and Wizard[^ref-9][^ref-1]. Under the offline version's rules, a character could move freely between offline and online play up to level 20; at that point the player had to choose, because a level-20 character played offline could no longer be used online[^ref-9].
 
 ### Structure and Progression
 
@@ -75,7 +80,7 @@ As MobyGames user reviewer Travis Owens put it: "If you had played this online, 
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| White Wolf #41 | Below Average (solo), Excellent (online) | James V. Trunzo noted that solo play lacked standard RPG features[^ref-1] |
+| White Wolf #41 (March 1994) | Below Average (solo), Excellent (online) | James V. Trunzo noted that solo play lacked standard RPG features[^ref-1] |
 | Computer Gaming World (May 1993) | Positive (online version) | Samuel Baker: "Those who possess the money would be well served to try out TSN and Yserbius"[^ref-17] |
 | Computer Gaming World (Feb 1994) | Negative (offline version) | Bernie Yee: "the boxed set is a hollow shell of its vibrant on-line self"[^ref-37][^ref-5] |
 | MobyGames | 6.4/10 | Moby Score[^ref-6] |
@@ -115,27 +120,15 @@ The dungeon view is tile-based rather than true 3D; the CRPG Addict noted that w
 
 One MobyGames user reviewer recalled paying "$13 for 30 hours" to play on TSN, "and not during primetime hours"[^ref-6].
 
-## Legacy
+### Version History
 
-### Series Expansion
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Online (TSN) | 1991 per Wikipedia[^ref-1]; 1992 per The CRPG Addict[^ref-2] | The Sierra Network | Introduced as the first game in MedievaLand; Sierra's Fall 1992 *InterAction* called MedievaLand "the newest area on TSN"[^ref-36] |
+| Boxed stand-alone | 1992 per Wikipedia[^ref-1]; 1993 per The CRPG Addict[^ref-2] and MobyGames[^ref-6] | DOS | Solo version sold with Fates of Twinion, with a 30-hour free trial of on-line time reported by Computer Gaming World[^ref-37] |
+| ImagiNation Network | 1994/5 per Wikipedia[^ref-1] | ImagiNation Network | Included with the renamed network[^ref-1] |
 
-The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993) and The Ruins of Cawdor (1995)[^ref-25]. These games used the same game engine but featured new plots—Ruins of Cawdor was "essentially Macbeth redone for an online gaming audience"[^ref-24]. Only Shadow of Yserbius and Fates of Twinion were eventually made available as offline versions[^ref-4].
-
-### Network History and Closure
-
-The Sierra Network was renamed the ImagiNation Network in 1993[^ref-2], and AT&T purchased it from Sierra in 1994[^ref-5]. AOL bought the service from AT&T on August 7, 1996, for an undisclosed amount[^ref-33]; Al Lowe later put the price at "10 million"[^ref-35]. AOL soon abandoned the game[^ref-1][^ref-4], and by 1998 the service was discontinued[^ref-34].
-
-### Revival Efforts
-
-The ImagiNation Revival Project resurrected the game in late 2007 using original client software with DOSBox, bringing the online game back for returning players[^ref-1]. However, this server shut down in early 2016[^ref-1].
-
-A more ambitious modern remake called MedievaLands was developed by ZaneDubya as a personal hobby project[^ref-11]. This project recreated the original multiplayer experience for modern players, including a new Treasure System: "The original games each had a total of 252 items. The new Treasure System adds seven million new items while keeping almost all of the items from the original games"[^ref-29]. The developer estimates he has spent "more than 3,500 hours" on the project[^ref-11] and included complete UI overhauls to make the game more accessible to modern players.
-
-### Historical Significance
-
-The Shadow of Yserbius was the first of three graphical MUDs for the online community[^ref-1], and one of very few online RPGs of its day[^ref-5].
-
-## Technical Specifications
+### Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
@@ -152,7 +145,7 @@ The Shadow of Yserbius was the first of three graphical MUDs for the online comm
 | Hard Disk | 9 MB (boxed version)[^ref-37] |
 | Manual | 36-page scan[^ref-31] |
 
-## Known Issues
+### Known Issues
 
 Design complaints from the CRPG Addict's 2024 playthrough of the offline version:
 
@@ -165,6 +158,26 @@ Bugs fixed in the MedievaLands remake:
 - In the Yserbius combat engine, spells meant to affect whole stacks of monsters hit only the topmost monster[^ref-29]
 - Remake-specific bugs: guild leaders couldn't leave their guilds, Dissipate could target living enemies, and equipment disappeared after its spell charges were used up[^ref-29]
 
+## Legacy
+
+### Series Expansion
+
+The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993) and The Ruins of Cawdor (1995)[^ref-25]. These games used the same game engine but featured new plots—Ruins of Cawdor was "essentially Macbeth redone for an online gaming audience"[^ref-24]. The stand-alone boxed set offered Yserbius and Twinion for offline play[^ref-37]; according to a Wikipedia-derived account, until recently only those two were playable in offline mode, and Ruins of Cawdor has since been patched to be playable offline[^ref-4].
+
+### Network History and Closure
+
+The Sierra Network was renamed the ImagiNation Network in 1993[^ref-2], and AT&T purchased it from Sierra in 1994[^ref-5]. AOL bought the service from AT&T on August 7, 1996, for an undisclosed amount[^ref-33]; Al Lowe later put the price at "10 million"[^ref-35]. AOL soon abandoned the game[^ref-1][^ref-4], and by 1998 the service was discontinued[^ref-34].
+
+### Revival Efforts
+
+The ImagiNation Revival Project resurrected the game in late 2007 using original client software with DOSBox, bringing the online game back for returning players[^ref-1]. However, this server shut down in early 2016[^ref-1].
+
+A more ambitious modern remake called MedievaLands was developed by ZaneDubya as a personal hobby project[^ref-11]. MedievaLands is a complete remake of Yserbius and its sequel Fates of Twinion for modern Windows and macOS systems[^ref-1], and includes a new Treasure System: "The original games each had a total of 252 items. The new Treasure System adds seven million new items while keeping almost all of the items from the original games"[^ref-29]. The developer estimates he has spent "more than 3,500 hours" on the project[^ref-11]. It also received a complete overhaul of the dungeon user interface, intended to be more understandable to new players[^ref-29].
+
+### Historical Significance
+
+The Shadow of Yserbius was the first of three graphical MUDs for the online community[^ref-1], and one of very few online RPGs of its day[^ref-5].
+
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -174,11 +187,15 @@ Bugs fixed in the MedievaLands remake:
 - [MyAbandonware](https://www.myabandonware.com/game/shadow-of-yserbius-2aw)
 - [Internet Archive](https://archive.org/details/msdos_Shadow_of_Yserbius_1993)
 
+**Manuals & Extras**
+- [Shadow of Yserbius Manual (Internet Archive)](https://archive.org/details/Shadow_of_Yserbius_-_Manual) - 36-page scan[^ref-31]
+
 **Modern Recreation**
 - [MedievaLands](https://www.medievalands.com/) - Fan remake with multiplayer support
 
 ## See Also
 
+- [[Sierra Network Series]]
 - [[1993 - Fates of Twinion]]
 - [[1996 - The Realm Online]]
 
