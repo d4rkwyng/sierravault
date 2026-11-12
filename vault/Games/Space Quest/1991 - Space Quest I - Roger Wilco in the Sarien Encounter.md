@@ -78,7 +78,7 @@ The remake uses Sierra's SCI game engine with a point-and-click interface and ic
 ## Reception
 
 ### Contemporary Reviews
-Dragon Magazine (January 1992) praised the redesigned VGA version, noting the upgraded 256-color graphics, improved point-and-click interface, better music, and digitized speech, concluding: "The game plays far better than before and is highly enjoyable, richly deserving its fame"[^ref-35]. Dragon listed the PC/MS-DOS version at $59.95[^ref-35]. Writing for VideoGames & Computer Entertainment, Arnie Katz noted that the game "benefited from a recent face-lift," adding: "The graphics are much better, and the point-and-click interface makes play easier than the parser-driven original"[^ref-32]. The same April 1992 passage adds that "Sierra also has a CD-ROM edition for the IBM PC"[^ref-32].
+Dragon Magazine (January 1992) praised the redesigned VGA version, noting the upgraded 256-color graphics, improved point-and-click interface, better music, and digitized speech, concluding: "The game plays far better than before and is highly enjoyable, richly deserving its fame"[^ref-35]. Dragon listed the PC/MS-DOS version at $59.95[^ref-35]. Writing for VideoGames & Computer Entertainment, Arnie Katz noted that the game "benefited from a recent face-lift," adding: "The graphics are much better, and the point-and-click interface makes play easier than the parser-driven original"[^ref-32]. The passage appears under the heading "Space Quest I: The Sarien Encounter (Amiga, Atari ST and IBM PC)" and also adds that "Sierra also has a CD-ROM edition for the IBM PC"[^ref-32].
 
 SpaceQuest.net's history of the game says that, like Sierra's other VGA remakes of the time (Leisure Suit Larry I, King's Quest I, Police Quest I), it was "marketed very aggressively, but to no avail as all of these remakes flopped with a bang"[^ref-37]. SierraVault found no published sales figures for the remake.
 
@@ -98,7 +98,7 @@ Around 1990-1991, Sierra began releasing VGA remakes of their mid-1980s hits usi
 
 Space Quest I was given an overhaul when it was remade using Sierra's SCI language, which allowed the game to upgrade from its original EGA graphics to VGA[^ref-5]. The VGA graphics were drawn deliberately in a 1950s B-movie style[^ref-1][^ref-5]. Scott Murphy later admitted he had little say in the art direction: "The VGA art designer wanted an old fashioned space movie look. It sounded good in theory but wasn't executed as was advertised"[^ref-16]. Murphy recalled that "We were shuttling out art work to Korea back then. (Blame 'The Simpsons'.)"[^ref-16] Art designer Douglas Herring later told a fan, as relayed on the Guys From Andromeda forum, that "About two-thirds of the backgrounds for SQ1 VGA were indeed painted in Korea", a cost move he did not personally like[^ref-39]. In addition to the new graphics, it featured digitized sounds and an icon interface[^ref-5].
 
-According to SpaceQuest.net's Troels Pleimert, the remake "was created entirely without The Two Guys' input"[^ref-39].
+According to SpaceQuest.net's Troels Pleimert, the remake "was created entirely without The Two Guys' input"[^ref-39]. Murphy's own account in his interview differs: he recalled being told to work on it and to have any changes he deemed necessary executed[^ref-16], so the sources differ on how involved he was.
 
 Both are nonetheless credited as Game Designers in the final product[^ref-31].
 
@@ -106,7 +106,7 @@ Scott Murphy reportedly gave management a list of things he disliked, chiefly th
 
 Roger Wilco's hair color was also changed from brown to blond in this version[^ref-37].
 
-An early concept for the original game would have let players choose a male or female character, reportedly dropped because every animation frame would have been needed for both and storage space was limited[^ref-40].
+An early concept for the original game would have let players choose a male or female character, reportedly dropped because every animation frame would have been needed for both and storage space was limited[^ref-40]; Scott Murphy is also cited as giving lack of space for extra sprites as a reason[^ref-27].
 
 Several of the puzzles from the original game were changed or replaced with new solutions[^ref-5]. Fans are sharply divided between which version of the game they prefer: many enjoy the rich graphical layout of the 1991 remake, while others appreciate the historical purity of the original[^ref-5].
 
@@ -140,7 +140,7 @@ The Cutting Room Floor documents several leftovers in the remake[^ref-50]:
 
 ### Technical Specifications
 
-- **System requirements:** Sierra Help and DOS Days list a 286 CPU, 640KB RAM, MS-DOS 5, 6MB of hard drive space and VGA/MCGA graphics, with sound support for AdLib, Sound Blaster, Roland MT-32, Pro Audio Spectrum, Game Blaster and PC Speaker, and General MIDI via a patch[^ref-20][^ref-28]. MobyGames gives a lower minimum (8088/8086 CPU, DOS 3.0) for the release as a whole, but notes that the 256-color version requires an 80286[^ref-42]
+- **System requirements:** Sierra Help and DOS Days list a 286 CPU, 640KB RAM, 6MB of hard drive space and VGA/MCGA graphics, with sound support for AdLib, Sound Blaster, Roland MT-32, Pro Audio Spectrum, Game Blaster and PC Speaker, and General MIDI via a patch; DOS Days gives the DOS requirement as DOS 5, while Sierra Help gives MS-DOS 5.1 or greater[^ref-20][^ref-28]. MobyGames gives a lower minimum (8088/8086 CPU, DOS 3.0) for the release as a whole, but notes that the 256-color version requires an 80286[^ref-42]
 - **Original media:** Five 5.25" or four 3.5" floppy disks[^ref-28]
 - **CD-ROM:** VideoGames & Computer Entertainment reported in April 1992 that Sierra had a CD-ROM edition for the IBM PC[^ref-32]; the 1994 U.S. Gold Kixx XL re-release was also issued on CD-ROM[^ref-4][^ref-28]
 - **Display:** 320 x 200 in 256 colors; Adventure Classic Gaming adds that the supplied drivers also allow 640 x 480 in 16 colors[^ref-48]
@@ -153,17 +153,17 @@ The Cutting Room Floor documents several leftovers in the remake[^ref-50]:
 
 ### Easter Eggs and Trivia
 - **King Graham cameo:** In the VGA ending sequence, King Graham from King's Quest appears to award Roger the Golden Mop—a crossover between Sierra's flagship franchises[^ref-17]
-- **ZZ Top legal issue:** The game originally featured a band resembling ZZ Top in the Rocket Bar. The Cutting Room Floor says ZZ Top's management issued Sierra a cease-and-desist, after which the band was replaced in later versions; it describes Dusty and Billy shrunk to a microscopic size, Frank given pink hair and a long elephant nose, and the ZZ Top logo on his drum replaced by the Sierra logo, while Sierra Help describes the patched band as two small aliens and an alien drummer. Both say the original sprites remain and can be restored (removing all `*.v56` files, or deleting the replacement views for views 433 and 533)[^ref-17][^ref-20][^ref-50]
+- **ZZ Top legal issue:** The game originally featured a band resembling ZZ Top in the Rocket Bar. The Cutting Room Floor says ZZ Top's management issued Sierra a cease-and-desist, after which the band was replaced in later versions; it describes Dusty and Billy shrunk to a microscopic size, Frank given pink hair and a long elephant nose, and the ZZ Top logo on his drum replaced by the Sierra logo, while Sierra Help describes the patched animation as showing two small figures and an alien drummer. Both say the original sprites remain and can be restored (removing all `*.v56` files, or deleting the replacement views for views 433 and 533)[^ref-17][^ref-20][^ref-50]
 - **Latex Babe easter egg:** Using the TONGUE icon on the purple spiral above the doorway after obtaining the Sarien uniform triggers a glitchy Latex Babe animation[^ref-22]
-- **"DON'T TOUCH" button:** Pressing "DON'T TOUCH" in the escape pod cockpit transports Roger to Nottingham Castle from Conquests of the Longbow (Hardcore Gaming 101 calls the button "Do Not Press"). In the 1986 original the same button dropped him at Daventry from King's Quest I, complete with moat alligators and Ken and Roberta Williams overheard inside; the remake removed the King's Quest references[^ref-17][^ref-30]
+- **"DON'T TOUCH" button:** Pressing "DON'T TOUCH" in the escape pod cockpit transports Roger to Nottingham Castle from Conquests of the Longbow (Hardcore Gaming 101 calls the button "Do Not Press"). In the 1986 original the same button dropped him at Daventry from King's Quest I, complete with moat alligators and Ken and Roberta Williams overheard inside; the remake changed the button's destination[^ref-17][^ref-30]
 - **Instant replay death:** One VGA death scene features the Two Guys from Andromeda popping up to announce an instant replay of Roger's particularly stupid moment[^ref-30]
 - **Sci-fi references:** New to the remake, the music in Kerona's hologram area opens like the theme from 2001: A Space Odyssey[^ref-38]
 - **Cameos:** Robbie the Robot from "Forbidden Planet" works as the store droid; a Star Trek Warbird appears when selecting wrong coordinates; the time pod from Space Quest IV appears when leaving Ulence Flats; Blues Brothers and Madonna appear in the bar[^ref-17]
 - **Hitchhiker's Guide references:** The triple-breasted hooker from Eroticon VI sits at the Ulence Flats bar; the arms dealer on the Sarien ship sounds like Marvin the Paranoid Android[^ref-29][^ref-30]
 - **Hayao Miyazaki reference:** The robot shop features "Hay-A-O," a creature resembling characters from Laputa: Castle in the Sky, named after director Hayao Miyazaki[^ref-30]
 - **Droids-B-Us parodies:** The store's viewscreen features Dalek robots (Doctor Who), Maximillian (The Black Hole), Huey (Silent Running), and the Lost in Space babysitter droid[^ref-17]; fan sources say the Two Guys won the Toys-R-Us lawsuit over the original game's "Droids-R-Us", though the store was renamed Droids-B-Us, and the remake added a modified Toys-R-Us giraffe logo[^ref-5][^ref-38]
-- **Removed crossover:** In the 1986 original, a Sarien guard (programmed in by Ken Williams) chatted about King's Quest II and III; the remake dropped the King's Quest dialogue references[^ref-38][^ref-4]
-- **Dev trivia:** Kerona was named after Corona beer, the developers' preferred drink in 1986[^ref-38]; Scott Murphy, credited as a director[^ref-31], recalled that he "was told to work on it and have any changes I deemed necessary executed", but when he raised problems with the art he was told "we can't change that, anything else?"[^ref-16]
+- **Removed crossover:** In the 1986 original, a Sarien guard (programmed in by Ken Williams) chatted about King's Quest II and III; the remake dropped the King's Quest dialogue, and the VGA column of SpaceQuest.net's point list shows n/a for both the guard conversation and the King's Quest question[^ref-38][^ref-19]
+- **Dev trivia:** Kerona was named after Corona beer, the developers' preferred drink in 1986[^ref-38]; Scott Murphy, credited as a director[^ref-31], recalled that he "was told to work on it and have any changes I deemed necessary executed", but when he raised problems with the art he was told "we can't change that, anything else?"[^ref-16] (Pleimert's account instead says the remake was made without the Two Guys' input[^ref-39])
 - **Packaging:** The remake was sold in 16-color and 256-color packages, and was also offered via a mail-order deal, some copies shipping in original-1986 boxes[^ref-4]
 
 ### Version History
@@ -194,9 +194,9 @@ This game has been included in the following collections:
 - The Space Quest Trilogy[^ref-24]
 - Sierra Adventure Starter Kit (1992)[^ref-24][^ref-46]
 - The Space Quest Saga[^ref-24]
-- Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-24]
+- Space Quest: Collector's Edition (1994), re-released in 1995 as Roger Wilco Unclogged with a Space Quest 6 demo added[^ref-24][^ref-51][^ref-52]
 - Space Quest: Collection Series (1997)[^ref-24][^ref-44] – contents disputed: MobyGames says it holds the VGA version but links the 1986 entry, while Sierra Chest lists the compilation under both versions[^ref-47]
-- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110) (Steam, 2006)[^ref-9][^ref-24] – PCGamingWiki says the Steam release includes both the EGA and VGA versions[^ref-11]; MobyGames lists only the EGA version[^ref-45]
+- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110) (Steam; the store page gives September 1, 2006, while Steam's store API gives July 23, 2009)[^ref-9][^ref-24] – PCGamingWiki says the Steam release includes both the EGA and VGA versions[^ref-11]; MobyGames lists only the EGA version[^ref-45]
 - [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) (GOG; VGA version added February 2026)[^ref-7]
 
 ## Downloads
@@ -260,7 +260,7 @@ This game has been included in the following collections:
 [^ref-6]: [WiW – Space Quest 1 VGA Point List](https://wiw.org/~jess/sq1vgapts.html) – complete point list for the VGA version
 [^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews; changelog (20 February 2026): "Space Quest 1: Added VGA version of the game"
 [^ref-8]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times
-[^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
+[^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews; store page release date Sep 1, 2006 (Steam's store API, https://store.steampowered.com/api/appdetails?appids=10110&cc=us, returns Jul 23, 2009)
 [^ref-11]: [PCGamingWiki – Space Quest I VGA](https://www.pcgamingwiki.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_The_Sarien_Encounter) – technical specs, fixes; Steam Space Quest Collection and GOG Space Quest 1+2+3 both listed with "EGA and VGA versions"
 [^ref-12]: [SCI Wiki – Space Quest I SCI](https://sciwiki.sierrahelp.com/index.php/Space_Quest_I:_The_Sarien_Encounter_SCI) – release date Aug. 20, 1991; SCI1 version table (incl. Sp./Eng. release); official patches
 [^ref-14]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
@@ -292,10 +292,12 @@ This game has been included in the following collections:
 [^ref-41]: [MobyGames – Space Quest I VGA Releases](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/releases/) – DOS release dated Aug 27, 1991 (Canada, United States)
 [^ref-42]: [MobyGames – Space Quest I VGA DOS Specs](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/specs/dos/) – minimum 8088/8086, DOS 3.0–3.3, 640 KB; "256 color version requires 80286 processor"
 [^ref-43]: [MobyGames – SQ1 VGA DOS Credits (Wayback, July 2024)](https://web.archive.org/web/20240721144047/https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – "Additional Material: Gano Haine, Bridget McKenna"
-[^ref-44]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – read via the MobyGames API: 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)", linked to the 1986 entry
-[^ref-45]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – read via the MobyGames API: 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
-[^ref-46]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – read via the MobyGames API: 1992 DOS compilation of "the SCI remakes", including Space Quest I: Roger Wilco in the Sarien Encounter
+[^ref-44]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)", linked to the 1986 entry
+[^ref-45]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
+[^ref-46]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – 1992 DOS compilation of "the SCI remakes", including Space Quest I: Roger Wilco in the Sarien Encounter
 [^ref-47]: [Sierra Chest – Space Quest I (1986 original)](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) ([archived December 5, 2024](http://web.archive.org/web/20241205160041/https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general)) – collections list for the AGI original, including Space Quest: Collection Series
 [^ref-48]: [Adventure Classic Gaming – Space Quest: The Sarien Encounter review (Mervyn Graham, posted 2 October 2009, updated 1 November 2011)](https://www.adventureclassicgaming.com/index.php/site/reviews/369/) – 4 of 5 overall for the 1986 and 1991 versions; prefers the remake; scanned paintings, motion capture, 320 x 200 in 256 colors
 [^ref-49]: [ScummVM – Compatibility: Space Quest I: Roger Wilco in the Sarien Encounter (sci:sq1sci)](https://www.scummvm.org/compatibility/DEV/sci:sq1sci/) – "Excellent" support level; supported platforms Amiga, DOS, Macintosh; notes on Macintosh/Amiga music and hi-res fonts
 [^ref-50]: [The Cutting Room Floor – Space Quest: Chapter I - The Sarien Encounter (1991)](https://tcrf.net/Space_Quest:_Chapter_I_-_The_Sarien_Encounter_(1991)) – unused death graphic, Keronian Ale, automatic nav droid, ZZ Top revision differences (page last edited 3 March 2026)
+[^ref-51]: [MobyGames – Space Quest: Collector's Edition](https://www.mobygames.com/game/937/space-quest-collectors-edition/) – 1994 DOS and Windows release; alternate title "Roger Wilco Unclogged" (1995 re-release title); includes Space Quest I EGA and VGA versions
+[^ref-52]: [Sierra Classic Gaming – Sierra Versions](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – separate listings for Space Quest 15th Anniversary Collector's Edition (1994) and Roger Wilco Unclogged (1995); the latter includes the Space Quest 6 demo
