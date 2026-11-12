@@ -11,7 +11,7 @@ series: IndyCar Racing
 engine: Racing simulation technology
 protagonist: Racing Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: IndyCar Racing II is a racing simulation of the 1995 CART IndyCar season,
   developed by Papyrus Design Group and published by Sierra On-Line for DOS, Windows 95
   and Macintosh.
@@ -19,21 +19,21 @@ tags: [1990s, indycar-racing, racing, sierra]
 ---
 # IndyCar Racing II
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-IndyCar Racing II is a racing simulation developed by Papyrus Design Group and published by Sierra On-Line[^ref-17][^ref-32]. Sources differ on its release year: DOS Days, Wikidata and GameSpot's history of Papyrus give 1995, while Wikipedia and MobyGames give 1996[^ref-4][^ref-8][^ref-5][^ref-1][^ref-22]. GameSpot's archived review page lists a release date of 05/31/1996[^ref-17]. The game is the sequel to 1993's IndyCar Racing and uses many of the improvements introduced in Papyrus' NASCAR Racing[^ref-22][^ref-4]. Based on the 1995 CART season, it featured 15 accurate circuits and fully licensed drivers, liveries and advertisements, and DOS Days calls it "the pinnacle of the computer racing experience when it came out"[^ref-4].
+IndyCar Racing II is a racing simulation developed by Papyrus Design Group. Computer Gaming World's October 1995 release schedule listed it as a Papyrus/Virgin title due in November 1995[^ref-33], and its February 1996 review gave the publisher as Papyrus of Watertown, Massachusetts[^ref-34]. Computer Games Strategy Plus reported that month that the game "was just released at press time by Papyrus' at that time current distributor, Virgin Interactive"[^ref-35]. After Sierra acquired Papyrus, Sierra's own edition followed: GameSpot's archived review page lists publisher Sierra Ent. and a release date of 05/31/1996[^ref-17], and GameRevolution's review gives the publisher as Sierra Online[^ref-32]. Modern databases split on the year, with DOS Days, Wikidata and GameSpot's history of Papyrus giving 1995 and Wikipedia and MobyGames giving 1996[^ref-4][^ref-8][^ref-5][^ref-1][^ref-22]. The game is the sequel to 1993's IndyCar Racing and uses many of the improvements introduced in Papyrus' NASCAR Racing[^ref-22][^ref-4]. Based on the 1995 CART season, it featured 15 accurate circuits and fully licensed drivers, liveries and advertisements, and DOS Days calls it "the pinnacle of the computer racing experience when it came out"[^ref-4].
 
 Papyrus founder [[Dave Kaemmer|David Kaemmer]] had set the studio's direction from its first game: "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar"[^ref-5]. GameSpot's Jim Varner called IndyCar Racing II "undoubtedly the most realistic racing simulation of all time", and warned that "even on the easiest of settings, driving an IndyCar is comparable to riding a wild bull"[^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** Adam Levesque, Brian C. Mahony, Matt Sentell, Randy Cassidy, David Kaemmer, John Wheeler[^ref-7]
-> **Publisher:** [[Sierra On-Line]][^ref-17][^ref-32]
+> **Publisher:** Papyrus / Virgin Interactive (1995 release)[^ref-33][^ref-35]; [[Sierra On-Line]] (1996 edition)[^ref-17][^ref-32]
 > **Engine:** Racing simulation technology[^ref-5]
 > **Platforms:** DOS, Windows 95, Macintosh (PowerPC)[^ref-8][^ref-10]
-> **Release Year:** 1995 (some sources give 1996)[^ref-4][^ref-1]
+> **Release Year:** 1995 (Sierra edition 1996)[^ref-4][^ref-1][^ref-17]
 > **Series:** IndyCar Racing
 > **Protagonist:** Racing Driver (player-named)
 > **Sierra Lineage:** Core Sierra
@@ -64,6 +64,9 @@ The core challenge lies in mastering the realistic physics simulation that gover
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 7.8/10 | Jim Varner praised the realism but warned most casual gamers would find it too difficult[^ref-17] |
+| PC Games | n/a | Bill Meyer (December 1995) praised the "high degree of customization, sharp graphics, and superior driving model" but found the tracks "still seem to lack character"[^ref-36] |
+| Computer Gaming World | n/a | Gordon Goble (February 1996) called it "anything but easy" and said players could "go back to the original game and blow it away"; cons: road courses "nearly impossible without a wheel-and-pedal controller unit"[^ref-34] |
+| MacAddict | n/a | Chris Charla (November 1996) wrote "the opponent AI is dead-on" and found "a deep, satisfying strategy-driving experience"[^ref-37] |
 | Computer Games Magazine | 4/5 | Score as reported by Wikipedia; no period review located[^ref-1] |
 
 ### Modern Assessment
@@ -105,7 +108,8 @@ The DOS version supported Sound Blaster/Pro/16, Pro Audio Spectrum, Ad Lib Gold,
 
 | Version | Platform | Notes |
 |---------|----------|-------|
-| 1.00 | DOS | Initial release with 15 tracks[^ref-4] |
+| 1.00 | DOS | Original release by Papyrus, distributed by Virgin Interactive: scheduled for November 1995 by Computer Gaming World and reviewed by it in February 1996[^ref-33][^ref-34][^ref-35]. DOS Days lists 15 tracks[^ref-4] |
+| Sierra edition | DOS/Win95/Mac | Sierra Ent. listing dated 05/31/1996 by GameSpot[^ref-17]; MacAddict reviewed the Macintosh version in November 1996[^ref-37] |
 | 1.0.1 | DOS/Win95 | Re-release version[^ref-4] |
 | 1.0.2 | DOS/Win95 | Bug fix patch[^ref-4][^ref-29] |
 | DOS 1.0.2 → Win95 1.0.1 | DOS/Win95 | Windows 95 upgrade patch, September 1996[^ref-30] |
@@ -122,7 +126,7 @@ TV Tropes calls IndyCar Racing II "likely the most realistic indycar simulation 
 
 | Award | Year | Organization |
 |-------|------|--------------|
-| Best Sports Game (1997 Macintosh Game Hall of Fame) | 1996 | Macworld[^ref-28][^ref-1] |
+| Best Sports Game (1997 Macintosh Game Hall of Fame) | 1997 | Macworld[^ref-28][^ref-1] |
 | Best Computer Racing Simulation | 1995 | Computer Games Strategy Plus[^ref-1] |
 | Simulation of the Year (runner-up; won by EF2000) | 1995 | Computer Gaming World[^ref-1] |
 
@@ -175,3 +179,8 @@ Vivendi Universal shut Papyrus down in May 2004, and David Kaemmer then recovere
 [^ref-30]: [Race Sim Central - Windows 95 Upgrade](https://racesimcentral.net/windows-95-upgrade-available-for-indycar-racing-ii-dos/) – Windows 95 upgrade patch, September 4, 1996
 [^ref-31]: [PC Gamer News, January 5, 1998 (archived)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – Over 800,000 games sold on the CART license
 [^ref-32]: [GameRevolution – IndyCar Racing II review (Mac, archived)](https://web.archive.org/web/20110807152916/http://www.gamerevolution.com/review/mac/indycar-racing-i) – Publisher Sierra Online; "thirteen different customizable characteristics" and garage quote
+[^ref-33]: [Archive.org - Computer Gaming World #135 (October 1995)](https://archive.org/details/Computer_Gaming_World_Issue_135) – Release schedule lists "IndyCar Racing 2 Papyrus/Virgin 11/95"; Mac preview says it is slated for mid-November
+[^ref-34]: [Archive.org - Computer Gaming World #139 (February 1996)](https://archive.org/details/Computer_Gaming_World_Issue_139) – Gordon Goble review, "Lapping It Up", pp. 74-76; publisher listed as Papyrus, Watertown, MA
+[^ref-35]: [Archive.org - Computer Games Strategy Plus, February 1996](https://archive.org/details/computer-games-strategy-plus-1996-02) – News item on Sierra's acquisition of Papyrus; game released by Virgin Interactive
+[^ref-36]: [PC Games, December 1995 (Wayback, 1996)](https://web.archive.org/web/19961113214619/http://www.pcgamesmag.com:80/games/Dec95/indy1295.html) – Bill Meyer review
+[^ref-37]: [Macintosh Repository - IndyCar Racing II](https://www.macintoshrepository.org/3159-indycar-racing-ii) – Chris Charla, MacAddict, November 1996, pp. 82-83; publisher Sierra On-Line
