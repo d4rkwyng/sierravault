@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1 (EGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher Braymen, Mark Seibert]
 description: 'Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game
   developed and published by Sierra On-Line for MS-DOS and Amiga, designed by Lori
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-26].
@@ -84,7 +84,7 @@ The game follows the path of its predecessor, with distinctions in gameplay[^ref
 ## Reception
 
 ### Contemporary Reviews
-In 1991, Dragon gave the game 5 out of 5 stars[^ref-1]; its October 1991 review by Hartley, Patricia and Kirk Lesser called it "a highly playable and enjoyable fantasy role-playing game"[^ref-30]. In Computer Gaming World's October 1991 role-playing survey, Scorpia found it "more structured and linear than its predecessor" and "not as replayable", with each final battle differing by character class[^ref-31]. UK magazine ACE gave the Amiga version a score of only 600 out of 1000, praising its size but criticizing average graphics, grating music, slowness, and the large amount of disk swapping needed[^ref-1]. However, Amiga Action was more favorable, rating the Amiga version 88% in July 1991[^ref-18]. Other Amiga reviews ranged from Amiga Power's 23% and Amiga Format's 56% to CU Amiga's 86%; Amiga Joker gave 64%[^ref-18].
+In 1991, Dragon gave the game 5 out of 5 stars[^ref-1]; its October 1991 review by Hartley, Patricia and Kirk Lesser called it "a highly playable and enjoyable fantasy role-playing game"[^ref-30]. In Computer Gaming World's October 1991 role-playing survey, Scorpia found it "more structured and linear than its predecessor" and "not as replayable", with each final battle differing by character class[^ref-31]. UK magazine ACE gave the Amiga version a score of only 600 out of 1000, praising its size but criticizing average graphics, grating music, slowness, and the large amount of disk swapping needed[^ref-1][^ref-18]. However, Amiga Action was more favorable, rating the Amiga version 88% in July 1991[^ref-18]. Other Amiga reviews ranged from Amiga Power's 23% and Amiga Format's 56% to CU Amiga's 86%; Amiga Joker gave 64%[^ref-18].
 
 ### Modern Assessment
 Both Michael Baker and Tyler Willis of RPGamer gave the game 4 out of 5 stars; Baker praised its "strong narrative, superb writing, and a graphical design that really works the EGA chip to the fullest"[^ref-8][^ref-32]. In 2011, Adventure Gamers named Quest for Glory II the 81st-best adventure game ever released[^ref-1][^ref-9]. IMDb users rate it 8.4/10[^ref-19]. HowLongToBeat reports the main story takes approximately 8½ hours to complete, with completionist runs taking about 17 hours (as of October 2026)[^ref-12]. On Speedrun.com, the fastest Any% run is 1m10s using glitches, and the fastest Any% No Major Skips run is about 12 minutes[^ref-20].
@@ -93,7 +93,7 @@ The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced t
 
 - **Dragon Magazine:** 5/5 stars (October 1991)[^ref-1][^ref-30]
 - **Amiga Action:** 88% (July 1991)[^ref-18]
-- **ACE Magazine:** 600/1000 (Amiga)[^ref-1]
+- **ACE Magazine:** 600/1000 (Amiga)[^ref-1][^ref-18]
 - **Adventure Gamers:** #81 best adventure game (2011)[^ref-1][^ref-9]
 - **RPGamer:** 4/5 stars[^ref-8][^ref-32]
 - **IMDb:** 8.4/10[^ref-19]
@@ -107,8 +107,7 @@ The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced t
 ### Production
 Corey Cole has said the first game had a relatively tiny budget, which he once calculated at $150K but thought was probably closer to $250K; the budget almost doubled to $450K for Quest for Glory II, and again to $750K for games 3 and 4. Quest for Glory V was budgeted at $1.5M, but had massive overruns and, in his estimate, ended up costing around $4 million[^ref-4]. Quest for Glory II was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1][^ref-34]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" – both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1][^ref-34].
 
-### Art and Combat System Credit
-[[Douglas Herring]], a Sierra artist and animator, lists the game on his own résumé as "Art design desert section - Combat System."[^ref-35] The Adventure Game Fan Fair guest biography likewise says he "designed the combat system and a few backgrounds for Quest for Glory II."[^ref-36] Both are Herring's own accounts; Wikipedia lists only Kenn Nishiuye as artist.[^ref-1]
+[[Douglas Herring]], a Sierra artist and animator, lists the game on his own résumé as "Art design desert section - Combat System."[^ref-35] The Adventure Game Fan Fair guest biography likewise says he "designed the combat system and a few backgrounds for Quest for Glory II."[^ref-36] Wikipedia lists only Kenn Nishiuye as artist[^ref-1], while Lemon Amiga's credits for the Amiga version list Douglas Herring among the graphics credits[^ref-18].
 
 ### Version History
 - 1990: MS-DOS and Amiga, United States; PCGamingWiki dates the MS-DOS release to November 1990[^ref-13][^ref-28]
@@ -132,11 +131,9 @@ An unused daytime version of the background where Iblis rises survives in the ga
 ### Easter Eggs and Cultural References
 
 The game is filled with pop-culture references and hidden jokes[^ref-22]:
-- Names chosen as parodies: Ad Avis (Bill Davis), Raseir (anagram of Sierra)[^ref-1][^ref-34]
 - References to Casablanca, The Maltese Falcon, and Lawrence of Arabia[^ref-1][^ref-3]
 - Caricatures of the Marx Brothers, and the Starship Enterprise in the opening credits[^ref-1]
 - A Thief can steal the Maltese Falcon, a running gag; the Falcon appears in Raseir alongside Casablanca's Signor Ferrari and Ugarte[^ref-1]
-- Raseir is depicted as an Orwellian city, a subtle parody of changing atmosphere within Sierra at the time[^ref-1]
 - Typing "suck blue frog" at the text prompt unlocks a hidden debug mode[^ref-24]
 
 ## Legacy
