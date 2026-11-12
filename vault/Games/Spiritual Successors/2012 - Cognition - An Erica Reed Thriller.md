@@ -109,7 +109,7 @@ IMDb user ratings as listed on Raleigh Holmes's filmography page; these change o
 
 ### Modern Assessment
 
-The Game of the Year Edition's MobyGames entry shows a 90% critic average, based on a single rating.[^ref-21] Alternative Magazine Online described the series across its run: Episode 1 as "a good old-fashioned adventure game like they used to make," Episode 2 as "a masterfully woven point-and-click adventure thriller," and Episode 3 as "a potent murder mystery where questions continue to arise."[^ref-3]
+The Game of the Year Edition's MobyGames entry shows a 90% critic average, based on a single rating.[^ref-21] MobyGames' Episode 1 entry has a player score of 7.6 from 12 votes (as of November 2026).[^ref-39] Alternative Magazine Online described the series across its run: Episode 1 as "a good old-fashioned adventure game like they used to make," Episode 2 as "a masterfully woven point-and-click adventure thriller," and Episode 3 as "a potent murder mystery where questions continue to arise."[^ref-3]
 
 Adventure Gamers concluded that "though flawed, the first episode of Cognition leaves a great final impression and sets up a series that could become a major achievement for episodic adventure gaming."[^ref-19] A Metacritic user review calling it "a gorgeous adventure in the spirit of genre classics like Gabriel Knight, Blade Runner and Gray Matter" captures the game's appeal to classic adventure fans.[^ref-8]
 
@@ -180,7 +180,7 @@ The current Steam release lists 7 GB of storage and notes that it is not compati
 | Episode 4: The Cain Killer | September 19, 2013 | PC/Mac | Series finale; full season also released on Steam and GOG[^ref-31] |
 | iOS / Android release | February 8, 2018 | iOS/Android | Game of the Year Edition on mobile[^ref-33][^ref-5] |
 
-The Game of the Year Edition includes exclusive making-of videos, concept art, and storyboards.[^ref-21]
+The Game of the Year Edition includes exclusive making-of videos, concept art, and storyboards.[^ref-21] Steam's description adds director commentary for all 4 episodes.[^ref-32]
 
 ## Legacy
 
@@ -196,7 +196,7 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/) - Complete Season
-- [GOG.com](https://www.gog.com/game/cognition_an_erica_reed_thriller) - Game of the Year Edition
+- [GOG.com](https://www.gog.com/game/cognition_an_erica_reed_thriller) - Game of the Year Edition, DRM-free[^ref-40]
 - [Phoenix Online Store](https://store.postudios.com/) - Direct purchase; soundtrack also sold separately[^ref-25]
 
 ## Downloads
@@ -256,3 +256,5 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 [^ref-36]: [Metacritic - Episode 1 critic reviews (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/critic-reviews/?platform=pc) - CD-Action, January 6, 2013, 75: "Cognition feels like some old game by Sierra and this is its biggest strength." [1/2013, p.72]
 [^ref-37]: [Phoenix Online Studios blog - Developer Diary: Managing an Online Team on a Shoestring Budget (Wayback)](https://web.archive.org/web/20160303212513/http://www.postudios.com/blog/?p=1643) - Skype for team calls; file sharing via Tortoise SVN and Dropbox
 [^ref-38]: [Kickstart Adventure - Cognition Episode 4: The Cain Killer review (Wayback)](https://web.archive.org/web/20131101050537/http://www.kickstartadventure.com/home/cognition-episode-4-the-cain-killer-review/) - Reviewer reports Cesar Bittar "has hinted that there might be a second season"
+[^ref-39]: [MobyGames - Episode 1: The Hangman](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Player score 7.6 from 12 votes (MobyGames API, November 12, 2026)
+[^ref-40]: [GOG - Cognition: Game of the Year Edition](https://www.gog.com/game/cognition_an_erica_reed_thriller) - "DRM FREE. No activation or online connection required to play."
