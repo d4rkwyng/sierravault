@@ -1,20 +1,20 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 description: "The 3D engines used by Sierra-published games — Dynamix's 3Space, Darkstar and Torque, Papyrus's in-house racing engines, Relic's Homeworld engines, Valve's GoldSrc, Monolith's LithTech, and Unreal Engine 3 for the 2015 King's Quest."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Alongside its in-house 2D adventure engines (AGI, and SCI, whose last version shipped in 1996[^ref-15]), Sierra's catalog ran on a diverse stable of 3D engines, most developed by acquired or partner studios rather than by Sierra itself. This page traces the major 3D engines used in the Sierra-extended catalog and the games each powered. For SCI-engine technical detail, see [[Engine History]] and [[Sierra Creative Interpreter]].
 
-Unlike the SCI generations, which Sierra developed in-house and shipped across most of its adventure catalog, these 3D engines were one- or two-franchise specialists: Dynamix's 3Space and its successors served flight, mech and shooter games; Papyrus's engines served racing simulation; Relic's served *Homeworld*; Valve's GoldSrc served *Half-Life* and its spin-offs.
+Unlike the SCI generations, which Sierra developed in-house and shipped across most of its adventure catalog, these 3D engines were mostly one- or two-franchise specialists (the exception being the G-Engine Sierra built in-house for *Gabriel Knight 3*, described below): Dynamix's 3Space and its successors served flight, mech and shooter games; Papyrus's engines served racing simulation; Relic's served *Homeworld*; Valve's GoldSrc served *Half-Life* and its spin-offs.
 
 ---
 
@@ -22,7 +22,7 @@ Unlike the SCI generations, which Sierra developed in-house and shipped across m
 
 **Developer:** [[Dynamix]] (Eugene, Oregon).
 
-3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Sierra's own *News Magazine* said in 1990 that the original *Stellar 7* "was the first game to use Damon Slye's 3Space", and that the 1990 remake used "improved 3Space technology";[^ref-35] MobyGames and Wikipedia both date that original to 1983 on the Apple II,[^ref-36][^ref-49] which makes 1983 the start of the engine's span here; Sierra Chest's engine page gives no years.[^ref-16] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
+3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Sierra's own *News Magazine* said in 1990 that the original *Stellar 7* "was the first game to use Damon Slye's 3Space", and that the 1990 remake used "improved 3Space technology";[^ref-35] MobyGames and Wikipedia both date that original to 1983 on the Apple II,[^ref-36][^ref-49] while the same News Magazine article says Dynamix released it in 1980;[^ref-35] this page uses 1983 as the start of the engine's span. Sierra Chest's engine page gives no years.[^ref-16] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
 
 ### 3Space games
 
@@ -59,9 +59,9 @@ Sierra Chest also files [[1993 - Betrayal at Krondor|Betrayal at Krondor]] in it
 
 ## Dynamix Darkstar and Torque (1998–2001)
 
-Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (first release December 23, 1998) and [[1999 - Starsiege|Starsiege]] (March 24, 1999) as games on Dynamix's **Darkstar** engine.[^ref-19] *Tribes* gave players a jetpack that "allows them to accelerate into the air until the armor's energy is used up".[^ref-4]
+Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (first release December 23, 1998) and [[1999 - Starsiege|Starsiege]] (March 24, 1999) as games on Dynamix's **Darkstar** engine (a name that appears in PCGamingWiki's engine listing).[^ref-19] *Tribes* gave players a jetpack that "allows them to accelerate into the air until the armor's energy is used up".[^ref-4]
 
-[[2001 - Tribes 2|Tribes 2]] (2001) ran on the **Torque** engine, which was "originally developed by Dynamix for the 2001 first-person shooter Tribes 2" and later maintained by GarageGames.[^ref-20]
+[[2001 - Tribes 2|Tribes 2]] (2001) ran on the **Torque** engine, which was "originally developed by Dynamix for the 2001 first-person shooter Tribes 2" and later maintained by GarageGames.[^ref-20] The name "Torque" belongs to GarageGames' later product; Wikipedia describes the *Tribes 2* engine as "an early version of the Torque Game Engine".[^ref-52]
 
 ---
 
@@ -69,7 +69,7 @@ Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsie
 
 **Developer:** [[Papyrus Design Group]] (Watertown, Massachusetts).
 
-Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. Sources name them differently: PCGamingWiki files *NASCAR Racing*, *Grand Prix Legends*, *NASCAR Racing 2002 Season*, *NASCAR Racing 2003 Season* and iRacing under an engine it calls "Papy3D" (the same list also carries *Road Rash*, credited to Electronic Arts and Papyrus),[^ref-40] while Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
+Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. Sources name them differently: PCGamingWiki files *NASCAR Racing*, *Grand Prix Legends*, *NASCAR Racing 2002 Season*, *NASCAR Racing 2003 Season* and iRacing under an engine it calls "Papy3D" (a name that rests on PCGamingWiki) (the same list also carries *Road Rash*, credited to Electronic Arts and Papyrus),[^ref-40] while Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
 
 ### Papyrus games
 
@@ -117,7 +117,7 @@ Gearbox's [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collecti
 
 **Developer:** [[Valve Corporation]] (founded in Kirkland, Washington, in 1996; moved to Bellevue in 2003).[^ref-26]
 
-GoldSrc is "a heavily modified version of id Software's Quake engine", which debuted in 1998 with [[1998 - Half-Life|Half-Life]].[^ref-9] It "supports skeletal animation, which allowed for more realistic body kinematics and facial expression animations than most other engines at the time".[^ref-9] Sierra published *Half-Life* and its early spin-offs, while Valve kept the engine.
+GoldSrc is "a heavily modified version of id Software's Quake engine", which debuted in 1998 with [[1998 - Half-Life|Half-Life]].[^ref-9] It "supports skeletal animation, which allowed for more realistic body kinematics and facial expression animations than most other engines at the time".[^ref-9] The engine "initially had no real name and was simply called the *Half-Life* engine", according to Wikipedia.[^ref-9] Sierra published *Half-Life* and its early spin-offs, while Valve kept the engine.
 
 ### GoldSrc games published by Sierra
 
@@ -226,15 +226,15 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-33]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — lists Grim Fandango (grim:grim) and Myst III: Exile (myst3:myst3); Gobliiins (gob:gob1), Gobliins 2 (gob:gob2), Goblins Quest 3 (gob:gob3), Lost in Time (gob:lit)
 [^ref-34]: [Wikipedia — Aliens versus Predator 2](https://en.wikipedia.org/wiki/Aliens_versus_Predator_2) — developer Monolith Productions; publishers Sierra On-Line and Fox Interactive; engine Lithtech Talon; Windows 2001
 [^ref-35]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990), Internet Archive scan](https://archive.org/details/Sierra_Vol_03_03_News_Magazine_1990_Fall) — Stellar 7 article: "it was the first game to use Damon Slye's 3Space"; the remake has "improved 3Space technology"
-[^ref-36]: [MobyGames — Stellar 7 (Moby ID 39286)](https://www.mobygames.com/game/39286/stellar-7/) — read via the MobyGames API: Apple II first release 1983, Commodore 64 1984
-[^ref-37]: [MobyGames — Abrams Battle Tank (Moby ID 2906)](https://www.mobygames.com/game/2906/abrams-battle-tank/) — read via the MobyGames API: DOS 1989-04, developed by Dynamix, published by Electronic Arts
+[^ref-36]: [MobyGames — Stellar 7 (Moby ID 39286)](https://www.mobygames.com/game/39286/stellar-7/) — Apple II first release 1983, Commodore 64 1984
+[^ref-37]: [MobyGames — Abrams Battle Tank (Moby ID 2906)](https://www.mobygames.com/game/2906/abrams-battle-tank/) — DOS 1989-04, developed by Dynamix, published by Electronic Arts
 [^ref-38]: [Wikipedia — Abrams Battle Tank](https://en.wikipedia.org/wiki/Abrams_Battle_Tank) — "developed by Dynamix and published by Electronic Arts in 1988 for MS-DOS"; designed by Damon Slye
 [^ref-39]: [PC Games — IndyCar Racing 2 review, December 1995 (Wayback, February 7, 1997)](https://web.archive.org/web/19970207065818/http://www.pcgamesmag.com/games/Dec95/indy1295.html) — Bill Meyer's review in the Dec95 section; adds "support for Windows 95 and the Power Mac"
 [^ref-40]: [PCGamingWiki — Engine: Papy3D](https://www.pcgamingwiki.com/wiki/Engine:Papy3D) — developer Papyrus Design Group; games: Grand Prix Legends, iRacing, NASCAR Racing, NASCAR Racing 2002 Season, NASCAR Racing 2003 Season, and Road Rash (Electronic Arts and Papyrus, 1996)
 [^ref-41]: [GameSpy — Contract J.A.C.K. review (Wayback, October 5, 2012)](https://web.archive.org/web/20121005233646/http://pc.gamespy.com//pc//contract-jack//6344p1.html) — "Monolith takes the No One Lives Forever series in a new direction in this standalone expansion"; "The core NOLF 2 engine is solid"
 [^ref-42]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — "SWAT 4 was built on Irrational Games' Vengeance Engine powered by Unreal Engine 2 technology"
 [^ref-43]: [Jane Jensen — GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) — "GK3 is the first project I've worked on that we created a game engine from scratch"; "GK3 needed this new engine and so did Sierra. The G-Engine is a fabulous piece of engineering"
-[^ref-44]: [MobyGames — Metaltech: EarthSiege - Expansion Pack (Moby ID 24568)](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) — read via the MobyGames API: DOS 1995
+[^ref-44]: [MobyGames — Metaltech: EarthSiege - Expansion Pack (Moby ID 24568)](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) — DOS 1995
 [^ref-45]: [Wikipedia — Shogo: Mobile Armor Division](https://en.wikipedia.org/wiki/Shogo:_Mobile_Armor_Division) — publisher Monolith Productions (NA), Microïds (EU); engine LithTech 1.0; 1998
 [^ref-46]: [Wikipedia — Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) — publisher GT Interactive; engine LithTech; 1998
 [^ref-47]: [PC Gamer — No One Lives Forever review (web republication of the January 2001 US issue review)](https://www.pcgamer.com/no-one-lives-forever-review/) — "the realistic settings made possible by the LithTech 2.5 engine"
@@ -242,3 +242,4 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-49]: [Wikipedia — Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) — infobox release dates: 1983 Apple II, 1984 Commodore 64; remake 1990 MS-DOS; designer Damon Slye
 [^ref-50]: [GameSpot — Silent Thunder: A-10 Tank Killer II review](https://www.gamespot.com/reviews/silent-thunder-a-10-tank-killer-ii-review/1900-2533002/) — "Employing Dynamix' Terrain and 3DSpace technologies, Silent Thunder sports astoundingly smooth, photo-realistic, texture-mapped terrain"
 [^ref-51]: [Well of Souls — Homeworld 2 info/history](https://well-of-souls.com/homeworld/hw2/info.htm) — fan-site history: the "rewritten from the ground up" HW2 engine, "by all accounts"
+[^ref-52]: [Wikipedia — Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) — "The Tribes 2 engine, an early version of the Torque Game Engine"
