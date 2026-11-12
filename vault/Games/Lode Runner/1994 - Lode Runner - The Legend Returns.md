@@ -11,18 +11,18 @@ series: "Lode Runner"
 engine: "Custom (C/C++)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: "Lode Runner: The Legend Returns is Presage Software's 1994 remake of Doug Smith's Lode Runner, published by Sierra On-Line under Jeff Tunnell Productions. It has 150 single-player levels across ten themed worlds, new tools, two-player modes and a level editor."
 tags: [1990s, lode-runner, presage, jeff-tunnell, puzzle-platform, remake]
 composer: ["Matthew Berardo", "Brian Salter"]
 ---
 # Lode Runner: The Legend Returns
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-*Lode Runner: The Legend Returns* is a 1994 remake of Doug Smith's 1983 *Lode Runner*. Presage Software developed it and Sierra On-Line published it.[^ref-1][^ref-2] Presage designed and developed both the Windows and Macintosh versions.[^ref-3] The credits place the project under [[Jeff Tunnell Productions]], with [[Jeff Tunnell]] as executive producer and [[Randy Dersham]] as producer.[^ref-4] Some contemporary coverage credited the game to [[Dynamix]] instead: *Computer Gaming World* listed Dynamix as publisher, and *Next Generation* called it "Dynamix's retrogame".[^ref-5][^ref-6]
+*Lode Runner: The Legend Returns* is a 1994 remake of Doug Smith's 1983 *Lode Runner*. Presage Software developed it and Sierra On-Line published it.[^ref-1][^ref-2] Presage designed and developed both the Windows and Macintosh versions.[^ref-3] The credits place the project under [[Jeff Tunnell Productions]], with [[Jeff Tunnell]] as executive producer and [[Randy Dersham]] as producer.[^ref-4] Some contemporary coverage credited the game to [[Dynamix]] instead: *Computer Gaming World* listed Dynamix as publisher, and *Next Generation* called it "Dynamix's retrogame".[^ref-5][^ref-6] A pre-release preview in *Inside Mac Games* (September 1994) said the game "will be published by Sierra/Dynamix".[^ref-24]
 
 The rules are those of the original. The runner collects every piece of gold on a single-screen level while avoiding the robed "mad monks", and digs holes with his blaster to trap them. Collecting the gold opens the exit to the next level.[^ref-7][^ref-2] Presage added collectible tools such as bombs, jackhammers, slime buckets and monk snares. It also added head-to-head and cooperative play for two players on one computer, and a level editor called the Game Generator.[^ref-7][^ref-5] The single-player game holds 150 levels in ten themed worlds of fifteen levels each.[^ref-2][^ref-8]
 
@@ -66,7 +66,7 @@ The main menu offers:[^ref-12]
 
 ### Structure and Progression
 
-The 150 single-player levels are grouped into ten worlds of fifteen levels each. A separate set of two-player levels is included, and Wikipedia gives the count as 30.[^ref-8][^ref-2] The first level has no monks. Once all the gold is collected a door appears, and later levels add monks and new obstacles.[^ref-7] Levels can be played in any order, and the game can be saved. Game Bytes' reviewer noted that the player earns an extra life for every level completed.[^ref-7]
+The 150 single-player levels are grouped into ten worlds of fifteen levels each. A separate set of two-player levels is included, and Wikipedia gives the count as 30.[^ref-8][^ref-2] *Inside Mac Games*' September 1994 preview, written from a pre-release version, mentioned "20 or so levels for two-player gaming" alongside "150 regular levels".[^ref-24] The first level has no monks. Once all the gold is collected a door appears, and later levels add monks and new obstacles.[^ref-7] Levels can be played in any order, and the game can be saved. Game Bytes' reviewer noted that the player earns an extra life for every level completed.[^ref-7]
 
 Jake is introduced to new tools as he progresses, so the arsenal grows through the game.[^ref-7][^ref-11] Two players can race each other for gold or cooperate against the monks. *InterAction* noted that some levels require the two to work together.[^ref-8]
 
@@ -96,7 +96,7 @@ The Game Generator lets players build levels and whole level groups. Levels can 
 | Publication | Date | Platform | Verdict |
 |---|---|---|---|
 | *Computer Gaming World* | November 1994 | Windows | 4/5 stars (Editors Speak box, p. 126), review by Paul C. Schuytema; pros "A classic game is reborn, and it plays like a dream"[^ref-5] |
-| *Electronic Games* | December 1994 | PC | B+, Bill Kunkel[^ref-11] |
+| *Electronic Games* | December 1994 | Not stated | B+, Bill Kunkel[^ref-11] |
 | *Pyramid* No. 11 | January 1995 | Not stated | Pyramid Pick[^ref-2] |
 | *Next Generation* No. 3 | March 1995 | PC | 2/5[^ref-6][^ref-2] |
 | *Wired* | April 1995 | Mac/DOS/Windows | Positive, Zach Meston[^ref-13] |
@@ -118,9 +118,13 @@ The Game Generator lets players build levels and whole level groups. Levels can 
 
 ### Modern Assessment
 
-MobyGames lists a 75% critic average from 15 ratings and a 3.8/5 player average from 34 ratings.[^ref-1] On MyAbandonware the game holds about 4.4/5 from more than 200 votes (as of November 2026). Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
+MobyGames lists a 76% critic average from 17 ratings and a 3.7/5 player average from 38 ratings, for a Moby Score of 7.4 (as of November 2026).[^ref-1] On MyAbandonware the game holds about 4.4/5 from more than 200 votes (as of November 2026). Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
 
 Later console versions drew a cooler response. IGN's 1998 review of Natsume's PlayStation compilation scored it 6 ("okay"), saying it was "just what you remember", though the characters were "extremely tiny".[^ref-16] *Next Generation* said the PlayStation release "adds little that's new" but was "well worth a look" for newcomers.[^ref-17]
+
+**Aggregate Scores:**
+- **MobyGames:** 76% critics (17 ratings); 3.7/5 players (38 ratings); Moby Score 7.4 (as of November 2026)[^ref-1]
+- **MyAbandonware:** 4.4/5 from 226 votes (as of November 2026)[^ref-14]
 
 ## Development
 
@@ -144,6 +148,8 @@ MobyGames' Windows credits list:[^ref-4]
 - **Executive producer:** Jeffrey Tunnell (Jeff Tunnell Productions)
 - **Producer:** Randy Dersham
 - **Quality assurance:** Sierra's team under David Steele
+
+*Inside Mac Games* previewed the game in September 1994, before release, and called Hoelter "the most responsible party for the coding of this new release". It said he cited *Prince of Persia* as his inspiration.[^ref-24] In the same issue's interview with Presage, Hoelter said: "In the credits I'm listed as director, and that was really what I did." He added that he "wouldn't be comfortable taking design credit for the game".[^ref-25]
 
 Daggert was lead programmer on both Presage Lode Runner games. His page describes the job as dividing work among the team, shepherding "the Windows 3.1 and Windows 95 efforts" (the Windows 95 version being the 1995 follow-up) and maintaining the code base "between two different remote offices". It adds that the programmers also did design work: "there was no significant paper design to begin with. Game elements were brainstormed, added and balanced exclusively by the programmers as needed, especially in the case of Lode Runner Online."[^ref-10]
 
@@ -171,6 +177,8 @@ Game Bytes also reported that there was "no copy protection to hassle about".[^r
 | Release | 1994–1995 | Macintosh | MobyGames dates it 1994; *Next Generation* reviewed it in August 1995[^ref-1][^ref-9] |
 | Release | 1996 | PlayStation, Sega Saturn | Console versions; Wikipedia credits Game Arts with the Saturn version[^ref-1][^ref-2] |
 | Release | 1998 | PlayStation (North America) | Natsume's *Lode Runner*, packaged with *Lode Runner Extra*[^ref-16][^ref-2] |
+
+*Inside Mac Games* reported in September 1994 that Presage was already working on a CD-ROM version, planned for release "before Christmas", which was to feature "two new worlds" and Red Book audio.[^ref-24] That was a plan stated before the game's release.
 
 Presage's later product page says it "ported LodeRunner 1.5 to the Playstation, called LodeRunner Extra".[^ref-20]
 
@@ -218,7 +226,7 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 
 ## References
 
-[^ref-1]: [MobyGames – Lode Runner: The Legend Returns](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/) – developer Presage, publisher Sierra, release dates by platform (1994 DOS/Windows/Mac, 1996 PlayStation/Saturn), 75% critic average (15), 3.8/5 players (34), Games Magazine 1994 award, trivia (LR'94, C++ level 77, Cthulhu message), Best of Sierra Nr. 4
+[^ref-1]: [MobyGames – Lode Runner: The Legend Returns](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/) – developer Presage, publisher Sierra, release dates by platform (1994 DOS/Windows/Mac, 1996 PlayStation/Saturn), 76% critic average (17), 3.7/5 players (38), Moby Score 7.4 (read via the MobyGames API and page, checked 2026-11-12), Games Magazine 1994 award, trivia (LR'94, C++ level 77, Cthulhu message), Best of Sierra Nr. 4
 [^ref-2]: [Wikipedia – Lode Runner: The Legend Returns](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns) – remake of Lode Runner, tools, turf types, 150 levels in ten named worlds, 30 duo levels, editor, Wes Reckless, ending, Saturn by Game Arts, Pyramid and Next Generation reviews, PC Gamer nomination, Lode Runner Online, 1998 Natsume compilation
 [^ref-3]: [Presage Software – Lode Runner: The Legend Returns product page (Wayback, 1997)](https://web.archive.org/web/19970614014921/http://www.presage.com:80/pLRlegend.html) – Presage designed and developed both the Macintosh and Windows versions; Sierra is the publisher
 [^ref-4]: [MobyGames – Lode Runner: The Legend Returns credits (Windows 16-bit)](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/credits/) – full credits: Douglas E. Smith (original game), Jake Hoelter (director), engine and platform programmers, art, music, level designers, Jeff Tunnell Productions (Jeffrey Tunnell, Randy Dersham), Sierra QA
@@ -231,7 +239,7 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 [^ref-11]: [Electronic Games (December 1994) – "Lode Runner: Neo-classic goldbricking from Sierra" by Bill Kunkel, Internet Archive](https://archive.org/details/electronic-games-1994-12) – Jeff Tunnell's guidance, new backstory, ten worlds of 15 screens, controls, icon interface, tools, Game Generator, head-to-head, grade B+
 [^ref-12]: [The Sierra Chest – Lode Runner: The Legend Returns walkthrough](https://sierrachest.com/index.php?a=games&id=180&title=lode-runner&fld=walkthrough) – first release 1994-09-23, Presage/Sierra, IBM PC and Macintosh, world list, main menu functions, default controls, Wes Reckless
 [^ref-13]: [Wired 3.04 (April 1995) – "Hitting the Mother Lode" by Zach Meston, Internet Archive](https://archive.org/details/wired-magazine-03.04-1995-april) – review quotes, 150 levels, construction mode, US$45.95 for Mac, DOS and Windows
-[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.39/5 from 225 votes (checked 2026-10-15), HOTUD review text
+[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.39/5 from 226 votes (checked 2026-11-12), HOTUD review text
 [^ref-15]: [GOG Dreamlist – Lode Runner: The Legend Returns (1994)](https://www.gog.com/dreamlist/game/lode-runner-the-legend-returns-1994) – listed as a requested, unreleased title; vote count and user memories
 [^ref-16]: [IGN – Lode Runner: The Legend Returns (PlayStation review, March 27, 1998)](https://www.ign.com/articles/1998/03/27/lode-runner-the-legend-returns) – Natsume port of The Legend Returns and Extra, review by Adam Douglas, score 6 ("okay")
 [^ref-17]: [Next Generation No. 39 (March 1998) – Lode Runner (PlayStation) review, Internet Archive](https://archive.org/stream/next-generation-24-dec-1996/NEXT%20Generation%2039%20Mar%201998_djvu.txt) – Natsume/Presage PlayStation compilation, "adds little that's new"
@@ -241,3 +249,5 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 [^ref-21]: [Wikipedia – Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) – series table: The Legend Returns (1994, Presage/Sierra), Lode Runner Online (1995), Lode Runner 2 (1998, Presage, GT Interactive and MacSoft)
 [^ref-22]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform re-creation of Lode Runner Online, same graphics and gameplay; notes both games were developed by Presage and that the Presage Lode Runner titles are owned by Activision/Sierra
 [^ref-23]: [InterAction (Sierra), Fall 1995, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "The new Legend Returns has already taken Best New Arcade Game honors (Games Magazine) and was a finalist for Best Macintosh Game of the Year (Mac User Magazine)"
+[^ref-24]: [Inside Mac Games, September 1994 – "Sneak Peek: Lode Runner: The Legend Returns" by Hartley G. Lesser (discmaster.textfiles.com)](https://discmaster.textfiles.com/file/2769/TricksOfTheMacGameProgrammingGurus.iso/Information/Inside%20Mac%20Games/9409%20%28September%201994%29/IMG%20Sep%E2%81%8494/IMG%20Sep_94.rsrc/TEXT_137.txt) – pre-release preview (not a review): Hoelter "the most responsible party for the coding", published by Sierra/Dynamix, planned CD-ROM with two new worlds, 150 regular levels and "20 or so" two-player levels
+[^ref-25]: [Inside Mac Games, September 1994 – "IMG Interview: Presage Software" by Richard Rouse III (discmaster.textfiles.com)](https://discmaster.textfiles.com/file/2769/TricksOfTheMacGameProgrammingGurus.iso/Information/Inside%20Mac%20Games/9409%20%28September%201994%29/IMG%20Sep%E2%81%8494/IMG%20Sep_94.rsrc/TEXT_135.txt) – interview with Jake Hoelter: his role as director
