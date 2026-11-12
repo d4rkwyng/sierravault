@@ -3,25 +3,25 @@ title: Hoyle Card Games 2008
 release_year: 2007
 developer: Encore Software
 designer: [Unknown]
-publisher: Encore Software
+publisher: [Encore Software, Greenstreet Games]
 genre: Card Game
 platforms: [Windows, Mac]
 series: Hoyle
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Encore Software's 2007 Hoyle collection of 150+ card and solitaire games,
   released on a combined Windows/Mac OS X DVD.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Card Games 2008 is a collection of more than 150 card and solitaire games published by Encore Software[^ref-2][^ref-4]. It shipped on a combined PC/Mac DVD, and an October 2007 Inside Mac Games forum post greeted it as the first Hoyle release with Mac OS X compatibility, noting that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002[^ref-1]. Encore's own product page billed Hoyle as "the authority for over 200 years"[^ref-22]. GameSpot's page for the game, captured in October 2007, gives a release date of October 1, 2007 and listed it among that week's new releases[^ref-23]; Metacritic, GameFAQs, RAWG and Giant Bomb give the same date[^ref-4][^ref-5][^ref-7][^ref-21], while IGN alone lists September 11, 2007[^ref-15]. GameFAQs' release data records a European release by Greenstreet Games dated 04/07/08, a date format the listing does not specify[^ref-26]. In March 2008 Macgamestore.com and Encore released the Mac version as a download, noting it had previously been sold boxed only[^ref-24][^ref-25]. Amazon UK later carried a jewel-case edition with a listed release date of 26 January 2009[^ref-6].
+Hoyle Card Games 2008 is a collection of more than 150 card and solitaire games published by Encore Software[^ref-2][^ref-4]. It shipped on a combined PC/Mac DVD, and an October 2007 Inside Mac Games forum post greeted it as the first Hoyle release with Mac OS X compatibility, noting that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002[^ref-1][^ref-28]. Encore's own product page billed Hoyle as "the authority for over 200 years"[^ref-22]. GameSpot's page for the game, captured in October 2007, gives a release date of October 1, 2007 and listed it among that week's new releases[^ref-23]; Metacritic, GameFAQs, RAWG and Giant Bomb give the same date[^ref-4][^ref-5][^ref-7][^ref-21], while IGN alone lists September 11, 2007[^ref-15]. GameFAQs' release data records a European release by Greenstreet Games dated 04/07/08, a date format the listing does not specify[^ref-26], and GameSpot's current page for the game lists Greenstreet Games alongside Encore Software as publisher[^ref-27]. In March 2008 Macgamestore.com and Encore released the Mac version as a download, noting it had previously been sold boxed only[^ref-24][^ref-25]. Amazon UK later carried a jewel-case edition with a listed release date of 26 January 2009[^ref-6].
 
 The collection includes more than 75 card games, among them Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle and Rummy 500[^ref-2][^ref-3]. It also includes 55 solitaire games as a bonus, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. Online Texas Hold'em was among the advertised features[^ref-3][^ref-14][^ref-22].
 
@@ -30,7 +30,7 @@ The features list in Impulse Gamer's review describes the game as "PC/MAC compat
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-4]
 > **Designer:** Unknown
-> **Publisher:** Encore Software[^ref-4]
+> **Publisher:** Encore Software; Greenstreet Games (Europe)[^ref-4][^ref-26][^ref-27]
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-10]
 > **Release Year:** 2007[^ref-4]
@@ -48,7 +48,7 @@ Players can build an avatar with the Face Creator tool, "customizing everything 
 
 ### Interface and Controls
 
-One Amazon customer reviewer reported that the game "does work with Win10, although there is an odd left click right click system one must understand"[^ref-6]. In the Inside Mac Games thread about the three 2008 Hoyle titles, a forum user who said his team did the porting work explained that "the window sizes are fixed due to the sprite artwork, but you can toggle between full screen and window"[^ref-1].
+One Amazon customer reviewer, writing in July 2016, reported that the game "does work with Win10, although there is an odd left click right click system one must understand"[^ref-6]. In the Inside Mac Games thread about the three 2008 Hoyle titles, a forum user who said his team did the porting work explained that "the window sizes are fixed due to the sprite artwork, but you can toggle between full screen and window"[^ref-1].
 
 The game includes in-game tutorials and an official Hoyle rulebook and strategy guide; Impulse Gamer notes the rulebook is supplied as a PDF[^ref-7][^ref-9].
 
@@ -76,7 +76,7 @@ IGN has no review of the game and lists it as "NR"[^ref-15]. Metacritic shows no
 
 ### Modern Assessment
 
-User reviews are mixed. The Amazon UK listing shows 3.7 out of 5 stars from 359 global ratings (as captured January 2026)[^ref-6]. One reviewer there wrote that it "does work with Win10, although there is an odd left click right click system one must understand," and added that "the graphics are 20 years old," while still calling it "absolutely worth the price"[^ref-6].
+User reviews are mixed. The Amazon UK listing shows 3.7 out of 5 stars from 359 global ratings (as captured January 2026)[^ref-6]. One reviewer there, writing on 18 July 2016, wrote that it "does work with Win10, although there is an odd left click right click system one must understand," and added that "the graphics are 20 years old," while still calling it "absolutely worth the price"[^ref-6].
 
 WildTangent users rate the game 3.6 out of 5 from 146 ratings (as of October 2026)[^ref-14].
 
@@ -99,15 +99,16 @@ Metacritic, GameFAQs and Giant Bomb credit Encore Software as both developer and
 
 In the same Inside Mac Games thread, a forum user posting as "Hippieman" wrote of the 2008 Hoyle titles: "We did the porting work for both the Mac and Windows versions." His team isn't named in the thread, and no other source found here confirms the claim[^ref-1].
 
-Impulse Gamer reviewed the game in February 2008 with Mindscape listed as developer and a PG classification[^ref-9]. The review doesn't say which region the Mindscape release covered; since Impulse Gamer is an Australian site, it may have been an Australian release, but no source found here confirms that.
+Impulse Gamer reviewed the game in February 2008. Its review header labels Mindscape "Developer" and gives a PG classification, but the same reviewer's sibling review of Hoyle Puzzle & Board Games 2008, also from February 2008, lists "Distributor: Mindscape" with a price of $29.95AUD[^ref-9][^ref-29]. This indicates Mindscape was the Australian distributor, not a developer of the game.
 
 **Development Credits:**
 - **Developer / Publisher:** Encore Software[^ref-4][^ref-7]
-- **Credited by Impulse Gamer:** Mindscape[^ref-9]
+- **Australian distributor:** Mindscape, per Impulse Gamer[^ref-9][^ref-29]
+- **European publisher:** Greenstreet Games[^ref-26][^ref-27]
 
 ### Technical Achievements
 
-The game's PC and Mac versions shipped on a single DVD[^ref-1][^ref-9]; Encore's product page advertised "built-in compatibility for both PC and MAC users alike"[^ref-22]. According to the October 2007 Inside Mac Games post, it was the first Hoyle release compatible with Mac OS X; the last Mac OS 9-compatible versions had been released by Sierra in 2002[^ref-1].
+The game's PC and Mac versions shipped on a single DVD[^ref-1][^ref-9]; Encore's product page advertised "built-in compatibility for both PC and MAC users alike"[^ref-22]. According to the October 2007 Inside Mac Games post, it was the first Hoyle release compatible with Mac OS X; the last Mac OS 9-compatible versions had been released by Sierra in 2002[^ref-1][^ref-28].
 
 Online Texas Hold'em was advertised[^ref-3][^ref-14], but the available sources do not document the online infrastructure or how long servers ran.
 
@@ -141,10 +142,10 @@ No documented cut content has been identified in available sources.
 |---------|------|----------|-------|
 | Initial Release | October 1, 2007 | PC/Mac | US retail release, Encore Software[^ref-23][^ref-4][^ref-7][^ref-21] |
 | (IGN listing) | September 11, 2007 | PC | Date given by IGN only; not corroborated[^ref-15] |
-| Australian release? (inferred) | Reviewed February 2008 | PC/Mac | Inferred only from Impulse Gamer's review header, which credits Mindscape with a PG classification; region not stated[^ref-9] |
+| Australian distribution | Reviewed February 2008 | PC | Mindscape, listed as distributor in Impulse Gamer's sibling review of Puzzle & Board Games 2008 (priced $29.95AUD); the Card Games review header labels Mindscape "Developer" with a PG classification[^ref-9][^ref-29] |
 | Mac Digital Release | March 25, 2008 | Mac | Download via Macgamestore.com, US$19.95[^ref-24][^ref-25] |
-| EU Release | Listed as 04/07/08 (format unspecified) | PC | Greenstreet Games, per GameFAQs[^ref-26] |
-| Digital Release | May 7, 2008 | PC | WildTangent[^ref-14] |
+| EU Release | Listed as 04/07/08 (format unspecified) | PC | Greenstreet Games, per GameFAQs; GameSpot also lists Greenstreet Games as publisher[^ref-26][^ref-27] |
+| Digital Release | Listed as 5/7/2008 (format unspecified) | PC | WildTangent[^ref-14] |
 | Jewel Case | January 26, 2009 | PC | Amazon UK listing date[^ref-6] |
 
 ### Technical Issues
@@ -153,12 +154,12 @@ Users have reported a few technical issues:
 
 - **Left-click/right-click confusion:** One reviewer found that "sometimes a left click is required to move a card, sometimes only a right click will work"[^ref-6]
 - **Fixed window sizes:** The game cannot scale to higher resolutions; only full-screen and fixed-size window modes are available[^ref-1]
-- **Windows 10 compatibility:** The same reviewer reported that the game works on Windows 10[^ref-6]
+- **Windows compatibility (mixed reports):** Amazon UK reviewers disagree. One wrote that it "does work with Win10"[^ref-6]; another wrote "It will not properly play on Windows 10. Specifically it plays on the reduced size but if you alt+enter to go full screen it loses all audio"[^ref-6]; a third wrote "I cannot get this to work with Windows 7"[^ref-6]
 
 ### Easter Eggs and Trivia
 
 - **Hoyle Brand Heritage:** Encore's product page billed Hoyle as "the authority for over 200 years"[^ref-22]; the series is named after 18th-century card expert Edmond Hoyle[^ref-11]
-- **Mac Registration:** The registration key for Mac installation is printed on the back cover of the manual[^ref-1]
+- **Mac Registration:** The registration key for Mac installation is printed on the back cover of the manual[^ref-1][^ref-28]
 - **First DVD Release:** The feature list quoted by Impulse Gamer advertises the game as "on DVD for the first time"[^ref-9]
 
 ## Voice Cast
@@ -188,24 +189,25 @@ No significant fan projects, mods, or remakes have been documented for Hoyle Car
 
 ### Critical Perspective
 
-The original Hoyle's Official Book of Games: Volume 1 let players compete against Sierra characters such as Larry Laffer and Princess Rosella[^ref-11]. Hoyle Card Games 2008 instead uses its own cast of computer opponents, which Impulse Gamer described as ranging "from aliens to bears and of course... humans"[^ref-9]. Impulse Gamer praised the sheer quantity of content available[^ref-9], while a later Amazon reviewer called the graphics "20 years old"[^ref-6].
+The original Hoyle's Official Book of Games: Volume 1 let players compete against Sierra characters such as Larry Laffer and Princess Rosella[^ref-11]. Hoyle Card Games 2008 instead uses its own cast of computer opponents, which Impulse Gamer described as ranging "from aliens to bears and of course... humans"[^ref-9]. Impulse Gamer praised the sheer quantity of content available[^ref-9], while an Amazon reviewer in July 2016 called the graphics "20 years old"[^ref-6].
 
 The collection bundles official rules, tips and strategies with its games[^ref-14][^ref-22], and, according to a forum poster on Inside Mac Games, it was the first Hoyle release with Mac OS X support, the last Mac OS 9-compatible ones having come from Sierra in 2002[^ref-1]. It continued a series that had begun almost two decades earlier with [[Warren Schwader]]'s original pitch to Ken Williams[^ref-11].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [WildTangent](https://www.wildtangent.com/p/cards/hoyle-card-games/) - Windows version, still listed (checked October 2026)[^ref-14]
-- Not currently available on GOG or Steam
+- [WildTangent](https://www.wildtangent.com/p/cards/hoyle-card-games/) - Windows version, still listed (checked November 2026)[^ref-14]
+- Not currently available on GOG or Steam (checked November 2026)
 - The boxed retail edition is listed as discontinued; physical copies may be available from resellers[^ref-3]
 
 ## Downloads
 
 **Manuals & Extras**
-- Registration key for Mac printed on back cover of manual[^ref-1]
+- Registration key for Mac printed on back cover of manual[^ref-1][^ref-28]
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino 2008|→ Next: Hoyle Casino 2008]]
 
@@ -247,12 +249,12 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2007 - Hoyle Casino 2008]]
@@ -275,7 +277,7 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 [^ref-9]: [Impulse Gamer – Hoyle Card Games 2008 Review](https://www.impulsegamer.com/pchoylecardgames2008.html) – Contemporary review, scores, DVD format details
 [^ref-10]: [ESRB – Hoyle Card Games 2008 Rating](https://www.esrb.org/ratings/23475/hoyle-card-games-2008/) – Official ESRB rating, platform confirmation
 [^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
-[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements; still listed October 2026
+[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date (listed as 5/7/2008), user ratings, system requirements; still listed November 2026
 [^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
 [^ref-21]: [Giant Bomb – Hoyle Card Games 2008](https://www.giantbomb.com/hoyle-card-games-2008/3030-22573/) – Release date (October 1, 2007), developer/publisher Encore Software
 [^ref-22]: [Hoyle Gaming (Encore) – HOYLE Card Games (2008) product page, Wayback 13 Oct 2007](https://web.archive.org/web/20071013231510/http://www.hoylegaming.com:80/product.asp?id=1429) – Official features list, Windows/Mac requirements, 60-minute trial, $19.99 price
@@ -283,3 +285,6 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 [^ref-24]: [Macworld – Peter Cohen, "Hoyle Card Games available for download" (Mar 25, 2008)](https://www.macworld.com/article/189861/hoyle-3.html) – Macgamestore/Encore Mac download, $19.95, previously boxed only, Mac requirements
 [^ref-25]: [MacTech – "Macgamestore releases Hoyle Card Games" (Mar 25, 2008)](https://www.mactech.com/2008/03/25/macgamestore-releases-hoyle-card-games/) – Digital download release, US$19.95, Mac OS X 10.4.10 or later, demo available
 [^ref-26]: [GameFAQs – Hoyle Card Games 2008 release data, Wayback 31 Jan 2014](https://web.archive.org/web/20140131023304/http://www.gamefaqs.com:80/pc/943484-hoyle-card-games-2008/data) – US release Encore 10/01/07 (T); EU release Greenstreet Games 04/07/08
+[^ref-27]: [GameSpot – Hoyle Card Games 2008 (user reviews page)](https://www.gamespot.com/hoyle-card-games-2008/user-reviews/2200-332963/) – Publisher(s): "Encore Software, Inc., Greenstreet Games"; developer Encore Software, Inc.; release date 2007-10-01; ESRB T; fetched via ScraperAPI, November 2026
+[^ref-28]: [MacRumors Forums – "Hoyle Games for Mac are Back!" (Oct 2007 – May 2009)](https://forums.macrumors.com/threads/hoyle-games-for-mac-are-back.366850/) – Opening post (10 Oct 2007) repeats the Inside Mac Games post under a different username, including the first-OS-X claim, Sam's Club price and the Mac registration key on the manual's back cover; later replies ask where to find a registration number
+[^ref-29]: [Impulse Gamer – Hoyle Puzzle & Board Games 2008 Review](https://www.impulsegamer.com/pc/pchoylepuzzlegames2008.htm) – Sibling review (James Wright, February 2008): "Distributor: Mindscape", G classification, "$29.95AUD"
