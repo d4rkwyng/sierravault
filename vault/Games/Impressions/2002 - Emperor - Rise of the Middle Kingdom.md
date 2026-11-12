@@ -10,7 +10,7 @@ series: City Building Series
 engine: 2D-sprite game engine
 protagonist: Player as Emperor/City Administrator
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Jeff van Dyck]
 description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy game
   set in ancient China, developed by BreakAway Games in collaboration with Impressions
@@ -19,13 +19,13 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
 # Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning over 3,000 years of Chinese history[^ref-21], from the Xia Dynasty (c. 2100 BCE) up to the invasion of northern China by Genghis Khan (c. 1211 CE)[^ref-17]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
+Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning 3,000 years of Chinese history[^ref-18], from the Xia Dynasty (c. 2100 BCE) up to the invasion of northern China by Genghis Khan (c. 1211 CE)[^ref-17]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
 
-The game challenges players to construct and manage Chinese cities through seven imperial dynasties, balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, one GOG.com reviewer calls Emperor "the pinnacle of the series"[^ref-4].
+The game challenges players to construct and manage Chinese cities through seven imperial dynasties[^ref-18], balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, one GOG.com reviewer calls Emperor "the pinnacle of the series"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** BreakAway Games, [[Impressions Games]][^ref-1]
@@ -205,8 +205,8 @@ While specific sales figures were not documented in the available research, Empe
 
 Emperor: Rise of the Middle Kingdom was re-released through several channels:
 - **GOG.com:** Digital release in February 2017[^ref-4]
-- **Sold Out Software:** Budget re-release[^ref-30]
-- **Sierra Bestseller Series:** European budget re-releases in multiple languages including German and Slovene[^ref-34]
+- **Sold Out Software:** Re-release[^ref-30]
+- **Sierra Bestseller Series:** German and Slovene editions[^ref-34]
 
 ### Fan Projects
 
@@ -248,25 +248,16 @@ The game also holds significance as the last entry in the series to use the 2D-s
 
 ## See Also
 
-- [[1996 - Casino Deluxe 2|← Previous: Casino Deluxe 2]]
-
 **City Building Series**
 - [[City Builders Series]]
+- [[1992 - Caesar]]
+- [[1995 - Caesar II]]
 - [[1998 - Caesar III]]
 - [[1999 - Pharaoh]]
+- [[2000 - Cleopatra - Queen of the Nile]]
 - [[2000 - Zeus - Master of Olympus]]
+- [[2001 - Poseidon - Master of Atlantis]]
 - [[2006 - Caesar IV]]
-
-**Other Impressions Games**
-
-- [[1991 - Cohort Fighting for Rome]]
-- [[1992 - Air Bucks]]
-- [[1993 - Cohort II - Fighting for Rome]]
-- [[1994 - Detroit]]
-- [[1995 - Breach 3]]
-- [[1995 - Casino De Luxe]]
-- [[1995 - Conqueror - A.D. 1086]]
-- [[1995 - Powerhouse]]
 
 ## References
 
