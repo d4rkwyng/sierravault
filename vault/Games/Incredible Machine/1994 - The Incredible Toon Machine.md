@@ -7,23 +7,23 @@ publisher: Sierra On-Line
 genre: Puzzle
 platforms: [Windows 3.x, Mac]
 series: The Incredible Machine
-engine: Physics Simulator
+engine: Physics simulation engine
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher Stevens, Kenneth Rogers, Timothy Steven Clarke, Jan Paul Moorhead, Brian Hahn]
 description: "The Incredible Toon Machine is a 1994 Rube Goldberg-style puzzle game for Windows and Macintosh, published by Sierra On-Line and developed by Jeff Tunnell Productions and Presage Software as an update of Sid & Al's Incredible Toons."
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Toon Machine
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The Incredible Toon Machine is a puzzle game released in 1994 by [[Sierra On-Line]], developed by [[Jeff Tunnell Productions]] with development work also handled by Presage Software Development Company for both the Windows and Macintosh versions.[^ref-1][^ref-2] The game updates [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), the cartoon-themed spin-off of The Incredible Machine series, adding a range of in-puzzle animations to its puzzle-solving.[^ref-1]
 
-The game challenges players to complete a series of Rube Goldberg contraptions with crucial parts deliberately left out, using a selection of over 71 gadgets and cartoon-themed items.[^ref-5][^ref-6] While not considered an official part of The Incredible Machine series proper, it was created by designer Chris Cole as "essentially a cartoon version of the same concept."[^ref-7] MobyGames' description lists "130 new mind-crushing puzzles," a player versus player mode and a "Hometoons" facility to design your own levels;[^ref-1][^ref-8] Wikipedia, drawing on the *Boston Globe* review, counts 100 puzzles divided into four groups.[^ref-12]
+The game challenges players to complete a series of Rube Goldberg contraptions with crucial parts deliberately left out, using a selection of over 71 gadgets and cartoon-themed items.[^ref-5][^ref-6] While not considered an official part of The Incredible Machine series proper, it was created by designer Chris Cole as "essentially a cartoon version of the same concept."[^ref-7][^ref-36] MobyGames' description lists "130 new mind-crushing puzzles," a player versus player mode and a "Hometoons" facility to design your own levels;[^ref-1][^ref-8] Wikipedia counts 100 puzzles divided into four groups.[^ref-12]
 
 What distinguished The Incredible Toon Machine from its more realistic counterparts was the emphasis on cartoon physics and humorous animations. *Computer Gaming World* noted that "the difference in the Toon version is that the result is always some wild animation where the cute, but not cuddly, creatures get anvils on the head and singed by dragon fire in order to get a chuckle out of you."[^ref-8] GamePressure describes the game as intended for younger audiences (from 6 years upwards) and mainly dedicated to kids, with its difficulty and puzzle subject matter adapted accordingly.[^ref-10]
 
@@ -32,7 +32,7 @@ What distinguished The Incredible Toon Machine from its more realistic counterpa
 > **Designer:** Chris Cole, Jeffrey Tunnell, [[Brian Hahn]][^ref-1]
 > **Executive Producer:** Jeffrey Tunnell[^ref-36]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Physics Simulator[^ref-11]
+> **Engine:** Physics simulation engine[^ref-11]
 > **Platforms:** Windows 3.x, Mac[^ref-1]
 > **Release Year:** 1994 (Windows and Macintosh)[^ref-1]
 > **Series:** The Incredible Machine
@@ -80,7 +80,7 @@ Copy protection was implemented through a password system requiring players to r
 
 ### Contemporary Reviews
 
-*The Boston Globe* reviewer Adam Baratz gave The Incredible Toon Machine 4 out of 5 in his June 5, 1995 review, and *Computer Player* scored it 8/10 in April 1995.[^ref-12] *Computer Gaming World*'s 1994 notice (quoted in the Overview) stressed that "the entertainment value has been punched up to the limit."[^ref-8]
+*The Boston Globe* reviewer Adam Baratz gave The Incredible Toon Machine 4 out of 5 in his June 5, 1995 review, and *Computer Player* scored it 8/10 in April 1995. The *Evansville Courier and Press* scored it 2.5/4 on July 12, 1995, and *Computer Game Review* ran a preview in its December 1994 issue.[^ref-12] *Computer Gaming World*'s 1994 notice (quoted in the Overview) stressed that "the entertainment value has been punched up to the limit."[^ref-8]
 
 **Reception of the 1993 original.** [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], the game this release updates, was reviewed on its own: *Electronic Entertainment*'s March 1994 review scored it 8 on a 1-to-10 scale ("Rube Goldberg meets Wile E. Coyote"; Wikipedia's prose renders this as 80 out of 100), and it was a runner-up for *Computer Gaming World*'s Strategy Game of the Year in June 1994.[^ref-39][^ref-4] Those scores belong to the 1993 game, not to this one; see its page for its full reception.
 
@@ -89,7 +89,7 @@ Copy protection was implemented through a password system requiring players to r
 The Home of the Underdogs review, reproduced on MyAbandonware, calls it "one puzzler that will keep you glued to the screen until the wee hours" and "a must-have for every puzzle fan."[^ref-8]
 
 **Aggregate Scores:**
-- **MobyGames:** 93% (Critics)[^ref-1]
+- **MobyGames:** 93% (from 1 critic rating)[^ref-1]
 - **MyAbandonware:** 4.56/5 (27 user votes, October 2026)[^ref-8]
 - **GamePressure:** 7.2 (User Rating)[^ref-10]
 
@@ -243,7 +243,7 @@ The original games remain available through abandonware preservation sites and g
 
 ## References
 
-[^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score, release list including the 1995 Kidsoft re-release and media types (read via the MobyGames API), description text
+[^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score, release list including the 1995 Kidsoft re-release and media types, description text
 [^ref-2]: [Presage Software Archive (1997)](https://web.archive.org/web/19970614015227/http://www.presage.com/pTITM.html) – Presage development of Mac and Windows versions
 [^ref-3]: [Dynamix Fandom Wiki – Sid & Al's Incredible Toons](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer credits, composer credits, Electronic Entertainment review, CGW praise, trading cards
 [^ref-4]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_&_Al's_Incredible_Toons) – review scores, awards, platform information
