@@ -10,7 +10,7 @@ series: None
 engine: Unknown
 protagonist: None (player-controlled mine cart)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Mine Shaft is a maze action game developed by Sierra On-Line for IBM
   and released as one of the four launch cartridges for the IBM PCjr entry model.
   The player steers a mine cart collecting diamonds while shooting runaway mining robots.
@@ -18,7 +18,7 @@ tags: [1980s, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -28,18 +28,18 @@ The player steers a mining car through a network of tunnels, collecting diamonds
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1][^ref-18]
-> **Designer:** John Redekopp (Programmer)[^ref-1]
-> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists an Apple II release published by Sierra On-Line[^ref-1]; *PeaNut* (May/June 1984) says the game was "originally written for the Apple"[^ref-33])
+> **Designer:** John Redekopp (Programmer; credited with the PCjr port)[^ref-1][^ref-24]. The original game, *[[1982 - Creepy Corridors|Creepy Corridors]]*, was Chuck Bueche's[^ref-24]
+> **Publisher:** IBM[^ref-1][^ref-8][^ref-18][^ref-37] (MobyGames also lists an Apple II release published by Sierra On-Line[^ref-1]; *PeaNut* (May/June 1984) says the game was "originally written for the Apple"[^ref-33])
 > **Engine:** Unknown
-> **Platforms:** PC Booter, PCjr Cartridge[^ref-1][^ref-3][^ref-15]
-> **Release Year:** 1983 (copyright); sources differ on first sale: the November 1983 PCjr announcement[^ref-26], dealer shipments from 13 January 1984[^ref-30] (Sierra Chest: 1984-01-01[^ref-3]), or March 1984 per Retro365[^ref-24]
+> **Platforms:** PC Booter, PCjr Cartridge[^ref-1][^ref-3][^ref-15][^ref-37]
+> **Release Year:** 1983 (copyright)[^ref-37]; sources differ on first sale: the November 1983 PCjr announcement[^ref-26], dealer shipments from 13 January 1984[^ref-30] (Sierra Chest: 1984-01-01[^ref-3]), or March 1984 per Retro365[^ref-24]
 > **Series:** None
 > **Protagonist:** None (player-controlled mine cart)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-MobyGames' description sets the scene at a gemstone mine whose mining robots have started "going haywire and wrecking equipment". Instead of abandoning the mine, the player stays to dig out the crystals and escape before the robots destroy the mine cart[^ref-1][^ref-5]. Period listings described the same premise: "Players maneuver a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-20]. IBM's own catalogue described "a number of runaway robot miners that seem bent on destruction of the mining car"[^ref-27], and its *The Guide* (November 1983) framed the story as a flood that "short-circuited your dependable team of robot miners, and now they're running amok"[^ref-29].
+MobyGames' description sets the scene at a gemstone mine whose mining robots have started "going haywire and wrecking equipment". Instead of abandoning the mine, the player stays to dig out the crystals and escape before the robots destroy the mine cart[^ref-1][^ref-5]. Period listings described the same premise: "Players maneuver a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-20]. IBM's own catalogue described "a number of runaway robot miners that seem bent on destruction of the mining car"[^ref-27], and its *The Guide* (November 1983) framed the story as a flood that "short-circuited your dependable team of robot miners, and now they're running amok"[^ref-29]. The cartridge's packaging copy reads: "Danger! Floodwaters have short-circuited your robot miners... and now they're running berserk, threatening to collide with your mining car."[^ref-37]
 
 ## Gameplay
 
@@ -78,7 +78,7 @@ MobyGames users give it an average of 2.8 out of 5 (13 ratings, 3 reviews)[^ref-
 
 According to Retro365, Mine Shaft began as Chuck Bueche's *Creepy Corridors*, which John Redekopp ported to the PCjr for IBM. Retro365 says it was released "in March of 1984 when the IBM PCjr became available", even though "the copyright says 1983"[^ref-24]. *PC Magazine* (24 January 1984, pp. 142-143) independently called Mine Shaft "a version of Creepy Corridors", describing mazes "with diamonds in the four corners" and a doorway to the next maze once all four are reached[^ref-26]. *PeaNut* (May/June 1984) says it "was originally written for the Apple and released on a disk containing three other games more than a year ago"[^ref-33], which matches *Creative Computing*'s February 1983 description of *Laf Pak* as a disk of four games including Creepy Corridors[^ref-36]. Redekopp's credit as the porter still rests on Retro365 and MobyGames. Wiswell's *PC Magazine* reply names Creepy Corridors separately from Mine Shaft[^ref-19].
 
-Sierra's PCjr work was a large bet for the company. In an April 1984 profile, *PCjr Magazine* reported that Ken Williams said Sierra "had to spend about $1 million of its own money to develop the Junior software". He also said the IBM contract carried little money up front, and that "We went so far in the hole for development, it's incredible."[^ref-22] The same profile names the cartridges Crossfire and Mine Shaft, together with the HomeWord word processor, as the products of that effort[^ref-22].
+Sierra's PCjr work was a large bet for the company. In an April 1984 profile, *PCjr Magazine* reported that Ken Williams said Sierra "had to spend about $1 million of its own money to develop the Junior software". He also said the IBM contract carried little money up front, and that "We went so far in the hole for development, it's incredible."[^ref-22] The same profile names the cartridges Crossfire and Mine Shaft, together with the HomeWord word processor, as the products of that effort[^ref-22]. Williams recalled being called to IBM's facilities in June 1982 to discuss software games for the PCjr, after Sierra's high-resolution adventure *Adventure in Serenia* had caught IBM's attention: "They called and said they wanted games."[^ref-22]
 
 ### Production
 
@@ -102,6 +102,15 @@ MobyGames trivia speculates that because the game uses the PC speaker and only f
 - **Business Model:** Commercial
 
 Nerdly Pleasures notes that Sierra's PCjr games "do not really support more than 4-color 320x200 graphics and PC speaker sound, although the color choices are not limited to the CGA palettes"[^ref-15].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| *Creepy Corridors* (original) | 1982 | Apple II | Chuck Bueche's game, on the four-game *Laf Pak* disk, advertised as "available now" in *Softline*, May 1982[^ref-38][^ref-36][^ref-24] |
+| PCjr cartridge (announced) | November 1983 | IBM PCjr | Named among Sierra products "represented by finished products at the November PCjr announcement"[^ref-26] |
+| PCjr cartridge (shipping) | From January 1984 | IBM PCjr | IBM shipping the PCjr to dealers from 13 January; Mine Shaft among the four game cartridges released[^ref-30] |
+| PC Booter | Listed by MobyGames | PC Booter | Listed as a separate platform; no further details[^ref-1] |
 
 ### Easter Eggs and Trivia
 
@@ -178,3 +187,5 @@ Critics at launch found the game competent but derivative. *PCjr Magazine* judge
 [^ref-34]: [Cobb and DeVoney, Introducing IBM PCjr (Que, 1983), pp. 172-173](https://archive.org/details/Introducing_IBM_PCjr) – robot types (Maintainers, High-Steppers, Gatherers), ten levels
 [^ref-35]: [Michael Bane, The IBM PCjr User's Guide (Macmillan, 1984), p. 53](https://archive.org/details/The_IBM_PCjr_Users_Guide) – "Mine Shaft, originally designed by Sierra On-Line"; "basically a Pac-Man clone"
 [^ref-36]: [Creative Computing, February 1983 – Laf Pak software profile](https://archive.org/details/Creative_Computing_1983-02) – Laf Pak: a disk of four games including Creepy Corridors (context for the port; does not mention Mine Shaft)
+[^ref-37]: [Eli's Software Encyclopedia – Mine Shaft (PCjr, Cartridge) IBM – 1983 USA, Canada Release](https://elisoftware.org/wiki/Mine_Shaft_(PCjr,_Cartridge)_IBM_-_1983_USA,_Canada_Release) – cartridge, plastic box, copyright 1983, publisher IBM, developer Sierra; packaging description
+[^ref-38]: [Softline, May 1982 (Internet Archive)](https://archive.org/details/Softline_1982_05) – On-Line Systems advertisement: "LAF PAK runs on any 48K Apple II/II+ DOS 3.3 only. Available now for $34.95"

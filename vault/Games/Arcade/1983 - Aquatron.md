@@ -10,7 +10,7 @@ series: None
 engine: Custom (Machine Language)
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Aquatron is a horizontally scrolling shooter developed by Justin Gray
   and published by Sierra On-Line in 1983 for Apple II and Atari 8-bit computers.
   Inspired by Defender, it lets the player fight both above and below the surface
@@ -19,7 +19,7 @@ tags: [1980s, shooter, sierra]
 ---
 # Aquatron
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -60,7 +60,7 @@ The player's spacecraft can be turned to face either direction and moves across 
 
 ### Structure and Progression
 
-The game follows a level-based structure where each successive stage presents increased enemy opposition.[^ref-5] Enemy types are gradually introduced across ten levels; Wikipedia counts nine of them,[^ref-1] while *Computer Games* counted six, besides the parachute-dropped submarines.[^ref-24][^ref-27] The scoring table in the Atari manual lists nine enemy types: Bomber, Sub Chute, Submarine, Escort, Helicopter, Power Mine, Contact Mine, Interceptor and Emergency Chute.[^ref-25] The manual also awards a free base ship every 20,000 points and sends players into a "Suicide Level" after the ninth level.[^ref-25] Since there is no defined ending, progression is measured purely by score accumulation and survival time.[^ref-9]
+The game follows a level-based structure where each successive stage presents increased enemy opposition.[^ref-5] Enemy types are gradually introduced across ten levels; Wikipedia counts nine of them,[^ref-1] while *Computer Games* (July/August 1984) counted "six other enemies" besides the parachute-dropped submarines.[^ref-27] (The February 1985 reprint words it as six enemies "including" the parachutes.)[^ref-24] The scoring table in the Atari manual lists nine enemy types: Bomber, Sub Chute, Submarine, Escort, Helicopter, Power Mine, Contact Mine, Interceptor and Emergency Chute.[^ref-25] The manual also awards a free base ship every 20,000 points and sends players into a "Suicide Level" after the ninth level.[^ref-25] Since there is no defined ending, progression is measured purely by score accumulation and survival time.[^ref-9]
 
 - **Above-Water Combat:** Players engage enemy interceptors and shuttles in aerial dogfights.[^ref-11]
 - **Underwater Combat:** Diving beneath the surface to battle submarines and U-boats, though one Atarimania commenter noted that the lack of underwater explosions "seems unfinished."[^ref-3][^ref-11]
@@ -80,7 +80,7 @@ Firing continues when the missile supply runs out because the blasters are unlim
 
 *Softalk* magazine reviewed Aquatron in February 1984, noting that it arrived "just when Atari is getting ready to release Defender for the Apple." The review awarded it three stars out of four for playability and concluded: "In all, Aquatron isn't the thinking person's arcade game. Just sit down, blast away, and have a ball." *Softalk* listed the price as $29.95.[^ref-22][^ref-1] Its March 1984 product directory described the game as a "smoothly executed, playable descendant of Defender" at $29.95, dated 2/84.[^ref-29]
 
-*Computer Games* had already graded it C in its July/August 1984 issue, calling it "Another pretty standard shoot-'em-up that kind of grows on you" and noting "you make a real splash when you dive into the water." The reviewer found the graphics "very simple" and the sound "average Apple," and judged the game "somewhat addicting, but it also can be monotonous."[^ref-27] *Computer Games* magazine's *1985 Software Buyer's Guide* (February 1985) provided a more measured evaluation, awarding the game a grade of C.[^ref-24] The review described it as "A horizontally scrolling Defender clone with a twist" with six enemies, including "Time Pilot-like parachutes that drop out of the sky and turn into missile-spewing subs," and noted that "Graphics and sound are very simple. There are a few nice touches and the game is slightly addicting, but it can easily become monotonous."[^ref-24][^ref-1]
+*Computer Games* had already graded it C in its July/August 1984 issue, calling it "Another pretty standard shoot-'em-up that kind of grows on you" and noting "you make a real splash when you dive into the water." The reviewer found the graphics "very simple" and the sound "average Apple," and judged the game "somewhat addicting, but it also can be monotonous."[^ref-27] *Computer Games* magazine's *1985 Software Buyer's Guide* (February 1985) reprinted the C grade along with a shortened version of the same review, describing it as "A horizontally scrolling Defender clone with a twist" with six enemies, "including Time Pilot-like parachutes that drop out of the sky and turn into missile-spewing subs," and noting that "Graphics and sound are very simple. There are a few nice touches and the game is slightly addicting, but it can easily become monotonous."[^ref-24]
 
 *Computer Entertainer* (April 1984) was unimpressed: "We couldn't get excited about Aquatron because it's just too similar to dozens of other games on the market." The newsletter called the game "very fast" but "not particularly challenging unless you're a real beginner at video games," and listed it as "Not recommended" at an MSR of $29.95.[^ref-30] Listings of the period were more neutral. *Computer Gaming World* (February 1984) described it as "A Defender style game that combines air and sea fighting,"[^ref-32] and *Electronic Games* (March 1985) said it "blends airborne and undersea combat" in a survey of Apple shoot-'em-ups.[^ref-31] *Computer & Video Games* (August 1985) listed it, with the note "A superb version of Defender," in a feature titled "Atari Software You May Never See."[^ref-33]
 
@@ -91,7 +91,7 @@ Retrospective evaluations from the retro gaming community have been more enthusi
 The retro gaming blog Retro365 noted that "The game looked and played just as well as the game it copied with fast-paced action and responsive controls."[^ref-6] However, the same retrospective acknowledged that "Aquatron played well and did what it was set out to do but no matter how good the game was or how much effort its name had required, it arrived at the wrong time."[^ref-6]
 
 **Aggregate Scores:**
-- **MobyGames:** 3.6/5 (5 player ratings), 67% critics (1 review)[^ref-5]
+- **MobyGames:** 5 player ratings (read via the MobyGames API, November 2026)[^ref-5]
 - **Atarimania:** 8.0/10 (28 votes)[^ref-3]
 - **MyAbandonware:** 3/5 (1 vote)[^ref-12]
 
@@ -144,9 +144,12 @@ An Atarimania commenter reports that the Atari version "was developed as a 16K c
 | 1.0 | 1983 | Atari 8-bit | Initial release on disk[^ref-5] |
 | 1.0 | 1983/1984 | Apple II | Release timing disputed between sources[^ref-5][^ref-14] |
 | Archive | 2014 | Atari 8-bit | Internet Archive preservation[^ref-9] |
+| Re-release | c. 1986 | Atari 8-bit | Main Street Publishing edition; its manual is dated 1986 per the Internet Archive item[^ref-25] |
 | WOZ | 2018-07-29 | Apple II | Woz-a-day preservation by 4am and san inc[^ref-8] |
 
-**Release Date Discrepancy:** Sources conflict on whether the Apple II version released in 1983 or early 1984. MobyGames lists the Atari version as 1983 and Apple II as 1984[^ref-5], while other sources list both as 1983.[^ref-1] GameFAQs lists the Atari 8-bit release as 1983 and the Apple II release as March 1984.[^ref-14] *Softalk* reviewed the Apple II version in its February 1984 issue,[^ref-22] and its March 1984 directory lists the game as 2/84.[^ref-29] *Creative Computing*'s 1984 Software Buyer's Guide describes it under Sierra On-Line as "Jet into action and defend against enemy attackers," for Apple and Atari at $29.95.[^ref-28]
+The Atari manual cited throughout this page for gameplay details (ref-25) comes from the Main Street Publishing re-release.[^ref-25]
+
+**Release Date Discrepancy:** Sources conflict on whether the Apple II version released in 1983 or early 1984. MobyGames lists the Atari version as 1983 and Apple II as 1984[^ref-5], while other sources list both as 1983.[^ref-1] GameFAQs lists the Atari 8-bit release as 1983 and the Apple II release as March 1984.[^ref-14] *Softline* (January–February 1984) listed it for Apple and Atari at $29.95 as "Air-sea arcade battle" against "bombers, escorts, interceptors, power mines, and subs."[^ref-34] *Computer Entertainer*'s April 1984 release calendar marks it shipped ("x") under Apple II for March 1984.[^ref-30] *Softalk* reviewed the Apple II version in its February 1984 issue,[^ref-22] and its March 1984 directory lists the game as 2/84.[^ref-29] *Creative Computing*'s 1984 Software Buyer's Guide describes it under Sierra On-Line as "Jet into action and defend against enemy attackers," for Apple and Atari at $29.95.[^ref-28]
 
 ### Technical Issues
 
@@ -170,7 +173,7 @@ Atarimania commenters have reported several issues:[^ref-3]
 
 Aquatron's commercial performance was hampered by its unfortunately timed release during the video game crash of 1983.[^ref-6] *Popular Computing* wrote in September 1984 that "the name Aquatron apparently carried too much ballast—the game's sales never went much above sea level."[^ref-23] No exact sales figures have been documented.
 
-Retro365 notes that Aquatron "didn't leave any lasting impacts on gaming history and only saw limited distribution," and that the crash "ended Sierra's efforts to profit from its dedicated arcade and cartridge-based games."[^ref-6] Sierra would ultimately become far better known for adventure games like *King's Quest* than for action games like Aquatron.
+Retro365 notes that Aquatron "didn't leave any lasting impacts on gaming history and only saw limited distribution," and that the crash "ended Sierra's efforts to profit from its dedicated arcade and cartridge-based games."[^ref-6]
 
 ### Fan Projects
 
@@ -190,14 +193,12 @@ Aquatron occupies an interesting position in Sierra On-Line's history as an exam
 
 The game represents a competent execution of an established formula rather than a notable innovation. Its dual-environment gameplay—fighting both in the air and underwater—and its proximity missile gave it some distinction from other *Defender* clones,[^ref-6][^ref-22] while ammunition and shield management added a resource element.[^ref-5] Its timing, arriving as the market collapsed, overshadowed what reviewers saw as solid execution.[^ref-6][^ref-23]
 
-Atarimania users rate Aquatron 8.0/10,[^ref-3] warmer than the C grade it received from *Computer Games* in 1984 and 1985.[^ref-27][^ref-24]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+Atarimania users rate Aquatron 8.0/10,[^ref-3] warmer than the C grade from *Computer Games* (July/August 1984, reprinted February 1985).[^ref-27][^ref-24]
 
 ## Downloads
+
+**Purchase / Digital Stores** (checked November 2026)
+- Not currently available on GOG or Steam
 
 **Download / Preservation**
 - [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Aquatron_1983_Sierra_On_Line_US)
@@ -247,8 +248,8 @@ Atarimania users rate Aquatron 8.0/10,[^ref-3] warmer than the C grade it receiv
 [^ref-21]: [Internet Archive – Aquatron [14k file (san inc pack)]](https://archive.org/details/a2_asimov_aquatron_14k_file_san_inc_pack) – item description: air and sea battles, base resupply
 [^ref-22]: [Softalk, February 1984 – Marketalk Reviews (pp. 141–142)](https://archive.org/details/softalkv4n06feb1984/page/140/mode/2up) – review: proximity missile, three of four stars for playability, joystick vs keyboard, $29.95
 [^ref-23]: [Popular Computing, September 1984 – "What's in a Name?" by Steven Levy](https://archive.org/details/popular-computing-1984-09/page/n43/mode/2up) – six name changes, Ken Williams quote on the delay, poor sales
-[^ref-24]: [Computer Games, February 1985 – 1985 Software Buyer's Guide](https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n11/mode/2up) – grade C review, six enemies, Time Pilot-like parachutes
-[^ref-25]: [Internet Archive – Aquatron manual (Atari, Main Street Publishing, 1986)](https://archive.org/details/aquatron-main-street-publishing) – controls, missiles vs blasters ("You will never run out of blasters"), base ship and rescue chute, nine-enemy scoring table, free base ship per 20,000 points, Suicide Level
+[^ref-24]: [Computer Games, February 1985 – 1985 Software Buyer's Guide](https://archive.org/details/Computer_Games_Vol_3_No_5_1985-02_Carnegie_Publications_US/page/n11/mode/2up) – reprint of the July/August 1984 review in shortened form: grade C, six enemies including Time Pilot-like parachutes
+[^ref-25]: [Internet Archive – Aquatron manual (Atari, Main Street Publishing, 1986)](https://archive.org/details/aquatron-main-street-publishing) – manual from the later Main Street Publishing re-release (dated 1986 per the Internet Archive item); controls, missiles vs blasters ("You will never run out of blasters"), base ship and rescue chute, nine-enemy scoring table, free base ship per 20,000 points, Suicide Level
 [^ref-26]: [Internet Archive – Aquatron (4am crack)](https://archive.org/details/Aquatron4amCrack) – Apple ][+ or later, single-sided 5.25-inch floppy, DOS 3.3 bootloader, Sierra protection check, credits (Justin Gray; Sierra On-Line)
 [^ref-27]: [Computer Games, July/August 1984 (Vol. 3 No. 3)](https://archive.org/details/computer_games_julaug84/page/n50/mode/2up) – original review, grade C, "six other enemies," Time Pilot-like parachutes
 [^ref-28]: [Creative Computing Software Buyer's Guide 1984](https://archive.org/details/creative-computing-software-buyers-guide-1984) – Sierra On-Line entry for Aquatron: Apple, Atari, $29.95
@@ -257,3 +258,4 @@ Atarimania users rate Aquatron 8.0/10,[^ref-3] warmer than the C grade it receiv
 [^ref-31]: [Electronic Games, March 1985 (Vol. 3 No. 3)](https://archive.org/details/Electronic_Games_Volume_03_Number_03_1985-03_Reese_Communications_US/page/n29/mode/2up) – Apple shoot-'em-up survey: "blends airborne and undersea combat"
 [^ref-32]: [Computer Gaming World, February 1984 (Vol. 4 No. 1)](https://archive.org/details/Computer_Gaming_World_Issue_4.1/page/n9/mode/2up) – Sierra On-Line product listing: Defender-style game combining air and sea fighting, Apple
 [^ref-33]: [Computer & Video Games #46, August 1985](https://archive.org/details/c-vg-46-1995-08) – "Atari Software You May Never See" list: "Aquatron (A superb version of Defender)"
+[^ref-34]: [Softline, January–February 1984 (Vol. 3 No. 3)](https://archive.org/details/Softline_Magazine_Issue_3.3) – new-arrivals catalog: "Aquatron. Gray. Apple. Atari. Air-sea arcade battle…" Sierra On-Line, $29.95
