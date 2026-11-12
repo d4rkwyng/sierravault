@@ -10,18 +10,18 @@ series: Laf Pak
 engine: 6502 Assembly
 protagonist: Sierra Smith
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Creepy Corridors is a maze-based arcade game originally developed by
   Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation...
 tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Creepy Corridors is a maze-based arcade game originally developed by Chuck Bueche and published by Sierra On-Line (then On-Line Systems) in 1982 as part of the Laf Pak compilation for the Apple II.[^ref-3][^ref-6][^ref-21] In the game, adventurer Sierra Smith enters the catacombs of Creepy Corridors in search of treasure, collecting diamonds while avoiding or shooting the monsters that roam the maze.[^ref-4] MobyGames compares it to Wizard of Wor, and a MobyGames player review says its mechanics are "the same as in Mr. Do!"[^ref-4][^ref-5] The game is best remembered as allegedly the third Apple II game ever to feature sampled speech.[^ref-3]
+Creepy Corridors is a maze-based arcade game originally developed by Chuck Bueche and published by Sierra On-Line (then On-Line Systems) in 1982 as part of the [[1982 - Laf Pak|Laf Pak]] compilation for the Apple II.[^ref-3][^ref-6][^ref-21] In the game, adventurer Sierra Smith enters the catacombs of Creepy Corridors in search of treasure, collecting diamonds while avoiding or shooting the monsters that roam the maze.[^ref-4] A full-page Sierra On-Line ad in *Softline* (November-December 1983) was headed "SAVE SIERRA SMITH IN CREEPY CORRIDORS!" and billed Smith as "a real jewel of an adventurer."[^ref-29] MobyGames compares it to Wizard of Wor, and a MobyGames player review says its mechanics are "the same as in Mr. Do!"[^ref-4][^ref-5] The game is best remembered as allegedly the third Apple II game ever to feature sampled speech.[^ref-3]
 
 Originally bundled with three other games (Apple Zap, Mine Sweep, and Space Race) on the Laf Pak disk, Creepy Corridors was the only Laf Pak game to be ported on its own: Don McGlauflin converted it to the Commodore VIC-20 as a SierraVision cartridge in 1983.[^ref-1][^ref-6][^ref-20] It came out years before Sierra became known for its King's Quest adventure series.[^ref-5] Laf Pak itself was not a commercial success, and the VIC-20 cartridge sold only a small number of copies.[^ref-6] Bueche went on to co-found Origin Systems and appeared in the Ultima games as the court jester "Chuckles."[^ref-6]
 
@@ -138,7 +138,7 @@ On the VIC-20, which cannot do sprites in the conventional sense, the port uses 
 
 The sampled death scream had to be dropped from the VIC-20 cartridge port, because the limited computer and the small cartridge did not leave room for it.[^ref-6]
 
-MobyGames notes that the game "was also advertised for Atari 8-bit and Commodore 64 but these versions were not released."[^ref-4] According to Games That Weren't, "The advert mentions Atari, Com 64 and Vic 20. But the Commodore 64 version is nowere to be seen."[^ref-14] A screenshot that appeared in advertisements seems to be a mockup with a hi-res font compared to the VIC-20 edition, which could well be based on what the C64 version looked like.[^ref-14] The Sierra Chest nonetheless lists Atari 400/800 among the game's platforms, though its only packaging entry is the VIC-20 SierraVision box.[^ref-9]
+MobyGames notes that the game "was also advertised for Atari 8-bit and Commodore 64 but these versions were not released."[^ref-4] According to Games That Weren't, "The advert mentions Atari, Com 64 and Vic 20. But the Commodore 64 version is nowere to be seen."[^ref-14] Sierra's own *Softline* ad of November-December 1983 ended with the platform line "ATARI • COM 64 • VIC 20" and warned, "Those screams you hear might be your own!"[^ref-29] A screenshot that appeared in advertisements seems to be a mockup with a hi-res font compared to the VIC-20 edition, which could well be based on what the C64 version looked like.[^ref-14] The Sierra Chest nonetheless lists Atari 400/800 among the game's platforms, though its only packaging entry is the VIC-20 SierraVision box.[^ref-9]
 
 ### Version History
 
@@ -152,6 +152,8 @@ MobyGames notes that the game "was also advertised for Atari 8-bit and Commodore
 The game was later ported to the IBM PCjr and released as "Mine Shaft" in IBM's Entertainment Series; Retro365 credits the port to John Redekopp.[^ref-6] *PC Magazine* (24 January 1984) listed Mine Shaft among Sierra products "represented by finished products at the November PCjr announcement" and called it "a version of Creepy Corridors,"[^ref-24] and *InfoWorld* (20 February 1984) reported that "Four game cartridges were released: Mouser, Scuba Venture, Mine Shaft and Crossfire."[^ref-25] *Softalk* for the IBM PC listed it at $35, a game in which the player "maneuvers a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-26] (January 1984), and in March 1984 called it "probably the easiest" of "the four game cartridges that IBM has released with the Junior."[^ref-28] Retro365 gives March 1984 as the release, "when the PCjr became available"; the cartridge's copyright reads 1983.[^ref-6] *PeaNut* (May/June 1984) said Mine Shaft "was originally written for the Apple and released on a disk containing three other games more than a year ago," which fits the Laf Pak disk.[^ref-27] Eli's Software Encyclopedia files one VIC-20 listing under 1982 and its main VIC-20 release page under 1983 (box copyright 1983).[^ref-23][^ref-20]
 
 ### Technical Issues
+
+The Laf Pak disk was protected with a nibble-count check on track 0, run at the beginning of each of the individual games, according to *Hardcore Computist* (issue 13).[^ref-19]
 
 The VIC-20 port suffered from collision detection problems that badly hurt gameplay.[^ref-3] As Pix noted: "It absolutely ruins what would have been a decent port when you can get killed by monsters that aren't even in the same corridor."[^ref-3]
 
@@ -209,25 +211,8 @@ Creepy Corridors is a reminder that Sierra released straightforward arcade games
 
 ## See Also
 
-- [[1981 - Crossfire]]
-- [[1981 - Frogger]]
-- [[1981 - Gobbler]]
-- [[1981 - Pegasus II]]
-- [[1981 - Sabotage]]
-- [[1981 - Threshold]]
-- [[1982 - Cannonball Blitz]]
-- [[1982 - Dragon's Keep]]
 - [[1982 - Laf Pak]]
-- [[1982 - Lunar Leeper]]
-- [[1982 - Marauder]]
-- [[1982 - Mouskattack]]
-- [[1982 - Pest Patrol]]
-- [[1983 - Apple Cider Spider]]
-- [[1983 - Aquatron]]
 - [[1983 - Mine Shaft]]
-- [[1983 - Mr. Cool]]
-- [[1983 - Sammy Lightfoot]]
-- [[1983 - WallWar]]
 
 ## References
 
@@ -244,7 +229,7 @@ Creepy Corridors is a reminder that Sierra released straightforward arcade games
 [^ref-14]: [Games That Weren't – Creepy Corridors](https://www.gamesthatwerent.com/gtw64/creepy-corridors/) – missing C64 version, advertisement details, mockup screenshot
 [^ref-17]: [Softalk, Vol. 3 No. 1 (September 1982) – Chuckles' Laf Pak review (Internet Archive)](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – "First and best Creepy Corridors", ten levels, "worth the price of the disk", joystick or keyboard; short-list "a real bargain"
 [^ref-18]: [Creative Computing, February 1983 (Vol. 9 No. 2) – "Apple Arcade Games" by David H. Ahl](https://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php) – Laf Pak contents, Creepy Corridors gameplay (treasures in four corners, monsters enter from left, straight-line gun), verdict quote
-[^ref-19]: [Hardcore Computist, Issue 13 (Internet Archive)](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – Ferrell Wheeler, "Normalizing Laf Pak" (copy-protection removal article): Creepy Corridors "by far the most fun, especially with the hilarious sound effects"
+[^ref-19]: [Hardcore Computist, Issue 13 (Internet Archive)](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – Ferrell Wheeler, "Normalizing Laf Pak" (copy-protection removal article): Laf Pak disk uses a track-0 nibble-count check at the start of each game; Creepy Corridors "by far the most fun, especially with the hilarious sound effects"
 [^ref-20]: [Eli's Software Encyclopedia – Creepy Corridors (VIC-20, Cartridge) Sierra - 1983](https://elisoftware.org/wiki/Creepy_Corridors_(VIC-20,_Cartridge)_Sierra_-_1983_USA,_Canada_Release) – box copyright 1983, SierraVision label, developer Don McGlauflin, packaging text
 [^ref-21]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5¼" Disk) Sierra - 1982](https://elisoftware.org/wiki/Laf_Pak_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – copyright 1982, developer Chuck Bueche, 48K, "The History of Chuckles" packaging text
 [^ref-22]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"; 48K Apple II
@@ -254,3 +239,4 @@ Creepy Corridors is a reminder that Sierra released straightforward arcade games
 [^ref-26]: [Softalk IBM, January 1984 (Vol. 2 No. 8, Internet Archive)](https://archive.org/details/198401SoftalkIBMV2N8) – IBM Junior cartridge list: Mine Shaft, mining car, diamonds, $35
 [^ref-27]: [PeaNut, May/June 1984 (Vol. 1 No. 1, Internet Archive)](https://archive.org/details/peanut-198405-06-volume-1-number-1) – Mine Shaft "originally written for the Apple and released on a disk containing three other games more than a year ago"
 [^ref-28]: [Softalk IBM, March 1984 (Vol. 2 No. 10, Internet Archive)](https://archive.org/details/198403SoftalkIBMV2N10) – "Of the four game cartridges that IBM has released with the Junior, Mine Shaft is probably the easiest to play"
+[^ref-29]: [Softline, November-December 1983 (Vol. 3, Internet Archive)](https://archive.org/details/Softline_1983_11_12) – full-page Sierra On-Line ad "SAVE SIERRA SMITH IN CREEPY CORRIDORS!" (unnumbered page, after p. 68): "Sierra Smith's a real jewel of an adventurer", "Those screams you hear might be your own!", "ATARI • COM 64 • VIC 20"
