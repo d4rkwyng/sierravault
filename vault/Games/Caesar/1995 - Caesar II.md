@@ -10,7 +10,7 @@ series: Caesar
 engine: Custom 2D isometric engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Caesar II is a 1995 city-building strategy game by Impressions Games,
   published by Sierra On-Line, in which the player governs Roman provinces and seeks
   to rise through the ranks to become Caesar.
@@ -18,7 +18,7 @@ tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -99,7 +99,7 @@ In retrospective discussions, players have praised the game's unique three-map s
 
 ### Origins
 
-Caesar II was developed by Impressions Games, a UK-based studio founded by [[David Lester]] that specialized in historical strategy games[^ref-21]. The game emerged from the team's passion for both simulation games and ancient history. [[Simon Bradbury]], lead programmer and co-designer of the Impressions Caesar games, recalled: "SimCity was only recently out and had both David [Lester] and I enthralled. We both had an interest in Rome and the ancients and so the rest, as they say was history!"[^ref-6]
+Caesar II was developed by Impressions Games, a UK-based studio founded by [[David Lester]] that specialized in historical strategy games[^ref-21]. The game emerged from the team's passion for both simulation games and ancient history. [[Simon Bradbury]], credited on Caesar II for programming and additional design,[^ref-24] recalled: "SimCity was only recently out and had both David [Lester] and I enthralled. We both had an interest in Rome and the ancients and so the rest, as they say was history!"[^ref-6]
 
 Sierra On-Line acquired Impressions in 1995: on June 20, 1995, Sierra merged with Software Inspiration Ltd., Impressions' parent company, in a share exchange, before Caesar II's September release[^ref-30][^ref-1]. According to David Lester, "We produced a mixture of games but we rapidly saw that our interest and strength lay in strategy games. We decided to specialise in them and got better and better at it. Our biggest games were Caesar and Lords of the Realm"[^ref-21].
 

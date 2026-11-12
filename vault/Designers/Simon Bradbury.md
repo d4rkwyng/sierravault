@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Stronghold", "Caesar III", "Lords of the Realm II", "CivCity: Rome"]
 companies: ["Firefly Studios", "Impressions Games", "Sierra On-Line", "Tynesoft"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Simon Bradbury
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ He also worked on the Lords of the Realm series: on [[1994 - Lords of the Realm|
 
 ### Firefly Studios (1999–Present)
 
-Bradbury links the founding of Firefly to the sale of Impressions: "The break came when David Lester sold Impressions to Sierra in 1998," he recalled, although Sierra had in fact acquired Impressions in 1995.[^ref-5][^ref-31] "I was presented with a stark choice, either get a proper job or start a company! Luckily I choose the later [*sic*]."[^ref-5] Firefly Studios was formed in August 1999 by Bradbury, [[David Lester]] and Eric Ouellette.[^ref-1] According to Bradbury, Ouellette's "first big idea was to create a mix of Caesar and Lords of the Realm and to call it Stronghold!"[^ref-5]
+Bradbury links the founding of Firefly to the sale of Impressions: "The break came when David Lester sold Impressions to Sierra in 1998," he recalled, although Sierra had in fact acquired Impressions in 1995.[^ref-5][^ref-31] "I was presented with a stark choice, either get a proper job or start a company! Luckily I choose the later [*sic*]."[^ref-5] Firefly Studios was formed in August 1999 by Bradbury, [[David Lester]] and Eric Ouellette; Firefly's own About page dates the studio's founding to 1999.[^ref-1][^ref-2] According to Bradbury, Ouellette's "first big idea was to create a mix of Caesar and Lords of the Realm and to call it Stronghold!"[^ref-5]
 
 The original Stronghold, released in 2001, was a critical and commercial success.[^ref-1][^ref-12] Firefly describes Bradbury as lead designer on every Stronghold title up to its 2020 documentary, a run that includes Stronghold: Crusader (2002), Stronghold 2 (2005), Stronghold: Legends (2006), Stronghold 3 (2011) and Stronghold Crusader II (2014);[^ref-13][^ref-22] he was also lead designer of Stronghold: Warlords (2021).[^ref-11] He has also served as Firefly's CEO.[^ref-4][^ref-30]
 
@@ -43,7 +43,7 @@ Beyond the Stronghold series, Firefly developed Space Colony (2003), a real-time
 
 Devolver Digital acquired Firefly Studios on 24 June 2021;[^ref-1] the deal was announced in November 2021 as Devolver went public.[^ref-17] Firefly says that in the following years Stronghold veterans Paul Harris and Nick Tannahill were made studio heads.[^ref-2] Recent releases have included Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition, released on Steam on 15 July 2025.[^ref-2][^ref-7][^ref-36]
 
-On 7 June 2026 Firefly announced Stronghold 4, a real-time strategy and city-builder sequel for PC (Steam), with a demo due on 23 June and a launch planned for 2026; Gematsu's report quotes studio head Nick Tannahill and does not mention Bradbury.[^ref-37] Firefly's About page also lists Stronghold 4 as set for release in 2026.[^ref-2] None of the sources found states what role, if any, Bradbury has on Stronghold 4, so this is reported as Firefly news, not as a credit for him.
+On 7 June 2026 Firefly announced Stronghold 4, a real-time strategy and city-builder sequel for PC (Steam), with a demo due on 23 June and a launch planned for 2026; Gematsu's report quotes studio head Nick Tannahill and does not mention Bradbury.[^ref-37] Firefly's About page also lists Stronghold 4 as set for release in 2026, and says it "gained a quarter of a million wishlists in just 2 weeks and hundreds of thousands of demo downloads since then."[^ref-2] None of the sources found states what role, if any, Bradbury has on Stronghold 4, so this is reported as Firefly news, not as a credit for him.
 
 ## Notable Works
 

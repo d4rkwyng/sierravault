@@ -1,11 +1,11 @@
 ---
 title: "Designer Index"
 type: index
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Designer Index
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers. Rows follow each person's own profile page; footnotes give the credit source where one is cited.
 
@@ -96,7 +96,7 @@ Architects of Sierra's expansion beyond adventure games.
 |------|--------------|
 | [[David Lester]] | Founder; Caesar II, Caesar III, Lords of the Realm II[^ref-12] |
 | [[Chris Beatrice]] | Pharaoh (lead designer), Zeus; studio head on Caesar III[^ref-20][^ref-32] |
-| [[Simon Bradbury]] | Lords of the Realm I-II, Stronghold, CivCity: Rome (game design)[^ref-49] |
+| [[Simon Bradbury]] | Caesar, Caesar II, Caesar III (programming; design assistance on Caesar and Caesar II), Lords of the Realm I-II, Stronghold, CivCity: Rome (game design)[^ref-49] |
 
 ### Papyrus Design Group
 

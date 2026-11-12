@@ -45,7 +45,7 @@ Caesar III was released in 1998 with Lester credited as designer.[^ref-19][^ref-
 
 ### Post-Sierra Career
 
-Lester co-founded Firefly Studios in August 1999 with Simon Bradbury and Eric Ouellette.[^ref-5] The studio is best known for the Stronghold series, which began in 2001, and has sold over seven million copies of its games; Wikipedia records that Devolver Digital acquired the studio in June 2021.[^ref-5][^ref-15] MobyGames credits Lester on the Stronghold games only under Special Thanks.[^ref-6]
+Lester co-founded Firefly Studios in August 1999 with Simon Bradbury and Eric Ouellette.[^ref-5] The studio is best known for the Stronghold series, which began in 2001, and has sold over seven million copies of its games according to Wikipedia, while Firefly's own About page now gives Stronghold lifetime sales of over 13 million; Wikipedia records that Devolver Digital acquired the studio in June 2021.[^ref-5][^ref-28][^ref-15] MobyGames credits Lester on the Stronghold games only under Special Thanks.[^ref-6]
 
 In February 1999, according to the 2013 interview and his own "Our Story" account, he launched Crimson Publishing, a magazine and website publisher whose Startups.co.uk he called "the UK's leading small business website by quite a long way"; the 2013 interview put its traffic at over 200,000 visitors a month.[^ref-2][^ref-26] MobyGames' biography instead says that after returning to the UK in 1996 he founded "Crimson Business", a marketing company for small and medium-sized businesses.[^ref-6] Lester also co-founded Business Community Connections, which links charities with businesses, and became a director of Watford Football Club.[^ref-6][^ref-2]
 
@@ -135,3 +135,4 @@ All roles as credited on MobyGames.[^ref-16][^ref-6]
 [^ref-25]: [Spectrum Computing – Just Imagine](https://spectrumcomputing.co.uk/entry/2665/ZX-Spectrum/Just_Imagine) – ZX Spectrum, 1986, Central Solutions; creator David Lester; originally due from R&R Software, which closed in 1985
 [^ref-26]: [Crimson Publishing: Our Story, by David Lester (reproduced on Sierra Chest)](https://sierrachest.com/index.php?a=person&id=10) – Lester's own account, a reproduction of Crimson Publishing's "Our Story" page: "With the proceeds of the sale I returned to England in 1996. I carried on working for Sierra in London, though on a part-time basis."
 [^ref-27]: [MobyGames - Caesar II Credits, DOS (Archived January 2024)](https://web.archive.org/web/20240130122112/https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) – Design: David Lester, Christopher J. Foster; Additional Design: Simon Bradbury
+[^ref-28]: [Firefly Studios - About Us](https://fireflyworlds.com/about-us/) – Stronghold "with lifetime sales of over 13 million"; Firefly "forged in 1999"
