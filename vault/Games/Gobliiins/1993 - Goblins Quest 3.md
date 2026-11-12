@@ -3,22 +3,21 @@ title: Goblins Quest 3
 release_year: 1993
 developer: Coktel Vision
 designer: [Pierre Gilhodes, Muriel Tramis]
-publisher: Sierra On-Line
+publisher: [Coktel Vision, Sierra On-Line]
 genre: Puzzle
 platforms: [DOS, Amiga, Mac, Windows]
 series: Gobliiins
 engine: Gob
 protagonist: Blount
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
-description: Goblins Quest 3 is the third installment in Coktel Vision's
-  beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga...
+description: "Goblins Quest 3 is the third installment in Coktel Vision's Gobliiins puzzle-adventure series, released in 1993 for MS-DOS, Amiga and Macintosh and published in the United States by Sierra On-Line in 1994."
 tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Goblins Quest 3
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -35,7 +34,7 @@ PC Gamer, presenting it with its 1994 Best Puzzle Game award, wrote that its puz
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
 > **Designer:** [[Pierre Gilhodes]], [[Muriel Tramis]][^ref-5]
-> **Publisher:** [[Sierra On-Line]], Coktel Vision[^ref-1]
+> **Publisher:** [[Sierra On-Line]], Coktel Vision[^ref-1][^ref-40]
 > **Engine:** Gob[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Macintosh, Windows (via ScummVM)[^ref-1]
 > **Release Year:** 1993
@@ -99,11 +98,13 @@ User reviews on various platforms have been consistently positive. MobyGames sho
 
 ### Origins
 
-Goblins Quest 3 was developed by Coktel Vision, a French game developer that had established the Gobliiins series in 1991[^ref-19]. The series was created by [[Pierre Gilhodes]] and [[Muriel Tramis]][^ref-5][^ref-8], with Gilhodes contributing the unique visual look that became the signature style of not only the Goblins games but many of Coktel Vision's other titles[^ref-19]. Gilhodes "became a graphic artist at a very early age" and began creating video games with Coktel Vision in 1990[^ref-20]. The conceptual premise of the series—where the number of "i"s in the title indicates the number of playable goblins—was cleverly carried through to its logical conclusion in this third installment[^ref-1].
+Goblins Quest 3 was developed by Coktel Vision, a French game developer that had established the Gobliiins series in 1991[^ref-19]. The series was created by [[Pierre Gilhodes]] and [[Muriel Tramis]][^ref-5][^ref-8], with Gilhodes contributing the unique visual look that became the signature style of not only the Goblins games but many of Coktel Vision's other titles[^ref-19]. Gilhodes "became a graphic artist at a very early age" and, according to his former website, began creating video games with Coktel Vision in 1990[^ref-20]; MobyGames' biography instead says he presented his work to the company in 1989[^ref-41]. The conceptual premise of the series—where the number of "i"s in the title indicates the number of playable goblins—was cleverly carried through to its logical conclusion in this third installment[^ref-1].
 
 ### Production
 
 The game was released in the US shortly after Sierra On-Line's acquisition of Coktel Vision, and Sierra's influence is apparent in the addition of the word "Quest" to the title, aligning it with Sierra's other popular Quest series[^ref-3]. This was the last Goblins game published by Sierra On-Line[^ref-8]. Its product description called it "another mind-bending, plot-twisting, brain-teasing puzzle adventure in the tradition of Gobliiins and Goblins 2"[^ref-18].
+
+In an interview with Jacques Harbonn for the French magazine Tilt (October 1993), Gilhodes, introduced as the graphic artist and co-writer of Goblins 3 with Tramis, said that Gobliins 2's overly free handling of its two characters, high difficulty and exacting mouse-pointer control had discouraged some players, and that Goblins 3 set out to correct this: only Blount can pick up and use objects, the cursor's sensitive areas were enlarged so that players no longer had to click to the exact pixel, and he and Tramis kept reworking the puzzles with testers to make them more accessible and to provide jokers[^ref-39]. He added that a better knowledge of what could be programmed allowed closer collaboration with the MDO team, who wrote the machine code, and that the idea of controlling a shadow came to him after seeing the film Dracula[^ref-39].
 
 **Development Credits:**[^ref-5]
 - **Created by:** Pierre Gilhodes, Muriel Tramis
@@ -125,7 +126,7 @@ The game utilized Coktel Vision's proprietary Gob engine, which powered several 
 - **Features:** Full voice acting, Sierra-style speech boxes, different music from floppy version
 
 **Floppy Disk Version:**[^ref-3]
-- **Media:** 6 × 3.5" floppy disks
+- **Media:** 3.5" floppy disk[^ref-40]
 - **Audio:** "Goblinish" gibberish speech
 - **Music:** Different tunes from CD-ROM version (composed entirely differently)
 - **Sound Hardware:** AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, PC Speaker; music in ADL format[^ref-21]
@@ -140,8 +141,12 @@ The game utilized Coktel Vision's proprietary Gob engine, which powered several 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1993 | DOS/Amiga | Initial European release as "Goblins 3"[^ref-1] |
-| US Release | March 18, 1994 | DOS | Sierra release with "Quest" suffix[^ref-21] |
-| CD-ROM | 1994 | DOS | Added voice acting, different music[^ref-1][^ref-3] |
+| Macintosh | 1993 | Macintosh | Published by Coktel Vision in France[^ref-40] |
+| UK (Sierra) | 1993 | DOS/Amiga | Published by Sierra On-Line[^ref-40] |
+| Israel (Hebrew) | 1993 | DOS | Distributed and localized by Makh-Shevet Ltd.[^ref-40][^ref-21] |
+| Spain | 1993 | DOS | Published by System 4 de España, S.A.[^ref-21] |
+| US Release | March 18, 1994 | DOS | Sierra release with "Quest" suffix[^ref-21]; MobyGames lists it as the Enhanced CD-ROM version, which added voice acting and different music[^ref-40][^ref-3] |
+| Germany (Sierra Originals) | 1996 | DOS | Published by Sierra On-Line[^ref-40] |
 | Windows (DotEmu) | March 23, 2010 | Windows | Windows release bundled with ScummVM[^ref-6] |
 | GOG | 2018 | Windows | DotEmu re-release, version 1.02[^ref-22] |
 
@@ -166,7 +171,7 @@ Goblins Quest 3 achieved notable recognition during its release era. PC Gamer US
 
 ### Collections
 
-The game has been re-released digitally through various platforms. It is available on GOG.com through DotEmu, which handles modern distribution[^ref-22]. Goblins Quest 3 itself is not sold on Steam; only the later Gobliiins 5 and GOBLiiNS6 are[^ref-34][^ref-32]. In May 2026 Red Art Games released the Gobliiins Collection, a compilation of the first five games, for PS5, Xbox Series and Switch[^ref-35]. The game can also be played through ScummVM, which added support for Goblins 3 in its June 2007 release[^ref-31].
+The game has been re-released digitally through various platforms. It is available on GOG.com as part of the Gobliiins pack, which includes Gobliiins, Gobliins 2: Prince Buffoon and Goblins Quest 3[^ref-38]; GOG Database lists DotEmu as the publisher[^ref-22]. Goblins Quest 3 itself is not sold on Steam; only the later Gobliiins 5 and GOBLiiNS6 are[^ref-34][^ref-32]. In May 2026 Red Art Games released the Gobliiins Collection, a compilation of the first five games, for PS5, Xbox Series and Switch; Gematsu's announcement said a physical PS5 edition would follow in September[^ref-35]. The game can also be played through ScummVM, which added support for Goblins 3 in its June 2007 release[^ref-31].
 
 ### Fan Projects
 
@@ -186,7 +191,7 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/game/gobliiins_pack) - Included in Gobliiins Pack
+- [GOG](https://www.gog.com/game/gobliiins_pack) - Included in Gobliiins Pack (with Gobliiins and Gobliins 2)
 - **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Manuals & Extras**
@@ -201,6 +206,7 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 - [[2009 - Gobliiins 4]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 - [[2026 - Gobliins 6]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -241,3 +247,7 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 [^ref-35]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – Red Art Games compilation of the first five games, May 27, 2026
 [^ref-36]: [MobyGames – Gobliiins 4 credits (Windows)](https://www.mobygames.com/game/40608/gobliiins-4/credits/windows/) – Design: Pierre Gilhodes; Muriel Tramis in thanks only
 [^ref-37]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Coktel Vision chart: Goblins Quest 3 (gob:gob3) Excellent; Schnibble Productions chart: Gobliiins5 parts 1–4 with AGS-engine IDs ags:gobliiins5-1 to -4
+[^ref-38]: [GOG – Gobliiins pack](https://www.gog.com/game/gobliiins_pack) – "Includes Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3"; company listed as Coktel Vision / DotEmu
+[^ref-39]: [Obligement – Entrevue avec Pierre Gilhodes](http://obligement.free.fr/articles/itwgilhodes.php) – reprint of Jacques Harbonn's interview from Tilt, October 1993: puzzle rework with testers, MDO code, Dracula shadow idea
+[^ref-40]: [MobyGames – Goblins Quest 3 (releases, read via the MobyGames API)](https://www.mobygames.com/game/2870/goblins-quest-3/) – DOS, Amiga and Macintosh release records: Coktel Vision, Sierra On-Line, Makh-Shevet, US 1994-03-18 Enhanced CD-ROM Version, Germany 1996 Sierra Originals; media types 3.5" floppy and CD-ROM
+[^ref-41]: [MobyGames – Pierre Gilhodes (Wayback, 2025-03-24)](https://web.archive.org/web/20250324223942/https://www.mobygames.com/person/10718/pierre-gilhodes/) – biography: studied desktop publishing and drawing, presented his works to Coktel Vision in 1989
