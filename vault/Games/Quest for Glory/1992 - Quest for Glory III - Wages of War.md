@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1.1
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Rudy Helm]
 description: 'Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing
   game developed and published by Sierra On-Line for MS-DOS. Designed by Corey Cole
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -79,7 +79,7 @@ Like previous installments, the game offers three standard character classes: Wa
 ## Reception
 
 ### Contemporary Reviews
-Computer Gaming World (Jeff James, January 1993) praised its "sumptuous hand-painted graphics" and wide-ranging soundtrack, said it "offers perhaps the most exotic and intriguing backdrop in the Quest for Glory series to date," and called it "yet another excellent product from the creative characters at Sierra"[^ref-1][^ref-28]. PC Mag's Neil J. Rubenking called it a "perfect blend" of role-playing and adventure gaming[^ref-1]. Dragon magazine (issue 192, April 1993) awarded the game 5 out of 5 stars, calling it "by far the finest of the Quest for Glory adventures"[^ref-1][^ref-29]. White Wolf Magazine's Jim Trunzo rated it 4/5 in January/February 1993[^ref-1]. In August 1994, PC Gamer US ranked Quest for Glory III as the 28th best computer game ever[^ref-1].
+Computer Gaming World (Jeff James, January 1993) praised its "sumptuous hand-painted graphics" and wide-ranging soundtrack, said it "offers perhaps the most exotic and intriguing backdrop in the Quest for Glory series to date," called it "yet another excellent product from the creative characters at Sierra," and judged it "far and away the most satisfying and entertaining game yet in the series"[^ref-1][^ref-28]. PC Mag's Neil J. Rubenking called it a "perfect blend" of role-playing and adventure gaming[^ref-1]. Dragon magazine (issue 192, April 1993) awarded the game 5 out of 5 stars, calling it "by far the finest of the Quest for Glory adventures"[^ref-1][^ref-29]. White Wolf Magazine's Jim Trunzo rated it 4/5 in January/February 1993[^ref-1]. In August 1994, PC Gamer US ranked Quest for Glory III as the 28th best computer game ever[^ref-1].
 
 ### Modern Assessment
 Michael Baker for RPGamer gave the game 3 out of 5 stars, feeling it "could have been much more exciting and involved than it actually was" and criticizing the combat system and VGA graphics utilization compared to the EGA graphics of the previous entry[^ref-1][^ref-4]. Richard Cobbett of PC Gamer called it "a bit of a filler game"[^ref-5]. The CRPG Addict gave it a final GIMLET score of 46, four points lower than Trial by Fire[^ref-32].
@@ -102,9 +102,15 @@ Adventure Gamers' Martijn van Es gave it 3 out of 5 stars in 2007, writing: "Cer
 ## Development
 
 ### Origins
-Before work began on the first game, Lori Ann Cole had sketched a four-game plan for the series. Staff writer Ellen Guon suggested that the third game could be set in Africa, which extended the arc from four games to five and postponed the darker entry that became Shadows of Darkness[^ref-15]. Corey Cole said the African setting was suggested by a co-worker, and that after a year away from the series they "wanted to give players something less intense than we planned for Shadows of Darkness"[^ref-24]. Commenting on the Digital Antiquarian article, Corey Cole described Tarna as "the Gloriana analogue to Kenya in East Africa" and said the Simbani language is based on Swahili[^ref-15].
+Before work began on the first game, Lori Ann Cole had sketched a four-game plan for the series. Staff writer Ellen Guon suggested that the third game could be set in Africa, which extended the arc from four games to five and postponed the darker entry that became Shadows of Darkness[^ref-15]. Hardcore Gaming 101 notes that the series was originally planned as four games, each tied to a cardinal direction, an element and a season, a scheme "somewhat thrown off with Wages of War"[^ref-14]. Corey Cole said the African setting was suggested by a co-worker, and that after a year away from the series they "wanted to give players something less intense than we planned for Shadows of Darkness"[^ref-24]. Commenting on the Digital Antiquarian article, Corey Cole described Tarna as "the Gloriana analogue to Kenya in East Africa" and said the Simbani language is based on Swahili[^ref-15].
 
 ### Production
+**Development Credits**
+- Lead programming: Oliver Brelsford[^ref-30]
+- Lead animator: Marc Hudgins[^ref-30]
+- Additional music: [[Mark Seibert]][^ref-30]
+- Manual design: Nathan Gams[^ref-30]
+
 The game was created using Sierra's SCI1.1 interpreter[^ref-3][^ref-12]. According to Corey Cole, the budget was about $750,000, the same as for Quest for Glory IV[^ref-27]. The MobyGames credits list [[Guruka Singh Khalsa]] under both Acting / Voiceovers and Special Thanks[^ref-30]. The game contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers[^ref-3][^ref-26].
 
 ### Technical Achievements
@@ -114,10 +120,17 @@ The game was created using Sierra's SCI1.1 interpreter[^ref-3][^ref-12]. Accordi
 PCGamingWiki lists the DOS minimum requirements as DOS 5.0, an Intel 286 processor, 640 KB of RAM and 7.5 MB of storage[^ref-12].
 
 ### Version History
-Sierra's patch QG3PAT updates the game to version 1.1 and corrects several problems, including looping and a Shaman endlessly waving his arms[^ref-3]; MobyGames dates patch v1.1 to November 30, 1992[^ref-26]. A Windows (DOSBox) release followed on May 10, 2012, with Activision as digital publisher, and the game is sold on GOG.com and Steam pre-packaged with DOSBox[^ref-12]. NewRisingSun's script-level timer bug fixes are already included in the GOG version[^ref-12]. AshLancer's unofficial QFG3 Fan Patch, whose latest release is v1.3.1 (August 26, 2022), builds on Sierra's anthology release and NewRisingSun's speed fixes, fixes crashes, lockups, dead ends and glitches, and restores cut content[^ref-33].
+| Version | Date | Platform | Notes |
+|---|---|---|---|
+| Original | 1992 (August per Wikipedia and PCGamingWiki; September 15 per The Sierra Chest) | DOS | Initial release[^ref-1][^ref-12][^ref-31] |
+| 1.1 | November 30, 1992 | DOS | Sierra's patch QG3PAT corrects several problems, including looping and a Shaman endlessly waving his arms[^ref-3][^ref-26] |
+| Windows (DOSBox) | May 10, 2012 | Windows | Activision digital release, sold on GOG.com and Steam pre-packaged with DOSBox; NewRisingSun's script-level timer bug fixes are already included in the GOG version[^ref-12] |
+| Fan patch v1.3.1 | August 26, 2022 | DOS | AshLancer's unofficial QFG3 Fan Patch builds on Sierra's anthology release and NewRisingSun's speed fixes, fixes crashes, lockups, dead ends and glitches, and restores cut content[^ref-33] |
+
+The Sierra Fandom Wiki notes that the game was later planned to be retitled *Quest for Glory III: Seekers of the Lost City* for re-releases, but this never occurred[^ref-3].
 
 ### Technical Issues
-Wikipedia attributes the impossibility of a perfect score to a programming oversight[^ref-1]; the Quest for Glory wiki says the 500-point maximum is intentional but that bugs keep most classes short of it: without exploits (and outside ScummVM) only Fighters can reach 500, while Paladins top out at 497, Wizards at 493 and Thieves at 495[^ref-13]. A glitch early in the game can also make it unwinnable if the player misses a key event[^ref-1][^ref-3].
+Wikipedia attributes the impossibility of a perfect score to a programming oversight[^ref-1]; the Quest for Glory wiki says the 500-point maximum is intentional but that bugs keep most classes short of it: without exploits (and outside ScummVM) only Fighters can reach 500, while Paladins top out at 497, Wizards at 493 and Thieves at 495; depending on when the Opal is collected, Wizards and Thieves can gain five more points, up to 498 and 500[^ref-13]. A glitch early in the game can also make it unwinnable if the player misses a key event[^ref-1][^ref-3].
 
 ### Easter Eggs and Trivia
 The game contains several pop culture references[^ref-20]:
@@ -128,7 +141,7 @@ The game contains several pop culture references[^ref-20]:
 
 It is the least favorable entry for Thief characters: there is no Thieves' Guild and no house to steal from in the main town[^ref-3], leaving just two burglaries[^ref-4][^ref-20]. The dramatic cliffhanger ending, with the Hero disappearing into darkness, directly sets up the events of Quest for Glory: Shadows of Darkness[^ref-1][^ref-3].
 
-Modern critics often see it as a lesser entry. PC Gamer's Richard Cobbett called it "a bit of a filler game"[^ref-5], Adventure Gamers called it the weakest game in the series[^ref-6], and The Adventure Gamer blog described it as "an afterthought, a bridge, a diversion" with a "middling story", though it praised the game's atmosphere, graphics and sound[^ref-17].
+Opinion today is divided. PC Gamer's Richard Cobbett called it "a bit of a filler game"[^ref-5] and Adventure Gamers called it the weakest game in the series[^ref-6], while The Adventure Gamer blog, which noted that the game "was not planned", called it "a glorious accidental gem of an adventure that stands proudly toe-to-toe with the rest of this venerable franchise" and scored it 68/100, the same as the first game[^ref-17]. The CRPG Addict called it "a worthy game" and disputed Matt Barton's claim that "most fans of the series regard it as pedestrian at best"[^ref-32].
 
 ### Collections
 
