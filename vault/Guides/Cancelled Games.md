@@ -1,7 +1,7 @@
 ---
 title: "Cancelled Games"
 type: guide
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: "Sierra's most significant cancelled projects, from Space Quest VII and King's Quest IX to the 2013 Kickstarters, with what the sources say about why each one ended and what survives."
 tags: [guide, cancelled, never-released]
 ---
@@ -17,7 +17,8 @@ The pattern is striking: multiple beloved franchises—King's Quest, Space Quest
 
 > [!note] A Timeline of Loss
 > - **1989:** Manhunter 3: London (Evryware's partnership with Sierra ends)[^ref-28]
-> - **1997-1999:** Space Quest VII, Leisure Suit Larry 8
+> - **1997-1999:** Space Quest VII
+> - **1998:** Leisure Suit Larry 8 (cancelled at the end of the year)[^ref-29]
 > - **1998-2001:** Middle-earth Online (Sierra version)[^ref-18]
 > - **1999:** Babylon 5: Into the Fire[^ref-27]
 > - **c. 1999-2002:** King's Quest IX (Twins of Change)[^ref-6]
@@ -50,11 +51,13 @@ Space Quest VII went through multiple development iterations between 1997 and 20
 | c. 1999–2002 | Twins of Change | Sierra Seattle | Studio closed |
 | 2000–2011 | The Silver Lining (fan game) | Phoenix Online (fan) | Episodes 1–4 released under new name |
 | c. 2007 | Silicon Knights | Silicon Knights | Prototype; code probably destroyed under court order |
-| 2011–2013 | Telltale Games | Telltale Games | Cancelled |
+| 2011–2013 | Telltale Games | Telltale Games | Cancelled (confirmed April 3, 2013)[^ref-40][^ref-41] |
 
 **Twins of Change:** King's Quest: Twins of Change was directed by [[Mark Seibert]] and written by Cindy Vanous at Sierra Studios Seattle. It featured Alexander and Rosella transformed by wild magic, able to change into animal forms, in a Zelda-inspired action-adventure. Seibert recalled that the concept "got 2 green lights" but "never got fully funded." The studio "finally died under Vivendi Games" before completion.[^ref-6]
 
 **The Strangest Fate:** Silicon Knights' c. 2007 King's Quest prototype only came to light during its lawsuit with Epic Games over the Unreal Engine. The judge ordered Silicon Knights to destroy code from games that had used Unreal Engine 3, "so if there was anything related to the prototype its probably been destroyed."[^ref-2]
+
+**Telltale:** Telltale's King's Quest project was first announced on February 17, 2011. Wikipedia says it was "confirmed to be canceled by Telltale senior vice president of publishing, Steve Allison, on April 3, 2013"[^ref-40]; Telltale told Digital Trends, "we can confirm that we are no longer working on the franchise."[^ref-41]
 
 **What Survives:** [[2010 - The Silver Lining|The Silver Lining]] began as "King's Quest IX: Every Cloak Has A Silver Lining" (production began in October 2000) before cease-and-desist letters from Vivendi and later Activision forced it to continue under a new name. Four of five planned episodes were released between July 2010 and November 2011.[^ref-7][^ref-31]
 
@@ -108,7 +111,7 @@ In 2013, [[Jim Walls]]—creator of the Police Quest series—attempted to reviv
 
 ### SWAT: Urban Justice
 
-Sierra's planned fourth SWAT game, Urban Justice was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4|SWAT 4]] from Irrational Games.[^ref-16]
+Sierra's planned fourth SWAT game, Urban Justice, designed by Travis Steiner,[^ref-42] was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4|SWAT 4]] from Irrational Games.[^ref-16]
 
 **What Happened:** Set in 2006 Los Angeles during the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare. The game slipped out of 2002 and then 2003,[^ref-38] and in April 2004 Vivendi Universal said work on it had been "discontinued" in favor of SWAT 4.[^ref-16][^ref-30]
 
@@ -163,7 +166,7 @@ The late 1990s saw traditional adventure games fall out of commercial favor. Sie
 
 ### Original Creators Departing
 
-[[Roberta Williams]] left Sierra shortly before the release of King's Quest: Mask of Eternity, bound by a non-competition agreement;[^ref-2] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998;[^ref-29] and [[Scott Murphy]], by his own account, was let go about a month and a half before Chainsaw Monday.[^ref-37] The designers who had built Sierra's franchises were gone.
+[[Roberta Williams]] left Sierra in 1999;[^ref-43][^ref-44] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998;[^ref-29] and [[Scott Murphy]], by his own account, was let go about a month and a half before Chainsaw Monday.[^ref-37] The designers who had built Sierra's franchises were gone.
 
 ### Chainsaw Monday
 
@@ -186,7 +189,7 @@ Several Sierra alumni turned to Kickstarter in 2012–13:
 
 ### Fan Projects
 
-The King's Quest community maintained hope through multiple cancelled official projects. [[2010 - The Silver Lining|The Silver Lining]] came closest to being a "King's Quest IX," releasing four of five planned episodes before development stalled—though it was forced to drop the KQ name entirely.[^ref-7][^ref-31]
+The King's Quest community maintained hope through multiple cancelled official projects. *King's Quest: Kingdom of Sorrow*, a fan sequel by Infamous Adventures based on the *King's Quest* novel of the same name, was announced in June 2010 (Wikipedia gives June 18; the King's Quest Omnipedia says June 20 after two days of delays). Wikipedia says it "was announced to be cancelled on 27 July 2012", while the Omnipedia says only that the studio was forced to cancel it or put it on indefinite hold.[^ref-45][^ref-46] [[2010 - The Silver Lining|The Silver Lining]] came closest to being a "King's Quest IX," releasing four of five planned episodes before development stalled—though it was forced to drop the KQ name entirely.[^ref-7][^ref-31]
 
 ### Official Revivals
 
@@ -282,3 +285,10 @@ Sierra's cancelled games offer cautionary tales about:
 [^ref-37]: [Adventure Classic Gaming – Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) – "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."
 [^ref-38]: [GameSpot – SWAT: Urban Justice delayed (Wayback, 2003)](https://web.archive.org/web/20030402164941/http://www.gamespot.com:80/pc/action/swaturbanjustice/news_2912248.html) – March 2003: "wouldn't ship in 2002 as planned" and "will not ship this year", but "has not been canceled"
 [^ref-39]: [Time Extension – SpaceVenture Releasing To Backers Next Month (Aug 2022)](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – Windows version to backers "on Friday 16th September" 2022
+[^ref-40]: [Wikipedia – King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) – Telltale project first announced February 17, 2011; "confirmed to be canceled by Telltale senior vice president of publishing, Steve Allison, on April 3, 2013"
+[^ref-41]: [GameSpot – King's Quest Rights Go From Telltale to Activision](https://www.gamespot.com/articles/kings-quest-rights-go-from-telltale-to-activision/1100-6406390/) – "we can confirm that we are no longer working on the franchise"
+[^ref-42]: [IGN – SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) – "Game Designer Travis Steiner guides us through the fourth segment" (SWAT: Urban Justice Q&A, August 21, 2002)
+[^ref-43]: Ars Technica – "Roberta Williams: After King's Quest, where did she go?" (Ben Kuchera, July 18, 2006) – she "in 1999 left Sierra On-Line to pursue some real-life adventures in travel"; cited as text only
+[^ref-44]: [HistoryLink – Williams, Roberta (b. 1953)](https://www.historylink.org/File/20912) – "Williams retired in 1999"
+[^ref-45]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – Kingdom of Sorrow announced June 18, 2010; "This game was announced to be cancelled on 27 July 2012"
+[^ref-46]: [King's Quest Omnipedia – King's Quest: Kingdom of Sorrow (Infamous Adventures)](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) – announced June 20, 2010 after two days of delays; "forced to cancel or put on indefinite hold"
