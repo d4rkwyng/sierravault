@@ -10,15 +10,16 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'The third Leisure Suit Larry adventure (Sierra On-Line, 1989), designed
   by Al Lowe, in which the player controls both Larry Laffer and Passionate Patti
   on the resort island of Nontoonyt.'
 tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
+composer: [Mike Dana]
 ---
 # Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -38,12 +39,13 @@ The title is also known by alternate names including "LSL3," "Larry 3," and in G
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Al Lowe]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Composer:** Mike Dana[^ref-3][^ref-17]
+> **Engine:** Sierra's Creative Interpreter (SCI0)[^ref-3]
 > **Platforms:** DOS, Amiga, Atari ST, Windows (macOS and Linux via the ScummVM-packaged re-release)[^ref-5]
 > **Release Year:** 1989
-> **Engine:** Sierra's Creative Interpreter (SCI0)[^ref-3]
-> **Sierra Lineage:** Core Sierra
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer / Passionate Patti
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
@@ -98,7 +100,7 @@ One significant technical issue affects the gym sequence, where the number of re
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Games International | 8/10 | "Sierra's consistently high standards create an expectation of quality"[^ref-13] |
-| Amiga Action | 82% | Issue 11 (August 1990), p. 40[^ref-13] |
+| Amiga Action | 82% | Issue 11 (August 1990), pp. 40-41[^ref-13] |
 | PC Format | - | Included in 50 best computer games list (1991)[^ref-13] |
 | PC Gamer US | - | Ranked 37th best computer game ever (1994)[^ref-13] |
 | Game Player's PC Strategy Guide | - | Excellence Award (1990 annual PC game awards)[^ref-13] |
@@ -109,21 +111,44 @@ Theo Clarke of Games International praised the game despite noting that the fron
 
 Modern retrospective reviews have been more mixed. Adventure Classic Gaming's Gustavo Calvo-Simmons gave the game 2 out of 5 stars, stating that "The gameplay is, dare I say, horrendous, especially for players who are not accustomed to old styled adventure games"[^ref-1]. However, he acknowledged the game's deeper themes, noting that "behind the obvious Casanova theme that loudly haunts every single title of the series, this game manages to quietly convey some truth of the loneliness in every human being"[^ref-1].
 
-Conversely, Adventure Gamers' Rob Michaud awarded the game 4 out of 5 stars in 2004, calling it "An underrated classic that deserves more attention than it has received"[^ref-2]. The MobyGames player community gave it a Moby Score of 7.4 based on 86 votes[^ref-43], while My Abandonware users rated it 4.44 out of 5[^ref-22]. On IMDB, the game holds a rating of 7.3 out of 10 based on 147 user votes (October 2026)[^ref-46]. On Metacritic, only 5 user ratings are available, averaging 6.0 ("Mixed or Average")[^ref-23].
+Conversely, Adventure Gamers' Rob Michaud awarded the game 4 out of 5 stars in 2004, calling it "An underrated classic that deserves more attention than it has received"[^ref-2].
+
+**Aggregate Scores:**
+- **MobyGames critics:** 75% (29 ratings)[^ref-3]
+- **MobyGames players:** 3.7 out of 5 (86 ratings)[^ref-3]; Moby Score 7.4 based on 86 votes[^ref-43]
+- **My Abandonware users:** 4.44 out of 5[^ref-22]
+- **IMDb:** 7.3 out of 10 based on 147 user votes (October 2026)[^ref-46]
+- **Metacritic users:** 6.0 ("Mixed or Average") from 5 ratings[^ref-23]
 
 ## Development
 
 ### Origins
 
-Al Lowe designed Leisure Suit Larry III as what he initially intended to be the conclusion of the trilogy[^ref-1].
+SierraChest says the Leisure Suit Larry series "was originally planned to be a trilogy with this game being its final part"[^ref-36]. Adventure Classic Gaming, by contrast, describes the first three games as an "unplanned trilogy" and says that Lowe and his design team "had initially decided to close the saga" there, though the series' renewed popularity led Sierra to revive it with further sequels[^ref-1].
 
-The development team had "initially decided to close the saga at the end of the unplanned trilogy," though the series' continued popularity led to further sequels[^ref-1].
-
-The ending was so tightly closed off—with Larry living happily ever after as a programmer of the Leisure Suit Larry series for Sierra On-Line—that Al Lowe had difficulty finding a plot for the sequel, which is one reason there is no Larry 4 in the series[^ref-36].
+SierraChest adds that the ending was so tightly closed off—with Larry living happily ever after as a programmer of the Leisure Suit Larry series for Sierra On-Line—that Al Lowe had difficulty finding a plot for the sequel, which is one reason there is no Larry 4 in the series[^ref-36].
 
 The game represented a conscious return to the adult-oriented themes that had been somewhat muted in the second installment, responding to fans who, after the far less raunchy Larry 2, asked Sierra to return to the original concept of more women and more sex[^ref-36].
 
-Lowe is credited with the original concept, design, programming (alongside Juan Carlos Escobar) and production, with Mike Dana composing the music and Mark Seibert handling music/sound programming[^ref-3][^ref-13]. Like Leisure Suit Larry 2, the game ran on Sierra's SCI0 engine[^ref-13].
+Like Leisure Suit Larry 2, the game ran on Sierra's SCI0 engine[^ref-13].
+
+**Development Credits:**[^ref-3][^ref-17]
+- **Original Concept / Design / Producer:** [[Al Lowe]]
+- **Executive Producer and Best Boy:** Ken Williams
+- **Programming:** Juan Carlos Escobar, Al Lowe
+- **Interpreter / Development System:** Pablo Ghenis, Stuart Goldstein, Robert Eric Heitman, Jeff Stephenson
+- **Music / Sound Programming:** Mark Seibert
+- **Graphics / Artwork:** Roger Hardy Jr., William D. Skirvin (credited on MobyGames as Bil Skirvin)
+- **Music:** Mike Dana
+- **Sound:** Robert Atesalp
+- **Amiga / Atari ST Translation:** Robert W. Lindsley[^ref-17]
+- **Atari ST Version:** Corey Cole, John Rettig[^ref-17]
+- **Quality Assurance:** Robin Bradley
+- **Cover Art:** Mark Crowe
+- **Cover Photography:** Keith Seaman
+- **Documentation:** Bridget McKenna, Marti McKenna
+- **Documentation Design and Production:** Greg Steffen
+- **Documentation Illustrations:** William L. Eaken
 
 ### Production
 
@@ -137,9 +162,24 @@ Leisure Suit Larry III was the second game in the series to use the 16-color SCI
 
 The Internet Archive preserves the original game manual, containing 24 pages of documentation uploaded on March 31, 2016[^ref-25]. Adventure Classic Gaming lists 512K RAM, with an 8 MHz or faster machine recommended, and support for the graphics and sound cards of the era[^ref-1].
 
-## Trivia
+### Version History
 
-- The game was originally intended to be the final chapter of the trilogy, with an ending so conclusive that [[Al Lowe]] struggled to find a plot for a sequel—one reason there is no Leisure Suit Larry 4[^ref-1][^ref-36]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | November 1989 | DOS | Published by Sierra On-Line, Inc.[^ref-43] |
+| Amiga (1.021) | 1990 | Amiga | Published by Sierra On-Line, Inc.; a UK release is also dated 1990; U.S. Gold re-released it in 1994 under the Kixx XL label[^ref-43] |
+| Atari ST | 1990 | Atari ST | Published by Sierra On-Line, Inc.[^ref-43] |
+| German | July 19, 1991 | DOS | Published by Sierra On-Line Ltd.[^ref-43] |
+| ScummVM (Windows, macOS) | January 17, 2013 | Windows, macOS | Release run with ScummVM[^ref-5] |
+| ScummVM (Linux) | December 17, 2015 | Linux | Release run with ScummVM[^ref-5] |
+| Steam | December 2017 | Windows | Published by Assemble Entertainment; MobyGames dates it December 20, 2017, while the Steam store page gives December 18, 2017[^ref-43][^ref-52][^ref-30] |
+| IndieGala | August 23, 2021 | Windows | Published by Assemble Entertainment[^ref-43] |
+
+**Fan patches:** The community has produced several fixes. NewRisingSun's LSL3_NRS patch fixes script-level timer bugs in Cherri Tart's striptease, Larry's cross-dressing striptease, the Fat City workout (fixing the repetitions needed on each machine at 25) and the elevator[^ref-17]. A separate machine-speed patch caps the Fat City workout count between 15 and 50 and adjusts the elevator speed[^ref-17]. In December 2022 fans released a point-and-click conversion patch, announced on the game's Steam community hub[^ref-30].
+
+### Easter Eggs and Trivia
+
+- The ending was so conclusive that [[Al Lowe]] struggled to find a plot for a sequel—one reason there is no Leisure Suit Larry 4[^ref-36]
 - In the ending, Larry and Patti escape captivity and end up at Sierra's Coarsegold headquarters, shown in-game as a literal movie studio, passing set pieces from [[Police Quest Series|Police Quest]] and [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] before Larry interrupts [[Roberta Williams]] "directing" the whale escape from [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]][^ref-13]
 - Patti had actually appeared in the previous game under the name "Polyester Patty" before being renamed for this installment[^ref-13]
 - The game includes a "Boss Key" screen[^ref-50]
@@ -160,17 +200,15 @@ A MobyGames user review notes that the game also contains an emotional depth unu
 
 IMDb's content-rating (certificate) field lists the game as "M"[^ref-46]. Speedrun.com hosts a leaderboard for the game, listing 28 runs by 6 players as of October 2026[^ref-27].
 
-A German release was published by Sierra On-Line Ltd. on July 19, 1991[^ref-43].
-
-A Windows re-release was published by Assemble Entertainment on Steam in December 2017; MobyGames dates it December 20, 2017, while the Steam store page gives December 18, 2017[^ref-43][^ref-52][^ref-30]. It is no longer offered for sale on Steam[^ref-5][^ref-52].
-
-Additional Windows distribution occurred on August 23, 2021 through IndieGala[^ref-43].
+The Windows re-release published by Assemble Entertainment on Steam in December 2017 is no longer offered for sale there[^ref-5][^ref-52].
 
 The game is sold on GOG.com as part of the five-game Leisure Suit Larry bundle ("Leisure Suit Larry's Greatest Hits and Misses"), pre-packaged with ScummVM[^ref-5][^ref-51]; GOG also keeps a support article for the game[^ref-28].
 
 The game can be run under ScummVM on modern systems[^ref-5].
 
-The game is also included in various compilations including the Leisure Suit Larry Triple Pack, Leisure Suit Larry's Greatest Hits and Misses, Leisure Suit Larry Collection Series, Leisure Suit Larry: Ultimate Pleasure Pack, and Leisure Suit Larry Collection (XP)[^ref-36][^ref-32].
+### Collections
+
+The game was included in several compilations: the Leisure Suit Larry Triple Pack, Leisure Suit Larry's Greatest Hits and Misses, Leisure Suit Larry Collection Series, Leisure Suit Larry: Ultimate Pleasure Pack, and Leisure Suit Larry Collection (XP)[^ref-36][^ref-32]. MobyGames dates these to 1990 (Triple Pack), 1994 (Greatest Hits and Misses), 1997 (Collection Series), 1999 (Ultimate Pleasure Pack) and 2006 (Collection)[^ref-3].
 
 ## Downloads
 
@@ -179,15 +217,16 @@ The game is also included in various compilations including the Leisure Suit Lar
 - Previously available on Steam (no longer for sale)[^ref-52]
 - Previously available on ZOOM Platform (delisted March 31, 2023)[^ref-5]
 
-**Preservation Archives**
-- [Internet Archive](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) - Manual preservation[^ref-25]
+**Manuals & Extras**
+- [Internet Archive – Leisure Suit Larry 3 manual](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) - Manual scan[^ref-25]
 
 ## See Also
 
+- [[Leisure Suit Larry Series]] — Series overview
+- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|← Previous: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|→ Next: Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]]
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - [[1998 - Leisure Suit Larry's Casino]]
@@ -201,7 +240,7 @@ The game is also included in various compilations including the Leisure Suit Lar
 
 [^ref-1]: [Adventure Classic Gaming – Leisure Suit Larry III review (Gustavo Calvo-Simmons, 22 July 2009)](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – 2/5 review, system requirements, trilogy plan
 [^ref-2]: [Adventure Gamers – Leisure Suit Larry 3 review (Rob Michaud, 16 April 2004; 2009 Wayback copy)](https://web.archive.org/web/20091017082200/http://www.adventuregamers.com/article/id%2C367) – Series information, graphics comparison with LSL2
-[^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – Credits, engine details, user reviews
+[^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – Credits, engine details, critic and player aggregate scores, compilation years, user reviews
 [^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Platform compatibility information
 [^ref-7]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/23246) – Setting and plot details
 [^ref-10]: [LarryLaffer.net](http://larrylaffer.net/lslgames/lsl3-general) – Character interaction and plot development
@@ -210,7 +249,7 @@ The game is also included in various compilations including the Leisure Suit Lar
 [^ref-13]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Age verification system
 [^ref-14]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals_Cheats) – Quiz bypass method
 [^ref-16]: [Hardcore Gaming 101 Archive](https://web.archive.org/web/20100128135636/http://www.hardcoregaming101.net/lsl/lsl2.htm) – Game structure analysis
-[^ref-17]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Design approach assessment, manual, ending sequence
+[^ref-17]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – Design approach assessment, manual, ending sequence, credits (including port credits), fan patches
 [^ref-22]: MyAbandonware Page *(download link removed: the game is sold commercially)* – User rating
 [^ref-23]: [Metacritic Page](https://www.metacritic.com/game/leisure-suit-larry-iii-passionate-patti-in-pursui/) – User rating information
 [^ref-24]: [Al Lowe Official Website](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – Development credits
@@ -218,10 +257,10 @@ The game is also included in various compilations including the Leisure Suit Lar
 [^ref-26]: [Al Lowe Archive Article](https://web.archive.org/web/20040203141037/http://www.allowe.com/AL/adventuredead.htm) – Sales figures
 [^ref-27]: [Speedrun.com Leaderboards](https://www.speedrun.com/larry3) – Leaderboard: 28 runs, 6 players (checked October 2026)
 [^ref-28]: [GOG Support Page](https://support.gog.com/hc/en-us/articles/213523609-Leisure-Suit-Larry-3-Passionate-Patti-in-Pursuit-of-the-Pulsating-Pectorals) – Digital distribution
-[^ref-30]: [Steam Community Hub](https://steamcommunity.com/app/765850) – Steam app for the 2017 re-release
+[^ref-30]: [Steam Community Hub](https://steamcommunity.com/app/765850) – Steam app for the 2017 re-release; community thread announcing the December 2022 point-and-click patch
 [^ref-32]: [MobyGames – Leisure Suit Larry Collection (2006)](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – Compilation including LSL3
 [^ref-36]: [SierraChest Database](https://www.sierrachest.com/index.php?a=games&id=26&fld=general) – Development history, plot details, and compilation information
-[^ref-43]: [MobyGames API Data](https://www.mobygames.com/game/412/) – Technical specifications, platform releases, Moby Score 7.4 based on 86 votes
+[^ref-43]: [MobyGames API Data](https://www.mobygames.com/game/412/) – MobyGames API v1, game 412: technical specifications, platform releases, Moby Score 7.4 based on 86 votes
 [^ref-46]: [IMDB Game Entry](https://www.imdb.com/title/tt0273734/) – IMDB rating 7.3/10 based on 147 votes (October 2026), "M" in IMDb's content-rating field
 [^ref-50]: [MobyGames Screenshots](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/screenshots/) – Boss Key feature screenshot
 [^ref-51]: [GOG.com – Leisure Suit Larry (store page)](https://www.gog.com/en/game/leisure_suit_larry) – Sold as "Leisure Suit Larry's Greatest Hits and Misses" (five adventures, LSL3 included), $9.99 (checked October 2026)
