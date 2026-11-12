@@ -8,16 +8,17 @@ genre: Real-Time Strategy
 platforms: [Windows]
 series: Homeworld
 engine: Unreal Engine 4
+composer: Paul Ruskay
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
   and published by Gearbox Publishing, released on May 13, 2024 for Windows PC.
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -35,6 +36,7 @@ Blackbird Interactive bills the game as "Tactical, beautiful, and wholly unique,
 > **Platforms:** Windows (Steam, Epic Games Store)[^ref-1]
 > **Release Year:** 2024
 > **Series:** Homeworld
+> **Composer:** Paul Ruskay[^ref-8]
 > **Protagonist:** Imogen S'Jet
 > **Sierra Lineage:** Franchise Acquisition
 
@@ -54,11 +56,11 @@ PCGamesN's reviewer "mostly enjoyed how the dramatic cutscenes seamlessly transi
 
 Homeworld 3 keeps the series' familiar 3D RTS gameplay.[^ref-26] The development team worked extensively to make the controls more accessible than previous entries, with Blackbird founder Rob Cunningham noting: "It's way easier to play Homeworld 3 than it was to play Homeworld 1."[^ref-17] The game offers multiple control schemes including traditional mouse-based camera control and a new WASD camera option for players who prefer that style.[^ref-18]
 
-Pre-release coverage promised "considerable improvement to overall UI and UX design."[^ref-26] Players can issue commands to individual ships or grouped squadrons, with the ability to assign formations, attack patterns, and movement orders through the command interface. However, some critics found unit responsiveness inconsistent: Eurogamer wrote that when you ask a ship to back away from certain death, "they'll either ignore the call or respond so lazily that they'll lose almost all of their hitpoints in the process."[^ref-20]
+Pre-release coverage promised "considerable improvement to overall UI and UX design."[^ref-26] The Homeworld fan wiki notes that a selected unit's full command list, including hidden commands such as Retire and Scuttle, is reached by pressing Alt and then right-clicking, and that formations were adjusted now that strike craft are managed individually rather than in Homeworld 2's mini-squadrons.[^ref-72] However, some critics found unit responsiveness inconsistent: Eurogamer wrote that when you ask a ship to back away from certain death, "they'll either ignore the call or respond so lazily that they'll lose almost all of their hitpoints in the process."[^ref-20]
 
 ### Structure and Progression
 
-The single-player campaign consists of 13 story missions that take approximately 6-8 hours to complete on standard difficulty.[^ref-13] A key series hallmark returns: fleet persistence between missions, meaning players carry their surviving ships and accumulated resources from one mission to the next.[^ref-21] This creates meaningful consequences for losses and encourages careful resource management throughout the campaign.
+The single-player campaign consists of 13 story missions that take approximately 6-8 hours to complete on standard difficulty.[^ref-13] A key series hallmark returns: fleet persistence between missions, meaning players carry their surviving ships and accumulated resources from one mission to the next.[^ref-21] Gamepressure's beginner's guide advises collecting Resource Units whenever possible because each mission starts with the army and resources gathered in the previous ones, and notes that resources on a map are not infinite.[^ref-21]
 
 The campaign missions include:
 
@@ -100,7 +102,7 @@ PC Gamer's Fraser Brown scored the game 77/100, writing: "Homeworld 3 takes some
 
 GamesRadar+ offered a more tempered assessment, with Rick Lane noting: "Homeworld's operatic space combat is as engrossing as ever in its third outing, although a weaker story and a slightly odd cover system dim the shine of its star."[^ref-32] Digital Trends was more critical, with Jason Rodriguez scoring it 3/5 and calling it "a disappointment that was 20 years in the making."[^ref-33]
 
-Inverse provided one of the most enthusiastic reviews, with Hayes Madsen scoring 9/10 and declaring: "Homeworld has never been better... It's genuinely hard for me to think of any more ways Homeworld 3 could have honored the legacy of the franchise."[^ref-34] IGN Italia offered a contrasting view with a 6.5/10 ("Sufficiente"): Andrea Giongiani called the plot *dozzinale* (run-of-the-mill) and the game a disappointment next to its predecessors.[^ref-23]
+Inverse provided one of the most enthusiastic reviews, with Hayes Madsen scoring 9/10 and declaring: "Homeworld has never been better... It's genuinely hard for me to think of any more ways Homeworld 3 could have honored the legacy of the franchise."[^ref-34] IGN Italia offered a contrasting view with a 6.5/10 ("Sufficiente"): Andrea Giongiani called the plot *dozzinale* (run-of-the-mill) and the game a disappointment next to its predecessors.[^ref-23] New Game Network wrote that the War Games mode "feels unfinished though—a good idea lacking the depth and variety needed to sustain an addictive RTS-roguelike hybrid."[^ref-52]
 
 ### Modern Assessment
 
@@ -140,7 +142,7 @@ The game underwent multiple delays from its original Q4 2022 target.[^ref-3] In 
 
 ### Studio and Publisher Changes
 
-The final stretch of development coincided with upheaval at both companies. In August 2023 Blackbird confirmed it had laid off 41 employees after several unannounced projects were cancelled.[^ref-73] A second round of layoffs followed on February 14, 2024, a week after the final delay.[^ref-74] On March 27, 2024, Take-Two Interactive announced a definitive agreement to acquire Gearbox from Embracer Group in a deal valued at $460 million, with Homeworld among the intellectual property included.[^ref-75]
+The final stretch of development coincided with upheaval at both companies. In August 2023 Blackbird confirmed it had laid off 41 employees after several unannounced projects were cancelled.[^ref-73] A second round of layoffs followed on February 14, 2024, a week after the final delay.[^ref-74] On March 27, 2024, Take-Two Interactive announced a definitive agreement to acquire Gearbox from Embracer Group in a deal valued at $460 million, with Homeworld among the intellectual property included.[^ref-75] Game Developer reported on June 12, 2024 that Embracer had confirmed the sale to Take-Two was completed, with Homeworld among the franchises that moved with Gearbox.[^ref-86] Steam now lists Gearbox Publishing and 2K as publishers of Homeworld 3,[^ref-71] and the Epic Games Store lists 2K Games, Inc.[^ref-87]
 
 **Development Credits:**[^ref-8]
 
@@ -155,10 +157,20 @@ The final stretch of development coincided with upheaval at both companies. In A
 - **Narrative:** Martin Cirulis (lead writer)[^ref-69], with others
 - **Cinematics – Vice President / Director:** Dylan Brown
 - **Additional Art:** Paul Chadeisson
+- **Music:** Paul Ruskay
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Imogen S'Jet | Elysia Rotaru[^ref-8] |
+| Isaac Paktu | Ikechukwu Prince Amadi[^ref-8] |
+| Karan S'Jet | Heidi Eaves[^ref-8] |
+| Incarnate Queen | Erica Luttrell[^ref-8] |
 
 ### Technical Achievements
 
-Homeworld 3 was built on Unreal Engine 4 (engine build 4.27.2).[^ref-9] The game features real-time ship damage, dynamic ship destruction, and situationally responsive audio that reacts to the battlefield state.[^ref-11]
+Homeworld 3 was built on Unreal Engine 4 (engine build 4.27.2).[^ref-9] Paul Ruskay, whom jeuxvideo.com described at the 2019 announcement as resuming his role as composer, is credited with its music;[^ref-43][^ref-8] the Homeworld fan wiki lists Ffion Elisa, Onur Seçki, Sean Pádraig, Andrea Piccioni, Hesham Hamra and Konstantinos Kalatzis among the musicians he worked with.[^ref-72] The game features real-time ship damage, dynamic ship destruction, and situationally responsive audio that reacts to the battlefield state.[^ref-11]
 
 The terrain system is the game's biggest change. Rob Cunningham told Eurogamer: "When we made Homeworld 1, the big deal to us at the time [...] was this thing was in 3D and it was in empty space."[^ref-42] Recalling those limits, he later told PC Gamer: "The problem was the space: there was just so much space. We had some asteroids, but that was it."[^ref-17]
 
@@ -184,19 +196,15 @@ Concept designer Brennan Massicotte, discussing ship design, explained the art t
 **Supported Languages:**[^ref-71]
 English (full audio), French, Italian, German, Japanese, Korean, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Traditional Chinese, Turkish
 
-### Cut Content
-
-No cut content has been publicly documented. At launch, New Game Network wrote that the War Games mode "feels unfinished though—a good idea lacking the depth and variety needed to sustain an addictive RTS-roguelike hybrid."[^ref-52]
-
 ### Version History
 
-| Version | Date | Notes |
-|---------|------|-------|
-| 1.0 | May 13, 2024 | Global release[^ref-1] |
-| 1.1 | June 10, 2024 | Over 100 bug fixes and gameplay improvements[^ref-84][^ref-16] |
-| 1.2 | August 15, 2024 | Gameplay improvements, bug fixes, free Skirmish maps, Kalan Raiders DLC support[^ref-79] |
-| 1.3 | November 21, 2024 | Last major content update: armor and weapon overhaul, 45 new War Games artifacts, new Reinforce ability[^ref-53][^ref-38] |
-| 1.31 | December 18, 2024 | Fix for crashes on boot with Intel Arc GPUs[^ref-85] |
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | May 13, 2024 | Windows | Global release[^ref-1] |
+| 1.1 | June 10, 2024 | Windows | Over 100 bug fixes and gameplay improvements[^ref-84][^ref-16] |
+| 1.2 | August 15, 2024 | Windows | Gameplay improvements, bug fixes, free Skirmish maps, Kalan Raiders DLC support[^ref-79] |
+| 1.3 | November 21, 2024 | Windows | Last major content update: armor and weapon overhaul, 45 new War Games artifacts, new Reinforce ability[^ref-53][^ref-38] |
+| 1.31 | December 18, 2024 | Windows | Fix for crashes on boot with Intel Arc GPUs[^ref-85] |
 
 ### Technical Issues
 
@@ -212,15 +220,6 @@ Reviewers reported several technical problems at launch:
 - The game is dedicated to the memory of Alex Gomersall (1981-2022)[^ref-8]
 - Following a fan request, the Mothership Khar-Kushan can rotate 90 degrees on its axis to switch between vertical ("banana") and horizontal ("croissant") orientations[^ref-67]
 - Mission 6, The Lighthouse, is an asteroid-field mission that Lance Mueller called "an homage to Homeworld 1's asteroid mission, with a little bit of a twist"[^ref-54][^ref-13]
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Imogen S'Jet | Elysia Rotaru[^ref-8] |
-| Isaac Paktu | Ikechukwu Prince Amadi[^ref-8] |
-| Karan S'Jet | Heidi Eaves[^ref-8] |
-| Incarnate Queen | Erica Luttrell[^ref-8] |
 
 ## Legacy
 
@@ -255,7 +254,7 @@ The game supports modding through mod.io, with a custom in-game browser for down
 
 Homeworld 3 arrived 21 years after Homeworld 2.[^ref-34] Reviewers singled out its looks, with Geek Sleep Rinse Repeat calling it "one of the best-looking games I've played this year, no doubt about it."[^ref-63] Player reception was harsher, centring on the story and on mechanics that felt "overly streamlined" next to earlier entries.[^ref-16]
 
-Update 1.3, about six months after launch, was the game's last major content update;[^ref-38] a small Update 1.31 followed on December 18, 2024 to fix crashes on Intel Arc GPUs.[^ref-85] At launch, lead producer Iain Myers-Smith had said: "We're on the cusp of a potential RTS Renaissance."[^ref-54] Back in 2022, Rory McGuire had described making the sequel as "a bit of a dream. Not quite a dream come true, but a dream brought to life."[^ref-68]
+Update 1.3, about six months after launch, was the game's last major content update;[^ref-38] a small Update 1.31 followed on December 18, 2024 to fix crashes on Intel Arc GPUs.[^ref-85] It is the last patch listed in the game's Steam news feed, which has carried only sale announcements since (checked November 2026).[^ref-88] At launch, lead producer Iain Myers-Smith had said: "We're on the cusp of a potential RTS Renaissance."[^ref-54] Back in 2022, Rory McGuire had described making the sequel as "a bit of a dream. Not quite a dream come true, but a dream brought to life."[^ref-68]
 
 ## Downloads
 
@@ -351,3 +350,6 @@ Update 1.3, about six months after launch, was the game's last major content upd
 [^ref-83]: [Steam News – Homeworld 3 Mod Tools & Editor is Now Available for Modders!](https://store.steampowered.com/news/app/1840080/view/6890025005349358153) – Jun 13, 2024; "download the Homeworld 3 Mod Tools & Editor for free on the Epic Game Store"; maps published via mod.io
 [^ref-84]: [Steam News – Homeworld 3 Update 1.1](https://store.steampowered.com/news/app/1840080/view/5746109972563963777) – Jun 10, 2024; "over 100 bug fixes and gameplay improvements"
 [^ref-85]: [Steam News – Homeworld 3 Update 1.31 Notes](https://store.steampowered.com/news/app/1840080/view/1786409468849895) – Dec 18, 2024; "Addresses an issue causing players equipped with Intel Arc GPUs to crash on boot"
+[^ref-86]: [Game Developer – Gearbox is officially out from under Embracer Group](https://gamedeveloper.com/business/gearbox-is-officially-out-from-under-embracer-group) – Chris Kerr, Jun 12, 2024; "the transaction has been closed today"; franchises include Homeworld
+[^ref-87]: [Epic Games Store – Homeworld 3](https://store.epicgames.com/en-US/p/homeworld-3) – lists "Publisher 2K Games, Inc." (checked Nov 2026)
+[^ref-88]: [Steam News – Homeworld 3](https://store.steampowered.com/news/app/1840080) – items after "Homeworld 3 Update 1.31 Notes" (Dec 18, 2024) are 2K/Gearbox sale posts only (checked Nov 2026)
