@@ -10,15 +10,15 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
-  storybook and creativity game developed by Coktel Vision and published by Sierra...'
+  storybook and creativity game developed by Coktel Vision and published by Sierra On-Line in 1995.'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -72,7 +72,7 @@ Wikipedia describes the series as focused on teaching children school topics in 
 
 ### Contemporary Reviews
 
-MobyGames records one critic review. It is from the German magazine *Fun Online* (January 1996), which MobyGames normalises to 83%[^ref-24]. The magazine reviewed Playtoons 2 and 3 together on pages 56-57. A "So funktioniert Playtoons" box on page 57 gives words, not a number: "Grafik: super gut", "Sound: super gut", "Fun-Faktor: sehr gut", and "Alter: ab 8"[^ref-28]. The review notes that every character, room and object from the story is available in the comic construction kit ("Sämtliche Figuren, Räume und Gegenstände aus der Story stehen euch zur Verfügung")[^ref-28].
+MobyGames records one critic review. It is from the German magazine *Fun Online* (January 1996), which MobyGames normalises to 83%[^ref-24]. The magazine reviewed Playtoons 2 and 3 together on pages 56-57. A "So funktioniert Playtoons" box on page 57 gives words, not a number: "Grafik: super gut", "Sound: super gut", "Fun-Faktor: sehr gut", and "Alter: ab 8"[^ref-28]. The box is a joint Playtoons box, not specific to this game. It also lists memory of 6-8 megabytes ("Speicher: 6 - 8 Megabyte"), one player ("Mitspieler: 1"), and a pie chart splitting the experience 30% exploring ("Erforschen") and 70% story-making ("Geschichten Erfinden")[^ref-28]. The review notes that every character, room and object from the story is available in the comic construction kit ("Sämtliche Figuren, Räume und Gegenstände aus der Story stehen euch zur Verfügung")[^ref-28].
 
 **Aggregate Scores:**
 - **MobyGames:** 83%, based on one review (*Fun Online*)[^ref-24]
@@ -137,7 +137,7 @@ ScummVM's detection table lists Windows builds in English, French, German and It
 
 ### Technical Issues
 
-ScummVM's Gob engine includes detection entries for this game[^ref-25], but Playtoons 2 does not appear on ScummVM's official compatibility list (the only Playtoons-branded title there is "Playtoons Limited Edition - Bambou le sauveur de la jungle")[^ref-26]. The Internet Archive item notes that emulation is possible with ScummVM on other platforms[^ref-7].
+The Internet Archive hosts a disc image of the French release[^ref-7]. ScummVM's Gob engine includes detection entries for this game[^ref-25], but Playtoons 2 does not appear on ScummVM's official compatibility list (the only Playtoons-branded title there is "Playtoons Limited Edition - Bambou le sauveur de la jungle")[^ref-26]. The Internet Archive item notes that emulation is possible with ScummVM on other platforms[^ref-7].
 
 ### Easter Eggs and Trivia
 
@@ -165,10 +165,6 @@ Sierra On-Line published the game in the United States (1996). Coktel Vision pub
 
 MobyGames' releases page lists only standalone releases, with no compilation[^ref-13].
 
-### Fan Projects
-
-The Internet Archive hosts a disc image of the French release[^ref-7]. ScummVM can detect the game but does not list it as officially supported (see Technical Issues)[^ref-25][^ref-26].
-
 ### Related Publications
 
 - **Creator Kit add-ons:** Sierra Chest says the construction game grows with the "Creator Kit add-ons" you install[^ref-22]. The "Monsters" construction kit add-on is tied to Playtoons 1: Uncle Archibald, not this game[^ref-11]
@@ -180,7 +176,7 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 
 ## Purchase
 
-- Not currently sold on GOG or Steam
+- Not currently sold on GOG or Steam (checked 2026-11-12)
 
 ## Downloads
 
@@ -225,5 +221,5 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-26]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – official supported-games list (Playtoons 2 absent)
 [^ref-27]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-28]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01/page/n55) – joint German-language review of Playtoons 2 and 3; "So funktioniert Playtoons" box on p. 57: Grafik "super gut", Sound "super gut", Fun-Faktor "sehr gut", Alter "ab 8"
-[^ref-29]: [MobyGames – Playtoons 2 Specs](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/specs/) – Windows 16-bit and Macintosh system requirements, free disk space, USK rating (also read via the MobyGames API)
+[^ref-29]: [MobyGames – Playtoons 2 Specs](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/specs/) – Windows 16-bit and Macintosh system requirements, free disk space, USK rating
 [^ref-30]: [The Sierra Chest – Sierra 1996-1997 Edutainment Catalogue](https://www.sierrachest.com/index.php?a=publications&id=341) – page 17, "Playtoons 2 & 4: Spirou": age band 4-10 years, "over 80 elements including Spirou and Fantasio"
