@@ -10,29 +10,29 @@ series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and offered through the InstantAction web gaming platform[^ref-10][^ref-7][^ref-32]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of the flight simulations [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]] and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-1][^ref-5].
 
-Ace of Aces marked Slye's return to game development after a 12-year hiatus[^ref-9][^ref-23]. Having left Dynamix in 1994, he earned a degree in mathematics, got his pilot's license and flew his own Bonanza A36 aircraft[^ref-1][^ref-6][^ref-9]. He founded Mad Otter Games in 2007 with ex-Dynamix employees; the studio is based in Eugene, Oregon[^ref-7][^ref-9][^ref-18]. Polygon describes Ace of Aces as one of the studio's "fairly low budget titles", "a multiplayer flight-sim", and it took Slye back to the World War I air combat of his earlier Red Baron[^ref-9][^ref-10].
+Ace of Aces marked Slye's return to game development after a 12-year hiatus[^ref-9][^ref-23]. Having left Dynamix in 1994, he earned a degree in mathematics and learned to fly[^ref-1][^ref-9][^ref-7]. He founded Mad Otter Games in 2007 with ex-Dynamix employees; the studio is based in Eugene, Oregon[^ref-7][^ref-9][^ref-18]. Polygon describes Ace of Aces as one of the studio's "fairly low budget titles", "a multiplayer flight-sim", and it took Slye back to the World War I air combat of his earlier Red Baron[^ref-9][^ref-10].
 
-The game was part of InstantAction's catalogue, with single-player tutorials and multiplayer battle modes[^ref-10]. InstantAction took its game portal offline in March 2010 and announced it was "winding down" operations on November 11, 2010[^ref-10]. Mad Otter announced plans to re-release the game, but the sources consulted do not record a re-release[^ref-10][^ref-11].
+The game was part of InstantAction's catalogue, with single-player tutorials and multiplayer battle modes[^ref-10]. InstantAction took its game portal offline in March 2010 and announced it was "winding down" operations on November 11, 2010[^ref-10]. Mad Otter announced plans to re-release the game[^ref-10], but the Ace of Aces website's domain had lapsed by November 23, 2015[^ref-38], and as of November 2026 the game is not sold on Steam or GOG.
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-10]
 > **Designer:** [[Damon Slye]][^ref-1]
 > **Publisher:** InstantAction[^ref-10]
 > **Engine:** Torque Game Engine[^ref-32][^ref-33]
-> **Platforms:** Web Browser (InstantAction plugin)[^ref-10]
+> **Platforms:** Web Browser[^ref-10]
 > **Release Year:** 2008[^ref-7]
 > **Series:** None
 > **Protagonist:** Unnamed pilot
@@ -49,7 +49,7 @@ The game was a multiplayer flight sim[^ref-9], and InstantAction as a whole focu
 
 ### Interface and Controls
 
-Ace of Aces ran inside the web browser through InstantAction's plugin, which had to be downloaded once and then served every game on the platform[^ref-10][^ref-15].
+Ace of Aces was played inside a web browser, as part of InstantAction's platform[^ref-10][^ref-15].
 
 ### Core Experience
 
@@ -82,23 +82,29 @@ Sources differ on the mode list. Giant Bomb's page names Marksmanship and Ground
 
 Giant Bomb lists eight aircraft at release: Spad 7, Sopwith Camel, S.E.5a, Spad 13, Albatros D.III, Fokker Triplane, Albatros D.V and Fokker D.VII[^ref-33]. The same February 2009 update set their score values, from 15 points for the Spad 7 and Albatros D.III up to 25 points for the Fokker D.VII[^ref-35].
 
-### Technical Implementation
+## Reception
 
-InstantAction games ran on a cross-browser 150k custom plugin, not on Flash or Silverlight. TechCrunch said the games looked "more like Xbox or PC games"[^ref-15]. The platform broke game downloads into small "chunks" that streamed to disk in the background, so players could start playing much sooner than with an ordinary download[^ref-10]. Giant Bomb lists Ace of Aces as built on GarageGames' Torque engine[^ref-32][^ref-33]. Torque was originally developed by Dynamix for *Tribes 2* and was licensed by GarageGames, a company formed by many members of the Tribes 2 team[^ref-13].
+### Contemporary Reviews
 
-IAC's launch announcement said InstantAction would offer games "with core-oriented mechanics and high-end visuals"[^ref-2].
+No contemporary critical reviews of Ace of Aces were found, and no aggregate review score is recorded for it. TechCrunch previewed InstantAction in March 2008 and covered the platform rather than individual games. It described InstantAction as bringing "graphically complex games that appeal to competitive gamers" into the browser[^ref-15].
+
+In a 2010 press release, Mad Otter's own boilerplate presented the game as "our browser-based flight simulation Ace of Aces" and said the studio was "dedicated to putting the fun into our games"[^ref-24].
+
+### Modern Assessment
+
+Retrospective coverage treats Ace of Aces mainly as a footnote to Slye's career. Polygon's 2015 profile calls it one of Mad Otter's "fairly low budget titles", "a multiplayer flight-sim"[^ref-9]. Choicest Games' 2014 "Where are they now?" piece lists Ace of Aces (2008) and Villagers and Heroes (2011) as the games Slye led at Mad Otter[^ref-18].
 
 ## Development
 
 ### Origins
 
-Slye left Dynamix in 1994[^ref-1]. During the 12 years he spent away from games, he earned a degree in mathematics, became a pilot and bought a Bonanza A36 single-engine aircraft, which he flew "up and down the west coast"[^ref-6][^ref-9].
+Slye left Dynamix in 1994[^ref-1]. During the 12 years he spent away from games, he earned a degree in mathematics and learned to fly[^ref-9][^ref-7].
 
 Slye himself places his return around 2007: "It was a pretty good life. It was fun until about 2007. Then I just got bored. I thought, what's the point? This is dumb. I miss making games. I like working with a team of creative people."[^ref-9]
 
-Polygon says the turning point came "just before 2007". Slye was driving in downtown Eugene, Oregon when his former Dynamix partner Jeff Tunnell walked across the crosswalk in front of him. "I yelled out the window, 'Hey Jeff!'" Slye recalled. "And he replied, 'Hey Damon, want to make games again?'"[^ref-6]
+Polygon says the turning point came "just before 2007". a chance encounter in Eugene, Oregon with his former Dynamix partner Jeff Tunnell led to a new start. "I yelled out the window, 'Hey Jeff!'" Slye recalled. "And he replied, 'Hey Damon, want to make games again?'"[^ref-6]
 
-Slye founded Mad Otter Games in 2007 with ex-Dynamix employees[^ref-6][^ref-18]. The studio is based in Eugene, Oregon[^ref-7][^ref-9], the city where Dynamix had its headquarters from its founding in 1984 until Sierra closed it in 2001[^ref-8]. In a 2008 studio bio, Slye wrote: "After a twelve year hiatus from game development, I've returned."[^ref-23]
+Slye founded Mad Otter Games in 2007 with ex-Dynamix employees[^ref-6][^ref-18]. The studio is based in Eugene, Oregon[^ref-7][^ref-9], the city where Dynamix had its headquarters from its founding until Sierra closed it in 2001[^ref-8]. Wikipedia gives Dynamix's founding year as 1984[^ref-8], while Mad Otter's own biography of Slye says he co-founded the company in 1983[^ref-7]. In a 2008 studio bio, Slye wrote: "After a twelve year hiatus from game development, I've returned."[^ref-23]
 
 ### The InstantAction Platform
 
@@ -120,31 +126,26 @@ On November 11, 2010, InstantAction announced it was "winding down" operations[^
 
 ### Re-release Efforts
 
-Wikipedia reports that Mad Otter Games planned to re-release Ace of Aces at AceofAcesthegame.com[^ref-10]. An Ace of Aces website at aceofacesgame.com posted its first news item on November 17, 2010: "the website is ready to take her maiden flight!"[^ref-11]
-
-The sources consulted do not record a re-release, and no legitimate way to play the game is known today.
+Wikipedia reports that Mad Otter Games planned to re-release Ace of Aces after InstantAction's closure[^ref-10]. The game's website, aceofacesgame.com, posted its first news item on November 17, 2010: "the website is ready to take her maiden flight!"[^ref-11] A Wayback Machine capture of November 23, 2015 shows the site's registrar notice: "The domain aceofacesgame.com has expired."[^ref-38] The game is not sold on Steam or GOG as of November 2026, and no physical releases are known.
 
 ### Technical Achievements
 
-Ace of Aces ran in the browser through InstantAction's 150k plugin, which delivered 3D multiplayer games without Flash or Silverlight[^ref-15]. The platform's chunked streaming let players begin playing before a full download had finished[^ref-10].
+InstantAction games ran on a cross-browser 150k custom plugin, not on Flash or Silverlight, downloaded once and shared by every game on the platform. TechCrunch said the games looked "more like Xbox or PC games"[^ref-15]. The platform broke game downloads into small "chunks" that streamed to disk in the background, so players could start playing much sooner than with an ordinary download[^ref-10]. Giant Bomb lists Ace of Aces as built on GarageGames' Torque engine[^ref-32][^ref-33]. Torque was originally developed by Dynamix for *Tribes 2* and was licensed by GarageGames, a company formed by many members of the Tribes 2 team[^ref-13].
 
-## Reception
+IAC's launch announcement said InstantAction would offer games "with core-oriented mechanics and high-end visuals"[^ref-2].
 
-### Contemporary Reviews
+### Technical Specifications
 
-No contemporary critical reviews of Ace of Aces were found, and no aggregate review score is recorded for it. TechCrunch previewed InstantAction in March 2008 and covered the platform rather than individual games. It described InstantAction as bringing "graphically complex games that appeal to competitive gamers" into the browser[^ref-15].
-
-In a 2010 press release, Mad Otter's own boilerplate presented the game as "our browser-based flight simulation Ace of Aces" and said the studio was "dedicated to putting the fun into our games"[^ref-24].
-
-### Modern Assessment
-
-Retrospective coverage treats Ace of Aces mainly as a footnote to Slye's career. Polygon's 2015 profile calls it one of Mad Otter's "fairly low budget titles", "a multiplayer flight-sim"[^ref-9]. Choicest Games' 2014 "Where are they now?" piece lists Ace of Aces (2008) and Villagers and Heroes (2011) as the games Slye led at Mad Otter[^ref-18].
+- **Platform:** Web browser[^ref-10]
+- **Engine:** Torque Game Engine[^ref-32][^ref-33]
+- **Multiplayer:** Yes; Wikipedia lists five battle modes[^ref-10], and Giant Bomb gives up to 12 players[^ref-33]
+- **Current Status:** Unavailable (InstantAction portal down since March 2010)[^ref-10]
 
 ## Legacy
 
 ### Mad Otter's Continued Journey
 
-Mad Otter's next game was the free-to-play MMORPG Villagers & Heroes[^ref-18], originally titled *A Mystical Land* and released on October 27, 2011[^ref-29][^ref-7]. Neonga announced itself as publisher of the then-unannounced Mad Otter MMO in October 2010[^ref-24]. Mad Otter says the game "has grown from a player base of twenty people to over 20,000 people"[^ref-7]. Wikipedia describes it as still in active development, with an expansion released on October 27, 2024[^ref-29].
+Mad Otter's next project was the free-to-play MMORPG Villagers & Heroes[^ref-18]; Polygon reports that the company "bought the rights to MMO Villagers and Heroes" after its early low-budget titles[^ref-9]. The game, originally titled *A Mystical Land*, was released on October 27, 2011[^ref-29][^ref-7]. Neonga announced itself as publisher of the then-unannounced Mad Otter MMO in October 2010[^ref-24]. Mad Otter says the game "has grown from a player base of twenty people to over 20,000 people"[^ref-7]. Wikipedia describes it as still in active development, with an expansion released on October 27, 2024[^ref-29].
 
 ### The Red Baron Revival Attempts
 
@@ -162,24 +163,16 @@ The connections:
 - **Mad Otter Games** was founded by Dynamix co-founder Damon Slye[^ref-1]
 - **GarageGames**, whose InstantAction platform carried the game, was founded by Jeff Tunnell, Mark Frohnmayer, Tim Gift and Rick Overman; several Dynamix veterans stayed in Eugene to work there[^ref-25][^ref-8]
 - The **Torque engine**, listed by Giant Bomb as powering Ace of Aces, was originally developed by Dynamix for *Tribes 2*[^ref-13][^ref-32][^ref-33]
-- The game was made in **Eugene, Oregon**, where Dynamix was headquartered from 1984 until 2001[^ref-8][^ref-9]
-
-## Technical Specifications
-
-- **Platform:** Web browser (requires InstantAction plugin)[^ref-10]
-- **Engine:** Torque Game Engine[^ref-32][^ref-33]
-- **Plugin Size:** 150k, downloaded once and shared by all InstantAction games[^ref-15]
-- **Multiplayer:** Yes; Wikipedia lists five battle modes[^ref-10], and Giant Bomb gives up to 12 players[^ref-33]
-- **Current Status:** Unavailable (InstantAction portal down since March 2010)[^ref-10]
+- The game was made in **Eugene, Oregon**, where Dynamix was headquartered from its founding until 2001 (1984 per Wikipedia, 1983 per Mad Otter's biography of Slye)[^ref-8][^ref-7][^ref-9]
 
 ## Downloads
 
 > [!warning] Unavailable
-> Ace of Aces is no longer available to play. It was offered through InstantAction's browser platform, which took its game portal offline in March 2010 and wound down operations in November 2010[^ref-10]. No digital storefronts carry the game, and no physical releases are known.
+> Ace of Aces is no longer available to play. It was offered through InstantAction's browser platform, which took its game portal offline in March 2010 and wound down operations in November 2010[^ref-10]. It is not sold on Steam or GOG as of November 2026, and no physical releases are known.
 
 **Purchase / Digital Stores**
 
-- Not currently available. Mad Otter planned to re-release the game after InstantAction's closure[^ref-10], but the sources consulted record no re-release.
+- Not currently available. Mad Otter planned to re-release the game after InstantAction's closure[^ref-10]; the game's website domain had lapsed by November 2015[^ref-38].
 
 ## See Also
 
@@ -220,10 +213,10 @@ Ace of Aces sits within the broader **Sierra diaspora** of post-Sierra projects 
 [^ref-1]: [Wikipedia – Damon Slye](https://en.wikipedia.org/wiki/Damon_Slye) – biographical overview, Dynamix co-founder, left the industry in 1994, founded Mad Otter Games in 2007, Ace of Aces (2008)
 [^ref-2]: [GamesIndustry.biz – IAC and GarageGames Announce InstantAction.com](https://www.gamesindustry.biz/iac-and-garagegames-announce-instantactioncom-the-first-browser-based-action-game-network) – September 18, 2007 press release: IAC majority stake, Barry Diller quote, "core-oriented mechanics and high-end visuals"
 [^ref-5]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Dynamix flight simulation series and Hall of Fame entry
-[^ref-6]: [Polygon – Two decades after he vanished, Red Baron's creator is back](https://www.polygon.com/2013/10/25/5027564/two-decades-after-he-vanished-red-barons-creator-is-back) – Slye interview: pilot license, Bonanza A36, Tunnell crosswalk anecdote, 2013 Red Baron Kickstarter goal
-[^ref-7]: [Mad Otter Games – Our Team](http://www.madottergames.com/our-team/) – studio founded 2007, Ace of Aces 2008, Villagers and Heroes 2011 and "twenty people to over 20,000", Eugene address
+[^ref-6]: [Polygon – Two decades after he vanished, Red Baron's creator is back](https://www.polygon.com/2013/10/25/5027564/two-decades-after-he-vanished-red-barons-creator-is-back) – Slye interview: Tunnell encounter before 2007, 2013 Red Baron Kickstarter goal
+[^ref-7]: [Mad Otter Games – Our Team](http://www.madottergames.com/our-team/) – Slye bio: Dynamix co-founded 1983, Sierra purchase 1989, pilot's license, studio founded 2007, Ace of Aces 2008, Villagers and Heroes 2011 and "twenty people to over 20,000", Eugene address
 [^ref-8]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – founded 1984 in Eugene, closed by Sierra August 14, 2001, veterans stayed in Eugene with GarageGames
-[^ref-9]: [Polygon – The Red Baron prepares to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again) – Slye 2015 interview: 12-year hiatus, "fun until about 2007", Ace of Aces as multiplayer flight-sim, $50,000 prototype goal
+[^ref-9]: [Polygon – The Red Baron prepares to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again) – Slye 2015 interview: 12-year hiatus, mathematics degree, "fun until about 2007", Ace of Aces as multiplayer flight-sim, Mad Otter "bought the rights to MMO Villagers and Heroes", $50,000 prototype goal
 [^ref-10]: [Wikipedia – InstantAction](https://en.wikipedia.org/wiki/InstantAction) – platform history, open beta, shutdown; Ace of Aces description, tutorials, five multiplayer modes and planned re-release
 [^ref-11]: [Archive.org – aceofacesgame.com (March 2011 capture)](https://web.archive.org/web/20110314084008/http://www.aceofacesgame.com/) – Ace of Aces website snapshot; single news post dated November 17, 2010
 [^ref-13]: [Wikipedia – Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)) – engine originally developed by Dynamix for Tribes 2, licensed by GarageGames
@@ -242,3 +235,4 @@ Ace of Aces sits within the broader **Sierra diaspora** of post-Sierra projects 
 [^ref-35]: [InstantAction Blog – Ace of Aces Updates (Wayback)](https://web.archive.org/web/20100419155749/http://blog.instantaction.com/2009/02/ace-of-aces-updates.html) – February 27, 2009 developer update: Team Dogfight fix, aircraft score values, Spy pickup fix
 [^ref-36]: [aceofacesgame.com – Archive for October 2013 (Wayback)](https://web.archive.org/web/20150327044033/http://www.aceofacesgame.com/2013/10/) – "Red Baron is Back!", October 22, 2013: "a great successor to Ace of Aces"
 [^ref-37]: Note on GarageGames' founding year: IAC's own September 18, 2007 release (ref-2) says "GarageGames was founded in 1999 by four industry veterans", while Wikipedia (ref-25) gives 2000. This page follows Wikipedia.
+[^ref-38]: [Archive.org – aceofacesgame.com (November 2015 capture)](https://web.archive.org/web/20151123175732/http://aceofacesgame.com/) – registrar notice: "The domain aceofacesgame.com has expired."
