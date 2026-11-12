@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Bellevue, Washington, United States"
 notable_games: ["Half-Life", "Counter-Strike", "Portal"]
 parent_company: null
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Valve Corporation
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -36,6 +36,7 @@ On March 29, 2001, Valve signed a new Software Publishing Agreement with Sierra 
 - **The claims:** Sierra had been distributing Valve's games to Internet cafés, which Valve said its contract did not allow. Valve also claimed that Sierra/Vivendi withheld royalties and delayed Counter-Strike: Condition Zero so that it missed the Christmas 2003 retail season.[^ref-22][^ref-16] Vivendi countersued, seeking to void the publishing agreement and take ownership of the Half-Life intellectual property.[^ref-22] Wikipedia says the countersuit argued that Valve had misrepresented its Steam plans when the 2001 contract was signed.[^ref-16]
 - **November 22, 2004:** The court denied Sierra/Vivendi's motions for partial summary judgment and granted Valve's cross-motions in whole or in part. A written order on the cyber-café rights followed on December 14, 2004.[^ref-19] The court held that the license covered only "Retail Packaged Product" in the "Retail Channel", so it did not cover cyber cafés.[^ref-18]
 - **April 12, 2005:** After Valve's motion of April 11, the court entered a stipulation and order for voluntary dismissal with prejudice.[^ref-19] MobyGames records the settlement on April 29, 2005. VU Games would stop distributing retail packaged versions of Valve's games from August 31, 2005, and only Valve's cyber-café licenses would remain valid.[^ref-5] In July 2005 Electronic Arts was announced as Valve's new distribution partner.[^ref-16]
+- **Epilogue:** The arbitrator awarded Valve $2,391,932. In April 2009 Valve sued Activision Blizzard, which had acquired Sierra Entertainment, over the unpaid $424,136 balance of that award.[^ref-16]
 
 ### Steam and Independent Growth
 
@@ -53,7 +54,7 @@ In Half-Life the player controls Gordon Freeman, a theoretical physicist who mus
 
 ### Counter-Strike (2000)
 
-Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired the game's intellectual property and partnered with Le and Cliffe to make a standalone game, which Sierra Studios published in November 2000; Sierra's own news page announced it in stores in North America on November 14, 2000.[^ref-21][^ref-16][^ref-41] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
+Counter-Strike began as a Half-Life mod by Minh Le and Jess Cliffe. Valve acquired the game's intellectual property and partnered with Le and Cliffe to make a standalone game, which Sierra Studios published in November 2000; Sierra's own news page announced it in stores in North America on November 14, 2000.[^ref-21][^ref-16][^ref-41] That news item is the in-stores announcement, which is a different milestone from the 1.0 and Steam dates given on other pages in this vault.[^ref-41] Two teams, the Counter-Terrorists and the Terrorists, compete in objective-based modes such as bomb defusal and hostage rescue.[^ref-21]
 
 ### Portal (2007)
 
@@ -99,17 +100,17 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 
 | Year | Game |
 |------|------|
-| 2006 | Half-Life 2: Episode One |
-| 2007 | Half-Life 2: Episode Two |
-| 2007 | Portal |
-| 2007 | Team Fortress 2 |
-| 2008 | Left 4 Dead |
-| 2009 | Left 4 Dead 2 |
-| 2011 | Portal 2 |
-| 2012 | Counter-Strike: Global Offensive |
-| 2013 | Dota 2 |
-| 2020 | Half-Life: Alyx |
-| 2023 | Counter-Strike 2 |
+| 2006 | Half-Life 2: Episode One[^ref-16] |
+| 2007 | Half-Life 2: Episode Two[^ref-16] |
+| 2007 | Portal[^ref-16] |
+| 2007 | Team Fortress 2[^ref-16] |
+| 2008 | Left 4 Dead[^ref-16] |
+| 2009 | Left 4 Dead 2[^ref-42] |
+| 2011 | Portal 2[^ref-16] |
+| 2012 | Counter-Strike: Global Offensive[^ref-43] |
+| 2013 | Dota 2[^ref-16] |
+| 2020 | Half-Life: Alyx[^ref-16] |
+| 2023 | Counter-Strike 2[^ref-16] |
 
 ## References
 
@@ -137,6 +138,8 @@ Steam grew from an update tool for Valve's own games into a store for third-part
 [^ref-36]: [The Verge - The Steam Machine is the most ambitious game console I've ever played](https://www.theverge.com/games/952765/steam-machine-review) — Sean Hollister, June 22, 2026: Steam Machine review
 [^ref-37]: [Road to VR - Valve Announces Steam Frame Price, Release Date, and Accessories](https://roadtovr.com/valve-steam-frame-price-release-pre-orders/) — Scott Hayden, September 14, 2026: 256GB $1,059, 1TB $1,299; reservation lottery; first purchase emails expected September 18
 [^ref-38]: [Road to VR - Steam Frame Backorder Queue Stretches into 2027](https://roadtovr.com/steam-frame-backorder-queue-2027/) — Scott Hayden, October 12, 2026: "Valve says the order queue has now stretched into 2027"
-[^ref-39]: [GameSpot - Team Fortress Full Speed Ahead](https://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) — Alan Dunkin: "Valve LLC announced last week that it had acquired the Australian developer TF Software Pty. Ltd., the creators of Team Fortress" (the site shows a 2005 date; the text refers to Half-Life as the 1998 title)
+[^ref-39]: [GameSpot - Team Fortress Full Speed Ahead (Wayback)](http://web.archive.org/web/20260303170717/https://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) — Alan Dunkin: "Valve LLC announced last week that it had acquired the Australian developer TF Software Pty. Ltd., the creators of Team Fortress" (the site shows a 2005 date; the text refers to Half-Life as the 1998 title)
 [^ref-40]: [Wikipedia - Half-Life: Decay](https://en.wikipedia.org/wiki/Half-Life:_Decay) — "Developed by Gearbox Software and published by Sierra On-Line, Decay was released as part of the PlayStation 2 version of Half-Life in 2001"
 [^ref-41]: [Sierra Studios - Half-Life News (Wayback, October 23, 2001)](https://web.archive.org/web/20011023110858/http://www.sierrastudios.com/games/half-life/news.html) — November 14, 2000: "Half-Life: Counter-Strike ... is now available in North America"
+[^ref-42]: [Steam - Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) — Developer Valve, publisher Valve, release date November 16, 2009
+[^ref-43]: [Wikipedia - Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive) — Developed by Valve and Hidden Path Entertainment; released August 2012
