@@ -6,21 +6,21 @@ defunct: 2017
 headquarters: "Bountiful, Utah, United States (Salt Lake City from 2010)"
 notable_games: ["Front Page Sports: Golf", "PGA Championship Golf series", "Tiger Woods PGA Tour (Windows versions)"]
 parent_company: "Sierra On-Line (1996-1999); Electronic Arts (2006-2017)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Headgate Studios
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Headgate Studios was an American game developer founded in 1992 in Bountiful, Utah, by Vance Cook, a programmer who had worked for years at golf-simulation developer Access Software.[^ref-19][^ref-21][^ref-22] Sierra On-Line bought the studio in 1996, and Headgate made Sierra's Front Page Sports: Golf and PGA Championship Golf games.[^ref-1][^ref-19][^ref-20][^ref-21] After Cook regained ownership, Headgate developed the Windows versions of EA Sports' Tiger Woods PGA Tour.[^ref-26][^ref-24] Electronic Arts acquired the studio at the end of 2006 and renamed it EA Salt Lake.[^ref-7][^ref-19][^ref-27]
+Headgate Studios was an American game developer founded in 1992 in Bountiful, Utah, by Vance Cook, a programmer who had worked for years at golf-simulation developer Access Software.[^ref-19][^ref-21][^ref-22] Sierra On-Line bought the studio in 1996, and Headgate made Sierra's Front Page Sports: Golf and PGA Championship Golf games.[^ref-1][^ref-19][^ref-20][^ref-21] After Cook regained ownership, Headgate developed the Windows versions of EA Sports' Tiger Woods PGA Tour.[^ref-26][^ref-24] [[Electronic Arts]] acquired the studio at the end of 2006 and renamed it EA Salt Lake.[^ref-7][^ref-19][^ref-27]
 
 ## History
 
 ### Founding
 
-At Access Software, Cook had been project director and lead programmer of the Links golf series. According to Sierra's 1998 profile of him, he "left Access Software in 1992 to form Headgate Studios", at first to make business productivity software.[^ref-21] The Salt Lake Tribune likewise describes Headgate as "founded in 1992 in Bountiful as a business-productivity software company that later branched out into electronic games."[^ref-22] Cook served as its president. Its first product was PentaCalc, a scientific calculator for Windows.[^ref-19] When Cook turned the company to golf games, it had about six employees.[^ref-21] MobyGames' company overview says the studio was founded in California; no other source found supports that.[^ref-15]
+At Access Software, Cook had been project director and lead programmer of the Links golf series. According to Sierra's 1998 profile of him, he "left Access Software in 1992 to form Headgate Studios", at first to make business productivity software.[^ref-21] The Salt Lake Tribune likewise describes Headgate as "founded in 1992 in Bountiful as a business-productivity software company that later branched out into electronic games."[^ref-22] Cook served as its president.[^ref-21][^ref-19] Its first product was PentaCalc, a scientific calculator for Windows.[^ref-19] When Cook turned the company to golf games, it had about six employees.[^ref-21] MobyGames' company overview says the studio was founded in California; no other source found supports that.[^ref-15]
 
 The studio was based in Bountiful, in the Salt Lake City area. Sierra's 1998 profile says that after the acquisition "Cook and Headgate stayed in Salt Lake City", while EA's 2006 announcement places the team in Bountiful.[^ref-21][^ref-27] It stayed in Bountiful until July 2010, when EA Salt Lake opened new offices in downtown Salt Lake City.[^ref-19][^ref-7][^ref-22]
 
@@ -53,11 +53,15 @@ As EA Salt Lake, the studio made Tiger Woods PGA Tour 07 and 08 versions, Madden
 
 ### Front Page Sports: Golf (1997)
 
-Headgate's first Sierra game, which Sierra said had been "nearly three years in development," introduced the studio's TrueSwing mouse swing.[^ref-21] Three add-on course disks followed in 1997.[^ref-29][^ref-30][^ref-31]
+Headgate's first game for Sierra, released in 1997.[^ref-19][^ref-21]
 
 ### Tiger Woods PGA Tour (Windows versions, 2000–2007)
 
-Headgate developed the Windows versions of EA Sports' Tiger Woods PGA Tour, starting with Tiger Woods PGA Tour 2001.[^ref-26][^ref-19] Tiger Woods PGA Tour 2003 was nominated for the Academy of Interactive Arts & Sciences' 2003 Computer Sports Game of the Year award.[^ref-18]
+Headgate developed the Windows versions of EA Sports' Tiger Woods PGA Tour, starting with Tiger Woods PGA Tour 2001.[^ref-26][^ref-19]
+
+## Legacy
+
+Headgate developed every Windows version of EA Sports' Tiger Woods PGA Tour from 2000 to 2007.[^ref-19][^ref-7] Its TrueSwing mouse swing debuted in Front Page Sports: Golf (1997).[^ref-21] The studio passed from Sierra to independence and then to Electronic Arts in 2006, and as EA Salt Lake it later developed four expansion packs for The Sims 3.[^ref-19]
 
 ## Key People
 
