@@ -175,7 +175,7 @@ No sales figures for Hoyle Board Games 2005 have been published. For the series 
 - **Standalone Release:** Encore Software US retail SKU[^ref-25]
 - **Hoyle Puzzle and Board Games 2005:** "Two Hoyle titles for one great price," pairing 18 puzzle games with Backgammon, Chess, "and 16 other favorites" from Hoyle Board Games[^ref-14]
 
-Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (released January 30, 2020, developer webfoot, publisher Encore Software). Its store listing names several of the same games, including Chess, Dominoes and Master Match.[^ref-24]
+Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (store page release date January 30, 2020, though Steam's data feed gives September 15, 2020; developer webfoot, publisher Encore Software). Its store listing names several of the same games, including Chess, Dominoes and Master Match.[^ref-24]
 
 ## Downloads
 
@@ -257,7 +257,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 [^ref-14]: [Metacritic – Hoyle Puzzle and Board Games 2005](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/) – bundle description, release date Sep 14, 2004, VU Games
 [^ref-17]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – games list, Hoyle Bucks, perspective/genre classification; 2005 US retail release lists Sierra Entertainment as publisher and developer (read via the MobyGames API)
 [^ref-23]: [Steam Community – Hoyle Official Card Games Collection discussion](https://steamcommunity.com/app/397420/discussions/0/492378265874336581/) – Encore developer account (Nov 18, 2015) on distributing 2004-and-later Hoyle versions under the Encore name
-[^ref-24]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/Encore_Classic_Puzzle__Board_Games/) – current Encore collection on sale; released Jan 30, 2020; developer webfoot
+[^ref-24]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/Encore_Classic_Puzzle__Board_Games/) – current Encore collection on sale; store page says Jan 30, 2020, data feed Sep 15, 2020 (checked November 2026); developer webfoot
 [^ref-25]: [GameFAQs – Hoyle Board Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/data) – US release, publisher Encore Software, barcode 705381100270
 [^ref-26]: [Encore Software – "Navarre's Encore Subsidiary Signs Exclusive Licensing Agreement With The United States Playing Card Company For Hoyle Branded Properties" (Wayback)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) – press release dated December 21, 2004; five-year worldwide Hoyle PC publishing rights
 [^ref-27]: [Sierra – Hoyle Puzzle & Board 2005 product page (Wayback, Dec 5, 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004"; pairs Hoyle Puzzle Games and Hoyle Board Games; © 2004 Sierra Entertainment, Vivendi Universal Games

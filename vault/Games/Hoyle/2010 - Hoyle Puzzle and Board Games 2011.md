@@ -133,7 +133,7 @@ One buyer found four catalog pages of blank entries offered with "Buy Now" for z
 No sales figures for the 2011 edition have been found. The original 1989 Sierra release had sold over 250,000 copies by 1990.[^ref-7]
 
 ### Collections and Re-releases
-Wikipedia lists the next edition, Hoyle Puzzle & Board Games [2012] (released 2011), as re-released in 2020 as Encore Classic Puzzle & Board Games.[^ref-7] That product went on sale on Steam on September 15, 2020, published by Encore Software and developed by webfoot.[^ref-25] No source ties the re-release to this 2011-branded edition. At retail, this edition was sold through outlets including Office Depot (as a download) and the Australian retailer Gamesmen.[^ref-4][^ref-6]
+Wikipedia lists the next edition, Hoyle Puzzle & Board Games [2012] (released 2011), as re-released in 2020 as Encore Classic Puzzle & Board Games.[^ref-7] That product is on Steam, whose store page gives a release date of January 30, 2020 and whose data feed gives September 15, 2020, published by Encore Software and developed by webfoot.[^ref-25] No source ties the re-release to this 2011-branded edition. At retail, this edition was sold through outlets including Office Depot (as a download) and the Australian retailer Gamesmen.[^ref-4][^ref-6]
 
 ### Preservation Status
 The Gamesmen listing now shows the product as "No Longer Available."[^ref-4]
@@ -223,5 +223,5 @@ The game is also listed in IGDB.[^ref-14]
 [^ref-14]: [IGDB – Hoyle Puzzle & Board Games 2011 (2010)](https://www.igdb.com/games/hoyle-puzzle-and-board-games-2011) – database entry
 [^ref-23]: [ESRB – Hoyle Puzzle and Board 2011](https://www.esrb.org/ratings/29338/hoyle-puzzle-and-board-2011/) – E rating, Comic Mischief and Tobacco Reference descriptors, Encore Software, Mac/Windows, Hoyle Bucks items
 [^ref-24]: [Newegg – Hoyle Puzzle & Board Games 2011](https://www.newegg.com/encore-software-hoyle-puzzle-board-games-2011/p/N82E16832196553) – US retail system requirements, Boonka, product description, first listed August 18, 2010
-[^ref-25]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) – September 15, 2020 release, Encore Software LLC publisher, webfoot developer
+[^ref-25]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) – release date January 30, 2020 on the store page, September 15, 2020 in Steam's data feed (checked November 2026); Encore Software LLC publisher, webfoot developer
 [^ref-26]: [MobyGames – Hoyle Puzzle & Board Games (2009)](https://www.mobygames.com/game/236680/hoyle-puzzle-board-games/) – the preceding "2010" edition: Encore/Freeverse developer credit and game list
