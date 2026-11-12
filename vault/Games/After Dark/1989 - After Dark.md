@@ -10,7 +10,7 @@ series: After Dark
 engine: Assembly language and C
 protagonist: N/A
 sierra_lineage: Acquired Franchise
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: After Dark is the screensaver series Berkeley Systems introduced for
   the Macintosh in 1989 and for Windows in 1991, home of the Flying Toasters; CUC International, Sierra
   On-Line's parent, acquired Berkeley Systems in April 1997.
@@ -18,11 +18,11 @@ tags: [1980s, after-dark, screensaver, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-After Dark is a series of screensaver software introduced by Berkeley Systems for the Apple Macintosh in 1989 and for Microsoft Windows in 1991[^ref-9][^ref-10][^ref-76]. It began as a personal project by Jack Eastman, who "actually never intended it to see the light of day"[^ref-31], and there are two accounts of who created it. Wikipedia and Eastman's own interview credit Eastman together with Patrick Beard[^ref-9][^ref-31]. Berkeley Systems' 1997 corporate background instead says the product was "spearheaded by Jack Eastman, Nick Rush and Igor Gasowski"[^ref-69], and Eastman himself names Rush, then VP of Marketing, and Gasowski, who later built the design department, as the other creative forces[^ref-31]. Its best-known module, Flying Toasters, came from a late-night session in which Eastman's "sleep-deprived brain put wings on" a toaster he spotted in his kitchen[^ref-31].
+After Dark is a series of screensaver software introduced by Berkeley Systems for the Apple Macintosh in 1989 and for Microsoft Windows in 1991[^ref-9][^ref-76]. It began as a personal project by Jack Eastman, who "actually never intended it to see the light of day"[^ref-31], and there are two accounts of who created it. Wikipedia and Eastman's own interview credit Eastman together with Patrick Beard[^ref-9][^ref-31]. Berkeley Systems' 1997 corporate background instead says the product was "spearheaded by Jack Eastman, Nick Rush and Igor Gasowski"[^ref-69], and Eastman himself names Rush, then VP of Marketing, and Gasowski, who later built the design department, as the other creative forces[^ref-31]. Its best-known module, Flying Toasters, came from a late-night session in which Eastman's "sleep-deprived brain put wings on" a toaster he spotted in his kitchen[^ref-31].
 
 After Dark was not a Sierra product when it was created. It was developed and published by Berkeley Systems eight years before Sierra had any stake in it. CUC International, which had bought Sierra On-Line the year before and was Sierra's parent, acquired Berkeley Systems in April 1997[^ref-58]. *Wired* reported that the deal became official on 11 April 1997 and that no financial details had been disclosed[^ref-74]. FundingUniverse's history of Sierra lists it as a Sierra purchase of that month[^ref-59]. Sierra then repackaged the major versions under names such as After Dark Classic, After Dark Deluxe and After Dark Midnight Edition, and ended the line in the early 2000s[^ref-31].
 
@@ -45,7 +45,7 @@ After Dark is screensaver software and has no story. Its modules are animated sc
 
 ### Interface and Controls
 
-After Dark blanks the screen after a period of inactivity. Eastman's original Mac version worked by patching operating-system calls "to notice periods of inactivity, stay on top of all windows, notice the mouse moving, and so forth"[^ref-31], because the Mac OS of the time had no built-in concept of a screensaver[^ref-31]. In a second interview he put the number of operating-system patches at 93 and said "there was no concept of a screen saver in the operating system"[^ref-75].
+After Dark blanks the screen after a period of inactivity. Eastman's original Mac version worked by patching operating-system calls "to notice periods of inactivity, stay on top of all windows, notice the mouse moving, and so forth"[^ref-31], because the Mac OS of the time had no built-in concept of a screensaver[^ref-75]. In a second interview he put the number of operating-system patches at 93 and said "there was no concept of a screen saver in the operating system"[^ref-75].
 
 The later After Dark Classic package, published by Sierra Attractions, documents a setup screen with sleep time, Sleep Corners, a SystemIQ activity monitor that makes the program sensitive to CPU load and com-port activity, EcoLogic power management for Energy Star monitors, and a Randomizer for cycling through several displays[^ref-52].
 
@@ -73,7 +73,7 @@ After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, W
 
 ### Technical Notes
 
-After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Classic and 3.0 are 16-bit. As a result, 4.0 works on Windows 10 and 11, but the older versions do not, because Microsoft has disabled 16-bit support by default since roughly Windows 7[^ref-57].
+A SuperUser answer says that After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Classic and 3.0 are 16-bit. It adds that 4.0 therefore works on Windows 10 and 11 but the older versions do not, because Microsoft has disabled 16-bit support by default since roughly Windows 7[^ref-57].
 
 ### Version History
 
@@ -81,7 +81,7 @@ After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Cl
 - **1.1 (by March 1990)**: a March 1990 *Macworld* mail-order listing offers "After Dark 1.1" for $25[^ref-81]
 - **Windows 1.0 (March 1991)**: first Windows release, with 35 screen savers at $49.95 according to TechRepublic[^ref-9][^ref-71]
 - **2.0 (Macintosh, by October 1990)**: added the Flying Toasters and other character modules[^ref-31]. *Macworld*'s October 1990 mail-order catalog lists "After Dark 2.0"[^ref-79], and in December 1990 *MacUser* reported that After Dark "has been upgraded to version 2.0 and now includes 30 modules, some of which have sound"[^ref-72]. TidBITS later described an updater for "your 2.0-or-later copy" in August 1991[^ref-65]
-- **3.0 (1994)**[^ref-9]
+- **3.0 (1994)**: *Macworld*'s September 1994 news item said it shipped with 30 screen-saver modules, 15 of them new, including Bad Dog, Fish Pro and Flying Toasters Pro (with a sing-along feature), plus the EcoLogic energy-saving features, at a street price around $29[^ref-84]. *MacUser* listed it in October 1994 at $50, with pro versions of Fish and Flying Toasters, the latter with a karaoke anthem[^ref-85]
 - **3.2 (1995)**[^ref-9]
 - **4.0 (1996)**: latest release in Wikipedia's infobox; it brought back Eastman's original toaster art as "ProtoToasters"[^ref-9][^ref-31]
 - **Sierra era (from 1997)**: repackaged as After Dark Classic, Deluxe, Midnight Edition and others[^ref-31]
@@ -90,13 +90,15 @@ After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Cl
 
 The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver[^ref-60][^ref-64]. In that module Opus the Penguin shoots down the toasters with a shotgun[^ref-64]. Berkeley Systems said that the judge, Eugene F. Lynch, found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. *The Seattle Times* then reported on 14 October 1993 that Delrina had to recall the software under an order from Judge Lynch[^ref-73]. Delrina said it would ship a "censored version" in which the toasters are powered by propellers instead of wings[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost the case, and the judge noted that the band had not trademarked the album artwork[^ref-62].
 
-The "Bad Dog" module inspired a *Bad Dog* TV series, first broadcast on Teletoon on 1 March 1999[^ref-9]. Infinisys of Japan released an official Mac OS X version in May 2003, and Vivendi Universal Games released an *After Dark: Flying Toaster* game for cellphones in 2006[^ref-9].
+The "Bad Dog" module inspired a *Bad Dog* TV series, first broadcast on Teletoon on 1 March 1999[^ref-9]. Infinisys of Japan released an official Mac OS X version in May 2003, and Vivendi Universal Games released an *After Dark: Flying Toaster* game for cellphones in 2006[^ref-9]. Infinisys has since announced that sales of all of its products ended on 29 March 2026[^ref-83].
+
+In August 2026 MacRumors reported that developer Jeff Halter had released Afterglow, an app for running After Dark screen savers on modern macOS. Halter described it as an emulator built specifically for running After Dark modules, using the original 68k module code rather than a remake or port, with no dependencies on ROMs or classic Mac OS[^ref-82].
 
 Under Sierra, Berkeley Systems and Sierra Attractions also released *After Dark Games* (1998), a collection of games built on the screensaver characters. It has its own page: [[1998 - After Dark Games]][^ref-9].
 
 ## Downloads
 
-No legitimate store sale and no download link has been verified for the 1989 release. For the 1998 game collection, see [[1998 - After Dark Games]].
+No legitimate store sale and no download link has been verified for the 1989 release. There is no GOG or Steam listing (checked November 2026), and the official Infinisys Mac OS X remakes are no longer sold. For the 1998 game collection, see [[1998 - After Dark Games]].
 
 ## See Also
 
@@ -107,7 +109,6 @@ No legitimate store sale and no download link has been verified for the 1989 rel
 ## References
 
 [^ref-9]: [Wikipedia - After Dark Software](https://en.wikipedia.org/wiki/After_Dark_(software)) - Comprehensive software history and details
-[^ref-10]: [Encyclopedia.pub - After Dark History](https://encyclopedia.pub/entry/history/show/75652) - Detailed encyclopedia entry on screensaver software
 [^ref-31]: [Low End Mac - After Dark Story](https://lowendmac.com/2007/aggressively-stupid-the-story-behind-after-dark/) - Creator interview with Jack Eastman
 [^ref-52]: [Sierra Chest - After Dark Classic](https://sierrachest.com/index.php?a=games&id=830&title=after-dark-classic&fld=walkthrough) - After Dark Classic setup documentation
 [^ref-57]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Technical support discussion
@@ -135,3 +136,7 @@ No legitimate store sale and no download link has been verified for the 1989 rel
 [^ref-79]: [Macworld - mail-order catalog (October 1990)](https://archive.org/details/MacWorld_9010_October_1990) - Lists "After Dark 2.0"
 [^ref-80]: [Macworld - mail-order catalog (November 1989)](https://archive.org/details/MacWorld_8911_November_1989) - Lists "After Dark 1.0" at $25
 [^ref-81]: [Macworld - mail-order catalog (March 1990)](https://archive.org/details/MacWorld_9003_March_1990) - Lists "After Dark 1.1" at $25
+[^ref-82]: [MacRumors - This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS (Joe Rossignol, 28 August 2026)](https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/) - Jeff Halter's Afterglow: "the original 68k module code, not a remake or port"
+[^ref-83]: [Infinisys - English home page (Wayback Machine, 14 July 2026)](https://web.archive.org/web/20260714163952/https://en.infinisys.co.jp/) - "sales of all of its products have been terminated from the 29th of March 2026"
+[^ref-84]: [Macworld - After Dark 3.0 news item (September 1994)](https://archive.org/details/MacWorld_9409_Sept_1994) - 30 modules, 15 new (Bad Dog, Fish Pro, Flying Toasters Pro), EcoLogic, street price around $29
+[^ref-85]: [MacUser - New products (October 1994)](https://archive.org/details/MacUser9410October1994) - After Dark 3.0 at $50; pro versions of Fish and Flying Toasters "with a karaoke anthem"
