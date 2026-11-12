@@ -64,7 +64,7 @@ Core mechanics follow the real card game:
 - **Declarer play:** The winning bidder plays both their own hand and their partner's (the "dummy") to make the contracted tricks
 - **Defensive play:** Opponents work together to defeat the contract
 
-The parent game, Hoyle Classic Games, introduced the "Attitude Meter", which let players "set the tone of the opposition, from serious to absurd"[^ref-3]. In its words: "In serious mode you get intense opposition and good manners. In the absurd game you get sore losers and a breakdown in sportsmanship!"[^ref-3]
+Sierra's box blurb for the parent game, Hoyle Classic Games, as quoted by the ScummVM wiki, says it "introduces the Attitude Meter: set the tone of the opposition, from serious to absurd"[^ref-3]. The blurb continues: "In serious mode you get intense opposition and good manners. In the absurd game you get sore losers and a breakdown in sportsmanship!"[^ref-3]
 
 ## Reception
 
@@ -89,7 +89,7 @@ The only written user review found is on eBay's product page for the Sierra Orig
 
 The Hoyle series began with Hoyle's Official Book of Games: Volume 1 (1989), designed by Warren Schwader with music by Robert Atesalp[^ref-14].
 
-[[Ken Williams]]'s mother was an avid bridge player, but that story belongs to The Sierra Network, not to this game. Sierra announced testing of its online service on October 31, 1990, with "a modest slate of classic parlor games like chess and bridge"[^ref-15]. Williams "had been inspired by his mother, an avid bridge player, to make that game a special priority" on the network[^ref-15]. Sierra announced The Sierra Network was "officially a go" on May 6, 1991[^ref-15].
+Bridge had earlier been a priority on Sierra's online service: when The Sierra Network was announced, [[Ken Williams]] had been inspired by his mother, an avid bridge player, to make the game a special priority[^ref-15].
 
 In the mid-1990s Sierra released two derived products alongside Hoyle Classic Games: Hoyle Bridge and Hoyle Children's Collection, the latter including Crazy 8's, Old Maid and Checkers[^ref-3][^ref-36].
 
@@ -181,11 +181,13 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
 
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
 - [[1992 - Hoyle Bridge]]
 - [[1993 - Hoyle Official Book of Games - Volume 5]]
 - [[1996 - Hoyle Casino]]
@@ -218,11 +220,11 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
