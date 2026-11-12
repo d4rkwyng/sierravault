@@ -58,7 +58,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2002 | [[2002 - Hoyle Puzzle Games\|Hoyle Puzzle Games 2002]] | |
 | 2002 | [[2003 - Hoyle Board Games\|Hoyle Board Games 2003]] | |
 | 2002 | [[2003 - Hoyle Card Games\|Hoyle Card Games 2003]] | |
-| 2002 | [[2003 - Hoyle Casino\|Hoyle Casino 2003]] | |
+| 2002 | [[2003 - Hoyle Casino\|Hoyle Casino 2003]] | Hoyle Casino 7, sold as Hoyle Casino 2003; first release September 7, 2002 ([Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=812&title=hoyle-casino-7)) |
 | 2003 | [[2003 - Hoyle Majestic Chess\|Hoyle Majestic Chess]] | |
 | 2003 | [[2004 - Hoyle Casino\|Hoyle Casino 2004]] | |
 | 2003 | [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games 2004]] | |

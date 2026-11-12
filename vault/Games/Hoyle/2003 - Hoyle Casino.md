@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Casino 2003 is a casino simulation released under the Sierra Entertainment
   label in September 2002 for Windows and Macintosh, with Blackjack and Video Poker for
   Palm OS and Windows CE handhelds.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -172,7 +172,7 @@ The game's own marketing called the Hoyle line "the best-selling casino games co
 
 ### Collections
 
-Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-1][^ref-4]. The game was sold through retailers including Best Buy[^ref-7] and Amazon[^ref-4], and used copies were still offered through Amazon UK and Amazon.com sellers in October 2026[^ref-4][^ref-24].
+Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-1][^ref-4]. The game was sold through retailers including Best Buy[^ref-7] and Amazon[^ref-4], and used copies were still offered through Amazon UK and Amazon.com sellers as of November 2026[^ref-4][^ref-24].
 
 ### Fan Projects
 
@@ -200,6 +200,8 @@ Customer reviews written more than a decade after release show players still usi
 
 - [[2003 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2003 - Hoyle Majestic Chess|→ Next: Hoyle Majestic Chess]]
+- [[2001 - Hoyle Casino|← Previous Hoyle Casino edition: Hoyle Casino 2002]]
+- [[2004 - Hoyle Casino|→ Next Hoyle Casino edition: Hoyle Casino 2004]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -264,7 +266,7 @@ Customer reviews written more than a decade after release show players still usi
 [^ref-6]: [Kickstart News – Hoyle Casino 2003 Review](https://web.archive.org/web/20250428192559/http://www.kickstartnews.com/reviews/games/hoyle_casino2003.html) – system requirements, MSRP, starting money, games list, educational features
 [^ref-7]: [Best Buy – Hoyle Casino 2003](https://www.bestbuy.com/site/hoyle-casino-2003-mac-windows-handheld/4752583.p?skuId=4752583) – platform availability including handheld
 [^ref-8]: [ESRB – Hoyle Casino Games 2003](https://www.esrb.org/ratings/7947/hoyle-casino-games-2003/) – rating, content descriptors, platform list
-[^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review, technical limitations, resolution, online features
+[^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review (published October 2002, per the page metadata), technical limitations, resolution, online features
 [^ref-13]: [Metacritic – Hoyle Casino 2003](https://www.metacritic.com/game/hoyle-casino-2003/) – release date, developer, publisher
 [^ref-15]: [Macintosh Repository – Hoyle Casino 2003](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac release year, file specifications, archive data
 [^ref-18]: [MobyGames – Hoyle Casino Reviews](https://www.mobygames.com/game/245729/hoyle-casino/reviews/) – platform confirmation
