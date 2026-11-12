@@ -3,13 +3,13 @@ title: "Douglas Herring"
 type: designer
 birth_year: null
 death_year: null
-notable_games: ["The Colonel's Bequest", "King's Quest V", "Space Quest I VGA", "Conquests of Camelot"]
+notable_games: ["The Colonel's Bequest", "King's Quest V", "Space Quest I", "Conquests of Camelot"]
 companies: ["Sierra On-Line", "Microsoft Game Studios", "Legend Entertainment", "Tsunami Media"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Douglas Herring
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -69,13 +69,13 @@ Herring animated the game and drew its graphics with Gerald Moore.[^ref-11][^ref
 
 MobyGames lists Herring among the game's artists; his own résumé calls him "Team Leader - final Art Director."[^ref-12][^ref-2] For this game Sierra's engine replaced the text parser of the earlier King's Quest games with an icon-based point-and-click interface, and it shipped in 256-color VGA alongside a 16-color EGA version.[^ref-8]
 
+### Conquests of Camelot (1990)
+
+MobyGames credits Herring as an animator and background artist on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]]. The credits also list him for the "Camelot Combat System."[^ref-15] His résumé describes him as in-house art designer and lead animator, and says he designed the endgame combat system.[^ref-2]
 ### Space Quest I VGA (1991)
 
 Herring co-directed the 1991 remake with Scott Murphy and was its art designer, one of its animators and one of its background artists; the game's credits screen, as transcribed by the fan site SpaceQuest.net, lists him under Directors, Art Designer, Animators and Background Artists.[^ref-13][^ref-17] He calls it "by far my favorite Sierra game."[^ref-1]
 
-### Conquests of Camelot (1990)
-
-MobyGames credits Herring as an animator and background artist on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]]. The credits also list him for the "Camelot Combat System."[^ref-15] His résumé describes him as in-house art designer and lead animator, and says he designed the endgame combat system.[^ref-2]
 
 ## Design Philosophy
 
