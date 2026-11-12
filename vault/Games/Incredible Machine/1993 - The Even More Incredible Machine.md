@@ -31,7 +31,7 @@ Computer Gaming World's Ed Dille, reviewing it in November 1993, judged that it 
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell Productions]] / [[Dynamix]], Inc.[^ref-1]
-> **Designer:** [[Kevin Ryan]], Jeffrey Tunnell[^ref-1]
+> **Designer:** [[Kevin Ryan]], [[Jeff Tunnell|Jeffrey Tunnell]][^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Physics simulation engine (deterministic)[^ref-3]
 > **Platforms:** DOS, Windows 3.x, Macintosh[^ref-1]
@@ -54,7 +54,7 @@ The game's free form mode lets players design and save their own puzzles: they b
 
 The Even More Incredible Machine uses a mouse-driven point-and-select interface, with keyboard support[^ref-1]. Players place parts from the puzzle's parts box onto a 2D playing field alongside the fixed pieces already on screen[^ref-21]. In Freeform mode, keys 1-9 and A-L select different music tracks[^ref-9].
 
-The game's physics engine does not use a random number generator, so the results for any given machine are deterministic[^ref-3]. This predictability is essential to the puzzle design, allowing players to test, iterate, and perfect their solutions through experimentation.
+The game's physics engine does not use a random number generator, so the results for any given machine are deterministic[^ref-3]. Compute!'s Scott A. May wrote that, with a few exceptions, the game's mechanisms "have been designed incorporating real-world physics, resulting in surprisingly accurate cause and effect"[^ref-32].
 
 ### Structure and Progression
 
@@ -89,7 +89,7 @@ Other period coverage:
 
 - **Game Players PC Entertainment (January–February 1994):** T. Liam McDonald described the game as including "the original game in its entirety, along with 73 new levels and five new objects," called it "a good value, retailing for less than $50," and noted that owners of the original "might have found an add-on disk more appropriate (and cost-effective)." He concluded: "if you're a puzzle fan who hasn't picked up the original, you'll definitely want to explore the zany world of The Even More Incredible Machine."[^ref-30]
 - **PC Zone (January 1994, UK):** the review gave a price of £39.99, counted 160 puzzles (the first 21 plus number 88 being tutorials, with a password needed from puzzle 89 onward), and noted that the Windows version needs 2 MB of RAM. Its pull quote read "If you've never played The Incredible Machine now's the time to start."[^ref-31]
-- **Compute! (April 1994):** Scott A. May called the game "More of a replacement product than a sequel," combining "the original's 87 levels with 73 all-new brainteasers" and 13 new machine parts, and concluded that it "is divine madness — a delightfully addicting, thoroughly intelligent arcade game that should not be missed." The review listed the price as $49.95.[^ref-32]
+- **Compute! (April 1994):** Scott A. May called the game "More of a replacement product than a sequel," combining "the original's 87 levels with 73 all-new brainteasers" and 13 new machine parts that bring the total to 55, and noted the newcomers Ernie Alligator and Mel Schlemming, "the human lemming." He concluded that it "is divine madness — a delightfully addicting, thoroughly intelligent arcade game that should not be missed." The review listed the price as $49.95.[^ref-32]
 - **CD-ROM Today (January 1995):** reviewing the CD-ROM edition, Stephen Kent wrote that "This game will not return you to the awe-struck discovery years of your childhood, but it's a fun-filled return to the machines that usually only function in a child's mind," while cautioning that "puzzles start looking a little similar or the game becomes a tad monotonous."[^ref-33]
 
 Writing in Computer Gaming World in February 1994, in his review of Sid & Al's Incredible Toons, Neil Harris reported that showing the original Incredible Machine to an engineer friend caused "a chain reaction that brought productive work to a halt at a major naval yard"[^ref-24].
@@ -251,7 +251,7 @@ The game can now be played in browser through various classic gaming preservatio
 
 ## References
 
-[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, credits, critic ratings, media formats, CD/disk trivia, Japanese title, regional and CD-ROM release dates (read via the MobyGames API)
+[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, credits, critic ratings, media formats, CD/disk trivia, Japanese title, regional and CD-ROM release dates
 [^ref-2]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series overview, version list, rights history, Contraption Maker
 [^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – deterministic engine, development budget, sales data, awards
 [^ref-4]: [GameFAQs – The Even More Incredible Machine](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine) – user ratings, game description
@@ -266,7 +266,7 @@ The game can now be played in browser through various classic gaming preservatio
 [^ref-14]: [GOG Database](https://www.gogdb.org/product/1207664023) – digital release details, installer size, store availability
 [^ref-16]: [PCGamingWiki Community – The Even More Incredible Machine: GOG2CD Patch](https://community.pcgamingwiki.com/files/file/2675-the-even-more-incredible-machine-gog2cd-patch/) – unofficial patch by Patrxgt, submitted June 13, 2023; restores CD music and speech to the GOG release
 [^ref-17]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/cheats) – holiday Easter eggs
-[^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents (read via the MobyGames API), publishers, release date
+[^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents, publishers, release date
 [^ref-19]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/faqs) – community guide information
 [^ref-20]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – spin-off release year
 [^ref-21]: [Computer Gaming World #112 (November 1993) – Ed Dille review and Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_112) – review verdict, 10 more playing pieces, 160 puzzles, gravity/air density, free form mode, $49.95 price, $19.95 upgrade; ad: "over 70 new puzzles, 11 new tools"
@@ -280,5 +280,5 @@ The game can now be played in browser through various classic gaming preservatio
 [^ref-29]: [Presage Software – The Even More Incredible Machine (Wayback Machine, 14 June 1997)](https://web.archive.org/web/19970614015215/http://www.presage.com/pTEMIM.html) – "Presage developed both the Macintosh and Windows versions of The Even More Incredible Machine"
 [^ref-30]: [Game Players PC Entertainment, Vol. 7 No. 1 (January–February 1994) – T. Liam McDonald review](https://archive.org/details/game-players-pc-entertainment-vol.-7-no.-1-january-february-1994) – 87 puzzles in the original, 73 new levels, five new objects, value for money, recommendation
 [^ref-31]: [PC Zone #10 (January 1994) – Even More Incredible Machine review](https://archive.org/details/PC_Zone_10_January_1994) – £39.99 UK price, 160 puzzles, tutorials, password from puzzle 89, Windows RAM requirement, pull quote
-[^ref-32]: [Compute! #163 (April 1994) – Scott A. May review](https://archive.org/details/1994-04-compute-magazine) – "divine madness", 87 levels plus 73 new brainteasers, 13 new machine parts, $49.95
+[^ref-32]: [Compute! #163 (April 1994) – Scott A. May review](https://archive.org/details/1994-04-compute-magazine) – "divine madness", 87 levels plus 73 new brainteasers, 13 new machine parts (55 total), Ernie Alligator and Mel Schlemming, real-world physics, $49.95
 [^ref-33]: [CD-ROM Today (January 1995) – Stephen Kent review](https://archive.org/details/CDROMToday11Jan1995) – CD-ROM edition review, DOS, $49.95, Sierra
