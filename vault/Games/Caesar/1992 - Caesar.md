@@ -10,7 +10,7 @@ series: Caesar
 engine: null
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Caesar is a 1992 city-building game developed and published by Impressions,
  casting the player as a Roman provincial governor; Sierra reissued it in 1996.
 tags: [1990s, caesar, impressions, sierra]
@@ -18,7 +18,7 @@ composer: [Christopher J. Denman]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -71,7 +71,7 @@ Caesar was well received by the Amiga press in particular, with three British ma
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Gaming World | 3+/5 | M. Evan Brooks, June 1993[^ref-26] |
+| Computer Gaming World | 3+/5 | M. Evan Brooks, Pre-20th Century Wargame Survey, June 1993[^ref-29] |
 | Svenska Hemdatornytt | 98.25% | Atari ST version; Clas Kristiansson, December 1992[^ref-27] |
 | AUI | 95% | April 1993[^ref-27] |
 | Amiga Format | 91% | Neil Jackson, issue 41, December 1992[^ref-27][^ref-28] |
@@ -81,7 +81,7 @@ Caesar was well received by the Amiga press in particular, with three British ma
 | Amiga Games | 68% | Ingo Bernt, December 1992[^ref-27] |
 | Amiga Joker | 65% | Max Magenauer, December 1992[^ref-27][^ref-28] |
 
-Amiga Format's Neil Jackson called it "A fun wargame and a beautiful sim all neatly contained in one, excellent package"[^ref-28]. Computer Gaming World's June 1993 review by Allen Greenberg recommended Caesar to SimCity fans who "wished for more buttons to push, knobs to adjust and wires to reroute"[^ref-29]. The magazine concluded that "Caesar provides that rare quality in strategy gaming — an experience whose rewards prove equal to its challenges"[^ref-26].
+Amiga Format's Neil Jackson called it "A fun wargame and a beautiful sim all neatly contained in one, excellent package"[^ref-28]. Computer Gaming World's June 1993 review by Allen Greenberg recommended Caesar to SimCity fans who "wished for more buttons to push, knobs to adjust and wires to reroute"[^ref-29]. The magazine concluded that "Caesar provides that rare quality in strategy gaming — an experience whose rewards prove equal to its challenges"[^ref-29].
 
 The German magazines were cooler, and one German reviewer dismissed it as "ein frecher 'Sim City'-Klon!" (a cheeky SimCity clone)[^ref-30]. PC Gamer UK later ranked Caesar and its sequel together as the 96th best computer game in 1997, noting that "Impressions keep on keeping on... but have never managed to regain the dizzy peak they climbed with their handsome brace of think-'em-ups"[^ref-26].
 
@@ -99,25 +99,31 @@ Bradbury worked for Impressions on a freelance basis. As he explained, "I always
 
 ### Production
 
+**Development Credits:**
+- Design: David Lester[^ref-54]
+- Programming: Simon Bradbury[^ref-54]
+- Graphics: Jon Baker, Erik Casey[^ref-54]
+- Music/audio: Christopher J. Denman[^ref-54][^ref-38]
+
 Impressions developed the Roman battle game Cohort 2 alongside Caesar, and Cohort 2 could load Caesar save files to play out its battles[^ref-26]. Sierra's 1996 annual report lists Impressions Software, Inc. among its subsidiaries and describes the series: "The player becomes the protege of the great Julius Caesar and is taken back to the days of the Roman Empire. Creativity and realism are two of the attractive characteristics of this series. The Company has sold more than 400,000 copies of this product series"[^ref-40]. That figure covers the series by March 1996, which Wikipedia reads as Caesar and Caesar II combined[^ref-26].
 
-### Technical Achievements
+### Technical Specifications
 
 The DOS version requires at least 590K of free conventional memory, runs in 256-colour VGA at 320x200, and supports AdLib and Sound Blaster audio[^ref-54]. It shipped on two 1.44MB or three 720kB 3.5" disks; a 1993 revision added pop-up information on icons, a mini-map and balance tweaks[^ref-54].
-
-An updated Caesar Deluxe followed in 1993; Amiga Power's October 1993 review still pointed battle-minded players to the separately sold Cohort 2[^ref-2]. Amiga Format reviewed it in November 1993 as "only a very slight upgrade" to the original, priced at £14.99 for owners[^ref-28].
 
 ### Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
 | Amiga | 1992 | MobyGames[^ref-43] |
-| DOS | 1992 | MobyGames and PCGamingWiki[^ref-43][^ref-56] |
+| DOS | 12 October 1992 | PCGamingWiki; MobyGames gives 1992[^ref-56][^ref-43] |
 | Atari ST | December 1992 | MobyGames[^ref-43] |
 | Macintosh | 1993 | MobyGames; PCGamingWiki lists Mac OS (Classic) as 1993[^ref-43][^ref-56] |
 | Caesar Deluxe | 1993 | Updated edition[^ref-28] |
 | Sierra Originals | 1996 | Re-release under Sierra's label; MobyGames media title "Caesar I"[^ref-43] |
 | Windows (GOG) | 9 February 2017 | Pre-packaged with DOSBox; the US and European versions ship in a single distribution, with the version chosen at launch[^ref-56] |
+
+An updated Caesar Deluxe followed in 1993; Amiga Power's October 1993 review still pointed battle-minded players to the separately sold Cohort 2[^ref-2]. Amiga Format reviewed it in November 1993 as "only a very slight upgrade" to the original, priced at £14.99 for owners[^ref-28].
 
 ## Legacy
 
@@ -127,7 +133,7 @@ The sequels carried the series further. Chris Beatrice has said that Caesar II's
 
 ### Collections
 
-The Sierra Chest lists the game as also included in two compilations, "Best of Sierra Nr.5" and "Caesar Collection", and notes a German release against the entry[^ref-57].
+The Sierra Chest lists the game as also included in two compilations, Best of Sierra Nr.5 (listed as a German release) and Caesar Collection[^ref-57].
 
 ## Downloads
 
@@ -158,7 +164,7 @@ Caesar is the first game in the Caesar series of city-building games. The series
 [^ref-26]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Wikipedia: release date, credits, CGW and PC Gamer UK reception, Cohort 2 and Caesar Deluxe, sequels
 [^ref-27]: https://amr.abime.net/review_678 - Amiga Magazine Rack: contemporary review scores and reviewers
 [^ref-28]: https://amigareviews.leveluphost.com/caesar.htm - Full texts of Amiga Format (Neil Jackson, issue 41; Caesar Deluxe by Rob Mead, issue 52) and other reviews
-[^ref-29]: https://archive.org/details/Computer_Gaming_World_Issue_107 - Computer Gaming World #107 (June 1993), pp. 126–127: "Good Impressions of Caesar" review by Allen Greenberg
+[^ref-29]: https://archive.org/details/Computer_Gaming_World_Issue_107 - Computer Gaming World #107 (June 1993), pp. 126–127: "Good Impressions of Caesar" review by Allen Greenberg; M. Evan Brooks' Pre-20th Century Wargame Survey, p. 137, rates Caesar three stars plus and calls it "Sim City in Rome"
 [^ref-30]: https://amigareviews.leveluphost.com/caesar.htm - German review text ("frecher 'Sim City'-Klon")
 [^ref-32]: https://web.archive.org/web/20191208072828/https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice interview (Arcade Attack)
 [^ref-36]: https://web.archive.org/web/20191113070429/https://www.arcadeattack.co.uk/simon-bradbury-sierra/ - Simon Bradbury interview (Arcade Attack)
