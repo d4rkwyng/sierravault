@@ -109,7 +109,7 @@ The game's data files used the .mpq format and could be modified using tools lik
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original release | November 19 to December 2, 1997 (sources differ) | Windows | Published by Sierra On-Line; updates up to 2.0a followed[^ref-9][^ref-1][^ref-20] |
-| Special Edition | 1998 (sources differ: Sept 15, Sept 30, Nov 7; see [[1998 - Lords of Magic - Special Edition|Special Edition page]]) | Windows | Bundles the Legends of Urak expansion; official support ended with update 3.01[^ref-26][^ref-1][^ref-20] |
+| Special Edition | 1998 (sources differ: Sept 15, Sept 30, Nov 7; see [[1998 - Lords of Magic - Special Edition\|Special Edition page]]) | Windows | Bundles the Legends of Urak expansion; official support ended with update 3.01[^ref-26][^ref-1][^ref-20] |
 | Digital re-release | As of November 2026 | Windows | Sold as Lords of Magic: Special Edition on Steam and GOG.com[^ref-10][^ref-29] |
 
 ## Legacy
