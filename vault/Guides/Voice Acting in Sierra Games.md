@@ -1,11 +1,11 @@
 ---
 title: "Voice Acting in Sierra Games"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Voice Acting in Sierra Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 Sierra On-Line pioneered voice acting in adventure games, transitioning from silent text-based adventures to fully voiced "talkie" experiences. This guide chronicles the history of speech in Sierra games, from early experiments to Hollywood talent.
 
@@ -68,7 +68,7 @@ The CD-ROM version of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King'
 |-----------|-------------|-----------|
 | Prince Alexander | **Robby Benson** | Beauty and the Beast (Beast voice), Ice Castles[^ref-17] |
 
-The game featured motion capture of real actors for character animation, with their movements transcribed to the game's 2,000+ character actions.[^ref-2]
+Actors were filmed directly and the footage was integrated into the scenes as more than 2,000 animations.[^ref-2]
 
 ### Space Quest IV & VI (CD 1992, 1995)
 
@@ -119,12 +119,13 @@ The game took four months to film; budgeted at $800,000, it ultimately cost $4.5
 
 ### What Made a "Talkie"?
 
-Sierra distinguished between floppy disk versions (text-only) and CD-ROM "talkie" versions with full voice acting. Many games were released in both formats:
+Sierra distinguished between floppy disk versions (mostly text-only) and CD-ROM "talkie" versions with full voice acting. Many games were released in both formats:
 
 | Game | Floppy Version | Talkie Version | Differences |
 |------|----------------|----------------|-------------|
 | King's Quest V | 1990 | 1991 | Voice acting added[^ref-9][^ref-22] |
-| King's Quest VI | October 1992 | 1993 | More detailed art, more character voices[^ref-2] |
+| King's Quest VI | October 1992 | 1993 | CD has a full voiceover of every line and an extended intro; the floppy already had voiced conversations at lower quality[^ref-2] |
+| Quest for Glory IV | December 1993 | September 1994 | CD added full recorded dialogue and a new intro cinematic[^ref-6] |
 | Space Quest IV | 1991 | 1992 | Gary Owens narration; other voices by Sierra employees[^ref-11][^ref-12] |
 | Laura Bow 2 | 1992 | 1993 | Voice acting added[^ref-13] |
 | Gabriel Knight | December 17, 1993 | December 17, 1993 | Floppy and CD-ROM shipped together; voices and video sequences only on CD[^ref-1] |
@@ -133,7 +134,7 @@ Sierra distinguished between floppy disk versions (text-only) and CD-ROM "talkie
 
 Voice acting presented significant technical challenges in the early 1990s:
 
-**Animation:** King's Quest VI used motion capture to transcribe real actors' movements into more than 2,000 character actions.[^ref-2]
+**Animation:** King's Quest VI's actors were filmed and the footage integrated as more than 2,000 animations.[^ref-2]
 
 **Synchronization:** Matching lip movements to recorded dialogue was its own problem. Sierra's July 1992 purchase of Bright Star Technology brought lip-sync technology, and King's Quest VI became the first Sierra game to use it.[^ref-20]
 
@@ -266,7 +267,7 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — voice cast; floppy and CD-ROM both released December 17, 1993; Holmes producer/composer; CGW awards incl. Capers Best Female Voice-Over
-[^ref-2]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — CD-ROM version released 1993 "including more character voices"; Benson; Stuart M. Rosen voice director; motion capture, 2,000+ character actions
+[^ref-2]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — conversations voiced in both floppy and CD-ROM versions, CD voices better quality with a longer intro; CD has "a full voiceover of every line of text"; Benson; Stu Rosen directed the voice cast; actors filmed and footage integrated as more than 2,000 animations
 [^ref-3]: [Guys from Andromeda – Space Quest IV](http://guysfromandromeda.com/space-quest-iv-roger-wilco-time-rippers/) — "too many voice-over jobs and commercials (over 30,000)"; Murphy "always imagined Gary speaking the lines he wrote"
 [^ref-5]: [NeoGAF – Gary Owens Obituary Thread (Wayback, February 17, 2015)](https://web.archive.org/web/20150217013051/http://www.neogaf.com:80/forum/showthread.php?t=991874) — Two Guys tribute
 [^ref-6]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) — Rhys-Davies' part "took more than three weeks to record"; "CD-ROM from Hell"; first QFG with voice actors
@@ -296,5 +297,5 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-30]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) — SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
 [^ref-31]: [GameSpot — 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"
 [^ref-32]: [Computer Gaming World #119 (June 1994), Premier Awards (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n24/mode/1up) — "Her performance alone makes it worthwhile to purchase the CD version of Gabriel Knight: Sins of the Fathers, so she is the inaugural recipient of the PREMIER Award for Best Voice-over Acting (Female) in a Multimedia Game"
-[^ref-33]: [MobyGames – Mixed-Up Mother Goose (1991, Moby ID 1085)](https://www.mobygames.com/game/1085/) — read via the MobyGames API: DOS 1991, FM Towns February 1991, Windows 1992; "complete digitized speech"
+[^ref-33]: [MobyGames – Mixed-Up Mother Goose (1991, Moby ID 1085)](https://www.mobygames.com/game/1085/) — DOS 1991, FM Towns February 1991, Windows 1992; "complete digitized speech"
 [^ref-34]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
