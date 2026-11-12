@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Miami Solitaire is a 2006 Windows solitaire compilation developed
   and published by Encore Software under the Hoyle brand, offering 55 solitaire games
   in a 1920s Art Deco Miami setting.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -70,7 +70,7 @@ The collection includes 55 solitaire games, among them four new and exclusive bo
 
 ### Contemporary Reviews
 
-Documented contemporary coverage is thin. In a review published November 17, 2006, Gamezebo awarded the game 70/100, with reviewer Joel Brodie calling it "a collection of over 55 original diversions officially branded by the leading name in PC and tabletop playing card manufacturing" and saying "you won't find a classier, or more relaxing, casual amusement around" [^ref-5]. He criticized backdrops and characters as "a bit too static," wanted more play modes, and warned that players "will soon tire of scenarios which simply rehash existing challenges" [^ref-5]. He concluded that "Hoyle Miami Solitaire might not be the most awe-inspiring offering of its kind, but it does an excellent job of capturing both the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
+Documented contemporary coverage is thin. In a review published November 17, 2006, Gamezebo awarded the game 70/100, with reviewer Joel Brodie calling it "a collection of over 55 original diversions officially branded by the leading name in PC and tabletop playing card manufacturing" and saying "you won't find a classier, or more relaxing, casual amusement around" [^ref-5]. He found the starring characters "pleasingly stylized, yet a bit too static," wanted more play modes, and warned that players "will soon tire of scenarios which simply rehash existing challenges" [^ref-5]. He concluded that "Hoyle Miami Solitaire might not be the most awe-inspiring offering of its kind, but it does an excellent job of capturing both the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
 
 Gamezebo's 2008 game page rated it three and a half stars, listing "Art deco styling," "Huge assortment of games" and "Collectible mansion accessories" among its pros and "Rehashes certain challenges" and "Two play modes only" among its cons [^ref-32].
 
@@ -116,7 +116,7 @@ The game was developed and published by Encore Software [^ref-1][^ref-2][^ref-11
 
 ### Easter Eggs and Trivia
 
-- Four new and exclusive bonus games are hidden in the game, including one called "The Mill"[^ref-5]
+- Four new and exclusive bonus games are hidden in the game, including one called "The Mill"[^ref-5][^ref-30]
 - Gamezebo described the soundtrack as salsa inspired by Buena Vista Social Club and Miami Sound Machine[^ref-5]
 - The character John Carlisle Dunsworthy serves as the player's host[^ref-5]
 - The Hoyle series was originally a Sierra On-Line line before Encore took over publishing[^ref-13]
@@ -146,6 +146,7 @@ Hoyle Miami Solitaire comes from the later, Encore-published stretch of a series
 
 ## See Also
 
+- [[Hoyle Series]] — Series overview
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
@@ -185,11 +186,11 @@ Hoyle Miami Solitaire comes from the later, Encore-published stretch of a series
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2007 - Hoyle Card Games 2008]]
