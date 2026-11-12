@@ -10,17 +10,17 @@ series: Standalone
 engine: Custom
 protagonist: Drill Bit/Robotic Arm
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Oil's Well is an arcade-style maze game written by Thomas J. Mitchell and published by Sierra On-Line in 1983 for the Atari 8-bit, then ported to the Commodore 64, Apple II, ColecoVision, IBM PC, MSX and Sharp X1.
 tags: [1980s, sierra, standalone]
 ---
 # Oil's Well
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Oil's Well is an arcade-style maze game published by Sierra On-Line in 1983, written for the Atari 8-bit computers by Thomas J. Mitchell.[^ref-1] The player extends an oil-mining drill through underground tunnels to collect oil while avoiding the creatures that roam the maze; one touch of a creature against the trailing pipe costs a life.[^ref-2] *Electronic Fun* called it "one of the most original arcade-style titles published this year for the home computer."[^ref-3]
+Oil's Well is an arcade-style maze game published by Sierra On-Line in 1983, written for the Atari 8-bit computers by Thomas J. Mitchell.[^ref-1] The player extends an oil-mining drill through underground tunnels to collect oil while avoiding the Oozies, which destroy the pipe on contact, and the land mines, which detonate when struck by the drill bit.[^ref-2] *Electronic Fun* called it "one of the most original arcade-style titles published this year for the home computer."[^ref-3]
 
 The game is similar to the 1982 arcade game *Anteater*, re-themed to be about drilling for oil instead of a hungry insectivore.[^ref-1] Its title is a twist on the old saying "all's well."[^ref-4] Ports followed for the Commodore 64, Apple II, ColecoVision, IBM PC (as a self-booting disk), MSX and Sharp X1.[^ref-1][^ref-2]
 
@@ -67,11 +67,13 @@ The strategic element comes from deciding how far to extend the drill and when t
 
 ### Contemporary Reviews
 
-*ANALOG Computing* called the Atari 8-bit version a "truly different and challenging" variant on the "'gobble the dots' theme", with good gameplay and graphics.[^ref-1] Dave Stone in *Computer Gaming World* wrote that "The action's well-paced, the difficulty progressive. While getting to a higher level is somewhat dependent on getting the right breaks — good eye-hand coordination, timing, and strategy are essential".[^ref-1] *Ahoy!* found the Commodore version's graphics and sound only "serviceable" but called the gameplay "unique ... Recommended".[^ref-1][^ref-24] *InfoWorld* called the IBM PCjr version "a clever, basic game".[^ref-1]
+In *ANALOG Computing* (issue 16), Patrick J. Kelley wrote that the cartridge "may appear to be just another variation on the 'gobble the dots' theme, but this arcade-style game offers action that is both truly different and challenging," adding that it was "very difficult, offering fast play, good graphics".[^ref-29] Dave Stone in *Computer Gaming World* (April 1984) wrote that "The action's well-paced, the difficulty progressive. While getting to a higher level is somewhat dependent on getting the right breaks — good eye-hand coordination, timing, and strategy are essential".[^ref-30] *Ahoy!* found the Commodore version's graphics and sound only "serviceable" but called the gameplay "unique ... Recommended".[^ref-1][^ref-24] *InfoWorld* called the IBM PCjr version "a clever, basic game".[^ref-1]
+
+*Antic* (March 1984), in a combined review with *BC's Quest for Tires*, had Harvey Bernstein call the Atari version "an addicting game" and credit the pipe retraction, "accompanied by a convincing sound effect," with raising it "above the level of the dozens of Pac-Man clones on the market"; he concluded, "I can recommend ... Oil's Well for its game play."[^ref-26] *Computer Entertainer* (April 1984) rated the ColecoVision version "Recommended," writing, "This is one of those games that you find yourself saying 'just one more round.'" and "Oil's Well is just good fun!"[^ref-27] *Computer Games* (June 1984) graded the Commodore 64 version "A," telling "fans of Jawbreaker" it was an "incredibly addicting eat-the-dots maze game" in which "you can get killed even if the oozies don't touch you— they just have to touch the line."[^ref-28]
 
 *Electronic Fun* (March 1984, Phil Wiswell) rated the Atari version 4/4 and called it "one of the most original arcade-style titles published this year for the home computer."[^ref-3] *Electronic Games* (May 1984, Tracie Forman) called the retractable pipeline "the best - and most innovative - part of the game".[^ref-3]
 
-*Apple User* gave the Apple II version 74% in October 1984. Reviewer Cliff McKnight asked, "Is this 'Pac-Man meets JR', you ask yourself?" and concluded, "Once you've got the knack, it's a great game that will keep you occupied for hours."[^ref-15] French magazines scored it 80% (*L'Ordinateur Individuel*, January 1985), 66% (*Tilt*, June 1984) and 50% (*Tilt*, December 1984).[^ref-16]
+In *Apple User* (October 1984), reviewer Cliff McKnight asked, "Is this 'Pac-Man meets JR', you ask yourself?" and concluded, "Once you've got the knack, it's a great game that will keep you occupied for hours."[^ref-15] Every Game Going's score box lists the Apple II version at 74% overall.[^ref-15] French magazines scored it 80% (*L'Ordinateur Individuel*, January 1985), 66% (*Tilt*, June 1984) and 50% (*Tilt*, December 1984).[^ref-16]
 
 ### Modern Assessment
 
@@ -79,6 +81,7 @@ Home of the Underdogs, quoted on MyAbandonware, wrote: "Simple concept, but quit
 
 **Aggregate Scores:**
 - **MobyGames:** 81% critic average (7 reviews)[^ref-2]
+- **MobyGames players:** 7.6 (46 votes, read via the MobyGames API on 2026-11-11)[^ref-2]
 - **Atarimania:** 7.7/10[^ref-3]
 - **MyAbandonware:** 4.25/5 (8 votes)[^ref-17]
 
@@ -112,22 +115,22 @@ According to FRGCB, the Commodore 64 version was written by R.B. Stuart and the 
 - **ROM Hash:** e7d10b763454692ea8a6da95fccdbd87
 - **Media:** Cartridge
 
-### Technical Issues
-
-One Lemon64 user reported that on the Commodore 64 the enemies freeze completely at higher levels.[^ref-12] Home of the Underdogs complained that the enemies become far too fast at higher levels.[^ref-17]
-
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | — | October 1983 | Atari 8-bit | Original release, by Thomas J. Mitchell[^ref-2] |
-| — | December 1983 | Commodore 64 | Port by R.B. Stuart[^ref-2][^ref-4] |
+| — | December 1983 | Commodore 64 | Port by R.B. Stuart. MobyGames and FRGCB give 1983; Wikipedia gives 1984.[^ref-1][^ref-2][^ref-4] |
 | — | March 1984 | Apple II | Port by Ivan Strand. MobyGames and Wikipedia give 1984; FRGCB gives 1983.[^ref-1][^ref-2][^ref-4] |
 | — | March 1984 | ColecoVision | Cartridge, by Don McGlauflin[^ref-2][^ref-14] |
 | — | 1984 | IBM PC Booter | Port by John Rinck[^ref-2][^ref-4] |
 | — | 1985 | MSX | Ported and published in Japan by Comptiq. FRGCB gives 1984.[^ref-2][^ref-4] |
 | — | August 1985 | Sharp X1 | Japanese release by Comptiq[^ref-2] |
 | Fan Port | 2013 | Commodore PET/CBM | Unofficial conversion by NOP Software[^ref-2][^ref-4] |
+
+### Technical Issues
+
+One Lemon64 user reported that on the Commodore 64 the enemies freeze completely at higher levels.[^ref-12] Home of the Underdogs complained that the enemies become far too fast at higher levels.[^ref-17]
 
 ### Easter Eggs and Trivia
 
@@ -152,7 +155,7 @@ The Commodore 64 version appeared in Main Street Publishing's *Familiar Favorite
 
 ### Fan Projects
 
-In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/CBM.[^ref-2][^ref-4] Firestorm Productions made a separate fan remake, which Classic-Retro-Games describes as a 40-level game.[^ref-13] Clones continued into the 1990s, including *Oilmania* for the Atari ST.[^ref-21]
+In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/CBM.[^ref-2][^ref-4] Firestorm Productions made a separate fan remake, which Classic-Retro-Games describes as a 40-level game.[^ref-13] Bloody Monkey released *Tubopac* in 2006, which the Internet Archive item describes as a remake of *Oils Well* with twelve levels and six difficulty levels.[^ref-31] Clones continued into the 1990s, including *Oilmania* for the Atari ST.[^ref-21]
 
 ### Related Publications
 
@@ -162,7 +165,7 @@ In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on Steam, GOG or other major digital storefronts
+- Not sold on Steam, GOG or other major digital storefronts as of November 2026
 - [GOG Dreamlist – Oil's Well (1983)](https://www.gog.com/dreamlist/game/oil-s-well-1983) — community request for a re-release
 
 **Download / Preservation**
@@ -201,3 +204,9 @@ In 2013 NOP Software made an unofficial Oil's Well demake for the Commodore PET/
 [^ref-23]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file) – Atari 8-bit release
 [^ref-24]: [Ahoy! – Issue 4, April 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-04/page/n56/mode/2up) – Randy Palmer's C-64 review, pp. 57–58: "Graphics and sound are serviceable; gameplay is, in my experience, unique"
 [^ref-25]: [Computer Games – Vol. 3 No. 4, December 1984 (Internet Archive)](https://archive.org/details/Computer_Games_Vol_3_No_4_1984-12_Carnegie_Publications_US/page/n62/mode/1up) – Apple II capsule review, p. 63: Golden Floppy Award for Best Maze Game of the Year
+[^ref-26]: [Antic – Vol. 2 No. 12, March 1984 (Internet Archive)](https://archive.org/details/1984-03-anticmagazine) – Harvey Bernstein's combined review of *BC's Quest for Tires* and *Oil's Well* (Atari, 40K disk, $29.95)
+[^ref-27]: [Computer Entertainer – Vol. 3 No. 1, April 1984 (Internet Archive)](https://archive.org/details/computer-entertainer-3-1) – ColecoVision review, "Recommended (MSR $39.95)"
+[^ref-28]: [Computer Games – Vol. 3 No. 2, June 1984 (Internet Archive)](https://archive.org/details/Computer_Games_Vol_3_No_2_1984-06_Carnegie_Publications_US) – Commodore 64 capsule review, graded "A"
+[^ref-29]: [ANALOG Computing – Issue 16 (Internet Archive)](https://archive.org/details/analog-computing-magazine-16) – Patrick J. Kelley's review of the Atari cartridge
+[^ref-30]: [Computer Gaming World – Vol. 4 No. 2, April 1984 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_4.2) – Dave Stone's review
+[^ref-31]: [Internet Archive – Tubopac](https://archive.org/details/Tubopac_game) – Bloody Monkey, 2006 remake of Oils Well
