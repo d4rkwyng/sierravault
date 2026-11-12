@@ -10,17 +10,17 @@ series: Hi-Res Adventure
 engine: Custom (Al Lowe's interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Gelfling Adventure is a 1984 Apple II children's adventure from Sierra On-Line, a simplified, multiple-choice version of Hi-Res Adventure #6 The Dark Crystal programmed by Al Lowe with text by Michael and Rae Lynn MacChesney."
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Gelfling Adventure is an adventure game published by Sierra On-Line in 1984 for the Apple II.[^ref-1] It is a simplified version of Hi-Res Adventure #6: The Dark Crystal, intended for younger players,[^ref-2][^ref-6] and was produced by Sierra "in conjunction with Henson Associates and Christopher Cerf Associates."[^ref-22] Al Lowe programmed it; the text and educational concepts were written by Michael MacChesney and Rae Lynn MacChesney.[^ref-22][^ref-7] Sierra presented it as a "junior adventure game" at the 1984 Consumer Electronics Show in Chicago,[^ref-30][^ref-31] and A+ magazine reviewed it in February 1985.[^ref-27]
+Gelfling Adventure is an adventure game published by Sierra On-Line in 1984 for the Apple II.[^ref-1] It is a simplified version of Hi-Res Adventure #6: The Dark Crystal, intended for younger players,[^ref-2][^ref-6] and was produced by Sierra "in conjunction with Henson Associates and Christopher Cerf Associates."[^ref-22] Al Lowe programmed it; the text and educational concepts were written by Michael MacChesney and Rae Lynn MacChesney.[^ref-22][^ref-7] Sierra presented it as a "junior adventure game" at the 1984 Consumer Electronics Show in Chicago,[^ref-30][^ref-31] and A+ magazine reviewed it in February 1985.[^ref-27] Per Adventure Game History, Encyclopaedia Britannica marketed an abridged version in 1985, including a student booklet and a teacher's manual.[^ref-35]
 
 Rather than requiring players to type text commands, Gelfling Adventure uses a multiple-choice interface: "The entire game is controlled with the space bar and return key," and players do not need to know how to type.[^ref-22] The game reuses The Dark Crystal's graphics and storyline with simpler, menu-oriented puzzles and options.[^ref-1] Lowe built it with an interpreter he had already written for his earlier games, describing the result as "multiple choice questions for little kids."[^ref-3]
 
@@ -83,7 +83,7 @@ Hardcore Gaming 101 notes that its main difference from The Dark Crystal is "str
 
 Gelfling Adventure followed Hi-Res Adventure #6: The Dark Crystal (1983), which was designed by Roberta Williams.[^ref-2] Sierra produced it "in conjunction with Henson Associates and Christopher Cerf Associates."[^ref-22] A January 1985 Electronic Games profile of Christopher Cerf, who by then represented Henson Associates on behalf of the Muppets, noted that "Chris also worked with Sierra on the Gelfling Adventure based on Henson's movie, 'The Dark Crystal.'"[^ref-28]
 
-Al Lowe joined Sierra in 1982 as employee number 20, and he would spend 16 years there designing, writing, programming and coding music for games.[^ref-3] His earlier credits include Bop-A-Bet and Dragon's Keep (1982, Sunnyside Soft) and Troll's Tale (1983, Sierra On-Line), all of which predate his later Leisure Suit Larry series.[^ref-25] The Lowe–MacChesney partnership also predates Gelfling: a 1983 Peelings II entry on Sierra's "Elementary Adventure Games" credits both Dragon's Keep and Troll's Tale to "Al Lowe and Michael MacChesney."[^ref-34]
+Al Lowe joined Sierra in 1982 as employee number 20, and he would spend 16 years there designing, writing, programming and coding music for games.[^ref-3] His earlier credits include Bop-A-Bet and Dragon's Keep (1982, Sunnyside Soft) and Troll's Tale (1983, Sierra On-Line), all of which predate the Leisure Suit Larry series for which he later became famous.[^ref-25] The Lowe–MacChesney partnership also predates Gelfling: a 1983 Peelings II entry on Sierra's "Elementary Adventure Games" credits both Dragon's Keep and Troll's Tale to "Al Lowe and Michael MacChesney."[^ref-34]
 
 ### Production
 
@@ -114,12 +114,12 @@ A German report in Computer Praxis (August/September 1984) listed among Sierra's
 - **Interface:** Multiple choice, controlled with the space bar and return key
 - **Graphics:** Shared with Hi-Res Adventure #6
 
-### Easter Eggs and Trivia
+### Version History
 
-- MOCAGH calls it one of the rarest Sierra On-Line games ever produced[^ref-23]
-- In a 2018 video tour of his collection, Lowe produced his copy, and Metal Jesus called it "extremely rare"[^ref-3]
-- The game shares its graphics with Hi-Res Adventure #6: The Dark Crystal[^ref-3]
-- Al Lowe would later become famous for creating the Leisure Suit Larry series[^ref-25]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | 1984 | Apple II | Multiple-choice junior adventure on one 5¼" disk[^ref-1][^ref-27] |
+| Britannica school edition | 1985 | Apple II | Abridged version marketed by Encyclopaedia Britannica, with a student booklet and a teacher's manual, per Adventure Game History[^ref-35] |
 
 ## Legacy
 
@@ -129,20 +129,14 @@ Gelfling Adventure was Sierra's adaptation of one of its own adventure games for
 
 ### Collector's Market
 
-Original copies are scarce: MOCAGH describes the game as "one of the rarest Sierra On-Line games ever produced, presumably due to low sales,"[^ref-23] and in a 2018 video Lowe's own copy was presented as "extremely rare."[^ref-3]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- No GOG or Steam listing (checked November 2026)
+Original copies are scarce. In a 2018 video tour of his collection, Lowe produced his own copy, and host Metal Jesus called it "extremely rare."[^ref-3]
 
 ## Downloads
 
-**Digital Availability**
-- No official digital re-release on GOG, Steam, or other storefronts
-- Not available for modern purchase
+**Purchase / Digital Stores**
+- No GOG or Steam listing (as of November 12, 2026)
 
-**Preservation / Emulation**
+**Download / Preservation**
 - [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - Playable via Apple IIe emulator[^ref-11]
 - [Adventure Gamers Database](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982)[^ref-1]
 - [MobyGames - The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - Lists Gelfling Adventure as an alternate title[^ref-7]
@@ -177,3 +171,4 @@ Original copies are scarce: MOCAGH describes the game as "one of the rarest Sier
 [^ref-32]: [Family Computing No. 16, December 1984](https://archive.org/details/FamilyComputingIssue041983Dec/Family_Computing_Issue_16_1984_Dec/) - rebate roundup scan: Sierra "Buy 2 educational programs, get 1 free" offer listing Gelfling Adventure
 [^ref-33]: [Vintage-Sierra - Gelfling Adventure](https://web.archive.org/web/20221207204453/http://www.vintage-sierra.net/childrens/gelflingadv.php) - Wayback Machine copy (December 7, 2022) of a collector's page: clamshell case, disk, manual and map; rarity
 [^ref-34]: [Peelings II, vol. 4 no. 8 (1983)](https://archive.org/details/peelings-ii-v4n8-1983) - scan: Dragon's Keep and Troll's Tale "by Al Lowe and Michael MacChesney"
+[^ref-35]: [Adventure Game History - Sierra On-Line, Inc.](http://adventure.if-legends.org/Sierra_On-Line,_Inc.html) - Gelfling entry: simplified Dark Crystal for a younger audience; three choices via the spacebar; "In 1985 it was marketed by Encyclopaedia Britannica in an abridged version including a student booklet and a teacher's manual."
