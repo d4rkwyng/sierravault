@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: In Pursuit of the Death Angel", "Police Quest II: The Vengeance", "Codename: Iceman", "Police Quest III: The Kindred", "Blue Force", "Blade Runner"]
 companies: ["Sierra On-Line", "Tsunami Media", "Westwood Studios"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Jim Walls
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ Electronic Arts had bought Westwood, along with Virgin Interactive's North Ameri
 
 For about a decade after leaving Westwood, Walls was in retirement.[^ref-4] In early 2013, in a podcast conversation with Chris Pope, Walls said: "I think I'm going to get back into it. So maybe do a Kickstarter … a new Police Quest-type game, although it has to be completely different". Kotaku Australia reported this on 3 February 2013, and Choicest Games dates the podcast to 2 February.[^ref-19][^ref-4]
 
-On July 16, 2013, the project was revealed as [[CXL - Precinct (2013)|Precinct]], a 3D adventure game following police officer Maxwell Jones in the fictional city of Fraser Canyon, California.[^ref-20][^ref-34][^ref-1] The game was to be developed by Jim Walls Reloaded, led by Walls and fellow Sierra developer Robert Lindsley. Explaining the new setting to Rock Paper Shotgun, Walls said: "Lytton was a small city, and this is a large one." He described two street gangs taking over the central precinct area, and said "Police officers today have way more danger that they face than they did then."[^ref-41] The Kickstarter campaign aimed to raise $500,000; in its final week the team wrote that the project was "just over 15% funded and it's clear that we're not going to hit our goal".[^ref-21]
+On July 16, 2013, the project was revealed as [[CXL - Precinct (2013)|Precinct]], a 3D adventure game following police officer Maxwell Jones in the fictional city of Fraser Canyon, California.[^ref-20][^ref-34][^ref-1] The game was to be developed by Jim Walls Reloaded, led by Walls and fellow Sierra developer Robert Lindsley. Explaining the new setting to Rock Paper Shotgun, Walls said: "Lytton was a small city, and this is a large one." He described two street gangs taking over the central precinct area, and said "Police officers today have way more danger that they face than they did then."[^ref-41] The Kickstarter campaign aimed to raise $500,000; in its final week the team wrote that the project was "just over 15% funded and it's clear that we're not going to hit our goal".[^ref-43]
 
 It raised $85,756. Walls cancelled the campaign on August 6, 2013, before its scheduled August 16 deadline.[^ref-21][^ref-1] An alternate, staged funding drive through their own website also failed and was cancelled "after only two weeks".[^ref-4] The project site as archived in October 2013 shows $11,961 raised from 431 supporters toward a $400,000 goal, marked "Project Closed".[^ref-42] In an email to backers, Walls remained optimistic: "This is not the end! Precinct will rise again! It's too good not to."[^ref-4]
 
@@ -169,3 +169,4 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 [^ref-40]: [Will Perkins on Bluesky (July 9, 2026)](https://bsky.app/profile/williamhperkins.bsky.social/post/3mq7qauk6gs2i) — "now we have a nearly completed two hour cut of the documentary in hand"
 [^ref-41]: [Rock Paper Shotgun - Interview: Jim Walls' Arresting Development](https://www.rockpapershotgun.com/interview-jim-walls-arresting-development) — Richard Cobbett, July 18, 2013: Walls and Robert Lindsley on Precinct's large-city setting
 [^ref-42]: [Precinct project site (Wayback, 11 Oct 2013)](https://web.archive.org/web/20131011002353/http://fund.precinctgame.com/) — "Goal $400,000 3% $11,961 Raised 431 Supporters Project Closed"
+[^ref-43]: [Kickstarter – Precinct, Update #7 (Wayback, 18 Dec 2013)](https://web.archive.org/web/20131218074625/http://www.kickstarter.com/projects/precinctgame/precinct/posts) — Update #7, 6 Aug 2013, "Precinct and staged funding": "our project is just over 15% funded and it's clear that we're not going to hit our goal"

@@ -1,7 +1,7 @@
 ---
 title: "Cancelled Games"
 type: guide
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Sierra's most significant cancelled projects, from Space Quest VII and King's Quest IX to the 2013 Kickstarters, with what the sources say about why each one ended and what survives."
 tags: [guide, cancelled, never-released]
 ---
@@ -103,7 +103,7 @@ In 2013, [[Jim Walls]]—creator of the Police Quest series—attempted to reviv
 
 **What Happened:** The Kickstarter campaign launched July 16, 2013, seeking $500,000 to develop a first-person police adventure set in the fictional corrupt town of Fraser Canyon, California. With $85,756 pledged (17% of goal), it was cancelled by its creators on August 6, 2013.[^ref-14][^ref-34]
 
-**Why It Was Cancelled:** Robert Lindsley, president of Jim Walls Reloaded, said the campaign was cancelled so the team could build a playable pilot version, letting potential backers "experience" the vision rather than judge it from a tech demo video.[^ref-14]
+**Why It Was Cancelled:** Robert Lindsley, president of Jim Walls Reloaded, said the campaign was cancelled so the team could build a playable pilot version, letting potential backers "experience" the vision rather than judge it from a tech demo video.[^ref-48]
 
 **What Was Planned:** Players would control Officer Maxwell Jones, combining real police procedures with action sequences—shootouts, high-speed car chases, foot pursuits, and hand-to-hand combat.[^ref-34]
 
@@ -293,3 +293,4 @@ Sierra's cancelled games offer cautionary tales about:
 [^ref-45]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – Kingdom of Sorrow announced June 18, 2010; "This game was announced to be cancelled on 27 July 2012"
 [^ref-46]: [King's Quest Omnipedia – King's Quest: Kingdom of Sorrow (Infamous Adventures)](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) – announced June 20, 2010 after two days of delays; "forced to cancel or put on indefinite hold"
 [^ref-47]: [Al Lowe – Is Larry Dead?](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8: Lust in Space"
+[^ref-48]: [Engadget (Joystiq) – Precinct Kickstarter canceled, moves to its own tiered funding](https://www.engadget.com/2013-08-06-precinct-kickstarter-canceled-moves-to-its-own-tiered-funding.html) – Robert Lindsley told Joystiq the campaign was canceled so the team could build a playable pilot, letting backers "experience" the vision rather than judge from a tech demo video

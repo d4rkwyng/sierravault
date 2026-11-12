@@ -10,20 +10,19 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-05'
-description: Precinct was an ambitious crowdfunded police adventure video game announced
-  in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
+last_updated: '2026-11-12'
+description: Precinct was a crowdfunded police adventure game announced in 2013 by Jim Walls, the creator of Sierra On-Line's Police Quest, whose Kickstarter and follow-up campaign were both cancelled before the game was made.
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Precinct was an ambitious crowdfunded police adventure video game announced in 2013 by [[Jim Walls]], the creator of Sierra On-Line's legendary Police Quest series[^ref-1][^ref-16]. Conceived as a spiritual successor to the classic franchise whose official name was owned by Activision, the project sought to revive the police procedural adventure genre for a new generation of players[^ref-2][^ref-12]. The game was designed to combine authentic police procedures with modern gaming technology, featuring first-person gameplay with intense action sequences including shootouts, high-speed car chases, investigations, foot pursuits, and hand-to-hand combat[^ref-2][^ref-13].
 
-Set in the fictional corrupt town of Fraser Canyon, California, Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8][^ref-22]. Update #7 told backers that the project was "just over 15% funded" and "it's clear that we're not going to hit our goal"[^ref-25]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. Shacknews noted that backers would only be billed once a milestone was reached, and that the $400,000 goal was $100,000 below the previous one[^ref-21]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19]; the project's own site, as archived on October 3, 2013, shows $11,961 from 431 supporters and "Project Closed"[^ref-24]. The game was never made. In August 2014 Walls told backers by email that the project was "on hold", and Choicest Games reported him as still hopeful of doing *Precinct* in the future[^ref-23].
+Set in what the campaign called "the corrupt town of Fraser Canyon, CA" (Walls himself later described the setting to Rock Paper Shotgun as a large city), Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8][^ref-22]. Update #7 told backers that the project was "just over 15% funded" and "it's clear that we're not going to hit our goal"[^ref-25]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. Shacknews noted that backers would only be billed once a milestone was reached, and that the $400,000 goal was $100,000 below the previous one[^ref-21]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19][^ref-30]; the project's own site, as archived on October 3, 2013, shows $11,961 from 431 supporters and "Project Closed"[^ref-24]. The game was never made. In August 2014 Walls told backers by email that the project was "on hold", and Choicest Games reported him as still hopeful of doing *Precinct* in the future[^ref-23].
 
 > [!info]- Game Info
 > **Developer:** Jim Walls Reloaded[^ref-16] (Tiny Castle Studios' team helped create the Kickstarter campaign[^ref-8])
@@ -38,7 +37,7 @@ Set in the fictional corrupt town of Fraser Canyon, California, Precinct would h
 
 ## Story Summary
 
-Precinct was set in the fictional town of Fraser Canyon, California, which the campaign called "the corrupt town of Fraser Canyon, CA"[^ref-3][^ref-8]. Players would assume the role of officer Maxwell Jones, "starting out as a rookie and then moving up the ranks"[^ref-8].
+Precinct was set in Fraser Canyon, California, which the campaign called "the corrupt town of Fraser Canyon, CA"[^ref-3][^ref-8]. In an interview with Rock Paper Shotgun, however, Walls described the setting as a large city: "Lytton was a small city, and this is a large one." He added that "there'll be two street gangs that are taking over the central precinct area, and that's going to be the purpose of the game - to break those gangs up"[^ref-29]. Players would assume the role of officer Maxwell Jones, "starting out as a rookie and then moving up the ranks"[^ref-8].
 
 The narrative was designed to follow Jones from his days as a rookie patrol officer through his advancement in the department[^ref-3]. The campaign described "a gripping crime story based on true accounts of real police cases," with "corrupt cops, greedy public officials, and a deadly struggle for control of Fraser Canyon's criminal underground"[^ref-8].
 
@@ -65,7 +64,7 @@ After the Kickstarter was cancelled, the staged funding campaign set the followi
 
 ### Puzzles and Mechanics
 
-True to its Police Quest heritage, Precinct was designed to require players to follow correct police procedure[^ref-2]. The campaign listed its action sequences as "shootouts, high speed car chases, investigations, foot pursuits, hand-to-hand combat, and more"[^ref-13].
+True to its Police Quest heritage, Precinct was designed to require players to follow correct police procedure[^ref-2]. The campaign listed its action sequences as "shootouts, high speed car chases, investigations, foot pursuits, hand-to-hand combat, and more"[^ref-13]. Shacknews's launch report told readers to "Expect puzzles, driving, combat" and a heavy dose of correct procedure[^ref-27], and GamesBeat said the game would "feature classic adventure-game-style puzzles"[^ref-28].
 
 ## Reception
 
@@ -102,7 +101,7 @@ Precinct remains a notable example of a cancelled crowdfunding project from the 
 
 ### Origins
 
-Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
+Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20], and PCGamesN likewise says he served in the California Highway Patrol "until 1986"[^ref-30]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
 
 Launch coverage from Shacknews and GamesBeat gave the same $500,000 goal and a 2014 release for PC and Mac; Shacknews added an $800,000 stretch goal for iOS, Android, Xbox 360 and PlayStation 3, and GamesBeat said Activision currently owned the rights to Police Quest[^ref-27][^ref-28].
 
@@ -129,7 +128,7 @@ Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted t
 
 ### Technical Achievements
 
-The game was designed to leverage the Unity3D engine to create real-time 3D environments representing the fictional town of Fraser Canyon[^ref-4]. The first-person perspective was a contrast with the original Police Quest[^ref-26].
+The game was designed to leverage the Unity3D engine to create real-time 3D environments representing Fraser Canyon[^ref-4]. The first-person perspective was a contrast with the original Police Quest[^ref-26].
 
 The planned distribution model included digital download via Steam, representing the shift in game distribution that had occurred since the original Police Quest era[^ref-4].
 
@@ -227,3 +226,7 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 [^ref-27]: [Shacknews – Police Quest creator crowdfunding Precinct](https://shacknews.com/article/80188/police-quest-creator-crowdfunding-precinct) – Alice O'Connor, 16 Jul 2013: $500,000 goal; PC and Mac in Q3 2014; rookie cop; $800k stretch goal for iOS, Android, Xbox 360 and PS3
 
 [^ref-28]: [GamesBeat – Police Quest creator is back with spiritual successor Precinct](https://gamesbeat.com/police-quest-creator-is-back-with-spiritual-successor-precinct/) – Jeff Grubb, 16 Jul 2013: Jim Walls Reloaded studio; $500,000; PC and Mac in 2014; "Activision currently owns the rights to Police Quest"
+
+[^ref-29]: [Rock Paper Shotgun – Interview: Jim Walls' Arresting Development](https://www.rockpapershotgun.com/interview-jim-walls-arresting-development) – Richard Cobbett, 18 Jul 2013: Walls on the large-city setting ("Lytton was a small city, and this is a large one") and the two street gangs
+
+[^ref-30]: [PCGamesN – Police Quest successor Precinct cancelled as crowdfunders decide it isn't any cop](https://www.pcgamesn.com/police-quest-successor-precinct-cancelled-crowdfunders-decide-it-isnt-any-cop) – Jeremy Peel, updated 26 Aug 2013: second campaign garnered "only 430 supporters to the tune of less than $12,000"; Walls in the CHP "until 1986"
