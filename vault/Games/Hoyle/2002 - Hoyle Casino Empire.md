@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: null
 protagonist: Player (casino manager)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Casino Empire (Casino Empire in Europe) is a 2002 Windows casino-management
   simulation developed in-house and published by Sierra Entertainment, in which the
   player builds and runs a series of Las Vegas casinos.
@@ -18,7 +18,7 @@ tags: [2000s, simulation, hoyle-casino, sierra]
 ---
 # Hoyle Casino Empire
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -95,6 +95,12 @@ IGN's Ivan Sulic was the harshest of the major sites, calling it "a tycoon game 
 
 MobyGames averages 14 critic reviews at 65%. The highest are GameZone (84%) and ESC Magazine (80%), and the lowest are GameSpot (59%), PC Zone Benelux (53%) and PCG (40%)[^ref-21]. Its player average is 3.5 out of 5 from nine ratings[^ref-21]. On My Abandonware the game holds a 4.14/5 user rating from 58 votes[^ref-13].
 
+### Aggregate Scores
+
+- **MobyGames critic average:** 65% from 14 reviews[^ref-21]
+- **MobyGames player average:** 3.5 out of 5 from nine ratings[^ref-21]
+- **My Abandonware user rating:** 4.14/5 from 58 votes[^ref-13]
+
 ## Development
 
 ### Origins
@@ -106,6 +112,19 @@ In June 2002 producer Steve van Horn and designer/programmer Scott Bodenbender s
 ### Production
 
 The game was made by an in-house Sierra team[^ref-17]; review sites credited the developer as "Sierra Attractions"[^ref-22][^ref-23]. MobyGames lists 111 people in the credits[^ref-18]. Stephen H. Van Horn was executive producer, Jason Piel and Scott Bodenbender were lead designers, Mark Seminatore was principal software engineer and project lead, and Jason Piel was also art director[^ref-19]. Ryan Spain wrote the manual and script, Cara Ely was script writer, editor and casting director, and Alex Jacobs was credited as casino consultant[^ref-19]. [[Rabih AbouJaoudé]] is among the additional artists[^ref-19]. The casino modelling and fly-through sequences were done by Mondo Media[^ref-19], and IMDb lists Jason Piel as director[^ref-10].
+
+### Development Credits
+
+- **Executive producer:** Stephen H. Van Horn[^ref-19]
+- **Lead designers:** Jason Piel, Scott Bodenbender[^ref-19]
+- **Art director:** Jason Piel[^ref-19]
+- **Principal software engineer and project lead:** Mark Seminatore[^ref-19]
+- **Composer and sound engineer:** Mike Caviezel[^ref-19]
+- **Additional compositions:** Evan Buehler, Ben Houge[^ref-19]
+- **Manual and script:** Ryan Spain[^ref-19]
+- **Script writer, editor and casting director:** Cara Ely[^ref-19]
+- **Casino consultant:** Alex Jacobs[^ref-19]
+- **Casino modelling and fly-throughs:** Mondo Media[^ref-19]
 
 ### Music and Sound
 
@@ -187,58 +206,16 @@ Reviewers at the time treated Casino Empire as Sierra's first try at taking the 
 - [[Hoyle Series]]
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
 - [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Slots and Video Poker]]
-- [[1999 - Hoyle Word Games]]
 - [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
 - [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
 - [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
-- [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
 - [[2007 - Hoyle Casino 2008]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2010 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 
 ## References
