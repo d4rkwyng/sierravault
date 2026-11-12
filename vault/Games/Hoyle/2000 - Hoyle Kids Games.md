@@ -11,7 +11,7 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Kids Games 2000 is a collection of twelve classic children's games
   released by Sierra On-Line on September 7, 2000 for Windows and Macintosh as part
   of the Hoyle series.
@@ -19,7 +19,7 @@ tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -101,7 +101,7 @@ GameFAQs users rate the game "Good", based on two user ratings.[^ref-2]
 
 ### Origins
 
-The game was developed and published in-house by Sierra On-Line, Inc.[^ref-1] GameFAQs lists the developer and publisher under the later Sierra Entertainment name.[^ref-2] Sierra's press release credited the game to its Casual Entertainment Division and quoted Steve Van Horn, the division's senior vice president and business unit manager: "Our internal development group has produced a fine new addition to the very popular Hoyle line of products, and created a new game designed just for kids."[^ref-19]
+The game was developed and published in-house by Sierra On-Line, Inc.[^ref-1] GameFAQs lists the developer and publisher under the later Sierra Entertainment name.[^ref-2] Sierra's press release credited the game to its Casual Entertainment Division and quoted Steve Van Horn, the division's senior vice president and business unit manager: "Our internal development group has produced a fine new addition to the very popular Hoyle line of products, and created a new game designed just for kids."[^ref-19] MobyGames credits Stephen H. Van Horn as Business Unit Manager.[^ref-18] The Hoyle name is a registered trademark of Brown & Bigelow, Inc., used under license by Sierra On-Line.[^ref-20]
 
 ### Production
 
@@ -110,6 +110,7 @@ Michael Katz produced the game and is also credited as one of its designers, as 
 Jeff Hoyt was one of six credited script writers and also one of the voice actors.[^ref-18] His MobyGames credits on Hoyle titles run from Hoyle Poker and Hoyle Classic Card Games (1997) to Hoyle Puzzle & Board Games (2009).[^ref-9]
 
 **Development Credits (selected):**[^ref-18]
+- **Business Unit Manager:** Stephen H. Van Horn
 - **Producer:** Michael Katz
 - **Associate Producers:** Eric Hook, Adam D. Bormann
 - **Designers:** Michael Katz, Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, Robert L. Jerauld
@@ -168,7 +169,7 @@ Voice synchronization is credited to Dennis Ham, Mike Caviezel, Tisha Caviezel, 
 
 ### Sales and Commercial Impact
 
-No sales figures for this game have been found. In its launch press release Sierra said the Hoyle CD-ROM series as a whole "sold over 1.3 million copies in 1999, according to PC Data".[^ref-19] Sierra's Catalogue 2000-2001 included the game on page 19, a "Hoyle Range" page tagged with nine Hoyle titles.[^ref-4]
+No sales figures for this game have been found. In its launch press release Sierra said the Hoyle CD-ROM series as a whole "sold over 1.3 million copies in 1999, according to PC Data".[^ref-19]
 
 ### International Release
 
