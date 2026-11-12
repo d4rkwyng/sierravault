@@ -9,13 +9,13 @@ series: Tribes
 engine: Unreal Engine 5
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Tribes 3: Rivals is a 2024 first-person shooter continuing the Tribes series, developed by Prophecy Games using Unreal Engine 5."
 tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,6 +32,10 @@ Built on Unreal Engine 5, Tribes 3: Rivals is a team-based capture-the-flag shoo
 > **Series:** Tribes (Starsiege)
 > **Protagonist:** N/A
 > **Sierra Lineage:** Post-Sierra (Dynamix IP)
+
+## Story Summary
+
+Tribes 3: Rivals is a team-based competitive shooter built around capture-the-flag matches rather than a story campaign.[^ref-5][^ref-27]
 
 ## Gameplay
 
@@ -50,7 +54,7 @@ Tribes 3: Rivals keeps the core elements of the Dynamix-era games:[^ref-5]
 
 Weapons do not need to be unlocked, and all non-cosmetic items are accessible to every player.[^ref-26]
 
-### Puzzles and Mechanics
+### Classes and Loadouts
 
 Players choose from three armor classes:[^ref-26]
 
@@ -84,12 +88,12 @@ The game peaked at 890 concurrent players on launch day, March 12, 2024.[^ref-3]
 
 ### Modern Assessment
 
-On June 26, 2024, Prophecy Games posted an announcement on Steam. It said that neither Tribes 3: Rivals nor its other title, Starsiege: Deadzone, "had enough success yet to support the studio and can't be our main development focus right now".[^ref-34] Prophecy said it would support Tribes 3 with "limited updates", and gave players a dollar-for-dollar credit, for anything spent on either game before June 27, 2024, towards its next game, Ultra Strikers.[^ref-34] PC Gamer covered the announcement the next day under the headline "The latest attempt to revive Tribes looks cooked after three months".[^ref-4]
+On June 26, 2024, Prophecy Games posted an announcement on Steam. It said that neither Tribes 3: Rivals nor its other title, Starsiege: Deadzone, "had enough success yet to support the studio and can't be our main development focus right now".[^ref-34] Prophecy said it would support Tribes 3 with "limited updates", and gave players a dollar-for-dollar credit, for anything spent on either game before June 27, 2024, towards its next game, Ultra Strikers.[^ref-34] PC Gamer covered the announcement the next day under the headline "The latest attempt to revive Tribes looks cooked after three months".[^ref-4] As of November 2026, the Steam store page carries the notice "The last update made by the developers was over 2 years ago."[^ref-5]
 
 | Metric | Status |
 |--------|--------|
 | Peak Players | 890 (March 12, 2024)[^ref-3] |
-| Current Status | Early Access, limited updates since June 2024[^ref-5][^ref-34] |
+| Current Status | Early Access; no updates posted since June 2024[^ref-35][^ref-38] |
 | Steam Reviews | Mixed[^ref-5] |
 
 **Aggregate Scores:**
@@ -106,6 +110,15 @@ Hi-Rez Studios bought the Tribes IP from InstantAction in October 2010 and relea
 Rock Paper Shotgun's notes from the December 2023 alpha playtest called it "heavily Ascend-inspired", noting that it copied over much of Tribes: Ascend's sound effects and music, and that vehicles and the VGS voice-command system were planned but not yet present. The default Capture the Flag mode was 5v5, with a 12v12 option tucked into custom lobbies.[^ref-31] IGN's hands-on with the same alpha build enjoyed the speed of play but worried about "somewhat claustrophobic maps and tiny teams".[^ref-32] In February 2024 the game took part in Steam Next Fest with a free playable demo.[^ref-37] A Steam FAQ posted on March 2, 2024 confirmed the Early Access date of March 12, 2024 and a launch price of $17.99, a 10% discount on the full price of $19.99.[^ref-33]
 
 Prophecy describes the game as "crafted with input from the TRIBES community", aiming to honor the series' legacy while adding new elements.[^ref-5] At launch, the studio published an Early Access roadmap of new weapons, maps and class abilities, and hoped to stay in Early Access for six to twelve months.[^ref-2]
+
+### Version History
+
+| Date | Update |
+|------|--------|
+| March 12, 2024 | Early Access release[^ref-38] |
+| April 5, 2024 | 4/5 Emergency Patch[^ref-38] |
+| April 30, 2024 | April Patch Update[^ref-38] |
+| June 17, 2024 | Moonrise patch[^ref-35] |
 
 ### Technical Achievements
 
@@ -171,3 +184,4 @@ The game is still sold in Early Access on Steam.[^ref-5] The official website st
 [^ref-35]: [Steam – TRIBES 3: Rivals: Moonrise Patch Notes](https://store.steampowered.com/news/app/2687970/view/6890025005364705779) – Prophecy Games, June 17, 2024; Moonrise map, NVIDIA Reflex, friendly-fire mutator
 [^ref-36]: [MobyGames – Tribes III: Rivals](https://www.mobygames.com/game/219378/tribes-iii-rivals/) – Windows release 2024-03-12; developed and published by Prophecy Games, Inc. (read via the MobyGames API)
 [^ref-37]: [Steam – TRIBES 3: Rivals: Steam Next Fest Demo & Patch Notes](https://store.steampowered.com/news/app/2687970/view/5582843074956393359) – Prophecy Games, February 5, 2024; free Next Fest demo
+[^ref-38]: [Steam News API – TRIBES 3: Rivals (app 2687970)](https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=2687970&count=20) – Steam Community Announcements: "Early Access is now Live!" and "Early Access Release - 3/12 Patch Notes" (March 12, 2024), "4/5 Emergency Patch" (April 5, 2024), "April Patch Update" (April 30, 2024), "Moonrise Patch Notes" (June 17, 2024); no later developer announcement besides the June 26, 2024 post
