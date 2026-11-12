@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a 2003 three-dimensional real-time strategy game from
   Relic Entertainment and Sierra that continues the Hiigaran saga about a century after
@@ -19,7 +19,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ Despite receiving critical acclaim for its lavish graphics and atmospheric prese
 
 The story of Homeworld 2 begins in the year 9625 GSY (115 AHL), approximately one hundred years after the Kushan—now known as Hiigarans—reclaimed their ancestral homeworld at the conclusion of the original Homeworld[^ref-2]. The Hiigarans have rebuilt their civilization, but dark clouds are gathering over Hiigara as a new threat emerges from the galactic fringes[^ref-2]. Karan S'jet, who became the living core of the Mothership in the original game, returns as Fleet Command aboard a new Mothership, the *Pride of Hiigara*[^ref-1].
 
-The central conflict revolves around three ancient artifacts known as the Hyperspace Cores—relics of the mysterious Progenitor race that once dominated the galaxy[^ref-1]. The Hiigarans possess the second Core, while the Vaygr warlord Makaan has obtained the third and launched a campaign of conquest[^ref-1]. Religious beings throughout the galaxy consider the discovery of the Third Core to announce the End Times, during which Sajuuk—thought to be an immensely powerful being—will return[^ref-1]. The quest for the mythical first Core and the awakening of Sajuuk drives the narrative forward across fifteen missions[^ref-48].
+The central conflict revolves around three ancient artifacts known as the Hyperspace Cores—relics of the mysterious Progenitor race that once dominated the galaxy[^ref-1]. The Hiigarans possess the second Core, while the Vaygr warlord Makaan has obtained the third and launched a campaign of conquest[^ref-1]. Religious beings throughout the galaxy consider the discovery of the Third Core to announce the End Times, during which Sajuuk—thought to be an immensely powerful being—will return[^ref-1]. The quest for the First Core and the awakening of Sajuuk drives the narrative forward across fifteen missions[^ref-48].
 
 Homeworld 2 chronicles the valiant journey of the Mothership and its crew into the oldest regions of the galaxy to confront their new foe and discover the truth behind their exile[^ref-6]. The story takes players through encounters with ancient Progenitor ruins, including the wreckage of a massive Progenitor ship that broke into the Karos Graveyard ten thousand years ago[^ref-2]. Along the way, the Hiigarans must unravel the mysteries surrounding Sajuuk and the true purpose of the Hyperspace Cores while fending off Makaan's relentless Vaygr armada.
 
@@ -61,7 +61,7 @@ The control scheme emphasizes accessibility while maintaining strategic depth, w
 
 ### Structure and Progression
 
-The single-player campaign comprises fifteen missions, each testing the player's ability to manage resources, construct ships, and execute tactical maneuvers[^ref-48]. Unlike many RTS games, Homeworld 2 features a persistent fleet that carries over between missions—ships constructed and preserved in one engagement remain available in subsequent battles, creating meaningful strategic decisions about force composition[^ref-5].
+The single-player campaign comprises fifteen missions, each testing the player's ability to manage resources, construct ships, and execute tactical maneuvers[^ref-48]. Unlike many RTS games, Homeworld 2 features a persistent fleet that carries over between missions—ships constructed and preserved in one engagement remain available in subsequent battles, creating meaningful strategic decisions about force composition[^ref-5]. Players could also "retire" their ships into Resource Units at the end of a mission, which let them begin the next one with a large stockpile against a comparatively weak opponent[^ref-1].
 
 The game employs a controversial dynamic difficulty system that adjusts enemy fleet composition based on the player's performance[^ref-16]. Rather than offering selectable difficulty levels, Relic implemented a system where doing well in one mission results in harder opposition in the next[^ref-18]. This design choice proved divisive, with some players appreciating the adaptive challenge while others found it created peculiar difficulty spikes that made early missions among the hardest in the game[^ref-2].
 
@@ -183,11 +183,11 @@ One Glitchwave user reviewer speculated that the skyboxes' giant derelicts might
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 16, 2003 | Windows | Initial release[^ref-1] |
+| 1.0 | September 16, 2003 | Windows | Initial release in North America; Australia on September 18 and Europe on September 26, 2003[^ref-1] |
 | 1.1 | December 23, 2003[^ref-53] | Windows | Bug fixes and balance changes[^ref-33] |
 | 1.2.12 | — | Windows | Unofficial community patch[^ref-34] |
 | Mac | September 21, 2004 | Mac OS X | Aspyr Media port by Beenox Studios[^ref-32][^ref-1] |
-| Remastered | February 25, 2015 | Windows | Gearbox Software remaster[^ref-35] |
+| Remastered | February 25, 2015 | Windows | [[Gearbox Software]] remaster[^ref-35] |
 | Remastered | August 6, 2015 | OS X | Released by Aspyr on the Mac App Store[^ref-1] |
 
 **Patch 1.1 Changes** (released December 23, 2003[^ref-53]):[^ref-33]
@@ -219,7 +219,7 @@ The Remastered version introduced additional issues, particularly affecting Home
 - Yellow was used mostly as an accent colour, and as the uniform for strictly utilitarian units such as resource collectors and mobile refineries[^ref-36]
 - The interchangeable chassis design from the Kushan in the original Homeworld was transferred to the Vaygr faction in the sequel[^ref-36]
 - Campbell Lane, who voiced the narrator and Bentusi in the original game[^ref-37], returned as the Bentusi for Homeworld 2[^ref-49]
-- The voice of Karan S'jet was recast from Heidi Ernest to Jennifer Dawne Graveness for Homeworld 2. Gearbox's Chris Faylor explained that "Heidi at the time was very pregnant, and that had changed some of her vocal cords, so she didn't sound like herself"[^ref-38]; Ernest returned for the Remastered Collection[^ref-1]
+- Jennifer Dawne Graveness voiced Karan S'jet in Homeworld 2 in place of Heidi Ernest, who returned for the Remastered Collection[^ref-1][^ref-38]
 
 ## Legacy
 
@@ -247,11 +247,11 @@ FarBridge's virtual-reality entry in the series, *Homeworld: Vast Reaches*, is s
 
 ## See Also
 
-- [[2000 - Homeworld - Cataclysm|← Previous: Homeworld: Cataclysm]] — interim expansion from Barking Dog Studios
+- [[2000 - Homeworld - Cataclysm|← Previous: Homeworld: Cataclysm]] — interim expansion from [[Barking Dog Studios]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 - [[1999 - Homeworld]]
 - [[2016 - Homeworld - Deserts of Kharak]]
-- [[2024 - Homeworld 3]] — Blackbird Interactive sequel
+- [[2024 - Homeworld 3]] — [[Blackbird Interactive]] sequel
 - [[Relic Entertainment]] — developer
 - [[Sierra On-Line]] — publisher
 - [[Bibliography]] — canonical Sierra-history sources
@@ -265,8 +265,8 @@ FarBridge's virtual-reality entry in the series, *Homeworld: Vast Reaches*, is s
 [^ref-6]: [Interactive.org – Homeworld 2](https://www.interactive.org/games/video_game_details.asp?idGame=317) – technical features, game description, multiplayer specs
 [^ref-7]: [Homeworld Wiki – Homeworld Series](https://homeworld.fandom.com/wiki/Homeworld_%28series%29) – commercial performance, franchise history
 [^ref-8]: [Interactive.org – D.I.C.E. Awards 2004](https://www.interactive.org/awards/award_category_details.asp?idAward=2004&idGameAwardType=34) – award nomination
-[^ref-9]: [MobyGames – Homeworld 2](https://www.mobygames.com/game/10403/homeworld-2/) – credits, ratings, development info
-[^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – Mac port news (April 2004): Beenox, preliminary Mac system requirements
+[^ref-9]: [MobyGames – Homeworld 2](https://www.mobygames.com/game/10403/homeworld-2/) – credits, critic and player score aggregates
+[^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/170895/homeworld2.html) – Mac port news (April 2004): Beenox, preliminary Mac system requirements
 [^ref-12]: [Polygon – Gearbox releasing remakes of Homeworld and Homeworld 2](https://www.polygon.com/2013/7/20/4540132/gearbox-releasing-remakes-of-homeworld-and-homeworld-2-for-windows-pc/) – "bought the Homeworld IP for $1.35 million in April"; Brian Martel statement
 [^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – user review (story, fleet, art direction, skybox speculation), ratings
 [^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – Dan Adams review (2003): score 9, Editors' Choice
