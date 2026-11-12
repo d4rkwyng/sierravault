@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line", "Cygnus Entertainment"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ Mystery House was released on May 5, 1980.[^ref-4] On-Line Systems advertised it
 
 The game was sold under the name of Ken's consulting company, On-Line Systems.[^ref-25] AGH (2023) dates the founding of On-Line Systems to 1979.[^ref-19] HistoryLink and IEEE Spectrum date the business to Mystery House in May 1980; HistoryLink says the game "marked the birth of the family business, initially called On-Line Systems", and MobyGames' biography also says 1980.[^ref-4][^ref-5][^ref-39]
 
-The game's success let the couple move their family to Coarsegold, in the Sierra Nevada foothills near Yosemite, in October 1980, and on December 1, 1980 they opened the company's first office in nearby Oakhurst.[^ref-4][^ref-39] The company was renamed Sierra On-Line to reflect its location near the Sierra foothills, but sources differ on the year. HistoryLink's biography of Williams places the change in 1982, when a new Oakhurst headquarters was planned (it opened in 1983), and MobyGames' biography gives 1982; another HistoryLink article says the company moved into its own building and was renamed in 1983.[^ref-4][^ref-39][^ref-41] See [[On-Line Systems]] for the fuller account.
+The game's success let the couple relocate to the Sierra Nevada foothills near Yosemite in October 1980, and on December 1, 1980 they opened the company's first office in nearby Oakhurst.[^ref-4][^ref-39] The company was renamed Sierra On-Line to reflect its location near the Sierra foothills, but sources differ on the year. HistoryLink's biography of Williams places the change in 1982, when a new Oakhurst headquarters was planned (it opened in 1983), and MobyGames' biography gives 1982; another HistoryLink article says the company moved into its own building and was renamed in 1983.[^ref-4][^ref-39][^ref-41] See [[On-Line Systems]] for the fuller account.
 
 Mystery House became Hi-Res Adventure #1 in the numbered [[Hi-Res Adventures Series|Hi-Res Adventures]], which run from #0 (Mission Asteroid) to #6 (The Dark Crystal), seven games in all; IEEE Spectrum, HistoryLink and MobyGames' biography count six.[^ref-15][^ref-40][^ref-5][^ref-4][^ref-39] IEEE Spectrum says that "between 1980 and 1982" the couple created [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]], "the first adventure game with color graphics," and Time Zone.[^ref-5] The last of the series, The Dark Crystal, followed in 1983.[^ref-4] HistoryLink says The Wizard and the Princess was released in September 1980 and sold more than 60,000 copies.[^ref-4]
 
@@ -50,7 +50,7 @@ In 1993 the Williamses moved Sierra's headquarters from Oakhurst to Bellevue, Wa
 
 Ars Technica reported in 2006 that she "in 1999 left Sierra On-Line to pursue some real-life adventures in travel."[^ref-22] During the COVID-19 pandemic she wrote a historical novel set in mid-1800s Ireland, *Farewell to Tara*, which she self-published in 2021.[^ref-27][^ref-25][^ref-26]
 
-She dates the idea for a new game to January or February 2021, when Ken "needed a new project" after finishing his book.[^ref-7] On June 1, 2021, a press release on the game's website announced that Ken and Roberta Williams would release a new, "Sierra flavored" game, "preliminarily titled The Secret".[^ref-20] In March 2022 the project, "previously referred to as The Secret," was revealed as a 3D remake of Colossal Cave Adventure.[^ref-37] Cygnus Entertainment released it as *Colossal Cave*, its first title, on January 19, 2023, with Roberta credited as creative director; Ars Technica called it their "first video game in 25 years."[^ref-38][^ref-15][^ref-27]
+She dates the idea for a new game to January or February 2021, when Ken "needed a new project" after finishing his book.[^ref-7] On June 1, 2021, a press release on the game's website announced that Ken and Roberta Williams would release a new, "Sierra flavored" game, "preliminarily titled The Secret".[^ref-20] In March 2022 the project, "previously referred to as The Secret," was revealed as a 3D remake of Colossal Cave Adventure.[^ref-37] Cygnus Entertainment released it as *Colossal Cave*, its first title, on January 19, 2023, with Roberta credited as creative director; Ars Technica called it their "first video game in 25 years."[^ref-38][^ref-15][^ref-27] It reached Xbox One and Series X|S on August 1, 2023, and Android on June 7, 2024.[^ref-49][^ref-50]
 
 Williams was careful to clarify her role: "I'm not the designer, and this is not an original game. I call myself the transmuter. I am taking an old historical adventure game, arguably the first adventure computer game in existence, and bringing it into the modern era."[^ref-7] Of the renewed attention, she said: "I have been appreciative, humbled, honored, and kind of sorry that I haven't been as responsive for too long."[^ref-7]
 
@@ -82,7 +82,7 @@ In 2014 she and Ken received the inaugural Industry Icon Award at The Game Award
 
 A feature documentary, *Legends of Adventure: The Story of Sierra On-Line*, centres on Ken and Roberta Williams; its July 2024 crowdfunding press release lists her among those telling the story, and its executive producer said in July 2026 that a nearly completed two-hour cut was in hand. See [[Sierra Documentary - Legends of Adventure]].[^ref-46][^ref-47]
 
-In a January 2026 Game Informer feature by Mike Drucker, she is quoted on her aims for King's Quest ("I wanted to be entertaining. I wanted to sell well.") and on legacy ("I want to keep people playing our games, even if they're old."). The article states that, with Sierra sold and repackaged over the years, she and Ken lost the rights to games such as King's Quest and Mystery House.[^ref-48]
+In a January 2026 Game Informer feature by Mike Drucker, she is quoted on her aims for King's Quest ("I wanted to be entertaining. I wanted to sell well.") and on legacy ("I want to keep people playing our games, even if they're old."). The article states that, with Sierra sold and repackaged over the years, she and Ken lost the rights to games such as King's Quest and Mystery House. She told Drucker that she and Ken had been "talking about maybe redoing Mixed-Up Mother Goose," and the article describes them as considering bringing it back, or a spiritual successor, for a new generation.[^ref-48]
 
 On modern games, she has said: "it just seems to me that I don't see a lot of originality anymore. It seems that there are a lot of the same games. They just make the same kind of game but bigger and more complex."[^ref-7]
 
@@ -92,7 +92,7 @@ Roles follow her MobyGames credits.[^ref-15]
 
 ### On-Line Systems / Sierra On-Line (1980–1999)
 
-- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0: Mission Asteroid]] — Role: Designer
+- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0: Mission Asteroid]] — Role: Co-creator; MobyGames credits it "By" [[Ken Williams]] and Roberta Williams[^ref-51]
 - **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Role: Designer
 - **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Role: Designer
 - **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Role: Writer, Director
@@ -114,7 +114,7 @@ Roles follow her MobyGames credits.[^ref-15]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Role: Designer
 - **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Designer, Director (game director; Peter Maris directed the live-action filming), Producer, Writer
 - **1995** — [[1995 - Shivers|Shivers]] — Role: Script Writer, Creative Consultant
-- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Designer, Writer
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Co-designer (with [[Mark Seibert]]), Writer (Writing / Dialogue / Story), Documentation[^ref-52]
 
 ### Cygnus Entertainment (2021–present)
 
@@ -125,7 +125,7 @@ Roles follow her MobyGames credits.[^ref-15]
 
 [^ref-1]: [Smithsonian Magazine – The Pioneer of Graphic Adventure Games Was a Woman](https://www.smithsonianmag.com/smart-news/1980s-roberta-williams-brought-graphic-adventure-games-home-180962160/) — Kat Eschner, February 16, 2017: Mystery House opening line, "first home computer game ever to include graphics as well as text", Industry Icon Award 2014
 [^ref-3]: [MIT Lemelson](https://lemelson.mit.edu/resources/roberta-williams) — "If this was all there was…", "no experience in gaming or computers – only in simple reading and storytelling"
-[^ref-4]: [HistoryLink – Williams, Roberta (b. 1953)](https://www.historylink.org/File/20912) — "Mother" and "Queen", met Ken in high school in Los Angeles (1970), Coarsegold (October 1980), first Oakhurst office (December 1, 1980), Bellevue move (1993–94), CUC acquisition (July 26, 1996), teletype and Colossal Cave (1979), Mystery House released May 5, 1980, $11,000 first month, IBM PCjr request, "Williams retired in 1999"
+[^ref-4]: [HistoryLink – Williams, Roberta (b. 1953)](https://www.historylink.org/File/20912) — "Mother" and "Queen", met Ken in high school in Los Angeles (1970), move to the Sierra foothills (October 1980), first Oakhurst office (December 1, 1980), Bellevue move (1993–94), CUC acquisition (July 26, 1996), teletype and Colossal Cave (1979), Mystery House released May 5, 1980, $11,000 first month, IBM PCjr request, "Williams retired in 1999"
 [^ref-5]: [IEEE Spectrum – Meet Roberta Williams, The Queen of Graphic Adventure Video Games](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) — Joanna Goodrich, September 28, 2020: Christie and Clue, six Hi-Res Adventures "between 1980 and 1982", first colour adventure, PCjr, "a series of eight"
 [^ref-6]: [Adventure Classic Gaming – Interview with Roberta Williams (Andy Bellatti, © 1997; posted October 25, 1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) — "This article is courtesy of Andy Bellatti © 1997"; "computer game designer rather than a woman computer game designer"; King's Quest "has sold over 7 million copies worldwide"
 [^ref-7]: [Kotaku – Sierra Founders Ken & Roberta Williams Talk About Their Past (And Future)](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) — Luke Plunkett, July 19, 2022: "transmuter", "appreciative, humbled, honored", "originality anymore", game idea in January/February 2021
@@ -150,7 +150,7 @@ Roles follow her MobyGames credits.[^ref-15]
 [^ref-34]: [MobyGames – The Black Cauldron credits, DOS (Wayback, December 2012)](http://web.archive.org/web/20121221232555/http://www.mobygames.com/game/dos/black-cauldron/credits) — "Game Design Al Lowe, Roberta Williams"
 [^ref-35]: [The Colonel's Bequest manual (Internet Archive, full text)](https://archive.org/stream/Colonels_Bequest_-_Manual/Colonels_Bequest_-_Manual_djvu.txt) — "Written by Roberta Williams / Creative Designer Jacqueline Austin / Directed by Roberta Williams, Chris Iden"
 [^ref-36]: [MobyGames – King's Quest VI credits, DOS (Wayback, April 2016)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) — "Written & Designed by Jane Jensen, Roberta Williams"; "Directed by Jane Jensen, William D. Skirvin, Roberta Williams"
-[^ref-37]: [80 Level – Sierra Founders Are Remaking Colossal Cave Adventure for PC and VR](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) — March 23, 2022: "their next project which was previously referred to as The Secret" (cited only for the title link; its "their text adventure" wording is wrong)
+[^ref-37]: [80 Level – Sierra Founders Are Remaking Colossal Cave Adventure for PC and VR](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) — March 23, 2022: "their next project which was previously referred to as The Secret" (cited only for the project title)
 [^ref-38]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) — remake "released by Cygnus Entertainment as its first title on January 19, 2023"
 [^ref-39]: [MobyGames – Roberta Williams biography (Wayback, April 2023)](https://web.archive.org/web/20230414183118/https://www.mobygames.com/person/60/roberta-williams/) — "With Ken she founded On-Line Systems in 1980, later known as Sierra On-Line (1982)"; move to Coarsegold; first office at Oakhurst; "a series of six adventures called Hi-Res Adventures"
 [^ref-40]: [Wikipedia – Hi-Res Adventures](https://en.wikipedia.org/wiki/Hi-Res_Adventure) — "all seven graphic adventure games released by the company prior to the release of the company's landmark King's Quest", #0 to #6
@@ -158,7 +158,11 @@ Roles follow her MobyGames credits.[^ref-15]
 [^ref-42]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Agreement and Plan of Merger with CUC International "dated as of February 19, 1996"; filed July 1, 1996, Item 1: "More than 600,000 copies of this product have been sold" (Phantasmagoria)
 [^ref-43]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) — quotes the CUC announcement: "The transaction is valued at approximately $1.06 billion"
 [^ref-44]: [Creative Computing Vol. 11 No. 12, December 1985 (Internet Archive scan), Sierra advertisement](https://archive.org/details/creativecomputing-1985-12/page/n12/mode/1up) — "NEW! The Black Cauldron … Developed with Walt Disney Personal Computer Software Staff. For IBM PC/PCjr, $39.95"; page image checked
-[^ref-45]: [MobyGames – The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) — DOS and PC booter first release 1986; read via the MobyGames API
+[^ref-45]: [MobyGames – The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) — DOS and PC booter first release 1986
 [^ref-46]: [Game Developer / Games Press – Legends of Adventure Now Live on BackerKit (July 9, 2024)](https://www.gamedeveloper.com/press-release/legends-of-adventure-now-live-on-backerkit) — "Sitting down to share their side of the story about Sierra On-Line include Roberta Williams"
 [^ref-47]: [Will Perkins on Bluesky (July 9, 2026)](https://bsky.app/profile/williamhperkins.bsky.social/post/3mq7qauk6gs2i) — "now we have a nearly completed two hour cut of the documentary in hand"; profile: "EP @gamelegendsdoc"
-[^ref-48]: [Game Informer – Roberta Quest](https://gameinformer.com/feature/2026/01/01/roberta-quest) — Mike Drucker, January 1, 2026: "I wanted to be entertaining. I wanted to sell well."; "I want to keep people playing our games, even if they're old."; Drucker: "Roberta and Ken lost the rights to games like King's Quest or her original hit, Mystery House"
+[^ref-48]: [Game Informer – Roberta Quest](https://gameinformer.com/feature/2026/01/01/roberta-quest) — Mike Drucker, January 1, 2026: "I wanted to be entertaining. I wanted to sell well."; "I want to keep people playing our games, even if they're old."; Drucker: "Roberta and Ken lost the rights to games like King's Quest or her original hit, Mystery House"; Williams: "Ken and I were talking about maybe redoing Mixed-Up Mother Goose."; Drucker: "They're considering bringing it back – or a spiritual successor – for a new generation."
+[^ref-49]: [PR Newswire – Journey Through the History of Gaming: The Legendary Colossal Cave Adventure Now Reborn on Xbox](https://prnewswire.com/news-releases/journey-through-the-history-of-gaming-the-legendary-colossal-cave-adventure-now-reborn-on-xbox-301889667.html) — Seattle, August 1, 2023: "the launch of the legendary Colossal Cave game on Xbox One and Series X|S"
+[^ref-50]: [PR Newswire – Legends Reborn: Roberta Williams Reimagines the First Adventure Game in Colossal Cave 3D. Out now for Android!](https://prnewswire.com/news-releases/legends-reborn-roberta-williams-reimagines-the-first-adventure-game-in-colossal-cave-3d-out-now-for-android-302167866.html) — Seattle, June 10, 2024: "Release date: June 7, 2024"
+[^ref-51]: [MobyGames – Hi-Res Adventure #0: Mission Asteroid credits, Apple II](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/credits/apple2/) — "By Ken Williams, Roberta Williams"
+[^ref-52]: [MobyGames – King's Quest: Mask of Eternity credits, Windows](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) — "Design Mark Seibert, Roberta Williams"; "Writing / Dialogue / Story Roberta Williams"; "Documentation Mark Seibert, Cheryl Sweeney, Roberta Williams"; Producer and Director: Mark Seibert
