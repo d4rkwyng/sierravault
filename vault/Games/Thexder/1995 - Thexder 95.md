@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Christopher Barker, Craig Utterback]
 description: Thexder 95, also known as Thexder for Windows 95, is a 1995 Windows 95
   action platformer developed by Synergistic Software and published by Sierra On-Line,
@@ -19,11 +19,11 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Thexder 95, sold as *Thexder* and also known as *Thexder for Windows 95*, is a side-scrolling action game developed by [[Synergistic Software]] and published by [[Sierra On-Line]] for Windows 95 on CD-ROM in 1995[^ref-2][^ref-29][^ref-45]. It was built with Microsoft's Game SDK, the forerunner of DirectX[^ref-1][^ref-26][^ref-29]. Sierra's own magazine described it as "Sierra's new space-adventure game written exclusively for the 32-bit processing of Windows 95," based on "the wildly popular 1980s computer game"[^ref-46].
+Thexder 95, sold as *Thexder* and also known as *Thexder for Windows 95*, is a side-scrolling action game developed by [[Synergistic Software]] and published by [[Sierra On-Line]] for Windows 95 on CD-ROM in 1995[^ref-2][^ref-29][^ref-45]. It is an update of the original [[1985 - Thexder|Thexder]]: *Computer Gaming World* called it "a Win95-only update of the IBM/Commodore 64 game"[^ref-45], and MobyGames describes it as a "remake of the 1987 game"[^ref-2]. It was built with Microsoft's Game SDK, the forerunner of DirectX[^ref-2][^ref-26][^ref-29]. Sierra's own magazine described it as "Sierra's new space-adventure game written exclusively for the 32-bit processing of Windows 95," based on "the wildly popular 1980s computer game"[^ref-46].
 
 The player pilots a Thexder robot that morphs between walking, crawling and flying forms, fighting through 50 levels to hunt down Primus Tech, a security fighter that has gone rogue[^ref-44][^ref-46]. The game runs in several windows at once, with the main playing field alongside separate panels for weapons, equipment, enemies and the level map, and it supports modem and network play[^ref-45][^ref-46].
 
@@ -35,11 +35,11 @@ Critics were unimpressed. *Next Generation* gave it two stars, calling it "still
 > **Developer:** [[Synergistic Software]][^ref-2][^ref-29]
 > **Designer:** Robert C. Clardy, Kirt Lemons[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-2][^ref-29]
-> **Engine:** Microsoft Game SDK (precursor to DirectX)[^ref-1][^ref-26]
+> **Engine:** Microsoft Game SDK (precursor to DirectX)[^ref-2][^ref-26]
 > **Platforms:** Windows 95 (CD-ROM)[^ref-2][^ref-45]
 > **Release Year:** 1995
 > **Series:** Thexder
-> **Protagonist:** Thexder pilot of the Interplanetary Security Force[^ref-46]
+> **Protagonist:** Thexder (transforming robot)[^ref-46]
 > **Sierra Lineage:** Sierra Published
 
 ## Story Summary
@@ -59,7 +59,7 @@ Sierra's advertising promised that players could "struggle your way to the 50th 
 
 ### Forms and Combat
 
-The robot morphs between walking, crawling and flying forms. *InterAction* advised that "you'll need every one to navigate through the catacombs and escape annihilation"[^ref-46]. Sierra's materials also describe these as a robot that turns into a jet or a tank[^ref-44][^ref-47]. Thexder's arsenal and its ability to morph grow as the game goes on[^ref-45], and the weapons run from grenades to thermal bombs[^ref-1]. Supplies of laser ammunition, bombs, jumpboots and other equipment are collected along the way, and "the weapons and equipment you accumulate on one level are necessary to succeed on the next"[^ref-46].
+The robot morphs between walking, crawling and flying forms. *InterAction* advised that "you'll need every one to navigate through the catacombs and escape annihilation"[^ref-46]. Sierra's materials also describe these as a robot that turns into a jet or a tank[^ref-44][^ref-47]. Thexder's arsenal and its ability to morph grow as the game goes on[^ref-45], and *InterAction* adds that "you'll also need to change weapons frequently to match your enemies"[^ref-46]. A 2017 MobyGames player review lists weapons "such as lasers, rockets, missiles, and grenades"[^ref-2]. Supplies of laser ammunition, bombs, jumpboots and other equipment are collected along the way, and "the weapons and equipment you accumulate on one level are necessary to succeed on the next"[^ref-46].
 
 Hazards include electric fences, gyrobot mines, autoturrets that fire only when the player takes to the air, driller tanks, and walls that can be shot away to reveal passages and equipment caches[^ref-46]. Sierra's advertising adds burning lava, crushing ceilings and unpredictable explosives[^ref-44].
 
@@ -81,6 +81,8 @@ Thexder 95 supports modem and network play[^ref-44][^ref-45]. *InterAction* said
 
 *Computer Gaming World*'s February 1996 "On the Shelf" capsule said that "action remains limited to blowing up various enemies and hazards." It called the game "the latest example of the trend to resurrect vintage arcade and computer games" and suggested "it might be prudent, though, to discern whether the original product is a Casablanca or a Heaven's Gate"[^ref-45].
 
+*Génération 4* (February 1996), a French magazine, reviewed the game in its "Test Express" column as an arcade game for PC CD-ROM (Windows 95) published by Sierra. In my translation, it called the game "of such a distressing banality and lack of interest," "not frankly pretty," and inclined "to run a little slow on a Pentium," and wondered what the point of the title was; the page gives no star rating[^ref-54].
+
 *Next Generation* (April 1996) gave the game two stars. The review said it "does an admirable job of using the multitasking environment" but is "still an average platform shooter." It also found that on the minimum system "Thexder looks like he's running with magnetic boots on," and concluded that "your replay value is practically nil"[^ref-49].
 
 In its fifteenth-anniversary issue (November 1996), *Computer Gaming World* ranked Thexder number 23 among the 50 worst games of all time: "Even fans of The Transformers didn't like this arcade shooter that was universally bad on every platform from C64 to Win 95"[^ref-43].
@@ -96,7 +98,7 @@ Hardcore Gaming 101's 2009 history of the series was harsh, calling the Windows 
 
 ## Development
 
-Thexder 95 was developed by Synergistic Software and published by Sierra On-Line[^ref-2][^ref-29]. It was built with Microsoft's Game SDK[^ref-1][^ref-26]. MobyGames' trivia entry describes it as one of Sierra's showcase games at the launch of Windows 95, built with the Game SDK to give smooth animation and sound[^ref-2].
+Thexder 95 was developed by Synergistic Software and published by Sierra On-Line[^ref-2][^ref-29]. It was built with Microsoft's Game SDK[^ref-2][^ref-26]. MobyGames' trivia entry describes it as one of Sierra's showcase games at the launch of Windows 95, built with the Game SDK to give smooth animation and sound[^ref-2].
 
 *InterAction* listed the game as "Available: Fall '95 for Win 95" at $44.95 in its Fall 1995 issue[^ref-47]. By the Holiday 1995 issue it was "Available Now" at the same price as a Windows 95 CD[^ref-46]. The mail-order dealer Chips & Bits advertised the CD at $40 in December 1995, describing 50 science-fiction environments[^ref-53].
 
@@ -107,15 +109,18 @@ Thexder 95 was developed by Synergistic Software and published by Sierra On-Line
 - **Programming:** Michael D. Branham, David L. Jackson, Cheryl A. Makovsky
 - **Music:** Christopher Barker, Craig Utterback
 - **Sound Effects:** Craig Utterback
+- **Art:** Jeremy Jones, Kirt Lemons, Mike McMillen, Kate Policani, Kevin Ring, Alan Speed, Jerry Speed, Carl Square, Patrick Watje, Peter Watje, Linda Westerfield
 - **Level Design:** Derek Clardy, Robert C. Clardy, Bob Westerfield
+- **Special Thanks:** [[Hibiki Godai]], the designer of the original Thexder
 - **Team:** 30 people credited (24 developers, 6 thanks)
 
 ### Technical Specifications
 
 - **Operating System:** Windows 95 only[^ref-45][^ref-26]
 - **Media:** CD-ROM[^ref-2][^ref-45]
-- **Engine:** Microsoft Game SDK[^ref-1][^ref-26]
+- **Engine:** Microsoft Game SDK[^ref-2][^ref-26]
 - **Minimum system:** 486DX2/66 with 8 MB RAM, per *Next Generation*[^ref-49]
+- **MobyGames minimum specs:** Intel i486 CPU, 8 MB RAM, Windows 95, 2x CD-ROM drive (300 KB/s), 640×480 resolution, windowed[^ref-2]
 - **Copy protection:** Manual check[^ref-26]
 - **ESRB rating:** Teen[^ref-2]
 
@@ -144,8 +149,7 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 
 ## References
 
-[^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – "Thexder 95" section: Game SDK, tank and jet forms, weapons "from grenades to thermal bombs", multiple windows
-[^ref-2]: [MobyGames – Thexder (Windows, 1995)](https://www.mobygames.com/game/2857/thexder/) – Synergistic/Sierra, credits (30 people), CD-ROM, Teen rating, LAN/modem multiplayer, critic average 49% (9), player reviews, trivia, CGW Nov 1996 #23 listing
+[^ref-2]: [MobyGames – Thexder (Windows, 1995)](https://www.mobygames.com/game/2857/thexder/) – Synergistic/Sierra, credits (30 people; Art and "Special Thanks To" Hibiki Godai), minimum specs (read via the MobyGames API), remake description, CD-ROM, Teen rating, LAN/modem multiplayer, critic average 49% (9), player reviews, trivia, CGW Nov 1996 #23 listing
 [^ref-16]: [Hardcore Gaming 101 – A Brief History of Thexder](http://blog.hardcoregaming101.net/2009/10/brief-history-of-thexder.html) – 2009 blog post (Discoalucard); Windows 95 game "dreadful, because the sprites were tiny, the action was choppy"
 [^ref-23]: [MobyGames – Thexder (1985)](https://www.mobygames.com/game/49/thexder/) – Original Game Arts game
 [^ref-26]: [Sierra Help Wiki – Thexder 95](https://wiki.sierrahelp.com/index.php/Thexder_95) – Synergistic developer, Game SDK engine, Windows 9x, manual-check copy protection, GOG "Not available at this time"
@@ -163,3 +167,4 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 [^ref-51]: [The Sierra Chest – Thexder for Windows 95: Demos](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos) – "Thexder for Win 95 Demo (1 MB)", included on Conqueror A.D. 1086 CD
 [^ref-52]: [Computer Gaming World #137 (December 1995), Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n257/mode/1up) – Two-page Sierra ad (scan pages n257-n258, "Sierra" banner): "Thexder flies, runs, jumps, morphs into a tank or plane, and blasts his way through five worlds, each with ten different levels"; 50th level and Primus Tech; text checked against the page images
 [^ref-53]: [Computer Gaming World #137 (December 1995), Chips & Bits advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n160/mode/1up) – Retailer ad: "'Thexder' players control a transformer type robot called THX-DR122... through 50 different science fiction environments... CD $40"
+[^ref-54]: [Génération 4 #85 (February 1996), p. 132](https://archive.org/details/generation4-magazine-085/page/n131/mode/1up) – "Test Express" review of Thexder (PC CD-ROM, Windows 95, Sierra); French text read on the page scan; quotes above are translated by the vault ("d'une banalité et d'un manque d'intérêt aussi affligeant", "ça a tendance à ramer un tantinet sur Pentium")
