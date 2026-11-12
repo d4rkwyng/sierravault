@@ -59,7 +59,7 @@ MobyGames credits [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] as "Designe
 
 ### Hero-U: Rogue to Redemption (2018)
 
-[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign in 2015 ($116,888 from 1,869 backers);[^ref-28] even then, PC Gamer reports, the Coles took out a home equity loan and drew on retirement money to finish it.[^ref-9] Transolar's own site says the game took "three years to complete" and credits Corey as designer and producer;[^ref-20] the dates suggest a longer span, since the first Kickstarter launched in October 2012 and the game came out on July 9, 2018.[^ref-18][^ref-20]
+[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] was crowdfunded on Kickstarter and needed a second campaign in 2015 ($116,888 from 1,869 backers);[^ref-28] PC Gamer covered its long road to release.[^ref-9] Transolar's own site says the game took "three years to complete" and credits Corey as designer and producer;[^ref-20] the dates suggest a longer span, since the first Kickstarter launched in October 2012 and the game came out on July 9, 2018.[^ref-18][^ref-20]
 
 ## Design Philosophy
 
