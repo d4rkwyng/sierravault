@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Hoyle Table Games 2004 is an 18-game collection of classic table games
   in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows
   on September 2, 2003.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Hoyle Table Games 2004 is part of Sierra's long-running Hoyle series, which bega
 
 The collection contains 18 table games[^ref-3][^ref-6][^ref-25][^ref-27]. MyGamer's September 2, 2003 listing described it this way: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
 
-The game is rated E for Everyone by the ESRB[^ref-5][^ref-9], and Metacritic and Amazon.com also list it as Rated E for Everyone[^ref-25][^ref-26].
+The game is rated E for Everyone by the ESRB[^ref-5][^ref-9], and Metacritic and Amazon.com also list it as Rated E for Everyone[^ref-25][^ref-26]. MobyGames lists a PEGI rating of 3 and an Australian Classification Board (ACB) rating of G[^ref-11].
 
 > [!info]- Game Info
 > **Developer:** Buzz Monkey Software, LLC[^ref-11]
@@ -105,6 +105,7 @@ An eBay reviewer in 2017 rated the game 5/5 under the heading "Challenging at al
 - **Amazon.com:** 3.6/5 (14 ratings, November 2026)[^ref-26]
 - **GamePressure (Users):** 3.4[^ref-27]
 - **PEGI Rating:** 3[^ref-11]
+- **ACB Rating (Australia):** G[^ref-11]
 
 ## Development
 
@@ -124,7 +125,9 @@ Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC and published 
 - **Art Director:** [[Rabih AbouJaoudé]]
 - **Documentation Manager & Writer:** Ryan Spain
 - **Composer and Sound Engineer:** Mike Caviezel
-- **Voice Synchronization:** Powered by LIPSinc
+- **Voice Synchronization:** Mike Caviezel, Tisha Caviezel
+- **Powered by:** LIPSinc
+- **Voice Actors:** John Armstrong, Jock Blaney, Susanna Burney, Scott Burns, Pat Cashman, Mike Caviezel, Ross Douglas, William Hall Jr., Jeff Hoyt, Alyssa Keene, M. J. King, Dolores Rogers, Carol Roscoe, David Scully, Jeff Steitzer, Jen Taylor, Leslie Wadsworth
 
 ### Technical Specifications
 
@@ -166,8 +169,8 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 ## Downloads
 
 **Purchase / Digital Stores**
-- GOG: No GOG listing found (GOG store search, checked October 29, 2026)
-- Steam: No Steam listing found (Steam store search, checked October 29, 2026)
+- GOG: No GOG listing found (GOG store search, checked November 2026)
+- Steam: No Steam listing found (Steam store search, checked November 2026)
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/13166/hoyle-table-games-2004/)
