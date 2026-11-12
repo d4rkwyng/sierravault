@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Baseball '94", "Front Page Sports: Football", "Outpost 2: Divided Destiny", "Microsoft Baseball 2001"]
 companies: ["Sierra On-Line", "Cinemaware", "Dynamix", "Viacom New Media", "Synergistic Software", "Microsoft", "Exile Interactive"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Allen McPheeters
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-L. Allen McPheeters is an American game designer and producer who worked in the games industry from 1987 to about 2005, mostly on sports simulations.[^ref-1][^ref-10] He attended Purdue University, where [[Patrick Cook]], his later collaborator, was a fraternity brother.[^ref-1][^ref-10] With Cook he created Dynamix's Front Page Sports series.[^ref-1][^ref-2] He was lead designer of Front Page Sports: Baseball '94 and co-designer of the real-time strategy game Outpost 2: Divided Destiny.[^ref-7][^ref-13][^ref-18]
+L. Allen McPheeters is an American game designer and producer who worked in the games industry from 1987 to about 2005, mostly on sports simulations.[^ref-1][^ref-10] He attended Purdue University, where [[Patrick Cook]], his later collaborator, was a fraternity brother.[^ref-1] With Cook he created Dynamix's Front Page Sports series.[^ref-1][^ref-2] He was lead designer of Front Page Sports: Baseball '94 and co-designer of the real-time strategy game Outpost 2: Divided Destiny.[^ref-7][^ref-13][^ref-18]
 
 His career ran from Sierra On-Line and Cinemaware in the late 1980s, through Dynamix and [[Synergistic Software]] in the 1990s, to Microsoft (1999–2001) and Exile Interactive (2004–2005).[^ref-1][^ref-10]
 
@@ -23,7 +23,7 @@ His career ran from Sierra On-Line and Cinemaware in the late 1980s, through Dyn
 
 McPheeters entered the gaming industry in the summer of 1987 as a junior-level programmer at Sierra On-Line's Oakhurst, California, facility.[^ref-1] He was to port [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] from the PC to the Apple IIe. The PC version was not finished until late fall, so in the meantime he designed and programmed demonstration programs for Sierra's fall product line.[^ref-1]
 
-In December 1987, shortly before work on the port was to begin, McPheeters accepted a job with Cinemaware as a QA analyst. His boss there was Patrick Cook.[^ref-1] In his own account he worked there as a play tester from January 1988 to April 1990, and toward the end also began writing user manuals.[^ref-20] At Cinemaware he worked mainly as a tester on ports of the company's first round of products (Defender of the Crown, King of Chicago, SDI, and Sinbad and the Throne of the Falcon) and on original versions of Rocket Ranger, The Three Stooges and Lords of the Rising Sun.[^ref-1] He moved into design by reworking arcade sequences in ports of Sinbad and the Throne of the Falcon, and into user documentation on TV Sports: Football.[^ref-1] His earliest MobyGames credit is a "Special Thanks To" on The Three Stooges (1987), followed by a producer credit on the Atari ST version of Sinbad and the Throne of the Falcon (1988).[^ref-6]
+In December 1987, shortly before work on the port was to begin, McPheeters accepted a job with Cinemaware as a QA analyst. His boss there was Patrick Cook.[^ref-1] In his own account he worked there as a play tester from January 1988 to April 1990, and toward the end also began writing user manuals.[^ref-20] At Cinemaware he worked mainly as a tester on ports of the company's first round of products (Defender of the Crown, King of Chicago, SDI, and Sinbad and the Throne of the Falcon) and on original versions of Rocket Ranger, The Three Stooges and Lords of the Rising Sun.[^ref-1] He moved into design by reworking arcade sequences in ports of Sinbad and the Throne of the Falcon, and into user documentation on TV Sports: Football.[^ref-1] His earliest MobyGames credit is a "Special Thanks To" on The Three Stooges (1987), followed by producer and director credits on the Atari ST version of Sinbad and the Throne of the Falcon (1988).[^ref-6]
 
 ### Dynamix and Sierra (1991–1999)
 
@@ -31,7 +31,7 @@ After two years at Cinemaware, McPheeters grew disillusioned with making games. 
 
 Cook and McPheeters created the Front Page Sports series, first Football and then Baseball.[^ref-1][^ref-2] MobyGames credits him as assistant director on Front Page Sports: Football (1992), which Cook directed.[^ref-6] His MobyGames biography names Career Play as his most important contribution to the line. Career Play let users play multiple seasons in which players aged and retired and were replaced by rookies.[^ref-1]
 
-Computer Gaming World named Front Page Sports: Football its 1993 Sports Game of the Year in October 1993, crediting "Patrick Cook, designer".[^ref-11] In June 1994 the magazine gave its Premier Sports Game of the Year award to Front Page Sports: Football Pro.[^ref-12][^ref-14] His MobyGames biography goes further, calling Football a four-time CGW Sports Game of the Year winner and a member of the magazine's Hall of Fame.[^ref-1] McPheeters himself put it differently in an interview for Just Adventure: the second version, Football Pro, "is in Computer Gaming World's Hall of Fame, and the Football line won three or four Sports Game of the Year awards."[^ref-20]
+Computer Gaming World named Front Page Sports: Football its 1993 Sports Game of the Year in October 1993, crediting "Patrick Cook, designer".[^ref-11] In June 1994 the magazine gave its Premier Sports Game of the Year award to Front Page Sports: Football Pro.[^ref-12][^ref-14] His MobyGames biography goes further, calling Football a four-time CGW Sports Game of the Year winner and a member of the magazine's Hall of Fame.[^ref-1] McPheeters himself put it differently in an interview for Just Adventure: the second version, Football Pro, "is in Computer Gaming World's Hall of Fame, and the Football line won three or four Sports Game of the Year awards."[^ref-20] CGW's March 1996 Hall of Fame inducted Front Page Sports: Football Pro, naming "Project leader Patrick Cook".[^ref-22]
 
 McPheeters took the lead in designing Front Page Sports: Baseball '94. CGW's November 1994 review lists "Designer: L. Allen McPheeters".[^ref-1][^ref-13] He later summed up his role in a 1998 Usenet letter reprinted by IGN: "I was the lead designer for Front Page Sports: Baseball '94, and I worked with Patrick Cook on the design for the original Front Page Sports: Football."[^ref-7]
 
@@ -69,11 +69,11 @@ At Microsoft he designed Microsoft Baseball 2001, combining Baseball Mogul's car
 
 ## Legacy
 
-McPheeters is best remembered for his work on the Front Page Sports series with Cook. In a 1997 interview about Cinemaware's influence, he said of the series: "FPS: Football changed the face of computer sports by putting all the elements of the game (play design, lots of statistics, arcade play) into one package. All of those elements had existed before, but you'd have to buy two or three games to get all of them."[^ref-20] Contemporary Computer Gaming World named Front Page Sports: Football its 1993 Sports Game of the Year and Football Pro its Premier Sports Game of the Year in 1994.[^ref-11][^ref-12] His MobyGames biography singles out Career Play, which let users run multiple seasons with players aging, retiring and being replaced by rookies, as his most important contribution to the line.[^ref-1]
+McPheeters is best remembered for his work on the Front Page Sports series with Cook. In a 1997 interview about Cinemaware's influence, he said of the series: "FPS: Football changed the face of computer sports by putting all the elements of the game (play design, lots of statistics, arcade play) into one package. All of those elements had existed before, but you'd have to buy two or three games to get all of them."[^ref-20] Contemporary Computer Gaming World named Front Page Sports: Football its 1993 Sports Game of the Year and Football Pro its Premier Sports Game of the Year in 1994, and inducted Football Pro into its Hall of Fame in March 1996.[^ref-11][^ref-12][^ref-22] His MobyGames biography singles out Career Play, which let users run multiple seasons with players aging, retiring and being replaced by rookies, as his most important contribution to the line.[^ref-1]
 
 ## Games
 
-### Cinemaware Era (1987–1989)
+### Cinemaware Era (1987–1989)[^ref-6]
 
 | Year | Title | Role |
 |------|-------|------|
@@ -88,22 +88,24 @@ McPheeters is best remembered for his work on the Front Page Sports series with 
 | 1989 | TV Sports: Basketball | Documentation |
 | 1989 | Lords of the Rising Sun | Stuntmen |
 
-### Sierra/Dynamix Era (1991–1999)
+### Sierra/Dynamix Era (1991–1999)[^ref-6]
 
-- **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Role: Assistant Director
-- **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Special Thanks To
-- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Previous Work Credit
-- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Additional Design/Testing
-- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Lead Designer
-- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] — Role: Previous Work Credit
-- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Previous Additional Work
-- **1997** — [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] — Role: Designer/Documentation
-- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Role: Previous Additional Work
-- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Previous Work Credit
-- **1998** — [[1997 - Driver's Education '98|Driver's Education '98]] — Role: Special Thanks
-- **cancelled** — Sierra Sports: Baseball PRO 2000 — Role: Producer[^ref-7]
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] | Assistant Director |
+| 1992 | [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] | Special Thanks To |
+| 1993 | [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] | Previous Work Credit |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] | Additional Design/Testing |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] | Lead Designer |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] | Previous Work Credit |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] | Previous Additional Work |
+| 1997 | [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] | Designer/Documentation |
+| 1997 | [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] | Previous Additional Work |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] | Previous Work Credit |
+| 1998 | [[1997 - Driver's Education '98|Driver's Education '98]] | Special Thanks |
+| cancelled | Sierra Sports: Baseball PRO 2000 | Producer[^ref-7] |
 
-### Post-Sierra (1999–2005)
+### Post-Sierra (1999–2005)[^ref-6]
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
@@ -117,8 +119,8 @@ McPheeters is best remembered for his work on the Front Page Sports series with 
 [^ref-3]: [Outpost 2 Wiki - Creating Tech Trees](https://wiki.outpost2.net/doku.php?id=op2_sdk:creating_tech_trees) — Example changelog from a 16 Mar 97 pre-release demo tech tree: "PLEASE NOTIFY ALLEN MCPHEETERS OF ANY CHANGES"
 [^ref-6]: [MobyGames - L. Allen McPheeters Credits](https://www.mobygames.com/person/75/l-allen-mcpheeters/credits/) — Complete game development credits (30 credits on 18 games)
 [^ref-7]: [IGN - Why Sierra Dropped Baseball](https://www.ign.com/articles/1998/10/27/why-sierra-dropped-baseball) — McPheeters' 1998 Usenet letter as producer of Baseball PRO 2000: Grenewetzki's decision to cancel, legacy-code problems, his roles on Baseball '94 and Football
-[^ref-9]: [ActiveWin - Allen McPheeters Interview](http://www.activewin.com/interviews/microsoft/3.shtml) — Interview on Microsoft Baseball 2001: Baseball Mogul merge, "about a 6-7 month project"
-[^ref-10]: [iVoterGuide - Allen McPheeters profile (2014)](https://ivoterguide.com/candidate/22680/race/4001/election/310) — Self-reported work history: Sierra On Line game designer 1996–1999, Microsoft program manager 1999–2001, Exile Interactive senior game designer 2004–2005; education Purdue University and University of Washington
+[^ref-9]: [ActiveWin - Allen McPheeters Interview](http://www.activewin.com/interviews/microsoft/3.shtml) — Interview on Microsoft Baseball 2001: Baseball Mogul merge, "about a 6-7 month project" (ActiveWin spells his surname "McPheeter")
+[^ref-10]: [iVoterGuide - Allen McPheeters self-reported profile (2014)](https://ivoterguide.com/candidate/22680/race/4001/election/310) — Self-reported work history: Sierra On Line game designer 1996–1999, Microsoft program manager 1999–2001, Exile Interactive senior game designer 2004–2005; education Purdue University and University of Washington
 [^ref-11]: [Computer Gaming World #111, October 1993 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_111) — "The winner of 1993 Sports Game of the Year is: Front Page Sports: Football (Dynamix), Patrick Cook, designer"
 [^ref-12]: [Computer Gaming World #119, June 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_119) — "The winner of the PREMIER Sports Game of the Year is Front Page Sports Football Pro from Dynamix"
 [^ref-13]: [Computer Gaming World #124, November 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_124) — Front Page Sports Baseball review; specification box lists "Designer: L. Allen McPheeters"
@@ -130,3 +132,4 @@ McPheeters is best remembered for his work on the Front Page Sports series with 
 [^ref-19]: [MobyGames - Microsoft Baseball 2001](https://www.mobygames.com/game/2053/microsoft-baseball-2001/) — Game entry: Windows, 2000
 [^ref-20]: [Just Adventure - Cinemaware Interviews (Wayback Machine)](https://web.archive.org/web/20110610151100/http://www.justadventure.com/Interviews/Cinemaware/Cinemaware_Interview.shtm) — McPheeters: "I was a play tester from January 1988 to April 1990"; Dynamix "a little over a year after I left"; Viacom in '95; "we both designed Outpost 2"; Football Pro in CGW's Hall of Fame
 [^ref-21]: [CNNfn - Sierra Sports recalls Football Pro 99 - Jan. 21, 1999 (Wayback Machine)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) — Dated January 21, 1999: Sierra Sports recalled NFL Football Pro '99, "which shipped to retailers just four weeks ago", over "errors in the program's code"
+[^ref-22]: [Computer Gaming World #140, March 1996 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_140) — Hall of Fame induction of Front Page Sports Football Pro (Sierra/Dynamix, 1993): "Project leader Patrick Cook"
