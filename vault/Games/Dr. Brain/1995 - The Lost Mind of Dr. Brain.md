@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: Unconfirmed (not SCI)
 protagonist: Player (guided by Elaina)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Jonathan Cunningham]
 description: The Lost Mind of Dr. Brain is an educational puzzle game released in
   August 1995 by Sierra On-Line, developed by Bright Star Technology. The third game
@@ -19,7 +19,7 @@ tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Lost Mind of Dr. Brain
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -62,7 +62,7 @@ The game contains 10 different brain puzzle sections, with 9 initially available
 - **Neural Maze:** Guide Rathbone through a winding, multi-level maze of colour-coded tunnels.[^ref-10]
 - **Train of Thought:** Use track switches to send coloured balls to the goal in a set order without collisions.[^ref-10]
 - **Pentode:** A matching puzzle: place tiles (sign language, Roman numerals, Greek symbols or chemical elements) on a 6x4 board.[^ref-10][^ref-13]
-- **Synaptic Cleft:** Push neurotransmitters from one cell to another by clicking near them.[^ref-10]
+- **Synaptic Cleft:** Push neurotransmitters from one cell to another by clicking near them.[^ref-10] CD Access describes it as a remake of the Macintosh game Crystal Quest, with 20 levels per puzzle.[^ref-33]
 - **Word Surge:** Rotate rows and columns of letter tiles so every listed word can be formed; Rathbone appears in Shakespearean attire here.[^ref-10][^ref-24]
 - **3-D Construction:** Recreate a rotatable 3D cube model by placing cubes on a 2D grid.[^ref-10]
 - **Dreamland:** Unlocked after reaching 100% in the other nine; guide a ball through a maze of obstacles toward the cursor.[^ref-10]
@@ -77,7 +77,7 @@ Giant Bomb sums up the topics as "memorization, programming, and musical reading
 
 ### Contemporary Reviews
 
-Next Generation reviewed the Macintosh version in its September 1995 issue and gave it 3 out of 5 stars.[^ref-1][^ref-28] The review called it "borderline edutainment" but said the game "actually gets quite fun and not a little tense."[^ref-28] Macworld's Deke McClelland gave it 4 out of 5 in October 1995.[^ref-1] He called it "one of the very few games that I've found absolutely captivating from one hilarious puzzle to the next."[^ref-29]
+Next Generation reviewed the Macintosh version in its September 1995 issue and gave it 3 out of 5 stars.[^ref-1][^ref-28] The review called it "borderline edutainment" but said the game "actually gets quite fun and not a little tense."[^ref-28] Macworld's Deke McClelland gave it 4 out of 5 in October 1995.[^ref-1] He called it "one of the very few games that I've found absolutely captivating from one hilarious puzzle to the next."[^ref-29] The review's box listed the pros as "Excellent word and logic puzzles; three levels of difficulty; general laugh riot" and the cons as "Cheesy introductory and ending animation," gave a list price of $44.95, and said the game is recommended for ages 12 and up.[^ref-29]
 
 The CD Access retail page quotes two further magazine reviews. Computer Shopper (August 1995) wrote: "This entertaining program offers brain-numbing logic puzzles wrapped in rich graphics and warped by a zany theme."[^ref-33] PC Gamer (December 1996) judged that the game "has great educational value, but the lessons are well camouflaged."[^ref-33]
 
@@ -107,7 +107,7 @@ The game was originally titled "Dr. Brain 3: Brain Damage".[^ref-22][^ref-17]
 
 ### Production
 
-Bright Star Technology developed the game for Sierra.[^ref-10][^ref-17] Sources disagree on the credit, however: MobyGames and PCGamingWiki list Sierra On-Line, Inc. as developer, while Wikipedia and Giant Bomb's description name the Bright Star team.[^ref-34][^ref-35][^ref-1][^ref-10] Wikipedia's infobox also lists Coktel Vision as a co-developer, but it gives no citation for this and it is not confirmed here.[^ref-1] The engine is likewise unconfirmed. The ScummVM wiki states that this game and The Time Warp of Dr. Brain "do not use the SCI engine."[^ref-27] In a MobyGames review, Adam Baratz praised "Sierra's trademark lipsyncing technology."[^ref-13]
+Bright Star Technology developed the game for Sierra.[^ref-10][^ref-17] Sources disagree on the credit, however: MobyGames and PCGamingWiki list Sierra On-Line, Inc. as developer, while Wikipedia and Giant Bomb's description name the Bright Star team.[^ref-34][^ref-35][^ref-1][^ref-10] Wikipedia's infobox also lists Coktel Vision as a co-developer, but it gives no citation for this and it is not confirmed here.[^ref-1] The engine is likewise unconfirmed. The ScummVM wiki states that this game and The Time Warp of Dr. Brain "do not use the SCI engine."[^ref-27] Next Generation's September 1995 review header lists both publisher and developer as Sierra.[^ref-28] In a MobyGames review, Adam Baratz praised "Sierra's trademark lipsyncing technology."[^ref-13]
 
 **Development Credits** (MobyGames):[^ref-13][^ref-34]
 - **Producer:** Sherry Wrana
@@ -144,10 +144,11 @@ Elaina is the player's guide,[^ref-2] while Rathbone comments on the puzzles in 
 - **Audio:** Windows 3.1 compatible sound card
 - **Disk Space:** 1 MB minimum
 - **RAM:** 3 MB (Windows), 2.2 MB (Macintosh)
+- **CD Access listing:** Windows requirements given as a 486SX with 4 MB RAM[^ref-33]
 
 **Windows Requirements:**[^ref-11]
 - CPU: 486SX/20 MHz
-- RAM: 3 MB
+- RAM: 3 MB (GameFAQs); 4 MB (CD Access, which lists a 486SX)[^ref-33]
 - Video: SVGA - 256 colors - 640x480
 - Hard Drive: 1 MB
 
@@ -243,7 +244,7 @@ Both contemporary and later reviewers held that the game works as entertainment,
 [^ref-12]: [UHS Hints – The Lost Mind of Dr. Brain](https://www.uhs-hints.com/uhsweb/drbrain3.php) – puzzle region names and descriptions
 [^ref-13]: [MobyGames – The Lost Mind of Dr. Brain](https://www.mobygames.com/game/2605/the-lost-mind-of-dr-brain/) – critic score, Adam Baratz review, lip-sync technology, Easter egg
 [^ref-15]: [NeverDieMedia – The Lost Mind of Dr. Brain](https://www.neverdiemedia.com/products/the-lost-mind-of-dr-brain) – difficulty levels, platform details
-[^ref-17]: [The Obscuritory – Lost Mind of Dr. Brain](https://obscuritory.com/puzzle/lost-mind-of-dr-brain/) – Phil Salvador review quotes, original title
+[^ref-17]: [The Obscuritory – Lost Mind of Dr. Brain](https://obscuritory.com/puzzle/lost-mind-of-dr-brain/) – Phil Salvador review quotes (March 10, 2011), original title
 [^ref-18]: [GOG Wishlist – The Lost Mind of Dr. Brain](https://www.gog.com/wishlist/games/the_lost_mind_of_dr_brain) – user nostalgia quotes
 [^ref-19]: [MyAbandonware – The Lost Mind of Dr. Brain](https://www.myabandonware.com/game/the-lost-mind-of-dr-brain-3ma) – user rating, download information, alternate titles
 [^ref-20]: [Amazon – The Lost Mind of Dr. Brain (alternate listing)](https://www.amazon.com/Lost-Mind-Dr-Brain/dp/B000F9J3HC) – product description (Gardner's multiple intelligences, 5/10/15% per puzzle), customer rating
