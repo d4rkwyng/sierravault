@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 2 simulation engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: NASCAR Racing 2 Grand National Series Expansion was a 1997 DOS add-on
   for Sierra's NASCAR Racing 2, developed by Papyrus Design Group, adding Busch Grand
   National drivers, 10 official tracks and two fantasy tracks.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2 Grand National Series Expansion
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ The expansion retained NASCAR Racing 2's comprehensive car setup system, where "
 
 ### Structure and Progression
 
-The expansion added the top Busch Grand National Series drivers to NASCAR Racing 2's existing structure.[^ref-1] As in the base game, players could run a Quick Race or a full Championship Season, and multiplayer was available over IPX and modem.[^ref-8][^ref-22] A MobyGames user review of the base game praised its multiplayer, noting "The best part was the multiplayability. Whenever my friends and I would get together to play multi-player games, this one always worked right the first time, everytime."[^ref-10]
+The expansion added the top Busch Grand National Series drivers to NASCAR Racing 2's existing structure.[^ref-1] As in the base game, players could run a Quick Race or a full Championship Season,[^ref-8] and multiplayer was available over IPX and modem.[^ref-22] A MobyGames user review of the base game praised its multiplayer, noting "The best part was the multiplayability. Whenever my friends and I would get together to play multi-player games, this one always worked right the first time, everytime."[^ref-10]
 
 Quick Races award no championship points; the Championship Season mode has players compete for points toward the series title.[^ref-8]
 
@@ -75,7 +75,7 @@ The base game included a toggleable damage model (bodywork, engine and wheels), 
 
 ### Track Selection
 
-The expansion added 10 official Grand National tracks plus two fantasy tracks, Bull Run Raceway and Red Rock International Raceway.[^ref-1][^ref-24] GameSpot's Papyrus history noted that it came without "serious, anticipated upgrades such as 3D acceleration support or pit crew animations."[^ref-17]
+The expansion added 10 official Grand National tracks plus two fantasy tracks, Bull Run Raceway and Red Rock International Raceway.[^ref-1][^ref-24] GameSpot's Papyrus history noted that it came without "serious, anticipated upgrades such as 3D acceleration support or pit crew animations."[^ref-29]
 
 ## Reception
 
@@ -115,7 +115,7 @@ The base game holds an 81% critic average on MobyGames,[^ref-10] and MyAbandonwa
 
 ### Origins and Context
 
-The expansion was developed following the success of NASCAR Racing 2, which was released in December 1996 as a follow-up to the award-winning original NASCAR Racing from 1994.[^ref-6][^ref-7] Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari.[^ref-17][^ref-25] NASCAR Racing 2 went on to sell 800,000 units worldwide, which GameSpot called the second-highest total of any Papyrus game.[^ref-17]
+The expansion was developed following the success of NASCAR Racing 2, which was released in December 1996 as a follow-up to the award-winning original NASCAR Racing from 1994.[^ref-6][^ref-7] Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari.[^ref-28][^ref-25] NASCAR Racing 2 went on to sell 800,000 units worldwide, which GameSpot called the second-highest total of any Papyrus game.[^ref-29]
 
 ### Production
 
@@ -137,13 +137,13 @@ MobyGames describes NASCAR Racing 2 as the first NASCAR game to have 3D accelera
 
 ### Version Compatibility
 
-The expansion required NASCAR Racing 2 as a base game. MobyGames lists it as an add-on to NASCAR Racing 2, and it was later bundled in NASCAR Racing 2 + Track Pack (1998).[^ref-1]
+The expansion required NASCAR Racing 2 as a base game. MobyGames lists it as an add-on to NASCAR Racing 2, and it was later bundled in NASCAR Racing 2 + Track Pack (1998).[^ref-1][^ref-30]
 
 ## Legacy
 
 ### Commercial Success
 
-The base game sold 800,000 units worldwide, making it the second-highest-selling Papyrus game according to GameSpot's 2004 Papyrus history.[^ref-17] No sales figure for the expansion pack has been found.
+The base game sold 800,000 units worldwide, making it the second-highest-selling Papyrus game according to GameSpot's 2004 Papyrus history.[^ref-29] No sales figure for the expansion pack has been found.
 
 ### Industry Recognition
 
@@ -170,6 +170,7 @@ The base game is no longer commercially available and is considered abandonware;
 
 ## See Also
 
+- [[1996 - NASCAR Racing 2|NASCAR Racing 2]] (1996), required base game
 - [[1994 - NASCAR Racing|NASCAR Racing]] (1994)
 - [[1999 - NASCAR Racing 3|NASCAR Racing 3]] (1999)
 - [[1999 - NASCAR Craftsman Truck Series Racing|NASCAR Craftsman Truck Series Racing]] (1999)
@@ -177,9 +178,6 @@ The base game is no longer commercially available and is considered abandonware;
 - [[2001 - NASCAR Racing 4|NASCAR Racing 4]] (2001)
 - [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] (2002)
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (2003)
-
-- **Base Game:** [[1996 - NASCAR Racing 2]] (required)
-- NASCAR Racing 2 Grand National Series Expansion (1997)
 
 ## References
 
@@ -192,11 +190,11 @@ The base game is no longer commercially available and is considered abandonware;
 [^ref-8]: [Internet Archive - NASCAR Racing 2 Manual](https://archive.org/stream/NASCAR_Racing_2_-_Manual/NASCAR_Racing_2_-_Manual_djvu.txt) – Control configuration
 [^ref-9]: GameFabrique, nascar-racing-2 page (link removed: the site pushes a bundled .exe download launcher) – Reprinted reviews of the base game; editor rating 8/10
 [^ref-10]: [MobyGames - NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – User review by Spectre
-[^ref-11]: [IMDb - NASCAR Racing 2](https://www.imdb.com/title/tt6068798/) – Voice cast credits
+[^ref-11]: [IMDb - NASCAR Racing 2 Quotes](https://www.imdb.com/title/tt6068798/quotes/) – Spotter quote; voice cast credits
 [^ref-12]: [Wikipedia - NASCAR Racing 2](https://en.wikipedia.org/wiki/NASCAR_Racing_2) – Review scores
 [^ref-14]: [MyAbandonware - NASCAR Racing 2](https://www.myabandonware.com/game/nascar-racing-2-c6r) – User rating (4.58/5, 81 votes, checked 2026-10-13)
 [^ref-16]: [Internet Archive - N2-3dfx_exe](https://archive.org/details/N2-3dfx_exe) – 3Dfx configuration
-[^ref-17]: [GameSpot - History of Papyrus Racing Games (archived)](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – Gord Goble, 2004; sales figures, expansion contents, shutdown
+[^ref-17]: [GameSpot - History of Papyrus Racing Games, page 1 (archived)](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – Gord Goble, 2004; Vivendi Universal shutdown
 [^ref-18]: [The Athletic - The legacy of 'NASCAR Racing'](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Jordan Bianchi, 2022; Dale Earnhardt Jr. quote
 [^ref-19]: [Internet Archive - NASCAR Racing 2 Mr Abandonware](https://archive.org/details/nascar-racing-2-mr-abandonware) – Abandonware status
 [^ref-20]: [Daily Downforce - Complete History of NASCAR Gaming](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – Series evolution
@@ -207,3 +205,6 @@ The base game is no longer commercially available and is considered abandonware;
 [^ref-25]: [Wikipedia - Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – Later games; NR2003 code sale and iRacing
 [^ref-26]: [Internet Archive - PC Zone 46 (January 1997)](https://archive.org/details/PC_Zone_46_January_1997/page/n124/mode/2up) – Tim Ponting, "NASCAR Racing 2" review, pp. 126–127; score 92, PC Zone Classic (checked against page images)
 [^ref-27]: [Internet Archive - Computer Gaming World Issue 165 (April 1998)](https://archive.org/details/Computer_Gaming_World_Issue_165/page/n185/mode/1up) – Gordon Goble, "Back on Track", p. 182; 3.5 of 5 stars (checked against page image)
+[^ref-28]: [GameSpot - History of Papyrus Racing Games, page 2 (archived)](https://web.archive.org/web/20040805133318/http://www.gamespot.com/features/6103365/p-2.html) – Gord Goble, 2004; Kaemmer and Khudari formed Papyrus Design Group in 1987
+[^ref-29]: [GameSpot - History of Papyrus Racing Games, page 5 (archived)](https://web.archive.org/web/20040805135144/http://www.gamespot.com/features/6103365/p-5.html) – Gord Goble, 2004; 800,000 units, Grand National expansion contents
+[^ref-30]: [MobyGames - NASCAR Racing 2 + Track Pack](https://www.mobygames.com/game/124417/) – Retail compilation of NASCAR Racing 2 and the Grand National Series Expansion Pack (DOS and Windows, 1998); read via the MobyGames API 2026-11-11
