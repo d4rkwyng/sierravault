@@ -10,28 +10,27 @@ series: After Dark
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: A 1998 Berkeley Systems collection of eleven mini-games starring characters
   from the After Dark screensaver series, released under Sierra's Attractions label.
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-After Dark Games represents a unique entry in Sierra's catalog - a collection of eleven mini-games based on the beloved After Dark screensaver series.[^ref-1] Released in 1998 by Sierra Attractions and [[Berkeley Systems]][^ref-1][^ref-3], this CD-ROM compilation transformed iconic screensaver characters into interactive gaming experiences for both Windows 95 and Macintosh platforms.[^ref-3] The collection featured games modeled after previously released screensavers from the After Dark series[^ref-1], including the famous Flying Toasters, Bad Dog, and Hula Girl characters.[^ref-1][^ref-31]
+After Dark Games represents a unique entry in Sierra's catalog - a collection of eleven mini-games based on the beloved After Dark screensaver series.[^ref-1] Released on October 29, 1998[^ref-8][^ref-34] by Sierra Attractions and [[Berkeley Systems]][^ref-1][^ref-3], this CD-ROM compilation transformed iconic screensaver characters into interactive gaming experiences for both Windows 95 and Macintosh platforms.[^ref-3] The collection featured games modeled after previously released screensavers from the After Dark series[^ref-1], including the famous Flying Toasters, Bad Dog, and Hula Girl characters.[^ref-1][^ref-31]
 
 J.C. Herz of The New York Times called it "a candy box of games and puzzles" and wrote that "these vest-pocket video games are, in their own way, as engaging and addictive as the mega-selling 40-hour sagas with souped-up 3-D sound and state-of-the-art computer graphics. Part of their appeal is sheer simplicity."[^ref-31] Computer Gaming World judged it "an interesting collection that will appeal to a wide audience."[^ref-32] Jack Eastman, who had co-created the screensaver, later said Berkeley Systems' philosophy "was to remain 'aggressively stupid'".[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]][^ref-8]
-> **Original Creators:** Jack Eastman, Patrick Beard[^ref-7]
 > **Publisher:** Sierra On-Line (Sierra Attractions label)[^ref-18][^ref-29]
 > **Engine:** Unknown/unnamed[^ref-29]
 > **Platforms:** Windows 3.x, Windows 95, Windows 98, Windows Me, Macintosh[^ref-9][^ref-10][^ref-18]
-> **Release Year:** 1998[^ref-1]
+> **Release Year:** 1998 (October 29)[^ref-1][^ref-8][^ref-34]
 > **Series:** After Dark
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Label (Sierra Attractions)
@@ -81,15 +80,17 @@ One reviewer spent "two hours after I first popped the After Dark Games CD into 
 
 | Publication | Score | Reviewer | Notes |
 |-------------|-------|----------|-------|
-| GameSpot | 5.5/10 | Nicole Freeman | "Unless you have an enormous crush on Hula Girl, you can do better elsewhere"[^ref-17] |
-| Computer Gaming World (#177, Apr 1999) | N/A | Samuel Baker II | "If nothing else, it makes for a good time-killer"[^ref-32] |
+| GameSpot (Apr 29, 2000) | 5.5/10 | Nicole Freeman | "Unless you have an enormous crush on Hula Girl, you can do better elsewhere"[^ref-17] |
+| Computer Gaming World (#177, Apr 1999) | Star rating not legible in the scan | Samuel Baker II | "If nothing else, it makes for a good time-killer"[^ref-32] |
 | The New York Times | Positive | J.C. Herz | Praised simplicity and addictiveness[^ref-31] |
 | MobyGames Critics | 76% | Aggregate | Generally favorable[^ref-18] |
 | Amazon | 4.2/5 | Users | 41 global ratings (as of October 27, 2026)[^ref-9] |
 | MyAbandonware | 4.24/5 | Community | 253 votes (as of October 27, 2026)[^ref-14] |
 | GameFAQs | Great | Users | 17 ratings[^ref-8] |
 
-GameSpot's Nicole Freeman was critical, noting "games that just don't bring any life to the desktop puzzle genre" and that "each game is either a blatant rip-off of better-known games or is just so close, the only puzzle to solve will be trying to figure out what game it reminds you of."[^ref-17]
+Computer Gaming World listed the price as $29.95 and the publisher as "Berkeley/Sierra On-Line". Baker named Roof Rats, Toaster Run and Foggy Boxes (which he called "a tic-tac-toe relative") as the "stand-out games," each "proving addictive in its own way."[^ref-32]
+
+GameSpot's review, published on April 29, 2000, a year after Computer Gaming World's and the New York Times's, was critical.[^ref-17] Freeman noted "games that just don't bring any life to the desktop puzzle genre" and that "each game is either a blatant rip-off of better-known games or is just so close, the only puzzle to solve will be trying to figure out what game it reminds you of."[^ref-17]
 
 ### Modern Assessment
 
@@ -137,6 +138,10 @@ After Dark Games turned screensaver characters (Flying Toasters, Bad Dog, Mowin'
 | Mac | 24.2MB | .sit[^ref-21] |
 | Windows | 32 MB | Not stated[^ref-14] |
 
+### Collections
+
+After Dark Games was also packaged in other Sierra releases: After Dark Midnight Collection, Hoyle Casino 3 (1998), Hoyle Card Games 3 (1999), Hoyle Casino 4 (1999) and Hoyle Word Games (1999).[^ref-29] A demo (7.08 MB) offers five free rounds of Roof Rats, Bad Dog and Mowin' Maniac.[^ref-29]
+
 ### Version History
 
 The screensaver releases that preceded the game:
@@ -145,8 +150,11 @@ The screensaver releases that preceded the game:
 |---------|------|----------|-------|
 | After Dark 1.0 | 1989 | Mac | Original screensaver (Windows version followed in 1991)[^ref-1] |
 | After Dark 2.0 | 1992 | Windows | Listed by Wikipedia as "the first official release for Windows"[^ref-1] |
-| After Dark 4.0 | 1996 | Multi | Latest screensaver release[^ref-1] |
+| After Dark 4.0 | 1996 | Multi | Berkeley Systems' fourth screensaver release[^ref-1] |
 | After Dark Games | 1998 | Win/Mac | Game compilation release[^ref-1] |
+| After Dark X | 2003 | Mac OS X | Official version for Mac OS X by Infinisys, Ltd. of Japan, released in May 2003[^ref-1] |
+
+Infinisys's web site announced on March 29, 2026 that sales of all its products had ended, so After Dark X is no longer sold.[^ref-1]
 
 Screensaver compatibility note (this concerns the After Dark screensaver, not After Dark Games): 32-bit screensavers (After Dark 4.0) work on Windows 10/11, while 16-bit versions do not.[^ref-22]
 
@@ -216,8 +224,9 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 [^ref-22]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Modern system compatibility
 [^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - User preservation requests, nostalgia quotes
 [^ref-26]: [Speedrun.com - Toaster Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Specific speedrun submission
-[^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo information, bundling details
+[^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games&fld=demos) - Demo information, bundling details
 [^ref-30]: [Wired - "Berkeley Systems Acquired by CUC" (April 1997)](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) - CUC International's acquisition of Berkeley Systems; CUC had acquired Sierra On-Line the year before
 [^ref-31]: [The New York Times - J.C. Herz, "GAME THEORY; Flying Toasters That You Can Play With" (April 29, 1999)](https://www.nytimes.com/1999/04/29/technology/game-theory-flying-toasters-that-you-can-play-with.html) - Contemporary review, Section G, Page 4
 [^ref-32]: [Computer Gaming World #177 (April 1999), p. 217 - Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_177) - Samuel Baker II review of After Dark Games
 [^ref-33]: [Wikipedia - Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) - 1997 acquisition by CUC's Sierra On-Line division; founders later founded MoveOn.org
+[^ref-34]: [Metacritic - After Dark Games](https://www.metacritic.com/game/after-dark-games/) - Release date (Oct 29, 1998), publisher and developer listing
