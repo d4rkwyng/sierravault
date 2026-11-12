@@ -4,12 +4,12 @@ type: guide
 topic: "Text Parser Interface"
 engines: ["AGI", "SCI0", "SCI1"]
 years_covered: "1984-1991"
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 
 # Sierra Parser Commands Guide
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ Different series required specialized vocabulary:
 - `SEARCH PRISONER` - Pat down suspects
 - `READ RIGHTS` - Read a suspect his rights
 - `WRITE TICKET` - Issue a traffic citation
-- `BOOK HIM` (for `FELONY`) - Book a prisoner at the jail
+- `BOOK HIM` - Book a prisoner at the jail; the jailer then asks what the suspect did, and the walkthrough answers with the charge (for example `DRUNK DRIVING`)[^ext-justadventure-pq1]
 
 **[[Space Quest Series|Space Quest]]**[^ref-sq1][^ext-sierra-fandom-sq1]:
 - `PRESS BUTTON` - Operate controls (e.g. the escape pod's launch button)[^ext-sq1-points][^ext-sierrahelp-sq1]
@@ -172,10 +172,10 @@ By 1990-1991, Sierra phased out the parser for several reasons:
 SCI1's VGA debut, King's Quest V (1990), introduced the icon interface that replaced the parser[^ref-sci][^ext-wikipedia-sci]; the EGA-only [[Sierra Creative Interpreter|SCI1]] build used by Quest for Glory II still had the parser[^ext-scummvm-sgv][^ext-wikipedia-qfg2]:
 
 - **Walk** - Navigate character
-- **Look** - Examine objects
+- **Look** (eye icon) - Examine objects
 - **Hand** - Interact/manipulate
-- **Talk** - Converse with characters
-- **Inventory** - Access collected items
+- **Talk** (speaking icon) - Converse with characters
+- **Inventory** - Use collected items on the screen[^ext-wikipedia-kq5]
 
 ### Hybrid Approaches
 
@@ -205,10 +205,10 @@ Later AGI parser releases also included the AGI version of King's Quest IV (1988
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] — Notable Parser Feature: SCI engine debut, also released in an AGI version[^ext-wikipedia-sci][^ext-scummvm-agilist]
 - **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II]] — Notable Parser Feature: Famous parser bug ("PUT BAG")[^ext-allowe-bug]
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Notable Parser Feature: Last fully parser-driven Larry; the next Larry game, [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL5]], dropped typing[^ext-acg-lsl3][^ext-ign-allowe]
-- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] — Notable Parser Feature: Parser with SCI graphics
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I]] — Notable Parser Feature: RPG elements with parser
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] — Notable Parser Feature: SCI0 engine with mouse movement and what Wikipedia calls "a new, heavily improved text parser"[^ext-wikipedia-sq3][^ext-scummvm-sgv]
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I]] — Notable Parser Feature: Original SCI0 release was a role-playing adventure with a text parser, with players typing commands[^ext-wikipedia-qfg1][^ext-scummvm-sgv]
 
-Other SCI0 parser games with vault pages include [[1988 - Police Quest II - The Vengeance|Police Quest II]] (1988), [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and the [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|1990 SCI remake of King's Quest I]]. [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] (1990) also kept the text parser, but ScummVM's version list places it under SCI1 (EGA), not SCI0.[^ext-scummvm-sgv]
+Other SCI0 and SCI01 parser games with vault pages include [[1988 - Police Quest II - The Vengeance|Police Quest II]] (1988), [[1989 - The Colonel's Bequest|The Colonel's Bequest]] (1989), [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and the [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|1990 SCI remake of King's Quest I]], which ScummVM's version list places under SCI01. [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] (1990) also kept the text parser, but ScummVM's version list places it under SCI1 (EGA), not SCI0.[^ext-scummvm-sgv]
 
 ### Simplified/No Parser
 
@@ -284,9 +284,9 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ext-eg-1984]: [Electronic Games, December 1984 (archive.org scan, OCR text)](https://archive.org/stream/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US_djvu.txt) – "Passport to Adventure": "King's Quest is a major breakthrough in action-adventure games"
 [^ext-sierrahelp-pq1]: [Sierra Help – Police Quest AGI Walkthrough](https://sierrahelp.com/Walkthroughs/PQ1AGIWalkthrough.html) – WRITE TICKET, HANDCUFF SUSPECT, CUFF SUSPECT, SEARCH PRISONER, READ RIGHTS, booking at the jail
 [^ext-sq1-points]: [The Broomcloset – Space Quest 1 Complete Point List](https://wiw.org/~jess/sq1pts.html) – "Talk to Sarien Guard 1", "Say 'Yes' Regarding King's Quest II 5", "Press Launch Button 3"
-[^ext-hg101-sq3]: [Hardcore Gaming 101 – Space Quest III](http://www.hardcoregaming101.net/space-quest-iii/) – "the parser is extremely fussy with your positioning"
+[^ext-hg101-sq3]: [Hardcore Gaming 101 – Space Quest III (Wayback, 2024-11-10)](https://web.archive.org/web/20241110105256/http://www.hardcoregaming101.net/space-quest-iii/) – "the parser is extremely fussy with your positioning"
 [^ext-starostin-gr]: [George Starostin – Review: Gold Rush! (1988)](https://onlysolitaire.substack.com/p/review-gold-rush-1988) – "the game does not pause while you are typing in commands"
-[^ext-hg101-lsl1]: [Hardcore Gaming 101 – Leisure Suit Larry in the Land of the Lounge Lizards](http://www.hardcoregaming101.net/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Both quoted parser responses verbatim
+[^ext-hg101-lsl1]: [Hardcore Gaming 101 – Leisure Suit Larry in the Land of the Lounge Lizards (Wayback, 2024-12-14)](https://web.archive.org/web/20241214013955/http://www.hardcoregaming101.net/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Both quoted parser responses verbatim
 [^ext-sierrahelp-sqeggs]: [Sierra Help – Space Quest Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/SQEasterEggs.html) – "In early versions of the game, type 'ken' on the first screen"; eliminated in later versions
 [^ext-wikipedia-sci]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra%27s_Creative_Interpreter) – SCI0 debut with King's Quest IV; SCI1 with King's Quest V (1990), "icon-driven interface"
 [^ext-forceforgood-lsl7]: [A Force For Good – Leisure Suit Larry: Love for Sail!](https://forceforgood.co.uk/adventure/leisure-suit-larry-love-for-sail/) – "I like the way it remembers the ones you've used before"
@@ -299,3 +299,7 @@ ScummVM supports Sierra's AGI games; its wiki lists Space Quest as supported in 
 [^ext-wikipedia-mhny]: [Wikipedia – Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) – "did not use a text parser… featured a rudimentary point-and-click interface"
 [^ext-wikipedia-bc]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – "the text parser was removed in favor of the function keys"
 [^ext-wikipedia-qfg2]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) – "The game's interface is a text parser"
+[^ext-justadventure-pq1]: [Just Adventure – Police Quest Walkthrough (Joergen Hansen)](https://www.justadventure.com/walkthrough/police/) – 'Walk up to the bailer. Type "BOOK HIM".' The jailer asks what the suspect has done; 'Type "DRUNK DRIVING".'
+[^ext-wikipedia-sq3]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – "PC versions of the game support mouse movement and a new, heavily improved text parser"
+[^ext-wikipedia-qfg1]: [Wikipedia – Quest for Glory I: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero) – "The original release was an adventure game with a text parser, with players typing commands"; original used the SCI0 text parser
+[^ext-wikipedia-kq5]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – Walk, eye, hand, speaking and inventory icons; SCI "enhanced to replace the text-based parser with an icon-based point-and-click interface"
