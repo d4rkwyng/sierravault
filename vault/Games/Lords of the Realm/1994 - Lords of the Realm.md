@@ -2,7 +2,7 @@
 title: Lords of the Realm
 release_year: 1994
 developer: Impressions Games
-designer: [David Lester, Christopher J. Foster]
+designer: [Christopher J. Foster, David Lester]
 publisher: Impressions Games
 genre: Strategy
 platforms: [DOS, Amiga, Windows, macOS, Linux]
@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: 'Unknown (sound: AIL / Miles Sound System)'
 protagonist: Player-controlled Lord
 sierra_lineage: Acquired Franchise
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Lords of the Realm is a 1994 medieval strategy game by Impressions Games
   in which six lords compete for the empty English throne through farming, castle-building
   and real-time battles.
@@ -18,11 +18,11 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Lords of the Realm is a medieval turn-based strategy game developed by [[Impressions Games]] and released in 1994. Set in 1268 A.D., when the English throne lies empty, it casts the player as one of six lords vying for the crown through a combination of economic management, military strategy, and castle warfare.[^ref-6][^ref-11] Games Nostalgia describes it as "the ancestor to titles like the 'Total War' series" and "a piece of strategy history."[^ref-2]
+Lords of the Realm is a medieval turn-based strategy game developed by [[Impressions Games]] and released in 1994. Set in 1268 A.D., when the English throne lies empty, it casts the player as one of six lords vying for the crown through a combination of economic management, military strategy, and castle warfare.[^ref-6][^ref-18] Games Nostalgia describes it as "the ancestor to titles like the 'Total War' series" and "a piece of strategy history,"[^ref-2] and Rock Paper Shotgun calls it "an obvious ancestor of Total War."[^ref-19]
 
 The game places as much emphasis on governing as on warfare, requiring players to manage their serfs, balance food production through seasonal farming cycles, and carefully develop their territories while pursuing military conquest.[^ref-3] Players could design their own castles or use historical blueprints,[^ref-6] build and siege fortifications, and command armies in battles that could be either player-controlled or computer-determined.[^ref-4] The HOTUD review on MyAbandonware calls it "David Lester's masterpiece", "THE game that finally brought Impressions into the spotlight", and "a labor of love".[^ref-5]
 
@@ -30,7 +30,7 @@ Lords of the Realm was praised for offering an interesting portrayal of thirteen
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-6]
-> **Designer:** [[David Lester]], Christopher J. Foster[^ref-4]
+> **Designer:** Christopher J. Foster, [[David Lester]][^ref-4]
 > **Publisher:** Impressions Games[^ref-6]
 > **Engine:** Unknown (sound: AIL / Miles Sound System)[^ref-6]
 > **Platforms:** DOS, Amiga, Windows, macOS, Linux[^ref-7]
@@ -45,7 +45,7 @@ The game opens in the year 1268 A.D. with the English throne lying empty.[^ref-6
 
 There is no scripted plot; the story unfolds through play. Each player takes the role of a noble lord of England or Wales,[^ref-20] and alliances may be offered to a lord who rules well, though uniting the kingdom may still take military force.[^ref-10]
 
-As players progress, they must navigate the harsh realities of medieval governance. Winter is the harshest season, when earlier decisions can make or break the population's survival.[^ref-10] The path to the throne requires conquering all opposing territories, either through military might or strategic maneuvering. The game's tagline captures the stakes perfectly: "Because in the end, you're either King, or you're dead."[^ref-11]
+As players progress, they must navigate the harsh realities of medieval governance. The aim is to conquer your rivals and claim the kingdom.[^ref-11] The game's tagline captures the stakes perfectly: "Because in the end, you're either King, or you're dead."[^ref-11]
 
 ## Gameplay
 
@@ -59,13 +59,13 @@ Statistics screens show each county's grain produced, eaten and stored, livestoc
 
 The game operates on a turn-based system where each turn represents a single season of a four-season year, starting in spring and ending in winter.[^ref-10] Winter is the harshest time of year, when previous decisions can make or break the populace's survival.[^ref-10] Production is linked to the seasons but is also affected by external and random events such as drought, floods and barren fields,[^ref-12] and GOG's listing for the Royal Edition likewise advertises "random events like drought or flooding."[^ref-11]
 
-Players begin with control of a single county and must expand their domain by conquering neighboring territories. The kingdom map has 32 counties to contest,[^ref-6] with the player cast as a noble lord of England or Wales in 1268.[^ref-20] Victory is achieved by capturing all territories and eliminating rival lords, ultimately claiming the throne.
+Players begin with control of a single county and must expand their domain by conquering neighboring territories. The kingdom map has 32 counties to contest,[^ref-6] with the player cast as a noble lord of England or Wales in 1268.[^ref-20] The aim is to conquer your rivals and claim the kingdom.[^ref-11]
 
 ### Puzzles and Mechanics
 
 Rather than traditional puzzles, Lords of the Realm challenges players with complex resource management and military strategy decisions. The core gameplay loop involves several interconnected systems:[^ref-3]
 
-**Population Management:** Players must keep their serfs fed and happy, assigning them to various tasks including farming, herding, building, and military service.[^ref-6] Overtaxation or food shortages lead to unhappy peasants and reduced productivity.
+**Population Management:** Players must keep their serfs fed and happy, assigning them to various tasks including farming, herding, building, and military service.[^ref-6] Each turn is a season, and the Lilura1 review lists tax and happiness among the things a player manages alongside castles, armies, trade, crop rotation and stockpiling.[^ref-20]
 
 **Agricultural System:** Covering "crop rotation" among its "3-Cs" of medievalism,[^ref-5] the game has players balance crop production, herding, shepherding and keeping farmland fertile, with exhausted fields needing to be re-fertilized.[^ref-6]
 
@@ -89,7 +89,7 @@ PC Gamer honored the game with its Best Historical Simulation award for 1994, an
 
 Modern retrospectives continue to regard Lords of the Realm highly. The Escapist called it "a fantastic experience that fans of the genre would be remiss to skip over" and stated that "Lords of the Realm could very well be one of the most entertaining games set in the medieval world that I've ever played."[^ref-3] Rock Paper Shotgun noted that the game "favours economic management of a modest, decentralised land and its workforce," distinguishing it from pure military simulations.[^ref-19]
 
-Games Nostalgia designated it as a "must-play for any strategy fan" and "a good starter title for anyone interested in breaking into the genre," while recognizing it as "the ancestor to titles like the 'Total War' series" and "a piece of strategy history."[^ref-2] One reviewer characterized it as "what Defender of the Crown should have been: lavish in game mechanics, not just graphics."[^ref-20]
+Games Nostalgia designated it as a "must-play for any strategy fan" and "a good starter title for anyone interested in breaking into the genre."[^ref-2] One reviewer characterized it as "what Defender of the Crown should have been: lavish in game mechanics, not just graphics."[^ref-20]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.6/10[^ref-6]
@@ -217,9 +217,7 @@ Lords of the Realm has appeared in several compilation releases:
 
 ### Critical Perspective
 
-Lords of the Realm pairs turn-based kingdom management with real-time battles,[^ref-4] which Steam's store page calls a "classic blend of turn-based and real-time strategy."[^ref-18] The Escapist found the game "as much about governing as it is about war,"[^ref-3] and Rock Paper Shotgun noted that it "favours economic management of a modest, decentralised land and its workforce."[^ref-19]
-
-Games Nostalgia sees it as "the ancestor to titles like the 'Total War' series."[^ref-2]
+Lords of the Realm pairs turn-based kingdom management with real-time battles,[^ref-4] which Steam's store page calls a "classic blend of turn-based and real-time strategy."[^ref-18] The Escapist found the game "as much about governing as it is about war."[^ref-3]
 
 ## Downloads
 
