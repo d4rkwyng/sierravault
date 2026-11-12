@@ -22,15 +22,15 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 
 ## Overview
 
-Front Page Sports: Football (often referred to as Front Page Sports Football 92 or simply FPS Football) was the first in a series of football simulations released by Sierra On-Line, and the first sports simulation from [[Dynamix]][^ref-1]. MobyGames describes it as "an ambitious simulation of North American football that tried to combine the arcade, coaching, and simulation football game experiences into a single package"[^ref-25]. It was released in 1992 for DOS, developed and published by Dynamix, Inc.[^ref-25]
+Front Page Sports: Football (often referred to as Front Page Sports Football 92 or simply FPS Football) was the first in a series of football simulations from Sierra's [[Dynamix]] studio, and that studio's first sports simulation[^ref-1]. MobyGames describes it as "an ambitious simulation of North American football that tried to combine the arcade, coaching, and simulation football game experiences into a single package"[^ref-25]. It was released in 1992 for DOS, developed and published by Dynamix, Inc.[^ref-25]
 
 The Front Page Sports series was notable for being one of the first football simulations to include a career mode where players aged and retired, and for the number of statistics it offered[^ref-1]. The game shipped with about two hundred stock plays and a play editor for creating new plays or editing existing ones[^ref-25]. Computer Gaming World named it the 1993 Sports Game of the Year, citing "the ability to design and implement custom plays"[^ref-28].
 
-The game rated players from 0 to 99 in eight performance classifications and recorded more than 300 statistical categories[^ref-1]. Play styles ranged from joystick control of individual players to simulating an entire game in a few seconds[^ref-25].
+The game rated players from 0 to 99 in eight performance classifications and recorded more than 300 statistical categories[^ref-1][^ref-34]. Play styles ranged from joystick control of individual players to simulating an entire game in a few seconds[^ref-25].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-25]
-> **Director:** [[Patrick Cook]][^ref-26]
+> **Designer:** [[Patrick Cook]][^ref-28]
 > **Publisher:** Dynamix, Inc.[^ref-25]
 > **Engine:** Not documented
 > **Platforms:** MS-DOS[^ref-25]
@@ -41,11 +41,11 @@ The game rated players from 0 to 99 in eight performance classifications and rec
 
 ## Story Summary
 
-As a sports simulation game, Front Page Sports: Football does not feature a traditional narrative story. The game divides itself into three separate but directly connected sections: on-field action, coaching playbook, and team management[^ref-1]. The "story" emerges through career/league play, in which a franchise is built and managed over multiple seasons[^ref-1].
+As a sports simulation game, Front Page Sports: Football does not feature a traditional narrative story. The game divides itself into three separate but directly connected sections: on-field action, coaching playbook, and team management[^ref-1][^ref-34]. The "story" emerges through career/league play, in which a franchise is built and managed over multiple seasons[^ref-1].
 
-In career leagues, players' potential and actual ratings could be affected by training, injuries and aging[^ref-1]. This created emergent narratives unique to each playthrough, as veterans declined and retired while younger players developed.
+In career leagues, players' potential and actual ratings could be affected by training, injuries and aging[^ref-1][^ref-34].
 
-The first game had no license from the NFL or its players' association, so all teams and players were fictional[^ref-1]. Almost every detail of a franchise could be customized: team name, nickname, head coach, jersey colors, stadium type (domed or outdoor) and nearest city[^ref-1]. Rosters featured 47-man teams with injured reserve, free-agent pools, drafting, training camp and trading[^ref-1].
+The first game had no license from the NFL or its players' association, so all teams and players were fictional[^ref-1]. Almost every detail of a franchise could be customized: team name, nickname, head coach, jersey colors, stadium type (domed or outdoor) and nearest city[^ref-1]. Rosters featured 47-man teams with injured reserve, free-agent pools, drafting, training camp and trading[^ref-1][^ref-34].
 
 ## Gameplay
 
@@ -86,7 +86,7 @@ Computer Gaming World's March 1993 issue (#104) reviewed it alongside two other 
 
 COMPUTE! reviewed it in September 1993 (issue #156). Scott A. May called it "the most comprehensive and intuitive yet seen" in describing the playbook editor, whose "logic boxes" are "instructional scripts that tell each player how to react as a play unfolds"[^ref-34]. He also noted shortcomings: playbooks had to be memorized by "cryptic eight-character abbreviations," and simulating a weekly league schedule meant "agonizingly long periods of computer inactivity," averaging 11 minutes per game on a 25-MHz 80386[^ref-34]. His verdict: the game "kicks our perception of computer sports simulations into another dimension"[^ref-34].
 
-The series' reputation grew with its sequels. Computer Gaming World named the 1993 follow-up, Football Pro, its "PREMIER Sports Game of the Year" in June 1994 (issue #119)[^ref-35] and introduced it into its Hall of Fame in March 1996[^ref-3], and in November 1996 it ranked "FPS Football 1995" (Football Pro '95) 11th on its list of the best games of all time, noting the series had improved "up through FPS Football 95, winning an unprecedented three CGW Premier awards"[^ref-29]. That ranking belongs to the '95 edition, not the 1992 original.
+The series' reputation grew with its sequels. Computer Gaming World named the 1993 follow-up, Football Pro, its "PREMIER Sports Game of the Year" in June 1994 (issue #119)[^ref-35] and introduced it into its Hall of Fame in March 1996[^ref-36], and in November 1996 it ranked "FPS Football 1995" (Football Pro '95) 11th on its list of the best games of all time, noting the series had improved "up through FPS Football 95, winning an unprecedented three CGW Premier awards"[^ref-29]. That ranking belongs to the '95 edition, not the 1992 original.
 
 ### Modern Assessment
 
@@ -127,7 +127,7 @@ Development was handled in-house at Dynamix[^ref-25]. MobyGames credits 28 peopl
 
 ### Technical Achievements
 
-The game combined arcade play, coaching and full statistical simulation[^ref-25]. Its player ratings ran from 0 to 99 in eight performance classifications, and it recorded more than 300 statistical categories that could be shown onscreen or printed, with box scores available during and after games[^ref-1]. In career leagues, training, injuries and aging affected both potential and actual ratings[^ref-1].
+The game combined arcade play, coaching and full statistical simulation[^ref-25]. Its player ratings ran from 0 to 99 in eight performance classifications, and it recorded more than 300 statistical categories that could be shown onscreen or printed, with box scores available during and after games[^ref-1][^ref-34]. In career leagues, training, injuries and aging affected both potential and actual ratings[^ref-1].
 
 ### Technical Specifications
 
@@ -155,7 +155,7 @@ The series was re-released and updated annually. Later editions are covered on t
 | Pro '96 | 1995 | DOS | High-res SVGA graphics, expansion teams added[^ref-11] |
 | Pro '97 | 1996 | Windows | Windows edition; box copy touts motion-captured player movements[^ref-5] |
 | Pro '98 | 1997 | Windows | Synergistic Software credited as developer[^ref-15] |
-| NFL Football Pro '99 | December 1998 | Windows | Final version; recalled January 1999[^ref-30][^ref-31] |
+| [[CXL - Front Page Sports - Football Pro '99|NFL Football Pro '99]] | December 1998 | Windows | Final version; recalled January 1999[^ref-30][^ref-31] |
 
 ### Technical Issues
 
@@ -221,12 +221,14 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 - [[1997 - Front Page Sports - Trophy Rivers]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 - [[1999 - Front Page Sports - Ski Racing 99]]
+- [[1996 - Front Page Sports - Trophy Bass 2]]
+- [[CXL - Front Page Sports - Football Pro '99]]
 
 ## References
 
-[^ref-1]: [En-Academic – Front Page Sports Football](https://en-academic.com/dic.nsf/enwiki/4856623) – series history, 1992 features, career mode, version history
+[^ref-1]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series history, 1992 features, career mode, version history
 [^ref-2]: [The Digital Antiquarian – Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) – Dynamix as Oregon-based Sierra subsidiary; "most consistent" studio in 1994
-[^ref-3]: [MobyGames – Front Page Sports: Football Pro (1993)](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – sequel: NFLPA license, ~1,000 plays, CGW 1994 award and 1996 Hall of Fame
+[^ref-3]: [MobyGames – Front Page Sports: Football Pro (1993)](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – sequel: NFLPA license, ~1,000 plays
 [^ref-5]: [MobyGames – Front Page Sports: Football Pro '97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) – Pro '97 features
 [^ref-6]: [MobyGames – Front Page Sports: Football Pro '95](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/) – Pro '95 features, rule changes, Pro Bowl
 [^ref-7]: [GameSpot – FPS Football Pro '98 Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – Pro '98 review, bugs, patches, box cover
@@ -251,3 +253,4 @@ Front Page Sports: Football stands out for trying to unite arcade play, coaching
 [^ref-33]: [Computer Gaming World #104 (March 1993), p. 48, Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_104) – Wallace Poulter, "Three Computer Football Games": "A better debut would be harder to imagine"; animation speed, simulation speed and manual criticisms
 [^ref-34]: [COMPUTE! #156 (September 1993), p. 80, Scott A. May review](https://www.atarimagazines.com/compute/issue156/80_Front_Page_Sports_F.php) – playbook editor "logic boxes", nine fixed cameras plus a free-floating replay camera, slow weekly simulation; scan at [Internet Archive](https://archive.org/details/1993-09-compute-magazine/page/80)
 [^ref-35]: [Computer Gaming World #119 (June 1994) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n56/mode/1up) – "The winner of the PREMIER Sports Game of the Year is Front Page Sports Football Pro from Dynamix"
+[^ref-36]: [Computer Gaming World #140 (March 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_140) – Hall of Fame, "Front Page Sports Football Pro (Sierra/Dynamix, 1993)": "Welcome to the Cooperstown of Computer Games"; "Project leader Patrick Cook"; "he founded a dynasty"
