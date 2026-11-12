@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Austin Haynes, Matthew Florianz]
 description: 'Cognition: An Erica Reed Thriller is a four-part episodic point-and-click
   adventure from Phoenix Online Studios, released 2012-2013, with Gabriel Knight creator
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The game was Phoenix Online Studios' first commercial project[^ref-4] and was fu
 > **Writers:** César Bittar, Katie Hallahan, Nick Bryan[^ref-1][^ref-9]
 > **Story Consultant:** [[Jane Jensen]][^ref-1]
 > **Art Director:** Romano Molenaar[^ref-9]
-> **Publisher:** Phoenix Online Studios / Reverb Publishing[^ref-1][^ref-10]
+> **Publisher:** Phoenix Online Studios / Reverb Publishing[^ref-1][^ref-4]
 > **Engine:** Unity[^ref-1]
 > **Platforms:** Windows, Mac, iOS, Android[^ref-1][^ref-33]
 > **Release Year:** 2012-2013 (Episodes 1-4)[^ref-28][^ref-31]
@@ -53,7 +53,7 @@ Throughout the episodic series, Erica learns to control three distinct psychic p
 |---------|-------|--------------|-------|
 | Episode 1 | The Hangman | October 30, 2012[^ref-28] | Hangman killer investigation[^ref-1] |
 | Episode 2 | The Wise Monkey | January 30, 2013[^ref-29] | The Wise Monkey kidnapping case[^ref-1] |
-| Episode 3 | The Oracle | May 16, 2013[^ref-30] | "A potent murder mystery where questions continue to arise"[^ref-3] |
+| Episode 3 | The Oracle | May 16, 2013[^ref-30] | Erica follows a trail of clues to Enthon Towers; the identity of the Oracle is revealed[^ref-30] |
 | Episode 4 | The Cain Killer | September 19, 2013[^ref-31] | Series conclusion[^ref-1] |
 
 ## Gameplay
@@ -125,7 +125,7 @@ The game was funded through a 2011 Kickstarter campaign that raised $34,247 from
 
 ### Production
 
-Following the campaign, the team developed the game using the Unity engine, with Skype and Dropbox used for communication within the team.[^ref-1] The store description of the iOS release calls the team an "indie dream team."[^ref-12] César Bittar is credited as director, producer, designer and writer.[^ref-34][^ref-9]
+Following the campaign, the team developed the game using the Unity engine, with Skype and Dropbox used for communication within the team.[^ref-1][^ref-37] The store description of the iOS release calls the team an "indie dream team."[^ref-12] César Bittar is credited as director, producer, designer and writer.[^ref-34][^ref-9]
 
 **Voice Cast:**[^ref-9]
 | Actor | Character |
@@ -184,9 +184,9 @@ The Game of the Year Edition includes exclusive making-of videos, concept art, a
 
 ## Legacy
 
-During the online release party for the final episode, Phoenix suggested that a second season was planned.[^ref-1]
+During the online release party for the final episode, Phoenix suggested that a second season was planned.[^ref-1][^ref-38]
 
-The Steam store description states that the game won six 2013 Reader's Choice Aggie Awards, including Game of the Year.[^ref-32] The game remains available through digital distribution platforms.[^ref-32]
+The Steam store page for the Game of the Year Edition describes Cognition as the winner of six 2013 Reader's Choice Aggie Awards, including Game of the Year.[^ref-32] The game remains available through digital distribution platforms.[^ref-32]
 
 ### Sierra Connection
 
@@ -231,12 +231,11 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 [^ref-1]: [Wikipedia - Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) - Credits, Unity engine, Skype/Dropbox, platforms and iPad dates, episode synopses and powers, 3–6 hour episodes, patched graphical issues, second season suggestion
 [^ref-2]: [MobyGames - Cognition Episode 1](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Gameplay mechanics description
 [^ref-3]: [Alternative Magazine Online](https://alternativemagazineonline.co.uk/tag/cognition-an-erica-reed-thriller/) - Episode reviews, Raleigh Holmes praise and parentage
-[^ref-4]: [Adventure Classic Gaming - Episode 1 review](http://www.adventureclassicgaming.com/index.php/site/reviews/769) - Gustavo Calvo-Simmons, 4/5; first commercial project, early Kickstarter success, three powers, Raleigh Holmes, system requirements
+[^ref-4]: [Adventure Classic Gaming - Episode 1 review](http://www.adventureclassicgaming.com/index.php/site/reviews/769) - Gustavo Calvo-Simmons, 4/5; first commercial project, early Kickstarter success, three powers, Raleigh Holmes, system requirements, Technical Data lists publisher Reverb Publishing
 [^ref-5]: [Hardcore Gaming 101 (Wayback, 2023)](https://web.archive.org/web/20231129113049/http://www.hardcoregaming101.net/cognition-an-erica-reed-thriller/) - Victoria Grace Howell, July 26, 2020; gameplay overview, player choices, comic-style cutscenes, 2018 iOS/Android Game of the Year Edition, comparison with the Gabriel Knight remake
 [^ref-7]: [Arcade Sushi - Cognition Episode 1 Review](https://arcadesushi.com/cognition-episode-1-review/) - Ben Worcester, March 4, 2013, iOS review, 6.5/10; episode structure, iPad port glitches
 [^ref-8]: [Metacritic - Episode 1: The Hangman (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/) - Metascore 72 and user score 6.9 (both "Mixed or Average"), critic and user review quotes
 [^ref-9]: [IMDb Credits](https://www.imdb.com/title/tt2481284/fullcredits) - Full development credits, art director, voice cast
-[^ref-10]: [MobyGames Publisher Info](https://www.mobygames.com/game/59439/) - Reverb Publishing involvement
 [^ref-12]: [App Store - Cognition Episode 1](https://apps.apple.com/us/app/cognition-episode-1/id598738593) - Phoenix Online Publishing, released February 28, 2013; store description: "Developed by a true 'indie dream team'", Erica Reed has "the power to see the past"
 [^ref-13]: [IMDb - Episode 1](https://www.imdb.com/title/tt2481284/) - Plot summary; "The Taking" written by Robert and Raleigh Holmes
 [^ref-14]: [God is a Geek - Episode 1 review](https://web.archive.org/web/20130107124146/https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Benjamin Maltbie; dark narrative, around 5 hours of gameplay
@@ -250,8 +249,10 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 [^ref-29]: [Phoenix Online Studios blog - Episode 2 Now Available (Wayback)](https://web.archive.org/web/20151218095623/http://www.postudios.com/blog/?p=2313) - Posted Jan. 30, 2013
 [^ref-30]: [Phoenix Online Studios blog - Episode 3 Available Now (Wayback)](https://web.archive.org/web/20160304032935/http://www.postudios.com/blog/?p=2946) - Posted May 16, 2013
 [^ref-31]: [Phoenix Online Studios blog - Episode 4 Available Now (Wayback)](https://web.archive.org/web/20140820045219/http://www.postudios.com/blog/?p=3339) - Posted Sep. 19, 2013; full season on Phoenix store, Steam and GOG
-[^ref-32]: [Steam - Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/) - Store description (Aggie Awards claim), system requirements, macOS 10.15 incompatibility
+[^ref-32]: [Steam - Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/) - Game of the Year Edition store description ("Winner of six 2013 Reader's Choice Aggie Awards, including Game of the Year"), system requirements, macOS 10.15 incompatibility
 [^ref-33]: [Game Informer - Cognition preview and game page](https://gameinformer.com/games/cognition/b/pc/archive/2012/03/06/a-supernatural-adventure-with-mystifying-visuals) - Platforms PC, iOS, Android; iOS/Android release February 8, 2018
 [^ref-34]: [MobyGames - Episode 1 Windows credits](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/credits/windows/) - Season design Bittar and Hallahan; music Austin Haynes, additional music Matthew Florianz, "The Taking" by Robert Holmes
 [^ref-35]: [Alternative Magazine Online – Interview: In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) – Marty Mulrooney, December 18, 2012; Raleigh Holmes: "My Dad, Robert Holmes, is in The Furies"; interviewer names Jane Jensen as her stepmother
 [^ref-36]: [Metacritic - Episode 1 critic reviews (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/critic-reviews/?platform=pc) - CD-Action, January 6, 2013, 75: "Cognition feels like some old game by Sierra and this is its biggest strength." [1/2013, p.72]
+[^ref-37]: [Phoenix Online Studios blog - Developer Diary: Managing an Online Team on a Shoestring Budget (Wayback)](https://web.archive.org/web/20160303212513/http://www.postudios.com/blog/?p=1643) - Skype for team calls; file sharing via Tortoise SVN and Dropbox
+[^ref-38]: [Kickstart Adventure - Cognition Episode 4: The Cain Killer review (Wayback)](https://web.archive.org/web/20131101050537/http://www.kickstartadventure.com/home/cognition-episode-4-the-cain-killer-review/) - Reviewer reports Cesar Bittar "has hinted that there might be a second season"
