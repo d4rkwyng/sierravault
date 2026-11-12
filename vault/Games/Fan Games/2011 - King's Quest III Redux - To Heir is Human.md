@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: 2026-11-11
+last_updated: 2026-11-12
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released
   free for Windows and Mac on February 24, 2011.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -225,7 +225,7 @@ Some minor audio issues were noted: rogeru wrote that several lines came out slu
 
 ### Sales and Commercial Impact
 
-As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,173 all-time downloads through its platform alone as of October 2026[^ref-4]. (IGN's release announcement said AGD Interactive's titles as a whole "have been downloaded by millions of fans," a figure for the studio's whole catalogue, not this game[^ref-3].) CDRomance tracked 1,938 downloads through their site as of October 2026[^ref-5].
+As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,173 all-time downloads through its platform alone as of October 2026[^ref-4]. (IGN's release announcement said AGD Interactive's titles as a whole "have been downloaded by millions of fans," a figure for the studio's whole catalogue, not this game[^ref-3].)
 
 The game's release marked the end of an era for AGD Interactive's fan remake projects. IGN's announcement described AGD Interactive as "an acclaimed developer of classic adventure game remakes" and said the release brought "an end to over a decade of free game production" for the group[^ref-3].
 
@@ -276,7 +276,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-2]: [Free Games Utopia – King's Quest III Redux](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) – ratings, platform details, AGDI's earlier KQ1/KQ2 remakes
 [^ref-3]: [IGN – Relive the Magic of King's Quest Today](https://www.ign.com/articles/2011/02/25/relive-the-magic-of-kings-quest-today-with-kings-quest-iii-redux) – developer quotes, development history, voice cast, release announcement
 [^ref-4]: [Adventure Game Studio – King's Quest III Redux](https://www.adventuregamestudio.co.uk/play/game/1413/) – game description, user reviews, AGS Awards nominations, technical specs
-[^ref-5]: [CDRomance – King's Quest III Redux](https://cdromance.org/windows/kings-quest-iii-redux-to-heir-is-human-remake/) – version info, description of new content, download statistics
+[^ref-5]: [AGD Interactive – King's Quest III Redux release announcement (24 Feb 2011)](https://www.agdinteractive.com/) – "new scenes, quests, characters, and locations to explore"; game resumes where King's Quest II: Romancing the Stones ended
 [^ref-7]: [AGD Interactive Forums – User Review](http://www.agdinteractive.com/forum/viewtopic.php?t=15085) – detailed user review, ratings breakdown, music praise
 [^ref-8]: [MobyGames – King's Quest III Redux](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – credits, ratings, technical specifications, developer info
 [^ref-9]: [MobyGames – Infamous Adventures King's Quest III](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – alternative remake information, description, ratings
