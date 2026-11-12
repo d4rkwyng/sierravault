@@ -10,17 +10,17 @@ series: Hi-Res Adventures
 engine: ADL (Adventure Development Language)
 protagonist: Unnamed Time Traveler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: "Time Zone (1982), Hi-Res Adventure #5, is Roberta Williams's time-travel epic for the Apple II, with about 1,300 rooms on both sides of six disks, sold by On-Line Systems for $99.95."
 tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Time Zone, released in February 1982 by On-Line Systems, was one of the most ambitious adventure games yet made for a home computer.[^ref-1][^ref-16] Computer Gaming World had announced it for a January 5 release at $99.95,[^ref-17] and Jimmy Maher dates its shipping to about the beginning of March.[^ref-5] Designed by [[Roberta Williams]], this fifth entry in the Hi-Res Adventures series filled both sides of six floppy disks and, by its manual's count, held approximately 1,300 rooms with over 1,400 hi-res pictures.[^ref-14][^ref-2] Softalk counted thirty-nine separate scenarios, spanning 400 million B.C. to 4082 A.D.[^ref-20] On-Line estimated that it would take most players from six months to a year to solve,[^ref-20] and Computer Gaming World called it "easily the largest game program commercially available."[^ref-16]
+Time Zone, released in early 1982 by On-Line Systems, was one of the most ambitious adventure games yet made for a home computer.[^ref-1][^ref-16] Sources disagree on the month. Wikipedia's infobox gives February 1982, citing Steven Levy's *Hackers*, while its article text says the game did not ship until March 1982,[^ref-1] and Jimmy Maher dates its shipping to "about the beginning of March."[^ref-5] Computer Gaming World had announced it for a January 5 release at $99.95.[^ref-17] Designed by [[Roberta Williams]], this fifth entry in the Hi-Res Adventures series filled both sides of six floppy disks and, by its manual's count, held approximately 1,300 rooms with over 1,400 hi-res pictures.[^ref-14][^ref-2] Softalk counted thirty-nine separate scenarios, spanning 400 million B.C. to 4082 A.D.[^ref-20] On-Line estimated that it would take most players from six months to a year to solve,[^ref-20] and Computer Gaming World called it "easily the largest game program commercially available."[^ref-16]
 
 The game's premise centers on a player chosen by a terrestrial guardian to secure Earth's future by traveling through time and space to destroy the evil ruler of the distant planet Neburon.[^ref-4][^ref-9] Along the way, players encounter historical and legendary figures including Julius Caesar, Christopher Columbus, Robin Hood, Benjamin Franklin, Napoleon and Cleopatra.[^ref-2][^ref-8] Roberta Williams told Computer Gaming World the project took fourteen months: six months of design on her own, then eight more working with the rest of the team.[^ref-16] The manual lists ten people who worked on it.[^ref-14]
 
@@ -43,7 +43,7 @@ The manual's backstory is set in the year 4081, when Earth is a fast-paced, high
 
 In 1982, the player is out for a stroll near home and comes across a strange pulsating metal cylinder that turns out to be a time machine.[^ref-14] Roberta Williams later described the opening this way: "you're just walking through the trees outside your home, and suddenly there's a time machine."[^ref-6] In the game's opening, a terrestrial guardian, or keeper, has chosen the player to secure Earth's future by destroying the evil ruler of Neburon, and grants the ability to travel through time and space.[^ref-4][^ref-9]
 
-The player visits seven continents in nine time periods,[^ref-14] from the Prehistoric Era of 400,000,000 B.C. through 10,000 B.C., 50 B.C., 1000, 1400, 1700 and 2082 A.D., before the final assault on Neburon in 4082 A.D.[^ref-14][^ref-4] Along the way the player meets historical figures and gathers the items needed to defeat Ramadu.[^ref-2]
+The manual says the player can go to seven continents in nine periods.[^ref-14] Its zone map lists the Prehistoric Era of 400,000,000 B.C., the Stone Age of 10,000 B.C., 50 B.C., 1000, 1400, 1700 and 2082 A.D., and the final assault on Neburon in 4082 A.D., alongside a Home zone set in 1982, the year in which the manual's story opens.[^ref-14][^ref-4] Along the way the player meets historical figures and gathers the items needed to defeat Ramadu.[^ref-2]
 
 ## Gameplay
 
@@ -93,9 +93,9 @@ No unit sales figure has been found. Softalk's monthly Adventure charts track th
 
 During the industry downturn reported in the July 1982 issue, Softalk observed that "adventure fans were willing to shell out the $100 necessary for Time Zone."[^ref-21] In Softalk's poll of 1982, published in April 1983, Time Zone ranked 20th in the Top Thirty of 1982 and first in the Adventure Ten.[^ref-23]
 
-### Retrospective Assessment
+### Modern Assessment
 
-Later accounts are harsher. Maher writes that Time Zone "became a notorious, high-profile flop, the first such that On-Line had ever released," and quotes John Williams, Roberta's brother-in-law and an On-Line employee: "It frankly wasn't that good."[^ref-5][^ref-1] Wikipedia states that the game sold poorly.[^ref-1] Neither source gives a sales figure, and the Softalk charts above show it near the top of its genre for much of 1982.
+Later accounts are harsher. Maher writes that Time Zone "became a notorious, high-profile flop, the first such that On-Line had ever released," and quotes John Williams, Roberta's brother-in-law and an On-Line employee: "It frankly wasn't that good."[^ref-5][^ref-1] Wikipedia states that the game sold poorly.[^ref-1] In a follow-up post, Maher writes that Time Zone "met a fairly cool reception upon its release": it "wasn't panned in the magazines," but received "surprisingly little coverage for such a major release from such a major publisher," and sales were "also very disappointing."[^ref-30] Neither source gives a sales figure, and the Softalk charts above show it near the top of its genre for much of 1982.
 
 Blogger Jason Dyer, who finished the game in 24 hours of play, found it easy next to some contemporaries but full of red herrings. He wrote that the game asked, "what if you really could go anywhere at any time?" and tried to answer it.[^ref-6]
 
@@ -106,7 +106,7 @@ Blogger Jason Dyer, who finished the game in 24 hours of play, found it easy nex
 
 ### Origins
 
-According to Maher, Roberta Williams began planning the game in early 1981. She wanted a treasure hunt through time and space, ending on an alien planet in the far future.[^ref-5] By the time she gave Ken the complete design that summer, it had grown from an estimated five or six disk sides to twelve.[^ref-5] Most games of the period rarely took up more than one side of a floppy disk.[^ref-3][^ref-1]
+According to Maher, Roberta Williams began planning the game in early 1981. She wanted a treasure hunt through time and space, ending on an alien planet in the far future.[^ref-5] By the time she gave Ken the complete design that summer, it had grown from an estimated five or six disk sides to twelve.[^ref-5] The manual likewise says the game "was originally intended to be on five or six disks (one side only)" but now takes up both sides of six disks.[^ref-14] Most games of the period rarely took up more than one side of a floppy disk.[^ref-3][^ref-1]
 
 Taking into account the sheer quantity of locations, On-Line priced the game at $99.95. Maher writes that this was "about twice what anyone had dared to charge for even the most ambitious of computer games before," and that, adjusted for inflation, Time Zone is "still quite possibly the most expensive videogame ever released."[^ref-5]
 
@@ -146,7 +146,7 @@ The game shipped on six double-sided floppy disks, twelve disk sides in total.[^
 - **Platforms:** PC-88, PC-98, FM-7
 - **Publisher:** StarCraft, Inc.
 
-In April 1982, Roberta Williams said Atari 400/800 and IBM PC versions might follow,[^ref-16] but the only other documented versions are the 1985 Japanese ports.[^ref-2]
+In April 1982, Roberta Williams said Atari 400/800 and IBM PC versions might follow,[^ref-16] but the only other documented versions are the 1985 Japanese ports.[^ref-2] Maher writes that On-Line had announced Atari 400 and 800 ports, projected to occupy 20 disk sides, and "quietly shelved those plans" after very poor sales.[^ref-30]
 
 ### Version History
 
@@ -179,7 +179,7 @@ The IF-Legends archive says Time Zone was "probably rereleased by SierraVenture 
 
 ### Fan Projects
 
-In 1982, players on The Source online service started the "Vault of Ages," a group project to map Time Zone completely.[^ref-25] Today the game is preserved through archival copies at the Internet Archive, including WOZ disk images.[^ref-12][^ref-11] It can be played through Apple II emulation.[^ref-13]
+In 1982, players on The Source online service started the "Vault of Ages," a group project to map Time Zone completely.[^ref-25] By November 1983, Enter magazine reported, more than 1800 Time Zone fans had joined the Vault, which existed within The Source's mainframe computer. Its founder and curator, Roe Adams III, "holds the distinction of being the first person to complete the Time Zone adventure—a feat he managed just seven days after the game was introduced."[^ref-29] Today the game is preserved through archival copies at the Internet Archive, including WOZ disk images.[^ref-12][^ref-11] It can be played through Apple II emulation.[^ref-13]
 
 ### Related Publications
 
@@ -208,6 +208,9 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 
 ## See Also
 
+- [[Hi-Res Adventures Series]] — Series overview
+- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|← Previous: Ulysses and the Golden Fleece]]
+- [[1983 - Hi-Res Adventure 6 - The Dark Crystal|→ Next: The Dark Crystal]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
@@ -215,9 +218,7 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 - [[1980 - Hi-Res Football]]
 - [[1981 - Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
-- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1982 - Adventure in Serenia]]
-- [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 - [[1984 - Gelfling Adventure]]
 
 ## References
@@ -250,3 +251,5 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 [^ref-26]: [BYTE, December 1982](https://archive.org/details/byte-magazine-1982-12) – "Without a doubt, it is the longest adventure to date with more than 1400 color graphic pictures"
 [^ref-27]: [Electronic Games, January 1983 – 1983 Arcade Awards](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – Deadline Best Computer Adventure; Time Zone Certificate of Merit
 [^ref-28]: [ScummVM Wiki – ADL (Wayback Machine, 2025)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'", created by Ken Williams; lists Time Zone among the games using the engine
+[^ref-29]: [Enter, November 1983 (vol. 1 no. 2)](https://archive.org/details/enter-v1n2-1983-11) – feature on Time Zone and the Vault of Ages: more than 1800 members, Roe Adams III as founder and curator, first solver seven days after release
+[^ref-30]: [The Digital Antiquarian – Time Zone: Aftermath](https://www.filfre.net/2012/06/time-zone-aftermath/) – Jimmy Maher, 2012: "fairly cool reception," "wasn't panned in the magazines," sales "very disappointing," Atari 400/800 ports shelved
