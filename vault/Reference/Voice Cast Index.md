@@ -1,14 +1,14 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "A selection of voice actors who appeared in two or more Sierra games, indexed by performer with their sourced Sierra-catalogue credits, plus notable screen actors with a single Sierra voice role."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -64,6 +64,8 @@ Outside Sierra, Clarke is known as Leonardo in the 1987 *Teenage Mutant Ninja Tu
 
 ### Tim Curry
 
+Tim Curry (1946–2026) died on August 25, 2026.[^ref-curry]
+
 - [[1993 - Gabriel Knight - Sins of the Fathers]] — Gabriel Knight; also Gedde Butler (CD-ROM version)[^ref-moby-gk1][^ref-curry]
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]] — Gabriel Knight[^ref-curry][^ref-gk3]
 
@@ -113,7 +115,7 @@ Wikipedia names Hale's Katrina among the most notable performances in *Quest for
 
 Sierra designer and producer who also voiced characters in other designers' games.
 
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — King Graham, Innkeeper's Pal (CD-ROM version); the vault's game page also lists him as the Harpy, which IMDb does not (see the note under the single-title table)[^ref-imdb-kq5]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — King Graham, Innkeeper's Pal (CD-ROM version); MobyGames also credits him as the Harpy, which IMDb does not (see the note under the single-title table)[^ref-imdb-kq5]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — King Graham, Shamir Shamazel, Oxymoron, Druid, Guard Dog (1993 CD-ROM version)[^ref-imdb-kq6]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Monolith Burger Manager (1992 CD-ROM version)[^ref-imdb-sq4]
 - [[1987 - Mixed-Up Mother Goose]] — voice cast of the CD-ROM version (role not named in the sources)[^ref-imdb-mumg]
@@ -138,6 +140,8 @@ Outside Sierra, Moulder voiced additional characters in Her Interactive's *Nancy
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]] — Narrator[^ref-sq6]
 
 ### Jan Rabson
+
+Jan Rabson (1954–2022) died on October 13, 2022.[^ref-rabson]
 
 - [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Sam Andreas, Wheaton "Aces" Hall, Zircon Jim Laffer (1994 CD-ROM version)[^ref-btva-fpfp]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Larry Laffer (1994 CD-ROM version)[^ref-btva-lsl6]
@@ -208,7 +212,7 @@ Sierra composer and producer.
 
 The CD-ROM version of *Quest for Glory IV* was the first game in its series with voice actors.[^ref-qfg4] Zelda Williams is the daughter of actor Robin Williams.[^ref-zelda]
 
-Sources disagree on who voiced the Harpy in the *King's Quest V* CD-ROM. IMDb credits the Harpy to Roberta Williams, Barbara Eicker and Nancy Zdenek (as "Elf / Harpy"),[^ref-imdb-kq5] while the vault's [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] page lists Josh Mandel as King Graham, Innkeeper's Pal and Harpy. The two accounts are not reconciled here.
+Sources disagree on who voiced the Harpy in the *King's Quest V* CD-ROM. IMDb credits the Harpy to Roberta Williams, Barbara Eicker and Nancy Zdenek (as "Elf / Harpy"),[^ref-imdb-kq5] while MobyGames credits Josh Mandel as King Graham, Innkeeper's Pal and Harpy[^ref-moby-kq5] (see [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]); IMDb lists him as King Graham / Innkeeper's Pal only.
 
 ---
 
@@ -256,7 +260,7 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 
 ## References
 
-[^ref-curry]: [Wikipedia — Tim Curry](https://en.wikipedia.org/wiki/Tim_Curry) — "the titular character in the video games Gabriel Knight: Sins of the Fathers (1993) and Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)"
+[^ref-curry]: [Wikipedia — Tim Curry](https://en.wikipedia.org/wiki/Tim_Curry) — born 19 April 1946, died 25 August 2026; "the titular character in the video games Gabriel Knight: Sins of the Fathers (1993) and Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)"
 [^ref-lloyd]: [IGN — King's Quest: A Knight to Remember review (July 28, 2015)](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) — "The older version of Graham is wonderfully voiced by veteran actor Christopher Lloyd"
 [^ref-devine]: [Wikipedia — Loretta Devine](https://en.wikipedia.org/wiki/Loretta_Devine) — Video game: 2015, King's Quest, role "Muriel Hobblepot"
 [^ref-zelda]: [Wikipedia — Zelda Williams](https://en.wikipedia.org/wiki/Zelda_Williams) — "King's Quest - Chapter III: Once Upon A Climb", voice role "Amaya Blackstone"; "the daughter of actor Robin Williams"
@@ -302,3 +306,5 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-fpfp-ballad]: [Al Lowe — The Ballad of Freddy Pharkas](https://allowe.com/games/fpfp/the-ballad.html) — lyrics by Josh Mandel, music by Al Lowe; "Al Lowe sings real funny! So? I ended up using me."
 [^ref-ia-kq3]: [Infamous Adventures – "King's Quest III 2.0 + Voice Pack" (August 20, 2006; Wayback, September 2, 2006)](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) — "The long awaited patch and voicepack"; "Andy Hoyos' performance of about half of the Manannan files"
 [^ref-moby-kq5-win]: [MobyGames — King's Quest V credits, Windows 16-bit (Moby ID 130)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) — "Bandit Leader Stuart Moulder"
+[^ref-rabson]: [Wikipedia — Jan Rabson](https://en.wikipedia.org/wiki/Jan_Rabson) — born June 14, 1954, died October 13, 2022
+[^ref-moby-kq5]: [MobyGames — King's Quest V credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) — "King Graham, Innkeeper's Pal, Harpy: Josh Mandel"
