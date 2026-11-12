@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom (Dynamix)
 protagonist: N/A (Player-controlled contraptions)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Jan Paul Moorhead (LoudMouth Productions)]
 description: The Incredible Machine 3.0 (also referred to as The Incredible Machine
   Version 3.0) is a 1995 puzzle video game for Windows and Macintosh, developed by
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 3.0
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -113,6 +113,10 @@ Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed 
 - **Music and Sound Effects:** Christopher Stevens, Jan Paul Moorhead, Timothy Steven Clarke, Ken Rogers, Randy Dersham
 - **Voice Talent:** Bill Barrett
 
+### Technical Achievements
+
+Sierra advertised the game as one that "makes full use of Windows 95 architecture" and "offers 256 colors"[^ref-24]. The series' physics simulation uses no random number generator, so the results for any given machine are deterministic[^ref-2]. The Windows version has 19 songs, played as CD audio when the TIM3 CD-ROM is detected, with a General MIDI version of the same songs as the fallback[^ref-32].
+
 ### Voice Cast
 
 | Character/Role | Voice Actor |
@@ -129,7 +133,7 @@ Sierra's Fall 1995 product release schedule, "Valid as of July 1, 1995", listed 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| The Incredible Machine | 1992 | MS-DOS | First game in the series, released December 1, 1992 according to The Digital Antiquarian[^ref-36] and November 19, 1992 according to Sierra Chest[^ref-40]; the series page on Wikipedia gives 1993[^ref-2][^ref-13] |
+| The Incredible Machine | 1992 | MS-DOS | First game in the series, released December 1, 1992 according to The Digital Antiquarian[^ref-36] and November 19, 1992 according to Sierra Chest[^ref-40], and described by Choicest Games as "1992's The Incredible Machine"[^ref-13]; the series page on Wikipedia gives 1993[^ref-2] |
 | The Even More Incredible Machine | 1993 | MS-DOS, Windows, Macintosh | Extended version with 160 levels[^ref-2] |
 | The Incredible Machine 2 | 1994 | MS-DOS, Windows, Macintosh | New levels, parts, interface; hotseat play[^ref-2][^ref-23] |
 | The Incredible Machine Version 3.0 | 1995 | Windows, Macintosh | Same levels as TIM 2, improved interface, CD music[^ref-2][^ref-24] |
@@ -189,7 +193,7 @@ On October 1, 2009, Jeff Tunnell's PushButton Labs announced it had acquired the
 [^ref-13]: [Choicest Games – Jeff Tunnell Interview](https://www.choicestgames.com/2015/04/where-are-they-now-jeff-tunnell.html) – Tunnell's career; "1992's The Incredible Machine"; designer and producer, did not program
 [^ref-14]: [MobyGames – Jeff Tunnell Productions (Wayback Machine, January 2025)](https://web.archive.org/web/20250130044218/https://www.mobygames.com/company/1897/jeff-tunnell-productions/) – "The last titles 3-D Ultra Pinball and The Incredible Machine 3.0 were released in 1995 before Dynamix took over later that year"
 [^ref-15]: [Disney Support – TIM Mega Pack (Wayback Machine, 2023)](https://web.archive.org/web/20230529154508/https://appsupport.disney.com/hc/en-us/articles/360001041463-About-The-Incredible-Machine-Mega-Pack) – Mega Pack description and contents
-[^ref-21]: [MobyGames – The Incredible Machine 2 (aka The Incredible Machine Version 3.0)](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – Windows/Mac hybrid 3.0 release, alternate titles, description, MobyScore and player ratings (read via the MobyGames API, October 2026)
+[^ref-21]: [MobyGames – The Incredible Machine 2 (aka The Incredible Machine Version 3.0)](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – Windows/Mac hybrid 3.0 release, alternate titles, description, MobyScore and player ratings
 [^ref-22]: [MobyGames – The Incredible Machine 2 credits (Windows) (Wayback Machine, 2015)](https://web.archive.org/web/20150925120805/http://www.mobygames.com/game/windows/incredible-machine-2/credits) – Windows credits; "Developed by Dynamix, Inc."; "A Jeff Tunnell Production"
 [^ref-23]: [Wikipedia – The Incredible Machine 2](https://en.wikipedia.org/wiki/The_Incredible_Machine_2) – Version 3.0 as enhanced 1995 Windows/Mac release; TIM 2 reception
 [^ref-24]: [InterAction Magazine, Holiday 1995 (Sierra On-Line), Internet Archive](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) – p. 47 advertisement: "the definitive game in the series", Windows 95, 256 colours, same puzzles as TIM 2, TIM 2 owners' rebate, "Now Shipping!", $34.95; Shane Mooney quote
