@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-controlled NASCAR driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [George Alistair Sanger (The Fat Man)]
 description: NASCAR Racing is Papyrus Design Group's 1994 stock car racing simulation,
   described as the first true simulation-style 3D NASCAR video game, which sold over
@@ -19,15 +19,15 @@ tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 NASCAR Racing is a racing simulation developed by Papyrus Design Group and released for MS-DOS in late 1994.[^ref-1] Sources differ on the month: Wikipedia and The Cutting Room Floor give November 2, 1994,[^ref-1][^ref-17] while Next Generation reported in December 1995 that Papyrus had released it in October 1994.[^ref-29][^ref-15] Daily Downforce describes it as the first true simulation 3-D NASCAR video game.[^ref-2] As the third racing title from Papyrus, following Indianapolis 500: The Simulation and IndyCar Racing, the development team moved their focus from open-wheeled cars to closed-cockpit NASCAR stock cars.[^ref-3]
 
-The simulation offered an unusual level of realism that appealed to both hardcore racing enthusiasts and casual sports fans. As Next Generation magazine noted, "it's the game's astounding ability to create a realistic feeling of speed that makes it an incredible hit. Flying around the tracks at 170 mph and up will make you respect those drivers who do this for a living."[^ref-1] Wikipedia's series article (in an unreferenced section) calls it the first stock car racing simulator to include real sponsors on their respective cars.[^ref-4]
+The simulation offered an unusual level of realism that appealed to both hardcore racing enthusiasts and casual sports fans. As Next Generation magazine noted, "it's the game's astounding ability to create a realistic feeling of speed that makes it an incredible hit. Flying around tracks at 170 mph and up will make you respect those drivers who do this for a living."[^ref-36][^ref-1] Wikipedia's series article (in an unreferenced section) calls it the first stock car racing simulator to include real sponsors on their respective cars.[^ref-4]
 
-NASCAR Racing proved to be a commercial and critical success, selling over 1,000,000 units and winning numerous awards including PC Gamer's Best Sports Game of 1994 and Computer Gaming World's Simulation Game of the Year.[^ref-3] The game spawned a franchise that continued through NASCAR Racing 2003 Season, whose code Papyrus co-founder Dave Kaemmer and John Henry later used as the starting point for iRacing, a project they began in September 2004.[^ref-22][^ref-30][^ref-13]
+NASCAR Racing proved to be a commercial and critical success, selling over 1,000,000 units[^ref-3] and winning numerous awards, including PC Gamer's Best Sports Game of 1994[^ref-1] and, shared with Aces of the Deep, Computer Gaming World's Premier Simulations of the Year.[^ref-35] The game spawned a franchise that continued through NASCAR Racing 2003 Season, whose code Papyrus co-founder Dave Kaemmer and John Henry later used as the starting point for iRacing, a project they began in September 2004.[^ref-22][^ref-30][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
@@ -52,7 +52,7 @@ In the PlayStation version, released in 1996, the player races as a rookie in th
 
 ### Interface and Controls
 
-The game supported keyboard and mouse as well as racing/steering wheels,[^ref-3] and joysticks could be used once calibrated.[^ref-19] Pressing F10 during play switches between camera angles.[^ref-12]
+The game supported keyboard and mouse as well as racing/steering wheels,[^ref-3] and joysticks could be used once calibrated.[^ref-19] Players report that pressing F10 during play switches between camera angles.[^ref-12]
 
 The game included various driving aids to accommodate different skill levels, including auto-shifting and auto-braking, to reach a wide audience.[^ref-3] Races can be fine-tuned by setting the number of laps.[^ref-8]
 
@@ -81,13 +81,13 @@ The damage model added consequences to aggressive driving, with collisions affec
 
 NASCAR Racing received widespread critical acclaim upon release. Next Generation awarded the game 4 out of 5 stars in April 1995, praising its sense of speed and authenticity.[^ref-1] PC Gamer US editors declared it "the best racing game ever created," while Computer Gaming World editors noted that its "incredible graphics, sound and overall experience appeal to simulation enthusiasts and casual sports fans alike."[^ref-1]
 
-Computer Gaming World's February 1995 review, by Gordon Goble, rated the DOS game 5 out of 5 (the score as listed in Wikipedia's reception table).[^ref-1] The magazine's summary listed "jaw-dropping graphics in SVGA, impressive opponent AI, and ground-breaking physical modeling; in sum, the most comprehensive racing experience in gaming," against hefty hardware demands for SVGA and the lack of a victory celebration.[^ref-33]
+Computer Gaming World's February 1995 review, by Gordon Goble, rated the DOS game 5 out of 5.[^ref-37] The magazine's summary listed "jaw-dropping graphics in SVGA, impressive opponent AI, and ground-breaking physical modeling; in sum, the most comprehensive racing experience in gaming," against hefty hardware demands for SVGA and the lack of a victory celebration.[^ref-33]
 
 The PlayStation port divided reviewers. GameSpot's Jeff Kitts gave it an 8.1 out of 10, describing it as "stock car racing at its most realistic."[^ref-1] Electronic Gaming Monthly's team review scored it 6.9 out of 10 in November 1996.[^ref-1] Next Generation (issue 24, December 1996) rated it 2 out of 5, writing that it "is for the die-hard stock car racing fan who loves NASCAR so much they don't care what kind of package it comes in." The review called the backgrounds "as boring as the cars" and named the lack of a two-player mode "another big minus."[^ref-34]
 
 The game earned numerous industry accolades including:
 - **PC Gamer 1994:** Best Sports Game (winner); nominated for Best Simulation[^ref-1]
-- **Computer Gaming World 1994:** Simulation Game of the Year (tied with Aces of the Deep)[^ref-3]
+- **Computer Gaming World 1994:** Premier Simulations of the Year (shared with Aces of the Deep)[^ref-35][^ref-1]
 - **CODiE Awards 1995:** Best Sports Program[^ref-3][^ref-11]
 - **Computer Game Review:** Golden Triad Award[^ref-3]
 
@@ -189,7 +189,7 @@ A multiplayer exploit was discovered where players achieved faster lap times by 
 
 - **CD Audio Tracks:** The game CD contains playable audio tracks including "Race Riff" by Rachel Bolan and Dave "Snake" Sabo of Skid Row (Track 2) and "The Fastest Sport" by The Fat Man and Team Fat (Track 3). The README warns: "WARNING do not play track 1 in your audio player, it contains the game."[^ref-10]
 - **Driver Easter Egg:** Rachel Bolan of Skid Row appears as the driver of a green-and-purple No. 00 car in the game.[^ref-4]
-- **Camera Views:** Pressing F10 during gameplay switches between available camera angles.[^ref-12]
+- **Camera Views:** Players report that pressing F10 during gameplay switches between available camera angles.[^ref-12]
 - **High Resolution Mode:** Running the game with the command "nascar -h" enables the high-quality 640x480 SVGA mode on the CD-ROM version.[^ref-10]
 - **Daytona Museum Exclusive:** Papyrus produced a special Daytona track exclusively for the Daytona USA museum exhibit.[^ref-1]
 
@@ -212,7 +212,7 @@ At one point, NASCAR Racing 2 was ranked as the #6 selling game in the nation ac
 ### Collections
 
 NASCAR Racing appeared in several compilation packages:
-- **NASCAR Racing with Track Pack:** Bundled version sold 225,737 units in 1998[^ref-1]
+- **NASCAR Racing with Track Pack:** Bundled version sold 225,737 units in 1998, ranking as the 24th best-selling PC game in the US that year[^ref-1]
 - **Hardware Bundle:** Special Win32 version packaged with Diamond Edge 3D video card[^ref-3]
 - **Matrox Bundle:** Hardware-accelerated version included with Matrox Millennium graphics card[^ref-1]
 
@@ -237,14 +237,15 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold digitally; no NASCAR Racing (1994) listing on GOG or Steam as of 2026-11-11.
+- Not currently sold digitally; no NASCAR Racing (1994) listing on GOG or Steam as of 2026-11-12.
 
 **Download / Preservation**
 - [Internet Archive – NASCAR Racing](https://archive.org/details/msdos_NASCAR_Racing_1994)
 - [My Abandonware – NASCAR Racing](https://www.myabandonware.com/game/nascar-racing-28z)
+- [NASCAR Racing disc image (v1.21) (Internet Archive)](https://archive.org/details/NASCAR_RACING_PCDOS)
 
 **Manuals & Extras**
-- [NASCAR Racing Manual (Internet Archive)](https://archive.org/details/NASCAR_RACING_PCDOS)
+- [NASCAR Racing patches and updates (Sierra Help)](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html)
 
 ## See Also
 
@@ -265,12 +266,12 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 
 [^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster
 [^ref-2]: [Daily Downforce – 1994 NASCAR Racing: First Papyrus Game](https://dailydownforce.com/1994-nascar-racing-first-papyrus-game/) – historical significance, technical firsts, Championship season mode
-[^ref-3]: [MobyGames – NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) – credits, sales data, awards (incl. CODiE 1995), specs (media, input, multiplayer), trivia (licensing, advertisements, manual), DOS releases incl. Papyrus Publishing (read via the MobyGames API)
+[^ref-3]: [MobyGames – NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) – credits, sales data, awards (incl. CODiE 1995), specs (media, input, multiplayer), trivia (licensing, advertisements, manual), DOS releases incl. Papyrus Publishing
 [^ref-4]: [Wikipedia – NASCAR Racing (series)](https://en.wikipedia.org/wiki/NASCAR_Racing) – sponsors, car setup, tire model, Practice/Testing modes, Paintkit, easter eggs
 [^ref-5]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, development history
 [^ref-6]: [PCGamingWiki – NASCAR Racing](https://www.pcgamingwiki.com/wiki/NASCAR_Racing) – technical specifications, system requirements, engine info
 [^ref-8]: [Internet Archive – NASCAR Racing (MobyGames metadata)](https://archive.org/details/msdos_NASCAR_Racing_1994) – MobyGames description mirrored: drafting, lap count, driving aids
-[^ref-10]: [Internet Archive – NASCAR Racing PC/DOS Documentation](https://archive.org/details/NASCAR_RACING_PCDOS) – 1.2/1.21 readme: version changes, sound card setup, technical issues, music credits
+[^ref-10]: [Internet Archive – NASCAR Racing PC/DOS](https://archive.org/details/NASCAR_RACING_PCDOS) – v1.21 readme, as quoted in the item description: version changes, sound card setup, technical issues, music credits
 [^ref-11]: [Abandonware DOS – NASCAR Racing](https://www.abandonwaredos.com/abandonware-game.php?abandonware=NASCAR+Racing&gid=979) – awards listing (CODiE 1995)
 [^ref-12]: [My Abandonware – NASCAR Racing](https://www.myabandonware.com/game/nascar-racing-28z) – user reviews, version info, technical notes
 [^ref-13]: [Top Gear – Remembering Classic Games: NASCAR Racing](https://www.topgear.com/car-news/gaming/remembering-classic-games-nascar-racing-1994) – historical retrospective, "Hawaii" online service
@@ -293,3 +294,6 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 [^ref-32]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – May 28, 2004 sale of NR2003 copyrights to FIRST.net, LLC
 [^ref-33]: [Computer Gaming World, issue 127 (February 1995), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_127) – Gordon Goble's NASCAR Racing review, pp. 146-152; "The Editors Speak" pros and cons
 [^ref-34]: [Next Generation, issue 24 (December 1996), Internet Archive](https://archive.org/details/NextGeneration24Dec1996) – PlayStation NASCAR Racing review, 2 stars
+[^ref-35]: [Computer Gaming World, issue 130 (May 1995), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_130) – 1995 Premier Awards: "And the winners are: NASCAR Racing and Aces of the Deep"; "winners of the Premier Simulations of the Year"
+[^ref-36]: [Next Generation, issue 4 (April 1995), p. 92, Internet Archive](https://archive.org/details/nextgen-issue-004) – NASCAR Racing review: "Flying around tracks at 170 mph and up will make you respect those drivers who do this for a living."
+[^ref-37]: [Computer Gaming World, issue 127 (February 1995), p. 152, Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_127) – "The Editors Speak" box: NASCAR Racing, five-star rating
