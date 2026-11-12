@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Guy Whitmore]
 description: Power Chess 98 is an updated version of the original Power Chess, released
   by Sierra On-Line in November 1997 for Windows 95 and Windows 98, with a humanlike adaptive King and a commentating Queen.
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 98
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -76,7 +76,7 @@ The core mechanics revolve around standard chess rules with several educational 
 - **Classic Games:** Seven classic games narrated by the Queen, plus 50 illustrative games in the bundled text of Nimzowitsch's *My System*[^ref-11]
 - **PGN Support:** Import and export of games in Portable Game Notation format[^ref-7]
 
-Sierra's announcement listed new features for this version: a window showing what the chess engine is thinking, an option to force the computer to move sooner, and analysis of all games, including those played over the Internet[^ref-26]. GameSpot's reviewer nonetheless listed "the absence of a 'force move' command to hurry up a dawdling computer opponent" among the game's annoyances[^ref-11]. The box adds move list printing, square highlighting in 3D mode, written WChess game analysis, and resignations and draw offers from the King[^ref-3].
+Sierra's announcement listed new features for this version: a window showing what the chess engine is thinking, an option to force the computer to move sooner, and analysis of all games, including those played over the Internet[^ref-26]. GameSpot's reviewer nonetheless listed "the absence of a 'force move' command to hurry up a dawdling computer opponent" among the game's annoyances[^ref-11]. The King must always be played with the "Fischer clock", which adds time to the player's clock with each move, and clocks cannot be used in Internet play[^ref-11]. The box adds move list printing, square highlighting in 3D mode, written WChess game analysis, and resignations and draw offers from the King[^ref-3].
 
 One player's retrospective recalls that Power Chess commended players for finding good moves, which he contrasted with Chessmaster's habit of only pointing out mistakes[^ref-12].
 
@@ -84,13 +84,13 @@ One player's retrospective recalls that Power Chess commended players for findin
 
 ### Contemporary Reviews
 
-GameSpot awarded Power Chess 98 a score of 7.6 out of 10, with reviewer Stephen Poole noting that "Sierra On-Line set a lofty goal for this second edition of its Power Chess series: to create a computer opponent who plays chess like a human"[^ref-11]. The review praised the humanlike King while criticising the thin tutorials, the lack of an opening book and the small number of classic games. Poole concluded that "if Sierra can up the ante in terms of tutorials, game analysis, and openings, the next Power Chess will have the stuff to challenge Chessmaster 5500 for chess supremacy"[^ref-11].
+GameSpot awarded Power Chess 98 a score of 7.6 out of 10, with reviewer Stephen Poole noting that "Sierra On-Line set a lofty goal for this second edition of its Power Chess series: to create a computer opponent who plays chess like a human"[^ref-11]. The review praised the humanlike King while criticising the thin tutorials, the lack of an opening book and the small number of classic games, and noted that only "a handful of players" could be found on Sierra's WON (World Opponent Network) for Internet play[^ref-11]. Poole concluded that "if Sierra can up the ante in terms of tutorials, game analysis, and openings, the next Power Chess will have the stuff to challenge Chessmaster 5500 for chess supremacy"[^ref-11].
 
 Ron Dulin reviewed the original Power Chess for GameSpot, awarding 6.8 out of 10, and observed that "good chess players looking to become great will probably find Power Chess helpful," while noting that "the Queen's advice doesn't clarify much about the game beyond the opening"[^ref-13].
 
 The German publication PC Joker rated the original Power Chess the highest in a comparison of four chess programs in March 1997[^ref-2]. According to Abandonware France, French magazine Joystick gave the original Power Chess its "Mégastar" award[^ref-7].
 
-The original Power Chess won the Traditional Game of the Year award from Computer Games Strategy Plus for 1996[^ref-2][^ref-15]. Sierra's InterAction magazine reported that the same magazine had given the original four out of five stars, quoting it as saying "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"[^ref-26].
+The original Power Chess won the Traditional Game of the Year award from Computer Games Strategy Plus for 1996[^ref-2][^ref-15]. Sierra's InterAction magazine reported that the same magazine had given the original four out of five stars, quoting it as saying "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"[^ref-26]. The same article quotes Wired on the original: "This game is great. It is one of the best things to happen to on-screen chess since there was such a thing"[^ref-26]. The "Crack the King" contest's second prize was a $250 gift certificate to Inside Chess On-line[^ref-26].
 
 ### Modern Assessment
 
@@ -112,7 +112,7 @@ Power Chess 98 was one of the later revisions of Sierra's Power Chess, which was
 
 ### Chess Engine
 
-The WChess engine by David Kittinger had drawn attention at the Fifth Harvard Cup in October 1994, where it scored an undefeated 5–1 against six American grandmasters, with four wins and two draws[^ref-27]. The engine also competed in the 1995 World Computer Championship against IBM's Deep Blue[^ref-2].
+The WChess engine by David Kittinger had drawn attention at the Fifth Harvard Cup in October 1994, where it scored an undefeated 5–1 against six US-based grandmasters, with four wins and two draws[^ref-27]. The engine also competed in the 1995 World Computer Championship against IBM's Deep Blue[^ref-2].
 
 ### Production
 
@@ -123,8 +123,16 @@ Power Chess 98 shipped on two CDs[^ref-26]. GameSpot reported Sierra's claim tha
 - **Lead Software Engineer:** Roger Kramer
 - **Chess Authority:** Eric Tangborn (International Master)
 - **Producer:** Stephen H. Van Horn
+- **Associate Producer:** Robert L. Jerauld
+- **Programmed by:** Roger Kramer, Giles Varner, Eric Tangborn
+- **Writer and Editor:** Steven Bryan Bieler
+- **Art and Graphics Design:** Shawn Kerr, Ron Spears, Jim Hicks
+- **Sound & Synchronization:** Dennis Ham, Mike Caviezel
+- **Quality Assurance:** Gary Stevens, Cade Myers
 - **Composer:** Guy Whitmore
 - **Chess Engine:** David Kittinger (WChess)[^ref-8]
+
+Voice recording took place at Clatter and Din Studios in Seattle[^ref-1].
 
 ### Voice Cast
 
@@ -138,7 +146,7 @@ Natacha LaFerrière provided voice work for the Queen character in both English 
 
 Wikipedia notes that the program would adjust its level from game to game to try to match the player's, presaging the "Friend Mode" of ChessBase's Fritz[^ref-2]. GameSpot likewise reported that the King adjusts his play to the player's level, and that Sierra claimed his "mood" changes throughout the course of a match[^ref-11]. The Queen's post-game analysis is spoken aloud, with squares highlighted and pieces moved on the board to illustrate her comments[^ref-3].
 
-The game's front end used WinG, the graphics API of the Windows 3.1x era, for display, while using DirectSound for audio[^ref-7].
+Abandonware France describes the original Power Chess front end as using WinG, the graphics API of the Windows 3.1x era, for display and DirectSound for audio[^ref-7].
 
 ### Technical Specifications
 
