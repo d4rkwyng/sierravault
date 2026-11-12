@@ -3,16 +3,17 @@ title: "Sierra Creative Interpreter (SCI)"
 type: technology
 developer: "Sierra On-Line"
 years_active: "1988-1996"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
+description: "The Sierra Creative Interpreter (SCI) was the bytecode game engine Sierra On-Line used for its adventure games from 1988 to 1996, carrying them from EGA text parsers to VGA point-and-click and CD-ROM speech."
 ---
 
 # Sierra Creative Interpreter (SCI)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Sierra Creative Interpreter (SCI) was Sierra On-Line's game engine for its adventure games from 1988 through 1996. Ken Williams has called SCI "99% Jeff Stephenson's invention," adding that it "had a fairly large team at Sierra to work on it," among them Larry Scott and [[Bob Heitman]].[^ref-23] Wikipedia's infobox lists [[Jeff Stephenson]] and Robert Heitman as its authors.[^ref-1] SCI debuted in September 1988 with *King's Quest IV* and replaced the [[Adventure Game Interpreter|AGI]]; its final interpreter, version 3.000.000, dates from November 1996.[^ref-1] Over its life SCI moved Sierra's games from 16-color EGA to 256-color VGA and 640×480 SVGA, from the text parser to point-and-click icons, and from floppy disks to CD-ROM speech and full-motion video.[^ref-1][^ref-2]
+The Sierra Creative Interpreter (SCI) was Sierra On-Line's game engine for its adventure games from 1988 through 1996. Ken Williams has called SCI "99% Jeff Stephenson's invention," adding that it "had a fairly large team at Sierra to work on it," among them Larry Scott and [[Bob Heitman]].[^ref-23] Wikipedia's infobox lists [[Jeff Stephenson]] and Robert Heitman as its authors.[^ref-1] SCI was initially called LSCI, for Large-model Script Code Interpreter.[^ref-1] SCI debuted in September 1988 with *King's Quest IV* and replaced the [[Adventure Game Interpreter|AGI]]; its final interpreter, version 3.000.000, dates from November 1996.[^ref-1] Over its life SCI moved Sierra's games from 16-color EGA to 256-color VGA and 640×480 SVGA, from the text parser to point-and-click icons, and from floppy disks to CD-ROM speech and full-motion video.[^ref-1][^ref-2]
 
 SCI evolved through several major versions. It powered nearly every major Sierra adventure franchise during those years, including King's Quest, Space Quest, Quest for Glory, Police Quest, Gabriel Knight, and Leisure Suit Larry.[^ref-1]
 
@@ -78,7 +79,7 @@ Sierra's "first foray into CD-ROM" was the [[1990 - Mixed-Up Mother Goose (SCI R
 
 ### Notable SCI1 Games
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — SCI1's VGA debut; Quest for Glory II used an earlier, EGA-only SCI1 build (interpreter 1.000.041)[^ref-1][^ref-2]
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — SCI1 floppy, SCI1.1 CD version[^ref-2]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1991 - Police Quest III - The Kindred]]
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood]]
@@ -116,7 +117,7 @@ SCI1.1 powered several of Sierra's most acclaimed games:
 - [[1993 - Space Quest V - The Next Mutation]]
 - [[1993 - Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] (original low-resolution release)[^ref-2]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] (original low-resolution release; the hi-res CD versions are SCI2.1, interpreter 2.100.002)[^ref-2]
 
 ## SCI2 (1993)
 
@@ -131,7 +132,7 @@ SCI2 (1993) brought 640×480 SVGA graphics in 256 colors and moved the interpret
 
 ### Notable SCI2 Games
 - [[1993 - Gabriel Knight - Sins of the Fathers]] — SCI2 2.000.000, November 1993 (only its demo is SCI1.1)[^ref-2]
-- [[1993 - Police Quest - Open Season]] — November 1993[^ref-2]
+- [[1993 - Police Quest - Open Season]] — November 1993; the CD and Windows CD versions are SCI2.1 (interpreter 2.100.002)[^ref-2]
 - [[1993 - Quest for Glory IV - Shadows of Darkness]] — Floppy release, interpreter 2.000.000, December 1993 (only its demo is SCI1.1); the later CD and Windows CD versions are listed as SCI2.1 (2.100.002)[^ref-2]
 
 ## SCI2.1 (1994–1996)
@@ -178,13 +179,13 @@ SCI supported "a variety of sound hardware, including AdLib, Sound Blaster, and 
 
 | Device | Type |
 |--------|------|
-| Roland MT-32 / LAPC-I | MIDI synthesizer |
-| AdLib | FM synthesis card |
-| Sound Blaster family | Sound card |
-| Game Blaster | Sound card |
-| General MIDI | MIDI standard (later games) |
-| Tandy 3-voice | Built-in audio |
+| Roland MT-32 / LAPC-I | MIDI synthesizer[^ref-22][^ref-3] |
+| AdLib | FM synthesis card[^ref-22][^ref-3] |
+| Sound Blaster family | Sound card[^ref-1] |
+| Game Blaster | Sound card[^ref-3] |
 | PC Speaker | Internal speaker |
+| General MIDI | MIDI standard (later games) |
+| Tandy 3-voice | Built-in audio (three channels)[^ref-28] |
 
 ## Technical Achievements
 
@@ -210,7 +211,7 @@ SCI's last interpreter shipped in 1996.[^ref-1] Sierra's later adventures moved 
 
 ### Preservation
 SCI games are preserved through multiple methods:
-- **ScummVM** — Supports SCI0 through SCI3; the FreeSCI code was merged into ScummVM in 2009, and ScummVM 2.0 (2017) added "almost all of the 32-bit Sierra adventures".[^ref-13][^ref-14][^ref-10]
+- **ScummVM** — Supports SCI0 through SCI3; the FreeSCI code was merged into ScummVM in 2009, ScummVM's SCI support was first released in version 1.2.0 (October 15, 2010),[^ref-27] and ScummVM 2.0 (2017) added "almost all of the 32-bit Sierra adventures".[^ref-13][^ref-14][^ref-10]
 - **FreeSCI** — The earlier open-source interpreter, merged into ScummVM in 2009.[^ref-1][^ref-13]
 - **DOSBox** — DOS emulation for running the original interpreters.
 
@@ -269,5 +270,7 @@ SCI Companion, described on GitHub as "an editor for Sierra SCI games," is hoste
 [^ref-22]: [ScummVM Documentation — Understanding the audio settings](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) — "ScummVM can emulate the MT-32 device, however you must provide the original MT-32 ROMs"
 [^ref-23]: [AGI Wiki - Adventure Game Interpreter (Wayback, July 2025)](https://web.archive.org/web/20250702012015/http://agiwiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) — Ken Williams: "SCI was 99% Jeff Stephenson's invention, but had a fairly large team at Sierra to work on it. Some of the names that come to mind are: Larry Scott, Bob Heitman"
 [^ref-24]: [Benshoof.org — Sierra Creative Interpreter: Scripts (July 4, 2023)](https://www.benshoof.org/blog/sci-scripts) — Sierra wrote games in "their proprietary language (also called Script)" compiled "to SCI bytecode"; Stephenson "wrote the language, the compiler, and the bytecode interpreter"; "The real inspiration for SCI Script is Smalltalk"
-[^ref-25]: [GitHub — icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) — Not archived; last commit April 28, 2021 ("Fix: random pen patterns can corrupt pics"); no releases (read via the GitHub API, 2026-11-11)
+[^ref-25]: [GitHub — icefallgames/SCICompanion](https://github.com/icefallgames/SCICompanion) — Not archived; last commit April 28, 2021 ("Fix: random pen patterns can corrupt pics"); no releases
 [^ref-26]: [ScummVM News — ScummVM 2026.4.0 "Never-slop" (October 11, 2026)](https://www.scummvm.org/news/20261011/) — Release announcement for ScummVM 2026.4.0 (the scummvm.org downloads page also lists 2026.4.0)
+[^ref-27]: [ScummVM — NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) — 1.2.0 "FaSCInating release" (2010-10-15), "New Games (Sierra SCI0 - SCI1.1)"
+[^ref-28]: [ScummVM Wiki — SCI0 Sound Resource Format](https://wiki.scummvm.org/index.php?title=SCI/Specifications/Sound/SCI0_Resource_Format) — "Another is the Tandy speaker with 3 channels"
