@@ -10,14 +10,13 @@ series: King's Quest
 engine: 3Space (modified)
 protagonist: Connor
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: 'King''s Quest: Mask of Eternity represents a dramatic departure for
-  Sierra''s flagship adventure series, marking the first time in the franchise''s...'
+last_updated: '2026-11-11'
+description: 'King''s Quest: Mask of Eternity (1998) is a 3D action-adventure from Sierra Studios in which Connor, a tanner from Daventry, travels through seven worlds to recover the pieces of a shattered mask, the first King''s Quest not to star a member of the royal family.'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -40,13 +39,13 @@ Its commercial performance is disputed: Roberta Williams claimed in 1999 that it
 
 ## Story Summary
 
-The game opens in a time long ago when magic and myth are embodied in every living creature roaming the world—unicorns graze in forest meadows, wizards concoct mystical spells, and kings and queens manage thriving kingdoms.[^ref-11] In the Realm of the Sun, the sacred Mask of Eternity—a divine artifact representing the all-powerful being, the creator—watches over existence. Designer Roberta Williams explained that "the mask stands for the all-powerful being, the creator. The mask is sun-like and, in many religions, the sun represents God."[^ref-12] The mask serves as a symbol of spirituality and divine order across the ages.[^ref-12]
+The game opens in a time long ago when magic and myth are embodied in every living creature roaming the world—unicorns graze in forest meadows, wizards concoct mystical spells, and kings and queens manage thriving kingdoms.[^ref-11] In the Realm of the Sun, the sacred Mask of Eternity—a divine artifact representing the all-powerful being, the creator—watches over existence. In a Sierra Studios interview conducted by Eric Twelker, Williams explained: "The mask stands for the all-powerful being, the creator. The mask is sun-like and, in many religions, the sun represents God."[^ref-48] She named the game's main themes as "truth, light and order."[^ref-48]
 
-The villain Lucreto, whose character and backstory are inspired by the story of Lucifer,[^ref-1] shatters the Mask of Eternity into five fragments that fall to the lands below, while a foul tempest turns the citizens of Daventry to stone.[^ref-13] Connor, a humble peasant from Daventry, survives the magical tempest by picking up a piece of the shattered Mask, becoming the unlikely champion chosen to restore order.[^ref-14] Unlike previous King's Quest protagonists who were members of the royal family, Connor represents a deliberate shift—Williams stated that she had "done just about as much as I could with the Royal Family" and wanted a character who was "less Disney-ish and more cerebral."[^ref-3]
+The villain Lucreto, whose character and backstory are inspired by the story of Lucifer,[^ref-1] shatters the Mask of Eternity into five fragments that fall to the lands below, while a foul tempest turns the citizens of Daventry to stone.[^ref-13] Connor, a tanner from Daventry, survives the magical tempest by picking up a piece of the shattered Mask, becoming the unlikely champion chosen to restore order.[^ref-13][^ref-14][^ref-1] Unlike previous King's Quest protagonists who were members of the royal family, Connor represents a deliberate shift—Williams stated that she had "done just about as much as I could with the Royal Family" and wanted a character who was "less Disney-ish and more cerebral."[^ref-3]
 
 Connor's quest takes him through seven exotic worlds in search of the scattered Mask pieces.[^ref-7] His journey begins in his cursed homeland of Daventry, where familiar green grass and dirt paths from traditional King's Quest games are present but shrouded in darkness and populated by monsters.[^ref-15] From there, he must traverse the Dimension of Death (producer Mark Seibert recalled that "Roberta's point of view was that the Dimension of Death was not the under world (KQ6). It was a unique and different place."[^ref-8]), the Swamp, the Underground Realm of the Gnomes, the Barren Region, the Frozen Reaches, and finally the Realm of the Sun where the Mask must be restored.[^ref-16]
 
-The narrative carries spiritual and religious undertones throughout. Williams described the game as being "about spirituality: what it means now and through the ages and where people have searched for it."[^ref-12] King Graham has only a small cameo:[^ref-13] he watches the cataclysm through the Magic Mirror in the opening, is turned to stone with the rest of Castle Daventry, and is restored at the end, watching Connor through the mirror.[^ref-1] Portraits of him and Queen Valanice from King's Quest VI hang in Castle Daventry.[^ref-17]
+The narrative carries spiritual and religious undertones throughout. In the same interview Williams said that "Mask of Eternity is about spirituality" and about where people have searched for it, now and through the ages.[^ref-48] King Graham has only a small cameo:[^ref-13] he watches the cataclysm through the Magic Mirror in the opening, is turned to stone with the rest of Castle Daventry, and is restored at the end, watching Connor through the mirror.[^ref-1] Portraits of him and Queen Valanice from King's Quest VI hang in Castle Daventry.[^ref-17]
 
 ## Gameplay
 
@@ -141,10 +140,38 @@ Fan histories relayed on the AGD Interactive forums describe an earlier design i
 **Development Credits:**[^ref-1][^ref-29]
 - **Design/Writing:** [[Roberta Williams]]
 - **Designer/Producer:** Mark Seibert
+- **Art Director:** Jason Piel
+- **Programming:** Scott Bodenbender, Alan B. Clark, Jim Edwards, John McKinnie, Jeff Orkin, Jeff Pobst, Adam Szofran, David Wenger
 - **Composers:** Ben Houge, Kevin Manthei, Mark Seibert
 - **Graphics / 3D Programming:** Marc Vulcano[^ref-35] (described by Gamia as an animator; later at Heavy Iron Studios[^ref-8])
 
 The development was further complicated by Sierra's sale to CUC International in 1996. Davidson & Associates, one of CUC's subsidiaries, created an alternate version of the game without combat or violence that was later cancelled.[^ref-18] Williams came to feel she had lost control of the game during that period and even thought about removing her name from the product.[^ref-18] A fan account on the RPG Codex forums puts the cost at $3 million over three years; no official figure has been published.[^ref-12]
+
+### Voice Cast
+
+The game features full voice acting with lip-synced characters.[^ref-36] MobyGames credits voice recording to Hollywood Recording Services, with Mark Howlett as lead voice recording engineer, and lists the following cast.
+
+**Principal Cast:**[^ref-35]
+
+| Actor | Characters |
+|-------|------------|
+| S. Scott Bullock | Connor, King Mudge |
+| Jennifer Darling | Lady of the Lake, Swamp Wisp, Unicorn, Ugly Beast |
+| Bill Farmer | King Gryph, Weirdling Tradesman |
+| Ben Houge | Ferryman, Skeleton #1 |
+| Nick Jameson | Daventry Official, Sage Gnome |
+| Mary Kay Bergman | Apothecary Gnome, Swamp Witch |
+| Kevin Michael Richardson | Lord Azriel (credited as "Lord Azrie"), Lucreto, Prophet Tree |
+| Darren Norris | Ice Lord, King Graham, Weapon Seller Gnome |
+| Jan Rabson | Crystal Mystic, Henchman |
+| Neil Ross | Archon, Spirit Knight, Wizard |
+| Philece Sampler | Queen Freesa, Swamp Wisp |
+| Kirsten Seibert | Gwennie |
+| Richard Steven Horvitz | Ice Orc Foot Soldier, Skeleton #2, Swamp Wisp |
+| Tasia Valenza | Sara, Sylph |
+| James Kevin Ward | Armor Seller Gnome, Hillman, Unseen Voice |
+
+In Daventry, the Wizard (Neil Ross) calls Connor over with "Come closer lad."[^ref-42]
 
 ### Technical Achievements
 
@@ -233,30 +260,6 @@ The speedrunning community has documented extensive workarounds, though guide au
 - Marc Vulcano, who worked as an animator on the game, later joined Heavy Iron Studios[^ref-8]
 - The game's soundtrack inspired a 12-minute orchestral composition called "Daventry Suite" by Professor Donald M. Wilson of Bowling Green State University, written as "a musical tribute to composers Kevin Manthei, Ben Houge, and Mark Seibert for their excellent soundtrack, which is what initially attracted me to the game itself and drew me into playing it."[^ref-41]
 
-## Voice Cast
-
-The game features full voice acting with lip-synced characters.[^ref-36] MobyGames credits voice recording to Hollywood Recording Services, with Mark Howlett as lead voice recording engineer, and lists the following cast:[^ref-35]
-
-| Voice Actor | Role(s) |
-|-------------|---------|
-| S. Scott Bullock | Connor, King Mudge |
-| Jennifer Darling | Lady of the Lake, Swamp Wisp, Unicorn, Ugly Beast |
-| Bill Farmer | King Gryph, Weirdling Tradesman |
-| Ben Houge | Ferryman, Skeleton #1 |
-| Nick Jameson | Daventry Official, Sage Gnome |
-| Mary Kay Bergman | Apothecary Gnome, Swamp Witch |
-| Kevin Michael Richardson | Lord Azriel (credited as "Lord Azrie"), Lucreto, Prophet Tree |
-| Darren Norris | Ice Lord, King Graham, Weapon Seller Gnome |
-| Jan Rabson | Crystal Mystic, Henchman |
-| Neil Ross | Archon, Spirit Knight, Wizard |
-| Philece Sampler | Queen Freesa, Swamp Wisp |
-| Kirsten Seibert | Gwennie |
-| Richard Steven Horvitz | Ice Orc Foot Soldier, Skeleton #2, Swamp Wisp |
-| Tasia Valenza | Sara, Sylph |
-| James Kevin Ward | Armor Seller Gnome, Hillman, Unseen Voice |
-
-In Daventry, the Wizard (Neil Ross) calls Connor over with "Come closer lad."[^ref-42]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -301,12 +304,17 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/MASKDEMO)
 
+**Manuals & Extras**
+- [Internet Archive – Manual (scan)](https://archive.org/details/Kings_Quest_8_Mask_of_Eternity_-_Manual)
+- [The Sierra Help Pages – King's Quest: Mask of Eternity Help](https://sierrahelp.com/Games/KingsQuest/KQMoEHelp.html)
+
 **Technical Support**
 - [PCGamingWiki – Compatibility Fixes](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity)
 - [Speedrun.com – Technical Setup Guide](https://www.speedrun.com/kings_quest_mask_of_eternity/guides/ok53a)
 
 ## See Also
 
+- [[King's Quest Series]]
 - [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
 - [[1986 - King's Quest III - To Heir Is Human]]
@@ -330,7 +338,7 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-9]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) – Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"; Williams: "Dynamix uses ThreeSpace for their flight simulators"
 [^ref-10]: [PCGamingWiki – King's Quest: Mask of Eternity](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity) – technical specifications, API support
 [^ref-11]: [Internet Archive – MASK Demo](https://archive.org/details/MASKDEMO) – official marketing description
-[^ref-12]: [RPG Codex Forum – KQ8 in Retrospect](https://rpgcodex.net/forums/threads/kings-quest-8-mask-of-eternity-in-retrospect.104115/) – Roberta Williams quotes on spirituality themes, development costs
+[^ref-12]: [RPG Codex Forum – KQ8 in Retrospect](https://rpgcodex.net/forums/threads/kings-quest-8-mask-of-eternity-in-retrospect.104115/) – forum posts relaying a fan account of development: spin-off naming, Connor Mac Lyrr, combat, cost
 [^ref-13]: [Sierra Chest – KQ8 Entry](https://www.sierrachest.com/index.php?a=games&id=8&fld=general) – Mask shatters in five fragments, Graham's small cameo, development problems, combat addition
 [^ref-14]: [StrategyWiki – King's Quest: Mask of Eternity](https://strategywiki.org/wiki/King's_Quest:_Mask_of_Eternity) – plot summary
 [^ref-15]: [The Spoiler – KQ8 Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/king.quest.8.1/) – gameplay description, interface analysis
@@ -366,3 +374,4 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-45]: [Speedrun.com – Leaderboards](https://www.speedrun.com/kings_quest_mask_of_eternity) – Any% leaderboard (Major Glitches): Single-Segment record 33:46 by Shawluck (2023-01-26); Multi-Segment 29:54 by bulbipop (2017-01-11), checked October 2026
 [^ref-46]: [Game Informer – New King's Quest Feature](https://www.gameinformer.com/b/features/archive/2015/07/28/passing-the-hat-an-in-depth-look-at-the-new-kings-quest.aspx) – Matt Korba quote on Connor
 [^ref-47]: [GameFAQs – Forum Discussion](https://gamefaqs.gamespot.com/boards/88800-kings-quest-mask-of-eternity/79133073) – music appreciation
+[^ref-48]: [Sierra Studios – "The Woman Behind the Mask: A Q&A with pioneer game designer Roberta Williams" (conducted by Eric Twelker), Internet Archive](https://web.archive.org/web/20010923101431/http://www.sierrastudios.com/games/mask/interview.html) – Williams on the game's spirituality theme and what the mask represents; the page notes an edited version ran in the Summer 1998 issue of Interaction Magazine
