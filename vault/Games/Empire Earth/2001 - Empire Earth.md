@@ -10,7 +10,7 @@ series: Empire Earth
 engine: Titan
 protagonist: Player-controlled Civilization
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Empire Earth is a 2001 real-time strategy game by Stainless Steel Studios that
   spans 500,000 years of human history across fourteen epochs, from the Prehistoric
   Age to a speculative Nano Age.
@@ -18,7 +18,7 @@ tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The game represented Stainless Steel Studios' debut title and their ambitious go
 Empire Earth achieved significant commercial success, selling over one million copies worldwide by May 2002[^ref-7]. The game won GameSpy's 2001 PC Game of the Year award[^ref-7][^ref-47] and spawned a franchise that would continue with an expansion pack and sequels[^ref-1].
 
 > [!info]- Game Info
-> **Developer:** Stainless Steel Studios[^ref-1]
+> **Developer:** [[Stainless Steel Studios]][^ref-1]
 > **Designer:** Rick Goodman, Jon Alenson[^ref-2]
 > **Publisher:** Sierra Entertainment[^ref-1]
 > **Engine:** Titan[^ref-9]
@@ -63,29 +63,29 @@ The core gameplay loop requires players to collect resources to construct buildi
 
 **The Fourteen Epochs:**
 - **Prehistoric Age (500,000–50,000 BC):** The discovery of fire and primitive tools[^ref-3]
-- **Stone Age:** Early human settlements and hunting
-- **Copper Age:** First metalworking and organized warfare
-- **Bronze Age:** Advanced civilizations and chariots
-- **Dark Age:** Fall of empires and feudal beginnings
-- **Middle Ages:** Castles, knights, and siege warfare
-- **Renaissance:** Gunpowder revolution and exploration
-- **Imperial Age:** Colonial expansion and naval dominance
-- **Industrial Age:** Mechanized warfare and railroads
-- **Atomic Age - World War I:** Trench warfare and early aircraft
-- **Atomic Age - World War II:** Tanks, bombers, and naval carriers
-- **Atomic Age - Modern:** Cold War technology and jet aircraft
-- **Digital Age:** Computer-guided weapons and stealth technology
+- **Stone Age (50,000–5,000 BC):** Hafted spears and early religious practices such as ritual burial[^ref-3]
+- **Copper Age (5,000–2,000 BC):** Copper tools and weapons, including copper-headed maces[^ref-3]
+- **Bronze Age (2,000 BC–0 AD):** Bronze swords, the phalanx and early siege equipment[^ref-3]
+- **Dark Age (0–900 AD):** The fall of the Roman Empire and the rise of the Byzantine Empire[^ref-3]
+- **Middle Ages (900–1300 AD):** Feudal castles, mounted knights, longbows and trebuchets[^ref-3]
+- **Renaissance (1300–1500 AD):** The printing press and the spread of gunpowder artillery and firearms[^ref-3]
+- **Imperial Age (1500–1700 AD):** Ships able to circumnavigate the Earth, muzzle-loading cannons and the flintlock musket[^ref-3]
+- **Industrial Age (1700–1900 AD):** Steam power, mass production and rifled, breech-loading guns[^ref-3]
+- **Atomic Age (1900–2000 AD) – World War I:** Trench warfare, U-boats and the debut of the airplane[^ref-3]
+- **Atomic Age (1900–2000 AD) – World War II:** Tanks, bombers, battleships and aircraft carriers[^ref-3]
+- **Atomic Age (1900–2000 AD) – Modern:** Cold War conflicts, helicopters and high-tech weapons built on microcomputers[^ref-3]
+- **Digital Age (2000–2100 AD):** Microchips and the Internet, with energy weapons powered by fusion batteries[^ref-3]
 - **Nano Age (2100–2200 AD):** Futuristic robots called "cybers" and advanced weaponry[^ref-3][^ref-4][^ref-13]
 
 ### Game Mechanics
 
-The game employs a rock-paper-scissors combat system where each unit type has specific strengths and weaknesses[^ref-17]. Sword units defeat archers, spearmen defeat swordsmen, and archers defeat spearmen, requiring players to maintain balanced armies.
+The game employs a rock-paper-scissors combat system where each unit type has specific strengths and weaknesses[^ref-17]. Sword units defeat archers, spearmen defeat swordsmen, and archers defeat spearmen, requiring players to maintain balanced armies[^ref-17].
 
 The **Hero System** offers two kinds of heroes: Strategist heroes heal nearby units and can demoralize enemies, while Warrior heroes give morale to the troops they lead and have greater attack power[^ref-10][^ref-3].
 
 The **Morale System** makes units tougher and harder to kill. Town Centres and Capitals give morale to nearby units, each House built within their area of effect raises it up to a maximum, and Warrior Heroes add morale to the troops they lead[^ref-3].
 
-**Prophets** represent a unique unit type capable of casting devastating "Calamities" including Malaria, Fire Storm, Earthquake, Volcano, Plague, and Hurricane[^ref-3][^ref-19]. These supernatural disasters can devastate enemy forces and structures, though areas protected by Temples are immune to such attacks.
+**Prophets** represent a unique unit type capable of casting devastating "Calamities" including Malaria, Fire Storm, Earthquake, Volcano, Plague, and Hurricane[^ref-3][^ref-19]. These supernatural disasters can devastate enemy forces and structures, though Prophets cannot invoke calamities in the vicinity of a Temple[^ref-3].
 
 Each of the 21 predefined civilizations has its own bonuses and a specific set of epochs in which it is more powerful[^ref-15]. The **Civilization Builder** lets players create a civilization from 100 different attributes[^ref-3]. In custom-civ games players spend 100 points on these bonuses, and each further purchase in the same area costs more[^ref-50].
 
@@ -95,9 +95,9 @@ Each of the 21 predefined civilizations has its own bonuses and a specific set o
 
 Empire Earth received generally positive reviews upon release, with critics praising its ambitious scope while noting some technical shortcomings. **GameSpy** awarded the game a score of **94/100**[^ref-20] and later named it its 2001 PC Game of the Year[^ref-47]. Its review said "What impresses us the most is the sheer size of it -- each epoch feels fleshed out and playable, and every era has its own nuances, so it's almost like getting 14 games in one"[^ref-20].
 
-**IGN** gave Empire Earth an **8.5/10** with an Editor's Choice award, stating it was "ambitious, addictive and more than just a 3D Age of Empires II clone"[^ref-6]. Reviewer Steve Butts observed that "the game lives up to its own ambitions" while acknowledging it "sometimes paints with a very broad brush."
+**IGN** gave Empire Earth an **8.5/10** with an Editor's Choice award, stating it was "ambitious, addictive and more than just a 3D Age of Empires II clone"[^ref-6]. Reviewer Steve Butts observed that "the game lives up to its own ambitions" while acknowledging it "sometimes paints with a very broad brush."[^ref-6]
 
-**GameSpot** provided a more measured assessment with a **7.9/10**, with Greg Kasavin noting that "Empire Earth is massive—more than most real-time strategy games would dare to be" but warning that "you can actually have too much of a good thing"[^ref-4]. The review emphasized that "Empire Earth has by far the broadest scope and the greatest breadth of content of any real-time strategy game to date."
+**GameSpot** provided a more measured assessment with a **7.9/10**, with Greg Kasavin noting that "Empire Earth is massive—more than most real-time strategy games would dare to be" but warning that "you can actually have too much of a good thing"[^ref-4]. The review emphasized that "Empire Earth has by far the broadest scope and the greatest breadth of content of any real-time strategy game to date."[^ref-4]
 
 **Game Informer** offered a lower score of **6.25/10**, with reviewer Kristian criticizing that "the game's performance couldn't equal its scope"[^ref-22]. A second opinion from Kato in the same publication gave the game a **7/10**[^ref-22].
 
@@ -105,14 +105,14 @@ Empire Earth received generally positive reviews upon release, with critics prai
 
 ### Modern Assessment
 
-The game holds a **Metacritic score of 81/100** based on 23 critic reviews, with a user score of **8.3/10** from 215 ratings[^ref-20].
+The game holds a **Metacritic score of 81/100** based on 23 critic reviews, with a user score of **8.3/10** from 216 ratings (as of November 2026)[^ref-20].
 
 **Aggregate Scores:**
 - **Metacritic:** 81/100 (23 reviews)[^ref-20]
 - **GameRankings:** 82%[^ref-2]
 - **MobyGames Critics:** 83%[^ref-1]
-- **IMDb:** 7.9/10 (389 ratings)[^ref-23]
-- **GOG.com Users:** 4.4/5 (1,438 reviews)[^ref-24]
+- **IMDb:** 7.9/10 (390 ratings, as of November 2026)[^ref-23]
+- **GOG.com Users:** 4.4/5 (1,451 reviews, as of November 2026)[^ref-24]
 
 Hardcore Gaming 101's retrospective, drawing on IGN's December 2000 interview with Goodman and Stefan Arnold[^ref-53] (which it misdates to 2010), says "the goal from the start was to combine the best of RTS gameplay (...) with that of empire-building", though it finds the visuals "have not aged well at all"[^ref-9]. One GOG.com user review states "I swear this thing has me more addicted than WoW"[^ref-24].
 
@@ -188,7 +188,7 @@ A **Global Ranking System** was originally planned and even described on the box
 | GOG v1 (game v2.0.0) | November 29, 2018 | Windows | GOG internal update: improved compatibility with newer systems[^ref-30][^ref-31] |
 | GOG v2 | November 27, 2024 (release notes dated November 28) | Windows | Updated GOG DirectX wrapper, fixed launch crashes, verified Windows 10 and 11 compatibility[^ref-30][^ref-31] |
 | GOG v3 | December 11, 2024 | Windows | Fixed multiplayer lobby[^ref-30][^ref-31] |
-| Steam Release | May 26, 2026 | Windows | Gold Edition, published by Rebellion[^ref-29][^ref-48] |
+| Steam Release | May 26, 2026 | Windows | Gold Edition, published by Rebellion; includes The Art of Conquest[^ref-29][^ref-48][^ref-55] |
 
 ### Technical Issues
 
@@ -247,9 +247,17 @@ Empire Earth was released in several compilation editions:
 
 **Empire Earth III** (November 6, 2007) received a Metacritic score of 50 ("Mixed or Average") from 40 critic reviews, none of them positive[^ref-39]. Lead designer Matthew Nordhaus admitted in a 2007 GameSpot feature that the game had "very little, if anything, from the original" Empire Earth[^ref-40]. German publication GameStar included it in their "10 Most Terrible Sequels" list[^ref-40].
 
+### Steam Relaunch (2026)
+
+Empire Earth Gold Edition returned to sale on Steam in late May 2026. PC Games Hardware reported on May 27, 2026 that the Gold Edition, which includes The Art of Conquest, was available on Steam from that day for 6 euros[^ref-55]. GamingOnLinux, also on May 27, 2026, noted that none of the Steam releases appeared to have been updated, that official online support had ended, and that community patches (empireearth.eu for the first game) could restore online play; it listed Empire Earth as "Playable" on Steam Deck[^ref-56].
+
+### Mobile Version
+
+On October 14, 2005, WonderPhone announced a Java mobile game titled Empire Earth, the seventh Vivendi Universal Games mobile title it distributed. It offered 10 campaign levels, four ages (Stone, Middle, Modern and Nano), four resources (wood, iron, petroleum and plutonium) and 13 unit types. The announcement cited more than 2 million units of the PC game sold[^ref-57].
+
 ### Fan Projects
 
-Following the shutdown of official multiplayer servers on November 3, 2008[^ref-2], the fan community established **NeoEE** (neoee.net), which provides replacement multiplayer servers allowing players to continue enjoying online matches[^ref-41]. The NeoEE project supports Windows 7 through Windows 11 and offers multilingual patches.
+Following the shutdown of official multiplayer servers on November 3, 2008[^ref-2], the fan community established **NeoEE** (neoee.net), which provides replacement multiplayer servers allowing players to continue enjoying online matches[^ref-41]. The NeoEE project supports Windows 7 through Windows 11 and offers multilingual patches[^ref-41].
 
 Community modders have created the "Refinement Patch" which combines multiple popular mods into a single package[^ref-42].
 
@@ -302,10 +310,10 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-15]: [Empire Earth Fandom Wiki – Civilization](https://empireearth.fandom.com/wiki/Civilization) – civilization mechanics, bonuses
 [^ref-17]: [GameFAQs – Empire Earth Unit Guide](https://gamefaqs.gamespot.com/pc/376328-empire-earth/faqs/20608) – combat system, unit relationships
 [^ref-19]: [Empire Earth Fandom Wiki – Prophet](https://empireearth.fandom.com/wiki/Prophet_(Empire_Earth)) – Prophet unit, calamity abilities, trivia
-[^ref-20]: [Metacritic – Empire Earth](https://www.metacritic.com/game/empire-earth/) – aggregate scores, critic reviews
+[^ref-20]: [Metacritic – Empire Earth](https://www.metacritic.com/game/empire-earth/) – aggregate scores, critic reviews (81 from 23 critic reviews; user score 8.3 from 216 ratings, checked November 2026)
 [^ref-22]: [Game Informer #105 (January 2002), p. 95 – Internet Archive scan](https://archive.org/details/game-informer-issue-105-january-2002/page/n96/mode/1up) – Kristian review 6.25, Kato second opinion 7
-[^ref-23]: [IMDb – Empire Earth (Video Game 2001)](https://www.imdb.com/title/tt0275324/) – user rating 7.9 from 389 ratings (October 2026)
-[^ref-24]: [GOG.com – Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) – user reviews, modern system requirements
+[^ref-23]: [IMDb – Empire Earth (Video Game 2001)](https://www.imdb.com/title/tt0275324/) – user rating 7.9 from 390 ratings (checked November 2026)
+[^ref-24]: [GOG.com – Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) – user reviews (4.4/5 from 1,451 reviews, checked November 2026), modern system requirements
 [^ref-25]: Empire Earth Community – Overview (empireearth.eu/overview/) – archived 1998 Goodman interview: studio founding, "strike team" (link removed: offers full-game download of a still-sold game)
 [^ref-26]: [IGN – Empire Earth Preview](https://www.ign.com/articles/2001/08/23/empire-earth-3) – Jon Alenson quotes, beta information
 [^ref-27]: [MobyGames – Empire Earth Credits](https://www.mobygames.com/game/5374/empire-earth/credits/windows/) – full development credits
@@ -336,3 +344,6 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-52]: [MobyGames – Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra Entertainment, US release April 26, 2005
 [^ref-53]: [IGN – Empire Earth Interview (Wayback Machine)](https://web.archive.org/web/20020413212423/http://pc.ign.com/articles/088/088931p1.html) – Rick Goodman and Stefan Arnold interview, dated December 12, 2000
 [^ref-54]: [Wikipedia – Empire Earth: The Art of Conquest](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) – "Gold Edition… was released on May 6, 2003"
+[^ref-55]: [PC Games Hardware – Empire Earth Steam release](https://www.pcgameshardware.de/Empire-Earth-Spiel-22588/News/Steam-Release-1536537/) – May 27, 2026; Gold Editions with expansions on Steam, first game 6 euros
+[^ref-56]: [GamingOnLinux – Empire Earth 1, 2 and 3 arrive on Steam](https://www.gamingonlinux.com/2026/05/classic-strategy-games-empire-earth-1-2-3-arrive-on-steam/page=1/) – May 27, 2026; no apparent updates, official online support ended, community patches, Steam Deck "Playable"
+[^ref-57]: [GamesIndustry.biz – WonderPhone announces Empire Earth](https://www.gamesindustry.biz/wonderphone-announces-empire-earth-a-made-for-mobile-version-of-the-best-selling-pc-strategy-game-from-vivendi-universal-games) – October 14, 2005 announcement of the Java mobile version
