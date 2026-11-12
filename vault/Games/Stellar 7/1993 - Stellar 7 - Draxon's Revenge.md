@@ -10,14 +10,15 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Stellar 7: Draxon''s Revenge is a 1993 first-person sci-fi tank simulation
-  game developed and published by Dynamix for the 3DO Interactive Multiplayer...'
+  game developed and published by Dynamix for the 3DO Interactive Multiplayer. Players
+  command the Raven super-tank against Gir Draxon''s Arcturan armada across seven worlds.'
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -33,10 +34,10 @@ The Raven survives on its energy reserve: when energy reaches zero its shields f
 > **Publisher:** Dynamix (NA), T&E Soft (JP)[^ref-18][^ref-27]
 > **Engine:** Not documented
 > **Platforms:** 3DO Interactive Multiplayer[^ref-1]
-> **Release Year:** 1993 (NA), March 26, 1994 (JP)[^ref-27]
+> **Release Year:** 1993 (NA), March 26, 1994 (JP, per MobyGames; March 20, 1994 per Wikipedia)[^ref-27][^ref-1]
 > **Series:** Stellar 7[^ref-3]
 > **Protagonist:** Terran Commander (Raven Pilot)
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
@@ -94,6 +95,8 @@ Stellar 7: Draxon's Revenge received mixed reviews on release. *Entertainment We
 *Computer Gaming World* (January 1994) had played Draxon's Revenge before its 3DO coverage went to press. The magazine said the first thing it noticed "was that there was terrific CD-audio coming out of the machine instead of the FM synthesized soundtracks we're used to hearing in computer games." The game made its writers "true believers" in the 3DO's texture-mapping, and a caption praised its "fantastic bit-mapped explosions."[^ref-22]
 
 *Edge* scored the game 5 out of 10 in issue 5 (February 1994), calling it "a BattleZone clone, and not a particularly outstanding one at that." Edge concluded: "It's not that Stellar 7 is a bad game, it's just that it's so ordinary."[^ref-24] *GamePro* (February 1994) was far more positive, rating it 4.5 for graphics, 4.0 for sound, 5.0 for control and 5.0 for FunFactor. It called the controls "excellent" and closed: "Stellar 7 is stellar."[^ref-23]
+
+*Electronic Gaming Monthly* (January 1994, issue 54) gave it 8, 8, 7, 6 and 7 from its five Review Crew members, 36 out of 50 in total. The capsule said: "Fans of the PC version will be pleasantly surprised by this perspective shooter in the vein of Battlezone! Excellent sounds and graphics (no surprise there) take first chair to the control: it isn't as responsive as it should be."[^ref-29] *GamesMaster* in the UK scored it 61 per cent in its review of the import; MobyGames dates the review to April 1994.[^ref-30][^ref-10] Its verdict was "a stale formula given a smidgen of new life with a flash soundtrack and new graphics. But this isn't enough to salvage this from the retirement home for old games."[^ref-30] *Famitsu* rated the Japanese release 21 out of 40 in its April 29, 1994 issue (no. 280), according to Wikipedia's citation of that review.[^ref-1]
 
 The *Los Angeles Times* reviewed the $59.95 3DO disc in September 1994: "This is one great game." Reviewer William Schiffmann said control was "very good," though lining up shots at speed was not always easy and the weapons could not be elevated to hit flying enemies.[^ref-25]
 
@@ -162,7 +165,7 @@ The game was published in North America by Dynamix and in Japan by T&E Soft as "
 
 ### Collections
 
-Stellar 7: Draxon's Revenge has not been included in any known compilation release or digital storefront, and it remains a 3DO exclusive. Retro North Games listed a copy at $69.99 CAD (sold out when checked in 2026).[^ref-14] The game appears on the GOG Dreamlist with 77 votes for a re-release.[^ref-15]
+Stellar 7: Draxon's Revenge has not been included in any known compilation release or digital storefront, and it remains a 3DO exclusive. Retro North Games listed a copy at $69.99 CAD (sold out when checked in 2026).[^ref-14] The game appears on the GOG Dreamlist with 99 votes for a re-release (as of November 2026).[^ref-15]
 
 ### Fan Projects
 
@@ -180,7 +183,7 @@ Draxon's Revenge arrived as one of the first 3DO games, when critics were still 
 
 **Purchase / Digital Stores**
 - Not currently available on major digital storefronts
-- Listed on [GOG Dreamlist](https://www.gog.com/dreamlist) for potential future release[^ref-15]
+- Listed on [GOG Dreamlist](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) for potential future release[^ref-15]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/stellar-7-draxon-s-revenge-edc) - Free download (3DO version)
@@ -193,8 +196,7 @@ Draxon's Revenge arrived as one of the first 3DO games, when critics were still 
 ## See Also
 
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
-- [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
-
+- [[1993 - Stellar-Fire|→ Next: Stellar-Fire]] (Sega CD, also 1993)
 - [[1990 - Stellar 7]]
 
 ## References
@@ -206,11 +208,11 @@ Draxon's Revenge arrived as one of the first 3DO games, when critics were still 
 [^ref-6]: [Sierra Chest – Stellar 7: Draxon's Revenge](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box) – packaging, platform information
 [^ref-7]: [GameFAQs – Stellar 7: Draxon's Revenge](https://gamefaqs.gamespot.com/3do/584506-stellar-7-draxons-revenge) – game description, user ratings, difficulty assessment, Japanese title
 [^ref-9]: [Entertainment Weekly – Stellar 7: Draxon's Revenge (January 14, 1994)](https://ew.com/article/1994/01/14/stellar-7-draxons-revenge/) – B- grade ("Stellar 7: B-"), 3DO launch roundup
-[^ref-10]: [MobyGames – Stellar 7: Draxon's Revenge Reviews](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/reviews/) – critics average 68% (7 ratings), players 3.2/5 (2 ratings)
+[^ref-10]: [MobyGames – Stellar 7: Draxon's Revenge Reviews](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/reviews/) – critics average 68% (7 ratings), players 3.2/5 (2 ratings); critic list gives EGM 36/50 (1994-01) and GamesMaster 61% (1994-04)
 [^ref-11]: [VGChartz – Stellar 7: Draxon's Revenge](https://www.vgchartz.com/game/22773/stellar-7-draxons-revenge/) – community rating, release information
 [^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – box and screenshot images
 [^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
-[^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
+[^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes (99, as of November 2026), genre classification
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
 [^ref-20]: [Stellar 7: Draxon's Revenge 3DO manual (Dynamix, 1993), Internet Archive scan](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US) – pp.4–5 controls and difficulty levels, pp.6–7 Raven and cockpit, pp.8–9 Power Modules, pp.10–13 strategies and enemy vehicles, pp.18–19 credits
 [^ref-21]: [Ken Embery, "Draxon's Revenge Brings the 3DO System Roaring to Life!", InterAction Magazine Vol. VI No. 3, Holiday 1993, p.51 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Warplinks story, "three Megs of memory", "CD-quality techno-rock music"
@@ -221,3 +223,5 @@ Draxon's Revenge arrived as one of the first 3DO games, when critics were still 
 [^ref-26]: [The Video Game Critic – 3DO reviews (S), "Stellar 7: Draxon's Revenge", posted 2007-11-08](https://videogamecritic.com/3doss.htm) – grade C+
 [^ref-27]: [MobyGames – Stellar 7: Draxon's Revenge Releases](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/releases/) – US 1993 (Dynamix); Japan Mar 26, 1994 (T&E Soft, JPY 8,800)
 [^ref-28]: [MobyGames – Stellar 7: Draxon's Revenge 3DO Credits](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/credits/3do/) – full credits (44 people)
+[^ref-29]: [Electronic Gaming Monthly #54, January 1994, p.48, Review Crew (Internet Archive)](https://archive.org/details/electronic-gaming-monthly-issue-054-january-1994) – Stellar 7: Draxon's Revenge, Dynamix / 3DO; scores 8 8 7 6 7 (Ed, Dano, Al, Sushi, Mike), read from the page image
+[^ref-30]: [GamesMaster (UK) issue 16, p.71, review by Les Ellis (scan)](https://retrocdn.net/images/b/b6/GamesMaster_UK_016.pdf#page=71) – "Stellar 7" for 3DO, Dynamix, import £40; Judgement 61; review date April 1994 per MobyGames
