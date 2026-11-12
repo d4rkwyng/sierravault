@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Christopher Stevens]
 description: The Even More Incredible Machine is a 1993 puzzle game that repackaged
   the original Incredible Machine's 87 puzzles with 73 new ones, plus new parts and
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Even More Incredible Machine
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -85,6 +85,13 @@ Some puzzles provide more objects than necessary as red herrings, and the more s
 
 Computer Gaming World reviewed the DOS version in its November 1993 issue (#112). Ed Dille concluded that The Even More Incredible Machine "lives up to it's billing, surpassing the original in terms of play value, if not presentation"[^ref-21]. Although noting that the game "isn't billed as an educational product," he called it "a valuable tool in developing analytical thought and an appreciation of physics in young minds"[^ref-21].
 
+Other period coverage:
+
+- **Game Players PC Entertainment (January–February 1994):** T. Liam McDonald described the game as including "the original game in its entirety, along with 73 new levels and five new objects," called it "a good value, retailing for less than $50," and noted that owners of the original "might have found an add-on disk more appropriate (and cost-effective)." He concluded: "if you're a puzzle fan who hasn't picked up the original, you'll definitely want to explore the zany world of The Even More Incredible Machine."[^ref-30]
+- **PC Zone (January 1994, UK):** the review gave a price of £39.99, counted 160 puzzles (the first 21 plus number 88 being tutorials, with a password needed from puzzle 89 onward), and noted that the Windows version needs 2 MB of RAM. Its pull quote read "If you've never played The Incredible Machine now's the time to start."[^ref-31]
+- **Compute! (April 1994):** Scott A. May called the game "More of a replacement product than a sequel," combining "the original's 87 levels with 73 all-new brainteasers" and 13 new machine parts, and concluded that it "is divine madness — a delightfully addicting, thoroughly intelligent arcade game that should not be missed." The review listed the price as $49.95.[^ref-32]
+- **CD-ROM Today (January 1995):** reviewing the CD-ROM edition, Stephen Kent wrote that "This game will not return you to the awe-struck discovery years of your childhood, but it's a fun-filled return to the machines that usually only function in a child's mind," while cautioning that "puzzles start looking a little similar or the game becomes a tad monotonous."[^ref-33]
+
 Writing in Computer Gaming World in February 1994, in his review of Sid & Al's Incredible Toons, Neil Harris reported that showing the original Incredible Machine to an engineer friend caused "a chain reaction that brought productive work to a halt at a major naval yard"[^ref-24].
 
 ### Modern Assessment
@@ -107,7 +114,7 @@ The Incredible Machine was Jeff Tunnell's idea. According to The Digital Antiqua
 
 ### Production
 
-According to Wikipedia, Kevin Ryan programmed the original Incredible Machine in nine months on a budget of about $36,000[^ref-3]. Jeff Tunnell Productions, which Tunnell started after leaving Dynamix, made its games for Sierra On-Line[^ref-13].
+According to Wikipedia, Kevin Ryan programmed the original Incredible Machine in nine months on a $36,000 budget[^ref-27]; Jeff Tunnell himself, in a 2002 interview, put the original's development cost at $35,000 and said it went on to sell over 800,000 units[^ref-28]. The Macintosh and Windows versions were developed by Presage Software, whose own product page says so[^ref-29]. Jeff Tunnell Productions, which Tunnell started after leaving Dynamix, made its games for Sierra On-Line[^ref-13].
 
 Once the core engine existed, "all that remained for Tunnell and company was to churn out more puzzles"; The Digital Antiquarian describes The Even More Incredible Machine as "a re-packaging of the original game with an additional 73 puzzles"[^ref-10]. It sold for $49.95, and registered owners of the original could upgrade for $19.95[^ref-21].
 
@@ -152,14 +159,15 @@ No significant cut content has been documented for The Even More Incredible Mach
 | Original | 1993 | DOS | Floppy release[^ref-1] |
 | Original | 1993 | Windows 3.x | Windows version release[^ref-5] |
 | Original | 1993 | Macintosh | Mac OS release[^ref-5] |
-| CD-ROM | 1993 | DOS | Adds CD audio music tracks[^ref-1] |
+| CD-ROM | 1994 | DOS | US CD-ROM release; adds CD audio music tracks[^ref-1] |
+| Sierra Originals | 1995 | DOS | French re-release, distributed by Coktel Vision[^ref-1] |
 | Japanese | 1995 | Windows | Published in Japan by Cybelle[^ref-22] |
 | Digital | October 1, 2009 | Windows | GOG.com re-release via DOSBox[^ref-9] |
 
 **Regional Release Variations:**
 - **United Kingdom:** 1993 (DOS)[^ref-8]
-- **United States:** MyAbandonware lists 1994 (DOS)[^ref-8], though Computer Gaming World reviewed it in November 1993 with a US price of $49.95[^ref-21]
-- **France:** 1995 (DOS)[^ref-8]
+- **United States:** MobyGames dates the US floppy release to 1993 and the US CD-ROM release to 1994[^ref-1]; MyAbandonware lists the US DOS release as 1994[^ref-8]. Computer Gaming World reviewed the floppy edition in November 1993 with a US price of $49.95[^ref-21]
+- **France:** a French/German multi-language floppy release in 1993, and a Sierra Originals re-release in 1995 distributed by Coktel Vision[^ref-1]; MyAbandonware lists 1995 (DOS)[^ref-8]
 - **Japan:** Released as "もっともっとインクレディブル・マシーン"[^ref-1]; a 1995 Windows CD-ROM was published by Cybelle[^ref-22]
 
 ### Technical Issues
@@ -243,7 +251,7 @@ The game can now be played in browser through various classic gaming preservatio
 
 ## References
 
-[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, credits, critic ratings, media formats, CD/disk trivia, Japanese title
+[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, credits, critic ratings, media formats, CD/disk trivia, Japanese title, regional and CD-ROM release dates (read via the MobyGames API)
 [^ref-2]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series overview, version list, rights history, Contraption Maker
 [^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – deterministic engine, development budget, sales data, awards
 [^ref-4]: [GameFAQs – The Even More Incredible Machine](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine) – user ratings, game description
@@ -267,3 +275,10 @@ The game can now be played in browser through various classic gaming preservatio
 [^ref-24]: [Computer Gaming World #115 (February 1994) – Neil Harris, review of Sid & Al's Incredible Toons](https://archive.org/details/Computer_Gaming_World_Issue_115) – engineer friend, "a chain reaction that brought productive work to a halt at a major naval yard"
 [^ref-25]: [Steemit – Interesting People #25: Kevin Ryan on The Incredible Machine (2017 interview)](https://steemit.com/gaming/@badastroza/interesting-people-25-kevin-ryan-on-the-incredible-machine) – Ryan quit Dynamix November 1991, away about three weeks, returned to a message from Tunnell; "maybe a Rube Goldberg game"
 [^ref-26]: [Academy of Interactive Arts & Sciences – Return of the Incredible Machine: Contraptions](https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=619) – Awards Won: PC Family
+[^ref-27]: [Wikipedia – The Incredible Machine (1993 video game)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – "Kevin Ryan programmed The Incredible Machine in nine months, on a $36,000 budget"; Macintosh and Windows versions developed by Presage Software
+[^ref-28]: [PC Gamingworld – Garage Games interview with Jeff Tunnell (Wayback Machine, 10 January 2002)](https://web.archive.org/web/20020110220023/http://www.pcgameworld.com/features/articles/garagegamesinterview/index.htm) – "The original Incredible Machine was developed for $35,000, and went on to sell over 800,000 units"
+[^ref-29]: [Presage Software – The Even More Incredible Machine (Wayback Machine, 14 June 1997)](https://web.archive.org/web/19970614015215/http://www.presage.com/pTEMIM.html) – "Presage developed both the Macintosh and Windows versions of The Even More Incredible Machine"
+[^ref-30]: [Game Players PC Entertainment, Vol. 7 No. 1 (January–February 1994) – T. Liam McDonald review](https://archive.org/details/game-players-pc-entertainment-vol.-7-no.-1-january-february-1994) – 87 puzzles in the original, 73 new levels, five new objects, value for money, recommendation
+[^ref-31]: [PC Zone #10 (January 1994) – Even More Incredible Machine review](https://archive.org/details/PC_Zone_10_January_1994) – £39.99 UK price, 160 puzzles, tutorials, password from puzzle 89, Windows RAM requirement, pull quote
+[^ref-32]: [Compute! #163 (April 1994) – Scott A. May review](https://archive.org/details/1994-04-compute-magazine) – "divine madness", 87 levels plus 73 new brainteasers, 13 new machine parts, $49.95
+[^ref-33]: [CD-ROM Today (January 1995) – Stephen Kent review](https://archive.org/details/CDROMToday11Jan1995) – CD-ROM edition review, DOS, $49.95, Sierra
