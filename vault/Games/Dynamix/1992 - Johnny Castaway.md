@@ -12,14 +12,14 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Johnny Castaway is a 1992 Windows screensaver from Dynamix and Sierra that depicts a man stranded on a tiny desert island, marketed as the world''s first story-telling screen saver.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Unlike the screensavers that came before it, such as the flying toasters of the 
 
 Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes close to being rescued, but remains on the island as a result of various unfortunate accidents.[^ref-4][^ref-40] The screensaver reads the computer's clock, showing day and night and celebrating major U.S. holidays.[^ref-1][^ref-3]
 
-The product was distributed on a 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-4][^ref-25] A letter in a bottle that accompanied the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me — kill some time to save an old salt!"*[^ref-1]
+The product was distributed on a 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-4][^ref-25] Wikipedia cites a *PC Magazine* item of 29 September 1992 that announced it under the title *Screen Antics: Johnny Castaway*, "a screensaver with an evolving story line."[^ref-4] A letter in a bottle that accompanied the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me — kill some time to save an old salt!"*[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] / Jeff Tunnell Productions[^ref-25]
@@ -129,7 +129,7 @@ Johnny Castaway was developed at Jeff Tunnell Productions alongside *[[1992 - Th
 - **Matt Uhre, Travis Clark, [[Richard Tunnell]]** – Artists (Dynamix Wiki credits)[^ref-25]
 - **Chris Shen** – Special Thanks (Dynamix Wiki credits)[^ref-25]
 
-The role of **Chris Cole** is disputed. The Dynamix Wiki credits him as assistant director and co-writer of the gags, and Shawn Bird recalled him as the project's lead designer.[^ref-25][^ref-32] Tunnell, however, states that "Chris Cole did not work on JC."[^ref-3]
+The role of **Chris Cole** is disputed. The Dynamix Wiki credits him as assistant director and co-writer of the gags, and Shawn Bird recalled him as the project's lead designer.[^ref-25][^ref-32] Tunnell, however, states that "Chris Cole did not work on JC."[^ref-3] The design credit varies by listing: the Dynamix Wiki infobox lists Jeff Tunnell as producer and Shawn Bird as designer, while its credits list names Bird as character designer.[^ref-25]
 
 Brian Hahn and Tunnell developed most of the comedic gags. Tunnell later said: "Brian is so funny, he is always the guy when thinking up funny characters and almost Vaudvillian [*sic*] stunts and pranks."[^ref-3]
 
@@ -154,16 +154,16 @@ Sierra positioned Johnny Castaway as the first release in a "Screen Antics" prod
 
 ### Contemporary Reviews
 
-In *Computer Gaming World*'s January 1993 review, Alan Emrich and Johnny L. Wilson called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-40]
+In *Computer Gaming World*'s January 1993 review, Alan Emrich and Johnny L. Wilson called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-40] The review said the artists "obviously emulated the Hart style" of the *B.C.* comic strip, with a minimalist background, and noted that only a portion of the screen is used for the animation while much of the background stays static. It also warned that Johnny usually pauses after each sequence and, if no key is touched, reads the disk and starts another round, which could disappoint someone who simply wanted to watch a few hours of gags.[^ref-40]
 
-*COMPUTE!* was more mixed in its October 1993 roundup of three screen savers. Reviewer Charles Idol found the graphics and animation "quite well done," but wrote that the cartoon is "mildly amusing for a while— children might enjoy it—but it gets pretty boring rather quickly." He also questioned the screen-saving feature, since much of the screen stays unchanged for long periods. The list price was $34.95.[^ref-33]
+*COMPUTE!* was more mixed in its October 1993 roundup of three screen savers. Reviewer Charles Idol found the graphics and animation "quite well done," but wrote that the cartoon is "mildly amusing for a while— children might enjoy it—but it gets pretty boring rather quickly." He also questioned the screen-saving feature, since much of the screen stays unchanged for long periods. He characterized the program as "a series of episodes rather than a continuous story line, so if you drop out and return, you don't miss a thing." The list price was $34.95.[^ref-33]
 
 ### Modern Assessment
 
 In an interview, [[Ken Williams]] named Johnny Castaway among a string of cheap-to-build Dynamix products, alongside Pinball and *[[1992 - The Incredible Machine]]*, that he called "All BIG money makers."[^ref-35] Tunnell likewise called it one of the best ROI products ever created at Dynamix.[^ref-3] Sierra later bundled Johnny Castaway with *Conquests of the Longbow*, *Gobliiins* and *Hoyle: Official Book of Games – Volume 3* in the *Family Fun Pack* compilation.[^ref-13]
 
 **Aggregate Scores:**
-- **Screensavers Planet (users):** 4.5 stars from 444 votes (as of October 2026)[^ref-1]
+- **Screensavers Planet (users):** 4.5 stars from 447 votes (as of November 2026)[^ref-1]
 - **Computer Gaming World:** Positive recommendation — "great launch" for Screen Antics line (no numeric score in original review)[^ref-40]
 - **COMPUTE!:** Mixed — "mildly amusing" but "pretty boring rather quickly" (no numeric score)[^ref-33]
 
@@ -191,29 +191,30 @@ Several more open-source recreations appeared from late 2025 through 2026, many 
 
 ### Preservation
 
-The screensaver remains freely available through Screensavers Planet, whose download has been fetched 73,228 times (as of October 2026).[^ref-1] Fan sites such as the Johnny Castaway Home Page, online since 1996, have documented its activities and story scenes.[^ref-31][^ref-32]
+The screensaver remains freely available through Screensavers Planet, whose download has been fetched 73,732 times (as of November 2026).[^ref-1] Fan sites such as the Johnny Castaway Home Page, online since 1996, have documented its activities and story scenes.[^ref-31][^ref-32]
 
 ## Downloads
 
 **Purchase / Digital Stores**
 
-Not currently available for purchase. As abandonware, Johnny Castaway can be downloaded freely from screensaver archive sites.
+Not currently available for purchase. No Steam or GOG listing as of November 2026. As abandonware, Johnny Castaway can be downloaded freely from screensaver archive sites.
 
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
 
 ## See Also
 
 - [[1992 - The Incredible Machine]] – Developed concurrently at JTP
+- [[1992 - Quarky & Quaysoo's Turbo Science]] – Also developed at JTP in 1992
 - [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
-
+- [[Jeff Tunnell Productions]] – Spin-off group that developed it
 - [[Jeff Tunnell]] – Producer and concept creator
 - [[Dynamix]] – Development studio
 
 ## References
 
 [^ref-1]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Editor's review (first screensaver to tell a story, holidays, clock trick, 640×480, bottle letter), sound toggle, download count and user rating
-[^ref-3]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) ([Wayback copy, September 2026](https://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/)) – Jeff Tunnell's 2022 answers on development (January–November 1992), team, gags, story design, the Screen Antics brand and ROI
-[^ref-4]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Cites PC Magazine (30 Mar 1993, "about 120 days"), the *Computer Gaming World* January 1993 review, version 1.02 (1993) and system requirements
+[^ref-3]: [Johnny Castaway Common Questions – Jeff Tunnell (Wayback copy, September 2026)](https://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/) – Jeff Tunnell's 2022 answers on development (January–November 1992), team, gags, story design, the Screen Antics brand and ROI
+[^ref-4]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Cites PC Magazine (29 Sep 1992, announcement as "Screen Antics: Johnny Castaway"; 30 Mar 1993, "about 120 days"), the *Computer Gaming World* January 1993 review, version 1.02 (1993) and system requirements
 [^ref-11]: [Castaway – GitHub (xesf)](https://github.com/xesf/castaway) – Open-source JavaScript re-implementation reverse-engineering the DGDS engine for browser play
 [^ref-13]: [Family Fun Pack (1992) – MobyGames](https://www.mobygames.com/game/21229/family-fun-pack/) – Compilation details confirming Johnny Castaway's inclusion alongside Conquests of the Longbow, Gobliiins and Hoyle Volume 3
 [^ref-14]: [Shawn Bird – Dynamix Wiki](https://dynamix.fandom.com/wiki/Shawn_Bird) – Credits confirming Shawn Bird as character designer at Jeff Tunnell Productions and Dynamix (1991–2001)
