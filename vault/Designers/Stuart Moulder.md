@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Mixed-Up Mother Goose", "Castle of Dr. Brain", "Age of Empires", "Age of Empires II", "Nancy Drew: Tomb of the Lost Queen"]
 companies: ["Sierra On-Line", "Microsoft Game Studios", "Screenlife", "Gazillion Entertainment", "Her Interactive", "Boom Learning"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Stuart Moulder
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Stuart Moulder is a video game producer and executive whose career runs from Sierra On-Line in the early 1990s through Microsoft's game business, casual and family games, and Her Interactive, the Nancy Drew developer.[^ref-1] His Her Interactive company biography says that at Sierra he "delivered the first CD-ROM title, Mixed-Up Mother Goose," and that he later joined Microsoft in the mid-1990s, where he "signed and managed the Age of Empires franchise."[^ref-2][^ref-13]
+Stuart Moulder is a video game producer and executive whose career runs from Sierra On-Line in the early 1990s through Microsoft's game business, casual and family games, and Her Interactive, the Nancy Drew developer.[^ref-1] His Her Interactive company biography says that at Sierra he was involved with the first CD-ROM title, Mixed-Up Mother Goose (see Career), and that he later joined Microsoft in the mid-1990s, where he "signed and managed the Age of Empires franchise."[^ref-2][^ref-13]
 
 At Microsoft, Moulder was credited in management roles on dozens of titles across strategy, simulation and action genres, about a dozen of them under the titles Product Unit Manager or General Manager.[^ref-3][^ref-15][^ref-9] As of October 2026, MobyGames shows the nickname "Yoda" in his credit on six Age of Empires releases: Age of Empires II: The Age of Kings, its expansion The Conquerors, the 1999 Macintosh version of Age of Empires, Age of Empires II: HD Edition, and the Definitive Editions of Age of Empires and Age of Empires II.[^ref-15][^ref-4]
 
@@ -23,7 +23,7 @@ After Microsoft he focused on casual and family games, including Scene It?, LEGO
 
 ### Sierra On-Line (early 1990s)
 
-Moulder began his game industry career at Sierra On-Line.[^ref-2] Sierra's own customer magazine says he came to the company through CompuServe. In the Fall 1992 issue of InterAction, an essay on staff who were hired through the service says: "Stuart Moulder, who has wielded the double-edged sword of Producer and Project Manager, was a Section Leader in the GAMERS Forum when I first approached him about being a Producer here."[^ref-19] The essay calls his work "Producer and Project Manager"; the OCR text read for this page does not show the essay's byline.[^ref-19] MobyGames credits him as "Producer (Floppy Disk)" of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], and credits [[Josh Mandel]] as "Producer (CD-ROM)".[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose"; the credit record gives the CD-ROM producer credit to Mandel, not to Moulder.[^ref-2][^ref-16]
+Moulder began his game industry career at Sierra On-Line.[^ref-2] Sierra's own customer magazine says he came to the company through CompuServe. In the Fall 1992 issue of InterAction, an essay on staff who were hired through the service says: "Stuart Moulder, who has wielded the double-edged sword of Producer and Project Manager, was a Section Leader in the GAMERS Forum when I first approached him about being a Producer here."[^ref-19] The essay calls his work "Producer and Project Manager"; the OCR text read for this page does not show the essay's byline.[^ref-19] MobyGames credits him as "Producer (Floppy Disk)" of the 1991 VGA remake of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], and credits [[Josh Mandel]] as "Producer (CD-ROM)".[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose"; the credit record gives the CD-ROM producer credit to Mandel, not to Moulder.[^ref-2][^ref-13][^ref-16]
 
 His Sierra production credits include the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1]] (including its Amiga and Macintosh versions) and [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I]], as well as [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-3][^ref-7][^ref-15] He is also credited as producer of the Macintosh version of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-15] He was director and producer of [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]]; his "Director / Producer" credit on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] sits under that game's "Original Board Game Challenge Team", the Hoyle 3 team whose board games the pack reused.[^ref-3][^ref-14]
 
@@ -35,7 +35,7 @@ Moulder left Sierra to join Microsoft in the mid-1990s ("1994 or so", in Aronson
 
 On the Age of Empires series, he is credited as Product Unit Manager on the original 1997 release, and under management on The Rise of Rome (1998), Age of Empires II: The Age of Kings (1999), The Conquerors (2000) and Age of Mythology (2002).[^ref-3] The Age of Kings and Conquerors credits list him as "Management (Yoda)."[^ref-3]
 
-On the Close Combat series with Atomic Games, his credits differ by game: "MS Joint Chief of Staff" on Close Combat (1996), "Management" on Close Combat: A Bridge Too Far (1997), and Product Unit Manager on Close Combat III: The Russian Front (1999), on which MobyGames credits him with "Historical Text."[^ref-3] In the May 2026 Spillhistorie.no interview he instead places his historical writing on Close Combat II: "Atomic lost their historical research person. By the time that happened, the only impact was on the in game historical notes (which weren’t written)... I cheerfully volunteered to write them myself. I wrote them over a weekend, mostly from my own knowledge with occasional detail verification online." The passage sits under a Close Combat II image caption and does not name the game in its own text.[^ref-20] The credit record and the interview therefore disagree on which game; this page reports both. In the same interview he says "The Close Combat games were like successful Indie movies whereas Microsoft was looking for blockbusters," and that Age of Empires, signed from Ensemble Studios, "was the game we really felt would be our breakout hit."[^ref-20] He holds a degree in history.[^ref-6]
+On the Close Combat series with Atomic Games, his credits differ by game: "MS Joint Chief of Staff" on Close Combat (1996), "Management" on Close Combat: A Bridge Too Far (1997), and Product Unit Manager on Close Combat III: The Russian Front (1999), on which MobyGames credits him with "Historical Text."[^ref-3] In the May 2026 Spillhistorie.no interview he instead places his historical writing on Close Combat II, the alternate title of Close Combat: A Bridge Too Far: "Atomic lost their historical research person. By the time that happened, the only impact was on the in game historical notes (which weren’t written)... I cheerfully volunteered to write them myself. I wrote them over a weekend, mostly from my own knowledge with occasional detail verification online." The passage sits under a Close Combat II image caption and does not name the game in its own text; Close Combat II is the alternate title of Close Combat: A Bridge Too Far.[^ref-20][^ref-22] The credit record (Close Combat III) and the interview (Close Combat II, that is, A Bridge Too Far, for which MobyGames lists him only under "Management") therefore disagree on which game; this page reports both. In the same interview he says "The Close Combat games were like successful Indie movies whereas Microsoft was looking for blockbusters," and that Age of Empires, signed from Ensemble Studios, "was the game we really felt would be our breakout hit."[^ref-20] He holds a degree in history.[^ref-6]
 
 As PC Games General Manager, Moulder is credited on Microsoft Flight Simulator 2002 (2001), Flight Simulator 2004: A Century of Flight (2003), Microsoft Train Simulator (2001), Zoo Tycoon (2001) and its Complete Collection, MechCommander 2 (2001), RalliSport Challenge (2002) and Combat Flight Simulator 3 (2002).[^ref-3] He also has an additional production support credit on Forgotten Realms: Demon Stone (2004), and special thanks credits on Halo: Combat Evolved, Halo 2, Dungeon Siege and Asheron's Call 2.[^ref-3][^ref-12]
 
@@ -63,7 +63,7 @@ Moulder continues to appear in the credits of later Microsoft re-releases, inclu
 
 ### Mixed-Up Mother Goose (1991 VGA remake)
 
-[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was remade with VGA graphics in 1991. MobyGames credits Moulder as producer of the floppy-disk version and Josh Mandel as producer of the CD-ROM version.[^ref-16] His biography says he "delivered the first CD-ROM title, Mixed-Up Mother Goose."[^ref-2][^ref-13]
+[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was remade with VGA graphics in 1991. MobyGames credits Moulder as producer of the floppy-disk version and Josh Mandel as producer of the CD-ROM version.[^ref-16] The biography's claim about the CD-ROM title is discussed under Career.[^ref-2][^ref-13]
 
 ### Age of Empires (1997)
 
@@ -71,7 +71,7 @@ Moulder is credited as Product Unit Manager on the original Age of Empires, deve
 
 ### Close Combat Series (1996–1999)
 
-Moulder's Close Combat credits run from "MS Joint Chief of Staff" on the first game to Product Unit Manager on Close Combat III: The Russian Front, for which MobyGames credits him with historical text; in a 2026 interview he describes writing the historical notes for Close Combat II.[^ref-3][^ref-20]
+Moulder's Close Combat credits run from "MS Joint Chief of Staff" on the first game to Product Unit Manager on Close Combat III: The Russian Front, for which MobyGames credits him with historical text; in a 2026 interview he describes writing the historical notes for Close Combat II (Close Combat: A Bridge Too Far).[^ref-3][^ref-20][^ref-22]
 
 ### Nancy Drew: Tomb of the Lost Queen (2012)
 
@@ -91,7 +91,7 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 
 - **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose (1991 VGA remake)]] — Role: Producer (floppy disk version)
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Producer
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Voice (Roger Wilco, Jr.); Producer (Macintosh version)
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Voice (Roger Wilco, Jr.; MobyGames dates this credit to 1992, Windows 16-bit CD version); Producer (Macintosh version)[^ref-15]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Producer
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Producer
 - **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]] — Role: Director, Producer
@@ -171,6 +171,8 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 | 2024 | Age of Mythology: Retold | Xbox Game Studios | Microsoft Management |
 | 2026 | Halo: Campaign Evolved | — | Special Thanks |
 
+Note: MobyGames dates Nancy Drew: The Silent Spy to 2015 and The Shattered Medallion to 2017; the years in the table above (2013 and 2014) follow Wikipedia's release dates.[^ref-15]
+
 ## References
 
 [^ref-1]: [MobyGames - Stuart Moulder](https://www.mobygames.com/person/6024/stuart-moulder/) — Career profile and biography
@@ -192,5 +194,6 @@ Moulder's credits span Sierra's early-1990s VGA remakes and educational games, M
 [^ref-17]: [Wikipedia - Talk:ImagiNation Network](https://en.wikipedia.org/wiki/Talk:ImagiNation_Network) — Richard Aronson (RFAronson), January 7, 2009: "Stuart Moulder was my producer until he left for Microsoft in 1994 or so"
 [^ref-18]: [MobyGames - King's Quest V Credits (Windows 16-bit)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/win3x/) — "Bandit Leader Stuart Moulder"
 [^ref-19]: [InterAction Magazine Vol. V No. 3, Fall 1992 (Sierra On-Line; Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — Essay on staff hired through CompuServe's GAMERS Forum: "Stuart Moulder, who has wielded the double-edged sword of Producer and Project Manager, was a Section Leader in the GAMERS Forum when I first approached him about being a Producer here"
-[^ref-20]: [Spillhistorie.no - "These games were probably doomed as far as being published by us" (May 29, 2026, by Retrogamingpappa)](https://spillhistorie.no/2026/05/29/these-games-were-probably-doomed-as-far-as-being-published-by-us/) — Interview in English: joined Microsoft in 1994; wrote Close Combat II's historical notes over a weekend; "successful Indie movies" versus "blockbusters"
+[^ref-20]: [Spillhistorie.no - "These games were probably doomed as far as being published by us" (May 29, 2026, by Retrogamingpappa)](https://spillhistorie.no/2026/05/29/these-games-were-probably-doomed-as-far-as-being-published-by-us/) — Interview in English: joined Microsoft in 1994; wrote the historical notes over a weekend for Close Combat II (Close Combat: A Bridge Too Far); "successful Indie movies" versus "blockbusters"
 [^ref-21]: [Wikipedia - Scene It? Box Office Smash](https://en.wikipedia.org/wiki/Scene_It%3F_Box_Office_Smash) — "developed by Krome Studios and Screenlife Games"; supports the Screenlife label on the 2008 Scene It? credit (tier 4)
+[^ref-22]: [Wikipedia - Close Combat: A Bridge Too Far](https://en.wikipedia.org/wiki/Close_Combat:_A_Bridge_Too_Far) — "Close Combat: A Bridge Too Far, or Close Combat II, is a World War II real-time computer wargame, developed by Atomic Games, and released on October 13, 1997" (tier 4)
