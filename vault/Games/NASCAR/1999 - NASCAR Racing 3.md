@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Modified NASCAR 2 engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: NASCAR Racing 3 is a stock car racing simulation developed by Papyrus
   Design Group and published by Sierra Sports for Windows in September 1999, covering
   the Winston Cup and Busch Grand National circuits on a modified NASCAR 2 engine.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -70,6 +70,8 @@ Rather than traditional puzzles, NASCAR Racing 3 challenges players with car set
 | GameCenter | 8/10 | "One of the finest and most successful racing simulations on the market gets revamped"[^ref-7] |
 | GameZone | 8.5/10 | "The game converted me into a full-fledged NASCAR fan"[^ref-13] |
 | CDMag | 4/5 | "A solid step forward for one of the most respected racing simulations ever"[^ref-14] |
+| Computer Gaming World (March 2000) | 4/5 stars | "NASCAR RACING 3 is a must-buy for any serious racing-game fan"; reviewed by Brett Todd[^ref-29] |
+| PC Accelerator (January 2000) | 8 | Pluses: "Best NASCAR simulation out there"[^ref-30] |
 | PC Gamer | 81% | "A satisfying sim that's only missing the Grand Prix Legends engine"[^ref-15] |
 
 Not every licence was in place. GameSpot noted that the game lacked the full lineup of NASCAR drivers and the licences to use the names "Winston Cup" and "Busch Grand Nationals"[^ref-11], and Christian Spotlight observed that no cars carried alcohol or tobacco sponsorship[^ref-9]. PC Gamer's lows included the aging physics engine, "20 percent fewer tracks than before", and an AI bug in which drivers queue up behind a car stopped on the racing line[^ref-15]; GameCenter also listed AI drivers that "can't handle stopped cars on the racing line" among its lows[^ref-7].
@@ -80,7 +82,7 @@ NASCAR Racing 3 won GameSpot's 1999 Driving Game of the Year award, which called
 
 ### Modern Assessment
 
-On MobyGames the game holds a Moby Score of 7.3, with a player average of 4.1 out of 5[^ref-1]. It is not sold digitally, and has a GOG Dreamlist entry where users can vote for a re-release[^ref-16].
+On MobyGames the game holds a Moby Score of 7.4, with critics averaging 74% and a player average of 4.1 out of 5[^ref-1]. It is not sold digitally, and has a GOG Dreamlist entry where users can vote for a re-release[^ref-16].
 
 ## Development
 
@@ -99,6 +101,10 @@ NASCAR Racing 3 runs on a modified version of the NASCAR 2 engine[^ref-7]. It su
 ## Legacy
 
 NASCAR Racing 3 was succeeded by NASCAR Racing 4, which received the Grand Prix Legends-style physics originally planned for this game[^ref-22]. A CD-ROM given away with the 2000 Daytona 500 official program included a demo featuring Daytona International Speedway, which made its official series debut in NASCAR Racing 4[^ref-22].
+
+### Collections
+
+Sold Out Software issued a budget retail re-release of the game[^ref-26]; MobyGames lists Sold Out Sales & Marketing Ltd. alongside Sierra On-Line, Inc. as publisher[^ref-1]. NASCAR Racing 3 was also included in the compilations 10 Spiele-Hits Vol. 3 (2003) and NASCAR Acceleration Pack (2000)[^ref-1].
 
 ### Post-Launch Support and Expansion
 
@@ -132,7 +138,7 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 
 ## References
 
-[^ref-1]: [MobyGames – NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – credits (140 people), official description, Moby Score 7.3, player average 4.1/5
+[^ref-1]: [MobyGames – NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – credits (140 people), official description, Moby Score 7.4 and critics' average 74% (25 ratings) as of 2026-11-11, player average 4.1/5, publishers, collections
 [^ref-2]: [Wikipedia – List of NASCAR video games](https://en.wikipedia.org/wiki/List_of_NASCAR_video_games) – series context and Papyrus reputation
 [^ref-3]: [Avid Wiki – Sierra Sports](https://www.avid.wiki/Sierra_Sports) – Sierra Sports formation date and context
 [^ref-4]: [MobyGames – NASCAR Racing 3 Specs](https://www.mobygames.com/game/3222/nascar-racing-3/specs/) – minimum OS, RAM, CD-ROM speed, graphics APIs, resolutions, input devices
@@ -150,6 +156,8 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 [^ref-17]: [GameSpot – Best & Worst of 1999: Driving Game of the Year (Wayback Machine)](https://web.archive.org/web/20000823200831/http://www.gamespot.com/features/1999/p3_03a.html) – 1999 Driving Game of the Year, 45 drivers and 28 tracks
 [^ref-22]: [Wikipedia – NASCAR Racing 3](https://en.wikipedia.org/wiki/NASCAR_Racing_3) – release date, credits, cancelled GPL-physics version, expansion, Edge sales figure, awards
 [^ref-25]: [MyAbandonware – NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) – expansion pack release year (2000)
-[^ref-26]: [PCGamingWiki – NASCAR Racing 3](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – final patch versions, minimum system requirements
+[^ref-26]: [PCGamingWiki – NASCAR Racing 3](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – final patch versions, minimum system requirements, Sold Out Software retail re-release
 [^ref-27]: [CDMag – NASCAR 3 Ships (Wayback Machine)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) – shipped to North American retail, posted 09/16/1999; paintkit, Direct3D/Glide, Busch Grand National content
 [^ref-28]: [Race Sim Central – NASCAR Racing 3: The Sim That Never Was](https://racesimcentral.net/nascar-racing-3-the-sim-that-never-was/) – original GPL-physics NR3 due Q4 1998 per NR2 Busch expansion teaser, cancelled; GPL physics arrived in NASCAR Racing 4
+[^ref-29]: [Computer Gaming World – Issue 188, March 2000 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_188) – review "You Couldn't Ask for Anything More" by Brett Todd, p. 132; four of five stars, "must-buy" verdict, 28 tracks, publisher Sierra Sports, $50
+[^ref-30]: [PC Accelerator – Issue 17, January 2000 (Internet Archive)](https://archive.org/details/PCXL17Jan2000) – review, p. 93; rating 8, pluses and minuses, no Daytona or Pocono
