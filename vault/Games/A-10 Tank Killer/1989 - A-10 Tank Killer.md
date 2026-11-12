@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: 3Space
 protagonist: Unnamed A-10 Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Alan McKean]
 description: A-10 Tank Killer is a combat flight simulation developed and published
   by Dynamix in December 1989 for DOS, with an Amiga port following in 1990-1991.
@@ -18,7 +18,7 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -59,9 +59,9 @@ The simulation includes a helpful co-pilot character who provides strategic guid
 
 The game offers both single mission and full campaign modes[^ref-6]. The stock campaign is set in a fictional Eastern European conflict following a Warsaw Pact attack on NATO, while version 1.5 added a Gulf War campaign with seven additional scenarios[^ref-1][^ref-6].
 
-- **Cold War Europe Campaign:** Multiple missions defending NATO positions against Soviet armored advances
+- **Cold War Europe Campaign:** Multiple missions defending NATO positions against Soviet armored advances[^ref-6]
 - **Gulf War Campaign (v1.5):** Seven scenarios set during Operation Desert Storm in Iraq[^ref-1]
-- **Single Missions:** Standalone scenarios for quick play sessions
+- **Single Missions:** Standalone scenarios for quick play sessions[^ref-6]
 
 A distinctive feature of A-10 Tank Killer is its persistent battlefield system—actions in one mission directly affect later encounters[^ref-6]. Targets not destroyed in earlier missions can reappear to threaten the player later, creating a sense of continuity and consequence across the campaign[^ref-6].
 
@@ -91,7 +91,7 @@ Ramshaw criticized that "not only does this fail to push the boundaries of fligh
 
 However, he acknowledged that "A-10's trump card, though, is the fact that (maybe even more effectively than F-15 Strike Eagle II) it manages to create the impression of a real world"[^ref-5].
 
-Other Amiga magazines scored the game between those extremes. *Zzap!* gave 90% in issue 70 (February 1991), *Datormagazin* 9/10 (February 1991), *Amiga Action* and *Amiga Format* 75% each (issues 21 and 22, June and May 1991), *Amiga Joker* 74% (January 1991), *Joystick* 74% (issue 11, December 1990) and *Amiga Computing* 70% (issue 37, June 1991); *Amiga Mania* gave 45% in July 1992[^ref-29]. On the PC side, *Joystick* (issue 4, April 1990) scored it 79% and *Zero* (issue 18, April 1991) 76%[^ref-29].
+Other Amiga magazines scored it from 45% to 90%. *Zzap!* gave 90% in issue 70 (February 1991), *Datormagazin* 9/10 (February 1991), *Amiga Action* and *Amiga Format* 75% each (issues 21 and 22, June and May 1991), *ACAR* 75% (volume 9 number 3, March 1992), *Amiga Joker* 74% (January 1991), *Joystick* 74% (issue 11, December 1990) and *Amiga Computing* 70% (issue 37, June 1991); *Amiga Mania* gave 45% in July 1992[^ref-29]. For the 1995 Kixx re-release, *Amiga Format* (issue 71, May 1995) gave 64%, *The One Amiga* (issue 82, July 1995) 64% and *Amiga Power* (issue 49, May 1995) 41%[^ref-29]. On the PC side, *Joystick* (issue 4, April 1990) scored it 79% and *Zero* (issue 18, April 1991) 76%[^ref-29].
 
 German publication *ASM (Aktueller Software Markt)* was less impressed, awarding only 7 out of 12 (58%) in May 1990[^ref-4].
 
@@ -108,7 +108,7 @@ Modern retrospectives acknowledge A-10 Tank Killer as an important early entry i
 
 ### Origins
 
-A-10 Tank Killer emerged from Dynamix's ambitions in the flight simulation market during the late 1980s[^ref-1]. The game was originally conceived as part of a larger project that would encompass different historical eras of aerial combat, but Sierra co-founder Ken Williams suggested making several games instead, each dedicated to a single time period; that advice gave rise to Dynamix's Great War Planes series[^ref-1]. A-10 Tank Killer was not a product of that arrangement: Dynamix had already published it, with distribution through Mediagenic, and Sierra On-Line bought Dynamix in 1990 during the development of [[1990 - Red Baron]], which became the first game in the series published by Sierra[^ref-22].
+A-10 Tank Killer emerged from Dynamix's ambitions in the flight simulation market during the late 1980s[^ref-1]. The game was originally conceived as part of a larger project that would encompass different historical eras of aerial combat, but Sierra co-founder Ken Williams suggested making several games instead, each dedicated to a single time period; that advice gave rise to Dynamix's Great War Planes series[^ref-1]. A-10 Tank Killer was not a product of that arrangement: Dynamix had already published it, with distribution through Mediagenic (as Activision was then named), and Sierra On-Line bought Dynamix in 1990 during the development of [[1990 - Red Baron]], which became the first game in the series published by Sierra[^ref-22][^ref-31].
 
 *Computer Gaming World* called it "the first flight simulation to feature the Air Force's much-maligned close air support weapon", the Thunderbolt[^ref-24]. The development team recognized the unique appeal of the Warthog—a rugged, heavily-armored attack plane designed specifically for destroying tanks and providing close air support[^ref-3]. As a 2008 retrospective review of v1.5 put it, the A-10 "is one of the last few military attack planes that is still flown the old fashion, by the seat of your pants way without tons of computer assistance"[^ref-7].
 
@@ -151,7 +151,10 @@ The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[
 |---------|------|----------|-------|
 | 1.0 | December 1989 | DOS | Initial release[^ref-1] |
 | 1.0 | 1990/1991 | Amiga | Platform port[^ref-1][^ref-2] |
-| 1.5 | 1991 | DOS | Added seven Gulf War scenarios, improved graphics and sound[^ref-1][^ref-10]; a reviewer believed the flight model was taken from Red Baron[^ref-7] |
+| 1.1 | May 14, 1990 | DOS | 3.5" release (version 1.1)[^ref-1] |
+| 1.5 | July 1, 1991 | DOS | Dual Media release (Version 1.5)[^ref-1]; added seven Gulf War scenarios, improved graphics and sound[^ref-1][^ref-10]; a reviewer believed the flight model was taken from Red Baron[^ref-7] |
+| 1.51 | August 22, 1991 | DOS | Ver#1.51[^ref-1] |
+| 1.51 | March 19, 1992 | DOS | Dual Media release (Version 1.51) with Joystick / Mouse Disk patch[^ref-1] |
 
 ### Technical Issues
 
@@ -182,10 +185,6 @@ Several mission packs were sold separately[^ref-10]. In December 1989 *Computer 
 
 Silent Thunder simulated the same aircraft—the Fairchild-Republic A-10A Thunderbolt II—with improved accuracy, offering 10 weapons and 24 missions[^ref-15], with campaigns across the world[^ref-16]. The game employed Dynamix's Terrain and 3DSpace technologies for its visuals and featured a redbook audio soundtrack[^ref-8].
 
-### Fan Projects
-
-The game remains available through abandonware preservation sites and the Internet Archive, where the game can be downloaded for preservation[^ref-9][^ref-12].
-
 ### Related Publications
 
 - **Game Manual:** 38-page documentation covering mission types, aircraft systems, targeting, weapons, joystick controls, simulation features, strategic mapping, and ECM pod usage[^ref-17]
@@ -196,14 +195,11 @@ A-10 Tank Killer holds an important position in flight simulation history as one
 
 While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. Its battlefield also carried over between missions, so a target left standing could attack the player later[^ref-1]. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-8][^ref-12].
 
-## Purchase
-
-- Not currently sold; a [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer-1989) entry requests a re-release
-
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on major digital storefronts
+- A [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer-1989) entry requests a re-release
 
 **Download / Preservation**
 - [Internet Archive – Red Baron and A-10 Tank Killer](https://archive.org/details/red-baron-and-a-10-tank-killer)[^ref-9]
@@ -243,6 +239,7 @@ While the Amiga version disappointed some critics who found it technically infer
 [^ref-25]: [Computer Gaming World #95, June 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_95) – M. Evan Brooks, "The Modern Games: 1950–2000" survey: four stars
 [^ref-26]: [Computer Gaming World #114, January 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_114) – M. Evan Brooks wargame survey: three-plus stars, "joystick control is very sensitive"
 [^ref-27]: [Dragon #176, December 1991 (Internet Archive)](https://archive.org/details/dragon-magazine-176) – Lesser, "The Role of Computers", Game conversions: "PC/MS-DOS version (updated)", Middle East campaign, "new flight models"
-[^ref-28]: [MobyGames – A-10 Tank Killer + Extra Missions](https://www.mobygames.com/game/24257/a-10-tank-killer-extra-missions/) – Amiga double pack, 1995: base game patched to v1.5 plus Campaign Set 2 (read via the MobyGames API)
-[^ref-29]: [Amiga Magazine Rack – A-10 Tank Killer reviews](https://amr.abime.net/review_32463) – index of contemporary magazine reviews with issue, date, platform and score; individual pages checked for Zzap! 70, Datormagazin, Joystick 4 and 11, Zero 18, Amiga Action 21, Amiga Format 22, Amiga Joker, Amiga Computing 37 and Amiga Mania
+[^ref-28]: [MobyGames – A-10 Tank Killer + Extra Missions](https://www.mobygames.com/game/24257/a-10-tank-killer-extra-missions/) – Amiga double pack, 1995: base game patched to v1.5 plus Campaign Set 2
+[^ref-29]: [Amiga Magazine Rack – A-10 Tank Killer reviews](https://amr.abime.net/review_32463) – index of contemporary magazine reviews with issue, date, platform and score; including ACAR (March 1992) and the 1995 Kixx re-release reviews in Amiga Format 71, The One Amiga 82 and Amiga Power 49
 [^ref-30]: [DOS Days – A-10 Tank Killer](https://dosdays.co.uk/topics/Games/game_a10.php) – author list, original media, system requirements, installed size
+[^ref-31]: [Wikipedia – Activision](https://en.wikipedia.org/wiki/Activision) – Activision changed its corporate name to Mediagenic in 1988 (Mediagenic era 1988–1991)
