@@ -4,15 +4,15 @@ type: publisher
 founded: 2016
 headquarters: "Wiesbaden, Germany"
 parent_company: null
-last_updated: '2026-10-26'
+last_updated: "2026-11-12"
 ---
 # Assemble Entertainment
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Assemble Entertainment GmbH is a German video game publisher based in Wiesbaden.[^ref-1][^ref-2] It was founded in 2016 by Stefan Marcinek, a co-founder of Kalypso Media Group.[^ref-16][^ref-17][^ref-22] Marcinek had co-founded Kalypso Media with Simon Hellwig in 2006 and sold his shares in January 2016.[^ref-22] In September 2025 Marcinek announced that its studio Gentlymad Studios, acquired in 2017, would close at the end of that month, leaving the Wiesbaden publisher with nine staff, including managing directors Stefan Marcinek and Daniel Gubala.[^ref-17]
+Assemble Entertainment GmbH is a German video game publisher based in Wiesbaden.[^ref-1][^ref-2] It was founded in 2016 by Stefan Marcinek, a co-founder of Kalypso Media Group.[^ref-16][^ref-17][^ref-22] Marcinek had co-founded Kalypso Media with Simon Hellwig in 2006 and sold his shares in January 2016.[^ref-22] In September 2025 Marcinek announced that its studio Gentlymad Studios, acquired in October 2017, would close at the end of that month, leaving the Wiesbaden publisher with nine staff, including managing directors Stefan Marcinek and Daniel Gubala.[^ref-17]
 
 ## Sierra Connection
 
