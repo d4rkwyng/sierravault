@@ -10,15 +10,15 @@ series: Police Quest
 engine: SCI2
 protagonist: Detective John Carey
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Police Quest: Open Season, released in 1993, marked a radical departure
   from the established Police Quest series. Produced by Sierra On-Line in cooperation
-  with former LAPD chief Daryl F. Gates...'
+  with former LAPD chief Daryl F. Gates.'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -112,7 +112,22 @@ The credited cast included Brandon Massey as Detective John Carey, Andrew Witche
 
 Open Season runs on Sierra's SCI2 engine[^ref-9]; MobyGames reviewer Katakis believes it was the first game to use SCI2, whose main features include support for 640×480 resolution, and calls it "the first Sierra game to feature photo-realistic backgrounds, long before the likes of Phantasmagoria and its sequel"[^ref-30].
 
+ScummVM's compatibility chart (ID `sci:pq4`) rates the game "Good" support: "Game may have minor issues that do not impact the experience. Games can be played all the way through." The DOS version is listed as supported and the Macintosh version as unsupported[^ref-52].
+
 The game came with an abridged LAPD manual of about 50 pages[^ref-14], which contained detailed regulations such as "the prescribed trousers belt shall be worn under the Police Equipment Belt. It shall be adjusted so that no part other than the top edge is visible"[^ref-14]. This manual served as both a reference guide and an attempt to add authenticity to the gaming experience.
+
+### Development Credits
+
+MobyGames lists the following among the DOS version's credits[^ref-53]:
+
+- **Producer / Director / Designer / Writer:** [[Tammy Dargan]]
+- **Author:** [[Daryl Gates|Daryl F. Gates]]
+- **Art Designer:** Darrin Fuller
+- **Lead Programmer:** Doug Oldfield
+- **Composer:** Neal Grandstaff
+- **Cinematographer:** Rod Fung
+- **Artists:** Dana Moody, Barry T. Smith, Donald Waller
+- **Programmers:** David Artis, Cynthia Joseph, Scott Murphy
 
 ### Cast
 
@@ -143,6 +158,7 @@ The game came with an abridged LAPD manual of about 50 pages[^ref-14], which con
 | CD-ROM | 1994 | DOS/Windows | Recorded audio replaces on-screen text[^ref-18]; 10,000 lines of dialogue[^ref-22] |
 | — | 1993 | Mac OS | Macintosh release[^ref-15] |
 | Digital | 2011 | Windows | GOG.com release as part of Police Quest Collection[^ref-9][^ref-40] |
+| Digital | February 20, 2026 | Windows | GOG update to the Police Quest Collection: "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support. Validated stability. Verified compatibility with Windows 10 and 11."[^ref-40] |
 
 ## Legacy
 
@@ -152,14 +168,27 @@ PC Gamer's Andy Kelly summed up the game in a retrospective review: "There's no 
 
 The game also serves as a historical artifact of early 1990s attitudes toward policing and urban crime. As Jimmy Maher noted in The Digital Antiquarian: "the jingoistic Gates game is a prime case in point" when discussing games that failed to handle complex social questions with appropriate nuance[^ref-48].
 
+### Collections
+
+MobyGames lists Open Season as included in these compilations[^ref-15]:
+
+- Daryl F. Gates' Police Quest Collection: The 4 Most Wanted (1995)
+- Adventure: 3 Out-Of-This-World Games (1996)
+- Police Quest: Collection Series (1997)
+- MacPack Sneak Attack (1997)
+- SWAT Career Pack (2000)
+- Police Quest Collection (2006)
+
 ## Downloads
 
 **Purchase / Digital Stores**
 - [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – includes Open Season[^ref-39]
 - [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – includes Open Season[^ref-40]
 
-**Download / Preservation**
+**Manuals & Extras**
 - [Internet Archive - Manual](https://archive.org/details/Police_Quest_4_-_Manual)[^ref-41]
+
+**Download / Preservation**
 - [Internet Archive - Video playthrough](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
 
 ## See Also
@@ -169,6 +198,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [[1991 - Police Quest III - The Kindred]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 - [[1995 - Police Quest - SWAT]]
+- [[Police Quest Series]]
 
 ## References
 
@@ -193,7 +223,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – SCI2 engine and 640×480 support, Dargan background
 [^ref-34]: [MobyGames User Review - ETJB, "Ahead of Its Time" (2010)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – Puzzles and procedure; comparison with Grand Theft Auto
 [^ref-39]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Current digital availability (released Aug 29, 2016)
-[^ref-40]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Digital distribution platform availability
+[^ref-40]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Digital distribution platform availability; changelog dated 20 February 2026 (ScummVM switch, Cloud Saves)
 [^ref-41]: [Internet Archive Manual](https://archive.org/details/Police_Quest_4_-_Manual) – Game manual preservation
 [^ref-42]: [Internet Archive – Live Wire: Police Quest Open Season (Noah Antwiler)](https://archive.org/details/live-wire-police-quest-open-season) – Video playthrough preservation
 [^ref-48]: [The Digital Antiquarian – Spycraft: The Great Game, Part 1](https://www.filfre.net/2023/03/spycraft-the-great-game-part-1-or-parallel-spies/) – "the jingoistic Gates game is a prime case in point"
@@ -201,3 +231,5 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-49]: [Computer Gaming World Issue 116 (March 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_116) – Dennis Owens, "Book 'em, Daryl!", p. 45: "moody and evocative" score; "Open Season tells that story magnificently"
 [^ref-50]: [Electronic Games, October 1994, Internet Archive](https://archive.org/details/electronic-games-1994-10z) – Clayton Walnum review, B+: "a rewarding and eye-opening experience"
 [^ref-51]: [Next Generation Issue #9 (September 1995), Internet Archive](https://archive.org/details/nextgen-issue-009) – Macintosh review, two stars: "the ultimate Sierra police-based game is still a fond dream to look forward to"
+[^ref-52]: [ScummVM – Compatibility (DEV): Police Quest IV: Open Season](https://www.scummvm.org/compatibility/DEV/sci:pq4) – Support level "Good"; DOS supported, Macintosh unsupported
+[^ref-53]: [MobyGames – Credits (DOS, 1993)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/) – Development credits: Fuller, Oldfield, Grandstaff, Fung, Moody, Smith, Waller, Artis, Joseph, Murphy
