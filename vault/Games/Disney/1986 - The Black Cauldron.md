@@ -49,7 +49,7 @@ The game follows the basic plot structure of the Disney film but allows for sign
 
 Wikipedia's article on the game calls the interface innovative and says it would not reappear in the genre for the next ten years[^ref-3]. To make the game more accessible to children, Sierra removed the text parser and used function keys instead[^ref-3]. Players moved Taran with the arrow keys and interacted with the world through specific function keys: F3 to choose inventory items, F4 to use inventory items, F6 to use items near the character's location, and F8 to look at objects[^ref-3][^ref-6].
 
-Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 1/5, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11]. In a February 2026 interview with Spillhistorie.no, Al Lowe said: "I didn't know it at the time, but I feel like I invented the point-and-click adventure." He added: "Because that whole game could be played with a mouse or a joystick."[^ref-35]
+Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 1/5, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11]. In a February 2026 interview with Spillhistorie.no, Al Lowe said: "I didn't know it at the time, but I feel like I invented the point-and-click adventure." He added: "Because that whole game could be played with a mouse or a joystick."[^ref-35] He qualified this: "I used the function keys instead of clicking icons and stuff. Roberta added the icons with King's Quest V, I think."[^ref-35]
 
 ### Structure and Progression
 
@@ -82,7 +82,7 @@ User reviews on aggregate sites show more positive reception, with MyAbandonware
 
 ### Origins
 
-Disney had no in-house software developers at the time[^ref-4]. Al Lowe has given two accounts of why Disney came to him. On his own website he says Disney "had seen my very early game, 'Troll's Tale'"[^ref-4]. In a 2010 interview excerpted by Game Developer, he said, "They liked what I did on Winnie the Pooh, and they wanted someone to make a game from their new film"[^ref-22]. He also recalled that Disney's side "didn't really understand video games at that time; the job was assigned to the same women who were in charge of educational film strips for the schools"[^ref-22].
+Disney had no in-house software developers at the time[^ref-4]. Sierra bought the Disney licence, with Disney's tacit approval, from Texas Instruments; buying the existing contract let Sierra avoid Disney's usual large upfront licensing fee, though Jimmy Maher writes that Sierra paid heavily on the back end through royalties[^ref-34]. Al Lowe has given two accounts of why Disney came to him. On his own website he says Disney "had seen my very early game, 'Troll's Tale'"[^ref-4]. In a 2010 interview excerpted by Game Developer, he said, "They liked what I did on Winnie the Pooh, and they wanted someone to make a game from their new film"[^ref-22]. He also recalled that Disney's side "didn't really understand video games at that time; the job was assigned to the same women who were in charge of educational film strips for the schools"[^ref-22].
 
 ### Production
 
@@ -105,9 +105,11 @@ Contemporary records date the IBM PC version to late 1985, earlier than the 1986
 | IBM PC/PCjr (DOS) | October 1985 (S&P); advertised December 1985; MobyGames lists 1986 | Standard & Poor's "(10/85)"[^ref-32]; Sierra advertisement, $39.95[^ref-33]; MobyGames[^ref-1] |
 | Apple II, Atari ST | April 1986 | MobyGames[^ref-1] |
 | Amiga, Apple IIgs | 1987 | MobyGames[^ref-1] |
-| AGI1 builds | Interpreter 1.1J, 1.1K, 1.1M (Apple II build 1.20) | ScummVM wiki's list of Sierra interpreter versions[^ref-38] |
+| AGI1 builds | Game versions 1.1J, 1.1K, 1.1M; interpreter 1.12 listed for 1.1K and 1.1M (Apple II interpreter 1.20) | ScummVM wiki's list of Sierra interpreter versions[^ref-38] |
 | AGI2 build | Game version 2.00, interpreter 2.439, June 14, 1987 | ScummVM wiki[^ref-38] |
 | AGI3 build | Game version 2.10, interpreter 3.002.098, November 10, 1988 | ScummVM wiki[^ref-38] |
+
+MobyGames trivia notes that The Black Cauldron was the only Sierra game developed in three generations of Sierra's game system: AGI v1 (a booter disk), AGI v2 and AGI v3[^ref-39].
 
 ## Legacy
 
@@ -144,7 +146,7 @@ Disney's original backgrounds and animation cells were used to model the game's 
 
 ## References
 
-[^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – Developer and publisher information; platform release dates (read via the MobyGames API)
+[^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – Developer and publisher information; platform release dates
 [^ref-2]: [DOSGames.com - The Black Cauldron](https://dosgames.com/game/black-cauldron-the/) – Al Lowe attribution; site rating
 [^ref-3]: [Wikipedia - The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_%28video_game%29) – Function-key interface replacing the parser; October–December 1985 release
 [^ref-4]: [Al Lowe's Website - Games](https://allowe.com/downloads/games.html) – First-hand development account; official freeware download
@@ -176,4 +178,5 @@ Disney's original backgrounds and animation cells were used to model the game's 
 [^ref-35]: [Spillhistorie.no - Interview with Sierra veteran Al Lowe](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) – Interview by Roar Granevang, February 2026: "that whole game could be played with a mouse or a joystick"
 [^ref-36]: [Wikipedia - Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – "Crowe was the Art Director for the game when Murphy was added as a programmer"
 [^ref-37]: [The Black Cauldron Manual (Internet Archive)](https://archive.org/details/The_Black_Cauldron_Manual) – Scan of "How to Play The Black Cauldron" Player's Manual, credited to Annette Childs, with Sierra On-Line and Walt Disney Productions copyright lines
-[^ref-38]: [ScummVM Wiki - Sierra Game Versions (Wayback copy)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – AGI interpreter versions for The Black Cauldron: AGI1 1.1J/1.1K/1.1M, AGI2 2.439 (1987-06-14), AGI3 3.002.098 (1988-11-10)
+[^ref-38]: [ScummVM Wiki - Sierra Game Versions (Wayback copy)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – AGI versions for The Black Cauldron: AGI1 game versions 1.1J/1.1K/1.1M, interpreter 1.12 for 1.1K/1.1M (Apple II interpreter 1.20), AGI2 2.439 (1987-06-14), AGI3 3.002.098 (1988-11-10)
+[^ref-39]: [MobyGames - The Black Cauldron: Trivia](https://www.mobygames.com/game/194/the-black-cauldron/trivia/) – Engine trivia: "the only Sierra game to be developed in three generations of Sierra's game system, As AGI v1 (a booter disk), AGI v2 and AGI v3"
