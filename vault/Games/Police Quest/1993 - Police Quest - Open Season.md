@@ -44,6 +44,9 @@ The game opens at a crime scene described by the narrator: "The tortured and tor
 
 The story involves Carey tracking down a mass murderer, which takes elements from several books, such as Silence of the Lambs[^ref-7]. According to IMDb's trivia page, the killer is believed to be based on the serial murderer Jeffrey Dahmer[^ref-8]. Throughout the investigation, players are expected to follow LAPD procedure[^ref-18].
 
+> [!warning]- Plot Spoiler - Ending
+> Carey assembles a makeshift flamethrower, incinerates the killer and rescues the woman, and the game ends with the Los Angeles mayor presenting him with the LAPD Medal of Valor.[^ref-18]
+
 ## Gameplay
 
 ### Interface and Controls
@@ -116,6 +119,10 @@ ScummVM's compatibility chart (ID `sci:pq4`) rates the game "Good" support: "Gam
 
 The game came with an abridged LAPD manual of about 50 pages[^ref-14], which contained detailed regulations such as "the prescribed trousers belt shall be worn under the Police Equipment Belt. It shall be adjusted so that no part other than the top edge is visible"[^ref-14]. This manual served as both a reference guide and an attempt to add authenticity to the gaming experience.
 
+### Technical Specifications
+
+MobyGames reviewer Katakis writes that the game came on twelve floppy disks or one CD-ROM, with the CD version containing full speech throughout. The disk version offers a choice of 320x200 or 640x480 resolution, which the same reviewer says is selectable through the installation program[^ref-30].
+
 ### Development Credits
 
 MobyGames lists the following among the DOS version's credits[^ref-53]:
@@ -155,7 +162,7 @@ MobyGames lists the following among the DOS version's credits[^ref-53]:
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Floppy | November 27, 1993 | DOS | Original floppy release[^ref-11] |
-| CD-ROM | 1994 | DOS/Windows | Recorded audio replaces on-screen text[^ref-18]; 10,000 lines of dialogue[^ref-22] |
+| CD-ROM | 1994 | DOS/Windows | Recorded audio replaces on-screen text[^ref-18]; 10,000 lines of dialogue[^ref-22]; also included a two-minute promotional video and copies of official LAPD documents[^ref-18] |
 | — | 1993 | Mac OS | Macintosh release[^ref-15] |
 | Digital | 2011 | Windows | GOG.com release as part of Police Quest Collection[^ref-9][^ref-40] |
 | Digital | February 20, 2026 | Windows | GOG update to the Police Quest Collection: "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support. Validated stability. Verified compatibility with Windows 10 and 11."[^ref-40] |
