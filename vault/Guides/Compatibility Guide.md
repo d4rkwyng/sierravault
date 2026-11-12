@@ -1,11 +1,11 @@
 ---
 title: "Patch & Compatibility Guide"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Patch & Compatibility Guide
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 This guide highlights essential fixes, installers, and configuration tips for running Sierra-era games on modern systems. Combine these with the [[Platform Guide]] and [[Buying Guide]] for best results.
 
@@ -67,6 +67,8 @@ ScummVM provides dedicated engines for Sierra games, with compatibility ratings 
 - *Manhunter 1–2*
 - *Gold Rush!*
 - *Mixed-Up Mother Goose* (original)
+- *The Black Cauldron*
+- *Donald Duck's Playground*
 
 **SCI Engine** – Sierra's Creative Interpreter (1988–1996):[^ref-10]
 - *King's Quest I* SCI remake, *King's Quest IV* (SCI version), *King's Quest V–VII* (KQ7 rated "Good")
@@ -124,7 +126,7 @@ These titles do not appear on ScummVM's compatibility list:[^ref-1]
 
 ## DOSBox Staging
 
-**Current version:** Check [dosbox-staging.org](https://www.dosbox-staging.org/) for the latest release[^ref-11]
+**Current version:** DOSBox Staging 0.83.0 (Aug 27, 2026)[^ref-50]; check [dosbox-staging.org](https://www.dosbox-staging.org/) for the latest release[^ref-11]
 - [Download page](https://www.dosbox-staging.org/download/)
 - Modern fork with improved accuracy, custom shader support, and built-in MIDI support[^ref-11]
 
@@ -140,7 +142,7 @@ Use SierraHelp's DOSBox installers when available; they set the game up to start
 ## Windows 11 Compatibility
 
 ### Known Issues
-- **16-bit installers fail** – Windows 11 has no 16-bit subsystem. Use:
+- **16-bit installers fail** – x64-based versions of Windows don't support 16-bit programs.[^ref-51] Use:
   - [OTVDM (winevdm)](https://github.com/otya128/winevdm) – a 16-bit Windows emulator ported to 64-bit Windows, for running `SETUP.EXE`[^ref-24]
   - SierraHelp's modern installers (they download and install DOSBox or ScummVM if needed)[^ref-18]
 - **Antivirus false positives** – SierraHelp notes that some anti-virus programs may give a false positive for some of its installers, "particularly true of Avast, Norton and McAfee"[^ref-18]
@@ -148,15 +150,16 @@ Use SierraHelp's DOSBox installers when available; they set the game up to start
 ### Windows 95/98 Titles on Windows 11
 - Use a current dgVoodoo2 release (v2.87.6 as of October 2026) for DirectDraw/Direct3D games[^ref-25]
 
-## macOS Compatibility (Sonoma/Sequoia/Tahoe)
+## macOS Compatibility (Sonoma/Sequoia/Tahoe/Golden Gate)
 
-### macOS 14 Sonoma, macOS 15 Sequoia & macOS 26 Tahoe
+### macOS 14 Sonoma, macOS 15 Sequoia, macOS 26 Tahoe & macOS 27 Golden Gate
+macOS 27 Golden Gate launched on September 14, 2026.[^ref-49]
+
 Apple Silicon Macs require specific approaches:
 
 **ScummVM** – Native Apple Silicon version available
 - Download the macOS 10.13+ build for Intel and Apple Silicon from [scummvm.org](https://www.scummvm.org/downloads/)[^ref-7]
-- Works natively on M1/M2/M3/M4 Macs
-- No Rosetta 2 required for ScummVM itself
+- Runs natively on Apple Silicon[^ref-7]
 
 **DOSBox Staging** – Native Apple Silicon support
 - 64-bit dynamic recompilation on ARM[^ref-11]
@@ -207,7 +210,7 @@ For original Macintosh Sierra games:
 
 ## References
 
-[^ref-1]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – per-game ratings checked 2026-10-16: AGI titles "Good" except KQ2 "Excellent"; GK2, Phantasmagoria 2 "Excellent"; PQ: SWAT, PQ4, SQ6, KQ7, Phantasmagoria, Lighthouse, DGDS games "Good"; QFG5, GK3, KQ8, SWAT 2/3, Shivers Two absent
+[^ref-1]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – per-game ratings checked 2026-11-12: AGI titles (including The Black Cauldron and Donald Duck's Playground) "Good" except KQ2 "Excellent"; GK2, Phantasmagoria 2 "Excellent"; PQ: SWAT, PQ4, SQ6, KQ7, Phantasmagoria, Lighthouse, DGDS games "Good"; QFG5, GK3, KQ8, SWAT 2/3, Shivers Two absent
 [^ref-2]: [ScummVM – 2026.1.0 "Like a Version" is finally released (Jan 31, 2026)](https://www.scummvm.org/news/20260131/) – new version numbering, "more frequent releases", 12 new engines, "at least 194 titles", optional SDL3, Android/iOS upgrades
 [^ref-3]: [ScummVM – 2.9.0 release news (Dec 22, 2024)](https://www.scummvm.org/news/20241222/) – Rise of the Dragon newly supported
 [^ref-4]: [ScummVM – NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) – release dates for 2.9.0, 2.9.1, 2026.1.0–2026.4.0; 2026.1.0 "Added support for The Adventures of Willy Beamish… Heart of China"; 2026.1.0 SCI fixes ("Fixed PHANT1 losing save files", "Fixed PQ2 phone when dialing wrong numbers", "Fixed script bugs in ECO1, LSL6, PEPPER") and AGI/ADL "Added Text-to-Speech support"; 2.9.1 SCI fixes
@@ -255,9 +258,15 @@ For original Macintosh Sierra games:
 [^ref-46]: [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Changelog (20 February 2026): "Police Quest 1, 2, 3, 4: Switched emulation from DOSBox to ScummVM. Added Cloud Saves support."
 [^ref-47]: [GOG.com – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – v2 changelog (29 October 2026): "Added the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode"; DOS version stays on DOSBox
 [^ref-48]: [SpaceQuest.Net](https://spacequest.net/) – "tribute to Space Quest"; sections for news, message board and links to other fansites
+[^ref-49]: [9to5Mac – Apple confirms macOS 27 Golden Gate launch date: September 14 (Sep 9, 2026)](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) – macOS 27 Golden Gate "will launch on September 14"
+[^ref-50]: [DOSBox Staging – GitHub releases](https://github.com/dosbox-staging/dosbox-staging/releases) – v0.83.0 marked "Latest", published 2026-08-27
+[^ref-51]: [Microsoft Learn – 64-bit versions of Windows don't support 16-bit components, 16-bit processes, or 16-bit applications](https://learn.microsoft.com/en-us/troubleshoot/windows-client/application-management/x64-windows-not-support-16-bit-programs) – "The x64-based versions of Windows don't support 16-bit programs, 16-bit processes, or 16-bit components."
 
 ## See Also
 - [[ScummVM]]
 - [[Buying Guide]]
 - [[Sierra Creative Interpreter]]
 - [[Adventure Game Interpreter]]
+- [[Playing Sierra Games Today]]
+- [[Platform Guide]]
+- [[Engine Index]]
