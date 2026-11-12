@@ -10,17 +10,17 @@ series: King's Quest
 engine: Unconfirmed
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'King''s Quest IV Remake is an unreleased fan remake of Sierra''s 1988 King''s Quest IV: The Perils of Rosella attributed to Infamous Adventures. Its only recent progress report is a patron-only January 2026 Patreon post, and no release date has been announced.'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-King's Quest IV Remake is an unreleased fan remake of Sierra's 1988 classic *King's Quest IV: The Perils of Rosella*, associated with [[Infamous Adventures]]. Infamous Adventures previously released VGA-style remakes of [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III]] (2006) and [[2011 - Space Quest II VGA Remake|Space Quest II]] (2011).[^ref-9]
+King's Quest IV Remake is an unreleased fan remake of Sierra's 1988 classic *[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]]*, associated with [[Infamous Adventures]]. Infamous Adventures previously released VGA-style remakes of [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III]] (2006) and [[2011 - Space Quest II VGA Remake|Space Quest II]] (2011).[^ref-9]
 
 After completing their Space Quest II remake in December 2011, the founders announced in July 2012 that Infamous Adventures would stop producing games, and moved to commercial development as [[Infamous Quests]], releasing *Quest for Infamy* in 2014.[^ref-9] Whether the KQ4 remake is still active cannot be publicly confirmed. The only source naming it in recent years is a January 2026 Infamous Quests Patreon update that only patrons can read.[^ref-1] A September 2025 post on the same Patreon, also patron-only, is said to describe renewed activity on the Infamous Adventures Discord, but it does not name King's Quest IV.[^ref-2] The public Patreon posts since January 2026 do not mention the remake.[^ref-21][^ref-22] No release date has been announced.[^ref-1]
 
