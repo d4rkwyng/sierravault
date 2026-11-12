@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision, published by Coktel Vision in Europe in 1992 and by
@@ -20,7 +20,7 @@ tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ The interface includes a "Joker" hint system accessible via the top main menu, w
 
 ### Structure and Progression
 
-Unlike its predecessor, Gobliins 2 allows players to travel between rooms within each area, expanding the puzzle-solving possibilities.[^ref-4] The game is divided into seven worlds, each made up of three or four screens.[^ref-5] Progress is made by solving puzzles in each area, unlocking access to new regions as the goblins advance toward Amoniak's castle.
+Unlike its predecessor, Gobliins 2 allows players to travel between rooms within each area, expanding the puzzle-solving possibilities.[^ref-4] The game is divided into seven worlds, each made up of three or four screens according to the CU Amiga reviewer,[^ref-5] while the manual text reproduced by Sierra Chest describes the places as small worlds of 2 to 5 screens.[^ref-19] Progress is made by solving puzzles in each area, unlocking access to new regions as the goblins advance toward Amoniak's castle.
 
 The seven worlds, as named in a community walkthrough, are:[^ref-12]
 
@@ -205,7 +205,7 @@ No sales figures for Gobliins 2 have been found in available sources. The Sierra
 
 ### Continuity and Sequels
 
-In Goblins Quest 3, the player discovers that the main protagonist, Blount, was in fact the little prince that was kidnapped in Gobliins 2.[^ref-49][^ref-40] Gobliins 6 (2026) is the direct sequel to Gobliins 2: in it, Prince Buffoon has gone missing again, and Fingus and Winkle are once again tasked with finding him.[^ref-40][^ref-49] See [[2026 - Gobliins 6]].
+In Goblins Quest 3, the player discovers that the main protagonist, Blount, was in fact the little prince that was kidnapped in Gobliins 2.[^ref-49][^ref-40] Gobliins 6 (released February 13, 2026, developed by Pierre Gilhodes and published by Schnibble Productions) is the direct sequel to Gobliins 2: in it, Prince Buffoon has gone missing again, and Fingus and Winkle are once again tasked with finding him.[^ref-40][^ref-49][^ref-50] See [[2026 - Gobliins 6]].
 
 ### Collections
 
@@ -231,7 +231,7 @@ The Gobliiins games revolve around figuring out correct sequences of actions.[^r
 
 **Purchase / Digital Stores**
 - [GOG – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3
-- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026; Wikipedia lists a Nintendo Switch 2 release on August 17, 2026[^ref-49] ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/Gobliins2ThePrinceBuffoonDemo)
@@ -288,3 +288,4 @@ The Gobliiins games revolve around figuring out correct sequences of actions.[^r
 [^ref-47]: [GOG – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – includes Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3
 [^ref-48]: [Internet Archive – Computer Gaming World Issue 117 (April 1994)](https://archive.org/details/Computer_Gaming_World_Issue_117) – multimedia CD roundup entry on Gobliins II: "no less entertaining than the original", "much more sound and digitized voice acting than in the enhanced version of the first game"
 [^ref-49]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Blount in Goblins Quest 3 was the prince kidnapped in Gobliins 2; Gobliins 6 (2026) is the sequel to Gobliins 2
+[^ref-50]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/) – released February 13, 2026; developer Pierre Gilhodes, publisher Schnibble Productions; described as a sequel to GOBLiiNS2 and the search for Prince Buffoon
