@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Starsiege: Tribes", "Front Page Sports: Ski Racing", "Firefall"]
 companies: ["Dynamix", "Electronic Arts", "Pipeworks Software", "Sony Computer Entertainment America", "Red 5 Studios"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Scott Youngblood
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -87,7 +87,9 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 | 1998 | [[1998 - Starsiege - Tribes|Starsiege: Tribes]] | Lead Designer[^ref-17] |
 | 2001 | [[2001 - Tribes 2|Tribes 2]] | Special Thanks[^ref-17] |
 
-### Post-Dynamix (2001–2022)
+### Post-Dynamix (2001–2014)
+
+Credits follow MobyGames.[^ref-17]
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
@@ -96,8 +98,6 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 | 2006 | Syphon Filter: Dark Mirror | Sony Computer Entertainment | Lead Multiplayer Designer |
 | 2007 | Syphon Filter: Logan's Shadow | Sony Computer Entertainment | Special Thanks |
 | 2014 | Firefall | Red 5 Studios | Lead Designer (MobyGames: Design Team) |
-| 2022 | Call of Duty: Modern Warfare II | Activision | QA (Lionbridge, Boise); listed under the same MobyGames profile, not confirmed as the same person |
-| 2022 | The Walking Dead: Last Mile | Genvid Entertainment | Design; listed under the same MobyGames profile, not confirmed as the same person |
 
 ## References
 
