@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: GPL physics engine (derived)
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: NASCAR Racing 4 is a 2001 stock car racing simulation for Windows, developed
   by Papyrus Design Group and published by Sierra, covering all 21 tracks of the 2000
   NASCAR Winston Cup season.
@@ -18,7 +18,7 @@ tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 4
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ The physics engine is "derived from the GPL physics engine," with an aerodynamic
 | The Cincinnati Enquirer | 4.5/5 | [^ref-6] |
 | Computer Games Strategy Plus | 4/5 | Called it "the definitive NASCAR simulation" despite weak AI. Metacritic lists the same cdmag.com review under Computer Games Magazine as 80/100[^ref-6][^ref-22][^ref-16] |
 | Game Informer | 8/10 | [^ref-6] |
-| Jeuxvideo.com | 14/20 | [^ref-6] |
+| Jeuxvideo.com | 14/20 | [^ref-6][^ref-9] |
 | Gamekult | 5/10 | Found the gameplay repetitive: "tourner à gauche régulièrement pendant des heures, forcément, ce n'est pas très amusant"[^ref-6][^ref-17] |
 
 ### Modern Assessment
@@ -147,7 +147,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available on modern digital platforms as of October 2026
+- Not available on modern digital platforms as of November 2026
 
 **Download / Preservation**
 - [Internet Archive - Demo Version](https://archive.org/details/n4demo)[^ref-1]
@@ -164,6 +164,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 - [[1999 - NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3]]
 - [[2003 - NASCAR Racing 2003 Season]]
+- [[NASCAR Racing Series]]
 
 ## References
 
