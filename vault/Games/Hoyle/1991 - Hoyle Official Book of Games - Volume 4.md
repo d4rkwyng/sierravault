@@ -95,7 +95,7 @@ Each character has five unique expressions in full speech, such as reactions to 
 
 ### Origins
 
-The Hoyle series began in 1989 with Volume 1. Warren Schwader pitched it to Ken Williams and then designed and programmed it in Sierra's Creative Interpreter (SCI). Volume 1 was a spiritual sequel to Sierra's Hi-Res Cribbage (1981)[^ref-10].
+The Hoyle series began in 1989 with Volume 1. Warren Schwader pitched it to Ken Williams and then designed and programmed it in Sierra's Creative Interpreter (SCI). Volume 1 was a spiritual sequel to Sierra's [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] (1980)[^ref-10][^ref-35].
 
 According to InterAction, the idea for the remake came from The Sierra Network, where card players taught Ken Williams to play Bridge. Williams then talked to Schwader "about adding it to a VGA revision of Hoyle 1"[^ref-27]. Schwader and Robert Holmes, the project manager, chose Euchre as the second new game. Many players from the Midwest had written in to ask for it, and Schwader, originally from Wisconsin, was a Euchre expert[^ref-27].
 
@@ -268,3 +268,4 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 [^ref-32]: [InterAction Issue 16 (Winter 1992)](https://archive.org/details/inter-action-issue-16-winter-1992) - Sierra's own magazine, screenshot caption: computer players say their bids aloud; matrix of remaining legal bids
 [^ref-33]: [InterAction Issue 20 (Spring 1994)](https://archive.org/details/inter-action-issue-20-spring-1994) - Sierra's own magazine, Gabriel Knight 2 preview: Robert Holmes "directed not only the original Gabriel Knight" but also Hoyle's Classic Card Games
 [^ref-34]: [InterAction Issue 24 (Fall 1995)](https://archive.org/details/inter-action-issue-24-fall-1995) - Sierra's own magazine, Hoyle Classic Games product page: "Availability: Fall '95", Win 3.1 and Win 95 on CD, Mac version to follow
+[^ref-35]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – Apple II release year 1980 (read via the MobyGames API)
