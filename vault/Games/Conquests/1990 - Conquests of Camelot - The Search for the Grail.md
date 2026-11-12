@@ -10,7 +10,7 @@ series: Conquests
 engine: SCI0
 protagonist: King Arthur
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Mark Seibert]
 description: '*Conquests of Camelot: The Search for the Grail* is an adventure game
   released in 1990 by Sierra On-Line that places players in control of King Arthur
@@ -19,7 +19,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -134,7 +134,8 @@ The game underwent significant revision between its demonstration version shown 
 - **Art Designer:** [[Peter Ledger]] (also animator and background artist[^ref-32], and cover artist[^ref-1])
 - **Lead Programmer:** David Slayback
 - **Programmers:** Robert Fischbach, Doug Oldfield, Jerry Shaw, Eric Hart
-- **Animators:** Douglas Herring, Kenn Nishiuye, Andy Hoyos, Jennifer Shontz[^ref-31]
+- **Animators:** Douglas Herring, Andy Hoyos, [[Peter Ledger]], Kenn Nishiuye, Jennifer Shontz[^ref-31][^ref-32]
+- **Illustrated by:** [[Andy Hoyos]] (MobyGames credit)[^ref-36]
 - **Background Artists:** Douglas Herring, Julian Ledger, Peter Ledger[^ref-32]
 - **Camelot Combat System:** Douglas Herring[^ref-32]
 - **Composer:** [[Mark Seibert]]
@@ -301,3 +302,4 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-33]: [Christy Marx – Writing credits](https://christymarx.com/writing.htm) – designer's own site: "Awarded 'Best Computer Adventure Game of 1990' by VideoGames and Computer Entertainment magazine and Excellence Award from Game Player's magazine"
 [^ref-34]: [Wikipedia – Peter Ledger](https://en.wikipedia.org/wiki/Peter_Ledger) – "an Australian cartoonist, comic book artist, commercial airbrush artist, and illustrator"
 [^ref-35]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – Christy Marx interview, "Spotlight on Artist: Peter Ledger", and the "Product Shipping Schedule" note on projected ship dates
+[^ref-36]: [MobyGames – Andy Hoyos credit sheet (Wayback, December 2022)](https://web.archive.org/web/20221202035600/https://www.mobygames.com/developer/sheet/view/developerId,3683/) – Conquests of Camelot: "Illustrated by"
