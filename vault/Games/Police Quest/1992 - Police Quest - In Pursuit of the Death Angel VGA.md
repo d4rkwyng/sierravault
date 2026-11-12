@@ -103,13 +103,14 @@ Reviews of the 1987 AGI original are covered on [[1987 - Police Quest - In Pursu
 
 **Aggregate Scores (VGA remake):**
 - **MobyGames:** 72% critics average (11 ratings, as of October 2026)[^ref-7]
+- **MobyGames players:** 3.7/5 (40 ratings, as of November 2026)[^ref-7]
 - **IMDb:** 7.7/10 (48 ratings, as of October 2026)[^ref-2]
 
 ## Development
 
 ### Origins
 
-The Police Quest series grew out of a 1985 meeting between Sierra's Ken Williams and California Highway Patrol officer Jim Walls.[^ref-22] Walls was then on administrative leave to treat trauma from a shooting a year earlier. After Walls retired from the CHP in 1986, Williams asked him to write a short story about his experiences, which became the basis of the game's plot.[^ref-22]
+The Police Quest series grew out of a 1985 meeting between Sierra's Ken Williams and California Highway Patrol officer Jim Walls.[^ref-22] Walls was then on administrative leave after a shooting a year earlier. After Walls retired from the CHP in 1986, Williams asked him to write a short story about his experiences, which became the basis of the game's plot.[^ref-22]
 
 The Police Quest wiki's page on the original describes Walls as having "15 years on the police force".[^ref-11] Many incidents in the game were based on situations Walls encountered in the CHP.[^ref-22] The game drew on Walls' personal experiences as a patrol officer.[^ref-30]
 
@@ -128,6 +129,9 @@ Sierra's InterAction magazine introduced the new edition with "superb, full-colo
 - **Writer:** Patrick Bridgemon
 - **Art Director:** James Larsen
 - **Lead Programmer:** Mike Larsen
+- **Programming:** Chip Kerchner, Michael Brock, Hugh Diedrichs, Juan Carlos Escobar, [[Scott Murphy]], Todd Powers, Krishnan Shankar
+- **Additional Written Material:** [[Scott Murphy]], [[Lorelei Shannon]]
+- **Graphic Designer:** Mark Empey
 - **Composer:** Robert Atesalp (Music Director: Mark Seibert)
 - **Very Special Thanks To:** [[Stuart Moulder]][^ref-52]
 
@@ -295,6 +299,6 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 [^ref-47]: [MobyGames – Police Quest (VGA) DOS credits](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/credits/dos/) – full 1992 remake credits
 [^ref-48]: [AllGame – Police Quest: In Pursuit of the Death Angel [VGA] review (archived)](https://web.archive.org/web/20141115131203/http://www.allgame.com/game.php?id=23897&tab=review) – Alec Norands review of the remake; AllGame Rating image st_r3.gif shows two of five stars (MobyGames also lists 2/5)
 [^ref-49]: [GOG Database – Police Quest release notes](https://www.gogdb.org/product/1207661263/releasenotes) – 20 February 2026: switched emulation from DOSBox to ScummVM, cloud saves
-[^ref-50]: [MobyGames – SWAT Career Pack](https://www.mobygames.com/game/31963/swat-career-pack/) – 2000 compilation "including the Police Quest 1 VGA remake"; lists both the 1987 entry and the VGA remake (read via the MobyGames API and the Wayback copy of 27 October 2025)
-[^ref-51]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows XP compilation of the first four games; links only to the 1987 entry for PQ1 (read via the MobyGames API)
+[^ref-50]: [MobyGames – SWAT Career Pack](https://www.mobygames.com/game/31963/swat-career-pack/) – 2000 compilation "including the Police Quest 1 VGA remake"; lists both the 1987 entry and the VGA remake
+[^ref-51]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows XP compilation of the first four games; links only to the 1987 entry for PQ1
 [^ref-52]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Very Special Thanks To" for Police Quest: In Pursuit of the Death Angel (1992, DOS)
