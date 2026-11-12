@@ -11,7 +11,7 @@ series: King's Quest
 engine: Unknown / reportedly Unreal Engine 3 (Silicon Knights)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '"King''s Quest IX" is an umbrella term for multiple cancelled attempts
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:
   Mask of Eternity.'
@@ -19,7 +19,7 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
@@ -40,14 +40,14 @@ Separately, a fan team spent a decade on *The Silver Lining*, which began life a
 As with KQ8, a sequel would not have carried a numeral in its title. Twins of Change writer Cindy Vanous recalled: "9 was not in the title, because Marketing decreed that several other big companies' series were no longer including installment numbers, so we should follow the naming trend."[^ref-2]
 
 > [!info]- Game Info
-> **Developer:** Sierra Studios Seattle, Silicon Knights, Telltale Games (various attempts); Phoenix Online Studios (unofficial fan project)
-> **Designer:** [[Roberta Williams]] (concept only), [[Mark Seibert]], Cindy Vanous (Twins of Change)
-> **Publisher:** Vivendi Games / [[Activision]] (various attempts)
-> **Engine:** Unknown / reportedly Unreal Engine 3 (Silicon Knights)
-> **Platforms:** Never released
-> **Release Year:** Cancelled (1998–2013)
-> **Series:** King's Quest
-> **Protagonist:** Alexander, Rosella (Twins of Change)
+> **Developer:** Sierra Studios Seattle, Silicon Knights, Telltale Games (various attempts); Phoenix Online Studios (unofficial fan project)[^ref-1][^ref-2][^ref-16][^ref-19]
+> **Designer:** [[Roberta Williams]] (concept only), [[Mark Seibert]], Cindy Vanous (Twins of Change)[^ref-1][^ref-2]
+> **Publisher:** Vivendi Games / [[Activision]] (various attempts)[^ref-2][^ref-16][^ref-17]
+> **Engine:** Unknown / reportedly Unreal Engine 3 (Silicon Knights)[^ref-1]
+> **Platforms:** Never released[^ref-20]
+> **Release Year:** Cancelled (1998–2013)[^ref-1][^ref-20]
+> **Series:** King's Quest[^ref-20]
+> **Protagonist:** Alexander, Rosella (Twins of Change)[^ref-1][^ref-2]
 > **Sierra Lineage:** Core Sierra
 
 ---
@@ -121,7 +121,7 @@ Activision then took the series to The Odd Gentlemen for the 2015 reboot.[^ref-6
 
 Production began in October 2000, and in January 2002 the team was reorganised under César Bittar. Vivendi sent a cease-and-desist in September 2005. After a fan campaign, Vivendi granted the team a **Fan License** on November 29, 2005, on the condition that the King's Quest reference be removed from the title. After a further dispute with Activision, the company allowed the game's release on June 26, 2010, provided it stayed free.[^ref-19]
 
-The first episode was released on July 10, 2010, and Episode 4 followed in November 2011. Episode 5 has not been released.[^ref-18][^ref-19] Wikipedia reports that "Sometime in June 2014, Phoenix has turned over the rights to Activision" and lists Episode 5's development status as unknown.[^ref-19] Phoenix itself said otherwise later: a November 10, 2016 post promised Episode 5 "next year" (2017), with no release date set,[^ref-25] and a January 31, 2019 post said "this isn't a release date announcement" while describing Episode 5 as still being developed.[^ref-26] The game runs on the Torque Game Engine.[^ref-21] It remains an unofficial fan work outside the series canon.
+The first episode was released on July 10, 2010, and Episode 4 followed in November 2011. Episode 5 has not been released.[^ref-18][^ref-19] Wikipedia reports that "Sometime in June 2014, Phoenix has turned over the rights to Activision" and lists Episode 5's development status as unknown. Its introduction adds that the company "made a statement of releasing all rights to the game to Activision upon request."[^ref-19] Phoenix itself said otherwise later: a November 10, 2016 post promised Episode 5 "next year" (2017), with no release date set,[^ref-25] and a January 31, 2019 post said "this isn't a release date announcement" while describing Episode 5 as still being developed.[^ref-26] The game runs on the Torque Game Engine.[^ref-21] It remains an unofficial fan work outside the series canon.
 
 ---
 

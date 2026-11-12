@@ -10,7 +10,7 @@ series: King's Quest (unofficial fan game)
 engine: Torque Game Engine
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Silver Lining (TSL) is an episodic fan-made adventure game based
   on Sierra's beloved King's Quest series, developed and released in free download
   format...
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -154,7 +154,7 @@ Activision's terms required the game to stay free and hosted only on Phoenix's o
 
 ### Fan Projects
 
-After Episodes 3 and 4, many team members moved to paid work on the studio's second game, *Cognition*.[^ref-19] According to Wikipedia, Phoenix then stated that it would release all rights to the game to Activision upon request; Activision announced the revival of its Sierra label on August 7, 2014.[^ref-19]
+After Episodes 3 and 4, many team members moved to paid work on the studio's second game, *Cognition*.[^ref-19] Wikipedia states that the company "made a statement of releasing all rights to the game to Activision upon request," and that "Sometime in June 2014, Phoenix has turned over the rights to Activision"; it adds that Activision announced the opening of Sierra Entertainment on August 7, 2014.[^ref-19]
 
 ### Related Publications
 
