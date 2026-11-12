@@ -10,7 +10,7 @@ series: Arcanum
 engine: Custom in-house engine
 protagonist: The Living One
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Ben Houge]
 description: 'Arcanum: Of Steamworks & Magick Obscura is a notable role-playing
   game that merges Tolkienian high fantasy with Victorian-era steampunk, creating
@@ -19,7 +19,7 @@ tags: [2000s, arcanum, rpg, sierra]
 ---
 # Arcanum: Of Steamworks & Magick Obscura
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -209,7 +209,7 @@ The game offers extraordinary flexibility in how it can be completed:
 - **Pacifist Completion:** The game can be completed entirely without violence[^ref-2]
 - **Violent Completion:** Alternatively, every NPC can be killed and the game still completed[^ref-2]
 - **Kerghan Resolution:** The final boss confrontation can be resolved without combat if certain conditions are fulfilled[^ref-2]
-- **Character Aptitude:** Different endings based on magic vs. technology alignment
+- **Outcome-dependent endings:** The game is tagged "Multiple endings" on MobyGames,[^ref-17] and one MobyGames user reviewer wrote that to reach "a perfect good ending" the player has to solve most of the game's main problems, and failing one leads to a worse ending.[^ref-46] The fan-maintained Arcanum wiki counts 36 ending slides, each triggered by its own conditions, including quest outcomes in towns such as Shrouded Hills and Tarant and whether the player joins Kerghan.[^ref-59]
 
 ## Voice Cast
 
@@ -293,17 +293,17 @@ The official online multiplayer servers were shut down on November 1, 2008.[^ref
 - **Official Strategy Guide:** Prima Games, 240 pages, rated 4.7/5 stars. Described as providing "great breakdown of the character builds and how to proceed on each quest."[^ref-43]
 - **Manual:** Includes gameplay instructions, lore, and "Grandma Cookhill's Three Bowl Bread recipe"[^ref-17]
 - **Quick Reference Card:** Available as PDF[^ref-30]
-- **World Map:** Included with game[^ref-30]
+- **World Map:** MobyGames lists a world map as physical bonus content[^ref-17]; a Map PDF is also available on Sierra Help[^ref-30]
 
 ### Critical Perspective
 
-Arcanum represents one of the most ambitious attempts to create a truly open-ended role-playing experience, "since their inception, CRPGs have tried with varying degrees of success to create an open-ended, choice-driven roleplaying experience. Arcanum: of Steamworks & Magick Obscura is among first to do it legitimately well."[^ref-9] Its influence can be seen in later RPGs that emphasized player freedom and consequence.
+Arcanum represents one of the most ambitious attempts to create a truly open-ended role-playing experience, "since their inception, CRPGs have tried with varying degrees of success to create an open-ended, choice-driven roleplaying experience. Arcanum: of Steamworks & Magick Obscura is among first to do it legitimately well."[^ref-9] Retrospectives stress how rarely later games matched it: SUPERJUMP's Gavin Annand wrote in 2023 that "there have been few games since that have matched Arcanum in reactivity and impact of consequence,"[^ref-56] and CBR's Lukasz Furmaniak wrote in 2021 that "no other game has really done what Arcanum did."[^ref-57]
 
-The game's troubled technical state became emblematic of Troika's legacy—"Troika's games were full of great ideas, but they all debuted in a technical state that left a lot to be desired."[^ref-25] This pattern would repeat with Temple of Elemental Evil (2003) and Vampire: The Masquerade - Bloodlines (2004), all games that achieved cult status despite significant launch problems.
+The game's troubled technical state became emblematic of Troika's legacy—"Troika's games were full of great ideas, but they all debuted in a technical state that left a lot to be desired."[^ref-25] Troika's later games drew similar complaints: Wikipedia records mixed reviews for The Temple of Elemental Evil (2003) citing gameplay bugs and a lacking plot, and critics' warnings of bugs for Vampire: The Masquerade - Bloodlines (2004).[^ref-58] SUPERJUMP's Annand calls Arcanum "riddled with bugs on release" and describes Bloodlines as released "in its buggy and unfinished state," yet says all three of Troika's RPGs have become cult classics.[^ref-56]
 
 The magic/technology dichotomy created real mechanical tension: the game derives each character's aptitude toward magic or technology from their skills, and that aptitude modifies the effectiveness of every spell and every technological skill the character uses.[^ref-44]
 
-As MobyGames user reviewer MasterMegid summarized: "At the end of the day Arcanum is one of those ever so rare games. The ones that are flawed, but for every flaw there is also something that overrides it. And makes you forgot all the flaws."[^ref-46] Twenty years later, the game continues to attract new players and inspire deep affection from its dedicated community.
+As MobyGames user reviewer MasterMegid summarized: "At the end of the day Arcanum is one of those ever so rare games. The ones that are flawed, but for every flaw there is also something that overrides it. And makes you forgot all the flaws."[^ref-46] Retrospectives kept returning to it: SUPERJUMP reports that RPG Codex users ranked Arcanum #4 in a 2019 poll of the Top 101 PC RPGs of all time,[^ref-56] and CBR argued in 2021, twenty years after release, that the game still deserved a playthrough.[^ref-57]
 
 ## Downloads
 
@@ -377,3 +377,7 @@ As MobyGames user reviewer MasterMegid summarized: "At the end of the day Arcanu
 [^ref-53]: [MobyGames – Arcanum: Of Steamworks & Magick Obscura (Collector's Edition)](https://www.mobygames.com/game/108029/arcanum-of-steamworks-magick-obscura-collectors-edition/) – Poland-exclusive edition, Play-It, released October 1, 2001
 [^ref-54]: [Arcanum Version 1.0.7.4 Readme (Sierra support text, mirrored by Arcanum Club)](https://arcanumclub.org/sierra/support/arcanum_update1074.html) – official patch fix list
 [^ref-55]: [Forbes – The Top 12 Video Game Soundtracks Of All Time (Erik Kain, September 8, 2012)](https://www.forbes.com/sites/erikkain/2012/09/08/the-top-12-video-game-soundtracks-of-all-time/) – Arcanum listed at No. 10 of 12; list compiled from reader picks
+[^ref-56]: [SUPERJUMP – The Brief Reign of Troika Games (Gavin Annand, April 28, 2023)](https://www.superjumpmagazine.com/the-brief-reign-of-troika-games/) – "riddled with bugs on release", Bloodlines "buggy and unfinished state", Troika RPGs as cult classics, RPG Codex 2019 poll, reactivity and consequence
+[^ref-57]: [CBR – Arcanum: Of Steamworks and Magick Obscura Deserves Another Look (Lukasz Furmaniak, May 5, 2021)](https://www.cbr.com/arcanum-steamworks-magick-obscura-rpg/) – retrospective: "no other game has really done what Arcanum did"
+[^ref-58]: [Wikipedia – Troika Games](https://en.wikipedia.org/wiki/Troika_Games) – Temple of Elemental Evil mixed reviews citing gameplay bugs; Bloodlines critics warned of bugs
+[^ref-59]: [Arcanum Fandom Wiki – Endings](https://arcanum.fandom.com/wiki/Endings) – 36 ending slides, each with its own trigger conditions (fan-maintained)
