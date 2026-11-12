@@ -59,15 +59,15 @@ Tomahawk's own titles came out between 1988 and 1991; MobyGames credits it on 14
 [^ref-17]: [MobyGames - Geisha](https://www.mobygames.com/game/3844/geisha/) - Release data: Tomahawk (France, Germany, Italy, UK, Spain), 1990
 [^ref-18]: [MobyGames - E.S.S Mega](https://www.mobygames.com/game/7733/ess-mega/) - Release data: Tomahawk, 1991
 [^ref-19]: [MobyGames - A.G.E.](https://www.mobygames.com/game/4570/age/) - Release data: Tomahawk (France, Atari ST), 1991
-[^ref-20]: [MobyGames - Fascination](https://www.mobygames.com/game/9399/fascination/) - Release data (read via the MobyGames API): Tomahawk (France, Germany, Italy, UK, Spain), 1991–1992; developers Coktel Vision and MDO; genres adventure, detective/mystery, adult
-[^ref-21]: [MobyGames - Cougar Force](https://www.mobygames.com/game/25302/cougar-force/) - Release data (read via the MobyGames API): Tomahawk, 1990–1991; developers MDO and Coktel Vision
-[^ref-22]: [MobyGames - Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) - Release data (read via the MobyGames API): Tomahawk (France, Germany), 1990; developers Coktel Vision and MDO
-[^ref-23]: [MobyGames - E.S.S.](https://www.mobygames.com/game/50218/ess/) - Release data (read via the MobyGames API): Tomahawk, 1989; Coktel Vision, with Inférence also credited on Amiga and Atari ST; genre simulation
+[^ref-20]: [MobyGames - Fascination](https://www.mobygames.com/game/9399/fascination/) - Release data: Tomahawk (France, Germany, Italy, UK, Spain), 1991–1992; developers Coktel Vision and MDO; genres adventure, detective/mystery, adult
+[^ref-21]: [MobyGames - Cougar Force](https://www.mobygames.com/game/25302/cougar-force/) - Release data: Tomahawk, 1990–1991; developers MDO and Coktel Vision
+[^ref-22]: [MobyGames - Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) - Release data: Tomahawk (France, Germany), 1990; developers Coktel Vision and MDO
+[^ref-23]: [MobyGames - E.S.S.](https://www.mobygames.com/game/50218/ess/) - Release data: Tomahawk, 1989; Coktel Vision, with Inférence also credited on Amiga and Atari ST; genre simulation
 [^ref-24]: [Tilt n°98 (January 1992)](https://archive.org/details/Tilt098) - *Gobliiins* review: "Editeur : Tomahawk. Chef de projet : Muriel Tramis"
 [^ref-25]: [Tilt n°102 (May 1992)](https://archive.org/details/Tilt102) - Amiga reviews of *A.G.E.* and *Fascination*, each with "Editeur _ TOMAHAWK"
 [^ref-26]: [Tilt n°103 (June 1992)](https://archive.org/details/Tilt103) - *Fascination* CD-ROM: "Tomahawk, distribué par Euro-CD"
-[^ref-27]: [MobyGames - No Exit](https://www.mobygames.com/game/3924/no-exit/) - Release data (read via the MobyGames API): Tomahawk, 1990; developers MDO and Coktel Vision; genres action, fighting/martial arts
-[^ref-28]: [MobyGames - Paris Dakar 90](https://www.mobygames.com/game/50276/paris-dakar-90/) - Release data (read via the MobyGames API): Tomahawk (France, Germany, Italy, Spain, UK), 1990; developer Coktel Vision; genre racing/driving
-[^ref-29]: [MobyGames - Skidoo](https://www.mobygames.com/game/41832/skidoo/) - Release data (read via the MobyGames API): Tomahawk, 1989; developer Coktel Vision; genres racing/driving, simulation
+[^ref-27]: [MobyGames - No Exit](https://www.mobygames.com/game/3924/no-exit/) - Release data: Tomahawk, 1990; developers MDO and Coktel Vision; genres action, fighting/martial arts
+[^ref-28]: [MobyGames - Paris Dakar 90](https://www.mobygames.com/game/50276/paris-dakar-90/) - Release data: Tomahawk (France, Germany, Italy, Spain, UK), 1990; developer Coktel Vision; genre racing/driving
+[^ref-29]: [MobyGames - Skidoo](https://www.mobygames.com/game/41832/skidoo/) - Release data: Tomahawk, 1989; developer Coktel Vision; genres racing/driving, simulation
 [^ref-30]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC, via Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - Note 2, Coktel: "On October 29, 1993, the Company acquired Coktel Vision S.A. ("Coktel"), a French developer and publisher of educational and entertainment software products"
-[^ref-31]: [MobyGames - E.S.S Mega release info](https://web.archive.org/web/20200727115730/https://www.mobygames.com/game/ess-mega/release-info) - DOS: "Published by Tomahawk" with country United States, release date 1991; also United Kingdom, 1991 (same data confirmed via the MobyGames API for game 7733)
+[^ref-31]: [MobyGames - E.S.S Mega release info](https://web.archive.org/web/20200727115730/https://www.mobygames.com/game/ess-mega/release-info) - DOS: "Published by Tomahawk" with country United States, release date 1991; also United Kingdom, 1991
