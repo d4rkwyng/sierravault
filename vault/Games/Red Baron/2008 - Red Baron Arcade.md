@@ -10,7 +10,7 @@ series: Red Baron
 engine: Stainless™ Software Engine Technology
 protagonist: Unnamed WWI Pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Red Baron Arcade is an arcade-style World War I flight combat game developed
   by Stainless Games Ltd. and published by Sierra Entertainment, released for Windows in
   February 2008 and on the PlayStation Network in March 2009.
@@ -18,7 +18,7 @@ tags: [2000s, red-baron, sierra, simulation]
 ---
 # Red Baron Arcade
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -93,13 +93,13 @@ MyAbandonware lists the game as abandonware and offers it as a free download[^re
 - **IGN (PS3):** 2/10[^ref-7]
 - **Amazon Customer Reviews:** 3.8/5 (4 ratings)[^ref-9]
 
-A planned Xbox 360 version never appeared. IGN's Sam Bishop reported that the game "was originally planned for the 360 as well, but was canned," adding: "When the already clogged 360 Marketplace won't have your game, perhaps it's best left to a could-have-been"[^ref-7].
+IGN reported that a planned Xbox 360 version never appeared: Sam Bishop wrote that the game "was originally planned for the 360 as well, but was canned," adding: "When the already clogged 360 Marketplace won't have your game, perhaps it's best left to a could-have-been"[^ref-7].
 
 ## Development
 
 ### Origins
 
-The original Red Baron, developed by Dynamix and released in 1990, won Computer Gaming World's 1991 Simulation of the Year award[^ref-23]; reviewing the arcade game, IGN's Sam Bishop advised readers to "go find the original Dynamix game instead"[^ref-7]. The decision to create an arcade-focused spinoff rather than a traditional simulation sequel produced a budget title with arcade and simulation control options[^ref-3].
+The original Red Baron, developed by Dynamix and released in 1990, won Computer Gaming World's 1991 Simulation of the Year award[^ref-23], and Kotaku noted that Computer Gaming World voted it the 4th best PC game of all time in 1996[^ref-27]; reviewing the arcade game, IGN's Sam Bishop advised readers to "go find the original Dynamix game instead"[^ref-7]. The decision to create an arcade-focused spinoff rather than a traditional simulation sequel produced a budget title with arcade and simulation control options[^ref-3].
 
 The project was handled by Stainless Games Ltd., a British studio based in Newport, Isle of Wight[^ref-18][^ref-19], which IGN identified as "the same people behind the Carmageddon series"[^ref-7]. The game runs on Stainless™ Software Engine Technology[^ref-1].
 
@@ -107,7 +107,7 @@ The project was handled by Stainless Games Ltd., a British studio based in Newpo
 
 The PC version shipped on February 19, 2008[^ref-1]. The PlayStation 3 version's release was then delayed: Shacknews reported on August 26, 2008 that it would be released as a downloadable game on September 18[^ref-20], and Engadget's September 8, 2008 hands-on said to expect it on the PlayStation Store "later this month"[^ref-21]. GamesRadar+ wrote in August 2009 that the game was "Originally penciled in for a release last year" but "disappeared into the ether after Activision swallowed the whole of Sierra," before it "crash-landed on the PSN store" six months later[^ref-6].
 
-IGN's Sam Bishop wrote that he had previewed the PlayStation 3 version "at the start of last September" and that "not a single thing has changed from that build"; the release slid "from what was originally going to be a few weeks after our preview all the way until now, almost six months later"[^ref-7]. MobyGames lists the PlayStation 3 download release as March 12, 2009[^ref-16].
+IGN's Sam Bishop wrote that he had previewed the PlayStation 3 version "at the start of last September" and that "not a single thing has changed from that build"; the release slid "from what was originally going to be a few weeks after our preview all the way until now, almost six months later"[^ref-7]. MobyGames lists the PlayStation 3 download release as March 12, 2009[^ref-16]. On release day the PlayStation Blog said the game was "coming out today exclusively on the PlayStation Store" with a free demo, 20 WWI aircraft and online battles against "up to 7 other players" in Deathmatch, Team-Deathmatch and Capture the Flag[^ref-26]; Engadget reported the price as $9.99[^ref-25]. Engadget had reported in November 2008 that the game's fate was unclear after Activision's acquisition of Sierra[^ref-24], and Gamasutra later described it as a "poorly-received new game"[^ref-28].
 
 **Development Credits:**[^ref-17]
 - **Developer:** Stainless Games Ltd.
@@ -141,13 +141,7 @@ Red Baron Arcade featured support for online multiplayer accommodating up to 8 s
 **PlayStation 3 Version:**[^ref-4]
 - **Distribution:** PlayStation Network digital download
 - **Product ID:** NPUB-30030
-- **Price:** $10 USD[^ref-7]
-
-### Technical Issues
-
-Red Baron Arcade suffered from numerous technical problems across both platforms. An Amazon customer reported that the game "hangs up frequently on Vista, Win XP and a Win 95 machines"[^ref-9]. The PlayStation 3 version exhibited more severe issues including choppy graphics despite modest visual fidelity, poor framerate during gameplay, and long loading times of "upwards of 20 or more seconds" for brief missions[^ref-7].
-
-IGN noted that "Some objects have ridiculous bounding boxes that will cause your plane to crash if you hit their invisible walls, leading to some cheap deaths"[^ref-7]; reviewers also cited problems with the camera during bombing runs and a turbo button described as "about as powerful as a fart in a hurricane"[^ref-6][^ref-7]. Online multiplayer suffered from persistent lag issues and frequent host disconnections that rendered the mode largely unplayable[^ref-6][^ref-7].
+- **Price:** $9.99 USD[^ref-25] (rounded to $10 by IGN[^ref-7])
 
 ### Version History
 
@@ -155,14 +149,20 @@ IGN noted that "Some objects have ridiculous bounding boxes that will cause your
 |---------|------|----------|-------|
 | — | February 19, 2008 | Windows | Initial PC release[^ref-1][^ref-16] |
 | — | June 30, 2008 | Windows | US release date listed by GameFAQs and Metacritic[^ref-4][^ref-15]; Gas Bandit Gaming's review, dated 2 April 2008, already shows the game on sale at Amazon[^ref-3] |
-| — | September 18, 2008 | PlayStation 3 | PSN date listed by GameFAQs and HonestGamers; Shacknews (26 August 2008) reported this as the planned date[^ref-20]; IGN reports the release slid almost six months past its planned date[^ref-4][^ref-13][^ref-7] |
-| — | March 12, 2009 | PlayStation 3 | PSN download release (US)[^ref-16][^ref-22]; IGN review published March 18, 2009[^ref-7] |
+| — | September 18, 2008 (planned; not released) | PlayStation 3 | Planned PSN date only: GameFAQs and HonestGamers list it, and Shacknews (26 August 2008) reported it as the planned date[^ref-4][^ref-13][^ref-20]. The game did not release then: Engadget reported on 13 November 2008 that its fate was unclear, quoting a contact who could not confirm cancellation but said "Sierra Online is no longer however, so they won't publish"[^ref-24]; Engadget's 12 March 2009 report said the game, "originally scheduled for a September release last year, mysteriously disappeared once Activision Blizzard acquired Sierra Games"[^ref-25]; IGN reports the release slid almost six months past its planned date[^ref-7] |
+| — | March 12, 2009 | PlayStation 3 | PSN download release (US), with a free demo and a $9.99 price[^ref-16][^ref-22][^ref-25][^ref-26]; IGN review published March 18, 2009[^ref-7] |
+
+### Technical Issues
+
+Red Baron Arcade suffered from numerous technical problems across both platforms. An Amazon customer reported that the game "hangs up frequently on Vista, Win XP and a Win 95 machines"[^ref-9]. The PlayStation 3 version exhibited more severe issues including choppy graphics despite modest visual fidelity, poor framerate during gameplay, and long loading times of "upwards of 20 or more seconds" for brief missions[^ref-7].
+
+IGN noted that "Some objects have ridiculous bounding boxes that will cause your plane to crash if you hit their invisible walls, leading to some cheap deaths"[^ref-7]; reviewers also cited problems with the camera during bombing runs and a turbo button described as "about as powerful as a fart in a hurricane"[^ref-6][^ref-7]. Online multiplayer suffered from persistent lag issues and frequent host disconnections that rendered the mode largely unplayable[^ref-6][^ref-7].
 
 ### Easter Eggs and Trivia
 
 - The game's opening sequence features a biplane shooting holes through the Sierra logo[^ref-7]
-- Red Baron Arcade was originally planned for Xbox 360 release but was cancelled, making PlayStation 3 the only console version[^ref-7]
-- Gas Bandit Gaming's reviewer saw the game as "an attempt to take one of the first arcade games ever, Red Baron by Atari, and update it 25 years later"[^ref-3]; Atari's Red Baron (1980) was a black-and-white vector game depicting WWI dogfights[^ref-12]
+- IGN reported that Red Baron Arcade was originally planned for Xbox 360 but was canned[^ref-7]
+- Gas Bandit Gaming's reviewer saw the game as "an attempt to take one of the first arcade games ever, Red Baron by Atari, and update it 25 years later"[^ref-3]; Atari's Red Baron (1980 per the Arcade Museum, May 1981 per Wikipedia) was a black-and-white vector game depicting WWI dogfights[^ref-12][^ref-29]
 - Retail marketing promised boss encounters against historical aces including Eddie Rickenbacker[^ref-9]
 - The budget pricing of $19.99 on PC and $10 on PSN positioned the game as a casual value proposition rather than premium release[^ref-3][^ref-7]
 
@@ -172,11 +172,11 @@ IGN noted that "Some objects have ridiculous bounding boxes that will cause your
 
 Sales data for Red Baron Arcade remains undisclosed. The PC release was sold at budget pricing, listed on Amazon for $19.99 shortly after launch[^ref-3].
 
-The Xbox 360 version was cancelled before release, leaving the PlayStation 3 as the game's only console platform[^ref-7].
+IGN reported that a planned Xbox 360 version was canned before release[^ref-7].
 
 ### Collections
 
-Red Baron Arcade was not included in any known compilation releases. The original 1980 Atari arcade game Red Baron was previously available on the iPad and iPhone via the Atari's Greatest Hits application[^ref-12].
+Red Baron Arcade was not included in any known compilation releases. The original Atari arcade game Red Baron (1980–81[^ref-12][^ref-29]) was previously available on the iPad and iPhone via the Atari's Greatest Hits application[^ref-12].
 
 ### Fan Projects
 
@@ -197,7 +197,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently sold digitally. As of October 2026, Red Baron Arcade has no listing on Steam or GOG.
+- As of November 2026, no Steam or GOG listing found; PlayStation Store status not verified. Mad Otter Games' Red Baron Pack on Steam and GOG is a different product (the original Red Baron, Red Baron 3D and the Mission Builder)[^ref-30].
 
 ## Downloads
 
@@ -221,7 +221,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description
 [^ref-2]: [IGN – Red Baron Arcade Review (PC)](https://www.ign.com/articles/2008/07/25/red-baron-arcade-review-2) – PC review score 5.8, gameplay criticism, release date
-[^ref-3]: Gas Bandit Gaming, "Review: Red Baron Arcade", 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
+[^ref-3]: [Gas Bandit Gaming – "Review: Red Baron Arcade"](http://gasbandit.blogspot.com/2008/04/review-red-baron-arcade.html), 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
 [^ref-4]: [GameFAQs – Red Baron Arcade](https://gamefaqs.gamespot.com/ps3/952621-red-baron-arcade/data) – release dates, ESRB rating, multiplayer specs, official description
 [^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – disc image download; the item description is the uploader's pasted text
 [^ref-6]: [GamesRadar+ – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – PS3 review (Aug 11, 2009); delay after Activision absorbed Sierra, technical issues, critical quotes
@@ -230,7 +230,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 [^ref-9]: [Amazon India – Red Baron Arcade](https://www.amazon.in/Sierra-72739-Red-Baron-Arcade/dp/B000VIHARM) – system requirements, marketing copy, customer reviews
 [^ref-10]: [GameSpot – Red Baron Arcade PC User Reviews (archived March 2012)](https://web.archive.org/web/20120313195114/http://www.gamespot.com:80/red-baron-arcade/user-reviews/platform/pc/) – kzoneoo1 review "Simple Arcade, graphics a joy!", user score 8.0, posted Dec 26, 2008
 [^ref-11]: [MyAbandonware – Red Baron: Arcade](https://www.myabandonware.com/game/red-baron-arcade-n5a) – abandonware status, basic metadata
-[^ref-12]: [Arcade Museum – Red Baron](https://www.arcade-museum.com/Videogame/red-baron) – the 1980 Atari arcade game Red Baron (not Red Baron Arcade): description, Atari's Greatest Hits availability
+[^ref-12]: [Arcade Museum – Red Baron](https://www.arcade-museum.com/Videogame/red-baron) – the Atari arcade game Red Baron (dated 1980 here; Wikipedia gives May 1981; not Red Baron Arcade): description, Atari's Greatest Hits availability
 [^ref-13]: [Honest Gamers – Red Baron Arcade](http://www.honestgamers.com/61889/playstation-3/red-baron-arcade/game.html) – lists a 09/18/2008 NA PS3 date (consistent with the planned date IGN describes, "a few weeks after" its early-September 2008 preview; see ref-7, ref-16), developer confirmation
 [^ref-15]: [Metacritic – Red Baron Arcade](https://www.metacritic.com/game/red-baron-arcade/) – PC release date (Jun 30, 2008), ESRB rating, review count
 [^ref-16]: [MobyGames – Red Baron: Arcade Releases](https://www.mobygames.com/game/106856/red-baron-arcade/releases/) – PlayStation 3 download release Mar 12, 2009 (US); Windows release Feb 19, 2008
@@ -241,3 +241,10 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 [^ref-21]: [Engadget – Hands-on: Red Baron Arcade](https://www.engadget.com/2008-09-08-hands-on-red-baron-arcade.html) – Andrew Yoon, 8 Sep 2008: PS3 preview build; expected on the PlayStation Store "later this month"
 [^ref-22]: [Push Square – Red Baron Arcade (PS3)](https://www.pushsquare.com/games/ps3/red_baron_arcade) – PS3 US release 12 Mar 2009
 [^ref-23]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Dynamix/Sierra On-Line 1990 game; won Computer Gaming World's 1991 Simulation of the Year award
+[^ref-24]: [Engadget – The fate of Red Baron Arcade is unclear](https://www.engadget.com/2008/11/13/the-fate-of-red-baron-arcade-is-unclear/) – Andrew Yoon, 13 Nov 2008: Gamers Platform reported the game canceled; contact: "Sierra Online is no longer however, so they won't publish"
+[^ref-25]: [Engadget – Red Baron Arcade gets un-canceled, releases today](https://www.engadget.com/2009/03/12/red-baron-arcade-gets-un-canceled-releases-today/) – Andrew Yoon, 12 Mar 2009: "originally scheduled for a September release last year, mysteriously disappeared once Activision Blizzard acquired Sierra Games"; $9.99 and playable demo per PlayStation.Blog
+[^ref-26]: [PlayStation.Blog – The Red Baron Returns on PSN Today](https://blog.playstation.com/2009/03/12/the-red-baron-returns-on-psn-today/) – Scott Gordon (Sierra Online), 12 Mar 2009: PlayStation Store exclusive, free demo, 20 WWI aircraft, up to 7 other players
+[^ref-27]: [Kotaku – Red Baron Rules The PlayStation Network Skies](https://kotaku.com/red-baron-rules-the-playstation-network-skies-5168622) – Mike Fahey, 12 Mar 2009: release-day report; "Voted the 4th best PC game of all time by Computer Gaming World in 1996"
+[^ref-28]: [Gamasutra via Wayback (captured 2009-09-11)](https://web.archive.org/web/20090911223623/https://www.gamasutra.com/php-bin/news_index.php?story=25194) – "Earlier this year, Sierra released a poorly-received new game, Red Baron Arcade, to PlayStation 3 via PlayStation Network"
+[^ref-29]: [Wikipedia – Red Baron (1981 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1981_video_game)) – Atari arcade game; infobox release May 1981
+[^ref-30]: [Steam – Red Baron Pack (app 263940)](https://store.steampowered.com/app/263940/) – Mad Otter Games collection of the original Red Baron, Red Baron 3D and the Mission Builder; read via the Steam appdetails API, 2026-11-12
