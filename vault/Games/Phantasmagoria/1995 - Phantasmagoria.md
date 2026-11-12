@@ -10,7 +10,7 @@ series: Phantasmagoria
 engine: SCI2.1
 protagonist: Adrienne Delaney
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Phantasmagoria is a 1995 live-action horror adventure game designed by
   Roberta Williams and published by Sierra On-Line on seven CD-ROMs, a sharp departure
   from her family-friendly King's Quest series.
@@ -18,13 +18,13 @@ tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Phantasmagoria is a 1995 interactive horror adventure game designed by [[Roberta Williams]] and developed by Sierra On-Line. The game marked a radical departure from Williams' family-friendly King's Quest series[^ref-1]; it has been described as Sierra's first full-motion video interactive horror game[^ref-8], and its budget grew from an original $800,000 to $4.5 million[^ref-1]. It shipped on seven CD-ROMs, with actors filmed against blue screen and composited into computer-generated backgrounds[^ref-1][^ref-23], and its own manual called it "one of the most sophisticated software packages ever produced"[^ref-30].
 
-The game was a major commercial success, grossing $12 million on its opening weekend and becoming Sierra's bestselling computer game to date[^ref-1][^ref-4]. However, its graphic content (gore, violence, and a rape scene) generated significant controversy: it was refused classification in Australia, and CompUSA and other retailers declined to carry it[^ref-1][^ref-5]. Entertainment Weekly hailed it as "one of the surest signs yet of computer games approaching the quality level of movies"[^ref-6], while reviews overall were mixed, praising its graphics and suspenseful tone but criticizing its slow pacing and easy puzzles[^ref-1].
+The game was a major commercial success, grossing $12 million on its opening weekend and becoming Sierra's bestselling computer game to date[^ref-1][^ref-4]. However, its graphic content (gore, violence, and a rape scene) generated significant controversy: it was refused classification in Australia, and CompUSA and other retailers declined to carry it[^ref-1][^ref-5]. Entertainment Weekly's Harold Goldberg gave it a B+, calling it "one of the surest signs yet of computer games approaching the quality level of the movies"[^ref-36], while reviews overall were mixed, praising its graphics and suspenseful tone but criticizing its slow pacing and easy puzzles[^ref-1].
 
 The *Houston Chronicle*'s Dwight Silverman described it as "as close as it gets to a film you control"[^ref-1]. Williams chose the title after reading the word in a reference book about the history of magic and magicians; the term refers to a theatrical horror show in which "spirits of the dead" were conjured in a darkened theater using a modified magic lantern[^ref-1]. Williams herself stated: "I felt I had more to offer than fairy stories. I wanted to explore games with a lot of substance and deep emotions"[^ref-1].
 
@@ -84,12 +84,12 @@ However, *GameSpot*'s Jeff Sengstack gave the game a 6.0/10, calling it "general
 
 Modern retrospectives have been equally polarized. Some reviewers praise the game's atmospheric qualities, with one stating it remains "still the most atmospheric, best looking, and coolest setting I've ever seen in a game from the genre"[^ref-18]. Others have been less charitable, with one MobyGames reviewer declaring: "stripped of its shiny appearance, Phantasmagoria turns out to be an impoverished, rudimentary adventure game, weak and pitiful like a fasting vegetarian cat"[^ref-17].
 
-The game has achieved cult status among retro gaming enthusiasts, though original copies remain difficult to find[^ref-19]. Modern digital releases on Steam show "Very Positive" reviews, with 89% of 349 user reviews positive as of October 29, 2026[^ref-20]. One GameSpot user review argues for the game's historical significance: "The historical value of this game is indisputable, since it opened the way for a lengthy succession of games that borrowed heavily from its style, its graphical presentation, its storytelling gimmicks and more"[^ref-6].
+The game has achieved cult status among retro gaming enthusiasts, though original copies remain difficult to find[^ref-19]. Modern digital releases on Steam show "Very Positive" reviews, with 89% of 352 user reviews positive as of November 2026[^ref-20]. One GameSpot user review argues for the game's historical significance: "The historical value of this game is indisputable, since it opened the way for a lengthy succession of games that borrowed heavily from its style, its graphical presentation, its storytelling gimmicks and more"[^ref-6].
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 66%[^ref-9]
-- **IMDB:** 8.2/10 (854 ratings)[^ref-2]
-- **Steam:** 89% positive (349 reviews, checked October 29, 2026)[^ref-20]
+- **IMDB:** 8.2/10 (875 ratings, as of November 2026)[^ref-2]
+- **Steam:** 89% positive (352 reviews, as of November 2026)[^ref-20]
 - **GameSpot:** 6/10 (official), 7.7/10 (469 user ratings)[^ref-14]
 - **Metacritic User Score:** 7.4/10 (16 ratings, checked October 29, 2026)[^ref-21]
 
@@ -97,7 +97,7 @@ The game has achieved cult status among retro gaming enthusiasts, though origina
 
 ### Origins
 
-The concept for Phantasmagoria had been in Roberta Williams' mind for several years before production began, representing "something dramatically different from the family-friendly King's Quest series"[^ref-13]. Williams had wanted to make a horror game for eight years and had started to design one on several occasions, but she felt that software technology was not yet capable of an effective, frightening game, so she waited for faster CD-ROMs[^ref-1][^ref-18].
+The concept for Phantasmagoria had been in Roberta Williams' mind for several years before production began, representing "something dramatically different from the family-friendly King's Quest series"[^ref-13]. Williams had wanted to make a horror game for eight years and had started to design one on several occasions, but she felt that software technology was not yet capable of an effective, frightening game, so she waited for faster CD-ROMs[^ref-1][^ref-18]. In an interview with David Becker published by Retro Replay on October 26, 2026, Williams said of the horror idea: "I was playing with it in my mind for about a year"[^ref-37].
 
 Williams explained her motivation: "I felt I had more to offer than fairy stories. I wanted to explore games with a lot of substance and deep emotions"[^ref-1]. Around the game's release, she spoke of her dream of becoming "the Steven Spielberg of interactivity"[^ref-4].
 
@@ -105,11 +105,11 @@ Williams explained her motivation: "I felt I had more to offer than fairy storie
 
 Originally budgeted at $800,000, Phantasmagoria ultimately cost $4.5 million to develop, and it was filmed in a $1.5 million studio that Sierra built specifically for the game[^ref-1][^ref-18]. The Digital Antiquarian gives the widely reported budget as $4 million, noting that much of it went into the Oakhurst sound stage[^ref-4]. More than 200 people worked on it[^ref-1][^ref-23]. Wikipedia gives the development time as more than two years[^ref-1]; Sierra Chest says nearly three[^ref-23].
 
-Sierra built a new video studio in Oakhurst for the game, overseen by studio manager Bill Crow; all filming was done in front of a blue screen, and the footage was loaded into Silicon Graphics computers to be synchronized with the computer-generated backgrounds[^ref-1]. The game was made from blue-screen recordings combined with high-resolution computer-generated backgrounds[^ref-23]. Filming was directed by Peter Maris[^ref-1][^ref-9] and took about four months (Sierra's newsletter, as quoted by The Digital Antiquarian, counts "fifteen weeks"), with 25 actors performing against the blue screen[^ref-1][^ref-4].
+Sierra built a new video studio in Oakhurst for the game, overseen by studio manager Bill Crow; all filming was done in front of a blue screen, and the footage was loaded into Silicon Graphics computers to be synchronized with the computer-generated backgrounds[^ref-1]. The game was made from blue-screen recordings combined with high-resolution computer-generated backgrounds[^ref-23]. Filming was directed by Peter Maris[^ref-1][^ref-9] and took about four months (Sierra's newsletter, as quoted by The Digital Antiquarian, counts "fifteen weeks"), with 25 actors performing against the blue screen[^ref-1][^ref-4]. About 600 scenes were filmed, working 12 hours a day and shooting six days a week[^ref-1].
 
-A professional Hollywood special effects house worked on the game's gore sequences[^ref-1]. Props were built by local Oakhurst craftsmen[^ref-4]. The game featured more than 1,000 different background views compared to the typical 80-100 for adventure games of the era[^ref-1]. The 550-page script was four times the length of an average Hollywood screenplay[^ref-1].
+A professional Hollywood special effects house worked on the game's gore sequences[^ref-1]. Props were built by local Oakhurst craftsmen[^ref-4]. The game featured more than 1,000 different background views compared to the typical 80-100 for adventure games of the era[^ref-1]. The 550-page script was four times the length of an average Hollywood screenplay, and it came with a further 100 pages of storyboards representing 800 scenes in total[^ref-1].
 
-The game was essentially finished by late 1994, but Sierra chose to call back cast and crew members for two additional sessions of filming[^ref-9]. After multiple delays, Phantasmagoria was released in stores on August 24, 1995[^ref-1].
+The game was essentially finished by late 1994, but Sierra chose to call back cast and crew members for two additional sessions of filming[^ref-9]. After multiple delays, including a date change to August 3, Phantasmagoria was released in stores on August 24, 1995[^ref-1]. Sierra Help, GameSpot, Steam and GOG list its release date as July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15].
 
 **Development Credits:**[^ref-9]
 - **Lead Design:** [[Roberta Williams]]
@@ -123,6 +123,32 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 - **Lead Actress:** Victoria Morsell (Adrienne Delaney)
 - **Lead Actor:** David Homb (Don Gordon)
 - **Supporting Cast:** Robert Miano (Carno), V. Joy Lee (Harriet), Steven W. Bailey (Cyrus), Douglas Seale (Malcolm Wyrmshadow), Stella Stevens (Lou Ann), Lilyan Chauvin (Ethel)
+
+### Voice Cast
+
+**Principal Cast:**[^ref-1][^ref-2][^ref-9]
+
+| Character | Actor |
+|-----------|-------|
+| Adrienne Delaney | Victoria Morsell |
+| Don Gordon | David Homb |
+| Zoltan "Carno" Carnovasch | Robert Miano |
+| Harriet Hockaday | V. Joy Lee |
+| Cyrus | Steven W. Bailey |
+| Malcolm Wyrmshadow (Old) | Douglas Seale |
+| Malcolm Wyrmshadow (Young) | Devon Myers |
+| Ethel | Lilyan Chauvin |
+| Lou Ann (Antiquarian) | Stella Stevens |
+| Bob (Real Estate Agent) | Geof Prysirr (IMDb); Geoff Pryser (Wikipedia) |
+| Marie | Taylor Bernard (game manual, MobyGames, IMDb)[^ref-30][^ref-33]; before release, Sierra's *InterAction* (Holiday 1994) named Traci Clauson as Marie[^ref-35], as does Wikipedia[^ref-1] |
+| Harv | Hoke Howell |
+| Hortencia | Christine Armond |
+| Victoria | Holley Chant |
+| Regina | Wanda Smith |
+| Leonora | Dana Moody |
+| Mike | Karl Neimiec (MobyGames); Karl J. Niemiec (IMDb); Carl Neimic (Wikipedia) |
+| Gaston | Jeff Rector |
+| Hintkeeper (voice) | Greg Belemjian |
 
 ### Technical Achievements
 
@@ -154,10 +180,10 @@ The original working title for the game was "Scary Tales"[^ref-9]. A directory f
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | August 24, 1995 | DOS/Windows | Initial North American release[^ref-1] |
+| Original | August 24, 1995 | DOS/Windows | Initial North American release; in stores August 24 per Wikipedia[^ref-1]. Sierra Help, GameSpot, Steam and GOG give July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15] |
 | 1.100.000 | 1995 | DOS/Windows | Latest retail version[^ref-8] |
 | Mac | 1995 | Macintosh | Mac OS Classic port. Wikipedia gives November 1995[^ref-1]; MobyGames and PCGamingWiki give August 1995[^ref-9][^ref-24] |
-| Saturn | August 8, 1997 | Sega Saturn | Japanese release (*Phantasm*), 8 CDs[^ref-1] |
+| Saturn | August 8, 1997 | Sega Saturn | Japanese release (*Phantasm*), 8 CDs; ported by Infini Entertainment Technology and published by Outrigger[^ref-1]. GameSpot also lists Infini as a developer[^ref-14] |
 | GOG | February 2010 | Windows (ScummVM) | Digital re-release. Giant Bomb gives February 11[^ref-3]; PCGamingWiki gives February 10[^ref-24] |
 
 **SCI Interpreter Versions:**[^ref-8][^ref-24]
@@ -191,32 +217,6 @@ Players and reference sites report several technical problems, including:
 - **Chapter 7 Recording:** The game records all player actions in Chapter 7, allowing playback viewing[^ref-17]
 - **Real Relationship:** Victoria Morsell (Adrienne) and David Homb (Don) began dating a week after they started filming together[^ref-9]
 - **Costume Trivia:** Sierra's *InterAction* magazine reported that the producer liked the jeans and top Victoria Morsell wore to her first day of filming better than her planned costume, so she kept wearing the same jeans to the set every day of the 15 weeks of filming; by the end, "duct tape, patches and prayers" held them together[^ref-2][^ref-34]
-
-## Cast
-
-| Character | Actor |
-|-----------|-------|
-| Adrienne Delaney | Victoria Morsell |
-| Don Gordon | David Homb |
-| Zoltan "Carno" Carnovasch | Robert Miano |
-| Harriet Hockaday | V. Joy Lee |
-| Cyrus | Steven W. Bailey |
-| Malcolm Wyrmshadow (Old) | Douglas Seale |
-| Malcolm Wyrmshadow (Young) | Devon Myers |
-| Ethel | Lilyan Chauvin |
-| Lou Ann (Antiquarian) | Stella Stevens |
-| Bob (Real Estate Agent) | Geof Prysirr (IMDb); Geoff Pryser (Wikipedia) |
-| Marie | Taylor Bernard (game manual, MobyGames, IMDb)[^ref-30][^ref-33]; before release, Sierra's *InterAction* (Holiday 1994) named Traci Clauson as Marie[^ref-35], as does Wikipedia[^ref-1] |
-| Harv | Hoke Howell |
-| Hortencia | Christine Armond |
-| Victoria | Holley Chant |
-| Regina | Wanda Smith |
-| Leonora | Dana Moody |
-| Mike | Karl Neimiec (MobyGames); Karl J. Niemiec (IMDb); Carl Neimic (Wikipedia) |
-| Gaston | Jeff Rector |
-| Hintkeeper (voice) | Greg Belemjian |
-
-[^ref-1][^ref-2][^ref-9]
 
 ## Legacy
 
@@ -263,6 +263,8 @@ The Digital Antiquarian places Phantasmagoria among the last of the hit live-act
 
 Williams deliberately kept the puzzles and interface simple to suit casual players, and reviewers repeatedly criticized the easy puzzles and slow pacing[^ref-1]. One MobyGames retrospective put it bluntly: "No amount of lavishly decadent digitized decor and symphonic tracks with Latin lyrics can change the fact that Phantasmagoria is an overbloated, cheesy horror story with tiny bits of gameplay collapsing under the weight of multimedia aspirations"[^ref-17].
 
+In a retrospective for Mothership published November 2, 2026, Ashley Bardhan, who visited the Strong National Museum of Play to see the game's archive material, calls it "seemingly one of the only high-budget, blockbuster horror games to have been created, written, and designed by a woman"[^ref-38].
+
 Other players remember it more fondly. A GameSpot user retrospective says the game "was successful in scaring me, like a good horror movie should always do"[^ref-6].
 
 ## Downloads
@@ -280,6 +282,8 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 
 - [[Roberta Williams]] - Creator
 
+- [[Phantasmagoria Series]] - Series overview
+
 ## References
 
 [^ref-1]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – comprehensive development history, sales figures, critical reception, awards, cast, technical specs
@@ -287,7 +291,7 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-3]: [Giant Bomb – Phantasmagoria](https://www.giantbomb.com/roberta-williams-phantasmagoria/3030-4327/) – technical specifications, GOG release date, sales data
 [^ref-4]: [The Digital Antiquarian – Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) – Jimmy Maher, 2021; CGW and Billboard quotes, Williams' "Spielberg of interactivity" dream, fifteen weeks of filming, Oakhurst props, Australian classification refusal, sales
 [^ref-5]: [Reference for Business – Sierra On-Line History](https://www.referenceforbusiness.com/history2/98/Sierra-On-Line-Inc.html) – corporate context, retailer controversy
-[^ref-6]: [GameSpot User Review – coolermaster123](https://www.gamespot.com/roberta-williams-phantasmagoria/user-reviews/2200-12796730/) – historical significance, cast details, Entertainment Weekly quote
+[^ref-6]: [GameSpot User Review – coolermaster123](https://www.gamespot.com/roberta-williams-phantasmagoria/user-reviews/2200-12796730/) – historical significance, cast details
 [^ref-8]: [Sierra Help Wiki – Phantasmagoria](https://wiki.sierrahelp.com/index.php/Phantasmagoria) – engine information, version numbers, technical details
 [^ref-9]: [MobyGames – Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) – credits, trivia, easter eggs, awards, regional versions
 [^ref-12]: [Amazon – Phantasmagoria](https://www.amazon.com/Roberta-Williams-Phantasmagoria-Pray-Nightmare-DOS/dp/B000W8JFS8) – customer reviews, technical issues, controversy details
@@ -312,3 +316,6 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-33]: [MobyGames – Roberta Williams' Phantasmagoria credits, DOS (Wayback, January 2023)](http://web.archive.org/web/20230128225755/https://www.mobygames.com/game/dos/roberta-williams-phantasmagoria/credits) – "Director Peter Maris"; "Game Directors J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams"; Maris also credited for video editing and casting
 [^ref-34]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 1, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra On-Line; p. 81, "The Story of Tori's Jeans" (scan page checked): "She had worn them to the set every single day of the 15 weeks of filming"
 [^ref-35]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 2, Holiday 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_2_Holiday_1994_1994_Sierra_On-Line_US_partial) – Sierra On-Line; p. 26, "The Cast" (scan page checked): "Marie is played by film and TV star Traci Clauson"
+[^ref-36]: [Entertainment Weekly – Phantasmagoria (Harold Goldberg, September 22, 1995; Wayback copy)](https://web.archive.org/web/20150405204214/http://www.ew.com/article/1995/09/22/phantasmagoria) – grade B+; "An ambitious seven-disc interactive movie that cost a reported $4 million to produce, the long-delayed Phantasmagoria is one of the surest signs yet of computer games approaching the quality level of the movies"
+[^ref-37]: [Retro Replay – Roberta Williams Interview: From Mystery House to a Life of Adventure (David Becker, October 26, 2026)](https://retro-replay.com/roberta-williams-interview/) – Williams on Phantasmagoria: "I was playing with it in my mind for about a year"
+[^ref-38]: [Mothership – The horror of Phantasmagoria was 30 years ahead of its time (Ashley Bardhan, November 2, 2026)](https://www.mothership.blog/the-horror-of-phantasmagoria-was-30-years-ahead-of-its-time/) – retrospective; visit to the Strong National Museum of Play; game "created, written, and designed by a woman"
