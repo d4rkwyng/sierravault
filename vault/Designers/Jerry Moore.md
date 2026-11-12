@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "King's Quest V", "Quest for Glory I VGA", "Space Quest IV", "The Colonel's Bequest"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Jerry Moore
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ According to his MobyGames biography, Moore graduated from Point Loma College in
 
 Moore's earliest documented credits come from Sierra's mid-1980s games. He is one of four graphics artists credited on the DOS version of [[1986 - The Black Cauldron|The Black Cauldron]] (1986), alongside Mark Crowe, Karen Nugent and Terry Pierce.[^ref-16][^ref-17] With Al Lowe and Doug MacNeill he worked on the Apple II (1986) and TRS-80 CoCo (1987) conversions of [[1984 - Donald Duck's Playground|Donald Duck's Playground]], which Lowe originally wrote for the Commodore 64 in 1984.[^ref-3] MobyGames credits Moore and MacNeill with the graphics of the CoCo release.[^ref-4] MobyGames carries no credits for the C64 release.[^ref-18]
 
-MobyGames credits him with graphics on [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] (both 1987).[^ref-2] Sierra's own InterAction magazine described his Police Quest part as a small one: Greg Rowland handled much of the coding and graphic design, "with Al Lowe helping on the programming and Jerry Moore adding a few pictures".[^ref-19]
+MobyGames credits him with graphics on [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose]] (both 1987).[^ref-2][^ref-30] Sierra's own InterAction magazine described his Police Quest part as a small one: Greg Rowland handled much of the coding and graphic design, "with Al Lowe helping on the programming and Jerry Moore adding a few pictures".[^ref-19]
 
 As Sierra moved to its SCI engine, Moore is credited with animation on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988).[^ref-8][^ref-2] On [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] (1989), the first game in what became the Quest for Glory series, he is credited with "Animation & Background Scenes".[^ref-5] InterAction listed him first of the game's four graphics artists, with Cindy Walker, Kenn Nishiuye and Jeff Crowe.[^ref-20] Quest for Glory co-designer Corey Cole, in a July 2014 comment on The Adventurers' Guild, named Moore as "one of our main artists on Hero's Quest" and said that "the animation was done by Jerry Moore" on [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]].[^ref-27]
 
@@ -134,5 +134,6 @@ MobyGames credits Jerry Moore on 23 games. MobyGames lists 18 of them with Sierr
 [^ref-25]: [The Colonel's Bequest manual (Internet Archive scan)](https://archive.org/details/Colonels_Bequest_-_Manual) — credits page: "Animation by DOUGLAS HERRING"; "Backgrounds by DOUGLAS HERRING, JERRY MOORE" (OCR text read)
 [^ref-26]: [Codename: ICEMAN manual (Internet Archive scan)](https://archive.org/details/Codename_Iceman_Manual) — credits page: "ADDITIONAL ARTWORK Jeff Crowe, Jerry Moore, Kenn Nishiuye, Cindy Walker" (OCR text read)
 [^ref-27]: [The Adventurers' Guild – Game 45: Quest for Glory II – Introduction (comments)](https://advgamer.blogspot.com/2014/07/game-45-quest-for-glory-ii-introduction.html) — comment by Corey Cole, 12 July 2014: "The animation was done by Jerry Moore, who was also one of our main artists on Hero's Quest."
-[^ref-28]: [MobyGames - Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) — first release date 1989-12 (read via the MobyGames API)
+[^ref-28]: [MobyGames - Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) — first release date 1989-12 (releases page: "Dec 1989")
 [^ref-29]: [Wikipedia - Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) — infobox release "March 1990", citing Sierra News Magazine, Spring 1990 shipping schedule
+[^ref-30]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) — infobox: "Artist: Gerald Moore"
