@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 3 Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: NASCAR Legends is a 1999 Windows racing simulation by Papyrus Design
   Group, published by Sierra Sports, that recreates the 1970 NASCAR Grand National
   season on the NASCAR Racing 3 engine.
@@ -18,11 +18,11 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-NASCAR Legends is a racing simulation developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label for Windows in late 1999.[^ref-1][^ref-2][^ref-11] Sources disagree on the exact day: Wikipedia and PriceCharting give November 22, 1999, IGN and LaunchBox give November 20, 1999, and Metacritic lists October 31, 1999.[^ref-1][^ref-7][^ref-4][^ref-13][^ref-15] A Papyrus press release dated October 18, 1999 said the game "will be available in early November," which is an expectation rather than a ship date.[^ref-22] GameSpot called the game "an homage to the 1970 NASCAR season," and it recreates the drivers, cars and venues of the 1970 NASCAR Grand National Series.[^ref-1][^ref-3][^ref-25] It uses the same engine as NASCAR Racing 3.[^ref-1][^ref-4][^ref-5]
+NASCAR Legends is a racing simulation developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label for Windows in late 1999.[^ref-1][^ref-2] Sources disagree on the exact day: Wikipedia and PriceCharting give November 22, 1999, IGN and LaunchBox give November 20, 1999, and Metacritic lists October 31, 1999.[^ref-1][^ref-7][^ref-4][^ref-13][^ref-15] A Papyrus press release dated October 18, 1999 said the game "will be available in early November," which is an expectation rather than a ship date.[^ref-22] GameSpot called the game "an homage to the 1970 NASCAR season," and it recreates the drivers, cars and venues of the 1970 NASCAR Grand National Series.[^ref-1][^ref-3][^ref-25] It uses the same engine as NASCAR Racing 3.[^ref-1][^ref-4][^ref-5]
 
 The game features 42 drivers from the 1970 season and 16 of that year's tracks.[^ref-3][^ref-5] Wikipedia counts 48 real events in the 1970 season, while GameSpot's review gives 49.[^ref-1][^ref-3][^ref-18] Players can drive the Plymouth Superbird, Dodge Daytona, Ford Torino or a Mercury Cyclone, and MobyGames notes that each of the four cars has "a different look and feel."[^ref-3][^ref-6][^ref-23][^ref-24] The racing rules follow the period: there is no pit road speed limit and no restrictor plates.[^ref-5][^ref-24]
 
@@ -35,7 +35,7 @@ NASCAR Legends was well reviewed on release. GameSpot gave it 9/10 and IGN 8.9/1
 > **Engine:** NASCAR Racing 3 Engine[^ref-1][^ref-4]
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 1999
-> **Series:** NASCAR Racing[^ref-11]
+> **Series:** NASCAR Racing[^ref-1][^ref-11]
 > **Protagonist:** Player-created driver
 > **Sierra Lineage:** Sierra Label (Papyrus)
 
@@ -82,7 +82,7 @@ Players choose from four cars:[^ref-3][^ref-6]
 - **Plymouth Superbird:** Winged aero car[^ref-3][^ref-14]
 - **Dodge Daytona:** Winged aero car[^ref-3][^ref-14]
 - **Ford Torino**[^ref-3]
-- **Mercury Cyclone**[^ref-3][^ref-6][^ref-23][^ref-24]
+- **Mercury Cyclone**[^ref-3][^ref-23][^ref-24]
 
 The game automatically uses the aero version of a car on speedways and road courses, and the base car on short tracks.[^ref-1] A fan review also notes that the Superbird's aero kit comes off at short tracks.[^ref-23]
 
@@ -233,7 +233,7 @@ Players on abandonware sites still post compatibility advice and rate the game h
 
 ## References
 
-[^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date (Nov 22, 1999), same engine as NASCAR Racing 3, aero/base car selection, 16 of 48 events
+[^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date (Nov 22, 1999), series (NASCAR Racing), released by Sierra On-Line in late 1999, same engine as NASCAR Racing 3, aero/base car selection, 16 of 48 events
 [^ref-2]: [ESPN/GameSpot – NASCAR Legends Review](https://www.espn.com/vgr/pc_nascarle.html) – score breakdown, players 1–20, released 11/99, system requirements
 [^ref-3]: [GameSpot – NASCAR Legends Review](https://www.gamespot.com/reviews/nascar-legends-review/1900-2543745/) – 9/10 review by Stephen Poole; 42 drivers, 16 tracks, 49 events, tire wear, car list, missing tracks
 [^ref-4]: [IGN – NASCAR Legends](https://www.ign.com/articles/2000/01/19/nascar-legends) – 8.9 review by Marc Saltzman; game modes, multiplayer options, Daytona licensing; initial release Nov 20, 1999
