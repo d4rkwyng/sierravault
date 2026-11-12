@@ -10,13 +10,13 @@ series: IndyCar Racing
 engine: Papyrus physics engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: CART Racing is Sierra's 1997 re-release of Papyrus Design Group's IndyCar Racing II, renamed after CART lost the IndyCar name and bundled with Rendition 3D acceleration support and patches.
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # CART Racing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ CART Racing is a 1997 re-release of IndyCar Racing II, developed by [[Papyrus De
 
 MobyGames describes CART Racing as a re-release of IndyCar Racing II "with Windows 95 Rendition 3D acceleration support, and slipstreamed with some patches"[^ref-3]. Papyrus was co-founded by [[Dave Kaemmer|David Kaemmer]], whom Race Sim Central calls "arguably the father of the modern racing simulation"[^ref-15], and GameSpot noted that its games were so realistic that professional drivers often used them to train for real-life races[^ref-4]. The game's fan site, CART Racing Headquarters, calls it "one of the best racing simulators ever released"[^ref-2].
 
-Computer Gaming World named CART Racing its Sports Game of the Year, together with Baseball Mogul, in its March 1998 issue[^ref-3]. In that issue's Premier Awards feature the editors write that "we are honoring them both as Sports Games of the Year", under a "CART Racing" heading[^ref-30]. The same issue's ratings chart separately lists "Microsoft CART Racing"; Microsoft's CART Precision Racing is a different game[^ref-18][^ref-30]. Even so, MobyGames notes that the re-release "had some trouble finding an audience": its Rendition version had already been bundled with several 3D cards, and most racing fans already owned the original IndyCar Racing II[^ref-3].
+MobyGames notes that the re-release "had some trouble finding an audience": its Rendition version had already been bundled with several 3D cards, and most racing fans already owned the original IndyCar Racing II[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-3]
@@ -66,7 +66,7 @@ CART Racing has no puzzles. Its challenge is car setup and racecraft. GameRevolu
 
 Most contemporary reviews covered the game under its original IndyCar Racing II title. GameSpot gave it 7.8 out of 10, and Computer Games Magazine gave it 4 out of 5[^ref-5]. PC Games graded it B in a review by Bill Meyer in its December 1995 issue[^ref-5].
 
-Computer Gaming World's editors wrote that the game "takes the already excellent IndyCar design and adds much-improved driver AI"[^ref-5]. The magazine later named the CART Racing re-release Sports Game of the Year in its March 1998 issue[^ref-3]. Steven Levy of Macworld wrote that "this champion of race games has just about everything," and the game received Macworld's 1996 "Best Sports Game" award[^ref-5].
+Computer Gaming World's editors wrote that the game "takes the already excellent IndyCar design and adds much-improved driver AI"[^ref-5]. MobyGames lists a Computer Gaming World 1997 Sports Game of the Year award for this game, but the award text in Computer Gaming World #164 (March 1998) names Microsoft's CART Precision Racing, co-winner with Baseball Mogul[^ref-30][^ref-3]. Steven Levy of Macworld wrote that "this champion of race games has just about everything," and the game received Macworld's 1996 "Best Sports Game" award[^ref-5].
 
 Computer Games Strategy Plus named IndyCar Racing II the best computer racing simulation of 1995[^ref-5]. It was also the runner-up for Computer Gaming World's 1995 "Simulation of the Year" award[^ref-5].
 
@@ -174,7 +174,6 @@ MobyGames notes that the CART Racing re-release struggled to find buyers. Its Re
 
 ### Awards
 
-- Computer Gaming World March 1998: Sports Game of the Year (CART Racing, shared with Baseball Mogul)[^ref-3]
 - Computer Games Strategy Plus: Best Computer Racing Simulation of 1995 (as IndyCar Racing II)[^ref-5]
 - Macworld 1996 Best Sports Game Award (as IndyCar Racing II)[^ref-5]
 - Computer Gaming World 1995 Simulation of the Year: runner-up (as IndyCar Racing II)[^ref-5]
@@ -218,8 +217,8 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on Steam, GOG, or other modern digital storefronts. Licensing complications make a commercial re-release unlikely[^ref-23]
-- [GOG Dreamlist](https://www.gog.com/dreamlist): community Dreamlist for re-release requests
+- Not currently available on Steam, GOG, or other modern digital storefronts. Licensing complications make a commercial re-release unlikely[^ref-23] (checked 2026-11-12)
+- [GOG Dreamlist – IndyCar Racing II](https://www.gog.com/dreamlist/game/indycar-racing-ii-1995): community Dreamlist entry for re-release requests
 
 **Download / Preservation**
 - [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q): abandonware preservation download[^ref-13]
@@ -240,7 +239,7 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 
 [^ref-1]: [Internet Archive – Super Games 2000 nº 1: CART Racing](https://archive.org/details/cart-racing-cdrom) – "Super Games 2000" edition of the CD; description "1997 re-release of IndyCar Racing II"; the 1997-11-04 date was entered by the uploader
 [^ref-2]: [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – game description, platform information, fan community, Second Wind patch
-[^ref-3]: [MobyGames – CART Racing](https://www.mobygames.com/game/4534/cart-racing/) – description, credits, awards, title-change and OEM-bundle trivia, specs
+[^ref-3]: [MobyGames – CART Racing](https://www.mobygames.com/game/4534/cart-racing/) – description, credits, title-change and OEM-bundle trivia, specs
 [^ref-4]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, company history, development philosophy
 [^ref-5]: [Wikipedia – IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) – review scores, sales data, awards, designers, technical specifications
 [^ref-6]: [Amazon – CART Racing Manual](https://www.amazon.com/Cart-Racing-Papyrus-Design-Group/dp/B000I8BR6A) – manual contents, publisher
@@ -264,4 +263,4 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 [^ref-27]: [PC Gamer News, January 5, 1998 (Wayback Machine)](https://web.archive.org/web/19980218070330/http://www.pcgamer.com/news/news-1998-01-05.html) – CART licence extension through 2003; company claim of 800,000+ games sold on the CART license
 [^ref-28]: [Grand Prix 2 Racing – Windy gets a second wind](https://grandprix2.racing/file/misc/view/windy-gets-a-second-wind) – Second Wind patch for the Windows version; Wide 0.70, Basic 0.41
 [^ref-29]: [Golden Era Sim Racing – ICR2 Rendition](https://www.goldenerasimracing.com/indycar-racing-ii/indycar-ii-rendition) – Rendition install guide; special game version and Microsoft Store wrapper
-[^ref-30]: [Computer Gaming World, issue 164 (March 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_164) – Premier Awards, Sports Game of the Year feature; ratings chart lists "Microsoft CART Racing"
+[^ref-30]: [Computer Gaming World, issue 164 (March 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_164) – Premier Awards, Sports Games of the Year feature (Baseball Mogul and Microsoft's CART Precision Racing)
