@@ -10,7 +10,7 @@ series: PGA Championship Golf
 engine: Custom (TrueSwing and TriClick swing models)
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: PGA Championship Golf 1999 Edition is a 1999 Windows golf simulation
   developed by Headgate Studios and published by Sierra Sports, the sequel to Front
   Page Sports Golf, with eight courses, the TrueSwing mouse swing, ReadyPlay and a
@@ -20,7 +20,7 @@ composer: [Chuck Barth]
 ---
 # PGA Championship Golf 1999 Edition
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ PGA Championship Golf 1999 Edition is a golf simulation for Windows, developed b
 
 The game's main selling point was TrueSwing, a real-time mouse swing in which the on-screen golfer's club moves with the player's mouse. The 1999 Edition enhanced it and added a horizontal mode alongside the vertical one, while also offering a traditional "TriClick" swing.[^ref-2][^ref-9][^ref-13] It shipped with eight courses, seven of them real championship courses, plus Jocassee Shoals, a fantasy course built with the game's own Course Architect editor.[^ref-1][^ref-9] It also introduced ReadyPlay, which let every golfer in a group play at their own pace instead of waiting for turns.[^ref-7][^ref-8]
 
-Critics were generally positive, with an aggregate of about 80% on GameRankings.[^ref-16] Reviewers praised TrueSwing and the Course Architect, and criticized the commentary, the graphics and a weak offline tournament mode.[^ref-5][^ref-7][^ref-14] MobyGames also lists a 1998 UK release under the title "PGA Championship Golf" (also known as "PGA Championship Golf '99"), which it treats as the previous entry in the series.[^ref-22]
+Critics were generally positive, with an aggregate of about 80% on GameRankings.[^ref-16] Reviewers praised TrueSwing and the Course Architect, and criticized the commentary, the graphics and a weak offline tournament mode.[^ref-5][^ref-7][^ref-14] MobyGames also lists a 1998 UK release under the title "PGA Championship Golf" (also known as "PGA Championship Golf '99"), which it treats as the previous entry in the series, although its own description of the 1999 Edition calls it "very much the same as the 1998 version."[^ref-22][^ref-1] The German release was titled "DSF Golf '99."[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-1][^ref-6]
@@ -83,7 +83,7 @@ The Course Architect lets players build their own courses. A course wizard guide
 
 | Publication | Score |
 |---|---|
-| PC Gamer (US) | 90%[^ref-10] |
+| PC Gamer (US) | 90% (Editors' Choice range)[^ref-10] |
 | GameSpot | 8.5/10[^ref-9] |
 | Hartford Courant | 8.2/10[^ref-14] |
 | Eurogamer | 8/10[^ref-15] |
@@ -102,7 +102,7 @@ The commentary by Mark Lye and Grant Boone drew the most criticism. Several revi
 
 Several critics found the graphics behind *Links* and *Jack Nicklaus*.[^ref-5][^ref-9][^ref-14] Goble described "a dull, almost drab look."[^ref-8] PC Gamer UK's Chris Buxton criticized "the awful-looking spectators" and stuttering golfer animation.[^ref-11] IGN, by contrast, felt that the 2D spectators "look very, very real."[^ref-13] Abner called offline tournament play "flat out broken": opponents finished rounds out of sequence, and the tournament ended without a report.[^ref-5] Both IGN and the *Hartford Courant* reported crashes in the Course Architect. Rosano noted that after a recent patch "the architect has repeatedly crashed at the beginning of a new session."[^ref-13][^ref-14]
 
-Other reviewers were warmer. Rob Smolka of *PC Gamer* (US) wrote that the game "may have the best physics model of any golf game."[^ref-10] Eurogamer reviewed it in August 2000 as a budget re-release and preferred it to the *Links LS* series.[^ref-15]
+Other reviewers were warmer. Rob Smolka of *PC Gamer* (US) scored it 90%, within the magazine's Editors' Choice band, and wrote that the game "may have the best physics model of any golf game."[^ref-10] Eurogamer reviewed it in August 2000 as a budget re-release and preferred it to the *Links LS* series.[^ref-15]
 
 ### Modern Assessment
 
@@ -116,7 +116,7 @@ Sierra Sports announced the game on July 13, 1998, as part of an agreement with 
 
 ### Production
 
-AllGame's credits list Vance Cook as designer, director and software engineer, Mike Jacob as producer, Dan Rogers as executive director, and Kari St. John as art director. Michael D. Jones is credited as software engineer and team lead (course creation, TrueSwing and golfer rendering), and Dale Deputy as software engineer for the game engine and ReadyPlay. Mark Merrill is credited as course consultant, Troy McFarland as motion capture department head and technical director, and Zygote Media Group, Inc. for the golfer models. Chuck Barth is credited with music and sound effects.[^ref-6] The game was developed by Headgate Studios.[^ref-6][^ref-1] Brian Silvernail appears among nine Course Architect design consultants, not as a lead designer.[^ref-6] The manual was written by Nathan Hall. Mike Jacob and Mark Lye wrote the commentary script, and golfer motions were motion-captured.[^ref-6] The package included an instruction manual and a TrueSwing reference card.[^ref-6]
+AllGame's credits list Vance Cook as designer, director and software engineer, Mike Jacob as producer, Dan Rogers as executive director, and Kari St. John as art director. Michael D. Jones is credited as software engineer and team lead (course creation, TrueSwing and golfer rendering), and Dale Deputy as software engineer for the game engine and ReadyPlay. Mark Merrill is credited as course consultant, Troy McFarland as motion capture department head and technical director, and Zygote Media Group, Inc. for the golfer models. Chuck Barth is credited with music and sound effects.[^ref-6] Ron Stagg is credited as software engineer for remote and online tournament play and sound.[^ref-6] The Course Architect team is credited separately: Steve Hatch as software engineer, designer, team lead and terrain management; Bryant Bunderson as software engineer and team lead (shape, navigation, layout UI design, librarian and sound); Farrell Edwards as software engineer for the terrain, 2D object and 3D object tools; and Brad Worthen as software engineer for new course tools.[^ref-6] The game was developed by Headgate Studios.[^ref-6][^ref-1] Brian Silvernail appears among nine Course Architect design consultants, not as a lead designer.[^ref-6] The manual was written by Nathan Hall. Mike Jacob and Mark Lye wrote the commentary script, and golfer motions were motion-captured.[^ref-6] The package included an instruction manual and a TrueSwing reference card.[^ref-6]
 
 The game was scheduled for October 1998 and slipped to 1999.[^ref-4] In a June 28, 2000 SportPlanet interview, Mike Jacob said: "We ran into production delays with PGA Championship Golf 1999 that hurt our marketing efforts." He added that the goals for PGA Championship Golf 2000 included "many of the things we wanted to have in PGA Championship Golf 1999, but were unable to due to timing for release," and, of ReadyPlay, "We were first with ReadyPlay."[^ref-24] Sierra announced that it had gone gold on May 20, 1999.[^ref-2] On May 28, Sierra said it would reach North American retail by June 1.[^ref-3] Sources give slightly different release dates:
 - MobyGames: June 1, 1999[^ref-1]
@@ -182,7 +182,7 @@ The game was followed in 2000 by [[2000 - PGA Championship Golf 2000|PGA Champio
 
 ## References
 
-[^ref-1]: [MobyGames – PGA Championship Golf: 1999 Edition](https://www.mobygames.com/game/49373/pga-championship-golf-1999-edition/) – June 1, 1999 release; Headgate Studios / Sierra On-Line; the 8 courses; 12 types of play; Lye and Boone commentary; WON.net play; Moby Score 7.5; critics 78% (12)
+[^ref-1]: [MobyGames – PGA Championship Golf: 1999 Edition](https://www.mobygames.com/game/49373/pga-championship-golf-1999-edition/) – June 1, 1999 release; Headgate Studios / Sierra On-Line; the 8 courses; 12 types of play; Lye and Boone commentary; WON.net play; Moby Score 7.5; critics 78% (12); German title DSF Golf '99; description: "very much the same as the 1998 version"
 [^ref-2]: [Computer Games Strategy Plus – PGA Championship Golf Goes Gold (May 20, 1999)](https://web.archive.org/web/20030709063901/http://www.cdmag.com/articles/020/035/pga_championship_golf_gold.html) – gone gold; sequel to Front Page Sports: Golf; 12 types of play; enhanced TrueSwing and TriClick swing models; Mark Lye commentary
 [^ref-3]: [Computer Games Strategy Plus – PGA Championship Golf 1999 Edition Coming June 1 (May 28, 1999)](https://web.archive.org/web/20030709074407/http://www.cdmag.com/articles/020/068/pga_champ_june1.html) – North American retail by June 1; sequel to Front Page Sports: Golf
 [^ref-4]: [Computer Games Strategy Plus – Sierra Sports teams with PGA Interactive (July 13, 1998)](https://web.archive.org/web/20030523203927/http://www.cdmag.com/articles/013/053/pga_championship_golf.html) – announcement; PGA Interactive alliance; seven courses incl. Sahalee; 20,000-polygon golfers; October ship target; $29.95
