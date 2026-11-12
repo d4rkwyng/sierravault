@@ -10,7 +10,7 @@ series: Fester Mudd
 engine: Unity
 protagonist: Fester Mudd
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Fester Mudd: Curse of the Gold is a 2013 point-and-click adventure game
   developed by Finnish indie studio Prank Ltd. and published by Replay Games, the only
   released episode of a planned Wild West trilogy.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, fester-mudd, sierra]
 ---
 # Fester Mudd: Curse of the Gold
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Despite generally favorable reviews praising its authentic retro aesthetic and c
 
 ## Story Summary
 
-The game opens with Fester Mudd, a reluctant hero who somehow manages to be "intrepid but cowardly, ambitious yet lazy, dimwitted but brilliant," receiving word that his brother Bud has gone missing during a gold-seeking expedition in the Wild West.[^ref-11] Despite his natural inclination toward comfort and safety, Fester sets out on his trusty mule Martha to locate his wayward sibling and hopefully share in any treasure that might be discovered along the way.[^ref-12]
+The game opens with Fester Mudd, a reluctant hero who somehow manages to be "intrepid but cowardly, ambitious yet lazy, dimwitted but brilliant," heading for the downtrodden town of Loamsmouth to join his brother Bud, only to find that Bud has mysteriously vanished.[^ref-11][^ref-26] Despite his natural inclination toward comfort and safety, Fester sets out on his trusty mule Martha to locate his wayward sibling and hopefully share in any treasure that might be discovered along the way.[^ref-12] The search proves far longer and more treacherous than he bargained for: he must enlist an experienced gunslinger to help him make his way through Indian territory, but gunslingers don't come cheap, and Fester must find a way to convince the man to join him.[^ref-18][^ref-26]
 
 Fester's journey takes him through a frontier landscape populated by colorful characters with punning names, including Wild Bill Hiccup, Wyatt Burp, and General P. Store—a retired general whose last name conveniently matches his profession as a shopkeeper.[^ref-2] The game's humor draws heavily from the comedic traditions of classic adventure games, featuring absurdist situations, clever wordplay, and even the occasional fart joke.[^ref-12]
 
@@ -51,7 +51,7 @@ As Episode 1 concludes, Fester finds himself on the trail of his brother but wit
 
 ### Interface and Controls
 
-Fester Mudd employs a classic SCUMM-style verb interface that will be immediately familiar to anyone who played LucasArts adventures in the 1990s.[^ref-3] The interface takes up a significant portion of the screen, featuring traditional verbs like "Look," "Talk," "Use," "Give," and others arranged in a command bar.[^ref-13] Players interact with the game world by selecting verbs and clicking on objects or characters in the environment.
+Fester Mudd employs a classic SCUMM-style verb interface that will be immediately familiar to anyone who played LucasArts adventures in the 1990s.[^ref-3] Pocket Gamer describes an interface that "takes up half the screen, with verbs like 'Look' and 'Give' on it."[^ref-13] Players interact with the game world by selecting verbs and clicking on objects or characters in the environment.
 
 The game features chunky pixel-art graphics displayed on hand-drawn backdrops, synth-heavy MIDI music, and notably, no voice acting—all deliberate choices to evoke the pre-CD-ROM era of adventure gaming.[^ref-13] An overhead map system allows for quick travel between different regions, streamlining navigation and reducing tedious backtracking.[^ref-6]
 
@@ -110,7 +110,7 @@ Development was a collaborative effort between the Finnish studio Prank Ltd. (th
 
 Paul Trowe, CEO of Replay Games, expressed pride in the collaboration, stating: "Fester Mudd is exactly like the type of games we used to create at Sierra On-Line back in the days of King's Quest, Space Quest and Leisure Suit Larry. If any of those games appealed to our audience, they will have a blast playing Fester."[^ref-6]
 
-The game was originally slated for release in 2012 but ultimately launched in early 2013.[^ref-5] It was listed on Steam Greenlight to gauge community interest and eventually achieved approval for Steam distribution.[^ref-17]
+The game was originally slated for release in 2012 but ultimately launched in early 2013.[^ref-5] IGN España's report on the game noted that it was listed on Steam Greenlight at the time,[^ref-17] and it was released on Steam on November 4, 2013.[^ref-20]
 
 **Development Credits:**[^ref-9]
 - **Designer:** Paavo Härkönen
@@ -120,7 +120,7 @@ The game was originally slated for release in 2012 but ultimately launched in ea
 
 ### Technical Achievements
 
-MobyGames' release data credits Unity Technologies as the game engine for its releases, which spanned Windows, macOS, Linux, iOS, Android, and OUYA.[^ref-20] (TV Tropes states the game "was being made in Adventure Game Studio."[^ref-14]) The game's visual presentation deliberately mimics VGA-era graphics, featuring intricate pixel art that could genuinely be mistaken for "some forgotten relic from 1994."[^ref-13]
+MobyGames' release data credits Unity Technologies as the game engine for its releases, which spanned Windows, macOS, Linux, iOS, Android, and OUYA,[^ref-20] and PCGamingWiki lists the Unity engine build as 4.2.2f1.[^ref-27] (TV Tropes states the game "was being made in Adventure Game Studio."[^ref-14]) The game's visual presentation deliberately mimics VGA-era graphics, featuring intricate pixel art that could genuinely be mistaken for "some forgotten relic from 1994."[^ref-13]
 
 The audio design follows the same retro philosophy, utilizing MIDI music that authentically recreates the synthesized soundtracks of early 1990s adventure games.[^ref-5] The iconic SCUMM font hovers above characters' heads during dialogue, further reinforcing the nostalgic aesthetic.[^ref-15]
 
@@ -163,12 +163,13 @@ According to user-contributed GameFAQs trivia, two months after the game's relea
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | March 4, 2013 | PC, Mac, Linux | Initial release[^ref-5] |
+| — | March 4, 2013 | Windows, macOS | Initial release[^ref-5]; MobyGames lists the Windows release as an Amazon release in the United States[^ref-20] |
 | — | March 27–28, 2013 | iOS | Initial App Store release (MobyGames: March 27; GameFAQs US: March 28)[^ref-20][^ref-7] |
 | — | April 23, 2013 | PC (Desura) | Desura distribution[^ref-7] |
 | 1.0.0 | April 30, 2013 | Android | Initial Google Play release[^ref-20] |
 | — | June 11, 2013 | OUYA | Console release[^ref-7] |
 | — | November 4, 2013 | Steam | Steam release[^ref-10] |
+| — | November 4, 2013 | Linux | Steam release; MobyGames gives this as Linux's first release date, while Polygon's March 11, 2013 report and Replay's press release describe the game as available or initially released for PC, Mac and Linux[^ref-20][^ref-9][^ref-6] |
 | — | November 4, 2013 | Windows (Germany) | Retail release by UIG Entertainment GmbH as *Fester Mudd: Der Goldfluch - Episode 1*[^ref-20] |
 
 ### Technical Issues
@@ -215,7 +216,7 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/253310/Fester_Mudd_Curse_of_the_Gold__Episode_1/) - Available with cancellation notice
-- [GamersGate](https://www.gamersgate.com/product/fester-mudd-curse-of-the-gold/) - DRM-Free, €8.99
+- [GamersGate](https://www.gamersgate.com/product/fester-mudd-curse-of-the-gold/) - DRM-Free, USD 9.99[^ref-11]
 
 **Mobile**
 - App Store (iOS) - No longer listed. It launched at $0.99 in 2013;[^ref-4] Apple's lookup for app ID 620797866 returned no results when checked on October 29, 2026.
@@ -250,13 +251,13 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 [^ref-8]: [Steam Community – Fester Mudd](https://steamcommunity.com/app/253310) – cancellation notice: "designed to be part of a trilogy… the other two episodes won't become available"
 [^ref-9]: [Polygon – Fester Mudd Release](https://www.polygon.com/2013/3/11/4088460/fester-mudd-curse-of-the-gold-is-available-now-for-pc-mac-and-linux/) – designer credits, development collaboration
 [^ref-10]: [Wikipedia – Fester Mudd: Curse of the Gold](https://en.wikipedia.org/wiki/Fester_Mudd:_Curse_of_the_Gold) – platforms, Metacritic scores, awards, cancellation during Episode 2 development
-[^ref-11]: [GamersGate – Fester Mudd](https://www.gamersgate.com/es/product/fester-mudd-curse-of-the-gold/) – technical specifications, game description, pricing
+[^ref-11]: [GamersGate – Fester Mudd](https://www.gamersgate.com/es/product/fester-mudd-curse-of-the-gold/) – technical specifications, game description; price listed as USD 9.99, DRM-free, when checked November 11, 2026
 [^ref-12]: [Jay Is Games – Fester Mudd: Curse of the Gold Episode One (Wayback Machine archive, 2015)](https://web.archive.org/web/20150317052307/http://jayisgames.com/review/fester-mudd-curse-of-the-gold-episode-one.php) – character names, humor description, inventory issues
-[^ref-13]: [Pocket Gamer – Fester Mudd Review](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/review/) – Mark Brown, April 4, 2013; interface description, graphics and audio details, review quotes
+[^ref-13]: [Pocket Gamer – Fester Mudd Review](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/review/) – Mark Brown, April 4, 2013; interface (verbs "Look" and "Give"), graphics and audio details, review quotes
 [^ref-14]: [TV Tropes – Fester Mudd](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FesterMuddCurseOfTheGold) – developer background, episode subtitle, cancellation, Adventure Game Studio mention
 [^ref-15]: [EGM – Fester Mudd Review](https://egmnow.com/egm-review-fester-mudd-curse-of-the-gold-episode-1/) – review score, technical issues, homage description
 [^ref-16]: [Metacritic – Fester Mudd Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/critic-reviews/) – PC Metascore, individual review scores
-[^ref-17]: [IGN España – Fester Mudd News](https://es.ign.com/fester-mudd-the-curse-of-the-gold/62236/news/fester-mudd-nueva-aventura-grafica-a-la-vista) – Steam Greenlight mention, Mandel quote
+[^ref-17]: [IGN España – Fester Mudd News](https://es.ign.com/fester-mudd-the-curse-of-the-gold/62236/news/fester-mudd-nueva-aventura-grafica-a-la-vista) – notes the game was listed on Steam Greenlight at the time (January 2013 report); Mandel quote
 [^ref-18]: [Steam Store – Fester Mudd](https://store.steampowered.com/app/253310/Fester_Mudd_Curse_of_the_Gold__Episode_1/) – cancellation notice, technical specs, Steam client 32-bit/macOS notice
 [^ref-19]: [Pocket Gamer – Retro-style point-and-click Fester Mudd is the closest you're gonna get to a new Sierra adventure](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/retro-style-point-and-click-fester-mudd-is-the-closest-youre-gonna-get-to-a-new/) – Mark Brown, March 28, 2013; Sierra comparison headline, Mandel credits
 [^ref-20]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1 Releases](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/releases/) – release dates by platform (iOS March 27, Android April 30, 2013; Android v1.0.0), engine credit (Unity Technologies), German retail release by UIG Entertainment GmbH (November 4, 2013); read via the MobyGames API
@@ -265,3 +266,5 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 [^ref-23]: [Metacritic – Fester Mudd iOS User Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/user-reviews/?platform=ios-iphoneipad) – iOS user score 6.5 (6 ratings)
 [^ref-24]: [GamesBeat – "Replay Games fetches a new game and a chief creative officer (exclusive)" (Dean Takahashi, December 4, 2012)](https://gamesbeat.com/replay-games-fetches-a-new-game-and-a-chief-creative-officer-exclusive/) – Mandel hired as chief creative officer; Fester Mudd "under development at Finland's Prank Entertainment"; "throwback to the old-school adventure games"
 [^ref-25]: [Replay Games – About Us (Wayback, October 2012)](https://web.archive.org/web/20121008155317/https://www.replaygamesinc.com/index/about-us) – "an entertainment software publishing and development company dedicated to making "AAA" content for PC, mobile, and next generation platforms"; "founded in 2008 by a group of game industry veterans"
+[^ref-26]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/) – game description: Bud's disappearance in Loamsmouth, the need to hire a gunslinger to cross Indian territory, and the gold needed to pay him; read via the MobyGames API
+[^ref-27]: [PCGamingWiki – Fester Mudd: Curse of the Gold - Episode 1](https://www.pcgamingwiki.com/wiki/Fester_Mudd:_Curse_of_the_Gold_-_Episode_1) – "Unity engine build: 4.2.2f1" (verified by a PCGamingWiki user on 2017-05-25)
