@@ -10,7 +10,7 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand, in which an
   elderly King Graham tells his granddaughter Gwendolyn stories of his youthful adventures.
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -116,9 +116,9 @@ According to Metacritic aggregate scores, the individual chapters received the f
 ### Modern Assessment
 The Complete Collection holds a MobyScore of 7.5/10 from 15 votes (as of October 2026)[^ref-3].
 
-On Steam, the game holds a "Very Positive" rating (89% of 2,286 English-language user reviews, as of October 2026)[^ref-17]. Chapter 1: A Knight to Remember is now free to play on Steam[^ref-17].
+On Steam, the game holds a "Very Positive" rating (89% of 2,290 English-language user reviews, as of November 11, 2026)[^ref-17]. Chapter 1: A Knight to Remember is free to play on Steam[^ref-17].
 
-- **Steam:** Very Positive (89% of 2,286 English reviews, Oct 2026)[^ref-17]
+- **Steam:** Very Positive (89% of 2,290 English reviews, Nov 11, 2026)[^ref-17]
 - **MobyGames:** 7.5/10 MobyScore (15 votes, Oct 2026)[^ref-3]
 - **GameFAQs:** "Great" user rating (26 ratings)[^ref-4]
 - **Adventure Gamers:** 90/100 (via Metacritic)[^ref-6]
@@ -173,19 +173,33 @@ King's Quest (2015) was the first new entry to actually ship since 1998's King's
 
 The game blends traditional adventure-game mechanics with choice-driven storytelling through its grandfather-granddaughter framing device[^ref-1]. Asked about King's Quest VIII: Mask of Eternity, creative director Matt Korba said, "King's Quest VIII exists… We're not doing a lot with Connor – we might have a cameo… but we're focused on the core family."[^ref-18]
 
-The series remains available through digital distribution on Steam[^ref-17].
+### Collections
+- **King's Quest: The Complete Collection** - the five chapters plus an optional playable Epilogue that is included only in this edition[^ref-1]. Activision's edition was nominated for Adventure Game of the Year at the 20th D.I.C.E. Awards[^ref-21].
+- **King's Quest - Season Pass (Steam)** - a bundle of the four paid chapters, listed at US$24.99 on November 11, 2026[^ref-27].
+
+### Version History
+| Release | Date | Platforms | Notes |
+|---------|------|-----------|-------|
+| Chapter 1: A Knight to Remember | July 28, 2015 (Windows, PlayStation 3, PlayStation 4); July 29, 2015 (Xbox 360, Xbox One) | Windows, PS3, PS4, Xbox 360, Xbox One | Free base game on Steam[^ref-1][^ref-17][^ref-28] |
+| Chapter 2: Rubble Without a Cause | December 15, 2015 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
+| Chapter 3: Once Upon a Climb | April 26, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
+| Chapter 4: Snow Place Like Home | September 27, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
+| Chapter 5: The Good Knight | October 25, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
+| Epilogue | December 20, 2016 | Complete Collection edition | Not sold separately on Steam[^ref-1][^ref-27] |
+| The Complete Collection | July 28, 2015 (as listed by MobyGames for Windows, PS3 and PS4) | Windows, PS3, PS4, Xbox One | Listed under its own MobyGames entry[^ref-3] |
 
 ## Downloads
 
 **Purchase / Digital Stores**
 
-- [Steam – King's Quest](https://store.steampowered.com/app/345390)[^ref-17]
+- [Steam – King's Quest](https://store.steampowered.com/app/345390)[^ref-17]: Chapter 1 is free; Chapters 2 to 5 are separate DLC at US$9.99 each, and the Season Pass is US$24.99 (prices as shown on November 11, 2026)[^ref-27]
 
 This game is not available on GOG[^ref-7].
 
 **Manuals & Extras**
 
 - [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – covers, screenshots, credits[^ref-3]
+- [MobyGames – King's Quest: Chapter I - A Knight to Remember](https://www.mobygames.com/game/74032/kings-quest-chapter-i-a-knight-to-remember/) – the first chapter's separate entry[^ref-28]
 - [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – encyclopedia article[^ref-1]
 - [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical fixes[^ref-2]
 - [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – user reviews, completion times[^ref-4]
@@ -216,7 +230,7 @@ This game is not available on GOG[^ref-7].
 [^ref-13]: [Metacritic – King's Quest](https://www.metacritic.com/game/kings-quest/) – user scores, critic reviews, platform information
 [^ref-14]: [IGDB – King's Quest](https://www.igdb.com/games/kings-quest) – 8.0 from 37 user ratings, 7.1 from 2 critic ratings; 55-hour completionist time based on 1 submission (checked 2026-10-12)
 [^ref-15]: [Common Sense Media – King's Quest](https://www.commonsensemedia.org/game-reviews/kings-quest) – age 10+ recommendation, Princess Bride-style storytelling, voice cast praise, ESRB E10+ rating
-[^ref-17]: [Steam – King's Quest](https://store.steampowered.com/app/345390/Kings_Quest/) – purchase, availability, Very Positive (89% of 2,286 English reviews, October 2026), Chapter 1 free to play
+[^ref-17]: [Steam – King's Quest](https://store.steampowered.com/app/345390/Kings_Quest/) – purchase, availability, Very Positive (89% of 2,290 English reviews, November 11, 2026), Chapter 1 free to play; Steam is credited to the publishers Sierra and Activision and lists Windows only
 [^ref-18]: [Game Informer – Passing The Hat: An In-Depth Look At The New King's Quest (Joe Juba, 2015)](https://gameinformer.com/b/features/archive/2015/07/28/passing-the-hat-an-in-depth-look-at-the-new-kings-quest) – creative director Korba on reimagining, canon, one-button context and Connor; Lindsey Rostal on "good Graham"; Gwendolyn in her grandfather's bedchamber; "tie the past and present together"
 [^ref-19]: [Game Informer – How The Odd Gentlemen Create The Hand-Painted Look For King's Quest (Mike Futter, May 20, 2015)](https://gameinformer.com/games/kings_quest/b/pc/archive/2015/05/20/how-the-odd-gentlement-create-the-hand-painted-look-for-king-s-quest) – hand-painted art using 1980s references
 [^ref-20]: [Game Informer – The Game Awards Offers First Look At Sierra's King's Quest (Mike Futter, December 5, 2014)](https://gameinformer.com/b/news/archive/2014/12/05/the-game-awards-offers-first-look-at-sierra%E2%80%99s-king-s-quest) – first look at the game at The Game Awards 2014
@@ -226,3 +240,5 @@ This game is not available on GOG[^ref-7].
 [^ref-24]: Stevivor – "E3 2015 Preview: King's Quest" (Steve Wright, July 2, 2015) – Korba said Chapter 1 had "over 640 pages of script, with new pages added regularly" (cited as text only)
 [^ref-25]: [VG247 – King's Quest cast includes Back to the Future's Christopher Lloyd, Zelda Williams (May 11, 2015)](https://www.vg247.com/2015/05/11/new-kings-quest-voice-cast-reveal-trailer/) – Lloyd as old King Graham, Zelda Williams as Amaya Blackstone, full cast list
 [^ref-26]: [Activision Blog – Meet the Cast of King's Quest (Scott Lowe, May 11, 2015; Wayback Machine, May 20, 2015)](https://web.archive.org/web/20150520134337/https://blog.activision.com/community/games-blog/more-games/blog/2015/05/11/meet-the-cast-of-kings-quest) – Lloyd as King Graham, Keaton as young Sir Graham, Jones as Gwendolyn; Shawn, Kenny, Z. Williams, Devine and Richardson in the cast
+[^ref-27]: [Steam – King's Quest DLC and Season Pass (Steam store data, checked November 11, 2026)](https://store.steampowered.com/api/appdetails?appids=345390&cc=us&l=en) – Chapter 1 free; Chapter 2 (Dec 15, 2015), Chapter 3 (Apr 26, 2016), Chapter 4 (Sep 27, 2016), Chapter 5 (Oct 25, 2016) each US$9.99; Season Pass US$24.99
+[^ref-28]: [MobyGames – King's Quest: Chapter I - A Knight to Remember](https://www.mobygames.com/game/74032/kings-quest-chapter-i-a-knight-to-remember/) – Chapter 1 entry, Windows/PS3/PS4 July 28, 2015 and Xbox 360/Xbox One July 29, 2015 (read via the MobyGames API, checked 2026-11-11)
