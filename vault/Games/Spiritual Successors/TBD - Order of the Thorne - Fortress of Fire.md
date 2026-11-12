@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Order of the Thorne: Fortress of Fire is an unreleased point-and-click
   adventure game by Infamous Quests, intended as the second and likely final installment
   in the Order of the Thorne anthology series.'
@@ -18,13 +18,13 @@ tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 **Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 after a successful Kickstarter campaign that raised $30,944 plus additional funds via PayPal[^ref-7], the game was billed as "the thrilling conclusion" to *The King's Challenge* (2016), set in the fantasy realm of Uir[^ref-3][^ref-20].
 
-The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page once listed it as "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
+The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page still carries a banner reading "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
 
 Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade classic Sierra adventure games[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13][^ref-6]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
 
@@ -172,7 +172,7 @@ Interest in the game has outlasted its development. Fans were already discussing
 - [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; offers early access to Patreon supporters[^ref-3]
 
 **Purchase / Digital Stores**
-- Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]. The itch.io page still shows the status "In development" (checked 2026-10-27)[^ref-3]
+- Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]. The itch.io page still shows the status "In development" (checked 2026-11-12)[^ref-3]
 
 ## See Also
 
