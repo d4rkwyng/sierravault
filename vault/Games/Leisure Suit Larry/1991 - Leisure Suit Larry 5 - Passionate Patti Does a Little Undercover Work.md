@@ -109,7 +109,7 @@ Adventure Classic Gaming describes the game's original score as the work of "Emm
 
 **Development Credits:**[^ref-15][^ref-50]
 - **Design / Director:** [[Al Lowe]]
-- **Creative Director:** Bill Davis
+- **Creative Director:** [[Bill Davis]]
 - **Executive Producer:** Ken Williams
 - **Producer:** [[Guruka Singh Khalsa]]
 - **Programming:** Brian K. Hughes (lead), Oliver Brelsford, Steve Conrad, Juan Carlos Escobar, John Hartin, Al Lowe

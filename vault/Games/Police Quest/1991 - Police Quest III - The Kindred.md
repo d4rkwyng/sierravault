@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Jan Hammer]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, the third Police Quest game and
@@ -20,7 +20,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,7 @@ Jane Jensen's "first job was as a writer for Police Quest 3 and its manual," in 
 **Development Credits:**[^ref-34]
 - **Design:** James Walls
 - **Director:** [[Mark Crowe]]
-- **Creative Director:** William R. Davis Sr.
+- **Creative Director:** [[Bill Davis]] (credited as William R. Davis Sr.)
 - **Executive Producer:** Ken Williams
 - **Producer:** [[Guruka Singh Khalsa]]
 - **Lead Programming:** [[Doug Oldfield]]

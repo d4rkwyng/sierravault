@@ -130,7 +130,7 @@ The elaborate death scenes, in which each victim meets a gruesome end tied to a 
 - **Additional Written Material:** Lorelei Shannon[^ref-29]
 - **Composer:** Christopher G. Braymen
 - **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
-- **Creative Director:** Bill Davis[^ref-1]
+- **Creative Director:** [[Bill Davis]][^ref-1]
 - **Lead Programmer:** Brian K. Hughes[^ref-29]
 - **CD Conversion Programmers:** Bob Andrews, [[Scott Murphy]][^ref-29]
 - **Art Director:** Cheryl Sweeney[^ref-29]
