@@ -11,7 +11,7 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D point-and-click puzzle adventure and a direct
   sequel to *Gobliins 2: The Prince Buffoon*, reuniting the goblin duo Fingus and Winkle.'
 tags: [adventure, gobliiins, puzzle, sierra]
@@ -19,7 +19,7 @@ composer: [Butterfly Tea Music]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,11 @@ As of November 2026 (checked November 11), searches turned up no professional cr
 
 ### Modern Assessment
 
-Reception so far comes from player ratings. As of November 2026, Steam user reviews are rated "Positive", with 87% of 24 reviews positive (checked November 11).[^ref-14] On itch.io the game is rated 5.0 out of 5 from 17 ratings.[^ref-20] One itch.io player called it "definitely the second best game in the series, next to Goblins3," praising the "humor, graphics, and animation" and adding that "the music is much better compared to Gobliiins5."[^ref-23]
+Reception so far comes from player ratings.
+
+**Aggregate Scores** (as of November 2026): Steam 87% positive of 24 user reviews ("Positive")[^ref-14]; itch.io 5.0 out of 5 from 17 ratings.[^ref-20]
+
+One itch.io player called it "definitely the second best game in the series, next to Goblins3," praising the "humor, graphics, and animation" and adding that "the music is much better compared to Gobliiins5."[^ref-23]
 
 The project was discussed across several adventure-gaming communities:
 
@@ -105,6 +109,20 @@ According to the campaign page, the money would "finance production, which is ex
 ### Production
 
 The campaign's "Risks and challenges" section stated that the game, begun in April 2023, "will be finished in a year or a year and a half"; the base reward's estimated delivery was December 2025.[^ref-1] In an April 6, 2025 Kickstarter update, Gilhodes reported: "Although 75% of the game is almost finished, the last quarter started well, there is still a lot of work to do." The same update said the English translation by Carole was "moving slowly".[^ref-28][^ref-9] In a Kickstarter update that a forum post dates to August 2025, Gilhodes put the game at about 80% (up from 75%) and wrote: "Muriel Tramis helped me with the screenwriting of the 2nd and 12th, the psychedelic level, which is very heavy."[^ref-33][^ref-34] MobyGames credits Gilhodes with the scenario, graphics, animation and programming, Carole Corvisy with the English translation, Claire Taupin as lead tester, and Butterfly Tea Music for the music.[^ref-6]
+
+#### Development Credits
+
+From MobyGames (Windows):[^ref-6]
+
+- Scenario, Graphics, Animation, Programming: Pierre Gilhodes
+- Using: Adventure Game Studio
+- Special Thanks for his help with programming: Jérôme Labbé
+- English Translation: Carole Corvisy
+- Lead Tester: Claire Taupin
+- Music: Butterfly Tea Music; Olivier Renouard (uncredited)
+- Additional Music: Thierry Teodori, Okin Cznupolowsky, Christopher J. Ochs, Philipp Alexander Marguerre, Didier Sallustro
+- Proofreading: Matt Giuca
+- Thanks: Marion Poinsot
 
 In Kickstarter Update #8 on February 2, 2026, Gilhodes wrote: "As soon as the game is released, and as soon as I have collected the keys, I start sending you the emails. I send a Steam key by default, but let me know quickly if you prefer an Itch.io key, or the game files."[^ref-13] The itch.io release was briefly held up by the file size; in a comment on the store page Gilhodes wrote: "I am waiting for a response from Itch.io to release the game. The executable is too heavy, they must add more space."[^ref-27]
 
@@ -144,6 +162,8 @@ Builds announced in the Kickstarter updates:[^ref-22]
 | Update | February 19, 2026 | Steam, itch.io | New version; workaround for the improvised-torch bug at the Gruyère mine entrance (Update #15)[^ref-22] |
 | Update | February 20, 2026 | Steam, itch.io | Fix for Chwinkie's slide bug in the Castle of Sombrague (Update #16)[^ref-22] |
 | Latest | March 25, 2026 | Steam, itch.io | Fix for an issue that could stop level 14 from starting (Update #17)[^ref-22] |
+
+As of November 12, 2026, the itch.io download list shows "Version 12" for the Windows build,[^ref-20] and the Kickstarter updates tab lists 18 updates.[^ref-22]
 
 ## Legacy
 
@@ -190,7 +210,7 @@ Gilhodes created the visual look of the series and its characters at Coktel Visi
 
 ## References
 
-[^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign story, improvements over Gobliiins 5, funding use, Oct 10–Nov 9 2024 funding period, €4,000 goal, current €11,448 / 470 backers (checked 2026-10-23)
+[^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign story, improvements over Gobliiins 5, funding use, Oct 10–Nov 9 2024 funding period, €4,000 goal, current €11,448 / 470 backers (checked 2026-11-12)
 [^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://web.archive.org/web/20241023012845/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
 [^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention, Gobliins 2 characters, Gobliiins 4, GOBLiiNS6 section
 [^ref-5]: [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page
@@ -209,7 +229,7 @@ Gilhodes created the visual look of the series and its characters at Coktel Visi
 [^ref-21]: [Kickstarter – Gobliins 6 Update #9: Jeu/Game](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311) – February 11, 2026: "all mailings are done… The game should be on Steam on Friday"
 [^ref-22]: [Kickstarter – Gobliins 6 Updates](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts) – Update #10 new version (Feb 12, 2026), #11 "Le jeu est sorti sur Steam" (Feb 13, 2026) and patch updates #12–#17 (Feb–Mar 2026)
 [^ref-23]: [itch.io – GOBLiiNS6 player comment by Vargoshi1998](https://itch.io/post/15526252) – player review: "definitely the second best game in the series, next to Goblins3"
-[^ref-24]: [MobyGames – Gobliins 6](https://www.mobygames.com/game/255126/gobliins-6/) – read via the MobyGames API: Windows release 2026-02-13 (Steam), published by Schnibble Productions; story summary; Prince Buffoon becomes a third playable character; 16 levels with autosave
+[^ref-24]: [MobyGames – Gobliins 6](https://www.mobygames.com/game/255126/gobliins-6/) – Windows release 2026-02-13 (Steam), published by Schnibble Productions; story summary; Prince Buffoon becomes a third playable character; 16 levels with autosave
 [^ref-25]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) – Ulule campaign: started 2024-10-09, ended 2024-11-13, €5,040 from 154 supporters, €4,000 goal (126%)
 [^ref-26]: [Multiplayer.it – Gobliins6 lanciato su Kickstarter, è il seguito diretto di Gobliins 2](https://multiplayer.it/notizie/gobliins6-lanciato-su-kickstarter-e-il-seguito-diretto-di-gobliins-2.html) – Simone Tagliaferri, 11/10/2024: sequel to both Gobliiins5 and Gobliins2; Gobliiins5's good sales prompted the new episode
 [^ref-27]: [itch.io – GOBLiiNS6 (Wayback Machine, February 10, 2026)](https://web.archive.org/web/20260210173355/https://pierre-gilhodes.itch.io/gobliins6) – "Buy Now $10.00", Status Released; Gilhodes comment: "The executable is too heavy, they must add more space"
