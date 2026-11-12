@@ -10,13 +10,13 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: None (player acts in the historical role set by each mission briefing)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'Cleopatra: Queen of the Nile is the 2000 expansion pack for Pharaoh, developed by BreakAway Games with Impressions Games and published by Sierra, adding four campaigns of 15 missions set from 1490 BC to 35 BC.'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,6 +88,7 @@ GameSpot also reported a bug in version 1.0. If burial goods were dispatched to 
 | Game Over Online | 81/100 | Faulted the unchanged random-walker service system[^ref-18] |
 | Computer Games Magazine | 4/5 | Dave Markell, posted October 23, 2000: "though it's a bit uneven, Cleopatra is a worthwhile add-on to a great game"[^ref-38] |
 | GamePro | 80/100 | "The gameplay gets a little repetitive"[^ref-18] |
+| Electric Playground | 80/100 (via Metacritic) | Score as listed on Metacritic's critic list[^ref-45] |
 | ActionTrip | 80/100 | "It's a beautiful game that attracts with its looks and dynamics rather than originality"[^ref-18]. Editor's rating line: "No originality and too few improved graphic touches"[^ref-41] |
 | GameSpot | 7.5/10 | Ron Dulin, updated August 1, 2000[^ref-31] |
 | CNET Gamecenter | 70/100 | Called it "a must-have for Pharaoh freaks"[^ref-18] |
@@ -112,6 +113,8 @@ Metacritic's user score stands at 7.6 from 15 ratings[^ref-18]. The bundled Phar
 
 Computer Games Magazine's website (cdmag.com) reported on July 6, 2000, citing Impressions Games, that the expansion had gone gold and would reach retail around July 14. It noted that the pack was developed by BreakAway Games, the studio behind *Sid Meier's Antietam!*[^ref-32]. MobyGames dates the US release to July 12, 2000[^ref-1], while GameFAQs and Metacritic give July 11, 2000[^ref-5][^ref-18].
 
+The publisher is given differently by different sources. The retail box and period reviews read "Sierra Studios" (Computer Gaming World's issue 196 listing prints "Publisher: Sierra Studios Developer: Impressions Games")[^ref-39][^ref-41][^ref-42][^ref-43], while Metacritic's details page lists "Sierra Entertainment"[^ref-44].
+
 ### Production Team
 
 MobyGames credits 42 people. Key roles[^ref-28]:
@@ -122,9 +125,14 @@ MobyGames credits 42 people. Key roles[^ref-28]:
 | Designer | Charles Kibler |
 | Programming | Natalya Abramova, Ed Beach, Peter Giancola, Andy House, Jeff Ullman |
 | Sound | Eric Heberling |
+| Art | Billy Ahlswede, Michelle DiPaula, Dwight Eppinger, Tim Kipp, Stephen Langmead, Bob Rickert |
 | Quality Assurance Lead | Melissa Sawicki |
 
 No composer is listed in MobyGames' credits for the expansion[^ref-28].
+
+### Cut Content
+
+Computer Games Magazine's Dave Markell wrote: "There are still a few things missing from Cleopatra. The great temple to Amon at Karnak (which was supposed to be part of the expansion) wound up on the cutting room floor somewhere. No scenarios about the fascinating, enigmatic monotheist Akhenaten and his new capital city, Akhetaten, made it into the game either"[^ref-38].
 
 ### Technical Specifications
 
@@ -146,6 +154,10 @@ No composer is listed in MobyGames' credits for the expansion[^ref-28].
 |---------|------|----------|-------|
 | 1.0 | July 2000 | Windows | Original release, as reviewed by GameSpot[^ref-31] |
 | 2.1 | November 17, 2000 | Windows | Fixed tomb carry-over into Ramses in the Valley, tomb display and monument reversion when burial provisions are dispatched, obelisk scaffolding, lamp deliveries, and personal savings carry-over in the Pharaoh campaigns[^ref-29] |
+| Italy release | September 4, 2000 | Windows | Regional release, distributed by Leader S.p.a.[^ref-1] |
+| UK release | September 15, 2000 | Windows | Regional release, distributed by Havas Interactive UK[^ref-1] |
+| Germany release | October 1, 2000 | Windows | Regional release, distributed by Havas Interactive SA[^ref-1] |
+| Taiwan release | January 8, 2001 | Windows | Regional release, published by Dysin Interactive Corp.[^ref-1] |
 
 The Impressions Games Wiki dates this patch to March 19, 2002. It adds that the patch made the Pharaoh missions Bubastis and Hetepsenusret winnable again by adding a Zoo to each[^ref-6].
 
@@ -161,7 +173,7 @@ MobyGames lists the expansion as included in *Pharaoh Gold*, *The Great Empires 
 
 ### Influence on the Series
 
-The Impressions Games Wiki describes Cleopatra's carry-over of monuments and troops between missions as a precursor to Zeus: Master of Olympus. Zeus extended the idea to whole cities, funds and military forces[^ref-6].
+The Impressions Games Wiki describes Cleopatra's carry-over of monuments and troops between missions as a precursor to [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]]. Zeus extended the idea to whole cities, funds and military forces[^ref-6].
 
 ## Downloads
 
@@ -177,10 +189,11 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 
 - [[1999 - Pharaoh|← Base Game: Pharaoh]] - Required base game
 - [[2023 - Pharaoh - A New Era|→ Remake: Pharaoh - A New Era]] - 2023 remake including Cleopatra content
+- [[City Builders Series]] - Series overview
 
 ## References
 
-[^ref-1]: [MobyGames – Cleopatra: Queen of the Nile](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Release date, developers, publisher, description (4 campaigns, 15 missions, scenario editor), critic and player averages, compilations
+[^ref-1]: [MobyGames – Cleopatra: Queen of the Nile](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Release date, developers, publisher, description (4 campaigns, 15 missions, scenario editor), critic and player averages, compilations; regional release dates (read via the MobyGames API)
 [^ref-2]: [ModDB – Cleopatra: Queen of the Nile](https://www.moddb.com/games/cleopatra-queen-of-the-nile) – Setting summary and enemy empires
 [^ref-4]: [StrategyWiki – Cleopatra: Queen of the Nile/Walkthrough](https://strategywiki.org/wiki/Cleopatra:_Queen_of_the_Nile/Walkthrough) – Campaign and mission list, years, objectives, ranks
 [^ref-5]: [GameFAQs – Cleopatra: Queen of the Nile](https://gamefaqs.gamespot.com/pc/354592-cleopatra-queen-of-the-nile) – Release date (July 11, 2000), developer and publisher
@@ -204,3 +217,5 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 [^ref-41]: [ActionTrip – Cleopatra review by Branislav Babovic, September 5, 2000 (archived, page 1)](http://web.archive.org/web/20010329165811/http://www.actiontrip.com:80/reviews/cleopatra.phtml) and [page 2](http://web.archive.org/web/20010423105139/http://www.actiontrip.com:80/reviews/cleopatra_2.phtml) – Editor's rating 80%; "a few improvements over the Pharaoh engine"; difficulty, same graphics and sound, map editor, no manual
 [^ref-42]: [GameSpy – Cleopatra review by Nate Timperley (archived)](http://web.archive.org/web/20031206012518/http://www.gamespy.com/legacy/reviews/cleopatra_b.shtm) – Tomb robbers, plagues, lamp-delivery bug and workaround; the numeric score (80) comes from Metacritic
 [^ref-43]: [The Adrenaline Vault – Cleopatra review by Dan Simpson, July 26, 2000 (archived)](http://web.archive.org/web/20030228184304/http://www.avault.com/reviews/review_temp.asp?game=cleopat) – New goods, creatures and plagues; any-scenario play; page 1 of the review; the numeric score (70) comes from Metacritic
+[^ref-44]: [Metacritic – Cleopatra: Queen of the Nile details](https://www.metacritic.com/game/cleopatra-queen-of-the-nile/details/) – Publisher listed as Sierra Entertainment; initial release date Jul 11, 2000
+[^ref-45]: [Metacritic – Cleopatra: Queen of the Nile critic reviews](https://www.metacritic.com/game/cleopatra-queen-of-the-nile/critic-reviews/) – Electric Playground score 80, as listed by Metacritic
