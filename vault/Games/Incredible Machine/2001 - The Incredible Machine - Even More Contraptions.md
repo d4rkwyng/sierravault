@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom physics engine
 protagonist: None (player-driven)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'The Incredible Machine: Even More Contraptions is a 2001 Dynamix puzzle
   game for Windows, Mac and Palm OS with 250 puzzles, 200 of them new, built on the engine
   of Return of the Incredible Machine: Contraptions.'
@@ -18,7 +18,7 @@ tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine: Even More Contraptions
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -113,6 +113,11 @@ The game was developed by Dynamix, Inc. and published by Sierra.[^ref-1] Its gam
 - **Designer/Art Director:** Brian Hahn
 - **Contraption Design:** Neil Witkin, Jared W. Eden, Richard Tunnell, Garrett Turner
 - **Additional Design:** includes Kevin Ryan and Jeffrey Tunnell
+- **Story Concept:** Neil Witkin
+- **Original Concept:** Jeffrey Tunnell
+- **Lead Programmer:** Nancy Hamilton
+- **Parts Programmers:** Richard Rayl, Steven D. Letsom, Kevin Ryan, John Leavens, Blue Moon Computer Consulting
+- **Mac Programming:** Jon Milnes
 - **Original Series Design:** MobyGames credits Kevin Ryan and Jeffrey Tunnell as designers of the 1992 original.[^ref-36] In a 2019 comment on The Digital Antiquarian, Ryan wrote that Tunnell "presented the concept to me, but he didn't do the design except for feedback as dev went along."[^ref-40]
 
 ### Technical Achievements
@@ -149,7 +154,7 @@ The game introduced the WonSwap service, allowing players to share homemade puzz
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 28, 2001 or September 14, 2001 | Windows | Sources disagree: GameSpot and Gamepressure give August 28;[^ref-41][^ref-4] Metacritic and GameFAQs give September 14[^ref-5][^ref-30] |
+| 1.0 | August 28, 2001 or September 14, 2001 | Windows | Sources disagree: GameSpot, Gamepressure and Amazon give August 28;[^ref-41][^ref-4][^ref-2] Metacritic and GameFAQs give September 14[^ref-5][^ref-30] |
 | 1.0 | 2001 | Mac OS | Macintosh release[^ref-1] |
 | 1.0 | 2001 | Palm OS | Palm Pilot version with its own parts and puzzles[^ref-3] |
 | Mega Pack | October 1, 2009 | Windows | Included in digital compilation from PushButton Labs/Disney Interactive[^ref-31] |
@@ -190,7 +195,7 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 
 ### Spiritual Successor and Later Releases
 
-**Contraption Maker (2014):** A spiritual successor developed by Spotkin. Jeff Tunnell wrote on the game's blog that Kevin Ryan and Brian Hahn were both working on the project at Spotkin.[^ref-39] Tunnell said on the game's dev blog: "Working on Contraption Maker with modern processors and GPUs, huge memory, connectivity, and high definition monitors is like being in a dream world."[^ref-37] In a Reddit post, Kevin Ryan, who described himself as having been "designing and programming games for almost 5 decades", listed over 200 parts and critters, 196 puzzles plus 54 tutorial puzzles, and online building "with up to 7 other players."[^ref-25]
+**Contraption Maker (2014):** A spiritual successor developed by Spotkin, released on Steam on July 7, 2014.[^ref-42] Jeff Tunnell wrote on the game's blog that Kevin Ryan and Brian Hahn were both working on the project at Spotkin.[^ref-39] Tunnell said on the game's dev blog: "Working on Contraption Maker with modern processors and GPUs, huge memory, connectivity, and high definition monitors is like being in a dream world."[^ref-37] In a Reddit post, Kevin Ryan, who described himself as having been "designing and programming games for almost 5 decades", listed over 200 parts and critters, 196 puzzles plus 54 tutorial puzzles, and online building "with up to 7 other players."[^ref-25]
 
 **The Incredible Machine (iOS, 2011):** Published by Disney, then quietly pulled from the iOS store within a year of release.[^ref-37]
 
@@ -278,3 +283,5 @@ Even More Contraptions was named 2001 Puzzle Game of the Year in a Game Industry
 [^ref-40]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher (2018): Tunnell stepped down at Dynamix to found Jeff Tunnell Productions in early 1992; Kevin Ryan's simulator experience behind the physics; Ryan's own comment (February 25, 2019) on the design credit
 
 [^ref-41]: [GameSpot – The Incredible Machine: Even More Contraptions](https://www.gamespot.com/games/the-incredible-machine-even-more-contraptions/) – game page: "First Release August 28, 2001", PC, Mac
+
+[^ref-42]: [Steam – Contraption Maker](https://store.steampowered.com/app/241240/) – release date July 7, 2014; Steam lists Kevin Ryan as developer
