@@ -10,13 +10,13 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Casino 2002 (Hoyle Casino 6), the sixth Hoyle Casino edition, released by Sierra in 2001 as a hybrid PC/Mac CD-ROM with fourteen casino games, new Baccarat and Video Blackjack, and Palm video poker.
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2002
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,6 +88,8 @@ No critic aggregate exists for this edition; MobyGames shows no Moby Score[^ref-
 
 Hoyle Casino 2002 was released alongside Hoyle Card Games 2002, Hoyle Board Games 2002, Hoyle Word Games 2002 and Hoyle Kids Games 2002, several of which also included Palm OS versions of selected games[^ref-18].
 
+Sources name the publisher differently. MobyGames and Sierra's 2001 product page give "Sierra On-Line, Inc."[^ref-1][^ref-29]; Sierra's March 2002 Hoyle page gives "Sierra Entertainment, Inc."[^ref-31]; and Amazon.com lists Vivendi Universal as the manufacturer[^ref-30].
+
 ### Production
 
 MobyGames credits 58 people on the Windows version, including executive producer Stephen H. Van Horn, producer Jason Willig, designers Jason Willig, Ryan Spain, Jonathan Watts and Will Barker, project lead John Gilmore, and art director [[Rabih AbouJaoudé]][^ref-1].
@@ -132,6 +134,13 @@ MobyGames credits ten voice actors on the Windows version. Mike Caviezel handled
 - **Disk Space:** 100 MB according to Sierra's 2001 product page[^ref-29]; 135 MB according to GameGenie's review[^ref-20]
 - **Operating System:** Windows 95, 98, 2000, Me, XP
 
+**System Requirements (Mac):**[^ref-29]
+- **Processor:** PowerPC or PowerMac G3 including iMac
+- **Operating System:** System 7.5.3 or higher
+- **Memory:** 32 MB RAM (with virtual memory on)
+- **Disk Space:** 100MB Hard Disk Space
+- **Other:** 4x CD-ROM, 640x480 @ thousands of colors, mouse
+
 ### Cut Content
 
 No documented cut content has been identified for this edition.
@@ -146,7 +155,7 @@ No documented cut content has been identified for this edition.
 Sierra's product page lists 100MB of hard disk space for both the PC and Macintosh versions[^ref-29].
 
 **Product Identification:**
-- **UPC:** 0-20626-71428-0[^ref-7][^ref-17]
+- **UPC:** 0-20626-71428-0[^ref-7][^ref-17]; Amazon.com lists a second code, 020626712873[^ref-30]
 - **Box ID:** 3108[^ref-7]
 - **Amazon ASIN:** B00005MJ9H[^ref-17][^ref-21]
 
@@ -178,7 +187,7 @@ No fan projects have been documented for this edition.
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
+- Not sold on GOG or Steam (checked November 2026)
 
 **Download / Preservation**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6)
@@ -197,9 +206,39 @@ No fan projects have been documented for this edition.
 - [[2000 - Hoyle Casino|← Previous: Hoyle Casino 2001]]
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino 2003]]
 
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Board Games|Hoyle Board Games]]
 - [[2001 - Hoyle Kids Games|Hoyle Kids Games]]
-
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Casino Empire]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2010 - Hoyle Puzzle and Board Games 2011]]
+- [[2010 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
@@ -221,37 +260,6 @@ No fan projects have been documented for this edition.
 - [[1999 - Hoyle Casino]]
 - [[1999 - Hoyle Slots and Video Poker]]
 - [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2007 - Hoyle Casino 2008]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2010 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
 
 ## References
 

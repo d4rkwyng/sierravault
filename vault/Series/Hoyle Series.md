@@ -51,7 +51,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2000 | [[2000 - Hoyle Solitaire and Mahjong Tiles\|Hoyle Solitaire and Mahjong Tiles 2000]] | |
 | 2000 | [[2001 - Hoyle Board Games\|Hoyle Board Games 2001]] | |
 | 2000 | [[2001 - Hoyle Word Games\|Hoyle Word Games 2001]] | |
-| 2001 | [[2001 - Hoyle Casino\|Hoyle Casino 2002]] | |
+| 2001 | [[2001 - Hoyle Casino\|Hoyle Casino 2002]] | Hoyle Casino 6, sold as Hoyle Casino 2002; first release September 25, 2001 ([Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=box)) |
 | 2001 | [[2001 - Hoyle Kids Games\|Hoyle Kids Games 2001]] | |
 | 2001 | [[2002 - Hoyle Card Games\|Hoyle Card Games 2002]] | |
 | 2002 | [[2002 - Hoyle Casino Empire\|Hoyle Casino Empire]] | Casino business simulation related to *Hoyle Casino*[^ref-17] |
