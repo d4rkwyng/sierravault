@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Evan Schiller]
 description: Hoyle Backgammon & Cribbage is a digital adaptation of two classic board
   and card games, released by Sierra On-Line in 1999 for Windows and Macintosh.
@@ -18,13 +18,13 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-15][^ref-25] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-21] The series is named after 18th-century playing card expert Edmond Hoyle.[^ref-3]
 
-The title combined two games: backgammon, in which players move their markers around the board and off it, the first to remove all their pieces winning, and cribbage, played with a deck of cards and a cribbage board.[^ref-1] Players could challenge ten computer-controlled opponents or play against friends over the internet.[^ref-1] Online play ran through Sierra's WON.NET service: Wikipedia's list of WON-enabled games gives a WON launch date of March 15, 1999, and lists the original retail servers as shut down on February 29, 2000, in favour of Sierra's free, browser-based Hoyle Channel, which launched in July 1999.[^ref-24][^ref-26][^ref-31]
+The title combined two games: backgammon, in which players move their markers around the board and off it, the first to remove all their pieces winning, and cribbage, played with a deck of cards and a cribbage board.[^ref-1] Players could challenge ten computer-controlled opponents or play against friends over the internet.[^ref-1] Online play ran through Sierra's WON.NET service: Wikipedia's list of WON-enabled games gives a WON launch date of March 15, 1999, and lists the original retail servers as shut down on February 29, 2000, in favour of Sierra's free, browser-based Hoyle Channel, which launched in July 1999; that list names the entry "Hoyle Classic Backgammon & Cribbage".[^ref-24][^ref-26][^ref-31]
 
 The game arrived during a turbulent period in Sierra's corporate history, shortly after the February 1999 studio closures known as "Black Monday" or "Chainsaw Monday". Accounts of the job losses differ: AGDB puts them at about 135, while English Wikipedia says about 250 people lost their jobs.[^ref-4][^ref-30] The game was rated Everyone by the ESRB.[^ref-1][^ref-2][^ref-15]
 
@@ -110,6 +110,12 @@ Sierra Chest gives the game's first release date as March 15, 1999.[^ref-6] All 
 - **Artist - 2D Illustrator:** Gayle Rowbotham
 - **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood, Robert L. Jerauld
 - **Composer:** Evan Schiller
+- **Sound Engineer - Lip-synching:** Dennis Ham
+- **Sound Editing - Lip-synching:** Mike Caviezel
+- **Production Coordinator:** Laurel LaFayette
+- **QA Manager:** Gary Stevens
+- **Lead QA Engineer:** Alex Jacobs
+- **WON.NET Team:** Ralph Braun (Technology Manager); Stuart Seelye and Len Skiena (Lead Engineers); David Ruf, Dean Webster, Lee Olds and Maruti Sharma (Engineers)
 - **Voice Actors:** Pat Cashman and eight others (see Voice Cast)
 
 ### Technical Achievements
@@ -135,7 +141,7 @@ No specific information about cut content has been documented in available sourc
 | US Retail | May 1999 | Macintosh | US release[^ref-2][^ref-29] |
 | EU Release | 2001 | PC | European release; GameFAQs prints the date as "08/10/01"[^ref-1][^ref-2] |
 
-Sierra Chest gives a first release date of March 15, 1999,[^ref-6] matching the WON launch date;[^ref-24] GameFAQs lists the US Mac release as May 1999[^ref-29] and and a European PC release dated "08/10/01" as printed,[^ref-2] while MobyGames lists a UK release in 2001.[^ref-1]
+Sierra Chest gives a first release date of March 15, 1999,[^ref-6] matching the WON launch date;[^ref-24] GameFAQs lists the US Mac release as May 1999[^ref-29] and a European PC release dated "08/10/01" as printed,[^ref-2] while MobyGames lists a UK release in 2001.[^ref-1]
 
 ### Technical Issues
 
@@ -183,8 +189,7 @@ Hoyle Backgammon & Cribbage was released after Sierra had passed from independen
 ## Downloads
 
 **Download / Preservation**
-- The game may be available through vintage game preservation sites
-- Check Internet Archive for potential mirrors
+- No verified preservation copy is listed.
 
 **Note:** Due to Sierra Entertainment's corporate transitions and eventual absorption into Activision Blizzard,[^ref-7] official digital distribution of older Hoyle titles may be limited.
 
@@ -205,6 +210,7 @@ Hoyle Backgammon & Cribbage was released after Sierra had passed from independen
 - [[1996 - Hoyle Casino]]
 - [[1996 - Hoyle Official Book of Games - Volume 5]]
 - [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
 - [[1997 - Hoyle Classic Card Games]]
 - [[1997 - Hoyle Poker]]
 - [[1998 - Hoyle Battling Ships and War]]
@@ -227,13 +233,13 @@ Hoyle Backgammon & Cribbage was released after Sierra had passed from independen
 - [[2003 - Hoyle Casino]]
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
