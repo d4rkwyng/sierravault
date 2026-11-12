@@ -7,11 +7,11 @@ headquarters: "United States"
 notable_games: ["Al Emmo and the Lost Dutchman's Mine", "Mage's Initiation: Reign of the Elements"]
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ In a 2006 interview, Adventure Classic Gaming noted that Brimhall co-founded Him
 
 ### Al Emmo and the Lost Dutchman's Mine (2006)
 
-The studio's first game, Al Emmo and the Lost Dutchman's Mine, was released on September 6, 2006.[^ref-36][^ref-32] It was built with Chris Jones' Adventure Game Studio.[^ref-21] Himalaya published it itself, and Adventure Gamers called it "the first retail game from Himalaya Studios".[^ref-32][^ref-35] An enhanced version 4.0 was released on November 26, 2013, and the game reached Steam on May 9, 2014.[^ref-27][^ref-26]
+The studio's first game, Al Emmo and the Lost Dutchman's Mine, was released in September 2006: Himalaya's tenth-anniversary forum post gives September 5, while Himalaya's shipping press release and MobyGames are dated September 6.[^ref-40][^ref-36][^ref-32] It was built with Chris Jones' Adventure Game Studio.[^ref-21] Himalaya published it itself, and Adventure Gamers called it "the first retail game from Himalaya Studios".[^ref-32][^ref-35] An enhanced version 4.0 was released on November 26, 2013, and the game reached Steam on May 9, 2014.[^ref-27][^ref-26]
 
 ### Al Emmo's Postcards from Anozira (2010)
 
@@ -35,7 +35,7 @@ In August 2010 Himalaya released *Al Emmo's Postcards from Anozira*, a hidden-ob
 
 ### Mage's Initiation (2013–2019)
 
-Himalaya's second game, Mage's Initiation: Reign of the Elements, was crowdfunded on Kickstarter in early 2013 and raised about $125,000.[^ref-3][^ref-31] It was released on January 30, 2019, developed and published by Himalaya,[^ref-33][^ref-34] and received an aggregated Metacritic score of 70.[^ref-10]
+Himalaya's second commercial game, Mage's Initiation: Reign of the Elements, was crowdfunded on Kickstarter in early 2013 and raised about $125,000.[^ref-3][^ref-31] It was released on January 30, 2019, developed and published by Himalaya,[^ref-33][^ref-34] and received an aggregated Metacritic score of 70.[^ref-10]
 
 ### Current status
 
@@ -54,7 +54,12 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 ## Key People
 
 - **Britney K. Brimhall**: co-founder; Chairman and CEO of Himalaya Studios in 2006.[^ref-10][^ref-22]
+- **Daniel Stacey**: designer of Mage's Initiation: Reign of the Elements, with Warren.[^ref-9]
 - **Christopher T. Warren**: co-founder; listed as CEO on Himalaya Studios, Inc.'s Gust investor profile (archived 2019).[^ref-10][^ref-22][^ref-37]
+
+## Legacy
+
+Al Emmo and the Lost Dutchman's Mine carries a Metacritic score of 77 on its Steam page (as of November 2026).[^ref-26] In March 2019, shortly after Mage's Initiation's release, Daniel Stacey of Himalaya Studios was interviewed on episode 9 of the Adventure Games Podcast, which covered his work on Al Emmo and the decade-long development of Mage's Initiation.[^ref-41]
 
 ## Games
 
@@ -75,7 +80,7 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 [^ref-23]: [Steam - Al Emmo's Postcards from Anozira](https://store.steampowered.com/app/375020/) — developer and publisher Himalaya Studios; released Jun 2, 2015
 [^ref-24]: [Himalaya Studios - Postcards from Anozira](https://www.himalayastudios.com/postcards.php) — product page: hidden-object game, 5 playable characters, 145 postcards to collect
 [^ref-25]: [Himalaya Studios - News (Wayback 2011)](https://web.archive.org/web/20111204093620/http://www.himalayastudios.com:80/news.php) — "New game: Postcards from Anozira, August 02, 2010"; "a Hidden Object Game with the AGS engine, based on Al Emmo"
-[^ref-26]: [Steam - Al Emmo and the Lost Dutchman's Mine](https://store.steampowered.com/app/296850/) — developer and publisher Himalaya Studios; released May 9, 2014
+[^ref-26]: [Steam - Al Emmo and the Lost Dutchman's Mine](https://store.steampowered.com/app/296850/) — developer and publisher Himalaya Studios; released May 9, 2014; Metacritic 77 shown (read November 2026)
 [^ref-27]: [Himalaya Studios forum - Al Emmo Enhanced Out Now!](http://www.himalayastudios.com/forum/index.php?topic=1002.0) — November 26, 2013: "version 4.0 has been released"
 [^ref-28]: [Himalaya Studios - About](https://www.himalayastudios.com/about.php) — "a C Corporation established in 2011 in Delaware"; founders "previously co-established AGDInteractive, LLC"
 [^ref-29]: [IndieDB - Himalaya Studios, Inc](https://www.indiedb.com/company/himalaya-studios) — Developer & Publisher profile; Delaware 2011 (same text as the About page)
@@ -89,3 +94,6 @@ Mage's Initiation is a point-and-click adventure and RPG hybrid set in the land 
 [^ref-37]: [Gust - Himalaya Studios, Inc. (Wayback 2019-12-09)](https://web.archive.org/web/20191209085305/https://gust.com/companies/himalaya_studios_inc) — "Christopher Warren CEO"; founded August 2011
 [^ref-38]: [Himalaya Studios - News](https://www.himalayastudios.com/news.php) — newest item "Cross Promo Cosplay Contest with Transolar Games and Himalaya Studios", March 23, 2019 (read November 11, 2026)
 [^ref-39]: [Himalaya Studios - News (Wayback 2026-03-18)](https://web.archive.org/web/20260318075458/http://www.himalayastudios.com/news.php) — same page as captured March 18, 2026; top item still March 23, 2019
+[^ref-9]: [Wikipedia - Mage's Initiation: Reign of the Elements](https://en.wikipedia.org/wiki/Mage's_Initiation:_Reign_of_the_Elements) — infobox designer: Daniel Stacey, Chris Warren
+[^ref-40]: [Himalaya Studios Forum - Happy 10th Anniversary Al Emmo! (September 5, 2016)](http://www.himalayastudios.com/forum/index.php?topic=1115.0) — "Al Emmo and the Lost Dutchman's Mine was first released on September 5th 2006!"
+[^ref-41]: [Adventure Games Podcast - Episode 9: Interview with Daniel Stacey of Himalaya Studios (March 29, 2019)](https://adventuregamespodcast.com/podcast/2019/3/29/episode-9-interview-with-daniel-stacey-of-himalaya-studios) — host Seoirse Dunbar; covers Al Emmo, Mage's Initiation's ten-year development
