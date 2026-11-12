@@ -71,7 +71,7 @@ Lester's clearest statement of his design aims is his 1996 note on Lords of the 
 
 ## Legacy
 
-Impressions grew from a hobby business started with friends into a studio that CNET Gamecenter reported as Havas Interactive's most profitable game division in 1998, achieved "with only 40 employees".[^ref-2][^ref-17] Lester's own figures put Caesar II, Caesar III and Lords of the Realm II at about 2.5 million copies each.[^ref-2] Firefly Studios, which he co-founded, continues the historical strategy line with the Stronghold series.[^ref-5]
+Impressions grew from a hobby business started with friends into a studio that CNET Gamecenter reported as Havas Interactive's most profitable game division in 1998, achieved "with only 40 employees".[^ref-2][^ref-17] In the 2013 interview Lester said Caesar II and Caesar III "both sold about 2.5 million copies around the world" and that Lords of the Realm II "also sold another 2.5 million copies".[^ref-2] Firefly Studios, which he co-founded, continues the historical strategy line with the Stronghold series.[^ref-5]
 
 ## Games
 

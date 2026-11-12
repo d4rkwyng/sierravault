@@ -10,7 +10,7 @@ series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Caesar III is a city-building strategy game that transports players to
  the Roman Empire, where they serve as a provincial governor tasked with building
  thriving settlements.
@@ -18,7 +18,7 @@ tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ The game's official manual states that "Caesar III is not a war game, although y
 > **Developer:** [[Impressions Games]][^ref-19]
 > **Designer:** [[David Lester]][^ref-48]
 > **Programmer:** [[Simon Bradbury]][^ref-48]
-> **Publisher:** Sierra Studios (Sierra On-Line)[^ref-19][^ref-98]
+> **Publisher:** Sierra Studios (Sierra On-Line); the current Steam and GOG listings name Activision[^ref-19][^ref-98][^ref-85][^ref-33]
 > **Engine:** 2D isometric graphics engine[^ref-19]
 > **Platforms:** Windows, Macintosh[^ref-19]
 > **Release Year:** 1998
@@ -93,9 +93,9 @@ The game was nominated for Computer Strategy Game of the Year at the 1999 D.I.C.
 
 ### Modern Assessment
 
-Caesar III has maintained strong regard among players decades after its release. On modern digital platforms, the game continues to receive positive reviews, with Steam users rating it "Very Positive" (93% of 1,243 English-language reviews as of October 26, 2026)[^ref-85] and GOG users rating it 4.5/5 from 438 reviews (October 26, 2026)[^ref-33]. MobyGames lists an 83% critic average from 42 ratings and a Moby Score of 8.0 (October 2026)[^ref-45].
+Caesar III has maintained strong regard among players decades after its release. On modern digital platforms, the game continues to receive positive reviews, with Steam users rating it "Very Positive" (93% of 1,245 English-language reviews as of November 11, 2026)[^ref-85] and GOG users rating it 4.5/5 from 443 reviews (November 11, 2026)[^ref-33]. Both stores list Impressions Games as developer and Activision as publisher, while the 1998 release was published by Sierra[^ref-85][^ref-33][^ref-98]. MobyGames lists an 83% critic average from 42 ratings and a Moby Score of 8.0 (October 2026)[^ref-45].
 
-Modern retrospective reviews emphasize the game's lasting appeal. One 2021 Metacritic user review stated, "The best game in the Caesar franchise. It has enough depth to be challenging and managed also not to burden the player with to much micromanaging"[^ref-88]. Another user on the same platform declared, "I feel that Caesar III can unquestionably be called the Citybuilder upon which all future Citybuilers should be measured"[^ref-88]. The game's enduring popularity is evidenced by active modding communities and open-source reimplementations like Julius and Augustus that allow modern players to experience enhanced versions of the classic gameplay[^ref-32][^ref-31].
+Modern retrospective reviews emphasize the game's lasting appeal. One 2021 Metacritic user review stated, "The best game in the Caesar franchise. It has enough depth to be challenging and managed also not to burden the player with to much micromanaging"[^ref-88]. Another user on the same platform declared, "I feel that Caesar III can unquestionably be called the Citybuilder upon which all future Citybuilers should be measured"[^ref-88]. The game's enduring popularity is evidenced by active modding communities and open-source reimplementations: Julius, whose stated goal is "exactly the same game logic as Caesar 3" with some interface enhancements[^ref-103], and Augustus, a fork that adds gameplay changes[^ref-31]. Both require the original game files[^ref-103][^ref-31].
 
 ## Development
 
@@ -119,7 +119,7 @@ The walker-based distribution system was the game's signature technical choice. 
 
 The isometric visuals drew praise from players; one GameFAQs user review called the graphics "some of the best I've ever seen in a computer game"[^ref-24]. City size has practical limits, though; as long-term player Teoalida observed, "The game was NOT designed to sustain cities with over 30000 inhabitants"[^ref-86].
 
-Sierra's 1.0.1.0 update remains important today, as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26]. The 1.0.1.0 update was issued in several regional versions, including UK, German, Spanish and French releases[^ref-92].
+Sierra's 1.0.1.0 update remains important today, as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26][^ref-32]. The 1.0.1.0 update was issued in several regional versions, including UK, German, Spanish and French releases[^ref-92].
 
 ### Version History
 
@@ -135,7 +135,7 @@ Some players still treat Caesar III as a benchmark for the genre; one Metacritic
 
 The game was a commercial success. Sierra Studios had shipped 150,000 units within four weeks of release[^ref-99], and in January 1999 GameSpot reported that it "has sold over 400,000 units worldwide"[^ref-100]. In February 1999 Sierra announced worldwide sell-through of "over a quarter of a million"[^ref-38][^ref-101], including just over 93,000 in the United States according to PC Data[^ref-38]. In a 2013 interview, David Lester said that "Caesar II and Caesar III both sold about 2.5 million copies around the world"; that figure is his own recollection[^ref-102]. Sierra's Jim Veevaert stated at the time, "We are very excited about the tremendous sell-through of the game" and noted that "Clearly Caesar III has taken real-time city building and management to new heights and strategy fans around the world are thrilled"[^ref-38]. It reached #10 on PC Data's US weekly chart for October 18–24, 1998[^ref-82], and in Germany it ranked ninth in the second half of January 1999, its tenth week on the VUD charts[^ref-93].
 
-The game's influence extends beyond its immediate commercial success through its active modding community and open-source preservation efforts. Projects like Julius[^ref-32] and Augustus[^ref-31] have created modern reimplementations that enhance the original gameplay while maintaining compatibility with the core experience. These projects demonstrate the game's enduring appeal and have introduced Caesar III to new generations of players on modern platforms. The speedrunning community has also embraced the game, with dedicated leaderboards including an "Any% Hard" category[^ref-87].
+The game's influence extends beyond its immediate commercial success through its active modding community and open-source preservation efforts. Two open-source projects carry the game forward. Julius keeps the original game logic and adds interface enhancements such as widescreen support; its saved games are compatible with the original game in both directions[^ref-103]. Augustus, a fork of Julius, adds gameplay changes including roadblocks, market special orders and a global labour pool; it can load original and Julius saves, but its own saves cannot be loaded in Julius or the original game[^ref-31]. These projects demonstrate the game's enduring appeal and have introduced Caesar III to new generations of players on modern platforms. The speedrunning community has also embraced the game, with dedicated leaderboards including an "Any% Hard" category[^ref-87].
 
 New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "Inspired by the classic Caesar 3"[^ref-89]. Teoalida notes that "Many people consider it the BEST city-building game"[^ref-86].
 
@@ -163,9 +163,9 @@ New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "I
 [^ref-26]: GamePressure - Caesar III Patch, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – Technical update details
 [^ref-27]: [Game Revolution - Caesar 3](https://www.gamerevolution.com/game/caesar-3) – Game information and mechanics description
 [^ref-30]: [GameSpot - Caesar III Review](https://www.gamespot.com/reviews/caesar-iii-review/1900-2538280/) – Professional review and gameplay analysis
-[^ref-31]: [GitHub - Augustus Project](https://github.com/Keriew/augustus) – Open-source enhancement project
+[^ref-31]: [GitHub - Augustus Project](https://github.com/Keriew/augustus) – README (checked November 11, 2026): a fork of Julius "that intends to incorporate gameplay changes"; saves made with Augustus "will not work" outside Augustus
 [^ref-32]: [GitHub - Julius Wiki Patches](https://github.com/bvschaik/julius/wiki/Patches) – Technical documentation for engine recreation
-[^ref-33]: [GOG - Caesar 3](https://www.gog.com/en/game/caesar_3) – Store description; user rating 4.5/5 from 438 reviews (checked October 26, 2026)
+[^ref-33]: [GOG - Caesar 3](https://www.gog.com/en/game/caesar_3) – Store description; developer Impressions Games, publisher Activision; user rating 4.5/5 from 443 reviews (checked November 11, 2026)
 [^ref-37]: [IGN - Caesar III Review](https://www.ign.com/articles/1998/10/09/caesar-iii) – Contemporary review with numerical score
 [^ref-38]: [IGN - Gamers Hail Caesar](https://www.ign.com/articles/1999/02/05/gamers-hail-caesar) – February 1999: 250,000 sell-through; just over 93,000 US per PC Data; Mac version due "this June" ([Wayback copy](https://web.archive.org/web/20000817192549/http://pc.ign.com/news/6743.html))
 [^ref-41]: [Interactive.org - D.I.C.E. Awards 1999](https://www.interactive.org/awards/award_category_details.asp?idAward=1999&idGameAwardType=34) – Official award nomination documentation
@@ -175,7 +175,7 @@ New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "I
 [^ref-78]: [Stronghold Heaven Games - Robert Euvino Interview](https://stronghold.heavengames.com/fair/interviews/robeuvino/) – Composer interview discussing Caesar III music work
 [^ref-81]: [TV Tropes - Caesar Video Game](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar) – Series overview with gameplay mechanics and historical context
 [^ref-82]: [Web Archive - IGN PC News 5568](https://web.archive.org/web/20000311011645/http://pc.ign.com/news/5568.html) – PC Data weekly chart, October 18–24, 1998: Caesar III at #10
-[^ref-85]: [Steam - Caesar 3](https://store.steampowered.com/app/517790/Caesar_3/) – Store description and tagline; "Very Positive", 93% of 1,243 English-language user reviews (checked October 26, 2026)
+[^ref-85]: [Steam - Caesar 3](https://store.steampowered.com/app/517790/Caesar_3/) – Store description and tagline; "Very Positive", developer Impressions Games, publisher Activision; 93% of 1,245 English-language user reviews (checked November 11, 2026)
 [^ref-86]: [Teoalida - Caesar 3](https://www.teoalida.com/games/caesar3/) – Long-time player's guide: population limits, "Many people consider it the BEST city-building game"
 [^ref-87]: [Speedrun.com - Caesar III](https://www.speedrun.com/caesar_iii) – Speedrun leaderboards (Any% Hard)
 [^ref-88]: [Metacritic - Caesar III User Reviews](https://www.metacritic.com/game/caesar-iii/user-reviews/) – User reviews, including Kai82 (March 6, 2021)
@@ -193,3 +193,4 @@ New games still invoke it: PCGamesN described the upcoming Seabed Settlers as "I
 [^ref-100]: [GameSpot - Two Sierra Titles Due, January 13, 1999 (Wayback)](https://web.archive.org/web/20000301233441/http://headline.gamespot.com/news/99_01/13_pc_twosierra/index.html) – "Caesar III title that has sold over 400,000 units worldwide"
 [^ref-101]: [Computer Games Strategy Plus - Caesar III Sales Figures, February 1999 (Wayback)](https://web.archive.org/web/20050209160855/http://www.cdmag.com/articles/017/135/caesar3_sales.html) – worldwide sell-through "over a quarter of a million to date"
 [^ref-102]: [Companies Made Simple - Real Business Case Study: David Lester (2013, Wayback)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – Lester interview: Caesar II and III "both sold about 2.5 million copies"
+[^ref-103]: [GitHub - Julius](https://github.com/bvschaik/julius) – README (checked November 11, 2026): "exactly the same game logic as Caesar 3"; saved games "100% compatible"; "Julius does not implement any gameplay changes"
