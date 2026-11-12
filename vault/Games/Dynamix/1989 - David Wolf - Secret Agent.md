@@ -10,19 +10,21 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'David Wolf: Secret Agent is a 1989 DOS spy action game from Dynamix, billed as an "interactive movie": a James Bond-style story told in digitized still photographs of real actors, broken up by six polygon-graphics action sequences.'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 David Wolf: Secret Agent is a spy action game developed and published by Dynamix for DOS in December 1989[^ref-3][^ref-19][^ref-20]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2]. Dynamix's own designer notes describe the goal as "an adult oriented story that contained interesting characters with personalities," told with real actors photographed in an in-house image production studio[^ref-6]. Players use what Dynamix called a "VCR Interface" to fast-forward, rewind, skip scenes and adjust difficulty[^ref-2][^ref-4].
 
-Dynamix's designer notes describe it as one of the first titles the company released as an affiliated publisher, and as "by far the biggest project Dynamix has ever developed"[^ref-6]. In the United States it was distributed by Activision[^ref-2]. According to the Dynamix wiki, it was the company's first game to use digitized actors and electronically rotoscoped animation[^ref-4]. Its action sequences were drawn in polygon-filled 3D graphics[^ref-2].
+Dynamix's designer notes describe it as one of the first titles the company released as an affiliated publisher, and as "by far the biggest project Dynamix has ever developed"[^ref-6]. It was distributed by Activision[^ref-2]. According to the Dynamix wiki, it was the company's first game to use digitized actors and electronically rotoscoped animation[^ref-4]. Its action sequences were drawn in polygon-filled 3D graphics[^ref-2].
+
+The game appeared a few months before Sierra bought Dynamix: Sierra acquired the studio on March 27, 1990[^ref-17]. Sierra's own news magazine for Summer 1990 reported that Sierra had begun distributing the game, and listed it at $49.95 in its price list[^ref-27].
 
 The story is told almost entirely through still images and text, and there are only six places in the game where the player uses the keyboard or joystick[^ref-7][^ref-17]. Estimates of its length vary from about half an hour[^ref-5] to "an hour or so"[^ref-17] to a little over two hours[^ref-2]. Computer Gaming World's reviewer put the story scenes alone at "about a half-hour of 'footage'"[^ref-21]. Reception was divided: The Games Machine gave it 97%, according to the Dynamix wiki[^ref-4], while Computer Gaming World later named it one of the worst games of all time[^ref-6][^ref-22].
 
@@ -107,21 +109,37 @@ According to the manual's designer notes, Dynamix traced its roots to an early, 
 
 To shoot the story scenes, Dynamix built an image production studio. It had photography and lighting facilities, colour scanning and image processing, a photo development lab, and make-up, costuming and casting[^ref-6]. Sher Alltucker handled costumes, make-up and casting[^ref-23].
 
-**Cast** (digitized photographs; the game has no voice acting)[^ref-23]
-- Greg Scheid as David Wolf
-- Angela Clement as Kelly O'Neal
-- J.J. as Bruno Vasto
-- Duayne White as Garth Stock
-- Kevin Dahlstrom as Tom Boor
+**Cast** (digitized photographs; the game has no voice acting)[^ref-4][^ref-23]
 
-Several Dynamix staff also appear, including Damon Slye, Kevin Ryan and Jeff Tunnell[^ref-23].
+| Actor | Role |
+|-------|------|
+| Greg Scheid | David Wolf |
+| Angela Clement | Kelly O'Neal |
+| J.J. | Bruno Vasto |
+| Duayne White | Garth Stock |
+| Kevin Dahlstrom | Tom Boor |
+| Ben Taitel | Director March |
+| Anthony R. Reyneke | Dr. Fenton |
+| Damon Slye | Horowitz |
+| Tom Collie | Lt. Brooks |
+| Brian Hahn | Dr. Johnson |
+| Kevin Ryan | Father Brown |
+| Sher Alltucker | Newsperson |
+| Cyrus Kanga, Jerry Luttrell, Jeff Tunnell, John Burton | Thugs |
 
-**Key credits**[^ref-23]
+**Key credits**[^ref-4][^ref-23]
 - Design: Kevin Ryan, Damon Slye
 - Producer: Damon Slye; Executive Producer: Jeffrey Tunnell
 - Programming: Kevin Ryan; Flight Model: Damon Slye; 3Space: David McClurg
 - Screenplay: Kevin Ryan, Jerry Luttrell, Mike Sussman
-- Art Director: John Burton
+- Art Director: John Burton; Background Art: John Burton, Tom Collie, Kobi Miller
+- Animation: Brian Hahn; 3D Art and Animation: Cyrus Kanga, Mark Brenneman
+- Car Sequence: Paul Bowman; Software Tools: Richard Rayl
+- Director of Image Production: [[Randy Dersham]]
+- Director of Marketing: Jerry Luttrell
+- Package Illustration: Michael Rogan; Logo Design and Documentation Layout: Kobi Miller
+- Documentation: [[Jeff Tunnell]], Cyrus Kanga
+- Special Thanks include the University of Oregon Theatrical Department and the Oregon Air National Guard
 - Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morsello, as spelled in the game's own credits[^ref-1][^ref-23] (a 2017 version of MobyGames' credits spelled it "Morcello"[^ref-26])
 
 ### Technical Specifications
@@ -137,7 +155,11 @@ Several Dynamix staff also appear, including Damon Slye, Kevin Ryan and Jeff Tun
 | Interactive Segments | 6[^ref-2][^ref-7] |
 | Price | $49.95[^ref-2] |
 
-The game's SmartStart system configured the game for the player's hardware automatically[^ref-2][^ref-23]. The installer shows VGA and MCGA options, but they are placeholders that cannot be selected. The executable also contains unused hooks for VGA graphics[^ref-6]. Dynamix advertised "256 Color VGA and Commodore Amiga Versions coming in 1990"[^ref-21]. According to the Dynamix Fandom wiki, the planned VGA version was cancelled because of poor sales[^ref-4]. Dynamix designer Kevin Ryan later recalled that David Wolf "was a 16-color EGA game"[^ref-18].
+The game's SmartStart system configured the game for the player's hardware automatically[^ref-2][^ref-23]. The installer shows VGA and MCGA options, but they are placeholders that cannot be selected. The executable also contains unused hooks for VGA graphics[^ref-6]. The Cutting Room Floor notes that the final game supports CGA, Tandy and EGA, with MCGA and VGA using the EGA graphics, and lists error strings in AGENT.EXE that normal play never shows, among them "Sorry. This Sky is taken.", "Please give my regards to the fish." and "missile life too large for reality"[^ref-28]. Dynamix advertised "256 Color VGA and Commodore Amiga Versions coming in 1990"[^ref-21]. According to the Dynamix Fandom wiki, the planned VGA version was cancelled because of poor sales[^ref-4]. Dynamix designer Kevin Ryan later recalled that David Wolf "was a 16-color EGA game"[^ref-18].
+
+The "Tandy TL" sound option differs from the regular "Tandy" option: it plays PC Speaker music rather than multiple sound channels. MobyGames' trivia suggests this let players keep using the joystick, because the Tandy TL/RL/SL series had a hardware bug that prevented joystick use while the sound chip was active. The regular Tandy setting plays 3-voice music[^ref-6].
+
+The Dynamix wiki lists a patch, "David Wolf Config": its CONFIG.EXE overrides the SmartStart installation and lets the player choose the options for their system manually. The wiki calls it "not a guaranteed fix, but it has been very successful"[^ref-4].
 
 ### Design Philosophy
 
@@ -151,7 +173,7 @@ Jimmy Maher calls the game "an interesting piece of gaming history." He argues t
 
 ### Influence on Dynamix
 
-After Sierra acquired Dynamix, Rise of the Dragon followed. Maher writes that Dynamix tackled it with "much of the technical foundation for a real adventure game already laid down by David Wolf"[^ref-17]. Heart of China then went back to photographs of real people. Kevin Ryan recalled: "We had first tried this technique in David Wolf: Secret Agent"[^ref-18]. Maher judges that Heart of China integrates real people with computer graphics "much better than it does in David Wolf"[^ref-17].
+After Sierra acquired Dynamix, [[1990 - Rise of the Dragon]] followed. Maher writes that Dynamix tackled it with "much of the technical foundation for a real adventure game already laid down by David Wolf"[^ref-17]. Heart of China then went back to photographs of real people. Kevin Ryan recalled: "We had first tried this technique in David Wolf: Secret Agent"[^ref-18]. Maher judges that Heart of China integrates real people with computer graphics "much better than it does in David Wolf"[^ref-17].
 
 ### Packaging
 
@@ -170,6 +192,7 @@ The program disks came sealed in a manila envelope. It carried the Peregrine log
 ## See Also
 
 - [[1990 - Rise of the Dragon]] - Dynamix adventure built on David Wolf's technical groundwork
+- [[1989 - Die Hard]] - Dynamix's other digitized-image game of 1989, published by Activision
 - [[1991 - Heart of China]] - Dynamix adventure that returned to photographed actors
 - [[1989 - MechWarrior]]
 - [[1991 - The Adventures of Willy Beamish]]
@@ -201,8 +224,10 @@ The program disks came sealed in a manila envelope. It carried the Peregrine log
 [^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, release date (12/1/1989), platform (DOS)
 [^ref-20]: [LaunchBox Games Database – David Wolf: Secret Agent](https://gamesdb.launchbox-app.com/games/details/86022-david-wolf-secret-agent) – Community-curated metadata, release year 1989, platform MS-DOS
 [^ref-21]: [Computer Gaming World #66 (Dec 1989) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_66) – Charles Ardai, "Popcorn Not Included!" review (pp. 36, 55, 85), incl. "about a half-hour of 'footage'"; Dynamix advertisement promising VGA/Amiga versions
-[^ref-22]: [Computer Gaming World #148 (Nov 1996) – Internet Archive](https://archive.org/details/computer-gaming-world-i148) – 50 Worst Games of All Time (#40) and Worst Back Story (#8)
+[^ref-22]: [Computer Gaming World #148 (Nov 1996) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – 50 Worst Games of All Time (#40) and Worst Back Story (#8)
 [^ref-23]: [MobyGames Credits (DOS)](https://www.mobygames.com/game/1610/david-wolf-secret-agent/credits/dos/) – Design, production, cast and technology credits
 [^ref-24]: [MobyGames Specs](https://www.mobygames.com/game/1610/david-wolf-secret-agent/specs/) – Video modes, sound devices, input, media, minimum requirements
 [^ref-25]: [The Games Machine #27 (Feb 1990) – Internet Archive](https://archive.org/details/the-games-machine-27) – Paul Rigby review (pp. 30–31): "Star Player" badge, 16 actors, 400 digitised screens, Cinemaware comparison
 [^ref-26]: [MobyGames – David Wolf: Secret Agent DOS credits (Wayback Machine, 2017)](http://web.archive.org/web/20170517070016/http://www.mobygames.com:80/game/dos/david-wolf-secret-agent/credits) – "Sound Effects and Music Editing Bryce Morcello" (older variant spelling; the in-game credits read "Morsello")
+[^ref-27]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990), p. 45 – Internet Archive](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) – "Sierra has begun distributing Secret Agent and A-10 Tank Killer"; David Wolf: Secret Agent listed at $49.95 in the price list; first two products to bear the Dynamix label
+[^ref-28]: [The Cutting Room Floor – David Wolf: Secret Agent](https://tcrf.net/David_Wolf:_Secret_Agent) – Unused error strings in AGENT.EXE; references to VGA support in the executable
