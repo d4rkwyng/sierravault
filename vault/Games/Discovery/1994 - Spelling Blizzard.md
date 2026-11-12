@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: Unknown
 protagonist: Wali
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Gordon van Ekström]
 description: Spelling Blizzard is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1994 for Windows 3.x and Macintosh,
@@ -20,11 +20,11 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Blizzard
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2][^ref-29][^ref-30]. It is the sequel to Spelling Jungle, keeping the same raft-journey premise and letter-collecting puzzles but moving them from a jungle to an arctic setting, with harder puzzles than the original[^ref-2][^ref-8][^ref-15].
+Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2][^ref-29][^ref-30]. It is the sequel to [[1993 - Spelling Jungle|Spelling Jungle]], keeping the same raft-journey premise and letter-collecting puzzles but moving them from a jungle to an arctic setting, with harder puzzles than the original[^ref-2][^ref-8][^ref-15].
 
 Designed for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving: players navigate single-screen maps, collecting lettered stones in the correct order to spell words[^ref-30][^ref-31][^ref-32]. Sierra Chest groups it with Bright Star's Talking Tutor series[^ref-30], and a Sierra mail-in offer printed in Computer Gaming World's December 1995 issue lists it as "Talking Tutor: Spelling Blizzard"[^ref-33].
 
@@ -148,7 +148,7 @@ Macintosh Repository lists its Mac disk images as compatible with System 6.x thr
 | — | 1994 | Windows 3.x | Initial release[^ref-1][^ref-2] |
 | — | 1994 | Macintosh | Initial release[^ref-1][^ref-2] |
 
-MobyGames, GameFAQs and MacUser's December 1994 issue support a 1994 release[^ref-1][^ref-2][^ref-32]. Sierra Chest lists the first release as 1993[^ref-30].
+MobyGames, GameFAQs and MacUser's December 1994 issue support a 1994 release[^ref-1][^ref-2][^ref-32]. Sierra Chest lists the first release as 1993[^ref-30], and Macintosh Repository gives the year of its Mac disc image as 1993[^ref-17]. Electronics Boutique's December 1993 catalog listed Bright Star's "Advanced Spelling Tricks", "a spelling game for children between 9 and 12", so the game was on sale in retail under that title before the 1994 Sierra release[^ref-37].
 
 ### Easter Eggs and Trivia
 
@@ -223,3 +223,4 @@ Spelling Blizzard belongs to the educational line Sierra gained when it acquired
 [^ref-34]: [LP Archive – Spelling Jungle](https://lparchive.org/Spelling-Jungle/) – introduction names the sequel "Yobi's Advanced Spelling Tricks", "better known under another name: 'Spelling Blizzard'"
 [^ref-35]: [MobyGames – Bright Star Technology, Inc. (Wayback, December 2024)](https://web.archive.org/web/20241207093539/https://www.mobygames.com/company/809/bright-star-technology-inc/) – "July 1992 Company acquired by Sierra On-Line, Inc."
 [^ref-36]: [Corum Group – Sierra On-Line / Bright Star](https://www.corumgroup.com/transactions/sierra-line-bright-star) – transaction dated July 1992
+[^ref-37]: [Electronics Boutique December 1993 catalog (Internet Archive)](https://archive.org/details/1993-electronics-boutique-december-catalog) – Bright Star listing "Advanced Spelling Tricks": "A spelling game for children between 9 and 12!"

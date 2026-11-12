@@ -242,7 +242,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1994 - Outpost|Outpost]] — Series: Outpost, Type: Strategy/City-Building Simulation
 - [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1 - Uncle Archibald]] — Series: Playtoons, Type: Edutainment/Interactive Book
 - [[1994 - Sierra Soccer - World Challenge Edition|Sierra Soccer - World Challenge Edition]] — Type: Sports
-- [[1994 - Spelling Blizzard|Spelling Blizzard]] — Series: Spelling Jungle, Type: Educational
+- [[1994 - Spelling Blizzard|Spelling Blizzard]] — Series: Spelling Tricks, Type: Educational
 - [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Series: The Incredible Machine, Type: Puzzle
 - [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Series: The Incredible Machine, Type: Puzzle
 
