@@ -10,19 +10,19 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball physics-based game engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: '3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game
   underscored by an action-adventure story line that was released in 1997 by Sierra...'
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-10-27T10:28:05-06:00
+last_modified: 2026-11-11T12:00:00-07:00
 ---
 # 3-D Ultra Pinball: The Lost Continent
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game underscored by an action-adventure story line[^ref-1] that was released in 1997 by Sierra Entertainment's Dynamix studio[^ref-2]. The third installment of the popular pinball series, presenting an innovative approach to this classic genre[^ref-3], it departed significantly from traditional pinball by featuring a narrative-driven experience across multiple interconnected tables. As one reviewer noted, "This is not a regular pinball game, it has a storyline that takes players through the different tables in the game"[^ref-4].
+3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game underscored by an action-adventure story line[^ref-1] that was released in 1997 by Sierra On-Line's Dynamix studio[^ref-9]. GamePressure gives a release date of May 31, 1997[^ref-3], and GameRevolution's review is dated June 5, 1997[^ref-15]; the Internet Archive record for the CD-ROM lists a publication date of October 1, 1997[^ref-23], which falls after the review and so cannot mark the first release. The third installment of the popular pinball series, presenting an innovative approach to this classic genre[^ref-3], it departed significantly from traditional pinball by featuring a narrative-driven experience across multiple interconnected tables. As one reviewer noted, "This is not a regular pinball game, it has a storyline that takes players through the different tables in the game"[^ref-4].
 
 The game is essentially a combination of Jurassic Park, Indiana Jones, and pinball[^ref-5], featuring a dinosaur theme that was inspired by the popularity of the Jurassic Park film[^ref-6]. The product description preserved with the archive.org copy promises "all the sights and sounds you have come to expect from the bestselling pinball series of all time"[^ref-1], while the game itself attempts to tell a cohesive story through its 15 ultra-wide, interlinked pinball tables[^ref-7]. The series had sold more than half a million copies by 1998[^ref-2].
 
@@ -88,7 +88,7 @@ Hardcore Gaming 101's retrospective assessment noted that "The Lost Continent is
 
 ### Origins
 
-The Lost Continent was developed by Dynamix in cooperation with Sierra[^ref-3], with Dynamix getting far more adventurous for their third game in the series[^ref-7]. The credits list Jerry Carathers as pinball design consultant and Dariusz Lukaszuk on physics programming[^ref-12]. GamePressure lists Jeff Tunnell Productions alongside Dynamix[^ref-3]; MobyGames credits Jeffrey Tunnell as executive producer[^ref-12].
+The Lost Continent was developed by Dynamix in cooperation with Sierra[^ref-3], with Dynamix getting far more adventurous for their third game in the series[^ref-7]. The credits list Jerry Carathers as pinball design consultant and Dariusz Lukaszuk on physics programming[^ref-12]. GamePressure lists Jeff Tunnell Productions alongside Dynamix[^ref-3]; MobyGames credits [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer[^ref-12].
 
 The game's development was influenced by the popularity of the Jurassic Park film[^ref-6]. The dinosaur theme replaced the space and horror motives of the previous games[^ref-9] in the series.
 
@@ -112,6 +112,14 @@ MobyGames also places the game in Sierra's wider 3-D Ultra series, between 3-D U
 
 The title remains available through preservation efforts, with multiple archive versions maintaining access to this unique gaming experience[^ref-23]. Its combination of B-movie aesthetics, dinosaur themes, and innovative pinball mechanics continues to attract retro gaming enthusiasts, with one user noting it brings back great memories of a misspent youth as a pin ball wizard[^ref-20].
 
+### Collections
+
+MobyGames lists the game as included in these compilations: 3-D Ultra Pinball (Collector's Edition) (1998), Le Meilleur de Sierra II (1998), 3-D Ultra Pinball: Power! (1999), Best of Sierra Nr. 14 (1999), Gold Games 4 (1999), Play the Top of Games: Edition 2001 (2001) and Pinball Collection (2002)[^ref-9]. See [[1999 - 3-D Ultra Pinball - Power]] for the Power! release.
+
+### Alternate Titles and Player Score
+
+MobyGames records German ("3-D Ultra Pinball: Der Vergessene Kontinent"), Brazilian ("3-D Ultra Pinball: O Continente Perdido") and French ("3D Ultra Pinball: Le Continent Perdu") titles[^ref-9]. It also shows a Moby Score of 7.1 from 15 player votes, alongside the 68% critic average[^ref-9][^ref-18].
+
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -127,12 +135,14 @@ The title remains available through preservation efforts, with multiple archive 
 
 ## See Also
 
+- [[3D Ultra Series]]
 - [[1997 - 3-D Ultra MiniGolf|← Previous: 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra NASCAR Pinball|→ Next: 3-D Ultra NASCAR Pinball]]
 
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
 - [[1998 - 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Lionel TrainTown]]
@@ -152,7 +162,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-2]: [Wikipedia - 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – Developer information, series features, sales data, story details, table structure
 [^ref-3]: [GamePressure - 3D Ultra Pinball: The Lost Continent](https://www.gamepressure.com/games/3d-ultra-pinball-the-lost-continent/z03c55) – Developer and publisher information, game description, development details
 [^ref-4]: [GameSpot - User Reviews](https://www.gamespot.com/3-d-ultra-pinball-the-lost-continent/user-reviews/2200-35497/) – User review quotes, game objective description, character information
-[^ref-5]: [Hardcore Gaming 101 - 3D Ultra Pinball](http://www.hardcoregaming101.net/3dultrapinball/3dultrapinball.htm) – Theme description, overall assessment, technical issues, continues system
+[^ref-5]: [Hardcore Gaming 101 - 3D Ultra Pinball](http://www.hardcoregaming101.net/3dultrapinball/3dultrapinball.htm) ([Wayback snapshot](https://web.archive.org/web/20251119190718/http://www.hardcoregaming101.net/3dultrapinball/3dultrapinball.htm)) – Theme description, overall assessment, technical issues, continues system
 [^ref-6]: [GamePressure - Game Score](https://www.gamepressure.com/games/game_score.asp?ID=15445) – Jurassic Park film inspiration, trivia details
 [^ref-7]: [Collection Chamber - 3D Ultra Pinball: Lost Continent](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-lost-continent.html) – Marketing quotes, technical specifications, review conclusion, development notes
 [^ref-8]: [Bunny Gamer - The Lost Continent First Impressions](https://bunnygamer.com/3d-ultra-pinball-the-lost-continent-computer-game-first-impressions/) – Modern first-impressions review, Windows 10 compatibility, money-back guarantee
