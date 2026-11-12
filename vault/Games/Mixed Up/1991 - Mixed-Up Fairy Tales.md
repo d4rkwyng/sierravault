@@ -221,8 +221,7 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|← Previous: Mixed-Up Mother Goose (SCI Remake)]]
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
-
-- [[1987 - Mixed-Up Mother Goose]]
+- [[1987 - Mixed-Up Mother Goose|Original: Mixed-Up Mother Goose (1987)]]
 
 ## References
 
@@ -253,7 +252,7 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 [^ref-28]: [MobyGames – Mixed-Up Fairy Tales Releases](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/releases/) – US and German 3.5" releases Nov 13 1991, US 5.25" EGA v1.00 Nov 23 1991, US 5.25" 1992
 [^ref-29]: [MobyGames – Mixed-Up Fairy Tales Specs](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/specs/) – video modes, sound devices, media, minimum CPU/OS/RAM
 [^ref-30]: [MobyGames – Mixed-Up Fairy Tales Credits (DOS)](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/credits/dos/) – Director/Game Designer Lori Ann Cole, Creative Director Bill Davis, Producer Stuart Moulder, Lead Programmer Corey Cole, music, Executive Producer Ken Williams; "Production Designer Andy Hoyos", Background Artists incl. Hoyos
-[^ref-31]: [SCI Wiki – Mixed-Up Fairy Tales](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Fairy_Tales) – SCI1 (early), game version 1.000, interpreter 1.000.145, 1991/11/13
+[^ref-31]: [SCI Wiki – Mixed-Up Fairy Tales](https://sciwiki.sierrahelp.com/index.php/Mixed-Up_Fairy_Tales) – SCI1 (early), game version 1.000, interpreter 1.000.145, 1991/11/13
 [^ref-32]: [ScummVM Wiki – Mixed-Up Fairy Tales](https://wiki.scummvm.org/index.php?title=Mixed-Up_Fairy_Tales) – not available for purchase, supported since ScummVM 1.2.0
 [^ref-33]: [PC Games, August/September 1992, pp. 77–78 – Cynthia E. Field, "Mixed Up Fairy Tales"](https://archive.org/details/pc-games-1992-08) – period scan, checked against page images; Bookend's stolen pieces (Jack's beans, Cinderella's pumpkin), Snow White's dwarves' house, icon interface, Fairy Tales menu, ages 7 and up, lapware, 20 save slots, verdict quote
 [^ref-34]: [PC Zone Issue 3 (June 1993), pp. 80–82 – Phil South, "That's Edutainment!"](https://archive.org/details/pczone-magazine-complete-collection) – period scan (file PC_Zone_Issue_3__June_1993), checked against page images; 8/10, age range 7–adult, sub-scores, £34.99 price, June 1993 cover date
