@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Proprietary Dynamix 3D engine
 protagonist: Ski Racer (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: '**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed
   by Dynamix and published by Sierra On-Line, simulating four World Cup alpine
   skiing events.'
@@ -18,11 +18,11 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed by Dynamix and published by Sierra On-Line[^ref-1][^ref-5] for Windows 95[^ref-8][^ref-26]. GameSpot lists its first release as November 30, 1997[^ref-10], while the Sierra Chest gives December 10, 1997[^ref-6]. The game simulates the four World Cup skiing variants: Slalom, Giant Slalom, Super Giant Slalom and Downhill, focusing on realistic gameplay rather than arcade-style action[^ref-2]. Sierra enlisted Olympic medalist Picabo Street to help with the game[^ref-13]; she is credited as "The Star" of its video production and appears in video tips throughout[^ref-25][^ref-7].
+**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed by Dynamix and published by Sierra On-Line[^ref-1][^ref-5] for Windows 95[^ref-8][^ref-26]. GameSpot lists its first release as November 30, 1997[^ref-10], while the Sierra Chest gives December 10, 1997[^ref-6]. The game simulates the four World Cup skiing variants: Slalom, Giant Slalom, Super Giant Slalom and Downhill, focusing on realistic gameplay rather than arcade-style action[^ref-2]. Sierra enlisted world champion skier Picabo Street to help with the game[^ref-13]; she is credited as "The Star" of its video production and appears in video tips throughout[^ref-25][^ref-7].
 
 Unlike the snowboarding games popular on console systems at the time, Front Page Sports: Ski Racing was designed as "a racing simulation through and through"[^ref-4]. The game features six courses based on real-world locations: Whistler, Aspen Mountain, Vail, Mt. Bachelor, Val d'Isère and Garmisch[^ref-7]. Players can compete in single races, multiple events at one resort, or an entire season on all six mountains[^ref-3].
 
@@ -85,13 +85,19 @@ Computer Gaming World's Loyd Case and Computer Games Magazine's Benjamin E. Sone
 
 The game holds an aggregate critics score of 56% on MobyGames, based on 13 ratings[^ref-5]. User ratings are thin. GameFAQs users rate it "Outstanding" from 4 ratings[^ref-11], CNET Download shows 3.8/5 from 10 votes[^ref-3], and MyAbandonware shows 5/5 from a single vote[^ref-12].
 
+**Aggregate Scores**
+- **MobyGames critics:** 56%, 13 ratings[^ref-5]
+- **GameFAQs users:** "Outstanding", 4 ratings[^ref-11]
+- **CNET Download users:** 3.8/5, 10 votes[^ref-3]
+- **MyAbandonware users:** 5/5, 1 vote[^ref-12]
+
 ## Development
 
 ### Origins
 
 GameSpot announced Ski Racing in May 1997 as a Dynamix title being added to Sierra On-Line's Front Page Sports series, "more simulation than arcade" like the other FPS titles[^ref-21]. Six world-class ski courses were to be "measured and re-created" for the game. The announced list included Park City[^ref-21], but the shipped resorts were Whistler, Aspen Mountain, Vail, Mt. Bachelor, Val d'Isère and Garmisch[^ref-7][^ref-25]. The announcement also promised modem, LAN and Internet multiplayer and an October 1997 release[^ref-21].
 
-Scott Youngblood designed the game and Mark Crowe directed it. Kate Kloos produced it, and Loudmouth Inc. supplied the sound effects and original music[^ref-25]. Picabo Street, whom Gamezilla called "host, guide and teacher"[^ref-7], is credited as "The Star" of the video production[^ref-25]. As Computer Games Magazine noted, skiing games were "something of a rarity on the PC"[^ref-13].
+Scott Youngblood designed the game and [[Mark Crowe]] directed it. Kate Kloos produced it, and Loudmouth Inc. supplied the sound effects and original music[^ref-25]. Picabo Street, whom Gamezilla called "host, guide and teacher"[^ref-7], is credited as "The Star" of the video production[^ref-25]. As Computer Games Magazine noted, skiing games were "something of a rarity on the PC"[^ref-13].
 
 ### Production
 
@@ -114,9 +120,17 @@ Gamezilla listed the system requirements as a Pentium 90, 16 MB RAM, 4X CD-ROM d
 | Original release | 1997 | Windows 95[^ref-10][^ref-26] |
 | Update (skiup12) | — | Official Sierra update; MobyGames records two patches, neither adding Rendition support[^ref-24][^ref-5] |
 
+### Development Credits
+
+- **Designer:** [[Scott Youngblood]][^ref-25]
+- **Director:** [[Mark Crowe]][^ref-25]
+- **Producer:** Kate Kloos[^ref-25]
+- **Sound effects and original music:** Loudmouth Inc.[^ref-25]
+- **"The Star" (video production):** Picabo Street[^ref-25]
+
 ## Legacy
 
-The game was later repackaged by publisher Sierra Sports as simply *Ski Racing*, and it was followed by *Skiing, 1999 Edition* ([[1999 - Front Page Sports - Ski Racing 99]])[^ref-1][^ref-24].
+According to Wikipedia, the game was later repackaged by publisher Sierra Sports as simply *Ski Racing*[^ref-1]. It was followed by [[1998 - Sierra Sports Skiing 1999 Edition]] (*Skiing, 1999 Edition*)[^ref-1][^ref-24], and its German edition is covered at [[1999 - Front Page Sports - Ski Racing 99]][^ref-24].
 
 The game filled a niche in PC gaming, as "skiing games are something of a rarity on the PC"[^ref-13]. It is preserved on the Internet Archive[^ref-2] and catalogued in databases such as IGDB[^ref-18].
 
@@ -128,6 +142,7 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 
 ## See Also
 
+- [[Front Page Sports Series]]
 - [[1997 - Front Page Sports - Golf|← Previous: Front Page Sports - Golf]]
 - [[1997 - Front Page Sports - Trophy Rivers|→ Next: Front Page Sports - Trophy Rivers]]
 
@@ -141,6 +156,7 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 - [[1997 - Front Page Sports - Baseball Pro '98]]
 - [[1997 - Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On]]
+- [[1998 - Sierra Sports Skiing 1999 Edition]]
 - [[1999 - Front Page Sports - Ski Racing 99]]
 
 ## References
