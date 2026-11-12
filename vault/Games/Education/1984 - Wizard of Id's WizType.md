@@ -10,15 +10,15 @@ series: Wizard of Id
 engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
- typing...
+ typing accuracy and speed.
 tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ A 2017 retrospective on megalextoria said that "in 1984 The Wizard of Id's WizTy
 
 ### Origins
 
-In 1984, Sierra On-Line put out two games based on the Wizard of Id comic strip, WizType and WizMath.[^ref-6][^ref-19] The strip had been running since November 9, 1964.[^ref-19] Apple II Bits ties the choice of format to the education market: "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6]
+In 1984, Sierra On-Line put out two games based on the Wizard of Id comic strip, WizType and WizMath.[^ref-6][^ref-19] The strip had been running since November 9, 1964.[^ref-19] In its February 1984 "Video Game Gazette," Computer Games reported an agreement between Sierra On-Line and Sydney Development Corp. to turn Johnny Hart's comic strips into computer games. The first batch of "an announced 80 (!) games" included Wiztype, and the educational titles were to be available for "all major home computers" and ColecoVision.[^ref-29] The same item said "Wiztype will be the first independent product for Coleco's Adam computer."[^ref-29] Apple II Bits ties the choice of format to the education market: "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6]
 
 ### Production
 
@@ -113,18 +113,17 @@ WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-
 ### Technical Specifications
 
 - **Memory:** COMPUTE! lists at least 32K RAM for the Atari, Commodore 64 and Apple II versions;[^ref-17] the Apple II box lists 48K.[^ref-20] Family Computing's listing gave 48K for the Apple II and Atari versions.[^ref-21]
+- **DOS:** 128 KB RAM, CGA graphics (including CGA composite) and PC speaker sound (read via the MobyGames API)[^ref-2]
 - **Media:** 5.25" floppy disk[^ref-16][^ref-20]
 - **Input:** Keyboard[^ref-10]
 - **Price:** $34.95; the Commodore 64 cartridge version was $39.95[^ref-17][^ref-21][^ref-22]
 
 ### Cut Content
 
-According to MobyGames, a ColecoVision/ADAM version of WizType was planned but never released.[^ref-2]
+According to MobyGames, a ColecoVision/ADAM version of WizType was planned but never released.[^ref-2] The plan dates to early 1984, when Computer Games reported that Wiztype would be the first independent product for Coleco's Adam computer.[^ref-29]
 
 ### Easter Eggs and Trivia
 
-- The Wizard of Id comic strip was first syndicated on November 9, 1964, two decades before the game's release[^ref-19]
-- WizType was one of two educational titles using the license, alongside WizMath[^ref-6][^ref-19]
 - The manual's Wizard boasts that his own typing "apprenticeship took a whole two months!"[^ref-10]
 - The Apple II packaging promised "Six modes, 20 levels" and "Liberally spiced with cartoon gags"[^ref-20]
 - Sierra's August 1984 Creative Computing advertisement claimed typing speeds "From 20 to 120 words a minute, you choose!"[^ref-25]
@@ -145,16 +144,12 @@ The retail package included a manual and a Quick Reference Card with loading ins
 
 ### Critical Perspective
 
-WizType is one of Sierra's early edutainment titles, released in the same year as WizMath and listed among the Apple II's 1984 educational software.[^ref-6][^ref-8] COMPUTE! described a crowded typing-tutor market ("practically any respectable computer dealer can show you an entire shelf of such products") and rated WizType above most of it.[^ref-17] Info-64's September 1984 software listing carried it under typing and keyboard mastery at $34.95, describing Wizard of Id characters challenging the player to type faster in a game atmosphere.[^ref-26] Both the 1984 COMPUTE! review and the 2017 retrospective picked out the Paragraphs and Own Lesson options as its standout features.[^ref-5][^ref-17]
-
-## Purchase
-
-- Not sold on modern digital storefronts; see Downloads for preserved copies.
+WizType is one of Sierra's early edutainment titles, released in the same year as WizMath and listed among the Apple II's 1984 educational software.[^ref-6][^ref-8] COMPUTE! described a crowded typing-tutor market ("practically any respectable computer dealer can show you an entire shelf of such products") and rated WizType above most of it.[^ref-17] Info-64's September 1984 software listing carried it under typing and keyboard mastery at $34.95, describing Wizard of Id characters challenging the player to type faster in a game atmosphere.[^ref-26] COMPUTE! singled out Paragraphs and Own Lesson as the options that set WizType apart.[^ref-17] The 2017 megalextoria retrospective listed the game, Own Lesson and Paragraphs as the most interesting options, and credited Paragraphs with giving the program its longevity.[^ref-5]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital storefronts
+- Not sold on GOG or Steam (checked November 2026)
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984)[^ref-1]
@@ -179,7 +174,7 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release year, game description, DOS version preservation
-[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators
+[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators, DOS requirements (128 KB, CGA, PC speaker; read via the MobyGames API)
 [^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – user rating, preservation download
 [^ref-5]: [megalextoria – The Wizard of Id's WizType](http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/) ([archived copy, June 2017](https://web.archive.org/web/20170630184128/http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/)) – 2017 retrospective: "one of the better such products out there"; Own Lesson and Paragraphs features
 [^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – the two 1984 Wizard of Id edutainment titles, Apple II education context
@@ -208,3 +203,4 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 [^ref-26]: [Info-64, issue 5 (September 1984) – software listing](https://archive.org/details/Info-64_Issue_5_1984-09_Info_Publications_US) – "WIZTYPE", $34.95, Wizard of Id characters challenge you to type faster in a game atmosphere
 [^ref-27]: [Computer History Museum – Wizard of Id's Wiztype, catalog 102639498](https://www.computerhistory.org/collections/catalog/102639498) – 5.25-inch floppy with instruction book and reference card; publisher Sierra On-Line, Inc.; category Educational
 [^ref-28]: [Atarimania – Wizard of Id's WizType (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wizard-of-id-s-wiztype-_5790.html) – developer Sydney Development Corp., publisher Sierra On-Line, 1984, disk, keyboard controls, serial SRL-231
+[^ref-29]: [Internet Archive – Computer Games, February 1984](https://archive.org/details/computer_games_feb84) – "Video Game Gazette" item on the Sierra On-Line and Sydney Development Corp. Johnny Hart agreement, the first batch of an announced 80 games including Wiztype, and Wiztype as the first independent product for Coleco's Adam
