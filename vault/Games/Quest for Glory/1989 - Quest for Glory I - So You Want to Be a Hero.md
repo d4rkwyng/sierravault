@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0 (EGA), SCI1.1 (VGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Mark Seibert]
 description: 'Quest for Glory: So You Want to Be a Hero (originally released as Hero''s
   Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by Lori Ann Cole and Corey Cole and published by Sierra On-Line.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -41,7 +41,7 @@ Ports for the Amiga, Atari ST, and NEC PC-9801 were released in the early 1990s[
 > **Platforms:** MS-DOS, Amiga, Atari ST, PC-98 (the 1992 VGA remake was also released for Mac OS)[^ref-1][^ref-6]
 > **Release Year:** 1989 (EGA), 1992 (VGA remake)[^ref-1]
 > **Series:** Quest for Glory
-> **Protagonist:** The Hero (unnamed, customizable)
+> **Protagonist:** The Hero (name and class chosen by the player)[^ref-1]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -76,7 +76,7 @@ The game advertised itself as "three games in one"[^ref-41]. The Sierra and Ques
 ## Reception
 
 ### Contemporary Reviews
-Scorpia of Computer Gaming World stated in 1990 that the game's puzzles were easy but still fun for an experienced player, and that excellent graphics and good use of humor and role-playing elements made the game "a definite winner"[^ref-1][^ref-41]. In 1990, Computer Gaming World named it Adventure Game of the Year, describing it as one of the few introductory games that both beginners and veterans of adventures enjoyed[^ref-1][^ref-7].
+Scorpia of Computer Gaming World stated in 1990 that the game's puzzles were easy but still fun for an experienced player, and that excellent graphics and good use of humor and role-playing elements made the game "a definite winner"[^ref-1][^ref-41]. The same review listed the IBM version's price as $59.95[^ref-41]. In 1990, Computer Gaming World named it Adventure Game of the Year, describing it as one of the few introductory games that both beginners and veterans of adventures enjoyed[^ref-1][^ref-7].
 
 According to Wikipedia, Jim Trunzo reviewed Hero's Quest in White Wolf #19 (Feb./March 1990) and rated it 4 out of 5; the original magazine page could not be independently checked[^ref-1]. Reviewing the VGA remake for Compute! (February 1993), Alfred C. Giovetti called Hero's Quest "probably the most satisfying game in the Sierra family" and the remake "in many ways a significant improvement," praising its clay animation and stereo soundtrack[^ref-1][^ref-32].
 
@@ -106,6 +106,8 @@ The Quest for Glory series was designed by Corey and Lori Ann Cole; Lori pitched
 According to the Digital Antiquarian, [[Lori Ann Cole]] sketched a plan for four games before work began, knowing that Sierra's business model revolved around game series rather than one-offs. Each was to take place in a different milieu corresponding to one of the four points of the compass, one of the four seasons, and one of the four classical elements (Earth, Fire, Air and Water), and the player would be able to transfer the same character into each successive game[^ref-16].
 
 Pre-orders were strong enough that, according to The Digital Antiquarian, Sierra expected to press 100,000 copies at launch to meet holiday demand. [[Corey Cole]] was struggling with the kobold cave sequence, so he arranged for only the disk containing it to be withheld from the duplicators and, in a single week, rewrote it from scratch; the disk was duplicated in time, and the game shipped on schedule despite receiving no outside beta-testing[^ref-16].
+
+According to Corey Cole, *Hero's Quest* came close to being cancelled: Ken Williams looked at the game and said, "This is a role-playing game? I don't get it. Will it appeal to either adventure gamers or role-playing gamers?" Producer [[Guruka Singh Khalsa]] defended the game, and after Ken's son Chris Williams played some of it and called it awesome, Ken came around too[^ref-30].
 
 Corey Cole has said the first game had "a relatively tiny budget": "I once calculated it at $150K, but it was probably closer to $250K"[^ref-33]. Of the VGA remake, he said it "actually cost more to make than the original, and almost as much as a full game"[^ref-34].
 
@@ -170,7 +172,7 @@ Many planned features were cut during development due to time and budget constra
 | Interface | Text parser (EGA), Point-and-click (VGA)[^ref-1] |
 | Sound | PC speaker; Roland MT-32, AdLib, Game Blaster, IBM Music Feature (EGA original)[^ref-19][^ref-38] |
 | RAM Required | 512KB (EGA original); 640KB (VGA remake)[^ref-19][^ref-32] |
-| Media | Floppy disks; CD-ROM (collection releases) |
+| Media | Floppy disks; CD-ROM (collection releases)[^ref-1][^ref-38] |
 
 ### System Requirements (Original EGA)
 
@@ -195,7 +197,7 @@ Many planned features were cut during development due to time and budget constra
 ### Modern Compatibility
 - **ScummVM**: Supported since ScummVM 1.2.0[^ref-27]; ScummVM's compatibility list rates it "Excellent" (no known issues)[^ref-39]
 - **DOSBox**: The GOG release runs the game in DOSBox[^ref-6]
-- **Windows 10/11**: Via ScummVM, GOG, or Steam versions
+- **Windows**: The GOG release lists Windows 10 as its system requirement[^ref-9]; the Steam listing gives Windows XP through 10[^ref-10]
 
 ## Legacy
 
@@ -219,7 +221,7 @@ This game has been included in the following collections:
 - [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory)[^ref-9]
 - [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750)[^ref-10]
 
-**Download / Preservation**
+**Manuals and Preservation**
 
 - [Internet Archive – Quest for Glory Manual (PC-98, Japanese)](https://archive.org/details/Quest_for_Glory_Manual)[^ref-11]
 - The game itself is sold on GOG and Steam as part of the Quest for Glory 1-5 collection (see above)[^ref-9][^ref-10]
@@ -247,7 +249,7 @@ This game has been included in the following collections:
 
 ## References
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception
-[^ref-2]: My Abandonware – Hero's Quest *(download link removed: the game is sold commercially)* – platforms, availability
+[^ref-2]: My Abandonware – Hero's Quest – platforms, availability
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory I VGA](https://sierra.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero_%28VGA%29) – VGA remake details, SCI1.1 engine
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory I EGA](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero_%28EGA%29) – original release details, plot, gameplay
 [^ref-5]: [Wikipedia – Quest for Glory (series)](https://en.wikipedia.org/wiki/Quest_for_Glory) – designers, Lori Cole's pitch, character import system, class-specific puzzle solutions, Spielburg setting, Anthology (1996) and Collection Series (1997)
@@ -258,7 +260,7 @@ This game has been included in the following collections:
 [^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – purchase, user reviews
 [^ref-11]: [Internet Archive – Quest for Glory Manual (PC-98, Japanese)](https://archive.org/details/Quest_for_Glory_Manual) – Japanese-language manual for the NEC PC-98 version
 [^ref-12]: [MobyGames – Hero's Quest](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – original release credits, platform release dates, trivia, awards (Amiga Joker 01/1991)
-[^ref-13]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – VGA remake credits; platform release dates (DOS 1992, Macintosh 1994; read via the MobyGames API)
+[^ref-13]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – VGA remake credits; platform release dates (DOS 1992, Macintosh 1994)
 [^ref-14]: [Quest for Glory Fandom Wiki – Quest for Glory I (MS-DOS)](https://questforglory.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero_%28MS-DOS%29) – EGA original's page on the series wiki
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory (Wayback Machine, December 2023)](https://web.archive.org/web/20231201055200/http://www.hardcoregaming101.net/quest-for-glory/) – series retrospective; [original URL](http://www.hardcoregaming101.net/quest-for-glory/)
 [^ref-16]: [Digital Antiquarian – So You Want to Be a Hero?](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) – historical analysis: Lori Ann Cole's four-game plan, 100,000-copy pre-order projection, kobold cave rewrite, no outside beta-testing, sales (130,000 in first year; about 200,000 original plus 100,000 remake), Questbusters quote
@@ -266,7 +268,7 @@ This game has been included in the following collections:
 [^ref-19]: [Adventure Classic Gaming – Quest for Glory I: So You Want To Be A Hero](https://adventureclassicgaming.com/index.php/site/reviews/24/) – 4/5 review of the VGA remake by Don Rayner; original-version box specs
 [^ref-20]: [RPGamer – Quest for Glory I Staff Review (archived)](https://web.archive.org/web/20160304211159/http://www.rpgamer.com/games/qfg/qfg1/reviews/qfg1strev1.html) – Tyler Willis, overall 4/5; reviews the 1992 VGA remake
 [^ref-22]: [Speedrun.com – Quest for Glory: So You Want To Be A Hero (EGA)](https://www.speedrun.com/quest_for_glory_so_you_want_to_be_a_hero_ega) – speedrun leaderboards (checked October 2026)
-[^ref-23]: Abandonware DOS – Quest for Glory 1: So You Want to Be a Hero *(download link removed: the game is sold commercially)* – user rating 3.98/5 from 50 votes (checked October 2026)
+[^ref-23]: Abandonware DOS – Quest for Glory 1: So You Want to Be a Hero – user rating 3.98/5 from 50 votes (checked October 2026)
 [^ref-25]: [TV Tropes – Quest for Glory I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryI) – trope analysis, design details
 [^ref-27]: [ScummVM Wiki – Quest for Glory](https://wiki.scummvm.org/index.php?title=Quest_for_Glory) – infobox: "Resolution 320x200, 256 and 16 colors", "Support Since ScummVM 1.2.0"
 [^ref-29]: [Quest for Glory Fandom Wiki – QFG1EGA development](https://questforglory.fandom.com/wiki/QFG1EGA_development) – original proposal (August 1988), working title; Lori Cole on the planned Elf, Gnome, Centaur and Human characters; Corey Cole on the cut "Goblin Maze"; the optional female hero weighed and rejected
@@ -282,4 +284,4 @@ This game has been included in the following collections:
 [^ref-39]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – sci:qfg1 rated "Excellent" ("Game has no known issues")
 [^ref-40]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989) DOS credits (Wayback, November 24, 2017)](https://web.archive.org/web/20171124213651/http://www.mobygames.com:80/game/dos/heros-quest-so-you-want-to-be-a-hero/credits) – "Producer Guruka Singh-Khalsa"
 [^ref-41]: [Computer Gaming World #67 (January 1990) – Scorpion's Tale: Hero's Quest I, Scorpia](https://archive.org/details/Computer_Gaming_World_Issue_67) – "Hero's Quest I is a definite winner"; puzzles "a tad over the introductory level" but fun; the Hero's Quest advertisement in the same issue: "THREE GAMES IN ONE! ... Will you become the Fighter? The Magic User? The Wily Thief?"
-[^ref-42]: [PC Gamer – Crapshoot: The Quest for Glory fan-game so controversial it's banned from forums, Richard Cobbett (published April 3, 2021)](https://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – "There's a ton I could say about Quest for Glory 1, almost all of it positive, especially in its VGA remake"; "a great adventure in a spectacularly rich world"
+[^ref-42]: [PC Gamer – Crapshoot: The Quest for Glory fan-game so controversial it's banned from forums, Richard Cobbett (republished April 3, 2021)](https://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – "There's a ton I could say about Quest for Glory 1, almost all of it positive, especially in its VGA remake"; "a great adventure in a spectacularly rich world"
