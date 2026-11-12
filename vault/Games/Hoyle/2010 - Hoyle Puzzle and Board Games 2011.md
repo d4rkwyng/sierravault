@@ -10,14 +10,14 @@ series: Hoyle
 engine: null
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of 30 board, card,
  word and puzzle games released by Encore Software for Windows and Mac in August 2010.
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -152,6 +152,7 @@ The game is also listed in IGDB.[^ref-14]
 
 - [[2008 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -192,11 +193,11 @@ The game is also listed in IGDB.[^ref-14]
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
