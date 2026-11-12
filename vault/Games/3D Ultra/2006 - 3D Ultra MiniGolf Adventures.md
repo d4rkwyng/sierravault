@@ -10,15 +10,14 @@ series: 3D Ultra Minigolf
 engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
-description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
-  game developed by Wanako Games and published by Vivendi Games under the Sierra Online...
+last_updated: '2026-11-11'
+description: "3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra Online label, released for Windows in 2006 and Xbox 360 in 2007."
 tags: [2000s, 3d-ultra-minigolf, sierra]
-last_modified: 2026-10-27T00:00:00-07:00
+last_modified: 2026-11-11T00:00:00-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -95,7 +94,7 @@ Course hazards include interactive elements like scorpions that push balls aroun
 
 ### Contemporary Reviews
 
-3D Ultra Minigolf Adventures received mixed reviews; MobyGames lists a 66% critic average from 13 ratings.[^ref-18] IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
+3D Ultra Minigolf Adventures received mixed reviews; MobyGames lists a 66% critic average from 13 ratings and a user score of 6.4 from 15 votes.[^ref-18][^ref-16] Wikipedia, summarizing Metacritic, says the Xbox 360 version received "average" reviews while the PC version received "unfavorable" reviews.[^ref-1] IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
 
 X-ONE Magazine UK gave the game an 80/100, though strongly advised players to "turn the bloody sound off."[^ref-7] The New York Times scored the title 74/100, finding it fun but criticized the single-player mode as "terribly brief," noting the reviewer "played through all three courses a couple of times and found the hole-in-one technique for most holes in well under three hours."[^ref-7]
 
@@ -110,6 +109,7 @@ As of October 2026, the Steam store page rates the game "Mostly Positive", with 
 **Aggregate Scores:**
 - **Metacritic (Xbox 360):** 66/100 based on 13 critic reviews[^ref-7]
 - **Metacritic User Score:** 5.9/10 based on 13 user ratings[^ref-7]
+- **MobyGames:** 66% critic average (13 ratings)[^ref-18]; 6.4/10 user score (15 votes)[^ref-16]
 - **Steam:** 70% positive (117 reviews, October 2026)[^ref-4]
 - **IGN:** 7.5/10[^ref-9]
 
@@ -132,6 +132,16 @@ The game focuses on arcade elements rather than simulation-style miniature golf,
 **Development Credits:**[^ref-5]
 - **Developer:** Wanako Games / Wanako Studios
 - **Publisher:** Vivendi Games / Sierra Online
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Windows | December 20, 2006 | Windows | GameTap release, US and Canada[^ref-21] |
+| Xbox Live Arcade | April 18, 2007 | Xbox 360 | Original console release[^ref-1][^ref-21] |
+| Lost Island | July 25, 2007 | Xbox 360 | Expansion adding an eighteen-hole course[^ref-1] |
+| Steam | July 23, 2009 | Windows | Published by Activision[^ref-21] |
+| Xbox One | April 20, 2017 | Xbox One | Release date listed by MobyGames[^ref-16] |
 
 ### Technical Achievements
 
@@ -177,7 +187,7 @@ The Xbox 360 version sold 11,049 units worldwide by January 2011, rising to 34,4
 
 ### Collections
 
-The game was released on Steam on July 23, 2009, published by Activision.[^ref-21] The store page lists it as "3D Ultra Minigolf Adventures",[^ref-4] while its Steam Community hub is titled "3D Ultra Minigolf Adventures Deluxe".[^ref-20] It is still sold on Steam.[^ref-4]
+The game was released on Steam on July 23, 2009, published by Activision.[^ref-21] The store page lists it as "3D Ultra Minigolf Adventures",[^ref-4] while its Steam Community hub is titled "3D Ultra Minigolf Adventures Deluxe".[^ref-20] It is still sold on Steam.[^ref-4] The Steam listing corresponds to the separate page [[2007 - 3D Ultra Minigolf Adventures Deluxe]]. MobyGames also lists an Xbox One release dated April 20, 2017.[^ref-16]
 
 ### Sequel
 
@@ -195,17 +205,17 @@ The original "Minigolf Maniacs" project, which served as the foundation for 3D U
 
 GameSpot summed the game up as "a bit of fun when played with friends, but the single-player experience is lackluster thanks to slow pacing and erratic physics."[^ref-3] It remains on sale on Steam[^ref-4] and was followed by a 2010 sequel.[^ref-2]
 
-## Purchase
-
-- [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)
-
 ## Downloads
+
+**Purchase / Digital Stores**
+- [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Windows version, $9.99
 
 **Community**
 - [Steam Community Hub](https://steamcommunity.com/app/10140) - Discussions, screenshots, and user content
 
 ## See Also
 
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
