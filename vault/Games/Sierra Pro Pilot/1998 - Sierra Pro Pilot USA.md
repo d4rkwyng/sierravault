@@ -10,7 +10,7 @@ series: Pro Pilot
 engine: Dynamix proprietary 3D tool set
 protagonist: Player Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Sierra Pro Pilot USA, billed by Sierra as the second title in its Pro Pilot
   series of civilian flight simulators, was released by Dynamix on October 1, 1998 for Windows
   95 at $19.95 as a beginner-friendly, US-only version of Pro Pilot '98 with a Pilot
@@ -19,7 +19,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot USA
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -86,12 +86,6 @@ Computer Gaming World gave Pro Pilot '98 2.5 out of 5 stars in its April 1998 is
 
 In PC Gamer's May 1998 review of Sierra Pro Pilot, Marc Saltzman scored it 53%, writing that the "complete" flight sim "shipped with more than 90 bugs, 34 of which were repaired with the latest patch v.1.01" and concluding that it "had plenty of potential but is an incomplete, average simulation"; his listed highs were "Beautiful cockpit panels with plenty of functionality; good nav and comm tools"[^ref-26]. Computer Games Magazine's Jim Pedicord called it "a decent first effort in civilian flight simulations for Sierra," but cited "a surprisingly large number of inexcusable bugs" and "extremely poor" frame rates; Wikipedia lists the review as 3/5[^ref-27][^ref-3]. Games Domain's Craig Strachan, who also noted numerous bugs that were being patched, wrote that "If you enjoyed Flight Simulator but wished that it was just that little bit more realistic, then Pro Pilot will be right up your taxiway"[^ref-28].
 
-### Modern Assessment
-
-In a 2001 Airliners.net thread titled "Pro Pilot USA: Need Help!", a user who had just bought the game reported that "when I try to fly in full screen mode, the image quality is really low"[^ref-6]. Another poster replied that he kept Pro Pilot around "just so I can fly the Citation," adding that the scenery was "the best I've ever gotten it to do"[^ref-6].
-
-The game has been preserved on the Internet Archive as part of the clearancebin_pc collection[^ref-1].
-
 **Aggregate Scores (Pro Pilot '98, not USA):**
 - **MobyGames Critics Average (Pro Pilot '98):** 62%[^ref-4]
 - **GameSpot (Pro Pilot '98):** 6.1/10[^ref-3]
@@ -100,6 +94,12 @@ The game has been preserved on the Internet Archive as part of the clearancebin_
 - **PC Gamer (Pro Pilot '98):** 53%[^ref-26]
 - **Computer Games Magazine (Pro Pilot '98):** 3/5 per Wikipedia[^ref-3]
 - **Pro Pilot USA:** no critic score recorded on MobyGames[^ref-24]
+
+### Later User Reports and Preservation
+
+In a 2001 Airliners.net thread titled "Pro Pilot USA: Need Help!", a user who had just bought the game reported that "when I try to fly in full screen mode, the image quality is really low"[^ref-6]. Another poster replied that he kept Pro Pilot around "just so I can fly the Citation," adding that the scenery was "the best I've ever gotten it to do"[^ref-6].
+
+The game has been preserved on the Internet Archive as part of the clearancebin_pc collection[^ref-1].
 
 ## Development
 
@@ -127,7 +127,7 @@ MobyGames credits subLOGIC as co-developer of Pro Pilot '98[^ref-4], but lists D
 
 ### Technical Achievements
 
-The original Pro Pilot was built with Dynamix's proprietary 3-D tool set rather than old Sub-Logic code[^ref-2], and ran at a low-res 640x480 setting[^ref-3]. GameSpot's review of Pro Pilot '98 noted "some nice effects, such as vibration upon starting the engine," while judging the visuals "far behind the state of the art"[^ref-11].
+The original Pro Pilot was built with Dynamix's proprietary 3-D tool set rather than old Sub-Logic code[^ref-2], and ran at a low-res 640x480 setting[^ref-3]; PC Gamer's May 1998 review of the original likewise faulted Sierra for not offering 3D acceleration or "resolutions higher than 640x480 at 256 colors"[^ref-26]. GameSpot's review of Pro Pilot '98 noted "some nice effects, such as vibration upon starting the engine," while judging the visuals "far behind the state of the art"[^ref-11].
 
 ### Technical Specifications
 
@@ -196,7 +196,7 @@ Pro Pilot USA shipped with an eighty-page "Pilot Guide" covering simulator setup
 
 ### Critical Perspective
 
-The Pro Pilot series occupies an interesting position in flight simulation history as Sierra's serious attempt to challenge Microsoft's dominance in civilian aviation simulation[^ref-2]. GameSpot later wrote that Pro Pilot '98 "was far from the Microsoft Flight Simulator killer it was touted as," released "in a buggy, unfinished state"[^ref-12]. Critics such as GameSpot saw the original's main value as an instrument flying trainer[^ref-3].
+The original Pro Pilot was Sierra's attempt to challenge Microsoft's Flight Simulator in the civilian flight sim market[^ref-2]; PC Gamer's May 1998 review described it as "billed as a feature-rich competitor to Microsoft's Flight Simulator"[^ref-26]. GameSpot later wrote that Pro Pilot '98 "was far from the Microsoft Flight Simulator killer it was touted as," released "in a buggy, unfinished state"[^ref-12]. Critics such as GameSpot saw the original's main value as an instrument flying trainer[^ref-3].
 
 Pro Pilot USA was Sierra's attempt to widen that niche: rather than overhaul the simulator, it lowered the price and added beginner material in the hope of reaching "a new audience of general home PC users"[^ref-17]. At the time, Sierra described itself as a division of Havas Interactive[^ref-17].
 
@@ -222,8 +222,8 @@ Pro Pilot USA was Sierra's attempt to widen that niche: rather than overhaul the
 [^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist/game/sierra-pro-pilot-98-the-complete-flight-simulator-1997) – Pro Pilot '98 wishlist, 71 votes as of October 14, 2026
 [^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – "Pro Pilot USA: Need Help!" thread, September–October 2001: full-screen image quality, purchase price
 [^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](https://web.archive.org/web/20260615183649/http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog row for "Sierra Pro Pilot (USA)"
-[^ref-8]: No Steam listing found (Steam store search, checked October 29, 2026) – digital availability status
-[^ref-9]: No GOG listing found (GOG store search, checked October 29, 2026) – digital availability status
+[^ref-8]: No Steam listing (checked October 29, 2026) – digital availability status
+[^ref-9]: No GOG listing (checked October 29, 2026) – digital availability status
 [^ref-10]: [Dynamix Press Release (Archived)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – December 5, 1997 announcement of the original Pro Pilot
 [^ref-11]: [GameSpot – Pro Pilot Review (Archived)](https://web.archive.org/web/20161108022053/https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – Denny Atkin review of Pro Pilot '98, February 9, 1998
 [^ref-12]: [GameSpot – Pro Pilot '99 Review (Archived)](https://web.archive.org/web/20241204001616/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – Denny Atkin; retrospective comments on Pro Pilot '98's state at release
