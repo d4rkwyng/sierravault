@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Rise of the Dragon", "Trophy Bass", "Front Page Sports: Trophy Rivers", "Social City"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "Sierra On-Line", "Electronic Arts", "Acclaim", "Playdom", "Disney Interactive", "Zynga"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Randy Dersham
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -49,13 +49,13 @@ Dersham was art director on [[1990 - Rise of the Dragon|Rise of the Dragon]], Dy
 
 ### Trophy Bass Series (1995–2000)
 
-Dersham designed and produced [[1995 - Trophy Bass|Trophy Bass]], co-designed and directed [[1996 - Front Page Sports - Trophy Bass 2|Trophy Bass 2]], and is credited with the original concept of the two Field & Stream sequels.[^ref-21] Promoting Trophy Bass 2 Deluxe and Trophy Rivers in Sierra's InterAction magazine in 1997, John Sauer called him the "Trophy Bass originator", and Dersham said: "We can say without a doubt that it's taken real fishermen to make a series of fishing titles this good."[^ref-23] He is himself a keen boatman; in his WoodenBoatPeople profile he wrote that he was "hooked on helping people build their own wooden boat for white water."[^ref-4]
+Dersham designed and produced [[1995 - Trophy Bass|Trophy Bass]], directed and was one of the designers of [[1996 - Front Page Sports - Trophy Bass 2|Trophy Bass 2]], and is credited with the original concept of the two Field & Stream sequels.[^ref-21] Promoting Trophy Bass 2 Deluxe and Trophy Rivers in Sierra's InterAction magazine in 1997, John Sauer called him the "Trophy Bass originator", and Dersham said: "We can say without a doubt that it's taken real fishermen to make a series of fishing titles this good."[^ref-23] He is himself a keen boatman; in his WoodenBoatPeople profile he wrote that he was "hooked on helping people build their own wooden boat for white water."[^ref-4]
 
 ## Personal Life and Other Interests
 
-Around 2009 Dersham described himself as co-owner, with his son, of Tatman Wooden Boats, adding: "My day job is as an executive in the computer games industry helping great games get made by very talented people."[^ref-4][^ref-6] Explaining modern wooden drift boats that year, he said: "Today, using polyurethanes, you essentially have a fiberglass encapsulated boat."[^ref-6] His profile lists him as executive director of the McKenzie River Drift Boat Museum from 2006 to 2018.[^ref-16]
+Around 2009 Dersham described himself as co-owner of Tatman Wooden Boats, adding: "My day job is as an executive in the computer games industry helping great games get made by very talented people."[^ref-4][^ref-6] Explaining modern wooden drift boats that year, he said: "Today, using polyurethanes, you essentially have a fiberglass encapsulated boat."[^ref-6] His profile lists him as executive director of the McKenzie River Drift Boat Museum from 2006 to 2018.[^ref-16]
 
-His documentary *Oregon's Boat* premiered in late 2024; its Springfield debut at the Wildish Theater drew an overflow crowd.[^ref-19] The film runs 35 minutes, according to its official site.[^ref-30] It was "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival".[^ref-19] Fly Fish Journal carries the film with a description credited to Dersham.[^ref-29] By April 2025 a Travel McKenzie River interviewer wrote that it had "won several awards and honorable mentions."[^ref-20]
+His documentary *Oregon's Boat* premiered in late 2024; its Springfield debut at the Wildish Theater drew an overflow crowd.[^ref-19] The film runs 35 minutes, according to its official site.[^ref-30] It was "one of four finalists for Best Documentary Feature of the Winter 2025 Oregon Documentary Film Festival,"[^ref-19] and the film's official site lists it as the festival's winner for Best Documentary Feature, along with awards including Best of Show: Biography at the Nature Without Borders International Film Festival and Best Documentary Short at the Wild Rivers Film Festival 2025.[^ref-31] Fly Fish Journal carries the film with a description credited to Dersham.[^ref-29] By April 2025 a Travel McKenzie River interviewer wrote that it had "won several awards and honorable mentions."[^ref-20]
 
 ## Design Philosophy
 
@@ -63,7 +63,7 @@ Dersham has published little about design theory, so this section gives only his
 
 ## Legacy
 
-Ken Williams called Dersham "an incredibly creative guy!" and recalled him as the head of Dynamix's Oregon operation when Sierra was sold in 1996.[^ref-3] Sierra's InterAction magazine called him the "Trophy Bass originator" in 1997, and the Trophy Bass line continued under Electronic Arts, where MobyGames credits him with the original concept of the two Field & Stream sequels.[^ref-23][^ref-21] Social City, which he is listed as a co-winner for, won Best Social Network Game at the first GDC Online Awards in 2010.[^ref-15] His documentary *Oregon's Boat* was reported as a finalist for Best Documentary Feature at the Winter 2025 Oregon Documentary Film Festival.[^ref-19]
+Ken Williams called Dersham "an incredibly creative guy!" and recalled him as the head of Dynamix's Oregon operation when Sierra was sold in 1996.[^ref-3] Sierra's InterAction magazine called him the "Trophy Bass originator" in 1997, and the Trophy Bass line continued under Electronic Arts, where MobyGames credits him with the original concept of the two Field & Stream sequels.[^ref-23][^ref-21] Social City, which he is listed as a co-winner for, won Best Social Network Game at the first GDC Online Awards in 2010.[^ref-15] His documentary *Oregon's Boat* was reported in December 2024 as a finalist for Best Documentary Feature at the Winter 2025 Oregon Documentary Film Festival,[^ref-19] and the film's official site lists it as the winner of that category.[^ref-31]
 
 ## Games
 
@@ -139,3 +139,4 @@ Roles follow MobyGames.[^ref-21] A blank company cell means the source used here
 [^ref-28]: [GameDev.net - At the Indie Games Con 2002](https://www.gamedev.net/tutorials/industry/event-coverage/at-the-indie-games-con-2002-r1868/) — Event coverage: "industry veterans like Jeff Tunnell and Randy Dersham"; "Publishers View of Developers. Presenter: Randy Dersham… formerly of Electronic Arts" (read via ScraperAPI, November 2026)
 [^ref-29]: [The Fly Fish Journal - Oregon's Boat](https://theflyfishjournal.com/blogs/curated-content/oregons-boat) — Film page with a description "From Randy Dersham": "an expository documentary that explores the evolution and enduring influence of the McKenzie River Drift Boat"
 [^ref-30]: [Oregon's Boat - official site](https://oregonsboat.org/) — "Play Movie (Run time: 35 minutes)"; five-act story of the McKenzie River Drift Boat
+[^ref-31]: [Oregon's Boat - Film Awards & Accolades](https://oregonsboat.org/awards) — Film's official site: "Oregon Documentary Film Festival (Winter 2025) Winner — Best Documentary Feature"; also lists Best of Show — Biography (Nature Without Borders) and Winner — Best Documentary Short (Wild Rivers Film Festival 2025)
