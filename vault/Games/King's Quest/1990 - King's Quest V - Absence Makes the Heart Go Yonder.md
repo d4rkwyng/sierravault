@@ -3,6 +3,7 @@ title: 'King''s Quest V: Absence Makes the Heart Go Yonder!'
 release_year: 1990
 developer: Sierra On-Line
 designer: [Roberta Williams]
+composer: [Mark Seibert, Ken Allen]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Windows, Amiga, Mac, NES, FM Towns, PC-98]
@@ -68,7 +69,7 @@ The game follows a semi-linear structure as Graham travels through different reg
 
 ### Puzzles and Mechanics
 
-The game features inventory-based puzzles typical of Sierra adventures, requiring players to collect items and use them in appropriate situations.[^ref-1] A scoring system tracks player progress, with a maximum of 260 points available throughout the game.[^ref-19] However, the game has been criticized for containing numerous dead-ends—situations where players can progress past a point of no return without necessary items, making the game unwinnable without reloading an earlier save.[^ref-8]
+The game features inventory-based puzzles typical of Sierra adventures, requiring players to collect items and use them in appropriate situations.[^ref-1] A scoring system tracks player progress, with a maximum of 260 points available throughout the game.[^ref-69][^ref-19] However, the game has been criticized for containing numerous dead-ends—situations where players can progress past a point of no return without necessary items, making the game unwinnable without reloading an earlier save.[^ref-8]
 
 Players must frequently perform good deeds that are rewarded later in the game, embodying the fairy tale morality that defined the King's Quest series.[^ref-8] Its dead ends are more relentless than in earlier Sierra games, so frequent saving is essential.[^ref-8] Some puzzle solutions have been criticized as illogical or overly obtuse, such as having only seconds to throw a boot at a cat to save a rat, an act that matters much later.[^ref-8]
 
@@ -111,10 +112,10 @@ The game was built on the new SCI1 interpreter.[^ref-1] [[Corey Cole]], credited
 - **Executive Producer:** [[Ken Williams]]
 - **Creative Director:** [[Bill Davis]]
 - **Lead Programmer:** Chris Iden
-- **Programmers:** Chris Iden, Oliver Brelsford, Juan Carlos Escobar, [[Doug Oldfield]], Chris Hoyt, Raoul Said, Robert W. Lindsley[^ref-56]
+- **Programmers:** Chris Iden, Oliver Brelsford, Juan Carlos Escobar, [[Doug Oldfield]], Chris Hoyt, Raoul Said, Robert W. Lindsley[^ref-56][^ref-62]
 - **Art Designer:** [[Andy Hoyos]]
 - **Artists:** Ernie Chan, Douglas Herring, Jeff Crowe, William D. Skirvin, Maurice Morgan, Vas Nokhoudian, Barry T. Smith, Cindy Walker, Deena Benz, Tamra Dayton, Dana Dean, Roger Hardy Jr., Harry McLaughlin, Jennifer Shontz, Deanna Yhalkee, Jim Larson, Cheryl Loyd, Jerry Moore, Cheryl Sweeney, Eric Kasner, Hector Martinez, Richard D. Zeigler-Martin[^ref-62]
-- **Composers:** [[Mark Seibert]], [[Ken Allen]]
+- **Composers:** [[Mark Seibert]], [[Ken Allen]][^ref-62]
 - **Development System:** [[Corey Cole]], Dan Foy, [[Pablo Ghenis]], Eric Hart, John Hartin, Robert E. Heitman, J. Mark Hood, John Rettig, Larry Scott, [[Jeff Stephenson]][^ref-62]
 
 ### Technical Achievements
@@ -151,7 +152,7 @@ The game's audio system supported multiple sound cards including Game Blaster, A
 
 ### Cut Content
 
-Several planned versions of the game were cancelled during development. A Sega CD port was announced but never released.[^ref-6] An Atari ST version was announced but never released.[^ref-6] Some unused dialogue and background scenes exist within the game's data files, including hidden unused game over icons.[^ref-32]
+Several planned versions of the game were cancelled during development. A Sega CD port was announced but never released.[^ref-6] An Atari ST version was announced but never released.[^ref-6] The game's manual nonetheless includes Atari ST loading and README instructions.[^ref-62] Some unused dialogue and background scenes exist within the game's data files, including hidden unused game over icons.[^ref-32]
 
 ### Version History
 
@@ -159,7 +160,7 @@ Several planned versions of the game were cancelled during development. A Sega C
 |---------|------|----------|-------|
 | Floppy EGA | November 1990 | MS-DOS | 16-color version[^ref-17][^ref-10] |
 | Floppy VGA | November 1990 | MS-DOS | 256-color version[^ref-17][^ref-10] |
-| CD-ROM | August 1991 | MS-DOS | Added voice acting[^ref-15] (some sources say 1992[^ref-10]) |
+| CD-ROM | August 1991 | MS-DOS | Added voice acting[^ref-15] (some sources say 1992[^ref-10]); per Wikipedia, localized Japanese, French and German CD editions with additional music and sound effects[^ref-70] |
 | Amiga | 1991 | Amiga | 32 colors[^ref-28][^ref-56] |
 | Macintosh | 1991 | Mac | Port[^ref-56] |
 | NES | June 1992 | Nintendo | Konami/Novotrade port[^ref-6] |
@@ -230,7 +231,7 @@ Many of the voices were provided by Sierra staff, including the game's own devel
 
 According to Jimmy Maher of The Digital Antiquarian, King's Quest V sold 160,000 copies in its first three months and more than 300,000 copies within fifteen months of release.[^ref-15] By February 1993 it had been certified Platinum by the Software Publishers Association, a designation requiring audited sales of at least 250,000 units.[^ref-58] By November 2000, US sales alone were estimated at 300,000-400,000 units.[^ref-6]
 
-Sierra claimed it was the fastest-selling single computer game in the industry's history.[^ref-15]
+Sierra claimed it was the fastest-selling single computer game in the industry's history.[^ref-15] According to Wikipedia, citing the Software Publishers Association, it was the best-selling computer game of January and February 1991 and remained in the top ten through the end of the year.[^ref-70]
 
 ### Collections
 
@@ -253,7 +254,7 @@ In January 2026, kikems (AmigaWave) and Darasco of the [[2025 - SCP Sierra Conve
 
 ### Related Publications
 
-- **King's Quest V Manual:** Official game documentation written by Bridget McKenna, included with original release[^ref-48]
+- **King's Quest V Manual:** Official game documentation written by Bridget McKenna, credited in the original manual[^ref-62]
 - **King's Quest V Hint Book:** The manual pointed stuck players to an official hint book, sold by dealers or ordered directly from Sierra[^ref-62]
 - **Nintendo Power Strategy Guide:** NES-specific walkthrough published in August 1993 issue[^ref-50]
 
@@ -272,6 +273,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 **Manuals & Extras**
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
 - [Internet Archive – Alternate Manual](https://archive.org/details/vgmuseum_sierra_kq5-alt-manual)
+- [MOCAGH – King's Quest V Hint Book (PDF)](https://mocagh.org/sierra/kq5-hintbook.pdf)
 
 ## See Also
 
@@ -311,7 +313,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-39]: [The Easter Egg Archive – King's Quest V](https://eeggs.com/tree/7451.html) – sled/cape easter egg descriptions
 [^ref-43]: [GOG – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – digital release, user reviews
 [^ref-45]: [AGD Interactive Forums – King's Quest V AGI](http://www.agdinteractive.com/forum/viewtopic.php?t=11943) – MusicallyInspired, 10 March 2008: "Just made it for fun. I'm not going to actually make it a game"
-[^ref-48]: [King's Quest Omnipedia – NES Manual](https://kingsquest.fandom.com/wiki/King's_Quest_V_Instruction_Booklet_(NES)) – manual author credit
 [^ref-50]: [King's Quest Omnipedia – Nintendo Power Review](https://kingsquest.fandom.com/wiki/King's_Quest_V_Nintendo_Power_Review) – strategy guide publication
 [^ref-54]: IndieRetroNews – "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster" (4 January 2026) *(link removed: the post links to a download of a modified copy of a commercially sold game)* – SCP remaster announcement (kikems / AmigaWave and Darasco / SCP group), palette reconstruction, MT-32 MIDI
 [^ref-55]: [IMDb – King's Quest V](https://www.imdb.com/title/tt0212279/) – user rating (7.9/10, 190 ratings, as of October 2026)
@@ -328,3 +329,5 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-66]: [Nintendo Power #51 (August 1993) – King's Quest V walkthrough](https://archive.org/details/nintendo-power-issue-051-august-1993/page/94/mode/2up) – pp. 93–94: amulet at "the entrance to the Dark Forest"; the witch's frog spell fails and the Genie bottles her up
 [^ref-67]: [MobyGames – King's Quest V credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) – cast list: "King Graham, Innkeeper's Pal, Harpy: Josh Mandel"; also "Elf, Harpy" (Zdenek), "The Rat, Amanda, Woman in Town, Harpy" (Williams), "Harpy" (Eicker)
 [^ref-68]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – store page for the seven-game collection; description includes "Absence Makes the Heart Go Yonder"
+[^ref-69]: [The Sierra Help Pages – King's Quest 5 Point List](https://sierrahelp.com/Misc/PointLists/KQ5Points.html) – point list totalling 260 of 260
+[^ref-70]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – SPA best-selling computer game of January and February 1991, top ten for the year; localized Japanese, French and German CD releases
