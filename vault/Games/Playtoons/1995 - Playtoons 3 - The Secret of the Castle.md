@@ -10,14 +10,14 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 composer: [Big Wheels, Charles Callet]
 description: 'Playtoons 3: Secret of the Castle is a 1995 Coktel Vision interactive storybook and animation construction kit for Windows and Mac, set in medieval Pendragon Castle and published by Sierra On-Line.'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,6 +81,10 @@ MobyGames records one contemporary critic review, from the German magazine Fun O
 
 The German magazine PC Magazin (DOS edition, April 1996, p. 66) reviewed *Das Geheimnis des Schlosses* (79 Mark, from Sierra Coktel Deutschland) in a short piece by Simone Viethen. It called the game "einer von drei derzeit lieferbaren Titeln aus der Serie Playtoons" (one of three Playtoons titles currently available), described as creative software for children from 4 to 10, and noted that "Die Geschichten können gespeichert, vertont, abgespielt und ausgedruckt werden" (the stories can be saved, voiced, played back and printed). Its "DOS-Urteil" (verdict) read: "Genau richtig für die kleinen Geschichtenerfinder" (just right for little story inventors).[^ref-27]
 
+The British magazine MacFormat (issue 35, March 1996, p. 97) covered the Mac editions in a "Kids' Multimedia Review" by Derek Smith. It called *The Secret of the Castle* "A mystery, this time set in medieval days" that is similar to *Uncle Archibald* and "should keep children hooked as they try to discover the secret", but judged that "this story tips the scales too far in the direction of entertainment, and slightly away from educational value". It added that the game "would have greater use as a learning tool if the hotspots revealed more facts about the life and times of the people who lived during the medieval period." The review's shared Playtoons box lists the price as £24.99 each, "Out: now", an age range of four to ten years, and a "MacFormat Rating" of 90%; that figure appears once for the Playtoons set, not for this title alone.[^ref-31] In its March 1997 Buyer's Guide (issue 48, p. 140), MacFormat listed the game at £28 and 90% (reviewed in issue 35) with its "Classic" badge, writing: "This Playtoon disc is produced to the same high standards as its sister titles, but in this case its value is more entertaining than educational."[^ref-32]
+
+The French magazine SVM Multimédia (no. 1, October 1995, p. 70) reviewed *Le Secret du château* in a piece by Martine Guenzet headed "Il était deux fois". It carries a "Note globale" of 18; the page does not state the scale. The text says the child can trigger "près d'une centaine d'animations" with a mouse click and, because the CD-ROM is bilingual, can also follow the story "en anglais ou en allemand". The review's information box lists the PC Windows edition as "Bilingue : français-anglais", published and distributed by Coktel Vision at about 280 F TTC, with "Version Mac à paraître" (Mac version to come).[^ref-33]
+
 ### Pre-release Coverage
 
 Before launch, CD-ROM Today (UK, issue 17, September 1995) previewed the series in an article by Garrick Webster. It said the third Playtoon, *Secret of the Castle*, "will be about two royal children living in Arthurian times", and that each title would feature an interactive storybook of 12 to 15 screens aimed at four- to ten-year-olds. It described the assets from each disc being pooled into "a library of story 'bricks'" shared across titles, and reported that Coktel Vision "plans to release 15 Playtoons in all".[^ref-28] PC Review (issue 47, September 1995) likewise reported that Sierra planned 15 titles over two years, naming the first three as *Uncle Archibald*, *Spirou* and *The Secret of the Castle*, "a medieval adventure".[^ref-29]
@@ -89,11 +93,13 @@ Sierra's own *InterAction* magazine (Fall 1995) advertised "Playtoons: Secret of
 
 ### Modern Assessment
 
-User ratings are sparse. On SensCritique the game averages 7.2/10 from 10 ratings.[^ref-12] MobyGames has no player reviews.[^ref-23]
+User ratings are sparse. On SensCritique the game averages 7.2/10.[^ref-12] MobyGames has no player reviews.[^ref-23]
 
 **Scores:**
 - **MobyGames (critics):** 83%, based on 1 review[^ref-23]
-- **SensCritique (users):** 7.2/10 from 10 ratings[^ref-12]
+- **MacFormat (UK):** 90% for the Playtoons set (issue 35, March 1996), repeated for this title in the March 1997 Buyer's Guide[^ref-31][^ref-32]
+- **SVM Multimédia (France):** "Note globale" 18, scale not stated on the page[^ref-33]
+- **SensCritique (users):** 7.2/10[^ref-12]
 
 ## Development
 
@@ -125,7 +131,7 @@ MobyGames credits two voice actors for the German version.[^ref-22]
 
 ### Technical Achievements
 
-Playtoons 3 was the first title in the series to use construction kit backgrounds, items, characters and animations in some of its story panels.[^ref-7] The game runs at 640×480 in 256 colours.[^ref-4]
+According to The Sierra Chest, Playtoons 3 was the first title in the series to use construction kit backgrounds, items, characters and animations in some of its story panels.[^ref-7] The game runs at 640×480 in 256 colours.[^ref-4]
 
 ### Technical Specifications
 
@@ -150,15 +156,18 @@ Playtoons 3 was the first title in the series to use construction kit background
 - **Display:** 13" 256 Color monitor
 - **Compatibility:** 68K + PPC (FAT binary)
 
+The UK edition reviewed by MacFormat lists different requirements: "LC475 or better, 4Mb of free RAM (8Mb preferred), System 7.1 or later, 13-inch, 256-colour monitor, double-speed CD-ROM drive", and describes the Playtoons discs as PowerMac-native, against the Mac LC III minimum on the US packaging.[^ref-31][^ref-3]
+
 ### Version History
 
 | Release | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
 | German release | 1995 | Windows 3.x, Macintosh | Germany | Published by Sierra On-Line; distributed by Sierra Coktel Deutschland[^ref-21] |
 | French release | 1995 | Windows 3.x, Macintosh | France | Published by Coktel Vision[^ref-21] |
+| UK English release (Mac) | By March 1996 | Macintosh | United Kingdom | Reviewed by MacFormat at £24.99, "Out: now", with Sierra's UK telephone line as the contact[^ref-31] |
 | North American release | 1996 | Windows 3.x/95, Macintosh | USA, Canada | Published by Sierra On-Line[^ref-21][^ref-3] |
 
-The Fall 1995 issue of Sierra's *InterAction* announced a September 1995 arrival for the game, which was a plan rather than a release date; the table above follows MobyGames for the actual release years.[^ref-30]
+The Fall 1995 issue of Sierra's *InterAction* announced a September 1995 arrival for the game, which was a plan rather than a release date; the table above follows MobyGames for the actual release years.[^ref-30] SVM Multimédia's October 1995 review of the French PC edition gave the Mac version as still to come ("Version Mac à paraître").[^ref-33]
 
 ScummVM's detection tables label one French and one English Windows variant as v1.002. They also list a French "Pack mes histoires animées" edition and further German and English variants that carry no version label.[^ref-25]
 
@@ -171,11 +180,11 @@ ScummVM's detection tables label one French and one English Windows variant as v
 - **Product ID:** 20626-93506
 - **UPC:** 020626935067
 - **Recommended Age:** 6+
-- **ESRB:** E[^ref-16]
+- **ESRB:** E (per IGDB)[^ref-16]
 
 ### Easter Eggs and Trivia
 
-- **First with Integrated Assets:** Playtoons 3 was the first title in the series to use construction kit backgrounds, items, characters, and animations in some of its story panels.[^ref-7]
+- **First with Integrated Assets:** The Sierra Chest credits Playtoons 3 as the first title in the series to use construction kit backgrounds, items, characters, and animations in some of its story panels.[^ref-7]
 - **Cross-Game Library:** Installing multiple Playtoons games creates a shared asset library, allowing children to combine elements from different titles in their creations.[^ref-3][^ref-6]
 - **Film Creation:** The built-in camera function lets players record their own animated films with voice-overs.[^ref-7]
 
@@ -189,23 +198,18 @@ The Sierra Chest documents an EU (English) slipcover box release that comes with
 
 ### Fan Projects
 
-ScummVM's Gob engine includes detection entries for several Playtoons 3 releases.[^ref-25] However, the ScummVM wiki lists the game's support status as "No" and files it under Unsupported Games, so it cannot currently be played in ScummVM.[^ref-4]
+ScummVM's Gob engine includes detection entries for several Playtoons 3 releases.[^ref-25] However, the ScummVM wiki lists support as "No" and files the game under Unsupported Games; the Gob engine has detection entries for it.[^ref-4][^ref-25]
 
 ### Related Publications
 
 - **Game Manual:** Included in the EU (English) box[^ref-10]
 - **Trailers:** Playtoons 1 trailer 2 and Playtoons 2 trailer included[^ref-10]
 
-## Purchase
-
-Not currently sold on modern digital storefronts. GOG lists it only as a fan-requested wishlist entry:
-
-- [GOG Dreamlist (wishlist entry, not a store page)](https://www.gog.com/dreamlist/game/playtoons-3-the-secret-of-the-castle)
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital storefronts
+- No Steam or GOG listing (checked November 2026)
+- [GOG Dreamlist (fan-requested wishlist entry, not a store page)](https://www.gog.com/dreamlist/game/playtoons-3-the-secret-of-the-castle)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8)
@@ -230,7 +234,7 @@ Not currently sold on modern digital storefronts. GOG lists it only as a fan-req
 [^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release years, eXoWin3x download (1.8 GB)
 [^ref-10]: [The Sierra Chest – Box Information](https://sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=box) – packaging details, included content
 [^ref-11]: [Abandonware France – Playtoons 3 : Le Secret du château](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1225) – story structure, English flag option, ages 4–10, assets shared across volumes
-[^ref-12]: [SensCritique – Playtoons 3 : Le Secret du château](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community rating 7.2/10 from 10 ratings
+[^ref-12]: [SensCritique – Playtoons 3 : Le Secret du château](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community rating 7.2/10
 [^ref-16]: [IGDB – Playtoons: The Secret of the Castle](https://www.igdb.com/games/playtoons-the-secret-of-the-castle) – database entry; ESRB E age rating
 [^ref-17]: [LaunchBox Games Database – Playtoons 3 - The Secret of the Castle](https://gamesdb.launchbox-app.com/games/details/93206-playtoons-3-secret-of-the-castle) – developer Coktel Vision; publishers Coktel Vision, Sierra On-Line
 [^ref-21]: [MobyGames – Playtoons 3 releases](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/releases/) – 1995 Germany and France, 1996 United States, for Windows 16-bit and Macintosh
@@ -243,3 +247,6 @@ Not currently sold on modern digital storefronts. GOG lists it only as a fan-req
 [^ref-28]: [CD-ROM Today, issue 17 (UK), September 1995 (Internet Archive scan)](https://archive.org/details/cd-rom-today-issue-17-1995-09) – Garrick Webster's pre-release feature: Arthurian setting, ages 4–10, 12–15 screens, shared asset library, 15 titles planned
 [^ref-29]: [PC Review, issue 47, September 1995 (Internet Archive scan)](https://archive.org/details/pc-review-47) – launch line-up, "a medieval adventure", 15 titles planned, ages 4–10
 [^ref-30]: [InterAction Magazine, Fall 1995, Sierra On-Line (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – Sierra's own magazine: Secret of the Castle announced for September (planned), Playtoons listed at ages 6–12
+[^ref-31]: [MacFormat, issue 35, March 1996, p. 97 (Internet Archive scan)](https://archive.org/details/mac-format-035-mar-1996) – Derek Smith's "Kids' Multimedia Review" of the Playtoons titles; medieval mystery, "tips the scales too far in the direction of entertainment", Playtoons box: £24.99, LC475 requirements, MacFormat rating 90%
+[^ref-32]: [MacFormat, issue 48, March 1997, Buyer's Guide p. 140 (Internet Archive scan)](https://archive.org/details/mac-format-048-mar-1997) – "The Secret of the Castle" £28, 90%, reviewed MF35, Classic badge
+[^ref-33]: [SVM Multimédia, no. 1, October 1995, p. 70 (Internet Archive scan)](https://archive.org/details/svm-multimedia-01) – Martine Guenzet's review of *Le Secret du château*: "Note globale" 18, about 280 F TTC, bilingual, Mac version to come
