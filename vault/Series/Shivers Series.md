@@ -1,7 +1,7 @@
 ---
 title: "Shivers Series"
 type: series_overview
-created_by: "Marcia Bales / Willie Eide / Roberta Williams (consulting)"
+created_by: "Marcia Bales (designer) / Willie Eide (lead game developer) / Roberta Williams (consulting)"
 developer: "Sierra On-Line"
 first_release: 1995
 last_release: 1997
@@ -18,14 +18,14 @@ last_updated: "2026-11-11"
 
 The Shivers series is Sierra's two-game puzzle-horror line: [[1995 - Shivers|Shivers]] (1995) and [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]] (1997).[^ref-21] Both are first-person adventures with a slideshow-style presentation:[^ref-3][^ref-6] the player explores a deserted location (a haunted museum in the original, an abandoned Southwestern town in the sequel), solving puzzles while uncovering a supernatural backstory.[^ref-1][^ref-2]
 
-MobyGames compares the first game to *Myst*,[^ref-3] and Adventure Gamers called it a "horror-themed Myst clone".[^ref-4] [[Roberta Williams]] served as creative consultant and co-writer on the original *Shivers* while she was working on [[Phantasmagoria Series|Phantasmagoria]].[^ref-1] Both games were designed by Marcia Bales and Willie Eide.[^ref-1][^ref-2]
+MobyGames compares the first game to *Myst*,[^ref-3] and Adventure Gamers called it a "horror-themed Myst clone".[^ref-4] [[Roberta Williams]] served as creative consultant and co-writer on the original *Shivers* while she was working on [[Phantasmagoria Series|Phantasmagoria]].[^ref-1] Marcia Bales is credited as designer of both games and Willie Eide as lead game developer in both manuals;[^ref-33][^ref-34] Wikipedia's infoboxes list both as designers.[^ref-1][^ref-2]
 
 ## Series Timeline
 
 | Year | Title | Designer | Engine | Setting | Protagonist |
 |------|-------|----------|--------|---------|-------------|
-| 1995 | [[1995 - Shivers\|Shivers]] | Marcia Bales, Willie Eide[^ref-1] | SCI2.1 (SCI32)[^ref-15] | Professor Windlenot's Museum of the Strange and Unusual[^ref-4] | Unnamed teenager[^ref-1][^ref-4] |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Marcia Bales, Willie Eide[^ref-2] | SCI resources; game logic in native DLLs[^ref-22] | Cyclone, Arizona (fictional town)[^ref-2] | Unnamed friend of the band Trip Cyclone[^ref-2][^ref-6] |
+| 1995 | [[1995 - Shivers\|Shivers]] | Marcia Bales (designer); Willie Eide (lead game developer)[^ref-33] | SCI2.1 (SCI32)[^ref-15] | Professor Windlenot's Museum of the Strange and Unusual[^ref-4] | Unnamed teenager[^ref-1][^ref-4] |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Marcia Bales (designer); Willie Eide (lead game developer)[^ref-34] | SCI resources; game logic in native DLLs[^ref-22] | Cyclone, Arizona (fictional town)[^ref-2] | Unnamed friend of the band Trip Cyclone[^ref-2][^ref-6] |
 
 **Releases:**
 - **Shivers, Windows:** September 30, 1995 per MobyGames (Windows 16-bit); Wikipedia gives November 1995.[^ref-3][^ref-1]
@@ -122,8 +122,8 @@ None were found in the sources consulted for this page.
 
 ## References
 
-[^ref-1]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Designers Bales and Eide; writers Bales and Roberta Williams; Ixupi and Zapana; blue-screen cutscenes; watercolour backgrounds; captions; Guy Whitmore
-[^ref-2]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Designers, plot, review table (Adventure Gamers 3/5, AllGame 4/5, GameSpot 8.7, Next Generation 2/5)
+[^ref-1]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Infobox lists Bales and Eide as designers; writers Bales and Roberta Williams; Ixupi and Zapana; blue-screen cutscenes; watercolour backgrounds; captions; Guy Whitmore
+[^ref-2]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Infobox designers, plot, review table (Adventure Gamers 3/5, AllGame 4/5, GameSpot 8.7, Next Generation 2/5)
 [^ref-3]: [MobyGames — Shivers](https://www.mobygames.com/game/663/shivers/) — Myst comparison, first-person slideshow, life meter
 [^ref-4]: [Adventure Gamers — Shivers review (Tom Arbour, May 20, 2002; Wayback 2010-07-15)](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) — "3.5 stars out of 5"; "horror-themed Myst clone"; museum premise
 [^ref-5]: [GOG.com — Shivers](https://www.gog.com/en/game/shivers) — Current store page
@@ -148,3 +148,5 @@ None were found in the sources consulted for this page.
 [^ref-30]: [MobyGames — Le Meilleur de Sierra II (Wayback 2025)](https://web.archive.org/web/2025/https://www.mobygames.com/game/133154/le-meilleur-de-sierra-ii/) — 1998 compilation of seven Sierra games including Shivers Two: Harvest of Souls; also read via the MobyGames API
 [^ref-31]: [PC Games — Shivers review (Hermann Peterscheck, February 1996; Wayback 1996-10-18)](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) — "more spooky than scary--more Scooby-Doo than Psycho"
 [^ref-32]: [MacUser — The Game Room (Roman Loyola, December 1996; Wayback 2001-01-07)](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) — "you're better off leaving Shivers out in the cold"
+[^ref-33]: [Shivers manual (PC), credits page (PDF)](https://archive.org/download/SHIV102/Shivers_-_Manual_-_PC.pdf) — "Designer: Marcia Bales"; "Lead Game Developer: Willie Eide"; "Script Writers: Marcia Bales, Roberta Williams"; "Creative Consultant: Roberta Williams"
+[^ref-34]: [Shivers Two manual, "The Shivers Team" credits](https://archive.org/details/Shivers_2_-_Harvest_of_Souls_-_Manual) — Marcia Bales as designer, Willie Eide as lead game developer

@@ -2,7 +2,7 @@
 title: Shivers
 release_year: 1995
 developer: Sierra On-Line
-designer: [Marcia Bales, Willie Eide]
+designer: [Marcia Bales]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Windows, Windows 3.x, Mac OS]
@@ -10,14 +10,15 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
-  in 1995, a Myst-style puzzle adventure set in a haunted museum...
+  in 1995, a Myst-style puzzle adventure in which the player captures ten spirits called
+  Ixupi inside a haunted museum.
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +30,8 @@ What distinguished Shivers from contemporaries like Myst and The 7th Guest was i
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** Marcia Bales, Willie Eide[^ref-1]
+> **Designer:** Marcia Bales[^ref-43][^ref-27]
+> **Lead Game Developer:** Willie Eide[^ref-43][^ref-27]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI-32[^ref-3]
 > **Platforms:** Windows, Windows 3.x, Mac OS[^ref-1]
@@ -104,9 +106,9 @@ Adventure Gamers awarded 3.5 out of 5 stars in a 2002 review by Tom Arbour, noti
 Just Adventure's Ray Ivey gave a mixed C grade, acknowledging "This game has a lot going for it. Nice atmosphere, smooth gameplay, and I experienced no technical glitches at all" but ultimately finding "By the time I finished Shivers, I was ready to let an evil spirit get me just to put me out of my misery"[^ref-23].
 
 **Aggregate Scores:**
-- **MobyGames:** 70% (23 critic ratings)[^ref-6]
+- **MobyGames:** 71% (24 critic ratings), as of November 2026[^ref-6]
 - **IMDB:** 8.4/10 (user ratings)[^ref-24]
-- **GOG.com:** 4.7/5 (93 user reviews)[^ref-25]
+- **GOG.com:** 4.7/5 (113 user reviews), as of November 2026[^ref-25]
 - **My Abandonware:** 4.43/5 (56 votes)[^ref-26]
 
 ## Development
@@ -115,13 +117,13 @@ Just Adventure's Ray Ivey gave a mixed C grade, acknowledging "This game has a l
 
 Shivers was inspired by designer Marcia Bales' personal interest in archaeology[^ref-3]. Bales' initial concept involved travelling the world to collect the spirits; the idea of placing the game in a set location came from [[Roberta Williams]], who served as creative consultant[^ref-7][^ref-1].
 
-The Ixupi mythology drew inspiration from multiple cultural sources. "The Ixupi culture is based on Egyptian legends and beliefs," according to Adventure Classic Gaming, though the spirits themselves are presented as South American in origin[^ref-3]. The museum setting was grounded in authenticity, with Bales incorporating actual footage from a trip to Belize (around 1994, per the user guide's making-of chapter as summarized by Wikipedia[^ref-1]), and claiming that "90% of the facts one finds in the museum are factual"[^ref-3].
+The Ixupi mythology drew inspiration from multiple cultural sources. "The Ixupi culture is based on Egyptian legends and beliefs," according to Adventure Classic Gaming, though the spirits themselves are presented as South American in origin[^ref-3]. The museum setting was grounded in authenticity, with Bales incorporating actual footage from a trip to Belize (around 1994, according to Wikipedia[^ref-1]), and claiming that "90% of the facts one finds in the museum are factual"[^ref-3].
 
 ### Production
 
-Development of Shivers presented significant challenges for the Sierra team. According to Wikipedia's summary of the user guide's making-of chapter, the team faced steep learning curves because many members were inexperienced in 3D modeling or adventure game design, and it was the first time the SCI language had been used for a first-person adventure game[^ref-1]. Roberta Williams served as creative consultant while simultaneously working on Phantasmagoria[^ref-1].
+Development of Shivers presented significant challenges for the Sierra team. According to Wikipedia, the team faced steep learning curves because many members were inexperienced in 3D modeling or adventure game design, and it was the first time the SCI language had been used for a first-person adventure game[^ref-1]. Roberta Williams served as creative consultant while simultaneously working on Phantasmagoria[^ref-1].
 
-The art production was remarkably labor-intensive. Each room was assigned to one of a team of ten artists, with the art director ensuring continuity and consistency[^ref-1]; Ron Spears is credited as art director[^ref-27]. "All artworks are original paintings except for a few wire frame models. Most are painted traditionally with watercolors or gouache"[^ref-3]. Over 2,500 individual background shots were created, scanned, and compiled using 3D Studio for room construction[^ref-3]. Blue screen film sequences were shot using Ultimatte technology for the live-action video elements[^ref-3].
+The art production was remarkably labor-intensive. According to Wikipedia, each room was assigned to one of a team of ten artists, with the art director ensuring continuity and consistency[^ref-1]; Ron Spears is credited as art director[^ref-27]. "All artworks are original paintings except for a few wire frame models. Most are painted traditionally with watercolors or gouache"[^ref-3]. Over 2,500 individual background shots were created, scanned, and compiled using 3D Studio for room construction[^ref-3]. Blue screen film sequences were shot using Ultimatte technology for the live-action video elements[^ref-3].
 
 Sound designer and composer Guy Whitmore handled multiple audio roles that would typically be divided among several specialists in film production: "If you look at movie credits, you'd see sound designers, a composer, sound editors, an orchestrator, a sound coordinator, and foley artists. So far in the computer industry, at least where the industry is right now, all those roles are often rolled into one person"[^ref-1]. The soundtrack incorporated various atmospheric elements, including "mumblings from a Hamlet performance" for the abandoned theatre area[^ref-1].
 
@@ -136,6 +138,8 @@ Sound designer and composer Guy Whitmore handled multiple audio roles that would
 - **QA Lead:** Jay Williams
 - **Movie Sequences Director/Photography:** Tony Ober
 - **User Guide Writer:** Vanessa Raymond
+
+The manual's credits page lists Bales as Designer and Eide as Lead Game Developer[^ref-43]; Wikipedia's infobox lists both as designers[^ref-1].
 
 The full cast is listed in the Voice Cast section below.
 
@@ -207,6 +211,7 @@ Shivers contains numerous hidden interactions and Easter eggs documented by the 
 - **Guillotine:** After chopping the head, click the executioner statue's head twice
 
 Cross-Sierra references include elevator music that later appeared in Phantasmagoria: A Puzzle of Flesh, and the jukebox containing songs from Mixed-Up Mother Goose deluxe version[^ref-34]. One user noted: "This game is so full of Easter Eggs, I was surprised not to find it here. The only way to find out about them is to either find them by accident, or ask someone at the Mystery Games forum at Sierra.com"[^ref-33].
+
 ## Voice Cast
 
 Cast per MobyGames' credits, which list these performers as "Actors" for the game's live-action video, shot on blue screen[^ref-27][^ref-3]:
@@ -218,8 +223,8 @@ Cast per MobyGames' credits, which list these performers as "Actors" for the gam
 | Merrick Campbell | Ned Harkness |
 | Tiff | Meg Davis |
 | Jason | Sione Unga |
-| Boy #2 | Justin Irish |
-| Girl #2 | Kim Witherbee |
+| Male #2 | Justin Irish |
+| Female #2 | Kim Witherbee |
 | Narrator & Human Voices | Rodney Sherwood |
 
 Movie sequences directed and photographed by Tony Ober[^ref-27].
@@ -244,7 +249,7 @@ An active speedrunning community maintains records at Speedrun.com, with categor
 
 ### Related Publications
 
-- **User Manual:** Written by Vanessa Raymond, included with game[^ref-27]
+- **User Manual:** Written by Vanessa Raymond, included with game[^ref-27]; the credits page is in the [original manual (PDF)](https://archive.org/download/SHIV102/Shivers_-_Manual_-_PC.pdf)[^ref-43]
 - **USA Version Bonus:** The USA retail version includes a thicker book with a walkthrough chapter that the international version lacks[^ref-16]
 
 ### Critical Perspective
@@ -262,6 +267,9 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 
 **Download / Preservation**
 - [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — modern-OS install guides and patch documentation[^ref-28]
+
+**Manuals & Extras**
+- [Original manual (PDF)](https://archive.org/download/SHIV102/Shivers_-_Manual_-_PC.pdf) — 1995 user manual with credits page[^ref-43]
 
 **ScummVM Support**
 - [ScummVM Wiki – Shivers](https://wiki.scummvm.org/index.php?title=Shivers) — modern open-source engine support[^ref-32]
@@ -283,7 +291,7 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-2]: [Web Archive – Adventure Gamers: Shivers Review (Tom Arbour, 2002)](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) – 3.5/5 score, gameplay description, game quotes, plot summary
 [^ref-3]: [Adventure Classic Gaming – Shivers Review](https://www.adventureclassicgaming.com/index.php/site/reviews/26/) – technical specifications, production details, development history, random play, 10 Ixupi, 27 puzzles
 [^ref-5]: [Balmoral Software – Shivers](http://www.balmoralsoftware.com/shivers/shivers.htm) – randomization system, gameplay mechanics
-[^ref-6]: [MobyGames – Shivers](https://www.mobygames.com/game/663/shivers/) – critic average 70% (23 ratings; the separate Moby Score is 7.1), Windows 16-bit release date 1995-09-30, ESRB Teen rating, platform information
+[^ref-6]: [MobyGames – Shivers](https://www.mobygames.com/game/663/shivers/) – critic average 71% (24 ratings, as of November 2026; the separate Moby Score is 7.1), Windows 16-bit release date 1995-09-30, ESRB Teen rating, platform information
 [^ref-7]: [Old School Gamer Magazine – Shivers](https://www.oldschoolgamermagazine.com/shivers-exploring-dr-windlenots-mysterious-museum/) – Willie Eide interview, accessibility features, development history
 [^ref-8]: [IGN – Shivers Walkthrough/FAQ](https://www.ign.com/articles/2002/11/22/shivers-walkthroughfaq-378428) – plot details, gameplay analysis
 [^ref-9]: [Amazon – Shivers](https://www.amazon.com/Sierra-Shivers/dp/0871771160) – product description, compatibility issues
@@ -318,3 +326,4 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-40]: [Web Archive – PC Gamer Shivers II Preview](https://web.archive.org/web/19980218070943/http://www.pcgamer.com/news/news-1996-11-04.html) – sequel features
 [^ref-41]: [Internet Archive – Next Generation #17 (May 1996), p. 101](https://archive.org/details/NEXT_Generation_17/page/n106/) – Shivers review scan: "the long load times, grating music, and overreaching puzzles keep it mediocre at best"; rated three stars
 [^ref-42]: [Web Archive – Online Gaming Review News, May 1996](https://web.archive.org/web/19970227065909/http://www.ogr.com/news/news0596.html) – May 30, 1996 entry: "Mac gamers should also note that Shivers was released as well"
+[^ref-43]: [Shivers – Manual (PC), credits page (PDF)](https://archive.org/download/SHIV102/Shivers_-_Manual_-_PC.pdf) – "Designer: Marcia Bales"; "Lead Game Developer: Willie Eide"; "Script Writers: Marcia Bales, Roberta Williams"; cast list with "Male #2" and "Female #2"
