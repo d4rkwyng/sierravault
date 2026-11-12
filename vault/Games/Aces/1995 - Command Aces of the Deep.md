@@ -10,15 +10,13 @@ series: Aces
 engine: Unconfirmed
 protagonist: German U-boat Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
-description: Command Aces of the Deep is an enhanced Windows version of Dynamix's
-  acclaimed World War II submarine simulation, originally released as "Aces of the
-  Deep"...
+last_updated: '2026-11-11'
+description: "Command Aces of the Deep is the 1995 Windows 95 CD-ROM edition of Dynamix's World War II U-boat simulation Aces of the Deep, adding new textures, SVGA graphics, voice commands and the Expansion Disk missions."
 tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -72,6 +70,7 @@ The simulation demands players "confront most of the same operational dilemmas r
 | Computer Gaming World | 5/5 | Kevin Turner, November 1995 (issue #136)[^ref-22] |
 | Génération 4 | 74% | October 1995 review (issue #81)[^ref-22][^ref-35] |
 | Subsim | 83/100 | March 1996 review as updated October 1999[^ref-18] |
+| MobyGames | 87% | Average of 6 critic ratings[^ref-7] |
 
 Génération 4 noted the improved SVGA graphics but questioned whether Windows 95 alone justified reissuing an already-aging game, and found that the English version tested recognized only half of the spoken orders[^ref-35][^ref-22]. Subsim's reviewer likewise "couldn't get it to work reliably," while still calling the game "the best of all U-boat sims"[^ref-18].
 
@@ -93,11 +92,11 @@ Command Aces of the Deep was developed by Dynamix, a company bought by Sierra On
 
 The game was created with extensive attention to historical research and documentation; its on-line manual features interviews with former German U-boat commanders, among them Erich Topp, Otto Kretschmer and Reinhard Hardegen[^ref-22]. Video interviews with former U-boat commanders and crew were not new to this edition: they had already appeared on the earlier Aces of the Deep CD-ROM release and were carried over[^ref-33][^ref-6].
 
-MobyGames credits 69 people on the Windows version, with music by Jan Paul Moorhead[^ref-7][^ref-22]. The new textures, higher SVGA resolution and voice recognition system distinguished it from the original DOS release[^ref-7].
+MobyGames credits 69 people on the Windows version, with music by Jan Paul Moorhead[^ref-7][^ref-22]. Mike Jones is credited as producer, Langdon Beeck as lead programmer, Piotr Lukaszuk as technical director and programmer, Jarrett Jester and Kyle Miller as art directors, and Dennis A. Kilgore as historian[^ref-7]. The new textures, higher SVGA resolution and voice recognition system distinguished it from the original DOS release[^ref-7].
 
 ### Expansion Content
 
-Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS original, adding six new historical missions, access to the Mediterranean Sea and a prototype Type XXI U-boat[^ref-19]. Command Aces of the Deep integrated that expansion, including the Type XXI[^ref-6]. Subsim noted the Type XXI was built late in the war and "too late to become operational in large numbers"[^ref-18].
+Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS original, adding six new historical missions, access to the Mediterranean Sea and a prototype Type XXI U-boat[^ref-19]. Command Aces of the Deep integrated that expansion, including the Type XXI and Type XXIII U-boats[^ref-6]. Subsim noted the Type XXI was built late in the war and "too late to become operational in large numbers"[^ref-18].
 
 ### Technical Achievements
 
@@ -107,7 +106,11 @@ The voice recognition feature was meant to launch a series of "Command" games fr
 
 ## Legacy
 
-Command Aces of the Deep remains a reference point for the submarine simulation genre. Subsim's 1999 update said "CAOD was leagues ahead of the competition at the time of its release, holds its ground years later"[^ref-22], and Old-Games.com notes it is "often considered one of the best submarine simulation games of all times, even surpassing" SSI's Silent Hunter[^ref-25].
+Command Aces of the Deep remains a reference point for the submarine simulation genre. Subsim's 1999 update said "CAOD was leagues ahead of the competition at the time of its release, holds its ground years later"[^ref-18], and Old-Games.com notes it is "often considered one of the best submarine simulation games of all times, even surpassing" SSI's Silent Hunter[^ref-25].
+
+### Collections
+
+MobyGames lists the game as included in *Aces: Collection Series* (1997) and *Legendäre Asse* (2000), and gives *Asse der Tiefe* as its German Windows title[^ref-7].
 
 ## Downloads
 
@@ -132,7 +135,7 @@ Command Aces of the Deep remains a reference point for the submarine simulation 
 [^ref-1]: [Old-Games.com](https://www.old-games.com/download/4200/command-aces-of-the-deep) – Windows version description, mission formats and review verdict
 [^ref-2]: [Amazon Customer Review](https://www.amazon.com/Aces-Deep-DOS/dp/0871770261) – Steven Hildebrand review describing game atmosphere
 [^ref-6]: [Wikipedia - Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – Series context, War Grid map, Command re-release features, integrated Type XXI, 1996 CGW ranking of the 1994 original
-[^ref-7]: [MobyGames - Command: Aces of the Deep](https://www.mobygames.com/game/4576/command-aces-of-the-deep/) – Publisher, Windows enhancements, 69 credits, design credits, input devices, trivia (voice series, Win95-only insert)
+[^ref-7]: [MobyGames - Command: Aces of the Deep](https://www.mobygames.com/game/4576/command-aces-of-the-deep/) – Publisher, Windows enhancements, 69 credits, production, programming, art and historian credits, design credits, 87% critic average (6 ratings), 1997 and 2000 collections, German title, input devices, trivia (voice series, Win95-only insert)
 [^ref-10]: [GGMania Strategy Guide](https://www.ggmania.com/gimmecheat.php?cheat=292) – Career start in Bremen, eight time periods, historical accuracy
 [^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/Aces-of-the-Deep) – Allied ships and coordination improving as the game progresses
 [^ref-13]: [Classic Reload](https://classicreload.com/aces-of-the-deep.html) – "Highly randomized and replayable" Career Mode
