@@ -5,12 +5,12 @@ developer: Sierra On-Line
 designer: [Marcia Bales]
 publisher: Sierra On-Line
 genre: Adventure
-platforms: [Windows]
+platforms: [Windows, Windows 3.x]
 series: Shivers
 engine: SCI resources / native DLL logic
 protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the desert town of Cyclone, Arizona, the
   player searches for missing friends of the band Trip Cyclone by collecting twelve
@@ -19,11 +19,11 @@ tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Shivers Two: Harvest of Souls is a horror adventure game developed and published by Sierra On-Line in 1997[^ref-1]. Set in the mysterious desert town of Cyclone, Arizona, the game follows the player as they search for their missing friends from the rock band Trip Cyclone who have disappeared while filming music videos[^ref-2]. As the second installment in the Shivers series, the game maintains the first-person slideshow interface of its predecessor while introducing significant technical improvements[^ref-3].
+Shivers Two: Harvest of Souls is a horror adventure game developed and published by Sierra On-Line in 1997[^ref-1]. Set in the mysterious desert town of Cyclone, Arizona, the game follows the player as they search for their missing friends from the rock band Trip Cyclone who have disappeared while filming music videos[^ref-1]. As the second installment in the Shivers series, the game maintains the first-person slideshow interface of its predecessor while introducing significant technical improvements[^ref-3].
 
 The game incorporates Native American mysticism and supernatural horror elements, requiring players to collect twelve ceremonial prayer sticks called Bahos to free their friends' souls from an ancient curse[^ref-4]. Adventure Classic Gaming wrote that Sierra On-Line "has clearly listened to the many criticisms by gamers on Shivers during the design of this sequel"[^ref-5]. The game features a soundtrack by the fictional band Trip Cyclone, with clue-riddled music videos serving as integral puzzle elements[^ref-6].
 
@@ -32,7 +32,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 > **Designer:** Marcia Bales[^ref-12]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI (Sierra's Creative Interpreter) resources, with game logic in native DLLs rather than SCI scripts[^ref-17][^ref-35][^ref-71]; "Vision 360" panoramic views[^ref-5]
-> **Platforms:** Windows[^ref-18]
+> **Platforms:** Windows, Windows 3.x[^ref-18][^ref-5][^ref-51]
 > **Release Year:** 1997[^ref-18]
 > **Series:** Shivers
 > **Protagonist:** Unnamed friend of the band Trip Cyclone[^ref-9][^ref-17]
@@ -40,7 +40,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 
 ## Story Summary
 
-"Welcome to Cyclone, a bizarre little town on the edge of madness in a remote corner of Arizona"[^ref-9]. The player arrives in this isolated desert community to discover that their friends, the members of rock band Trip Cyclone, have mysteriously vanished while creating music videos[^ref-2]. The town appears largely abandoned except for a sinister masked figure called Darkcloud, "a faceless creature, who preys on everyone's fears" and has been tormenting Cyclone for years[^ref-9].
+"Welcome to Cyclone, a bizarre little town on the edge of madness in a remote corner of Arizona"[^ref-9]. The player arrives in this isolated desert community to discover that their friends, the members of rock band Trip Cyclone, have mysteriously vanished while creating music videos[^ref-5]. The town appears largely abandoned except for a sinister masked figure called Darkcloud, "a faceless creature, who preys on everyone's fears" and has been tormenting Cyclone for years[^ref-9].
 
 As the investigation unfolds, the player learns that Darkcloud has hidden twelve ceremonial prayer sticks called Bahos around the town, each found near a kachina doll[^ref-4]; Next Generation summed the plot up as "a typical story of human abduction with mystical, Native American doomsday portents"[^ref-73]. The official strategy guide promises to help players "unlock the secrets of the petroglyphs"[^ref-10]. Adventure Gamers' review uses two lines from the game as section headings: "I have your friends. Only the warrior can free them" and "They thought I liked their music. They were such pawns"[^ref-3].
 
@@ -112,7 +112,7 @@ Player reviews on MobyGames are largely enthusiastic, with one reviewer declarin
 
 ### Technical Achievements
 
-Vision 360 allows full 360-degree horizontal panning plus about 30 degrees of vertical panning, which Adventure Gamers called rare among games of its kind[^ref-3][^ref-5]. The Dynamic Sounds technology provided surround sound simulation on standard stereo systems, enhancing the atmospheric horror elements[^ref-5]. The game rendered at SVGA 640x480 resolution with 256 colors and required a minimum 486DX/2 66MHz processor with 12 MB RAM[^ref-5].
+Vision 360 allows full 360-degree horizontal panning plus about 30 degrees of vertical panning, which Adventure Gamers described as "one of few games that allows you to also pan up and down by about 30 degrees either way"[^ref-3][^ref-5]. The Dynamic Sounds technology provided surround sound simulation on standard stereo systems, enhancing the atmospheric horror elements[^ref-5]. The game rendered at SVGA 640x480 resolution with 256 colors and required a minimum 486DX/2 66MHz processor with 12 MB RAM[^ref-5].
 
 The game included online features through the Sierra Internet Gaming System (SIGS), enabling real-time chat and puzzle sharing capabilities[^ref-3]. Players could redesign puzzles and email them as .txt files[^ref-5]. Writing in 2002, Adventure Gamers found the online component "all but useless now" and could not even log on to the service[^ref-3].
 
@@ -124,9 +124,11 @@ The game included online features through the Sierra Internet Gaming System (SIG
 | European release | 1997 | Windows | Titled *Harvest of Souls*[^ref-18][^ref-15] |
 | GOG.com digital release | May 29, 2020 | Windows | Digital re-release[^ref-29] |
 
+MobyGames lists localized titles of the game: *Cyclone: La Cité des Âmes perdues* (French), *Harvest of Souls: Stadt der verfluchten Seelen* (German) and *Shivers Dois: Cativeiro das Almas* (Brazilian)[^ref-17].
+
 Sources disagree on the exact North American release date. April 14, 1997 is given by Wikipedia[^ref-18], GameFAQs[^ref-15], Metacritic[^ref-22] and Sierra's own 1997 press-release list ("Shivers II: Harvest of Souls is Released. (14-April-1997)")[^ref-74]. PC Gamer's news page of April 9, 1997 already reported that Sierra "has begun shipping Shivers II: Harvest of Souls"[^ref-75], and Glitchwave gives April 9, 1997[^ref-44]. The Sierra Chest and IMDb give April 30, 1997[^ref-35][^ref-45], while MobyGames gives only "April 1997"[^ref-17].
 
-## Easter Eggs and Trivia
+### Easter Eggs and Trivia
 
 Shivers Two contains several connections to other Sierra games and hidden developer references. In the library, a book written by Hubert Windlenot—the professor from the original Shivers—can be found, providing a subtle link between the games despite their separate storylines[^ref-7]. One of the Trip Cyclone band members can be seen wearing a Shivers sweater in a photograph within the game[^ref-57].
 
@@ -163,7 +165,6 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/12/&lang=en) – Developer, publisher, platform, and release date information
-[^ref-2]: Internet Archive - Full Game *(download link removed: the game is sold commercially)* – Plot summary and game description
 [^ref-3]: [Adventure Gamers – Shivers 2: Harvest of Souls review (Tom Arbour, May 20, 2002; Wayback 2023-04-18)](https://web.archive.org/web/20230418085354/https://adventuregamers.com/articles/view/17524) – Gameplay mechanics, panning, puzzle count, quotes, 3/5 score
 [^ref-4]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198631-shivers-two-harvest-of-souls/faqs/14212) – Core gameplay mechanics and cultural themes
 [^ref-5]: [Adventure Classic Gaming Review (Alternative)](http://www.adventureclassicgaming.com/index.php/site/reviews/12/) – Engine details, system requirements, and reviewer quotes
@@ -171,7 +172,7 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-7]: [MobyGames Trivia](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/trivia/) – Windlenot book, Jason Lindsey/MetalJesusRocks, second-CD contents
 [^ref-9]: [Internet Archive - Demo](https://archive.org/details/s2demozp) – Official plot description and setting details
 [^ref-10]: [Amazon Strategy Guide](https://www.amazon.com/Shivers-Two-Harvest-Official-Strategy/dp/0761510729) – Strategy guide blurb ("unlock the secrets of the petroglyphs")
-[^ref-11]: Collection Chamber Blog *(download link removed: the game is sold commercially)* – Development context and thematic analysis
+[^ref-11]: Collection Chamber Blog – Development context and thematic analysis
 [^ref-12]: [Archive.org Manual](https://archive.org/details/Shivers_2_-_Harvest_of_Souls_-_Manual) – Twelve-item inventory; mouse and keyboard controls; "The Shivers Team" credits (p. 29)
 [^ref-15]: [GameFAQs Main Page](https://gamefaqs.gamespot.com/pc/198631-shivers-two-harvest-of-souls/faqs) – Release date and European title ("Harvest of Souls (EU)")
 [^ref-17]: [MobyGames Main Entry](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – SCI engine, live-action cut-scenes, ESRB Teen, inventory and 360° rotation
@@ -179,20 +180,20 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-19]: [GameSpot – Shivers II: Harvest of Souls Review (Kevin Hunsanger, May 1, 2000)](https://www.gamespot.com/reviews/shivers-ii-harvest-of-souls-review/1900-2532986/) – 8.7/10, "hauntingly intelligent" plot
 [^ref-21]: [MobyGames – Shivers Two: Harvest of Souls](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – Additional review aggregation data
 [^ref-22]: [Metacritic](https://www.metacritic.com/game/shivers-two-harvest-of-souls/) – User review scores and detailed player feedback
-[^ref-23]: Game Pressure Mod, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – Technical compatibility issues and community solutions
+[^ref-23]: Game Pressure Mod, gamepressure.com – Technical compatibility issues and community solutions
 [^ref-28]: [VGMdb Soundtrack](https://vgmdb.net/album/65584) – Music composition credits
 [^ref-29]: [GOG.com – Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) – Digital release (GOG release date 2020-05-29), US$5.99
 [^ref-35]: [SierraChest – Shivers 2: Harvest of Souls](https://www.sierrachest.com/index.php?a=games&id=187&fld=general) – Engine (SCI), developer, platform
 [^ref-43]: [UVList](https://www.uvlist.net/game-154424-Shivers+Two+Harvest+of+Souls) – Génération 4 (June 1997), PC Gamer UK (July 1997) and PC Format UK (August 1997) review scores
 [^ref-44]: [Glitchwave](https://glitchwave.com/game/shivers-two-harvest-of-souls/) – User aggregate rating (3.00/5.0 from 3 ratings, as of November 2026) and gameplay analysis
 [^ref-45]: [IMDb – Shivers II: Harvest of Souls](https://www.imdb.com/title/tt0286963/) – User rating 8.3/10 from 52 votes (checked October 29, 2026); release date given as April 30, 1997
-[^ref-50]: GamePressure – "Shivers Two: Harvest of Souls – Alternative Installer" mod page (cited as text only; the page's sidebar promotes adult mods) – Squirtthecat's community patch history
+[^ref-50]: GamePressure – "Shivers Two: Harvest of Souls – Alternative Installer" mod page – Squirtthecat's community patch history
 [^ref-51]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Shivers_Two:_Harvest_of_Souls) – Technical compatibility issues documentation
 [^ref-57]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Shivers sweater, Al Lowe photo, four endings, five songs, live-action cut-scenes
-[^ref-65]: Old-Games.com Review *(download link removed: the game is sold commercially)* – Overall gameplay assessment
+[^ref-65]: Old-Games.com Review – Overall gameplay assessment
 [^ref-70]: [MobyGames Reviews](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/reviews/) – Player reviews (two CDs, five songs, "only sequel" quote)
 [^ref-71]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files."
-[^ref-72]: [MobyGames screenshot – "883.400 out of 800.000? Great math..."](https://cdn.mobygames.com/screenshots/10214150-shivers-two-harvest-of-souls-windows-16-bit-883400-out-of-800000.jpg) – Final screen showing "Score 883400 out of 800,000" (Windows 16-bit screenshot; caption read via the MobyGames API)
+[^ref-72]: [MobyGames screenshot – "883.400 out of 800.000? Great math..."](https://cdn.mobygames.com/screenshots/10214150-shivers-two-harvest-of-souls-windows-16-bit-883400-out-of-800000.jpg) – Final screen showing "Score 883400 out of 800,000" (Windows 16-bit screenshot)
 [^ref-73]: [Next Generation #32 (August 1997), p. 124 – "Shivers 2: Harvest of Souls" review (Internet Archive scan)](https://archive.org/details/NextGeneration32Aug1997/page/n125/mode/1up) – Rating: two stars; "It might be the best puzzle game of its type…"; "mystical, Native American doomsday portents"
 [^ref-74]: [Sierra On-Line – Press Release Information (Wayback, 1998-02-14)](https://web.archive.org/web/19980214123917/http://sierra.com/info/press.html) – "Shivers II: Harvest of Souls is Released. (14-April-1997)"
 [^ref-75]: [PC Gamer news, April 9, 1997 (Wayback, 1997-10-12)](https://web.archive.org/web/19971012045128/http://www.pcgamer.com:80/news/news0407.html) – "the company has begun shipping Shivers II: Harvest of Souls"
