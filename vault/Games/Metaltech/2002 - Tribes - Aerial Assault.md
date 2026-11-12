@@ -7,10 +7,10 @@ publisher: Sierra Entertainment
 genre: FPS
 platforms: [PS2]
 series: Tribes
-engine: Unknown
+engine: null
 protagonist: J. Ransom
 sierra_lineage: Sierra Published
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 composer: [Timothy Steven Clark]
 description: 'Tribes: Aerial Assault is a 2002 online first-person shooter for the PlayStation
   2, developed by Inevitable Entertainment and published by Sierra Entertainment as
@@ -19,21 +19,20 @@ tags: [2000s, shooter, sierra, tribes]
 ---
 # Tribes: Aerial Assault
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Tribes: Aerial Assault is an online first-person shooter developed by Inevitable Entertainment and published by [[Sierra On-Line|Sierra Entertainment]] for the PlayStation 2 in September 2002.[^ref-1][^ref-4] It was a port of the PC game Tribes 2, essentially a simplified Tribes 2 for the PlayStation 2.[^ref-1][^ref-9] Set in the Wilderzone, the 40th century's wild frontier, the game pits the tribes of man against genetically modified Bioderm hordes in jetpack-equipped combat across massive battlefields.[^ref-2]
 
-It was one of the first PlayStation 2 titles designed almost exclusively for online play, and the first online PlayStation 2 shooter to support both modem and broadband connections.[^ref-1][^ref-17] IGN called it "the first game sold for PlayStation 2 that is almost entirely meant to be played online".[^ref-10] It was announced in tandem with Sony's online strategy for the PlayStation 2 at E3 2001.[^ref-1] Online games supported up to 16 players, hosted on dedicated or integrated PlayStation 2 servers.[^ref-5][^ref-16] GamePro's October 2002 preview described it as Sierra's first PS2 online game and said up to 16 players could play at once.[^ref-28]
+It was one of the first PlayStation 2 titles designed almost exclusively for online play, and, GameSpot reported, the first online PlayStation 2 shooter to support both modem and broadband connections.[^ref-17] IGN called it "the first game sold for PlayStation 2 that is almost entirely meant to be played online".[^ref-10] It was announced in tandem with Sony's online strategy for the PlayStation 2 at E3 2001.[^ref-1] Online games supported up to 16 players, hosted on dedicated or integrated PlayStation 2 servers.[^ref-5][^ref-16] GamePro's October 2002 preview described it as Sierra's first PS2 online game and said up to 16 players could play at once.[^ref-28]
 
-In October 2015, Hi-Rez Studios released the game as freeware alongside the other Tribes games.[^ref-4][^ref-19] PC Gamer suggested it "might be the first PS2 game released as freeware by its developer", and MobyGames describes it as the first and so far only commercially released PlayStation 2 game to become freeware.[^ref-19][^ref-4] A fan community now runs private AADS servers on cloud-based AWS hosting, and says it has expanded them from 16 to 32 players.[^ref-6]
+In October 2015, Hi-Rez Studios released the game as freeware alongside the other Tribes games.[^ref-4][^ref-19] PC Gamer suggested it "might be the first PS2 game released as freeware by its developer", and MobyGames describes it as the first and so far only commercially released PlayStation 2 game to become freeware.[^ref-19][^ref-4] A fan community now runs private servers (using the Aerial Assault Dedicated Server, AADS) on cloud-based AWS hosting, and says it has expanded them from 16 to 32 players.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Inevitable Entertainment[^ref-1]
 > **Designer:** Bey Bickerton, Jim Richardson, Eric Lanz, David Meddish[^ref-4]
 > **Publisher:** Sierra Entertainment[^ref-1]
-> **Engine:** Unknown
 > **Platforms:** PlayStation 2[^ref-1]
 > **Release Year:** 2002
 > **Series:** Tribes (Earthsiege/Starsiege franchise)[^ref-2]
@@ -44,7 +43,7 @@ In October 2015, Hi-Rez Studios released the game as freeware alongside the othe
 
 The game is set in the year 3945, five years after the events of Tribes 2.[^ref-1] On the frontier "Wilderzone" of human space, hardy neo-barbarian tribes compete for possession of new worlds, while invading BioDerm Hordes, a genetically modified race bred for battle, threaten tribal space.[^ref-1][^ref-2] The fan community's lore summary names the four great tribes as the Blood Eagle, the Children of the Phoenix, Diamond Sword and Starwolf.[^ref-6]
 
-The player controls J. Ransom, a recently recruited "newblood". After a training segment, the story follows Ransom through missions to fight off the BioDerm horde and keep control of tribal space.[^ref-1] The offline campaign runs to 11 missions; PlayStation Magazine's reviewer put it at "around 11 different missions" on top of a tutorial mode.[^ref-2][^ref-5][^ref-24] GameSpot noted that "the plot won't matter one bit" once the online battles start, and the Wikipedia series article says Aerial Assault does not significantly contribute to the plot of the wider Tribes series.[^ref-16][^ref-9]
+According to Wikipedia, the player controls J. Ransom, a recently recruited "newblood". After a training segment, the story follows Ransom through missions to fight off the BioDerm horde and keep control of tribal space.[^ref-1] The offline campaign runs to 11 missions; PlayStation Magazine's reviewer put it at "around 11 different missions" on top of a tutorial mode.[^ref-2][^ref-5][^ref-24] GameSpot noted that "the plot won't matter one bit" once the online battles start, and the Wikipedia series article says Aerial Assault does not significantly contribute to the plot of the wider Tribes series.[^ref-16][^ref-9]
 
 ## Gameplay
 
@@ -77,7 +76,7 @@ Reviews were mixed to positive. Metacritic rates the game 73 out of 100, "Mixed 
 
 GameSpot's Ryan Mac Donald rated it 7.2 ("Good"), concluding that "Broadband-enabled PS2 owners will find that Tribes Aerial Assault is a fun, tactics-oriented online first-person shooter with some impressive technical features."[^ref-16] IGN's David Smith also gave it 7.2 and said that the single-player mode was "not enough to justify the purchase price on its own".[^ref-10]
 
-GameZone's Louis Bedigian scored it 8.5 out of 10, and PlayStation: The Official Magazine gave it 8 out of 10.[^ref-22][^ref-1] PlayStation Magazine's Stephen Frost rated it "Very Good", saying playing online was "amazingly fun and addictive".[^ref-24]
+GameZone's Louis Bedigian scored it 8.5 out of 10.[^ref-22] PSM's Stephen Frost rated it "Very Good" (listed by Metacritic as 80 out of 100, or 8 out of 10), saying playing online was "amazingly fun and addictive".[^ref-24][^ref-29] Wikipedia also lists a 3.5 out of 5 from PlayStation: The Official Magazine.[^ref-1]
 
 ### Modern Assessment
 
@@ -97,6 +96,8 @@ Sierra hoped that, as with Halo: Combat Evolved the year before, gameplay popula
 
 ### Production
 
+In a March 2002 interview, producer Chris Mahnken said the game had "over a year of development behind it", that Inevitable had added four exclusive vehicles, and that it did not support the PS2 hard drive. He expected team sizes of four to eight, so "10-16-player games online", with up to 32 players possible "with appropriate bandwidth".[^ref-31]
+
 The Tribes series article describes the result as simplified but significantly swifter than Tribes 2, with fewer maps and vehicles, a subset of the original's voice commands, and network support for up to sixteen players.[^ref-9] Unlike the Xbox, the PlayStation 2 needed an external device to go online, which limited the potential audience. PlayStation online functionality did not reach Europe until June 2003, and Ethernet ports were not added to the PlayStation 2 until 2004.[^ref-1]
 
 **Development Credits:**[^ref-4][^ref-6]
@@ -108,7 +109,7 @@ The Tribes series article describes the result as simplified but significantly s
 
 ### Technical Achievements
 
-It was the first online PlayStation 2 shooter to support both modem and broadband connections.[^ref-1][^ref-17] By September 26, 2002, GameSpot reported the game released and its servers up and running, and that the online modes worked "just fine".[^ref-17]
+GameSpot reported on September 26, 2002 that it was "the first online PlayStation 2 shooter that supports both modem and broadband connections", with the game released and its servers up and running, and that the online modes worked "just fine".[^ref-17]
 
 In July 2003, after launch, Inevitable Entertainment announced PC-based server software built from the original PS2 code base. It logged match data for ladders and tournaments, added a chat menu system missing from the retail version, and supported matches of up to 32 players instead of the normal 16.[^ref-18]
 
@@ -156,7 +157,7 @@ Hi-Rez Studios, the current Tribes rights owner, released Tribes: Aerial Assault
 
 ### Fan Projects
 
-A fan site, tribesaerialassault.com, maintains online play through AADS servers on cloud-based AWS hosting. It reports almost 100% uptime and says it expanded the servers from 16 to 32 players.[^ref-6] The community also says it has made the game playable on PC, Xbox and Steam Deck. In the site's own words, "Community interaction is what made Tribes: Aerial Assault special. The game itself is a wonderful platform but the people made it special."[^ref-6]
+AADS was officially released to the public on May 12, 2004, and version 0.4.1 followed on May 13.[^ref-30] A fan site, tribesaerialassault.com, maintains online play through AADS servers on cloud-based AWS hosting. It reports almost 100% uptime and says it expanded the servers from 16 to 32 players.[^ref-6] The community also says it has made the game playable on PC, Xbox and Steam Deck. In the site's own words, "Community interaction is what made Tribes: Aerial Assault special. The game itself is a wonderful platform but the people made it special."[^ref-6]
 
 ### Critical Perspective
 
@@ -212,3 +213,6 @@ Critics generally saw Aerial Assault as a capable but compromised translation of
 [^ref-26]: [GamePro #170 (November 2002)](https://archive.org/details/game-pro-issue-170-november-2002) – review text: team communication sacrificed to fit 16 players; taunt and cheer only
 [^ref-27]: [GamePro – Tribes: Aerial Assault review (archived 2005)](https://web.archive.org/web/20050206203623/http://www.gamepro.com/sony/ps2/games/reviews/26387.shtml) – dial-up users cannot host games with more than two players
 [^ref-28]: [GamePro #169 (October 2002)](https://archive.org/details/game-pro-issue-169-october-2002) – preview: Sierra's first PS2 online game; up to 16 players; no voice or text chat
+[^ref-29]: [Metacritic – Tribes: Aerial Assault (PS2) critic reviews](https://www.metacritic.com/game/tribes-aerial-assault/critic-reviews/?platform=playstation-2) – PSM Magazine, 80, Nov 2002, p.51
+[^ref-30]: [AADS – Aerial Assault Dedicated Server (archived 2006)](https://web.archive.org/web/20060718063211/http://aads.gamerplug.com/) – "May 12th, 2004 … AADS was officially released to the public"; v0.4.1 posted May 13, 2004
+[^ref-31]: [PSX Extreme – Interview with Chris Mahnken, Producer of Tribes: Aerial Assault (archived 2004)](https://web.archive.org/web/20040222195542/http://www.psxextreme.com/scripts/misc/misc.asp?miscID=49) – over a year of development; 4 exclusive vehicles; no HDD support; 10-16 player games, up to 32 with bandwidth
