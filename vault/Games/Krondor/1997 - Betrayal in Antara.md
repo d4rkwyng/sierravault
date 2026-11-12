@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: William Escobar, Aren Cordelaine, Kaelyn Usher
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a follow-up to the acclaimed 1993 title Betrayal at
   Krondor.
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -73,11 +73,11 @@ Betrayal in Antara received mixed reviews from critics, with many praising the g
 |-------------|-------|-------|
 | GameSpot | 6.6/10 (Fair) | Criticized graphics quality and linearity[^ref-17] |
 | Next Generation (Oct 1997) | 3 stars | "Antara succeeds it in the fashion of Doom II"[^ref-32] |
-| Computer Gaming World (Nov 1997) | Written review (no score) | "a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't"[^ref-35] |
-| MobyGames Critics | 69% average (21 ratings) | Mixed professional reception[^ref-18] |
+| Computer Gaming World (Nov 1997) | 3 of 5 stars | "a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't"[^ref-35] |
+| MobyGames Critics | 69% average (22 ratings, as of 2026-11-12) | Mixed professional reception[^ref-18] |
 | IMDb | 6.9/10 (14 ratings) | User rating[^ref-19] |
 
-Computer Gaming World's Petra Schlunk reviewed the game in issue #160 (November 1997) under the headline "Not Feisty: Betrayal in Antara Tells a Good, Strong Tale, But It's Not Quite Krondor"[^ref-35]. She called it "a strong spiritual descendent" of Betrayal at Krondor, but wrote that "the world is dark and dreary-looking, the characters and their voices are not particularly interesting, the music is uninspired, and the interface feels dated and often counterintuitive," and that it is "a very long game," made longer by slow combat[^ref-35]. She also reported a bug that stops a party from entering chapter 9 if it completed all the chapter 5 side quests, with no patch available at the time of writing, and concluded: "Overall, Antara is a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't."[^ref-35]
+Computer Gaming World's Petra Schlunk reviewed the game in issue #160 (November 1997) under the headline "Not Feisty: Betrayal in Antara Tells a Good, Strong Tale, But It's Not Quite Krondor"[^ref-35]. She called it "a strong spiritual descendent" of Betrayal at Krondor, but wrote that "the world is dark and dreary-looking, the characters and their voices are not particularly interesting, the music is uninspired, and the interface feels dated and often counterintuitive," and that it is "a very long game," made longer by slow combat[^ref-35]. She also reported a bug that stops a party from entering chapter 9 if it completed all the chapter 5 side quests, with no patch available at the time of writing, and concluded: "Overall, Antara is a fair-to-middling role-playing game that lovers of Krondor should enjoy, but others probably won't."[^ref-35] The review opens by noting that Antara is "not the sequel to Krondor", a title Schlunk gave to the upcoming Return to Krondor, then in development with 7th Level[^ref-35]. Its verdict box lists as pros "A fine automap; interesting spell system; numerous side quests; and a long, involved story," and as cons "Lengthy and extremely slow combat; a cumbersome interface, an overly large world, dreary graphics, and uninteresting heroes," and gives the game three stars out of five[^ref-35].
 
 GameSpot's reviewer Desslock noted that "For gamers willing to tolerate substandard graphics and linear gameplay, Betrayal in Antara succeeds in providing an enjoyable role-playing experience"[^ref-17]. However, he criticized the visuals severely, stating the graphics are "frankly, as ugly as an orc" and describing the color palette as "muddy Monet"[^ref-17].
 
@@ -130,7 +130,7 @@ A significant patch (version 1.10) was released to address "the problem some use
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 30, 1997 | Windows | Initial release; PC Gamer reported it shipping on this date[^ref-6] |
+| 1.0 | June 30, 1997 | Windows | Initial release; PC Gamer reported it shipping on this date[^ref-6]; Steam and GOG list July 31, 1997 as the original release date[^ref-33][^ref-34] |
 | 1.10 | 1997 | Windows | Chapter loading fix patch[^ref-24] |
 
 ## Legacy
@@ -198,4 +198,4 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-34]: [Steam - Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."
 [^ref-35]: [Computer Gaming World, issue #160, November 1997 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_160) – Petra Schlunk's review, "Not Feisty: Betrayal in Antara Tells a Good, Strong Tale, But It's Not Quite Krondor"
 [^ref-36]: [Computer Gaming World, issue #172 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_172) – PC Data top 12 best-selling adventure games for 1998, as of July; "Betrayal at Antara", 52,309 copies, $674,058
-[^ref-37]: [MobyGames - Fantasy Pack](https://www.mobygames.com/game/2908/fantasy-pack/) – Sierra compilation (1998, DOS/Windows) listing Betrayal in Antara; read via the MobyGames API
+[^ref-37]: [MobyGames - Fantasy Pack](https://www.mobygames.com/game/2908/fantasy-pack/) – Sierra compilation (1998, DOS/Windows) listing Betrayal in Antara
