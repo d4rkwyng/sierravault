@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack is
   a budget-priced mini-game compilation released by Sierra On-Line in 1992 as part
   of the Crazy Nick''s Software Picks series, collecting three arcade mini-games from
@@ -19,7 +19,7 @@ tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ Sierra had announced the line in InterAction, Summer 1992 (News Notes, pages 14�
 
 The only full review found is a 2011 retrospective, a guest post by mecha-neko on the Super Adventures in Gaming blog, and it was strongly negative[^ref-8]. It concluded: "If the games responded to your controls in a timely manner, they might have been entertaining for a minute or two. As they stand, they're a horrible, horrible mess and a complete waste of time"[^ref-8].
 
-User comments on MyAbandonware are more fond. One commenter called it "An absolute must have for Space Quest fans," and another remembered playing it at a parent's office[^ref-4]. The page shows a 5/5 rating from 4 votes[^ref-4]. CDRomance offers all five Crazy Nick's packs as a single download, with 1,316 downloads for the whole bundle[^ref-3].
+User comments on MyAbandonware are more fond. One commenter called it "An absolute must have for Space Quest fans," and another remembered playing it at a parent's office[^ref-4]. The page shows a 5/5 rating from 4 votes[^ref-4].
 
 **Aggregate Scores:**
 - **MyAbandonware:** 5/5 (4 votes)[^ref-4]
@@ -219,7 +219,6 @@ The pack is a spin-off of the [[Space Quest Series]], built from sequences in th
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v)
-- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) (all five Crazy Nick's packs in one bundle)
 - [Free Game Empire](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack)
 
 ## See Also
@@ -235,7 +234,7 @@ The pack is a spin-off of the [[Space Quest Series]], built from sequences in th
 
 [^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, developer/publisher, release year, perspectives
 [^ref-2]: [MobyGames – Roger Wilco's Spaced Out Game Pack: DOS credits](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/credits/dos/) – 7 people credited; Director Bill Davis
-[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – five-title series list; 1,316 downloads for the whole five-pack bundle. Wayback snapshot: [CDRomance, captured 2026-09-27](https://web.archive.org/web/20260927051251/https://cdromance.org/scummvm/crazy-nicks-software-picks-series/)
+[^ref-3]: [PCGamingWiki – Crazy Nick's Software Picks (series)](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – lists the five series titles, all 1992
 [^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user rating, DOSBox note, download size, user comments
 [^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – InterAction Summer 1992, pages 14–15, News Notes
 [^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine (SCI1.1), availability (retail)
