@@ -4,12 +4,12 @@ type: guide
 topic: "Text Parser Interface"
 engines: ["AGI", "SCI0", "SCI1"]
 years_covered: "1984-1991"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Sierra Parser Commands Guide
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ The exact wording of error messages differs between games, but failures generall
 The word isn't in that game's vocabulary file. Try:
 - Simpler phrasing
 - Different synonyms (games often map several words to the same meaning)[^ext-agispec]
-- Articles such as "the" are ignored by the AGI parser, so adding or removing them rarely matters[^ext-agispec]
+- In AGI games, articles such as "the" are ignored by the parser, so adding or removing them rarely matters[^ext-agispec]. Later parsers could behave differently (see the *Leisure Suit Larry 2* bug above)
 
 **The parser understands, but the action isn't possible**
 Either:
@@ -223,8 +223,8 @@ Like The Black Cauldron before it, [[1987 - Mixed-Up Mother Goose|Mixed-Up Mothe
 ### Tips for Modern Players
 
 1. **Keep notes** on parser vocabulary that works[^ref-agi]
-2. **Save frequently**—Sierra games are unforgiving
-3. **Be patient** with phrasing—try multiple approaches
+2. **Save frequently**—Sierra games are unforgiving. On the 1987 reference card, F5 saves and F7 restores[^ext-kq-refcard]
+3. **Be patient** with phrasing—try multiple approaches. F3 echoes (repeats) the previous command, so a near-miss can be edited instead of retyped[^ext-kq-refcard]
 4. **Read the manual**—essential for copy protection puzzles and spell systems[^ext-kq-omnipedia]
 5. **Use walkthroughs sparingly**—much of the fun is in experimenting with the parser
 
