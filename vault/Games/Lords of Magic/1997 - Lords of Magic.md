@@ -11,7 +11,7 @@ engine: Custom
 protagonist: Faith Lord (player-selected)
 composer: [Keith Zizza]
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Lords of Magic is a 1997 fantasy strategy game by Impressions Games and
   Sierra On-Line that combines turn-based empire building in the land of Urak with real-time
   battles.
@@ -19,7 +19,7 @@ tags: [1990s, lords-of-magic, sierra, strategy]
 ---
 # Lords of Magic
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,6 +29,7 @@ Lords of Magic has eight faiths - Life, Death, Order, Chaos, Fire, Water, Earth,
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-7]
+> **Producer:** Glenn Oliver (per Wikipedia)[^ref-1]
 > **Designer:** Jeff Fiske, Steve Serafino, Gregor Koomey; Creative Director [[Chris Beatrice]][^ref-32]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
 > **Composer:** Keith Zizza[^ref-13][^ref-32]
@@ -82,7 +83,7 @@ Artifacts grant faith- and class-specific bonuses such as extra attack, armor, o
 
 ### Modern Assessment
 
-As of November 2026, 92% of 536 Steam user reviews of the Special Edition are positive[^ref-10], GOG.com users rate it 4.2/5 from 120 reviews[^ref-29], and Metacritic users score the Special Edition 8.2/10 from 15 ratings[^ref-17] and the original 7.9/10 from 7 ratings[^ref-41]. GameRankings aggregated a 76.50% score for the original game[^ref-27], and MobyGames lists a 72% critic average from 28 ratings[^ref-7].
+As of November 2026, 92% of 537 Steam user reviews of the Special Edition are positive[^ref-10], GOG.com users rate it 4.2/5 from 120 reviews[^ref-29], and Metacritic users score the Special Edition 8.2/10 from 15 ratings[^ref-17] and the original 7.9/10 from 7 ratings[^ref-41]. GameRankings aggregated a 76.50% score for the original game[^ref-27], and MobyGames lists a 72% critic average from 28 ratings[^ref-7].
 
 One modern review noted that "Lords of Magic could have been bigger" and praised its combination of "simplified elements from many gaming genres"[^ref-28]. However, technical issues persist, with some users reporting that "GOG made a bit of a mistake with this one. They applied the 3.01 beta patch instead of the stable patch, which causes extremely powerful units to spawn like mad early in the game even on easy mode"[^ref-29].
 
@@ -96,7 +97,7 @@ Lords of Magic was developed by Impressions Games, a studio that "specialized in
 
 The development team included Creative Director Chris Beatrice, designers Jeff Fiske, Gregor Koomey and Steve Serafino, Lead Programmer Mike Gingerich, and a total of 59 credited individuals across 62 roles[^ref-32]. The game featured extensive voice acting, with notable performers including Fran Brill, Ralph Byers, Keith Charles, and Thom Christopher[^ref-8]. The music was composed by Keith Zizza[^ref-13], with Ed Saltzman handling sound and video[^ref-8][^ref-32]; one reviewer wrote that "Keith Zizza did a great job with the music, there is an apropos theme for each of the individual elements. Each track is nicely orchestrated and epic sounding"[^ref-33].
 
-The game was localized for German audiences with a full German voice cast including Peter Engel, Petra Espeloer, and others[^ref-32]. GameSpot found the release unstable[^ref-22], and Sierra issued a series of patches for the original game, up to version 2.0a[^ref-20].
+The game was localized for German audiences with a full German voice cast including Peter Engel, Petra Espeloer, and others[^ref-32]. GameSpot found the release unstable[^ref-22]. Computer Gaming World's Tim Carter wrote that the initial release "crashed so frequently that I eventually resorted to backing up after every move", and that with the version 1.2 patch "the game only crashes about once every 10 turns or so"[^ref-42]. Sierra issued a series of patches for the original game, up to version 2.0a[^ref-20].
 
 ### Technical Achievements
 
@@ -139,10 +140,10 @@ The Special Edition, released in 1998, set out to fix the original's problems; G
 [^ref-2]: [ModDB](https://www.moddb.com/games/lords-of-magic-special-edition/downloads/lords-of-magic-ost) – Game backstory and setting description
 [^ref-3]: [Internet Archive](https://archive.org/details/LordsofMagic_1020) – Demo item description: "blends turn-based adventure and exploration with real-time fisticuffs"
 [^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=573789702) – Faith system details
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/) – Developer; platform Windows; input device Mouse; genre 4X; "combines turn-based exploration and resource management with real-time combat"; multiplayer options (Internet, LAN, modem, null-modem); critic average 72% from 28 ratings (November 2026; attributes read via the MobyGames API, October 2026)
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/) – Developer; platform Windows; input device Mouse; genre 4X; "combines turn-based exploration and resource management with real-time combat"; multiplayer options (Internet, LAN, modem, null-modem); critic average 72% from 28 ratings (November 2026)
 [^ref-8]: [Internet Archive Manual](https://archive.org/stream/Lords_of_Magic_Special_Edition_Manual/Lords_of_Magic_Special_Edition_Manual_djvu.txt) – Credits, opening narrative, zoom levels, LAN "Up to 4 players", install sizes (135 MB Special, 390 MB Full)
 [^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/pc/46090-lords-of-magic/data) – Publisher: Sierra On-Line; US release date 11/30/97
-[^ref-10]: [Steam Store](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/) – Store listing; "92% of the 536 user reviews for this game are positive" (November 2026); Publisher: Rebellion; Release Date: Nov 19, 1997
+[^ref-10]: [Steam Store](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/) – Store listing; "92% of the 537 user reviews for this game are positive" (November 2026); Publisher: Rebellion; Release Date: Nov 19, 1997
 [^ref-11]: [iTechPost](https://www.itechpost.com/articles/113591/20220905/revisiting-lords-magic-special-edition-worth-playing-2020s.htm) – Game objective description
 [^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfMagic) – Easter egg and storyline information
 [^ref-13]: [VGMPF – Lords of Magic (W32)](https://vgmpf.com/Wiki/index.php/Lords_of_Magic_(W32)) – Soundtrack listing credited to Keith Zizza
