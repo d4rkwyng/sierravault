@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Bananas and Jack (coaches)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Alphabet Blocks is an interactive multimedia educational program designed
  to teach young children the letters and sounds of the English alphabet, developed by
  Bright Star Technology and published by Sierra On-Line in its Sierra Discovery Series.
@@ -18,13 +18,13 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Alphabet Blocks is an interactive multimedia educational program designed to teach young children the letters and sounds of the English alphabet. Developed by Bright Star Technology, Inc. and published by Sierra On-Line as part of the Sierra Discovery Series[^ref-1][^ref-13], it was released first for Macintosh on October 16, 1992 and then for Windows 3.1 on May 11, 1993[^ref-19]. Sierra had acquired Bright Star in 1992 and, according to FundingUniverse, "was able to build on Bright Star's HyperAnimation, Talking Tiles, and Alphabet Blocks offerings"[^ref-2].
+Alphabet Blocks is an interactive multimedia educational program designed to teach young children the letters and sounds of the English alphabet. Developed by Bright Star Technology, Inc. and published by Sierra On-Line as part of the Sierra Discovery Series[^ref-1][^ref-13], it was released first for Macintosh on October 16, 1992 and then for Windows 3.1, which MobyGames dates to May 11, 1993[^ref-19]; Sierra's Winter 1992 order form already listed a Windows version at $42.95[^ref-25]. Sierra had acquired Bright Star in 1992 and, according to FundingUniverse, "was able to build on Bright Star's HyperAnimation, Talking Tiles, and Alphabet Blocks offerings"[^ref-2].
 
-The game features two animated coach characters, a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack, who guide children through four learning activities focused on letter names, letter sounds and beginning reading skills[^ref-1][^ref-3]. The box carried a blurb attributed to MacUser magazine: "Even a very young child needs a little or no guidance in it's use..."[^ref-4]. The packaging also used the line "Now any child who can use a mouse can learn to read," and gave a recommended age of 3+[^ref-4].
+The game features two animated coach characters, a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack (the box text in Sierra's InterAction magazine calls them "a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack"[^ref-25]), who guide children through four learning activities focused on letter names, letter sounds and beginning reading skills[^ref-1][^ref-3]. The box carried a blurb attributed to MacUser magazine: "Even a very young child needs a little or no guidance in it's use..."[^ref-4]. The packaging also used the line "Now any child who can use a mouse can learn to read," and gave a recommended age of 3+[^ref-4].
 
 The packaging promoted "Positive reinforcement instruction, with vocal and animated reward sequences" and "State-of-the-art production values, including full-color animation and digitized sound"[^ref-4]. The software was later re-released as part of Bright Star's Talking Tutor series and was followed by a sequel titled "Ready, Set, Read With Bananas and Jack"[^ref-5].
 
@@ -36,7 +36,7 @@ The packaging promoted "Positive reinforcement instruction, with vocal and anima
 > **Platforms:** Macintosh, Windows 3.1[^ref-1]
 > **Release Year:** 1992[^ref-19]
 > **Series:** Sierra Discovery Series, Bananas & Jack series, Talking Tutor series[^ref-5]
-> **Protagonist:** Bananas (monkey) and Jack (jack-in-the-box) as teaching coaches
+> **Protagonist:** Bananas (a chimp, per the box) and Jack (jack-in-the-box) as teaching coaches
 > **Sierra Lineage:** Sierra Subsidiary (Bright Star Technology)
 
 ## Story Summary
@@ -45,7 +45,7 @@ Unlike narrative-driven adventure games, Alphabet Blocks does not feature a trad
 
 The playroom contains "a stack of alphabet blocks, a cuddly monkey, an adorable jack-in-the-box, a bright red toy soldier, a traditional chalkboard, and over 50 animated surprises"[^ref-5]. Each element in the playroom is a toy that responds when clicked: the chalkboard plays the Alphabet Blocks theme song, the ABC block plays the alphabet song, and a stop sign exits the program[^ref-18].
 
-Bananas the monkey and Jack the jack-in-the-box serve as the child's virtual teachers, coaching them through each activity and providing encouragement[^ref-1]. Children advance "through progressively challenging skill levels" as they work through letter recognition and phonics exercises[^ref-5].
+Bananas the chimp (per the box) and Jack the jack-in-the-box serve as the child's virtual teachers, coaching them through each activity and providing encouragement[^ref-1]. Children advance "through progressively challenging skill levels" as they work through letter recognition and phonics exercises[^ref-5].
 
 ## Gameplay
 
@@ -98,6 +98,8 @@ Corum Group, the adviser on the sale, names Alphabet Blocks among Bright Star's 
 
 Alphabet Blocks was invented by Elon Gasper[^ref-1], who founded Bright Star Technology[^ref-16] in the early 1980s[^ref-22]; Wikipedia names Nedra Goedert as his co-founder, citing *Popular Science* (May 1993)[^ref-23]. MobyGames' Sierra company history describes Gasper as the "inventor of HyperAnimation and the principal author of Alphabet Blocks"[^ref-8].
 
+Sierra's InterAction magazine announced the game before release. Its Fall 1992 issue carried a Bright Star profile listing "Products to be released this year: Talking Tiles, Alphabet Blocks", and an article on the title said it was "the first in a series of language arts software that Bright Star and Sierra will be releasing for new readers" and described its phonetic instruction, in which the on-screen tutor shows the mouth movement and makes the letter sound. The issue's order form listed Alphabet Blocks at $42.45[^ref-24].
+
 Sierra On-Line acquired Bright Star Technology in July 1992[^ref-16][^ref-22], "just as the educational software market was becoming the fastest-growing segment of the software industry"[^ref-2]. The game was published under the Sierra Discovery Series label, which MobyGames describes as "a series of educational games released by Sierra On-line in the early 90's"[^ref-13].
 
 ### Production
@@ -149,7 +151,7 @@ The box claimed it was "the only program on the subject to use accurate, synchro
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 2.1 | October 16, 1992 | Macintosh | Initial release[^ref-19] |
-| 2.1 | May 11, 1993 | Windows 16-bit | PC release[^ref-19] |
+| 2.1 | May 11, 1993 (per MobyGames) | Windows 16-bit | PC release[^ref-19]; Sierra's Winter 1992 order form already listed a Windows version at $42.95[^ref-25] |
 | Talking Tutor | Later | Multiple | Re-release in Bright Star's Talking Tutor series[^ref-5] |
 
 ### Technical Issues
@@ -244,7 +246,7 @@ IGDB lists the game as an educational title for Mac (1992) and PC (Microsoft Win
 [^ref-8]: [MobyGames – Sierra Entertainment Company Profile](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Elon Gasper as principal author
 [^ref-9]: [Sierra Help – Alphabet Blocks Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/AlphabetBlocksUpdates.html) – abrave and abcompaq Compaq sound-driver patches
 [^ref-11]: [Sierra Gamers – Alphabet Blocks Downloads](https://www.sierragamers.com/alphabet-blocks/) – fan preservation resources, manual, scans
-[^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers
+[^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers; Amazon lists the item as published September 1, 1994, in its Books category, so the ISBN is a catalogue entry
 [^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context
 [^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - Mac 1992 and Windows 1993 releases, Educational genre, "Reading game for small children"
 [^ref-16]: [MobyGames - Bright Star Technology, Inc.](https://www.mobygames.com/company/809/bright-star-technology-inc/) - founder, July 1992 Sierra acquisition, credited games
@@ -255,3 +257,5 @@ IGDB lists the game as an educational title for Mac (1992) and PC (Microsoft Win
 [^ref-22]: [Corum Group – Sierra On-Line – Bright Star (July 1992)](https://www.corumgroup.com/transactions/sierra-line-bright-star) – adviser's transaction record: Corum advised Bright Star on its sale to Sierra; names Alphabet Blocks among well-known Bright Star titles
 [^ref-23]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – founded by Elon Gasper and Nedra Goedert "during the early 1980s", citing Popular Science, May 1993, p. 43 (tier 4; Goedert credit rests on this alone)
 [^ref-21]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p.89 – Alphabet Blocks](https://archive.org/details/computermuseumguid00mira/page/89/mode/1up) – period review scan: one star, "Best for ages 3-4", Macintosh and Windows on CD-ROM or floppy, about $35
+[^ref-24]: [InterAction Magazine, Vol. V No. 3 (Fall 1992), Sierra On-Line](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – period scan: Bright Star blurb "Products to be released this year: Talking Tiles, Alphabet Blocks"; article on the game and its phonetic instruction; sale list price $42.45
+[^ref-25]: [InterAction Magazine, Vol. V No. 4 (Winter 1992), Sierra On-Line](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – period scan: box text (pp. 52-55) with "a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack"; order form (p. 18) lists Alphabet Blocks at $42.95 under a Windows heading, prices effective 9/1/92-12/31/92
