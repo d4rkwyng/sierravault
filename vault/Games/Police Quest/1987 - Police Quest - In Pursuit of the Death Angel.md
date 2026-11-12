@@ -10,14 +10,14 @@ series: Police Quest
 engine: AGI
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Police Quest: In Pursuit of the Death Angel is a 1987 police procedural
   adventure game by Jim Walls and Sierra On-Line.'
 tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,18 +29,18 @@ What distinguished Police Quest from other Sierra adventures was its meticulous 
 > **Developer:** [[Sierra On-Line]][^ref-15]
 > **Designer:** [[Jim Walls]][^ref-15]
 > **Publisher:** Sierra On-Line[^ref-15]
-> **Platforms:** DOS, Amiga, Apple II, Apple IIGS, Atari ST, Macintosh[^ref-15]
-> **Release Year:** 1987
+> **Engine:** AGI[^ref-43]
+> **Platforms:** DOS, Amiga, Apple II, Apple IIGS, Atari ST, Mac[^ref-15]
+> **Release Year:** 1987[^ref-15]
 > **Series:** Police Quest
-> **Sierra Lineage:** Core Sierra
-> **Engine:** AGI
 > **Protagonist:** Sonny Bonds
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
 The game places players in the role of Sonny Bonds, a patrol officer working the streets of fictional Lytton, California[^ref-27][^ref-42]. The narrative unfolds through realistic police scenarios, beginning with routine patrol duties including traffic stops, drunk driver arrests, and responding to various calls[^ref-15]. As Sonny progresses through his career, he becomes involved in investigating a drug trafficking operation that threatens the community.
 
-The central antagonist is Jessie Bains, a drug lord nicknamed "The Death Angel"[^ref-15][^ref-20], whose criminal network Sonny must dismantle through proper investigative procedures[^ref-21]. The story draws heavily from Jim Walls' real-world police experience, with many incidents based on actual situations he encountered during his time with the California Highway Patrol[^ref-42]. This authentic foundation gives the narrative a grounded realism rarely seen in adventure games of the era.
+The central antagonist is Jessie Bains, a drug lord nicknamed "The Death Angel"[^ref-15][^ref-78], whose criminal network Sonny must dismantle through proper investigative procedures[^ref-21]. The story draws heavily from Jim Walls' real-world police experience, with many incidents based on actual situations he encountered during his time with the California Highway Patrol[^ref-42]. This authentic foundation gives the narrative a grounded realism rarely seen in adventure games of the era.
 
 ## Gameplay
 
@@ -66,7 +66,7 @@ The game's difficulty stems from its strict adherence to real-world police proto
 
 ### Contemporary Reviews
 
-Police Quest received mixed but generally positive reviews from gaming publications, with critics praising its graphics while noting the unusual gameplay approach[^ref-10]. In Computer Gaming World (April 1988), Michael S. Chaut's review "Dusting the Death Angel" called some of the graphic sequences "the most terrific this reviewer has ever seen" and concluded that the game "comes highly recommended"[^ref-68]. The Games Machine (UK, March 1988) scored it 92% overall, writing that "Police Quest is a large adventure with more than one solution and should keep even hardened text-only-adventure-players amused and involved for quite some time"[^ref-1].
+Police Quest received mixed but generally positive reviews from gaming publications, with critics praising its graphics while noting the unusual gameplay approach[^ref-10]. In Computer Gaming World (April 1988), Michael S. Chaut's review "Dusting the Death Angel" called some of the graphic sequences "the most terrific this reviewer has ever seen" and concluded that the game "comes highly recommended"[^ref-68]. The Games Machine (UK, March 1988) scored it 92% overall, writing that "Police Quest is a large adventure with more than one solution and should keep even hardened text-only-adventure-players amused and involved for quite some time"[^ref-1]. For the Atari ST version, ST Action (issue 4, August 1988) described the game as "meant to be a factual account of many true happenings" and found "the game's car-driving sequence is rather tricky to control but my advice is to persevere, it's worth it!"[^ref-78]
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -74,12 +74,18 @@ Police Quest received mixed but generally positive reviews from gaming publicati
 | The Games Machine UK | 92% | Atmosphere 89%, Interaction 93%; "large adventure with more than one solution"[^ref-1] |
 | Macworld | Negative | "Plays like a long version of a routine TV cop show" (Macintosh version 1.50)[^ref-69] |
 | ANTIC Magazine | Positive | "Strong sense of actually becoming the cop on the beat"[^ref-9] |
+| ST Action (issue 4, August 1988) | No score | Atari ST version; "meant to be a factual account of many true happenings"[^ref-78] |
 
 ### Modern Assessment
 
 Modern retrospective reviews have been more critical of the game's rigid structure while acknowledging its historical significance. Alex Bevilacqua gave the 1992 remake 67% in 2022, noting that "Police Quest 1 was reported to have been used as a training tool for police officers, which can explain a lot of the rigidity. Unfortunately this hurts the overall play experience"[^ref-7]. Mark Goninon's 2019 review awarded 6/10, observing that "Contemporary reviews were positive about the game's graphics but were critical of the easy puzzles which revolved around following the police procedures manual"[^ref-10].
 
-The game maintains strong user ratings on various platforms, with IMDb users rating the 1987 version 8.2/10 and the 1992 remake 7.7/10[^ref-26][^ref-28]. MobyGames lists an average critics score of 74%[^ref-21].
+The game maintains strong user ratings on various platforms, with IMDb users rating the 1987 version 8.2/10 and the 1992 remake 7.7/10[^ref-26][^ref-28]. MobyGames lists an average critics score of 74%[^ref-21]. Betty Moffett's Adventure Classic Gaming review, first posted on 15 May 1998, rates the game 4 of 5 (Very Good)[^ref-20].
+
+**Aggregate Scores:**
+- **MobyGames:** Moby Score 7.4 from 111 votes (as of 11 November 2026)[^ref-21]
+- **IMDb:** 8.2/10 user rating for the 1987 version[^ref-26]
+- **Adventure Classic Gaming:** 4 of 5 (Very Good), review by Betty Moffett, 1998[^ref-20]
 
 ## Development
 
@@ -97,7 +103,7 @@ The 1992 remake was produced after Jim Walls left Sierra, with Tammy Dargan and 
 
 ### Technical Achievements
 
-Police Quest was notable as the first game Sierra released on the DOS platform without copy protection, serving "as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported Tandy/PCjr, Hercules, CGA and EGA graphics, with audio for the PC speaker and Tandy/PCjr only[^ref-12], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-12].
+According to DOS Days, Police Quest was the first game Sierra released on the DOS platform without copy protection; the site quotes unnamed insiders at the time saying that "it would serve as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported Tandy/PCjr, Hercules, CGA and EGA graphics, with audio for the PC speaker and Tandy/PCjr only[^ref-12], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-12].
 
 The 1992 remake showcased significant technical improvements, featuring 256-color VGA graphics and a point-and-click interface[^ref-56], built on the SCI1.1 engine[^ref-43]. This version demonstrated Sierra's evolution in adventure game technology while maintaining the core gameplay that made the original distinctive.
 
@@ -109,17 +115,17 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 | 2.0E | 17 Nov 1987 | DOS | Uses AGI interpreter v2.917[^ref-12] |
 | 2.0G | 3 Dec 1987 | DOS | Minor update[^ref-12] |
 | Amiga | 1987 | Amiga | Port to Amiga platform[^ref-21] |
-| Atari ST | Jan 1988 | Atari ST | Port to Atari platform[^ref-21] |
+| Atari ST | Jan 1988 | Atari ST | Port to Atari platform[^ref-21]; reviewed in ST Action, August 1988[^ref-78] |
 | Apple II | Mar 1988 | Apple II | Port to Apple II[^ref-21] |
 | Apple IIGS | Apr 1988 | Apple IIGS | Port to Apple IIGS[^ref-21] |
 | Macintosh | Aug 1988 | Macintosh | Port to Macintosh[^ref-21] |
 | VGA Remake | 1992 | DOS | Complete SCI 1.1 remake[^ref-56] |
 
-## Trivia
+### Easter Eggs and Trivia
 
 - Designer [[Jim Walls]] was a retired California Highway Patrol officer who joined Sierra after a traumatic shooting incident forced him onto administrative leave[^ref-15]
 - The game was apparently used as a training tool by officers at the Allegan City Police Department in Michigan[^ref-10]
-- Police Quest was the first game Sierra released on the DOS platform without copy protection, serving "as a test for future Sierra releases"[^ref-12]
+- According to DOS Days, Police Quest was the first game Sierra released on the DOS platform without copy protection; insiders quoted by the site said at the time that "it would serve as a test for future Sierra releases"[^ref-12]
 - Many incidents in the game are based on real situations Jim Walls encountered during his 15-year law enforcement career[^ref-42]
 - In [[1988 - Police Quest II - The Vengeance|Police Quest II]], Larry Laffer from [[Leisure Suit Larry Series|Leisure Suit Larry]] makes a cameo appearance at the airport, just past the metal detector[^ref-67]
 - In the [[1992 - Police Quest - In Pursuit of the Death Angel VGA|VGA remake]], Sonny's undercover "pimp suit" was renamed a "leisure suit", a nod to Sierra's Leisure Suit Larry[^ref-29]
@@ -134,7 +140,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 
 Police Quest's impact extends far beyond entertainment, with the game reportedly being used as an actual police training tool[^ref-22][^ref-70]. Sierra's house magazine InterAction, in a Winter 1992 article promoting the VGA re-release (credited by Wikipedia to Rich DeBaun[^ref-15]), wrote that the game "has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures"[^ref-70]. Choicest Games reports that it was apparently used by officers at the Allegan City Police Department in Michigan[^ref-10].
 
-As one modern reviewer observed, "Police Quest represents an interesting experiment in changing what adventure games were all about"[^ref-52]. The first four Police Quest games totaled 850,000 sales by late 1995[^ref-15]. The success led to multiple sequels and established a franchise that would continue throughout the 1990s, though later entries moved away from Walls' authentic approach when he left Sierra after Police Quest III[^ref-6][^ref-17].
+As one modern reviewer observed, "Police Quest represents an interesting experiment in changing what adventure games were all about"[^ref-52]. The first four Police Quest games totaled 850,000 sales by late 1995, and according to Sierra, combined sales of the entire Police Quest series (including SWAT) surpassed 1.2 million units by the end of March 1996[^ref-15]. The success led to multiple sequels and established a franchise that would continue throughout the 1990s, though later entries moved away from Walls' authentic approach when he left Sierra after Police Quest III[^ref-6][^ref-17].
 
 ### Collections
 
@@ -145,16 +151,16 @@ The game has been included in several compilations, some of which also carry the
 - **Police Quest: Collection Series** (1997), with all four Police Quest games plus the first SWAT title[^ref-73][^ref-12]. Neither source says which version of Police Quest 1 it holds.
 - **SWAT Career Pack** (2000), with both the original and the VGA remake, the other three Police Quest games and the first two SWAT games[^ref-74]
 - **Police Quest Collection** (Vivendi, 2006), for Windows XP[^ref-75]. MobyGames links it to this entry,[^ref-75] but Sierra's wiki says the game is listed as "Police Quest 1 VGA" in the collection's Windows menu. The wiki adds that owners of the AGI original can copy its files in through a later DOSBox update, which suggests the collection shipped only the remake.[^ref-29]
-- **Police Quest Collection** on GOG.com and Steam, which contains "both the original EGA release and the 1992 VGA remake"[^ref-43][^ref-24][^ref-62]
+- **Police Quest Collection** on GOG.com and Steam, which contains "both the original EGA release and the 1992 VGA remake"[^ref-43][^ref-24][^ref-62]. GOG's changelog dated 20 February 2026 for Police Quest 1, 2, 3, 4 reads: "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support."[^ref-24][^ref-79]
 - **Retro Classics** (Antstream Arcade's streaming collection for Xbox Game Pass), which included Police Quest 1 in its launch line-up on May 21, 2025;[^ref-76] Wikipedia's list of the collection's games gives it as the Amiga version[^ref-77]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection)[^ref-24]
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – run under ScummVM with cloud saves since 20 February 2026[^ref-24][^ref-79]
 - [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/)[^ref-62]
 
-**Download / Preservation**
+**Manuals & Extras**
 - [Internet Archive - Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual)[^ref-8]
 - [Internet Archive - Police Quest 1992 VGA Remake Hint Book](https://archive.org/details/Police_Quest_1_Hint_Book)[^ref-25]
 
@@ -177,13 +183,13 @@ The game has been included in several compilations, some of which also carry the
 [^ref-12]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — First Sierra DOS release without copy protection; version dates, graphics/audio support, manual title
 [^ref-13]: [Easter Egg Archive – Police Quest](https://eeggs.com/items/46877.html) — Hidden secrets documentation
 [^ref-14]: [Easter Eggs – Police Quest Tree](https://eeggs.com/tree/9317.html) — Additional easter eggs
-[^ref-15]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Ken Williams meeting Walls, development history, gameplay/procedure, Jessie Bains, 850,000 series sales by late 1995
+[^ref-15]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Ken Williams meeting Walls, development history, gameplay/procedure, Jessie Bains nicknamed "The Death Angel", 850,000 series sales by late 1995, series sales surpassing 1.2 million by end of March 1996 (per Sierra)
 [^ref-17]: [Adventure Gamer Blog – Police Quest Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Series direction after Walls
 [^ref-18]: [GameFAQs – Police Quest Walkthrough by _BDaly_](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) — Walkthrough covering both the original typed-command game and the 1992 VGA remake
-[^ref-20]: [Adventure Classic Gaming – Police Quest](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) — Review of the VGA remake; Jessie Bains as the Death Angel; Tammy Dargan "real life simulation" quote (source reads "out intention", sic)
-[^ref-21]: [MobyGames – Police Quest 1987](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) — Death Angel antagonist, "rising tide of drugs" core plot; credits list Al Lowe under Programming
+[^ref-20]: [Adventure Classic Gaming – Police Quest](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) — Review of the original and the VGA remake (Betty Moffett, first posted 15 May 1998): Overall 4 of 5 (Very Good); calls Jessie Bains "The Angel of Death"; Tammy Dargan "real life simulation" quote (source reads "out intention", sic)
+[^ref-21]: [MobyGames – Police Quest 1987](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) — Death Angel antagonist, "rising tide of drugs" core plot; credits list Al Lowe under Programming; Moby Score 7.4 from 111 votes (read via the MobyGames API, 11 November 2026)
 [^ref-22]: [Sierra Chest – Police Quest I: In Pursuit of the Death Angel](https://www.sierrachest.com/index.php?a=games&id=20&fld=general) — Authentic realism, used as a police training tool, indoctrination guide with police codes and procedures
-[^ref-24]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — Digital collection availability
+[^ref-24]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — Digital collection availability; changelog (20 February 2026): "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support."
 [^ref-25]: [Internet Archive – Police Quest Hint Book](https://archive.org/details/Police_Quest_1_Hint_Book) — 1992 VGA remake hint book ("© 1992 … Welcome to the new version")
 [^ref-26]: [IMDb – Police Quest: In Pursuit of the Death Angel (1987)](https://www.imdb.com/title/tt0289399/) — 8.2/10 user rating (123 votes, checked 2026-10-12)
 [^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Lytton Police Department
@@ -208,3 +214,5 @@ The game has been included in several compilations, some of which also carry the
 [^ref-75]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) — Windows XP compilation of the first four games, linked to this 1987 entry (read via the MobyGames API)
 [^ref-76]: [IGN – Microsoft Announces Retro Classics With Game Pass](https://www.ign.com/articles/microsoft-announces-retro-classics-with-game-pass-kicks-things-off-with-over-50-activision-games-from-the-80s-and-90s) — Wesley Yin-Poole, May 21, 2025; launch list includes "Police Quest 1"
 [^ref-77]: [Wikipedia – Retro Classics](https://en.wikipedia.org/wiki/Retro_Classics) — games table lists Police Quest: In Pursuit of the Death Angel as the Amiga version, added May 21, 2025
+[^ref-78]: [ST Action #4 (August 1988) – Internet Archive](https://archive.org/details/st-action-4-1988-08) — Atari ST review of Police Quest: "The local press have dubbed the mastermind behind this wave of crime as 'The Death Angel'"; "meant to be a factual account of many true happenings"; car-driving sequence "rather tricky to control"; no score given
+[^ref-79]: [GOG Database – Police Quest release notes](https://www.gogdb.org/product/1207661263/releasenotes) — Changelog (20 February 2026): "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support."
