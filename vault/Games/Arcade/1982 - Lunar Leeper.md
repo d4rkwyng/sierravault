@@ -10,7 +10,7 @@ series: None
 engine: Machine Language
 protagonist: Unnamed spaceship pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Lunar Leeper is a horizontally scrolling arcade shooter written by Chuck
   Bueche for the Apple II and published by Sierra On-Line under its SierraVision label in 1982,
   in which a pilot rescues stranded crewmates from the one-eyed Leepers before descending into a cave to destroy a giant eyeball.'
@@ -18,7 +18,7 @@ tags: [1980s, shooter, sierra]
 ---
 # Lunar Leeper
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ Lunar Leeper received generally positive reviews on release, according to Retro3
 
 *Softline* (January 1983) reviewed the Apple II version and found the game "very addictive, and you'll probably lose hours of sleep over it"[^ref-22].
 
-*Ahoy!* (March 1984) called the VIC-20 cartridge "one of the newer VIC cartridges" and said the game "is best described as original, 'cute,' and hard as hell"[^ref-23]. In April 1984, *Ahoy!*'s Tim Moriarty reviewed the Commodore 64 version, calling personality "the game's strong point" but concluding that "With no graphic or gameplay breakthroughs and a lack of variation or long-range playability (even though there are seven levels), there is less here than meets the eye"[^ref-24]. *Personal Computer Games* gave the title favorable coverage in its first issue in 1983[^ref-2]; that issue's software listing records the game from supplier Sierra Vision for the Apple II at £19.95[^ref-28].
+*Ahoy!* (March 1984) called the VIC-20 cartridge "one of the newer VIC cartridges" and said the game "is best described as original, 'cute,' and hard as hell"[^ref-23]. In April 1984, *Ahoy!*'s Tim Moriarty reviewed the Commodore 64 version, calling personality "the game's strong point" but concluding that "With no graphic or gameplay breakthroughs and a lack of variation or long-range playability (even though there are seven levels), there is less here than meets the eye"[^ref-24]. *Personal Computer Games* gave the title favorable coverage in its first issue in 1983[^ref-28]; that issue's software listing records the game from supplier Sierra Vision for the Apple II at £19.95[^ref-28].
 
 *Personal Computer News* reviewed the Apple II version on 22 April 1983 under the headline "Game for a laugh." Reviewer Nigel Cross wrote: "I so thoroughly enjoyed this game I assumed I was being biased. However, I coerced a couple of non-game players to have a go. Result — addiction"[^ref-26]. The review carries a printed rating in four categories (lasting appeal, playability, use of machine, overall)[^ref-26], which UVList records as 20/20[^ref-11].
 
@@ -90,7 +90,7 @@ User reviews on MyAbandonware have been more charitable, with one player noting:
 Glitchwave users provided a more critical assessment, with the Commodore 64 version holding a weighted average of 2.18/5 from 3 user ratings[^ref-13]. Reviewer Clownboss characterized it as "a Defender clone, somewhat also reminiscent of Choplifter where you have to shoot at ground-based leapers and lead hostages into a safety zone"[^ref-13].
 
 **Aggregate Scores:**
-- **MobyGames:** 7.1/10[^ref-5]
+- **MobyGames:** 7.1/10 (13 votes)[^ref-5]
 - **Lemon64:** 5/10 (Northlander review)[^ref-9]
 - **MyAbandonware:** 4/5 (user rating)[^ref-12]
 - **Glitchwave:** 2.18/5 (3 ratings)[^ref-13]
@@ -100,7 +100,7 @@ Glitchwave users provided a more critical assessment, with the Commodore 64 vers
 
 ### Origins
 
-Lunar Leeper was written by Chuck Bueche, known by his nickname "Chuckles," for the Apple II; Sierra's January 1983 *Softline* advertisement billed *Lunar Leepers* as "a fantastic new APPLE arcade game from CHUCKLES, creator of Laff Pak"[^ref-22]. Bueche, a University of Texas roommate of Richard Garriott, had earlier published *Laf Pak* through On-Line Systems[^ref-21].
+Lunar Leeper was written by Chuck Bueche, known by his nickname "Chuckles," for the Apple II; Sierra's January 1983 *Softline* advertisement billed *Lunar Leepers* as "a fantastic new APPLE arcade game from CHUCKLES, creator of Laff Pak"[^ref-22]. That advertisement priced the game at $29.95 (the same price *Softline*'s review listed for the Apple II disk) and announced it for the Atari 800 (40K disk) as well as the Apple II and II Plus (48K disk)[^ref-22]. Bueche, a University of Texas roommate of Richard Garriott, had earlier published *Laf Pak* through On-Line Systems[^ref-21]. He later co-founded Origin Systems, in 1983[^ref-21].
 
 Sierra's software catalog describes the game as: "Keep up with the fast pace of this colorful game or your comrades are goners! The leepers don't really mean any harm; they're just hungry!"[^ref-29] In autumn 1982 Sierra introduced SierraVision, a brand aimed at action and cartridge-based games, and Lunar Leeper was part of its first batch[^ref-21]. The game "blended elements of Williams Electronics' Defender with its own unique twists"; Retro365 reports that Ken Williams admired *Defender*'s technical ingenuity and saw potential in Bueche's work[^ref-21].
 
@@ -171,11 +171,11 @@ Rassmussen recalled that his optimizations on the VIC-20 version initially made 
 
 ### Sales and Commercial Impact
 
-Specific sales figures are not documented in available sources. Retro365 reports that the VIC-20 version, released when the machine was already obsolete next to the C64, sold "only a small number of copies"[^ref-21]. The game was part of Sierra's SierraVision line[^ref-6], which Retro365 describes as short-lived: amid a market "flooded with arcade conversions and clones," Sierra "struggled to gain a foothold" and abandoned the label[^ref-21].
+Retro365 reports that the VIC-20 version, released when the machine was already obsolete next to the C64, sold "only a small number of copies"[^ref-21]. The game was part of Sierra's SierraVision line[^ref-6], which Retro365 describes as short-lived: amid a market "flooded with arcade conversions and clones," Sierra "struggled to gain a foothold" and abandoned the label[^ref-21].
 
 ### Collections
 
-No major compilation releases including Lunar Leeper have been documented; the original versions remain accessible mainly through abandonware archives and emulation[^ref-12]. Independent developer and publisher CollectorVision later released a ColecoVision cartridge of Lunar Leeper, programmed by Nanochess (product code LLQ-901)[^ref-27]. The sources disagree on the year: CollectorVision's product page lists a 2020 release date[^ref-27], while Retro365 says it was released in 2019[^ref-21].
+The original versions are preserved through Internet Archive collections, abandonware archives and browser emulation[^ref-1][^ref-12][^ref-14]. Independent developer and publisher CollectorVision later released a ColecoVision cartridge of Lunar Leeper, programmed by Nanochess (product code LLQ-901)[^ref-27]. The sources disagree on the year: CollectorVision's product page lists a 2020 release date[^ref-27], while Retro365 says it was released in 2019[^ref-21].
 
 ### Spin-offs and Related Games
 
@@ -185,17 +185,9 @@ The Leeper character reappeared in an educational spin-off title in 1983[^ref-4]
 
 The educational game included randomly generated mazes in its third activity and was similar in structure to Sierra's *Learning with FuzzyWOMP*[^ref-7].
 
-### Fan Projects
-
-No fan projects have been documented. The CollectorVision ColecoVision cartridge (see Collections) is a commercial release by an independent publisher, not a fan project[^ref-27][^ref-21], and the ColecoVision *Learning with Leeper* was a commercial 1983 Sierra release[^ref-4]. Lunar Leeper itself is preserved through Internet Archive collections and browser emulation sites[^ref-1][^ref-14].
-
-### Related Publications
-
-No dedicated hint books or strategy guides for Lunar Leeper have been documented. The game included standard instruction materials with its retail packaging, featuring the memorable poem on the box back cover[^ref-6].
-
 ### Critical Perspective
 
-Lunar Leeper is one of the arcade-action titles Sierra On-Line released in the early 1980s[^ref-15]. Retro365 notes that abandoning SierraVision was "as much a strategic choice as a response to market forces," since the company's strength lay in its "critically acclaimed and commercially successful graphic adventures"[^ref-21].
+Lunar Leeper was one of the arcade-action titles in Sierra On-Line's SierraVision line[^ref-6][^ref-21]. Retro365 notes that abandoning SierraVision was "as much a strategic choice as a response to market forces," since the company's strength lay in its "critically acclaimed and commercially successful graphic adventures"[^ref-21].
 
 Modern user assessments are mixed: Glitchwave reviewer Clownboss called it "a Defender clone"[^ref-13], while a MyAbandonware player found it "HARD!!! and Fun!"[^ref-12]. *Ahoy!* in 1984 likewise credited its personality while finding "less here than meets the eye"[^ref-24]. The Leeper itself later returned as the friendly host of *Learning with Leeper*[^ref-4][^ref-24].
 
@@ -252,17 +244,16 @@ Modern user assessments are mixed: Glitchwave reviewer Clownboss called it "a De
 [^ref-12]: [MyAbandonware – Lunar Leeper](https://www.myabandonware.com/game/lunar-leeper-4ev) – file sizes, user ratings, preservation downloads
 [^ref-13]: [Glitchwave – Lunar Leeper](https://glitchwave.com/game/lunar-leeper/) – 2.18/5 from 3 user ratings, Clownboss review
 [^ref-14]: [C64Online – Lunar Leeper](https://c64online.com/c64-games/lunar-leeper/) – C64 version details, emulation
-[^ref-15]: [Sierra Gamers – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – historical catalog context
 [^ref-16]: [Lemon64 Forums – Dr. Bob Development Account](https://www.lemon64.com/forum/viewtopic.php?t=27753) – Rassmussen's 2008 account of writing the VIC-20 and C64 versions
 [^ref-17]: [Internet Archive – Computist Issue #83](https://archive.org/details/computist-scan-83) – copy protection softkey coverage
 [^ref-18]: [Avid Wiki – Sierra Entertainment](https://www.avid.wiki/Sierra_Entertainment) – C64 logo variation
 [^ref-21]: [Retro365 – Lunar Leeper, the Early Days of Chuck Bueche](https://retro365.blog/2025/12/18/lunar-leeper-the-early-days-of-chuck-bueche/) – SierraVision, release dates, "Lunar Leepers" title, Kevin Hunt and Mark Crowe credits, VIC-20 sales
-[^ref-22]: [Softline, January 1983 (Internet Archive)](https://archive.org/details/Softline_1983_01) – Apple II review "By Chuckles"; "Lunar Leepers" advertisement
+[^ref-22]: [Softline, January 1983 (Internet Archive)](https://archive.org/details/Softline_1983_01) – Apple II review (the "By Chuckles" line is the game's author credit; the review is initialled "AM"); "Lunar Leepers" advertisement with price and Atari 800 availability
 [^ref-23]: [Ahoy! #3, March 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-03) – VIC-20 cartridge coverage
 [^ref-24]: [Ahoy! #4, April 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-04) – Tim Moriarty's Commodore 64 review
 [^ref-25]: [Lunar Leeper C64 Manual (Internet Archive)](https://archive.org/details/Lunar_Leeper_1982_Sierra_Online) – story, controls, refueling, scoring, levels 1–7
 [^ref-26]: [Personal Computer News, 22 April 1983 (Internet Archive)](https://archive.org/details/Personal_Computer_News_1983_04_22.pdf) – Nigel Cross's Apple II review "Game for a laugh" (p. 52): control options, eight levels, verdict
 [^ref-27]: [CollectorVision – Lunar Leeper](https://collectorvision.com/games/lunarleeper.php) – ColecoVision cartridge, programmer Nanochess, product code LLQ-901, release date 2020
-[^ref-28]: [Personal Computer Games, issue 1, 1983 (Internet Archive)](https://archive.org/details/personalcomputergames-magazine-01) – software listing: "GAME: LUNAR LEEPER, SUPPLIER: SIERRA VISION, PRICE: £19.95, MACHINE: APP"
+[^ref-28]: [Personal Computer Games, issue 1, 1983 (Internet Archive)](https://archive.org/details/personalcomputergames-magazine-01) – first-issue coverage and software listing: "GAME: LUNAR LEEPER, SUPPLIER: SIERRA VISION, PRICE: £19.95, MACHINE: APP"
 [^ref-29]: [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog) – official game blurb; announcement of the educational title starring Lunar Leeper and Dusty Dog
 
