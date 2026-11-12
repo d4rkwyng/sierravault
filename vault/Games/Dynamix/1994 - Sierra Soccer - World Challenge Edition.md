@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer game designed and
   programmed by Steven A. Dunn, with additional development by Dynamix and music by Coktel Vision''s
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -118,6 +118,8 @@ The game runs on both the A500 and the A1200, and "A1200 owners get the benefit 
 
 **Average Magazine Rating:** 80% (based on 10 reviews)[^ref-6]
 
+CU Amiga's June 1994 issue added a third coverdisk carrying "a full, playable match" between England and the Republic of Ireland for one or two players, one minute each way, with extra time and then penalties if the match ended level; the magazine called Sierra Soccer "the game so good you'll wonder why they ever spent so much time on adventures".[^ref-20] Its review listing gave the release date as May, on two disks, for up to eight players.[^ref-20]
+
 ### Critical Analysis
 
 **CU Amiga** gave the game 87%. Tony Dillon called it "a very competent and extremely playable arcade soccer game" and "one of the most instantly playable arcade football engines yet seen". He placed it somewhere between *Striker* and *Sensible Soccer*.[^ref-20]
@@ -126,7 +128,7 @@ The game runs on both the A500 and the A1200, and "A1200 owners get the benefit 
 
 **The One Amiga**'s Simon Byron gave it 83%.[^ref-9]
 
-**Amiga Format**'s Stephen Bradley gave 68%, concluding that the game "doesn't break boundaries but in one-player mode it's a decent enough platformer".[^ref-26][^ref-27]
+**Amiga Format**'s Stephen Bradley gave 68%. His verdict reads: "A couple of fatal flaws in the programming detract from an otherwise fast and playable football sim. Sierra Soccer doesn't break boundaries but in one-player mode it's a decent enough platformer." The word "platformer" is the magazine's own.[^ref-26][^ref-27]
 
 **Amiga Power** gave the lowest score, 62%.[^ref-8][^ref-28]
 
@@ -134,7 +136,7 @@ The game runs on both the A500 and the A1200, and "A1200 owners get the benefit 
 
 ### Market Context
 
-*Sierra Soccer* entered a crowded Amiga football market. Amiga Computing named *Sensible Soccer* and *Goal!* as the benchmarks every new football game would be compared against.[^ref-23] CU Amiga argued that the steep learning curves of *Sensible Soccer* and *Kick Off* were what gave those games their staying power, and that *Sierra Soccer* traded that for instant playability.[^ref-20]
+*Sierra Soccer* entered a crowded Amiga football market. Amiga Computing opened its review with "The first World Cup football game out of the starting blocks is Sierra Soccer", and named *Sensible Soccer* and *Goal!* as the benchmarks every new football game would be compared against.[^ref-23] CU Amiga argued that the steep learning curves of *Sensible Soccer* and *Kick Off* were what gave those games their staying power, and that *Sierra Soccer* traded that for instant playability.[^ref-20]
 
 Lemon Amiga records an average magazine rating of 80% from 10 reviews, ranging from 62% (Amiga Power) to 92% (Amiga Concept).[^ref-6] The Lemon Amiga page had been viewed about 19,800 times as of October 2026.[^ref-6]
 
@@ -210,9 +212,9 @@ On the Amiga 1200, the game adds a full 3D crowd.[^ref-4][^ref-20]
 **Multi-Language Support:**
 The game shipped in English, German and French.[^ref-6] French and German translations were credited.[^ref-21]
 
-## Technical Specifications
+### Technical Specifications
 
-### Hardware Requirements
+#### Hardware Requirements
 
 | Specification | Requirement |
 |---------------|-------------|
@@ -245,8 +247,9 @@ The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the l
 
 **Related Sierra Sports Titles:**
 - [[1992 - Front Page Sports Football 92|Front Page Sports]] series (Football, Baseball)
-- Trophy Bass series (Fishing simulation)
-- 3D Ultra Minigolf series
+- [[1995 - Trophy Bass]] (Fishing simulation)
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1981 - Hi-Res Soccer]], an earlier real-time soccer game for the Apple II, published by On-Line Systems, the company that became Sierra On-Line
 
 ### Critical Perspective
 
@@ -259,14 +262,13 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 - ADF disk images available through multiple archives
 - Music preserved and downloadable through ExoticA[^ref-14]
 - Documentation of credits and technical details maintained by community databases
+- A WHDLoad hard-drive install patch by JOTD and StingRay, created 2012-01-20, lets the game run from a hard drive under WHDLoad; it is an install package, not the game itself[^ref-37]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Not available on modern storefronts
-
-## Downloads
 
 **Preservation / Emulation**
 - [MyAbandonware – Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Amiga ADF download[^ref-1]
@@ -302,10 +304,10 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-9]: [Amiga Magazine Rack – The One Amiga review (June 1994)](https://amr.abime.net/review_9395) – Simon Byron reviewer, 83% score, cost £24.99
 [^ref-13]: [Giant Bomb – Sierra Soccer](https://giantbomb.com/wiki/Games/Sierra_Soccer) – Amiga, 1994, developer Dynamix, publisher Sierra
 [^ref-14]: [ExoticA – Sierra Soccer Music](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation, composer Charles Callet
-[^ref-20]: [CU Amiga issue 52 (June 1994), Sierra Soccer review by Tony Dillon – Internet Archive full text](https://archive.org/download/cuamiga-magazine-052/CUAmiga_052_Jun_1994_djvu.txt) – 87%; quotes on playability, controls, animation, set pieces, A1200 crowd
+[^ref-20]: [CU Amiga issue 52 (June 1994), Sierra Soccer review by Tony Dillon – Internet Archive](https://archive.org/details/cuamiga-magazine-052) – 87%; quotes on playability, controls, animation, set pieces, A1200 crowd
 [^ref-21]: [MobyGames – Sierra Soccer: World Challenge Edition Amiga credits](https://www.mobygames.com/game/55121/sierra-soccer-world-challenge-edition/credits/amiga/) – Full credits: Steven A. Dunn, Dynamix intro/animation, Coktel production/music, translators
 [^ref-22]: [Lemon Amiga – Sierra Soccer cheats](https://www.lemonamiga.com/cheat/sierra-soccer-world-challenge-edition/2761) – Penalty-stopping wall and bouncy blue field cheats
-[^ref-23]: [Amiga Computing issue 75 (July 1994), Sierra Soccer review – Internet Archive full text](https://archive.org/download/amiga-computing-magazine-075/AmigaComputing_075_Jul_1994_djvu.txt) – 24 teams, referee cards/physio, "damn fine game", two-player mode praise
+[^ref-23]: [Amiga Computing issue 75 (July 1994), Sierra Soccer review – Internet Archive](https://archive.org/details/amiga-computing-magazine-075) – 24 teams, referee cards/physio, "damn fine game", two-player mode praise
 [^ref-24]: [Steven Dunn – personal CV](http://www.stevendunn.com/) – 1993-1994 Sierra Soccer entry: designed and programmed to his own spec, all coding including FMV, music and some graphics provided by Dynamix
 [^ref-25]: [Hall of Light – Sierra Soccer: World Challenge Edition (Wayback, April 2008)](https://web.archive.org/web/20080416222149/http://hol.abime.net/1922) – Developer Dynamix, publisher Sierra, 2 disks, 8 players (2 simultaneous), English/French/German, ECS/OCS, coders Mark and Steven Dunn, artists Steven Dunn and Thomas Van Velkinburgh, music Charles Callet
 [^ref-26]: [Amiga Reviews – Sierra Soccer](https://amigareviews.leveluphost.com/sierraso.htm) – Transcribed reviews: Amiga Format 68% (Bradley, "decent enough platformer", £24.99), Amiga Joker (German text and manual), Amiga Computing (Maddock, Gold Award image)
@@ -319,3 +321,4 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-34]: [Amiga Magazine Rack – Amiga Computing 75 review](https://amr.abime.net/review_8406) – 80%, pp.118-119, £24.99
 [^ref-35]: [Amiga Magazine Rack – Amiga Power 36 preview](https://amr.abime.net/review_19824) – In-depth preview, April 1994, Steve McGill, p.18
 [^ref-36]: [GameFAQs – Sierra Soccer: World Challenge Edition release data](https://gamefaqs.gamespot.com/amiga/997978-sierra-soccer-world-challenge-edition/data) – Developer Dynamix, publisher Sierra On-Line, Europe, 1994, Sports > Team > Soccer > Sim
+[^ref-37]: [WHDLoad – Sierra Soccer (Dynamix) install](https://www.whdload.de/games/SierraSoccer.html) – Install package created 2012-01-20, authors JOTD & StingRay; applies to Sierra Soccer: World Challenge Edition (c) 1994 Dynamix; full load from HD, protection removed
