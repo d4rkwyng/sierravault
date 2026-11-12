@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Sierra was independent until 1996. In February 1996 it agreed to be acquired by 
 
 On February 22, 1999 ("Chainsaw Monday"), Sierra closed its Oakhurst office.[^ref-22] Sierra was formally disestablished as a company and re-formed as a division in August 2004. The division continued through Vivendi Games' merger with Activision on July 9, 2008,[^ref-23] but was shut down later that year. Activision revived the Sierra brand in 2014.[^ref-1]
 
-Sierra's headquarters moved from Oakhurst to the West Lake Hills neighborhood of Bellevue, Washington, beginning in August 1993 and continuing into 1994.[^ref-30] Under Vivendi, Dynamix was closed in August 2001, with 148 layoffs at the Bellevue headquarters.[^ref-1] Sierra's last owned studios, [[Impressions Games|Impressions Games]] and [[Papyrus Design Group|Papyrus Design Group]], were shut down in early 2004, and by June 2004 Vivendi had completely shut down Sierra's Bellevue location.[^ref-1]
+Sierra's headquarters moved from Oakhurst to the West Lake Hills neighborhood of Bellevue, Washington, beginning in August 1993 and continuing into 1994.[^ref-30] A September 1999 restructuring of Sierra On-Line ended Dynamix as a brand and a separate business entity.[^ref-35] Under Vivendi, Dynamix was closed in August 2001, with 148 layoffs at the Bellevue headquarters.[^ref-1] Sierra's last owned studios, [[Impressions Games|Impressions Games]] and [[Papyrus Design Group|Papyrus Design Group]], were shut down in early 2004, and by June 2004 Vivendi had completely shut down Sierra's Bellevue location.[^ref-1]
 
 ## Sub-Labels and Divisions
 
@@ -49,7 +49,7 @@ Gale's company history describes four brands instead: Sierra Attractions, Sierra
 
 ## Acquired Studios
 
-- **[[Developers/Dynamix|Dynamix]]** (acquired 1990) - Flight simulations, action and adventure[^ref-16]
+- **[[Developers/Dynamix|Dynamix]]** (Sierra announced its intent to acquire Dynamix on March 27, 1990;[^ref-34] acquired 1990) - Flight simulations, action and adventure[^ref-16]
 - **[[Bright Star Technology|Bright Star Technology]]** (acquired July 6, 1992 for $1,000,000 plus $87,000 in transaction costs; former shareholders and key executives could also earn up to $2,500,000 in cash or up to 400,000 shares of Sierra stock over five years, based on revenue goals) - Educational software[^ref-16][^ref-1][^ref-28]
 - **[[Coktel Vision|Coktel Vision]]** (acquired October 29, 1993 for an initial price of about $5,332,000; in December 1995 Sierra issued 150,000 shares to end the former shareholders' rights to further incentive payments) - French adventure and educational games[^ref-16][^ref-29]
 - **[[Impressions Games|Impressions Games]]** (acquired 1995; Sierra merged with its parent, Software Inspiration Ltd., on June 20, 1995 in exchange for 730,352 shares) - Strategy and city-building games[^ref-16][^ref-29]
@@ -71,7 +71,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 
 #### Adventures
 - **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Mission Asteroid]] — Notes: Hi-Res Adventure #0
-- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] — Notes: First graphic adventure
+- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] — Notes: First graphic adventure[^ref-1]
 - **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]] — Notes: Hi-Res Adventure #2
 - **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Cranston Manor]] — Notes: Hi-Res Adventure #3
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Ulysses and the Golden Fleece]] — Notes: Hi-Res Adventure #4
@@ -246,7 +246,6 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Notes: Online FPS
 - **1999** — [[1999 - Starsiege|Starsiege]] — Notes: Mech sim
 - **2001** — [[2001 - Tribes 2|Tribes 2]] — Notes: FPS sequel
-- **2002** — [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]] — Notes: PS2
 
 #### The Incredible Machine Series
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Notes: Puzzle classic
@@ -440,6 +439,7 @@ Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were publi
 #### Action Games
 - **2000** — [[2000 - Ground Control|Ground Control]] — Notes: Massive RTS
 - **2002** — [[2002 - No One Lives Forever 2|No One Lives Forever 2]] — Notes: Sequel
+- **2002** — [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]] — Notes: PS2 port of Tribes 2, developed by Inevitable Entertainment[^ref-36]
 - **2003** — [[2003 - Contract J.A.C.K.|Contract J.A.C.K.]] — Notes: NOLF spin-off
 - **2004** — [[2004 - Ground Control II - Operation Exodus|Ground Control II]] — Notes: RTS sequel
 - **2004** — [[2004 - Tribes - Vengeance|Tribes: Vengeance]] — Notes: Irrational FPS
@@ -457,10 +457,10 @@ Sierra published or distributed these games from outside developers:
 
 | Year | Game | Developer | Notes |
 |------|------|-----------|-------|
-| 1997 | Diablo: Hellfire | Synergistic | Expansion; Synergistic was a Sierra division, and Sierra published it on November 24, 1997[^ref-1] |
+| 1997 | [[1997 - Diablo - Hellfire|Diablo: Hellfire]] | Synergistic | Expansion; Synergistic was a Sierra division, and Sierra published it on November 24, 1997[^ref-1] |
 | 1997-2000 | You Don't Know Jack series | Jellyvision | Trivia games; Berkeley Systems, under Sierra from 1997[^ref-20][^ref-1] |
-| 1988 | Silpheed | Game Arts | Japanese shooter |
-| 1990 | Zeliard | Game Arts | Action RPG |
+| 1988 | [[1988 - Silpheed|Silpheed]] | Game Arts | Japanese shooter; the Japanese original came out on the PC-8801 on December 5, 1986, and Sierra's North American versions followed in 1988-1989[^ref-37] |
+| 1990 | [[1990 - Zeliard|Zeliard]] | Game Arts | Action RPG; the Japanese original came out on the PC-88 on December 19, 1987, and Sierra's MS-DOS release followed in 1990[^ref-38] |
 | 1990 | Sorcerian | Nihon Falcom | RPG |
 | 1999 | Viper Racing | Monster Games | Racing |
 | 2001 | Throne of Darkness | Click Entertainment | Action RPG |
@@ -507,3 +507,8 @@ After the 1998 reorganization, many releases carried sub-labels such as Sierra S
 [^ref-31]: [ROM Magazine, Issue 9 - Interview with Chuckles (Charles Bueche)](https://www.atarimagazines.com/rom/issue9/interview.php) - Bueche, known for Jawbreaker II and Atari conversions; his first Atari conversion was "Jawbreaker II for Sierra-Online"
 [^ref-32]: [HistoryLink - Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) - First Oakhurst office December 1, 1980; name changed from On-Line Systems to Sierra On-Line when the new Victoria Lane headquarters (opening 1983) was planned in 1982; acquisition "completed on July 26, 1996"
 [^ref-33]: [CUC International Form S-4 with Sierra proxy statement (SEC EDGAR, Wayback)](https://web.archive.org/web/20180903215537/https://www.sec.gov/Archives/edgar/data/723612/0000950112-96-002113.txt) - Filed June 21, 1996: special meeting of Sierra shareholders "on Wednesday, July 24, 1996"
+[^ref-34]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990), p. 43 (archive.org scan)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990/page/n38/mode/1up) - Marti McKenna: "On March 27, 1990, Sierra announced intent to acquire a small but exceptionally innovative software company — Dynamix, Inc."
+[^ref-35]: [MobyGames - Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) - "A restructuring of Sierra On-Line in September 1999 resulted in the end of Dynamix as a brand and a separate business entity"
+[^ref-36]: [Wikipedia - Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) - Released for PlayStation 2 in 2002 by Sierra Entertainment; "developed by Inevitable Entertainment" as a port of Tribes 2
+[^ref-37]: [Wikipedia - Silpheed](https://en.wikipedia.org/wiki/Silpheed) - PC-88 release December 5, 1986; Sierra On-Line North American releases 1988 (Apple IIGS, CoCo) and 1989 (MS-DOS)
+[^ref-38]: [Wikipedia - Zeliard](https://en.wikipedia.org/wiki/Zeliard) - PC-88 release December 19, 1987 (Game Arts); Sierra On-Line MS-DOS release for North America and Europe in 1990
