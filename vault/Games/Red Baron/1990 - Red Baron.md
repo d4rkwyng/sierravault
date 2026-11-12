@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Cayanie Music]
 description: Red Baron is a World War I flight combat simulation developed by Dynamix
   and published by Sierra On-Line in 1990, in which players fly for the Royal Flying
@@ -20,7 +20,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,9 +34,10 @@ The game featured 28 different aircraft and offered both single missions and a f
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Damon Slye]][^ref-4]
 > **Publisher:** [[Sierra On-Line]][^ref-13]
+> **Other Publishers:** U.S. Gold Ltd., Wydawnictwo ProScript[^ref-35]
 > **Engine:** 3-Space (Dynamix); designer Damon Slye names Red Baron among its games[^ref-31]; flight model programmed by Damon Slye[^ref-13]
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-13]
-> **Release Year:** 1990
+> **Release Year:** 1990[^ref-13][^ref-4]
 > **Series:** Red Baron
 > **Protagonist:** Player-created WWI pilot
 > **Sierra Lineage:** Sierra Label (Dynamix)
@@ -117,7 +118,7 @@ The campaign system earned particular praise for its execution. As one MobyGames
 
 ### Origins
 
-Red Baron emerged from Dynamix, the studio Jeff Tunnell and Damon Slye founded in Eugene, Oregon in 1984.[^ref-21] [[Damon Slye]] created the game at Dynamix. He later said "we weren't just building a flight simulator, but we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-32] In another interview Slye said: "We had built interactive history, a time-machine that allowed people to experience WWI air combat in a way that a history book or video could not."[^ref-44] Sierra On-Line acquired Dynamix while Red Baron was being developed, and it became the first game in Dynamix's "Great Warplanes Series" that Sierra published.[^ref-4]
+Red Baron emerged from Dynamix, the studio Jeff Tunnell and Damon Slye founded in Eugene, Oregon in 1984.[^ref-21] [[Damon Slye]] created the game at Dynamix. He later said "we weren't just building a flight simulator, but we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-32] In another interview Slye said: "We had built interactive history, a time-machine that allowed people to experience WWI air combat in a way that a history book or video could not."[^ref-44] Sierra On-Line acquired Dynamix while Red Baron was being developed, and it became the first game in Dynamix's "Great Warplanes Series" that Sierra published.[^ref-4] Slye recalled in 1994: "We were probably six months from completion when the deal went through, so Red Baron went out through the Sierra deal... There wasn't a lot of impact. The biggest thing was they had more capital."[^ref-45][^ref-4]
 
 Rather than stringing together contrived set-pieces, Slye and his Oregon-based team opted for a career mode that was "far more low-key, far more historical."[^ref-8] The game was the first installment in Dynamix's "Great War Planes" brand.[^ref-1]
 
@@ -132,11 +133,16 @@ The game supported multiple graphics modes to accommodate the hardware diversity
 - **Lead Programmer:** Paul Bowman
 - **Shell Programming:** David McClurg
 - **Additional Simulation Programming and Mission Recorder:** Lincoln Hutton
+- **Technical Assistance:** Piotr Lukaszuk
 - **Historical Missions:** Nels Bruckner
 - **Art Director:** Mark Peasley
+- **3D Graphic Artist:** Cyrus Kanga
+- **Casting and Costuming:** Sher Alltucker
+- **Director of Image Production:** [[Randy Dersham]]
 - **Audio Director:** Alan McKean
 - **Sound Effects and Music Editing:** Christopher Stevens
 - **Music Score:** Cayanie Music
+- **Executive Producer:** [[Jeff Tunnell]][^ref-46]
 
 A multiplayer version was available on The Sierra Network, where two to four pilots competed in games lasting ten minutes or three deaths.[^ref-4]
 
@@ -234,7 +240,7 @@ Mad Otter Games also offered a $1,500 reward for the delivery of the original C/
 
 Red Baron arrived during a period of competition with MicroProse's Knights of the Sky, another World War I flight simulation.[^ref-4] Its success helped establish Dynamix as a flight simulator developer: by 1994 Slye agreed with a Computer Gaming World statement that "Now when someone hears 'Dynamix' they immediately think 'flight simulator'."[^ref-21][^ref-33]
 
-Sierra considered it the first in its Aces line of simulations, whose combined sales passed one million units by the end of March 1996.[^ref-4]
+Sierra considered it the first in its Aces line of simulations; according to the company, combined sales of Red Baron and the related Aces titles passed one million units by the end of March 1996.[^ref-4]
 
 ## Downloads
 
@@ -296,6 +302,8 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 [^ref-39]: [Computer Gaming World #89 (December 1991), p. 128 – wargame survey](https://archive.org/details/Computer_Gaming_World_Issue_89/page/n127/mode/1up) – Red Baron, five stars: "The best World War 1 air simulator ever done."
 [^ref-40]: [Computer Gaming World #106 (May 1993), p. 141 – Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_106/page/n140/mode/1up) – "The Newest Member to the CGW Hall of Fame": Red Baron
 [^ref-41]: [Computer Gaming World #148 (November 1996), p. 64 – "150 Best Games of All Time"](https://archive.org/details/Computer_Gaming_World_Issue_148/page/n67/mode/1up) – #4 Red Baron (Sierra, 1990): "there is little question that Red Baron is the better game"
-[^ref-42]: [Dragon Magazine #188 (December 1992), p. 61 – "The Role of Computers" by Hartley, Patricia and Kirk Lesser](https://archive.org/details/dragon-magazine) – Red Baron (Dynamix, Macintosh), rated five stars
+[^ref-42]: [Dragon Magazine #188 (December 1992), p. 61 – "The Role of Computers" by Hartley, Patricia and Kirk Lesser](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23188%5Bocr%5D_djvu.txt) – Red Baron (Dynamix, Macintosh), rated five stars (*****)
 [^ref-43]: [GOG – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – store page release date 2009-10-08, DRM-free
 [^ref-44]: [American McGee's Blog – American Interview: Damon Slye](https://www.americanmcgee.com/?p=1634) – Slye: "We had built interactive history, a time-machine that allowed people to experience WWI air combat in a way that a history book or video could not."
+[^ref-45]: [Computer Gaming World #118 (May 1994), p. 73 – "Ace Over The PC: Dynamix's Damon Slye Speaks", interview by Tom "KC" Basham](https://archive.org/details/Computer_Gaming_World_Issue_118/page/n72/mode/1up) – DS on Dynamix joining Sierra: "We were probably six months from completion when the deal went through, so Red Baron went out through the Sierra deal."
+[^ref-46]: [MobyGames – Red Baron credits (Wayback 2024-11-30)](https://web.archive.org/web/20241130134350/https://www.mobygames.com/game/1766/red-baron/credits/dos/?autoplatform=true) – Executive Producer: Jeffrey Tunnell
