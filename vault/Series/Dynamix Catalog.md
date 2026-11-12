@@ -7,12 +7,12 @@ first_release: 1985
 last_release: 2001
 total_games: 112
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -251,15 +251,15 @@ Several Dynamix veterans, Tunnell among them, stayed in Eugene and founded Garag
 [^ref-26]: [MobyGames — The Incredible Machine (2011)](https://www.mobygames.com/game/54831/the-incredible-machine/) — iPad/iPhone 2011; developed by Playdom, published by Disney Mobile. Tunnell detail: [TouchArcade, July 5, 2011](https://toucharcade.com/2011/07/05/the-incredible-machine-gets-a-heavy-dose-of-retro/) — puzzles "designed, in part, by Jeff Tunnel"; "Tunnel joined up with Playdom in 2010"
 [^ref-27]: [Retro Invaders — Unsung (and Mostly Forgotten) Heroes: Dynamix, Inc.](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) — pre-Sierra titles "published by Penguin Software, Activision, Electronic Arts, Sega, Data East and Accolade"; "one of their largest development teams"
 [^ref-28]: [Game Developer — Interview: Slye and the Dynamix of Game Development](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Slye: "half the company stayed focused on simulations and 3D games"; left after Aces Over Europe "in 1993 or 1994"
-[^ref-29]: [MobyGames — Sword of Kadash](https://www.mobygames.com/game/70210/) — read via the MobyGames API: Apple II 1985, Commodore 64 1985; developed by Dynamix, published by Penguin Software
-[^ref-30]: [MobyGames — F-14 Tomcat](https://www.mobygames.com/game/59771/) — read via the MobyGames API: Commodore 64, 1989-02; developed by Dynamix, published by Activision
-[^ref-31]: [MobyGames — Stellar-Fire](https://www.mobygames.com/game/27337/) — read via the MobyGames API: SEGA CD 1993; published by Dynamix, developed by Infinite Laser Dog
-[^ref-32]: [MobyGames — The Incredible Machine](https://www.mobygames.com/game/2473/) — read via the MobyGames API: DOS 1992; "Developed by Dynamix, Inc.", published by Sierra On-Line
-[^ref-33]: [MobyGames — Pete Rose Pennant Fever](https://www.mobygames.com/game/4375/) — read via the MobyGames API: DOS 1988-10; developed by Dynamix, published by Gamestar
-[^ref-34]: [MobyGames — Motocross](https://www.mobygames.com/game/1915/) — read via the MobyGames API: DOS 1989-06; developed by Dynamix, published by Gamestar
-[^ref-35]: [MobyGames — Championship Baseball](https://www.mobygames.com/game/1901/) — read via the MobyGames API: Atari ST 1987, Amiga 1988; developed by Gamestar, ported by Dynamix, published by Activision
-[^ref-36]: [MobyGames — GBA Championship Basketball: Two-on-Two](https://www.mobygames.com/game/9031/) — read via the MobyGames API: Amiga and Atari ST 1986-10; developed by Gamestar, ported by Dynamix, published by Activision
-[^ref-37]: [MobyGames — The Train: Escape to Normandy](https://www.mobygames.com/game/2276/) — read via the MobyGames API: DOS 1988; developed by Artech, ported by Dynamix, published by Accolade
+[^ref-29]: [MobyGames — Sword of Kadash](https://www.mobygames.com/game/70210/) — Apple II 1985, Commodore 64 1985; developed by Dynamix, published by Penguin Software
+[^ref-30]: [MobyGames — F-14 Tomcat](https://www.mobygames.com/game/59771/) — Commodore 64, 1989-02; developed by Dynamix, published by Activision
+[^ref-31]: [MobyGames — Stellar-Fire](https://www.mobygames.com/game/27337/) — SEGA CD 1993; published by Dynamix, developed by Infinite Laser Dog
+[^ref-32]: [MobyGames — The Incredible Machine](https://www.mobygames.com/game/2473/) — DOS 1992; "Developed by Dynamix, Inc.", published by Sierra On-Line
+[^ref-33]: [MobyGames — Pete Rose Pennant Fever](https://www.mobygames.com/game/4375/) — DOS 1988-10; developed by Dynamix, published by Gamestar
+[^ref-34]: [MobyGames — Motocross](https://www.mobygames.com/game/1915/) — DOS 1989-06; developed by Dynamix, published by Gamestar
+[^ref-35]: [MobyGames — Championship Baseball](https://www.mobygames.com/game/1901/) — Atari ST 1987, Amiga 1988; developed by Gamestar, ported by Dynamix, published by Activision
+[^ref-36]: [MobyGames — GBA Championship Basketball: Two-on-Two](https://www.mobygames.com/game/9031/) — Amiga and Atari ST 1986-10; developed by Gamestar, ported by Dynamix, published by Activision
+[^ref-37]: [MobyGames — The Train: Escape to Normandy](https://www.mobygames.com/game/2276/) — DOS 1988; developed by Artech, ported by Dynamix, published by Accolade
 [^ref-38]: [GOG — Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — live store page, checked 2026-11-11; developer listed as Dynamix
 [^ref-39]: [GOG — The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) — live store page, checked 2026-11-11; developer listed as Dynamix
 [^ref-40]: [GOG — Heart of China](https://www.gog.com/en/game/heart_of_china) — live store page, checked 2026-11-11; developer listed as Dynamix
