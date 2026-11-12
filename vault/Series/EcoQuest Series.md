@@ -7,18 +7,20 @@ first_release: 1991
 last_release: 1993
 total_games: 2
 genre: "Adventure, Educational"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # EcoQuest Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The EcoQuest series is Sierra's two-game environmental adventure line for young players: [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] (1991) and [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] (1993).[^ref-1][^ref-2][^ref-16] Both star Adam, the son of an ecologist, who befriends the animals living in the places he visits.[^ref-17] The first game is set in the ocean; in the second, Adam and his father go to the Amazon.[^ref-17]
 
-[[Gano Haine]] pitched EcoQuest. Once her idea was accepted, Sierra assigned [[Jane Jensen]] to work with her as co-designer, and Jimmy Maher calls the result "the first computer game in history that was the product of an all-female design team".[^ref-17] Haine alone directed the sequel.[^ref-17][^ref-19] InterAction magazine (Fall 1992) calls her "co-designer of EcoQuest: The Search for Cetus and designer of EcoQuest: The Lost Secret of the Rainforest".[^ref-25]
+[[Gano Haine]] pitched EcoQuest. Once her idea was accepted, Sierra assigned [[Jane Jensen]] to work with her as co-designer, and Jimmy Maher calls the result "the first computer game in history that was the product of an all-female design team".[^ref-17] Haine alone designed and directed the sequel.[^ref-17][^ref-19][^ref-25] InterAction magazine (Fall 1992) calls her "co-designer of EcoQuest: The Search for Cetus and designer of EcoQuest: The Lost Secret of the Rainforest".[^ref-25]
+
+EcoQuest was one of the Discovery Series of educational adventures. Jimmy Maher writes that the Discovery Series ended in 1993, only two years after it began, when Sierra, having just acquired Bright Star Technology, made it the company's official educational division; Sierra's 10-Q gives the acquisition date as July 6, 1992.[^ref-17][^ref-28]
 
 ## Series Timeline
 
@@ -29,7 +31,7 @@ The EcoQuest series is Sierra's two-game environmental adventure line for young 
 
 ## EcoQuest: The Search for Cetus (1991)
 
-Haine drew the idea from a beach she had seen covered with litter and sewage, so the first game was set in the ocean.[^ref-17] It was one of Jensen's first two Sierra projects, alongside *Police Quest III*.[^ref-12][^ref-3] Adam is helping to rehabilitate a dolphin his father has rescued when it begins to talk, and the two set out to find Cetus, the sperm whale king of the undersea kingdom of Eluria.[^ref-4] The game confronts players with human activities such as dumping litter, releasing helium balloons and abandoning fishing gear.[^ref-4] Haine and Jensen worked with the Marine Mammal Center of Sausalito, California, to get the science right, and Sierra donated a portion of the proceeds from each EcoQuest to the Center.[^ref-17][^ref-25]
+Haine drew the idea from a beach she had seen covered with litter and sewage, so the first game was set in the ocean.[^ref-17] Wikipedia credits the original concept to Sierra's Bill Davis, whereas Maher credits Haine's pitch.[^ref-4][^ref-17] The game first shipped on floppy disk in 1991, and a CD-ROM version with full speech followed in 1992.[^ref-4] It was one of Jensen's first two Sierra projects, alongside *Police Quest III*.[^ref-12][^ref-3] Adam is helping to rehabilitate a dolphin his father has rescued when it begins to talk, and the two set out to find Cetus, the sperm whale king of the undersea kingdom of Eluria.[^ref-4] The game confronts players with human activities such as dumping litter, releasing helium balloons and abandoning fishing gear.[^ref-4] Haine and Jensen worked with the Marine Mammal Center of Sausalito, California, to get the science right, and Sierra donated a portion of the proceeds from each EcoQuest to the Center.[^ref-17][^ref-25]
 
 The game added a recycling symbol to Sierra's command icons, giving bonus points for removing litter from the sea.[^ref-4]
 
@@ -56,7 +58,8 @@ ScummVM's compatibility chart rates both games "Excellent": *EcoQuest: The Searc
 - [[Gano Haine]] — proposer and lead designer of the first game; director of the sequel
 - [[Jane Jensen]] — co-designer of the first game
 - [[Sierra On-Line]] — publisher and developer
-- [[Engine History|Engine History]] — SCI1 and SCI1.1
+- [[Engine History]] — SCI1 and SCI1.1
+- [[Dr. Brain Series]] — another Discovery Series line
 
 ## References
 
@@ -80,3 +83,4 @@ ScummVM's compatibility chart rates both games "Excellent": *EcoQuest: The Searc
 [^ref-25]: [InterAction Magazine, Vol. V No. 3, Fall 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — "Gano Haine, co-designer of EcoQuest: The Search for Cetus and designer of EcoQuest: The Lost Secret of the Rainforest"; "Sierra donates a portion of the proceeds from the sale of each EcoQuest to The Marine Mammal Center"
 [^ref-26]: [ScummVM — Game Compatibility Chart (DEV)](https://www.scummvm.org/compatibility/DEV/) — EcoQuest II: Lost Secret of the Rainforest (sci:ecoquest2) Excellent; EcoQuest: The Search for Cetus (sci:ecoquest) Excellent; read November 11, 2026
 [^ref-27]: [InterAction Magazine, Vol. V No. 4, Winter 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) — National Geographic World feature; "The team interviewed designer Gano Haine"
+[^ref-28]: [Sierra On-Line Form 10-Q, quarter ended June 30, 1995, filed 1995-08-14 (SEC accession 0000891020-95-000357; Wayback)](https://web.archive.org/web/2020/https://www.sec.gov/Archives/edgar/data/724991/0000891020-95-000357.txt) — "On July 6, 1992, the Company acquired Bright Star, a developer and publisher of educational computer software"
