@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game pitched
   by series creator Jane Jensen. It shares its name and Salzburg setting with the free
   short story she published in November 2024.'
@@ -18,11 +18,11 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-9][^ref-13] Rather than a completed video game, Five Hearts exists as both a pitch for a potential fourth installment in the supernatural mystery franchise and as a published short story that Jensen has called "basically like the first chapter of a new Gabriel Knight story".[^ref-2][^ref-18] Jensen has talked about a fourth game since at least 2003, when she told GameSpy that "there was never a GK4 in development", but that its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21] According to Wikipedia, in a 2022 interview she instead described a possible fourth game about witches, set in Scotland (per Wikipedia; the interview video was not transcribed here).[^ref-1] In a 2014 PC Gamer interview, with the Gabriel Knight remake in the works, she said: "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."[^ref-28] In an April 2023 Adventure Game Hotspot interview, before Microsoft's Activision deal had closed, she said: "I have a few different ideas for GK4 that are fleshed out somewhat, yes."[^ref-29]
+Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-9][^ref-13] Rather than a completed video game, Five Hearts exists as both a pitch for a potential fourth installment in the supernatural mystery franchise and as a published short story that Jensen has called "basically like the first chapter of a new Gabriel Knight story".[^ref-2][^ref-18] Jensen has talked about a fourth game since at least 2003, when she told GameSpy that "there was never a GK4 in development", but that its storyline "was going to be about ghosts and probably would have been set in England or Scotland."[^ref-21] In a 2022 interview with Wired she said she would have made a fourth game years earlier "but the rights are with Activision, and they just weren't interested in doing that", adding: "now it's with Microsoft, so it's hopefully a new ballgame".[^ref-30] In the same interview she described a fourth game she had imagined after the third, in which Grace would go off to join another schattenjäger group, leaving Gabriel alone and regretful, followed by a case involving witchcraft, possibly set in Scotland or on the Isle of Mull.[^ref-30][^ref-1] In a 2014 PC Gamer interview, with the Gabriel Knight remake in the works, she said: "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."[^ref-28] In an April 2023 Adventure Game Hotspot interview, before Microsoft's Activision deal had closed, she said: "I have a few different ideas for GK4 that are fleshed out somewhat, yes."[^ref-29]
 
 According to a ResetEra summary of Jensen's December 2025 Matt Chat interview, the pitch was made in cooperation with an indie team from Israel that reached out to Jensen and her husband, composer [[Robert Holmes]].[^ref-4] The Gabriel Knight intellectual property is now owned by Microsoft as part of the Activision Blizzard catalogue.[^ref-20] In a June 2024 interview with Daniel Albu, reported by Time Extension in July 2024, Jensen said she "would like to make it a full game", adding: "Now that the licenses are with Microsoft, I think there's at least a chance of that. Who knows."[^ref-18][^ref-25] By December 2025 she had submitted the idea to Microsoft several times, but the company had so far shown no interest, according to Multiplayer.it's report on the interview.[^ref-4][^ref-20]
 
@@ -144,7 +144,7 @@ Two paths are planned, with Gabriel either ruthless or compassionate toward "the
 
 Gabriel Knight 4 has no sales data as an unreleased project. The series' most recent release was the 20th Anniversary remake of the original game. It was developed by Pinkerton Road Studio and Phoenix Online Studios on a budget of $215,269.50 and released on October 15, 2014.[^ref-7]
 
-### Collections
+### Related Releases
 
 - **Gabriel Knight: Sins of the Fathers 20th Anniversary Edition** (2014): a remake built in Unity by Pinkerton Road Studio and Phoenix Online Studios[^ref-7]
 - **Original Games:** see Downloads below
@@ -177,7 +177,7 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 - "Five Hearts" is available from Robert Holmes's website.[^ref-19]
 
 **Previous Games in Series**
-- [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/game/gabriel_knight_sins_of_the_fathers): the original game
+- [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers): the original game
 - [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/): the 2014 remake
 
 ## See Also
@@ -209,3 +209,4 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 [^ref-27]: [Jane Jensen – "Five Hearts", a Gabriel Knight short story (PDF, hosted on Robert Holmes's site)](https://robertholmesmusic.com/wp-content/uploads/2024/08/gk-five-hearts-short-story-2-2.pdf) – primary text; opens "The woman was cursed… when she arrived at the door of Schloss Ritter"; spells the city "Saltzburg"; the Ichlan Dagger
 [^ref-28]: [PC Gamer – Stefanie Fogel, Gabriel Knight interview: Jane Jensen on the revival of her classic adventure game (September 2, 2014)](https://www.pcgamer.com/gabriel-knight-interview-jane-jensen-on-the-revival-of-her-classic-adventure-game/) – "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."
 [^ref-29]: [Adventure Game Hotspot – An interview with Jane Jensen, legendary designer of the Gabriel Knight trilogy… and beyond? (Jack Allin, April 14, 2023)](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a) – "I have a few different ideas for GK4 that are fleshed out somewhat, yes."; hopes for movement once Microsoft has the Sierra IPs
+[^ref-30]: [WIRED – Alexis Ong, "One of Gaming’s Greatest Writers Is Busy Crafting Romance Novels" (September 14, 2022)](https://www.wired.com/story/jane-jensen-eli-easton-interview/) – Interview with Jensen: "the rights are with Activision, and they just weren't interested in doing that"; "now it's with Microsoft, so it's hopefully a new ballgame"; Grace joining another schattenjäger group; witchcraft case, Scotland or Isle of Mull
