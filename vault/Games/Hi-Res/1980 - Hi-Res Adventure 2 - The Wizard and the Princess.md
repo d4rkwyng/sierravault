@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: The Wanderer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Hi-Res Adventure #2: The Wizard and the Princess is Roberta Williams''
   1980 fairy-tale graphic adventure for the Apple II, On-Line Systems'' first adventure
   with colour graphics and a precursor to King''s Quest.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #2: The Wizard and the Princess
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ This pioneering title served as a precursor to Sierra On-Line's [[King's Quest S
 > **Engine:** ADL[^ref-3]
 > **Platforms:** Apple II, Atari 8-bit, IBM PC, PC-88, PC-98, FM-7, IBM PCjr, Commodore 64[^ref-9][^ref-21]
 > **Release Year:** 1980[^ref-1]
-> **Series:** Hi-Res Adventure #2
+> **Series:** Hi-Res Adventure
 > **Protagonist:** The Wanderer
 > **Sierra Lineage:** Core Sierra
 
@@ -45,7 +45,7 @@ This pioneering title served as a precursor to Sierra On-Line's [[King's Quest S
 
 The game takes place in the land of Serenia, ruled by King George IV[^ref-8]. According to the prologue printed on the back of the Apple II and Atari 8-bit packaging, King George's daughter Princess Priscilla has been abducted by the wizard Harlin and taken to his castle beyond the Great Mountains[^ref-28][^ref-31]. The King has offered half of his kingdom to anyone who can bring the princess back safely[^ref-8][^ref-28][^ref-31]. The player assumes the role of a happy wanderer who answers this challenge, setting out with only a flask of water, a small knife, a loaf of bread and a blanket[^ref-28][^ref-31].
 
-Later releases added a second prologue to the manual. In it, Harlin recounts how the wanderer once overcame his deserts, mountains and oceans and rescued the princess, but boasts that his powers remain intact and that he "can reverse the sands of time with a single spell"[^ref-28]. Taking place long after Harlin's defeat, the new framing has him turn back time so that another adventurer must relive the quest[^ref-26]. Princess Priscilla then appears and offers the player "a computer and a few words of encouragement"[^ref-28]. This manual prologue appeared in the Apple II and Atari 400/800 rereleases, the Commodore 64 version, King's Quest Collection 2 and the Roberta Williams Collection[^ref-28].
+Later releases added a second prologue to the manual. In it, Harlin recounts how the wanderer once overcame his deserts, mountains and oceans and rescued the princess, but boasts that his powers remain intact and that he "can reverse the sands of time with a single spell"[^ref-28]. Taking place long after Harlin's defeat, the new framing has him turn back time so that another adventurer must relive the quest[^ref-28][^ref-26]. Princess Priscilla then appears and offers the player "a computer and a few words of encouragement"[^ref-28]. This manual prologue appeared in the Apple II and Atari 400/800 rereleases, the Commodore 64 version, King's Quest Collection 2 and the Roberta Williams Collection[^ref-28].
 
 ## Gameplay
 
@@ -73,20 +73,27 @@ Most of the roadblocks involve animals or fairy-tale creatures, including gnomes
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
+| Softalk | Positive | "Far surpasses the first"; 250 full-colour illustrations[^ref-32] |
 | The Addison-Wesley Book of Atari Software 1984 | B | "May well set a standard by which future graphic adventure games will be judged"[^ref-18] |
 | Computer Gaming World | Positive | "Best graphics... beautiful fairy tale setting... most challenging"[^ref-16] |
 | Creative Computing | Positive | Praised the Atari version's screens; rated its difficulty alongside Scott Adams' adventures[^ref-17] |
 | Ares Magazine | Positive | "Most amazing, intriguing, fascinating, frustrating and graphically appealing"[^ref-19] |
 | MobyGames | 6.7/10 | Moby Score[^ref-9] |
-| MyAbandonware | 4.29/5 | User rating from 109 votes (October 2026)[^ref-5] |
+| MyAbandonware | 4.28/5 | User rating (checked 11 November 2026)[^ref-5] |
 
 ### Contemporary Assessment
+
+Softalk reviewed the game in its November 1980 issue, calling it On-Line Systems' second offering in its line of adventures illustrated with hi-res pictures and saying it "far surpasses the first but leaves enough yet to be perfected to keep the player thinking, 'Imagine number three!'"[^ref-32] The reviewer credited it with 250 illustrations instead of the first game's 100, all in full colour, with colours not confined to outlines or to the standard hi-res colours, and called the desert "a maze of the first order"; the program allowed up to fifteen saved games under different letters[^ref-32].
 
 Mark Marlow reviewed Mission: Asteroid, Mystery House, and The Wizard and the Princess for Computer Gaming World, declaring that "The Wizard and the Princess has the best graphics and has a beautiful fairy tale setting as its theme. Of the three it was the most challenging and should be attempted only after you are familiar with the gaming system"[^ref-16]. His one reservation, common to adventure games of the type, was "the necessity of limiting commands to just two words"[^ref-16].
 
 Ian Chadwick, reviewing the game for Ares Magazine #11, enthused that "if you're any fan of computer adventures, then this is one of the most amazing, intriguing, fascinating, frustrating and graphically appealing adventures around"[^ref-19].
 
 Creative Computing's review of the Atari version rated its difficulty "right up there with some of Scott Adams's efforts" and said the high-res screens "add a new dimension that is a great deal of fun"[^ref-17]. The Addison-Wesley Book of Atari Software 1984 gave the game an overall B rating, stating that it "may well set a standard by which future graphic adventure games will be judged"[^ref-18].
+
+### Modern Assessment
+
+Writing in 2019, Hardcore Gaming 101's Kurt Kalata called the text parser "not very good", limited to two-word VERB NOUN sentences, and the writing terse, but credited the game with improving on Mystery House's black-and-white graphics by adding colour, which he found quite limited and usually relegated to background objects[^ref-26]. He judged the Commodore 64 version probably the best-looking of the bunch, and described the whole game as "basically one giant maze"[^ref-26]. He wrote that although the game is not technically part of the King's Quest series, it "definitely laid the path for the later games"[^ref-26].
 
 ### Sales Performance
 
@@ -102,19 +109,30 @@ The original On-Line Systems adventure games came in small square folders in zip
 
 ### Technical Achievements
 
-Ken Williams wrote a new, reusable interpreter for adventure games that kept each game's data separate from the engine[^ref-29]; Hackers says it was written in assembly language and that he called it ADL (Adventure Development Language)[^ref-3]. Sources differ on the number of pictures: Hackers says the game held more than 150[^ref-3], while The Addison-Wesley Book of Atari Software 1984 counted "nearly 100 different primary pictures (not counting variations caused by the presence of objects)"[^ref-18]; the original Apple II documentation promised "hundreds of hi-res pictures"[^ref-31]. He also devised routines that let Roberta enter the pictures into the program about as easily as drawing on a tablet[^ref-3][^ref-29]. The Apple II could only display six colours, but Ken used dithering to mix them into 21 apparent colours[^ref-3][^ref-29], which On-Line advertised as "full 21-color!! hi-res graphics"[^ref-25]. Hardcore Gaming 101 notes that the colour is still quite limited and usually confined to background objects, with dithering used to give objects texture[^ref-26].
+Ken Williams wrote a new, reusable interpreter for adventure games that kept each game's data separate from the engine[^ref-29]; Hackers says it was written in assembly language and that he called it ADL (Adventure Development Language)[^ref-3]. Sources differ on the number of pictures: Softalk's November 1980 review counted 250 illustrations[^ref-32], Hackers says the game held more than 150[^ref-3], while The Addison-Wesley Book of Atari Software 1984 counted "nearly 100 different primary pictures (not counting variations caused by the presence of objects)"[^ref-18]; the original Apple II documentation promised "hundreds of hi-res pictures"[^ref-31]. He also devised routines that let Roberta enter the pictures into the program about as easily as drawing on a tablet[^ref-3][^ref-29]. The Apple II could only display six colours, but Ken used dithering to mix them into 21 apparent colours[^ref-3][^ref-29], which On-Line advertised as "full 21-color!! hi-res graphics"[^ref-25]. Hardcore Gaming 101 notes that the colour is still quite limited and usually confined to background objects, with dithering used to give objects texture[^ref-26].
 
 ### Ports and Variations
 
 The 1982 IBM PC booter version, published by IBM and retitled Adventure in Serenia[^ref-9][^ref-6], adds an introduction explaining that the adventurer has been transported to Serenia with the help of a computer[^ref-1]. Sierra's InterAction magazine later claimed it "was the first game that ever appeared on the IBM PC", shipped as one of the PC's first five applications; most PC owners then had monochrome monitors, and CGA owners saw it "in 4 fairly awful colors"[^ref-6]. The PC booter release supports CGA, CGA composite and Tandy/PCjr video modes[^ref-13]. Sierra also developed Adventure in Serenia as a disk package for the IBM PCjr, among the products announced with the machine in November 1983, although it was not on display there[^ref-21].
 
-The Commodore 64 version, released in 1984[^ref-9], drops the dithering and uses solid colours, with more colours on screen and more detailed inventory items, though some artwork became less detailed[^ref-8]. Hardcore Gaming 101 judges it probably the best-looking of the Apple II, Atari, IBM PC and Commodore 64 versions[^ref-26]. The game was also licensed to StarCraft and released in Japan for the PC-88, PC-98 and FM-7, with substantially improved visuals owing to better tools and the higher-resolution displays of Japanese PCs[^ref-26].
+The Commodore 64 version, released in 1984[^ref-9], drops the dithering and uses solid colours, with more colours on screen and more detailed inventory items, though some artwork became less detailed[^ref-8]. Hardcore Gaming 101 judges it probably the best-looking of the Apple II, Atari, IBM PC and Commodore 64 versions[^ref-26]. The game was also licensed to StarCraft and released in Japan for the PC-88, PC-98 and FM-7, with substantially improved visuals owing to better tools and the higher-resolution displays of Japanese PCs[^ref-26]. MobyGames dates the PC-88 and PC-98 releases to May 1983 and the FM-7 release to June 1983[^ref-9].
+
+### Version History
+
+| Platform | Date | Notes |
+|----------|------|-------|
+| Apple II | 1980 | Original release[^ref-9][^ref-25] |
+| Atari 8-bit | 1980 | MobyGames dates it to 1980; Wikipedia gives 1982[^ref-9][^ref-1] |
+| IBM PC (booter) | 1982 | Retitled Adventure in Serenia[^ref-9][^ref-1] |
+| PC-88, PC-98 | May 1983 | Japanese release, licensed to StarCraft[^ref-9][^ref-26] |
+| FM-7 | June 1983 | Japanese release, licensed to StarCraft[^ref-9][^ref-26] |
+| Commodore 64 | 1984 | Solid colours, no dithering[^ref-9][^ref-8] |
 
 ## Legacy
 
 ### Influence on the Industry
 
-Wizard and the Princess is usually regarded as the first adventure game with colour graphics, and it was certainly Sierra's first[^ref-14]. Sierra's InterAction magazine wrote in 1994 that Roberta Williams "still thinks of it as her first real professional adventure game effort"[^ref-6].
+Wizard and the Princess is usually regarded as the first adventure game with colour graphics, while Hardcore Gaming 101 notes that it improved on Mystery House's black-and-white graphics by adding colour[^ref-26]. Sierra's InterAction magazine wrote in 1994 that Roberta Williams "still thinks of it as her first real professional adventure game effort"[^ref-6].
 
 ### Connection to King's Quest
 
@@ -159,11 +177,11 @@ In the rerelease prologue Harlin says he "created deserts and mountains to cross
 [^ref-2]: [Amazon – Inside Electronic Game Design](https://www.amazon.com/dp/1559586699) – Katz, Arnie (March 1, 1995). Inside Electronic Game Design. Prima Pub. p. 23. ISBN 978-1-55958-669-6
 [^ref-3]: [Amazon – Hackers](https://www.amazon.com/dp/1449388396) – Levy, Steven (1984). Hackers: Heroes of the Computer Revolution, ch. 14 "The Wizard and the Princess" – ADL, 150+ pictures, dithering to 21 colours, snake/scorpion hint, over 60,000 copies at $32.95
 [^ref-4]: [Computer Gaming World Vol. 2 No. 5 (PDF)](https://www.cgwmuseum.org/galleries/issues/cgw_2.5.pdf) – "Inside the Industry" (September–October 1982) – List of Top Sellers as of 30 June 1982
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-2-the-wizard-and-the-princess-2) – User rating (4.29/5, 109 votes, checked 28 October 2026; the figure changes over time)
+[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-2-the-wizard-and-the-princess-2) – User rating (4.28/5, checked 11 November 2026; the figure changes over time)
 [^ref-6]: [Internet Archive – InterAction Magazine, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra On-Line, InterAction Vol. VII No. 1 – "Wizard And The Princess – THEN": IBM PC release, "prequel" to King's Quest I, Serenia in KQ5
 [^ref-7]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) – Roberta Williams interview on fairy tale inspiration
 [^ref-8]: [King's Quest Wiki – Wizard and the Princess](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Background, King George IV, C64 version differences, shared puzzles with King's Quest, King's Quest Companion and King's Questions references
-[^ref-9]: [MobyGames](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) – Platforms, release dates, publishers (incl. IBM) and Moby Score
+[^ref-9]: [MobyGames](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) – Platforms, release dates (incl. PC-88/PC-98 May 1983, FM-7 June 1983), publishers (incl. IBM) and Moby Score; read via the MobyGames API
 [^ref-11]: [PixelatedArcade](https://pixelatedarcade.com/games/hi-res-adventure-2-the-wizard-and-the-princess) – Split-screen layout, interface and save-to-disk
 [^ref-13]: [MobyGames Technical Specs](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/specs/pc-booter/) – PC booter video modes
 [^ref-14]: [Lysator Archive](https://www.lysator.liu.se/adventure/Sierra_On-Line,_Inc.html) – "Usually regarded as the first adventure game with color graphics"; ziploc-bag packaging
@@ -181,4 +199,4 @@ In the rerelease prologue Harlin says he "created deserts and mountains to cross
 [^ref-29]: [The Digital Antiquarian – The Wizard and the Princess, Part 1](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-1/) – Maher, Jimmy (October 20, 2011) – Reusable interpreter, tablet drawing program, On-Line's 6-to-21-colour dithering claim
 [^ref-30]: [The Digital Antiquarian – The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) – Maher, Jimmy (October 21, 2011) – Single safe rock and scorpion, Softalk chart, "over 60,000 copies"
 [^ref-31]: [Internet Archive – Apple Manual: The Wizard And The Princess – Hi-Res Adventure 2](https://archive.org/details/The_Wizard_And_The_Princess_Hi-Res_Adventure_2) – Scan of the original On-Line Systems documentation: prologue, "hundreds of hi-res pictures", rattlesnake hint slip
-[^ref-32]: [Internet Archive – Softalk, November 1980](https://archive.org/details/softalkv1n03nov1980) – Softalk Vol. 1 No. 3, p. 44, "Softalk Presents The Bestsellers": Top Thirty for September 1980, Wizard and the Princess #2 behind VisiCalc in its first month
+[^ref-32]: [Internet Archive – Softalk, November 1980](https://archive.org/details/softalkv1n03nov1980) – Softalk Vol. 1 No. 3, pp. 26–27, review ("far surpasses the first", 250 illustrations, "Requires any Apple, 48K, disk. $32.95."); p. 44, "Softalk Presents The Bestsellers": Top Thirty for September 1980, Wizard and the Princess #2 behind VisiCalc in its first month
