@@ -10,17 +10,17 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball engine (improved; up to 800x600, 256 colors)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released
   in late 1998 by Dynamix and Sierra Attractions, it is the fourth game in the 3-D
   Ultra Pinball series.'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
-last_modified: 2026-11-11T18:01:08-07:00
+last_modified: 2026-11-12T08:50:00-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The title features four professional NASCAR drivers—Dale Earnhardt, Bill Ellio
 > **Engine:** Improved 3-D Ultra Pinball graphics engine (up to 800x600[^ref-2], 256 colors[^ref-23])
 > **Platforms:** Windows, Mac OS[^ref-3]
 > **Release Year:** 1998 (Windows; released by December 1, 1998[^ref-25], listed as September 30, 1998 by GRY-Online.pl[^ref-34]); Mac OS February 1999[^ref-27]
-> **Series:** 3-D Ultra Pinball (fourth entry)
+> **Series:** 3-D Ultra Pinball (fourth entry)[^ref-32]
 > **Sierra Lineage:** Core Sierra
 > **Protagonist:** N/A
 
@@ -53,7 +53,7 @@ The Pitstop table introduces the element of racing strategy: if the player shoot
 
 ### Interface and Controls
 
-3-D Ultra NASCAR Pinball employs landscape-shaped pinball tables, where some of the action occurs to the right and left of the main play area rather than in the traditional vertical layout[^ref-23]. The game features standard virtual pinball controls with flipper buttons and a plunger to launch the ball into play. Players can nudge the table to influence ball trajectory, though nudging too hard triggers a voice comment: "Hey, take it easy, it's only pinball!"[^ref-23].
+3-D Ultra NASCAR Pinball employs landscape-shaped pinball tables, where some of the action occurs to the right and left of the main play area rather than in the traditional vertical layout[^ref-23]. The game features standard virtual pinball controls with flipper buttons and a plunger to launch the ball into play[^ref-31]. Players can nudge the table to influence ball trajectory, though nudging too hard triggers a voice comment: "Hey, take it easy, it's only pinball!"[^ref-23]. MacHome's review of the Macintosh version adds that players can customize the flipper, plunger and table-nudge controls, choose "easy" or "hard" play options, and consult a context-sensitive online manual[^ref-33].
 
 The interface includes flashing crosshairs that light up the next target, a helpful feature for players unfamiliar with pinball strategy that can be toggled off by more experienced players[^ref-23]. The game runs at up to 800x600 pixels in 256 colors using the Windows palette[^ref-23][^ref-10]; IGN allowed that the resolution had "been improved this time around"[^ref-10], though IGN noted that the series as a whole failed to employ basic techniques such as scrolling the screen[^ref-10].
 
@@ -61,9 +61,9 @@ The interface includes flashing crosshairs that light up the next target, a help
 
 The game advertises 12 original inter-linking pinball tables on its packaging[^ref-8], but in reality there are only three distinct tables with four different background variations each[^ref-8]:
 
-- **Garage Table:** The starting area where players modify their vehicle's steering, tune-ups, and brakes through target hits before proceeding to the main race[^ref-6]
-- **Speedway Table:** The primary racing table featuring four ramps that correspond to different turns on the track, with visible racing cars circling the perimeter[^ref-9]. Sierra's own Holiday 1998 InterAction article describes four looping ramps for the four turns of the track, and six drop-targets spelling N-A-S-C-A-R that trigger one of ten "Special Events", with a different set of Special Events at each of the four racetracks[^ref-31]
-- **Pit Stop Table:** Features motion-captured animated pit crew members who "repair" the ball, simulating the strategic pit stop element of real NASCAR racing[^ref-3]
+- **Garage Table:** The starting area where players modify their vehicle's steering, tune-ups, and brakes through target hits before proceeding to the main race[^ref-6]. Eight bumper targets stand for components such as shocks, suspension and weight distribution; the player has one ball to hit each of them four times[^ref-31]
+- **Speedway Table:** The primary racing table featuring four ramps that correspond to different turns on the track, with visible racing cars circling the perimeter[^ref-9]. A side table, the Backfield, has mini-flippers[^ref-31]. Sierra's own Holiday 1998 InterAction article describes four looping ramps for the four turns of the track, and six drop-targets spelling N-A-S-C-A-R that trigger one of ten "Special Events", with a different set of Special Events at each of the four racetracks[^ref-31]
+- **Pit Stop Table:** Features motion-captured animated pit crew members who "repair" the ball, simulating the strategic pit stop element of real NASCAR racing[^ref-3]. A player who skips the Pit Stop table risks the car's efficiency rating dropping to zero, which puts them out of the race[^ref-31]
 
 The game supports one to four players[^ref-31]. Players select from four NASCAR drivers at the start: Dale Earnhardt, Bill Elliott, Bobby Labonte, or Terry Labonte[^ref-3]. Each choice customizes the tables to display the chosen racer's name, number, car colors, and corporate sponsor[^ref-23]. Jeff Gordon was not included among the playable options; GameOver's reviewer, calling Gordon "my favorite driver," found the omission odd given his popularity at the time[^ref-9].
 
@@ -168,7 +168,7 @@ The game was included in several compilations[^ref-13][^ref-19]:
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (checked November 11, 2026).
+- Not currently sold on GOG or Steam (checked November 12, 2026).
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/4085/3-d-ultra-nascar-pinball/)
