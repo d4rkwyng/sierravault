@@ -9,8 +9,9 @@ platforms: [Windows]
 series: Lords of Magic
 engine: Custom
 protagonist: Faith Lord (player-selected)
+composer: [Keith Zizza]
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Lords of Magic is a 1997 fantasy strategy game by Impressions Games and
   Sierra On-Line that combines turn-based empire building in the land of Urak with real-time
   battles.
@@ -18,11 +19,11 @@ tags: [1990s, lords-of-magic, sierra, strategy]
 ---
 # Lords of Magic
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Lords of Magic is a turn-based fantasy strategy game, intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II, in which turn-based map play switches to real-time battles[^ref-1]. Developed by Impressions Games and published by Sierra On-Line in 1997, the game is set in the fantasy world of Urak, a once-peaceful land now fractured by chaos and threatened by the evil sorcerer Balkoth[^ref-2]. It blends turn-based adventure and exploration with real-time combat[^ref-3].
+Lords of Magic is a turn-based fantasy strategy game, intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II, in which turn-based map play switches to real-time battles[^ref-1]. Developed by Impressions Games and published by Sierra On-Line in 1997, the game is set in the fantasy world of Urak, a once-peaceful land now fractured by chaos and threatened by the evil sorcerer Balkoth[^ref-2]. Release dates for the original game are given as November 19, 1997 (Steam)[^ref-10], November 30, 1997 (GameFAQs and GameRankings)[^ref-9][^ref-27] and December 2, 1997 (Wikipedia, citing PC Gamer's "Now Shipping" news item)[^ref-1]. It blends turn-based adventure and exploration with real-time combat[^ref-3].
 
 Lords of Magic has eight faiths - Life, Death, Order, Chaos, Fire, Water, Earth, and Air - each with unique characteristics, units, and magical abilities[^ref-4]. Seven can be chosen at the start; Death is unlocked only after the game has been beaten once, when players can begin a new game as Balkoth[^ref-1][^ref-18]. The main objective is to defeat Balkoth, Lord of Death, by any means necessary while managing resources, exploring the world, and engaging in both diplomacy and warfare[^ref-1]. The Legends of Urak expansion was later bundled with the original game as Lords of Magic: Special Edition, released on September 30, 1998[^ref-1][^ref-26].
 
@@ -30,6 +31,7 @@ Lords of Magic has eight faiths - Life, Death, Order, Chaos, Fire, Water, Earth,
 > **Developer:** [[Impressions Games]][^ref-7]
 > **Designer:** Jeff Fiske, Steve Serafino, Gregor Koomey; Creative Director [[Chris Beatrice]][^ref-32]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Composer:** Keith Zizza[^ref-13][^ref-32]
 > **Engine:** Custom[^ref-38]
 > **Platforms:** Windows[^ref-7]
 > **Release Year:** 1997
@@ -75,10 +77,12 @@ Artifacts grant faith- and class-specific bonuses such as extra attack, armor, o
 | PC Gamer UK | 56% | Negative review criticizing design philosophy[^ref-24] |
 | GameCenter | 4/10 | Hugh Falk, February 1998; praised the real-time combat[^ref-25] |
 | PC Zone UK | 78/100 | Generally favorable[^ref-27] |
+| Computer Gaming World | 1/5 stars | Tim Carter, April 1998; "Lords of Outpost"; called the initial release "essentially a beta"[^ref-42] |
+| PC PowerPlay | 74% | David Wildgoose, April 1998; praised the presentation, criticised design flaws and poor combat AI[^ref-43] |
 
 ### Modern Assessment
 
-On Steam, 92% of 535 user reviews of the Special Edition are positive[^ref-10]. As of October 2026, GOG.com users rate it 4.2/5 from 118 reviews[^ref-29], and Metacritic users score the Special Edition 8.2/10 from 15 ratings[^ref-17] and the original 7.9/10 from 7 ratings[^ref-41]. GameRankings aggregated a 76.50% score for the original game[^ref-27], and MobyGames lists a 72% critic average from 27 ratings[^ref-7].
+As of November 2026, 92% of 536 Steam user reviews of the Special Edition are positive[^ref-10], GOG.com users rate it 4.2/5 from 120 reviews[^ref-29], and Metacritic users score the Special Edition 8.2/10 from 15 ratings[^ref-17] and the original 7.9/10 from 7 ratings[^ref-41]. GameRankings aggregated a 76.50% score for the original game[^ref-27], and MobyGames lists a 72% critic average from 28 ratings[^ref-7].
 
 One modern review noted that "Lords of Magic could have been bigger" and praised its combination of "simplified elements from many gaming genres"[^ref-28]. However, technical issues persist, with some users reporting that "GOG made a bit of a mistake with this one. They applied the 3.01 beta patch instead of the stable patch, which causes extremely powerful units to spawn like mad early in the game even on easy mode"[^ref-29].
 
@@ -100,11 +104,19 @@ Lords of Magic was built on a custom engine[^ref-38]. The game required Windows 
 
 The game's data files used the .mpq format and could be modified using tools like Ladik's MPQ Editor, enabling community modding[^ref-39]. Installation options ranged from 135MB for lower-end systems to 390MB for a full installation[^ref-8].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | November 19 to December 2, 1997 (sources differ) | Windows | Published by Sierra On-Line; updates up to 2.0a followed[^ref-9][^ref-1][^ref-20] |
+| Special Edition | 1998 (sources differ: Sept 15, Sept 30, Nov 7; see [[1998 - Lords of Magic - Special Edition|Special Edition page]]) | Windows | Bundles the Legends of Urak expansion; official support ended with update 3.01[^ref-26][^ref-1][^ref-20] |
+| Digital re-release | As of November 2026 | Windows | Sold as Lords of Magic: Special Edition on Steam and GOG.com[^ref-10][^ref-29] |
+
 ## Legacy
 
 Community modifications for the game include the GSZero mod, whose description says an "adjustment has been made to make all AI lords mages to allow better artifact rewards in level 11 dungeons along with many other changes including balancing unit strengths"[^ref-35].
 
-GameSpot's review said the game "falls far short of its potential" given its promise of combining the gameplay of Heroes of Might & Magic II with the style of Lords of the Realm II[^ref-22]. Despite its flaws, the game remains available through digital distribution on Steam and GOG.com[^ref-10][^ref-29].
+GameSpot's review said the game "falls far short of its potential" given its promise of combining the gameplay of Heroes of Might & Magic II with the style of Lords of the Realm II[^ref-22]. Despite its flaws, the game remains available through digital distribution on Steam and GOG.com[^ref-10][^ref-29]. Steam lists Rebellion as the publisher of Lords of Magic: Special Edition[^ref-10], and GOG.com lists its company as "Impressions Games / Rebellion"[^ref-29].
 
 The Special Edition, released in 1998, set out to fix the original's problems; GameSpot's review of it said it "corrects a number of flaws and adds several new features but somehow ends up being only a tiny bit more appealing than its predecessor," and named Heroes of Might & Magic II and Warlords III as "simply better options for a fantasy-strategy fix"[^ref-36].
 
@@ -123,21 +135,21 @@ The Special Edition, released in 1998, set out to fix the original's problems; G
 
 ## References
 
-[^ref-1]: [Wikipedia – Lords of Magic](https://en.wikipedia.org/wiki/Lords_of_Magic) – "a turn-based strategy … game"; "intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II"; battles switch to real-time; over 160 spells and over 90 artefacts; "After finishing the game once, players can begin a new game as Balkoth"; cities, dungeon treasure, "loose diplomacy system"; faith units, heroes and spells; Special Edition released 30 September 1998; modern-system resolution notes
+[^ref-1]: [Wikipedia – Lords of Magic](https://en.wikipedia.org/wiki/Lords_of_Magic) – "a turn-based strategy … game"; "intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II"; battles switch to real-time; over 160 spells and over 90 artefacts; "After finishing the game once, players can begin a new game as Balkoth"; cities, dungeon treasure, "loose diplomacy system"; faith units, heroes and spells; Special Edition released 30 September 1998; infobox release date December 2, 1997 citing PC Gamer's "Now Shipping" ("should be hitting store shelves this week"); modern-system resolution notes
 [^ref-2]: [ModDB](https://www.moddb.com/games/lords-of-magic-special-edition/downloads/lords-of-magic-ost) – Game backstory and setting description
 [^ref-3]: [Internet Archive](https://archive.org/details/LordsofMagic_1020) – Demo item description: "blends turn-based adventure and exploration with real-time fisticuffs"
 [^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=573789702) – Faith system details
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/) – Developer; platform Windows; input device Mouse; genre 4X; "combines turn-based exploration and resource management with real-time combat"; multiplayer options (Internet, LAN, modem, null-modem); critic average 72% from 27 ratings (attributes read via the MobyGames API, October 2026)
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/) – Developer; platform Windows; input device Mouse; genre 4X; "combines turn-based exploration and resource management with real-time combat"; multiplayer options (Internet, LAN, modem, null-modem); critic average 72% from 28 ratings (November 2026; attributes read via the MobyGames API, October 2026)
 [^ref-8]: [Internet Archive Manual](https://archive.org/stream/Lords_of_Magic_Special_Edition_Manual/Lords_of_Magic_Special_Edition_Manual_djvu.txt) – Credits, opening narrative, zoom levels, LAN "Up to 4 players", install sizes (135 MB Special, 390 MB Full)
-[^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/pc/46090-lords-of-magic/data) – Publisher information
-[^ref-10]: [Steam Store](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/) – Store listing; "92% of the 535 user reviews for this game are positive" (October 2026)
+[^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/pc/46090-lords-of-magic/data) – Publisher: Sierra On-Line; US release date 11/30/97
+[^ref-10]: [Steam Store](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/) – Store listing; "92% of the 536 user reviews for this game are positive" (November 2026); Publisher: Rebellion; Release Date: Nov 19, 1997
 [^ref-11]: [iTechPost](https://www.itechpost.com/articles/113591/20220905/revisiting-lords-magic-special-edition-worth-playing-2020s.htm) – Game objective description
 [^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfMagic) – Easter egg and storyline information
 [^ref-13]: [VGMPF – Lords of Magic (W32)](https://vgmpf.com/Wiki/index.php/Lords_of_Magic_(W32)) – Soundtrack listing credited to Keith Zizza
 [^ref-14]: [Game Revolution](https://www.gamerevolution.com/review/33244-its-like-a-warcraft-and-ultima-fruit-roll-up-review) – Gameplay mechanics description
 [^ref-15]: [Reddit](https://www.reddit.com/r/gog/comments/1ipmeh0/lords_of_magic_gog_patch_302_reuploaded/) – 4X strategy classification
 [^ref-16]: [Sierra Help](https://sierrahelp.com/Documents/Misc/Lords_of_Magic_Artifact_List.html) – Artifact list with faith/class bonuses and once-per-day spells
-[^ref-17]: [Metacritic](https://www.metacritic.com/game/lords-of-magic-special-edition/) – Special Edition user score 8.2 from 15 ratings (October 2026)
+[^ref-17]: [Metacritic](https://www.metacritic.com/game/lords-of-magic-special-edition/) – Special Edition user score 8.2 from 15 ratings (November 2026)
 [^ref-18]: [GameFAQs](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/22504) – Faith characteristics, character classes, lord level 12 / champion level 10, backup lords; "you must beat the game once before you can choose Death"
 [^ref-19]: [GameFAQs Community Guide](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – Water faith economic analysis
 [^ref-20]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – Lords of Magic section: Windows 95/98, 640x480 SVGA; patches up to Update 2.0a
@@ -147,9 +159,9 @@ The Special Edition, released in 1998, set out to fix the original's problems; G
 [^ref-24]: [Web Archive](https://web.archive.org/web/20010527000453/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=675) – PC Gamer UK review score
 [^ref-25]: [Web Archive](https://web.archive.org/web/20000816095951/http://www.gamecenter.com/Reviews/Item/0,6,0-1502,00.html) – GameCenter review, rating 4 of 10, by Hugh Falk (2/17/1998)
 [^ref-26]: [Web Archive](https://web.archive.org/web/20190525174157/https://www.gamerankings.com/pc/70167-lords-of-magic-special-edition/index.html) – GameRankings: Special Edition "Release Date: September 30, 1998"
-[^ref-27]: [Web Archive](https://web.archive.org/web/20190609005743/https://www.gamerankings.com/pc/46090-lords-of-magic/index.html) – GameRankings 76.50%; PC Zone UK score
+[^ref-27]: [Web Archive](https://web.archive.org/web/20190609005743/https://www.gamerankings.com/pc/46090-lords-of-magic/index.html) – GameRankings 76.50%; PC Zone UK score; "Release Date: November 30, 1997"
 [^ref-28]: [Medium](https://medium.com/@billiondollarcompany1/lords-of-magic-the-heroes-of-might-magic-killer-647a6e24c6c7) – Modern retrospective review
-[^ref-29]: [GOG.com](https://www.gog.com/en/game/lords_of_magic_special_eddition) – GOG user rating 4.2/5 from 118 reviews (October 2026); user review on patch
+[^ref-29]: [GOG.com](https://www.gog.com/en/game/lords_of_magic_special_eddition) – GOG user rating 4.2/5 from 120 reviews (November 2026); "Company: Impressions Games / Rebellion"; user review on patch
 [^ref-30]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "Impressions specialized in historical strategy games and is best known for its City Building Series"
 [^ref-31]: [GameSpot](https://www.gamespot.com/articles/lords-of-magic-special-edition-announced/1100-2464414/) – Special Edition announcement; quote from "Chris Beatrice, general manager of Impressions"
 [^ref-32]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/credits/windows/) – Credits: Creative Director, designers, music (Keith Zizza), sound and video (Edward Saltzman), German voice cast
@@ -160,4 +172,6 @@ The Special Edition, released in 1998, set out to fix the original's problems; G
 [^ref-38]: [ModDB – Lords of Magic: Special Edition](https://www.moddb.com/games/lords-of-magic-special-edition) – Engine: Custom
 [^ref-39]: [Steam Community – Guide to Simple Modding](https://steamcommunity.com/sharedfiles/filedetails/?id=2839540731) – Editing gs.mpq with Ladik's MPQ Editor
 [^ref-40]: [Web Archive – Computer Games Strategy Plus](https://web.archive.org/web/20030704201910/http://www.cdmag.com/articles/009/154/lords_magic_review.html) – Tim Royal review: "Multiplayer: 2-8 players, Internet, LAN, modem, serial"
-[^ref-41]: [Metacritic – Lords of Magic](https://www.metacritic.com/game/lords-of-magic/) – Original game user score 7.9 from 7 ratings (October 2026)
+[^ref-41]: [Metacritic – Lords of Magic](https://www.metacritic.com/game/lords-of-magic/) – Original game user score 7.9 from 7 ratings (November 2026)
+[^ref-42]: [Computer Gaming World, issue 165, April 1998 (Internet Archive)](https://archive.org/details/computer-gaming-world-issue-165-april-1998/page/n187) – Tim Carter, "Lords of Outpost", pp. 190-191; "the initial release of LORDS OF MAGIC is essentially a beta"; one-star rating on the page scan
+[^ref-43]: [PC PowerPlay, issue 23, April 1998 (Internet Archive)](https://archive.org/details/PCPowerplay-023-1998-04/page/n65) – David Wildgoose, pp. 66-68; 74% score box; "the third title in the loosely-collected 'Lords' series from Impressions"
