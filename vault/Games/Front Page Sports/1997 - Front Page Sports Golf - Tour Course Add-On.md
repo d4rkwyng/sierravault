@@ -7,16 +7,16 @@ publisher: Sierra On-Line
 genre: Sports
 platforms: [Microsoft Windows]
 series: Front Page Sports
-engine: null
+engine: Unknown/unnamed
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Three separate 18-hole course disks for Front Page Sports: Golf (Coeur d''Alene, Black Diamond Ranch and Pasatiempo), developed by Headgate Studios and published by Sierra On-Line in 1997, plus the free Sahalee download of 1998.'
 tags: [1990s, front-page-sports, sierra, golf, add-on]
 ---
 # Front Page Sports: Golf – Add-on Courses
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ No modern retrospective of the add-on disks has been located. A collector writin
 
 ### Origins
 
-Headgate Studios was founded by Vance Cook, who left Access Software in 1992 to form it, and was based in Bountiful, in the Salt Lake City area[^ref-40]. According to Sierra's own 1998 profile of the studio, Headgate developed TrueSwing for its golf engine, and Sierra acquired the company in 1996[^ref-39].
+Headgate Studios was founded by Vance Cook, who left Access Software in 1992 to form it, and was based in Bountiful, in the Salt Lake City area[^ref-39][^ref-40]. According to Sierra's own 1998 profile of the studio, Headgate developed TrueSwing for its golf engine, and Sierra acquired the company in 1996[^ref-39].
 
 ### Production
 
@@ -130,10 +130,14 @@ In 2021, a collector on the Vintage Computer Federation forums reported how the 
 
 Sierra's catalogues and the Dynamix wiki list three retail add-on courses for Front Page Sports: Golf, and Sierra's download page added the free Sahalee course[^ref-25][^ref-23][^ref-30][^ref-31]. During 1998 Sierra marketed the base game as "Sierra Sports Golf 1.0" and "Golf Pro '98", and kept the add-on courses in its catalogue alongside it[^ref-30][^ref-31]. In fall 1998 Sierra bundled Golf Pro '98 with the Black Diamond Ranch and Pasatiempo add-ons, and announced that its next golf game, PGA Championship Golf 1999 Edition, would include Sahalee, "site of the 80th PGA Championship"[^ref-36]. A 2001 Sierra Sports course page for "PGA Golf -- Championship Edition" still offered course videos for Black Diamond Ranch, "Couer d'Alene Resort Golf Course", Pasatiempo and Sahalee alongside the Prince Course and the Pete Dye Golf Club[^ref-38]. A collector writing in 2021 said he had found almost no information on the add-ons online[^ref-3].
 
+### Collections
+
+- *Sierra Sports Golf Pro Bundle* (Sierra, Fall 1998) – Windows 95 CD with Sierra Sports Golf Pro '98, the Black Diamond Ranch add-on and the Pasatiempo add-on, "All for just $29.95!"; the three items were also listed separately[^ref-36]
+
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam.
+- Not currently sold on GOG or Steam (checked 2026-11-12).
 
 **Download / Preservation**
 - The free Sahalee add-on was distributed by Sierra as sahalee.exe; the original Sierra download page survives only as a Wayback Machine capture[^ref-23].
