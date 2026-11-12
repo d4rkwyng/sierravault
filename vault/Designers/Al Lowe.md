@@ -5,15 +5,15 @@ birth_year: 1946
 death_year: null
 notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Albert William "Al" Lowe was born on July 24, 1946, and grew up in Chesterfield, Missouri, a suburb of St. Louis.[^ref-4] He has long called himself "the world's oldest game designer."[^ref-4][^ref-17] He holds a degree in music education, was a professional musician from the age of 13, and taught music in public schools for 15 years before he joined Sierra On-Line in 1982.[^ref-5][^ref-24][^ref-4] He is best known as the creator of the Leisure Suit Larry series, but his Sierra credits also include Disney adventures for children, lead programming on King's Quest III, King's Quest IV and the original Police Quest, and music for King's Quest II and Space Quest II.[^ref-7][^ref-25] His own credit list names 26 products he worked on "in various capacities" during his 16 years with the company.[^ref-25]
+Albert William "Al" Lowe was born on July 24, 1946, and grew up in Chesterfield, Missouri, a suburb of St. Louis.[^ref-4] He has long called himself "the world's oldest game designer."[^ref-4][^ref-17] He holds a BS and an MS in music education from the University of Missouri-Columbia, was a professional musician from the age of 13, and taught music in public schools for 15 years before he joined Sierra On-Line in 1982.[^ref-5][^ref-24][^ref-4][^ref-40] He is best known as the creator of the Leisure Suit Larry series, but his Sierra credits also include Disney adventures for children, lead programming on King's Quest III, King's Quest IV and the original Police Quest, and music for King's Quest II and Space Quest II.[^ref-7][^ref-25] His own credit list names 26 products he worked on "in various capacities" during his 16 years with the company.[^ref-25]
 
 Lowe has said he deliberately aimed Larry at the mainstream adventure audience rather than at an adult niche: "I didn't want to produce a pornographic game, I wanted to make a comedy. I thought a pornographic game wouldn't sell as well as a broad-based adventure game. I went after the people who bought King's Quest, Space Quest and all those other 'quest' games. I just gave them a different kind of quest."[^ref-12]
 
@@ -87,7 +87,7 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 
 | Year | Title | Role |
 |------|-------|------|
-| 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Designer/Programmer |
+| 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Programmer; co-creator |
 | 1982 | [[1982 - Dragon's Keep\|Dragon's Keep]] | Designer/Programmer |
 | 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Programmer (MobyGames "Programming by", Apple II;[^ref-19] Lowe's own list names Gelfling Adventure instead[^ref-25]) |
 | 1983 | [[1983 - Troll's Tale\|Troll's Tale]] | Designer/Programmer |
@@ -110,11 +110,13 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Designer/Writer (with Josh Mandel)[^ref-25] |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Director/Producer/Designer/Writer; saxophone solos |
 | 1994 | Leisure Suit Larry's Greatest Hits and Misses! | Manual |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Special Thanks |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Special Thanks[^ref-37] |
 | 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Designer/Writer/Musician/Voice Director/Voice Casting[^ref-23] |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Director/Designer/Writer; Larry theme, additional music and soprano sax |
 | 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Images (his photograph is used in the game) |
 | 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Director/Designer/Writer/Composer/Voice Casting & Director |
+
+Lowe's own Disc-O-Graphy dates several titles one to two years differently from the years in this table, for example The Black Cauldron (1984 against 1986), King's Quest II (1983 against 1985) and Leisure Suit Larry 6 (1994 against 1993).[^ref-25]
 
 ### Other Credits (2006–2018)
 
@@ -122,9 +124,9 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 |------|-------|---------|------|
 | 2006 | Sam Suede: Undercover Exposure (unreleased) | iBase Games | Part owner of the developer; worked on the game[^ref-35] |
 | 2010 | Al Lowe's Comedy Club | The Binary Mill | Credited as the man behind the app; joke app for iPhone, iPod and iPad[^ref-36] |
-| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. | Special Thanks |
+| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. | Special Thanks[^ref-38] |
 | 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | N-Fusion Interactive (published by Replay Games) | Designer/Writer/Voiceover Casting/Voiceover (as himself)/Alto Saxophone |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Listed among "Gamers" (backer credits) |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Listed among "Gamers" (backer credits)[^ref-39] |
 | 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] | CrazyBunch | Special Thanks |
 
 ## References
@@ -157,3 +159,7 @@ Roles follow MobyGames credits[^ref-19] and Lowe's own Disc-O-Graphy,[^ref-25] w
 [^ref-34]: [Spillhistorie.no - Chuck Benton and Softporn Adventure](https://spillhistorie.no/2025/12/05/chuck-benton-and-softporn-adventure/) - December 5, 2025 interview with Benton: Ken Williams offered a one percent royalty or a $5,000 check for the Larry licence and he took the $5,000
 [^ref-35]: [FiringSquad - More On Sam Suede's Shut Down (December 1, 2006), Wayback copy](https://web.archive.org/web/20061206182231/http://firingsquad.com/news/newsarticle.asp?searchid=13406) - John Callaham's phone interview with Lowe: part owner of iBase Games, last day September 11, about a year in deep production, doubts about re-entering the industry
 [^ref-36]: [The Binary Mill - Al Lowe's Comedy Club, Wayback copy](http://web.archive.org/web/20120104202712/http://thebinarymill.com:80/comedy_club.php) - Developer's page: iPhone, iPod, iPad; released 23 June 2010; 99c; Lowe teamed with comedian Chuck Myers
+[^ref-37]: [MobyGames - King's Quest VII credits](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/credits) - "Special Thanks To" list includes Al Lowe
+[^ref-38]: [MobyGames - Fester Mudd: Curse of the Gold - Episode 1 credits](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/credits) - "Special Thanks" list includes Al Lowe
+[^ref-39]: [MobyGames - Hero-U: Rogue to Redemption credits](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/credits) - Al Lowe listed under "Gamers"
+[^ref-40]: [Sierra Gamers - Al Lowe](https://www.sierragamers.com/al-lowe/) - Educational background: University of Missouri-Columbia; BS and MS in Music Education
