@@ -190,4 +190,4 @@ After Sierra acquired Impressions, the game returned under the Sierra name. *The
 [^ref-22]: [Internet Archive – Edward Grabowski's The Blue & The Gray (DOS)](https://archive.org/details/msdos_Edward_Grabowskis_The_Blue__The_Gray_1993) – DOS preservation item, Impressions Games, 1993
 [^ref-23]: [Internet Archive – Aktueller Software Markt 12/93](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1993.12/page/n158/mode/1up) – "Last Minute" review of The Blue and The Gray (PC, Impressions), Urteil 10, ASM Hit; page folio "12/93"
 [^ref-24]: [Amiga Magazine Rack – The Blue and the Gray review, Amiga Format 57 (Mar 1994)](https://amr.abime.net/review_3009) – page 68 scan, Rob Mead, 52%; folio reads "March 1994"
-[^ref-25]: [MobyGames – Edward Grabowski](https://www.mobygames.com/person/31791/edward-grabowski/) – biography: "Ed founded Edward Grabowski Communications Ltd. in October 1994"; read from a January 2026 capture, live page blocked on 2026-11-11
+[^ref-25]: [MobyGames – Edward Grabowski](https://www.mobygames.com/person/31791/edward-grabowski/) – biography: "Ed founded Edward Grabowski Communications Ltd. in October 1994"
