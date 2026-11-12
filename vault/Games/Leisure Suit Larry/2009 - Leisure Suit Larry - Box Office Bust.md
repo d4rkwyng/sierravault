@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unreal Engine 3
 protagonist: Larry Lovage
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry: Box Office Bust is a 2009 open-world action-adventure
   by Team17, published by Codemasters after Sierra''s demise, and one of the most critically
   panned games of its era.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Box Office Bust
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -68,7 +68,7 @@ IGN's Charles Onyett argued that even the script seemed aware of how pointless m
 
 ### Contemporary Reviews
 
-Box Office Bust received overwhelmingly negative reviews on all platforms; Al Lowe noted that GameRankings had placed it "next to last place" among all games it tracked, at 16%[^ref-3]. Metacritic aggregated scores of 25/100 for Xbox 360, 20/100 for PC, and 17/100 for PlayStation 3[^ref-40][^ref-42][^ref-41]. GameRankings showed similarly dismal scores of 26.08%, 20.22%, and 16.00% respectively[^ref-73][^ref-71][^ref-75].
+Box Office Bust received overwhelmingly negative reviews on all platforms; [[Al Lowe]] noted that GameRankings had placed it "next to last place" among all games it tracked, at 16%[^ref-3]. Metacritic aggregated scores of 25/100 for Xbox 360, 20/100 for PC, and 17/100 for PlayStation 3[^ref-40][^ref-42][^ref-41]. GameRankings showed similarly dismal scores of 26.08%, 20.22%, and 16.00% respectively[^ref-73][^ref-71][^ref-75].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
