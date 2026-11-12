@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: 3Space
 protagonist: Unnamed A-10 Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Alan McKean]
 description: A-10 Tank Killer is a combat flight simulation developed and published
   by Dynamix in December 1989 for DOS, with an Amiga port following in 1990-1991.
@@ -18,7 +18,7 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -91,6 +91,8 @@ Ramshaw criticized that "not only does this fail to push the boundaries of fligh
 
 However, he acknowledged that "A-10's trump card, though, is the fact that (maybe even more effectively than F-15 Strike Eagle II) it manages to create the impression of a real world"[^ref-5].
 
+Other Amiga magazines scored the game between those extremes. *Zzap!* gave 90% in issue 70 (February 1991), *Datormagazin* 9/10 (February 1991), *Amiga Action* and *Amiga Format* 75% each (issues 21 and 22, June and May 1991), *Amiga Joker* 74% (January 1991), *Joystick* 74% (issue 11, December 1990) and *Amiga Computing* 70% (issue 37, June 1991); *Amiga Mania* gave 45% in July 1992[^ref-29]. On the PC side, *Joystick* (issue 4, April 1990) scored it 79% and *Zero* (issue 18, April 1991) 76%[^ref-29].
+
 German publication *ASM (Aktueller Software Markt)* was less impressed, awarding only 7 out of 12 (58%) in May 1990[^ref-4].
 
 ### Modern Assessment
@@ -112,7 +114,7 @@ A-10 Tank Killer emerged from Dynamix's ambitions in the flight simulation marke
 
 ### Production
 
-Development was led by [[Damon Slye]], who served as director, with design contributions from Jerry Luttrell and David Selle[^ref-1][^ref-4]. The programming team included David McClurg and Lincoln Hutton, while the art department featured Cyrus Kanga, Kobi Miller, and Mark Brenneman[^ref-4]. Alan McKean composed the game's music[^ref-1].
+Development was led by [[Damon Slye]], who served as director, with design contributions from Jerry Luttrell and David Selle[^ref-1][^ref-4]. The programming team included David McClurg and Lincoln Hutton, while the art department featured Cyrus Kanga, Kobi Miller, and Mark Brenneman[^ref-4]. Alan McKean composed the game's music[^ref-1]. DOS Days lists five further authors without giving roles: Bryce Morcello, Piotr Lukaszuk, Randy Dersham, Christopher Reese and Nels Bruckner[^ref-30].
 
 Dynamix made several notable design decisions during production. Despite the real A-10 being a single-seat aircraft, the team chose to include a fictional backseater named Jake to provide in-game interaction and assistance[^ref-1]. The game uses many digitized pictures as menu illustrations, something Dynamix did quite often at the time[^ref-12].
 
@@ -122,6 +124,7 @@ Dynamix made several notable design decisions during production. Despite the rea
 - **Programmers:** David McClurg, Lincoln Hutton
 - **Artists:** Cyrus Kanga, Kobi Miller, Mark Brenneman
 - **Composer:** Alan McKean
+- **Also credited as authors (roles not stated):** Bryce Morcello, Piotr Lukaszuk, Randy Dersham, Christopher Reese, Nels Bruckner[^ref-30]
 
 ### Technical Achievements
 
@@ -135,7 +138,8 @@ The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[
 - **Graphics:** 256-color VGA, also supports CGA/EGA/MCGA/Tandy
 - **Audio:** AdLib, Roland MT-32, Roland LAPC-I, Sound Blaster, PS/1 Audio, PC speaker
 - **Input:** Keyboard, Joystick; mouse for menus (v1.5)[^ref-7]
-- **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk
+- **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk (v1.1: two 3.5" 720 KB disks; v1.5: four 3.5" disks; v1.51: two 5.25" 1.2 MB or four 3.5" disks)[^ref-30]
+- **Requirements:** 512 KB RAM (640 KB for Tandy); 2.7 MB installed on hard disk[^ref-30]
 
 **Amiga Version:**[^ref-5]
 - **Memory:** 1 MB required
@@ -194,7 +198,7 @@ While the Amiga version disappointed some critics who found it technically infer
 
 ## Purchase
 
-- Not currently sold; a [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer) entry requests a re-release
+- Not currently sold; a [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer-1989) entry requests a re-release
 
 ## Downloads
 
@@ -240,3 +244,5 @@ While the Amiga version disappointed some critics who found it technically infer
 [^ref-26]: [Computer Gaming World #114, January 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_114) – M. Evan Brooks wargame survey: three-plus stars, "joystick control is very sensitive"
 [^ref-27]: [Dragon #176, December 1991 (Internet Archive)](https://archive.org/details/dragon-magazine-176) – Lesser, "The Role of Computers", Game conversions: "PC/MS-DOS version (updated)", Middle East campaign, "new flight models"
 [^ref-28]: [MobyGames – A-10 Tank Killer + Extra Missions](https://www.mobygames.com/game/24257/a-10-tank-killer-extra-missions/) – Amiga double pack, 1995: base game patched to v1.5 plus Campaign Set 2 (read via the MobyGames API)
+[^ref-29]: [Amiga Magazine Rack – A-10 Tank Killer reviews](https://amr.abime.net/review_32463) – index of contemporary magazine reviews with issue, date, platform and score; individual pages checked for Zzap! 70, Datormagazin, Joystick 4 and 11, Zero 18, Amiga Action 21, Amiga Format 22, Amiga Joker, Amiga Computing 37 and Amiga Mania
+[^ref-30]: [DOS Days – A-10 Tank Killer](https://dosdays.co.uk/topics/Games/game_a10.php) – author list, original media, system requirements, installed size

@@ -79,7 +79,6 @@ Most contemporary reviews cover the original 1989/1990 release, not version 1.5:
 |-------------|-------|----------|------|-------|
 | The Games Machine | 96% | PC | Feb 1990 | Paul Rigby[^ref-2] |
 | Zzap! | 90% | Amiga | Feb 1991 | AMR lists 90%[^ref-2]; Amiga Reviews' transcription of the "Think Tank" column review shows 93% overall, "pure entertainment"[^ref-1] |
-| Computer Gaming World | 4/5 stars | - | Dec 1989 | M. Evan Brooks[^ref-3] |
 | Amiga Joker | 74% | Amiga | Jan 1991 | Max Magenauer[^ref-2] |
 | Amiga Computing | 70% | Amiga | Jun 1991 | Jason Holborne[^ref-2] |
 
@@ -127,7 +126,7 @@ Due to its violence level, A-10 Tank Killer was placed on the "Index" in Germany
 ## Downloads
 
 **Not currently sold (GOG Dreamlist)**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer-1989) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware - Version 1.5](https://www.myabandonware.com/game/a-10-tank-killer-v-1-5-12w)[^ref-16]
