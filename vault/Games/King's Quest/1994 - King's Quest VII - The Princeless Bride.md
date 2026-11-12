@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'King''s Quest VII: The Princeless Bride is the seventh King''s Quest
   game, designed by Roberta Williams and Lorelei Shannon. Released in November 1994,
   it adopted Disney-inspired cel animation and introduced two playable heroines, Queen
@@ -19,7 +19,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -137,6 +137,7 @@ Producer Mark Seibert recalled the coordination challenges: "I recall going to w
 **Development Credits:**[^ref-1][^ref-2][^ref-4]
 - **Designers:** Roberta Williams, Lorelei Shannon
 - **Producer:** [[Mark Seibert]]
+- **Directors:** [[Andy Hoyos]] (MobyGames credit)[^ref-37]
 - **Art Director:** [[Andy Hoyos]]
 - **Director of Animation:** Marc Hudgins
 - **Lead Programmers:** Oliver Brelsford, Tom DeSalvo
@@ -334,3 +335,4 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-34]: [PC Zone issue 24, March 1995 (archive.org scan), pp. 74–77](https://archive.org/details/PC_Zone_Issue_024_1995-03_Dennis_Publishing_GB/page/n73/mode/2up) – Teresa Maughan's CD-ROM review, "PC Zone Classic" badge, score 93
 [^ref-35]: [Next Generation issue 3, March 1995 (archive.org scan), pp. 92–93](https://archive.org/details/nextgen-issue-003) – unsigned capsule review, four stars
 [^ref-36]: [Génération 4 no. 73, January 1995 (archive.org scan), pp. 90–94](https://archive.org/details/generation4-magazine-073) – Thierry Falcoz's test, 63%, sub-scores 18/18/17/16
+[^ref-37]: [MobyGames – Andy Hoyos credit sheet (Wayback, December 2022)](https://web.archive.org/web/20221202035600/https://www.mobygames.com/developer/sheet/view/developerId,3683/) – King's Quest VII: "Directors" and "Art Director"
