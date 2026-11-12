@@ -10,17 +10,17 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball game developed by Dynamix and published
   by Sierra On-Line in 1995, built around three tables themed on Sierra's space game
   Outpost.
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-10-27T12:00:00-06:00
+last_modified: 2026-11-11T12:00:00-06:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,6 @@ Sierra reported that the game sold more than 250,000 copies in its fiscal year e
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** Kyle Miller[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Not documented in available sources
 > **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1][^ref-3]
 > **Release Year:** 1995[^ref-1]
 > **Series:** 3-D Ultra Pinball
@@ -103,7 +102,13 @@ The tables' theme, graphics and sound were inspired by Sierra's 1994 game Outpos
 - **Music:** LoudMouth Productions
 - **Voice Talent:** Sher Alltucker, Jane Chase, Ed Ragazzino
 
-A Sega Saturn port was planned but cancelled[^ref-21].
+### Voice Cast
+
+| Character/Role | Voice Actor |
+|----------------|-------------|
+| Voice Talent | Sher Alltucker[^ref-1] |
+| Voice Talent | Jane Chase[^ref-1] |
+| Voice Talent | Ed Ragazzino[^ref-1] |
 
 ### Technical Specifications
 
@@ -130,19 +135,15 @@ Compatibility on modern systems varies by version. One MyAbandonware user writes
 | 1995 | Germany | Released in Germany[^ref-6] |
 | 1996 | Italy | Released in Italy[^ref-6] |
 
+### Cut Content
+
+A Sega Saturn port was planned but cancelled[^ref-21].
+
 ### Easter Eggs and Trivia
 
 - The tables' theme, graphics and sound were inspired by Sierra's 1994 game Outpost[^ref-1]
 - Fun With Bonus quotes the game's billing as "fastest pinball in space"[^ref-20]
-- Alternate titles include "3-D Ultra Pinball Outpost Odyssey - Fastest Pinball In Space," "3-D Ultra Pinball: Fastest Pinball in Space," and "3D Ultra Pinball: Space Colony"[^ref-1]
-
-## Voice Cast
-
-| Character/Role | Voice Actor |
-|----------------|-------------|
-| Voice Talent | Sher Alltucker[^ref-1] |
-| Voice Talent | Jane Chase[^ref-1] |
-| Voice Talent | Ed Ragazzino[^ref-1] |
+- MobyGames lists three alternate titles: "3-D Ultra Pinball Outpost Odyssey - Fastest Pinball In Space" (working title), "3-D Ultra Pinball: Fastest Pinball in Space" (tag-lined title) and "3D Ultra Pinball: Space Colony" (from the Collector's Edition manual)[^ref-1]
 
 ## Legacy
 
@@ -170,13 +171,11 @@ Reviewing The Lost Continent, Ian Koss wrote that "The thought of porting pinbal
 
 In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empire's Pro Pinball: "The Pro Pinball games are impressive simulations of fictional tables that render every flashing light, screw, and doohickey with a nearly obsessive attention to detail. On the other hand, the 3D Ultra Pinball games are, at best, pinball-like computer games that attempt to simulate how a pinball table would look and behave if it had to fit in the dimensions of your computer screen and wasn't constrained to the confines of reality"[^ref-15].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-1995) - Community Dreamlist
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – 3-D Ultra Pinball (1995)](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995)[^ref-7]
@@ -222,7 +221,7 @@ In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empir
 [^ref-16]: [Wikipedia – 3-D Ultra Pinball: Creep Night](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Creep_Night) — Sequel reception: Charlotte Panther (CGW), Robert Edvardsson (Mac Game Gate), Gamezilla 88%, PC M&E 88%, GameRevolution 7/10
 [^ref-17]: [Computer Gaming World Issue 138 (January 1996)](https://archive.org/details/Computer_Gaming_World_Issue_138) — Arinn Dembo, "Blazing Paddles" pinball roundup, pp. 250–251: Colony, Mine and Command Post tables, five challenges each; controls; four-player hot-seat
 [^ref-18]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) — Series overview: animation, multiple tables, "temporary targets"; sequel list; Power as a compilation; half a million copies by 1998 (citing the Post-Gazette)
-[^ref-19]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — ElbinoBunny, September 2017; about Thrillride, compared with the reviewer's earlier Lost Continent piece
+[^ref-19]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — ElbinoBunny, September 2017; about Thrillride, compared with the reviewer's earlier Lost Continent piece ([Wayback Machine copy](https://web.archive.org/web/20240526182948/https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/))
 [^ref-20]: [Fun With Bonus – Throwback Thursday: 3D Ultra Pinball](https://funwithbonus.com/throwback-thursday-3d-ultra-pinball/) — October 2014 retrospective containing the verbatim "once you learn the patterns" gameplay-predictability critique
 [^ref-21]: [Wikipedia – 3-D Ultra Pinball (video game)](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball_(video_game)) — Tables Colony, Command Post, Mine; Next Generation 2/5, MacUser 3.5/5, CNET; PC Data #18 for 1996; cancelled Saturn port
 [^ref-22]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "3D ULTRA PINBALL ... Released in fiscal 1996, this title has sold more than 250,000 copies." ([Wayback Machine copy](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt))
