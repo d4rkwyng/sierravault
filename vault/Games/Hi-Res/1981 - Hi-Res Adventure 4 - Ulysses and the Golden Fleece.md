@@ -10,13 +10,13 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece (1981) is a graphic adventure for the Apple II from On-Line Systems, in which Ulysses sets out to recover the Golden Fleece for his king.'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ Player None picked out examples of more logical puzzle design: sharpening a bran
 
 **Videogaming Illustrated** (December 1982) gave the game a feature, billing it as "one of the most important and challenging videogames ever created". It said the game "paints a new, full-color panorama for every step of the journey" and called its vocabulary "quite extensive"[^ref-38].
 
-**The Book of Atari Software** (1984) rated the Atari version B overall. It found the game "better-conceived than its immediate predecessors" but "much harder to solve", in part because of "a disturbing lack of recognition of many words". It noted "almost 150 locations to be mapped, including many near-mazes in jungles, oceans, and forests", and listed bugs and logical shortcomings such as "range errors, fireproof wine"[^ref-42].
+**The Book of Atari Software** (1984) rated the Atari version B overall. It found the game "better-conceived than its immediate predecessors" but "much harder to solve", in part because of "a disturbing lack of recognition of many words". It noted "almost 150 locations to be mapped, including many near-mazes in jungles, oceans, and forests", and listed bugs and logical shortcomings such as "range errors, fireproof wine". The same review graded the Atari version C for save/restore, vocabulary and documentation, and mentioned "the re-booting requirement after being killed and a limited vocabulary"[^ref-42].
 
 **PC Magazine** (20 March 1984) ran Phil Wiswell's "Greek And Egyptian Adventures" in its PC Arcade column, reviewing the IBM PC version alongside Infocom's Infidel. Wiswell found both games "well designed, challenging, and a lot of fun to play". He judged Ulysses' two-word parser limited next to Infidel's, calling that limit one of "the trade-offs for the gorgeous graphics". It scored Fun 5.0, Challenge 6.0 and Graphics/Sound 3.0 (sound not applicable), for a total of 14.0 on PC's scale of one to six per category[^ref-37][^ref-18].
 
@@ -103,6 +103,10 @@ Davis replaced Jason with Ulysses to avoid potential copyright problems, because
 - **Designers:** Bob Davis, Ken Williams[^ref-1][^ref-31]
 - **IBM PC version:** Jay Sullivan, Frank Randak[^ref-11]; implemented by [[Jeff Stephenson]][^ref-40]
 - **Atari 8-bit port:** Yosemite Software Products, Inc.[^ref-27]; coder Chris Iden[^ref-42]
+
+### Technical Achievements
+
+Softalk's May 1982 software directory listed the game as a "re-creation of the Greek legend, featuring graphics advances and ability to communicate with the characters"[^ref-44]. PC Magazine's 1984 review likewise credited the game's "gorgeous graphics"[^ref-37].
 
 ### Technical Specifications
 
@@ -164,7 +168,7 @@ Sierra On-Line's Hi-Res Adventures catalog, which advertised versions for Apple,
 
 ### Fan Projects
 
-ScummVM 2.0.0 (17 December 2017) added support for Hi-Res Adventures #3 through #6, including Ulysses and the Golden Fleece. The same release added new PSP Vita and RISC OS ports[^ref-7].
+ScummVM 2.0.0 (17 December 2017) added support for Hi-Res Adventures #3 through #6, including Ulysses and the Golden Fleece. The same release added new PSP Vita and RISC OS ports[^ref-7]. ScummVM 2026.1.0 (31 January 2026) later added text-to-speech support to the ADL engine[^ref-45].
 
 ### Related Publications
 
@@ -235,9 +239,10 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 [^ref-36]: [Softalk for the IBM Personal Computer, November 1982 (Internet Archive full text)](https://archive.org/download/softalk-pc-v1n6-1982-11/softalk-pc-v1n6-1982-11_djvu.txt) – Sierra ad: first color-graphic adventure for the IBM; 48k and Color/Graphics adapter; $39.95
 [^ref-37]: [PC Magazine, 20 March 1984 (Internet Archive full text)](https://archive.org/download/PC-Mag-1984-03-20/PC-Mag-1984-03-20_djvu.txt) – Phil Wiswell, "PC Arcade": Jason/Columbia anecdote, Scroll-Lock, two-word commands, Fun 5.0 / Challenge 6.0 / Graphics 3.0, total 14.0
 [^ref-38]: [Videogaming Illustrated, December 1982 – Ulysses and the Golden Fleece (VideoGame Pavilion)](https://vgpavilion.com/mags/1982/12/vi/ulysses-and-the-golden-fleece) – feature and Bob Davis interview: "quite extensive" vocabulary, two-week estimate, Columbia Pictures copyright reason
-[^ref-39]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #4" among the games using this engine
+[^ref-39]: [ScummVM Wiki – ADL (Wayback, January 2025)](http://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #4" among the games using this engine
 [^ref-40]: [MobyGames – Jeff Stephenson credits (Wayback, November 2022)](https://web.archive.org/web/20221109082054/https://www.mobygames.com/developer/sheet/view/developerId,52/) – "Hi-Res Adventure #4: Ulysses and the Golden Fleece (1982) ( Implemented by )"
 [^ref-41]: [Hi-Res Adventure #4: Game Instructions (Apple II), Bob Davis & Ken Williams, On-Line Systems (PDF, mocagh.org)](https://www.mocagh.org/sierra/ulysses.pdf) – "prompted for a letter from A to O under which to save the game"; "ADVENTURE SAVED GAME DISK"; four lines of text, Return shows last twenty-four lines
 [^ref-42]: [Atarimania – Hi-Res Adventure #4 (Atari 8-bit), incl. The Book of Atari Software, 1984, rated B](https://www.atarimania.com/games/atari-400-800-xl-xe-games-hi-res-adventure-4-ulysses-and-the-golden-fleece-2467/print?print=1) – "15 save-game capability on a scratch disk"; "almost 150 locations"; "fireproof wine"; coder Iden, Chris; developer Yosemite Software Products, 1982
 [^ref-43]: [Softalk, February 1982 (Internet Archive)](https://archive.org/details/softalkv2n06feb1982) – Adventure 5 list: No. 3 (No. 2 last month), behind Cranston Manor and The Wizard and the Princess
 [^ref-44]: [Softalk, May 1982 (Internet Archive)](https://archive.org/details/softalkv2n09may1982) – Adventure 5 list: No. 2 (No. 1 last month), behind Time Zone
+[^ref-45]: [ScummVM – NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) – 2026.1.0 (2026-01-31), ADL: "Added Text-to-Speech support."
