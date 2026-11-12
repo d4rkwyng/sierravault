@@ -4,11 +4,11 @@ type: publisher
 founded: 2014
 headquarters: "San Jose, California, USA"
 parent_company: "Phoenix Online Studios"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Phoenix Online Publishing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -20,7 +20,7 @@ For the studio's full history, see [[Phoenix Online Studios|Phoenix Online Studi
 
 ## Sierra Connection
 
-Phoenix began as the volunteer team behind *The Silver Lining*, a fan-made continuation of the King's Quest series. MobyGames says the group was formed in 2004 to work on it.[^ref-1] Activision agreed on 26 June 2010 to let the game be released as long as it stayed free,[^ref-16][^ref-25] and the first episode came out on 10 July 2010.[^ref-24][^ref-16]
+Phoenix began as the volunteer team behind *The Silver Lining*, a fan-made continuation of the King's Quest series. MobyGames says the group was formed in 2004 to work on it.[^ref-1] Gamasutra reported on 28 June 2010 that Activision had "at last given the go-ahead" for the game to be released for free,[^ref-43][^ref-25] and the first episode came out on 10 July 2010.[^ref-24][^ref-16]
 
 Phoenix also worked with Sierra designer [[Jane Jensen|Jane Jensen]]. This label published *Moebius: Empire Rising* (2014), which Phoenix Online Studios and Jensen's Pinkerton Road developed.[^ref-17][^ref-11][^ref-22] Her *Gabriel Knight: Sins of the Fathers 20th Anniversary Edition* (2014) was released by Phoenix Online Studios, with Pinkerton Road Studio as publisher on Steam, not by this label.[^ref-21][^ref-2]
 
@@ -76,7 +76,7 @@ The company's About page lists:[^ref-3]
 [^ref-8]: [Phoenix Online Studios - Quest for Infamy](http://www.postudios.com/company/games/questforinfamy/index.php) - Release Date: July 10th, 2014, PC/Mac/Linux
 [^ref-11]: [Engadget - Moebius: Empire Rising out April 15 from Phoenix Online Publishing](https://www.engadget.com/2014-02-25-moebius-empire-rising-out-april-15-from-phoenix-online-publishi.html) - Jane Jensen partnership; 15 April release
 [^ref-15]: [Phoenix Online Studios - Projects](http://www.postudios.com/company/projects.php) - Lists Moebius, Quest for Infamy, The Last Door: Collector's Edition, Lost Civilization
-[^ref-16]: [Wikipedia - The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) - Activision allowed a free release on June 26, 2010; Episode 1 July 10, 2010
+[^ref-16]: [Wikipedia - The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) - Episode 1 released July 10, 2010
 [^ref-17]: [MacTech - Moebius: Empire Rising coming to the Mac April 15 (20 Feb 2014)](https://www.mactech.com/2014/02/20/moebius-empire-rising-coming-to-the-mac-april-15/) - Jensen's agreement with Phoenix Online Publishing, "the new independent publishing division of Phoenix Online Studios"
 [^ref-18]: [Gaming Nexus - Phoenix Online Publishing announces 2014 lineup (21 Feb 2014)](https://www.gamingnexus.com/News/32228/Phoenix-Online-Publishing-announces-2014-lineup2c-includes-spiritual-sequel-to-Gabriel-Knight) - Press release "SAN JOSE, California (February 20, 2014)" announcing the label
 [^ref-19]: [MobyGames - Cognition: An Erica Reed Thriller - Episode 1: The Hangman](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Windows/Mac 2012-10-30; published by Reverb Publishing, developed by Phoenix Online Studios
@@ -103,3 +103,4 @@ The company's About page lists:[^ref-3]
 [^ref-40]: [Steam - Bleeding Moons](https://store.steampowered.com/app/874060/) - Developer IAN Games; publisher Phoenix Online Publishing; 3 Sep 2020
 [^ref-41]: [Steam - Face Noir](https://store.steampowered.com/app/244690/) - Developer Mad Orange; publisher Phoenix Online Publishing; 17 Oct 2013
 [^ref-42]: [Steam - The Last Door - Collector's Edition](https://store.steampowered.com/app/284390/) - Developer The Game Kitchen; publisher Phoenix Online Publishing; 20 May 2014
+[^ref-43]: [Gamasutra - Activision To Allow King's Quest Fan Sequel (Leigh Alexander, June 28, 2010)](https://gamedeveloper.com/game-platforms/activision-to-allow-i-king-s-quest-i-fan-sequel) - Activision "has at last given the go-ahead" to Phoenix Online Studios; first episode set for July 10

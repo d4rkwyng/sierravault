@@ -12,8 +12,8 @@ protagonist: King Graham
 sierra_lineage: Fan Project
 last_updated: '2026-11-12'
 description: The Silver Lining (TSL) is an episodic fan-made adventure game based
-  on Sierra's beloved King's Quest series, developed and released in free download
-  format...
+  on Sierra's King's Quest series, released in four free episodes by Phoenix Online
+  Studios between 2010 and 2011.
 tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
@@ -73,7 +73,9 @@ True to its King's Quest heritage, The Silver Lining has Graham collect inventor
 
 ### Contemporary Reviews
 
-As a free fan-made game, The Silver Lining drew coverage from games outlets including Gamasutra and The A.V. Club, whose John Teti reviewed Episode 1 on July 26, 2010 and wrote of Phoenix's long struggle to win a license from Activision.[^ref-30] The first episode was met with both praise and disappointment, often in the same review. Most reviewers criticized the voice acting, the lack of puzzles and the short length, while reactions to the graphics and music were more mixed.[^ref-19] *PC PowerPlay* found the first three episodes "polished and entertaining" overall.[^ref-19] According to the King's Quest Omnipedia, Episode 1 had been downloaded about 23,000 times within nine days of release.[^ref-5]
+As a free fan-made game, The Silver Lining drew coverage from games outlets including Gamasutra, GamesRadar and The A.V. Club. The A.V. Club's John Teti reviewed Episode 1 on July 26, 2010 and wrote of Phoenix's long struggle to win a license from Activision.[^ref-30] GamesRadar's Joe Newman, writing in July 2010, called the first episode's story "adequate," found it about an hour long and "a glorified demo," and concluded that "it's pretty, it's free, and it has a ton of promise."[^ref-34] The first episode was met with both praise and disappointment, often in the same review. Most reviewers criticized the voice acting, the lack of puzzles and the short length, while reactions to the graphics and music were more mixed.[^ref-19] *PC PowerPlay* found the first three episodes "polished and entertaining" overall.[^ref-19] According to the King's Quest Omnipedia, Episode 1 had been downloaded about 23,000 times within nine days of release.[^ref-5]
+
+Phoenix's own site quotes King's Quest designer Roberta Williams: "The game is very true to the original series and features many of the storylines and characters, especially, of King's Quest VI. I found it beautiful to play. I, too, like many other fans, would like to see how this story unfolds!"[^ref-33]
 
 ### Modern Assessment
 
@@ -102,6 +104,7 @@ Vivendi Universal, which held the King's Quest rights at the time, sent the team
 - **Directed by:** César Bittar, Richard Flores
 - **Designed and Written by:** César Bittar, Katie Hallahan Rahhal
 - **Based on the King's Quest series by:** Roberta Williams
+- **Soundtrack:** Austin Haynes[^ref-33]
 
 ### Technical Achievements
 
@@ -164,17 +167,22 @@ After Episodes 3 and 4, many team members moved to paid work on the studio's sec
 
 The Silver Lining represents roughly a decade of volunteer effort to continue a beloved series. It never reached completion. On November 10, 2016 Phoenix released the free Haunted Castle Experience teaser and announced that Episode 5 "will be releasing in 2017"; that did not happen.[^ref-31] The last progress report on Phoenix's site, dated January 31, 2019, stated "No, this isn't a release date announcement. It's a progress report!"[^ref-32] The Omnipedia describes the project as on indefinite hold since 2021.[^ref-5] MTV News reported its 2005 rescue from Vivendi's cease-and-desist as "evidence that fan campaigns to save a scuttled project or canceled series sometimes do have happy endings."[^ref-23] Reviews of the released episodes were mixed.[^ref-19][^ref-18]
 
-## Purchase
-
-- [GOG Dreamlist – The Silver Lining](https://www.gog.com/dreamlist/game/the-silver-lining-2010)
-
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam (checked 2026-11-11)
+- [GOG Dreamlist – The Silver Lining](https://www.gog.com/dreamlist/game/the-silver-lining-2010)
 - Free fan game – never sold commercially[^ref-10][^ref-28]
 - [Phoenix Online Store – The Silver Lining, Episodes 1-4](https://store.postudios.com/products/the-silver-lining) – Free ($0.00); all four episodes in one installer[^ref-28]
 - [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Archive of the 2006 public demo RC1, its patch and the fan hintbook, not the episodes[^ref-2]
+
+## Related Games
+
+*The Silver Lining* is an unofficial fan continuation of Sierra's King's Quest. Its developer, [[Phoenix Online Studios]], went on to make *Cognition*,[^ref-19] and later launched the publishing label [[Phoenix Online Publishing]].
+
+**Phoenix Online Fan Game Timeline:**
+- **Previous:** N/A
+- **Next:** N/A (the studio's next game, [[2012 - Cognition - An Erica Reed Thriller]], is an original title)
 
 ## See Also
 
@@ -217,3 +225,5 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 [^ref-30]: [The A.V. Club – The Silver Lining: Episode 1 (John Teti, July 26, 2010)](https://avclub.com/the-silver-lining-episode-1-1798220989) – Cease-and-desists from Vivendi Games and Activision; "finally wrested a license from Activision this June"
 [^ref-31]: [Phoenix Online Studios blog – The Silver Lining Haunted Castle Experience available now, and Episode 5 coming in 2017 (Katie Hallahan, November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – Free PC teaser from Phoenix store; Mac, Linux and HTC Vive versions "coming soon"; Episode 5 "will be releasing in 2017"
 [^ref-32]: [Phoenix Online Studios blog – The Silver Lining updates (Katie Hallahan, January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) – "No, this isn't a release date announcement. It's a progress report!"; work on Episode 5 visuals, cloth simulation and puzzles
+[^ref-33]: [The Silver Lining official site (tsl-game.com, now postudios.com/company/games/thesilverlining)](https://www.tsl-game.com/) – Roberta Williams quote credited as "Game Designer and Creator of the King's Quest series"; "A gorgeous and sweeping soundtrack by Austin Haynes"
+[^ref-34]: [GamesRadar – We gave free, fan-made King's Quest 'tribute' a try - should you? (Joe Newman, July 2010)](https://www.gamesradar.com/we-gave-free-fan-made-kings-quest-tribute-a-try-should-you) – Episode 1 story "adequate"; "about a solid hour of play time"; "glorified demo"; "pretty, it's free, and it has a ton of promise"
