@@ -10,7 +10,7 @@ series: Casino Deluxe
 engine: Unknown
 protagonist: N/A (Player)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Casino De Luxe is a casino gambling simulation game developed and published
   by Impressions Games in 1995 for Windows 3.x. Conceived by Impressions founder David
   Lester, it collects seven casino games in a single SVGA virtual casino.
@@ -18,7 +18,7 @@ tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ Computer Game Review gave the game 85/100 in its September 1995 issue, with revi
 
 Next Generation gave the game 3 out of 5 stars in its November 1995 issue: "Still, if you're into these games, this is one of the best around"[^ref-10].
 
-European publications were cooler. In Joystick's November 1995 issue, reviewer Moulinex dismissed casino games of this kind as hopelessly dated, giving it 50 for interest and 50 for technique[^ref-17]. Génération 4 gave 59% in November 1995[^ref-3]. German magazine PC Joker, reviewing it in April 1996, called the graphics more functional than glamorous and found the croupiers' comments quickly repetitive[^ref-19]; Wikipedia records PC Joker's score as 43%[^ref-3]. The Spanish magazine PC Top Player gave 61, summing up: "La banca te ha robado la diversión" ("The bank has robbed you of the fun")[^ref-21][^ref-3].
+European publications were cooler. In Joystick's November 1995 issue, reviewer Moulinex dismissed casino games of this kind as hopelessly dated, giving it 50 for interest and 50 for technique[^ref-17]. Génération 4 gave 59% in November 1995[^ref-3]. German magazine PC Joker, reviewing it in April 1996, called the graphics more functional than glamorous and found the croupiers' comments quickly repetitive[^ref-19]; Wikipedia records PC Joker's score as 43%[^ref-3]. Computer Gaming World Spain's March 1996 review ran under the headline "Un juego de niños... Casino de Luxe" ("A children's game...")[^ref-20]. The Spanish magazine PC Top Player gave 61, summing up: "La banca te ha robado la diversión" ("The bank has robbed you of the fun")[^ref-21][^ref-3].
 
 ### Modern Assessment
 
@@ -91,7 +91,7 @@ The game holds a MobyGames critic average of 58% based on 5 ratings, and a playe
 - **MobyGames:** 58% critics (5 ratings) / 2.2/5 players (3 ratings)[^ref-2]
 - **My Abandonware:** 4.92/5[^ref-11]
 - **GameFAQs:** "Great" (4 ratings)[^ref-5]
-- **Metacritic:** TBD (no scores available)[^ref-6]
+- **Metacritic:** no critic scores listed[^ref-6]
 
 ## Development
 
@@ -170,6 +170,7 @@ No information about cut content or removed features has been documented in avai
 |---------|------|----------|-------|
 | 1.0 | July 1995 | Windows 3.x | Initial retail release by Impressions Games[^ref-7] |
 | Sierra-branded editions | Late 1995–1996 | Windows 3.x | Sierra listed as publisher in France (Joystick, Nov 1995) and Germany (PC Joker, Apr 1996); in Sierra's Spring 1996 catalog[^ref-17][^ref-19][^ref-16] |
+| Grand Casino Deluxe | Unknown | Compilation | Listed by Sierra Chest among the compilations that include the game[^ref-7] |
 | Best of Sierra Nr. 7 | July/August 1998 | Windows | Included in compilation alongside 3-D Ultra Pinball[^ref-2][^ref-13] |
 
 ### Technical Issues
