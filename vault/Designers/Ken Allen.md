@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Westwood Studios", "Realtime Associates", "Electronic Arts", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ Over the following decade he worked for various studios, primarily as a producer
 
 In 2013, Allen launched a Kickstarter campaign for "Under the Half Dome", an album of new arrangements of his game music. It passed its $10,000 goal, raising $21,090 from 575 backers.[^ref-9][^ref-15] The album was never completed. In January 2016, about three years on, with roughly a third of it scored, Allen shelved the project, citing his SpaceVenture work and personal matters, and offered refunds to backers starting that February.[^ref-17] In a December 2025 update to backers he wrote that the project "ultimately didn't move forward, and refunds were provided to those who requested them."[^ref-26]
 
-In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released to Kickstarter backers in September 2022, with Allen credited for composition and audio production,[^ref-20] and the full public release on Steam followed on December 23, 2025.[^ref-29] In the same December 2025 update he said he had "recently completed and released the official SpaceVenture soundtrack", and in July 2026 he announced the SpaceVenture Original Soundtrack on digital marketplaces and Bandcamp.[^ref-26]
+In January 2013 Allen agreed to be the main composer for SpaceVenture.[^ref-10] He told The Grig Post at the time that he "hadn't composed music in 15 years".[^ref-10] SpaceVenture was released to Kickstarter backers in September 2022, with Allen credited for composition and audio production,[^ref-20] and the full public release on Steam followed on December 23, 2025.[^ref-29] In the same December 2025 update he said he had "recently completed and released the official SpaceVenture soundtrack", and in July 2026 he announced the SpaceVenture Original Soundtrack on digital marketplaces and Bandcamp.[^ref-26] The album is listed on his Bandcamp page, with a release date of July 14, 2026.[^ref-31]
 
 ## Notable Works
 
@@ -112,14 +112,14 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 ### Sierra On-Line (1989–1991)
 
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Music, Sound
-- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Music, Sound Programming
+- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Music, Sound Programming (release dates vary: the game page gives 1989, MobyGames gives 1990 for DOS)[^ref-18]
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Music (with Mark Seibert), Sound Effects
 - **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose SCI remake (SCI0, EGA)]] — Role: Music Arrangements, Sound Effects
 - 1991 — Roberta Williams' Mixed-Up Mother Goose (DOS, VGA/CD-ROM edition) — Role: Composer, Singer, Sound Effects[^ref-18]
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Composer
 - **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI)]] — Role: Composer, Sound Effects
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Composer
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Composer, Sound Effects (release dates vary across sources; MobyGames lists the DOS release as 1991, and a CD-ROM edition followed in 1992 with credits for music, sound and voice acting)[^ref-18]
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Composer
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Music, Sound Programming
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Synthesized Score & Sounds
@@ -127,7 +127,6 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 ### Tsunami Media & Freelance (1991–1994)
 
 - 1992 — Ringworld: Revenge of the Patriarch — Tsunami Media — Musical Score
-- **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (CD-ROM) — Company: Sierra On-Line, Role: Music, Sound
 - 1991 — Les Manley in: Lost in L.A. — Accolade — Music (MobyGames DOS 1991; VGMPF gives 1992)
 - 1992 — Road & Track Presents Grand Prix Unlimited — Accolade — Music
 - 1992 — Wacky Funsters! The Geekwad's Guide to Gaming — Tsunami Media — Music
@@ -140,6 +139,7 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 - 1993 — WarpSpeed (Genesis) — Accolade — Music
 - 1994 — Return to Ringworld — Tsunami Media — Designer, Director, Story, Musical Score
 - 1994 — Man Enough — Tsunami Media — Original Music
+- **1994** — [[1994 - Outpost|Outpost]] — Company: Sierra On-Line, Role: "Sierra Logo Fanfare"[^ref-30]
 
 ### Interplay, Parallax & Later Work (1994–2022)
 
@@ -191,3 +191,5 @@ Of hearing that Mark Crowe and Scott Murphy were reuniting to make SpaceVenture,
 [^ref-27]: [MobyGames - Wacky Funsters! The Geekwad's Guide to Gaming](https://www.mobygames.com/game/20210/wacky-funsters-the-geekwads-guide-to-gaming/) — MobyGames ID 20210, DOS 1992 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
 [^ref-28]: [MobyGames - Man Enough](https://www.mobygames.com/game/29122/man-enough/) — MobyGames ID 29122, DOS 1994 (read via the MobyGames API): developed and published by Tsunami Media, Inc.
 [^ref-29]: [Steam - SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Steam app 1374960; release date December 23, 2025 (read via the Steam appdetails API)
+[^ref-30]: [Xeen Music - Outpost 1 Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/outpost-1-official-soundtrack-sc-55) — Music by Neal Grandstaff and Mark Seibert, "except for 'Sierra Logo Fanfare' originally composed by Ken Allen"
+[^ref-31]: [Ken Allen - SpaceVenture Original Soundtrack (Bandcamp)](https://kenallen.bandcamp.com/album/spaceventure-original-soundtrack) — Album page on Allen's Bandcamp: released July 14, 2026
