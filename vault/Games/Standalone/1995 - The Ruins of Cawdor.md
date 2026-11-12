@@ -10,21 +10,21 @@ series: The Sierra Network MUD Trilogy
 engine: Shadow of Yserbius Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: The Ruins of Cawdor (1995) was the third and last graphical MUD from The Sierra Network / ImagiNation Network, a Macbeth-inspired dungeon game designed by Richard Aronson on the Shadow of Yserbius engine.
 tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The Ruins of Cawdor was the last of three graphical MUDs made for [[Sierra On-Line]]'s online service The Sierra Network, which later became The ImagiNation Network (INN).[^ref-1] It was released online in 1995, developed by Ybarra Productions and published by Sierra On-Line.[^ref-2] Richard Aronson designed it and co-programmed it.[^ref-3] It followed [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] and [[1993 - Fates of Twinion|The Fates of Twinion]] (1993).[^ref-7] It used the same engine as its predecessors, but it had a completely new plot based on William Shakespeare's *Macbeth*.[^ref-3]
 
-The game ran on the same engine as the earlier games. Players created a character from one of six guilds (thief, barbarian, cleric, knight, wizard or ranger) and explored the six floors of Castle Cawdor. Along the way they fought battles, solved puzzles, and found secret doors and magic items.[^ref-3][^ref-5] The French website Abandonware France described the game as "bourré de pièges, d'énigmes et de téléporteurs" (packed with traps, puzzles and teleporters). It judged Cawdor "nettement moins basique que les deux autres" (clearly less basic than the other two).[^ref-6]
+The game ran on the same engine as the earlier games. Players created a character from one of six guilds (thief, barbarian, cleric, knight, wizard or ranger) and explored the six floors of Castle Cawdor. Along the way they fought battles, solved puzzles, and found secret doors and magic items.[^ref-3][^ref-5] The French website Abandonware France described the game as "bourré de pièges, d'énigmes et de téléporteurs" (packed with traps, puzzles and teleporters). It added that Cawdor "semble nettement moins basique que les deux autres" (seems clearly less basic than the other two).[^ref-6]
 
-Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, and AOL discontinued the service by 1998.[^ref-30][^ref-31] Yserbius and Twinion were sold as offline boxed versions, but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6]
+Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, and AOL discontinued the service by 1998.[^ref-30][^ref-31] Yserbius and Twinion were sold as offline boxed versions, but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6][^ref-34]
 
 > [!info]- Game Info
 > **Developer:** Ybarra Productions[^ref-2]
@@ -76,7 +76,7 @@ Combat was turn-based and party-based.[^ref-5][^ref-12] The forum notes describe
 
 No contemporary review of The Ruins of Cawdor has been found. MobyGames lists no critic reviews.[^ref-3] We also searched the period *Computer Gaming World* issues held in our archive, and none of them mention Cawdor. The coverage that does survive is about its predecessors, which ran on the same engine.
 
-- **Shadow of Yserbius (May 1993):** Samuel Baker reviewed the online version in *Computer Gaming World*. He concluded that "those who possess the money would be well served to try out TSN and *Yserbius*."[^ref-26]
+- **Shadow of Yserbius (May 1993):** Samuel Baker wrote a feature article on the online version of *Yserbius* in *Computer Gaming World*. He concluded that "those who possess the money would be well served to try out TSN and *Yserbius*."[^ref-26]
 - **The 1994 offline boxed sets (February 1994):** Bernie Yee reviewed the boxed versions of *Yserbius* and *Twinion* for *CGW*. He was much cooler about them: "Playing *Yserbius* without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with."[^ref-27]
 - **Online Game of the Year (June 1994):** *CGW* named its finalists for On-Line Game of the Year. The ImagiNation Network's entry was "a new version of *Shadow of Yserbius: Fates of Twinion*". The award went to *Multi-Player BattleTech*.[^ref-25] This was the year before Cawdor's 1995 release, so Cawdor itself was not part of that nomination.
 
@@ -135,11 +135,11 @@ MobyGames lists the AIL / Miles Sound System as the game's sound engine.[^ref-3]
 |---------|------|----------|-------|
 | Online release | 1995 | DOS | Released on The ImagiNation Network[^ref-2] |
 | 1.1 | — | DOS | Version number of the preserved MS-DOS download at Games Nostalgia[^ref-19] |
-| Offline patch | 2006 | DOS | Patch that made the game playable offline[^ref-6] |
+| Offline patch | 17 Nov 2006 | DOS | Patch that made the game playable offline and opened class-gated areas to any class[^ref-6][^ref-34] |
 
 ### Technical Issues
 
-The Ruins of Cawdor depended on The ImagiNation Network. Unlike its two predecessors, it never had a solo or offline edition. It could not be played offline until it was patched in 2006.[^ref-1][^ref-6]
+The Ruins of Cawdor depended on The ImagiNation Network. Unlike its two predecessors, it never had a solo or offline edition. It could not be played offline until it was patched in 2006.[^ref-1][^ref-6] The patch's web page also says that areas which had required a member of a certain class in the party were opened to any class.[^ref-34]
 
 ### Easter Eggs and Trivia
 
@@ -161,7 +161,7 @@ Unlike *Yserbius* and *Twinion*, Cawdor never got an offline boxed edition.[^ref
 
 ### Fan Projects
 
-A patch released in 2006 made the game playable offline.[^ref-6]
+A patch made the game playable offline. The patch's web page lists the latest version of the patch as dated 17 November 2006 and says that areas which had required a member of a certain class in the party became accessible to any class.[^ref-6][^ref-34]
 
 The game has been preserved at MyAbandonware, ClassicReload and the Internet Archive.[^ref-16][^ref-1][^ref-18]
 
@@ -221,3 +221,4 @@ Cawdor was the last of the three graphical MUDs from Sierra's online network.[^r
 [^ref-31]: [Wikipedia – The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) – "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
 [^ref-32]: [Raph Koster – The Online World Timeline](https://www.raphkoster.com/games/the-online-world-timeline/) – entry for The Ruins of Cawdor quotes Aronson: two pathways per floor, Wyrd Sisters final boss, Lady Macbeth penultimate, "an absurdly cheap game, and definitely made money"; also the Twinion code-fix passage Massively OP links to
 [^ref-33]: [Richard Aronson, Gamasutra blog profile (Wayback, 8 Dec 2019)](https://web.archive.org/web/20191208010547/https://www.gamasutra.com/blogs/RichardAronson/3096/) – "King's Quest V, where I voiced Cedric the Owl"; "author of 'Eric and the Gazebo'"
+[^ref-34]: [Yserbius patch site – Ruins of Cawdor (Wayback, 26 Oct 2020)](https://web.archive.org/web/20201026230709/https://sites.google.com/site/yserbius/roc) – page listed as the game's official site by MobyGames; "Ruins of Cawdor has been patched for offline play. In addition, areas accessible only when you have a member of a certain class in party are now accessible to any class. Latest version of the patch is here (2006/11/17 1730)"
