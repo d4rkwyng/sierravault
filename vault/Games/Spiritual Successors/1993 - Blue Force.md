@@ -40,7 +40,7 @@ Developed by Tsunami Media, Blue Force reunited several former Sierra contributo
 
 ## Story Summary
 
-Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was murdered along with Jake's mother[^ref-1][^ref-10]. Sources differ on dating: the police file printed on the box dates the double homicide to June 14, 1983, and the box text says "Ten years have passed" since the murder, which points to about 1993; Wikipedia gives 1984 for the murder and places the game in 1995[^ref-1][^ref-10]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
+Blue Force puts players in the role of Jake Ryan, whose father—also a police officer—was murdered along with Jake's mother[^ref-1][^ref-10]. Sources differ on dating: the police file printed on the box dates the double homicide to June 14, 1983, and the box text says "Ten years have passed" since the murder, which points to about 1993; Wikipedia gives 1984 for the murder and places the game in 1995[^ref-1][^ref-10]. Computer Gaming World's review noted that the game itself gives the murder date "variously" as 21 March 1983, 14 June 1983 and 16 May 1984[^ref-9]. The murder was never solved, and Jake's decision to join the Jackson Beach Police Department stems partly from a desire to follow in his father's footsteps and partly from a need to find answers[^ref-10]. From the game's box: "Ten years have passed since the unsolved murder of your parents, but threads of evidence still exist. Teamed with your father's partner, you begin to weave the all but forgotten strands together."[^ref-10]
 
 Jake graduates at the top of his academy class and joins the same department where his father served[^ref-1]. His first days on the job prove eventful, as he makes several arrests connected to a National Guard armory break-in[^ref-1][^ref-4]. Just as Jake begins connecting these crimes to his father's cold case, he's seriously injured in a motorcycle accident while on patrol[^ref-1].
 
@@ -50,7 +50,7 @@ After recovering, Jake's father's former partner Lyle Jamison offers him a posit
 
 ### Interface and Controls
 
-Blue Force employs a point-and-click interface accessed via a badge-shaped command menu activated by the right mouse button[^ref-3][^ref-4]. Common actions such as Move, Interact, Inspect, and Speak are presented as icons in a circular menu[^ref-4]. The Adventurers Guild's reviewer singled out this command wheel, noting that it "freezes the game and gives you an opportunity to make your selection," though it felt "a bit jarring at first"[^ref-12].
+Blue Force employs a point-and-click interface built around a badge-shaped ACTION MENU opened with the right mouse button; the manual lists Walk, Look, Touch and Talk, plus a Tsunami-logo action that opens a sub-menu of utility functions such as saving and restoring[^ref-26]. Electronic Games described the icons as arranged "around the perimeter of a police badge"[^ref-25]. Clicking a vehicle's ignition brings up a map for travelling between locations[^ref-4]. The Adventurers Guild's reviewer singled out this command wheel, noting that it "freezes the game and gives you an opportunity to make your selection," though it felt "a bit jarring at first"[^ref-12].
 
 The interface was built on Tsunami's proprietary TsAGE (Tsunami Adventure Game Engine), which powered multiple Tsunami adventure games including the Ringworld series[^ref-11]. The inventory is constantly displayed on the bottom of the screen, though this "does eat up a lot of real estate"[^ref-12].
 
@@ -90,6 +90,7 @@ In 1996, Computer Gaming World declared Blue Force the 37th-worst computer game 
 | PC Format | 1993 | Mixed | "Some good sequences" but too many issues[^ref-1] |
 | Electronic Games | — | 85% | Russ Ceccola's review[^ref-1][^ref-25] |
 | CGW Worst List | 1996 | #37 | Named 37th-worst computer game ever released[^ref-1][^ref-17] |
+| Adventure Classic Gaming | 2009 | 2/5 (Fair) | Davide Tomei, posted 5 April 2009: "short, linear, and predictable"[^ref-29] |
 
 ### Modern Assessment
 
@@ -109,6 +110,8 @@ Reddit's r/patientgamers community has discussed Blue Force nostalgically, with 
 | Hardcore Gaming 101 | 2008 | Positive | "A must for Police Quest fans"[^ref-3] |
 | The Adventurers Guild | 2023 | 37 (PISSED) | Critical of puzzles[^ref-12] |
 | My Abandonware | - | 4.35/5 (40 user votes) | Hosts Home of the Underdogs review: "Best game from... ex-Sierra employees"[^ref-8] |
+
+MobyGames lists a Moby Score of 6.3/10 from 27 player ratings[^ref-6].
 
 Despite the harsh critical reception, the game shipped 20,000 units in its first month, indicating commercial viability even as critics panned it[^ref-1][^ref-14].
 
@@ -141,12 +144,25 @@ Released to the public in June 1993, the game took over a year to program and wa
 - **Distribution:** Floppy disk and CD-ROM (CD includes interview with Jim Walls)[^ref-3]
 - **ScummVM Support:** Yes, via TsAGE engine support[^ref-11]
 
+### Technical Specifications
+
+- **Processor:** 386SX at 16 MHz or faster[^ref-26]; Computer Gaming World's review box lists a 386-16MHz or better[^ref-9]
+- **Operating system:** MS-DOS 5.0 or greater[^ref-26]
+- **Memory:** 640Kb, with 590,000 bytes available[^ref-26]
+- **Graphics:** VGA required; MCGA not supported[^ref-26][^ref-27]
+- **Storage:** hard disk with 10Mb available (20Kb for the CD-ROM version)[^ref-26]
+- **Input:** Microsoft-compatible mouse; 3.5" high-density disk drive for the floppy version[^ref-26]
+- **Sound:** Ad Lib, Pro Audio Spectrum, Roland MT-32/LAPC-1, Sound Blaster, or an external General MIDI device[^ref-27]
+- **Copy protection:** none[^ref-9][^ref-27]
+- **Price:** $69.95 (Computer Gaming World, November 1993)[^ref-9]
+
 ### Version History
 
 | Version | Year | Notes |
 |---------|------|-------|
 | Floppy disk | 1993 | Released June 1993[^ref-14][^ref-3] |
-| CD-ROM | 1993 | Same game plus an audio interview with Jim Walls; the manual says it must be installed to the hard drive[^ref-3][^ref-26] |
+| CD-ROM | 1993 | Same game plus an audio interview with Jim Walls; the manual allows play directly from the CD, but the game must be installed to the hard drive to use Save Game[^ref-3][^ref-26]; the CD adds a stereo soundtrack[^ref-29] |
+| Floppy disk (later release) | 1993 | Includes 2 patch disks[^ref-29] |
 
 ## Legacy
 
@@ -221,3 +237,4 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [^ref-26]: [Blue Force (1993) Manual - Internet Archive](https://archive.org/details/00308-blue-force-1993-manual) — Printed manual: "(c) Tsunami Media, Inc., 1993"; credits list (Game Programming, Art Direction, Background Renderings, TsAGE Developed By)
 [^ref-27]: [Tsunami Media - Blue Force product page (Archived January 1998)](https://web.archive.org/web/19980122185337/http://www.tsunamimedia.com:80/blue.htm) — Publisher line "Tsunami Media, Inc., Oakhurst, CA"; "Ten years have passed since the brutal, unsolved murders"
 [^ref-28]: [Precinct project site (Wayback, 11 Oct 2013)](https://web.archive.org/web/20131011002353/http://fund.precinctgame.com/) — "Goal $400,000 3% $11,961 Raised 431 Supporters Project Closed"
+[^ref-29]: [Adventure Classic Gaming - Blue Force review](http://www.adventureclassicgaming.com/index.php/site/reviews/346/) — Davide Tomei, first posted 5 April 2009 (updated 17 July 2010); Overall 2 of 5 (Fair); CD stereo soundtrack; later floppy release with 2 patch disks
