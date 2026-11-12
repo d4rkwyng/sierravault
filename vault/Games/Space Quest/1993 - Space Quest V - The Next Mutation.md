@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5, 1993 for MS-DOS.'
@@ -18,14 +18,14 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-18].
 
 Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-1][^ref-18].
 
-Set within a spoof of the Star Trek franchise, the story focuses on Roger Wilco finally achieving his dream of becoming a star captain, only to become involved in saving the galaxy from a deadly threat posed by a man-made virus[^ref-5][^ref-18].
+Set within a spoof of the Star Trek franchise, the story focuses on Roger Wilco finally achieving his dream of becoming a star captain, only to become involved in saving the galaxy from a deadly threat posed by a man-made virus[^ref-18].
 
 The game was released on floppy disk only; early plans for a CD-ROM "talkie" version were cancelled because Dynamix was in financial trouble and eager to release new games rather than work on enhanced versions of already-released titles[^ref-1][^ref-28].
 
@@ -58,6 +58,7 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 ### Interface and Controls
 - Uses a point-and-click icon interface like Space Quest IV's, with an added command version of the Talk icon for giving orders; CGW found the new black-and-white icons hard to see against some backgrounds[^ref-17]
 - The game features a command bridge where Roger can give orders to his crew[^ref-5]
+- The Smell and Taste icons of earlier games were dropped and an Order icon was added. It is used only while Roger sits in the Command Chair of the Eureka, with options such as Raise Shields, Hail Planet and Standard Orbit, and is separate from the Talk icon, which is used to ask questions. Adventure Gamers called this "the first Space Quest with something resembling a dialogue tree, though it never actually branches out into different options"[^ref-31]
 - From the captain's chair Roger can issue commands such as "Cloak ship," "Fire," and "Hail planet"[^ref-17]
 - No voice acting—the game was released on floppy disk only[^ref-1][^ref-18]
 
@@ -71,6 +72,7 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 - The game features extensive parody of Star Trek, including crew dynamics and ship operations[^ref-2][^ref-18]
 - On garbage runs Roger picks up a facehugger creature and takes it on as a pet[^ref-1]
 - Features product placement for Sprint, appearing in communications transmissions, on a billboard in the Spacebar, and in the ending credits[^ref-1]
+- Instead of action-oriented minigames, the player is challenged to a game of Battle Cruiser, a clone of the board game Battleship with three boards operating at once, different shapes for the ships, and limited access to a probe that reveals a 5x5 area of the board. Losing it is safe: the rest of the game progresses the same way[^ref-31]
 
 ## Reception
 
@@ -81,6 +83,8 @@ The game was welcomed by critics as a fun addition to the series, although it di
 
 ### Modern Assessment
 In a September 2010 review, Adventure Gamers' Dante Kleinberg rated the game "Very good" (4 stars), calling it "an impressive attempt to move the series into the next generation" and listing "Best story and characters of the series so far" among its strengths[^ref-31]. The review praised the "Colorful and interesting locations" and "Variety of well-crafted puzzles," while listing the lack of voice acting, "One of the worst mazes ever" and "Not as funny as previous Space Quest titles" as negatives[^ref-31]. Kleinberg estimated that most players would need six to eight hours to finish, calling it "the lengthiest in the series so far"[^ref-31].
+
+Looking back in a December 2002 Adventure Gamers interview, Mark Crowe, asked which Space Quest game he considered the weakest, answered: "The weakest, I'm ashamed to say, would have to be SQ5 (the last one I was involved with). We were just out of original ideas and I relied too heavily on Star Trek:The Next Generation spoofs."[^ref-41]
 
 The game holds a MobyScore of 8.1 from 90 player ratings[^ref-5]. On GOG, the Space Quest 4+5+6 collection has a 4.6/5 rating (38 reviews)[^ref-6]. HowLongToBeat reports the main story takes approximately 6 hours to complete[^ref-8].
 
@@ -107,6 +111,36 @@ According to the official hint book's development history, a sound and music spe
 
 A CD-ROM version with voice acting was planned and announced in the official hint book, but the project was cancelled[^ref-4][^ref-28]. According to SQ5 artist Sean Murphy: "I think that politics and the fact that Dynamix was going through a very rough financial period at that time prevented us from doing any supplemental work on it... I suspect that the management was eager to move on to another 'big profit' project instead of spending time and resources for a 'gold' version of an already-released game"[^ref-28].
 
+### Production
+**Principal credits:**[^ref-2]
+
+| Role | Credit |
+|------|--------|
+| Executive Producer | Ken Williams |
+| Designer / Producer / Director | Mark Crowe |
+| Assistant Director | David Selle |
+| Lead Programmer | David Sandgathe |
+| Programmers | Hugh Diedrichs, Nancy Hamilton, Joseph Nelson, Geoff Rosser |
+| Art Director | Shawn Sharp |
+| Lead Production Artist | Mike Jahnke |
+| Artists | Kerrie Abbott, Ron Clayborn, Rhonda Conley, Jarrett Jester, Sean Murphy |
+| Original Score / Sound Effects | Timothy Steven Clarke, Christopher Stevens |
+| QA Manager | Forrest Walker |
+| Lead Tester | Gregg Giles |
+
+The manual's contributing writers were Mark Crowe, Bob Lindstrom, Josh Mandel, David Selle, Shawn Sharp and Barbara Ray[^ref-2]. The quality assurance team was given another four months to test the game[^ref-4].
+
+### Technical Specifications
+Sierra Help lists the game's original requirements as[^ref-26]:
+- MS-DOS 5.0 or greater
+- 286 or better, 640 KB RAM
+- 8 MB of hard drive space minimum
+- VGA graphics and a mouse
+- Sound support for Ad-Lib, SoundBlaster, MT-32 or Sound Source
+
+### Cut Content
+- **CD-ROM "talkie" version:** a CD-ROM version with voice acting was planned and announced in the official hint book, but it was cancelled[^ref-4][^ref-28]
+
 ### Technical Achievements
 - Developed using Sierra Creative Interpreter 1.1 (SCI1.1)[^ref-4]
 - Over 200 storyboard sketches and nearly 100 backgrounds[^ref-3][^ref-4]
@@ -127,6 +161,8 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 | Steam | September 1, 2006 | Windows | Space Quest Collection[^ref-9] |
 | GOG | February 11, 2010 | Windows (ScummVM) | Space Quest 4+5+6[^ref-6][^ref-12] |
 | ScummVM | 1.2.0+ | Multi-platform | Full compatibility added[^ref-36] |
+
+**Beta version 0.028:** SpaceQuest.net notes that some DLL files are included only with beta version 0.028, suggesting Dynamix was working on Windows support, and that the file SCIWV.EXE is actually a ZIP file which, renamed to SCIWV.ZIP and extracted, yields an EXE-file that runs under Windows only[^ref-28]. The ScummVM wiki lists the debug-enabled reviewer's copy as dated October 22, 1992[^ref-40]
 
 **SCI Interpreter:**[^ref-21]
 - Engine: Sierra Creative Interpreter 1.1 (SCI1.1)
@@ -234,11 +270,12 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – development stories, behind-the-scenes[^ref-28]
 - [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – character appearances, references[^ref-29]
 - [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – continuity notes[^ref-30]
-- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP, 11 MB, 2,256 screenshots)
+- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP, 11 MB, 2,256 screenshots)[^ref-42]
 - [Adventure Gamers – Space Quest V review (archived)](https://web.archive.org/web/20191214083813/https://adventuregamers.com/articles/view/18398) – Dante Kleinberg review, 2010[^ref-31]
 
 ## See Also
 
+- [[Space Quest Series]]
 - [[1986 - Space Quest - The Sarien Encounter]]
 - [[1987 - Space Quest II - Vohaul's Revenge]]
 - [[1989 - Space Quest III - The Pirates of Pestulon]]
@@ -282,3 +319,5 @@ This game has been included in the following collections:
 [^ref-38]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – Josh Mandel designed the majority of SQ6, left before completion; Sierra asked Scott Murphy to complete it
 [^ref-39]: [Set Side B – Space Quest Secrets](https://setsideb.com/space-quest-secrets/) – summary of Space Quest Historian's video: SQ5 aptitude test last-choice answers, end-game second chance
 [^ref-40]: [ScummVM Wiki – Sierra Game Versions (archived May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI1.1 interpreter 1.001.068: "Space Quest V 1.03" and "Space Quest V 1.04 (floppies: 1.01) 1993-01-05" (build date, not release date)
+[^ref-41]: [Adventure Gamers – Mark Crowe interview (Wayback Machine, June 2025 copy)](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) – AG Staff, December 19, 2002; Crowe names SQ4 the strongest and SQ5 the weakest Space Quest
+[^ref-42]: [Guys From Andromeda – Screenshot Walkthroughs: Space Quest Games](http://guysfromandromeda.com/screenshot-walkthroughs-space-quest-games/) – lists "Space Quest 5 Screenshot Walkthrough (.zip file download)"
