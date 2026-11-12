@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
   and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
   and Casino modes, and Internet play via the Sierra Internet Gaming System.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Internet play required a patch: InterAction's Summer 1996 issue told owners to d
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot (Tal Blevins, 1 Aug 1996) | 7.8/10 | "Sierra has once again released an addictive, economical card game"[^ref-4] |
-| World Village – Gamer's Zone (Robert Coffey) | 4/5 | "All this for just $15? It's a real bargain."[^ref-25][^ref-27] |
+| World Village – Gamer's Zone (Robert Coffey) | Scorecard: Fun Factor 4, Graphics 3, Sound 4, Interface 4, Replayability 5; overall shown as four globe icons | "All this for just $15? It's a real bargain."[^ref-25][^ref-27] |
 | PC Games (Barry Brenesal, Oct 1996) | Grade C (as listed by Videogame Advisor) | "a decent value-priced blackjack simulation devoid of excitement"[^ref-38][^ref-40] |
 | Game Informer (#41, Sep 1996) | 6.25 (no scale stated) | "Blackjack with lots of options. The animated players are obnoxious."[^ref-39] |
 | Game Revolution | 75/100 | Joint review of two Hoyle games ("offering two well-planned games"), as listed on MobyGames[^ref-25] |
@@ -143,6 +143,10 @@ Sierra fans have debated how far the later Hoyle line belongs to "classic" Sierr
 ### Corporate Changes
 
 In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. GameSpot's archived copy carries a 2006 date stamp, but the reorganization was announced when Dynamix closed on 14 August 2001[^ref-32].
+
+### Collections
+
+Hoyle Blackjack is listed as included in the On-Line Games Collection Series[^ref-33].
 
 ### Preservation and Availability
 
