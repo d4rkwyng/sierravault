@@ -6,11 +6,11 @@ defunct: 1999
 headquarters: "Seattle area (Renton from 1982)"
 notable_games: ["Spirit of Excalibur", "Thexder 95", "Birthright: The Gorgon's Alliance", "Conan: The Cimmerian", "Diablo: Hellfire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 # Synergistic Software
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -22,9 +22,9 @@ Sierra On-Line acquired Synergistic in 1996, after the studio had worked for Sie
 
 ### Founding and Early Years
 
-Bob Clardy graduated from Rice University in 1974 and worked as an electrical engineer for Boeing at the Johnson Space Center. He moved to Seattle with Ann in 1977.[^ref-18][^ref-23] In 1978 he bought an Apple II and began reworking *Dragon Maze*, a BASIC program printed in the Apple II reference manual. That work became Synergistic's first commercial game, *Dungeon Campaign* (1978), which was followed by *Wilderness Campaign* (1979).[^ref-18][^ref-21] Polygon notes that *Dungeon Campaign* came out three years before *Rogue*, making it one of the first commercial "roguelikes".[^ref-21] The two games were later expanded into *Odyssey: The Compleat Apventure* (1980).[^ref-18][^ref-32]
+Bob Clardy graduated from Rice University in 1974 and worked as an electrical engineer for Boeing at the Johnson Space Center. He moved to Seattle in 1977.[^ref-18][^ref-23] In 1978 he bought an Apple II and began reworking *Dragon Maze*, a BASIC program printed in the Apple II reference manual. That work became Synergistic's first commercial game, *Dungeon Campaign* (1978), which was followed by *Wilderness Campaign* (1979).[^ref-18][^ref-21] Polygon notes that *Dungeon Campaign* came out three years before *Rogue*, making it one of the first commercial "roguelikes".[^ref-21] The two games were later expanded into *Odyssey: The Compleat Apventure* (1980).[^ref-18][^ref-32]
 
-Softalk's 1982 profile of the company records that "It was Ann's father who came up with Synergistic."[^ref-32] Besides games, Synergistic sold business software, including a word processor, the graphics utility *Higher Graphics* and *The Modifiable Database*.[^ref-18][^ref-32] It hired its first full-time employee, programmer Mike Branham, in March 1981. The same year it moved out of the Clardys' basement into an office, and by 1982 it was based in Renton, Washington.[^ref-32] A.P.P.L.E. has since republished manuals for around twenty of the early Apple II and Atari 800 games in *Synergistic Software: The Early Games*.[^ref-5][^ref-14][^ref-17]
+Besides games, Synergistic sold business software, including a word processor, the graphics utility *Higher Graphics* and *The Modifiable Database*.[^ref-18][^ref-32] It hired its first full-time employee, programmer Mike Branham, in March 1981. The same year it moved out of the Clardys' basement into an office, and by 1982 it was based in Renton, Washington.[^ref-32] A.P.P.L.E. has since republished manuals for around twenty of the early Apple II and Atari 800 games in *Synergistic Software: The Early Games*.[^ref-5][^ref-14][^ref-17]
 
 ### Contract Work and the World Builder Games
 
@@ -68,7 +68,7 @@ Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published i
 
 ## Key People
 
-Bob and Ann Dickens Clardy founded the company together and jointly developed and marketed its first games.[^ref-18][^ref-21] Softalk's 1982 profile describes Ann and Bob as owning and operating the company. Bob's younger brother Will Clardy joined late in 1981 to handle marketing and advertising.[^ref-32] Bob Clardy directed *Spirit of Excalibur* and co-designed *Birthright: The Gorgon's Alliance*.[^ref-24][^ref-29]
+Bob and Ann Dickens Clardy founded the company together and jointly developed and marketed its first games.[^ref-18][^ref-21] Softalk's 1982 profile describes Ann and Bob as owning and operating the company. Will Clardy joined late in 1981 to handle marketing and advertising.[^ref-32] Bob Clardy directed *Spirit of Excalibur* and co-designed *Birthright: The Gorgon's Alliance*.[^ref-24][^ref-29]
 
 ## Legacy
 
@@ -125,16 +125,16 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 [^ref-29]: [Wikipedia - Birthright: The Gorgon's Alliance](https://en.wikipedia.org/wiki/Birthright:_The_Gorgon%27s_Alliance) — Synergistic/Sierra; based on TSR's Birthright D&D setting; NA release July 31, 1997; designers incl. Robert C. Clardy; gameplay
 [^ref-30]: [Wikipedia - Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) — Expansion developed by Synergistic Software, a Sierra division, published by Sierra On-Line in 1997
 [^ref-31]: [Wikipedia - Thexder 95](https://en.wikipedia.org/wiki/Thexder_95) — Synergistic/Sierra, 1995; remake of the first Thexder for Windows 95
-[^ref-32]: [David Hunter, "An Odyssey to Apventure", Softalk vol. 2 no. 9 (May 1982), pp. 42–46](https://archive.org/details/softalkv2n09may1982/page/42/mode/2up) — Company profile: Ann's father named Synergistic; first employee Mike Branham (March 1981); office move; Will Clardy; Renton
+[^ref-32]: [David Hunter, "An Odyssey to Apventure", Softalk vol. 2 no. 9 (May 1982), pp. 42–46](https://archive.org/details/softalkv2n09may1982/page/42/mode/2up) — Company profile: first employee Mike Branham (March 1981); office move; Will Clardy; Renton
 [^ref-33]: [CUC International Form S-4 / Sierra proxy statement, June 1996 (SEC EDGAR, Wayback 2018)](https://web.archive.org/web/20180903215537/https://www.sec.gov/Archives/edgar/data/723612/0000950112-96-002113.txt) — "Agreement and Plan of Merger dated as of February 19, 1996"; Sierra stockholders' meeting July 24, 1996; FY1996 mergers with Pixellite, Software Inspiration, Green Thumb, Arion and Papyrus (no Synergistic)
 [^ref-34]: [MobyGames - Robert C. Clardy (Wayback, October 2026)](https://web.archive.org/web/20261004111350/https://www.mobygames.com/person/15401/robert-c-clardy/) — Clardy's own biography dating Synergistic's start to June 1979; credits incl. The Beverly Hillbillies (1993, Director)
 [^ref-35]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Sierra's acquisition closed on July 24, 1996"
 [^ref-36]: [InterAction, Holiday 1996 (archive.org)](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996) — "Bob Clardy, president of Synergistic Software, the newest member of the Sierra family"
-[^ref-37]: [MobyGames - The Beverly Hillbillies](https://www.mobygames.com/game/3291/the-beverly-hillbillies/) — Game 3291 (API-verified): DOS release developed by Synergistic Software, published by Capstone Software
+[^ref-37]: [MobyGames - The Beverly Hillbillies](https://www.mobygames.com/game/3291/the-beverly-hillbillies/) — Game 3291: DOS release developed by Synergistic Software, published by Capstone Software
 [^ref-38]: [CNNfn – Sierra Sports recalls Football Pro 99 (January 21, 1999, Wayback)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) — Sierra recalled NFL Football Pro '99, "which shipped to retailers just four weeks ago"
-[^ref-39]: [MobyGames - J.R.R. Tolkien's War in Middle Earth](https://www.mobygames.com/game/1477/jrr-tolkiens-war-in-middle-earth/) — Game 1477 (read via the MobyGames API): 1989 releases for DOS, Amiga, Atari ST and Apple IIgs; developed by Synergistic Software, published by Melbourne House
-[^ref-40]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) — Game 49 (read via the MobyGames API): Apple II (1987), Apple IIgs (1987-09) and TRS-80 CoCo (1988) releases published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
-[^ref-41]: [MobyGames - Silpheed](https://www.mobygames.com/game/167/silpheed/) — Game 167 (read via the MobyGames API): TRS-80 CoCo release (1988) published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
-[^ref-42]: [MobyGames - Laser Surgeon: The Microscopic Mission](https://www.mobygames.com/game/9954/laser-surgeon-the-microscopic-mission/) — Game 9954 (read via the MobyGames API): DOS release (1987) "Developed by" Synergistic Software, Inc., "Published by" Activision; also a TRS-80 CoCo version; genres Educational, Simulation
-[^ref-43]: [MobyGames - Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) — Game 10134 (read via the MobyGames API): SNES release (June 1995) developed by Synergistic Software, published by Cybersoft
+[^ref-39]: [MobyGames - J.R.R. Tolkien's War in Middle Earth](https://www.mobygames.com/game/1477/jrr-tolkiens-war-in-middle-earth/) — Game 1477: 1989 releases for DOS, Amiga, Atari ST and Apple IIgs; developed by Synergistic Software, published by Melbourne House
+[^ref-40]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) — Game 49: Apple II (1987), Apple IIgs (1987-09) and TRS-80 CoCo (1988) releases published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
+[^ref-41]: [MobyGames - Silpheed](https://www.mobygames.com/game/167/silpheed/) — Game 167: TRS-80 CoCo release (1988) published by Sierra On-Line, developed by Game Arts, "Ported by" Synergistic Software
+[^ref-42]: [MobyGames - Laser Surgeon: The Microscopic Mission](https://www.mobygames.com/game/9954/laser-surgeon-the-microscopic-mission/) — Game 9954: DOS release (1987) "Developed by" Synergistic Software, Inc., "Published by" Activision; also a TRS-80 CoCo version; genres Educational, Simulation
+[^ref-43]: [MobyGames - Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) — Game 10134: SNES release (June 1995) developed by Synergistic Software, published by Cybersoft
 [^ref-44]: [Wikipedia - Air Cavalry](https://en.wikipedia.org/wiki/Air_Cavalry) — Flight simulation for the Super NES developed by Synergistic Software; released by Cybersoft and GameTek in 1995
