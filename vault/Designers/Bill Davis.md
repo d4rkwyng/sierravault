@@ -3,13 +3,13 @@ title: "Bill Davis"
 type: designer
 birth_year: null
 death_year: null
-notable_games: ["King's Quest V", "Space Quest IV", "Jones in the Fast Lane", "Obsidian"]
+notable_games: ["King's Quest V", "Space Quest IV", "Jones in the Fast Lane", "Slater & Charlie Go Camping", "Obsidian"]
 companies: ["Sierra On-Line", "Rocket Science Games", "Mother Productions", "iWin"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Bill Davis
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -51,7 +51,7 @@ Davis then worked as a freelancer before opening Mother Productions, an LA-based
 
 In 2009–2011 he was credited as art director on several of iWin's Jewel Quest games, including Jewel Quest Mysteries: Trail of the Midnight Heart (2009), Jewel Quest IV: Heritage (2009) and Jewel Quest Mysteries: The Seventh Gate (2011), and as creative director on Jewel Quest: The Sapphire Dragon (2011).[^ref-18][^ref-11]
 
-He also paints under the name Trowzers Akimbo, often on location in Yosemite National Park, and works from a home studio in Oakhurst, California.[^ref-12]
+He also paints under the name Trowzers Akimbo, often on location in Yosemite National Park, and works from Oakhurst, California.[^ref-12]
 
 ## Notable Works
 
@@ -69,7 +69,7 @@ Davis is credited as Creative Director on [[1991 - Space Quest IV - Roger Wilco 
 
 ### Pepper's Adventures in Time (1993)
 
-The Digital Antiquarian says the original proposer of [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] was Davis rather than one of Sierra's regular designers: his proposal was a series called "Twisty History", in which children would protect history from the inventor of a time machine. Because Davis "wasn't himself a designer", the first game became a collaboration among the design team, and the star, Pepper Pumpernickel, was "sketched by Bill Davis and filled in by the design team".[^ref-22] MobyGames lists him for "Original Concept".[^ref-11]
+The Digital Antiquarian says the original proposer of [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] was Davis rather than one of Sierra's regular designers: his proposal was a series called "Twisty History", in which children would protect history from the inventor of a time machine. Because Davis "wasn't himself a designer", the first game became a collaboration among the design team, and the star, Pepper Pumpernickel, was "sketched by Bill Davis and filled in by the design team".[^ref-22] MobyGames lists him for "Original Concept".[^ref-11] InterAction magazine's Fall 1992 issue likewise says "The original concept for Twisty History was created by Bill Davis."[^ref-25]
 
 ### Slater & Charlie Go Camping (1993)
 
@@ -78,6 +78,10 @@ On [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]], Davis is 
 ### Obsidian (1997)
 
 At Rocket Science Games, Davis was studio creative director on Obsidian.[^ref-11]
+
+## Design Philosophy
+
+Davis brought a storyboard method to Sierra: the design document was taken to storyboard, drawn in pencil on paper, so that the designer, art designer, lead programmer and music director could see the whole game before any computer work began.[^ref-8] He encouraged a more consistent art style within each series,[^ref-15] and his cartoon treatment of Larry in the 1991 VGA remake of Leisure Suit Larry came out of a debate over video-captured characters.[^ref-10] He also introduced the role of Art Director, giving one person oversight of each game's art.[^ref-15] Jimmy Maher's Digital Antiquarian history is more critical, arguing that the resulting "rigidly formulated Hollywood-style production pipeline" isolated artists from programmers and designers.[^ref-21]
 
 ## Legacy
 
@@ -92,12 +96,12 @@ Roles follow MobyGames' credit wording.[^ref-11] MobyGames counts 36 credits for
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Creative Director
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Creative Director
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Creative Director; voice of the Hermit
+- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Creative Director (MobyGames dates it 1991)
 - **1991** — Mixed-Up Mother Goose (VGA/CD) — Role: Creative Director; character voice (CD-ROM)[^ref-20]
 - **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]] — Role: Creative Director
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Creative Director
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Creative Director
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Creative Director
-- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Creative Director
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Creative Director
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Creative Director
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Creative Director
@@ -156,3 +160,4 @@ Other people named Bill or William Davis appear in game credits. MobyGames lists
 [^ref-22]: [The Digital Antiquarian - The Sierra Discovery Adventures (2018)](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Davis proposed "Twisty History"; Pepper Pumpernickel "sketched by Bill Davis"
 [^ref-23]: [Adventure Classic Gaming - Scott Murphy interview](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) – Murphy's account of the Space Quest IV point-and-click decision
 [^ref-24]: [MobyGames - Bill Davis Jr. (Wayback, December 2023)](https://web.archive.org/web/20231227165721/https://www.mobygames.com/person/285807/bill-davis-jr/) – Separate MobyGames entry (ID 285807) with QA credits on EcoQuest, Quest for Glory III and King's Quest VII
+[^ref-25]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "The original concept for Twisty History was created by Bill Davis"; Lockjaw in the earliest drafts
