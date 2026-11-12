@@ -8,9 +8,9 @@ genre: Simulation
 platforms: [DOS]
 series: Standalone
 engine: Proprietary (DOS)
-protagonist: USS Los Angeles Class Submarine Commander
+protagonist: Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
   developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS, putting
   the player in command of a Los Angeles Class 688I nuclear-powered attack submarine.'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The game's credits give special thanks to the officers and crew of the USS Pogy 
 > **Developer:** Software Sorcery[^ref-1]
 > **Designer:** Jim Frantz, Dan Verwys, Brian Smith[^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Proprietary
+> **Engine:** Proprietary (DOS)
 > **Platforms:** DOS (installs and runs under Windows 95)[^ref-1][^ref-9]
 > **Release Year:** 1995
 > **Series:** Standalone
@@ -84,13 +84,15 @@ Missions follow a realistic attack flow: detection and classification, target re
 
 Fast Attack received a polarized reception. Critics praised its realism and criticized its stability and its time limits.[^ref-9][^ref-14][^ref-15]
 
-**Computer Gaming World** (June 1996, Kevin Turner, "Crash Dive") gave it three stars out of five. Turner praised the "nicely simulated detection systems, and a good variety of realistic missions." He criticized the fixed mission time limits, the substandard torpedo control, crash bugs on some systems and the inability to save during a mission.[^ref-9]
+**Computer Gaming World** (June 1996, Kevin Turner, "Crash Dive") gave it three stars out of five (MobyGames records the score as 60%).[^ref-20] Turner praised the "nicely simulated detection systems, and a good variety of realistic missions." He criticized the fixed mission time limits, the substandard torpedo control, crash bugs on some systems and the inability to save during a mission.[^ref-9]
 
 **PC Player** (Germany, May 1996) was negative. Heinrich Lenhardt gave it two stars, opening with "Ich finde Atom-U-Boote schlichtweg öde" ("I find nuclear subs simply dull"). He said Electronic Arts' Seawolf fans were its target audience and that he preferred Aces of the Deep.[^ref-14]
 
 **Joystick** (France, issue 70) was enthusiastic. It scored the game 90% for interest and 85% for technique, praised "un réalisme jamais égalé" ("realism never equalled"), and preferred it to SSI's Silent Hunter for its tutorial mode and number of missions. It also warned that the game was far from accessible to everyone.[^ref-15]
 
 **SUBSIM** awarded 79 out of 100 as released and 87 once patched.[^ref-4] Reviewer Neal Stevens wrote that among earlier nuclear sub sims, "none holds a candle to the tense action and rigorous pacing of Fast Attack," and that "the measure of realism in Fast Attack is unmatched."[^ref-4] He also called it "a troubled genius." His 1996 summary concluded: "Forty dollars is too much to pay for a simulation that won't work reliably, even if the concept and execution is superb." By his own account, the program "crashed on me one out of every three games."[^ref-4]
+
+**Other contemporary scores.** MobyGames' critic list records normalised scores of 82% from PC Games (Germany), 80% from High Score, 79% from Power Play (Germany), 78% from PC Joker (Germany), 70% from PC Player (Brazil) and 67% from Génération 4 (France).[^ref-20] Gamezilla also scored it 78, calling it "pure strategy simulation, and strictly for hardcore fans of the same."[^ref-24] In *Wargamers Monthly* (May 1996), Doug Todd's review "Denizens of the Deep" carried a rating of three and a half stars; he wrote that "This game is not going to be for everyone" but that it "will probably do well among hard core computer simulationists like myself."[^ref-25]
 
 ### Later Assessment
 
@@ -250,7 +252,9 @@ Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in 
 [^ref-17]: [InterAction Spring 1996 – Order Direct From Sierra](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n95) – $49.95 catalog listing, "DOS CD" (asterisk: works with Windows 95), product description
 [^ref-18]: [InterAction Holiday 1996 – SierraOriginals offer](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996/page/n110) – Fast Attack listed among SierraOriginals titles
 [^ref-19]: [Computer Gaming World #122 (September 1994) – show report](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n34) – Software Sorcery's AEGIS follow-up, "Fast Attack Boats"
-[^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate critic and player scores
+[^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate critic and player scores; per-outlet normalised critic scores (CGW 60%, PC Games 82%, High Score 80%, Power Play 79%, PC Joker 78%, PC Player Brazil 70%, Wargamers Monthly 70%, Génération 4 67%)
 [^ref-21]: [Computer Game Review #44 (March 1995) – Winter CES report](https://archive.org/details/computer-game-review-issue-44-march-1995/page/n113) – Software Sorcery, Time Warner affiliate, announces Fast Attack
 [^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/specs/) – minimum CPU, supported video and sound devices
 [^ref-23]: [Internet Archive – Fast Attack Manual](https://archive.org/details/FASTATTACKMANUAL) – scanned Sierra manual (January 1996 edition, installation in DOS and Windows 95)
+[^ref-24]: [Gamezilla – Fast Attack review (Wayback)](https://web.archive.org/web/20020208175158/gamezilla.com/reviews/f/fastatt.asp) – score of 78, "pure strategy simulation, and strictly for hardcore fans"
+[^ref-25]: [Wargamers Monthly Vol. 5 No. 5 (May 1996), pp. 9–12 – "Denizens of the Deep" by Doug Todd](https://archive.org/details/wargamers-monthly-vol-5-no-5-may-1996/page/9) – Fast Attack review; rating box on p. 12 shows three and a half stars
