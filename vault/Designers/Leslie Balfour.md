@@ -6,15 +6,15 @@ death_year: null
 notable_games: ["The Dagger of Amon Ra", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Space Quest VII: Return to Roman Numerals"]
 companies: ["Sierra On-Line"]
 mobygames_id: 42242
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 # Leslie Balfour
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Leslie Balfour (credited earlier as Leslie Wilson and Leslie Sayes Wilson) is a writer, voice actress and producer who worked at Sierra On-Line in the mid-1990s.[^ref-10][^ref-2] She voiced Laura Bow, the narrator and Yvette Delacroix in the 1993 CD-ROM version of [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], then joined Sierra in 1993, writing for its InterAction magazine, its marketing and its documentation.[^ref-12][^ref-2][^ref-3]
+Leslie Balfour (credited earlier as Leslie Wilson and Leslie Sayes Wilson; MobyGames also lists Leslie S. Balfour) is a writer, voice actress and producer who worked at Sierra On-Line in the mid-1990s.[^ref-10][^ref-2] She voiced Laura Bow, the narrator and Yvette Delacroix in the 1993 CD-ROM version of [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], then joined Sierra in 1993, writing for its InterAction magazine, its marketing and its documentation.[^ref-12][^ref-2][^ref-3]
 
 She edited the "Popular Janitronics" magazine packed with [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], said she wrote and directed a "Making of Space Quest" video for the Space Quest Collection, and was co-designer with Scott Murphy on the cancelled Space Quest VII.[^ref-3][^ref-13][^ref-9] She was no longer under contract with Sierra by August 1998,[^ref-9] and a LinkedIn recommendation later describes her as a project manager.[^ref-6]
 
