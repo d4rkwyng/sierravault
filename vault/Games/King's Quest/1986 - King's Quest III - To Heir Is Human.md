@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Margaret Lowe]
 description: 'King''s Quest III: To Heir Is Human is the third installment in the
   landmark King''s Quest series of graphic adventure games, released for MS-DOS in
@@ -20,7 +20,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ The game sold 100,000 copies by the end of 1988[^ref-1] and was certified Platin
 
 ## Story Summary
 
-The game opens in the land of Llewdor, far from the familiar kingdom of Daventry, where a young man named Gwydion serves as a slave to the wicked wizard Manannan.[^ref-14] Manannan is described as "an abusive bastard who will quite literally kill the boy if he's lax in doing his chores."[^ref-7] Kidnapped when young, Gwydion has been raised in servitude in Manannan's house, high on a mountain top.[^ref-1][^ref-27] The wizard appears without warning to stare at Gwydion or set him a new chore, which one reviewer said puts the player "in the abusive situation of always being watched by a paranoid oppressor."[^ref-4]
+The game opens in the land of Llewdor, far from the familiar kingdom of Daventry, where a young man named Gwydion serves as a slave to the wicked wizard Manannan.[^ref-14] Manannan is described as "an abusive bastard who will quite literally kill the boy if he's lax in doing his chores."[^ref-7] Kidnapped when young, Gwydion has been raised in servitude in Manannan's house, high on a mountain top.[^ref-1][^ref-27] Manannan's custom was to kill each of his slaves on their eighteenth birthday and then kidnap a new infant to replace them.[^ref-28] The wizard appears without warning to stare at Gwydion or set him a new chore, which one reviewer said puts the player "in the abusive situation of always being watched by a paranoid oppressor."[^ref-4]
 
 As Gwydion explores his limited world during Manannan's absences, he discovers that the wizard possesses a spellbook containing powerful magic. The player must help Gwydion gather ingredients scattered throughout Llewdor—from a cottage inhabited by three bears to various wilderness locations—and carefully prepare spells that will eventually allow him to overcome his captor.[^ref-7] The game operates on a real-time clock displayed at the top of the screen, creating tension as the wizard follows a schedule of departures and returns.[^ref-7] Once Gwydion turns Manannan into a cat with a magic cookie crumbled into his porridge, he leaves Llewdor on a ship that turns out to be crewed by pirates.[^ref-1]
 
@@ -52,7 +52,7 @@ The journey takes Gwydion across the sea to the kingdom of Daventry, which he le
 The game concludes with the reunion of the royal family.[^ref-1] Gwydion's victory over Manannan later sets up King's Quest V, in which Manannan's brother Mordack captures the royal family to force Alexander to reverse the spell.[^ref-28]
 
 > [!warning]- Major Plot Twist (Critical Spoiler)
-> Midway through the game, an oracle in a cave reveals that Gwydion is actually Prince Alexander of Daventry, the long-lost son of Graham and Valanice, kidnapped as an infant,[^ref-28] and that his twin sister Rosella is to be sacrificed to the dragon.[^ref-1][^ref-7] After rescuing her, they return to Castle Daventry, where King Graham throws his adventuring hat to them in celebration.[^ref-1]
+> Midway through the game, an oracle in a cave reveals that Gwydion is actually Prince Alexander of Daventry, the long-lost son of Graham and Valanice, kidnapped as an infant,[^ref-28] whom Manannan had kept as a slave for seventeen years,[^ref-28] and that his twin sister Rosella is to be sacrificed to the dragon.[^ref-1][^ref-7][^ref-14] After rescuing her, they return to Castle Daventry, where King Graham throws his adventuring hat to them in celebration.[^ref-1]
 
 ## Gameplay
 
@@ -67,7 +67,7 @@ The parser system was described as "stubborn" by reviewers, requiring precise ph
 The game is structured around a real-time clock mechanic that governs the wizard Manannan's schedule of departures and returns.[^ref-7] This creates distinct gameplay phases:
 
 - **Manannan's Mountain:** The opening area where Gwydion must complete chores while secretly gathering spell ingredients during the wizard's absences.[^ref-32][^ref-7]
-- **Llewdor Wilderness:** An explorable overworld containing various locations needed for spell components, including a village, seashore, and the three bears' cottage.[^ref-7]
+- **Llewdor Wilderness:** An explorable overworld containing various locations needed for spell components, including a village and the three bears' cottage,[^ref-7] as well as a seashore.[^ref-1]
 - **The Sea Journey:** Passage on a pirate ship to Daventry.[^ref-1][^ref-35]
 - **Kingdom of Daventry:** The final act where Gwydion must reach and defeat the dragon to rescue Princess Rosella.[^ref-1]
 
@@ -95,6 +95,8 @@ Rick Teverbaugh reviewed the Atari ST version for *Atari Explorer* (September/Oc
 
 Sol and Rebecca Guber reviewed the ST version for *Antic* (January 1988) alongside Space Quest and Tass Times in Tonetown. They found that "the graphics are more sophisticated than in earlier games" and called it "the hardest one so far, but it's also the best, and I recommend it strongly."[^ref-34]
 
+MobyGames' critic list shows French magazine *Tilt* scoring it 95% on the Atari ST and 80% on DOS, and *Amiga Action* scoring the Amiga version 85%.[^ref-6]
+
 *ST Action* (August 1988) described it as "one of the more challenging titles currently in Sierra's range," noting that "the game is fifty per cent larger than any other previous game" and recommending it "only to the more seasoned players."[^ref-35]
 
 The release was initially met with controversy from the fanbase. As documented in the King's Quest Collection II Manual, "The release of this product in 1986 was quickly met with loud protests from gamers claiming that King's Quest III wasn't really a King's Quest at all" due to the absence of King Graham as the protagonist.[^ref-14] Before the internet, games like this "could take several weeks or even months to complete," so fans were slow to realise the connection between Gwydion and Graham.[^ref-8]
@@ -103,7 +105,7 @@ The King's Quest Omnipedia quotes Roberta Williams, dating the remark to 1997 (n
 
 ### Modern Assessment
 
-Retrospective reviews have generally been favorable, praising the game's narrative ambitions while acknowledging its unforgiving difficulty. MobyGames aggregates a critics score of 77% (15 ratings, as of 2026).[^ref-6] User reviews on the platform range from enthusiastic praise—"Another great game from Roberta Williams"—to criticism of the spell-casting mechanics: "If you enjoy data entry, copy protection & instant death then this is the game for you!"[^ref-15]
+Retrospective reviews have generally been favorable, praising the game's narrative ambitions while acknowledging its unforgiving difficulty. MobyGames aggregates a critics score of 77% (15 ratings, as of 2026).[^ref-6] Joppe Bos of Adventure Classic Gaming rated it 4 out of 5 ("Very Good"), writing that it has "a large game world, an elegant storyline, and beautiful graphics."[^ref-20] User reviews on the platform range from enthusiastic praise—"Another great game from Roberta Williams"—to criticism of the spell-casting mechanics: "If you enjoy data entry, copy protection & instant death then this is the game for you!"[^ref-15]
 
 GameFAQs user "Pangolin" awarded the game 9/10, humorously noting that "The graphics were wonderful! Sure they were 1980 graphics, to where you couldn't make out a person from a lamp, but they were FUNNY!!!" while criticizing the audio: "The sounds sound so annoying, ugly and cheap it isn't even funny!"[^ref-16] Another GameFAQs reviewer gave it 7/10, praising its evolution: "This is where King's Quest starts to be more of a quest than a series of wandering around and finding jewelry inside logs."[^ref-13]
 
@@ -120,7 +122,7 @@ In recognition of its lasting impact, Time Magazine ranked King's Quest III at #
 
 ### Origins
 
-Roberta Williams conceived King's Quest III as an evolution of the series' storytelling capabilities. For this game she relied less on fairy tale scenarios, aiming for a more "adult" story, though it still included characters like Medusa and the three bears.[^ref-1] The first two games had a less complex plot than Williams wanted, as memory and space limits constrained her, resulting in "treasure hunts with lots of simple goals [...] and fun puzzles."[^ref-1]
+The game was first announced at the Winter Consumer Electronics Show in January 1986, with an intended release date of that September.[^ref-1] Roberta Williams conceived King's Quest III as an evolution of the series' storytelling capabilities. For this game she relied less on fairy tale scenarios, aiming for a more "adult" story, though it still included characters like Medusa and the three bears.[^ref-1] The first two games had a less complex plot than Williams wanted, as memory and space limits constrained her, resulting in "treasure hunts with lots of simple goals [...] and fun puzzles."[^ref-1]
 
 Adventure Classic Gaming reports that Williams said seeing Rosella on screen near the end of the game made her imagine Rosella's own adventures: "Rosella was introduced toward the end of the game; seeing her on the screen for the first time, I suddenly saw her on her own adventures in a sequel."[^ref-20] The next game in the series, [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]], followed in 1988.[^ref-1]
 
@@ -137,6 +139,10 @@ The development team consisted of 18 credited personnel.[^ref-6] The Apple II ve
 - **Game Development System:** [[Jeff Stephenson]], Chris Iden[^ref-14]
 - **Graphic Artists:** [[Mark Crowe]], Doug MacNeill
 - **Composer:** Margaret Lowe
+- **Viewmaster:** Dale Carlson[^ref-6][^ref-14]
+- **Apple Version:** Sol Ackerman[^ref-14]
+- **Quality Assurance:** Larry Weisserman, Robert Ballew, Andrea Moonsalve and Russell Truelove (MobyGames);[^ref-6] the King's Quest Omnipedia also lists Jennifer Cobb, Nancy Grimsley, Ray Marek and Kimberly Wood[^ref-14]
+- **Gaffer:** Ken Williams[^ref-6][^ref-14]
 - **Packaging and Documentation:** Annette Childs, Greg Steffen, John T. Shaw[^ref-14]
 
 ### Technical Achievements
@@ -162,10 +168,6 @@ The game used a real-time clock displayed on screen, creating genuine tension as
 - **Controls:** Mouse, Keyboard, Joystick
 - **Compatibility:** Atari ST, STe, TT
 
-### Cut Content
-
-No significant cut content has been documented in available research materials.
-
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -173,6 +175,12 @@ No significant cut content has been documented in available research materials.
 | 1.01 | 1986-11-08 | MS-DOS | Original release with disk-based copy protection; AGI interpreter v2.272[^ref-26] |
 | 2.00 | 1987-05-25 | MS-DOS | AGI interpreter v2.435; modified script, drop-down menus[^ref-14][^ref-26] |
 | 2.14 | 1988-03-15 | MS-DOS | First 3.5" release (two disks); added MCGA support; AGI interpreter v2.936; still shipped with a key disk[^ref-26] |
+| Atari ST | 1987-01 | Atari ST | First port, released January 1987[^ref-6] |
+| Amiga | 1987-04 | Amiga | Released April 1987[^ref-6] |
+| Macintosh | 1988-04 | Macintosh | Released April 1988[^ref-6] |
+| Apple II | 1988-06 | Apple II | Released June 1988[^ref-6] |
+| Apple IIgs | 1988-09 | Apple IIgs | Released September 1988[^ref-6] |
+| TRS-80 CoCo | 1988 | TRS-80 Color Computer | Released 1988[^ref-6] |
 | Budget | 1994 | Atari ST | Kixx XL budget release, distributed by US Gold[^ref-12] |
 
 **AGI Interpreter Versions:**[^ref-26]
@@ -247,8 +255,6 @@ However, the game also exemplifies the design philosophy that would eventually f
 - **Next:** [[1988 - King's Quest IV - The Perils of Rosella]]
 
 - [[1984 - King's Quest - Quest for the Crown]]
-- [[1985 - King's Quest II - Romancing the Throne]]
-- [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
