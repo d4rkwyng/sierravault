@@ -10,7 +10,7 @@ series: Disney
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
   by Sierra On-Line with the Walt Disney Personal Computer Software staff, released
@@ -20,7 +20,7 @@ tags: [1980s, al-lowe, disney, educational, roberta-williams,
 ---
 # Mickey's Space Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -56,9 +56,9 @@ The game also features an optional subplot involving Minnie Mouse, where players
 
 ### Interface and Controls
 
-Mickey's Space Adventure uses a simplified, typing-free interface aimed at young children who can at least read.[^ref-6] Rather than the text parser used in most of Sierra's other adventure games, it shows a row of verbs and a row of nouns at the bottom of the screen; players cycle through the options with the space bar and pick one with Return to build two-word commands such as "GO NORTH".[^ref-6][^ref-19] This "interactive book" approach allows children to construct sentences to advance the story without requiring typing skills.[^ref-3]
+Mickey's Space Adventure uses a simplified, typing-free interface aimed at young children who can at least read.[^ref-6] Rather than the text parser used in most of Sierra's other adventure games, it shows a row of verbs and a row of nouns at the bottom of the screen; players cycle through the options with the space bar and pick one with Return to build two-word commands such as "GO NORTH".[^ref-6][^ref-19] The manual for the Apple II and Commodore 64 versions says the space bar or the arrow keys move through the word options and Return selects the highlighted word, with Esc (Apple II) or F1 (Commodore 64) cancelling a selection;[^ref-39] MobyGames' description likewise describes using the cursor keys to highlight words on the screen.[^ref-9] This "interactive book" approach allows children to construct sentences to advance the story without requiring typing skills.[^ref-3]
 
-The controls are the space bar and Return key, with joystick support on the Commodore 64 version (Port 2).[^ref-7][^ref-17] If the player requests an illogical or impossible action, the game suggests better options.[^ref-13][^ref-19]
+The controls are the space bar (or arrow keys) and Return key, with joystick support on the Commodore 64 version (Port 2).[^ref-7][^ref-17][^ref-39] If the player requests an illogical or impossible action, the game suggests better options.[^ref-13][^ref-19]
 
 ### Structure and Progression
 
@@ -152,10 +152,6 @@ According to a Grouvee user review, the graphics were created with help from Wal
 
 Saving requires a blank disk: Apple User notes the Apple II version's Save facility "requires a new blank disc",[^ref-7] and Al Lowe's freeware DOS release "requires a blank floppy disk in drive A for your saved games."[^ref-8]
 
-### Cut Content
-
-No significant cut content has been documented in the research materials.
-
 ### Version History
 
 | Date | Platform | Notes |
@@ -197,7 +193,7 @@ The alternate ending depends only on whether the player writes the optional lett
 
 ### Sales and Commercial Impact
 
-Mickey's Space Adventure was an early product of Sierra's contract with Disney.[^ref-3] Jimmy Maher writes that Sierra avoided Disney's huge upfront licensing fee by buying the existing contract from Texas Instruments, but "paid dearly for the license on the back end via exorbitant royalties"; the deal "resulted in only a handful of releases, including one each for Donald Duck, Mickey Mouse, and Winnie the Pooh."[^ref-38] No sales figures specific to this game have been published. *Billboard* reported in December 1984 that Sierra was selling three of the Disney titles, including this one, for about $40, and that "it is believed that initial orders numbered about 40,000" across them.[^ref-37] Maher notes that, like much Sierra software, the game was sold through Radio Shack; his illustration shows a copy with a sticker advertising Tandy 1000 compatibility.[^ref-38] Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
+Mickey's Space Adventure was an early product of Sierra's contract with Disney.[^ref-3] Jimmy Maher writes that Sierra avoided Disney's huge upfront licensing fee by buying the existing contract from Texas Instruments, but "paid dearly for the license on the back end via exorbitant royalties"; the deal "resulted in only a handful of releases, including one each for Donald Duck, Mickey Mouse, and Winnie the Pooh."[^ref-38] No sales figures specific to this game have been published. *Billboard* reported in December 1984 that Sierra was selling three of the Disney titles, including this one, for about $40, and that "it is believed that initial orders numbered about 40,000" across them.[^ref-37] Maher notes that, like much Sierra software, the game was sold through Radio Shack; his illustration shows a copy with a sticker advertising Tandy 1000 compatibility.[^ref-38] Ken Williams told *Billboard* that for the Commodore 64 versions Sierra would focus on mass merchandisers, sending them posters and point-of-purchase material, and that he believed the Apple versions would sell primarily through specialty stores.[^ref-37] Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
 
 ### Collections
 
@@ -281,3 +277,4 @@ Apple User's reviewers reported that their seven-year-old "has enjoyed learning 
 [^ref-36]: [Wikipedia – Sorcerer's Apprentice (video game)](https://en.wikipedia.org/wiki/Sorcerer%27s_Apprentice_(video_game)) – Atari 2600, released December 1983; the player plays as Mickey Mouse
 [^ref-37]: [Internet Archive – Billboard, December 15, 1984](https://archive.org/details/bub_gb_nSQEAAAAMBAJ/page/n25/mode/2up) – "Walt Disney Productions teams with Sierra On-Line on five programs"; about $40, initial orders about 40,000, ages seven and up; "Roberta Williams authored 'Mickey's Space Adventure'"
 [^ref-38]: [Jimmy Maher – The Digital Antiquarian, "Splendid Isolation: Sierra at Mid-Decade" (7 August 2015)](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Texas Instruments license purchase, exorbitant royalties, Disney educational-films oversight, Radio Shack distribution
+[^ref-39]: [Internet Archive – Mickey's Space Adventure manual (Apple II / Commodore 64 instructions)](https://archive.org/details/vgmuseum_sierra_mickey-alt-manual) – control keys: space bar or arrow keys to move through word options, Return to select, Esc/F1 to cancel
