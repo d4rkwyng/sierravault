@@ -10,30 +10,31 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows, Macintosh and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
-last_modified: 2026-10-27T11:29:43-06:00
+last_modified: 2026-11-11T12:00:00-06:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Maximum Pool is a pool simulation video game developed by Dynamix and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. The game is part of the 3D Ultra series and serves as the successor to the 1999 game Cool Pool[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
+Maximum Pool is a pool simulation video game developed by Dynamix (Sierra Chest credits [[Jeff Tunnell Productions]][^ref-34]) and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. The game is part of the [[3D Ultra Series]] and serves as the successor to the 1999 game Cool Pool[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
 
 The game features an entertaining mix of classic and novel pool games, offering a total of 12 types with several table variations[^ref-4]. At the Dreamcast launch, Senior Producer Randy Thompson said: "We're extremely excited to be one of the first video games in history to support online play between Dreamcast, Windows, and Macintosh players"[^ref-5]. He added that the game "shows the flexibility of the SegaNet network and how well designed it is for multiple platforms and a variety of game types"[^ref-5].
 
 The game includes seven classic pool games and five unlockable "unique pool games" that add a twist to the standard fare[^ref-5]. IGN wrote that despite its "colorful, family oriented presentation, you won't find a better simulation of the table sport on shelves, with the possible exception of Interplay's soon to be released Virtual Pool 3"[^ref-7].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]][^ref-1]
+> **Developer:** [[Dynamix]][^ref-1] (Sierra Chest credits [[Jeff Tunnell Productions]][^ref-34])
 > **Designer:** Rhett Anderson[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Platforms:** Windows, Dreamcast, Mac OS, Mac OS X[^ref-8][^ref-19]
 > **Release Year:** 2000
+> **Release Dates:** Windows (US) 8 September 2000 per Computer Games Strategy Plus[^ref-32]; Windows and Macintosh 14 September 2000, Dreamcast 16 November 2000 per MobyGames[^ref-8]
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
 > **Engine:** 3D Ultra Engine
@@ -88,9 +89,9 @@ Maximum Pool was developed by Dynamix's 3D Ultra Group[^ref-16] as the successor
 
 The game credits 66 people[^ref-2]. Key roles included:
 
-- **Executive Producer**: Susan Folden
+- **Executive Producer**: Susan Folden[^ref-2]
 - **Producer**: Randy Thompson (described as senior producer for Dynamix in Sierra's press release[^ref-5])
-- **Lead Programmer**: Jon Milnes
+- **Lead Programmer**: Jon Milnes[^ref-2]
 - **Game Design**: Rhett Anderson, who is also credited for the physics and graphics engine[^ref-2]
 
 ### Technical Achievements
@@ -120,8 +121,13 @@ The Macintosh version supports Mac OS 8.5.1 to 9.2.2; OS X compatibility was add
 **Dreamcast Version**:
 - Online play by modem, up to four players[^ref-26]
 
+### Release Dates
+
+Computer Games Strategy Plus reported on 8 September 2000 that the game had "found its way to U.S. retail shelves today"[^ref-32]. MobyGames, read via its API, lists the Windows and Macintosh releases as 14 September 2000 and the Dreamcast release as 16 November 2000[^ref-8]. The sources differ by six days for the PC release, so both are given with attribution.
+
 ### Version History
 
+- **v1.06 (PC)**: 684 KB update for the US version of the PC game, listed by the Sierra Help Pages alongside two unofficial server fixes (v1016_pool and v0501020_pool)[^ref-33]
 - **v1.06 (Macintosh)**: update that added Mac OS X compatibility[^ref-19][^ref-30]
 
 ## Reception
@@ -177,7 +183,7 @@ Fans set up privately run servers, and a registry patch points the game at them[
 
 Maximum Pool remains accessible through various preservation channels:
 
-- **PC Version**: Available through abandonware archives and Internet Archive
+- **PC Version**: Available through abandonware archives and Internet Archive[^ref-4]
 - **Dreamcast Version**: Online play is hosted by community servers[^ref-26]
 - **Macintosh Version**: Available through Macintosh Repository; the v1.06 update supports Mac OS X up to 10.5 (Leopard)[^ref-19]
 
@@ -199,6 +205,7 @@ Modern players can run the Windows version, though manual cue control may cause 
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|← Previous: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 - [[2006 - 3D Ultra MiniGolf Adventures|→ Next: 3D Ultra MiniGolf Adventures]]
 
+- [[3D Ultra Series]]
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
@@ -238,3 +245,6 @@ Modern players can run the Windows version, though manual cue control may cause 
 [^ref-29]: [LoneBullet Patch Archive (Wayback, 2021)](https://web.archive.org/web/20210423141836/https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch
 [^ref-30]: [Katie Cadet Tech - Installing Maximum Pool on Mac OS X PowerPC](https://katiecadettech.wordpress.com/2023/10/12/installing-maximum-pool-on-mac-os-x-powerpc/) - G5 and Leopard compatibility
 [^ref-31]: [PC Zone #95, November 2000, p. 81 (Internet Archive scan)](https://archive.org/details/PC_Zone_95_November_2000/page/n80/mode/1up) - Maximum Pool short review, 59% verdict
+[^ref-32]: [Web Archive - Computer Games Strategy Plus, "Maximum Pool Ships" (snapshot 20030709154835)](https://web.archive.org/web/20030709154835/http://www.cdmag.com:80/articles/029/129/mp.html) - Posted 09/08/2000; U.S. retail ship date
+[^ref-33]: [Sierra Help Pages - Maximum Pool Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MaximumPoolUpdates.html) - PC 1.06 update, US version only, 684 KB
+[^ref-34]: [Sierra Chest - Maximum Pool](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool) - Lists Jeff Tunnell Productions as developer
