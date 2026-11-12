@@ -10,17 +10,17 @@ series: Hoyle
 engine: Unknown
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Puzzle Games 2004 is a collection of 17 puzzle and arcade games, including two new games, Rays and Word Searches, released by Sierra Entertainment on September 2, 2003 for Windows.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games 2004 is a collection of puzzle and arcade games from Sierra Entertainment, released on September 2, 2003 for Windows[^ref-1][^ref-4][^ref-6][^ref-20][^ref-24][^ref-32]. Although it came out in 2003, "2004" is part of the edition's name: GameSpot grouped it with the other "Hoyle Games 2004" titles in a demo posted that September[^ref-32]. GameZone's listing gives the North American release date as 09/03/2003, one day later[^ref-31]. It gathers 17 games, one of which is the full version of *The Incredible Machine: Even More Contraptions*[^ref-4][^ref-8][^ref-20]. Two of the 17, Rays and Word Searches, were billed as new games[^ref-4][^ref-20][^ref-29]. Sierra Chest catalogues it as "Hoyle Puzzle Games 2", the follow-up to [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games]] (2002)[^ref-24].
+Hoyle Puzzle Games 2004 is a collection of puzzle and arcade games from Sierra Entertainment, released on September 2, 2003 for Windows[^ref-1][^ref-4][^ref-6][^ref-20][^ref-24][^ref-32]. Although it came out in 2003, "2004" is part of the edition's name: GameSpot grouped it with the other "Hoyle Games 2004" titles in a demo posted that September[^ref-32]. GameZone's listing gives the North American release date as 09/03/2003, one day later[^ref-31]. It gathers 17 games, one of which is the full version of *The Incredible Machine: Even More Contraptions*[^ref-4][^ref-8][^ref-20]. Two of the 17, Rays and Word Searches, were billed as new games[^ref-4][^ref-20][^ref-29]. Sierra Chest catalogues it as "Hoyle Puzzle Games 2", the follow-up to [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games]] (2002)[^ref-24]. Sierra Chest's database also lists Macintosh as a platform, but its packaging record documents only a PC CD-ROM box[^ref-24][^ref-38].
 
 The box advertised 1,000 crossword puzzles, high score lists, adjustable skill levels (Beginner, Intermediate or Expert), the ability to save and print word searches and crosswords, a free Hoyle rulebook and strategy guide, and the Facemaker tool for building a character "from hundreds of features"[^ref-20][^ref-33]. GameSpot's 2003 product page described "hundreds of variations of 17 inventive puzzle games"[^ref-32]. GameSpy listed the publisher as Sierra Attractions and the ESRB rating as E for Everyone[^ref-8]; the ESRB's own entry, "Hoyle: Puzzle Games 2004", is rated E with no descriptors and lists the platforms as Palm Pilot, Windows PC and Pocket PC[^ref-34].
 
@@ -132,7 +132,7 @@ No sales figures have been found. Best Buy listed the game for Windows (SKU 5884
 
 ### Subsequent Releases
 
-A GameSpot user reviewer pointed buyers to a 2005 version, which combined the puzzle games with the table games and could be fully installed[^ref-7]. See [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle & Board Games 2005]].
+A GameSpot user reviewer pointed buyers to a 2005 version, which the reviewer said was combined with "the table games" and could be fully installed[^ref-7]. Retail listings describe that edition as Hoyle Puzzle Games plus Hoyle Board Games. See [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle & Board Games 2005]].
 
 In a December 21, 2004 announcement, VU Games said it had reached an agreement with Encore "which includes the assignment of the Hoyle games license", with Encore responsible for sales, distribution and marketing effective December 23, 2004[^ref-36]. Bruce Hack, CEO of VU Games, said the sale was "consistent with our strategy of focusing on core games franchises"[^ref-36]. SoCalTech reported the same deal as a divestiture of the Hoyle-branded software products to Navarre Corp's Encore subsidiary[^ref-37].
 
@@ -203,8 +203,8 @@ In a December 21, 2004 announcement, VU Games said it had reached an agreement w
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
 - [[2007 - Hoyle Casino 2008]]
+- [[2007 - Hoyle Casino]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
 - [[2010 - Hoyle Swashbucklin Slots]]
@@ -233,3 +233,4 @@ In a December 21, 2004 announcement, VU Games said it had reached an agreement w
 [^ref-35]: [Sierra Chest – Hoyle Puzzle Games 2 (2003): Music](https://www.sierrachest.com/index.php?a=games&id=818&title=hoyle-puzzle-games-2003&fld=music) – 32 songs on the CD as WAV/MP3, "Finally a whole set of new songs for a Hoyle game"
 [^ref-36]: [WorthPlaying – Vivendi Passes on Hoyle Brand to Encore](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore) – by Judy, 2004-12-21; VU Games assignment of the Hoyle license to Encore, effective December 23, 2004; Bruce Hack quote
 [^ref-37]: [SoCalTech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – dated December 23, 2004; Hoyle-branded software products divested to Navarre Corp's Encore subsidiary
+[^ref-38]: [Sierra Chest – Hoyle Puzzle Games 2 (2003): Packaging & content](https://www.sierrachest.com/index.php?a=games&id=818&title=hoyle-puzzle-games-2003&fld=box) – lists one release, "PC CD-ROM, US, large flip-top box with flap", Box ID 3189, UPC 0-20626-72014-4, with game manual; the game's platform field reads "IBM PC, Macintosh"
