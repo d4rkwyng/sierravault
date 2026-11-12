@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Interpreter (AGI)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest 0: Replicated is a free AGI fan-made prequel to Sierra On-Line''s
   Space Quest series, created single-handedly by Jeff Stewart and released for Windows
   on June 25, 2003.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest 0: Replicated
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -87,6 +87,8 @@ Netjak.com's Jozef "NetDanzr" Purdes (July 9, 2003) scored it 7.5/10 overall and
 
 Jeffry Houser reviewed the game on his blog on October 17, 2005, two years after its release. He praised the visuals but found the humor weaker than the official series'. He observed that "the game did a great job of visually capturing the feel of the first two Space Quest games," but noted that "the game lacked the humor inherent in the SQ series, sticking instead to Star Trek and Star Wars references" rather than the broader satirical comedy of the originals.[^ref-8]
 
+In a 2012 Just Adventure retrospective on four freeware Space Quest fan sequels, Greg Collins wrote that if Stewart had released the game to the general public "between Space Quests II and III," he did not think anyone would have realized it was not an official Sierra product, and rated it 4 Golden Mops.[^ref-27]
+
 **Aggregate Scores:**
 - **MobyGames:** 84% critics average (4 reviews), 3.8/5 players (2 votes)[^ref-1]
 - **Home of the Underdogs:** 8.97/10 (37 votes)[^ref-6]
@@ -107,7 +109,7 @@ Stewart made it a prequel, which the fan community places at roughly "year 0" in
 
 The game uses AGI, "1984 technology, developed for King's Quest 1," which Sierra retired in 1989 after Manhunter: San Francisco.[^ref-8][^ref-22] Stewart chose it because he liked the parser and because "low resolutions and simple game mechanics" cut implementation time.[^ref-24] By his account, conception took about 2–3 weeks and the game "around 3 months of late evenings"; development was kept under wraps until release, and Nick Sonneveld helped him playtest.[^ref-24]
 
-The game was released on June 25, 2003, as a free Windows ZIP.[^ref-24][^ref-15] It was distributed through fan sites including Roger Wilco's Virtual Broomcloset and Spacequest.net.[^ref-13] After a Slashdot news post on June 29, it drew "over 12,000 downloads in a single day."[^ref-24] In 2007 the Space Quest Launcher (predecessor of the Sierra Classic Gaming launcher) renamed its own entry from "Space Quest: Replicated" to "Space Quest 0: Replicated" in version 1.0.0.8 (June 2, 2007).[^ref-19]
+The game was released on June 25, 2003, as a free Windows ZIP.[^ref-24][^ref-15] It was distributed through fan sites including Roger Wilco's Virtual Broomcloset and Spacequest.net.[^ref-13] After a Slashdot news post on June 29, it drew "over 12,000 downloads in a single day."[^ref-24] The Slashdot item, titled "Fan-Made Space Quest Prequel Released," described the game as featuring "a hilarious story centered on cloning, retro graphics and interface, and tons of the wacky death scenes that made the SQ games famous in the first place."[^ref-26] In 2007 the Space Quest Launcher (predecessor of the Sierra Classic Gaming launcher) renamed its own entry from "Space Quest: Replicated" to "Space Quest 0: Replicated" in version 1.0.0.8 (June 2, 2007).[^ref-19]
 
 **Development Credits:**[^ref-1]
 - **Design, Writing, Graphics, Programming:** Jeff Stewart[^ref-24]
@@ -157,7 +159,7 @@ The game incorporates numerous references to science fiction franchises and othe
 
 ### Sales and Commercial Impact
 
-As a freeware fan game, Space Quest 0: Replicated was distributed without charge, generating no direct revenue but contributing significantly to the Space Quest community's activity during a period when no official games were in production.[^ref-6] Its biggest single surge came after Slashdot's June 29, 2003 post, with over 12,000 downloads in one day.[^ref-24] As of October 2026, the SCI Programming fan game database showed 1,573 total downloads,[^ref-20] and the OldGames.sk page had 18,293 visits since it was added on October 5, 2008.[^ref-16]
+As a freeware fan game, Space Quest 0: Replicated was distributed without charge, generating no direct revenue but contributing significantly to the Space Quest community's activity during a period when no official games were in production.[^ref-6] Its biggest single surge came after Slashdot's June 29, 2003 post, with over 12,000 downloads in one day.[^ref-24] As of November 11, 2026, the SCI Programming fan game database showed 1,579 total downloads,[^ref-20] and the OldGames.sk page had 18,293 visits since it was added on October 5, 2008.[^ref-16]
 
 ### Collections
 
@@ -192,14 +194,15 @@ The game also represents an important artifact of early 2000s fan game developme
 
 ## See Also
 
+- [[Space Quest Series]]
+- [[2001 - Space Quest - The Lost Chapter|Previous fan game: The Lost Chapter]]
+- [[2011 - Space Quest - Vohaul Strikes Back|Next fan game: Vohaul Strikes Back]]
 - [[2001 - King's Quest I VGA Remake]]
-- [[2001 - Space Quest - The Lost Chapter]]
 - [[2002 - King's Quest II+ - Romancing the Stones]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)]]
 - [[2008 - Quest for Glory II VGA Remake]]
 - [[2010 - The Silver Lining]]
 - [[2011 - King's Quest III Redux - To Heir is Human]]
-- [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2011 - Space Quest II VGA Remake]]
 - [[2012 - Space Quest - Incinerations]]
 - [[2021 - King's Quest IV Retold]]
@@ -230,3 +233,5 @@ The game also represents an important artifact of early 2000s fan game developme
 [^ref-23]: [Jerz's Literacy Weblog – Space Quest 0: Replicated](https://jerz.setonhill.edu/blog/2003/06/30/1403/amp/) – June 30, 2003 post quoting the Virtual Broomcloset release announcement
 [^ref-24]: [The Virtual Broomcloset – The Broomcloset Interviews Jeff Stewart](https://www.wiw.org/~jess/jeffstewart.html) – June 25, 2003 release, one-man team, ~3 months development, Slashdot downloads, Nick Sonneveld playtesting
 [^ref-25]: [Space Quest Omnipedia – Space Quest 0: Replicated](https://spacequest.fandom.com/wiki/Space_Quest_0:_Replicated) – "the second full length Space Quest fan game to be released"; June 25, 2003
+[^ref-26]: [Slashdot – Fan-Made Space Quest Prequel Released](https://games.slashdot.org/story/03/06/29/1335236/fan-made-space-quest-prequel-released) – June 29, 2003 news post announcing the release
+[^ref-27]: [Just Adventure – Roger That: Space Quest Lives in Four Fab Freeware Fan-Made Sequels](https://www.justadventure.com/2012/03/15/roger-that-space-quest-lives-in-four-fab-freeware-fan-made-sequels2) – Greg Collins, March 15, 2012; "between Space Quests II and III"; 4 Golden Mops
