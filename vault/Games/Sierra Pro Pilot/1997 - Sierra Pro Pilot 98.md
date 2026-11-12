@@ -10,7 +10,7 @@ series: Pro Pilot
 engine: Dynamix proprietary 3D tool set
 protagonist: Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Sierra Pro Pilot 98: The Complete Flight Simulator is a 1997 civilian
   flight simulator for Windows 95, developed by Dynamix with former Sub-Logic staff
   and published by Sierra as a challenger to Microsoft Flight Simulator.'
@@ -18,7 +18,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot 98
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ GameSpot called the game "the first consumer sim with the now-popular navigation
 | GameSpot | 6.1/10 | Review by Denny Atkin, February 9, 1998[^ref-5][^ref-1] |
 | PC Gamer | 53% | Review by Marc Saltzman, May 1998[^ref-25] |
 | Games Domain | n/a | Review by Craig Strachan, filed under March 1998; reviewed version 1.2 Beta; no numeric score in the text; "Bugs: Numerous but they're being patched"[^ref-31] |
-| PC Joker | 58% | German review, September 1998: "Altbackener Zivilflugi für schnelle Rechner" (translated: a stale civil flight sim for fast computers); MobyGames also lists PC Joker at 58%[^ref-29][^ref-17][^ref-1] |
+| PC Joker | 58% | German review, September 1998: "Altbackener Zivilflugi für schnelle Rechner" (translated: a stale civil flight sim for fast computers); score printed on p. 92 (Kurztest)[^ref-29][^ref-1] |
 
 ### Critical Analysis
 
@@ -148,7 +148,7 @@ Plans changed during development. The preview promised photographic-quality imag
 - **Recommended (PC Gamer):** Pentium 166, 32 MB RAM, 8x CD-ROM drive and a joystick.
 - **3D acceleration:** none.
 
-Computer Gaming World noted that the "Typical" install was 52MB and that installing all the scenery needed about another 450MB[^ref-24].
+Computer Gaming World noted that the "Typical" install was 52MB and that installing all the scenery needed about another 450MB[^ref-24]. For the German release, PC Joker listed a minimum of a Pentium 90 (Pentium II/233 recommended), 16 MB RAM and at least 60 MB of disk space, and said a Pentium 200 and the roughly 550 MB full install per scenario were needed for acceptable speed[^ref-29].
 
 ### Version History
 
@@ -178,6 +178,10 @@ The series order is described two ways. Dynamix's July 30, 1998 press release an
 - **Pro Pilot USA** (October 1998) was a $19.95 budget version with "the full functionality of Pro Pilot '98." It added an 80-page "Pilot Guide," a "Scenic Flights" option and the Cessna 172R[^ref-19]. IGN described it as "a modified version of Sierra Pro Pilot, with extra help for novices"[^ref-27]. Kate Kloos said: "We want to offer our realistic, civilian flight simulator to a larger user base by taking our successful product and adding a few new 'getting started' features to take users off the runways faster"[^ref-19].
 - **Pro Pilot '99** (1998) added support for Glide (3Dfx) accelerators[^ref-15]. GameSpot called it "a dramatic improvement over that first release." It added 3Dfx graphics, better flight models, more complete ATC, NAFI-created tutorials, Western European terrain and over 3,500 airports[^ref-7][^ref-11]. IGN was less kind, calling it "less a sequel than an attempt to address the original game's shortcomings"[^ref-15].
 
+### Collections
+
+The game was included in Gold Games 4 (1999) and X:Treme Flight Pack (1998)[^ref-12].
+
 ### Preservation Status
 
 - The Internet Archive hosts disc images[^ref-20].
@@ -197,7 +201,7 @@ The series order is described two ways. Dynamix's July 30, 1998 press release an
 
 - **Previous:** N/A (First in series)
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
-- [[1998 - Sierra Pro Pilot '99]]
+- [[1998 - Sierra Pro Pilot '99|Sierra Pro Pilot '99]]
 
 ## References
 
@@ -212,7 +216,7 @@ The series order is described two ways. Dynamix's July 30, 1998 press release an
 [^ref-12]: [MobyGames](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) - Series placement, developers (Dynamix, subLOGIC), map installation CDs
 [^ref-15]: [IGN – Pro Pilot '99 Review (Archive)](https://web.archive.org/web/20020611073421/http://pc.ign.com/articles/154/154019p1.html) - Luke Shannon, October 23, 1998; describes the original's lack of 3D support and loop problem
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) - User rating; updates 1.1, 1.2, 1.3a
-[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/reviews/windows/) - 62% critic average from 14 ratings (read November 11, 2026); lists PC Joker 58%
+[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/reviews/windows/) - 62% critic average from 14 ratings (read November 11, 2026)
 [^ref-19]: [Sierra Press Release – Pro Pilot USA (Archive)](https://web.archive.org/web/19991005024949/http://www.sierra.com:80/corp/mr/release/0,2760,91,00.html) - October 1, 1998; Kate Kloos quotes; Pro Pilot '98 "sold over 275,000 units"; $19.95 Pro Pilot USA
 [^ref-20]: [Internet Archive](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) - Digital preservation
 [^ref-21]: [IGDB – Sierra Pro Pilot 98](https://www.igdb.com/games/sierra-pro-pilot-98-the-complete-flight-simulator) — Internet Games Database entry, platform listing, release-year confirmation, developer attribution
