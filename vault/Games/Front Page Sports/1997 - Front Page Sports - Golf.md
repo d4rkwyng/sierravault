@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown/unnamed
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Charles Barth]
 description: 'Front Page Sports: Golf is a 1997 golf simulation for Windows 95, developed
   by Headgate Studios and published by Sierra On-Line, best known for its mouse-driven
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Golf
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ The interface includes a Quick Start option that lets players skip the setup win
 
 ### Structure and Progression
 
-The game offers twelve game types for single-player and multiplayer sessions, including:[^ref-3][^ref-20]
+The game offers twelve game types for single-player and multiplayer sessions, which Computer Gaming World called "the most of any golf sim yet," including:[^ref-3][^ref-20][^ref-30]
 
 - **Stroke Play:** Traditional scoring over 18 holes
 - **Match Play:** Hole-by-hole competition
@@ -90,7 +90,7 @@ Sierra described the courses as recreated "down to each clubhouse, tree and brea
 
 Front Page Sports: Golf was critically acclaimed on release.[^ref-1] GameSpot awarded it 8.1 out of 10, and reviewer Tasos Kaiafas wrote that it "certainly has some fun surprises, taking the stuffiness out of your typical golf sim."[^ref-6] The review also called TrueSwing "the one critical component" of the simulation.[^ref-6]
 
-Game Revolution gave the game an A-, calling it "a gem of a golf sim" and "a strong title in every sense."[^ref-7] Reviewer Dr. Moo praised "a smooth interface, an excellent swing mechanism, beautiful graphics and crisp sounds."[^ref-7] CNET Gamecenter awarded it 8 out of 10.[^ref-1] Its reviewer, Gordon Goble, wrote that TrueSwing "feels unrestrained, and yes, natural--I can't say I've enjoyed computer golf more."[^ref-9] Scott A. May of Computer Gaming World gave it four out of five stars and wrote that the game had "been worth the wait."[^ref-30]
+Game Revolution gave the game an A-, calling it "a gem of a golf sim" and "a strong title in every sense."[^ref-7] Reviewer Dr. Moo praised "a smooth interface, an excellent swing mechanism, beautiful graphics and crisp sounds."[^ref-7] CNET Gamecenter awarded it 8 out of 10.[^ref-1] Its reviewer, Gordon Goble, wrote that TrueSwing "feels unrestrained, and yes, natural--I can't say I've enjoyed computer golf more."[^ref-9] Scott A. May of Computer Gaming World gave it four out of five stars and wrote that the game had "been worth the wait."[^ref-30] He concluded that "Sierra's first golf sim is a winner," listing its pros as a superb graphics and intuitive interface and TrueSwing as "the best alternative yet to traditional swing meter," and its cons as "No course editor; balls can be difficult to track."[^ref-30]
 
 Jeff Lackey of Computer Games Strategy Plus headlined his review "A breakthrough in PC golf sims." He wrote that the game "has done what the like-minded SimGolf failed to do; revolutionize the swing interface."[^ref-5] John Zhaski of InterAction Magazine, Sierra's own publication, called it "the most playable and realistic golf game available for the PC."[^ref-1][^ref-28] Not every critic agreed: T. Liam McDonald of PC Magazine was disappointed with TrueSwing and called the game a "modest golf game."[^ref-1]
 
@@ -107,7 +107,7 @@ MobyGames user Overmann wrote that the game "Introduced mouse-swing and set the 
 - **Computer Games Strategy Plus:** 4.5/5[^ref-1]
 - **Computer Gaming World:** 4/5[^ref-1][^ref-30]
 - **PC Magazine:** 2/5[^ref-1]
-- **MobyGames:** Moby Score 6.7[^ref-2]; as of January 2026, critics 74% (9 ratings) and players 2.7/5 (3 ratings)[^ref-31]
+- **MobyGames:** Moby Score 6.8 (3 votes, as of November 11, 2026)[^ref-2]; as of January 2026, critics 74% (9 ratings) and players 2.7/5 (3 ratings)[^ref-31]
 - **GameFAQs:** "Great" (7 ratings)[^ref-14]
 - **MyAbandonware:** 5/5 (4 votes)[^ref-13]
 
@@ -139,6 +139,19 @@ Multiplayer was not initially planned and was implemented late in development.[^
 - **Recording Studio:** TeleScene Inc., Loudmouth Inc.
 
 Tom Lehman appears as a playable golfer.[^ref-1]
+
+### Voice Cast
+
+| Actor | Credit |
+|-------|--------|
+| Geoff Spade | Voice talent |
+| Michele Wilson | Voice talent |
+| Mike Stalker | Voice talent |
+| Mark VanWagoner | Voice talent |
+| Deb Adams | Voice talent |
+| Sam A. Mowry | Voice talent |
+
+Recording studios: TeleScene Inc. and Loudmouth Inc.[^ref-27]
 
 ### Technical Achievements
 
@@ -190,6 +203,7 @@ Reviews identified several technical issues:
 - **Putting Power Calibration:** Even at the lowest power setting, a fairly gentle stroke could putt the ball too far.[^ref-6]
 - **Polygon Edges:** Sharp edges visible on some polygons, particularly in sand traps and walls.[^ref-6]
 - **Terrain Blending:** Terrain did not blend as uniformly as in other golf sims.[^ref-6]
+- **Ball Tracking:** Computer Gaming World's May found balls "nearly impossible to visually track following a hit" despite a ball-tracer option and a drive window view, and wanted a more dynamic ball tracker like the one in Interplay's VR Golf.[^ref-30]
 - **Bugs and AI:** Lackey reported a leaderboard bug, cart-path rulings charged as stroke penalties, and occasional poor AI decisions, noting that Sierra was working on a patch.[^ref-5]
 
 Sierra later released the v1.0.0.5 and golfpt15 updates.[^ref-16][^ref-17]
@@ -204,19 +218,6 @@ Front Page Sports: Golf contains several humorous touches:[^ref-6]
 
 The preview also noted ambient sounds such as mowers, airplanes and lawn sprinklers, and idle golfers shouting lines like "Hey buddy, we're losing daylight!"[^ref-3]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Various Characters | Geoff Spade |
-| Various Characters | Michele Wilson |
-| Various Characters | Mike Stalker |
-| Various Characters | Mark VanWagoner |
-| Various Characters | Deb Adams |
-| Various Characters | Sam A. Mowry |
-
-MobyGames credits TeleScene Inc. and Loudmouth Inc. as recording studios; individual roles are not documented.[^ref-27]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -225,7 +226,7 @@ No sales figures have been documented for Front Page Sports: Golf. Sierra listed
 
 The ESRB rated the game E for Everyone.[^ref-18][^ref-25]
 
-### Alternate Titles and Compilations
+### Alternate Titles
 
 MobyGames and MyAbandonware list the following alternate titles:[^ref-2][^ref-13]
 
@@ -235,6 +236,8 @@ MobyGames and MyAbandonware list the following alternate titles:[^ref-2][^ref-13
 - **Golf: All American Sports Series:** 1999 reissue[^ref-1]
 
 Acer TWP Corp published the Taiwanese release.[^ref-2][^ref-13]
+
+### Collections
 
 MobyGames lists the game in compilations including Le Meilleur de Sierra II (1998) and On-Line Games Collection Series (1997).[^ref-2]
 
@@ -276,6 +279,7 @@ Headgate went on to develop golf games for Sierra, starting with Front Page Spor
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
 
+- [[Front Page Sports Series]]
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Baseball Pro]]
@@ -291,7 +295,7 @@ Headgate went on to develop golf games for Sierra, starting with Front Page Spor
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) – development history, TrueSwing vs SimGolf, critical reception and review scores, PGA Championship Golf 1999 reuse
-[^ref-2]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – Moby Score (6.7, read via the MobyGames API October 2026), alternate titles, compilations, user reviews
+[^ref-2]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – Moby Score (6.8, 3 votes, read via the MobyGames API November 11, 2026), alternate titles, compilations, user reviews
 [^ref-3]: [GameSpot – Front Page Sports: Golf Preview](https://web.archive.org/web/20050408120428/http://www.gamespot.com/pc/sports/frontpagesportsgolf/preview_2563196.html) – Tasos Kaiafas preview (April 1997): Vance Cook history, TrueSwing vs SimGolf, game types, courses
 [^ref-5]: [Computer Games Strategy Plus – Jeff Lackey Review](https://web.archive.org/web/20030704203910/http://www.cdmag.com/articles/002/066/fps_golf_review.html) – TrueSwing praise, bugs, system requirements, multiplayer
 [^ref-6]: [GameSpot – Front Page Sports: Golf Review](https://www.gamespot.com/reviews/front-page-sports-golf-review/1900-2536105/) – 8.1/10 score, Tasos Kaiafas review, technical issues, gameplay details
