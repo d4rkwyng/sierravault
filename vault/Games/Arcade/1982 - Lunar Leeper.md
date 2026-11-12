@@ -10,14 +10,15 @@ series: None
 engine: Machine Language
 protagonist: Unnamed spaceship pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
-description: Lunar Leeper is a horizontally scrolling arcade shooter written by Chuck
-  Bueche for the Apple II and published by Sierra On-Line under its SierraVision label in 1982...
+last_updated: '2026-11-11'
+description: 'Lunar Leeper is a horizontally scrolling arcade shooter written by Chuck
+  Bueche for the Apple II and published by Sierra On-Line under its SierraVision label in 1982,
+  in which a pilot rescues stranded crewmates from the one-eyed Leepers before descending into a cave to destroy a giant eyeball.'
 tags: [1980s, shooter, sierra]
 ---
 # Lunar Leeper
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -58,7 +59,7 @@ The game is structured around two scenes that loop with increasing difficulty[^r
 - **Stage 1 - Surface Rescue:** Players patrol the moon's surface, picking up hostages located on the ground while avoiding and shooting Leepers who attempt to grab both the ship and rescued prisoners[^ref-1]
 - **Stage 2 - Cavern Attack:** Between rescue levels, players must navigate into an underground cavern and destroy the giant eyeball at the end of the tunnel; time is limited "since there is no refueling station inside the cave"[^ref-25]
 
-*Softline* noted that "By the third level, the Trabants have discovered their way out and are patrolling nearby," with "many more" Leepers[^ref-22]. The C64 version lets players select a game level from 1 to 7[^ref-25].
+*Softline* noted that "By the third level, the Trabants have discovered their way out and are patrolling nearby," with "many more" Leepers[^ref-22]. Sources differ on the number of levels: the C64 manual describes a game level selectable from 1 to 7[^ref-25], while *Personal Computer News* described the Apple II version as starting "at level one (easiest) of eight"[^ref-26]. That review adds that "Trabants start appearing in stage one with the added problem that they are unkillable"[^ref-26].
 
 ### Puzzles and Mechanics
 
@@ -76,9 +77,9 @@ Lunar Leeper received generally positive reviews on release, according to Retro3
 
 *Softline* (January 1983) reviewed the Apple II version and found the game "very addictive, and you'll probably lose hours of sleep over it"[^ref-22].
 
-*Ahoy!* (March 1984) called the VIC-20 cartridge "one of the newer VIC cartridges" and said the game "is best described as original, 'cute,' and hard as hell"[^ref-23]. In April 1984, *Ahoy!*'s Tim Moriarty reviewed the Commodore 64 version, calling personality "the game's strong point" but concluding that "With no graphic or gameplay breakthroughs and a lack of variation or long-range playability (even though there are seven levels), there is less here than meets the eye"[^ref-24]. *Personal Computer Games* gave the title favorable coverage in its first issue in 1983[^ref-2].
+*Ahoy!* (March 1984) called the VIC-20 cartridge "one of the newer VIC cartridges" and said the game "is best described as original, 'cute,' and hard as hell"[^ref-23]. In April 1984, *Ahoy!*'s Tim Moriarty reviewed the Commodore 64 version, calling personality "the game's strong point" but concluding that "With no graphic or gameplay breakthroughs and a lack of variation or long-range playability (even though there are seven levels), there is less here than meets the eye"[^ref-24]. *Personal Computer Games* gave the title favorable coverage in its first issue in 1983[^ref-2]; that issue's software listing records the game from supplier Sierra Vision for the Apple II at £19.95[^ref-28].
 
-*Personal Computer News* reviewed the Apple II version on 22 April 1983 under the headline "Game for a laugh." Reviewer Nigel Cross wrote: "I so thoroughly enjoyed this game I assumed I was being biased. However, I coerced a couple of non-game players to have a go. Result — addiction"[^ref-26]. The printed rating gives the game the full five icons in all four categories (lasting appeal, playability, use of machine, overall)[^ref-26], which UVList records as 20/20[^ref-11].
+*Personal Computer News* reviewed the Apple II version on 22 April 1983 under the headline "Game for a laugh." Reviewer Nigel Cross wrote: "I so thoroughly enjoyed this game I assumed I was being biased. However, I coerced a couple of non-game players to have a go. Result — addiction"[^ref-26]. The review carries a printed rating in four categories (lasting appeal, playability, use of machine, overall)[^ref-26], which UVList records as 20/20[^ref-11].
 
 ### Modern Assessment
 
@@ -93,7 +94,7 @@ Glitchwave users provided a more critical assessment, with the Commodore 64 vers
 - **Lemon64:** 5/10 (Northlander review)[^ref-9]
 - **MyAbandonware:** 4/5 (user rating)[^ref-12]
 - **Glitchwave:** 2.18/5 (3 ratings)[^ref-13]
-- **C64Online:** 1/5[^ref-14]
+- **C64Online:** 1/5 (2 votes)[^ref-14]
 
 ## Development
 
@@ -101,7 +102,7 @@ Glitchwave users provided a more critical assessment, with the Commodore 64 vers
 
 Lunar Leeper was written by Chuck Bueche, known by his nickname "Chuckles," for the Apple II; Sierra's January 1983 *Softline* advertisement billed *Lunar Leepers* as "a fantastic new APPLE arcade game from CHUCKLES, creator of Laff Pak"[^ref-22]. Bueche, a University of Texas roommate of Richard Garriott, had earlier published *Laf Pak* through On-Line Systems[^ref-21].
 
-In autumn 1982 Sierra introduced SierraVision, a brand aimed at action and cartridge-based games, and Lunar Leeper was part of its first batch[^ref-21]. The game "blended elements of Williams Electronics' Defender with its own unique twists"; Retro365 reports that Ken Williams admired *Defender*'s technical ingenuity and saw potential in Bueche's work[^ref-21].
+Sierra's software catalog describes the game as: "Keep up with the fast pace of this colorful game or your comrades are goners! The leepers don't really mean any harm; they're just hungry!"[^ref-29] In autumn 1982 Sierra introduced SierraVision, a brand aimed at action and cartridge-based games, and Lunar Leeper was part of its first batch[^ref-21]. The game "blended elements of Williams Electronics' Defender with its own unique twists"; Retro365 reports that Ken Williams admired *Defender*'s technical ingenuity and saw potential in Bueche's work[^ref-21].
 
 ### Production
 
@@ -178,7 +179,7 @@ No major compilation releases including Lunar Leeper have been documented; the o
 
 ### Spin-offs and Related Games
 
-The Leeper character reappeared in an educational spin-off title in 1983[^ref-4]. *[[1983 - Learning with Leeper|Learning with Leeper]]* was developed by Sierra On-Line and designed by Nancy Anderton, featuring one of the Leeper creatures as a friendly mascot guiding children through four educational mini-games combining matching, logic, and creativity exercises[^ref-4].
+The Leeper character reappeared in an educational spin-off title in 1983[^ref-4]. Sierra's own software catalog announced it as "our first educational production development now, starring the lovable Lunar Leeper and his new friend, Dusty Dog"[^ref-29]. *[[1983 - Learning with Leeper|Learning with Leeper]]* was developed by Sierra On-Line and designed by Nancy Anderton, featuring one of the Leeper creatures as a friendly mascot guiding children through four educational mini-games combining matching, logic, and creativity exercises[^ref-4].
 
 *Learning with Leeper* was released across numerous platforms including Apple II, Commodore 64, Atari 8-bit, ColecoVision, DOS, and ZX Spectrum[^ref-4]. The MobyGames description notes: "In Lunar Leeper, one of Sierra's earlier arcade games, players had to rescue prisoners on a planet's surface while avoiding the 'Leepers', who would leap into the air in an attempt to grab them, and one of the Leepers feature in this game"[^ref-7].
 
@@ -207,6 +208,10 @@ Modern user assessments are mixed: Glitchwave reviewer Clownboss called it "a De
 **Download / Preservation**
 - [Internet Archive - Commodore 64 Version](https://archive.org/details/d64_Lunar_Leeper_1982_Sierra_Online)[^ref-1]
 - [MyAbandonware](https://www.myabandonware.com/game/lunar-leeper-4ev)[^ref-12]
+
+**Manuals & Extras**
+- [Lunar Leeper C64 Manual (Internet Archive)](https://archive.org/details/Lunar_Leeper_1982_Sierra_Online)[^ref-25]
+- [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog)[^ref-29]
 
 **Emulation**
 - [C64Online - Browser Playable](https://c64online.com/c64-games/lunar-leeper/)[^ref-14]
@@ -256,6 +261,8 @@ Modern user assessments are mixed: Glitchwave reviewer Clownboss called it "a De
 [^ref-23]: [Ahoy! #3, March 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-03) – VIC-20 cartridge coverage
 [^ref-24]: [Ahoy! #4, April 1984 (Internet Archive)](https://archive.org/details/ahoy-magazine-04) – Tim Moriarty's Commodore 64 review
 [^ref-25]: [Lunar Leeper C64 Manual (Internet Archive)](https://archive.org/details/Lunar_Leeper_1982_Sierra_Online) – story, controls, refueling, scoring, levels 1–7
-[^ref-26]: [Personal Computer News, 22 April 1983 (Internet Archive)](https://archive.org/details/Personal_Computer_News_1983_04_22.pdf) – Nigel Cross's Apple II review "Game for a laugh" (p. 52): control options, verdict, five-icon ratings
+[^ref-26]: [Personal Computer News, 22 April 1983 (Internet Archive)](https://archive.org/details/Personal_Computer_News_1983_04_22.pdf) – Nigel Cross's Apple II review "Game for a laugh" (p. 52): control options, eight levels, verdict
 [^ref-27]: [CollectorVision – Lunar Leeper](https://collectorvision.com/games/lunarleeper.php) – ColecoVision cartridge, programmer Nanochess, product code LLQ-901, release date 2020
+[^ref-28]: [Personal Computer Games, issue 1, 1983 (Internet Archive)](https://archive.org/details/personalcomputergames-magazine-01) – software listing: "GAME: LUNAR LEEPER, SUPPLIER: SIERRA VISION, PRICE: £19.95, MACHINE: APP"
+[^ref-29]: [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog) – official game blurb; announcement of the educational title starring Lunar Leeper and Dusty Dog
 
