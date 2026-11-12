@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: "Field & Stream: Trophy Bass 4 is a bass fishing simulation developed by Dynamix and published by Sierra Sports in May 2000, featuring 25 tournament lakes, more than 30 game fish species and Force Feedback support."
 tags:
   - 2000s
@@ -23,7 +23,7 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -48,7 +48,7 @@ GameSpot's Stephen Poole awarded the game 8.2/10[^ref-8], while IGN gave it 8/10
 
 Trophy Bass 4 renders its lakes in 3D, with graphics locked at 640x480[^ref-24][^ref-8]. Players can fish from the boat camera behind the angler, a new free-floating camera that can be zoomed and turned in any direction, a first-person view, or the "LureCam", which follows the lure underwater[^ref-8][^ref-25]. A mouse-and-keyboard control scheme handles casting, the depth finder, boat driving and reeling[^ref-5]; Eurogamer described reeling with the mouse while setting line tension and reel strength from the keyboard[^ref-28]. The only force-feedback controller the game supports is the Microsoft SideWinder Force Feedback Pro, which lets players feel a hooked fish fighting the line[^ref-8][^ref-25][^ref-24].
 
-Built-in multimedia pro tips give pointers on where to find bass and how to make them strike[^ref-8]. Players can also customize the appearance of their angler and boat[^ref-23][^ref-8].
+Built-in multimedia pro tips give pointers on where to find bass and how to make them strike[^ref-8]. Players can also customize the appearance of their angler and boat[^ref-23][^ref-8]. A trophy album lets players take a snapshot of a big catch and show it off later[^ref-8]; CNET Gamecenter called the same feature a Photo Album that lets you take screen shots of the fish you landed[^ref-25].
 
 ### Structure and Progression
 
@@ -89,11 +89,26 @@ On Amazon the game averages 3.8 out of 5 stars from customer ratings[^ref-3]. My
 
 ### Origins and Team
 
-Field & Stream: Trophy Bass 4 was developed by Dynamix and published by Sierra[^ref-2][^ref-24]. MobyGames' credits list Susan Folden as executive producer, Steven D. Letsom as director, Richard Rayl as technical director, Kurt Weber as designer and Damon Mitchell as art director. Randy Dersham and Michael Waite are credited with the original concept[^ref-22]. Four bass fishing pros appear in the credits: Denny Brauer, Larry Nixon, Kevin VanDam and Penny Berryman[^ref-22].
+Field & Stream: Trophy Bass 4 was developed by Dynamix and published by Sierra[^ref-2][^ref-24]. Sources name the publisher differently: Sierra Chest and the Strategy Plus ship news say Sierra Sports[^ref-15][^ref-23], while CNET Gamecenter's Facts box and MobyGames say Sierra On-Line[^ref-25][^ref-2]. MobyGames' credits list Susan Folden as executive producer, Steven D. Letsom as director, Richard Rayl as technical director, Kurt Weber as designer and Damon Mitchell as art director. Randy Dersham and Michael Waite are credited with the original concept[^ref-22]. Four bass fishing pros appear in the credits: Denny Brauer, Larry Nixon, Kevin VanDam and Penny Berryman[^ref-22].
 
-### Technical Details
+### Technical Specifications
 
-The game runs at 640x480[^ref-8][^ref-24] and supports 3dfx hardware acceleration as well as software rendering[^ref-26]. PC Zone and Strategy Plus listed a Pentium 166 MHz and 32 MB of RAM as the minimum[^ref-27][^ref-24]. CNET Gamecenter specified a Pentium 166 with a 3D accelerator card, or a Pentium 200 without one[^ref-25]. Online play ran through the free WON.net service[^ref-25][^ref-8].
+The game runs at 640x480[^ref-8][^ref-24] and supports 3dfx hardware acceleration as well as software rendering[^ref-26]. Online play ran through the free WON.net service[^ref-25][^ref-8]. CNET Gamecenter's Facts box listed a retail price of $30 and these requirements[^ref-25]:
+
+| Component | Requirement |
+|-----------|-------------|
+| Processor | Pentium 166 with a 3D accelerator card, or Pentium 200 without a 3D card |
+| Operating system | Windows 95/98/NT with Service Pack 4 |
+| Memory | 32 MB RAM |
+| Optical drive | 8X CD-ROM |
+| Display | SVGA 640-by-480 high-color |
+| Sound | DirectSound-compatible sound card |
+
+PC Zone and Strategy Plus likewise listed a Pentium 166 MHz and 32 MB of RAM as the minimum[^ref-27][^ref-24]. MobyGames records the game as CD-ROM media with a minimum of Windows 95, an Intel Pentium, 32 MB of RAM and an 8X CD-ROM drive[^ref-2].
+
+### Technical Issues
+
+A 2016 thread on the VOGONS forum reports that on Windows 10, with nGlide installed, the game starts but closes after the first screen with the message "You need at least 50MB of Free disk Space to play Trophy Bass 4"; one reply suggested limiting the reported free disk space through the Compatibility Toolkit's EmulateGetDiskFreeSpace[^ref-33]. A 2019 post in the same thread says the problem appeared after installing patch 1.0.0.4 and went away with v1.0.0.2[^ref-33]. These are user reports, not confirmed by Sierra.
 
 ### Audio and Presentation
 
@@ -104,7 +119,9 @@ The music is credited to Christopher Stevens (www.fabmusic.com), and the sound e
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | May 2000 | Windows | Original release[^ref-23] |
+| 1.0 (EU) | 2000 | Windows | English/German edition in a flip-top box[^ref-32]; MobyGames lists a German release distributed by HAVAS Interactive Deutschland GmbH[^ref-2] |
 | 1.0.0.2 | August 2000 | Windows | Patch carried on the PC Zone issue 92 cover disc[^ref-27] |
+| 1.0.0.4 | — | Windows | Later update patch, described as the last patch by a VOGONS poster[^ref-33] |
 
 ## Legacy
 
@@ -155,3 +172,5 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-29]: [GameRankings – Trophy Bass 4 for PC, Wayback copy](https://web.archive.org/web/20190603073326/https://www.gamerankings.com/pc/250560-trophy-bass-4/index.html) – 74.00% based on 10 reviews
 [^ref-30]: [MobyGames – Bass Pro Shops: Trophy Bass 2007](https://www.mobygames.com/game/120419/bass-pro-shops-trophy-bass-2007/) – Released 2006 on Xbox and Windows; developer Big John Games, publisher Vivendi Games
 [^ref-31]: [Internet Archive – Field & Stream: Trophy Bass 4 Demo](https://archive.org/details/FieldStreamTrophyBass4) – Sierra On-Line demo; "fish a limited area of Lake Marion, South Carolina"
+[^ref-32]: [SierraChest – Field & Stream: Trophy Bass 4, Packaging & content](https://sierrachest.com/index.php?a=games&id=408&fld=box) – "PC CD-ROM, US, flip-top box with flap"; "PC CD-ROM, EU (English/German), flip-top box"
+[^ref-33]: [VOGONS – Trophy Bass 4 - Field & Stream Trophy Bass. No Work on Windows 10](https://www.vogons.org/viewtopic.php?t=50808) – 2016 user report; "The last patch is 1.0.0.4"; "You need at least 50MB of Free disk Space"; v1.0.0.2 reported working (2019 post)
