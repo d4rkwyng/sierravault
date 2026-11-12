@@ -10,16 +10,16 @@ series: 3D Ultra
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999.
 tags: [1990s, 3d-ultra, puzzle, sierra]
-last_modified: 2026-10-27T10:25:25-06:00
+last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ last_modified: 2026-10-27T10:25:25-06:00
 
 The game features over 70 assignments across seven play environments, including a desert, the arctic, a living room, and the moon[^ref-1][^ref-25]. Players control locomotives to deliver cargo from one place to another, and each level has its own narrated scenario rather than aimless train movement[^ref-2]. The jobs range from simple deliveries to tasks like clearing avalanches off the tracks before a passenger train arrives[^ref-22][^ref-4]. The game also has an educational side, with math, word and memory puzzles built into some of its jobs[^ref-1].
 
-The game won Computer Family Entertainment Title of the Year from the Academy of Interactive Arts and Sciences at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000[^ref-1][^ref-23][^ref-24].
+The game won Family Entertainment Title of the Year (personal computer category) from the Academy of Interactive Arts and Sciences at the 3rd Annual Interactive Achievement Awards, held on May 11, 2000[^ref-1][^ref-23][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -92,7 +92,7 @@ The game features over 30 different Lionel model trains with animations[^ref-3][
 
 Gamezilla's Christine and Mike Messersmith gave the game a score of **89** in a review posted on 27 March 2000[^ref-22]. They praised the smoke effects, "ultra smooth" animation, and the "simple, yet intuitive control interface," and wrote that they "struggled with giving this game a score in the 90's, but since it may not appeal to players in all genres, we both happily give this game a score of 89"[^ref-22].
 
-The Academy of Interactive Arts and Sciences honored it as Family Entertainment Title of the Year at the 3rd Annual Interactive Achievement Awards[^ref-6][^ref-23].
+The Academy of Interactive Arts and Sciences honored it as Family Entertainment Title of the Year (personal computer category) at the 3rd Annual Interactive Achievement Awards[^ref-6][^ref-23].
 
 A description of the Deluxe edition reproduced on MyAbandonware calls it potentially "everything both a parent and a child could want," and says that "though its approach is low-key, it's also very educational"[^ref-14].
 
@@ -120,7 +120,7 @@ The game was licensed by Lionel, LLC[^ref-1][^ref-25].
 
 ### Production
 
-Development took place at [[Dynamix|Dynamix, Inc.]], with Sierra On-Line publishing under its casual game brand Sierra Attractions[^ref-1].
+Development took place at [[Dynamix|Dynamix, Inc.]], with Sierra On-Line publishing under its casual game brand Sierra Attractions[^ref-1]. The Review Corner listing gives the brand as Sierra Attractions[^ref-28], while MobyGames and GameFAQs list the publisher as Sierra On-Line[^ref-25][^ref-27].
 
 The game's opening sequence incorporated video clips from existing Lionel video titles: "The History of Lionel Trains," "Toy Trains & Christmas Part 1," and "The Making of the Lionel Scale Hudson"[^ref-15].
 
@@ -133,6 +133,8 @@ The game's opening sequence incorporated video clips from existing Lionel video 
 - **Requirements:** Windows 95/98, P120 or better, 16 MB RAM, 50 MB hard drive space, 4x CD-ROM drive
 - **Display:** SVGA 800x600 at 16-bit high-color
 - **Media:** CD-ROM (not required once the game is installed)
+
+MobyGames lists the minimum requirements as an Intel Pentium, Windows 95, 16 MB RAM and a 4x CD-ROM drive, with an ESRB rating of Everyone[^ref-25].
 
 ### Sound Effects
 
@@ -173,7 +175,7 @@ No sales figures are publicly available. Sierra announced the game at a price of
 
 ### Awards
 
-- **Computer Family Entertainment Title of the Year** – Academy of Interactive Arts and Sciences, 3rd Annual Interactive Achievement Awards (May 11, 2000)[^ref-1][^ref-23][^ref-24]
+- **Family Entertainment Title of the Year (personal computer category)** – Academy of Interactive Arts and Sciences, 3rd Annual Interactive Achievement Awards (May 11, 2000)[^ref-1][^ref-23][^ref-24]
 
 ### Collections
 
@@ -185,7 +187,7 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 
 ### Critical Perspective
 
-3D Ultra Lionel Traintown combined puzzle gameplay, educational jobs and the Lionel license, and showed that the 3D Ultra line could move beyond arcade games into puzzle gaming[^ref-3]. Its Family Entertainment award[^ref-23] and the fond memories players still share online[^ref-12][^ref-18] suggest it left a lasting impression on the families who played it.
+3D Ultra Lionel Traintown combined puzzle gameplay, educational jobs and the Lionel license, and showed that the 3D Ultra line could move beyond arcade games into puzzle gaming[^ref-3]. Its Family Entertainment Title of the Year award[^ref-23] and the fond memories players still share online[^ref-12][^ref-18] suggest it left a lasting impression on the families who played it.
 
 ## Downloads
 
@@ -239,7 +241,7 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 [^ref-17]: [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility/crossover/3d-ultra-lionel-traintown-deluxe) – CrossOver compatibility ratings (Deluxe edition)
 [^ref-18]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – player memories of the Deluxe edition, Best Buy purchase in 2000
 [^ref-22]: [Gamezilla – 3D Ultra Lionel TrainTown review (Wayback Machine)](https://web.archive.org/web/20000511112845/http://www.gamezilla.com/reviews/t/traintown.asp) – Christine & Mike Messersmith, posted 27 March 2000; score 89, system requirements, 72 missions
-[^ref-23]: [Interactive Achievement Awards PC finalists (Wayback Machine)](https://web.archive.org/web/20001011204415/http://www.interactive.org/iaa/finalists_pc.html) – Family Entertainment Title of the Year: 3-D Ultra Lionel Traintown, Dynamix/Sierra On-Line
+[^ref-23]: [Interactive Achievement Awards PC finalists (Wayback Machine)](https://web.archive.org/web/20001011204415/http://www.interactive.org/iaa/finalists_pc.html) – Personal Computer category, Family Entertainment Title of the Year: 3-D Ultra Lionel Traintown, Dynamix/Sierra On-Line
 [^ref-24]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony held May 11, 2000 at the Millennium Biltmore Hotel during E3 2000
 [^ref-25]: [MobyGames – 3-D Ultra Lionel TrainTown](https://www.mobygames.com/game/192264/3-d-ultra-lionel-traintown/) – back-of-box features, developer/publisher credits, alternate title "Mini Train"
 [^ref-26]: [IGN – 3-D Three (Wayback Machine)](https://web.archive.org/web/20240629193048/https://www.ign.com/articles/1999/09/21/3-d-three) – September 1999 announcement with Radio Control Racers and Cool Pool, ~$19.95 price
