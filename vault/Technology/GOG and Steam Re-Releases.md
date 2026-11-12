@@ -1,20 +1,20 @@
 ---
 title: "GOG and Steam Re-Releases"
 type: technology
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "Where to legally buy Sierra games today — the current GOG.com and Steam catalogues by series, with ScummVM/DOSBox packaging notes."
 tags: [technology, gog, steam, re-releases, preservation, commerce]
 ---
 
 # GOG and Steam Re-Releases
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The legal commercial path to playing Sierra games on modern systems runs primarily through two digital storefronts: **GOG.com** (DRM-free) and **Steam**. GOG carries most of the classic Sierra adventure catalogue, packaged with ScummVM or DOSBox; Steam carries a smaller set of the classic collections plus most post-2014 remakes and successors.[^ref-1][^ref-2]
 
-This page is a snapshot of legal availability as checked against the live GOG and Steam store data on **October 16, 2026** (US store), with every store claim rechecked on **October 26, 2026**. The picture changes as rights holders adjust back-catalogue licensing — see [[Corporate Lineage|Corporate Lineage]] for the IP-rights context.
+This page is a snapshot of legal availability as checked against the live GOG and Steam store data on **October 16, 2026** (US store), with every store claim rechecked on **October 26, 2026** and again on **November 11, 2026**. The picture changes as rights holders adjust back-catalogue licensing — see [[Corporate Lineage|Corporate Lineage]] for the IP-rights context.
 
 **Verification protocol:** Never trust a GOG link in a citation without first checking the title is actually available. A search such as `site:gog.com "Game Title"` (Brave or Google) is the recommended verification step; GOG redirects dead product links to its catalogue page rather than showing an error.
 
@@ -24,7 +24,7 @@ This page is a snapshot of legal availability as checked against the live GOG an
 
 On October 16, 2026, GOG's catalogue listed 28 products under its "Sierra" developer filter, plus 6 Dynamix and 8 Impressions Games products.[^ref-1][^ref-16][^ref-17] Most classic adventure series are sold as multi-game packs; many other titles are sold individually.
 
-GOG has been moving its Sierra packages to ScummVM. The King's Quest 1+2+3 and Space Quest 1+2+3 pages say "This game is powered by ScummVM"; Space Quest 1+2+3 replaced DOSBox with ScummVM 2.0 in April 2018 and updated ScummVM to 2026.1.0 on February 20, 2026, the same day the Police Quest Collection "Switched emulation from DOSBox to ScummVM".[^ref-18][^ref-19][^ref-20] Gabriel Knight: Sins of the Fathers also "replaced DOSBox with ScummVM 2.0" in an April 23, 2018 update.[^ref-21]
+GOG has been moving its Sierra packages to ScummVM. The King's Quest 1+2+3 and Space Quest 1+2+3 pages say "This game is powered by ScummVM"; Space Quest 1+2+3 replaced DOSBox with ScummVM 2.0 in April 2018 and updated ScummVM to 2026.1.0 on February 20, 2026, the same day the Police Quest Collection "Switched emulation from DOSBox to ScummVM".[^ref-18][^ref-19][^ref-20] Gabriel Knight: Sins of the Fathers also "replaced DOSBox with ScummVM 2.0" in an April 23, 2018 update.[^ref-21] On October 29, 2026 it received a GOG v2 update that added a DOS version running on DOSBox and a Windows version running on ScummVM, with a launcher, the GOG Game Configurator and cloud saves in both.[^ref-54]
 
 ### Adventure flagship series on GOG
 
@@ -46,8 +46,9 @@ Source for the table: GOG catalogue data, checked October 16, 2026.[^ref-1][^ref
 
 - **Sierra adventures sold individually:** [[1990 - Codename - Iceman|Codename: ICEMAN]], [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], [[1995 - Torin's Passage|Torin's Passage]], [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]][^ref-1]
 - **Dynamix:** [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], Betrayal at Krondor Pack, MissionForce: CyberStorm, Red Baron Pack[^ref-16]
+- **Rebellion-published Sierra titles:** [[2001 - Empire Earth|Empire Earth]] is sold as Empire Earth Gold Edition (developer Stainless Steel Studios, publisher Rebellion).[^ref-55]
 - **Impressions:** Caesar, [[1995 - Caesar II|Caesar II]], [[1998 - Caesar III|Caesar 3]], [[1999 - Pharaoh|Pharaoh + Cleopatra]], [[2000 - Zeus - Master of Olympus|Zeus + Poseidon]], Lords of Magic: Special Edition, Lords of the Realm: Royal Edition, Lords of the Realm 3[^ref-17]
-- **Other Sierra-label titles:** [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]], [[1997 - Outpost 2 - Divided Destiny|Outpost 2]], SWAT 3: Tactical Game of the Year Edition[^ref-1]; [[1998 - Return to Krondor|Return to Krondor]] and [[2001 - Arcanum|Arcanum]] (PyroTechnix and Troika Games respectively; Activision as publisher)[^ref-51][^ref-52]
+- **Other Sierra-label titles:** [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]], [[1997 - Outpost 2 - Divided Destiny|Outpost 2]], [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Tactical Game of the Year Edition]][^ref-1]; [[1998 - Return to Krondor|Return to Krondor]] and [[2001 - Arcanum|Arcanum]] (PyroTechnix and Troika Games respectively; Activision as publisher)[^ref-51][^ref-52]
 - [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (Gearbox Software, developer and publisher)[^ref-23]
 - [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (Pinkerton Road)[^ref-24]
 - [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] (Transolar Games)[^ref-25]
@@ -61,7 +62,7 @@ Source for the table: GOG catalogue data, checked October 16, 2026.[^ref-1][^ref
 - **[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]** — not sold on GOG.
 - **[[2010 - Gray Matter|Gray Matter]]** and **[[2022 - SpaceVenture|SpaceVenture]]** — no current GOG product; both are on Steam.[^ref-28][^ref-29]
 - **Many smaller Sierra-published and acquired-studio titles** (for example Stunt Flyer, and Coktel's A.G.E. and Bargon Attack) — not available from either storefront.
-- **Hoyle entries** and **most 3-D Ultra entries** — no Hoyle title turned up in either store's search. The only 3-D Ultra title sold today is [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]], listed on Steam as "3D Ultra™ Minigolf Adventures" (Wanako Games / Activision); it is not on GOG.[^ref-47]
+- **Hoyle entries** and **most 3-D Ultra entries** — Steam keeps store pages for Hoyle Official Card Games (app 397420, Webfoot Games / Viva Media, November 18, 2015) and Hoyle Official Casino Games (app 532950, Encore, October 14, 2016), but neither can be bought: the Steam appdetails API lists no packages and no price for either (checked November 11, 2026). Neither is on GOG.[^ref-56] The only 3-D Ultra title sold today is [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]], listed on Steam as "3D Ultra™ Minigolf Adventures" (Wanako Games / Activision); it is not on GOG.[^ref-47]
 - **Coktel pre-Gobliiins titles** — 20,000 Leagues, Asterix, Geisha, Cougar Force, etc. (GOG does sell a Gobliiins pack.)
 - **Fan remakes** — AGDI and similar studios distribute their remakes from their own sites.
 
@@ -78,6 +79,10 @@ Steam's Sierra coverage is smaller than GOG's but includes the main classic coll
 - **King's Quest™ Collection** (KQ1–7; King's Quest 8 is not included) and **Space Quest™ Collection** (both released on Steam July 23, 2009)[^ref-30][^ref-31]
 - **Police Quest™ Collection**, **Quest for Glory 1-5**, **Gabriel Knight 1, 2 and 3** (sold separately), **Phantasmagoria 1 and 2** (all August 29, 2016)[^ref-32][^ref-33][^ref-34][^ref-35]
 - **Police Quest: SWAT** and **SWAT 2**[^ref-36]
+- **SWAT 3: Tactical Game of the Year Edition** (Sierra / Activision, April 18, 2017, $9.99), **Return to Krondor** (PyroTechnix / Activision, December 15, 2016), **Arcanum: Of Steamworks and Magick Obscura** (Troika Games / Activision, August 29, 2016) and **Betrayal Collection** (Dynamix / Activision, December 15, 2016)[^ref-57][^ref-58][^ref-59][^ref-60]
+- **Red Baron Pack** (Mad Otter Games, January 7, 2016, $9.99)[^ref-61]
+- Impressions strategy titles published by Rebellion, all released December 3, 2015: [[1994 - Lords of the Realm|Lords of the Realm]], [[1996 - Lords of the Realm II|Lords of the Realm II]], [[2004 - Lords of the Realm III|Lords of the Realm III]] and Lords of Magic: Special Edition[^ref-62]
+- **Empire Earth: Gold Edition** (Rebellion, first listed on Steam May 26, 2026, $5.99), with Empire Earth II: Gold Edition and Empire Earth III released the same day[^ref-63]
 - Impressions city-builders: **Caesar 3**, **Pharaoh + Cleopatra**, **Zeus + Poseidon** (Emperor is on GOG but not Steam)[^ref-37]
 
 ### Later remakes, reboots and successors on Steam
@@ -155,7 +160,7 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 ## References
 
 [^ref-1]: [GOG.com — Sierra developer catalogue](https://www.gog.com/en/games?developers=sierra) — 28 products (GOG catalogue API, checked 2026-10-16)
-[^ref-2]: [Steam — Sierra developer page](https://store.steampowered.com/developer/Sierra) — Steam Sierra listings
+[^ref-2]: [Steam — King's Quest™ Collection](https://store.steampowered.com/app/10100/) — Sierra / Activision, July 23, 2009; one of the classic Sierra collections sold on Steam (checked 2026-11-11)
 [^ref-6]: [Steam — King's Quest (2015)](https://store.steampowered.com/app/345390/Kings_Quest/) — The Odd Gentlemen; Sierra/Activision; July 28, 2015; free base game
 [^ref-7]: [Pinkerton Road (Wayback, May 2019)](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/) — "Story-based Adventure Games From Jane Jensen and Robert Holmes"
 [^ref-8]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — "The Odd Gentleman studio will bring back King's Quest"
@@ -201,3 +206,13 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-51]: [GOG.com — Return to Krondor](https://www.gog.com/en/game/return_to_krondor) — Developer PyroTechnix; publisher Activision (checked 2026-10-26)
 [^ref-52]: [GOG.com — Arcanum: Of Steamworks and Magick Obscura](https://www.gog.com/en/game/arcanum_of_steamworks_and_magick_obscura) — Developer Troika Games; publisher Activision (checked 2026-10-26)
 [^ref-53]: [GOG.com — Quest for Infamy](https://www.gog.com/en/game/quest_for_infamy) — Developer Infamous Quests; release July 10, 2014 (checked 2026-10-26)
+[^ref-54]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — "1.1 GOG v2 changelog (29 October 2026)": "Added the DOS version running on DOSBox ... Added the Windows version running on ScummVM"; "Added Cloud Saves support to both versions" (checked 2026-11-11)
+[^ref-55]: [GOG.com — Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) — Stainless Steel Studios; publisher Rebellion (checked 2026-11-11)
+[^ref-56]: [Steam — Hoyle Official Card Games](https://store.steampowered.com/app/397420/) and [Hoyle Official Casino Games](https://store.steampowered.com/app/532950/) — store pages exist; appdetails API shows no packages and no price for either (checked 2026-11-11)
+[^ref-57]: [Steam — SWAT 3: Tactical Game of the Year Edition](https://store.steampowered.com/app/560370/) — Sierra / Activision, April 18, 2017; $9.99 (checked 2026-11-11)
+[^ref-58]: [Steam — Return to Krondor](https://store.steampowered.com/app/564960/) — PyroTechnix / Activision, December 15, 2016; $5.99 (checked 2026-11-11)
+[^ref-59]: [Steam — Arcanum: Of Steamworks and Magick Obscura](https://store.steampowered.com/app/500810/) — Troika Games / Activision, August 29, 2016; $5.99 (checked 2026-11-11)
+[^ref-60]: [Steam — Betrayal Collection](https://store.steampowered.com/app/559640/) — Dynamix / Activision, December 15, 2016; $5.99 (checked 2026-11-11)
+[^ref-61]: [Steam — Red Baron Pack](https://store.steampowered.com/app/263940/) — Mad Otter Games, January 7, 2016; $9.99 (checked 2026-11-11)
+[^ref-62]: [Steam — Lords of the Realm](https://store.steampowered.com/app/254920/) — Impressions Games / Rebellion, December 3, 2015; Lords of the Realm II (397350), Lords of the Realm III (254860) and Lords of Magic: Special Edition (404040) also listed (checked 2026-11-11)
+[^ref-63]: [Steam — Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) — Rebellion, May 26, 2026; $5.99; Empire Earth II: Gold Edition (254780) and Empire Earth III (254800) also May 26, 2026 (checked 2026-11-11)
