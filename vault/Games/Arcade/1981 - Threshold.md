@@ -11,14 +11,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Earth Federation Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Threshold is a space-themed fixed shooter by Warren Schwader and Ken Williams,
   developed by On-Line Systems (later Sierra On-Line) and released in 1981 for the Apple II.
 tags: [1980s, arcade, shooter, sierra]
 ---
 # Threshold
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ The game places players in command of the spaceship Threshold during a dark age 
 
 The narrative of Threshold is set during a desperate period in humanity's future. "It is a dark age for the Earth Federation. Our home planet is under attack and our colonies are raided unmercifully. Space travel has become a death wish as more and more enemy ships find their way past the outer defenses and into the paths of friendly trade"[^ref-3]. This dystopian backdrop provides context for the player's mission as an exploring space attack ship commander.
 
-Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. Tigervision's Atari 2600 box copy promises "up to 10 different enemy forces"[^ref-5]; the 1986 Frogger/Threshold box promises "20 squads" of attackers[^ref-21], while Schwader said the Apple II original has 24 levels in all[^ref-16] and *Creative Computing* (1984) counted 24 waves[^ref-22].
+Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. Tigervision's Atari 2600 box copy promises "up to 10 different enemy forces"[^ref-5], while Tigervision's own ad in *Electronic Games* (January 1983) says "up to 12 different enemy forces"[^ref-24]; the 1986 Frogger/Threshold box promises "20 squads" of attackers[^ref-21], while Schwader said the Apple II original has 24 levels in all[^ref-16] and *Creative Computing* (1984) counted 24 waves[^ref-22].
 
 The 2600 box copy also warns players to "be alert for the narrow tunnels you must fly your ship through"[^ref-5]. The mothership only refuels the ship after every fourth wave, and running out of fuel before then ends the game[^ref-1][^ref-12].
 
@@ -60,7 +60,7 @@ Gameplay progresses through waves of enemy formations, with each wave presenting
 - **Formations:** Some enemies hold formation while firing downward; others break away, dive toward the player or try to ram the ship[^ref-1]
 - **Later waves:** Faster movement, heavier fire and increasingly unpredictable formations[^ref-1]
 
-Players can activate a "hyper warp drive" once per ship to briefly slow down the action[^ref-1][^ref-19]. The Atari 2600 version omits the warp drive[^ref-1][^ref-2].
+Players can activate a "hyper warp drive" once per ship to briefly slow down the action[^ref-1][^ref-19]. The standard computer versions begin with five ships, with another awarded at 50,000 points and further ships every 100,000 points thereafter[^ref-1]. The Atari 2600 version omits the warp drive[^ref-1][^ref-2].
 
 ### Puzzles and Mechanics
 
@@ -172,7 +172,7 @@ Threshold appeared on eight platforms between 1981 and 1984[^ref-1].
 
 ### Collections
 
-In 1986 Sierra paired the Commodore 64 disk version with Frogger in a two-game *Frogger/Threshold* package ("Two classics in one package")[^ref-21][^ref-15]. Today the game exists primarily through preservation efforts and retro gaming communities. Copies are available through abandonware sites and ROM archives, with the Internet Archive hosting playable versions for multiple platforms[^ref-4][^ref-11].
+In 1986 Sierra paired the Commodore 64 disk version with Frogger in a two-game *Frogger/Threshold* package ("Two classics in one package")[^ref-21][^ref-15]. Today the game exists primarily through preservation efforts and retro gaming communities. The 1986 package was not the first compilation appearance: Lemon64 also lists the C64 version in *Arcade Games Familiar Favorites* (1985, disk)[^ref-15]. Copies are available through the Internet Archive, which hosts playable versions for multiple platforms[^ref-4][^ref-11], and My Abandonware[^ref-7].
 
 ### Fan Projects
 
@@ -196,7 +196,6 @@ Threshold occupies an interesting position in Sierra's history as a representati
 - [Internet Archive – Apple II Version](https://archive.org/details/a2_Threshold_1981_On_Line_Systems)
 - [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Threshold_1982_On_Line_Systems_US)
 - [Internet Archive – ColecoVision Version](https://archive.org/details/Threshold_1983_Sierra_On_Line)
-- [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Threshold_1983_Siera_Online_h_Jedi)
 - [My Abandonware](https://www.myabandonware.com/game/threshold-5ek)
 
 **Manuals & Extras**
@@ -230,14 +229,14 @@ Threshold occupies an interesting position in Sierra's history as a representati
 [^ref-2]: [Wikipedia – Threshold (1981 video game)](https://en.wikipedia.org/wiki/Threshold_(1981_video_game)) – development history, sales figures, awards, designer quotes
 [^ref-3]: [Sierra Chest – Threshold](https://sierrachest.com/index.php?a=games&id=461&title=threshold&fld=general) – game description, backstory, designers, engine information
 [^ref-4]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Threshold_1982_On_Line_Systems_US) – gameplay mechanics, fuel and heat systems
-[^ref-5]: [Games Database – Atari 2600](https://www.gamesdatabase.org/game/atari-2600/threshold.aspx) – official game description, enemy forces, publisher
+[^ref-5]: [Games Database – Atari 2600](https://www.gamesdatabase.org/game/atari-2600/threshold.aspx) ([Wayback copy, 2019-11-15](https://web.archive.org/web/20191115101154/https://www.gamesdatabase.org/game/atari-2600/threshold.aspx/)) – official game description, enemy forces, publisher
 [^ref-6]: [RetroGames.cz](https://www.retrogames.cz/play_1492-Atari2600.php) – Atari 2600 game size
 [^ref-7]: [My Abandonware – Threshold](https://www.myabandonware.com/game/threshold-5ek) – user ratings, platform file sizes, user comments
 [^ref-8]: [ColecoVision Addict](https://cvaddict.com/game/threshold/) – ROM size, rarity ratings, MD5 hash
 [^ref-9]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – founded 1979 as On-Line Systems, Mystery House (1980), renamed Sierra On-Line in 1982
 [^ref-10]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – specific platform release dates
 [^ref-11]: [Internet Archive – Apple II Version](https://archive.org/details/a2_Threshold_1981_On_Line_Systems) – preservation, file information
-[^ref-12]: [Creative Computing – David Lubar Review](https://archive.org/details/creativecomputing-1982-04-a/page/n55/mode/2up) – April 1982 review praising animation quality
+[^ref-12]: [Creative Computing – David Lubar Review](https://archive.org/details/creativecomputing-1982-04-a/page/n55/mode/2up) – April 1982 review praising animation quality; lists the Apple II price as $39.95
 [^ref-13]: [Electronic Games Magazine – Atari Review](https://archive.org/details/Electronic_Games_Volume_01_Number_09_1982-11_Reese_Communications_US) – November 1982 review noting graphics quality
 [^ref-14]: [Gamebase64 – Threshold](https://gb64.com/game.php?id=7893&d=18&h=0) – C64 database entry, programmer R.B. Stuart
 [^ref-15]: [Lemon64 – Threshold](https://www.lemon64.com/game/threshold) – C64 community reviews and ratings
@@ -249,3 +248,4 @@ Threshold occupies an interesting position in Sierra's history as a representati
 [^ref-21]: [Eli's Software Encyclopedia – Frogger/Threshold (C64, 1986)](https://elisoftware.org/wiki/Frogger/Threshold_(C64,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – 1986 Sierra two-game C64 disk package, box scans
 [^ref-22]: [Creative Computing, September 1984 – Threshold software profile (VIC-20)](https://archive.org/details/creativecomputing-1984-09) – "a fine action game with a few interesting twists"; 24 waves; $34.95
 [^ref-23]: [Ahoy!, March 1984 – Threshold review (C64)](https://archive.org/details/ahoy-magazine-03) – R.J. Michaels review of the C64 disk version; "Thanks, Ma" mothership message
+[^ref-24]: [Electronic Games, January 1983 – Tigervision Threshold ad](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – ad copy: "attacked by up to 12 different enemy forces"
