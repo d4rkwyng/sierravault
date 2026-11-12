@@ -10,7 +10,7 @@ series: Aces Series
 engine: 3-Space
 protagonist: WWII Pacific Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Aces of the Pacific is a World War II combat flight simulator developed
   by Dynamix and published by Sierra On-Line in 1992 for DOS, directed and designed
   by Damon Slye.
@@ -18,11 +18,11 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Pacific
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Aces of the Pacific is a World War II combat flight simulator developed by Dynamix and published by Sierra On-Line in 1992[^ref-1]. Directed and designed by Damon Slye[^ref-5], the game transports players to the Pacific Theater of World War II, where they can experience aerial combat from December 7, 1941, through the end of the war[^ref-1][^ref-2]. The game allows players to fly for either the Allied or Japanese forces, featuring over 25 meticulously researched vintage aircraft including the A6M Zero, F4U Corsair, F6F Hellcat, and P-47 Thunderbolt[^ref-2].
+Aces of the Pacific is a World War II combat flight simulator developed by Dynamix and published by Sierra On-Line in 1992[^ref-1]. It belongs to Dynamix's Great War Planes series, which Computer Gaming World called a series of which this was the "latest entry"[^ref-30]; Sierra's own advertising billed the line as "Damon Slye's Great War Planes"[^ref-31]. Directed and designed by Damon Slye[^ref-5], the game transports players to the Pacific Theater of World War II, where they can experience aerial combat from December 7, 1941, through the end of the war[^ref-1][^ref-2]. The game allows players to fly for either the Allied or Japanese forces, featuring over 25 meticulously researched vintage aircraft including the A6M Zero, F4U Corsair, F6F Hellcat, and P-47 Thunderbolt[^ref-2].
 
 Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroyoshi Nishizawa, and Richard Bong, billed in Sierra's promotional text as "America's highest-ranking ace"[^ref-2][^ref-12]. The game was a commercial hit, selling 350,000 units according to Retro Gamer[^ref-12], and its success led Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-3].
 
@@ -67,7 +67,7 @@ Realism is adjustable through the Realism Panel (ALT-R)[^ref-8]; one player reca
 
 ### Contemporary Reviews
 
-Aces of the Pacific was well received after early performance complaints. Dragon magazine awarded the game 5 out of 5 stars in its December 1992 issue, in a review by Hartley, Patricia and Kirk Lesser[^ref-9][^ref-12]. Computer Gaming World initially found the game "simultaneously awesome and disappointing" in their September 1992 review, but after updates, Doug Fick declared that "as updated, Aces of the Pacific lives up to its tremendous advanced billing and is now superior to Red Baron"[^ref-12]. The editors of PCGames nominated it for their best flight simulator of 1992 award, which went to Falcon 3.0[^ref-12].
+Aces of the Pacific was well received after early performance complaints. Dragon magazine awarded the game 5 out of 5 stars in its December 1992 issue, in a review by Hartley, Patricia and Kirk Lesser[^ref-9][^ref-12]. Computer Gaming World initially found the game "simultaneously awesome and disappointing" in their September 1992 review[^ref-30][^ref-12], but after updates, Doug Fick declared in the December 1992 issue that "as updated, Aces of the Pacific lives up to its tremendous advanced billing and is now superior to Red Baron in almost every category"[^ref-31][^ref-12]. The editors of PCGames nominated it for their best flight simulator of 1992 award, which went to Falcon 3.0[^ref-12].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -87,7 +87,7 @@ IGN's 2003 retrospective ranked the game 92nd among top games, noting "Realism, 
 
 ### Origins
 
-Aces of the Pacific was developed by Dynamix, with Damon Slye credited as both Director and Lead Designer[^ref-5]. The credits list Christopher Shen as Assistant to the Director, John Bruning Sr. on historical research, David McClurg on the 3 Space modules, and Jan Paul Moorhead for the original music score[^ref-5]. Sierra's own promotional text described the game's more than 25 vintage aircraft as "meticulously researched"[^ref-2].
+Aces of the Pacific was developed by Dynamix, with Damon Slye credited as both Director and Lead Designer[^ref-5]. The credits list Christopher Shen as Assistant to the Director, John Bruning Sr. on historical research, David McClurg on the 3 Space modules, and Jan Paul Moorhead for the original music score[^ref-5]. Bob Lindstrom is credited as Director of Programming and Mark Peasley as Art Director[^ref-5]. Sierra's own promotional text described the game's more than 25 vintage aircraft as "meticulously researched"[^ref-2].
 
 ### Production
 
@@ -106,13 +106,28 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 | Version | Year | Notes |
 |---------|------|-------|
 | 1.0 | 1992 | Initial release on floppy disk[^ref-15] |
+| 1.01 | – | 3.5" floppy, US slipcover box release[^ref-32] |
 | 1.2 | 1992 | 3.5" disk release, dated September 10, 1992 (US)[^ref-29]; improved performance, AI, sound and aircraft realism[^ref-12] |
 | CD-ROM | 1994 | CD-ROM release; includes the WWII: 1946 expansion[^ref-29][^ref-26] |
 | [[1992 - Aces of the Pacific - WWII 1946\|WWII: 1946]] | 1992 | Expansion with alternate history scenarios[^ref-22] |
 
 The Sierra Chest archives the game's details[^ref-23], its trailers[^ref-24] and memorabilia such as a poster[^ref-25].
 
+## Legacy
+
+The game's success caused Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-3].
+
+Players' memories on its GOG Dreamlist page recall reenacting historical battles and the mission to shoot down Yamamoto[^ref-3]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19]. Sierra Help offers a DOSBox installer that works with both the CD and floppy versions[^ref-26].
+
+### Collections
+
+The game was also included in the compilations "Aces: The Complete Collector's Edition" (1995) and "Aces: Collection Series" (1997)[^ref-33][^ref-34].
+
 ## Downloads
+
+**Purchase / Digital Stores**
+
+- Not currently sold on Steam or GOG as of 2026-11-11; GOG hosts only a Dreamlist wish entry[^ref-3]
 
 **Download / Preservation**
 
@@ -131,12 +146,6 @@ The Sierra Chest archives the game's details[^ref-23], its trailers[^ref-24] and
 - [[1993 - Aces Over Europe]]
 - [[1994 - Aces of the Deep]]
 - [[1995 - Command Aces of the Deep]]
-
-## Legacy
-
-The game's success caused Dynamix to create the very similar follow-up Aces Over Europe in 1993[^ref-3].
-
-Players' memories on its GOG Dreamlist page recall reenacting historical battles and the mission to shoot down Yamamoto[^ref-3]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19]. Sierra Help offers a DOSBox installer that works with both the CD and floppy versions[^ref-26].
 
 ## References
 
@@ -162,3 +171,8 @@ Players' memories on its GOG Dreamlist page recall reenacting historical battles
 [^ref-25]: [Sierra Chest - Memorabilia](https://www.sierrachest.com/index.php?a=games&id=211&fld=memorabilia&pid=45) – Collectibles archive
 [^ref-26]: [Sierra Help - DOSBox Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – Modern compatibility support
 [^ref-29]: [MobyGames - Aces of the Pacific Releases](https://www.mobygames.com/game/1419/aces-of-the-pacific/releases/) – v1.2 3.5" disk release Sep 10, 1992; CD-ROM release 1994
+[^ref-30]: [Computer Gaming World Issue 98 (September 1992)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Dynamix' latest entry in their Great War Planes series"; "simultaneously awesome and disappointing"
+[^ref-31]: [Computer Gaming World Issue 101 (December 1992)](https://archive.org/details/Computer_Gaming_World_Issue_101) – "Aces Takes Off . . . Finally" conclusion; Sierra ad "Damon Slye's Great War Planes"
+[^ref-32]: [Sierra Chest - Packaging & content](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=box) – versions 1.0 (5.25"), 1.01 (3.5") and 1.2 (3.5")
+[^ref-33]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=general) – "Aces: The Complete Collector's Edition" and "Aces Collection Series" compilations
+[^ref-34]: [Dynamix Wiki - Aces (series)](https://dynamix.fandom.com/wiki/Aces_(series)) – Compilations: 1995 Collector's Edition, 1997 Collection Series
