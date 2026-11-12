@@ -3,13 +3,13 @@ title: "Muriel Tramis"
 type: designer
 birth_year: 1958
 death_year: null
-notable_games: ["Freedom: Rebels in the Darkness", "Méwilo", "Gobliiins", "Lost in Time"]
+notable_games: ["Freedom: Rebels in the Darkness", "Méwilo", "Gobliiins", "Lost in Time", "The Bizarre Adventures of Woodruff and the Schnibble"]
 companies: ["Coktel Vision", "Tomahawk", "Avantilles"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Muriel Tramis
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Her debut came in 1987 with "Méwilo," created in collaboration with créolité 
 
 Tramis then directed "Freedom: Rebels in the Darkness" in 1988,[^ref-2] a game that Phil Salvador of The Obscuritory describes as still shocking today: "Freedom still shocks today, and that it debuted the same year as Super Mario Bros. 2 is almost unfathomable in the traditional framework of game history and culture."[^ref-5]
 
-Through the late 1980s and 1990s, Tramis worked on most of Coktel's adventure games, in roles ranging from conception and scenario writing to project management.[^ref-17] With Pierre Gilhodes, she co-created the Gobliiins series.[^ref-3] La Croix calls her the creator of [[1992 - A.J.'s World of Discovery|Adibou]]; other sources credit Roland Oskian and Manuelle Mauger.[^ref-19][^ref-21] Coming Soon Magazine reported that over 1.5 million copies of the ADI series, the line that includes Adibou, had been sold worldwide since its introduction in 1990.[^ref-25] Les Echos reported in 1994 that Coktel estimated its Adi range held 65% of the French educational software market and 35% of the European one.[^ref-26]
+Through the late 1980s and 1990s, Tramis worked on most of Coktel's adventure games, in roles ranging from conception and scenario writing to project management.[^ref-17] With Pierre Gilhodes, she co-created the Gobliiins series.[^ref-3] La Croix calls her the creator of [[1992 - A.J.'s World of Discovery|Adibou]]; other sources credit Roland Oskian and Manuelle Mauger,[^ref-19][^ref-21] and Le Temps calls her a co-designer ("co-conceptrice") of the game.[^ref-29] Coming Soon Magazine reported that over 1.5 million copies of the ADI series, the line that includes Adibou, had been sold worldwide since its introduction in 1990.[^ref-25] Les Echos reported in 1994 that Coktel estimated its Adi range held 65% of the French educational software market and 35% of the European one.[^ref-26]
 
 Sierra On-Line's acquisition of Coktel Vision, finalised in October 1993, widened the studio's international distribution.[^ref-3] As Tramis explained: "We benefited from an expanded sales and marketing environment, as our product catalog grew but it was positive because we opened up to the world."[^ref-8]
 
@@ -41,7 +41,7 @@ Sierra On-Line's acquisition of Coktel Vision, finalised in October 1993, widene
 
 In 2003, following new management's decision to subcontract some of Coktel's major titles, Tramis departed and founded Avantilles, a company specializing in real-time 3D applications for the web.[^ref-2][^ref-3]
 
-Recent years have brought increasing recognition for Tramis's pioneering role in gaming history. In February 2025, she became the first recipient of the USC Games Lifetime Achievement Award.[^ref-4] In March 2025, the IGDA Foundation named her the recipient of its Gerald Lawson Award for Achievement in Game Development, announced on March 3, 2025, with the award scheduled for presentation at the Game Developers Conference on March 18.[^ref-13][^ref-23] Her current project, "Remembrance: Les Jarres d'or de la Pelée," is an adventure game produced between Martinique and La Réunion; the player takes the role of Philadora, a young science journalist, in Saint-Pierre in 1900. In a La 1ère interview published on May 1, 2026, Tramis said she had first meant to remake Méwilo for its 30th anniversary before writing a new game, and that a crowdfunding campaign originally planned for May was now expected in September 2026.[^ref-27] USC Games describes the project as exploring the history of Martinique as a French colony through the story of several generations of a family both before and after slavery.[^ref-4]
+Recent years have brought increasing recognition for Tramis's pioneering role in gaming history. In February 2025, she became the first recipient of the USC Games Lifetime Achievement Award.[^ref-4] In March 2025, the IGDA Foundation named her the recipient of its Gerald Lawson Award for Achievement in Game Development, announced on March 3, 2025, with the award scheduled for presentation at the Game Developers Conference on March 18.[^ref-13][^ref-23] Her current project, "Remembrance: Les Jarres d'or de la Pelée," is an adventure game produced between Martinique and La Réunion; the player takes the role of Philadora, a young science journalist, in Saint-Pierre in 1900. In a La 1ère interview published on May 1, 2026, Tramis said she had first meant to remake Méwilo for its 30th anniversary before writing a new game, and that a crowdfunding campaign originally planned for May was now expected in September 2026. She said a 2027 release would be ideal, with a PC version first and console and mobile versions to follow.[^ref-27] The Haitian artist Kendy Joseph is the project's art director.[^ref-29] USC Games describes the project as exploring the history of Martinique as a French colony through the story of several generations of a family both before and after slavery.[^ref-4]
 
 ## Notable Works
 
@@ -75,10 +75,11 @@ Tramis also advocates strongly for women in the gaming industry: "Women are 50% 
 
 ## Awards and Honors
 
-- **Chevalier de la Légion d'Honneur** (decree of July 13, 2018) — Presented at the opening of Paris Games Week on October 25, 2018. She is the first woman from the games industry to receive this distinction.[^ref-7][^ref-19] La Croix and Game Developer called her the second games-industry figure after David Cage (2014),[^ref-12][^ref-19] but Yves Guillemot had been made chevalier on 14 July 2016;[^ref-22] French Wikipedia counts her as the third.[^ref-7]
+- **Chevalier de la Légion d'Honneur** (by decree of 13 July 2018, in the 14 July promotion)[^ref-2][^ref-19] — Presented at the opening of Paris Games Week on October 25, 2018. She is the first woman from the games industry to receive this distinction.[^ref-7][^ref-19] La Croix and Game Developer called her the second games-industry figure after David Cage (2014),[^ref-12][^ref-19] but Yves Guillemot had been made chevalier on 14 July 2016;[^ref-22] French Wikipedia counts her as the third.[^ref-7]
 - **Pégase d'honneur** (March 7, 2024) — Prix d'honneur for her whole career at the Pégases, the French video game awards modelled on the César awards.[^ref-15]
 - **USC Games Lifetime Achievement Award** (February 2025) — First recipient of this inaugural award.[^ref-4]
 - **Gerald Lawson Award for Achievement in Game Development** (2025) — Announced by the IGDA Foundation on March 3, 2025, and scheduled for presentation at the Game Developers Conference on March 18, 2025; the award honors "underrepresented minorities in the game development community."[^ref-13][^ref-23]
+- **Honorary member of MO5.COM** — The French retro-computing association announced that she had joined as an honorary member.[^ref-30]
 - **Silver Medal, City of Paris department of culture** (1987) — For Méwilo's exploration of French-Caribbean culture, one of the first video games to win an award for artistic merit from outside the industry.[^ref-10][^ref-17]
 
 ## Legacy
@@ -146,3 +147,5 @@ Credits per MobyGames unless noted.[^ref-17]
 [^ref-26]: [Les Echos - L'américain Sierra-On-Line absorbe Coktel Vision, 4 May 1994 (Wayback)](https://web.archive.org/web/20190820163413/https://www.lesechos.fr/1994/05/lamericain-sierra-on-line-absorbe-coktel-vision-881547) — Pierre de Gasquet: 65% of the French educational software market and 35% of the European market
 [^ref-27]: [Outre-mer la 1ère - "Cette créolité est en moi" : Muriel Tramis ressuscite la société martiniquaise du XIXe siècle avec son nouveau jeu vidéo (1 May 2026, modified 13 June 2026)](https://la1ere.franceinfo.fr/cette-creolite-est-en-moi-muriel-tramis-ressuscite-la-societe-martiniquaise-du-xixe-siecle-avec-son-nouveau-jeu-video-1693805.html) — "Remembrance : Les Jarres d'or de la Pelée", produced between Martinique and La Réunion; campaign planned for May, "devrait finalement avoir lieu en septembre"
 [^ref-28]: [Planète Aventure forum – Gobliins 6 thread](https://www.planete-aventure.net/forums/viewtopic.php?p=260050) — Forum post relaying Pierre Gilhodes's August 2025 Kickstarter update: Muriel Tramis helped write the scenario of levels 2 and 12
+[^ref-29]: [Le Temps - On a rencontré Muriel Tramis, co-conceptrice du mythique jeu vidéo «Adibou» (9 August 2022)](https://www.letemps.ch/culture/on-rencontre-muriel-tramis-coconceptrice-mythique-jeu-video-adibou) — Calls her "co-conceptrice" of Adibou; photo caption names Kendy Joseph as art director of "Remembrance"
+[^ref-30]: [MO5.COM - Muriel Tramis membre d'honneur de MO5.COM](https://mag.mo5.com/muriel-tramis-membre-dhonneur-de-mo5-com/) — Announces she "vient de rejoindre l'association en tant que membre d'honneur"
