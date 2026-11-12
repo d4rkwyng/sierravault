@@ -7,16 +7,16 @@ first_release: 1989
 last_release: 1992
 total_games: 2
 genre: "Adventure, Mystery"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Laura Bow Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Laura Bow Mysteries are Sierra On-Line's graphical adventure games "in the mystery idiom", featuring the sleuthing of Laura Bow.[^ref-1] The short-lived series was created by [[Roberta Williams]], and its first game drew on elements of her first program, Mystery House (1980).[^ref-7][^ref-3] It spans two games: The Colonel's Bequest (1989), with design credited to Jacqueline Austin and Williams as writer and co-director, and The Dagger of Amon Ra (1992), designed and directed by [[Bruce Balfour]], with Bill Davis as creative director and Williams as creative consultant.[^ref-7][^ref-13][^ref-15] Set in the 1920s, they follow Laura Bow, a Tulane University student and aspiring journalist, through murder mysteries.[^ref-7][^ref-13] The Colonel's Bequest put observation and deduction ahead of traditional puzzle-solving, which Williams said was optional.[^ref-9] The Dagger of Amon Ra's puzzles were mostly "of the typical variety of inventory and environment interaction".[^ref-13]
+The Laura Bow Mysteries are Sierra On-Line's graphical adventure games "in the mystery idiom", featuring the sleuthing of Laura Bow.[^ref-1] The short-lived series was created by [[Roberta Williams]], and its first game drew on elements of her first program, Mystery House (1980).[^ref-7][^ref-3] It spans two games: The Colonel's Bequest (1989), with design credited to Jacqueline Austin and Williams as writer and co-director, and The Dagger of Amon Ra (1992), designed and directed by [[Bruce Balfour]], with [[Josh Mandel]] as writer, Bill Davis as creative director and Williams as creative consultant.[^ref-7][^ref-13][^ref-15][^ref-23] Set in the 1920s, they follow Laura Bow, a Tulane University student and aspiring journalist, through murder mysteries.[^ref-7][^ref-13] The Colonel's Bequest put observation and deduction ahead of traditional puzzle-solving, which Williams said was optional.[^ref-9] The Dagger of Amon Ra's puzzles were mostly "of the typical variety of inventory and environment interaction".[^ref-13]
 
 The Colonel's Bequest stood out among Sierra adventures because story events happen whether or not Laura is there to see them. Its clock is not real-time: it advances in fifteen-minute steps when certain triggers are met.[^ref-3][^ref-4] Lemon Amiga likened the game to "an early computer version of the classic book 'And then there were none'".[^ref-4]
 
@@ -56,7 +56,7 @@ Hardcore Gaming 101 notes that "despite Roberta Williams' name on the box, she h
 The Colonel's Bequest centers on this reclusive, childless plantation owner, whose gathering of his relatives for a reading of his will sets off the murders.[^ref-7]
 
 ### Supporting Cast
-Both games feature casts of suspects, victims and red herrings with interconnected relationships, secrets and motivations.
+In The Colonel's Bequest, Laura is stranded on the island "surrounded by suspects and potential victims in a classical Agatha Christie manner".[^ref-7] In The Dagger of Amon Ra, she investigates the theft of the dagger from the Leyendecker Museum and the murders that follow.[^ref-13]
 
 ## World and Settings
 
@@ -108,7 +108,7 @@ Williams told *Computer Gaming World* that "you don't need to solve a single puz
 
 | Game | Notable Reception |
 |------|-------------------|
-| The Colonel's Bequest | Génération 4 95% and Joystick 92% (1990), though Amiga Format gave the Amiga version 60%;[^ref-11] Adventure Gamers retrospective 4 stars[^ref-2] |
+| The Colonel's Bequest | Génération 4 95% and Joystick 92% (1990), though Amiga Format gave the Amiga version 60%;[^ref-11] in the UK, The Games Machine gave the PC version 89% (April 1990),[^ref-24] The One 80% (March 1990),[^ref-25] and CU Amiga 84% (Amiga, September 1990);[^ref-26] Adventure Gamers retrospective 4 stars[^ref-2] |
 | The Dagger of Amon Ra | Computer Gaming World (October 1992): "another quality adventure from the fertile minds at Sierra";[^ref-21] CGW (April 1994, CD-ROM version): "a winner";[^ref-22] PC Gamer (2020 retrospective) says it "brought new layers of complexity to adventure game storytelling"[^ref-6] |
 
 In *Games International*, Theo Clarke called The Colonel's Bequest "solid genre stuff" and said it "has a charm all of its own."[^ref-7] Adventure Gamers praised its "original sort of game, high replayability".[^ref-2] PC Gamer's 2020 retrospective called the two games "genuinely groundbreaking".[^ref-6]
@@ -120,7 +120,7 @@ Of The Dagger of Amon Ra, Chuck Miller wrote in *Computer Gaming World* in Octob
 ### Influence
 The Colonel's Bequest inspired Julia Minamata's *The Crimson Diamond*, which Ars Technica calls a "not-at-all-subtle spiritual successor".[^ref-16] *Computer Gaming World*'s November 1996 15th-anniversary issue ranked Laura Bow #13 among its 15 most memorable game heroes, saying she "captured the flavor of the flapper era".[^ref-19][^ref-1]
 
-### Revival Efforts
+### Fan Projects
 - **Laura Bow and the Mechanical Codex** is an unofficial, fan-made project by the Estonian developer NineZyme, not a Sierra or licensed revival. PC Gamer (22 October 2020) wrote: "Today, there's an unofficial new game in the works— Laura Bow and the Mechanical Codex, a fan-made project by Estonian developer NineZyme Entertainment."[^ref-6]
 - Its Steam page calls it the "third installment of the Laura Bow franchise", with release "To be announced" (page checked 16 October 2026); that is the developer's own marketing wording.[^ref-8]
 - In August 2024 NineZyme reported a meeting with Microsoft and Ken and Roberta Williams. It told Adventure Game Hotspot that "Laura Bow is still mostly on hold, for the time being, until something more concrete is decided on the licensing", that "we have our hopes set on making an official Laura Bow game", and that "If it really doesn't work out, then we plan to rebrand the game and release it as something else."[^ref-12]
@@ -188,3 +188,6 @@ The series ended after two entries. No source gives a reason; Williams was not t
 [^ref-21]: [Computer Gaming World #99 (October 1992), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_99) – Chuck Miller, "Whodunit, Art Deco Style": header "GRAPHICS: VGA-256 or EGA-16"; "much improved over the original Laura Bow mystery"; "another quality adventure from the fertile minds at Sierra"
 [^ref-22]: [Computer Gaming World #117 (April 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_117) – CD-ROM notice: "Audibly enhanced from the original floppy release and featuring a competent cast of voice actors"; "…combine to make this multimedia game a winner"
 [^ref-23]: [Campo Santo Quarterly - Selected Stories from the Days of Laura Bow (Wayback, March 30, 2020)](https://web.archive.org/web/20200330012511/https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) – Duncan Fyfe, April 2, 2018: Balfour "the game's director, designer, writer, producer and supporting voice actor"; Josh Mandel on Williams wanting him to write Laura Bow 2 and his Dagger of Amon Ra proposal
+[^ref-24]: [The Games Machine, Issue 29 (April 1990), Internet Archive](https://archive.org/details/the-games-machine-29) – Strategy section, "The Colonel's Bequest" (Sierra), PC, £24.99: "ADVENTURE 89%"; "I thoroughly enjoyed The Colonel's Bequest"
+[^ref-25]: [The One, Issue 18 (March 1990), Internet Archive](https://archive.org/details/theone-magazine-18) – Review of The Colonel's Bequest (Sierra), £24.95: Graphics 80%, Sound 82%, Playability 79%, Value 82%, Overall 80%; sidebar notes no Commodore or Atari ST conversion planned yet
+[^ref-26]: [CU Amiga, Issue 7 (September 1990), Internet Archive](https://archive.org/details/cuamiga-magazine-007) – Keith Campbell's review of the Amiga version (£34.99); the 84% score is as listed in the Wikipedia article's review table
