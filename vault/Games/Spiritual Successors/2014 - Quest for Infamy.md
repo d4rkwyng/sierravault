@@ -12,7 +12,7 @@ engine: Adventure Game Studio
 protagonist: Mr. Roehm
 composer: [James Mulvale]
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Quest for Infamy is a hybrid point-and-click adventure game and RPG developed
   by Infamous Quests and published by Phoenix Online Publishing in 2014, inspired by
   Sierra's Quest for Glory series and played from the perspective of an anti-hero.
@@ -20,7 +20,7 @@ tags: [2010s, adventure, rpg, sierra]
 ---
 # Quest for Infamy
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -54,7 +54,7 @@ Quest for Infamy is a point-and-click adventure built on AGS with a presentation
 
 ### Structure and Progression
 
-Players choose their path to infamy by playing as one of three character classes: the sneaky rogue, the bold brigand, or the crafty sorcerer[^ref-4]. Each class takes the player on a different course through the quest[^ref-13], and multiple paths and branching storylines create a different experience with each playthrough[^ref-4].
+Players choose their path to infamy by playing as one of three character classes: the sneaky rogue, the bold brigand, or the crafty sorcerer[^ref-4]. Each class takes the player on a different course through the quest[^ref-13]. Instead of choosing a class at the start, the player specializes by apprenticing to a mentor, such as Prospero for the Sorcerer[^ref-7], and multiple paths and branching storylines create a different experience with each playthrough[^ref-4].
 
 ### Puzzles and Mechanics
 
@@ -72,8 +72,12 @@ Quest for Infamy combines traditional point-and-click adventure puzzles with RPG
 | GamingTrend | 70/100 | "A near perfect recreation of point-and-click adventure games of the past"[^ref-17][^ref-15] |
 | Pure Nintendo | 7.5/10 | Positive Switch port review[^ref-15] |
 | Cubed3 | 8/10 | Favorable; praised questing and puzzle solving over combat[^ref-15] |
-| Adventure Gamers | 60/100 | "An ambitious, often entertaining homage that has all the ingredients for success, but the overall experience is impaired by uneven humour and lacklustre combat"[^ref-16] |
+| Adventure Gamers | 60/100 | "An ambitious, often entertaining homage that has all the ingredients for success, but the overall experience is impaired by uneven humour and lacklustre combat"; Claudio Medina's original review (August 18, 2014) rated it 3.0 stars, "Decent"[^ref-16][^ref-32] |
+| PopMatters (Nick Dinicola) | Review, 11 July 2014 | Called it "a purposefully poorly designed adventure game"[^ref-34] |
+| PopMatters (Eric Swain, "A Second Opinion") | Review, 29 July 2014 | Argued it is "a rather solidly designed game hampered by a few execution hiccups"[^ref-35] |
 | PC Invasion | 5/10 | "Quest for Infamy is a reasonable attempt at making a Quest for Glory game, but it's let down by dull combat and puzzle design"[^ref-15] |
+| Switchaboo (Brian Stillwagon) | 5/10 | Switch review, Mar 10, 2022: "A good game, just not a good Switch game."[^ref-36] |
+| Retro 101 | 7/10 | Switch review, 28 March 2022[^ref-37] |
 
 ### Aggregate Scores
 
@@ -91,7 +95,7 @@ Quest for Infamy received a Metacritic score of 63 on PC[^ref-18], indicating mi
 
 ### Origins
 
-Quest for Infamy originated at Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, who had previously founded the amateur studio Infamous Adventures[^ref-2], known for its fan remakes of King's Quest III and Space Quest II[^ref-5]. The initial concept was to create a game where players could return to Spielburg in the role of the villain, inspired by Sierra's Quest for Glory series[^ref-5]. The final version moved away from direct Quest for Glory connections to an original setting while keeping the inspiration[^ref-5].
+Quest for Infamy began under Infamous Adventures, the amateur studio known for its fan remakes of King's Quest III and Space Quest II[^ref-5][^ref-29], and was restarted in 2012 by Infamous Quests, the commercial company founded by Steven Alexander and Shawn Mills[^ref-2][^ref-5]. The initial concept was to create a game where players could return to Spielburg in the role of the villain, inspired by Sierra's Quest for Glory series[^ref-5]. The final version moved away from direct Quest for Glory connections to an original setting while keeping the inspiration[^ref-5].
 
 ### Production
 
@@ -156,11 +160,10 @@ The stores list different platforms. Steam lists Windows and Linux[^ref-18]; GOG
 - The project was first announced around December 2003 as *Quest for Infamy: So You Want to be a Villain?*, set in the Quest for Glory universe, and spent many years in "suspended production" before Infamous Quests put it back into production through Kickstarter[^ref-29].
 - Composer James Mulvale also voices the narrator, Kessel[^ref-29].
 - Steve Patrick voices both Mr. Roehm and Prospero, and co-designer Steven Alexander voices Jan[^ref-29].
-- In June 2014 the game made Time Magazine's "20 Video Games To Watch for Summer 2014" list[^ref-2].
 
 ## Legacy
 
-In June 2014 the game made Time Magazine's "20 Video Games To Watch for Summer 2014" list[^ref-2]. Quest for Infamy won four Adventure Game Studio awards in 2014, including Best Character Lead for Roehm, Best Puzzles, Best Music & Sounds, and Best Gameplay[^ref-2]. The game was also nominated for Best Writing (Comedy) at the Aggie Awards and was among the Top 100 nominations for IndieDB's 2014 Indie Game of the Year[^ref-2].
+The game was included in Time's "20 Best New Video Games for Summer 2014" list, dated June 23, 2014[^ref-33][^ref-2]. Quest for Infamy won four Adventure Game Studio awards in 2014, including Best Character Lead for Roehm, Best Puzzles, Best Music & Sounds, and Best Gameplay[^ref-2]. The game was also nominated for Best Writing (Comedy) at the Aggie Awards and was among the Top 100 nominations for IndieDB's 2014 Indie Game of the Year[^ref-2].
 
 ### Sales and Community Reception
 
@@ -222,10 +225,16 @@ The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Serie
 [^ref-21]: [VGMdb – Quest for Infamy Official Soundtrack](https://vgmdb.net/album/71371) – composer James Mulvale, 98-track listing
 [^ref-22]: [Quest for Glory Fandom](https://questforglory.fandom.com/wiki/Quest_for_Infamy) – voice cast
 [^ref-24]: [Kickstarter – Quest For Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que) – $63,281 from 1,656 backers, $25,000 goal, Jun 6 – Jul 6, 2012
-[^ref-25]: [MobyGames – Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) – platforms, publishers by release (Phoenix Online Publishing for Steam; Infamous Quests for GOG and itch.io; Ratalaika Games for 2022 console releases), read via the MobyGames API
+[^ref-25]: [MobyGames – Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) – platforms, publishers by release (Phoenix Online Publishing for Steam; Infamous Quests for GOG and itch.io; Ratalaika Games for 2022 console releases)
 [^ref-26]: [TV Tropes – Quest for Infamy](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestforInfamy) – story details: Markus's execution, Sheriff Rayford, Morroi cult
 [^ref-27]: [Metacritic – Quest for Infamy](https://www.metacritic.com/game/quest-for-infamy/) – Metascore 63 from 9 critic reviews, user score 7.6 from 38 ratings (read November 11, 2026)
 [^ref-28]: [OpenCritic – Quest for Infamy](https://opencritic.com/game/642/quest-for-infamy) – Top Critic Average 65, 23% critics recommend, 14 critic reviews (read November 11, 2026)
 [^ref-29]: [Quest for Glory Fandom – Quest for Infamy (Wayback copy, August 20, 2022)](https://web.archive.org/web/20220820013847/https://questforglory.fandom.com/wiki/Quest_for_Infamy) – development credits, voice cast, project history
 [^ref-30]: [GOG.com – Order of the Thorne: The King's Challenge](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – release date January 26, 2016 (read November 11, 2026)
 [^ref-31]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – status "In development" (read November 11, 2026)
+[^ref-32]: [Adventure Gamers – Quest for Infamy review by Claudio Medina, August 18, 2014 (Wayback copy, December 4, 2020)](https://web.archive.org/web/20201204064633/https://adventuregamers.com/articles/view/26946) – "Decent" 3.0 stars; "an ambitious, often entertaining homage that has all the ingredients for success, but the overall experience is impaired by uneven humour and lacklustre combat"
+[^ref-33]: [Time – 20 Best New Video Games for Summer 2014, June 23, 2014 (Wayback copy, January 21, 2015)](https://web.archive.org/web/20150121051613/http://time.com/2904363/best-video-games-summer-2014/) – Quest for Infamy entry, "July 10 / PC, Mac"
+[^ref-34]: [PopMatters – Quest for Infamy, by Nick Dinicola, 11 July 2014](https://www.popmatters.com/183438-quest-for-infamy-2495642239.html) – "a purposefully poorly designed adventure game"
+[^ref-35]: [PopMatters – 'Quest for Infamy': A Second Opinion, by Eric Swain, 29 July 2014](https://www.popmatters.com/184088-quest-for-infamy-a-second-opinion-2495635478.html) – "a rather solidly designed game hampered by a few execution hiccups"
+[^ref-36]: [Switchaboo – Quest for Infamy - Switch Review, by Brian Stillwagon, Mar 10, 2022](https://www.switchaboo.com/quest-for-infamy-switch-review/) – 5/10; "A good game, just not a good Switch game."
+[^ref-37]: [Retro 101 – Quest for Infamy Review (Switch), 28 March 2022](https://www.retro101.co.uk/2022/03/quest-for-infamy-review-switch.html) – Overall 7/10
