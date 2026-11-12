@@ -12,12 +12,14 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "N/A (Single Player Card Game)"
 sierra_lineage: "Core Sierra"
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
+description: "Hoyle Official Book of Games Volume 5, better known as Hoyle Solitaire, is a Sierra On-Line card game collection of 28 solitaire games for Windows and Macintosh."
+tags: [1990s, hoyle, sci, sierra]
 ---
 
 # Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -25,7 +27,7 @@ Hoyle Official Book of Games Volume 5, more commonly known as **Hoyle Solitaire*
 
 The game was released for both Windows and Macintosh platforms, with Sierra's stated goal being "to develop and bring to market the most creative and technologically advanced products available"[^ref-4]. Hoyle Solitaire featured intuitive drag-and-drop gameplay mechanics, with the option to right-click cards to automatically send them to their correct positions[^ref-5]. The collection was later re-released in January 1998[^ref-6].
 
-As part of Sierra's broader strategy to diversify beyond adventure games, Hoyle Solitaire represented the company's commitment to the casual gaming market. In a 1998 announcement of a new internal brand structure, Sierra placed its Hoyle license in the new Sierra Attractions division, which was to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license"[^ref-7].
+In a 1998 announcement of a new internal brand structure, Sierra placed its Hoyle license in the new Sierra Attractions division, which was to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-5]
@@ -44,7 +46,7 @@ As a solitaire card game collection, Hoyle Solitaire does not feature a traditio
 
 The games are presented within a polished interface that allows players to select their preferred solitaire variant and customize their playing experience. Unlike the earlier multiplayer Hoyle volumes which featured Sierra game characters as opponents, Hoyle Solitaire focuses purely on single-player card challenges, though it does track statistics for up to four different players[^ref-5].
 
-The game also includes a Card Flick mini-game, an arcade-style diversion that provides a break from traditional solitaire gameplay[^ref-2]. This addition demonstrates Sierra's understanding that variety enhances player engagement in casual gaming collections.
+The game also includes a Card Flick mini-game, an arcade-style diversion that provides a break from traditional solitaire gameplay[^ref-2].
 
 ## Gameplay
 
@@ -71,7 +73,7 @@ Each solitaire variant presents its own strategic challenge, requiring players t
 - **Tableau Management:** Arranging cards in descending sequences, often alternating colors
 - **Stock and Waste:** Drawing cards from the stock pile and managing the waste pile effectively
 
-The game includes comprehensive tutorials and a glossary to help players learn unfamiliar variants[^ref-8]. This educational component made Hoyle Solitaire valuable not just as entertainment but as a learning tool for card game enthusiasts.
+The game includes comprehensive tutorials and a glossary to help players learn unfamiliar variants[^ref-8].
 
 The Card Flick mini-game provides an arcade-style diversion, offering a different type of challenge from the strategic thinking required by traditional solitaire[^ref-2].
 
@@ -101,20 +103,20 @@ The original Hoyle Official Book of Games: Volume 2, released in 1990, had estab
 
 ### Production
 
-Development was handled internally at Sierra On-Line, with the game built using the SCI2.1 engine[^ref-9]. The production team faced the challenge of faithfully recreating numerous card game variants while providing an intuitive and visually appealing interface suitable for Windows users.
+Development was handled internally at Sierra On-Line, with the game built using the SCI2.1 engine[^ref-9].
 
 **Development Credits:**[^ref-2]
 - **Designers:** Paul Horn, Gayle Rowbotham
 - **Associate Designers:** Jim Love, Julie Pogue Barnes
 - **Composers:** Johnathan Cunningham, Jim Love, Evan Schiller
 
-The game used Brown & Bigelow card trademarks under license, connecting it to the established Hoyle brand of playing cards[^ref-3]. This licensing arrangement lent authenticity to the digital card collection and aligned it with physical Hoyle products familiar to card game enthusiasts.
+The game used Brown & Bigelow card trademarks under license, connecting it to the established Hoyle brand of playing cards[^ref-3].
 
 ### Technical Achievements
 
-Hoyle Solitaire represented Sierra's adaptation of their adventure game technology for casual gaming purposes. The SCI2.1 engine, which had powered numerous Sierra adventure titles, was employed to deliver smooth card animations and responsive controls[^ref-9].
+The game runs on the SCI2.1 engine[^ref-9].
 
-The game offered two installation options: a CD version that ran primarily from the disc, and a Hard Drive version that installed fully for faster loading[^ref-2]. This flexibility accommodated users with varying storage capacities, an important consideration in the mid-1990s when hard drive space remained at a premium for many users.
+The game offered two installation options: a CD version that ran primarily from the disc, and a Hard Drive version that installed fully for faster loading[^ref-2].
 
 ### Technical Specifications
 
@@ -136,7 +138,7 @@ The game offered two installation options: a CD version that ran primarily from 
 | 1.0 | 1997 | Macintosh | Mac OS release[^ref-2] |
 | Rerelease | January 19, 1998 | Windows | Updated version[^ref-6] |
 | 1998 Edition | 1998 | Windows | 1998 CD release[^ref-19] |
-| 2000 Edition | 2000 | Windows 95/98 | Windows 95/98 release[^ref-20] |
+| Hoyle Solitaire (2000) | 2000 | Windows 95/98 | CD image listed on the Internet Archive as "Hoyle Solitaire (2000)"[^ref-20] |
 
 ### Technical Issues
 
@@ -165,7 +167,7 @@ The Hoyle name itself represents an interesting piece of trivia: Edmond Hoyle (1
 
 ### Sales and Commercial Impact
 
-The original Hoyle Official Book of Games: Volume 1 had sold over 250,000 copies by 1990, establishing the series as a commercial success for Sierra[^ref-3]. This strong foundation supported the continued development of subsequent volumes, including Hoyle Solitaire.
+The original Hoyle Official Book of Games: Volume 1 had sold over 250,000 copies by 1990, establishing the series as a commercial success for Sierra[^ref-3].
 
 ### Collections
 
@@ -189,11 +191,7 @@ The Hoyle series was supported by Sierra's broader documentation practices:
 
 ### Critical Perspective
 
-Hoyle Solitaire occupies an interesting position in Sierra's history as a transitional product. It represented the company's efforts to diversify into casual gaming markets. The game demonstrated that Sierra's engine technology and development expertise could be successfully applied beyond narrative-driven adventures.
-
-The series' long-term significance lies partly in its demonstration of Sierra's business strategy during the 1990s. As the company faced increasing competition in the adventure game market, casual gaming products like Hoyle provided reliable revenue streams with lower development costs. This approach would eventually become more prominent as Sierra underwent corporate restructuring under various parent companies[^ref-7].
-
-From a preservation standpoint, Hoyle Solitaire represents an era when major game publishers invested in polished casual gaming products. While modern operating systems include free solitaire games, the comprehensive variety and presentation quality of Hoyle Solitaire set it apart from basic alternatives available at the time. The game's continued availability through abandonware sites and archives ensures that this piece of gaming history remains accessible for study and enjoyment.
+In 1998 Sierra placed its Hoyle license in the Sierra Attractions division, alongside family and board-style games from Berkeley Systems' brands[^ref-7].
 
 ## Purchase
 
