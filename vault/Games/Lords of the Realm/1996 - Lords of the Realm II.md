@@ -23,7 +23,7 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 
 ## Overview
 
-Lords of the Realm II is a medieval strategy game that pairs turn-based resource management with real-time battles and sieges, set in 1268 under an alternate history in which a king dies without an heir.[^ref-6] Released in North America on November 20, 1996 (Steam's store page lists October 31),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-1][^ref-10]
+Lords of the Realm II is a medieval strategy game that pairs turn-based resource management with real-time battles and sieges, set in 1268 under an alternate history in which a king dies without an heir.[^ref-6] Released in North America on November 20, 1996 according to Wikipedia, which takes the date from a contemporary news roundup (Online Gaming Review reported the game "now available" on November 21),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-1][^ref-10] Steam's store page and Metacritic list the release as October 31, 1996, Steam's own data gives December 3, 2015 (the date of its Steam listing), and Wikipedia gives December 13, 1996 for Europe.[^ref-5][^ref-19][^ref-6]
 
 Gamicus describes Lords of the Realm II as very different from many medieval strategy games: it has a strong medieval feel and is historically based, with no magic and no technology tree.[^ref-4] Critics were less convinced by the history; *Computer Gaming World* appreciated the setting but found its representation "half hearted".[^ref-6] Instead of spells or tech, Gamicus singles out the need to keep food, population and happiness in balance so that a county can grow without suffering a Malthusian collapse.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
@@ -46,7 +46,7 @@ The year is 1268 A.D., and the King of England has died without an heir to succe
 
 Five nobles, the player included, compete for the crown. MobyGames describes the four computer rivals as "the noble Baron, the headstrong Knight, the ice princess The Countess, and the backstabbing Bishop".[^ref-1] AllGame noted that any of them can be the player's ally for a while, but will attack once they feel more powerful.[^ref-12]
 
-The path to the throne is inevitably a bloody one. Those who would dare deny the player's right to rule must face their wrath on the battlefield.[^ref-14] Victory requires not just military might but also economic prowess—a well-managed realm provides the resources necessary for conquest. Players must balance the needs of their subjects against the demands of war, for unhappy populations will revolt if happiness drops below 25 and stays there for more than four seasons.[^ref-14]
+The path to the throne is inevitably a bloody one. Those who would dare deny the player's right to rule must face their wrath on the battlefield.[^ref-14] Conquest depends on a well-run economy, since the player's power is directly proportional to the skill with which they run it.[^ref-22] Players must balance the needs of their subjects against the demands of war, for unhappy populations will revolt if happiness drops below 25 and stays there for more than four seasons.[^ref-14]
 
 ## Gameplay
 
@@ -64,7 +64,7 @@ The game operates on a seasonal turn-based system for county and economic manage
 - **Army Management:** Troops are conscripted from a county's peasants, upgraded to other classes with the matching weaponry, and guided across the strategic map to intercept enemy armies, towns or castles.[^ref-6]
 - **Castle Building:** Defensive fortifications can be constructed in any county, with multiple castle designs available from simple wooden stockades to massive royal castles.[^ref-11]
 - **Diplomacy:** Players can send gifts to rivals and form alliances,[^ref-6] though one 2014 Metacritic user review called diplomacy "meaningless".[^ref-19]
-- **Real-Time Battles:** When armies clash, control switches to a real-time battlefield seen from a top-down perspective,[^ref-6] which Sierra Gamers likened to a "Warcraft-type view", and players command their troops directly.[^ref-20]
+- **Real-Time Battles:** When armies clash, control switches to a real-time battlefield seen from a top-down perspective,[^ref-6] which MobyGames describes as a "Warcraft-type view" of the battlefield,[^ref-1] and players command their troops directly.[^ref-20]
 
 Single-player games use one of 24 maps.[^ref-6] AllGame listed real maps such as England, Scotland, Ireland and Australia alongside imaginary ones such as Yin-Yang, Rose, Pretzelland and Rubix World.[^ref-12]
 
@@ -92,9 +92,9 @@ Home of the Underdogs called it "one of the most underrated strategy games of al
 
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (6 critic reviews)[^ref-19]
-- **MobyGames:** 80% (Critics)[^ref-1]
+- **MobyGames:** 79% (22 critic reviews)[^ref-1]
 - **Steam:** 96% positive (1,649 reviews, November 2026)[^ref-5]
-- **GOG:** 4.5/5 (96 reviews, as of November 2026)[^ref-15]
+- **GOG:** 4.5/5 from 1,375 ratings (96 written reviews), as of November 2026[^ref-15]
 
 ## Development
 
@@ -108,10 +108,15 @@ Impressions general manager David Lester explained the decision to add real-time
 
 David Lester sold Impressions Games to Sierra in 1995,[^ref-54] and Sierra announced Lords of the Realm II in 1996.[^ref-6] Lester, the studio's founder, was lead designer;[^ref-6][^ref-51] Impressions was also the studio behind the Caesar games, Pharaoh and the Civil War General series.[^ref-27]
 
-Composer Keith Zizza worked on the game's soundtrack during the spring and summer of 1996.[^ref-28] It was his second game with Sierra, following Rise & Rule of Ancient Empires.[^ref-28] The audio production faced significant technical constraints due to CD-ROM space limitations.
+Composer Keith Zizza worked on the game's soundtrack during the spring and summer of 1996.[^ref-28] It was his second game with Sierra, following Rise & Rule of Ancient Empires.[^ref-28] The audio production faced significant technical constraints due to CD-ROM space limitations.[^ref-28]
 
-**Development Credits:**[^ref-1][^ref-6]
+**Development Credits:**[^ref-1][^ref-6][^ref-58]
 - **Game Designers:** [[David Lester]] (lead designer), [[Chris Beatrice]], [[Simon Bradbury]], Eric Ouellette
+- **Creative Director:** [[Chris Beatrice]]
+- **Producer:** Eric Ouellette
+- **Programming:** [[Simon Bradbury]]
+- **Artists:** Adam Carriuolo, Heidi Mann, Mike Malone, Scot B. Forbes, Dennis Rose
+- **Writer:** Todd Capute
 - **Composer:** Keith Zizza
 - **Music & Sound Effects (Siege Pack):** Edward Saltzman, Keith Zizza[^ref-56]
 
@@ -174,7 +179,7 @@ Controlling units when attacking castles has been criticized as "nothing short o
 
 ### Easter Eggs and Trivia
 
-- The game features distinctive voice acting with iconic lines including "Slaughter THESE villagers, m'lord?"—a memorable quote that players recall fondly decades later.[^ref-35]
+- The game features distinctive voice acting with iconic lines including "Slaughter THESE villagers m'lord?"—a memorable quote that players recall fondly decades later.[^ref-35]
 - Advanced farming mode is always better than default farming, contrary to what the interface might suggest.[^ref-18]
 - The maximum population in a county appears to be capped at 2000 people.[^ref-18]
 - Neutral counties can rebel on their own, and forum players report that rival nobles' counties can be pushed into rebellion by pillaging their food supply, though the Bishop's resist it.[^ref-23]
@@ -202,9 +207,9 @@ Sierra's November 1997 press release for the Lords Royal Collection said Lords o
 - December 1996: #14 on GameCenter's games-only version of the PC Data list[^ref-41]
 - January 1997: #9 (bounced back from #16)[^ref-7]
 - February 1997: #11[^ref-36]
-- March 1997: #16[^ref-37]
-- May 1997: #19[^ref-38]
-- June 1997: #16[^ref-39]
+- March 1997: #16 (listed as "Lords of the Realm")[^ref-37]
+- May 1997: #19 (listed as "Lords of the Realm")[^ref-38]
+- June 1997: #16 (listed as "Lords of the Realm")[^ref-39]
 - First Half 1997: #14 overall[^ref-40]
 
 ### Expansion Pack
@@ -231,7 +236,7 @@ The game has been released in several compilation formats:[^ref-44]
 
 ### Fan Projects
 
-A speedrunning community has formed around the game, with 32 total runs recorded by 4 unique players.[^ref-45] Notable speedrun records include:
+A speedrunning community has formed around the game, with 33 total runs recorded by 4 unique players.[^ref-45] Notable speedrun records include:
 - Original Campaign: 54m 38s by TheObserver429
 - The New Campaign: 45m 47s by TheObserver429
 - Quaintville Any% (Siege Pack): 34.767s by Admiral_Iddy[^ref-45]
@@ -240,14 +245,14 @@ The game inspired long-running community engagement, with detailed strategy guid
 
 ### Related Publications
 
-- **Lords of the Realm II User's Manual:** Published by Sierra, praised by users for its quality ("Good manual")[^ref-46]
+- **Lords of the Realm II User's Manual:** Published by Sierra; a manual PDF and a Quick Reference Card are listed on Sierra Help,[^ref-31] and a printed manual is listed on Amazon[^ref-46]
 - **Strategy Guides:** Multiple fan-created guides available on GameFAQs and Steam Community, including comprehensive economic and military strategy documentation[^ref-18][^ref-22]
 
 ### Sequels and Series Impact
 
-The game was followed by Lords of the Realm III in 2004, which received mixed reviews. GameSpot gave Lords III 84%, but most critics were disappointed—PC Gamer scored it only 66%, noting "Given the series' heritage and the long buildup to this entry, it's hard not to feel let down."[^ref-47] Computer and Video Games was harshest, giving it 19%: "God knows what happened to LOTR3, but the usually dependable Impressions Games has lost the plot on this one."[^ref-47]
+The game was followed by Lords of the Realm III in 2004, which received mixed reviews (Metacritic 65 from 11 critics). GameSpot gave Lords III 84%, while PC Gamer scored it only 66%, noting "Given the series' heritage and the long buildup to this entry, it's hard not to feel let down."[^ref-47] Computer and Video Games was harshest, giving it 19%: "God knows what happened to LOTR3, but the usually dependable Impressions Games has lost the plot on this one."[^ref-47]
 
-Lords III shifted to a primarily real-time format with a full 3D engine, abandoning much of what made Lords II beloved.[^ref-48] Critics noted the gameplay became "horrendously simple" compared to its predecessor.[^ref-47]
+Lords III shifted to a primarily real-time format with a full 3D engine, abandoning much of what made Lords II beloved.[^ref-48] A netjak review (62) found the gameplay "horrendously simple".[^ref-47]
 
 ### Critical Perspective
 
@@ -263,6 +268,7 @@ Modern players often compare it to the Total War series: one retrospective says 
 
 **Manuals & Documentation**
 - [Game Manual PDF (Internet Archive)](https://archive.org/download/Lords_of_the_Realm_II_-_Manual/Lords_of_the_Realm_II_-_Manual.pdf)
+- [Sierra Help – Lords of the Realm II manual and Quick Reference Card](https://sierrahelp.com/Games/LordsOfTheRealm/LordsOfTheRealm2Help.html)
 - [OpenLotR2 Documentation](https://openlotr2.readthedocs.io/en/latest/game/part-1/Part-1.html)
 
 ## See Also
@@ -287,7 +293,7 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-15]: [GOG Store – Lords of the Realm: Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – game description, user reviews, campaign settings
 [^ref-16]: Games Nostalgia – Lords of the Realm II *(download link removed: the game is sold commercially)* – interface simplicity, remake assessment, version info
 [^ref-17]: [Wikipedia – Lords of the Realm (1994)](https://en.wikipedia.org/wiki/Lords_of_the_Realm) – first game's PC Gamer US 1994 award and CGW nomination
-[^ref-18]: [Steam Community Guide by Sir Edward](https://steamcommunity.com/sharedfiles/filedetails/?id=1128722561) – micromanagement advice, multiplayer limitations, maximum population
+[^ref-18]: [Steam Community guide "Lordy Lordy, The Complete Strategy Guide" by Flicewatter](https://steamcommunity.com/sharedfiles/filedetails/?id=1128722561) – micromanagement advice, multiplayer limitations, maximum population
 [^ref-19]: [Metacritic – Lords of the Realm II](https://www.metacritic.com/game/lords-of-the-realm-ii/) – PC Gamer score, TotalGames score, GameSpot score, Adrenaline Vault quote, user reviews
 [^ref-20]: [Sierra Gamers – Lords of the Realm 2](https://www.sierragamers.com/lords-of-the-realm-2/) – Warcraft comparison, battle mechanics
 [^ref-22]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/lordsoftherealmii-walkthrough02.txt) – fundamental theorem quote, economy focus
@@ -296,7 +302,7 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-27]: [Scratch-That.org Review](https://scratch-that.org/2023/12/05/heres-what-i-thought-of-lords-of-the-realm-2/) – modern assessment, comfort food comparison, Impressions history
 [^ref-28]: [VOGONS Forum – Audio Mod Discussion](https://www.vogons.org/viewtopic.php?t=96875) – Keith Zizza quotes on audio constraints, Pumkin.wav
 [^ref-29]: [MobyGames – Technical Specs](https://www.mobygames.com/game/998/lords-of-the-realm-ii/specs/) – detailed platform specifications, ratings
-[^ref-31]: [Sierra Help – Lords of the Realm II](https://sierrahelp.com/Games/LordsOfTheRealm/LordsOfTheRealm2Help.html) – technical issues, patches
+[^ref-31]: [Sierra Help – Lords of the Realm II](https://sierrahelp.com/Games/LordsOfTheRealm/LordsOfTheRealm2Help.html) – technical issues, patches, manual PDF and Quick Reference Card
 [^ref-32]: [GOGDB – Royal Edition](https://www.gogdb.org/product/1207658780) – release dates, package contents
 [^ref-33]: [PCGamingWiki – Lords of the Realm II](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm_II) – platform releases, known issues, version history
 [^ref-34]: [Steam Community Discussion](https://steamcommunity.com/app/397350/discussions/0/492379439681551434/) – display settings workarounds
@@ -310,7 +316,7 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-42]: [Home of the Underdogs – Siege Pack](https://homeoftheunderdogs.net/game.php?id=4600) – expansion review and rating
 [^ref-44]: [MobyGames – Lords of the Realm Series](https://www.mobygames.com/group/262/lords-of-the-realm-series/) – compilation releases
 [^ref-45]: [Speedrun.com – Lords of the Realm II](https://www.speedrun.com/lords_of_the_realm_ii) – speedrun records, community data
-[^ref-46]: [Amazon – Lords of the Realm II Manual](https://www.amazon.com/Lords-Realm-II-Guide-Manual/dp/B000ILEU2K) – manual review
+[^ref-46]: [Amazon – Lords of the Realm II Manual](https://www.amazon.com/Lords-Realm-II-Guide-Manual/dp/B000ILEU2K) – printed manual listing
 [^ref-47]: [Metacritic – Lords of the Realm III](https://www.metacritic.com/game/lords-of-the-realm-iii/) – sequel reception, critical quotes
 [^ref-48]: [IGN – Lords of the Realm III Preview](https://www.ign.com/articles/2003/08/26/lords-of-the-realm-iii-preview) – sequel development changes
 [^ref-50]: [Lilura1 – Lords of the Realm (with LotR2 notes)](https://lilura1.blogspot.com/2022/04/Lords-of-the-Realm-IBM-PC-MS-DOS-1994-Impressions-Games-Original-Version.html) – "Lords of the Realm 2 displays in 256-color square-pixel SVGA 640x480"
@@ -321,3 +327,4 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-55]: [Online Gaming Review – November 1996 news (Wayback)](https://web.archive.org/web/19970227065708/http://www.ogr.com/news/news1196.html) – "Lords of the Realm 2, from Sierra is now available" (November 21, 1996 entry)
 [^ref-56]: [MobyGames – Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – credits: Music & Sound Effects, Edward Saltzman and Keith Zizza
 [^ref-57]: [Keith Zizza – Lords of the Realm 2 – Setup (1996, Remastered) (YouTube)](https://www.youtube.com/watch?v=FgIvMBZ1ZAc) – composer's own upload dated 2019-04-18; description: "So here they are, the full fidelity tunes from over two decades ago"
+[^ref-58]: [MobyGames – Lords of the Realm II credits](https://www.mobygames.com/game/998/lords-of-the-realm-ii/credits/) – Creative Director, Producer, Programming, Artists, Writer
