@@ -101,7 +101,7 @@ Wikipedia names Hale's Katrina among the most notable performances in *Quest for
 ### Mark Hamill
 
 - [[1993 - Gabriel Knight - Sins of the Fathers]] — Detective Mosely; Jeep Driver (CD-ROM version)[^ref-moby-gk1][^ref-hamill]
-- [[1994 - Bouncers]] — voice cast, with Michael Bell and John Kassir (Dynamix, Sega CD); the source names no roles[^ref-bouncers]
+- [[1994 - Bouncers]] — Ugh, Chip, Dash and the Old Man, with Michael Bell and John Kassir also in the cast (Dynamix, Sega CD)[^ref-bouncers][^ref-bouncers-credits]
 - [[1999 - Starsiege]] — Harabec Weathers, the rebel leader[^ref-ign-starsiege]
 
 ### Jane Jensen
@@ -295,6 +295,7 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-btva-gc2]: [Behind The Voice Actors — Ground Control II: Operation Exodus](https://www.behindthevoiceactors.com/video-games/ground-control-ii-operation-exodus/) — "Major Sarah Parker voiced by Jennifer Hale"
 [^ref-gc2]: [Wikipedia — Ground Control II: Operation Exodus](https://en.wikipedia.org/wiki/Ground_Control_II:_Operation_Exodus) — "Released under the Sierra Entertainment brand name"
 [^ref-bouncers]: [Wikipedia — Bouncers (video game)](https://en.wikipedia.org/wiki/Bouncers_(video_game)) — developed by Dynamix; "Voice acting in Bouncers was performed by Michael Bell, Mark Hamill, and John Kassir"
+[^ref-bouncers-credits]: [Sega Retro — Bouncers/Production credits](https://segaretro.org/Bouncers/Production_credits) — transcribed from the in-game cartoon credits: "Ugh's Voice: Mark Hamill", "Chip's Voice: Mark Hamill", "Dash's Voice: Mark Hamill", "Old Man's Voice: Mark Hamill"
 [^ref-ign-starsiege]: [IGN — Starsiege review (April 7, 1999)](https://www.ign.com/articles/1999/04/07/starsiege) — "computer game veteran Mark Hamill … as the voice of rebel leader … Harabec Weathers"
 [^ref-moby-moe]: [MobyGames — King's Quest: Mask of Eternity credits, Windows (Moby ID 136; Wayback, November 28, 2024)](https://web.archive.org/web/20241128162621/https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) — "Mary Kay Bergman (Apothecary Gnome, Swamp Witch)"; "Kevin Michael Richardson (Lord Azrie, Lucreto, Prophet Tree)"; "Jan Rabson (Crystal Mystic, Henchman)"; "Neil Ross (Archon, Spirit Knight, Wizard)"
 [^ref-moby-dagger]: [MobyGames — The Dagger of Amon Ra credits, DOS (Wayback, December 8, 2015)](https://web.archive.org/web/20151208012347/http://www.mobygames.com/game/dos/dagger-of-amon-ra/credits) — "Steve Dorian Josh Mandel, Crodfoller T. Rhubarb Josh Mandel, Henri Le Mort Josh Mandel, Rex the Talking Dinosaur Josh Mandel, Rocco the Taxi Driver Josh Mandel"; "Biff Barry T. Smith, Desk Sergeant Barry T. Smith"; "Blue Person Stuart Moulder"; "Dr. Olympia Myklos Kelli Spurgeon"; "Rameses Najeer Richard Aronson"; "Flapper Jane Jensen"; "Miscellaneous People Scott Murphy"

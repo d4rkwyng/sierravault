@@ -7,21 +7,20 @@ publisher: Sega of America
 genre: Sports
 platforms: [Sega CD]
 series: Standalone
-engine: Proprietary (Dynamix)
+engine: null
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
-description: Bouncers is an unconventional arcade basketball game developed by Dynamix
-  and published by Sega of America exclusively for the Sega CD in December 1994. The...
+last_updated: '2026-11-11'
+description: 'Bouncers is an unconventional arcade basketball game developed by Dynamix and published by Sega of America exclusively for the Sega CD in December 1994, in which players control the ball itself.'
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2][^ref-21] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] Sega's promotional text for the game led with "Slam-Dunk Your Head" and told players: "Now you get to play basketball as the ball."[^ref-4]
+Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2][^ref-21] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] Sega's promotional text for the game led with "Slam-Dunk Your Head" and told players: "Now you get to play basketball as the ball."[^ref-4][^ref-28]
 
 Released exclusively in North America, Bouncers combines sports gameplay with fighting game mechanics in a slapstick atmosphere that Sega-16 compared to games like Earthworm Jim or ClayFighter.[^ref-3][^ref-5][^ref-21] The game features a voice cast of Mark Hamill (Star Wars), Michael Bell, and John Kassir.[^ref-2][^ref-6][^ref-22] Hardcore Gaming 101 observed that "Even for the Sega CD, a system with no shortage of strange, inscrutable games, the existence of Bouncers is nothing short of perplexing."[^ref-7]
 
@@ -32,7 +31,6 @@ Released exclusively in North America, Bouncers combines sports gameplay with fi
 > **Producer:** [[Jeff Tunnell]] (Executive), Randy Thompson[^ref-1][^ref-22]
 > **Art Director:** John Garvin[^ref-22]
 > **Voice Director:** Ginny McSwain[^ref-1][^ref-22]
-> **Engine:** Custom
 > **Platforms:** Sega CD[^ref-1]
 > **Release Year:** December 1994[^ref-2][^ref-21]
 > **Series:** Standalone
@@ -92,7 +90,7 @@ Hardcore Gaming 101 noted that many stages "have a hand-drawn quality to them si
 
 ### Contemporary Reviews
 
-Contemporary magazine scores ranged from 50 to 85 on Sega Retro's 100-point conversion, averaging 71 across seven reviews.[^ref-21] Sega Retro's floor of 50 is its conversion of Next Generation's rating; the magazine itself gave three stars out of five.[^ref-26]
+Contemporary magazine scores ranged from 50 to 85 on Sega Retro's 100-point conversion, averaging 71 across the seven reviews Sega Retro lists.[^ref-21] The table below also includes Gamers (Brazil), which comes from Wikipedia and sits outside Sega Retro's seven.[^ref-2] Sega Retro's floor of 50 is its conversion of Next Generation's rating; the magazine itself gave three stars out of five.[^ref-26]
 
 **Magazine Scores:**[^ref-2][^ref-21]
 | Publication | Score | Reviewer | Date |
@@ -107,6 +105,10 @@ Contemporary magazine scores ranged from 50 to 85 on Sega Retro's 100-point conv
 | Freak (Israel) | 84 (Sega Retro) | — | 1995 |
 
 Next Generation stated in their March 1995 review: "It's goofy as hell, and a complete blast. However, it's such an odd concept for a game that it seems you either love it or hate it. Fortunately, we liked it."[^ref-2][^ref-26]
+
+Electronic Gaming Monthly's December 1994 issue (#65) carried a Review Crew blurb on page 46: "Superb graphics and excellent cartoon sequences are the highlight of this entertaining ball-bouncing game. This one is more fun when you go head-to-head against another person rather than the computer."[^ref-27] The same issue's Fact File (pp. 326–27) lists the game for one or two players, with a December release, and eight cartoons; its "The Ugly" box says "The cartoons provided in the game are the best," while "The Bad" box says "Besides shooting hoops all day and scoring points, there isn't much else to do."[^ref-27]
+
+Sega Visions (December 1994/January 1995, issue #22) covered the game in its "Review This!" section on pages 64–65, calling it "the most unique and unruly basketball game ever to hit a game machine" and saying each character "is introduced by a spectacular 3-D cartoon that boasts some of the best animation to spin off a Sega CD." It lists the game as 1 or 2 players with a 3-button controller.[^ref-28]
 
 ### Modern Assessment
 
@@ -139,7 +141,14 @@ John Garvin, who created the game's art and cartoon cutscenes, described his car
 
 The development team was led by executive producer [[Jeff Tunnell]], a Dynamix co-founder,[^ref-15] with Randy Thompson serving as producer.[^ref-1][^ref-22] The original design was by Rhett Anderson and Dave Hensley; the Sega design credit went to Anderson, John Garvin, Randy Thompson and Tim Midkiff, and Anderson was credited as lead designer.[^ref-22] Thompson, Anderson and Midkiff programmed the game, and Thompson also wrote the manual.[^ref-22] Garvin was art director, handled art and animation, and wrote and animated the character cartoons.[^ref-22] Writing in 2012, he described his Dynamix experience as "art directing games like Sega CD's Bouncers."[^ref-24]
 
-**Voice Cast:**[^ref-6][^ref-22]
+Music and sound effects are credited to Christopher Stevens, Timothy Steven Clarke, Jan Paul Moorhead, and Ken Rogers, with Joe Weber on guitar.[^ref-1][^ref-12][^ref-22] Stevens and Clarke left Dynamix shortly before the game's release to establish LoudMouth, Inc., a game music production company.[^ref-2] Tracks from Bouncers were included on the group's 1995 album *Get Loud! vol. 1*, which Stevens and Clarke produced and which was recorded and mastered at LoudMouth Studios in Springfield, Oregon.[^ref-2][^ref-23] (That album credits Bill Barrett for "Voice Characters"; he does not appear in the game's own credits.[^ref-22][^ref-23])
+
+The in-game credits also list Rob Kraft and Peter Lewis for miscellaneous art, and James Domico as QA manager; the manual credits Shawn Bird with layout.[^ref-22]
+
+### Voice Cast
+
+The cartoon credits name each role, with Mark Hamill voicing Ugh, Chip, Dash and the Old Man.[^ref-6][^ref-22]
+
 | Actor | Characters |
 |-------|------------|
 | Mark Hamill | Ugh, Chip, Dash, Old Man |
@@ -147,8 +156,6 @@ The development team was led by executive producer [[Jeff Tunnell]], a Dynamix c
 | Michael Bell | Fu, Master Fo, Tank, Zap, Mick |
 
 Voice direction was handled by Ginny McSwain, with Sher Alltucker as talent coordinator.[^ref-1][^ref-22]
-
-Music and sound effects are credited to Christopher Stevens, Timothy Steven Clarke, Jan Paul Moorhead, and Ken Rogers, with Joe Weber on guitar.[^ref-1][^ref-12][^ref-22] Stevens and Clarke left Dynamix shortly before the game's release to establish LoudMouth, Inc., a game music production company.[^ref-2] Tracks from Bouncers were included on the group's 1995 album *Get Loud! vol. 1*, which Stevens and Clarke produced and which was recorded and mastered at LoudMouth Studios in Springfield, Oregon.[^ref-2][^ref-23] (That album credits Bill Barrett for "Voice Characters"; he does not appear in the game's own credits.[^ref-22][^ref-23])
 
 ### Technical Specifications
 
@@ -195,7 +202,7 @@ As a Dynamix production, Bouncers is part of Sierra's extended family of games. 
 
 Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Reviewers praised its hand-drawn backgrounds and intro cartoons but faulted its physics and thin content.[^ref-3][^ref-7] eBay's catalog description says that despite Mark Hamill's voice work, "this is not enough to make the game anything more than a mere curiosity."[^ref-19]
 
-## Easter Eggs and Trivia
+### Easter Eggs and Trivia
 
 - CG animatics for each of the eight characters are hidden on the main menu[^ref-7]
 - The game's soundtrack can be played in a standard CD player by inserting the game disc[^ref-3]
@@ -204,24 +211,23 @@ Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Review
 - Rhett Anderson and Dave Hensley's 1987 type-in Basketball Sam & Ed was a forerunner of the game[^ref-2]
 - John Garvin went on to create the Syphon Filter series after working on this game[^ref-2][^ref-9]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Physical Sega CD copies available through retro game retailers and auction sites[^ref-20]
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
 
 **Digital Availability**
 - Not available on modern digital storefronts
 
-**Preservation / Emulation**
+**Download / Preservation**
 - [MobyGames Entry](https://www.mobygames.com/game/8009/bouncers/)[^ref-1]
 - [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game))[^ref-2]
 - [Sega Retro - Bouncers](https://segaretro.org/Bouncers)[^ref-21]
 - [VGMdb - Bouncers (game release)](https://vgmdb.net/release/20733)[^ref-12]
 - [Sega-16 Review](https://www.sega-16.com/2013/05/bouncers/)[^ref-3]
+
+**Manuals & Extras**
 - [Sega Retro - Manual Scan](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf)[^ref-13]
 
 ## See Also
@@ -261,3 +267,5 @@ Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Review
 [^ref-24]: [PlayStation Blog - Behind the Classics: Syphon Filter](https://blog.playstation.com/2012/10/25/behind-the-classics-syphon-filter/) - Garvin: "art directing games like Sega CD's Bouncers"
 [^ref-25]: [PixelDie - Celebrating the 25th Anniversary of Syphon Filter](https://pixeldie.com/2024/01/24/celebrating-the-25th-anniversary-of-syphon-filter-a-conversation-with-john-garvin-and-richard-ham/) - Garvin: "At Dynamix I had written the short cartoons for Bouncers"
 [^ref-26]: [Next Generation issue 3 (March 1995), full text (archive.org)](https://archive.org/download/NEXT_Generation_03/NEXT_Generation_03_djvu.txt) - "Finals" review of Bouncers: "It's goofy as hell, and a complete blast" (three stars)
+[^ref-27]: [Electronic Gaming Monthly issue 65 (December 1994), archive.org](https://archive.org/details/Electronic_Gaming_Monthly_65) - Review Crew blurb for Bouncers (p. 46); Fact File (pp. 326–27): 1 or 2 players, December, eight cartoons, six courts
+[^ref-28]: [Sega Visions issue 22 (December 1994/January 1995), archive.org](https://archive.org/details/Sega-Visions-Issue-22) - "Review This!" feature on Bouncers (pp. 64–65): "Now you get to play basketball as the ball", 1 or 2 players, Hot Hints

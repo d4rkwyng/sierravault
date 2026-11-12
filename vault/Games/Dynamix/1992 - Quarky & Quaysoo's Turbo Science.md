@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Dynamix Game Development System (DGDS)
 protagonist: Quarky O'Ghandi / Quaysoo O'Ghandi
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Quarky & Quaysoo's Turbo Science is an educational science quiz-race game
   developed by Jeff Tunnell Productions and published by Sierra On-Line for DOS in 1992
   as part of the Sierra Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, dgds, educational, sierra, sierra-discovery-series]
 ---
 # Quarky & Quaysoo's Turbo Science
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ As players progress through the championship, they earn money to buy faster tran
 
 Quarky & Quaysoo's Turbo Science uses a mouse-driven point-and-click interface, aimed at children ages 9-14.[^ref-3][^ref-6] It runs on the Dynamix Game Development System (DGDS) engine, with the "Dynamix bottom bar" icon interface also seen in later Sierra adventures.[^ref-7][^ref-11] An Eye icon gives pop-up information on objects, and a Tools icon opens a toolbox with a voltage meter, sound meter, tape measure, beaker and scale for measuring things on screen.[^ref-24] *PC Magazine*'s list of the toolkit's devices also includes a light meter.[^ref-25]
 
-Some questions are multiple choice, while others ask the player to click one of several objects that the game highlights in the scene.[^ref-6][^ref-3] For harder questions, the Research icon tells players which page of the printed Research Guide to read.[^ref-13][^ref-24] Sources give the guide's length differently: the box says 150 pages, *Compute!* says 145 and *PC Magazine* says 152.[^ref-3][^ref-24][^ref-25] *PC Magazine* noted that there is no penalty for using the guide and that the clock stops while kids measure and weigh objects.[^ref-25]
+Some questions are multiple choice, while others ask the player to click one of several objects that the game highlights in the scene.[^ref-6][^ref-3] For harder questions, the Research icon tells players which page of the printed Research Guide to read.[^ref-13][^ref-24] Sources give the guide's length differently: the box says 150 pages (as does *Technology Review*), *Compute!* says 145, *PC Magazine* says 152, and a pre-release *InterAction* preview described a 120-page resource comic book.[^ref-3][^ref-24][^ref-25][^ref-28][^ref-31] *PC Magazine* noted that there is no penalty for using the guide and that the clock stops while kids measure and weigh objects.[^ref-25]
 
 ### Structure and Progression
 
@@ -69,7 +69,7 @@ Players earn money by answering questions correctly: $700 for standard correct a
 
 The core mechanic involves answering science questions to earn money for moving between checkpoints in each race.[^ref-5] Questions come in two difficulty levels and cover topics such as simple machines, chemistry, optics, energy, magnetism, and air and water pressure.[^ref-2][^ref-6] The game contains over 2,300 questions and experiments.[^ref-3]
 
-Players can choose from five different transportation methods, each with varying prices and speeds.[^ref-5][^ref-9] Players do not have to answer questions at every checkpoint as long as they have money to continue, and earning more money early can decide the race.[^ref-6] Each stop has its own scientific theme, and players answer questions about that subject.[^ref-4]
+Players can choose from five different transportation methods, each with varying prices and speeds.[^ref-5][^ref-9] *Technology Review* described them as ranging "from walking (the slowest) to ultralight aircraft," with the player's computer "bank account" shrinking faster the faster they travel.[^ref-28] The same review described a toolbox with "a scale, a thermometer, a tape measure, a volume beaker, a voltmeter, light and sound meters," most of which could switch between English and metric, and landscapes such as Big Wave Beach, where the first question asks where the highest water pressure is found, and a set of electrical generating stations powered by hydro, wind and steam.[^ref-28] The *InterAction* preview put the number of locations at more than twenty.[^ref-31] Players do not have to answer questions at every checkpoint as long as they have money to continue, and earning more money early can decide the race.[^ref-6] Each stop has its own scientific theme, and players answer questions about that subject.[^ref-4]
 
 The game's approach combines several educational strategies:
 
@@ -91,6 +91,10 @@ The Oppenheim Toy Portfolio Guide Book, by Joanne and Stephanie Oppenheim (1993)
 
 A capsule review on Old-Games.com's page called it "a pleasant surprise by master puzzler Jeff Tunnell" and "'edutainment' at its best."[^ref-7] The site's main review, which gave the game 4/5, noted that "Quarky & Quaysoo's Turbo Science has a really funny setting and story which make up for the rather dry questioning style."[^ref-7]
 
+*Computer Gaming World* covered the game twice. Its December 1992 holiday software guide listed it under Dynamix at $49.95 and described it as played "in an arena that looks vaguely reminiscent of the junkyard in the old Bill Cosby / Fat Albert cartoon show," "a race against opposing science teams and toward scientific knowledge," with "enough clever cartoon graphics and impressively animated discoveries to keep most any budding Einstein enthralled."[^ref-29] The March 1993 issue repeated the junkyard comparison and said children are introduced to "the properties of matter in different states, the behavior of light, basic mechanics, nuclear energy, and so on, in a hip language that kids supposedly, like, speak, ya know?"[^ref-30]
+
+In *MIT Technology Review* (November/December 1993), parent Ronald Sokol-Margolis called it "one of the more imaginative and effective educational software packages to emerge recently" and "a well-designed model" for the future of computer-based science education.[^ref-28] He noted that the DOS version needed VGA graphics, at least a 386SX and 640K, that "a Macintosh version is due out soon," and that the 150-page research guide was "highly entertaining, with cartoon characters and silly stories intertwined with scientific facts." His oldest child, aged 15, "found most of the questions too easy" while the 10- and 12-year-olds were enthusiastic, and he regretted that it is "a one-player game" that does not teach teamwork.[^ref-28]
+
 A MobyGames user review is titled "Who knew that science could be so much fun?"[^ref-6]
 
 ### Modern Assessment
@@ -110,13 +114,13 @@ The game has 264 votes on GOG.com's wishlist from users requesting its release o
 
 ### Origins
 
-Quarky & Quaysoo's Turbo Science was made by [[Jeff Tunnell Productions]], a studio Jeff Tunnell founded in 1992. The studio is best known for The Incredible Machine series, and Tunnell later rejoined Dynamix.[^ref-16] The game belongs to the Sierra Discovery Series, a short-lived line of children's titles that Sierra published from 1991 to 1993.[^ref-17]
+Quarky & Quaysoo's Turbo Science was made by [[Jeff Tunnell Productions]], a studio Jeff Tunnell founded in 1992. The studio is best known for The Incredible Machine series, and Tunnell later rejoined Dynamix.[^ref-16] The game belongs to the Sierra Discovery Series, a short-lived line of children's titles that Sierra published from 1991 to 1993.[^ref-17] In its Summer 1992 issue, *InterAction* introduced it as the first offering from Tunnell's new group, "a wacky animated cross between Mr. Wizard, Saturday morning cartoons and a cross country race where wits, not speed, bring the ultimate victory." Tunnell called it "a fun approach to the hard issues of science and ecology" and "a very real educational game."[^ref-31]
 
 The box says the game was "created with the assistance of an award-winning team of educators."[^ref-3] The manual credits Sam Miller (PhD), Richard C. Adams and Marilyn Husser as educational consultants.[^ref-26]
 
 ### Production
 
-The game was developed using the Dynamix Game Development System (DGDS).[^ref-11] Production involved creating over 2,300 questions and experiments covering multiple scientific disciplines.[^ref-3] The team also produced the printed Turbo Research Guide that came with the game. The box calls it 150 pages, while *Compute!* and *PC Magazine* gave 145 and 152 pages respectively.[^ref-3][^ref-24][^ref-25] Ken Embery edited the guide.[^ref-26]
+The game was developed using the Dynamix Game Development System (DGDS).[^ref-11] Production involved creating over 2,300 questions and experiments covering multiple scientific disciplines.[^ref-3] The team also produced the printed Turbo Research Guide that came with the game. The box calls it 150 pages, as did *Technology Review*, while *Compute!* and *PC Magazine* gave 145 and 152 pages respectively; the pre-release *InterAction* preview had mentioned a 120-page resource comic book.[^ref-3][^ref-24][^ref-25][^ref-28][^ref-31] Ken Embery edited the guide.[^ref-26]
 
 **Development Credits:**[^ref-26]
 - **Director / Designer:** Jeffrey Tunnell
@@ -182,7 +186,7 @@ The game came with its Research Guide, a printed reference book, along with a ma
 
 ### Collections
 
-Quarky & Quaysoo's Turbo Science was released as part of the Sierra Discovery Series alongside other educational titles.[^ref-3] A MobyGames user review places it in Jeff Tunnell Productions' "short-lived Turbo Learning series," alongside Turbo Learning: Mega Math.[^ref-6][^ref-16]
+Quarky & Quaysoo's Turbo Science was released as part of the Sierra Discovery Series alongside other educational titles.[^ref-3] A MobyGames user review places it in Jeff Tunnell Productions' "short-lived Turbo Learning series," alongside [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]].[^ref-6][^ref-16]
 
 The game is not sold on GOG, where it remains a wishlist request.[^ref-15]
 
@@ -194,7 +198,7 @@ Speedrun.com tracks the game and hosts a beginner's guide with route and strateg
 
 ### Related Publications
 
-- **Turbo Science Research Guide:** A printed reference book included with the game. Its length is given as 145 to 152 pages depending on the source, and it covers topics such as machines, chemistry, optics, and energy.[^ref-2][^ref-3][^ref-24][^ref-25]
+- **Turbo Science Research Guide:** A printed reference book included with the game. Its length is given as 145 to 152 pages depending on the source (120 pages in a pre-release preview), and it covers topics such as machines, chemistry, optics, and energy.[^ref-2][^ref-3][^ref-24][^ref-25][^ref-31]
 - **Quarky & Quaysoo's Turbo Science: Research Guide:** Listed on Amazon as a standalone book (ASIN: B000I1AV7S), with an item weight of 8 ounces[^ref-19]
 
 ### Critical Perspective
@@ -221,17 +225,10 @@ Period reviewers praised the game and especially its Research Guide.[^ref-24][^r
 
 ## See Also
 
-- [[1989 - David Wolf - Secret Agent]]
-- [[1989 - MechWarrior]]
-- [[1990 - Rise of the Dragon]]
-- [[1991 - Heart of China]]
-- [[1991 - The Adventures of Willy Beamish]]
+- [[1993 - Turbo Learning - Mega Math]]
+- [[1993 - Sid & Al's Incredible Toons]]
+- [[1992 - The Incredible Machine]]
 - [[1992 - Johnny Castaway]]
-- [[1994 - Bouncers]]
-- [[1994 - Sierra Soccer - World Challenge Edition]]
-- [[1996 - CyberGladiators]]
-- [[1996 - Hunter Hunted]]
-- [[1996 - Rama]]
 
 ## References
 
@@ -256,3 +253,7 @@ Period reviewers praised the game and especially its Research Guide.[^ref-24][^r
 [^ref-25]: [PC Magazine, June 15, 1993, "From Anatomy to Zoology: Scientific Method Meets the PC" by Peter Scisco, p. 468](https://archive.org/details/PC-Mag-1993-06-15) – review; ages 9-14, easy/hard questions, 152-page Research Guide, criticisms, $49.95
 [^ref-26]: [MobyGames – Quarky & Quaysoo's Turbo Science Credits (DOS)](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/credits/dos/) – full game and manual credits, including music and educational consultants
 [^ref-27]: [MobyGames – Quarky & Quaysoo's Turbo Science Releases](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/releases/) – 1992 release, 1993 Discovery Series release, 1993 Slash Corporation VPM release
+[^ref-28]: [MIT Technology Review, November/December 1993, "Science Class was Never like This" by Ronald Sokol-Margolis, software review beginning p. 74](https://archive.org/details/MIT-Technology-Review-1993-11) – review; ages 9-14, DOS requirements, Macintosh version "due out soon", five transport modes, toolbox, 150-page research guide, criticisms
+[^ref-29]: [Computer Gaming World #101, December 1992, holiday software guide, "Turbo Science" capsule](https://archive.org/details/Computer_Gaming_World_Issue_101) – capsule listing (Dynamix, IBM, $49.95), ages 9 to 14
+[^ref-30]: [Computer Gaming World #104, March 1993, "Quarky and Quaysoo's Turbo Science" capsule under Dynamix, Eugene, OR](https://archive.org/details/Computer_Gaming_World_Issue_104) – capsule; topics covered, ages 9 to 14, $49.95
+[^ref-31]: [InterAction, Vol. V No. 2, Summer 1992, Jeff Tunnell Productions profile](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – pre-release preview; first JTP offering, 20+ locations, 120-page resource comic book, Tunnell quotes
