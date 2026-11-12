@@ -8,16 +8,18 @@ genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
 series: Coktel
 engine: Gob
+composer: [Charles Callet]
 protagonist: Bob
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Bargon Attack is a French point-and-click adventure game released in
-  1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered...
+  1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered
+  for the Gobliiins series.
 tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,6 +34,7 @@ Contemporary French reviewers compared Bargon Attack favorably to American adven
 > **Designer:** Claude Marc, Serge Marc[^ref-7]
 > **Publisher:** Coktel Vision[^ref-1]
 > **Engine:** Gob[^ref-8]
+> **Composer:** Charles Callet[^ref-29]
 > **Platforms:** DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1992
 > **Series:** Coktel
@@ -58,7 +61,7 @@ The game supports keyboard and mouse input.[^ref-22] At least one Lemon Amiga us
 
 ### Structure and Progression
 
-Bargon Attack features a strictly linear progression system—players cannot return to previous areas once they have moved forward in the game.[^ref-16] This design choice means that missing an item or failing to complete a puzzle before leaving an area can make the game unwinnable. The game consists of approximately 20 distinct locations, each containing one to three individual screens to explore.[^ref-1]
+Bargon Attack features a strictly linear progression system—players cannot return to previous areas once they have moved forward in the game.[^ref-16] Génération 4 noted that you cannot go back and that the next screen opens only after you have picked up all the useful objects.[^ref-5] The game consists of approximately 20 distinct locations, each containing one to three individual screens to explore.[^ref-1]
 
 BBB's walkthrough, following the format of an earlier Italian solution, divides the game into 23 numbered phases.[^ref-16] The journey runs from the streets of Paris, through the aliens' underground lairs, to the Bargon home planet.[^ref-6]
 
@@ -68,7 +71,7 @@ The puzzle design in Bargon Attack combines traditional inventory-based adventur
 
 The game features numerous instant death scenarios—players can die suddenly and often, sometimes "without a reason" according to one Lemon Amiga user.[^ref-15] When the player dies, the option to replay the level is always available.[^ref-1] The puzzle logic was frequently criticized, with one reviewer calling it "Adventure game logic at its worst."[^ref-11] Particularly notorious is what one player described as "a strong contender for the award of the most ridiculous puzzle of the year," involving illogical item combinations.[^ref-11]
 
-One infamous puzzle interaction involves the game text responding "Use nougat on a locked door?! You must be mad!"[^ref-12] when players attempt nonsensical combinations—though ironically, many of the game's actual solutions seem equally illogical. The game requires extensive pixel hunting, with some reviewers noting that "a few items to be found in the game are literally only one pixel in size, so all you see is a very small dot or glint!!!"[^ref-17]
+One infamous puzzle interaction involves the game text responding "Use nougat on a locked door?! You must be mad!"[^ref-12] when players attempt nonsensical combinations. The game requires extensive pixel hunting, with some reviewers noting that "a few items to be found in the game are literally only one pixel in size, so all you see is a very small dot or glint!!!"[^ref-17]
 
 ## Reception
 
@@ -76,7 +79,7 @@ One infamous puzzle interaction involves the game text responding "Use nougat on
 
 French gaming publications responded positively to Bargon Attack upon its 1992 release. Wikipedia, citing MobyGames' MobyRank, lists Joystick at 94/100 and Génération 4 at 80%, without naming an issue or platform for either.[^ref-2] Joystick's July/August 1992 issue (p. 270) printed a re-test of the Amiga version by Moulinex, marked "DEJA TESTE DANS JOY N°17" and "DISPONIBLE SUR AMIGA, PC, ST", with Graphisme 15, Animation 14, Son 15, Difficulté 16 and "VERDICT:90%"; the reviewer wrote that the character and cursor movements "sont lents" on Amiga, while noting that "Coktel a apporté le plus grand soin à la conversion".[^ref-28] The Obligement reprint of Génération 4's June 1992 article, written by Didier Latil, prints a data sheet reading "NOTE : 6,5/10" without saying who assigned that mark, so the 80% and the 6,5/10 are both recorded here with their sources and are not reconciled.[^ref-5] Latil praised the game as "Un jeu d'aventure tout ce qu'il y a de plus français" (An adventure game that is completely French) and comparing its humor favorably to American classics like Zak McKracken and Maniac Mansion.[^ref-5] He found the mouse-driven system "légèrement trop facile" for genre veterans, adding that "Il est très rare de rester bloqué à un endroit".[^ref-5]
 
-Tilt no. 104 (July 1992) reviewed both versions. Its PC test (pp. 116-117, with the game on the cover) gave "Intérêt" 16 and called it "un des meilleurs jeux d'aventure français".[^ref-29] Its Amiga test (p. 84, "Editeur COKTEL VISION", by Jean-Loup Jovanovic) said "La version PC était excellente" but that the Amiga version "souffre d'une conversion imparfaite. Les animations vidéo en un tiers d'écran de la version PC ont disparu, et ont été remplacées par des images peu animées", with the character moving "au ralenti", and closed with "Encore une victime de la conversion sauvage".[^ref-29]
+Tilt no. 104 (July 1992) reviewed both versions. Its PC test (pp. 115-117, with the game on the cover) credits the publisher as Tomahawk and gave "Intérêt" 16, calling it "un des meilleurs jeux d'aventure français".[^ref-29] A side-box on p. 116, "Un singe ou un Bargon ?", compares it with Monkey Island 2: "Monkey II est tout de même un cran au-dessus de Bargon Attack", though "le jeu de Lucasfilm est sans doute le meilleur jeu d'aventure du moment, et Bargon Attack ne démérite pas !"[^ref-29] Its Amiga test (p. 84, "Editeur COKTEL VISION", by Jean-Loup Jovanovic) said "La version PC était excellente" but that the Amiga version "souffre d'une conversion imparfaite. Les animations vidéo en un tiers d'écran de la version PC ont disparu, et ont été remplacées par des images peu animées", with the character moving "au ralenti", and closed with "Encore une victime de la conversion sauvage".[^ref-29]
 
 German publications were more measured in their assessments. Joker Verlag präsentiert: Sonderheft awarded 78%.[^ref-2] The German magazine Amiga Joker, reviewed by Carsten Borgmeier, also gave the game 78%.[^ref-15] Power Play scored it lower at 59%, while Gamezone (Germany) awarded 60%.[^ref-2]
 
@@ -107,13 +110,14 @@ Bargon Attack originated not as a video game concept but as a comic strip publis
 Claude Marc himself reflected on the project's origins, stating: "Ca a été un très grand honneur pour moi de collaborer avec Rasheed sur la bande dessinée Bargon Attack, qui est devenue par la suite un jeu vidéo chez Coktel, grâce à l'enthousiasme de Roland Oskian" (It was a great honor for me to collaborate with Rasheed on the comic strip Bargon Attack, which later became a video game at Coktel, thanks to the enthusiasm of Roland Oskian).[^ref-21] 
 ### Production
 
-The game was produced under the management of Muriel Tramis and Philippe Lamarque.[^ref-7] Tramis was also behind Coktel's "erotic" trilogy of Emmanuelle, Geisha and Fascination.[^ref-10]
+Muriel Tramis is credited as Product Manager and Philippe Lamarque as Program Manager.[^ref-1] Tramis was also behind Coktel's "erotic" trilogy of Emmanuelle, Geisha and Fascination.[^ref-10]
 
 Programming was credited to "M.D.O."[^ref-14] The game was released in 1992 on DOS, Amiga, and Atari ST.[^ref-14]
 
 **Development Credits:**[^ref-7]
 - **Concept:** Claude Marc, Serge Marc
-- **Management:** [[Muriel Tramis]], Philippe Lamarque
+- **Product Manager:** [[Muriel Tramis]]
+- **Program Manager:** Philippe Lamarque
 - **Programming:** M.D.O.
 - **Graphics:** Rachid Chebli (Rasheed)
 - **Music & Sound FX:** Charles Callet
@@ -136,7 +140,7 @@ The game was built using the Gob engine, which Coktel Vision utilized for severa
 **VGA DOS Version:**
 - **Resolution:** 320x200, 256 colors[^ref-8]
 - **Media:** 6 × 5.25" HD disks; high quality graphics and video, plus some additional voices[^ref-16]
-- **Hard Drive Space:** 7 to 8 MB[^ref-17]
+- **Hard Drive Space:** 7 to 8 MB according to Mr. Bill's Adventureland;[^ref-17] 9 MB including saved games according to Tilt no. 104[^ref-29]
 
 **CGA/EGA DOS Version:**[^ref-16]
 - **Media:** 8 × 5.25" DD disks
@@ -194,11 +198,11 @@ For modern players, the game runs successfully under ScummVM (supported since ve
 
 Bargon Attack remained one of Coktel Vision's lesser-known titles, overshadowed by the more successful Gobliiins series.[^ref-1] The game was released in Spain and France in 1992, with distribution expanding to other European territories including Germany, Italy, and the United Kingdom.[^ref-14] No sales figures have been publicly documented.
 
-Coktel Vision was acquired by Sierra on October 29, 1993.[^ref-26] In October 2005, Vivendi Universal Games sold Coktel and its Adibou licences to Mindscape.[^ref-27] The Adventure Gamer blogger nonetheless writes that the studio "disappeared in the same mess that crushed all the subsidiary companies of Sierra in the 2000's."[^ref-10] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
+Coktel Vision was acquired by Sierra on October 29, 1993.[^ref-26] In October 2005, Vivendi Universal Games sold Coktel and its Adibou licences to Mindscape.[^ref-27] Mr. Bill's Adventureland notes the game was "later published by Sierra On-Line",[^ref-17] and the ScummVM wiki lists Sierra as publisher.[^ref-8]
 
 ### Collections
 
-No compilation release of Bargon Attack has been documented. The ScummVM wiki lists it as not available for purchase,[^ref-8] and as of October 2026 it is not sold on Steam or GOG.com. The Amiga version was reportedly available cheaply and often found in game lots during the 1990s.[^ref-20]
+No compilation release of Bargon Attack has been documented. The ScummVM wiki lists it as not available for purchase,[^ref-8] and as of 12 November 2026 it is not sold on Steam or GOG.com. The Amiga version was reportedly available cheaply and often found in game lots during the 1990s.[^ref-20]
 
 ### Fan Projects
 
@@ -241,6 +245,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 - [[1993 - Lost in Time]]
 - [[1995 - The Last Dynasty]]
 - [[1996 - Urban Runner]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -271,4 +276,4 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-26]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-27]: [Gamekult – VU Games cède Coktel à Mindscape (archived 2018)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) – Mindscape acquires Coktel and its Adibou licences from VU Games, 21 October 2005
 [^ref-28]: [Joystick no. 29 (July/August 1992), p. 270 – scan](http://download.abandonware.org/magazines/Joystick/joystick_numero029/page%20270.jpg) – Amiga re-test by Moulinex, 90%, "Déjà testé dans Joy n°17"
-[^ref-29]: [Tilt no. 104 (July 1992) – Internet Archive](https://archive.org/details/Tilt104) – PC test pp. 116-117, Amiga test p. 84, Coktel Vision advertisement p. 41
+[^ref-29]: [Tilt no. 104 (July 1992) – Internet Archive](https://archive.org/details/Tilt104) – PC test pp. 115-117, Amiga test p. 84, Coktel Vision advertisement p. 41
