@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: GPL physics engine (derived)
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: NASCAR Racing 4 is a 2001 stock car racing simulation for Windows, developed
   by Papyrus Design Group and published by Sierra, covering all 21 tracks of the 2000
   NASCAR Winston Cup season.
@@ -18,11 +18,11 @@ tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 4
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-NASCAR Racing 4 is a stock car racing simulation that Sierra's own product description billed as "the next evolution of the best-selling, award-winning racing series," one that "fully immerses players into a truly realistic NASCAR experience."[^ref-1] Developed by Papyrus Design Group and published under the Sierra Sports label, it reached US stores in early February 2001: Metacritic lists February 6, while Wikipedia, citing an IGN news item, gives February 7, with a European release on April 6, 2001.[^ref-16][^ref-29][^ref-6] GameSpot called it "the glorious culmination of years of experience and expertise."[^ref-2] According to Wikipedia, the game came out 12 days before Dale Earnhardt's fatal crash at the 2001 Daytona 500.[^ref-6][^ref-28]
+NASCAR Racing 4 is a stock car racing simulation that Sierra's own product description billed as "the next evolution of the best-selling, award-winning racing series," one that "fully immerses players into a truly realistic NASCAR experience."[^ref-1] Developed by Papyrus Design Group and published under the Sierra Sports label, it reached US stores in early February 2001: Metacritic and GameSpot list February 6, while Wikipedia, citing an IGN news item, gives February 7, with a European release on April 6, 2001.[^ref-16][^ref-34][^ref-29][^ref-6] GameSpot called it "the glorious culmination of years of experience and expertise."[^ref-2] That was less than two weeks before Dale Earnhardt's fatal crash in the Daytona 500 on February 18, 2001.[^ref-28]
 
 Retrospectives treat it as a turning point for the series. Daily Downforce wrote that "this was the game with which Papyrus really started to gain some traction" and that "when you start to think about NASCAR PC simulations by Papyrus, this is the game that started to look like a Papyrus NASCAR game."[^ref-3] Its physics engine was derived from Papyrus's Grand Prix Legends,[^ref-13] and GameRant notes it was "the first version that allowed cars to flip over, something that actually happens in auto racing."[^ref-5]
 
@@ -48,7 +48,7 @@ The game supports keyboard and mouse, with joystick, gamepad or steering wheel o
 
 ### Structure and Progression
 
-The game includes all 21 tracks of the 2000 Winston Cup schedule, among them Daytona, Pocono and Indianapolis,[^ref-7] and GameSpot noted that Daytona and Pocono had never before appeared in a Papyrus title.[^ref-2] Players choose from all four body styles of the 2001 season, including the newly introduced Dodge Intrepid R/T.[^ref-2] GameSpot counted "no fewer than 76 real-life drivers and cars,"[^ref-2] while Wikipedia lists 25 real drivers and teams from the 2001 season alongside 42 fictional ones.[^ref-6] It was the first game in the series to support a full 43-car field.[^ref-6]
+The game includes all 21 tracks of the 2000 Winston Cup schedule, among them Daytona, Pocono and Indianapolis,[^ref-7] and GameSpot noted that Daytona and Pocono had never before appeared in a Papyrus title.[^ref-2] Players choose from all four body styles of the 2001 season, including the newly introduced Dodge Intrepid R/T.[^ref-2] GameSpot counted "no fewer than 76 real-life drivers and cars,"[^ref-2] while Wikipedia lists 25 real drivers and teams from the 2001 season alongside 42 fictional ones.[^ref-6] According to Wikipedia, it was the first game in the series to support a full 43-car field,[^ref-6] GameRant likewise says "a full 43-car field was finally able to race,"[^ref-5] and IGN's review noted that the multiplayer engine could "run full 43 car grids at any NASCAR track," Daytona included.[^ref-13]
 
 Modes are testing, single race weekend, championship and online multiplayer,[^ref-6] and the championship includes qualifying sessions.[^ref-17] There is no career mode.[^ref-2] Sources disagree on the multiplayer limit. Computer Games Strategy Plus listed "2-42 players; Internet, LAN,"[^ref-22] Sierra's description and IGN say up to 43 players online,[^ref-1][^ref-29] and the description on MobyGames says 32.[^ref-4] During a race, a spotter and crew chief talk to the player over the radio, and a motion-captured pit crew services the car.[^ref-13] MobyGames' official description also mentions the "ability to tell pit crew what to do before you pit."[^ref-4]
 
@@ -78,7 +78,7 @@ The physics engine is "derived from the GPL physics engine," with an aerodynamic
 
 ### Modern Assessment
 
-On Metacritic the game has a score of 89/100 from 14 critic reviews, all of them positive. The highest is Yahoo!'s 100.[^ref-14] Metacritic's archived page ranked it the #6 best PC game of 2001.[^ref-23] On MobyGames, critics average 80% across 19 ratings.[^ref-4] Next Generation's August 2006 ranking of PC games released since January 2000, published by Edge, placed it 76th by unit sales, with estimated sales of 260,000 units and revenues of $10.4 million.[^ref-30] Wikipedia describes these as US figures.[^ref-6] An Amazon.com review by T. Byrl Baker calls it "the best NASCAR simulation ever created,"[^ref-18] and GameRant ranks it third among the best NASCAR games.[^ref-5]
+On Metacritic the game has a score of 89/100 from 14 critic reviews, all of them positive. The highest is Yahoo!'s 100.[^ref-14] Metacritic's archived page ranked it the #6 best PC game of 2001.[^ref-23] On MobyGames, critics average 80% across 19 ratings.[^ref-4] Edge Online's August 2006 "Top 100 PC Games of the 21st Century," a unit-sales ranking of PC games, a feature copyright Next Generation, placed it 76th, with estimated sales of 260,000 units and revenues of $10.4 million.[^ref-32][^ref-30] Wikipedia describes these as US figures.[^ref-6] An Amazon.com review by T. Byrl Baker calls it "the best NASCAR simulation ever created,"[^ref-18] and GameRant ranks it third among the best NASCAR games.[^ref-5]
 
 ## Development
 
@@ -86,15 +86,17 @@ On Metacritic the game has a score of 89/100 from 14 critic reviews, all of them
 
 The game was published under Sierra Sports, the label Sierra On-Line formed in February 1998 as part of a company restructuring, which included Papyrus.[^ref-8] According to Wikipedia, it "addressed many requested features" from earlier games in the series.[^ref-6] IGN's review weighed it throughout against Hasbro and Monster Games' NASCAR Heat.[^ref-13]
 
+In GameSpot's 2005 history of Papyrus's racing games, Gord Goble wrote that with "2001's landmark NASCAR Racing 4, Papyrus was given the green light to bring in its GPL engine." Kaemmer said of the result: "It was definitely a vindication of the physics engine when Nascar 4 was so well received."[^ref-33]
+
 The game reached stores days before Dale Earnhardt died in a crash at Daytona International Speedway on February 18, 2001.[^ref-6][^ref-28] Computer Games Strategy Plus's reviewer wrote his review "one day after the tragedy that claimed the life of NASCAR's greatest driver, Dale Earnhardt."[^ref-22]
 
 ### Production
 
-MobyGames credits Scott Stutsman as senior producer, David Kaemmer as technical director, Richard Yasi as senior designer and David D. Flamburis as art director. Randy Cassidy and Shawn Nash are credited as senior engineers.[^ref-21] According to GameSpot, Nash said the physics engine was similar to that of Grand Prix Legends, and "the developers did tweak certain features after making precise measurements based on actual specs gleaned from NASCAR garages."[^ref-2] Jon St. John voiced the crew chief and Ryan Drummond the spotter. Lani Minella and Pro-Motions Production Co. handled casting and direction, and Anthony "Tony" Trippi wrote the original intro music.[^ref-21] MobyGames credits 135 people in total: 118 in professional roles and 17 thanks.[^ref-21] Dale Earnhardt Jr. is among those thanked,[^ref-21] and the box carried his quote: "This is the sim we have been waiting for."[^ref-3]
+MobyGames credits Scott Stutsman as senior producer, David Kaemmer as technical director, Richard Yasi as senior designer and David D. Flamburis as art director. Randy Cassidy and Shawn Nash are credited as senior engineers.[^ref-21] According to GameSpot, Nash said the physics engine was similar to that of Grand Prix Legends, and "the developers did tweak certain features after making precise measurements based on actual specs gleaned from NASCAR garages."[^ref-2] Jon St. John voiced the crew chief and Ryan Drummond the spotter. Lani Minella and Pro-Motions Production Co. handled casting and direction, and Anthony "Tony" Trippi wrote the original intro music.[^ref-21] MobyGames credits 135 people in total: 118 in professional roles and 17 thanks.[^ref-21] Dale Earnhardt Jr. is among those thanked,[^ref-21] and Daily Downforce reports that the box carried his quote: "This is the sim we have been waiting for."[^ref-3] Kaemmer told GameSpot: "Real feedback started when we got Kevin Harvick and Dale Earnhardt, Jr. to beta-test NASCAR 4. They loved it right off the bat, and were able to give us quite a bit of useful feedback about the feel of the cars and the realism of the tracks."[^ref-33]
 
 ### Technical Achievements
 
-Computer Games Strategy Plus wrote that "for the first time since the original NASCAR Racing, the developers have implemented a much more realistic physics model—the same one that was previously used to power the seminal Grand Prix Legends."[^ref-22] Cars could now leave the ground. As that review put it, "previously the cars were unable to leave the ground, resulting in collisions that didn't always seem realistic."[^ref-22] It was the first game in the series to let cars flip.[^ref-5] GameSpot described "tried-and-true Papyrus damage modeling with new vertical physics."[^ref-2] The same review said "Papyrus really aimed high with NASCAR Racing 4 and enabled 32-bit color and resolutions as high as the fastest video cards will support,"[^ref-2] and IGN's release-day news brief cited "a monster 1600x1200 resolution."[^ref-29]
+Computer Games Strategy Plus wrote that "for the first time since the original NASCAR Racing, the developers have implemented a much more realistic physics model—the same one that was previously used to power the seminal Grand Prix Legends."[^ref-22] Cars could now leave the ground. As that review put it, "previously the cars were unable to leave the ground, resulting in collisions that didn't always seem realistic."[^ref-22] GameRant calls it "the first version that allowed cars to flip over,"[^ref-5] and GameSpot described "tried-and-true Papyrus damage modeling with new vertical physics," with cars "authentically tumbling end-over-end or climbing safety fences before they finally return to the pavement."[^ref-2] The same review said "Papyrus really aimed high with NASCAR Racing 4 and enabled 32-bit color and resolutions as high as the fastest video cards will support,"[^ref-2] and IGN's release-day news brief cited "a monster 1600x1200 resolution."[^ref-29]
 
 IGN noted that "NASCAR 4 is a Direct3D game, complete with TnL support,"[^ref-13] and Computer Hope lists DirectX 7 as a requirement.[^ref-7] Baker's Amazon.com review says that with the right hardware the game "can generate visuals that are difficult to distinguish from TV broadcasts,"[^ref-18] and Computer Games Strategy Plus wrote that its "graphics are so good you might think it's TV."[^ref-22]
 
@@ -110,12 +112,17 @@ IGN noted that "NASCAR 4 is a Direct3D game, complete with TnL support,"[^ref-13
 | Hard drive | 150 MB | — |
 | CD-ROM | 8X | 8X (MobyGames) |
 
+### Technical Issues
+
+The game ships with a 16-bit InstallShield installer, which does not work on 64-bit versions of Windows. PCGamingWiki describes a workaround: copy the CD contents to a folder, extract Setup.exe from a separate 32-bit installer package (Is5Engine.zip) into that folder, and run it to install the game.[^ref-11] The retail game uses SecuROM DRM and requires a key to install, and its engine is limited to 150 FPS.[^ref-11]
+
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | February 2001 | Windows | Original release[^ref-16] |
 | 1.1.1.0 | April 2001 | Windows | Bug fixes and changes to the computer opponents' AI. Gamepressure dates it April 27, 2001[^ref-24] |
+| Upgrade (no version number given) | October 17, 2001 | Windows | Sierra Studios released a downloadable upgrade with enhanced AI and multiplayer support, a streamlined interface and better overall car control, according to GameSpot's news report[^ref-34] |
 | 1.3.0.6 | Unknown | Windows (US) | Latest official patch for the US version[^ref-11] |
 | 1.3.1.6 | Unknown | Windows (international) | Latest official patch for the international version. Cumulative, with fixes to AI errors, multiplayer, race physics and the interface[^ref-11][^ref-25] |
 
@@ -140,7 +147,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital platforms (checked 2026-10-29)
+- Not available on modern digital platforms as of October 2026
 
 **Download / Preservation**
 - [Internet Archive - Demo Version](https://archive.org/details/n4demo)[^ref-1]
@@ -169,7 +176,7 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 [^ref-7]: [Computer Hope](https://www.computerhope.com/games/games/nascar4.htm) – Tracks, controls, minimum system requirements
 [^ref-8]: [Sierra Sports Wiki](https://www.avid.wiki/Sierra_Sports) – Publisher information
 [^ref-9]: [Jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00001365_test.htm) – Controls and wheel support praise
-[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_4) – Latest official patches (1.3.0.6 US, 1.3.1.6 international)
+[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_4) – Latest official patches (1.3.0.6 US, 1.3.1.6 international); 64-bit installer workaround, SecuROM/key, 150 FPS cap
 [^ref-12]: [MobyGames Reviews](https://www.mobygames.com/game/3378/nascar-racing-4/reviews/) – Player review praising physics
 [^ref-13]: [IGN Review](https://www.ign.com/articles/2001/03/10/nascar-racing-4-2) – Randy Magruder's 9.2 review, Editors' Choice; physics, AI, Direct3D/TnL
 [^ref-14]: [Metacritic](https://www.metacritic.com/game/pc/nascar-racing-4/critic-reviews) – Critic review quotes and scores
@@ -187,5 +194,8 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 [^ref-27]: [MobyGames Specs](https://www.mobygames.com/game/3378/nascar-racing-4/specs/) – Minimum OS, CPU, RAM, video memory
 [^ref-28]: [Wikipedia: Death of Dale Earnhardt](https://en.wikipedia.org/wiki/Death_of_Dale_Earnhardt) – Date and venue of the crash
 [^ref-29]: [IGN News Briefs](https://www.ign.com/articles/2001/02/08/news-briefs-190) – Retail release announcement, up to 43 online players
-[^ref-30]: [Edge Online (archived 2012)](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – Next Generation's Top 100 PC Games of the 21st Century, August 25, 2006: #76, estimated sales 260,000, revenues $10.4 million
+[^ref-30]: [Edge Online (archived 2012)](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – The Top 100 PC Games of the 21st Century, page 3 (Edge Staff, August 25, 2006): #76, estimated sales 260,000, revenues $10.4 million
 [^ref-31]: [GameSpot Best and Worst of 2001 (archived 2002)](https://web.archive.org/web/20020206073549/http://gamespot.com/gamespot/features/pc/bestof_2001/p3_08.html) – Best Driving Game award page
+[^ref-32]: [Edge Online (archived 2012)](https://web.archive.org/web/20121122093237/http://www.edge-online.com/features/top-100-pc-games-21st-century/) – Top 100 PC Games of the 21st Century index: list based on units sold; feature copyright Next Generation
+[^ref-33]: [GameSpot: History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – Gord Goble, June 8, 2005; Kaemmer on the GPL engine and beta testing by Kevin Harvick and Dale Earnhardt Jr.
+[^ref-34]: [GameSpot: NASCAR Racing 4 upgrade released](https://www.gamespot.com/articles/nascar-racing-4-upgrade-released/1100-2818296/) – Trey Walker, October 17, 2001; game page lists first release Feb 6, 2001
