@@ -10,7 +10,7 @@ series: Starsiege
 engine: Darkstar
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Starsiege: Tribes was a pioneering multiplayer-focused first-person
   shooter developed by Dynamix and published by Sierra On-Line in 1998, which GameSpot
   later called the first retail FPS designed specifically for multiplayer competition.'
@@ -18,7 +18,7 @@ tags: [1990s, shooter, sierra, starsiege]
 ---
 # Starsiege: Tribes
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,6 +31,7 @@ The game was built around jetpack movement, large outdoor maps and team objectiv
 > **Designer:** [[Scott Youngblood]] (lead design), David Meddish (assistant game designer/writer)[^ref-26]
 > **Director:** Tim Gift[^ref-26]
 > **Executive Producer:** [[Jeff Tunnell]][^ref-26]
+> **Producer:** Ken Embery[^ref-26]
 > **Publisher:** [[Sierra On-Line]][^ref-27]
 > **Engine:** Darkstar[^ref-27]
 > **Platforms:** Microsoft Windows[^ref-8]
@@ -95,7 +96,7 @@ Ladder competition was fierce, and the community later developed individual play
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 8.6/10 | "Ambitious game that successfully delivers a rich and addictive multiplayer gaming experience"[^ref-16] |
-| Next Generation | 5/5 | "Tribes has the design and the technology to be the next standard in Internet action gaming"[^ref-5] |
+| Next Generation | 5/5 | "Tribes has the design and the technology to be the next standard in Internet action gaming"[^ref-5][^ref-41] |
 | IGN | 9.3/10 | Editors' Choice; review signed Trent C. Ward[^ref-32] |
 | PC Gamer US | 92% | "The new high-water mark" (April 1999)[^ref-36] |
 | GameZone | 9 | Overall 9; Game Play 10, Graphics 9, Sound 8; reviewer Kemuel[^ref-35] |
@@ -106,17 +107,17 @@ Ladder competition was fierce, and the community later developed individual play
 
 ### Modern Assessment
 
-Modern retrospective reviews have maintained the game's reputation as a classic. Metacritic shows an 8.7/10 user score based on 28 user ratings[^ref-15], while MobyGames shows a Moby Score of 8.1 and a critic average of 86% from 22 reviews[^ref-4]. As of October 2026, ModDB's community rates it 9.2/10 from 29 votes[^ref-10]. Long-term players continue to praise the game, with one 2021 review calling it "Still the best online multiplayer game, 23 years later..."[^ref-9].
+Modern retrospective reviews have maintained the game's reputation as a classic. Metacritic shows an 8.7/10 user score based on 28 user ratings[^ref-15], while MobyGames shows a Moby Score of 8.1 and a critic average of 85% from 23 reviews[^ref-4]. As of October 2026, ModDB's community rates it 9.2/10 from 29 votes[^ref-10]. Long-term players continue to praise the game, with one 2021 review calling it "Still the best online multiplayer game, 23 years later..."[^ref-9].
 
 ## Development
 
 ### Release Dates
 
-Sources give different release dates for the game. MobyGames lists December 23, 1998 for both the United States and Canada[^ref-4], and a GameSpot news item posted December 23, 1998 lists "Starsiege Tribes from Sierra" among that day's new releases[^ref-31]. GameSpot's game page and Metacritic both give November 30, 1998[^ref-40][^ref-15]. Sierra's press release dated January 4, 1999 says the game "began shipping to stores" that day[^ref-30], and IGN's page lists January 4, 1999 as the initial release[^ref-32]. That release describes the game as "developed and published by Dynamix, Inc."[^ref-30], while GameSpot and Metacritic list Sierra On-Line as publisher[^ref-40][^ref-15]. The same release expected the game "to sell-in more than 250,000 copies" at an estimated street price of $42[^ref-30].
+Sources give different release dates for the game. MobyGames lists December 23, 1998 for both the United States and Canada[^ref-4], and a GameSpot news item posted December 23, 1998 lists "Starsiege Tribes from Sierra" among that day's new releases[^ref-31]. GameSpot's game page and Metacritic both give November 30, 1998[^ref-40][^ref-15]. Sierra's press release dated January 4, 1999 says the game "began shipping to stores" that day[^ref-30], and IGN's page lists January 4, 1999 as the initial release[^ref-32]. That release describes the game as "developed and published by Dynamix, Inc."[^ref-30], while GameSpot and Metacritic list Sierra On-Line as publisher[^ref-40][^ref-15]. In the same release, Tunnell said "more than 100 Tribes have formed"[^ref-30]. It also expected the game "to sell-in more than 250,000 copies" at an estimated street price of $42[^ref-30].
 
 ### Origins
 
-Starsiege: Tribes was announced by Dynamix, a division of Sierra On-Line, on May 28, 1998[^ref-20]. "After creating Starsiege, we knew the only way we could improve upon computer AI was to tap the ultimate AI: human mind against human mind," said Jeff Tunnell, founder of Dynamix[^ref-20]. Tunnell was executive producer, Tim Gift directed, Scott Youngblood led the design with David Meddish as assistant game designer/writer, and Mark Frohnmayer was lead software engineer; MobyGames credits 68 people in all[^ref-26]. A team of 15 to 20 people took about two and a half years to develop the game[^ref-28].
+Starsiege: Tribes was announced by Dynamix, a division of Sierra On-Line, on May 28, 1998[^ref-20]. "After creating Starsiege, we knew the only way we could improve upon computer AI was to tap the ultimate AI: human mind against human mind," said Jeff Tunnell, founder of Dynamix[^ref-20]. Tunnell was executive producer, Ken Embery producer, Tim Gift directed, Scott Youngblood led the design with David Meddish as assistant game designer/writer, Blake Hutchins also credited as writer, and Mark Frohnmayer was lead software engineer; MobyGames credits 68 people in all[^ref-26]. Rick Overman is credited as director of Starsiege, Mark Brenneman as art director, Barry Drew as lead 3D artist and Luis Royo as illustrator[^ref-26]. A team of 15 to 20 people took about two and a half years to develop the game[^ref-28].
 
 ### Production
 
@@ -165,7 +166,7 @@ Tribes offered several team-based, non-deathmatch modes that, as The Ringer note
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – developer and credits infobox
 [^ref-2]: [GameSpot Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) – description of original Starsiege: Tribes as first multiplayer-focused retail FPS; Tribes 2 additions
-[^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – Moby Score 8.1, critics 86% (22), input devices; release dates (December 23, 1998 US/Canada; April 2004 re-release) read via the MobyGames API
+[^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – Moby Score 8.1, critics 85% (23), input devices; release dates (December 23, 1998 US/Canada; April 2004 re-release)
 [^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) – setting, game types, armor, packs, base systems, weapons, awards, sales, Next Generation review, freeware release
 [^ref-6]: [Super Jump Magazine](https://www.superjumpmagazine.com/tribes-the-great-fps-underdog-part-1/) – retrospective on historical significance as birth of team-based objective shooters
 [^ref-7]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Starsiege:_Tribes) – skiing as an exploitation of the physics engine
@@ -199,3 +200,4 @@ Tribes offered several team-based, non-deathmatch modes that, as The Ringer note
 [^ref-38]: [GameSpot: Get Every Tribes Game for Free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) – Chris Pereira, October 30, 2015: Hi-Rez giveaway of the Tribes series including Starsiege: Tribes
 [^ref-39]: [PlayT1.com](https://playt1.com/) – community site: daily pickup games organized through its Discord; "Tribes is 100% free"
 [^ref-40]: [GameSpot Game Page](https://www.gamespot.com/games/starsiege-tribes/) – first released Nov 30, 1998; publisher listed as Sierra On-Line
+[^ref-41]: [Next Generation, issue 51 (March 1999), p. 87](https://archive.org/details/NEXT_Generation_51) – Starsiege: Tribes review, 5 stars; quote on the page scan
