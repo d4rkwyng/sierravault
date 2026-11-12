@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: Unknown
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 'Lords of the Realm II: Siege Pack is the official expansion pack to
   Lords of the Realm II, developed by Impressions Games and released in June 1997
   by Sierra On-Line, adding a Skirmish mode, new castles and battle maps, Internet
@@ -19,7 +19,7 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II: Siege Pack
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -60,7 +60,7 @@ The included editor is for battle maps. Home of the Underdogs says players "can 
 
 ### Internet Play
 
-In its November 1997 roundup of online gaming services, *Computer Gaming World* listed the Siege Pack among the games offered on Sierra's Internet Gaming System (SIGS)[^ref-28].
+In its November 1997 roundup of online gaming services, *Computer Gaming World* listed the Siege Pack among the games offered on Sierra's Internet Gaming System (SIGS)[^ref-28]. Today, Steam's listing for the Siege Pack edition carries the notice: "Playing over the Internet is no longer possible. Playing through a LAN is still available."[^ref-23]
 
 ## Technical Specifications
 
@@ -73,6 +73,7 @@ In its November 1997 roundup of online gaming services, *Computer Gaming World* 
 | CD-ROM | 2X drive[^ref-17] |
 | Graphics | Local bus video; map editor needs 1 MB video and 16-bit colour[^ref-17] |
 | Input | Mouse[^ref-17] |
+| Sound | Soundcard with DAC[^ref-17] |
 | Multiplayer | Internet, LAN, modem[^ref-8] |
 | Other | Registered copy of Lords of the Realm II[^ref-20][^ref-5] |
 
@@ -100,7 +101,7 @@ A fan-made Windows XP/Vista installer covering Lords of the Realm II and the Sie
 
 ## Legacy
 
-In November 1997 Impressions announced the Lords: Royal Collection, bundling Lords of the Realm, Lords of the Realm II and the Siege Pack[^ref-6]. A sequel, Lords of the Realm III, was developed by Impressions Games and published by Vivendi Universal in 2004[^ref-6].
+In November 1997 Impressions announced the Lords: Royal Collection, bundling Lords of the Realm, Lords of the Realm II and the Siege Pack[^ref-6]. Sierra's press release described a 4 CD-ROM pack with a street price of $54.99, available in November, for Windows 95, and said it "features a MacIntosh version combining Lords of The Realm II and the Siege Pack"; it also stated that Lords of the Realm II "has sold more than 350,000 units worldwide"[^ref-29]. The Siege Pack therefore also reached the Mac (Royal Collection edition) in that bundle. A sequel, Lords of the Realm III, was developed by Impressions Games and published in 2004 by Vivendi Universal[^ref-6] under its Sierra Entertainment label[^ref-30].
 
 The Siege Pack remains available today as part of digital re-releases: the Steam edition of Lords of the Realm II includes the Siege Pack expansion[^ref-23], and GOG's Lords of the Realm Royal Edition includes Lords of the Realm, Lords of the Realm II and the Siege Pack[^ref-24].
 
@@ -136,9 +137,11 @@ The Siege Pack remains available today as part of digital re-releases: the Steam
 [^ref-20]: [Sierra On-Line - Sierra Announces Release of Lords of the Realm II Siege Pack (Wayback Machine)](https://web.archive.org/web/19980214050816/http://sierra.com/info/press/0060.html) – features, David Lester quote, price, requirements
 [^ref-21]: [GameSpot News - Lords of the Realm II Enhanced (Wayback Machine)](https://web.archive.org/web/19990209055722/http://headline.gamespot.com/news/97_06/10_lord/index.html) – release news posted June 10, 1997
 [^ref-22]: [MobyGames - Lords of the Realm II: Siege Pack Credits](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/credits/windows/) – design, production and audio credits
-[^ref-23]: [Steam - Lords of the Realm II](https://store.steampowered.com/app/397350/) – store edition includes the Siege Pack expansion
+[^ref-23]: [Steam - Lords of the Realm II](https://store.steampowered.com/app/397350/) – store edition includes the Siege Pack expansion; multiplayer notice (Internet play no longer possible, LAN available)
 [^ref-24]: [GOG - Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – includes Lords of the Realm II and the Siege Pack
 [^ref-25]: [Computer Game Entertainment, October 1997, p. 102 - Lords of the Realm II Siege Pack review by Robert Mayer (Internet Archive)](https://archive.org/details/cge-03/page/102) – period review; overall rating 81; $25 street price
 [^ref-26]: [Ultimate PC, Issue 2, October 1997, p. 122 - Lords of the Realm II Siege Pack review (Internet Archive)](https://archive.org/details/ultimate-pc-02/page/122) – period review; £9.99, VFM ££; multiplayer verdict
 [^ref-27]: [Computer Gaming World, Issue 156, July 1997 - Sierra On-Line advertisement for the Lords of the Realm II Siege Pack (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_156/page/n184) – advertiser copy: 50 new battle arenas, 20 battlefields, 10 castle designs, burning pitch, Internet combat
 [^ref-28]: [Computer Gaming World, Issue 160, November 1997, p. 248 - online gaming services list (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_160/page/n251) – Sierra Internet Gaming System (SIGS) lists Lords of the Realm 2 Siege Pack among its games
+[^ref-29]: [Sierra On-Line - Impressions Announces: The Lords Royal Collection (Wayback Machine)](https://web.archive.org/web/19980214045908/http://sierra.com/info/press/0066.html) – 4 CD-ROM pack, $54.99, Macintosh version combining Lords of the Realm II and the Siege Pack; 350,000 units
+[^ref-30]: [Wikipedia – Lords of the Realm III](https://en.wikipedia.org/wiki/Lords_of_the_Realm_III) – infobox: publisher Sierra Entertainment
